@@ -1,0 +1,1723 @@
+## Merits cases
+
+### 1. United States v. Wheat
+
+**Question presented.** May an officer stop a specifically described vehicle on a contemporaneous anonymous report of dangerous driving without personally observing a traffic violation?
+
+**What the case is about.** An anonymous caller described repeated dangerous driving, the vehicle, part of its plate, and its route. An officer promptly located the matching vehicle. The Eighth Circuit upheld the stop and denied suppression; the supplied record establishes neither independent observation of unlawful driving nor the caller’s traceability. 
+
+**Precedent applied.** Actual baseline: *Terry*, *Alabama v. White*, and *Florida v. J. L.* Supplied *J. L.* requires circumstances supporting source reliability or a reliable basis for the asserted illegality, not corroboration of identity alone.
+
+**Old sim.** Stone proposed affirmance without a categorical dangerous-driver exception. The old Court adopted a narrower, report-specific rationale through independent alignment; Stone caused no identified change. 
+
+**Stone innovation.** Ordinary judicial move: application of the existing reasonable-suspicion totality.
+
+**Stone’s position now.** Affirm on the narrow supplied facts. The detailed, immediate account of openly observable driving supplies a basis of knowledge beyond a bare accusation attached to a vehicle description. Rungs 4 and 6 select that application over an emergency exception; urgency does not independently establish reliability.
+
+**Doctrinal intent.** Apply *Terry* and distinguish *J. L.* without weakening its reliability requirement.
+
+**Proposed holding.** This report’s contemporaneity, description of observed driving, and prompt vehicle-and-route confirmation together supplied reasonable suspicion for the initial stop.
+
+**Limit.** No authority for a frisk, search, prolonged detention, or a stop based merely on the label “drunk driver.”
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The old narrow fallback remains legally available without creating an offense-based exception.
+
+### 2. Sprietsma v. Mercury Marine
+
+**Question presented.** Does the Federal Boat Safety Act, or the Coast Guard’s decision not to require propeller guards, preempt the asserted state common-law claims?
+
+**What the case is about.** Sprietsma brought design-defect and warning claims concerning an outboard motor without a propeller guard. Illinois’s highest court upheld dismissal on implied-preemption grounds. Defect, causation, and damages are not before the Court. 
+
+**Precedent applied.** Actual and supplied *Freightliner* distinguish regulatory absence from an operative federal restriction. Supplied *Geier* permits conflict preemption where a tort duty obstructs a deliberately adopted federal objective, not merely a preference for uniformity.
+
+**Old sim.** Stone sought reversal and restoration of the claims. The old Court adopted the substance independently; no Stone-caused change was recorded. 
+
+**Stone innovation.** Ordinary statutory interpretation and application of existing preemption law.
+
+**Stone’s position now.** Reverse and remand. The Act’s text and saving clause preserve the relevant common-law channel, and the Coast Guard’s nonregulation supplies no demonstrated federal prohibition on guards or tort liability. Rungs 2 and 3 resolve the case without broader constitutional intervention.
+
+**Doctrinal intent.** Interpret text, apply *Freightliner*, and distinguish *Geier*.
+
+**Proposed holding.** Neither the Act’s express clause nor the identified Coast Guard action preempts these common-law claims. They may proceed under otherwise applicable law.
+
+**Limit.** Reinstatement establishes no product defect or entitlement to compensation.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. The supplied precedent supports the same statutory disposition.
+
+### 3. American Amusement Machine Association v. Kendrick
+
+**Question presented.** May Indianapolis restrict minors’ access to violent video games through content-triggered warnings, shielding, and adult-accompaniment requirements by analogizing violent expression to obscenity?
+
+**What the case is about.** The Seventh Circuit directed preliminary relief against an ordinance regulating coin-operated games depicting graphic violence. The case arrives at the preliminary-injunction stage, not after a final liability trial. 
+
+**Precedent applied.** Actual baseline includes *Ginsberg*, *Reno*, and the established content-based-speech rules. Supplied *Reno* and *Free Speech Coalition* protect expression outside established unprotected categories and require genuine justification for suppression.
+
+**Old sim.** Stone supported the injunction and ordinary First Amendment protection. The old Court adopted those grounds independently. 
+
+**Stone innovation.** Ordinary classification and scrutiny application, not creation of a video-game-specific right.
+
+**Stone’s position now.** Affirm preliminary relief. Violence and interactivity do not themselves establish obscenity, while the supplied evidence does not adequately connect this ordinance’s coverage to the asserted injury or justify its restrictions. Rungs 4 and 6 preserve protection without deciding every future minors’ access law.
+
+**Doctrinal intent.** Apply existing speech categories and strict scrutiny; reserve unnecessary vagueness questions.
+
+**Proposed holding.** The challenged games remain protected expression, and the challengers have established the required likelihood that this content-based ordinance fails strict scrutiny.
+
+**Limit.** No immunity for independently unlawful conduct, obscenity, true threats, or genuinely neutral arcade regulation.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The same protective result follows through existing doctrine, with the preliminary posture kept explicit.
+
+### 4. United States v. Hambrick
+
+**Question presented.** Was acquisition of the specified subscriber and connection information a Fourth Amendment search, and did that acquisition taint the later residential warrant?
+
+**What the case is about.** An Internet provider disclosed basic account, billing, and discrete connection information. The Fourth Circuit upheld denial of suppression. The supplied grant separates those records from communications content, comprehensive activity histories, and statutory compliance. 
+
+**Precedent applied.** Actual *Katz*, *Miller*, and *Smith* govern the limited records question. Supplied *Bond* and *Kyllo* require attention to the examination actually performed but do not establish that every provider-held record is constitutionally protected.
+
+**Old sim.** Stone proposed narrow affirmance, rejecting a blanket abandonment rule for digital information. The old Court independently adopted that distinction. 
+
+**Stone innovation.** Ordinary application and issue reservation.
+
+**Stone’s position now.** Affirm the Fourth Amendment disposition concerning these limited records. Their demonstrated function and revealing capacity do not warrant extending protection beyond the inherited transactional-record cases here. Rungs 4 and 6 prevent both a new universal digital warrant rule and a universal third-party exception.
+
+**Doctrinal intent.** Apply the limited transactional-record precedents and reserve materially different information.
+
+**Proposed holding.** Acquisition of the limited subscriber and discrete connection records described here was not a search under the governing law. The derivative taint argument therefore fails.
+
+**Limit.** No approval of unlawful statutory process, content acquisition, comprehensive histories, or an independently defective home warrant.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The narrow disposition survives without treating intermediary possession as automatic abandonment.
+
+### 5. Peavy v. WFAA-TV, Inc.
+
+**Question presented.** Does publication protection shield defendants alleged to have participated in unlawful interception, and how must the separate interception, use, and disclosure claims be treated?
+
+**What the case is about.** The Fifth Circuit ordered claim-specific proceedings concerning a broadcaster’s alleged involvement in continued interception of telephone conversations. Participation, culpability, causation, and independent sourcing remain disputed. 
+
+**Precedent applied.** Actual and supplied *Bartnicki* protect truthful public-concern publication by a nonparticipating recipient. Knowledge that the source acted unlawfully is not itself procurement or participation.
+
+**Old sim.** Stone supported the claim-specific remand. The old Court adopted the distinction independently, without an attributable Stone change. 
+
+**Stone innovation.** Ordinary application, statutory claim separation, and remand.
+
+**Stone’s position now.** Affirm the remand. Protect passive receipt and publication while permitting claims supported by the defendants’ own legally relevant acquisition conduct. Rungs 2, 4, and 5 require proof of the enacted elements rather than either blanket press immunity or liability by association.
+
+**Doctrinal intent.** Apply *Bartnicki*, distinguish participation, and reserve disputed liability.
+
+**Proposed holding.** *Bartnicki* does not immunize a defendant’s own unlawful procurement or participation. Each statutory claim must nevertheless satisfy its own elements, and mere knowledge of a source’s illegality does not establish participation.
+
+**Limit.** No implied aiding-and-abetting action, automatic liability for knowing receipt, or present damages determination.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The distinction remains sound when knowledge and participation are kept genuinely separate.
+
+### 6. Eldred v. Ashcroft
+
+**Question presented.** Does the Copyright Term Extension Act exceed the Copyright Clause’s limited-times authority or violate the First Amendment?
+
+**What the case is about.** The D.C. Circuit rejected a facial challenge to a twenty-year extension covering existing and future copyrights. Particular fair-use disputes and a future sequence of extensions are outside the supplied case. 
+
+**Precedent applied.** Actual copyright precedents, including *Sony* and *Harper & Row*, supply the historical framework. Supplied fair-use precedent does not establish a constitutional maximum term or decide serial extension.
+
+**Old sim.** Stone supported affirmance and proposed an outer boundary against practical perpetuity. The old Court accepted the present-law result but reserved that boundary; the alignment was independent. 
+
+**Stone innovation.** Ordinary constitutional interpretation and reservation.
+
+**Stone’s position now.** Affirm this facial disposition without announcing a separate practical-perpetuity rule. Congress’s finite adjustment, considered with the retained idea-expression distinction and fair use, does not establish the asserted facial defect. Rung 6 excludes adjudication of hypothetical future extensions.
+
+**Doctrinal intent.** Interpret the Copyright Clause, apply existing speech safeguards, and reserve serial extension.
+
+**Proposed holding.** The challenged finite extension does not establish either constitutional violation asserted in this facial case.
+
+**Limit.** No holding that any nominally finite term is necessarily valid, that repeated extensions are immune from review, or that copyright defeats every as-applied speech claim.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** Yes. Stone retains affirmance but withdraws the unnecessary announcement concerning future practical perpetuity.
+
+### 7. Urofsky v. Gilmore
+
+**Question presented.** May Virginia impose its content-defined prior-approval requirement on public-university research and teaching conducted using state computers?
+
+**What the case is about.** The old export presents the Fourth Circuit’s categorical rejection of the professors’ claim. The supplied new register already contains *Urofsky*, decided May 7, 2001, reversing that categorical approach and remanding the approval process for examination; no subsequent return record is supplied. 
+
+**Precedent applied.** Actual *Pickering*, *Connick*, and *NTEU* provide the background. Supplied *Urofsky* directly controls and preserves institutional authority over genuine curriculum, resources, security, and operations.
+
+**Old sim.** Stone sought reversal and an academic-licensing rule. The old Court instead used existing employee-speech doctrine through independent alignment. 
+
+**Stone innovation.** None. The pertinent extension has already been supplied as controlling law.
+
+**Stone’s position now.** Adhere to the registered reversal and remand, not a newly invented second merits adjudication. Rungs 1, 4, and 5 require application of the existing scholarship holding and assessment of the approval mechanism on a proper record.
+
+**Doctrinal intent.** Apply supplied *Urofsky* and preserve its record-based remand.
+
+**Proposed holding.** Public-university scholarship is not categorically unprotected employment activity. The challenged prospective restriction must receive the review already required by supplied *Urofsky*.
+
+**Limit.** No faculty veto over curriculum, no new academic-freedom test, and no assumed post-remand findings.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** Yes. This is now application of an existing same-case holding, not a new academic-licensing proposal.
+
+### 8. LaVine v. Blaine School District
+
+**Question presented.** Could the school temporarily remove LaVine because of the supplied safety concerns, and could it retain disciplinary consequences unsupported by an established student-speech ground?
+
+**What the case is about.** LaVine gave a teacher a fictional poem depicting violence and suicide. The supplied account also identifies prior fights and reported suicidal thoughts. The Ninth Circuit sustained the initial safety response while preserving relief against adverse documentation; later duration and damages issues remain distinct. 
+
+**Precedent applied.** Actual *Tinker*, *Watts*, and *Goss* govern expression, threats, and school exclusion. Supplied *Hodge* distinguishes accurate confidential records without consequential disability from materially harmful dissemination or legal consequences. No supplied *Kia P.* holding is available.
+
+**Old sim.** Stone proposed a mixed disposition separating protection from punishment. The old Court adopted that distinction independently. 
+
+**Stone innovation.** Ordinary application and correction of the disposition’s scope.
+
+**Stone’s position now.** Affirm the described initial-response and expungement portions; remand only genuinely unresolved continuing-exclusion or liability questions. Rungs 4 and 5 reject reversal of an unidentified lower-court ruling and reject automatic destruction of every accurate safety record.
+
+**Doctrinal intent.** Apply existing school-speech and procedural law; distinguish emergency justification from continuing punishment.
+
+**Proposed holding.** The specific contemporaneous concerns permitted a bounded safety response. They did not, without an independently sufficient legal basis, establish disciplinary guilt or justify indefinite exclusion.
+
+**Limit.** A negative commitment assessment does not automatically resolve every school-safety question; damages and immunity remain separately governed.
+
+**Novelty.** Remedial or dispositional difference.
+
+**Changed from old sim.** Yes. The operative disposition is confined to rulings and unresolved issues actually identified in the supplied record.
+
+### 9. Boroff v. Van Wert City Board of Education
+
+**Question presented.** May a public school prohibit a student’s personal band shirt because administrators consider its message offensive or contrary to the school’s educational mission?
+
+**What the case is about.** The Sixth Circuit sustained restrictions on Boroff’s Marilyn Manson shirts. The supplied justification concerns the band’s perceived values rather than a developed showing of material disruption from the apparel. 
+
+**Precedent applied.** Actual *Tinker*, *Fraser*, and *Hazelwood* distinguish personal expression, school-context vulgarity, and sponsored speech. Supplied *Boring* and *Henerey* concern institutional curricular or sponsored expression, not every student’s clothing.  
+
+**Old sim.** Stone sought reversal under *Tinker*. The old Court adopted that position independently.
+
+**Stone innovation.** Ordinary doctrinal classification and application.
+
+**Stone’s position now.** Reverse and remand. School ownership of the setting does not turn personal apparel into an institutional message, and disapproval of a musician’s worldview does not establish disruption. Rungs 4 and 7 select *Tinker* and distinguish the sponsored-expression cases.
+
+**Doctrinal intent.** Apply *Tinker*; distinguish *Fraser*, *Hazelwood*, *Boring*, and *Henerey*.
+
+**Proposed holding.** The school may not suppress this personal expression solely because its perceived message conflicts with the school’s preferred values.
+
+**Limit.** Genuine disruption, independently regulable vulgarity, and properly fitted neutral dress rules remain separate questions.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The current sources support the same rejection of viewpoint-based suppression.
+
+### 10. FCC v. NextWave Personal Communications Inc.
+
+**Question presented.** Does Bankruptcy Code § 525(a) prohibit cancellation of the licenses because of the debtor’s failure to pay a dischargeable debt, notwithstanding the FCC’s regulatory characterization?
+
+**What the case is about.** The FCC canceled licenses following nonpayment during bankruptcy. The D.C. Circuit set aside that action, and the dispute concerns the statutory reason for cancellation rather than every licensing or debt-collection power. 
+
+**Precedent applied.** Section 525(a)’s text controls. Supplied *MCI* and *Mead* do not permit agency administration to eliminate an operative statutory limitation or manufacture deference where the relevant provision does not assign interpretation to that agency.  
+
+**Old sim.** Stone supported affirmance. The old Court adopted the text-based ground independently.
+
+**Stone innovation.** Ordinary statutory interpretation.
+
+**Stone’s position now.** Affirm. A regulatory objective does not change the immediate statutory cause of the prohibited cancellation. Rungs 2 and 3 resolve the question without replacing administrative-deference doctrine.
+
+**Doctrinal intent.** Interpret § 525(a) and reject an unexpressed regulatory-purpose exception.
+
+**Proposed holding.** The FCC may not revoke the licenses solely because NextWave failed to pay the covered debt. Its characterization of cancellation as regulatory does not create an exception to § 525(a).
+
+**Limit.** Independent regulatory violations and otherwise lawful debt-collection methods remain available.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. The same statutory reading carries the result.
+
+### 11. Miller-El v. Cockrell
+
+**Question presented.** Has Miller-El made the showing necessary for a certificate of appealability on his *Batson* claim?
+
+**What the case is about.** The Fifth Circuit denied a certificate after treating the state court’s rejection of the racial-jury-selection claim as beyond reasonable debate. The supplied evidence includes strike patterns, comparative treatment, questioning, and historical practice. This is an appellate-access decision, not final adjudication of discrimination. 
+
+**Precedent applied.** Actual *Barefoot*, *Slack*, and § 2253(c) distinguish appealability from ultimate success. Supplied *Slack*’s additional procedural-dismissal requirement does not apply when the constitutional claim was rejected on its merits; supplied *Williams* governs the later AEDPA merits inquiry.
+
+**Old sim.** Stone sought a certificate and remand. The old Court independently adopted the threshold distinction. 
+
+**Stone innovation.** Ordinary application of the certificate threshold.
+
+**Stone’s position now.** Reverse and direct issuance of the certificate. The claim is reasonably debatable on the whole supplied showing. Rungs 1 and 4 prevent importing the ultimate habeas burden into the gateway and thereby requiring a prisoner to win before receiving an appeal.
+
+**Doctrinal intent.** Apply the certificate standard and reserve merits.
+
+**Proposed holding.** Miller-El’s *Batson* claim warrants appellate consideration because reasonable jurists could debate its rejection.
+
+**Limit.** No finding of purposeful discrimination, final AEDPA entitlement, or entitlement to a new trial.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. Meaningful appellate access follows from the existing threshold, not a lowered habeas merits standard.
+
+### 12. Herring v. Keenan
+
+**Question presented.** Did the alleged disclosure of Herring’s possible HIV status violate constitutional privacy, and was the governing boundary sufficiently clear when Keenan acted in 1993?
+
+**What the case is about.** Herring alleges disclosure to his sister and employer, an effort to secure his termination, and no legitimate supervisory need. The Tenth Circuit recognized a violation but granted immunity. The supplied account identifies confidentiality rules but does not supply a complete account of the contemporaneous notice materials.  
+
+**Precedent applied.** Actual pre-1993 privacy authorities supply the historical notice inquiry. Supplied *Sheets* and *Doe v. SEPTA* govern the merits; supplied *Saucier*, *Elder*, and *Hope* require contextual notice analysis without a fact twin. Later merits decisions cannot themselves provide 1993 notice.  
+
+**Old sim.** Stone accepted the violation but affirmed immunity for insufficiently specific precedent; the old Court independently agreed.
+
+**Stone innovation.** Ordinary correction of immunity analysis.
+
+**Stone’s position now.** Recognize the violation on the alleged facts, vacate the immunity disposition, and remand for the proper contemporaneous-notice inquiry. Rungs 4 and 5 reject treating the absence of an earlier HIV-probation case as dispositive while avoiding an unsupported final finding about every notice source.
+
+**Doctrinal intent.** Apply the supplied no-fact-twin rule; remand immunity.
+
+**Proposed holding.** Purpose-free dissemination of the intimate information alleged violates constitutional privacy. Immunity cannot be sustained merely because earlier precedent lacked identical facts.
+
+**Limit.** Confidentiality policy alone creates neither a federal right nor automatic liability; the proper damages channel, causation, and remaining defenses stay separate.
+
+**Novelty.** Remedial or dispositional difference.
+
+**Changed from old sim.** Yes. The supplied contextual fair-notice rule prevents affirmance on the old specificity shortcut.
+
+### 13. Ewing v. California
+
+**Question presented.** Is Ewing’s twenty-five-years-to-life sentence grossly disproportionate to his current theft considered with his recidivist history?
+
+**What the case is about.** California affirmed the sentence for theft of three golf clubs valued at approximately $1,200, committed while on parole, against a record including serious burglary and robbery offenses. This is direct, as-applied sentence review. The actual decision date is March 5, 2003, rather than the shifted date used in the export.  ([Legal Information Institute][1])
+
+**Precedent applied.** Actual *Rummel*, *Solem*, and *Harmelin* supply the governing proportionality law. No supplied *Durden* holding may be used to determine the result.
+
+**Old sim.** Stone affirmed by distinguishing the supposed *Durden* precedent. The old Court independently accepted that approach. 
+
+**Stone innovation.** Ordinary proportionality application.
+
+**Stone’s position now.** Affirm, but not because the State called the triggering offense a felony. Considering the present theft, serious predicate history, repeated offending, and actual minimum term, Stone would retain the old conclusion that this sentence does not cross the governing gross-disproportionality boundary. Rung 4 resolves the case.
+
+**Doctrinal intent.** Apply existing proportionality doctrine.
+
+**Proposed holding.** This sentence, assessed against the current offense and the proved serious recidivist history, is not grossly disproportionate under the governing cases.
+
+**Limit.** No categorical approval of three-strikes sentences or rule allowing criminal history to replace consideration of the current offense.
+
+**Novelty.** Application disagreement only.
+
+**Changed from old sim.** Yes in rationale, not disposition: the unsupported *Durden* premise and the felony-label shortcut are removed.
+
+### 14. Lockyer v. Andrade
+
+**Question presented.** Did the state court unreasonably apply clearly established proportionality law when it sustained consecutive sentences producing a fifty-year minimum for the two thefts?
+
+**What the case is about.** Andrade received two consecutive twenty-five-years-to-life terms for petty thefts. The Ninth Circuit upheld federal habeas relief. His convictions are not challenged through the presented issue. 
+
+**Precedent applied.** The substantive baseline is *Rummel*, *Solem*, and *Harmelin* as available when the state court adjudicated the claim. Supplied *Williams v. Taylor* governs § 2254(d)(1). Neither an unsupplied *Durden* nor this run’s Ewing position supplies earlier law.
+
+**Old sim.** Stone supported sentence-limited habeas relief; the old Court independently adopted his combined-operation reasoning. 
+
+**Stone innovation.** Application disagreement under the existing AEDPA standard.
+
+**Stone’s position now.** Affirm relief. The practical fifty-year minimum for these petty triggering offenses makes the case materially different from a genuinely available parole regime. Stone must conclude that the state result was objectively unreasonable, not merely that he prefers a shorter sentence; rungs 1 and 4 preserve that demanding distinction.
+
+**Doctrinal intent.** Apply proportionality through § 2254(d)(1), with sentence-only relief.
+
+**Proposed holding.** Sustaining the supplied fifty-year minimum for these two petty thefts was an objectively unreasonable application of the established gross-disproportionality principle. Relief is limited to resentencing.
+
+**Limit.** No categorical prohibition on consecutive sentences, repeated use of prior convictions, or recidivist enhancement.
+
+**Novelty.** Application disagreement only.
+
+**Changed from old sim.** Yes in its legal basis: the result must stand on the historical proportionality cases and AEDPA, not an unsupplied or backdated simulation rule.
+
+### 15. Scheidler v. National Organization for Women, Inc.
+
+**Question presented.** Did the challenged clinic interference constitute Hobbs Act extortion without obtaining property? Does private civil RICO authorize injunctive relief, a question Stone would not reach after resolving the predicate defect?
+
+**What the case is about.** The Seventh Circuit sustained a civil RICO judgment and injunction arising from coercive interference with clinics. The supplied case concerns interference without defendants obtaining or seeking transferable control over clinic property. 
+
+**Precedent applied.** The Hobbs Act’s enacted acquisition requirement controls. Supplied *NOW v. Scheidler* rejects an economic-motive requirement but expressly preserves the obligation to prove qualifying predicates. 
+
+**Old sim.** Stone sought reversal on the acquisition ground. The old Court adopted that ground independently. 
+
+**Stone innovation.** Ordinary statutory interpretation.
+
+**Stone’s position now.** Reverse the extortion-based judgment and dependent injunction. Protecting practical clinic access cannot justify deleting “obtaining” from the crime; nor does failure of this theory legalize violence or obstruction. Rungs 2, 3, and 6 select the statutory disposition and reserve private RICO injunction authority.
+
+**Doctrinal intent.** Interpret the Hobbs Act, apply the earlier predicate reservation, and reserve the alternative question.
+
+**Proposed holding.** Interference or deprivation without the required acquisition does not establish Hobbs Act extortion. The judgment dependent on those predicates cannot stand.
+
+**Limit.** Independently pleaded, temporally applicable criminal, statutory, and tort remedies remain available on their own elements.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. The acquisition requirement still prevents this particular liability theory.
+
+### 16. United States v. Emerson
+
+**Question presented.** Does the Second Amendment protect the individual interest asserted, and may § 922(g)(8) temporarily disarm a person subject to the qualifying protective order described here?
+
+**What the case is about.** The Fifth Circuit permitted prosecution under § 922(g)(8) following a domestic-violence protective order entered with notice and an opportunity to be heard. The case concerns the indictment and statutory disability, not an adjudicated conviction. 
+
+**Precedent applied.** Actual *United States v. Miller* supplies the inherited background. Supplied *Fraternal Order of Police* sustains danger-linked disqualification grounded in an adequate domestic-violence conviction. *Hale* did not make its broad individual-right rationale controlling. 
+
+**Old sim.** Stone supported an individual right and upheld the temporary disability. The old Court’s alignment was independent. 
+
+**Stone innovation.** Extension of the supplied danger-and-process rationale from a qualifying conviction to the qualifying civil order.
+
+**Stone’s position now.** Affirm the judgment permitting prosecution. Stone accepts the individual right but need not decide its entire scope or incorporation to conclude that this adequately processed, bounded protective restriction is compatible with it. Rungs 6 and 7 confine the extension.
+
+**Doctrinal intent.** Extend danger-linked disqualification; reserve the right’s broader boundaries.
+
+**Proposed holding.** The individual interest asserted does not invalidate the temporary firearm disability attached to the qualifying protective order described in this record.
+
+**Limit.** No categorical approval of ex parte orders, unprocessed allegations, or every civil-order disability; guilt and statutory culpability remain unproved.
+
+**Novelty.** Extension of existing doctrine.
+
+**Changed from old sim.** Yes in scope: the proposal is a bounded extension, not a new comprehensive Second Amendment settlement.
+
+### 17. United States v. Haney
+
+**Question presented.** Does § 922(o)’s prohibition on the relevant machinegun possession violate the Commerce Clause or Second Amendment?
+
+**What the case is about.** The Tenth Circuit sustained Haney’s conviction against those two constitutional objections. His case retains a separate judgment from Emerson’s. 
+
+**Precedent applied.** Supplied *Hale* already sustains § 922(o) as machinegun-market regulation with a necessary anti-evasion possession component. Supplied *Rybar* follows that rule and its as-applied Second Amendment conclusion.  
+
+**Old sim.** Stone supported affirmance on national-market and weapon-category grounds. The old Court independently agreed. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Affirm under *Hale* and *Rybar*. Rung 4 forecloses treating this as an occasion to create either a general firearms police power or a comprehensive individual-right framework. The relevant market relationship, not aggregate social harm from guns, does the commerce work.
+
+**Doctrinal intent.** Apply the supplied machinegun holdings.
+
+**Proposed holding.** The constitutional objections presented are foreclosed by the supplied holdings sustaining this machinegun-market prohibition and its associated possession restriction.
+
+**Limit.** No decision concerning ordinary firearms, unrelated possession statutes, or a merely nominal interstate nexus.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No on the disposition; the asserted new work is now ordinary application of supplied precedent.
+
+### 18. Smith v. Doe
+
+**Question presented.** Does Alaska’s retroactive registration and public-notification scheme impose punishment prohibited by the Ex Post Facto Clause?
+
+**What the case is about.** The Ninth Circuit barred retroactive application of the combined scheme. The supplied account identifies recurring long-term duties and unrestricted public dissemination of identifying, address, and conviction information.  
+
+**Precedent applied.** Actual *Ward*, *Hudson*, and *Mendoza-Martinez* provide the punishment inquiry. Supplied *Ursery*, *Hendricks*, and *Seling* require the clearest proof before civil classification is displaced; *Seling* permits examination of combined actual operation. 
+
+**Old sim.** Stone supported affirmance based on cumulative punitive operation. The old Court adopted that application independently.
+
+**Stone innovation.** Application of the existing effects inquiry to the supplied dissemination system.
+
+**Stone’s position now.** Affirm as to the respondents’ retroactive combined burden and remand severability. Stone would find the required clearest proof in the combination, not in Internet publication or absence of a current-danger hearing alone. Rungs 4 and 5 preserve the demanding burden and narrow relief.
+
+**Doctrinal intent.** Apply the punishment inquiry and distinguish risk-fitted civil notification.
+
+**Proposed holding.** The combined retroactive operation shown here supplies the clearest proof of additional punishment. The resulting prohibition extends only to the punitive application established.
+
+**Limit.** No categorical invalidation of registries, public conviction records, confidential registration, or prospective notification.
+
+**Novelty.** Application disagreement only.
+
+**Changed from old sim.** Yes in formulation: the result remains, but no displaced *Halper* approach or categorical current-risk requirement carries it.
+
+### 19. Connecticut Department of Public Safety v. Doe
+
+**Question presented.** Must Connecticut provide a hearing on present dangerousness when the registry’s eligibility rule turns on the qualifying conviction rather than current risk?
+
+**What the case is about.** The Second Circuit required a dangerousness hearing before public listing. The supplied statute makes conviction the relevant eligibility fact, and the granted claim is procedural. 
+
+**Precedent applied.** Actual *Paul*, *Codd*, and *Mathews* require process responsive to facts material under substantive law. Supplied *W.P. v. Verniero* requires risk procedures where risk classification determines notification, which distinguishes that scheme.
+
+**Old sim.** Stone sought reversal of the hearing requirement. The old Court independently accepted the materiality ground. 
+
+**Stone innovation.** Ordinary procedural-due-process application.
+
+**Stone’s position now.** Reverse the dangerousness-hearing injunction. A hearing cannot correct an eligibility decision by adjudicating a fact the governing rule does not use. Rungs 1, 4, and 6 keep this from becoming either a substantive validation of the statute or a withdrawal of procedures for genuine factual errors.
+
+**Doctrinal intent.** Apply materiality and reserve substantive challenges.
+
+**Proposed holding.** Procedural due process does not require adjudication of current dangerousness merely to apply the conviction-based eligibility rule presented.
+
+**Limit.** Identity, qualifying-conviction accuracy, misleading assertions, substantive liberty, equality, and punishment challenges remain distinct.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. Stone rejects an irrelevant hearing, not meaningful access to the claims that could actually challenge the rule.
+
+### 20. Altman v. Bedford Central School District
+
+**Question presented.** Do the challenged lessons and activities violate the Religion Clauses, and which plaintiffs retain a live claim concerning each activity?
+
+**What the case is about.** The litigation concerns Earth Day, comparative religion, cultural practices, yoga, meditation, and related school activities. The Second Circuit rejected surviving challenges and disposed of others for lack of continuing exposure. 
+
+**Precedent applied.** Actual *Schempp*, *Edwards*, and *Lee* distinguish instruction about religion from religious exercise. Supplied *Santa Fe* governs attributable devotional programming, while supplied *Bauchman* distinguishes graduation’s effect on prospective relief from surviving damages claims. 
+
+**Old sim.** Stone supported the activity-specific jurisdictional and secular-instruction disposition. The old Court independently agreed. 
+
+**Stone innovation.** Ordinary source-specific application.
+
+**Stone’s position now.** Affirm rejection of the surviving claims where the supplied activity is secular instruction rather than compelled observance. Resolve mootness by plaintiff, activity, and remedy, not by dismissing every claim after graduation. Rungs 1 and 4 control.
+
+**Doctrinal intent.** Apply jurisdiction, attribution, and coercion principles separately.
+
+**Proposed holding.** The surviving activities described as secular instruction do not become establishment merely because their subject matter has religious associations.
+
+**Limit.** No approval of compelled worship, devotional exercises disguised as instruction, or categorical dismissal of completed-injury damages claims.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The same outcome survives with remedy-specific jurisdiction kept explicit.
+
+### 21. Cook County v. United States ex rel. Chandler
+
+**Question presented.** Is a municipal corporation a “person” subject to False Claims Act liability, including the enacted damages and penalties?
+
+**What the case is about.** The Seventh Circuit allowed a qui tam action against Cook County. The question is statutory coverage, not whether the County committed fraud. 
+
+**Precedent applied.** The FCA’s text and municipal-person background govern. Supplied *Vermont Agency* excludes sovereign States in this private-relator setting but expressly leaves municipal status open; it also recognizes assignment-based relator standing. 
+
+**Old sim.** Stone supported affirmance. The old Court independently adopted the State-municipality distinction. 
+
+**Stone innovation.** Ordinary statutory interpretation.
+
+**Stone’s position now.** Affirm. A county cannot acquire the State’s statutory exclusion merely by performing governmental work. The enacted remedial structure, rather than a generalized objection to public-entity punishment, governs the available consequences. Rungs 2 and 7 resolve the distinction.
+
+**Doctrinal intent.** Interpret “person” and distinguish *Vermont Agency*.
+
+**Proposed holding.** A municipal corporation falls within the FCA’s covered persons and remains subject to the statute’s applicable remedial provisions.
+
+**Limit.** No finding of falsity, scienter, causation, or damages; no decision that a sovereign State is covered.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. The supplied sovereign exclusion does not defeat municipal coverage.
+
+### 22. Hilton v. City of Wheeling
+
+**Question presented.** Did the differential police response establish a Petition Clause violation or intentional, irrational class-of-one discrimination?
+
+**What the case is about.** Hilton challenged police handling of complaints during a neighborhood feud. The Seventh Circuit upheld summary judgment; the supplied account does not establish materially equivalent incidents treated differently without rational explanation. 
+
+**Precedent applied.** Supplied *Olech* requires intentional differential treatment of materially similar persons without a rational basis, not an additional spite element. Supplied *Valot* protects genuine petitioning against retaliation but does not guarantee a favorable response. 
+
+**Old sim.** Stone supported affirmance while rejecting a separate animus requirement. The old Court independently agreed. 
+
+**Stone innovation.** Ordinary application.
+
+**Stone’s position now.** Affirm on the evidentiary insufficiency described, not categorical immunity for police discretion. Rung 4 preserves equal-protection review but does not transform counts of complaints into proof of comparable circumstances or irrational selection.
+
+**Doctrinal intent.** Apply *Olech* and distinguish petition access from compelled official action.
+
+**Proposed holding.** The supplied differential-response evidence does not establish the required class-of-one comparison, and the Petition Clause does not itself compel favorable enforcement.
+
+**Limit.** No additional ill-will element and no bar to a properly supported discrimination or retaliation claim.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The existing rule remains available to claimants who can satisfy its actual elements.
+
+### 23. Adler v. Duval County School Board
+
+**Question presented.** Does the student-vote arrangement produce protected private expression or an attributable religious exercise within the school-controlled graduation ceremony?
+
+**What the case is about.** Duval’s policy provides a selected opening or closing message in the official ceremony. The supplied history and operation connect the class vote to recurring prayer; the Eleventh Circuit sustained the policy. 
+
+**Precedent applied.** Actual *Lee* governs graduation coercion. Supplied *Santa Fe* bars student elections used to authorize an institutionally structured invocation. The neutral-forum precedents protect genuinely private religious expression, not governmental devotional programming.
+
+**Old sim.** Stone proposed reversal under *Santa Fe*. The old Court independently adopted that application. 
+
+**Stone innovation.** Ordinary application and attribution.
+
+**Stone’s position now.** Reverse on the supplied design and history, not merely because a student might mention religion. Rungs 4 and 7 distinguish a mechanism for inserting an invocation into the official ceremony from an authentic forum for independent expression.
+
+**Doctrinal intent.** Apply *Santa Fe* and *Lee*; distinguish private forum access.
+
+**Proposed holding.** Student selection does not privatize the religious exercise produced by this institutionally structured graduation arrangement.
+
+**Limit.** No prohibition on incidental religious content in genuinely independent remarks, private student prayer, or religious viewpoints in a neutral forum.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The result survives because of the arrangement’s demonstrated operation, not a categorical rule about student-selected speakers.
+
+### 24. Brown v. Legal Foundation of Washington
+
+**Question presented.** Does the state-directed use of pooled IOLTA interest take client property requiring compensation where the clients could not earn net interest individually?
+
+**What the case is about.** The Ninth Circuit sustained Washington’s IOLTA program. The supplied account identifies individually nonearning balances but supplies no independent Washington-law entitlement taking these clients outside the new simulation’s pooling rule. 
+
+**Precedent applied.** Actual *Webb’s* supplies the background. Crucially, supplied *Phillips* rejects client ownership of the program-dependent increment where the specified no-entitlement and no-positive-net-interest conditions hold, contrary to the old export’s premise. 
+
+**Old sim.** Stone treated the interest as property taken for public use but requiring no compensation because the owners lost nothing. The old Court independently accepted that approach. 
+
+**Stone innovation.** None; application of the supplied antecedent ownership holding.
+
+**Stone’s position now.** Affirm on the *Phillips* ownership ground. Rungs 1, 4, and 6 forbid calling this a taking with zero compensation after controlling simulated law has rejected the asserted property interest.
+
+**Doctrinal intent.** Apply supplied *Phillips*; reserve taking and compensation questions unnecessary after ownership fails.
+
+**Proposed holding.** The program-dependent interest described here is not these clients’ private property under supplied *Phillips*. Their takings theory therefore fails at the ownership stage.
+
+**Limit.** No authority to divert interest a client could otherwise earn or lawfully receive.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** Yes. The result remains, but the old property-and-taking rationale directly conflicts with supplied precedent.
+
+### 25. Branch v. Smith
+
+**Question presented.** Could the federal court prevent use of the unprecleared state-court plan and implement single-member districts? Stone would not reach the unnecessary constitutional question concerning state-court redistricting authority.
+
+**What the case is about.** A three-judge federal court blocked an unprecleared Mississippi plan, imposed a congressional plan, and added an alternative constitutional rationale. The consolidated appeals challenge that decree. 
+
+**Precedent applied.** Sections 5, 2c, and 2a(c) supply the statutory issues. Supplied *Lopez v. Monterey County*, *Young v. Fordice*, and *Abrams* govern preclearance and lawful remedial administration.
+
+**Old sim.** Stone sought preservation of the federal plan without the unnecessary constitutional ruling. The old Court independently adopted that sequence. 
+
+**Stone innovation.** Ordinary statutory sequencing and constitutional avoidance.
+
+**Stone’s position now.** Sustain the necessary statutory and remedial portions while eliminating the unnecessary constitutional determination. Rung 3 controls: the case can be resolved through preclearance and Congress’s single-member-district requirement without deciding the full Elections Clause question.
+
+**Doctrinal intent.** Interpret and apply the statutes; reserve constitutional authority.
+
+**Proposed holding.** The unprecleared plan could not govern the election, and the federal court could implement the required lawful single-member arrangement. No broader constitutional decision is necessary.
+
+**Limit.** No general holding that state courts either possess unlimited redistricting power or lack it altogether.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The statutory route remains adequate.
+
+### 26. Lerman v. Board of Elections
+
+**Question presented.** May New York require a candidate-petition witness to reside in the political subdivision where the candidate seeks office?
+
+**What the case is about.** The Second Circuit invalidated the subdivision-residency restriction. The supplied dispute concerns who may circulate or witness petitions, not who may vote for or qualify as the candidate. 
+
+**Precedent applied.** Actual *Meyer* protects petition circulation. Supplied *Buckley v. American Constitutional Law Foundation* rejects unnecessary circulator qualifications where identification, service, verification, and fraud rules address accountability directly.
+
+**Old sim.** Stone supported affirmance in the paired circulation cases. The old Court independently adopted the burden-and-fit reasoning. 
+
+**Stone innovation.** Extension of an existing circulation principle to candidate petitions and subdivision residence.
+
+**Stone’s position now.** Affirm. The State must justify the additional geographic exclusion itself, not invoke election integrity generally. Rungs 4 and 7 support application of the existing expressive and associational protection to this closely related mechanism.
+
+**Doctrinal intent.** Extend the supplied circulation rule and apply its burden-and-fit inquiry.
+
+**Proposed holding.** The subdivision-residency exclusion is not justified where the retained accountability mechanisms address the asserted enforcement interests without that exclusion.
+
+**Limit.** Candidate and signer qualifications, truthful identification, service, verification, and anti-fraud enforcement remain available.
+
+**Novelty.** Extension of existing doctrine.
+
+**Changed from old sim.** No. The same protection follows without an invented circulation framework.
+
+### 27. Krislov v. Rednour
+
+**Question presented.** May Illinois require a nominating-petition circulator to be a registered voter registered within the candidate’s political subdivision?
+
+**What the case is about.** The Seventh Circuit invalidated the registration and local-registration requirements. Those restrictions narrow the people available to help a candidate obtain ballot access. 
+
+**Precedent applied.** Actual *Meyer* and supplied *Buckley v. ACLF* govern the circulation burden. The latter directly rejects voter registration as an unnecessary circulator qualification when more direct accountability rules remain.
+
+**Old sim.** Stone sought affirmance; the old Court adopted the same ground independently. 
+
+**Stone innovation.** Ordinary application, with a limited extension to candidate nominations.
+
+**Stone’s position now.** Affirm. Neither registration nor registration within this subdivision is a substitute for showing that the exclusion materially improves verification or enforcement. Rung 4 rejects additional barriers to political participation unsupported by the asserted function.
+
+**Doctrinal intent.** Apply the circulation precedent and distinguish circulators from electors.
+
+**Proposed holding.** The challenged registration requirements unjustifiably restrict petition circulation where the State retains direct means of identifying circulators and enforcing valid petition rules.
+
+**Limit.** No elimination of signature qualifications, fraud rules, filing requirements, or genuinely necessary administrative safeguards.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The same judgment follows from existing protection for circulation.
+
+### 28. Kentucky Association of Health Plans, Inc. v. Miller
+
+**Question presented.** Are Kentucky’s any-willing-provider laws saved from ERISA preemption as laws regulating insurance?
+
+**What the case is about.** The Sixth Circuit held the laws saved. They regulate the provider-network obligations of the covered insurers rather than merely imposing an incidental economic effect on a plan. 
+
+**Precedent applied.** Supplied *UNUM* and *Rush Prudential* already protect insurance-specific rules affecting the insurance relationship, while preserving ERISA’s remedial structure. The deemer clause remains a separate limitation.
+
+**Old sim.** Stone sought affirmance. The old Court independently adopted a revised two-condition saving-clause formulation. 
+
+**Stone innovation.** Ordinary saving-clause application; no replacement test is necessary.
+
+**Stone’s position now.** Affirm through the received saving-clause doctrine. These insurance-directed obligations affect the product and insurer-insured relationship. Rung 4 selects that adequate application instead of reformulating the entire inquiry.
+
+**Doctrinal intent.** Apply the insurance saving clause and distinguish direct regulation of self-funded plans.
+
+**Proposed holding.** Kentucky’s insurance-directed provider-network requirements fall within the saving clause as applied to the covered insurance arrangements.
+
+**Limit.** No enlargement of private ERISA remedies and no displacement of the deemer clause’s protection for self-funded plans.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** Yes in doctrinal ambition: the judgment remains, but Stone proposes no new two-condition saving-clause test.
+
+### 29. State Farm Mutual Automobile Insurance Co. v. Campbell
+
+**Question presented.** Does the punitive award violate due process because of its size and reliance on out-of-state or unrelated conduct?
+
+**What the case is about.** Utah reinstated a $145 million punitive award accompanying $1 million in compensatory damages, relying substantially on nationwide practices and conduct unrelated to the Campbells’ injury. 
+
+**Precedent applied.** Supplied *Gore* provides nonexclusive excessiveness guideposts without a fixed ratio; supplied *Cooper Industries* requires independent appellate review of constitutional excessiveness. 
+
+**Old sim.** Stone sought reversal and a properly confined reassessment. The old Court adopted that approach independently. 
+
+**Stone innovation.** Ordinary application and remedial correction.
+
+**Stone’s position now.** Reverse and remand. The State may punish the culpability associated with the plaintiffs’ injury, not use their suit to adjudicate an unbounded national course of conduct. Rungs 4 and 5 require removal of impermissible considerations and lawful reassessment, not a judicially invented numerical cap.
+
+**Doctrinal intent.** Apply *Gore* and *Cooper Industries*; choose a confined remand.
+
+**Proposed holding.** The award cannot stand on the punitive considerations identified. The amount must be reassessed under the existing guideposts and the forum’s lawful punitive authority.
+
+**Limit.** Related conduct may remain evidentially relevant to culpability; this position creates neither a universal ratio nor a categorical evidentiary exclusion.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The existing guideposts supply the necessary correction.
+
+### 30. Virginia v. Black
+
+**Question presented.** May Virginia prohibit cross burning with intent to intimidate, and may the act itself constitute prima facie evidence of that intent?
+
+**What the case is about.** Virginia’s highest court invalidated the statute and vacated the consolidated convictions. The prosecutions include expressive rally conduct and cross burnings directed at identifiable neighbors, requiring defendant-specific treatment. 
+
+**Precedent applied.** Actual *Watts* and *R.A.V.* distinguish threats, protected expression, and impermissible discrimination within speech categories. Existing proof rules require the prosecution to establish the enacted intent.
+
+**Old sim.** Stone supported the intimidation prohibition and rejected the evidentiary shortcut. The doctrine aligned independently; his documented contribution was the correction to defendant-specific remedial treatment. 
+
+**Stone innovation.** Ordinary statutory and constitutional application, plus a remedial correction.
+
+**Stone’s position now.** Sustain the intent-based prohibition, reject the prima facie shortcut, and dispose of each prosecution according to its instructions, evidence, and procedural protections. Rungs 4 through 6 make a general recklessness rule unnecessary because this statute requires intent to intimidate.
+
+**Doctrinal intent.** Apply threat doctrine, invalidate the proof shortcut, and reserve the general minimum mental state.
+
+**Proposed holding.** Virginia may prohibit cross burning proved to be intended as intimidation. It may not dispense with proof of that intent through the challenged inference.
+
+**Limit.** No punishment of ideology alone, automatic conviction from the symbol, or disregard of acquittals and double-jeopardy protections.
+
+**Novelty.** Remedial or dispositional difference.
+
+**Changed from old sim.** Yes in scope: Stone drops the unnecessary universal threat-culpability proposal while retaining the defendant-specific correction.
+
+### 31. Missouri Republican Party v. Lamb
+
+**Question presented.** Do Missouri’s limits on direct and in-kind party contributions to candidates violate the First Amendment?
+
+**What the case is about.** The Eighth Circuit sustained office-scaled contribution limits after proceedings addressing their operation. The supplied question concerns transferred or contribution-like value, not a categorical limit on independent party advocacy. 
+
+**Precedent applied.** Actual *Buckley* and supplied *Colorado Republican I* and *II* distinguish independent expenditures from proved coordination. Supplied *Colorado II* requires an operative transaction-specific connection, not shared party identity or ideology.
+
+**Old sim.** Stone sought affirmance. The old Court independently accepted the classification and closely drawn review. 
+
+**Stone innovation.** Ordinary transaction classification and application.
+
+**Stone’s position now.** Affirm the limits on the contribution-like transactions presented. Rung 4 requires classification before scrutiny and preserves the independent-spending side of the line; anticircumvention cannot become a presumption that every party message is coordinated.
+
+**Doctrinal intent.** Apply contribution classification and closely drawn review.
+
+**Proposed holding.** The challenged limits may govern direct contributions and value proved to function as coordinated candidate support.
+
+**Limit.** Independent advocacy remains protected, and party membership or ideological agreement alone proves no coordination.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The same result follows from the supplied transaction-specific rule.
+
+### 32. Dole Food Co. v. Patrickson and the separately docketed Dead Sea companies’ petition
+
+**Question presented.** Does indirect state ownership establish instrumentality status under the FSIA, and when is status measured? Stone would not decide Dole’s separately presented removal theory where the supplied disposition calls for dismissal of that writ.
+
+**What the case is about.** The Ninth Circuit rejected the Dead Sea companies’ claimed instrumentality status and Dole’s separate federal-common-law removal theory. The petitions retain distinct procedural dispositions. 
+
+**Precedent applied.** The FSIA’s text and actual *Bancec* corporate-separateness principles provide the background. No supplied holding decides this ownership-and-timing question.
+
+**Old sim.** Stone proposed direct ownership measured at filing, with separate treatment of Dole’s writ. The old Court independently adopted the statutory ground. 
+
+**Stone innovation.** Ordinary statutory interpretation.
+
+**Stone’s position now.** Affirm the Dead Sea companies’ disposition and dismiss Dole’s separate writ as improvidently granted on the supplied procedural basis. Rungs 1 and 2 prevent indirect corporate ownership from being treated as the State’s direct ownership.
+
+**Doctrinal intent.** Interpret the ownership clause and filing-time requirement; reserve the separate theory.
+
+**Proposed holding.** The ownership route requires the statutory majority interest to be held directly by a foreign State or political subdivision when suit is filed.
+
+**Limit.** The independent “organ” route, genuinely different ownership structures, other jurisdictional grounds, and ultimate tort liability remain unresolved.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. The statutory construction and distinct dispositions survive.
+
+### 33. Satellite Broadcasting and Communications Association v. FCC
+
+**Question presented.** Does “carry one, carry all,” when triggered by use of the statutory local-signal license, violate the First Amendment?
+
+**What the case is about.** The Fourth Circuit sustained the carriage requirement and implementing rules. The obligation concerns qualifying local stations in a market where the carrier uses the statutory retransmission license. 
+
+**Precedent applied.** Supplied *Turner I* and *II* govern content-neutral carriage regulation, reasonable predictive judgments, and assessment of actual editorial displacement. The requirement does not become unreviewable merely because it accompanies a statutory benefit.
+
+**Old sim.** Stone supported affirmance on a capacity-sensitive application of *Turner*. The old Court independently agreed. 
+
+**Stone innovation.** Ordinary application to the satellite arrangement.
+
+**Stone’s position now.** Affirm on the supplied record. Preserving local broadcasting and source multiplicity must be connected to the actual carriage burden, but Congress need not prove predictive institutional judgments as individualized trial facts. Rung 4 controls.
+
+**Doctrinal intent.** Apply content-neutral scrutiny and the supplied carriage precedents.
+
+**Proposed holding.** The market-specific requirement presented satisfies the governing content-neutral review on the supplied record.
+
+**Limit.** No authority for viewpoint-based carriage, unlimited capacity demands, or a rule that accepting a statutory license waives all speech rights.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The same result follows without an unconstitutional-conditions shortcut.
+
+### 34. Demore v. Kim
+
+**Question presented.** May the Government continue the specified mandatory immigration detention without an individualized opportunity to contest danger or flight risk?
+
+**What the case is about.** The Ninth Circuit sustained conditional habeas relief requiring a bond hearing for a lawful permanent resident detained during removal proceedings. The question concerns detention, not final removability. 
+
+**Precedent applied.** Actual *Carlson*, *Flores*, *Salerno*, and *Zadvydas* provide distinct detention settings. Supplied *St. Cyr* protects the appropriate legal-review channel; supplied *Sahhar* requires civil confinement to remain connected to a current lawful predicate. *Zadvydas* is available actual law, not an additional supplied simulated holding.
+
+**Old sim.** Stone sought an individualized hearing after initial processing. The old Court adopted that structure independently and added a clear-and-convincing burden; that addition was not Stone-caused. 
+
+**Stone innovation.** Extension of existing individualized civil-detention protection.
+
+**Stone’s position now.** Affirm hearing relief. Read the mandatory text honestly, then identify its constitutional limit rather than rewriting it as discretionary detention. Rungs 4 and 7 support the extension; no six-month rule or invented deadline is imported.
+
+**Doctrinal intent.** Extend due-process protection and preserve habeas review.
+
+**Proposed holding.** Following initial processing, continued detention in this setting requires a meaningful opportunity for individualized review of the detention justification.
+
+**Limit.** No automatic release, determination of removability, or adoption of every proof requirement used in another confinement regime.
+
+**Novelty.** Extension of existing doctrine.
+
+**Changed from old sim.** No on the hearing disposition; the extension and the source of any burden must now be stated accurately.
+
+### 35. Inyo County v. Paiute-Shoshone Indians
+
+**Question presented.** May the Tribe use § 1983 to vindicate sovereign immunity from execution of the state search warrant?
+
+**What the case is about.** County officials sought tribal employment records under a warrant. The Ninth Circuit allowed the Tribe’s § 1983 theory to proceed, while potentially independent claims remain material to the proper disposition. 
+
+**Precedent applied.** The particular rights protected by § 1983 must be identified. Supplied sovereign-immunity and tribal-jurisdiction decisions do not themselves create that cause of action; *Vermont Agency* also cautions against transporting “person” across materially different statutory contexts.
+
+**Old sim.** Stone proposed rejection of the § 1983 sovereignty theory. The old Court used vacatur and remand to preserve independent claims, through independent alignment. 
+
+**Stone innovation.** Ordinary statutory rights-holder analysis and remedial selection.
+
+**Stone’s position now.** Vacate and remand. The Tribe cannot use this § 1983 theory simply to enforce its distinct sovereign status, but the judgment should not eliminate separately preserved claims without adjudicating their sources. Rungs 2 and 5 control.
+
+**Doctrinal intent.** Interpret § 1983 and choose claim-preserving remand.
+
+**Proposed holding.** The asserted sovereign-immunity interest does not support the § 1983 claim presented. Independently grounded surviving claims require separate consideration.
+
+**Limit.** No blanket declaration that tribes lack ordinary property or procedural rights, and no approval of the warrant’s execution.
+
+**Novelty.** Remedial or dispositional difference.
+
+**Changed from old sim.** Yes in disposition: vacatur and remand accurately preserve the potentially independent claims rather than implying wholesale dismissal.
+
+### 36. Chavez v. Martinez
+
+**Question presented.** Does coercive questioning violate the Self-Incrimination Clause without use in a criminal case, and may the alleged interrogation independently violate substantive due process?
+
+**What the case is about.** Martinez was questioned during emergency treatment after being shot. He was never prosecuted, and his statements were not used in a criminal case. The Ninth Circuit allowed constitutional damages claims to proceed and rejected immunity. 
+
+**Precedent applied.** Actual self-incrimination law addresses compelled criminal use. Supplied *Dickerson*, *Albright*, and *County of Sacramento v. Lewis* keep distinct sources distinct; supplied *Saucier* and *Hope* require merits-first, contextual immunity review.
+
+**Old sim.** Stone rejected the completed self-incrimination theory and supported a separate due-process inquiry. The old Court independently adopted a narrower source-specific remand. 
+
+**Stone innovation.** Ordinary source separation and remand.
+
+**Stone’s position now.** Reject the Self-Incrimination Clause theory presented and remand the distinct bodily or medical-abuse claim. Rungs 1, 4, and 5 prevent both converting every interrogation defect into criminal-use liability and treating absence of prosecution as immunity for abusive conduct.
+
+**Doctrinal intent.** Apply the criminal-use boundary; preserve and separately adjudicate due process.
+
+**Proposed holding.** The absence of criminal use defeats the self-incrimination theory presented. It does not foreclose a separately supported due-process claim concerning the interrogation’s conduct and effects.
+
+**Limit.** No present finding of conscience-shocking abuse, no extra physical-injury prerequisite, and no automatic immunity merely because prosecution never occurred.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The separate due-process channel remains real without assuming its merits.
+
+### 37. Nevada Department of Human Resources v. Hibbs
+
+**Question presented.** Did Congress validly authorize damages against States for violations of the FMLA family-care provision?
+
+**What the case is about.** The Ninth Circuit sustained abrogation. The supplied legislative account identifies state leave policies and administration built around sex stereotypes; Hibbs’s individual entitlement, causation, and damages remain undecided.  
+
+**Precedent applied.** Supplied *Virginia* supplies intermediate scrutiny. Supplied *Boerne* imposes specific limits on broader-than-constitutional legislation; *Garrett* subsequently recognizes bounded preventive claim classes, not unrestricted statutory abrogation. The old export’s generic congruence-and-proportionality description cannot replace those rules.  
+
+**Old sim.** Stone supported family-care abrogation as ordinary application. The old Court independently adopted that reasoning.
+
+**Stone innovation.** A proposed doctrinal modification, not a new test.
+
+**Stone’s position now.** Affirm, but candidly extend *Garrett*’s bounded preventive-duty principle and modify *Boerne* insofar as its exclusive mechanisms would foreclose this family-care floor. Under rung 8, Stone’s reason is that an appropriate, finite, sex-neutral remedy may prevent documented discriminatory administration without requiring each employee to prove the very stereotyping the prophylaxis addresses. The narrower claim-specific and Article I routes do not establish the categorical family-care proposition presented.
+
+**Doctrinal intent.** Extend bounded prophylaxis and modify the exclusivity of *Boerne*’s permissible mechanisms.
+
+**Proposed holding.** Congress may enforce the limited family-care entitlement against States through damages because its bounded, gender-neutral operation directly addresses the documented mechanism of unconstitutional sex discrimination.
+
+**Limit.** No general federal leave right, self-care holding, or wholesale replacement of § 5 doctrine; ordinary statutory limits and settled judgments remain intact.
+
+**Novelty.** Modification of existing doctrine.
+
+**Changed from old sim.** Yes. The result survives only through an openly defended extension and modification, not by misdescribing supplied *Boerne*.
+
+### 38. Dastar Corp. v. Twentieth Century Fox Film Corp.
+
+**Question presented.** Does “origin” in Lanham Act § 43(a)(1)(A) identify the producer of the goods sold or also the earlier creator of their communicative content?
+
+**What the case is about.** Dastar sold a video product incorporating public-domain footage without the attribution demanded by the earlier producer. The Ninth Circuit imposed Lanham Act liability. 
+
+**Precedent applied.** The statutory language governs against the actual copyright and unfair-competition background. Supplied *Qualitex* and *TrafFix* protect source identification without creating perpetual ownership of content.
+
+**Old sim.** Stone sought reversal on the physical-goods reading. The old Court adopted that reading independently. 
+
+**Stone innovation.** Ordinary statutory interpretation.
+
+**Stone’s position now.** Reverse. An attribution claim cannot recreate expired content control by treating the communicative work’s original author as the statutory origin of every later tangible copy. Rungs 2 and 3 select text and statutory boundaries rather than a new First Amendment rule.
+
+**Doctrinal intent.** Interpret statutory origin and preserve copyright-trademark separation.
+
+**Proposed holding.** The origin provision invoked concerns the producer of the goods offered for sale, not the earlier creator of communicative content incorporated in those goods.
+
+**Limit.** No immunity for independently proved false advertising, false source identification, contractual breach, or infringement of an unexpired right.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. The same construction prevents trademark law from silently extending copyright.
+
+### 39. Beneficial National Bank v. Anderson
+
+**Question presented.** Do National Bank Act §§ 85 and 86 completely preempt the asserted state-law usury claims and permit removal?
+
+**What the case is about.** The Eleventh Circuit required remand, treating the federal issue as a defense. The banks contend that Congress instead supplied the exclusive cause of action for the particular usury claim. 
+
+**Precedent applied.** Actual *Avco* and *Metropolitan Life* recognize complete preemption where an exclusive federal cause replaces the state cause. Supplied *Rivet* preserves the distinction between that replacement and an ordinary federal defense. 
+
+**Old sim.** Stone supported removal under the existing exception. The old Court independently agreed. 
+
+**Stone innovation.** Ordinary application of complete preemption.
+
+**Stone’s position now.** Reverse the remand ruling for the usury claims covered by the exclusive statutory scheme. Rungs 1 and 2 preserve a federal forum without treating every national-bank defense as removal authority.
+
+**Doctrinal intent.** Interpret statutory exclusivity and apply complete preemption.
+
+**Proposed holding.** The covered usury claims arise under the exclusive federal cause supplied by §§ 85 and 86 and are removable.
+
+**Limit.** No decision that the charges were lawful, that every fee is interest, or that claims against nonbanks and unrelated state claims are displaced.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The action changes forum rather than disappearing.
+
+### 40. Desert Palace, Inc. v. Costa
+
+**Question presented.** Must a Title VII plaintiff produce direct evidence before obtaining a mixed-motive instruction under § 2000e-2(m)?
+
+**What the case is about.** The en banc Ninth Circuit reinstated Costa’s judgment and rejected a direct-evidence prerequisite. The issue concerns permissible proof, not automatic liability whenever discrimination is alleged. 
+
+**Precedent applied.** The Civil Rights Act of 1991 and ordinary preponderance principles govern. Supplied *Reeves* recognizes the legitimate role of circumstantial evidence and forbids improper reweighing of supported discrimination findings.
+
+**Old sim.** Stone supported affirmance. The old Court independently adopted the text-based reading. 
+
+**Stone innovation.** Ordinary statutory interpretation rejecting an added proof barrier.
+
+**Stone’s position now.** Affirm. Congress did not require a particular evidentiary form, and a direct-evidence demand would exclude proof capable of establishing the enacted element. Rungs 2 and 4 resolve the case without changing the ultimate burden of persuasion.
+
+**Doctrinal intent.** Interpret the statute and reject an extra-statutory evidentiary prerequisite.
+
+**Proposed holding.** Direct evidence is not required; otherwise sufficient circumstantial evidence may establish that a protected characteristic was a motivating factor.
+
+**Limit.** The plaintiff retains the statutory burden, and the same-decision provision retains its enacted remedial consequences.
+
+**Novelty.** Statutory or constitutional interpretation.
+
+**Changed from old sim.** No. Removing an invented evidentiary gate does not require inventing a new burden.
+
+### 41. Grutter v. Bollinger
+
+**Question presented.** Does the Law School’s individualized consideration of race violate Equal Protection or Title VI?
+
+**What the case is about.** The Sixth Circuit upheld the policy. The supplied account describes whole-file review, multiple forms of experience, no automatic racial score, documented educational benefits, and consideration of alternatives. 
+
+**Precedent applied.** Actual *Bakke* supplies the educational-diversity rationale, without treating every part of that fractured decision as a universal rule. Supplied *Adarand* and *Brewer* require strict scrutiny where race affects an identified person’s discrete benefit; the structural-access branch does not lower review here. 
+
+**Old sim.** Stone supported the policy under strict scrutiny. The old Court independently accepted the educational-interest and individualized-use grounds. 
+
+**Stone innovation.** Extension of an existing educational-diversity rationale, not a Stone-specific admissions test.
+
+**Stone’s position now.** Affirm on the supplied operation. Genuine cross-racial educational participation can supply the compelling interest, while individualized treatment, alternatives, and meaningful temporal limits perform the existing tailoring work. Rungs 4 and 7 control; institutional assertion alone does not carry the burden.
+
+**Doctrinal intent.** Apply strict scrutiny and extend the supported *Bakke* rationale.
+
+**Proposed holding.** The policy described satisfies strict scrutiny through its demonstrated educational objective and nonmechanical, individually assessed use of race.
+
+**Limit.** No racial entitlement, quota, presumed viewpoint, permanent preference, or judicially invented expiration date.
+
+**Novelty.** Extension of existing doctrine.
+
+**Changed from old sim.** No. The result survives under strict scrutiny, not a relabeling of individual admissions as structural remediation.
+
+### 42. Gratz v. Bollinger
+
+**Question presented.** Does the automatic twenty-point racial award violate Equal Protection and Title VI?
+
+**What the case is about.** The Court reviews the district court’s approval of the then-current undergraduate system before appellate judgment. The challenged racial award operates mechanically across the designated groups. 
+
+**Precedent applied.** Supplied *Adarand* and *Brewer* govern discrete race-determinative benefits. This run’s Grutter position is not precedent, so Stone may assume the asserted educational interest without importing a newly voted admissions rule.
+
+**Old sim.** Stone sought invalidation and a broader restriction on fixed racial factors. The old Court invalidated this award but reserved materially different numerical mechanisms; the alignment was independent. 
+
+**Stone innovation.** Ordinary strict-scrutiny application.
+
+**Stone’s position now.** Reverse. The automatic award substitutes group membership for the individualized contribution the asserted interest is supposed to serve. Rungs 4 and 6 permit decision on tailoring without a universal rule about numbers or a new compelling-interest holding.
+
+**Doctrinal intent.** Apply strict scrutiny and reserve broader admissions questions.
+
+**Proposed holding.** The automatic racial award in this system is not narrowly tailored to the educational interest asserted, even assuming that interest is compelling.
+
+**Limit.** No conclusion that every numerical component is inherently unconstitutional or that race-neutral measures require heightened scrutiny.
+
+**Novelty.** Application disagreement only.
+
+**Changed from old sim.** Yes in scope: Stone drops the unnecessary categorical rule for every future fixed-factor arrangement.
+
+### 43. United States v. American Library Association
+
+**Question presented.** May Congress condition the specified library assistance on Internet filtering where adults can obtain effective unblocking or disabling for lawful use?
+
+**What the case is about.** A three-judge court facially invalidated the funding condition. The supplied controversy includes overblocking and the practical operation of adult access, not merely Congress’s description of the filter. 
+
+**Precedent applied.** Supplied *Reno*, *Free Speech Coalition*, and *Playboy* preserve lawful adult expression. Institutional administration and unconstitutional-conditions principles remain distinct; funding does not automatically resolve the speech question.
+
+**Old sim.** Stone rejected facial invalidation on an effective-adult-access ground. The old Court independently adopted that boundary. 
+
+**Stone innovation.** Ordinary institutional classification and challenge-specific disposition.
+
+**Stone’s position now.** Reverse the facial judgment only insofar as the program permits prompt, nonstigmatizing adult access to lawful material. Rungs 3 and 6 distinguish a constitutionally operable implementation from libraries that make access dependent on discretion, explanation, or consequential delay. He does not rewrite statutory “may” into an unlimited statutory entitlement.
+
+**Doctrinal intent.** Reject the facial challenge while preserving as-applied adult-access review.
+
+**Proposed holding.** The funding condition is not facially invalid where filtering is administered with prompt and effective adult access to lawful material.
+
+**Limit.** No approval of inaccessible unblocking, compelled disclosure of reading interests, viewpoint discrimination, or every funding condition on speech.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The adult-access condition must operate in practice, not exist only on paper.
+
+### 44. Old Person v. Cooney
+
+**Question presented.** Did Montana’s plan unlawfully dilute American Indian voting strength under § 2, and was it adopted with prohibited discriminatory purpose?
+
+**What the case is about.** The Ninth Circuit preserved rejection of the purpose claim but remanded the results claim because of errors involving bloc voting and proportionality. The relevant *Gingles* predicates were resolved below for that remand. 
+
+**Precedent applied.** Actual *Gingles* and supplied *De Grandy* require a genuine totality inquiry: proportionality is relevant but neither dispositive nor a safe harbor. Section 5 does not govern the presented claims.
+
+**Old sim.** Stone supported the mixed disposition and proposed additional § 2–§ 5 coordination. The old Court independently adopted the existing-doctrine analysis and reserved coordination. 
+
+**Stone innovation.** Ordinary statutory application and remand.
+
+**Stone’s position now.** Affirm the described mixed judgment. Local electoral opportunity must be examined without allowing broader success to conclusively defeat the results claim, while statutory results do not themselves prove discriminatory purpose. Rungs 4 through 6 resolve the case.
+
+**Doctrinal intent.** Apply *Gingles* and *De Grandy*; reserve Section 5.
+
+**Proposed holding.** The results claim requires reconsideration under the proper totality analysis, without treating proportionality as conclusive. The separately resolved purpose claim remains distinct.
+
+**Limit.** No automatic liability from the predicates, entitlement to maximization, or hybrid of §§ 2 and 5.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** Yes in scope: the unnecessary coordination proposal is removed.
+
+### 45. Stogner v. California
+
+**Question presented.** May California revive a criminal prosecution after the governing limitations period fully expired before enactment of the revival law?
+
+**What the case is about.** California’s courts permitted prosecution under a law reopening expired periods for specified sexual offenses. The issue concerns revival of a completed bar, not extension of a still-running period. 
+
+**Precedent applied.** Actual *Calder* and subsequent ex post facto law provide the baseline. Supplied *Carmell* rejects retrospective relaxation of legally necessary conviction conditions, although it does not itself decide limitations revival.
+
+**Old sim.** Stone sought reversal. The old Court independently adopted the completed-bar distinction. 
+
+**Stone innovation.** Extension of existing ex post facto protection to the completed limitations defense.
+
+**Stone’s position now.** Reverse. The seriousness of the alleged offense does not itself permit the State to restore criminal exposure after the legal bar became complete. Rungs 2 and 7 identify the bounded extension without inventing a general constitutional law of repose.
+
+**Doctrinal intent.** Extend the ex post facto boundary and distinguish unexpired limitations periods.
+
+**Proposed holding.** The State may not revive this criminal prosecution after the applicable limitations period fully expired.
+
+**Limit.** No determination concerning unexpired periods, civil limitations, proof of the underlying allegations, or an independently timely prosecution.
+
+**Novelty.** Extension of existing doctrine.
+
+**Changed from old sim.** No. The same narrow distinction carries the result.
+
+### 46. Trans Union LLC v. FTC
+
+**Question presented.** Accepting the statutory classification outside the limited grant, does the order restricting the challenged credit-derived marketing lists violate the First Amendment?
+
+**What the case is about.** The D.C. Circuit sustained an order concerning lists whose buyers could infer selected credit characteristics about each named consumer. The corrected grant excludes FCRA coverage, agency authority, and evidentiary-review questions. 
+
+**Precedent applied.** Actual *Central Hudson* and supplied *Ibanez*, *Rubin*, *Greater New Orleans Broadcasting*, and *Thompson* require real advancement and fit. Statutory prohibition cannot circularly establish that the speech is unprotected.
+
+**Old sim.** Stone supported affirmance within the corrected speech-only grant. The old Court independently agreed. 
+
+**Stone innovation.** Ordinary commercial-speech application.
+
+**Stone’s position now.** Affirm. The list’s informational payload includes the nonpublic financial selection criterion, not merely otherwise available names and addresses; the restriction addresses that disclosure itself. Rungs 1 and 4 keep the analysis within the limited grant and the established scrutiny framework.
+
+**Doctrinal intent.** Apply *Central Hudson* while accepting unreviewed statutory premises.
+
+**Proposed holding.** The challenged order sufficiently advances the identified privacy interest with the required fit as applied to these credit-derived lists.
+
+**Limit.** No general governmental power over truthful information, no ruling on FCRA coverage, and no disposition of public-record journalism or genuinely de-identified data.
+
+**Novelty.** Application disagreement only.
+
+**Changed from old sim.** No. The corrected limited grant, not the superseded broader framing, supplies the case.
+
+### 47. Sell v. United States
+
+**Question presented.** When may the Government forcibly administer antipsychotic medication solely to restore competence for prosecution?
+
+**What the case is about.** The Eighth Circuit approved medication on a record mixing competence restoration, dangerousness, and treatment. The supplied findings do not cleanly establish the distinct rationale needed for the order. 
+
+**Precedent applied.** Actual *Harper*, *Riggins*, *Dusky*, and *Jackson* provide the background. Supplied *Weston* already requires separate rationales, necessity, likely restoration, medical appropriateness, adequate consideration of alternatives, and trial fairness; *Steele* separately governs its civil-treatment setting. 
+
+**Old sim.** Stone sought vacatur and an exceptional competence-restoration framework. The old Court independently adopted the framework. 
+
+**Stone innovation.** None necessary; an existing supplied holding supplies the relevant safeguards.
+
+**Stone’s position now.** Vacate and remand under *Weston*. Rungs 4 and 5 prevent bodily occupation for trial convenience on findings assembled from different justifications. The order cannot be executed merely because some rationale might ultimately support treatment.
+
+**Doctrinal intent.** Apply *Weston* and require rationale-specific adjudication.
+
+**Proposed holding.** The medication order cannot stand without the independently supported findings required by supplied *Weston* for the rationale actually invoked.
+
+**Limit.** No present medication authorization, invented proof quantum, or automatic transfer of civil-commitment rules into criminal competence proceedings.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** Yes. Stone now applies supplied medication law rather than proposing a new four-part framework.
+
+### 48. Federal Election Commission v. Beaumont
+
+**Question presented.** May Congress prohibit the nonprofit corporation’s direct candidate contributions from its general treasury while preserving a segregated voluntary-funding channel?
+
+**What the case is about.** The Fourth Circuit invalidated the restriction as applied to North Carolina Right to Life. The supplied record identifies a segregated political-fund alternative and distinguishes direct contributions from independent advocacy. 
+
+**Precedent applied.** Actual *Buckley* and *MCFL* distinguish contributions from independent expenditures. Supplied *Colorado Republican II* sustains contribution treatment for transferred or coordinated value without collapsing independent advocacy into that category.
+
+**Old sim.** Stone supported reversal and enforcement of the contribution rule. The old Court independently adopted that source-and-channel reasoning. 
+
+**Stone innovation.** Ordinary application of contribution doctrine to the corporate treasury.
+
+**Stone’s position now.** Reverse. The nonprofit’s advocacy mission does not convert a direct candidate contribution into an independent expenditure, and the voluntary channel preserves meaningful natural-person political participation. Rungs 4 and 7 control the classification.
+
+**Doctrinal intent.** Apply closely drawn contribution review and distinguish independent-expenditure protection.
+
+**Proposed holding.** The direct general-treasury contribution prohibition is constitutional as applied to the organization and alternative channel described here.
+
+**Limit.** No prohibition on independent advocacy, individual donations, or every political expenditure by a voluntary advocacy association.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. The result follows from the transaction and source regulated, not the organization’s viewpoint.
+
+### 49. Green Tree Financial Corp. v. Bazzle
+
+**Question presented.** Who decides whether the concededly binding arbitration agreements permit class proceedings, and does their failure expressly to address class procedure settle the answer?
+
+**What the case is about.** South Carolina sustained class awards under broadly worded consumer-finance agreements. The supplied controversy concerns the form of arbitration under those agreements, rather than a showing that the underlying loan disputes were never submitted to arbitration. 
+
+**Precedent applied.** Supplied *First Options* preserves judicial determination of genuine agreement and arbitrability questions. Actual *Howsam*, decided December 10, 2002, distinguishes those questions from procedural issues presumptively assigned to the arbitrator.  ([Legal Information Institute][2])
+
+**Old sim.** Stone proposed judicial decision of class consent. The old Court used an alternative ground and did not adopt his allocation; no Stone-caused change was recorded. 
+
+**Stone innovation.** Extension of existing procedural-arbitrability doctrine.
+
+**Stone’s position now.** Vacate and remand for the arbitrator to interpret the agreements’ procedural reach. Stone treats the dispute described as how the agreed arbitration proceeds, not whether these claims must be arbitrated at all. Rungs 4 and 7 supply that classification; it is not compelled by *Howsam*’s precise facts but follows its distinction.
+
+**Doctrinal intent.** Extend *Howsam* and distinguish the formation question in *First Options*.
+
+**Proposed holding.** The procedural class-authorization question described is for the arbitrator’s agreement-based interpretation. Silence alone does not establish either permission or prohibition.
+
+**Limit.** No class proceeding without a contractual basis, no automatic preservation of the awards, and no removal of genuine formation disputes from courts.
+
+**Novelty.** Extension of existing doctrine.
+
+**Changed from old sim.** Yes. Stone changes the decisionmaker classification and rejects a special express-class-consent shortcut.
+
+### 50. American Insurance Association v. Garamendi
+
+**Question presented.** Do the identified executive agreements and diplomatic policies preempt California’s insurance-disclosure law?
+
+**What the case is about.** The Ninth Circuit left California’s Holocaust-era insurance-disclosure requirements enforceable. The supplied dispute identifies diplomatic opposition but no established incompatibility with a binding federal disclosure prohibition. 
+
+**Precedent applied.** Actual *Belmont*, *Pink*, *Dames & Moore*, and *Zschernig* must be confronted; executive agreements can have domestic legal consequences without a separately enacted prohibition. Supplied *Crosby* nevertheless requires the concrete conflict its federal statutory strategy established.
+
+**Old sim.** Stone supported affirmance for lack of an operative source-based conflict. The old Court independently agreed. 
+
+**Stone innovation.** Application disagreement about federal authority and conflict.
+
+**Stone’s position now.** Affirm on the supplied showing. Respect for diplomacy does not establish that these agreements displaced state disclosure, while source discipline does not mean that every valid executive settlement requires a new Act of Congress. Rungs 2, 4, and 7 preserve both boundaries.
+
+**Doctrinal intent.** Apply source-based conflict review and distinguish *Crosby*.
+
+**Proposed holding.** The identified federal agreements and policies do not establish preemption of the disclosure obligations presented on this record.
+
+**Limit.** No general state power to contradict a valid federal claims settlement or to regulate foreign affairs independently of a legitimate state function.
+
+**Novelty.** Application disagreement only.
+
+**Changed from old sim.** No. The same result survives without converting the source requirement into an absolute congressional-enactment requirement.
+
+### 51. Lawrence v. Texas
+
+**Question presented.** Does the same-sex-only prohibition violate Equal Protection? Does private consensual adult intimacy receive substantive-liberty protection, and should *Bowers* be overruled? Stone would not reach the latter two questions on the route selected here.
+
+**What the case is about.** Texas affirmed Lawrence’s and Garner’s convictions for private consensual conduct criminalized only when the participants were of the same sex. 
+
+**Precedent applied.** Actual *Bowers* addresses the substantive-liberty claim. Supplied *Romer* rejects status-based inequality unsupported by a legitimate objective; *Shahar*’s intermediate scrutiny concerns public employment and is not silently converted into a universal criminal-law tier. 
+
+**Old sim.** Stone proposed liberty-based invalidation, overruling *Bowers*, and express scrutiny assignments. The old Court independently invalidated the law while reserving those formal tiers. 
+
+**Stone innovation.** Ordinary application of supplied equality doctrine.
+
+**Stone’s position now.** Reverse on equal protection. The supplied justification does not explain why identical private conduct is criminal for these partners but not others; bare disapproval does not supply that explanation. Rungs 4, 6, and 7 select the sufficient equality ground and distinguish *Bowers* rather than overruling it unnecessarily.
+
+**Doctrinal intent.** Apply *Romer*, distinguish *Bowers*, and reserve substantive liberty and broader tier assignment.
+
+**Proposed holding.** Texas may not impose this same-sex-only criminal disability without a legitimate justification for the unequal treatment.
+
+**Limit.** This position does not overrule *Bowers*, establish a general intimacy tier, or decide a differently drawn prohibition.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** Yes. The convictions fall, but Stone does not claim the broader liberty and overruling work that this narrower position leaves undone.
+
+### 52. Georgia v. Ashcroft
+
+**Question presented.** How should § 5 treat claimed coalition opportunity or influence when a plan reduces minority voters’ benchmark ability to elect?
+
+**What the case is about.** A three-judge court denied preclearance after finding reduced Black ability to elect in affected districts. Georgia invokes crossover support, incumbency, influence, and statewide political access. The supplied account does not establish that the lower court treated numerical majorities as an inflexible requirement. 
+
+**Precedent applied.** Actual *Beer* and supplied *Bossier Parish* require benchmark-relative nonretrogression and retain the jurisdiction’s burden. Supplied *Bossier Parish II* also preserves a distinct discriminatory-purpose inquiry. 
+
+**Old sim.** Stone proposed vacatur and a more elaborate durable-opportunity formulation. The old Court adopted the stated standard and narrower remand through independent alignment. 
+
+**Stone innovation.** Ordinary application of the existing burden and review rules.
+
+**Stone’s position now.** Affirm denial of preclearance on the supplied record. Genuine coalition evidence may establish practical ability to elect, but generalized influence cannot automatically replace it. Rungs 4 and 5 reject another remand merely because competing evidence exists, absent an identified legal error or basis for disturbing the findings.
+
+**Doctrinal intent.** Apply benchmark comparison and the jurisdiction’s burden.
+
+**Proposed holding.** Georgia has not established reversible error in the denial of preclearance described here; undefined political influence does not itself demonstrate preserved electoral opportunity.
+
+**Limit.** No fixed racial percentage, rejection of real crossover opportunity, or merger of §§ 2 and 5.
+
+**Novelty.** Remedial or dispositional difference.
+
+**Changed from old sim.** Yes. Stone no longer orders reassessment without a demonstrated defect in the lower court’s governing analysis.
+
+### 53. Wiggins v. Smith
+
+**Question presented.** Was counsel’s abandonment of the mitigation investigation constitutionally deficient, and was the state court’s rejection of that claim an unreasonable application of *Strickland*?
+
+**What the case is about.** Counsel possessed records identifying substantial leads involving abuse, neglect, foster placements, and family instability but stopped the social-history investigation. The Fourth Circuit denied habeas relief from the death sentence. 
+
+**Precedent applied.** Actual *Strickland* supplies performance and prejudice. Supplied *Williams v. Taylor* requires proper consideration of omitted mitigation and applies the objectively unreasonable standard under AEDPA. 
+
+**Old sim.** Stone supported sentence-limited relief. The old Court independently adopted the investigation-before-strategy analysis. 
+
+**Stone innovation.** Ordinary application of established effective-assistance law.
+
+**Stone’s position now.** Reverse and provide sentence-limited conditional relief. A strategic label does not cure failure to investigate the substantial leads necessary to make the choice informed. Rung 4 requires cumulative prejudice review and a finding of objective unreasonableness, not merely disagreement with counsel’s tactics.
+
+**Doctrinal intent.** Apply *Strickland* and *Williams*; select a penalty-only remedy.
+
+**Proposed holding.** The supplied investigation failure was deficient and prejudicial, and the state court’s contrary resolution unreasonably applied the governing law.
+
+**Limit.** No automatic constitutionalization of professional guidelines, mandatory investigation of every possibility, or disturbance of the guilt judgment.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** No. Existing law supplies both the violation and the confined remedy.
+
+### 54. Cano v. Davis
+
+**Question presented.** Do the asserted intentional-dilution claims establish material electoral impairment, and may racial cracking evade racial-predominance review because it serves a partisan objective?
+
+**What the case is about.** California obtained summary judgment concerning Districts 28 and 51. The corrected brief supplies district-specific resident plaintiffs and distinguishes four intentional-dilution components from two racial-classification components. Separate results judgments remain outside review. 
+
+**Precedent applied.** Supplied *Hays*, *Miller*, *Hunt*, *Easley*, and *De Grandy* govern the relevant standing, classification, and opportunity questions. *Chen*’s supplied population-base holding is not an additional racial-predominance rule. Earlier positions in this run supply no precedent.
+
+**Old sim.** Stone proposed affirmance on dilution and remand on racial classification, together with quantitative machinery. The old Court independently adopted the disposition but excluded that machinery. 
+
+**Stone innovation.** Ordinary injury separation and summary-judgment application.
+
+**Stone’s position now.** Affirm the four dilution dispositions on the supplied absence of material electoral impairment; vacate the two classification dispositions because competing evidence about the actual racial means requires factfinding. Rungs 1, 4, and 5 control. Political purpose does not make racial means disappear.
+
+**Doctrinal intent.** Apply existing predominance law and ordinary summary-judgment rules.
+
+**Proposed holding.** The supplied dilution showing is insufficient, but the classification claims cannot be resolved for California while material race-versus-politics evidence remains disputed.
+
+**Limit.** No present predominance finding, scrutiny assignment, replacement map, mandatory statistical model, or newly recognized intent-only § 2 action.
+
+**Novelty.** No meaningful Stone novelty.
+
+**Changed from old sim.** Yes in method: Stone removes the quantitative framework and the coalition-dependent fallback, retaining only independently justified dispositions.
+
+## Certiorari-stage matters
+
+### 55. Odom v. Antrican
+
+**Question presented.** May Medicaid-eligible children seek prospective enforcement of the identified dental-care and EPSDT duties through § 1983 and *Ex parte Young*?
+
+**What the case is about.** The Fourth Circuit allowed the beneficiaries’ action to continue past dismissal. Individual provisions, rights, and remedies still require adjudication. 
+
+**Precedent applied.** Supplied *Blessing*, *Gonzaga*, and the prospective-officer cases require provision-specific rights analysis rather than categorical rejection of Spending Clause enforcement. 
+
+**Old sim.** Stone proposed denial, and the old Court denied review; no attributable doctrinal effect followed. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny certiorari. Rungs 1 and 6 favor allowing the surviving action to develop rather than using an interlocutory petition to announce a broad bar to beneficiaries’ remedies.
+
+**Doctrinal intent.** Reserve merits and decline interlocutory review.
+
+**Proposed holding.** Deny the petition; no merits holding.
+
+**Limit.** Denial neither establishes every asserted statutory right nor withdraws the existing prospective-enforcement channel.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. Denial here leaves the beneficiaries’ litigation available.
+
+### 56. Haveman v. Westside Mothers
+
+**Question presented.** May beneficiaries enforce the specified Medicaid duties, and can valid Spending Clause legislation supply enforceable federal law against responsible state officials?
+
+**What the case is about.** The Sixth Circuit rejected categorical dismissal and remanded for provision-specific proceedings. The Government opposed review. 
+
+**Precedent applied.** Supplied *Gonzaga*, *Blessing*, *Coeur d’Alene*, and *Verizon Maryland* require separate analysis of the right, defendant, channel, and remedy. 
+
+**Old sim.** Stone proposed denial, and the old Court denied review without a merits decision. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny. The remand permits the legally relevant distinctions to be made without imposing a blanket rule against beneficiary enforcement. Rungs 1 and 6 control.
+
+**Doctrinal intent.** Reserve provision-specific merits.
+
+**Proposed holding.** Deny certiorari; no merits holding.
+
+**Limit.** No declaration that every Medicaid provision creates a private right, and no declaration that none can.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The existing remand preserves adjudication rather than closing the courthouse.
+
+### 57. Nassau County v. Shain
+
+**Question presented.** Are the blanket searches constitutional, and does the record support prospective relief against the policy?
+
+**What the case is about.** The Second Circuit rejected blanket strip searches of the described minor-offense detainees without individualized suspicion. Policy changes and future-exposure questions complicate prospective relief. 
+
+**Precedent applied.** Actual *Bell v. Wolfish* supplies the search context. Supplied *Laidlaw* and remedy-specific standing principles prevent policy cessation or lack of future exposure from automatically erasing every completed-injury claim.
+
+**Old sim.** Stone proposed denial because of the vehicle problems; the old Court denied review. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny. Rungs 1 and 6 counsel against resolving the broad search question through unstable prospective-relief premises, while preserving the lower court’s merits ruling and independently live damages litigation.
+
+**Doctrinal intent.** Reserve merits at certiorari.
+
+**Proposed holding.** Deny the petition; no merits holding.
+
+**Limit.** No approval of blanket searches and no rule that uncertain future exposure defeats retrospective claims.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The vehicle objection must remain remedy-specific.
+
+### 58. City of New York v. Patrolmen’s Benevolent Association
+
+**Question presented.** Did the race-based transfers satisfy Equal Protection in the supplied policing context?
+
+**What the case is about.** The Second Circuit sustained a verdict for officers subjected to race-conscious transfers after the Louima crisis. The petition combines scrutiny, instructions, evidence, alternatives, and damages questions. 
+
+**Precedent applied.** Supplied *Adarand* does not classify adverse individualized racial assignments as merely structural inclusion. The asserted policing objective does not itself settle strict scrutiny.
+
+**Old sim.** Stone proposed denial; the old Court denied review without creating doctrine. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny on the mixed, fact-dependent vehicle. Rungs 1 and 6 preserve the officers’ judgment without creating a general police-employment exception to equality law.
+
+**Doctrinal intent.** Reserve broader merits questions.
+
+**Proposed holding.** Deny certiorari; no merits holding.
+
+**Limit.** No categorical conclusion that restoring community trust can never be important or can automatically justify racial assignment.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The existing protection is left in place without overstating what denial establishes.
+
+### 59. Norfolk Southern Railway Co. v. Kirby
+
+**Question presented.** Does maritime law govern the asserted contractual limitations, and may the downstream railroad invoke the protections contained in the two bills of lading?
+
+**What the case is about.** The Eleventh Circuit denied the railroad the claimed limitations in an international sea-and-rail shipment. The two-contract structure and interaction of maritime and rail law remain central. 
+
+**Precedent applied.** Actual *Herd* and the governing carriage statutes provide the background. No supplied holding resolves this intermediary-contract configuration.
+
+**Old sim.** Stone requested the Solicitor General’s views, and the old Court did so. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Call for the Solicitor General’s views. Rungs 1 and 6 permit clarification of the federal statutory interaction and the vehicle before deciding whether to grant.
+
+**Doctrinal intent.** Reserve certiorari and merits pending invited briefing.
+
+**Proposed holding.** Invite the Solicitor General to express the United States’ views; no merits holding.
+
+**Limit.** No assumed agency relationship, binding contractual limitation, or maritime displacement of every inland rule.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The requested action remains preliminary briefing, not a merits grant.
+
+### 60. Cooper Industries, Inc. v. Aviall Services, Inc.
+
+**Question presented.** May a party seek contribution under CERCLA § 113(f)(1) without having been sued under § 106 or § 107(a)?
+
+**What the case is about.** The en banc Fifth Circuit allowed contribution following cleanup undertaken under state regulatory direction. The availability and effect of another statutory recovery route remain relevant. 
+
+**Precedent applied.** CERCLA’s enacted text controls. Supplied *Bestfoods* and related CERCLA decisions do not decide this contribution trigger.
+
+**Old sim.** Stone requested the Solicitor General’s views, and the old Court issued that invitation. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Call for the Solicitor General’s views on the statutory relationship and the adequacy of the vehicle. Rungs 1, 2, and 6 keep cleanup policy relevant without allowing it to replace the words Congress enacted.
+
+**Doctrinal intent.** Reserve certiorari and merits.
+
+**Proposed holding.** Invite the Solicitor General’s views; no merits holding.
+
+**Limit.** No present recognition or rejection of contribution, alternative cost recovery, or liability allocation.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The statutory question remains open pending the invited submission.
+
+### 61. Pronsolino v. Nastri
+
+**Question presented.** Does § 303(d) authorize the challenged total maximum daily load for a waterbody impaired solely by nonpoint-source pollution?
+
+**What the case is about.** The Ninth Circuit sustained the Garcia River load allocation. The supplied federal action is described as informational planning rather than the direct land-use control emphasized by the petitioners. 
+
+**Precedent applied.** The Clean Water Act’s allocation of authority governs. No supplied holding resolves the solely nonpoint-source question; general agency-authority principles do not decide its statutory text.
+
+**Old sim.** Stone proposed denial; the old Court denied review. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny. Rungs 1 and 6 prevent the petition from becoming a decision on federal implementation powers the challenged action does not exercise.
+
+**Doctrinal intent.** Reserve the broader authority boundary.
+
+**Proposed holding.** Deny certiorari; no merits holding.
+
+**Limit.** No approval of direct federal control over every land-use source and no finding that informational characterization can immunize genuinely binding action.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The actual action, not the feared future program, defines the vehicle.
+
+### 62. Cook v. Principi
+
+**Question presented.** Can a serious duty-to-assist or procedural error defeat finality outside the reopening and clear-and-unmistakable-error mechanisms Congress enacted?
+
+**What the case is about.** The Federal Circuit rejected a freestanding grave-procedural-error exception. The supplied petition account does not establish that a broader exception is necessary rather than a specifically available statutory or notice-based route. 
+
+**Precedent applied.** The veterans-benefit statutes govern finality. Supplied *Sims v. Apfel* rejects invented issue-exhaustion barriers in nonadversarial review, but does not itself create authority to reopen final benefit decisions. 
+
+**Old sim.** Stone proposed denial; the old Court denied review. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny on this supplied vehicle, without endorsing inaccessible or nonexistent alternatives. Rungs 1 and 6 distinguish meaningful enforcement of an actual remedial route from judicial creation of a general exception whose necessity the record does not establish.
+
+**Doctrinal intent.** Reserve the proposed extra-statutory exception.
+
+**Proposed holding.** Deny certiorari; no merits holding.
+
+**Limit.** No ruling that defective notice always triggers finality, that officials may obstruct statutory reopening, or that the claimant actually possesses an adequate alternative remedy.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The denial rests on the supplied vehicle, not a presumption that finality outweighs every access injury.
+
+### 63. Castle v. United States
+
+**Question presented.** May the investors recover under their direct-contract, intended-beneficiary, restitution, or takings theories arising from the regulatory-capital arrangement?
+
+**What the case is about.** The Federal Circuit rejected several investor-specific theories. The supplied agreements contain material disclaimers, and the asserted recovery does not rest on one uncontested contractual relationship. 
+
+**Precedent applied.** Supplied *Winstar* and *Mobil Oil* protect actual authorized risk-allocation agreements and appropriate restitution. They do not make every investor a contracting party or intended beneficiary. 
+
+**Old sim.** Stone proposed denial; the old Court denied review. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny because the multiple independent contractual and remedial grounds prevent clean resolution of a general question. Rungs 1 and 6 preserve the distinction between enforcing a real promise and presuming one from regulatory disappointment.
+
+**Doctrinal intent.** Reserve the fact- and agreement-specific merits.
+
+**Proposed holding.** Deny certiorari; no merits holding.
+
+**Limit.** No retreat from *Winstar*, categorical immunity for government breach, or general restriction of authorized restitution.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The supplied contract-specific complications remain material.
+
+### 64. City of Charleston v. A Fisherman’s Best, Inc.
+
+**Question presented.** Are the City’s facility conditions preempted, and does municipal ownership make the challenged conduct proprietary rather than regulatory?
+
+**What the case is about.** The Fourth Circuit invalidated restrictions on longline vessels, gear, and swordfish operations at a municipal maritime facility. The petition combines several preemption theories with the characterization of this particular facility arrangement. 
+
+**Precedent applied.** Actual market-participant principles distinguish a transaction from downstream regulation. Supplied *Freightliner*, *Crosby*, and *United States v. Locke* require identification of the occupied field or operative federal conflict rather than a generalized appeal to uniformity. 
+
+**Old sim.** Stone proposed denial; the old Court denied review. 
+
+**Stone innovation.** None.
+
+**Stone’s position now.** Deny on the supplied mixed vehicle. Rungs 1 and 6 prevent either municipal ownership or asserted federal importance from becoming a categorical answer without resolving the arrangement’s actual legal operation.
+
+**Doctrinal intent.** Reserve the broader proprietary-regulatory boundary.
+
+**Proposed holding.** Deny certiorari; no merits holding.
+
+**Limit.** No general municipal exemption from preemption and no rule that every condition imposed by a public facility is regulation.
+
+**Novelty.** Issue reservation or minimalist disposition.
+
+**Changed from old sim.** No. The vehicle remains too dependent on the particular facility and overlapping grounds to justify the proposed general ruling.
+
+## Revisions to the existing positions
+
+These replace the corresponding pre-vote positions, not the supplied holdings themselves.
+
+### OT2001: Lapides v. Board of Regents
+
+**Stone’s position.** Reject the State’s federal-forum objection and remand for adjudication or another independently lawful disposition. Voluntary removal supplies consent to the selected forum, not consent to liability. The supplied *Lapides* holding already establishes that distinction for removed state-law claims amenable to adjudication in state court. Extending the proposition to every category of removed claim would be a further extension, not something the existing entry has already decided. 
+
+**Proposed holding.** A State that voluntarily removes the claims presented cannot object to their adjudication merely because the forum is federal. Removal does not create a cause of action, enlarge substantive liability or damages, surrender substantive defenses, or displace independently applicable remedial-autonomy rules.
+
+**Legal move.** Apply the existing forum-consent rule. Preserve the distinction between that holding’s established scope and Stone’s broader proposed principle.
+
+### OT2001: Federal Maritime Commission v. South Carolina State Ports Authority
+
+**Stone’s position.** Vacate and remand. Identify the federal shipping obligation, the Commission’s statutory authority, the relief requested, and the Port Authority’s operational and fiscal status. Private initiation neither immunizes the proceeding from review nor turns every requested remedy into permissible relief. This approach is already substantially embodied in the supplied *FMC* holding. 
+
+**Proposed holding.** A privately initiated complaint may invoke valid, congressionally authorized administrative adjudication of prospective compliance with federal shipping law. Retrospective compensation requires separate determination of entity status and an authorized remedial route, including the simulation’s remedial-autonomy, federal-fallback, and commercial-enterprise rules.
+
+**Legal move.** Apply the supplied remedy-specific approach, not create another sovereign-immunity test.
+
+### OT2002: Grutter v. Bollinger
+
+**Stone’s position.** Affirm narrowly under strict scrutiny. Selective admission allocates individual seats, so the supplied structural-access exception does not lower the standard. The university must substantiate the educational function served by meaningful cross-racial participation; “critical mass” cannot establish either the interest or the fit by repetition. Applicant-specific consideration remains potentially permissible, but racial membership cannot automatically establish an experience, viewpoint, qualification, or predetermined advantage. The supplied *Adarand* rule makes actual allocation decisive, not the institution’s preferred description. 
+
+**Proposed holding.** The described individualized admissions process may consider an applicant’s demonstrated race-related experiences under common evaluative criteria in pursuing a substantiated compelling educational interest. It may not reserve seats, assign automatic racial-status value, operate hidden racial targets, or substitute racial stereotypes for individual assessment. Narrow tailoring requires serious consideration of workable race-neutral alternatives and meaningful limits, review, and termination.
+
+**Legal move and record limit.** Apply strict scrutiny, with a narrow educational-interest extension. Auditability concerns whether actual compliance can be examined, not whether prose is constitutionally preferable to scoring; affirmance cannot establish the absence of hidden practices that the supplied record does not address.
+
+### OT2002: Gratz v. Bollinger
+
+**Stone’s position.** Invalidate the automatic racial award. The defect is predetermined decisional value attached to racial status, not the use of numbers. Under this proposed boundary, reducing the award from twenty points to five does not cure the categorical substitution of racial membership for applicant-specific evaluation. A transparent rubric evaluating actual qualifications and experiences remains permissible.
+
+**Proposed holding.** An admissions mechanism defended by educational diversity may not automatically assign decisional credit solely because an applicant belongs to a designated racial category, whether that credit is numerical or concealed in an automatic nonnumerical preference. Numerical evaluation of applicant-specific qualifications and experiences is not prohibited.
+
+**Legal move and limit.** This expressly narrows permissible means within educational-diversity admissions, beyond merely finding the particular twenty-point award excessive. It does not silently invalidate every race-conscious remedy for an independently established constitutional or statutory violation, a separate subject in the supplied precedent. 
+
+### OT2002: Georgia v. Ashcroft
+
+**Stone’s position.** Vacate and remand, replacing the previous reconstruction’s affirmance. The proposed clarification identifies the protected opportunity before assessing retrogression: a practical, reasonably durable ability to elect demonstrated candidates of choice. District-specific findings supply the planwide comparison. Reliable crossover and independently lawful coalition behavior may matter, but influence, responsiveness, party affiliation, incumbency, and officeholding cannot simply be aggregated into an equivalent electoral opportunity. The supplied *Bossier Parish* decisions retain the lawful benchmark, the jurisdiction’s burden, and the distinct purpose inquiry. 
+
+**Proposed holding.** Section 5 protects practical electoral opportunity rather than a fixed racial population percentage. The court must construct its planwide retrogression determination from district-specific evidence of reasonably durable ability to elect, without substituting generalized influence or political access for that ability. The case should be remanded for application of that distinction.
+
+**Legal move and limit.** Clarify the content of effective electoral opportunity and remand under that clarification. No numerical threshold, prescribed statistical method, Section 2 holding, or future *Alabama* result is assumed.
+
+### OT2002: Nevada Department of Human Resources v. Hibbs
+
+**Stone’s position.** Affirm abrogation for the family-care provision and permit the suit. The argument concerns the relationship among documented state sex-role stereotyping, the enforcement difficulty, and a limited gender-neutral entitlement addressing that mechanism. It is not a judgment that disability discrimination receives less substantive concern. The supplied *Garrett* itself recognizes bounded accommodation and intentional-discrimination claims. 
+
+**Proposed holding.** Congress may authorize damages enforcement of the limited family-care entitlement against States because that bounded, gender-neutral measure directly prevents and remedies the documented mechanism of unconstitutional sex discrimination in leave administration. The employee must still establish the statutory claim and entitlement to the requested remedy.
+
+**Legal move and limit.** Extend *Garrett*’s bounded preventive-enforcement principle. The supplied *Boerne* formulation contains restrictive, enumerated mechanisms for broader-than-constitutional prohibitions; insofar as their exclusivity would foreclose this family-care measure, Stone must openly modify that exclusivity rather than call legislative history alone sufficient. Self-care, unrelated benefits, unlimited paid leave, and other FMLA applications remain unresolved. 
+
+### OT2002: Lawrence v. Texas
+
+**Stone’s position.** Reverse on substantive liberty and invalidate the prohibition as applied to private, actually consensual intimacy between adults capable of consent. The liberty-first instruction changes the earlier rung-six choice: narrowness now limits the conduct protected rather than avoiding the liberty question through equal protection. Stone’s current character expressly rejects criminalization of consensual adult intimacy through moral disapproval. 
+
+**Proposed holding.** Government may not criminalize private, consensual sexual intimacy between adults capable of consent solely to enforce moral condemnation or conformity. *Bowers v. Hardwick* should be overruled to the extent it authorizes that criminal prohibition.
+
+**Legal move and limit.** Recognize the protected liberty and candidly overrule the contrary precedent, rather than distinguish it away. This decides no question involving minors, coercion, exploitation, abuse of dependency or authority, commercial sex, public conduct, independently cognizable injury, marriage, adoption, benefits, employment, military administration, or public accommodations.
+
+### OT2002: Limon v. Kansas
+
+**Stone’s position.** Reverse and remand under intermediate scrutiny. Generalize the supplied public-employment principle to express sexual-orientation classifications and their operative proxies. The relevant question is not whether protecting minors is important, but whether the additional punishment imposed on otherwise comparable same-sex conduct substantially advances that actual objective without stereotype. The existing employment cases support the extension but do not already establish a universal tier. 
+
+**Proposed holding.** Express sexual-orientation classifications receive intermediate scrutiny: government must establish an actual important objective and a substantial, nonstereotyped relationship between the unequal treatment and that objective. The challenged punishment distinction must be reconsidered under that standard, without treating moral condemnation or conventional sexual roles as sufficient governmental interests.
+
+**Legal move and limit.** Different scrutiny assignment through an express extension beyond public employment, consistent with Stone’s current Elevated classification. This neither establishes a right to sexual activity with minors nor depends on treating the proposed *Lawrence* position as an already adopted holding. 
+
+## New simulation grants
+
+I use your questions as the scope of each grant. Additional record details come from the cited lower-court opinions. Because no simulated merits dates were supplied, the real authorities used below were already available by the respective grant dates; the proposed positions above are not added to the controlling precedent set.
+
+### 1. FA1: Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists
+
+**Stone’s position.** Affirm the First Amendment basis for FACE liability and the targeted injunction, without independently approving every damages determination or RICO theory. The decisive distinction is between public advocacy that somebody fears and a communication deliberately used to place identified people in apprehension of unlawful bodily harm. The reported record connects the particular posters and physician listings to a known pattern of similarly identified physicians being murdered. Stone would examine the complete jury instructions and defendant-specific participation, not substitute the judge’s injunction findings for findings required to support the jury’s verdict. The existing punitive-damages remand remains separate. ([Justia Law][1])
+
+**Precedent and reasoning.** Actual *Watts*, *Claiborne Hardware*, and *Virginia v. Black* supply the relevant distinctions. *Black*, available before the June 27, 2003 grant, permits consideration of threatening context and distinguishes intent to intimidate from intent actually to carry out violence. An actual purpose to induce apprehension of bodily harm, combined with a communication objectively conveying a serious threat, supplies the culpability required here; objective foreseeability alone does not. A claimant need not prove an express first-person promise of violence. Supplied *Rice v. Paladin* reinforces the rejection of liability from association or foreseeable misuse alone, but its criminal-assistance elements do not replace FACE’s separate elements. ([Legal Information Institute][2]) 
+
+**Proposed holding.** Public posters and online identification can constitute true threats when, in context, they seriously communicate unlawful violence against identifiable people and are intentionally used to place those people in apprehension of bodily harm. The intent to intimidate required here, together with that objectively threatening communication, is sufficient without proof that the defendants intended personally to execute the threatened violence. Mere publication of identifying information, foreseeable fear, or agreement with an unpopular movement is insufficient.
+
+**Legal move and limit.** Apply and clarify existing threat doctrine in this civil statutory setting. No general civil-negligence standard for threats, presumption from political viewpoint, or categorical prohibition on naming physicians is created.
+
+### 2. FA2: North Jersey Media Group, Inc. v. Ashcroft
+
+**Stone’s position.** Reverse the categorical rejection of a qualified access right and remand for proceeding-specific closure review. The Executive’s designation cannot itself answer the constitutional question. Stone would examine removal adjudication as the relevant proceeding, rather than define the category circularly as “hearings the Executive has designated secret.” The Government’s historical and national-security arguments deserve consideration, including its argument that separately innocuous disclosures can combine to expose an investigation. They do not make executive designation conclusive. ([Department of Justice][3])
+
+**Precedent and reasoning.** No supplied simulated holding settles access to these hearings. Stone would extend the actual *Richmond Newspapers*, *Globe Newspaper*, and *Press-Enterprise* access principles through their experience-and-logic inquiry. He would not invent an uninterrupted historical tradition of openness; the history is contested, and recognized closure exceptions are part of it. His conclusion would rest on the relevant history of ordinarily accessible adjudication and openness’s contribution to reliable, accountable removal proceedings. Necessary protection of classified information, witnesses, or investigations can justify a properly supported closure, including reliance on sealed evidence where necessary. ([OpenJurist][4])
+
+**Proposed holding.** The press and public possess a qualified First Amendment right of access to the removal hearings presented. Closure must rest on reviewable findings connecting a sufficiently weighty interest to the particular proceeding and explaining why narrower measures would not adequately protect it. An Executive designation covering an entire category is not itself a sufficient substitute.
+
+**Legal move and limit.** Extend existing access doctrine, using its existing closure standard rather than constructing a national-security framework. No absolute entitlement to classified evidence, unrestricted access to every administrative proceeding, or immediate opening of a hearing without evaluating a properly supported closure request.
+
+### 3. R1: Tenafly Eruv Association, Inc. v. Borough of Tenafly
+
+**Stone’s position.** Affirm the preliminary-injunction judgment against selective enforcement. A claimant need not prove that the practice is compulsory under religious doctrine before objecting to discriminatory governmental treatment. Sincerely undertaken religious exercise is protected against selective exclusion even when adherents could decline the practice without abandoning the faith. The reported arrangement involved privately supported attachments, utility-owner permission, and tolerated comparable secular attachments. That is materially different from government financing devotional instruction or requiring unwilling third parties to subsidize religious observance. ([Justia Law][5])
+
+**Precedent and reasoning.** Apply *Smith* and *Lukumi* to the actual enforcement pattern. The relevant defect is the absence of neutral, generally applicable administration, not failure to prove that an otherwise neutral property rule coerced abandonment of a mandatory ritual. The supplied distinction between equal civic access and direct religious financing supports rejecting the Establishment Clause defense. There is no need to characterize the eruv itself as an expressive message to reach the Free Exercise claim. 
+
+**Proposed holding.** Selective governmental exclusion of a sincere religious practice may violate Free Exercise without proof that the practice is religiously mandatory or that government compelled abandonment of the faith. The Establishment Clause does not require removal of privately financed religious attachments, installed with lawful owner permission, merely because comparable secular attachments are tolerated.
+
+**Legal move and limit.** Apply neutrality and equal-access principles; no meaningful distinctive Stone innovation. The ruling concerns preliminary protection and does not authorize trespass, compelled private financing, interference with utility safety, or exemption from genuinely evenhanded attachment rules.
+
+### 4. V1: Save Palisade FruitLands v. Todd
+
+**Stone’s position.** Affirm under ordinary rational-basis review. The constitutional distinction is between distributing governmental powers among genuinely different county structures and excluding otherwise comparable participants from the same existing electoral decision. Colorado’s home-rule and statutory counties have different allocations of governmental authority, and initiative power forms part of the home-rule arrangement. That provides a rational structural explanation without requiring Colorado to prove that initiative would harm statutory counties or that its chosen allocation is necessary. The isolated Logan County episode does not, on the reported record, establish a continuing selectively administered initiative system. ([Justia Law][6])
+
+**Precedent and reasoning.** The constitutional part of supplied *Mixon* supports this limited extension: no freestanding right requires every local body to be elective, while independently unlawful discrimination remains actionable. One qualification to your analysis matters: *Mixon* also recognizes a potential Section 2 claim when government eliminates an existing electoral opportunity. Its protection is not limited to proof of unconstitutional purpose. Nothing in *Save Palisade* should retract that statutory holding.  
+
+**Proposed holding.** Equal protection permits Colorado to allocate county initiative authority to home-rule counties as part of their broader self-government structure without granting identical authority to statutory counties. The distinction survives ordinary rational-basis review because it does not exclude comparable voters from the same existing electoral decision or establish another independently forbidden classification or purpose.
+
+**Legal move and limit.** Extend *Mixon*’s constitutional structural principle while preserving its statutory branch. Creating an initiative mechanism, regulating advocacy within it, and treating votes once submitted are distinct questions governed by existing doctrines, not a necessary new three-stage test. *Meyer*, supplied *Buckley v. ACLF*, *Reform Party*, voting-equality rules, and *Olech* retain their respective work; ordinary advocacy also remains protected where no initiative mechanism exists.
+
+### 5. B1: State v. Oakley
+
+**Stone’s position.** Reverse insofar as Wisconsin sustained the procreation condition, vacate that condition, and remand for lawful sentencing or probation terms. The established willful failure to support existing children remains punishable. It does not itself authorize the State to make further procreation conditional on a judicial assessment of financial capacity and willingness. The condition directly regulates whether Oakley may have another child, rather than merely regulating earnings, payment, employment, or compliance with existing support obligations. The availability of imprisonment as an alternative does not automatically validate every condition offered in its place. ([Justia Law][7])
+
+**Precedent and reasoning.** Actual *Skinner*, *Carey*, and *Zablocki* supply the protected-procreation and direct-interference principles; *Bearden* keeps inability separate from willful refusal. Stone would apply strict scrutiny to this direct reproductive restriction. That is an express extension of the fundamental-right protection into this probation setting, not a claim that the Supreme Court had already decided an identical condition. Probation-search precedents do not transfer a reduced privacy standard into unrestricted governmental control over reproduction. Stone’s character independently treats bodily and intimate choice as protected liberty, while requiring the governing legal move to be identified. ([Justia Law][7]) 
+
+**Proposed holding.** A probation condition directly prohibiting further procreation unless the probationer demonstrates the prescribed financial capacity must satisfy strict scrutiny. The condition presented is not narrowly tailored to enforcing existing support obligations and therefore cannot stand.
+
+**Legal move and limit.** Different scrutiny assignment in the probation context, followed by application. No invalidation of the nonsupport convictions, entitlement to avoid lawful support enforcement, or approval of automatic revocation because a person cannot pay despite genuine efforts.
+
+### 6. D1: Krimstock v. Kelly
+
+**Stone’s position.** Affirm the Second Circuit’s requirement of meaningful interim review and remand for implementation. Initial seizure and continued retention are separate deprivations. An eventual forfeiture judgment does not answer whether government needs possession throughout the intervening period, particularly when loss of the vehicle affects work, medical access, or family obligations. The reported practice allowed vehicles to remain impounded for months or longer without a hearing addressing that possessory deprivation. ([Justia Law][8])
+
+**Precedent and reasoning.** Apply *Mathews* and extend the procedural principle reflected in supplied *James Daniel Good*. A movable vehicle may justify immediate seizure in circumstances unlike real property, but that distinction does not establish indefinite retention authority. The hearing must examine the probable forfeiture basis, the governmental need for continued possession, and effective alternatives. Stone would require government to justify the continued hold, while leaving the hearing’s precise mechanics and any proof quantum not resolved by the question to lawful implementation. This is a retention-specific procedural requirement, not a new merits test for forfeiture.  ([Justia Law][8])
+
+**Proposed holding.** Due process requires a prompt opportunity for neutral review of continued vehicle retention pending civil forfeiture. The review must address the probable validity of forfeiture, the necessity of continued governmental possession, and whether a bond or another practicable arrangement adequately protects the governmental interest.
+
+**Legal move and limit.** Extend existing due-process protection and specify the interim issue to be adjudicated. No automatic return, fixed constitutional deadline, full forfeiture trial at the preliminary hearing, or assumption that an unaffordable bond necessarily supplies meaningful relief; independently justified evidentiary custody remains separately assessable.
+
+### 7. D2: Fairley v. Luman
+
+**Stone’s position.** Affirm the municipal judgment. The reported record involves twelve days of detention on the twin brother’s warrants, repeated identification objections, discrepancies in available identifying information, and accessible means of verification. The municipal claim concerns the absence of adequate procedures for correcting continued mistaken-identity detention, not simply whether the original arrest involved excessive force or whether a particular arresting officer incurred personal liability. ([Justia Law][9])
+
+**Precedent and reasoning.** Actual *Baker v. McCollan* does not make a facially valid warrant conclusive against every later procedural claim. *Mathews*, *Monell*, and *City of Canton* require analysis of the liberty deprivation, feasible safeguards, municipal responsibility, and causation. Supplied *Carter* recognizes deliberate-indifference claims based on a known pattern or obvious recurring constitutional risk; supplied *Plakas* bars municipal liability without a constitutional injury, but does not erase a distinct institutional injury because another claim against individual officers failed.  
+
+**Proposed holding.** A facially valid warrant does not eliminate the duty to provide timely, reasonable identity-verification procedures when credible notice and readily available identifying evidence materially undermine the basis for continuing detention. A municipality may be liable when its deliberately indifferent failure to provide those procedures causes the continued deprivation.
+
+**Legal move and limit.** Apply municipal-liability doctrine and clarify its operation for continued mistaken-identity detention. This creates neither strict liability for every identification error nor a new qualified-immunity exception; the municipal claim requires its own constitutional injury, fault, and causal connection.
+
+### 8. P1: Bechhoefer v. United States Department of Justice, DEA
+
+**Stone’s position.** Affirm on the reported record, while rejecting a categorical “desk-drawer exception.” An informal or unregistered agency collection can qualify when it actually functions as an identifier-based retrieval system. But the Act does not cover every identifying document merely because an agency employee possesses it. Following discovery, the reported evidence described the letters among unrelated papers, without incorporation into an identifier-retrieved collection; the claim that recognizing the author’s letterhead necessarily established a statutory system did not supply the missing organizational or retrieval practice. ([Justia Law][10])
+
+**Precedent and reasoning.** The controlling question is the enacted distinction between a “record” and a record contained in a “system of records.” No supplied simulated holding eliminates the latter requirement. Stone would reject both extremes: formal filing is not indispensable, but a name appearing on a document does not itself establish the required system. Agency labels and an employee’s preferred storage location cannot decide coverage; the actual agency-controlled collection and retrieval method must do that work. The supplied constitutional privacy cases cannot replace this statutory element or manufacture a different action against the DEA. ([Law Resource][11]) 
+
+**Proposed holding.** An agency-controlled collection may be a system of records when it functions to retrieve information through personal identifiers, whether maintained formally or informally. Mere possession of an identifying letter in an otherwise unsystematized assortment of papers does not establish that requirement. The statutory predicate is not established on the record presented.
+
+**Legal move and limit.** Statutory interpretation and narrow application. No categorical immunity for unofficial files, permission to evade an existing system by relocating its records, or revival of the separately dismissed and unappealed First Amendment claim.
+
+### 9. S1: United States v. Bach
+
+**Stone’s position.** Affirm the Eighth Circuit’s rejection of suppression based on the officer’s physical absence. Accept the granted assumption that the stored communications receive Fourth Amendment protection. Having the provider retrieve material under a valid warrant is a method of executing judicial authority, not a reason to declare the communications abandoned or the retrieval a constitutionally irrelevant private search. The reported dispute concerned provider employees performing the electronic retrieval rather than officers entering and searching the provider’s premises. ([Justia Law][12])
+
+**Precedent and reasoning.** Actual *Dalia* rejects a universal requirement that warrants prescribe every execution detail, while *New York Telephone* recognizes lawful technical assistance with execution. Stone would apply those principles without equating assistance with an unrestricted delegation of search authority. The warrant must determine the authorized account and material; the provider may perform the technical work, but officers remain responsible for the constitutionally attributable search they direct. Whether the actual production exceeded the warrant is distinct from whether an officer had to stand beside the technician. ([Justia Law][12])
+
+**Proposed holding.** The Fourth Amendment does not categorically require an officer’s physical presence while a service provider retrieves and delivers communications pursuant to a valid warrant. Provider-assisted execution must remain reasonably confined to the warrant’s authorization and subject to ordinary constitutional accountability for the government-directed search.
+
+**Legal move and limit.** Apply existing warrant-execution principles to electronic retrieval. No third-party abandonment rule, unrestricted provider discretion, automatic approval of every item produced, or new mandatory technical protocol.
+
+### 10. PR1: Westside Mothers v. Haveman
+
+**Stone’s position.** Affirm the judgment allowing the specified childhood screening-and-treatment claims to proceed, and remand for adjudication of eligibility, breach, responsibility, and relief. This grant supersedes the earlier certiorari-denial position because the user has now placed the merits before Stone. The decision should identify the particular childhood-service commands, not pronounce Medicaid enforceable or unenforceable as a whole. The lower-court record was not sufficiently developed to resolve the State’s alternative factual defenses. ([Justia Law][13])
+
+**Precedent and reasoning.** Apply supplied *Blessing* and *Gonzaga*. The relevant provisions identify eligible children and prescribe screening, diagnostic, and necessary treatment duties, rather than merely demand a satisfactory statewide performance percentage. Read the beneficiary and service provisions together, including the applicable parts of §§ 1396a(a)(10), 1396a(a)(43), and 1396d(r); do not convert an aggregate reporting obligation into an individual entitlement. Section 1983 supplies the enforcement mechanism, so this is not invention of a new implied cause of action. General federal funding oversight does not itself demonstrate congressional displacement of that mechanism.  ([Department of Justice][14])
+
+**Proposed holding.** The specified mandatory childhood screening, diagnostic, and treatment provisions confer sufficiently definite individual federal rights on eligible children enforceable through § 1983. Their placement within a federally funded state-plan statute does not reduce them to aggregate funding conditions. The plaintiffs may proceed against proper defendants for independently authorized relief, subject to proof of the particular statutory violations.
+
+**Legal move and limit.** Statutory interpretation under the existing rights-enforcement doctrine. No guarantee of every requested treatment or provider, adjudicated systemwide violation, new reimbursement rate, automatic damages remedy, or assumption that every subsection of Medicaid creates an individual right.
+
+### 11. AD1: Heimmermann v. First Union Mortgage Corp.
+
+**Stone’s position.** Affirm the vacatur of class certification and the remand, but reject the broader proposition that any agency document becomes binding whenever Congress authorizes “interpretations.” Here Stone would read the specific RESPA architecture, including the express interpretive delegation, the statutory treatment of good-faith conformity, and the published, formally identified policy statement, as supporting an authoritative delegated interpretation. He would then determine independently whether it remains within the statute. His personal preference for independent interpretation cannot displace supplied precedent recognizing controlling agency weight within a valid delegation. ([Justia Law][15]) 
+
+**Answer to the two questions.** First, notice-and-comment procedure is not an invariable prerequisite to controlling interpretive weight under the governing *Mead* approach, but express interpretive language is not a universal exemption from procedures required for new legislative duties. Second, the relevant earlier circuit decision relied on its reading of ambiguous HUD guidance; an authorized clarification may remove that interpretive premise without giving HUD power to override a fixed judicial determination of statutory meaning. Stone would therefore avoid announcing a general agency-over-circuit-precedent rule. Supplied *Appalachian Power* continues to prohibit binding duties unsupported by the governing source and required procedure. ([Justia Law][15]) 
+
+**Proposed holding.** The published interpretation presented may receive controlling weight within genuine RESPA ambiguity because it exercises the statute’s specifically delegated interpretive authority; the absence of notice and comment is not alone dispositive. An earlier judicial construction of ambiguous agency guidance does not prevent a lawful agency clarification, although a fixed judicial construction of the statute remains a constraint. Class certification must be reconsidered under the legally correct substantive standard.
+
+**Legal move and limit.** Apply the supplied delegation-and-deference rules and distinguish interpretation of prior guidance from interpretation of statutory meaning. No agency power to erase clear statutory prohibitions, reopen final judgments, deem substantive changes retroactively valid merely by calling them clarifications, declare all yield-spread premiums lawful, or categorically prohibit class treatment under the correct standard.
+
+
