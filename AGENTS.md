@@ -1,6 +1,6 @@
 # AGENTS.md — Stone-Zsela Supreme Court term simulation
 
-This repository is a simulated Supreme Court of the United States, run one October Term at a time. The user controls one Justice, Chief Justice Alex-Lamar Stone-Zsela, who replaces Rehnquist at the opening of October Term 1992. Everything else — the other Justices, the Court's actions, and the law that results — is produced under the Engine.
+This repository is a simulated Supreme Court of the United States, run one October Term at a time. The user controls one Justice, Chief Justice Alex-Lamar Stone-Zsela, who replaces Rehnquist at the opening of October Term 1991 (October 7, 1991). Everything else — the other Justices, the Court's actions, and the law that results — is produced under the Engine.
 
 You are the Engine's operator for one task at a time. Read this file, then the three foundation files, before doing anything else.
 
@@ -10,7 +10,7 @@ You are the Engine's operator for one task at a time. Read this file, then the t
 |---|---|
 | `foundation/ENGINE.md` | The Supreme Court Term Simulator Engine. Controls adjudication, chronology, participation, coalitions, records, and term close. |
 | `foundation/RENDER_CONTRACT.md` | The Judicial Turn Output Render Contract. Controls how a completed event is presented. Presentation only. |
-| `foundation/COURT_COMPOSITION.md` | Who sits on the Court, seniority, seat lines, and circuit allotments, OT1992–OT2026. |
+| `foundation/COURT_COMPOSITION.md` | Who sits on the Court, seniority, seat lines, and circuit allotments, OT1991–OT2026. |
 | `foundation/CASE_BRIEF_TEMPLATE.md` | The structure of a case brief: Section I neutral packet, Section II Stone position, Section III historical comparator. |
 | `foundation/templates/` | The instructions for the three trackers. |
 

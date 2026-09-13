@@ -1,5 +1,5 @@
 # SUPREME COURT COMPOSITION — STONE-ZSELA SIMULATION
-## October Terms 1992–2026
+## October Terms 1991–2026
 
 This is the simulation’s operational roster and circuit-allotment register. It fixes who is seated, which institutional seat line each justice occupies, associate seniority, the dates on which membership changes affect participation, and the circuit order in force after each new justice joins the Court.
 
@@ -7,8 +7,8 @@ This is the simulation’s operational roster and circuit-allotment register. It
 
 ## OPERATING RULES
 
-1. **Stone directly replaces Rehnquist at the opening of OT1992 on October 5, 1992.** Alex-Lamar Stone-Zsela is Chief Justice from OT1992 through OT2026. Rehnquist is never a separate member of the simulation Court, Stone does not enter through a later vacancy, and Rehnquist’s real-world death in 2005 creates no simulation event.
-2. **OT1992 is the simulation’s first October Term.** Stone is seated as Chief Justice when the Term opens on October 5, 1992 and therefore participates throughout the term, subject only to an established case-specific nonparticipation. Byron White remains an Associate Justice through his retirement effective June 28, 1993 and participates in the OT1992 decisions issued that day.
+1. **Stone directly replaces Rehnquist at the opening of OT1991 on October 7, 1991.** Alex-Lamar Stone-Zsela is Chief Justice from OT1991 through OT2026. Rehnquist is never a separate member of the simulation Court, Stone does not enter through a later vacancy, and Rehnquist’s real-world death in 2005 creates no simulation event.
+2. **OT1991 is the simulation’s first October Term.** Stone is seated as Chief Justice when the Term opens on October 7, 1991 and therefore participates throughout the term, subject only to an established case-specific nonparticipation. The Marshall seat is vacant at the opening: Thurgood Marshall’s retirement took effect October 1, 1991, and Clarence Thomas takes the judicial oath on October 23, 1991. Thomas does not participate in a case argued before that date unless it is reargued. Byron White remains an Associate Justice through his retirement effective June 28, 1993 and participates in the OT1992 decisions issued that day.
 3. **The Court always has only the seats shown below.** Stone’s substitution for Rehnquist does not move White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, or any later associate, create an extra seat, or start a chain of displaced justices.
 4. **The later roster is user-pinned.** White is succeeded by Ginsburg before OT1993. Blackmun is succeeded by Breyer before OT1994. O’Connor remains on the Court through January 31, 2006; Roberts then takes O’Connor’s associate seat at the real-world Alito timing/slot, Roberts remains an associate, and Alito never enters. Scalia’s seat later passes to Goodwin H. Liu, so Gorsuch never receives that seat. Kavanaugh, Barrett, and Jackson enter on the seat lines shown below.
 5. **Seat lineage, seniority, and circuit allotment are separate systems.** A change in one does not mechanically alter either of the others. Circuit assignments are administrative responsibilities, not inherited judicial seats.
@@ -34,7 +34,8 @@ The effective date below is the circuit-reallotment date, not necessarily the Ju
 
 | New Justice or opening event | Effective date | Principal placement changes | Operational judgment |
 |---|---:|---|---|
-| Stone replaces Rehnquist at simulation opening | October 5, 1992 | Stone: D.C., Fourth, Federal; Kennedy: Ninth; White: Tenth; Thomas: Eleventh; Scalia: Second and Third; O'Connor: Fifth | Opening map emphasizes direct circuit experience, regional familiarity, emergency-docket fit, and institutional responsibility |
+| Stone replaces Rehnquist at simulation opening | October 7, 1991 | Stone: D.C., Fourth, Federal; Souter: First; Scalia: Second and Third; O'Connor: Fifth; Stevens: Sixth and Seventh; Blackmun: Eighth; Kennedy: Ninth and Eleventh (interim, Marshall seat vacant); White: Tenth | Opening map emphasizes direct circuit experience, regional familiarity, emergency-docket fit, and institutional responsibility; the Eleventh stays with Kennedy, who held it in the historical allotment, until the vacant seat is filled |
+| Thomas takes the Marshall seat | October 23, 1991 | Thomas: Eleventh; Kennedy: Ninth; all other assignments unchanged | Thomas's Georgia and Southeast connection makes the Eleventh the strongest fit; no other assignment improves by moving |
 | White → Ginsburg | August 10, 1993 | Ginsburg: Second; Scalia: Third and Fifth; O'Connor: Tenth; Kennedy remains Ninth; Thomas remains Eleventh | Ginsburg receives the New York-centered Second; the remaining circuits are rebalanced without disturbing the strongest regional fits |
 | Breyer replaces Blackmun | Aug. 3, 1994 | Breyer: First; Souter: Third; O'Connor: Eighth and Tenth; Scalia: Fifth; Kennedy: Ninth; Thomas: Eleventh | Breyer's First Circuit experience is used directly; the western, southern, and institutional assignments are consolidated around demonstrated fit |
 | Roberts replaces O'Connor | Feb. 1, 2006 | Roberts: Third; Souter: First; Breyer: Eighth and Tenth; Kennedy: Ninth; Thomas: Eleventh | Roberts receives a Mid-Atlantic institutional circuit; the Ninth stays with the Justice with the deepest Ninth Circuit experience |
@@ -47,9 +48,29 @@ The effective date below is the circuit-reallotment date, not necessarily the Ju
 
 A reexamination may reaffirm the same assignment. The rule requires reassessment, not artificial rotation.
 
-### Opening order effective October 5, 1992
+### Opening order effective October 7, 1991
 
-This is Stone's first circuit-allotment order. It is an independent simulation judgment based on effectiveness rather than an inherited historical map. It takes effect at the opening of OT1992 on October 5, 1992 and remains in force through August 9, 1993 unless a case-specific order establishes otherwise.
+This is Stone's first circuit-allotment order. It is an independent simulation judgment based on effectiveness rather than an inherited historical map. It takes effect at the opening of OT1991 on October 7, 1991, when the Marshall seat is vacant, and remains in force until Thomas takes the judicial oath on October 23, 1991.
+
+| Circuit | Circuit Justice |
+|---|---|
+| District of Columbia Circuit | **Alex-Lamar Stone-Zsela, Chief Justice** |
+| First Circuit | David H. Souter, Associate Justice |
+| Second Circuit | Antonin Scalia, Associate Justice |
+| Third Circuit | Antonin Scalia, Associate Justice |
+| Fourth Circuit | **Alex-Lamar Stone-Zsela, Chief Justice** |
+| Fifth Circuit | Sandra Day O'Connor, Associate Justice |
+| Sixth Circuit | John Paul Stevens, Associate Justice |
+| Seventh Circuit | John Paul Stevens, Associate Justice |
+| Eighth Circuit | Harry A. Blackmun, Associate Justice |
+| Ninth Circuit | Anthony M. Kennedy, Associate Justice |
+| Tenth Circuit | Byron R. White, Associate Justice |
+| Eleventh Circuit | Anthony M. Kennedy, Associate Justice (interim, until October 23, 1991) |
+| Federal Circuit | **Alex-Lamar Stone-Zsela, Chief Justice** |
+
+### Order effective October 23, 1991
+
+Thomas's accession triggers a complete reallotment. This order remains in force through August 9, 1993 unless a case-specific order establishes otherwise.
 
 | Circuit | Circuit Justice |
 |---|---|
@@ -67,7 +88,7 @@ This is Stone's first circuit-allotment order. It is an independent simulation j
 | Eleventh Circuit | Clarence Thomas, Associate Justice |
 | Federal Circuit | **Alex-Lamar Stone-Zsela, Chief Justice** |
 
-The principal fit judgments are Kennedy to the Ninth because of his long Ninth Circuit service; White to the Tenth because of his Colorado and regional connection; Thomas to the Eleventh because of his Georgia and Southeast connection; Scalia to the Second and Third because of his New York-New Jersey roots and federal-law expertise; and Stone to the D.C., Fourth, and Federal Circuits for institutional supervision.
+The principal fit judgments are Kennedy to the Ninth because of his long Ninth Circuit service; White to the Tenth because of his Colorado and regional connection; Thomas to the Eleventh because of his Georgia and Southeast connection; Scalia to the Second and Third because of his New York-New Jersey roots and federal-law expertise; and Stone to the D.C., Fourth, and Federal Circuits for institutional supervision. Between October 7 and October 23, 1991 the Eleventh remained with Kennedy, who held it in the historical allotment, rather than being moved twice within one month.
 
 ### Order effective August 10, 1993
 
@@ -262,9 +283,9 @@ This order remains in force through OT2026 unless the simulation records a later
 
 A seat line is only a continuity label for the judicial office. It does not move another sitting justice, alter seniority, or transfer circuit assignments.
 
-| Institutional seat line | OT1992 occupant | Simulation succession | OT2026 occupant |
+| Institutional seat line | OT1991 occupant | Simulation succession | OT2026 occupant |
 |---|---|---|---|
-| Chief Justice line | **Alex-Lamar Stone-Zsela** | Stone directly substitutes for Rehnquist before OT1992; no later vacancy | **Alex-Lamar Stone-Zsela** |
+| Chief Justice line | **Alex-Lamar Stone-Zsela** | Stone directly substitutes for Rehnquist before OT1991; no later vacancy | **Alex-Lamar Stone-Zsela** |
 | White line | Byron R. White | White → Ginsburg → Barrett | Amy Coney Barrett |
 | Blackmun line | Harry Blackmun | Blackmun → Breyer → Jackson | Ketanji Brown Jackson |
 | Stevens line | John Paul Stevens | Stevens → Kagan | Elena Kagan |
@@ -272,7 +293,7 @@ A seat line is only a continuity label for the judicial office. It does not move
 | Scalia line | Antonin Scalia | Scalia → Goodwin H. Liu | Goodwin H. Liu |
 | Kennedy line | Anthony Kennedy | Kennedy → Kavanaugh | Brett M. Kavanaugh |
 | Souter line | David Souter | Souter → Sotomayor | Sonia Sotomayor |
-| Marshall line | Clarence Thomas | No change | Clarence Thomas |
+| Marshall line | Vacant at the opening; Clarence Thomas from October 23, 1991 | Marshall → Thomas on October 23, 1991; no later change | Clarence Thomas |
 
 ---
 
@@ -282,7 +303,9 @@ The Chief is Stone in every row. Associates are listed **senior to junior**. Not
 
 | October Term(s) | Associates, senior → junior | Vacancy or transition |
 |---|---|---|
-| **OT1992** | White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | Stone directly substitutes for Rehnquist as Chief before the term; White remains seated through June 28, 1993 |
+| **OT1991, before Oct. 23, 1991** | White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter | Stone directly substitutes for Rehnquist as Chief before the term; Marshall line vacant; eight-member Court |
+| **OT1991, on and after Oct. 23, 1991** | White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, **Thomas** | Thomas takes the judicial oath Oct. 23, 1991 and does not participate in cases argued earlier unless reargued |
+| **OT1992** | White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | Nine-member Court; White remains seated through June 28, 1993 |
 | **OT1993** | Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | White → Ginsburg before the term; Stone continues as Chief |
 | **OT1994–OT2004** *(11 terms)* | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Blackmun → Breyer before OT1994 |
 | **OT2005, before Jan. 31, 2006** | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | O’Connor remains seated; Roberts has not yet joined |
@@ -307,10 +330,11 @@ Confirmation and seating are different events. The participation date is the dat
 
 | Seat event | Confirmation or departure | Operational result |
 |---|---|---|
-| **Opening substitution: Rehnquist → Stone** | Effective October 5, 1992, before the first sitting of OT1992 | Stone is Chief as one of nine justices for the entire OT1992 term. No vacancy is created, no associate is displaced, and no seniority domino occurs. Rehnquist never participates in the simulation. |
+| **Opening substitution: Rehnquist → Stone** | Effective October 7, 1991, before the first sitting of OT1991 | Stone is Chief from the first day of OT1991. The substitution creates no vacancy, displaces no associate, and causes no seniority domino. Rehnquist never participates in the simulation. |
+| **Marshall → Thomas** | Marshall’s retirement effective Oct. 1, 1991; Thomas confirmed Oct. 15, 1991 and took the judicial oath Oct. 23 | Eight-member Court from the OT1991 opening until Oct. 23, 1991. Thomas does not participate in OT1991 cases argued before Oct. 23 unless reargued. |
 | **White → Ginsburg** | White’s retirement effective June 28, 1993; Ginsburg confirmed Aug. 3, 1993 and took the judicial oath Aug. 10 | White participates through the OT1992 decisions issued June 28, 1993 and not thereafter. Ginsburg is seated before OT1993 and participates throughout that term. |
 | **Blackmun → Breyer** | Breyer confirmed July 29, 1994; took seat Aug. 3 | Breyer participates throughout OT1994 |
-| **Rehnquist’s real-world death** | Rehnquist died Sept. 3, 2005 in real history | No simulation vacancy or transition. Rehnquist has not been a member of this Court since before OT1992 opened. |
+| **Rehnquist’s real-world death** | Rehnquist died Sept. 3, 2005 in real history | No simulation vacancy or transition. Rehnquist has not been a member of this Court since before OT1991 opened. |
 | **O’Connor → Roberts** | O’Connor’s service ends Jan. 31, 2006; after her departure, Roberts takes the judicial oath as an associate that day in the simulation | Roberts takes the O’Connor line as the most-junior associate at the real-world Alito timing/slot; Alito is absent. No other seat line moves. Roberts does not participate in OT2005 cases argued before his oath unless reargued. |
 | **Souter → Sotomayor** | Sotomayor confirmed Aug. 6, 2009; took seat Aug. 8 | Sotomayor participates throughout OT2009 |
 | **Stevens → Kagan** | Kagan confirmed Aug. 5, 2010; took seat Aug. 7 | Kagan participates throughout OT2010 |
@@ -326,7 +350,7 @@ Confirmation and seating are different events. The participation date is the dat
 
 | Event | Real history | Stone-Zsela simulation |
 |---|---|---|
-| Chief Justice line, 1992 | Rehnquist remains Chief in real history | Stone directly substitutes for Rehnquist before OT1992; this is the simulation’s opening divergence, not a later vacancy |
+| Chief Justice line, 1991 | Rehnquist remains Chief in real history | Stone directly substitutes for Rehnquist before OT1991; this is the simulation’s opening divergence, not a later vacancy |
 | O’Connor vacancy, 2005–06 | Roberts is first nominated for O’Connor’s seat, then becomes Chief after Rehnquist’s death; Alito receives O’Connor’s seat on Jan. 31, 2006 | Stone is already Chief, so Roberts stays on the O’Connor succession path and takes her associate seat after she leaves on Jan. 31, 2006; Roberts occupies the real-world Alito timing/slot and Alito never enters |
 | Scalia vacancy, 2016 | Gorsuch seated in 2017 | Goodwin H. Liu confirmed under Obama and seated before OT2016; Gorsuch absent |
 | Kennedy vacancy, 2018 | Kavanaugh | Kavanaugh, user-pinned |
@@ -336,13 +360,13 @@ Confirmation and seating are different events. The participation date is the dat
 
 ---
 
-## COURT AT THE START OF OT1992
+## COURT AT THE START OF OT1991
 
 Stone is Chief Justice from the opening of the simulation. Associates are listed senior to junior.
 
 | Rank | Justice | Role | Institutional seat line | Supreme Court service began |
 |---:|---|---|---|---|
-| — | **Alex-Lamar Stone-Zsela** | **Chief Justice** | Chief Justice line | Simulation opening before OT1992 |
+| — | **Alex-Lamar Stone-Zsela** | **Chief Justice** | Chief Justice line | Simulation opening before OT1991 |
 | 1 | Byron R. White | Senior Associate Justice | White line | April 16, 1962 |
 | 2 | Harry A. Blackmun | Associate Justice | Blackmun line | June 9, 1970 |
 | 3 | John Paul Stevens | Associate Justice | Stevens line | December 19, 1975 |
@@ -350,13 +374,13 @@ Stone is Chief Justice from the opening of the simulation. Associates are listed
 | 5 | Antonin Scalia | Associate Justice | Scalia line | September 26, 1986 |
 | 6 | Anthony M. Kennedy | Associate Justice | Kennedy line | February 18, 1988 |
 | 7 | David H. Souter | Associate Justice | Souter line | October 9, 1990 |
-| 8 | Clarence Thomas | Most-junior Associate Justice | Marshall line | October 23, 1991 |
+| 8 | Clarence Thomas | Most-junior Associate Justice (seat vacant until his judicial oath) | Marshall line | October 23, 1991 |
 
-### OT1992 assignment order
+### OT1991 assignment order
 
 Stone assigns whenever he is in the majority. If Stone is not in the majority, assignment passes through the participating associates in this order:
 
-**White → Blackmun → Stevens → O’Connor → Scalia → Kennedy → Souter → Thomas**
+**White → Blackmun → Stevens → O’Connor → Scalia → Kennedy → Souter → Thomas** (Thomas from October 23, 1991)
 
 ---
 
@@ -384,9 +408,9 @@ Stone assigns whenever he is in the majority. If Stone is not in the majority, a
 
 ---
 
-## HISTORICAL BASELINE NOTES FOR THE OT1992 RESET
+## HISTORICAL BASELINE NOTES FOR THE OT1991 RESET
 
-- The real OT1992 Court began October 5, 1992 with Rehnquist, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. The simulation changes only the Chief Justice line at opening: Stone replaces Rehnquist.
-- The historical circuit allotment in force for OT1992 assigned the Chief Justice to the District of Columbia, Fourth, and Federal Circuits; Souter to the First and Third; Thomas to the Second; Scalia to the Fifth; Stevens to the Sixth and Seventh; Blackmun to the Eighth; O’Connor to the Ninth; White to the Tenth; and Kennedy to the Eleventh. The simulation opening order preserves that structure with Stone in the Chief Justice assignments.
+- The real OT1991 Court began October 7, 1991 with Rehnquist, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, and Souter; the Marshall seat was vacant after Marshall’s retirement took effect October 1, 1991. Clarence Thomas was confirmed October 15, 1991 and took the judicial oath October 23, 1991. The simulation changes only the Chief Justice line at opening: Stone replaces Rehnquist.
+- The historical circuit allotment in force for OT1992 assigned the Chief Justice to the District of Columbia, Fourth, and Federal Circuits; Souter to the First and Third; Thomas to the Second; Scalia to the Fifth; Stevens to the Sixth and Seventh; Blackmun to the Eighth; O’Connor to the Ninth; White to the Tenth; and Kennedy to the Eleventh. The simulation's opening order of October 7, 1991 and the reallotment of October 23, 1991 are Stone's own effectiveness judgments under the rules above; they keep the Chief Justice's institutional circuits.
 - White’s retirement was effective June 28, 1993. Ginsburg took the judicial oath August 10, 1993.
-- The October 1, 1993 circuit order in this document remains the previously user-pinned simulation order. Moving the simulation opening back to OT1992 does not silently rewrite that pinned distribution.
+- The October 1, 1993 circuit order in this document remains the previously user-pinned simulation order. Moving the simulation opening back to OT1991 does not silently rewrite that pinned distribution.
