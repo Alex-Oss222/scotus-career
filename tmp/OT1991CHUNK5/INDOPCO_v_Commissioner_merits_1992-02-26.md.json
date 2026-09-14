@@ -1,0 +1,136 @@
+{
+  "name": "INDOPCO, Inc. v. Commissioner",
+  "page": 79,
+  "end": 90,
+  "docket": "No. 90-1278",
+  "date": "1992-02-26",
+  "argued": "November 12, 1991",
+  "arguedISO": "1991-11-12",
+  "below": "Third Circuit, 918 F.2d 426",
+  "file": "INDOPCO_v_Commissioner_merits_1992-02-26.md",
+  "archive": "micro_IA40385013_0081",
+  "event": "The taxpayer, formerly National Starch and Chemical Corporation, seeks current deduction of professional acquisition expenses disallowed by the Tax Court and Third Circuit.",
+  "questions": "Whether the target’s professional expenses in this friendly acquisition are deductible under §162(a), and whether creation or enhancement of a separate and distinct asset is necessary for capitalization under §263.",
+  "baseline": "The four February 26 events are uncoordinated and share a start-of-day baseline including the committed February 25 decisions. None uses another February 26 decision as earlier law.",
+  "record": "Unilever’s negotiated acquisition was completed in August 1978. National Starch incurred investment-banking, legal and related expenses to evaluate and accomplish it. Stipulated facts and findings establish enduring corporate benefits from access to Unilever resources and conversion from an independent public corporation to subsidiary status. The taxpayer deducted banking expenses on its return and sought the additional deductions in Tax Court. Commercial propriety and reasonableness of the charges are not disputed. The Commissioner seeks capital classification. A shareholder’s estate-planning preference is not itself treated as a corporate benefit.",
+  "entering": "IRC §162(a) permits ordinary and necessary current business expenses; §263 denies immediate deduction for capital expenditures. Lincoln Savings, 403 U.S. 345, capitalizes an outlay creating a distinct asset; Welch, 290 U.S. 111, distinguishes current from capital expense; Woodward, 397 U.S. 572, and Hilton Hotels, 397 U.S. 580, address acquisition-related professional costs. Idaho Power, 418 U.S. 1, preserves capitalization over an otherwise available expense category; the taxpayer bears the ordinary burden of demonstrating an authorized deduction. The February 25 Holywell tax-category holdings do not decide this different statutory classification or create a new tax-method rule.",
+  "reach": "The legal asset-prerequisite argument and classification on the established transaction record are reached. Hostile acquisitions, failed transactions, unrelated professional fees and a particular amortization period are not decided.",
+  "stoneCheck": "The actual transaction, corporate benefits and relevant Code provisions match the approved core. Stone joins capitalization of these expenses and rejection of an exclusive asset prerequisite, preserving the incidental-benefit limitation and all later-cost-recovery questions.",
+  "action": "The Third Circuit’s judgment denying the immediate deductions is affirmed, 9–0.",
+  "components": [
+    {
+      "title": "Current deduction of the disputed acquisition expenses",
+      "result": "Affirmed",
+      "yes": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "no": [],
+      "remedy": "Capital classification remains; no new amortization schedule or tax amount is determined."
+    }
+  ],
+  "opinions": [
+    {
+      "form": "Opinion of the Court",
+      "author": "Blackmun",
+      "joins": [
+        "Stone",
+        "White",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "relationship": "Supports affirmance",
+      "scope": "Separate-asset argument, enduring corporate benefits and classification of these transaction expenses."
+    }
+  ],
+  "assignment": "Stone assigns Blackmun from the unanimous affirmance coalition.",
+  "holdings": [
+    {
+      "title": "A separate asset is sufficient, but not necessary, for capitalization",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "Creation or enhancement of a separate and distinct asset is a sufficient ground for capitalization under §263, not an indispensable condition; the character, duration and extent of a transaction’s benefits also matter. The professional expenses facilitating this acquisition’s established enduring corporate restructuring benefits are capital expenditures, not immediately deductible §162(a) operating expenses; mere incidental future benefit alone does not compel capitalization.",
+      "authority": "Blackmun’s opinion, joined by the other eight Justices; unanimous statutory holding and record application.",
+      "explanation": "The Court holds that a sensible business expenditure need not be a current operating expense. Lincoln Savings classified the particular asset-producing payment before it as capital; it did not make creation of a separate asset the only route to capitalization. Welch recognizes that the distinction depends on the expenditure’s character and circumstances, while Woodward and Hilton Hotels connect professional costs to the capital transactions they facilitate. Here the record supports substantial corporate benefits extending beyond 1978: access to Unilever’s resources, simplified ownership and lasting changes in corporate structure. Those benefits belong to the corporation and do not depend solely on a shareholder’s estate-planning preference or an invented profit forecast. The taxpayer’s proposed asset prerequisite would turn a sufficient explanation into an exclusive statutory definition. Its concern about routine expenses is answered by preserving the difference between substantial enduring benefits and incidental future usefulness. The Court affirms only these expenses’ capital classification and determines neither every acquisition’s treatment nor a later recovery period.",
+      "precedents": [
+        "*Commissioner v. Lincoln Savings & Loan Association*, 403 U.S. 345 — clarified: a separate asset supplies a sufficient capitalization ground, not an exclusive prerequisite.",
+        "*Welch v. Helvering*, 290 U.S. 111 — applied for the contextual distinction between necessary business outlays and current expenses.",
+        "*Woodward v. Commissioner*, 397 U.S. 572 — applied for the connection between professional expenses and the underlying capital acquisition.",
+        "*United States v. Hilton Hotels Corp.*, 397 U.S. 580 — applied for acquisition-related professional costs’ capital character.",
+        "*Commissioner v. Idaho Power Co.*, 418 U.S. 1 — preserved: ordinary expense categories do not override required capitalization.",
+        "*Interstate Transit Lines v. Commissioner*, 319 U.S. 590 — the taxpayer’s burden to establish an authorized deduction remains unchanged."
+      ]
+    }
+  ],
+  "law": "Effective February 26, the asset-prerequisite contention is rejected and these friendly-acquisition expenses must be capitalized. Lincoln Savings retains full force for its sufficient asset-based category. The §162/§263 distinction, ordinary burden, incidental-benefit qualification and separate rules for later cost recovery remain in force; no automatic capitalization rule for every future benefit or professional fee is created.",
+  "separate": "No separate writing was issued.",
+  "procedure": "Supreme Court review ends with affirmance. The reviewed denial of immediate deductions remains operative. No remand for a different classification, amortization schedule or additional tax assessment is ordered.",
+  "dependencies": "Holywell’s distinct filing obligations remain untouched. Subsequent capitalization questions require their own facts rather than assuming every acquisition expense has these benefits.",
+  "form": "compact",
+  "formBasis": "unanimous judgment and full opinion, with no material change in rule, coalition, application, remedy or precedent treatment beyond replacing Rehnquist with Stone.",
+  "sourceMap": "503 U.S. 80–83 verifies the stipulated transaction, expenses and judgments; pages 83–88 the statutory framework and Lincoln Savings argument; pages 88–90 the corporate benefits and limited classification.",
+  "audit": [
+    {
+      "justice": "White",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Blackmun",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Stevens",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "O'Connor",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Scalia",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Kennedy",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Souter",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Thomas",
+      "provisional": "Affirm under §§162/263, Lincoln Savings as a sufficient rather than exclusive category, and Welch/Woodward’s character-of-expenditure analysis; preserve incidental future benefit and later recovery questions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    }
+  ],
+  "alternatives": "The asset-prerequisite path overreads Lincoln Savings because the Court there did not adjudicate every nonasset expenditure. Rejecting that prerequisite could have led to remand if enduring benefits were unsupported, but the stipulated transaction and affirmed findings supply them here. Capital classification does not become a judicially selected amortization period.",
+  "auditFinal": "All nine support affirmance and the single combined statutory rule/application. No distinct independently sufficient alternative holding or separate opinion is omitted. No non-Stone departure or material revision."
+}

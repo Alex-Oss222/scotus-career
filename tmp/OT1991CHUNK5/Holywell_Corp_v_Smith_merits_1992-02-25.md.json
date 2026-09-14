@@ -1,0 +1,190 @@
+{
+  "name": "Holywell Corp. v. Smith",
+  "page": 47,
+  "end": 59,
+  "docket": "No. 90-1361; No. 90-1484 (United States v. Smith)",
+  "date": "1992-02-25",
+  "argued": "December 4, 1991",
+  "arguedISO": "1991-12-04",
+  "below": "Eleventh Circuit, 911 F.2d 1539",
+  "file": "Holywell_Corp_v_Smith_merits_1992-02-25.md",
+  "archive": "micro_IA40385013_0085",
+  "event": "Both petitions challenge the declaration that the liquidating trustee had no federal income-tax filing or payment duty.",
+  "questions": "Whether Smith is responsible for corporate returns and returns for the trust holding Gould’s former estate property, with the corresponding payment duties, and whether confirmation of a plan silent about taxes excuses those duties.",
+  "baseline": "The three February 25 decisions are uncoordinated and share the law effective through January 27; none uses another February 25 decision as entering law.",
+  "record": "The debtors and United States seek reversal in both dockets. The confirmed plan transferred substantially all corporate property and Gould’s estate property to the separate Miami Center Liquidating Trust, effective October 10, 1985, with Smith authorized to liquidate and distribute it. It did not simply substitute a manager in an unchanged individual estate. The plan omitted taxes, and the United States did not object. The bankruptcy court, district court and Eleventh Circuit accepted Smith’s requested declaration of no filing or payment duty. The issue concerns postappointment return/payment obligations, not a final computation or taxes already due before appointment.",
+  "entering": "IRC §§6012(b)(3), 6012(b)(4), 6151(a), 7701(a)(6), and §§671–677; 1991 Treasury Regulations §§301.7701-4(d), 301.7701-6 and 1.677(a)-1(d); Bankruptcy Code §§1123(a)(5)(B), 1141(a) and creditor definition §101(10). Corporate assignee and separate trust fiduciary are distinct statutory categories. In re Sonner, 53 B.R. 859, involves property apparently revested in its debtor before a later trust contribution. Simulated Wolas (December 11) and Dewsnup (January 15) decide other Code questions without a tax exception. Same-day Nordic Village is not entering law.",
+  "reach": "Both petitioners may challenge the same declaratory judgment; separate statutory categories are resolved on established plan terms. No exact tax, deduction, penalty or preappointment tax liability is determined.",
+  "stoneCheck": "Both statutory categories, actual transfer and plan silence match the fixed core. Stone joins the three holdings below and votes to reverse both dockets and remand for ordinary implementation. “After appointment” describes when the return/payment duties are imposed; no tax on income or payment previously due is invented.",
+  "action": "The judgment in both consolidated cases is reversed unanimously, and the cases are remanded for implementation of Smith’s statutory filing and payment duties.",
+  "components": [
+    {
+      "title": "Corporate-property returns and payment, both dockets",
+      "result": "Reversed and remanded",
+      "yes": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "no": [],
+      "remedy": "Smith files the prescribed corporate returns as assignee and pays tax due with them under §6151."
+    },
+    {
+      "title": "Separate-trust returns and payment; confirmation defense, both dockets",
+      "result": "Reversed and remanded",
+      "yes": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "no": [],
+      "remedy": "Smith files as trust fiduciary and pays tax due; amounts and implementation remain for ordinary proceedings."
+    }
+  ],
+  "opinions": [
+    {
+      "form": "Opinion of the Court",
+      "author": "Thomas",
+      "joins": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter"
+      ],
+      "relationship": "Supports both reversals and remand",
+      "scope": "Corporate assignee, individual-property trust fiduciary, and silent-plan defense."
+    }
+  ],
+  "assignment": "Stone assigns Thomas from the unanimous judgment coalition.",
+  "holdings": [
+    {
+      "title": "Corporate assignee’s filing and payment duty",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "An assignee holding all or substantially all of a corporation’s property must make its income-tax return under §6012(b)(3), whether or not the corporation dissolves or the assignee continues its business. Smith’s receipt of the corporate estate property satisfies that category, and §6151(a) requires payment of the tax due with those returns.",
+      "authority": "Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous controlling statutory construction.",
+      "explanation": "The Court holds that the tax duty follows the statutory assignment, not a narrower bankruptcy label. Section 6012(b)(3) expressly includes an assignee holding all or substantially all corporate property and expressly applies whether or not the property or business is being operated. The plan made Smith that assignee. He therefore must file the returns the corporations would have filed had the plan not assigned their property. The argument that only a conventional operating receiver or a fiduciary winding up a dissolved corporation qualifies cannot be reconciled with the broader enacted term and its express qualification. First National Bank of Greeley and Louisville Property illustrate applications to particular fiduciaries; they do not impose exclusive factual categories. Section 6151 connects the filing duty with payment when due. The Court need not decide whether Smith also qualifies under another statutory label, and it does not compute income, deductions, penalties or a tax amount.",
+      "precedents": [
+        "*First National Bank of Greeley v. United States*, 86 F.2d 938 — its winding-up application does not limit the statute to dissolution.",
+        "*Louisville Property Co. v. Commissioner*, 140 F.2d 547 — its operating-fiduciary setting does not exclude a qualifying assignee."
+      ]
+    },
+    {
+      "title": "Fiduciary of the separate liquidating trust",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "A fiduciary of a separate liquidating trust must file the trust’s return under §6012(b)(4) and pay the associated tax under §6151 when the plan and duties meet the governing trust and fiduciary definitions. Here Gould’s estate property passed directly into that trust rather than revesting in Gould, so the asserted grantor-trust theory does not displace Smith’s duty.",
+      "authority": "Thomas’s unanimous opinion; all nine Justices join the trust-specific classification and corresponding payment duty.",
+      "explanation": "The Court holds that Smith’s responsibility for Gould’s transferred property arises from his position as trust fiduciary. The plan created a separate liquidating trust and vested the estate property in it; it did not merely replace Gould as manager of the same bankruptcy estate. Treasury Regulation §301.7701-4(d) recognizes a trust organized to liquidate and distribute transferred assets, and Smith’s powers satisfy §7701(a)(6) and Regulation §301.7701-6. Restrictions on his discretion do not eliminate that fiduciary function. The grantor-trust objection also fails on the actual transfer. In re Sonner involved property apparently returned to the debtor before contribution to a trust; here the estate transferred the property directly and Gould made no such contribution. The Court does not approve or disapprove Sonner’s result on its different facts. Nor does it decide that all liquidating trusts are taxed alike or displace grantor provisions when their predicates actually exist. The corresponding tax amount remains unadjudicated.",
+      "precedents": [
+        "*In re Sonner*, 53 B.R. 859 — distinguished by revesting and contribution; its result on those different facts is left open."
+      ]
+    },
+    {
+      "title": "A silent confirmed plan does not excuse prospective tax duties",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "Confirmation under §1141(a) of a plan silent about taxes, coupled with the United States’ failure to object, does not excuse the statutory return and payment obligations imposed on this assignee and trust fiduciary after appointment. The binding treatment of properly encompassed preconfirmation claims does not establish an exemption from these later obligations.",
+      "authority": "Thomas’s unanimous opinion; all nine Justices reject the plan-confirmation defense.",
+      "explanation": "The Court holds that the confirmed plan supplies no prospective exemption from the tax laws. The United States seeks recognition of Smith’s duties as assignee and fiduciary after his appointment, not payment from him of taxes already due before appointment. Section 6151 links the payment obligation to the time prescribed for the required return. Hartman v. Lauchli and Pan American Van Lines confirm that connection. Even assuming §1141(a) binds creditors with respect to claims that arose before confirmation, that premise does not bind them as to the later obligations at issue. The Code’s creditor definition reinforces the distinction. Government silence cannot supply an exemption the plan never stated or adjudicated. Respect for confirmation therefore does not justify the declaration that Smith has no duty at all. Existing tax claims expressly adjudicated through a plan present a different question. Ordinary tax and bankruptcy proceedings must determine the proper amounts and carry out the filing and payment duties.",
+      "precedents": [
+        "*Hartman v. Lauchli*, 238 F.2d 881 — applied for the connection between the return’s due date and payment duty.",
+        "*Pan American Van Lines v. United States*, 607 F.2d 1299 — applied for the same timing principle."
+      ]
+    }
+  ],
+  "law": "Effective February 25, the tax statutes govern this plan through separate corporate-assignee and trust-fiduciary categories. No bankruptcy-policy or silent-confirmation exemption defeats the resulting duties. The decision resolves these previously unadjudicated applications without changing the grantor-trust predicates, taxes already due, or the ordinary process for computing and collecting the proper liability.",
+  "separate": "No separate writing was issued.",
+  "procedure": "Supreme Court review ends in both dockets with reversal and remand. Smith’s prescribed filing and accompanying postappointment payment obligations are declared; amounts and implementation return to ordinary tax and bankruptcy procedures. No Supreme Court supervision is retained.",
+  "dependencies": "INDOPCO may recognize this source-specific tax classification without using it to decide capitalization. No same-day Nordic Village dependency exists.",
+  "form": "compact",
+  "formBasis": "unanimous judgment and opinion; both statutory categories, the confirmation rule and ordinary implementation match the comparator. The express return for implementation adds no different tax, remedy or adjudicated issue.",
+  "sourceMap": "503 U.S. 49–52 verifies plan terms, transfer, dates and review posture; pages 52–54 corporate classification; pages 54–58 trust, grantor and discretion issues; pages 58–59 the government’s limited demand and postappointment duty.",
+  "audit": [
+    {
+      "justice": "White",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "Blackmun",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "Stevens",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "O'Connor",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "Scalia",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "Kennedy",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "Souter",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    },
+    {
+      "justice": "Thomas",
+      "provisional": "Reverse both categories under §6012(b)(3)/(4), the actual assignment and trust terms, §6151 and §1141(a); no statutory basis for an operating-business-only or silent-plan exemption.",
+      "reconciliation": "Historical result and sufficient ground match; no departure or material commitment revision."
+    }
+  ],
+  "alternatives": "The corporate route cannot be defeated by restricting “assignee” to another statutory category. The government’s individual-estate theory is rejected in favor of the plan’s actual separate trust; the same judgment does not adopt that alternate theory. The grantor and nondiscretionary-agent objections fail on actual transfer and fiduciary powers. The confirmation path addresses existing claims and does not excuse later statutory duties.",
+  "auditFinal": "Every Justice supports both docket components and each of the three statutory propositions. No alternative ground is counted merely because it would reach the same tax result. All final joins remain compatible with the original neutral commitments and Stone’s two express property categories and limits; no substantive circulation change is needed."
+}

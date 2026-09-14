@@ -1,0 +1,201 @@
+{
+  "name": "Collins v. City of Harker Heights",
+  "page": 115,
+  "end": 130,
+  "docket": "No. 90-1279",
+  "date": "1992-02-26",
+  "argued": "November 5, 1991",
+  "arguedISO": "1991-11-05",
+  "below": "Fifth Circuit, 916 F.2d 284",
+  "file": "Collins_v_City_of_Harker_Heights_merits_1992-02-26.md",
+  "archive": "micro_IA40385013_0082",
+  "event": "The Court reviews dismissal of a widow’s municipal substantive-due-process claim following her husband’s death while working in a sewer.",
+  "questions": "Whether §1983 imposes an independent governmental-power-abuse element on public employees, and whether the pleaded deliberate failures to train, warn and equip establish a federal substantive-due-process deprivation.",
+  "baseline": "The four February 26 events are uncoordinated and share a start-of-day baseline including the committed February 25 decisions. None uses another February 26 decision as earlier law.",
+  "record": "Larry Collins died from asphyxia after entering a manhole to clear a sewer on October 21, 1988. The complaint alleges knowing policies of deficient training, warnings and equipment, a supervisor’s prior loss of consciousness, and intentional failure to comply with the Texas Hazard Communication Act. The city’s alleged knowledge and deliberate omissions are accepted at dismissal. There is no allegation that officials deliberately injured Collins or directed him into a known dangerous sewer. The district court found no constitutional violation; the Fifth Circuit affirmed on an additional governmental-abuse element without deciding that issue. Collins seeks reversal; the city defends both statutory and constitutional grounds.",
+  "entering": "Section 1983 requires a federal deprivation under color of state law. Monell, 436 U.S. 658, requires municipal policy/custom and causation; Canton, 489 U.S. 378, addresses attribution through deliberately indifferent training, not creation of a substantive right. Daniels, 474 U.S. 327, distinguishes constitutional deprivation from ordinary tort; DeShaney, 489 U.S. 189, rejects a general protection duty while preserving its custody and affirmative-action distinctions; Youngberg, 457 U.S. 307, concerns involuntary custody. Rochin, 342 U.S. 165, identifies constitutionally arbitrary bodily intrusion. Bishop, 426 U.S. 341, and Roth, 408 U.S. 564, distinguish public employment and state entitlements from a general substantive guarantee. The ordinary entering Rule 12(b)(6) pleading framework applies. Hudson’s February 25 narrow beating holding does not make public employment custody. Hafer/Hunter concern individual capacities and defenses, not an automatic municipal defense.",
+  "reach": "The properly presented constitutional alternative supports review of dismissal despite rejection of the circuit’s statutory element. Municipal attribution is assumed adequate for purposes of deciding the underlying-right question, not finally established. Procedural due process and an actually pleaded affirmative-danger claim are not decided.",
+  "stoneCheck": "Hudson’s limited custodial-force rule does not displace the source-specific approved employer-duty ground. Stone joins Parts A and B below, agrees in the affirming judgment and separately states the approved absence of the necessary custodial or affirmative-deprivation predicate. He does not join Part C’s rational-resource-allocation rationale. The supplement’s expressly stated reservation about affirmative danger is preserved without importing a separate Master file or adopting a new Court doctrine.",
+  "action": "The Fifth Circuit’s judgment dismissing the federal claim is affirmed, 9–0, on constitutional grounds. Its additional statutory governmental-abuse requirement is rejected.",
+  "components": [
+    {
+      "title": "Dismissal of the federal substantive-due-process claim",
+      "result": "Affirmed",
+      "yes": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "no": [],
+      "remedy": "No federal damages or supervision order; independent state-law remedies remain for the proper courts."
+    }
+  ],
+  "opinions": [
+    {
+      "form": "Opinion of the Court, Parts A and B",
+      "author": "Stevens",
+      "joins": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "relationship": "Supports affirmance on the stated constitutional limits",
+      "scope": "Part A: no extra §1983 governmental-abuse element and separate municipal attribution; Part B: voluntary employment creates no general constitutional safe-workplace duty."
+    },
+    {
+      "form": "Opinion of the Court, Part C",
+      "author": "Stevens",
+      "joins": [
+        "White",
+        "Blackmun",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "relationship": "Supplies the Court’s rejection of constitutional arbitrariness",
+      "scope": "The pleaded safety omissions, including assumed state-law duties, are not conscience shocking under the limited public-program rationale."
+    },
+    {
+      "form": "Concurrence in part and in the judgment",
+      "author": "Stone",
+      "joins": [],
+      "relationship": "Joins Parts A and B and affirms on his distinct ground concerning the alleged omissions",
+      "scope": "Knowledge does not supply custody or a pleaded affirmative deprivation; actual compulsion, deliberately inflicted injury and properly alleged affirmative danger remain open."
+    }
+  ],
+  "assignment": "Stone assigns Stevens from the unanimous affirmance coalition. The eight-Justice Part C remains an Opinion of the Court notwithstanding Stone’s withheld join.",
+  "holdings": [
+    {
+      "title": "No extra governmental-abuse element under §1983",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "A municipal employee who establishes deprivation of a federal right under color of state law and municipal responsibility need not also prove an independent, freestanding abuse-of-governmental-power element. The existence of the constitutional wrong and its attribution to municipal policy or custom remain separate required inquiries.",
+      "authority": "Part A of Stevens’s opinion, joined by all other Justices; unanimous statutory holding.",
+      "explanation": "The Court holds that public employment does not remove the protections Congress made enforceable through §1983. The statute does not distinguish a federal violation by an employer from a federal violation by a government acting in another role. Monell recognizes municipal responsibility for a qualifying policy or custom that causes a federal deprivation, while excluding liability merely because a city employs the wrongdoer. Canton addresses when inadequate training can supply that policy and causal connection; it does not establish a constitutional right whenever training is deficient. An additional abstract governmental-abuse element could defeat otherwise valid speech, equality or bodily-liberty claims solely because the injured person works for government. The circuit’s added requirement therefore cannot sustain dismissal. That error does not establish this plaintiff’s substantive right or require reversal if the actual complaint alleges no constitutional deprivation. The Court assumes attribution only for purposes of deciding that separate question and makes no final municipal-liability finding.",
+      "precedents": [
+        "*Monell v. Department of Social Services*, 436 U.S. 658 — applied: municipal policy and causation remain distinct from employment alone.",
+        "*Canton v. Harris*, 489 U.S. 378 — clarified as an attribution doctrine, not a source of every asserted substantive right.",
+        "*Oklahoma City v. Tuttle*, 471 U.S. 808 — preserved for the separation between a constitutional wrong and proof of municipal responsibility."
+      ]
+    },
+    {
+      "title": "Voluntary public employment creates no general constitutional safety duty",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "The substantive Due Process Clause does not impose an independent general obligation on a municipality to provide its voluntary employees a workplace free from unreasonable risks of harm. Accepting public employment does not itself create the custody or deprivation of liberty that supports affirmative constitutional duties of care.",
+      "authority": "Part B of Stevens’s opinion, joined by all other Justices; nine Justices adopt this duty limitation.",
+      "explanation": "The Court holds that the Constitution does not turn the employment relationship itself into protective custody. DeShaney distinguishes a restriction on the State’s own deprivations from a general guarantee that a person’s interests will not suffer harm. Youngberg’s affirmative care duties arise in involuntary confinement, where the State limits the person’s ability to protect himself; that premise is absent when a person voluntarily accepts municipal employment. Daniels also cautions that substantive due process does not replace ordinary tort duties, and Bishop confirms that the Constitution does not guarantee correct public-employment decisions. The complaint alleges serious risks and knowing failures of protection, but those allegations do not make Collins’s employment a custodial restraint. The contrary approach would constitutionalize a general safe-workplace duty without the necessary constitutional source. This holding does not insulate public employers from applicable federal rights, decide actual compulsion or deliberately inflicted bodily injury, or determine the availability of state safety and tort remedies.",
+      "precedents": [
+        "*DeShaney v. Winnebago County Department of Social Services*, 489 U.S. 189 — applied to the absence of a general protective duty; distinct custody and affirmative-deprivation questions remain.",
+        "*Youngberg v. Romeo*, 457 U.S. 307 — distinguished because voluntary employment is not involuntary custody.",
+        "*Daniels v. Williams*, 474 U.S. 327 — preserved: constitutional due process does not replace ordinary tort law; the knowing allegations are not redescribed as mere negligence.",
+        "*Bishop v. Wood*, 426 U.S. 341 — applied against treating employment mistakes as a general constitutional violation."
+      ]
+    },
+    {
+      "title": "These pleaded omissions do not establish constitutional arbitrariness",
+      "support": [
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "rule": "The pleaded municipal failures to train, warn and equip sewer workers against known hazards do not constitute arbitrary or conscience-shocking deprivation under substantive due process in this voluntary-employment setting. Even assuming the Texas safety statute creates the asserted duties and a protected liberty interest, breach alone does not establish that distinct substantive constitutional wrong.",
+      "authority": "Part C of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices control this alternative rejection of the substantive claim. Stone agrees with the judgment on his separately stated ground, without joining this rationale.",
+      "explanation": "The Court also holds that the alleged omissions are not constitutionally arbitrary on the theory presented. Rochin’s protection against conscience-shocking government intrusion does not convert every knowing failure of workplace protection into that kind of deprivation. The complaint does not allege deliberate bodily injury or an order knowingly sending Collins into a dangerous sewer. Decisions about training and equipment occur within public programs whose administration ordinarily reflects competing social, political and economic choices. That legal presumption is not a factual finding that this city considered the risks responsibly or that a particular budget justified its conduct. Bishop and Daniels explain why federal substantive due process does not generally replace state employment and tort rules. Even assuming the Texas statute creates the claimed liberty interest, Harrah’s distinction between an entitlement and arbitrary deprivation leaves the same constitutional deficiency. The Court therefore affirms without approving the city’s conduct, adjudicating state remedies or resolving a different claim of affirmative injury.",
+      "precedents": [
+        "*Rochin v. California*, 342 U.S. 165 — distinguished: the pleaded protective omissions are not its form of conscience-shocking bodily intrusion.",
+        "*Bishop v. Wood*, 426 U.S. 341 — applied to preserve the distinction between employment duties and substantive constitutional arbitrariness.",
+        "*Daniels v. Williams*, 474 U.S. 327 — applied against substituting substantive due process for ordinary state duties.",
+        "*Harrah Independent School District v. Martin*, 440 U.S. 194 — applied to distinguish an assumed state-created interest from constitutionally arbitrary deprivation."
+      ]
+    }
+  ],
+  "law": "Effective February 26, §1983 contains no freestanding governmental-abuse element beyond a federal violation and the required municipal responsibility. Voluntary employment creates no general federal safety guarantee; eight Justices also hold these pleaded omissions constitutionally nonarbitrary on Part C’s limited rationale. Monell and Canton remain attribution rules, not sources of the underlying right. No general affirmative-danger doctrine is adopted or categorically rejected, and no knowing allegation is reduced to negligence.",
+  "separate": "Stone agrees that the complaint fails because knowledge and deliberate omission do not supply custody or a pleaded affirmative exercise of authority creating the specific danger. He joins the rejection of the circuit’s extra §1983 element and the general safe-workplace claim, but does not rely on a presumption that budget choices justified the omissions. He preserves different claims of actual compulsion, deliberately inflicted injury or properly alleged affirmative danger, without adopting a broader new rule here.",
+  "continuity": "Stone, partial concurrence and judgment concurrence, February 26: known risk plus deliberate safety omissions do not supply the required custodial or affirmative-deprivation predicate; no coerced entry, bodily injury, blocked rescue or pleaded affirmative increase in danger exists here. Actual compulsion and properly pleaded affirmative danger remain distinct. This ground and reservation are noncontrolling as a separate writing; it announces no general affirmative-danger test and imports no private Master text. No later treatment.",
+  "procedure": "Supreme Court review ends with affirmance of dismissal of the federal claim. No federal compensation or supervision is ordered. Independently available state-law remedies and their procedural treatment remain for the proper courts; their merits and timeliness are not decided.",
+  "dependencies": "Hudson remains confined to the established custodial beating. Future municipal claims must independently establish the federal duty and municipal attribution. No state-created-danger test is entered as law.",
+  "form": "full",
+  "formBasis": "the judgment is unanimous, but Stone withholds the historical whole-opinion join and states a materially distinct constitutional-duty ground; Part C’s controlling rationale has eight votes, while Parts A and B have nine.",
+  "sourceMap": "503 U.S. 117–119 verifies the complaint, prior incident and two lower-court grounds; pages 119–124 distinguish statutory liability and municipal attribution; pages 125–130 verify the alleged omissions, constitutional alternatives and assumed state entitlement. No implausible district-court date from the reporter is used as a separate chronology premise.",
+  "audit": [
+    {
+      "justice": "White",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Blackmun",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Stevens",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "O'Connor",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Scalia",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Kennedy",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Souter",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Thomas",
+      "provisional": "Affirm under DeShaney/Youngberg’s custody distinction and the actual complaint; reject the additional §1983 element under Monell/Canton. Knowing safety omissions do not create a safe-workplace guarantee or constitute constitutional arbitrariness on these allegations.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    }
+  ],
+  "alternatives": "Rejecting the circuit’s extra element does not establish the underlying constitutional right. A general safety guarantee fails the voluntary-employment/custody distinction. A conscience-shocking theory is separately addressed on the allegations, not dismissed merely as negligence. An affirmative-danger route would require acts actually pleaded; compulsion, deliberately inflicted injury or interference with rescue cannot be invented. The state-statute theory still needs a substantive arbitrary deprivation even if its entitlement is assumed.",
+  "auditFinal": "Affirmance has nine votes; Parts A/B each have nine; Part C has eight. Stone’s separate ground is not merged with Part C and does not become an affirmative-danger holding. No non-Stone Justice changes judgment, generality or remedy; their constitutional alternatives remain intact."
+}

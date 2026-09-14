@@ -1,7 +1,7 @@
 # OCTOBER TERM 1991 — TERM WORKSPACE
 
-**Workspace status:** Chunk 5 completed; forty-one Court events and one admitted institutional source have been processed.
-**Chronology cursor:** March 4, 1992, after *McCarthy v. Madigan*.
+**Workspace status:** Chunk 4 completed; thirty-two Court events and one admitted institutional source have been processed.
+**Chronology cursor:** January 27, 1992, after *Lechmere, Inc. v. NLRB*.
 **Opening baseline:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, all processed through the term-opening baseline effective October 7, 1991 and issued September 14, 2026.
 **Operating mode:** Single-conversation mode; true blindness is unavailable. The split runtime files must nevertheless be opened in the required order during each Run: `_NEUTRAL` first, `_COMPARATOR` second, and `_STONE` last.
 
@@ -44,15 +44,15 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 | 1992-01-22 | INS v. Elias-Zacarias, 502 U.S. 478 (1992) | MERITS decision | 1992-01-22 (2-event same-day group; case-list sequence controls) | Completed: categorical ruling reversed 6-3; five Justices restore the Board denial without further nexus review. Record committed. | Completed and projected into current state; see durable ledger record. Doherty's committed no-new-rule result was applied before adjudication. | OT_1991CHUNK4 |
 | 1992-01-27 | Presley v. Etowah County Commission, 502 U.S. 491 (1992) | MERITS decision | 1992-01-27 (2-event same-day group; case-list sequence controls) | Completed: both appealed noncoverage judgments affirmed 5-4; other claims and Road Supervision ruling untouched. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
 | 1992-01-27 | Lechmere, Inc. v. NLRB, 502 U.S. 527 (1992) | MERITS decision | 1992-01-27 (2-event same-day group; case-list sequence controls) | Completed: reversed and access-order enforcement denied 6-3. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
-| 1992-02-25 | Hudson v. McMillian, 503 U.S. 1 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Completed: reversed and remanded 7–2; six-Justice narrow force holding; universal Whitley rule has four votes. Record committed. | Completed and projected into current state; see records/Hudson_v_McMillian_merits_1992-02-25.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-02-25 | United States v. Nordic Village, Inc., 503 U.S. 30 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Completed: reversed 7–2; federal monetary waiver absent for this recovery. Record committed. | Completed and projected into current state; see records/United_States_v_Nordic_Village_merits_1992-02-25.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-02-25 | Holywell Corp. v. Smith, 503 U.S. 47 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Completed: reversed unanimously in both dockets; statutory returns and payment duties govern on remand. Record committed. | Completed and projected into current state; see records/Holywell_Corp_v_Smith_merits_1992-02-25.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-02-26 | Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Completed: reversed and remanded 9–0; compensatory relief available in the established Title IX action. Record committed. | Completed and projected into current state; see records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-02-26 | INDOPCO, Inc. v. Commissioner, 503 U.S. 79 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Completed: affirmed 9–0; disputed acquisition expenses are capital expenditures. Record committed. | Completed and projected into current state; see records/INDOPCO_v_Commissioner_merits_1992-02-26.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-02-26 | Arkansas v. Oklahoma, 503 U.S. 91 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Completed: reversed 9–0 in both dockets; EPA permit determination sustained on its existing conditions. Record committed. | Completed and projected into current state; see records/Arkansas_v_Oklahoma_merits_1992-02-26.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-02-26 | Collins v. City of Harker Heights, 503 U.S. 115 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Completed: affirmed 9–0; extra §1983 element rejected; substantive constitutional claim fails. Record committed. | Completed and projected into current state; see records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md. Uncoordinated same-day baseline preserved. | OT_1991CHUNK5 |
-| 1992-03-03 | Willy v. Coastal Corp., 503 U.S. 131 (1992) | MERITS decision | None | Completed: affirmed 9–0; $19,307 collateral Rule 11 sanction preserved. Record committed. | Completed and projected into current state; see records/Willy_v_Coastal_Corp_merits_1992-03-03.md. All earlier effective decisions applied. | OT_1991CHUNK5 |
-| 1992-03-04 | McCarthy v. Madigan, 503 U.S. 140 (1992) | MERITS decision | None | Completed: reversed and remanded 9–0; this damages action requires no exhaustion of the described BOP process. Record committed. | Completed and projected into current state; see records/McCarthy_v_Madigan_merits_1992-03-04.md. All earlier effective decisions applied. | OT_1991CHUNK5 |
+| 1992-02-25 | Hudson v. McMillian, 503 U.S. 1 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-02-25 | United States v. Nordic Village, Inc., 503 U.S. 30 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-02-25 | Holywell Corp. v. Smith, 503 U.S. 47 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-02-26 | Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-02-26 | INDOPCO, Inc. v. Commissioner, 503 U.S. 79 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-02-26 | Arkansas v. Oklahoma, 503 U.S. 91 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-02-26 | Collins v. City of Harker Heights, 503 U.S. 115 (1992) | MERITS decision | 1992-02-26 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-03-03 | Willy v. Coastal Corp., 503 U.S. 131 (1992) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
+| 1992-03-04 | McCarthy v. Madigan, 503 U.S. 140 (1992) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
 | 1992-03-09 | Dawson v. Delaware, 503 U.S. 159 (1992) | MERITS decision | 1992-03-09 (6-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK6 |
 | 1992-03-09 | General Motors Corp. v. Romein, 503 U.S. 181 (1992) | MERITS decision | 1992-03-09 (6-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK6 |
 | 1992-03-09 | Williams v. United States, 503 U.S. 193 (1992) | MERITS decision | 1992-03-09 (6-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK6 |
@@ -181,29 +181,21 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 | 31 | 1992-01-22 | *INS v. Elias-Zacarias*, merits decision | CDR — `records/INS_v_Elias_Zacarias_merits_1992-01-22.md` | Validated and committed; same-day start-of-day baseline preserved |
 | 32 | 1992-01-27 | *Presley v. Etowah County Commission; Mack v. Russell County Commission*, merits decision | CDR — `records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md` | Validated and committed; same-day start-of-day baseline preserved |
 | 33 | 1992-01-27 | *Lechmere, Inc. v. NLRB*, merits decision | CDR — `records/Lechmere_v_NLRB_merits_1992-01-27.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 34 | 1992-02-25 | *Hudson v. McMillian*, merits decision | CDR — `records/Hudson_v_McMillian_merits_1992-02-25.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 35 | 1992-02-25 | *United States v. Nordic Village, Inc.*, merits decision | CDR — `records/United_States_v_Nordic_Village_merits_1992-02-25.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 36 | 1992-02-25 | *Holywell Corp. v. Smith* (both dockets), merits decision | CDR — `records/Holywell_Corp_v_Smith_merits_1992-02-25.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 37 | 1992-02-26 | *Franklin v. Gwinnett County Public Schools*, merits decision | CDR — `records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 38 | 1992-02-26 | *INDOPCO, Inc. v. Commissioner*, merits decision | CDR — `records/INDOPCO_v_Commissioner_merits_1992-02-26.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 39 | 1992-02-26 | *Arkansas v. Oklahoma* (both dockets), merits decision | CDR — `records/Arkansas_v_Oklahoma_merits_1992-02-26.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 40 | 1992-02-26 | *Collins v. City of Harker Heights*, merits decision | CDR — `records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md` | Validated and committed; same-day start-of-day baseline preserved |
-| 41 | 1992-03-03 | *Willy v. Coastal Corp.*, merits decision | CDR — `records/Willy_v_Coastal_Corp_merits_1992-03-03.md` | Validated and committed |
-| 42 | 1992-03-04 | *McCarthy v. Madigan*, merits decision | CDR — `records/McCarthy_v_Madigan_merits_1992-03-04.md` | Validated and committed |
+
 
 ## Term Continuity Note
 
 ### 1. Scope and Chronology Cursor
 
 - **Term / exact opening trackers:** OT1991; `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`, each processed through October 7, 1991 and issued September 14, 2026.
-- **Manifest:** All 123 items remain: 122 inventory entries plus Thomas’s oath and circuit reallotment. Forty-two entries are completed: forty-one Court events and one admitted institutional source. No item was added, removed or rescheduled. Wyoming’s completed merits event does not close its retained original proceeding.
-- **Coverage:** Chunks 1–5. Previously established same-day baselines remain. February 25 and February 26 each use a common start-of-day baseline; the February 25 records were committed before the February 26 refresh. Willy was committed before the March 4 refresh for McCarthy.
-- **Latest processed change:** *McCarthy v. Madigan*, March 4, 1992.
-- **Next dated eligible item:** *Dawson v. Delaware*, 503 U.S. 159 (1992), March 9, 1992, first of the six-event same-day group in chunk 6. Any actual filing in the retained Wyoming proceeding must be reconciled by its effective date.
+- **Manifest:** The Full-Term Event Manifest above retains all 123 items: 122 inventory entries plus Thomas's oath and circuit reallotment. Thirty-three entries are completed: thirty-two Court events and one admitted institutional source. No inventory item was added, removed or rescheduled. Completion of Wyoming's merits event does not close its retained original proceeding.
+- **Coverage:** Chunks 1–4. All previously stated same-day baselines remain; January 15, January 22 and January 27 each use one start-of-day baseline. Doherty was durably committed before the January 22 Elias-Zacarias refresh.
+- **Latest processed change:** *Lechmere, Inc. v. NLRB*, January 27, 1992.
+- **Next dated eligible item:** *Hudson v. McMillian*, 503 U.S. 1 (1992), February 25, 1992, first of a three-event same-day group. Any actual filing in the retained Wyoming proceeding must be reconciled by its effective date.
 
 ### 2. Completed Events and Admitted Sources
 
-All forty-two validated records appear in the Term Working Ledger above with their natural identities, effective dates and durable locations; the manifest and the records supply dispositions. Entries 1–33 remain unchanged. Entries 34–42 are the nine chunk 5 merits decisions, including both Holywell/United States v. Smith and Arkansas/EPA v. Oklahoma dockets. No correction exists. The exact new public projection is `render-inputs/OT_1991CHUNK5.md`; the four earlier Render Inputs remain unchanged. This Run does not produce a public render.
+The thirty-three validated records appear in the Term Working Ledger above with their natural identities, effective dates, dispositions and durable locations. Entries 1–25 remain unchanged. Entries 26–33 are the eight chunk 4 merits decisions, including the consolidated Rufo/Rapone and Presley/Mack matters. No correction exists. The exact public projection is `render-inputs/OT_1991CHUNK4.md`; earlier chunk projections remain unchanged.
 
 ### 3. Current Law
 
@@ -391,274 +383,6 @@ Babcock's nonemployee threshold controls: demonstrated practical inaccessibility
 
 **Durable authority:** [Canonical Decision Record](records/Lechmere_v_NLRB_merits_1992-01-27.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
 
-#### Hudson v. McMillian — 1992-02-25
-
-Effective February 25, 1992, significant injury is not an additional necessary element for the established nontrivial malicious custodial beating described in Part A. Before this decision, Whitley directly governed disturbance-related force and Wilson governed conditions; afterward, the six-Justice application resolves this nontrivial beating without adopting a universal mental-state standard. The existing rules for medical care, conditions, legitimate discipline, personal defenses and compensatory proof remain distinct. No new mandatory test for every prison-force setting is created.
-
-**Limited injury does not defeat this established nontrivial malicious beating.** A nontrivial beating inflicted maliciously and without disciplinary justification on a restrained convicted prisoner violates the Eighth Amendment even when the resulting physical injuries are limited, where the established conduct satisfies even Whitley’s demanding malicious-and-sadistic inquiry. Injury remains relevant evidence and bears on compensation; accidental harm or a merely technical battery is not enough.
-
-**Authority:** Part A of O’Connor’s opinion, joined by Stone, White, Stevens, Kennedy and Souter: six Justices adopt this rule and its application. The general extension proposed in Part B has only four votes.
-
-**Precedent treatment:**
-
-- *Whitley v. Albers*, 475 U.S. 312 — applied as a sufficient ground on these findings; its disturbance rule remains in force, but a universal extension receives no majority here.
-- *Wilson v. Seiter*, 501 U.S. 294 — distinguished by the character of the constitutional wrong; the objective-deprivation requirement survives without becoming a significant-injury floor for this beating.
-- *Estelle v. Gamble*, 429 U.S. 97 — applied for unnecessary and wanton pain; serious medical need and deliberate indifference remain the medical-care rules.
-
-**Authority limits:** Part C rejects the alternate characterization on this record: the undisturbed supervisory-condonation finding and the granted question prevent affirmance on an assumed isolated, unauthorized assault. It announces no general rule defining punishment. Part B’s proposed universal Whitley standard is a four-Justice position. No Marks aggregation supplies a universal mental-state rule: the six-Justice narrow holding already controls this case, and the other writings do not adopt a common broader rationale. The ordinary exclusion of trivial force is not converted into an exhaustive rule for all unusual forms of cruelty.
-
-[Source record](records/Hudson_v_McMillian_merits_1992-02-25.md).
-
-#### United States v. Nordic Village, Inc. — 1992-02-25
-
-Effective February 25, original §106(c) supplies no waiver for the personal money recovery at issue. The rule before the event required unequivocal consent but left this federal application of Hoffman’s fractured analysis unresolved; the rule afterward resolves that application and rejects the specific alternative routes. Claim-linked waivers, actual property remedies and the underlying avoidance provisions retain their own requirements. No constitutional immunity rule for States or later statutory waiver is decided.
-
-**Original §106(c) does not clearly authorize this monetary recovery.** Original Bankruptcy Code §106(c) does not unequivocally waive the United States’ immunity from an affirmative personal money judgment recovering an unauthorized transfer under §550. A plausible construction giving the clause binding nonmonetary or claim-determination effect defeats the required clear consent to this monetary remedy; §106(a) and (b) retain their express claim and offset operations.
-
-**Authority:** Scalia’s opinion, joined by Stone, White, O’Connor, Kennedy, Souter and Thomas; seven of nine Justices control the statutory threshold.
-
-**Precedent treatment:**
-
-- *Irwin v. Department of Veterans Affairs*, 498 U.S. 89 — applied: the particular monetary remedy requires unequivocal statutory consent.
-- *United States v. Mitchell*, 445 U.S. 535 — applied for the same express-consent requirement.
-- *United States v. King*, 395 U.S. 1 — applied for the same express-consent requirement.
-- *Hoffman v. Connecticut Department of Income Maintenance*, 492 U.S. 96 — its plurality’s statutory reasoning is adopted for this federal issue; its fractured state judgment is not treated as controlling federal-waiver precedent.
-- *Ruckelshaus v. Sierra Club*, 463 U.S. 680 — applied: consent is not enlarged beyond what Congress’s language requires.
-- *McMahon v. United States*, 342 U.S. 25 — applied: consent is not enlarged beyond what Congress’s language requires.
-- *United States v. Menasche*, 348 U.S. 528 — applied to preserve operative work for both paragraphs of §106(c).
-- *Dellmuth v. Muth*, 491 U.S. 223 — its textual clear-statement reasoning supports requiring clarity in enacted language; no new decision about States is made.
-
-**Jurisdictional and property labels do not sustain this money judgment.** A general grant of jurisdiction over bankruptcy-estate property in §1334(d), an asserted trust interest, or the origin of transferred money in estate assets does not supply federal consent to this personal money judgment. Because the trustee seeks a sum rather than identified property under the court’s control, this order cannot be sustained as a genuine property adjudication or as equitable recoupment.
-
-**Authority:** Scalia’s opinion, joined by the same seven Justices, resolves each alternative ground necessary to the threshold disposition.
-
-**Precedent treatment:**
-
-- *Blatchford v. Native Village of Noatak*, 501 U.S. 775 — applied for the distinction between jurisdiction and immunity.
-- *United States v. Whiting Pools, Inc.*, 462 U.S. 198 — distinguished: tangible debtor-property turnover does not authorize this Treasury payment.
-- *Begier v. IRS*, 496 U.S. 53 — distinguished: no identified fund supports the actual order.
-- *United States v. Shaw*, 309 U.S. 495 — preserved as contrary to inferring monetary consent from a property characterization.
-- *Bull v. United States*, 295 U.S. 247 — equitable recoupment retains its limited defensive operation; it does not sustain this affirmative award.
-- *United States v. Dalm*, 494 U.S. 596 — equitable recoupment retains its limited defensive operation; it does not sustain this affirmative award.
-
-[Source record](records/United_States_v_Nordic_Village_merits_1992-02-25.md).
-
-#### Holywell Corp. v. Smith — 1992-02-25
-
-Effective February 25, the tax statutes govern this plan through separate corporate-assignee and trust-fiduciary categories. No bankruptcy-policy or silent-confirmation exemption defeats the resulting duties. The decision resolves these previously unadjudicated applications without changing the grantor-trust predicates, taxes already due, or the ordinary process for computing and collecting the proper liability.
-
-**Corporate assignee’s filing and payment duty.** An assignee holding all or substantially all of a corporation’s property must make its income-tax return under §6012(b)(3), whether or not the corporation dissolves or the assignee continues its business. Smith’s receipt of the corporate estate property satisfies that category, and §6151(a) requires payment of the tax due with those returns.
-
-**Authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous controlling statutory construction.
-
-**Precedent treatment:**
-
-- *First National Bank of Greeley v. United States*, 86 F.2d 938 — its winding-up application does not limit the statute to dissolution.
-- *Louisville Property Co. v. Commissioner*, 140 F.2d 547 — its operating-fiduciary setting does not exclude a qualifying assignee.
-
-**Fiduciary of the separate liquidating trust.** A fiduciary of a separate liquidating trust must file the trust’s return under §6012(b)(4) and pay the associated tax under §6151 when the plan and duties meet the governing trust and fiduciary definitions. Here Gould’s estate property passed directly into that trust rather than revesting in Gould, so the asserted grantor-trust theory does not displace Smith’s duty.
-
-**Authority:** Thomas’s unanimous opinion; all nine Justices join the trust-specific classification and corresponding payment duty.
-
-**Precedent treatment:**
-
-- *In re Sonner*, 53 B.R. 859 — distinguished by revesting and contribution; its result on those different facts is left open.
-
-**A silent confirmed plan does not excuse prospective tax duties.** Confirmation under §1141(a) of a plan silent about taxes, coupled with the United States’ failure to object, does not excuse the statutory return and payment obligations imposed on this assignee and trust fiduciary after appointment. The binding treatment of properly encompassed preconfirmation claims does not establish an exemption from these later obligations.
-
-**Authority:** Thomas’s unanimous opinion; all nine Justices reject the plan-confirmation defense.
-
-**Precedent treatment:**
-
-- *Hartman v. Lauchli*, 238 F.2d 881 — applied for the connection between the return’s due date and payment duty.
-- *Pan American Van Lines v. United States*, 607 F.2d 1299 — applied for the same timing principle.
-
-[Source record](records/Holywell_Corp_v_Smith_merits_1992-02-25.md).
-
-#### Franklin v. Gwinnett County Public Schools — 1992-02-26
-
-Effective February 26, appropriate relief in a cognizable statutory action is not barred by remedial silence alone, and Title IX permits compensation for intentional discrimination. Before this decision, the cause existed but the presented damages bar was unresolved; afterward, that bar and the categorical Spending Clause objection are rejected. No new implied action, punitive remedy, liability for unintended effects, automatic institutional responsibility, or finding against the school is established.
-
-**Compensatory relief in the established Title IX action.** When a cognizable federal statutory cause of action exists, courts may award appropriate relief absent clear congressional direction limiting it; recognizing that remedy does not create a new cause of action. In Title IX’s established private action, compensatory damages are available for proved intentional discrimination, subject to proof of recipient responsibility, causation and compensable loss.
-
-**Authority:** White’s opinion, joined by Stone, Blackmun, Stevens, O’Connor, Kennedy and Souter; seven Justices control the remedial rule and application.
-
-**Precedent treatment:**
-
-- *Cannon v. University of Chicago*, 441 U.S. 677 — applied as the established Title IX cause of action; not reopened.
-- *Bell v. Hood*, 327 U.S. 678 — applied for appropriate remedies in an existing cognizable action, absent a congressional limit.
-- *Davis v. Passman*, 442 U.S. 228 — applied to separate existence of an action from available relief.
-- *J. I. Case Co. v. Borak*, 377 U.S. 426 — applied against limiting relief merely because the statute does not enumerate the remedy.
-- *Guardians Association v. Civil Service Commission*, 463 U.S. 582 — its intentional-discrimination remedial support is applied without inventing a single majority rationale.
-- *Consolidated Rail Corp. v. Darrone*, 465 U.S. 624 — analogous monetary relief supports the availability of compensation.
-
-**Notice does not bar damages for the pleaded intentional violation.** The Spending Clause notice principle does not categorically bar compensatory relief for an intentional violation of Title IX’s express prohibition of sex discrimination within its established private action. Ambiguous funding conditions, unintentional effects and the separate requirements for attributing misconduct to a recipient are not resolved.
-
-**Authority:** White’s opinion, joined by the same seven Justices, rejects the distinct funding-notice ground offered to sustain dismissal.
-
-**Precedent treatment:**
-
-- *Pennhurst State School and Hospital v. Halderman*, 451 U.S. 1 — its funding-condition notice rule is preserved; it does not bar relief for this alleged intentional violation.
-- *Meritor Savings Bank, FSB v. Vinson*, 477 U.S. 57 — its identification of sex-based harassment informs the pleaded discrimination; no Title VII attribution formula is imported.
-- *Consolidated Rail Corp. v. Darrone*, 465 U.S. 624 — applied against a categorical objection to monetary remedies under spending legislation.
-- *Cannon v. University of Chicago*, 441 U.S. 677 — the established action supplies the enforcement premise for the notice analysis.
-
-[Source record](records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md).
-
-#### INDOPCO, Inc. v. Commissioner — 1992-02-26
-
-Effective February 26, the asset-prerequisite contention is rejected and these friendly-acquisition expenses must be capitalized. Lincoln Savings retains full force for its sufficient asset-based category. The §162/§263 distinction, ordinary burden, incidental-benefit qualification and separate rules for later cost recovery remain in force; no automatic capitalization rule for every future benefit or professional fee is created.
-
-**A separate asset is sufficient, but not necessary, for capitalization.** Creation or enhancement of a separate and distinct asset is a sufficient ground for capitalization under §263, not an indispensable condition; the character, duration and extent of a transaction’s benefits also matter. The professional expenses facilitating this acquisition’s established enduring corporate restructuring benefits are capital expenditures, not immediately deductible §162(a) operating expenses; mere incidental future benefit alone does not compel capitalization.
-
-**Authority:** Blackmun’s opinion, joined by the other eight Justices; unanimous statutory holding and record application.
-
-**Precedent treatment:**
-
-- *Commissioner v. Lincoln Savings & Loan Association*, 403 U.S. 345 — clarified: a separate asset supplies a sufficient capitalization ground, not an exclusive prerequisite.
-- *Welch v. Helvering*, 290 U.S. 111 — applied for the contextual distinction between necessary business outlays and current expenses.
-- *Woodward v. Commissioner*, 397 U.S. 572 — applied for the connection between professional expenses and the underlying capital acquisition.
-- *United States v. Hilton Hotels Corp.*, 397 U.S. 580 — applied for acquisition-related professional costs’ capital character.
-- *Commissioner v. Idaho Power Co.*, 418 U.S. 1 — preserved: ordinary expense categories do not override required capitalization.
-- *Interstate Transit Lines v. Commissioner*, 319 U.S. 590 — the taxpayer’s burden to establish an authorized deduction remains unchanged.
-
-[Source record](records/INDOPCO_v_Commissioner_merits_1992-02-26.md).
-
-#### Arkansas v. Oklahoma — 1992-02-26
-
-Effective February 26, the federal permit scheme authorizes the downstream-compliance approach, rejects the categorical already-degraded-waters bar and sustains the supported no-detectable-violation determination. Before this event those precise statutory and permit applications were unresolved; afterward these rules govern at their stated federal-permit scope. EPA’s administrative preponderance burden, whole-record review, valid conditions and modification mechanism remain distinct and unchanged. General deference, state-law remedies and mandatory duties outside this setting are not revised.
-
-**EPA may require downstream standards in this federal permit.** The Clean Water Act authorizes EPA, in issuing this federal permit under §402(a), to require compliance with applicable downstream state water-quality standards through its valid regulations. A downstream State’s limited direct role in permitting does not restrict that federal authority; whether the Act itself commands identical compliance in every permitting setting remains open.
-
-**Authority:** Stevens’s opinion, joined by all other Justices; unanimous statutory-authority holding.
-
-**Precedent treatment:**
-
-- *Milwaukee v. Illinois*, 451 U.S. 304 — preserved: the statutory water-pollution scheme displaces federal nuisance common law.
-- *International Paper Co. v. Ouellette*, 479 U.S. 481 — distinguished: affected-state common-law and direct-input limits do not constrain this delegated EPA condition.
-- *Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.*, 467 U.S. 837 — applied within Congress’s actual delegation; no overhaul of agency deference.
-- *Lechmere, Inc. v. NLRB*, simulated January 27, 1992 — preserved: deference operates within controlling statutory precedent, and no contrary construction is displaced here.
-
-**Existing degradation is not a categorical statutory prohibition.** The Clean Water Act does not categorically forbid a new discharge merely because its effluent will reach waters already failing a water-quality standard, irrespective of whether it will cause a detectable violation under the applicable permit standards. Courts may not substitute that categorical prohibition for the Act’s actual permitting and pollution-reduction scheme.
-
-**Authority:** Stevens’s unanimous opinion rejects the independent statutory basis on which the court of appeals invalidated the permit.
-
-**Precedent treatment:**
-
-- *Milwaukee v. Illinois*, 451 U.S. 304 — its description of a comprehensive program does not authorize an additional judicial categorical ban.
-
-**Reasonable construction of the incorporated downstream standards.** For this interstate federal permit, EPA’s valid regulation incorporates the applicable, federally approved downstream standards into federal permitting law, and its reasonable, consistently held construction receives substantial deference. EPA permissibly construed Oklahoma’s no-degradation requirement to prohibit an actual detectable or measurable violation, rather than every infinitesimal theoretical effect.
-
-**Authority:** Stevens’s unanimous opinion controls the interpretation of the standards as used in this federal permit; it does not decide state law for unrelated purposes.
-
-**Precedent treatment:**
-
-- *Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.*, 467 U.S. 837 — applied to the authorized federal permitting construction.
-- *Bowles v. Seminole Rock & Sand Co.*, 325 U.S. 410 — its received regulatory-interpretation principle remains operative within valid delegated authority.
-- *INS v. National Center for Immigrants’ Rights, Inc.*, simulated December 16, 1991 — consistent source-specific regulatory construction is applied without importing immigration rules.
-
-**Supported findings govern review of this permit.** A reviewing court must accept agency adjudicative findings supported by substantial evidence on the record as a whole and may not replace them merely because competing findings also could be supported. Here EPA’s supported finding that Fayetteville carried the administrative preponderance burden of no actual detectable violation sustains the permit; the court’s contrary policy does not establish arbitrary agency action.
-
-**Authority:** Stevens’s unanimous opinion controls both the appellate-review rule and its application to the reviewed permit.
-
-**Precedent treatment:**
-
-- *Universal Camera Corp. v. NLRB*, 340 U.S. 474 — applied: supported agency findings are not displaced by merely permissible alternative findings.
-- *Motor Vehicle Manufacturers Association v. State Farm Mutual Automobile Insurance Co.*, 463 U.S. 29 — applied to the actual governing problem, not a court-created categorical policy.
-
-[Source record](records/Arkansas_v_Oklahoma_merits_1992-02-26.md).
-
-#### Collins v. City of Harker Heights — 1992-02-26
-
-Effective February 26, §1983 contains no freestanding governmental-abuse element beyond a federal violation and the required municipal responsibility. Voluntary employment creates no general federal safety guarantee; eight Justices also hold these pleaded omissions constitutionally nonarbitrary on Part C’s limited rationale. Monell and Canton remain attribution rules, not sources of the underlying right. No general affirmative-danger doctrine is adopted or categorically rejected, and no knowing allegation is reduced to negligence.
-
-**No extra governmental-abuse element under §1983.** A municipal employee who establishes deprivation of a federal right under color of state law and municipal responsibility need not also prove an independent, freestanding abuse-of-governmental-power element. The existence of the constitutional wrong and its attribution to municipal policy or custom remain separate required inquiries.
-
-**Authority:** Part A of Stevens’s opinion, joined by all other Justices; unanimous statutory holding.
-
-**Precedent treatment:**
-
-- *Monell v. Department of Social Services*, 436 U.S. 658 — applied: municipal policy and causation remain distinct from employment alone.
-- *Canton v. Harris*, 489 U.S. 378 — clarified as an attribution doctrine, not a source of every asserted substantive right.
-- *Oklahoma City v. Tuttle*, 471 U.S. 808 — preserved for the separation between a constitutional wrong and proof of municipal responsibility.
-
-**Voluntary public employment creates no general constitutional safety duty.** The substantive Due Process Clause does not impose an independent general obligation on a municipality to provide its voluntary employees a workplace free from unreasonable risks of harm. Accepting public employment does not itself create the custody or deprivation of liberty that supports affirmative constitutional duties of care.
-
-**Authority:** Part B of Stevens’s opinion, joined by all other Justices; nine Justices adopt this duty limitation.
-
-**Precedent treatment:**
-
-- *DeShaney v. Winnebago County Department of Social Services*, 489 U.S. 189 — applied to the absence of a general protective duty; distinct custody and affirmative-deprivation questions remain.
-- *Youngberg v. Romeo*, 457 U.S. 307 — distinguished because voluntary employment is not involuntary custody.
-- *Daniels v. Williams*, 474 U.S. 327 — preserved: constitutional due process does not replace ordinary tort law; the knowing allegations are not redescribed as mere negligence.
-- *Bishop v. Wood*, 426 U.S. 341 — applied against treating employment mistakes as a general constitutional violation.
-
-**These pleaded omissions do not establish constitutional arbitrariness.** The pleaded municipal failures to train, warn and equip sewer workers against known hazards do not constitute arbitrary or conscience-shocking deprivation under substantive due process in this voluntary-employment setting. Even assuming the Texas safety statute creates the asserted duties and a protected liberty interest, breach alone does not establish that distinct substantive constitutional wrong.
-
-**Authority:** Part C of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices control this alternative rejection of the substantive claim. Stone agrees with the judgment on his separately stated ground, without joining this rationale.
-
-**Precedent treatment:**
-
-- *Rochin v. California*, 342 U.S. 165 — distinguished: the pleaded protective omissions are not its form of conscience-shocking bodily intrusion.
-- *Bishop v. Wood*, 426 U.S. 341 — applied to preserve the distinction between employment duties and substantive constitutional arbitrariness.
-- *Daniels v. Williams*, 474 U.S. 327 — applied against substituting substantive due process for ordinary state duties.
-- *Harrah Independent School District v. Martin*, 440 U.S. 194 — applied to distinguish an assumed state-created interest from constitutionally arbitrary deprivation.
-
-[Source record](records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md).
-
-#### Willy v. Coastal Corp. — 1992-03-03
-
-Effective March 3, Cooter & Gell’s collateral Rule 11 principle extends to this erroneous assertion of subject-matter jurisdiction. The independent procedural source and merits limit control together. The Rules create no merits jurisdiction, and no general inherent-power or universal collateral-order rule is adopted.
-
-**This collateral Rule 11 sanction survives the jurisdictional ruling.** A federal district court may impose and preserve a valid Rule 11 sanction for litigation misconduct before it even when its assertion of subject-matter jurisdiction over the action is later held erroneous. The sanction must address an independently authorized procedural violation collateral to the merits; it does not validate the jurisdictional error or authorize adjudication of the underlying claim.
-
-**Authority:** Stone’s opinion, joined by all eight Associate Justices; unanimous holding on both the Rules’ authorization and Article III objection.
-
-**Precedent treatment:**
-
-- *Sibbach v. Wilson & Co.*, 312 U.S. 1 — applied: procedural rules cannot enlarge substantive rights or jurisdiction.
-- *Cooter & Gell v. Hartmarx Corp.*, 496 U.S. 384 — extended from voluntary dismissal to the presented lack of merits jurisdiction because Rule 11 adjudication is collateral.
-- *United States v. Mine Workers*, 330 U.S. 258 — applied for orderly determination of disputed judicial authority, not assumed power over the ultimate merits.
-- *United States Catholic Conference v. Abortion Rights Mobilization, Inc.*, 487 U.S. 72 — distinguished: coercive discovery serving an unauthorized merits action lacks this completed sanction’s independence.
-
-**Authority limits:** The holding concerns the then-effective Rule 11 and this established procedural violation. It supplies neither hypothetical merits jurisdiction nor a universal collateral-order exception. Any different order requires its own lawful source and genuine independence. The Court does not decide inherent sanctioning power, reconsider the accepted misconduct or amount, or restore the dismissed federal merits judgment.
-
-[Source record](records/Willy_v_Coastal_Corp_merits_1992-03-03.md).
-
-#### McCarthy v. Madigan — 1992-03-04
-
-Effective March 4, courts may not dismiss this damages-only federal medical-care action for failure to complete the described general BOP grievance process. Seven Justices apply the statute-first and purpose-sensitive inquiry, including the deadline burden and limited factual record; the two judgment concurrences share only the narrower no-compensation ground. Congress’s express requirements retain their own force, and Carlson’s established channel is preserved without expansion. Future procedures and prospective claims remain distinct.
-
-**Statutory design governs the exhaustion inquiry.** An express congressional exhaustion requirement controls according to its terms. Where Congress has not required exhaustion, courts must exercise sound discretion consistent with the statutory scheme, weighing prompt access to court against the actual interests in agency authority and judicial efficiency; neither the general BOP delegation nor the then-current §1997e imposes a mandatory gate for this federal prisoner’s Bivens medical-care claim.
-
-**Authority:** Blackmun’s opinion, joined by Stone, White, Stevens, O’Connor, Kennedy and Souter; seven Justices control the governing inquiry and statutory application.
-
-**Precedent treatment:**
-
-- *Patsy v. Board of Regents of Florida*, 457 U.S. 496 — applied for congressional primacy and the actual limited scope of contemporaneous §1997e.
-- *McKart v. United States*, 395 U.S. 185 — applied for the purposes of agency authority, expertise, correction and efficiency.
-- *McGee v. United States*, 402 U.S. 479 — applied for sound judicial discretion where Congress has not clearly required exhaustion.
-- *Coit Independence Joint Venture v. FSLIC*, 489 U.S. 561 — applied to distinguish statutory exhaustion and the adequacy of an administrative route.
-- *Carlson v. Green*, 446 U.S. 14 — preserved as the existing medical-care damages channel, without extending it to a new context.
-- *Bush v. Lucas*, 462 U.S. 367 — distinguished: no comparable comprehensive congressional remedial scheme displaces this existing channel.
-- *Schweiker v. Chilicky*, 487 U.S. 412 — distinguished on the same absence of a congressional replacement scheme.
-
-**This damages-only claim need not pass through the general BOP process.** Absent a statutory mandate, a federal prisoner seeking only damages for the completed medical-care wrong alleged here need not exhaust the described BOP process: it cannot award compensation, its short filing periods risk forfeiture, and its limited adjudicative benefit does not outweigh access to court. The result does not decide a request for prospective relief, a procedure able to grant the sought compensation, or a materially different administrative adjudication.
-
-**Authority:** The same seven Justices join Blackmun’s particular balancing and application. Scalia and Thomas agree with the result solely because no money remedy is available; their judgment concurrence does not join the deadline or broader balancing rationale.
-
-**Precedent treatment:**
-
-- *McKart v. United States*, 395 U.S. 185 — applied through a claim-specific comparison of individual and institutional interests.
-- *Coit Independence Joint Venture v. FSLIC*, 489 U.S. 561 — its adequacy principle informs the practical evaluation; the filing-period application is not a categorical invalidation of short deadlines.
-- *Turner v. Safley*, 482 U.S. 78 — applied for continued judicial cognizance of valid prisoners’ constitutional claims, without deciding this claim’s validity.
-- *Hillsborough Township v. Cromwell*, 326 U.S. 620 — applied against forcing resort to an uncertain administrative avenue for the requested relief.
-- *Union Pacific Railroad Co. v. Board of County Commissioners*, 247 U.S. 282 — applied for the significance of uncertainty in the available administrative remedy.
-
-**Authority limits:** No general exception to a congressional exhaustion command is created. Prospective relief, an administrative monetary remedy and materially different adjudicative procedures remain open. The Court makes no finding of bias, deliberate indifference, damages entitlement or loss of a defense. It does not transform negligence into a constitutional violation or extend Bivens to a new context.
-
-[Source record](records/McCarthy_v_Madigan_merits_1992-03-04.md).
-
 ### 4. Material Published Noncontrolling Positions
 
 - **Stone and Stevens — *Mireles*, October 21:** A genuinely separable command of gratuitous physical violence is operational rather than judicial, while warrants, contempt decisions, and attendance orders remain protected despite error. Noncontrolling concurrence in an equal-division disposition.
@@ -691,28 +415,21 @@ Effective March 4, courts may not dismiss this damages-only federal medical-care
 - **Presley v. Etowah County Commission; Mack v. Russell County Commission, 1992-01-27:** Stevens, joined by White and Blackmun, would require preclearance of both resolutions. Allen's functional protection should reach substantial removal of the authority voters select an official to exercise; Etowah's change following the remedial electoral arrangement supplies an additional reason for coverage, without deciding discriminatory intent. Stone separately would cover substantial structural removal of a core, independently exercisable district-office function into appointment or materially different collective control. He distinguishes these changes from routine appropriations, individual hiring, or losses in ordinary policy votes, and would leave preclearance merits to the designated statutory channels. All four would reverse both appealed noncoverage judgments. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md).
 - **Lechmere, Inc. v. NLRB, 1992-01-27:** White, joined by Blackmun, would uphold the Board's accommodation and its assessment of effective alternatives. He reads Babcock, Central Hardware and Hudgens as leaving broader room to balance and argues that modern administrative deference also supports Jean Country; he criticizes Babcock's original approach. Stevens agrees only with the accommodation and subsequent-precedent reasons. He defends Babcock's employee/nonemployee distinction and declines to join the claim that it was wrongly decided. All three would affirm enforcement. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Lechmere_v_NLRB_merits_1992-01-27.md).
 
-- **Hudson v. McMillian, 1992-02-25:** O’Connor/White/Kennedy/Souter, Part B, February 25: universal Whitley force standard; four-Justice noncontrolling proposition. Stevens, concurrence, same date: unnecessary-and-wanton pain suffices outside serious disturbances; higher standard met here. Blackmun, judgment concurrence, same date: opposes universal Whitley extension; constitutional pain may include substantial psychological harm, and docket reduction cannot define a substantive constitutional right. That psychological issue is unpresented and noncontrolling. Thomas/Scalia, dissent, same date: serious objective deprivation required, potentially nonphysical; State remedies and their constitutional adequacy remain a distinct route. No later treatment yet. [Source record](records/Hudson_v_McMillian_merits_1992-02-25.md).
-- **United States v. Nordic Village, Inc., 1992-02-25:** Stevens and Blackmun, dissent, February 25: §106(c)’s express application-and-binding language reaches §550 monetary recovery; sovereign-immunity construction should not defeat that legislative command. They also criticize rigid judge-made immunity presumptions. Noncontrolling; no later treatment. [Source record](records/United_States_v_Nordic_Village_merits_1992-02-25.md).
-- **Franklin v. Gwinnett County Public Schools, 1992-02-26:** Scalia and Thomas, concurrence in judgment, February 26: the 1986 remedies language supports Title IX damages; an implied cause does not automatically carry every remedy, and judicial limits on its remedial scope may be appropriate where Congress has not acknowledged them. Noncontrolling methodology; the Title IX result is shared. No later treatment. [Source record](records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md).
-- **Collins v. City of Harker Heights, 1992-02-26:** Stone, partial concurrence and judgment concurrence, February 26: known risk plus deliberate safety omissions do not supply the required custodial or affirmative-deprivation predicate; no coerced entry, bodily injury, blocked rescue or pleaded affirmative increase in danger exists here. Actual compulsion and properly pleaded affirmative danger remain distinct. This ground and reservation are noncontrolling as a separate writing; it announces no general affirmative-danger test. No later treatment. [Source record](records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md).
-- **McCarthy v. Madigan, 1992-03-04:** Scalia and Thomas, concurrence in judgment, March 4: absence of monetary relief alone defeats exhaustion of this damages-only grievance; McNeese and Montana National Bank supply the adequate-remedy principle. They do not join the broader framework’s unmodified use for Bivens and reject reliance on reasonable filing deadlines with extensions. The no-compensation ground is shared with the Court; the contrary deadline and methodology positions are noncontrolling. No later treatment. [Source record](records/McCarthy_v_Madigan_merits_1992-03-04.md).
-
 ### 5. Current Procedure and Institution
 
-- **Roster / seniority:** Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Six qualified Justices constitute a quorum; five votes supply a majority for the participating Court sizes in chunks 4 and 5.
+- **Roster / seniority:** Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Six qualified Justices constitute a quorum; five votes supply a majority for either participating Court size in chunk 4.
 - **Circuit allotments:** Stone—D.C., Fourth, Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth; White—Tenth; Thomas—Eleventh. Unchanged from the October 23 institutional record.
-- **Participation:** The pre-oath argument rule remains. Thomas did not participate in chunk 4's Doherty, Rufo/Rapone or Dewsnup; all nine participated in White, Wyoming, Elias-Zacarias, Presley/Mack and Lechmere. All nine participated at argument and decision in every chunk 5 event; each was argued after Thomas’s oath. Earlier participation facts remain in entries 1–25.
+- **Participation:** The pre-oath argument rule remains. Thomas did not participate in chunk 4's Doherty, Rufo/Rapone or Dewsnup; all nine participated in White, Wyoming, Elias-Zacarias, Presley/Mack and Lechmere. Earlier participation facts remain in entries 1–25.
 - **Open Supreme Court proceeding:** *Wyoming v. Oklahoma*, No. 112, Original. The January 22 declaration and injunction operate now; jurisdiction is retained for implementation. No later decree, filing, hearing, compliance finding or terminal event is established. The next nonroutine act would be a supported implementation request, if filed. No exact date may be inferred, and the proceeding must be expressly terminated or carried forward before it is removed from live matters.
 - **Other stages:** Supreme Court merits review has ended in the other seven chunk 4 events. Doherty returns for implementation of asylum reversal and the surviving withholding judgment; Rufo returns for a new Rule 60(b)(5) assessment with its decree still binding; Elias-Zacarias returns for implementation of the five-Justice disposition sustaining the Board's denial. Presley leaves other district-court claims and the unappealed Road Supervision ruling intact. Earlier lower-court remands remain on their stated terms; none implies retained Supreme Court supervision.
-- **Chunk 5 stages:** Supreme Court merits review ends in all nine events. Hudson returns without the rejected injury floor or a new award; Nordic Village’s monetary judgment is reversed; Holywell’s ordinary remand applies the specified filing/payment duties; Franklin returns for liability, attribution, causation and loss; INDOPCO’s denial of immediate deductions stands; Arkansas’s permit is sustained with existing conditions; Collins’s federal dismissal stands; Willy’s $19,307 sanction and prior state-court direction stand; McCarthy returns without the rejected exhaustion gate. No new Supreme Court proceeding, return date or external follow-on act is established.
 
 ### 6. Blockers and Revalidation Needs
 
-No chunk 5 matter is stopped, and no missing approved choice or unresolved source conflict remains. Wyoming’s implementation proceeding is open, not blocked. Before chunk 6, refresh neutral packets against every effective holding, reservation and published noncontrolling position above; preserve the March 9 common baseline unless authorized sources establish coordination. Hudson establishes a six-Justice narrow rule, not a majority universal Whitley formulation. Nordic Village does not supply a State-immunity disposition; Franklin decides compensation’s availability, not recipient attribution; Collins adopts no general affirmative-danger test; McCarthy governs this claim and contemporaneous process, without changing a congressional command or expanding Bivens. Preserve Doherty’s absence of a substantive majority, Elias-Zacarias’s distinct nexus/review holdings and Rufo’s consent obligations. No historical follow-on event is automatically admitted.
+No stopped chunk 4 matter, missing approved choice or unresolved source conflict remains. The Wyoming implementation proceeding is open, not blocked. Before chunk 5, refresh all neutral packets against the effective holdings, reservations and published noncontrolling positions above. Preserve the February 25 common baseline unless authorized materials establish coordination. Later immigration matters must distinguish Doherty's absence of a substantive majority from Elias-Zacarias's five-Justice nexus and review holdings; later institutional-relief matters must preserve Rufo's consent obligations and its unresolved factual application. No historical follow-on event is automatically admitted.
 
 ### 7. Source and Research Cutoff
 
-Continuation requires the three identified opening trackers, the complete manifest and ledger, all forty-two durable records, and five Render Input files. Earlier source support remains in the prior records. Chunk 5 used all nine separate official United States Reports PDFs spanning 503 U.S. 1–158, downloaded from GovInfo and read in full, including footnotes and separate writings. Records map those primary sources to material facts, dates and rules; Internet Archive entries identify docket-collection discovery, without representing unread briefs as reviewed. Research performed September 14, 2026; each record states its own in-world effective-date cutoff, through March 4, 1992 for the chunk. No later law or unverified connected external event is admitted; no intervening Wyoming filing is established.
+Continuation requires the three identified opening trackers, the complete manifest and ledger above, all thirty-three durable records, and four Render Input files. Chunk 4 used the eight separate official United States Reports PDFs for 502 U.S. 314–548, downloaded from GovInfo and read in full; the full official Durant opinion, 74 U.S. 107–113, supplies the pre-divergence divided-Court procedural authority. Individual records map primary sources to facts, dates and rules. Research cutoff: September 14, 2026; law is restricted to what was effective at each event. No unverified later Wyoming implementation event is admitted.
 
 ## Current-Term Neutral Projection
 
@@ -723,22 +440,22 @@ This projection contains current law, public procedure, roster, allotments, publ
 ### Authority and chronology
 
 - **Term / divergence:** OT1991; Stone replaced Rehnquist on October 7, 1991.
-- **Chronology cursor:** March 4, 1992, after *McCarthy v. Madigan*.
-- **Effective records:** All forty-two ledger entries. The identified opening trackers remain the October 7 baseline.
-- **Next dated event:** *Dawson v. Delaware*, March 9, 1992, first of six uncoordinated same-day events, subject to any verified intervening implementation filing in Wyoming.
+- **Chronology cursor:** January 27, 1992, after *Lechmere, Inc. v. NLRB*.
+- **Effective records:** All thirty-three ledger entries. Opening trackers remain the October 7 baseline.
+- **Next dated event:** *Hudson v. McMillian*, February 25, 1992, first of three uncoordinated same-day events, subject to any verified intervening implementation filing in Wyoming.
 
 ### Current law
 
-The complete cumulative additions, exact operative propositions, proposition-level authority, precedent treatment and preserved limitations appear in Term Continuity Note §3. Earlier law remains unless expressly displaced. Doherty’s asylum disposition has no common majority rationale, and its equally divided withholding judgment has no precedential force. The eight chunk 4 decisions retain the scopes stated there. Chunk 5 adds Hudson’s narrow six-Justice force holding; Nordic Village’s specific federal monetary-waiver ruling; Holywell’s statutory tax duties; Franklin’s compensation remedy; INDOPCO’s capital classification; Arkansas’s federal permit authority and review rules; Collins’s distinct liability and substantive-right holdings; Willy’s collateral Rule 11 authority; and McCarthy’s statutory and practical exhaustion ruling. Hudson’s universal force standard has four votes and is noncontrolling. Each record controls any conflict in this projection.
+The complete cumulative additions, exact chunk 4 operative propositions, majority support, precedent treatment and preserved limitations are stated in Term Continuity Note §3. Earlier law remains unless expressly displaced. Doherty's asylum disposition has no common majority rationale, and its equal-division withholding affirmance has no precedential force. White governs the accepted exceptions; Rufo governs institutional-decree modification; Dewsnup governs the presented Chapter 7 lien; Wyoming governs the demonstrated fiscal injury and integrated quota; Elias-Zacarias governs nexus and its record-review issue; Presley governs the two reallocations of authority; Lechmere applies Babcock's nonemployee threshold. The records control any conflict in this projection.
 
 ### Public procedure, roster and allotments
 
-Use Note §5, including all nine members, unchanged circuit allotments, the pre-oath participation rule, six-member quorum and majority requirement. All nine participated in every chunk 5 argument and decision. A dissent or judgment-only writing is not a proposition-level join.
+Use Note §5, including all nine members, the unchanged allotments, the pre-oath argument rule, six-member quorum and majority requirement. A dissent or judgment-only writing is not a proposition-level join.
 
 ### Open matters and dependencies
 
-Wyoming retains original implementation jurisdiction over the January 22 injunction. No next filing or hearing date is established. All other completed chunk proceedings are terminal at the Supreme Court stage; lower-court or agency work continues only on the recorded terms. Do not erase Wyoming at term close without a terminal action or express carry-forward. Later matters must respect the specific claim, statutory source, relief and reserved questions of each effective decision.
+Wyoming retains original implementation jurisdiction over its January 22 injunction. No next filing or hearing date is known. All other completed chunk proceedings are terminal at the Supreme Court stage, with lower-court or agency work continuing only as specified. Do not erase Wyoming at term close without a terminal action or express carry-forward.
 
 ### Material published Justice positions
 
-Note §4 and its cited records preserve the complete cumulative material positions for Justice-specific modeling at their stated noncontrolling scope. Keep Hudson’s four-Justice formulation, Stevens’s separate standard, Blackmun’s judgment concurrence and Thomas/Scalia’s dissent distinct from the six-Justice narrow Court holding. Keep the two-Justice Franklin and McCarthy judgment concurrences and Stone’s Collins partial concurrence distinct from the Court’s respective rationales. None acquires controlling force merely because it is useful in a later matter.
+The cumulative positions in Note §4 and the cited durable records remain available for Justice-specific modeling at their stated noncontrolling scope. The five-Justice opinion, Stone's distinct remedy and the Stevens/Blackmun/O'Connor dissent in Elias-Zacarias must remain separate; the same rule applies to the distinct writings in each other case.

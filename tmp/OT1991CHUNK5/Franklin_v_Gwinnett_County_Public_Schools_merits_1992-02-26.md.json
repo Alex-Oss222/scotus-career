@@ -1,0 +1,163 @@
+{
+  "name": "Franklin v. Gwinnett County Public Schools",
+  "page": 60,
+  "end": 78,
+  "docket": "No. 90-918",
+  "date": "1992-02-26",
+  "argued": "December 11, 1991",
+  "arguedISO": "1991-12-11",
+  "below": "Eleventh Circuit, 911 F.2d 617",
+  "file": "Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md",
+  "archive": "micro_IA40385013_0054",
+  "event": "The district court dismissed the complaint on the categorical ground that Title IX did not permit damages; the Eleventh Circuit affirmed.",
+  "questions": "Whether compensatory damages are available in the recognized Title IX private action for intentional discrimination, and whether the Spending Clause notice principle bars that relief.",
+  "baseline": "The four February 26 events are uncoordinated and share a start-of-day baseline including the committed February 25 decisions. None uses another February 26 decision as earlier law.",
+  "record": "Franklin seeks reversal and ordinary litigation of her damages claim. She alleges repeated sexual harassment and abuse by teacher/coach Andrew Hill while she attended a federally funded high school, official awareness and failure to act, discouragement of her complaint and closure of the investigation following Hill’s conditional resignation. These are allegations, not judicial findings. She no longer attends the school. The lower court relied on its Title VI precedent Drayden and a Spending Clause limitation; Judge Johnson regarded Drayden as controlling without reaching the additional constitutional characterization. Respondents and the United States defend the damages bar. Backpay and prospective student relief would not redress the pleaded completed injury.",
+  "entering": "Title IX, 20 U.S.C. §1681(a), prohibits sex discrimination by covered education programs. Cannon v. University of Chicago, 441 U.S. 677, establishes this private action. Bell v. Hood, 327 U.S. 678; Davis v. Passman, 442 U.S. 228; and J. I. Case Co. v. Borak, 377 U.S. 426, distinguish the cognizable action from its appropriate remedies. Guardians Association, 463 U.S. 582, supplies proposition-level support for intentional-discrimination damages, not a single unified opinion. Darrone, 465 U.S. 624, sustains backpay under an analogous statute. Pennhurst, 451 U.S. 1, requires notice of funding conditions. Section 2000d-7, enacted in 1986, refers expressly to remedies at law and in equity; the Restoration Act enacted in 1988 preserves the enforcement setting. Nordic Village’s February 25 federal Treasury-waiver rule does not turn this recipient into the United States or establish State-arm immunity. Hafer’s capacity doctrine is distinct.",
+  "reach": "The existing cause of action is accepted. Only the categorical remedy bar and the necessary Spending Clause objection are reached. Recipient attribution, proof of intentional violation, causation, damages amount, punitive relief and unintentional effects remain open. The Court need not select among potential constitutional sources of Congress’s Title IX power.",
+  "stoneCheck": "The completed February 25 decisions change no defendant, cause, remedy or governing notice premise. Stone joins the opinion’s ordinary-remedy and intentional-condition holdings with their stated limits. His approval permits compensation for proved injury, not punishment, an automatic attribution rule or an award on allegations.",
+  "action": "The Eleventh Circuit is reversed, 9–0, and the case is remanded for further proceedings on the damages claim.",
+  "components": [
+    {
+      "title": "Categorical bar to Title IX damages",
+      "result": "Reversed and remanded",
+      "yes": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "no": [],
+      "remedy": "Compensatory relief may be sought for proved intentional discrimination; liability, attribution, causation and amount remain to be adjudicated."
+    }
+  ],
+  "opinions": [
+    {
+      "form": "Opinion of the Court",
+      "author": "White",
+      "joins": [
+        "Stone",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter"
+      ],
+      "relationship": "Supports reversal and remand",
+      "scope": "Appropriate-remedies rule and its application to intentional Title IX discrimination, including the Spending Clause objection."
+    },
+    {
+      "form": "Concurrence in the judgment",
+      "author": "Scalia",
+      "joins": [
+        "Thomas"
+      ],
+      "relationship": "Supports reversal and remand on a narrower statutory ground",
+      "scope": "The 1986 remedies enactment acknowledges damages; no automatic full-remedies presumption for all judicially implied causes."
+    }
+  ],
+  "assignment": "Stone assigns White from the unanimous reversal coalition; seven Justices join White’s reasoning, and Scalia and Thomas retain their distinct basis.",
+  "holdings": [
+    {
+      "title": "Compensatory relief in the established Title IX action",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter"
+      ],
+      "rule": "When a cognizable federal statutory cause of action exists, courts may award appropriate relief absent clear congressional direction limiting it; recognizing that remedy does not create a new cause of action. In Title IX’s established private action, compensatory damages are available for proved intentional discrimination, subject to proof of recipient responsibility, causation and compensable loss.",
+      "authority": "White’s opinion, joined by Stone, Blackmun, Stevens, O’Connor, Kennedy and Souter; seven Justices control the remedial rule and application.",
+      "explanation": "The Court holds that Title IX does not confine an established private action to remedies incapable of redressing a completed personal injury. Cannon supplies the cause of action; Bell v. Hood and Davis v. Passman distinguish that authority to sue from the appropriate relief a court may grant. Borak confirms that statutory silence about remedy does not itself confine a recognized action to a declaration. Guardians and Darrone support compensatory relief for intentional violations of closely related discrimination statutes. Congress’s 1986 reference to remedies at law and in equity, followed by legislation preserving private enforcement, supplies no direction to bar damages. Recognizing compensation therefore implements the existing action rather than expanding judicial power to hear a new one. Franklin’s departure from school shows why backpay and prospective relief cannot compensate the pleaded past injury. The allegations still require adjudication; the Court awards nothing and decides neither a final recipient-attribution rule nor punitive or unintended-effects liability.",
+      "precedents": [
+        "*Cannon v. University of Chicago*, 441 U.S. 677 — applied as the established Title IX cause of action; not reopened.",
+        "*Bell v. Hood*, 327 U.S. 678 — applied for appropriate remedies in an existing cognizable action, absent a congressional limit.",
+        "*Davis v. Passman*, 442 U.S. 228 — applied to separate existence of an action from available relief.",
+        "*J. I. Case Co. v. Borak*, 377 U.S. 426 — applied against limiting relief merely because the statute does not enumerate the remedy.",
+        "*Guardians Association v. Civil Service Commission*, 463 U.S. 582 — its intentional-discrimination remedial support is applied without inventing a single majority rationale.",
+        "*Consolidated Rail Corp. v. Darrone*, 465 U.S. 624 — analogous monetary relief supports the availability of compensation."
+      ]
+    },
+    {
+      "title": "Notice does not bar damages for the pleaded intentional violation",
+      "support": [
+        "Stone",
+        "White",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter"
+      ],
+      "rule": "The Spending Clause notice principle does not categorically bar compensatory relief for an intentional violation of Title IX’s express prohibition of sex discrimination within its established private action. Ambiguous funding conditions, unintentional effects and the separate requirements for attributing misconduct to a recipient are not resolved.",
+      "authority": "White’s opinion, joined by the same seven Justices, rejects the distinct funding-notice ground offered to sustain dismissal.",
+      "explanation": "The Court holds that the asserted lack of notice cannot sustain this categorical damages bar. Pennhurst requires fair notice of conditions imposed on recipients of federal funds; it does not authorize intentional breach of a clear nondiscrimination condition while limiting the injured person to ineffective prospective relief. Title IX expressly forbids sex discrimination, and Cannon supplies the established enforcement action. The pleaded sexual harassment and abuse describe intentional discrimination of the kind addressed by Meritor Savings Bank’s explanation of sex-based harassment, without deciding here when a school is responsible for a teacher’s conduct. Darrone also defeats the premise that a spending-based statute necessarily excludes a monetary award for intentional violations. The objection cannot succeed merely by describing compensation as payment from a recipient’s treasury. This conclusion rests on the enacted condition and existing enforcement law, not a general power to redress every injury. Genuinely ambiguous conditions, proof of institutional responsibility and unintended discriminatory effects remain distinct questions.",
+      "precedents": [
+        "*Pennhurst State School and Hospital v. Halderman*, 451 U.S. 1 — its funding-condition notice rule is preserved; it does not bar relief for this alleged intentional violation.",
+        "*Meritor Savings Bank, FSB v. Vinson*, 477 U.S. 57 — its identification of sex-based harassment informs the pleaded discrimination; no Title VII attribution formula is imported.",
+        "*Consolidated Rail Corp. v. Darrone*, 465 U.S. 624 — applied against a categorical objection to monetary remedies under spending legislation.",
+        "*Cannon v. University of Chicago*, 441 U.S. 677 — the established action supplies the enforcement premise for the notice analysis."
+      ]
+    }
+  ],
+  "law": "Effective February 26, appropriate relief in a cognizable statutory action is not barred by remedial silence alone, and Title IX permits compensation for intentional discrimination. Before this decision, the cause existed but the presented damages bar was unresolved; afterward, that bar and the categorical Spending Clause objection are rejected. No new implied action, punitive remedy, liability for unintended effects, automatic institutional responsibility, or finding against the school is established.",
+  "separate": "Scalia, joined by Thomas, agrees that the damages claim may proceed because the 1986 enactment acknowledges legal as well as equitable remedies. They decline to presume every remedy merely from a cause of action that judges previously implied, and do not join the Court’s broader remedial reasoning.",
+  "continuity": "Scalia and Thomas, concurrence in judgment, February 26: the 1986 remedies language supports Title IX damages; an implied cause does not automatically carry every remedy, and judicial limits on its remedial scope may be appropriate where Congress has not acknowledged them. Noncontrolling methodology; the Title IX result is shared. No later treatment.",
+  "procedure": "Supreme Court review ends with reversal and remand. The damages complaint returns for ordinary proceedings on liability, attribution, causation and compensable loss. No amount is awarded and no prospective school-supervision order is entered.",
+  "dependencies": "Later Title IX cases must preserve the difference between remedy availability and recipient liability. Nordic Village remains a distinct federal sovereign-waiver decision.",
+  "form": "full",
+  "formBasis": "although the judgment is unanimous, Stone joins the controlling remedial and notice reasoning rather than the comparator’s narrower concurrence, changing the proposition coalition from six to seven.",
+  "sourceMap": "503 U.S. 63–65 verifies allegations, procedural dismissal, alternate circuit ground and separate opinion below; pages 65–76 supply the remedy and notice authorities and reservations; pages 76–78 verify the narrower concurrence.",
+  "audit": [
+    {
+      "justice": "White",
+      "provisional": "Reverse under Cannon, Bell/Davis, Guardians/Darrone and the 1986 enactment; Pennhurst does not bar relief for intentional breach of the express condition.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Blackmun",
+      "provisional": "Reverse under Cannon, Bell/Davis, Guardians/Darrone and the 1986 enactment; Pennhurst does not bar relief for intentional breach of the express condition.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Stevens",
+      "provisional": "Reverse under Cannon, Bell/Davis, Guardians/Darrone and the 1986 enactment; Pennhurst does not bar relief for intentional breach of the express condition.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "O'Connor",
+      "provisional": "Reverse under Cannon, Bell/Davis, Guardians/Darrone and the 1986 enactment; Pennhurst does not bar relief for intentional breach of the express condition.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Scalia",
+      "provisional": "Reverse under §2000d-7’s enacted acknowledgment of damages; withhold a universal Bell presumption for implied actions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Kennedy",
+      "provisional": "Reverse under Cannon, Bell/Davis, Guardians/Darrone and the 1986 enactment; Pennhurst does not bar relief for intentional breach of the express condition.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Souter",
+      "provisional": "Reverse under Cannon, Bell/Davis, Guardians/Darrone and the 1986 enactment; Pennhurst does not bar relief for intentional breach of the express condition.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    },
+    {
+      "justice": "Thomas",
+      "provisional": "Reverse under §2000d-7’s enacted acknowledgment of damages; withhold a universal Bell presumption for implied actions.",
+      "reconciliation": "Historical judgment and ground match; no material revision or historical departure."
+    }
+  ],
+  "alternatives": "A categorical damages bar relies on remedial silence and caution about implied causes. It fails for the six non-Stone majority proponents because the cause/remedy inquiries differ and ordinary relief remains available; it also fails for Scalia/Thomas because the later enacted acknowledgment independently supplies a narrower route. Notice is separately considered, not assumed from the vote to reverse. Allegations of official awareness are not made into a final attribution rule.",
+  "auditFinal": "All nine reverse. Seven join both Court holdings; Scalia/Thomas supply only judgment agreement on their narrower basis. The changed controlling coalition results from Stone’s approved legal ground; no other Justice changes position. No damages category beyond the approved and majority-supported compensatory question is supplied."
+}
