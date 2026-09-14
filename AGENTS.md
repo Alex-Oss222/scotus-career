@@ -58,6 +58,20 @@ Follow Engine §14. Sources in order of preference:
 
 Do not rely on Justia (it blocks automated requests) or on any aggregator alone. Download a PDF and read its text in full; do not skim the first pages and infer the rest. Record the research cutoff in every Decision Record.
 
+## Render form
+
+Decide the render form for each event when projecting its Render Input, and state it there ("Render form: compact" or "Render form: full", with the basis). The renderer follows that choice.
+
+- **Compact form** is allowed only when both hold: the judgment margin is two votes or more (9-0, 8-1, 7-2, 6-3, or the reduced-Court equivalents such as 8-0, 7-1, 6-2, 5-3), and nothing material changed from the historical comparator. It is the Contract's routine narrative, but it still carries every supplied element in prose: argued and decided dates, route to the Court, questions, vote by component with names, every writing with author and joins, separate positions, limits and questions not reached, precedent treatment and current-law effect, and mandate, remedy, and stage.
+- **Full form** is required otherwise: the Contract's standard form (complex where Contract section 4 calls for it), with the Judgment table and the Opinion Topology table.
+- **Material change** means any of: a different judgment or disposition on any component; a different controlling proposition, or a different coalition supporting it; a Justice other than Stone voting differently from history; a different remedy, mandate, or remand; a matter history decided that this Court leaves undecided, or the reverse; a new or changed reusable doctrine; a different treatment of precedent. A change that follows solely from Stone casting the vote Rehnquist cast (a different author for the Court, a margin one vote different) is not material by itself.
+- A 5-4 judgment, an equal division, or a fracture with no Opinion of the Court always takes the full form.
+- Renders publish only what the Court publishes: dispositions, opinions, and noted statements. Never the conference or certiorari poll.
+
+## Records
+
+Every Canonical Decision Record carries its adaptive audit annex: each non-Stone Justice's provisional commitment and ground, the historical-comparator reconciliation, and any departure with its Justice-specific basis. A compact table is enough for routine cases. The annex, not the render, is where a departure from history is explained.
+
 ## Rules that never bend
 
 1. Stone's approved position controls Stone. The Engine may not fill a missing Stone choice; stop the matter and say exactly what is missing.
