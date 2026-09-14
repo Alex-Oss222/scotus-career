@@ -54,12 +54,14 @@ Each task is one context that sees the neutral packet, the comparator, and Stone
 Follow Engine §14. Sources in order of preference:
 
 1. The Internet Archive's Records and Briefs collection (`us-supreme-court`; one item per docket, holding the petition, briefs, joint appendix, and opinion as text PDFs). The most complete source for cases through 2006.
-2. supremecourt.gov — opinions, orders, Journals, transcripts. Strongest from 2007 onward.
-3. loc.gov — the United States Reports.
-4. govinfo.gov.
-5. Cornell LII and Oyez for opinions and argument audio.
+2. CourtListener and the Caselaw Access Project (courtlistener.com search and API; static.case.law) — the judgment below in every case, and any earlier opinion in full text, including each Justice's date-eligible opinions and joins.
+3. loc.gov — the United States Reports; and the 1988 edition of the United States Code for statutory text as it stood in 1991.
+4. supremecourt.gov — opinions, orders, Journals, transcripts. Strongest from 2007 onward.
+5. govinfo.gov — the 1994 edition of the United States Code (the closest full edition after 1991), the Statutes at Large, and the Federal Register from 1994; congress.gov for legislative history.
+6. Cornell LII and Oyez for opinions and argument audio.
+7. HathiTrust (babel.hathitrust.org) only as a last resort, for a state code or session law whose exact 1991 text matters and is not quoted in the opinion or briefs.
 
-Do not rely on Justia (it blocks automated requests) or on any aggregator alone. Download a PDF and read its text in full; do not skim the first pages and infer the rest. Record the research cutoff in every Decision Record.
+Do not rely on Justia (it blocks automated requests) or on any aggregator alone. Send a browser User-Agent when a site refuses the default one. Download a PDF and read its text in full; do not skim the first pages and infer the rest. Scholarship and commentary are context only, never authority, and anything written after the event's date is not in-world. Record the research cutoff in every Decision Record.
 
 ## Render form
 
