@@ -1,7 +1,7 @@
 # OCTOBER TERM 1991 — TERM WORKSPACE
 
-**Workspace status:** Chunk 3 completed; twenty-four Court events and one admitted institutional source have been processed.
-**Chronology cursor:** January 14, 1992, after *Molzof v. United States*.
+**Workspace status:** Chunk 4 completed; thirty-two Court events and one admitted institutional source have been processed.
+**Chronology cursor:** January 27, 1992, after *Lechmere, Inc. v. NLRB*.
 **Opening baseline:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, all processed through the term-opening baseline effective October 7, 1991 and issued September 14, 2026.
 **Operating mode:** Single-conversation mode; true blindness is unavailable. The split runtime files must nevertheless be opened in the required order during each Run: `_NEUTRAL` first, `_COMPARATOR` second, and `_STONE` last.
 
@@ -36,14 +36,14 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 | 1992-01-14 | County of Yakima v. Confederated Tribes and Bands of the Yakima Indian Nation, 502 U.S. 251 (1992) | MERITS decision | 1992-01-14 (4-event same-day group; case-list sequence controls) | Completed: affirmed and remanded with modified instructions; components 8-1 and 9-0. Record committed. | Completed and projected into current state; see the durable ledger record. | OT_1991CHUNK3 |
 | 1992-01-14 | Norman v. Reed, 502 U.S. 279 (1992) | MERITS decision | 1992-01-14 (4-event same-day group; case-list sequence controls) | Completed: affirmed in part, reversed in part, and remanded 7-1; Thomas did not participate. Record committed. | Completed and projected into current state; see the durable ledger record. | OT_1991CHUNK3 |
 | 1992-01-14 | Molzof v. United States, 502 U.S. 301 (1992) | MERITS decision | 1992-01-14 (4-event same-day group; case-list sequence controls) | Completed: Seventh Circuit reversed and remanded 9-0. Record committed. | Completed and projected into current state; see the durable ledger record. | OT_1991CHUNK3 |
-| 1992-01-15 | INS v. Doherty, 502 U.S. 314 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-15 | White v. Illinois, 502 U.S. 346 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-15 | Rufo v. Inmates of Suffolk County Jail, 502 U.S. 367 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-15 | Dewsnup v. Timm, 502 U.S. 410 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-22 | Wyoming v. Oklahoma, 502 U.S. 437 (1992) | MERITS decision | 1992-01-22 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-22 | INS v. Elias-Zacarias, 502 U.S. 478 (1992) | MERITS decision | 1992-01-22 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-27 | Presley v. Etowah County Commission, 502 U.S. 491 (1992) | MERITS decision | 1992-01-27 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
-| 1992-01-27 | Lechmere, Inc. v. NLRB, 502 U.S. 527 (1992) | MERITS decision | 1992-01-27 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK4 |
+| 1992-01-15 | INS v. Doherty, 502 U.S. 314 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Completed: asylum reversal 8-0 on fractured grounds; withholding affirmed by 4-4 division without precedent. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
+| 1992-01-15 | White v. Illinois, 502 U.S. 346 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Completed: affirmed 9-0 on the limited unavailability question. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
+| 1992-01-15 | Rufo v. Inmates of Suffolk County Jail, 502 U.S. 367 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Completed: both consolidated judgments vacated and remanded 6-2; decree remains operative. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
+| 1992-01-15 | Dewsnup v. Timm, 502 U.S. 410 (1992) | MERITS decision | 1992-01-15 (4-event same-day group; case-list sequence controls) | Completed: affirmed 5-3; allowed Chapter 7 real-property lien not stripped down. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
+| 1992-01-22 | Wyoming v. Oklahoma, 502 U.S. 437 (1992) | MERITS decision | 1992-01-22 (2-event same-day group; case-list sequence controls) | Completed merits: summary judgment and injunction for Wyoming 7-2; original jurisdiction remains OPEN for implementation. Record committed. | Retained original jurisdiction: January 22 injunction is operative; await any supported implementation request. No next filing or hearing date is known. Do not close or omit this matter without an express terminal event or carry-forward. | OT_1991CHUNK4 |
+| 1992-01-22 | INS v. Elias-Zacarias, 502 U.S. 478 (1992) | MERITS decision | 1992-01-22 (2-event same-day group; case-list sequence controls) | Completed: categorical ruling reversed 6-3; five Justices restore the Board denial without further nexus review. Record committed. | Completed and projected into current state; see durable ledger record. Doherty's committed no-new-rule result was applied before adjudication. | OT_1991CHUNK4 |
+| 1992-01-27 | Presley v. Etowah County Commission, 502 U.S. 491 (1992) | MERITS decision | 1992-01-27 (2-event same-day group; case-list sequence controls) | Completed: both appealed noncoverage judgments affirmed 5-4; other claims and Road Supervision ruling untouched. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
+| 1992-01-27 | Lechmere, Inc. v. NLRB, 502 U.S. 527 (1992) | MERITS decision | 1992-01-27 (2-event same-day group; case-list sequence controls) | Completed: reversed and access-order enforcement denied 6-3. Record committed. | Completed and projected into current state; see durable ledger record.  | OT_1991CHUNK4 |
 | 1992-02-25 | Hudson v. McMillian, 503 U.S. 1 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
 | 1992-02-25 | United States v. Nordic Village, Inc., 503 U.S. 30 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
 | 1992-02-25 | Holywell Corp. v. Smith, 503 U.S. 47 (1992) | MERITS decision | 1992-02-25 (3-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK5 |
@@ -173,20 +173,32 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 | 23 | 1992-01-14 | *County of Yakima v. Confederated Tribes and Bands of the Yakima Indian Nation*, merits decision | CDR — `records/County_of_Yakima_v_Confederated_Tribes_merits_1992-01-14.md` | Validated and committed; common start-of-day baseline with orders 22 and 24–25 |
 | 24 | 1992-01-14 | *Norman v. Reed*, merits decision | CDR — `records/Norman_v_Reed_merits_1992-01-14.md` | Validated and committed; common start-of-day baseline with orders 22–23 and 25 |
 | 25 | 1992-01-14 | *Molzof v. United States*, merits decision | CDR — `records/Molzof_v_United_States_merits_1992-01-14.md` | Validated and committed; common start-of-day baseline with orders 22–24 |
+| 26 | 1992-01-15 | *INS v. Doherty*, merits decision | CDR — `records/INS_v_Doherty_merits_1992-01-15.md` | Validated and committed; same-day start-of-day baseline preserved |
+| 27 | 1992-01-15 | *White v. Illinois*, merits decision | CDR — `records/White_v_Illinois_merits_1992-01-15.md` | Validated and committed; same-day start-of-day baseline preserved |
+| 28 | 1992-01-15 | *Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail*, merits decision | CDR — `records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md` | Validated and committed; same-day start-of-day baseline preserved |
+| 29 | 1992-01-15 | *Dewsnup v. Timm*, merits decision | CDR — `records/Dewsnup_v_Timm_merits_1992-01-15.md` | Validated and committed; same-day start-of-day baseline preserved |
+| 30 | 1992-01-22 | *Wyoming v. Oklahoma*, merits decision | CDR — `records/Wyoming_v_Oklahoma_merits_1992-01-22.md` | Validated and committed; original implementation jurisdiction retained |
+| 31 | 1992-01-22 | *INS v. Elias-Zacarias*, merits decision | CDR — `records/INS_v_Elias_Zacarias_merits_1992-01-22.md` | Validated and committed; same-day start-of-day baseline preserved |
+| 32 | 1992-01-27 | *Presley v. Etowah County Commission; Mack v. Russell County Commission*, merits decision | CDR — `records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md` | Validated and committed; same-day start-of-day baseline preserved |
+| 33 | 1992-01-27 | *Lechmere, Inc. v. NLRB*, merits decision | CDR — `records/Lechmere_v_NLRB_merits_1992-01-27.md` | Validated and committed; same-day start-of-day baseline preserved |
+
 
 ## Term Continuity Note
 
 ### 1. Scope and Chronology Cursor
-- **Term / opening trackers:** OT1991; the three `state/` opening trackers, processed through October 7, 1991, edition September 14, 2026.
-- **Manifest:** All 123 items remain. The first twenty-five effective events—twenty-four Court events and one institutional source—are completed. No item was added, removed, or rescheduled.
-- **Coverage:** Chunks 1–3. The five December 16 decisions share one entering-law baseline; the four January 14 decisions share another.
-- **Latest processed change:** *Molzof v. United States*, January 14, 1992.
-- **Next eligible item:** *INS v. Doherty*, 502 U.S. 314 (1992), January 15, first in a four-event group.
+
+- **Term / exact opening trackers:** OT1991; `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`, each processed through October 7, 1991 and issued September 14, 2026.
+- **Manifest:** The Full-Term Event Manifest above retains all 123 items: 122 inventory entries plus Thomas's oath and circuit reallotment. Thirty-three entries are completed: thirty-two Court events and one admitted institutional source. No inventory item was added, removed or rescheduled. Completion of Wyoming's merits event does not close its retained original proceeding.
+- **Coverage:** Chunks 1–4. All previously stated same-day baselines remain; January 15, January 22 and January 27 each use one start-of-day baseline. Doherty was durably committed before the January 22 Elias-Zacarias refresh.
+- **Latest processed change:** *Lechmere, Inc. v. NLRB*, January 27, 1992.
+- **Next dated eligible item:** *Hudson v. McMillian*, 503 U.S. 1 (1992), February 25, 1992, first of a three-event same-day group. Any actual filing in the retained Wyoming proceeding must be reconciled by its effective date.
 
 ### 2. Completed Events and Admitted Sources
-The twenty-five validated records appear in the Term Working Ledger; no correction exists. Chunk 3 dispositions are recorded in orders 16–25 and projected in `render-inputs/OT_1991CHUNK3.md`.
+
+The thirty-three validated records appear in the Term Working Ledger above with their natural identities, effective dates, dispositions and durable locations. Entries 1–25 remain unchanged. Entries 26–33 are the eight chunk 4 merits decisions, including the consolidated Rufo/Rapone and Presley/Mack matters. No correction exists. The exact public projection is `render-inputs/OT_1991CHUNK4.md`; earlier chunk projections remain unchanged.
 
 ### 3. Current Law
+
 - **Criminal appeal finality (October 15):** A single timely substantive reconsideration motion renders a suppression ruling nonfinal until disposition, including when it renews an abandoned ground; the full appeal period then begins. Bad faith, successive motions, merits waiver, and the search remain open.
 - **Judicial immunity and emergency election relief:** *Mireles*'s equal division and *Campos*'s unexplained denial create no precedent.
 - **Rule 39.8 (November 4):** Current frivolousness plus extreme repetitive frivolous use may warrant discretionary fee denial for identified submissions, with a paid-filing opportunity; no numerical threshold or prospective ban was adopted.
@@ -212,7 +224,167 @@ The twenty-five validated records appear in the Term Working Ledger; no correcti
 - **Ballot access (January 14):** Continuing qualification effects preserve a live election controversy. Illinois may require support in a separate electorate but may not bar authorized party-name expansion or invalidate qualified slate components solely because another district fails.
 - **FTCA damages (January 14):** Section 2674 uses the traditional punitive category tied to punishment for culpable conduct; alleged excess, duplication, or imperceptibility does not alone reclassify compensation. State entitlement and amount remain distinct.
 
+#### INS v. Doherty — 1992-01-15
+
+No new reusable substantive doctrine enters current law. The asylum judgment changes the parties' disposition; the equal-division withholding affirmance binds the parties without precedential force. Abudu's distinct reopening grounds, asylum discretion, and withholding's statutory requirements remain the entering law. Whether these facts satisfy statutory exclusions is not decided.
+
+- **Disposition and absence of a controlling reopening rationale:** The asylum portion of the Second Circuit's judgment is reversed; its withholding portion is affirmed by an equally divided Court. The disposition creates no controlling substantive reopening rule on either issue. **Authority:** The per curiam judgment records eight votes for asylum reversal and the equal division on withholding. No separate rationale receives five of the eight participating Justices; no substantive proposition is treated as controlling.
+
+**Precedent treatment and present force:**
+
+- *INS v. Abudu*, 485 U.S. 94 — remains governing preexisting law; the separate opinions disagree about its application, and no new extension controls.
+- *INS v. Rios-Pineda*, 471 U.S. 444 — procedural reopening discretion remains intact; no majority specifies its application to this changed destination.
+- *INS v. Stevic*, 467 U.S. 407, and *INS v. Cardoza-Fonseca*, 480 U.S. 421 — the distinction between asylum and mandatory withholding remains intact.
+- *Marks v. United States*, 430 U.S. 188 — no controlling narrowest rationale can be extracted from independent grounds lacking a logical common denominator.
+- *Durant v. Essex Co.*, 74 U.S. 107, 110–113 — applied for the binding interparty effect and absence of precedent when equal division prevents the requested appellate disposition.
+
+**Durable authority:** [Canonical Decision Record](records/INS_v_Doherty_merits_1992-01-15.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### White v. Illinois — 1992-01-15
+
+The two accepted firmly rooted exceptions require no separate production or unavailability showing. Roberts, Inadi and Wright remain the received framework, with exception foundations preserved. No later testimonial test, blanket approval of police questioning, automatic child-necessity rule, or harmless-error holding is created.
+
+- **No universal production or unavailability prerequisite:** Where the granted review assumes that statements were properly admitted under the firmly rooted spontaneous-declaration and medical-treatment exceptions, the Confrontation Clause does not require the prosecution first to produce the declarant or establish unavailability. The accepted exception foundations remain necessary; the ruling does not validate a disputed foundation or every police interview. **Authority:** Part I of Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; nine Justices endorse this rule.
+- **The government's categorical definition of witness is rejected:** The Confrontation Clause is not categorically confined to formal affidavits or equivalent trial substitutes, so that limiting definition does not supply an alternative basis for admitting these statements. The Court resolves the accepted exceptions under existing confrontation law and leaves any broader reconstruction of that law open. **Authority:** Part II of Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices reject the proposed categorical narrowing. Scalia and Thomas withhold that join.
+
+**Precedent treatment and present force:**
+
+- *United States v. Inadi*, 475 U.S. 387 — extended from coconspirator declarations to the two accepted exceptions because later testimony does not replace their contextual value.
+- *Ohio v. Roberts*, 448 U.S. 56 — preserved for its received confrontation framework; its former-testimony unavailability analysis is not universalized.
+- *Idaho v. Wright*, 497 U.S. 805 — preserved for constitutional reliability outside firmly rooted exceptions; no unsupported judicial assurance substitutes for its requirements.
+- *Bourjaily v. United States*, 483 U.S. 171 — firmly rooted exceptions retain their established reliability significance.
+- *Coy v. Iowa*, 487 U.S. 1012, and *Maryland v. Craig*, 497 U.S. 836 — distinguished as trial-witness presentation cases; their safeguards remain intact.
+- *Mattox v. United States*, 156 U.S. 237 — retained as evidence of confrontation's substantive protection and its coexistence with established exceptions.
+- *California v. Green*, 399 U.S. 149, and *Dutton v. Evans*, 400 U.S. 74 — preserved; the Court's treatment of out-of-court statements is not displaced by a formal-affidavit-only definition.
+- *Inadi* and *Roberts* — applied as exception-sensitive confrontation decisions, not replaced with a new categorical testimonial rule.
+
+**Durable authority:** [Canonical Decision Record](records/White_v_Illinois_merits_1992-01-15.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail — 1992-01-15
+
+Rule 60(b)(5) now supplies a two-part institutional-decree inquiry: significant change making continued enforcement inequitable, then suitably tailored relief. Actual anticipation weighs heavily against relief without an absolute unforeseeability requirement. Consent obligations may exceed constitutional minima; fiscal concerns cannot excuse violations. Application to this proposed design remains open.
+
+- **Threshold for modifying an institutional consent decree:** Under Rule 60(b)(5), the party seeking to modify an institutional consent decree must prove a significant change in fact or law that makes continued enforcement inequitable; an unforeseeable catastrophe is not required. Actual anticipation and acceptance of the relevant risk impose a heavy burden to justify relief, and dissatisfaction, a new administration, or the availability of a cheaper constitutional alternative alone does not suffice. **Authority:** Stone's opinion, joined by White, Scalia, Kennedy and Souter; five of eight participating Justices. O'Connor supplies a sixth remand vote on her separate ground.
+- **Fit and limits of the proposed modification:** A justified modification must be suitably tailored to the proven change and preserve lawful protection of the decree's remaining purposes; the court may not simply rewrite a consent decree to the constitutional minimum. Bell's clarification of constitutional limits does not by itself eliminate a voluntarily accepted single-cell obligation, and financial pressure cannot authorize unconstitutional confinement. **Authority:** Stone's opinion, joined by White, Scalia, Kennedy and Souter; the same five-Justice majority controls the remedial standard.
+
+**Precedent treatment and present force:**
+
+- *United States v. Swift & Co.*, 286 U.S. 106 — its disposition is preserved; its demanding factual formulation is confined to its setting rather than imposed universally.
+- *System Federation No. 91 v. Wright*, 364 U.S. 642 — applied to preserve equitable power to adjust continuing obligations to changed conditions.
+- *United States v. United Shoe Machinery Corp.*, 391 U.S. 244 — applied to connect modification to the continuing decree's purpose and operation.
+- *Board of Education v. Dowell*, 498 U.S. 237 — reinforces contextual treatment of institutional equitable relief; no school-desegregation termination rule is imported.
+- *Local No. 93, International Association of Firefighters v. Cleveland*, 478 U.S. 501 — consent obligations may exceed what constitutional liability alone would require.
+- *Bell v. Wolfish*, 441 U.S. 520 — its constitutional treatment of double-celling does not erase a consensual single-cell requirement.
+- *System Federation No. 91 v. Wright*, 364 U.S. 642 — preserves adjustment for changed circumstances while maintaining judicial control of lawful relief.
+
+**Durable authority:** [Canonical Decision Record](records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### Dewsnup v. Timm — 1992-01-15
+
+Allowed, lien-backed real-property debt in the presented Chapter 7 posture is not stripped down through §506(d) merely because §506(a) values the collateral below the allowed debt. Section 506(a) continues to perform its valuation function. Other subsections, statutory exceptions and reorganization questions are reserved. No constitutional taking or future-valuation question is adjudicated.
+
+- **Allowed real-property liens in the presented Chapter 7 setting:** In the Chapter 7 setting presented, §506(d) does not reduce a lien on real property to its current judicially determined value when the claim is allowed under §502 and secured by that lien. Section 506(a)'s valuation for treatment of a claim does not, on these facts, compel avoidance of the lien's excess under §506(d); other statutory settings and express exceptions remain outside the decision. **Authority:** Blackmun's opinion, joined by White, Stevens, O'Connor and Kennedy; five of eight participating Justices control the statutory construction and affirmance.
+
+**Precedent treatment and present force:**
+
+- *Long v. Bullard*, 117 U.S. 617 — the ordinary survival of liens through personal discharge remains an interpretive premise, not immunity from every express avoidance provision.
+- *Johnson v. Home State Bank*, 501 U.S. 78 — applied for the distinction between extinguished personal liability and a surviving claim against property.
+- *Farrey v. Sanderfoot*, 500 U.S. 291 — lien survival informs the Code's operation subject to its actual avoidance provisions.
+- *United States v. Ron Pair Enterprises, Inc.*, 489 U.S. 235 — preserved; the Court finds contextual uncertainty here rather than displacing the priority of clear statutory text.
+- *United Savings Association v. Timbers of Inwood Forest Associates*, 484 U.S. 365 — §506(a)'s valuation function remains operative; it does not decide this §506(d) question.
+- *Union Bank v. Wolas*, simulated December 11, 1991 — its §547(c)(2) rule remains intact; no lien-avoidance rule is drawn from its treatment of debt maturity.
+
+**Durable authority:** [Canonical Decision Record](records/Dewsnup_v_Timm_merits_1992-01-15.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### Wyoming v. Oklahoma — 1992-01-22
+
+Wyoming's documented tax loss supports ordinary standing and exercise of original jurisdiction here. The facial origin quota fails the discrimination rule and lacks clear congressional authorization. Its integrated regulatory scheme is invalidated without a GRDA-only rewrite. Market participation, neutral utility regulation, unrelated fiscal injuries and distinct future procurement policies retain their separate legal treatment.
+
+- **Wyoming's own fiscal injury:** A documented loss of severance-tax revenue caused by a mandatory substitution away from the State's taxed coal establishes Wyoming's own Article III injury where the record supports causation and an injunction would remove the challenged purchasing mandate. Redressability does not require a guarantee that every displaced purchase will return, but generalized hopes of future tax growth do not suffice. **Authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices decide standing.
+- **Exercise of original jurisdiction:** The Court exercises original jurisdiction over this substantial interstate controversy because Wyoming's own fiscal injury and the challenged statewide mandate warrant direct resolution and no equivalent pending private action would fully resolve the State's claim. Exclusive jurisdiction under §1251(a) does not eliminate the Court's established discretion in administering its original docket. **Authority:** The same seven-Justice Court opinion supplies the jurisdictional exercise; Thomas's contrary discretionary ground is noncontrolling.
+- **The discriminatory coal quota and asserted justifications:** Oklahoma's express in-state-coal quota discriminates against interstate commerce and cannot stand unless the State establishes a legitimate local purpose that cannot adequately be served by reasonable nondiscriminatory alternatives; it has not done so here. The Federal Power Act's general preservation of state utility regulation does not clearly authorize this geographic discrimination. **Authority:** Stone's opinion joined by the same six Associate Justices; seven Justices invalidate the quota. Scalia and Thomas do not reach this merits question.
+- **No judicial conversion into a state-only purchasing directive:** The Act's integrated purchasing mandate cannot be preserved solely for the state-owned Grand River Dam Authority without an adequate state-law basis for severing applications and retaining that different legislative scheme. The Court invalidates the enacted regulatory program while leaving the validity of an independently adopted state procurement policy open. **Authority:** The seven-Justice Court opinion sustains Wyoming's severability exception and controls the injunction's scope.
+
+**Precedent treatment and present force:**
+
+- *Maryland v. Louisiana*, 451 U.S. 725 — applied to a State's demonstrated injury from another State's commercial restriction.
+- *Hunt v. Washington State Apple Advertising Commission*, 432 U.S. 333 — geographic market exclusion is a concrete commercial injury; Wyoming still proves its own fiscal stake.
+- *Warth v. Seldin*, 422 U.S. 490, and *Simon v. Eastern Kentucky Welfare Rights Organization*, 426 U.S. 26 — ordinary personal-injury and causation requirements are preserved, not relaxed for States.
+- *Massachusetts v. Missouri*, 308 U.S. 1 — applied for seriousness of the sovereign interest and adequacy of other available relief.
+- *Texas v. New Mexico*, 462 U.S. 554 — preserved for administration of substantial interstate original controversies.
+- *Illinois v. City of Milwaukee*, 406 U.S. 91 — alternative forums remain relevant; no equivalent proceeding resolves this State's injury here.
+- *Arizona v. California*, 460 U.S. 605 — an earlier jurisdictional ruling is not an irrevocable bar to reconsidering jurisdiction on the developed record.
+- *Philadelphia v. New Jersey*, 437 U.S. 617 — applied to invalidate facial geographic discrimination regardless of the favored market share's size.
+- *Hughes v. Oklahoma*, 441 U.S. 322 — applied for legitimate purpose and the absence of reasonable nondiscriminatory alternatives.
+- *New Energy Co. of Indiana v. Limbach*, 486 U.S. 269, and *Bacchus Imports, Ltd. v. Dias*, 468 U.S. 263 — local commercial advantage does not justify discrimination.
+- *New England Power Co. v. New Hampshire*, 455 U.S. 331 — general federal permission to regulate does not clearly authorize discriminatory restrictions.
+- *Pike v. Bruce Church, Inc.*, 397 U.S. 137 — its evenhanded-regulation balance is not the governing branch for this express origin quota.
+- *Maine v. Taylor*, 477 U.S. 131 — a proved need without reasonable neutral alternatives may justify discrimination; that showing is absent here.
+- *Reeves, Inc. v. Stake*, 447 U.S. 429, and *Hughes v. Alexandria Scrap Corp.*, 426 U.S. 794 — the market-participant doctrine is preserved; no independent procurement policy is adjudicated.
+- *South-Central Timber Development, Inc. v. Wunnicke*, 467 U.S. 82 — distinguishes market participation from regulatory restrictions beyond the relevant participation.
+- *Dorchy v. Kansas*, 264 U.S. 286, and *Champlin Refining Co. v. Corporation Commission*, 286 U.S. 210 — severability depends on legislative intent and a workable retained enactment, not judicial preference for a substitute policy.
+
+**Durable authority:** [Canonical Decision Record](records/Wyoming_v_Oklahoma_merits_1992-01-22.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### INS v. Elias-Zacarias — 1992-01-22
+
+The statute requires an applicant-specific protected-ground nexus and permits circumstantial motive evidence. Political recruitment alone creates no categorical eligibility, and neutrality is not categorically excluded. Supported agency factual determinations cannot be displaced unless the record compels the contrary conclusion; the Court finds that condition unmet here. No blanket review standard for every prima-facie reopening denial or new probability threshold is adopted.
+
+- **Political purpose of the recruiting group does not itself establish nexus:** Coercive recruitment by a politically motivated organization does not necessarily constitute persecution on account of the recruit's political opinion; the protected reason for targeting the applicant must be supported by evidence concerning the particular case. Direct evidence of motive is unnecessary, but the group's general agenda and the mere fact of refusal do not establish that connection by a categorical presumption. **Authority:** Scalia's opinion, joined by White, Kennedy, Souter and Thomas; five Justices control this statutory rule. Stone separately endorses rejection of the categorical premise but supplies no join in the Court's full opinion.
+- **The existing record does not warrant overturning the Board:** Under §1105a(a)(4), a court may overturn the Board's supported factual determination only when the record compels the contrary finding, not merely because that finding could be supported. Here the evidence does not compel a finding of feared persecution because of the applicant's political opinion, so the Ninth Circuit cannot displace the Board's denial on its stated nexus rationale. **Authority:** Scalia's opinion joined by White, Kennedy, Souter and Thomas; five Justices support both the evidentiary conclusion and the operative restoration of the Board's denial. Stone does not join this holding or its remedy.
+
+**Precedent treatment and present force:**
+
+- *INS v. Cardoza-Fonseca*, 480 U.S. 421 — asylum's well-founded-fear threshold remains distinct from withholding's higher probability requirement; neither removes the protected-ground nexus.
+- *INS v. Stevic*, 467 U.S. 407 — withholding's distinct mandatory standard is preserved.
+- *INS v. Abudu*, 485 U.S. 94 — distinct reopening grounds remain; the statutory nexus question is not replaced by discretionary denial of mandatory protection.
+- *NLRB v. Columbian Enameling & Stamping Co.*, 306 U.S. 292 — applied for the distinction between evidence permitting a finding and evidence requiring displacement of the agency's finding.
+- *INS v. Abudu*, 485 U.S. 94 — preserved; the Court does not expand this case's nexus review into a universal rule for all reopening determinations.
+- *INS v. Doherty*, simulated January 15, 1992 — its dispositions created no new controlling reopening rationale and supply no contrary rule or merits finding here.
+
+**Durable authority:** [Canonical Decision Record](records/INS_v_Elias_Zacarias_merits_1992-01-22.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### Presley v. Etowah County Commission; Mack v. Russell County Commission — 1992-01-27
+
+The two challenged allocations of governing power are outside §5 because they lack a direct relation to voting; other claims remain available. The familiar electoral categories are not exhaustive, and effective replacement of an elective office by an appointed one remains open. Administrative interpretation cannot erase the voting boundary. No racial-purpose or effect finding is made.
+
+- **The two resolutions do not change a voting practice:** Section 5 does not require preclearance of these reallocations of governing authority because they do not alter voting procedures, candidacy, the electorate, or the method of selecting the relevant offices and have no direct relation to voting. This ruling does not resolve whether an extreme transfer could effectively replace an elective office with an appointive one, nor does it exempt a change merely because it occurs after an election. **Authority:** Kennedy's opinion, joined by O'Connor, Scalia, Souter and Thomas; five Justices control both noncoverage judgments.
+- **Administrative interpretation does not eliminate the voting boundary:** The Attorney General's interpretation of §5 is entitled to substantial consideration but cannot extend preclearance to governing changes that lack the statutory connection to voting. The proposed significant-transfer/different-constituencies test cannot substitute for that connection in these appeals. **Authority:** The same five-Justice Kennedy opinion controls this statutory boundary and the rejection of the broader administrative and lower-court formulations.
+
+**Precedent treatment and present force:**
+
+- *Allen v. State Board of Elections*, 393 U.S. 544 — broad coverage of changes affecting electoral choice remains; elective-to-appointive selection is distinguished from these retained elected offices.
+- *Perkins v. Matthews*, 400 U.S. 379 — changes to the electorate and voting arrangements remain covered; coverage remains distinct from discrimination merits.
+- *Dougherty County Board of Education v. White*, 439 U.S. 32 — candidacy restrictions directly related to electoral choice remain covered.
+- *McCain v. Lybrand*, 465 U.S. 236, and *City of Lockhart v. United States*, 460 U.S. 125 — changes in electoral arrangements remain within §5; neither decides ordinary internal governing duties.
+- *NAACP v. Hampton County Election Commission*, 470 U.S. 166 — practical changes to election timing or procedure require proper review; postelection timing alone supplies no exemption here.
+- *United States v. Board of Commissioners of Sheffield*, 435 U.S. 110 — administrative interpretation retains substantial weight within the statutory voting boundary.
+- *Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.*, 467 U.S. 837 — preserved; deference does not authorize exceeding the statute's scope.
+- *Beer v. United States*, 425 U.S. 130 — coverage and discriminatory-effect review remain separate inquiries.
+- *South Carolina v. Katzenbach*, 383 U.S. 301 — §5's remedial function is preserved; it does not by itself establish coverage of every governing change.
+
+**Durable authority:** [Canonical Decision Record](records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
+#### Lechmere, Inc. v. NLRB — 1992-01-27
+
+Babcock's nonemployee threshold controls: demonstrated practical inaccessibility precedes balancing, and a more productive organizing location does not establish necessity. The Board may assess actual obstacles within that rule; it may not replace the rule through Jean Country. Discriminatory exclusion, employee activity, public-property advocacy and genuinely isolated workforces retain distinct treatment. No new general deference or constitutional-entry rule is adopted.
+
+- **Nonemployee access requires demonstrated inaccessibility before balancing:** For a nondiscriminatory exclusion policy, nonemployee organizers must show that employees are practically beyond reasonable offsite communication before the Board may balance a need for entry against the employer's property rights; greater convenience or organizing success does not satisfy that threshold. This workforce's community residence, public approaches and substantial direct contacts defeat the asserted exception, while discriminatory exclusion, employees' own solicitation and genuinely inaccessible workforces remain governed by their distinct rules. **Authority:** Stone's opinion, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices control both the statutory rule and denial of enforcement.
+
+**Precedent treatment and present force:**
+
+- *NLRB v. Babcock & Wilcox Co.*, 351 U.S. 105 — applied and reaffirmed: employee and nonemployee activity differ, and demonstrated inaccessibility precedes balancing under a nondiscriminatory rule.
+- *Republic Aviation Corp. v. NLRB*, 324 U.S. 793 — employees' own organizing rights remain distinct and are not narrowed here.
+- *Central Hardware Co. v. NLRB*, 407 U.S. 539 — applied for the prior showing of a need for nonemployee access.
+- *Hudgens v. NLRB*, 424 U.S. 507 — accommodation language is preserved within Babcock's nonemployee threshold, not treated as authorization for universal balancing.
+- *Sears, Roebuck & Co. v. Carpenters*, 436 U.S. 180 — applied for the heavy burden concerning alternative access and the separate discrimination route.
+- *Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.*, 467 U.S. 837, and *Maislin Industries, U.S., Inc. v. Primary Steel, Inc.*, 497 U.S. 116 — general deference remains; a later agency approach must respect a governing judicial statutory construction.
+- *Jean Country*, 291 N.L.R.B. 11 — rejected insofar as its universal balancing replaces the antecedent inaccessibility inquiry for nondiscriminatory exclusion of nonemployee organizers; other contexts are not adjudicated.
+
+**Durable authority:** [Canonical Decision Record](records/Lechmere_v_NLRB_merits_1992-01-27.md). The full explanations and reserved issues are preserved there; no doctrine is taken from a dissent or equal division.
+
 ### 4. Material Published Noncontrolling Positions
+
 - **Stone and Stevens — *Mireles*, October 21:** A genuinely separable command of gratuitous physical violence is operational rather than judicial, while warrants, contempt decisions, and attendance orders remain protected despite error. Noncontrolling concurrence in an equal-division disposition.
 - **White, Blackmun, O'Connor, and Souter — *Mireles*, October 21:** The challenged conduct remains judicial at the general attendance-function level and is absolutely immune. Noncontrolling dissent from equal division.
 - **Stone, Blackmun, and Stevens — *Campos*, October 29:** A court should not implement an expressly objected-to legislative plan for convenience where a nonobjected-to alternative exists; they would have stayed only Plan 2. Noncontrolling application dissent.
@@ -234,36 +406,56 @@ The twenty-five validated records appear in the Term Working Ledger; no correcti
 - **Blackmun — *County of Yakima*, January 14:** Later Indian legislation leaves ad valorem authorization insufficiently clear. Partial dissent.
 - **Scalia — *Norman*, January 14:** Illinois may demand support for the county endeavor as a whole. Dissent.
 
+- **INS v. Doherty, 1992-01-15:** White, joined by Blackmun and O'Connor, would sustain the denial of both applications under the regulation requiring material evidence previously unavailable; the prospect of a rejected destination did not become qualifying new evidence merely because it occurred. Kennedy would sustain both denials because the withdrawal was a tactical choice made with the destination risk known. Stone, joined by Stevens, Scalia and Souter, accepts denial of discretionary asylum but rejects using that discretion, or an imported asylum explanation requirement, to foreclose mandatory withholding. They would have the court of appeals review the administrative exclusions on the existing record and return the claim to the agency if those grounds fail. They neither award withholding nor treat the extradition decision as dispositive of the INA exclusions. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/INS_v_Doherty_merits_1992-01-15.md).
+- **White v. Illinois, 1992-01-15:** Thomas, joined by Scalia, agrees with the exception-based judgment and its analysis but declines to reject the government's proposed definition of a witness. He would leave open reconsideration of whether confrontation particularly addresses formalized testimonial materials; that suggested reconstruction is not adopted law. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/White_v_Illinois_merits_1992-01-15.md).
+- **Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail, 1992-01-15:** O'Connor concurs only in the judgment. She agrees that reconsideration is necessary because anticipation was treated as dispositive, relevant financial concerns were excluded, and any departure from single occupancy was treated as defeating the decree. She emphasizes the district judge's experience and discretion and does not compel administrative deference on whether modification is warranted. Stevens, joined by Blackmun, accepts flexibility but would affirm: the officials anticipated growth and reaffirmed single occupancy in 1985, and the trial court's alternative explanation adequately protects settlement reliance. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md).
+- **Dewsnup v. Timm, 1992-01-15:** Stone, joined by Scalia and Souter, would read the adjacent provisions consistently: allowance establishes the claim, while §506(a) supplies the amount secured for §506(d). They would preserve the established $39,000 secured portion and avoid only the unsupported excess, subject to preserved exceptions and estate-administration issues on remand. They distinguish Long and Johnson because survival through personal discharge does not defeat an affirmative statutory avoidance provision. Reliance interests cannot supply an unwritten exception to the enacted valuation language. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Dewsnup_v_Timm_merits_1992-01-15.md).
+- **Wyoming v. Oklahoma, 1992-01-22:** Scalia, joined by Thomas, would dismiss for lack of standing. He considers the inference from displaced purchases and unused capacity to lost taxable production insufficient on summary judgment and views the State's derivative tax interest as outside the protected commercial interests. Thomas, joined by Scalia, also would decline discretionary original jurisdiction even assuming standing, because the primary commercial injury could be litigated through ordinary private actions. Neither writing decides whether the quota would survive Commerce Clause review on the merits. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Wyoming_v_Oklahoma_merits_1992-01-22.md).
+- **INS v. Elias-Zacarias, 1992-01-22:** Stone agrees that the organization's agenda and the applicant's protected ground are different questions. He would remand for review of the Board's actual reopening decision, considering actual or imputed opinion and circumstantial motive without making new administrative findings or deciding that this record conclusively defeats the claim. Stevens, joined by Blackmun and O'Connor, would affirm the Ninth Circuit's relief: refusal to align with an armed political movement can express protected neutrality, and the coercive circumstances support that inference. Their position is an inference from the record, not an invented concession or an automatic award of asylum. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/INS_v_Elias_Zacarias_merits_1992-01-22.md).
+- **Presley v. Etowah County Commission; Mack v. Russell County Commission, 1992-01-27:** Stevens, joined by White and Blackmun, would require preclearance of both resolutions. Allen's functional protection should reach substantial removal of the authority voters select an official to exercise; Etowah's change following the remedial electoral arrangement supplies an additional reason for coverage, without deciding discriminatory intent. Stone separately would cover substantial structural removal of a core, independently exercisable district-office function into appointment or materially different collective control. He distinguishes these changes from routine appropriations, individual hiring, or losses in ordinary policy votes, and would leave preclearance merits to the designated statutory channels. All four would reverse both appealed noncoverage judgments. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md).
+- **Lechmere, Inc. v. NLRB, 1992-01-27:** White, joined by Blackmun, would uphold the Board's accommodation and its assessment of effective alternatives. He reads Babcock, Central Hardware and Hudgens as leaving broader room to balance and argues that modern administrative deference also supports Jean Country; he criticizes Babcock's original approach. Stevens agrees only with the accommodation and subsequent-precedent reasons. He defends Babcock's employee/nonemployee distinction and declines to join the claim that it was wrongly decided. All three would affirm enforcement. **Status:** noncontrolling at the scope identified; no later treatment within this chunk. [Source record](records/Lechmere_v_NLRB_merits_1992-01-27.md).
+
 ### 5. Current Procedure and Institution
-- **Roster and allotments:** Nine members—Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Allotments remain Stone—D.C., Fourth, Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth; White—Tenth; Thomas—Eleventh.
-- **Participation:** The pre-oath argument rule remains. Thomas did not participate in *Ray*, *Hilton*, *King*, *Hunter*, or *Norman*; all nine participated in the other chunk 3 events.
-- **Open Supreme Court matters:** None from chunks 1–3. Lower-court proceedings continue where a remand is specified, without retained Supreme Court supervision.
+
+- **Roster / seniority:** Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Six qualified Justices constitute a quorum; five votes supply a majority for either participating Court size in chunk 4.
+- **Circuit allotments:** Stone—D.C., Fourth, Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth; White—Tenth; Thomas—Eleventh. Unchanged from the October 23 institutional record.
+- **Participation:** The pre-oath argument rule remains. Thomas did not participate in chunk 4's Doherty, Rufo/Rapone or Dewsnup; all nine participated in White, Wyoming, Elias-Zacarias, Presley/Mack and Lechmere. Earlier participation facts remain in entries 1–25.
+- **Open Supreme Court proceeding:** *Wyoming v. Oklahoma*, No. 112, Original. The January 22 declaration and injunction operate now; jurisdiction is retained for implementation. No later decree, filing, hearing, compliance finding or terminal event is established. The next nonroutine act would be a supported implementation request, if filed. No exact date may be inferred, and the proceeding must be expressly terminated or carried forward before it is removed from live matters.
+- **Other stages:** Supreme Court merits review has ended in the other seven chunk 4 events. Doherty returns for implementation of asylum reversal and the surviving withholding judgment; Rufo returns for a new Rule 60(b)(5) assessment with its decree still binding; Elias-Zacarias returns for implementation of the five-Justice disposition sustaining the Board's denial. Presley leaves other district-court claims and the unappealed Road Supervision ruling intact. Earlier lower-court remands remain on their stated terms; none implies retained Supreme Court supervision.
 
 ### 6. Blockers and Revalidation Needs
-None. Before January 15, refresh chunk 4 against the current law above. The four January 15 matters share a common start-of-day baseline unless their materials establish coordination.
+
+No stopped chunk 4 matter, missing approved choice or unresolved source conflict remains. The Wyoming implementation proceeding is open, not blocked. Before chunk 5, refresh all neutral packets against the effective holdings, reservations and published noncontrolling positions above. Preserve the February 25 common baseline unless authorized materials establish coordination. Later immigration matters must distinguish Doherty's absence of a substantive majority from Elias-Zacarias's five-Justice nexus and review holdings; later institutional-relief matters must preserve Rufo's consent obligations and its unresolved factual application. No historical follow-on event is automatically admitted.
 
 ### 7. Source and Research Cutoff
-Continuation sources are the opening trackers, manifest, ledger, twenty-five durable records, and three Render Input files. The complete official volume 502 United States Reports PDF from GovInfo and the record sources identified in the chunk brief were reviewed. Research cutoff: September 14, 2026.
+
+Continuation requires the three identified opening trackers, the complete manifest and ledger above, all thirty-three durable records, and four Render Input files. Chunk 4 used the eight separate official United States Reports PDFs for 502 U.S. 314–548, downloaded from GovInfo and read in full; the full official Durant opinion, 74 U.S. 107–113, supplies the pre-divergence divided-Court procedural authority. Individual records map primary sources to facts, dates and rules. Research cutoff: September 14, 2026; law is restricted to what was effective at each event. No unverified later Wyoming implementation event is admitted.
 
 ## Current-Term Neutral Projection
 
 ### Projection boundary
-This projection contains current law, public procedure, roster, allotments, public Justice positions, and manifest dependencies. It excludes Stone's private core, provisional commitments, comparator reconciliation, and audit annexes.
+
+This projection contains current law, public procedure, roster, allotments, published Justice positions and manifest dependencies. It excludes private Stone cores, provisional commitments, historical reconciliation and audit annexes.
 
 ### Authority and chronology
-- **October Term / divergence:** OT1991; Stone replaced Rehnquist on October 7, 1991.
-- **Chronology cursor:** January 14, 1992, after *Molzof v. United States*.
-- **Effective records:** All twenty-five Term Working Ledger entries.
-- **Next eligible event:** *INS v. Doherty*, January 15, 1992, first of four uncoordinated same-day events.
+
+- **Term / divergence:** OT1991; Stone replaced Rehnquist on October 7, 1991.
+- **Chronology cursor:** January 27, 1992, after *Lechmere, Inc. v. NLRB*.
+- **Effective records:** All thirty-three ledger entries. Opening trackers remain the October 7 baseline.
+- **Next dated event:** *Hudson v. McMillian*, February 25, 1992, first of three uncoordinated same-day events, subject to any verified intervening implementation filing in Wyoming.
 
 ### Current law
-The complete current-term additions and preserved limitations are stated in Term Continuity Note §3. Pre-divergence law remains available unless displaced; no holding arose from *Mireles* or *Campos*.
 
-### Public procedure, roster, and allotments
-The Court has nine members in the order and with the allotments stated in Note §5, subject to the pre-oath argument rule. Six qualified Justices constitute a quorum; a participating majority controls and equal division creates no precedent.
+The complete cumulative additions, exact chunk 4 operative propositions, majority support, precedent treatment and preserved limitations are stated in Term Continuity Note §3. Earlier law remains unless expressly displaced. Doherty's asylum disposition has no common majority rationale, and its equal-division withholding affirmance has no precedential force. White governs the accepted exceptions; Rufo governs institutional-decree modification; Dewsnup governs the presented Chapter 7 lien; Wyoming governs the demonstrated fiscal injury and integrated quota; Elias-Zacarias governs nexus and its record-review issue; Presley governs the two reallocations of authority; Lechmere applies Babcock's nonemployee threshold. The records control any conflict in this projection.
+
+### Public procedure, roster and allotments
+
+Use Note §5, including all nine members, the unchanged allotments, the pre-oath argument rule, six-member quorum and majority requirement. A dissent or judgment-only writing is not a proposition-level join.
 
 ### Open matters and dependencies
-No completed chunk matter remains open before the Supreme Court. January 15's four events share their start-of-day entering-law baseline unless source materials establish coordination.
+
+Wyoming retains original implementation jurisdiction over its January 22 injunction. No next filing or hearing date is known. All other completed chunk proceedings are terminal at the Supreme Court stage, with lower-court or agency work continuing only as specified. Do not erase Wyoming at term close without a terminal action or express carry-forward.
 
 ### Material published Justice positions
-The positions in Term Continuity Note §4 and the earlier durable records remain available for Justice-specific modeling at their stated nonbinding scope.
+
+The cumulative positions in Note §4 and the cited durable records remain available for Justice-specific modeling at their stated noncontrolling scope. The five-Justice opinion, Stone's distinct remedy and the Stevens/Blackmun/O'Connor dissent in Elias-Zacarias must remain separate; the same rule applies to the distinct writings in each other case.
