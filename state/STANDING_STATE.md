@@ -3,7 +3,7 @@
 **Opening October Term:** 1991  
 **Last completed simulated October Term:** None  
 **Processed through:** Term-opening baseline only, effective October 7, 1991. No OT1991 Court event has yet been processed.  
-**Edition:** September 13, 2026  
+**Edition:** September 14, 2026  
 **State posture:** OT1991 opening state. The simulation begins before the first Court action of the Term. No later simulated case, filing condition, procedural dependency, or post-OT1991 institutional event is carried into the current state.  
 **Controlled Justice:** Alex-Lamar Stone-Zsela, Chief Justice, Chief Justice line.
 
@@ -62,6 +62,10 @@ Chief Justice Stone makes a fresh opening allotment for institutional effectiven
 ### Allotment rule
 
 Stone may reallot circuits when Court membership changes or when an express administrative order makes reassignment necessary. No Justice automatically inherits a predecessor's circuits. Each complete reallotment is based on regional and circuit experience, subject-matter fit, emergency-docket temperament, workload balance, and institutional importance.
+
+### Referral practice for applications
+
+By the Court's internal practice adopted at the opening of October Term 1991, an application for a stay, injunction, or other interim relief in a matter on the Term's inventory is referred by the Circuit Justice to the full Court and decided by the participating Justices under the participating-majority rule. The order issues in the Court's name and recites the presenting Circuit Justice ("presented to Justice ___ and by him or her referred to the Court"). It ordinarily issues without opinion; a brief per curiam and noted dissents are available. A Justice may participate in a referred application from the date of the judicial oath. An application not on the Term's inventory remains subject to ordinary Circuit Justice practice.
 
 ## 3. Open Certiorari, Merits, and Original Matters
 

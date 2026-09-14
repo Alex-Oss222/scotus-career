@@ -3,7 +3,7 @@
 **October Term:** 1991.  
 **Source:** The user's OT1991 case list supplied September 13, 2026 (122 entries), reproduced without change.  
 **Date status:** Every date below is the historical Supreme Court decision date, used as the simulated event calendar. None is an organizationally assigned date.  
-**Matter stage:** Listed matters are MERITS unless marked otherwise; the two entries the list marks "in chambers" are single-Justice actions. No matter is designated `[CERT GRANT]`, and no user-added lower-court case has been listed yet.  
+**Matter stage:** Listed matters are MERITS unless marked otherwise; the two entries the list marks "in chambers" are applications, referred by the Circuit Justice to the full Court under the Standing State's referral practice and decided by the participating Justices as an order of the Court. No matter is designated `[CERT GRANT]`, and no user-added lower-court case has been listed yet.  
 **Chunk grouping:** Suggested only: chronological, about ten matters per chunk, never splitting a same-day decision group. Renumber to match the briefs when they are written; a chunk is an input unit, not a legal one.  
 **Dockets:** Not supplied; the citation is the natural reference.
 
@@ -13,7 +13,7 @@
 |---|---|---|---|---|---|
 | OT_1991CHUNK1 | United States v. Ibarra | 502 U.S. 1 (1991) | 1991-10-15 | Historical, used as simulated event | MERITS |
 | OT_1991CHUNK1 | Mireles v. Waco | 502 U.S. 9 (1991) | 1991-10-21 | Historical, used as simulated event | MERITS |
-| OT_1991CHUNK1 | Campos v. City of Houston | 502 U.S. 1301 (1991) | 1991-10-29 | Historical, used as simulated event | IN CHAMBERS (single-Justice action) |
+| OT_1991CHUNK1 | Campos v. City of Houston | 502 U.S. 1301 (1991) | 1991-10-29 | Historical, used as simulated event | APPLICATION (referred to the Court; order of the Court) |
 | OT_1991CHUNK1 | Zatko v. California | 502 U.S. 16 (1991) | 1991-11-04 | Historical, used as simulated event | MERITS |
 | OT_1991CHUNK1 | Hafer v. Melo | 502 U.S. 21 (1991) | 1991-11-05 | Historical, used as simulated event | MERITS |
 | OT_1991CHUNK1 | Board of Governors of the Federal Reserve System v. MCorp Financial, Inc. | 502 U.S. 32 (1991) | 1991-12-03 | Historical, used as simulated event | MERITS |
@@ -160,7 +160,7 @@
 
 | Suggested chunk | Case name | Citation | Event date | Date status | Matter type |
 |---|---|---|---|---|---|
-| OT_1991CHUNK10 | Reynolds v. International Amateur Athletic Federation | 505 U.S. 1301 (1992) | 1992-06-20 | Historical, used as simulated event | IN CHAMBERS (single-Justice action) |
+| OT_1991CHUNK10 | Reynolds v. International Amateur Athletic Federation | 505 U.S. 1301 (1992) | 1992-06-20 | Historical, used as simulated event | APPLICATION (referred to the Court; order of the Court) |
 | OT_1991CHUNK10 | Sawyer v. Whitley | 505 U.S. 333 (1992) | 1992-06-22 | Historical, used as simulated event | MERITS |
 | OT_1991CHUNK10 | R. A. V. v. City of St. Paul | 505 U.S. 377 (1992) | 1992-06-22 | Historical, used as simulated event | MERITS |
 | OT_1991CHUNK10 | Medina v. California | 505 U.S. 437 (1992) | 1992-06-22 | Historical, used as simulated event | MERITS |
