@@ -14,16 +14,20 @@ terms/OT<year>/  One folder per term, OT1991–OT2015:
    briefs/          your case briefs, one file per chunk (OT_<year>CHUNK<n>.md)
    runtime/         optional split files (_NEUTRAL / _STONE / _COMPARATOR)
    workspace.md     written by Codex: manifest, ledger index, continuity note
-   records/         written by Codex: one Decision Record per event
-   output/          written by Codex: the render of each chunk
+   records/         written by Run: one Decision Record per event
+   render-inputs/   written by Run: the Render Input for each chunk
+   output/          written by Render: the public render of each chunk
    close/           written by Codex at term close
 ```
 
-## The three sentences
+## The four sentences
 
 1. `Open October Term 1991.` — validates `state/`, builds the manifest from `case-list.md`, writes `workspace.md`.
-2. `Run October Term 1991, chunk 1.` — adjudicates the chunk; writes `records/`, `output/`, `workspace.md`. Repeat per chunk.
-3. `Close October Term 1991.` — rebuilds the three trackers as one set into `state/` and `close/`.
+2. `Run October Term 1991, chunk 1. Stone's Section II positions in OT_1991CHUNK1.md, version 1, are approved as written; adjudicate using them.` — adjudicates the chunk; writes `records/`, `render-inputs/`, `workspace.md`.
+3. `Render October Term 1991, chunk 1.` — a new task; writes the public render to `output/` from the Render Inputs alone.
+4. `Close October Term 1991.` — rebuilds the three trackers as one set into `state/` and `close/`.
+
+Steps 2 and 3 repeat per chunk, each as its own task, each merged before the next.
 
 Anything else, in plain words, in the same task: "Also: stay the execution in …", "Add this lower-court case to the term: …".
 

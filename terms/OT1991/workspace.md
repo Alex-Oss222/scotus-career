@@ -1,7 +1,7 @@
 # OCTOBER TERM 1991 — TERM WORKSPACE
 
-**Workspace status:** Chunk 1 completed; seven Court events and one institutional source record committed.
-**Chronology cursor:** December 3, 1991, after the uncoordinated *MCorp* and *Griffin* same-day group.
+**Workspace status:** Term opened; no OT1991 event has been processed.
+**Chronology cursor:** October 7, 1991, before the first supplied Court event.
 **Opening baseline:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, all processed through the term-opening baseline effective October 7, 1991 and issued September 14, 2026.
 **Operating mode:** Single-conversation mode; true blindness is unavailable. The split runtime files must nevertheless be opened in the required order during each Run: `_NEUTRAL` first, `_COMPARATOR` second, and `_STONE` last.
 
@@ -11,14 +11,14 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 
 | Effective or ordering date | Natural event reference | Event type | Same-day grouping | Current stage | Material dependencies and revalidation | Inventory source |
 |---|---|---|---|---|---|---|
-| 1991-10-15 | United States v. Ibarra, 502 U.S. 1 (1991) | MERITS decision | None | Completed; certiorari and IFP granted, Tenth Circuit judgment vacated, and case remanded. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
-| 1991-10-21 | Mireles v. Waco, 502 U.S. 9 (1991) | MERITS decision | None | Completed; Ninth Circuit affirmed by an equally divided Court without precedential effect. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
-| 1991-10-23 | Clarence Thomas judicial oath and complete circuit reallotment | Scheduled institutional change | None | Effective and admitted; Thomas seated and complete circuit reallotment implemented. | Durable record committed; no opening-stage revalidation remains. | Opening Standing State / Court Composition |
-| 1991-10-29 | Campos v. City of Houston, 502 U.S. 1301 (1991) | APPLICATION — referred full-Court order | None | Completed; broad injunction denied and Plan 2 direction stayed pending further order. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
-| 1991-11-04 | Zatko v. California, 502 U.S. 16 (1991) | MERITS decision | None | Completed; Rule 39.8 fee-waiver motions denied, with paid compliant filing allowed through November 25. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
-| 1991-11-05 | Hafer v. Melo, 502 U.S. 21 (1991) | MERITS decision | None | Completed; Third Circuit affirmed and personal-capacity claims may proceed. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
-| 1991-12-03 | Board of Governors of the Federal Reserve System v. MCorp Financial, Inc., 502 U.S. 32 (1991) | MERITS decision | 1991-12-03 (2-event same-day group; case-list sequence controls) | Completed; reversed in No. 90-913 and affirmed in No. 90-914. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
-| 1991-12-03 | Griffin v. United States, 502 U.S. 46 (1991) | MERITS decision | 1991-12-03 (2-event same-day group; case-list sequence controls) | Completed; conviction affirmed. | Durable record committed; no opening-stage revalidation remains. | OT_1991CHUNK1 |
+| 1991-10-15 | United States v. Ibarra, 502 U.S. 1 (1991) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK1 |
+| 1991-10-21 | Mireles v. Waco, 502 U.S. 9 (1991) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK1 |
+| 1991-10-23 | Clarence Thomas judicial oath and complete circuit reallotment | Scheduled institutional change | None | Scheduled by the opening Standing State; not yet effective at the opening cursor. | Before the next Court event, commit a validated Admitted Source Record for Thomas becoming the most-junior Associate Justice and for the complete reallotment: Thomas takes the Eleventh, Kennedy retains the Ninth, and all other allotments remain unchanged. | Opening Standing State / Court Composition |
+| 1991-10-29 | Campos v. City of Houston, 502 U.S. 1301 (1991) | APPLICATION — referred full-Court order | None | Anticipated interim application referred to the participating full Court for an order of the Court; filing and referral have not yet been admitted. | Validate the application, requested relief, originating circuit, presentation to the allotted Circuit Justice, referral, participation, and posture from the brief and authorized sources; apply all earlier effective simulated Records. | OT_1991CHUNK1 |
+| 1991-11-04 | Zatko v. California, 502 U.S. 16 (1991) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK1 |
+| 1991-11-05 | Hafer v. Melo, 502 U.S. 21 (1991) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK1 |
+| 1991-12-03 | Board of Governors of the Federal Reserve System v. MCorp Financial, Inc., 502 U.S. 32 (1991) | MERITS decision | 1991-12-03 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK1 |
+| 1991-12-03 | Griffin v. United States, 502 U.S. 46 (1991) | MERITS decision | 1991-12-03 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK1 |
 | 1991-12-04 | Estelle v. McGuire, 502 U.S. 62 (1991) | MERITS decision | 1991-12-04 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK2 |
 | 1991-12-04 | Southwest Marine, Inc. v. Gizoni, 502 U.S. 81 (1991) | MERITS decision | 1991-12-04 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK2 |
 | 1991-12-04 | Wooddell v. International Brotherhood of Electrical Workers, Local 71, 502 U.S. 93 (1991) | MERITS decision | 1991-12-04 (4-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK2 |
@@ -146,90 +146,88 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 
 ## Term Working Ledger
 
+No Canonical Decision Record or Admitted Source Record has been committed for OT1991. The ledger is empty at opening.
+
 | Commitment order | Effective date | Natural event key | Record type and durable location | Status or correction |
 |---:|---|---|---|---|
-| 1 | 1991-10-15 | *United States v. Ibarra*, No. 90-1713 | Canonical Decision Record — `records/United_States_v_Ibarra_merits_1991-10-15.md` | Validated; original |
-| 2 | 1991-10-21 | *Mireles v. Waco*, No. 91-311 | Canonical Decision Record — `records/Mireles_v_Waco_merits_1991-10-21.md` | Validated; original |
-| 3 | 1991-10-23 | Clarence Thomas oath and complete circuit reallotment | Admitted Source Record — `records/Clarence_Thomas_oath_and_reallotment_1991-10-23.md` | Validated; original |
-| 4 | 1991-10-29 | *Campos v. City of Houston*, A-301 | Canonical Decision Record — `records/Campos_v_City_of_Houston_application_1991-10-29.md` | Validated; original |
-| 5 | 1991-11-04 | *Zatko v. California*, lead No. 91-5052 and grouped matters | Canonical Decision Record — `records/Zatko_v_California_Rule_39_8_1991-11-04.md` | Validated; original |
-| 6 | 1991-11-05 | *Hafer v. Melo*, No. 90-681 | Canonical Decision Record — `records/Hafer_v_Melo_merits_1991-11-05.md` | Validated; original |
-| 7 | 1991-12-03 | *Board of Governors v. MCorp Financial, Inc.*, Nos. 90-913 and 90-914 | Canonical Decision Record — `records/Board_of_Governors_v_MCorp_merits_1991-12-03.md` | Validated; original; same-day baseline group |
-| 8 | 1991-12-03 | *Griffin v. United States*, No. 90-6352 | Canonical Decision Record — `records/Griffin_v_United_States_merits_1991-12-03.md` | Validated; original; same-day baseline group |
 
 ## Term Continuity Note
 
 ### 1. Scope and Chronology Cursor
 
 - **Term:** October Term 1991.
-- **Opening trackers:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, processed through October 7, 1991; edition September 14, 2026.
-- **Changes covered:** The seven Chunk 1 Court events and the intervening October 23 institutional change listed in the ledger.
-- **Latest processed group:** The uncoordinated December 3 decisions in *MCorp* and *Griffin*, each using the same start-of-day law.
-- **Chronology cursor:** December 3, 1991, after both decisions.
-- **Next eligible manifest item:** *Estelle v. McGuire*, 502 U.S. 62 (1991), December 4, 1991.
+- **Opening tracker versions:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, each processed through the term-opening baseline effective October 7, 1991 and issued September 14, 2026.
+- **Current manifest location and coverage:** The Full-Term Event Manifest above transcribes all 122 entries in `terms/OT1991/case-list.md` and adds the October 23, 1991 Thomas oath and complete circuit reallotment fixed by the opening Standing State and `foundation/COURT_COMPOSITION.md`.
+- **Changes covered:** No Court event or admitted-source change has yet been processed.
+- **Latest processed change:** The term-opening baseline effective October 7, 1991.
+- **Next eligible manifest item:** *United States v. Ibarra*, 502 U.S. 1 (1991), merits decision dated October 15, 1991.
 
 ### 2. Completed Events and Admitted Sources
 
-The eight validated records and their dispositions are listed in the Term Working Ledger. No correction record exists. The public render is `output/OT_1991CHUNK1.md`.
+None.
 
 ### 3. Current Law
 
-- **Criminal appellate finality — *Ibarra* (October 15):** A timely substantive criminal reconsideration motion suspends finality even when it renews an abandoned ground; the full appeal period begins upon disposition. Successive motions, bad faith, merits waiver, consent, and suppression remain open.
-- **Judicial immunity — *Mireles* (October 21):** The 4–4 affirmance has no precedential effect. Existing doctrine is unchanged.
-- **Election relief and §5 — *Campos* (October 29):** A legislative plan is not transformed into a judicial plan merely by an interim order. Scheduling, turnout, and expense do not justify implementation of a plan with an outstanding §5 objection where a nonobjected alternative exists. The rule is limited to the Court's stay in aid of appellate jurisdiction; the §2 claim, discriminatory purpose, permanent map, and Plan 3's ultimate legality remain open.
-- **Filing administration — *Zatko* (November 4):** Rule 39.8 discretion was applied in a nonmerits filing disposition; no controlling merits holding was created.
-- **Section 1983 — *Hafer* (November 5):** A state officer sued individually is a §1983 person even for conduct using official authority. *Will* remains applicable to States and official-capacity claims. Liability, defenses, damages, and reinstatement remain open.
-- **Bank-regulatory review — *MCorp* (December 3):** Section 1818(i)(1) bars district-court injunctions against the pending Board proceedings; bankruptcy jurisdiction does not override the express channel, and *Kyne* does not permit premature review where final-order review remains meaningful. Regulation validity and later asset enforcement remain open.
-- **General verdicts — *Griffin* (December 3):** A verdict on multiple lawful conspiracy objects need not be reversed merely because one object lacks evidentiary support when another sufficiently supports conviction. *Stromberg* and *Yates* remain rules for legally invalid alternatives; *Turner* governs factual insufficiency.
+No simulated holding or simulated reusable doctrine exists at opening. Pre-divergence law enters each event through the Engine's source rules and the event's validated Law-Entering Snapshot. No current-term change has occurred.
 
 ### 4. Material Published Noncontrolling Positions
 
-- **Stone, joined by Stevens — *Mireles*, October 21:** A judicial attendance order remains immune, but a plausibly separable direction to inflict gratuitous violence is operational rather than judicial. Noncontrolling concurrence in a 4–4 affirmance.
-- **Scalia, joined by Kennedy — *Mireles*, October 21:** Summary reversal was unwarranted and review should have been denied. Noncontrolling concurrence in affirmance on vehicle grounds.
-- **Stone, joined by Blackmun and Stevens — *Zatko*, November 4:** Assuming present frivolousness, ordinary fee-waived screening was preferable to discretionary fee denial. Noncontrolling dissent; Rule 39.8's validity was not challenged.
+None. No simulated noncontrolling position predates the opening divergence.
 
 ### 5. Current Procedure and Institution
 
-- **Roster:** Stone is Chief Justice. Associates in seniority order are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No vacancy exists.
-- **Participation:** Thomas took the oath October 23. He may not participate in a matter argued or submitted before that date unless reargued. The completed records preserve their event-specific participation facts.
-- **Allotments:** Stone—D.C., Fourth, Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth; White—Tenth; Thomas—Eleventh.
-- **Open post-event matters:** *Ibarra* is on remand to the Tenth Circuit; *Mireles* returns for ordinary proceedings; the *Campos* Plan 2 stay remains effective pending further order while the lower court may consider a lawful interim plan and schedule changes; *Hafer* returns for proceedings on the personal-capacity claims; both *MCorp* administrative proceedings may continue. The *Zatko* paid-filing deadline is November 25, 1991 and has passed at the cursor without any supplied follow-up filing; no filing is invented. *Griffin* is terminal in this Court on the presented ground.
-- **Active dependency:** Any later material order changing Plan 2's status must be admitted and revalidated before a dependent event.
+- **Roster:** Stone is Chief Justice. The sitting Associates, in seniority order, are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter. The Marshall line is vacant at the cursor. Thomas's judicial oath is fixed for October 23, 1991, when he becomes the most-junior Associate Justice.
+- **Participation:** Six Justices constitute a quorum. Thomas may participate only in matters argued or submitted on or after October 23, 1991 unless a matter argued earlier is reargued. No case-specific nonparticipation is established at opening.
+- **Allotments through October 22:** Stone—D.C., Fourth, and Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth and Eleventh; White—Tenth.
+- **Scheduled reallotment:** On October 23, Thomas takes the Eleventh Circuit and Kennedy retains the Ninth; every other assignment remains unchanged.
+- **Application practice:** Each inventory application is referred by its Circuit Justice to the participating full Court and decided as an order of the Court. The filing, presentation, referral, and participation still require event-level validation.
+- **Open matters:** The opening Standing State carries no open Supreme Court matter, application, filing condition, or active dependency. The manifest is a planning calendar and does not itself establish an earlier grant or application filing.
 
 ### 6. Blockers and Revalidation Needs
 
-No Chunk 1 matter is stopped. Later events retain their manifest-level source, participation, posture, and Stone-approval requirements.
+- No conflict exists among the three synchronized opening trackers or between the Standing State and the OT1991 provisions of the Court Composition register.
+- The inventory contains 122 entries, all represented once in the manifest; no duplicate natural event key or out-of-order date was found. No supplied inventory item is missing.
+- Event-level decisional task, merits posture, route, questions, argument or submission dates, participation, and lower-court judgments are not established by the inventory and require validation from each event's materials and authorized sources before adjudication.
+- The two applications additionally require event-level validation of filing, requested relief, originating circuit, presentation to the allotted Circuit Justice, referral, participation, and procedural posture.
+- Stone's approved choice must be present and complete for each controlled event at Run. Opening does not infer or validate an event-specific Stone position.
 
 ### 7. Source and Research Cutoff
 
-The decision records identify the controlling runtime materials and source treatment. The official 502 U.S. bound volume was downloaded and its complete relevant opinion portions text-extracted and checked; the neutral packets' linked reliable materials were also consulted. Research cutoff: September 14, 2026.
+Opening validation used the three synchronized files in `state/`, `foundation/COURT_COMPOSITION.md`, and `terms/OT1991/case-list.md`. No external event research was necessary for term opening. Research cutoff: September 14, 2026.
 
 ## Current-Term Neutral Projection
 
 ### Projection boundary
 
-This sanitized projection contains current law, public procedure, roster, allotments, public Justice positions, and manifest dependencies. It excludes Stone's private core, provisional commitments, comparator reconciliation, and audit annexes.
+This is the sanitized opening projection of Current Term State. It contains current law, public institutional procedure, roster, allotments, and material manifest dependencies only. It contains no private Stone core, provisional commitment, historical comparator, reconciliation, or audit annex.
 
 ### Authority and chronology
 
-- **October Term and divergence:** OT1991; Stone replaced Rehnquist on October 7, 1991.
-- **Opening trackers:** The three `state/` trackers processed through the October 7 opening baseline, edition September 14, 2026.
-- **Effective current-term Records:** The eight validated ledger records above.
-- **Chronology cursor:** December 3, 1991, after the uncoordinated *MCorp*/*Griffin* group.
-- **Next eligible event:** *Estelle v. McGuire*, December 4, 1991.
+- **October Term:** 1991.
+- **Divergence point:** October 7, 1991, when Stone replaces Rehnquist as Chief Justice at the opening of the Term.
+- **Chronology cursor:** October 7, 1991, before the first supplied Court event.
+- **Opening trackers:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, processed through the opening baseline effective October 7, 1991; edition September 14, 2026.
+- **Effective current-term Records:** None.
+- **Next eligible event:** *United States v. Ibarra*, 502 U.S. 1 (1991), October 15, 1991.
 
 ### Current law
 
-The controlling current-term propositions and express limits are exactly those stated in Continuity Note §3. The 4–4 *Mireles* affirmance and the *Zatko* filing disposition create no controlling merits doctrine. Date-eligible pre-divergence law remains available unless displaced by these records.
+The simulated Holdings and Standards and Tests registers are empty. Date-eligible pre-divergence law must be established in each event's Law-Entering Snapshot from authorized sources. Post-divergence historical outcomes are comparison material, not in-world authority.
 
-### Public procedure, roster, and allotments
+### Public procedure, roster, and participation
 
-The nine-member Court consists of Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas in that order of seniority. Thomas's October 23 participation condition remains operative. Current circuit allotments are Stone—D.C., Fourth, Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth; White—Tenth; Thomas—Eleventh.
+Stone is Chief Justice. At the cursor, the Associate Justices in seniority order are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; the Marshall line is vacant. Six Justices constitute a quorum. Thomas takes the judicial oath October 23, 1991 and then becomes the most-junior Associate Justice. He does not participate in a matter argued before that date unless it is reargued. No case-specific recusal or nonparticipation is established.
 
-### Open matters and dependencies
+Stone assigns an opinion whenever he is in the judgment majority. Otherwise the senior participating Associate in the judgment majority assigns in this order: White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, then Thomas after his accession. An equally divided Court affirms without precedential effect.
 
-The open post-event matters and the continuing *Campos* dependency are exactly those stated in Continuity Note §5. Remaining manifest events stay anticipated and must be processed in effective-date order. Uncoordinated same-day matters use a common start-of-day baseline.
+### Current circuit allotments and scheduled change
+
+Through October 22, 1991: Stone—D.C., Fourth, and Federal; Souter—First; Scalia—Second and Third; O'Connor—Fifth; Stevens—Sixth and Seventh; Blackmun—Eighth; Kennedy—Ninth and Eleventh; White—Tenth. On October 23, 1991, the complete reallotment moves the Eleventh Circuit to Thomas, retains Kennedy on the Ninth, and leaves every other allotment unchanged.
+
+### Open matters and manifest dependencies
+
+No matter or application is carried open by the term-opening Standing State. The Full-Term Event Manifest above schedules 122 supplied Court events and the October 23 institutional change. It does not establish grants or application filings absent event materials. Same-day uncoordinated decisions share their start-of-day entering-law baseline while retaining the controlling inventory sequence. Participation for each event must be validated using its argument or submission date, not inferred from its decision date.
 
 ### Material published Justice positions
 
-The three public, noncontrolling positions listed in Continuity Note §4 remain available only for Justice-specific continuity; none is law of the Court.
+No material simulated published noncontrolling position exists at the opening cursor.

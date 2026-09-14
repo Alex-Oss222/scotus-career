@@ -29,14 +29,17 @@ Never edit anything under `foundation/`.
 - `runtime/` — when present, the user's split of each chunk into `_NEUTRAL`, `_STONE`, and `_COMPARATOR` files.
 - `workspace.md` — the Term Workspace: Full-Term Event Manifest, Term Working Ledger index, latest Term Continuity Note, Current-Term Neutral Projection. Written by Open, replaced by every Run.
 - `records/` — one Canonical Decision Record or Admitted Source Record per completed event, named by case, event type, and date. Append-only.
-- `output/` — the public render of each chunk, produced under the Contract. Append-only.
+- `render-inputs/` — written by Run: the eleven-block Render Input for every event in the chunk, plus chunk metadata. Append-only.
+- `output/` — written by Render: the public render of each chunk under the Contract. Append-only.
 - `close/` — the three replacement trackers and the Term-Close Dossier, frozen at term close.
 
-## The three tasks the user gives
+## The four tasks the user gives
 
 **"Open October Term <year>."** Validate `state/` as the opening trackers against the Engine's term-opening baseline rules, read `case-list.md`, build the Full-Term Event Manifest, and write `terms/OT<year>/workspace.md`. Report any conflict or missing inventory item; do not invent one.
 
-**"Run October Term <year>, chunk <n>."** Take `terms/OT<year>/briefs/OT_<year>CHUNK<n>.md` (and the matching `runtime/` files if present). Reconstruct the Current Term State from `state/` and `workspace.md`. Adjudicate every event in the chunk under the Engine, in effective-date order. For each completed event write its Decision Record to `records/` and project its Render Input; render the chunk under the Contract to `output/OT_<year>CHUNK<n>.md`; replace `workspace.md`. A stopped matter is reported in the render's Simulation Workflow Blockers section and left open — never resolved by guessing.
+**"Run October Term <year>, chunk <n>."** Take `terms/OT<year>/briefs/OT_<year>CHUNK<n>.md` (and the matching `runtime/` files if present). Reconstruct the Current Term State from `state/` and `workspace.md`. Adjudicate every event in the chunk under the Engine, in effective-date order. For each completed event write its Decision Record to `records/`, and write the chunk's Render Inputs — the Engine's eleven blocks per event, in order, plus the chunk metadata — to `render-inputs/OT_<year>CHUNK<n>.md`; replace `workspace.md`. Do not write the public render. A stopped matter is listed in the chunk metadata with its exact blocker and left open — never resolved by guessing.
+
+**"Render October Term <year>, chunk <n>."** A separate task. Read only `render-inputs/OT_<year>CHUNK<n>.md`, `foundation/RENDER_CONTRACT.md`, and the Render form, Holdings writing standard, and Voice sections below. Write `output/OT_<year>CHUNK<n>.md`. Do not open briefs, records, or sources; do not research, revisit votes, change coalitions, or add holdings. If a Render Input lacks something the Contract needs, render the entry as far as it goes and name the exact gap in the Simulation Workflow Blockers section.
 
 **"Close October Term <year>."** Only after every manifest item is completed, corrected, or expressly carried forward. Build the Term-Close Dossier, derive the three replacement trackers as one coordinated set, write them to `terms/OT<year>/close/`, and replace `state/`. Do not change any adjudication during close.
 
@@ -72,10 +75,25 @@ Decide the render form for each event when projecting its Render Input, and stat
 
 Every Canonical Decision Record carries its adaptive audit annex: each non-Stone Justice's provisional commitment and ground, the historical-comparator reconciliation, and any departure with its Justice-specific basis. A compact table is enough for routine cases. The annex, not the render, is where a departure from history is explained.
 
+## Holdings writing standard
+
+The render can only project what the record holds, so write the law of the decision at full depth in the record's controlling-holding section and carry it into the Render Input's Holdings block unchanged. For every controlling proposition and every independently sufficient alternative holding:
+
+- **Holding and operative rule.** The complete rule — trigger, what is required or forbidden, the legal consequence, any operative qualification — in one or two sentences a later court could apply without reading anything else.
+- **Authority.** The writing, the Justices who join it at that level of generality, and why it controls.
+- **Controlling explanation.** 120–200 words in the Court's voice, containing only reasoning the controlling coalition adopted: the precedents relied on and what each supplies; the application to this record; why the principal contrary argument fails; what the Court expressly leaves open. No dicta, no Stone-only reasoning, no later law.
+- **Precedent treatment.** One line per earlier decision the holding materially relies on, distinguishes, limits, extends, or overrules: the treatment in ordinary words and its consequence for that precedent's present force.
+
+Use the Contract's labeled block in the full form; in the compact form keep the same four elements in prose at the same depth. A routine unanimous application still gets the explanation; it will simply be shorter than a rule change. Do not pad.
+
+## Voice
+
+Write the render the way the Court writes for the public, not the way a treatise writes for specialists: plain declarative sentences; the rule first in ordinary words, then its precise legal formulation; every cited precedent followed by a clause saying what it supplies here; terms of art only when needed, explained on first use; no Latin where English will do; the Court's voice ("The Court holds ..."), never "the model" or "the simulation." A careful non-lawyer should be able to follow every step; a lawyer should find nothing imprecise.
+
 ## Rules that never bend
 
 1. Stone's approved position controls Stone. The Engine may not fill a missing Stone choice; stop the matter and say exactly what is missing.
-2. Nothing in `records/`, `output/`, or `close/` is modified once written. A correction is a new file that names what it corrects.
+2. Nothing in `records/`, `render-inputs/`, `output/`, or `close/` is modified once written. A correction is a new file that names what it corrects.
 3. Do not invent quotations, votes, dockets, dates, findings, concessions, or sources.
 4. Only controlling law changes current doctrine. A render never changes substance.
 5. No scores, dashboards, ideology labels, win-loss framing, or predictions. No fictional conference dialogue.
