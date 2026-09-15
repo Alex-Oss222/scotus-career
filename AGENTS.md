@@ -77,6 +77,8 @@ Decide the render form for each event when projecting its Render Input, and stat
 
 Every Canonical Decision Record carries its adaptive audit annex: each non-Stone Justice's provisional commitment and ground, the historical-comparator reconciliation, and any departure with its Justice-specific basis. A compact table is enough for routine cases. The annex, not the render, is where a departure from history is explained.
 
+**Completeness checks** (added September 15, 2026, from the user’s Casey version 1.1 handoff; they bind every record, Render Input, and render from now on, and later briefs): state every material exception, qualification, alternative, and triggering condition the analysis uses, in its own terms; never write “the specified exception” or “the stated qualification” unless the same entry supplies the terms; keep permission and obligation distinct (“may be omitted” never becomes “must be omitted”); distinguish a statutory command from a lower-court finding about how it operates; keep distinct provisions distinct (an exception in one section is not the exception in another); trace every disposition to its stated legal ground and its remedy; if a material qualification is genuinely unresolved, name the omission and the source needed rather than filling it by inference.
+
 ## Holdings writing standard
 
 The render can only project what the record holds, so write the law of the decision at full depth in the record's controlling-holding section and carry it into the Render Input's Holdings block unchanged. For every controlling proposition and every independently sufficient alternative holding:
@@ -95,6 +97,20 @@ Write the render the way the Court writes for the public, not the way a treatise
 ## Stone's standing fallback (approved)
 
 Approved by the user on September 14, 2026, for October Term 1991 and until revoked: "For any claim, count, or docket component the record presents that Section II does not expressly address, Stone joins the disposition the Court's majority reaches on that component and adds no ground." Apply it only to a component on which Section II is silent — never to narrow, extend, or replace a position Section II states. Record each use in the Decision Record's Stone section and in the Render Input, naming the component. A matter is not stopped for that reason alone.
+
+## Special consideration matters
+
+The user may designate a matter for special consideration. Its Run and Render follow every rule above and these additional ones:
+
+- **Statute in terms.** The neutral packet quotes each challenged provision from the statute’s own text, with every exception and qualification, from the source file the user supplies or the official text. A brief’s paraphrase is not enough.
+- **Enhanced record for every Justice on every component.** The Engine’s enhanced issue-specific comparison (§7) is mandatory throughout: for each non-Stone Justice and each separable component, the two-path adversarial test, the strongest counterargument, the join barriers, and the narrower positions, each resting first on that Justice’s own date-eligible writings and simulated positions earlier in the term, with the historical comparator used only to confirm or to record a departure. Cite the writing each row rests on.
+- **Explicit join test.** After Stone’s position enters, record for every part of every opinion each Justice’s join or refusal, the recorded objection, and the minimum revision that would resolve it (§8). Assignment follows §8 and is stated.
+- **Separate writings at depth.** Each published separate writing is summarized at 300–500 words in the record’s continuity section and in the Render Input: framework, each component, authorities, join barriers.
+- **Extended holdings.** The user names the holdings that carry the decision’s doctrine; their controlling explanations run 500–750 words. All other holdings keep the 120–200-word standard. One dedicated holding states the standard lower courts apply after the decision and the controlling status of each component.
+- **Reconciliation checks.** Every vote count in the opinion topology reconciles to the per-component judgment table; every Marks claim shows both rationales and why one is a logical subset of the other; no historical authorship or joinder fact is imported.
+- **Render form: full**, always; the Render carries the separate-writing summaries and the extended holdings at the depth the Render Input supplies.
+
+Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.1 rerun, September 15, 2026). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
 
 ## Close protocol
 

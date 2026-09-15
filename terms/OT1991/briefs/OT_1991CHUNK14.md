@@ -434,152 +434,278 @@ Affirm if the complete ban fails even the nonpublic-forum standard; then definit
 
 # Planned Parenthood of Southeastern Pennsylvania v. Casey
 
-# SECTION I: NEUTRAL MODELING PACKET
+Version 1.1 (September 15, 2026) of Sections I and II follows, spliced in verbatim from `OT_1991CHUNK14_CASEY_V1_1.md`, which also carries the user’s Section III source-completion and render handoff. Version 1 is in the repository history (last at commit 87fd4db). The statute’s text is in `OT_1991CHUNK14_CASEY_STATUTE.md`.
 
-## A. CASE, RECORD, AND POSTURE
+# SECTION I: CORRECTED NEUTRAL MODELING PACKET
 
-* **Case Name:** Planned Parenthood of Southeastern Pennsylvania v. Casey
-* **Citation or Docket:** 505 U.S. 833 (1992); Nos. 91-744 and 91-902.
-* **October Term:** 1991.
-* **Entry Stage and Event:** Merits review and cross-review of a pre-enforcement facial challenge to specified Pennsylvania abortion regulations.
-* **Simulated Event Date:** June 29, 1992, historical date used for sequence.
-* **Question Presented:** Record-grounded formulation: what constitutional framework governs the challenged regulations, including whether Roe should be retained, and are the medical-emergency definition, informed-consent and waiting requirements, parental consent with bypass, spousal notice, and reporting requirements valid?
-* **Court and Judgment Under Review:** Third Circuit, 947 F.2d 682 (1991), affirming invalidation of spousal notice while reversing the district court's broader injunction, 744 F. Supp. 1323 (E.D. Pa. 1990).
-* **Relief Requested:** Providers seek broader injunctive relief in No. 91-744; state officials seek restoration of spousal notice in No. 91-902.
-* **Material Record:** Five clinics and a physician challenge specified provisions of the 1982 Act as amended in 1988 and 1989. Section 3205 requires specified medical information from a physician at least 24 hours beforehand, information from a physician or qualified delegate about state materials, assistance and support, provision of materials if the patient chooses, and written certification. Section 3206 requires one parent's informed consent for an unemancipated minor, with confidential judicial authorization for a mature, informed minor or where abortion serves her best interests; counsel and expedited proceedings are provided. Section 3209 requires a married woman's signed notification certification, with specified exceptions. Sections 3207(b) and 3214 require facility and procedure reports, with patient identity confidential and some facility information public where state funds are received. Section 3203 supplies a common medical-emergency exception.
-* **Material Findings and Statutory Limits:** The district court found travel, repeat visits, expense and delay burdens, particularly for women with fewer resources, and serious consequences of notifying abusive spouses. Spousal exceptions cover a husband who is not the father, diligent inability to locate him, reported spousal sexual assault, likely bodily injury to the woman, and emergency; they do not cover every form of coercion or threatened harm to others. Printed materials need not be read or accepted. The appellate court construed medical emergency to prevent compliance from posing a significant threat to life or health, including the three serious conditions disputed below. The reporting record distinguishes confidential patient information from public facility information.
-* **Threshold, Preservation, and Vehicle Matters:** The pending challenge is to the listed provisions, not every section of Pennsylvania abortion law. Providers' representation of patients and pre-enforcement review follow the existing abortion litigation posture. Broad constitutional reconsideration is expressly presented, but unrelated equality classifications, fetal constitutional personhood, abortion funding and postviability prohibitions need not become independent holdings. Severability requires attention to each invalid component and dependent certification or reporting requirement.
-* **Participation Matter:** Stone replaces Rehnquist; no nonparticipation identified.
+## A. Case, posture, and scope
 
-## B. LAW ENTERING THE CASE
+Five clinics and a physician challenge specified provisions of Pennsylvania’s Abortion Control Act, as amended in 1988 and 1989, before their enforcement.
 
-* **Current Through:** Immediately before June 29, 1992.
-* **Earlier Same-Term Decisions:** No effective simulated abortion decision supplied.
-* **Unresolved Same-Term Dependencies:** No earlier listed case directly replaces Roe's abortion framework. Any effective earlier standing or remedial ruling must be checked for its actual relevance; unrelated Lujan injury doctrine does not automatically undo this established provider-patient posture. Later-in-inventory Benten supplies no entering law, and no same-matter historical holding may be used as the controlling test.
+The district court granted broader relief than the Third Circuit. The Third Circuit sustained the challenged provisions other than spousal notice. Providers seek broader relief in No. 91-744; state officials seek restoration of spousal notice in No. 91-902.
 
-### Issue 1: Framework, precedent and facial review
+The presented questions concern the governing abortion framework, medical emergency, informed consent and delay, parental informed consent and bypass, spousal notice, and reporting. Reconsideration of Roe is presented. A general funding entitlement, constitutional fetal personhood, and the validity of every unchallenged postviability restriction are not independently presented.
 
-* **Controlling Simulated Law:** No supplied displacement of Roe or its pre-term applications.
-* **Current Reusable Doctrine:** Roe v. Wade (1973) recognizes protected abortion choice: during the first trimester the decision and its effectuation are left to the woman and attending physician; thereafter regulation reasonably related to maternal health is permissible; after viability the State may prohibit abortion except when necessary to preserve the woman's life or health. A fundamental-right restriction requires the justification and fit demanded by that doctrine, not ordinary rational-basis review. Roe recognizes the State's interests in health and potential life without making them automatically sufficient at every stage. Doe v. Bolton (1973) preserves medical judgment concerning the patient's health, including relevant physical, emotional, psychological, familial and age factors.
-* **Other Governing Law:** Fourteenth Amendment Due Process Clause. Webster (1989) is fragmented: its judgments concerning public resources and viability testing did not produce a majority overruling Roe or adopting a general replacement undue-burden test. Such a test appears in separate writings, not as a settled across-the-board baseline. Constitutional stare decisis is subject to reasoned reconsideration; disagreement or changed membership is not itself an explanation for overruling.
-* **Material Other Authority:** United States v. Salerno (1987) articulates a demanding general facial-challenge formulation. The abortion cases themselves, including Akron and Thornburgh, invalidate categorical burdens through facial review without requiring plaintiffs to prove that every person is practically prevented from exercising the right. The relationship between those formulations is disputed. Challengers must establish the challenged burden; government must supply the justification required once protected liberty is burdened. Scrutiny is not an evidentiary proof quantum.
-* **Open Point:** Whether to preserve or replace the received framework, and how to apply facial review to a requirement with coercive effects concentrated in the persons it actually constrains.
+The account below distinguishes statutory terms, lower-court findings, disputed conclusions, and Stone’s proposed legal determinations.
 
-### Issue 2: Medical emergency
+## B. Statutory provisions and complete material qualifications
 
-* **Controlling Simulated Law:** No supplied change to the life-and-health safeguard.
-* **Current Reusable Doctrine:** Roe, Doe and Thornburgh require protection of the woman's life and health; delay cannot defeat emergency care. The statutory definition turns on good-faith clinical judgment concerning death or serious risk of substantial, irreversible impairment of major bodily function. Its lower-court construction encompasses the disputed preeclampsia, inevitable abortion and prematurely ruptured membrane conditions and prevents a significant life-or-health threat from compliance.
-* **Other Governing Law:** Section 3203 and its incorporation into §§3205, 3206 and 3209. Brockett v. Spokane Arcades (1985) supports attention to the lower federal courts' state-law construction; a court may not invent a construction plainly unavailable under state law.
-* **Material Other Authority:** The factual dispute concerns timely treatment, not permission to wait until death is imminent. The statute separately gives a physician a defense, proved by a preponderance, for reasonably believing disclosure would severely harm physical or mental health under §3205(c); that disclosure defense is not a substitute for an adequate emergency exception.
-* **Open Point:** Whether the adopted construction sufficiently resolves the facial emergency challenge while leaving particular unconstitutional enforcement challengeable.
+### 1. Medical emergency — §3203
 
-### Issue 3: Informed consent, compelled information and 24-hour delay
+The statutory definition uses the physician’s good-faith clinical judgment. It covers a condition requiring immediate abortion to avert death, or a condition in which delay creates a serious risk of substantial and irreversible impairment of a major bodily function.
 
-* **Controlling Simulated Law:** No supplied alteration of Akron or Thornburgh.
-* **Current Reusable Doctrine:** Danforth (1976) permits voluntary informed written consent. Akron (1983) invalidates mandatory delay and prescriptive counseling unsupported as necessary for informed choice, including unnecessarily restrictive physician-only delivery. Thornburgh (1986) invalidates requirements designed to direct the woman's decision toward childbirth rather than facilitate medical consent. Medical competence and ordinary informed-consent regulation remain legitimate. Government may express its own preferences without necessarily compelling a patient to receive them through her clinician as a condition of treatment.
-* **Other Governing Law:** Sections 3205(a)(1)-(4) and 3208. Required medical information includes procedure, material risks and alternatives, probable gestational age, and childbirth risks. Separate disclosures concern available state materials, assistance and paternal support, with the specified rape exception. The 24-hour requirement applies to both sets of disclosures, subject to emergency.
-* **Material Other Authority:** The trial findings describe operational travel, cost and delay, not a finding that all patients are prevented from obtaining abortions. Review must distinguish neutral medical consent, mandated persuasion, exclusive physician delivery, delay and written certification rather than treat §3205 as indivisible without severability analysis.
-* **Open Point:** Whether to follow the directly relevant prior restrictions on mandated counseling and delay, or replace them through an explicitly justified doctrinal change.
+The Third Circuit construed the provision to prevent compliance with the Act from creating a significant threat to life or health, including the disputed conditions of preeclampsia, inevitable abortion, and prematurely ruptured membranes. That is a judicial construction, not additional statutory language.
 
-### Issue 4: Parental consent and bypass
+Section 3205(b) requires the physician, before the abortion if possible, to explain the medical indications supporting the emergency judgment. It does not make prior explanation indispensable when the emergency prevents it.
 
-* **Controlling Simulated Law:** No supplied change to the minors' cases.
-* **Current Reusable Doctrine:** Danforth prohibits an absolute parental veto. Bellotti II (1979), in its controlling judgment and influential plurality formulation, requires a usable alternative for a mature, informed minor and for an immature minor whose best interests support abortion, protecting confidentiality and expedition. Ashcroft (1983) sustains a parental-consent provision with a sufficient bypass. Ohio v. Akron Center (1990) and Hodgson (1990) concern notice and bypass in their particular structures; they do not erase minors' independent liberty.
-* **Other Governing Law:** Section 3206 provides one-parent involvement, emergency relief, counsel, confidentiality and expedited judicial decisions. The minor may elect bypass without first seeking parental consent; maturity/informed consent and best interests are alternative routes, not cumulative requirements.
-* **Material Other Authority:** The distinctive contention here concerns requiring the parent's consent to be informed. That objection incorporates the disputed content of §3205. The provision also addresses adjudicated adult incompetence, but no separate, developed challenge to that distinct class is established by the reviewed issue.
-* **Open Point:** Whether the informed-parent feature survives if portions of mandatory counseling do not, and what severability follows.
+### 2. Medical information, prescribed disclosures, delay, and certification — §3205
 
-### Issue 5: Spousal notice
+Section 3205(a)(1) requires the performing or referring physician to provide information concerning the procedure, material risks and alternatives, probable gestational age, and the medical risks of childbirth.
 
-* **Controlling Simulated Law:** No supplied change to Danforth's rejection of a spousal veto.
-* **Current Reusable Doctrine:** Danforth holds that the State cannot give a spouse authority to veto the woman's abortion decision. Notice is textually different from consent, but its actual interference with the protected decision remains a constitutional issue. Ordinary marital communication is not itself prohibited or guaranteed by the State.
-* **Other Governing Law:** Section 3209's certification, exceptions and sanctions; Fourteenth Amendment liberty. No fixed numerical percentage of all abortion patients is already established as the sole measure of facial validity.
-* **Material Other Authority:** The trial evidence concerning violence, threats, psychological and economic coercion bears on whether mandated disclosure effectively delegates control despite the absence of a formal veto. The exceptions must be assessed as written, not expanded by invented facts or assumed access to safe disclosure.
-* **Open Point:** Whether the notice requirement's operation infringes the right of the women actually constrained by it.
+Section 3205(a)(2) permits those physicians or designated qualified personnel to give the additional disclosures concerning available state materials, assistance benefits, and paternal support.
 
-### Issue 6: Reporting and severability
+Complete paternal-support qualification: Section 3205(a)(2)(iii) requires information that the father must assist in supporting the child even if he offered to pay for an abortion. It then states: “In the case of rape, this information may be omitted.”
 
-* **Controlling Simulated Law:** No supplied change to the reporting precedents.
-* **Current Reusable Doctrine:** Danforth permits reports reasonably directed to maternal health that protect confidentiality and privacy. Thornburgh rejects disclosure arrangements that expose patients to identification or unjustifiably burden protected choice. A medical reporting purpose does not automatically validate every demanded item.
-* **Other Governing Law:** Section 3207(b) facility ownership and affiliation information; §3214(a) confidential individual-procedure information; §3214(f) quarterly totals. Public access to specified facility reports depends on receipt of state-appropriated funds. Section 3214(a)(12) separately requires marital status, whether notice was given and reasons for its omission.
-* **Material Other Authority:** Patient confidentiality is established in the record; public identification of a funded facility is not the same thing as disclosure of patient identity. Severability is a state-law question governing preservation of valid, independently functioning provisions.
-* **Open Point:** The fate of notice-related reporting and certification after any partial invalidation, and whether any remaining provision cannot operate independently.
+Accordingly, when the pregnancy resulted from rape, the paternal-support disclosure may be omitted. “May” permits omission; it does not require omission. This provision concerns disclosure of support information. It does not eliminate a support obligation or establish the separate exception to spousal notification.
 
-## C. DECISION-MATERIAL LITIGATION POSITIONS
+The statutory 24-hour interval applies to the required information, subject to medical emergency. Printed materials are supplied if the patient chooses to receive them; she is not required to accept or read them. Optional receipt of the printed materials is distinct from the mandatory oral disclosures.
 
-Providers invoke Roe, Akron and Thornburgh, the burdens of repeat trips and compulsory messages, danger and coercion associated with spouse notification, and emergency and privacy defects. They dispute treating adults as needing a compelled reconsideration period. State officials and the United States press reconsideration, arguing that the Constitution does not expressly mention abortion, that historical abortion restrictions weigh against treating it as fundamental liberty, that Roe's trimester lines have doctrinal and practical weaknesses, and that democratic legislatures should resolve the competing policy interests. They also defend informed choice, potential life, family consultation, maternal health and data collection. Officials distinguish notice from veto, stress statutory exceptions, and defend the appellate emergency construction and confidential reports. The Third Circuit applied a different understanding of the fragmented abortion precedents, sustaining most provisions while rejecting spouse notice; that lower-court approach does not itself overrule existing Supreme Court holdings. Each defense must answer its own record and constitutional component.
+Section 3205(a)(4) requires written certification that the required information was provided.
 
-## D. LAWFUL PATHS AND UNCERTAINTY
+Section 3205(c) separately protects a physician against liability for failing to furnish subsection (a)’s information if the physician proves, by a preponderance, a reasonable belief that furnishing it would severely adversely affect the patient’s physical or mental health. This disclosure defense is distinct from the emergency exception governing timely treatment.
 
-Preserve Roe and apply its controlling applications, or candidly reconsider it and identify the changed test and affected precedents. Resolve all challenged components even if one framework choice answers several. Accept a supportable emergency construction without approving future contrary enforcement. Invalidate all or portions of counseling, delay, notice or reporting only to the extent warranted, then remand for state-law severability. Ordinary consent, a valid bypass and health reporting need not fall solely because other provisions do. Neither a new universal fetal-personhood rule nor a decision about every postviability or funding provision is necessary.
+### 3. Parental informed consent and judicial bypass — §3206
 
-## E. SOURCES
+The provision generally requires the informed consent of the pregnant unemancipated minor and one parent. It also addresses guardianship for an adult adjudicated incompetent, but this brief does not supply an independently developed challenge concerning that class.
 
-[505 U.S. 833, record and statutory appendix at pp. 902-911](https://supreme.justia.com/cases/federal/us/505/833/) supplies the precise challenged provisions, findings, arguments and lower-court construction; its same-matter constitutional resolution is excluded from entering law. Entering primary authorities: [Roe, 410 U.S. 113](https://supreme.justia.com/cases/federal/us/410/113/), [Doe, 410 U.S. 179](https://supreme.justia.com/cases/federal/us/410/179/), [Griswold, 381 U.S. 479](https://supreme.justia.com/cases/federal/us/381/479/), [Eisenstadt, 405 U.S. 438](https://supreme.justia.com/cases/federal/us/405/438/), [Carey, 431 U.S. 678](https://supreme.justia.com/cases/federal/us/431/678/), [Cruzan, 497 U.S. 261](https://supreme.justia.com/cases/federal/us/497/261/), [Danforth, 428 U.S. 52](https://supreme.justia.com/cases/federal/us/428/52/), [Bellotti II, 443 U.S. 622](https://supreme.justia.com/cases/federal/us/443/622/), [Akron, 462 U.S. 416](https://supreme.justia.com/cases/federal/us/462/416/), [Ashcroft, 462 U.S. 476](https://supreme.justia.com/cases/federal/us/462/476/), [Thornburgh, 476 U.S. 747](https://supreme.justia.com/cases/federal/us/476/747/), [Webster, 492 U.S. 490](https://supreme.justia.com/cases/federal/us/492/490/), [Ohio v. Akron Center, 497 U.S. 502](https://supreme.justia.com/cases/federal/us/497/502/), and [Hodgson, 497 U.S. 417](https://supreme.justia.com/cases/federal/us/497/417/).
+The material alternatives and qualifications are:
 
-# SECTION II: STONE POSITION SUPPLEMENT
+* Medical emergency excuses compliance with the parental-consent requirement.
+* A minor may seek judicial authorization without first requesting parental consent.
+* Authorization is available if she is mature, capable of informed consent, and has given that consent.
+* Alternatively, authorization is available if abortion is in her best interests. Maturity and best interests are alternative grounds.
+* Proceedings provide confidentiality, counsel, and expedition. The described timetable is three days at the trial level and no more than eight business days for the entire process, including appeal.
+* If pregnancy resulted from incest involving the father, the statute requires only the mother’s consent.
+* When both parents are deceased or unavailable within a reasonable time and manner, a guardian may consent. Where parents are divorced, the custodial parent’s consent suffices. If neither a parent nor guardian is available, an adult standing in loco parentis may consent.
 
-## A. STATUS
+The statute does not expressly require a parental clinic visit. Whether its informed-consent requirement produces that consequence is a record and application question.
 
-* **Version:** 1.
-* **Approval Status:** Proposed and unapproved.
-* **Current-Through Baseline:** June 29, 1992.
-* **Conditions:** Revalidate any actually effective earlier holding affecting standing or relief. No same-case comparator supplies Stone's entering test or an approved position.
+### 4. Spousal notification — §3209
 
-## B. JUDGMENT AND REMEDY
+The provision requires a married patient’s signed certification that she notified her spouse.
 
-* **Stone's Controlled Judgment or Disposition:** Affirm No. 91-902's invalidation of spousal notice. In No. 91-744, affirm in part, reverse in part, and remand as specified below: uphold the emergency construction, lawful parental-consent/bypass structure and ordinary confidential health reporting; invalidate mandatory delay, compulsory persuasion, unnecessary exclusive physician delivery and notice-related reporting.
-* **Stone's Remedy and Remand Position:** Enjoin the unconstitutional requirements and dependent enforcement. Remand for severability of timing, counseling content, delivery restrictions and corresponding certifications, including their incorporation into parental informed consent. Preserve independently operating neutral consent and health-data provisions. Do not order wholesale invalidation of the Act or decide unchallenged postviability restrictions.
+The notification certification is excused if she signs a statement establishing at least one of these statutory grounds:
 
-## C. ISSUE POSITIONS
+* Her spouse is not the father.
+* Her spouse could not be located after diligent effort.
+* Pregnancy resulted from spousal sexual assault reported to a law-enforcement agency with jurisdiction.
+* She reasonably anticipates that notification is likely to cause bodily injury to her, inflicted by her spouse or another person.
 
-### Issue 1: Retain the received protection of reproductive choice
+Medical emergency separately excuses notification.
 
-* **Threshold and Merits Reach:** Framework reconsideration is presented and must be answered; address the specified regulations under the retained law.
-* **Stone's Legal Position:** Retain Roe, Doe, Akron and Thornburgh. Do not replace them with rational basis or a new general undue-burden threshold.
-* **Stone's Proposed Holding:** The pre-term liberty framework remains governing; Webster's fragmentation did not repeal it.
-* **Essential Reasoning and Record Application:** Pregnancy directly occupies and changes the woman's body, health and future. The received doctrine recognizes both that liberty and the State's cognizable interests without allowing the latter to erase the former. The absence of the word abortion is not dispositive because the Fourteenth Amendment expressly protects liberty: Griswold, Eisenstadt and Carey apply it to intimate reproductive decisions, while Cruzan and the bodily-integrity cases support a protected sphere of medical choice. Those sources do not mechanically decide abortion, but they answer the claim that a right must be individually named to exist. Historical restrictions deserve consideration without automatically settling the constitutional meaning of that protected liberty. Roe reconciled competing interests rather than assigning every policy choice to courts. Under Master's §16 discipline, criticisms of the trimester framework and its medical premises warrant examining actual applications and evidence; they do not on this record demonstrate a collapse of the liberty foundation or a reason to withdraw the right. Legislative authority remains substantial within the constitutional boundaries, so its existence does not itself justify erasing them. The Court has repeatedly applied administrable component rules. People have organized intimate decisions and access to medical care under them; such reliance is not limited to commercial contracts. No majority replacement emerged in Webster, and membership changes cannot do the legal work. Facial review must respect the abortion precedents actually governing these kinds of categorical requirements; the State cannot defend an unlawful condition by pointing to women who would voluntarily do the same thing without it.
-* **Boundary or Reserved Question:** No new equality tier, constitutional fetal-personhood ruling or unlimited right immune from health regulation. Roe's existing viability and life-and-health architecture remains; no broader postviability prohibition is adjudicated here.
+The spousal-sexual-assault route incorporates the then-applicable reporting restriction associated with §3128; the reported litigation identifies a 90-day reporting requirement. This is different from §3205(a)(2)(iii)’s permission to omit paternal-support counseling in rape cases.
 
-### Issue 2: An emergency exception must operate before serious injury
+The exceptions do not expressly cover every form of psychological coercion, financial retaliation, or threatened harm to another person.
 
-* **Threshold and Merits Reach:** Resolve the facial challenge using the Third Circuit's supportable life-and-health construction.
-* **Stone's Legal Position:** Uphold §3203 as so construed, with good-faith clinical judgment permitting prompt care when compliance threatens life or health.
-* **Stone's Proposed Holding:** The construction accommodates the three serious conditions disputed below and cannot require waiting for death or irreversible injury to become imminent.
-* **Essential Reasoning and Record Application:** A safeguard keyed to risk must act before the risk matures into catastrophe. The appellate construction prevents regulatory compliance from creating a significant health threat and is consistent with the received Roe/Doe protection. That health protection includes grave, medically established mental-health danger where medically relevant; a disclosure-specific defense cannot replace timely emergency treatment. No such individual denied-treatment finding is invented here. The broad facial construction, rather than a newly written list of hypothetical conditions, resolves the presented challenge.
-* **Boundary or Reserved Question:** Enforcement refusing care despite a significant clinical health threat remains challengeable. This is no exemption based on bare preference or a license for courts to supplant individualized medical judgment.
+### 5. Confidential procedure reports — §3214(a)
 
-### Issue 3: Separate informed choice from mandatory delay and persuasion
+The statute requires reports concerning individual procedures without identifying the patient by name. The litigation accepts the adequacy of the statutory confidentiality safeguards; inadequate patient confidentiality must not be invented as a finding.
 
-* **Threshold and Merits Reach:** Reach timing, content, delivery and certification separately.
-* **Stone's Legal Position:** Preserve ordinary voluntary informed consent and accurate, relevant information about procedure, risks, alternatives and gestational age; follow Akron and Thornburgh against compulsory state persuasion and unjustified delay.
-* **Stone's Proposed Holding:** Invalidate the fixed 24-hour condition and required presentation of the State's childbirth-persuasion program through the clinical encounter. Also invalidate an exclusive physician-delivery restriction insofar as it bars competent staff from conveying information without a demonstrated medical need. Preserve the physician's responsibility for appropriate clinical advice and any severable certification of lawful informed consent.
-* **Essential Reasoning and Record Application:** The record shows repeat travel, expense and delay, with no adequate showing that a universal waiting interval improves informed medical choice. The adult's ability to decide is not negated because the decision differs from the State's preference. State information about assistance may be useful, and government may publish and offer it; making the prescribed persuasion part of the treatment condition raises the Akron/Thornburgh defect. Optional receipt of printed materials narrows the burden but does not eliminate the compelled counseling and timing condition. Necessary clinical judgment and accurate risk disclosure remain valid; requiring that a physician personally utter information equally conveyable by qualified staff needs the justification those precedents demand.
-* **Boundary or Reserved Question:** No ban on voluntary counseling, truthful medical advice, public state advocacy, or requiring a qualified physician to perform an abortion. Neutral and coercive components must be severed under state law rather than conflated.
+The disputed components include:
 
-### Issue 4: Preserve an effective parental bypass; remove invalid incorporated counseling
+* Section 3214(a)(1), insofar as it identifies the referring physician.
+* Section 3214(a)(8), requiring the basis for the physician’s medical-necessity judgment for an abortion performed under §3211(b)(1), concerning prevention of death or substantial and irreversible impairment of a major bodily function.
+* Section 3214(a)(10), requiring the basis for a medical-emergency determination excusing compliance with the Act.
+* Section 3214(a)(11), incorporating reports of the inquiries, examinations, tests, and diagnostic basis used to determine gestational age under §3210(a).
+* Section 3214(a)(12), requiring marital and spousal-notification information, including the reason notification was omitted.
 
-* **Threshold and Merits Reach:** Decide the parental-consent structure and its informed-consent objection, not an unbriefed rule for all adjudicated adult incapacity.
-* **Stone's Legal Position:** Apply Bellotti and Ashcroft to the one-parent rule with independent, confidential and expedited judicial authorization.
-* **Stone's Proposed Holding:** The bypass structure is permissible; parental informed consent may concern lawful medical information but cannot reintroduce the invalid delay or compulsory persuasion components through incorporation.
-* **Essential Reasoning and Record Application:** A minor may proceed on demonstrated maturity and informed choice or, alternatively, best interests. She need not first seek an unsafe or futile parental response. Counsel, confidential proceedings, a three-day trial-court timetable and an eight-business-day total process including appeal supply the specified procedural protections, while emergencies require immediate care. Parent involvement is therefore not a final veto. Information enabling an actual parent to advise the minor is permissible insofar as its content is itself lawful; the State cannot use the parent's signature to evade the ruling on compelled counseling.
-* **Boundary or Reserved Question:** An application that becomes unavailable through delay, coercion or criteria beyond the authorized alternatives remains challengeable. Severability of incorporated requirements goes to remand.
+Reporting the gestational-age result under §3214(a)(5) is distinct from requiring an explanation of the diagnostic basis under §3214(a)(11).
 
-### Issue 5: Spousal notice can operate as control over the woman's decision
+### 6. Facility reports and public disclosure — §§3207(b) and 3214(f)
 
-* **Threshold and Merits Reach:** The record establishes effects on women constrained by the notice condition; the fact that many women voluntarily consult spouses does not answer their claim.
-* **Stone's Legal Position:** Apply Danforth's protection against transferred decisional control to the actual operation of §3209.
-* **Stone's Proposed Holding:** Invalidate the notification-and-certification requirement and its enforcement provisions.
-* **Essential Reasoning and Record Application:** Formal absence of a signature veto does not prevent compulsory disclosure from exposing the woman to coercion that defeats her decision. The trial findings concerning abusive relationships make this more than conjecture. Exceptions for bodily injury and reported assault omit other serious forms of coercion and are not interchangeable with a safe, confidential opportunity to decide. A husband has interests in family life, but those do not give the State power to make his notification a legal condition of treatment of another competent adult's body. The reasoning follows the protected decision and record, without a new percentage threshold or a finding that every marriage is coercive.
-* **Boundary or Reserved Question:** No restriction on voluntary consultation or ordinary consensual family decisions; no independent adjudication of every possible notice scheme.
+Section 3207(b) requires facility and affiliation information. Its public-access condition concerns receipt of state-appropriated funds during the twelve calendar months preceding a request to inspect or copy the report.
 
-### Issue 6: Preserve health reporting and eliminate notice-dependent disclosure
+Section 3214(f) requires quarterly procedure totals, divided by trimester. Its public-access condition concerns receipt of state-appropriated funds during the twelve calendar months preceding the report’s filing.
 
-* **Threshold and Merits Reach:** Assess patient privacy and each reporting category; follow through on the notice disposition.
-* **Stone's Legal Position:** Apply Danforth's health-purpose and confidentiality requirements, with Thornburgh's concern about exposure of individual patients.
-* **Stone's Proposed Holding:** Uphold the challenged ordinary confidential procedure reports and the specified facility-reporting provisions; invalidate §3214(a)(12)'s spousal-notice reporting component as part of the unconstitutional disclosure machinery.
-* **Essential Reasoning and Record Application:** Procedure, gestation and complication data have a concrete medical purpose, and the record establishes patient confidentiality. Facility ownership and aggregate reporting, including the specified public access when state appropriations are received, do not on this record disclose patient identities or reproduce Thornburgh's identified privacy defect. Notice status and reasons for nondisclosure, however, require the information that the invalid condition improperly makes a prerequisite of care. They cannot survive merely relabeled as reporting. Written certifications must likewise be limited to valid requirements after severability review.
-* **Boundary or Reserved Question:** No approval of patient identification, disclosure creating a demonstrated risk of identification or reprisals, or materially different reporting burdens. Preserve lawful components only if independently operable under state law.
+The challenge to these provisions distinguishes public release from collection by the responsible agency. Public disclosure of facility information is not the same as disclosure of a patient’s identity.
+
+Statutory source: [Casey, statutory appendix, 505 U.S. 902–911](https://supreme.justia.com/cases/federal/us/505/833/).
+
+## C. Additional record facts material to this revision
+
+The district court found that obtaining informed parental consent would require an in-person visit under the medical practices established in the record. That could delay care even where the parent already agreed. The appellate court did not resolve the visit premise; it regarded the bypass alternative as sufficient.
+
+The district court also found that some physicians would stop referring patients if their identities appeared in confidential reports. That finding differs from a finding that confidentiality was inadequate or that performing physicians generally would stop practicing.
+
+The district court found a burden associated with public disclosure and rejected specified medical-judgment reporting demands. It nevertheless sustained other confidential medical reporting.
+
+These findings and their legal significance were disputed on appeal. They support adjudication of the particular requirements; they do not establish that every report impairs access.
+
+Sources: [District court, 744 F. Supp. 1323, especially pp. 1382–1384 and 1390–1395](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/); [Third Circuit, 947 F.2d 682, parental-consent and reporting discussions](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey).
+
+## D. Law entering the case
+
+The governing baseline is law available immediately before June 29, 1992. No issued replacement simulated abortion decision has been supplied.
+
+* Roe and Doe: Protected reproductive choice, the received trimester and viability framework, and the life-and-health safeguard. Health involves individualized medical judgment rather than an exclusively imminent-death standard. [Roe](https://supreme.justia.com/cases/federal/us/410/113/); [Doe](https://supreme.justia.com/cases/federal/us/410/179/).
+* Akron and Thornburgh: Limits on compulsory persuasion, arbitrary waiting periods, unjustified restrictions on information delivery, and interference with protected medical choice. [Akron](https://supreme.justia.com/cases/federal/us/462/416/); [Thornburgh](https://supreme.justia.com/cases/federal/us/476/747/).
+* Danforth, Bellotti, and Ashcroft: Ordinary informed consent may be lawful; a spouse cannot receive a veto; parental involvement requires appropriate safeguards, and a sufficient bypass can make a parental-consent system permissible. [Danforth](https://supreme.justia.com/cases/federal/us/428/52/); [Bellotti](https://supreme.justia.com/cases/federal/us/443/622/); [Ashcroft](https://supreme.justia.com/cases/federal/us/462/476/).
+* Webster and the 1990 minors’ cases: Their particular holdings must be respected. They do not supply a general, already adopted replacement for Roe’s framework. [Webster](https://supreme.justia.com/cases/federal/us/492/490/); [Ohio v. Akron Center](https://supreme.justia.com/cases/federal/us/497/502/); [Hodgson](https://supreme.justia.com/cases/federal/us/497/417/).
+* Reporting: Danforth permits appropriately directed, confidential health reporting. Thornburgh requires attention to actual burdens and disclosure consequences. Neither supplies automatic validity or invalidity for every demanded item.
+* Facial relief and severability: The relevant abortion precedents govern the challenged categorical requirements, while relief must preserve valid, independently operative provisions where state law permits. [Brockett](https://supreme.justia.com/cases/federal/us/472/491/).
+
+The historical opinions issued in Casey may identify the record and contemporaneous arguments. Their resolution of this same case is not entering precedent.
+
+# SECTION II: STONE POSITION SUPPLEMENT — VERSION 1.1
+
+## A. Controlled disposition
+
+No. 91-902: Affirm the invalidation of spousal notification.
+
+No. 91-744: Affirm in part, reverse in part, and remand:
+
+1. Sustain the medical-emergency provision only under the life-and-health construction explained below.
+2. Invalidate mandatory delay, compulsory state persuasion, unnecessary exclusive physician delivery, and dependent certifications.
+3. Reject approval of Pennsylvania’s parental-informed-consent requirement in its present operation.
+4. Invalidate the challenged public-release mandates under §§3207(b) and 3214(f), while preserving otherwise lawful confidential collection.
+5. Invalidate referring-physician identification under §3214(a)(1), the specified medical-judgment explanation requirements under §§3214(a)(8), (10), and (11), and the spousal-notification reporting requirement under §3214(a)(12).
+6. Preserve ordinary voluntary consent, lawful clinical duties, and otherwise valid confidential medical reporting.
+7. Remand for precise injunctive relief and state-law severability.
+
+These are Stone’s proposed dispositions. They do not purport to state the Court’s eventual judgment.
+
+## B. Issue positions
+
+### Issue 1: Retain the stronger received protection of reproductive choice
+
+Legal position: Retain Roe, Doe, Akron, and Thornburgh. Reject adoption of a general threshold under which a restriction receives only rational-basis review until patients establish a severe obstacle.
+
+Proposed holding: A State must justify a burden on protected reproductive choice under the received abortion doctrine, including its distinctions among stages of pregnancy and kinds of regulation.
+
+Reasoning: Compelled continuation of pregnancy directly affects the patient’s body, medical risk, and ability to shape her life. The Fourteenth Amendment’s protection of liberty, developed through the reproductive-choice precedents, supplies the legal source. Stone’s concern for equal agency supports that account without becoming a separate, newly announced equality classification.
+
+The State’s interests in health and potential life are legitimate, but their existence does not answer when or how they justify a particular restriction. Stone retains the received framework because its central liberty principle remains coherent, its applications furnish workable rules, and people have relied on it in consequential personal and medical decisions.
+
+A regulation need not prevent every abortion before its burden becomes constitutionally relevant. Nor is a requirement validated merely because many patients would voluntarily undertake the same conduct.
+
+Boundary: Ordinary informed consent and medically justified regulation remain possible. Stone does not adopt an absolute right to every procedure throughout pregnancy or require every incidental administrative detail to satisfy an invented uniform test.
+
+### Issue 2: Preserve prompt treatment where compliance threatens life or health
+
+Legal position: Sustain §3203 under the supportable construction that regulatory compliance cannot create a significant threat to the patient’s life or health.
+
+Proposed holding: Good-faith clinical judgment must permit timely treatment before the threatened injury becomes irreversible or death becomes imminent. The construction covers the disputed preeclampsia, inevitable abortion, and prematurely ruptured membrane conditions.
+
+Reasoning: An emergency exception must operate while treatment can prevent the injury. Roe and Doe preserve medically grounded assessment of the individual patient, including relevant psychological circumstances. Grave, medically established mental-health danger cannot be dismissed merely because it is not a physical wound.
+
+Section 3205(c)’s defense for omitting harmful information does not replace an effective exception permitting necessary treatment. A physician need not complete an explanation before care where the emergency makes prior explanation impossible.
+
+Boundary: Good faith does not confer immunity for dishonesty, incompetence, or unrelated professional misconduct. This holding does not adjudicate every postviability provision or make a bare preference a medical emergency.
+
+### Issue 3: Protect informed choice against compulsory delay and persuasion
+
+Legal position: Apply Akron and Thornburgh to the distinct timing, content, delivery, and certification requirements.
+
+Proposed holding: Invalidate the fixed 24-hour condition and compulsory presentation of the prescribed childbirth-persuasion program as a prerequisite to treatment. Invalidate exclusive physician delivery insofar as competent staff could convey the information without loss of necessary clinical judgment.
+
+Reasoning: The State has not adequately connected a universal interval to improved medical decisionmaking. Prescribed delay adds cost and practical obstruction to a decision the patient is entitled to make.
+
+Accurate information about the procedure, relevant risks, alternatives, and gestational age may support informed consent. Government may also publish assistance information and advocate its preferences. Those permissions do not automatically authorize making the State’s prescribed persuasion part of every clinical encounter.
+
+The statutory qualifications are fully accounted for: printed materials are optional, and the paternal-support disclosure may be omitted when pregnancy resulted from rape. Those limitations narrow the requirement. They do not eliminate the separate mandatory disclosures and waiting condition or establish their necessary relationship to this patient’s medical consent.
+
+Administration: Preserve severable clinical information and certification of lawful consent. Remove timing and content certifications that enforce invalid requirements. No physician must certify that an unconstitutional condition was satisfied.
+
+### Issue 4: Reject additional parental burdens that do not advance lawful involvement
+
+Legal position: Retain the minors’ precedents while distinguishing Pennsylvania’s additional informed-parent requirement as it operates on this record.
+
+Proposed holding: The State may not require an unnecessary parental clinic visit as the price of accepting a willing parent’s consent, or force the minor into judicial proceedings merely because that parent cannot complete the additional visit. Pennsylvania’s present requirement cannot be sustained on the theory that the existence of any bypass cures every added burden.
+
+Reasoning: Bellotti and Ashcroft permit appropriately structured parental involvement. They do not establish that every obstacle added to the parental route becomes constitutional whenever litigation is available as an alternative.
+
+Stone accepts the supported finding concerning the operation of informed parental consent. The decisive problem is the additional obstacle imposed after parent and minor agree. Requiring judicial authorization in that circumstance serves neither the purpose of obtaining parental participation nor the purpose of protecting a minor from a parental veto.
+
+The State’s comparison to other upheld bypass systems is substantial but incomplete. The relevant distinction is the function of the added burden, not merely the number of parents whose consent appears in the statute.
+
+Remedy and administration: Enjoin the defective informed-parent requirement and its dependent enforcement. Remand to determine whether state law permits a coherent remainder that accepts lawful consent without the unnecessary visit, invalid counseling, or invalid delay. Until such a remainder is identified, officials may not enforce the defective condition.
+
+If a parental-involvement requirement remains, the minor must retain confidential, expedited access to authorization on either maturity and informed consent or best interests, with immediate emergency protection. Stone does not invalidate every parental-consent law or separately decide the rules for adjudicated adult incompetence.
+
+### Issue 5: Reject compulsory spousal notice and its reporting machinery
+
+Legal position: Apply Danforth’s protection against transferred decisional control to the notification requirement’s actual operation.
+
+Proposed holding: Invalidate §3209’s mandatory notification and certification, its dependent enforcement, and §3214(a)(12)’s related reporting requirement.
+
+Reasoning: Formal absence of a spousal signature requirement does not establish that compulsory disclosure leaves the patient’s decision free. Notification can expose her to coercion that defeats the protected choice.
+
+The statutory exceptions are inadequate to answer that defect. They concern nonpaternity, inability to locate the spouse after diligent effort, reported spousal sexual assault, anticipated bodily injury to the patient, and medical emergency. They do not encompass all serious psychological coercion, economic retaliation, or threats against others.
+
+The paternal-support counseling exception for rape is a different provision and does not cure the notification requirement.
+
+Administration: Remove the notification certification and the requirement to explain its omission. Do not collect the same information through a replacement field serving the invalid requirement. Voluntary consultation remains permissible.
+
+### Issue 6: Separate legitimate agency collection from harmful public disclosure
+
+Legal position: Invalidate the public-release mandates challenged under §§3207(b) and 3214(f), while preserving valid confidential collection.
+
+Proposed holding: The receipt of public funds does not by itself justify these disclosure requirements where their demonstrated burden on protected access lacks adequate justification and fit.
+
+Reasoning: Stone accepts the supported finding connecting the mandated release to additional harassment and access burdens. He does not equate facility disclosure with patient identification or treat every possibility of public criticism as a constitutional injury.
+
+The State’s strongest answer is that facilities are already publicly identifiable and taxpayers have a legitimate interest in expenditures. Those points establish a real interest but do not resolve the incremental consequences of compelled disclosure. Existing publicity does not establish that an additional disclosure has no effect.
+
+The State may account for public expenditures through appropriate fiscal information and oversight. It has not sufficiently justified imposing the full challenged disclosure consequence upon the receipt of state funds, given the established effects and the availability of more confined accountability measures.
+
+Administration: The injunction reaches the challenged public-release commands, not every government record concerning a provider. Authorized confidential collection and appropriate fiscal oversight remain possible. This holding restricts the State’s disclosure requirement; it does not suppress independent speech, reporting, or lawful protest.
+
+### Issue 7: Limit the specific reporting demands that impair referral and clinical judgment
+
+Legal position: Apply Danforth’s health-purpose and burden limits to each disputed item, accounting for Thornburgh’s protection of the clinical decision.
+
+Proposed holding: Invalidate:
+
+* Section 3214(a)(1) insofar as it requires identification of the referring physician.
+* Section 3214(a)(8)’s explanation of the medical-necessity judgment.
+* Section 3214(a)(10)’s explanation of the emergency judgment.
+* Section 3214(a)(11)’s incorporated explanation of the diagnostic basis for gestational age.
+
+Reasoning concerning referral: Confidentiality does not answer the supported finding that identification would deter referrals. The State invokes the referring physician’s possible role in consent and gestational-age assessment. Stone answers that the treating provider remains responsible for the clinical information and can supply necessary follow-up. The State has not adequately justified the additional identification burden.
+
+Reasoning concerning clinical explanations: The objection concerns these recurring explanatory demands and their demonstrated effect on protected medical judgment. It does not rest solely on the small administrative cost of completing a form.
+
+The State reasonably seeks medical knowledge and compliance with valid law. But that interest does not automatically justify every mandatory justification of an individualized decision. Stone accepts the supported findings concerning interference and concludes that these demands are insufficiently fitted to their asserted purposes when considered alongside the clinical information otherwise available.
+
+This is a contested application of the entering reporting principles. Stone expressly rejects the broader proposition that any report capable of assisting enforcement is necessarily constitutional.
+
+Administration and limits: Preserve the performing physician’s identification, the gestational-age result, procedure information, and other otherwise lawful confidential health data. Preserve ordinary patient records, professional standards, complication reporting, and properly authorized investigations. This ruling creates no general privilege to withhold medical records or immunity from scrutiny of misconduct.
+
+### Issue 8: Make the remedy specific and usable
+
+Legal position: Relief must remove the identified unconstitutional conditions without replacing Pennsylvania’s statute with a judicially drafted medical code.
+
+Proposed holding: Remand for an injunction specifying the invalid obligations and for severability under state law.
+
+The implementing order should identify:
+
+1. The timing and counseling obligations that cannot be enforced.
+2. The corresponding certifications and sanctions that fall with them.
+3. The defective parental-informed-consent requirement and the conditions necessary for any severable remainder.
+4. The invalid spousal-notice obligation and reporting field.
+5. The public-release mandates that cannot be applied.
+6. The referring-physician and clinical-explanation reporting requirements that must be removed.
+7. The lawful consent, clinical duties, and confidential reporting obligations that remain.
+
+Courts and officials must apply those distinctions consistently. An invalid requirement cannot be restored through a renamed form, an incorporated certification, or an administrative demand with the same operative effect. Materially different future regulations require their own legal and factual assessment.
+
+## C. Matters reserved
+
+Stone does not decide constitutional fetal personhood, establish a new pregnancy-based equality tier, create a general public-funding entitlement, or invalidate every postviability restriction.
+
+He preserves the received life-and-health safeguard and individualized medical judgment. General claims about later pregnancy remain subject to the applicable law and a properly presented case.
+
+The broader disposition here follows from the particular challenged requirements, the supplemented record account, and the retained precedents.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
