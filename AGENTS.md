@@ -28,9 +28,9 @@ Never edit anything under `foundation/`.
 - `briefs/` — the user's case briefs, one file per chunk of about ten cases (`OT_<year>CHUNK<n>.md`). Inputs. Never edit them; Stone's words are never altered.
 - `runtime/` — when present, the user's split of each chunk into `_NEUTRAL`, `_STONE`, and `_COMPARATOR` files.
 - `workspace.md` — the Term Workspace: Full-Term Event Manifest, Term Working Ledger index, latest Term Continuity Note, Current-Term Neutral Projection. Written by Open, replaced by every Run.
-- `records/` — one Canonical Decision Record or Admitted Source Record per completed event, named by case, event type, and date. Append-only.
-- `render-inputs/` — written by Run: the eleven-block Render Input for every event in the chunk, plus chunk metadata. Append-only.
-- `output/` — written by Render: the public render of each chunk under the Contract. Append-only.
+- `records/` — one Canonical Decision Record or Admitted Source Record per completed event, named by case, event type, and date. One file per event: a user-authorized correction replaces the file in place and states its lineage (versions and commit hashes).
+- `render-inputs/` — written by Run: the eleven-block Render Input for every event in the chunk, plus chunk metadata. One file per chunk: a correction replaces the event’s block in place and updates the chunk metadata; the other blocks stay byte-identical.
+- `output/` — written by Render: the public render of each chunk under the Contract. One file per chunk: a correction replaces the event’s entry in place; the other entries stay byte-identical.
 - `close/` — the three replacement trackers and the Term-Close Dossier, frozen at term close.
 
 ## The four tasks the user gives
@@ -110,7 +110,7 @@ The user may designate a matter for special consideration. Its Run and Render fo
 - **Reconciliation checks.** Every vote count in the opinion topology reconciles to the per-component judgment table; every Marks claim shows both rationales and why one is a logical subset of the other; no historical authorship or joinder fact is imported.
 - **Render form: full**, always; the Render carries the separate-writing summaries and the extended holdings at the depth the Render Input supplies.
 
-Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.2 rerun, September 15, 2026; Stone proposes his own undue-burden framework). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
+Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.3 rerun, September 15, 2026; Stone proposes his own undue-burden test with a common-minimum branch and precedent-based fallback grounds). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
 
 ## Close protocol
 
@@ -125,7 +125,7 @@ Term close runs only after every manifest item is completed, corrected, or expre
 ## Rules that never bend
 
 1. Stone's approved position controls Stone. The Engine may not fill a missing Stone choice; stop the matter and say exactly what is missing.
-2. Nothing in `records/`, `render-inputs/`, `output/`, or `close/` is modified once written. A correction is a new file that names what it corrects.
+2. A completed entry is never silently rewritten. A correction the user authorizes replaces the superseded entry in place — in its record file, in its chunk’s Render Input, and in its chunk’s render — names what it corrects, and carries a lineage line (versions and commit hashes); every earlier version stays in the repository history. Nothing in `close/` is modified once written. (Convention changed September 15, 2026 at the user’s direction; the Holmes, Suter/Montana, Alaska and Harris corrections predate it and remain as separate files.)
 3. Do not invent quotations, votes, dockets, dates, findings, concessions, or sources.
 4. Only controlling law changes current doctrine. A render never changes substance.
 5. No scores, dashboards, ideology labels, win-loss framing, or predictions. No fictional conference dialogue.
