@@ -18,7 +18,7 @@ Never edit anything under `foundation/`.
 
 ## Current state
 
-`state/` holds the three trackers the Engine calls Holdings, Standards and Tests, and Standing State. They are the term-opening baseline for the term in progress. Between chunks, current-term law and procedure live in the term's `workspace.md`, not in `state/`. The trackers are replaced only by a Close task, all three together, under the Engine's Centralized Term-Close Protocol.
+`state/` holds the three trackers the Engine calls Holdings, Standards and Tests, and Standing State. They are the term-opening baseline for the term in progress. Between chunks, current-term law and procedure live in the term's `workspace.md`, not in `state/`. The trackers are replaced only at term close, as one coordinated set, under the Close protocol below. Standing State holds only the Court's setting: roster and seniority, circuit allotments, standing practices, and the docket of cases brought up; it never carries positions, dependencies, or history.
 
 ## Term folders
 
@@ -41,7 +41,7 @@ Never edit anything under `foundation/`.
 
 **"Render October Term <year>, chunk <n>."** A separate task. Read only `render-inputs/OT_<year>CHUNK<n>.md`, `foundation/RENDER_CONTRACT.md`, and the Render form, Holdings writing standard, and Voice sections below. Write `output/OT_<year>CHUNK<n>.md`. Do not open briefs, records, or sources; do not research, revisit votes, change coalitions, or add holdings. If a Render Input lacks something the Contract needs, render the entry as far as it goes and name the exact gap in the Simulation Workflow Blockers section.
 
-**"Close October Term <year>."** Only after every manifest item is completed, corrected, or expressly carried forward. Build the Term-Close Dossier, derive the three replacement trackers as one coordinated set, write them to `terms/OT<year>/close/`, and replace `state/`. Do not change any adjudication during close.
+**Closing a term** is staged, one task per pass; see "Close protocol" below. Nothing in `state/` changes until the Commit pass.
 
 The user may also say, in plain words, that the Court issues an order or takes up a lower-court case. Record it the way the Engine requires — an Admitted Source Record, a manifest change, or a Standing State entry — then continue.
 
@@ -91,6 +91,16 @@ Use the Contract's labeled block in the full form; in the compact form keep the 
 ## Voice
 
 Write the render the way the Court writes for the public, not the way a treatise writes for specialists: plain declarative sentences; the rule first in ordinary words, then its precise legal formulation; every cited precedent followed by a clause saying what it supplies here; terms of art only when needed, explained on first use; no Latin where English will do; the Court's voice ("The Court holds ..."), never "the model" or "the simulation." A careful non-lawyer should be able to follow every step; a lawyer should find nothing imprecise.
+
+## Close protocol
+
+Term close runs only after every manifest item is completed, corrected, or expressly carried forward. It is staged so that no single context must hold the whole term; each pass is its own task, committed before the next. Records control; renders are cross-checks only. Do not change any adjudication during close — a defect goes back to a correction record.
+
+1. **"Close October Term <year>, Holdings pass <k>."** Passes cover chunks in order (1–5, 6–10, 11–14). Each reads the records for its chunks and appends their controlling propositions to `terms/OT<year>/close/HOLDINGS.candidate.md` under the Holdings instructions: area-first organization, natural authority anchors, the entry form, current force, limits, operative remedy. A correction record is placed by its effective date. Nothing noncontrolling enters.
+2. **"Close October Term <year>, Standards and Tests pass."** Derive `close/STANDARDS_AND_TESTS.candidate.md` independently from the term-opening register and the records — never from the Holdings candidate — under the Standards and Tests instructions. Reconcile navigation references to the Holdings candidate only after the substance is complete.
+3. **"Close October Term <year>, Standing State pass."** Standing State is the Court's setting, not a running record. The next-term Standing State contains only: the header; the Current Court (roster and seniority at the next term's opening, from the Composition); the circuit allotments; the Court's standing practices already recorded (the referral practice); and a docket list of cases brought up — the user's lower-court additions and any matter the Court itself left open at term's end, one line each. No noncontrolling-positions register, no dependency, filing-condition, or history sections, whatever the template's later sections describe. A Justice's simulated prior-term positions are consulted from that term's public renders in `output/`, not from Standing State.
+4. **"Audit October Term <year>."** A fresh task. Compare the opening trackers, every record, the final manifest and Continuity Note, the three candidates, and the renders. Verify identical header values across the three candidates, natural anchors, every controlling holding present once and nothing noncontrolling promoted to law, every open matter carried onto the docket list, and the Standing State rule above. Write `close/AUDIT.md` listing every discrepancy. Report only; repair nothing.
+5. **"Commit October Term <year> close."** Only when the audit lists no unresolved discrepancy (a discrepancy is resolved by a correction record and a candidate rewrite, never by editing a record). Write `close/TERM_CLOSE_DOSSIER.md` as an index of every file the close relied on, with commit hashes; copy the three candidates over `state/` using the templates' exact header labels (`Last completed October Term`, `Processed through`, `Edition`) with identical values in all three; keep the candidates frozen in `close/`.
 
 ## Rules that never bend
 
