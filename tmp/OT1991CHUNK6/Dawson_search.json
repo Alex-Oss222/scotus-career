@@ -1,1 +1,0 @@
-{"responseHeader":{"status":0,"QTime":16,"params":{"query":"collection:us-supreme-court AND title:Dawson AND year:1991","qin":"collection:us-supreme-court AND title:(Dawson) AND year:1991","fields":"identifier,title","wt":"json","start":0}},"response":{"numFound":0,"start":0,"docs":[]}}
