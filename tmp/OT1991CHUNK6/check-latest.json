@@ -1,0 +1,148 @@
+{
+  "protectedFilesUnchanged": 123,
+  "approvedCoresMatched": 10,
+  "openingLedgerTargets": 42,
+  "events": [
+    {
+      "case": "Dawson v. Delaware",
+      "date": "1992-03-09",
+      "holdings": [
+        {
+          "title": "Protected association must bear on a legitimate sentencing issue",
+          "words": 155,
+          "support": 8
+        },
+        {
+          "title": "Scope of the remand",
+          "words": 153,
+          "support": 7
+        }
+      ],
+      "blocks": 11,
+      "record": "Dawson_v_Delaware_merits_1992-03-09.md"
+    },
+    {
+      "case": "General Motors Corp. v. Romein",
+      "date": "1992-03-09",
+      "holdings": [
+        {
+          "title": "No relevant contractual obligation was impaired",
+          "words": 163,
+          "support": 9
+        },
+        {
+          "title": "The retroactive repayment requirement has a rational basis",
+          "words": 163,
+          "support": 9
+        }
+      ],
+      "blocks": 11,
+      "record": "General_Motors_Corp_v_Romein_merits_1992-03-09.md"
+    },
+    {
+      "case": "Williams v. United States",
+      "date": "1992-03-09",
+      "holdings": [
+        {
+          "title": "An impermissible departure ground is a Guidelines application error",
+          "words": 154,
+          "support": 7
+        },
+        {
+          "title": "Harmlessness requires the same sentence without the invalid factor",
+          "words": 155,
+          "support": 7
+        },
+        {
+          "title": "Departure reasonableness remains a separate condition of affirmance",
+          "words": 155,
+          "support": 7
+        }
+      ],
+      "blocks": 11,
+      "record": "Williams_v_United_States_merits_1992-03-09.md"
+    },
+    {
+      "case": "Stringer v. Black",
+      "date": "1992-03-09",
+      "holdings": [
+        {
+          "title": "This application is not a new rule under Teague",
+          "words": 161,
+          "support": 6
+        },
+        {
+          "title": "A weighing error needs a constitutionally adequate cure",
+          "words": 165,
+          "support": 6
+        }
+      ],
+      "blocks": 11,
+      "record": "Stringer_v_Black_merits_1992-03-09.md"
+    },
+    {
+      "case": "Connecticut National Bank v. Germain",
+      "date": "1992-03-09",
+      "holdings": [
+        {
+          "title": "Section 158(d) does not exclude eligible interlocutory review",
+          "words": 159,
+          "support": 5
+        }
+      ],
+      "blocks": 11,
+      "record": "Connecticut_National_Bank_v_Germain_merits_1992-03-09.md"
+    },
+    {
+      "case": "PFZ Properties, Inc. v. Rodriguez",
+      "date": "1992-03-09",
+      "holdings": [],
+      "blocks": 11,
+      "record": "PFZ_Properties_v_Rodriguez_dismissal_of_writ_1992-03-09.md"
+    },
+    {
+      "case": "United States v. R. L. C.",
+      "date": "1992-03-24",
+      "holdings": [
+        {
+          "title": "The juvenile ceiling incorporates the lawful adult Guidelines maximum",
+          "words": 164,
+          "support": 7
+        }
+      ],
+      "blocks": 11,
+      "record": "United_States_v_RLC_merits_1992-03-24.md"
+    },
+    {
+      "case": "Nationwide Mutual Insurance Co. v. Darden",
+      "date": "1992-03-24",
+      "holdings": [
+        {
+          "title": "ERISA employee status follows general common-law agency",
+          "words": 161,
+          "support": 9
+        }
+      ],
+      "blocks": 11,
+      "record": "Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md"
+    },
+    {
+      "case": "United States v. Wilson",
+      "date": "1992-03-24",
+      "holdings": [
+        {
+          "title": "BOP makes the initial credit computation after commencement",
+          "words": 158,
+          "support": 7
+        },
+        {
+          "title": "Credit already applied to another sentence cannot be counted again",
+          "words": 156,
+          "support": 7
+        }
+      ],
+      "blocks": 11,
+      "record": "United_States_v_Wilson_merits_1992-03-24.md"
+    }
+  ]
+}

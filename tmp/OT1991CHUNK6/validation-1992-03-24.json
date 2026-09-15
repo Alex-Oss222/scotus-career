@@ -1,0 +1,52 @@
+{
+  "protectedFilesUnchanged": 123,
+  "approvedCoresMatched": 10,
+  "openingLedgerTargets": 42,
+  "events": [
+    {
+      "case": "United States v. R. L. C.",
+      "date": "1992-03-24",
+      "holdings": [
+        {
+          "title": "The juvenile ceiling incorporates the lawful adult Guidelines maximum",
+          "words": 164,
+          "support": 7
+        }
+      ],
+      "blocks": 11,
+      "record": "United_States_v_RLC_merits_1992-03-24.md"
+    },
+    {
+      "case": "Nationwide Mutual Insurance Co. v. Darden",
+      "date": "1992-03-24",
+      "holdings": [
+        {
+          "title": "ERISA employee status follows general common-law agency",
+          "words": 161,
+          "support": 9
+        }
+      ],
+      "blocks": 11,
+      "record": "Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md"
+    },
+    {
+      "case": "United States v. Wilson",
+      "date": "1992-03-24",
+      "holdings": [
+        {
+          "title": "BOP makes the initial credit computation after commencement",
+          "words": 158,
+          "support": 7
+        },
+        {
+          "title": "Credit already applied to another sentence cannot be counted again",
+          "words": 156,
+          "support": 7
+        }
+      ],
+      "blocks": 11,
+      "record": "United_States_v_Wilson_merits_1992-03-24.md"
+    }
+  ],
+  "result": "passed before record commitment"
+}

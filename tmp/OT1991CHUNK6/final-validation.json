@@ -1,0 +1,27 @@
+{
+  "result": "passed",
+  "completedChunkEvents": 9,
+  "stoppedMatters": 1,
+  "completedTermLedgerEntries": 51,
+  "termCourtEvents": 50,
+  "institutionalSources": 1,
+  "manifestItems": 123,
+  "orderedRenderBlocks": 99,
+  "protectedFilesUnchanged": 123,
+  "earlierCumulativeLawPreserved": true,
+  "earlierPublishedPositionsPreserved": true,
+  "allLedgerTargetsExist": true,
+  "holdingsIdentity": true,
+  "noPFZPrivatePoll": true,
+  "newRecordHashes": {
+    "terms/OT1991/records/Dawson_v_Delaware_merits_1992-03-09.md": "a871a5d14c72ecce7fc729e507c263313e4c0005f81de2c9e01b925f3a0b31fa",
+    "terms/OT1991/records/General_Motors_Corp_v_Romein_merits_1992-03-09.md": "396144bbf8d75d6adb1164d187d5903e5cea959fab847d347fe4c3aa5e696402",
+    "terms/OT1991/records/Williams_v_United_States_merits_1992-03-09.md": "ff6a94b2418d4e8bd32ad0cee2e86ba56ca4a52530906cd65aed348020d74f9c",
+    "terms/OT1991/records/Stringer_v_Black_merits_1992-03-09.md": "538f250ffd3af31920721e5b6dcc7da25894be01550b02dafe1d4bae2e1ea137",
+    "terms/OT1991/records/Connecticut_National_Bank_v_Germain_merits_1992-03-09.md": "3741e8ec77f82e5fa354e18fe6bb61781fd77af04f91a71c8f771e30141baa4f",
+    "terms/OT1991/records/PFZ_Properties_v_Rodriguez_dismissal_of_writ_1992-03-09.md": "11104a9309d19ec295c4837a3f3ff1a3e8d2f77f42a30072daa7a97cfdb100ed",
+    "terms/OT1991/records/United_States_v_RLC_merits_1992-03-24.md": "7bffd5b812c7e2ff7a8f86504846fc36cfac895c6c92d15ce2bb42135ba12bf2",
+    "terms/OT1991/records/Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md": "97595e7fb01e81c65f5d817f552abb84f48100086b7e78e96d0f8c54a82b7ac4",
+    "terms/OT1991/records/United_States_v_Wilson_merits_1992-03-24.md": "9122ac0ce5d438164fbc12f11b411dd9fbec8524cddde05629c51aaa0b20f59c"
+  }
+}
