@@ -1,7 +1,7 @@
 # OCTOBER TERM 1991 — TERM WORKSPACE
 
-**Workspace status:** Chunk 6 processed: nine events completed and Holmes stopped for the specific approval gap below. Fifty Court events and one admitted institutional source have been processed in the term.
-**Chronology cursor:** March 24, 1992, after *United States v. Wilson*, with the same-day Holmes event still open and unadjudicated.
+**Workspace status:** Chunk 7 processed: 8 events completed; Suter and Montana stopped for the scope and approval gaps below. Holmes remains stopped from chunk 6. 58 Court events and one admitted institutional source are committed.
+**Chronology cursor:** April 6, 1992, after *Trevino v. Texas*. Holmes (March 24), Suter (March 25) and Montana (March 31) remain open and unadjudicated.
 **Opening baseline:** `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md`, and `state/STANDING_STATE.md`, all processed through the term-opening baseline effective October 7, 1991 and issued September 14, 2026.
 **Operating mode:** Single-conversation mode; true blindness is unavailable. The split runtime files must nevertheless be opened in the required order during each Run: `_NEUTRAL` first, `_COMPARATOR` second, and `_STONE` last.
 
@@ -63,16 +63,16 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 | 1992-03-24 | United States v. R. L. C., 503 U.S. 291 (1992) | MERITS decision | 1992-03-24 (4-event same-day group; case-list sequence controls) | Completed: The Eighth Circuit’s judgment is affirmed, 7–2. The adult Guidelines ceiling governs the statutory comparison. Record committed. | See records/United_States_v_RLC_merits_1992-03-24.md. Common start-of-day baseline preserved. | OT_1991CHUNK6 |
 | 1992-03-24 | Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 (1992) | MERITS decision | 1992-03-24 (4-event same-day group; case-list sequence controls) | Completed: The Fourth Circuit’s judgment is reversed and the case remanded, 9–0, for application of general common-law agency principles. Record committed. | See records/Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md. Common start-of-day baseline preserved. | OT_1991CHUNK6 |
 | 1992-03-24 | United States v. Wilson, 503 U.S. 329 (1992) | MERITS decision | 1992-03-24 (4-event same-day group; case-list sequence controls) | Completed: The Sixth Circuit’s judgment is reversed, 7–2. The Attorney General through BOP makes the initial credit computation after the federal sentence begins. Record committed. | See records/United_States_v_Wilson_merits_1992-03-24.md. Common start-of-day baseline preserved. | OT_1991CHUNK6 |
-| 1992-03-25 | Suter v. Artist M., 503 U.S. 347 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-03-25 | United States v. Felix, 503 U.S. 378 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-03-25 | Barnhill v. Johnson, 503 U.S. 393 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-03-25 | National Railroad Passenger Corp. v. Boston & Maine Corp., 503 U.S. 407 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-03-25 | Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-03-31 | United States Department of Commerce v. Montana, 503 U.S. 442 (1992) | MERITS decision | 1992-03-31 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-03-31 | Freeman v. Pitts, 503 U.S. 467 (1992) | MERITS decision | 1992-03-31 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-04-01 | Yee v. City of Escondido, 503 U.S. 519 (1992) | MERITS decision | None | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-04-06 | Jacobson v. United States, 503 U.S. 540 (1992) | MERITS decision | 1992-04-06 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
-| 1992-04-06 | Trevino v. Texas, 503 U.S. 562 (1992) | MERITS decision | 1992-04-06 (2-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK7 |
+| 1992-03-25 | Suter v. Artist M., 503 U.S. 347 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Stopped; no Court action or current-law effect. | The corrected neutral record identifies additional claims under 42 U.S.C. §671(a)(9) (reporting unsuitable placements) and §671(a)(16) (case plans and review requirements). Section II version 1 supplies no express treatment of their reach, disposition or effect on the mandate. The sources reviewed do not establish abandonment or a grant limitation eliminating both. Engine §4 requires the missing approved choices or a verified scope premise before a complete disposition; none is inferred. | OT_1991CHUNK7 |
+| 1992-03-25 | United States v. Felix, 503 U.S. 378 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Completed: The judgment reversing counts 1–6 is reversed, 9–0. The Double Jeopardy Clause supplies no bar to either component. The prosecution’s judgments are restored against that objection, subject to preserved unresolved appellate issues; the separate disposition of counts 9–10 is not disturbed. | Record: records/United_States_v_Felix_merits_1992-03-25.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-03-25 | Barnhill v. Johnson, 503 U.S. 393 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Completed: The Tenth Circuit’s honor-date judgment is affirmed, 7–2. November 20 places this transfer within §547(b)’s ninety-day period. All other preference elements and properly presented §547(c) defenses retain their separate operation. | Record: records/Barnhill_v_Johnson_merits_1992-03-25.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-03-25 | National Railroad Passenger Corp. v. Boston & Maine Corp., 503 U.S. 407 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Completed: The D.C. Circuit’s judgments in both dockets are reversed and the cases remanded, 6–3. The ICC acted within the acquisition authority and satisfied the challenged statutory prerequisites. The circuit must resolve the compensation challenges and other issues it did not decide. | Record: records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-03-25 | Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992) | MERITS decision | 1992-03-25 (5-event same-day group; case-list sequence controls) | Completed: The Ninth Circuit’s judgment is reversed and the case remanded, 9–0, for application of the new statutory criteria. No particular timber sale is declared compliant. | Record: records/Robertson_v_Seattle_Audubon_Society_merits_1992-03-25.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-03-31 | United States Department of Commerce v. Montana, 503 U.S. 442 (1992) | MERITS decision | 1992-03-31 (2-event same-day group; case-list sequence controls) | Stopped; no Court action or current-law effect. | Count II separately challenges automatic decennial apportionment under Article I, §§2 and 7 without a fresh congressional vote. The lower court left its merits undecided; the neutral packet and approved Section II version 1 omit its reach, disposition and mandate treatment. Engine §4 requires the missing approved choice or a verified scope premise removing the claim. Reversing Count I does not silently resolve Count II. | OT_1991CHUNK7 |
+| 1992-03-31 | Freeman v. Pitts, 503 U.S. 467 (1992) | MERITS decision | 1992-03-31 (2-event same-day group; case-list sequence controls) | Completed: The categorical restriction in the Eleventh Circuit’s judgment is vacated, and the case is remanded, 8–0, for an integrated, component-specific assessment. This Court releases no component and finds no final systemwide compliance. Each party bears its own costs. | Record: records/Freeman_v_Pitts_merits_1992-03-31.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-04-01 | Yee v. City of Escondido, 503 U.S. 519 (1992) | MERITS decision | None | Completed: The judgment rejecting the physical-taking claim is affirmed, 9–0. No compensation is awarded on that theory. The Court declines the unpreserved due-process claim and the regulatory-taking question outside the grant; neither is rejected on its substantive merits. | Record: records/Yee_v_City_of_Escondido_merits_1992-04-01.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-04-06 | Jacobson v. United States, 503 U.S. 540 (1992) | MERITS decision | 1992-04-06 (2-event same-day group; case-list sequence controls) | Completed: The Eighth Circuit’s judgment is reversed, 6–3, and the case returns for entry of a judgment of acquittal. The prosecution may not retry the case to supply the missing proof of independent predisposition. | Record: records/Jacobson_v_United_States_merits_1992-04-06.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
+| 1992-04-06 | Trevino v. Texas, 503 U.S. 562 (1992) | SUMMARY merits decision with contemporaneous grant | 1992-04-06 (2-event same-day group; case-list sequence controls) | Completed: Leave to proceed in forma pauperis and certiorari are granted. The Texas judgment is reversed and the case remanded by per curiam opinion, with no noted dissent, for consideration of the preserved equal-protection claim. The Court finds no completed Batson violation and orders no automatic new trial. | Record: records/Trevino_v_Texas_merits_1992-04-06.md. Verified route and participation; common start-of-day baseline preserved. | OT_1991CHUNK7 |
 | 1992-04-21 | United States v. Alaska, 503 U.S. 569 (1992) | MERITS decision | 1992-04-21 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK8 |
 | 1992-04-21 | Barker v. Kansas, 503 U.S. 594 (1992) | MERITS decision | 1992-04-21 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK8 |
 | 1992-04-21 | United States Department of Energy v. Ohio, 503 U.S. 607 (1992) | MERITS decision | 1992-04-21 (5-event same-day group; case-list sequence controls) | Anticipated merits decision; the inventory supplies the decision-ordering date but does not establish the grant, argument/submission, or lower-court posture. | Validate the decisional task, route, questions, argument or submission date, participation, and lower-court judgment from the brief and authorized sources; apply all earlier effective simulated Records. Thomas may not participate if the matter was argued before 1991-10-23 unless reargued. | OT_1991CHUNK8 |
@@ -201,19 +201,28 @@ The manifest covers the entire lightweight inventory in `terms/OT1991/case-list.
 | 50 | 1992-03-24 | *Nationwide Mutual Insurance Co. v. Darden*, merits decision | CDR — `records/Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md` | Validated and committed; common start-of-day baseline preserved |
 | 51 | 1992-03-24 | *United States v. Wilson*, merits decision | CDR — `records/United_States_v_Wilson_merits_1992-03-24.md` | Validated and committed; common start-of-day baseline preserved |
 
+| 52 | 1992-03-25 | *United States v. Felix*, merits decision | CDR — `records/United_States_v_Felix_merits_1992-03-25.md` | Validated and committed; same-day baseline preserved |
+| 53 | 1992-03-25 | *Barnhill v. Johnson*, merits decision | CDR — `records/Barnhill_v_Johnson_merits_1992-03-25.md` | Validated and committed; same-day baseline preserved |
+| 54 | 1992-03-25 | *National Railroad Passenger Corp. v. Boston & Maine Corp.*, merits decision | CDR — `records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md` | Validated and committed; same-day baseline preserved |
+| 55 | 1992-03-25 | *Robertson v. Seattle Audubon Society*, merits decision | CDR — `records/Robertson_v_Seattle_Audubon_Society_merits_1992-03-25.md` | Validated and committed; same-day baseline preserved |
+| 56 | 1992-03-31 | *Freeman v. Pitts*, merits decision | CDR — `records/Freeman_v_Pitts_merits_1992-03-31.md` | Validated and committed; same-day baseline preserved |
+| 57 | 1992-04-01 | *Yee v. City of Escondido*, merits decision | CDR — `records/Yee_v_City_of_Escondido_merits_1992-04-01.md` | Validated and committed; same-day baseline preserved |
+| 58 | 1992-04-06 | *Jacobson v. United States*, merits decision | CDR — `records/Jacobson_v_United_States_merits_1992-04-06.md` | Validated and committed; same-day baseline preserved |
+| 59 | 1992-04-06 | *Trevino v. Texas*, summary merits decision with contemporaneous grant | CDR — `records/Trevino_v_Texas_merits_1992-04-06.md` | Validated and committed; same-day baseline preserved |
+
 ## Term Continuity Note
 
 ### 1. Scope and Chronology Cursor
 
-- **Term / exact opening trackers:** OT1991; `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`, each processed through October 7, 1991 and issued September 14, 2026.
-- **Manifest:** All 123 items remain: 122 inventory entries plus Thomas’s oath and circuit reallotment. Fifty-one entries are completed: fifty Court events and one admitted institutional source. Nine chunk 6 events were completed; Holmes remains stopped. PFZ’s anticipated merits event is now a dismissal of the writ. No item was added, removed or rescheduled. Wyoming’s completed merits event does not close its retained original proceeding.
-- **Coverage:** Chunks 1–5 and the nine completed events in chunk 6. Previous same-day baselines remain. All March 9 events use the baseline after McCarthy; their six records were committed before the March 24 refresh. The March 24 events use that common refreshed baseline, without same-day precedential priority.
-- **Latest processed change:** *United States v. Wilson*, March 24, 1992. The chronology cursor does not falsely close Holmes, another March 24 event.
-- **Next pending work:** Resolve the stated Holmes approval gap. The next inventory date is March 25, beginning with *Suter v. Artist M.*; before a later case proceeds, check whether the still-open Holmes issue is a material dependency. A later Holmes completion must preserve the March 24 start-of-day baseline and audit any later completed matter for dependence. Any actual Wyoming filing must be reconciled by effective date.
+- **Term / exact opening trackers:** OT1991; `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`, each processed through October 7, 1991 and issued September 14, 2026. These files remain unchanged.
+- **Manifest:** All 123 items remain: 122 inventory entries plus Thomas’s oath and circuit reallotment. 59 manifest entries are completed: 58 Court events and one institutional source. Suter and Montana are stopped in chunk 7; Holmes remains stopped in chunk 6. Trevino’s inventory event is a reasoned summary merits decision with its contemporaneous grant, not an added petition event. No item was removed or rescheduled. Wyoming’s completed merits event does not close its retained original proceeding.
+- **Coverage:** Chunks 1–5, nine completed chunk 6 events and eight completed chunk 7 events. Earlier date groups retain their baselines. The four completed March 25 decisions use the March 24 completed state; none relies on another March 25 decision or on Suter. Freeman uses the completed March 25 state, with same-day Montana still open. Yee uses the March 31 completed state. Jacobson and Trevino share the April 1 baseline. No same-day processing order creates precedential priority.
+- **Latest processed change:** *Trevino v. Texas*, April 6, 1992. The cursor records progress and does not close the earlier stopped events.
+- **Next pending work:** Supply the omitted scope/disposition choices identified in §6 for Holmes, Suter and Montana. The next unprocessed inventory date is April 21, beginning with *United States v. Alaska*. A later completion of any stopped event must use its proper start-of-day law and audit already completed later events for actual dependence. The completed chunk 7 matters do not depend on the missing SIPA, child-welfare enforcement or automatic-apportionment rulings. Any verified Wyoming filing must be reconciled by effective date.
 
 ### 2. Completed Events and Admitted Sources
 
-All fifty-one validated records appear in the Term Working Ledger above with their natural identities, effective dates and durable locations. Entries 1–42 remain unchanged. Entries 43–51 are the nine completed chunk 6 decisions: Dawson, Romein, Williams, Stringer, Germain, PFZ, R.L.C., Darden and Wilson. Holmes has no record and supplies no law. No correction exists. The exact new public projection is `render-inputs/OT_1991CHUNK6.md`; the five earlier Render Inputs remain unchanged. This Run produces no public render.
+All 59 validated records appear in the Term Working Ledger above with natural identities, effective dates and durable paths. Entries 1–51 remain unchanged. Entries 52–59 are Felix, Barnhill, Amtrak, Robertson, Freeman, Yee, Jacobson and Trevino. Holmes, Suter and Montana have no Decision Record and supply no law. No adjudicative correction is made. The new public projection is `render-inputs/OT_1991CHUNK7.md`; all six earlier Render Inputs remain unchanged. This Run produces no public render.
 
 ### 3. Current Law
 
@@ -950,6 +959,240 @@ No substantive holding. The unexplained dismissal of the writ decides no merits 
 
 **Posture and limits:** Supreme Court review ends in reversal of the circuit’s direction to award credit at sentencing. BOP remains responsible for the initial calculation after commencement, with administrative and judicial review through proper channels. The Court awards no days of credit and makes no new detention order.
 
+#### Chunk 7 additions — effective March 25 through April 6, 1992
+
+Only the eight completed decisions below add current law. Suter and Montana are unadjudicated. These additions preserve all earlier §3 rules and qualifications; no precedent is overruled by this chunk.
+
+#### United States v. Felix — 1992-03-25
+
+**Authority:** [Canonical Decision Record](records/United_States_v_Felix_merits_1992-03-25.md).
+
+**1. Reused evidence and separate substantive offenses.** The use of evidence of an uncharged crime in one trial does not itself place the defendant in jeopardy for that crime. The later Oklahoma substantive charges concern different acts from the Missouri attempt and are not barred merely because evidence of those acts helped prove intent in Missouri.
+
+**Controlling authority:** White, Part I, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas: nine votes make this an Opinion of the Court.
+
+- Dowling v. United States, 493 U.S. 342 — applied: evidentiary use does not itself constitute prosecution for the described offense.
+- Grady v. Corbin, 495 U.S. 508 — applied and confined to essential-conduct analysis; its express rejection of a same-evidence test remains operative.
+
+**2. Agreement remains a distinct offense.** A conspiracy and its substantive objects are distinct offenses; prosecution of the substantive crime does not bar prosecution of the agreement merely because the same acts help prove both. The overlapping Missouri conduct therefore does not bar this Oklahoma conspiracy.
+
+**Controlling authority:** White, Part II, joined by Stone, White, O’Connor, Scalia, Kennedy, Souter and Thomas: seven votes control this rationale; Stevens and Blackmun agree only with the judgment on a narrower ground.
+
+- United States v. Bayer, 331 U.S. 532 — applied: the agreement is distinct from its execution.
+- Pinkerton v. United States, 328 U.S. 640 — applied: substantive crime and conspiracy remain separately punishable offenses.
+- Iannelli v. United States, 420 U.S. 770 — applied: conspiracy’s independent character survives overlapping proof.
+- Garrett v. United States, 471 U.S. 773 — applied by analogy to the treatment of multilayered criminal conduct.
+- Grady v. Corbin, 495 U.S. 508 — clarified without overruling: it does not abrogate the established conspiracy/substantive-offense distinction.
+
+**Current-law effect and boundaries:** Distinct evidentiary use does not itself create prior jeopardy for an uncharged offense. The established agreement/substantive-offense distinction governs this conspiracy. Grady remains in force within its proper scope; ordinary evidentiary objections and a different single-incident successive prosecution remain open.
+
+**Remedy:** The Tenth Circuit must give effect to the reversal as to counts 1–6 and resolve any preserved outstanding appellate matters. No new evidentiary ruling or automatic new trial is ordered. No subsequent filing, mandate-issuance date or rehearing is established.
+
+#### Barnhill v. Johnson — 1992-03-25
+
+**Authority:** [Canonical Decision Record](records/Barnhill_v_Johnson_merits_1992-03-25.md).
+
+**1. Honor determines the §547(b) transfer.** For §547(b), an ordinary check transfers the debtor’s relevant bank-account interest when the drawee honors it, because delivery gives the payee no assigned interest in that account. The November 20 honor date therefore satisfies the ninety-day timing element here, without deciding other preference elements or defenses.
+
+**Controlling authority:** Stone, joined by White, O’Connor, Scalia, Kennedy, Souter and Thomas: seven votes support the rule and explanation.
+
+- McKenzie v. Irving Trust Co., 323 U.S. 365 — applied: federal transfer law operates on property interests identified by state law.
+- Butner v. United States, 440 U.S. 48 — applied: state law defines the relevant property interest absent a contrary federal rule.
+- Union Bank v. Wolas, current-term decision December 11, 1991 — left intact: ordinary-course eligibility and proof remain distinct from §547(b) timing.
+
+**Current-law effect and boundaries:** For §547(b), honor fixes transfer of the relevant account interest by ordinary check. No creditor automatically loses every payment honored within ninety days: the trustee must establish the remaining elements, and available defenses remain. Nonordinary instruments and §547(c) timing are not decided.
+
+**Remedy:** The honor-date ruling stands. Further administration of the preference claim remains subject to its other elements and available defenses; no additional factual finding or remedial order is invented. No subsequent event is established.
+
+#### National Railroad Passenger Corp. v. Boston & Maine Corp. — 1992-03-25
+
+**Authority:** [Canonical Decision Record](records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md).
+
+**1. Passenger-service acquisition and reconveyance.** Section 562(d) permits the ICC’s construction that property required for passenger service includes property usefully and appropriately acquired for Amtrak’s rail operations; it does not require indispensable permanent Amtrak ownership. The statutory need presumption and express service-promoting reconveyance authority therefore permit this transaction, subject to the statute’s independent conditions.
+
+**Controlling authority:** Kennedy, joined by Stone, Stevens, O’Connor, Scalia and Souter: six votes support this holding and explanation.
+
+- Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 — applied: permissible agency construction governs the unresolved statutory ambiguity.
+- K mart Corp. v. Cartier, Inc., 486 U.S. 281 — applied: statutory text and structure constrain deference.
+- Sullivan v. Everhart, 494 U.S. 83 — applied: the meaning of a disputed term is assessed within the whole statute.
+- Lechmere, Inc. v. NLRB, current-term decision January 27, 1992 — preserved: no prior binding construction is displaced here.
+
+**2. The agency’s discernible ground.** A reviewing court may recognize an interpretation necessarily embodied in the agency’s own decision even when the agency did not state that interpretation in the exact words later used by counsel. That rule sustains this ICC order because its application of the need presumption and its disposition of the competing remedies disclose the statutory construction; it does not permit a court to supply a new agency ground.
+
+**Controlling authority:** Kennedy, joined by Stone, Stevens, O’Connor, Scalia and Souter: six votes support this holding and explanation.
+
+- SEC v. Chenery Corp., 318 U.S. 80 — applied: the agency’s own ground must sustain its action; a necessarily discernible premise suffices here.
+- Motor Vehicle Manufacturers Assn. v. State Farm, 463 U.S. 29 — distinguished on the record, not weakened: new appellate rationalizations remain insufficient.
+
+**3. Inability to agree on sale terms.** Section 562(d)’s inability-to-agree prerequisite permits the ICC to find from the parties’ positions that further sale negotiations will not produce agreement; it does not impose an unstated mandatory bargaining ritual. The supported finding here satisfies that condition, without making every unilateral offer sufficient.
+
+**Controlling authority:** Kennedy, joined by Stone, Stevens, O’Connor, Scalia and Souter: six votes support this holding and explanation.
+
+- Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 — applied to the ICC’s interpretation of the independent sale-negotiation prerequisite.
+
+**4. Rebuttal: significant impairment.** To defeat §562(d)’s presumption of need, the railroad must establish both statutory rebuttal conditions. In assessing significant impairment of its common-carrier obligations, the ICC may consider the transaction as a whole, including preserved trackage rights and compensation; the supported finding of no significant impairment independently prevents rebuttal here.
+
+**Controlling authority:** Kennedy, joined by Stone, Stevens, O’Connor, Scalia and Souter: six votes support this holding and explanation.
+
+- Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 — applied: the statute permits consideration of mitigation within the transaction.
+- Arkansas v. Oklahoma, current-term decision February 26, 1992 — consistent with, and unchanged by, review of an agency conclusion against the actual record.
+
+**5. Rebuttal: alternative property.** The ICC permissibly reads the alternative-property condition of §562(d) to ask whether an adequate alternative route is available on the statutory terms, rather than whether a lesser interest in the same segment would suffice. The absence of such an alternative independently prevents rebuttal of the need presumption here.
+
+**Controlling authority:** Kennedy, joined by Stone, Stevens, O’Connor, Scalia and Souter: six votes support this holding and explanation.
+
+- Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 — applied: the ICC’s route-based construction is permissible within the statutory scheme.
+
+**6. Public use despite private reconveyance.** A compensated condemnation serving a rationally supported public passenger-service purpose satisfies the Fifth Amendment’s public-use requirement even when title is reconveyed to another private railroad. The ICC’s determination that this transaction facilitates Amtrak service meets that requirement.
+
+**Controlling authority:** Kennedy, joined by Stone, Stevens, O’Connor, Scalia and Souter: six votes support this holding and explanation.
+
+- Hawaii Housing Authority v. Midkiff, 467 U.S. 229 — applied: rational public purpose can support condemnation followed by private transfer.
+- Berman v. Parker, 348 U.S. 26 — applied: private implementation does not defeat an otherwise public purpose.
+- United States v. Carmack, 329 U.S. 230 — distinguished: the condemnation power here is exercised by a government commission.
+
+**Current-law effect and boundaries:** Section 562(d) allows the approved service-connected acquisition and reconveyance. Judicial deference remains tied to an interpretation actually discernible in the agency’s decision. The conjunctive rebuttal, inability-to-agree finding, compensation obligation and passenger-service boundary retain distinct work; no condemnation power for naked private favoritism follows.
+
+**Remedy:** Both cases return to the D.C. Circuit for the compensation challenges and other outstanding review issues. The Court does not itself fix a new valuation, resolve distinct regulatory claims, or schedule further Supreme Court proceedings. No later filing is established.
+
+#### Robertson v. Seattle Audubon Society — 1992-03-25
+
+**Authority:** [Canonical Decision Record](records/Robertson_v_Seattle_Audubon_Society_merits_1992-03-25.md).
+
+**1. Substitution of governing law.** Section 318(b)(6)(A) changes the statutory law applicable to the identified timber disputes by making compliance with the new restrictions sufficient to meet the specified old requirements, while leaving actual compliance for courts to decide. That clear substantive amendment is effective although enacted in an appropriations statute and does not violate Article III on the ground decided below.
+
+**Controlling authority:** Thomas, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas: a unanimous Opinion of the Court.
+
+- United States v. Klein, 13 Wall. 128 — distinguished on the ground decided below; its full constitutional reach is not resolved.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 18 How. 421 — consistent with adjudication under changed law; no broad targeted-legislation holding is drawn from it.
+- Simpson v. United States, 435 U.S. 6 — applied: specific provisions qualify general ones.
+- United States v. Will, 449 U.S. 200 — applied: clear substantive amendments may appear in appropriations legislation.
+- TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
+- NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
+
+**Current-law effect and boundaries:** The specified statutory requirements are modified for the Compromise’s defined geographical, temporal and contract scope. The decision establishes no broad exception to Article III, no constitutional environmental entitlement and no finding that any sale complies. The unraised challenge to legislation narrowly targeting pending litigation, Klein’s full reach and final-judgment reopening remain undecided.
+
+**Remedy:** The courts apply the new criteria to the still-live sale disputes. Fiscal-year limits and continued application to covered sales contracts remain. No new sale approval, later filing or Supreme Court date is supplied.
+
+#### Freeman v. Pitts — 1992-03-31
+
+**Authority:** [Canonical Decision Record](records/Freeman_v_Pitts_merits_1992-03-31.md).
+
+**1. Partial withdrawal under an unfinished decree.** A court may withdraw supervision from a completed part of a school-desegregation decree while retaining jurisdiction and supervision elsewhere only after the district shows full and satisfactory compliance and elimination of the relevant vestiges to the extent practicable. The court must assess demonstrated good faith toward the whole decree and whether retaining control is necessary or practicable to achieve compliance elsewhere; release may not obstruct the remaining remedy.
+
+**Controlling authority:** Stone, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter: all eight participating Justices support this limited rule.
+
+- Green v. School Board of New Kent County, 391 U.S. 430 — applied: the affirmative duty and operational inquiry continue across the unfinished decree.
+- Swann v. Charlotte-Mecklenburg Board of Education, 402 U.S. 1 — applied: equitable flexibility remains tied to effective repair of the violation.
+- Board of Education v. Dowell, 498 U.S. 237 — clarified for partial withdrawal: good faith and practicable elimination must be assessed in that setting.
+- Milliken v. Bradley, 433 U.S. 267 — applied: restoration of local control remains consistent with completion of the constitutional remedy.
+- Rufo v. Inmates of Suffolk County Jail, current-term decision January 15, 1992 — preserved within its consent-modification scope; it does not replace the Green/Dowell release inquiry.
+
+**2. Causation and the limits of the remand.** The district bears the burden of showing that imbalance for which it disclaims remedial responsibility is not traceable to the constitutional violation; genuinely independent demographic change does not require perpetual racial balancing. Existing factual findings receive clear-error review, but findings on one question do not decide unexamined causal or remedial connections; the remand must resolve properly open issues and define the obligations released and retained.
+
+**Controlling authority:** Stone, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter: eight votes; the separate opinions’ disputed factual applications are outside this holding.
+
+- Pasadena Board of Education v. Spangler, 427 U.S. 424 — applied with its independent-cause and completed-remedy limits.
+- Swann v. Charlotte-Mecklenburg Board of Education, 402 U.S. 1 — preserved: the district’s causal showing and violation-linked remedy remain required.
+- Board of Education v. Dowell, 498 U.S. 237 — applied: good faith requires demonstrated compliance, not an assurance alone.
+
+**Current-law effect and boundaries:** Partial withdrawal is permissible, but the district must make the required showing for each released area, with whole-decree good faith, practicable elimination of vestiges and attention to remedial interdependence. The court retains jurisdiction and active authority over outstanding violations. Existing causation burdens remain; neither a perpetual balance mandate nor an automatic demographic exemption is created. Rufo and Dowell retain their distinct operations.
+
+**Remedy:** The Eleventh Circuit identifies issues properly open under the parties’ earlier presentations and orders the necessary proceedings, including district-court findings on good faith and remedial connections. Any withdrawal order must define released obligations and remaining supervision. Existing factual findings receive ordinary clear-error review; no general retrial of settled facts is ordered. No new remedy, final discharge, filing date or Supreme Court supervision is invented.
+
+#### Yee v. City of Escondido — 1992-04-01
+
+**Authority:** [Canonical Decision Record](records/Yee_v_City_of_Escondido_merits_1992-04-01.md).
+
+**1. Voluntarily created tenancies.** Regulating rents and continuation of voluntarily created pad tenancies does not impose a permanent physical occupation where the law permits the owner to change the land’s use and no contrary application is established. A tenant’s resale premium and the owner’s reduced ability to select incoming tenants do not themselves convert that regulation into a compelled occupation.
+
+**Controlling authority:** O’Connor, I, joined by Stone, White, Stevens, Scalia, Kennedy, Thomas: seven votes control. Blackmun and Souter separately agree with rejection of the physical-taking claim.
+
+- FCC v. Florida Power Corp., 480 U.S. 245 — applied: invitation to occupy remains distinct from compelled occupation despite regulated rent.
+- Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419 — applied and distinguished: its permanent-occupation rule requires compulsion absent here.
+- Nollan v. California Coastal Commission, 483 U.S. 825 — distinguished: a required easement cannot substitute for proof of forced occupation here.
+- Kaiser Aetna v. United States, 444 U.S. 164 — preserved: the right to exclude is important, but the facial scheme has not compelled this occupation.
+
+**2. Unpreserved due-process claim.** The Court declines a substantive due-process claim neither properly raised nor decided in the state courts; presentation only in a denied request for discretionary review does not supply the missing state-court decision. The Court need not decide here whether this review limitation is jurisdictional or prudential.
+
+**Controlling authority:** O’Connor, II-A, joined by White, Stevens, Scalia, Kennedy and Thomas: six formal joins; Blackmun separately agrees that the claim is not properly raised. Stone’s limited merits reach supplies no additional procedural rationale.
+
+- Illinois v. Gates, 462 U.S. 213 — applied: an unpresented state-court claim is not decided on review; the jurisdictional/prudential classification remains open.
+- People v. Triggs, 8 Cal.3d 884 — applied only to the effect of denied California discretionary review, which expresses no merits determination.
+
+**3. Preserved taking claim and facial ripeness.** A party that properly presents a federal taking claim below may offer a different supporting argument on review, subject to the separate limitation imposed by the question presented. Under the then-governing standards, this facial allegation that the ordinance never substantially advances a legitimate state interest is ripe without a rent-increase request because it does not depend on the particular property’s economic loss or compensation.
+
+**Controlling authority:** O’Connor, II-B–C, joined by White, Stevens, Scalia, Kennedy and Thomas: six formal joins control these procedural propositions; no Stone join is attributed.
+
+- Bankers Life & Casualty Co. v. Crenshaw, 486 U.S. 71 — applied: new arguments may support a preserved federal claim.
+- Illinois v. Gates, 462 U.S. 213 — applied: argument and claim preservation are distinct.
+- Williamson County Regional Planning Commission v. Hamilton Bank, 473 U.S. 172 — distinguished: the asserted facial theory does not require a property-specific rent determination.
+- Agins v. Tiburon, 447 U.S. 255 — applied only to the then-current facial-ripeness proposition; no merits determination follows.
+- Keystone Bituminous Coal Assn. v. DeBenedictis, 480 U.S. 470 — applied to distinguish facial allegations from property-specific application.
+
+**4. Question presented limits merits review.** Under Rule 14.1(a), a question asking whether the ordinance causes a physical taking does not fairly include the related but independent question whether it causes a regulatory taking. No exceptional urgency or economy justifies departing from that prudential limit here, so the regulatory merits remain undecided.
+
+**Controlling authority:** O’Connor, II-D, joined by Stone, White, Stevens, Scalia, Kennedy, Thomas: seven votes; this section adopts no regulatory merits or ripeness conclusion.
+
+- Stone v. Powell, 428 U.S. 465 — applied: departure from the question-presented rule remains exceptional.
+- Lytle v. Household Manufacturing, Inc., 494 U.S. 545 — applied: developed arguments and lower-court consideration support disciplined review.
+- American National Bank & Trust Co. v. Haroco, Inc., 473 U.S. 606 — applied by analogy: related questions are not necessarily fairly included within one another.
+
+**Current-law effect and boundaries:** Voluntary tenancy regulation on this facial record does not compel physical occupation. The separate regulatory merits remain open. Rule 14.1(a), preservation and the then-current facial-ripeness principles retain their distinct functions; the limited ripeness holding is supported by six formal joins, not attributed to Stone or inferred from judgment-only concurrence.
+
+**Remedy:** The California judgment stands on the physical-taking theory. Any properly available regulatory or as-applied claim must proceed in an appropriate case under its own procedural requirements. There is no new merits remand, withdrawal denial, compensation order or later filing.
+
+#### Jacobson v. United States — 1992-04-06
+
+**Authority:** [Canonical Decision Record](records/Jacobson_v_United_States_merits_1992-04-06.md).
+
+**1. Predisposition independent of official cultivation.** When the Government induces the charged crime and entrapment is at issue, it must prove beyond a reasonable doubt that the defendant’s predisposition existed before and independently of its cultivation; evidence obtained after contact may prove that earlier state of mind. Even giving the prosecution its reasonable favorable inferences, the lawful earlier purchase and responses generated during this twenty-six-month operation do not establish that independent predisposition.
+
+**Controlling authority:** White, joined by Stone, Blackmun, Stevens, Souter, Thomas: six votes control.
+
+- Sorrells v. United States, 287 U.S. 435 — applied: the Government may offer opportunities but may not manufacture the disposition and prosecute its product.
+- Sherman v. United States, 356 U.S. 369 — applied: the record can establish entrapment as a matter of law despite an eventual willing transaction.
+- United States v. Russell, 411 U.S. 423 — preserved: subjective predisposition remains the inquiry; no objective misconduct defense is substituted.
+- Jackson v. Virginia, 443 U.S. 307 — applied: reasonable prosecution-favorable inferences remain subject to proof beyond reasonable doubt.
+- Mathews v. United States, 485 U.S. 58 — preserved: a routine offered opportunity does not automatically support an entrapment instruction.
+
+**2. Insufficiency requires acquittal.** Because the prosecution’s proof was legally insufficient to overcome entrapment, the proper disposition is acquittal rather than a new trial. Burks bars a second opportunity to supply the missing evidence of independent predisposition.
+
+**Controlling authority:** White, joined by Stone, Blackmun, Stevens, Souter, Thomas: six votes support the remedial direction.
+
+- Burks v. United States, 437 U.S. 1 — applied: insufficiency requires acquittal and bars retrial to repair the proof.
+- Sherman v. United States, 356 U.S. 369 — applied: matter-of-law entrapment supports termination, not a second prosecution opportunity.
+
+**Current-law effect and boundaries:** The prosecution must prove independently existing predisposition, not merely readiness after successful official cultivation. Later-collected evidence may reveal earlier readiness; neither the evidence’s date nor investigative persistence alone decides entrapment. This record is insufficient even under prosecution-favorable review, and Burks requires acquittal. The subjective defense, ordinary sting operations and statutory elements otherwise remain.
+
+**Remedy:** The case returns through the Eighth Circuit for entry of acquittal, with no second trial on this charge to repair evidentiary insufficiency. No separate outrageous-conduct ruling, amendment to the offense, new investigation prerequisite or later procedural event is created.
+
+#### Trevino v. Texas — 1992-04-06
+
+**Authority:** [Canonical Decision Record](records/Trevino_v_Texas_merits_1992-04-06.md).
+
+**1. Preservation of the equal-protection objection.** A pre-Batson motion alleging a historical pattern of racial peremptory strikes, renewed after the challenged exclusions and carried forward on appeal with a Fourteenth Amendment reference, preserves the equal-protection objection despite imperfect labels. Trevino’s objection meets that standard under Ford.
+
+**Controlling authority:** Per curiam Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; no noted dissent.
+
+- Ford v. Georgia, 498 U.S. 411 — applied: the substance of a historical-pattern objection can preserve equal protection before Batson.
+- Swain v. Alabama, 380 U.S. 202 — used to identify the contemporaneous theory counsel invoked; its displaced case-after-case burden is not restored.
+- Batson v. Kentucky, 476 U.S. 79 — applied to the preservation comparison; no heightened predictive precision is imposed.
+- Holland v. Illinois, 493 U.S. 474 — distinguished: its Sixth Amendment rule does not dispose of an equal-protection claim.
+
+**2. Direct review and the remaining Batson inquiry.** Because Trevino’s case remained on direct review when Batson was decided, Griffith requires its application, and Powers removes the objection that Trevino and the excluded jurors are of different races. The state court must decide the preserved claim under Batson’s ordinary burdens; preservation alone establishes neither purposeful discrimination nor an automatic entitlement to a new trial.
+
+**Controlling authority:** Per curiam Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; no noted dissent.
+
+- Griffith v. Kentucky, 479 U.S. 314 — applied: Batson governs this still-pending direct review.
+- Powers v. Ohio, 499 U.S. 400 — applied: different racial identity does not bar the challenge.
+- Batson v. Kentucky, 476 U.S. 79 — applied: the ordinary proof sequence and ultimate discrimination question remain for remand.
+- Teague v. Lane, 489 U.S. 288 — distinguished: its collateral-review setting does not displace Griffith here.
+
+**Current-law effect and boundaries:** A pre-Batson objection with this historical-pattern substance and its appellate renewal preserves equal protection despite imperfect labels. Powers defeats the same-race objection, and Griffith requires Batson on direct review. Preservation is not a finding of discrimination; ordinary Batson burdens and factfinding remain.
+
+**Remedy:** The state court must consider the preserved racial-strike claim, obtaining explanations and findings as appropriate under Batson. Preservation alone orders no new trial. The Court does not decide the consequences of an inability to complete a future corrective inquiry. Other trial errors are not decided here. No execution date, stay, completed hearing or later filing is invented.
+
 ### 4. Material Published Noncontrolling Positions
 
 - **Stone and Stevens — *Mireles*, October 21:** A genuinely separable command of gratuitous physical violence is operational rather than judicial, while warrants, contempt decisions, and attendance orders remain protected despite error. Noncontrolling concurrence in an equal-division disposition.
@@ -1002,6 +1245,22 @@ No substantive holding. The unexplained dismissal of the writ decides no merits 
 
 - **United States v. Wilson, 1992-03-24** — source: the separately named writings in `records/United_States_v_Wilson_merits_1992-03-24.md`. Stevens, joined by White, would permit the sentencing court to resolve a ripe credit entitlement when counsel and the record are available, leaving ministerial arithmetic or later adjustments to the appropriate official. He reads the passive wording and placement in the sentencing chapter as allowing shared responsibility and rejects the premise that occasional incomplete information bars every sentencing-stage determination. The Court instead adopts initial administrative computation after commencement. The dissent does not claim unreviewable executive discretion or discard the statutory no-double-credit language. No later treatment is established; these positions do not change controlling law.
 
+#### Chunk 7 published separate positions
+
+- **United States v. Felix, 1992-03-25:** Stevens, joined by Blackmun, agrees that the separate substantive crimes can be prosecuted and joins Part I. They also agree with the conspiracy judgment because the two overlapping acts did not establish the agreement, but decline a general exception to Grady for conspiracy or other complex crimes. Their narrower ground does not replace the seven-Justice Part II rule. Source: `records/United_States_v_Felix_merits_1992-03-25.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
+- **Barnhill v. Johnson, 1992-03-25:** Stevens, joined by Blackmun, would treat delivery as a conditional transfer if honor follows within ten days, and use honor otherwise. They rely on the breadth of the statutory transfer definition, §547(e), ordinary commercial treatment and consistent language within §547. That view does not control §547(b), and neither writing decides a general §547(c) timing rule. Source: `records/Barnhill_v_Johnson_merits_1992-03-25.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
+- **National Railroad Passenger Corp. v. Boston & Maine Corp., 1992-03-25:** White, joined by Blackmun and Thomas, accepts that the statute permits acquisition followed by reconveyance. They would require the ICC to explain and apply the service-need condition itself, treating counsel’s useful-or-appropriate construction as a later rationalization. They rely on State Farm, Chenery and Burlington Truck Lines and do not endorse the circuit’s categorical permanent-ownership rule. Their agreement about possible statutory power is not a join in the Court’s approval of this order. Source: `records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
+- **Freeman v. Pitts, 1992-03-31:** Kennedy, joined by White and Scalia, regards the existing demographic findings as credible and emphasizes Spangler’s limit on perpetual balancing, while accepting remand for unresolved connections and whole-decree good faith. Blackmun, joined by Stevens and O’Connor, urges examination of the district’s contribution to residential movement and racially identifiable schools; they do not regard initial neighborhood assignments or demographic change alone as proof of completed desegregation. Souter separately explains that past segregation can cause migration and that remaining violations can generate renewed imbalance in a released area; retained jurisdiction permits renewed control when justified. Scalia separately urges future reconsideration of the causation presumption as past violations recede. That proposed change is not adopted. All seven non-Stone Justices join the limited Court opinion; none is attributed agreement with every separate application. Source: `records/Freeman_v_Pitts_merits_1992-03-31.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
+- **Yee v. City of Escondido, 1992-04-01:** Blackmun concurs in the judgment: no physical taking, and neither additional merits claim is properly presented. He declines the Court’s ripeness determination and suggestions about which allegations may bear on regulatory taking. Souter concurs in the judgment and would otherwise join except for the suggestions about regulatory relevance. Stone’s noted join is limited to I and II-D; no separate authored opinion adds a ground beyond those sections. The Court’s discussion of possible regulatory significance decides no regulatory liability. Source: `records/Yee_v_City_of_Escondido_merits_1992-04-01.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
+- **Jacobson v. United States, 1992-04-06:** O’Connor, joined by Kennedy and by Scalia as to Part I, would defer to the jury’s inference from prompt illegal orders, requests for more and precautions about detection. They distinguish preliminary contact from inducement and fear that the Court’s reasoning will restrict legitimate undercover investigation. In Part II, joined only by Kennedy, O’Connor objects that the Court appears to require a predisposition knowingly to violate law. The Court expressly adopts no new knowledge-of-illegality element; Scalia does not join that criticism. No objective-police-misconduct theory controls. Source: `records/Jacobson_v_United_States_merits_1992-04-06.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
+- **Trevino v. Texas, 1992-04-06:** Stone concurs, emphasizing that preservation alone cannot warrant a new trial; he would order one only if the completed inquiry establishes a violation or lawful corrective proceedings cannot resolve it. That additional remedial qualification is his separate position, not a direction adopted by the Court. There is no noted dissent and no public certiorari poll. Source: `records/Trevino_v_Texas_merits_1992-04-06.md`. The positions are noncontrolling except where an express Court join is identified in §3.
+
 ### 5. Current Procedure and Institution
 
 - **Roster / seniority:** Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Six qualified Justices constitute a quorum; five votes supply a majority for the nine participating Justices in every completed chunk 6 event; earlier reduced-Court thresholds remain as recorded.
@@ -1013,6 +1272,10 @@ No substantive holding. The unexplained dismissal of the writ decides no merits 
 
 - **Chunk 6 stages:** Dawson v. Delaware: Supreme Court review of the sentence ends; the case returns to Delaware for further proceedings. No resentencing date, harmlessness finding, stay, or retained Supreme Court supervision is created. The convictions remain intact. General Motors Corp. v. Romein: Supreme Court review ends with affirmance. Michigan’s repayment obligation may be enforced on its existing terms; the Court orders no additional award, contract modification, or retained supervision. Williams v. United States: Supreme Court sentence review ends with remand to the Seventh Circuit. That court must decide whether the same sentence would have been imposed and whether the departure is independently reasonable; if either required condition fails, it must remand for resentencing. No new sentence or automatic district-court hearing is imposed now. Stringer v. Black: Supreme Court review ends with remand to the Fifth Circuit. The preserved procedural-default defense remains undecided; the lower courts must consider it and any adequate state correction. If relief is otherwise warranted, a conditional writ may permit resentencing or authorized appellate cure. No immediate release, automatic life sentence or finding that a particular state cure failed is made. Connecticut National Bank v. Germain: Supreme Court review of the jurisdictional dismissal ends. The case returns to the Second Circuit to consider §1292’s applicable requirements and whether to permit the appeal. The underlying jury dispute remains undecided here. PFZ Properties, Inc. v. Rodriguez: The writ is dismissed; Supreme Court review ends. The First Circuit’s judgment remains in force without an affirmance on the merits. No permit, damages, new hearing, retained supervision or reopening of excluded claims is ordered. United States v. R. L. C.: Supreme Court review ends in affirmance of the Eighth Circuit. The district court’s already-entered 18-month disposition is not replaced by a new remand order. No additional detention or new departure finding is made. The Government’s effort to restore the three-year approach fails. Nationwide Mutual Insurance Co. v. Darden: Supreme Court review ends with remand to the Fourth Circuit for the proper classification inquiry and further proceedings consistent with that result. Neither Darden’s employee status nor an entitlement to benefits is finally determined. The excluded cross-petition issue is not reopened. United States v. Wilson: Supreme Court review ends in reversal of the circuit’s direction to award credit at sentencing. BOP remains responsible for the initial calculation after commencement, with administrative and judicial review through proper channels. The Court awards no days of credit and makes no new detention order. Holmes remains open for the specific workflow gap in §6, not a merits ruling. No new external filing, return date or retained Supreme Court proceeding is inferred.
 
+- **Chunk 7 participation:** Nine participate at argument/submission and decision in Felix, Barnhill, Amtrak, Robertson, Yee, Jacobson and Trevino. Freeman has eight at both stages; Thomas took no part, its argument preceded his oath, and no reargument is established. Five joins are required for a controlling merits proposition in each completed case. Trevino’s public action reports the grant without a petition poll.
+
+- **Chunk 7 stages:** United States v. Felix: The Tenth Circuit must give effect to the reversal as to counts 1–6 and resolve any preserved outstanding appellate matters. No new evidentiary ruling or automatic new trial is ordered. No subsequent filing, mandate-issuance date or rehearing is established. Barnhill v. Johnson: The honor-date ruling stands. Further administration of the preference claim remains subject to its other elements and available defenses; no additional factual finding or remedial order is invented. No subsequent event is established. National Railroad Passenger Corp. v. Boston & Maine Corp.: Both cases return to the D.C. Circuit for the compensation challenges and other outstanding review issues. The Court does not itself fix a new valuation, resolve distinct regulatory claims, or schedule further Supreme Court proceedings. No later filing is established. Robertson v. Seattle Audubon Society: The courts apply the new criteria to the still-live sale disputes. Fiscal-year limits and continued application to covered sales contracts remain. No new sale approval, later filing or Supreme Court date is supplied. Freeman v. Pitts: The Eleventh Circuit identifies issues properly open under the parties’ earlier presentations and orders the necessary proceedings, including district-court findings on good faith and remedial connections. Any withdrawal order must define released obligations and remaining supervision. Existing factual findings receive ordinary clear-error review; no general retrial of settled facts is ordered. No new remedy, final discharge, filing date or Supreme Court supervision is invented. Yee v. City of Escondido: The California judgment stands on the physical-taking theory. Any properly available regulatory or as-applied claim must proceed in an appropriate case under its own procedural requirements. There is no new merits remand, withdrawal denial, compensation order or later filing. Jacobson v. United States: The case returns through the Eighth Circuit for entry of acquittal, with no second trial on this charge to repair evidentiary insufficiency. No separate outrageous-conduct ruling, amendment to the offense, new investigation prerequisite or later procedural event is created. Trevino v. Texas: The state court must consider the preserved racial-strike claim, obtaining explanations and findings as appropriate under Batson. Preservation alone orders no new trial. The Court does not decide the consequences of an inability to complete a future corrective inquiry. Other trial errors are not decided here. No execution date, stay, completed hearing or later filing is invented.
+
 ### 6. Blockers and Revalidation Needs
 
 Holmes v. Securities Investor Protection Corp., No. 90-727 (March 24, 1992): the official record presents an independent claim under SIPA §78eee(d) for liquidation-administration advances. Section II version 1 supplies no Stone disposition or legal ground for that claim. Engine §4 requires that missing approved choice before the matter can be adjudicated. The question has been sent to the user; no decision, vote, holding or remedy for this event is committed.
@@ -1021,35 +1284,45 @@ The missing choice affects Holmes only. R.L.C. concerns the juvenile statutory c
 
 Wyoming remains open for implementation, not blocked. Preserve the exact current-term limits: Dawson leaves harmless-error availability open by seven Justices; Williams requires both causal harmlessness and reasonable departure extent; Stringer leaves procedural default and actual cure unresolved; Germain grants no automatic appeal; PFZ supplies no merits law; R.L.C. establishes a ceiling without a majority lenity methodology; Darden decides no ultimate employee status; Wilson preserves review of proper BOP calculations. Earlier limitations in §3 remain unchanged, including Doherty’s fracture, Elias-Zacarias’s separate grounds, Rufo’s decree obligations, Hudson’s narrow majority, Nordic Village’s federal waiver scope, Franklin’s unresolved attribution and McCarthy’s particular claim/process. No historical follow-on event is automatically admitted.
 
+**New chunk 7 stopped matters:**
+
+- **Suter v. Artist M., No. 90-1488, 1992-03-25:** The corrected neutral record identifies additional claims under 42 U.S.C. §671(a)(9) (reporting unsuitable placements) and §671(a)(16) (case plans and review requirements). Section II version 1 supplies no express treatment of their reach, disposition or effect on the mandate. The sources reviewed do not establish abandonment or a grant limitation eliminating both. Engine §4 requires the missing approved choices or a verified scope premise before a complete disposition; none is inferred.
+
+- **United States Department of Commerce v. Montana, No. 91-860, 1992-03-31:** Count II separately challenges automatic decennial apportionment under Article I, §§2 and 7 without a fresh congressional vote. The lower court left its merits undecided; the neutral packet and approved Section II version 1 omit its reach, disposition and mandate treatment. Engine §4 requires the missing approved choice or a verified scope premise removing the claim. Reversing Count I does not silently resolve Count II.
+
+These matters were referred for additional approved input during the Run. No answer or approval is inferred from elapsed time. The scope defects were confirmed by fresh neutral source review, without Stone or comparator inputs. The official reports and lower judgments provide the omitted-claim evidence, but no historical disposition is substituted for an approved choice. Any later completion requires corrected neutral handoffs, refrozen commitments and reconciliation, and Stone revalidation before its new record is committed. The other eight chunk 7 events were completed on their stated independent grounds; no omitted claim supplies their law.
+
 ### 7. Source and Research Cutoff
 
-Continuation requires the three identified opening trackers, the complete manifest and ledger, all fifty-one durable records and six Render Input files. The earlier records preserve their source support. Chunk 6 used the ten official United States Reports PDFs for 503 U.S. 159–346, downloaded from GovInfo and read in full, including footnotes and separate writings, plus the complete official PFZ argument and the CAP lower-court materials identified in the records. Holmes’s report was researched but its event was not adjudicated. Internet Archive catalog searches were discovery only; no unread briefs are represented as reviewed. Research performed September 14, 2026; completed events have in-world cutoffs of March 9 or March 24, 1992. No later law or unverified connected external event is admitted, and no intervening Wyoming filing is established.
+The chunk 6 handoff required the opening trackers, complete manifest and ledger, fifty-one durable records and six Render Input files. The earlier records preserve their source support. Chunk 6 used the ten official United States Reports PDFs for 503 U.S. 159–346, downloaded from GovInfo and read in full, including footnotes and separate writings, plus the complete official PFZ argument and the CAP lower-court materials identified in the records. Holmes’s report was researched but its event was not adjudicated. Internet Archive catalog searches were discovery only; no unread briefs are represented as reviewed. Research performed September 14, 2026; completed events have in-world cutoffs of March 9 or March 24, 1992. No later law or unverified connected external event is admitted, and no intervening Wyoming filing is established.
+
+Current continuation requires all 59 durable records and seven Render Input files with the unchanged opening trackers and this complete workspace. Chunk 7 used all ten official GovInfo PDFs at 503 U.S. 347–568, read in full with completion reads after truncated outputs, and the CAP lower judgments identified in each record. Suter and Montana were researched but not adjudicated. IA docket collections were catalog discovery only. Research performed September 14, 2026; completed-event cutoffs are March 25, March 31, April 1 and April 6, 1992. The fresh audit validates Amtrak and Jacobson reconciliation and the precise Freeman common rule and changed joins; its relevant conclusions are incorporated in the canonical annexes. The source-completeness addendum supports only the stopped-matter notices. The final consistency checks verify 20 holding explanations (120–200 words each), identical CDR/Render Input holdings, eleven blocks per completed event, named-Justice arithmetic, preserved prior ledger rows, 123 manifest entries, valid record links and unchanged hashes for every preexisting protected file. No subsequent Wyoming act or historical follow-on event is admitted.
 
 ## Current-Term Neutral Projection
 
 ### Projection boundary
 
-This projection contains current law, public procedure, roster, allotments, published Justice positions and manifest dependencies. It excludes private Stone cores, provisional commitments, comparator reconciliation and audit annexes. Workflow gaps identify the missing input without supplying its substance.
+This projection contains current law, public procedure, roster, allotments, published Justice positions and manifest dependencies. It excludes private Stone cores, provisional commitments, comparator reconciliation and audit annexes. Workflow gaps identify missing input without supplying its substance.
 
 ### Authority and chronology
 
 - **Term / divergence:** OT1991; Stone replaced Rehnquist on October 7, 1991.
-- **Chronology cursor:** March 24, 1992, after *United States v. Wilson*. Holmes’s same-day event remains unadjudicated.
-- **Effective records:** All fifty-one ledger entries. The identified opening trackers remain the October 7 baseline.
-- **Next work:** The unresolved Holmes input must be supplied before its event can be completed. The next inventory date is March 25, beginning with Suter; dependency review must account for the open Holmes event and any verified Wyoming filing.
+- **Chronology cursor:** April 6, 1992, after *Trevino v. Texas*. Holmes, Suter and Montana remain unadjudicated at their earlier event dates.
+- **Effective records:** All 59 ledger entries, with the unchanged October 7 opening trackers.
+- **Next work:** Resolve the three stopped matters under §6 with proper date-specific dependency review. The next untouched inventory date is April 21, beginning with *United States v. Alaska*. Any actual Wyoming filing requires effective-date reconciliation.
 
 ### Current law
 
-The complete cumulative additions, exact propositions, majority authority, precedent treatment and limits are in Term Continuity Note §3. Those records control any conflict. Earlier law is preserved unless expressly displaced. Chunk 6 adds Dawson’s relevance application and reserved remand, Romein’s contract and retroactivity applications, Williams’s separate error-effect and reasonableness inquiries, Stringer’s old-rule and weighing-cure holdings, Germain’s available statutory appeal route, R.L.C.’s adult-derived ceiling, Darden’s general agency definition and Wilson’s credit-calculation rule. PFZ is a dismissal without a merits holding. Holmes contributes no holding. Neither R.L.C.’s divided methodology nor any separate writing becomes law through aggregation.
+The complete cumulative propositions, exact authority, precedent treatment and limits appear in Term Continuity Note §3. Those canonical records control a conflict. All earlier additions remain intact. Chunk 7 adds Felix’s evidence/prosecution distinction and distinct-conspiracy rule; Barnhill’s ordinary-check honor date under §547(b); Amtrak’s six-Justice statutory, agency-ground, rebuttal and public-use holdings; Robertson’s statutory substitution with reserved broader Article III issues; Freeman’s eight-Justice limited partial-withdrawal rule and remand; Yee’s physical-taking and procedural holdings at their distinct formal join levels; Jacobson’s six-Justice independent-predisposition and acquittal holdings; and Trevino’s preservation and direct-review application. Suter and Montana add no law; Holmes remains without a holding. No separate writing becomes controlling through aggregation.
 
 ### Public procedure, roster and allotments
 
-Use Note §5: all nine members, unchanged October 23 circuit allotments, the pre-oath participation rule and six-member quorum. All nine participated at argument and decision in every completed chunk 6 event. Five explicit joins are necessary for a controlling proposition in these cases. No private dismissal poll is published.
+Use Note §5 for the nine-member roster and unchanged October 23 circuit allotments. Six qualified Justices constitute a quorum. Freeman has eight participating Justices; Thomas took no part. The other completed chunk 7 events have nine. Five affirmative merits joins are required in each. Trevino is a reasoned summary merits action following contemporaneous certiorari and pauper-status grants; no petition-stage poll is published.
 
 ### Open matters and dependencies
 
-Wyoming retains original implementation jurisdiction over the January 22 injunction; no later filing or hearing date is established. Holmes remains an uncompleted March 24 event requiring an additional approved issue position as identified in §6. The nine completed chunk 6 proceedings are terminal at the Supreme Court stage; lower-court work continues only on the recorded terms. Stringer’s procedural default and actual state cure are unresolved on remand. R.L.C.’s resentencing already occurred. Do not invent a new Supreme Court return or erase an open proceeding at term close without a terminal action or express carry-forward.
+Wyoming retains original implementation jurisdiction over its January 22 injunction; no later filing, hearing or termination is established. Holmes (March 24), Suter (March 25) and Montana (March 31) remain uncompleted for the exact input gaps in §6. The eight completed chunk 7 Supreme Court reviews end on their recorded terms. Amtrak leaves valuation and other circuit issues; Freeman leaves defined component-release and retained-enforcement work; Yee awards no physical-taking compensation and decides no regulatory merits; Jacobson requires acquittal without retrial; Trevino requires the ordinary Batson inquiry without a present discrimination finding. Earlier remand limits, including Stringer’s procedural-default and cure reservations, remain. Do not invent a Supreme Court return, later filing or terminal action.
 
 ### Material published Justice positions
 
-Note §4 preserves all cumulative published positions with their author, joins, source, date and noncontrolling scope. For chunk 6, preserve Stone’s distinct Dawson remedy, Blackmun’s harmlessness reservation and Thomas’s relevance dissent; White/Kennedy’s Williams statutory dissent; Souter/Scalia/Thomas’s Stringer new-rule dissent; Germain’s four judgment-only writers; Stone’s PFZ dissent seeking a merits affirmance; the separate R.L.C. methodology and juvenile-discretion positions; and Stevens/White’s Wilson actor/timing dissent. No unpublished provisional commitment or comparator enters this projection.
+Note §4 preserves all prior and new public separate positions. In chunk 7, Stevens/Blackmun retain their narrower Felix conspiracy ground and Barnhill delivery position; White/Blackmun/Thomas require further agency explanation in Amtrak; Freeman’s Kennedy/White/Scalia, Blackmun/Stevens/O’Connor, Souter and Scalia writings preserve their distinct causal and remedial views while the eight join the limited rule; Yee retains Blackmun and Souter’s judgment-only opinions and Stone’s limited formal join; O’Connor/Kennedy/Scalia dissent from Jacobson with Scalia excluded from Part II. No private core, provisional position or historical comparator enters this projection.
