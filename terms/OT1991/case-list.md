@@ -116,6 +116,8 @@
 | OT_1991CHUNK8 | Keeney v. Tamayo-Reyes | 504 U.S. 1 (1992) | 1992-05-04 | Historical, used for simulation ordering | MERITS |
 | OT_1991CHUNK8 | Denton v. Hernandez | 504 U.S. 25 (1992) | 1992-05-04 | Historical, used for simulation ordering | MERITS |
 | OT_1991CHUNK8 | United States v. Williams | 504 U.S. 36 (1992) | 1992-05-04 | Historical, used for simulation ordering | MERITS |
+| OT_1991CHUNK8 | Vasquez v. Harris, No. A-766 (application to vacate the execution stay in Ninth Circuit No. 92-55426) | Application docket A-766 | 1992-04-21 | Historical, used for simulation ordering | APPLICATION (referred to the Court; order of the Court) — brought up by the user, September 14, 2026 |
+| OT_1991CHUNK8 | Vasquez v. Harris, No. A-768 (application to vacate the later execution stay) | Application docket A-768 | 1992-04-21 | Historical, used for simulation ordering | APPLICATION (referred to the Court; order of the Court) — brought up by the user, September 14, 2026 |
 
 ## OT_1991CHUNK9
 
