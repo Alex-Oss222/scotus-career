@@ -573,6 +573,12 @@ A direct-relation construction can defeat this derivative claim while preserving
 * **Essential Reasoning and Record Application:** Adopt a proximate-cause construction grounded in Congress’s borrowed statutory language and the preexisting direct-injury tradition. The broker insolvency intervenes between manipulation and customer nonpayment; sorting business losses and avoiding duplicate trebled recovery would replicate the direct trustees’ suits. Statutory subrogation changes the plaintiff’s identity, not the nature of that injury. This is an expressly proposed resolution of RICO’s open causation issue, not an invented constitutional standing barrier or hostility to compensation.
 * **Boundary or Reserved Question:** Reserve securities purchaser-seller restrictions, the merits of the fraud allegations, and recoveries through the brokers’ estates. Do not convert directness into a universal ban on every foreseeable third-party consequence.
 
+## E. VERSION 1.1 SUPPLEMENT
+
+* **Version:** 1.1
+* **Approval Status:** Approved by the user on September 14, 2026. Version 1.1 consists of version 1 unchanged plus the addition below, and supersedes version 1 for this matter.
+* **Additional Controlled Judgment and Ground (SIPC’s own claim for its advances):** Stone would also reverse insofar as the appellate judgment permits SIPC’s own claim for its advances and direct judgment for Holmes on that claim: [SIPA §78eee(d)](https://www.law.cornell.edu/uscode/text/15/78eee#d) grants participation rights in liquidation proceedings, not an independent damages action. Insofar as SIPC seeks recovery of those advances under §1964(c), the same proximate-cause requirement defeats recovery because its expenditure depends on the intervening broker-dealer losses; distinct trustee claims and SIPC’s lawful recovery through the liquidation estates remain undisturbed.
+
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
 ## A. MERITS COMPARATOR

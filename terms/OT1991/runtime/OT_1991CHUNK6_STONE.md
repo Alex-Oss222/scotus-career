@@ -200,6 +200,12 @@ He would not adopt the broader suggestion that available state review cures ever
 
 ---
 
+## E. VERSION 1.1 SUPPLEMENT
+
+* **Version:** 1.1
+* **Approval Status:** Approved by the user on September 14, 2026. Version 1.1 consists of version 1 unchanged plus the addition below, and supersedes version 1 for this matter.
+* **Additional Controlled Judgment and Ground (SIPC’s own claim for its advances):** Stone would also reverse insofar as the appellate judgment permits SIPC’s own claim for its advances and direct judgment for Holmes on that claim: [SIPA §78eee(d)](https://www.law.cornell.edu/uscode/text/15/78eee#d) grants participation rights in liquidation proceedings, not an independent damages action. Insofar as SIPC seeks recovery of those advances under §1964(c), the same proximate-cause requirement defeats recovery because its expenditure depends on the intervening broker-dealer losses; distinct trustee claims and SIPC’s lawful recovery through the liquidation estates remain undisturbed.
+
 # United States v. R. L. C.
 
 # SECTION II: STONE POSITION SUPPLEMENT
