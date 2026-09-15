@@ -110,7 +110,7 @@ The user may designate a matter for special consideration. Its Run and Render fo
 - **Reconciliation checks.** Every vote count in the opinion topology reconciles to the per-component judgment table; every Marks claim shows both rationales and why one is a logical subset of the other; no historical authorship or joinder fact is imported.
 - **Render form: full**, always; the Render carries the separate-writing summaries and the extended holdings at the depth the Render Input supplies.
 
-Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.1 rerun, September 15, 2026). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
+Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.2 rerun, September 15, 2026; Stone proposes his own undue-burden framework). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
 
 ## Close protocol
 

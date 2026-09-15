@@ -368,6 +368,22 @@ The governing baseline is law available immediately before June 29, 1992. No iss
 
 The historical opinions issued in Casey may identify the record and contemporaneous arguments. Their resolution of this same case is not entering precedent.
 
+## E. Source correction and record clarifications (version 1.2)
+
+Retain the neutral packet’s case, posture and entering-law account, subject to these express corrections and clarifications. These statements describe the statute or lower-court record; they are not Stone’s constitutional holdings.
+
+1. **Paternal-support disclosure — §3205(a)(2)(iii).** The provision requires information about the father’s liability to assist in supporting the child, including when he offered to pay for an abortion. Its final sentence states: **“In the case of rape, this information may be omitted.”** This disclosure qualification contains no police-reporting condition. It must not be confused with the separate spousal-assault exception to spousal notification.
+
+2. **Emergency and disclosure protections are distinct.** Section 3203 uses the physician’s good-faith clinical judgment concerning an immediate abortion to avert death, or delay creating a serious risk of substantial and irreversible impairment of a major bodily function. Section 3205(c) separately provides a defense to omitted information when the physician establishes, by a preponderance of the evidence, a reasonable belief that disclosure would severely adversely affect the patient’s physical or mental health. That defense does not itself authorize delaying necessary emergency care. [Statutory appendix, 505 U.S. 902–904](https://supreme.justia.com/cases/federal/us/505/833/)
+
+3. **Materials and certifications.** Section 3205(a)(2) requires notice concerning state materials, assistance and paternal support. Under subsection (a)(3), the materials are supplied if the patient chooses to review them; acceptance or reading is not compulsory. Subsection (a)(4) requires written certification that the required information has been provided. The trial record identifies defects in the agency directory, including listed organizations providing misinformation, while recognizing that clinicians may supplement or criticize the directory. A finding about a listed organization does not establish that every statement in every state pamphlet is false. [District court, findings 181–189](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/)
+
+4. **Parental attendance.** The district court treated informed parental consent as requiring an additional in-person encounter. The statutory text does not expressly prescribe a parental clinic visit, and the appellate court reserved that interpretation. The minor may elect judicial bypass without first requesting parental consent; maturity and informed consent, or best interests, are alternative routes. [Court of appeals, parental-consent discussion and footnote 23](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey)
+
+5. **Spousal-notice exceptions.** Section 3209 permits a signed exception statement when the husband is not the father, cannot be located after diligent effort, the pregnancy resulted from spousal sexual assault reported to the appropriate law-enforcement agency, or notice is likely to cause bodily injury to the woman. Emergency independently excuses notification. These provisions do not encompass every form of threatened economic, psychological or family harm. [Court of appeals, spousal-notice discussion](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey) The incorporated spousal-assault law required reporting within 90 days. [Statutory discussion, 505 U.S. 893](https://supreme.justia.com/cases/federal/us/505/833/)
+
+6. **Public release and confidentiality.** Under §3207(b), the funding lookback is the 12 calendar months before a request to inspect or copy the facility report; under §3214(f), it is the 12 calendar months before filing the quarterly report. Confidential procedure reports are distinct from these public facility reports. The record does not establish public disclosure of patients’ identities. [Statutory appendix, 505 U.S. 906–911](https://supreme.justia.com/cases/federal/us/505/833/)
+
 # Lucas v. South Carolina Coastal Council
 
 # SECTION I: NEUTRAL MODELING PACKET
