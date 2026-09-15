@@ -72,6 +72,12 @@ A §1983 holding can sustain the available action without deciding an additional
 * **Essential Reasoning and Record Application:** Apply Wilder. Children facing removal and separation are the identified beneficiaries, the State undertakes a mandatory duty, and reasonable efforts is a judicially usable obligation despite room for institutional choice. Where the alleged failure is leaving a child without the assigned worker through whom every service is delivered, courts can evaluate whether any reasonable implementation occurred without managing every welfare judgment. A plan-only construction makes the specific in-each-case promise operationally empty. The Secretary’s funding remedy does not, on this scheme, demonstrate incompatibility with §1983. This conclusion comes from enacted §1983 and §671, not Master’s broader family-integrity preferences. No overruling of a preexisting contrary Supreme Court holding is needed.
 * **Boundary or Reserved Question:** Reserve an independent implied action because §1983 suffices. Do not constitutionalize all family services or expand the unappealed constitutional count. Safety, actual necessity, causation, and remedy retain their separate requirements.
 
+## E. VERSION 1.1 SUPPLEMENT
+
+* **Version:** 1.1
+* **Approval Status:** Approved by the user on September 14, 2026. Version 1.1 consists of version 1 unchanged plus the addition below, and supersedes version 1 for this matter.
+* **Additional Controlled Judgment and Ground (the §671(a)(9) and §671(a)(16) claims):** Stone would preserve his affirmance of §671(a)(15) enforcement through §1983 and the supported case-specific injunction, while remanding the §671(a)(9) and §671(a)(16) claims for provision-specific consideration of enforceability, merits, and any additional relief. The mandate therefore affirms the existing injunction on the §671(a)(15) ground and remands the additional statutory claims without dismissing them or presuming that the same enforceability analysis resolves them.
+
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
 ## A. MERITS COMPARATOR
@@ -487,6 +493,12 @@ The Court may reach the legal question and sustain a permissible congressional c
 * **Stone's Proposed Holding:** The interstate apportionment issue is justiciable, but constitutional whole-state and minimum-seat constraints permit Congress’s equal-proportions method.
 * **Essential Reasoning and Record Application:** Reach the constitutional boundary and sustain this method. Article I’s whole-state and minimum-seat constraints make exact national equality impossible. Absolute and relative departures can move in opposite directions, and the sources do not compel Montana’s preferred measure. Equal proportions is a coherent population-based method selected through Congress’s assigned responsibility. This is source-sensitive discretion, not immunity from review. Stone does not convert his commitment to equal counting into a numerical criterion the Constitution does not contain.
 * **Boundary or Reserved Question:** Reserve deliberately discriminatory or nonpopulation allocations and challenges to census counting rules. The intergovernmental allocation holding does not dilute intrastate district equality.
+
+## E. VERSION 1.1 SUPPLEMENT
+
+* **Version:** 1.1
+* **Approval Status:** Approved by the user on September 14, 2026. Version 1.1 consists of version 1 unchanged plus the addition below, and supersedes version 1 for this matter.
+* **Additional Controlled Judgment and Ground (Count II):** Stone would leave Count II’s challenge to automatic decennial apportionment under Article I, §§2 and 7 for the district court on remand, because that distinct constitutional question was [left undecided below](https://law.justia.com/cases/federal/district-courts/FSupp/775/1358/1555409/) and need not be resolved to decide Count I. His mandate reverses the judgment and relief resting on Count I and remands Count II without prejudging its justiciability or merits; the statutory allocation remains operative subject to further lawful order, and this mandate directs no transfer of a seat.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 

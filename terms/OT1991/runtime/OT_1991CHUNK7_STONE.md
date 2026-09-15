@@ -28,6 +28,12 @@
 
 ---
 
+## E. VERSION 1.1 SUPPLEMENT
+
+* **Version:** 1.1
+* **Approval Status:** Approved by the user on September 14, 2026. Version 1.1 consists of version 1 unchanged plus the addition below, and supersedes version 1 for this matter.
+* **Additional Controlled Judgment and Ground (the §671(a)(9) and §671(a)(16) claims):** Stone would preserve his affirmance of §671(a)(15) enforcement through §1983 and the supported case-specific injunction, while remanding the §671(a)(9) and §671(a)(16) claims for provision-specific consideration of enforceability, merits, and any additional relief. The mandate therefore affirms the existing injunction on the §671(a)(15) ground and remands the additional statutory claims without dismissing them or presuming that the same enforceability analysis resolves them.
+
 # United States v. Felix
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -168,6 +174,12 @@ The failed-negotiation prerequisite also requires decision. Amtrak made a take-i
 * **Boundary or Reserved Question:** Reserve deliberately discriminatory or nonpopulation allocations and challenges to census counting rules. The intergovernmental allocation holding does not dilute intrastate district equality.
 
 ---
+
+## E. VERSION 1.1 SUPPLEMENT
+
+* **Version:** 1.1
+* **Approval Status:** Approved by the user on September 14, 2026. Version 1.1 consists of version 1 unchanged plus the addition below, and supersedes version 1 for this matter.
+* **Additional Controlled Judgment and Ground (Count II):** Stone would leave Count II’s challenge to automatic decennial apportionment under Article I, §§2 and 7 for the district court on remand, because that distinct constitutional question was [left undecided below](https://law.justia.com/cases/federal/district-courts/FSupp/775/1358/1555409/) and need not be resolved to decide Count I. His mandate reverses the judgment and relief resting on Count I and remands Count II without prejudging its justiciability or merits; the statutory allocation remains operative subject to further lawful order, and this mandate directs no transfer of a seat.
 
 # Freeman v. Pitts
 

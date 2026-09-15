@@ -92,6 +92,10 @@ Use the Contract's labeled block in the full form; in the compact form keep the 
 
 Write the render the way the Court writes for the public, not the way a treatise writes for specialists: plain declarative sentences; the rule first in ordinary words, then its precise legal formulation; every cited precedent followed by a clause saying what it supplies here; terms of art only when needed, explained on first use; no Latin where English will do; the Court's voice ("The Court holds ..."), never "the model" or "the simulation." A careful non-lawyer should be able to follow every step; a lawyer should find nothing imprecise.
 
+## Stone's standing fallback (approved)
+
+Approved by the user on September 14, 2026, for October Term 1991 and until revoked: "For any claim, count, or docket component the record presents that Section II does not expressly address, Stone joins the disposition the Court's majority reaches on that component and adds no ground." Apply it only to a component on which Section II is silent — never to narrow, extend, or replace a position Section II states. Record each use in the Decision Record's Stone section and in the Render Input, naming the component. A matter is not stopped for that reason alone.
+
 ## Close protocol
 
 Term close runs only after every manifest item is completed, corrected, or expressly carried forward. It is staged so that no single context must hold the whole term; each pass is its own task, committed before the next. Records control; renders are cross-checks only. Do not change any adjudication during close — a defect goes back to a correction record.
