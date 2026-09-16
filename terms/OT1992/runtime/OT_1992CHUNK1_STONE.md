@@ -1,5 +1,45 @@
 # OT_1992CHUNK1_STONE
 
+## Coleman v. Thompson (petition disposition)
+
+**Listed docket:** Petition No. 91-8336; related No. A-877 (OT1991 stay application). **Event:** 1992-10-05 (simulated; carried forward from OT1991).
+
+**Procedural Category:** PROCEDURAL — disposition of a petition for certiorari at conference; not itself a merits adjudication unless certiorari is granted.
+
+### SECTION II — STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+**Version:** New position, OT1992 opening.  
+**Approval Status:** PROPOSED AND UNAPPROVED. Authored at the user's direction to resolve the OT1991 Standing State's carried-forward Coleman docket item; not yet an adopted simulated disposition.  
+**Approval Date or Turn:** Current user-directed authoring turn.  
+**Current-Through Baseline:** The May 20, 1992 stay record and the closed OT1991 registers; no later fact is used.  
+**Conditions:** This position reaches only the certiorari-stage rule-of-four question; it does not resolve the underlying miscarriage-of-justice or successive-petition questions, which would be reached only if certiorari is granted and the case is later briefed and argued.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone's Proposed Judgment or Disposition:** GRANT certiorari.
+
+**Stone's Remedy and Remand Position:** Set the case for full briefing and argument at a later OT1992 event. No summary reversal, vacatur, or hearing order is proposed now; the underlying Carrier/McCleskey gateway question requires full adversarial presentation, which the record available at the stay stage did not provide.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: Whether the petition satisfies the ordinary rule-of-four threshold for a grant of certiorari
+
+**Threshold and Merits Reach:** Reach only the certiorari-stage question. Reserve the underlying miscarriage-of-justice and successive-petition merits questions for full briefing if certiorari is granted.
+
+**Stone's Legal Position and Treatment of Precedent:** Consistent with his May 20 dissent from the stay denial, Stone finds the same combination of a disputed recantation, a competing confession claim, and conflicting scientific interpretations sufficient to support a reasonable probability that the underlying question is meritorious under Barefoot's standard, even though four votes were not shown to exist for the stay itself. The rule-of-four for certiorari is a lower threshold than the votes needed to prevail on the merits; Stone does not treat denial of the stay as resolving whether the petition itself should be heard.
+
+**Stone's Proposed Holding:** Where a capital habeas petitioner has presented a disputed recantation, a competing confession claim, and conflicting scientific interpretations sufficient to divide the Court on a related stay application, and no new fact has since foreclosed the claim, certiorari should be granted to determine, with full briefing, whether the miscarriage-of-justice exception is satisfied.
+
+**Essential Reasoning and Record Application:** Stone's May 20 dissent already found the combined record sufficient to warrant further examination; nothing in the record has since undermined that view, and no countervailing fact has emerged. The gravity of a capital sentence and the exceptional-relief character of the miscarriage-of-justice exception favor full adversarial testing of the claim over summary denial on the existing record.
+
+**Boundary or Reserved Question:** No view is expressed on whether the exception is ultimately satisfied, whether a hearing would be ordered, or whether Coleman is innocent. No new fact, argument, or authority beyond the May 20, 1992 stay record is used.
+
+**Position-source discipline:** This proposed position is Stone's, authored at the user's direction with full autonomy given the current unavailability of the user's usual review process; it does not purport to be a Court holding, an adopted simulated disposition, or an inference about any other Justice's vote.
+
+---
+
 ## Grubbs v. Delo
 
 **Listed docket:** A-324. **Event:** 1992-10-20.

@@ -1,5 +1,75 @@
 # OT_1992CHUNK1_NEUTRAL
 
+## Coleman v. Thompson (petition disposition)
+
+**Listed docket:** Petition No. 91-8336; related No. A-877 (OT1991 stay application). **Event:** 1992-10-05 (simulated; carried forward from OT1991).
+
+**Procedural Category:** PROCEDURAL — disposition of a petition for certiorari at conference; not itself a merits adjudication unless certiorari is granted.
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Coleman v. Thompson (petition disposition)  
+**Citation or Docket:** Petition No. 91-8336; related No. A-877; 504 U.S. 188 (1992) (the related May 20, 1992 stay denial).  
+**October Term:** 1992.  
+**Entry Stage and Event:** PETITION FOR WRIT OF CERTIORARI, carried forward from OT1991 as a matter the Court left open and considered at the Court's opening-Term conference under the standing referral practice for matters not resolved within the term in which they arose.  
+**Simulated Event Date:** 1992-10-05, a simulated date supplied because no historical Supreme Court disposition of this petition exists — see Section III. This is the Term's opening Monday, the customary date for the order list disposing of petitions considered at the pre-Term conference.  
+**Question Presented:** Whether Coleman's proffered evidence — a disputed witness recantation, a competing claim that another person committed the murder, and conflicting forensic/scientific interpretations — satisfies Murray v. Carrier's miscarriage-of-justice exception to independent-and-adequate-state-ground procedural default, and overcomes McCleskey v. Zant's successive-petition/abuse-of-the-writ bar, so as to entitle petitioner to an evidentiary hearing (Townsend v. Sain, as bounded by the simulated Keeney v. Tamayo-Reyes) and merits review of the constitutional claims defaulted in state court.  
+**Question Granted / Authorized Scope:** Only whether to grant or deny certiorari on that question. A grant would set the case for full briefing and argument at a later term event; it does not itself decide the underlying habeas claims, and no merits disposition is assumed or invented here.
+
+**Court and Judgment Under Review:** Fourth Circuit, No. 92-4005, 966 F.2d 1441 (May 18, 1992), affirming the Western District of Virginia's denial of Coleman's second federal habeas petition without an evidentiary hearing, 798 F. Supp. 1209 (W.D. Va. May 13, 1992), and directing immediate issuance of the mandate.  
+**Relief Requested:** Coleman seeks certiorari, vacatur of the judgment below, and remand for an evidentiary hearing on his defaulted claims. The Commonwealth seeks denial of certiorari and preservation of the judgment below.
+
+**Material Record:** This petition presents the same record already described in the [May 20, 1992 stay record](../../OT1991/records/Coleman_v_Thompson_stay_application_1992-05-20.md): a disputed recantation, competing accounts of another person's confession, physical-evidence allegations, and conflicting scientific interpretations, considered together against the district court's denial of a hearing and the Fourth Circuit's affirmance. That record documents no new fact developed after May 20, 1992; the petition papers themselves could not be located in any searched public archive (Internet Archive, CAP, CourtListener, or OpenJurist), per that record's own Source Notes, so this packet does not exceed what the stay record already established.
+
+**Threshold, Preservation, and Vehicle Matters:** Independent-and-adequate state procedural default and the successive-petition/abuse-of-the-writ bar remain in force unless the miscarriage-of-justice exception is satisfied. A denial of certiorari leaves the Fourth Circuit's judgment undisturbed without adopting its reasoning; a grant does not itself find the exception satisfied. The May 20 stay denial resolved only the stay application (No. A-877); it did not dispose of this petition, which the Court's own May 20 record left "pending for its own Court disposition, with no new action date established."
+
+**Relevant Dates:** District court denial, May 13, 1992. Fourth Circuit affirmance, May 18, 1992. Stay denied, May 20, 1992 (OT1991). This petition considered at the Court's simulated October 5, 1992 opening conference (OT1992). [Record and authority sources](#sources-coleman-91-8336).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific nonparticipation is established by the supplied materials. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the simulated 1992-10-05 event; the complete OT1991 term, including the May 20, 1992 Coleman stay record and the closed OT1991 Holdings, Standards and Tests, and Standing State registers, enters as the opening baseline for OT1992.
+
+**Controlling Simulated Law:** The May 20, 1992 stay record's "Stay requirements on the renewed habeas presentation" holding is the only simulated proposition specific to this petition; it establishes the Barefoot stay standard's application to this record, not a certiorari-stage rule. No simulated holding decides the rule-of-four threshold for this petition or the ultimate miscarriage-of-justice question. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
+
+**Current Reusable Doctrine:** Murray v. Carrier's miscarriage-of-justice exception, McCleskey v. Zant's successive-petition bar, and the simulated Keeney v. Tamayo-Reyes hearing rule are already-entered background law, applied but not newly constructed in the May 20 stay record. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
+
+**Earlier Same-Term Decisions and Unresolved Dependencies:** This petition is the carried-forward remainder of the May 20, 1992 stay application; no OT1992 decision precedes it, and no later OT1992 event supplies its governing law.
+
+##### Issue 1: Whether the petition satisfies the ordinary rule-of-four threshold for a grant of certiorari
+
+**Other Governing Law and Material Authority:** The Court's ordinary practice grants certiorari on the vote of four Justices, independent of whether five votes exist to prevail on the merits. Barefoot v. Estelle, 463 U.S. 880 (1983), applied in the May 20 stay record, already required a "reasonable probability that four Justices would consider the issue sufficiently meritorious" as one prong of the stay standard; three Justices (Stone-Zsela, Blackmun, Souter) dissented from the stay denial on that basis. Murray v. Carrier, 477 U.S. 478 (1986), and McCleskey v. Zant, 499 U.S. 467 (1991), supply the substantive gateway the petition must eventually satisfy if certiorari is granted.
+
+**Open Point:** Whether a fourth vote exists among the six Justices who joined or concurred in the May 20 stay denial, sufficient to grant certiorari without deciding the underlying merits now.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Coleman seeks certiorari to obtain merits review of claims the state and lower federal courts have not reached on the merits, given the default and successive-petition bars. The Commonwealth seeks denial, relying on the Fourth Circuit's affirmance and the absence of any new fact since May 20. Neither party's certiorari-stage submission was independently recovered; this packet does not exceed the record already developed in the May 20 stay proceeding. [Record and authority sources](#sources-coleman-91-8336).
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Grant certiorari and set the case for briefing and argument at a later OT1992 event, reaching no merits question now; deny certiorari, leaving the Fourth Circuit's judgment and the underlying default and successive-petition bars undisturbed; or dismiss the petition as improvidently granted only if a procedural defect not now identified were later found. No fixed disposition is assumed here.
+
+**Consequences of Granting or Denying Relief:** A grant does not itself supply a hearing or relief; it only sets the case for merits review. A denial ends this petition without adjudicating actual innocence, ultimate guilt, or a general freestanding-innocence rule, consistent with the May 20 stay record's own reservations.
+
+**Material Source and Record Limits:** No fact beyond the May 20, 1992 stay record and the underlying district and appellate opinions is supplied. This module does not invent a cert-stage brief, oral argument, or any post-May 20, 1992 development.
+
+#### E. SOURCES
+
+<a id="sources-coleman-91-8336"></a>
+
+- [Official United States Reports, 504 U.S. 188 (the related May 20, 1992 stay denial)](https://tile.loc.gov/storage-services/service/ll/usrep/usrep504/usrep504188/usrep504188.pdf).
+- [Fourth Circuit opinion, 966 F.2d 1441](https://law.resource.org/pub/us/case/reporter/F2/966/966.F2d.1441.92-4005.html).
+- [District court opinion, 798 F. Supp. 1209](https://static.case.law/f-supp/798/cases/1209-01.json).
+- [OT1991 Canonical Decision Record, May 20, 1992 stay denial](../../OT1991/records/Coleman_v_Thompson_stay_application_1992-05-20.md).
+
+These sources support the identity, procedural history, and material record already established in the May 20, 1992 stay record; this petition adds no new fact to them.
+
+---
+
 ## Grubbs v. Delo
 
 **Listed docket:** A-324. **Event:** 1992-10-20.

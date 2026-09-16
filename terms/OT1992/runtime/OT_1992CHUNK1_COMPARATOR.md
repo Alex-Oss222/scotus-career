@@ -1,5 +1,31 @@
 # OT_1992CHUNK1_COMPARATOR
 
+## Coleman v. Thompson (petition disposition)
+
+**Listed docket:** Petition No. 91-8336; related No. A-877 (OT1991 stay application). **Event:** 1992-10-05 (simulated; carried forward from OT1991).
+
+**Procedural Category:** PROCEDURAL — disposition of a petition for certiorari at conference; not itself a merits adjudication unless certiorari is granted.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. PETITION COMPARATOR
+
+**Historical Event Date:** None. No historical Supreme Court order disposing of petition No. 91-8336 exists.
+
+**Historical Citation:** Not applicable; no further Supreme Court reporter entry followed 504 U.S. 188.
+
+**Historical Outcome:** The Commonwealth of Virginia executed Roger Keith Coleman on May 20, 1992, hours after the Supreme Court denied the stay recorded at 504 U.S. 188. No further Supreme Court disposition of petition No. 91-8336 was historically issued; the petition became moot upon his death and was never adjudicated on the merits.
+
+**Historical Holding or Limited Procedural Effect:** None; the case ended without further Court action. In 2006, DNA testing conducted at the Commonwealth's order on preserved biological evidence confirmed Coleman's guilt of the underlying offense. Both the execution and the 2006 testing postdate this simulation's May 20, 1992 in-world cutoff and are excluded from Sections I and II; this simulation does not admit the historical execution as an in-world fact, which is why the petition remains open for disposition here rather than moot.
+
+**Historical Authority:** This is historical background, not simulated precedent, and not an input establishing another Justice's provisional commitment on this petition.
+
+**Historical Sources:**
+
+- [Official United States Reports, 504 U.S. 188](https://tile.loc.gov/storage-services/service/ll/usrep/usrep504/usrep504188/usrep504188.pdf) (the May 20, 1992 stay denial; the last Supreme Court reporter entry in this matter).
+
+---
+
 ## Grubbs v. Delo
 
 **Listed docket:** A-324. **Event:** 1992-10-20.
