@@ -933,6 +933,20 @@ These links support identity, pre-decision facts, proceedings, arguments, and th
 
 **Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
+#### D. VERSION 1.2 SUPPLEMENT — CORRECTED PETITION UNDER THE ACTUAL MARTIN HOLDING
+
+**Version:** User-directed revision, v1.2, correcting this stopped matter now that Martin v. District of Columbia Court of Appeals (November 2, 1992) has actually been decided and the recovered petition has been read in full. This supplement supersedes Section II's Judgment and Remedy and Issue 1 positions above for this matter.
+
+**Approval Status:** Approved as written by the user.
+
+**Stone's Proposed Judgment or Disposition:** GRANT leave to proceed in forma pauperis; DENY certiorari in the ordinary course; DECLINE any prospective filing restriction.
+
+**Stone's Legal Position and Treatment of Precedent:** Martin requires a filing-specific frivolousness inquiry; a documented pattern of prior petitions is relevant but cannot substitute for examining the particular petition actually before the Court, the same rule already applied to Nos. 92-5584 and 92-5618 in Martin.
+
+**Stone's Proposed Holding:** The recovered petition's allegation that official interference prevented a timely appeal is sufficiently colorable to defeat a Rule 39.8 frivolousness finding, even though it does not by itself establish a basis for plenary review. The abusive-filing pattern does not convert this particular, non-conclusory allegation into a frivolous one.
+
+**Boundary or Reserved Question (v1.2):** No finding on the merits of the interference allegation beyond the threshold needed to permit filing without prepayment; no blanket prospective civil-certiorari filing restriction; no disposition of any future, unidentified filing.
+
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
 #### A. FILING / PROCEDURAL COMPARATOR

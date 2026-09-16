@@ -801,6 +801,20 @@ These links support identity, pre-decision facts, proceedings, arguments, and th
 
 **Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
+#### D. VERSION 1.2 SUPPLEMENT — EARLIER-HIRE COMPONENT UNDER §207(o)(2)'S TRANSITION RULE
+
+**Version:** User-directed revision, v1.2, correcting this stopped matter. The judgment below relied on 29 U.S.C. § 207(o)(2)'s transition rule for employees hired before April 15, 1986 (the compensatory-time practice then in effect may itself constitute the required agreement for that group) and on individual agreements for later hires — two distinct statutory tracks. Version 1.1 above addressed only the later-hire, individual-agreement track.
+
+**Approval Status:** Approved as written by the user.
+
+**Stone's Proposed Judgment or Disposition:** AFFIRM on both tracks.
+
+**Stone's Proposed Holding:** For employees hired before April 15, 1986, the established compensatory-time practice then in effect constitutes the required agreement under § 207(o)(2)'s transition rule. For employees hired later, the individual agreements addressed in version 1.1 remain valid because state law prevented the designated organization from bargaining over compensation. The holding is limited to employees for whom no legally authorized representative could make a § 207(o)(2)(A)(i) agreement.
+
+**Essential Reasoning and Record Application:** The transition rule and the individual-agreement route answer the same underlying problem — an employer facing a representative without authority to bargain a binding § 207(o)(2)(A)(i) agreement — for two different hire cohorts. Neither track compels recognition of an entity incapable of making the statutory agreement, and neither dispenses with the timing or consent conditions Congress actually enacted for its own cohort.
+
+**Boundary or Reserved Question (v1.2):** No holding for any employee for whom a legally authorized representative could have made the § 207(o)(2)(A)(i) agreement; no general rule about compensatory-time practices adopted after April 15, 1986.
+
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
 #### A. MERITS OR ORIGINAL-ACTION COMPARATOR
