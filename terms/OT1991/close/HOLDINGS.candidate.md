@@ -524,6 +524,24 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 - Clairol, Inc. v. Kingsley, 402 U.S. 902 — its summary disposition establishes no request-only definition; its judgment remains undisturbed.
 - Anderson v. Celebrezze, 460 U.S. 780 — applied to distinguish a summary disposition from adoption of every lower-court rationale.
 
+##### Whether §381(c)'s independent-contractor provision separately exempts company-office maintenance and, if so, on what terms
+
+**Holding:** Section 381(c) exempts sales, order-solicitation, or office maintenance in the taxing State performed by one or more independent contractors — defined by §381(d)(1) as a commission agent, broker, or other independent contractor who sells or solicits orders for more than one principal and holds himself out as such in the regular course of business, and excluded by §381(d)(2) from the separate term "representative." This exemption is separate from, and does not enlarge, the ancillary-means/independent-business-function standard governing a company's own representatives or employees; it reaches only activity conducted through a statutorily qualifying multiple-principal independent contractor. Ordinary use of a representative's home or temporary meeting place is not automatically a company-attributable office.
+
+**Proposition-level authority:** Parts I–II of Scalia's opinion, joined by White, Stevens, O'Connor, Souter and Thomas, supply six votes for this statutory-text holding; it was not separately contested by any Justice's writing.
+
+**Current force:** Remains controlling as stated.
+
+**Material application:** Wrigley's own sales representatives are not independent contractors within §381(d)(1); the office distinction and its independent-contractor exemption therefore have no application to Wrigley's uncompensated home arrangements, which are governed instead by the ancillary-means/independent-business-function standard in the preceding holding.
+
+**Limits and questions not reached:** No holding decides what showing establishes an independent contractor's required multiple-principal or holding-out status in a contested case, or the scope of an office actually maintained by a qualifying independent contractor.
+
+**Operative remedy or transition:** None independent of the preceding holding; this proposition supplies the statutory text needed to apply it and does not itself alter the judgment.
+
+**Treatment of earlier authority:**
+
+- Sorenson v. Secretary of Treasury, 475 U.S. 851 — applied for consistent meaning within the statute, preserving the office distinction in §381(c).
+
 ##### Whether genuinely trivial unprotected activities defeat §381 and whether Wrigley's combined recurring functions are trivial
 
 **Holding:** Activities outside protected solicitation do not defeat §381 protection when they are genuinely de minimis—too slight to create a nontrivial additional connection with the taxing State—but the inquiry considers the unprotected activities together and is not resolved by their small proportion of the company’s total sales. Wrigley’s recurring stale-gum exchanges, stock-check sales and supporting inventory together create that additional connection, making §381 protection unavailable for the assessed years.

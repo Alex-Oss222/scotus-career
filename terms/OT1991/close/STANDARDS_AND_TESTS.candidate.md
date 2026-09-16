@@ -14,13 +14,13 @@
 
 **Authority by component:**
 
-- Suspension of finality, restart of the full appeal period, and absence of an abandoned-ground exception: [United States v. Ibarra — Timely substantive reconsideration in a Government criminal appeal](../records/United_States_v_Ibarra_merits_1991-10-15.md), October 15, 1991; unanimous participating per curiam opinion.
+- Suspension of finality, restart of the full appeal period, and absence of an abandoned-ground exception: [United States v. Ibarra — Timely substantive reconsideration in a Government criminal appeal](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Ibarra_merits_1991-10-15.md), October 15, 1991; unanimous participating per curiam opinion.
 
 **Present operation effective:** *Ibarra*, October 15, 1991.
 
 **Open question:** *Ibarra* leaves bad-faith and successive motions outside its decision.
 
-**Holdings navigation:** [United States v. Ibarra, 502 U.S. 1 (1991) — Appellate finality](HOLDINGS.candidate.md#united-states-v-ibarra-502-us-1-1991).
+**Holdings navigation:** [United States v. Ibarra, 502 U.S. 1 (1991) — Appellate finality](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-ibarra-502-us-1-1991).
 
 ### Statutory channels for review of ongoing Federal Reserve Board proceedings
 
@@ -30,13 +30,13 @@
 
 **Authority by component:**
 
-- Exclusive review channels, bankruptcy-regulatory continuation, and the limit on *Kyne* intervention: [Board of Governors v. MCorp Financial — Jurisdiction to interrupt ongoing Board proceedings](../records/Board_of_Governors_v_MCorp_Financial_merits_1991-12-03.md), December 3, 1991; Stevens's unanimous participating opinion.
+- Exclusive review channels, bankruptcy-regulatory continuation, and the limit on *Kyne* intervention: [Board of Governors v. MCorp Financial — Jurisdiction to interrupt ongoing Board proceedings](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Board_of_Governors_v_MCorp_Financial_merits_1991-12-03.md), December 3, 1991; Stevens's unanimous participating opinion.
 
 **Present operation effective:** *MCorp*, December 3, 1991.
 
 **Open question:** Actual conflict with estate control at enforcement and validity of the underlying regulation remain outside this channel ruling.
 
-**Holdings navigation:** [Board of Governors of the Federal Reserve System v. MCorp Financial, Inc., 502 U.S. 32 (1991) — Bank regulatory review](HOLDINGS.candidate.md#board-of-governors-of-the-federal-reserve-system-v-mcorp-financial-inc-502-us-32-1991).
+**Holdings navigation:** [Board of Governors of the Federal Reserve System v. MCorp Financial, Inc., 502 U.S. 32 (1991) — Bank regulatory review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#board-of-governors-of-the-federal-reserve-system-v-mcorp-financial-inc-502-us-32-1991).
 
 ### An appellate brief functioning as a notice of appeal
 
@@ -46,11 +46,11 @@
 
 **Authority by component:**
 
-- Objective content, timely functional compliance, and mistaken appellate filing: [Smith v. Barry — Law of the decision, Holding and operative rule](../records/Smith_v_Barry_merits_1992-01-14.md), January 14, 1992; O'Connor's opinion joined by eight Justices. Scalia's judgment concurrence is not counted as joining the full rationale.
+- Objective content, timely functional compliance, and mistaken appellate filing: [Smith v. Barry — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Smith_v_Barry_merits_1992-01-14.md), January 14, 1992; O'Connor's opinion joined by eight Justices. Scalia's judgment concurrence is not counted as joining the full rationale.
 
 **Present operation effective:** *Smith v. Barry*, January 14, 1992.
 
-**Holdings navigation:** [Smith v. Barry, 502 U.S. 244 (1992) — Appellate jurisdiction and notices of appeal](HOLDINGS.candidate.md#smith-v-barry-502-us-244-1992).
+**Holdings navigation:** [Smith v. Barry, 502 U.S. 244 (1992) — Appellate jurisdiction and notices of appeal](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#smith-v-barry-502-us-244-1992).
 
 ### Modification of institutional consent decrees
 
@@ -60,15 +60,15 @@
 
 **Authority by component:**
 
-- Significant change, inequity, movant's burden, and significance of accepted risk: [Rufo v. Inmates of Suffolk County Jail — Threshold for modifying an institutional consent decree](../records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md), January 15, 1992.
-- Responsive modification, preservation of remaining purposes, and constitutional and financial limits: [Rufo — Fit and limits of the proposed modification](../records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md), January 15, 1992. Both components are controlled by Stone's opinion joined by White, Scalia, Kennedy, and Souter; O'Connor's remand vote does not join that rationale.
+- Significant change, inequity, movant's burden, and significance of accepted risk: [Rufo v. Inmates of Suffolk County Jail — Threshold for modifying an institutional consent decree](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md), January 15, 1992.
+- Responsive modification, preservation of remaining purposes, and constitutional and financial limits: [Rufo — Fit and limits of the proposed modification](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Rufo_v_Inmates_of_Suffolk_County_Jail_merits_1992-01-15.md), January 15, 1992. Both components are controlled by Stone's opinion joined by White, Scalia, Kennedy, and Souter; O'Connor's remand vote does not join that rationale.
 
 **Present operation effective:** *Rufo*, January 15, 1992.
 
 
 **Sequence or decisionmaker:** The decree remains binding until lawfully modified; a request for modification does not itself suspend its obligations.
 
-**Holdings navigation:** [Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail, 502 U.S. 367 (1992) — Prospective equitable relief](HOLDINGS.candidate.md#rufo-v-inmates-of-suffolk-county-jail-rapone-v-inmates-of-suffolk-county-jail-502-us-367-1992).
+**Holdings navigation:** [Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail, 502 U.S. 367 (1992) — Prospective equitable relief](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#rufo-v-inmates-of-suffolk-county-jail-rapone-v-inmates-of-suffolk-county-jail-502-us-367-1992).
 
 ### Collateral Rule 11 sanctions despite absence of merits jurisdiction
 
@@ -78,13 +78,13 @@
 
 **Authority by component:**
 
-- Rule-based authority, collateral character, and Article III limit: [Willy v. Coastal Corp. — This collateral Rule 11 sanction survives the jurisdictional ruling](../records/Willy_v_Coastal_Corp_merits_1992-03-03.md), March 3, 1992; Stone's unanimous opinion, extending *Cooter & Gell* from voluntary dismissal to the presented jurisdictional defect.
+- Rule-based authority, collateral character, and Article III limit: [Willy v. Coastal Corp. — This collateral Rule 11 sanction survives the jurisdictional ruling](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Willy_v_Coastal_Corp_merits_1992-03-03.md), March 3, 1992; Stone's unanimous opinion, extending *Cooter & Gell* from voluntary dismissal to the presented jurisdictional defect.
 
 **Present operation effective:** *Willy*, March 3, 1992.
 
 **Exceptions and limits:** Coercive discovery serving an unauthorized merits action does not acquire this completed sanction's independence. General inherent sanctioning power is not decided.
 
-**Holdings navigation:** [Willy v. Coastal Corp., 503 U.S. 131 (1992) — Collateral procedural authority](HOLDINGS.candidate.md#willy-v-coastal-corp-503-us-131-1992).
+**Holdings navigation:** [Willy v. Coastal Corp., 503 U.S. 131 (1992) — Collateral procedural authority](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#willy-v-coastal-corp-503-us-131-1992).
 
 ### Judicial exhaustion and damages-only federal prison medical-care claims
 
@@ -94,14 +94,14 @@
 
 **Authority by component:**
 
-- Statutory primacy, judicial discretion, and actual congressional scope: [McCarthy v. Madigan — Statutory design governs the exhaustion inquiry](../records/McCarthy_v_Madigan_merits_1992-03-04.md), March 4, 1992.
-- Damages-only BOP exception and its operative procedural premises: [McCarthy — This damages-only claim need not pass through the general BOP process](../records/McCarthy_v_Madigan_merits_1992-03-04.md), March 4, 1992. Blackmun's opinion joined by Stone, White, Stevens, O'Connor, Kennedy, and Souter controls both components; Scalia and Thomas join only the result on their no-compensation ground.
+- Statutory primacy, judicial discretion, and actual congressional scope: [McCarthy v. Madigan — Statutory design governs the exhaustion inquiry](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/McCarthy_v_Madigan_merits_1992-03-04.md), March 4, 1992.
+- Damages-only BOP exception and its operative procedural premises: [McCarthy — This damages-only claim need not pass through the general BOP process](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/McCarthy_v_Madigan_merits_1992-03-04.md), March 4, 1992. Blackmun's opinion joined by Stone, White, Stevens, O'Connor, Kennedy, and Souter controls both components; Scalia and Thomas join only the result on their no-compensation ground.
 
 **Present operation effective:** *McCarthy*, March 4, 1992.
 
 **Open question:** Prospective relief, a procedure able to award the requested compensation, and materially different administrative adjudication are not decided. The rule supplies no exception to a congressional command and no extension of *Bivens* to a new setting.
 
-**Holdings navigation:** [McCarthy v. Madigan, 503 U.S. 140 (1992) — Administrative exhaustion](HOLDINGS.candidate.md#mccarthy-v-madigan-503-us-140-1992).
+**Holdings navigation:** [McCarthy v. Madigan, 503 U.S. 140 (1992) — Administrative exhaustion](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#mccarthy-v-madigan-503-us-140-1992).
 
 ### Interlocutory review of district-court bankruptcy appellate orders
 
@@ -110,11 +110,11 @@
 **Current rule:** Section 158(d) does not preclude §1292 review of district-court bankruptcy appellate orders. Review remains subject to the particular §1292 route's requirements; under §1292(b), these include a certified controlling legal question, substantial ground for difference of opinion, material advancement of termination, timely application and circuit permission. The construction creates no automatic appeal and does not extend district-court language to bankruptcy appellate panels.
 
 **Authority by component:**
-- Coexistence and preserved conditions: [Connecticut National Bank v. Germain](../records/Connecticut_National_Bank_v_Germain_merits_1992-03-09.md), March 9, 1992, “Section 158(d) does not exclude eligible interlocutory review”; Thomas for Stone, Scalia, Kennedy and Souter. The four judgment-only votes do not supply the text/coexistence rationale.
+- Coexistence and preserved conditions: [Connecticut National Bank v. Germain](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Connecticut_National_Bank_v_Germain_merits_1992-03-09.md), March 9, 1992, “Section 158(d) does not exclude eligible interlocutory review”; Thomas for Stone, Scalia, Kennedy and Souter. The four judgment-only votes do not supply the text/coexistence rationale.
 
 **Present operation effective:** Germain, March 9, 1992.
 
-**Holdings navigation:** [Connecticut National Bank v. Germain, 503 U.S. 249 (1992) — Bankruptcy appellate jurisdiction](HOLDINGS.candidate.md#connecticut-national-bank-v-germain-503-us-249-1992).
+**Holdings navigation:** [Connecticut National Bank v. Germain, 503 U.S. 249 (1992) — Bankruptcy appellate jurisdiction](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#connecticut-national-bank-v-germain-503-us-249-1992).
 
 ### Punitive pollution penalties under the Clean Water Act and RCRA
 
@@ -130,7 +130,7 @@
 Enacted compliance duties and conceded prospective or coercive compliance remedies remain effective and distinct; no general immunity from every environmental remedy follows.
 
 **Authority by component:**
-- Both citizen-suit routes: [United States Department of Energy v. Ohio](../records/United_States_Department_of_Energy_v_Ohio_merits_1992-04-21.md), April 21, 1992, holding 1, Souter's Part II-A for Stone, O'Connor, Scalia, Kennedy and Thomas.
+- Both citizen-suit routes: [United States Department of Energy v. Ohio](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_Department_of_Energy_v_Ohio_merits_1992-04-21.md), April 21, 1992, holding 1, Souter's Part II-A for Stone, O'Connor, Scalia, Kennedy and Thomas.
 - Clean Water Act process/sanctions: the same record, holding 2, Part II-B.1, same six Justices.
 - Civil-penalty clause and federal-law limitation: the same record, holding 3, Part II-B.2, same six Justices.
 - RCRA facilities: the same record, holding 4, Part II-C, all nine Justices.
@@ -139,7 +139,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** Other express penalty waivers, later enactments and any particular coercive contempt order are outside the decision. Federal approval is not held irrelevant to every aspect of state permitting; the source distinction concerns the punitive waiver.
 
-**Holdings navigation:** [United States Department of Energy v. Ohio, 503 U.S. 607 (1992) — Federal sovereign immunity](HOLDINGS.candidate.md#united-states-department-of-energy-v-ohio-503-us-607-1992).
+**Holdings navigation:** [United States Department of Energy v. Ohio, 503 U.S. 607 (1992) — Federal sovereign immunity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-department-of-energy-v-ohio-503-us-607-1992).
 
 ### Factual frivolousness and review of fee-screening dismissals
 
@@ -148,7 +148,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** A court may dismiss a claim proceeding without prepayment when its factual allegations are clearly baseless—irrational or wholly incredible—even without judicially noticeable contrary facts. The initial assessment must favor the plaintiff; mere improbability, extraordinary circumstances or ordinary disbelief is insufficient, and screening cannot decide genuine factual disputes. Review is for abuse of discretion, with legal errors independently correctable. The reviewing court must address relevant circumstances, including pro se status, resolution of genuine factual disputes, legal errors, adequacy of reasons, prejudice and whether more specific pleading could cure the defect. Such dismissal is not a merits adjudication barring a paid complaint with the same allegations; its possible effect on later fee-screening decisions makes prejudice and curability material.
 
 **Authority by component:**
-- Irrational-or-wholly-incredible threshold and plaintiff-favorable limit: [Denton v. Hernandez](../records/Denton_v_Hernandez_merits_1992-05-04.md), May 4, 1992, “Factual frivolousness under section 1915(d).”
+- Irrational-or-wholly-incredible threshold and plaintiff-favorable limit: [Denton v. Hernandez](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Denton_v_Hernandez_merits_1992-05-04.md), May 4, 1992, “Factual frivolousness under section 1915(d).”
 - Review, relevant circumstances and nonmerits character: the same record, “Appellate review and the consequences of dismissal.” O'Connor for Stone, White, Scalia, Kennedy, Souter and Thomas controls both propositions; the dissenters' agreement with the factual standard is not a whole-opinion join.
 
 **Present operation effective:** Denton, May 4, 1992.
@@ -157,7 +157,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Open question:** No absolute notice-and-amendment entitlement or comprehensive preclusion rule for later fee applications is adopted.
 
-**Holdings navigation:** [Denton v. Hernandez, 504 U.S. 25 (1992) — Fee-waiver screening and appellate review](HOLDINGS.candidate.md#denton-v-hernandez-504-us-25-1992).
+**Holdings navigation:** [Denton v. Hernandez, 504 U.S. 25 (1992) — Fee-waiver screening and appellate review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#denton-v-hernandez-504-us-25-1992).
 
 ### Concrete personal interests and procedural citizen-suit standing
 
@@ -166,7 +166,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Authorization for any person to sue does not supply standing for only the public's undifferentiated interest in lawful administration. A procedural right must protect the plaintiff's own threatened concrete interest; when that connection exists, the plaintiff need not prove that the required procedure will certainly alter the ultimate agency decision. Aesthetic, recreational or professional wildlife interests may qualify, but past visits and indefinite return intentions without concrete plans or another supported basis for imminent renewed exposure do not establish threatened interference with personal use. At summary judgment the plaintiff must support challenged standing elements with specific facts by affidavit or other evidence, with favorable reasonable inferences available; allegations cannot replace missing evidence.
 
 **Authority by component:**
-- Stage-specific evidentiary requirement and existing injury, traceability and redressability elements: [Lujan v. Defenders of Wildlife, “1. Article III elements must be supported at the litigation stage”](../records/Lujan_v_Defenders_of_Wildlife_merits_1992-06-12.md), June 12, 1992; Scalia Part II, joined by White, Kennedy, Souter and Thomas (five).
+- Stage-specific evidentiary requirement and existing injury, traceability and redressability elements: [Lujan v. Defenders of Wildlife, “1. Article III elements must be supported at the litigation stage”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Lujan_v_Defenders_of_Wildlife_merits_1992-06-12.md), June 12, 1992; Scalia Part II, joined by White, Kennedy, Souter and Thomas (five).
 - Prospective personal-use boundary: Lujan, “2. Indefinite return intentions and general species interests do not establish threatened personal injury here,” June 12, 1992; Scalia Part III-A, same five-Justice opinion; Stone separately supports the record-specific conclusion.
 - Citizen-suit and procedural-right boundary: Lujan, “3. Citizen-suit authorization does not dispense with a threatened concrete interest,” June 12, 1992; Scalia Part IV, same five Justices.
 
@@ -174,7 +174,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** No purchased-ticket or particular-document requirement is adopted. The redressability application to absent agencies, binding force of the challenged regulation upon those agencies, effect of particular funding changes and ESA §7(a)(2)'s foreign reach are not controlling holdings.
 
-**Holdings navigation:** [Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) — Standing and personal injury](HOLDINGS.candidate.md#lujan-v-defenders-of-wildlife-504-us-555-1992).
+**Holdings navigation:** [Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) — Standing and personal injury](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#lujan-v-defenders-of-wildlife-504-us-555-1992).
 
 ### The domestic-relations exception to diversity jurisdiction
 
@@ -183,12 +183,12 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The statutory domestic-relations exception is limited to issuance of divorce, alimony and child-custody decrees. It does not exclude an otherwise proper diverse-parties tort action for damages over alleged child abuse that seeks no such decree. Article III imposes no categorical domestic-relations bar. Family relationship alone does not supply Younger or Burford abstention: their ordinary prerequisites remain, including an ongoing state proceeding for the interference asserted under Younger and the relevant unsettled-status or state-policy interference for Burford.
 
 **Authority by component:**
-- Statutory exception and constitutional boundary: [Ankenbrandt v. Richards, “Diversity jurisdiction and the limited domestic-relations exception”](../records/Ankenbrandt_v_Richards_merits_1992-06-15.md), June 15, 1992; White, joined by O'Connor, Scalia, Kennedy and Souter (five).
+- Statutory exception and constitutional boundary: [Ankenbrandt v. Richards, “Diversity jurisdiction and the limited domestic-relations exception”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Ankenbrandt_v_Richards_merits_1992-06-15.md), June 15, 1992; White, joined by O'Connor, Scalia, Kennedy and Souter (five).
 - Preserved abstention limits: Ankenbrandt, “Younger supplies no ground for dismissal” and “Burford supplies no ground for dismissal on this record,” June 15, 1992; same five Justices, applying rather than changing those doctrines.
 
 **Present operation effective:** Ankenbrandt v. Richards, June 15, 1992.
 
-**Holdings navigation:** [Ankenbrandt v. Richards, 504 U.S. 689 (1992) — Diversity jurisdiction and domestic-relations abstention](HOLDINGS.candidate.md#ankenbrandt-v-richards-504-us-689-1992).
+**Holdings navigation:** [Ankenbrandt v. Richards, 504 U.S. 689 (1992) — Diversity jurisdiction and domestic-relations abstention](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ankenbrandt-v-richards-504-us-689-1992).
 
 ### Commercial sovereign debt and direct effects under the FSIA
 
@@ -197,14 +197,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The nature of the conduct controls commercial character: conduct of the kind a private market participant can undertake is commercial despite a sovereign public purpose. Issuing and rescheduling ordinary negotiable debt does not cease to be commercial because it implements a monetary program or refinances existing obligations. An effect is direct when it follows as an immediate consequence of the activity; the statute adds no separate substantiality or foreseeability requirement, although wholly trivial effects remain outside its ordinary reach. Missing a New York payment contractually required after the holder validly exercises an offered payment option supplies a direct United States effect even when the holders are foreign and their ultimate economic losses occur abroad.
 
 **Authority by component:**
-- Nature rather than purpose: [Republic of Argentina v. Weltover, Inc., “1. Ordinary negotiable debt remains commercial despite a sovereign monetary purpose”](../records/Republic_of_Argentina_v_Weltover_Inc_merits_1992-06-12.md), June 12, 1992; Scalia, joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas (eight).
+- Nature rather than purpose: [Republic of Argentina v. Weltover, Inc., “1. Ordinary negotiable debt remains commercial despite a sovereign monetary purpose”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Republic_of_Argentina_v_Weltover_Inc_merits_1992-06-12.md), June 12, 1992; Scalia, joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas (eight).
 - Direct domestic effect: Weltover, “2. Missing the contractually required New York payment has a direct domestic effect,” June 12, 1992; same eight Justices.
 
 **Present operation effective:** Republic of Argentina v. Weltover, Inc., June 12, 1992.
 
 **Exceptions and limits:** All sovereign financial activity is not automatically commercial, and every dollar-denominated payment is not automatically a direct domestic effect. Foreign-sovereign constitutional personhood, an independent personal-jurisdiction claim, contractual liability, attachment and execution remain unresolved.
 
-**Holdings navigation:** [Republic of Argentina v. Weltover, Inc., 504 U.S. 607 (1992) — Foreign sovereign immunity](HOLDINGS.candidate.md#republic-of-argentina-v-weltover-inc-504-us-607-1992).
+**Holdings navigation:** [Republic of Argentina v. Weltover, Inc., 504 U.S. 607 (1992) — Foreign sovereign immunity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#republic-of-argentina-v-weltover-inc-504-us-607-1992).
 
 ### Red Cross charter jurisdiction and removal
 
@@ -213,7 +213,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The charter's sue-and-be-sued authorization expressly naming State or Federal courts confers original federal jurisdiction over Red Cross actions. Specific mention of federal courts permits the jurisdictional construction that general corporate-capacity language does not; jurisdiction rests on that grant, not federal incorporation alone. Section 1441 therefore permits removal of a Red Cross action alleging state-law torts without a §1331 federal claim on the face of the complaint. Article III permits that particular corporate-party grant even though state law supplies the immediate claim.
 
 **Authority by component:**
-- Charter construction: [American National Red Cross v. S. G., “The express federal-court clause grants original jurisdiction”](../records/American_National_Red_Cross_v_S_G_merits_1992-06-19.md), June 19, 1992.
+- Charter construction: [American National Red Cross v. S. G., “The express federal-court clause grants original jurisdiction”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/American_National_Red_Cross_v_S_G_merits_1992-06-19.md), June 19, 1992.
 - Removal distinct from §1331: Red Cross, “The special grant supports removal without a §1331 complaint,” June 19, 1992.
 - Constitutional permission: Red Cross, “Article III permits the special corporate-party grant,” June 19, 1992.
 - Each proposition: Souter, joined by White, Blackmun, Stevens and Thomas (five).
@@ -222,7 +222,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** Section 1349's application to nonstock corporations, materially different charters, diversity, joinder and independently available abstention remain unresolved. Jurisdiction creates no federal substantive tort law, immunity or liability.
 
-**Holdings navigation:** [American National Red Cross v. S. G., 505 U.S. 247 (1992) — Federal corporate charters and removal](HOLDINGS.candidate.md#american-national-red-cross-v-s-g-505-us-247-1992).
+**Holdings navigation:** [American National Red Cross v. S. G., 505 U.S. 247 (1992) — Federal corporate charters and removal](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#american-national-red-cross-v-s-g-505-us-247-1992).
 
 ## Civil rights and constitutional remedies
 
@@ -234,11 +234,11 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Personhood, capacity distinction, personal-payment immunity limit, and retained defenses: [Hafer v. Melo — Individual-capacity §1983 coverage of official conduct](../records/Hafer_v_Melo_merits_1991-11-05.md), November 5, 1991; O'Connor's unanimous participating opinion.
+- Personhood, capacity distinction, personal-payment immunity limit, and retained defenses: [Hafer v. Melo — Individual-capacity §1983 coverage of official conduct](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Hafer_v_Melo_merits_1991-11-05.md), November 5, 1991; O'Connor's unanimous participating opinion.
 
 **Present operation effective:** *Hafer*, November 5, 1991.
 
-**Holdings navigation:** [Hafer v. Melo, 502 U.S. 21 (1991) — Individual-capacity liability](HOLDINGS.candidate.md#hafer-v-melo-502-us-21-1991).
+**Holdings navigation:** [Hafer v. Melo, 502 U.S. 21 (1991) — Individual-capacity liability](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#hafer-v-melo-502-us-21-1991).
 
 ### Municipal responsibility and the underlying federal deprivation
 
@@ -248,11 +248,11 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Rejection of the additional element and separation of deprivation from attribution: [Collins v. City of Harker Heights — No extra governmental-abuse element under §1983](../records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md), February 26, 1992; Part A of Stevens's opinion, joined by all nine Justices.
+- Rejection of the additional element and separation of deprivation from attribution: [Collins v. City of Harker Heights — No extra governmental-abuse element under §1983](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md), February 26, 1992; Part A of Stevens's opinion, joined by all nine Justices.
 
 **Present operation effective:** *Collins*, February 26, 1992.
 
-**Holdings navigation:** [Collins v. City of Harker Heights, 503 U.S. 115 (1992) — Municipal liability and public employment](HOLDINGS.candidate.md#collins-v-city-of-harker-heights-503-us-115-1992).
+**Holdings navigation:** [Collins v. City of Harker Heights, 503 U.S. 115 (1992) — Municipal liability and public employment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#collins-v-city-of-harker-heights-503-us-115-1992).
 
 ### Voluntary public employment and substantive workplace safety duties
 
@@ -262,14 +262,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- No employment-based general safety duty or custody: [Collins v. City of Harker Heights — Voluntary public employment creates no general constitutional safety duty](../records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md), February 26, 1992; Part B of Stevens's unanimous opinion.
-- State entitlement does not alone establish arbitrary deprivation: [Collins — These pleaded omissions do not establish constitutional arbitrariness](../records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md), February 26, 1992; Part C joined by White, Blackmun, O'Connor, Scalia, Kennedy, Souter, and Thomas with Stevens. Stone's distinct concurrence is not part of this component's authority.
+- No employment-based general safety duty or custody: [Collins v. City of Harker Heights — Voluntary public employment creates no general constitutional safety duty](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md), February 26, 1992; Part B of Stevens's unanimous opinion.
+- State entitlement does not alone establish arbitrary deprivation: [Collins — These pleaded omissions do not establish constitutional arbitrariness](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Collins_v_City_of_Harker_Heights_merits_1992-02-26.md), February 26, 1992; Part C joined by White, Blackmun, O'Connor, Scalia, Kennedy, Souter, and Thomas with Stevens. Stone's distinct concurrence is not part of this component's authority.
 
 **Present operation effective:** *Collins*, February 26, 1992.
 
 **Open question:** Actual compulsion, deliberately inflicted bodily injury, procedural due process, and a properly alleged affirmative-danger claim are not resolved. *Collins* creates neither a general affirmative-danger test nor a categorical rejection of one.
 
-**Holdings navigation:** [Collins v. City of Harker Heights, 503 U.S. 115 (1992) — Municipal liability and public employment](HOLDINGS.candidate.md#collins-v-city-of-harker-heights-503-us-115-1992).
+**Holdings navigation:** [Collins v. City of Harker Heights, 503 U.S. 115 (1992) — Municipal liability and public employment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#collins-v-city-of-harker-heights-503-us-115-1992).
 
 ### Compensatory remedies for intentional Title IX discrimination
 
@@ -279,14 +279,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Appropriate relief in an existing action and availability of Title IX compensation: [Franklin v. Gwinnett County Public Schools — Compensatory relief in the established Title IX action](../records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md), February 26, 1992.
-- Rejection of the categorical funding-notice bar: [Franklin — Notice does not bar damages for the pleaded intentional violation](../records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md), February 26, 1992. Both holdings rest on White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, and Souter; Scalia and Thomas supply judgment votes only on a narrower statutory ground.
+- Appropriate relief in an existing action and availability of Title IX compensation: [Franklin v. Gwinnett County Public Schools — Compensatory relief in the established Title IX action](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md), February 26, 1992.
+- Rejection of the categorical funding-notice bar: [Franklin — Notice does not bar damages for the pleaded intentional violation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Franklin_v_Gwinnett_County_Public_Schools_merits_1992-02-26.md), February 26, 1992. Both holdings rest on White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, and Souter; Scalia and Thomas supply judgment votes only on a narrower statutory ground.
 
 **Present operation effective:** *Franklin*, February 26, 1992.
 
 **Open question:** The decision supplies no final recipient-attribution rule, punitive remedy, liability for unintended discriminatory effects, or resolution of genuinely ambiguous funding conditions.
 
-**Holdings navigation:** [Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992) — Statutory discrimination remedies](HOLDINGS.candidate.md#franklin-v-gwinnett-county-public-schools-503-us-60-1992).
+**Holdings navigation:** [Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992) — Statutory discrimination remedies](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#franklin-v-gwinnett-county-public-schools-503-us-60-1992).
 
 ### Private enforcement of Adoption Assistance Act reasonable-efforts and reporting clauses
 
@@ -295,7 +295,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Read within the Act's plan and administrative-enforcement structure, §671(a)(15) creates no individual right enforceable under §1983 to compel the asserted reasonable efforts to prevent removal or reunify families. An approved plan's commitment, §671(a)(3)'s statewide-operation requirement and caseworker deficiencies do not supply that missing right. Nor does §671(a)(15) imply a separate private action: beneficial purpose does not establish congressional intent to create the requested remedy. Section 671(a)(9) requires a plan to provide reporting to the appropriate court or law-enforcement agency when a state agency has reason to believe a child's home or institution is unsuitable because of neglect, abuse or exploitation and the child's care is paid for in whole or in part under Title IV-E or IV-B. That administrative direction does not create the asserted private §1983 right or an implied action to obtain caseworker relief. The §1983-right and implied-action inquiries remain distinct; failure to imply an action does not bar an otherwise available enacted §1983 remedy.
 
 **Authority by component:**
-- No individual §671(a)(15) right: [Suter v. Artist M.](../records/Suter_v_Artist_M_merits_1992-03-25.md), March 25, 1992, “Section 671(a)(15) supplies no individual reasonable-efforts right enforceable under §1983,” Part II.
+- No individual §671(a)(15) right: [Suter v. Artist M.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Suter_v_Artist_M_merits_1992-03-25.md), March 25, 1992, “Section 671(a)(15) supplies no individual reasonable-efforts right enforceable under §1983,” Part II.
 - No separate implied (15) action: the same record, “Section 671(a)(15) supplies no separate implied action,” Part III.
 - Reporting trigger and absence of asserted §1983 right: the same record, “The asserted §671(a)(9) reporting claim is not enforceable through §1983,” Part IV-A.
 - No implied reporting action: the same record, “The asserted §671(a)(9) claim supplies no separate implied action,” Part IV-B. White for O'Connor, Scalia, Kennedy, Souter and Thomas supplies six controlling joins for each component.
@@ -306,7 +306,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Open question:** Private enforceability of §671(a)(16), read with §675(1) and §675(5)(B), remains undecided, as do the preserved claim's merits and proper relief.
 
-**Holdings navigation:** [Suter v. Artist M., 503 U.S. 347 (1992) — Child-welfare statutory enforcement](HOLDINGS.candidate.md#suter-v-artist-m-503-us-347-1992-1).
+**Holdings navigation:** [Suter v. Artist M., 503 U.S. 347 (1992) — Child-welfare statutory enforcement](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#suter-v-artist-m-503-us-347-1992-1).
 
 ### Private use of state seizure procedures and qualified immunity
 
@@ -315,13 +315,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Private litigants invoking those procedures do not receive Harlow's objective immunity from suit merely because qualifying joint action is attributable to the State under §1983. State attribution and immunity eligibility remain separate; reasonable reliance on legislation does not itself establish this immunity. Each defendant's attribution and other liability predicates still require independent determination.
 
 **Authority by component:**
-- Private-immunity exclusion and separate attribution: [Wyatt v. Cole, “Private litigants and immunity from suit”](../records/Wyatt_v_Cole_merits_1992-05-18.md), May 18, 1992; O'Connor, joined in full by White, Blackmun, Stevens, Scalia and Kennedy (six); Stone adds a join only for replevin and the reservations (seven at that scope).
+- Private-immunity exclusion and separate attribution: [Wyatt v. Cole, “Private litigants and immunity from suit”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Wyatt_v_Cole_merits_1992-05-18.md), May 18, 1992; O'Connor, joined in full by White, Blackmun, Stevens, Scalia and Kennedy (six); Stone adds a join only for replevin and the reservations (seven at that scope).
 
 **Present operation effective:** Wyatt v. Cole, May 18, 1992.
 
 **Open question:** The existence and scope of a distinct good-faith or probable-cause defense, any additional plaintiff's elements and allocation of any such burden remain undecided. Eligible public officials' immunity is unchanged.
 
-**Holdings navigation:** [Wyatt v. Cole, 504 U.S. 158 (1992) — Section 1983 immunity](HOLDINGS.candidate.md#wyatt-v-cole-504-us-158-1992).
+**Holdings navigation:** [Wyatt v. Cole, 504 U.S. 158 (1992) — Section 1983 immunity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#wyatt-v-cole-504-us-158-1992).
 
 ## Criminal procedure, evidence, and punishment
 
@@ -333,14 +333,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Exception-specific absence of a production or unavailability gate: [White v. Illinois — No universal production or unavailability prerequisite](../records/White_v_Illinois_merits_1992-01-15.md), January 15, 1992; Part I of Stone's opinion joined by all nine Justices.
-- Rejection of a formal-accusation-only boundary: [White — The government's categorical definition of witness is rejected](../records/White_v_Illinois_merits_1992-01-15.md), January 15, 1992; Part II joined by White, Blackmun, Stevens, O'Connor, Kennedy, and Souter with Stone. Scalia and Thomas do not join that component.
+- Exception-specific absence of a production or unavailability gate: [White v. Illinois — No universal production or unavailability prerequisite](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/White_v_Illinois_merits_1992-01-15.md), January 15, 1992; Part I of Stone's opinion joined by all nine Justices.
+- Rejection of a formal-accusation-only boundary: [White — The government's categorical definition of witness is rejected](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/White_v_Illinois_merits_1992-01-15.md), January 15, 1992; Part II joined by White, Blackmun, Stevens, O'Connor, Kennedy, and Souter with Stone. Scalia and Thomas do not join that component.
 
 **Present operation effective:** *White v. Illinois*, January 15, 1992.
 
 **Exceptions and limits:** Former-testimony unavailability analysis, constitutional reliability outside firmly rooted exceptions, and safeguards for altered presentation of trial witnesses remain distinct. No later testimonial or primary-purpose test is adopted.
 
-**Holdings navigation:** [White v. Illinois, 502 U.S. 346 (1992) — Confrontation and hearsay](HOLDINGS.candidate.md#white-v-illinois-502-us-346-1992).
+**Holdings navigation:** [White v. Illinois, 502 U.S. 346 (1992) — Confrontation and hearsay](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#white-v-illinois-502-us-346-1992).
 
 ### Physical injury in a nontrivial malicious custodial beating
 
@@ -350,13 +350,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Rejection of a significant-injury floor at the adopted narrow scope: [Hudson v. McMillian — Limited injury does not defeat this established nontrivial malicious beating](../records/Hudson_v_McMillian_merits_1992-02-25.md), February 25, 1992; Part A of O'Connor's opinion joined by Stone, White, Stevens, Kennedy, and Souter. The proposed universal *Whitley* extension has only four votes and is noncontrolling.
+- Rejection of a significant-injury floor at the adopted narrow scope: [Hudson v. McMillian — Limited injury does not defeat this established nontrivial malicious beating](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Hudson_v_McMillian_merits_1992-02-25.md), February 25, 1992; Part A of O'Connor's opinion joined by Stone, White, Stevens, Kennedy, and Souter. The proposed universal *Whitley* extension has only four votes and is noncontrolling.
 
 **Present operation effective:** *Hudson*, February 25, 1992.
 
 **Open question:** A comprehensive mental-state rule for other force settings, psychological injury alone, and a general definition of punishment covering isolated unauthorized assaults remain unresolved. Medical-care, confinement-condition, personal-defense, and compensation rules remain distinct.
 
-**Holdings navigation:** [Hudson v. McMillian, 503 U.S. 1 (1992) — Prisoners’ rights](HOLDINGS.candidate.md#hudson-v-mcmillian-503-us-1-1992).
+**Holdings navigation:** [Hudson v. McMillian, 503 U.S. 1 (1992) — Prisoners’ rights](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#hudson-v-mcmillian-503-us-1-1992).
 
 ### Review of Guidelines departures resting on invalid grounds
 
@@ -365,7 +365,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** A departure based on a factor forbidden by the Commission, or already fully considered in the applicable range, is an incorrect Guidelines application under §3742(f)(1). An express prohibitory policy statement is authoritative guidance in applying the relevant Guideline; the arrest record itself cannot supply a departure ground. Once the challenger establishes reliance on an invalid factor, remand is required unless the party defending the sentence persuades the reviewing court, from the whole record, that the district court would have imposed the same sentence without it. The challenger need not prove that the error determined the sentence. Even if that error was harmless, §3742(f)(2) independently requires a reasonable departure extent justified by valid grounds the sentencing court actually identified. That the court could lawfully have imposed the sentence does not establish either actual causal harmlessness or permission for an appellate court to invent departure grounds.
 
 **Authority by component:**
-- Invalid-factor error and express policy prohibition: [Williams v. United States](../records/Williams_v_United_States_merits_1992-03-09.md), March 9, 1992, “An impermissible departure ground is a Guidelines application error.”
+- Invalid-factor error and express policy prohibition: [Williams v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Williams_v_United_States_merits_1992-03-09.md), March 9, 1992, “An impermissible departure ground is a Guidelines application error.”
 - Same-sentence inquiry and burden sequence: the same record, “Harmlessness requires the same sentence without the invalid factor.”
 - Independent reasonableness inquiry and actual-ground limit: the same record, “Departure reasonableness remains a separate condition of affirmance.” O'Connor's opinion has seven joins at each level: Stone, Blackmun, Stevens, O'Connor, Scalia, Souter and Thomas.
 
@@ -373,7 +373,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** This is nonconstitutional error governed by Rule 52(a); no Chapman beyond-reasonable-doubt burden is adopted. The decision does not make every policy statement binding for every purpose or decide whether old nonsimilar convictions support a departure.
 
-**Holdings navigation:** [Williams v. United States, 503 U.S. 193 (1992) — Guidelines departure review](HOLDINGS.candidate.md#williams-v-united-states-503-us-193-1992).
+**Holdings navigation:** [Williams v. United States, 503 U.S. 193 (1992) — Guidelines departure review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#williams-v-united-states-503-us-193-1992).
 
 ### Adult Guidelines ceiling for juvenile detention
 
@@ -382,13 +382,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The maximum authorized adult sentence used in §5037(c)(1)(B) includes the applicable adult Guidelines ceiling, subject to a properly supported lawful departure. It supplies an upper limit only: the Guidelines minimum does not become a juvenile floor, juvenile discretion below the cap remains, and the other statutory limits continue to apply. The construction does not require plenary adult Guidelines sentencing of the juvenile.
 
 **Authority by component:**
-- Upper-limit construction, departure qualification and preserved juvenile discretion: [United States v. R. L. C.](../records/United_States_v_RLC_merits_1992-03-24.md), March 24, 1992, “The juvenile ceiling incorporates the lawful adult Guidelines maximum”; Souter's Parts I, II-A and III for Stone, White, Stevens, Scalia, Kennedy and Thomas.
+- Upper-limit construction, departure qualification and preserved juvenile discretion: [United States v. R. L. C.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_RLC_merits_1992-03-24.md), March 24, 1992, “The juvenile ceiling incorporates the lawful adult Guidelines maximum”; Souter's Parts I, II-A and III for Stone, White, Stevens, Scalia, Kennedy and Thomas.
 
 **Present operation effective:** R. L. C., March 24, 1992.
 
 **Related current rules:** “Review of Guidelines departures resting on invalid grounds” supplies the lawful-departure limitation; R. L. C. approves no new departure ground.
 
-**Holdings navigation:** [United States v. R. L. C., 503 U.S. 291 (1992) — Juvenile sentencing](HOLDINGS.candidate.md#united-states-v-r-l-c-503-us-291-1992-1).
+**Holdings navigation:** [United States v. R. L. C., 503 U.S. 291 (1992) — Juvenile sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-r-l-c-503-us-291-1992-1).
 
 ### Initial calculation of federal detention credit
 
@@ -397,14 +397,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The Attorney General through the Bureau of Prisons must initially calculate §3585(b) credit after the federal sentence commences; a district court may not calculate that credit at sentencing. Time already credited against another sentence when the federal term begins cannot also receive federal credit merely because the federal sentencing hearing occurred first. Administrative review and proper subsequent judicial review remain available.
 
 **Authority by component:**
-- Actor, timing and review: [United States v. Wilson](../records/United_States_v_Wilson_merits_1992-03-24.md), March 24, 1992, “BOP makes the initial credit computation after commencement.”
+- Actor, timing and review: [United States v. Wilson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Wilson_merits_1992-03-24.md), March 24, 1992, “BOP makes the initial credit computation after commencement.”
 - Commencement-based no-double-credit construction: the same record, “Credit already applied to another sentence cannot be counted again.” Thomas's opinion for Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter controls both components.
 
 **Present operation effective:** Wilson, March 24, 1992.
 
 **Open question:** The decision does not define every form of “official detention.”
 
-**Holdings navigation:** [United States v. Wilson, 503 U.S. 329 (1992) — Detention credit](HOLDINGS.candidate.md#united-states-v-wilson-503-us-329-1992).
+**Holdings navigation:** [United States v. Wilson, 503 U.S. 329 (1992) — Detention credit](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-wilson-503-us-329-1992).
 
 ### Evidentiary overlap and prosecution of a distinct conspiracy
 
@@ -413,12 +413,12 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Evidentiary use of an uncharged crime does not itself place the defendant in jeopardy for that crime. A conspiracy and its substantive objects remain distinct offenses; prosecuting the substantive crime does not bar prosecution of the agreement merely because acts help prove both. Grady's essential-conduct rule remains operative and does not displace the established agreement/substantive-offense distinction or become a same-evidence or same-transaction rule. Ordinary evidentiary restrictions retain their separate force, and materially different single-incident successive prosecutions remain outside this clarification.
 
 **Authority by component:**
-- Evidentiary use is not prior prosecution: [United States v. Felix](../records/United_States_v_Felix_merits_1992-03-25.md), March 25, 1992, holding 1, White's unanimous Part I.
+- Evidentiary use is not prior prosecution: [United States v. Felix](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Felix_merits_1992-03-25.md), March 25, 1992, holding 1, White's unanimous Part I.
 - Grady's relation to the distinct-agreement rule: the same record, holding 2, “Agreement remains a distinct offense,” White's Part II for Stone, O'Connor, Scalia, Kennedy, Souter and Thomas. The two narrower judgment votes do not limit the seven-Justice rationale.
 
 **Present operation effective:** Felix, March 25, 1992.
 
-**Holdings navigation:** [United States v. Felix, 503 U.S. 378 (1992) — Double jeopardy](HOLDINGS.candidate.md#united-states-v-felix-503-us-378-1992).
+**Holdings navigation:** [United States v. Felix, 503 U.S. 378 (1992) — Double jeopardy](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-felix-503-us-378-1992).
 
 ### Disclosure of known direct-negation evidence and supervisory dismissal
 
@@ -427,7 +427,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Before seeking an indictment, a federal prosecutor must present or otherwise disclose to the grand jury personally known, substantial evidence directly negating the charged offense when omission would materially distort the presentation. This requires neither a search for undiscovered favorable evidence nor presentation of every potential defense. Violation alone does not establish entitlement to dismissal. Supervisory authority permits dismissal without prejudice when the prosecutor withholds such personally known substantial direct-negation evidence, the omission materially distorts the presentation, the evidence would plainly preclude probable cause, and the violation substantially influenced the indictment or leaves grave doubt that it was free of that influence. Those additional conditions identify a sufficient, nonexclusive dismissal class: plain preclusion of probable cause is not part of the disclosure trigger, and the decision does not forbid relief in every other circumstance. The Government may seek a lawful new indictment.
 
 **Authority by component:**
-- Disclosure command, timing, recipient and material-distortion qualification: [United States v. Williams](../records/United_States_v_Williams_merits_1992-05-04.md), May 4, 1992, “Disclosure of known evidence directly negating guilt.” The record's Marks determination identifies the shared rule of Stevens's Parts II–III, joined by Blackmun, O'Connor and Thomas, and Stone's separate merits opinion; Stone's material-distortion qualification remains operative.
+- Disclosure command, timing, recipient and material-distortion qualification: [United States v. Williams](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Williams_merits_1992-05-04.md), May 4, 1992, “Disclosure of known evidence directly negating guilt.” The record's Marks determination identifies the shared rule of Stevens's Parts II–III, joined by Blackmun, O'Connor and Thomas, and Stone's separate merits opinion; Stone's material-distortion qualification remains operative.
 - Sufficient dismissal class, independent prejudice and without-prejudice remedy: the same record, “Confined supervisory power over a materially misleading presentation.” The four-Justice direct-negation/plainly-no-probable-cause ground, with material distortion and charging prejudice, is the record's controlling logical subset of Stone's broader known-element-undermining/material-distortion rule with the same prejudice and remedy. Stone does not formally join the narrower qualification, and no single majority merits opinion exists.
 
 **Present operation effective:** United States v. Williams, May 4, 1992.
@@ -436,7 +436,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Open question:** Applications outside the sufficient dismissal class, a constitutional disclosure duty, state grand juries, negligent discovery and unpresented immunity or fabrication claims remain unresolved.
 
-**Holdings navigation:** [United States v. Williams, 504 U.S. 36 (1992) — Grand-jury presentation and supervisory dismissal](HOLDINGS.candidate.md#united-states-v-williams-504-us-36-1992-1).
+**Holdings navigation:** [United States v. Williams, 504 U.S. 36 (1992) — Grand-jury presentation and supervisory dismissal](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-williams-504-us-36-1992-1).
 
 ### Equitable delay independently of a habeas procedural bar
 
@@ -445,7 +445,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** A court considering an execution stay may weigh the State's interest in enforcing its judgment and unjustified delay in presenting a long-available claim independently of a habeas procedural bar. A supported serious constitutional claim and the irreversible consequence of execution require consideration but do not alone establish entitlement to last-minute relief; later evidence strengthening the claim does not necessarily explain withholding the underlying challenge. Equitable vacatur on that ground may proceed while assuming an open §1983 channel and without adjudicating every McCleskey abuse element. The rule supplies a contextual equitable inquiry, not an automatic bar for late claims or an automatic capital stay.
 
 **Authority by component:**
-- Independent equitable ground, relevant considerations and procedural assumptions: [Gomez v. United States District Court](../records/Gomez_v_United_States_District_Court_application_to_vacate_stay_1992-04-21.md), April 21, 1992, “Equitable basis for vacating the execution stay,” per curiam for White, O'Connor, Scalia, Kennedy, Souter and Thomas, six votes. The unexplained postponement through four earlier habeas proceedings supplies the record application, not a minimum numerical prerequisite.
+- Independent equitable ground, relevant considerations and procedural assumptions: [Gomez v. United States District Court](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Gomez_v_United_States_District_Court_application_to_vacate_stay_1992-04-21.md), April 21, 1992, “Equitable basis for vacating the execution stay,” per curiam for White, O'Connor, Scalia, Kennedy, Souter and Thomas, six votes. The unexplained postponement through four earlier habeas proceedings supplies the record application, not a minimum numerical prerequisite.
 
 **Present operation effective:** Gomez, April 21, 1992.
 
@@ -453,7 +453,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Open question:** The §1983/habeas boundary for execution-method relief, a full McCleskey application here, Younger abstention, final constitutionality of cyanide gas and a universal alternative-method requirement remain undecided.
 
-**Holdings navigation:** [Gomez v. United States District Court for the Northern District of California, 503 U.S. 653 (1992) — Execution stays](HOLDINGS.candidate.md#gomez-v-united-states-district-court-for-the-northern-district-of-california-503-us-653-1992).
+**Holdings navigation:** [Gomez v. United States District Court for the Northern District of California, 503 U.S. 653 (1992) — Execution stays](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#gomez-v-united-states-district-court-for-the-northern-district-of-california-503-us-653-1992).
 
 ### Government motions and review of refused substantial-assistance relief
 
@@ -462,14 +462,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** A Government motion is the statutory trigger; useful assistance alone authorizes neither a departure nor a judicial order requiring a motion. The provisions give the Government power, rather than a duty, to move whenever cooperation proves useful. Courts may review a refusal and grant relief for unconstitutional purpose, including race or religion, and a defendant is entitled to relief when refusal is not rationally related to any legitimate governmental end. Useful assistance alone does not establish either defect because the Government may rationally weigh the costs and benefits of moving. Discovery or an evidentiary hearing requires a substantial threshold showing of improper motive; useful assistance, with or without generalized accusations, is insufficient.
 
 **Authority by component:**
-- Motion prerequisite and review for unconstitutional purpose: [Wade v. United States, “Government motion is the statutory trigger” and “Constitutional review of a refusal remains available”](../records/Wade_v_United_States_merits_1992-05-18.md), May 18, 1992; Souter Part A, joined by all other participating Justices (nine).
+- Motion prerequisite and review for unconstitutional purpose: [Wade v. United States, “Government motion is the statutory trigger” and “Constitutional review of a refusal remains available”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Wade_v_United_States_merits_1992-05-18.md), May 18, 1992; Souter Part A, joined by all other participating Justices (nine).
 - Legitimate-end requirement and discovery threshold: Wade, “Refusals unrelated to a legitimate governmental end” and “Threshold for discovery or an evidentiary hearing,” May 18, 1992; Souter Part B, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas (eight).
 
 **Present operation effective:** Wade v. United States, May 18, 1992.
 
 **Open question:** Particular corrective remedies, enforcement of an established plea promise, independent operation of §3553(e) and §5K1.1, and departure amount remain unresolved by Wade. Its motion restriction is not classified as an Article III jurisdictional limit.
 
-**Holdings navigation:** [Wade v. United States, 504 U.S. 181 (1992) — Substantial-assistance sentencing](HOLDINGS.candidate.md#wade-v-united-states-504-us-181-1992).
+**Holdings navigation:** [Wade v. United States, 504 U.S. 181 (1992) — Substantial-assistance sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#wade-v-united-states-504-us-181-1992).
 
 ### Official-right extortion and payment for an official undertaking
 
@@ -478,14 +478,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** An official who obtains unauthorized money knowing that it is given in return for official acts need not independently initiate, demand or separately induce payment. Knowing acceptance in exchange for a specific requested exercise of official power is distinct from a lawful campaign contribution standing alone, even if its donor has pending business. McCormick's requirement that a campaign contribution be given in return for an explicit promise or undertaking remains; receipt in return for that undertaking completes the offense without actual performance of the promised act. The official need not deceive the payer by falsely claiming that law authorizes the payment as a fee. Interstate-commerce proof and the beyond-a-reasonable-doubt burden remain unchanged.
 
 **Authority by component:**
-- No independent demand and no completed-performance element: [Evans v. United States, “1. No independent demand or initiation element” and “2. The charge requires an exchange; promised performance need not be completed”](../records/Evans_v_United_States_merits_1992-05-26.md), May 26, 1992; Stevens Parts I–II, joined by White, Blackmun, O'Connor and Souter (five).
+- No independent demand and no completed-performance element: [Evans v. United States, “1. No independent demand or initiation element” and “2. The charge requires an exchange; promised performance need not be completed”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Evans_v_United_States_merits_1992-05-26.md), May 26, 1992; Stevens Parts I–II, joined by White, Blackmun, O'Connor and Souter (five).
 - No indispensable false-lawful-entitlement claim: Evans, “3. No false claim of lawful entitlement is indispensable,” May 26, 1992; Stevens Part III, joined by White, Blackmun, Kennedy and Souter (five).
 
 **Present operation effective:** Evans v. United States, May 26, 1992.
 
 **Open question:** Mere gratuities, cases lacking the required undertaking and distinct defenses remain outside the decision. Kennedy's implied-communication account and Stone-Zsela's separate interpretive qualifications do not add Court elements.
 
-**Holdings navigation:** [Evans v. United States, 504 U.S. 255 (1992) — Official-right extortion](HOLDINGS.candidate.md#evans-v-united-states-504-us-255-1992).
+**Holdings navigation:** [Evans v. United States, 504 U.S. 255 (1992) — Official-right extortion](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#evans-v-united-states-504-us-255-1992).
 
 ### Automatic-death jurors and requested capital voir dire
 
@@ -494,14 +494,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** A juror who would automatically impose death upon conviction regardless of the facts and required mitigation is subject to challenge for cause. If such a juror serves and death is imposed, that sentence cannot be executed. On the capital defendant's request, voir dire must adequately inquire into that disqualifying view; general assurances of fairness or willingness to obey instructions do not suffice when they leave automatic-death bias unexamined. The inquiry protects impartial consideration and does not require jurors favorable to either side, prescribed mitigation weight or any particular questionnaire.
 
 **Authority by component:**
-- Disqualification: [Morgan v. Illinois, “An automatic-death juror is disqualified from capital sentencing”](../records/Morgan_v_Illinois_merits_1992-06-15.md), June 15, 1992; White, joined by Blackmun, Stevens, O'Connor, Kennedy and Souter (six).
+- Disqualification: [Morgan v. Illinois, “An automatic-death juror is disqualified from capital sentencing”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Morgan_v_Illinois_merits_1992-06-15.md), June 15, 1992; White, joined by Blackmun, Stevens, O'Connor, Kennedy and Souter (six).
 - Requested inquiry: Morgan, “Requested inquiry must expose the disqualifying view,” June 15, 1992; same six Justices.
 
 **Present operation effective:** Morgan v. Illinois, June 15, 1992.
 
 **Exceptions and limits:** No constitutional entitlement to jury capital sentencing, rule for unrelated voir dire omissions, new proof quantum, collateral-review rule or retroactivity holding is adopted. Stone's condition requiring jury-only renewed sentencing does not control.
 
-**Holdings navigation:** [Morgan v. Illinois, 504 U.S. 719 (1992) — Capital sentencing](HOLDINGS.candidate.md#morgan-v-illinois-504-us-719-1992).
+**Holdings navigation:** [Morgan v. Illinois, 504 U.S. 719 (1992) — Capital sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#morgan-v-illinois-504-us-719-1992).
 
 ### Purposeful racial peremptory strikes by the criminal defense
 
@@ -510,7 +510,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The defense's invocation of state peremptory authority to secure judicial exclusion from a governmental jury is state action for that particular act; purposeful racial exclusion violates the juror's equal-protection right. The State may assert that right in its own criminal trial because its tribunal suffers an integrity injury, it has a direct relationship with summoned jurors and jurors face substantial obstacles to separate litigation. When the State establishes a prima facie inference of purposeful discrimination, the defense must give race-neutral explanations and the judge must decide whether the State has proved purposeful discrimination. The ultimate persuasion burden remains on the State. Effective counsel and impartiality confer no right to racial exclusion; genuine race-neutral challenges, actual-bias inquiry and appropriate protection of concrete confidential matters remain available.
 
 **Authority by component:**
-- Attribution and prohibition: [Georgia v. McCollum, “1. Purposeful racial defense peremptories are attributable to the State”](../records/Georgia_v_McCollum_merits_1992-06-18.md), June 18, 1992.
+- Attribution and prohibition: [Georgia v. McCollum, “1. Purposeful racial defense peremptories are attributable to the State”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Georgia_v_McCollum_merits_1992-06-18.md), June 18, 1992.
 - State's assertion of juror rights: McCollum, “2. The State may assert the excluded jurors' rights,” June 18, 1992.
 - Ordinary sequence and defenses: McCollum, “3. Batson's ordinary burdens govern, with defense protections preserved,” June 18, 1992.
 - Each component: Blackmun, joined by White, Stevens, Kennedy and Souter (five); Batson's purpose, production and persuasion requirements remain unchanged within the newly covered defense selection act.
@@ -519,7 +519,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** Ordinary defense advice, representation and investigation do not become state action. No explanation is automatically required for every minority-juror strike. Nonracial classifications, unconscious-bias safeguards and particular privilege disputes remain undecided; no general confidential-review procedure is imposed.
 
-**Holdings navigation:** [Georgia v. McCollum, 505 U.S. 42 (1992) — Standing to assert third-party rights](HOLDINGS.candidate.md#georgia-v-mccollum-505-us-42-1992); [Georgia v. McCollum, 505 U.S. 42 (1992) — Racial peremptory challenges](HOLDINGS.candidate.md#georgia-v-mccollum-505-us-42-1992-1).
+**Holdings navigation:** [Georgia v. McCollum, 505 U.S. 42 (1992) — Standing to assert third-party rights](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#georgia-v-mccollum-505-us-42-1992); [Georgia v. McCollum, 505 U.S. 42 (1992) — Racial peremptory challenges](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#georgia-v-mccollum-505-us-42-1992-1).
 
 ### Former testimony, similar motive and the Government's evidentiary objection
 
@@ -528,14 +528,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The proponent must establish both an opportunity and a similar motive for the opposing party to develop the prior testimony. The Government's power to immunize a witness at trial and general adversarial fairness do not excuse either requirement; actual proceedings and arguments govern similar motive. Offering independent evidence contradicting the witness's grand-jury account, without presenting any version of that account to the trial jury, does not by itself forfeit the Rule 804(b)(1) objection. Even assuming a privilege-forfeiture analogy, contradiction is not disclosure of the protected communication.
 
 **Authority by component:**
-- Complete exception conditions: [United States v. Salerno, “Every condition of the former-testimony exception remains necessary”](../records/United_States_v_Salerno_merits_1992-06-19.md), June 19, 1992; Thomas, joined by White, Blackmun, O'Connor, Scalia, Kennedy and Souter (seven).
+- Complete exception conditions: [United States v. Salerno, “Every condition of the former-testimony exception remains necessary”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Salerno_merits_1992-06-19.md), June 19, 1992; Thomas, joined by White, Blackmun, O'Connor, Scalia, Kennedy and Souter (seven).
 - Limited rejection of forfeiture: Salerno, “Contradictory independent evidence does not itself forfeit the objection,” June 19, 1992; same seven Justices.
 
 **Present operation effective:** United States v. Salerno, June 19, 1992.
 
 **Exceptions and limits:** No categorical exclusion of grand-jury testimony, finding of similar motive in the source case, or general classification of hearsay objections as testimonial privileges is established. Other preserved evidentiary and constitutional grounds retain their own requirements.
 
-**Holdings navigation:** [United States v. Salerno, 505 U.S. 317 (1992) — Former testimony](HOLDINGS.candidate.md#united-states-v-salerno-505-us-317-1992).
+**Holdings navigation:** [United States v. Salerno, 505 U.S. 317 (1992) — Former testimony](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-salerno-505-us-317-1992).
 
 ### Making a firearm before final assembly
 
@@ -544,13 +544,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The references to manufacturing and otherwise producing in §5845(i) are not confined to the final mechanical act of assembling parts. A universal actual-assembly prerequisite is therefore impermissible. This negative construction supplies no general liability rule for every pure-parts kit, incomplete collection, sham arrangement or genuine lawful alternative configuration.
 
 **Authority by component:**
-- Rejection of universal final assembly: [United States v. Thompson/Center Arms Co., “Making is not invariably postponed until final assembly”](../records/United_States_v_Thompson_Center_Arms_Co_merits_1992-06-08.md), June 8, 1992; expressly shared proposition of Souter, O'Connor, White, Blackmun, Stevens, Kennedy and Stone-Zsela (seven), independent of their disagreement about the actual package. No complete opinion commands five joins.
+- Rejection of universal final assembly: [United States v. Thompson/Center Arms Co., “Making is not invariably postponed until final assembly”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Thompson_Center_Arms_Co_merits_1992-06-08.md), June 8, 1992; expressly shared proposition of Souter, O'Connor, White, Blackmun, Stevens, Kennedy and Stone-Zsela (seven), independent of their disagreement about the actual package. No complete opinion commands five joins.
 
 **Present operation effective:** United States v. Thompson/Center Arms Co., June 8, 1992.
 
 **Open question:** The broader boundary among parts combinations, intent to assemble and separate criminal offenses remains unresolved. The case-specific dual-use package refund and its application of residual lenity supply no general kit exemption or new lenity method.
 
-**Holdings navigation:** [United States v. Thompson/Center Arms Co., 504 U.S. 505 (1992) — National Firearms Act making tax](HOLDINGS.candidate.md#united-states-v-thompsoncenter-arms-co-504-us-505-1992).
+**Holdings navigation:** [United States v. Thompson/Center Arms Co., 504 U.S. 505 (1992) — National Firearms Act making tax](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-thompsoncenter-arms-co-504-us-505-1992).
 
 ### Abduction and trial under the United States–Mexico Extradition Treaty
 
@@ -559,13 +559,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The Treaty does not prohibit that abduction or make extradition the exclusive means of obtaining a defendant's presence. Absent a treaty restriction barring prosecution, Ker–Frisbie permits trial notwithstanding the forcible transfer and protest. Rauscher and Cook remain enforceable when a treaty does supply a relevant restriction.
 
 **Authority by component:**
-- Treaty construction and trial consequence: [United States v. Alvarez-Machain, “This Treaty does not bar prosecution after the abduction”](../records/United_States_v_Alvarez_Machain_merits_1992-06-15.md), June 15, 1992; White, joined by Scalia, Kennedy, Souter and Thomas (five).
+- Treaty construction and trial consequence: [United States v. Alvarez-Machain, “This Treaty does not bar prosecution after the abduction”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Alvarez_Machain_merits_1992-06-15.md), June 15, 1992; White, joined by Scalia, Kennedy, Souter and Thomas (five).
 
 **Present operation effective:** United States v. Alvarez-Machain, June 15, 1992.
 
 **Exceptions and limits:** The holding does not authorize abduction, decide its general international legality, foreclose all other remedies or establish a universal bar to individual treaty enforcement.
 
-**Holdings navigation:** [United States v. Alvarez-Machain, 504 U.S. 655 (1992) — International abduction and treaty limits on prosecution](HOLDINGS.candidate.md#united-states-v-alvarez-machain-504-us-655-1992).
+**Holdings navigation:** [United States v. Alvarez-Machain, 504 U.S. 655 (1992) — International abduction and treaty limits on prosecution](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-alvarez-machain-504-us-655-1992).
 
 ### Prolonged negligent post-accusation delay and presumed defense impairment
 
@@ -575,14 +575,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Scope and the specified negligence/presumed-impairment operation: [Doggett v. United States, “An outstanding indictment protects fair adjudication before arrest” and “Extraordinary negligent delay and unrebutted impairment require dismissal here”](../records/Doggett_v_United_States_merits_1992-06-24.md), June 24, 1992; Souter's opinion joined by Stone, White, Blackmun, Stevens and Kennedy.
+- Scope and the specified negligence/presumed-impairment operation: [Doggett v. United States, “An outstanding indictment protects fair adjudication before arrest” and “Extraordinary negligent delay and unrebutted impairment require dismissal here”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Doggett_v_United_States_merits_1992-06-24.md), June 24, 1992; Souter's opinion joined by Stone, White, Blackmun, Stevens and Kennedy.
 - Dismissal consequence: the second holding applies Strunk without changing that remedy.
 
 **Present operation effective:** *Doggett*, June 24, 1992.
 
 **Exceptions and limits:** Diligence, justified obstacles, evasion, knowing acquiescence or materially shorter neglect may yield a different balance. No fixed deadline, automatic constitutional-violation presumption, general transfer of the ultimate constitutional burden, preaccusation rule or independent right of repose is adopted.
 
-**Holdings navigation:** [Doggett v. United States, 505 U.S. 647 (1992) — Speedy trial](HOLDINGS.candidate.md#doggett-v-united-states-505-us-647-1992-1).
+**Holdings navigation:** [Doggett v. United States, 505 U.S. 647 (1992) — Speedy trial](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#doggett-v-united-states-505-us-647-1992-1).
 
 ### Defendant's preponderance burden and equivalent competence presumption
 
@@ -592,13 +592,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Burden and presumption: [Medina v. California, “Defendant's preponderance burden at a competency hearing” and “The associated presumption states the same permitted burden”](../records/Medina_v_California_merits_1992-06-22.md), June 22, 1992. Kennedy, White, Scalia and Thomas in the principal opinion and O'Connor and Souter in the judgment concurrence expressly support both narrow propositions.
+- Burden and presumption: [Medina v. California, “Defendant's preponderance burden at a competency hearing” and “The associated presumption states the same permitted burden”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Medina_v_California_merits_1992-06-22.md), June 22, 1992. Kennedy, White, Scalia and Thomas in the principal opinion and O'Connor and Souter in the judgment concurrence expressly support both narrow propositions.
 
 **Present operation effective:** *Medina*, June 22, 1992.
 
 **Exceptions and limits:** No whole opinion commands a majority. No categorical exclusion of Mathews from criminal procedure, higher proof quantum, irrebuttable presumption or additional evidentiary weight follows. Insanity, offense-element proof and the feasibility of retrospective competence determinations remain distinct.
 
-**Holdings navigation:** [Medina v. California, 505 U.S. 437 (1992) — Competency hearings](HOLDINGS.candidate.md#medina-v-california-505-us-437-1992).
+**Holdings navigation:** [Medina v. California, 505 U.S. 437 (1992) — Competency hearings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#medina-v-california-505-us-437-1992).
 
 ### Capital eligibility innocence as a gateway to barred habeas claims
 
@@ -608,13 +608,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Eligibility-only scope, no-reasonable-juror inquiry and clear-and-convincing burden: [Sawyer v. Whitley, “Capital innocence as a gateway to otherwise barred claims”](../records/Sawyer_v_Whitley_merits_1992-06-22.md), June 22, 1992; Kennedy's opinion joined by White, Scalia, Souter and Thomas. Broader judgment concurrences supply no component.
+- Eligibility-only scope, no-reasonable-juror inquiry and clear-and-convincing burden: [Sawyer v. Whitley, “Capital innocence as a gateway to otherwise barred claims”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Sawyer_v_Whitley_merits_1992-06-22.md), June 22, 1992; Kennedy's opinion joined by White, Scalia, Souter and Thomas. Broader judgment concurrences supply no component.
 
 **Present operation effective:** *Sawyer*, June 22, 1992.
 
 **Exceptions and limits:** Ordinary cause and prejudice, exhaustion, retroactivity, the merits standards and proper factual-development rules remain distinct. Neither ordinary sentencing prejudice nor discretionary mitigation replaces this gateway. The crime-innocence standard and freestanding innocence claims are not resolved here. No categorical exclusion of impeachment evidence follows from its insufficiency on Sawyer's record.
 
-**Holdings navigation:** [Sawyer v. Whitley, 505 U.S. 333 (1992) — Habeas procedural gateways](HOLDINGS.candidate.md#sawyer-v-whitley-505-us-333-1992).
+**Holdings navigation:** [Sawyer v. Whitley, 505 U.S. 333 (1992) — Habeas procedural gateways](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#sawyer-v-whitley-505-us-333-1992).
 
 ### Factually unsupported lawful grounds in general verdicts and capital recommendations
 
@@ -624,8 +624,8 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- General multiple-object conspiracy verdict and factual/legal distinction: [Griffin v. United States, “General verdict containing a factually unsupported lawful object”](../records/Griffin_v_United_States_merits_1991-12-03.md), December 3, 1991; Scalia, Stone, White, Stevens, O'Connor, Kennedy and Souter.
-- Limited extension to an unparticularized advisory capital recommendation: [Sochor v. Florida, “The general jury recommendation does not establish coldness reliance”](../records/Sochor_v_Florida_merits_1992-06-08.md), June 8, 1992; Souter's Part III-A joined by White, O'Connor, Kennedy and Thomas.
+- General multiple-object conspiracy verdict and factual/legal distinction: [Griffin v. United States, “General verdict containing a factually unsupported lawful object”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Griffin_v_United_States_merits_1991-12-03.md), December 3, 1991; Scalia, Stone, White, Stevens, O'Connor, Kennedy and Souter.
+- Limited extension to an unparticularized advisory capital recommendation: [Sochor v. Florida, “The general jury recommendation does not establish coldness reliance”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Sochor_v_Florida_merits_1992-06-08.md), June 8, 1992; Souter's Part III-A joined by White, O'Connor, Kennedy and Thomas.
 
 **Present operation effective:** *Sochor*, June 8, 1992, for the advisory-recommendation component; *Griffin*, December 3, 1991, remains the operative authority for the conspiracy-verdict component.
 
@@ -633,7 +633,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Related current rules:** “Invalid aggravators in capital weighing and correction of sentencing error” governs constitutionally defective weighing and the influence of an inadequately narrowed jury instruction; the factual-insufficiency rule does not displace it.
 
-**Holdings navigation:** [Griffin v. United States, 502 U.S. 46 (1991) — General verdicts](HOLDINGS.candidate.md#griffin-v-united-states-502-us-46-1991); [Sochor v. Florida, 504 U.S. 527 (1992) — Capital sentencing](HOLDINGS.candidate.md#sochor-v-florida-504-us-527-1992-1).
+**Holdings navigation:** [Griffin v. United States, 502 U.S. 46 (1991) — General verdicts](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#griffin-v-united-states-502-us-46-1991); [Sochor v. Florida, 504 U.S. 527 (1992) — Capital sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#sochor-v-florida-504-us-527-1992-1).
 
 ### Invalid aggravators in capital weighing and correction of sentencing error
 
@@ -643,9 +643,9 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Distinct weighing error and eligibility, with lawful correction routes: [Stringer v. Black, “A weighing error needs a constitutionally adequate cure”](../records/Stringer_v_Black_merits_1992-03-09.md), March 9, 1992; Kennedy for Stone, White, Blackmun, Stevens and O'Connor.
-- Actual judicial reliance, substantive cure and no magic-words requirement: [Sochor v. Florida, “The judge's documented coldness reliance requires correction” and “The existing appellate explanation does not cure the error”](../records/Sochor_v_Florida_merits_1992-06-08.md), June 8, 1992; respectively the eight-Justice Part III-B-1 and six-Justice Parts III-B-2/IV, applying Stringer, Clemons, Parker and Chapman without changing their correction standard.
-- A legally influential recommendation and correction of its transmitted effect: [Espinosa v. Florida, “A legally influential recommendation cannot rest on an inadequately narrowed aggravator” and “Correction must address the recommendation's influence on the death sentence”](../records/Espinosa_v_Florida_summary_merits_1992-06-29.md), June 29, 1992; per curiam joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas.
+- Distinct weighing error and eligibility, with lawful correction routes: [Stringer v. Black, “A weighing error needs a constitutionally adequate cure”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Stringer_v_Black_merits_1992-03-09.md), March 9, 1992; Kennedy for Stone, White, Blackmun, Stevens and O'Connor.
+- Actual judicial reliance, substantive cure and no magic-words requirement: [Sochor v. Florida, “The judge's documented coldness reliance requires correction” and “The existing appellate explanation does not cure the error”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Sochor_v_Florida_merits_1992-06-08.md), June 8, 1992; respectively the eight-Justice Part III-B-1 and six-Justice Parts III-B-2/IV, applying Stringer, Clemons, Parker and Chapman without changing their correction standard.
+- A legally influential recommendation and correction of its transmitted effect: [Espinosa v. Florida, “A legally influential recommendation cannot rest on an inadequately narrowed aggravator” and “Correction must address the recommendation's influence on the death sentence”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Espinosa_v_Florida_summary_merits_1992-06-29.md), June 29, 1992; per curiam joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas.
 
 **Present operation effective:** *Espinosa*, June 29, 1992, extending the rule to the recommendation's legally required influence. The earlier direct-weighing rule remains supplied by *Stringer*, March 9, 1992.
 
@@ -655,7 +655,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Related current rules:** “Factually unsupported lawful grounds in general verdicts and capital recommendations” preserves the distinct inference boundary for a legally available but evidentially unsupported jury factor. “Capital eligibility innocence as a gateway to barred habeas claims” governs access to review of otherwise barred claims, not correction of an available claim's weighing error.
 
-**Holdings navigation:** [Stringer v. Black, 503 U.S. 222 (1992) — Capital sentencing and habeas retroactivity](HOLDINGS.candidate.md#stringer-v-black-503-us-222-1992); [Sochor v. Florida, 504 U.S. 527 (1992) — Capital sentencing](HOLDINGS.candidate.md#sochor-v-florida-504-us-527-1992-1); [Espinosa v. Florida, 505 U.S. 1079 (1992) — Capital sentencing](HOLDINGS.candidate.md#espinosa-v-florida-505-us-1079-1992).
+**Holdings navigation:** [Stringer v. Black, 503 U.S. 222 (1992) — Capital sentencing and habeas retroactivity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#stringer-v-black-503-us-222-1992); [Sochor v. Florida, 504 U.S. 527 (1992) — Capital sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#sochor-v-florida-504-us-527-1992-1); [Espinosa v. Florida, 505 U.S. 1079 (1992) — Capital sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#espinosa-v-florida-505-us-1079-1992).
 
 ## Liberty, psychiatric confinement and trial medication
 
@@ -666,7 +666,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** The State may not continue that confinement solely because the acquittee cannot prove harmlessness. The acquittal supplies neither a suspended criminal sentence nor indefinite psychiatric authority after the illness predicate disappears. Continued psychiatric custody requires constitutionally adequate proceedings establishing its own proper grounds; ordinary civil commitment requires current mental illness and dangerousness proved by clear and convincing evidence, and additional procedure cannot supply a missing substantive ground. A legitimate preventive purpose and periodic review do not cure an indefinite psychiatric regime requiring a no-longer-mentally-ill acquittee to prove nondangerousness. Any independently lawful restraint must rest on its own authority and procedures; the holding does not prescribe a universal preventive-detention burden or scrutiny tier.
 
 **Authority by component:**
-- Ended predicate and absence of punitive authority: [Foucha v. Louisiana, “1. The insanity judgment no longer authorizes this psychiatric confinement”](../records/Foucha_v_Louisiana_merits_1992-05-18.md), May 18, 1992; White Part II-A, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter (six).
+- Ended predicate and absence of punitive authority: [Foucha v. Louisiana, “1. The insanity judgment no longer authorizes this psychiatric confinement”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Foucha_v_Louisiana_merits_1992-05-18.md), May 18, 1992; White Part II-A, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter (six).
 - Appropriate new grounds and procedures; ordinary civil-commitment burden: Foucha, “2. Psychiatric custody requires appropriate grounds and procedures,” May 18, 1992; White Part II-B, joined by Blackmun, Stevens, O'Connor and Souter (five). Addington's existing burden is retained within that channel.
 - Limits of the asserted preventive alternative: Foucha, “3. Public safety does not sustain this unbounded dangerousness regime,” May 18, 1992; White Part II-C, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter (six).
 
@@ -674,7 +674,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Open question:** Materially narrower preventive regimes, maximum duration of an otherwise lawful commitment and the scope of state insanity defenses remain undecided. The equal-protection plurality supplies no controlling rule.
 
-**Holdings navigation:** [Foucha v. Louisiana, 504 U.S. 71 (1992) — Psychiatric confinement](HOLDINGS.candidate.md#foucha-v-louisiana-504-us-71-1992).
+**Holdings navigation:** [Foucha v. Louisiana, 504 U.S. 71 (1992) — Psychiatric confinement](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#foucha-v-louisiana-504-us-71-1992).
 
 ### Involuntary antipsychotic medication of an objecting trial detainee
 
@@ -683,7 +683,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Upon the detainee's objection, the State must establish medical appropriateness and an overriding need sufficient to overcome the protected refusal interest, considering reasonable less intrusive means. Clinical acceptability alone is insufficient. Medically appropriate treatment essential to safety remains possible after alternatives are considered. When unjustified compelled treatment creates a supported, substantial risk of impairing the defense that the record cannot reliably reconstruct, the defendant need not establish exactly how an unmedicated trial would have differed; explanatory testimony about demeanor does not cure unmeasurable effects on testimony, comprehension and communication with counsel. The combination of unjustified treatment and that supported, unreconstructable trial risk requires a new trial; renewed compelled treatment requires adequate contemporaneous justification.
 
 **Authority by component:**
-- Justification and alternatives: [Riggins v. Nevada, “1. The State must justify antipsychotic medication continued over objection”](../records/Riggins_v_Nevada_merits_1992-05-18.md), May 18, 1992; O'Connor Part II, joined by Stone-Zsela, White, Blackmun, Stevens and Souter (six).
+- Justification and alternatives: [Riggins v. Nevada, “1. The State must justify antipsychotic medication continued over objection”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Riggins_v_Nevada_merits_1992-05-18.md), May 18, 1992; O'Connor Part II, joined by Stone-Zsela, White, Blackmun, Stevens and Souter (six).
 - Trial-risk consequence at the stated scope: Riggins, “2. This unsupported medication order requires a new trial,” May 18, 1992; O'Connor Part III, same six Justices.
 
 **Present operation effective:** Riggins v. Nevada, May 18, 1992.
@@ -692,7 +692,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Open question:** Complete conditions for competency-restoration medication, a competent defendant's refusal that would produce incompetence, and the unpreserved Eighth Amendment sentencing-display theory remain undecided.
 
-**Holdings navigation:** [Riggins v. Nevada, 504 U.S. 127 (1992) — Compelled medication and fair trial](HOLDINGS.candidate.md#riggins-v-nevada-504-us-127-1992).
+**Holdings navigation:** [Riggins v. Nevada, 504 U.S. 127 (1992) — Compelled medication and fair trial](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#riggins-v-nevada-504-us-127-1992).
 
 ## Speech, association, and elections
 
@@ -704,11 +704,11 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Continuing objection, advance protection, chargeability burden, and retained alternatives: [Gibson v. Florida Bar — Timing and scope of protection](../records/Gibson_v_Florida_Bar_merits_1991-12-04.md), December 4, 1991; Stone's opinion joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter, and Thomas.
+- Continuing objection, advance protection, chargeability burden, and retained alternatives: [Gibson v. Florida Bar — Timing and scope of protection](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Gibson_v_Florida_Bar_merits_1991-12-04.md), December 4, 1991; Stone's opinion joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter, and Thomas.
 
 **Present operation effective:** *Gibson*, December 4, 1991.
 
-**Holdings navigation:** [Gibson v. Florida Bar, 502 U.S. 104 (1991) — Compulsory bar dues](HOLDINGS.candidate.md#gibson-v-florida-bar-502-us-104-1991).
+**Holdings navigation:** [Gibson v. Florida Bar, 502 U.S. 104 (1991) — Compulsory bar dues](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#gibson-v-florida-bar-502-us-104-1991).
 
 ### Impartiality of balanced bar-dues arbitration panels
 
@@ -718,11 +718,11 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Balanced selection and membership-only objection; retained operational challenges: [Gibson v. Florida Bar — Impartial review](../records/Gibson_v_Florida_Bar_merits_1991-12-04.md), December 4, 1991; Stone's opinion joined on this proposition by all nine Justices.
+- Balanced selection and membership-only objection; retained operational challenges: [Gibson v. Florida Bar — Impartial review](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Gibson_v_Florida_Bar_merits_1991-12-04.md), December 4, 1991; Stone's opinion joined on this proposition by all nine Justices.
 
 **Present operation effective:** *Gibson*, December 4, 1991.
 
-**Holdings navigation:** [Gibson v. Florida Bar, 502 U.S. 104 (1991) — Compulsory bar dues](HOLDINGS.candidate.md#gibson-v-florida-bar-502-us-104-1991).
+**Holdings navigation:** [Gibson v. Florida Bar, 502 U.S. 104 (1991) — Compulsory bar dues](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#gibson-v-florida-bar-502-us-104-1991).
 
 ### Authorized party expansion and independently qualified slate components
 
@@ -732,13 +732,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Authorized name expansion, independent qualification, and separate-electorate support: [Norman v. Reed — Ballot-access holding and operative rule](../records/Norman_v_Reed_merits_1992-01-14.md), January 14, 1992; Souter's opinion joined by Stone, White, Blackmun, Stevens, O'Connor, and Kennedy.
+- Authorized name expansion, independent qualification, and separate-electorate support: [Norman v. Reed — Ballot-access holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Norman_v_Reed_merits_1992-01-14.md), January 14, 1992; Souter's opinion joined by Stone, White, Blackmun, Stevens, O'Connor, and Kennedy.
 
 **Present operation effective:** *Norman*, January 14, 1992.
 
 **Open question:** Other district structures, cumulative burdens, and actual unauthorized name use remain outside this holding.
 
-**Holdings navigation:** [Norman v. Reed, 502 U.S. 279 (1992) — Ballot access and political parties](HOLDINGS.candidate.md#norman-v-reed-502-us-279-1992-1).
+**Holdings navigation:** [Norman v. Reed, 502 U.S. 279 (1992) — Ballot access and political parties](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#norman-v-reed-502-us-279-1992-1).
 
 ### Voting Rights Act §5 coverage of reallocations of governing authority
 
@@ -748,14 +748,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Voting/governing boundary and retained-office scope: [Presley v. Etowah County Commission — The two resolutions do not change a voting practice](../records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md), January 27, 1992.
-- Limit on administrative and different-constituencies constructions: [Presley — Administrative interpretation does not eliminate the voting boundary](../records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md), January 27, 1992. Kennedy's opinion joined by O'Connor, Scalia, Souter, and Thomas controls both.
+- Voting/governing boundary and retained-office scope: [Presley v. Etowah County Commission — The two resolutions do not change a voting practice](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md), January 27, 1992.
+- Limit on administrative and different-constituencies constructions: [Presley — Administrative interpretation does not eliminate the voting boundary](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Presley_v_Etowah_County_Commission_merits_1992-01-27.md), January 27, 1992. Kennedy's opinion joined by O'Connor, Scalia, Souter, and Thomas controls both.
 
 **Present operation effective:** *Presley*, January 27, 1992.
 
 **Open question:** Whether an extreme transfer effectively replacing an elective office with an appointive office requires preclearance is unresolved. The decision does not dispose of independent §2, Title VI, or constitutional claims.
 
-**Holdings navigation:** [Presley v. Etowah County Commission; Mack v. Russell County Commission, 502 U.S. 491 (1992) — Voting Rights Act preclearance](HOLDINGS.candidate.md#presley-v-etowah-county-commission-mack-v-russell-county-commission-502-us-491-1992).
+**Holdings navigation:** [Presley v. Etowah County Commission; Mack v. Russell County Commission, 502 U.S. 491 (1992) — Voting Rights Act preclearance](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#presley-v-etowah-county-commission-mack-v-russell-county-commission-502-us-491-1992).
 
 ### Write-in voting within the complete ballot-access system
 
@@ -764,7 +764,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. When the complete access system imposes only reasonable burdens, a write-in prohibition is presumptively valid and may be sustained by proportionate interests, including primary finality and prevention of evasive candidacies or party raiding. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
 
 **Authority by component:**
-- Governing inherited framework: [Burdick v. Takushi, “1. Review of election regulations follows the actual burden”](../records/Burdick_v_Takushi_merits_1992-06-08.md), June 8, 1992; White, joined by O'Connor, Scalia, Souter and Thomas (five), applying Anderson and the earlier simulated Norman rule.
+- Governing inherited framework: [Burdick v. Takushi, “1. Review of election regulations follows the actual burden”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Burdick_v_Takushi_merits_1992-06-08.md), June 8, 1992; White, joined by O'Connor, Scalia, Souter and Thomas (five), applying Anderson and the earlier simulated Norman rule.
 - Limited-burden write-in presumption: Burdick, “2. Hawaii's complete write-in prohibition is valid in its reasonably accessible system,” June 8, 1992; same five Justices.
 - Arbitrary-message claim: Burdick, “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same controlling five-Justice opinion, with all nine agreeing in rejection of that component.
 
@@ -772,7 +772,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** No absolute validation of all write-in bans follows. Materially more restrictive access systems may impose severe burdens. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
 
-**Holdings navigation:** [Burdick v. Takushi, 504 U.S. 428 (1992) — Ballot access and political parties](HOLDINGS.candidate.md#burdick-v-takushi-504-us-428-1992).
+**Holdings navigation:** [Burdick v. Takushi, 504 U.S. 428 (1992) — Ballot access and political parties](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#burdick-v-takushi-504-us-428-1992).
 
 ## Religion and public schools
 
@@ -784,14 +784,14 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Independently sufficient sponsorship ground: [Lee v. Weisman, “Officially organized graduation worship is forbidden”](../records/Lee_v_Weisman_merits_1992-06-24.md), June 24, 1992; Blackmun's Part II joined by Stone, Stevens, O'Connor and Souter.
+- Independently sufficient sponsorship ground: [Lee v. Weisman, “Officially organized graduation worship is forbidden”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Lee_v_Weisman_merits_1992-06-24.md), June 24, 1992; Blackmun's Part II joined by Stone, Stevens, O'Connor and Souter.
 - Independently sufficient pressure ground: *Lee*, “The school-directed ceremony also imposes impermissible religious pressure”; Kennedy's concurrence joined by Blackmun, Stevens, O'Connor and Souter. Each rule has five direct supporters; neither depends on Marks or on treating Stone as joining Kennedy.
 
 **Present operation effective:** *Lee*, June 24, 1992, for the identified secondary-school graduation practice.
 
 **Exceptions and limits:** The decision applies existing school-worship and Lemon principles at this recurring graduation setting without creating a replacement establishment test. Private prayer and genuinely private equal-access speech remain distinct. Adult legislative prayer, general accommodation, funding and denominational aid are not decided.
 
-**Holdings navigation:** [Lee v. Weisman, 505 U.S. 577 (1992) — Official school prayer](HOLDINGS.candidate.md#lee-v-weisman-505-us-577-1992-1).
+**Holdings navigation:** [Lee v. Weisman, 505 U.S. 577 (1992) — Official school prayer](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#lee-v-weisman-505-us-577-1992-1).
 
 ## Reproductive liberty and abortion regulation
 
@@ -810,7 +810,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Protected previability choice, individualized viability and necessary life-and-health protection: [Planned Parenthood of Southeastern Pennsylvania v. Casey, “The framework retaining protected choice”](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; Stone's opinion joined by Blackmun, Stevens, O'Connor, Kennedy and Souter.
+- Protected previability choice, individualized viability and necessary life-and-health protection: [Planned Parenthood of Southeastern Pennsylvania v. Casey, “The framework retaining protected choice”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; Stone's opinion joined by Blackmun, Stevens, O'Connor, Kennedy and Souter.
 - All six steps, including the independent obstacle bar, residual severe-interference scrutiny, meaningful lesser-burden substantiation, proof allocation, clinical safeguards and relief: *Casey*, “The standard governing previability regulation after this decision”; Stone's opinion joined by Blackmun, Stevens, O'Connor and Souter. These five direct joins supply the whole rule; no *Marks* synthesis is needed.
 - Integrated displacement of the independent trimester timetable: *Casey*, “The trimester timetable and the timing of regulation”; the same five-Justice rationale. The other four votes against continuing the timetable do not join the replacement framework.
 
@@ -822,7 +822,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Material development:** The independent trimester timing restrictions are displaced only with adoption of this complete substitute. Protected choice, viability and necessary life-and-health care survive. Absence of a substantial obstacle no longer ends the inquiry into demonstrated meaningful interference.
 
-**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Scope of prospective relief for abortion requirements](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Reproductive liberty and constitutional precedent](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-5).
+**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Scope of prospective relief for abortion requirements](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Reproductive liberty and constitutional precedent](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-5).
 
 ### Spousal notification that gives practical control over protected choice
 
@@ -832,7 +832,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Effective control, affected-group review and notice-specific facial qualification: [Casey, “Spousal notice and effective control over the protected decision”](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; Stone, Blackmun, Stevens, O'Connor, Kennedy and Souter directly support the rationale.
+- Effective control, affected-group review and notice-specific facial qualification: [Casey, “Spousal notice and effective control over the protected decision”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; Stone, Blackmun, Stevens, O'Connor, Kennedy and Souter directly support the rationale.
 - Dependent reporting versus independently severable demographic information: *Casey*, “Notice-compliance and nonnotification-reason reports” (the same six) and “The independently severable marital-status field” (all nine).
 
 **Present operation effective:** *Casey*, June 29, 1992.
@@ -841,7 +841,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Related current rules:** “Protected choice and the six-step standard for previability regulation” supplies the five-Justice independently dispositive obstacle rule. Kennedy joins this notice-specific rationale without joining that whole standard.
 
-**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion reporting and public disclosure](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-3); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Spousal control of reproductive choice](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-6).
+**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion reporting and public disclosure](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-3); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Spousal control of reproductive choice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-6).
 
 ### Medical emergency and the separate disclosure-health defense
 
@@ -851,7 +851,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Emergency construction: [Casey, “Medical emergency and the protective construction of §3203”](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992.
+- Emergency construction: [Casey, “Medical emergency and the protective construction of §3203”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992.
 - Conditional prior explanation: *Casey*, “Emergency explanation under §3205(b).”
 - Separate defense and enacted proof burden: *Casey*, “The distinct information-omission defense in §3205(c).” All three are unanimous direct holdings.
 
@@ -859,7 +859,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Exceptions and limits:** The significant-threat interpretation is the Court's adoption of the Third Circuit's prospective construction, not extra statutory language or a binding Pennsylvania Supreme Court construction. No separate emergency-vagueness holding or decision about every clinical risk or postviability restriction follows. The statutory defense's burden remains distinct from the constitutional proof allocation.
 
-**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion emergency care](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-1); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion informed consent](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-2).
+**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion emergency care](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-1); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion informed consent](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-2).
 
 ### Accurate abortion-consent information, optional materials and receipt certification
 
@@ -871,7 +871,7 @@ The First Amendment independently permits these bounded medical and ancillary di
 
 **Authority by component:**
 
-- Medical content, objective publication/chosen receipt and basic certification: [Casey, “Accurate material medical information,” “Statutory publication and chosen receipt of materials,” and “Certification of lawful receipt”](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; unanimous direct holdings at those scopes.
+- Medical content, objective publication/chosen receipt and basic certification: [Casey, “Accurate material medical information,” “Statutory publication and chosen receipt of materials,” and “Certification of lawful receipt”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; unanimous direct holdings at those scopes.
 - Each ancillary notice and its qualification: *Casey*, “Notice of available free materials,” “Notice of potentially available medical assistance,” and “Paternal-support notice and the rape omission permission”; Stone, Stevens, O'Connor, Kennedy and Souter supply five rationale joins. The additional judgment votes do not broaden that rationale.
 - Independent speech rules: *Casey*, the three “Independent speech challenge” holdings; Souter with White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas for medical content, chosen materials and basic certification; the same group without Blackmun for ancillary notices. Stone's judgment-only agreements supply no speech rationale.
 - Dependent timing and delivery links: *Casey*, “Certification of lawful receipt,” with the five-Justice invalidation grounds in “Physician delivery of medical information” and “The mandatory 24-hour interval.”
@@ -882,7 +882,7 @@ The First Amendment independently permits these bounded medical and ancillary di
 
 **Material development:** Akron and Thornburgh are qualified only insofar as they categorically prohibit the sustained concise, accurate ancillary notices because they may encourage childbirth; their protection against misleading, coercive and unjustifiably burdensome implementation remains.
 
-**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion informed consent](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-2); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion information and compelled speech](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-7).
+**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion informed consent](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-2); [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion information and compelled speech](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-7).
 
 ### One-parent informed consent with an independent judicial bypass
 
@@ -894,7 +894,7 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Authority by component:**
 
-- Structure, statutory substitutions, emergency exception and alternate bypass routes: [Casey, “One-parent informed consent and independent judicial bypass”](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; unanimous rationale.
+- Structure, statutory substitutions, emergency exception and alternate bypass routes: [Casey, “One-parent informed consent and independent judicial bypass”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; unanimous rationale.
 - Parental information and nonincorporation of additional timing, speaker or attendance obligations: *Casey*, “Accurate information used for informed parental consent”; Souter, White, Stevens, O'Connor, Scalia, Kennedy and Thomas supply seven rationale joins. Stone agrees only in the judgment on this component.
 - No bypass-based approval of an unestablished extra visit: *Casey*, “The parental-attendance objection and the denial of special relief”; Stone, Blackmun, Stevens, O'Connor and Souter supply the controlling ground.
 
@@ -902,7 +902,7 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Exceptions and limits:** These are the sustained statutory safeguards, not a holding that every one is constitutionally indispensable everywhere. The lower court's use of §3205 to explain parental information is a construction, not enacted incorporation of all adult mechanisms. No independent adult-incapacity claim or hypothetical compulsory-visit operation is decided.
 
-**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Minor consent and independent authorization](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-4).
+**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Minor consent and independent authorization](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-4).
 
 ### Confidential abortion reporting and distinct medical predicates
 
@@ -912,14 +912,14 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Authority by component:**
 
-- Each distinct medical field and its construction: [Casey, “Confidential reporting of medical necessity under §3214(a)(8),” “Confidential reporting of an emergency judgment under §3214(a)(10),” and “Confidential reporting of the diagnostic basis under §3214(a)(11)”](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; unanimous direct holdings.
+- Each distinct medical field and its construction: [Casey, “Confidential reporting of medical necessity under §3214(a)(8),” “Confidential reporting of an emergency judgment under §3214(a)(10),” and “Confidential reporting of the diagnostic basis under §3214(a)(11)”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md), June 29, 1992; unanimous direct holdings.
 - Independent demographic field: *Casey*, “The independently severable marital-status field”; unanimous direct holding.
 
 **Present operation effective:** *Casey*, June 29, 1992.
 
 **Exceptions and limits:** The separate gestational-age result field and unappealed underlying ascertainment/collection duties are not newly adjudicated. Confidential collection does not itself justify public release, and confidentiality alone does not answer a demonstrated access burden. The public-release relief concerning §§3207(b) and 3214(f) is confined to the plaintiff facilities' covered reports; extension requires its own evidentiary and procedural basis. No general immunity from financial accountability or governmental entitlement to intimate information follows.
 
-**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion reporting and public disclosure](HOLDINGS.candidate.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-3).
+**Holdings navigation:** [Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) — Abortion reporting and public disclosure](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#planned-parenthood-of-southeastern-pennsylvania-v-casey-505-us-833-1992-3).
 
 ## Education and equal protection
 
@@ -930,14 +930,14 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Current rule:** A court may withdraw supervision from a completed component while retaining jurisdiction and supervision elsewhere only after the school district shows full and satisfactory compliance and elimination of the relevant vestiges to the extent practicable. The court must assess demonstrated good faith toward the whole decree and whether retaining control of that component is necessary or practicable to obtain compliance elsewhere; release may not obstruct the remaining remedy. The district bears the burden of showing that imbalance for which it disclaims responsibility is not traceable to the constitutional violation. Genuinely independent demographic changes do not require perpetual balancing after required remedial work is completed. Existing findings receive clear-error review, but a finding on one question does not decide unexamined causal or remedial relationships. Withdrawal orders must define obligations released, remaining duties and retained supervision.
 
 **Authority by component:**
-- Partial-release conditions, burden and integrated assessment: [Freeman v. Pitts](../records/Freeman_v_Pitts_merits_1992-03-31.md), March 31, 1992, holding 1, “Partial withdrawal under an unfinished decree.”
+- Partial-release conditions, burden and integrated assessment: [Freeman v. Pitts](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Freeman_v_Pitts_merits_1992-03-31.md), March 31, 1992, holding 1, “Partial withdrawal under an unfinished decree.”
 - Causation, clear-error review and defined retained obligations: the same record, holding 2, “Causation and the limits of the remand.” Stone for White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Souter controls; Thomas did not participate.
 
 **Present operation effective:** Freeman, March 31, 1992.
 
 **Exceptions and limits:** Racial imbalance alone establishes neither a present constitutional violation nor entitlement to release. Neither good intentions alone, an automatic demographic exemption nor categorical simultaneous compliance across all components replaces the specified showing. Rufo's consent-decree modification standard is distinct and imposes no additional changed-circumstances prerequisite for finding a school-decree obligation fulfilled. Separate opinions' specific factual applications and proposed changes to causation presumptions do not control.
 
-**Holdings navigation:** [Freeman v. Pitts, 503 U.S. 467 (1992) — School desegregation decrees](HOLDINGS.candidate.md#freeman-v-pitts-503-us-467-1992).
+**Holdings navigation:** [Freeman v. Pitts, 503 U.S. 467 (1992) — School desegregation decrees](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#freeman-v-pitts-503-us-467-1992).
 
 ### Dismantling a formerly segregated public university system
 
@@ -947,13 +947,13 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Authority by component:**
 
-- Continuing duty, burden, combined-effects inquiry and violation-linked remedies: [United States v. Fordice and Ayers v. Fordice, holdings 1–4](../records/United_States_v_Fordice_and_Ayers_v_Fordice_merits_1992-06-26.md), June 26, 1992; White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas. The related Title VI disposition uses that same established discrimination duty.
+- Continuing duty, burden, combined-effects inquiry and violation-linked remedies: [United States v. Fordice and Ayers v. Fordice, holdings 1–4](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Fordice_and_Ayers_v_Fordice_merits_1992-06-26.md), June 26, 1992; White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas. The related Title VI disposition uses that same established discrimination duty.
 
 **Present operation effective:** *Fordice*, June 26, 1992, specifying the established dismantlement duty in higher education.
 
 **Exceptions and limits:** New policies without roots in the dual system remain subject to ordinary equal-protection analysis. No proportional-enrollment command, universal test-score ban, closure order, general Title VI disparate-impact cause or new heightened proof quantum follows. Freeman's separate school-decree rules and Rufo's consent-decree modification rule retain their distinct functions.
 
-**Holdings navigation:** [United States v. Fordice; Ayers v. Fordice, 505 U.S. 717 (1992) — University desegregation](HOLDINGS.candidate.md#united-states-v-fordice-ayers-v-fordice-505-us-717-1992).
+**Holdings navigation:** [United States v. Fordice; Ayers v. Fordice, 505 U.S. 717 (1992) — University desegregation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-fordice-ayers-v-fordice-505-us-717-1992).
 
 ## Apportionment and representation
 
@@ -964,14 +964,14 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Current rule:** Courts may review the constitutional population challenge to equal proportions; Congress's responsibility to choose a method and the availability of more than one constitutional method do not make that challenge a political question. When allocating whole Representatives within a statutorily fixed House while respecting state boundaries and each State's constitutional minimum, Congress may choose the population-based relative representational equality supplied by equal proportions. Improvement in selected absolute population disparities does not establish invalidity where the proposed change worsens other legitimate measures of equality. This permits equal proportions without uniquely requiring it, validating every population-related formula or creating a percentage tolerance. Intrastate district-equality requirements remain distinct and unchanged.
 
 **Authority by component:**
-- Constitutional reviewability: [United States Department of Commerce v. Montana](../records/United_States_Department_of_Commerce_v_Montana_merits_1992-03-31.md), March 31, 1992, “Congress's apportionment choice remains subject to constitutional review,” Part II.
+- Constitutional reviewability: [United States Department of Commerce v. Montana](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_Department_of_Commerce_v_Montana_merits_1992-03-31.md), March 31, 1992, “Congress's apportionment choice remains subject to constitutional review,” Part II.
 - Permissible relative-equality method and limits: the same record, “Equal proportions satisfies the presented interstate population challenge,” Part III. Stevens's unanimous opinion controls both components.
 
 **Present operation effective:** Montana, March 31, 1992.
 
 **Open question:** The separate Article I, §§2 and 7 challenge to automatic decennial apportionment remains undecided, including its standing, justiciability, merits and relief. This construction does not constitutionalize a House of 435 or decide counting-rule challenges.
 
-**Holdings navigation:** [United States Department of Commerce v. Montana, 503 U.S. 442 (1992) — Political questions and constitutional review](HOLDINGS.candidate.md#united-states-department-of-commerce-v-montana-503-us-442-1992); [United States Department of Commerce v. Montana, 503 U.S. 442 (1992) — Interstate congressional apportionment](HOLDINGS.candidate.md#united-states-department-of-commerce-v-montana-503-us-442-1992-3).
+**Holdings navigation:** [United States Department of Commerce v. Montana, 503 U.S. 442 (1992) — Political questions and constitutional review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-department-of-commerce-v-montana-503-us-442-1992); [United States Department of Commerce v. Montana, 503 U.S. 442 (1992) — Interstate congressional apportionment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-department-of-commerce-v-montana-503-us-442-1992-3).
 
 ### Counting temporarily overseas federal personnel with enduring state ties
 
@@ -981,13 +981,13 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Authority by component:**
 
-- Permissible residence connection: [Franklin v. Massachusetts, “Temporarily absent residents may be included in the constitutional count”](../records/Franklin_v_Massachusetts_merits_1992-06-26.md), June 26, 1992; Stone's Part III joined by all eight Associates.
+- Permissible residence connection: [Franklin v. Massachusetts, “Temporarily absent residents may be included in the constitutional count”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Franklin_v_Massachusetts_merits_1992-06-26.md), June 26, 1992; Stone's Part III joined by all eight Associates.
 
 **Present operation effective:** *Franklin*, June 26, 1992.
 
 **Exceptions and limits:** No dataset is universally required or approved. The record-specific APA explanation and methodology ruling adds no new standard of administrative review or tolerance for unequal districts within a State.
 
-**Holdings navigation:** [Franklin v. Massachusetts, 505 U.S. 788 (1992) — Interstate congressional apportionment](HOLDINGS.candidate.md#franklin-v-massachusetts-505-us-788-1992-1).
+**Holdings navigation:** [Franklin v. Massachusetts, 505 U.S. 788 (1992) — Interstate congressional apportionment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#franklin-v-massachusetts-505-us-788-1992-1).
 
 ## Federalism
 
@@ -998,7 +998,7 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Current rule:** Congress may not require an unwilling State to choose between regulating private waste generators under federal instructions and accepting ownership and possession of their waste with associated liability. Two unauthorized commands do not create a lawful option. State officials' advocacy for the federal statute neither enlarges congressional powers nor estops a noncompacting State from challenging the command. This differs from authorized monetary or access inducements leaving the State free to choose whether and how to govern, where consequences of refusal fall on private generators rather than transferring their responsibilities to the State.
 
 **Authority by component:**
-- Compulsory-ownership alternative and officials' assent: [New York v. United States, “5. Compulsory state ownership or regulation”](../records/New_York_v_United_States_merits_1992-06-19.md), June 19, 1992; O'Connor, joined by Scalia, Kennedy, Souter and Thomas (five), extending Hodel's legislative-compulsion boundary.
+- Compulsory-ownership alternative and officials' assent: [New York v. United States, “5. Compulsory state ownership or regulation”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/New_York_v_United_States_merits_1992-06-19.md), June 19, 1992; O'Connor, joined by Scalia, Kennedy, Souter and Thomas (five), extending Hodel's legislative-compulsion boundary.
 - Distinct actual monetary and access inducements: New York, “3. Monetary incentives” and “4. Access incentives,” June 19, 1992; O'Connor Parts III-A and III-B, supported by all eight Associate Justices including the author, applying the received spending and commerce doctrines without creating a numerical coercion threshold.
 
 **Controlling construction:** The 1985 Act's general state-responsibility language states an objective implemented through the specified incentives; it supplies no independently enforceable command to regulate. This is the five-Justice holding in New York, “2. No independent command in the responsibility clause,” not a generic avoidance rule.
@@ -1007,7 +1007,7 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Exceptions and limits:** Generally applicable regulation of state activity under Garcia and Baker remains distinct and undisturbed. Actual compact obligations, state market conduct, state-court duties and judicial enforcement of federal law are reserved. The decision establishes no general Guarantee Clause justiciability rule or power to direct other States to accept waste.
 
-**Holdings navigation:** [New York v. United States, 505 U.S. 144 (1992) — Federal incentives and compulsory state administration](HOLDINGS.candidate.md#new-york-v-united-states-505-us-144-1992).
+**Holdings navigation:** [New York v. United States, 505 U.S. 144 (1992) — Federal incentives and compulsory state administration](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#new-york-v-united-states-505-us-144-1992).
 
 ## Federal preemption
 
@@ -1018,14 +1018,14 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Current rule:** Section 1305(a)(1) preempts state enforcement having a connection with or reference to covered air-carrier rates, routes or services. General applicability does not avoid that express relation, and §1506's general remedies clause preserves remedies outside the specific prohibition without undoing it. Fare-marketing requirements that directly regulate fare descriptions, restrictions, availability, surcharges and round-trip pricing fall within that construction. Independently, the identified package of compelled disclosures and advertising restrictions is preempted because it substantially constrains the marketing of restricted fares and significantly affects fares themselves. Directly covered requirements need not conflict with an existing federal rule; consistency alone does not defeat the express prohibition.
 
 **Authority by component:**
-- Connection-or-reference construction, savings and direct-reference ground: [Morales v. Trans World Airlines, Inc., “Express relation to rates and the savings clause”](../records/Morales_v_Trans_World_Airlines_Inc_merits_1992-06-01.md), June 1, 1992; Scalia, joined by White, O'Connor, Kennedy and Thomas (five).
+- Connection-or-reference construction, savings and direct-reference ground: [Morales v. Trans World Airlines, Inc., “Express relation to rates and the savings clause”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Morales_v_Trans_World_Airlines_Inc_merits_1992-06-01.md), June 1, 1992; Scalia, joined by White, O'Connor, Kennedy and Thomas (five).
 - Independent significant-effects ground at the identified fare-marketing scope: Morales, “Independently sufficient effect of these fare-marketing requirements,” June 1, 1992; same five Justices.
 
 **Present operation effective:** Morales v. Trans World Airlines, Inc., June 1, 1992.
 
 **Exceptions and limits:** Tenuous, remote or peripheral connections, materially different nonprice duties and every indirect business cost are outside the resolved boundary. The effects holding is not a freestanding economic-effects threshold for all state laws. Federal unfair-practices authority is not an independent field-preemption holding. The decision creates neither general airline immunity nor complete displacement of ordinary state remedies.
 
-**Holdings navigation:** [Morales v. Trans World Airlines, Inc., 504 U.S. 374 (1992) — Federal preemption](HOLDINGS.candidate.md#morales-v-trans-world-airlines-inc-504-us-374-1992).
+**Holdings navigation:** [Morales v. Trans World Airlines, Inc., 504 U.S. 374 (1992) — Federal preemption](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#morales-v-trans-world-airlines-inc-504-us-374-1992).
 
 ### Occupational-safety supplementation without an approved state plan
 
@@ -1034,13 +1034,13 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Current rule:** Occupational overlap and lack of an approved state plan do not alone establish preemption. The provisions require examination for an actual basis of displacement; neither overlap nor a dual worker-and-public-safety purpose is conclusive. This is a limited negative holding: it supplies no complete replacement test for conflict, no universal permission whenever simultaneous compliance is physically possible and no approval of every compatible state license. Surviving pre-divergence conflict principles, including Hines and Florida Lime, remain operative on their own terms.
 
 **Authority by component:**
-- Rejection of automatic displacement and provision-specific inquiry: [Gade v. National Solid Wastes Management Association, “1. Section 18 does not automatically displace compatible supplementation”](../records/Gade_v_National_Solid_Wastes_Management_Association_merits_1992-06-18.md), June 18, 1992; expressly shared proposition of Souter, Blackmun, Stevens, Thomas and Stone-Zsela (five). Souter's complete opinion has only four joins; no broader Marks rule is extracted.
+- Rejection of automatic displacement and provision-specific inquiry: [Gade v. National Solid Wastes Management Association, “1. Section 18 does not automatically displace compatible supplementation”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Gade_v_National_Solid_Wastes_Management_Association_merits_1992-06-18.md), June 18, 1992; expressly shared proposition of Souter, Blackmun, Stevens, Thomas and Stone-Zsela (five). Souter's complete opinion has only four joins; no broader Marks rule is extracted.
 
 **Present operation effective:** Gade v. National Solid Wastes Management Association, June 18, 1992.
 
 **Unresolved interaction:** Morales construes a different express airline clause and supplies no general anti-duplication objective for §18. Gade does not replace the independent force of an actual statutory ceiling, exclusive arrangement, savings provision or proved incompatibility; the competing writings do not establish a unified new positive conflict test.
 
-**Holdings navigation:** [Gade v. National Solid Wastes Management Association, 505 U.S. 88 (1992) — Federal preemption](HOLDINGS.candidate.md#gade-v-national-solid-wastes-management-association-505-us-88-1992).
+**Holdings navigation:** [Gade v. National Solid Wastes Management Association, 505 U.S. 88 (1992) — Federal preemption](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#gade-v-national-solid-wastes-management-association-505-us-88-1992).
 
 ### Cigarette-labeling preemption by statutory period and predicate duty
 
@@ -1052,7 +1052,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Original-Act construction: [Cipollone v. Liggett Group, Inc., “The 1965 Act does not displace these common-law damages claims”](../records/Cipollone_v_Liggett_Group_Inc_merits_1992-06-24.md), June 24, 1992; Stevens, Stone, White, Blackmun, O'Connor, Kennedy and Souter.
+- Original-Act construction: [Cipollone v. Liggett Group, Inc., “The 1965 Act does not displace these common-law damages claims”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Cipollone_v_Liggett_Group_Inc_merits_1992-06-24.md), June 24, 1992; Stevens, Stone, White, Blackmun, O'Connor, Kennedy and Souter.
 - Covered warning and neutralization duties under the successor clause: *Cipollone*, “The successor clause reaches covered warning and warning-neutralization duties”; Stevens, Stone, White and O'Connor plus Scalia and Thomas expressly support that operative proposition.
 - Warranty, independent nonpromotional duties, intentional falsehood and surviving conspiracy: *Cipollone*, “Voluntarily undertaken express warranties survive,” “Independently actionable nonpromotional conduct remains outside the clause,” and “General intentional falsehood and surviving concealment conspiracies are not barred.” The record identifies Stevens's four-member narrower grounds as controlling under Marks, with Blackmun, Kennedy and Souter's broader no-common-law-preemption grounds; each surviving category is a logical subset producing the same result, with seven judgment supporters. No whole amended-Act opinion or blanket common-law exemption is adopted.
 
@@ -1060,7 +1060,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Exceptions and limits:** Preserved claims still require an actual state-law duty and all applicable elements. No agency-disclosure duty, design-defect ruling, later-amendment construction, cigarette field immunity or generic bar on independently established actual-conflict preemption is supplied. Gade's negative overlap rule and Morales's separate airline language retain their own scopes.
 
-**Holdings navigation:** [Cipollone v. Liggett Group, Inc., 505 U.S. 504 (1992) — Federal preemption](HOLDINGS.candidate.md#cipollone-v-liggett-group-inc-505-us-504-1992).
+**Holdings navigation:** [Cipollone v. Liggett Group, Inc., 505 U.S. 504 (1992) — Federal preemption](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#cipollone-v-liggett-group-inc-505-us-504-1992).
 
 ## Immigration
 
@@ -1072,13 +1072,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Actual §554 governance and exclusion of the independent INA proceeding: [Ardestani v. INS — Law of the decision, Holding and operative rule](../records/Ardestani_v_INS_merits_1991-12-10.md), December 10, 1991; O'Connor's opinion joined by Stone, White, Scalia, Kennedy, and Souter.
+- Actual §554 governance and exclusion of the independent INA proceeding: [Ardestani v. INS — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Ardestani_v_INS_merits_1991-12-10.md), December 10, 1991; O'Connor's opinion joined by Stone, White, Scalia, Kennedy, and Souter.
 
 **Present operation effective:** *Ardestani*, December 10, 1991.
 
 **Exceptions and limits:** This construction does not restrict a qualifying judicial EAJA action or administrative work integral to it; that distinct predicate must be established independently.
 
-**Holdings navigation:** [Ardestani v. INS, 502 U.S. 129 (1991) — Administrative fee awards](HOLDINGS.candidate.md#ardestani-v-ins-502-us-129-1991).
+**Holdings navigation:** [Ardestani v. INS, 502 U.S. 129 (1991) — Administrative fee awards](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ardestani-v-ins-502-us-129-1991).
 
 ### Unauthorized-employment conditions on immigration release
 
@@ -1088,7 +1088,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Narrowed condition and individual-status safeguards: [INS v. National Center for Immigrants' Rights — Law of the decision, Holding and operative rule](../records/INS_v_NCIR_merits_1991-12-16.md), December 16, 1991; Stevens's unanimous opinion.
+- Narrowed condition and individual-status safeguards: [INS v. National Center for Immigrants' Rights — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/INS_v_NCIR_merits_1991-12-16.md), December 16, 1991; Stevens's unanimous opinion.
 
 **Present operation effective:** *NCIR*, December 16, 1991.
 
@@ -1097,7 +1097,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Exceptions and limits:** This authorization rule preserves the existing individualized relief avenue; it does not define eligibility or decision criteria for discretionary work-authorization relief. No entitlement to such relief is inferred.
 
-**Holdings navigation:** [INS v. National Center for Immigrants' Rights, Inc., 502 U.S. 183 (1991) — Release conditions](HOLDINGS.candidate.md#ins-v-national-center-for-immigrants-rights-inc-502-us-183-1991).
+**Holdings navigation:** [INS v. National Center for Immigrants' Rights, Inc., 502 U.S. 183 (1991) — Release conditions](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ins-v-national-center-for-immigrants-rights-inc-502-us-183-1991).
 
 ### Political-opinion nexus in coercive recruitment claims
 
@@ -1107,14 +1107,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Applicant-specific nexus and direct or circumstantial motive evidence: [INS v. Elias-Zacarias — Political purpose of the recruiting group does not itself establish nexus](../records/INS_v_Elias_Zacarias_merits_1992-01-22.md), January 22, 1992.
-- Review of the supported nexus determination and limited reopening reach: [Elias-Zacarias — The existing record does not warrant overturning the Board](../records/INS_v_Elias_Zacarias_merits_1992-01-22.md), January 22, 1992. Scalia's opinion joined by White, Kennedy, Souter, and Thomas controls both; Stone's agreement with rejecting the categorical premise does not join the opinion.
+- Applicant-specific nexus and direct or circumstantial motive evidence: [INS v. Elias-Zacarias — Political purpose of the recruiting group does not itself establish nexus](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/INS_v_Elias_Zacarias_merits_1992-01-22.md), January 22, 1992.
+- Review of the supported nexus determination and limited reopening reach: [Elias-Zacarias — The existing record does not warrant overturning the Board](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/INS_v_Elias_Zacarias_merits_1992-01-22.md), January 22, 1992. Scalia's opinion joined by White, Kennedy, Souter, and Thomas controls both; Stone's agreement with rejecting the categorical premise does not join the opinion.
 
 **Present operation effective:** *Elias-Zacarias*, January 22, 1992.
 
 **Open question:** Political neutrality is not categorically excluded, but the Court does not adopt an unqualified rule resolving imputed political opinion. No new substantive reopening rule is supplied by the earlier fractured *Doherty* dispositions.
 
-**Holdings navigation:** [INS v. Elias-Zacarias, 502 U.S. 478 (1992) — Persecution and review of agency findings](HOLDINGS.candidate.md#ins-v-elias-zacarias-502-us-478-1992).
+**Holdings navigation:** [INS v. Elias-Zacarias, 502 U.S. 478 (1992) — Persecution and review of agency findings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ins-v-elias-zacarias-502-us-478-1992).
 
 ## Labor, employment, and maritime law
 
@@ -1126,13 +1126,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Occupational classification, unadjudicated-benefits nonpreclusion, and credit: [Southwest Marine v. Gizoni — Law of the decision, Holding and operative rule](../records/Southwest_Marine_v_Gizoni_merits_1991-12-04.md), December 4, 1991; White's unanimous participating opinion, applying the preserved *Wilander* status requirements.
+- Occupational classification, unadjudicated-benefits nonpreclusion, and credit: [Southwest Marine v. Gizoni — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Southwest_Marine_v_Gizoni_merits_1991-12-04.md), December 4, 1991; White's unanimous participating opinion, applying the preserved *Wilander* status requirements.
 
 **Present operation effective:** *Gizoni*, December 4, 1991.
 
 **Open question:** The preclusive effect of a final award or settlement is not decided.
 
-**Holdings navigation:** [Southwest Marine, Inc. v. Gizoni, 502 U.S. 81 (1991) — Seaman status and compensation](HOLDINGS.candidate.md#southwest-marine-inc-v-gizoni-502-us-81-1991).
+**Holdings navigation:** [Southwest Marine, Inc. v. Gizoni, 502 U.S. 81 (1991) — Seaman status and compensation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#southwest-marine-inc-v-gizoni-502-us-81-1991).
 
 ### Member enforcement of interunion contracts under §301
 
@@ -1142,11 +1142,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Beneficiary standing and continued interunion-contract character: [Wooddell v. International Brotherhood of Electrical Workers, Local 71 — Section 301 plaintiff and contract coverage](../records/Wooddell_v_IBEW_Local_71_merits_1991-12-04.md), December 4, 1991; White's unanimous participating opinion.
+- Beneficiary standing and continued interunion-contract character: [Wooddell v. International Brotherhood of Electrical Workers, Local 71 — Section 301 plaintiff and contract coverage](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Wooddell_v_IBEW_Local_71_merits_1991-12-04.md), December 4, 1991; White's unanimous participating opinion.
 
 **Present operation effective:** *Wooddell*, December 4, 1991.
 
-**Holdings navigation:** [Wooddell v. International Brotherhood of Electrical Workers, Local 71, 502 U.S. 93 (1991) — Union-constitution enforcement](HOLDINGS.candidate.md#wooddell-v-international-brotherhood-of-electrical-workers-local-71-502-us-93-1991-1).
+**Holdings navigation:** [Wooddell v. International Brotherhood of Electrical Workers, Local 71, 502 U.S. 93 (1991) — Union-constitution enforcement](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#wooddell-v-international-brotherhood-of-electrical-workers-local-71-502-us-93-1991-1).
 
 ### Duration of protected military-service leave under §2024(d)
 
@@ -1156,11 +1156,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Rejection of judicial duration limits: [King v. St. Vincent's Hospital — Law of the decision, Holding and operative rule](../records/King_v_St_Vincents_Hospital_merits_1991-12-16.md), December 16, 1991; Souter's unanimous participating opinion.
+- Rejection of judicial duration limits: [King v. St. Vincent's Hospital — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/King_v_St_Vincents_Hospital_merits_1991-12-16.md), December 16, 1991; Souter's unanimous participating opinion.
 
 **Present operation effective:** *King*, December 16, 1991.
 
-**Holdings navigation:** [King v. St. Vincent's Hospital, 502 U.S. 215 (1991) — Military leave and reemployment](HOLDINGS.candidate.md#king-v-st-vincents-hospital-502-us-215-1991).
+**Holdings navigation:** [King v. St. Vincent's Hospital, 502 U.S. 215 (1991) — Military leave and reemployment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#king-v-st-vincents-hospital-502-us-215-1991).
 
 ### Nonemployee organizers' access under a nondiscriminatory exclusion policy
 
@@ -1170,11 +1170,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Antecedent inaccessibility, communication-versus-success distinction, and rejection of universal *Jean Country* balancing: [Lechmere v. NLRB — Nonemployee access requires demonstrated inaccessibility before balancing](../records/Lechmere_v_NLRB_merits_1992-01-27.md), January 27, 1992; Stone's opinion joined by O'Connor, Scalia, Kennedy, Souter, and Thomas.
+- Antecedent inaccessibility, communication-versus-success distinction, and rejection of universal *Jean Country* balancing: [Lechmere v. NLRB — Nonemployee access requires demonstrated inaccessibility before balancing](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Lechmere_v_NLRB_merits_1992-01-27.md), January 27, 1992; Stone's opinion joined by O'Connor, Scalia, Kennedy, Souter, and Thomas.
 
 **Present operation effective:** *Lechmere*, January 27, 1992.
 
-**Holdings navigation:** [Lechmere, Inc. v. NLRB, 502 U.S. 527 (1992) — Nonemployee organizing access](HOLDINGS.candidate.md#lechmere-inc-v-nlrb-502-us-527-1992).
+**Holdings navigation:** [Lechmere, Inc. v. NLRB, 502 U.S. 527 (1992) — Nonemployee organizing access](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#lechmere-inc-v-nlrb-502-us-527-1992).
 
 ### ERISA employee status under general common-law agency
 
@@ -1183,11 +1183,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** ERISA incorporates general common-law agency, rather than any particular State's law or a substitute based on benefit expectations, reliance and bargaining power. Courts must weigh all incidents of the relationship, including control over the manner and means of work, skill, tools, work location, duration, assignment rights, scheduling discretion, payment, assistants, integration into the regular business, the hiring party's business, benefits and tax treatment. No factor, contractual label or expectation of benefits is decisive. Employee classification precedes the resulting vesting or forfeiture inquiry; this construction does not extend to statutes with broader express definitions, including the FLSA's suffer-or-permit definition.
 
 **Authority by component:**
-- Statutory construction and all-incidents inquiry: [Nationwide Mutual Insurance Co. v. Darden](../records/Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md), March 24, 1992, “ERISA employee status follows general common-law agency”; Souter's unanimous opinion.
+- Statutory construction and all-incidents inquiry: [Nationwide Mutual Insurance Co. v. Darden](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Nationwide_Mutual_Insurance_Co_v_Darden_merits_1992-03-24.md), March 24, 1992, “ERISA employee status follows general common-law agency”; Souter's unanimous opinion.
 
 **Present operation effective:** Darden, March 24, 1992.
 
-**Holdings navigation:** [Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 (1992) — ERISA employee classification](HOLDINGS.candidate.md#nationwide-mutual-insurance-co-v-darden-503-us-318-1992).
+**Holdings navigation:** [Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 (1992) — ERISA employee classification](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#nationwide-mutual-insurance-co-v-darden-503-us-318-1992).
 
 ### Vested LHWCA entitlement and third-party settlement approval
 
@@ -1197,13 +1197,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Vested entitlement, approval/filing and notification relationship: [Estate of Cowart v. Nicklos Drilling Co., “Vested entitlement exists before payment or an award”](../records/Estate_of_Cowart_v_Nicklos_Drilling_Co_merits_1992-06-22.md), June 22, 1992; Kennedy, Stone, White, Scalia, Souter and Thomas.
+- Vested entitlement, approval/filing and notification relationship: [Estate of Cowart v. Nicklos Drilling Co., “Vested entitlement exists before payment or an award”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Estate_of_Cowart_v_Nicklos_Drilling_Co_merits_1992-06-22.md), June 22, 1992; Kennedy, Stone, White, Scalia, Souter and Thomas.
 
 **Present operation effective:** *Cowart*, June 22, 1992.
 
 **Open question:** Whether employer participation independently satisfies or excuses approval, any preserved alternative-approval or waiver issue, the gross-versus-net comparison and effects on other final awards remain unresolved. Injury alone does not establish vested entitlement, and not every settlement requires approval. No new deference rule follows.
 
-**Holdings navigation:** [Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469 (1992) — Longshore compensation and third-party settlements](HOLDINGS.candidate.md#estate-of-cowart-v-nicklos-drilling-co-505-us-469-1992).
+**Holdings navigation:** [Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469 (1992) — Longshore compensation and third-party settlements](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#estate-of-cowart-v-nicklos-drilling-co-505-us-469-1992).
 
 ## Bankruptcy
 
@@ -1215,11 +1215,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Long-term-debt eligibility and all retained statutory elements and burden: [Union Bank v. Wolas — Law of the decision, Holding and operative rule](../records/Union_Bank_v_Wolas_merits_1991-12-11.md), December 11, 1991; Stevens's unanimous opinion.
+- Long-term-debt eligibility and all retained statutory elements and burden: [Union Bank v. Wolas — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Union_Bank_v_Wolas_merits_1991-12-11.md), December 11, 1991; Stevens's unanimous opinion.
 
 **Present operation effective:** *Wolas*, December 11, 1991.
 
-**Holdings navigation:** [Union Bank v. Wolas, 502 U.S. 151 (1991) — Ordinary-course preference exception](HOLDINGS.candidate.md#union-bank-v-wolas-502-us-151-1991).
+**Holdings navigation:** [Union Bank v. Wolas, 502 U.S. 151 (1991) — Ordinary-course preference exception](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#union-bank-v-wolas-502-us-151-1991).
 
 ### Chapter 7 strip-down of allowed real-property liens under §506(d)
 
@@ -1229,13 +1229,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Limited Chapter 7 construction and continued valuation function: [Dewsnup v. Timm — Allowed real-property liens in the presented Chapter 7 setting](../records/Dewsnup_v_Timm_merits_1992-01-15.md), January 15, 1992; Blackmun's opinion joined by White, Stevens, O'Connor, and Kennedy.
+- Limited Chapter 7 construction and continued valuation function: [Dewsnup v. Timm — Allowed real-property liens in the presented Chapter 7 setting](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Dewsnup_v_Timm_merits_1992-01-15.md), January 15, 1992; Blackmun's opinion joined by White, Stevens, O'Connor, and Kennedy.
 
 **Present operation effective:** *Dewsnup*, January 15, 1992.
 
 **Open question:** Other statutory settings, reorganization restrictions, express statutory exceptions, and estate-administration issues are not resolved by this construction. It does not adopt an abandonment rationale.
 
-**Holdings navigation:** [Dewsnup v. Timm, 502 U.S. 410 (1992) — Liens and claim valuation](HOLDINGS.candidate.md#dewsnup-v-timm-502-us-410-1992).
+**Holdings navigation:** [Dewsnup v. Timm, 502 U.S. 410 (1992) — Liens and claim valuation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#dewsnup-v-timm-502-us-410-1992).
 
 ### Federal sovereign immunity from affirmative bankruptcy money judgments
 
@@ -1245,14 +1245,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Original §106(c) monetary-waiver construction: [United States v. Nordic Village — Original §106(c) does not clearly authorize this monetary recovery](../records/United_States_v_Nordic_Village_merits_1992-02-25.md), February 25, 1992.
-- Distinction between jurisdiction and consent; inadequacy of property, trust, and recoupment labels: [Nordic Village — Jurisdictional and property labels do not sustain this money judgment](../records/United_States_v_Nordic_Village_merits_1992-02-25.md), February 25, 1992. Scalia's opinion joined by Stone, White, O'Connor, Kennedy, Souter, and Thomas controls both.
+- Original §106(c) monetary-waiver construction: [United States v. Nordic Village — Original §106(c) does not clearly authorize this monetary recovery](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Nordic_Village_merits_1992-02-25.md), February 25, 1992.
+- Distinction between jurisdiction and consent; inadequacy of property, trust, and recoupment labels: [Nordic Village — Jurisdictional and property labels do not sustain this money judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Nordic_Village_merits_1992-02-25.md), February 25, 1992. Scalia's opinion joined by Stone, White, O'Connor, Kennedy, Souter, and Thomas controls both.
 
 **Present operation effective:** *Nordic Village*, February 25, 1992.
 
 **Open question:** Genuinely distinct specific-property proceedings require their actual facts and independent authority; their validity is not decided. State immunity and a different express statutory waiver remain outside the decision.
 
-**Holdings navigation:** [United States v. Nordic Village, Inc., 503 U.S. 30 (1992) — Federal sovereign immunity](HOLDINGS.candidate.md#united-states-v-nordic-village-inc-503-us-30-1992).
+**Holdings navigation:** [United States v. Nordic Village, Inc., 503 U.S. 30 (1992) — Federal sovereign immunity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-nordic-village-inc-503-us-30-1992).
 
 ### Ordinary-check transfer date for preference avoidance
 
@@ -1261,11 +1261,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** The transfer occurs when the drawee honors the ordinary check, because delivery gives the payee no assigned interest in the debtor's account. Section 547(e) does not relate the transfer back to a time before that interest passed. The trustee must still establish the other preference elements, and properly presented statutory defenses retain their separate operation. The construction does not decide transfer timing under §547(c) or for nonordinary payment instruments.
 
 **Authority by component:**
-- Honor-date construction and preserved boundaries: [Barnhill v. Johnson](../records/Barnhill_v_Johnson_merits_1992-03-25.md), March 25, 1992, controlling holding 1, “Honor determines the §547(b) transfer”; Stone for White, O'Connor, Scalia, Kennedy, Souter and Thomas.
+- Honor-date construction and preserved boundaries: [Barnhill v. Johnson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Barnhill_v_Johnson_merits_1992-03-25.md), March 25, 1992, controlling holding 1, “Honor determines the §547(b) transfer”; Stone for White, O'Connor, Scalia, Kennedy, Souter and Thomas.
 
 **Present operation effective:** Barnhill, March 25, 1992.
 
-**Holdings navigation:** [Barnhill v. Johnson, 503 U.S. 393 (1992) — Preference transfer timing](HOLDINGS.candidate.md#barnhill-v-johnson-503-us-393-1992).
+**Holdings navigation:** [Barnhill v. Johnson, 503 U.S. 393 (1992) — Preference transfer timing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#barnhill-v-johnson-503-us-393-1992).
 
 ### Finality of an unchallenged scheduled exemption
 
@@ -1274,7 +1274,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Under 11 U.S.C. §522(l) and the applicable Rule 4003(b), property claimed as exempt becomes exempt if no party in interest objects within 30 days after the creditors' meeting concludes or a relevant amendment to the exemption list is filed, whichever is later, and no further time is granted within that period. Rule 9006(b)(3) allows enlargement only on Rule 4003(b)'s conditions. Lack of a colorable substantive exemption supplies no exception permitting a later objection. Uncertainty about a scheduled lawsuit's value permits timely inquiry and objection; it does not require waiting for collection. Properly supported misconduct remedies retain their own conditions and do not supply an adjudicated late-objection exception here.
 
 **Authority by component:**
-- Deadline, extension, no-objection consequence and rejection of a colorability exception: [Taylor v. Freeland & Kronz](../records/Taylor_v_Freeland_and_Kronz_merits_1992-04-21.md), April 21, 1992, “Untimely objection to a claimed exemption,” Thomas for Stone, White, Blackmun, O'Connor, Scalia, Kennedy and Souter, eight votes.
+- Deadline, extension, no-objection consequence and rejection of a colorability exception: [Taylor v. Freeland & Kronz](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Taylor_v_Freeland_and_Kronz_merits_1992-04-21.md), April 21, 1992, “Untimely objection to a claimed exemption,” Thomas for Stone, White, Blackmun, O'Connor, Scalia, Kennedy and Souter, eight votes.
 
 **Present operation effective:** Taylor, April 21, 1992.
 
@@ -1282,7 +1282,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Open question:** Section 105(a), unpreserved fraud, unscheduled assets, respondents' alternative valuation/lien/good-faith theories, sanctions and retroactivity remain unresolved.
 
-**Holdings navigation:** [Taylor v. Freeland & Kronz, 503 U.S. 638 (1992) — Exemption objections](HOLDINGS.candidate.md#taylor-v-freeland--kronz-503-us-638-1992).
+**Holdings navigation:** [Taylor v. Freeland & Kronz, 503 U.S. 638 (1992) — Exemption objections](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#taylor-v-freeland--kronz-503-us-638-1992).
 
 ### Federal-law transfer restrictions and exclusion of trust interests
 
@@ -1291,13 +1291,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Applicable nonbankruptcy law includes federal law. A transfer restriction on a debtor's beneficial interest in a trust is preserved when enforceable under that law; an established ERISA-qualified trust with an ERISA-enforceable antialienation restriction is therefore excluded from the estate. Exclusion is distinct from exemption and does not change exemption deadlines or adjudicate statutory avoidance remedies.
 
 **Authority by component:**
-- Federal-law construction and qualifying trust exclusion: [Patterson v. Shumate, “Holding 1: An enforceable federal pension restriction excludes this beneficial trust interest”](../records/Patterson_v_Shumate_merits_1992-06-15.md), June 15, 1992; Blackmun, joined by White, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas (eight).
+- Federal-law construction and qualifying trust exclusion: [Patterson v. Shumate, “Holding 1: An enforceable federal pension restriction excludes this beneficial trust interest”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Patterson_v_Shumate_merits_1992-06-15.md), June 15, 1992; Blackmun, joined by White, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas (eight).
 
 **Present operation effective:** Patterson v. Shumate, June 15, 1992.
 
 **Open question:** Other plans, nontrust interests, statutory exceptions, distributed benefits, §522(b)(2)(A) and the payment-versus-corpus scope of §522(d)(10)(E) are not decided.
 
-**Holdings navigation:** [Patterson v. Shumate, 504 U.S. 753 (1992) — Estate exclusions for pension trust interests](HOLDINGS.candidate.md#patterson-v-shumate-504-us-753-1992).
+**Holdings navigation:** [Patterson v. Shumate, 504 U.S. 753 (1992) — Estate exclusions for pension trust interests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#patterson-v-shumate-504-us-753-1992).
 
 ## Civil RICO and securities liquidation
 
@@ -1308,14 +1308,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** A plaintiff must establish factual causation and proximate cause, including some direct relation between the injury asserted and the alleged §1962 violation. Directness is a contextual requirement informed by attribution difficulties, overlapping recovery and available directly injured plaintiffs; those considerations explain the inherited requirement and are not separate newly required elements. Factual connection, foreseeable loss and an obligation to advance money alone are insufficient. Subrogation changes the claimant's identity without making the underlying injury more direct. The construction imports no antitrust-injury requirement, special racketeering injury or prior-conviction requirement, and creates no exceptionless bar to every third-party injury.
 
 **Authority by component:**
-- Factual and proximate cause, contextual directness and preserved limits: [Holmes v. Securities Investor Protection Corp.](../records/Holmes_v_Securities_Investor_Protection_Corp_merits_1992-03-24.md), March 24, 1992, “Civil RICO requires a sufficiently direct causal relation,” Part II.
+- Factual and proximate cause, contextual directness and preserved limits: [Holmes v. Securities Investor Protection Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Holmes_v_Securities_Investor_Protection_Corp_merits_1992-03-24.md), March 24, 1992, “Civil RICO requires a sufficiently direct causal relation,” Part II.
 - Subrogation cannot improve the directness of the asserted injury: the same record, “The nonpurchasing customers' derivative losses are too remote,” Part III-A. Souter for Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas controls both propositions; Scalia's judgment-only rationale is distinct.
 
 **Present operation effective:** Holmes, March 24, 1992.
 
 **Open question:** Whether securities-fraud RICO plaintiffs must be purchasers or sellers remains undecided; separate opinions rejecting that restriction do not create a Court holding.
 
-**Holdings navigation:** [Holmes v. Securities Investor Protection Corp., 503 U.S. 258 (1992) — Civil RICO causation and SIPA remedies](HOLDINGS.candidate.md#holmes-v-securities-investor-protection-corp-503-us-258-1992).
+**Holdings navigation:** [Holmes v. Securities Investor Protection Corp., 503 U.S. 258 (1992) — Civil RICO causation and SIPA remedies](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#holmes-v-securities-investor-protection-corp-503-us-258-1992).
 
 ### SIPA participation is not an independent damages action
 
@@ -1324,13 +1324,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Section 78eee(d) provides party-in-interest status, a right to be heard and deemed intervention in liquidation matters; it does not itself create an independent damages right for administration advances. The duty to fund administration under §78fff-3(b)(2) does not turn participation into a reimbursement action. Combining §78eee(d) with §1964(c) neither supplies a missing substantive recovery right nor dispenses with RICO's own conditions. Participation remains effective despite failure of that damages theory, and independently grounded claims under other law are not categorically foreclosed.
 
 **Authority by component:**
-- Provision-specific participation/recovery distinction: [Holmes v. Securities Investor Protection Corp.](../records/Holmes_v_Securities_Investor_Protection_Corp_merits_1992-03-24.md), March 24, 1992, “SIPA participation rights do not create damages liability,” Part III-B; Souter for Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas.
+- Provision-specific participation/recovery distinction: [Holmes v. Securities Investor Protection Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Holmes_v_Securities_Investor_Protection_Corp_merits_1992-03-24.md), March 24, 1992, “SIPA participation rights do not create damages liability,” Part III-B; Souter for Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas.
 
 **Present operation effective:** Holmes, March 24, 1992.
 
 **Open question:** The merits of administration-expense subrogation to trustees were not decided.
 
-**Holdings navigation:** [Holmes v. Securities Investor Protection Corp., 503 U.S. 258 (1992) — Civil RICO causation and SIPA remedies](HOLDINGS.candidate.md#holmes-v-securities-investor-protection-corp-503-us-258-1992).
+**Holdings navigation:** [Holmes v. Securities Investor Protection Corp., 503 U.S. 258 (1992) — Civil RICO causation and SIPA remedies](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#holmes-v-securities-investor-protection-corp-503-us-258-1992).
 
 ## Antitrust
 
@@ -1341,7 +1341,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Equipment competition is relevant but does not as a matter of law foreclose power in parts or service markets. Summary judgment cannot rest solely on an economic prediction contradicted by evidence supporting a rational inference of power, including material information or switching costs and actual price or exclusion effects; unsupported speculation remains insufficient. One brand's parts or service may constitute a relevant market when actual substitutes and competitive restraints support that definition. Brand identity alone neither establishes nor defeats the market. Sufficient separate consumer demand may distinguish functionally related parts and service; the ordinary tying and monopolization elements and Rule 56 burdens remain independently necessary.
 
 **Authority by component:**
-- Separate-demand background: [Eastman Kodak Co. v. Image Technical Services, Inc., “1. Distinct parts and service demand and conditional sales present a triable tying claim”](../records/Eastman_Kodak_Co_v_Image_Technical_Services_Inc_merits_1992-06-08.md), June 8, 1992, applying Jefferson Parish.
+- Separate-demand background: [Eastman Kodak Co. v. Image Technical Services, Inc., “1. Distinct parts and service demand and conditional sales present a triable tying claim”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Eastman_Kodak_Co_v_Image_Technical_Services_Inc_merits_1992-06-08.md), June 8, 1992, applying Jefferson Parish.
 - No categorical equipment-competition defense: Eastman Kodak, “2. Equipment-market competition is relevant but not a categorical defense,” June 8, 1992.
 - Single-brand market possibility: Eastman Kodak, “3. A single brand may define a relevant market when actual substitutes do not constrain it,” June 8, 1992.
 - Each proposition: Blackmun, joined by Stone-Zsela, White, Stevens, Kennedy and Souter (six).
@@ -1350,7 +1350,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Exceptions and limits:** No presumption of monopoly arises from a patent, proprietary design, brand identity, numerical share alone or imperfect information. Power, exclusionary acquisition or maintenance, antitrust injury and damages remain separate. No general duty to supply competitors is adopted.
 
-**Holdings navigation:** [Eastman Kodak Co. v. Image Technical Services, Inc., 504 U.S. 451 (1992) — Tying and aftermarket monopolization](HOLDINGS.candidate.md#eastman-kodak-co-v-image-technical-services-inc-504-us-451-1992).
+**Holdings navigation:** [Eastman Kodak Co. v. Image Technical Services, Inc., 504 U.S. 451 (1992) — Tying and aftermarket monopolization](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#eastman-kodak-co-v-image-technical-services-inc-504-us-451-1992).
 
 ### Actual state supervision of private rate fixing
 
@@ -1359,13 +1359,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** The private claimant must establish both a clearly articulated state policy and actual supervision of the particular restraint. State officials must exercise enough independent substantive judgment and control to make the rate scheme a product of deliberate state intervention; a legally available veto, functioning regulatory machinery, nominal approval or the legal effect of nonobjection alone does not suffice. The inquiry addresses actual substantive examination, not a mandatory regulatory form.
 
 **Authority by component:**
-- Active-supervision requirement: [FTC v. Ticor Title Insurance Co., “1. Private rate fixing requires actual substantive state supervision”](../records/FTC_v_Ticor_Title_Insurance_Co_merits_1992-06-12.md), June 12, 1992; Kennedy Parts II–III, joined by White, Blackmun, Stevens, Scalia and Souter (six).
+- Active-supervision requirement: [FTC v. Ticor Title Insurance Co., “1. Private rate fixing requires actual substantive state supervision”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/FTC_v_Ticor_Title_Insurance_Co_merits_1992-06-12.md), June 12, 1992; Kennedy Parts II–III, joined by White, Blackmun, Stevens, Scalia and Souter (six).
 
 **Present operation effective:** FTC v. Ticor Title Insurance Co., June 12, 1992.
 
 **Open question:** Distinct sovereign action, materially different comprehensive supervision, infrequent lapses, other insurance-law exemptions and any difference in FTC and Sherman Act immunity remain undecided. The existing statutory conclusiveness of supported Commission findings is not changed.
 
-**Holdings navigation:** [FTC v. Ticor Title Insurance Co., 504 U.S. 621 (1992) — State-action immunity for private rate fixing](HOLDINGS.candidate.md#ftc-v-ticor-title-insurance-co-504-us-621-1992-1).
+**Holdings navigation:** [FTC v. Ticor Title Insurance Co., 504 U.S. 621 (1992) — State-action immunity for private rate fixing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ftc-v-ticor-title-insurance-co-504-us-621-1992-1).
 
 ## Federal taxation and governmental liability
 
@@ -1377,15 +1377,15 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Corporate assignment category and accompanying payment: [Holywell Corp. v. Smith — Corporate assignee's filing and payment duty](../records/Holywell_Corp_v_Smith_merits_1992-02-25.md), February 25, 1992.
-- Separate liquidating trust, fiduciary status, and direct-transfer boundary: [Holywell — Fiduciary of the separate liquidating trust](../records/Holywell_Corp_v_Smith_merits_1992-02-25.md), February 25, 1992.
-- No prospective tax exemption from silent confirmation: [Holywell — A silent confirmed plan does not excuse prospective tax duties](../records/Holywell_Corp_v_Smith_merits_1992-02-25.md), February 25, 1992. Thomas's unanimous opinion controls all three components.
+- Corporate assignment category and accompanying payment: [Holywell Corp. v. Smith — Corporate assignee's filing and payment duty](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Holywell_Corp_v_Smith_merits_1992-02-25.md), February 25, 1992.
+- Separate liquidating trust, fiduciary status, and direct-transfer boundary: [Holywell — Fiduciary of the separate liquidating trust](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Holywell_Corp_v_Smith_merits_1992-02-25.md), February 25, 1992.
+- No prospective tax exemption from silent confirmation: [Holywell — A silent confirmed plan does not excuse prospective tax duties](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Holywell_Corp_v_Smith_merits_1992-02-25.md), February 25, 1992. Thomas's unanimous opinion controls all three components.
 
 **Present operation effective:** *Holywell*, February 25, 1992.
 
 **Exceptions and limits:** Grantor-trust provisions retain force where their actual predicates exist. This rule does not prescribe identical duties for every bankruptcy trustee or decide taxes already due before appointment, express adjudication of existing tax claims, amounts, penalties, deductions, or collection details.
 
-**Holdings navigation:** [Holywell Corp. v. Smith, 503 U.S. 47 (1992) — Bankruptcy fiduciaries’ filing and payment duties](HOLDINGS.candidate.md#holywell-corp-v-smith-503-us-47-1992).
+**Holdings navigation:** [Holywell Corp. v. Smith, 503 U.S. 47 (1992) — Bankruptcy fiduciaries’ filing and payment duties](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#holywell-corp-v-smith-503-us-47-1992).
 
 ### Separate assets and enduring benefits in capitalization
 
@@ -1395,13 +1395,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Nonexclusive asset ground, enduring-benefit inquiry, and incidental-benefit limit: [INDOPCO v. Commissioner — A separate asset is sufficient, but not necessary, for capitalization](../records/INDOPCO_v_Commissioner_merits_1992-02-26.md), February 26, 1992; Blackmun's unanimous opinion.
+- Nonexclusive asset ground, enduring-benefit inquiry, and incidental-benefit limit: [INDOPCO v. Commissioner — A separate asset is sufficient, but not necessary, for capitalization](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/INDOPCO_v_Commissioner_merits_1992-02-26.md), February 26, 1992; Blackmun's unanimous opinion.
 
 **Present operation effective:** *INDOPCO*, February 26, 1992.
 
 **Open question:** No automatic classification of all acquisition or professional fees, hostile acquisitions, failed transactions, or particular later cost-recovery period is supplied.
 
-**Holdings navigation:** [INDOPCO, Inc. v. Commissioner, 503 U.S. 79 (1992) — Capital expenditures](HOLDINGS.candidate.md#indopco-inc-v-commissioner-503-us-79-1992).
+**Holdings navigation:** [INDOPCO, Inc. v. Commissioner, 503 U.S. 79 (1992) — Capital expenditures](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#indopco-inc-v-commissioner-503-us-79-1992).
 
 ### The FTCA's punitive-damages exclusion
 
@@ -1411,11 +1411,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Traditional punitive category, rejection of a broader punitive-effect test, and independent state-law entitlement: [Molzof v. United States — Law of the decision, Holding and operative rule](../records/Molzof_v_United_States_merits_1992-01-14.md), January 14, 1992; Thomas's unanimous opinion.
+- Traditional punitive category, rejection of a broader punitive-effect test, and independent state-law entitlement: [Molzof v. United States — Law of the decision, Holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Molzof_v_United_States_merits_1992-01-14.md), January 14, 1992; Thomas's unanimous opinion.
 
 **Present operation effective:** *Molzof*, January 14, 1992.
 
-**Holdings navigation:** [Molzof v. United States, 502 U.S. 301 (1992) — Federal Tort Claims Act damages](HOLDINGS.candidate.md#molzof-v-united-states-502-us-301-1992).
+**Holdings navigation:** [Molzof v. United States, 502 U.S. 301 (1992) — Federal Tort Claims Act damages](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#molzof-v-united-states-502-us-301-1992).
 
 ## State taxation and interstate commerce
 
@@ -1426,14 +1426,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Purposeful and continuous solicitation of a State's consumers may supply due process's minimum connection without physical presence when the collection obligation is rationally related to benefits received through the market. Bellas Hess's indispensable physical-presence requirement for due process no longer governs this collection duty. The separate Commerce Clause rule remains: a seller whose customer connections are limited to mail or common-carrier commerce without the requisite local presence cannot be required to collect sales or use tax merely because purposeful market access satisfies due process. Complete Auto's substantial-nexus requirement remains distinct from its other requirements. Congress may alter dormant-Commerce constraints through valid legislation but cannot authorize a due-process violation.
 
 **Authority by component:**
-- Revised due-process connection: [Quill Corp. v. North Dakota, “1. Purposeful contacts can satisfy due process without physical presence”](../records/Quill_Corp_v_North_Dakota_merits_1992-05-26.md), May 26, 1992; Stevens Parts I–III, supported by all eight Associate Justices including the author; Stone does not reach it.
+- Revised due-process connection: [Quill Corp. v. North Dakota, “1. Purposeful contacts can satisfy due process without physical presence”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Quill_Corp_v_North_Dakota_merits_1992-05-26.md), May 26, 1992; Stevens Parts I–III, supported by all eight Associate Justices including the author; Stone does not reach it.
 - Surviving specific Commerce collection boundary: Quill, “2. The specific Commerce collection precedent remains controlling,” May 26, 1992; express common narrower ground of Stevens, Blackmun, O'Connor, Souter, Scalia, Kennedy, Thomas and Stone (eight), with the record's stated common-ground authority rather than the four-Justice Part IV policy discussion.
 
 **Present operation effective:** Quill Corp. v. North Dakota, May 26, 1992, separating the revised due-process rule from the surviving specific Commerce collection rule.
 
 **Exceptions and limits:** The rule does not govern every state tax, immunize consumers from use tax, set numerical sales or property thresholds, or establish a general software-nexus rule. The particular software application does not supply an additional reusable property rule. Potential retroactive effects of overruling the Commerce rule were excluded from the grant.
 
-**Holdings navigation:** [Quill Corp. v. North Dakota, 504 U.S. 298 (1992) — State-tax collection and interstate commerce](HOLDINGS.candidate.md#quill-corp-v-north-dakota-504-us-298-1992).
+**Holdings navigation:** [Quill Corp. v. North Dakota, 504 U.S. 298 (1992) — State-tax collection and interstate commerce](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#quill-corp-v-north-dakota-504-us-298-1992).
 
 ### Operational assets and the unitary-business limitation on apportioned income
 
@@ -1442,14 +1442,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** The State may apportion income connected to the corporation's unitary business but may not include discrete, unrelated investment value merely because the corporation does business in the State or owns the asset. A unitary relationship between payor and recipient is sufficient but unnecessary when the income-producing asset or capital transaction itself serves an operational function in the taxpayer's unitary business, subject to territorial connection and fair apportionment. A general acquisition strategy and intended later use of sale proceeds cannot replace an identifiable operational function where the enterprises lack functional integration, centralized management and economies of scale. A valid taxable base and a fair allocation formula remain separate requirements; the taxpayer's existing clear-and-cogent burden survives.
 
 **Authority by component:**
-- Unitary relationship and operational-function routes: [Allied-Signal, Inc. v. Director, Division of Taxation, “Holding 1: The unitary-business limitation and operational-asset route remain governing law”](../records/Allied_Signal_Inc_v_Director_Division_of_Taxation_merits_1992-06-15.md), June 15, 1992; Kennedy, joined by White, Stevens, Scalia and Souter (five).
+- Unitary relationship and operational-function routes: [Allied-Signal, Inc. v. Director, Division of Taxation, “Holding 1: The unitary-business limitation and operational-asset route remain governing law”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Allied_Signal_Inc_v_Director_Division_of_Taxation_merits_1992-06-15.md), June 15, 1992; Kennedy, joined by White, Stevens, Scalia and Souter (five).
 - Insufficiency of general acquisition strategy and later proceeds use without either connection: Allied-Signal, “Holding 2: The stipulated record requires exclusion of the ASARCO gain,” June 15, 1992; same five Justices.
 
 **Present operation effective:** Allied-Signal, Inc. v. Director, Division of Taxation, June 15, 1992.
 
 **Exceptions and limits:** No holding makes every state-law category of business income constitutional or reduces the inquiry to investment duration.
 
-**Holdings navigation:** [Allied-Signal, Inc., as successor-in-interest to Bendix Corp. v. Director, Division of Taxation, 504 U.S. 768 (1992) — State-tax apportionment and investment income](HOLDINGS.candidate.md#allied-signal-inc-as-successor-in-interest-to-bendix-corp-v-director-division-of-taxation-504-us-768-1992).
+**Holdings navigation:** [Allied-Signal, Inc., as successor-in-interest to Bendix Corp. v. Director, Division of Taxation, 504 U.S. 768 (1992) — State-tax apportionment and investment income](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#allied-signal-inc-as-successor-in-interest-to-bendix-corp-v-director-division-of-taxation-504-us-768-1992).
 
 ### Solicitation and independently useful business functions
 
@@ -1458,13 +1458,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Solicitation includes express or implicit requests for purchases and activities serving no independent business function apart from requesting orders. Customary assignment to salespeople, promotional usefulness or a connection with future sales does not protect an independent service, delivery or inventory function. No automatic before-sale/after-sale boundary governs. The statutory protection retains its out-of-state approval and fulfillment conditions; this entry addresses the functional definition, not every prerequisite of §381 protection.
 
 **Authority by component:**
-- Functional definition: [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., “Solicitation includes its ancillary means, not independent business functions”](../records/Wisconsin_Department_of_Revenue_v_William_Wrigley_Jr_Co_merits_1992-06-19.md), June 19, 1992; Scalia Parts I–II, joined by White, Stevens, O'Connor, Souter and Thomas (six).
+- Functional definition: [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., “Solicitation includes its ancillary means, not independent business functions”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Wisconsin_Department_of_Revenue_v_William_Wrigley_Jr_Co_merits_1992-06-19.md), June 19, 1992; Scalia Parts I–II, joined by White, Stevens, O'Connor, Souter and Thomas (six).
 
 **Present operation effective:** Wisconsin Department of Revenue v. William Wrigley, Jr., Co., June 19, 1992.
 
-**Exceptions and limits:** Maintaining a company-attributable office generally exceeds solicitation, except that §381(c) (Pub. L. 86–272, title I, §101, Sept. 14, 1959, 73 Stat. 555; unamended through the event date) separately exempts sales, order-solicitation, or office maintenance conducted through one or more independent contractors — defined by §381(d)(1) as a commission agent, broker, or other independent contractor selling or soliciting orders for more than one principal and holding himself out as such in the regular course of business. That exemption does not reach a company's own local representatives or employees, whose activities remain governed by the functional definition above. Ordinary use of a representative's home or temporary meeting place does not automatically establish a company-attributable office.
+**Exceptions and limits:** Maintaining a company-attributable office generally exceeds solicitation, except that §381(c) (Pub. L. 86–272, title I, §101, Sept. 14, 1959, 73 Stat. 555; unamended through the event date) separately exempts (1) sales or order-solicitation conducted by one or more independent contractors, and (2) an office maintained in the State by one or more independent contractors whose activities there consist solely of making sales or soliciting orders for tangible personal property — the multiple-principal definition alone does not satisfy this separate office-specific condition. "Independent contractor" is defined by §381(d)(1) as a commission agent, broker, or other independent contractor selling or soliciting orders for more than one principal and holding himself out as such in the regular course of business; §381(d)(2) excludes an independent contractor from the separate term "representative." Neither branch of this exemption reaches a company's own local representatives or employees, whose activities remain governed by the functional definition above. Ordinary use of a representative's home or temporary meeting place does not automatically establish a company-attributable office.
 
-**Holdings navigation:** [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., 505 U.S. 214 (1992) — State net-income tax and protected solicitation](HOLDINGS.candidate.md#wisconsin-department-of-revenue-v-william-wrigley-jr-co-505-us-214-1992).
+**Holdings navigation:** [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., 505 U.S. 214 (1992) — State net-income tax and protected solicitation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#wisconsin-department-of-revenue-v-william-wrigley-jr-co-505-us-214-1992).
 
 ### Trivial departures from protected solicitation
 
@@ -1473,11 +1473,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Genuinely trivial departures do not defeat protection when they are too slight to create a nontrivial additional connection with the taxing State. The court considers the unprotected activities together; their small proportion of the company's total sales does not settle the inquiry. No fixed dollar threshold, sales-percentage safe harbor or automatic rule for a rare isolated act is established.
 
 **Authority by component:**
-- Aggregate, nontrivial-additional-connection qualification: [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., “Truly trivial departures do not destroy protection; Wrigley's combined functions are not trivial”](../records/Wisconsin_Department_of_Revenue_v_William_Wrigley_Jr_Co_merits_1992-06-19.md), June 19, 1992; Scalia Part II, joined by White, Stevens, O'Connor, Souter and Thomas (six). Part III's five-Justice application does not make any one activity independently sufficient in every case.
+- Aggregate, nontrivial-additional-connection qualification: [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., “Truly trivial departures do not destroy protection; Wrigley's combined functions are not trivial”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Wisconsin_Department_of_Revenue_v_William_Wrigley_Jr_Co_merits_1992-06-19.md), June 19, 1992; Scalia Part II, joined by White, Stevens, O'Connor, Souter and Thomas (six). Part III's five-Justice application does not make any one activity independently sufficient in every case.
 
 **Present operation effective:** Wisconsin Department of Revenue v. William Wrigley, Jr., Co., June 19, 1992.
 
-**Holdings navigation:** [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., 505 U.S. 214 (1992) — State net-income tax and protected solicitation](HOLDINGS.candidate.md#wisconsin-department-of-revenue-v-william-wrigley-jr-co-505-us-214-1992).
+**Holdings navigation:** [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., 505 U.S. 214 (1992) — State net-income tax and protected solicitation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#wisconsin-department-of-revenue-v-william-wrigley-jr-co-505-us-214-1992).
 
 ## Indian law
 
@@ -1489,12 +1489,12 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Ad valorem permission and parcel-specific limits: [County of Yakima v. Confederated Tribes — Ad valorem holding and operative rule](../records/County_of_Yakima_v_Confederated_Tribes_merits_1992-01-14.md), January 14, 1992; Scalia's opinion joined by Stone, White, Stevens, O'Connor, Kennedy, Souter, and Thomas.
-- No implied sales-excise permission and unchanged legal incidence: [County of Yakima — Sales-excise holding and operative rule](../records/County_of_Yakima_v_Confederated_Tribes_merits_1992-01-14.md), January 14, 1992; all nine Justices join.
+- Ad valorem permission and parcel-specific limits: [County of Yakima v. Confederated Tribes — Ad valorem holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/County_of_Yakima_v_Confederated_Tribes_merits_1992-01-14.md), January 14, 1992; Scalia's opinion joined by Stone, White, Stevens, O'Connor, Kennedy, Souter, and Thomas.
+- No implied sales-excise permission and unchanged legal incidence: [County of Yakima — Sales-excise holding and operative rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/County_of_Yakima_v_Confederated_Tribes_merits_1992-01-14.md), January 14, 1992; all nine Justices join.
 
 **Present operation effective:** *County of Yakima*, January 14, 1992.
 
-**Holdings navigation:** [County of Yakima v. Confederated Tribes and Bands of the Yakima Indian Nation, 502 U.S. 251 (1992) — State taxation of reservation fee land](HOLDINGS.candidate.md#county-of-yakima-v-confederated-tribes-and-bands-of-the-yakima-indian-nation-502-us-251-1992).
+**Holdings navigation:** [County of Yakima v. Confederated Tribes and Bands of the Yakima Indian Nation, 502 U.S. 251 (1992) — State taxation of reservation fee land](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#county-of-yakima-v-confederated-tribes-and-bands-of-the-yakima-indian-nation-502-us-251-1992).
 
 ## Property and takings
 
@@ -1505,13 +1505,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** Section 10 permits consideration of an artificial extension's prospective effect on federal submerged-land rights and permits conditioning approval on preservation of the existing federal-state boundary for additional entitlement attributable to the project. The Submerged Lands Act does not compel unconditional approval or invalidate such a condition when existing state property and claims remain intact. The condition must address the same boundary harm supporting withholding of approval; this holding supplies no power to demand unrelated existing territory or approve different conditions.
 
 **Authority by component:**
-- Statutory power, attributable-extension limit and preserved state interests: [United States v. Alaska](../records/United_States_v_Alaska_original_summary_judgment_1992-04-21.md), April 21, 1992, “Statutory authority for the boundary-preserving condition,” White's Part II for all nine Justices. The source adopts this construction through the Nome condition's stated limits; it does not grant unconditional approval to all future disclaimers.
+- Statutory power, attributable-extension limit and preserved state interests: [United States v. Alaska](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Alaska_original_summary_judgment_1992-04-21.md), April 21, 1992, “Statutory authority for the boundary-preserving condition,” White's Part II for all nine Justices. The source adopts this construction through the Nome condition's stated limits; it does not grant unconditional approval to all future disclaimers.
 
 **Present operation effective:** Alaska, April 21, 1992.
 
 **Open question:** Natural accretion, compulsory surrender of existing state territory, different permit conditions and a general rule governing States' constitutional takings remedies remain undecided.
 
-**Holdings navigation:** [United States v. Alaska, 503 U.S. 569 (1992) — Federal and state submerged-land boundaries](HOLDINGS.candidate.md#united-states-v-alaska-503-us-569-1992).
+**Holdings navigation:** [United States v. Alaska, 503 U.S. 569 (1992) — Federal and state submerged-land boundaries](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-alaska-503-us-569-1992).
 
 ### Complete deprivation of economically beneficial land use
 
@@ -1521,13 +1521,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Categorical compensation, background-law exception and allocation: [Lucas v. South Carolina Coastal Council, “Complete economic deprivation requires compensation unless background ownership law already foreclosed the use”](../records/Lucas_v_South_Carolina_Coastal_Council_merits_1992-06-29.md), June 29, 1992; Scalia, Stone, White, O'Connor and Thomas.
+- Categorical compensation, background-law exception and allocation: [Lucas v. South Carolina Coastal Council, “Complete economic deprivation requires compensation unless background ownership law already foreclosed the use”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Lucas_v_South_Carolina_Coastal_Council_merits_1992-06-29.md), June 29, 1992; Scalia, Stone, White, O'Connor and Thomas.
 
 **Present operation effective:** *Lucas*, June 29, 1992.
 
 **Exceptions and limits:** Penn Central's contextual analysis remains for partial deprivation. No percentage shortcut, parcel-definition rule, automatic valuation, right to anticipated profits or finding that every environmental restriction is invalid follows. Valid authority to regulate remains distinct from responsibility to compensate.
 
-**Holdings navigation:** [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992) — Complete economic deprivation of land](HOLDINGS.candidate.md#lucas-v-south-carolina-coastal-council-505-us-1003-1992-1).
+**Holdings navigation:** [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992) — Complete economic deprivation of land](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#lucas-v-south-carolina-coastal-council-505-us-1003-1992-1).
 
 ### Review of an elapsed categorical building prohibition despite later permitting
 
@@ -1537,11 +1537,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Earlier-period reviewability and limited temporal consequence: [Lucas, “The original categorical prohibition presents a reviewable earlier-period claim”](../records/Lucas_v_South_Carolina_Coastal_Council_merits_1992-06-29.md), June 29, 1992; the five-Justice Court opinion applies First English's actual-period compensation requirement while distinguishing ordinary permit finality.
+- Earlier-period reviewability and limited temporal consequence: [Lucas, “The original categorical prohibition presents a reviewable earlier-period claim”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Lucas_v_South_Carolina_Coastal_Council_merits_1992-06-29.md), June 29, 1992; the five-Justice Court opinion applies First English's actual-period compensation requirement while distinguishing ordinary permit finality.
 
 **Present operation effective:** *Lucas*, June 29, 1992.
 
-**Holdings navigation:** [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992) — Finality and earlier-period takings claims](HOLDINGS.candidate.md#lucas-v-south-carolina-coastal-council-505-us-1003-1992).
+**Holdings navigation:** [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992) — Finality and earlier-period takings claims](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#lucas-v-south-carolina-coastal-council-505-us-1003-1992).
 
 ## Environmental and administrative law
 
@@ -1553,10 +1553,10 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Delegated downstream-protection authority: [Arkansas v. Oklahoma — EPA may require downstream standards in this federal permit](../records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992.
-- Rejection of an already-degraded-waters categorical bar: [Arkansas — Existing degradation is not a categorical statutory prohibition](../records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992.
-- Incorporated standards and permissible detectable-violation construction: [Arkansas — Reasonable construction of the incorporated downstream standards](../records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992. Stevens's unanimous opinion controls these components.
-- Distinct administrative proof and unchanged judicial-review standards needed to apply that construction: [Arkansas — Supported findings govern review of this permit](../records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992; the same unanimous opinion.
+- Delegated downstream-protection authority: [Arkansas v. Oklahoma — EPA may require downstream standards in this federal permit](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992.
+- Rejection of an already-degraded-waters categorical bar: [Arkansas — Existing degradation is not a categorical statutory prohibition](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992.
+- Incorporated standards and permissible detectable-violation construction: [Arkansas — Reasonable construction of the incorporated downstream standards](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992. Stevens's unanimous opinion controls these components.
+- Distinct administrative proof and unchanged judicial-review standards needed to apply that construction: [Arkansas — Supported findings govern review of this permit](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Arkansas_v_Oklahoma_merits_1992-02-26.md), February 26, 1992; the same unanimous opinion.
 
 **Present operation effective:** *Arkansas v. Oklahoma*, February 26, 1992.
 
@@ -1564,7 +1564,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Open question:** The Court does not hold that Congress requires identical compliance in every federal or state permitting setting, construe state law for unrelated purposes, or decide independent source-state remedies.
 
-**Holdings navigation:** [Arkansas v. Oklahoma, 503 U.S. 91 (1992) — Federal permit interpretation and review](HOLDINGS.candidate.md#arkansas-v-oklahoma-503-us-91-1992); [Arkansas v. Oklahoma, 503 U.S. 91 (1992) — Interstate water-pollution permits](HOLDINGS.candidate.md#arkansas-v-oklahoma-503-us-91-1992-1).
+**Holdings navigation:** [Arkansas v. Oklahoma, 503 U.S. 91 (1992) — Federal permit interpretation and review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#arkansas-v-oklahoma-503-us-91-1992); [Arkansas v. Oklahoma, 503 U.S. 91 (1992) — Interstate water-pollution permits](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#arkansas-v-oklahoma-503-us-91-1992-1).
 
 ### Acquisition for Amtrak service and the presumption of need
 
@@ -1573,14 +1573,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** The ICC may construe property required for passenger service to include property usefully and appropriately acquired for Amtrak's rail operations, without indispensable permanent Amtrak ownership; express service-promoting reconveyance authority remains available. The independent inability-to-agree condition requires a supported finding from the parties' actual positions that further sale negotiations will not produce agreement, without an additional mandatory bargaining ritual. An unaccepted unilateral offer alone is not invariably sufficient, and the need presumption does not replace that antecedent finding. To rebut presumed need, the railroad must establish both significant impairment of its common-carrier duties and an adequate available alternative. The ICC may assess impairment from the transaction as a whole, including preserved trackage rights and compensation, and may construe alternative property as an adequate alternative route rather than a lesser interest in the same segment. Each failure to prove a conjunctive condition independently leaves the presumption unrebutted. Passenger-service connection, just compensation and separate regulatory requirements continue to constrain acquisition.
 
 **Authority by component:**
-- Service-connected acquisition and reconveyance: [National Railroad Passenger Corp. v. Boston & Maine Corp.](../records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md), March 25, 1992, holding 1.
+- Service-connected acquisition and reconveyance: [National Railroad Passenger Corp. v. Boston & Maine Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md), March 25, 1992, holding 1.
 - Independent negotiation prerequisite and its factual showing: the same record, holding 3, “Inability to agree on sale terms.”
 - Conjunctive rebuttal and whole-transaction impairment: the same record, holding 4.
 - Route-based alternative-property construction: the same record, holding 5. Kennedy for Stone, Stevens, O'Connor, Scalia and Souter supplies six controlling joins throughout.
 
 **Present operation effective:** National Railroad Passenger Corp., March 25, 1992.
 
-**Holdings navigation:** [National Railroad Passenger Corp. v. Boston & Maine Corp., 503 U.S. 407 (1992) — Passenger-rail acquisition and agency review](HOLDINGS.candidate.md#national-railroad-passenger-corp-v-boston--maine-corp-503-us-407-1992).
+**Holdings navigation:** [National Railroad Passenger Corp. v. Boston & Maine Corp., 503 U.S. 407 (1992) — Passenger-rail acquisition and agency review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#national-railroad-passenger-corp-v-boston--maine-corp-503-us-407-1992).
 
 ### An agency interpretation necessarily embodied in its decision
 
@@ -1589,11 +1589,11 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Current rule:** A reviewing court may recognize an interpretation necessarily embodied in the agency's own decision even when the agency did not use the exact words later employed by counsel. The actual decision must disclose that operative premise. This permits recognition of the agency's ground, not judicial invention of a new ground, missing findings or a substitute policy; appellate rationalizations cannot sustain a rationale absent from the agency decision.
 
 **Authority by component:**
-- Discernible-agency-ground boundary: [National Railroad Passenger Corp. v. Boston & Maine Corp.](../records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md), March 25, 1992, holding 2, “The agency's discernible ground”; Kennedy for Stone, Stevens, O'Connor, Scalia and Souter, applying Chenery while preserving State Farm.
+- Discernible-agency-ground boundary: [National Railroad Passenger Corp. v. Boston & Maine Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/National_Railroad_Passenger_Corp_v_Boston_and_Maine_Corp_merits_1992-03-25.md), March 25, 1992, holding 2, “The agency's discernible ground”; Kennedy for Stone, Stevens, O'Connor, Scalia and Souter, applying Chenery while preserving State Farm.
 
 **Present operation effective:** National Railroad Passenger Corp., March 25, 1992.
 
-**Holdings navigation:** [National Railroad Passenger Corp. v. Boston & Maine Corp., 503 U.S. 407 (1992) — Passenger-rail acquisition and agency review](HOLDINGS.candidate.md#national-railroad-passenger-corp-v-boston--maine-corp-503-us-407-1992).
+**Holdings navigation:** [National Railroad Passenger Corp. v. Boston & Maine Corp., 503 U.S. 407 (1992) — Passenger-rail acquisition and agency review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#national-railroad-passenger-corp-v-boston--maine-corp-503-us-407-1992).
 
 ### Reviewability of the Secretary's completed census determination
 
@@ -1603,13 +1603,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Finality and reviewability: [Franklin v. Massachusetts, “The Secretary's completed census determination is reviewable”](../records/Franklin_v_Massachusetts_merits_1992-06-26.md), June 26, 1992; Stone's Part IV joined by Blackmun, Stevens, Kennedy and Souter.
+- Finality and reviewability: [Franklin v. Massachusetts, “The Secretary's completed census determination is reviewable”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Franklin_v_Massachusetts_merits_1992-06-26.md), June 26, 1992; Stone's Part IV joined by Blackmun, Stevens, Kennedy and Souter.
 
 **Present operation effective:** *Franklin*, June 26, 1992.
 
 **Open question:** The President's APA status and susceptibility to coercive judicial relief are left undecided. This rule does not turn remaining agency discretion into entitlement to a selected outcome.
 
-**Holdings navigation:** [Franklin v. Massachusetts, 505 U.S. 788 (1992) — Census determinations and judicial review](HOLDINGS.candidate.md#franklin-v-massachusetts-505-us-788-1992-2).
+**Holdings navigation:** [Franklin v. Massachusetts, 505 U.S. 788 (1992) — Census determinations and judicial review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#franklin-v-massachusetts-505-us-788-1992-2).
 
 ### Procedural invalidity and entitlement to mandatory relief on appellate-stay review
 
@@ -1619,13 +1619,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Relief-specific likelihood and remedial gap: [Benten v. Kessler, “A substantial procedural challenge does not alone establish entitlement to mandatory return”](../records/Benten_v_Kessler_A-40_application_to_vacate_stay_1992-07-17.md), July 17, 1992; per curiam joined by Stone, White, O'Connor, Scalia, Kennedy, Souter and Thomas.
+- Relief-specific likelihood and remedial gap: [Benten v. Kessler, “A substantial procedural challenge does not alone establish entitlement to mandatory return”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Benten_v_Kessler_A-40_application_to_vacate_stay_1992-07-17.md), July 17, 1992; per curiam joined by Stone, White, O'Connor, Scalia, Kennedy, Souter and Thomas.
 
 **Present operation effective:** *Benten*, July 17, 1992, at the appellate-stay stage.
 
 **Exceptions and limits:** No final FDA procedural ruling, categorical exhaustion requirement, substantive drug approval, constitutional access rule or bar to promptly requiring lawful agency action is adopted. Stone's separate finding of likely procedural invalidity is not a component of the Court's rule.
 
-**Holdings navigation:** [Benten v. Kessler, 505 U.S. 1084 (1992) — Appellate stays and mandatory agency relief](HOLDINGS.candidate.md#benten-v-kessler-505-us-1084-1992).
+**Holdings navigation:** [Benten v. Kessler, 505 U.S. 1084 (1992) — Appellate stays and mandatory agency relief](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#benten-v-kessler-505-us-1084-1992).
 
 ## Attorney's fees
 
@@ -1637,13 +1637,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Categorical contingency prohibition: [City of Burlington v. Dague, “Contingency does not justify an enhanced statutory fee”](../records/City_of_Burlington_v_Dague_merits_1992-06-24.md), June 24, 1992; Scalia, White, Kennedy, Souter and Thomas. The record adopts White's previously noncontrolling Delaware Valley II approach for these statutes.
+- Categorical contingency prohibition: [City of Burlington v. Dague, “Contingency does not justify an enhanced statutory fee”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/City_of_Burlington_v_Dague_merits_1992-06-24.md), June 24, 1992; Scalia, White, Kennedy, Souter and Thomas. The record adopts White's previously noncontrolling Delaware Valley II approach for these statutes.
 
 **Present operation effective:** *Dague*, June 24, 1992.
 
 **Exceptions and limits:** Delay adjustments, correction of an unreasonable underlying rate, differently worded compensation schemes and common-fund fees are not decided. The ruling adjudicates these two provisions; it does not enlarge Ardestani's administrative-eligibility rule or supply a federal-immunity premise.
 
-**Holdings navigation:** [City of Burlington v. Dague, 505 U.S. 557 (1992) — Statutory attorney's fees](HOLDINGS.candidate.md#city-of-burlington-v-dague-505-us-557-1992).
+**Holdings navigation:** [City of Burlington v. Dague, 505 U.S. 557 (1992) — Statutory attorney's fees](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#city-of-burlington-v-dague-505-us-557-1992).
 
 ## Trademark and trade dress
 
@@ -1655,10 +1655,10 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Inherent-distinctiveness alternative and rejection of an unwritten expiration period: [Two Pesos, Inc. v. Taco Cabana, Inc., “Inherent distinctiveness suffices without acquired secondary meaning”](../records/Two_Pesos_v_Taco_Cabana_merits_1992-06-26.md), June 26, 1992; White, Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter.
+- Inherent-distinctiveness alternative and rejection of an unwritten expiration period: [Two Pesos, Inc. v. Taco Cabana, Inc., “Inherent distinctiveness suffices without acquired secondary meaning”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Two_Pesos_v_Taco_Cabana_merits_1992-06-26.md), June 26, 1992; White, Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter.
 
 **Present operation effective:** *Two Pesos*, June 26, 1992.
 
 **Exceptions and limits:** No general ownership of cuisine, decorative style, useful designs or generic matter, later product-design rule, new proof burden or resolution of the excluded functionality challenge follows.
 
-**Holdings navigation:** [Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992) — Trade dress](HOLDINGS.candidate.md#two-pesos-inc-v-taco-cabana-inc-505-us-763-1992).
+**Holdings navigation:** [Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992) — Trade dress](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#two-pesos-inc-v-taco-cabana-inc-505-us-763-1992).

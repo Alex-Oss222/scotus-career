@@ -408,10 +408,4 @@ Supreme Court review ends in affirmance of dismissal without prejudice. The Gove
 
 ## Simulation Workflow Blockers
 
-This section reports operator workflow gaps; it is not a Court action or legal ruling.
-
-| Case or matter | Exact blocker |
-|---|---|
-| United States v. Alaska | Primary briefing preserves independently dispositive Administrative Procedure Act publication/notice (§552), rulemaking (§553), and arbitrary-action/delegation (§706) challenges omitted from the approved Section II v1 scope. Stone must approve their reach, disposition and effect on enforcing the disclaimer. No verified forfeiture, withdrawal or limitation removes these grounds. |
-| Daniel Vasquez, Warden v. Robert Alton Harris, No. A-766 | No neutral application packet or approved Stone position is supplied for the distinct habeas stay in Ninth Circuit No. 92-55426. Verify the filing and alternate-timeline posture; A-767 approval does not cover it. |
-| Daniel Vasquez, Warden v. Robert Alton Harris, No. A-768 | No source-validated alternate-timeline April 21 stay/application packet or approved Stone position covers this later application, including the distinct requested restriction on further federal stays. Verify those predicates before adjudication; do not infer them from A-767. |
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

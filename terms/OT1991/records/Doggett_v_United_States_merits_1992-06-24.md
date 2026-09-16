@@ -142,5 +142,5 @@ The eight individual provisional non-Stone rows and two lawful alternative paths
 
 Validated for root publication after completed June 20 and June 22 public entering-state refresh. The refreshed prior-date holdings and material published positions change no packet premise, commitment, historical reconciliation, Stone condition, remedy or opinion join; see tmp/OT1991CHUNK13-run/religion/final-revalidation.md. June 24 siblings are excluded from entering law. Source retrieval and full-text review, roster and argument/reargument eligibility, lawful channel, threshold posture, source-to-fact map, fixed-core compatibility, coalition sufficiency, opinion scope and deterministic interface checks have been completed. Deterministic results are preserved at tmp/OT1991CHUNK13-run/religion/validation.json. The fresh independent Lee audit at tmp/OT1991CHUNK13-run/independent-audit.md found no substantive defect. No material validation limitation or blocker remains for either event; the root operator performs durable publication and Current-Term State commitment.
 
-**Intended durable record location:** terms/OT1991/records/Doggett_v_United_States_merits_1992-06-24.md.
-**Current-Term State commitment:** pending root publication; not committed by this scratch candidate.
+**Durable record location:** terms/OT1991/records/Doggett_v_United_States_merits_1992-06-24.md; this file is that committed record.
+**Current-Term State commitment:** complete; this record was committed to its durable location as part of the OT1991 chunk 13 Run.

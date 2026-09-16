@@ -4,11 +4,11 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
-| March 25, 1992 | Suter v. Artist M., No. 90-1488 — Correction to chunk 7 | Merits decision | Reversed in part, vacated in part, and remanded; existing injunction and monitoring order vacated; §671(a)(16) preserved for separate consideration. |
-| March 31, 1992 | United States Department of Commerce v. Montana, No. 91-860 — Correction to chunk 7 | Merits decision | Count I judgment and relief reversed; Count II remanded undecided; statutory allocation remains operative subject to further lawful order. |
-| April 21, 1992 | United States v. Alaska, No. 118, Original — Correction to chunk 8 | Original summary-judgment decision | Federal motion granted; Alaska's motion and broader injunction denied; narrow declaration finally resolves the cross-motions, with no remand or retained implementation proceeding. |
-| April 21, 1992 | Vasquez v. Harris, No. A-766 — User-added docket matter in chunk 8 | Application to vacate execution stay | April 20 stay in No. 92-55426 vacated; application concluded; A-768 follows. |
-| April 21, 1992 | Vasquez v. Harris, No. A-768 — User-added docket matter in chunk 8 | Application to vacate execution stay | Later April 21 stay vacated; application concluded; any further federal stay of Harris's execution requires this Court's order. |
+| March 25, 1992 | Suter v. Artist M., No. 90-1488 | Merits decision | Reversed in part, vacated in part, and remanded; existing injunction and monitoring order vacated; §671(a)(16) preserved for separate consideration. |
+| March 31, 1992 | United States Department of Commerce v. Montana, No. 91-860 | Merits decision | Count I judgment and relief reversed; Count II remanded undecided; statutory allocation remains operative subject to further lawful order. |
+| April 21, 1992 | United States v. Alaska, No. 118, Original | Original summary-judgment decision | Federal motion granted; Alaska's motion and broader injunction denied; narrow declaration finally resolves the cross-motions, with no remand or retained implementation proceeding. |
+| April 21, 1992 | Vasquez v. Harris, No. A-766 | Application to vacate execution stay | April 20 stay in No. 92-55426 vacated; application concluded; A-768 follows. |
+| April 21, 1992 | Vasquez v. Harris, No. A-768 | Application to vacate execution stay | Later April 21 stay vacated; application concluded; any further federal stay of Harris's execution requires this Court's order. |
 | May 18, 1992 | Foucha v. Louisiana, No. 90-5844 | Merits decision | Reversed and remanded to end custody under the challenged insanity-acquittee authority; any independently lawful restraint requires its own authority and procedures. |
 | May 18, 1992 | Riggins v. Nevada, No. 90-8466 | Merits decision | Convictions and dependent death sentence vacated; new trial if the State proceeds; renewed compelled medication requires contemporaneous constitutional justification. |
 | May 18, 1992 | Wyatt v. Cole, No. 91-126 | Merits decision | Private-immunity disposition reversed; remaining §1983 predicates and legally available defenses return for separate consideration as to Cole and Robbins. |
@@ -23,7 +23,7 @@ The Harris applications follow the earlier April 21 action in Gomez, No. A-767, 
 
 ## Decisions and Dispositions
 
-### Suter v. Artist M., No. 90-1488 — Correction to chunk 7
+### Suter v. Artist M., No. 90-1488
 
 Merits decision, March 25, 1992
 
@@ -141,11 +141,11 @@ Blackmun, joined by Stevens and, on §671(a)(15) only, Stone-Zsela, would apply 
 
 The judgment is reversed in part and vacated in part, and the case is remanded to the Seventh Circuit for proceedings consistent with these directions. The existing three-working-day assignment and reassignment injunction and ancillary weekly monitoring order are vacated. The judgment is vacated insofar as it otherwise resolves the independent §671(a)(16) claim. Further proceedings below must separately consider that claim's enforceability, merits, and any additional lawful relief; no entitlement or violation is found, and the existing injunction is not transferred automatically to that claim. No §671(a)(9) claim remains available on the rejected private-enforcement theories. The constitutional count remains outside the case, and the B.H. decree is not modified. The Court orders no damages, nationwide assignment deadline, or retained Supreme Court supervision. This Supreme Court merits review ends with the remand.
 
-**End of entry: Suter v. Artist M., No. 90-1488 — Correction to chunk 7, merits decision, March 25, 1992.**
+**End of entry: Suter v. Artist M., No. 90-1488, merits decision, March 25, 1992.**
 
 ---
 
-### United States Department of Commerce v. Montana, No. 91-860 — Correction to chunk 7
+### United States Department of Commerce v. Montana, No. 91-860
 
 Merits decision, March 31, 1992
 
@@ -242,11 +242,11 @@ The judgment and relief resting on Count I are reversed, and Count II is remande
 
 The statutory allocation remains operative subject to further lawful order. The Court transfers no seat and directs no new enactment, presidential act, judicially chosen formula, or election timetable. Supreme Court merits review ends with this remand; the Court retains no proceeding.
 
-**End of entry: United States Department of Commerce v. Montana, No. 91-860 — Correction to chunk 7, merits decision, March 31, 1992.**
+**End of entry: United States Department of Commerce v. Montana, No. 91-860, merits decision, March 31, 1992.**
 
 ---
 
-### United States v. Alaska, No. 118, Original — Correction to chunk 8
+### United States v. Alaska, No. 118, Original
 
 Original summary-judgment decision, April 21, 1992
 
@@ -407,11 +407,11 @@ The judgment supplies the original-action declaration: the disclaimer remains ef
 
 The original cross-motions are finally resolved. There is no lower judgment to reverse and no remand, monetary award, compulsory surrender of unrelated lands, new construction injunction, or nationwide permitting injunction. The permit and construction are not vacated. The Court retains no implementation proceeding and schedules no additional decree, hearing, filing, or return. No separate decree-submission deadline or later mandate-issuance date is established; any later nonroutine act must rest on an actual filing or order.
 
-**End of entry: United States v. Alaska — Correction to chunk 8, original summary-judgment decision, April 21, 1992.**
+**End of entry: United States v. Alaska, original summary-judgment decision, April 21, 1992.**
 
 ---
 
-### Vasquez v. Harris, No. A-766 — User-added docket matter in chunk 8
+### Vasquez v. Harris, No. A-766
 
 Application to vacate execution stay, April 21, 1992
 
@@ -450,11 +450,11 @@ The unexplained order announces no treatment of precedent. The existing equitabl
 
 A-766 is concluded upon vacatur. The underlying proceedings retain their own lawful procedural status. The Court orders no merits remand, new execution warrant, or execution. A-768 is the next application in the established sequence. No separate mandate-issuance date or lower-court sequel is established.
 
-**End of entry: Vasquez v. Harris, No. A-766 — User-added docket matter in chunk 8, application to vacate execution stay, April 21, 1992.**
+**End of entry: Vasquez v. Harris, No. A-766, application to vacate execution stay, April 21, 1992.**
 
 ---
 
-### Vasquez v. Harris, No. A-768 — User-added docket matter in chunk 8
+### Vasquez v. Harris, No. A-768
 
 Application to vacate execution stay, April 21, 1992
 
@@ -501,7 +501,7 @@ Chief Justice Stone-Zsela concurs in vacating the stay and dissents from the fur
 
 A-768 is concluded. The direction takes immediate effect and has no stated calendar expiration. Any further federal stay of Robert Alton Harris's execution requires this Court's order; the direction neither grants nor prejudges such an order. It governs Harris's execution, not other prisoners or all litigation, and it does not forbid filing a claim or decide its merits. No new merits remand, execution command, execution warrant, or scheduled return is ordered. No further application or actual execution is established.
 
-**End of entry: Vasquez v. Harris, No. A-768 — User-added docket matter in chunk 8, application to vacate execution stay, April 21, 1992.**
+**End of entry: Vasquez v. Harris, No. A-768, application to vacate execution stay, April 21, 1992.**
 
 ---
 
@@ -1276,3 +1276,7 @@ Supreme Court review ends with reversal and remand to North Dakota for further p
 **End of entry: Quill Corp. v. North Dakota, merits decision, May 26, 1992.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

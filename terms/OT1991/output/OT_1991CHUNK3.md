@@ -302,3 +302,7 @@ The federal punitive-damages classification is reversed. Wisconsin-law entitleme
 **End of entry: Molzof v. United States, Judgment reversed and case remanded, January 14, 1992.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

@@ -622,3 +622,7 @@ The Court imposes no life sentence, mandatory new jury irrespective of lawful al
 **End of entry: Sochor v. Florida, Merits decision, June 8, 1992.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

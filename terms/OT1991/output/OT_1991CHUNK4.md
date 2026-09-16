@@ -538,3 +538,7 @@ The Board's order is set aside insofar as it requires the nonemployee organizers
 **End of entry: Lechmere, Inc. v. NLRB, merits decision, January 27, 1992.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

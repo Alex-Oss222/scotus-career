@@ -77,7 +77,7 @@ Stone, joined by Stevens, distinguishes an immune attendance order from a plausi
 
 The Supreme Court proceeding is closed. The Ninth Circuit judgment remains in place, and the pleaded claim returns for ordinary proceedings. Liability, causation, defenses, and damages remain unresolved.
 
-Source note: Official United States Reports, 502 U.S. 9–15, read in full; research cutoff September 14, 2026. The alternate equal division and writings are simulation outputs.
+Source note: Official United States Reports, 502 U.S. 9–15, read in full; research cutoff September 14, 2026.
 
 **End of entry: *Mireles v. Waco*, summary disposition by an equally divided Court, October 21, 1991.**
 
@@ -212,3 +212,7 @@ Source note: Official United States Reports, 502 U.S. 46–61, read in full; res
 **End of entry: *Griffin v. United States*, merits decision, December 3, 1991.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

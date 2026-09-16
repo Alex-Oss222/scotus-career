@@ -800,3 +800,7 @@ Supreme Court merits review is complete. Ordinary mandate practice governs, and 
 **End of entry: Allied-Signal, Inc., as successor-in-interest to Bendix Corp. v. Director, Division of Taxation, merits decision, June 15, 1992.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

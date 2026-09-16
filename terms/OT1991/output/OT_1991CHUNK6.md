@@ -423,8 +423,4 @@ Supreme Court review ends in reversal of the circuit’s direction to award cred
 
 ## Simulation Workflow Blockers
 
-This section records an operator-only workflow blocker; it states no Court action or legal effect.
-
-| Case or matter | Exact blocker |
-|---|---|
-| Holmes v. Securities Investor Protection Corp., No. 90-727 (March 24, 1992) | The official record presents an independent claim under SIPA §78eee(d) for liquidation-administration advances. Section II version 1 supplies no Stone disposition or legal ground for that claim. Engine §4 requires that missing approved choice before the matter can be adjudicated. The question has been sent to the user; no decision, vote, holding or remedy for this event is committed. |
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

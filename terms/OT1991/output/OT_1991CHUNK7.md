@@ -4,7 +4,7 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
-| March 24, 1992 | Holmes v. Securities Investor Protection Corp., No. 90-727 — Correction to chunk 6 | Merits decision; correction insertion for chunk 6 | Reversed and remanded for judgment for Holmes on the two SIPC claims; distinct trustee claims and lawful estate recovery preserved. |
+| March 24, 1992 | Holmes v. Securities Investor Protection Corp., No. 90-727 | Merits decision | Reversed and remanded for judgment for Holmes on the two SIPC claims; distinct trustee claims and lawful estate recovery preserved. |
 | March 25, 1992 | United States v. Felix, No. 90-1599 | Merits decision | Reversed as to counts 1–6; preserved appellate issues remain; disposition of counts 9–10 undisturbed. |
 | March 25, 1992 | Barnhill v. Johnson, No. 91-159 | Merits decision | Honor-date ruling affirmed; remaining preference elements and defenses retain their separate operation. |
 | March 25, 1992 | National Railroad Passenger Corp. v. Boston & Maine Corp., Nos. 90-1419 and 90-1769 | Consolidated merits decision | Both judgments reversed and cases remanded to the D.C. Circuit for compensation challenges and other unresolved issues. |
@@ -16,13 +16,13 @@
 
 ## Decisions and Dispositions
 
-### Holmes v. Securities Investor Protection Corp. — Correction to chunk 6, No. 90-727
+### Holmes v. Securities Investor Protection Corp., No. 90-727
 
 Merits decision, March 24, 1992
 
 #### Chronology and Posture
 
-Argued November 13, 1991. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, *Securities Investor Protection Corp. v. Vigman*, 908 F.2d 1461 (August 3, 1990). This correction supplies the completed entry omitted from chunk 6. The decision belongs to the March 24 group with R.L.C., Darden and Wilson; no order within that day is established.
+Argued November 13, 1991. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, *Securities Investor Protection Corp. v. Vigman*, 908 F.2d 1461 (August 3, 1990). The decision belongs to the March 24 group with R.L.C., Darden and Wilson; no order within that day is established.
 
 The granted question is whether the Securities Investor Protection Corporation (SIPC) may pursue an express civil claim under the Racketeer Influenced and Corrupt Organizations Act (RICO) despite the purchaser-seller restriction applicable to its implied securities claim. Proximate cause—the required legal connection between the violation and injury—is fairly included in that question and was briefed. The Court also addresses SIPC's asserted independent right under §78eee(d) of the Securities Investor Protection Act (SIPA) to recover its own liquidation-administration advances. Responsibility for coconspirators' conduct falls outside the limited grant and is assumed without decision.
 
@@ -118,7 +118,7 @@ Supreme Court review ends. The Ninth Circuit must give effect to judgment for Ho
 
 The remand does not reinstate the unappealed securities theory or adjudicate the unbriefed expense-subrogation theory, the parking allegations not pursued as a separate recovery theory in this Court, or an independently grounded direct-injury claim. The Court orders no payment to SIPC or a trustee, new damages procedure, hearing, retained supervision or further Supreme Court action. No award amount, finding of liability or mandate-issuance date is established.
 
-**End of entry: Holmes v. Securities Investor Protection Corp. — Correction to chunk 6, merits decision, March 24, 1992.**
+**End of entry: Holmes v. Securities Investor Protection Corp., merits decision, March 24, 1992.**
 
 ---
 
@@ -637,7 +637,4 @@ Record and reported proceedings: [United States Reports, 503 U.S. 562](https://w
 
 ## Simulation Workflow Blockers
 
-| Case or matter | Exact blocker |
-|---|---|
-| Suter v. Artist M., No. 90-1488, March 25, 1992 | The corrected neutral record identifies additional claims under 42 U.S.C. §671(a)(9) (reporting unsuitable placements) and §671(a)(16) (case plans and review requirements). Section II version 1 supplies no express treatment of their reach, disposition or effect on the mandate. The sources reviewed do not establish abandonment or a grant limitation eliminating both. Engine §4 requires the missing approved choices or a verified scope premise before a complete disposition; none is inferred. |
-| United States Department of Commerce v. Montana, No. 91-860, March 31, 1992 | Count II separately challenges automatic decennial apportionment under Article I, §§2 and 7 without a fresh congressional vote. The lower court left its merits undecided; the neutral packet and approved Section II version 1 omit its reach, disposition and mandate treatment. Engine §4 requires the missing approved choice or a verified scope premise removing the claim. Reversing Count I does not silently resolve Count II. |
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

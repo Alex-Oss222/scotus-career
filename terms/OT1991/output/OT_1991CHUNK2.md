@@ -174,7 +174,7 @@ Scalia would permit objection after each disclosed lobbying position followed by
 
 The Supreme Court proceeding is closed. The case returns for prospective relief permitting a lawful reduction or escrow system, preserving interest from collection, and excluding unpreserved retroactive damages.
 
-Source note: Eleventh Circuit opinion and rule text, 906 F.2d 624; Internet Archive item `micro_IA40385013_0071`; reporter order at 502 U.S. 104; research cutoff September 14, 2026. The merits decision, votes, and writings are simulation outputs.
+Source note: Eleventh Circuit opinion and rule text, 906 F.2d 624; Internet Archive item `micro_IA40385013_0071`; reporter order at 502 U.S. 104; research cutoff September 14, 2026.
 
 **End of entry: *Gibson v. Florida Bar*, merits decision, December 4, 1991.**
 
@@ -249,3 +249,7 @@ Source note: Official United States Reports text, 502 U.S. 151–163, read in fu
 **End of entry: *Union Bank v. Wolas*, merits decision, December 11, 1991.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

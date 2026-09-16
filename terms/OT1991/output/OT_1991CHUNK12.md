@@ -136,7 +136,7 @@ Effective June 18, the general acquisition-value system is sustained on each of 
 
 #### Separate Positions Relevant to the Decision
 
-Thomas accepts the scheme’s rationality but considers Allegheny Pittsburgh indistinguishable and wrongly decided. His criticism does not overrule that decision. Stevens concludes that the permanent acquisition and family preferences lack adequate fit with an impartial public purpose and would reverse even under rational-basis review. Stone-Zsela separately concurs on predictability, continuity and the exception grounds, preserving proper travel and discriminatory-administration claims.
+Thomas accepts the scheme’s rationality but finds the Court's distinction of Allegheny Pittsburgh unpersuasive and risking confusion of state-law error with equal protection. His criticism does not overrule that decision. Stevens concludes that the permanent acquisition and family preferences lack adequate fit with an impartial public purpose and would reverse even under rational-basis review. Stone-Zsela separately concurs on predictability, continuity and the exception grounds, preserving proper travel and discriminatory-administration claims.
 
 #### Mandate, Remedy, and Stage
 
@@ -313,7 +313,7 @@ Effective June 18, the specific domestic/foreign dividend distinction is invalid
 
 #### Separate Positions Relevant to the Decision
 
-Blackmun regards the facial challenge as insufficiently supported without an overall comparison of domestic and foreign tax burdens. He gives weight to the absence of Iowa-specific protection and the National Government’s defense of the measure. He would also reject the equal-protection claim because administrative conformity is rational. Stone-Zsela separately agrees that Iowa’s actual source distinction lacks an adequate justification and leaves calculations to the state proceedings.
+Blackmun regards the facial challenge as insufficiently supported without an overall comparison of domestic and foreign tax burdens. He concludes the record does not establish systematic disadvantage. He would also reject the equal-protection claim because administrative conformity is rational. Stone-Zsela separately agrees that Iowa’s actual source distinction lacks an adequate justification and leaves calculations to the state proceedings.
 
 #### Mandate, Remedy, and Stage
 
@@ -680,7 +680,7 @@ The Court reverses the judgment of the Supreme Court of Wisconsin and remands fo
 
 ##### Solicitation includes its ancillary means, not independent business functions
 
-**Controlling proposition:** Under §381(a), solicitation includes express or implicit requests for purchases and activities serving no independent business function apart from requesting orders; customary assignment to salespeople, promotional usefulness or a connection with future sales does not by itself protect an independent service, delivery or inventory function. The statutory office distinction remains: maintaining an office attributable to the company exceeds solicitation even if its purpose is solicitation, subject to §381(c)’s express independent-contractor provision; ordinary use of a representative’s home or temporary meeting place is not automatically such an office.
+**Controlling proposition:** Under §381(a), solicitation includes express or implicit requests for purchases and activities serving no independent business function apart from requesting orders; customary assignment to salespeople, promotional usefulness or a connection with future sales does not by itself protect an independent service, delivery or inventory function. The statutory office distinction remains: maintaining an office attributable to the company exceeds solicitation even if its purpose is solicitation, subject to §381(c)’s express independent-contractor provision. Section 381(c) (Pub. L. 86–272, title I, §101, Sept. 14, 1959, 73 Stat. 555, unamended through this event date) provides that a person is not considered to have engaged in business activities within a State merely by reason of sales or order-solicitation there by one or more independent contractors, or by reason of an office maintained there by one or more independent contractors whose activities consist solely of making sales or soliciting orders for tangible personal property. Section 381(d)(1) defines “independent contractor,” for this purpose, as a commission agent, broker, or other independent contractor who sells or solicits orders for more than one principal and holds himself out as such in the regular course of his business activities; §381(d)(2) excludes an independent contractor from the separate term “representative.” The provision therefore reaches only sales, solicitation, or office maintenance conducted through a statutorily qualifying multiple-principal independent contractor, not a company’s own local representatives or employees, whose activities remain governed by the ancillary-means/independent-business-function standard stated above. Ordinary use of a representative’s home or temporary meeting place is not automatically such an office.
 
 **Authority:** Parts I–II of Scalia’s opinion, joined by White, Stevens, O’Connor, Souter and Thomas, supply six votes for the standard; Part III is joined by White, Stevens, Souter and Thomas, supplying five votes for its stated application. Stone-Zsela’s judgment concurrence is not a formal join and is not needed to establish authority.
 
@@ -972,3 +972,7 @@ Supreme Court review of this merits event is complete. On the ordinary mandate, 
 **End of entry: United States v. Salerno et al., merits decision, June 19, 1992.**
 
 ---
+
+## Simulation Workflow Blockers
+
+This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.
