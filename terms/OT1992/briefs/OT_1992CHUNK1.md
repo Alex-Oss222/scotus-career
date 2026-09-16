@@ -359,6 +359,20 @@ These links support identity, pre-decision facts, proceedings, arguments, and th
 
 **Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
+#### D. VERSION 1.2 SUPPLEMENT — CORRECTED PETITIONS
+
+**Version:** User-directed revision, v1.2, correcting this stopped chunk 1 matter after the current petitions actually filed (No. 92-5584 and the companion No. 92-5618) were recovered and read in full. This supplement supersedes Section II's Judgment and Remedy and Issue 1 positions above for this matter; those rested on an original packet that did not reflect the actual recovered petitions.
+
+**Approval Status:** Approved as written by the user. Rests on the corrected neutral packet at `terms/OT1992/evidence/martin_corrected_neutral_packet.md` and the frozen provisional non-Stone commitments at `terms/OT1992/evidence/martin_provisional_nonstone_freeze.md`.
+
+**Stone's Proposed Judgment or Disposition:** GRANT the motions to proceed in forma pauperis in both No. 92-5584 and No. 92-5618; DENY both petitions for certiorari in the ordinary course; DECLINE any prospective filing restriction.
+
+**Stone's Legal Position and Treatment of Precedent:** Rule 39.8 requires a filing-specific finding of frivolousness or malice. Martin's filing history is relevant, but it cannot replace examination of each petition actually before the Court.
+
+**Stone's Proposed Holding:** No. 92-5584 presents a distinct statutory/general-rule argument that clears the low nonfrivolousness threshold, even if it does not justify certiorari. No. 92-5618 raises a separate judicial-disqualification question and must receive an independent disposition; it cannot be rejected as merely part of No. 92-5584's collateral attack. On the recovered record, neither petition establishes a sufficient basis for Supreme Court review, but both should be filed before certiorari is denied in the ordinary course.
+
+**Boundary or Reserved Question (v1.2):** No blanket prospective civil-certiorari filing restriction; no disposition of any future, unidentified filing; no finding on the merits of either petition's statutory argument or the disqualification claim beyond the threshold needed to permit filing without prepayment.
+
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
 #### A. FILING / PROCEDURAL COMPARATOR
