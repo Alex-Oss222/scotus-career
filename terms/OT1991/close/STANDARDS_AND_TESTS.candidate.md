@@ -1453,7 +1453,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 ### Solicitation and independently useful business functions
 
-**Governing question:** The meaning of solicitation under 15 U.S.C. §381(a), for activities other than maintaining an office attributable to the company.
+**Governing question:** The meaning of solicitation under 15 U.S.C. §381(a), and the separate scope of §381(c)'s independent-contractor exemption.
 
 **Current rule:** Solicitation includes express or implicit requests for purchases and activities serving no independent business function apart from requesting orders. Customary assignment to salespeople, promotional usefulness or a connection with future sales does not protect an independent service, delivery or inventory function. No automatic before-sale/after-sale boundary governs. The statutory protection retains its out-of-state approval and fulfillment conditions; this entry addresses the functional definition, not every prerequisite of §381 protection.
 
@@ -1462,7 +1462,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Present operation effective:** Wisconsin Department of Revenue v. William Wrigley, Jr., Co., June 19, 1992.
 
-**Exceptions and limits:** Maintaining a company-attributable office is outside this entry's scope. Ordinary use of a representative's home or temporary meeting place does not automatically establish such an office.
+**Exceptions and limits:** Maintaining a company-attributable office generally exceeds solicitation, except that §381(c) (Pub. L. 86–272, title I, §101, Sept. 14, 1959, 73 Stat. 555; unamended through the event date) separately exempts sales, order-solicitation, or office maintenance conducted through one or more independent contractors — defined by §381(d)(1) as a commission agent, broker, or other independent contractor selling or soliciting orders for more than one principal and holding himself out as such in the regular course of business. That exemption does not reach a company's own local representatives or employees, whose activities remain governed by the functional definition above. Ordinary use of a representative's home or temporary meeting place does not automatically establish a company-attributable office.
 
 **Holdings navigation:** [Wisconsin Department of Revenue v. William Wrigley, Jr., Co., 505 U.S. 214 (1992) — State net-income tax and protected solicitation](HOLDINGS.candidate.md#wisconsin-department-of-revenue-v-william-wrigley-jr-co-505-us-214-1992).
 
