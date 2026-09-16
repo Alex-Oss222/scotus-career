@@ -13,6 +13,7 @@
 | 1993-05-03 | Stinson v. United States, No. 91-8685 | Merits decision | Sentencing review resumes on the temporal question and lawful remaining grounds. |
 | 1993-05-03 | Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc., No. 91-1043 | Merits decision | Antitrust counterclaim and motive-discovery rejection stand; copyright loss remains intact. |
 | 1993-05-03 | United States v. Padilla, No. 92-207 | Merits decision | Remanded for individualized assessment of the reviewed defendants’ interests. |
+| 1993-05-03 | Moreau v. Klevenhagen, No. 92-1 | Merits decision | Affirmed, 9–0, on both statutory tracks. |
 | 1993-05-14 | Blodgett v. Campbell, No. A-851 | Application dismissed without prejudice | Application closed without prejudice; Ninth Circuit hearing direction remains intact. |
 | 1993-05-17 | Cardinal Chemical Co. v. Morton International, Inc., No. 92-114 | Merits decision | Live validity appeal returns to the Federal Circuit; noninfringement affirmance remains intact. |
 
@@ -538,6 +539,44 @@ Supreme Court merits review is complete. The Ninth Circuit must evaluate the per
 
 ---
 
+### Moreau v. Klevenhagen, No. 92-1
+
+Merits decision, 1993-05-03
+
+#### Chronology and Posture
+
+Certiorari to the Fifth Circuit. The questions were whether a public employer may use individual compensatory-time agreements under the Fair Labor Standards Act when employees selected a representative organization that state law did not authorize to bargain a binding collective agreement, and whether the Act's transition provision independently supplies the required agreement, through the compensatory-time practice in effect April 15, 1986, for employees hired before that date.
+
+#### Judgment
+
+Affirmed, 9–0, on both statutory tracks. Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, and Thomas. No separate writing.
+
+#### Controlling Propositions and Authority
+
+##### The earlier-hire component
+
+**Controlling proposition:** For employees hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement the statute otherwise requires before the work is performed.
+
+**Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
+
+**Controlling explanation:** Congress's transition text supplies the missing agreement for employees hired before the Act's public-sector amendments took hold, by reference to the practice actually in effect at that time. This does not excuse an employer from the ordinary individual-agreement route for anyone hired afterward.
+
+##### The later-hire component
+
+**Controlling proposition:** Where employees have selected a representative organization that state law does not authorize to enter a binding collective agreement, the employer may rely on individual agreements with employees hired on or after April 15, 1986.
+
+**Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
+
+**Controlling explanation:** The statutory reference to an agreement with "a representative" does not compel recognition of an entity state law does not permit to make the relevant binding commitment. Individual consent remains necessary for this cohort.
+
+#### Mandate, Remedy, and Stage
+
+Supreme Court review is complete. The Fifth Circuit's judgment is affirmed on both statutory tracks. No remand proceeding, new factual finding, or damages calculation is ordered.
+
+**End of entry: Moreau v. Klevenhagen, Merits decision, 1993-05-03.**
+
+---
+
 ### Blodgett v. Campbell, No. A-851
 
 Application dismissed without prejudice, 1993-05-14
@@ -680,6 +719,4 @@ Supreme Court review is complete. Only the vacatur of the invalidity judgment is
 
 ## Simulation Workflow Blockers
 
-| Case or matter | Exact blocker |
-|---|---|
-| Moreau v. Klevenhagen, No.92-1 | Section II v1.1 requires revalidation against 29 U.S.C. §207(o)(2)’s transition rule: for employees described in subclause (A)(ii) hired before April 15, 1986, the regular compensatory-time practice in effect on April 15, 1986 constitutes an agreement or understanding. The judgment below relied on that route for earlier hires and individual agreements for later hires; the supplied neutral packet omitted the operative transition. No approved conditional branch resolves its effect on the earlier-hire component. Supply a refreshed neutral packet including that text and renewed Stone authorization for the affected component. No Court action is entered; the merits matter remains open. |
+No open simulation workflow blockers.

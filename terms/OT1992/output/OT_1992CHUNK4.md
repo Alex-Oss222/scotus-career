@@ -13,6 +13,7 @@ Events sharing an effective date are grouped without an implied internal priorit
 | March 8, 1993 | Ortega-Rodriguez v. United States | Merits decision | Appellate dismissal vacated; remanded for application of the sufficient-connection standard. The conviction appeal remains unresolved. |
 | March 8, 1993 | Reiter et al. v. Cooper, Trustee for Carolina Motor Express, Inc., et al. | Merits decision | Fourth Circuit judgment reversed; remanded for statutory counterclaims, agency rate determination and ordinary judicial case management. |
 | March 8, 1993 | Delo, Superintendent, Potosi Correctional Center v. Lashley | Certiorari granted; summary merits decision | Instructional ground for conditional habeas relief reversed; remanded within the limited scope of review. |
+| March 8, 1993 | Demos v. Storrie | In forma pauperis fee motion | Leave to proceed without prepayment granted; certiorari denied; no prospective filing restriction imposed. |
 | March 23, 1993 | Reno v. Flores | Merits decision | Facial release and automatic-hearing relief reversed; remanded. The 1987 Juvenile Care Agreement remains enforceable. |
 | March 23, 1993 | Saudi Arabia v. Nelson | Merits decision | Eleventh Circuit judgment reversed; remanded for jurisdictional dismissal of all pleaded claims under the asserted exception. |
 | March 24, 1993 | Cincinnati v. Discovery Network, Inc. | Merits decision | Sixth Circuit judgment affirmed; declaratory and injunctive relief against the selective prohibition remains. |
@@ -502,6 +503,26 @@ The judgment granting conditional habeas relief on the specified instruction gro
 
 ---
 
+### Demos v. Storrie, No. 92-6846
+
+In forma pauperis fee motion, March 8, 1993
+
+#### Chronology and Posture
+
+Demos sought leave to proceed without prepayment on a petition for certiorari to the Ninth Circuit, which had affirmed the denial of leave to file a civil complaint under an existing prefiling order; that panel treated the prefiling order's own validity as settled because it had not been timely appealed. The petition alleges that official interference prevented a timely appeal of that order.
+
+#### Public Action
+
+The Court grants leave to proceed in forma pauperis and denies the petition for certiorari in the ordinary course. No prospective restriction on future civil-certiorari filings is imposed. No opinion or dissent accompanies the order.
+
+#### Mandate, Remedy, and Stage
+
+The fee motion is granted without prepayment; the certiorari petition is denied, and the Ninth Circuit's judgment remains undisturbed. No merits finding on the interference allegation is made. No restriction on any future, unidentified filing is entered.
+
+**End of entry: Demos v. Storrie, in forma pauperis fee motion, March 8, 1993.**
+
+---
+
 ### Reno v. Flores, No. 91-905
 
 Merits decision, March 23, 1993
@@ -879,6 +900,4 @@ Supreme Court merits review is complete. The Sixth Circuit judgment stands, with
 
 ## Simulation Workflow Blockers
 
-| Case or matter | Exact blocker |
-|---|---|
-| Demos v. Storrie, No. 92-6846 | Renewed approval is required in light of the November 2 Martin holding requiring a filing-specific frivolousness determination and the recovered petition's allegation that official interference prevented a timely appeal. The supplied conditional language does not resolve that changed premise. No Court action is entered; the IFP motion and possible prospective filing condition remain open. |
+No open simulation workflow blockers.
