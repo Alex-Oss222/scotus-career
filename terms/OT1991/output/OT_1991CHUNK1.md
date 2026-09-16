@@ -7,7 +7,7 @@
 | October 15, 1991 | *United States v. Ibarra* | Summary disposition | Vacated and remanded to the Tenth Circuit for further appellate proceedings |
 | October 21, 1991 | *Mireles v. Waco* | Summary disposition by an equally divided Court | Ninth Circuit judgment remains in place; ordinary proceedings resume |
 | October 29, 1991 | *Campos v. City of Houston* | Application denied | District-court order remains operative subject to lower-court proceedings |
-| November 4, 1991 | *Zatko v. California* and grouped matters | Fee-waiver motions denied | Applicants may pay fees and submit compliant petitions by November 25, 1991 |
+| November 4, 1991 | *Zatko v. California* and companion matters | Fee-waiver motions denied | Applicants may pay fees and submit compliant petitions by November 25, 1991 |
 | November 5, 1991 | *Hafer v. Melo* | Merits decision | Affirmed; claims return for ordinary proceedings on elements and defenses |
 | December 3, 1991 | *Board of Governors v. MCorp Financial* | Merits decision | Both regulatory proceedings may continue through statutory channels |
 | December 3, 1991 | *Griffin v. United States* | Merits decision | Conviction remains affirmed; Supreme Court proceedings are closed |
@@ -143,7 +143,7 @@ No underlying petition was decided. Each applicant may pay and comply by Novembe
 
 Source note: Official United States Reports, 502 U.S. 16–20, read in full; research cutoff September 14, 2026.
 
-**End of entry: *Zatko v. California* and grouped matters, fee-waiver motions denied, November 4, 1991.**
+**End of entry: *Zatko v. California* and companion matters, fee-waiver motions denied, November 4, 1991.**
 
 ---
 

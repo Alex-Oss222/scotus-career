@@ -140,7 +140,7 @@ Official United States Reports, 502 U.S. 1301-1302, read in full; district-court
 
 ---
 
-# Zatko v. California and grouped matters
+# Zatko v. California and companion matters
 
 **Render form: compact — reduced-Court 5-3 judgment and the only comparator difference is Stone replacing Rehnquist.**
 
