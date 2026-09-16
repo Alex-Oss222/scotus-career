@@ -1,119 +1,293 @@
 # OT_1992CHUNK7_COMPARATOR
 
-## Northeastern Florida Chapter, AGC v. Jacksonville
+## McNeil v. United States
+
+**Listed docket:** 92-6033. **Event:** 1993-05-17.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Northeastern Florida Chapter, AGC v. Jacksonville; No. 91-1721; 1993-06-14. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-05-17.  
+**Historical Citation:** 508 U.S. 106; listed docket 92-6033.
 
-**Historical Outcome and Vote:** Reversed and remanded, 7–2.
+**Historical Outcome and Vote:** Affirmed unanimously.
 
-**Historical Opinion Structure:** Thomas wrote for Rehnquist, White, Stevens, Scalia, Kennedy, and Souter. O’Connor dissented, joined by Blackmun, principally on the effect of the changed ordinance.
+**Historical Opinion Structure:** Stevens wrote for all nine Justices.
 
-**Historical Holding:** The inability to compete on equal terms supplied injury in fact; an able and ready bidder did not need to prove it would win. The new ordinance preserved sufficiently similar preferential treatment to prevent mootness.
+**Historical Holding or Limited Procedural Effect:** Postfiling exhaustion did not cure the prematurely instituted FTCA suit.
 
-**Historical Authority:** 508 U.S. 656 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/656/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/106/).
 
 ---
 
-## South Dakota v. Bourland
+## Oklahoma Tax Commission v. Sac and Fox Nation
+
+**Listed docket:** 92-259. **Event:** 1993-05-17.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** South Dakota v. Bourland; No. 91-2051; 1993-06-14. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-05-17.  
+**Historical Citation:** 508 U.S. 114; listed docket 92-259.
 
-**Historical Outcome and Vote:** Reversed and remanded, 7–2.
+**Historical Outcome and Vote:** Vacated and remanded unanimously.
 
-**Historical Opinion Structure:** Thomas wrote for Rehnquist, White, Stevens, O’Connor, Scalia, and Kennedy. Blackmun dissented, joined by Souter.
+**Historical Opinion Structure:** O’Connor wrote for all nine Justices.
 
-**Historical Holding:** The acquisition and public-use statutes abrogated the treaty-based power to regulate non-Indian hunting and fishing on the taken lands. Questions of residual authority under Montana were left for further proceedings, rather than replaced by a universal holding that tribes have no possible authority there.
+**Historical Holding or Limited Procedural Effect:** Indian-country status was broader than formal reservation status, and member-residence findings were required for the tax analysis.
 
-**Historical Authority:** 508 U.S. 679 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/679/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/114/).
 
 ---
 
-## Zobrest v. Catalina Foothills School District
+## Deal v. United States
+
+**Listed docket:** 91-8199. **Event:** 1993-05-17.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Zobrest v. Catalina Foothills School District; No. 92-94; 1993-06-18. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-05-17.  
+**Historical Citation:** 508 U.S. 129; listed docket 91-8199.
 
-**Historical Outcome and Vote:** Reversed, 5–4.
+**Historical Outcome and Vote:** Affirmed, 6–3.
 
-**Historical Opinion Structure:** Rehnquist wrote for White, Scalia, Kennedy, and Thomas. Blackmun dissented, joined by Souter throughout and by Stevens and O’Connor in Part I. O’Connor, joined by Stevens, separately favored vacatur and remand for threshold issues.
+**Historical Opinion Structure:** Scalia wrote for Rehnquist, White, Kennedy, Souter, and Thomas. Stevens dissented, joined by Blackmun and O’Connor.
 
-**Historical Holding:** The Court declined to reach the unpressed nonconstitutional defenses and held that the Establishment Clause did not bar a neutral interpreter benefit delivered to a disabled child attending a sectarian school through private choice. The dissenters differed on whether to decide establishment at all and on its substantive application.
+**Historical Holding or Limited Procedural Effect:** The historical Court counted multiple convictions in one proceeding as second or subsequent convictions for the enhanced penalty.
 
-**Historical Authority:** 509 U.S. 1 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/1/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/129/).
 
 ---
 
-## Helling v. McKinney
+## El Vocero de Puerto Rico v. Puerto Rico
+
+**Listed docket:** 92-949. **Event:** 1993-05-17.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Helling v. McKinney; No. 91-1958; 1993-06-18. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-05-17.  
+**Historical Citation:** 508 U.S. 147; listed docket 92-949.
 
-**Historical Outcome and Vote:** Affirmed and remanded, 7–2.
+**Historical Outcome and Vote:** Reversed and remanded by per curiam disposition; no dissent was recorded.
 
-**Historical Opinion Structure:** White wrote for Rehnquist, Blackmun, Stevens, O’Connor, Kennedy, and Souter. Thomas dissented, joined by Scalia.
+**Historical Opinion Structure:** Unsigned summary opinion.
 
-**Historical Holding:** A claim may rest on deliberate indifference to unreasonable future-health risk from involuntary smoke exposure. The prisoner had to prove both objective and subjective components, with current conditions and changed policies material on remand.
+**Historical Holding or Limited Procedural Effect:** Puerto Rico’s blanket preliminary-hearing closure rule was incompatible with the qualified access requirements.
 
-**Historical Authority:** 509 U.S. 25 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/25/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/147/).
 
 ---
 
-## Sale v. Haitian Centers Council
+## Commissioner v. Keystone Consolidated Industries, Inc.
+
+**Listed docket:** 91-1677. **Event:** 1993-05-24.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Sale v. Haitian Centers Council; No. 92-344; 1993-06-21. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-05-24.  
+**Historical Citation:** 508 U.S. 152; listed docket 91-1677.
 
-**Historical Outcome and Vote:** Reversed, 8–1.
+**Historical Outcome and Vote:** Reversed and remanded, 8–1.
 
-**Historical Opinion Structure:** Stevens wrote for Rehnquist, White, O’Connor, Scalia, Kennedy, Souter, and Thomas. Blackmun dissented.
+**Historical Opinion Structure:** Blackmun wrote the opinion; Scalia did not join its Part III-B. Stevens dissented.
 
-**Historical Holding:** The Court construed neither § 243(h) nor Article 33 as limiting the high-seas repatriation operation. It relied on the statutory and treaty context, the Attorney General’s domestic role, and the presumption against extraterritorial operation.
+**Historical Holding or Limited Procedural Effect:** The transfer in satisfaction of the funding obligation was a prohibited sale or exchange.
 
-**Historical Authority:** 509 U.S. 155 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/155/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/152/).
 
 ---
 
-## Brooke Group v. Brown & Williamson
+## United States Department of Justice v. Landano
+
+**Listed docket:** 91-2054. **Event:** 1993-05-24.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Brooke Group v. Brown & Williamson; No. 92-466; 1993-06-21. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-05-24.  
+**Historical Citation:** 508 U.S. 165; listed docket 91-2054.
+
+**Historical Outcome and Vote:** Vacated and remanded unanimously.
+
+**Historical Opinion Structure:** O’Connor wrote for all nine Justices.
+
+**Historical Holding or Limited Procedural Effect:** A universal presumption was rejected, while narrower supported inferences of confidentiality remained available.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/165/).
+
+---
+
+## Lincoln v. Vigil
+
+**Listed docket:** 91-1833. **Event:** 1993-05-24.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-05-24.  
+**Historical Citation:** 508 U.S. 182; listed docket 91-1833.
+
+**Historical Outcome and Vote:** Reversed and remanded unanimously.
+
+**Historical Opinion Structure:** Souter wrote for all nine Justices.
+
+**Historical Holding or Limited Procedural Effect:** The lump-sum allocation was committed to agency discretion and the change did not require the asserted notice-and-comment procedure; the distinct constitutional claim was left for further treatment.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/182/).
+
+---
+
+## Keene Corp. v. United States
+
+**Listed docket:** 92-166. **Event:** 1993-05-24.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-05-24.  
+**Historical Citation:** 508 U.S. 200; listed docket 92-166.
+
+**Historical Outcome and Vote:** Affirmed, 8–1.
+
+**Historical Opinion Structure:** Souter wrote for the Court; Stevens dissented.
+
+**Historical Holding or Limited Procedural Effect:** Section 1500 barred the overlapping suits based on their status when filed in the Claims Court.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/200/).
+
+---
+
+## Sullivan v. Louisiana
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+**Case:** Sullivan v. Louisiana; No. 92-5129; 1993-06-01. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+
+#### A. MERITS COMPARATOR
+
+**Historical Outcome and Vote:** Reversed and remanded, 9–0.
+
+**Historical Opinion Structure:** Scalia wrote for a unanimous Court. Rehnquist filed a concurrence.
+
+**Historical Holding:** The defective reasonable-doubt instruction deprived Sullivan of a jury verdict of guilt beyond a reasonable doubt and was a structural defect not subject to harmless-error analysis.
+
+**Historical Authority:** 508 U.S. 275 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/275/).
+
+---
+
+## Smith v. United States
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+**Case:** Smith v. United States; No. 91-8674; 1993-06-01. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
 
 #### A. MERITS COMPARATOR
 
 **Historical Outcome and Vote:** Affirmed, 6–3.
 
-**Historical Opinion Structure:** Kennedy wrote for Rehnquist, O’Connor, Scalia, Souter, and Thomas. Stevens dissented, joined by White and Blackmun.
+**Historical Opinion Structure:** O’Connor wrote for Rehnquist, White, Blackmun, Kennedy, and Thomas. Blackmun concurred separately. Scalia dissented, joined by Stevens and Souter.
 
-**Historical Holding:** Primary-line predatory pricing requires prices below an appropriate cost measure and a reasonable prospect of recoupment. Oligopolistic recoupment was not categorically excluded, but the evidence was insufficient to establish it here.
+**Historical Holding:** Offering a firearm in exchange for drugs constitutes use; the contemplated trade also supplied the required relationship to the drug-trafficking offense. The Court did not decide carrying because it was not charged.
 
-**Historical Authority:** 509 U.S. 209 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** 508 U.S. 223 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/209/).
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/223/). [Cornell opinion and linked separate opinions](https://www.law.cornell.edu/supremecourt/text/91-8674) confirm the printed decision date.
+
+---
+
+## Mertens v. Hewitt Associates
+
+**Listed docket:** 91-1671. **Event:** 1993-06-01.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-06-01.  
+**Historical Citation:** 508 U.S. 248; listed docket 91-1671.
+
+**Historical Outcome and Vote:** Affirmed, 5–4.
+
+**Historical Opinion Structure:** Scalia wrote for Blackmun, Kennedy, Souter, and Thomas. White dissented, joined by Rehnquist, Stevens, and O’Connor.
+
+**Historical Holding or Limited Procedural Effect:** The historical Court classified the requested plan-loss compensation as legal damages outside § 502(a)(3), while recognizing that some monetary remedies can be equitable. It reserved the distinct antecedent question of nonfiduciary-action authorization because of the parties’ presentation and did not reopen the unchallenged restitution ruling.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/248/).
+- [Published judicial text and cited authorities, source 2](https://supreme.justia.com/cases/federal/us/182/461/).
+- [Published judicial text and cited authorities, source 3](https://supreme.justia.com/cases/federal/us/473/134/).
+- [Published judicial text and cited authorities, source 4](https://supreme.justia.com/cases/federal/us/489/101/).
+- [Published judicial text and cited authorities, source 5](https://supreme.justia.com/cases/federal/us/494/558/).
+
+---
+
+## Musick, Peeler & Garrett v. Employers Insurance of Wausau
+
+**Listed docket:** 92-34. **Event:** 1993-06-01.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-06-01.  
+**Historical Citation:** 508 U.S. 286; listed docket 92-34.
+
+**Historical Outcome and Vote:** Affirmed, 6–3.
+
+**Historical Opinion Structure:** Kennedy wrote for Rehnquist, White, Stevens, Scalia, and Souter. Thomas dissented, joined by Blackmun and O’Connor.
+
+**Historical Holding or Limited Procedural Effect:** A contribution right was recognized as an incident of the implied Rule 10b-5 private action.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/286/).

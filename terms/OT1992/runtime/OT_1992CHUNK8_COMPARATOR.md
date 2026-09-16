@@ -1,139 +1,274 @@
 # OT_1992CHUNK8_COMPARATOR
 
-## Johnson v. Texas
+## FCC v. Beach Communications, Inc.
+
+**Listed docket:** 92-603. **Event:** 1993-06-01.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Johnson v. Texas; No. 92-5653; 1993-06-24. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-06-01.  
+**Historical Citation:** 508 U.S. 307; listed docket 92-603.
 
-**Historical Outcome and Vote:** Affirmed, 5–4.
+**Historical Outcome and Vote:** Reversed unanimously in the judgment.
 
-**Historical Opinion Structure:** Kennedy wrote for Rehnquist, White, Scalia, and Thomas. Scalia and Thomas separately concurred. O’Connor dissented, joined by Blackmun, Stevens, and Souter.
+**Historical Opinion Structure:** Thomas wrote for eight Justices. Stevens concurred in the judgment.
 
-**Historical Holding:** The Court found no reasonable likelihood that the special issues prevented adequate consideration of youth, reasoning that its transient qualities could be given mitigating force through future dangerousness. It distinguished Penry and relied in part on the historical same-term Graham reasoning.
+**Historical Holding or Limited Procedural Effect:** The economic classification survived rational-basis review.
 
-**Historical Authority:** 509 U.S. 350 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/350/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/307/).
 
 ---
 
-## Godinez v. Moran
+## Nobelman v. American Savings Bank
+
+**Listed docket:** 92-641. **Event:** 1993-06-01.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Godinez v. Moran; No. 92-725; 1993-06-24. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-06-01.  
+**Historical Citation:** 508 U.S. 324; listed docket 92-641.
 
-**Historical Outcome and Vote:** Reversed and remanded, 7–2.
+**Historical Outcome and Vote:** Affirmed unanimously.
 
-**Historical Opinion Structure:** Thomas wrote for Rehnquist, White, O’Connor, and Souter; Scalia and Kennedy joined Parts I, II-B, and III. Kennedy, joined by Scalia, concurred in part and in the judgment. Blackmun dissented, joined by Stevens.
+**Historical Opinion Structure:** Thomas wrote for all nine Justices; Stevens concurred separately.
 
-**Historical Holding:** Dusky supplies the same constitutional competence standard for trial, guilty pleas, and waiver of counsel, while a knowing and voluntary waiver is an additional requirement. The Court did not dispose of the case under the unraised Teague defense.
+**Historical Holding or Limited Procedural Effect:** The proposed modification of the partially secured principal-residence mortgage was barred by § 1322(b)(2).
 
-**Historical Authority:** 509 U.S. 389 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/389/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/324/).
 
 ---
 
-## Heller v. Doe
+## Lamb's Chapel v. Center Moriches
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Heller v. Doe; No. 92-351; 1993-06-24. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+**Case:** Lamb's Chapel v. Center Moriches; No. 91-2024; 1993-06-07. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
 
 #### A. MERITS COMPARATOR
 
-**Historical Outcome and Vote:** Reversed. Five Justices joined the Court’s opinion; support differed by issue among the remaining Justices.
+**Historical Outcome and Vote:** Reversed and remanded; all nine Justices agreed in the judgment.
 
-**Historical Opinion Structure:** Kennedy wrote for Rehnquist, White, Scalia, and Thomas. O’Connor concurred in the judgment in part and dissented in part, accepting family participation but rejecting the differential proof burdens. Souter dissented, joined by Blackmun and Stevens, with O’Connor joining Part II. Blackmun also filed a separate dissent.
+**Historical Opinion Structure:** White wrote for Rehnquist, Blackmun, Stevens, O’Connor, and Souter. Kennedy concurred in part and in the judgment. Scalia, joined by Thomas, concurred in the judgment.
 
-**Historical Holding:** The heightened-scrutiny request was not properly presented. The Court sustained the different procedures under rational-basis review and held that family participation did not violate procedural due process.
+**Historical Holding:** The religious-perspective exclusion was viewpoint discrimination. Allowing the proposed private after-hours use would not violate the Establishment Clause. The Court did not need to determine that the property was an unlimited public forum.
 
-**Historical Authority:** 509 U.S. 312 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** 508 U.S. 384 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/312/).
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/384/).
 
 ---
 
-## Buckley v. Fitzsimmons
+## Minnesota v. Dickerson
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** Buckley v. Fitzsimmons; No. 91-7849; 1993-06-24. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+**Case:** Minnesota v. Dickerson; No. 91-2019; 1993-06-07. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
 
 #### A. MERITS COMPARATOR
 
-**Historical Outcome and Vote:** Reversed and remanded. The press-conference holding was unanimous; the investigative-fabrication holding divided the Court 5–4.
+**Historical Outcome and Vote:** Affirmed, 6–3 on disposition; the governing recognition principle attracted broader agreement.
 
-**Historical Opinion Structure:** Stevens wrote Parts I, II, III, and IV-B for a unanimous Court. Blackmun, O’Connor, Scalia, and Thomas joined Parts IV-A and V. Scalia concurred separately. Kennedy, joined by Rehnquist, White, and Souter, concurred in part and dissented in part.
+**Historical Opinion Structure:** White’s Parts I and II were unanimous. Stevens, O’Connor, Scalia, Kennedy, and Souter joined Parts III and IV. Scalia concurred separately. Rehnquist, joined by Blackmun and Thomas, concurred in part and dissented in part, favoring a remand on application.
 
-**Historical Holding:** Absolute immunity did not protect the alleged preliminary investigative fabrication or the press statements. The Court retained the function-specific protection for prosecutorial advocacy and did not decide final liability.
+**Historical Holding:** A lawful patdown may reveal immediately apparent contraband, but continued manipulation after the officer determines an object is not a weapon exceeds Terry. Suppression was sustained on that ground.
 
-**Historical Authority:** 509 U.S. 259 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** 508 U.S. 366 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/259/).
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/366/).
 
 ---
 
-## United States v. Edge Broadcasting Co.
+## Gilmore v. Taylor
+
+**Listed docket:** 91-1738. **Event:** 1993-06-07.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** United States v. Edge Broadcasting Co.; No. 92-486; 1993-06-25. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-06-07.  
+**Historical Citation:** 508 U.S. 333; listed docket 91-1738.
 
-**Historical Outcome and Vote:** Reversed, 7–2, with different majorities for portions of the analysis.
+**Historical Outcome and Vote:** Reversed, 7–2.
 
-**Historical Opinion Structure:** White’s Parts I, II, and IV were joined by Rehnquist, O’Connor, Scalia, Kennedy, Souter, and Thomas. Parts III-A and III-B were joined by Rehnquist, O’Connor, Scalia, and Thomas; Part III-C by Rehnquist, Kennedy, Souter, and Thomas; Part III-D only by Rehnquist, Scalia, and Thomas. Souter, joined by Kennedy, concurred in part. Stevens dissented, joined by Blackmun.
+**Historical Opinion Structure:** Rehnquist wrote the principal opinion. O’Connor, joined by White, concurred in the judgment. Souter did not join footnote 3. Blackmun dissented, joined by Stevens.
 
-**Historical Holding:** The advertising restriction survived Central Hudson as applied. The Court regarded the licensing-State scheme as reasonably accommodating lottery and nonlottery policies and the reduction in North Carolina exposure as meaningful. The broadest discussion of as-applied review did not command the same support as the judgment.
+**Historical Holding or Limited Procedural Effect:** The instructional rule was new and outside Teague’s exceptions; collateral relief was unavailable.
 
-**Historical Authority:** 509 U.S. 418 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/418/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/333/).
 
 ---
 
-## TXO Production Corp. v. Alliance Resources
+## Good Samaritan Hospital v. Shalala
+
+**Listed docket:** 91-2079. **Event:** 1993-06-07.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** TXO Production Corp. v. Alliance Resources; No. 92-479; 1993-06-25. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
 
-#### A. MERITS COMPARATOR
+**Historical Event Date:** 1993-06-07.  
+**Historical Citation:** 508 U.S. 402; listed docket 91-2079.
 
-**Historical Outcome and Vote:** Affirmed, 6–3 in the judgment, without a single majority rationale on substantive punitive-damages review.
+**Historical Outcome and Vote:** Affirmed, 6–3.
 
-**Historical Opinion Structure:** Stevens announced the judgment, joined by Rehnquist and Blackmun, with Kennedy joining Parts I and IV and writing separately. Scalia, joined by Thomas, concurred in the judgment on procedural grounds. O’Connor dissented, joined by White and Souter.
+**Historical Opinion Structure:** White wrote for Rehnquist, Blackmun, O’Connor, Kennedy, and Thomas. Souter dissented, joined by Stevens and Scalia.
 
-**Historical Holding:** The plurality sustained the amount with attention to potential harm and deliberate misconduct; Kennedy emphasized the absence of unconstitutional arbitrariness on the whole record. Scalia and Thomas rejected substantive review but accepted procedural review. The dissent challenged the award’s size, guidance, and review. The result did not establish a fixed permissible ratio.
+**Historical Holding or Limited Procedural Effect:** The corrective-adjustment clause did not compel individualized reimbursement above the regulatory limits, and the Secretary’s interpretation received deference.
 
-**Historical Authority:** 509 U.S. 443 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/443/).
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/402/).
 
 ---
 
-## St. Mary's Honor Center v. Hicks
+## Antoine v. Byers & Anderson, Inc.
+
+**Listed docket:** 91-7604. **Event:** 1993-06-07.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Case:** St. Mary's Honor Center v. Hicks; No. 92-602; 1993-06-25. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-06-07.  
+**Historical Citation:** 508 U.S. 429; listed docket 91-7604.
+
+**Historical Outcome and Vote:** Reversed and remanded unanimously.
+
+**Historical Opinion Structure:** Stevens wrote for all nine Justices.
+
+**Historical Holding or Limited Procedural Effect:** Court reporters did not have absolute judicial immunity for the ministerial conduct at issue.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/429/).
+
+---
+
+## United States National Bank of Oregon v. Independent Insurance Agents of America, Inc.
+
+**Listed docket:** 92-484. **Event:** 1993-06-07.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-06-07.  
+**Historical Citation:** 508 U.S. 439; listed docket 92-484.
+
+**Historical Outcome and Vote:** Reversed and remanded unanimously.
+
+**Historical Opinion Structure:** Souter wrote for all nine Justices. The historical proceeding included a companion docket, which is not separately added to this inventory.
+
+**Historical Holding or Limited Procedural Effect:** The insurance-agency provision remained in force; the repeal inference rested on a punctuation error exposed by the statutory structure.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/439/).
+
+---
+
+## Rake v. Wade
+
+**Listed docket:** 92-621. **Event:** 1993-06-07.
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS OR ORIGINAL-ACTION COMPARATOR
+
+**Historical Event Date:** 1993-06-07.  
+**Historical Citation:** 508 U.S. 464; listed docket 92-621.
+
+**Historical Outcome and Vote:** Affirmed unanimously.
+
+**Historical Opinion Structure:** Thomas wrote for all nine Justices.
+
+**Historical Holding or Limited Procedural Effect:** The applicable statutes required interest and present-value treatment on the oversecured arrearage claims.
+
+**Historical Authority:** This is the historical Supreme Court disposition, not simulated precedent and not an input establishing another Justice’s provisional commitment. A summary order, a single-Justice opinion, a plurality, a concurrence, and an opinion of the Court retain their distinct authority. No unreported individual vote or unstated reason is supplied.
+
+**Historical Sources:**
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/508/464/).
+
+---
+
+## Church of Lukumi Babalu Aye v. Hialeah
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+**Case:** Church of Lukumi Babalu Aye v. Hialeah; No. 91-948; 1993-06-11. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
 
 #### A. MERITS COMPARATOR
 
-**Historical Outcome and Vote:** Reversed and remanded, 5–4.
+**Historical Outcome and Vote:** Reversed and remanded; unanimous judgment with materially divided reasoning.
 
-**Historical Opinion Structure:** Scalia wrote for Rehnquist, O’Connor, Kennedy, and Thomas. Souter dissented, joined by White, Blackmun, and Stevens.
+**Historical Opinion Structure:** Kennedy’s Parts I, III, and IV were joined by Rehnquist, White, Stevens, Scalia, Souter, and Thomas. Part II-B had those joins except Souter. Parts II-A-1 and II-A-3 were joined by Rehnquist, Stevens, Scalia, and Thomas; only Stevens joined II-A-2. Scalia, joined by Rehnquist, concurred in part and in the judgment; Souter did so separately. Blackmun, joined by O’Connor, concurred in the judgment.
 
-**Historical Holding:** Disbelief of the employer’s reasons permits but does not compel a finding of intentional discrimination. The plaintiff retains ultimate persuasion, and the district court’s factual conclusion remained subject to clear-error review on remand.
+**Historical Holding:** The ordinances lacked neutrality and general applicability and failed strict scrutiny. Not every discussion of motive, general applicability, or Smith commanded the same majority.
 
-**Historical Authority:** 509 U.S. 502 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+**Historical Authority:** 508 U.S. 520 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
 
-**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/509/502/).
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/520/).
+
+---
+
+## Wisconsin v. Mitchell
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+**Case:** Wisconsin v. Mitchell; No. 92-515; 1993-06-11. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+
+#### A. MERITS COMPARATOR
+
+**Historical Outcome and Vote:** Reversed and remanded, 9–0.
+
+**Historical Opinion Structure:** Rehnquist wrote for a unanimous Court.
+
+**Historical Holding:** The statute enhanced punishment for intentionally discriminatory criminal conduct, not protected expression. R.A.V. did not invalidate that distinction, and the asserted chilling through evidentiary use of speech did not establish substantial overbreadth.
+
+**Historical Authority:** 508 U.S. 476 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/476/).
+
+---
+
+## Department of Treasury v. Fabe
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+**Case:** Department of Treasury v. Fabe; No. 91-1513; 1993-06-11. This supplement is introduced only after provisional non-Stone modeling is frozen. It is not simulated precedent and supplies no Stone position.
+
+#### A. MERITS COMPARATOR
+
+**Historical Outcome and Vote:** Affirmed in part, reversed in part, and remanded, 5–4.
+
+**Historical Opinion Structure:** Blackmun wrote for Rehnquist, White, Stevens, and O’Connor. Kennedy dissented, joined by Scalia, Souter, and Thomas.
+
+**Historical Holding:** The first clause of § 1012(b) protected Ohio’s policyholder priorities and necessary administration expenses, but not its preferences for other creditors. The federal priority statute was displaced only to that extent.
+
+**Historical Authority:** 508 U.S. 491 (1993); a historical Supreme Court merits decision. Its authority in the historical legal system does not make it an effective decision of this reboot.
+
+**Historical Sources:** [Published opinions, disposition, and opinion-joinder statement](https://supreme.justia.com/cases/federal/us/508/491/).

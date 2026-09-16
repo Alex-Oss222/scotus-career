@@ -1,5 +1,530 @@
 # OT_1992CHUNK4_NEUTRAL
 
+## Leatherman v. Tarrant County
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Leatherman v. Tarrant County  
+**Citation or Docket:** 507 U.S. 163; No. 91-1657.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS, pre-decision preparation; certiorari. The listed historical merits proceeding is retained as the reboot's working procedural premise, not as a newly rendered simulated grant.  
+**Simulated Event Date:** 1993-03-03, the historical decision date used as the simulation calendar date.  
+**Question Presented / Granted Scope:** Whether federal courts may require heightened factual particularity beyond Rule 8 in § 1983 complaints alleging municipal liability for inadequate police training.  
+**Court and Judgment Under Review:** Fifth Circuit, 954 F.2d 1054 (1992), affirming dismissal under its heightened municipal civil-rights pleading standard.  
+**Relief Requested:** Homeowners seek reversal of the pleading dismissals; municipal defendants seek affirmance.
+
+**Material Record:** The joined litigation concerns police searches of homes and alleged constitutional injuries. Plaintiffs attributed those injuries to municipal failures to train. The district court dismissed the complaints for failing to plead detailed supporting facts under a special circuit rule rather than adjudicating whether plaintiffs could prove a municipal policy, deliberate indifference, causation, or the underlying Fourth Amendment violations.
+
+**Threshold, Preservation, and Vehicle Matters:** The pleaded facts are tested in the dismissal posture, not treated as proved. Municipal and official-capacity claims must be distinguished from individual officers’ qualified-immunity defenses. The case does not decide a heightened-pleading rule for individual defendants, nor whether these plaintiffs ultimately satisfy Monell and Canton.
+
+**Relevant Dates:** Argument: January 12, 1993.  
+**Companion or Related Matters:** No separately listed companion requires a separate disposition in this module.  
+**Participation Matter:** Chief Justice Stone replaces Rehnquist under the supplied reboot. The other eight seats are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No case-specific simulated recusal or vacancy is supplied. No additional participation issue identified. [R-507_163](#507_163-record)
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-03 event. This authoring snapshot uses the user-authorized pre-OT1992 historical baseline and independently date-eligible law. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, `STANDING_STATE.md`, or completed reboot decision was available in the supplied audit materials. That describes the materials reviewed, not a finding that the live simulation has entered no decisions. Incorporate any materially relevant actual simulated decision effective before this event, including a demonstrably earlier same-day decision; a shared date alone establishes no priority. Historical OT1992 outcomes, including unlisted outcomes, do not automatically become simulated law.
+
+**Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
+
+**Earlier Same-Term Decisions / Unresolved Dependencies:** Soldal is earlier on the calendar but does not supply a new pleading rule merely because it involves § 1983 and the Fourth Amendment. Incorporate only an actual effective holding relevant to a pleaded injury; none is supplied. Any subsequently supplied earlier effective decision must be incorporated before this matter is run; a proposed Stone supplement is not that decision.
+
+##### Issue 1: Rules-based pleading and municipal liability
+
+**Other Governing Law and Material Authority:** Federal Rules of Civil Procedure 8(a), 9(b), and 12(b)(6), as then understood under Conley v. Gibson, 355 U.S. 41 (1957). Monell v. Department of Social Services, 436 U.S. 658 (1978), rejects respondeat superior and requires a municipal connection. City of Canton v. Harris, 489 U.S. 378 (1989), defines failure-to-train liability. Owen v. City of Independence, 445 U.S. 622 (1980), rejects municipal qualified immunity.
+
+**Open Point:** Whether litigation burdens permit a judicial exception to the Federal Rules’ stated pleading categories.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+**Plaintiffs:** Rule 9 specifies claims requiring particularity and does not include municipal § 1983 suits. The rulemakers, not individual circuits, may alter Rule 8.
+
+**Municipal defendants and below:** Early factual specificity protects public bodies from expensive discovery and distinguishes genuine policy claims from attempts to impose respondeat superior liability.
+
+**Limits:** A valid pleading standard does not dilute substantive municipal-liability elements. Discovery management and summary judgment remain available without inventing immunity or a special pleading rule.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Reverse and remand for ordinary Rules-based pleading review, leaving substantive sufficiency and later proof open. Affirm only on an independently preserved, legally sufficient ground not dependent on the unauthorized heightened requirement. No record basis permits a judgment awarding damages.
+
+**Source and Scope Qualification:** The published judicial record supplies the material account; this is not a certification that an independently supplied petition or joint appendix was reviewed. The question above states the reported scope rather than claiming verbatim petition transcription. Allegations, assumptions on review, findings, and unresolved matters retain the status expressly identified here. No post-event enactment or decision supplies entering law.
+
+#### E. SOURCES
+
+<a id="507_163-record"></a>
+**R-507_163:** [Leatherman v. Tarrant County, 507 U.S. 163, published opinion and record account](https://supreme.justia.com/cases/federal/us/507/163/). Neutral use is confined to identity, dates, proceedings, record, litigants' contentions, and the texts of independently eligible authorities; the same-matter Supreme Court outcome and reasoning are quarantined in Section III. The authorities identified in B supply the baseline, not the later disposition of this matter.
+
+---
+
+## Reves v. Ernst & Young
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Reves v. Ernst & Young  
+**Citation or Docket:** 507 U.S. 170; No. 91-886.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS, pre-decision preparation; certiorari. The listed historical merits proceeding is retained as the reboot's working procedural premise, not as a newly rendered simulated grant.  
+**Simulated Event Date:** 1993-03-03, the historical decision date used as the simulation calendar date.  
+**Question Presented / Granted Scope:** Whether § 1962(c) requires participation in the operation or management of an enterprise and whether the accounting firm’s role in preparing the cooperative’s financial statements supports summary judgment under that standard.  
+**Court and Judgment Under Review:** Eighth Circuit, 937 F.2d 1310 (1991), affirming summary judgment for the accounting firm on the civil RICO claim.  
+**Relief Requested:** Noteholders seek reversal of the § 1962(c) judgment; the accounting firm seeks affirmance.
+
+**Material Record:** A farming cooperative sold notes and carried a gasohol plant as a major asset. Arthur Young, the predecessor relevant to the respondent’s liability, prepared audit reports and financial statements using a valuation that concealed the cooperative’s insolvency. The parties dispute the legal and factual characterization of that work: reliance on management’s records and failure to advise about fair value, or the accountants’ own assumption of managerial choices about the acquisition date and asset value. The summary-judgment materials include competing accounts of who made those choices. The cooperative later entered bankruptcy. Allegations of a racketeering pattern, culpability, and causation are not adjudicated true by the appeal.
+
+**Threshold, Preservation, and Vehicle Matters:** Summary judgment requires favorable treatment of the nonmovants’ supported evidence and reasonable inferences, not acceptance of their unsupported labels. Statutory coverage under § 1962(c) is distinct from proving predicate acts, pattern, injury, and causation. The earlier securities-law litigation in the same business collapse does not settle the RICO question.
+
+**Relevant Dates:** Argument: October 13, 1992. The relevant audit work preceded the cooperative’s bankruptcy.  
+**Companion or Related Matters:** No separately listed companion requires a separate disposition in this module.  
+**Participation Matter:** Chief Justice Stone replaces Rehnquist under the supplied reboot. The other eight seats are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No case-specific simulated recusal or vacancy is supplied. No additional participation issue identified. [R-507_170](#507_170-record)
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-03 event. This authoring snapshot uses the user-authorized pre-OT1992 historical baseline and independently date-eligible law. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, `STANDING_STATE.md`, or completed reboot decision was available in the supplied audit materials. That describes the materials reviewed, not a finding that the live simulation has entered no decisions. Incorporate any materially relevant actual simulated decision effective before this event, including a demonstrably earlier same-day decision; a shared date alone establishes no priority. Historical OT1992 outcomes, including unlisted outcomes, do not automatically become simulated law.
+
+**Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
+
+**Earlier Same-Term Decisions / Unresolved Dependencies:** No case-specific earlier same-term dependency identified on the supplied record. Any subsequently supplied earlier effective decision must be incorporated before this matter is run; a proposed Stone supplement is not that decision.
+
+##### Issue 1: Participation in enterprise affairs
+
+**Other Governing Law and Material Authority:** 18 U.S.C. §§ 1962(c) and 1964(c); RICO’s enacted liberal-construction clause; Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479 (1985); United States v. Turkette, 452 U.S. 576 (1981). The statute reaches persons employed by or associated with an enterprise who conduct or participate directly or indirectly in its affairs through a racketeering pattern. Rule 56, Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986), and Celotex Corp. v. Catrett, 477 U.S. 317 (1986), govern the record posture.
+
+**Open Point:** Whether some role in directing enterprise affairs is required, whether outsiders can perform that role, and whether the record presents a genuine dispute about the accountants’ actual function.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+**Firm and below:** Performing an audit and giving deficient advice does not amount to directing the cooperative. The operation-or-management requirement protects the distinction between providing services and conducting an enterprise’s affairs.
+
+**Noteholders:** The language includes indirect participation and should not create a professional-services exemption. Their evidence permits a finding that the firm selected the valuation and acquisition assumptions itself, a managerial function rather than independent checking.
+
+**United States as amicus:** Urges reversal and a broader understanding of statutory participation.
+
+**Limits:** Association, professional status, and importance to the enterprise neither establish nor defeat liability. The relevant act, culpability, and injury must satisfy their separate statutory elements.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Adopt an operation-or-management interpretation and affirm if no reasonable factfinder could find such participation; adopt it and reverse if the nonmovants’ evidence supports an actual managerial role; or reject the requirement under the statutory language. A reversal for a fact dispute permits further proceedings, not automatic RICO damages.
+
+**Source and Scope Qualification:** The published judicial record supplies the material account; this is not a certification that an independently supplied petition or joint appendix was reviewed. The question above states the reported scope rather than claiming verbatim petition transcription. Allegations, assumptions on review, findings, and unresolved matters retain the status expressly identified here. No post-event enactment or decision supplies entering law.
+
+#### E. SOURCES
+
+<a id="507_170-record"></a>
+**R-507_170:** [Reves v. Ernst & Young, 507 U.S. 170, published opinion and record account](https://supreme.justia.com/cases/federal/us/507/170/). Neutral use is confined to identity, dates, proceedings, record, litigants' contentions, and the texts of independently eligible authorities; the same-matter Supreme Court outcome and reasoning are quarantined in Section III. The authorities identified in B supply the baseline, not the later disposition of this matter.
+
+---
+
+## Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor)
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor)  
+**Citation or Docket:** 507 U.S. 218; Nos. 91-261 and 91-274.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS, pre-decision preparation; certiorari. The listed historical merits proceeding is retained as the reboot's working procedural premise, not as a newly rendered simulated grant.  
+**Simulated Event Date:** 1993-03-08, the historical decision date used as the simulation calendar date.  
+**Question Presented / Granted Scope:** Whether NLRA preemption prohibits a state authority, acting as owner and purchaser on a particular construction project, from requiring successful bidders to adhere to a project labor agreement.  
+**Court and Judgment Under Review:** First Circuit en banc, 935 F.2d 345 (1991), reversing denial of preliminary injunctive relief and treating the bid condition as preempted.  
+**Relief Requested:** The labor council, project participants, and MWRA seek reversal of the preemption ruling; the contractors’ association seeks to prevent enforcement of the project labor condition.
+
+**Material Record:** MWRA owned and financed the Boston Harbor sewage-treatment construction project, set bid conditions, chose contractors, paid them, and supervised the project. Its construction manager negotiated a project labor agreement designed to secure labor stability. Bid Specification 13.1 required successful bidders to comply. Nonunion firms were not categorically prohibited from bidding; they had to accept the project’s terms. The requirement concerned this project rather than a statewide licensing or labor code.
+
+**Threshold, Preservation, and Vehicle Matters:** The matter is review of preliminary-injunction litigation on the NLRA preemption ground. The consolidated dockets belong to one listed matter, not two briefs. Other pleaded theories, including antitrust or state-law objections, are not resolved by deciding the labor-preemption issue. An NLRB General Counsel decision not to issue a complaint is not a binding merits adjudication of all legal questions.
+
+**Relevant Dates:** Argument: December 9, 1992. The cleanup obligation and contracting preceded the suit.  
+**Companion or Related Matters:** No separately listed companion requires a separate disposition in this module.  
+**Participation Matter:** Chief Justice Stone replaces Rehnquist under the supplied reboot. The other eight seats are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No case-specific simulated recusal or vacancy is supplied. No additional participation issue identified. [R-507_218](#507_218-record)
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-08 event. This authoring snapshot uses the user-authorized pre-OT1992 historical baseline and independently date-eligible law. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, `STANDING_STATE.md`, or completed reboot decision was available in the supplied audit materials. That describes the materials reviewed, not a finding that the live simulation has entered no decisions. Incorporate any materially relevant actual simulated decision effective before this event, including a demonstrably earlier same-day decision; a shared date alone establishes no priority. Historical OT1992 outcomes, including unlisted outcomes, do not automatically become simulated law.
+
+**Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
+
+**Earlier Same-Term Decisions / Unresolved Dependencies:** No case-specific earlier same-term dependency identified on the supplied record. Any subsequently supplied earlier effective decision must be incorporated before this matter is run; a proposed Stone supplement is not that decision.
+
+##### Issue 1: Regulation versus proprietary purchasing
+
+**Other Governing Law and Material Authority:** NLRA §§ 8(e) and 8(f) accommodate specified construction-industry agreements. San Diego Building Trades Council v. Garmon, 359 U.S. 236 (1959), and Machinists v. Wisconsin Employment Relations Commission, 427 U.S. 132 (1976), constrain state regulation of labor relations. Wisconsin Department of Industry v. Gould Inc., 475 U.S. 282 (1986), rejects use of procurement as a disguised regulatory sanction.
+
+**Open Point:** Whether the government’s actual project-specific transaction is regulation within those preemption rules, rather than ordinary proprietary action of a kind available to a private owner.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+**MWRA and project parties:** The authority seeks the same stability a private owner could bargain for on a complex project. It uses contractual terms within a purchase it owns and finances, not sanctions against unrelated market conduct. The United States as amicus urges reversal.
+
+**Association and below:** A public purchaser’s economic leverage can alter collective bargaining and restrict nonunion competition; calling the condition contractual should not defeat federal labor policy.
+
+**Limits:** Neither a procurement label nor government ownership is conclusive. Scope, connection to the purchase, and use of coercive sovereign powers matter. A condition reaching unrelated projects could present regulation rather than participation.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Reverse the preemption ruling if this is genuine proprietary conduct Congress did not displace. Affirm if the condition operates as a regulatory scheme forbidden by Garmon or Machinists. The judgment should leave independent unreviewed objections and necessary preliminary-injunction proceedings to the lower courts.
+
+**Source and Scope Qualification:** The published judicial record supplies the material account; this is not a certification that an independently supplied petition or joint appendix was reviewed. The question above states the reported scope rather than claiming verbatim petition transcription. Allegations, assumptions on review, findings, and unresolved matters retain the status expressly identified here. No post-event enactment or decision supplies entering law.
+
+#### E. SOURCES
+
+<a id="507_218-record"></a>
+**R-507_218:** [Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor), 507 U.S. 218, published opinion and record account](https://supreme.justia.com/cases/federal/us/507/218/). Neutral use is confined to identity, dates, proceedings, record, litigants' contentions, and the texts of independently eligible authorities; the same-matter Supreme Court outcome and reasoning are quarantined in Section III. The authorities identified in B supply the baseline, not the later disposition of this matter.
+
+---
+
+## Smith v. United States, 507 U.S. 197
+
+**Listed docket:** 91-1538. **Event:** 1993-03-08.
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Smith v. United States, 507 U.S. 197  
+**Citation or Docket:** 91-1538; 507 U.S. 197.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS, pre-decision preparation of the supplied Supreme Court review matter; no new simulated grant is entered.  
+**Simulated Event Date:** 1993-03-08, the supplied historical event date used as the planned simulation calendar, not an already entered simulated disposition.  
+**Question Presented:** Whether the Federal Tort Claims Act’s foreign-country exception bars a negligence claim arising in Antarctica, although Antarctica is not under the sovereignty of a foreign nation.  
+**Question Granted / Authorized Scope:** The question above is a faithful issue reconstruction, not a purported verbatim quotation of the petition or grant. The supplied merits-calendar entry is a preparation premise, not a newly entered simulated order.
+
+**Court and Judgment Under Review:** Ninth Circuit, 953 F.2d 1116, dismissing the FTCA action under the foreign-country exception.  
+**Relief Requested:** The claimant seeks a federal tort remedy for the death; the United States invokes the limits of its waiver.
+
+**Material Record:** A worker died in Antarctica, and the claim alleges negligence by the United States. All alleged negligent acts occurred in Antarctica. His widow resided in Oregon and filed suit there, supplying residence-based venue under § 1402(b). Antarctica has no foreign sovereign whose law straightforwardly supplies the FTCA liability standard; the claimant proposed Oregon law through a conflicts analysis. This is the Antarctica tort case, No. 91-1538, not the separate firearm-use Smith case.
+
+**Threshold, Preservation, and Vehicle Matters:** A serious injury and alleged federal negligence do not themselves supply a sovereign-immunity waiver. Read § 2680(k) with the FTCA’s local-law and venue architecture. No other waiver or constitutional damages claim is resolved by the FTCA question.
+
+**Relevant Dates:** Argument: December 7, 1992. Event: March 8, 1993. [Record and authority sources](#sources-23).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific simulated nonparticipation is established by the supplied materials. White remains eligible through the June 28 decisions. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-08 event. The preceding calendar date is 1993-03-07; any separately established earlier same-day action must also be checked.
+
+**Controlling Simulated Law:** The inspected Holdings register contains no entered simulated holding and is expressly an OT1991 opening baseline, not a completed OT1992 state. No missing holding is manufactured. Pre-divergence authorities below supply the confirmed historical foundation; a post-divergence Supreme Court proposition requires an effective simulated decision or authorized admission before it may control. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
+
+**Current Reusable Doctrine:** The inspected Standards and Tests register likewise contains no entered simulated doctrine. There is no conflicting operative proposition between the two inspected registers. The issue-specific sources below are not converted into a new tracker. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
+
+**Earlier Same-Term Decisions and Unresolved Dependencies:** No specific earlier same-term dependency is established in the supplied record. This is not a finding that no relevant decision can exist: apply any effective simulated decision found at runtime before using the baseline below.
+
+**Institutional or Procedural Law:** Review remains confined to the identified proceeding, parties, preserved questions, and source-authorized relief. Original-action and application powers do not follow merely from a case’s inclusion on the calendar. The source-state limitation is a runtime revalidation condition, not an assertion that preparation constitutes adjudication.
+
+##### Issue 1: Territorial scope of the FTCA waiver
+
+**Other Governing Law and Material Authority:** Sections 1346(b) and 2674 tie FTCA liability to the relevant place-based law and private-person analogy; § 2680(k) excludes claims arising in a foreign country. Section 1402(b) permits venue at the claimant’s residence, which is satisfied here. United States v. Spelar, 338 U.S. 217 (1949), addresses the foreign-country exception; Richards v. United States, 369 U.S. 1 (1962), requires consideration of the whole law of the place where the negligent act occurred. United States v. Kubrick, 444 U.S. 111 (1979), concerns the waiver’s terms, and EEOC v. Arabian American Oil Co., 499 U.S. 244 (1991), supplies extraterritoriality background. The meaning of foreign country for Antarctica and the proposed borrowing of domestic law remain disputed; no rule automatically excludes every extraterritorial FTCA claim. [Richards](https://supreme.justia.com/cases/federal/us/369/1/); [record and authority sources](#sources-23).
+
+**Open Point:** Whether Antarctica falls outside the waiver notwithstanding the absence of another sovereign.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The claimant reads foreign country as territory governed by another sovereign and proposes Oregon law through choice-of-law principles. The Government reads the exception in the FTCA’s territorial setting and contests statutory authority for that domestic-law substitute. Residence-based venue exists in this case; possible venue gaps for other claimants are contextual arguments only. The dispute concerns the territorial exception and liability-law mechanism. [Record and authority sources](#sources-23).
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Apply the foreign-country exception to the Antarctic claim and dismiss; or read it more narrowly and decide whether the FTCA’s choice-of-law mechanism lawfully supplies a liability rule. Oregon venue is established and is not an independent defect in this claimant’s action.
+
+**Material Source and Record Limits:** The record account and arguments are reconstructed from the published judicial materials. This is not a representation that every petition, brief, transcript, or joint-appendix page was independently recovered. No unsupported factual finding is supplied. The issue descriptions identify the questions actually reconstructed, not an enlargement of the grant or an assumed finding on remand.
+
+#### E. SOURCES
+
+<a id="sources-23"></a>
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/507/197/).
+
+These links support identity, pre-decision facts, proceedings, arguments, and the authorities identified above. The same matter’s historical Supreme Court result, opinion support, and petition treatment are confined to Section III; those portions of a source do not enter this neutral packet as governing law. The cited earlier authorities supply only their date-eligible propositions, not later summaries of their development.
+
+---
+
+## Ortega-Rodriguez v. United States
+
+**Listed docket:** 91-7749. **Event:** 1993-03-08.
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Ortega-Rodriguez v. United States  
+**Citation or Docket:** 91-7749; 507 U.S. 234.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS, pre-decision preparation of the supplied Supreme Court review matter; no new simulated grant is entered.  
+**Simulated Event Date:** 1993-03-08, the supplied historical event date used as the planned simulation calendar, not an already entered simulated disposition.  
+**Question Presented:** Whether an appellate court may dismiss a criminal appeal automatically because the defendant fled before sentencing but was recaptured before invoking appellate review.  
+**Question Granted / Authorized Scope:** The question above is a faithful issue reconstruction, not a purported verbatim quotation of the petition or grant. The supplied merits-calendar entry is a preparation premise, not a newly entered simulated order.
+
+**Court and Judgment Under Review:** Eleventh Circuit dismissal under its fugitive-disentitlement practice.  
+**Relief Requested:** Ortega-Rodriguez seeks reinstatement of his appeal; the United States defends dismissal as a sanction for flight.
+
+**Material Record:** The defendant fled after conviction, was recaptured before sentencing and appeal, and was available to comply with an appellate judgment. The lower court applied a rule not requiring a connection between his earlier flight and the later appellate process. Any actual prejudice to retrial or disruption of review must be identified rather than assumed.
+
+**Threshold, Preservation, and Vehicle Matters:** Distinguish a current appellate fugitive from a defendant whose flight ended before appellate proceedings. The inherent sanction must have a connection to the proceeding it affects. Reinstating review neither acquits the defendant nor excuses escape.
+
+**Relevant Dates:** Argument: December 7, 1992. Event: March 8, 1993. [Record and authority sources](#sources-24).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific simulated nonparticipation is established by the supplied materials. White remains eligible through the June 28 decisions. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-08 event. The preceding calendar date is 1993-03-07; any separately established earlier same-day action must also be checked.
+
+**Controlling Simulated Law:** The inspected Holdings register contains no entered simulated holding and is expressly an OT1991 opening baseline, not a completed OT1992 state. No missing holding is manufactured. Pre-divergence authorities below supply the confirmed historical foundation; a post-divergence Supreme Court proposition requires an effective simulated decision or authorized admission before it may control. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
+
+**Current Reusable Doctrine:** The inspected Standards and Tests register likewise contains no entered simulated doctrine. There is no conflicting operative proposition between the two inspected registers. The issue-specific sources below are not converted into a new tracker. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
+
+**Earlier Same-Term Decisions and Unresolved Dependencies:** No specific earlier same-term dependency is established in the supplied record. This is not a finding that no relevant decision can exist: apply any effective simulated decision found at runtime before using the baseline below.
+
+**Institutional or Procedural Law:** Review remains confined to the identified proceeding, parties, preserved questions, and source-authorized relief. Original-action and application powers do not follow merely from a case’s inclusion on the calendar. The source-state limitation is a runtime revalidation condition, not an assertion that preparation constitutes adjudication.
+
+##### Issue 1: Appellate nexus for fugitive disentitlement
+
+**Other Governing Law and Material Authority:** Molinaro v. New Jersey, 396 U.S. 365 (1970), and Estelle v. Dorrough, 420 U.S. 534 (1975), address fugitivity affecting appellate review and enforcement. The doctrine concerns a court’s ability to administer its proceeding, not a general power to withhold every legal remedy from a person who once fled. Concrete appellate disruption, prejudice, and enforceability may justify a sanction; a wholly completed preappeal episode does not automatically establish them. Legal limits on inherent authority are reviewed independently. [Record and authority sources](#sources-24).
+
+**Open Point:** Whether the earlier flight has a sufficient connection to the appeal to warrant the particular sanction.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The appellate court relied on deterrence and respect for the judicial process. The defendant argues that enforceability and appellate control are not threatened after recapture. The Government emphasizes the costs and possible retrial prejudice caused by flight. Such concrete consequences can matter, but a categorical rule cannot simply presume them in every case. [Record and authority sources](#sources-24).
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Require a demonstrated connection to the appellate process, remanding for actual prejudice or disruption; sustain a justified sanction on that basis; or reinstate the appeal if no such connection exists. Separate lawful punishment for flight remains available.
+
+**Material Source and Record Limits:** The record account and arguments are reconstructed from the published judicial materials. This is not a representation that every petition, brief, transcript, or joint-appendix page was independently recovered. No unsupported factual finding is supplied. The issue descriptions identify the questions actually reconstructed, not an enlargement of the grant or an assumed finding on remand.
+
+#### E. SOURCES
+
+<a id="sources-24"></a>
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/507/234/).
+
+These links support identity, pre-decision facts, proceedings, arguments, and the authorities identified above. The same matter’s historical Supreme Court result, opinion support, and petition treatment are confined to Section III; those portions of a source do not enter this neutral packet as governing law. The cited earlier authorities supply only their date-eligible propositions, not later summaries of their development.
+
+---
+
+## Reiter v. Cooper
+
+**Listed docket:** 91-1496. **Event:** 1993-03-08.
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Reiter v. Cooper  
+**Citation or Docket:** 91-1496; 507 U.S. 258.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS, pre-decision preparation of the supplied Supreme Court review matter; no new simulated grant is entered.  
+**Simulated Event Date:** 1993-03-08, the supplied historical event date used as the planned simulation calendar, not an already entered simulated disposition.  
+**Question Presented:** How a shipper may assert a statutory unreasonable-rate claim against a carrier’s undercharge demand, and how recoupment, primary jurisdiction, and separate judgment operate in that litigation.  
+**Question Granted / Authorized Scope:** The question above is a faithful issue reconstruction, not a purported verbatim quotation of the petition or grant. The supplied merits-calendar entry is a preparation premise, not a newly entered simulated order.
+
+**Court and Judgment Under Review:** Fourth Circuit, 949 F.2d 107, requiring treatment that prevented contemporaneous adjudication of the shippers’ unreasonable-rate claims against the undercharge demand.  
+**Relief Requested:** The shippers seek consideration of their unreasonable-rate claims without first paying the disputed charges; the carrier’s representative seeks collection of the filed rate.
+
+**Material Record:** A carrier in bankruptcy sought the difference between negotiated charges and filed tariffs. Shippers asserted that the filed rates were unreasonable. Carrier insolvency made the timing of payment and potential repayment significant. No final administrative finding that these particular rates were unreasonable is supplied by the threshold dispute.
+
+**Threshold, Preservation, and Vehicle Matters:** The filed-rate doctrine and a statutory unreasonable-rate claim are separate. Calling a claim a defense does not destroy an otherwise valid counterclaim. Primary jurisdiction allocates initial rate determination to the ICC without eliminating the court’s jurisdiction. A recoupment defense and an independent damages recovery may have different limitation consequences.
+
+**Relevant Dates:** Argument: December 1, 1992. Event: March 8, 1993. [Record and authority sources](#sources-25).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific simulated nonparticipation is established by the supplied materials. White remains eligible through the June 28 decisions. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-08 event. The preceding calendar date is 1993-03-07; any separately established earlier same-day action must also be checked.
+
+**Controlling Simulated Law:** The inspected Holdings register contains no entered simulated holding and is expressly an OT1991 opening baseline, not a completed OT1992 state. No missing holding is manufactured. Pre-divergence authorities below supply the confirmed historical foundation; a post-divergence Supreme Court proposition requires an effective simulated decision or authorized admission before it may control. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
+
+**Current Reusable Doctrine:** The inspected Standards and Tests register likewise contains no entered simulated doctrine. There is no conflicting operative proposition between the two inspected registers. The issue-specific sources below are not converted into a new tracker. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
+
+**Earlier Same-Term Decisions and Unresolved Dependencies:** No specific earlier same-term dependency is established in the supplied record. This is not a finding that no relevant decision can exist: apply any effective simulated decision found at runtime before using the baseline below.
+
+**Institutional or Procedural Law:** Review remains confined to the identified proceeding, parties, preserved questions, and source-authorized relief. Original-action and application powers do not follow merely from a case’s inclusion on the calendar. The source-state limitation is a runtime revalidation condition, not an assertion that preparation constitutes adjudication.
+
+##### Issue 1: Claim classification, accrual, and recoupment
+
+**Other Governing Law and Material Authority:** 49 U.S.C. § 11705(b)(3), in the then-effective scheme, authorizes damages for unreasonable rates. Maislin Industries v. Primary Steel, 497 U.S. 116 (1990), preserves the filed-rate doctrine without eliminating that remedy. Rule 8(c) permits treatment according to substance when a counterclaim is mislabeled a defense. The statutory claim accrues from the relevant transportation, not only after payment of a later undercharge judgment; recoupment arising from the same transaction retains its distinct defensive role. Bull v. United States, 295 U.S. 247 (1935), supplies the traditional recoupment distinction. [Record and authority sources](#sources-25).
+
+**Open Point:** Whether the shippers may assert their statutory rate claim now rather than pay first.
+
+##### Issue 2: Primary jurisdiction and judgment management
+
+**Other Governing Law and Material Authority:** The ICC’s primary jurisdiction over rate reasonableness calls for appropriate referral or a stay while retaining judicial authority over the action. United States v. Western Pacific Railroad, 352 U.S. 59 (1956), explains this allocation. Rule 54(b) permits a separate final judgment only on the prescribed determination that there is no just reason for delay; counterclaim relationship and practical prejudice, including insolvency, matter to that discretion. [Record and authority sources](#sources-25).
+
+**Open Point:** Whether an undercharge judgment should issue separately before resolution of the related rate claim.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The carrier relies on the obligation to pay filed rates and argues for collection before later administrative relief. Shippers invoke § 11705’s unreasonable-rate remedy and warn that insolvency may make later recovery worthless. The lower court’s insistence on separation must be tested against Rule 8 and the statutory claim. Shippers still must establish unreasonableness; negotiated prices alone do not prove it. [Record and authority sources](#sources-25).
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Recognize the counterclaim, stay or otherwise manage proceedings for the ICC’s rate determination, and evaluate any Rule 54(b) request separately; reject the claim on its actual elements if unsupported. Do not make a filed-rate obligation equivalent to immunity from an enacted counterclaim.
+
+**Material Source and Record Limits:** The record account and arguments are reconstructed from the published judicial materials. This is not a representation that every petition, brief, transcript, or joint-appendix page was independently recovered. No unsupported factual finding is supplied. The issue descriptions identify the questions actually reconstructed, not an enlargement of the grant or an assumed finding on remand.
+
+#### E. SOURCES
+
+<a id="sources-25"></a>
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/507/258/).
+
+These links support identity, pre-decision facts, proceedings, arguments, and the authorities identified above. The same matter’s historical Supreme Court result, opinion support, and petition treatment are confined to Section III; those portions of a source do not enter this neutral packet as governing law. The cited earlier authorities supply only their date-eligible propositions, not later summaries of their development.
+
+---
+
+## Delo v. Lashley
+
+**Listed docket:** 92-409. **Event:** 1993-03-08.
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Delo v. Lashley  
+**Citation or Docket:** 92-409; 507 U.S. 272.  
+**October Term:** 1992.  
+**Entry Stage and Event:** MERITS / POSSIBLE SUMMARY HABEAS REVIEW.  
+**Simulated Event Date:** 1993-03-08, the supplied historical event date used as the planned simulation calendar, not an already entered simulated disposition.  
+**Question Presented:** Whether capital-mitigation doctrine requires a no-significant-criminal-history instruction when no supporting evidence was presented, and whether an unpresented presumption-of-innocence theory supplies another ground.  
+**Question Granted / Authorized Scope:** The identified review question permits consideration of summary correction, but no simulated grant or summary judgment is entered by this preparation.
+
+**Court and Judgment Under Review:** Eighth Circuit, 957 F.2d 1495, granting relief based on refusal of the requested mitigating-circumstance instruction.  
+**Relief Requested:** The warden seeks reversal of that ground for habeas relief; Lashley seeks to retain relief and has separately alleged deficient failure to present supporting evidence.
+
+**Material Record:** The jury heard no evidence establishing the claimed absence of a significant prior criminal history, though Lashley’s youth was acknowledged. Counsel declined to proffer evidence after discussion of juvenile records; the trial judge made no ruling excluding them. The prosecution suggested acquaintances could testify, so defendant testimony was not the sole proposed source. Missouri required some support for the particular instruction. Information outside the jury record does not become evidence the jury heard, and counsel’s alleged failure to develop mitigation remains a distinct claim.
+
+**Threshold, Preservation, and Vehicle Matters:** The presumption-of-innocence theory was not presented through the lower federal courts and is not converted into a preserved basis merely by its appearance in later discussion. Do not confuse a production requirement for a mitigating instruction with the State’s burden to prove aggravation beyond a reasonable doubt.
+
+**Relevant Dates:** Event: March 8, 1993. No plenary argument is identified. [Record and authority sources](#sources-26).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific simulated nonparticipation is established by the supplied materials. White remains eligible through the June 28 decisions. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-08 event. The preceding calendar date is 1993-03-07; any separately established earlier same-day action must also be checked.
+
+**Controlling Simulated Law:** The inspected Holdings register contains no entered simulated holding and is expressly an OT1991 opening baseline, not a completed OT1992 state. No missing holding is manufactured. Pre-divergence authorities below supply the confirmed historical foundation; a post-divergence Supreme Court proposition requires an effective simulated decision or authorized admission before it may control. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
+
+**Current Reusable Doctrine:** The inspected Standards and Tests register likewise contains no entered simulated doctrine. There is no conflicting operative proposition between the two inspected registers. The issue-specific sources below are not converted into a new tracker. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
+
+**Earlier Same-Term Decisions and Unresolved Dependencies:** Any actual simulated Herrera or Graham decision must be checked only for its adopted propositions. Their prepared Stone positions do not control. The mitigation issue can be framed through pre-divergence Lockett, Eddings, Penry, Hopper, and Walton.
+
+**Institutional or Procedural Law:** Review remains confined to the identified proceeding, parties, preserved questions, and source-authorized relief. Original-action and application powers do not follow merely from a case’s inclusion on the calendar. The source-state limitation is a runtime revalidation condition, not an assertion that preparation constitutes adjudication.
+
+##### Issue 1: Evidence predicate for mitigation instructions
+
+**Other Governing Law and Material Authority:** Lockett v. Ohio, 438 U.S. 586 (1978), Eddings v. Oklahoma, 455 U.S. 104 (1982), and Penry v. Lynaugh, 492 U.S. 302 (1989), protect consideration and effect of relevant mitigating evidence. Hopper v. Evans, 456 U.S. 605 (1982), permits an evidentiary predicate for an instruction. Walton v. Arizona, 497 U.S. 639 (1990), allows a defendant’s mitigation burden without reducing the State’s aggravation burden. Missouri’s some-evidence requirement is a production threshold, not proof of every mitigating fact beyond reasonable doubt. [Record and authority sources](#sources-26).
+
+**Open Point:** Whether silence alone requires the particular no-history instruction.
+
+##### Issue 2: Unpresented innocence theory and unresolved counsel claim
+
+**Other Governing Law and Material Authority:** Ordinary preservation confines review to the questions properly presented. Kentucky v. Whorton, 441 U.S. 786 (1979), and Taylor v. Kentucky, 436 U.S. 478 (1978), address the need for innocence instructions in the circumstances of a guilt trial, not an automatic capital mitigation finding. Strickland supplies separate deficiency and prejudice requirements for counsel’s failure to develop evidence. [Record and authority sources](#sources-26).
+
+**Open Point:** Whether any independent preserved claim remains after the instruction ruling.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The Eighth Circuit treated the absence of prosecution evidence of criminal history as sufficient for the instruction. Lashley emphasizes the State’s access to records and capital mitigation. The warden answers that mitigation must have evidentiary support and that the defendant can offer it without necessarily testifying. The defense’s failure to present material may support a separate counsel claim, not an instruction unsupported by the actual trial record. [Record and authority sources](#sources-26).
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Reverse the unsupported-instruction ground while preserving unresolved claims; require an instruction if the actual record contains qualifying evidence; consider a genuinely preserved independent claim under its own elements. No final execution authorization follows merely from rejecting one habeas theory.
+
+**Material Source and Record Limits:** The record account and arguments are reconstructed from the published judicial materials. This is not a representation that every petition, brief, transcript, or joint-appendix page was independently recovered. No unsupported factual finding is supplied. The issue descriptions identify the questions actually reconstructed, not an enlargement of the grant or an assumed finding on remand.
+
+#### E. SOURCES
+
+<a id="sources-26"></a>
+
+- [Published judicial text and cited authorities, source 1](https://www.law.cornell.edu/supct/html/92-409.ZPC.html).
+
+These links support identity, pre-decision facts, proceedings, arguments, and the authorities identified above. The same matter’s historical Supreme Court result, opinion support, and petition treatment are confined to Section III; those portions of a source do not enter this neutral packet as governing law. The cited earlier authorities supply only their date-eligible propositions, not later summaries of their development.
+
+---
+
+## Demos v. Storrie
+
+**Listed docket:** 92-6846. **Event:** 1993-03-08.
+
+### SECTION I — NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case Name:** Demos v. Storrie  
+**Citation or Docket:** 92-6846; 507 U.S. 290.  
+**October Term:** 1992.  
+**Entry Stage and Event:** IFP APPLICATION AND POSSIBLE PROSPECTIVE FILING CONDITION.  
+**Simulated Event Date:** 1993-03-08, the supplied historical event date used as the planned simulation calendar, not an already entered simulated disposition.  
+**Question Presented:** Whether the particular repetitive civil petition warrants denial of IFP leave and whether the litigant’s history justifies barring future civil IFP certiorari filings.  
+**Question Granted / Authorized Scope:** The present filing application and any supported filing condition only. No vote on the underlying certiorari petition is supplied or inferred.
+
+**Court and Judgment Under Review:** The Ninth Circuit affirmed the denial of leave to file a § 1983 complaint under an existing prefiling order, 962 F.2d 13 (May 11, 1992). The challenge to imposition of that prefiling order had not been timely appealed and had already been treated as final; the panel applied law of the case. The present Supreme Court question concerns its own fee privilege and filing administration, without reopening those distinct merits and preservation questions. [Published Ninth Circuit disposition](https://law.justia.com/cases/federal/appellate-courts/F2/962/13/91800/).  
+**Relief Requested:** Demos seeks leave to proceed without prepayment. A prospective condition would be an additional Court-imposed order.
+
+**Material Record:** The reported history includes numerous unsuccessful filings, a prior restriction directed to extraordinary writs, and repeated later certiorari requests. The Court must distinguish the contents and status of those proceedings from any actual simulated filing order. No future petition’s merits exist in the current record.
+
+**Threshold, Preservation, and Vehicle Matters:** A past historical restriction is not automatically an operative simulated condition. Section 1915 and Rule 39.8 permit case-specific screening; a blanket future restriction has a different reach. Do not deny a constitutional claim on the mere ground that its proponent has filed often.
+
+**Relevant Dates:** Event: March 8, 1993. No plenary argument is identified. [Record and authority sources](#sources-27).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific simulated nonparticipation is established by the supplied materials. White remains eligible through the June 28 decisions. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
+
+**Procedural Category:** APPLICATION — motion for leave to proceed in forma pauperis (IFP). The filing privilege and any prospective restriction are the questions prepared here.
+
+**Presenting Circuit Justice and Full-Court Referral:** Justice Kennedy, Ninth Circuit assignment under the October 23, 1991 allotment. Under the supplied simulation rule, the listed application is presented to that Justice and referred to the full Court for majority decision by the participating Justices. This is a simulation routing instruction; the published historical filing motion was addressed by the Court and does not establish a separate historical single-Justice presentation. Presentation does not determine the presenter's vote.
+
+**Source of Authority and Applicable Application Standard:** 28 U.S.C. § 1915 and the event-date Supreme Court Rule 39 govern the fee request; Rule 39.8 permits a supported frivolousness or malice determination. The independently eligible abuse-control authorities in B govern the separate scope and justification of a prospective filing condition. This filing application seeks neither a stay nor an injunction, so likelihood-of-reversal and irreparable-harm stay criteria are not substituted for those requirements.
+
+**Timing, Harm, and Consequences:** The legally material timing concerns notice and a fair opportunity to comply with fee and form requirements. Granting IFP permits processing without prepayment; it does not grant certiorari or decide the underlying claim. Denying IFP leaves fee-paid filing available on the compliance terms the Court actually fixes; noncompliance may prevent processing. Neither choice stays, vacates, or affirms the judgment below. A prospective restriction requires its own supported scope and express Court order. No execution deadline, emergency harm, or historical compliance date is adopted as a simulated fact or order.
+
+**Court-Order Form and Writing Protocol:** After the Court actually decides, an appropriate conditional form is: “The motion for leave to proceed in forma pauperis presented to Justice Kennedy and by him referred to the Court is [granted/denied].” Any compliance terms or separately adopted filing restriction must be specified. This template selects no disposition. Ordinarily the Court issues an order without a merits opinion; a short per curiam, concurrence or statement, noted dissent, or another Engine-permitted writing requires an independent simulated decision to produce it. No plenary review follows from referral.
+
+**Application-posture Source:** [Published filing-motion disposition](https://tile.loc.gov/storage-services/service/ll/usrep/usrep507/usrep507290/usrep507290.pdf), used only for posture and historical identification at this stage.
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Immediately before the 1993-03-08 event. The preceding calendar date is 1993-03-07; any separately established earlier same-day action must also be checked.
+
+**Controlling Simulated Law:** The inspected Holdings register contains no entered simulated holding and is expressly an OT1991 opening baseline, not a completed OT1992 state. No missing holding is manufactured. Pre-divergence authorities below supply the confirmed historical foundation; a post-divergence Supreme Court proposition requires an effective simulated decision or authorized admission before it may control. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
+
+**Current Reusable Doctrine:** The inspected Standards and Tests register likewise contains no entered simulated doctrine. There is no conflicting operative proposition between the two inspected registers. The issue-specific sources below are not converted into a new tracker. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
+
+**Earlier Same-Term Decisions and Unresolved Dependencies:** Revalidate against any actual simulated Martin ruling and admitted prior Demos filing orders. A proposal in the Martin brief is not binding law. In re Demos, 500 U.S. 16 (1991), predates the repository’s divergence but its personal procedural operation must still be reconciled with the opening-state register’s absence of filing conditions.
+
+**Institutional or Procedural Law:** Review remains confined to the identified proceeding, parties, preserved questions, and source-authorized relief. Original-action and application powers do not follow merely from a case’s inclusion on the calendar. The source-state limitation is a runtime revalidation condition, not an assertion that preparation constitutes adjudication.
+
+##### Issue 1: Individual screening and prospective reach
+
+**Other Governing Law and Material Authority:** Section 1915 and Rule 39.8 authorize denial of the discretionary fee privilege for abusive filings. In re McDonald, 489 U.S. 180 (1989), In re Sindram, 498 U.S. 177 (1991), and In re Demos, 500 U.S. 16 (1991), establish and apply abuse-control authority in defined procedural settings. Their precise scope matters; a condition covering extraordinary writs is not by terminology alone a condition covering all civil certiorari requests. Adequate notice, demonstrated abuse, and the actual remaining access matter to a prospective restriction. [Record and authority sources](#sources-27).
+
+**Open Point:** Whether individualized rejection is inadequate to address the demonstrated pattern.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The institutional argument is that repeated abusive filings justify protection of finite judicial resources, with fee-paid access left open. Demos’s strongest position is that individualized screening can address abuse without declaring every future civil petition unworthy of the statutory privilege. Poverty does not itself establish abuse. [Record and authority sources](#sources-27).
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Deny current IFP leave on an adequately supported abuse basis; apply an already effective narrow filing condition; or adopt a new appropriately supported prospective restriction through an express order. Do not silently convert a historical restriction into a current simulated command.
+
+**Material Source and Record Limits:** The record account and arguments are reconstructed from the published judicial materials. This is not a representation that every petition, brief, transcript, or joint-appendix page was independently recovered. No unsupported factual finding is supplied. The issue descriptions identify the questions actually reconstructed, not an enlargement of the grant or an assumed finding on remand.
+
+#### E. SOURCES
+
+<a id="sources-27"></a>
+
+- [Published judicial text and cited authorities, source 1](https://caselaw.findlaw.com/court/us-supreme-court/507/290.html).
+
+These links support identity, pre-decision facts, proceedings, arguments, and the authorities identified above. The same matter’s historical Supreme Court result, opinion support, and petition treatment are confined to Section III; those portions of a source do not enter this neutral packet as governing law. The cited earlier authorities supply only their date-eligible propositions, not later summaries of their development.
+
+---
+
 ## Reno v. Flores
 
 ### SECTION I — NEUTRAL MODELING PACKET
@@ -15,7 +540,7 @@
 **Court and Judgment Under Review:** Ninth Circuit en banc, 942 F.2d 1352 (1991), affirming an injunction requiring release to other responsible adults and automatic immigration-judge hearings.  
 **Relief Requested:** The Government seeks reversal of the classwide injunction; the juvenile class seeks its continuation.
 
-**Material Record:** The class consists of minors arrested on suspicion of deportability. The 1988 regulation permits release in an order of preference to parents, legal guardians, and specified adult relatives, with an unusual-and-compelling-circumstances avenue for other custodians. Initial custody and deportability determinations may be reviewed by an immigration judge on request. The notice form states that review may be requested. A November 1987 agreement separately governs conditions, requiring prompt placement in licensed or equivalent juvenile facilities. This case is not a factual adjudication that every detention is brief, every notice understood, or every institution safe. The facial challenge proceeds against the regulation and the operative conditions agreement, not against an invented record of uniformly punitive confinement.
+**Material Record:** The class consists of minors arrested on suspicion of deportability. The 1988 regulation prefers release to parents, legal guardians, and specified adult relatives, includes a parental-designation avenue under stated conditions, and permits other custodians in unusual and compelling circumstances. Initial custody and deportability determinations may be reviewed by an immigration judge on request; the notice form states that review may be requested. A November 1987 agreement separately governs conditions and prompt placement in licensed or equivalent juvenile facilities. The record is not a finding that every detention is brief or every notice effective. The scope of a challenge to the whole regulation must be distinguished from a properly presented narrower challenge to a continued-detention barrier or ineffective access to review.
 
 **Threshold, Preservation, and Vehicle Matters:** The facial posture under United States v. Salerno is material. Identify the actual liberty interest in institutional confinement without assuming that minors have no liberty because they must be in someone’s custody. Equally, an interest in freedom from unnecessary confinement does not automatically establish a right to placement with any proposed unrelated adult. Individual inability to request review, excessive delay, abuse, and unlawful extended detention remain distinct questions. Statutory authority should be addressed before unnecessary constitutional expansion.
 
@@ -25,7 +550,7 @@
 
 #### B. LAW ENTERING THE CASE
 
-**Current Through:** 1993-03-22, subject to the following source boundary. The user adopts historical Supreme Court precedent entering OT1992. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, or `STANDING_STATE.md` is supplied, and no completed reboot decision is supplied. Pre-OT1992 precedent and independently effective enacted law supply the baseline below. Historical OT1992 outcomes, including unlisted same-term outcomes, are not automatically imported.
+**Current Through:** Immediately before the 1993-03-23 event. This authoring snapshot uses the user-authorized pre-OT1992 historical baseline and independently date-eligible law. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, `STANDING_STATE.md`, or completed reboot decision was available in the supplied audit materials. That describes the materials reviewed, not a finding that the live simulation has entered no decisions. Incorporate any materially relevant actual simulated decision effective before this event, including a demonstrably earlier same-day decision; a shared date alone establishes no priority. Historical OT1992 outcomes, including unlisted outcomes, do not automatically become simulated law.
 
 **Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
 
@@ -41,7 +566,7 @@
 
 **Other Governing Law and Material Authority:** The Fifth Amendment; Salerno, 481 U.S. 739; Schall v. Martin, 467 U.S. 253 (1984); Parham v. J.R., 442 U.S. 584 (1979); Youngberg v. Romeo, 457 U.S. 307 (1982); Mathews v. Eldridge, 424 U.S. 319 (1976); Foucha v. Louisiana, 504 U.S. 71 (1992). The protected interest, substantive basis for confinement, and adequacy of procedures are separate inquiries.
 
-**Open Point:** Whether the scheme is invalid across its facial reach, and whether review on request is constitutionally insufficient for the entire class on the supplied record.
+**Open Point:** Whether the entire regulation is facially invalid, whether a properly presented narrower mandatory-detention rule has lawful applications, and whether review on request provides effective access for these minors on the supplied record.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -89,7 +614,7 @@ Reverse the broad facial injunction if lawful applications exist and the scheme 
 
 #### B. LAW ENTERING THE CASE
 
-**Current Through:** 1993-03-22, subject to the following source boundary. The user adopts historical Supreme Court precedent entering OT1992. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, or `STANDING_STATE.md` is supplied, and no completed reboot decision is supplied. Pre-OT1992 precedent and independently effective enacted law supply the baseline below. Historical OT1992 outcomes, including unlisted same-term outcomes, are not automatically imported.
+**Current Through:** Immediately before the 1993-03-23 event. This authoring snapshot uses the user-authorized pre-OT1992 historical baseline and independently date-eligible law. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, `STANDING_STATE.md`, or completed reboot decision was available in the supplied audit materials. That describes the materials reviewed, not a finding that the live simulation has entered no decisions. Incorporate any materially relevant actual simulated decision effective before this event, including a demonstrably earlier same-day decision; a shared date alone establishes no priority. Historical OT1992 outcomes, including unlisted outcomes, do not automatically become simulated law.
 
 **Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
 
@@ -153,7 +678,7 @@ Reverse jurisdiction over the intentional torts if the action rests on sovereign
 
 #### B. LAW ENTERING THE CASE
 
-**Current Through:** 1993-03-23, subject to the following source boundary. The user adopts historical Supreme Court precedent entering OT1992. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, or `STANDING_STATE.md` is supplied, and no completed reboot decision is supplied. Pre-OT1992 precedent and independently effective enacted law supply the baseline below. Historical OT1992 outcomes, including unlisted same-term outcomes, are not automatically imported.
+**Current Through:** Immediately before the 1993-03-24 event. This authoring snapshot uses the user-authorized pre-OT1992 historical baseline and independently date-eligible law. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, `STANDING_STATE.md`, or completed reboot decision was available in the supplied audit materials. That describes the materials reviewed, not a finding that the live simulation has entered no decisions. Incorporate any materially relevant actual simulated decision effective before this event, including a demonstrably earlier same-day decision; a shared date alone establishes no priority. Historical OT1992 outcomes, including unlisted outcomes, do not automatically become simulated law.
 
 **Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
 
@@ -186,122 +711,65 @@ Affirm if the City fails the Central Hudson/Fox fit inquiry. Reverse if the clas
 
 ---
 
-## Arave v. Creech
+## Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership
+
+**Listed docket:** 91-1695. **Event:** 1993-03-24.
 
 ### SECTION I — NEUTRAL MODELING PACKET
 
 #### A. CASE, RECORD, AND POSTURE
 
-**Case Name:** Arave v. Creech  
-**Citation or Docket:** 507 U.S. 463; No. 91-1160.  
+**Case Name:** Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership  
+**Citation or Docket:** 91-1695; 507 U.S. 380.  
 **October Term:** 1992.  
-**Entry Stage and Event:** MERITS, pre-decision preparation; certiorari. The listed historical merits proceeding is retained as the reboot's working procedural premise, not as a newly rendered simulated grant.  
-**Simulated Event Date:** 1993-03-30, the historical decision date used as the simulation calendar date.  
-**Question Presented / Granted Scope:** Whether Idaho’s utter-disregard-for-human-life aggravating circumstance, as authoritatively narrowed in State v. Osborn, is facially sufficiently definite to channel capital sentencing discretion.  
-**Court and Judgment Under Review:** Ninth Circuit, 947 F.2d 873 (1991), granting habeas relief in part because the aggravator and its narrowing construction were unconstitutionally vague, and on two additional grounds.  
-**Relief Requested:** Idaho seeks reversal of the vagueness ruling; Creech seeks affirmance.
+**Entry Stage and Event:** MERITS, pre-decision preparation of the supplied Supreme Court review matter; no new simulated grant is entered.  
+**Simulated Event Date:** 1993-03-24, the supplied historical event date used as the planned simulation calendar, not an already entered simulated disposition.  
+**Question Presented:** Whether excusable neglect under Bankruptcy Rule 9006(b)(1) can include counsel’s inadvertence, and whether the late proofs of claim should be permitted on this record.  
+**Question Granted / Authorized Scope:** The question above is a faithful issue reconstruction, not a purported verbatim quotation of the petition or grant. The supplied merits-calendar entry is a preparation premise, not a newly entered simulated order.
 
-**Material Record:** Creech pleaded guilty to murdering a fellow inmate in 1981. The sentencing judge relied in part on the statutory utter-disregard aggravator. Idaho’s Osborn construction described the cold-blooded, pitiless slayer. The Ninth Circuit found that formulation insufficiently objective and noted tension between it and findings of violent rage. It separately ordered relief because new mitigation had been excluded at resentencing and because required findings on other aggravators were missing. Those independent grounds already require resentencing and are not eliminated by resolution of the limited question here.
+**Court and Judgment Under Review:** Sixth Circuit, 943 F.2d 673, allowing the late claims.  
+**Relief Requested:** The debtor seeks exclusion of the late claims; the creditors seek acceptance under the excusable-neglect provision.
 
-**Threshold, Preservation, and Vehicle Matters:** The review scope is facial vagueness of the authoritative construction, not every application of the aggravator or Creech’s entire death sentence. State interpretation is accepted as state law; its constitutional adequacy is independently reviewed. Under Lewis v. Jeffers, an as-applied sufficiency challenge is a distinct inquiry and was not resolved by the court below. The unreviewed resentencing grounds remain operative.
+**Material Record:** The proofs of claim were filed about twenty days after the bar date. Notice of that date was embedded in an unusual notice format. Counsel’s own conduct contributed to the delay. The record also bears on prejudice, disruption, and good faith. Attribution of counsel’s acts to clients is not the same as concluding that neglect is never excusable.
 
-**Relevant Dates:** Murder and plea: 1981. Argument: November 10, 1992.  
-**Companion or Related Matters:** No separately listed companion requires a separate disposition in this module.  
-**Participation Matter:** Chief Justice Stone replaces Rehnquist under the supplied reboot. The other eight seats are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No case-specific simulated recusal or vacancy is supplied. No additional participation issue identified. [R-507_463](#507_463-record)
+**Threshold, Preservation, and Vehicle Matters:** Rule 9006(b)(1) is not a general override of deadlines that other subdivisions make inextendable or subject to different conditions. The movant must establish a basis for enlargement. Distinguish the breadth of neglect from the contextual judgment whether it is excusable.
+
+**Relevant Dates:** Argument: November 30, 1992. Event: March 24, 1993. [Record and authority sources](#sources-28).
+
+**Participation Matter:** Chief Justice Alex-Lamar Stone-Zsela; White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats are occupied. No case-specific simulated nonparticipation is established by the supplied materials. White remains eligible through the June 28 decisions. [Supplied roster and allotment register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md); [institutional state and referral practice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDING_STATE.md).
 
 #### B. LAW ENTERING THE CASE
 
-**Current Through:** 1993-03-29, subject to the following source boundary. The user adopts historical Supreme Court precedent entering OT1992. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, or `STANDING_STATE.md` is supplied, and no completed reboot decision is supplied. Pre-OT1992 precedent and independently effective enacted law supply the baseline below. Historical OT1992 outcomes, including unlisted same-term outcomes, are not automatically imported.
+**Current Through:** Immediately before the 1993-03-24 event. The preceding calendar date is 1993-03-23; any separately established earlier same-day action must also be checked.
 
-**Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
+**Controlling Simulated Law:** The inspected Holdings register contains no entered simulated holding and is expressly an OT1991 opening baseline, not a completed OT1992 state. No missing holding is manufactured. Pre-divergence authorities below supply the confirmed historical foundation; a post-divergence Supreme Court proposition requires an effective simulated decision or authorized admission before it may control. [Holdings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md).
 
-**Earlier Same-Term Decisions / Unresolved Dependencies:** No case-specific earlier same-term dependency identified on the supplied record. Any subsequently supplied earlier effective decision must be incorporated before this matter is run; a proposed Stone supplement is not that decision.
+**Current Reusable Doctrine:** The inspected Standards and Tests register likewise contains no entered simulated doctrine. There is no conflicting operative proposition between the two inspected registers. The issue-specific sources below are not converted into a new tracker. [Standards and Tests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/STANDARDS_AND_TESTS.md).
 
-##### Issue 1: Capital aggravator definiteness
+**Earlier Same-Term Decisions and Unresolved Dependencies:** No specific earlier same-term dependency is established in the supplied record. This is not a finding that no relevant decision can exist: apply any effective simulated decision found at runtime before using the baseline below.
 
-**Other Governing Law and Material Authority:** Eighth and Fourteenth Amendments; Godfrey v. Georgia, 446 U.S. 420 (1980); Maynard v. Cartwright, 486 U.S. 356 (1988); Zant v. Stephens, 462 U.S. 862 (1983); Walton v. Arizona, 497 U.S. 639 (1990); Lewis v. Jeffers, 497 U.S. 764 (1990). A valid narrowing construction can cure vague statutory language if it genuinely guides and narrows the eligibility decision.
+**Institutional or Procedural Law:** Review remains confined to the identified proceeding, parties, preserved questions, and source-authorized relief. Original-action and application powers do not follow merely from a case’s inclusion on the calendar. The source-state limitation is a runtime revalidation condition, not an assertion that preparation constitutes adjudication.
 
-**Open Point:** Whether the Osborn formulation supplies a usable distinction rather than an evaluative epithet applicable to essentially any murderer.
+##### Issue 1: Meaning of neglect and equitable excusability
 
-#### C. DECISION-MATERIAL LITIGATION POSITIONS
+**Other Governing Law and Material Authority:** Bankruptcy Rule 9006(b)(1) permits enlargement for excusable neglect after a deadline, subject to subdivisions (b)(2) and (b)(3). The extent to which neglect includes lawyer inadvertence, and the proper structure of an equitable excusability inquiry, are disputed questions here. Prejudice, delay and its effect, reason and control, and good faith are relevant proposed considerations; their precise formulation is not an earlier Supreme Court holding supplied by this packet. Link v. Wabash Railroad, 370 U.S. 626 (1962), ordinarily attributes counsel’s conduct to the party. The applicant must establish an authorized basis for relief; legal interpretation and discretionary application retain their respective review standards. [Record and authority sources](#sources-28).
 
-**Idaho:** Lack of feeling or sympathy is a factual mental-state distinction. Judges can infer it from circumstances, and not every first-degree murderer kills without anger or other feeling. Walton permits authoritative narrowing constructions.
-
-**Creech and below:** Pitilessness and cold-bloodedness convey condemnation without a stable legal boundary. Treating violent rage as compatible with the same category illustrates the problem. The sentencer needs guidance, not a second adjective describing murder as reprehensible.
-
-**Limits:** An aggravator need not be mathematically precise, and state-of-mind findings are not inherently subjective in the constitutional sense. A court may not invent a new state-law definition to save the existing one.
-
-#### D. LAWFUL PATHS AND UNCERTAINTY
-
-Affirm the facial-invalidity ruling, leaving resentencing to proceed without the invalid aggravator. Reverse that ruling if the construction adequately narrows, while leaving the other resentencing grounds untouched. Do not decide the unreviewed Jeffers application question or reinstate the death sentence notwithstanding independent relief.
-
-**Source and Scope Qualification:** The published judicial record supplies the material account; this is not a certification that an independently supplied petition or joint appendix was reviewed. The question above states the reported scope rather than claiming verbatim petition transcription. Allegations, assumptions on review, findings, and unresolved matters retain the status expressly identified here. No post-event enactment or decision supplies entering law.
-
-#### E. SOURCES
-
-<a id="507_463-record"></a>
-**R-507_463:** [Arave v. Creech, 507 U.S. 463, published opinion and record account](https://supreme.justia.com/cases/federal/us/507/463/). Neutral use is confined to identity, dates, proceedings, record, litigants' contentions, and the texts of independently eligible authorities; the same-matter Supreme Court outcome and reasoning are quarantined in Section III. The authorities identified in B supply the baseline, not the later disposition of this matter.
-
----
-
-## Hazen Paper Co. v. Biggins
-
-### SECTION I — NEUTRAL MODELING PACKET
-
-#### A. CASE, RECORD, AND POSTURE
-
-**Case Name:** Hazen Paper Co. v. Biggins  
-**Citation or Docket:** 507 U.S. 604; No. 91-1600.  
-**October Term:** 1992.  
-**Entry Stage and Event:** MERITS, pre-decision preparation; certiorari. The listed historical merits proceeding is retained as the reboot's working procedural premise, not as a newly rendered simulated grant.  
-**Simulated Event Date:** 1993-04-20, the historical decision date used as the simulation calendar date.  
-**Question Presented / Granted Scope:** Whether pension interference based on years of service necessarily establishes ADEA disparate treatment, and whether Thurston’s knowledge-or-reckless-disregard standard governs willfulness in an individual discharge case.  
-**Court and Judgment Under Review:** First Circuit, 953 F.2d 1405 (1992), sustaining age-discrimination liability and restoring the jury’s willfulness finding after the district court set it aside.  
-**Relief Requested:** The employer seeks relief from the ADEA judgment and liquidated damages; Biggins seeks affirmance.
-
-**Material Record:** Biggins was sixty-two and near the service period required for pension vesting when discharged. The jury found an ADEA violation and willfulness. The court of appeals relied heavily on evidence of interference with pension vesting but also identified other evidence bearing on age motivation. The pension entitlement at issue depended on service, not simply chronological age. The case does not establish that the employer’s conduct was lawful under every statute merely because service and age are distinct.
-
-**Threshold, Preservation, and Vehicle Matters:** The claim reviewed is intentional age discrimination, not a decision resolving ADEA disparate-impact liability. Separate ADEA causation, pension interference under ERISA, and the enhanced-damages willfulness requirement. Remaining age evidence prevents automatically entering judgment for the employer merely by correcting the pension inference.
-
-**Relevant Dates:** Argument: January 13, 1993.  
-**Companion or Related Matters:** No separately listed companion requires a separate disposition in this module.  
-**Participation Matter:** Chief Justice Stone replaces Rehnquist under the supplied reboot. The other eight seats are White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No case-specific simulated recusal or vacancy is supplied. No additional participation issue identified. [R-507_604](#507_604-record)
-
-#### B. LAW ENTERING THE CASE
-
-**Current Through:** 1993-04-19, subject to the following source boundary. The user adopts historical Supreme Court precedent entering OT1992. No reboot `HOLDINGS.md`, `STANDARDS_AND_TESTS.md`, or `STANDING_STATE.md` is supplied, and no completed reboot decision is supplied. Pre-OT1992 precedent and independently effective enacted law supply the baseline below. Historical OT1992 outcomes, including unlisted same-term outcomes, are not automatically imported.
-
-**Controlling Simulated Law / Current Reusable Doctrine:** No new simulated holding or replacement test is established by this preparation. The source-specific inherited rules below operate unless an actual earlier effective simulated decision changes them.
-
-**Earlier Same-Term Decisions / Unresolved Dependencies:** No case-specific earlier same-term dependency identified on the supplied record. Any subsequently supplied earlier effective decision must be incorporated before this matter is run; a proposed Stone supplement is not that decision.
-
-##### Issue 1: Protected trait and actual motivation
-
-**Other Governing Law and Material Authority:** ADEA § 4(a)(1), 29 U.S.C. § 623(a)(1), prohibits action because of age. McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973), and Texas Department of Community Affairs v. Burdine, 450 U.S. 248 (1981), supply the inherited intentional-discrimination proof framework where applicable. ERISA § 510, 29 U.S.C. § 1140, separately reaches interference with protected benefits.
-
-**Open Point:** Whether service-based pension interference proves age motivation, or instead requires evidence of age itself or deliberate use of pension status as an age proxy.
-
-##### Issue 2: Willfulness
-
-**Other Governing Law and Material Authority:** ADEA remedial provisions, 29 U.S.C. § 626(b); Trans World Airlines, Inc. v. Thurston, 469 U.S. 111 (1985), uses knowledge or reckless disregard of whether the conduct violates the ADEA for liquidated damages.
-
-**Open Point:** Whether individual disparate treatment requires an additional outrageousness, direct-evidence, or predominant-factor requirement beyond Thurston.
+**Open Point:** Whether the rule excludes lawyer inadvertence categorically and whether the particular circumstances justify acceptance.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
-**Employer:** Service and age are analytically distinct, and interference with pension vesting does not itself prove an ADEA violation. It also urges a narrower or more demanding willfulness rule to preserve the two-tier damages structure.
-
-**Biggins:** The proximity to vesting and other evidence support age-based discharge, and undisclosed intentional discrimination should not receive more favorable willfulness treatment than a published policy. The United States and EEOC as amici support affirmance.
-
-**Limits:** Correlation can be evidence but is not automatic identity. An improper reason under ERISA is not necessarily age discrimination; conversely, a pension label cannot shelter deliberate age discrimination.
+The debtor argues that controllable lawyer negligence cannot qualify and that bar-date certainty is essential. Creditors stress the notice, limited delay, lack of prejudice, and good faith. The Sixth Circuit allowed relief. Clients cannot avoid the consequences of their chosen counsel merely by blaming the lawyer; nevertheless, attributing fault does not exclude an equitable excuse the rule permits. [Record and authority sources](#sources-28).
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-Vacate and remand for reassessment of the age evidence without treating pension interference as conclusive, while retaining Thurston for any supported willful violation. Affirm if the remaining evidence and correct legal standard independently sustain the judgment. Do not decide an unpresented disparate-impact question or rewrite the separate ERISA judgment.
+Permit neglect to include inadvertence, then assess all relevant circumstances; deny relief where reasons, prejudice, or delay make the neglect inexcusable; retain special deadline limitations under Rule 9006(b)(2) and (3).
 
-**Source and Scope Qualification:** The published judicial record supplies the material account; this is not a certification that an independently supplied petition or joint appendix was reviewed. The question above states the reported scope rather than claiming verbatim petition transcription. Allegations, assumptions on review, findings, and unresolved matters retain the status expressly identified here. No post-event enactment or decision supplies entering law.
+**Material Source and Record Limits:** The record account and arguments are reconstructed from the published judicial materials. This is not a representation that every petition, brief, transcript, or joint-appendix page was independently recovered. No unsupported factual finding is supplied. The issue descriptions identify the questions actually reconstructed, not an enlargement of the grant or an assumed finding on remand.
 
 #### E. SOURCES
 
-<a id="507_604-record"></a>
-**R-507_604:** [Hazen Paper Co. v. Biggins, 507 U.S. 604, published opinion and record account](https://supreme.justia.com/cases/federal/us/507/604/). Neutral use is confined to identity, dates, proceedings, record, litigants' contentions, and the texts of independently eligible authorities; the same-matter Supreme Court outcome and reasoning are quarantined in Section III. The authorities identified in B supply the baseline, not the later disposition of this matter.
+<a id="sources-28"></a>
+
+- [Published judicial text and cited authorities, source 1](https://supreme.justia.com/cases/federal/us/507/380/).
+
+These links support identity, pre-decision facts, proceedings, arguments, and the authorities identified above. The same matter’s historical Supreme Court result, opinion support, and petition treatment are confined to Section III; those portions of a source do not enter this neutral packet as governing law. The cited earlier authorities supply only their date-eligible propositions, not later summaries of their development.

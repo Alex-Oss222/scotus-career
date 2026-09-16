@@ -1,0 +1,34 @@
+{
+  "version": "1.5",
+  "simulated_date": "1993-06-28",
+  "disposition": "Affirm dismissal of design-only equal-protection claim",
+  "checks": [
+    {
+      "file": "OT_1992CHUNK10_STONE.md",
+      "matches_revised_position": true,
+      "outside_Shaw_Section_II_unchanged": true,
+      "sha256": "35AF6CB088C77EF9FF46D2DCCCCEB97EB8E7D20A136D2C96FF9A3977B10C3BA7"
+    },
+    {
+      "file": "OT_1992CHUNK10.md",
+      "matches_revised_position": true,
+      "outside_Shaw_Section_II_unchanged": true,
+      "sha256": "F6F7279160B7910CEF1F63A8E2D08BF20FE1476D4BD7AA749CEA5298EA3F2209"
+    }
+  ],
+  "unchanged_Shaw_issues": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "preexisting_Issue_2_reasoning_preserved": true,
+  "historical_foundation_added": true,
+  "judgment_and_remedy_unchanged": true,
+  "independent_legal_and_historical_review": "Passed: source scopes, temporal cutoff, individual rights, and retained baseline verified",
+  "prior_version_preserved": "review/before_revision/shaw_v1_4"
+}

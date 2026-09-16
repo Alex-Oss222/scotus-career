@@ -1,251 +1,467 @@
 # OT_1992CHUNK6_STONE
 
-## Sullivan v. Louisiana
+## United States v. Olano
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Sullivan v. Louisiana; No. 92-5129; event 1993-06-01.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. No expressly approved case-specific Stone answer was supplied. This is a newly drafted position, not an inferred approval.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-05-31, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
+**Case:** United States v. Olano; No. 91-1306; event 1993-04-26.  
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Current-Through Baseline:** The user-authorized pre-OT1992 historical baseline, independently date-eligible law, and actual simulated law effective immediately before the 1993-04-26 event. Earlier same-day law counts only where its effective sequence is established. This is an authoring baseline, not certification against an unsupplied live decision record.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L53-L81
+**Authoring Provenance:** Master Jurisprudence supplies the fictional character’s methodology, not governing law. This user-directed revision implements the case-specific legal review while keeping the proposed position separate from the historical comparator.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** REVERSE the Louisiana Supreme Court judgment sustaining the conviction and REMAND for proceedings permitting a constitutionally valid new trial.
+**Stone's Proposed Judgment or Disposition:** REVERSE and REMAND.
 
-**Stone's Remedy and Remand Position:** The conviction cannot stand on harmless-error review of this conceded defect. Remand allows retrial under a proper reasonable-doubt charge; it does not direct acquittal, decide a separate sufficiency claim, or prescribe relief for unrelated convictions.
+**Stone's Remedy and Remand Position:** Set aside only the new-trial disposition founded on the per se alternate-presence rule. Leave the separate reversals for insufficient evidence undisturbed. The court of appeals may resolve the remaining appellate issues it did not reach; this disposition neither reinstates the insufficiency counts nor authorizes retrial on them.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: The missing constitutional jury verdict
+##### Issue 1: Rule 52(b) has distinct requirements
 
-**Threshold and Merits Reach:** Stone reaches the preserved harmless-error issue on direct review and accepts the conceded Cage violation.
+**Threshold and Merits Reach:** Stone accepts only the Government’s concessions of error and plainness for this review. Substantial rights and remedial discretion remain separate, disputed requirements. He assumes the forfeiture premise without deciding whether Rule 24(c) is waivable or whether any valid intentional waiver occurred.
 
-**Stone's Legal Position:** Apply the inherited jury and reasonable-doubt guarantees, and resolve the open structural-error classification without altering Chapman for ordinary trial error.
+**Stone's Legal Position:** Clarify Rule 52(b)’s distinct requirements using Atkinson and Young. The precise four-part formulation is Stone’s proposed resolution in this case, not a claim that those earlier decisions already stated every element in this form.
 
-**Stone's Proposed Holding:** Where the charge vitiates the jury’s governing reasonable-doubt standard, a reviewing court cannot cure the defect by supplying its own hypothetical verdict. The conviction must be reversed without harmless-error assessment.
+**Stone's Proposed Holding:** Forfeited error may be corrected only when it is plain, affects substantial rights, and warrants exercise of the court’s remedial discretion because it seriously affects the fairness, integrity, or public reputation of proceedings. The defendant ordinarily carries the prejudice showing. This record does not justify per se prejudice from the instructed alternates’ mere presence.
 
-**Essential Reasoning and Record Application:** Chapman asks whether a constitutional error affected a lawful adjudicative determination. Here the defect concerns the standard constituting the required determination itself. Even highly persuasive evidence does not authorize judges to make the verdict the jury was constitutionally required to return. The defect is structural because of the missing adjudicative foundation, not because every instruction is immune from harmless review.
+**Essential Reasoning and Record Application:** Each proposition performs a different job: error identifies the violated rule, plainness limits correction of unpreserved matters, substantial rights addresses effect, and Atkinson guides permission to remedy. A valid intentional waiver differs from nonassertion. Deliberative privacy protects against influence, but the Court cannot assume that the alternates disobeyed instructions or changed the verdict without evidence or a justified legal presumption.
 
-**Boundary or Reserved Question:** No categorical rule is adopted for every inaccurate instruction, every omission concerning an element, or every evidentiary error. The charge must have the conceded constitutionally vitiating effect at issue here.
+**Boundary or Reserved Question:** No holding that every error requires outcome proof, no denial of relief for structural or legitimately presumed-prejudice categories, and no actual-innocence-only limit on remedial discretion. Any permitted prejudice inquiry must respect Rule 606(b); this remand does not authorize inquiry into jurors’ protected mental processes.
 
 ---
 
-## Smith v. United States
+## United States v. California
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Smith v. United States; No. 91-8674; event 1993-06-01.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. No expressly approved case-specific Stone answer was supplied. This is a newly drafted position, not an inferred approval.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-05-31, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
+**Case:** United States v. California; No. 91-2003; event 1993-04-26.  
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Current-Through Baseline:** The user-authorized pre-OT1992 historical baseline, independently date-eligible law, and actual simulated law effective immediately before the 1993-04-26 event. Earlier same-day law counts only where its effective sequence is established. This is an authoring baseline, not certification against an unsupplied live decision record.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L550-L568
+**Authoring Provenance:** Master Jurisprudence supplies the fictional character’s methodology, not governing law. This user-directed revision implements the case-specific legal review while keeping the proposed position separate from the historical comparator.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** REVERSE the judgment insofar as it sustains the § 924(c)(1) firearm-use conviction and REMAND for removal of that count and correction of the resulting sentence.
+**Stone's Proposed Judgment or Disposition:** AFFIRM.
 
-**Stone's Remedy and Remand Position:** The thirty-year mandatory sentence resting on the barter-as-use theory must be removed. The separate drug convictions remain outside this disposition. The remand does not authorize conviction on an uncharged carrying theory or invent an evidentiary deficiency that could be cured under the rejected legal theory.
+**Stone's Remedy and Remand Position:** No recovery on the asserted federal common-law or subrogation theories. Leave the completed partial refund intact and do not adjudicate the correctness of the underlying California classification.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Meaning of the charged use offense
+##### Issue 1: Economic cost is not legal incidence or a cause of action
 
-**Threshold and Merits Reach:** Stone reaches the preserved statutory question and does not reach a hypothetical carrying prosecution.
+**Threshold and Merits Reach:** Stone reaches the asserted federal restitution source and the alternative subrogation route separately.
 
-**Stone's Legal Position:** Resolve an open Supreme Court statutory question by context and, to the extent ambiguity remains after the ordinary tools, lenity. No inherited Supreme Court construction is overruled.
+**Stone's Legal Position:** Apply New Mexico and traditional derivative-claim principles; reject creation of federal common law from federal financial interest alone.
 
-**Stone's Proposed Holding:** Offering a firearm as merchandise in exchange for drugs, without employing it as a weapon, does not constitute “using a firearm” under the charged version of § 924(c)(1).
+**Stone's Proposed Holding:** Contractual reimbursement of a private contractor’s state taxes creates neither direct federal tax immunity nor an independent federal common-law refund action for state-law assessment errors. Under the relevant subrogation rules, indemnification gave the Government a right to seek subrogation, but its later active assertion did not revive the contractor’s already lapsed refund claim.
 
-**Essential Reasoning and Record Application:** The whole phrase identifies employment of a weapon in the crime, not the maximally broad dictionary sense of exploiting an object. Section 924(d) expressly addresses transactions in firearms and does not establish that the criminal-use provision has identical scope. The Government’s strong evidence of a connection to drugs satisfies a different element and cannot expand “use.” The drug transaction remains punishable under its own prohibitions.
+**Essential Reasoning and Record Application:** The Government’s reimbursement arrangement did not make California an unlawful recipient of federal money or create an implied refund obligation to the Treasury. On the derivative theory, the Government’s right to seek subrogation arose with indemnification, but actual subrogation required active assertion under the applicable state law; by then the contractor’s claim had lapsed. The distinction concerns when and in what condition the derivative right was acquired, not a general permission to apply state limitations to federal claims. Guaranty Trust supports taking an assigned or derivative claim subject to an existing infirmity, while Summerlin protects a live federal claim from later state limitations. Stone therefore rejects revival on this record without diminishing Summerlin or deciding the state tax classification’s merits.
 
-**Boundary or Reserved Question:** Weapon use can include threats, display for intimidation, or use as a bludgeon; firing is not required. The holding does not construe carrying, decide future statutory amendments, or import later decisions about possession or receipt of a firearm.
+**Boundary or Reserved Question:** No rule permitting direct taxation of the United States and no restriction on a refund remedy Congress validly creates. California’s tax calculation is not approved on its merits.
 
 ---
 
-## Lamb's Chapel v. Center Moriches
+## Edenfield v. Fane
+
+**Listed docket:** 91-1594. **Event:** 1993-04-26.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Lamb's Chapel v. Center Moriches; No. 91-2024; event 1993-06-07.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. No expressly approved case-specific Stone answer was supplied. This is a newly drafted position, not an inferred approval.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-06-06, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
-
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L590-L608
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** REVERSE the Second Circuit judgment and REMAND for relief against the religious-viewpoint exclusion.
+**Stone’s Proposed Judgment or Disposition:** AFFIRM.
 
-**Stone's Remedy and Remand Position:** Require nondiscriminatory treatment of the application within the lawful after-hours forum, with declaratory or injunctive relief as necessary. The district may retain neutral scheduling, safety, eligibility, and subject-matter rules genuinely applicable to comparable applicants. No public financing of devotional instruction or compulsory school worship is ordered.
+**Stone’s Remedy and Remand Position:** Maintain relief against application of the blanket solicitation prohibition to the described truthful CPA solicitation. Preserve lawful fraud, coercion, and professional-conduct regulation.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Religious viewpoint within an admitted subject
+##### Issue 1: Commercial-speech justification and record support
 
-**Threshold and Merits Reach:** Stone reaches the denial actually imposed, without first deciding the broadest possible forum classification.
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
 
-**Stone's Legal Position:** Apply Perry, Cornelius, Widmar, and the inherited establishment framework; do not replace Lemon or create a new religious subsidy entitlement.
+**Stone’s Legal Position and Treatment of Precedent:** Apply and explain existing sources; do not announce a general replacement doctrine.
 
-**Stone's Proposed Holding:** A district admitting private community discussion of family and child-rearing may not exclude that discussion solely because its viewpoint is religious. Neutral access to this after-hours private-speech forum does not establish religion.
+**Stone’s Proposed Holding:** The State has not justified this ban on truthful in-person CPA solicitation through evidence or a supported mechanism connecting the prohibition to the asserted harms.
 
-**Essential Reasoning and Record Application:** The subject is admitted and the exclusion tracks perspective. Public ownership of the room does not make every invited private message the government’s own. The absence of school sponsorship, voluntary attendance, and general availability distinguish the requested use from a school devotional program. Avoiding establishment cannot justify discrimination that the Establishment Clause does not require.
+**Essential Reasoning and Record Application:** Stone evaluates what the restriction does in this professional setting. Substantial interests are not self-proving, and the evidence does not establish the same coercive conditions present in Ohralik. The availability of ordinary fraud and misconduct rules matters to fit, without becoming a universal least-restrictive-means test.
 
-**Boundary or Reserved Question:** Forum access is not public financing. This holding does not decide whether worship as a distinct activity must be admitted to every limited forum, nor does it disable neutral rules directed at an activity outside the forum’s actual scope.
+**Boundary or Reserved Question:** No protection for deceptive or coercive solicitation and no general constitutional immunity from accounting regulation.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
 ---
 
-## Minnesota v. Dickerson
+## Turner Broadcasting System, Inc. v. FCC
+
+**Listed docket:** A-798. **Event:** 1993-04-29.
+
+**Procedural Category:** APPLICATION. The historical publication format does not convert this application into plenary merits review.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Minnesota v. Dickerson; No. 91-2019; event 1993-06-07.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. No expressly approved case-specific Stone answer was supplied. This is a newly drafted position, not an inferred approval.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-06-06, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
-
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L490-L506
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** AFFIRM the suppression judgment, while rejecting a categorical rule that touch can never supply probable cause for seizure.
+**Stone’s Proposed Judgment or Disposition:** DENY the application for an injunction pending appeal.
 
-**Stone's Remedy and Remand Position:** The cocaine remains suppressed because the officer’s additional examination was not justified by the frisk. No general warrantless evidence-search authority is created, and no remand is ordered merely to give the State a second opportunity to replace the accepted factual sequence.
+**Stone’s Remedy and Remand Position:** Leave the challenged provisions operative during the appellate process, without approving their final constitutionality. Preserve the properly presented merits appeal and the ability to address a new materially supported emergency request.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Tactile recognition and the end of the frisk
+##### Issue 1: Original injunction authority and provisional constitutional assessment
 
-**Threshold and Merits Reach:** Stone accepts the lawful initial frisk and reaches both the asserted seizure authority and the state court’s independent scope finding.
+**Threshold and Merits Reach:** Resolve only the original-injunction application and the provisional assessment necessary to that remedy.
 
-**Stone's Legal Position:** Extend the existing immediate-recognition principle to lawful touch, leaving Terry’s protective limitation intact.
+**Stone’s Legal Position and Treatment of Precedent:** Use the extraordinary-injunction standard as the proposed application rule, drawing on the identified persuasive in-chambers authorities. Do not mislabel their standard as an already adopted simulated full-Court holding.
 
-**Stone's Proposed Holding:** An officer lawfully conducting a frisk may seize contraband whose identity is supported by probable cause from the authorized touching itself, provided lawful access exists and no further evidentiary exploration is needed. This seizure fails because identification followed manipulation beyond the protective search.
+**Stone’s Proposed Holding:** These applicants have not established the extraordinary entitlement to an original injunction against the must-carry provisions pending appeal; the unresolved relationship among cable editorial choice, distribution regulation, and the challenged requirements must be examined in the merits proceeding.
 
-**Essential Reasoning and Record Application:** The constitutional question is the intrusion actually performed, not whether the officer used sight or touch. But an ambiguous nonweapon lump cannot be explored until its incriminating character becomes apparent. That reasoning would allow the additional search to create its own justification. The categorical exclusion of touch is unnecessary; application of the original frisk boundary resolves the case.
+**Essential Reasoning and Record Application:** Stone recognizes the cable operators’ editorial interest and examines § 1651’s authority for relief necessary or appropriate in aid of existing or potential appellate jurisdiction. Loss of jurisdiction is not the only possible basis for an injunction. The identified in-chambers authorities nevertheless make an original injunction extraordinary, and the applicants have not shown a sufficiently clear legal entitlement or a record making this relief appropriate while their merits appeal proceeds. The unresolved relation between cable editorial choice and the particular distribution obligations requires fuller merits examination. Continued enforcement has not been shown to defeat effective appellate relief, but that is a supporting consideration rather than an exclusive jurisdictional prerequisite. Denial settles neither the eventual standard of review nor the provisions’ constitutionality.
 
-**Boundary or Reserved Question:** Immediate recognition means probable cause, not certainty. It does not authorize reaching into clothing merely on an unparticularized suspicion or extending a completed frisk to investigate nonthreatening objects.
+**Boundary or Reserved Question:** No holding that cable receives no First Amendment protection, no automatic extension of Red Lion, and no reliance on the 1994 or 1997 Turner merits opinions.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
 ---
 
-## Church of Lukumi Babalu Aye v. Hialeah
+## United States v. Idaho ex rel. Director, Idaho Department of Water Resources
+
+**Listed docket:** 92-190. **Event:** 1993-05-03.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Church of Lukumi Babalu Aye v. Hialeah; No. 91-948; event 1993-06-11.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. No expressly approved case-specific Stone answer was supplied. This is a newly drafted position, not an inferred approval.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-06-10, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
-
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L590-L598
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** REVERSE and REMAND for declaratory and appropriate injunctive relief against the four challenged ordinances as the discriminatory scheme presented.
+**Stone’s Proposed Judgment or Disposition:** REVERSE.
 
-**Stone's Remedy and Remand Position:** Prevent enforcement of the targeted scheme against the church’s religious practice. Preserve the city’s authority to enact and enforce genuinely neutral health, disposal, zoning, and animal-welfare rules. Any severability question must be tied to an independently lawful operative provision, not used to repackage the same discrimination.
+**Stone’s Remedy and Remand Position:** Set aside the challenged fee obligation against the United States. Continue the comprehensive adjudication under the McCarran Amendment’s valid waiver.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Discriminatory design and inadequate fit
+##### Issue 1: Consent to adjudication and the costs limitation
 
-**Threshold and Merits Reach:** Stone reaches the direct free-exercise challenge and resolves it without reconsidering Smith’s rule for genuinely neutral and general laws.
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
 
-**Stone's Legal Position:** Apply Smith’s boundary and inherited religious-discrimination principles; clarify their application to the combined text and operation here. No general exemption regime or new statutory standard is adopted.
+**Stone’s Legal Position and Treatment of Precedent:** Apply and explain existing sources; do not announce a general replacement doctrine.
 
-**Stone's Proposed Holding:** A city may not target religious animal sacrifice while leaving materially comparable secular harms substantially unregulated. Hialeah’s interlocking scheme is neither neutral nor generally applicable and does not satisfy the required compelling-interest and narrow-tailoring showing.
+**Stone’s Proposed Holding:** The McCarran Amendment does not authorize the disputed filing-fee assessment against the United States merely because it consents to the water-rights adjudication.
 
-**Essential Reasoning and Record Application:** The exemptions and definitions do legal work: they separate religious killing from secular conduct implicated by the same stated harms. The city’s interests can be legitimate without justifying these distinctions. Hostile statements reinforce the objective record but are not indispensable where the design already identifies the religious object. Calling sacrifice unnecessary because it is religious assumes the very discrimination the Clause forbids.
+**Essential Reasoning and Record Application:** The McCarran Amendment separates consent to comprehensive water adjudication from liability for costs. These fees fund the adjudication and replace items Idaho previously assessed as costs; their function therefore falls within the express costs protection despite the new filing-fee label. The conclusion follows the structure and operation of this charge, not a rule that every fee is necessarily a cost or that participation itself restores immunity from adjudication.
 
-**Boundary or Reserved Question:** This is not an immunity for cruelty or unsafe disposal, and it does not constitutionalize every violation of a municipal procedural norm. Neutrality and general applicability are the triggers for the appropriate standard, not substitutes for its subsequent application.
+**Boundary or Reserved Question:** No withdrawal of federal participation from the adjudication and no general immunity from every charge imposed under a different express waiver.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
 ---
 
-## Wisconsin v. Mitchell
+## Cisneros v. Alpine Ridge Group
+
+**Listed docket:** 92-551. **Event:** 1993-05-03.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Wisconsin v. Mitchell; No. 92-515; event 1993-06-11.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. No expressly approved case-specific Stone answer was supplied. This is a newly drafted position, not an inferred approval.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-06-10, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
-
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L53-L81
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** REVERSE the Wisconsin Supreme Court judgment and REMAND for proceedings consistent with the enhancement’s First Amendment validity.
+**Stone’s Proposed Judgment or Disposition:** REVERSE and REMAND.
 
-**Stone's Remedy and Remand Position:** Remove the constitutional obstacle to application of the intentional-selection enhancement in this prosecution. Preserve ordinary evidentiary rules and objections to irrelevant belief or association evidence. No independent offense of hateful thought is authorized.
+**Stone’s Remedy and Remand Position:** Reject the premise that the contracts guarantee formula increases regardless of comparability. Leave any properly preserved challenge to a particular study or implementation for further proceedings.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Intentional selection aggravates a criminal act
+##### Issue 1: Contractual proviso before constitutional adjudication
 
-**Threshold and Merits Reach:** Stone reaches the First Amendment challenge to the statutory enhancement and does not expand the case to unpresented sentencing issues.
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
 
-**Stone's Legal Position:** Apply the inherited distinction between regulation of speech and punishment of criminal conduct with a legally relevant motive; distinguish R.A.V. without narrowing its speech holding.
+**Stone’s Legal Position and Treatment of Precedent:** Apply and explain existing sources; do not announce a general replacement doctrine.
 
-**Stone's Proposed Holding:** The First Amendment permits enhanced punishment for a battery where the defendant intentionally selects the victim because of race. It does not permit punishment merely for holding or expressing a racist belief.
+**Stone’s Proposed Holding:** The contracts permit HUD to use comparability determinations to limit formula adjustments; they do not create the unconditional payment entitlement on which the constitutional ruling rested.
 
-**Essential Reasoning and Record Application:** Victim selection describes how the criminal act is directed and can aggravate its harm. Criminal law routinely considers purpose without converting every offense into punishment of thought. Speech may establish a relevant intent, but abstract association or belief with no connection to the act remains protected. The statute does not suppress an otherwise protected message as the prohibited conduct itself.
+**Essential Reasoning and Record Application:** Stone resolves the antecedent nonconstitutional question. The owners retain what the contracts promise, but the qualification is part of that promise. Recognition of HUD’s authority does not establish the correctness of every rent comparison or excuse arbitrary administration.
 
-**Boundary or Reserved Question:** The holding neither makes every offensive statement admissible nor permits automatic punishment for membership in a disfavored group. The State must prove the enacted selection requirement through lawful evidence.
+**Boundary or Reserved Question:** No general approval of retroactive impairment of federal contracts and no judicial finding that each study was accurate.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 
 ---
 
-## Department of Treasury v. Fabe
+## Moreau v. Klevenhagen
+
+**Listed docket:** 92-1. **Event:** 1993-05-03.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
 #### A. STATUS
 
-**Case:** Department of Treasury v. Fabe; No. 91-1513; event 1993-06-11.  
-**Version:** OT1992 reboot, v1.0.  
-**Approval Status:** PROPOSED AND UNAPPROVED. The supplied recommendations consistently propose a function-specific split disposition. They are treated as drafting instructions, not as a record of express approval of this completed supplement.  
-**Current-Through Baseline:** Historical law entering OT1992, independently effective law through 1993-06-10, and only genuinely effective earlier simulated decisions when supplied.  
-**Conditions:** No approved alternative or fallback is supplied. Material change to the entering law, record, or review scope requires revalidation of this proposed supplement before Stone's runtime stage. The positions below are proposals, not Court holdings or rendered votes.
-
-**Authoring Provenance:** Master Jurisprudence supplies methodology, not governing law or an independent Engine input. Only the case-specific position below is tendered for approval. Its source-order, threshold, precedent, and remedial disciplines are applied here. fileciteturn3file0L550-L568
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's Proposed Judgment or Disposition:** AFFIRM IN PART, REVERSE IN PART, AND REMAND: sustain priority over federal claims for policyholders and necessary liquidation administration; reject protection for ordinary wage and general-creditor priorities merely because they appear in the insurance liquidation statute.
+**Stone’s Proposed Judgment or Disposition:** AFFIRM.
 
-**Stone's Remedy and Remand Position:** Remand for distribution under those priority rules and any necessary classification of actual administration expenses. The United States receives its statutory priority over unprotected creditor classes. An ordinary wage claim is not transformed into a necessary administration expense without a legally supported basis.
+**Stone’s Remedy and Remand Position:** Retain the individual-agreement route on the stated representative-status facts, without validating any agreement that fails the statute’s timing or consent conditions.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Congress’s allocation is narrower than the statute’s title
+##### Issue 1: Representative authority and the alternative agreement routes
 
-**Threshold and Merits Reach:** Stone reaches the statutory conflict, without making a constitutional decision about state autonomy or federal supremacy.
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
 
-**Stone's Legal Position:** Apply § 1012(b)’s first clause by the function of the state provision. Distinguish the antitrust holdings’ setting rather than overrule them or create a general insurance exception.
+**Stone’s Legal Position and Treatment of Precedent:** Apply and explain existing sources; do not announce a general replacement doctrine.
 
-**Stone's Proposed Holding:** McCarran-Ferguson preserves liquidation priorities serving fulfillment of policyholder obligations, including administration necessary to that function. It does not preserve every ordinary creditor preference in an insurance insolvency statute against § 3713.
+**Stone’s Proposed Holding:** The relevant representative must be legally able to enter the statutory agreement; where that authority is absent, the employer may use valid prior individual agreements rather than lose the compensatory-time option categorically.
 
-**Essential Reasoning and Record Application:** The insurance promise is not fully regulated if its performance becomes irrelevant at insolvency. Necessary estate administration makes policyholder protection possible. Conversely, a preference benefiting creditors simply in their capacity as employees or commercial creditors is not made insurance regulation by placement in the same enactment. Congress supplied the federalism allocation; the Court identifies its precise protected operation.
+**Essential Reasoning and Record Application:** Stone respects both the federal entitlement and the limited program Congress enacted. State limits on bargaining do not abolish overtime protections, but the statutory reference to an agreement does not compel recognition of an entity incapable of making one. Individual consent remains necessary.
 
-**Boundary or Reserved Question:** The ruling concerns federal priority and the first clause of § 1012(b). It does not determine whether particular conduct is the business of insurance for every antitrust purpose, nor the scope of the boycott proviso in § 1013(b).
+**Boundary or Reserved Question:** No general federal right to collective bargaining, no exemption from overtime law, and no presumption of individual consent.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
+
+---
+
+## Stinson v. United States
+
+**Listed docket:** 91-8685. **Event:** 1993-05-03.
+
+### SECTION II — STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone’s Proposed Judgment or Disposition:** VACATE and REMAND.
+
+**Stone’s Remedy and Remand Position:** Vacate the appellate judgment sustaining the categorical felon-in-possession classification and remand under Stone’s independent interpretation of the applicable guideline. Preserve the governing-version question and any properly presented alternative sentencing ground. Apply § 3742(f) and Williams to the consequences of an incorrect guideline application; do not order a particular replacement sentence or presume an entitlement to reopen final sentences.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: Commentary, delegated guideline authority, and legal interpretation
+
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
+
+**Stone’s Legal Position and Treatment of Precedent:** Decline to extend Seminole Rock’s mandatory regulatory-deference model to all interpretive Guidelines commentary. Preserve binding guideline text and the statutory authority recognized in Williams for departure policy statements. Use the commentary’s text, consistency, expertise, and reasoning as substantial interpretive assistance under a Skidmore-type approach, with judicial interpretation governed by applicable precedent.
+
+**Stone’s Proposed Holding:** Under the relevant § 4B1.2 definition, felon possession alone does not categorically establish a crime of violence. The Commission’s explanation supports that construction, but the guideline itself supplies the legal conclusion. The appellate court’s contrary categorical reading is the error requiring vacatur; merely recognizing commentary as persuasive would not correct it.
+
+**Essential Reasoning and Record Application:** Williams v. United States, 503 U.S. 193 (1992), treats a departure policy statement as authoritative within the statutory sentencing structure, and § 3553(b) expressly assigns official commentary a role in determining whether the Commission considered a departure factor. Section 1B1.7 likewise recognizes that disregarding commentary can reveal an incorrect guideline application. Stone preserves those rules; they do not alone decide whether every later interpretation of a classification provision receives controlling weight. The Commission’s guidelines undergo congressional review under § 994(p), while commentary amendments do not. Given that structure and the judiciary’s responsibility to apply the criminal sentencing rule, Stone would require an independently justified reading while giving the Commission’s explanation substantial, reasoned weight. This bounded distinction leaves Seminole Rock intact in its established setting and preserves lawful guideline amendment. On the merits, the absence of a force element is not conclusive because § 4B1.2 also addresses serious potential physical-injury risk. Stone reads that language to require risk inherent in the conduct constituting the offense, assessed in context with the provision’s examples of burglary of a dwelling, arson, extortion, and use of explosives; possession alone establishes neither violent use nor a categorical risk of comparable character merely because a prohibited possessor might later misuse a firearm. He therefore rejects the circuit’s categorical treatment. That is a legal conclusion extending the existing draft’s independent reading, not a finding that the lower court never considered the commentary. The proposed persuasive-weight rule may yield less immediate uniformity than mandatory deference; reasoned decisions and ordinary appellate precedent, rather than each judge’s unstructured preference, must govern consistency. [Williams](https://supreme.justia.com/cases/federal/us/503/193/) and [Skidmore](https://supreme.justia.com/cases/federal/us/323/134/) supply the relevant pre-event sources.
+
+**Boundary or Reserved Question:** No general overruling of Seminole Rock, no commentary amendment of contrary guideline text, and no reduction of binding departure provisions to optional advice. The other counts do not become alternative sentencing predicates without the necessary preserved and supported analysis.
+
+##### Issue 2: Temporal application of the commentary amendment
+
+**Threshold and Merits Reach:** Leave the Government’s distinct temporal contention for remand because it was not resolved below and is outside the authority question presented, while explaining how it relates to the ground for vacatur.
+
+**Stone’s Legal Position and Treatment of Precedent:** Distinguish interpretation of the governing original text from application of a substantive later amendment; apply the correct guideline version and then-operative amendment and finality rules.
+
+**Stone’s Proposed Holding:** A later explanation may persuade a court of the meaning the governing text already bore without retroactively enacting a new sentencing rule. If relief instead depends on a substantive later change, that change must satisfy its own temporal rules. The lower court must identify which source and version actually governs.
+
+**Essential Reasoning and Record Application:** Stone’s independent construction supplies an identified error in the categorical reading, so the remand is not an instruction merely to reconsider a source the circuit already called persuasive. The lower court must nevertheless verify the governing text and address the preserved temporal contention rather than assume every favorable commentary amendment applies to every earlier sentence. Any separate lawful sentencing ground and the consequence of the identified error remain subject to ordinary sentencing review and Williams.
+
+**Boundary or Reserved Question:** No reopening of final sentences generally.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
+
+---
+
+## Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc.
+
+**Listed docket:** 91-1043. **Event:** 1993-05-03.
+
+### SECTION II — STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone’s Proposed Judgment or Disposition:** AFFIRM.
+
+**Stone’s Remedy and Remand Position:** Reject the sham-litigation claim based on this objectively reasonable lawsuit. Do not decide that every unsuccessful or strategically motivated suit is protected in every factual setting.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: Objective gate and subjective misuse of litigation
+
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
+
+**Stone’s Legal Position and Treatment of Precedent:** Resolve the open application of Noerr, Pennington, and Omni to this single lawsuit by requiring objective baselessness before examining subjective misuse. The precise two-step gate is the proposed rule here, not an already stated Supreme Court holding.
+
+**Stone’s Proposed Holding:** An objectively reasonable lawsuit does not become an antitrust sham merely because its proponent sought competitive advantage; this copyright suit fails the objective-baselessness predicate.
+
+**Essential Reasoning and Record Application:** Stone protects access to adjudication without immunizing fabricated or abusive process. The studios’ plausible legal claim sought a judicial outcome, even if commercially motivated. The objective gate prevents routine antitrust retrials of every lost business lawsuit.
+
+**Boundary or Reserved Question:** No decision on fraud, repetitive baseless proceedings, or proof of the underlying antitrust offense after an exception is established.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
+
+---
+
+## United States v. Padilla
+
+**Listed docket:** 92-207. **Event:** 1993-05-03.
+
+### SECTION II — STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone’s Proposed Judgment or Disposition:** REVERSE and REMAND.
+
+**Stone’s Remedy and Remand Position:** Require defendant-specific evaluation of actual privacy or possessory interests. Do not categorically reject every defendant’s suppression motion or automatically order admission without that inquiry.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: Personal Fourth Amendment interests
+
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
+
+**Stone’s Legal Position and Treatment of Precedent:** Apply and explain existing sources; do not announce a general replacement doctrine.
+
+**Stone’s Proposed Holding:** Membership in a conspiracy does not itself create Fourth Amendment rights in a searched vehicle or seized property; each defendant must establish a personal protected interest.
+
+**Essential Reasoning and Record Application:** Stone removes the unsupported doctrinal shortcut while preserving genuine individual claims. Criminal liability rules governing conspiratorial responsibility do not transfer another person’s constitutional rights. The remand is needed precisely because personal property and privacy facts may differ among defendants.
+
+**Boundary or Reserved Question:** No categorical exclusion of all conspirators from Fourth Amendment protection and no automatic suppression remedy.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
+
+---
+
+## Blodgett v. Campbell
+
+**Listed docket:** A-851. **Event:** 1993-05-14.
+
+**Procedural Category:** APPLICATION. The historical publication format does not convert this application into plenary merits review.
+
+### SECTION II — STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone’s Proposed Judgment or Disposition:** DISMISS the application without prejudice to a properly filed petition for certiorari or an extraordinary writ, as legally available.
+
+**Stone’s Remedy and Remand Position:** Leave the remand order undisturbed by this application. Do not decide whether hanging is constitutional, whether the hearing will change the result, or whether a properly presented later mandamus request would succeed.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: The requested relief must fit an invoked review channel
+
+**Threshold and Merits Reach:** Resolve the application’s review-channel defect. Do not reach hanging’s constitutionality or the ultimate appropriateness of a further evidentiary hearing.
+
+**Stone’s Legal Position and Treatment of Precedent:** Apply the statutory review channels and § 1651’s authority for writs necessary or appropriate in aid of existing or potential appellate jurisdiction. Referral to the full Court changes who considers the request, not the required procedural showing.
+
+**Stone’s Proposed Holding:** Referring this application to the full Court does not convert it into a properly presented certiorari or extraordinary-writ proceeding. On the supplied filing, final vacatur of the remand order is not warranted through an application for relief of this kind.
+
+**Essential Reasoning and Record Application:** Stone does not repeat the historical single-Justice limitation as though it still disposed of a full-Court referral. The remaining defect concerns the proceeding actually invoked and the showing made. He declines to recharacterize the filing into plenary review without the required submission, developed record, and fair notice. Dismissal without prejudice preserves a lawful route while withholding no established entitlement merely because the State chose a disfavored caption.
+
+**Boundary or Reserved Question:** No categorical rule that the full Court lacks power to review any interlocutory remand, no decision on a nonexistent petition, and no Eighth Amendment merits holding.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
+
+---
+
+## Cardinal Chemical Co. v. Morton International, Inc.
+
+**Listed docket:** 92-114. **Event:** 1993-05-17.
+
+### SECTION II — STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+**Version:** v1.1 — user-directed reviewed revision.  
+**Approval Status:** USER-DIRECTED REVIEWED REVISION. The user authorized implementation of the completed review. This text remains Stone’s proposed position in the simulation; it is not a rendered judgment, adopted holding, or recorded vote.  
+**Approval Date or Turn:** Implementation turn following the user’s instruction to make the necessary changes; no simulated adjudication date is created.  
+**Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
+**Conditions:** Revalidate material changes to the event-date law, effective simulated decisions, record, or review scope before use. Case-specific reservations below remain operative; this revision does not itself enter a simulated decision.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone’s Proposed Judgment or Disposition:** VACATE the automatic invalidity vacatur and REMAND.
+
+**Stone’s Remedy and Remand Position:** Leave noninfringement intact and return the live validity appeal for consideration under the correct jurisdictional and appellate principles. On this record, absent an actual lawful case-specific reason to decline review, the Federal Circuit should consider that appeal; relabeling the same automatic practice as discretion will not suffice. Do not decide patent validity here.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: Independent counterclaim and appellate vacatur
+
+**Threshold and Merits Reach:** Reach the preserved issue within the review posture stated in Section I.
+
+**Stone’s Legal Position and Treatment of Precedent:** Apply and explain existing sources; do not announce a general replacement doctrine.
+
+**Stone’s Proposed Holding:** Affirmance of noninfringement does not automatically moot an independently live invalidity counterclaim or require vacatur of its judgment.
+
+**Essential Reasoning and Record Application:** Stone separates the two controversies and requires the appellate court to identify a lawful reason for declining the validity question. A narrow noninfringement judgment can coexist with ongoing exposure under the patent. The Court’s task here is to correct the rule, not to make technical patent findings.
+
+**Boundary or Reserved Question:** No universal command to decide validity in every patent appeal; case-specific mootness and proper discretion remain.
+
+**Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
