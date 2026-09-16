@@ -40,11 +40,13 @@ Anything else, in plain words, in the same task: "Also: stay the execution in �
 
 ## Where things stand
 
-- **October Term 1991 is complete.** All 14 chunks are run and rendered (`terms/OT1991/output/`). The chronology cursor is July 17, 1992, after *Benten v. Kessler*.
-- ***Planned Parenthood of Southeastern Pennsylvania v. Casey*** is the term's special-consideration matter. Stone's position went through four revisions (`terms/OT1991/briefs/OT_1991CHUNK14_CASEY_V1_1.md` through `_V1_4.md`); version 1.4 is current. The Court retains Roe's core 6–3, adopts a five-Justice severe-interference floor (Stone, Blackmun, Stevens, O'Connor, Souter), and displaces the trimester timetable 6–3 (Stone joins on his own resolved condition). Stone's complete six-step framework does not replace that timetable as the Court's controlling standard — it has two votes, Stone and Stevens — and no majority adopts any single general test for previability regulation. Spousal notice is invalid 6–3; the other challenged provisions are sustained at the scopes stated in the record.
-- **Term close has not been performed.** It needs the user present; see the five-pass protocol in `AGENTS.md`.
-- `terms/OT1992/` already holds a case index, chunk briefs, runtime split files, and Stone's Option C build, written before OT1991 was run. They need to be regenerated against the closed OT1991 registers before `Open October Term 1992.`
-- Corrections to Holmes, Suter, Montana, Alaska, and the two Harris applications (chunk 6–8) predate the in-place correction convention and remain as separate files, named in their chunks' Render Inputs.
+This section is a pointer to current sources, not a restatement of the law. If it and a linked source ever disagree, the source controls.
+
+- **October Term 1991 is closed.** All 14 chunks are run and rendered (`terms/OT1991/output/`); the [Term-Close Dossier](terms/OT1991/close/TERM_CLOSE_DOSSIER.md) records the coordinated replacement of `state/`'s three trackers.
+- ***Planned Parenthood of Southeastern Pennsylvania v. Casey*** was the term's special-consideration matter. Its current, controlling version is stated in the record's ["Version 1.5 assembly" section](terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md); earlier versions (v1.1–v1.4) remain in `terms/OT1991/briefs/` as superseded history, not current law.
+- **October Term 1992 is open and in progress.** Chunks 1–3 are run and rendered (`terms/OT1992/output/`). The chronology cursor is March 2, 1993, after *Voinovich v. Quilter*; the next supplied group is chunk 4 (*Leatherman v. Tarrant County*, *Reves v. Ernst & Young*, March 3, 1993). See `terms/OT1992/workspace.md`'s Scope and Chronology Cursor section.
+- **Two OT1992 matters are stopped, not decided:** *Coleman v. Thompson* and *Martin v. District of Columbia Court of Appeals*, each needing a corrected posture/petition and Stone revalidation before they can proceed. Exact blockers and supporting evidence are in `terms/OT1992/workspace.md`'s Blockers and Revalidation Needs section and `terms/OT1992/evidence/`.
+- Corrections to Holmes, Suter, Montana, Alaska, and the two Harris applications (OT1991 chunks 6–8) predate the in-place correction convention and remain as separate files, named in their chunks' Render Inputs.
 
 ## Running it
 
