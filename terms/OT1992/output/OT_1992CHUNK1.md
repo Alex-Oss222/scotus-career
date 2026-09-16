@@ -7,6 +7,7 @@ Events sharing a decision date are presented together without implying an order 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
 | October 20, 1992 | Grubbs v. Delo | Temporary administrative stay granted | Application remains open for prompt examination and further Court order. |
+| November 2, 1992 | Martin v. District of Columbia Court of Appeals and Martin v. McDermott | Lead fee waiver granted and certiorari denied; companion fee waiver denied; prospective restriction declined | Lead petition proceeding closed; companion petition unresolved, with Rule 38 payment and Rule 33 submission permitted by November 23, 1992. |
 | November 3, 1992 | Montana v. Imlay | Writ dismissed as improvidently granted, 8–1 | Reviewed judgment undisturbed without approval of its merits. |
 | November 16, 1992 | Church of Scientology of California v. United States | Mootness dismissal vacated, 9–0 | Remanded to the Ninth Circuit for further appellate proceedings. |
 | November 16, 1992 | Hadley v. United States | Writ dismissed as improvidently granted; Stone-Zsela dissents | Ninth Circuit judgment remains operative; no merits ruling or remand. |
@@ -59,6 +60,112 @@ The ordinary capital-stay rules remain in force. Temporal urgency does not itsel
 The stay is effective immediately and remains in place pending further order of the Court. The application remains open for prompt examination of the actual submissions and lawful review channel. No fixed expiration date is set, and no release or remand is ordered.
 
 **End of entry: Grubbs v. Delo, temporary administrative stay, October 20, 1992.**
+
+---
+
+### Martin v. District of Columbia Court of Appeals et al., No. 92-5584, and Martin v. McDermott et al., No. 92-5618
+
+Fee motions, petition management, and proposed prospective restriction, November 2, 1992
+
+#### Chronology and Posture
+
+Decided November 2, 1992, without oral argument; no separate submission date is verified. In No. 92-5584, Martin seeks certiorari under §1254(1) to the D.C. Circuit, No. 91-7176. On May 8, 1992, that court summarily affirmed the District Court for the District of Columbia’s October 4, 1991 jurisdictional dismissal under *District of Columbia Court of Appeals v. Feldman*, which distinguishes general bar-rule challenges from review of individual admission judgments. Rehearing orders followed July 24. The petition presents questions concerning general bar rules, delay, the Americans with Disabilities Act (ADA) and Civil Rights Act, jurisdiction, prospective relief, and immunity.
+
+In No. 92-5618, Martin seeks certiorari under §1257(a) to the Delaware Supreme Court’s May 26, 1992 judgment in No. 448,1991; rehearing was denied June 5. That court sustained a jurisdictional dismissal because the attempted appeal for a new determination changed the parties and claims. It separately rejected the recusal claim as meritless and moot. The petition challenges the judge’s law-school affiliations as a constitutionally disqualifying interest. In each docket, Martin seeks leave to proceed in forma pauperis—without prepaying the filing fee—and relief from the judgment below. No question is granted.
+
+Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas participate in the paper consideration and decision. The Rule 39 motions reach the Court through its ordinary filing channel, not an interim-application referral.
+
+#### Public Action and Judgment
+
+The Court grants leave to proceed without prepayment in No. 92-5584 and denies certiorari. It denies leave in No. 92-5618, allowing payment and a petition in the required form by November 23, 1992. It declines any prospective filing restriction. A per curiam opinion—an unsigned opinion of the Court—explains the fee and prospective-restriction decisions. Stevens dissents from the companion fee denial, joined by Stone-Zsela and Blackmun. No dissent from denial of the lead petition is published.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or next stage |
+|---|---|---|---|---|
+| No. 92-5584, motion to proceed without prepayment | Granted, 9–0 | Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | No opposing vote | Petition filed without prepayment. |
+| No. 92-5584, certiorari | Denied; vote tally not published | No individual petition votes published | No dissent from denial published | D.C. Circuit judgment undisturbed without merits approval; present petition proceeding closed. |
+| No. 92-5618, motion to proceed without prepayment | Denied, 6–3 | White, O’Connor, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Blackmun, Stevens | Martin may pay the Rule 38 docketing fee and submit a Rule 33 petition by November 23, 1992; underlying petition remains unresolved. |
+| Prospective filing restriction | Declined, 9–0 | Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | No opposing vote | No restriction on unidentified future civil or criminal filings. |
+
+No certiorari vote tally is published for either docket. The dissenters would grant leave in No. 92-5618 and then deny certiorari in the ordinary course; that proposed petition disposition is not the Court’s action.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Per curiam | Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | Grants leave in No. 92-5584 | Current-paper rule, application, and merits reservations. |
+| Opinion of the Court, Part II | Per curiam | White, O’Connor, Scalia, Kennedy, Souter, Thomas | Denies leave in No. 92-5618 | Combined present defects, discretionary fee denial, and opportunity to pay and submit a petition in the required form by November 23. |
+| Opinion of the Court, Part III | Per curiam | Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | Declines prospective restriction | Record-specific insufficiency of need; legality on other records left open. |
+| Dissent from Part II | Stevens | Stone-Zsela, Blackmun | Would grant companion leave and deny its petition ordinarily | Independent disqualification claim; distinction between fee access and discretionary review; no merits holding. |
+| Certiorari order, No. 92-5584 | Court, unsigned | No individual petition votes published | Denies review | No merits rationale. |
+
+#### Controlling Propositions and Authority
+
+##### No. 92-5584: an arguable current petition is not defeated by filing history
+
+**Controlling proposition:** Rule 39.8 permits denial of leave to file without prepayment only upon a finding that the particular petition is frivolous or malicious; earlier unsuccessful filings cannot substitute for that finding. No. 92-5584's distinct general-rule and prospective statutory arguments clear the nonfrivolousness threshold on this record, so the Court grants leave without deciding that the arguments warrant certiorari or would succeed on the merits.
+
+**Authority:** Part I of the per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine participating Justices adopt this filing-specific application and its limits.
+
+**Controlling explanation:** The Court holds that Martin's history does not dispose of the paper now before it. Zatko permits discretionary fee denial for identified frivolous submissions in an extreme pattern of abuse; it does not make previous denials conclusive. Feldman distinguishes a challenge to a general bar rule from review of an individual admission judgment. Martin invokes that distinction and asserts prospective statutory grounds. His personal grievance, extensive collateral litigation and uncertain statutory theories present substantial obstacles, but those obstacles do not establish that every distinct question is frivolous. Denton preserves the difference between an arguable claim and a clearly baseless allegation; its statutory screening rule does not mechanically govern every feature of this Court's filing practice. The Court neither credits the disputed medical allegations nor finds that the asserted general classification actually exists. It decides no question of statutory coverage, retroactivity, preservation, immunity or ultimate jurisdiction. The motion is granted; the petition remains subject to ordinary discretionary review.
+
+**Precedent treatment:**
+
+- Zatko v. California, 502 U.S. 16 (November 4, 1991): applied as the existing discretionary, particular-submission rule; its extreme-abuse finding does not establish the frivolousness of a different current petition.
+- District of Columbia Court of Appeals v. Feldman, 460 U.S. 462 (1983): its general-rule/individual-judgment distinction supplies an arguable legal question here; the Court does not decide which side of that distinction the complete complaint occupies.
+- Denton v. Hernandez, 504 U.S. 25 (May 4, 1992): its distinction between arguability and clearly baseless factual allegations informs this limited assessment; its statutory review and remedial rules remain unchanged and are not imported wholesale into Rule 39.
+
+##### No. 92-5618: particular frivolousness and the available paid route
+
+**Controlling proposition:** Where the current recusal petition identifies no concrete constitutionally disqualifying interest and develops no federal challenge to the independent state jurisdictional ground that defeats the action, those defects together establish frivolousness for this Rule 39.8 motion. In light of Martin's established extreme repetitive filing abuse, the Court exercises its discretion to deny this motion only, allowing payment of the Rule 38 fee and submission in Rule 33 form through November 23, 1992; the petition itself is not denied by this order.
+
+**Authority:** Part II of the per curiam opinion, joined by White, O'Connor, Scalia, Kennedy, Souter and Thomas; six of nine control the motion, its stated ground and the compliance opportunity. Stone-Zsela, Blackmun and Stevens dissent from this part.
+
+**Controlling explanation:** The Court holds that this motion must be judged from the McDermott petition itself. Zatko permits a targeted fee denial when a present frivolous submission accompanies established extreme abuse. The Delaware judgment rests on the state rule that an appeal from the Justice of the Peace court retain the same action and parties. Martin's petition develops no federal objection to that jurisdictional ground. It instead attributes unconstitutional bias to professional ties, appearances and related allegations without identifying a concrete disqualifying interest comparable to the personal financial stake in Aetna Life Insurance Co. v. Lavoie. A genuine constitutional defect in the decisionmaker cannot be dismissed merely by calling another ground jurisdictional. Here, however, the undeveloped constitutional premise and the unaddressed jurisdictional obstacle operate together. Neither filing volume, the state court's characterization, nor an affiliation alone supplies the finding. Denying this fee privilege leaves paid, compliant filing available. The Court decides no general rule insulating judicial affiliations from scrutiny and enters no merits judgment on the recusal claim.
+
+**Precedent treatment:**
+
+- Zatko v. California, 502 U.S. 16 (November 4, 1991): applied to this distinct submission; fee denial remains discretionary and separate from disposition of certiorari.
+- Aetna Life Insurance Co. v. Lavoie, 475 U.S. 813 (1986): distinguished because this petition establishes no comparable concrete personal financial stake; other constitutionally disqualifying interests are not categorically excluded.
+
+##### No prospective filing restriction on this record
+
+**Controlling proposition:** The Court declines to impose a prospective fee-and-form condition on Martin's unidentified future civil-certiorari petitions because the established record does not show that the available treatment of particular filings is inadequate. This case-specific refusal decides neither that a prior warning is invariably required nor that prospective restrictions are categorically unlawful, and imposes no condition on future civil or criminal filings.
+
+**Authority:** Part III of the per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the sufficiency of this narrower, record-specific ground without resolving the Court's power on a different record.
+
+**Controlling explanation:** The Court holds that the remedy should remain confined to the filings before it. McDonald and Sindram permit measures directed at concrete abuse of extraordinary writs; Sindram also identifies the special risk created by petitions that have no filing deadline. Those decisions do not compel a restriction on all future ordinary civil petitions. Zatko denied the identified motions and preserved a paid route. This record establishes no subsequent warning, breach of that order or sequence of intervening adjudications demonstrating that its narrower response failed. Moreover, one present petition raises distinct arguments sufficient to permit filing. The established repetitive history supports close examination and, in the companion matter, fee denial, but does not demonstrate a need to prejudge unknown papers. The Court therefore gives the Clerk no prospective exclusion instruction. Its conclusion rests on this record and available remedies, without deciding a universal notice requirement, a numerical threshold, or the legality of every possible future restriction.
+
+**Precedent treatment:**
+
+- In re McDonald, 489 U.S. 180 (1989): preserved as authority for targeted protection against extraordinary-writ abuse; no extension to all future civil-certiorari petitions is made here.
+- In re Sindram, 498 U.S. 177 (1991): its extraordinary-writ setting and preservation of other filing categories are distinguished; its existing force is unchanged.
+- Zatko v. California, 502 U.S. 16 (November 4, 1991): its limited remedy is preserved; no warning, compliance default or further adjudication is inferred from that order.
+
+#### Limits and Questions Not Reached
+
+The denial of certiorari in No. 92-5584 creates no merits holding and approves no reasoning below. No certiorari disposition is entered in No. 92-5618. The Court does not resolve ADA coverage or retroactivity, Civil Rights Act coverage, the full complaint’s jurisdictional status, judicial immunity, the truth of either petition’s allegations, or the merits of the recusal claim.
+
+#### Precedent Treatment and Current-Law Effect
+
+Effective November 2, 1992, the Court applies the existing discretionary, filing-specific Rule 39.8 rule of *Zatko*, which permits targeted fee denial for a particular frivolous submission in the established abuse setting. No. 92-5584 clears the low filing threshold; the distinct defects in No. 92-5618 support denial of its fee motion. No replacement rule, numerical test, categorical ban, mandatory warning prerequisite, or constitutional right to unrestricted fee waiver is created. The refusal of prospective relief is confined to this record. *Denton*’s §1915(d) rules for screening factual allegations and appellate review remain unchanged. No precedent is overruled. Neither underlying judgment is adopted as this Court’s merits holding, and denial of certiorari establishes no bar-admission, statutory, immunity, or recusal merits precedent.
+
+#### Separate Positions Relevant to the Decision
+
+Stevens dissents from Part II, joined by Stone-Zsela and Blackmun. They would grant leave in No. 92-5618 and deny that petition in the ordinary course. The judicial-disqualification question is a separate claim requiring its own assessment; it cannot be rejected merely as another aspect of the bar-admission litigation. The petition’s failure to establish a basis for Supreme Court review does not, for these Justices, warrant withholding access without prepayment. They accept no recusal allegation as true and decide no statutory or constitutional merits question. Their disagreement concerns the fee disposition and its resulting paid-filing condition, not an entitlement to certiorari. They join Parts I and III, including the grant of leave in No. 92-5584 and the refusal of any prospective restriction. This dissent supplies no controlling proposition and leaves in force *Zatko*’s discretionary rule for particular submissions.
+
+#### Source Notes
+
+The Internet Archive petitions and attached lower-court orders support the review routes and allegations: [No. 92-5584, petition pages 33–58 and appendix orders](https://archive.org/details/micro_IA40385013_0415), and [No. 92-5618, petition and Delaware appendix orders](https://archive.org/details/micro_IA40385013_0416). These components do not reproduce the complete operative District Court complaint, incorporated earlier filings, or every financial exhibit. No response or concession is inferred; petition allegations are not findings.
+
+The official United States Reports support the applicable Rule 39 and extraordinary-writ authorities: [*In re Amendment to Rule 39*, 500 U.S. 13–15](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500013/usrep500013.pdf), supplies the filing-rule source; *In re McDonald*, 489 U.S. 180–188, and *In re Sindram*, 498 U.S. 177–183, supply the extraordinary-writ authorities discussed above. The [official Martin report, 506 U.S. 1–4](https://tile.loc.gov/storage-services/service/ll/usrep/usrep506/usrep506001/usrep506001.pdf), supports the November 2 date and companion identity. No opinion, petition, or order quotation is asserted. The source cutoff for this action is November 2, 1992.
+
+#### Mandate, Remedy, and Stage
+
+The November 2 order grants leave to proceed without prepayment and denies certiorari in No. 92-5584. That petition proceeding is closed; the D.C. Circuit judgment remains undisturbed without approval of its merits.
+
+In No. 92-5618, only the fee motion is decided. Martin may pay the Rule 38 docketing fee and submit a petition complying with Rule 33 by November 23, 1992. Ordinary petition processing requires that compliance. The order neither denies the petition nor commands an automatic later denial. No payment, default, extension, or subsequent Court action is established. The Delaware judgment is not vacated, affirmed on the merits, or remanded. No prospective filing restriction issues, and the Clerk receives no instruction excluding future filings.
+
+**End of entry: Martin v. District of Columbia Court of Appeals et al. and Martin v. McDermott et al., fee motions, petition management, and proposed prospective restriction, November 2, 1992.**
 
 ---
 
@@ -697,4 +804,3 @@ The Eleventh Circuit’s dismissal is reversed, and the case is remanded for con
 | Case or matter | Exact blocker |
 |---|---|
 | Coleman v. Thompson (petition disposition), No. 91-8336 | The proposed October 5 review uses a record frozen on May 20 and supplies no verified intervening live posture. The historical petition was denied June 15, 1992 (504 U.S. 992), contrary to the packet, and contemporaneous reporting records execution May 20. Neither historical Court action nor an alternate survival/stay may be silently entered. A corrected October live-posture and scheduling premise, with Stone revalidation under Engine §4, is required; the petition remains open in simulated state. |
-| Martin v. District of Columbia Court of Appeals, No. 92-5584 | The recovered petition seeks review of the D.C. Circuit, not direct review of the local court, and presents claimed general-rule, delay and prospective statutory grounds absent from the original packet. This materially changes the current-paper frivolousness premise. Stone must be revalidated under Engine §4 against the corrected petition and review route before the fee motion can be decided. No future-filing restriction, fee deadline, underlying certiorari disposition, or disposition of companion No. 92-5618 is inferred. |
