@@ -425,7 +425,7 @@ All nine participate at argument and decision: Stone-Zsela, White, Blackmun, Ste
 
 ## 3. Public Action
 
-Reversed in part and remanded. No general Opinion of the Court, rule eliminating Hines, categorical endorsement of every compatible state license, finding that any particular provision has survived actual review, or merits decision on remaining Commerce/severability issues. Section4(b)(4)’s specified savings remain operative. The unappealed within-Illinois invalidation is undisturbed; the occupational-overlap rationale alone no longer sustains the 4,000-hour ruling.
+Reversed in part and remanded. No general Opinion of the Court, rule eliminating Hines, categorical endorsement of every compatible state license, finding that any particular provision has survived actual review, or merits decision on remaining Commerce/severability issues. Section 4(b)(4), 29 U.S.C. §653(b)(4), remains operative: "Nothing in this chapter shall be construed to supersede or in any manner affect any workmen's compensation law or to enlarge or diminish or affect in any other manner the common law or statutory rights, duties, or liabilities of employers and employees under any law with respect to injuries, diseases, or death of employees arising out of, or in the course of, employment." This savings clause preserves workers'-compensation and common-law tort rights and duties without deciding the occupational-license preemption question presented here. The unappealed within-Illinois invalidation is undisturbed; the occupational-overlap rationale alone no longer sustains the 4,000-hour ruling.
 
 ## 4. Judgment & Remedy
 
