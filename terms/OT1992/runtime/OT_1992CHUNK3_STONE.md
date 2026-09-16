@@ -178,7 +178,7 @@ Collins supplied persuasive circuit reasoning, not a command binding Arkansas. T
 **Approval Status:** USER-DIRECTED REVIEW REVISION. Revised under the user's instruction to make the necessary changes. The disposition and reasoning remain Stone's proposed simulated position, not a rendered judgment or an adopted simulated holding.  
 **Approval Date or Turn:** Current user-directed implementation turn.  
 **Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
-**Conditions:** Authenticate the complete joint coordinate annex and its agreement with the operative prior decrees before issuing a geographic decree. This brief does not substitute an approximate boundary.
+**Conditions:** Stone supports the agreed boundary implementation in principle. Final approval of the exact geographic decree remains pending authentication of the complete submitted schedule against the operative prior decisions and decrees; this packet supplies no independently certified replacement coordinates. The official published schedule at [507 U.S. 7–24, beginning at page 87 of the bound volume](https://www.supremecourt.gov/opinions/boundvolumes/507bv.pdf#page=87) is an authoritative comparison source, but its availability does not itself establish that this packet has recovered and authenticated the submitted annex. This is a limitation of the available packet, not a finding that the parties historically failed to submit a proposed supplemental decree — the published decree states that they did.
 
 #### B. JUDGMENT AND REMEDY
 

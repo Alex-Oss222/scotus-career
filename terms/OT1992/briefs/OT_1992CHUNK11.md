@@ -213,7 +213,7 @@ These links support identity, pre-decision facts, proceedings, arguments, and th
 **Approval Status:** USER-DIRECTED REVISION. The user authorized implementation of the jurisprudence review. This is a proposed Stone position, not a rendered simulated decision.  
 **Revision Authority:** The current user request to make the necessary changes.  
 **Current-Through Baseline:** The sources and cutoff in Section I, subject to actual event-date revalidation.  
-**Conditions:** Revalidate against the actual effective simulated Herrera decision, if one exists, and the full relevant affidavit submission. The historical Herrera comparator is not substituted.
+**Conditions:** Final approval remains pending the effective simulated Herrera holding (Chunk 2, January 25, 1993) and examination of the seven affidavits, relevant responses, and lower-court reasons. Neither the historical Herrera outcome nor Stone's draft substitutes for that holding. Missing materials alone establish neither entitlement to preserve nor entitlement to vacate the stay.
 
 #### B. JUDGMENT AND REMEDY
 

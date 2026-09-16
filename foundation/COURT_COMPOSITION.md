@@ -70,7 +70,7 @@ This is Stone's first circuit-allotment order. It is an independent simulation j
 
 ### Order effective October 23, 1991
 
-Thomas's accession triggers a complete reallotment. This order remains in force through August 9, 1993 unless a case-specific order establishes otherwise.
+Thomas's accession triggers a complete reallotment. This order remains in force through August 9, 1993 unless a case-specific order establishes otherwise. Under the pinned roster, White's participation and Tenth Circuit assignment end after the June 28, 1993 decisions; eight Justices remain until Ginsburg takes office August 10, 1993. This order's continuation through August 9 fixes the table's other assignments only — it does not extend White's authority to sit, vote, or act as Circuit Justice beyond his retirement. Any Tenth Circuit matter arising between June 28 and August 10 requires a separately recorded reassignment order.
 
 | Circuit | Circuit Justice |
 |---|---|
