@@ -13,6 +13,7 @@
 | June 15, 1992 | Morgan v. Illinois, No. 91-5118 | Merits decision | Death sentence set aside; remanded for lawful sentencing proceedings. The conviction remains intact. |
 | June 15, 1992 | Patterson v. Shumate, No. 91-913 | Merits decision | Affirmed; Shumate's qualifying trust interest remains excluded from the bankruptcy estate. |
 | June 15, 1992 | Allied-Signal, Inc., as successor-in-interest to Bendix Corp. v. Director, Division of Taxation, No. 91-615 | Merits decision | Reversed as to the ASARCO gain and remanded for its exclusion, calculations, and appropriate refund treatment. |
+| June 15, 1992 | Coleman v. Thompson, petition No. 91-8336 | Certiorari disposition | Certiorari denied; Fourth Circuit judgment undisturbed. |
 
 ## Decisions and Dispositions
 
@@ -798,6 +799,18 @@ The Court reverses the New Jersey Supreme Court judgment, 125 N.J. 20, only as t
 Supreme Court merits review is complete. Ordinary mandate practice governs, and state tax proceedings resume on remand. No special timing order, retained Supreme Court jurisdiction, or institutional change is created.
 
 **End of entry: Allied-Signal, Inc., as successor-in-interest to Bendix Corp. v. Director, Division of Taxation, merits decision, June 15, 1992.**
+
+---
+
+### Coleman v. Thompson, petition No. 91-8336
+
+Certiorari disposition, June 15, 1992
+
+The petition sought review of the Fourth Circuit's affirmance of the denial of Coleman's second federal habeas petition. The question presented was whether his proffered evidence — a disputed witness recantation, a competing account that another person committed the murder, and conflicting scientific interpretations — satisfied the miscarriage-of-justice exception recognized in Murray v. Carrier and overcame the successive-petition bar of McCleskey v. Zant, so as to warrant an evidentiary hearing and merits review of his defaulted claims.
+
+The Court denies the petition for writ of certiorari. No opinion or dissent accompanies the denial. The Fourth Circuit's judgment remains undisturbed, and federal habeas relief remains denied.
+
+**End of entry: Coleman v. Thompson, certiorari disposition, June 15, 1992.**
 
 ---
 

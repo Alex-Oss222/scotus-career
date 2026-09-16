@@ -8,13 +8,12 @@
 
 **Source status:** October Term 1991's closed Holdings, Standards and Tests, and Standing State registers supply the entering law and the Court's setting for this term once Term Close is committed; this index is prepared for `Open October Term 1992.` and does not itself adjudicate anything. No prior OT1992 simulated trackers, effective same-term decision records, or approved case-specific Stone supplements are supplied here. New Stone positions are proposed and unapproved. The controlling index supplies the sequence, including among matters sharing a date. Every earlier effective same-day group is inherited unchanged; no matter or docket is added to or removed from the 123-matter historical inventory below.
 
-**Carried-forward addition:** One matter outside the 123-matter historical inventory is included: Coleman v. Thompson, petition No. 91-8336, carried forward from OT1991 as a matter the Court left open (see the [OT1991 Standing State's Docket of Cases Brought Up](../OT1991/close/STANDING_STATE.candidate.md#4-docket-of-cases-brought-up)). It has no place in either historical inventory, so it is placed first in Chunk 1 at a simulated event date rather than numbered within the historical Order sequence.
+**Carried-forward addition, removed September 16, 2026:** Coleman v. Thompson, petition No. 91-8336, was originally included here as a matter carried forward from OT1991's docket of cases brought up. It is removed because the petition actually reached its own terminal disposition — certiorari denied — on June 15, 1992, within OT1991's own term; it was never genuinely an OT1992 matter. See the post-close correction at [terms/OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md](../OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md).
 
 ## OT_1992CHUNK1
 
 | Exact chunk | Case name | Citation | Event date | Date status | Matter type |
 |---|---|---|---|---|---|
-| OT_1992CHUNK1 | Coleman v. Thompson (petition disposition) | Petition No. 91-8336; related No. A-877; 504 U.S. 188 (1992) | 1992-10-05 | Simulated; carried forward from OT1991, outside the 123-matter inventory | PROCEDURAL |
 | OT_1992CHUNK1 | Grubbs v. Delo | 506 U.S. 1301 (1992) | 1992-10-20 | Historical, used for simulation ordering | APPLICATION |
 | OT_1992CHUNK1 | Martin v. District of Columbia Court of Appeals | 506 U.S. 1 (1992) | 1992-11-02 | Historical, used for simulation ordering | APPLICATION |
 | OT_1992CHUNK1 | Montana v. Imlay | 506 U.S. 5 (1992) | 1992-11-03 | Historical, used for simulation ordering | PROCEDURAL |

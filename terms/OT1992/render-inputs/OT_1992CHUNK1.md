@@ -2,7 +2,7 @@
 
 ## Chunk metadata
 
-October Term: 1992. Chunk: 1. Completed Court events: 12. Effective range of completed Court events: October 20–December 14, 1992. Supplied inventory range: October 5–December 14, 1992. Events appear below in effective-date order; uncoordinated same-day events share the same entering-law baseline. Each completed event has eleven ordered blocks.
+October Term: 1992. Chunk: 1. Completed Court events: 12. Effective range of completed Court events: October 20–December 14, 1992. Supplied inventory range: October 20–December 14, 1992 (Coleman v. Thompson, petition No. 91-8336, was originally supplied as a carried-forward October 5 matter; it is removed as of September 16, 2026 -- see below). Events appear below in effective-date order; uncoordinated same-day events share the same entering-law baseline. Each completed event has eleven ordered blocks.
 
 | Effective date | Completed event | Public action / next stage |
 |---|---|---|
@@ -21,11 +21,7 @@ October Term: 1992. Chunk: 1. Completed Court events: 12. Effective range of com
 
 ### Stopped matters — operator blockers only
 
-| Case or matter | Planned date | Exact blocker |
-|---|---|---|
-| Coleman v. Thompson (petition disposition), No. 91-8336 | 1992-10-05 | The proposed October 5 review uses a record frozen on May 20 and supplies no verified intervening live posture. The historical petition was denied June 15, 1992 (504 U.S. 992), contrary to the packet, and contemporaneous reporting records execution May 20. Neither historical Court action nor an alternate survival/stay may be silently entered. A corrected October live-posture and scheduling premise, with Stone revalidation under Engine §4, is required; the petition remains open in simulated state. |
-
-No Court action, opinion, vote, holding or remedy is supplied for a stopped matter.
+No stopped matter remains in this chunk. Coleman v. Thompson, petition No. 91-8336, was originally listed here as a stopped carried-forward matter; it is removed as of September 16, 2026 because the petition actually reached its own terminal disposition -- certiorari denied -- on June 15, 1992, within OT1991's own term. It was never genuinely an OT1992 matter. See the post-close correction: `terms/OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md`.
 
 ---
 

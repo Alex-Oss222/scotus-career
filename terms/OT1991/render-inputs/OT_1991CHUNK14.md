@@ -6,7 +6,7 @@
 - Completed events: nine, June 26–July 17, 1992, in effective-date and inventory order below.
 - Render form: expressly specified in each Event block.
 - Stopped matters / Simulation Workflow Blockers: none.
-- Existing open matters: Wyoming implementation; Coleman petition No. 91-8336; Reynolds’s interim trials protection pending further order.
+- Existing open matters: Wyoming implementation; Reynolds’s interim trials protection pending further order. Coleman petition No. 91-8336 is resolved by a post-close correction inserted in chunk 11 (June 15, 1992); see `terms/OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md`.
 - Research cutoff: the effective date stated for each event.
 - This file supplies the completed public decisions for a separate Render task.
 - Casey correction: version 1.5 replaces the existing June 29 merits/cross-review event in place; lineage v1 ccde8c2/87fd4db, v1.2 1d76092/ce8fc4f, v1.3 33fa982/0d0dd57, v1.4 6f8c938/1e4868c, v1.5 this correction (propagating the user's direct edit of the public render, commit cff1257, made through GitHub's web editor). The other eight event blocks remain byte-identical.

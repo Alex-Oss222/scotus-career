@@ -2,12 +2,12 @@
 
 ## Chunk metadata
 
-- Completed events: 9; effective dates June 12 and June 15, 1992.
-- Effective and within-date presentation order: Lujan; Weltover; Ticor; Burlington Northern; Alvarez-Machain; Ankenbrandt; Morgan; Patterson; Allied-Signal.
+- Completed events: 10; effective dates June 12 and June 15, 1992 (Coleman v. Thompson's petition disposition added by post-close correction, also June 15).
+- Effective and within-date presentation order: Lujan; Weltover; Ticor; Burlington Northern; Alvarez-Machain; Ankenbrandt; Morgan; Patterson; Allied-Signal; Coleman v. Thompson (petition disposition, correction).
 - Chronology cursor: June 15, 1992, after Allied-Signal. Each uncoordinated same-day group uses its common entering-law baseline.
 - Each event supplies eleven ordered blocks. Follow its specified render form.
 - Stopped matters / Simulation Workflow Blockers: none.
-- Open earlier matters: Wyoming implementation and Coleman petition No. 91-8336; no new action is supplied.
+- Open earlier matters: Wyoming implementation. Coleman petition No. 91-8336 is resolved by the correction above.
 - Public rendering is a separate task. These inputs project the recorded Court actions.
 
 # Lujan v. Defenders of Wildlife
@@ -890,3 +890,57 @@ Supreme Court merits review is complete. On ordinary mandate, the state courts i
 - [Woolworth, 458 U.S. 354](https://tile.loc.gov/storage-services/service/ll/usrep/usrep458/usrep458354/usrep458354.pdf) and [Container, 463 U.S. 159](https://tile.loc.gov/storage-services/service/ll/usrep/usrep463/usrep463159/usrep463159.pdf): complete official opinions, separate writings and footnotes read by the financial source researcher; verified neutral summaries supplied to the fresh root, without target history.
 - [Allied-Signal, official historical report, 504 U.S. 768](https://tile.loc.gov/storage-services/service/ll/usrep/usrep504/usrep504768/usrep504768.pdf): complete report read after the recovered freeze. Pages773–777 verify ASARCO-only Supreme Court scope and the three conditional reargument questions, quoting the order at503 U.S. 928. Comparator holding is not entering simulated law.
 - Public Current-Term Neutral Projection supplies actual simulated Quill and related tax decisions. In-world cutoff: immediately before June 15, 1992; June 12 effective law incorporated. Retrieval date: September 15, 2026. No later law or historical same-term outcome is admitted as controlling authority.
+
+---
+
+# Coleman v. Thompson (petition disposition) — post-close correction
+
+**Insertion note:** This event is added by hand-applied correction on September 16, 2026, after October Term 1991's Close (Commit `2652c27`), once contemporaneous sources established that this petition actually reached its own terminal disposition on June 15, 1992 — the same date already covered by this chunk. No completed chunk 11 event's entering law, participation, or coalition is affected; a certiorari denial creates no controlling proposition. See the full Canonical Decision Record: `terms/OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md`.
+
+## 1. Event
+
+Coleman v. Thompson, petition for writ of certiorari, No. 91-8336. October Term 1991. Certiorari to the Fourth Circuit, No. 92-4005, 966 F.2d 1441 (May 18, 1992). Decided June 15, 1992. Question: whether Coleman's proffered evidence satisfies Murray v. Carrier's miscarriage-of-justice exception and overcomes McCleskey v. Zant's successive-petition bar so as to warrant an evidentiary hearing and merits review of his defaulted claims.
+
+Render form: compact. Basis: denial creating no merits holding; no published dissent in the recovered source.
+
+## 2. Participation
+
+Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. Nine seats occupied; no case-specific nonparticipation established.
+
+## 3. Public Action
+
+Certiorari denied.
+
+## 4. Judgment & Remedy
+
+| Component | Disposition | Remedy |
+|---|---|---|
+| Petition No. 91-8336 | Denied | Fourth Circuit judgment undisturbed; federal habeas relief remains denied. |
+
+## 5. Opinion Topology
+
+No opinion published with the denial; no published dissent is reported in the recovered source.
+
+## 6. Holdings
+
+None. A denial of certiorari creates no merits holding and approves no reasoning below.
+
+## 7. Precedent Treatment
+
+None; the denial does not apply, distinguish, limit, extend, or overrule any authority.
+
+## 8. Law After Decision
+
+Coleman v. Thompson, petition No. 91-8336, is fully and finally resolved. No further Supreme Court action in any term. The prior carry-forward note describing the petition as pending is superseded by this record.
+
+## 9. Separate Writings
+
+None reported.
+
+## 10. Procedure After Action
+
+Petition proceeding closed. No stay, retrial, release, or further filing is established.
+
+## 11. Source Notes
+
+Historical certiorari denial: 504 U.S. 992 (June 15, 1992); [official orders](https://www.law.cornell.edu/supct/html/061592.ZOR.html). Execution report: [Washington Post, May 21, 1992](https://www.washingtonpost.com/archive/politics/1992/05/21/coleman-electrocuted-as-final-appeals-fail/d2478600-7f2b-458d-aa68-5d0eb0f33ee5/). Bounded source search: `terms/OT1992/evidence/coleman_execution_source_search.md`. No contemporaneous execution return or death certificate was independently recovered; no vote count or opinion text is invented beyond what the cited sources report.
