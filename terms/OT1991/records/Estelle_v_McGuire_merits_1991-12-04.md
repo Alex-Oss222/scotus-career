@@ -65,7 +65,7 @@
 
 ## Sources and status
 
-- **Sources:** Official reporter text, 502 U.S. 62–75, read in full through Cornell LII's Public.Resource.Org transcription; Internet Archive Records and Briefs item `micro_IA40385013_0069`, including the docket and case papers supplied as complete PDFs and OCR; controlling pre-December 4 authorities identified in the Neutral Modeling Packet; current Term Workspace and the December 3 *Griffin* record.
+- **Sources:** Official reporter text, 502 U.S. 62–75, read in full through Cornell LII's Public.Resource.Org transcription; Internet Archive Records and Briefs item `micro_IA40385013_0069`, including the docket and case papers supplied as complete PDFs and OCR; controlling pre-December 4 authorities identified in the Neutral Modeling Packet; current Term Workspace and the December 3 *Griffin* record. Research cutoff: September 14, 2026.
 - **Historical comparator:** History reversed 6-2. Rehnquist's historical vote is replaced by Stone's approved vacate/remand vote. O'Connor and Stevens retain their historical separate position; the other non-Stone commitments match history after reconciliation. Comparator material is not in-world authority.
 - **Mode:** Single-conversation mode; true blindness was unavailable. The neutral file was opened and provisional non-Stone commitments were frozen before the comparator; Stone's file was opened last.
 - **Validation:** Chronology, participation, quorum, vote arithmetic, judgment/remedy, proposition coalitions, join compatibility, current-law dependency, source boundaries, and render projection checked. Validated and committed to Current Term State on September 14, 2026.

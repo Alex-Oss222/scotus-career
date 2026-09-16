@@ -14,7 +14,7 @@
 
 Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas participated at argument and at decision. No nonparticipation is established. Quorum: 9 (six required); five votes are required for a majority.
 
-**Law-Entering Snapshot:** January 27 start-of-day includes entries through January 22. Allen, 393 U.S. 544, Perkins, 400 U.S. 379, Dougherty County, 439 U.S. 32, and subsequent pre-divergence §5 cases supply the coverage inquiry. The December Campos denial created no precedent; its public dissent concerned implementation of an objected-to electoral plan. Norman addresses ballot-access burdens, not allocation of governing functions. No earlier simulated holding decides the present §5 boundary.
+**Law-Entering Snapshot:** January 27 start-of-day includes entries through January 22. Allen, 393 U.S. 544, Perkins, 400 U.S. 379, Dougherty County, 439 U.S. 32, and subsequent pre-divergence §5 cases supply the coverage inquiry. The October 29 Campos denial created no precedent; its public dissent concerned implementation of an objected-to electoral plan. Norman addresses ballot-access burdens, not allocation of governing functions. No earlier simulated holding decides the present §5 boundary.
 
 **Questions reached and reserved:** The granted questions and result are specified above; issue-specific limits, preserved matters and nonreach are specified in the holdings and post-decision law below. No excluded claim is adjudicated by implication.
 

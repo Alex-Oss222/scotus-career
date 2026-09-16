@@ -145,7 +145,7 @@ Official United States Reports, 502 U.S. 1301-1302, read in full; district-court
 **Render form: compact — reduced-Court 5-3 judgment and the only comparator difference is Stone replacing Rehnquist.**
 
 ## 1. Event
-*Zatko v. California*, 502 U.S. 16 (1991), lead No. 91-5052 and sixteen grouped dockets. Decided November 4, 1991, on seventeen motions for leave to proceed in forma pauperis under Rule 39.8. No underlying petition merits were before the Court.
+*Zatko v. California*, 502 U.S. 16 (1991), lead No. 91-5052 and companion Nos. 91-5111, 91-5166, 91-5167, 91-5244, 91-5246, 91-5307, 91-5331, 91-5332, 91-5401, 91-5416, 91-5476, 91-5583, 91-5594, 91-5692, 91-5730, and 91-5732. Decided November 4, 1991, on seventeen motions for leave to proceed in forma pauperis under Rule 39.8. No underlying petition merits were before the Court.
 
 ## 2. Participation
 Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter participated. Thomas took no part; no public reason was stated.

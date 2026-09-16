@@ -125,11 +125,11 @@ Source note: Official United States Reports, 502 U.S. 1301–1302, read in full;
 
 ---
 
-### *Zatko v. California* and grouped matters, lead No. 91-5052 and sixteen grouped dockets
+### *Zatko v. California* and companion matters, lead No. 91-5052 and sixteen companion dockets
 
 Fee-waiver motions denied, November 4, 1991
 
-In *Zatko v. California*, 502 U.S. 16 (1991), the Court considered seventeen motions for leave to proceed in forma pauperis under Rule 39.8. No underlying petition merits were before the Court. Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter participated. Thomas took no part; no public reason was stated.
+In *Zatko v. California*, 502 U.S. 16 (1991), lead No. 91-5052, with companion Nos. 91-5111, 91-5166, 91-5167, 91-5244, 91-5246, 91-5307, 91-5331, 91-5332, 91-5401, 91-5416, 91-5476, 91-5583, 91-5594, 91-5692, 91-5730, and 91-5732, the Court considered seventeen motions for leave to proceed in forma pauperis under Rule 39.8. No underlying petition merits were before the Court. Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter participated. Thomas took no part; no public reason was stated.
 
 The Court denied all seventeen fee-waiver motions, with leave to pay fees and submit compliant petitions by November 25, 1991. White, O'Connor, Scalia, Kennedy, and Souter formed the 5-3 majority denying fee status; Stone, Blackmun, and Stevens would allow it. The per curiam opinion is the opinion of the Court. Stevens dissented, joined by Stone and Blackmun.
 
