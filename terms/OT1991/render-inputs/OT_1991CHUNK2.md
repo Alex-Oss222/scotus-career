@@ -32,14 +32,14 @@ The Ninth Circuit judgment is reversed.
 
 ## 6. Holdings
 ### Prior-injury evidence
-**Holding and operative rule:** On federal habeas review, evidence of a child's prior nonaccidental injuries may be relevant to prove that the charged death was intentional even when the person who caused the earlier injuries is unknown. Admission for that nonidentity purpose does not itself violate due process, and a defendant's choice not to contest accident does not remove the State's burden to prove intentional killing.
+**Holding and operative rule:** On federal habeas review, evidence of a child's prior nonaccidental injuries may be relevant to prove that the charged death was intentional even when the identity of the person who caused the earlier injuries is unknown. Admission for that nonidentity purpose does not itself violate due process, and a defendant's choice not to contest accident does not remove the State's burden to prove intentional killing.
 
 **Authority:** White's opinion joined on this proposition by all eight participating Justices.
 
 **Controlling explanation:** Habeas relief does not lie for an error of state evidence law alone. The prosecution retained the burden to prove an intentional killing, and the repeated injuries supplied evidence that the fatal injury was not accidental. That inference did not itself identify McGuire as the abuser, but relevance to one required proposition does not disappear because the defense concentrates on another. *Winship* supplies the State's continuing elemental burden; *Lisenba* supplies the narrow fundamental-unfairness boundary. The Court does not create a general constitutional rule governing propensity evidence and does not decide whether California correctly applied its own evidence law. The Ninth Circuit therefore could not grant relief on the evidence-alone theory.
 
 ### Instructional use
-**Holding and operative rule:** An ambiguous instruction violates due process only when, read with the charge and trial as a whole, there is a reasonable likelihood the jury applied it in a way that relieved the State of proving an element. This instruction did not create that likelihood because it conditioned any inference on a finding that McGuire committed the prior acts and expressly prohibited a bad-character inference.
+**Holding and operative rule:** An ambiguous instruction violates due process only when, read with the charge and trial as a whole, there is a reasonable likelihood the jury applied it in a way that relieved the State of proving an element. The instruction here did not create such a reasonable likelihood because it conditioned any inference on the jury's finding that McGuire committed the prior acts and expressly prohibited a bad-character inference.
 
 **Authority:** White's opinion joined at this level by White, Blackmun, Scalia, Kennedy, and Souter; five of eight participants.
 
@@ -82,14 +82,14 @@ The Ninth Circuit judgment is affirmed.
 White delivered the opinion of the Court, joined by all participating Justices. No separate writing.
 
 ## 6. Holdings
-**Holding and operative rule:** Employment in an occupation listed by the LHWCA does not foreclose Jones Act seaman status because the LHWCA expressly excludes a vessel's master or crew. Receipt of voluntary LHWCA benefits without a final status adjudication does not preclude a Jones Act suit; overlapping recovery remains subject to statutory credit.
+**Holding and operative rule:** Employment in an occupation listed by the LHWCA does not foreclose Jones Act seaman status because the LHWCA expressly excludes a vessel's master or crew. Receipt of voluntary LHWCA benefits without a final adjudication of status does not preclude a Jones Act suit; any overlapping recovery remains subject to statutory credit.
 
-**Authority:** White's unanimous participating-Court opinion.
+**Authority:** White's opinion joined by all eight participating Justices.
 
 **Controlling explanation:** The occupational definition and the crew exclusion must be read together. A ship-repair worker may fall outside LHWCA coverage if the worker proves crew status under *Wilander*, which requires a substantial employment-related connection to a vessel in navigation and contribution to the vessel's function without demanding traditional navigational duties. Gizoni's claimed assignment to floating platforms, his work aboard them, and his role during towing create genuine disputes that occupational labels, lack of propulsion, and absence of living quarters do not conclusively resolve. *Tipton* supplies the rule that voluntary compensation receipt does not decide seaman status. Congress provided mechanisms for moving between remedies and crediting payments, rather than an election rule forcing an injured worker to refuse immediate compensation. A final award, settlement, conclusive record, ultimate status, negligence, unseaworthiness, maintenance and cure, and damages remain open.
 
 ## 7. Precedent Treatment
-*Wilander*, *Swanson*, and *Tipton* are applied and unchanged. *MCorp* remains confined to its express bank-regulatory review statute.
+*Wilander*, *Swanson*, and *Tipton* are applied and unchanged. *MCorp* is confined to its express banking-review statute and does not migrate to this scheme.
 
 ## 8. Law After Decision
 Effective December 4, listed occupational work and voluntary, unadjudicated LHWCA benefits are not categorical bars to a Jones Act status claim.
@@ -126,16 +126,16 @@ White delivered the opinion of the Court, joined by all participating Justices. 
 
 ## 6. Holdings
 ### Jury entitlement
-**Holding and operative rule:** A claim for wages and benefits lost because hiring-hall referrals allegedly were withheld seeks compensatory legal relief and carries a Seventh Amendment jury right. Accompanying equitable requests do not eliminate that right on legal issues.
+**Holding and operative rule:** A union member's claim for wages and benefits lost because hiring-hall referrals allegedly were withheld is a claim for compensatory legal relief carrying a Seventh Amendment jury right. Accompanying equitable requests do not eliminate the jury right on the legal issues.
 
-**Authority:** White's unanimous participating-Court opinion.
+**Authority:** White's opinion joined by all eight participating Justices.
 
 **Controlling explanation:** *Terry* supplies both the historical-analogue inquiry and the more important classification of the remedy. Wooddell seeks replacement for earnings he says retaliation prevented him from obtaining, not return of identified funds held by the union or backpay incidental to reinstatement in a former job. That compensation has the character of legal damages. The combined request for injunctive relief does not permit a court to withhold a jury from the legal claim; the forum instead sequences legal and equitable issues consistently with the Seventh Amendment. The holding resolves entitlement to the factfinder, not whether retaliation occurred or what amount, if any, is recoverable.
 
 ### Section 301 coverage
-**Holding and operative rule:** Section 301 permits an individual beneficiary of a qualifying contract between labor organizations to sue for its violation. An international constitution binding the international and its local retains its interunion-contract character when a member invokes it.
+**Holding and operative rule:** Section 301 permits an individual union member who is a beneficiary of a qualifying contract between labor organizations to sue for its alleged violation. An international constitution binding the international and its local retains its interunion-contract character when a member invokes it.
 
-**Authority:** White's unanimous participating-Court opinion.
+**Authority:** White's opinion joined by all eight participating Justices.
 
 **Controlling explanation:** Section 301 identifies covered contracts; it does not confine plaintiffs to the organizations that signed them. *Local 334* supplies the classification of an international constitution as a contract between labor organizations, and *Evening News* establishes that individual beneficiaries may enforce agreements within §301. Uniform federal interpretation serves the same function whether a union or a protected beneficiary brings the claim. Ordinary contract predicates still apply, and fear of trivial disputes cannot add an organizational-plaintiff restriction absent from the statute. The Court does not federalize every internal union dispute, classify standalone local bylaws, or decide whether defendants breached an enforceable promise.
 
@@ -186,14 +186,14 @@ The lower court's correction requiring interest from collection remains intact. 
 
 ## 6. Holdings
 ### Timing and scope of protection
-**Holding and operative rule:** Once a compulsory-bar member makes a continuing objection to financing nongermane ideological activity, the bar may not demand repeated objections to each announced position or leave the reasonably disputed share available for use until each new objection. It must explain anticipated chargeable and nonchargeable activity and protect disputed funds before use through a reasonable reduction or adequate interest-bearing escrow; the bar bears the chargeability burden.
+**Holding and operative rule:** Once a compulsory-bar member makes a continuing objection to financing nongermane ideological activity, the bar may not require repeated objections to each announced position or leave the reasonably disputed share available for use until each new objection arrives. The bar must provide adequate advance explanation and protect the disputed share before use through a reasonable reduction or adequate interest-bearing escrow; it retains the burden to justify chargeability.
 
 **Authority:** Stone's opinion joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy, Souter, and Thomas; eight of nine participants.
 
 **Controlling explanation:** *Keller* applies the compelled-dues safeguards to an integrated bar without disturbing compulsory support for activities germane to regulation of the profession and improvement of legal services. *Hudson* requires explanation, prompt review, and protection of disputed funds, while *Ellis* establishes that later reimbursement and interest do not undo temporary compelled ideological financing. Florida collects annual dues before its twice-monthly announcements and does not escrow a disputed share until a member objects to a particular position. Budget estimates and protection of a reasonably sufficient amount can address uncertainty without exact advance prediction. Under *Abood*, a member must make opposition known, but the organization then bears the chargeability burden; repeated 45-day waivers improperly shift monitoring back to the dissenter. The Court leaves accounting detail and injunction terms to remand and adopts no universal opt-in requirement.
 
 ### Impartial review
-**Holding and operative rule:** Bar membership alone does not establish that every arbitrator chosen through a procedure giving the bar and objector one selection each and requiring a mutually selected or judicially appointed chair is constitutionally biased. Actual bias, direct stake, or obstructive delay remains reviewable.
+**Holding and operative rule:** Membership in the compulsory bar, standing alone, does not establish that every arbitrator chosen through a procedure giving the bar and objector one selection each and requiring a mutually selected or judicially appointed chair is constitutionally biased. Actual bias, a direct stake, or obstructive delay remains subject to review.
 
 **Authority:** Stone's opinion joined on this proposition by all nine participating Justices.
 
@@ -236,7 +236,7 @@ The Second Circuit judgment is reversed.
 O'Connor delivered the opinion of the Court, joined by Stone, White, Stevens, Scalia, and Souter. Blackmun and Kennedy each concurred in the judgment.
 
 ## 6. Holdings
-**Holding and operative rule:** A law selecting crime-related expression for a special financial escrow is content based and must be necessary and narrowly drawn to serve a compelling interest. Section 632-a fails because it burdens an entire covered contract, including incidental discussion and unprosecuted admissions, while leaving other assets outside its special reach; it may not be enforced against this publishing contract.
+**Holding and operative rule:** A law that selects crime-related expression for a special financial escrow is content based and must be necessary and narrowly drawn to serve a compelling interest. Section 632-a fails because it burdens an entire covered contract, including incidental discussion and unprosecuted admissions, while leaving other assets outside its special reach; it therefore may not be enforced against this publishing contract.
 
 **Authority:** O'Connor's opinion joined by Stone, White, Stevens, Scalia, and Souter; six of eight participants.
 
@@ -279,7 +279,7 @@ The Eleventh Circuit judgment is affirmed.
 O'Connor delivered the opinion of the Court, joined by Stone, White, Scalia, Kennedy, and Souter. Blackmun dissented, joined by Stevens.
 
 ## 6. Holdings
-**Holding and operative rule:** An administrative deportation hearing governed by the INA's exclusive procedure rather than by 5 U.S.C. §554 is not an adjudication “under section 554” and is outside EAJA §504's administrative fee authorization, even if it resembles a formal APA adjudication.
+**Holding and operative rule:** An administrative deportation hearing governed by the INA's exclusive procedure rather than by 5 U.S.C. §554 is not an adjudication “under section 554” and therefore is outside EAJA §504's administrative fee authorization, even if the hearing resembles a formal APA adjudication.
 
 **Authority:** O'Connor's opinion joined by Stone, White, Scalia, Kennedy, and Souter; six of eight participants.
 
@@ -324,7 +324,7 @@ Stevens delivered the opinion for a unanimous Court, joined by Stone, White, Bla
 ## 6. Holdings
 **Holding and operative rule:** Payments on long-term debt may qualify for the ordinary-course exception in the then-current §547(c)(2). Debt maturity is not an additional categorical exclusion, but the creditor must prove every enacted ordinary-course element for the particular payments.
 
-**Authority:** Stevens's opinion states the proposition for all nine Justices; Scalia's concurrence agrees with the statutory holding and judgment.
+**Authority:** Stevens's opinion states the proposition for all nine Justices; Scalia's separate writing agrees with the statutory holding and judgment.
 
 **Controlling explanation:** Section 547(c)(2) contains no distinction between short- and long-term debt. Congress removed the former 45-day restriction and retained three express ordinary-course requirements, so a court may not recreate a maturity bar from legislative purpose or the amendment's perceived motivating examples. *Ron Pair* supplies the obligation to apply operative Code text when the result is not demonstrably contrary to congressional design. Equality of distribution and discouragement of destructive collection races coexist within the enacted preference rule and its exceptions; neither permits omission of the exception's words. Eligibility does not establish that these interest and commitment-fee payments were incurred and paid in both parties' ordinary course and according to ordinary business terms. Those questions, including appellate challenges not addressed under the categorical rule, remain for remand with the Bank bearing §547(g)'s burden.
 

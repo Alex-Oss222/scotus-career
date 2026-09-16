@@ -26,14 +26,14 @@ Certiorari granted; judgment vacated; case remanded.
 Per curiam opinion joined by every participating Justice; no separate writing.
 
 ## 6. Holdings
-**Holding and operative rule:** A single timely motion asking a district court to alter a suppression ruling renders that ruling nonfinal for appeal purposes until the motion is decided, even when the motion renews a ground the Government earlier abandoned. The full appeal period begins upon disposition; the rule does not decide whether the renewed ground remains waived on the merits.
+**Holding and operative rule:** A single timely motion asking a district court to alter a suppression ruling renders that ruling nonfinal for appeal purposes until the motion is decided, even when the motion renews a ground the Government earlier abandoned. The full appeal period begins upon disposition of the motion; this rule does not determine whether the renewed ground remains waived on the merits.
 
-**Authority:** Unanimous per curiam opinion.
+**Authority:** Per curiam opinion joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; unanimous participating Court.
 
 **Controlling explanation:** The Court applies *United States v. Healy*, which supplies the rule that a timely criminal rehearing request suspends finality, and *United States v. Dieter*, which rejects classifications based on the kind or strength of error asserted. The Government filed one motion within thirty days of suppression and then appealed within thirty days after denial. Its earlier abandonment of consent may bear on the merits, but the motion still asked the District Court to alter adjudicated rights. Making appellate time depend on an advance assessment of whether the renewed argument was strong, preserved, or likely to succeed would leave litigants guessing about the jurisdictional date. *Department of Banking v. Pink* remains distinct because the filing there did not seek substantive alteration. The Court therefore decides only when appellate finality attached. It leaves open bad-faith motions, successive motions, the substantive effect of the Government's abandonment, and the Fourth Amendment validity of the search.
 
 ## 7. Precedent Treatment
-*Healy* and *Dieter* are applied; *Pink* is distinguished. No appeal period or preservation rule changes.
+**Precedent treatment:** *Healy* is applied to all timely substantive reconsideration motions; *Dieter* forecloses a merits-strength exception; *Pink* is distinguished as involving no request to alter adjudicated rights.
 
 ## 8. Law After Decision
 The timely-reconsideration rule enters law October 15, 1991.
@@ -160,14 +160,14 @@ All seventeen fee-waiver motions denied, with leave to pay fees and submit compl
 Per curiam opinion for the Court. Stevens dissented, joined by Stone and Blackmun.
 
 ## 6. Holdings
-**Holding and operative rule:** When the Court is satisfied that pending submissions are frivolous and repeated frivolous filings constitute extreme abuse, Rule 39.8 permits denial of in-forma-pauperis status. The Court may require fees and compliant form by a deadline without deciding merits or imposing a broader ban.
+**Holding and operative rule:** When the Court is satisfied that the pending submissions are frivolous and the applicants' repeated frivolous filings constitute extreme abuse of its process, Rule 39.8 permits denial of in-forma-pauperis status. Denial may require payment of the docketing fee and compliance with ordinary petition form rules by a stated deadline; it does not decide the petitions' merits or impose a broader prospective filing ban.
 
-**Authority:** Per curiam majority of White, O'Connor, Scalia, Kennedy, and Souter.
+**Authority:** Per curiam opinion joined by White, O'Connor, Scalia, Kennedy, and Souter; majority of the eight participating Justices.
 
 **Controlling explanation:** Rule 39.8 supplies discretion to deny fee-waived filing when the Court is satisfied that a current petition or application is frivolous or malicious. The Court finds that predicate here in the grouped submissions and considers the applicants' extraordinary histories—73 petitions for Zatko and more than 45 for Martin—evidence that the present filings continue an abuse of process. *In re McDonald* and *In re Sindram* supply authority for targeted responses that preserve judicial resources for substantial claims. The Court does not adopt a numerical threshold, make prior denials alone conclusive, or close the courthouse prospectively. Instead it denies the pending fee motions and permits each applicant to place the petitions on the paid docket by November 25 in the required form. The Court leaves ordinary screening available if they comply and does not reach any underlying conviction, claim, petition merits, or constitutional entitlement to unrestricted free filing.
 
 ## 7. Precedent Treatment
-*McDonald* and *Sindram* are applied as authority for tailored process protection, not extended to a categorical ban.
+**Precedent treatment:** *McDonald* and *Sindram* are applied as authority for tailored process protections; neither is extended to a categorical ban.
 
 ## 8. Law After Decision
 Rule 39.8 remains discretionary; extreme repetitive frivolous use may justify fee denial for identified submissions.
@@ -203,14 +203,14 @@ The Third Circuit judgment is affirmed.
 O'Connor delivered the opinion of the Court, joined by all participating Justices. No separate writing.
 
 ## 6. Holdings
-**Holding and operative rule:** A state officer sued individually is a §1983 “person” even for acts undertaken through official authority, and state immunity does not independently bar recovery from that officer personally. Plaintiffs must prove the officer's own violation under color of law, and personal immunities remain available.
+**Holding and operative rule:** A state officer sued in an individual capacity is a “person” under 42 U.S.C. §1983 even when the challenged act was undertaken through official authority, and state sovereign immunity does not independently bar a judgment payable by that officer personally. The plaintiff must still prove the officer's own violation under color of law, and the officer retains applicable personal immunities.
 
-**Authority:** O'Connor's unanimous participating-Court opinion.
+**Authority:** O'Connor's opinion for the Court, joined by Stone, White, Blackmun, Stevens, Scalia, Kennedy, and Souter; unanimous participating Court.
 
 **Controlling explanation:** Section 1983 reaches a “person” who, under color of state law, causes a federal-rights deprivation. *Kentucky v. Graham* supplies the capacity distinction: an official-capacity claim represents the government, while an individual-capacity claim seeks liability from the officer. *Will v. Michigan Department of State Police* excluded States and official-capacity damages defendants; its reference to officials acting officially described the capacity in which they were sued, not every act performed with state authority. *Scheuer v. Rhodes* confirms that executive officers may face personal liability, and *Monroe v. Pape* supplies the principle that misuse of official power remains action under color of law. Here the Court of Appeals construed the damages claims as personal claims against Hafer. Her authority to discharge employees provides the state-law nexus; it does not convert her into Pennsylvania for every remedy. Concerns about lawful administration are addressed through personal immunity doctrine, not categorical personhood. The Court leaves the alleged constitutional violations, qualified immunity, damages, and entitlement to reinstatement unresolved.
 
 ## 7. Precedent Treatment
-*Will* is clarified and preserved; *Graham*, *Scheuer*, and *Monroe* are applied; *Ex parte Young* remains unchanged.
+**Precedent treatment:** *Will* is clarified and preserved for States and official-capacity damages; *Graham*, *Scheuer*, and *Monroe* are applied. *Ex parte Young*'s prospective-relief channel remains unchanged.
 
 ## 8. Law After Decision
 The individual-capacity coverage rule enters law November 5, 1991; immunity doctrine does not change.
@@ -246,9 +246,9 @@ No. 90-913 reversed; No. 90-914 affirmed.
 Stevens delivered the opinion of the Court, joined by all participating Justices. No separate writing.
 
 ## 6. Holdings
-**Holding and operative rule:** Section 1818(i)(1) bars a district court from enjoining an ongoing Board notice-or-order proceeding except through §1818's channels. Neither bankruptcy jurisdiction nor *Kyne* supplies an alternative where regulatory proceedings are excepted from the stay and meaningful final-order review remains.
+**Holding and operative rule:** Section 1818(i)(1) bars a district court from enjoining an ongoing Board notice-or-order proceeding except through channels that §1818 itself authorizes. Neither general bankruptcy jurisdiction nor *Leedom v. Kyne* supplies an alternative intervention channel where the proceeding falls within the governmental regulatory exception and meaningful review of a final order remains available.
 
-**Authority:** Stevens's unanimous participating-Court opinion.
+**Authority:** Stevens's opinion for the Court, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, and Souter; unanimous participating Court.
 
 **Controlling explanation:** Section 1818(i)(1) expressly withdraws jurisdiction to affect the issuance or enforcement of Board notices or orders except as the statute provides. Congress separately authorized prompt challenges to temporary orders, appellate review of final orders, and Board enforcement actions; this adversary action fits none. Bankruptcy Code §362(b)(4) supplies an exception allowing governmental police and regulatory proceedings to continue. Sections 362(a)(3) and (a)(6) do not stop these ongoing, nonfinal proceedings, which have not seized estate property or recovered a prepetition claim. Section 1334 does not alter the result because the Board is not another “court,” and continuation before a final order does not displace bankruptcy-court control of estate property. *Leedom v. Kyne* supplied exceptional review when a specific statutory right otherwise would be lost. Here §1818(h)(2) preserves meaningful judicial review of the regulation's authority and application after a final order, while §1818(i)(1) directly manifests preclusion now. The Court reserves the regulation's validity and any actual conflict at enforcement.
 
@@ -289,14 +289,14 @@ The Seventh Circuit judgment is affirmed.
 Scalia delivered the opinion of the Court, joined by Stone, White, Stevens, O'Connor, Kennedy, and Souter. Blackmun concurred in the judgment.
 
 ## 6. Holdings
-**Holding and operative rule:** A federal general verdict on a multiple-object conspiracy need not be set aside merely because evidence is inadequate for one legally valid object when another is supported beyond a reasonable doubt. The rule does not govern legally invalid objects, failure on every route, element-diluting instructions, or a preserved independent unanimity defect.
+**Holding and operative rule:** A general guilty verdict on a federal multiple-object conspiracy need not be set aside merely because the evidence is inadequate for one legally valid object when another object is supported sufficiently under the unchanged beyond-a-reasonable-doubt standard. This rule does not govern a legally invalid object, failure of proof on every route, an element-diluting instruction, or a properly presented independent unanimity defect.
 
-**Authority:** Scalia's opinion joined on this proposition by Stone, White, Stevens, O'Connor, Kennedy, and Souter; seven of eight participants.
+**Authority:** Scalia's opinion for the Court, joined at this proposition by Stone, White, Stevens, O'Connor, Kennedy, and Souter; seven of eight participating Justices. Blackmun concurred only in the judgment.
 
 **Controlling explanation:** *Stromberg v. California* and *Yates v. United States* supply the rule that a general verdict cannot stand when the jury may have selected a legally forbidden basis, because jurors cannot be expected to identify and disregard an invalid legal theory. *Turner v. United States* supplies the different rule for evidentiary inadequacy: jurors are ordinarily equipped to reject a lawful theory that the proof does not support. Both alleged objects here were legally capable of constituting a §371 conspiracy. The Government conceded that evidence did not connect Griffin to the DEA object, but the record contained sufficient proof on the IRS object under *Jackson v. Virginia*, which preserves the rational-factfinder inquiry, and *Winship*, which preserves proof beyond reasonable doubt. The trial court should ordinarily withdraw an unsupported route when timely asked, but preferable trial administration is not an independent constitutional reversal rule. The Court leaves legal invalidity, failure on all routes, element-diluting instructions, and an independently preserved unanimity issue open.
 
 ## 7. Precedent Treatment
-*Turner* is applied; *Yates* and *Stromberg* are distinguished and preserved; *Winship* and *Jackson* remain unchanged.
+*Turner* is applied; *Yates* and *Stromberg* are distinguished and preserved for legal invalidity; *Winship* and *Jackson* remain unchanged.
 
 ## 8. Law After Decision
 The factual-versus-legal inadequacy distinction enters law December 3, 1991.
