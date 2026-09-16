@@ -2,7 +2,7 @@
 
 ## Chunk metadata
 
-October Term: 1992. Chunk: 6. Completed events supplied for rendering: 11. Chronological range: April 26–May 17, 1993. One stopped matter: Moreau v. Klevenhagen, No.92-1, planned May3. Same-day display order creates no legal priority. This is the eleven-block projection, not a public render.
+October Term: 1992. Chunk: 6. Completed events supplied for rendering: 12. Chronological range: April 26–May 17, 1993. No stopped matter remains in this chunk; Moreau v. Klevenhagen, No.92-1, is completed by correction (see below). Same-day display order creates no legal priority. This is the eleven-block projection, not a public render.
 
 - 1993-04-26 — United States v. Olano; No. 91-1306.
 - 1993-04-26 — United States v. California; No. 91-2003.
@@ -16,11 +16,7 @@ October Term: 1992. Chunk: 6. Completed events supplied for rendering: 11. Chron
 - 1993-05-14 — Blodgett v. Campbell; No. A-851.
 - 1993-05-17 — Cardinal Chemical Co. v. Morton International, Inc.; No. 92-114.
 
-| Stopped matter | Exact operator blocker |
-|---|---|
-| Moreau v. Klevenhagen, No.92-1 | Section II v1.1 requires revalidation against 29 U.S.C. §207(o)(2)’s transition rule: for employees described in subclause (A)(ii) hired before April 15, 1986, the regular compensatory-time practice in effect on April 15, 1986 constitutes an agreement or understanding. The judgment below relied on that route for earlier hires and individual agreements for later hires; the supplied neutral packet omitted the operative transition. No approved conditional branch resolves its effect on the earlier-hire component. Supply a refreshed neutral packet including that text and renewed Stone authorization for the affected component. No Court action is entered; the merits matter remains open. |
-
-[Official statutory text and record, 508 U.S.22, 25 n.2 and 33 n.17](https://tile.loc.gov/storage-services/service/ll/usrep/usrep508/usrep508022/usrep508022.pdf); [judgment below, 956 F.2d516](https://static.case.law/f2d/956/html/0516-01.html).
+No stopped matter remains in this chunk. Moreau v. Klevenhagen, No.92-1, is completed by correction, implementing Stone's approved v1.2 supplement; see its Render Input block above and its Canonical Decision Record at `terms/OT1992/records/Moreau_v_Klevenhagen_merits_1993-05-03.md`.
 
 Standing-fallback use: none. No provisional commitments, historical reconciliation or private Stone substance is supplied.
 
@@ -762,6 +758,79 @@ Supreme Court merits review is complete. The Ninth Circuit must evaluate the per
 ### Source Notes
 
 [Official reported source, 508 U.S. 77](https://tile.loc.gov/storage-services/service/ll/usrep/usrep508/usrep508077/usrep508077.pdf); [judgment below](https://static.case.law/f2d/960/html/0854-01.html) supports the dates, underlying record, review posture and cited legal texts. The disposition and writings supplied above state this Court’s action; the reporter locator is source identification and does not substitute a different decision. No verbatim historical opinion is presented as an authenticated quotation by this Court. The question is a reconstructed issue statement, not a quotation of the grant. Source cutoff: 1993-05-03. No later follow-on filing or result is reported.
+
+---
+
+## Moreau v. Klevenhagen — 1993-05-03
+
+### Event
+
+Moreau v. Klevenhagen; No. 92-1; October Term 1992. Argued: 1993-03-01; decided 1993-05-03. Source locator: 508 U.S. 22 (1993). Fifth Circuit, 956 F.2d 516 (1992). Certiorari review of the identified judgment.
+
+Question: whether a public employer may use individual 29 U.S.C. § 207(o)(2)(A)(ii) compensatory-time agreements when employees selected a representative organization that state law does not authorize to bargain the § 207(o)(2)(A)(i) collective agreement, and whether § 207(o)(2)'s transition provision independently supplies the required agreement, through the compensatory-time practice in effect April 15, 1986, for employees hired before that date.
+
+Render form: compact. Basis: unanimous judgment and rationale on both statutory tracks; no material change from the historical disposition.
+
+### Participation
+
+Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas participate at argument (1993-03-01) and decision (1993-05-03). No recusal or other nonparticipation is established. Nine participants; quorum six; five votes suffice for full-Court action.
+
+### Public Action
+
+Affirmed, 9–0, on both statutory tracks.
+
+### Judgment & Remedy
+
+| Component | Judgment and named votes | Remedy and limits |
+|---|---|---|
+| Earlier-hire component (hired before April 15, 1986) | Affirmed, 9–0. Support: Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | The regular compensatory-time practice in effect April 15, 1986 satisfies § 207(o)(2)'s transition rule as the required agreement for that cohort. |
+| Later-hire component | Affirmed, 9–0. Support: Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | Individual § 207(o)(2)(A)(ii) agreements remain valid because no legally authorized representative could make the § 207(o)(2)(A)(i) agreement. |
+
+### Opinion Topology
+
+Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, and Thomas. No separate writing.
+
+### Holdings
+
+#### The earlier-hire component: the transition rule supplies the agreement
+
+**Holding and operative rule:** For employees described in § 207(o)(2)(A)(ii) who were hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement or understanding the statute otherwise requires before the work is performed, operating independently of any further individual or collective agreement for that cohort.
+
+**Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
+
+**Controlling explanation:** Section 207(o)(2) does not leave employees hired before the FLSA's public-sector amendments without a route to compensatory time merely because no contemporaneous individual agreement was separately documented. Congress's transition text supplies the missing agreement for that already-employed group by reference to the practice actually in effect when the amendments took hold. This does not excuse an employer from the ordinary individual-agreement route for anyone hired afterward, and does not convert a unilateral employer practice into an agreement outside the transition cohort the statute defines.
+
+**Precedent treatment:** No prior Supreme Court holding addressed this transition provision; the Court applies its text without displacing any earlier authority.
+
+#### The later-hire component: individual agreements where no representative could bind
+
+**Holding and operative rule:** Where employees have selected a representative organization that state law does not authorize to enter a binding § 207(o)(2)(A)(i) agreement, the employer may rely on individual § 207(o)(2)(A)(ii) agreements with employees hired on or after April 15, 1986, rather than lose the compensatory-time option entirely for want of a legally capable collective representative.
+
+**Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
+
+**Controlling explanation:** The statutory reference to an agreement with "a representative" does not compel recognition of an entity state law does not permit to make the relevant binding commitment. Congress created a limited compensatory-time option grounded in actual consent, not a general public-sector collective-bargaining entitlement; state law determines whether a selected organization can make the collective agreement, while federal law determines the resulting overtime consequences. Individual consent remains necessary for this cohort.
+
+**Precedent treatment:** No Supreme Court precedent is overruled, limited, or extended beyond its own terms.
+
+### Precedent Treatment
+
+No prior Supreme Court holding addressed the § 207(o)(2) transition provision or the individual-agreement route on this record; the Court applies the statute's text without displacing any earlier authority.
+
+### Law After Decision
+
+Before: § 207(o)(2)'s transition provision and the individual-agreement route for employees without a legally capable collective representative had not been addressed. After: both routes are confirmed as applied — the pre–April 15, 1986 practice satisfies the transition rule for that cohort, and individual agreements remain available for later hires absent a legally authorized representative. No general federal collective-bargaining right, no exemption from overtime law, and no presumption of individual consent is created.
+
+### Separate Writings
+
+No separate writing is published.
+
+### Procedure After Action
+
+Supreme Court review is complete. The Fifth Circuit's judgment is affirmed on both statutory tracks. No remand proceeding, new factual finding, or damages calculation is ordered.
+
+### Source Notes
+
+[Official reported source, 508 U.S. 22, 25 n.2 and 33 n.17](https://tile.loc.gov/storage-services/service/ll/usrep/usrep508/usrep508022/usrep508022.pdf); [judgment below, 956 F.2d 516](https://static.case.law/f2d/956/html/0516-01.html) support the dates, underlying record, review posture, and cited statutory text. The disposition and writings supplied above state this Court's action; the reporter locator is source identification and does not substitute a different decision. No verbatim historical opinion is presented as an authenticated quotation by this Court. The question is a reconstructed issue statement, not a quotation of the grant. Source cutoff: 1993-05-03. No later follow-on filing or result is reported.
 
 ---
 

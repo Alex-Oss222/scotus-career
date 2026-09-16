@@ -3,7 +3,7 @@
 ## Chunk metadata
 
 - October Term: 1992.
-- Events rendered: 11 completed Court events listed below. This file supplies inputs; no public render is written by this Run.
+- Events rendered: 12 completed Court events listed below (11 from the original Run plus Demos v. Storrie, completed by correction). This file supplies inputs; no public render is written by this Run.
 - Chronological range: March 3–24, 1993. Same-day uncoordinated events share entering law and have no implied internal priority. March 24 also includes the uncompleted McDermott event in chunk 5.
 
 | Effective date | Completed event | Action |
@@ -19,12 +19,11 @@
 | 1993-03-23 | Saudi Arabia v. Nelson | Intentional claims dismissed under asserted FSIA exception 8–1, six-Justice nature/basis rationale; warning dismissal 5–4 without a majority warning rationale. |
 | 1993-03-24 | Cincinnati v. Discovery Network | Seven-to-two affirmance: content-selected commercial newsrack ban lacks reasonable fit and is not content neutral; incremental and lawful neutral regulation preserved. |
 | 1993-03-24 | Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership | Five-to-four affirmance allowing these late Chapter 11 claims; carelessness may be neglect, equitable excusability considers all circumstances, attorney conduct fully attributed, express deadline exceptions retained. |
+| 1993-03-08 | Demos v. Storrie | IFP granted, 9–0; certiorari denied in the ordinary course; prospective filing restriction declined, 9–0. Completed by correction, implementing Stone's approved v1.2 supplement. |
 
 ### Stopped matters
 
-| Case or matter | Exact blocker |
-|---|---|
-| Demos v. Storrie, No. 92-6846 | Stone's v1.1 supplement requires renewed approval against the actual November 2 Martin holding requiring a filing-specific frivolousness determination and the recovered petition's allegation that official interference prevented a timely appeal. The supplied conditional language does not resolve that changed premise. No Court action is entered; the IFP motion and possible prospective filing condition remain open. |
+No stopped matter remains in this chunk. Demos v. Storrie is completed by correction; see its Render Input block below and its Canonical Decision Record at `terms/OT1992/records/Demos_v_Storrie_fee_motion_1993-03-08.md`.
 
 ---
 
@@ -625,6 +624,75 @@ The judgment granting conditional habeas relief on the specified instruction gro
 ## Source Notes
 
 [Official report, 507 U.S. 272](https://tile.loc.gov/storage-services/service/ll/usrep/usrep507/usrep507272/usrep507272.pdf) verifies identity, date, paper submission, trial-record facts and the historical writings. [Original appendix](https://archive.org/download/micro_IA40385013_0347/micro_IA40385013_0347%203.%20Appendix.pdf) supplies the complete Eighth Circuit decision and separate positions, its PartG default ruling, Missouri decision, statutory and instruction materials and the sentencing conference. The actual Graham and Herrera decisions of January 25, 1993 supply the governing current-term rules, at the scope stated in Holdings. No quotation from simulated judicial prose is offered. Research cutoff March 8, 1993; no later disposition of Lashley's case is asserted.
+
+---
+
+## Event
+
+Demos v. Storrie, No. 92-6846, October Term 1992. In forma pauperis fee motion and proposed prospective filing restriction decided March 8, 1993; no oral argument. Historical report locator: 507 U.S. 290. Certiorari sought to review the Ninth Circuit's affirmance, 962 F.2d 13 (May 11, 1992), of the denial of leave to file a §1983 complaint under an existing prefiling order treated as settled law of the case for want of a timely appeal. The recovered petition alleges official interference prevented that timely appeal.
+
+Render form: compact. Basis: unanimous disposition on the fee and prospective-restriction questions, directly following the Martin v. District of Columbia Court of Appeals rule (November 2, 1992); no fracture.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas participate. No recusal or other nonparticipation is established. Nine participants; quorum six; five votes suffice for full-Court action; four affirmative votes would grant certiorari.
+
+## Public Action
+
+IFP granted, 9–0; certiorari denied in the ordinary course; prospective filing restriction declined, 9–0.
+
+## Judgment & Remedy
+
+| Component | Judgment and named votes | Remedy and limits |
+|---|---|---|
+| IFP motion | Granted, 9–0. Support: Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | Petition filed without prepayment. |
+| Certiorari | Denied; poll not published. | Ninth Circuit judgment undisturbed without merits approval; present petition proceeding closed. |
+| Prospective filing restriction | Declined, 9–0. Support: Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | No restriction on unidentified future civil or criminal filings. |
+
+## Opinion Topology
+
+Per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No separate writing.
+
+## Holdings
+
+##### The official-interference allegation is not defeated by filing history
+
+**Controlling proposition:** Rule 39.8 permits denial of leave to file without prepayment only upon a finding that the particular petition is frivolous or malicious; a documented pattern of prior unsuccessful filings does not substitute for that finding. Demos's allegation that official interference prevented a timely appeal of the underlying prefiling order is a particular, non-conclusory claim that clears the nonfrivolousness threshold on this record.
+
+**Authority:** Per curiam opinion, joined by all nine participating Justices.
+
+**Controlling explanation:** The Court holds that Demos's documented history does not dispose of the paper now before it, for the reason stated in Martin: Zatko permits discretionary fee denial for an identified frivolous submission in an extreme pattern of abuse, but does not make earlier denials conclusive of a later, different petition's character. The Ninth Circuit treated the original prefiling order's validity as settled because it went unappealed; Demos's allegation that official interference caused that default goes directly to whether the unappealed-finality premise should control, rather than merely relitigating the personal grievance the order already addressed. The Court does not credit the allegation as true and does not find that it would excuse the default; it decides only that the allegation is not so insubstantial as to be frivolous or malicious.
+
+##### No prospective filing restriction on this record
+
+**Controlling proposition:** The Court declines to impose a prospective fee-and-form condition on Demos's unidentified future civil-certiorari petitions because the established record does not show that individualized treatment of particular filings is inadequate.
+
+**Authority:** Per curiam opinion, joined by all nine participating Justices.
+
+**Controlling explanation:** For the reasons stated in Martin, the remedy remains confined to the filing actually before the Court. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record, particularly where one present filing raises a distinct, non-frivolous allegation sufficient to permit filing.
+
+## Precedent Treatment
+
+- Zatko v. California, 502 U.S. 16 (November 4, 1991): applied as the existing discretionary, particular-submission rule; its extreme-abuse finding does not establish the frivolousness of a different current petition.
+- Martin v. District of Columbia Court of Appeals, No. 92-5584 (November 2, 1992): applied; its filing-specific frivolousness standard controls this later fee motion, and its unanimous decline of a prospective restriction controls here.
+- In re Demos, 500 U.S. 16 (1991): distinguished; its narrower, earlier extraordinary-writ restriction addressed different filings and remains in force within its own scope.
+- In re McDonald, 489 U.S. 180 (1989); In re Sindram, 498 U.S. 177 (1991): preserved as authority for targeted protection against extraordinary-writ abuse; no extension to all future civil-certiorari petitions is made here.
+
+## Law After Decision
+
+Before: Martin's filing-specific Rule 39.8 standard had not yet been applied to a later petition. After: it is applied, not replaced — Demos's official-interference allegation clears the low filing threshold on this record. No numerical test, categorical ban, or mandatory warning prerequisite is created. The refusal of prospective relief is confined to this record.
+
+## Separate Writings
+
+No separate writing is published.
+
+## Procedure After Action
+
+The IFP motion is granted and certiorari is denied; the petition proceeding is closed and the Ninth Circuit's judgment remains undisturbed. No prospective filing restriction issues. In re Demos's earlier, narrower restriction remains in force within its own original scope.
+
+## Source Notes
+
+[Original petition](https://archive.org/download/micro_IA40385013_0424/micro_IA40385013_0424%202.%20Petition%20for%20Writ%20of%20Certiorari.pdf) and [Ninth Circuit disposition, 962 F.2d 13](https://law.justia.com/cases/federal/appellate-courts/F2/962/13/91800/) support the dates, underlying record, and posture. The disposition and holdings supplied above state this Court's action; the reporter locator is source identification, not a substituted decision. No verbatim historical opinion is presented as an authenticated quotation. Research cutoff March 8, 1993; no later disposition is asserted.
 
 ---
 
