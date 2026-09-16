@@ -1,6 +1,6 @@
 # October Term 1992 — Term Workspace
 
-Updated September 16, 2026 after the October Term 1992 chunk 4 Run. Eleven events completed; Demos remains stopped for the exact revalidation blocker below. Initial records and cumulative state were written without a Git commit.
+Updated September 16, 2026 after the October Term 1992 chunk 5 Run. Twelve chunk events completed; no chunk 5 matter stopped. Coleman and Demos retain their existing blockers. Files were written without a Git commit.
 
 ## Opening baseline validation
 
@@ -63,18 +63,18 @@ The 124 supplied case-list matters are represented below. Three other opening ca
 | 1993-03-23 | Saudi Arabia v. Nelson; 507 U.S. 349 (1993) | Merits disposition | CHUNK4 | Completed — Intentional claims dismissed under asserted FSIA exception 8–1, six-Justice nature/basis rationale; warning dismissal 5–4 without a majority warning rationale. | [Record](records/Saudi_Arabia_v_Nelson_merits_1993-03-23.md); Merits review of FSIA jurisdiction is complete. The Eleventh Circuit must implement reversal and the jurisdictional dismissal of the sovereign defendants under the exception asserted. No warning merits remand, damages trial or preclusion adjudication is authorized by this decision. The related HCA judgment remains a separate historical judgment; its preclusive force here is not decided. |
 | 1993-03-24 | Cincinnati v. Discovery Network; 507 U.S. 410 (1993) | Merits disposition | CHUNK4 | Completed — Seven-to-two affirmance: content-selected commercial newsrack ban lacks reasonable fit and is not content neutral; incremental and lawful neutral regulation preserved. | [Record](records/Cincinnati_v_Discovery_Network_merits_1993-03-24.md); Supreme Court review is complete and the Sixth Circuit's judgment is affirmed. The injunction continues against this selective prohibition. No particular new ordinance, enforcement action or later litigation is assumed, and no mandate-issuance date is invented. |
 | 1993-03-24 | Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership; 507 U.S. 380 (1993) | Merits disposition | CHUNK4 | Completed — Five-to-four affirmance allowing these late Chapter 11 claims; carelessness may be neglect, equitable excusability considers all circumstances, attorney conduct fully attributed, express deadline exceptions retained. | [Record](records/Pioneer_Investment_Services_Co_v_Brunswick_Associates_Limited_Partnership_merits_1993-03-24.md); Supreme Court merits review is complete; the Sixth Circuit judgment stands and the bankruptcy proceedings continue with these late proofs of claim permitted. The validity, priority and amount of the claims remain for ordinary bankruptcy administration. No later confirmation, distribution or remand schedule is supplied. |
-| 1993-03-24 | United States v. McDermott; 507 U.S. 447 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-03-30 | Arave v. Creech; 507 U.S. 463 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-03-30 | Delaware v. New York; 507 U.S. 490 (1993) | Original-jurisdiction disposition or decree; scope in neutral packet | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-03-31 | Conroy v. Aniskoff; 507 U.S. 511 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-05 | United States v. Texas; 507 U.S. 529 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-05 | United States v. Green; 507 U.S. 545 (1993) | Procedural disposition; scope in neutral packet | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-20 | Hazen Paper Co. v. Biggins; 507 U.S. 604 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-20 | Newark Morning Ledger Co. v. United States; 507 U.S. 546 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-20 | Nebraska v. Wyoming; 507 U.S. 584 (1993) | Original-jurisdiction disposition or decree; scope in neutral packet | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-21 | Brecht v. Abrahamson; 507 U.S. 619 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | No specific earlier same-term dependency is established in the supplied inventory; revalidate against effective Current Term State before adjudication. |
-| 1993-04-21 | Withrow v. Williams; 507 U.S. 680 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | Brecht is scheduled on the same effective date. Uncoordinated decisions share a common entering baseline; inventory order alone cannot make Brecht controlling here. Reconcile adopted rules prospectively and resolve any authorized dependency before adjudication. |
-| 1993-04-21 | CSX Transportation, Inc. v. Easterwood; 507 U.S. 658 (1993) | Merits disposition | CHUNK5 | Anticipated; not adjudicated | The earlier D.C. ERISA and Boston Harbor modules concern different statutory texts. Any effective simulated preemption principle must be checked, but no proposed general formulation displaces the FRSA’s enacted covering and saving provisions. Revalidate against effective Current Term State before adjudication. |
+| 1993-03-24 | United States v. McDermott; 507 U.S. 447 (1993) | Merits disposition | CHUNK5 | Completed — Reverse, 6–3. | [Record](records/mcdermott_merits_1993-03-24.md); Supreme Court merits review is complete. Proceedings below implement federal priority in the substituted proceeds. No stay, new filing deadline or retained Supreme Court proceeding is created. |
+| 1993-03-30 | Arave v. Creech; 507 U.S. 463 (1993) | Merits disposition | CHUNK5 | Completed — Reverse facial invalidity in part, 6–3; independent resentencing grounds undisturbed. | [Record](records/arave_merits_1993-03-30.md); Federal proceedings resume on the limited remand; the state resentencing entitlement remains operative, including new mitigation and the unreviewed finding requirements. No death sentence is reinstated. No execution date or further filing is inferred. |
+| 1993-03-30 | Delaware v. New York; 507 U.S. 490 (1993) | Original-jurisdiction disposition or decree; scope in neutral packet | CHUNK5 | Completed — Exceptions sustained in part and overruled in part, 6–3; remand to Master; participation motions granted. | [Record](records/delaware_original_exceptions_1993-03-30.md); Original jurisdiction retained. Pending participation motions are granted; the Special Master must determine the relevant obligations and address evidence and recommend a decree. No amount, deadline or completed accounting is invented. |
+| 1993-03-31 | Conroy v. Aniskoff; 507 U.S. 511 (1993) | Merits disposition | CHUNK5 | Completed — Reverse and remand, 9–0. | [Record](records/conroy_merits_1993-03-31.md); Supreme Court review complete; state proceedings continue consistently with mandatory exclusion of qualifying service. Remaining title and procedural issues are not decided; the tax debt survives. |
+| 1993-04-05 | United States v. Texas; 507 U.S. 529 (1993) | Merits disposition | CHUNK5 | Completed — Reverse and remand, 8–1. | [Record](records/texas_merits_1993-04-05.md); Supreme Court review complete; remand for the common-law interest determination, with principal liability and waiver refusal undisturbed. No amount, accrual date or rate is invented. |
+| 1993-04-05 | United States v. Green; 507 U.S. 545 (1993) | Procedural disposition; scope in neutral packet | CHUNK5 | Completed — Grant of certiorari vacated; petition dismissed as moot; no published individual tally. | [Record](records/green_mootness_order_1993-04-05.md); The Supreme Court petition proceeding ends. The grant alone is withdrawn; the lower suppression judgment remains undisturbed. No remand instruction, substituted respondent or conviction-abatement order issues. |
+| 1993-04-20 | Hazen Paper Co. v. Biggins; 507 U.S. 604 (1993) | Merits disposition | CHUNK5 | Completed — Vacate and remand, 9–0. | [Record](records/hazen_merits_1993-04-20.md); Supreme Court review complete; the First Circuit reconsiders ADEA evidentiary sufficiency and, if necessary, willfulness. Independent ERISA and state-law relief remains subject to its own judgments. No new damages amount is ordered. |
+| 1993-04-20 | Newark Morning Ledger Co. v. United States; 507 U.S. 546 (1993) | Merits disposition | CHUNK5 | Completed — Reverse and remand, 6–3. | [Record](records/newark_merits_1993-04-20.md); Supreme Court review complete; refund proceedings resume consistently with the proved-asset rule and existing findings. No new statutory amortization period, election or tax amount is ordered. |
+| 1993-04-20 | Nebraska v. Wyoming; 507 U.S. 584 (1993) | Original-jurisdiction disposition or decree; scope in neutral packet | CHUNK5 | Completed — Partial summary judgments granted and remaining motions denied, 9–0; all exceptions overruled; original action retained. | [Record](records/nebraska_partial_summary_judgment_1993-04-20.md); Original action retained before the Master. Inland Lakes and the limited no-cap question are resolved; Laramie, Deer Creek and remaining downstream issues continue under the specified burdens. A Corn Creek status conference may proceed; no date is supplied. Intervention denied. No new final river decree or injunction issues. |
+| 1993-04-21 | Brecht v. Abrahamson; 507 U.S. 619 (1993) | Merits disposition | CHUNK5 | Completed — Vacate and remand for Chapman review, 5–4; no automatic writ. | [Record](records/brecht_merits_1993-04-21.md); Supreme Court merits review complete. The Seventh Circuit’s judgment is vacated; it must perform Chapman review, including the State’s burden. No current writ, release order, acquittal or retrial deadline is entered. The alternative conditional remedy applies only if the State fails that inquiry. |
+| 1993-04-21 | Withrow v. Williams; 507 U.S. 680 (1993) | Merits disposition | CHUNK5 | Completed — Affirm in part, reverse in part and remand; Miranda review 6–3, notice reversal 9–0. | [Record](records/withrow_merits_1993-04-21.md); Supreme Court review complete; mixed appellate judgment remanded. Miranda review remains available and its remedial consequence requires proper analysis. The independent voluntariness ruling is reversed without deciding its merits; lawful presentation and ordinary gates precede new adjudication. Same-day Brecht operates prospectively within its Doyle scope, not as an invented prior event or blanket Miranda rule. |
+| 1993-04-21 | CSX Transportation, Inc. v. Easterwood; 507 U.S. 658 (1993) | Merits disposition | CHUNK5 | Completed — Affirm warning disposition 9–0 and speed preemption by six votes; Stone seeks limited remand, Thomas and Souter would allow speed claim. | [Record](records/easterwood_merits_1993-04-21.md); Both reviewed appellate components affirmed. Warning-device negligence proceedings continue; ordinary speed claim remains preempted. No negligence finding, damages award, new speed theory or specific-individual-hazard adjudication. Other unreviewed claims retain their own posture. |
 | 1993-04-26 | United States v. Olano; 507 U.S. 725 (1993) | Merits disposition | CHUNK6 | Anticipated; not adjudicated | Brecht concerns collateral constitutional harmless error; it does not automatically determine Rule 52(b)’s burden or discretion. Any earlier effective Zafiro holding about instructions must be checked but does not establish that instructions always cure jury intrusions. Revalidate against effective Current Term State before adjudication. |
 | 1993-04-26 | United States v. California; 507 U.S. 746 (1993) | Merits disposition | CHUNK6 | Anticipated; not adjudicated | Itel is earlier but involves foreign-commerce limits rather than a federal refund cause of action. Neither it nor Puerto Rico Aqueduct supplies the missing substantive source here. Revalidate against effective Current Term State before adjudication. |
 | 1993-04-26 | Edenfield v. Fane; 507 U.S. 761 (1993) | Merits disposition | CHUNK6 | Anticipated; not adjudicated | Revalidate the actual simulated Cincinnati v. Discovery Network ruling, scheduled earlier in the term, for any adopted commercial-speech proposition. A prepared position or the historical result does not substitute for that decision. |
@@ -216,15 +216,28 @@ Append-only commitment order below; same-day display order creates no legal sequ
 | 1993-03-24 | Cincinnati v. Discovery Network — Seven-to-two affirmance: content-selected commercial newsrack ban lacks reasonable fit and is not content neutral; incremental and lawful neutral regulation preserved. | [Decision Record](records/Cincinnati_v_Discovery_Network_merits_1993-03-24.md) | Initial event; no superseded decision |
 | 1993-03-24 | Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership — Five-to-four affirmance allowing these late Chapter 11 claims; carelessness may be neglect, equitable excusability considers all circumstances, attorney conduct fully attributed, express deadline exceptions retained. | [Decision Record](records/Pioneer_Investment_Services_Co_v_Brunswick_Associates_Limited_Partnership_merits_1993-03-24.md) | Initial event; no superseded decision |
 
+| 1993-03-24 | United States v. McDermott — Reverse, 6–3. | [Decision Record](records/mcdermott_merits_1993-03-24.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-03-30 | Arave v. Creech — Reverse facial invalidity in part, 6–3; independent resentencing grounds undisturbed. | [Decision Record](records/arave_merits_1993-03-30.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-03-30 | Delaware v. New York — Exceptions sustained in part and overruled in part, 6–3; remand to Master; participation motions granted. | [Decision Record](records/delaware_original_exceptions_1993-03-30.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-03-31 | Conroy v. Aniskoff — Reverse and remand, 9–0. | [Decision Record](records/conroy_merits_1993-03-31.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-05 | United States v. Texas — Reverse and remand, 8–1. | [Decision Record](records/texas_merits_1993-04-05.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-05 | United States v. Green — Grant of certiorari vacated; petition dismissed as moot; no published individual tally. | [Decision Record](records/green_mootness_order_1993-04-05.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-20 | Hazen Paper Co. v. Biggins — Vacate and remand, 9–0. | [Decision Record](records/hazen_merits_1993-04-20.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-20 | Newark Morning Ledger Co. v. United States — Reverse and remand, 6–3. | [Decision Record](records/newark_merits_1993-04-20.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-20 | Nebraska v. Wyoming — Partial summary judgments granted and remaining motions denied, 9–0; all exceptions overruled; original action retained. | [Decision Record](records/nebraska_partial_summary_judgment_1993-04-20.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-21 | Brecht v. Abrahamson — Vacate and remand for Chapman review, 5–4; no automatic writ. | [Decision Record](records/brecht_merits_1993-04-21.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-21 | Withrow v. Williams — Affirm in part, reverse in part and remand; Miranda review 6–3, notice reversal 9–0. | [Decision Record](records/withrow_merits_1993-04-21.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+| 1993-04-21 | CSX Transportation, Inc. v. Easterwood — Affirm warning disposition 9–0 and speed preemption by six votes; Stone seeks limited remand, Thomas and Souter would allow speed claim. | [Decision Record](records/easterwood_merits_1993-04-21.md) | Initial event; no superseded decision; file publication September 16, 2026 without Git commit |
+
 ## Latest Term Continuity Note
 
 ### 1. Scope and Chronology Cursor
 
-October Term 1992; the opening trackers and identical headers are identified above. The cumulative state now contains 47 completed Court events and two admitted statutory sources. Chunk 4 completes 11 supplied events, March 3–24, 1993. Demos v. Storrie remains stopped at its March 8 pre-action stage; Coleman remains stopped at its earlier stage. The chronology cursor is March 24, 1993 after Cincinnati v. Discovery Network and Pioneer. The March 24 same-day group remains incomplete because United States v. McDermott belongs to chunk 5. Its entering-law baseline is March 23: neither Discovery Network nor Pioneer may govern that uncoordinated peer. They operate prospectively together with any later completed March 24 peer. Next eligible supplied item: United States v. McDermott, March 24, 1993, chunk 5. March 3, March 8 and March 23 uncoordinated groups likewise share their respective prior-date law. Earlier dated groups and the prior safe insertion of the October 24 enactment and November 2 Martin action remain as recorded; no completed earlier decision is changed. No future event is adjudicated here.
+October Term 1992; the opening trackers and identical headers are identified above. The cumulative state contains 59 completed Court events and two admitted statutory sources. Chunk 5 completes twelve events, March 24–April 21, 1993, with no stopped matter in this chunk. Coleman and Demos retain their earlier pre-action stages. The cursor is April 21, 1993 after Brecht, Withrow and Easterwood, which share April 20 entering law and operate together prospectively. McDermott completes the March 24 peer group using March 23 entering law, excluding Discovery Network and Pioneer as prior authority. Their combined law applies thereafter. The March 30, April 5 and April 20 groups likewise use prior-date snapshots. The next eligible supplied event is United States v. Olano, April 26, 1993, chunk 6; no future event is adjudicated. Earlier safe insertions and completed decisions remain intact.
 
 ### 2. Completed Events and Admitted Sources
 
-The append-only ledger supplies every natural event key, disposition, durable location and initial lineage. The 11 initial chunk 4 Decision Records were validated and preserved in effective-date groups after source, participation, judgment, opinion-join and projection checks. Earlier records and the two admitted statutes remain unchanged. The earlier Martin completion retains its recorded safe insertion and its companion's open paid-compliance condition. Demos has no Decision Record because no action was completed. This Run writes neither a public render nor a close artifact.
+The append-only ledger supplies all natural event keys, dispositions, durable locations and lineage. The twelve initial chunk 5 records were validated and added in effective-date groups, preserving the common baseline of each uncoordinated same-day group. All earlier records and both admitted statutes remain unchanged. Coleman and Demos still have no completed action under their stopped entries. Martin’s completed fee action and its companion’s unresolved paid-compliance condition remain distinct. This Run writes no public render or close artifact.
 
 ### 3. Current Law
 
@@ -1765,6 +1778,456 @@ Source: [Decision Record](records/Pioneer_Investment_Services_Co_v_Brunswick_Ass
 
 **Law after the event:** A Chapter 11 movant under Rule9006(b)(1) may establish excusable neglect even when the omission involves carelessness, but must justify it on all relevant circumstances with counsel's conduct attributed. No factor alone guarantees relief. Rule9006(b)(2) bars enlargement for the actions governed by Rules1007(d),1017(b)(3),2003(a) and (d),7052,9023 and9024; Rule9006(b)(3) permits enlargement only to the extent and on the conditions stated in Rules1006(b)(2),1017(e),3002(c),4003(b),4004(a),4007(c),8002 and9033. Those express limits remain distinct from the present Chapter 11 authority; in particular Chapter 7 Rule3002(c) and Taylor's Rule4003(b) do not gain a general equitable exception. Claims allowed to be filed remain subject to ordinary merits adjudication.
 
+#### United States v. McDermott, 1993-03-24
+
+Authority: [Canonical Decision Record](records/mcdermott_merits_1993-03-24.md).
+
+#### Federal notice precedes choateness in after-acquired property
+
+**Holding and operative rule:** A filed federal tax lien takes priority over a previously docketed judgment lien in land acquired only after federal notice, because the judgment lien becomes choate in that land only upon acquisition. Both liens attach when the debtor acquires the property; priority here follows the federal notice rule, not fictional earlier attachment.
+
+**Authority:** Scalia’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Scalia, Kennedy, Souter (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that a judgment creditor’s earlier docketing does not establish priority in property the debtor did not yet own. New Britain requires identification of the property subject to the competing lien, as well as the creditor and amount. Before September 23 the bank lacked that property-specific attachment. Glass City Bank permits the federal lien to reach later acquisitions, but does not make those acquisitions the debtor’s property earlier. Vermont does not change the result: its lien already covered existing property and needed no further levy to become enforceable. Here both liens attached at acquisition, after federal notice had been filed. Section 6323 protects judgment lien creditors until notice; it does not give this later-attaching lien priority over an already noticed federal claim. Congress’s particular protections for certain later-arising financing interests cannot be generalized to this judgment. The Court decides only the priority in the identified land and substituted proceeds, leaving other creditor categories and unrelated liens untouched.
+
+**Precedent treatment:**
+
+- New Britain, 347 U.S. 81 — applied: choateness requires established lienor, amount and property.
+- Glass City Bank, 326 U.S. 265 — applied: federal liens reach after-acquired property upon acquisition.
+- Vermont, 377 U.S. 351 — distinguished: no separate levy is required for a lien already fixed in existing property; future acquisition remains different.
+
+Property-specific priority clarified under sections 6321–6323 effective March 24. No precedent overruled; existing-property choateness and other statutory creditor protections remain.
+
+#### Arave v. Creech, 1993-03-30
+
+Authority: [Canonical Decision Record](records/arave_merits_1993-03-30.md).
+
+#### Facial validity of Idaho’s narrowed aggravator
+
+**Holding and operative rule:** Idaho’s utter-disregard aggravator, as authoritatively limited to the cold-blooded, pitiless slayer—one who kills without feeling or sympathy—provides adequate guidance and genuinely narrows its broad first-degree-murder class. The holding does not approve the unqualified statutory words alone or establish that Creech satisfies the aggravator.
+
+**Authority:** O'Connor’s Opinion of the Court, I–II; White, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that the State may distinguish a killer’s attitude toward the killing and the victim from the intent necessary to commit murder. Walton permits a judicial narrowing construction that supplies meaningful guidance even when the factual inquiry lacks mathematical precision. Osborn’s construction identifies absence of feeling or sympathy, rather than merely attaching another condemnatory adjective to the crime. A mental state can be inferred from circumstances and is not constitutionally subjective simply because proof is difficult. Zant also requires real narrowing. Idaho’s first-degree category includes killings attended by anger, jealousy or other emotion, so this construction does not encompass every member of that class. Pitilessness alone would not suffice. Godfrey and Maynard therefore remain applicable to unbounded descriptions of a murder’s horror. The disputed finding of violent rage raises an application question, which the Court does not decide. Its resolution cannot eliminate the independent resentencing relief already granted.
+
+**Precedent treatment:**
+
+- Walton, 497 U.S. 639 — applied: a sufficiently definite state judicial construction may guide a judge’s capital sentencing.
+- Zant, 462 U.S. 862 — applied: the eligibility class must genuinely narrow.
+- Godfrey, 446 U.S. 420, and Maynard, 486 U.S. 356 — distinguished on the adopted state-of-mind construction; their prohibition of unguided aggravation remains.
+
+#### Formulation, application and the limited remand
+
+**Holding and operative rule:** A facial challenge may test whether a State has maintained a consistent, constitutionally sufficient formulation; alleged inconsistency in applying a valid formulation is a separate inquiry. Under Jeffers, constitutional review of its application asks whether no reasonable sentencer could find the aggravator; that question and the unreviewed grounds for resentencing remain open or intact here.
+
+**Authority:** O'Connor’s Opinion of the Court, II–III; White, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court distinguishes the words that define eligibility from their application in a particular case. Jeffers supplies the separate constitutional boundary for applying an otherwise valid aggravator. A facial court may examine other state decisions to learn what construction the State actually uses; it does not turn every disputed later application into a defect in the formulation itself. The State repeatedly reaffirmed Osborn, and the later examples offered against it did not influence Creech’s original sentencing and appellate review. That does not establish that the factor was rationally applied to Creech. His finding of violent rage and the relevance of other killings remain undecided under the granted facial question. The Ninth Circuit also ordered new mitigation proceedings and identified missing findings under state law for other aggravators. Those grounds were not brought within this review. Reversal of one facial holding consequently neither reinstates the sentence nor authorizes Idaho to disregard the surviving resentencing directions.
+
+**Precedent treatment:**
+
+- Jeffers, 497 U.S. 764 — applied: facial validity and rational application are distinct.
+- Sochor, June 8, 1992 — consistent formulation may be examined; actual correction of invalid weighing remains required when that separate problem arises.
+- Stringer, Espinosa and Richmond — preserved within their weighing-error and cure scopes; no substitute cure or harmlessness finding made here.
+
+Facial validity of this particular construction established March 30; no change to actual weighing-error correction, mitigation, intent-finding requirements or the as-applied Jeffers question.
+
+#### Delaware v. New York, 1993-03-30
+
+Authority: [Canonical Decision Record](records/delaware_original_exceptions_1993-03-30.md).
+
+#### Identify the obligation before allocating unclaimed funds
+
+**Holding and operative rule:** The debtor for interstate escheat is the entity still legally obligated under the governing law to pay the unclaimed distribution. An issuer whose obligation is discharged by payment to an intermediary that is the record owner is not the debtor for the intermediary’s remaining obligation to its customer; a mere paying agent whose obligation runs back to the issuer must be distinguished.
+
+**Authority:** Thomas’s Opinion of the Court, I; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that allocation begins with the obligation the owner could enforce. Texas v. New Jersey assigns an unclaimed debt among States; it does not create or redefine the underlying property right. State law therefore identifies who owes whom. Payment by an issuer to the registered owner ordinarily discharges the issuer’s obligation under the governing securities rules. Where that registered owner is a bank or broker, its remaining duty to deliver the distribution is the debt now subject to escheat. Treating the issuer as the debtor would allocate a liability that it no longer owes. A true paying agent presents a different relationship if it must return unused funds to the issuer, so labels alone cannot decide the matter. The Master must identify these actual relationships on remand. The Court does not resolve claims that particular excess funds already belong to an intermediary or determine the rights of owners in transactions outside the submission.
+
+**Precedent treatment:**
+
+- Texas v. New Jersey, 379 U.S. 674 — applied: federal priority allocates an existing debt, requiring proper identification of debtor and creditor.
+- Barnhill, March 9, 1992 — preserved: state-created interests remain distinct from the federal consequence; no escheat rule attributed to it.
+
+#### Address first, incorporation second
+
+**Holding and operative rule:** The State of the creditor’s last known address shown by the debtor’s records has primary escheat priority. If that address is unknown or the primary State’s law does not permit escheat, the debtor’s State of incorporation has secondary priority, subject to a later established primary claim; chief executive offices do not replace incorporation.
+
+**Authority:** Thomas’s Opinion of the Court, II; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court preserves the established priority sequence rather than making an equitable allocation afresh in each interstate dispute. Texas v. New Jersey selected creditor address and debtor incorporation to provide definite rules for competing sovereign claims. Pennsylvania v. New York refused to replace those rules merely because another connecting fact seemed more closely associated with the transaction. The Master’s executive-office proposal would revive disputes about a corporation’s real location and would abandon the certainty of incorporation. That proposal does not repair a defect in the primary rule, which still directs funds to a State when the actual creditor’s address is established. Secondary priority fills a defined gap rather than extinguishing a valid later primary claim. The result is not a judgment awarding all funds to Delaware: identifying the proper intermediary debtor and locating creditor records may establish priority elsewhere. The Master must perform that accounting before proposing the resulting decree.
+
+**Precedent treatment:**
+
+- Texas v. New Jersey, 379 U.S. 674 — reaffirmed: address primary, incorporation secondary, with the primary State’s subsequent claim preserved.
+- Pennsylvania v. New York, 407 U.S. 206 — reaffirmed: administrable priority rules are not replaced by transaction-specific equitable substitutes.
+
+#### Evidence may prove an address but cannot substitute a new allocation rule
+
+**Holding and operative rule:** A State invoking primary priority must establish the relevant creditor addresses through proper evidence, whether transaction by transaction or another method that actually identifies those addresses. Generalized estimates based on the concentration of brokers do not establish those facts and cannot displace incorporation-based secondary priority.
+
+**Authority:** Thomas’s Opinion of the Court, III; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court distinguishes proof of an existing priority from a different substantive allocation. The address rule gives the State of an identified creditor’s last known address the first claim; it does not confer priority on the State statistically most likely to house financial intermediaries. New York’s offered inference from the concentration of brokers therefore cannot support the proposed aggregate award. But rejecting that shortcut does not bar every indirect evidentiary method. Records may be reconstructed or another proper mechanism may identify the addresses of the creditors whose debts are in dispute. Pennsylvania v. New York rejects replacing the rules because locating addresses is difficult, not the legitimate process of proving the facts that those rules require. Further proceedings must afford New York that opportunity while preserving other States’ claims. The Court awards no fixed proportion and decides no individual ownership dispute outside the original submission.
+
+**Precedent treatment:**
+
+- Pennsylvania v. New York, 407 U.S. 206 — applied: missing address evidence does not authorize a different substantive priority.
+- Texas v. New Jersey, 379 U.S. 674 — applied: actual address proof determines primary entitlement.
+
+Existing interstate escheat priorities applied to securities intermediaries, effective March 30; no replacement of primary address or secondary incorporation rules.
+
+#### Conroy v. Aniskoff, 1993-03-31
+
+Authority: [Canonical Decision Record](records/conroy_merits_1993-03-31.md).
+
+#### Service tolls redemption without a separate prejudice showing
+
+**Holding and operative rule:** For the real-property redemption period covered by 50 U.S.C. App. §525, qualifying military service after October 6, 1942 is excluded from the time computation without a separate showing that service impaired redemption. The rule includes career active-duty personnel and does not cancel taxes or import the different conditions governing other statutory protections.
+
+**Authority:** Stevens’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that Congress supplied the relevant condition: military service during the period the statute excludes. It did not also require proof that service prevented payment or timely action. The neighboring provisions confirm that distinction because they expressly require material impairment when Congress makes impairment relevant. Boone’s treatment of discretionary stays cannot supply a condition omitted from this redemption provision. Ebert concerned the earlier statute; it does not defeat the redemption language later enacted. The same attention to text and context that governed King rejects an unwritten limitation here without making every military protection unconditional. Conroy’s lengthy career service does not permit a court to replace Congress’s categorical line with a hardship inquiry. Nor does tolling forgive the underlying tax obligation or settle every remaining title question. The Maine judgment, entered by an equally divided appellate court, therefore cannot stand on the trial court’s added adverse-effect requirement.
+
+**Precedent treatment:**
+
+- Boone v. Lightner, 319 U.S. 561 — distinguished: discretionary stay provisions retain their own impairment inquiry.
+- Ebert v. Poston, 266 U.S. 548 — distinguished as construing earlier language; later redemption protection governs.
+- King v. St. Vincent’s Hospital, December 16, 1991 — applied by analogy as text-in-context interpretation, not a universal military-service exemption.
+
+Unconditional section 525 redemption tolling established March 31; other provisions’ express prejudice conditions remain separate. No precedent overruled.
+
+#### United States v. Texas, 1993-04-05
+
+Authority: [Canonical Decision Record](records/texas_merits_1993-04-05.md).
+
+#### Compensation for delayed payment of the assumed debt
+
+**Holding and operative rule:** Texas’s matured obligation to reimburse these food-stamp losses carries the applicable federal common-law obligation to compensate the United States for delayed payment. Its contractual assumption of the program’s reimbursement terms distinguishes this debt from a unilaterally imposed penalty; interest is governed by that obligation’s lawful rate, period and recognized qualifications, not free-ranging balancing merely because the debtor is a State.
+
+**Authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that delayed payment of this debt is subject to the federal compensation principle. Royal Indemnity treats interest as compensation for the creditor’s loss of the use of money after an obligation matures. West Virginia applies that principle to an obligation owed by a State to the United States. Texas assumed the program’s regulations through its agreement, including reimbursement for mail losses above the stated tolerance. The obligation consequently differs from the unilateral agricultural penalty in Rodgers. The involvement of postal employees and the separate request for waiver do not convert this assumed debt into that penalty; the principal and waiver rulings are not reopened here. The Court does not create common law whenever federal funds are involved. Nor does it authorize a new balance of equities simply because Texas is the debtor. The lower court must determine the proper rate and accrual period under the applicable common-law obligation and any legally recognized qualification.
+
+**Precedent treatment:**
+
+- Royal Indemnity, 313 U.S. 289 — applied: interest compensates delay in payment of matured contractual obligations.
+- West Virginia, 479 U.S. 305 — applied to this state debt; generalized equitable balancing is not authorized.
+- Rodgers, 332 U.S. 371 — distinguished: this assumed reimbursement debt is not the unilateral penalty considered there.
+- Pennhurst, 451 U.S. 1 — distinguished: compensation for delay on an assumed debt is not a newly invented program condition; clear notice of program obligations remains required.
+
+#### State exclusion from the statutory mechanism does not extinguish common law
+
+**Holding and operative rule:** Sections 3701(c) and 3717 exclude state agencies from the Debt Collection Act’s mandatory interest mechanism, but do not extinguish the independently applicable common-law obligation on this debt. That conclusion does not apply the statutory minimum rate, collection fees or penalty charges to Texas and does not depend on treating West Virginia’s 1987 holding as settled law in 1982.
+
+**Authority:** White’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that exemption from a new mandatory mechanism is not an immunity from an independently supported obligation. Isbrandtsen and Astoria require attention to existing common law and statutory purpose; Milwaukee and Higginbotham forbid supplementation when Congress has itself resolved the governing question. Here Congress defined who must pay under section 3717 and excluded States from that mechanism. That choice has substantial work to do without also eliminating common-law interest: the statutory rate, fees and charges do not govern Texas. The compensation principle has its own source and applies to this assumed reimbursement debt. Stevens correctly identifies uncertainty in the precise reach of state interest liability when Congress acted; the Court does not retroactively treat West Virginia as a settled legislative premise. The statute nevertheless contains no contrary rule extinguishing the obligation independently justified here. Neither subsequent interest legislation nor an administrative offset remedy supplies the missing immunity. Remand therefore proceeds under common law alone.
+
+**Precedent treatment:**
+
+- Isbrandtsen, 343 U.S. 779, and Astoria, 501 U.S. 104 — applied: retain applicable common law absent contrary statutory purpose.
+- Milwaukee, 451 U.S. 304, and Higginbotham, 436 U.S. 618 — distinguished: no statutory resolution extinguishes this obligation.
+- West Virginia, 479 U.S. 305 — its reserved Debt Collection Act question is answered; no false 1982 chronology attributed.
+
+Common-law compensation extended to the presented food-stamp debt and statutory non-displacement resolved April 5. Section 3717 remains inapplicable to this State; no general federal-money cause or free-ranging balancing test created.
+
+#### United States v. Green, 1993-04-05
+
+Authority: [Canonical Decision Record](records/green_mootness_order_1993-04-05.md).
+
+The Court vacates its order granting certiorari and dismisses the petition as moot following notice that Green died March 24, 1993. The D.C. Court of Appeals’ suppression judgment is not vacated. This procedural order establishes no rule on the duration of Edwards protection, no break-in-custody rule and no abatement of an unreviewed conviction. Mintzes v. Buchanon supplies the cited procedural practice; no interrogation precedent is treated on the merits.
+
+No substantive doctrinal change. This petition closes April 5.
+
+#### Hazen Paper Co. v. Biggins, 1993-04-20
+
+Authority: [Canonical Decision Record](records/hazen_merits_1993-04-20.md).
+
+#### Service-based vesting is distinct from age motivation
+
+**Holding and operative rule:** ADEA disparate treatment requires age actually to motivate the employment decision and have a determinative influence; pension interference based only on years of service does not by itself establish that requirement. Liability remains possible when pension status is deliberately used as an age proxy or age and pension status both motivate the decision; age-triggered vesting and disparate impact are not decided.
+
+**Authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that correlation is not the statutory cause. A worker’s years with an employer and that worker’s age are analytically distinct, so avoiding a ten-year service-based pension does not necessarily show action because of age. Aikens and Burdine direct attention to the employer’s actual motivation, which may be established through direct or circumstantial proof. Ingersoll-Rand confirms that pension interference may violate ERISA without thereby establishing an ADEA violation. That distinction creates no pension safe harbor. An employer may deliberately target pension status because it identifies older employees, and age and pension concerns may both play a determinative role. Here the younger replacement, confidentiality demands and comments require reconsideration after removing the mistaken equivalence. The Court neither finds those facts sufficient nor treats every improper explanation as proof of age discrimination. It leaves age-based vesting, disparate impact and the separate non-ADEA claims outside this decision.
+
+**Precedent treatment:**
+
+- Aikens, 460 U.S. 711, and Burdine, 450 U.S. 248 — applied: actual motivation may be proved circumstantially; no automatic inference from any unlawful motive.
+- Ingersoll-Rand, 498 U.S. 133 — distinguished: ERISA pension interference and age discrimination remain distinct.
+- McDonnell Douglas, 411 U.S. 792 — preserved; its legitimate-reason terminology does not make every improper motive an ADEA violation.
+
+#### Thurston governs individual acts as well as formal policies
+
+**Holding and operative rule:** An ADEA disparate-treatment violation is willful when the employer knew or recklessly disregarded whether its conduct violated the Act, whether the decision was individual or a formal policy. Once that showing is made, liquidated damages require no additional outrageousness, direct evidence or predominant-age motive; a good-faith, nonreckless mistake about a statutory permission is not willfulness.
+
+**Authority:** O'Connor’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court retains Thurston’s knowledge-or-reckless-disregard standard. Nothing in the term willful changes when age discrimination occurs through a single discharge rather than an announced policy. Richland Shoe confirms that mere negligence or awareness that the statute might apply is insufficient. This preserves the two tiers Congress created without adding requirements found nowhere in the governing standard. An employer can intentionally consider age yet nonrecklessly and in good faith misunderstand a statutory defense or exemption, such as a bona fide occupational qualification; an incorrect understanding may leave ordinary liability without willful liability. Conversely, keeping the discriminatory motive private does not justify a stricter evidentiary barrier than an openly discriminatory policy receives. Direct evidence is unnecessary, outrageousness is not an additional element, and age need not be predominant rather than determinative. Because underlying liability must first be reconsidered, the Court awards or removes no liquidated damages itself.
+
+**Precedent treatment:**
+
+- Thurston, 469 U.S. 111 — reaffirmed and applied to individual disparate-treatment decisions.
+- Richland Shoe, 486 U.S. 128 — applied: negligence and mere awareness of statutory relevance are not willfulness.
+
+Age/tenure distinction clarified and Thurston’s individual-decision application confirmed April 20. No later causation doctrine or disparate-impact rule adopted.
+
+#### Newark Morning Ledger Co. v. United States, 1993-04-20
+
+Authority: [Canonical Decision Record](records/newark_merits_1993-04-20.md).
+
+#### Proof controls depreciation of the acquired customer intangible
+
+**Holding and operative rule:** Under section 167 and Regulation §1.167(a)-3, a taxpayer that proves an acquired intangible’s ascertainable value and limited useful life estimable with reasonable accuracy may depreciate it despite its resemblance to expected continued patronage. The taxpayer bears the substantial proof burden; unsupported assertions, indefinite or self-regenerating value and double allocation do not qualify, and goodwill remains nondepreciable.
+
+**Authority:** Blackmun’s Opinion of the Court, I; Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that calling an asset an expectancy of patronage does not answer whether it demonstrably wastes. Massey Motors explains that depreciation allocates capital cost to the periods in which an asset contributes income. The regulation implements that principle for intangibles when value and limited useful life can be established with reasonable accuracy. Houston Chronicle and the related proof-based cases show why a relationship to customer goodwill does not foreclose that inquiry. A continuing mass of customers that replenishes itself without measurable exhaustion remains different from a finite acquired cohort. The Government’s categorical reading would make successful proof of exhaustion legally irrelevant, even though the reason for treating goodwill differently is its indefinite life. The Court preserves the taxpayer’s substantial burden and the bar on depreciation of goodwill itself; it does not declare every list a wasting asset. INDOPCO’s capitalization rule remains intact and supplies no automatic entitlement to later depreciation.
+
+**Precedent treatment:**
+
+- Massey Motors, 364 U.S. 92 — applied: depreciation matches capital cost with useful contribution.
+- Houston Chronicle, 481 F.2d 1240; Miller, 537 F.2d 446; Donrey, 809 F.2d 534 — persuasive proof-based reasoning adopted, not a categorical customer-list exemption.
+- INDOPCO, February 26, 1992 — distinguished: capitalization and later cost recovery are separate questions.
+- Red Wing Malting, 15 F.2d 626 — preserved for nonwasting goodwill; not extended to defeat proof of a distinct wasting asset.
+
+#### The established subscriber findings satisfy the rule
+
+**Holding and operative rule:** The finite acquired subscriber cohort here satisfies the separate-value and reasonably measurable limited-life requirements on the existing trial findings. The useful-life and straight-line stipulation becomes operative only after those prerequisites are met; reversing the categorical goodwill rule neither supplies an unconditional concession nor requires proof of the entire case anew.
+
+**Authority:** Blackmun’s Opinion of the Court, II; Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court applies the rule to the asset actually purchased. The identified subscriptions existed on a particular acquisition date; later customers were not automatic replacements within that asset. The district court found that attrition exhausted the cohort over reasonably estimable periods and accepted an income-based value supported by the trial evidence. A list of newly solicited prospects is a different asset from established paying relationships, so its solicitation cost does not displace the accepted valuation. The dissent’s concern about distinguishing purchased value from later business effort is substantial, but the record contains the required findings and no competing valuation proof establishing their error. The Government’s agreement was expressly conditional, and the Court does not rewrite it as a concession of all requirements. Once the findings meet those conditions under the correct legal rule, the agreed periods and straight-line treatment apply. The remand carries those limits, without authorizing duplicate basis allocation or a general deduction for goodwill.
+
+**Precedent treatment:**
+
+- Houston Chronicle, 481 F.2d 1240 — applied through its evidentiary requirements; actual findings matter.
+- Golden State Towel, 373 F.2d 938 — distinguished: the acquired cohort is found not to be a self-regenerating mass.
+- Massey Motors, 364 U.S. 92 — applied to the proved finite-life asset; no universal valuation method adopted.
+
+Proof-based depreciation rule and its application established April 20. Self-regenerating goodwill remains outside section 167 depreciation; INDOPCO unchanged.
+
+#### Nebraska v. Wyoming, 1993-04-20
+
+Authority: [Canonical Decision Record](records/nebraska_partial_summary_judgment_1993-04-20.md).
+
+#### Enforcement and modification require different showings
+
+**Holding and operative rule:** Enforcement of an established decree right requires no new showing of injury; the right may be identified from the decree, original opinion, report, record and relevant course of conduct. A request for new allocation or modification requires clear and convincing evidence of real and substantial injury; Nebraska’s express invocation of Paragraph XIII permits that request despite some enforcement language in its pleadings.
+
+**Authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court separates compliance with an established right from creation of a new one. Wyoming v. Colorado permits enforcement without requiring the injured State to relitigate the need for the right already adjudicated. Silence in a decree does not end the interpretive inquiry when the original opinion, report and record show what the Court settled. But a new restriction on previously unallocated tributary development is not enforcement simply because it affects the same river. Idaho ex rel. Evans requires clear and convincing proof of real and substantial injury for the new equitable relief sought. Arizona v. California reinforces the importance of stability in interstate allocations. Paragraph XIII preserves power to respond to changed conditions; it does not relax that proof burden. Nebraska expressly invoked its modification provisions, so requiring a new petition would serve no purpose. The Master’s recommended dispositions may stand even though his suggestion of a reduced modification burden does not.
+
+**Precedent treatment:**
+
+- Wyoming v. Colorado, 309 U.S. 572 — applied: enforcement does not require a fresh injury showing.
+- Wyoming v. Colorado, 286 U.S. 494 — applied: original materials may explain decree rights.
+- Idaho ex rel. Evans, 462 U.S. 1017 — applied: clear and convincing real and substantial injury for new relief.
+- Arizona v. California, 460 U.S. 605 — applied: stability weighs against reopening without substantial justification.
+
+#### Summary judgment uses the applicable substantive burden
+
+**Holding and operative rule:** Under Rule 17.2, Rule 56 and its precedents guide summary disposition in this original action: judgment requires no genuine dispute of material fact and entitlement as a matter of law. A nonmovant bearing the eventual burden must make a sufficient showing on essential elements, evaluated in light of the applicable enforcement or clear-and-convincing modification standard.
+
+**Authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court treats the Civil Rules as useful guides in original jurisdiction, not as a substitute for its governing original-action rule. Celotex permits summary judgment when the party with the ultimate burden fails to support an essential element. Anderson requires the court to view the evidentiary dispute through the substantive standard that will govern the claim. Here that standard differs by component. Interpretation of established Inland Lakes rights does not require new proof of injury, while a new tributary restriction requires the demanding modification showing. Denying summary judgment on a disputed project therefore does not find that Nebraska has proved injury or is entitled to an injunction. Conversely, invoking the decree’s continuing jurisdiction cannot spare Nebraska from producing evidence on a necessary modification element. This distinction supports limited judgments where the decree and record settle the issue, while preserving fact development where project use, priority or threatened injury remains genuinely disputed.
+
+**Precedent treatment:**
+
+- Celotex, 477 U.S. 317 — applied as a guide to failure of proof on an essential element.
+- Anderson, 477 U.S. 242 — applied as a guide: materiality and sufficiency reflect the substantive burden.
+
+#### Inland Lakes rights were settled in the original allocation
+
+**Holding and operative rule:** The Inland Lakes share the North Platte Project’s December 6, 1904 priority and may receive 46,000 acre-feet diverted during October, November and April. Necessary temporary storage of that water in Guernsey and Glendo is protected to accomplish delivery, without otherwise changing those reservoirs’ decree rights.
+
+**Authority:** O'Connor’s Opinion of the Court, II-A; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that the original apportionment already recognized the Inland Lakes supply. The prior record counted 46,000 acre-feet stored for Nebraska and deducted that supply when calculating its need for natural flows in the pivotal reach. That allocation necessarily depended on the existing priority treatment, although the decree did not separately recite a priority date for each lake. Wyoming cannot treat the same supply as available to reduce Nebraska’s allocation while denying the priority necessary to obtain it. The absence of a separate Wyoming storage permit does not reopen the right settled by the interstate adjudication. The protected diversion occurs in October, November and April. Temporary storage in Guernsey and Glendo developed later, but its necessity to deliver the recognized quantity supports protection of that delivery practice. The Court changes no other reservoir entitlement and creates no additional quantity. Summary judgment for Nebraska and the United States therefore enforces the existing allocation.
+
+**Precedent treatment:**
+
+- Nebraska v. Wyoming, 325 U.S. 589 and 665 — construed and enforced: the original apportionment included Inland Lakes storage and priority.
+- Wyoming v. Colorado, 286 U.S. 494 — applied: decree interpretation draws on the original adjudicative record.
+
+#### Postdecree acquiescence independently forecloses the priority challenge
+
+**Holding and operative rule:** Even if the original proceedings had not settled the Inland Lakes priority, Wyoming’s postdecree acquiescence in administration under the 1904 priority independently forecloses its present challenge in this equitable original proceeding. This alternative concerns the identified longstanding practice, not a general transfer of unsubmitted water rights by silence.
+
+**Authority:** O'Connor’s Opinion of the Court, II-B; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court also sustains the Inland Lakes result on an independent equitable ground. Ohio v. Kentucky recognizes that an original claim may be foreclosed by acquiescence even when technical preclusion does not resolve it. Wyoming accepted administration of these lakes under the project’s 1904 priority for decades after the decree while the other participants operated within the resulting allocation. Its later effort to assign a new priority would unsettle that accepted arrangement and undermine the supply on which Nebraska’s apportioned needs had been calculated. The ground does not require the Court first to conclude that the original decree expressly adjudicated the date; it is independently sufficient if that interpretive conclusion were disputed. Its force remains confined to the demonstrated postdecree administration and the priority challenge now presented. The Court does not decide whether silence in some other interstate dispute creates an unallocated right. Eight Justices adopt this alternative; the Chief joins only the decree-based ground.
+
+**Precedent treatment:**
+
+- Ohio v. Kentucky, 410 U.S. 641 — applied: acquiescence may foreclose an equitable original claim independently of technical preclusion.
+
+#### The Laramie claims seek modification, not enforcement of a complete allocation
+
+**Holding and operative rule:** Neither the 1922 Laramie decree preserved by Paragraph XII(d) nor the 1945 North Platte decree establishes either State’s asserted complete entitlement to the excess Laramie waters at issue. Nebraska must prove sufficiently serious threatened injury under the modification standard to obtain new protection; otherwise Wyoming is entitled to summary judgment, while flows actually reaching the pivotal reach remain subject to its existing apportionment.
+
+**Authority:** O'Connor’s Opinion of the Court, III; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court rejects both attempts to convert incomplete allocation into a complete award. The 1922 decree concerned flows down to Wheatland, not every downstream Laramie development. Its preservation in the 1945 decree therefore did not grant Wyoming authority to dewater the entire tributary. The 1957 agreement between Wyoming and Colorado, made without Nebraska, cannot change what the 1945 reference to an apportionment already made meant. Nebraska likewise received no fixed delivery entitlement from the Laramie above its confluence, although water actually reaching the pivotal reach enters the established division. New protection requires modification. The Grayrocks settlement imposes obligations on its parties, but Wyoming is not presently interfering with its minimum releases. Corn Creek’s threatened effects require evidence. Paragraph XIII already permits appropriate future relief, so an additional reopener amendment is unnecessary. Incorporation of the settlement remains undecided; absent sufficient injury evidence, Wyoming must receive summary judgment.
+
+**Precedent treatment:**
+
+- Wyoming v. Colorado, 259 U.S. 419 — construed: the 1922 apportionment reaches Wheatland, not every later downstream use.
+- Wyoming v. Colorado, 298 U.S. 573 — read consistently with the waters actually apportioned.
+- Wyoming v. Colorado, 353 U.S. 953 — distinguished: a later two-State decree does not rewrite the 1945 North Platte reservation.
+- Nebraska v. Wyoming, 325 U.S. 589 and 665 — enforced within its allocation; no fixed Laramie delivery right inferred.
+
+#### Deer Creek requires factual development before new relief
+
+**Holding and operative rule:** Wyoming is not entitled to summary judgment on the asserted ordinary-and-usual municipal-use protection or lack of injury where project character and operating priority remain materially disputed. Nebraska must still prove clear and convincing real and substantial injury for a new Deer Creek injunction; the Court decides neither Paragraph X’s ultimate scope nor entitlement to that injunction.
+
+**Authority:** O'Connor’s Opinion of the Court, IV; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court does not treat a promised municipal label as proof of the project’s legal character. Paragraph X preserves ordinary and usual domestic, municipal and stock-watering uses, while Paragraph XIII expressly retains review of new tributary storage in this location. The environmental statement and permit identify nonmunicipal uses, and evidence disputes the need for the asserted municipal supply and the available alternatives. The Court need not definitively reconcile the paragraphs before those facts are developed. Injury also depends on administration. Recognition of the Inland Lakes’ 1904 priority may reduce the project’s effect if Deer Creek operates junior to it. If Wyoming instead claims authority to operate out of priority, the submitted hydrologic affidavits present a genuine dispute. They defeat summary judgment; they do not establish the demanding injury element at trial. No new injunction issues, and the preexisting decree remains operative while the remaining questions proceed before the Master.
+
+**Precedent treatment:**
+
+- Nebraska v. Wyoming, 325 U.S. 589 and 665 — applied: Paragraphs X and XIII retain distinct functions; ultimate interpretation reserved.
+- Idaho ex rel. Evans, 462 U.S. 1017 — applied: new injunctive allocation still needs the demanding injury showing.
+- Anderson, 477 U.S. 242 — applied as a guide to the materially disputed project and injury evidence.
+
+#### Prior requirements calculations are not absolute canal caps
+
+**Holding and operative rule:** The 1945 requirements calculations do not impose absolute ceilings on individual or aggregate canal diversions from the pivotal reach; Paragraph V permits Nebraska to allocate its apportioned share among its canals. Paragraph IV’s limits on canal priority against federal reservoir storage remain, and the legal consequence of allegedly excessive calls is reserved pending an adequate factual record.
+
+**Authority:** O'Connor’s Opinion of the Court, V; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that a number used to calculate an interstate allocation is not automatically an operating cap on every canal. The original requirements figures helped determine the appropriate division of natural flows. Paragraph V does not convert them into diversion ceilings and expressly permits Nebraska to allocate its share among canals. Paragraph IV performs a different task: it establishes canal priority relative to federal reservoirs and limits the circumstances in which canals may stop reservoir storage. Preserving that limitation does not require inventing an absolute quantity restriction absent from the decree. Wyoming’s broader allegations about downstream uses and excessive calls may present additional questions, but the present motions lack the developed facts needed to resolve them. Partial summary judgment therefore establishes only the absence of the proposed categorical caps. It supplies no permission for abusive calls, revises no percentage allocation and determines no unsubmitted demand for bypass of natural flow.
+
+**Precedent treatment:**
+
+- Nebraska v. Wyoming, 325 U.S. 589 and 665 — construed: allocation calculations, Paragraph IV priority and Paragraph V canal allocation remain distinct.
+
+Existing Inland Lakes and canal rights clarified April 20; independently sufficient acquiescence holding recorded; enforcement/modification burdens preserved with precise application. Remaining factual and Paragraph X questions stay open.
+
+#### Brecht v. Abrahamson, 1993-04-21
+
+Authority: [Canonical Decision Record](records/brecht_merits_1993-04-21.md).
+
+#### The protected-silence error remains constitutional trial error
+
+**Holding and operative rule:** Using Brecht’s silence after Miranda warnings to impeach his trial explanation violates Doyle’s due-process protection; permitted impeachment with prewarning silence is analytically separate. This violation is trial error subject to harmless-error review, not a merely nonconstitutional rule or a structural defect requiring automatic reversal.
+
+**Authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that the warning’s assurance matters. Doyle protects a defendant from being told that he may remain silent and then having that protected silence used to discredit a later explanation. That is a due-process rule of fundamental fairness, not merely another layer of prophylaxis that can be treated as nonconstitutional error. Jenkins and Fletcher permit the impeachment based on silence before the warning that occurred here; the prosecution’s broader references crossed a different line when they reached the protected period. The distinction remains material even though the prosecution also used lawful impeachment. Under Fulminante, an error in presenting the case to the factfinder can be assessed in the context of the rest of the record. This conceded Doyle violation has that character. Recognizing it therefore establishes neither structural error nor an automatic right to a new trial. The remaining inquiry concerns the effect of the constitutional error under the proper allocation of uncertainty.
+
+**Precedent treatment:**
+
+- Doyle, 426 U.S. 610 — applied: warning-induced silence receives due-process protection.
+- Jenkins, 447 U.S. 231, and Fletcher, 455 U.S. 603 — distinguished: prewarning impeachment remains permissible in the circumstances presented.
+- Fulminante, 499 U.S. 279 — applied: this evidentiary trial error permits harmlessness analysis; structural defects remain distinct.
+
+#### Chapman governs this preserved Doyle claim on habeas
+
+**Holding and operative rule:** For this preserved Doyle trial error properly before the federal habeas court, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation.
+
+**Authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court retains Chapman’s allocation for this constitutional violation. Section 2254 does not expressly choose between the competing harmless-error standards, and prior collateral applications in Rose and Yates do not conclusively settle that precise choice. They nevertheless support continuity with the familiar rule protecting constitutional trial rights. Kotteakos supplies a legitimate alternative model, and finality, federalism and the costs of delayed retrial weigh in its favor. For this properly presented use of protected silence, the Court concludes that uncertainty about contribution to the verdict should remain with the State responsible for the violation. Independent exhaustion, preservation and other habeas requirements continue to protect finality; Chapman itself permits a conviction to stand when harmlessness is proved. The Seventh Circuit must evaluate lawful impeachment and the physical evidence against the credibility defense under that allocation. The Court neither decides harmlessness itself nor reinstates the writ automatically, and it does not prescribe every collateral-review procedure.
+
+**Precedent treatment:**
+
+- Chapman, 386 U.S. 18 — applied on federal habeas to this preserved Doyle claim with its burden unchanged.
+- Kotteakos, 328 U.S. 750 — not extended to replace Chapman here; its existing nonconstitutional-error operation remains.
+- Rose, 478 U.S. 570, and Yates, 500 U.S. 391 — continuity supported; prior assumed use is not misdescribed as a square holding on this distinction.
+- Stringer, Sochor, Espinosa and Richmond — unchanged: actual correction of capital weighing errors remains distinct.
+- Sawyer and Herrera — not extended into a universal innocence requirement for review of preserved trial error.
+
+Effective April 21, Chapman expressly governs this preserved Doyle claim on habeas. Kotteakos is not adopted as a general constitutional-habeas standard. Other habeas gates, structural doctrine and capital-weighing correction are unchanged.
+
+#### Withrow v. Williams, 1993-04-21
+
+Authority: [Canonical Decision Record](records/withrow_merits_1993-04-21.md).
+
+#### A fair state opportunity does not itself bar Miranda habeas review
+
+**Holding and operative rule:** Powell’s prudential restriction on Fourth Amendment exclusionary claims does not extend to a state prisoner’s claim that the conviction rests on statements obtained in violation of Miranda. A full and fair state opportunity therefore does not itself foreclose that claim; ordinary habeas requirements, merits analysis and the governing harmless-error inquiry remain necessary.
+
+**Authority:** Souter’s Opinion of the Court, I–II; Stone-Zsela, White, Blackmun, Stevens, Kennedy, Souter (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court preserves the statutory review channel without deciding that every claim succeeds. Powell limited a remedy whose collateral use contributes little additional deterrence to a completed search violation while excluding reliable evidence. Miranda protects the trial privilege against compelled self-incrimination and guards against unreliable statements. Kimmelman confirms that a safeguard tied to a fundamental trial right is not excluded merely because another exclusionary claim would be. The practical case for extending Powell also fails. Prisoners could continue to litigate due-process involuntariness, often requiring a more elaborate inquiry in which warnings remain relevant. Eliminating the structured Miranda inquiry would therefore save little while removing a distinct protection. Calling the safeguard prophylactic does not decide that comparison, and the Court need not resolve every consequence of that label. The claim remains subject to its own merits and remedial requirements. No general reopening of Fourth Amendment claims or exception to the ordinary habeas gates follows.
+
+**Precedent treatment:**
+
+- Powell, 428 U.S. 465 — distinguished and not extended; its actual prudential scope remains.
+- Miranda, 384 U.S. 436 — preserved on habeas for a conviction resting on improperly obtained statements.
+- Kimmelman, 477 U.S. 365; Jackson, 443 U.S. 307; Rose v. Mitchell, 443 U.S. 545 — applied as limits on extending Powell to distinct trial protections.
+- Miller v. Fenton, 474 U.S. 104, and Connelly, 479 U.S. 157 — preserved: independent voluntariness review remains available on its own predicates.
+
+#### An unpleaded, unconsented coercion theory requires fair litigation
+
+**Holding and operative rule:** A habeas court may not grant relief on the independent postwarning involuntariness theory presented here when it was neither pleaded nor tried by express or implied consent and the State lacked an opportunity to present relevant evidence. Litigation of Miranda custody and warning issues does not by itself supply consent; any later presentation remains subject to ordinary pleading, exhaustion, retroactivity and other applicable requirements.
+
+**Authority:** Souter’s Opinion of the Court, III; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that the two constitutional inquiries cannot be treated as interchangeable pleadings. Whether warnings were required at a particular stage of questioning differs from whether the suspect’s will was overborne under the totality of circumstances. Rule 15(b) allows adjudication of an unpleaded issue actually tried by consent, but the record shows no word or conduct by which the State consented to this independent theory. The absence of a hearing or even argument denied the State a fair chance to offer evidence bearing on coercion and the later statements. Connelly’s police-coercion requirement and the existing totality inquiry cannot be satisfied merely by establishing a warning violation. The resulting voluntariness ruling must therefore be reversed. The Court decides neither that the statements were voluntary nor that Williams can never present the claim. Exhaustion and Teague objections, and the merits of any lawfully presented theory, remain for appropriate proceedings rather than resolution on this deficient process.
+
+**Precedent treatment:**
+
+- Connelly, 479 U.S. 157 — preserved: actual police coercion is necessary to due-process involuntariness; absent warnings alone do not establish it.
+- Miller v. Fenton, 474 U.S. 104 — preserved: voluntariness requires its own legal determination on the proper record.
+- Teague, 489 U.S. 288 — reserved here; no new exception or merits resolution of the retroactivity objection.
+
+Effective April 21, no Powell bar to the presented Miranda review; distinct notice/consent requirement applied. No automatic writ, coercion finding or universal rule for prophylactic safeguards.
+
+#### CSX Transportation, Inc. v. Easterwood, 1993-04-21
+
+Authority: [Canonical Decision Record](records/easterwood_merits_1993-04-21.md).
+
+#### Coverage requires substantial subsumption of the actual duty
+
+**Holding and operative rule:** Section 434 reaches common-law railroad-safety duties, but preempts them only when operative federal rules substantially subsume the subject of the relevant state requirement, not merely touch it. A covered additional or more stringent requirement survives only when necessary to eliminate or reduce an essentially local safety hazard, not incompatible with federal requirements and not an undue burden on interstate commerce.
+
+**Authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court starts with Congress’s chosen boundary. Common-law duties are state requirements even though a jury rather than a legislature applies them. Cipollone supports that characterization without supplying the scope of this different statute. Section 434 uses covering, a more exacting relationship than mere connection with railroad safety, and surrounds that term with provisions preserving state authority. Rice and Shaw direct attention to text and structure before finding displacement of traditional safety law. The inquiry therefore identifies the actual state duty and asks what the operative federal regulation treats. It is not limited to physical impossibility of simultaneous compliance, and lack of conflict alone cannot save a covered requirement. Congress separately preserved a narrow local-hazard route with three cumulative conditions: necessity for an essentially local hazard, compatibility and no undue commerce burden. Calling ordinary negligence local merely because it concerns one crossing does not satisfy those conditions or erase the coverage inquiry.
+
+**Precedent treatment:**
+
+- Cipollone, June 24, 1992 — applied at its common-law-duty and text-specific scope; its tobacco predicates do not decide FRSA coverage.
+- Rice, 331 U.S. 218, and Shaw, 463 U.S. 85 — applied to identify congressional purpose through text and structure.
+- Morales, Gade, D.C. Board of Trade and Boston Harbor — distinguished: different statutory language and regulatory settings supply no substitute FRSA test.
+
+#### Warning-device preemption requires the operative project predicates
+
+**Holding and operative rule:** General crossing-safety planning and MUTCD compliance do not displace this warning negligence claim. Sections 646.214(b)(3)–(4) do displace independent device-selection duties when applicable, but planned and abandoned Cook Street gates, redirected funds and circuitry that does not warn motorists do not establish federal participation in installation of warning devices here; the separate subsection (b)(2) highway-project route is not presented.
+
+**Authority:** White’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that a federal program encouraging orderly safety planning does not by itself transfer every railroad duty to the State. Part 924 establishes planning conditions, while the MUTCD describes device standards and shared responsibilities rather than commanding installation at every crossing. The more specific rules in sections 646.214(b)(3) and (4) differ: once their predicates operate, federal requirements or approval replace independent state choices about warning devices. CSX has not established that condition at Cook Street. The planned gate was abandoned and its funds redirected. Motion-detection circuitry installed to serve the West Avenue project was not an active or passive device warning motorists at Cook Street, and work at other crossings did not establish a completed Cook Street installation. The same analysis defeats the asserted implied conflict. The Court leaves negligence and the effect of the city’s decisions for the state-law litigation; it neither orders gates nor finds the railroad liable.
+
+**Precedent treatment:**
+
+- Cipollone, June 24, 1992 — predicate-duty method preserved; this application turns on FRSA and its own regulations.
+- Rice, 331 U.S. 218 — applied against inferring displacement from general planning provisions.
+
+#### The ordinary excessive-speed claim is covered
+
+**Holding and operative rule:** Section 213.9’s track-class speed regulation, read in its safety-regulatory setting, covers the pleaded ordinary claim that this train should have traveled more slowly for the time and place despite compliance with the class-four 60-mile-per-hour maximum. That general negligence claim does not qualify merely by its local facts for section 434’s local-hazard saving clause; a duty to slow or stop for a specific individual hazard is not decided.
+
+**Authority:** White’s Opinion of the Court, III–IV; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
+
+**Controlling explanation:** The Court holds that the applicable maximum is part of a federal safety determination, not simply a ceiling leaving ordinary speed limits open to case-by-case substitution. The regulatory system coordinates speed, track conditions and crossing protection, including warnings responsive to train approach and safeguards for higher-speed operations. Section 434 asks whether the rules cover the subject, not whether derailment rather than crossing safety was the Secretary’s principal purpose. Here the allegation is that a train traveling below the class-four maximum was nonetheless too fast for the time and place. That is the ordinary operating-speed duty the regulation covers. The contrary maximum-only reading would permit the same federally treated subject to be redecided through general negligence at each crossing. Particular local facts do not turn that general rule into an essentially local safety-hazard requirement satisfying the statutory conditions. The Court does not decide the separately reserved specific-individual-hazard duty or adjudicate other claims outside the selected review.
+
+**Precedent treatment:**
+
+- Section 213.9 under FRSA — construed to cover ordinary operating-speed negligence in this setting.
+- Rice, 331 U.S. 218 — applied through the statutory coverage inquiry; does not defeat demonstrated coverage.
+- Cipollone — no extension into a universal preemption rule; actual regulated subject controls.
+
+**Operative regulatory conditions and qualifications:** The device provisions remain distinct. Under §646.214(b)(3)(i), adequate warning devices for a covered project include automatic gates with flashing lights when there are multiple main-line tracks; multiple nearby tracks allowing a train to obscure another; high speed combined with limited sight distance; high speed combined with moderately high highway and rail traffic; high vehicular or train volume, substantial schoolbus or hazardous-material truck traffic, unusually restricted sight distance, continuing accidents, or a combination; or a diagnostic-team recommendation. Under (b)(3)(ii), when a diagnostic team justifies that gates are inappropriate, FHWA may find those requirements inapplicable; that permission is not a command to omit gates. For covered installations to which (b)(3) does not apply, (b)(4) requires FHWA approval of the device choice. These qualifications do not establish that the Cook Street project predicate was met. Section (b)(2)’s separate provision for crossings within or near the terminus of a federal-aid highway construction or improvement project is not adjudicated because CSX did not invoke that predicate here.
+
+Effective April 21, substantial-coverage rule and distinct warning/speed applications established under FRSA. No blanket exemption for crossing negligence, actual-conflict-only test or decision of the reserved individual-hazard issue.
+
 ### 4. Material Published Noncontrolling Positions
 
 - **Martin v. McDermott, No. 92-5618, November 2, 1992** — Stevens dissents from Part II, joined by Stone-Zsela and Blackmun. They would grant leave in No. 92-5618 and deny that petition in the ordinary course. The judicial-disqualification question is a separate claim requiring its own assessment; it cannot be rejected merely as another aspect of the bar-admission litigation. The petition's failure to establish a basis for Supreme Court review does not, for these Justices, warrant withholding access without prepayment. They accept no recusal allegation as true and decide no statutory or constitutional merits question. Their disagreement concerns the fee disposition and its resulting paid-filing condition, not an entitlement to certiorari. They join Parts I and III, including the grant of leave in No. 92-5584 and the refusal of any prospective restriction. This dissent supplies no controlling proposition and does not withdraw Zatko's present force. Source: [Decision Record](records/Martin_v_District_of_Columbia_Court_of_Appeals_fee_motions_and_petition_1992-11-02.md).
@@ -1979,6 +2442,155 @@ Blackmun: full protection for truthful, noncoercive lawful commercial speech, wh
 
 O'Connor/Scalia/Souter/Thomas: a sufficiently excusable reason is required before favorable equities; no prejudice or good faith cannot cure ordinary neglect; absent lower finding that unusual notice caused omission, appellate allowance is improper and any necessary fact development should be remanded.
 
+#### United States v. McDermott, 1993-03-24
+
+Source: [record’s published writings](records/mcdermott_merits_1993-03-24.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | Scalia | I: priority and remedy. Joined by Stone-Zsela, White, Blackmun, Kennedy, Souter. | Reversal |
+| Dissent | Thomas | Entire. Joined by Stevens, O'Connor. | Would affirm |
+
+Thomas, joined by Stevens and O’Connor, would affirm. A docketed, enforceable and noncontingent judgment lien is sufficiently perfected under Vermont even though particular property enters its reach later. The dissent rejects making identification of each future asset an additional priority event; alternatively, simultaneous attachment supplies no reason to favor the federal lien. This is a disagreement about federal priority, not state ownership, and is noncontrolling.
+
+#### Arave v. Creech, 1993-03-30
+
+Source: [record’s published writings](records/arave_merits_1993-03-30.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | O'Connor | I–II: facial validity; III: limited remedy. Joined by White, Scalia, Kennedy, Souter, Thomas. | Reverse in part and remand |
+| Dissent | Blackmun | Entire. Joined by Stevens. | Would affirm facial invalidity |
+| Dissent | Stone-Zsela | Entire. No other join. | Would affirm facial invalidity on the stated construction ground |
+
+Blackmun, joined by Stevens, would affirm because the overlapping descriptions in Osborn do not provide a coherent boundary that a reviewing court can enforce. Godfrey, Maynard and Blackmun’s Walton dissent demand a State’s actual limiting principle, not a federal reconstruction of rhetoric. The violent-rage finding illustrates the instability but is not converted into an independent as-applied holding. Stone-Zsela separately would affirm on the same limited facial question: objective proof of mental state is possible, but that possibility does not define the line among emotional detachment, lack of sympathy, calculated intent and furious violence. Pitilessness does not itself narrow. His dissent preserves judicial narrowing as a permissible method and valid mental-state aggravators as a category. Both dissents leave the conviction and independent resentencing relief undisturbed. None controls.
+
+#### Delaware v. New York, 1993-03-30
+
+Source: [record’s published writings](records/delaware_original_exceptions_1993-03-30.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | Thomas | I–III: debts, priorities, proof and remand. Joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter. | Partial exceptions disposition |
+| Dissent | White | Entire. Joined by Blackmun, Stevens. | Would follow the Master’s contrary allocation |
+
+White, joined by Blackmun and Stevens, would accept the Master’s equitable approach. In their view, the issuer and the location of principal executive offices provide a more meaningful connection to these abandoned distributions than the incorporation of a securities intermediary. The dissent objects that the majority’s formal rules can distribute funds by corporate happenstance. It does not establish a competing controlling allocation or decide the private ownership claims reserved by the Court.
+
+#### Conroy v. Aniskoff, 1993-03-31
+
+Source: [record’s published writings](records/conroy_merits_1993-03-31.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | Stevens | I: statutory command, context and remedy. Joined by Stone-Zsela, White, Blackmun, O'Connor, Kennedy, Souter, Thomas. | Reversal; Scalia concurs in judgment |
+| Opinion of the Court | Stevens | II: legislative-history confirmation. Joined by White, Blackmun, O'Connor, Kennedy, Souter, Thomas. | Additional explanation; Stone does not join |
+| Opinion of the Court | Stevens | III: response defending legislative-intent inquiry. Joined by White, Blackmun, O'Connor, Kennedy, Souter. | Additional explanation; neither Stone nor Thomas joins |
+| Concurrence in the judgment | Scalia | Entire. No other join. | Same tolling result from enacted text |
+
+Scalia concurs in the judgment because the enacted command resolves the case. He objects that searching legislative history after finding an unambiguous statute invites selective reliance and needlessly burdens litigants. Stevens’s additional discussion, joined as specified in the topology, regards the enactment history as confirmation of the statutory distinction and rejects the claim that this result is absurd. Thomas does not join the separate defense of legislative-intent inquiry; Stone joins only the operative statutory analysis. These methodological differences create no exception to the tolling rule.
+
+#### United States v. Texas, 1993-04-05
+
+Source: [record’s published writings](records/texas_merits_1993-04-05.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | White | I: common-law obligation; II: non-displacement and remand. Joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas. | Reversal |
+| Dissent | Stevens | Entire. No other join. | Would affirm |
+
+Stevens would affirm. North Carolina and Board of Commissioners demonstrate that state interest liability was not a long-settled general rule when Congress excluded States in 1982. West Virginia came five years later. He regards today’s extension to a strict reimbursement obligation as an affirmative development rather than merely preservation of established state liability, and would honor the statutory exclusion accordingly. His view is not sovereign immunity against the United States and does not deny the undisputed principal debt. The majority acknowledges the temporal objection but disagrees about displacement.
+
+#### United States v. Green, 1993-04-05
+
+Source: [record’s published writings](records/green_mootness_order_1993-04-05.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Per curiam order | Per curiam; no individual author | Entire. No individual joins reported. | Grant vacated; petition dismissed as moot; no published individual votes |
+
+No separate opinion or noted statement.
+
+#### Hazen Paper Co. v. Biggins, 1993-04-20
+
+Source: [record’s published writings](records/hazen_merits_1993-04-20.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | O'Connor | I: liability; II: willfulness; III: remand. Joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas. | Unanimous vacatur |
+| Concurrence | Kennedy | Entire. Joined by Thomas. | Joins the Court; stresses unresolved disparate impact |
+
+Kennedy, joined by Thomas, concurs while emphasizing that Biggins brought disparate treatment alone. He regards importing Title VII disparate-impact doctrine into the ADEA as presenting substantial unresolved objections and understands the Court to decide none of them. The Court’s express reservation supports his join; his skepticism is not a holding. Stone does not join this additional theory.
+
+#### Newark Morning Ledger Co. v. United States, 1993-04-20
+
+Source: [record’s published writings](records/newark_merits_1993-04-20.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | Blackmun | I: governing rule; II: proved asset and remand. Joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas. | Reversal |
+| Dissent | Souter | Entire. Joined by White, Scalia. | Would affirm |
+
+Souter, joined by White and Scalia, would affirm on two grounds. First, the regulation categorically denies depreciation of goodwill, and at-will subscribers’ expected continued purchases are that goodwill; redefining it as whatever remains after measurable assets are removed changes the accepted rule. Second, even under the Court’s test, measuring how long existing subscribers continue does not establish how long the purchased pre-sale goodwill lasts rather than being sustained by post-sale editorial and business efforts. The conditional stipulation concedes neither issue. These independent objections are noncontrolling; the majority accepts the trial findings under the proof-based construction.
+
+#### Nebraska v. Wyoming, 1993-04-20
+
+Source: [record’s published writings](records/nebraska_partial_summary_judgment_1993-04-20.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | O'Connor | I: enforcement/modification and Rule 56; II-A: decree-based Inland Lakes right; III–V: remaining components and remedy. Joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas. | Unanimous stated component dispositions |
+| Opinion of the Court | O'Connor | II-B: independently sufficient postdecree-acquiescence ground. Joined by White, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas. | Eight-Justice alternative ground; Stone does not join |
+
+No separate writing. The Chief’s limited join leaves the independent acquiescence ground supported by eight Justices. Stone joins the intervention denial in the judgment only and adds no ground.
+
+#### Brecht v. Abrahamson, 1993-04-21
+
+Source: [record’s published writings](records/brecht_merits_1993-04-21.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | White | I: constitutional trial error. Joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | Unanimous classification |
+| Opinion of the Court | White | II–III: Chapman for this claim; vacatur and conditional-remedy directions. Joined by Stone-Zsela, Blackmun, O'Connor, Souter. | Five-Justice controlling rule |
+| Concurrence | White | A: broader continuity argument. Joined by Blackmun, Souter. | Souter joins without taking a position on Powell’s merits |
+| Concurrence | White | B: objection to rigid structural/trial taxonomy. Joined by Blackmun. | Noncontrolling methodological reservation |
+| Concurrence | O'Connor | Entire. No other join. | Reliability and administration grounds; joins the Court |
+| Dissent | Kennedy | Entire. Joined by Scalia, Thomas. | Would affirm using Kotteakos |
+| Dissent | Stevens | Entire. No other join. | Would affirm using demanding whole-record Kotteakos review |
+
+White, joined by Blackmun and by Souter in Part A with an express reservation of Powell’s merits, concurs that section 2254 and the Court’s constitutional practice more broadly resist giving the same error different remedial force solely because direct review has ended. White and Blackmun alone also question the reliability of a rigid trial-error/structural-defect taxonomy; that reservation does not undo their join in the classification of this Doyle error. O’Connor concurs on the importance of confidence in verdict accuracy and the administrative costs of multiplying harmless-error categories. She accepts that direct and collateral review can differ, but finds no sufficient justification for diluting Chapman here.
+
+Kennedy, joined by Scalia and Thomas, would affirm. Finality, comity and the limited collateral role justify asking whether the violation substantially and injuriously affected the verdict under Kotteakos. Lawful prewarning impeachment and the physical and circumstantial evidence make the improper references cumulative on this record. The dissent does not recast Doyle as nonconstitutional or treat structural defects as ordinary trial errors. It leaves open, without adopting an exception, whether an especially egregious deliberate error or a pattern of misconduct could independently undermine the proceeding’s integrity despite no substantial verdict effect. Stevens separately would affirm under Kotteakos, as anticipated by his Greer concurrence. He emphasizes a demanding independent review of the entire record, the prosecution’s obligation to explain harmlessness and the error’s actual influence on the factfinder rather than a bare sufficiency-of-evidence test. His reasoning and the principal dissent remain noncontrolling.
+
+#### Withrow v. Williams, 1993-04-21
+
+Source: [record’s published writings](records/withrow_merits_1993-04-21.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | Souter | I–II: Miranda review and corresponding remand. Joined by Stone-Zsela, White, Blackmun, Stevens, Kennedy. | Six-Justice holding |
+| Opinion of the Court | Souter | III: notice and opportunity on the independent theory. Joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas. | Unanimous holding |
+| Concurrence in part and dissent | O'Connor | Entire. No other join. | Joins III; would extend Powell |
+| Concurrence in part and dissent | Scalia | Entire. Joined by Thomas. | Joins III; would assess exceptional equitable grounds before relitigation |
+
+O’Connor concurs in the notice reversal and dissents on Miranda review. Following her Duckworth concurrence, she would extend Powell to a claim involving voluntary but unwarned statements after a full and fair state opportunity. She regards involuntariness review as the appropriate means to remedy genuine coercion and the added deterrent value of later Miranda review as insufficient to outweigh finality and retrial costs. This does not reject collateral review of actual compelled statements.
+
+Scalia, joined by Thomas, also joins the notice ruling but would remand for a determination whether unusual equitable circumstances justify renewed Miranda litigation after the opportunities already afforded. He treats prior full and fair litigation as a powerful equitable consideration under sections 2241 and 2243, subject to considerations concerning fairness or accuracy, rather than a jurisdictional defect. The separate writing urges a broader approach beyond this case; the Court does not adopt it. It does not cite an unentered historical Brecht rule or convert the simulated Herrera’s limited record holding into a categorical innocence bar.
+
+#### CSX Transportation, Inc. v. Easterwood, 1993-04-21
+
+Source: [record’s published writings](records/easterwood_merits_1993-04-21.md).
+
+| Writing | Author | Parts and exact joins | Judgment relationship |
+|---|---|---|---|
+| Opinion of the Court | White | I: section 434 coverage; II: warning devices. Joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | Unanimous warning disposition and governing coverage rule |
+| Opinion of the Court | White | III–IV: ordinary speed application and disposition. Joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy. | Six-Justice speed holding |
+| Concurrence in part and dissent | Thomas | Entire. Joined by Souter. | Joins I–II; would allow speed claim |
+| Concurrence in part and dissent | Stone-Zsela | Entire. No other join. | Joins I–II; would vacate speed ruling for the bounded inquiry |
+
+Thomas, joined by Souter, concurs on warning devices and dissents on speed. He reads the track-class maximum as addressing track safety rather than substantially subsuming every crossing-specific speed duty. The contemporaneous rulemaking’s exclusion of population and crossing variables, and the reservation of other slowing duties, defeat broader coverage in his view. He would let the pleaded speed claim proceed; he does not announce liability.
+
+Stone-Zsela concurs on warning devices and the statutory coverage method but would vacate the categorical speed ruling for a limited inquiry into the duty actually pleaded and preserved. A demand merely to substitute a lower ordinary operating-speed limit remains preempted. A distinct preserved crossing-condition duty may proceed only if its subject is not substantially covered by operative regulations; general time-and-place allegations do not establish that distinction. The remand may not manufacture a new theory or treat separately pleaded vegetation or hump issues as an unestablished speed claim. If no qualifying theory exists, speed preemption remains. He leaves the specific-individual-hazard question reserved and requires independent satisfaction of every local-hazard condition for any reliance on that saving clause. His remand position is neither the six-Justice affirmance nor the two-Justice position allowing the speed claim outright, and it is noncontrolling.
+
 ### 5. Current Procedure and Institution
 
 Nine Justices seated throughout these completed events: Chief Stone-Zsela; associates White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas in seniority order. Quorum six; ordinary full-Court action requires five of nine; certiorari requires four affirmative votes. Event-specific nonparticipation is recorded in the relevant decision and does not alter the seated roster. Allotments effective October 23, 1991 remain: Stone D.C./Fourth/Federal; Souter First; Scalia Second/Third; O'Connor Fifth; Stevens Sixth/Seventh; Blackmun Eighth; Kennedy Ninth; White Tenth; Thomas Eleventh. Listed interim applications refer to the full Court; ordinary petitions and IFP filing motions are not routed through a fictitious Circuit Justice referral.
@@ -2039,9 +2651,22 @@ Graham materially changes the legal premise for the later Johnson v. Texas event
 - **Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership, 1993-03-24:** Supreme Court merits review is complete; the Sixth Circuit judgment stands and the bankruptcy proceedings continue with these late proofs of claim permitted. The validity, priority and amount of the claims remain for ordinary bankruptcy administration. No later confirmation, distribution or remand schedule is supplied.
 - **Demos v. Storrie, No. 92-6846, March 8, 1993:** No Court action entered. The fee motion and proposed prospective condition remain open pending the revalidation stated below; neither a compliance date nor a petition disposition is invented.
 
+- **United States v. McDermott, 1993-03-24:** Supreme Court merits review is complete. Proceedings below implement federal priority in the substituted proceeds. No stay, new filing deadline or retained Supreme Court proceeding is created. [Record](records/mcdermott_merits_1993-03-24.md).
+- **Arave v. Creech, 1993-03-30:** Federal proceedings resume on the limited remand; the state resentencing entitlement remains operative, including new mitigation and the unreviewed finding requirements. No death sentence is reinstated. No execution date or further filing is inferred. [Record](records/arave_merits_1993-03-30.md).
+- **Delaware v. New York, 1993-03-30:** Original jurisdiction retained. Pending participation motions are granted; the Special Master must determine the relevant obligations and address evidence and recommend a decree. No amount, deadline or completed accounting is invented. [Record](records/delaware_original_exceptions_1993-03-30.md).
+- **Conroy v. Aniskoff, 1993-03-31:** Supreme Court review complete; state proceedings continue consistently with mandatory exclusion of qualifying service. Remaining title and procedural issues are not decided; the tax debt survives. [Record](records/conroy_merits_1993-03-31.md).
+- **United States v. Texas, 1993-04-05:** Supreme Court review complete; remand for the common-law interest determination, with principal liability and waiver refusal undisturbed. No amount, accrual date or rate is invented. [Record](records/texas_merits_1993-04-05.md).
+- **United States v. Green, 1993-04-05:** The Supreme Court petition proceeding ends. The grant alone is withdrawn; the lower suppression judgment remains undisturbed. No remand instruction, substituted respondent or conviction-abatement order issues. [Record](records/green_mootness_order_1993-04-05.md).
+- **Hazen Paper Co. v. Biggins, 1993-04-20:** Supreme Court review complete; the First Circuit reconsiders ADEA evidentiary sufficiency and, if necessary, willfulness. Independent ERISA and state-law relief remains subject to its own judgments. No new damages amount is ordered. [Record](records/hazen_merits_1993-04-20.md).
+- **Newark Morning Ledger Co. v. United States, 1993-04-20:** Supreme Court review complete; refund proceedings resume consistently with the proved-asset rule and existing findings. No new statutory amortization period, election or tax amount is ordered. [Record](records/newark_merits_1993-04-20.md).
+- **Nebraska v. Wyoming, 1993-04-20:** Original action retained before the Master. Inland Lakes and the limited no-cap question are resolved; Laramie, Deer Creek and remaining downstream issues continue under the specified burdens. A Corn Creek status conference may proceed; no date is supplied. Intervention denied. No new final river decree or injunction issues. [Record](records/nebraska_partial_summary_judgment_1993-04-20.md).
+- **Brecht v. Abrahamson, 1993-04-21:** Supreme Court merits review complete. The Seventh Circuit’s judgment is vacated; it must perform Chapman review, including the State’s burden. No current writ, release order, acquittal or retrial deadline is entered. The alternative conditional remedy applies only if the State fails that inquiry. [Record](records/brecht_merits_1993-04-21.md).
+- **Withrow v. Williams, 1993-04-21:** Supreme Court review complete; mixed appellate judgment remanded. Miranda review remains available and its remedial consequence requires proper analysis. The independent voluntariness ruling is reversed without deciding its merits; lawful presentation and ordinary gates precede new adjudication. Same-day Brecht operates prospectively within its Doyle scope, not as an invented prior event or blanket Miranda rule. [Record](records/withrow_merits_1993-04-21.md).
+- **CSX Transportation, Inc. v. Easterwood, 1993-04-21:** Both reviewed appellate components affirmed. Warning-device negligence proceedings continue; ordinary speed claim remains preempted. No negligence finding, damages award, new speed theory or specific-individual-hazard adjudication. Other unreviewed claims retain their own posture. [Record](records/easterwood_merits_1993-04-21.md).
+
 ### 6. Blockers and Revalidation Needs
 
-One chunk 4 matter is stopped. The existing Coleman blocker remains open. No completed event is changed.
+No chunk 5 matter is stopped. The existing Coleman and Demos blockers remain open. No completed earlier event is changed.
 
 | Matter | Exact blocker |
 |---|---|
@@ -2050,17 +2675,17 @@ One chunk 4 matter is stopped. The existing Coleman blocker remains open. No com
 
 Demos source: [original petition and lower orders](https://archive.org/download/micro_IA40385013_0424/micro_IA40385013_0424%202.%20Petition%20for%20Writ%20of%20Certiorari.pdf); sanitized source validation and frozen handoffs are retained under tmp/ot1992-chunk4. The official-interference allegations are not findings. The pre-divergence In re Demos extraordinary-writ order remains effective within its actual scope; unentered historical post-divergence fee denials are not simulated Court actions.
 
-Grubbs, the Martin companion, Zatko, Wyoming, Reynolds and Louisiana retain their already recorded open stages or implementation jurisdiction. Further action requires its own authorized materials or verified filing; passage of a compliance date does not create a disposition. McDermott requires the common March 23 entering-law baseline when chunk 5 is run. Graham's previously identified effect on Johnson v. Texas remains a revalidation dependency.
+Grubbs, the Martin companion, Zatko, Wyoming, Reynolds and Louisiana retain their already recorded open stages or implementation jurisdiction. Further action requires its own authorized materials or verified filing; passage of a compliance date does not create a disposition. McDermott has now been completed against its required March 23 baseline. Delaware v. New York and Nebraska v. Wyoming remain in original jurisdiction at their new master-proceeding stages. Graham's previously identified effect on Johnson v. Texas remains a revalidation dependency. Before chunk 6, revalidate Olano against the actual narrow Doyle holding in Brecht, not a historical general Kotteakos rule; Rule 52(b) remains a separate question. Withrow’s remand uses law effective when applied, without treating the April 21 display order as chronology or automatically extending a Doyle holding to all Miranda issues. No future Stone choice is inferred.
 
 ### 7. Source and Research Cutoff
 
-Opening trackers; Engine and Composition; unchanged case-list and runtime files; every ledger record and its source map control continuation. All 36 split runtime sections match the corresponding combined brief sections. Opening tracker bytes match the frozen OT1991 candidates. Sources were retrieved September 16, 2026, with in-world eligibility limited separately to each event date through March 24, 1993. Original petitions and appendices, complete lower judicial texts, official U.S. Reports PDFs, and date-eligible authorities are under tmp/ot1992-chunk4. Per-record maps distinguish source facts, simulated law, comparator history and inference; no later doctrine or unsupplied follow-on event is admitted.
+The opening trackers, unchanged inventory and runtime inputs, and every indexed record and its source map govern continuation. All 36 chunk 5 split sections were mechanically matched to the combined brief. Retrieval date September 16, 2026; in-world sources limited separately to each event date through April 21, 1993. Full relevant reported Supreme Court opinions, lower judicial opinions and located Archive materials are retained under tmp/ot1992-chunk5; an extracted Archive document is not claimed to be fully reviewed merely because downloaded. The records identify which sources support facts and distinguish comparator history from entered law. No unverified follow-on event is admitted. Earlier source and validation maps remain available in their records and prior working materials.
 
-Single-conversation mode was used. True blindness was unavailable. Non-Stone commitments were frozen before the comparator and Stone handoffs, with incidental source exposures and neutral refreshes disclosed in the individual audit annexes. Final file, chronology, holdings identity and protected-path checks are recorded at tmp/ot1992-chunk4/validation.json. Earlier validations and source records remain available at the locations cited in their records and earlier saved workspace. No Git commit, checkout, branch or push was run.
+Single-conversation mode: true blindness unavailable. The provisional and reconciliation handoffs were frozen before their respective comparator and Stone stages; incidental original-action exposure is disclosed in the records. Deterministic validation results are in tmp/ot1992-chunk5/validation.json. The twelve records, exact holdings projections, cumulative ledger, manifest, dates, votes, joins, open stages and protected paths were checked. No Git commit, checkout, branch or push was run.
 
 ## Current-Term Neutral Projection
 
-**Scope:** Opening state headers are those identified above; chronology cursor March 24, 1993 after Discovery Network and Pioneer. The uncoordinated March 24 group is incomplete: McDermott, chunk 5, must use entering law through March 23 and exclude both completed March 24 peers. Later-date events receive their combined effective public law. Demos remains unadjudicated; its supplied March 8 motion stays open. Use the Full-Term Event Manifest's public stages, effective dates, open matters and dependencies. Nine Justices seated throughout these completed events: Chief Stone-Zsela; associates White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas in seniority order. Quorum six; ordinary full-Court action requires five of nine; certiorari requires four affirmative votes. Event-specific nonparticipation is recorded in the relevant decision and does not alter the seated roster. Allotments effective October 23, 1991 remain: Stone D.C./Fourth/Federal; Souter First; Scalia Second/Third; O'Connor Fifth; Stevens Sixth/Seventh; Blackmun Eighth; Kennedy Ninth; White Tenth; Thomas Eleventh. Listed interim applications refer to the full Court; ordinary petitions and IFP filing motions are not routed through a fictitious Circuit Justice referral.
+**Scope:** Opening state headers are those identified above; chronology cursor April 21, 1993 after Brecht, Withrow and Easterwood. The March 24 group is complete, including McDermott; each member used March 23 entering law. The April 21 group used April 20 entering law and operates prospectively within each holding’s scope. Demos remains unadjudicated; its supplied March 8 motion stays open. Use the Full-Term Event Manifest's public stages, effective dates, open matters and dependencies. Nine Justices seated throughout these completed events: Chief Stone-Zsela; associates White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas in seniority order. Quorum six; ordinary full-Court action requires five of nine; certiorari requires four affirmative votes. Event-specific nonparticipation is recorded in the relevant decision and does not alter the seated roster. Allotments effective October 23, 1991 remain: Stone D.C./Fourth/Federal; Souter First; Scalia Second/Third; O'Connor Fifth; Stevens Sixth/Seventh; Blackmun Eighth; Kennedy Ninth; White Tenth; Thomas Eleventh. Listed interim applications refer to the full Court; ordinary petitions and IFP filing motions are not routed through a fictitious Circuit Justice referral.
 
 **Current public law:** For any replay within an uncoordinated date group, exclude that group’s own decisions from its entering law. At the current cursor include the October24 Energy Policy Act’s exact prospective transition, section1355(b)–(d) effective October28, and the exact controlling propositions, authority, qualifications and precedent treatment in Current Law above. That section contains only Court law, legal noncase text and public procedural effects; it may be supplied in full with the opening trackers as the current neutral law projection. Do not supply the raw ledger records' Stone sections or audit annexes to neutral modeling.
 
@@ -2069,3 +2694,6 @@ Single-conversation mode was used. True blindness was unavailable. Non-Stone com
 **Public procedure:** Completed events and resulting stages are those in Current Procedure and Institution above. Louisiana retains original implementation jurisdiction after its completed supplemental decree. Grubbs remains pending further Court order; Coleman has no entered OT1992 action; Zatko, Wyoming and Reynolds remain open. Martin No. 92-5584 received IFP and certiorari was denied November 2. No. 92-5618 IFP was denied with payment and Rule 33 compliance permitted through November 23; its petition has no terminal disposition, and no compliance or default is established. Martin is subject to no prospective filing restriction. A later unsupplied filing or terminal action is not presumed. The scheduled White and Ginsburg transitions are future planning premises only.
 
 **Neutral continuation limitations:** Demos requires renewed approved materials against the actual Martin current-filing rule and the original petition’s alleged official interference with a timely appeal; no current-petition frivolousness finding or new filing condition has been made.  Coleman October live posture requires a refreshed neutral packet before that affected event proceeds. Martin's completed action and companion compliance condition are supplied above; no later payment or terminal event may be inferred. No private instruction, provisional commitment, historical comparison, reconciliation, or vote poll is part of this projection. The internal files cited in the operator blocker section are not themselves neutral handoff inputs except for an expressly sanitized source packet.
+
+
+**Chunk 5 public continuity:** Delaware v. New York and Nebraska v. Wyoming remain before their Special Masters at the component stages specified above. Green’s petition is closed after grant vacatur, without lower-judgment vacatur. Arave’s independent resentencing relief remains. Brecht vacates for Chapman review of preserved Doyle error and supplies no general Kotteakos constitutional-habeas standard. Withrow preserves Miranda review but reverses the unpleaded involuntariness ruling. Easterwood leaves warning negligence open and ordinary speed preempted; the Chief’s bounded-remand position and Thomas–Souter objection are noncontrolling. The complete controlling law and published noncontrolling positions above are the sanitized fields for fresh modeling; do not supply the records’ private Stone supplements or audit annexes. Next eligible inventory event: Olano, April 26, 1993.
