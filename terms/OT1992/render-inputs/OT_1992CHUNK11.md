@@ -7,7 +7,7 @@
 - Chronological range of completed Court events: June 28–July 26, 1993.
 - June 28 shared entering baseline: June 25; no priority over or from Austin.
 - Institutional setting: White retires after the June 28 decisions; eight members participate July 21 and July 26.
-- No stopped matter remains in this chunk. Delo v. Blair's record-dependent hold is resolved: applying Stone's own recorded Herrera dissent to a claim the Court calls indistinguishable from Herrera's, the application to vacate the Eighth Circuit's stay fails 4–4, and the stay remains in effect; see [Decision Record](../records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md) (version 2.0).
+- No stopped matter remains in this chunk. Delo v. Blair's record-dependent hold is resolved: applying Stone's own recorded Herrera dissent to a claim the Court calls indistinguishable from Herrera's, the application to vacate the Eighth Circuit's stay fails 4–4, and the stay remains in effect; see [Decision Record](../records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md) (version 2.1).
 
 # Alexander v. United States — 1993-06-28
 
@@ -118,7 +118,7 @@ Supreme Court merits review is complete. The Eighth Circuit judgment is vacated 
 
 ## Event
 
-Delo, Superintendent, Potosi Correctional Center v. Blair, No.A-69, October Term 1992; application to vacate a stay of execution, decided July 21, 1993. Historical reporter locator: 509 U.S.823. Walter Blair's execution was scheduled in Missouri; a successive federal habeas petition raised an actual-innocence claim supported by seven affidavits. The District Court, finding the facts mirror those in the simulated Herrera v. Collins, nonetheless granted a stay; the Eighth Circuit affirmed it and indicated a need for further study over roughly five weeks. The State applied to vacate that stay. Render form: full — an equally divided Court, 4–4, with no opinion commanding a majority; four separate statements require full form under AGENTS.md. This event replaces the chunk 11 record-dependent hold; see the [Decision Record](../records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md) (version 2.0) for full sourcing and reasoning, including the correction of a defect in the initially published version 1.0.
+Delo, Superintendent, Potosi Correctional Center v. Blair, No.A-69, October Term 1992; application to vacate a stay of execution, decided July 21, 1993. Historical reporter locator: 509 U.S.823. Walter Blair's execution was scheduled in Missouri; a successive federal habeas petition raised an actual-innocence claim supported by seven affidavits. The District Court, finding the facts mirror those in the simulated Herrera v. Collins, nonetheless granted a stay; the Eighth Circuit affirmed it and indicated a need for further study over roughly five weeks. The State applied to vacate that stay. Render form: full — an equally divided Court, 4–4, with no opinion commanding a majority; four separate statements require full form under AGENTS.md. This event replaces the chunk 11 record-dependent hold; see the [Decision Record](../records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md) (version 2.1) for full sourcing and reasoning, including the correction of a defect in the initially published version 1.0.
 
 ## Participation
 

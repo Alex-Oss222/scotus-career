@@ -3,7 +3,7 @@
 ## Chunk metadata
 
 - October Term: 1992.
-- Events rendered: 12 completed Court events listed below (11 from the original Run plus Demos v. Storrie, completed by correction). This file supplies inputs; no public render is written by this Run.
+- Events rendered: 12 completed Court events listed below (11 from the original Run plus Demos v. Storrie, completed by correction at commit `e147769` and record-completeness-corrected at commit `3cc14e4` to version 1.1). This file supplies inputs; no public render is written by this Run.
 - Chronological range: March 3–24, 1993. Same-day uncoordinated events share entering law and have no implied internal priority. March 24 also includes the uncompleted McDermott event in chunk 5.
 
 | Effective date | Completed event | Action |
@@ -665,6 +665,12 @@ IFP granted, 9–0; certiorari denied in the ordinary course; prospective filing
 
 **Controlling explanation:** The Court holds that Demos's documented history does not dispose of the paper now before it, for the same reason stated in Martin: Zatko permits discretionary fee denial for an identified frivolous submission in an extreme pattern of abuse, but it does not make earlier denials conclusive of a later, different petition's character. The Ninth Circuit treated the original prefiling order's validity as settled because it went unappealed; Demos's allegation that official interference caused that default goes directly to whether the unappealed-finality premise should control, rather than merely relitigating the personal grievance the prefiling order already addressed. That is a distinct, non-conclusory legal theory of the same kind Martin's general-rule argument presented, not a bare repetition of past filings. The Court does not credit the interference allegation as true and does not find that it would excuse the default or justify relief; it decides only that the allegation is not so insubstantial as to be frivolous or malicious. The motion is granted; the underlying petition remains subject to ordinary discretionary review.
 
+**Precedent treatment:**
+- Zatko v. California, 502 U.S. 16 (November 4, 1991): applied as the existing discretionary, particular-submission rule; its extreme-abuse finding does not establish the frivolousness of a different current petition.
+- Martin v. District of Columbia Court of Appeals, No. 92-5584 (November 2, 1992): applied; its filing-specific frivolousness standard controls this later fee motion.
+- In re Demos, 500 U.S. 16 (1991): distinguished; its narrower, earlier extraordinary-writ restriction addressed different filings and does not itself resolve this civil-certiorari fee question.
+- Denton v. Hernandez, 504 U.S. 25 (May 4, 1992): its distinction between an arguable claim and a clearly baseless allegation informs this limited assessment without importing its statutory screening rules wholesale into Rule 39.
+
 ##### No prospective filing restriction on this record
 
 **Holding and operative rule:** The Court declines to impose a prospective fee-and-form condition on Demos's unidentified future civil-certiorari petitions because the established record does not show that individualized treatment of particular filings is inadequate. This case-specific refusal decides neither that a prior warning is invariably required nor that prospective restrictions are categorically unlawful.
@@ -672,6 +678,12 @@ IFP granted, 9–0; certiorari denied in the ordinary course; prospective filing
 **Authority:** Per curiam opinion, joined by all nine participating Justices.
 
 **Controlling explanation:** The Court holds, for the same reasons stated in Martin, that the remedy should remain confined to the filing actually before it. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record. Denton's distinction between an arguable claim and a clearly baseless allegation, already applied to the fee question above, carries the same force here: a litigant whose current filing clears that threshold has not thereby shown a pattern of clearly baseless filings sufficient to justify a prospective, case-independent condition on every future petition, and the Court does not import Denton's statutory screening framework wholesale into this discretionary remedy. One present filing raises a distinct, non-frivolous allegation sufficient to permit filing, which itself supports declining a categorical prospective bar, because individualized review of each future petition remains adequate on this record and a broader restriction would reach filings not yet before the Court. The Court's conclusion rests on this record and available remedies, without deciding a universal notice requirement or the legality of every possible future restriction; a future record demonstrating a clearly baseless pattern distinguishable from this filing could support a different result.
+
+**Precedent treatment:**
+- In re McDonald, 489 U.S. 180 (1989): preserved as authority for targeted protection against extraordinary-writ abuse; no extension to all future civil-certiorari petitions is made here.
+- In re Sindram, 498 U.S. 177 (1991): its extraordinary-writ setting is distinguished; its existing force is unchanged.
+- Martin v. District of Columbia Court of Appeals (November 2, 1992): applied; the same unanimous decline to impose a prospective restriction controls here.
+- Denton v. Hernandez, 504 U.S. 25 (May 4, 1992): its arguable-claim/clearly-baseless distinction informs the adequacy of individualized review here as well, without importing its statutory screening rules wholesale into this discretionary remedy.
 
 ## Precedent Treatment
 

@@ -2,7 +2,7 @@
 
 Natural event key: Hartford Fire Insurance v. California, No.91-1111 and91-1128, merits disposition, 1993-06-28, October Term 1992.
 
-Lineage: initial record v1.0; no completed decision superseded. Written September 17, 2026; no Git commit made.
+Lineage: version 1.1, superseding version 1.0. Version 1.0, initial record, no completed decision superseded, written September 17, 2026 at the original chunk 10 Run. Version 1.1 (commit `563cb7b`) corrects OT1992 Close Audit finding 4: the Participation and entering law section's §6a export-alternative shorthand ("specified U.S. export effect") was incomplete; it now states 15 U.S.C. §6a(1)(B)'s effect-on-export-trade test, §6a(2)'s claim-connection requirement, and the export-only injury limitation. No foreign-effects holding, vote, coalition, or remedy changed.
 
 ## Event and chronology
 
@@ -200,6 +200,8 @@ White’s provisional narrow boycott forecast was reconciled before Stone with h
 
 Stone participates in both five Justice governing coalitions and assigns Souter the common exemption/foreign conduct opinion and Scalia the boycott portion. White’s broader Barry ground remains with Souter, Blackmun and Stevens; the common judgment does not create a whole opinion join. Scalia’s foreign conduct dissent does not alter his controlling boycott portion. Final joins are the exact scopes in the topology; no agreement in judgment is treated as adoption of a different rationale. Published noncontrolling propositions are retained above for future modeling.
 
+**Version 1.1 correction note (commit `563cb7b`):** OT1992 Close Audit finding 4 identified that the Participation and entering law section's §6a export-alternative reference was an incomplete shorthand. The completion supplies the existing statute's own terms (§6a(1)(B)'s effect-on-export-trade test, §6a(2)'s claim-connection requirement, the export-only injury limitation) already implicit in the reserved-applicability treatment above; it does not add a new frozen commitment, reconciliation step, or Stone position, and none of the foreign-reach or boycott coalitions above are affected.
+
 ## Validation and durable status
 
-Completed and preserved at terms/OT1992/records/Hartford_Fire_Insurance_v_California_merits_1993-06-28.md. Term, date groups, natural keys, nine-Justice participation, five-vote threshold, component arithmetic, proposition coalitions, assignment and exact Holdings projection checked. Source-supported posture and controlling versus noncontrolling distinctions reviewed; no unresolved material blocker remains for this event. Deterministic results: tmp/ot1992-chunk10/validation.json. Effective current law date: 1993-06-28; preservation date: September 17, 2026. No external tracker, public render or protected input is modified.
+Completed and preserved at terms/OT1992/records/Hartford_Fire_Insurance_v_California_merits_1993-06-28.md. Term, date groups, natural keys, nine-Justice participation, five-vote threshold, component arithmetic, proposition coalitions, assignment and exact Holdings projection checked. Source-supported posture and controlling versus noncontrolling distinctions reviewed; no unresolved material blocker remains for this event. Deterministic results: tmp/ot1992-chunk10/validation.json. Effective current law date: 1993-06-28; preservation date: September 17, 2026 (version 1.0); version 1.1 correction date: September 17, 2026, commit `563cb7b`. No external tracker, public render or protected input is modified.

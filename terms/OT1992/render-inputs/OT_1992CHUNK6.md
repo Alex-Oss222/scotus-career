@@ -2,7 +2,7 @@
 
 ## Chunk metadata
 
-October Term: 1992. Chunk: 6. Completed events supplied for rendering: 12. Chronological range: April 26–May 17, 1993. No stopped matter remains in this chunk; Moreau v. Klevenhagen, No.92-1, is completed by correction (see below). Same-day display order creates no legal priority. This is the eleven-block projection, not a public render.
+October Term: 1992. Chunk: 6. Completed events supplied for rendering: 12. Chronological range: April 26–May 17, 1993. No stopped matter remains in this chunk; Moreau v. Klevenhagen, No.92-1, is completed by correction at commit `e147769` (see below) and record-completeness-corrected at commit `3cc14e4` to version 1.1. Same-day display order creates no legal priority. This is the eleven-block projection, not a public render.
 
 - 1993-04-26 — United States v. Olano; No. 91-1306.
 - 1993-04-26 — United States v. California; No. 91-2003.
@@ -794,7 +794,7 @@ Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, White,
 
 #### The earlier-hire component: the transition rule supplies the agreement
 
-**Holding and operative rule:** For employees described in § 207(o)(2)(A)(ii) who were hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement or understanding the statute otherwise requires before the work is performed, operating independently of any further individual or collective agreement for that cohort.
+**Holding and operative rule:** For employees described in § 207(o)(2)(A)(ii) who were hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement or understanding the statute otherwise requires before the work is performed. This transition rule operates independently of, and does not require, a further individual or collective agreement for that cohort.
 
 **Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
 
