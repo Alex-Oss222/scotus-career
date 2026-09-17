@@ -545,7 +545,9 @@ Merits decision, 1993-05-03
 
 #### Chronology and Posture
 
-Certiorari to the Fifth Circuit. The questions were whether a public employer may use individual compensatory-time agreements under the Fair Labor Standards Act when employees selected a representative organization that state law did not authorize to bargain a binding collective agreement, and whether the Act's transition provision independently supplies the required agreement, through the compensatory-time practice in effect April 15, 1986, for employees hired before that date.
+Moreau v. Klevenhagen, No. 92-1, October Term 1992. Argued March 1, 1993; decided May 3, 1993. Historical reporter locator: 508 U.S. 22. Certiorari to the Fifth Circuit, 956 F.2d 516, which sustained the employer's use of individual compensatory-time agreements. The questions were whether a public employer may use individual § 207(o)(2)(A)(ii) compensatory-time agreements under the Fair Labor Standards Act when employees selected a representative organization that state law did not authorize to bargain the § 207(o)(2)(A)(i) collective agreement, and whether the Act's transition provision independently supplies the required agreement, through the compensatory-time practice in effect April 15, 1986, for employees hired before that date.
+
+Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas participated at argument and decision. Nine participants; quorum six; five votes suffice for full-Court action.
 
 #### Judgment
 
@@ -553,21 +555,31 @@ Affirmed, 9–0, on both statutory tracks. Stevens delivers the opinion of the C
 
 #### Controlling Propositions and Authority
 
-##### The earlier-hire component
+##### The earlier-hire component: the transition rule supplies the agreement
 
-**Controlling proposition:** For employees hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement the statute otherwise requires before the work is performed.
-
-**Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
-
-**Controlling explanation:** Congress's transition text supplies the missing agreement for employees hired before the Act's public-sector amendments took hold, by reference to the practice actually in effect at that time. This does not excuse an employer from the ordinary individual-agreement route for anyone hired afterward.
-
-##### The later-hire component
-
-**Controlling proposition:** Where employees have selected a representative organization that state law does not authorize to enter a binding collective agreement, the employer may rely on individual agreements with employees hired on or after April 15, 1986.
+**Controlling proposition:** For employees described in § 207(o)(2)(A)(ii) who were hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement or understanding the statute otherwise requires before the work is performed, operating independently of any further individual or collective agreement for that cohort.
 
 **Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
 
-**Controlling explanation:** The statutory reference to an agreement with "a representative" does not compel recognition of an entity state law does not permit to make the relevant binding commitment. Individual consent remains necessary for this cohort.
+**Controlling explanation:** Section 207(o)(2) does not leave employees hired before the FLSA's public-sector amendments without a route to compensatory time merely because no contemporaneous individual agreement was separately documented. Congress's transition text supplies the missing agreement for that already-employed group by reference to the practice actually in effect when the amendments took hold. This does not excuse an employer from the ordinary individual-agreement route for anyone hired afterward, and does not convert a unilateral employer practice into an agreement outside the transition cohort the statute defines.
+
+**Precedent treatment:** No prior Supreme Court holding addressed this transition provision; the Court applies its text without displacing any earlier authority.
+
+##### The later-hire component: individual agreements where no representative could bind
+
+**Controlling proposition:** Where employees have selected a representative organization that state law does not authorize to enter a binding § 207(o)(2)(A)(i) agreement, the employer may rely on individual § 207(o)(2)(A)(ii) agreements with employees hired on or after April 15, 1986, rather than lose the compensatory-time option entirely for want of a legally capable collective representative.
+
+**Authority:** Stevens's opinion for the Court, joined by all nine participating Justices.
+
+**Controlling explanation:** The statutory reference to an agreement with "a representative" does not compel recognition of an entity state law does not permit to make the relevant binding commitment. Congress created a limited compensatory-time option grounded in actual consent, not a general public-sector collective-bargaining entitlement; state law determines whether a selected organization can make the collective agreement, while federal law determines the resulting overtime consequences. Individual consent remains necessary for this cohort.
+
+**Precedent treatment:** No Supreme Court precedent is overruled, limited, or extended beyond its own terms; the Court decides only the two routes actually presented on this record.
+
+#### Precedent Treatment and Current-Law Effect
+
+No prior Supreme Court holding addressed the § 207(o)(2) transition provision or the individual-agreement route on this record; the Court applies the statute's text without displacing any earlier authority.
+
+The Court decides no general federal right to public-sector collective bargaining, no exemption from ordinary overtime law, and no presumption of individual consent outside the two components actually presented. It does not address a compensatory-time practice adopted after April 15, 1986, or any employee for whom a legally authorized representative could have made the § 207(o)(2)(A)(i) agreement.
 
 #### Mandate, Remedy, and Stage
 

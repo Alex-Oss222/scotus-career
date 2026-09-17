@@ -818,7 +818,7 @@ No prior Supreme Court holding addressed the § 207(o)(2) transition provision o
 
 ### Law After Decision
 
-Before: § 207(o)(2)'s transition provision and the individual-agreement route for employees without a legally capable collective representative had not been addressed. After: both routes are confirmed as applied — the pre–April 15, 1986 practice satisfies the transition rule for that cohort, and individual agreements remain available for later hires absent a legally authorized representative. No general federal collective-bargaining right, no exemption from overtime law, and no presumption of individual consent is created.
+Before: § 207(o)(2)'s transition provision and the individual-agreement route for employees without a legally capable collective representative had not been addressed. After: both routes are confirmed as applied — the pre–April 15, 1986 practice satisfies the transition rule for that cohort, and individual agreements remain available for later hires absent a legally authorized representative. No general federal collective-bargaining right, no exemption from overtime law, and no presumption of individual consent is created. The Court does not address a compensatory-time practice adopted after April 15, 1986, or any employee for whom a legally authorized representative could have made the § 207(o)(2)(A)(i) agreement.
 
 ### Separate Writings
 
