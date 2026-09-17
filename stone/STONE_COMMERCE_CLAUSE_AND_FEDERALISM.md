@@ -1,1902 +1,1081 @@
-# STONE COMMERCE CLAUSE AND FEDERALISM
-## Complete Handoff for a New Chat — OT1991 Baseline Through OT2014
+# Justice Stone: Commerce Clause and Federalism build, OT1991 baseline through OT2014
 
-## READ THIS FIRST
+**Concerns Justice Stone only. Proposed positions, not predetermined Court holdings.**
 
-This document concerns **Justice Stone only**.
+## Scope and how to use this build
 
-It does **not** say that Stone's preferred position is automatically the position of the simulated Supreme Court. Stone begins every case with the law actually governing at that historical moment. He then either applies it, applies it differently, clarifies it, or openly proposes a change. His jurisprudence itself is not authority. That distinction is built into the Master Jurisprudence.
+Stone begins every case with the law actually governing at that historical moment. He then either applies it, applies it differently, clarifies it, or openly proposes a change; his jurisprudence itself is not authority, and that distinction is built into the Master Jurisprudence. Later cases must not be silently imported into earlier Terms — fix the legal world and date first, and keep existing law separate from proposed doctrinal development.
 
-Likewise, later cases must not be silently imported into earlier Terms. The analytical reference expressly requires fixing the legal world and date first and separating existing law from proposed doctrinal development.
+The organizing proposition is **enumerated end first, accountable means second**: Congress receives the national power the Constitution actually gives it, fully enough to make that power effective. National importance does not create a missing power. State tradition does not defeat a valid federal power. Individual rights do not themselves create federal power, and federal power does not defeat individual rights. Stone's mature Commerce position requires a genuine interstate mechanism rather than a verbal incantation — direct interstate transactions and channels, instrumentalities and things in commerce, genuinely economic classes materially connected to actual interstate markets, fitted anti-evasion or anti-impairment regulation, and materially demonstrated interstate externalities. General chains through crime, fear, insurance, health expenditures, education, productivity, consumption, or other downstream consequences are insufficient standing alone. The companion federalism principle is that direct federal regulation of an actor is different from forcing a State to administer federal policy: Congress can regulate private parties, preempt state law, administer its own program, directly regulate a State's own activity where an enumerated power reaches it, obtain voluntary cooperation, and attach valid funding conditions. What it cannot ordinarily do is transfer federal administration or enforcement against third parties to unwilling state executives.
 
-### Status labels
+**Status labels**, carried over from the source planning document:
 
 | Label | Meaning |
 |---|---|
-| **INHERITED BASELINE** | Decided before the opening of OT1992. Stone begins OT1992 with this law already available. |
-| **HISTORICAL SUPREME COURT MERITS CASE** | A real Supreme Court merits case used in the simulation. The disposition below is Stone's recommended position, not an assertion about the historical Court. |
-| **[LOWER-COURT SIM CASE]** | A real lower-court case brought into the simulation, generally through a real historical certiorari denial. Treat it as a simulation-added merits vehicle, not as a historical Supreme Court merits case. |
-| **STONE ROADMAP** | A future case whose proposed Stone disposition and doctrinal purpose were planned but which had not yet become simulation law at the synchronized cutoff. |
+| **Inherited baseline** | Decided before the opening of OT1992; Stone begins the restart with this law already available. |
+| **Historical Supreme Court merits case** | A real Supreme Court merits case used in the simulation; the disposition is Stone's recommended position, not an assertion about the historical Court. |
+| **Lower-court sim case** | A real lower-court case brought into the simulation, generally through a real historical certiorari denial — treat as a simulation-added merits vehicle, not a historical Supreme Court merits case. |
+| **Stone roadmap** | A future case whose proposed disposition and doctrinal purpose were planned but had not yet become simulation law at the synchronized cutoff. |
 
-The Commerce/Federalism project is not supposed to make Stone reflexively pro-State or reflexively pro-federal. The organizing proposition is:
+## Navigation
 
-**Enumerated end first. Accountable means second.**
+| Term | Cases | Status | Doctrinal job |
+|---|---|---|---|
+| Baseline | *New York*, *Quill*, *Chemical Waste*, *Fort Gratiot*, *Morales*, *Gade*, *Cipollone*, *Kraft* | Inherited | Anti-commandeering, dormant-Commerce, and preemption background already available at restart |
+| OT1992 | *Boston Harbor*, *Itel Containers*, *Easterwood*, *Greater Washington Board of Trade*, *Fabe*, *PRASA v. Metcalf & Eddy*, *United States v. California* | Historical | Proprietor/regulator, neutral taxation, duty-specific preemption, functional statutory classification, sovereign-immunity procedure |
+| OT1993 | *Oregon Waste*, *Carbone*, *West Lynn Creamery* | Historical | Sharpen dormant-Commerce anti-protectionism |
+| OT1994 | *Hess*, *Jefferson Lines*, *Wolens*, *Myrick*, ***Lopez***, *Harris*, *Robertson* | Historical / sim | Establish the Commerce boundary and prove it does not disable direct regulation |
+| OT1995 | *American Life League*, *Seminole Tribe*, *Bishop*, *Hale*, *Medtronic*, *SSC Corp.* | Historical / sim | Market-access mechanism, sovereign-immunity remedy separation, machinegun anti-evasion rule |
+| OT1996 | *Pic-A-State*, *Coeur d'Alene Tribe*, *Boerne*, ***Printz***, *Mussari* | Historical / sim | Anti-commandeering extended to executives; congressional-enforcement limit |
+| OT1997 | *Rybar*, *Robinson*, *Hinds*, *Bird*, *Nashville*, ***Home Builders*** | Historical / sim | Stabilize the machinegun rule; operationalize the questions *Lopez* left open |
+| OT1998 | *Florida Prepaid*, *College Savings*, *Alden* | Historical | Sequence sovereign immunity into duty → remedy → forum |
+| OT1999 | *Kimel*, *Reno v. Condon*, *Locke*, *Fraternal Order of Police*, *Gillespie*, ***Morrison***, *Jones*, *Geier*, *Crosby*, *Bradley* | Historical / sim | Major Commerce limit; anti-commandeering clarification; duty-specific preemption matures |
+| OT2000 | *SWANCC*, *Garrett*, *Buckman*, *Kansas*, *Oakland Cannabis*, *Gibbs*, *Angle* (grant) | Historical / sim | Practical-choice Spending rule; evidentiary discipline for Commerce mechanisms |
+| OT2001 | *Michigan v. EPA*, *Lapides*, *Verizon Maryland*, *FMC v. South Carolina Ports*, *Angle* (merits) | Historical / sim | Cooperative federalism model; mature pre-*Raich* Commerce synthesis |
+| OT2002 | — | Deliberate silence | No manufactured vehicle |
+| OT2003 | *Hood* | Roadmap | Narrow bankruptcy exception to sovereign immunity |
+| OT2004 | *Granholm*, ***Raich*** | Roadmap | Alcohol dormant-Commerce; national-market anti-evasion applied to its strongest case |
+| OT2005 | *Katz* | Roadmap | Complete the bankruptcy exception |
+| OT2006 | *United Haulers* | Roadmap | Complete the public-facility dormant-Commerce line |
+| OT2007 | *Davis* | Roadmap | Narrow government-financing exception to dormant Commerce |
+| OT2008 | — | Deliberate silence | No manufactured vehicle |
+| OT2009 | *Comstock* | Roadmap | Necessary-and-Proper reasoning tied to an existing federal custodial relationship |
+| OT2010 | *VOPA*, *Sossamon*, *Bond I* | Roadmap | Officer-relief and Spending-notice refinements; individual standing for federalism claims |
+| OT2011 | ***Arizona***, ***NFIB v. Sebelius*** | Roadmap | Provision-by-provision preemption; the Commerce-power creation boundary |
+| OT2012 | — | Deliberate silence | No manufactured vehicle |
+| OT2013 | *Bond II* | Roadmap | Avoidance at maturity |
+| OT2014 | *Armstrong*, *Wynne* | Roadmap | Supremacy Clause is not a cause of action; culmination of the taxation chain |
 
-Congress receives the national power the Constitution actually gives it, fully enough to make that power effective. National importance does not create a missing power. State tradition does not defeat a valid federal power. Individual rights do not themselves create federal power, and federal power does not defeat individual rights.
+## The standards Stone is building
 
-Stone's mature Commerce position requires a genuine interstate mechanism rather than a verbal incantation. The simulation ultimately recognizes direct interstate transactions and channels, instrumentalities and things in commerce, genuinely economic classes materially connected to actual interstate markets, fitted anti-evasion or anti-impairment regulation, and materially demonstrated interstate externalities. General chains through crime, fear, insurance, health expenditures, education, productivity, consumption, or other downstream consequences are insufficient standing alone.
+### F1. The Commerce Clause line: identify the mechanism
 
-The companion federalism principle is that direct federal regulation of an actor is different from forcing a State to administer federal policy. Congress can regulate private parties, preempt state law, administer its own program, directly regulate a State's own activity where an enumerated power reaches it, obtain voluntary cooperation, and attach valid funding conditions. What it cannot ordinarily do is transfer federal administration or enforcement against third parties to unwilling state executives.
+*Lopez* rejects limitless consequence-chain reasoning — Congress cannot argue local harm → social consequences → economic consequences → national economy → federal power; there must be an actual constitutional mechanism. *Harris* shows Congress can directly protect instrumentalities; *American Life League*/*Bird* show Congress can protect access to interstate service markets; *Hale*/*Rybar* show valid interstate product-market regulation can contain fitted anti-evasion possession rules; *Pic-A-State* and *Mussari* show direct interstate transactions and obligations remain easy cases. *Home Builders* holds that noneconomic does not automatically mean immune, but government must identify anti-evasion, material impairment, or a genuine substantial interstate externality; *Gibbs* proves those mechanisms require an actual record rather than judicial invention. *Fraternal Order of Police* requires a statutory Commerce phrase to perform actual constitutional work; *Angle* holds that remote movement of incidental production materials is not enough. *Raich* upholds regulation of local fungible controlled substances because exclusion would create a genuine market-enforcement hole — not abandonment of *Lopez*, but application of its other side. *NFIB* holds that Congress ordinarily cannot establish its own Commerce jurisdiction by compelling market entry and then regulating the transaction its command created. The mature line: *Lopez → Harris → Hale/Rybar → Home Builders → FOP → Gibbs → Angle → Raich → NFIB.* The point is neither "Congress weak" nor "Congress strong" — it is to identify the interstate mechanism and make it do real constitutional work.
 
-That is the architecture each case below is trying to build.
+### F2. The anti-commandeering / Spending line: genuine practical choice
 
----
+*New York*: State legislatures cannot be conscripted into administering federal policy. *Printz*: State executives cannot be conscripted either. *Reno v. Condon*: direct regulation of the State's own federally regulable conduct is different from conscripting the State to regulate others. *Bradley*: States may knowingly accept clear program-related funding conditions. *Kansas*: formal refusal is insufficient; the choice must remain practically real. *Michigan v. EPA*: valid cooperative federalism uses a federal standard, genuine State implementation discretion, and a federal fallback. *Sossamon*: consent extends only to clearly disclosed remedies. *NFIB*'s Medicaid holding is where *Kansas* receives its hardest application. The federal government can regulate directly, offer cooperation, or offer money — it cannot make a federal program work only by ensuring the State has no realistically practicable ability to say no.
 
-# ENTERING OT1992: OT1991 INHERITED BASELINE
+### F3. The dormant Commerce line: strongly anti-protectionist, not anti-State
 
-These cases are already behind Stone when OT1992 opens. Do not treat them as new OT1992 developments.
+*Chemical Waste*/*Fort Gratiot*: geography cannot be used to exclude interstate competition. *Oregon Waste*: origin-based discriminatory charges are presumptively invalid. *Carbone*: public coercion cannot reserve commerce for a favored private local enterprise. *West Lynn*: coordinated economic devices are judged by integrated operation, not severed into individually harmless parts. *SSC*: government may control its own purchased service while remaining unable to regulate all outside commerce into a favored private facility. *Nashville*/*Waste Management*: genuine public facilities differ from concealed private favoritism. *Granholm*: regulated fields such as alcohol receive no protectionism exemption. *United Haulers*: genuine public-service operation gets room unavailable to local private favoritism. *Davis*: State financing of its own government gets limited additional space without a general government exception. *Wynne*: a facially sophisticated tax remains invalid when its structure systematically penalizes interstate activity.
 
-## New York v. United States
-### INHERITED BASELINE
+### F4. The preemption line: operational conflict, not rhetoric
 
-**Stone's position:** invalidate the take-title mechanism while preserving lawful incentives, preemption, and cooperative arrangements.
+*Morales*: federal deregulation can genuinely displace State economic regulation. *Cipollone*: analyze particular state duties, not whole lawsuits. *Easterwood*: identify the exact state duty and exact federal subject. *Myrick*: federal silence is not preemption. *Wolens*: federal preemption is not immunity from voluntary contracts. *Medtronic*: parallel state duties can survive. *Geier*: an affirmative federal method can create real conflict. *Locke*: field preemption requires an actually occupied subject. *Crosby*: state law cannot alter Congress's carefully selected enforcement architecture. *Buckman*: states cannot privately recreate exclusively federal agency duties. *Arizona* applies all of this provision by provision. Federal law preempts because enacted federal law actually displaces or conflicts with the state rule — not because a judge considers national uniformity preferable.
 
-Congress can directly regulate radioactive-waste commerce and can offer States lawful choices. What it cannot do is say, in substance, "adopt our regulatory program or become legally responsible for the waste." That does not merely regulate conduct. It makes a State government an instrument for federal policy.
+### F5. The sovereign-immunity / remedies line: never one word for every question
 
-The deeper Stone reason is **accountability**. If Washington chooses a national regulatory policy, Washington must ordinarily be politically responsible for it. Federal officials cannot make national policy and then force state officials to implement it while voters are left uncertain which government imposed the burden.
+Separate, for every case: (1) is the defendant legally the State or an arm of it; (2) is there a valid substantive federal duty; (3) what constitutional source supports the duty; (4) did Congress create a cause of action; (5) did Congress clearly authorize this defendant; (6) did the State genuinely consent or waive an objection; (7) which forum is being used; (8) is the relief prospective or retrospective; (9) is the relief directed to an officer, the entity, an enterprise, or the treasury; (10) is an adequate state remedial channel available; (11) is the state entity operating as a sufficiently separate commercial enterprise; (12) did Congress provide a specialized enforcement system covering the same duty and relief. The case chain: *Hess → Seminole Tribe → Coeur d'Alene → Florida Prepaid/College Savings/Alden → Kimel/Bradley → Lapides → Verizon → FMC → Hood → Katz → VOPA → Sossamon → Armstrong.* Do not collapse it into a single immunity/no-immunity answer.
 
-**Goal:** foundation for the later *Printz → Reno v. Condon → Kansas → NFIB* line.
+### F6. Permanent guardrails
 
-**Critical limit:** anti-commandeering does not invalidate ordinary federal preemption or federal regulation of private actors.
+Stone is not a States'-rights Justice — a valid national power gets its legitimate scope. He is not a nationalism-by-importance Justice — a serious national problem is not a constitutional source. Enumeration comes before usefulness; an interstate mechanism must be identified; economic consequences are not automatically commerce; noneconomic local conduct is not categorically immune. Anti-evasion must be real and fitted to an actual interstate regime; interstate externality means an actual interstate spillover, not merely the same problem happening in many States. A jurisdictional element must perform real constitutional work. Legislative findings support propositions but cannot manufacture constitutional power; their absence does not itself defeat power when the mechanism is otherwise legally apparent. Courts do not invent the missing market, nexus, causal mechanism, or factual predicate — remand if necessary. Direct regulation of a State is not automatically commandeering; regulating a State's own conduct and forcing State officers to regulate third parties are different. The government choosing a policy ordinarily bears responsibility for administering it unless another sovereign genuinely agrees to participate. Funding consent must be practically real; notice, relatedness, coercion, and remedy are separate Spending Clause questions. State market participation and State sovereign regulation are different; public ownership is relevant but not magical. Dormant-Commerce doctrine targets interstate discrimination and structural burdens, not ordinary State government. Federal power and federal exclusivity are different questions — preemption must be independently established. Immunity does not erase substantive federal law, and a substantive violation does not itself create a cause of action, waive immunity, establish a forum, or choose a remedy. Constitutional avoidance is legitimate only when the statute fairly permits the narrower reading (*Jones*, *SWANCC*, and *Bond II* are deliberate examples). No invented numerical thresholds — no constitutionally invented market share, number of States, incident count, dollar amount, funding percentage, or pollution percentage. Novel facts do not require a novel test: when existing doctrine answers the question, use it; when Stone actually changes doctrine, he must say exactly what changed and why.
 
----
+## Baseline: inherited before OT1992 opens
 
-## Quill Corp. v. North Dakota
-### INHERITED BASELINE
+These are already behind Stone when the restart opens; do not treat them as new OT1992 developments.
 
-This supplies an inherited dormant-Commerce/state-tax background.
+### New York v. United States, 505 U.S. 144 (1992)
 
-Stone does not derive from it a general immunity of interstate businesses from state taxation. His durable concern is structural: nexus, fair allocation, nondiscrimination, and preventing multiple or extraterritorial taxation.
+**Status.** Inherited baseline.
 
-**Goal:** establish that interstate commerce can be taxed. The constitutional problem is not "tax + interstate commerce." It is discriminatory, duplicative, territorially excessive, or otherwise structurally improper taxation.
+**Historical background.** Congress required States either to adopt a federal regulatory program for radioactive waste or take title to the waste and bear the associated liability.
 
-Later tax cases should move toward that principle rather than preserve every formal rule in *Quill* forever.
+**Stone's position.** Invalidate the take-title mechanism while preserving lawful incentives, preemption, and cooperative arrangements. Congress can directly regulate radioactive-waste commerce and can offer States lawful choices; it cannot say, in substance, "adopt our regulatory program or become legally responsible for the waste." That does not merely regulate conduct — it makes a State government an instrument for federal policy. The deeper reason is accountability: if Washington chooses a national regulatory policy, Washington must ordinarily be politically responsible for it, rather than forcing state officials to implement it while voters are left uncertain which government imposed the burden.
 
----
+**What this establishes.** The foundation for the later *Printz → Reno v. Condon → Kansas → NFIB* line. Anti-commandeering does not invalidate ordinary federal preemption or federal regulation of private actors.
 
-## Chemical Waste Management v. Hunt
-### INHERITED BASELINE
+### Quill Corp. v. North Dakota, 504 U.S. 298 (1992)
 
-**Stone's position:** Alabama cannot impose a higher charge on hazardous waste merely because it comes from another State.
+**Status.** Inherited baseline.
 
-The State may charge for actual costs, risks, inspection, disposal, environmental burdens, or services. But geographic origin cannot be used as a proxy for making interstate competitors bear an extra burden that identical local commerce avoids.
+**Historical background.** A dormant-Commerce and state-tax case concerning a State's authority to require an out-of-state mail-order business to collect use tax.
 
-**Goal:** begin the strong Stone anti-protectionism line.
+**Stone's position.** No general immunity of interstate businesses from state taxation follows from this case. The durable concern is structural: nexus, fair allocation, nondiscrimination, and preventing multiple or extraterritorial taxation.
 
-This eventually becomes:
+**What this establishes.** Interstate commerce can be taxed; the constitutional problem is not "tax + interstate commerce," but discriminatory, duplicative, territorially excessive, or otherwise structurally improper taxation. Later tax cases should move toward that principle rather than preserve every formal rule in *Quill* forever.
 
-**Chemical Waste → Oregon Waste → Carbone → West Lynn → Granholm → Wynne.**
+### Chemical Waste Management v. Hunt, 504 U.S. 334 (1992)
 
----
+**Status.** Inherited baseline.
 
-## Fort Gratiot Sanitary Landfill v. Michigan DNR
-### INHERITED BASELINE
+**Historical background.** Alabama imposed a higher disposal fee on hazardous waste generated outside the State.
 
-Stone rejects an attempt to evade dormant-Commerce restrictions by shrinking the protectionist unit from "Michigan" to "county."
+**Stone's position.** Invalidate the surcharge. The State may charge for actual costs, risks, inspection, disposal, environmental burdens, or services, but geographic origin cannot be used as a proxy for making interstate competitors bear an extra burden identical local commerce avoids.
 
-A State cannot authorize counties to close their local commercial market against otherwise eligible outside waste merely because some of the excluded waste comes from another county or State.
+**What this establishes.** The start of the strong Stone anti-protectionism line, continuing through *Oregon Waste → Carbone → West Lynn → Granholm → Wynne.*
 
-**Goal:** establish that the Constitution examines practical economic barriers, not the geographic vocabulary used to construct them.
+### Fort Gratiot Sanitary Landfill v. Michigan Department of Natural Resources, 504 U.S. 353 (1992)
 
----
+**Status.** Inherited baseline.
 
-## Morales v. TWA
-### INHERITED BASELINE
+**Historical background.** Michigan authorized counties to restrict importation of waste originating outside the county, including from other States.
 
-Stone accepts meaningful Airline Deregulation Act preemption of States attempting to prescribe airline price-related economic conduct.
+**Stone's position.** Reject the attempt to evade dormant-Commerce restrictions by shrinking the protectionist unit from "Michigan" to "county." A State cannot authorize counties to close their local commercial market against otherwise eligible outside waste merely because some of the excluded waste comes from another county or State.
 
-But this is **not** permission to turn the statutory words "related to" into unlimited federal displacement.
+**What this establishes.** The Constitution examines practical economic barriers, not the geographic vocabulary used to construct them.
 
-The future Stone question is always: **what state duty is actually being imposed, what federally protected field does it regulate, and what did Congress actually displace?**
+### Morales v. Trans World Airlines, 504 U.S. 374 (1992)
 
-**Goal:** provide the preemption baseline that Stone will later narrow and discipline through *Wolens, Easterwood, Myrick, Medtronic,* and *Geier*.
+**Status.** Inherited baseline.
 
----
+**Historical background.** States attempted to regulate airline fare advertising under general consumer-protection law after federal airline deregulation.
 
-## Gade v. National Solid Wastes Management Association
-### INHERITED BASELINE
+**Stone's position.** Accept meaningful Airline Deregulation Act preemption of state attempts to prescribe airline price-related economic conduct — but this is not permission to turn the statutory words "related to" into unlimited federal displacement. The recurring question is what state duty is actually being imposed, what federally protected field it regulates, and what Congress actually displaced.
 
-Stone accepts that an operative federal occupational-safety regime may displace overlapping state occupational-safety regulation where Congress actually structured the federal program to occupy that subject.
+**What this establishes.** The preemption baseline later narrowed and disciplined through *Wolens, Easterwood, Myrick, Medtronic,* and *Geier*.
 
-But "there are federal regulations" cannot itself prove field preemption.
+### Gade v. National Solid Wastes Management Association, 505 U.S. 88 (1992)
 
-**Goal:** make statutory structure, subject matter, and actual overlap do the work.
+**Status.** Inherited baseline.
 
----
+**Historical background.** A federal occupational-safety regime and an overlapping state licensing scheme for hazardous-waste workers.
 
-## Cipollone v. Liggett Group
-### INHERITED BASELINE
+**Stone's position.** An operative federal occupational-safety regime may displace overlapping state regulation where Congress actually structured the federal program to occupy that subject — but "there are federal regulations" cannot itself prove field preemption; statutory structure, subject matter, and actual overlap must do the work.
 
-This is an important methodological case for Stone.
+### Cipollone v. Liggett Group, 505 U.S. 504 (1992)
 
-Different state claims can receive different preemption answers. The judge must identify the precise state-law duty and compare it with the federal clause rather than classify an entire lawsuit or field as simply "preempted."
+**Status.** Inherited baseline.
 
-**Goal:** establish **claim-specific preemption**.
+**Historical background.** Cigarette-labeling preemption of state tort claims.
 
----
+**Stone's position.** An important methodological case: different state claims can receive different preemption answers. The judge must identify the precise state-law duty and compare it with the federal clause rather than classify an entire lawsuit or field as simply "preempted."
 
-## Kraft General Foods v. Iowa
-### INHERITED BASELINE
+**What this establishes.** Claim-specific preemption as a durable method.
 
-Stone rejects state tax structures discriminating against foreign commerce.
+### Kraft General Foods v. Iowa Department of Revenue and Finance, 505 U.S. 71 (1992)
 
-The important proposition is again structural nondiscrimination, not immunity from ordinary state taxation.
+**Status.** Inherited baseline.
 
-**Goal:** foreign commerce enters the same broad Stone theme: participation in interstate or international commerce does not confer tax immunity, but it cannot be used as the reason for unfavorable treatment.
+**Historical background.** A state tax scheme's treatment of foreign-source dividend income.
 
----
+**Stone's position.** Reject state tax structures that discriminate against foreign commerce; the important proposition is again structural nondiscrimination, not immunity from ordinary state taxation.
 
-# OT1992
+**What this establishes.** Foreign commerce enters the same Stone theme: participation in interstate or international commerce does not confer tax immunity, but cannot be the reason for unfavorable treatment. Continues into *Itel Containers* and *Jefferson Lines*.
 
-This is the first Term of the proposed restart.
+## OT1992: the first Term of the restart
 
-None of these cases should prematurely create *Lopez*. OT1992's job is to establish the surrounding architecture: proprietor versus regulator, neutral state taxation, disciplined preemption, functional statutory classification, and careful sovereign-immunity procedure.
+None of these cases should prematurely create *Lopez*. This Term's job is the surrounding architecture: proprietor versus regulator, neutral state taxation, disciplined preemption, functional statutory classification, and careful sovereign-immunity procedure.
 
----
+### Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor), 507 U.S. 218 (1993)
 
-## Building & Construction Trades Council v. Associated Builders & Contractors — Boston Harbor
-### HISTORICAL SUPREME COURT MERITS CASE
+**Status.** Historical Supreme Court merits case.
 
-**Stone disposition: REVERSE. Massachusetts/MWRA wins.**
+**Historical questions.** Massachusetts, undertaking its own construction project, specified labor conditions for its own contractors. Did federal labor preemption bar those project-specific conditions?
 
-Massachusetts is undertaking its own construction project and specifying conditions under which its own contractors will perform that project.
+**Stone's disposition.** Reverse; Massachusetts and its water authority win.
 
-Stone distinguishes **government acting as sovereign** from **government acting as proprietor**.
+**Reasoning.** Stone distinguishes government acting as sovereign from government acting as proprietor. Federal labor preemption can stop a State from using sovereign law to regulate private labor relations throughout the market, but when the State buys construction, owns the project, manages its property, and sets project-specific contractual requirements, it acts much more like an ordinary purchaser. The inquiry is functional — "contract" is not magic, and government cannot put a regulatory command into a contract to escape federal law — so ask whether the challenged condition is confined to the government's own transaction or instead uses public coercive authority to control outsiders and independent transactions.
 
-Federal labor preemption can stop Massachusetts from using sovereign law to regulate private labor relations throughout the market. But when Massachusetts buys construction, owns the project, manages its property, and sets project-specific contractual requirements, it acts much more like an ordinary purchaser.
+**What this establishes.** The conceptual predecessor of *SSC Corp.*, genuine public-facility cases, and *United Haulers* — the distinction between state market activity and sovereign coercion. Do not overdo it: not all "market participation" receives constitutional immunity, and valid federal statutes can still regulate state market conduct.
 
-The inquiry is functional. "Contract" is not magic. Government cannot put a regulatory command into a contract and thereby escape federal law. Ask whether the challenged condition is confined to the government's own transaction or instead uses public coercive authority to control outsiders and independent transactions.
+### Itel Containers International Corp. v. Huddleston, 507 U.S. 60 (1993)
 
-**Stone rule emerging:** government purchasing, ownership, contracting, and project management are distinct from sovereign regulation.
+**Status.** Historical Supreme Court merits case.
 
-**Goal:** create the conceptual predecessor of *SSC Corp.*, genuine public-facility cases, *United Haulers*, and the later distinction between state market activity and sovereign coercion.
+**Historical questions.** Tennessee taxed the local lease of cargo containers that later traveled extensively in international commerce.
 
-**Do not overdo it:** Stone should not announce that all "market participation" receives constitutional immunity. Valid federal statutes can regulate state market conduct.
+**Stone's disposition.** Affirm Tennessee.
 
----
+**Reasoning.** International commerce is not immunized from ordinary nondiscriminatory state taxation. Tennessee identified a local taxable transaction; the containers' later international use does not by itself make that local transaction constitutionally untaxable. Ask whether the tax discriminates, creates serious multiple-taxation problems, exceeds the State's legitimate territorial connection, or conflicts with an operative federal law or treaty — absent those defects, the tax stands.
 
-## Itel Containers International Corp. v. Huddleston
-### HISTORICAL SUPREME COURT MERITS CASE
+**What this establishes.** The start of the Stone tax line producing *Jefferson Lines* and *Wynne*. A State cannot turn a formally neutral tax into protectionism, double taxation, or taxation of value belonging elsewhere.
 
-**Stone disposition: AFFIRM Tennessee.**
+### CSX Transportation v. Easterwood, 507 U.S. 658 (1993)
 
-Stone rejects the idea that international commerce is immunized from ordinary nondiscriminatory state taxation.
+**Status.** Historical Supreme Court merits case.
 
-Tennessee has identified a local taxable transaction. The containers later participate extensively in international commerce, but that fact alone does not make the local transaction constitutionally untaxable.
+**Historical questions.** A railroad-crossing accident produced two state tort theories — excessive train speed and inadequate warning devices — against a backdrop of federal railroad safety regulation.
 
-Stone asks whether the tax discriminates, creates serious multiple-taxation problems, exceeds Tennessee's legitimate territorial connection, or conflicts with an operative federal law or treaty.
+**Stone's disposition.** Preserve the split result: the excessive-speed theory is preempted; the crossing-warning theory is not preempted merely because federal railroad regulation exists generally.
 
-If those defects are absent, the tax can stand.
+**Reasoning.** This is Stone's first strong statement that preemption is duty-specific. The question is not "does the federal government regulate railroads," but "what exact legal duty is the State imposing, and has federal law actually established a governing rule for that same subject?" Where federal regulations establish the operative train-speed standard, a competing state negligence rule prescribing a different legal speed is displaced; where federal law has not actually resolved the warning-device obligation for the crossing, ordinary state law remains.
 
-**Goal:** begin the Stone tax line that eventually produces *Jefferson Lines* and *Wynne*.
+**What this establishes.** The start of *Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona.* Regulatory presence is not preemption — actual federal law must do the displacing.
 
-**Limiting principle:** a State cannot turn a formally neutral tax into protectionism, double taxation, or taxation of value belonging elsewhere.
+### District of Columbia v. Greater Washington Board of Trade, 506 U.S. 125 (1992)
 
----
+**Status.** Historical Supreme Court merits case.
 
-## CSX Transportation v. Easterwood
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** A District law required employers to provide equivalent health-insurance coverage to injured workers, measured against their existing ERISA plan.
 
-**Stone disposition: preserve the split result.**
+**Stone's disposition.** Affirm preemption, but narrowly.
 
-The excessive-speed theory is preempted. The crossing-warning theory is not preempted merely because federal railroad regulation exists.
+**Reasoning.** The D.C. law does more than incidentally affect an ERISA plan — it takes the plan's benefit structure and makes that structure the operative measurement of a mandatory state benefit, which should be found preempted. But Stone should refuse to create the proposition that every state law having a "reference to" or economic effect on an ERISA plan is displaced; traditional taxation, tort, contract, wage, property, and health regulation do not become federal questions merely because an employer maintaining an ERISA plan experiences additional costs.
 
-This case should become Stone's first strong statement that **preemption is duty-specific**.
+**What this establishes.** The particular result without the disastrous broad ERISA-preemption vocabulary that later needs years of retreat.
 
-The question is not:
+### Department of Treasury v. Fabe, 508 U.S. 491 (1993)
 
-"Does the federal government regulate railroads?"
+**Status.** Historical Supreme Court merits case.
 
-The question is:
+**Historical questions.** Ohio's insurance-liquidation statute prioritized certain claims against an insolvent insurer, including federal tax claims, ahead of other creditors.
 
-"What exact legal duty is Georgia imposing, and has federal law actually established a governing rule for that same subject?"
+**Stone's disposition.** Affirm in part, reverse in part, remand.
 
-Where federal regulations establish the operative train-speed standard, a competing state negligence rule prescribing a different legal speed is displaced.
+**Reasoning.** Classify the Ohio insurance priorities according to their actual function. Priorities necessary to administer an insolvent insurer and deliver promised benefits to policyholders have a genuine relationship to regulation of the insurance relationship; ordinary preferences for general creditors do not acquire that character merely because Ohio located them inside an insurance-liquidation statute.
 
-Where federal law has not actually resolved the warning-device obligation for the crossing, ordinary state law remains.
+**What this establishes.** A general Stone habit useful across Commerce, Spending, sovereign immunity, preemption, administrative law, and remedies: what a provision does matters more than the caption of the statute containing it.
 
-**Goal:** start:
+### Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy, 506 U.S. 139 (1993)
 
-**Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona.**
+**Status.** Historical Supreme Court merits case, secondary.
 
-**Stone's basic preemption instinct:** regulatory presence is not preemption. Actual federal law must do the displacing.
+**Historical questions.** May a public authority immediately appeal the denial of a claimed sovereign-immunity defense before final judgment?
 
----
+**Stone's disposition.** Reverse and remand on appealability only.
 
-## District of Columbia v. Greater Washington Board of Trade
-### HISTORICAL SUPREME COURT MERITS CASE
+**Reasoning.** Allow immediate review because an immunity from being subjected to litigation cannot be meaningfully restored after the litigation has already occurred — but stop there. This does not establish that the Authority actually is an arm of the sovereign, that immunity applies to this claim, that a particular remedy is forbidden, or that every sovereign-immunity question is immediately appealable.
 
-**Stone disposition: AFFIRM preemption, but narrowly.**
+**What this establishes.** The start of Stone's insistence on separating entity status, immunity, forum, underlying federal duty, cause of action, and remedy. Build sovereign immunity from legal status, structure, historical immunity, and the particular judicial act being resisted — not abstract rhetoric about "dignity."
 
-The D.C. law does more than incidentally affect an ERISA plan. It takes the benefit structure of the plan and makes that plan structure the operative measurement of a mandatory state benefit.
+### United States v. California, 507 U.S. 746 (1993)
 
-Stone should therefore find this application preempted.
+**Status.** Historical Supreme Court merits case, secondary.
 
-But he should refuse to create the proposition that every state law having a "reference to" or economic effect on an ERISA plan is displaced.
+**Historical questions.** Did a state tax on a federal contractor, potentially reimbursed by the United States, amount to a tax on the Federal Government itself?
 
-Traditional taxation, tort, contract, wage, property, and health regulation do not become federal questions merely because an employer maintaining an ERISA plan experiences additional costs.
+**Stone's disposition.** Affirm California.
 
-**Goal:** get the particular result without creating the disastrous broad ERISA-preemption vocabulary that later needs years of retreat.
+**Reasoning.** Distinguish legal incidence from economic incidence. A contractor owes a state tax; the United States may ultimately reimburse the contractor, but that does not automatically convert the tax into one legally imposed upon the Federal Government. Reject creating federal common law simply because federal money ultimately bears a cost — if the dispute asks whether California properly administered its own tax law, ordinary state remedial mechanisms govern unless some federal constitutional or statutory source independently says otherwise.
 
----
+**What this establishes.** Source discipline: a federal fiscal interest is not itself federal law.
 
-## Department of Treasury v. Fabe
-### HISTORICAL SUPREME COURT MERITS CASE
+## OT1993
 
-**Stone disposition: AFFIRM IN PART, REVERSE IN PART, REMAND.**
+### Oregon Waste Systems v. Department of Environmental Quality, 511 U.S. 93 (1994)
 
-Stone classifies the Ohio insurance priorities according to their actual function.
+**Status.** Historical Supreme Court merits case.
 
-Priorities necessary to administer an insolvent insurer and deliver promised benefits to policyholders have a genuine relationship to regulation of the insurance relationship.
+**Historical questions.** Oregon charged a higher per-ton surcharge on waste originating outside the State.
 
-Ordinary preferences for general creditors do not acquire that character merely because Ohio located them inside an insurance-liquidation statute.
+**Stone's disposition.** Invalidate the discriminatory surcharge.
 
-**Goal:** establish a general Stone habit:
+**Reasoning.** Charging more because waste originated outside Oregon is discrimination against interstate commerce. Oregon can charge according to actual additional cost or demonstrable burden; it cannot treat foreign origin itself as the burden. A claimed compensatory tax must actually compensate for a substantially equivalent local burden serving the same purpose — calling a surcharge "cost recovery" is insufficient.
 
-**what a provision does matters more than the caption of the statute containing it.**
+**What this establishes.** Sharpens the inherited *Chemical Waste* anti-origin-discrimination rule.
 
-That principle becomes useful in Commerce, Spending, sovereign immunity, preemption, administrative law, and remedies.
+### C & A Carbone v. Town of Clarkstown, 511 U.S. 383 (1994)
 
----
+**Status.** Historical Supreme Court merits case.
 
-## Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy
-### HISTORICAL SUPREME COURT MERITS CASE — SECONDARY
+**Historical questions.** A town ordinance required all local waste to pass through a designated private transfer facility.
 
-**Stone disposition: REVERSE AND REMAND on appealability only.**
+**Stone's disposition.** Invalidate the flow-control ordinance.
 
-Stone allows immediate review of the claimed immunity because an immunity from being subjected to litigation cannot be meaningfully restored after the litigation has already occurred.
+**Reasoning.** Clarkstown uses coercive municipal law to force private waste through a favored private local facility — regulation, not municipal market participation. The problem is not simply that the municipality has an economic interest; it is that public coercive authority is being used to reserve a commercial stream for a selected private enterprise and exclude interstate competition.
 
-But Stone should stop there.
+**What this establishes.** The private-enterprise side of the later public/private distinction — a reservation that matters enormously later. Do not decide that all public waste routing is unconstitutional.
 
-This case does **not** establish that PRASA actually is an arm of the sovereign, that immunity applies to this claim, that a particular remedy is forbidden, or that every sovereign-immunity question is immediately appealable.
+### West Lynn Creamery v. Healy, 512 U.S. 186 (1994)
 
-**Goal:** begin Stone's insistence on separating:
+**Status.** Historical Supreme Court merits case.
 
-entity status; immunity; forum; underlying federal duty; cause of action; and remedy.
+**Historical questions.** A state milk-pricing order combined a formally neutral assessment on all dealers with a subsidy fund distributed only to in-state producers.
 
-Do not build sovereign immunity around abstract rhetoric about "dignity." Build it from legal status, structure, historical immunity, and the particular judicial act being resisted.
+**Stone's disposition.** Invalidate the integrated assessment/subsidy system.
 
----
+**Reasoning.** A formally neutral assessment cannot be examined in isolation from a linked distribution of the entire fund exclusively to local competitors; the practical program shifts the burden away from in-state producers while leaving their interstate competitors bearing it.
 
-## United States v. California
-### HISTORICAL SUPREME COURT MERITS CASE — SECONDARY
+**What this establishes.** Dormant-Commerce doctrine examines economic operation rather than severing coordinated governmental acts into individually harmless parts. Ordinary general-revenue subsidies and ordinary evenhanded taxation remain available.
 
-**Stone disposition: AFFIRM California.**
+## OT1994
 
-Stone distinguishes **legal incidence** from **economic incidence**.
+### Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 30 (1994)
 
-A contractor owes a state tax. The United States may ultimately reimburse the contractor. That does not automatically convert the tax into a tax legally imposed upon the Federal Government.
+**Status.** Historical Supreme Court merits case.
 
-Stone also rejects creation of federal common law simply because federal money ultimately bears a cost.
+**Historical questions.** Is a bistate transportation authority an "arm of the State" for Eleventh Amendment purposes?
 
-If the dispute asks whether California properly administered California tax law, ordinary state remedial mechanisms govern unless some federal constitutional or statutory source independently says otherwise.
+**Stone's disposition.** Arm-of-State status turns on legal and fiscal reality.
 
-**Goal:** reinforce source discipline:
+**Reasoning.** Do not ask merely whether the entity was created by States or performs a public function; ask about separate legal identity, treasury responsibility, control, assets, debts, authority to sue and contract, fiscal independence, and the practical source from which judgments will be paid.
 
-**a federal fiscal interest is not itself federal law.**
+**What this establishes.** Entity classification, laying groundwork for the much harder immunity/remedy cases of OT1999.
 
----
+### Oklahoma Tax Commission v. Jefferson Lines, 514 U.S. 175 (1995)
 
-# OT1993
+**Status.** Historical Supreme Court merits case.
 
-## Oregon Waste Systems v. Department of Environmental Quality
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Oklahoma imposed a sales tax on the full price of an interstate bus ticket sold within the State.
 
-**Stone disposition: invalidate the discriminatory surcharge.**
+**Stone's disposition.** Uphold the sales tax.
 
-Charging more because waste originated outside Oregon is discrimination against interstate commerce.
+**Reasoning.** The taxable event is the local sale of the ticket, not every mile of the interstate journey. A conventional state sales tax may apply to the entire sale price when the sale has a legitimate local situs, interstate and intrastate sales are treated equally, the structure is internally and externally consistent, and the tax relates to state-provided services.
 
-Oregon can charge according to actual additional cost or demonstrable burden. It cannot treat foreign origin itself as the burden.
+**What this establishes.** The affirmative side of Stone's tax federalism: not merely what States cannot tax, but what they constitutionally may.
 
-A claimed compensatory tax must actually compensate for a substantially equivalent local burden serving the same purpose. Calling a surcharge "cost recovery" is insufficient.
+### American Airlines v. Wolens, 513 U.S. 219 (1995)
 
-**Goal:** sharpen the inherited *Chemical Waste* anti-origin-discrimination rule.
+**Status.** Historical Supreme Court merits case.
 
----
+**Historical questions.** Frequent-flyer program changes were challenged under state consumer-fraud law and ordinary contract law.
 
-## C & A Carbone v. Town of Clarkstown
-### HISTORICAL SUPREME COURT MERITS CASE
+**Stone's disposition.** State consumer-fraud prescription preempted; ordinary enforcement of the airline's own contract survives.
 
-**Stone disposition: invalidate Clarkstown's private-facility flow-control ordinance.**
+**Reasoning.** Illinois cannot use general consumer law to impose its own substantive regulation on airline rates and services where Congress displaced that regulatory authority, but enforcing the bargain the airline voluntarily made does not constitute state prescription of airline policy.
 
-Clarkstown uses coercive municipal law to force private waste through a favored private local facility.
+**What this establishes.** Contractual accountability preserved alongside respect for federal deregulation — an early example of Stone refusing to turn preemption into substantive immunity.
 
-That is regulation, not municipal market participation.
+### Freightliner Corp. v. Myrick, 514 U.S. 280 (1995)
 
-The problem is not simply that the municipality has an economic interest. The problem is that public coercive authority is being used to reserve a commercial stream for a selected private enterprise and exclude interstate competition.
+**Status.** Historical Supreme Court merits case.
 
-**Goal:** create the private-enterprise side of the later public/private distinction.
+**Historical questions.** Did the absence of a federal antilock-brake standard preempt state tort claims about brake design?
 
-Do **not** decide that all public waste routing is unconstitutional.
+**Stone's disposition.** No preemption simply because federal regulators have not imposed a standard.
 
-That reservation matters enormously later.
+**Reasoning.** Federal silence is not automatically a federal policy against regulation. To preempt, identify an enacted federal command, actual federal standard, occupied field, or concrete conflict.
 
----
+**What this establishes.** The anti-vacuum principle: absence of federal regulation does not equal federal prohibition of state regulation.
 
-## West Lynn Creamery v. Healy
-### HISTORICAL SUPREME COURT MERITS CASE
+### United States v. Lopez, 514 U.S. 549 (1995)
 
-**Stone disposition: invalidate the integrated assessment/subsidy system.**
+**Status.** Historical Supreme Court merits case, foundational.
 
-A formally neutral assessment cannot be examined in isolation from a linked distribution of the entire fund exclusively to local competitors.
+**Historical questions.** Did the Gun-Free School Zones Act's application to a student possessing a firearm near a school rest on a valid exercise of the commerce power?
 
-The practical program shifts the burden away from in-state producers while leaving their interstate competitors bearing it.
+**Stone's disposition.** Invalidate the application before the Court.
 
-The simulation later records exactly that integrated-operation principle.
+**Reasoning.** This is where Stone establishes his durable affirmative Commerce architecture. The Government's chain — guns near schools → violent crime/fear → impaired education → less productive citizens → economic consequences → interstate commerce — is rejected because its logic identifies no judicially enforceable boundary; almost every serious social problem affects productivity, insurance, spending, travel, consumption, or employment. The defect is not simply the word "noneconomic," and Stone should not create a categorical rule that Congress can never regulate noneconomic intrastate conduct. He leaves routes for conduct genuinely connected to Commerce: actual interstate transactions; channels; instrumentalities/things; economic market activity; conduct whose inclusion is necessary to prevent evasion or material impairment of a valid interstate regime; and genuinely demonstrated interstate spillovers of the kind States cannot individually internalize. What the school-zone statute lacks is the mechanism.
 
-**Goal:** teach the dormant Commerce doctrine to examine economic operation rather than severing coordinated governmental acts into individually harmless parts.
+**What this establishes.** A usable limit without reviving formalistic distinctions that make legitimate national market regulation impossible — the anchor for almost every later Commerce case.
 
-**Limit:** ordinary general-revenue subsidies and ordinary evenhanded taxation remain available.
+### United States v. Harris, 25 F.3d 1275
 
----
+**Status.** Lower-court sim case.
 
-# OT1994
+**Historical questions.** Does the federal carjacking statute survive as applied to a particular vehicle, after *Lopez*?
 
-## Hess v. Port Authority Trans-Hudson Corp.
-### HISTORICAL SUPREME COURT MERITS CASE
+**Stone's disposition.** Uphold the carjacking statute as applied.
 
-**Stone disposition: arm-of-State status turns on legal and fiscal reality.**
+**Reasoning.** This is the first major test of whether *Lopez* means federal criminal statutes now automatically fail whenever conduct happens locally — Stone says no. The particular vehicle is an interstate transportation instrumentality/thing in commerce, and the offense directly attacks possession and control of that vehicle; the statute requires a vehicle-specific interstate connection, which is constitutionally different from attaching a remote historical interstate fact to an unrelated local crime.
 
-Do not ask merely whether the entity was created by States or performs a public function.
+**What this establishes.** *Lopez* is a theory of connection, not a campaign against federal criminal law.
 
-Ask about separate legal identity, treasury responsibility, control, assets, debts, authority to sue and contract, fiscal independence, and the practical source from which judgments will be paid.
+### United States v. Robertson, 514 U.S. 669 (1995)
 
-**Goal:** establish entity classification before the much harder immunity/remedy cases of 1999.
+**Status.** Historical Supreme Court merits case.
 
----
+**Historical questions.** Did a RICO prosecution of an enterprise conducting interstate commercial operations require an aggregate-effects Commerce analysis?
 
-## Oklahoma Tax Commission v. Jefferson Lines
-### HISTORICAL SUPREME COURT MERITS CASE
+**Stone's disposition.** Uphold the federal application.
 
-**Stone disposition: uphold the sales tax.**
+**Reasoning.** Where an enterprise itself is conducting interstate commercial operations, there is no need to reach aggregate-effects abstractions — Congress is regulating commerce itself.
 
-The taxable event is the local sale of the ticket, not every mile of the interstate journey.
+**What this establishes.** A reminder not to turn every Commerce case into *Lopez* balancing; direct commerce cases should remain easy.
 
-A conventional state sales tax may apply to the entire sale price when the sale has a legitimate local situs, interstate and intrastate sales are treated equally, the structure is internally and externally consistent, and the tax relates to state-provided services.
+## OT1995
 
-The later simulation records this neutral-tax rule explicitly.
+### American Life League v. Reno, 47 F.3d 642
 
-**Goal:** establish the affirmative side of Stone's tax federalism: not merely what States cannot tax, but what they constitutionally may.
+**Status.** Lower-court sim case.
 
----
+**Historical questions.** Does the Freedom of Access to Clinic Entrances Act's regulation of force, threats, and obstruction against reproductive-health providers exceed the commerce power?
 
-## American Airlines v. Wolens
-### HISTORICAL SUPREME COURT MERITS CASE
+**Stone's disposition.** Uphold FACE's access-directed provisions.
 
-**Stone disposition: state consumer-fraud prescription preempted; ordinary enforcement of the airline's own contract survives.**
+**Reasoning.** The federal hook is not "violence is expensive → healthcare is economic → therefore Congress controls local violence." The regulated class is defined around intentional force, threats, and obstruction whose object is preventing people from providing or obtaining services operating in an interstate service market — the obstruction is directed at the market access itself.
 
-Illinois cannot use general consumer law to impose its own substantive regulation on airline rates and services where Congress displaced that regulatory authority.
+**What this establishes.** Direct interference with market transactions, distinguished from the generalized economic consequences of crime. Ordinary assault, trespass, protest, or disturbance near a clinic does not become federally regulable merely by location.
 
-But enforcing the bargain the airline voluntarily made does not constitute State prescription of airline policy.
+### Seminole Tribe v. Florida, 517 U.S. 44 (1996)
 
-**Goal:** preserve contractual accountability while respecting federal deregulation.
+**Status.** Historical Supreme Court merits case.
 
-This is an early example of Stone refusing to turn preemption into substantive immunity.
+**Historical questions.** Could Congress authorize suits against a nonconsenting State under its Indian Gaming Regulatory Act enforcement scheme?
 
----
+**Stone's disposition.** Preserve clearly authorized prospective Article I enforcement against the State; reserve broader retrospective treasury liability.
 
-## Freightliner Corp. v. Myrick
-### HISTORICAL SUPREME COURT MERITS CASE
+**Reasoning.** Refuse to merge three questions: does Congress have substantive Article I authority; did Congress clearly authorize an action against a State; and what remedy is actually being sought? IGRA's prospective bargaining/enforcement structure does not require settling every question about accrued compensatory liability.
 
-**Stone disposition: no preemption simply because federal regulators have not imposed a standard.**
+**What this establishes.** Avoids the historical all-or-nothing sovereign-immunity framework, preserving valid federal law while separately controlling the remedial channel — the prospective route survives while retrospective compensation is left for later cases.
 
-Federal silence is not automatically a federal policy against regulation.
+### United States v. Bishop, 66 F.3d 569
 
-To preempt, identify an enacted federal command, actual federal standard, occupied field, or concrete conflict.
+**Status.** Lower-court sim case.
 
-**Goal:** crucial anti-vacuum principle:
+**Historical questions.** Does a federal statute protecting a covered motor vehicle survive as applied, consistent with *Harris*?
 
-**absence of federal regulation ≠ federal prohibition of state regulation.**
+**Stone's disposition.** Uphold under *Harris*.
 
----
+**Reasoning.** The statute directly protects a covered motor vehicle and requires proof concerning that particular vehicle; Stone should deliberately avoid producing new doctrine, since *Harris* already answers the question.
 
-## United States v. Lopez
-### HISTORICAL SUPREME COURT MERITS CASE — FOUNDATIONAL
+**What this establishes.** Precedential discipline — not every new fact deserves a new Commerce formulation.
 
-**Stone disposition: invalidate the Gun-Free School Zones Act application before the Court.**
+### United States v. Hale, 978 F.2d 1016
 
-This is where Stone should establish his durable affirmative Commerce architecture.
+**Status.** Lower-court sim case, major Commerce development.
 
-Possession of a firearm near a school is local noneconomic conduct as defined by the statute before him. The Government's proposed chain is roughly:
+**Historical questions.** Does § 922(o)'s prohibition on post-1986 machinegun possession exceed the commerce power?
 
-guns near schools → violent crime/fear → impaired education → less productive citizens → economic consequences → interstate commerce.
+**Stone's disposition.** Uphold the post-1986 machinegun possession prohibition.
 
-Stone rejects the chain because its logic does not identify any judicially enforceable boundary. Almost every serious social problem affects productivity, insurance, spending, travel, consumption, or employment.
+**Reasoning.** The key move is anti-evasion. Congress has directly prohibited the post-1986 civilian machinegun market; a rule forbidding transfers while categorically allowing possession would create obvious concealment, retention, acquisition, and enforcement problems. Possession and transfer are functionally intertwined within that defined product-market prohibition, so possession regulation is permitted as a necessary part of policing the interstate market — but the reasoning must expressly reject "guns have moved interstate, therefore Congress can regulate all gun possession forever."
 
-The defect is not simply the word "noneconomic." Stone should **not** create a categorical rule that Congress can never regulate noneconomic intrastate conduct.
+**What this establishes.** The doctrine that ultimately supports *Rybar*, *Angle*, and *Raich* without gutting *Lopez*.
 
-Instead he leaves routes for conduct genuinely connected to Commerce:
+### Medtronic v. Lohr, 518 U.S. 470 (1996)
 
-actual interstate transactions; channels; instrumentalities/things; economic market activity; conduct whose inclusion is necessary to prevent evasion or material impairment of a valid interstate regime; and genuinely demonstrated interstate spillovers of the kind States cannot individually internalize.
+**Status.** Historical Supreme Court merits case.
 
-What the school-zone statute lacks is the mechanism.
+**Historical questions.** Does federal medical-device regulation preempt a state common-law damages action?
 
-**Goal:** establish a usable limit without reviving formalistic distinctions that make legitimate national market regulation impossible.
+**Stone's disposition.** Claim-specific preemption; equivalent parallel state duties may survive.
 
-This becomes the anchor for almost every later Commerce case.
+**Reasoning.** A common-law damages action can constitute a state "requirement," but that does not mean every common-law claim is preempted. Compare the actual conduct state law requires with the federal requirement — if the state duty genuinely mirrors the federal rule, state-law damages do not automatically make it an impermissibly "additional" requirement.
 
----
+**What this establishes.** Matures *Cipollone*/*Easterwood*/*Myrick* into an operational claim-by-claim comparison.
 
-## United States v. Harris, 25 F.3d 1275
-### **[LOWER-COURT SIM CASE]**
+### SSC Corp. v. Town of Smithtown, 66 F.3d 502
 
-**Stone disposition: uphold the carjacking statute as applied.**
+**Status.** Lower-court sim case.
 
-This is the first major test of whether *Lopez* means federal criminal statutes now automatically fail whenever conduct happens locally.
+**Historical questions.** A town both operated a coercive private-facility waste ordinance and separately purchased municipal residential collection and disposal services.
 
-Stone says no.
+**Stone's disposition.** Split the case: invalidate the private-facility ordinance; uphold the municipally purchased residential service.
 
-The particular vehicle is an interstate transportation instrumentality/thing in commerce, and the offense directly attacks possession and control of that vehicle. The statute requires a vehicle-specific interstate connection.
+**Reasoning.** Smithtown cannot use criminal law to force all private generators and haulers to patronize a selected private incinerator — that is *Carbone*-type coercive regulation. But where Smithtown itself competitively buys integrated collection/disposal services and tells its contractors where to deliver waste in performing that purchased service, it is controlling its own transaction.
 
-That is constitutionally different from attaching a remote historical interstate fact to an unrelated local crime.
+**What this establishes.** Turns *Boston Harbor* and *Carbone* into a workable regulator/proprietor doctrine, distinguishing contractual participation from coercive regulation outside contractual privity.
 
-The simulation ultimately adopts this exact limiting proposition.
+## OT1996
 
-**Goal:** prove that *Lopez* is a theory of connection, not a campaign against federal criminal law.
+### Pic-A-State Pennsylvania v. Reno, 76 F.3d 1294
 
----
+**Status.** Lower-court sim case.
 
-## United States v. Robertson
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Did a federal restriction on interstate lottery-ticket transmission exceed the commerce power, and could Congress authorize state restrictions that would otherwise violate only the dormant Commerce Clause?
 
-**Stone disposition: uphold the federal application.**
+**Stone's disposition.** Uphold the federal restriction.
 
-Where an enterprise itself is conducting interstate commercial operations, there is no need to reach aggregate-effects abstractions.
+**Reasoning.** A knowing interstate computer transmission that is an operative part of purchasing an interest in another State's lottery is interstate commerce itself — no aggregate-effects theory is needed. Congress may also unmistakably authorize State restrictions that otherwise would violate only the dormant Commerce Clause, because Congress's affirmative Commerce power is superior to the negative judicial inference from congressional silence.
 
-Congress is regulating commerce itself.
+**What this establishes.** Distinguishes actual interstate electronic commerce from nominal internet or computer hooks.
 
-**Goal:** remind later courts not to turn every Commerce case into *Lopez* balancing. Direct commerce cases should remain easy.
+### Idaho v. Coeur d'Alene Tribe, 521 U.S. 261 (1997)
 
----
+**Status.** Historical Supreme Court merits case.
 
-# OT1995
+**Historical questions.** Could a tribe sue state officials for prospective relief concerning disputed lake-bed ownership?
 
-## American Life League v. Reno, 47 F.3d 642
-### **[LOWER-COURT SIM CASE]**
+**Stone's position.** Preserve properly confined prospective officer relief.
 
-**Stone disposition: uphold FACE's access-directed provisions.**
+**Reasoning.** Resist replacing the ordinary prospective-relief inquiry with an amorphous test based on how important or sovereign the State's underlying interest feels. Ask whether there is an ongoing violation, whether the named officer has a genuine enforcement connection, and whether the relief is genuinely prospective.
 
-The federal hook is not:
+**What this establishes.** The officer-remedy line eventually clarified by *Verizon Maryland*.
 
-violence is expensive → healthcare is economic → therefore Congress controls local violence.
+### City of Boerne v. Flores, 521 U.S. 507 (1997)
 
-The regulated class is defined around intentional force, threats, and obstruction whose object is preventing people from providing or obtaining services operating in an interstate service market.
+**Status.** Historical Supreme Court merits case.
 
-The obstruction is directed at the market access itself.
+**Historical questions.** Could Congress use its Fourteenth Amendment enforcement power to impose the Religious Freedom Restoration Act's standard on state and local government?
 
-The simulation later states the rule exactly in those terms.
+**Stone's disposition.** RFRA cannot redefine the Fourteenth Amendment as applied to state and local government.
 
-**Goal:** distinguish direct interference with market transactions from generalized economic consequences of crime.
+**Reasoning.** Congress can enforce constitutional guarantees; it cannot announce a different substantive constitutional right and call that enforcement. Stone should preserve substantial preventive and remedial authority where legislation is genuinely fitted to constitutional violations or serious evasive risk.
 
-**Limit:** ordinary assault, trespass, protest, or disturbance near a clinic does not become federally regulable merely by location.
+**What this establishes.** The distinction between constitutional right (judicial definition) and congressional enforcement (preventive/remedial implementation) — later directly relevant to *Florida Prepaid*, *Kimel*, *Garrett*, and voting-rights legislation.
 
----
+### Printz v. United States / Mack v. United States, 521 U.S. 898 (1997)
 
-## Seminole Tribe v. Florida
-### HISTORICAL SUPREME COURT MERITS CASE
+**Status.** Historical Supreme Court merits case, foundational.
 
-**Stone disposition: preserve clearly authorized prospective Article I enforcement against the State; reserve broader retrospective treasury liability.**
+**Historical questions.** Could Congress require state and local chief law-enforcement officers to conduct the federal Brady background-check program?
 
-Stone refuses to merge three questions:
+**Stone's disposition.** Invalidate compulsory state-officer administration.
 
-Does Congress have substantive Article I authority?
+**Reasoning.** Congress cannot require state/local executive officers, as officers of their State governments, to conduct the federal program. Stone's principle is broader than whether the assigned duty is "important" or "ministerial" — federal officials cannot make a federal program operational by commandeering state executive capacity. Preserve federal regulation of private dealers and purchasers, federal enforcement, voluntary state assistance, information sharing, lawful funding arrangements, preemption, and source-specific constitutional assignments.
 
-Did Congress clearly authorize an action against a State?
+**What this establishes.** Extends *New York* from legislatures to executives while leaving substantial national regulatory capacity intact.
 
-What remedy is actually being sought?
+### United States v. Mussari, 95 F.3d 787
 
-IGRA's prospective bargaining/enforcement structure does not require Stone to settle every question concerning accrued compensatory liability.
+**Status.** Lower-court sim case.
 
-**Goal:** avoid the historical all-or-nothing sovereign-immunity framework.
+**Historical questions.** Does a federal interstate child-support enforcement statute exceed the commerce power?
 
-Stone wants to preserve valid federal law while separately controlling the remedial channel.
+**Stone's disposition.** Uphold; the federal interstate child-support obligation can be regulated.
 
-The later simulation treats *Seminole Tribe* as preserving the prospective route while leaving retrospective compensation for later cases.
+**Reasoning.** The theory should not be "domestic relations have enormous economic consequences." The legally fixed obligation itself runs between persons in different States, and required performance is interstate — the statute regulates that interstate obligation rather than domestic relations generally. Distinguish *Printz* because no State officer is commanded to administer federal law.
 
----
+**What this establishes.** Precise statutory design can federalize a genuinely interstate part of a traditionally local field without federalizing the whole field.
 
-## United States v. Bishop, 66 F.3d 569
-### **[LOWER-COURT SIM CASE]**
+## OT1997
 
-**Stone disposition: uphold under Harris.**
+### United States v. Rybar, 103 F.3d 273
 
-The statute directly protects a covered motor vehicle and requires proof concerning that particular vehicle.
+**Status.** Lower-court sim case.
 
-Stone should deliberately avoid producing new doctrine. *Harris* already answers the question.
+**Historical questions.** Does § 922(o) survive as applied to machineguns involved in gun-show transactions?
 
-The simulation does exactly that.
+**Stone's disposition.** Uphold as applied.
 
-**Goal:** demonstrate precedential discipline. Not every new fact deserves a new Commerce formulation.
+**Reasoning.** Apply *Hale*. The product-market prohibition is real, and the possession before the Court sits within the market/transfer setting the anti-evasion rule addresses.
 
----
+**What this establishes.** *Hale* is an administrable rule, not a one-case exception.
 
-## United States v. Hale, 978 F.2d 1016
-### **[LOWER-COURT SIM CASE] — MAJOR COMMERCE DEVELOPMENT**
+### United States v. Robinson
 
-**Stone disposition: uphold the post-1986 machinegun possession prohibition.**
+**Status.** Lower-court sim case.
 
-The key move is **anti-evasion**.
+**Historical questions.** Does the Hobbs Act reach robbery of an operating commercial business?
 
-Congress has directly prohibited the post-1986 civilian machinegun market. A rule forbidding transfers while categorically allowing possession would create obvious concealment, retention, acquisition, and enforcement problems.
+**Stone's disposition.** Uphold the application.
 
-Possession and transfer are functionally intertwined within that defined product-market prohibition.
+**Reasoning.** This is economic conduct directed at a business participating in interstate commerce. Stone should not rely on generalized "crime hurts the economy" logic — the robbery directly depletes or obstructs commercial operations in the regulated class.
 
-Stone therefore permits possession regulation as a necessary part of policing the interstate market.
+**What this establishes.** What a genuine commerce-affecting local economic offense looks like after *Lopez*.
 
-But the reasoning must expressly reject:
+### United States v. Hinds
 
-"guns have moved interstate, therefore Congress can regulate all gun possession forever."
+**Status.** Lower-court sim case.
 
-The simulation's rule emphasizes exactly that distinction.
+**Historical questions.** Is a house of worship a building "used in" interstate commerce for purposes of the federal arson statute, § 844(i)?
 
-**Goal:** create the doctrine that ultimately supports *Rybar, Angle,* and *Raich* without gutting *Lopez*.
+**Stone's disposition.** No — ordinary operational links do not make a worship building a federal-commerce building.
 
----
+**Reasoning.** Purchases, utilities, insurance, mail, donations, employees, mortgages, and national affiliation do not necessarily mean the building itself is actively used in commercial activity.
 
-## Medtronic v. Lohr
-### HISTORICAL SUPREME COURT MERITS CASE
+**What this establishes.** The active-use statutory boundary later applied to an owner-occupied home in *Jones* — Stone's preferred method of avoiding a constitutional question through statutory construction when fairly available.
 
-**Stone disposition: claim-specific preemption; equivalent parallel state duties may survive.**
+### United States v. Bird, 124 F.3d 667
 
-A common-law damages action can constitute a state "requirement," but that does not mean every common-law claim is preempted.
+**Status.** Lower-court sim case.
 
-Compare the actual conduct state law requires with the federal requirement.
+**Historical questions.** Does FACE survive as applied to force or true threats specifically intended to prevent reproductive-health services?
 
-If the state duty genuinely mirrors the federal rule, state-law damages do not automatically make it an impermissibly "additional" requirement.
+**Stone's disposition.** Uphold as applied, following *American Life League*.
 
-**Goal:** mature *Cipollone/Easterwood/Myrick* into an operational claim-by-claim comparison.
+**Reasoning.** The market relationship comes from intentional interference with provision or receipt of the service, not the generic economic consequences of violence.
 
----
+### Waste Management v. Metropolitan Government of Nashville
 
-## SSC Corp. v. Town of Smithtown, 66 F.3d 502
-### **[LOWER-COURT SIM CASE]**
+**Status.** Lower-court sim case.
 
-Stone splits the case.
+**Historical questions.** Does a genuinely public waste facility, open to local and interstate firms alike, receive different dormant-Commerce treatment than *Carbone*'s private favoritism?
 
-**Private-facility ordinance: invalidate.**
+**Stone's disposition.** Uphold genuinely public facility routing where local private and interstate firms are treated alike.
 
-Smithtown cannot use criminal law to force all private generators and haulers to patronize a selected private incinerator.
+**Reasoning.** A municipality operating and financing its own traditional public waste facility differs from *Carbone*, where public coercion favored a private local enterprise. Public ownership itself is not magic — examine actual ownership, control, public-service responsibility, financing, revenues, and whether private local competitors receive a special advantage.
 
-That is *Carbone*-type coercive regulation.
+**What this establishes.** The public-facility half of the eventual *United Haulers* doctrine.
 
-**Municipally purchased residential service: uphold.**
+### National Association of Home Builders v. Babbitt, 130 F.3d 1041
 
-Where Smithtown itself competitively buys integrated collection/disposal services and tells its contractors where to deliver waste in performing that purchased service, it is controlling its own transaction.
+**Status.** Lower-court sim case, major Commerce development.
 
-The simulation expressly recognizes this line between contractual participation and coercive regulation outside contractual privity.
+**Historical questions.** Does application of the Endangered Species Act to a purely local land-development project exceed the commerce power?
 
-**Goal:** turn *Boston Harbor* and *Carbone* into a workable regulator/proprietor doctrine.
+**Stone's disposition.** Vacate and remand.
 
----
+**Reasoning.** The Act cannot be sustained in this application merely because biodiversity is important, the species might have future scientific value, tourists care about wildlife, or development is economic. But purely intrastate noneconomic conduct is not automatically outside federal authority either. Stone identifies two serious routes: exclusion of the local conduct might materially impair or permit evasion of a valid interstate regulatory regime, or the conduct might create a substantial interstate externality that individual States cannot reasonably internalize — the record must actually support whichever mechanism the Government invokes.
 
-# OT1996
+**What this establishes.** Operationalizes the questions *Lopez* left open; one of the most important Stone cases in the entire project.
 
-## Pic-A-State Pennsylvania v. Reno, 76 F.3d 1294
-### **[LOWER-COURT SIM CASE]**
+## OT1998
 
-**Stone disposition: uphold the federal restriction.**
+### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, 527 U.S. 627 (1999); College Savings Bank v. Florida Prepaid, 527 U.S. 666 (1999); Alden v. Maine, 527 U.S. 706 (1999)
 
-A knowing interstate computer transmission that is an operative part of purchasing an interest in another State's lottery is interstate commerce itself.
+**Status.** Historical Supreme Court merits cases, treated together.
 
-No aggregate-effects theory is needed.
+**Historical questions.** May Congress abrogate state sovereign immunity for patent infringement under § 5 of the Fourteenth Amendment; can a State be deemed to have constructively waived immunity by participating in a federally regulated market; and can a State be sued for money damages in its own courts on a federal claim?
 
-The case also establishes that Congress may unmistakably authorize State restrictions that otherwise would violate only the dormant Commerce Clause.
+**Stone's disposition.** Reject two extremes. He does not accept that Article I automatically permits unlimited private retrospective money judgments against nonconsenting State treasuries; he also does not accept that sovereign immunity allows a State to take the benefit of substantive federal law while extinguishing the corresponding federal monetary entitlement entirely. *College Savings*: reject constructive waiver merely because a State entered a federally regulated market. *Florida Prepaid*: keep substantive federal patent obligations conceptually separate from the remedial channel. *Alden*: permit state remedial channeling but not state nullification of federal rights.
 
-Congress's affirmative Commerce power is superior to the negative judicial inference from congressional silence.
+**Reasoning.** First identify whether Congress validly created the substantive federal obligation, then identify whether Congress unmistakably created the remedy. For retrospective compensatory obligations, a State may channel enforcement into an adequate state remedial system, but cannot simply erase the federal entitlement — if no constitutionally and practically adequate substitute exists and Congress clearly authorized compensation, a federal fallback remains available. Separately, a state-created entity operating voluntarily in an interstate commercial market may be treated according to its actual legal/fiscal structure and enterprise revenues rather than through fictional constructive waiver.
 
-The simulation records both propositions.
+**What this establishes.** Replaces binary immunity thinking with a sequence: duty → defendant/entity → consent/abrogation → forum → compensation route → fallback.
 
-**Goal:** distinguish actual interstate electronic commerce from nominal internet or computer hooks.
+## OT1999
 
----
+### Kimel v. Florida Board of Regents, 528 U.S. 62 (2000)
 
-## Idaho v. Coeur d'Alene Tribe
-### HISTORICAL SUPREME COURT MERITS CASE
+**Status.** Historical Supreme Court merits case.
 
-**Stone position: preserve properly confined prospective officer relief.**
+**Historical questions.** Did Congress validly abrogate state sovereign immunity for retrospective damages under the Age Discrimination in Employment Act through § 5 of the Fourteenth Amendment?
 
-Stone should resist replacing the ordinary prospective-relief inquiry with an amorphous test based on how important or sovereign the State's underlying interest feels.
+**Stone's position.** Congress has not established the § 5 basis required for retrospective treasury damages merely by prohibiting age discrimination more broadly than the Constitution itself does — but that does not mean every federal ADEA obligation vanishes; the separate Commerce-based substantive duty and whatever lawful remedial channels exist must still be analyzed.
 
-Ask whether there is an ongoing violation, whether the named officer has a genuine enforcement connection, and whether the relief is genuinely prospective.
+**What this establishes.** Applies *Boerne* without converting failure of § 5 abrogation into destruction of the underlying statute.
 
-**Goal:** establish the officer-remedy line eventually clarified by *Verizon Maryland*.
+### Reno v. Condon, 528 U.S. 141 (2000)
 
----
+**Status.** Historical Supreme Court merits case, major anti-commandeering clarification.
 
-## City of Boerne v. Flores
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Does a federal law restricting states' disclosure of driver's-license information commandeer state governments?
 
-**Stone disposition: RFRA cannot redefine the Fourteenth Amendment as applied to State/local government.**
+**Stone's disposition.** Uphold federal regulation.
 
-Congress can enforce constitutional guarantees. It cannot announce a different substantive constitutional right and call that enforcement.
+**Reasoning.** South Carolina's motor-vehicle department is itself supplying and disseminating information in an interstate market — Congress is regulating the State's own conduct as an information holder/supplier. That differs from *Printz*: no State officer is being ordered to administer a federal regulatory program against private third parties. Administrative work necessary to comply with a direct federal rule is not commandeering merely because the regulated actor is a State.
 
-Stone should preserve substantial preventive and remedial authority where legislation is genuinely fitted to constitutional violations or serious evasive risk.
+**What this establishes.** Prevents *Printz* from mutating into immunity of States from ordinary federal regulation.
 
-**Goal:** enforce the distinction between:
+### United States v. Locke, 529 U.S. 89 (2000)
 
-constitutional right → judicial definition;
+**Status.** Historical Supreme Court merits case.
 
-and congressional enforcement → preventive/remedial implementation.
+**Historical questions.** Does federal maritime law occupy the field of oil-tanker safety regulation, preempting state rules?
 
-This later matters directly to *Florida Prepaid, Kimel, Garrett,* and voting-rights legislation.
+**Stone's position.** Identify the particular subject of state tanker regulation and determine whether federal maritime law actually occupies it. National uniformity matters where Congress created a national rule — it is not an incantation. Distinctively local waterway conditions can remain subject to local authority where federal law has not occupied the subject and no actual conflict exists.
 
----
+**What this establishes.** Field preemption must be tied to statutory architecture, not administrative preference.
 
-## Printz v. United States / Mack v. United States
-### HISTORICAL SUPREME COURT MERITS CASE — FOUNDATIONAL
+### Fraternal Order of Police v. United States, 173 F.3d 898
 
-**Stone disposition: invalidate compulsory state-officer administration.**
+**Status.** Lower-court sim case, major Commerce clarification.
 
-Congress cannot require state/local executive officers, as officers of their State governments, to conduct the federal Brady background-check program.
+**Historical questions.** Does § 922(g)(9)'s firearm disqualification for domestic-violence misdemeanants commandeer state police departments or exceed the commerce power as applied to their officers?
 
-Stone's principle is broader than whether the assigned duty is "important" or "ministerial."
+**Stone's disposition.** No commandeering; the offense-specific Commerce element must perform actual work.
 
-Federal officials cannot make a federal program operational by commandeering state executive capacity.
+**Reasoning.** § 922(g)(9) regulates firearm possession by individuals — it does not become commandeering because some of those individuals are State police officers. On Commerce, the element matters only if it performs actual constitutional work; the Government cannot prove federal authority solely by pointing to an object's remote historical trip through interstate commerce where that fact has no meaningful connection to the conduct Congress is regulating.
 
-But preserve:
+**What this establishes.** The simulation's major jurisdictional-element limitation, preventing Congress from bypassing *Lopez* merely by adding the words "in or affecting commerce."
 
-federal regulation of private dealers and purchasers; federal enforcement; voluntary state assistance; information sharing; lawful funding arrangements; preemption; and source-specific constitutional assignments.
+### Gillespie v. City of Indianapolis, 185 F.3d 693
 
-That is the simulation's eventual anti-commandeering rule.
+**Status.** Lower-court sim case.
 
-**Goal:** extend *New York* from legislatures to executives while leaving substantial national regulatory capacity intact.
+**Historical questions.** Does § 922(g)(9), applied to a police officer, commandeer the city that employs him?
 
----
+**Stone's disposition.** Uphold, following *Fraternal Order of Police*.
 
-## United States v. Mussari, 95 F.3d 787
-### **[LOWER-COURT SIM CASE]**
+**Reasoning.** The statute directly regulates the individual's firearm possession; it does not order Indianapolis to implement federal law. Commerce authority remains dependent on a genuinely operative market/nexus theory rather than remote interstate history.
 
-**Stone disposition: federal interstate child-support obligation can be regulated.**
+**What this establishes.** The same person can be a State employee and a federally regulable individual without collapsing actor and government.
 
-The theory should not be "domestic relations have enormous economic consequences."
+### United States v. Morrison, 529 U.S. 598 (2000)
 
-The legally fixed obligation itself runs between persons in different States, and required performance is interstate.
+**Status.** Historical Supreme Court merits case, major Commerce limit.
 
-The statute regulates that interstate obligation rather than domestic relations generally.
+**Historical questions.** Did the Violence Against Women Act's federal civil remedy for gender-motivated violence exceed the commerce power?
 
-The simulation treats this as direct protection of an interstate obligation and distinguishes *Printz* because no State officer is commanded to administer federal law.
+**Stone's disposition.** Invalidate the federal civil remedy under the asserted Commerce theory.
 
-**Goal:** show how precise statutory design can federalize a genuinely interstate part of a traditionally local field without federalizing the whole field.
+**Reasoning.** Gender-motivated violence is enormously serious; that seriousness does not supply the constitutional source. The Government's theory again depends on generalized consequences — violence affects victims, employment, travel, medical spending, productivity, insurance, and the economy — which is *Lopez*'s forbidden consequence chain. Congress may regulate interstate travel, transactions, market obstruction, interstate criminal enterprises, and other genuinely interstate mechanisms; it cannot regulate every local violent act because violence in aggregate has economic consequences.
 
----
+**What this establishes.** Proves *Lopez* is a real limit even in a case involving major national harm.
 
-# OT1997
+### Jones v. United States, 529 U.S. 848 (2000)
 
-## United States v. Rybar, 103 F.3d 273
-### **[LOWER-COURT SIM CASE]**
+**Status.** Historical Supreme Court merits case.
 
-**Stone disposition: uphold as applied to machineguns involved in gun-show transactions.**
+**Historical questions.** Is an owner-occupied family home "used" in interstate commerce within the federal arson statute, § 844(i)?
 
-Apply *Hale*.
+**Stone's disposition.** Reverse through statutory construction.
 
-The product-market prohibition is real, and the possession before the Court sits within the market/transfer setting that the anti-evasion rule addresses.
+**Reasoning.** A home is not actively "used" in interstate commerce merely because it has insurance, utilities, a mortgage, supplies purchased across state lines, and other ordinary incidents of modern home ownership. No constitutional holding is necessary; *Lopez* serves as avoidance context, confining § 844(i) to active commercial use.
 
-**Goal:** demonstrate that *Hale* is an administrable rule, not a one-case exception.
+**What this establishes.** A canonical example of restraint — when Congress's statute can fairly be read narrowly, do that before announcing another constitutional boundary. Matters heavily in *SWANCC* and *Bond II*.
 
----
+### Geier v. American Honda, 529 U.S. 861 (2000)
 
-## United States v. Robinson
-### **[LOWER-COURT SIM CASE]**
+**Status.** Historical Supreme Court merits case.
 
-**Stone disposition: uphold the Hobbs Act application to robbery of an operating commercial business.**
+**Historical questions.** Does a federal safety standard giving manufacturers a choice among restraint systems preempt a state tort theory that would have required one particular option?
 
-This is economic conduct directed at a business participating in interstate commerce.
+**Stone's disposition.** Find conflict with the particular tort theory.
 
-Stone should not rely on generalized "crime hurts the economy" logic. The robbery directly depletes or obstructs commercial operations in the regulated class.
+**Reasoning.** *Myrick* remains true — absence of federal regulation does not itself preempt. But here federal regulators affirmatively selected a mixed restraint strategy as part of the means of achieving the federal objective; a state tort rule effectively requiring every manufacturer to use the option federal regulators deliberately chose not to require would defeat that operative federal method.
 
-**Goal:** identify what a genuine commerce-affecting local economic offense looks like after *Lopez*.
+**What this establishes.** Stone's restrictive approach to preemption is not anti-preemption — actual federal policy can preempt; the key word is actual.
 
----
+### Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000)
 
-## United States v. Hinds
-### **[LOWER-COURT SIM CASE]**
+**Status.** Historical Supreme Court merits case.
 
-**Stone disposition: ordinary operational links do not make a worship building a federal-commerce building for §844(i).**
+**Historical questions.** Did a state sanctions law targeting companies doing business with Burma conflict with a federal sanctions statute covering the same subject?
 
-Purchases, utilities, insurance, mail, donations, employees, mortgages, and national affiliation do not necessarily mean that the building itself is actively used in commercial activity.
+**Stone's disposition.** Invalidate the conflicting Massachusetts structure.
 
-**Goal:** build the active-use statutory boundary that *Jones* later applies to an owner-occupied home.
+**Reasoning.** Congress enacted a federal sanctions regime assigning the Executive particular flexibility, scope, exceptions, and diplomatic tools. Massachusetts cannot expand the sanctions, remove federally assigned flexibility, and thereby alter the method Congress chose.
 
-This is also Stone's preferred method when constitutional questions can fairly be avoided by statutory construction.
+**What this establishes.** Concrete statutory conflict, not a free-standing judicial "foreign affairs preemption" doctrine.
 
----
+### Bradley v. Arkansas Department of Education
 
-## United States v. Bird, 124 F.3d 667
-### **[LOWER-COURT SIM CASE]**
+**Status.** Lower-court sim case.
 
-**Stone disposition: uphold FACE as applied to force/true threats specifically intended to prevent reproductive-health services.**
+**Historical questions.** Did Arkansas's acceptance of federal special-education funding constitute genuine consent to private federal enforcement of IDEA?
 
-Apply *American Life League*.
+**Stone's disposition.** Uphold Arkansas's program-specific consent on this record.
 
-The market relationship comes from intentional interference with provision or receipt of the service, not the generic economic consequences of violence.
+**Reasoning.** The funding condition is prospective, program-related, clearly stated, and unmistakably tells participating States that private federal enforcement accompanies acceptance — genuine funding consent rather than *College Savings*-style constructive waiver from merely engaging in regulated activity.
 
-The simulation adopts that application.
+**What this establishes.** The lawful-consent side of Spending Clause federalism, before confronting coercion; later qualified by *Kansas* — formal ability to refuse is not always practical voluntariness.
 
----
+## OT2000
 
-## Waste Management v. Metropolitan Government of Nashville
-### **[LOWER-COURT SIM CASE]**
+### Solid Waste Agency of Northern Cook County v. Army Corps of Engineers (SWANCC), 531 U.S. 159 (2001)
 
-**Stone disposition: uphold genuinely public facility routing where local private and interstate firms are treated alike.**
+**Status.** Historical Supreme Court merits case.
 
-A municipality operating and financing its own traditional public waste facility differs from *Carbone*, where public coercion favored a private local enterprise.
+**Historical questions.** Does the Clean Water Act's jurisdiction reach isolated, nonnavigable, wholly intrastate ponds used by migratory birds?
 
-Public ownership itself is not magic. Stone examines actual ownership, control, public-service responsibility, financing, revenues, and whether private local competitors receive a special advantage.
+**Stone's disposition.** Reject federal jurisdiction through statutory construction.
 
-**Goal:** create the public-facility half of the eventual *United Haulers* doctrine.
+**Reasoning.** The Act should not be read to reach such waters solely because migratory birds use them; Stone does not need to declare the outer Commerce power, since the statute's water-based jurisdictional language provides the narrower ground.
 
----
+**What this establishes.** *Jones* applied to federal environmental regulation — *Jones → SWANCC → Bond II* becomes an important Stone avoidance sequence.
 
-## National Association of Home Builders v. Babbitt, 130 F.3d 1041
-### **[LOWER-COURT SIM CASE] — MAJOR COMMERCE DEVELOPMENT**
+### Board of Trustees of the University of Alabama v. Garrett, 531 U.S. 356 (2001)
 
-**Stone disposition: VACATE AND REMAND.**
+**Status.** Historical Supreme Court merits case.
 
-The Endangered Species Act cannot be sustained in this application merely because biodiversity is important, the species might have future scientific value, tourists care about wildlife, or development is economic.
+**Historical questions.** Did Congress validly abrogate state sovereign immunity for ADA employment-discrimination damages under § 5?
 
-But purely intrastate noneconomic conduct is not automatically outside federal authority either.
+**Stone's position.** Distinguish the particular § 5 abrogation question from every other source of federal law — a failed Fourteenth Amendment enforcement theory for retrospective damages does not automatically eliminate every valid statutory duty resting on another constitutional power or every lawful prospective/remedial route.
 
-Stone identifies two serious routes relevant to the case:
+**What this establishes.** Reinforces source separation after *Kimel*.
 
-First, exclusion of the local conduct might materially impair or permit evasion of a valid interstate regulatory regime.
+### Buckman Co. v. Plaintiffs' Legal Committee, 531 U.S. 341 (2001)
 
-Second, the conduct might create a substantial interstate externality that individual States cannot reasonably internalize.
+**Status.** Historical Supreme Court merits case.
 
-The record must actually support whichever mechanism the Government invokes.
+**Historical questions.** Does federal law preempt a state tort claim alleging fraud on the FDA in the medical-device approval process?
 
-The simulation eventually records exactly this framework and remand.
+**Stone's disposition.** Fraud-on-the-FDA theory preempted; independently grounded traditional state duties preserved.
 
-**Goal:** operationalize the questions *Lopez* left open.
+**Reasoning.** If the claimed duty exists only because of a party's relationship with a federal agency, allowing a private state-law action to police that federal relationship can interfere with Congress's chosen federal enforcement structure. But traditional state tort duties do not disappear merely because the same conduct also violated federal law.
 
-This becomes one of the most important Stone cases in the entire project.
+**What this establishes.** Matures the duty-specific preemption method.
 
----
+### Kansas v. United States
 
-# OT1998
+**Status.** Lower-court sim case, foundational Spending case.
 
-## Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Did a federal funding condition become unconstitutionally coercive?
 
-## College Savings Bank v. Florida Prepaid
-### HISTORICAL SUPREME COURT MERITS CASE
+**Stone's disposition.** Reverse and remand; reject Kansas's notice and relatedness objections, but the coercion challenge survives.
 
-## Alden v. Maine
-### HISTORICAL SUPREME COURT MERITS CASE
+**Reasoning.** The conditions are prospective and programmatically related, but a funding condition becomes coercive when the structure and magnitude of the threatened loss materially eliminate the State's reasonably practicable ability to decline, turning a formal offer into the practical equivalent of a command. No fixed percentage controls; relevant circumstances include the amount and centrality of funding, dependence on an established stream, whether the Government is offering genuinely new money or threatening entrenched funds to obtain new obligations, transition possibilities, alternatives, scope and newness of the condition, and genuine waiver/safety valves. Kansas bears the ultimate burden.
 
-These three should be understood together for Stone.
+**What this establishes.** Answers the question *Printz* deliberately left open. Formal consent is not enough — consent has to remain practically real.
 
-**Stone rejects two extremes.**
+### United States v. Oakland Cannabis Buyers' Cooperative, 532 U.S. 483 (2001)
 
-He does not accept that Article I automatically permits unlimited private retrospective money judgments against nonconsenting State treasuries.
+**Status.** Historical Supreme Court merits case, statutory precursor.
 
-He also does not accept that sovereign immunity allows a State to take the benefit of substantive federal law while extinguishing the corresponding federal monetary entitlement entirely.
+**Historical questions.** Does the Controlled Substances Act contain an implied medical-necessity defense?
 
-His preferred structure is:
+**Stone's position.** Courts cannot create a general medical-necessity exception Congress did not enact — this is primarily statutory, not the eventual *Raich* Commerce case, and should not prejudge whether Congress constitutionally reaches every purely local marijuana activity.
 
-First identify whether Congress validly created the substantive federal obligation.
+**What this establishes.** Keeps statutory exceptions separate from constitutional power.
 
-Then identify whether Congress unmistakably created the remedy.
+### Gibbs v. Babbitt
 
-For retrospective compensatory obligations, a State may channel enforcement into an adequate state remedial system.
+**Status.** Lower-court sim case, major Commerce application.
 
-But the State cannot simply erase the federal entitlement. If no constitutionally and practically adequate substitute exists and Congress clearly authorized compensation, a federal fallback remains available.
+**Historical questions.** Does application of the Endangered Species Act's take prohibition to a landowner killing a wolf on private property survive under the *Home Builders* framework?
 
-Separately, a state-created entity operating voluntarily in an interstate commercial market may be treated according to its actual legal/fiscal structure and enterprise revenues rather than through fictional "constructive waiver."
+**Stone's disposition.** Vacate and remand.
 
-**College Savings:** reject constructive waiver merely because a State entered a federally regulated market.
+**Reasoning.** The economic motivation of the landowner does not convert taking a wolf into economic activity; tourism, research, possible future scientific value, and the Act's comprehensive character do not automatically establish the interstate mechanism. Apply *Home Builders*: can exclusion of this conduct materially impair or permit evasion of a valid interstate regime, or does it create a substantial interstate externality that individual States cannot reasonably internalize? The lower courts did not make the required findings, so remand rather than invent the facts.
 
-**Florida Prepaid:** keep substantive federal patent obligations conceptually separate from remedial channel.
+**What this establishes.** Proves the *Home Builders* evidentiary mechanism is real and courts cannot manufacture it.
 
-**Alden:** permit state remedial channeling but not state nullification of federal rights.
+### United States v. Angle (grant)
 
-This combined simulation rule is recorded in the standards.
+**Status.** Lower-court sim case; certiorari granted June 25, 2001, merits decided the following Term.
 
-**Goal:** replace binary immunity thinking with a sequence:
+**Historical questions.** Can intrastate possession of actual child pornography be federalized because production materials previously traveled through interstate commerce, or as an anti-evasion component of the interstate trafficking regime?
 
-duty → defendant/entity → consent/abrogation → forum → compensation route → fallback.
+**Stone's disposition.** Do not resolve until OT2001.
 
----
+## OT2001
 
-# OT1999
+### Michigan v. Environmental Protection Agency
 
-## Kimel v. Florida Board of Regents
-### HISTORICAL SUPREME COURT MERITS CASE
+**Status.** Lower-court sim case.
 
-**Stone position:** Congress has not established the §5 basis required for retrospective treasury damages under the ADEA merely by prohibiting age discrimination more broadly than the Constitution itself does.
+**Historical questions.** Did EPA's regional ozone-transport rule properly establish upwind States' contribution to downwind nonattainment, and did the cooperative-federalism implementation structure commandeer the States?
 
-But that does not mean every federal ADEA obligation vanishes.
+**Stone's disposition.** Affirm in part, vacate in part, remand.
 
-The separate Commerce-based substantive duty and whatever lawful remedial channels exist must still be analyzed.
+**Reasoning.** EPA must first establish a measurable causal contribution from an upwind State to downwind nonattainment; cost-effectiveness can then help determine how much contribution reasonably must be eliminated, but cost cannot create the interstate linkage the statute requires. On federalism, EPA can establish a valid statewide emissions outcome while leaving the State free to choose sources, controls, trading arrangements, schedules, and other lawful implementation methods; if the State declines, the statute provides a federal implementation fallback, which is not commandeering.
 
-**Goal:** apply *Boerne* without converting failure of §5 abrogation into destruction of the underlying statute.
+**What this establishes.** What legitimate cooperative federalism looks like: federal outcome, genuine State implementation choice, federal fallback.
 
----
+### Lapides v. Board of Regents, 535 U.S. 613 (2002)
 
-## Reno v. Condon
-### HISTORICAL SUPREME COURT MERITS CASE — MAJOR ANTI-COMMANDEERING CLARIFICATION
+**Status.** Historical Supreme Court merits case.
 
-**Stone disposition: uphold federal regulation.**
+**Historical questions.** Does a State's voluntary removal of a case to federal court waive its sovereign-immunity objection to that forum?
 
-South Carolina's motor-vehicle department is itself supplying and disseminating information in an interstate market.
+**Stone's disposition.** Voluntary removal waives only the federal-forum objection for claims already amenable to adjudication.
 
-Congress is regulating the State's own conduct as an information holder/supplier.
+**Reasoning.** A State that affirmatively invokes federal jurisdiction cannot then object to that same federal forum for the claims it voluntarily brought there — but the waiver does not create a cause of action, damages, substantive liability, federal statutory personhood, or surrender of unrelated defenses.
 
-That differs from *Printz*: no State officer is being ordered to administer a federal regulatory program against private third parties.
+**What this establishes.** Keeps "waiver" from becoming an amorphous fairness doctrine; ask exactly what the State voluntarily did and what objection that act relinquished.
 
-Administrative work necessary to comply with a direct federal rule is not commandeering merely because the regulated actor is a State.
+### Verizon Maryland v. Public Service Commission, 535 U.S. 635 (2002)
 
-This distinction becomes controlling in the simulation.
+**Status.** Historical Supreme Court merits case.
 
-**Goal:** prevent *Printz* from mutating into immunity of States from ordinary federal regulation.
+**Historical questions.** May a party obtain prospective relief against state commissioners for enforcing an order contrary to federal telecommunications law?
 
----
+**Stone's disposition.** Allow prospective federal relief against responsible commissioners.
 
-## United States v. Locke
-### HISTORICAL SUPREME COURT MERITS CASE
+**Reasoning.** A properly pleaded claim that state commissioners are presently enforcing an order contrary to controlling federal law can proceed through prospective officer relief; a detailed federal statute displaces that ordinary equitable route only where Congress actually made another channel exclusive for the same duty and relief.
 
-**Stone position:** identify the particular subject of state tanker regulation and determine whether federal maritime law actually occupies it.
+**What this establishes.** Matures *Coeur d'Alene* into a usable rule rather than a sovereignty-interest exception; preserves prospective declaratory/injunctive relief while excluding retrospective compensation.
 
-National uniformity matters where Congress created a national rule. It is not an incantation.
+### Federal Maritime Commission v. South Carolina State Ports Authority, 535 U.S. 743 (2002)
 
-Distinctively local waterway conditions can remain subject to local authority where federal law has not occupied the subject and no actual conflict exists.
+**Status.** Historical Supreme Court merits case.
 
-**Goal:** field preemption must be tied to statutory architecture, not administrative preference.
+**Historical questions.** Does state sovereign immunity bar a privately filed administrative complaint before the FMC against a state port authority?
 
----
+**Stone's disposition.** Vacate and remand; reject categorical immunity analysis.
 
-## Fraternal Order of Police v. United States
-### **[LOWER-COURT SIM CASE] — MAJOR COMMERCE CLARIFICATION**
+**Reasoning.** A privately filed complaint does not automatically transform every component of an administrative proceeding into a forbidden private damages action. Separate the substantive federal shipping obligation, the legal/fiscal status of the Port Authority, the prospective compliance component, the retrospective reparations request, and the source authorizing each remedy. Prospective federal compliance adjudication can proceed where Congress clearly authorized it within an enumerated power; retrospective reparations require separate analysis of whether the Port is an arm of the State, a qualifying commercial state enterprise, or otherwise subject to a lawful compensatory route.
 
-Stone addresses two federalism questions.
+**What this establishes.** Close to a manifesto for Stone's sovereign-immunity method: never let the identity of the forum or plaintiff answer every remedial question at once.
 
-**Anti-commandeering:** §922(g)(9) regulates firearm possession by individuals. It does not become commandeering because some of those individuals are State police officers.
+### United States v. Angle (merits)
 
-**Commerce:** an offense-specific Commerce element matters only if it performs actual constitutional work. The Government cannot prove federal authority solely by pointing to an object's remote historical trip through interstate commerce where that fact has no meaningful connection to the conduct Congress is regulating.
+**Status.** Lower-court sim case, major Commerce decision.
 
-This becomes the simulation's major jurisdictional-element limitation.
+**Historical questions.** Does the interstate-commerce jurisdictional element for federal child-pornography possession survive when based only on the remote interstate travel of production materials, and can possession itself be included in a valid national trafficking prohibition?
 
-**Goal:** prevent Congress from bypassing *Lopez* merely by adding the words "in or affecting commerce."
+**Stone's disposition.** Affirm the conviction, but reject the Government's remote-material theory.
 
----
+**Reasoning.** First, a disk, camera, film, computer, videotape, or other production material does not give Congress perpetual jurisdiction over every later local act merely because the item once crossed State lines — the jurisdictional element must perform genuine constitutional work. Second, actual-child-pornography possession may nevertheless be included in a valid national interstate-trafficking regime where possession is sufficiently connected with acquisition, retention, copying, concealment, or redistribution that excluding it creates a material evasion route or materially impairs the trafficking prohibition.
 
-## Gillespie v. City of Indianapolis
-### **[LOWER-COURT SIM CASE]**
+**What this establishes.** The mature pre-*Raich* Commerce synthesis, combining *Lopez*'s limiting principle, *Hale*/*Rybar*'s anti-evasion rule, *Home Builders*/*Gibbs*'s mechanism-and-proof discipline, and *Fraternal Order*'s meaningful jurisdictional element. A genuinely self-contained local possession case cannot be federalized merely through the interstate history of incidental equipment.
 
-**Stone disposition: uphold.**
+## OT2002
 
-Follow *Fraternal Order of Police*.
+No mandatory core Commerce/Federalism roadmap case. This is intentional — a jurisprudence becomes unrealistic if every Term conveniently supplies a vehicle for doctrinal expansion. Existing law should be allowed to operate until a case actually presents a meaningful unresolved question.
 
-The statute directly regulates the individual's firearm possession; it does not order Indianapolis to implement federal law.
+## OT2003
 
-Commerce authority remains dependent on a genuinely operative market/nexus theory rather than remote interstate history.
+### Tennessee Student Assistance Corp. v. Hood, 541 U.S. 440 (2004)
 
-The simulation records both propositions.
+**Status.** Stone roadmap.
 
-**Goal:** demonstrate that the same person can be a State employee and a federally regulable individual without collapsing actor and government.
+**Historical questions.** Does the Bankruptcy Clause permit a bankruptcy court to discharge a student loan debt owed to a state agency without the State's consent?
 
----
+**Stone's disposition.** Affirm bankruptcy discharge authority.
 
-## United States v. Morrison
-### HISTORICAL SUPREME COURT MERITS CASE — MAJOR COMMERCE LIMIT
+**Reasoning.** Stone should not say the Bankruptcy Clause generally destroys state sovereign immunity; instead characterize bankruptcy discharge according to what the proceeding actually does. Discharge works on the debtor, estate, and legal status of obligations within a centralized bankruptcy process — it is not automatically equivalent to an ordinary private retrospective damages judgment payable from a state treasury.
 
-**Stone disposition: invalidate the federal civil remedy under the asserted Commerce theory.**
+**What this establishes.** The narrow bankruptcy foundation needed for *Katz*, without wrecking the general Article I immunity architecture. Bankruptcy is exceptional because centralized disposition of the estate requires it, not because invoking Article I erases sovereign immunity generally.
 
-Gender-motivated violence is enormously serious.
+## OT2004
 
-That seriousness does not supply the constitutional source.
+### Granholm v. Heald, 544 U.S. 460 (2005)
 
-The Government's Commerce theory again depends on generalized consequences: violence affects victims, employment, travel, medical spending, productivity, insurance, and the economy.
+**Status.** Stone roadmap.
 
-That is *Lopez*'s forbidden consequence chain.
+**Historical questions.** Do state laws permitting in-state wineries to ship directly to consumers while barring out-of-state wineries from doing the same survive dormant-Commerce scrutiny, notwithstanding the Twenty-first Amendment?
 
-Stone should expressly say Congress may regulate interstate travel, transactions, market obstruction, interstate criminal enterprises, and other genuinely interstate mechanisms. What it cannot do is regulate every local violent act because violence in aggregate has economic consequences.
+**Stone's disposition.** Invalidate the discriminatory direct-shipping systems.
 
-**Goal:** prove *Lopez* is a real limit even in a case involving major national harm.
+**Reasoning.** The Twenty-first Amendment leaves States substantial authority over alcohol licensing, distribution, age verification, taxation, and public health, but does not authorize naked economic discrimination. If an in-state winery receives a commercially valuable distribution channel and a materially equivalent out-of-state winery is excluded because of geography, the State must justify the discrimination under the demanding dormant-Commerce rule.
 
----
+**What this establishes.** Applies *Oregon Waste*/*Carbone*/*West Lynn* to a heavily regulated State field without erasing legitimate alcohol regulation.
 
-## Jones v. United States
-### HISTORICAL SUPREME COURT MERITS CASE
+### Gonzales v. Raich, 545 U.S. 1 (2005)
 
-**Stone disposition: reverse through statutory construction.**
+**Status.** Stone roadmap, major Commerce case.
 
-An owner-occupied family home is not actively "used" in interstate commerce within the federal arson statute merely because it has insurance, utilities, a mortgage, supplies purchased across state lines, and other ordinary incidents of modern home ownership.
+**Historical questions.** Does the Controlled Substances Act's application to purely intrastate, non-commercial cultivation and possession of marijuana exceed the commerce power?
 
-No constitutional holding is necessary.
+**Stone's disposition.** Uphold the CSA application, narrowly.
 
-The simulation treats *Lopez* as avoidance context and confines §844(i) to active commercial use.
+**Reasoning.** Do not adopt an unlimited aggregation theory under which every homegrown product is "economic" because someone somewhere could buy it. The Act is a genuine national prohibition/regulation of an interstate fungible product market; home-grown marijuana is substitutable with market marijuana, and local cultivation and possession can provide concealment, diversion, substitution, and enforcement gaps that materially impair the national market prohibition. That fits *Hale → Rybar → Angle*, so Stone upholds it as an anti-evasion/material-impairment application of a valid interstate-market regime.
 
-**Goal:** one of the canonical Stone examples of restraint:
+**What this establishes.** Proves Stone's Commerce jurisprudence is not anti-federal — a real national market receives strong federal power, and the limiting principle survives because the Government must identify the actual market regime and the mechanism through which exclusion of the local class would materially undermine it. Commerce chain at this point: *Lopez → Hale/Rybar → Home Builders/Gibbs → FOP → Angle → Raich.*
 
-when Congress's statute can fairly be read narrowly, do that before announcing another constitutional boundary.
+## OT2005
 
-This later matters heavily in *SWANCC* and *Bond II*.
+### Central Virginia Community College v. Katz, 546 U.S. 356 (2006)
 
----
+**Status.** Stone roadmap.
 
-## Geier v. American Honda
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Does the Bankruptcy Clause permit a bankruptcy trustee to recover a preferential transfer from a state agency without the State's consent?
 
-**Stone disposition: find conflict with the particular tort theory.**
+**Stone's disposition.** Permit the bankruptcy proceeding.
 
-*Myrick* remains true: absence of federal regulation does not itself preempt.
+**Reasoning.** Build directly from *Hood*. Avoid the sweeping proposition that the States surrendered all sovereign immunity concerning bankruptcy at the Founding. The better rule is functional and source-bound: centralized bankruptcy sometimes requires recovery or administration of property belonging to the estate, and if fragmented state-controlled enforcement would prevent the bankruptcy court from accomplishing the constitutionally assigned bankruptcy function, with no adequate state-selected remedial channel able to perform that function, the federal bankruptcy process may operate.
 
-But here federal regulators affirmatively selected a mixed restraint strategy as part of the means of achieving the federal objective.
+**What this establishes.** Makes bankruptcy genuinely exceptional without making it doctrinally magical.
 
-A state tort rule effectively requiring every manufacturer to use the option federal regulators deliberately chose not to require would defeat that operative federal method.
+## OT2006
 
-**Goal:** show that Stone's restrictive approach to preemption is not anti-preemption.
+### United Haulers Association v. Oneida-Herkimer Solid Waste Management Authority, 550 U.S. 330 (2007)
 
-Actual federal policy can preempt.
+**Status.** Stone roadmap.
 
-The key word is **actual**.
+**Historical questions.** Does a flow-control ordinance directing waste to a publicly owned and operated facility survive dormant-Commerce scrutiny after *Carbone*?
 
----
+**Stone's disposition.** Uphold genuine public-facility routing.
 
-## Crosby v. National Foreign Trade Council
-### HISTORICAL SUPREME COURT MERITS CASE
+**Reasoning.** Do not overrule *Carbone*, which concerned coercive favoritism toward a private local enterprise. A genuinely publicly owned facility performing a traditional public waste-service function is different where local private and out-of-state private firms are treated alike — but public ownership is not conclusive; examine ownership, control, revenue, public-service obligations, fiscal responsibility, operation, and whether private local economic interests receive a hidden preference.
 
-**Stone disposition: invalidate the conflicting Massachusetts sanctions structure.**
+**What this establishes.** Completes *Carbone → SSC → Nashville/Waste Management → United Haulers.*
 
-Congress enacted a federal sanctions regime assigning the Executive particular flexibility, scope, exceptions, and diplomatic tools.
+## OT2007
 
-Massachusetts cannot expand the sanctions, remove federally assigned flexibility, and thereby alter the method Congress chose.
+### Department of Revenue of Kentucky v. Davis, 553 U.S. 328 (2008)
 
-**Goal:** concrete statutory conflict, not a free-standing judicial "foreign affairs preemption" doctrine.
+**Status.** Stone roadmap.
 
----
+**Historical questions.** Does a state tax exemption favoring interest on its own municipal bonds over other States' bonds violate the dormant Commerce Clause?
 
-## Bradley v. Arkansas Department of Education
-### **[LOWER-COURT SIM CASE]**
+**Stone's disposition.** Narrowly uphold the municipal-bond preference.
 
-**Stone disposition: uphold Arkansas's program-specific consent to federal IDEA enforcement on this record.**
+**Reasoning.** A State's treatment of debt issued to finance its own governmental operations is different from protection of resident private businesses against interstate competition. Stone should not announce a general "government exception" to the dormant Commerce Clause — the decision turns on the State financing its own governmental borrowing function.
 
-The funding condition is prospective, program-related, clearly stated, and unmistakably tells participating States that private federal enforcement accompanies acceptance.
+**What this establishes.** Preserves actual State operational capacity while maintaining strong anti-protectionism toward private commerce.
 
-That is genuine funding consent rather than *College Savings*-style constructive waiver from merely engaging in regulated activity.
+## OT2008
 
-The simulation later qualifies *Bradley* with *Kansas*: formal ability to refuse is not always practical voluntariness.
+No mandatory core roadmap case. Again, no filler.
 
-**Goal:** build the lawful-consent side of Spending Clause federalism before confronting coercion.
+## OT2009
 
----
+### United States v. Comstock, 560 U.S. 126 (2010)
 
-# OT2000
+**Status.** Stone roadmap, Necessary and Proper.
 
-## Solid Waste Agency of Northern Cook County v. Army Corps — SWANCC
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Does Congress have authority under the Necessary and Proper Clause to civilly commit a mentally ill, sexually dangerous person already in federal custody beyond his release date?
 
-**Stone disposition: reject federal jurisdiction through statutory construction.**
+**Stone's disposition.** Uphold § 4248 as applied to persons already lawfully in federal custody.
 
-The Clean Water Act should not be read to reach isolated, nonnavigable, wholly intrastate ponds solely because migratory birds use them.
+**Reasoning.** The reasoning must proceed through a finite chain: valid enumerated federal offense; lawful federal prosecution/custody; federal responsibility arising from that custody; limited measures reasonably tied to lawful and safe termination of that custody. This cannot become a general federal power to civilly confine dangerous persons — the statute must remain tied to the existing federal custodial relationship, qualifying condition/danger, meaningful process and review, and a genuine state-transfer mechanism.
 
-Stone does not need to declare the outer Commerce power in the case.
+**What this establishes.** Canonical Stone Necessary-and-Proper reasoning: enumerated end → incident means → identifiable limiting boundary.
 
-The statute's water-based jurisdictional language provides the narrower ground.
+## OT2010
 
-**Goal:** *Jones* applied to federal environmental regulation.
+### Virginia Office for Protection & Advocacy v. Stewart, 563 U.S. 247 (2011)
 
-**Jones → SWANCC → Bond II** becomes an important Stone avoidance sequence.
+**Status.** Stone roadmap.
 
----
+**Historical questions.** Can a state agency created by the State itself sue another state officer for prospective relief under federal law?
 
-## Board of Trustees v. Garrett
-### HISTORICAL SUPREME COURT MERITS CASE
+**Stone's disposition.** Allow prospective officer relief.
 
-**Stone position:** distinguish the particular §5 abrogation question from every other source of federal law.
+**Reasoning.** The fact that the plaintiff itself was created by the State does not erase the ongoing federal duty of another State officer. Focus on the defendant, the present federal violation, the enforcement connection, and the prospective relief.
 
-A failed Fourteenth Amendment enforcement theory for retrospective damages does not automatically eliminate every valid statutory duty resting on another constitutional power or every lawful prospective/remedial route.
+**What this establishes.** Applies *Coeur d'Alene → Verizon* without converting plaintiff identity into immunity doctrine.
 
-**Goal:** reinforce source separation after *Kimel*.
+### Sossamon v. Texas, 563 U.S. 277 (2011)
 
----
+**Status.** Stone roadmap.
 
-## Buckman v. Plaintiffs' Legal Committee
-### HISTORICAL SUPREME COURT MERITS CASE
+**Historical questions.** Does a State's acceptance of federal funding under RLUIPA constitute consent to private damages actions against the State?
 
-**Stone disposition: fraud-on-the-FDA theory preempted; independently grounded traditional state duties preserved.**
+**Stone's disposition.** No private damages against the State on the asserted Spending Clause consent theory without unmistakable remedy notice.
 
-If the claimed duty exists only because of a party's relationship with a federal agency, allowing a private State-law action to police that federal relationship can interfere with Congress's chosen federal enforcement structure.
+**Reasoning.** Consent to federal funding conditions includes only what the State was clearly told it was accepting. A broad phrase such as "appropriate relief" should not automatically constitute unmistakable notice of private retrospective treasury damages.
 
-But traditional State tort duties do not disappear merely because the same conduct also violated federal law.
+**What this establishes.** Combines *Bradley* and *Kansas*: clear consent concerns not merely substantive obligations but the remedies to which the State agreed.
 
-The simulation records precisely that distinction.
+### Bond v. United States (Bond I), 564 U.S. 211 (2011)
 
-**Goal:** mature the duty-specific preemption method.
+**Status.** Stone roadmap.
 
----
+**Historical questions.** Does an individual criminal defendant have standing to raise a federalism-based challenge to the federal statute under which she is prosecuted?
 
-## Kansas v. United States
-### **[LOWER-COURT SIM CASE] — FOUNDATIONAL SPENDING CASE**
+**Stone's disposition.** Recognize individual standing to raise the federalism challenge; do not decide the Treaty/Commerce merits yet.
 
-**Stone disposition: REVERSE AND REMAND.**
+**Reasoning.** Federalism is not merely an institutional privilege belonging to State governments. Structural allocation protects individuals by limiting which government can exercise which power and by maintaining political accountability, so a person prosecuted under allegedly unauthorized federal law has a personal stake in the power question.
 
-Reject Kansas's notice and relatedness objections.
+**What this establishes.** Standing only, preserving the substantive issue for a case that actually requires it.
 
-The conditions are prospective and programmatically related.
+## OT2011
 
-But the coercion challenge survives.
+### Arizona v. United States, 567 U.S. 387 (2012)
 
-Stone's rule:
+**Status.** Stone roadmap, preemption.
 
-A funding condition becomes coercive when the structure and magnitude of the threatened loss materially eliminate the State's reasonably practicable ability to decline, turning a formal offer into the practical equivalent of a command.
+**Historical questions.** Does federal immigration law preempt several provisions of an Arizona statute creating parallel state immigration-enforcement mechanisms?
 
-No fixed percentage controls.
+**Stone's disposition.** Provision-by-provision analysis.
 
-Relevant circumstances include the amount and centrality of funding, dependence on an established stream, whether the Government is offering genuinely new money or threatening entrenched funds to obtain new obligations, transition possibilities, alternatives, scope and newness of the condition, and genuine waiver/safety valves.
+**Reasoning.** Do not decide the case using either slogan — "immigration is exclusively federal" or "policing is a traditional State function." For every provision ask: what federal statutory rule applies; did Congress occupy this particular field; can both rules be complied with; did Congress allocate enforcement discretion to federal officials; does Arizona create a parallel offense, sanction, detention authority, or enforcement mechanism inconsistent with that allocation? Likely outcomes: a separate state alien-registration offense is preempted where Congress created an exclusive federal registration structure; a state criminal sanction for conduct Congress regulates differently is preempted where it changes Congress's selected consequences; independent state arrest/removal authority inconsistent with federal control over removal is preempted; status inquiry and communication genuinely operating through federally authorized information-sharing systems is potentially permissible.
 
-Kansas bears the ultimate burden.
+**What this establishes.** The culmination of *Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona* — preemption is operational conflict, not rhetoric about which sovereign's subject matter sounds more important.
 
-The simulation records that practical-choice rule.
+### National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)
 
-**Goal:** answer the question *Printz* deliberately left open.
+**Status.** Stone roadmap, Commerce and Spending.
 
-**Core Stone principle:** formal consent is not enough. Consent has to remain practically real.
+**Historical questions.** Does the Commerce Clause support the individual health-insurance mandate, and does the Medicaid-expansion funding condition unconstitutionally coerce the States?
 
----
+**Stone's disposition, Commerce.** The individual mandate is not supported by the Commerce Clause theory asserted.
 
-## United States v. Oakland Cannabis Buyers' Cooperative
-### HISTORICAL SUPREME COURT MERITS CASE — STATUTORY PRECURSOR
+**Reasoning, Commerce.** Stone should be careful not to create a metaphysical "activity/inactivity" rule divorced from constitutional function. The deeper problem is that Congress's theory would permit it to create the commercial predicate it needs by compelling a person to enter a market and then claim authority over the transaction it forced into existence. Commerce power ordinarily regulates commerce or conduct genuinely connected to commerce; it does not ordinarily manufacture the commerce whose existence supplies the asserted jurisdiction. An inevitable-market/cost-shifting argument may matter on materially different facts, but needs a reliable and judicially bounded mechanism, not simply the proposition that everybody eventually participates in healthcare. If the payment independently functions as a constitutional tax, that is a separate Taxing Power inquiry.
 
-**Stone position:** courts cannot create a general medical-necessity exception Congress did not enact into the Controlled Substances Act.
+**Stone's disposition, Medicaid.** The threatened use of entrenched existing Medicaid funds is coercive to the extent it destroys a State's genuine practical choice.
 
-This is primarily statutory, not the eventual *Raich* Commerce case.
+**Reasoning, Medicaid.** This is *Kansas* applied, not a new coercion doctrine. Ask how central the existing funding stream is, how deeply State institutions have been built around it, how substantial the new obligations are, whether Congress is offering a genuinely new program or leveraging an established one, whether a State can realistically replace, restructure, or decline, and what transition exists. The expansion/new funds can remain subject to conditions even if the threat to old entrenched funds cannot.
 
-**Goal:** keep statutory exceptions separate from constitutional power.
+**What this establishes.** Makes *Kansas* matter when the hard case finally arrives.
 
-Do not use this case to prejudge whether Congress constitutionally reaches every purely local marijuana activity.
+## OT2012
 
----
+No mandatory Commerce/Federalism roadmap case. Do not invent one.
 
-## Gibbs v. Babbitt
-### **[LOWER-COURT SIM CASE] — MAJOR COMMERCE APPLICATION**
+## OT2013
 
-**Stone disposition: VACATE AND REMAND.**
+### Bond v. United States (Bond II), 572 U.S. 844 (2014)
 
-The economic motivation of the landowner does not convert taking a wolf into economic activity.
+**Status.** Stone roadmap.
 
-Tourism, research, possible future scientific value, and the ESA's comprehensive character do not automatically establish the interstate mechanism.
+**Historical questions.** Does the federal Chemical Weapons Convention Implementation Act reach an ordinary local poisoning committed with a household chemical?
 
-Apply *Home Builders*:
+**Stone's disposition.** Reverse through narrow statutory interpretation if fairly available.
 
-Can exclusion of this conduct materially impair or permit evasion of a valid interstate regime?
+**Reasoning.** Use *Jones* and *SWANCC*. Do not casually construe a federal chemical-weapons statute so broadly that an ordinary local poisoning/assault automatically becomes an international chemical-weapons offense. If Congress unmistakably enacted that result, Stone may eventually have to reach the constitutional question, but if the statute fairly admits a narrower reading tied to the kind of chemical warfare and federally cognizable conduct it was enacted to reach, take the statutory route.
 
-Does the conduct create a substantial interstate externality that individual States cannot reasonably internalize?
+**What this establishes.** Stone's restraint at maturity: willing to decide a Treaty/Necessary-and-Proper question when necessary, not willing to manufacture necessity in order to decide it. Avoidance chain: *Jones → SWANCC → Bond II.*
 
-The lower courts did not make the required findings concerning actual interstate population effects, material impairment, anti-evasion, externality, or State capacity.
+## OT2014
 
-Therefore remand rather than invent the facts.
+*Opinions in this Term's remaining roadmap cases occur in calendar year 2015, the end point of this planning horizon.*
 
-The simulation records this exact disposition and evidentiary requirement.
+### Armstrong v. Exceptional Child Center, 575 U.S. 320 (2015)
 
-**Goal:** prove Stone means what he said in *Home Builders*. The evidentiary mechanism is real, and courts cannot manufacture it.
+**Status.** Stone roadmap.
 
----
+**Historical questions.** Does the Supremacy Clause itself create a private cause of action to enforce a federal Medicaid rate-setting provision through prospective officer equity?
 
-## United States v. Angle
-### **[LOWER-COURT SIM CASE]**
-### Sim grant: June 25, 2001
-### Merits decided next Term
+**Stone's disposition.** Reject the particular private Medicaid rate-setting action while preserving prospective officer equity generally.
 
-The important issue presented is whether intrastate possession of actual-child pornography can be federalized because materials used to produce it previously traveled through interstate commerce, and whether possession can instead be reached as an anti-evasion component of the interstate trafficking regime.
+**Reasoning.** The Supremacy Clause establishes priority of federal law; it does not itself create every desired cause of action. Ask separately whether the federal provision imposes a judicially administrable duty, whether Congress created or preserved a private remedial route, whether a specialized statutory enforcement system governs the same duty and requested relief, and whether ordinary prospective officer equity would duplicate or undermine that specific arrangement. The particular Medicaid rate-setting structure can foreclose this action without announcing that prospective equitable enforcement of federal law generally disappears.
 
-Do not resolve it until OT2001.
+**What this establishes.** Preserves *Coeur d'Alene*/*VOPA*/*Verizon* while taking statutory remedial design seriously.
 
----
+### Comptroller of the Treasury of Maryland v. Wynne, 575 U.S. 542 (2015)
 
-# OT2001
+**Status.** Stone roadmap.
 
-## Michigan v. Environmental Protection Agency
-### **[LOWER-COURT SIM CASE]**
+**Historical questions.** Does Maryland's personal income tax scheme, which does not fully credit tax paid to other States, discriminate against interstate commerce?
 
-**Stone disposition: AFFIRM IN PART, VACATE IN PART, REMAND.**
+**Stone's disposition.** Invalidate the discriminatory interstate tax structure.
 
-This case should integrate federalism with statutory administration.
+**Reasoning.** Use internal consistency as a diagnostic rather than a mathematical ritual: if every State adopted the same tax structure, would identical interstate activity systematically bear an additional tax burden that identical intrastate activity avoids? If yes, the structure penalizes interstate commerce because it is interstate.
 
-EPA must first establish a measurable causal contribution from an upwind State to downwind nonattainment.
+**What this establishes.** The culmination of the taxation chain *Kraft/Itel → Jefferson Lines → Wynne.* States retain broad tax authority; what they cannot do is design the tax system so that crossing a State border itself produces a systematic additional burden.
 
-Cost effectiveness can then help determine how much contribution reasonably must be eliminated.
+## Lower-court sim case index
 
-Cost cannot create the interstate linkage that the statute requires.
+For avoidance of doubt, these are the principal cases in this build brought into the simulation from the lower courts rather than being historical Supreme Court merits cases — a future session must not describe any of them as a historical Supreme Court merits decision; each is a real lower-court case used as a simulation Supreme Court vehicle.
 
-On federalism, EPA can establish a valid statewide emissions outcome while leaving the State free to choose sources, controls, trading arrangements, schedules, and other lawful implementation methods.
+- **OT1994:** *United States v. Harris.*
+- **OT1995:** *American Life League v. Reno*; *United States v. Bishop*; *United States v. Hale*; *SSC Corp. v. Town of Smithtown.*
+- **OT1996:** *Pic-A-State Pennsylvania v. Reno*; *United States v. Mussari.*
+- **OT1997:** *United States v. Rybar*; *United States v. Robinson*; *United States v. Hinds*; *United States v. Bird*; *Waste Management v. Metropolitan Government of Nashville*; *National Association of Home Builders v. Babbitt.*
+- **OT1999:** *Fraternal Order of Police v. United States*; *Gillespie v. City of Indianapolis*; *Bradley v. Arkansas Department of Education.*
+- **OT2000:** *Kansas v. United States*; *Gibbs v. Babbitt*; *United States v. Angle* (granted at Term's end for OT2001 merits consideration).
+- **OT2001:** *Michigan v. Environmental Protection Agency*; *United States v. Angle* (merits).
 
-If the State declines, the statute provides a federal implementation fallback.
+## One-sentence description of the entire project
 
-That is not commandeering.
-
-The simulation expressly adopts both propositions.
-
-**Goal:** show what legitimate cooperative federalism looks like:
-
-**federal outcome + genuine State implementation choice + federal fallback.**
-
----
-
-## Lapides v. Board of Regents
-### HISTORICAL SUPREME COURT MERITS CASE
-
-**Stone disposition: voluntary removal waives only the federal-forum objection for claims already amenable to adjudication.**
-
-A State that affirmatively invokes federal jurisdiction cannot then object to that same federal forum for the claims it voluntarily brought there.
-
-But the waiver does not create:
-
-a cause of action; damages; substantive liability; federal statutory personhood; or surrender of unrelated defenses.
-
-The simulation records that forum-specific rule.
-
-**Goal:** keep "waiver" from becoming an amorphous fairness doctrine.
-
-Ask exactly **what the State voluntarily did and what objection that act relinquished.**
-
----
-
-## Verizon Maryland v. Public Service Commission
-### HISTORICAL SUPREME COURT MERITS CASE
-
-**Stone disposition: allow prospective federal relief against responsible commissioners.**
-
-A properly pleaded claim that State commissioners are presently enforcing an order contrary to controlling federal law can proceed through prospective officer relief.
-
-A detailed federal statute displaces that ordinary equitable route only where Congress actually made another channel exclusive for the same duty and relief.
-
-The simulation expressly preserves prospective declaratory/injunctive relief and excludes retrospective compensation.
-
-**Goal:** mature *Coeur d'Alene* into a usable rule rather than a sovereignty-interest exception.
-
----
-
-## Federal Maritime Commission v. South Carolina State Ports Authority
-### HISTORICAL SUPREME COURT MERITS CASE
-
-**Stone disposition: VACATE AND REMAND; reject categorical immunity analysis.**
-
-A privately filed complaint does not automatically transform every component of an administrative proceeding into a forbidden private damages action.
-
-Stone separates:
-
-the substantive federal shipping obligation;
-
-the legal/fiscal status of the Port Authority;
-
-the prospective compliance component;
-
-the retrospective reparations request;
-
-and the source authorizing each remedy.
-
-Prospective federal compliance adjudication can proceed where Congress clearly authorized it within an enumerated power.
-
-Retrospective reparations require separate analysis of whether the Port is an arm of the State, a qualifying commercial State enterprise, or otherwise subject to a lawful compensatory route.
-
-The simulation adopts this component-specific framework. 
-**Goal:** this is almost a manifesto for Stone's sovereign-immunity method:
-
-**never let the identity of the forum or plaintiff answer every remedial question at once.**
-
----
-
-## United States v. Angle
-### **[LOWER-COURT SIM CASE] — MAJOR COMMERCE DECISION**
-
-**Stone disposition: AFFIRM the conviction, but reject the Government's remote-material theory.**
-
-First holding:
-
-A disk, camera, film, computer, videotape, or other production material does not give Congress perpetual jurisdiction over every later local act merely because the item once crossed State lines.
-
-The jurisdictional element must perform genuine constitutional work.
-
-Second holding:
-
-Actual-child pornography possession may nevertheless be included in a valid national interstate-trafficking regime where possession is sufficiently connected with acquisition, retention, copying, concealment, or redistribution that excluding it creates a material evasion route or materially impairs the trafficking prohibition.
-
-The simulation records both propositions.
-
-**Goal:** this is the mature pre-*Raich* Commerce synthesis.
-
-It combines:
-
-*Lopez*'s limiting principle;
-
-*Hale/Rybar* anti-evasion;
-
-*Home Builders/Gibbs* mechanism-and-proof discipline;
-
-and *Fraternal Order*'s meaningful jurisdictional element.
-
-**Critical reservation:** a genuinely self-contained local possession case cannot be federalized merely through the interstate history of incidental equipment.
-
----
-
-# OT2002
-
-## No mandatory core Commerce/Federalism roadmap case
-
-Do **not** manufacture one.
-
-This is intentional.
-
-A jurisprudence becomes unrealistic if every Term conveniently supplies a vehicle for doctrinal expansion.
-
-The existing law should be allowed to operate until a case actually presents a meaningful unresolved question.
-
----
-
-# OT2003
-
-## Tennessee Student Assistance Corp. v. Hood
-### STONE ROADMAP
-
-**Stone disposition: AFFIRM bankruptcy discharge authority.**
-
-Stone should not say that the Bankruptcy Clause generally destroys State sovereign immunity.
-
-Instead characterize bankruptcy discharge according to what the proceeding actually does.
-
-Discharge works on the debtor, estate, and legal status of obligations within a centralized bankruptcy process. It is not automatically equivalent to an ordinary private retrospective damages judgment payable from a State treasury.
-
-**Goal:** construct the narrow bankruptcy foundation needed for *Katz* without wrecking the general Article I immunity architecture.
-
-**Limit:** bankruptcy is exceptional because centralized disposition of the estate requires it, not because invoking Article I erases sovereign immunity generally.
-
----
-
-# OT2004
-
-## Granholm v. Heald
-### STONE ROADMAP
-
-**Stone disposition: invalidate discriminatory direct-shipping systems.**
-
-The Twenty-first Amendment leaves States substantial authority over alcohol licensing, distribution, age verification, taxation, and public health.
-
-It does not authorize naked economic discrimination.
-
-If an in-state winery receives a commercially valuable distribution channel and a materially equivalent out-of-state winery is excluded because of geography, the State must justify the discrimination under the demanding dormant-Commerce rule.
-
-**Goal:** apply *Oregon Waste/Carbone/West Lynn* to a heavily regulated State field without erasing legitimate alcohol regulation.
-
----
-
-## Gonzales v. Raich
-### STONE ROADMAP — MAJOR COMMERCE CASE
-
-**Stone disposition: UPHOLD the CSA application, narrowly.**
-
-Do **not** adopt an unlimited aggregation theory under which every homegrown product is "economic" because someone somewhere could buy it.
-
-The Controlled Substances Act is a genuine national prohibition/regulation of an interstate fungible product market.
-
-Home-grown marijuana is substitutable with market marijuana. Local cultivation and possession can provide concealment, diversion, substitution, and enforcement gaps that materially impair the national market prohibition.
-
-That fits *Hale → Rybar → Angle*.
-
-Stone therefore upholds as an anti-evasion/material-impairment application of a valid interstate-market regime.
-
-**Goal:** prove Stone's Commerce jurisprudence is not anti-federal.
-
-A real national market receives strong federal power.
-
-The limiting principle survives because the Government must identify the actual market regime and the mechanism through which exclusion of the local class would materially undermine it.
-
-**Commerce chain at this point:**
-
-**Lopez → Hale/Rybar → Home Builders/Gibbs → FOP → Angle → Raich.**
-
----
-
-# OT2005
-
-## Central Virginia Community College v. Katz
-### STONE ROADMAP
-
-**Stone disposition: permit the bankruptcy proceeding.**
-
-Build directly from *Hood*.
-
-Stone should avoid the sweeping proposition that the States surrendered all sovereign immunity concerning bankruptcy at the Founding.
-
-The better rule is functional and source-bound:
-
-centralized bankruptcy sometimes requires recovery or administration of property belonging to the estate. If fragmented State-controlled enforcement would prevent the bankruptcy court from accomplishing the constitutionally assigned bankruptcy function, and no adequate State-selected remedial channel can perform the necessary function, the federal bankruptcy process may operate.
-
-**Goal:** make bankruptcy genuinely exceptional without making it doctrinally magical.
-
----
-
-# OT2006
-
-## United Haulers Association v. Oneida-Herkimer
-### STONE ROADMAP
-
-**Stone disposition: uphold genuine public-facility routing.**
-
-Do not overrule *Carbone*.
-
-*Carbone* concerned coercive favoritism toward a private local enterprise.
-
-A genuinely publicly owned facility performing a traditional public waste-service function is different where local private firms and out-of-state private firms are treated alike.
-
-But public ownership is not conclusive.
-
-Examine:
-
-ownership;
-
-control;
-
-revenue;
-
-public-service obligations;
-
-fiscal responsibility;
-
-operation;
-
-and whether private local economic interests receive a hidden preference.
-
-**Goal:** complete:
-
-**Carbone → SSC → Nashville/Waste Management → United Haulers.**
-
----
-
-# OT2007
-
-## Department of Revenue v. Davis
-### STONE ROADMAP
-
-**Stone disposition: narrowly uphold the municipal-bond preference.**
-
-A State's treatment of debt issued to finance its own governmental operations is different from protection of resident private businesses against interstate competition.
-
-Stone should not announce a general "government exception" to the dormant Commerce Clause.
-
-The decision turns on the State financing its own governmental borrowing function.
-
-**Goal:** preserve actual State operational capacity while maintaining strong anti-protectionism toward private commerce.
-
----
-
-# OT2008
-
-## No mandatory core roadmap case
-
-Again, no filler.
-
----
-
-# OT2009
-
-## United States v. Comstock
-### STONE ROADMAP — NECESSARY AND PROPER
-
-**Stone disposition: uphold §4248 as applied to persons already lawfully in federal custody.**
-
-The reasoning must proceed through a finite chain:
-
-valid enumerated federal offense;
-
-lawful federal prosecution/custody;
-
-federal responsibility arising from that custody;
-
-limited measures reasonably tied to lawful and safe termination of that custody.
-
-This cannot become a general federal power to civilly confine dangerous persons.
-
-Stone should require the statute to remain tied to the existing federal custodial relationship, qualifying condition/danger, meaningful process and review, and a genuine State-transfer mechanism.
-
-**Goal:** canonical Stone Necessary-and-Proper reasoning:
-
-**enumerated end → incident means → identifiable limiting boundary.**
-
----
-
-# OT2010
-
-## Virginia Office for Protection & Advocacy v. Stewart
-### STONE ROADMAP
-
-**Stone disposition: allow prospective officer relief.**
-
-The fact that the plaintiff itself was created by the State does not erase the ongoing federal duty of another State officer.
-
-Focus on the defendant, present federal violation, enforcement connection, and prospective relief.
-
-**Goal:** apply *Coeur d'Alene → Verizon* without converting plaintiff identity into immunity doctrine.
-
----
-
-## Sossamon v. Texas
-### STONE ROADMAP
-
-**Stone disposition: no private damages against the State on the asserted Spending Clause consent theory without unmistakable remedy notice.**
-
-Consent to federal funding conditions includes only what the State was clearly told it was accepting.
-
-A broad phrase such as "appropriate relief" should not automatically constitute unmistakable notice of private retrospective treasury damages.
-
-**Goal:** combine *Bradley* and *Kansas*:
-
-clear consent concerns not merely substantive obligations but the remedies to which the State agreed.
-
----
-
-## Bond v. United States — Bond I
-### STONE ROADMAP
-
-**Stone disposition: recognize individual standing to raise the federalism challenge.**
-
-Federalism is not merely an institutional privilege belonging to State governments.
-
-Structural allocation protects individuals by limiting which government can exercise which power and by maintaining political accountability.
-
-A person prosecuted under allegedly unauthorized federal law therefore has a personal stake in the power question.
-
-**Do not decide the Treaty/Commerce merits yet.**
-
-**Goal:** standing only. Preserve the substantive issue for a case that actually requires it.
-
----
-
-# OT2011
-
-## Arizona v. United States
-### STONE ROADMAP — PREEMPTION
-
-**Stone disposition: provision-by-provision analysis.**
-
-Do not decide the case using either slogan:
-
-"immigration is exclusively federal";
-
-or
-
-"policing is a traditional State function."
-
-For every provision ask:
-
-What federal statutory rule applies?
-
-Did Congress occupy this particular field?
-
-Can both rules be complied with?
-
-Did Congress allocate enforcement discretion to federal officials?
-
-Does Arizona create a parallel offense, sanction, detention authority, or enforcement mechanism inconsistent with that allocation?
-
-Likely Stone outcomes:
-
-Separate State alien-registration offense: preempted where Congress created an exclusive federal registration structure.
-
-State criminal sanction for conduct Congress regulates differently: preempted where it changes Congress's selected consequences.
-
-Independent State arrest/removal authority inconsistent with federal control over removal: preempted.
-
-Status inquiry and communication genuinely operating through federally authorized information-sharing systems: potentially permissible.
-
-**Goal:** culmination of:
-
-**Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona.**
-
-Preemption is operational conflict, not rhetoric about which sovereign's subject matter sounds more important.
-
----
-
-## NFIB v. Sebelius
-### STONE ROADMAP — COMMERCE + SPENDING
-
-### Commerce issue
-
-**Stone disposition: individual mandate is not supported by the Commerce Clause theory asserted.**
-
-Stone should be careful not to create a metaphysical "activity/inactivity" rule divorced from constitutional function.
-
-The deeper problem is that Congress's theory would permit it to create the commercial predicate it needs by compelling a person to enter a market and then claim authority over the transaction it forced into existence.
-
-Commerce power ordinarily regulates commerce or conduct genuinely connected to commerce. It does not ordinarily manufacture the commerce whose existence supplies the asserted jurisdiction.
-
-An inevitable-market/cost-shifting argument may matter on materially different facts, but it needs a reliable and judicially bounded mechanism, not simply the proposition that everybody eventually participates in healthcare.
-
-If the payment independently functions as a constitutional tax, that is a separate Taxing Power inquiry.
-
-### Medicaid issue
-
-**Stone disposition: the threatened use of entrenched existing Medicaid funds is coercive to the extent it destroys a State's genuine practical choice.**
-
-This is **Kansas applied**, not a new coercion doctrine.
-
-Ask:
-
-How central is the existing funding stream?
-
-How deeply have State institutions been built around it?
-
-How substantial are the new obligations?
-
-Is Congress offering a genuinely new program or leveraging an established one?
-
-Can a State realistically replace, restructure, or decline?
-
-What transition exists?
-
-The expansion/new funds can remain subject to conditions even if the threat to old entrenched funds cannot.
-
-**Goal:** make *Kansas* matter when the hard case finally arrives.
-
----
-
-# OT2012
-
-## No mandatory Commerce/Federalism roadmap case
-
-Do not invent one.
-
----
-
-# OT2013
-
-## Bond v. United States — Bond II
-### STONE ROADMAP
-
-**Stone disposition: REVERSE through narrow statutory interpretation if fairly available.**
-
-Use *Jones* and *SWANCC*.
-
-Do not casually construe a federal chemical-weapons statute so broadly that an ordinary local poisoning/assault automatically becomes an international chemical-weapons offense.
-
-If Congress unmistakably enacted that result, Stone may eventually have to reach the constitutional question.
-
-But if the statute fairly admits a narrower reading tied to the kind of chemical warfare and federally cognizable conduct it was enacted to reach, take the statutory route.
-
-**Goal:** demonstrate Stone's restraint at maturity.
-
-He is willing to decide a Treaty/Necessary-and-Proper question when necessary.
-
-He is not willing to manufacture necessity in order to decide it.
-
-**Avoidance chain:**
-
-**Jones → SWANCC → Bond II.**
-
----
-
-# OT2014
-## Opinions occur in calendar year 2015, which is why this is the end point of the 2015 planning horizon.
-
-## Armstrong v. Exceptional Child Center
-### STONE ROADMAP
-
-**Stone disposition: reject the particular private Medicaid rate-setting action while preserving prospective officer equity generally.**
-
-The Supremacy Clause establishes priority of federal law.
-
-It does not itself create every desired cause of action.
-
-Ask separately:
-
-Does the federal provision impose a judicially administrable duty?
-
-Did Congress create or preserve a private remedial route?
-
-Does a specialized statutory enforcement system govern the same duty and requested relief?
-
-Would ordinary prospective officer equity duplicate or undermine that specific arrangement?
-
-The particular Medicaid rate-setting structure can foreclose this action without announcing that prospective equitable enforcement of federal law generally disappears.
-
-**Goal:** preserve *Coeur d'Alene/VOPA/Verizon* while taking statutory remedial design seriously.
-
----
-
-## Comptroller v. Wynne
-### STONE ROADMAP
-
-**Stone disposition: invalidate the discriminatory interstate tax structure.**
-
-Stone should use **internal consistency** as a diagnostic rather than a mathematical ritual.
-
-Ask:
-
-If every State adopted the same tax structure, would identical interstate activity systematically bear an additional tax burden that identical intrastate activity avoids?
-
-If yes, the structure penalizes interstate commerce because it is interstate.
-
-**Goal:** culmination of the taxation chain:
-
-**Kraft/Itel → Jefferson Lines → Wynne.**
-
-States retain broad tax authority.
-
-What they cannot do is design the tax system so crossing a State border itself produces systematic additional burden.
-
----
-
-# THE COMMERCE CLAUSE LINE AS A WHOLE
-
-This is what the cases are collectively trying to accomplish.
-
-## Stage One: Find the boundary
-
-**Lopez** rejects limitless consequence-chain reasoning.
-
-Congress cannot say:
-
-local harm → social consequences → economic consequences → national economy → federal power.
-
-There must be an actual constitutional mechanism.
-
-## Stage Two: Prove the boundary does not disable national government
-
-**Harris** shows Congress can directly protect instrumentalities.
-
-**American Life League/Bird** show Congress can protect access to interstate service markets.
-
-**Hale/Rybar** show valid interstate product-market regulation can contain fitted anti-evasion possession rules.
-
-**Pic-A-State** and **Mussari** show direct interstate transactions and obligations remain easy cases.
-
-## Stage Three: Deal with difficult noneconomic local conduct
-
-**Home Builders** says noneconomic does not automatically mean immune.
-
-But government must identify:
-
-anti-evasion;
-
-material impairment;
-
-or a genuine substantial interstate externality.
-
-**Gibbs** proves those mechanisms require an actual record rather than judicial invention.
-
-## Stage Four: Stop fake jurisdictional hooks
-
-**Fraternal Order** says a statutory Commerce phrase must do actual constitutional work.
-
-**Angle** says remote movement of incidental production materials is not enough.
-
-## Stage Five: Apply the national-market rule to its strongest case
-
-**Raich** should uphold regulation of local fungible controlled substances because exclusion would create a genuine market-enforcement hole.
-
-That is not abandonment of *Lopez*. It is an application of the other side of the rule.
-
-## Stage Six: Draw the creation-of-commerce boundary
-
-**NFIB** should say Congress ordinarily cannot establish its own Commerce jurisdiction by compelling market entry and then regulating the transaction its command created.
-
-Thus the mature line is:
-
-**Lopez → Harris → Hale/Rybar → Home Builders → FOP → Gibbs → Angle → Raich → NFIB.**
-
-The point is neither "Congress weak" nor "Congress strong."
-
-The point is:
-
-**identify the interstate mechanism and make it do real constitutional work.**
-
----
-
-# THE ANTI-COMMANDEERING / SPENDING LINE
-
-**New York:** State legislatures cannot be conscripted into administering federal policy.
-
-**Printz:** State executives cannot be conscripted either.
-
-**Reno v. Condon:** direct regulation of the State's own federally regulable conduct is different from conscripting the State to regulate others.
-
-**Bradley:** States may knowingly accept clear program-related funding conditions.
-
-**Kansas:** formal refusal is insufficient; the choice must remain practically real.
-
-**Michigan v. EPA:** valid cooperative federalism uses a federal standard, genuine State implementation discretion, and a federal fallback.
-
-**Sossamon:** consent extends only to clearly disclosed remedies.
-
-**NFIB:** massive leverage over entrenched funding is where *Kansas* receives its hardest application.
-
-The durable Stone idea is:
-
-# GENUINE PRACTICAL CHOICE
-
-The federal government can regulate directly.
-
-It can offer cooperation.
-
-It can offer money.
-
-It cannot make a federal program work only by ensuring that the State has no realistically practicable ability to say no.
-
----
-
-# THE DORMANT COMMERCE LINE
-
-**Chemical Waste / Fort Gratiot:** geography cannot be used to exclude interstate competition.
-
-**Oregon Waste:** origin-based discriminatory charges are presumptively invalid.
-
-**Carbone:** public coercion cannot reserve commerce for a favored private local enterprise.
-
-**West Lynn:** coordinated economic devices are judged by integrated operation.
-
-**SSC:** government may control its own purchased service while remaining unable to regulate all outside commerce into a favored private facility.
-
-**Waste Management/Nashville:** genuine public facilities are different from concealed private favoritism.
-
-**Granholm:** regulatory fields such as alcohol do not receive a protectionism exemption.
-
-**United Haulers:** genuine public-service operation gets room unavailable to local private favoritism.
-
-**Davis:** State financing of its own government receives limited additional space without creating a general government exception.
-
-**Wynne:** a facially sophisticated tax remains invalid when its structure systematically penalizes interstate activity.
-
-Stone's position is therefore **strongly anti-protectionist but not anti-State**.
-
----
-
-# THE PREEMPTION LINE
-
-**Morales:** federal deregulation can genuinely displace State economic regulation.
-
-**Cipollone:** analyze particular State duties.
-
-**Easterwood:** identify the exact State duty and exact federal subject.
-
-**Myrick:** federal silence is not preemption.
-
-**Wolens:** federal preemption is not immunity from voluntary contracts.
-
-**Medtronic:** parallel State duties can survive.
-
-**Geier:** an affirmative federal method can create real conflict.
-
-**Locke:** field preemption requires an actually occupied subject.
-
-**Crosby:** State law cannot alter Congress's carefully selected enforcement architecture.
-
-**Buckman:** States cannot privately recreate exclusively federal agency duties.
-
-**Arizona:** apply all of this provision by provision.
-
-Stone's mature rule:
-
-**Federal law preempts because enacted federal law actually displaces or conflicts with the State rule, not because a judge considers national uniformity preferable.**
-
----
-
-# THE SOVEREIGN-IMMUNITY / REMEDIES LINE
-
-The critical rule for the next chat is:
-
-**Never answer all sovereign-immunity questions with one word.**
-
-Separate:
-
-1. Is the defendant legally the State or an arm of it?
-2. Is there a valid substantive federal duty?
-3. What constitutional source supports the duty?
-4. Did Congress create a cause of action?
-5. Did Congress clearly authorize this defendant?
-6. Did the State genuinely consent or waive an objection?
-7. Which forum is being used?
-8. Is the relief prospective or retrospective?
-9. Is the relief directed to an officer, the entity, an enterprise, or the treasury?
-10. Is an adequate State remedial channel available?
-11. Is the State entity operating as a sufficiently separate commercial enterprise?
-12. Did Congress provide a specialized enforcement system covering the same duty and relief?
-
-The case chain is:
-
-**Hess → Seminole Tribe → Coeur d'Alene → Florida Prepaid / College Savings / Alden → Kimel / Bradley → Lapides → Verizon → FMC → Hood → Katz → VOPA → Sossamon → Armstrong.**
-
-Do not collapse it.
-
----
-
-# STONE'S PERMANENT COMMERCE/FEDERALISM GUARDRAILS
-
-These are the rules the next chat should preserve even when a new case has never been discussed before.
-
-**Stone is not a States'-rights Justice.** A valid national power gets its legitimate scope.
-
-**Stone is not a nationalism-by-importance Justice.** A serious national problem is not a constitutional source.
-
-**Enumeration comes before usefulness.**
-
-**An interstate mechanism must be identified.**
-
-**Economic consequences are not automatically commerce.**
-
-**Noneconomic local conduct is not categorically immune.**
-
-**Anti-evasion must be real and fitted to an actual interstate regime.**
-
-**Interstate externality means an actual interstate spillover, not merely the same problem happening in many States.**
-
-**A jurisdictional element must perform real constitutional work.**
-
-**Legislative findings support propositions; they cannot manufacture constitutional power.**
-
-**The absence of findings does not itself defeat power when the mechanism is otherwise legally apparent.**
-
-**Courts do not invent the missing market, nexus, causal mechanism, or factual predicate. Remand if necessary.**
-
-**Direct regulation of a State is not automatically commandeering.**
-
-**Regulating a State's own conduct and forcing State officers to regulate third parties are different.**
-
-**The government choosing a policy ordinarily bears responsibility for administering it unless another sovereign genuinely agrees to participate.**
-
-**Funding consent must be practically real.**
-
-**Notice, relatedness, coercion, and remedy are separate Spending Clause questions.**
-
-**State market participation and State sovereign regulation are different.**
-
-**Public ownership is relevant but not magical.**
-
-**Dormant Commerce doctrine targets interstate discrimination and structural burdens, not ordinary State government.**
-
-**Federal power and federal exclusivity are different questions. Preemption must be independently established.**
-
-**Immunity does not erase substantive federal law.**
-
-**A substantive violation does not create a cause of action, waive immunity, establish a forum, or choose a remedy.**
-
-**Constitutional avoidance is legitimate only when the statute fairly permits the narrower reading.**
-
-**Jones, SWANCC, and Bond II are deliberate examples of that restraint.**
-
-**No invented numerical thresholds.** No constitutionally invented market share, number of States, incident count, dollar amount, funding percentage, or pollution percentage.
-
-**Novel facts do not require a novel test.**
-
-**When existing doctrine answers the question, use it.**
-
-**When Stone actually changes doctrine, he must say exactly what changed and why.**
-
-That is consistent with the Master Jurisprudence's broader instruction that Stone uses received law where it works and openly owns any changed trigger, burden, requirement, or remedy.
-
----
-
-# LOWER-COURT SIM CASE INDEX
-
-For avoidance of doubt, these are the principal Commerce/Federalism cases in this handoff that were brought into the simulation from the lower courts rather than being historical Supreme Court merits cases:
-
-**OT1994:** *United States v. Harris.*
-
-**OT1995:** *American Life League v. Reno*; *United States v. Bishop*; *United States v. Hale*; *SSC Corp. v. Town of Smithtown.*
-
-**OT1996:** *Pic-A-State Pennsylvania v. Reno*; *United States v. Mussari.*
-
-**OT1997:** *United States v. Rybar*; *United States v. Robinson*; *United States v. Hinds*; *United States v. Bird*; *Waste Management v. Metropolitan Government of Nashville*; *National Association of Home Builders v. Babbitt.*
-
-**OT1999:** *Fraternal Order of Police v. United States*; *Gillespie v. City of Indianapolis*; *Bradley v. Arkansas Department of Education.*
-
-**OT2000:** *Kansas v. United States*; *Gibbs v. Babbitt*; *United States v. Angle* was granted at the end of this Term for OT2001 merits consideration.
-
-**OT2001:** *Michigan v. Environmental Protection Agency*; *United States v. Angle.*
-
-When a future chat sees one of those cases, it must not describe it as a historical Supreme Court merits decision. It is a **real lower-court case used as a simulation Supreme Court vehicle.**
-
----
-
-# ONE-SENTENCE DESCRIPTION OF THE ENTIRE PROJECT
-
-Stone is trying to build a federalism jurisprudence in which **national power is strong when a genuine constitutionally assigned national mechanism exists, State power is strong when no federal source displaces it, neither sovereign can hide responsibility for its choices, and courts enforce those boundaries through rules that governments can understand before they litigate rather than through labels that merely announce who wins.**
+Stone is trying to build a federalism jurisprudence in which national power is strong when a genuine constitutionally assigned national mechanism exists, State power is strong when no federal source displaces it, neither sovereign can hide responsibility for its choices, and courts enforce those boundaries through rules that governments can understand before they litigate rather than through labels that merely announce who wins.
