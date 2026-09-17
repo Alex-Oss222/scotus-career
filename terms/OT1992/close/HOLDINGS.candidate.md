@@ -5530,6 +5530,33 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 - Browning-Ferris, 492 U.S.257: fine coverage principle applied without inventing a comprehensive proportionality formula.
 - Calero-Toledo, 416 U.S.663: statutory/historical connection not converted into a final excessiveness answer.
 
+### Excessive fines and criminal RICO forfeiture
+
+#### Alexander v. United States
+
+**Docket or dockets:** No. 91-1526.
+**Decided:** June 28, 1993.
+
+For the traditional-prior-restraint classification and independent First Amendment examination in *Alexander v. United States*, June 28, 1993, No. 91-1526, see First Amendment — Postconviction forfeiture of expressive enterprises.
+
+##### Whether punitive criminal RICO forfeiture requires a distinct Excessive Fines inquiry
+
+**Holding:** A criminal RICO forfeiture extracting property as punishment is subject to the Excessive Fines Clause independently of the validity of the convictions or the permissibility of the prison term. The lower court must examine the extent of the exaction in relation to the offenses supporting it; it may not reject that inquiry simply because the sentence is less than life imprisonment without parole.
+
+**Proposition-level authority:** Souter's Part III, joined by Stone-Zsela, White, O'Connor, Scalia, Thomas; six Justices adopt coverage and remand. Blackmun, Stevens and Kennedy accept the alternative excessiveness remand without joining Part III or adopting a proportionality formula.
+
+**Current force:** Remains controlling as stated.
+
+**Limits and questions not reached:** The Court leaves actual excessiveness to the lower court, with appropriate record development. The inquiry is not reduced to counting the seven titles adjudged obscene, and it may not presume that every asset or dollar of lawful business is criminal activity. No numerical cap, comprehensive proportionality formula or binding list of excessiveness considerations is adopted. The independent First Amendment inquiry remains necessary.
+
+**Operative remedy or transition:** Vacate approval of the challenged forfeiture and remand for an Excessive Fines examination independent of the First Amendment inquiry. All nine accept this remand, but only the six Part III Justices adopt its coverage rationale; Blackmun, Stevens and Kennedy accept alternative relief without joining that rationale. No final excessiveness finding, dollar cap or return of property is ordered; the convictions remain undisturbed.
+
+**Treatment of earlier authority:**
+
+- Browning-Ferris Industries v. Kelco Disposal, 492 U.S.257: its distinction between private awards and governmental punishment supports coverage of this criminal forfeiture; its private-award holding remains intact.
+- Solem v. Helm, 463 U.S.277: no rule about imprisonment displaces the separate Excessive Fines inquiry; the Court adopts no general prison-sentence holding here.
+- Austin v. United States, June 28, 1993, is an uncoordinated same-day decision, not an earlier source of this holding. No logical priority or adoption of its separate writings is inferred.
+
 ## Civil Rights
 
 ### Abortion emergency care
@@ -7644,6 +7671,53 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 - Board of Trustees v. Fox,492 U.S.469: reasonable fit applied; no least-restrictive-means requirement.
 - Discovery Network, March24, and Edenfield, April26,1993: unrelated classifications and unsupported harms distinguished, their scrutiny retained.
 - Posadas,478 U.S.328: no overruling and no adoption of the greater-power/lesser-power argument.
+
+### Postconviction forfeiture of expressive enterprises
+
+#### Alexander v. United States
+
+**Docket or dockets:** No. 91-1526.
+**Decided:** June 28, 1993.
+
+For the distinct Excessive Fines question in *Alexander v. United States*, June 28, 1993, No. 91-1526, see Criminal Procedure — Excessive fines and criminal RICO forfeiture.
+
+##### Whether this postconviction RICO forfeiture constitutes a traditional prior restraint
+
+**Holding:** A postconviction RICO forfeiture of identified assets linked to adjudicated racketeering does not constitute a traditional prior restraint merely because it impairs the owner's future ability to publish, where it neither forbids future publication nor requires permission to publish. That classification does not dispose of an independent First Amendment challenge to removal of protected works.
+
+**Proposition-level authority:** Souter's Part I, joined by Stone-Zsela, White, O'Connor, Scalia, Thomas; six Justices adopt this proposition. Blackmun, Stevens and Kennedy do not join the classification. The independent First Amendment question has a different coalition.
+
+**Current force:** Remains controlling as stated.
+
+**Limits and questions not reached:** The classification neither licenses a future-publication ban nor permits seizure of protected stock on probable cause alone. It does not resolve the independent challenge to removal of lawful works or immunize publishing assets from neutral sanctions.
+
+**Operative remedy or transition:** The traditional-prior-restraint claim is rejected, 6–3; that rejection does not sustain the entire forfeiture. Approval of the challenged forfeiture is vacated for the independent First and Eighth Amendment examinations described in the other question blocks. The convictions remain undisturbed.
+
+**Treatment of earlier authority:**
+
+- Near v. Minnesota, 283 U.S.697, and Vance v. Universal Amusement Co., 445 U.S.308: distinguished as restraints on future expression; their protection remains in force.
+- Fort Wayne Books, Inc. v. Indiana, 489 U.S.46: its pretrial protection is preserved; the present adjudicated RICO case differs, and its reserved postconviction question is not treated as settled.
+- Arcara v. Cloud Books, Inc., 478 U.S.697: applied to distinguish an ordinary sanction's incidental consequences from regulation implicating expression; no universal asset exemption follows.
+
+##### Whether valid convictions and the absence of a traditional prior restraint suffice to sustain forfeiture of lawful expressive inventory
+
+**Holding:** Where obscenity predicates produce forfeiture of an expressive enterprise and removal of lawful inventory, the judgment sustaining that forfeiture cannot rest solely on the existence of valid convictions and the absence of a traditional prior restraint. The judgment must be vacated for an independent First Amendment examination of the challenged expressive burden, distinguishing the judicial forfeiture from subsequent administrative destruction and confining correction to a reviewable injury and available relief.
+
+**Proposition-level authority:** Souter's Part II, joined by Stone-Zsela, Blackmun, Stevens, Kennedy; five Justices expressly adopt this limited rule and remand. Their separate positions do not establish a majority rule either categorically immunizing expressive inventory or adopting a comprehensive scrutiny framework for every postconviction forfeiture.
+
+**Current force:** Remains controlling as stated.
+
+**Limits and questions not reached:** The Court leaves the ultimate constitutional treatment of the distinct assets unresolved. Neither categorical immunity for expressive inventory nor a comprehensive scrutiny framework commands a majority. Judicial forfeiture, subsequent administrative destruction, statutory nexus, causation, reviewable injury and available relief remain distinct. The Court neither adopts a content-selection rationale from R.A.V. nor enlarges its entered overbreadth rule.
+
+**Operative remedy or transition:** Vacate the Eighth Circuit judgment insofar as it sustains the challenged forfeiture without independent First Amendment examination, and remand. The lower court must address statutory nexus and reviewable injury attributable to the judgment, distinguishing subsequent administrative destruction. Relief remains confined to what this appeal can supply: no return of destroyed stock, new damages cause of action or mandatory business restoration is ordered. The convictions remain undisturbed.
+
+**Treatment of earlier authority:**
+
+- Arcara, 478 U.S.697: its nonexpressive-conduct rationale does not dispense with examination of this expression-triggered sanction; ordinary neutral sanctions remain enforceable.
+- Fort Wayne Books, 489 U.S.46: the reservation concerning postconviction forfeiture is respected; its pretrial safeguard remains unchanged.
+- Marcus v. Search Warrant, 367 U.S.717, and A Quantity of Copies of Books v. Kansas, 378 U.S.205: their protection against indiscriminate removal of expressive works supplies the need for distinct examination, without mechanically converting their pretrial remedies into this mandate.
+- Simon & Schuster, Inc. v. Members of the New York State Crime Victims Board, December 10, 1991, simulated decision: content-selective financial burdens remain subject to its rule; lawful publishing does not immunize assets from neutral forfeiture.
+- Wisconsin v. Mitchell, June 11, 1993: its allowance for punishment of independently criminal conduct and relevant motive is preserved; the battery enhancement does not settle removal of protected inventory.
 
 ## Election Law
 
