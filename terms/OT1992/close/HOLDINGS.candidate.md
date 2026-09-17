@@ -3289,7 +3289,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ##### The missing separate judgment prevents the fee deadline from expiring
 
-**Holding:** Under the then-effective rules, EAJA’s thirty-day application period follows a properly judgment and expiration of the applicable sixty-day appeal period; the absence of the required Rule 58 separate judgment prevents that deadline from expiring. Schaefer’s application is timely although the sentence-four remand was itself a final merits disposition.
+**Holding:** Under the then-effective rules, EAJA’s thirty-day application period follows a properly entered judgment and expiration of the applicable sixty-day appeal period; the absence of the required Rule 58 separate judgment prevents that deadline from expiring. Schaefer’s application is timely although the sentence-four remand was itself a final merits disposition.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
@@ -3303,7 +3303,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ##### Hudson does not preserve administrative-fee coverage after an ordinary terminated sentence-four action
 
-**Holding:** Hudson’s integrated administrative-proceeding fee rationale does not apply to a sentence-four remand properly without retained jurisdiction, or to retention of jurisdiction that is challenged. It remains applicable to qualifying sentence-six proceedings in which the court retains the action, subject to EAJA’s other requirements.
+**Holding:** Hudson’s integrated administrative-proceeding fee rationale does not apply to a sentence-four remand properly entered without retained jurisdiction, or to retention of jurisdiction that is challenged. It remains applicable to qualifying sentence-six proceedings in which the court retains the action, subject to EAJA’s other requirements.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; White, O’Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
