@@ -631,7 +631,7 @@ The judgment granting conditional habeas relief on the specified instruction gro
 
 Demos v. Storrie, No. 92-6846, October Term 1992. In forma pauperis fee motion and proposed prospective filing restriction decided March 8, 1993; no oral argument. Historical report locator: 507 U.S. 290. Certiorari sought to review the Ninth Circuit's affirmance, 962 F.2d 13 (May 11, 1992), of the denial of leave to file a §1983 complaint under an existing prefiling order treated as settled law of the case for want of a timely appeal. The recovered petition alleges official interference prevented that timely appeal.
 
-Render form: compact. Basis: unanimous disposition on the fee and prospective-restriction questions, directly following the Martin v. District of Columbia Court of Appeals rule (November 2, 1992); no fracture.
+Render form: full. Basis: the disposition is unanimous, but it differs materially from the historical comparator (which denied IFP and imposed a prospective restriction, 7–2); unanimity alone does not license compact form where the public component-level outcome itself changes.
 
 ## Participation
 
@@ -651,7 +651,9 @@ IFP granted, 9–0; certiorari denied in the ordinary course; prospective filing
 
 ## Opinion Topology
 
-Per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No separate writing.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Per curiam | The Court | Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Grants IFP, denies certiorari, declines prospective restriction | Entire disposition; no separate writing |
 
 ## Holdings
 
@@ -665,11 +667,11 @@ Per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O'C
 
 ##### No prospective filing restriction on this record
 
-**Controlling proposition:** The Court declines to impose a prospective fee-and-form condition on Demos's unidentified future civil-certiorari petitions because the established record does not show that individualized treatment of particular filings is inadequate.
+**Controlling proposition:** The Court declines to impose a prospective fee-and-form condition on Demos's unidentified future civil-certiorari petitions because the established record does not show that individualized treatment of particular filings is inadequate. This case-specific refusal decides neither that a prior warning is invariably required nor that prospective restrictions are categorically unlawful.
 
 **Authority:** Per curiam opinion, joined by all nine participating Justices.
 
-**Controlling explanation:** For the reasons stated in Martin, the remedy remains confined to the filing actually before the Court. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record, particularly where one present filing raises a distinct, non-frivolous allegation sufficient to permit filing.
+**Controlling explanation:** For the reasons stated in Martin, the remedy remains confined to the filing actually before the Court. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record. Denton's distinction between an arguable claim and a clearly baseless allegation carries the same force here: a filing that clears that threshold has not thereby shown a pattern of clearly baseless filings justifying a case-independent condition on every future petition, and the Court does not import Denton's statutory screening framework wholesale into this discretionary remedy. One present filing raises a distinct, non-frivolous allegation sufficient to permit filing, which itself supports declining a categorical prospective bar, because individualized review of each future petition remains adequate on this record.
 
 ## Precedent Treatment
 
@@ -677,6 +679,7 @@ Per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O'C
 - Martin v. District of Columbia Court of Appeals, No. 92-5584 (November 2, 1992): applied; its filing-specific frivolousness standard controls this later fee motion, and its unanimous decline of a prospective restriction controls here.
 - In re Demos, 500 U.S. 16 (1991): distinguished; its narrower, earlier extraordinary-writ restriction addressed different filings and remains in force within its own scope.
 - In re McDonald, 489 U.S. 180 (1989); In re Sindram, 498 U.S. 177 (1991): preserved as authority for targeted protection against extraordinary-writ abuse; no extension to all future civil-certiorari petitions is made here.
+- Denton v. Hernandez, 504 U.S. 25 (May 4, 1992): its arguable-claim/clearly-baseless distinction informs both the fee and prospective-restriction assessments, without importing its statutory screening rules wholesale into Rule 39 or this discretionary remedy.
 
 ## Law After Decision
 
