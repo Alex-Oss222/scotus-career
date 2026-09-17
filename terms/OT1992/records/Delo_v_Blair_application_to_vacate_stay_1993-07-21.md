@@ -36,15 +36,15 @@ By an equally divided Court, 4–4, the application to vacate the Eighth Circuit
 
 **Assignment:** No opinion commands five votes, so there is no institutional per curiam and no Chief's assignment of one. Each faction's statement is unjoined by the other side; Stone's statement stands on his own.
 
-## Law of the decision
+## Legal effect of the disposition (no controlling holding)
 
 ### An equally divided Court leaves the existing stay in place
 
-**Holding and operative rule:** Where the Court divides 4–4 on an application to vacate a lower court's stay of execution, the application fails for want of the five votes required to grant it, and the stay under review remains in effect. This produces no precedent and decides nothing beyond the disposition of this application.
+**Legal effect, not a holding:** Where the Court divides 4–4 on an application to vacate a lower court's stay of execution, the application fails for want of the five votes required to grant it, and the stay under review remains in effect. This produces no precedent and decides nothing beyond the disposition of this application; it is not a controlling proposition adopted by any coalition.
 
-**Authority:** No opinion for the Court; this is the ordinary legal consequence of an equally divided vote, not a proposition adopted by any coalition.
+**Basis:** No opinion for the Court; this is the ordinary legal consequence of an equally divided vote.
 
-**Controlling explanation:** A movant seeking to disturb an existing order must secure a majority to do so; a tie is not a majority. The Eighth Circuit's stay, and its announced intention to examine the seven affidavits, the State's responses, and the district court's reasoning in greater detail, therefore continues without alteration by this Court. Nothing in this disposition finds the affidavits credible, incredible, sufficient, or insufficient; it leaves that assessment to the ordinary course of the proceedings below.
+**Explanation:** A movant seeking to disturb an existing order must secure a majority to do so; a tie is not a majority. The Eighth Circuit's stay, and its announced intention to examine the seven affidavits, the State's responses, and the district court's reasoning in greater detail, therefore continues without alteration by this Court. Nothing in this disposition finds the affidavits credible, incredible, sufficient, or insufficient; it leaves that assessment to the ordinary course of the proceedings below.
 
 **Precedent treatment:**
 
@@ -53,11 +53,11 @@ By an equally divided Court, 4–4, the application to vacate the Eighth Circuit
 
 ### Stone-Zsela's separate statement
 
-**Holding and operative rule:** A Justice's already-committed dissent in a materially indistinguishable case governs his own vote in a later application presenting the same kind of claim, absent a reason to depart from it; here, no such reason is presented, and the Eighth Circuit's own announced process for developing the record is consistent with, not contrary to, that dissent.
+**Position, not a holding:** A Justice's already-committed dissent in a materially indistinguishable case governs his own vote in a later application presenting the same kind of claim, absent a reason to depart from it; here, no such reason is presented, and the Eighth Circuit's own announced process for developing the record is consistent with, not contrary to, that dissent. This is Stone's individual, unjoined position, not a proposition this Court adopts.
 
-**Authority:** Separate statement of Stone-Zsela, unjoined, stating he would deny the application.
+**Source:** Separate statement of Stone-Zsela, unjoined, stating he would deny the application.
 
-**Controlling explanation:** In Herrera, Stone would have vacated the categorical exclusion of a claim of this kind and remanded for exhaustion, abuse-of-the-writ analysis, and, where material, factual development, rather than summarily reject it. Blair's claim is, on the Court's own characterization, indistinguishable from Herrera's. The Eighth Circuit has already undertaken to examine the affidavits, the State's responses, and the district court's reasoning more closely — the kind of process Stone's Herrera dissent sought rather than opposed. Vacating the stay now would foreclose that process before it occurs. Consistency with his own Herrera position, not a new view adopted for this case, leads Stone to deny the application. This statement does not find the affidavits sufficient on the merits, does not order any particular outcome below, and does not represent a change from his Herrera dissent, which itself cautioned that "no indefinite stay follows" from his framework — a continued stay must eventually rest on an actual showing, not persist indefinitely without one.
+**Reasoning:** In Herrera, Stone would have vacated the categorical exclusion of a claim of this kind and remanded for exhaustion, abuse-of-the-writ analysis, and, where material, factual development, rather than summarily reject it. Blair's claim is, on the Court's own characterization, indistinguishable from Herrera's. The Eighth Circuit has already undertaken to examine the affidavits, the State's responses, and the district court's reasoning more closely — the kind of process Stone's Herrera dissent sought rather than opposed. Vacating the stay now would foreclose that process before it occurs. Consistency with his own Herrera position, not a new view adopted for this case, leads Stone to deny the application. This statement does not find the affidavits sufficient on the merits, does not order any particular outcome below, and does not represent a change from his Herrera dissent, which itself cautioned that "no indefinite stay follows" from his framework — a continued stay must eventually rest on an actual showing, not persist indefinitely without one.
 
 ### The statement of the Justices who would grant the application
 

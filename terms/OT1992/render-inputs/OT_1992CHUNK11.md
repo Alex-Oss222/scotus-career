@@ -143,15 +143,15 @@ By an equally divided Court, 4–4, the application to vacate the Eighth Circuit
 | Joint statement | Blackmun | Stevens | Would deny the application | Consistent with their Herrera dissent |
 | Separate statement | Souter | No other Justice | Would deny the application | Would let the Eighth Circuit's study proceed |
 
-## Holdings
+## Legal Effect (No Controlling Holding)
 
 ### An equally divided Court leaves the existing stay in place
 
-**Holding and operative rule:** Where the Court divides 4–4 on an application to vacate a lower court's stay of execution, the application fails for want of the five votes required to grant it, and the stay under review remains in effect. This produces no precedent and decides nothing beyond the disposition of this application.
+**Legal effect, not a holding:** Where the Court divides 4–4 on an application to vacate a lower court's stay of execution, the application fails for want of the five votes required to grant it, and the stay under review remains in effect. This produces no precedent and decides nothing beyond the disposition of this application; it is not a controlling proposition adopted by any coalition.
 
-**Authority:** No opinion for the Court; the ordinary legal consequence of an equally divided vote.
+**Basis:** No opinion for the Court; the ordinary legal consequence of an equally divided vote.
 
-**Controlling explanation:** A movant seeking to disturb an existing order must secure a majority; a tie is not a majority. The Eighth Circuit's stay, and its announced intention to examine the seven affidavits, the State's responses, and the district court's reasoning in greater detail, continues without alteration. Nothing in this disposition finds the affidavits credible, incredible, sufficient, or insufficient; that assessment is left to the proceedings below.
+**Explanation:** A movant seeking to disturb an existing order must secure a majority; a tie is not a majority. The Eighth Circuit's stay, and its announced intention to examine the seven affidavits, the State's responses, and the district court's reasoning in greater detail, continues without alteration. Nothing in this disposition finds the affidavits credible, incredible, sufficient, or insufficient; that assessment is left to the proceedings below.
 
 **Precedent treatment:**
 
@@ -182,7 +182,7 @@ The Eighth Circuit's stay of execution remains in effect. No other claim, execut
 
 ## Source Notes
 
-[Delo v. Blair, 509 U.S.823 (1993)](https://law.onecle.com/ussc/509/509us823.html), confirmed against [CourtListener](https://www.courtlistener.com/opinion/1088038/delo-v-blair/), supplies the Court's own characterization of the underlying showing and the historical vote, used here only for the seven non-Stone-independent Justices' positions and the procedural facts. [Walter Blair Jr.](https://en.wikipedia.org/wiki/Walter_Blair_Jr.) confirms the historical execution July 21, 1993; that execution does not occur in this timeline's disposition. `terms/OT1992/records/Herrera_v_Collins_merits_1993-01-25.md` supplies Stone's own recorded Herrera dissent, read in full for this correction. The seven underlying affidavits, the State's responses, and the July 19, 1993 district-court reasons in No.93-0674-CV-1 remain unrecovered and are not relied upon. Research cutoff: July 21, 1993 for this event's entering law; September 17, 2026 for file publication.
+[Delo v. Blair, 509 U.S.823 (1993)](https://law.onecle.com/ussc/509/509us823.html), confirmed against [CourtListener](https://www.courtlistener.com/opinion/1088038/delo-v-blair/), supplies the Court's own characterization of the underlying showing. [Walter Blair Jr.](https://en.wikipedia.org/wiki/Walter_Blair_Jr.) confirms the historical execution July 21, 1993; that execution does not occur in this timeline's disposition. The seven underlying affidavits, the State's responses, and the July 19, 1993 district-court reasons in No.93-0674-CV-1 remain unrecovered and are not relied upon. Research cutoff: July 21, 1993 for this event's entering law; September 17, 2026 for file publication.
 
 ---
 
