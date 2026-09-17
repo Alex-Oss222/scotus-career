@@ -22,7 +22,7 @@ terms/OT<year>/  One folder per term:
    output/          written by Render: the public render of each chunk; a correction
                      replaces only the affected entry, in place, with no version
                      numbers, commit hashes, or correction labels in the public text
-   close/           the three replacement trackers and the Term-Close Dossier
+   close/           staged close notes/audits and the Term-Close Dossier; candidates are removed after publication
 ```
 
 ## The four tasks
