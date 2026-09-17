@@ -5,7 +5,7 @@
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
 | June 28, 1993 | Alexander v. United States, No. 91-1526 | Merits decision | Forfeiture approval vacated; remanded for independent First Amendment and Excessive Fines examinations; convictions undisturbed. |
-| July 21, 1993 | Delo v. Blair, No. A-69 | Application to vacate stay of execution | Application granted, 5–3; Eighth Circuit's stay of execution vacated. |
+| July 21, 1993 | Delo v. Blair, No. A-69 | Application to vacate stay of execution | Denied by an equally divided Court, 4–4; Eighth Circuit's stay of execution remains in effect. |
 | July 26, 1993 | DeBoer v. DeBoer, No. A-64 | Application for stay | Application denied; Michigan's enforcement order remains operative as against A-64, subject to any independently operative order. |
 
 ## Decisions and Dispositions
@@ -123,62 +123,63 @@ Application to vacate stay of execution, July 21, 1993
 
 Delo, Superintendent, Potosi Correctional Center v. Blair, No.A-69, October Term 1992; application to vacate a stay of execution, decided July 21, 1993. Walter Blair's execution was scheduled in Missouri; a successive federal habeas petition raised an actual-innocence claim supported by seven affidavits. The District Court, finding the facts mirror those in Herrera v. Collins, nonetheless granted a stay; the Eighth Circuit affirmed it and indicated a need for further study over roughly five weeks. The State applied to vacate that stay.
 
-At decision: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Eight seated Justices participate; White retired after the June 28 decisions, and Ginsburg is not yet seated. Quorum six; five votes suffice to resolve the application.
+At decision: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. Eight seated Justices participate; White retired after the June 28 decisions, and Ginsburg is not yet seated. Quorum six; five votes are required to grant the State's application; four is not enough.
 
 #### Judgment
 
-The Court grants the State's application to vacate the Eighth Circuit's stay of execution.
+By an equally divided Court, 4–4, the application to vacate the Eighth Circuit's stay of execution is denied. The stay remains in effect.
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Would grant (vacate) | Would deny (preserve the stay) | Remedy |
 |---|---|---|---|---|
-| Application to vacate the stay of execution | Granted, 5–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas | Blackmun, Stevens (dissenting); Souter (separately, would deny) | Eighth Circuit's stay vacated; no other Court order entered. |
+| Application to vacate the stay of execution | Denied by an equally divided Court, 4–4 | O'Connor, Scalia, Kennedy, Thomas | Stone-Zsela, Blackmun, Stevens, Souter | Eighth Circuit's stay remains in effect; its announced further study of the record may proceed; no execution proceeds on this date; no precedential rule results. |
 
 #### Opinion Topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+| Writing | Author | Joined by | Relationship to disposition | Scope |
 |---|---|---|---|---|
-| Per curiam | The Court | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas | Vacates the stay | Entire disposition |
-| Separate statement | Stone-Zsela | No other Justice | Concurs in the judgment | Reconciles the vacatur with his Herrera dissent's stay standard |
-| Separate statement | Souter | No other Justice | Would deny the application | Preserve the stay pending the Eighth Circuit's contemplated further study |
-| Dissent | Blackmun | Stevens | Would deny the application | Entire dissent |
+| Statement favoring vacatur | O'Connor, Scalia, Kennedy, Thomas | Each other | Would grant the application | Noncontrolling; four votes |
+| Separate statement | Stone-Zsela | No other Justice | Would deny the application | Applies his own Herrera dissent |
+| Joint statement | Blackmun | Stevens | Would deny the application | Consistent with their Herrera dissent |
+| Separate statement | Souter | No other Justice | Would deny the application | Would let the Eighth Circuit's study proceed |
 
 #### Controlling Propositions and Authority
 
-##### A temporary stay requires an express Barefoot/Delo showing
+##### An equally divided Court leaves the existing stay in place
 
-**Controlling proposition:** It is an abuse of discretion to maintain a stay of execution on a second or successive habeas petition raising claims that are, for all relevant purposes, indistinguishable from those already rejected as insufficient in Herrera v. Collins. No substantial grounds upon which relief might be granted are shown on this record.
+**Controlling proposition:** Where the Court divides 4–4 on an application to vacate a lower court's stay of execution, the application fails for want of the five votes required to grant it, and the stay under review remains in effect. This produces no precedent and decides nothing beyond the disposition of this application.
 
-**Authority:** Per curiam, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas; five participating Justices.
+**Authority:** No opinion for the Court; the ordinary legal consequence of an equally divided vote.
 
-**Controlling explanation:** The District Court's own finding that the facts mirror Herrera forecloses the stay rather than justifying it, because Herrera's own affidavits, considered together with the existing trial evidence, were held insufficient to make a persuasive affirmative demonstration of innocence. The Eighth Circuit's stated need for further study identifies no respect in which Blair's showing exceeds what Herrera's own papers presented and what this Court already found wanting. Barefoot and Delo require substantial grounds before a stay may issue on a successive petition; an indistinguishable showing cannot supply what an already-rejected showing lacked.
+**Controlling explanation:** A movant seeking to disturb an existing order must secure a majority; a tie is not a majority. The Eighth Circuit's stay, and its announced intention to examine the seven affidavits, the State's responses, and the district court's reasoning in greater detail, continues without alteration. Nothing in this disposition finds the affidavits credible, incredible, sufficient, or insufficient; that assessment is left to the proceedings below.
 
 **Precedent treatment:**
 
-- Herrera v. Collins, January 25, 1993: applied; its controlling explanation that an indistinguishable affidavit showing fails to make a persuasive affirmative demonstration of innocence governs this application directly.
-- Barefoot v. Estelle, 463 U.S.880: applied for the substantial-grounds threshold governing a stay pending appellate or collateral review.
-- Delo v. Stokes, 495 U.S.320: applied, as in Herrera itself, to the substantial-grounds requirement on a second or successive federal petition.
+- Herrera v. Collins, January 25, 1993: its controlling insufficiency holding commanded five votes on Herrera's own record; it does not itself resolve this application, because Stone-Zsela's vote here is not available to extend it, and no other Justice's vote has changed.
+- Barefoot v. Estelle, 463 U.S.880, and Delo v. Stokes, 495 U.S.320: remain the governing substantial-grounds standard; this disposition neither relaxes nor extends it, and does not decide whether Blair's showing would satisfy it on a developed record.
 
 #### Precedent Treatment and Current-Law Effect
 
-No precedent is overruled. The Herrera stay standard is applied, not altered.
+No precedent is overruled. The simulated Herrera holding is unchanged.
 
-Effective July 21, 1993: the Herrera stay standard controls, and Stone's own Herrera dissent is confirmed to preserve that same threshold notwithstanding his broader disagreement on the categorical merits question. No numerical or evidentiary test is newly created. Vacating the stay removes the only order preventing the previously scheduled execution from proceeding.
+Effective July 21, 1993: no new precedent enters current law; an equally divided Court decides only this application. The Eighth Circuit's stay of execution remains in effect, and its further examination of the record continues below, outside this Court's docket.
 
 #### Separate Positions Relevant to the Decision
 
-**Stone-Zsela, concurring in the judgment, unjoined.** Recognizing, as a categorical matter, that a properly presented and sufficiently supported capital-innocence claim may warrant relief does not relax the independent, express showing required before any stay may issue; that stay-specific showing is absent here for the same reason it was absent in Herrera. This statement does not represent a change in Stone's Herrera position and does not foreclose a stay, or eventual relief, on a materially stronger future record.
+**Stone-Zsela, separate statement, unjoined.** In Herrera, Stone would have vacated the categorical exclusion of a claim of this kind and remanded for exhaustion, abuse-of-the-writ analysis, and, where material, factual development, rather than summarily reject it. Blair's claim is, on the Court's own characterization, indistinguishable from Herrera's, and the Eighth Circuit has already undertaken the kind of examination Stone's Herrera dissent sought. Vacating the stay now would foreclose that process. Consistency with his own Herrera position, not a new view, leads him to deny the application. This does not find the affidavits sufficient on the merits and does not authorize an indefinite stay without an eventual Barefoot/Delo showing.
 
-**Souter, separate statement, unjoined.** He would deny the application to vacate, preferring to allow the Eighth Circuit's contemplated further study to proceed before the stay is disturbed; he does not join Blackmun and Stevens's dissent.
+**The statement favoring vacatur (O'Connor, Scalia, Kennedy, Thomas).** They would vacate the stay on the view that Blair's papers present nothing beyond what Herrera's own affidavits presented and what the Herrera majority already found insufficient, and that the Eighth Circuit's stated need for further study identifies no respect in which Blair's showing exceeds Herrera's. This view does not command a majority.
 
-**Blackmun, joined by Stevens, dissenting.** Consistent with their Herrera dissent's more receptive view of successive-petition innocence claims, they would deny the application and preserve the stay pending the Eighth Circuit's review. No opinion resolves the merits of Blair's affidavits.
+**Blackmun, joined by Stevens.** Consistent with their Herrera dissent's view that a claim of this kind warrants district-court consideration of the threshold factual and procedural requirements before rejection, they would deny the application.
+
+**Souter, separate statement, unjoined.** He would deny the application, preferring to allow the Eighth Circuit's contemplated further study to proceed before the stay is disturbed, consistent with his own Herrera dissent joining Blackmun's remand.
 
 #### Source Notes
 
-[Delo v. Blair, 509 U.S.823 (1993)](https://law.onecle.com/ussc/509/509us823.html), confirmed against [CourtListener](https://www.courtlistener.com/opinion/1088038/delo-v-blair/), supplies the Court's own per curiam characterization of the underlying showing. The seven underlying affidavits, the State's responses, and the July 19, 1993 district-court reasons in No.93-0674-CV-1 remain unrecovered and are not relied upon.
+[Delo v. Blair, 509 U.S.823 (1993)](https://law.onecle.com/ussc/509/509us823.html), confirmed against [CourtListener](https://www.courtlistener.com/opinion/1088038/delo-v-blair/), supplies the Court's own characterization of the underlying showing and the historical vote, used here only for the seven non-Stone-independent Justices' positions and the procedural facts. The seven underlying affidavits, the State's responses, and the July 19, 1993 district-court reasons in No.93-0674-CV-1 remain unrecovered and are not relied upon.
 
 #### Mandate, Remedy, and Stage
 
-The Eighth Circuit's stay of execution is vacated. No other claim, execution order, or custody disposition is entered by this Court. Consistent with the historical record, the previously scheduled execution proceeded July 21, 1993. No later Supreme Court filing, transfer, or proceeding in Blair's case is entered or inferred.
+The Eighth Circuit's stay of execution remains in effect. No other claim, execution order, or custody disposition is entered by this Court. The Eighth Circuit's further examination of the record continues below. No later Supreme Court filing, transfer, or proceeding in Blair's case is entered or inferred.
 
 **End of entry: Delo v. Blair, application to vacate stay of execution, July 21, 1993.**
 
