@@ -7,7 +7,7 @@
 - Chronological range of completed Court events: June 28–July 26, 1993.
 - June 28 shared entering baseline: June 25; no priority over or from Austin.
 - Institutional setting: White retires after the June 28 decisions; eight members participate July 26.
-- Stopped matter: Delo v. Blair, No.A-69, planned application disposition July 21, 1993. Exact blocker: The seven underlying innocence affidavits, the relevant State responses, and the complete July 19, 1993 district-court reasons in No.93-0674-CV-1 were not recovered. The July 20 appellate order and its concurrence summarize the submissions but cannot replace the required examination of their contents, procedural availability and need for the requested interval. The effective simulated Herrera holding has been identified; the remaining source-dependent condition for an authorized disposition is unresolved. No application disposition or interim Court order is entered.
+- Stopped matter: Delo v. Blair, No.A-69, planned application disposition July 21, 1993. Exact blocker (record-dependent hold): The effective simulated Herrera rule is identified, but the seven innocence affidavits, State responses, and complete district-court reasons remain necessary to assess procedural availability, evidentiary weight, and the need for the requested review period. The appellate summaries cannot substitute for those materials. No application disposition or interim Court order is entered; renewed Stone approval is required after the missing record is examined.
 
 # Alexander v. United States — 1993-06-28
 
