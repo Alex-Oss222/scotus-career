@@ -513,11 +513,42 @@ Demos sought leave to proceed without prepayment on a petition for certiorari to
 
 #### Public Action
 
-The Court grants leave to proceed in forma pauperis and denies the petition for certiorari in the ordinary course. No prospective restriction on future civil-certiorari filings is imposed. No opinion or dissent accompanies the order.
+The Court grants leave to proceed in forma pauperis and denies the petition for certiorari in the ordinary course. No prospective restriction on future civil-certiorari filings is imposed. A per curiam opinion explains both the fee and prospective-restriction rulings; no separate writing is published.
+
+#### Opinion Topology
+
+Per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas. No separate writing.
+
+#### Controlling Propositions and Authority
+
+##### 1. The official-interference allegation is not defeated by filing history
+
+**Controlling proposition:** Rule 39.8 permits denial of leave to file without prepayment only upon a finding that the particular petition is frivolous or malicious; a documented pattern of prior unsuccessful filings does not substitute for that finding. Demos's allegation that official interference prevented a timely appeal of the underlying prefiling order is a particular, non-conclusory claim that clears the nonfrivolousness threshold on this record.
+
+**Authority:** Per curiam opinion, joined by all nine participating Justices.
+
+**Controlling explanation:** The Court holds that Demos's documented history does not dispose of the paper now before it, for the reason stated in Martin: Zatko permits discretionary fee denial for an identified frivolous submission in an extreme pattern of abuse, but does not make earlier denials conclusive of a later, different petition's character. The Ninth Circuit treated the original prefiling order's validity as settled because it went unappealed; Demos's allegation that official interference caused that default goes directly to whether the unappealed-finality premise should control, rather than merely relitigating the personal grievance the order already addressed. The Court does not credit the allegation as true and does not find that it would excuse the default; it decides only that the allegation is not so insubstantial as to be frivolous or malicious.
+
+##### 2. No prospective filing restriction on this record
+
+**Controlling proposition:** The Court declines to impose a prospective fee-and-form condition on Demos's unidentified future civil-certiorari petitions because the established record does not show that individualized treatment of particular filings is inadequate.
+
+**Authority:** Per curiam opinion, joined by all nine participating Justices.
+
+**Controlling explanation:** For the reasons stated in Martin, the remedy remains confined to the filing actually before the Court. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record, particularly where one present filing raises a distinct, non-frivolous allegation sufficient to permit filing.
+
+#### Precedent Treatment and Current-Law Effect
+
+- Zatko v. California, 502 U.S. 16 (November 4, 1991): applied as the existing discretionary, particular-submission rule; its extreme-abuse finding does not establish the frivolousness of a different current petition.
+- Martin v. District of Columbia Court of Appeals, No. 92-5584 (November 2, 1992): applied; its filing-specific frivolousness standard controls this later fee motion, and its unanimous decline of a prospective restriction controls here.
+- In re Demos, 500 U.S. 16 (1991): distinguished; its narrower, earlier extraordinary-writ restriction addressed different filings and remains in force within its own scope.
+- In re McDonald, 489 U.S. 180 (1989); In re Sindram, 498 U.S. 177 (1991): preserved as authority for targeted protection against extraordinary-writ abuse; no extension to all future civil-certiorari petitions is made here.
+
+Before: Martin's filing-specific Rule 39.8 standard had not yet been applied to a later petition. After: it is applied, not replaced — Demos's official-interference allegation clears the low filing threshold on this record. No numerical test, categorical ban, or mandatory warning prerequisite is created. The refusal of prospective relief is confined to this record.
 
 #### Mandate, Remedy, and Stage
 
-The fee motion is granted without prepayment; the certiorari petition is denied, and the Ninth Circuit's judgment remains undisturbed. No merits finding on the interference allegation is made. No restriction on any future, unidentified filing is entered.
+The fee motion is granted without prepayment; the certiorari petition is denied, and the Ninth Circuit's judgment remains undisturbed. No merits finding on the interference allegation is made. No restriction on any future, unidentified filing is entered. In re Demos's earlier, narrower restriction remains in force within its own original scope.
 
 **End of entry: Demos v. Storrie, in forma pauperis fee motion, March 8, 1993.**
 
