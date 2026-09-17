@@ -2579,6 +2579,20 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Operative remedy or transition:** Affirm denial of the requested relief, 5–4; the vacation of the innocence-based federal stay remains. No credibility finding, innocence hearing, new writ, stay or execution date is ordered.
 
+#### Delo v. Blair
+
+**Docket or dockets:** No. A-69.
+
+**Decided:** July 21, 1993.
+
+##### Application to vacate the Eighth Circuit's stay of execution
+
+**Authority of the disposition:** The application to vacate the stay of execution is denied by an equally divided Court, 4–4. Stone-Zsela, Blackmun, Stevens and Souter would deny the application; O'Connor, Scalia, Kennedy and Thomas would grant it. White had retired, and Ginsburg was not yet seated. Five votes were required to grant relief. No opinion commands a majority, no controlling rationale or independently majority-supported proposition results, and the denial establishes no Supreme Court precedent. The separate statements remain noncontrolling.
+
+**Operative remedy:** The Eighth Circuit's stay remains in effect; its announced further study of the record may proceed. No execution proceeds on July 21, 1993. This Court enters no other claim disposition, execution order or custody disposition.
+
+**Limits and questions not reached:** The denial decides only this application. It makes no finding that the affidavits are credible, incredible, sufficient or insufficient, and does not decide whether Blair's showing would satisfy the stay standard on a developed record. It neither changes Herrera v. Collins's January 25, 1993 record-specific insufficiency holding nor relaxes or extends the Barefoot v. Estelle and Delo v. Stokes substantial-grounds standard. No general innocence rule, entitlement to an indefinite stay or new Supreme Court proceeding is established.
+
 ### FTCA territorial scope
 
 #### Smith v. United States (Antarctica), 507 U.S. 197 (1993)
