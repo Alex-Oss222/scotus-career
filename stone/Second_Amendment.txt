@@ -1,0 +1,949 @@
+Second Amendment simulation handoff, OT1994 through OT2015
+
+The formal Holdings and Standards files are synchronized through the June 27, 2002 decision group. Everything through Emerson can therefore be evaluated against an existing record. Heller I, Heller II, Ezell, and Heller III remain proposed future developments, not existing simulation law.
+
+There is one formal record issue that should be preserved rather than silently repaired. The controlling handoff instruction says that, by the end of OT1999, the Second Amendment is an individual and incorporated right. The Holdings Register, however, describes Stone’s individual-right and incorporation reasoning in Love as a noncontrolling four-Justice concurrence, and Hale repeats that position without a majority. Fraternal Order of Police presupposes an individual right and establishes a controlling disqualification rule, but it is a federal case and does not itself incorporate the right against the States. The simulation should follow the handoff instruction operationally, but it should not falsely claim that Love created a majority incorporation holding. The clean housekeeping solution is to record individual-right status and incorporation as a simulation premise until a source-authorized formal entry is added. Taking McDonald merely to repair this clerical gap would conflict with the intended path.
+
+The full term map
+October Term	Case or development	Status	Doctrinal job
+OT1994	United States v. Lopez	Controlling structural foundation	Prevent federal gun regulation from resting on generalized social and economic consequences
+OT1995	Love v. Pepersack	Controlling only on due process and qualified immunity; Stone concurrence noncontrolling	Plant individual-right, incorporation, common-handgun, and acquisition principles
+OT1995	United States v. Hale	Controlling narrow machinegun holding	Place post-1986 fully automatic machineguns outside the ordinary-arms core and create the fitted-market rule
+OT1996	Printz v. United States	Structural foundation, not a Second Amendment merits case	Separate direct regulation of individuals from commandeering state officers
+OT1997	United States v. Rybar	Controlling and unanimous at its narrow scope	Stabilize Hale and confirm that machinegun possession may be included in the closed interstate market
+OT1998	No Second Amendment merits case	Deliberate silence	Do not convert the machinegun cases into a general firearms code
+OT1999	Fraternal Order of Police v. United States	Controlling	Create the first person-based disqualification branch for an adjudicated violent domestic-abuse conviction
+OT1999	Gillespie v. City of Indianapolis	Controlling on Commerce Clause and anti-commandeering only	Confirm that federalism, employment consequences, and Second Amendment merits are separate
+OT2000	No Second Amendment case	Deliberate silence	Preserve the unresolved ordinary-handgun and home-defense questions
+OT2001	United States v. Emerson	Optional proposed case	Create a distinct, temporary protective-order branch with process and duration limits
+OT2002 through OT2006	No Second Amendment cases	Deliberate silence	Wait for a genuine vehicle presenting the home-defense core
+OT2007	District of Columbia v. Heller, “Heller I”	Essential proposed case	Establish ordinary handgun possession and operability in the home for immediate lawful self-defense
+OT2008	No case	Deliberate silence	Allow the core holding to settle without prematurely deciding peripheral regulations
+OT2009	McDonald v. City of Chicago	Intentionally skip	Incorporation is already an operational premise in the simulation
+OT2010	No case	Deliberate silence	Do not manufacture a post-Heller case
+OT2011	Heller v. District of Columbia, “Heller II”	Essential proposed case	Distinguish objective regulation from destruction of the right
+OT2011	Ezell v. City of Chicago	Optional proposed case	Protect practical access to required training and range use
+OT2012 through OT2014	No cases	Deliberate silence	Leave carry, sensitive places, commercial rules, and other categories unresolved
+OT2015	Heller v. District of Columbia, “Heller III”	Default is to skip	Use only if a detailed registration and licensing code is affirmatively desired
+
+The destination is not a maximally comprehensive gun-rights code. It is a stable individual-right doctrine with a firm home-defense core and carefully bounded regulatory branches. The planning instruction expressly rejects adding cases merely because an October Term lacks a gun decision.
+
+I. Structural foundations
+OT1994: United States v. Lopez, 514 U.S. 549
+Vehicle and issue
+
+The real case concerned federal prosecution of a high-school student for possessing a handgun in a school zone. The statute regulated neither commerce nor an economic transaction, and it contained no case-specific interstate-commerce element. The Court rejected the attempt to sustain it through a chain running from school gun possession to violent crime, educational impairment, productivity, consumption, and the national economy.
+
+Simulation rule
+
+The simulation uses Lopez for a broader but disciplined commerce framework. Congress may regulate interstate transactions, channels, instrumentalities, economic classes substantially affecting an actual interstate market, intrastate conduct necessary to prevent evasion or impairment of a valid interstate regime, and materially established interstate externalities. It may not rely on generalized social consequences, insurance costs, fear, lost productivity, or national importance alone. A jurisdictional phrase must perform genuine constitutional work in the individual case.
+
+Stone’s goal
+
+Stone’s purpose is to prevent the Second Amendment inquiry from swallowing the enumerated-powers inquiry. A federal firearm restriction can be consistent with the Second Amendment and still exceed Congress’s power. Conversely, a State may possess ordinary police power to enact a regulation but still violate the incorporated right.
+
+This separation becomes essential later:
+
+Hale and Rybar uphold machinegun possession restrictions because possession is functionally tied to a closed national transfer market.
+Fraternal Order of Police requires a genuine offense-specific commerce connection.
+Gillespie distinguishes direct federal regulation of individuals from federal commands to state government.
+Emerson, if selected, must satisfy the same commerce rule independently of its Second Amendment validity.
+What Lopez does not decide
+
+It creates no Second Amendment rule. It does not classify any firearm as protected or unprotected. It does not decide whether state school-zone restrictions are valid. It only prevents Congress from converting every local firearm event into federal law through downstream economic consequences.
+
+OT1996 structural support: Printz v. United States
+
+Printz invalidated the federal command requiring state and local chief law-enforcement officers to conduct federal background-check work. Its significance here is anti-commandeering, not the substantive right to possess a firearm.
+
+Stone’s later distinction is exact:
+
+Congress may directly regulate an individual who possesses a firearm, provided Congress has an enumerated-power basis.
+Congress may not require a State or its officers to administer a federal program merely because the subject involves firearms.
+The practical effect of federal law on state employment qualifications does not itself amount to commandeering.
+The federal government cannot evade Printz by describing compelled state administration as ordinary regulation.
+II. The initial individual-right position and the machinegun branch
+OT1995: Love v. Pepersack, 47 F.3d 120
+
+Simulation decision date: May 29, 1996.
+
+Vehicle and procedural history
+
+April Love truthfully applied to purchase a handgun in Maryland in September 1990. State police denied the application based on an arrest record whose dispositions were unclear, even though arrest alone was not a statutory disqualification. Love unsuccessfully pursued administrative review, then won in state court and obtained an order requiring approval of her application. She later sued the responsible officers under § 1983.
+
+The simulation resolves two distinct matters.
+
+Controlling disposition
+
+First, the mistaken application of state licensing law does not become a federal substantive-due-process violation merely because it was unauthorized or arbitrary under state law. The established state-review system completely corrected the error. Love pleaded no procedural-due-process claim. All nine Justices support this result.
+
+Second, the officers receive qualified immunity. In September 1990, no sufficiently specific body of law clearly established that the Second and Fourteenth Amendments protected acquisition of a handgun against denial based solely on an unresolved arrest record. All nine Justices agree on immunity.
+
+Stone’s noncontrolling concurrence
+
+Stone, joined by Scalia, Kennedy, and Thomas, reaches the underlying arms question. The Holdings Register describes the concurrence as recognizing an incorporated individual right involving acquisition of a common handgun. It does not command a majority.
+
+The full reasoning Stone is building should be understood as follows.
+
+The right belongs to an individual claimant. The constitutional protection is not merely a derivative entitlement belonging to state governments or organized militia units. An individual does not need current militia enrollment to invoke it.
+
+Acquisition is connected to keeping. A nominal right to possess an arm would be hollow if government could categorically prevent every lawful means of acquiring one. That does not make every commercial condition unconstitutional. It means that an acquisition restriction can implicate the right when it operates as a prohibition.
+
+The arm matters. Love sought an ordinary handgun, not a fully automatic machinegun or an unusually destructive device. Stone is beginning to distinguish ordinary personal arms from materially different weapon categories.
+
+The licensing ground matters. An unresolved arrest record is not an adjudicated violent predicate. Government cannot transform an accusation into the equivalent of a conviction merely by calling the applicant risky.
+
+The remedy remains separate. Even where Stone believes the constitutional right exists, the officers cannot be held personally liable under law that was not clearly established in 1990. Right, violation, remedy, and immunity are separate inquiries.
+
+Stone’s doctrinal goal
+
+The case plants the foundation without prematurely creating a complete doctrine. Stone wants to establish four ideas for future use:
+
+The right is individual.
+States are operationally bound by it.
+Ordinary handgun acquisition is within the constitutional field.
+Recognition of the right does not erase qualified immunity or ordinary licensing administration.
+What remains deliberately unresolved
+
+Love does not establish a controlling majority for the individual-right proposition. It does not establish a home-defense core, operability requirement, public-carry right, universal licensing standard, scrutiny tier, restoration rule, or damages entitlement. It also does not hold that police must approve an applicant whose record contains an actual legal disqualification.
+
+OT1995: United States v. Hale, 978 F.2d 1016
+
+Simulation decision date: June 5, 1996.
+
+Vehicle and record
+
+Wilbur Hale was convicted on thirteen counts of possessing machineguns under § 922(o) and three counts involving unregistered firearms. Federal agents recovered fully automatic weapons, conversion equipment, receivers, and a silenced pistol. His challenges included the Commerce Clause and the Second Amendment.
+
+Controlling Second Amendment disposition
+
+Section 922(o) does not violate the Second Amendment as applied to Hale’s post-1986 possession of fully automatic machineguns. All nine Justices agree on that as-applied result. Stone, Scalia, Kennedy, and Thomas again state an individual-right rationale, but the rationale still lacks a majority.
+
+Controlling Commerce Clause disposition
+
+Congress may close the post-1986 civilian machinegun transfer market and include possession when possession and transfer are functionally inseparable. Excluding possession would permit concealment, retention, acquisition, and other means of defeating the market prohibition. The anti-evasion relationship must perform real work. Generalized effects of gun violence, insurance costs, fear, or lost productivity are insufficient.
+
+Stone’s proposed reasoning
+
+Begin with the arm, not a universal scrutiny tier. Even under an individual-right understanding, the right does not necessarily cover every weapon falling within the broadest linguistic definition of “arms.”
+
+Fully automatic operation is constitutionally material. The weapons fire repeatedly through a single trigger activation and possess sustained-fire characteristics materially different from an ordinary handgun or ordinary semiautomatic personal firearm.
+
+Resolve only the category presented. Stone should say that post-1986 civilian machineguns may remain outside the ordinary-arms category. He should not announce a universal test for every firearm, accessory, or firing mechanism.
+
+Keep Commerce Clause reasoning independent. The federal law survives not because machineguns are frightening or nationally important, but because possession is a necessary anti-evasion component of a direct national transfer-market prohibition.
+
+Preserve Love. Stone repeats the view that common arms for home self-defense fall within an individual right, but that proposition remains noncontrolling.
+
+Stone’s doctrinal goal
+
+The sequence is deliberate. Before the Court defines the protected core, Stone defines one narrow category outside it. This prevents later recognition of an individual right from being misconstrued as a right to possess every weapon.
+
+What remains unresolved
+
+The Court does not decide:
+
+ordinary handguns;
+semiautomatic rifles;
+ordinary shotguns;
+possession in the home;
+operability;
+public carry;
+licensing;
+training;
+ranges;
+every automatic-weapon restriction;
+whether all weapons described legislatively as “military-style” fall outside the right.
+
+The machinegun category must not later be extended to semiautomatic firearms merely through rhetoric.
+
+OT1997: United States v. Rybar, 103 F.3d 273
+
+Simulation decision date: November 24, 1997.
+
+Vehicle and record
+
+Raymond Rybar, a federally licensed firearms dealer, entered conditional guilty pleas to two § 922(o) machinegun-possession counts and challenged the law under both the Commerce Clause and the Second Amendment. The real lower-court case arose from machinegun transactions associated with a gun show.
+
+Controlling disposition
+
+The Court unanimously holds that § 922(o) does not violate the Second Amendment as applied to Rybar’s possession of the fully automatic machineguns. His two possession convictions remain in force. The dismissed National Firearms Act transfer counts and the constitutional status of ordinary firearms remain outside the judgment.
+
+On federal power, the Court follows Hale. Possession may be included because it is reasonably necessary to prevent evasion or material impairment of the closed post-1986 civilian machinegun market.
+
+Stone’s reasoning and goal
+
+Rybar is not supposed to enlarge Hale. Its job is to stabilize it.
+
+The Court now has a unanimous narrow rule. Fully automatic machineguns involved in post-1986 civilian market transactions may be prohibited.
+
+The transactional setting strengthens anti-evasion. Unlike a theory based on remote downstream consequences, gun-show possession and transfer conduct directly implicate the market Congress closed.
+
+Unanimity is purchased through narrowness. The Court need not agree on every historical or theoretical proposition about the Second Amendment. It agrees that this arm, in this regulatory setting, may be prohibited.
+
+Ordinary arms remain open. Stone should affirmatively preserve ordinary handguns, ordinary semiautomatic firearms, home possession, operability, carry, and licensing.
+
+Doctrinal endpoint after Rybar
+
+By the end of OT1997, the simulation has a stable machinegun rule but still lacks a controlling ordinary-arms core. The right is not being built from an all-weapons presumption. It is being developed category by category.
+
+III. The first person-based disqualification branch
+OT1999: Fraternal Order of Police v. United States, 173 F.3d 898
+
+Simulation decision date: March 13, 2000.
+
+Vehicle and questions
+
+The Fraternal Order of Police challenged § 922(g)(9), which prohibits firearm possession by a person convicted of a qualifying misdemeanor crime of domestic violence. The litigation addressed the absence of an official-use exemption, equal protection, the Second Amendment, congressional commerce authority, and the effect on state and local law-enforcement officers.
+
+Controlling Second Amendment rule
+
+A constitutionally adequate conviction for domestic violence involving actual or attempted physical force, or threatened use of a deadly weapon, supplies an adjudicated danger predicate sufficient to prohibit firearm possession while the conviction remains legally operative. The disability includes government-issued duty firearms. The Constitution does not require:
+
+a second present-danger hearing;
+a five-year or ten-year constitutional expiration date;
+automatic periodic reconsideration;
+a general constitutional right to restoration.
+
+All nine Justices support that rule.
+
+Why the conviction is sufficient
+
+Stone’s reasoning should be precise.
+
+The predicate is adjudicated. The disability does not rest on an arrest, allegation, untested report, bureaucratic suspicion, or general risk score. A court of competent jurisdiction has entered a legally operative conviction through constitutionally adequate procedures.
+
+The predicate is violent. The rule is tied to actual or attempted physical force or threatened use of a deadly weapon. It is not a generic misdemeanor rule.
+
+The relationship is specific. Domestic abuse presents a defined context in which access to a firearm may materially intensify an already adjudicated pattern of violence or threat.
+
+The legal effect supplies the duration boundary. The disability continues while the conviction remains legally operative. If an applicable pardon, expungement, set-aside, restoration law, or successful attack removes the predicate’s legal force, this particular constitutional justification may disappear.
+
+Government employment does not erase the predicate. The risk identified by the conviction follows the individual. Issuance of the firearm by a police department does not transform the person into a constitutionally different claimant.
+
+Equal protection
+
+Congress does not violate equal protection by withholding the official-use exemption from domestic-violence misdemeanants while making that exemption available to some people covered by other firearm disabilities. The classification is rationally related to closing a demonstrated enforcement gap.
+
+Stone should not reason that domestic-violence misdemeanants are less worthy than felons. The cleaner rationale is institutional: domestic violence had often been prosecuted through misdemeanor provisions that did not trigger older firearm disabilities, and Congress could close that specific gap.
+
+Anti-commandeering
+
+Section 922(g)(9) directly regulates firearm possession by individuals. It does not require a State to enact a law, administer a federal program, conduct federal checks, or enforce the federal prohibition against others. Its effect on a state or local police department’s staffing choices is incidental to direct regulation of the employee.
+
+Commerce Clause
+
+The law is valid only when the Government genuinely establishes the offense-specific connection to commerce on which federal power depends. A nominal statutory phrase or remote historical movement that performs no present constitutional work is insufficient. Eight Justices support this proposition; Thomas does not join it.
+
+This is an important simulation departure from the broadest real-world “minimal nexus” approach. Stone does not permit an object’s decades-old trip across a state line to become a permanent federal jurisdictional passport.
+
+Stone’s doctrinal goal
+
+This case demonstrates that an individual constitutional right can coexist with a carefully defined disqualification. Stone is rejecting both extremes:
+
+The right is not so absolute that an adjudicated violent domestic-abuse conviction becomes constitutionally irrelevant.
+Government may not disarm anyone it labels dangerous without a defined category and constitutionally adequate predicate.
+
+The case therefore creates the first person-based branch, not a general dangerousness exception.
+
+Express limits
+
+The current Standards entry correctly states that the rule does not establish a disability based on:
+
+a nonviolent offense;
+a mere arrest;
+an accusation;
+a civil restraining order;
+unrelated status;
+a conviction that has ceased to be legally operative.
+
+It also preserves applicable pardon, expungement, restoration, set-aside, and collateral-attack routes.
+
+OT1999: Gillespie v. City of Indianapolis, 185 F.3d 693
+
+Simulation decision date: May 9, 2000.
+
+Vehicle
+
+Jerald Gillespie had served as an Indianapolis police officer for more than twenty-five years. After a misdemeanor battery conviction involving his former wife, § 922(g)(9) prevented him from carrying a firearm. Because the police department required officers to be armed, he faced loss of his position. He challenged the federal law under the Commerce Clause, Tenth Amendment, equal protection, and Second Amendment.
+
+Simulation disposition
+
+The Court holds that direct federal regulation of Gillespie’s possession is not commandeering merely because he is a municipal police officer. It also reiterates that federal authority requires a genuine offense-specific commerce connection. Gillespie receives no reinstatement or other relief on those theories. The Court expressly does not resolve an independent Second Amendment claim in this case.
+
+Why Stone should not decide the Second Amendment issue again
+
+Fraternal Order of Police already established the controlling violent-conviction branch. A second broad merits opinion would add little and risk confusing employment consequences with the constitutional rule.
+
+Stone’s goals are narrower:
+
+Confirm that direct regulation of an individual is not the same as commandeering a State.
+Confirm that a state employer’s decision to require armed service remains the State’s decision.
+Preserve the requirement of a real commerce nexus.
+Avoid creating a constitutional entitlement to a police position or official-use exception.
+Demonstrate that the Court does not repeat a constitutional holding merely because another litigant presents the same substantive concern.
+What Gillespie does not do
+
+It does not expand Fraternal Order of Police to nonviolent convictions. It does not decide restoration. It does not hold that employment consequences are irrelevant in every constitutional case. It does not permit Congress to determine all state-officer qualifications. It simply recognizes that a generally applicable federal possession rule does not become commandeering because state employment makes firearm possession occupationally necessary.
+
+IV. The optional temporary protective-order branch
+OT2001: United States v. Emerson, 270 F.3d 203
+
+Status: Proposed and optional.
+
+Historical certiorari disposition: cert. denied, 536 U.S. 907 (2002).
+
+Vehicle and procedural posture
+
+Emerson was indicted under § 922(g)(8) for possessing a firearm while subject to a domestic-violence restraining order. The state court had conducted an evidentiary hearing at which Emerson’s wife testified about threats. The order prohibited threats and bodily injury. The district court dismissed the indictment on Second and Fifth Amendment grounds; the Fifth Circuit reversed and remanded. The case therefore reached the certiorari stage before a final conviction.
+
+The statute applied only when the order:
+
+followed a hearing with actual notice and an opportunity to participate;
+restrained harassment, stalking, threats, or comparable conduct involving an intimate partner or child;
+contained either a credible-threat finding or an explicit prohibition on force expected to cause bodily injury.
+The genuine gap
+
+Fraternal Order of Police rests on a criminal conviction. A civil protective order is materially different:
+
+the proceeding may use different burdens of proof;
+the order may be temporary;
+the restrained person may not have been convicted of anything;
+some orders follow contested hearings, while others are entered ex parte;
+some contain actual danger findings, while others are routine or consent-based;
+duration varies.
+
+The conviction rule therefore cannot simply be copied.
+
+Recommended Stone disposition
+
+Stone should uphold a temporary disability as applied when all of the following are established:
+
+Actual notice. The person received actual notice of the proceeding and the requested restraint.
+
+Meaningful opportunity to participate. The person had a genuine opportunity to appear, present evidence, use counsel when governing law permits, and contest the relevant allegations.
+
+A danger-linked operative order. The order either contains an individualized judicial finding of a credible threat or expressly prohibits actual, attempted, or threatened physical force expected to cause bodily injury.
+
+Current legal force. The order remains valid and operative.
+
+Coextensive duration. The federal firearm disability ends when the qualifying order ends unless a different, independently sufficient predicate later arises.
+
+Stone’s reasoning
+
+This is a temporary restraint branch, not a diluted version of the conviction branch.
+
+The constitutional justification is the combination of process, a judicially established danger-linked predicate, and limited duration. No single element should be enough by itself.
+
+Notice without a danger-linked order is insufficient.
+A protective label without meaningful process is insufficient.
+A danger finding from an expired order is insufficient.
+A generic divorce injunction should not become a firearm disability merely because it directs both parties to behave lawfully.
+Later misconduct cannot retroactively cure a constitutionally inadequate order. The disability must be justified when it attaches.
+Due process
+
+Stone should hold that the hearing requirement and opportunity to participate normally provide the process necessary for the temporary disability. He should expressly reserve:
+
+an ex parte order lacking prompt and meaningful review;
+an order entered without actual notice;
+an order issued through a nominal hearing at which participation was not genuinely available;
+an order extended indefinitely without review;
+an order whose qualifying findings are absent, stale, or legally vacated.
+Commerce Clause complication
+
+This is the most important risk omitted from a simple Emerson recommendation.
+
+The real case treated prior interstate movement of the firearm as sufficient. The simulation’s Fraternal Order of Police rule rejects a remote historical movement that performs no present constitutional work. Stone therefore cannot casually affirm federal power merely because the pistol crossed a state line at some past date.
+
+The clean disposition would be:
+
+reject the facial and as-applied Second Amendment objection to the qualifying temporary disability;
+reject the due-process challenge on the established hearing record;
+permit the indictment to proceed;
+require the Government at trial to establish the genuine offense-specific commerce connection demanded by simulation law.
+
+Because the case arrived before final conviction, this disposition is procedurally workable. It does not need to adjudge Emerson guilty.
+
+Remedy
+
+Reverse the dismissal of the indictment and remand. The prosecution may proceed, but the Government must prove all statutory elements, knowledge required by governing law, and a genuine commerce connection. No final criminal liability is imposed by the Supreme Court’s decision.
+
+Stone’s goal
+
+The case would add one carefully bounded category:
+
+A temporary firearm disability may rest on a currently operative, danger-linked protective order entered after actual notice and meaningful opportunity to participate.
+
+It would not create a general authority to disarm anyone government considers dangerous.
+
+Questions preserved
+ex parte orders;
+emergency orders before a hearing;
+delayed post-order review;
+orders lacking a threat finding or force prohibition;
+routine mutual restraining orders;
+permanent disability after expiration;
+non-domestic civil orders;
+general dangerousness statutes;
+red-flag procedures with materially different safeguards;
+the treatment of firearms acquired before entry of the order;
+property-transfer mechanics during the temporary period.
+V. The essential home-defense core
+OT2002 through OT2006: no Second Amendment case
+
+This silence is intentional. After Emerson, if selected, the simulation would have:
+
+a machinegun branch;
+an adjudicated violent-conviction branch;
+a temporary protective-order branch;
+a federalism and commerce framework.
+
+It would still lack the central affirmative right. That gap should remain open until a case directly presents an ordinary handgun, the home, operability, and immediate lawful self-defense.
+
+The simulation should not use a random felon-possession case, drug-user case, hunting regulation, or public-carry case to define the home core indirectly.
+
+OT2007: District of Columbia v. Heller, 554 U.S. 570
+
+Status: Absolutely essential.
+
+Vehicle
+
+The District prohibited registration of handguns and required lawful firearms in the home to remain unloaded and disassembled or bound by a trigger-lock mechanism. Heller sought to keep an operable handgun in his home. The real Supreme Court held that the Second Amendment protects an individual right to possess a firearm for traditionally lawful purposes, particularly self-defense in the home, and invalidated both the handgun prohibition and the disabling requirement.
+
+What the simulation should not spend time deciding
+
+Stone should not re-litigate whether the right is individual. The simulation’s operational premise already answers that. A long historical contest over militia-only versus individual-right theories would waste the vehicle and destabilize earlier simulation development.
+
+Stone should focus on the propositions still missing:
+
+Is an ordinary handgun within the protected class of arms?
+Is the home a central application?
+Is immediate lawful self-defense a protected purpose?
+May government require every lawful home firearm to remain inoperable?
+Can objective licensing and registration continue?
+Recommended holding
+
+A law-abiding natural person has a constitutional right to possess an ordinary handgun in the home for immediate lawful self-defense.
+
+Government may not categorically prohibit possession of that arm in the home.
+
+Government may not require every lawful home firearm to remain continuously unloaded, disassembled, locked, or otherwise unavailable for immediate lawful defensive use.
+
+Objective licensing and registration may remain available when they are genuine administrative measures and do not operate as discretionary or practical prohibitions.
+
+Stone’s reasoning sequence
+1. Identify the claimant
+
+Heller is not subject to a violent conviction, active protective order, or another established disqualification. None of the existing person-based branches applies.
+
+Stone should not use the vague label “law-abiding” as an unlimited delegation to legislatures. It describes the absence of an independently established disqualifying predicate in this case.
+
+2. Identify the arm
+
+A handgun is an ordinary personal firearm commonly selected for lawful home protection. It is materially different in operation and ordinary use from the fully automatic machineguns adjudicated in Hale and Rybar.
+
+Stone should not define protection solely through current ownership numbers. Government could otherwise suppress an arm and then rely on the suppression to prove uncommonness. Common lawful possession is important evidence, but operational characteristics and ordinary lawful utility also matter.
+
+3. Identify the purpose
+
+Immediate lawful self-defense is a central purpose. This does not create an unrestricted right to use force. The law of necessity, imminence, proportionality, defense of others, and unlawful aggression remains intact.
+
+The Second Amendment protects possession and readiness of the arm. It does not rewrite substantive self-defense law.
+
+4. Identify the place
+
+The home is the strongest application because it is where lawful defense of the person, family, and dwelling is most acute and where public-order concerns associated with carriage are at their lowest.
+
+Stone need not decide whether the same protection extends identically to streets, vehicles, parks, businesses, schools, courthouses, or other locations.
+
+5. Measure the burden
+
+The District’s law does not merely regulate manner, storage, registration, or training. It removes the ordinary handgun entirely and renders remaining lawful firearms unavailable for the immediate purpose that gives the home application practical value.
+
+The right cannot be reduced to theoretical ownership of an unusable object. The protected application includes an ordinary firearm capable of immediate lawful defensive use. This is the central proposition identified in the roadmap.
+
+6. Avoid a universal scrutiny tier
+
+The Court need not choose strict scrutiny, intermediate scrutiny, or a free-floating interest-balancing test for every future case.
+
+A total prohibition on the central application fails because it destroys the protected right. Later regulations should be classified according to claimant, arm, purpose, place, predicate, and practical burden.
+
+Licensing component
+
+Stone should permit the District to retain an objective licensing system, provided that:
+
+the criteria are clear and lawful;
+officials lack open-ended discretion to deny qualified applicants;
+applications are processed within a reasonable time;
+fees do not price ordinary people out of the right;
+the license is not conditioned on surrender of the protected core;
+Heller receives the license if he satisfies valid objective conditions.
+
+The Court should not decide every registration requirement in Heller I. That belongs in Heller II or, if truly necessary, Heller III.
+
+Remedy
+
+The judgment should:
+
+invalidate the categorical handgun prohibition as applied to ordinary home possession;
+invalidate the continuous inoperability requirement insofar as it prevents immediate lawful self-defense;
+direct the District to permit Heller to register the handgun and issue the necessary license if he is otherwise qualified under valid objective standards;
+leave severable and unchallenged provisions intact.
+Existing rules preserved
+
+Stone should expressly preserve, without enlarging:
+
+Hale and Rybar for fully automatic machineguns;
+Fraternal Order of Police for legally operative violent domestic-abuse convictions;
+Emerson, if adopted, for qualifying temporary protective orders;
+genuine licensing and safety administration;
+regulations concerning conduct not before the Court;
+ordinary laws governing unlawful firearm use.
+Questions left open
+public carry;
+open versus concealed carry;
+sensitive places;
+semiautomatic rifles;
+magazines;
+commercial sale conditions;
+training requirements;
+range access;
+detailed registration mechanics;
+storage rules that preserve meaningful immediate access;
+minors;
+nonviolent criminal predicates;
+mental-health predicates;
+corporate claimants;
+the full treatment of ammunition.
+Stone’s goal
+
+Heller I supplies the hard center of the doctrine. Everything before it defines exclusions or disqualification branches. Everything after it asks whether regulation leaves this core meaningfully intact.
+
+VI. Incorporation without a redundant case
+OT2009: McDonald v. City of Chicago, 561 U.S. 742
+
+Recommended simulation treatment: Do not take the case.
+
+The real case’s principal function was to hold that the Second Amendment right recognized in Heller applies against state and local governments through the Fourteenth Amendment.
+
+The simulation already operates on the premise that States are bound. Love introduced Stone’s incorporation position, and the controlling handoff expressly directs that the incorporated right be treated as part of the simulation’s architecture. Taking McDonald would either duplicate an answered issue or invite an unnecessary dispute over the Due Process Clause and Privileges or Immunities Clause.
+
+The register problem and the correct solution
+
+The formal Holdings Register does not identify a majority case that clearly accomplished incorporation. That is a documentation gap, not a reason to manufacture litigation.
+
+The correct action is:
+
+preserve the handoff premise;
+add a transparent standards note identifying incorporation as an operational simulation premise;
+do not misdescribe the Love concurrence as a controlling holding;
+do not take McDonald merely to clean up recordkeeping.
+VII. The first post-core regulatory case
+OT2011: Heller v. District of Columbia, 670 F.3d 1244, “Heller II”
+
+Status: Essential.
+
+Vehicle
+
+After Heller I, the District enacted a new scheme requiring registration, prohibiting firearms classified as “assault weapons,” and prohibiting magazines holding more than ten rounds. The actual litigation also involved numerous registration conditions, including fingerprinting, photographs, background checks, training, and purchase-frequency restrictions.
+
+Doctrinal purpose
+
+This case should answer the first necessary post-Heller question:
+
+When does a firearm regulation administer the right, and when does it destroy a protected application?
+
+The roadmap directs Stone not to copy a universal scrutiny tier. It also directs him not to equate semiautomatic firearms with machineguns merely because lawmakers use the phrase “assault weapon,” and not to invent a constitutional ten-round limit.
+
+Stone’s analytical sequence
+1. Separate every challenged provision
+
+The Court should not speak of the “firearms scheme” as a single undifferentiated law. Registration, arm prohibition, magazine prohibition, fingerprints, fees, training, inspection, and purchase-frequency limits impose different burdens and serve different claimed functions.
+
+Each must receive its own classification, factual record, and remedy.
+
+2. Determine whether the arm is protected
+
+The label “assault weapon” is not constitutional analysis.
+
+Stone should examine:
+
+whether the firearm fires one round per trigger activation or fires continuously;
+whether the prohibited models are commonly possessed for lawful purposes;
+whether their ordinary operating characteristics differ materially from protected handguns and other semiautomatic firearms;
+whether the challenged features are functional, cosmetic, safety-related, or associated with a materially different destructive capacity;
+whether the law prohibits an actual category of ordinary arms or only an unusual and distinct weapon.
+
+The Hale and Rybar machinegun rule cannot be extended simply by describing a semiautomatic rifle as “military-style.”
+
+3. Evaluate the practical operation
+
+For registration and licensing, Stone should ask:
+
+Are the criteria objective?
+Is approval available to a qualified applicant?
+Is the process timely?
+Are the fees limited to reasonable administration?
+Is the process duplicative or recurrent without demonstrated need?
+Does it create a practical barrier comparable to prohibition?
+Does noncompliance carry criminal consequences disproportionate to an administrative lapse?
+Is there review of a denial?
+4. Require actual support
+
+A legislature’s prediction receives respectful consideration, but labels and conclusions are not evidence. Government must connect the particular provision to its stated administrative or safety function.
+
+This is especially important for:
+
+categorically banned semiautomatic firearms;
+magazine limits;
+repeated registration;
+physical inspection requirements;
+training mandates;
+purchase-frequency restrictions.
+5. Preserve the core
+
+A regulation cannot survive merely because some other firearm remains available. That reasoning would allow government to eliminate one ordinary protected arm at a time.
+
+At the same time, not every inconvenience, recordkeeping requirement, or cost destroys the right. Stone should focus on whether the protected application remains meaningfully and practically available.
+
+Recommended component dispositions
+Basic objective registration
+
+Basic registration can survive when it records lawful possession, uses objective criteria, operates promptly, and does not become a permission system allowing arbitrary denial.
+
+Stone should make clear that registration is not valid simply because it bears an administrative label. A theoretically objective system can become unconstitutional through delay, cost, repeated demands, or discretionary administration.
+
+Semiautomatic-rifle prohibition
+
+The Court should reject the proposition that semiautomatic rifles are categorically equivalent to fully automatic machineguns.
+
+The recommended disposition depends on the record:
+
+If the record establishes that the covered firearms are ordinary semiautomatic arms commonly possessed for lawful purposes, a categorical prohibition should be invalid.
+If the record is inadequate or internally disputed, the Court should vacate and remand for arm-specific findings.
+The Court should not uphold the ban based solely on the legislature’s “assault weapon” label.
+
+Stone’s preferred outcome should be a developed classification rule, not a result driven by terminology.
+
+Magazine prohibition
+
+The Constitution contains no ten-round number.
+
+Stone should require evidence concerning:
+
+ordinary magazine capacities supplied with protected firearms;
+prevalence in lawful possession;
+relationship to ordinary defensive use;
+whether the limit materially impairs the firearm’s ordinary operation;
+the practical availability and consequences of compliant alternatives;
+the stated safety mechanism;
+why ten rounds, rather than another number, is constitutionally and factually fitted.
+
+If the record does not answer those questions, remand is more honest than inventing a constitutional number.
+
+Novel registration conditions
+
+The best Stone disposition is mixed. Uphold genuinely basic objective registration, but remand novel and materially burdensome conditions for provision-specific justification. Do not treat the survival of one administrative requirement as validating all others.
+
+Recommended judgment
+
+A realistic Stone judgment would:
+
+affirm basic objective handgun registration;
+reject automatic reliance on the machinegun cases;
+vacate or reverse the semiautomatic prohibition if common ordinary status is established, otherwise remand it;
+remand the magazine limit unless the actual record supports classification and fit;
+remand novel registration conditions for separate analysis;
+preserve severable valid provisions.
+Stone’s doctrinal goal
+
+Heller II should establish the line between regulation and destruction without creating a general license for judicial policy balancing.
+
+The resulting principle should be:
+
+Government may administer the exercise of the right through objective, supported, and nonprohibitory measures. It may not use labels, cumulative burdens, or categorical prohibitions to eliminate an ordinary protected arm or the meaningful exercise of the home-defense core.
+
+VIII. The optional training and range branch
+OT2011: Ezell v. City of Chicago, 651 F.3d 684
+
+Status: Optional.
+
+Vehicle
+
+Chicago required applicants for a firearm permit to complete live-fire range training while simultaneously prohibiting every firing range within city limits. The plaintiffs sought a preliminary injunction. The Seventh Circuit held that they had a strong likelihood of success and were entitled to preliminary relief.
+
+Genuine doctrinal gap
+
+Heller I establishes possession and operability, but not necessarily a freestanding right to recreational shooting, commercial range operation, or every form of training.
+
+Ezell presents a narrower contradiction: government itself makes live-fire training a legal condition of firearm possession and then prohibits every practical local means of satisfying that condition.
+
+Recommended Stone rule
+
+Government may regulate:
+
+range location;
+building construction;
+ventilation;
+lead containment;
+noise;
+hours;
+instructor qualifications;
+storage;
+security;
+age-appropriate supervision;
+ordinary business operation.
+
+Government may not require firearm training as a condition of exercising the right while prohibiting every practical means of completing that training.
+
+The right to effective home possession also protects the practical opportunity to acquire and maintain the basic proficiency reasonably necessary for safe lawful use. That derivative protection is limited to what makes the recognized core effective.
+
+Stone’s reasoning
+
+Avoid a broad recreational-right theory. The constitutional defect is not that every resident is entitled to a shooting club nearby. It is the government-created contradiction between mandatory training and universal prohibition.
+
+Focus on practical access. The city cannot point to the theoretical legality of training while making the required activity impossible within the jurisdiction that imposes the condition.
+
+Preserve safety regulation. An injunction against a total ban does not prevent zoning, construction, ventilation, noise, and operating rules supported by actual evidence.
+
+Reject externalization as a complete answer. A city cannot impose a prerequisite and categorically shift every means of compliance outside its boundaries, particularly where the city is regulating the exercise of a constitutional right by its own residents.
+
+Procedural caution
+
+The real Ezell I decision concerns a preliminary injunction. That posture matters.
+
+Stone should not use it to enter a final, exhaustive constitutional code governing every firing-range regulation. He may hold that:
+
+the plaintiffs are likely to succeed;
+constitutional injury is irreparable;
+the total ban cannot remain in force pending final adjudication;
+ordinary safety regulation remains available.
+
+If the simulation needs a final merits rule, a later final-judgment vehicle would be cleaner than pretending the preliminary record conclusively resolves every issue.
+
+Remedy
+
+Enjoin enforcement of the total range ban. Permit the city to adopt and enforce supported safety, zoning, and operational rules. Do not order the city to build, finance, or subsidize a range.
+
+Questions preserved
+purely recreational shooting;
+public subsidies;
+a right to a range in a preferred neighborhood;
+regulations of outdoor versus indoor ranges;
+particular buffer distances;
+age restrictions;
+commercial insurance conditions;
+advanced tactical training;
+training involving weapons outside the protected category.
+Stone’s goal
+
+The case prevents government from nullifying the right indirectly through contradictory prerequisites. It adds a practical-access branch only if the simulation affirmatively wants that proposition.
+
+IX. Optional detailed licensing doctrine
+OT2015: Heller v. District of Columbia, 801 F.3d 264, “Heller III”
+
+Default recommendation: Skip.
+
+Why the case is unnecessary by default
+
+Heller I establishes the core. Heller II can establish that objective registration may coexist with the right and that categorical arm prohibitions require genuine classification. That is enough for a stable doctrine.
+
+Heller III goes much further into administrative detail, including:
+
+long-gun registration;
+fingerprints;
+photographs;
+in-person appearance;
+physical presentation of the firearm;
+periodic re-registration;
+fees;
+safety training;
+a test on local firearm law;
+one-pistol-per-thirty-days limits.
+
+The actual D.C. Circuit upheld some conditions and invalidated others based on the evidentiary record.
+
+Taking the case risks turning the simulation into a licensing manual. The roadmap therefore says to use it only if detailed registration law is affirmatively desired.
+
+Best Stone direction if the case is selected
+Basic long-gun registration
+
+It may survive if it is objective, timely, inexpensive, and supported by a real administrative function. Stone should not assume that the handgun-registration holding automatically resolves long guns. The government must still identify why the requirement is useful and nonprohibitory.
+
+One-time fingerprinting and photography
+
+One-time identity verification may survive when it materially improves accurate identification, prevents fraudulent registration, and does not require repeated unnecessary processing.
+
+In-person appearance
+
+It may survive when genuinely necessary to complete valid identity verification. It should not become a recurring burden without a distinct justification.
+
+Physical presentation of the firearm
+
+This should fail absent evidence that inspection is necessary and materially advances the identified function. Requiring lawful applicants to transport firearms to a police station may itself create cost, safety, and enforcement risks.
+
+Periodic re-registration
+
+Periodic re-registration should not survive merely because updated records are convenient. Government should explain why less burdensome tools, including reporting address changes, reporting loss or transfer, and conducting lawful background checks, are inadequate.
+
+Fees
+
+Reasonable fees limited to actual administrative costs may survive. A fee becomes constitutionally suspect when it:
+
+materially exceeds cost recovery;
+accumulates across repeated requirements;
+makes ordinary possession unaffordable;
+finances unrelated government activity;
+functions as a tax on the right.
+Safety training
+
+Accessible and reasonably fitted safety training may survive. If Ezell is part of simulation law, the government must leave practical means of satisfying the training requirement.
+
+Test on local firearm law
+
+A clear and modest test may be administratively defensible only if government identifies the safety or compliance function and provides accessible materials, fair retesting, and review. It cannot become a discretionary civics examination used to deny the right.
+
+One pistol per thirty days
+
+This limit requires an actual connection to trafficking or circumvention. Government cannot rely on the proposition that one handgun is enough and additional protected arms therefore receive no constitutional protection. The plural right is not exhausted by a single firearm.
+
+Absent materially adequate evidence that the limit targets an identified trafficking mechanism without substantially impairing lawful acquisition, Stone should invalidate it.
+
+Recommended mixed result if taken
+
+The most coherent Stone disposition would likely:
+
+uphold basic objective registration;
+uphold one-time identity-verification measures that are genuinely necessary;
+permit reasonable cost-recovery fees;
+permit accessible safety training;
+invalidate unsupported physical-inspection requirements;
+invalidate unsupported periodic re-registration;
+invalidate an unsupported legal-knowledge test;
+invalidate an unsupported purchase-frequency rule;
+preserve the possibility that a differently designed and better-supported provision could be valid.
+Stone’s goal
+
+The case would establish that licensing cannot become disguised prohibition through cumulative administration. Every burden must be evaluated in actual operation, not merely by reading each requirement in isolation.
+
+Still, the stronger project choice is to stop with Heller II unless this level of detail is genuinely needed.
+
+X. Stone’s completed doctrinal architecture by OT2015
+1. The right-holder
+
+The right belongs to an individual natural person, not merely a state militia institution.
+
+The strongest claimant is a person who is not subject to an independently established disqualification and who seeks an ordinary arm for a lawful purpose.
+
+The phrase “law-abiding” is descriptive, not a blank check. Government still must identify the legal predicate that removes a claimant from the ordinary category.
+
+2. The protected core
+
+The central application is possession of an ordinary operable firearm, especially a handgun, in the home for immediate lawful self-defense.
+
+Government may not:
+
+prohibit every handgun;
+force every lawful home firearm to remain unusable;
+use licensing as a discretionary veto;
+make a prerequisite impossible to satisfy;
+eliminate ordinary arms one category at a time while pointing to substitutes.
+3. The arm categories
+Ordinary protected arms
+
+Ordinary handguns are protected. Semiautomatic rifles and ordinary magazines require actual classification based on operation, ordinary lawful use, and common possession, not political labels.
+
+Weapons outside the established ordinary-arms category
+
+Post-1986 fully automatic machineguns may be prohibited under Hale and Rybar.
+
+Those cases do not automatically decide semiautomatic firearms, magazines, or every arm with a military origin or appearance.
+
+4. Person-based disabilities
+Adjudicated violent domestic-abuse conviction
+
+A qualifying conviction supplies a durable disqualification while legally operative. No new danger hearing or constitutional sunset is required.
+
+Qualifying civil protective order
+
+Only if Emerson is selected. The disability is temporary and requires notice, meaningful opportunity to participate, a danger-linked finding or force prohibition, and a currently operative order.
+
+No general dangerousness category
+
+The simulation has not established that government may disarm anyone it considers risky. Arrests, accusations, nonviolent misdemeanors, old unadjudicated conduct, and unrelated status do not inherit the domestic-violence rules.
+
+5. Licensing and safety regulation
+
+Objective, timely, reviewable, and nonprohibitory licensing may exist.
+
+Reasonable administration may include registration, identity verification, genuine safety measures, and cost-recovery fees.
+
+Licensing fails when its actual operation produces arbitrary denial, indefinite delay, unaffordable cost, impossible conditions, repeated unsupported demands, or cumulative prohibition.
+
+6. Training and ranges
+
+Only if Ezell is selected. Government may regulate safe range operation but may not require live-fire training while prohibiting all practical means of completing it.
+
+7. Federalism
+
+Second Amendment validity and federal legislative power remain separate.
+
+For federal laws:
+
+identify the protected-right issue;
+identify Congress’s enumerated-power theory;
+test any anti-evasion or market relationship;
+require a genuine offense-specific commerce connection when the statute depends on one;
+separately determine whether the law directly regulates individuals or commandeers States.
+
+A law can pass one inquiry and fail another.
+
+8. Method of review
+
+Stone should not adopt a universal scrutiny tier.
+
+For every case, proceed in this order:
+
+Who is claiming the right?
+What arm is involved?
+What lawful purpose is asserted?
+Where is the right being exercised?
+Does an established disqualification or regulatory branch apply?
+What does the law do in practical operation?
+Does it regulate the right or destroy the protected application?
+For federal law, what enumerated power supports it?
+What is the narrowest remedy that resolves the actual violation?
+
+This is the organizing method expressly contemplated by the handoff instruction.
+
+XI. Questions that should remain unresolved at the close of OT2015
+
+Unless a genuine later vehicle is deliberately selected, the following remain open:
+
+public carry;
+whether government must allow open carry, concealed carry, or one of the two;
+sensitive-place boundaries;
+vehicles and parking lots;
+schools, universities, courthouses, legislatures, polling places, transit systems, and public demonstrations;
+nonviolent felony disabilities;
+old misdemeanors unrelated to violence;
+drug-user restrictions;
+mental-health restrictions;
+emergency ex parte risk orders;
+minors and age restrictions;
+ammunition acquisition;
+ammunition taxes;
+magazine limits beyond the record in Heller II;
+commercial-sale conditions;
+dealer licensing;
+waiting periods;
+serial-number rules;
+homemade firearms;
+transportation requirements;
+safe-storage rules that preserve meaningful access;
+corporate Second Amendment rights;
+advanced or recreational training;
+a general right to restoration;
+a universal doctrinal test for every arm or claimant.
+
+Leaving these issues unresolved is not incompleteness. It is the intended method. The project expressly rejects manufacturing cases solely to make the doctrine look comprehensive.
