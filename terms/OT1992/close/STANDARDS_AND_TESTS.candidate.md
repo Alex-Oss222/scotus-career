@@ -2183,7 +2183,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Governing question:** What instructions govern public-sector compensatory time and legally capable representatives?
 
-**Current rule:** For employees within §207(o)(2)(A)(ii) hired before April 15, 1986, the regular compensatory-time practice then in effect supplies the required agreement or understanding without a further individual or collective agreement. For later hires whose chosen organization cannot under state law enter a binding subsection (i) agreement, the employer may use individual subsection (ii) agreements instead of losing compensatory time entirely. No consent is presumed outside those predicates; legally capable representatives, later-adopted practices and ordinary overtime requirements retain their distinct treatment. No general federal public-sector bargaining right follows.
+**Current rule:** For employees within §207(o)(2)(A)(ii) hired before April 15, 1986, the regular compensatory-time practice then in effect supplies the required agreement or understanding without a further individual or collective agreement. For later hires whose chosen organization cannot under state law enter a binding subsection (i) agreement, the employer may use individual subsection (ii) agreements or understandings instead of losing compensatory time entirely. No consent is presumed outside those predicates; legally capable representatives, later-adopted practices and ordinary overtime requirements retain their distinct treatment. No general federal public-sector bargaining right follows.
 
 **Authority by component:**
 

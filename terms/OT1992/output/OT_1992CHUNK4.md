@@ -509,7 +509,7 @@ In forma pauperis fee motion, March 8, 1993
 
 #### Chronology and Posture
 
-Demos sought leave to proceed without prepayment on a petition for certiorari to the Ninth Circuit, which had affirmed the denial of leave to file a civil complaint under an existing prefiling order; that panel treated the prefiling order's own validity as settled because it had not been timely appealed. The petition alleges that official interference prevented a timely appeal of that order.
+Demos v. Storrie, No. 92-6846, October Term 1992. In forma pauperis fee motion and proposed prospective filing restriction decided March 8, 1993; no oral argument. Historical report locator: 507 U.S. 290. Demos sought leave to proceed without prepayment on a petition for certiorari to review the Ninth Circuit's affirmance, 962 F.2d 13 (May 11, 1992), of the denial of leave to file a civil complaint under an existing prefiling order; that panel treated the prefiling order's own validity as settled because it had not been timely appealed. The petition alleges that official interference prevented a timely appeal of that order.
 
 #### Judgment
 
@@ -531,11 +531,11 @@ The Court grants leave to proceed in forma pauperis and denies the petition for 
 
 ##### 1. The official-interference allegation is not defeated by filing history
 
-**Controlling proposition:** Rule 39.8 permits denial of leave to file without prepayment only upon a finding that the particular petition is frivolous or malicious; a documented pattern of prior unsuccessful filings does not substitute for that finding. Demos's allegation that official interference prevented a timely appeal of the underlying prefiling order is a particular, non-conclusory claim that clears the nonfrivolousness threshold on this record.
+**Controlling proposition:** Rule 39.8 permits denial of leave to file without prepayment only upon a finding that the particular petition is frivolous or malicious; a documented pattern of prior unsuccessful filings does not substitute for that finding. Demos's allegation that official interference prevented a timely appeal of the underlying prefiling order is a particular, non-conclusory claim that clears the nonfrivolousness threshold on this record, so the Court grants leave without deciding that the allegation warrants certiorari or would succeed on the merits.
 
-**Authority:** Per curiam opinion, joined by all nine participating Justices.
+**Authority:** Per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine participating Justices adopt this filing-specific application and its limits.
 
-**Controlling explanation:** The Court holds that Demos's documented history does not dispose of the paper now before it, for the reason stated in Martin: Zatko permits discretionary fee denial for an identified frivolous submission in an extreme pattern of abuse, but does not make earlier denials conclusive of a later, different petition's character. The Ninth Circuit treated the original prefiling order's validity as settled because it went unappealed; Demos's allegation that official interference caused that default goes directly to whether the unappealed-finality premise should control, rather than merely relitigating the personal grievance the order already addressed. The Court does not credit the allegation as true and does not find that it would excuse the default; it decides only that the allegation is not so insubstantial as to be frivolous or malicious.
+**Controlling explanation:** The Court holds that Demos's documented history does not dispose of the paper now before it, for the same reason stated in Martin: Zatko permits discretionary fee denial for an identified frivolous submission in an extreme pattern of abuse, but it does not make earlier denials conclusive of a later, different petition's character. The Ninth Circuit treated the original prefiling order's validity as settled because it went unappealed; Demos's allegation that official interference caused that default goes directly to whether the unappealed-finality premise should control, rather than merely relitigating the personal grievance the prefiling order already addressed. That is a distinct, non-conclusory legal theory of the same kind Martin's general-rule argument presented, not a bare repetition of past filings. The Court does not credit the interference allegation as true and does not find that it would excuse the default or justify relief; it decides only that the allegation is not so insubstantial as to be frivolous or malicious. The motion is granted; the underlying petition remains subject to ordinary discretionary review.
 
 ##### 2. No prospective filing restriction on this record
 
@@ -543,7 +543,7 @@ The Court grants leave to proceed in forma pauperis and denies the petition for 
 
 **Authority:** Per curiam opinion, joined by all nine participating Justices.
 
-**Controlling explanation:** For the reasons stated in Martin, the remedy remains confined to the filing actually before the Court. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record. Denton's distinction between an arguable claim and a clearly baseless allegation carries the same force here: a filing that clears that threshold has not thereby shown a pattern of clearly baseless filings justifying a case-independent condition on every future petition, and the Court does not import Denton's statutory screening framework wholesale into this discretionary remedy. One present filing raises a distinct, non-frivolous allegation sufficient to permit filing, which itself supports declining a categorical prospective bar, because individualized review of each future petition remains adequate on this record.
+**Controlling explanation:** The Court holds, for the same reasons stated in Martin, that the remedy should remain confined to the filing actually before the Court. McDonald and Sindram permit measures directed at concrete, demonstrated abuse; they do not compel a restriction on all future ordinary civil petitions on this record. Denton's distinction between an arguable claim and a clearly baseless allegation, already applied to the fee question above, carries the same force here: a litigant whose current filing clears that threshold has not thereby shown a pattern of clearly baseless filings sufficient to justify a prospective, case-independent condition on every future petition, and the Court does not import Denton's statutory screening framework wholesale into this discretionary remedy. One present filing raises a distinct, non-frivolous allegation sufficient to permit filing, which itself supports declining a categorical prospective bar, because individualized review of each future petition remains adequate on this record and a broader restriction would reach filings not yet before the Court. The Court's conclusion rests on this record and available remedies, without deciding a universal notice requirement or the legality of every possible future restriction; a future record demonstrating a clearly baseless pattern distinguishable from this filing could support a different result.
 
 #### Precedent Treatment and Current-Law Effect
 
@@ -554,6 +554,10 @@ The Court grants leave to proceed in forma pauperis and denies the petition for 
 - Denton v. Hernandez, 504 U.S. 25 (May 4, 1992): its arguable-claim/clearly-baseless distinction informs both the fee and prospective-restriction assessments, without importing its statutory screening rules wholesale into Rule 39 or this discretionary remedy.
 
 Before: Martin's filing-specific Rule 39.8 standard had not yet been applied to a later petition. After: it is applied, not replaced — Demos's official-interference allegation clears the low filing threshold on this record. No numerical test, categorical ban, or mandatory warning prerequisite is created. The refusal of prospective relief is confined to this record.
+
+#### Source Notes
+
+[Original petition](https://archive.org/download/micro_IA40385013_0424/micro_IA40385013_0424%202.%20Petition%20for%20Writ%20of%20Certiorari.pdf) and [Ninth Circuit disposition, 962 F.2d 13](https://law.justia.com/cases/federal/appellate-courts/F2/962/13/91800/) support the dates, underlying record, and posture. The disposition and holdings supplied above state this Court's action; the reporter locator is source identification, not a substituted decision. No verbatim historical opinion is presented as an authenticated quotation. Research cutoff March 8, 1993; no later disposition is asserted.
 
 #### Mandate, Remedy, and Stage
 

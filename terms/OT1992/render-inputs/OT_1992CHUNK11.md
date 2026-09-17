@@ -118,7 +118,7 @@ Supreme Court merits review is complete. The Eighth Circuit judgment is vacated 
 
 ## Event
 
-Delo, Superintendent, Potosi Correctional Center v. Blair, No.A-69, October Term 1992; application to vacate a stay of execution, decided July 21, 1993. Historical reporter locator: 509 U.S.823. Walter Blair's execution was scheduled in Missouri; a successive federal habeas petition raised an actual-innocence claim supported by seven affidavits. The District Court, finding the facts mirror those in the simulated Herrera v. Collins, nonetheless granted a stay; the Eighth Circuit affirmed it and indicated a need for further study over roughly five weeks. The State applied to vacate that stay. Render form: compact — an equally divided Court, 4–4, with no opinion commanding a majority; four separate statements. This event replaces the chunk 11 record-dependent hold; see the [Decision Record](../records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md) (version 2.0) for full sourcing and reasoning, including the correction of a defect in the initially published version 1.0.
+Delo, Superintendent, Potosi Correctional Center v. Blair, No.A-69, October Term 1992; application to vacate a stay of execution, decided July 21, 1993. Historical reporter locator: 509 U.S.823. Walter Blair's execution was scheduled in Missouri; a successive federal habeas petition raised an actual-innocence claim supported by seven affidavits. The District Court, finding the facts mirror those in the simulated Herrera v. Collins, nonetheless granted a stay; the Eighth Circuit affirmed it and indicated a need for further study over roughly five weeks. The State applied to vacate that stay. Render form: full — an equally divided Court, 4–4, with no opinion commanding a majority; four separate statements require full form under AGENTS.md. This event replaces the chunk 11 record-dependent hold; see the [Decision Record](../records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md) (version 2.0) for full sourcing and reasoning, including the correction of a defect in the initially published version 1.0.
 
 ## Participation
 
@@ -143,7 +143,9 @@ By an equally divided Court, 4–4, the application to vacate the Eighth Circuit
 | Joint statement | Blackmun | Stevens | Would deny the application | Consistent with their Herrera dissent |
 | Separate statement | Souter | No other Justice | Would deny the application | Would let the Eighth Circuit's study proceed |
 
-## Legal Effect (No Controlling Holding)
+## Holdings
+
+**No controlling holding.** This event is an equally divided Court, 4–4; no opinion commands a majority, and nothing below is a controlling proposition adopted by any coalition. It is stated here to satisfy the interface's required block, not because a holding exists.
 
 ### An equally divided Court leaves the existing stay in place
 
