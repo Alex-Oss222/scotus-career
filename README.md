@@ -22,7 +22,7 @@ terms/OT<year>/  One folder per term:
    output/          written by Render: the public render of each chunk; a correction
                      replaces only the affected entry, in place, with no version
                      numbers, commit hashes, or correction labels in the public text
-   close/           staged close notes/audits and the Term-Close Dossier; candidates are removed after publication
+   close/           staged close notes, one canonical AUDIT.md, and the Term-Close Dossier; candidates are removed after publication
 ```
 
 ## The four tasks
@@ -44,8 +44,8 @@ This section is a pointer to current sources, not a restatement of the law. If i
 
 - **October Term 1991 is closed.** All 14 chunks are run and rendered (`terms/OT1991/output/`); the [Term-Close Dossier](terms/OT1991/close/TERM_CLOSE_DOSSIER.md) records the coordinated replacement of `state/`'s three trackers.
 - ***Planned Parenthood of Southeastern Pennsylvania v. Casey*** was the term's special-consideration matter. Its current, controlling version is stated in the record's ["Version 1.5 assembly" section](terms/OT1991/records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md); earlier versions (v1.1–v1.4) remain in `terms/OT1991/briefs/` as superseded history, not current law.
-- **October Term 1992 is open and in progress.** All 11 chunks are run and rendered (`terms/OT1992/output/`). See `terms/OT1992/workspace.md`'s Scope and Chronology Cursor section for the current cursor and next supplied group.
-- No OT1992 matter is currently stopped. Martin, Moreau, and Demos were each resolved by a corrected Stone position; *Delo v. Blair*, No. A-69, was resolved by a hand-applied correction (version 2.0) applying Stone's own already-committed Herrera dissent — under which he would have remanded a materially identical claim rather than reject it — so the application to vacate the Eighth Circuit's stay of execution is denied by an equally divided Court, 4–4, and the stay remains in effect, diverging from the historical 5–3 vacatur (`terms/OT1992/records/Delo_v_Blair_application_to_vacate_stay_1993-07-21.md`); *Coleman v. Thompson*, petition No. 91-8336, was removed from this term entirely — it actually reached its own terminal disposition on June 15, 1992, within OT1991's own term, and is resolved there by a post-close correction (`terms/OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md`).
+- **October Term 1992 is closed.** All 11 chunks are run and rendered (`terms/OT1992/output/`), the final audit reports no unresolved discrepancy, and the audited tracker set has been published to `state/`. See `terms/OT1992/close/AUDIT.md` and `terms/OT1992/close/TERM_CLOSE_DOSSIER.md`.
+- **The repository is positioned to open October Term 1993.** `state/` contains the OT1993 opening setting. `terms/OT1993/case-list.md` is present, but no OT1993 `workspace.md` exists yet, so the term has not been opened. The final OT1992 audit records the corrected Martin, Moreau, Demos, and Blair dispositions; Coleman is correctly confined to OT1991 by its June 15, 1992 post-close correction record.
 - Corrections to Holmes, Suter, Montana, Alaska, and the two Harris applications (OT1991 chunks 6–8) predate the in-place correction convention and remain as separate files, named in their chunks' Render Inputs.
 
 ## Running it
