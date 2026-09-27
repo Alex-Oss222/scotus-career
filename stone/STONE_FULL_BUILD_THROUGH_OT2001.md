@@ -417,9 +417,9 @@ The decision does not approve DOJ maximization, hold every race-conscious distri
 
 **Historical questions.** Could Congress authorize the IGRA suit against Florida through its Indian Commerce power? Could a suit against the governor proceed under *Ex parte Young*?
 
-**Stone's disposition.** Affirm the judgment barring the direct private action against the nonconsenting State. Address the officer route separately under IGRA's remedial design and the ordinary requirements for prospective relief.
+**Stone's disposition.** Affirm dismissal of the direct action against Florida, but reverse the categorical rejection of the prospective officer action and remand that claim for enforcement within IGRA's statutory sequence.
 
-**Reasoning.** Congress's authority to regulate Indian commerce does not itself eliminate state immunity from a private damages or coercive action. The substantive federal duty, the cause of action, the defendant, and immunity remain separate questions. Valid Reconstruction-Amendment enforcement may support abrogation under its own standard, and a State may waive immunity, but neither proposition is present merely because Congress has Article I authority over the subject. Any prospective officer route must satisfy its own requirements and cannot be used to rewrite the remedial structure Congress enacted.
+**Reasoning.** Stone answers both questions. Congress has substantive authority over Indian commerce and unmistakably authorized the IGRA action, but Article I authority does not by itself remove the State's immunity from being made the defendant in a private federal suit. A federal duty, a cause of action, the defendant, immunity, and relief are separate legal questions. The officer action is different: a responsible officer maintaining an ongoing violation of federal law may be ordered prospectively to comply. That route does not enlarge IGRA. The court must respect Congress's negotiation, good-faith determination, mediation, timing, and other remedial limits rather than use *Young* to invent a broader bargaining decree. Valid Reconstruction-Amendment abrogation and actual state waiver remain separate sources for later cases.
 
 ### Wisconsin v. City of New York, 517 U.S. 1 (1996)
 
@@ -625,9 +625,11 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 **Historical questions.** Did §654 and its implementing statements policy violate equal protection or free speech, and was Thomasson's discharge lawful under the statute's rebuttable presumption?
 
-**Stone's disposition.** Reverse approval of the discharge insofar as it rests on identity treated as sufficient proof of prohibited conduct or propensity; remand for a lawful individualized determination and appropriate relief.
+**Stone's disposition.** Reverse the discharge and direct reinstatement, remanding only for implementation of lawful personnel and monetary consequences. Sustain military regulation of prohibited conduct, but invalidate the use of Thomasson's identity statement as sufficient proof of prohibited conduct, propensity, or intent.
 
-**Reasoning.** The statute expressly permits rebuttal. An excellent record is not necessarily conclusive, but relevant testimony and evidence cannot be rejected because the officer declines to deny being gay. Apply the heightened equality standard adopted in *Walmer*, while recognizing valid military regulation of conduct. A statement admitting an actual prohibited act may be evidence of that act; political disagreement and an identity statement cannot automatically be treated as the same thing. This is not a fictional repeal of the statute. [Actual appellate opinion and dissents](https://law.justia.com/cases/federal/appellate-courts/F3/80/915/627632/).
+**Reasoning.** Apply *Walmer*'s heightened equality review with substantial respect for demonstrated military needs, not automatic acceptance of a status proxy. The military may regulate actual conduct and may use speech as evidence when the statement admits conduct or expresses a concrete intent to violate a valid rule. It may not make the sentence "I am gay" the operative ground for discharge by shifting to the officer the burden of proving that his orientation will never result in prohibited conduct. That mechanism burdens a historically disfavored status through a stereotype about future behavior and is not adequately fitted to discipline or readiness when the government has no conduct evidence and the officer's service record is concededly excellent.
+
+The First Amendment leads to the same administrable boundary. Speech does not become immune from evidentiary use merely because it is speech, but an identity statement and political disagreement cannot themselves be punished as misconduct. The government must prove the legally relevant conduct or intent; it cannot presume it conclusively or effectively conclusively from protected expression. Thomasson's refusal to deny his orientation is therefore not a failure of constitutional proof. This holding does not repeal §654 or prevent discharge based on proved prohibited acts or a genuine statement of intent to commit them. [Actual appellate opinion and dissents](https://law.justia.com/cases/federal/appellate-courts/F3/80/915/627632/).
 
 ### Agostini v. Felton, 521 U.S. 203 (1997)
 
@@ -707,9 +709,9 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 **Historical questions.** Could the citizenship claimant challenge different statutory requirements for an unmarried citizen father and mother? Were the requirements constitutional, and could a court supply the claimed citizenship remedy?
 
-**Stone's disposition.** Permit the sex-equality challenge and reject the differential paternal requirements as justified by stereotypes rather than an adequately fitted distinction. Remand for resolution of the lawful remedy and severability rather than simply confer citizenship by judicial declaration.
+**Stone's disposition.** Permit the sex-equality challenge, hold the paternal-only requirements unconstitutional, sever the discriminatory conditions, and direct recognition of Miller's citizenship at birth under the remaining statutory grant.
 
-**Reasoning.** The historical decision fractured over standing, merits, and remedial authority. Stone should not describe a single majority rationale that did not exist. His position follows the dissenting equality analysis while respecting the separate statutory and constitutional issue of how nationality may be conferred. This prepares *Nguyen* without deciding its different procedural posture in advance. [Opinions](https://supreme.justia.com/cases/federal/us/523/420/).
+**Reasoning.** The differential conditions rest on sex-based assumptions about which unmarried parent will prove parentage, assume responsibility, or form the relevant relationship. Those assumptions do not satisfy heightened scrutiny where Congress can require neutral proof of biological parentage and whatever parent-child connection it considers lawfully necessary without assigning different legal burdens by sex. Stone also answers the remedy question. The INA contains a broad severability command, and the challenged provisions operate as restrictions on an otherwise automatic statutory grant of citizenship at birth. Excising the unconstitutional paternal-only conditions does not ask a court to naturalize someone in equity; it leaves Congress's remaining grant to operate according to its own terms. Where the neutral parentage and citizen-parent residence predicates are established on this record, the proper judgment is a declaration of citizenship, not another remand to decide whether courts possess a remedy. [Opinions](https://supreme.justia.com/cases/federal/us/523/420/).
 
 ### FEC v. Akins, 524 U.S. 11 (1998)
 
@@ -757,9 +759,9 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 **Historical questions.** Could a male applicant pursue his constitutional sex-discrimination claim concerning a federal probation-office appointment, and was summary judgment proper without requested discovery into the asserted hiring reasons? What immunity and alternative-remedy objections applied?
 
-**Stone's disposition.** Vacate the premature summary judgment and remand for focused discovery and reconsideration. Reject absolute judicial immunity for an administrative hiring decision; assess the actual constitutional remedy and any legally adequate displacement argument.
+**Stone's disposition.** Vacate the premature summary judgment and remand for focused discovery on discriminatory purpose. Hold that the Fifth Amendment sex-discrimination claim is cognizable under *Davis v. Passman*, that the judges lack absolute judicial immunity for this administrative hiring act, that the Judicial Conference EEO plan does not displace the constitutional damages action absent a congressional decision to make it exclusive, and that qualified immunity does not supply a categorical bar because the right of a federal applicant to be free from intentional sex discrimination was clearly established.
 
-**Reasoning.** A judge's hiring affidavit does not make motive immune from examination. Administrative personnel conduct is different from adjudication. Preserve ordinary qualified-immunity analysis and require a supported discrimination claim, rather than authorize a general inquiry into judicial decisionmaking. Existing constitutional-remedy precedent supplies the argument; Stone does not claim that every federal employment dispute automatically supports a new damages action. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/123/1026/624823/).
+**Reasoning.** Answer the remedial questions before remanding the factual one. Hiring a chief probation officer is important to judicial administration, but it is an employment decision rather than adjudication between parties, so *Forrester* forecloses absolute judicial immunity. *Davis* already recognizes a damages remedy for federal sex discrimination in a setting without an exclusive congressionally created remedial system. An administratively adopted EEO process can provide useful relief without silently extinguishing that constitutional action; displacement requires a legally attributable congressional choice, not the existence of any alternative complaint procedure. Qualified immunity protects reasonable legal error, not intentional sex discrimination under a clearly established equal-protection rule. The unresolved question is factual: whether the panel actually selected the successful applicant because of sex. Duffy is entitled to discovery sufficient to test the asserted nondiscriminatory reasons, not a general inquiry into judges' adjudicative work. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/123/1026/624823/).
 
 ### Richenberg v. Perry, 97 F.3d 256 (8th Cir. 1996)
 
@@ -767,9 +769,11 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 **Historical questions.** Did the statements policy and this Air Force discharge violate due process/equal protection, free speech, or the Bill of Attainder Clause? Was the discharge lawful under the APA and governing statute?
 
-**Stone's disposition.** Reject the attainder claim, but reverse approval of an identity-based discharge and remand for a proper statutory and constitutional assessment of the administrative record.
+**Stone's disposition.** Reject the Bill of Attainder claim, but reverse the discharge on equal-protection, First Amendment, and APA grounds and direct reinstatement, with remand limited to implementation of the remedy.
 
-**Reasoning.** Apply *Thomasson*: a rebuttable presumption must permit meaningful consideration of evidence about conduct and intent. Refusal to deny orientation is not itself an admission of prohibited acts. The reviewing court must distinguish the record's actual evidence from the policy's general assumption. Relief should follow the APA and relevant constitutional route; the court need not decide every facial challenge if the particular discharge fails on narrower grounds. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/97/256/555028/).
+**Reasoning.** *Thomasson* now supplies the governing rule rather than another reason to postpone it. A statement of orientation may open an inquiry, but government must prove the conduct, propensity, or concrete intent that the valid military rule makes relevant. Richenberg expressly denied an intent to engage in prohibited acts, produced strong testimony concerning discipline, honesty, performance, and abstention, and faced no evidence of prohibited conduct. Sexual attraction and equivocal answers to hypothetical questions do not constitutionally substitute for proof of future misconduct. Treating those facts as enough makes the statutory presumption effectively irrebuttable and reproduces the status inference *Thomasson* rejected.
+
+The First Amendment permits evidentiary use of speech to prove a legally relevant fact; it does not permit the government to make protected self-identification itself the disqualifying fact. The same defect makes the agency decision arbitrary under the governing statute and unsupported by substantial evidence once orientation is removed as a sufficient proxy. The attainder theory still fails because the personnel rule is not legislative punishment of a named person or closed class in the constitutional sense. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/97/256/555028/).
 
 ## OT1998: decisions principally issued in 1999
 
@@ -811,19 +815,19 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 ### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, 527 U.S. 627 (1999)
 
-**Historical question.** Did Congress validly remove state immunity for the patent-infringement action?
+**Historical question.** Did Congress validly remove state immunity for the patent-infringement damages action?
 
-**Stone's disposition.** Affirm the Federal Circuit's refusal to dismiss on immunity grounds, using Congress's patent power and unmistakable statutory authorization.
+**Stone's disposition.** Reverse the Federal Circuit and dismiss the direct damages action against the nonconsenting state entity on sovereign-immunity grounds.
 
-**Reasoning.** Under Stone's *Seminole Tribe* rule, a valid Article I duty does not require conversion into a Fourteenth Amendment deprivation merely to obtain its enacted remedy. Patent infringement and deprivation of property without due process remain distinct legal concepts. This disposition does not establish that all infringement is unconstitutional or that the particular §5 justification would independently support every application. It also does not decide infringement liability. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/527/627/).
+**Reasoning.** *Seminole Tribe* removes the Article I shortcut. The Patent Clause validly imposes federal patent obligations on States, but a private damages action against the State requires waiver or a separate constitutional source for abrogation. Section 5 does not supply that source here. Congress did not identify a sufficiently developed pattern of States intentionally or otherwise unconstitutionally depriving patent owners of property without adequate process, while the remedy applies to infringement categorically without tracking unconstitutional deprivation, culpability, or the availability of process. Patent infringement and a Fourteenth Amendment deprivation therefore remain distinct legal concepts. The patent duty survives; waiver, federal enforcement, and properly available prospective officer relief remain separate mechanisms. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/527/627/).
 
 ### College Savings Bank v. Florida Prepaid, 527 U.S. 666 (1999)
 
-**Historical questions.** Did Congress validly abrogate immunity for the Lanham Act false-advertising claim? Had the state waived immunity by participating in the relevant market?
+**Historical questions.** Did Congress validly abrogate immunity for the Lanham Act false-advertising claim? Had the State waived immunity by participating in the relevant market?
 
-**Stone's disposition.** Reverse the immunity dismissal based on valid Commerce Clause legislation and clear abrogation. Do not rely on a fiction that market participation itself constitutes voluntary consent.
+**Stone's disposition.** Affirm the immunity dismissal on both theories.
 
-**Reasoning.** The companion case involves false advertising, not patent infringement. Stone's common Article I rule permits the suit without inventing a constitutional property right to freedom from a competitor's misleading claims. Actual consent and compulsory congressional abrogation should be named accurately. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/527/666/).
+**Reasoning.** Congress clearly attempted to authorize the action, but after *Seminole Tribe* the Commerce Clause does not provide power to make a nonconsenting State a private damages defendant. The false-advertising claim also supplies no independent § 5 basis for retrospective state liability. Waiver is different from abrogation and must be an actual, voluntary, sufficiently clear choice by the State. Participation in a federally regulated market cannot be converted into fictional consent to suit merely because Congress could regulate the activity. Substantive federal false-advertising rules may still govern the State's conduct through constitutionally available enforcement channels. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/527/666/).
 
 ### Alden v. Maine, 527 U.S. 706 (1999)
 
@@ -831,9 +835,9 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 **Stone's disposition.** Affirm Maine's immunity dismissal of the private damages action.
 
-**Reasoning.** Congress may validly regulate a State as an employer under an Article I power without thereby acquiring authority to subject the nonconsenting State to a private damages suit. The federal obligation and the private enforcement channel are distinct. Public enforcement, waiver, valid Reconstruction-Amendment abrogation, and properly available prospective officer relief remain separate possibilities. This rejects the old build's assumption that an otherwise valid Article I regulation plus unmistakable text automatically defeats state immunity.
+**Reasoning.** Congress may validly regulate a State as an employer under Article I without thereby acquiring authority to subject the nonconsenting State to a private damages suit. The immunity principle is constitutional structure rather than a federal-forum venue rule, so moving the same Article I damages action into state court does not cure the defect identified in *Seminole Tribe*. Public federal enforcement, actual waiver, valid Reconstruction-Amendment abrogation, and properly available prospective officer relief remain separate mechanisms. The substantive FLSA obligation is not erased merely because this private enforcement route is unavailable.
 
-**Doctrinal change from the earlier build.** Delete the proposed Article I abrogation rule and the old state-forum-first or substitute-forum architecture. The governing questions are the source of the federal duty, the existence of a private action, the defendant and forum, immunity or valid abrogation, and the relief actually authorized.
+**Doctrinal change from the earlier build.** This decision must also confront *Hilton* candidly. To the extent Stone's earlier *Hilton* holding treated FELA coverage and statutory stare decisis as sufficient to compel a nonconsenting State to answer a private Article I damages action in its own courts, that remedial proposition is overruled. FELA's substantive coverage of state-owned railroads can remain, but statutory precedent cannot create constitutional power to impose a private damages forum that Article I does not supply. The governing sequence is source of duty → private action → defendant and forum → immunity, waiver, or valid abrogation → relief.
 
 ### Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)
 
@@ -933,11 +937,11 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 ### Kimel v. Florida Board of Regents, 528 U.S. 62 (2000)
 
-**Historical questions.** Did the ADEA clearly authorize private suits against states, and did Congress possess constitutional authority for that abrogation?
+**Historical questions.** Did the ADEA clearly authorize private suits against States, and did Congress possess constitutional authority for that abrogation?
 
-**Stone's disposition.** Reverse the immunity barrier and remand. The text is sufficiently clear, and Congress's commerce authority supplies the power under Stone's *Seminole Tribe* and *Alden* rule.
+**Stone's disposition.** Affirm the immunity dismissal of the private retrospective damages claims.
 
-**Reasoning.** Age discrimination need not become a heightened-scrutiny constitutional classification merely to support a valid statutory employment rule. Nor should the Court invalidate the substantive ADEA because one constitutional basis for damages is disputed. The §5 question is unnecessary to this primary disposition. If the Court rejects Stone's Article I position, he should separately assess the actual state-employment record and preventive fit; he should not assert that every irrational age distinction has already been proved or that nationwide private-sector evidence automatically resolves state culpability. [Opinion and Stevens dissent](https://supreme.justia.com/cases/federal/us/528/62/).
+**Reasoning.** The ADEA clearly includes state employers, so Stone answers the power question rather than hiding behind statutory ambiguity. *Seminole Tribe* and *Alden* foreclose Article I as the abrogation source. Section 5 also does not sustain this remedy. Age classifications generally violate equal protection only when irrational, while the ADEA broadly prohibits many age distinctions that the Constitution permits. The state-employment record does not establish a recurring pattern of unconstitutional age discrimination strong enough to justify that breadth as a preventive § 5 damages remedy. This does not invalidate the ADEA's substantive regulation of state employment under the Commerce Clause or foreclose federal enforcement and other constitutionally available remedies. [Opinion and Stevens dissent](https://supreme.justia.com/cases/federal/us/528/62/).
 
 ### Reno v. Condon, 528 U.S. 141 (2000)
 
@@ -1175,11 +1179,11 @@ Respect the state court's interpretation unless the asserted federal defect is a
 
 **Historical questions.** Could state employees recover money damages under ADA Title I, given sovereign immunity and Congress's asserted enforcement authority? What should the Court do with the portion of the grant concerning Title II employment claims when the antecedent statutory-coverage issue was not adequately briefed?
 
-**Stone's disposition.** Affirm the appellate rejection of the Title I immunity barrier and allow those statutory claims to proceed. The primary basis is clear congressional authorization under valid commerce power, consistent with Stone's immunity sequence. Dismiss the inadequately presented Title II portion as improvidently granted.
+**Stone's disposition.** Affirm the appellate rejection of the Title I immunity barrier and allow those damages claims to proceed because the Title I abrogation is valid § 5 enforcement. Dismiss the inadequately presented Title II portion as improvidently granted.
 
-**Reasoning.** Do not confuse whether Congress can prohibit discrimination and require reasonable accommodation with whether every failure to accommodate is independently unconstitutional. The ADA defines a statutory duty with qualification and hardship limits. Stone's Article I position supports its enacted remedy without declaring disability a suspect classification. [Historical opinion](https://www.law.cornell.edu/supct/html/99-1240.ZO.html).
+**Reasoning.** Stone reaches the § 5 question directly; Article I cannot do the remedial work after *Seminole Tribe*. Congress compiled a substantial record of exclusion, stereotype, and unequal treatment of people with disabilities by public institutions, including employment, and Title I responds through bounded rules rather than an unlimited preference. The claimant must be qualified; employers may maintain job-related standards; accommodation must be reasonable; and undue hardship remains a defense. Those limitations make the remedy sufficiently fitted to the recurring constitutional danger of irrational and stereotype-based exclusion by state employers.
 
-**If the Court rejects Stone's Article I position.** His alternative §5 argument should follow Breyer's treatment of the legislative record: Congress may identify entrenched prejudice and recurrent exclusion through a broad record that is not limited to judicial findings against each state employer. Reasonable-accommodation and undue-hardship provisions can be fitted preventive devices. The fit must be explained specifically for employment and state action. This is a reasoned alternative position, not a declaration that the Court necessarily adopts two independent holdings. Title II's entire validity is not decided in this Title I case. [Breyer dissent](https://www.law.cornell.edu/supct/html/99-1240.ZD.html).
+The rule is broader than the constitutional minimum, as preventive legislation often is, but it is not detached from that minimum. Stone does not make disability a suspect classification or hold that every failure to accommodate is independently unconstitutional. The distinction from *Kimel* is evidentiary and remedial: Congress identified a more substantial pattern of constitutionally suspect exclusion and used qualification and hardship limits that focus the preventive rule on the mechanism producing that exclusion. [Historical opinion](https://www.law.cornell.edu/supct/html/99-1240.ZO.html); [Breyer dissent](https://www.law.cornell.edu/supct/html/99-1240.ZD.html).
 
 ### Cook v. Gralike, 531 U.S. 510 (2001)
 
@@ -1221,9 +1225,11 @@ Respect the state court's interpretation unless the asserted federal defect is a
 
 **Historical questions.** Were the different statutory citizenship requirements for unmarried citizen fathers and mothers constitutional? What relief followed for Nguyen's nationality claim in removal proceedings?
 
-**Stone's disposition.** Reject the sex-based distinction as insufficiently fitted, vacate the judgment sustaining it, and remand for determination of the lawful nationality remedy and severability consequences.
+**Stone's disposition.** Hold § 1409(a)(4)'s paternal-only condition unconstitutional, sever that condition, recognize Nguyen's citizenship at birth under the remaining statutory requirements on this record, and vacate the removal order premised on alienage.
 
-**Reasoning.** Establishing biological parentage and a real parental connection can be important. The legal means must address those objectives without relying on an assumption that mothers necessarily form the relevant relationship and fathers do not. More direct proof can undermine the fit of a sex-specific deadline or formality. This follows the historical dissent's equality analysis. As in *Miller v. Albright*, rejecting discrimination and selecting the legally available citizenship remedy remain distinct. [Opinion and dissent](https://supreme.justia.com/cases/federal/us/533/53/).
+**Reasoning.** Congress may require reliable proof of biological parentage and may demand a genuine connection between the citizen parent and child, but it must do so through means adequately fitted to those objectives rather than an assumption that an unmarried mother necessarily forms the relevant relationship while an unmarried father does not. Neutral proof of paternity directly addresses the biological question. Evidence of an actual parent-child relationship can address connection. A sex-specific pre-eighteen formality is an imprecise proxy for both and fails heightened scrutiny.
+
+Stone also answers the remedial question left open in the old build. The INA's general severability clause creates a strong presumption that an invalid condition can be excised. Removing § 1409(a)(4) does not amount to equitable naturalization; the remaining statute itself confers citizenship at birth when its valid predicates are met. Under Nguyen's applicable statutory version and the established parentage and citizen-parent predicates in this record, the Court should recognize the citizenship Congress's remaining text supplies rather than remand the same legal question. [Opinion and dissent](https://supreme.justia.com/cases/federal/us/533/53/).
 
 ### United States v. Mead Corp., 533 U.S. 218 (2001)
 
