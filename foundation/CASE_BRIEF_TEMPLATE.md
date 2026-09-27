@@ -6,11 +6,13 @@ One canonical case module prepares one Supreme Court matter for the Simulator En
 
 The brief prepares inputs. It does not adjudicate the Court.
 
-Each case has three physically separable parts:
+Each case has exactly three live physically separable parts:
 
 1. Section I: Neutral Modeling Packet
 2. Section II: Stone Position Supplement
 3. Section III: Historical Comparator Supplement
+
+A case block must contain exactly one live Section I, one live Section II, and one live Section III, in that order. A revised approved position replaces the prior Section II text in the brief and increments its Version field; do not append a second Section II, a trailing supplement, or a correction addendum. Git history preserves the superseded text. The runtime splitter fails rather than guessing which duplicate section controls.
 
 Use adaptive depth. Routine cases should remain compact. Expand only when a material issue involving law, record, threshold, competing paths, remedy, participation, source uncertainty, or chronology requires it.
 
@@ -114,7 +116,7 @@ Section II contains Stone's case-specific position. Keep current simulated law d
 
 ## A. STATUS
 
-* **Version:** [version]
+* **Version:** [single current version; this version supersedes every earlier Section II version in full]
 * **Approval Status:** [approved / proposed and unapproved]
 * **Approval Date or Turn:** [only if actually approved]
 * **Current-Through Baseline:** [baseline]
