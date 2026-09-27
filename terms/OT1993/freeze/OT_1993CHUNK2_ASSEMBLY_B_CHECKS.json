@@ -1,0 +1,42 @@
+{
+  "scope": "Three assembly B records only; checks are structural, not an adjudication or full term validation.",
+  "records": {
+    "Hagen": {
+      "path": "terms\\OT1993\\records\\Hagen_v_Utah_merits_1994-02-23.md",
+      "eleven_blocks": true,
+      "holding_projection_identity": true,
+      "controlling_explanation_words": [
+        181
+      ],
+      "eight_associate_rows": true,
+      "roster_and_votes": true,
+      "public_workflow_scan": true
+    },
+    "Meyer": {
+      "path": "terms\\OT1993\\records\\FDIC_v_Meyer_merits_1994-02-23.md",
+      "eleven_blocks": true,
+      "holding_projection_identity": true,
+      "controlling_explanation_words": [
+        165,
+        164,
+        160,
+        169
+      ],
+      "eight_associate_rows": true,
+      "roster_and_votes": true,
+      "public_workflow_scan": true
+    },
+    "Elder": {
+      "path": "terms\\OT1993\\records\\Elder_v_Holloway_merits_1994-02-23.md",
+      "eleven_blocks": true,
+      "holding_projection_identity": true,
+      "controlling_explanation_words": [
+        171
+      ],
+      "eight_associate_rows": true,
+      "roster_and_votes": true,
+      "public_workflow_scan": true
+    }
+  },
+  "unresolved": "Root must check actual ACF/Northwest public law and complete coordinated chunk validation. No Git command or output render performed."
+}

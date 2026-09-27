@@ -1,0 +1,9 @@
+{
+  "scope": "check_term.py non-Git checks only",
+  "git_commands_executed": 0,
+  "commit_object_check": "DEFERRED by user instruction, not passed",
+  "unverified_references": [
+    "A40385013",
+    "cceeded"
+  ]
+}

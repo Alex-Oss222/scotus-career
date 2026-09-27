@@ -1,0 +1,145 @@
+{
+  "Schiro": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Successive jeopardy",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Issue preclusion",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens"
+        ]
+      }
+    ],
+    "threshold": {
+      "decline_late_Teague": [
+        "Stone-Zsela",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    "author": "O'Connor",
+    "full_joins": [
+      "Stone-Zsela",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ]
+  },
+  "Weiss": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Appointment both judgments",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Tenure both judgments",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Part A",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Part B contextual tenure",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Kennedy"
+  }
+}

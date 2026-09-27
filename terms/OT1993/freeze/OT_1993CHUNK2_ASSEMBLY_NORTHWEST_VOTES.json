@@ -1,0 +1,140 @@
+{
+  "Northwest Airlines, Inc. v. County of Kent": {
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "nonparticipants": [
+      "Blackmun"
+    ],
+    "components": [
+      {
+        "name": "Appealed AHTA challenge: rejection affirmed on differing grounds",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Independent Commerce Clause challenge: rejection affirmed",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Existing parking correction and crash, fire and rescue remand preserved",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Overall judgment affirmed within petition scope",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Jurisdiction, assumed action and no-cross-petition limit",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "AHTA coverage and three-part reasonableness",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Allocation, carrying charges and concession revenue application",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "No demonstrated interstate discrimination on tried record",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Conditional constitutional rejection without displacement or open-ended invalidation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Ginsburg"
+  }
+}

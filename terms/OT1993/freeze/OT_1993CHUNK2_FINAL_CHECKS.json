@@ -1,0 +1,120 @@
+{
+  "preserved_files": 65,
+  "new_records": 12,
+  "records": {
+    "ABF_Freight_System_v_NLRB_merits_1994-01-24.md": {
+      "date": "1994-01-24",
+      "result": "**Result:** Tenth Circuit enforcement judgment affirmed, 9–0; reinstatement and backpay remain enforceable."
+    },
+    "Albright_v_Oliver_merits_1994-01-24.md": {
+      "date": "1994-01-24",
+      "result": "**Result:** Seventh Circuit affirmed, 7–2; dismissal of the presented substantive-due-process claim stands; no opinion supplies a controlling rationale."
+    },
+    "Caspari_v_Bohlen_merits_1994-02-23.md": {
+      "date": "1994-02-23",
+      "result": "**Result:** Eighth Circuit habeas judgment reversed, 8–1, under Teague; the constitutional merits remain unresolved."
+    },
+    "Department_of_Defense_v_FLRA_merits_1994-02-23.md": {
+      "date": "1994-02-23",
+      "result": "**Result:** Fifth Circuit enforcement judgment reversed, 9–0 on both Gulfport and Lowry components; the asserted Privacy Act FOIA exception does not authorize compelled release of these home addresses."
+    },
+    "Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md": {
+      "date": "1994-01-24",
+      "result": "**Result:** Ninth Circuit reversed and remanded, 8–1; ordinary exemptions within the generally applicable property tax do not support this §11503(b)(4) challenge. Stevens dissents and would vacate and remand for discrimination and remedy review."
+    },
+    "Elder_v_Holloway_merits_1994-02-23.md": {
+      "date": "1994-02-23",
+      "result": "**Result:** Ninth Circuit reversed and remanded, 9–0."
+    },
+    "FDIC_v_Meyer_merits_1994-02-23.md": {
+      "date": "1994-02-23",
+      "result": "**Result:** Ninth Circuit agency damages judgment reversed, 9–0."
+    },
+    "Hagen_v_Utah_merits_1994-02-23.md": {
+      "date": "1994-02-23",
+      "result": "**Result:** Utah Supreme Court affirmed, 6–3."
+    },
+    "National_Organization_for_Women_Inc_v_Scheidler_merits_1994-01-24.md": {
+      "date": "1994-01-24",
+      "result": "**Result:** Seventh Circuit reversed, 9–0; the two clinics' affected §1962(c) and dependent §1962(d) claims return for further proceedings without an economic-motive requirement."
+    },
+    "Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md": {
+      "date": "1994-01-24",
+      "result": "**Result:** Sixth Circuit judgment affirmed, 7–1 overall; the appealed AHTA claim fails 8–0 on different grounds, and the constitutional challenge fails 7–1. The unappealed parking correction and crash, fire and rescue allocation remand remain intact."
+    },
+    "Schiro_v_Farley_merits_1994-01-19.md": {
+      "date": "1994-01-19",
+      "result": "**Result:** Seventh Circuit affirmed, 7–2; no habeas relief on the presented claims."
+    },
+    "Weiss_v_United_States_merits_1994-01-19.md": {
+      "date": "1994-01-19",
+      "result": "**Result:** Both Court of Military Appeals judgments affirmed, 9–0 on appointment and fixed-tenure components."
+    }
+  },
+  "holding_explanation_word_counts": {
+    "ABF_Freight_System_v_NLRB_merits_1994-01-24.md": [
+      159,
+      166
+    ],
+    "Albright_v_Oliver_merits_1994-01-24.md": [],
+    "Caspari_v_Bohlen_merits_1994-02-23.md": [
+      156,
+      163,
+      161
+    ],
+    "Department_of_Defense_v_FLRA_merits_1994-02-23.md": [
+      163,
+      172
+    ],
+    "Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md": [
+      163,
+      170
+    ],
+    "Elder_v_Holloway_merits_1994-02-23.md": [
+      171
+    ],
+    "FDIC_v_Meyer_merits_1994-02-23.md": [
+      165,
+      164,
+      160,
+      169
+    ],
+    "Hagen_v_Utah_merits_1994-02-23.md": [
+      181
+    ],
+    "National_Organization_for_Women_Inc_v_Scheidler_merits_1994-01-24.md": [
+      161,
+      163
+    ],
+    "Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md": [
+      152,
+      162,
+      159,
+      157,
+      151
+    ],
+    "Schiro_v_Farley_merits_1994-01-19.md": [
+      140,
+      152,
+      157
+    ],
+    "Weiss_v_United_States_merits_1994-01-19.md": [
+      157,
+      160
+    ]
+  },
+  "local_links_checked": 237,
+  "vote_receipt_files": [
+    "OT_1993CHUNK2_ASSEMBLY_A1_VOTES.json",
+    "OT_1993CHUNK2_ASSEMBLY_A2_VOTES.json",
+    "OT_1993CHUNK2_ASSEMBLY_ABF_VOTES.json",
+    "OT_1993CHUNK2_ASSEMBLY_B_VOTES.json",
+    "OT_1993CHUNK2_ASSEMBLY_CASPARI_VOTES.json",
+    "OT_1993CHUNK2_ASSEMBLY_DOD_VOTES.json",
+    "OT_1993CHUNK2_ASSEMBLY_NORTHWEST_VOTES.json"
+  ],
+  "errors": [],
+  "warnings": [],
+  "git_checks": "DEFERRED; not executed",
+  "scope": "Clerical checks only; legal meaning assessed in staged contexts"
+}

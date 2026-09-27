@@ -1,0 +1,183 @@
+{
+  "Hagen": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reservation boundary and state territorial jurisdiction",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Souter"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Statutory diminishment and Myton application",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "O'Connor"
+  },
+  "Meyer": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse agency damages judgment",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "FTCA exclusivity",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Former FSLIC waiver",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "No direct agency Bivens cause",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Independent fiscal and remedial ground",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Thomas"
+  },
+  "Elder": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse and remand citation restriction",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "All relevant precedent on de novo review",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Ginsburg"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Caspari": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reach Teague",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Reverse habeas grant",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stevens"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Fair inclusion",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "New rule",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "No exception",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "O'Connor"
+  }
+}

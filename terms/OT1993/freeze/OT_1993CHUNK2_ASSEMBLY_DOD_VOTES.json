@@ -1,0 +1,85 @@
+{
+  "Department of Defense v. Federal Labor Relations Authority": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse Gulfport Navy CBC Exchange enforcement through section 552a(b)(2)",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Reverse Lowry AFB Post Exchange enforcement through section 552a(b)(2)",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Labor duty incorporates FOIA exception without alteration; retained precedent governs",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Record-specific Exemption 6 balance and Privacy Act prohibition on the invoked route",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Stevens",
+    "separate_writings": [
+      {
+        "author": "Ginsburg",
+        "joins": [],
+        "relationship": "concurrence with full join in the Court opinion"
+      }
+    ]
+  }
+}

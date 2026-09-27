@@ -16,18 +16,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-01-10 | OT_1993CHUNK1 | Burden v. Zant | No. 92-8836 | MERITS | Per curiam judgment / summary disposition | Completed: Burden_v_Zant_summary_merits_1994-01-10.md |
 | 1994-01-11 | OT_1993CHUNK1 | Ratzlaf v. United States | No. 92-1196 | MERITS | Signed opinion | Completed: Ratzlaf_v_United_States_merits_1994-01-11.md |
 | 1994-01-19 | OT_1993CHUNK1 | Thunder Basin Coal Co. v. Reich | No. 92-896 | MERITS | Signed opinion | Completed: Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md |
-| 1994-01-19 | OT_1993CHUNK2 | Weiss v. United States | No. 92-1482, including Hernandez under Supreme Court Rule 12.2 | MERITS | Signed opinion | Completed: Weiss_v_United_States_merits_1994-01-19.md |
-| 1994-01-19 | OT_1993CHUNK2 | Schiro v. Farley | No. 92-7549 | MERITS | Signed opinion | Completed: Schiro_v_Farley_merits_1994-01-19.md |
-| 1994-01-24 | OT_1993CHUNK2 | Albright v. Oliver | No. 92-833 | MERITS | Signed opinion | Completed: Albright_v_Oliver_merits_1994-01-24.md |
-| 1994-01-24 | OT_1993CHUNK2 | National Organization for Women, Inc. v. Scheidler | No. 92-780 | MERITS | Signed opinion | Completed: National_Organization_for_Women_Inc_v_Scheidler_merits_1994-01-24.md |
-| 1994-01-24 | OT_1993CHUNK2 | ABF Freight System, Inc. v. NLRB | No. 92-1550 | MERITS | Signed opinion | Completed: ABF_Freight_System_v_NLRB_merits_1994-01-24.md |
-| 1994-01-24 | OT_1993CHUNK2 | Department of Revenue of Oregon v. ACF Industries, Inc. | No. 92-74 | MERITS | Signed opinion | Completed: Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md |
-| 1994-01-24 | OT_1993CHUNK2 | Northwest Airlines, Inc. v. County of Kent | No. 92-97 | MERITS | Signed opinion | Completed: Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md |
-| 1994-02-23 | OT_1993CHUNK2 | Hagen v. Utah | No. 92-6281 | MERITS | Signed opinion | Completed: Hagen_v_Utah_merits_1994-02-23.md |
-| 1994-02-23 | OT_1993CHUNK2 | FDIC v. Meyer | No. 92-741 | MERITS | Signed opinion | Completed: FDIC_v_Meyer_merits_1994-02-23.md |
-| 1994-02-23 | OT_1993CHUNK2 | Department of Defense v. Federal Labor Relations Authority | No. 92-1223 | MERITS | Signed opinion | Completed: Department_of_Defense_v_FLRA_merits_1994-02-23.md |
-| 1994-02-23 | OT_1993CHUNK2 | Elder v. Holloway | No. 92-8579 | MERITS | Signed opinion | Completed: Elder_v_Holloway_merits_1994-02-23.md |
-| 1994-02-23 | OT_1993CHUNK2 | Caspari v. Bohlen | No. 92-1500 | MERITS | Signed opinion | Completed: Caspari_v_Bohlen_merits_1994-02-23.md |
+| 1994-01-19 | OT_1993CHUNK2 | Weiss v. United States | No. 92-1482, including Hernandez under Supreme Court Rule 12.2 | MERITS | Signed opinion | Open |
+| 1994-01-19 | OT_1993CHUNK2 | Schiro v. Farley | No. 92-7549 | MERITS | Signed opinion | Open |
+| 1994-01-24 | OT_1993CHUNK2 | Albright v. Oliver | No. 92-833 | MERITS | Signed opinion | Open |
+| 1994-01-24 | OT_1993CHUNK2 | National Organization for Women, Inc. v. Scheidler | No. 92-780 | MERITS | Signed opinion | Open |
+| 1994-01-24 | OT_1993CHUNK2 | ABF Freight System, Inc. v. NLRB | No. 92-1550 | MERITS | Signed opinion | Open |
+| 1994-01-24 | OT_1993CHUNK2 | Department of Revenue of Oregon v. ACF Industries, Inc. | No. 92-74 | MERITS | Signed opinion | Open |
+| 1994-01-24 | OT_1993CHUNK2 | Northwest Airlines, Inc. v. County of Kent | No. 92-97 | MERITS | Signed opinion | Open |
+| 1994-02-23 | OT_1993CHUNK2 | Hagen v. Utah | No. 92-6281 | MERITS | Signed opinion | Open |
+| 1994-02-23 | OT_1993CHUNK2 | FDIC v. Meyer | No. 92-741 | MERITS | Signed opinion | Open |
+| 1994-02-23 | OT_1993CHUNK2 | Department of Defense v. Federal Labor Relations Authority | No. 92-1223 | MERITS | Signed opinion | Open |
+| 1994-02-23 | OT_1993CHUNK2 | Elder v. Holloway | No. 92-8579 | MERITS | Signed opinion | Open |
+| 1994-02-23 | OT_1993CHUNK2 | Caspari v. Bohlen | No. 92-1500 | MERITS | Signed opinion | Open |
 | 1994-02-23 | OT_1993CHUNK3 | American Dredging Co. v. Miller | No. 91-1950 | MERITS | Signed opinion | Open |
 | 1994-03-01 | OT_1993CHUNK3 | Fogerty v. Fantasy, Inc. | No. 92-1750 | MERITS | Signed opinion | Open |
 | 1994-03-07 | OT_1993CHUNK3 | Campbell v. Acuff-Rose Music, Inc. | No. 92-1292 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** February 23, 1994, through the five chunk 2 matters on that date; the uncoordinated February 23 group remains incomplete until American Dredging in chunk 3. Next: American Dredging Co. v. Miller (February 23, 1994, chunk 3) must use the start-of-day baseline through January 24. None of the five February 23 chunk 2 decisions supplies entering law to that uncoordinated same-day matter. All six combine only prospectively after the group.
+- **Current chronology cursor.** January 19, 1994, through Thunder Basin; the January 19 uncoordinated group is not complete. Next: Weiss v. United States and Schiro v. Farley (January 19, 1994, chunk 2). They must use the start-of-day baseline through January 11, including the January 1 statutory source; Thunder Basin is excluded from their entering law. All three decisions combine only prospectively after that same-day group.
 
 ## Manifest controls and limitations
 
@@ -138,10 +138,10 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **1994-01-01:** [South Carolina 1993 Act No. 184, H.3151; relevant to Cavanaugh v. Roller, No. 92-1510.](../records/South_Carolina_Act_184_effective_source_1994-01-01.md#public-projection) The enacted amendment to S.C. Code §16-1-60 and its transition rule take effect according to §§266 and 269; no Court disposition or judicial construction is supplied.
 
-## Continuing unresolved matters
+## Chunk 1 continuation
 
 - **Day v. Day:** Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline.
 - **In re Sassower:** Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition.
 - **Cavanaugh v. Roller:** Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
 
-American Dredging Co. v. Miller (February 23, 1994, chunk 3) must use the start-of-day baseline through January 24. None of the five February 23 chunk 2 decisions supplies entering law to that uncoordinated same-day matter. All six combine only prospectively after the group.
+Weiss v. United States and Schiro v. Farley (January 19, 1994, chunk 2). They must use the start-of-day baseline through January 11, including the January 1 statutory source; Thunder Basin is excluded from their entering law. All three decisions combine only prospectively after that same-day group.

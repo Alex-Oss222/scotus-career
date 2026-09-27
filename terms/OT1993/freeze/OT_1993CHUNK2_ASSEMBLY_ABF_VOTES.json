@@ -1,0 +1,62 @@
+{
+  "ABF": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Forfeiture",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Case-specific review",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Public-remedy and sufficient-explanation holding",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Stevens"
+  }
+}

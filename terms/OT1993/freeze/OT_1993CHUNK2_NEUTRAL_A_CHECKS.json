@@ -1,0 +1,87 @@
+{
+  "cases": {
+    "## 13. Weiss v. United States, No. 92-1482, including Hernandez": {
+      "eight_distinct_rows": true,
+      "names": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    "## 14. Schiro v. Farley, No. 92-7549": {
+      "eight_distinct_rows": true,
+      "names": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    "## 15. Albright v. Oliver, No. 92-833": {
+      "eight_distinct_rows": true,
+      "names": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    "## 16. National Organization for Women, Inc. v. Scheidler, No. 92-780": {
+      "eight_distinct_rows": true,
+      "names": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    "## 17. ABF Freight System, Inc. v. NLRB, No. 92-1550": {
+      "eight_distinct_rows": true,
+      "names": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    "## 18. Department of Revenue of Oregon v. ACF Industries, No. 92-74": {
+      "eight_distinct_rows": true,
+      "names": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    }
+  },
+  "all_named_rows_pass": true,
+  "local_links_pass": true,
+  "link_failures": [],
+  "runtime_freeze_identity": true,
+  "git_checks": "Not run; forbidden by user"
+}

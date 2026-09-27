@@ -1,0 +1,211 @@
+{
+  "Albright v. Oliver": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm dismissal of presented substantive-due-process claim",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens"
+        ]
+      }
+    ],
+    "propositions": [],
+    "author": "O'Connor (plurality; no controlling rationale)",
+    "noncontrolling_rationales": [
+      {
+        "name": "Bounded specific-source analysis",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Distinct prosecution/due-process analysis and conditional state-remedy ground",
+        "support": [
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Absence of additional substantial injury",
+        "support": [
+          "Souter"
+        ]
+      }
+    ]
+  },
+  "National Organization for Women, Inc. v. Scheidler": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Two clinics' pleading-stage standing",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Reverse section 1962(c) economic-motive dismissal",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Reverse dependent section 1962(d) dismissal",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Two clinics' own pleaded injury suffices at this stage",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "No added economic-motive requirement under section 1962(c)",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Blackmun"
+  },
+  "Department of Revenue of Oregon v. ACF Industries, Inc.": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse and remand under ordinary-exemption no-coverage construction",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stevens"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Ordinary property-tax comparison excludes exempt property",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Ordinary exemptions do not become forbidden discrimination under the catchall",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "author": "Kennedy",
+    "distinct_dissent_remedy": "Stevens would vacate and remand for actual discrimination and lawful remedy analysis; he does not join Path A merely because it also remands."
+  }
+}

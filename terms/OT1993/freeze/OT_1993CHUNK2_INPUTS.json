@@ -1,0 +1,38 @@
+{
+  "brief": "OT_1993CHUNK2.md",
+  "approved": "User directs adjudication using Section II as written, 2026-09-27",
+  "mode": "isolated-context",
+  "git": "No Git commands authorized; disk-frozen handoffs pending operator commit",
+  "areas": [
+    "constitutional-structure",
+    "criminal-procedure",
+    "civil-rights",
+    "labor-and-employment",
+    "federal-taxation",
+    "federal-indian-law",
+    "federal-courts",
+    "administrative-law",
+    "tort-law",
+    "property-and-economic-rights",
+    "business-and-commercial-law"
+  ],
+  "standards": [
+    "Impartiality of balanced bar-dues arbitration panels",
+    "Neutral adjudication and withdrawal-liability rebuttal",
+    "Successive prosecutions, evidentiary overlap and criminal contempt",
+    "Factually unsupported lawful grounds in general verdicts and capital recommendations",
+    "Voluntary public employment and substantive workplace safety duties",
+    "Possessory seizures and the claimant's own Fourth Amendment interest",
+    "Individual-capacity liability for official conduct under \u00a71983",
+    "Direct relation between a civil RICO violation and injury",
+    "Direction of enterprise affairs under \u00a71962(c)",
+    "Private-conspiracy deprivation claims under \u00a71985(3)",
+    "Nonemployee organizers' access under a nondiscriminatory exclusion policy",
+    "Container importation exemptions and local lease taxation",
+    "Regulation following statutory acquisition of treaty lands",
+    "Kansas concurrent state criminal jurisdiction",
+    "Indian-country residence, source and state member taxation",
+    "Federal sovereign immunity from affirmative bankruptcy money judgments",
+    "The FTCA's punitive-damages exclusion"
+  ]
+}

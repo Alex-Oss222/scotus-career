@@ -1,0 +1,191 @@
+**Case and dockets:** Hagen v. Utah; No. 92-6281.
+**Event and date:** Merits decision; 1994-02-23; OT1993.
+**Result:** Utah Supreme Court affirmed, 6–3.
+**Version / lineage:** Initial adjudication; supersedes no completed event. Durable filesystem record for operator review; no Git operation or repository commitment is claimed, under the user's express no-Git instruction.
+
+## Event, participation and entering law
+
+The term-opening trackers are the completed OT1992 set, processed through July 26, 1993, edition September 17, 2026. The frozen entering neutral projection and `../entering-law/OT_1993CHUNK2.md` supply the reading baseline; Records remain authoritative. Effective current-term law through January 24, 1994 enters this event. The February 23 group contains Hagen, Meyer, Department of Defense, Elder, Caspari and American Dredging; these uncoordinated decisions use the same start-of-day baseline and do not supply authority to one another. American Dredging is assigned to chunk 3. No later decision enters this record.
+
+All nine seated Justices participate at argument and decision: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. No recusal or other nonparticipation is established. The quorum is six and the judgment majority is five. The public record supplies the certiorari review channel and the user supplies the decision calendar; neither an additional grant nor a conference vote is invented. Questions are reconstructed in substance, not represented as authenticated verbatim petition language. Roster, seniority, allotments and standing practices remain unchanged.
+
+Hagen v. Utah, No. 92-6281; 510 U.S. 399. Merits decision, February 23, 1994. Argued November 2, 1993. On certiorari to the Supreme Court of Utah, 858 P.2d 925, which reinstated Hagen's conviction for distribution of a controlled substance in Myton. The intermediate appellate court had vacated the conviction because it regarded Myton as Indian country. Hagen's status as an Indian is settled for this review. The question is whether Congress diminished the Uintah Reservation through the enactments opening its unallotted lands, thereby permitting the territorial criminal jurisdiction asserted in this prosecution. Myton is within the original reservation boundaries and in the opened area.
+
+The May 27, 1902 Act, 32 Stat. 263–264, conditioned allotment on consent of a majority of the adult male Uintah and White River Ute Indians. It provided eighty acres of irrigable agricultural land to each head of family and forty acres to each other member, with allotments by October 1, 1903, and directed restoration of unallotted lands to the public domain at that time. Homestead entrants were to pay $1.25 per acre. Sale proceeds first reimbursed federal advances implementing the program; the remainder benefited the Indians under the Secretary's direction. The separately appropriated $70,064.48 settled other claims and was originally payable upon majority consent to allotment and restoration; it was not a fixed purchase price for the surplus lands. The June 19, 1902 resolution required adequate common grazing land to be set aside before opening and released that payment without awaiting consent to allotment or restoration.
+
+The March 3, 1903 Act authorized allotment without consent if consent was not obtained by June 1, 1903, confined the common grazing lands to no more than 250,000 acres south of the Strawberry River, and postponed opening under the earlier program until October 1, 1904. The April 21, 1904 Act funded the necessary surveys and postponed opening again, to March 10, 1905. The March 3, 1905 Act expressly repealed the south-of-Strawberry location restriction and postponed opening until September 1, 1905, unless the President chose an earlier date. It prescribed homestead and townsite disposition by presidential proclamation, barred settlement, occupation or entry except as the proclamation prescribed during the first sixty days, and directed cash disposal of land remaining after five years, in parcels of no more than 640 acres to one person. It retained the earlier sale-proceeds arrangement but did not repeat the public-domain phrase or expressly repeal it generally. The July 14 proclamation recited the earlier restoration instruction and opened the lands under the prescribed entry arrangements on August 28, 1905. Congress never obtained the required majority consent; the later statutory authority to proceed without it therefore matters.
+
+Review lies under 28 U.S.C. §1257. The preserved question is the federal boundary premise. The Standards entries Regulation following statutory acquisition of treaty lands (Bourland, effective June 14, 1993), Kansas concurrent state criminal jurisdiction (Negonsott, effective February 24, 1993), and Indian-country residence, source and state member taxation (Sac and Fox, effective May 17, 1993) retain their exact limits. None decides this reservation boundary. Current Izumi, effective November 30, 1993, preserves the difference between an omitted question and arguments within a preserved question; no general preclusion ruling is necessary.
+
+## Stone control and revalidation
+
+The user approved Section II as written; the mechanically selected `../runtime/OT_1993CHUNK2_STONE_B_UNAFFECTED.md` controls. Stone reverses on the absence of sufficiently clear congressional diminishment after the entire statutory sequence is considered, and would remand to set aside the judgment resting on that territorial premise. His dissent is not reduced to an objection to opening alone. It concedes the 1902 wording's substantial force, the intervening cross-references, retained proceeds and absence of general express repeal, then explains why the final opening mechanism and omitted wording leave the boundary intent ambiguous under Solem. It neither imposes a cession-and-fixed-payment requirement nor excludes subsequent practice categorically. Stone joins Blackmun's dissent in full because its precise position and remedy embody these approved limits; private titles, other lawful prosecutions and unrelated powers remain open. His expressly stated nonreach of preclusion is preserved. No fallback is used; no new choice is inferred.
+
+## Judgment and opinion topology
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Reservation boundary and resulting territorial jurisdiction in this prosecution | Affirm, 6–3 | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Stone-Zsela, Blackmun, Souter | Utah's reinstatement of the conviction stands; dissent would reverse and remand to set aside the judgment resting on the rejected territorial premise |
+
+All nine leave the separate preclusion issue unadjudicated. No additional relief or general jurisdictional allocation is ordered.
+
+Render form: full. The divided reservation-boundary decision requires the judgment and writing tables.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Thomas, Ginsburg | Affirmance | Entire bounded statutory construction, application and limits |
+| Dissent | Blackmun | Stone-Zsela, Souter | Reversal and remand | Entire statutory-sequence disagreement and confined remedy |
+
+## Controlling holdings
+
+### Congressional diminishment and the jurisdiction asserted at Myton
+
+**Controlling proposition:** Congress diminished the Uintah Reservation as to the unallotted lands covered by the opening program: the 1902 operative direction restoring those lands to the public domain remained effective through the 1903–1905 amendments and implementation. Myton's location in that opened area is therefore outside the reservation on this record, and Utah may exercise the territorial criminal jurisdiction asserted over Hagen's offense; opening or fee ownership alone does not establish that result elsewhere.
+
+**Authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Thomas and Ginsburg. These six Justices adopt the statutory construction, its clear-intent basis and its application to this prosecution. There is a direct majority rationale; no fractured-opinion inference is necessary.
+
+**Controlling explanation:** The Court holds that the enactments must be read together. Solem requires congressional intent to diminish, gives statutory language primary weight, and resolves remaining ambiguity for the Indians. Its framework does not require a particular cession formula or fixed purchase payment. Rosebud shows that later implementation can preserve an earlier boundary decision. Here the 1902 restoration command has operative force beyond permission to sell. The later Acts postponed that program, supplied surveys and altered its implementation. The 1905 Act retained the proceeds arrangement and depended on the earlier allotment provisions. Its homestead and townsite restrictions can operate alongside restoration; its omission of the earlier phrase therefore does not establish repeal. Congress expressly repealed the geographic grazing restriction, further supporting this reading of the remaining provisions. Seymour and Mattz distinguish opening alone from an actual boundary change; this statutory sequence establishes the latter. Contemporary administrative understandings and subsequent settlement can corroborate that conclusion, but neither supplies congressional authority independently. The holding establishes the territorial premise for this Myton prosecution without deciding every parcel, retained tribal power or other category of Indian country.
+
+**Precedent treatment:**
+
+- Solem v. Bartlett, 465 U.S. 463: applies its clear-intent inquiry and unequal weighting of text, contemporaneous context and later treatment; distinguishes its nonoperative public-domain reference from the surviving operative command here.
+- Rosebud Sioux Tribe v. Kneip, 430 U.S. 584: applies statutory continuity across a sequence of enactments and preserves the rule that no particular formula or fixed payment is indispensable.
+- Seymour v. Superintendent, 368 U.S. 351: preserves the distinction between opening and boundary change and the rule that fee ownership within retained boundaries does not itself remove Indian-country status.
+- Mattz v. Arnett, 412 U.S. 481: preserves the need for congressional diminishment beyond mere sale and settlement; this sequence supplies the additional direction.
+- DeCoteau v. District County Court, 420 U.S. 425: preserves clear congressional cession as sufficient evidence without making its precise words or payment structure mandatory.
+- South Dakota v. Bourland, June 14, 1993: preserves its particular displacement of exclusion-derived regulation and its separate residual-authority inquiry; it does not itself establish reservation boundaries.
+- Negonsott v. Samuels, February 24, 1993: preserves its express Kansas-specific criminal authorization; it supplies no independent Utah authorization within Indian country.
+- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves the distinct §1151 categories and the need to determine actual Indian-country status.
+
+**Limits and questions not reached:** The collateral-estoppel issue arising from Ute Indian Tribe v. Utah was omitted from the petition and expressly disavowed by Hagen; the Court does not decide its merits. This case does not adjudicate private titles, all remaining trust or allotted lands, every tract of the larger Uintah and Ouray territory, unrelated tribal powers, or every sovereign's jurisdiction over every offense. The $70,064.48 payment is not relied upon as a purchase of the surplus land. Later population and state administration do not independently change boundaries.
+
+## Law after decision
+
+Effective February 23, 1994, the Court's construction of the Uintah opening enactments establishes diminishment for the opened area implicated by Myton and sustains the jurisdiction asserted in this prosecution. Solem's existing clear-intent inquiry remains the governing method. The decision rejects a mandatory cession-wording or sum-certain-payment requirement without weakening the rule that opening, alienation or demographic change alone is insufficient. It supplies no universal rule assigning all fee parcels to state jurisdiction and does not displace the separate retained powers and Indian-country categories recognized in Bourland and Sac and Fox.
+
+## Continuity — published noncontrolling positions
+
+Blackmun dissents, joined by Chief Justice Stone-Zsela and Souter. The dissent would reverse the Utah Supreme Court and remand for disposition of the prosecution consistently with the absence of the asserted territorial jurisdiction. Its disagreement concerns the application of Solem's requirement of clear congressional intent, not Congress's power to act or an indispensable wording or payment formula.
+
+The 1902 restoration language is substantial evidence for the State and cannot be dismissed as an ordinary opening provision. The dissent nevertheless finds that the final 1905 enactment leaves the territorial consequence uncertain. Congress changed the manner of disposition, omitted the public-domain language from the operative opening directions, and expressly carried forward the use of proceeds for the Indians. The cross-references in the intervening Acts and the absence of an express general repeal support continuity, but do not remove the difference between continuing allotment and sale arrangements and clearly preserving a change in jurisdictional boundaries. The express repeal of the grazing-location restriction proves that Congress made that particular change; it does not conclusively settle the force of every omission elsewhere. The dissent neither treats the entire 1902 Act as repealed nor makes tribal consent after the 1903 authorization a continuing statutory prerequisite.
+
+Seymour and Mattz establish that opening land to settlers is compatible with retained reservation boundaries. Rosebud supports the State's continuity argument, but the dissent distinguishes its established cession purpose from the ambiguity remaining in this sequence. Neither absence of a fixed purchase payment nor retained sale proceeds alone controls; the payment here settled separate claims. Under Solem, uncertainty after reading the enactments in context must be resolved for retained Indian rights.
+
+The administrative history does not supply the missing clarity. Inspector McLaughlin described removal of an outside boundary but also promised continuing agency protection and privileges; the proclamation cannot itself exercise Congress's boundary power. The later jurisdictional history includes competing tribal and federal assertions, and non-Indian settlement cannot amend an Act. The dissent gives such evidence its subordinate role rather than categorically excluding it. Section 1151 does not make a fee patent within retained boundaries dispositive. Reversal on this territorial ground would leave private titles and any other sovereign's lawful prosecution undisturbed. The dissent does not rely on the disavowed preclusion theory or claim that all surplus-land enactments preserve reservations.
+
+These positions, published February 23, 1994, belong to Blackmun, Stone-Zsela and Souter and remain noncontrolling. There is no roster, allotment or independent open Supreme Court matter created by this decision.
+
+## Adaptive audit annex
+
+The independent B modeling context received no current Stone supplement or comparator. The separate reconciliation context received the frozen commitments and comparator but no Stone supplement. This assembly context received the reconciled freeze before the mechanically selected Stone supplement. The sources are `../freeze/OT_1993CHUNK2_COMMITMENTS_B.md`, `../freeze/OT_1993CHUNK2_RECONCILED_B_UNAFFECTED.md`, `../freeze/NEUTRAL_VALIDATION_B.md`, and the relevant source-validation report. The original freezes remain unchanged. Authorship and final joins below are assembly determinations under Engine §8, not imported historical facts. No non-Stone disposition or sufficient ground changes at assembly; the final formulations satisfy recorded limits. No fictional circulation dialogue or unobserved draft history is asserted.
+
+Assembly also read the complete actual ABF, Albright and NOW public handoff at `../entering-law/OT_1993CHUNK2_JAN24_PARTIAL_PUBLIC.md`. ABF governs review of a delegated NLRA remedy, NOW construes enacted RICO elements and pleading-stage standing, and Albright announces no controlling general due-process or damages rule. None changes a material premise of this decision. The operator's completed final dependency check of actual ACF and Northwest is preserved in ../freeze/OT_1993CHUNK2_FINAL_DEPENDENCY_CHECK.md. Their specific tax and airport-fee holdings change no material premise of this decision; no anticipated or same-day peer holding supplies authority.
+
+The frozen neutral model supports six affirmances and two reversals among the associates; reconciliation retains each. The official comparator is 7–2, with Rehnquist joining affirmance and Blackmun/Souter dissenting. Every non-Stone judgment and controlling level of support agrees with that comparison on unchanged statutory and record premises. Stone's opposite vote changes the Court's margin and controlling coalition through the authorized substitution alone. No unsupported non-Stone historical departure is manufactured.
+
+**Historical departure:** Stone-Zsela's approved application of Solem treats the 1905 changes and omitted restoration language as leaving insufficient clarity despite the substantial 1902 continuity evidence; his reversal position replaces Rehnquist's historical affirmance and produces a six-Justice controlling coalition and three-Justice dissent. The six affirming associates and Blackmun/Souter retain their historical positions on unchanged premises.
+
+| Justice | Frozen commitment and personal legal basis | Reconciliation and final join; objection and minimum formulation |
+|---|---|---|
+| Blackmun | Reverse boundary/jurisdiction; no preclusion ruling. His Solem join and Bourland dissent require clarity about the particular right displaced; his Rosebud join is contrary support that must be distinguished. | Retained; authors the dissent. A Court opinion preserving only other tribal rights cannot answer his objection to diminishment itself; reversal on the insufficient-clear-intent reading would be necessary. Dissent expressly distinguishes Rosebud and rejects a mandatory formula or fixed-payment condition, satisfying his frozen limit. |
+| Stevens | Affirm on the surviving restoration direction; no preclusion ruling. His Rosebud and Solem joins support continuity under a clear-intent inquiry, and his Bourland join remains limited to the right actually displaced. | Retained; joins the whole Court opinion. Minimum limits: payment must not be called a purchase price and demographics cannot supply congressional intent. Both are explicit; no revision of his commitment occurs. He refuses the dissent's conclusion because the cross-references and selective repeal preserve restoration. |
+| O'Connor | Affirm; no preclusion ruling. Her Solem and Bourland joins support the particular statutory-effect inquiry; Rosebud is binding authority, not an invented personal join. | Retained; authors the Court opinion. She requires the earlier command to be read with the final entry provisions, rejects mere settlement as sufficient, and reserves unrelated allotment jurisdiction. Those limits are adopted; the dissent's nondiminishment conclusion remains incompatible. |
+| Scalia | Affirm on text and structure; no preclusion ruling. His Bourland, Hancock and Ratzlaf positions support operative language and statutory categories. | Retained; joins the whole opinion because restoration and the implementing sequence independently supply its ground. No indispensable inference from debates, an inspector, or population appears. A formulation making those extrinsic matters necessary would require removing that dependency before he could join. He rejects the dissent's reading of the 1905 Act as insufficient continuity. |
+| Kennedy | Affirm; no preclusion ruling. His Bourland join and Sac and Fox framework keep boundary and other Indian-country inquiries separate. | Retained; full Court join. The necessary limitation preserves other §1151 categories and tribal powers and makes the enactment sequence, not expectations, controlling. It is present; no new commitment results. He refuses the dissent's construction on the same statutory ground. |
+| Souter | Reverse; no preclusion ruling. His Bourland dissent insists that public access and acquisition do not automatically extinguish a distinct retained right; Solem supplies binding boundary law. | Retained; joins the whole dissent. He accepts the force of the 1902 wording but finds ambiguity after the 1905 change. Removing a demographic rationale cannot alone secure a Court join; the boundary conclusion would have to change. Dissent reserves genuinely clear diminishment statutes and does not adopt universal nondiminishment. |
+| Thomas | Affirm; no preclusion ruling. His Bourland opinion identifies a particular statutory displacement while reserving boundaries; his Ratzlaf and Hancock positions resist requirements beyond the text. | Retained; full Court join on the enactments. No reliance on legislative history, payment-as-purchase, or demographic amendment is necessary. Such a premise would need removal; the present opinion already excludes it. The dissent's ambiguity conclusion does not follow from his reading of the unrepealed direction. |
+| Ginsburg | Affirm; no preclusion ruling. Her Hancock and Izumi positions supply statutory method and question limits; Solem/Rosebud supply governing boundary doctrine, without an invented earlier personal diminishment decision. | Retained; full Court join. The original consent condition, later unilateral authority, payment and specific grazing repeal are accurately retained. An unqualified opening-equals-diminishment rule would require narrowing. The text supplies that narrowing; she rejects the dissent's view of continued ambiguity. |
+
+Assignment: Stone is outside the affirming majority. Stevens is its senior participating Associate Justice and assigns O'Connor, whose Solem and related Indian-law work supports a clear statutory opinion capable of retaining all six. Blackmun's own boundary analysis and seniority within the associate dissenters support his authorship of the compatible common dissent. Seniority supplies assignment authority, not automatic authorship. These are final compatibility determinations; no unseen historical drafts are imported. The majority's corroboration is expressly subordinate, so Scalia and Thomas do not acquire an unrecorded indispensable extrinsic ground. All six support the exact holding at its stated level; all three dissenters support reversal and the stated remand. No Marks synthesis is used.
+
+## Sources, cutoff and validation
+
+Research cutoff: immediately before February 23, 1994; no later law or external event is used. Official report [510 U.S. 399–442](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510399/usrep510399.pdf), preserved in `../freeze/chunk2-sources/Hagen-510-399.txt`, supplies the statutory quotations, argument date, Myton facts, lower-court path and comparator. All forty-four PDF pages, including the dissent, were examined in the source/reconciliation chain and in assembly. The complete Utah lower opinion, 858 P.2d 925, and complete Solem/Rosebud were independently recovered and read by the clean B context, as documented in `../freeze/NEUTRAL_VALIDATION_B.md`. The full original briefs, joint appendix and all legislative materials were not independently recovered; reported passages are not represented as a complete archival record. This limitation does not prevent the bounded statutory question, but no omitted concession, title fact or preserved preclusion issue is invented.
+
+The material statutes are the May 27, 1902 Act, 32 Stat. 263–264; June 19, 1902 resolution, 32 Stat. 744–745; March 3, 1903 Act, 32 Stat. 997–998; April 21, 1904 Act, 33 Stat. 207–208; March 3, 1905 Act, 33 Stat. 1069–1070; and July 14, 1905 proclamation, 34 Stat. 3119–3120. The statute, not an administrator or later demographic fact, supplies the boundary authority. Source facts and comparator facts remain distinct from this Court's entered holding.
+
+Validation: the assembly compares every final join with the frozen scope, reconciles six affirming and three dissenting participants, preserves all approved Stone limits, and uses the identical holding text in the Public Projection. The record is durably written at the natural-key location below; root coordination will validate the complete chunk and update the workspace. This statement claims no Git commit or completed downstream render.
+
+## Public Projection
+
+## Event
+
+Hagen v. Utah, No. 92-6281; 510 U.S. 399. Merits decision, February 23, 1994. Argued November 2, 1993. On certiorari to the Supreme Court of Utah, 858 P.2d 925, which reinstated Hagen's conviction for distribution of a controlled substance in Myton. The intermediate appellate court had vacated the conviction because it regarded Myton as Indian country. Hagen's status as an Indian is settled for this review. The question is whether Congress diminished the Uintah Reservation through the enactments opening its unallotted lands, thereby permitting the territorial criminal jurisdiction asserted in this prosecution. Myton is within the original reservation boundaries and in the opened area.
+
+The May 27, 1902 Act, 32 Stat. 263–264, conditioned allotment on consent of a majority of the adult male Uintah and White River Ute Indians. It provided eighty acres of irrigable agricultural land to each head of family and forty acres to each other member, with allotments by October 1, 1903, and directed restoration of unallotted lands to the public domain at that time. Homestead entrants were to pay $1.25 per acre. Sale proceeds first reimbursed federal advances implementing the program; the remainder benefited the Indians under the Secretary's direction. The separately appropriated $70,064.48 settled other claims and was originally payable upon majority consent to allotment and restoration; it was not a fixed purchase price for the surplus lands. The June 19, 1902 resolution required adequate common grazing land to be set aside before opening and released that payment without awaiting consent to allotment or restoration.
+
+The March 3, 1903 Act authorized allotment without consent if consent was not obtained by June 1, 1903, confined the common grazing lands to no more than 250,000 acres south of the Strawberry River, and postponed opening under the earlier program until October 1, 1904. The April 21, 1904 Act funded the necessary surveys and postponed opening again, to March 10, 1905. The March 3, 1905 Act expressly repealed the south-of-Strawberry location restriction and postponed opening until September 1, 1905, unless the President chose an earlier date. It prescribed homestead and townsite disposition by presidential proclamation, barred settlement, occupation or entry except as the proclamation prescribed during the first sixty days, and directed cash disposal of land remaining after five years, in parcels of no more than 640 acres to one person. It retained the earlier sale-proceeds arrangement but did not repeat the public-domain phrase or expressly repeal it generally. The July 14 proclamation recited the earlier restoration instruction and opened the lands under the prescribed entry arrangements on August 28, 1905. Congress never obtained the required majority consent; the later statutory authority to proceed without it therefore matters.
+
+## Participation
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+## Public Action
+
+The judgment of the Supreme Court of Utah is affirmed, 6–3.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Reservation boundary and resulting territorial jurisdiction in this prosecution | Affirm, 6–3 | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Stone-Zsela, Blackmun, Souter | Utah's reinstatement of the conviction stands; dissent would reverse and remand to set aside the judgment resting on the rejected territorial premise |
+
+All nine leave the separate preclusion issue unadjudicated. No additional relief or general jurisdictional allocation is ordered.
+
+## Opinion Topology
+
+Render form: full. The divided reservation-boundary decision requires the judgment and writing tables.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Thomas, Ginsburg | Affirmance | Entire bounded statutory construction, application and limits |
+| Dissent | Blackmun | Stone-Zsela, Souter | Reversal and remand | Entire statutory-sequence disagreement and confined remedy |
+
+## Holdings
+
+### Congressional diminishment and the jurisdiction asserted at Myton
+
+**Controlling proposition:** Congress diminished the Uintah Reservation as to the unallotted lands covered by the opening program: the 1902 operative direction restoring those lands to the public domain remained effective through the 1903–1905 amendments and implementation. Myton's location in that opened area is therefore outside the reservation on this record, and Utah may exercise the territorial criminal jurisdiction asserted over Hagen's offense; opening or fee ownership alone does not establish that result elsewhere.
+
+**Authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Thomas and Ginsburg. These six Justices adopt the statutory construction, its clear-intent basis and its application to this prosecution. There is a direct majority rationale; no fractured-opinion inference is necessary.
+
+**Controlling explanation:** The Court holds that the enactments must be read together. Solem requires congressional intent to diminish, gives statutory language primary weight, and resolves remaining ambiguity for the Indians. Its framework does not require a particular cession formula or fixed purchase payment. Rosebud shows that later implementation can preserve an earlier boundary decision. Here the 1902 restoration command has operative force beyond permission to sell. The later Acts postponed that program, supplied surveys and altered its implementation. The 1905 Act retained the proceeds arrangement and depended on the earlier allotment provisions. Its homestead and townsite restrictions can operate alongside restoration; its omission of the earlier phrase therefore does not establish repeal. Congress expressly repealed the geographic grazing restriction, further supporting this reading of the remaining provisions. Seymour and Mattz distinguish opening alone from an actual boundary change; this statutory sequence establishes the latter. Contemporary administrative understandings and subsequent settlement can corroborate that conclusion, but neither supplies congressional authority independently. The holding establishes the territorial premise for this Myton prosecution without deciding every parcel, retained tribal power or other category of Indian country.
+
+**Precedent treatment:**
+
+- Solem v. Bartlett, 465 U.S. 463: applies its clear-intent inquiry and unequal weighting of text, contemporaneous context and later treatment; distinguishes its nonoperative public-domain reference from the surviving operative command here.
+- Rosebud Sioux Tribe v. Kneip, 430 U.S. 584: applies statutory continuity across a sequence of enactments and preserves the rule that no particular formula or fixed payment is indispensable.
+- Seymour v. Superintendent, 368 U.S. 351: preserves the distinction between opening and boundary change and the rule that fee ownership within retained boundaries does not itself remove Indian-country status.
+- Mattz v. Arnett, 412 U.S. 481: preserves the need for congressional diminishment beyond mere sale and settlement; this sequence supplies the additional direction.
+- DeCoteau v. District County Court, 420 U.S. 425: preserves clear congressional cession as sufficient evidence without making its precise words or payment structure mandatory.
+- South Dakota v. Bourland, June 14, 1993: preserves its particular displacement of exclusion-derived regulation and its separate residual-authority inquiry; it does not itself establish reservation boundaries.
+- Negonsott v. Samuels, February 24, 1993: preserves its express Kansas-specific criminal authorization; it supplies no independent Utah authorization within Indian country.
+- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves the distinct §1151 categories and the need to determine actual Indian-country status.
+
+**Limits and questions not reached:** The collateral-estoppel issue arising from Ute Indian Tribe v. Utah was omitted from the petition and expressly disavowed by Hagen; the Court does not decide its merits. This case does not adjudicate private titles, all remaining trust or allotted lands, every tract of the larger Uintah and Ouray territory, unrelated tribal powers, or every sovereign's jurisdiction over every offense. The $70,064.48 payment is not relied upon as a purchase of the surplus land. Later population and state administration do not independently change boundaries.
+
+## Precedent Treatment
+
+The treatments and limits stated with the holding govern. No cited precedent is overruled. The Court leaves the merits of the disavowed preclusion theory unresolved.
+
+## Law After Decision
+
+Effective February 23, 1994, the Court's construction of the Uintah opening enactments establishes diminishment for the opened area implicated by Myton and sustains the jurisdiction asserted in this prosecution. Solem's existing clear-intent inquiry remains the governing method. The decision rejects a mandatory cession-wording or sum-certain-payment requirement without weakening the rule that opening, alienation or demographic change alone is insufficient. It supplies no universal rule assigning all fee parcels to state jurisdiction and does not displace the separate retained powers and Indian-country categories recognized in Bourland and Sac and Fox.
+
+## Separate Writings
+
+Blackmun dissents, joined by Chief Justice Stone-Zsela and Souter. The dissent would reverse the Utah Supreme Court and remand for disposition of the prosecution consistently with the absence of the asserted territorial jurisdiction. Its disagreement concerns the application of Solem's requirement of clear congressional intent, not Congress's power to act or an indispensable wording or payment formula.
+
+The 1902 restoration language is substantial evidence for the State and cannot be dismissed as an ordinary opening provision. The dissent nevertheless finds that the final 1905 enactment leaves the territorial consequence uncertain. Congress changed the manner of disposition, omitted the public-domain language from the operative opening directions, and expressly carried forward the use of proceeds for the Indians. The cross-references in the intervening Acts and the absence of an express general repeal support continuity, but do not remove the difference between continuing allotment and sale arrangements and clearly preserving a change in jurisdictional boundaries. The express repeal of the grazing-location restriction proves that Congress made that particular change; it does not conclusively settle the force of every omission elsewhere. The dissent neither treats the entire 1902 Act as repealed nor makes tribal consent after the 1903 authorization a continuing statutory prerequisite.
+
+Seymour and Mattz establish that opening land to settlers is compatible with retained reservation boundaries. Rosebud supports the State's continuity argument, but the dissent distinguishes its established cession purpose from the ambiguity remaining in this sequence. Neither absence of a fixed purchase payment nor retained sale proceeds alone controls; the payment here settled separate claims. Under Solem, uncertainty after reading the enactments in context must be resolved for retained Indian rights.
+
+The administrative history does not supply the missing clarity. Inspector McLaughlin described removal of an outside boundary but also promised continuing agency protection and privileges; the proclamation cannot itself exercise Congress's boundary power. The later jurisdictional history includes competing tribal and federal assertions, and non-Indian settlement cannot amend an Act. The dissent gives such evidence its subordinate role rather than categorically excluding it. Section 1151 does not make a fee patent within retained boundaries dispositive. Reversal on this territorial ground would leave private titles and any other sovereign's lawful prosecution undisturbed. The dissent does not rely on the disavowed preclusion theory or claim that all surplus-land enactments preserve reservations.
+
+## Procedure After Action
+
+The conviction reinstated by the Utah Supreme Court remains in place. No merits remand, title adjudication, damages award or order reallocating all jurisdiction in the region issues. Proceedings implementing the affirmed judgment remain for the Utah courts.
+
+## Source Notes
+
+The enactments and procedural record appear in the [United States Reports, 510 U.S. 399](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510399/usrep510399.pdf); the judgment below is 858 P.2d 925. The legal account paraphrases the statutes and verified record. The separate preclusion issue was expressly disavowed and supplies no alternative ground.
