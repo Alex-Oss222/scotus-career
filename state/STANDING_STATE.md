@@ -53,11 +53,10 @@ The [order effective August 10, 1993](https://github.com/Alex-Oss222/scotus-care
 
 ## 4. Docket of Cases Brought Up
 
-| Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
-|---|---|---|---|---|
-
 The former paid/form-compliance conditions in *Zatko* and *Martin v. McDermott* were administratively closed on October 1, 1993 and are not OT1993 opening matters. See `terms/OT1992/records/Administrative_finality_unperfected_fee_conditions_1993-10-01.md`.
 
+| Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
+|---|---|---|---|---|
 | *Wyoming v. Oklahoma*, No. 112, Original; 502 U.S. 437 (1992) | Original action; no lower-court judgment. | Carried through OT1992 from OT1991 as a matter the Court left open. | Declaratory judgment and injunction issued; original jurisdiction retained for implementation. | [January 22, 1992 Decision Record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Wyoming_v_Oklahoma_merits_1992-01-22.md); [final workspace](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/workspace.md#opening-carryovers-and-institutional-calendar). |
 | *Reynolds v. International Amateur Athletic Federation*, No. A-954; 505 U.S. 1301 (1992) | Sixth Circuit, June 19, 1992 stay of the Southern District of Ohio's preliminary injunction. | Carried through OT1992 from OT1991 as a matter the Court left open. | Limited United States Olympic Trials interim protection pending further Court order. | [June 20, 1992 Decision Record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Reynolds_v_International_Amateur_Athletic_Federation_application_for_stay_1992-06-20.md); [final workspace](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/workspace.md#opening-carryovers-and-institutional-calendar). |
 | *Grubbs v. Delo*, No. A-324; 506 U.S. 1301 (1992) | Eighth Circuit vacatur of the Eastern District of Missouri's stay of execution. | Carried over from OT1992 as a matter the Court left open. | Application pending; temporary administrative stay granted pending further Court order. | [October 20, 1992 Decision Record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/Grubbs_v_Delo_administrative_stay_1992-10-20.md); [final workspace](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/workspace.md#5-current-procedure-and-institution). |
