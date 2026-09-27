@@ -159,7 +159,7 @@ By an equally divided Court, 4–4, the application to vacate the Eighth Circuit
 
 #### Precedent Treatment and Current-Law Effect
 
-No precedent is overruled. The simulated Herrera holding is unchanged.
+No precedent is overruled. the Herrera holding is unchanged.
 
 Effective July 21, 1993: no new precedent enters current law; an equally divided Court decides only this application. The Eighth Circuit's stay of execution remains in effect, and its further examination of the record continues below, outside this Court's docket.
 
@@ -235,6 +235,3 @@ Application A-64 is complete. The July 2 Michigan enforcement order remains oper
 
 ---
 
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.
