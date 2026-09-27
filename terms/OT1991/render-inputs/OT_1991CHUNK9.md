@@ -748,7 +748,7 @@ Supreme Court merits review ends in affirmance of the Eleventh Circuit. The Hobb
 
 ## 1. Event
 
-Quill Corp. v. North Dakota, No. 91-194, October Term 1991. Argued January 22, 1992; decided May 26, 1992. On writ of certiorari to the North Dakota Supreme Court, 470 N.W.2d203, which reversed summary judgment for Quill and directed enforcement of the State’s collection duty. Quill challenges the duty under the Commerce and Due Process Clauses and seeks reversal of liability for tax, interest and penalties sought from July 1, 1987. The potential retroactive consequences of overruling Bellas Hess were excluded from the grant. The official report at 504 U.S.298 verifies the docket and dates. Render form: full. Although the judgment is 8–1, Stone reserves due process, the broad Commerce analysis lacks five joins, and the two grounds have different authority and reach.
+Quill Corp. v. North Dakota, No. 91-194, October Term 1991. Argued January 22, 1992; decided May 26, 1992. On writ of certiorari to the North Dakota Supreme Court, 470 N.W.2d203, which reversed summary judgment for Quill and directed enforcement of the State’s collection duty. Quill challenges the duty under the Commerce and Due Process Clauses and seeks reversal of liability for tax, interest and penalties sought from July 1, 1987. The potential retroactive consequences of overruling Bellas Hess were excluded from the grant. The official report at 504 U.S.298 verifies the docket and dates. Render form: full. Although the judgment is 8–1, Stone joins the Due Process holding while separately retaining the Commerce collection rule; the broad Commerce analysis still lacks five joins, so the two constitutional grounds retain different authority and reach.
 
 ## 2. Participation
 
@@ -756,14 +756,14 @@ All nine Justices participate at argument and decision: Chief Justice Alex-Lamar
 
 ## 3. Public Action
 
-The judgment is reversed and the case remanded, 8–1. Bellas Hess’s surviving Commerce Clause collection rule bars the challenged duty on this record. Eight Justices also reject a physical-presence requirement under due process; Stone does not reach that independent constitutional ground.
+The judgment is reversed and the case remanded, 8–1. Bellas Hess’s surviving Commerce Clause collection rule bars the challenged duty on this record. All nine Justices reject a physical-presence requirement under Due Process; Stone joins that independent holding while relying on the separate Commerce rule to reverse the collection judgment.
 
 ## 4. Judgment & Remedy
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Enforceability of Quill collection duty | Reverse and remand, 8–1 | Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | White | The challenged collection liability fails on this record under the Commerce Clause. |
-| Due-process challenge | Rejected by the eight reaching it, 8–0 | White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | No Justice votes to sustain it; Stone does not reach it | This ruling supplies no collection liability in light of the Commerce disposition. |
+| Due-process challenge | Rejected, 9–0 | Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas | None | This ruling supplies no collection liability in light of the separate Commerce disposition. |
 
 The consumer’s use-tax duty and other taxes remain outside the judgment. The Court creates no retrospective liability, tax amount, interest award or penalty; the challenge to this duty succeeds. The state-court §1983/§1988 cross-appeal, left unaddressed below after its constitutional ruling, receives no Supreme Court merits decision or fee award and may be handled in lawful further proceedings.
 
@@ -771,10 +771,10 @@ The consumer’s use-tax duty and other taxes remain outside the judgment. The C
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I–III | Stevens | White, Blackmun, O’Connor, Scalia, Kennedy, Souter, Thomas | All reject due-process challenge; White otherwise opposes reversal | Distinct constitutional sources and purposeful-contact due-process rule. Eight Justices; Stone joins no part. |
+| Opinion of the Court, Parts I–III | Stevens | White, Blackmun, O’Connor, Scalia, Kennedy, Souter, Thomas | All reject due-process challenge; White otherwise opposes reversal | Distinct constitutional sources and purposeful-contact Due Process rule. All nine Justices support this part; Stone joins Parts I–III while writing separately on Commerce. |
 | Plurality, Part IV | Stevens | Blackmun, O’Connor, Souter | Reverse and remand | Broader Commerce rationale and precedent/reliance reasoning; four votes for the complete analysis. |
 | Concurrence in part and in the judgment | Scalia | Kennedy, Thomas | Reverse and remand; join I–III | Retain the precise Commerce precedent on stare decisis, justified reliance and Congress’s power, without reconsidering its substantive merits. |
-| Concurrence in the judgment | Stone | No other Justice | Reverse and remand | Specific surviving collection rule within Complete Auto, inadequate software nexus, reliance and coordinated congressional adjustment; due process reserved. |
+| Concurrence in the judgment | Stone | No other Justice | Reverse and remand | Specific surviving collection rule within Complete Auto, inadequate software nexus, reliance and coordinated congressional adjustment; joins the Court's Due Process analysis. |
 | Concurrence in part and dissent in part | White | No other Justice | Rejects due-process challenge; would sustain collection | Joins I–III; would overrule the Commerce collection rule and give effect to practical economic nexus. |
 
 ## 6. Holdings
@@ -783,7 +783,7 @@ The consumer’s use-tax duty and other taxes remain outside the judgment. The C
 
 **Holding and operative rule:** A mail-order seller that purposefully and continuously solicits a State’s consumers may have the minimum connection required for a use-tax collection obligation even without physical presence, when the obligation is rationally related to benefits received through that market. Quill’s sustained solicitation and approximately $1 million in annual North Dakota sales satisfy due process; Bellas Hess and earlier holdings are overruled only insofar as they make physical presence indispensable for this collection duty.
 
-**Authority:** Parts I–III of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices. Stone expressly does not reach due process and supplies no join.
+**Authority:** Parts I–III of Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices support the Due Process holding.
 
 **Controlling explanation:** The Court holds that deliberate, continuing participation in the State’s market supplies the fair connection required here. Miller Brothers supplies the requirement of a definite link between the State and the person or transaction, while International Shoe explains why purposeful contacts matter more than a formal presence label. Burger King confirms that commercial activity deliberately directed to a State does not escape its authority solely because the seller communicates from elsewhere; Shaffer applies the same rejection of mechanical presence rules to adjudicative jurisdiction. Comparable reasoning governs this collection obligation without equating every rule for judicial jurisdiction with every rule for legislative authority. Quill repeatedly solicits North Dakota customers and conducts substantial sales there, and the use tax relates to the benefits of access to that market. The contrary physical-presence prerequisite cannot survive that reasoning. Due process and the Commerce Clause impose distinct limits, however, so satisfying this connection does not itself authorize the collection duty that the Court rejects on the other ground.
 
@@ -825,7 +825,7 @@ The consumer’s use-tax duty and other taxes remain outside the judgment. The C
 
 **Fractured authority:** There is an express majority for the particular surviving-precedent rule, not merely eight matching dispositions. Marks v. United States, 430 U.S.188, does not authorize importing the plurality’s broader economic-policy theory through the concurring votes. The narrower adherence ground is a genuine common ground of the reversal writings and a logical subset of Part IV’s precedent-based reason for the same result. The record-specific software application independently has the five expressly identified supporters. Neither conclusion creates a general physical-presence theory for other taxes.
 
-**Limits and questions not reached:** The consumer’s use tax, other taxes and general tax immunity are outside the holding. No numerical transaction threshold, general software-nexus rule or result under a future statute is announced. Potential retroactive effects of overruling the Commerce rule were excluded from the grant and are not reached. The Court makes no §1983 or §1988 entitlement ruling. Stone alone reserves due process; the eight-Justice due-process holding nevertheless controls.
+**Limits and questions not reached:** The consumer’s use tax, other taxes and general tax immunity are outside the holding. No numerical transaction threshold, general software-nexus rule or result under a future statute is announced. Potential retroactive effects of overruling the Commerce rule were excluded from the grant and are not reached. The Court makes no §1983 or §1988 entitlement ruling. No Justice reserves Due Process; the nine-Justice holding controls.
 
 ## 7. Precedent Treatment
 
@@ -837,7 +837,7 @@ Effective May 26, the two constitutional inquiries must be kept separate. Purpos
 
 ## 9. Separate Writings
 
-Scalia, joined by Kennedy and Thomas, joins the Court’s due-process analysis on the understanding that analogous reasoning does not equate every adjudicative and legislative jurisdiction standard. On Commerce, they retain the square precedent through stare decisis, justified reliance and Congress’s authority, without revisiting its substantive merits. Stone separately retains the specific collection rule within Complete Auto, concludes that insignificant software is no substitute for local market-maintaining activity, and reserves due process because the Commerce ground resolves the demand. His reliance and congressional-adjustment reasons support adherence without extending a physical-presence condition to all taxation. White joins the due-process ruling but would overrule Bellas Hess’s Commerce rule: sustained economic exploitation and market benefits should meet nexus, and the physical distinction creates unjustified competitive differences. He also questions deciding the software issue against the State without further inquiry. The plurality’s broader defense of the Commerce boundary commands four votes only.
+Scalia, joined by Kennedy and Thomas, joins the Court’s due-process analysis on the understanding that analogous reasoning does not equate every adjudicative and legislative jurisdiction standard. On Commerce, they retain the square precedent through stare decisis, justified reliance and Congress’s authority, without revisiting its substantive merits. Stone separately retains the specific collection rule within Complete Auto and concludes that insignificant software is no substitute for local market-maintaining activity, while joining the Court's Due Process analysis because purposeful sustained market contacts satisfy that independent constitutional requirement. His reliance and congressional-adjustment reasons support adherence without extending a physical-presence condition to all taxation. White joins the due-process ruling but would overrule Bellas Hess’s Commerce rule: sustained economic exploitation and market benefits should meet nexus, and the physical distinction creates unjustified competitive differences. He also questions deciding the software issue against the State without further inquiry. The plurality’s broader defense of the Commerce boundary commands four votes only.
 
 ## 10. Procedure After Action
 
