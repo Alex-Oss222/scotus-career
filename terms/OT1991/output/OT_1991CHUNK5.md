@@ -614,6 +614,3 @@ Supreme Court review ends with reversal and remand. The federal damages complain
 
 ---
 
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.
