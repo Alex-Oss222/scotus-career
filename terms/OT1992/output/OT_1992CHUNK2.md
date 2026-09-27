@@ -823,6 +823,3 @@ Supreme Court merits review is complete; the judgment against petitioners is rev
 
 ---
 
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.
