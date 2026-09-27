@@ -67,7 +67,7 @@ O'Connor, joined by Stone and Stevens, agrees that the evidence had a lawful non
 
 The conviction and denial of federal habeas relief stand. No acquittal, retrial, or release is ordered. The Supreme Court and federal habeas proceedings are closed.
 
-Source note: Official United States Reports text, 502 U.S. 62–75, read in full; Internet Archive docket and case papers, item `micro_IA40385013_0069`; research cutoff September 14, 2026. No quotation is supplied.
+Source note: Official United States Reports text, 502 U.S. 62–75, read in full; Internet Archive docket and case papers, item `micro_IA40385013_0069`. No quotation is supplied.
 
 **End of entry: *Estelle v. McGuire*, merits decision, December 4, 1991.**
 
@@ -89,7 +89,7 @@ The occupational definition and crew exclusion must be read together. A ship-rep
 
 Summary judgment remains reversed. No damages or status finding is made. The Supreme Court proceeding is closed, and the case returns for factfinding on status and any viable injury claims.
 
-Source note: Official United States Reports text, 502 U.S. 81–92, read in full; Internet Archive item `micro_IA40385013_0030`; research cutoff September 14, 2026.
+Source note: Official United States Reports text, 502 U.S. 81–92, read in full; Internet Archive item `micro_IA40385013_0030`.
 
 **End of entry: *Southwest Marine, Inc. v. Gizoni*, merits decision, December 4, 1991.**
 
@@ -111,7 +111,7 @@ The Court also holds that §301 permits an individual beneficiary of a qualifyin
 
 The union-constitution claim is restored for §301 proceedings, and a jury is permitted on the LMRDA legal damages claim. No liability or amount is awarded. The Supreme Court proceeding is closed, and both claims return for further proceedings consistent with the judgment.
 
-Source note: Official United States Reports text, 502 U.S. 93–103, read in full; Internet Archive item `micro_IA40385013_0058`; research cutoff September 14, 2026.
+Source note: Official United States Reports text, 502 U.S. 93–103, read in full; Internet Archive item `micro_IA40385013_0058`.
 
 **End of entry: *Wooddell v. International Brotherhood of Electrical Workers, Local 71*, merits decision, December 4, 1991.**
 
@@ -174,7 +174,7 @@ Scalia would permit objection after each disclosed lobbying position followed by
 
 The Supreme Court proceeding is closed. The case returns for prospective relief permitting a lawful reduction or escrow system, preserving interest from collection, and excluding unpreserved retroactive damages.
 
-Source note: Eleventh Circuit opinion and rule text, 906 F.2d 624; Internet Archive item `micro_IA40385013_0071`; reporter order at 502 U.S. 104; research cutoff September 14, 2026.
+Source note: Eleventh Circuit opinion and rule text, 906 F.2d 624; Internet Archive item `micro_IA40385013_0071`; reporter order at 502 U.S. 104.
 
 **End of entry: *Gibson v. Florida Bar*, merits decision, December 4, 1991.**
 
@@ -198,7 +198,7 @@ Blackmun generally agrees but emphasizes that the statute is underinclusive as w
 
 The case returns for appropriate declaratory and injunctive relief against applying §632-a to the contract. No award to Hill or discharge of victim or creditor claims is ordered. The Supreme Court proceeding is closed.
 
-Source note: Official United States Reports text, 502 U.S. 105–128, read in full; Internet Archive item `micro_IA40385013_0068`; research cutoff September 14, 2026.
+Source note: Official United States Reports text, 502 U.S. 105–128, read in full; Internet Archive item `micro_IA40385013_0068`.
 
 **End of entry: *Simon & Schuster, Inc. v. Members of the New York State Crime Victims Board*, merits decision, December 10, 1991.**
 
@@ -222,7 +222,7 @@ Blackmun, joined by Stevens, would treat “under section 554” as a functional
 
 No administrative fee award is available under §504. The Supreme Court and administrative fee proceedings are closed. Ardestani's asylum grant and its factual basis remain undisturbed.
 
-Source note: Official United States Reports text, 502 U.S. 129–150, read in full; Internet Archive item `micro_IA40385013_0074`; research cutoff September 14, 2026.
+Source note: Official United States Reports text, 502 U.S. 129–150, read in full; Internet Archive item `micro_IA40385013_0074`.
 
 **End of entry: *Ardestani v. INS*, merits decision, December 10, 1991.**
 
@@ -244,12 +244,9 @@ Section 547(c)(2) contains no distinction between short- and long-term debt. Con
 
 The Ninth Circuit must review any remaining challenges to application of all statutory elements; the Court does not itself restore judgment for the Bank. The Supreme Court proceeding is closed, and the preference litigation returns to the Ninth Circuit for review of the remaining statutory issues.
 
-Source note: Official United States Reports text, 502 U.S. 151–163, read in full; Internet Archive item `micro_IA40385013_0094`; research cutoff September 14, 2026.
+Source note: Official United States Reports text, 502 U.S. 151–163, read in full; Internet Archive item `micro_IA40385013_0094`.
 
 **End of entry: *Union Bank v. Wolas*, merits decision, December 11, 1991.**
 
 ---
 
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.
