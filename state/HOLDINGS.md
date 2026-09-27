@@ -2793,7 +2793,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority for alternative holding:** Stevens’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4465,7 +4464,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority for alternative holding:** Parts III and V of Souter's opinion, joined by Stone-Zsela, Blackmun, Stevens and O'Connor; five Justices adopt this independent background-evidence ground and the conditional sentencing remedy.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4511,7 +4509,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority for alternative holding:** Part II of the per curiam opinion, joined by White, O'Connor, Scalia, Kennedy and Thomas; five Justices expressly adopt this alternative response. Stone-Zsela and Souter do not join or reach it.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5839,7 +5836,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority for alternative holding:** Souter's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas; eight Justices adopt this ground. Stone concurs separately in the unanimous judgment without a formal opinion join.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** The alternative addresses this asserted defect and this Texas-headquartered challenger; it does not create a categorical rule insulating incorporation classifications or govern every facial challenge. The Montana-headquartered foreign-corporation application remains open. Correcting the alleged incorporation/headquarters mismatch would still leave Burlington a nonresident and supplies no right to transfer either action.
 
@@ -5953,7 +5949,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority for alternative holding:** Part C of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices control this alternative rejection. Stone’s agreement in the judgment does not join Part C.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** No deliberate bodily injury or direction knowingly sending Collins into a dangerous sewer is alleged. The public-program rationale recognizes competing social, political and economic choices as a legal presumption; it is not a finding that the city acted responsibly or that its budget justified these omissions. The alternative independently supports affirmance without deciding state remedies or a different affirmative-injury claim. *Rochin v. California*, 342 U.S. 165, is distinguished from these protective omissions. *Bishop*, 426 U.S. 341, and *Daniels*, 474 U.S. 327, preserve the distinction between state employment or tort duties and substantive constitutional arbitrariness. *Harrah Independent School District v. Martin*, 440 U.S. 194, distinguishes an assumed state-created interest from arbitrary deprivation.
 
@@ -6567,7 +6562,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 
 **Proposition-level authority for alternative holding:** Thomas’s Part II-B; White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits and questions not reached:** The regulatory-cost and competition grounds are independently sufficient. No First Amendment or heightened-scrutiny question is decided, and no actual monopoly is found.
 
@@ -6987,7 +6981,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority for alternative holding:** Blackmun's opinion of the Court, joined by Stevens, O'Connor, Kennedy, and Souter: an independently sufficient five-Justice holding. Stone-Zsela's separate concurrence agrees with the rule without a formal join.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** Audience-hostility pricing independently sustains the same facial protection against enforcement. It does not find the actual $100 assessment retaliatory, fix police expenditures or forbid genuinely content-independent administrative charges. The following precedent treatment applies to this alternative ground:
 
@@ -7283,7 +7276,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority for alternative holding:** Kennedy’s Part III, compelling-interest ground; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Material application:** Ordinance87-40 incorporates Florida’s unnecessary-or-cruel-killing rule as construed to reject religious necessity while accepting comparable secular reasons. Ordinance87-52 prohibits owning, keeping, possessing, sacrificing or slaughtering enumerated animals or any other animal with intent to use it for food, and limits application to killing in any ritual regardless of whether flesh or blood will actually be consumed; its separate exception allows licensed establishments to slaughter animals specifically raised for food where properly zoned or permitted under state/local law and Agriculture Department rules. Ordinance87-71 defines sacrifice as unnecessary killing, tormenting, torturing or mutilating in a ritual or ceremony not primarily for food consumption and prohibits it citywide. Ordinance87-72 requires food slaughter in a properly zoned slaughterhouse meeting health, safety and sanitation codes, but separately exempts persons or organizations slaughtering or processing for sale small numbers of hogs or cattle weekly in accordance with the state-law exemption. The distinct exclusions, comparable secular harms and available neutral controls support the holdings; 87-72’s independent validity in another setting remains reserved.
 
@@ -7815,7 +7807,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority for alternative holding:** White's opinion, Part IV-B, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices adopt this independently sufficient alternative holding. Stone agrees with its disposition only.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Material application of alternative holding:** The July 1, 1983 communication supplied the condition and ground, followed by approximately ten months for consideration and negotiation before Alaska executed the disclaimer on May 9, 1984.
 
@@ -8047,7 +8038,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority for alternative holding:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** The alternative inquiry concerns an adequate available route on the statutory terms, not a lesser interest in the same segment; it does not authorize acquisition unrelated to passenger service. Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 — applied: the ICC’s route-based construction is permissible within the statutory scheme.
 
@@ -9515,7 +9505,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority for alternative holding:** Blackmun’s Parts III-C and III-D; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits and questions not reached:** The settled-tax-meaning and ordinary-exchange grounds are independently sufficient. Gratuitous contributions, unpresented exemptions, correction conditions, valuation and computation remain distinct; no agency-deference holding is necessary.
 
@@ -10094,7 +10083,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 
 **Proposition-level authority for alternative holding:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices adopt this independently sufficient ground. Stone’s compatible separate explanation is not counted as a formal join.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** Existing owners' commitments differ from prospective purchasers' ability to examine acquisition-based liability before buying. This is permissible protection of reliance, not an immutable contractual guarantee. The same affirmance follows independently; ability-to-pay and revenue-stability grounds remain undecided. The following earlier-authority treatment applies to this alternative:
 
@@ -10275,7 +10263,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority for alternative holding:** O'Connor’s Opinion of the Court, II-B; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
