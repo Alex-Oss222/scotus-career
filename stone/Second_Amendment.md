@@ -6,9 +6,9 @@
 
 This build runs from *United States v. Lopez* in OT1994 through OT2015 and now deliberately develops a fuller mature doctrine rather than stopping at the home-defense core. It remains a stable individual-right doctrine, not a maximal all-weapons presumption: ordinary arms and lawful self-defense receive strong protection, while demonstrated dangerous persons, dangerous and unusual weapons, specially regulated weapon categories, objective registration, classification-changing modifications, sensitive places, and genuine safety administration remain regulable. The planning instruction still rejects adding a case merely because an October Term otherwise lacks a gun decision; the added vehicles below perform specific doctrinal work that the project now affirmatively wants.
 
-**Existing record note.** The formal Holdings and Standards files are synchronized through the June 27, 2002 decision group; everything through *Emerson* can be evaluated against an existing record. *Heller I*, *Heller II*, *Ezell*, and *Heller III* remain proposed future developments, not existing simulation law. There is one formal record issue worth preserving rather than silently repairing: the controlling handoff instruction says that, by the end of OT1999, the Second Amendment is an individual and incorporated right, but the Holdings Register describes Stone's individual-right and incorporation reasoning in *Love* as a noncontrolling four-Justice concurrence, and *Hale* repeats that position without a majority. *Fraternal Order of Police* presupposes an individual right and establishes a controlling disqualification rule, but it is a federal case and does not itself incorporate the right against the States. The clean solution is to record individual-right status and incorporation as a simulation premise until a source-authorized formal entry is added — not to take *McDonald* merely to repair this clerical gap, which would conflict with the intended path.
+**Existing record note.** The formal simulation record presently reaches the early-2000s portion of this project; the later vehicles in this file are roadmap positions, not silently imported holdings. *Heller I*, *Heller II*, *Ezell*, *Moore*, *Jackson*, *Bonidy*, and *Heller III* therefore state the disposition and reasoning Stone should take if and when those vehicles are selected. There is one inherited record issue worth preserving rather than silently repairing: the controlling handoff instruction treats the Second Amendment as an individual and incorporated right by the end of OT1999, while the earlier *Love* and *Hale* writings did not themselves produce a clean controlling incorporation holding. The roadmap treats incorporation as an operational simulation premise rather than taking *McDonald* solely to fix recordkeeping.
 
-**Status tags.** Each entry below is marked essential, optional, or default-skip, following the source planning document's own distinctions — some cases are load-bearing for the architecture, others are elective refinements the simulation need not take.
+**Status tags.** "Essential" means the case is load-bearing for the architecture now requested. "Recommended" means it materially improves the doctrine and should ordinarily be taken if the vehicle remains clean. "Optional" remains a genuine refinement rather than filler. "Deliberate silence" means Stone should not manufacture a gun case merely to occupy an October Term.
 
 ## Navigation
 
@@ -311,11 +311,11 @@ Government employment does not erase the predicate; issuance of a firearm by a p
 
 **What this establishes.** No expansion of *Fraternal Order of Police* to nonviolent convictions, no decision on restoration, and no holding that employment consequences are irrelevant in every constitutional case. It simply recognizes that a generally applicable federal possession rule does not become commandeering because state employment makes firearm possession occupationally necessary.
 
-## OT2001: the optional temporary protective-order branch
+## OT2001: the temporary protective-order branch
 
 ### United States v. Emerson, 270 F.3d 203 (2002)
 
-**Status.** Proposed and optional. Historical certiorari disposition: cert. denied, 536 U.S. 907 (2002).
+**Status.** Recommended. Historical certiorari disposition: cert. denied, 536 U.S. 907 (2002).
 
 **Historical questions.** Emerson was indicted under § 922(g)(8) for possessing a firearm while subject to a domestic-violence restraining order entered after a state-court evidentiary hearing at which his wife testified about threats; the order prohibited threats and bodily injury. The district court dismissed the indictment on Second and Fifth Amendment grounds and the Fifth Circuit reversed and remanded, so the case reaches the certiorari stage before any final conviction. The statute applied only when the order followed a hearing with actual notice and an opportunity to participate, restrained harassment, stalking, threats, or comparable conduct involving an intimate partner or child, and contained either a credible-threat finding or an explicit prohibition on force expected to cause bodily injury.
 
