@@ -213,7 +213,7 @@ For Holdings specifically:
 - reconcile cross-area references and prevent duplicate holdings; and
 - publish the complete current Register, preserving unaffected valid entries.
 
-When size materially impairs reliable use, divide the Register into nonoverlapping doctrinal volumes and provide a short master index. Every volume must carry the identical publication header and common cutoff. A question-level proposition has one primary location across the volume set; cross-volume references remain compact natural anchors. Publication still returns the complete current set, not only changed volumes.
+When size materially impairs reliable use, divide the Register into nonoverlapping doctrinal volumes and provide a short master index. From OT1993 forward this repository uses that form under `state/holdings/`. Every volume must carry the identical publication header and common cutoff. A question-level proposition has one primary location across the volume set; cross-volume references remain compact natural anchors. `state/HOLDINGS.md` is the generated continuous compatibility view and must be rebuilt from the volumes rather than independently edited. Publication still returns the complete current set, not only changed volumes.
 
 ## 11. Validation and return rule
 
@@ -231,4 +231,4 @@ Before publication, verify internally that:
 
 Do not print a validation receipt.
 
-Return the complete continuous Holdings Register, or the complete master index and all doctrinal volumes when volume splitting is used. Do not return a patch, change log, updater packet, or summary. Remove bracketed instructions and omitted optional fields from the completed Register. If a material source conflict prevents safe publication, identify the precise blocker outside the Register and retain the last complete synchronized baseline.
+Return the complete master index and all doctrinal volumes when volume splitting is used, and regenerate the continuous compatibility view deterministically. Do not return a patch, change log, updater packet, or summary. Remove bracketed instructions and omitted optional fields from the completed Register. If a material source conflict prevents safe publication, identify the precise blocker outside the Register and retain the last complete synchronized baseline.
