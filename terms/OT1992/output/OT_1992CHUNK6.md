@@ -729,6 +729,3 @@ Supreme Court review is complete. Only the vacatur of the invalidity judgment is
 
 ---
 
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.
