@@ -68,6 +68,7 @@ From OT1993 forward, scripts may check and generate bookkeeping, but they do not
 - `tools/split_chunk.py` regenerates the neutral, Stone, and comparator runtime split and refuses multiple live section revisions.
 - `tools/build_entering_law.py` copies operator-selected Holdings volumes and tracker sections into a derived reading slice.
 - `tools/rebuild_ledger.py` regenerates the Term Working Ledger index from canonical Records and Git commitment history.
+- `tools/rebuild_manifest.py` regenerates inventory status from the case list and canonical Records, with explicit stopped/carry-forward inputs.
 - `tools/build_render_input.py` copies validated Record Public Projection sections into the renderer handoff.
 - `tools/check_term.py` performs deterministic integrity checks only.
 - `tools/holdings_volumes.py` keeps doctrinal Holdings volumes and the continuous compatibility view synchronized.
