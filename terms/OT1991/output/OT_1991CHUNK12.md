@@ -973,6 +973,3 @@ Supreme Court review of this merits event is complete. On the ordinary mandate, 
 
 ---
 
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.
