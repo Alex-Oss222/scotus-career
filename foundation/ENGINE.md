@@ -15,7 +15,7 @@ Each source controls its assigned subject:
 - Earlier validated Canonical Decision Records from the current term supplement or change the term-opening baseline from their effective dates.
 - Validated Admitted Source Records establish controlling noncase-law changes and verified objective filings, docket changes, or institutional events from their effective dates.
 - The current replaceable Term Continuity Note is a faithful continuation projection of those records. It does not displace a Canonical Decision Record or Admitted Source Record if they conflict.
-- Official and reliable public sources control historical facts, records, lower-court proceedings, filings, dates, term-effective rules, and historical comparators.
+- Official and reliable public sources control historical facts, records, lower-court proceedings, filings, dates, term-effective rules, and historical comparators. After the divergence point, distinguish background fact from Supreme Court action: a verified filing, party act, lower-court event, administrative docket fact, or other nonadjudicative predicate may enter when compatible with the simulated timeline; a historical Supreme Court order, judgment, vote, or disposition does not become an in-world Court action merely because history contains it. Every post-divergence Supreme Court action must be simulated, expressly user-pinned, or otherwise authorized under this Engine.
 - This Engine controls chronology, adjudication, participation, coalition formation, opinion authority, the Canonical Decision Record, and coordinated term close.
 - The Turn Output instructions control presentation only. They may omit material from public display, but may not change legal or institutional substance.
 
@@ -46,7 +46,7 @@ For this Engine:
 - The **Term Working Ledger** is the append-only sequence of those Records in commitment order, each carrying its effective date and any correction link. The manifest and Current-Term Neutral Projection provide the regenerated effective-order view.
 - The **Term Continuity Note** is a complete, replaceable projection of current law, current procedure, chronology, and material Justice-specific continuity after the latest completed chunk.
 - The **Current-Term Neutral Projection** is a sanitized projection of the full Current Term State, including the opening trackers, effective current Records, chronology cursor, and material manifest dependencies. It contains only current law, public procedure, roster and allotments, and material published Justice positions. It excludes every private Stone core, provisional commitment, comparator, reconciliation, and audit annex.
-- The **Term Workspace** is the preferred single temporary term file containing the current manifest, Term Working Ledger, latest Term Continuity Note, and Current-Term Neutral Projection as distinct sections.
+- The **Term Workspace** is the coordinated set containing the current manifest, Term Working Ledger, latest Term Continuity Note, and Current-Term Neutral Projection. A single file is permitted for legacy terms; from OT1993 forward the preferred form is four separate small files so a context loads only the projection it needs.
 - The **Current Term State** is the combined effect of the identified term-opening trackers, the current Full-Term Event Manifest, every validated current-term Decision Record and effective Admitted Source Record through the chronology cursor, and the latest Term Continuity Note.
 
 A Decision Record or Admitted Source Record is durable only when written to its own file or committed to the Term Working Ledger and made available to a fresh continuation context. Name it with its natural authority, action or instrument, and date. If preservation fails, the change is not committed and no dependent event may proceed.
@@ -75,11 +75,11 @@ Uncoordinated decisions released on the same date use the same entering-law base
 
 If a later chunk introduces any Court event, admitted source, or other manifest item effective before the chronology cursor, reconcile the manifest before further adjudication. Insert it with a recorded correction only if it could not materially affect a completed later event or state change. If it could affect entering law, participation, posture, judgment, remedy, procedural stage, or institutional state, identify the affected Records and rerun or correct them only with the user's approval. Never preserve an adjudication reached on a displaced premise by silently changing the timeline.
 
-A matter remains open until a dated terminal event closes it. A grant, hold, relist, CVSG, reargument, remand return, or pending application is never silently dropped.
+A matter remains open until a dated terminal event closes it. A grant, hold, relist, CVSG, reargument, remand return, or pending application is never silently dropped. The user may expressly authorize a bounded continuity closure for an old administrative or filing-condition matter when the operative deadline has passed and no later compliant filing or Court action is admitted. Such a closure is recorded internally, creates no merits holding, imports no historical Supreme Court result, and prevents the stale matter from being carried into the next term. A later verified filing reopens the chronology as a new event rather than retroactively altering the closure.
 
 ## 3. Operating architecture and physical separation
 
-Use one of two named modes. **Isolated-context mode** is preferred: each stage below runs in a distinct chat or agent context with only its authorized files. Separate chats inside one Project are not isolated when the Project automatically exposes withheld sources; remove those sources, use a clean Project, or use scoped agent contexts. **Single-conversation mode** is the fallback: preserve the same order and frozen handoffs, disclose that true blindness was unavailable, and treat independence as weaker. A label that says information was ignored is not physical separation.
+Use one of two named modes. **Isolated-context mode** is the default from OT1993 forward: each stage below runs in a distinct chat or agent context with only its authorized files. Separate chats inside one Project are not isolated when the Project automatically exposes withheld sources; remove those sources, use a clean Project, or use scoped agent contexts. **Single-conversation mode** is the fallback: preserve the same order and frozen handoffs, disclose that true blindness was unavailable, and treat independence as weaker. A label that says information was ignored is not physical separation.
 
 ### A. Neutral preflight and research context
 
@@ -89,13 +89,13 @@ If neutral research inadvertently reveals a withheld matter-specific outcome, li
 
 ### B. Independent modeling context
 
-This context works only from the Neutral Modeling Packet and the Engine provisions needed to model the non-Stone Justices. In isolated-context mode, it must not receive Stone's controlled merits position, Stone's advocacy framing, or the historical outcome and lineup in the matter. In single-conversation mode, do not resupply or open the current matter's withheld files until provisional commitments are frozen, while preserving the disclosed limitation from prior conversational exposure. It produces provisional non-Stone Justice commitments and, when required, an adaptive analytical annex. For a certiorari action with no expressly approved Stone petition-stage position, it also models and freezes Stone's certiorari position separately from the non-Stone commitments, without using his merits position.
+This context works only from the Neutral Modeling Packet, the event's Law-Entering Snapshot or entering-law reading slice, and the Engine provisions needed to model the non-Stone Justices. In isolated-context mode, it must not receive Stone's controlled merits position, Stone's advocacy framing, or the historical outcome and lineup in the matter. In single-conversation mode, do not resupply or open the current matter's withheld files until provisional commitments are frozen, while preserving the disclosed limitation from prior conversational exposure. It produces provisional non-Stone Justice commitments and, when required, an adaptive analytical annex. Preserve that output as a durable frozen handoff before the historical comparator is exposed. From OT1993 forward, the normal artifact is `freeze/OT_<year>CHUNK<n>_COMMITMENTS.md`; later stages may read it but may not rewrite it. For a certiorari action with no expressly approved Stone petition-stage position, it also models and freezes Stone's certiorari position separately from the non-Stone commitments, without using his merits position.
 
 General model knowledge cannot be erased. Physical separation means that the excluded materials are absent from the supplied context and files, not that the model claims ignorance it cannot possess. Every commitment must nevertheless be supportable from the neutral packet.
 
 ### C. Historical reconciliation context
 
-This context receives the frozen Neutral Modeling Packet, provisional non-Stone commitments, and historical comparator, but not Stone's supplement or a separately frozen simulated Stone certiorari position. It tests the non-Stone commitments against the packet's entering law, record, posture, remedy paths, and comparator without treating history as a command. It produces reconciled commitments with any supported departures or unresolved source limitations.
+This context receives the frozen Neutral Modeling Packet, provisional non-Stone commitments, and historical comparator, but not Stone's supplement or a separately frozen simulated Stone certiorari position. It tests the non-Stone commitments against the packet's entering law, record, posture, remedy paths, and comparator without treating history as a command. It produces reconciled commitments with any supported departures or unresolved source limitations. Preserve the result as a second durable frozen handoff before Stone is exposed, normally `freeze/OT_<year>CHUNK<n>_RECONCILED.md`.
 
 ### D. Assembly context
 
@@ -260,7 +260,7 @@ After provisional commitments are complete, introduce the historical vote or ali
 
 A historical match does not cure analysis that ignores a displaced premise. A historical departure does not fail merely because it is a departure. If the discrepancy cannot be supported, conduct additional source review and record the remaining uncertainty or stop the affected Justice determination if it prevents a defensible result. Do not automatically replace the provisional commitment with the historical vote.
 
-A departure requires a concrete, Justice-specific basis, such as displaced simulated law, a changed question or record, a different remedy, date-eligible authority or briefing, a material prior simulated position, or a circulation revision resolving a legal objection. Ideology, desired margins, drama, or coalition convenience is insufficient.
+A departure requires a concrete, Justice-specific basis, such as displaced simulated law, a changed question or record, a different remedy, date-eligible authority or briefing, a material prior simulated position, or a circulation revision resolving a legal objection. For each material departure, state the historical premise, the concrete changed premise in this timeline, and why that difference could matter to this Justice. If the answer is effectively "nothing material changed," treat the historical position as strong evidence and conduct further review before departing. This is a qualitative legal test, not a deterministic rule. Ideology, desired margins, drama, or coalition convenience is insufficient.
 
 If a material date-eligible source, record correction, or lawful ground is discovered before commitment, do not patch a provisional row in assembly. Return only the corrected neutral material to the neutral preflight, replace the affected packet portion, remodel and refreeze the affected commitments, and repeat reconciliation without exposing Stone to either modeling stage. If Stone has already entered an uncommitted assembly, discard that assembly and repeat the handoffs. Record the correction and its effect.
 
@@ -324,7 +324,7 @@ Appeals as of right, certified questions, original matters, reargument, rehearin
 
 ## 11. Canonical Decision Record
 
-Create one durable Canonical Decision Record for every completed event. Use the natural key of case or docket, event type, event date, and October Term. Do not create opaque identifiers, packet codes, transaction labels, or checksums.
+Create one durable Canonical Decision Record for every completed event. Use the natural key of case or docket, event type, event date, and October Term. Do not create opaque identifiers, packet codes, transaction labels, or checksums. From OT1993 forward, begin every Record with four concise lines: case/dockets; event/date; result; version and what it supersedes. Keep detailed edit history in Git rather than narrative provenance. End the Record with a bounded `## Public Projection` that contains exactly the eleven Render Input blocks and chunk metadata needed for public presentation; it contains no adaptive audit material, provisional commitments, historical reconciliation, private Stone material, workflow history, or modern research metadata.
 
 ### Mandatory decision kernel
 
@@ -472,7 +472,7 @@ Consult merits briefs, records, and transcripts when scope, preservation, ground
 
 Research is sufficient when every live decisional path and Justice-specific fork has authoritative support and further retrieval is not reasonably likely to alter judgment, rationale, scope, remedy, or participation. Escalate unresolved research just in time for the affected path or Justice; do not enlarge every packet merely because more material exists.
 
-Use computational tools for deterministic checks, including:
+Use computational tools aggressively for deterministic consistency checks, but never for adjudication. Deterministic checks include:
 
 - manifest sorting and duplicate-event detection;
 - chronology-cursor and effective-date comparisons;
@@ -481,7 +481,12 @@ Use computational tools for deterministic checks, including:
 - cross-reference and natural-authority-anchor checks;
 - tracker cutoff synchronization;
 - completeness of open-matter carry-forward; and
-- comparisons among Decision Records, Admitted Source Records, Render Inputs, the Term Continuity Note, and candidate replacement trackers.
+- comparisons among Decision Records, Admitted Source Records, generated Render Inputs, the Term Continuity Note, and candidate replacement trackers;
+- runtime split freshness against the latest approved brief revision;
+- Public Projection to Render Input identity;
+- file-name natural-key conformance for new Records;
+- link and anchor resolution; and
+- existence of cited commit hashes and cleanup of superseded candidate artifacts.
 
 Tools check consistency; they do not decide legal meaning, predict votes, form coalitions, or determine doctrine mechanically.
 
@@ -507,8 +512,8 @@ Validation status must reflect checks actually completed, not checks merely requ
 
 A defect stops only the affected matter unless chronology or dependency makes later adjudication unsafe. Report the precise conflict, missing source, displaced premise, or Stone choice required. Do not silently thin analysis because a chunk is long.
 
-Write in restrained, specific legal prose. State the outcome first, then the controlling law and material process. Complexity controls depth. Do not force a named test, separate writing, fracture, or extended discussion. Do not publish scores, dashboards, influence measures, durability predictions, ideological classifications, win-loss characterizations, private deliberation, or claims that Stone is the institutional protagonist.
+Write in restrained, specific legal prose. State the outcome first, then the controlling law and material process. Complexity controls depth. Do not force a named test, separate writing, fracture, or extended discussion. Public Court-facing material must read as the Court's own work: do not publish workflow mode, approval history, model names, modern research dates, version/commit lineage, "user-directed" language, or describe an in-world holding as "simulated." Keep those facts in internal Records and audit artifacts. Do not publish scores, dashboards, influence measures, durability predictions, ideological classifications, win-loss characterizations, private deliberation, or claims that Stone is the institutional protagonist.
 
 ## Begin rule
 
-Before the first adjudication of a term, validate the opening trackers and complete the Full-Term Event Manifest from the term-wide inventory. For each chunk, a control context reconstructs the Current Term State from the identified opening trackers and validated Term Workspace sections, then refreshes the Current-Term Neutral Projection before runtime handoff. Revalidate the supplied matters, process changes in chronological order, and durably commit each validated Record before moving to a dependent event. At chunk close, return the replacement Term Workspace. Send only the exact Render Input blocks and chunk metadata to the renderer, plus a separate Public Audit Projection only when the user requested one. At term close, use the Term-Close Dossier to produce and jointly audit complete replacement trackers.
+Before the first adjudication of a term, validate the opening trackers and complete the Full-Term Event Manifest from the term-wide inventory. For each chunk, a control context reconstructs the Current Term State from the identified opening trackers and validated Term Workspace sections, then refreshes the Current-Term Neutral Projection before runtime handoff. Revalidate the supplied matters, process changes in chronological order, and durably commit each validated Record before moving to a dependent event. At chunk close, return the replacement Term Workspace. Generate the Render Input mechanically from the Record's validated Public Projection section and send only that generated handoff and chunk metadata to the renderer, plus a separate Public Audit Projection only when the user requested one. The renderer never opens the Record itself. At term close, use the Term-Close Dossier to produce and jointly audit complete replacement trackers.
