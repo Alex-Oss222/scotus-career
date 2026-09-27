@@ -17,9 +17,7 @@
 
 **Holding:** Section 2674 bars damages whose legal nature is punishment for culpable wrongdoing, not every compensatory award alleged to be excessive, duplicative, or difficult for the injured person to perceive. Rejection of that federal bar does not establish entitlement under the governing state law or determine an amount.
 
-**Proposition-level authority:** Thomas's unanimous opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas support the proposition.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Thomas's unanimous opinion; all nine Justices support the proposition.
 
 **Material application:** The claims arose from admitted simple negligence and sought categories characterized as compensatory under state law. Alleged duplication or unconsciousness did not alone change the damages' legal nature. A federal “punitive effect” inquiry could not replace the statute's traditional punitive-damages category.
 
@@ -43,8 +41,6 @@
 
 **Proposition-level authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Cipollone, June 24, 1992 — applied at its common-law-duty and text-specific scope; its tobacco predicates do not decide FRSA coverage.
@@ -57,8 +53,6 @@
 
 **Proposition-level authority:** White’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Cipollone, June 24, 1992 — predicate-duty method preserved; this application turns on FRSA and its own regulations.
@@ -69,8 +63,6 @@
 **Holding:** Section 213.9’s track-class speed regulation, read in its safety-regulatory setting, covers the pleaded ordinary claim that this train should have traveled more slowly for the time and place despite compliance with the class-four 60-mile-per-hour maximum. That general negligence claim does not qualify merely by its local facts for section 434’s local-hazard saving clause; a duty to slow or stop for a specific individual hazard is not decided.
 
 **Proposition-level authority:** White’s Opinion of the Court, III–IV; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -96,8 +88,6 @@
 **Independently majority-supported proposition:** The jury process followed by the trial judge’s hearing and review and the state supreme court’s review of this punitive award satisfy procedural due process on this record. The trial judge’s failure to provide a separate written explanation does not by itself invalidate the award; this decision supplies neither a universal procedural checklist nor a substantive permissible ratio.
 
 **Proposition-level authority:** Stevens’s plurality procedural discussion, expressly agreeing on this proposition with Scalia’s concurrence joined by Thomas, this proposition; Blackmun, Stevens, Scalia, Kennedy, Thomas (5 Justices). Stevens, Blackmun and Kennedy adopt the procedural discussion; Scalia and Thomas expressly concur that the instructed jury and actual judicial reasonableness review provided here satisfy due process. This common case-specific proposition has five votes; no formal whole-opinion join or Marks substantive rule is inferred.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Five agree only that the particular process is sufficient. No ratio, universal procedural checklist, potential-harm formula, instruction-waiver rule or replacement substantive-excessiveness test commands a majority.
 

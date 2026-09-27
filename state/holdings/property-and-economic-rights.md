@@ -21,8 +21,6 @@ For reviewability of the original categorical-prohibition period, see Lucas v. S
 
 **Proposition-level authority:** Scalia's Opinion of the Court, Part III, joined by Stone-Zsela, White, O'Connor and Thomas, supplies five votes for the complete rule and its explanation. Kennedy supports reversal through an expectations-sensitive analysis, without joining this categorical formulation. No Marks combination is required or used.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Total loss is the trial finding assumed for the legal question, not a Council concession or appellate affirmance of value. A new legislative declaration of harm cannot replace substantiated background law; changed knowledge may affect application of genuine nuisance principles.
 
 **Limits and questions not reached:** The Court assumes the trial court's total-loss finding to decide the presented legal issue; it makes no new appraisal and does not resolve the Council's preserved challenge to that finding. No unconditional entitlement to the trial award, final application of state nuisance law, right to anticipated profits, new parcel rule, or disposition of post-amendment permission is adopted. Legitimate environmental purposes remain sufficient to justify regulation; compensation is a distinct consequence. The Court overrules no earlier decision.
@@ -52,9 +50,7 @@ For reviewability of the original categorical-prohibition period, see Lucas v. S
 
 **Holding:** A Contract Clause challenge requires an identified contractual obligation that the challenged law impairs; employment regulation does not become an immutable contractual term merely because it governs the relationship. Michigan’s repayment law impairs no offset promise or protected contractual enforcement rule in these employers’ agreements, so substantial-impairment balancing is unnecessary.
 
-**Proposition-level authority:** O'Connor's unanimous opinion, joined by Stone, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt this threshold holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** O'Connor's unanimous opinion, joined by the other eight Justices; all nine Justices adopt this threshold holding.
 
 **Limits and questions not reached:** The agreements predated the offset statute and contained no offset promise; no contractual enforcement rule was removed. The Court does not reach substantial-impairment balancing or deny protection to genuinely impaired employment contracts.
 
@@ -74,9 +70,7 @@ For reviewability of the original categorical-prohibition period, see Lucas v. S
 
 **Holding:** Retroactive economic legislation satisfies due process when its retroactive operation rationally advances a legitimate legislative purpose. Requiring repayment of these offsets rationally restores Michigan’s compensation compromise and equalizes affected employers, notwithstanding their reliance on the earlier coordination rule.
 
-**Proposition-level authority:** O'Connor's opinion, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the due-process holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** O'Connor's opinion, supported by all nine Justices; all nine Justices adopt the due-process holding.
 
 **Limits and questions not reached:** Retroactivity itself requires rational justification. Reliance does not automatically defeat this restoration and equalization measure; the Court does not validate retroactive legislation categorically.
 
@@ -102,8 +96,6 @@ For this case’s other questions, see *Yee v. City of Escondido*, April 1, 1992
 **Holding:** Regulating rents and continuation of voluntarily created pad tenancies does not impose a permanent physical occupation where the law permits the owner to change the land’s use and no contrary application is established. A tenant’s resale premium and the owner’s reduced ability to select incoming tenants do not themselves convert that regulation into a compelled occupation.
 
 **Proposition-level authority:** O’Connor, I, joined by Stone, White, Stevens, Scalia, Kennedy, Thomas: seven votes control. Blackmun and Souter separately agree with rejection of the physical-taking claim.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The owners did not attempt the change-of-use procedure; no unsuccessful withdrawal attempt or actual law forbidding withdrawal is adjudicated. A separate regulatory-taking claim and other applications remain open.
 
@@ -131,8 +123,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices adopt this independently sufficient ground.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Capped acquisition assessments can reduce displacement of established households and businesses as nearby prices rise. New purchasers and existing owners receive the same rate ceiling and annual-growth limit, although initial bases differ. Large resulting disparities do not by themselves sever the rational connection to neighborhood continuity.
 
 **Limits and questions not reached:** The Court decides no properly presented traveler claim, discriminatory administration contrary to the adopted scheme, independent statutory objection, ability-to-pay or revenue-stability alternative, or state timeliness under Revenue and Taxation Code §4808. No mandatory equality formula or heightened proof or record-building duty is created.
@@ -155,8 +145,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 
 **Proposition-level authority for alternative holding:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices adopt this independently sufficient ground. Stone’s compatible separate explanation is not counted as a formal join.
 
-**Current force of alternative holding:** Remains controlling as stated.
-
 **Limits, remedy, transition, or precedent treatment:** Existing owners' commitments differ from prospective purchasers' ability to examine acquisition-based liability before buying. This is permissible protection of reliance, not an immutable contractual guarantee. The same affirmance follows independently; ability-to-pay and revenue-stability grounds remain undecided. The following earlier-authority treatment applies to this alternative:
 
 - Heckler v. Mathews, 465 U.S. 728 — applied for legitimate protection of reasonable reliance.
@@ -169,8 +157,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 **Holding:** California may permit qualifying owners over 55 to transfer their protected base-year assessment to a replacement principal residence of equal or lesser value. Facilitating a move suited to changing household needs or income rationally supports that reassessment exception and does not invalidate the general scheme.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The exception allows qualifying older owners to move to a principal residence of equal or lesser value suited to changed needs or income without losing the assessment protection otherwise discouraging the move.
 
@@ -188,8 +174,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 **Holding:** California may preserve the protected assessment on qualifying transfers between parents and children of a principal residence and up to $1 million of other real property under Article XIIIA §2(h). The familial and neighborhood continuity promoted by that exception supplies a rational basis; the exception does not render the challenged acquisition-value system unconstitutional on this claim.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Preserving family and neighborhood connection despite a change in legal ownership rationally supports continued assessment within the exception. Unequal benefit to children whose parents own property does not alone make the distinction irrational.
 
@@ -217,8 +201,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The condemnation power belongs to the ICC and remains subject to compensation. The decision does not authorize naked private favoritism or determine the proper valuation.
 
 **Operative remedy or transition:** The D.C. Circuit’s judgments in both consolidated dockets are reversed and remanded for resolution of compensation challenges and other review issues not previously decided. The Court sustains the ICC order only on the reached acquisition, agency-ground, prerequisite and public-use issues; it fixes no new valuation.
@@ -243,8 +225,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stevens's opinion, joined by Stone, Blackmun, O’Connor and Souter, supplies five votes for this proposition; Scalia and Thomas also accept donee eligibility in their judgment concurrence. The Court opinion independently controls.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Russello v. United States, 464 U.S.16 (1983): applied to respect Congress’s different property-forfeiture language; it does not itself decide the claimant’s knowledge or establish an innocent-owner finding.
@@ -255,8 +235,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** Section 881(h) is not a self-executing adjudication that eliminates an asserted §881(a)(6) innocent-owner defense before forfeiture is determined. The claimant may establish that defense first; if the property or the relevant interest is lawfully forfeitable, the resulting governmental title relates back to the act giving rise to forfeiture, subject to the statutory protection of any interest for which the defense succeeds.
 
 **Proposition-level authority:** Stevens's opinion, joined by Stone, Blackmun, O’Connor and Souter, controls with five votes. Scalia and Thomas concur in this practical result on their separately stated relation-back analysis; no narrower-ground inference is needed.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -281,8 +259,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, I; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Texas v. New Jersey, 379 U.S. 674 — applied: federal priority allocates an existing debt, requiring proper identification of debtor and creditor.
@@ -294,8 +270,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, II; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Texas v. New Jersey, 379 U.S. 674 — reaffirmed: address primary, incorporation secondary, with the primary State’s subsequent claim preserved.
@@ -306,8 +280,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** A State invoking primary priority must establish the relevant creditor addresses through proper evidence, whether transaction by transaction or another method that actually identifies those addresses. Generalized estimates based on the concentration of brokers do not establish those facts and cannot displace incorporation-based secondary priority.
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, III; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -332,8 +304,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, II-A; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Nebraska v. Wyoming, 325 U.S. 589 and 665 — construed and enforced: the original apportionment included Inland Lakes storage and priority.
@@ -345,8 +315,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority for alternative holding:** O'Connor’s Opinion of the Court, II-B; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force of alternative holding:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Ohio v. Kentucky, 410 U.S. 641 — applied: acquiescence may foreclose an equitable original claim independently of technical preclusion.
@@ -356,8 +324,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** Neither the 1922 Laramie decree preserved by Paragraph XII(d) nor the 1945 North Platte decree establishes either State’s asserted complete entitlement to the excess Laramie waters at issue. Nebraska must prove sufficiently serious threatened injury under the modification standard to obtain new protection; otherwise Wyoming is entitled to summary judgment, while flows actually reaching the pivotal reach remain subject to its existing apportionment.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, III; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -372,8 +338,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, IV; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Nebraska v. Wyoming, 325 U.S. 589 and 665 — applied: Paragraphs X and XIII retain distinct functions; ultimate interpretation reserved.
@@ -385,8 +349,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** The 1945 requirements calculations do not impose absolute ceilings on individual or aggregate canal diversions from the pivotal reach; Paragraph V permits Nebraska to allocate its apportioned share among its canals. Paragraph IV’s limits on canal priority against federal reservoir storage remain, and the legal consequence of allegedly excessive calls is reserved pending an adequate factual record.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, V; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -412,8 +374,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Boone v. Lightner, 319 U.S. 561 — distinguished: discretionary stay provisions retain their own impairment inquiry.
@@ -437,8 +397,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 **Holding:** For determining Alabama's Submerged Lands Act grant, the complete paragraph3 baseline incorporated from the United States–Alabama joint submission is fixed on February22,1993 and thereafter does not move with the coast. The whole Mississippi Sound remains state inland waters under the antecedent decrees; each party bears its own costs, and the Court retains authority to implement and supplement the decree and the parties' rights.
 
 **Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs1–6, entered in its continuing original action. This is binding decretal relief for the parties; it announces no new general coastal-ownership test or opinion rationale.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -464,8 +422,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 **Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Initial contractual rent differences and the initial-rent floor remain protected. Particular study accuracy and lawful implementation remain contestable; the Court does not approve every application of the 1989 legislation.
 
 **Operative remedy or transition:** Reverse and remand. The impairment ruling cannot rest on an unconditional factor entitlement; properly presented study and contract-compliance challenges remain available. No particular rent or damages award.
@@ -489,8 +445,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 **Holding:** This withdrawal liability is not a taking when its economic impact, reasonable investment-backed expectations and the character of the governmental action are considered together. The substantial monetary burden alone does not establish appropriation or a constitutional percentage ceiling; broader reliance on the former 30%-of-net-worth limit is not independently decided.
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The asserted impact does not establish a taking portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No constitutional percentage ceiling, independent entitlement to the former thirty-percent-of-net-worth cap or adjudication of employers entering plans before ERISA is established. Contractual limits do not alone defeat federal legislation, and the regulatory setting supplies no universal immunity for retrospective pension laws.
 

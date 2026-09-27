@@ -21,8 +21,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Blackmun, Stevens, Scalia and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; O'Connor and Thomas dissent from the 7–2 reversal.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** State officials must exercise substantive control over the particular private restraint. Staffed agencies, veto power, enforceable duties and the legal effect of silence establish capacity or nominal approval, not necessarily its exercise.
 
 **Limits and questions not reached:** Clear articulation remains independently necessary and is conceded for the four States before the Court. No hearing format, paperwork requirement or rejection quota is prescribed; the inquiry asks whether the State actually decided, not whether regulation is wise or efficient. Distinct sovereign action, materially different comprehensive supervision, infrequent lapses, other insurance exemptions and any difference between FTC Act and Sherman Act immunity remain undecided.
@@ -43,8 +41,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Holding:** The supported findings that Wisconsin and Montana performed at most arithmetic checks, left some filings unchecked and allowed rates to remain effective despite missing requested information establish no actual substantive state supervision of these challenged private rate agreements. The agreements therefore receive no state-action antitrust immunity in those two States, notwithstanding the legal effect that state law assigns to official inaction.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Blackmun, Stevens, Scalia and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; O'Connor and Thomas dissent from the 7–2 reversal.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Commission findings show arithmetic-only or absent review, rates effective despite missing requested information in Montana, and an information request seven years after a Wisconsin filing became effective. The findings establish absent substantive control, not economically mistaken state judgment; limited judicial review cannot cure that absence.
 
@@ -70,8 +66,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Holding:** For a Sherman Act §1 tying claim, functionally related products are distinct when sufficient separate consumer demand makes separate provision efficient. Evidence that Kodak parts and service meet that test, and that Kodak conditions parts sales on buying its service or forgoing independent service, creates genuine disputes about distinct products and conditioning; respondents must still prove all remaining tying elements.
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined by Stone, White, Stevens, Kennedy and Souter; six Justices.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Independent service providers, customer preference for their services and self-servicing customers permit a finding of efficient separate provision. Restrictions on parts sales and use of independent service permit a finding of conditioning; installation of parts during service does not conclusively merge the products. The tied-commerce volume is undisputed here.
 
@@ -102,8 +96,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Holding:** A relevant product market may consist of one brand's parts or service when actual commercial alternatives and competitive constraints support that definition; brand identity alone neither establishes nor defeats it. Kodak-specific compatibility, very high parts and service shares, and entry and switching barriers create a genuine dispute about monopoly power sufficient to resist summary judgment under §2.
 
 **Proposition-level authority:** Blackmun's opinion, joined by Stone, White, Stevens, Kennedy and Souter; six Justices permit a market and power finding without conclusively establishing either.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Owners cannot necessarily substitute another brand's parts, and replacing the equipment may cost much more than the service at issue. Evidence supports nearly complete control of compatible parts and an eighty-to-ninety-five-percent service share, together with impediments to independent supply. Equipment competitors remain relevant to whether lifetime prices are constrained.
 
@@ -143,8 +135,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** White’s opinion of the Court for Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; nine Justices adopt the rule and its explanation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Swift & Co. v. United States,196 U.S.375 — applied: dangerous probability requires proximity and degree beyond intent alone.
@@ -156,9 +146,7 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Holding:** The judgment against these petitioners cannot stand on a §2 verdict that may rest solely on an attempted-monopolization instruction dispensing with dangerous-probability proof, when the appellate affirmance rests on that legally erroneous route. Reverse and remand for application of the correct elements and consideration of any properly preserved independent grounds; this decision establishes neither defeat nor success on those grounds and orders no automatic new trial or judgment for petitioners.
 
-**Proposition-level authority:** White’s unanimous opinion; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas adopt the remedial holding and explanation.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** White’s unanimous opinion; all nine Justices adopt the remedial holding and explanation.
 
 **Treatment of earlier authority:**
 
@@ -181,8 +169,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Holding:** Under the sham theory presented, a lawsuit loses Noerr protection only if it is objectively baseless, so that no reasonable litigant could realistically expect success on the merits, and then is shown to use the governmental process itself, rather than its outcome, as an anticompetitive weapon. The copyright suit had an objectively reasonable basis, ending this inquiry without motive discovery; even a sham finding would leave the ordinary antitrust elements to be proved.
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Fraud in obtaining governmental action, serial proceedings and independently unlawful conduct remain unresolved. Loss of petitioning protection would not establish the ordinary antitrust elements.
 
@@ -209,8 +195,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, Below-cost pricing must carry a prospect of recoupment portion; O’Connor, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Brown Shoe, 370 U.S.294 — competition/competitor distinction applied.
@@ -224,8 +208,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Holding:** Even crediting below-cost pricing and predatory purpose and drawing reasonable inferences for Liggett, the evidence does not permit a reasonable jury to find the required prospect of Brown & Williamson recouping its losses through the alleged coordinated pricing mechanism. The failure of that necessary element sustains judgment as a matter of law without a categorical oligopoly exemption.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, This record lacks the necessary recoupment showing portion; O’Connor, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No exclusive cost measure is selected. Actual recoupment, express conspiracy or single-firm monopoly is not required, but the defendant’s own recovery must be supported. Sherman Act dangerous probability is not automatically substituted for Robinson-Patman’s reasonable prospect. Alternative antitrust-injury and causation grounds remain undecided.
 
@@ -250,8 +232,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Group Life & Health Insurance v. Royal Drug, 440 U.S.205: activity/entity distinction applied; loose outsider analogy confined to its context.
@@ -266,8 +246,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, O’Connor, Scalia, Kennedy, Thomas (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - St. Paul Fire&Marine v. Barry, 438 U.S.531: collateral-pressure application retained; not limited to boycotts of competitors.
@@ -280,8 +258,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Holding:** The pleaded London conduct intended to produce, and producing, substantial effects on American insurance coverage may be adjudicated under the Sherman Act; British permission without an incompatible duty or another established ground requiring nonapplication here does not warrant the asserted comity dismissal. The Court reserves a universal comity rule and §6a’s precise applicability, while preserving its qualifying-effects and claim-connection requirements wherever applicable.
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Qualifying activity and actual state regulation remain required. Section6a’s precise applicability is reserved; where applicable its direct, substantial and reasonably foreseeable domestic effect and claim-connection requirements remain, and the pleaded effect here gives rise to these claims. No universal comity-impossibility rule, general independent coercion definition, proven cartel or actual liability is adopted.
 
