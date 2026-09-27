@@ -1090,8 +1090,3 @@ Supreme Court review of this merits event is complete. Reverse the categorical e
 
 **End of entry: Hartford Fire Insurance v. California, Merits disposition, 1993-06-28.**
 
----
-
-## Simulation Workflow Blockers
-
-No open workflow blockers.

@@ -821,8 +821,3 @@ Supreme Court merits review is complete; the judgment against petitioners is rev
 
 **End of entry: Spectrum Sports v. McQuillan, merits decision, January 25, 1993.**
 
----
-
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.

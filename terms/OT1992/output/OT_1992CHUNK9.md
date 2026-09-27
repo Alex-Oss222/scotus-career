@@ -860,8 +860,3 @@ Supreme Court merits review is complete. Provide a constitutionally adequate cap
 
 **End of entry: Johnson v. Texas, merits disposition, 1993-06-24.**
 
----
-
-## Simulation Workflow Blockers
-
-No workflow blockers remain open.

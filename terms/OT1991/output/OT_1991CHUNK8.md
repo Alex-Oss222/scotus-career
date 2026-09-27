@@ -404,8 +404,3 @@ Supreme Court review ends in affirmance of dismissal without prejudice. The Gove
 
 **End of entry: United States v. Williams, Merits decision, May 4, 1992.**
 
----
-
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

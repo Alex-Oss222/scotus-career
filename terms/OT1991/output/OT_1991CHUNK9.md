@@ -1275,8 +1275,3 @@ Supreme Court review ends with reversal and remand to North Dakota for further p
 
 **End of entry: Quill Corp. v. North Dakota, merits decision, May 26, 1992.**
 
----
-
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.

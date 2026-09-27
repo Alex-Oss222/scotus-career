@@ -661,8 +661,3 @@ Supreme Court merits review ends with reversal and a remand limited to the popul
 
 **End of entry: Voinovich v. Quilter, merits decision, March 2, 1993.**
 
----
-
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.
