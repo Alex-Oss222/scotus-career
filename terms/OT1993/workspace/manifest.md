@@ -134,6 +134,8 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 - **Not supplied.** The inventory supplies no grant events, argument dates, or lower-court judgments. Each event's brief supplies posture, questions, participation, and record, to be validated before adjudication. Nothing in this manifest is a disposition or a prediction.
 - **Regeneration.** `tools/rebuild_manifest.py` regenerates the inventory table from `case-list.md` and the Records and preserves the sections below it.
 
+- **Central Bank, April 19, 1994:** The corrected existing merits event affirms reinstatement of the private aiding-and-abetting claim, 5–4, and remands for further proceedings. The inventory item remains completed; no new Court event or retained proceeding is added. The canonical Record controls the replacement disposition.
+
 ## Current-term source calendar
 
 - **1994-01-01:** [South Carolina 1993 Act No. 184, H.3151; relevant to Cavanaugh v. Roller, No. 92-1510.](../records/South_Carolina_Act_184_effective_source_1994-01-01.md#public-projection) The enacted amendment to S.C. Code §16-1-60 and its transition rule take effect according to §§266 and 269; no Court disposition or judicial construction is supplied.

@@ -1,0 +1,104 @@
+{
+  "scope": "Central Bank only; correction of existing 1994-04-19 merits event",
+  "source_revision": "cb0cf85 (user supplied; Git verification deferred)",
+  "participants": [
+    "Stone",
+    "Blackmun",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "judgment": {
+    "disposition": "Affirm reinstatement and remand",
+    "support": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "Souter",
+      "Ginsburg"
+    ],
+    "oppose": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ]
+  },
+  "controlling_writing": {
+    "author": "Stevens",
+    "joined_by": [
+      "Stone",
+      "Blackmun",
+      "Souter",
+      "Ginsburg"
+    ],
+    "scope": "Entire Court opinion; three holdings"
+  },
+  "concurrence": {
+    "author": "Stone",
+    "joined_by": [],
+    "scope": "Joins Court in full; additional omission and proof rules noncontrolling"
+  },
+  "dissent": {
+    "author": "Kennedy",
+    "joined_by": [
+      "O'Connor",
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "non_stone_commitment_changes": [],
+  "holdings_explanation_word_counts": [
+    193,
+    172,
+    180
+  ],
+  "public_projection_render_input_identity": true,
+  "internal_public_holdings_identity": true,
+  "preservation": {
+    "output": "All bytes outside Central Bank entry (and its output chronology row) identical",
+    "render-inputs": "All bytes outside Central Bank entry (and its output chronology row) identical",
+    "entering-law": "All bytes outside Central Bank entry (and its output chronology row) identical"
+  },
+  "other_records_and_original_freezes_preserved": true,
+  "all_briefs_preserved": true,
+  "local_record_links_and_anchors_checked": 9,
+  "changed_existing_files": [
+    "terms/OT1993/entering-law/OT_1993CHUNK3_COMPLETED_PUBLIC_AUTHORITY.md",
+    "terms/OT1993/output/OT_1993CHUNK3.md",
+    "terms/OT1993/records/Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md",
+    "terms/OT1993/render-inputs/OT_1993CHUNK3.md",
+    "terms/OT1993/runtime/OT_1993CHUNK3_STONE.md",
+    "terms/OT1993/runtime/OT_1993CHUNK3_STONE_C.md",
+    "terms/OT1993/workspace/continuity.md",
+    "terms/OT1993/workspace/ledger.md",
+    "terms/OT1993/workspace/manifest.md",
+    "terms/OT1993/workspace/neutral-projection.md"
+  ],
+  "corrected_record_sha256": "625b04fe4bdf7108ae635fd73c35156a986f831fb860070f085ea534565f1de3",
+  "superseded_record_sha256": "098f73c40d43c8137c76cf4252ddc52c66a21b23b3b301a55c9b2081e3e2a2cf",
+  "unchanged_frozen_handoff_sha256": {
+    "OT_1993CHUNK3_COMMITMENTS_C.md": "411b7603a84f041ba4c92e95ee2b3deb25dfee48287fac8bd03935830ae83c83",
+    "OT_1993CHUNK3_RECONCILED_C.md": "006cba7adb5aace4a3feb34e133274818952553af0f879a838c87ede9b7a209e",
+    "OT_1993CHUNK3_ASSEMBLY_C_VALIDATION.md": "33b08a6b2eff82c6dee326deb0dda62ab99658d4aa1c1bc502976bc03d0f4a7e",
+    "OT_1993CHUNK3_ASSEMBLY_C_VOTES.json": "7cd261bd8f23ab643bef52191fdf3296fafaa1d76b034696405e28acdcd36e1a"
+  },
+  "term_check": {
+    "scope": "Repository check_term.py with only commit-object function deferred; all other checks execute unchanged",
+    "exit_code": 0,
+    "git_commands_executed": 0,
+    "commit_verification": "DEFERRED, not passed",
+    "unverified_tokens": [
+      "A40385013",
+      "cb0cf85",
+      "cceeded"
+    ],
+    "output": "WARNINGS\n - terms\\OT1993\\records\\Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md: commit check deferred under no-Git instruction: cb0cf85\n - terms\\OT1993\\records\\FDIC_v_Meyer_merits_1994-02-23.md: commit check deferred under no-Git instruction: cceeded\n - terms\\OT1993\\records\\Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md: commit check deferred under no-Git instruction: A40385013\nOK: OT1993; 3 warning(s)\n"
+  },
+  "git_commands_executed": 0,
+  "repository_commit_and_commit_reference_verification": "Deferred to operator; not passed"
+}

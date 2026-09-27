@@ -582,52 +582,175 @@ The State exercised the challenged strikes, so state action is direct. The defen
 
 **Citation or Docket:** 511 U.S. 164 (1994); No. 92-854
 
-#### A. STATUS
+#### A. STATUS AND GOVERNING BASELINE
 
-**Approval Status:** USER-DIRECTED REVISED POSITION. The user authorized these preparation changes and supplied case-specific reasoning. This is Stone's current prepared position, subject to its stated legal and factual limits; it is not an Engine vote, an adopted Court holding, or an inferred fallback.
+**Approval Status:** USER-DIRECTED REVISED POSITION (second revision, superseding the prior rejection of secondary liability). The user authorized these preparation changes and supplied case-specific reasoning. This is Stone's current prepared position, subject to its stated legal and factual limits; it is not an Engine vote, an adopted Court holding, or an inferred fallback.
 
-**Current-Through Baseline:** Immediately before 1994-04-19. Inherit the completed OT1991–OT1992 simulated law through July 26, 1993 in `inherited/HOLDINGS.md` and `inherited/STANDARDS_AND_TESTS.md`, with the OT1993 opening roster and practices in `inherited/STANDING_STATE.md`. Add only actual OT1993 decisions effective before this event; uncoordinated same-day matters share the entering baseline. Pre-divergence law remains available where not displaced. A post-divergence historical Supreme Court decision supplies no in-world holding unless adopted in this simulation.
+**Stone’s Position:** Preserve the private aiding-and-abetting action under §10(b) and Rule 10b-5 for knowing or severely reckless substantial affirmative assistance to securities fraud. Apply the separate limits below to liability based on silence or inaction.
 
-**Conditions:** The user has authorized this preparation revision, including its expressly stated conditions. Revalidate event-date law and material record before adjudication. The existing standing fallback concerns only components on which Section II is silent; it does not replace an expressed position.
+**Current-Through Baseline:** Immediately before April 19, 1994. Apply inherited simulated holdings and otherwise applicable law effective before this event. Historical opinions in this case supply competing reasoning and record context, not a controlling simulated disposition. No later securities legislation or later judicial restriction on primary or secondary liability supplies the governing rule.
 
-**Inherited-Law Context:** Musick, Peeler recognizes contribution within the received Rule 10b-5 action. It expressly supplies neither a general license to create new defendants nor an aiding-and-abetting action; the §10(b) question remains separate. These inherited rules supply entering law, not an entered decision in this case.
-
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Inherited-Law Context:** Musick, Peeler recognizes contribution among persons jointly liable under the received Rule 10b-5 action. It supports bounded judicial development of that established remedy but does not itself establish aiding-and-abetting liability. Stone must justify the present rule independently.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Reverse the Tenth Circuit’s judgment insofar as it recognizes this private aiding-and-abetting claim under §10(b).
+**Stone’s Judgment or Disposition:** Affirm the Tenth Circuit’s judgment reversing summary judgment for Central Bank and remand for further proceedings under the standard stated below.
 
-**Stone’s Remedy and Remand Position:** Restore judgment for Central Bank on the pleaded secondary-liability theory. Do not decide an unpleaded primary claim, the liability of other defendants, or every SEC enforcement power. Any independently preserved non-§10(b) claim remains subject to its own source and posture. [R19](https://supreme.justia.com/cases/federal/us/511/164/)
+The purchasers may maintain their private aiding-and-abetting claim. The evidence concerning the appraisal warnings and the bank’s agreement to postpone independent review permits a genuine factual dispute about culpability and substantial assistance. It does not establish the bank’s liability as a matter of law.
 
-#### C. ENTERING LAW BY ISSUE
+**Stone’s Remedy and Remand Position:** Require separate proof of the underlying securities fraud, the bank’s culpable and substantial assistance, legally sufficient reliance, causation, and recoverable loss. Neither the bonds’ default nor their face value establishes the amount of compensable fraud loss.
 
-##### Issue 1: Scope of the private securities action
+Further proceedings must address the pleaded secondary-liability theory without requiring the purchasers to transform it into an unpleaded primary-misrepresentation claim. Independently preserved claims and defenses retain their own governing rules. Contribution becomes relevant only upon proof of shared underlying liability under inherited Musick, Peeler. No damages, automatic indemnity, or liability of another defendant is adjudicated here.
 
-**Entering Law:** 15 U.S.C. §78j(b) prohibits use of manipulative or deceptive devices in connection with securities transactions; 17 C.F.R. §240.10b-5 implements it. Superintendent of Insurance v. Bankers Life, 404 U.S. 6 (1971), recognizes the private primary action. Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976), and Herman & MacLean v. Huddleston, 459 U.S. 375 (1983), reserve aiding and abetting. Santa Fe Industries v. Green, 430 U.S. 462 (1977), requires the statutory deception/manipulation predicate. Musick, Peeler & Garrett, 508 U.S. 286 (1993), concerns development of the recognized implied remedy. [R19](https://supreme.justia.com/cases/federal/us/511/164/)
+#### C. ENTERING LAW AND THE QUESTION LEFT OPEN
 
-#### D. STONE’S REVISED REASONING, APPLICATION, AND LIMITS
+Section 10(b) and Rule 10b-5 prohibit manipulative or deceptive conduct connected with securities transactions. The private action is established, but its boundaries remain judicially defined. Superintendent of Insurance v. Bankers Life, 404 U.S. 6 (1971), recognizes that action; Santa Fe Industries v. Green, 430 U.S. 462 (1977), prevents its conversion into a general remedy for corporate unfairness or fiduciary misconduct unaccompanied by the requisite deception or manipulation.
 
-**Stone’s Position and Scope:** retain rejection of the pleaded secondary-liability theory, but describe it as a substantial displacement of entrenched lower-court law.
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976), excludes negligence from private §10(b) damages liability while reserving whether recklessness suffices. Hochfelder and Herman & MacLean v. Huddleston, 459 U.S. 375 (1983), leave aiding and abetting unresolved. Huddleston establishes the ordinary preponderance standard of proof.
 
-Section 10(b) regulates manipulative or deceptive conduct. “Indirectly” can reach a person's indirect commission of that conduct without necessarily creating a civil action against everyone assisting another's violation. *Hochfelder* and *Huddleston* reserved aiding and abetting; no controlling Supreme Court holding must be overruled. Nevertheless, longstanding circuit acceptance and investor enforcement expectations deserve more than a sentence about congressional silence. [Question and competing analyses, 511 U.S. 164](https://www.law.cornell.edu/supremecourt/text/511/164).
+The lower courts have developed accessory-liability rules, but their formulations differ. Woodward v. Metro Bank, 522 F.2d 84 (5th Cir. 1975), and Woods v. Barnett Bank, 765 F.2d 1004 (11th Cir. 1985), distinguish culpable assistance from ordinary commercial participation and give duties particular significance when liability rests on inaction. The Tenth Circuit’s decision in this litigation, First Interstate Bank v. Pring, 969 F.2d 891 (1992), permits recklessness to satisfy the culpability requirement for affirmative assistance.
 
-Stone joined the simulated *Musick, Peeler* contribution holding. The principled distinction is between allocating a common liability among persons already within the received action and adding liability for conduct that does not itself satisfy the statutory prohibition. That distinction is defensible, but not automatic: opponents can argue that accessory responsibility is an equally established incident of an implied action. Stone should address common-law accessory principles, the close express statutory analogues, and the requirements—especially reliance—that secondary liability risks bypassing.
+Stone therefore confronts an open Supreme Court question informed by substantial lower-court experience. Preserving the action and specifying its limits is a meaningful doctrinal choice, not a result already dictated by a controlling Supreme Court holding.
 
-His source-based remedial restraint supports the proposal only if those arguments leave no sufficient statutory footing. It is **open Supreme Court doctrine with major practical change**, not mere housekeeping. The cost is less private redress against knowing facilitators and altered incentives for professional gatekeepers. Regulatory usefulness cannot supply the omitted cause, but these costs must be acknowledged.
+#### D. STONE’S REASONING, APPLICATION, AND LIMITS
 
-Application must distinguish assistance from the bank's own deception on the law then available. Delaying an appraisal after warnings may show culpability, but culpability alone is not a primary deceptive act. Conversely, banks and professionals are not exempt as classes when their own conduct satisfies the prohibition. Do not import later *Janus/Stoneridge* limits, resolve all SEC powers, or invent a primary claim absent from the pleadings. Apply the ruling to this pending secondary claim; final judgments stay final.
+**1. Preserve the received remedy through a legally bounded account of accessory responsibility.**
 
-#### E. RECORD AND SOURCE SUPPORT
+Stone begins with the statutory prohibition and the established private action. The reference to conduct undertaken indirectly accommodates mediated participation, but those words alone do not create unlimited liability for everyone connected with a securities transaction.
 
-**Independent Record and Threshold Context:** Central Bank was indenture trustee for bonds secured by land-assessment liens. After concerns arose about an appraisal supporting the collateral ratio, an internal appraiser suggested independent review. The bank deferred that review until after the bond closing. The issuer defaulted before review was completed. The purchasers pleaded the bank’s secondary assistance to other defendants’ fraud, not a finding already establishing the bank’s own primary deceptive act. [R19](https://supreme.justia.com/cases/federal/us/511/164/)
+The stronger basis is the judicial responsibility to define the received remedy in light of its established development and traditional principles of responsibility for assisting a wrong. A person who culpably and substantially advances a particular securities fraud occupies a different position from someone whose only connection is employment, professional status, or an ordinary commercial relationship.
 
-The Court’s review encompasses the existence and scope of the private secondary action, an issue previously reserved in Supreme Court decisions. Lower-court acceptance is significant authority and reliance context, but not a Supreme Court holding on the reserved question. Decide the cause’s reach before weighing recklessness. No later securities amendments or later definitions of primary liability apply. [R19](https://supreme.justia.com/cases/federal/us/511/164/)
+Congressional silence is not an enactment. Longstanding lower-court recognition nevertheless matters as the developed legal setting in which the established private remedy operates. Stone would not discard that body of law merely because the statute does not separately enumerate every incident of an action that is itself implied.
 
-**Source Support:** [R19](https://supreme.justia.com/cases/federal/us/511/164/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
+Musick, Peeler supports this method but does not settle the conclusion. Contribution allocates liability among persons already answerable for a violation; accessory responsibility determines whether an additional participant is answerable at all. Stone acknowledges that difference and requires a separate justification grounded in the defendant’s own culpable participation in the statutory fraud.
 
+Traditional civil aiding-and-abetting principles provide an analogy. They do not authorize importing every common-law theory into federal securities law. Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), illustrates responsibility for knowing substantial assistance without a conspiratorial agreement, but it is a common-law decision rather than a §10(b) holding.
 
-**Revision Trace:** User-directed implementation of [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**2. Address the statutory objection directly.**
+
+The strongest contrary argument is that §10(b) prohibits deceptive conduct without expressly imposing liability for assistance, while Congress expressly addressed some secondary responsibility through §20(a)’s control-person provision.
+
+Stone does not answer that objection through investor-protection purposes alone. His response is that control and culpable assistance are distinct grounds of responsibility. Authority over another person is insufficient under the rule adopted here. A plaintiff cannot evade §20(a)’s defenses merely by relabeling control as assistance.
+
+The accessory claim instead requires proof of the defendant’s own substantial participation and the required culpability concerning a particular fraud. Those independent requirements allow the provisions to operate alongside one another.
+
+That construction is contestable. The express provisions could instead be understood to delimit all secondary responsibility. Stone nevertheless concludes that preserving the established accessory component of the received action, subject to demanding statutory and evidentiary limits, is better grounded than eliminating it or converting it into a general professional-care obligation.
+
+**3. Adopt knowing or severely reckless substantial affirmative assistance as the governing standard.**
+
+A private plaintiff must establish:
+
+1. An underlying violation of §10(b) and Rule 10b-5.
+2. Affirmative conduct by the defendant that substantially assisted that violation.
+3. Knowledge or severe recklessness concerning the fraudulent character of the activity and the assisting significance of the defendant’s conduct.
+4. Reliance sufficient under the governing rules.
+5. The required causal connection to a recoverable loss.
+
+A separate judgment against the primary wrongdoer is unnecessary, but proof of the underlying violation remains indispensable. The plaintiff need not establish a conspiratorial agreement, a shared purpose to secure the fraud’s success, or a personal share in its proceeds.
+
+Severe recklessness requires an extreme departure from ordinary care in circumstances presenting a specific danger of deception that the defendant knew about or that was so evident the defendant must have appreciated it. Even serious professional negligence is insufficient.
+
+The relevant danger concerns fraud. Awareness that a borrower is financially weak, collateral values may fall, or an investment may fail does not itself establish awareness of deception.
+
+Stone adopts this standard for substantial affirmative assistance without requiring a separate fiduciary duty to the purchasers. Existing circuit decisions support the formulation, but Stone does not pretend that every circuit already follows it or that Hochfelder resolved the question. He preserves Hochfelder’s rejection of negligence while resolving its reserved recklessness question in this setting.
+
+**4. Require assistance that does identifiable work in the fraud.**
+
+The court must identify what the defendant supplied, arranged, authorized, or otherwise did, and explain how that conduct meaningfully advanced the particular fraud.
+
+The nature, amount, timing, duration, relationship, and practical effect of the assistance are relevant. A list of factors cannot replace a supported account of the defendant’s actual contribution.
+
+The assistance need not be indispensable. Several participants may each substantially advance a scheme. Nevertheless, an ordinary background service or remote commercial connection is insufficient.
+
+Routine services receive neither automatic immunity nor automatic suspicion. A normal banking service knowingly used to facilitate a particular fraud may qualify; an unusual transaction undertaken without the requisite awareness may not. Commercial novelty, professional fees, and institutional size do not substitute for the elements.
+
+**5. Maintain a distinct rule for silence and inaction.**
+
+Where liability rests on reckless failure to act, the plaintiff must identify an independently established duty covering the omitted protective step. The court must determine that duty’s source, beneficiaries, trigger, and scope.
+
+The title “indenture trustee” does not create an unlimited obligation to investigate every representation associated with an offering. Nor does the general description “gatekeeper” supply a duty that the governing law or undertaking does not impose.
+
+Without a relevant duty, silence or inaction qualifies only upon proof of conscious intent to assist a known fraud and substantial assistance in fact. Knowledge coupled with a mere failure to volunteer a warning is insufficient.
+
+Courts must also resist verbal manipulation of the distinction. Describing nonperformance as an “affirmative decision not to investigate” does not transform an omission into affirmative assistance.
+
+A communicated postponement agreement can qualify as affirmative assistance when it coordinates or enables the fraudulent transaction. An internal decision to defer work, without that additional assisting function, remains subject to the omission rule. What the defendant actually did and how it helped control the classification.
+
+**6. Preserve reliance and causation without requiring investors to discover a concealed assistant.**
+
+Accessory responsibility permits the consequences of a proved primary fraud to be attributed to a culpable substantial participant. It does not require purchasers to have known about or personally relied on the assistant’s concealed participation.
+
+Stone must defend that attribution openly as part of the retained accessory action. It does not establish that the bank itself made a primary misrepresentation.
+
+The purchasers must still establish reliance on the underlying fraud through the governing rules. Any presumption requires its own legal and factual foundation and remains subject to applicable rebuttal. Basic v. Levinson, 485 U.S. 224 (1988), supplies no automatic efficient-market presumption for these municipal bonds.
+
+The plaintiff must connect the assistance to the fraud, the fraud to the investment decision, and the actionable fraud to the claimed loss. A participant cannot be charged with every loss that follows an offering or default.
+
+The inquiry must distinguish harm attributable to concealed collateral inadequacy from harm that would have occurred independently because of market conditions or unrelated business failure. Contribution may allocate established common responsibility; it cannot replace proof of liability or authorize duplicate recovery.
+
+**7. Apply the standard to the actual record.**
+
+The purchasers’ affirmative-assistance theory concerns Central Bank’s agreement with the developer to postpone independent appraisal review until after the offering.
+
+The outside warnings and internal appraisal concerns permit an inference that the postponement involved more than an ordinary disagreement over value. Together with evidence that the agreement facilitated an offering proceeding on the challenged collateral representations, they present a genuine factual question under Stone’s standard.
+
+That is sufficient to sustain reversal of summary judgment on this record. It is not a finding that the appraisal was fraudulent, that the bank possessed the required awareness, or that the postponement caused every claimed loss.
+
+Further proceedings should determine:
+
+- What warnings reached the responsible bank officials before closing.
+- Whether those warnings indicated deception rather than valuation uncertainty.
+- What those officials understood about the agreement’s assisting role.
+- Whether postponement actually advanced the fraud.
+- Whether the purchasers relied on the underlying fraud.
+- Which losses resulted from that fraud.
+
+The bank may present evidence of a credible valuation basis, a justified timetable inconsistent with the claimed culpability, or the absence of a substantial assisting effect. A genuine independent assessment may bear on awareness; nominal reliance on an assessment known to be unreliable does not automatically defeat liability.
+
+Knowledge must be attributed under applicable agency principles. Courts should not manufacture a culpable institutional state of mind by combining innocent fragments of information held by unrelated employees.
+
+If the agreement proves to be only nonperformance without an independently assisting arrangement, the omission rule governs. If the evidence establishes serious appraisal concerns but not the required awareness of deception, culpability fails. If fraud and assistance are established but the claimed loss arose independently, recovery for that loss fails.
+
+**8. Apply equal regard through the elements and proof rules.**
+
+The purchasers retain the ordinary civil burden. Circumstantial evidence counts; an admission of wrongdoing is unnecessary. The pleading, summary-judgment, and evidentiary rules are those applicable at the simulated date.
+
+Huddleston’s preponderance standard appropriately allocates the risk of factual error. Stone would neither demand a special heightened evidentiary burden because the defendant is a bank nor shift the burden merely because relevant information lies within the bank’s files.
+
+The same legal protections extend to individual and institutional investors. Professional status supplies neither immunity nor guilt. Investor loss supplies neither an automatic entitlement to compensation nor a reason to disregard proved participation in fraud.
+
+**9. Acknowledge the doctrinal choice and its costs.**
+
+This position replaces Stone’s earlier prepared rejection of private aiding-and-abetting liability. It does not overrule a prior simulated Central Bank holding or attribute an accessory-liability holding to Musick, Peeler.
+
+Choosing severe recklessness for affirmative substantial assistance resolves an open question and rejects more restrictive formulations where they conflict with this rule. Stone should identify that development expressly.
+
+The costs include fact-intensive litigation, settlement pressure, and possible deterrence of legitimate professional services. Those concerns require enforcement of culpability, substantial assistance, reliance, and causation as independent limits.
+
+A knowledge-only rule offers a clearer verbal boundary but risks leaving grave, consciously disregarded participation without a remedy. A negligence rule would extend substantially further and conflict with Hochfelder.
+
+Stone selects severe recklessness because it can reach serious participation while preserving a workable distinction between fraud assistance and professional error. The distinction depends on particularized evidence of awareness and actual contribution, not on a general judicial judgment that someone should have done more.
+
+#### E. HOLDING AND RESERVED QUESTIONS
+
+**Stone’s Holding:** The received private action under §10(b) and Rule 10b-5 includes liability for knowing or severely reckless substantial affirmative assistance to an underlying securities fraud. Reckless omissions require an independently established relevant duty; duty-free inaction requires conscious intent to assist a known fraud and substantial assistance in fact. Reliance, causation, and recoverable loss remain necessary.
+
+Affirm the reversal of summary judgment and remand for further proceedings consistent with this standard.
+
+**Reserved Questions:** No determination of ultimate liability or damages; no general professional-investigation duty; no automatic reliance presumption for municipal securities; no adjudication of an unpleaded primary claim; and no comprehensive resolution of SEC enforcement authority or liability under other statutory provisions.
+
+**Principal Sources:**
+
+- Central Bank, record and competing reasoning: https://www.law.cornell.edu/supremecourt/text/511/164
+- First Interstate Bank v. Pring: https://openjurist.org/969/f2d/891/first-interstate-bank-of-denver-na-v-i-pring
+- Ernst & Ernst v. Hochfelder: https://supreme.justia.com/cases/federal/us/425/185/
+- Herman & MacLean v. Huddleston: https://supreme.justia.com/cases/federal/us/459/375/
+- Woodward v. Metro Bank: https://openjurist.org/522/f2d/84
+- Woods v. Barnett Bank: https://openjurist.org/765/f2d/1004
+- Halberstam v. Welch: https://openjurist.org/705/f2d/472
+- Basic v. Levinson: https://supreme.justia.com/cases/federal/us/485/224/
+
+**Revision Trace:** Second user-directed revision, superseding the first (which itself replaced Stone's original prepared rejection of secondary liability). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 36. McDermott, Inc. v. AmClyde
 
