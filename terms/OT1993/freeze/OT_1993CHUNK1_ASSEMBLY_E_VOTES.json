@@ -1,0 +1,91 @@
+{
+  "term": "OT1993",
+  "chunk": 1,
+  "assembly_scope": "E — Middlebrooks only; Cavanaugh excluded",
+  "status": "Initial assembly; pending operator validation and commit; no Git command run",
+  "frozen_reconciliation": "OT_1993CHUNK1_RECONCILED_PROCEDURAL_SUPPLEMENT.md",
+  "events": [
+    {
+      "case": "Tennessee v. Middlebrooks",
+      "dockets": [
+        "92-989"
+      ],
+      "date": "1993-12-13",
+      "file": "Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md",
+      "render_form": "full",
+      "participating": [
+        "Stone-Zsela",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "nonparticipating": [],
+      "judgments": [
+        {
+          "component": "Dismiss writ for want of jurisdiction",
+          "for_": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "against": [],
+          "count": "9–0"
+        }
+      ],
+      "holdings": [
+        {
+          "id": "adequate-independent-state-ground",
+          "support": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "count": 9
+        }
+      ],
+      "writings": [
+        {
+          "type": "Opinion of the Court",
+          "author": "O'Connor",
+          "joins": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "count": 9,
+          "scope": "entire opinion"
+        }
+      ],
+      "separate_writings": [],
+      "procedural_actions": [],
+      "limits": [
+        "No separate supplemental-filing leave ruling; Howell considered as independently published state authority.",
+        "Blackmun supports only the expressly reasoned jurisdictional disposition; bare DIG alternative not certified.",
+        "No federal capital merits, harmlessness, Cox finality, guilt or habeas holding.",
+        "No new remand or vacatur; state judgment continues to require resentencing and permits lawful renewed death request."
+      ]
+    }
+  ]
+}

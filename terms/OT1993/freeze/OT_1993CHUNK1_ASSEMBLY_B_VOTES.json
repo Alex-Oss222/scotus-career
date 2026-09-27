@@ -1,0 +1,93 @@
+[
+  {
+    "record": "United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md",
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "pre-seizure process",
+        "for": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "against": [
+          "O'Connor",
+          "Scalia",
+          "Thomas"
+        ],
+        "announced": [
+          6,
+          3
+        ]
+      },
+      {
+        "name": "statutory timing",
+        "for": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against": [],
+        "announced": [
+          9,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "record": "John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md",
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "affirm fiduciary-status judgment",
+        "for": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Souter",
+          "Ginsburg"
+        ],
+        "against": [
+          "O'Connor",
+          "Kennedy",
+          "Thomas"
+        ],
+        "announced": [
+          6,
+          3
+        ]
+      }
+    ]
+  }
+]

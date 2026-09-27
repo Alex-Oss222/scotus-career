@@ -1,0 +1,12 @@
+{
+  "case_count": 12,
+  "neutral_inherited_anchor_references": 21,
+  "missing_anchors": [],
+  "workspace_files": {
+    "manifest.md": true,
+    "ledger.md": true,
+    "continuity.md": true,
+    "neutral-projection.md": true
+  },
+  "scope": "Mechanical neutral-input check only; does not validate law, facts, votes or approval. No Git command executed."
+}

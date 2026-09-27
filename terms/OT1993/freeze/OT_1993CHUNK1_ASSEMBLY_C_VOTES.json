@@ -1,0 +1,248 @@
+{
+  "stage": "initial assembly; operator validation pending",
+  "events": [
+    {
+      "case": "Burden v. Zant",
+      "docket": "92-8836",
+      "date": "1994-01-10",
+      "file": "Burden_v_Zant_summary_merits_1994-01-10.md",
+      "participants": [
+        "Stone-Zsela",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components": [
+        {
+          "component": "record-error judgment",
+          "for_": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "against": [],
+          "count": "9-0"
+        }
+      ],
+      "opinions": [
+        {
+          "writing": "per curiam",
+          "author": "Court",
+          "joins": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "scope": "all"
+        }
+      ],
+      "procedural_actions": [
+        {
+          "component": "leave to proceed without prepaying fees",
+          "disposition": "granted",
+          "public_vote": "no separate numerical vote announced",
+          "basis": "Court disposition on submitted motion; Stone joins under standing fallback without added ground"
+        },
+        {
+          "component": "certiorari for limited record error",
+          "disposition": "granted",
+          "public_vote": "no separate numerical vote announced",
+          "internal_poll": {
+            "grant": [
+              "Stone-Zsela",
+              "Blackmun",
+              "Stevens",
+              "O'Connor",
+              "Scalia",
+              "Kennedy",
+              "Souter",
+              "Thomas",
+              "Ginsburg"
+            ],
+            "deny": []
+          },
+          "threshold": 4,
+          "basis": "Eight frozen grant commitments for manifest record error; Stone standing fallback"
+        }
+      ]
+    },
+    {
+      "case": "Ratzlaf v. United States",
+      "docket": "92-1196",
+      "date": "1994-01-11",
+      "file": "Ratzlaf_v_United_States_merits_1994-01-11.md",
+      "participants": [
+        "Stone-Zsela",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components": [
+        {
+          "component": "reviewed judgment for both Ratzlafs",
+          "for_": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Ginsburg"
+          ],
+          "against": [
+            "Blackmun",
+            "O'Connor",
+            "Thomas"
+          ],
+          "count": "6-3"
+        }
+      ],
+      "opinions": [
+        {
+          "writing": "Court",
+          "author": "Ginsburg",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter"
+          ],
+          "scope": "statutory and alternative lenity holdings"
+        },
+        {
+          "writing": "dissent",
+          "author": "Blackmun",
+          "joins": [
+            "O'Connor",
+            "Thomas"
+          ],
+          "scope": "all"
+        }
+      ]
+    },
+    {
+      "case": "Thunder Basin Coal Co. v. Reich",
+      "docket": "92-896",
+      "date": "1994-01-19",
+      "file": "Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md",
+      "participants": [
+        "Stone-Zsela",
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components": [
+        {
+          "component": "statutory jurisdiction",
+          "for_": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "against": [],
+          "count": "9-0"
+        },
+        {
+          "component": "constitutional access relief",
+          "for_": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "against": [],
+          "count": "9-0",
+          "controlling_ground": [
+            "Stone-Zsela",
+            "Blackmun",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg"
+          ],
+          "distinct_ground": [
+            "Scalia",
+            "Thomas"
+          ]
+        }
+      ],
+      "opinions": [
+        {
+          "writing": "Court statutory portion",
+          "author": "Blackmun",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "scope": "statutory channel"
+        },
+        {
+          "writing": "Court process portion",
+          "author": "Blackmun",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg"
+          ],
+          "scope": "meaningful review and due process"
+        },
+        {
+          "writing": "concurrence in part and judgment",
+          "author": "Scalia",
+          "joins": [
+            "Thomas"
+          ],
+          "scope": "distinct constitutional ground"
+        }
+      ]
+    }
+  ]
+}

@@ -1,21 +1,21 @@
 # OT1993 Full-Term Event Manifest
 
-Generated from case-list.md. Open must add validated carryovers from Standing State and any expressly supplied additions before first adjudication.
+Generated from case-list.md and canonical Records. Standing State carryovers or later authorized additions not present in case-list must be appended below the inventory table and preserved on regeneration.
 
 | Event date | Chunk | Case or matter | Citation or docket | Matter type | Date status or event type | Status |
 |---|---|---|---|---|---|---|
-| 1993-10-12 | OT_1993CHUNK1 | Day v. Day | Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 | APPLICATION | Fee-waiver and filing-control application | Open |
-| 1993-10-12 | OT_1993CHUNK1 | In re Sassower | Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596 | APPLICATION | Fee-waiver and filing-control application | Open |
-| 1993-11-09 | OT_1993CHUNK1 | Harris v. Forklift Systems, Inc. | No. 92-1168 | MERITS | Signed opinion | Open |
-| 1993-11-09 | OT_1993CHUNK1 | Florence County School District Four v. Carter | No. 91-1523 | MERITS | Signed opinion | Open |
-| 1993-11-30 | OT_1993CHUNK1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | No. 92-1123 | MERITS | Per curiam post-grant procedural disposition | Open |
-| 1993-11-30 | OT_1993CHUNK1 | Cavanaugh v. Roller | No. 92-1510 | MERITS | Per curiam post-grant procedural disposition | Open |
-| 1993-12-13 | OT_1993CHUNK1 | United States v. James Daniel Good Real Property | No. 92-1180 | MERITS | Signed opinion | Open |
-| 1993-12-13 | OT_1993CHUNK1 | John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank | No. 92-1074 | MERITS | Signed opinion | Open |
-| 1993-12-13 | OT_1993CHUNK1 | Tennessee v. Middlebrooks | No. 92-989 | MERITS | Per curiam post-grant procedural disposition | Open |
-| 1994-01-10 | OT_1993CHUNK1 | Burden v. Zant | No. 92-8836 | MERITS | Per curiam judgment / summary disposition | Open |
-| 1994-01-11 | OT_1993CHUNK1 | Ratzlaf v. United States | No. 92-1196 | MERITS | Signed opinion | Open |
-| 1994-01-19 | OT_1993CHUNK1 | Thunder Basin Coal Co. v. Reich | No. 92-896 | MERITS | Signed opinion | Open |
+| 1993-10-12 | OT_1993CHUNK1 | Day v. Day | Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 | APPLICATION | Fee-waiver and filing-control application | Stopped: Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline. Completed separate prospective component: [Day_v_Day_prospective_filing_control_1993-10-12.md](../records/Day_v_Day_prospective_filing_control_1993-10-12.md). |
+| 1993-10-12 | OT_1993CHUNK1 | In re Sassower | Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596 | APPLICATION | Fee-waiver and filing-control application | Stopped: Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition. Completed separate prospective component: [In_re_Sassower_prospective_filing_control_1993-10-12.md](../records/In_re_Sassower_prospective_filing_control_1993-10-12.md). |
+| 1993-11-09 | OT_1993CHUNK1 | Harris v. Forklift Systems, Inc. | No. 92-1168 | MERITS | Signed opinion | Completed: Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md |
+| 1993-11-09 | OT_1993CHUNK1 | Florence County School District Four v. Carter | No. 91-1523 | MERITS | Signed opinion | Completed: Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md |
+| 1993-11-30 | OT_1993CHUNK1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | No. 92-1123 | MERITS | Per curiam post-grant procedural disposition | Completed: Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md |
+| 1993-11-30 | OT_1993CHUNK1 | Cavanaugh v. Roller | No. 92-1510 | MERITS | Per curiam post-grant procedural disposition | Stopped: Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered. |
+| 1993-12-13 | OT_1993CHUNK1 | United States v. James Daniel Good Real Property | No. 92-1180 | MERITS | Signed opinion | Completed: United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md |
+| 1993-12-13 | OT_1993CHUNK1 | John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank | No. 92-1074 | MERITS | Signed opinion | Completed: John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md |
+| 1993-12-13 | OT_1993CHUNK1 | Tennessee v. Middlebrooks | No. 92-989 | MERITS | Per curiam post-grant procedural disposition | Completed: Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md |
+| 1994-01-10 | OT_1993CHUNK1 | Burden v. Zant | No. 92-8836 | MERITS | Per curiam judgment / summary disposition | Completed: Burden_v_Zant_summary_merits_1994-01-10.md |
+| 1994-01-11 | OT_1993CHUNK1 | Ratzlaf v. United States | No. 92-1196 | MERITS | Signed opinion | Completed: Ratzlaf_v_United_States_merits_1994-01-11.md |
+| 1994-01-19 | OT_1993CHUNK1 | Thunder Basin Coal Co. v. Reich | No. 92-896 | MERITS | Signed opinion | Completed: Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md |
 | 1994-01-19 | OT_1993CHUNK2 | Weiss v. United States | No. 92-1482, including Hernandez under Supreme Court Rule 12.2 | MERITS | Signed opinion | Open |
 | 1994-01-19 | OT_1993CHUNK2 | Schiro v. Farley | No. 92-7549 | MERITS | Signed opinion | Open |
 | 1994-01-24 | OT_1993CHUNK2 | Albright v. Oliver | No. 92-833 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Chronology cursor at opening.** October 4, 1993, the opening of the Term, before the first supplied event (October 12, 1993).
+- **Current chronology cursor.** January 19, 1994, through Thunder Basin; the January 19 uncoordinated group is not complete. Next: Weiss v. United States and Schiro v. Farley (January 19, 1994, chunk 2). They must use the start-of-day baseline through January 11, including the January 1 statutory source; Thunder Basin is excluded from their entering law. All three decisions combine only prospectively after that same-day group.
 
 ## Manifest controls and limitations
 
@@ -133,3 +133,15 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 - **Docket note.** *Nichols v. United States* is carried under No. 92-8556 as established by its opinion, notwithstanding the Journal's inconsistent docket prefix.
 - **Not supplied.** The inventory supplies no grant events, argument dates, or lower-court judgments. Each event's brief supplies posture, questions, participation, and record, to be validated before adjudication. Nothing in this manifest is a disposition or a prediction.
 - **Regeneration.** `tools/rebuild_manifest.py` regenerates the inventory table from `case-list.md` and the Records and preserves the sections below it.
+
+## Current-term source calendar
+
+- **1994-01-01:** [South Carolina 1993 Act No. 184, H.3151; relevant to Cavanaugh v. Roller, No. 92-1510.](../records/South_Carolina_Act_184_effective_source_1994-01-01.md#public-projection) The enacted amendment to S.C. Code §16-1-60 and its transition rule take effect according to §§266 and 269; no Court disposition or judicial construction is supplied.
+
+## Chunk 1 continuation
+
+- **Day v. Day:** Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline.
+- **In re Sassower:** Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition.
+- **Cavanaugh v. Roller:** Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
+
+Weiss v. United States and Schiro v. Farley (January 19, 1994, chunk 2). They must use the start-of-day baseline through January 11, including the January 1 statutory source; Thunder Basin is excluded from their entering law. All three decisions combine only prospectively after that same-day group.

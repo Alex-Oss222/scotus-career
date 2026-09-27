@@ -1,0 +1,91 @@
+[
+  {
+    "record": "terms/OT1993/records/Day_v_Day_prospective_filing_control_1993-10-12.md",
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Decline new prospective noncriminal-certiorari fee-and-form condition",
+        "for": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against": [],
+        "announced": [
+          9,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "record": "terms/OT1993/records/In_re_Sassower_prospective_filing_control_1993-10-12.md",
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Decline new prospective noncriminal-certiorari fee-and-form condition",
+        "for": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against": [],
+        "announced": [
+          9,
+          0
+        ]
+      },
+      {
+        "name": "Decline new prospective noncriminal-extraordinary-writ fee-and-form condition",
+        "for": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against": [],
+        "announced": [
+          9,
+          0
+        ]
+      }
+    ]
+  }
+]

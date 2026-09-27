@@ -1,0 +1,935 @@
+{
+  "id": 6204090,
+  "name": "LIPAROTA v. UNITED STATES",
+  "name_abbreviation": "Liparota v. United States",
+  "decision_date": "1985-05-13",
+  "docket_number": "No. 84-5108",
+  "first_page": "419",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "471 U.S. 419"
+    },
+    {
+      "type": "parallel",
+      "cite": "85 L. Ed. 2d 434"
+    },
+    {
+      "type": "parallel",
+      "cite": "105 S. Ct. 2084"
+    },
+    {
+      "type": "vendor",
+      "cite": "1985 U.S. LEXIS 10"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1984-093"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "469 U. S. 1032",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12049377,
+        12048963,
+        12049508,
+        12049285,
+        12049447,
+        12049163,
+        12049067,
+        12049592
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/469/1032-05",
+        "/us/469/1032-01",
+        "/us/469/1032-07",
+        "/us/469/1032-04",
+        "/us/469/1032-06",
+        "/us/469/1032-03",
+        "/us/469/1032-02",
+        "/us/469/1032-08"
+      ]
+    },
+    {
+      "cite": "597 F. 2d 609",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        386104
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/597/0609-01"
+      ]
+    },
+    {
+      "cite": "7 CFR \u00a7 274.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Stan. L. Rev. 681",
+      "category": "journals:journal",
+      "reporter": "Stan. L. Rev.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "444 U. S. 394",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306594
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "405-406"
+        },
+        {
+          "page": "403-407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0394-01"
+      ]
+    },
+    {
+      "cite": "686 F. 2d 850",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1457318
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/686/0850-01"
+      ]
+    },
+    {
+      "cite": "460 U. S. 1088",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6373728,
+        6372450,
+        6373123,
+        6372775,
+        6373545,
+        6373919,
+        6372592,
+        6373395,
+        6373269,
+        6374426,
+        6372959
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1088-09",
+        "/us/460/1088-01",
+        "/us/460/1088-05",
+        "/us/460/1088-03",
+        "/us/460/1088-08",
+        "/us/460/1088-10",
+        "/us/460/1088-02",
+        "/us/460/1088-07",
+        "/us/460/1088-06",
+        "/us/460/1088-11",
+        "/us/460/1088-04"
+      ]
+    },
+    {
+      "cite": "687 F. 2d 273",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1461335
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/687/0273-01"
+      ]
+    },
+    {
+      "cite": "460 U. S. 1081",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6357316,
+        6355940,
+        6357803,
+        6356685,
+        6356884,
+        6358262,
+        6356120,
+        6358040,
+        6357595,
+        6356316,
+        6357117,
+        6356510
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1081-08",
+        "/us/460/1081-01",
+        "/us/460/1081-10",
+        "/us/460/1081-05",
+        "/us/460/1081-06",
+        "/us/460/1081-12",
+        "/us/460/1081-02",
+        "/us/460/1081-11",
+        "/us/460/1081-09",
+        "/us/460/1081-03",
+        "/us/460/1081-07",
+        "/us/460/1081-04"
+      ]
+    },
+    {
+      "cite": "687 F. 2d 1221",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1461222
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/687/1221-01"
+      ]
+    },
+    {
+      "cite": "724 F. 2d 1438",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1920065
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/724/1438-01"
+      ]
+    },
+    {
+      "cite": "7 U. S. C. \u00a7\u00a7 2014",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 U. S. 250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1479181
+      ],
+      "year": 1922,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/258/0250-01"
+      ]
+    },
+    {
+      "cite": "320 U. S. 277",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141088
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/320/0277-01"
+      ]
+    },
+    {
+      "cite": "402 U. S. 558",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11734620
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "564-565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0558-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 601",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714382
+      ],
+      "weight": 5,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "609"
+        },
+        {
+          "page": "612-614",
+          "parenthetical": "Brennan, J., concurring in judgment"
+        },
+        {
+          "page": "613",
+          "parenthetical": "Brennan, J., concurring in judgment"
+        },
+        {
+          "page": "614-615",
+          "parenthetical": "BRENNAN, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0601-01"
+      ]
+    },
+    {
+      "cite": "18 U. S. C. \u00a7 1001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "468 U. S. 63",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337094
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "75, n. 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0063-01"
+      ]
+    },
+    {
+      "cite": "344 U. S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299516
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "221-222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/344/0218-01"
+      ]
+    },
+    {
+      "cite": "349 U. S. 81",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333568
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/349/0081-01"
+      ]
+    },
+    {
+      "cite": "404 U. S. 336",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173129
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "347-348"
+        },
+        {
+          "page": "348",
+          "parenthetical": "\"[B]ecause of the seriousness of criminal penalties, and because criminal punishment usually represents the moral condemnation of the community, legislatures and not courts should define criminal activity\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0336-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715007
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "812"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0808-01"
+      ]
+    },
+    {
+      "cite": "7 CFR \u00a7 274.10",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 U. S. C. \u00a7 2016",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "438 U. S. 422",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769246
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "438"
+        },
+        {
+          "page": "437"
+        },
+        {
+          "page": "444-445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0422-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch 32",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        572722
+      ],
+      "year": 1812,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/11/0032-01"
+      ]
+    },
+    {
+      "cite": "342 U. S. 246",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641097
+      ],
+      "weight": 3,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "251"
+        },
+        {
+          "page": "252-253"
+        },
+        {
+          "parenthetical": "holding that it is a defense to a charge of \"knowingly converting\" federal property that one did not know that what one was doing was a conversion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0246-01"
+      ]
+    },
+    {
+      "cite": "469 U. S. 930",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12029346,
+        12029443,
+        12029830,
+        12029639,
+        12029543,
+        12029678,
+        12029391,
+        12029871,
+        12029750,
+        12029494,
+        12029592,
+        12029790
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0930-01",
+        "/us/469/0930-03",
+        "/us/469/0930-11",
+        "/us/469/0930-07",
+        "/us/469/0930-05",
+        "/us/469/0930-08",
+        "/us/469/0930-02",
+        "/us/469/0930-12",
+        "/us/469/0930-09",
+        "/us/469/0930-04",
+        "/us/469/0930-06",
+        "/us/469/0930-10"
+      ]
+    },
+    {
+      "cite": "735 F. 2d 1044",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        580983
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/735/1044-01"
+      ]
+    },
+    {
+      "cite": "7 U. S. C. \u00a7 2024",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "34"
+        },
+        {
+          "page": "31"
+        },
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Stat. 708",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 U. S. 29",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701357
+      ],
+      "year": 1896,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/161/0029-01"
+      ]
+    },
+    {
+      "cite": "418 U. S. 87",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171974
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "120-124"
+        },
+        {
+          "page": "123-124"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/418/0087-01"
+      ]
+    },
+    {
+      "cite": "18 U. S. C. \u00a7 1461",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "342 U. S. 337",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641157
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "345",
+          "parenthetical": "Jackson, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/342/0337-01"
+      ]
+    },
+    {
+      "cite": "18 U. S. C. \u00a7 834",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(f)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "21 U. S. C. \u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "452 U. S. 576",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313733
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "580-581"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/452/0576-01"
+      ]
+    },
+    {
+      "cite": "18 U. S. C. \u00a7\u00a7641",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "7 CFR \u00a7\u00a7271.2",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "48 Stat. 996",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "258 U. S. 250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1479181
+      ],
+      "year": 1922,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/258/0250-01"
+      ]
+    },
+    {
+      "cite": "320 U. S. 277",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141088
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "284-285"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/320/0277-01"
+      ]
+    },
+    {
+      "cite": "402 U. S. 558",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11734620
+      ],
+      "weight": 4,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "562"
+        },
+        {
+          "page": "563-564"
+        },
+        {
+          "page": "564-565"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/402/0558-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 601",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714382
+      ],
+      "weight": 4,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "612-615",
+          "parenthetical": "Brennan, J., concurring in judgment"
+        },
+        {
+          "page": "614-615",
+          "parenthetical": "Brennan, J., concurring in judgment"
+        },
+        {
+          "page": "612",
+          "parenthetical": "BRENNAN, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/401/0601-01"
+      ]
+    },
+    {
+      "cite": "468 U. S. 63",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337094
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "69, n. 6"
+        },
+        {
+          "page": "69, n. 6"
+        },
+        {
+          "page": "69"
+        },
+        {
+          "page": "75, n. 14"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/468/0063-01"
+      ]
+    },
+    {
+      "cite": "7 CFR \u00a7 274.10",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "342 U. S. 246",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641097
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/342/0246-01"
+      ]
+    },
+    {
+      "cite": "735 F. 2d 1044",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        580983
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1047-1048"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/735/1044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1613,
+    "char_count": 52932,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 4.356104172218788e-06,
+      "percentile": 0.9985721175249985
+    },
+    "sha256": "81c0d58b7522b25ee2470a8bdd7460ca148338f5e92c9be5ade90f239e89e958",
+    "simhash": "1:aaf6e3c4c4d69e66",
+    "word_count": 8845
+  },
+  "last_updated": "2024-02-27T23:59:19.834649+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BRENNAN, J., delivered the opinion of the Court, in which Marshall, Blackmun, Rehnquist, Stevens, and O\u2019Connor, JJ., joined. White, J., filed a dissenting opinion, in which Burger, C. J., joined, post, p. 434. Powell, J., took no part in the consideration or decision of the case."
+    ],
+    "parties": [
+      "LIPAROTA v. UNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Brennan\ndelivered the opinion of the Court.\nThe federal statute governing food stamp fraud provides that \u201cwhoever knowingly uses, transfers, acquires, alters, or possesses coupons or authorization cards in any manner not authorized by [the statute] or the regulations\u201d is subject to a fine and imprisonment. 78 Stat. 708, as amended, 7 U. S. C. \u00a7 2024(b)(1). The question presented is whether in a prosecution under this provision the Government must prove that the defendant knew that he was acting in a manner not authorized by statute or regulations.\n\u201c[WJhoever knowingly uses, transfers, acquires, alters, or possesses coupons or authorization cards in any manner not authorized by this chapter or the regulations issued pursuant to this chapter shall, if such coupons or authorization cards are of a value of $100 or more, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and\nHH\nPetitioner Frank Liparota was the co-owner with his brother of Moon\u2019s Sandwich Shop in Chicago, Illinois. He was indicted for acquiring and possessing food stamps in violation of \u00a7 2024(b)(1). The Department of Agriculture had not authorized petitioner\u2019s restaurant to accept food stamps. App. 6-7. At trial, the Government proved that petitioner on three occasions purchased food stamps from an undercover Department of Agriculture agent for substantially less than their face value. On the first occasion, the agent informed petitioner that she had $195 worth of food stamps to sell. The agent then accepted petitioner\u2019s offer of $150 and consummated the transaction in a back room of the restaurant with petitioner\u2019s brother. A similar transaction occurred one week later, in which the agent sold $500 worth of coupons for $350. Approximately one month later, petitioner bought $500 worth of food stamps from the agent for $300.\nIn submitting the case to the jury, the District Court rejected petitioner\u2019s proposed \u201cspecific intent\u201d instruction, which would have instructed the jury that the Government must prove that \u201cthe defendant knowingly did an act which the law forbids, purposely intending to violate the law. \u201d Id., at 34. Concluding that \u201c[t]his is not a specific intent crime\u201d but rather a \u201cknowledge case,\u201d id., at 31, the District Court instead instructed the jury as follows:\n\u201cWhen the word \u2018knowingly\u2019 is used in these instructions, it means that the Defendant realized what he was doing, and was aware of the nature of his conduct, and did not act through ignorance, mistake, or accident. Knowledge may be proved by defendant\u2019s conduct and by all of the facts and circumstances surrounding the case.\u201d M,at33.\nThe District Court also instructed that the Government had to prove that \u201cthe Defendant acquired and possessed food stamp coupons for cash in a manner not authorized by federal statute or regulations\u201d and that \u201cthe Defendant knowingly and wilfully acquired the food stamps.\u201d 3 Tr. 251. Petitioner objected that this instruction required the jury to find merely that he knew that he was acquiring or possessing food stamps; he argued that the statute should be construed instead to reach only \u201cpeople who knew that they were acting unlawfully.\u201d App. 31. The judge did not alter or supplement his instructions, and the jury returned a verdict of guilty.\nPetitioner appealed his conviction to the Court of Appeals for the Seventh Circuit, arguing that the District Court erred in refusing to instruct the jury that \u201cspecific intent\u201d is required in a prosecution under 7 U. S. C. \u00a7 2024(b)(1). The Court of Appeals rejected petitioner\u2019s arguments. 735 F. 2d 1044 (1984). Because this decision conflicted with recent decisions of three other Courts of Appeals, we granted certiorari. 469 U. S. 930 (1984). We reverse.\n\u25ba \u2014 I\nThe controversy between the parties concerns the mental state, if any, that the Government must show in proving that petitioner acted \u201cin any manner not authorized by [the statute] or the regulations.\u201d The Government argues that petitioner violated the statute if he knew that he acquired or possessed food stamps and if in fact that acquisition or possession was in a manner not authorized by statute or regulations. According to the Government, no mens rea, or \u201cevil-meaning mind,\u201d Morissette v. United States, 342 U. S. 246, 251 (1952), is necessary for conviction. Petitioner claims that the Government\u2019s interpretation, by dispensing with mens rea, dispenses with the only morally blameworthy element in the definition of the crime. To avoid this allegedly untoward result, he claims that an individual violates the statute if he knows that he has acquired or possessed food stamps and if he also knows that he has done so in an unauthorized manner. Our task is to determine which meaning Congress intended.\nThe definition of the elements of a criminal offense is entrusted to the legislature, particularly in the case of federal crimes, which are solely creatures of statute. United States v. Hudson, 7 Cranch 32 (1812). With respect to the element at issue in this case, however, Congress has not explicitly spelled out the mental state required. Although Congress certainly intended by use of the word \u201cknowingly\u201d to require some mental state with respect to some element of the crime defined in \u00a7 2024(b)(1), the interpretations proffered by both parties accord with congressional intent to this extent. Beyond this, the words themselves provide little guidance. Either interpretation would accord with ordinary usage. The legislative history of the statute contains nothing that would clarify the congressional purpose on this point.\nAbsent indication of contrary purpose in the language or legislative history of the statute, we believe that \u00a7 2024(b)(1) requires a showing that the defendant knew his conduct to be unauthorized by statute or regulations. \u201cThe contention that an injury can amount to a crime only when inflicted by intention is no provincial or transient notion. It is as universal and persistent in mature systems of law as belief in freedom of the human will and a consequent ability and duty of the normal individual to choose between good and evil.\u201d Morissette v. United States, supra, at 250. Thus, in United States v. United States Gypsum Co., 438 U. S. 422, 438 (1978), we noted that \u201c[cjertainly far more than the simple omission of the appropriate phrase from the statutory definition is necessary to justify dispensing with an intent requirement\u201d and that criminal offenses requiring no mens rea have a \u201cgenerally disfavored status.\u201d Similarly, in this case, the failure of Congress explicitly and unambiguously to indicate whether mens rea is required does not signal a departure from this background assumption of our criminal law.\nThis construction is particularly appropriate where, as here, to interpret the statute otherwise would be to criminalize a broad range of apparently innocent conduct. For instance, \u00a7 2024(b)(1) declares it criminal to use, transfer, acquire, alter, or possess food stamps in any manner not authorized by statute or regulations. The statute provides further that \u201c[cjoupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores.\u201d 7 U. S. C. \u00a7 2016(b) (emphasis added); see also 7 CFR \u00a7 274.10(a) (1985). This seems to be the only authorized use. A strict reading of the statute with no knowledge-of-illegality requirement would thus render criminal a food stamp recipient who, for example, used stamps to purchase food from a store that, unknown to him, charged higher than normal prices to food stamp program participants. Such a reading would also render criminal a nonrecipient of food stamps who \u201cpossessed\u201d stamps because he was mistakenly sent them through the mail due to administrative error, \u201caltered\u201d them by tearing them up, and \u201ctransferred\u201d them by throwing them away. Of course, Congress could have intended that this broad range of conduct be made illegal, perhaps with the understanding that prosecutors would exercise their discretion to avoid such harsh results. However, given the paucity of material suggesting that Congress did so intend, we are reluctant to adopt such a sweeping interpretation.\nIn addition, requiring mens rea is in keeping with our longstanding recognition of the principle that \u201cambiguity concerning the ambit of criminal statutes should be resolved in favor of lenity.\u201d Rewis v. United States, 401 U. S. 808, 812 (1971). See also United States v. United States Gypsum Co., supra, at 437; United States v. Bass, 404 U. S. 336, 347-348 (1971); Bell v. United States, 349 U. S. 81, 83 (1955); United States v. Universal C. I. T. Credit Corp., 344 U. S. 218, 221-222 (1952). Application of the rule of lenity ensures that criminal statutes will provide fair warning concerning conduct rendered illegal and strikes the appropriate balance between the legislature, the prosecutor, and the court in defining criminal liability. See United States v. Bass, supra, at 348 (\u201c[B]ecause of the seriousness of criminal penalties, and because criminal punishment usually represents the moral condemnation of the community, legislatures and not courts should define criminal activity\u201d). Although the rule of lenity is not to be applied where to do so would conflict with the implied or expressed intent of Congress, it provides a time-honored interpretive guideline when the congressional purpose is unclear. In the instant case, the rule directly supports petitioner\u2019s contention that the Government must prove knowledge of illegality to convict him under \u00a7 2024(b)(1).\nThe Government argues, however, that a comparison between \u00a7 2024(b)(1) and its companion, \u00a7 2024(c), demonstrates a congressional purpose not to require proof of the defendant\u2019s knowledge of illegality in a \u00a7 2024(b)(1) prosecution. Section 2024(c) is directed primarily at stores authorized to accept food stamps from program participants. It provides that \u201c[wjhoever presents, or causes to be presented, coupons for payment or redemption. . . knowing the same to have been received, transferred, or used in any manner in violation of [the statute] or the regulations\u201d is subject to fine and imprisonment (emphasis added). The Government contrasts this language with that of \u00a7 2024(b)(1), in which the word \u201cknowingly\u201d is placed differently: \u201cwhoever knowingly uses, transfers . . .\u201d (emphasis added). Since \u00a7 2024(c) undeniably requires a knowledge of illegality, the suggested inference is that the difference in wording and structure between the two sections indicates that \u00a7 2024(b)(1) does not.\n\u201cWhoever presents, or causes to be presented, coupons for payment or redemption of the value of $100 or more, knowing the same to have been received, transferred, or used in any manner in violation of the provisions of this chapter or the regulations issued pursuant to this chapter, shall be guilty of a felony and, upon the first conviction thereof, shall be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than one year nor more than five years and may also be fined not more than $10,000, or, if such coupons are of a value of less than $100, shall be guilty of a misdemeanor and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the food stamp program for an additional period of up to eighteeen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.\u201d\nIt is worth noting that the penalties under this section are virtually identical to those provided in \u00a7 2024(b)(1). See n. 1, supra.\nThe Government urges that this distinction between the mental state required for a \u00a7 2024(c) violation and that required for a \u00a7 2024(b)(1) violation is a sensible one. Absent a requirement of mens rea, a grocer presenting food stamps for payment might be criminally liable under \u00a7 2024(c) even if his customer or employees have illegally procured or transferred the stamps without the grocer\u2019s knowledge. Requiring knowledge of illegality in a \u00a7 2024(c) prosecution is allegedly necessary to avoid this kind of vicarious, and non-fault-based, criminal liability. Since the offense defined in \u00a7 2024(b)(1) \u2014 using, transferring, acquiring, altering, or possessing food stamps in an unauthorized manner \u2014 does not involve this possibility of vicarious liability, argues the Government, Congress had no reason to impose a similar knowledge of illegality requirement in that section.\nWe do not find this argument persuasive. The difference in wording between \u00a7 2024(b)(1) and \u00a7 2024(c) is too slender a reed to support the attempted distinction, for if the Government\u2019s argument were accepted, it would lead to the demise of the very distinction that Congress is said to have desired. According to the Government, Congress did intend a knowledge of illegality requirement in \u00a7 2024(c), while it did not intend such a requirement in \u00a7 2024(b)(1). Anyone who has violated \u00a7 2024(c) has \u201cpresent[ed], or caus[ed] to be presented, coupons for payment or redemption\u201d in an unauthorized manner. Such a person would seemingly have also \u201cuse[d], transfer[red], acquir[ed], alter[ed], or possess[ed]\u201d the coupons in a similarly unauthorized manner, and thus to have violated \u00a7 2024(b)(1). It follows that the Government will be able to prosecute any violator of \u00a7 2024(c) under \u00a7 2024(b)(1) as well. If only \u00a7 2024(c) \u2014 and not \u00a7 2024(b)(1)\u2014 required the Government to prove knowledge of illegality, the result would be that the Government could always avoid proving knowledge of illegality in food stamp fraud cases, simply by bringing its prosecutions under \u00a7 2024(b)(1). If Congress wanted to require the Government to prove knowledge of illegality in some, but not all, food stamp fraud cases, it thus chose a peculiar way to do so.\nFor similar reasons, the Government\u2019s arguments that Congress could have had a plausible reason to require knowledge of illegality in prosecutions under \u00a7 2024(c), but not \u00a7 2024(b)(1), are equally unpersuasive. Grocers are participants in the food stamp program who have had the benefit of an extensive informational campaign concerning the authorized use and handling of food stamps. App. 7-8. Yet the Government would have to prove knowledge of illegality when prosecuting such grocers, while it would have no such burden when prosecuting third parties who may well have had no opportunity to acquaint themselves with the rules governing food stamps. It is not immediately obvious that Congress would have been so concerned about imposing strict liability on grocers, while it had no similar concerns about imposing strict liability on nonparticipants in the program. Our point once again is not that Congress could not have chosen to enact a statute along these lines, for there are no doubt policy arguments on both sides of the question as to whether such a statute would have been desirable. Rather, we conclude that the policy underlying such a construction is neither so obvious nor so compelling that we must assume, in the absence of any discussion of this issue in the legislative history, that Congress did enact such a statute.\nThe Government advances two additional arguments in support of its reading of the statute. First, the Government contends that this Court\u2019s decision last Term in United States v. Yermian, 468 U. S. 63 (1984), supports its interpretation. Yermian involved a prosecution for violation of the federal false statement statute, 18 U. S. C. \u00a7 1001. All parties agreed that the statute required proof at least that the defendant \u201cknowingly and willfully\u201d made a false statement. Thus, unlike the instant case, all parties in Yermian agreed that the Government had to prove the defendant\u2019s mens rea. The controversy in Yermian centered on whether the Government also had to prove that the defendant knew that the false statement was made in a matter within the jurisdiction of a federal agency. With respect to this element, although the Court held that the Government did not have to prove actual knowledge of federal agency jurisdiction, the Court explicitly reserved the question whether some culpability was necessary with respect even to the jurisdictional element. 468 U. S., at 75, n. 14. In contrast, the Government in the instant case argues that no mens rea is required with respect to any element of the crime. Finally, Yermian found that the statutory language was unambiguous and that the legislative history supported its interpretation. The statute at issue in this case differs in both respects.\nSecond, the Government contends that the \u00a7 2024(b)(1) offense is a \u201cpublic welfare\u201d offense, which the Court defined in Morissette v. United States, 342 U. S., at 252-253, to \u201cdepend on no mental element but consist only of forbidden acts or omissions.\u201d Yet the offense at issue here differs substantially from those \u201cpublic welfare offenses\u201d we have previously recognized. In most previous instances, Congress has rendered criminal a type of conduct that a reasonable person should know is subject to stringent public regulation and may seriously threaten the community\u2019s health or safety. Thus, in United States v. Freed, 401 U. S. 601 (1971), we examined the federal statute making it illegal to receive or possess an unregistered firearm. In holding that the Government did not have to prove that the recipient of unregistered hand grenades knew that they were unregistered, we noted that \u201cone would hardly be surprised to learn that possession of hand grenades is not an innocent act.\u201d Id., at 609. See also United States v. International Minerals & Chemical Corp., 402 U. S. 558, 564-565 (1971). Similarly, in United States v. Dotterweich, 320 U. S. 277, 284 (1943), the Court held that a corporate officer could violate the Food, Drug, and Cosmetic Act when his firm shipped adulterated and misbranded drugs, even \u201cthough consciousness of wrongdoing be totally wanting.\u201d See also United States v. Balint, 258 U. S. 250 (1922). The distinctions between these cases and the instant case are clear. A food stamp can hardly be compared to a hand grenade, see Freed, nor can the unauthorized acquisition or possession of food stamps be compared to the selling of adulterated drugs, as in Dotterweich.\nM I \u2014 I HH\nWe hold that in a prosecution for violation of \u00a7 2024(b)(1), the Government must prove that the defendant knew that his acquisition or possession of food stamps was in a manner unauthorized by statute or regulations. This holding does not put an unduly heavy burden on the Government in prosecuting violators of \u00a7 2024(b)(1). To prove that petitioner knew that his acquisition or possession of food stamps was unauthorized, for example, the Government need not show that he had knowledge of specific regulations governing food stamp acquisition or possession. Nor must the Government introduce any extraordinary evidence that would conclusively demonstrate petitioner\u2019s state of mind. Rather, as in any other criminal prosecution requiring mens rea, the Government may prove by reference to facts and circumstances surrounding the case that petitioner knew that his conduct was unauthorized or illegal.\nReversed.\nJustice Powell took no part in the consideration or decision of this case.\nThe statute provides in relevant part: any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such coupons or authorization cards are of a value of less than $100, shall be guilty of a misdemeanor, and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the food stamp program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.\u201d\nFood stamps are provided by the Government to those who meet certain need-related criteria. See 7 U. S. C. \u00a7\u00a7 2014(a), 2014(c). They generally may be used only to purchase food in retail food stores. 7 U. S. C. \u00a7 2016(b). If a restaurant receives proper authorization from the Department of Agriculture, it may receive food stamps as payment for meals under certain special circumstances not relevant here. App. 6-7.\nThe instruction proffered by petitioner was drawn from 1 E. Devitt & C. Blaekmar, Federal Jury Practice and Instructions \u00a7 14.03 (1977). The instruction reads in its entirety:\n\u201cThe crime charged in this case is a serious crime which requires proof of specific intent before the defendant can be convicted. Specific intent, as the term implies, means more than the general intent to commit the act. To establish specific intent the government must prove that the defendant knowingly did an act which the law forbids, purposely intending to violate the law. Such intent may be determined from all the facts and circumstances surrounding the case.\u201d\nSee United States v. Pollard, 724 F. 2d 1438 (CA6 1984); United States v. Marvin, 687 F. 2d 1221 (CA8 1982), cert. denied, 460 U. S. 1081 (1983); United States v. Faltico, 687 F. 2d 273 (CA8 1982), cert. denied, 460 U. S. 1088 (1983); United States v. O\u2019Brien, 686 F. 2d 850 (CA10 1982).\nThe required mental state may of course be different for different elements of a crime. United States v. Bailey, 444 U. S. 394, 405-406 (1980); United States v. Freed, 401 U. S. 601, 612-614 (1971) (Brennan, J., concurring in judgment). See generally Robinson & Grail, Element Analysis in Defining Criminal Liability: The Model Penal Code and Beyond, 85 Stan. L. Rev. 681 (1988). In this case, for instance, both parties agree that petitioner must have known that he acquired and possessed food stamps. They disagree over whether any mental element at all is required with respect to the unauthorized nature of that acquisition or possession.\nWe have also recognized that the mental element in criminal law encompasses more than the two possibilities of \u201cspecific\u201d and \u201cgeneral\u201d intent. See United States v. Bailey, supra, at 403-407; United States v. United States Gypsum Co., 438 U. S. 422, 444-445 (1978); United States v. Freed, supra, at 613 (Brennan, J., concurring in judgment). The Model Penal Code, for instance, recognizes four mental states \u2014 purpose, knowledge, recklessness, and negligence. ALI, Model Penal Code \u00a7 2.02 (Prop. Off. Draft 1962). In this case, petitioner argues that with respect to the element at issue, knowledge is required. The Government contends that no mental state is required with respect to that element.\nOf course, Congress must act within any applicable constitutional constraints in defining criminal offenses. In this case, there is no allegation that the statute would be unconstitutional under either interpretation.\nOne treatise has aptly summed up the ambiguity in an analogous situation:\n\u201cStill further difficulty arises from the ambiguity which frequently exists concerning what the words or phrases in question modify. What, for instance, does \u2018knowingly\u2019 modify in a sentence from a \u2018blue sky\u2019 law criminal statute punishing one who \u2018knowingly sells a security without a permit\u2019 from the securities commissioner? To be guilty must the seller of a security without a permit know only that what he is doing constitutes a sale, or must he also know that the thing he sells is a security, or must he also know that he has no permit to sell the security he sells? As .a matter of grammar the statute is ambiguous; it is not at all clear how far down the sentence the word \u2018knowingly\u2019 is intended to travel \u2014 whether it modifies \u2018sells,\u2019 or \u2018sells a security,\u2019 or \u2018sells a security without a permit.\u2019\u201d W. LaFave & A. Scott, Criminal Law \u00a7 27 (1972).\nSee n. 12, infra.\nThe dissent repeatedly claims that our holding today creates a defense of \u201cmistake of law.\u201d Post, at 436, 439, 441. Our holding today no more creates a \u201cmistake of law\u201d defense than does a statute making knowing receipt of stolen goods unlawful. See post, at 436. In both cases, there is a legal element in the definition of the offense. In the case of a receipt-of-stolen-goods statute, the legal element is that the goods were stolen; in this case, the legal element is that the \u201cuse, transfer, acquisition,\u201d etc. were in a manner not authorized by statute or regulations. It is not a defense to a charge of receipt of stolen goods that one did not know that such receipt was illegal, and it is not a defense to a charge of a \u00a7 2024(b)(1) violation that one did not know that possessing food stamps in a manner unauthorized by statute or regulations was illegal. It is, however, a defense to a charge of knowing receipt of stolen goods that one did not know that the goods were stolen, just as it is a defense to a charge of a \u00a7 2024(b)(1) violation that one did not know that one\u2019s possession was unauthorized. See ALI, Model Penal Code \u00a7 2.02, Comment 11, p. 131 (Tent. Draft No. 4, 1955); United States v. Freed, supra, at 614-615 (BRENNAN, J., concurring in judgment). Cf. Morissette v. United States, 342 U. S. 246 (1952) (holding that it is a defense to a charge of \u201cknowingly converting\u201d federal property that one did not know that what one was doing was a conversion).\nAs the Committee Report in the House of Representatives noted when this provision in essentially its current form was first enacted, the provision \u201cmakes it clear that participants shall be charged the regular price prevailing in the retail store when they purchase food with stamps.\u201d H. R. Rep. No. 1228, 88th Cong., 2d Sess., 14 (1964). See also S. Rep. No. 1124, 88th Cong., 2d Sess., 15 (1964).\nThe Department of Agriculture\u2019s regulations permit state agencies administering the food stamp program to mail the coupons directly to program participants. The regulations provide that \u201c[t]he State agency may issue some or all of the coupon allotments through the mail.\u201d 7 CFR \u00a7 274.3(a) (1985).\nThe statute provides in full:\nNotwithstanding the absence of any explicit discussion of this issue in the legislative history, the Government argues that certain statements in the Committee Reports support its position. The statute originally was enacted as part of the Food Stamp Act of 1964, Pub. L. 88-525, \u00a7 14, 78 Stat. 708. The Committee Report accompanying the bill in the House of Representatives described both sections together: \u201cThis section makes it a violation of Federal law to knowingly use, transfer, acquire, or possess coupons in any manner not authorized by this act or to present, or cause to be presented, such coupons for redemption knowing them to have been received, transferred or used in any manner in violation of the provisions of the act.\u201d H. R. Rep. No. 1228, 88th Cong., 2d Sess., 16 (1964). See also S. Rep. No. 1124, 88th Cong. 2d Sess., 18 (1964). The Government believes that the description of both sections in this single sentence emphasizes the difference in meaning between them. We fail to see how this sentence, which merely parrots the terms of the statute, offers any enlightenment as to what those terms mean.\nThe Government similarly points to the legislative history of the 1977 Act that substantially revised the previous food stamp program. The House Report explained that \u201c[a]ny unauthorized use, transfer, acquisition, alteration, or possession of food stamps ... by any individual. . . may be prosecuted under the provisions of\u201d \u00a7 2024(b)(1). H. R. Rep. No. 95-464, p. 376 (1977). The Report continued that \u201cunder [\u00a7 2024(c)] . . . the same penalties are prescribed for whoever presents or causes to be presented food stamps (for payment or redemption) knowing that they have been received, transferred or used in any manner violating the provisions of the Act or regulations implementing the Act.\u201d Ibid. Presumably relying on the omission of the word \u201cknowingly\u201d in its description of \u00a7 2024(b)(1), the Government argues that this language indicates that \u201cthe difference between Sections 2024(b) and 2024(c) was plainly visible to Congress and that Congress was fully aware of the scope of the former provision . . . .\u201d Brief for United States 20. We do not believe that the omission of the word \u201cknowingly\u201d is evidence that Congress devoted its attention to the issue before the Court today; it is as likely that the Committee, unaware of the problem, simply did not realize the need to discuss the mental element needed for a conviction under \u00a7 2024(b)(1). Moreover, the omission of the word \u201cknowingly\u201d in the description of \u00a7 2024(b)(1) would indicate, if anything, an intent to dispense with any requirement of knowledge in \u00a7 2024(b)(1), an intent that is at odds with the language of the statute and the interpretation urged even by the Government today. The omission of the word \u201cknowingly\u201d thus provides no support for the argument that Congress intended not to require knowledge of illegality in a \u00a7 2024(b)(1) prosecution.\nThe statute provides:\n\u201cWhoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined not more than $10,000 or imprisoned not more than five years, or both.\u201d\nThe fact that both parties in Yermian agreed that the Government had to prove that the defendant had \u201cknowingly and willfully\u201d made a false statement does not of course indicate that the parties agreed on the mental state applicable to other elements of the offense. See post, at 435, n. 1 (White, J., dissenting). What it does mean is that in Yermian, unlike this case, all parties agreed that an \u201cevil-meaning mind\u201d was required with respect at least to one element of the crime.\nAlthough we agree with petitioner concerning his interpretation of the statute, we express no opinion on the \u201cspecific intent\u201d instruction he tendered, see n. 3, supra. This instruction has been criticized as too general and potentially misleading, see United States v. Arambasich, 597 F. 2d 609, 613 (CA7 1979). A more useful instruction might relate specifically to the mental state required under \u00a7 2024(b)(1) and eschew use of difficult legal concepts like \u201cspecific intent\u201d and \u201cgeneral intent.\u201d\nIn this case, for instance, the Government introduced evidence that petitioner bought food stamps at a substantial discount from face value and that he conducted part of the transaction in a back room of his restaurant to avoid the presence of the other patrons. Moreover, the Government asserts that food stamps themselves are stamped \u201cnontransferable.\u201d Brief for United States 34. A jury could have inferred from this evidence that petitioner knew that his acquisition and possession of the stamps were unauthorized.",
+        "type": "majority",
+        "author": "Justice Brennan"
+      },
+      {
+        "text": "Justice White,\nwith whom The Chief Justice joins, dissenting.\nForsaking reliance on either the language or the history of \u00a7 2024(b)(1), the majority bases its result on the absence of an explicit rejection of the general principle that criminal liability requires not only an actus reus, but a mens rea. In my view, the result below is in fact supported by the statute\u2019s language and its history, and it is the majority that has ignored general principles of criminal liability.\nI\nThe Court views the statutory problem here as being how far down the sentence the term \u201cknowingly\u201d travels. See ante, at 424-425, n. 7. Accepting for the moment that if \u201cknowingly\u201d does extend to the \u201cin any manner\u201d language today\u2019s holding would be correct \u2014 a position with which I take issue below \u2014 I doubt that it gets that far. The \u201cin any manner\u201d language is separated from the litany of verbs to which \u201cknowingly\u201d is directly connected by the intervening nouns. We considered an identically phrased statute last Term in United States v. Yermian, 468 U. S. 63 (1984). The predecessor to the statute at issue in that case provided: \u201c \u2018[WJhoever shall knowingly and willfully . . . make . . . any false or fraudulent statements or representations ... in any matter within the jurisdiction of any department or agency of the United States . . . shall be fined.\u2019\u201d Id., at 69, n. 6 (quoting Act of June 18, 1934, ch. 587, 48 Stat. 996). We found that under the \u201cmost natural reading\u201d of the statute, \u201cknowingly and willfully\u201d applied only to the making of false or fraudulent statements and not to the fact of jurisdiction. 468 U. S., at 69, n. 6. By the same token, the \u201cmost natural reading\u201d of \u00a7 2024(b)(1) is that \u201cknowingly\u201d modifies only the verbs to which it is attached.\nIn any event, I think that the premise of this approach is mistaken. Even accepting that \u201cknowingly\u201d does extend through the sentence, or at least that we should read \u00a7 2024(b)(1) as if it does, the statute does not mean what the Court says it does. Rather, it requires only that the defendant be aware of the relevant aspects of his conduct. A requirement that the defendant know that he is acting in a particular manner, coupled with the fact that that manner is forbidden, does not establish a defense of ignorance of the law. It creates only a defense of ignorance or mistake of fact. Knowingly to do something that is unauthorized by law is not the same as doing something knowing that it is unauthorized by law.\nThis point is demonstrated by the hypothetical statute referred to by the majority, which punishes one who \u201cknowingly sells a security without a permit.\u201d See ante, at 424-425, n. 7. Even if \u201cknowingly\u201d does reach \u201cwithout a permit,\u201d I would think that a defendant who knew that he did not have a permit, though not that a permit was required, could be convicted.\nSection 2024(b)(1) is an identical statute, except that instead of detailing the various legal requirements, it incorporates them by proscribing use of coupons \u201cin any manner not authorized\u201d by law. This shorthand approach to drafting does not transform knowledge of illegality into an element of the crime. As written, \u00a7 2024(b)(1) is substantively no different than if it had been broken down into a collection of specific provisions making crimes of particular improper uses. For example, food stamps cannot be used to purchase tobacco. 7 CFR \u00a7\u00a7271.2, 274.10(a), 278.2(a) (1985). The statute might have said, inter alia, that anyone \u201cwho knowingly uses coupons to purchase cigarettes\u201d commits a crime. Under no plausible reading could a defendant then be acquitted because he did not know cigarettes are not \u201celigible food.\u201d But in fact, that is exactly what \u00a7 2024(b)(1) does say; it just does not write it out longhand.\nThe Court\u2019s opinion provides another illustration of the general point: someone who used food stamps to purchase groceries at inflated prices without realizing he was overcharged. I agree that such a person may not be convicted, but not for the reason given by the majority. The purchaser did not \u201cknowingly\u201d use the stamps in the proscribed manner, for he was unaware of the circumstances of the transaction that made it illegal.\nThe majority and I would part company in result as well as rationale if the purchaser knew he was charged higher than normal prices but not that overcharging is prohibited. In such a case, he would have been aware of the nature of his actions, and therefore the purchase would have been \u201cknowing.\u201d I would hold that such a mental state satisfies the statute. Under the Court\u2019s holding, as I understand it, that person could not be convicted because he did not know that his conduct was illegal.\nMuch has been made of the comparison between \u00a7 2024(b)(1) and \u00a7 2024(c). The Government, like the court below, see 735 F. 2d 1044, 1047-1048 (1984), argues that the express requirement of knowing illegality in subsection (c) supports an inference that the absence of such a provision in subsection (b)(1) was intentional. While I disagree with the majority\u2019s refutation of this argument, I view most of this discussion as beside the point. The Government\u2019s premise seems to me mistaken. Subsection (c) does not impose a requirement of knowing illegality. The provision is much like statutes that forbid the receipt or sale of stolen goods. See, e. g., 18 U. S. C. \u00a7\u00a7641, 2313. Just as those statutes generally require knowledge that the goods were stolen, so \u00a7 2024(c) requires knowledge of the past impropriety. But receipt-of-stolen-goods statutes do not require that the defendant know that receipt itself is illegal, and similarly \u00a7 2024(c) plainly does not require that the defendant know that it is illegal to present coupons that have been improperly used in the past. It is not inconceivable that someone presenting such coupons \u2014 again, like someone buying stolen goods \u2014 would think that his conduct was aboveboard despite the preceding illegality. But that belief, however sincere, would not be a defense. In short, because \u00a7 2024(c) does not require that the defendant know that the conduct for which he is being prosecuted was illegal, it does not create an ignorance-of-the-law defense.\nI therefore cannot draw the Government\u2019s suggested inference. The two provisions are nonetheless fruitfully compared. What matters is not their difference, but their similarity. Neither contains any indication that \u201cknowledge of the law defining the offense [is] an element of the offense.\u201d See ALI, Model Penal Code \u00a72.02, Comment 11, p. 131 (Tent. Draft No. 4, 1955). A requirement of knowing illegality should not be read into either provision.\nI do agree with the Government that when Congress wants to include a knowledge-of-illegality requirement in a statute it knows how to do so, even though I do not consider subsection (c) an example. Other provisions of the United States Code explicitly include a requirement of familiarity with the law defining the offense \u2014 indeed, in places where, under the majority\u2019s analysis, it is entirely superfluous. E. g., 15 U. S. C. \u00a7\u00a779z-3, 80a-48. See also Model Penal Code, supra, at 139. Congress could easily have included a similar provision in \u00a7 2024(b)(1), but did not. Cf. United States v. Turkette, 452 U. S. 576, 580-581 (1981).\nFinally, the lower court\u2019s reading of the statute is consistent with the legislative history. As the majority points out, the history provides little to go on. Significantly, however, the brief discussions of this provision in the relevant congressional Reports do not mention any requirement of knowing illegality. To the contrary, when the Food Stamp Act was rewritten in 1977, the House Report noted that \u201c[a]ny unauthorized use, transfer, acquisition, alteration, or possession of food stamps . . . may be prosecuted under\u201d \u00a7 2024(b)(1). H. R. Rep. No. 95-464, p. 376 (1977) (emphasis added).\nHH HH\nThe broad principles of the Court s opinion are easy to live with in a case such as this. But the application of its reasoning might not always be so benign. For example, \u00a7 2024(b)(1) is little different from the basic federal prohibition on the manufacture and distribution of controlled substances. Title 21 U. S. C. \u00a7 841(a) provides:\n\u201c Except as authorized by this subchapter, it shall be unlawful for any person knowingly or intentionally\u2014 \u201c(1) to manufacture, distribute, or dispense, or possess with intent to manufacture, distribute or dispense, a controlled substance . . . .\u201d\nI am sure that the Members of the majority would agree that a defendant charged under this provision could not defend on the ground that he did not realize his manufacture was unauthorized or that the particular substance was controlled. See United States v. Balint, 258 U. S. 250 (1922). On the other hand, it would be a defense if he could prove he thought the substance was something other than what it was. By the same token, I think, someone in petitioner\u2019s position should not be heard to say that he did not know his purchase of food stamps was unauthorized, though he may certainly argue that he did not know he was buying food stamps. I would not stretch the term \u201cknowingly\u201d to require awareness of the absence of statutory authority in either of these provisions.\nThese provisions might be distinguished because of the different placements of the \u201cexcept as authorized\u201d and the \u201cin any manner not authorized\u201d clauses in the sentences. But see United States v. Yermian, 468 U. S., at 69, and n. 6. However, nothing in the majority\u2019s opinion indicates that this difference is relevant. Indeed, the logic of the Court\u2019s opinion would require knowledge of illegality for conviction under any statute making it a crime to do something \u201cin any manner not authorized by law\u201d or \u201cunlawfully.\u201d I suspect that if a case arises in the future where such a result is unacceptable, the Court will manage to distinguish today\u2019s decision. But I will be interested to see how it does so.\nI \u2014 I \u25ba \u2014 I h-H\nIn relying on the \u201cbackground assumption of our criminal law\u201d that mens rea is required, ante, at 426, the Court ignores the equally well founded assumption that ignorance of the law is no excuse. It is. \u201cthe conventional position that knowledge of the existence, meaning or application of the law determining the elements of an offense is not an element of that offense . . . Model Penal Code, supra, at 130.\nThis Court\u2019s prior cases indicate that a statutory requirement of a \u201cknowing violation\u201d does not supersede this principle. For example, under the statute at issue in United States v. International Minerals & Chemical Corp., 402 U. S. 558 (1971), the Interstate Commerce Commission was authorized to promulgate regulations regarding the transportation of corrosive liquids, and it was a crime to \u201cknowingly violat[e] any such regulation.\u201d 18 U. S. C. \u00a7 834(f) (1970 ed.). Viewing the word \u201cregulations\u201d as \u201ca shorthand designation for specific acts or omissions which violate the Act,\u201d 402 U. S., at 562, we adhered to the traditional rule that ignorance of the law is not a defense. The violation had to be \u201cknowing\u201d in that the defendant had to know that he was transporting corrosive liquids and not, for example, merely water. Id., at 563-564. But there was no requirement that he be aware that he was violating a particular regulation. Similarly, in this case the phrase \u201cin any manner not authorized by\u201d the statute or regulations is a shorthand incorporation of a variety of legal requirements. To be convicted, a defendant must have been aware of what he was doing, but not that it was illegal.\nIn Boyce Motor Lines, Inc. v. United States, 342 U. S. 337 (1952), the Court considered a statute that punished anyone who \u201cknowingly violates\u201d a regulation requiring trucks transporting dangerous items to avoid congested areas where possible. In rejecting a vagueness challenge, the Court read \u201cknowingly\u201d to mean not that the driver had to be aware of the regulation, see id., at 345 (Jackson, J., dissenting), but that he had to know a safer alternative route was available. Likewise, in construing 18 U. S. C. \u00a7 1461, which punishes \u201c[wjhoever knowingly uses the mails for the mailing ... of anything declared by this section or section 3001(e) of Title 39 to be nonmailable,\u201d we held that the defendant need not have known that the materials were nonmailable. Hamling v. United States, 418 U. S. 87, 120-124 (1974). \u201cTo require proof of a defendant\u2019s knowledge of the legal status of the materials would permit the defendant to avoid prosecution by simply claiming that he had not brushed up on the law,\u201d and was not required by the statute. Id., at 123-124. Accord, Rosen v. United States, 161 U. S. 29 (1896). See also United States v. Freed, 401 U. S. 601 (1971); id., at 612-615 (Brennan, J., concurring in judgment).\nIn each of these cases, the statutory language lent itself to the approach adopted today if anything more readily than does \u00a7 2024(b)(1). I would read \u00a7 2024(b)(1) like those statutes, to require awareness of only the relevant aspects of one\u2019s conduct rendering it illegal, not the fact of illegality. This reading does not abandon the \u201cbackground assumption\u201d of mens rea by creating a strict-liability offense, and is consistent with the equally important background assumption that ignorance of the law is not a defense.\n> HH\nI wholly agree that \u201c[t]he contention that an injury can amount to a crime only when inflicted by intention is no provincial or transient notion.\u201d Morissette v. United States, 342 U. S. 246, 250 (1952); ante, at 425. But the holding of the court below is not at all inconsistent with that longstanding and important principle. Petitioner\u2019s conduct was intentional; the jury found that petitioner \u201crealized what he was doing, and was aware of the nature of his conduct, and did not act through ignorance, mistake, or accident.\u201d App. 33 (trial court\u2019s instructions). Whether he knew which regulation he violated is beside the point.\nThe majority\u2019s efforts to distinguish Yermian are unavailing. First, it points out that under the statute at issue there, the prosecution had to establish some mens rea because it had to show a knowing falsehood. Ante, at 431-432. However, as the majority itself points out elsewhere, ante, at 423-424, n. 5, different mental states can apply to different elements of an offense. The fact that in Yermian mens rea had to be proved as to the first element was irrelevant to the Court\u2019s holding that it did not with regard to the second. There is no reason to read this statute differently. Second, the majority states that the language in Yermian was \u201cunambiguous.\u201d Ante, at 432. Since it is identical, the language at issue in this case can be no less so. Finally, the majority notes, ibid., that the Court in Yermian did not decide whether the prosecution might have to prove that the defendant \u201cshould have known\u201d that his statements were within the agency\u2019s jurisdiction. 468 U. S., at 75, n. 14. However, that passing statement was irrelevant to the interpretation of the statute\u2019s language the Court did undertake.\nUnder the agency\u2019s interpretation of the statute, as evidenced in the regulations, it is not at all clear that such a person would in fact be violating the statute. The regulation referred to by the majority, 7 CFR \u00a7 274.10(a) (1985), states that \u201ccoupons may be used only by the household ... to purchase eligible food for the household.\u201d The prevailing price requirement is mentioned only in a section that applies to participating stores: \u201cCoupons shall be accepted for eligible foods at the same prices and on the same terms and conditions applicable to cash purchases of the same foods at the same store.\u201d \u00a7 278.2(b). For purposes of illustration, however, I will accept that not only overcharging, but also being overcharged, violates the statute.\nThe appropriate prosecutorial target in such a situation would of course be the seller rather than the purchaser. I have no doubt that every prosecutor in the country would agree. The discussion of this hypothetical is wholly academic.\nFor similar reasons, I am unmoved by the specter of criminal liability for someone who is mistakenly mailed food stamps and throws them out, see ante, at 426-427, and do not think the hypothetical offers much of a guide to congressional intent. We should proceed on the assumption that Congress had in mind the run-of-the-mill situation, not its most bizarre mutation. Arguments that presume wildly unreasonable conduct by Government officials are by their nature unconvincing, and reliance on them is likely to do more harm than good. United States v. Dotterweich, 320 U. S. 277, 284-285 (1943). No rule, including that adopted by the Court today, is immune from such contrived defects.\nThe Court asserts that the distinction would be meaningless because anyone who has violated subsection (c) will necessarily have violated subsection (b)(1) as well by \u201cpresenting], or eaus[ing] to be presented, coupons for payment or redemption\u201d in an unauthorized manner. Ante, at 429. However, subsection (c) forbids presenting coupons knowing that they have been improperly used or acquired in the past. The manner of acquisition and presentation by the offender may be perfectly proper; the point is that the coupons are in a sense tainted by the prior transaction. Thus, if a check-out clerk accepts stamps for ineligible items, thereby violating \u00a7 2024(b)(1), and his employer collects the stamps and presents them for redemption in the normal course of business, it would not seem that the latter has violated \u00a7 2024(b)(1). He has done nothing in a manner not authorized by law. He has violated subsection (c) if, but only if, he knew of the clerk\u2019s wrongdoing. It may be that merely by violating subsection (c) a grocer also violates subsection (b)(1); but absent the violation of subsection (c), I do not see how the grocer would violate subsection (b)(1) in such a ease.\nSimilarly, it is a valid defense to a charge of theft that the defendant thought the property legally belonged to him, even if that belief is incorrect. But this is not because ignorance of the law is an excuse. Rather, \u201cthe legal element involved is simply an aspect of the attendant circumstances, with respect to which knowledge ... is required for culpability .... The law involved is not the law defining the offense; it is some other legal rule that characterizes the attendant circumstances that are material to the offense.\u201d ALI, Model Penal Code \u00a7 2.02, Comment 11, p. 131 (Tent. Draft No. 4, 1955). Accord, United States v. Freed, 401 U. S. 601, 614-615 (1971) (Brennan, J., concurring in judgment). Cf. Morissette v. United States, 342 U. S. 246 (1952).\nThe Court distinguishes these as \u201cpublic welfare offense\u201d cases involving inherently dangerous articles of commerce whose users should have assumed were subject to regulation. Ante, at 432-433. But see United States v. Freed, 401 U. S., at 612 (BRENNAN, J., concurring in judgment). Apart from the fact that a reasonable person would also assume food stamps are heavily regulated and not subject to sale and exchange, this distinction is not related to the actual holdings in those' cases. The Court\u2019s opinion in Boyce and the concurrence in Freed do not discuss this consideration, And the Court\u2019s references to the dangerousness of the goods in International Minerals were directed to possible due process challenges to convictions without notice of criminality. 402 U. S., at 564-565. As today\u2019s majority acknowledges, ante, at 424, n. 6, there is no constitutional defect with the holding of the court below. The only issue here is one of congressional intent.\nUnder a strict-liability statute, a defendant can be convicted even though he was unaware of the circumstances of his conduct that made it illegal. To take the example of a statute recently before the Court, a regulation forbidding hunting birds in a \u201cbaited\u201d field can be read to have a scienter requirement, in which ease it would be a defense to prove that one did not know the field was baited, or not, in which case someone hunting in such a field is guilty even if he did not know and could not have known that it was baited. See Catlett v. United States, post, at 1074 (White, J., dissenting from denial of certiorari). I do not argue that the latter approach should be taken to this statute, nor would the statutory language allow it.",
+        "type": "dissent",
+        "author": "Justice White,"
+      }
+    ],
+    "attorneys": [
+      "William T. Huyck, by appointment of the Court, 469 U. S. 1032, argued the cause and filed briefs for petitioner.",
+      "Charles A. Rothfeld argued the cause pro hac vice for the United States. With him on the brief were Solicitor General Lee, Assistant Attorney General Trott, and Deputy Solicitor General Claiborne."
+    ],
+    "corrections": "",
+    "head_matter": "LIPAROTA v. UNITED STATES\nNo. 84-5108.\nArgued March 19, 1985\nDecided May 13, 1985\nBRENNAN, J., delivered the opinion of the Court, in which Marshall, Blackmun, Rehnquist, Stevens, and O\u2019Connor, JJ., joined. White, J., filed a dissenting opinion, in which Burger, C. J., joined, post, p. 434. Powell, J., took no part in the consideration or decision of the case.\nWilliam T. Huyck, by appointment of the Court, 469 U. S. 1032, argued the cause and filed briefs for petitioner.\nCharles A. Rothfeld argued the cause pro hac vice for the United States. With him on the brief were Solicitor General Lee, Assistant Attorney General Trott, and Deputy Solicitor General Claiborne."
+  },
+  "file_name": "0419-01",
+  "first_page_order": 489,
+  "last_page_order": 513
+}

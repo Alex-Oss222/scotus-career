@@ -1,0 +1,847 @@
+{
+  "id": 11293095,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Waldemar RATZLAF, Defendant-Appellant; UNITED STATES of America, Plaintiff-Appellee, v. Loretta RATZLAF, Defendant-Appellant",
+  "name_abbreviation": "United States v. Ratzlaf",
+  "decision_date": "1992-10-06",
+  "docket_number": "Nos. 91-10392, 10429",
+  "first_page": "1280",
+  "last_page": "1287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "976 F.2d 1280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "7 F.2d 605",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1669562
+      ],
+      "pin_cites": [
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/7/0605-01"
+      ]
+    },
+    {
+      "cite": "706 F.2d 1092",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1116910
+      ],
+      "pin_cites": [
+        {
+          "page": "1096-1101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/706/1092-01"
+      ]
+    },
+    {
+      "cite": "766 F.2d 676",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        343678
+      ],
+      "pin_cites": [
+        {
+          "page": "679-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/766/0676-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 758",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531403
+      ],
+      "pin_cites": [
+        {
+          "page": "762"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/0758-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 288",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 246",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641097
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "261-63"
+        },
+        {
+          "page": "248-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0246-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. \u00a7 5316",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 371",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cath.U.L.Rev. 465",
+      "category": "journals:journal",
+      "reporter": "Cath. U. L. Rev.",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "469-73"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 C.F.R. \u00a7 103",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 U.S.C. \u00a7 5313",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "471 U.S. 419",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204090
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "noting ambiguity in statute where unclear whether \"knowingly\" applied to all elements of the offense"
+        },
+        {
+          "parenthetical": "noting ambiguity in statute where unclear whether \"knowingly\" applied to all elements of the offense"
+        },
+        {
+          "parenthetical": "noting ambiguity in statute where unclear whether \"knowingly\" applied to all elements of the offense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0419-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715007
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "812"
+        },
+        {
+          "page": "1059"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0808-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 422",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769246
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "437"
+        },
+        {
+          "page": "2873"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0422-01"
+      ]
+    },
+    {
+      "cite": "946 F.2d 188",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521392
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/946/0188-01"
+      ]
+    },
+    {
+      "cite": "937 F.2d 823",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526737
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/937/0823-01"
+      ]
+    },
+    {
+      "cite": "762 F.Supp. 441",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7384553
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "446"
+        },
+        {
+          "page": "447-48"
+        },
+        {
+          "page": "447",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "447"
+        },
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/762/0441-01"
+      ]
+    },
+    {
+      "cite": "1992 U.S.App. LEXIS 1535",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. App. LEXIS",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting argument that Cheek requires proof of knowledge that failure to report currency transactions exceeding $10,000 is illegal and declaring that \"the Cheek exception is restricted to tax crimes\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1992 WL 18217",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "*4",
+          "parenthetical": "rejecting argument that Cheek requires proof of knowledge that failure to report currency transactions exceeding $10,000 is illegal and declaring that \"the Cheek exception is restricted to tax crimes\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "954 F.2d 1563",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520000
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/954/1563-01"
+      ]
+    },
+    {
+      "cite": "945 F.2d 79",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521099
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/945/0079-01"
+      ]
+    },
+    {
+      "cite": "962 F.2d 342",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520822
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/962/0342-01"
+      ]
+    },
+    {
+      "cite": "949 F.2d 301",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11935150
+      ],
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/949/0301-01"
+      ]
+    },
+    {
+      "cite": "116 L.Ed.2d 351",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 402",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "937 F.2d 532",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524716
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "537-38"
+        },
+        {
+          "page": "538"
+        },
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/937/0532-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 10",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6283
+      ],
+      "weight": 4,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "12",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "23",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0010-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172407
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "360"
+        },
+        {
+          "page": "2017"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0346-01"
+      ]
+    },
+    {
+      "cite": "290 U.S. 389",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3921887
+      ],
+      "weight": 3,
+      "year": 1933,
+      "pin_cites": [
+        {
+          "page": "396"
+        },
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/290/0389-01"
+      ]
+    },
+    {
+      "cite": "26 U.S.C. \u00a7\u00a7 7201",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "725 F.Supp. 172",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7396216
+      ],
+      "pin_cites": [
+        {
+          "page": "177-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/725/0172-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1350",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 3090",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "462 U.S. 1120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6242688,
+        6240195,
+        6241477,
+        6242348,
+        6239661,
+        6241167,
+        6242004,
+        6240821,
+        6240510,
+        6239935
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/1120-10",
+        "/us/462/1120-03",
+        "/us/462/1120-07",
+        "/us/462/1120-09",
+        "/us/462/1120-01",
+        "/us/462/1120-06",
+        "/us/462/1120-08",
+        "/us/462/1120-05",
+        "/us/462/1120-04",
+        "/us/462/1120-02"
+      ]
+    },
+    {
+      "cite": "692 F.2d 1291",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1483369
+      ],
+      "pin_cites": [
+        {
+          "page": "1295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/692/1291-01"
+      ]
+    },
+    {
+      "cite": "402 U.S. 558",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11734620
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "564-65"
+        },
+        {
+          "page": "1701"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0558-01"
+      ]
+    },
+    {
+      "cite": "900 F.2d 485",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532141
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "491"
+        },
+        {
+          "page": "488"
+        },
+        {
+          "page": "491"
+        },
+        {
+          "page": "489",
+          "parenthetical": "\"A requirement that the conduct be willful generally means no more than that the person charged with the duty knows what he is doing. It does not mean that, in addition, he must suppose he is breaking the law.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/900/0485-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. \u00a7 5324",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "724 F.2d 1374",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1920131
+      ],
+      "pin_cites": [
+        {
+          "page": "1382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/724/1374-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 1178",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting United States v. Marabelles, 724 F.2d 1374, 1382 (9th Cir.1984)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 1072",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting United States v. Marabelles, 724 F.2d 1374, 1382 (9th Cir.1984)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "892 F.2d 817",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527301
+      ],
+      "pin_cites": [
+        {
+          "page": "818"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/892/0817-01"
+      ]
+    },
+    {
+      "cite": "941 F.2d 886",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11719646
+      ],
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/941/0886-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "914 F.2d 1125",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539584
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1129-30"
+        },
+        {
+          "page": "1129"
+        },
+        {
+          "page": "1129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/914/1125-01"
+      ]
+    },
+    {
+      "cite": "498 U.S. 192",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221945
+      ],
+      "weight": 9,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "197"
+        },
+        {
+          "page": "196"
+        },
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0192-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. \u00a7\u00a7 5322",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)",
+          "parenthetical": "\"A person willfully violating this subchapter or a regulation prescribed [therejunder ... shall be fined .... or imprisoned] ... or both.\""
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1235,
+    "char_count": 26523,
+    "ocr_confidence": 0.781,
+    "pagerank": {
+      "raw": 2.3504040539603974e-07,
+      "percentile": 0.793167285042487
+    },
+    "sha256": "649cff02d50dc3cb2930793574a99295e94aa49479fd4bf98e810d82126fcd8c",
+    "simhash": "1:997acee06b240d31",
+    "word_count": 4264
+  },
+  "last_updated": "2024-02-27T20:50:27.149556+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: WALLACE, Chief Judge, and CHOY and POOLE, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Waldemar RATZLAF, Defendant-Appellant. UNITED STATES of America, Plaintiff-Appellee, v. Loretta RATZLAF, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "POOLE, Circuit Judge:\nDefendants Loretta and Waldemar Ratz-laf appeal their convictions for structuring financial transactions to avoid currency reporting requirements, a violation of 31 U.S.C. \u00a7\u00a7 5322(a), 5324(3). They argue that Cheek v. United States, 498 U.S. 192, 111 S.Ct. 604, 112 L.Ed.2d 617 (1991), overrules our holding in United States v. Hoyland, 914 F.2d 1125 (9th Cir.1990), that the government does not have to prove that the defendants knew structuring is illegal to convict. We have jurisdiction pursuant to 28 U.S.C. \u00a7 1291. We affirm.\nI\nDefendants Waldemar and Loretta Ratz-laf, residents of Portland, Oregon, are gamblers. To facilitate their enjoyment of such activity, they established lines of credit at fifteen casinos in New Jersey and Nevada. Mr. Ratzlaf, a regular customer and a \u201chigh roller\u201d at the casinos, bet, won, and lost large amounts of money. The events that led to this case began on October 20th, 1988, at the High Sierra casino in Reno, Nevada. Mr. Ratzlaf had a bad night, losing $160,000 playing blackjack. Fortunately for him, the casino had increased his credit line from $25,000 to $160,000 earlier that day. When the casino learned about Lady Luck\u2019s unkind treatment of Mr. Ratzlaf, it granted him one week to pay back the $160,000 balance.\nOn October 27, 1988, the Ratzlafs returned to the High Sierra casino carrying enough cash to pay their debt. Shift manager Tony Mercurio informed his boss, casino Vice-President Stephen Allmaras, that Mr. Ratzlaf did not want the casino to fill out any written report of the payment transaction. Allmaras refused to accept cash payment on those terms and informed the Ratzlafs that he would be required to fill out a \u201ccurrency transaction report\u201d (CTR) since more than $10,000 in currency was involved. Allmaras told Mr. Ratzlaf that he would be happy to accept as an alternative a single cashiers check for the amount due and suggested to Mr. Ratzlaf that he contact his bank in Oregon to make the necessary arrangements. Allmaras also made available to the Ratzlafs a limousine and assigned employee Ron Hunt to transport them to the local bank that would provide the check.\nOn October 28, 1988, Hunt escorted the Ratzlafs to several banks in and near State-line, Nevada and South Lake Tahoe, California. At each bank the Ratzlafs used cash to purchase, or attempt to purchase, cashiers checks in amounts less than $10,-000. Armed with the cashiers checks thus obtained, the Ratzlafs returned to the High Sierra casino and submitted them as partial payment on their gambling debt. However, not all of the $160,000 debt was eliminated. Accordingly, on November 28, 1988, Mr. Ratzlaf gave Ruby Langston, a former employee at a restaurant owned by the Ratzlafs, $5,000 in currency and asked her to purchase a single cashiers check for that amount. Langston purchased the cashiers check at First Interstate Bank in Portland. On the same day Mr. Ratzlaf also gave Lena Koseniensky $5,000 in currency and asked her to perform a similar errand. Koseniensky did so at the same bank Langston had visited. Two days later, Mr. Ratzlaf gave George Chanouzas $7,500 in cash and asked him to buy a single cashiers check. Chanouzas also performed this transaction at the First Interstate Bank in Portland. Between November 29 and December 5, 1988, the Ratzlafs separately and together used currency to purchase five cashiers checks, each in amounts less than $10,000, from two other Portland banks.\nWhen asked by IRS investigators why they had paid for the cashiers checks with cash, the Ratzlafs asserted that the money was gambling proceeds and that the High Sierra casino asked them to \u201cpay off the marker\u201d with cashiers checks. Mrs. Ratz-laf also stated that the casino management instructed them to purchase cashiers checks in small amounts so that the casino would not be required to complete a CTR. Mr. Ratzlaf testified at trial that the couple kept gambling winnings and cash revenues from their restaurant hidden in a piece of furniture in their bedroom. Allmaras denied suggesting to the Ratzlafs that they visit various banks and purchase cashiers checks in amounts less than $10,000.\nOn November 20, 1990 a federal grand jury indicted the Ratzlafs and Hunt. The trio was charged with (1) conspiracy to structure and assist in structuring financial transactions for the purpose of evading reporting requirements; (2) four counts of structuring currency transactions to evade reporting requirements; and (3) interstate travel in aid of racketeering. At trial, the district judge instructed the jury as follows on the structuring charges:\nThe essential elements required to be proven beyond a reasonable doubt ... are as follows:\nFirst: The defendants had knowledge of a financial institution\u2019s duty to report currency transactions in excess of $10,-000;\nSecond: With such knowledge, the defendants knowingly and willfully structured or assisted in structuring or attempted to structure or assist in structuring a currency transaction;\nThird: The purpose of the structured transaction was to evade the transaction reporting requirement;\nFourth: The structured transaction(s) involved one or more domestic financial institutions.\nAn act is done knowingly and willfully for the purpose of [31 U.S.C. \u00a7\u00a7 5322(a), 5324(3)] if the defendants, with knowledge of a financial institution\u2019s duty to report currency transactions in excess or $10,000, voluntarily or intentionally structured or assisted in structuring or attempted to structure or assist in structuring a currency transaction with the purpose of evading the currency reporting requirements.\nThe government does not have to prove that the defendants knew that structuring was unlawful[,] nor does the government have to prove that the defendants knew of the existence of the law which they are charged with breaking. ... However, if a defendant did not have knowledge of a bank\u2019s duty to report currency transactions in excess or $10,000, that may be considered a defense. '\nIt is not a defense that the defendants did not know that \u201cstructuring\u201d itself is [illegal] or of the existence of [31 U.S.C. \u00a7\u00a7 5322(a), 5324(3)].\nThe jury convicted Mr. Ratzlaf on all counts and Mrs. Ratzlaf on the conspiracy and interstate travel charges. Mr. Ratzlaf was sentenced to fifteen months in federal prison on each count, to run concurrently; three years supervised release; and to pay a fine of $26,300 and a special assessment of $300. Mrs. Ratzlaf was sentenced to five years probation on each count, to run concurrently and to include ten months home detention, and to pay a $7,900 fine and a $100 special assessment. The defendants filed timely notices of appeal on July 10 and August 14, 1991.\nII\nWe review de novo the question whether the jury instructions in this case misstated the elements of the crime of structuring financial transactions to avoid the currency reporting requirements. United States v. Durham, 941 F.2d 886, 890 (9th Cir.1991). \u201cWe review a claim of error in a jury instruction by looking to \u2018the adequacy of the entire charge ... in the context of the whole trial.\u2019 \u201d United States v. Mundi, 892 F.2d 817, 818 (9th Cir.1989), cert. denied, \u2014 U.S. -, 111 S.Ct. 1072, 112 L.Ed.2d 1178 (1991) (quoting United States v. Marabelles, 724 F.2d 1374, 1382 (9th Cir.1984)).\nIII\n31 U.S.C. \u00a7 5324 provides:\nNo person shall for the purpose of evading the reporting requirements of section 5313(a) with respect to such transaction\u2014\n(3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with one or more domestic financial institutions.\nIndividuals that engage in such \u201cstructuring\u201d activities are subject to criminal penalties. 31 U.S.C. \u00a7 5322(a) (\u201cA person willfully violating this subchapter or a regulation prescribed [therejunder ... shall be fined .... or imprisoned] ... or both.\u201d) (emphasis added).\nWe recently rejected an argument that an individual cannot be convicted of \u201cstructuring\u201d unless the government proves that he or she knew such activities are illegal:\nCongress had set the reporting requirement for the banks. Congress was aware that several circuits, including ours, had held it no crime to structure deposits so that the reporting requirement would not be triggered. Congress changed the law to make it a crime so to structure with the intent to prevent reporting. To act willfully under the statute is to act with this intent....\nUnited States v. Hoyland, 914 F.2d 1125, 1129-30 (9th Cir.1990) (internal statutory citations omitted). In so holding, we agreed with United States v. Scanio, 900 F.2d 485 (2d Cir.1990). There, the Second Circuit concluded that knowledge of illegality is not required to convict for \u201cstructuring\u201d because such conduct is \u201caffirmative\u201d and \u201cdemonstrate[s] an awareness of the legal framework relative to currency transactions which, it is reasonable to conclude, should ... alert[ ] [the defendant] to the consequences of his conduct.\u201d Id. at 490 (citing United States v. Int\u2019l Minerals & Chem. Corp., 402 U.S. 558, 564-65, 91 S.Ct. 1697, 1701, 29 L.Ed.2d 178 (1971), and United States v. Fierros, 692 F.2d 1291, 1295 (9th Cir.), cert. denied, 462 U.S. 1120, 103 S.Ct. 3090, 77 L.Ed.2d 1350 (1983)). The court explained that, unlike other sections of the Bank Secrecy Act, the purpose of section 5324(3) is to protect the government\u2019s right to information. To require proof that the defendant knew structuring to be illegal would be inconsistent with this goal. 900 F.2d at 491. See also United States v. 316 Units of Municipal Securities, 725 F.Supp. 172, 177-79 (S.D.N.Y.1989) (civil forfeiture action).\nThe Ratzlafs argue that the Supreme Court\u2019s recent decision in Cheek v. United States, 498 U.S. 192, 111 S.Ct. 604, 112 L.Ed.2d 617 (1991), overrules Hoyland and Scanio. Cheek was a criminal tax case. The defendant had been charged with willfully attempting to evade income taxes and with willfully failing to file tax returns, violations of 26 U.S.C. \u00a7\u00a7 7201 and 7203. The Court held that willfully means the \u201c \u2018voluntary, intentional violation of a known legal duty.\u2019 \u201d 498 U.S. at 197, 111 S.Ct. at 610 (citation omitted) (applying and discussing United States v. Murdock, 290 U.S. 389, 396, 54 S.Ct. 223, 226, 78 L.Ed. 381 (1933); United States v. Bishop, 412 U.S. 346, 360, 93 S.Ct. 2008, 2017, 36 L.Ed.2d 941 (1973); and United States v. Pomponio, 429 U.S. 10, 12, 97 S.Ct. 22, 23, 50 L.Ed.2d 12 (1976) (per curiam)).\nThe Court explained its holding with reference to the tax laws:\nWillfulness, as construed by our prior decisions in criminal tax cases, requires the Government to prove that the law imposed a duty on the defendant, that the defendant knew of this duty, and that he voluntarily and intentionally violated that duty.... [If] the issue is whether the defendant knew of the duty purportedly imposed by the ... statute ... he is accused of violating, ... the Government [satisfies the knowledge component of the willfulness requirement if it] proves actual knowledge of the pertinent legal duty_ But carrying this burden requires negating a defendant\u2019s claim of ignorance of the law.... This is so because one cannot be aware that the law imposes a duty upon him and yet be ignorant of it, ... or believe that the duty does not exist.\nId. 498 U.S. at 196, 111 S.Ct. at 610-11 (emphasis added).\nThe Court explained that Congress employed the term \u201cwillfully\u201d in the criminal tax laws because their \u201cproliferation ... has sometimes made it difficult for the average citizen to know and comprehend the extent of [their] duties and obligations \u201d under the tax laws. Id. 498 U.S. at 195, 111 S.Ct. at 609 (emphasis added). The Court noted that it had long construed \u201cwillfully\u201d in the criminal tax statutes \u201cas carving out an exception to the traditional rule\u201d that \u201cevery person kn[ows] the law.\u201d Id. The Court does this, according to the Cheek majority, because the tax laws are \u201ccomplex[ ].\u201d Id.\nFour federal courts have answered the question whether Cheek requires the government to prove a structuring defendant knew that such activity is illegal. In United States v. Dashney, 937 F.2d 532 (10th Cir.), cert. denied, \u2014 U.S.-, 112 S.Ct. 402, 116 L.Ed.2d 351 (1991), the court rejected the notion that Cheek changes the Hoyland and Scanio conclusions:\nCriminal tax statutes are more analogous to ... international currency reporting statutes ..., since entirely innocent actions can lead to violations of the law. [But] Dashney\u2019s actions were anything but innocent, as he went to great lengths to avoid the filling out of CTRs in connection with his transactions.\nId. at 540 (internal citations omitted). See also United States v. Nall, 949 F.2d 301, 307 (10th Cir.1991). In United States v. Rogers, 962 F.2d 342 (4th Cir.1992), the court agreed with Dashney, holding that the Cheek exception is a narrow one. The court emphasized that Cheek\u2019s rationale is inapplicable to the structuring statute because it is not complex. Id. at 344. See also United States v. Wollman, 945 F.2d 79, 81 (4th Cir.1991) (per curiam) (summarily affirming structuring conviction without addressing Cheek). Similarly, in United States v. Brown, 954 F.2d 1563 (11th Cir.1992), the court refused to apply the Cheek exception to section 5324(3). \u201c[Congress\u2019] intent to facilitate prosecution of money launderers, stands in direct contrast to the ... holding in Cheek that Congress intended to show special deference to Tax Code violators, [because] the tax laws [are complex].\u201d Id. at 1569 n. 2. Cf. United States v. Donovan, 1992 WL 18217, at *4, 1992 U.S.App. LEXIS 1535, *7-*9 (1st Cir., Feb. 6, 1992) (rejecting argument that Cheek requires proof of knowledge that failure to report currency transactions exceeding $10,000 is illegal and declaring that \u201cthe Cheek exception is restricted to tax crimes\u201d).\nThe result was different in United States v. Aversa, 762 F.Supp. 441 (D.N.H.1991). There, the defendants were convicted of structuring after one of the men, Aversa, asked his investment partner and co-defendant Ment\u00f3 to help him conceal proceeds of a legal real estate transaction from his wife, with whom Aversa was engaged in a contentious divorce battle. Av-ersa asked Ment\u00f3 to allow him to deposit his portion of the real estate revenues in Mento\u2019s account and agreed to sign a letter to the IRS stating that the money deposited in Mento\u2019s account belonged to Aversa and that Aversa deposited less than $10,-000 at a time to avoid arousing IRS suspicion of his income sources and level. The letter was provided to the IRS, and Aversa subsequently engaged in transactions involving less than $10,000 on several occasions.\nThe New Hampshire district court ruled that Aversa could not be convicted of structuring because he did not know that structuring is illegal. The court reached this conclusion for three reasons. First, structuring can be \u201cinnocent\u201d behavior in the sense that no concealment of illegal activity is intended or effected. 762 F.Supp. at 446. Second, the court rejected the Scanio/Hoy-land definition of \u201cwillful\u201d because it means that there would be no difference between the proscribed \u201cwillful\u201d violations of section 5324 and non-willful violations of section 5324. Id. at 447-48. Finally, the court believed that Cheek\u2019s reasoning applied because \u201c[w]hile \u00a7 5322(a) may not be technically a criminal tax law it is certainly a criminal law related to taxation.\u201d Id. at 447 (emphasis in original). In addition, the court was convinced that the structuring laws are just as complex and \u201cobscure\u201d to the average citizen as are the tax laws. 762 F.Supp. at 447.\nWe disagree with the Aversa court for several reasons. First, the currency structuring and reporting statutes are not \u201ccomplex\u201d in the sense that the Cheek Court used that term in referring to the Internal Revenue Code. The tax laws are \u201c[o]ne of the. most esoteric areas of the law ...[,] replete with \u2018full-grown intricacies\u2019, [where] it is rare that a \u2018simple, direct statement of the law can be made without caveat.\u2019 \u201d United States v. Regan, 937 F.2d 823, 827 (2d Cir.) (citation omitted), modified, 946 F.2d 188 (1991). The tax code\u2019s lengthy and complicated \u25a0 list of income sources that are and are not taxable and the conditions under which exemptions and deductions apply are in stark contrast to the two things outlawed by the money laundering statutes: failure of a financial institution to report transactions that exceed $10,000; and attempts, successful or unsuccessful, to prevent financial institutions from making the required reports by intentionally avoiding the $10,000 threshold in banking transactions.\nSecond, we do not think the rule of lenity applies to the money laundering statutes. Mens rea is generally required to convict a person for a crime, and where a statute does not clearly specify the mental state required for conviction, courts construe the ambiguity in favor of the defendant. See. United States v. United States Gypsum Co., 438 U.S. 422, 437, 98 S.Ct. 2864, 2873, 57 L.Ed.2d 854 (1978); Rewis v. United States, 401 U.S. 808, 812, 91 S.Ct. 1056, 1059, 28 L.Ed.2d 493 (1971). But the language and history of the structuring statute is not ambiguous, and even a \u201cstrict\u201d reading of the statute supports, not undercuts, the government\u2019s proffered interpretation. Compare Liparota v. United States, 471 U.S. 419, 424-25 & n. 7, 105 S.Ct. 2084, 2087-88 & n. 7, 85 L.Ed.2d 434 (1985) (noting ambiguity in statute where unclear whether \u201cknowingly\u201d applied to all elements of the offense).\nHoyland and Scanio rest firmly upon Congress\u2019 intent in proscribing structuring. Before the enactment of section 5324(3), several courts, including this one, rejected attempts to impose any criminal liability for structuring financial transactions to avoid reporting requirements. In 1986, Congress decided to close this apparent loophole in the government\u2019s information gathering scheme. See Scanio, 900 F.2d at 488 (citing S.Rep. No. 433, 99th Cong., 2d Sess. 22 (1986); H.R.Rep. No. 746, 99th Cong., 2d Sess. 18-20 (1986)); Hoyland, 914 F.2d at 1129; Dashney, 937 F.2d at 537-38. When Congress effected this amendment to the money laundering and currency reporting statutes, it did not change the language of section 5322(a). In adding section 5324(3), Congress likewise did not specify that a greater \u201cstate of mind\u201d would be required to secure a conviction under it than that established by section 5322. Thus, after the 1986 amendments, one could be prosecuted for violating section 5324(3) if he or she \u201cwillfully\u201d structured transactions.\nThe legislative history of the Anti-Drug Abuse Act clearly indicates that this interpretation of Congressional intent is correct:\n[A] person who converts $18,000 in currency to cashiers checks by purchasing two $9,000 cashier\u2019s checks at two different banks or on two different days with the specific intent that the participating bank or banks not be required to file [CTRs] for those transactions, would be subject to potential civil and criminal liability. A person conducting the same transactions for any other reasons ... would not be subject to liability under the proposed amendment.\nS.Rep. No. 433, 99th Cong., 2d Sess. 22 (1986) (quoted in Dashney, 937 F.2d at 538).\nThe Aversa court\u2019s premise \u2014 that a defendant must know of the reporting requirements to be convicted of structuring \u2014 is therefore correct, but does not support the holding of that case. If a defendant knows that the bank must report a currency transaction and then intentionally acts in a way to prevent that, he has acted \u201cwillfully.\u201d One does not act \u201cwillfully\u201d under section 5322 unless both parts of this equation are present. See Dashney, 937 F.2d at 539. There is no danger that someone who does not know of the reporting requirements could be convicted under that mens rea standard; nor is there any way that one who knows of the reporting requirements but who does not intend to prevent such reporting can be convicted of structuring. No one can be convicted of \u201cviolating\u201d section 5324(3) unless he or she knows of the reporting requirements and that he or she is doing something to prevent such reporting.\nFinally, this case presents little risk that persons who engaged in \u201cinnocent\u201d actions stand unjustly convicted of structuring. The Ratzlafs were aware of the reporting requirements, and the evidence indicates that the Ratzlafs apparently were seeking to avoid payment of their income taxes. The couple took no steps to insure that the IRS would be aware of the assets used to purchase the cashiers checks; denied that they earned money from gambling when in fact they had done so; denied any failure to report gambling income; and apparently hid large amounts of currency in or near their home. The Ratzlafs cannot be compared to an individual involved in perfectly ordinary business transactions who unconsciously breaks the currency laws. Compare Aversa, 762 F.Supp. at 446.\nIV\nCheek did not overrule Hoy land. We join the Fourth, Tenth, and Eleventh Circuits in reaching this holding. Accordingly, the instructions given by the district court were not improper. The defendants\u2019 convictions are therefore AFFIRMED.\n. Hunt was convicted on the conspiracy count, two structuring counts, and the interstate travel charge. His convictions are not at issue in this appeal.\n. The Bank Secrecy Act of 1970, 31 U.S.C. \u00a7 5313(a), and associated regulations promulgated under its authority, 31 C.F.R. \u00a7 103.-22(a)(1), obligate financial institutions to report to the government currency transactions involving more than $10,000. Congress enacted this law because individuals involved in criminal activity frequently engage in sizeable cash transactions. The reports, called \"Currency Transaction Reports\u201d or \"CTRs,\u201d help law enforcement officers investigate and fight a variety of criminal activity. See generally H.R.Rep. No. 975, 91st Cong., 2d Sess., reprinted in 1970 U.S.C.C.A.N. 4394, 4396; Rusch, Hue and Cry in the Counting-House: Some Observations on the Bank Secrecy Act, 37 Cath.U.L.Rev. 465, 469-73 (1988).\nThe Bank Secrecy Act did not apply to bank customers prior to January 1987. Before that time individuals who \u201cstructured\" transactions to avoid the $10,000 reporting threshold could be prosecuted only for willfully causing a financial institution to fail to file a CTR, 18 U.S.C. \u00a7 2(b), for knowingly and willfully concealing a material fact from the government, 18 U.S.C. \u00a7 1001, or for conspiracy, 18 U.S.C. \u00a7 371. United States v. Scanio, 900 F.2d 485, 488 (2d Cir.1990). As part of the Anti-Drug Abuse Act of 1986, Congress enacted 31 U.S.C. \u00a7 5324.\n. Specifically, the court addressed the distinction between \"willful\u201d as used in section 5324(3) and as employed in 31 U.S.C. \u00a7 5316, which proscribes an individual's failure to file \"Currency and Monetary Instrument Reports.\u201d The Scanio court explained that section 5316 \"requires individuals to report otherwise innocent transactions_\" 900 F.2d at 491.\n. Morissette v. United States, 342 U.S. 246, 261-63, 72 S.Ct. 240, 248-49, 96 L.Ed. 288 (1952), casts no doubt on this proposition. There, the Court held that, as a general rule, mens rea must be assumed a requirement to convict under a statute that codifies a common law crime. Structuring, however, was not a criminal offense at common law. Hoyland, 914 F.2d at 1129.\n. See, e.g., United States v. Varbel, 780 F.2d 758, 762 (9th Cir.1986); United States v. Anzalone, 766 F.2d 676, 679-83 (1st Cir.1985). But see, e.g., United States v. Tobon-Builes, 706 F.2d 1092, 1096-1101 (11th Cir.1983).\n. Congress\u2019 decision to add section 5324(3) to the United States Code also did not modify the traditional meaning of '\u2018willfulness,\" viz,, the defendant intended to do the act with which he is charged. See Scanio, 900 F.2d at 489 (\u201cA requirement that the conduct be willful generally means no more than that the person charged with the duty knows what he is doing. It does not mean that, in addition, he must suppose he is breaking the law.\u201d) (quoting American Surety Co. v. Sullivan, 7 F.2d 605, 606 (2d Cir.1925) (L. Hand, J.)).\n. There is little indication that this interpretation of section 5324(3)\u2019s history and purpose is incorrect. One report on the Anti-Drug Abuse Act included a proposal to change \"willfully\" in section 5322 to \"knowingly.\u201d H.R.Rep. No. 855, 99th Cong., 2d Sess. 7, 27 (1986) (Report of House Judiciary Committee). The report noted that the term \"willfully\" has been ascribed different meanings in different statutory contexts and explained that its meaning in the money laundering statutes was an \"actual awareness of the reporting requirement_\u201d Id. at 21-22. The Judiciary Committee Report recommended a change to the word \u201cknowingly,\" explaining that this change would not be intended to change the meaning of the statute. Id. The House Committee on Banking, Finance and Urban Affairs issued a report similar to that of the Judiciary Committee. H.R.Rep. No. 746, 99th Cong., 2d Sess. 29 (1986). It stated that \"[i]n the criminal context the term \u201cknowingly\" means with specific intent to commit a violation of the ... Act\u201d or \"specific intent to commit a crime.\u201d Id. at 41. The report also suggested a change to the term \"knowingly.\u201d\nWe agree with the Tenth Circuit that these committee reports are not helpful. First, the legislation discussed in the Judiciary Committee Report did not contain any prohibition of structuring. Dashney, 937 F.2d at 537 n. 5. That means the Committee was not contemplating the appropriate state of mind when it was considering structuring. Second, the reports were submitted with bills rejected by Congress. Thus, although Congress did ultimately make changes in the money laundering laws, \"it is [not] reasonable to assume that [Congress] adopted the intent of the[se] committeefs],\u201d Sutherland\u2019s Statutory Construction \u00a7 48.06, at 332 (5th ed.).",
+        "type": "majority",
+        "author": "POOLE, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Kevin O\u2019Connell, O\u2019Connell, Goyak & Di-Lorenzo, Portland, Or., and Donald Cavin Hill, Reno, Nev., for defendants-appellants.",
+      "Jeffrey B. Setness and William M. Welch, Asst. U.S. Attys., Reno, Nev., for plaintiff-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Waldemar RATZLAF, Defendant-Appellant. UNITED STATES of America, Plaintiff-Appellee, v. Loretta RATZLAF, Defendant-Appellant.\nNos. 91-10392, 10429.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted July 14, 1992.\nDecided Oct. 6, 1992.\nKevin O\u2019Connell, O\u2019Connell, Goyak & Di-Lorenzo, Portland, Or., and Donald Cavin Hill, Reno, Nev., for defendants-appellants.\nJeffrey B. Setness and William M. Welch, Asst. U.S. Attys., Reno, Nev., for plaintiff-appellee.\nBefore: WALLACE, Chief Judge, and CHOY and POOLE, Circuit Judges."
+  },
+  "file_name": "1280-01",
+  "first_page_order": 1362,
+  "last_page_order": 1369
+}

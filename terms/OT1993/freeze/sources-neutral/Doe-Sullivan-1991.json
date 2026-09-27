@@ -1,0 +1,1215 @@
+{
+  "id": 10533649,
+  "name": "John DOE, et al., Appellants, v. Louis W. SULLIVAN, M.D., Secretary of Health and Human Services, et al., Appellees",
+  "name_abbreviation": "Doe v. Sullivan",
+  "decision_date": "1991-07-16",
+  "docket_number": "No. 91-5019",
+  "first_page": "1370",
+  "last_page": "1386",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "938 F.2d 1370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 8770,
+    "name": "United States Court of Appeals for the District of Columbia Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "531 F.2d 1114",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1074794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/531/1114-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 677",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10299
+      ],
+      "weight": 3,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0677-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 498",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176462
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0498-01"
+      ]
+    },
+    {
+      "cite": "455 F.Supp. 291",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4025702
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/455/0291-01"
+      ]
+    },
+    {
+      "cite": "533 F.2d 7",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3696602,
+        1003894
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/174/0339-01",
+        "/f2d/533/0007-01"
+      ]
+    },
+    {
+      "cite": "733 F.2d 164",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        577376,
+        3797548
+      ],
+      "pin_cites": [
+        {
+          "page": "167-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/733/0164-01",
+        "/us-app-dc/236/0072-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 395",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9660
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "403",
+          "parenthetical": "challenge to transfer of prisoner to high security facility moot when prisoner returned to medium security facility"
+        },
+        {
+          "page": "2335",
+          "parenthetical": "challenge to transfer of prisoner to high security facility moot when prisoner returned to medium security facility"
+        },
+        {
+          "parenthetical": "challenge to transfer of prisoner to high security facility moot when prisoner returned to medium security facility"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0395-01"
+      ]
+    },
+    {
+      "cite": "665 F.2d 1153",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3686979,
+        472279
+      ],
+      "pin_cites": [
+        {
+          "page": "1158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/214/0335-01",
+        "/f2d/665/1153-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 421",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4333485,
+        11297087
+      ],
+      "pin_cites": [
+        {
+          "page": "425-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/268/0299-01",
+        "/f2d/841/0421-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490209
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "expectation that \"chronic violator\" will face future suspension"
+        },
+        {
+          "parenthetical": "expectation that \"chronic violator\" will face future suspension"
+        },
+        {
+          "parenthetical": "expectation that \"chronic violator\" will face future suspension"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0103-01"
+      ]
+    },
+    {
+      "cite": "801 F.2d 462",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546689,
+        3611372
+      ],
+      "pin_cites": [
+        {
+          "page": "466-67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/801/0462-01",
+        "/us-app-dc/255/0248-01"
+      ]
+    },
+    {
+      "cite": "665 F.2d 1222",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3687787,
+        472485
+      ],
+      "pin_cites": [
+        {
+          "page": "1234-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/214/0404-01",
+        "/f2d/665/1222-01"
+      ]
+    },
+    {
+      "cite": "762 F.2d 134",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        366096,
+        3597578
+      ],
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/762/0134-01",
+        "/us-app-dc/246/0040-01"
+      ]
+    },
+    {
+      "cite": "824 F.2d 1132",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4331176,
+        1730475
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/263/0152-01",
+        "/f2d/824/1132-01"
+      ]
+    },
+    {
+      "cite": "662 F.2d 767",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1185395,
+        3686542
+      ],
+      "pin_cites": [
+        {
+          "page": "769-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/662/0767-01",
+        "/us-app-dc/213/0252-01"
+      ]
+    },
+    {
+      "cite": "646 F.2d 568",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5688058,
+        1217932
+      ],
+      "pin_cites": [
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/207/0233-01",
+        "/f2d/646/0568-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 472",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5088
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "challenge moot when Bank Holding Company Act amended"
+        },
+        {
+          "page": "1254",
+          "parenthetical": "challenge moot when Bank Holding Company Act amended"
+        },
+        {
+          "parenthetical": "challenge moot when Bank Holding Company Act amended"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0472-01"
+      ]
+    },
+    {
+      "cite": "416 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        84193
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "319",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "1707",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/416/0312-01"
+      ]
+    },
+    {
+      "cite": "420 U.S. 128",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11642882
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "129",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "849",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/420/0128-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 190",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6079
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "192",
+          "parenthetical": "plaintiff, contesting state law forbidding sale of beer to minor males, turned 21 in course of litigation; hence, he would not again be subject to challenged restriction"
+        },
+        {
+          "page": "454",
+          "parenthetical": "plaintiff, contesting state law forbidding sale of beer to minor males, turned 21 in course of litigation; hence, he would not again be subject to challenged restriction"
+        },
+        {
+          "parenthetical": "plaintiff, contesting state law forbidding sale of beer to minor males, turned 21 in course of litigation; hence, he would not again be subject to challenged restriction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0190-01"
+      ]
+    },
+    {
+      "cite": "91 Colum.L.Rev. 993",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1000"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "935 F.2d 282",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5681795,
+        10536166
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "2",
+          "parenthetical": "possibility that issue will not always evade review does not necessarily signal mootness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/290/0116-01",
+        "/f2d/935/0282-01"
+      ]
+    },
+    {
+      "cite": "53 Fed. Reg. 41,516",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 C.F.R. \u00a7\u00a7 312.80-88",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 357",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "918 F.2d 968",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10538809,
+        3486401
+      ],
+      "pin_cites": [
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/0968-01",
+        "/us-app-dc/287/0028-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 210",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5046
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1036-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0210-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 1759",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6220676
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1769",
+          "parenthetical": "agency's revised interpretation of a statute, if supported by a \"reasoned analysis,\" is entitled to deference"
+        },
+        {
+          "parenthetical": "agency's revised interpretation of a statute, if supported by a \"reasoned analysis,\" is entitled to deference"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0173-01"
+      ]
+    },
+    {
+      "cite": "889 F.2d 1127",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3476400,
+        10536963
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1131"
+        },
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/281/0294-01",
+        "/f2d/889/1127-01"
+      ]
+    },
+    {
+      "cite": "870 F.2d 678",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11644957,
+        5674742
+      ],
+      "pin_cites": [
+        {
+          "page": "680-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/870/0678-01",
+        "/us-app-dc/276/0264-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "842-43"
+        },
+        {
+          "page": "2781-82"
+        },
+        {
+          "page": "843"
+        },
+        {
+          "page": "2782"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(G)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 706",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(2)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "413 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11338453
+      ],
+      "weight": 6,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "10",
+          "parenthetical": "court is not well-positioned to interfere in composition, training, equipping, and control of military force"
+        },
+        {
+          "page": "2445",
+          "parenthetical": "court is not well-positioned to interfere in composition, training, equipping, and control of military force"
+        },
+        {
+          "parenthetical": "court is not well-positioned to interfere in composition, training, equipping, and control of military force"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0001-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 296",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187620
+      ],
+      "weight": 6,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "300",
+          "parenthetical": "court will \"hesitate long\" before interfering in relationship between military personnel and their superior officers"
+        },
+        {
+          "page": "2365",
+          "parenthetical": "court will \"hesitate long\" before interfering in relationship between military personnel and their superior officers"
+        },
+        {
+          "parenthetical": "court will \"hesitate long\" before interfering in relationship between military personnel and their superior officers"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0296-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777409
+      ],
+      "weight": 7,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "400"
+        },
+        {
+          "page": "1211"
+        },
+        {
+          "page": "398"
+        },
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0388-01"
+      ]
+    },
+    {
+      "cite": "773 F.2d 1325",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3601431,
+        19215
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1329"
+        },
+        {
+          "page": "1329"
+        },
+        {
+          "page": "1329",
+          "parenthetical": "issue evades review when \"time that typically elapses\" during controversy is less than two years"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/249/0119-01",
+        "/f2d/773/1325-01"
+      ]
+    },
+    {
+      "cite": "435 U.S. 765",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2365
+      ],
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "774",
+          "parenthetical": "eighteen months too short for full litigation"
+        },
+        {
+          "page": "1414",
+          "parenthetical": "eighteen months too short for full litigation"
+        },
+        {
+          "parenthetical": "eighteen months too short for full litigation"
+        },
+        {
+          "page": "774-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/435/0765-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 147",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175396
+      ],
+      "weight": 5,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "149",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "349",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "149"
+        },
+        {
+          "page": "348",
+          "parenthetical": "challenge to parole procedure moot when former prisoner unlikely again to encounter parole system"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0147-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 86",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3604155,
+        1531382
+      ],
+      "pin_cites": [
+        {
+          "page": "91-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/250/0424-01",
+        "/f2d/780/0086-01"
+      ]
+    },
+    {
+      "cite": "809 F.2d 900",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4329400,
+        1643282
+      ],
+      "pin_cites": [
+        {
+          "page": "904-05"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/258/0059-01",
+        "/f2d/809/0900-01"
+      ]
+    },
+    {
+      "cite": "219 U.S. 498",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3652743
+      ],
+      "weight": 5,
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "515"
+        },
+        {
+          "page": "283"
+        },
+        {
+          "page": "514-16"
+        },
+        {
+          "page": "283-84",
+          "parenthetical": "order that expires by its terms after two years evades review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/219/0498-01"
+      ]
+    },
+    {
+      "cite": "915 F.2d 699",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537649,
+        5676494
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "701"
+        },
+        {
+          "page": "704-05",
+          "parenthetical": "case declared moot when challenged legislative direction expired, and reenactment by Congress appeared extremely unlikely"
+        },
+        {
+          "page": "704-05",
+          "parenthetical": "case moot when statute expired"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/915/0699-01",
+        "/us-app-dc/286/0256-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 305",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601398
+      ],
+      "weight": 11,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "317"
+        },
+        {
+          "page": "600"
+        },
+        {
+          "page": "320"
+        },
+        {
+          "page": "602",
+          "parenthetical": "in determining likelihood of repetition, Court is generally unwilling to assume that party seeking relief will repeat misconduct"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0305-01"
+      ]
+    },
+    {
+      "cite": "10 U.S.C. \u00a7 980",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Stat. 2492",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 C.F.R. \u00a7 50.23",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "52,814"
+        },
+        {
+          "page": "(d)(1)"
+        },
+        {
+          "page": "(d)(2)"
+        },
+        {
+          "page": "(d)(1)"
+        },
+        {
+          "page": "(d)(4)"
+        },
+        {
+          "page": "(d)(4)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 C.F.R. \u00a7 50.20",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 C.F.R. \u00a7\u00a7 312.34",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 355",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "unapproved drugs may not be introduced into interstate commerce"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "756 F.Supp. 12",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7382749
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "14"
+        },
+        {
+          "page": "15-18"
+        },
+        {
+          "page": "16"
+        },
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/756/0012-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7\u00a7 301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq.",
+          "parenthetical": "\"FDC Act\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "494 U.S. 472",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5088
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1253-54"
+        },
+        {
+          "page": "1254"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/494/0472-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 147",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175396
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "149"
+        },
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/423/0147-01"
+      ]
+    },
+    {
+      "cite": "915 F.2d 699",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537649,
+        5676494
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "700-01"
+        },
+        {
+          "page": "701"
+        },
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/915/0699-01",
+        "/us-app-dc/286/0256-01"
+      ]
+    },
+    {
+      "cite": "21 C.F.R. \u00a7 50.23",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "52,817"
+        }
+      ],
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 2401,
+    "char_count": 69735,
+    "ocr_confidence": 0.79,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23516428950104812
+    },
+    "sha256": "789cfeff0c1c2c92ef3e3b96bd726a241b9d7460ad2295bcb1975e6e1a567072",
+    "simhash": "1:dfde2b37471e145b",
+    "word_count": 11176
+  },
+  "last_updated": "2024-02-27T16:19:26.645815+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WALD, RUTH BADER GINSBURG and CLARENCE THOMAS, Circuit Judges."
+    ],
+    "parties": [
+      "John DOE, et al., Appellants, v. Louis W. SULLIVAN, M.D., Secretary of Health and Human Services, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion for the Court filed by Circuit Judge RUTH BADER GINSBURG.\nDissenting opinion filed by Circuit Judge CLARENCE THOMAS.\nRUTH BADER GINSBURG, Circuit Judge:\nThis appeal concerns an interim regulation promulgated in urgent circumstances under the Food, Drug and Cosmetic Act, 21 U.S.C. \u00a7\u00a7 301 et seq. (\u201cFDC Act\u201d). The regulation provides that the Food and Drug Administration (\u201cFDA\u201d) may permit Department of Defense (\u201cDOD\u201d) use of unapproved, investigational drugs on military personnel, in certain combat-related situations, without obtaining the service member\u2019s informed consent. The setting for the case is the military operation known first as Desert Shield and, once hostilities commenced between the coalition forces and Iraq, as Desert Storm. Ruling disposi-tively within three weeks of the action\u2019s commencement, the district court dismissed the complaint, which the plaintiffs attempted to bring on behalf of a class, on alternate grounds. See Doe v. Sullivan, 756 F.Supp. 12 (D.D.C.1991). First, the court held that the complaint questioned \u201ca military decision that is not subject to judicial review.\u201d Id. at 14. Alternately, the court rejected on the merits the statutory and constitutional challenges stated in the complaint.\nOperation Desert Storm ended during the pendency of this appeal. The challenged FDA regulation, however, remains in place. Neither the DOD nor the FDA has proposed its withdrawal. The named plaintiffs therefore persist in urging adjudication of their facial challenge to the FDA\u2019s regulation. They maintain, and we agree, that the controversy they press is one \u201ccapable of repetition, yet evading review.\u201d While we further conclude that the consistency of the regulation with the governing law is justiciable, we agree with the district court that the regulation is within the FDA\u2019s statutory authority under the FDC Act, and does not transgress any other legal constraint. For that reason, we affirm the order dismissing the complaint.\nI. Background\nOn August 2, 1990, Iraq invaded Kuwait. In response, the United States deployed troops to Saudi Arabia as part of Operation Desert Shield and, under the mandate of the United Nations, began preparing for war. In addition to conventional arms, the Iraqi government had stockpiled a variety of chemical and biological warfare agents. Iraq had shown its willingness to employ these weapons by using them in the Iran-Iraq war of the 1980s and against Iraq\u2019s own civilian Kurdish population. See Chemical and Biological Weapons Threat: The Urgent Need for Remedies, Hearings Before the Senate Comm, on Foreign Relations, 101st Cong., 1st Sess. 29, 31 (1989) (statement of Hon. William H. Webster, Director of Central Intelligence). The DOD therefore undertook a review of medical treatments that might be used to counter an Iraqi chemical and biological weapons attack. See Declaration of Edward D. Martin, M.D., Deputy Assistant Secretary of Defense (Professional Affairs and Quality Assurance) (\u201cMartin Declaration\u201d) at 2, reproduced in Joint Appendix (\u201cJ.A.\u201d) at 32.\nThe DOD identified as useful against the Iraqi threat two investigational drugs which had not been approved by the FDA for the specific uses proposed. The FDC Act generally prohibits the use of unapproved drugs. See 21 U.S.C. \u00a7 355(a) (unapproved drugs may not be introduced into interstate commerce). Section 505(i) of the Act, 21 U.S.C. \u00a7 355(i), authorizes regulations exempting from the general prohibition unapproved drugs that are \u201cintended solely for investigational use.\u201d Pursuant to that authorization, the FDA has promulgated regulations allowing investigational drugs \u201cto be made available ... primarily for treatment use\u201d in specified circumstances. See, e.g., 21 C.F.R. \u00a7\u00a7 312.34, 312.35.\nSection 505(i) of the FDC Act and FDA regulations generally require that the experts who administer investigational drugs first obtain from recipients their informed consent. See 21 U.S.C. \u00a7 355(i); 21 C.F.R. \u00a7 50.20 (1990). Exceptions are authorized when obtaining consent is deemed \u201cnot feasible.\u201d See id. The consent waiver regulation in effect at the start of Operation Desert Shield required both the drug investigator and an independent physician to certify that the drug recipient was physically or mentally unable to give effective consent, and that there was insufficient time to get consent from a legal representative.\nAfter identifying the two investigational drugs it wished to use in Operation Desert Shield, the DOD concluded that obtaining informed consent in the heat of imminent or ongoing combat would not be practicable. In battlefield situations, the DOD maintained, \u201c[i]f a soldier\u2019s life will be endangered by nerve gas ... it is not acceptable from a military standpoint to defer to whatever might be the soldier\u2019s personal preference\u201d for treatment. 55 Fed.Reg. 52,814, 52,815 (1990) (Letter from DOD\u2019s Assistant Secretary of Defense (Health Affairs) (October 30, 1990) to Department of Health and Human Services Assistant Secretary for Health). The safety of other personnel in a soldier\u2019s unit and the accomplishment of the combat mission, the DOD urged, warranted mandatory use of investi-gational drugs.\nThe combat-ready personnel, whom DOD wanted to treat with the investigational drugs prior to any exposure to nerve gas or biological warfare, did not fit within the existing regulatory exception from informed consent requirements. The DOD therefore sought, and the FDA adopted, a regulatory change. On December 21, 1990, the FDA promulgated Rule 23(d) as an interim regulation. See 55 Fed.Reg. 52,817 (to be codified at 21 C.F.R. \u00a7 50.23(d)). Rule 23(d) permits \u201cthe Commissioner of Food and Drugs to make the determination that obtaining informed consent from military personnel for the use of an investiga-tional drug or biologic is not feasible in certain battlefield or combat-related situations.\u201d See id. at 52,814.\nRule 23(d) sets exacting conditions for waivers of informed consent. The DOD\u2019s request for a waiver \u201cmust be limited to a specific military operation involving combat or the immediate threat of combat.\u201d 55 Fed.Reg. at 52,817 (to be codified at 21 C.F.R. \u00a7 50.23(d)(1)). The DOD must include in the request written justification for the conclusions of the responsible DOD physicians and drug investigators that the requisite military combat exigency exists. The request must also affirm that an institutional review board has approved the use of the investigational drug without informed consent. See id. The FDA, prior to granting a requested waiver, must evaluate the risks and benefits of the investiga-tional drug in the circumstances of the use proposed by the DOD. See 55 Fed.Reg. 52,817 (to be codified at 21 C.F.R. \u00a7 50.23(d)(2)). The FDA may grant a waiver, i.e., rule that informed consent is not feasible, \u201conly when withholding treatment would be contrary to the best interests of the military personnel and there is no available satisfactory alternative therapy.\u201d 55 Fed.Reg. 52,817 (to be codified at 21 C.F.R. \u00a7 50.23(d)(1)). Waivers expire after one year, but they may be renewed. Based on changed circumstances, a waiver may be terminated by the DOD or the FDA before the year is up. See 55 Fed.Reg. 52,817 (to be codified at 21 C.F.R. \u00a7 50.23(d)(4)).\nOn December 31, 1990, and January 8, 1991, in response to DOD requests, the FDA issued waiver rulings under Rule 23(d). Those rulings determined that obtaining informed consent was not feasible, because of military combat exigencies in Operation Desert Shield, for the use of two investigational drugs, a nerve gas pretreatment and a botulism poisoning preventative. See supra note 1.\nDoe, a serviceman stationed in Saudi Arabia, brought this action on January 11, 1991. His wife, suing derivatively, joined him as co-plaintiff. Proceeding under a fictitious name, and invoking Rule 23(b)(2) of the Federal Rules of Civil Procedure, Doe sought to represent a class consisting of \u201call United States military personnel who are or will be serving in Operation Desert Shield in Saudi Arabia, Kuwait, or Iraq.\u201d Complaint for Declaratory and In-junctive Relief para. 31. Doe\u2019s complaint presented three claims for relief; each claim was stated first on behalf of the named plaintiffs, and then repeated on behalf of the class. First, Doe challenged Rule 23(d) on its face as outside the authority Congress granted to the FDA under section 505(i) of the FDC Act, 21 U.S.C. \u00a7 355(i). Second, Doe charged that the DOD\u2019s use of unapproved investigational drugs, under FDA Rule 23(d) permission but without obtaining the informed consent of the subject, could not be reconciled with the informed consent direction contained in section 1401(c)(1) of the 1985 Defense Department Authorization Act, Pub.L. No. 98-525, 98 Stat. 2492, 2615 (1984) (codified at 10 U.S.C. \u00a7 980). Third, Doe alleged that the government\u2019s use of drugs on a nonconsenting person constitutes a substantial deprivation of that person\u2019s liberty and therefore violates the due process clause of the Fifth Amendment.\nThe district court dismissed Doe\u2019s action on January 31, 1991, twenty days after the complaint was filed and seventy days short of the time allowed for a motion to certify an alleged class. See D.D.C. Local Rule 203(b) (motion for certification due \u201c[wjith-in 90 days after the filing of a complaint\u201d). Since the date of the district court\u2019s final order, the United States and its allies have fought and defeated Iraq. At midnight, February 27,1991, President Bush declared a ceasefire. On March 15, 1991, the DOD formally notified the FDA that the military operation creating the need for use of the two drug products without informed consent had ended. Under the terms of Rule 23(d)(4), see supra note 5, this notice terminated the waivers of informed consent. That same day, the government moved to dismiss this appeal as moot. We set out next our reasons for concluding that the claim Doe continues to pursue \u2014 his facial challenges to the FDA\u2019s Rule 23(d) \u2014 is not moot.\nII. Mootness\nArticle III of the Constitution allows federal courts to adjudicate only \u201cactual, ongoing controversies.\u201d Honig v. Doe, 484 U.S. 305, 317, 108 S.Ct. 592, 600, 98 L.Ed.2d 686 (1988). An appellate court, operating under this constraint, may not rule on a case which, although live when brought in the district court, has been rendered academic by later events. See Clarke v. United States, 915 F.2d 699, 701 (D.C.Cir.1990) (en banc).\nThe end of the war against Iraq, and the attendant termination of the informed consent waivers geared to that conflict, have rendered moot Doe\u2019s endeavor to block implementation of the December 31, 1990, and January 8, 1991, specific applications of the FDA\u2019s Rule 23(d). See supra p. 1374. Doe so concedes, but he maintains that the case remains live. Doe contrasts the now withdrawn consent waivers, i.e., the two specific applications of Rule 23(d), with the continuing vitality of the Rule itself, and he asserts that his facial challenge to Rule 23(d) warrants adjudication. Doe invokes the exception to the mootness doctrine for controversies \u201ccapable of repetition, yet evading review.\u201d Southern Pacific Terminal Co. v. ICC, 219 U.S. 498, 515, 31 S.Ct. 279, 283, 55 L.Ed. 310 (1911). The very fact that the DOD seeks to retain Rule 23(d) as a rule continuing indefinitely in force, Doe urges, supports his contention that recurrence of the issue underlying his claim is plausibly projected. See Appellants\u2019 Response to the Motion of Secretary of Defense and Secretary of Health and Human Services to Dismiss Appeal as Moot at 5. Compare City of New Haven v. United States, 809 F.2d 900, 904-05 (D.C.Cir.1987) and Better Government Ass\u2019n v. Department of State, 780 F.2d 86, 91-92 (D.C.Cir.1986) (facial challenges entertained when regulation remained effective, despite mootness of specific applications) with Clarke v. United States, 915 F.2d at 704-05 (case declared moot when challenged legislative direction expired, and reenactment by Congress appeared extremely unlikely).\nIf \u201c(1) the challenged action was in its duration too short to be fully litigated prior to its cessation or expiration, and (2) there [is] a reasonable expectation that the same complaining party [will] be subjected to the same action again,\u201d then the controversy is \u201ccapable of repetition, yet evading review.\u201d Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 349, 46 L.Ed.2d 350 (1975) (per curiam). We now consider whether this case fits that bill.\nThe \u201cevading review\u201d standard, we conclude, is securely satisfied here, and our dissenting colleague does not quarrel with that conclusion. The consent waivers granted by the FDA for Desert Shield were withdrawn within three months. Rule 23(d) limits waivers, if not earlier terminated or renewed at the DOD\u2019s request, to terms of one year. See 55 Fed.Reg. 52,817 (to be codified at 21 C.F.R. \u00a7 50.23(d)(4)).\nOrders of considerably longer duration have been held to evade review. See First National Bank of Boston v. Bellotti, 435 U.S. 765, 774, 98 S.Ct. 1407, 1414, 55 L.Ed.2d 707 (1978) (eighteen months too short for full litigation); Southern Pacific Terminal Co., 219 U.S. at 514-16, 31 S.Ct. at 283-84 (order that expires by its terms after two years evades review); In re Reporters Comm. for Freedom of the Press, 773 F.2d 1325, 1329 (D.C.Cir.1985) (issue evades review when controversy endures less than two years).\nWe are mindful, too, of a notice concern advanced by Doe. Under Rule 23(d), the DOD need not make public its requests for waivers of informed consent, and the FDA need not make public its determinations on DOD requests. Military personnel therefore may have no opportunity to institute litigation prior to the time an experimental drug is administered. Thus, both the uncertain starting time for a challenge to a specific application of Rule 23(d), and the generally short-term (one-year) character of the waivers authorized by the Rule, convince us that the action Rule 23(d) authorizes evades review.\nTurning to the \u201ccapable of repetition\u201d requirement, we are reminded by the government of this statement in Clarke, 915 F.2d at 704: \u201cIn estimating the likelihood of an event\u2019s occurring in the future, a natural starting point is how often it has occurred in the past.\u201d' The government \u201cpoint[s] out in this regard that in the nearly 30 years that Section 505(i) of the FDC Act has imposed a general requirement of informed consent, the recent conflict with Iraq has been the only occasion in which DOD has found that military exigencies might require the administration of investigational drugs without informed consent.\u201d Motion of Secretary of Defense and Secretary of Health and Human Services to Dismiss Appeal as Moot at 9-10 (emphasis in original).\nOfficial reports indicate, however, that conditions changed ominously in the 1980s. In very recent years, the global spread of chemical and biological weapons has become a matter of grave concern to national defense planners. See generally E. Spiers, Chemical Weaponry: A Continuing Challenge 126-57 (1989) (prospects for chemical warfare and assessment of modern chemical weaponry). See also Statement by President on Chemical Weapons Initiative, 27 Weekly Comp. Pres. Doc. 599 (May 13, 1991) (\u201cThe Gulf war has once again raised the specter of chemical weapons and demonstrated that unscrupulous regimes can and will threaten innocent populations with these weapons of terror so long as we permit them to exist.\u201d). We set out here illustrative warnings.\nIn 1989 Senate testimony, Judge William H. Webster, Director, Central Intelligence Agency, addressed \u201cthe very serious problem of the proliferation of chemical and biological weapons.\u201d Hearings on Global Spread of Chemical and Biological Weapons Before the Senate Comm, on Governmental Affairs and Perm. Subcomm. on Investigations, 101st Cong., 1st Sess. 10 (1989) (\u201cChemical Weapons Hearings\u201d). Judge Webster estimated that \u201cat least 20 countries\u201d had chemical weapons, id. at 18; he anticipated that the disturbing trend would continue \u201cdespite ongoing multi-lat-eral efforts to stop the[] proliferation.\u201d Id. at 10. \u201cAt least 10 countries,\u201d he further stated, \u201care working to produce both previously known and futuristic biological weapons.\u201d Id. Judge Webster listed, among nations that commenced large-scale production and stockpiling of chemical warfare agents in the 1980s: Iraq, Syria, Iran, and Libya. Id. at 11-13. See also Harris, Chemical Weapons Proliferation in the Developing World, in Rusi and Brassey\u2019s Defense Yearbook 1989, at 67-88 (1989), reprinted in Chemical Weapons Hearings at 608-29.\nA 1990 Army report observed: \u201cChemical weapons are rapidly becoming low cost weapons of mass destruction for poorer nations. These weapons are neither difficult nor expensive to produce. The Iraqi and Iranian use of chemicals in the Gulf War is likely to encourage other combatants to use these weapons.\u201d M. Stone & C. Vuono, Trained and Ready in an Era of Change: The Posture of the United States Army, Fiscal Year 1991, reprinted in Department of Defense Appropriations for 1991: Hearings Before a Sub-comm. of the House Comm, on Appropriations, 101st Cong., 2d Sess. 931 (1990) (\u201cDOD Appropriations Hearings \u201d). The Secretary of Defense, in his Annual Report to the President and Congress, January 1990, cautioned: \u201c[G]iven the attractiveness of chemical weapons to Third World countries, the United States must be able to deter the use of chemical weapons against our forces.\u201d DOD Appropriations Hearings at 163. The Marine Corps, in 1990, requested an additional 52,555 protective masks \u201cto survive and continue to operate\u201d in a contaminated environment, noting that the \u201cthreat is formidable.\u201d Id. at 771-72. See also D. Cheney, Annual Report of the Secretary of Defense to the President and Congress, January 1991, at 3 (\u201cProliferation of nuclear, chemical, and biological weapons and the missile technology for long-range delivery systems will make regional conflict increasingly destructive and lethal.\u201d); id. at 6 (\u201cThird world nations in pursuit of nuclear, chemical, or biological weapons technology .. \u201e pose a serious threat.\u201d); id. at 65 (Marine Corps reports need for improved nuclear, biological, and chemical defense equipment).\nDoe, though among the troops brought safely home, remains a soldier in the service of the United States, subject to assignment wherever his country needs him. In common with the class he sought to represent, see supra pp. 1374-75, he originally had, and has not lost, a \u201cpersonal stake\u201d in this case. Cf. United States Parole Commission v. Geraghty, 445 U.S. 388, 400 n. 7, 100 S.Ct. 1202, 1210 n. 7, 63 L.Ed.2d 479 (1980). Based on Doe\u2019s past exposure to the threat of chemical warfare in Saudi Arabia, and his continuing- status as a member of our armed forces, we conclude that he confronts a risk of DOD recourse to Rule 23(d) sufficient to satisfy the \u201ccapable of repetition\u201d test. We reach this conclusion cognizant of the still undiminished, worldwide chemical and biological weapons threat, the hardly hypothetical danger chemical warfare agents pose for combat troops, and the DOD\u2019s apparent determination to retain Rule 23(d) in place so that, if need be, it may again gain expeditious approval for the use of experimental drugs without informed consent.\nWe recognize as well \u201cthe flexible character of the Art[icle] III mootness doctrine\u201d developed in Supreme Court guidepost decisions. See Geraghty, 445 U.S. at 400, 100 S.Ct. at 1211. It is enough, in a case of this order, that the litigant \u201cfaces some likelihood of becoming involved in the same controversy in the future.\u201d Id. at 398, 100 S.Ct. at 1209. The core decision is \u201cwhether the controversy is capable of repetition and not ... whether the claimant ha[s] demonstrated that a recurrence of the dispute [is] more probable than not.\u201d Honig v. Doe, 484 U.S. at 318 n. 6, 108 S.Ct. at 601 n. 6 (emphasis in original).\nThe government argues that Doe\u2019s challenge is either too late or too early: moot because Operation Desert Storm is over; not ripe, because the next conflict is not yet upon us. Under these tight lines, it appears, Doe and other soldiers similarly situated could litigate Rule 23(d)\u2019s consistency with the governing law. only when a military crisis occurs, and a prolonged one at that, hardly a prime time for dispassionate adjudication. While combat is imminent or ongoing, moreover, the government might raise a justiciability objection of a different kind. See infra, Part III.\nGiven the Supreme Court\u2019s instruction to apply the \u201creasonable expectation\u201d standard without excessive \u201cstringency,\u201d see Honig v. Doe, 484 U.S. at 318 n. 6, 108 S.Ct. at 602 n. 6, we note this prudential consideration. Congress, not this court, is the ultimate arbiter of the compatibility of Rule 23(d) with the legislature\u2019s will. Both this court, on judicial review of a ease commenced when combat was imminent, and Congress, in determining the need, if any, for legislative change in the wake of the Desert Storm experience, can consider the question Doe tenders most calmly and effectively after the battle fire is extinguished and before it is rekindled.\nIII. Amenability to Judicial Review\nThe district court, although it ruled, conditionally, that Doe\u2019s complaint lacked legal merit, held, initially, that Doe\u2019s claims were not amenable to judicial review. Only the electoral branches \u2014 Congress and the President \u2014 that court indicated, are competent authorities in matters of military discipline and strategy. With respect to Doe\u2019s challenge to the FDA's authority to promulgate Rule 23(d), the district judge noted:\nPlaintiffs\u2019 claim against the Secretary of Health and Human Services regarding the FDA\u2019s interim rule arguably does not implicate military discipline and strategy. Whether the fact that the interim rule was adopted at the DOD\u2019s request in preparing for possible war insulates it from the ordinary scope of judicial review is not clear. However, Congress delegated rulemaking authority regarding unapproved drugs to the FDA, which is part of the executive branch. 21 U.S.C. \u00a7 355(i). The FDA exercised that delegated authority in adopting \u00a7 50.23(d). The Supreme Court has cast the principle of judicial deference to the electoral branches in military matters in broad terms. See, e.g., Chappell v. Wallace, 462 U.S. 296, 103 S.Ct. 2362 [76 L.Ed.2d 586] (1983); Gilligan v. Morgan, 413 U.S. 1, 93 S.Ct. 2440 [37 L.Ed.2d 407] (1973). On balance, therefore, the Court believes that [Rule 23(d) ] is not reviewable.\nDoe v. Sullivan, 756 F.Supp. at 15 n. 2. We agree that deference is owed to the political branches in military matters, but do not agree that judicial review of the matter here at issue is out of order.\nIn contrast to the turbulent background of this litigation, Doe\u2019s facial challenge to Rule 23(d) is a straightforward one with a commonplace cast. Doe contends that, in promulgating Rule 23(d), the FDA stepped outside its statutory authority and adopted an exception to its informed consent regulations that is \u201cnot in accordance with law.\u201d Doe therefore seeks a court order setting aside the FDA\u2019s action. See 5 U.S.C. \u00a7 706(2)(A), (C) (court shall set aside agency action that is \u201cnot in accordance with law\u201d or is \u201cin excess of statutory jurisdiction, authority, or limitations\u201d). We see no \u201cmilitary action\u201d bar to the brand of review Doe now requests.\nFrom the main rule that administrative acts are reviewable in court on the complaint of a person adversely affected within the meaning of a relevant statute (here, principally the informed consent provision in section 505(i) of the FDC Act), the Administrative Procedure Act (APA) excepts, inter alia, \u201cmilitary authority exercised in the field in time of war or in occupied territory.\u201d 5 U.S.C. \u00a7 701(b)(1)(G). The government emphasizes that exception. See Brief for Appellees at 16, 24, 29. We think the \u201cmilitary authority\u201d exception is not on point.\nDoe currently does not ask us to review military commands made in combat zones or in preparation for, or in the aftermath of, battle. His claim, as now advanced, entails no judicial interference with the relationship between soldiers and their military superiors. Cf. Chappell v. Wallace, 462 U.S. 296, 300, 103 S.Ct. 2362, 2365, 76 L.Ed.2d 586 (1983) (court will \u201chesitate long\u201d before interfering in relationship between military personnel and their superior officers); Gilligan v. Morgan, 413 U.S. 1, 10, 93 S.Ct. 2440, 2445, 37 L.Ed.2d 407 (1973) (court is not well-positioned to interfere in composition, training, equipping, and control of military force). We confront at this time not a dispute over military strategy or discipline, not one between soldiers and their superiors, but one over the scope of the authority Congress has entrusted to the FDA. Homing in on the facial challenge to the FDA\u2019s regulation, Doe\u2019s counsel explained:\nPlaintiffs seek review under the Administrative Procedure Act ... of a rule published in the Federal Register by the Secretary of HHS, who is not part of any military chain of command.... [W]hen he adopted the rule, [the Secretary] did not purport to be exercising the President\u2019s powers as Commander in Chief. Rather, he relied exclusively on his authority under the Food, Drug, and Cosmetic Act, ... a statute which cannot, by any stretch of the imagination, be construed as a source of authority for \u201cmilitary discipline.\u201d\nReply Brief at 2-3. That explanation accurately portrays Doe\u2019s APA claim.\nThe FDA\u2019s Rule 23(d), we recognize, unquestionably involves a military matter: it allows the FDA to grant the Department of Defense a waiver of informed consent requirements in certain battlefield or combat-related situations. But the judgment Doe asks the court to make does not entail judicial review of the existence of a military exigency. Rather, Doe\u2019s facial attack asks simply whether the law that governs FDA action permits the measure which that non-military agency has taken. The question thus presented is meet for judicial review, and we proceed to its resolution.\nIV. Merits\nOn the issue ultimately dispositive of this appeal, we are in accord with the district court: the FDA\u2019s Rule 23(d), we hold, is within that agency\u2019s rulemaking authority under the governing section of the FDC Act, and is not barred by the 1985 Department of Defense Authorization Act or the due process clause of the Fifth Amendment. See Doe v. Sullivan, 756 F.Supp. at 15-18.\nA. The FDC Act\nWe review the FDA\u2019s interpretation of the FDC Act under the two-step formulation restated in Chevron U.S.A. v. Natural Resources Defense Council, 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). See, e.g., E.R. Squibb and Sons, Inc. v. Bowen, 870 F.2d 678, 680-81 (D.C.Cir.1989). First, if \u201cthe intent of Congress is clear,\u201d then \u201cthe court as well as the agency, must give effect to the unambiguously expressed intent of Congress.\u201d Chevron, 467 U.S. at 842-43, 104 S.Ct. at 2781-82. Our decisions call this initial step \u201cChevron 7\u201d analysis. See Coal Employment Project v. Dole, 889 F.2d 1127, 1131 (D.C.Cir.1989). If, however, the governing legislation is \u201csilent or ambiguous with respect to the specific issue,\u201d the court generally need ask only whether the agency\u2019s interpretation is a \u201cpermissible construction of the statute.\u201d Chevron, 467 U.S. at 843, 104 S.Ct. at 2782. Circuit precedent labels this \u201cChevron II\" analysis. See Coal Employment Project, 889 F.2d at 1131.\nDoe urged in the district court, and maintains on appeal, that Congress spoke plainly in the FDC Act and that the FDA failed to give effect to the unambiguously expressed legislative intent; in other words, Doe contends that the FDA\u2019s Rule 23(d) must fail under Chevron I inspection. We now examine that contention.\nCongress provided, in section 505(i) of the FDC Act, for the' use of unapproved investigational drugs only on the informed consent of the human subjects affected, \u201cexcept where [the experts administering the drug] deem [the human subject\u2019s consent] not feasible.\u201d 21 U.S.C. \u00a7 355(i). The words \u201cnot feasible\u201d in this context, Doe insists, focus on the human recipient of the drug: if that individual has the capacity intelligently to give or withhold consent, then the exception cannot apply; if, on the other hand, that individual is unable intelligently to convey a choice, only then is informed consent \u201cnot feasible\u201d so that the decision may be made by the experts administering the drug.\nDoe observes that, before the FDA adopted Rule 23(d), the agency itself apparently subscribed to Doe\u2019s view, i.e., Rule 23 formerly recognized consent as \u201cnot feasible\u201d only where the human subject could not competently make or convey an informed choice. See 21 C.F.R. \u00a7 50.23(a), (b), set out supra note 4. Doe additionally cites, as supportive of his position, remarks by legislators pointing to the \u201cnot feasible\u201d language. See 108 Cong.Rec. 22,042-43 (remarks of Sen. Kefauver and Sen. Javits).\nIn common with the district court, we do not find the text of FDC Act section 505(i) free from ambiguity. The FDA currently reads \u201cnot feasible\u201d to include \u201cimpracticable,\u201d taking into account particularly urgent circumstances: a combat-zone setting, the safety of military personnel at that location, and the compelling need to promote success of the service members\u2019 mission. That reading, as the district court said, \u201cis well within the ordinary meaning\u201d of the words Congress used. See Doe v. Sullivan, 756 F.Supp. at 16.\nWe note, furthermore, that the statutory section in question emphasizes the professional judgment of the experts responsible for administering the unapproved investi-gational new drugs to human subjects; the legislative text permits exceptions \u201cwhere [those experts] deem [consent] not feasible.\u201d See 21 U.S.C. \u00a7 355(i). Correspondingly, Rule 23(d) requires written justification for the conclusions of the drug investigators and physicians responsible for the medical care of the troops involved, as well as the approval of an institutional review board.\nWhile it is true that the FDA\u2019s prior interpretation of the words \u201cnot feasible\u201d focused on the subject\u2019s condition, the agency here has not reversed course. It has simply added a tightly circumscribed set of urgent circumstances in which the main rule of informed consent, with fidelity to the statute\u2019s terms, can be displaced. Cf. Rust v. Sullivan, \u2014 U.S. -, 111 S.Ct. 1759, 1769, 114 L.Ed.2d 233 (1991) (agency\u2019s revised interpretation of a statute, if supported by a \u201creasoned analysis,\u201d is entitled to deference). As for the legislative history, the Senate floor statements Doe has called to our attention are scarcely helpful. They merely repeat the statutory language, and therefore do not advance our understanding of the legislators\u2019 intent.\nThe FDA\u2019s Rule 23(d), we thus conclude, reasonably construes a statute that leaves room for interpretation. We therefore defer to the agency\u2019s determination.\nB. The Defense Authorization Act\nIn support of his contention that Rule 23(d) is facially invalid under the De-fense Authorization Act (\u201cDAA\u201d), Doe highlights this language from 10 U.S.C. \u00a7 980: \u201cFunds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless [] the informed consent of the subject is obtained in advance.\u201d We are satisfied that the DAA does not block the FDA action in question. Rule 23(d) authorizes the Commissioner of Food and Drugs to make certain determinations upon the request of the Assistant Secretary of Defense. The DAA, however, limits the authority of the Department of Defense, not the authority of the Food and Drug Commissioner. Although it might be argued that the DAA restricts the authority of the Assistant Secretary of Defense to make the request anticipated by Rule 23(d), it cannot be argued that the DAA restricts the Secretary of Health and Human Services from promulgating Rule 23(d). Nor can it be argued that an FDC regulation is capable of conferring on the Secretary of Defense a power that, as Doe maintains, a statute (the Defense Authorization Act) expressly prohibits. Accordingly, we reject Doe\u2019s claim that Rule 23(d) is facially invalid under the DAA.\nC. The Fifth Amendment Due Process Clause\nIn most circumstances, as Doe observes, the Constitution\u2019s due process guarantee protects an individual\u2019s liberty to decide whether or not to submit to serious medical treatment. See, e.g., Washington v. Harper, 494 U.S. 210, 110 S.Ct. 1028, 1036-37, 108 L.Ed.2d 178 (1990). In mounting a facial challenge, however, Doe\u2019s burden is heavy: he must demonstrate that no possible application of Rule 23(d) can be squared with the Fifth Amendment. See National Treasury Employees Union v. Yeutter, 918 F.2d 968, 975 (D.C.Cir.1990). The very application of Rule 23(d) in Operation Desert Storm, we point out, belies Doe\u2019s contention. As the district court stated, two concerns stressed by the DOD \u201cconstitute legitimate government interests that ... counterbalance an individual\u2019s interest in being free from experimental treatment without giving informed consent.\u201d Doe v. Sullivan, 756 F.Supp. at 17. First, \u201cadministering the drugs uniformly prevents unnecessary danger to troops and medical personnel from injury to, or the death of, fellow military personnel in battle. [Also,] the DOD ha[d] an interest in successfully accomplishing the military goals of Operation Desert Storm.\u201d Id. We agree with the district court that these considerations rendered compatible with due process the invocation of Rule 23(d) in that particular combat situation. Conceivably, Rule 23(d) might at some future time be applied in violation of the Fifth Amendment; this single constitutionally valid application of the Rule, however, is all that is needed to defeat Doe\u2019s facial constitutional challenge.\nCONCLUSION\n(1) Soldier Doe\u2019s complaint retains vitality to the extent that it presents a facial challenge to the legality of the FDA\u2019s Rule 23(d). That challenge describes a controversy capable of repetition, yet evading review; it therefore survives inspection for mootness. (2) The complaint, reduced to the claim that FDA Rule 23(d), on its face, is inconsistent with the governing law, is justiciable. (3) Rule 23(d) is a permissible construction of section 505(i) of the FDC Act and is not otherwise unlawful; we therefore defer to the FDA\u2019s decision to promulgate the rule.\nFor the reasons stated, the dismissal of Doe\u2019s complaint is\nAffirmed.\n.The two drugs were pyridostigmine bromide 30 mg tablets and pentavalent botulinum toxoid vaccine. The DOD contemplated use of pyridos-tigmine bromide as a pretreatment to help prevent or ameliorate the effects of nerve gas. The drug is self-administered in tablet form prior to exposure. Its use increases the beneficial effects of two FDA-approved post-exposure nerve gas drugs: atropine and pralidoxime chloride. Pyridostigmine bromide is currently approved as a treatment for myasthenia gravis, a neuro-muscular disorder. The DOD proposed using a dosage that would be 15% of the average daily dosage used to treat myasthenia gravis. Pentavalent botulinum toxoid vaccine is a prophylactic treatment which the DOD considered useful to prevent botulism poisoning caused by biological warfare. It has been used for over 20 years by laboratory workers at risk of exposure to botulism.\nAccording to the DOD, \"[t]he only current medical/scientific reservations about these [two] drugs relate to specific evidence of efficacy in human beings exposed to specific chemical and biological warfare agents_ [Evidence of efficacy in actual human use cannot be obtained through controlled clinical trials ... because humans cannot intentionally be exposed to chemical or biological [warfare] agents in order to test the effectiveness of a drug.\u201d Martin Declaration at 2-3, J.A. at 32-33.\nDoe maintains that pyridostigmine has several known side effects and risks unknown adverse consequences when used as a nerve gas treatment, particularly in conjunction with the two approved post-exposure nerve gas drugs. Botu-linum vaccine, Doe notes, also carries a risk of adverse reactions.\n. Section 505(i) of the FDC Act reads in pertinent part:\nThe Secretary [of Health and Human Services] shall promulgate regulations for exempting ... drugs intended solely for investi-gational use by experts.... Such regulations shall provide ... that experts using such drugs ... will inform any human beings to whom such drugs ... are being administered ... and will obtain the consent of such human beings or their representatives, except where [the experts] deem it not feasible or, in their professional judgment, contrary to the best interests of such human beings.\n21 U.S.C. \u00a7 355(i).\nSubstantially the same prescription appears in FDA Act section 507(d), 21 U.S.C. \u00a7 357(d). Section 507(d) allows the Commissioner to exempt investigational antibiotic drugs from certification requirements if the experts responsible for their use follow certain procedures, including informed consent \u201cexcept where [the experts] deem it not feasible.\" Doe cites both sections 505(i) and 507(d) in his complaint. As relevant to the matter before us, these sections impose identical constraints.\n. The FDA informed consent regulation reads in part:\nExcept as provided in \u00a7 50.23 no investigator may involve a human being as a subject in research covered by these regulations unless the investigator has obtained the legally effective informed consent of the subject....\n21 C.F.R. \u00a7 50.20.\n. Prior to the addition of a new subsection in December 1990, the FDA regulation on exception from the informed consent requirement read:\n\u00a7 50.23 Exception from the general requirements.\n(a) The obtaining of informed consent shall be deemed feasible unless, before use of the test article (except as provided in paragraph (b) of this section), both the investigator and a physician who is not otherwise participating in the clinical investigation certify in writing all of the following:\n(1) The human subject is confronted by a life-threatening situation necessitating the use of the test article;\n(2) Informed consent cannot be obtained from the subject because of an inability to communicate with or obtain legally effective consent from the subject;\n(3) Time is not sufficient to obtain consent from the subject\u2019s legal representative;\n(4) There is available no alternative method of approved or generally recognized therapy that provides an equal or greater likelihood of saving the life of the subject.\n(b) If immediate use of the test article is, in the investigator\u2019s opinion, required to preserve the life of the subject, and time is not sufficient to obtain the independent determination required in paragraph (a) of this section in advance of using the test article, the determinations of the clinical investigator shall be made and, within 5 working days after the use of the article, be reviewed and evaluated in writing by a physician who is not participating in the clinical investigation.\n(c) The documentation required in paragraph (a) or (b) of this section shall be submitted to the IRB [Institutional Review Board] within 5 working days after the use of the test.\n21 C.F.R. \u00a7 50.23 (1990).\n. Rule 23(d), to be codified at 21 C.F.R. \u00a7 50.23(d), reads:\n(d)(1) The Commissioner may also determine that obtaining informed consent is not feasible when the Assistant Secretary of Defense (Health Affairs) requests such a determination in connection with the use of an investigation drug (including an antibiotic or biological product) in a specific protocol under an investigation new drug application (IND) sponsored by the Department of Defense (DOD). DOD\u2019s request for a determination that obtaining informed consent from military personnel is not feasible must be limited to a specific military operation involving combat or the immediate threat of combat. The request must also include a written justification supporting the -conclusions of the physician(s) responsible for the medical care of the military personnel involved and the investigator(s) identified in the IND that a military combat exigency exists because of special military combat (actual or threatened) circumstances in which, in order to facilitate the accomplishment of the military mission, preservation of the health of the individual and the safety of other personnel require that a particular treatment be provided to a specified group of military personnel, without regard to what might be any individual's personal preference for no treatment or for some alternative treatment. The written request must also include a statement that a duly constituted institutional review board has reviewed and approved the use of the investigation drug without informed consent. The Commissioner may find that informed consent is not feasible only when withholding treatment would be contrary to the best interests of military personnel and there is no available satisfactory alternative therapy.\n(2)In reaching a determination under paragraph (d)(1) of this section that obtaining informed consent is not feasible and withholding treatment would be contrary to the best interests of military personnel, the Commissioner will review the request submitted under paragraph (d)(1) of this section and take into account all pertinent factors, including, but not limited to:\n(i) The extent and strength of the evidence of the safety and effectiveness of the investigational drug for the intended use;\n(ii) The context in which the drug will be administered, e.g., whether it is intended for use in a battlefield or hospital setting or whether it will be self-administered or will be administered by a health professional;\n(iii) The nature of the disease or condition for which the preventive or therapeutic treatment is intended; and\n(iv) The nature of the information to be provided to the recipients of the drug concerning the potential benefits and risks of taking or not taking the drug.\n(3) The Commissioner may request a recommendation from appropriate experts before reaching a determination on a request submitted under paragraph (d)(1) of this section.\n(4) A determination by the Commissioner that obtaining informed consent is not feasible and withholding treatment would be contrary to the best interests of military personnel will expire at the end of 1 year, unless renewed at DOD\u2019s request, or when DOD informs the Commissioner that the specific military operation creating the need for the use of the investiga-tional drug has ended, whichever is earlier. The Commissioner may also revoke this determination based on changed circumstances. 55 Fed.Reg. 52,814, 52,817 (1990).\n. That 1985 measure reads:\nLimitation on use of humans as experimental subjects\nFunds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless\u2014\n(1) the informed consent of the subject is obtained in advance; or\n(2) in the case of research intended to be beneficial to the subject, the informed consent of the subject or a legal representative of the subject is obtained in advance.\n10 U.S.C. \u00a7 980.\n. See, e.g., Appellants\u2019 Response to Motion of Secretary of Defense and Secretary of Health and Human Services to Dismiss Appeal as Moot at 2 (\"[P]laintiffs\u2019 facial challenge to Rule 23(d), 21 C.F.R. \u00a7 50.23(d), is not moot, and defendants\u2019 arguments concerning the dangers of courts engaging in review in the midst of combat actually argue in favor of adjudicating this case now.\u201d); Appellants\u2019 Response to Motion of Secretary of Defense and Secretary of Health and Human Services to Withdraw Appeal from Argument Calendar at 1 (\"[P]lantiffs\u2019 facial challenge to the legality of Food and Drug Administration Rule 23(d), 21 C.F.R. \u00a7 50.23(d), is not moot and will continue to present a justiciable controversy unless defendants revoke that rule.\u201d).\n.Although the FDA designated Rule 23(d) as an \"interim\u201d rule, see 55 Fed.Reg. at 52,814, the government does not contend that its withdrawal is contemplated. Rules labeled \u201cinterim,\u201d we note, can endure for a long term. See, e.g., 21 C.F.R. \u00a7\u00a7 312.80-88 (1990) (expedited procedures for therapies to treat life-threatening illnesses, issued as interim rule by FDA, 53 Fed. Reg. 41,516 (1988)).\n. Doe\u2019s action was expedited in the district court and in this court. The possibility of expedited review, however, as we have previously stated, does not figure in the \"evading review\u201d calculus. See The Washington Post v. Robinson, 935 F.2d 282, 2 n. 6 (D.C.Cir.1991); In re Reporters Comm. for Freedom of the Press, 773 F.2d 1325, 1329 (D.C.Cir.1985).\n. The government suggests that a Rule 23(d) determination might endure for years, and it recalls \"the war between Iraq and Iran, which lasted from 1980 to 1988, and the Vietnam war, which continued for decades.\" Motion of Secretary of Defense and Secretary of Health and Human Services to Dismiss Appeal as Moot at 10. Doe, on the other hand, cites the short-term conflicts involving United States military action in Grenada, Lebanon, Panama, and Iraq. See Appellants\u2019 Response to Motion of Secretary of Defense and Secretary of Health and Human Services to Withdraw Appeal from Argument Calendar at 5.\nWe do not venture to guess whether combat episodes involving United States troops in the future will be brief or protracted. We reiterate, however, that Rule 23(d) itself sets a one-year limit and we accept that limit as the standard. See The Washington Post v. Robinson, 935 F.2d at 2 (possibility that issue will not always evade review does not necessarily signal mootness); In re Reporters Comm, for Freedom of the Press, 773 F.2d at 1329 (issue evades review when \"time that typically elapses\u201d during controversy is less than two years) (emphasis in original).\n. The President stated that the United States would lead the world\u2019s nations in forswearing use of chemical weapons. Id. at 600. At the same time, he recognized the grave danger currently existing, and the many years it would take, even for nations ultimately persuaded to follow our lead, to destroy existing stocks.\n. Reviewing the published reports, commentators have observed: \"[R]egarding chemical weapons ... the leading countries are coming to realize that they, too, are vulnerable to insidious threats[.]\u201d See Koplow & Schrag, Carrying a Big Carrot: Linking Multilateral Disarmament and Developmental Assistance, 91 Colum.L.Rev. 993, 1000 (1991).\n. This risk, still real, distances Doe\u2019s case from the inherently incapable of repetition category. See, e.g., Craig v. Boren, 429 U.S. 190, 192, 97 S.Ct. 451, 454, 50 L.Ed.2d 397 (1976) (plaintiff, contesting state law forbidding sale of beer to minor males, turned 21 in course of litigation; hence, he would not again be subject to challenged restriction); Board of School Comm\u2019rs v. Jacobs, 420 U.S. 128, 129, 95 S.Ct. 848, 849, 43 L.Ed.2d 74 (1975) (per curiam) (challenge of six high school students to school newspaper censorship moot when all six graduated); DeFunis v. Odegaard, 416 U.S. 312, 319, 94 S.Ct. 1704, 1707, 40 L.Ed.2d 164 (1974) (per curiam) (challenge to law school's admission policy moot when petitioner\u2019s graduation was assured, so that he would \u201cnever again\u201d seek admission). Nor, in view of the retention of Rule 23(d), does this case fit with those rendered moot by the expiration or amendment of a statute or rule. See, e.g., Lewis v. Continental Bank Corp., 494 U.S. 472, 110 S.Ct. 1249, 1254, 108 L.Ed.2d 400 (1990) (challenge moot when Bank Holding Company Act amended); Clarke v. United States, 915 F.2d at 704-05 (case moot when statute expired); Montgomery Environmental Coalition v. Costle, 646 F.2d 568, 579 (D.C.Cir.1980) (challenge to EPA discharge permit moot when authority to issue permit transferred from EPA to state of Maryland); Associated Third Class Mail Users v. United States Postal Service, 662 F.2d 767, 769-70 (D.C.Cir.1980) (per curiam) (case moot when modification of operating procedures legitimatized challenged rate-requesting methodology).\nSimilarly set apart from Doe\u2019s challenge are cases in which one must posit a misdeed to forecast recurrence. See, e.g., Weinstein v. Bradford, 423 U.S. at 149, 96 S.Ct. at 348 (challenge to parole procedure moot when former prisoner unlikely again to encounter parole system); James v. United States Dep't of HHS, 824 F.2d 1132, 1136 (D.C.Cir.1987) (claim moot because tribal council unlikely again to misuse federal funds); see also Honig v. Doe, 484 U.S. at 320, 108 S.Ct. at 602 (in determining likelihood of repetition, Court is generally unwilling to assume that party seeking relief will repeat misconduct). Furthermore, the circumstance capable of repetition here is not unique or highly fact specific in character. See, e.g., Flynt v. Weinberger, 762 F.2d 134, 135 (D.C.Cir.1985) (per curiam) (case moot when complaint challenged only restrictions on press during Grenada invasion: '\u201cno reasonable expectation\u2019 that the Grenada controversy will recur\u201d); Spivey v. Barry, 665 F.2d 1222, 1234-35 (D.C.Cir.1981) (claim held moot \"sharply focused on a unique factual context\" unlikely to recur). Nor is this a case in which the plaintiff has left the military. See Bois v. Marsh, 801 F.2d 462, 466-67 (D.C.Cir.1986) (challenge to Army grievance procedure moot when plaintiff left service; likelihood of re-entry into active service too remote).\nWe acknowledge, on the other hand, that, as our dissenting colleague underscores, the recurrence prospect here does not qualify as a strong probability. See, e.g., SEC v. Sloan, 436 U.S. 103, 109-10 & n. 5, 98 S.Ct. 1702, 1707-08 & n. 5, 56 L.Ed.2d 148 (1978) (expectation that \u201cchronic violator\u201d will face future suspension); First National Bank of Boston v. Bellotti, 435 U.S. at 774-75, 98 S.Ct. at 1414-15 (challenge to statute prohibiting bank expenditures to influence voting on referenda not moot, despite particular referendum\u2019s defeat, when same issue had been on the ballot four times); American Trading Transp. Co. v. United States, 841 F.2d 421, 425-26 (D.C.Cir.1988) (challenge to grant of short-term waivers not moot in view of \"virtual certainty\u201d that Maritime Administration would continue to grant similar waivers).\nNow that Operation Desert Storm has ended, Doe\u2019s challenge to Rule 23(d) falls in the middle ground between cases in which the recurrence prospect is nonexistent or extremely remote, and those in which the probability of repetition is high. Compare Honig v. Doe, 484 U.S. at 318-20 & n. 6, 108 S.Ct. at 601-02 & n. 6 (dispute concerning the exclusion of a handicapped student for disruptive behavior is capable of repetition, although petitioner was no longer enrolled in school, had no plans to reenroll, and would remain eligible for educational services for only a single year) and British Caledonian Airways Ltd. v. Bond, 665 F.2d 1153, 1158 (D.C.Cir.1981) (although large scale air disasters are \"rare,\u201d reasonable to expect that a similar crash would again prompt the FAA to bar foreign-owned planes from U.S. airspace) with Preiser v. Newkirk, 422 U.S. 395, 403, 95 S.Ct. 2330, 2335, 45 L.Ed.2d 272 (1975) (challenge to transfer of prisoner to high security facility moot when prisoner returned to medium security facility) and Grano v. Barry, 733 F.2d 164, 167-68 (D.C.Cir.1984) (issues relating to injunction pending referendum on demolition of historically significant building moot once referendum held). Doe\u2019s challenge, for the reasons we state in the text that follows, seems to us closer to Honig and British Caledonian Airways than to Preiser and Grano. See also SEC v. Csapo, 533 F.2d 7, 10 n. 4 (D.C.Cir.1976).\n. It is reasonable to expect that the same limitations on human testing that prevented the FDA from approving the two drugs originally at issue in this case will continue to restrict the FDA\u2019s ability to approve chemical and biological warfare antidotes. See supra note 1. It is similarly reasonable to expect that, if faced with a chemical or biological military threat in the future, the DOD would again undertake a review of available treatments and that such a review would again point to one or more unapproved, investigational drugs.\nThe dissent lists six events that must occur in sequence for Doe\u2019s challenge to recur. See dissent at 1385. The first, \"a specific military operation involving combat or the immediate threat of combat,\u201d is hard to categorize as \u201cimprobable.\u201d Cf. supra note 10. Events three through six \u2014 involving the DOD\u2019s request for a Rule 23(d) waiver and the FDA\u2019s approval \u2014 are indeed probable if our military personnel again confront an enemy prepared to use chemical weapons. That judgment seems implicit in the government's maintenance of Rule 23(d) in place. Accordingly, we concentrate our consideration on the reality of the still current threat of chemical or biological warfare and, on the opposite side of that coin, the risk that Doe, as a current member of the military, will again be sent to a combat zone where chemical weapons are in the enemy\u2019s arsenal.\n. The government acknowledges that it would be \u201cnonsense\u201d to maintain that \"military matters are categorically immune from judicial review.\u201d Brief for Appellees at 27. Nevertheless, the government maintained at oral argument that the consistency of FDA\u2019s Rule 23(d) with the controlling provisions of the FDC Act, 21 U.S.C. \u00a7\u00a7 355(i), 357(d), is under no circumstances justiciable. We find these positions difficult to reconcile.\n. In a thoughtful opinion not appealed by the government, Judge Sirica held unconstitutional an absolute statutory ban on assignment of female personnel to duty on navy vessels. See Owens v. Brown, 455 F.Supp. 291 (D.D.C.1978). The district court confronted in that case the argument that decisions regarding the military are committed by the Constitution to the legislative and executive branches, with \"no room for the third branch to exercise independent review.\u201d Id. at 299. Judge Sirica observed that precedent did not bear out the government\u2019s blanket nonjusticiability argument; he cited, inter alia, Schlesinger v. Ballard, 419 U.S. 498, 95 S.Ct. 572, 42 L.Ed.2d 610 (1975); Frontiero v. Richardson, 411 U.S. 677, 93 S.Ct. 1764, 36 L.Ed.2d 583 (1973); and Crawford v. Cushman, 531 F.2d 1114 (2d Cir.1976). He further commented:\n[T]he deserved margin of latitude afforded the political branches of government in rendering military judgments seems as a general matter to figure more prominently into whether particular decisions are lawful than into whether they are susceptible to review at all. Whether the deference due particular military determinations rises to the level of occasioning non-reviewability is a question that varies from case to case and turns on the degree to which the specific determinations are laden with discretion and the likelihood that judicial resolution will involve the courts in an inappropriate degree of supervision over primary military activities.\nId. at 300 (emphasis in original). Resolving the question Doe\u2019s claim poses, we think, involves mine-run statutory and constitutional interpretation and not supervision of primary military activities.\n. The statute also authorizes regulations providing an exception where investigators \u201cin their professional judgment, [deem obtaining consent] contrary to the best interests of such human beings.\" 21 U.S.C. \u00a7 355(i). The FDA, however, based Rule 23(d) on the feasibility language. In line with the parties\u2019 presentations, we do not address the \u201cbest interests\" provision as an alternative justification for Rule 23(d).\n. At argument, Doe\u2019s counsel, in a candid and clarifying exchange appreciated by the court, recognized that the success of his case depended upon acceptance of the contention that Congress had unambiguously expressed its intent. We set out here the relevant colloquy:\nCOURT: You are arguing in other words, in the language that this court uses, that this statute is so clear that this is a Chevron I case_ Are you saying this is a plain meaning case?\nCOUNSEL: This is a plain meaning case.\nCOURT: If you're wrong about that then you lose? Is that correct?\nCOUNSEL: If we\u2019re wrong about that, then we lose.\nCOURT: If it is a Chevron II, what we call a Chevron II case, you lose under that, right?\nCOUNSEL: I'd say that\u2019s correct, your honor.\n. For the full text of 10 U.S.C. \u00a7 980, see supra note 6. Although the district court addressed Doe\u2019s as-applied challenge based on the DAA, it disposed of the case while Desert Storm was underway, and therefore did not separately address Doe\u2019s facial challenge under that Act. We therefore proceed to address that question of law discretely.",
+        "type": "majority",
+        "author": "RUTH BADER GINSBURG, Circuit Judge:"
+      },
+      {
+        "text": "CLARENCE THOMAS, Circuit Judge,\ndissenting:\nThe war has ended and the troops are home, but to the majority this case lives on. I respectfully dissent.\nFederal jurisdiction extends only to cases or controversies, and the case or controversy must exist at every stage of a lawsuit\u2019s pendency in federal court. Lewis v. Continental Bank Corp., 494 U.S. 472, 110 S.Ct. 1249, 1253-54, 108 L.Ed.2d 400 (1990); Clarke v. United States, 915 F.2d 699, 700-01 (D.C.Cir.1990) (en banc). This requirement, like standing and ripeness and other doctrines in the article III family, is particular and individual: Both the plaintiff and the defendant must maintain a personal stake in the suit\u2019s outcome. Lewis, 110 S.Ct. at 1254; Clarke, 915 F.2d at 701. The Does\u2019 lawsuit grew directly and solely out of the events leading up to, and culminating in, the allied nations\u2019 recent victory over Iraq in Operation Desert Storm. Now that the war has ended, the Does\u2019 dispute with the defendants is purely hypothetical, and their interest in the outcome, academic.\nAs the majority explains, the Department of Defense, preparing for combat, last fall reassessed its ability to prevent and treat the physiological hazards associated with chemical and biological warfare. The Department recognized that two drugs would help allied soldiers survive if Iraq engaged in such warfare. Neither drug had been approved by the FDA, however, and then-current FDA regulations (codified at 21 C.F.R. \u00a7 50.23 (1990) and known as rule 23) permitted waiver of the statutory informed-consent requirement only under certain conditions, including the condition that the person taking the drug actually be incapable of giving consent. The Department of Defense reaffirmed its commitment to the informed-consent requirement but explained that war plans had convinced it that \u201canother circumstance should be recognized ... in which it would be consistent with the statute and ethically appropriate ... to \u2018deem it not feasible\u2019 to obtain informed consent of the patient.\u201d Informed Consent for Human Drugs and Biologies, 55 Fed.Reg. 52,814, 52,815 (1990) (citation omitted).\nOn December 21, 1990, less than one month before Desert Shield became Desert Storm, the FDA added subsection (d) to rule 23. The newly-added subsection allows the Department of Defense to request a determination from the Commissioner of the FDA that obtaining informed consent is not feasible, but only, as the majority notes, under certain strictly limited circumstances. See id. at 52,817.\nFirst, there must be \u201ca specific military operation involving combat or the immediate threat of combat.\u201d Second, the Department must support in writing the conclusions of Department doctors and investigators that there exist \u201cspecial military combat ... circumstances in which, in order to facilitate the accomplishment of the military mission, preservation of the health of the individual and the safety of other personnel require that a particular treatment be provided to a specified group of military personnel.\u201d Third, the Department must determine that the treatment should be provided \u201cwithout regard to what might be any individual\u2019s personal preference for no treatment or for some alternative treatment.\u201d Fourth, the Department must confirm that an institutional review board has approved the waiver request. Fifth, the Commissioner of the FDA must determine that there exists \u201cno available satisfactory alternative therapy.\u201d Sixth, the Commissioner must determine that \u201cwithholding treatment would be contrary to the best interests of military personnel.\u201d In reaching that decision, the Commissioner must take into account \u201call pertinent factors,\u201d including the safety of the investigational drug, its effectiveness, the context in which it will be administered, the nature of the disease or condition to be treated, and the information to be provided to those taking the drug on the benefits and risks of taking or not taking the drug. If the Commissioner does decide to grant the Department\u2019s request, the waiver automatically expires in a year or when the Department tells the Commissioner that the military threat has ended, whichever comes first.\nJohn Doe, stationed at the time in Saudi Arabia, filed this suit (with his wife, whose cause of action is derivative) on January 11, 1991, fewer than five days before Desert Storm began. Seeking a declaration that rule 23(d) is invalid and an injunction fore-ing Secretary Sullivan to revoke it, the Does challenged rule 23(d) under three different legal theories. Each of the challenges alleged that rule 23(d), on its face and as-applied, is inconsistent with a statute or the Constitution.\nEach of the challenges is moot. On February 27, President Bush halted offensive military operations in the Gulf, and on March 15, the Assistant Secretary of Defense for Health Affairs, pursuant to rule 23(d), informed the Commissioner of the FDA that \u201cthe specific military operations creating the need for the use of these two drug products without informed consent has ended.\u201d The rule is no longer in play. Doe thus will not be subjected to the rule, and he retains no live, personal stake in the outcome of the suit that challenges it.\nThe Does concede, and the majority acknowledges, that their as-applied challenges are moot. Summoning up what the majority calls the \u201cexception to the mootness doctrine for controversies that are \u2018capable of repetition, yet evading review,\u2019 \u201d ante at 1375-76, however, the Does continue to press their facial challenges to the rule, and the majority proceeds to adjudicate them. I find this case moot for the reasons that follow. Because I believe that we have no power to decide this lawsuit, I express no view of the merits.\nThe majority correctly restates the two requirements of what the Supreme Court recently emphasized remains \u201cthe exceptional situation,\u201d Lewis, 110 S.Ct. at 1255: \u201c(1) the challenged action [must be] in its duration too short to be fully litigated prior to its cessation or expiration, and (2) there [must be] a reasonable expectation that the same complaining party [will] be subjected to the same action yet again.\u201d Ante at 1376 (quoting Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 348, 46 L.Ed.2d 350 (1975)). This exceptional case, the Court has stressed, requires that there be a reasonable likelihood that the complaining party personally be subjected to the challenged action. When the party asserting jurisdiction proves that the challenged action meets these conditions, the case is not moot. In my view, the Does have failed to meet the second of these conditions: I see little expectation, much less a reasonable one, that John Doe will ever be subjected to the operation of rule 23(d) again.\nFor the action that the Does challenge to recur, a sequence of events must take place, each of those events mandated by rule 23(d) itself. Yet the occurrence of any of those events is improbable alone and virtually unimaginable in sequence. First, the United States would have to embark on \u201ca specific military operation involving combat or the immediate threat of combat.\u201d Second, the military operation would have to involve medical hazards that require treatment with an investigational drug. Third, the Department of Defense would have to determine that special military circumstances made informed consent infeasible. Fourth, an institutional review board would have to agree. Fifth, the Commissioner of the FDA would have to determine that no alternative to the investi-gational drug exists. Sixth, the Commissioner would have to evaluate the Department\u2019s request in light of the factors set out in rule 23(d) and then agree to it. Most important, John Doe himself would have to be involved in the war and subject personally to the medical threat. If the Does fail to show that there exists a \u201creasonable expectation\u201d that any one of these conditions will occur, this court may not exercise jurisdiction over their claims.\nMinimizing most of these contingencies, the majority concentrates on citing evidence meant to show that there exists a risk of chemical warfare. See ante at 1377; cf. Whiteside, Annals of the Cold War \u2014 The Yellow-Rain Complex (pts. 1 & 2), The New Yorker (Feb. 11, 1991 & Feb. 18, 1991). Chemical warfare has indeed been waged, with tragic results, on unarmed civilians in Kurdistan, but the majority surely overstates those risks to American soldiers, such as Doe \u2014 after all, American soldiers have not been the victims of organized chemical attack since the First World War. Moreover, some of the evidence that the majority cites suggests that the likelihood of chemical warfare will diminish in the future: President Bush recently announced our country\u2019s commitment to the multilateral Chemical Weapons Convention, currently being negotiated, in which, as the President explained,\nwe are formally forswearing the use of chemical weapons for any reason, including retaliation, against any state, ... and will propose that all states follow suit. Further, the United States unconditionally commits itself to the destruction of all our stocks of chemical weapons within 10 years ... and will propose that all other states do likewise.\n27 Weekly Comp. Pres. Doc. 599, 600 (May 13, 1991).\nIn any event, it is not enough that a war involving chemical weapons may occur at some time in the future. Nor is it enough that that war might lead the Department of Defense to invoke the strict conditions of rule 23(d) or that each of the conditions might be met, possibilities almost as speculative as the possibility that American troops might face a chemical attack. Instead, there must be a reasonable likelihood that John Doe personally will be involved in that war, that he personally will face the medical threat that requires the administration of investigational drugs, and that he personally will be subject to the operation of rule 23(d). The majority focuses on rule 23(d) in the abstract \u2014 and in the process forgets about Doe, the plaintiff.\nYet it was Doe, of course, who by alleging concrete injury made this case a \u201ccase\u201d instead of a request for an advisory opinion. The majority concludes that Doe \u201chas not lost a \u2018personal stake\u2019 in this case\u201d because \u201cDoe, though among the troops brought safely home, remains a soldier.\u201d Ante at 1378. But Doe\u2019s remaining a soldier only lets the majority bring Doe\u2019s being subjected to rule 23(d) from the realm of the impossible (since the rule applies only to soldiers) to the realm of the extraordinarily unlikely. This is all the majority can do \u2014 for the record is virtually silent. Is Doe about to be discharged, this year, or next? Does he serve in the infantry, or behind a desk? Has he been assigned for the rest of his tour to permanent duty in the United States? If sent back overseas, will Doe serve in England or Germany, or in the Middle East? Doe tells us nothing, and without more information we cannot determine whether Doe himself faces any likelihood of being subjected to rule 23(d).\nDoe, in his silence, has failed to carry his burden of proving the existence of federal jurisdiction. All that we do know is that the war with Iraq ended in February and that on April 29, Doe left the Gulf and returned to the United States with his unit. We also know that Doe, as far as the record reveals, had never before been subjected to combat giving rise to the need for investigational drugs, and in the thirty years since the Food, Drug & Cosmetic Act has required informed consent before the drugs can be administered, the government had never before this fall asked that the requirement be waived. We noted in Clarke that when a court \u201cestimates] the likelihood of an event\u2019s occurring in the future, a natural starting point is how often it has occurred in the past.\u201d 915 F.2d at 704; see ante at 1376. This is the sole, isolated occasion. I see no reasonable possibility of it happening to John Doe in the future.\nIn my view, this case is moot. I would therefore vacate the decision of the district court and remand this case with instructions to dismiss.",
+        "type": "dissent",
+        "author": "CLARENCE THOMAS, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Daniel J. Popeo, Utica, N.Y., Paul D. Kamenar and Richard A. Samp were on the brief, Washington, D.C., for amici curiae urging affirmance.",
+      "Michael Tankersley, with whom Alan B. Morrison was on the brief, Washington, D.C., for appellants.",
+      "Scott R. McIntosh, Atty., Dept, of Justice with whom Stuart M. Gerson, Asst. Atty. Gen., Jay B. Stephens, U.S. Atty. and Douglas N. Letter, Atty., Dept, of Justice were on the brief, Washington, D.C., for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "John DOE, et al., Appellants, v. Louis W. SULLIVAN, M.D., Secretary of Health and Human Services, et al., Appellees.\nNo. 91-5019.\nUnited States Court of Appeals, District of Columbia Circuit.\nArgued March 18, 1991.\nDecided July 16, 1991.\nAs Amended July 16, 1991.\nDaniel J. Popeo, Utica, N.Y., Paul D. Kamenar and Richard A. Samp were on the brief, Washington, D.C., for amici curiae urging affirmance.\nMichael Tankersley, with whom Alan B. Morrison was on the brief, Washington, D.C., for appellants.\nScott R. McIntosh, Atty., Dept, of Justice with whom Stuart M. Gerson, Asst. Atty. Gen., Jay B. Stephens, U.S. Atty. and Douglas N. Letter, Atty., Dept, of Justice were on the brief, Washington, D.C., for appellees.\nBefore WALD, RUTH BADER GINSBURG and CLARENCE THOMAS, Circuit Judges."
+  },
+  "file_name": "1370-01",
+  "first_page_order": 1474,
+  "last_page_order": 1490
+}

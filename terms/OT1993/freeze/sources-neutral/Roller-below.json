@@ -1,0 +1,577 @@
+{
+  "id": 10509602,
+  "name": "Gary Lee ROLLER, Plaintiff-Appellant, v. Michael J. CAVANAUGH, Executive Director of the South Carolina Department of Probation, Parole, and Pardon Services; South Carolina Department of Probation, Parole, and Pardon Services, Defendants-Appellees",
+  "name_abbreviation": "Roller v. Cavanaugh",
+  "decision_date": "1993-01-15",
+  "docket_number": "No. 91-6688",
+  "first_page": "120",
+  "last_page": "124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "984 F.2d 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "415 U.S. 452",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177476
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "468-471",
+          "parenthetical": "district court may anticipate that state authorities will comply with a declaratory judgment and thereby forego issuing an injunction"
+        },
+        {
+          "page": "1220-1222",
+          "parenthetical": "district court may anticipate that state authorities will comply with a declaratory judgment and thereby forego issuing an injunction"
+        },
+        {
+          "parenthetical": "district court may anticipate that state authorities will comply with a declaratory judgment and thereby forego issuing an injunction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/415/0452-01"
+      ]
+    },
+    {
+      "cite": "111 L.Ed.2d 764",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Virginia statute providing that capital defendants whose sentences are vacated may be resentenced before a new jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 3255",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Virginia statute providing that capital defendants whose sentences are vacated may be resentenced before a new jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "497 U.S. 1010",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6262467,
+        6260484,
+        6260104,
+        6261192,
+        6261547,
+        6260817,
+        6262162,
+        6261879,
+        6258968,
+        6259804,
+        6258557
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Virginia statute providing that capital defendants whose sentences are vacated may be resentenced before a new jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/1010-11",
+        "/us/497/1010-05",
+        "/us/497/1010-04",
+        "/us/497/1010-07",
+        "/us/497/1010-08",
+        "/us/497/1010-06",
+        "/us/497/1010-10",
+        "/us/497/1010-09",
+        "/us/497/1010-02",
+        "/us/497/1010-03",
+        "/us/497/1010-01"
+      ]
+    },
+    {
+      "cite": "881 F.2d 117",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11287803
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/881/0117-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212725
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Texas statute allowing appellate court to reform illegal sentence"
+        },
+        {
+          "parenthetical": "Texas statute allowing appellate court to reform illegal sentence"
+        },
+        {
+          "parenthetical": "Texas statute allowing appellate court to reform illegal sentence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0037-01"
+      ]
+    },
+    {
+      "cite": "521 F.2d 400",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        616263
+      ],
+      "pin_cites": [
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/521/0400-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 219",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        600739
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "225-229"
+        },
+        {
+          "page": "543-545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0219-01"
+      ]
+    },
+    {
+      "cite": "432 U.S. 282",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178615
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "ex post facto clause does not \"limit the legislative control of remedies and modes of procedure which do not affect matters of substance\""
+        },
+        {
+          "parenthetical": "ex post facto clause does not \"limit the legislative control of remedies and modes of procedure which do not affect matters of substance\""
+        },
+        {
+          "parenthetical": "ex post facto clause does not \"limit the legislative control of remedies and modes of procedure which do not affect matters of substance\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0282-01"
+      ]
+    },
+    {
+      "cite": "117 L.Ed.2d 652",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "lead judge held that administrative rule was not a \"law\" subject to ex post facto clause; one judge concurred only in the result; the third dissented"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 1516",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "lead judge held that administrative rule was not a \"law\" subject to ex post facto clause; one judge concurred only in the result; the third dissented"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "940 F.2d 1150",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528667
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/940/1150-01"
+      ]
+    },
+    {
+      "cite": "115 L.Ed.2d 1079",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 2915",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "922 F.2d 1558",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10548920
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1562",
+          "parenthetical": "boldface in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/922/1558-01"
+      ]
+    },
+    {
+      "cite": "886 F.2d 1093",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537104
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/886/1093-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 105",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524985
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/0105-01"
+      ]
+    },
+    {
+      "cite": "594 F.2d 170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/594/0170-01"
+      ]
+    },
+    {
+      "cite": "298 S.C. 113",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2174619
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/298/0113-01"
+      ]
+    },
+    {
+      "cite": "883 F.2d 303",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528090
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "305"
+        },
+        {
+          "page": "306"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/883/0303-01"
+      ]
+    },
+    {
+      "cite": "834 F.2d 396",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10545808
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/834/0396-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532158
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0001-01"
+      ]
+    },
+    {
+      "cite": "4 Wall. 277",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        6139656
+      ],
+      "weight": 2,
+      "year": 1867,
+      "pin_cites": [
+        {
+          "page": "325-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/71/0277-01"
+      ]
+    },
+    {
+      "cite": "450 U.S. 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181086
+      ],
+      "weight": 5,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "28",
+          "parenthetical": "quoting Cummings v. Missouri, 4 Wall. 277, 325-26, 18 L.Ed. 356 (1867)"
+        },
+        {
+          "page": "964",
+          "parenthetical": "quoting Cummings v. Missouri, 4 Wall. 277, 325-26, 18 L.Ed. 356 (1867)"
+        },
+        {
+          "parenthetical": "quoting Cummings v. Missouri, 4 Wall. 277, 325-26, 18 L.Ed. 356 (1867)"
+        },
+        {
+          "page": "29-30"
+        },
+        {
+          "page": "964-965",
+          "parenthetical": "criticizing state court for rejecting ex post facto claim by finding no \"vested right\" to good time credits"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/450/0024-01"
+      ]
+    },
+    {
+      "cite": "571 F.2d 1263",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        922859
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/571/1263-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 475",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9981
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "509"
+        },
+        {
+          "page": "1846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0475-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203216
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0522-01"
+      ]
+    },
+    {
+      "cite": "209 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8288600
+      ],
+      "weight": 3,
+      "year": 1908,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/209/0123-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 3,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 58",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210401
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0058-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 788,
+    "char_count": 12755,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 2.3730519299590836e-07,
+      "percentile": 0.7959828932111486
+    },
+    "sha256": "1d25b78048b17c7cd01b5a238281c3b4fcd9cb66dec42112a91d7ce4416cf56e",
+    "simhash": "1:f94ac43a2f975dfe",
+    "word_count": 2050
+  },
+  "last_updated": "2024-02-27T18:01:45.170103+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUSSELL and HALL, Circuit Judges, and MORGAN, United States District Judge for the Eastern District of Virginia, sitting by designation."
+    ],
+    "parties": [
+      "Gary Lee ROLLER, Plaintiff-Appellant, v. Michael J. CAVANAUGH, Executive Director of the South Carolina Department of Probation, Parole, and Pardon Services; South Carolina Department of Probation, Parole, and Pardon Services, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nK.K. HALL, Circuit Judge:\nGary Lee Roller appeals an order of the district court granting summary judgment for the defendants in Roller\u2019s 42 U.S.C. \u00a7 1983 suit challenging the frequency of his parole reconsideration hearings. We must decide whether a statutory amendment increasing the length of time between parole reconsiderations from every year to every two years is an unconstitutional ex post facto law if applied to prisoners whose crimes were committed before the amendment. Concluding that it is, we reverse.\nI.\nIn early 1983, Gary Roller was convicted of voluntary manslaughter and grand larceny in South Carolina state court. Both of these crimes occurred on December 13, 1982. On March 25, 1983, he was sentenced to consecutive terms of imprisonment of thirty and five years. At that time, a South Carolina statute provided that, within ninety days of the prisoner\u2019s becoming eligible for parole, the Parole Board would review the case and determine whether to grant parole. If the Board decided not to grant parole, \u201cthe prisoner\u2019s case shall be reviewed every twelve months thereafter for the purpose of such determination.\u201d Former S.C.Code 24-21-620 (1976 & Supp.1981). In 1986, this statute was amended to make reconsideration of parole for violent offenders less frequent \u2014 every two years. S.C.Code \u00a7 24-21-645 (1989 & Supp.1991). The date at which a prisoner initially becomes eligible for parole, however, was not changed.\nIn 1990, Roller became eligible for parole. On October 31, 1990, the Board rejected parole, and advised Roller that his next hearing would be held October 31, 1992.\nOn December 28, 1990, Roller filed this suit under 42 U.S.C. \u00a7 1983 against the members of the Parole Board in their official and personal capacities. He sought monetary, declaratory, and injunctive relief. The gravamen of his claim was that application of the less-frequent parole review to him violated the federal constitution\u2019s prohibition of ex post facto laws.\nThe defendants moved for summary judgment. The magistrate recommended that the motion be granted. Over Roller\u2019s objections, the district court adopted the magistrate\u2019s recommendation.\nRoller appeals.\nII.\nA.\nThe district court held that Roller\u2019s official-capacity claims for damages were not cognizable under \u00a7 1983, see Will v. Michigan Dept. of State Police, 491 U.S. 58, 109 S.Ct. 2304, 105 L.Ed.2d 45 (1989), and that the defendants had not overstepped their qualified immunity so as to subject themselves to personal liability. See Harlow v. Fitzgerald, 457 U.S. 800, 102 S.Ct. 2727, 73 L.Ed.2d 396 (1982). On appeal, Roller does not challenge these rulings. Because, however, prospective relief to stop unconstitutional practices by states is available in federal courts, Ex parte Young, 209 U.S. 123, 28 S.Ct. 441, 52 L.Ed. 714 (1908), Roller\u2019s claims for declaratory and injunctive relief are not affected by the defendants\u2019 immunities. Pulliam v. Allen, 466 U.S. 522, 104 S.Ct. 1970, 80 L.Ed.2d 565 (1984).\nB.\nIn 1973, in the midst of an unprecedented influx of civil rights suits by prisoners, the Supreme Court held that\nwhen a state prisoner is challenging the very fact or duration of his physical imprisonment, and the relief he seeks is a determination that he is entitled to immediate release or a speedier release from that imprisonment, his sole federal remedy is a writ of habeas corpus.\nPreiser v. Rodriguez, 411 U.S. 475, 509, 93 S.Ct. 1827, 1846, 36 L.Ed.2d 439 (1973). The defendants here argue that Roller is attacking a part of his sentence\u2014parole eligibility\u2014and \u00a7 1983 does not provide relief. The Preiser distinction is important here because Roller has not exhausted his state remedies on his ex post facto claim\u2014 a general prerequisite to federal habeas corpus relief, but not to a \u00a7 1983 suit.\nIn Strader v. Troy, 571 F.2d 1263 (4th Cir.1978), we held that \u00a7 1983 was the proper vehicle for a defendant who sought to preclude a state parole board from considering allegedly invalid prior convictions. Because the petitioner did not assert that he was entitled to parole, \u201cnow or ever,\u201d no exhaustion of the state habeas remedy was required. Like the inmate in Strader, Roller does not say he is entitled to parole. We follow Strader and find that Roller has stated a cognizable \u00a7 1983 claim.\nIII.\nA.\nThe Constitution prohibits both the federal and state legislatures from passing ex post facto laws. U.S. Const, art. I, \u00a7 9, cl. 3 and \u00a7 10 cl. 1. Neither Congress nor the states may \u201cenact any law \u2018which imposes a punishment for an act which was not punishable at the time it was committed; or imposes additional punishment to that then described.\u2019 \u201d Weaver v. Graham, 450 U.S. 24, 28, 101 S.Ct. 960, 964, 67 L.Ed.2d 17 (1981) (quoting Cummings v. Missouri, 4 Wall. 277, 325-26, 18 L.Ed. 356 (1867)). Though there is no constitutional requirement that a state permit parole or early release from confinement, Green-holtz v. Inmates of Nebraska Penal & Correctional Complex, 442 U.S. 1, 99 S.Ct. 2100, 60 L.Ed.2d 668 (1979), statutes providing for parole are \u201cpart of the law annexed to the crime at the time of the person\u2019s offense.\u201d Schwartz v. Muncy, 834 F.2d 396, 398 n. 8 (4th Cir.1987) (quoted in Fender v. Thompson, 883 F.2d 303, 305 (4th Cir.1989)).\nThe ex post facto clauses are a restriction on the power of government and operate without regard to the affirmative \u201crights\u201d of the individual. Consequently, it is immaterial to an ex post facto challenge to computation of a release or parole eligibility date that the prisoner does not have a \u201cvested\u201d liberty or property right in parole, \u201cgood time,\u201d or the like. Weaver, 450 U.S. at 29-30, 101 S.Ct. at 964-965 (criticizing state court for rejecting ex post facto claim by finding no \u201cvested right\u201d to good time credits).\nThe South Carolina Supreme Court has rejected a challenge identical to Roller\u2019s. Gunter v. State, 298 S.C. 113, 378 S.E.2d 443 (1989).\nB.\nFour of our sister courts of appeals have directly addressed whether a retroactive reduction in the frequency of parole consideration violates the ex post facto clause. Three have held that it does, though the Ninth Circuit\u2019s opinion was vacated on other grounds and is thus a nullity. Rodriguez v. United States Parole Comm\u2019n, 594 F.2d 170 (7th Cir.1979) (parole reconsideration changed from one-third point in sentence to every eighteen months; ex post facto clause violated as to a prisoner serving only a two-year sentence); Watson v. Estelle, 859 F.2d 105 (9th Cir.1988), vacated, 886 F.2d 1093 (1989); Akins v. Snow, 922 F.2d 1558 (11th Cir.), cert. denied, \u2014 U.S. -, 111 S.Ct. 2915, 115 L.Ed.2d 1079 (1991); but see Bailey v. Gardebring, 940 F.2d 1150 (8th Cir.1991), cert. denied, \u2014 U.S. -, 112 S.Ct. 1516, 117 L.Ed.2d 652 (1992) (lead judge held that administrative rule was not a \u201claw\u201d subject to ex post facto clause; one judge concurred only in the result; the third dissented).\nIn Akins, the Eleventh Circuit considered a Georgia statute that decreased the frequency of parole hearings from once a year to once every eight years. The court held that this change affected the substantive rights of persons who committed crimes before its enactment, and was not simply a \u201cprocedural change.\u201d The court reasoned:\nSince the [parole board] is required to hold some type of parole reconsideration hearing before granting parole, an inmate is effectively ineligible for parole between two reconsideration hearings. Because an inmate is not paroled without a parole reconsideration hearing, the hearing must be considered an essential part of parole eligibility.\n922 F.2d at 1562 (boldface in original).\nThe appellees cannot convincingly distinguish Akins. They concede that a seven-year increase in a prisoner\u2019s wait between reconsiderations is so long that it is substantive, but assert, \u201c[a]s if you could kill time without injuring eternity,\u201d that a one-year wait is \u201cprocedural\u201d and presents no ex post facto difficulty. See Dobbert v. Florida, 432 U.S. 282, 97 S.Ct. 2290, 53 L.Ed.2d 344 (1977) (ex post facto clause does not \u201climit the legislative control of remedies and modes of procedure which do not affect matters of substance\u201d). We are not willing to disparage the \u201csubstance\u201d of a year, especially a year in prison.\nDefendants also point out that Roller becomes and remains \u201celigible\u201d for parole just as he would have under the law in effect when he committed his crimes. The defendants do not, however, identify any benefit flowing from the status of \u201celigibility\u201d other than the right to be heard and considered for parole. Eligibility without consideration is a cold comfort.\nThis circuit has no case so directly on point as Akins; however, two cases provide us considerable guidance. In Schwartz v. Muncy, 834 F.2d 396 (4th Cir.1987), the court reviewed a Virginia statute that increased the time before an inmate would become eligible for parole on existing sentences if the inmate committed a third offense after the statute\u2019s effective date. The court held that the statute increased the punishment for a crime completed before its enactment, and thus the statute violated the ex post facto clause.\nIn Fender v. Thompson, 883 F.2d 303 (4th Cir.1989), a state inmate was serving a life sentence. Under the state law in effect at the time of the crime, the inmate was eligible for parole after fifteen years. The state legislature later passed a law revoking the parole eligibility of inmates who escaped while serving life sentences. The inmate escaped after passage of the new law, and his eligibility for parole was revoked. We held that, though the state could punish escape in almost any manner it pleased, it could not do so by increasing the punishment for crimes committed before the new escape statute was enacted. We stated this general rule:\n[Statutes enacted or amended after a prisoner was sentenced cannot be applied to alter the conditions of or revoke his or her preexisting parole eligibility....\n883 F.2d at 306. South Carolina has undoubtedly applied its new statute to \u201calter the conditions of ... [Roller's] preexisting parole eligibility.\u201d Indeed, it has effectively \u201crevoked\u201d eligibility for an extra year following a denial.\nThe judgment is reversed, and the case is remanded with instructions to grant declaratory, and, if necessary, injunctive, relief in favor of Roller. Our decision does not, of course, require or even suggest that Roller be paroled. South Carolina need never parole him, so long as it considers the question every year.\nREVERSED AND REMANDED.\n. We were advised at oral argument that this hearing was held, and parole was denied.\n. Because qualified immunity suffices to shield the defendants from personal liability, we need not decide whether the scheduling of parole reconsiderations is performance of a quasi-judicial function, for which the defendants would have absolute immunity. See generally, Forrester v. White, 484 U.S. 219, 225-229, 108 S.Ct. 538, 543-545, 98 L.Ed.2d 555 (1988); Pope v. Chew, 521 F.2d 400, 405 (4th Cir.1975).\n. Thoreau, Walden; or, Life in the Woods, \"Economy,\u201d reprinted in Walden and Other Writings by Henry David Thoreau 111 (Bantam Classic ed. 1981).\n. Cf. cases in which changes in the manner of reimposing sentence after the original sentence is set aside have been held to present no ex post facto problem. Collins v. Youngblood, 497 U.S. 37, 110 S.Ct. 2715, 111 L.Ed.2d 30 (1990) (Texas statute allowing appellate court to reform illegal sentence); Evans v. Thompson, 881 F.2d 117 (4th Cir.1989), cert. denied, 497 U.S. 1010, 110 S.Ct. 3255, 111 L.Ed.2d 764 (1990) (Virginia statute providing that capital defendants whose sentences are vacated may be resentenced before a new jury).\n. See Steffel v. Thompson, 415 U.S. 452, 468-471, 94 S.Ct. 1209, 1220-1222, 39 L.Ed.2d 505 (1974) (district court may anticipate that state authorities will comply with a declaratory judgment and thereby forego issuing an injunction).",
+        "type": "majority",
+        "author": "K.K. HALL, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "W. Gaston Fairey, Fairey & Parise, P.A., Columbia, SC, argued, for plaintiff-appellant.",
+      "Carl Norman Lundberg, Chief Legal Counsel, South Carolina Dept, of \"Probation, Parole & Pardon Services, Columbia, SC, argued (Edwin E. Evans, Chief Deputy Atty. Gen., on brief), for defendants-appel-lees."
+    ],
+    "corrections": "",
+    "head_matter": "Gary Lee ROLLER, Plaintiff-Appellant, v. Michael J. CAVANAUGH, Executive Director of the South Carolina Department of Probation, Parole, and Pardon Services; South Carolina Department of Probation, Parole, and Pardon Services, Defendants-Appellees.\nNo. 91-6688.\nUnited States Court of Appeals, Fourth Circuit.\nArgued Dec. 3, 1992.\nDecided Jan. 15, 1993.\nW. Gaston Fairey, Fairey & Parise, P.A., Columbia, SC, argued, for plaintiff-appellant.\nCarl Norman Lundberg, Chief Legal Counsel, South Carolina Dept, of \"Probation, Parole & Pardon Services, Columbia, SC, argued (Edwin E. Evans, Chief Deputy Atty. Gen., on brief), for defendants-appel-lees.\nBefore RUSSELL and HALL, Circuit Judges, and MORGAN, United States District Judge for the Eastern District of Virginia, sitting by designation."
+  },
+  "file_name": "0120-01",
+  "first_page_order": 180,
+  "last_page_order": 184
+}

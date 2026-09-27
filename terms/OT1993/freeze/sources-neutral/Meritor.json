@@ -1,0 +1,961 @@
+{
+  "id": 6203537,
+  "name": "MERITOR SAVINGS BANK, FSB v. VINSON et al.",
+  "name_abbreviation": "Meritor Savings Bank v. Vinson",
+  "decision_date": "1986-06-19",
+  "docket_number": "No. 84-1979",
+  "first_page": "57",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "477 U.S. 57"
+    },
+    {
+      "type": "parallel",
+      "cite": "91 L. Ed. 2d 49"
+    },
+    {
+      "type": "parallel",
+      "cite": "106 S. Ct. 2399"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1985-118"
+    },
+    {
+      "type": "vendor",
+      "cite": "1986 U.S. LEXIS 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "653 F. 2d 1193",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1465860
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1197-1199",
+          "parenthetical": "holding employer liable for racially hostile working environment based on constructive knowledge"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/653/1193-01"
+      ]
+    },
+    {
+      "cite": "464 F. 2d 723",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        709532
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "725"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/464/0723-01"
+      ]
+    },
+    {
+      "cite": "589 F. Supp. 780",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3676265
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/589/0780-01"
+      ]
+    },
+    {
+      "cite": "709 F. 2d 251",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11323369
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "254-255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/709/0251-01"
+      ]
+    },
+    {
+      "cite": "682 F. 2d 897",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        539065
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "902"
+        },
+        {
+          "page": "904",
+          "parenthetical": "quoting same"
+        },
+        {
+          "parenthetical": "\"It is without question that sexual harassment of female employees in which they are asked or required to submit to sexual demands as a condition to obtain employment or to maintain employment or to obtain promotions falls within protection of Title VII\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/682/0897-01"
+      ]
+    },
+    {
+      "cite": "568 F. 2d 87",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        909813
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/568/0087-01"
+      ]
+    },
+    {
+      "cite": "424 F. Supp. 157",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7858421
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/424/0157-01"
+      ]
+    },
+    {
+      "cite": "545 F. 2d 169",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5691697,
+        1014941
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/178/0091-01",
+        "/f2d/545/0169-01"
+      ]
+    },
+    {
+      "cite": "178 U. S. App. D. C. 91",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        5691697
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/178/0091-01"
+      ]
+    },
+    {
+      "cite": "434 U. S. 819",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215038,
+        6214443,
+        6213453,
+        6214767,
+        6214194,
+        6213236,
+        6213941,
+        6215350,
+        6215611,
+        6213694,
+        6215871
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0819-08",
+        "/us/434/0819-06",
+        "/us/434/0819-02",
+        "/us/434/0819-07",
+        "/us/434/0819-05",
+        "/us/434/0819-01",
+        "/us/434/0819-04",
+        "/us/434/0819-09",
+        "/us/434/0819-10",
+        "/us/434/0819-03",
+        "/us/434/0819-11"
+      ]
+    },
+    {
+      "cite": "549 F. 2d 506",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        984437
+      ],
+      "pin_cites": [
+        {
+          "page": "514-515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/549/0506-01"
+      ]
+    },
+    {
+      "cite": "406 U. S. 957",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6284992,
+        6283842,
+        6284108,
+        6283598,
+        6284432,
+        6284695,
+        6285247
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0957-06",
+        "/us/406/0957-02",
+        "/us/406/0957-03",
+        "/us/406/0957-01",
+        "/us/406/0957-04",
+        "/us/406/0957-05",
+        "/us/406/0957-07"
+      ]
+    },
+    {
+      "cite": "454 F. 2d 234",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        746756
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "238"
+        },
+        {
+          "page": "238",
+          "parenthetical": "\"mere utterance of an ethnic or racial epithet which engenders offensive feelings in an employee\" would not affect the conditions of employment to sufficiently significant degree to violate Title VII"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/454/0234-01"
+      ]
+    },
+    {
+      "cite": "45 Fed. Reg. 74676",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "323 U. S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1229682
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/323/0134-01"
+      ]
+    },
+    {
+      "cite": "429 U. S. 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8060
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "141-142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0125-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712736
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "433-434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0424-01"
+      ]
+    },
+    {
+      "cite": "444 F. 2d 1194",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        778819
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/444/1194-01"
+      ]
+    },
+    {
+      "cite": "435 U. S. 702",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3004
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "707, n. 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/435/0702-01"
+      ]
+    },
+    {
+      "cite": "474 U. S. 1047",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6509956,
+        6510095,
+        6510161,
+        6510034,
+        6510392,
+        6510486,
+        6510232,
+        6509886
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/1047-02",
+        "/us/474/1047-04",
+        "/us/474/1047-05",
+        "/us/474/1047-03",
+        "/us/474/1047-07",
+        "/us/474/1047-08",
+        "/us/474/1047-06",
+        "/us/474/1047-01"
+      ]
+    },
+    {
+      "cite": "760 F. 2d 1330",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3596993,
+        23269
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/245/0306-01",
+        "/f2d/760/1330-01"
+      ]
+    },
+    {
+      "cite": "245 U. S. App. D. C. 306",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3596993
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/245/0306-01"
+      ]
+    },
+    {
+      "cite": "29 CFR \u00a7 1604.11",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 F. 2d 934",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1365949,
+        5686463
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "934-944"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/641/0934-01",
+        "/us-app-dc/205/0444-01"
+      ]
+    },
+    {
+      "cite": "205 U. S. App. D. C. 444",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        5686463
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "444-454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/205/0444-01"
+      ]
+    },
+    {
+      "cite": "753 F. 2d 141",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3808745,
+        292658
+      ],
+      "weight": 8,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "145"
+        },
+        {
+          "page": "146"
+        },
+        {
+          "page": "146, n. 36"
+        },
+        {
+          "page": "150"
+        },
+        {
+          "page": "146, n. 36"
+        },
+        {
+          "page": "146, n. 36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/243/0323-01",
+        "/f2d/753/0141-01"
+      ]
+    },
+    {
+      "cite": "243 U. S. App. D. C. 323",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3808745
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "327"
+        },
+        {
+          "page": "332"
+        },
+        {
+          "page": "328, n. 36"
+        },
+        {
+          "page": "328, n. 36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/243/0323-01"
+      ]
+    },
+    {
+      "cite": "78 Stat. 253",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 F. 2d 898",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3657832,
+        2066741
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/365/0898-01"
+      ]
+    },
+    {
+      "cite": "124 U. S. App. D. C. 365",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3657832
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": []
+    },
+    {
+      "cite": "473 F. 2d 374",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        275451
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "384"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/473/0374-01"
+      ]
+    },
+    {
+      "cite": "692 F. 2d 470",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1483362
+      ],
+      "year": 1982,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/692/0470-01"
+      ]
+    },
+    {
+      "cite": "424 U. S. 747",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027472
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "768-770"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/424/0747-01"
+      ]
+    },
+    {
+      "cite": "422 U. S. 405",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9485
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "419"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/422/0405-01"
+      ]
+    },
+    {
+      "cite": "600 F. 2d 211",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1453223
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/600/0211-01"
+      ]
+    },
+    {
+      "cite": "721 F. 2d 77",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1908843
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "80-81"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/721/0077-01"
+      ]
+    },
+    {
+      "cite": "755 F. 2d 599",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        675293
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "604-606"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/755/0599-01"
+      ]
+    },
+    {
+      "cite": "509 F. 2d 140",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        141449
+      ],
+      "year": 1975,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/509/0140-01"
+      ]
+    },
+    {
+      "cite": "552 F. 2d 1277",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        974761
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "1282"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/552/1277-01"
+      ]
+    },
+    {
+      "cite": "464 F. 2d 723",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        709532
+      ],
+      "year": 1972,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/464/0723-01"
+      ]
+    },
+    {
+      "cite": "709 F. 2d 251",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11323369
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "255, n. 6"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/709/0251-01"
+      ]
+    },
+    {
+      "cite": "682 F. 2d 897",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        539065
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "910"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/682/0897-01"
+      ]
+    },
+    {
+      "cite": "45 Fed. Reg. 74676",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 1980,
+      "opinion_index": 2
+    },
+    {
+      "cite": "401 U. S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712736
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "433-434",
+          "parenthetical": "EEOC Guidelines on Employment Testing Procedures of 1966"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/401/0424-01"
+      ]
+    },
+    {
+      "cite": "29 CFR \u00a7 1604.11",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "641 F. 2d 934",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1365949,
+        5686463
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "946, n. 12"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/641/0934-01",
+        "/us-app-dc/205/0444-01"
+      ]
+    },
+    {
+      "cite": "205 U. S. App. D. C. 444",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        5686463
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "456, n. 12"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us-app-dc/205/0444-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1615,
+    "char_count": 39816,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 2.5112194414582577e-05,
+      "percentile": 0.9998955537562229
+    },
+    "sha256": "11e058d58c5bb1975578d2fd81dc024c22592012f94413a67bd071fa93ee87c3",
+    "simhash": "1:2b7a8dc3e99a0748",
+    "word_count": 6384
+  },
+  "last_updated": "2024-02-27T22:03:20.902174+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Rehnquist, J., delivered the opinion of the Court, in which Burger, C. J., and White, Powell, Stevens, and O\u2019Connor, JJ., joined. Stevens, J., filed a concurring opinion, post, p. 73. Marshall, J., filed an opinion concurring in the judgment, in which Brennan, Blackmun, and Stevens, JJ., joined, post, p. 74."
+    ],
+    "parties": [
+      "MERITOR SAVINGS BANK, FSB v. VINSON et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice Rehnquist\ndelivered the opinion of the Court.\nThis case presents important questions concerning claims of workplace \u201csexual harassment\u201d brought under Title VII of the Civil Rights Act of 1964, 78 Stat. 253, as amended, 42 U. S. C. \u00a7 2000e et seq.\nI\nIn 1974, respondent Mechelle Vinson met Sidney Taylor, a vice president of what is now petitioner Meritor Savings Bank (bank) and manager of one of its branch offices. When respondent asked whether she might obtain employment at the bank, Taylor gave her an application, which she completed and returned the next day; later that same day Taylor called her to say that she had been hired. With Taylor as her supervisor, respondent started as a teller-trainee, and thereafter was promoted to teller, head teller, and assistant branch manager. She worked at the same branch for four years, and it is undisputed that her advancement there was based on merit alone. In September 1978, respondent notified Taylor that she was taking sick leave for an indefinite period. On November 1, 1978, the bank discharged her for excessive use of that leave.\nRespondent brought this action against Taylor and the bank, claiming that during her four years at the bank she had \u201cconstantly been subjected to sexual harassment\u201d by Taylor in violation of Title VII. She sought injunctive relief, compensatory and punitive damages against Taylor and the bank, and attorney\u2019s fees.\nAt the 11-day bench trial, the parties presented conflicting testimony about Taylor\u2019s behavior during respondent\u2019s employment. Respondent testified that during her probationary period as a teller-trainee, Taylor treated her in a fatherly way and made no sexual advances. Shortly thereafter, however, he invited her out to dinner and, during the course of the meal, suggested that they go to a motel to have sexual relations. At first she refused, but out of what she described as fear of losing her job she eventually agreed. According to respondent, Taylor thereafter made repeated demands upon her for sexual favors, usually at the branch, both during and after business hours; she estimated that over the next several years she had intercourse with him some 40 or 50 times. In addition, respondent testified that Taylor fondled her in front of other employees, followed her into the women\u2019s restroom when she went there alone, exposed himself to her, and even forcibly raped her on several occasions. These activities ceased after 1977, respondent stated, when she started going with a steady boyfriend.\nRespondent also testified that Taylor touched and fondled other women employees of the bank, and she attempted to call witnesses to support this charge. But while some supporting testimony apparently was admitted without objection, the District Court did not allow her \u201cto present wholesale evidence of a pattern and practice relating to sexual advances to other female employees in her case in chief, but advised her that she might well be able to present such evidence in rebuttal to the defendants\u2019 cases.\u201d Vinson v. Taylor, 22 EPD \u00b6 30,708, p. 14,693, n. 1, 23 FEP Cases 37, 38-39, n. 1 (DC 1980). Respondent did not offer such evidence in rebuttal. Finally, respondent testified that because she was afraid of Taylor she never reported his harassment to any of his supervisors and never attempted to use the bank\u2019s complaint procedure.\nTaylor denied respondent\u2019s allegations of sexual activity, testifying that he never fondled her, never made suggestive remarks to her, never engaged in sexual intercourse with her, and never asked her to do so. He contended instead that respondent made her accusations in response to a business-related dispute. The bank also denied respondent\u2019s allegations and asserted that any sexual harassment by Taylor was unknown to the bank and engaged in without its consent or approval.\nThe District Court denied relief, but did not resolve the conflicting testimony about the existence of a sexual relationship between respondent and Taylor. It found instead that\n\u201c[i]f [respondent] and Taylor did engage in an intimate or sexual relationship during the time of [respondent\u2019s] employment with [the bank], that relationship was a voluntary one having nothing to do with her continued employment at [the bank] or her advancement or promotions at that institution.\u201d Id., at 14,692, 23 FEP Cases, at 42 (footnote omitted).\nThe court ultimately found that respondent \u201cwas not the victim of sexual harassment and was not the victim of sexual discrimination\u201d while employed at the bank. Ibid., 23 FEP Cases, at 43.\nAlthough it concluded that respondent had not proved a violation of Title VII, the District Court nevertheless went on to address the bank\u2019s liability. After noting the bank\u2019s express policy against discrimination, and finding that neither respondent nor any other employee had ever lodged a complaint about sexual harassment by Taylor, the court ultimately concluded that \u201cthe bank was without notice and cannot be held liable for the alleged actions of Taylor.\u201d Id., at 14,691, 23 FEP Cases, at 42.\nThe Court of Appeals for the District of Columbia Circuit reversed. 243 U. S. App. D. C. 323, 753 F. 2d 141 (1985). Relying on its earlier holding in Bundy v. Jackson, 205 U. S. App. D. C. 444, 641 F. 2d 934 (1981), decided after the trial in this case, the court stated that a violation of Title VII may be predicated on either of two types of sexual harassment: harassment that involves the conditioning of concrete employment benefits on sexual favors, and harassment that, while not affecting economic benefits, creates a hostile or offensive working environment. The court drew additional support for this position from the Equal Employment Opportunity Commission\u2019s Guidelines on Discrimination Because of Sex, 29 CFR \u00a7 1604.11(a) (1985), which set out these two types of sexual harassment claims. Believing that \u201cVinson\u2019s grievance was clearly of the [hostile environment] type,\u201d 243 U. S. App. D. C., at 327, 753 F. 2d, at 145, and that the District Court had not considered whether a violation of this type had occurred, the court concluded that a remand was necessary.\nThe court further concluded that the District Court\u2019s finding that any sexual relationship between respondent and Taylor \u201cwas a voluntary one\u201d did not obviate the need for a remand. \u201c[U]ncertain as to precisely what the [district] court meant\u201d by this finding, the Court of Appeals held that if the evidence otherwise showed that \u201cTaylor made Vinson\u2019s toleration of sexual harassment a condition of her employment,\u201d her voluntariness \u201chad no materiality whatsoever.\u201d Id., at 328, 753 F. 2d, at 146. The court then surmised that the District Court\u2019s finding of voluntariness might have been based on \u201cthe voluminous testimony regarding respondent\u2019s dress and personal fantasies,\u201d testimony that the Court of Appeals believed \u201chad no place in this litigation.\u201d Id., at 328, n. 36, 753 F. 2d, at 146, n. 36.\nAs to the bank\u2019s liability, the Court of Appeals held that an employer is absolutely liable for sexual harassment practiced by supervisory personnel, whether or not the employer knew or should have known about the misconduct. The court relied chiefly on Title VII\u2019s definition of \u201cemployer\u201d to include \u201cany agent of such a person,\u201d 42 U. S. C. \u00a72000e(b), as well as on the EEOC Guidelines. The court held that a supervisor is an \u201cagent\u201d of his employer for Title VII purposes, even if he lacks authority to hire, fire, or promote, since \u201cthe mere existence \u2014 or even the appearance \u2014 of a significant degree of influence in vital job decisions gives any supervisor the opportunity to impose on employees.\u201d 243 U. S. App. D. C., at 332, 753 F. 2d, at 150.\nIn accordance with the foregoing, the Court of Appeals reversed the judgment of the District Court and remanded the case for further proceedings. A subsequent suggestion for rehearing en banc was denied, with three judges dissenting. 245 U. S. App. D. C. 306, 760 F. 2d 1330 (1985). We granted certiorari, 474 U. S. 1047 (1985), and now affirm but for different reasons.\nII\nTitle VII of the Civil Rights Act of 1964 makes it \u201can unlawful employment practice for an employer ... to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual\u2019s race, color, religion, sex, or national origin.\u201d 42 U. S. C. \u00a7 200\u00d3e-2(a)(l). The prohibition against discrimination based on sex was added to Title VII at the last minute on the floor of the House of Representatives. 110 Cong. Rec. 2577-2584 (1964). The principal argument in opposition to the amendment was that \u201csex discrimination\u201d was sufficiently different from other types of discrimination that it ought to receive separate legislative treatment. See id., at 2577 (statement of Rep. Celler quoting letter from United States Department of Labor); id., at 2584 (statement of Rep. Green). This argument was defeated, the bill quickly passed as amended, and we are left with little legislative history to guide us in interpreting the Act\u2019s prohibition against discrimination based on \u201csex.\u201d\nRespondent argues, and the Court of Appeals held, that unwelcome sexual advances that create an offensive or hostile working environment violate Title VII. Without question, when a supervisor sexually harasses a subordinate because of the subordinate\u2019s sex, that supervisor \u201cdiscriminate[s]\u201d on the basis of sex. Petitioner apparently does not challenge this proposition. It contends instead that in prohibiting discrimination with respect to \u201ccompensation, terms, conditions, or privileges\u201d of employment, Congress was concerned with what petitioner describes as \u201ctangible loss\u201d of \u201can economic character,\u201d not \u201cpurely psychological aspects of the workplace environment.\u201d Brief for Petitioner 30-31, 34. In support of this claim petitioner observes that in both the legislative history of Title VII and this Court\u2019s Title VII decisions, the focus has been on tangible, economic barriers erected by discrimination.\nWe reject petitioner\u2019s view. First, the language of Title VII is not limited to \u201ceconomic\u201d or \u201ctangible\u201d discrimination. The phrase \u201cterms, conditions, or privileges of employment\u201d evinces a congressional intent \u201c \u2018to strike at the entire spectrum of disparate treatment of men and women\u2019 \u201d in employment. Los Angeles Dept. of Water and Power v. Manhart, 435 U. S. 702, 707, n. 13 (1978), quoting Sprogis v. United Air Lines, Inc., 444 F. 2d 1194, 1198 (CA7 1971). Petitioner has pointed to nothing in the Act to suggest that Congress contemplated the limitation urged here.\nSecond, in 1980 the EEOC issued Guidelines specifying that \u201csexual harassment,\u201d as there defined, is a form of sex discrimination prohibited by Title VII. As an \u201cadministrative interpretation of the Act by the enforcing agency,\u201d Griggs v. Duke Power Co., 401 U. S. 424, 433-434 (1971), these Guidelines, \u201c \u2018while not controlling upon the courts by reason of their authority, do constitute a body of experience and informed judgment to which courts and litigants may properly resort for guidance,\u2019\u201d General Electric Co. v. Gilbert, 429 U. S. 125, 141-142 (1976), quoting Skidmore v. Swift & Co., 323 U. S. 134, 140 (1944). The EEOC Guidelines fully support the view that harassment leading to noneconomic injury can violate Title VII.\nIn defining \u201csexual harassment,\u201d the Guidelines first describe the kinds of workplace conduct that may be actionable under Title VII. These include \u201c[ujnwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature.\u201d 29 CFR \u00a7 1604.11(a) (1985). Relevant to the charges at issue in this case, the Guidelines provide that such sexual misconduct constitutes prohibited \u201csexual harassment,\u201d whether or not it is directly linked to the grant or denial of an economic quid pro quo, where \u201csuch conduct has the purpose or effect of unreasonably interfering with an individual\u2019s work performance or creating an intimidating, hostile, or offensive working environment.\u201d \u00a7 1604.11(a)(3).\nIn concluding that so-called \u201chostile environment\u201d (i. e., non quid pro quo) harassment violates Title VII, the EEOC drew upon a substantial body of judicial decisions and EEOC precedent holding that Title VII affords employees the right to work in an environment free from discriminatory intimidation, ridicule, and insult. See generally 45 Fed. Reg. 74676 (1980). Rogers v. EEOC, 454 F. 2d 234 (CA5 1971), cert. denied, 406 U. S. 957 (1972), was apparently the first case to recognize a cause of action based upon a discriminatory work environment. In Rogers, the Court of Appeals for the Fifth Circuit held that a Hispanic complainant could establish a Title VII violation by demonstrating that her employer created an offensive work environment for employees by giving discriminatory service to its Hispanic clientele. The court explained that an employee\u2019s protections under Title VII extend beyond the economic aspects of employment:\n\u201c[T]he phrase \u2018terms, conditions or privileges of employment\u2019 in [Title VII] is an expansive concept which sweeps within its protective ambit the practice of creating a working environment heavily charged with ethnic or racial discrimination. . . . One can readily envision working environments so heavily polluted with discrimination as to destroy completely the emotional and psychological stability of minority group workers . . . .\u201d 454 F. 2d, at 238.\nCourts applied this principle to harassment based on race, e. g., Firefighters Institute for Racial Equality v. St. Louis, 549 F. 2d 506, 514-515 (CA8), cert. denied sub nom. Banta v. United States, 434 U. S. 819 (1977); Gray v. Greyhound Lines, East, 178 U. S. App. D. C. 91, 98, 545 F. 2d 169, 176 (1976), religion, e. g., Compston v. Borden, Inc., 424 F. Supp. 157 (SD Ohio 1976), and national origin, e. g., Cariddi v. Kansas City Chiefs Football Club, 568 F. 2d 87, 88 (CA8 1977). Nothing in Title VII suggests that a hostile environment based on discriminatory sexual harassment should not be likewise prohibited. The Guidelines thus appropriately drew from, and were fully consistent with, the existing case law.\nSince the Guidelines were issued, courts have uniformly held, and we agree, that a plaintiff may establish a violation of Title VII by proving that discrimination based on sex has created a hostile or abusive work environment. As the Court of Appeals for the Eleventh Circuit wrote in Henson v. Dundee, 682 F. 2d 897, 902 (1982):\n\u201cSexual harassment which creates a hostile or offensive environment for members of one sex is every bit the arbitrary barrier to sexual equality at the workplace that racial harassment is to racial equality. Surely, a requirement that a man or woman run a gauntlet of sexual abuse in return for the privilege of being allowed to work and make a living can be as demeaning and disconcerting as the harshest of racial epithets.\u201d\nAccord, Katz v. Dole, 709 F. 2d 251, 254-255 (CA4 1983); Bundy v. Jackson, 205 U. S. App. D. C., at 444-454, 641 F. 2d, at 934-944; Zabkowicz v. West Bend Co., 589 F. Supp. 780 (ED Wis. 1984).\nOf course, as the courts in both Rogers and Henson recognized, not all workplace conduct that may be described as \u201charassment\u201d affects a \u201cterm, condition, or privilege\u201d of employment within the meaning of Title VII. See Rogers v. EEOC, supra, at 238 (\u201cmere utterance of an ethnic or racial epithet which engenders offensive feelings in an employee\u201d would not affect the conditions of employment to sufficiently significant degree to violate Title VII); Henson, 682 F. 2d, at 904 (quoting same). For sexual harassment to be actionable, it must be sufficiently severe or pervasive \u201cto alter the conditions of [the victim\u2019s] employment and create an abusive working environment.\u201d Ibid. Respondent\u2019s allegations in this case \u2014 which include not only pervasive harassment but also criminal conduct of the most serious nature \u2014 are plainly sufficient to state a claim for \u201chostile environment\u201d sexual harassment.\nThe question remains, however, whether the District Court\u2019s ultimate finding that respondent \u201cwas not the victim of sexual harassment,\u201d 22 EPD \u00b630,708, at 14,692-14,693, 23 FEP Cases, at 43, effectively disposed of respondent\u2019s claim. The Court of Appeals recognized, we think correctly, that this ultimate finding was likely based on one or both of two erroneous views of the law. First, the District Court apparently believed that a claim for sexual harassment will not lie absent an economic effect on the complainant\u2019s employment. See ibid. (\u201cIt is without question that sexual harassment of female employees in which they are asked or required to submit to sexual demands as a condition to obtain employment or to maintain employment or to obtain promotions falls within protection of Title VII\u201d) (emphasis added). Since it \u25a0 appears that the District Court made its findings without ever considering the \u201chostile environment\u201d theory of sexual harassment, the Court of Appeals\u2019 decision to remand was correct.\nSecond, the District Court\u2019s conclusion that no actionable harassment occurred might have rested on its earlier \u201cfinding\u201d that \u201c[i]f [respondent] and Taylor did engage in an intimate or sexual relationship . . . , that relationship was a voluntary one.\u201d Id., at 14,692, 23 FEP Cases, at 42. But the fact that sex-related conduct was \u201cvoluntary,\u201d in the sense that the complainant was not forced to participate against her will, is not a defense to a sexual harassment suit brought under Title VII. The gravamen of any sexual harassment claim is that the alleged sexual advances were \u201cunwelcome.\u201d 29 CFR \u00a7 1604.11(a) (1985). While the question whether particular conduct was indeed unwelcome presents difficult problems of proof and turns largely on credibility determinations committed to the trier of fact, the District Court in this case erroneously focused on the \u201cvoluntariness\u201d of respondent\u2019s participation in the claimed sexual episodes. The correct inquiry is whether respondent by her conduct indicated that the alleged sexual advances were unwelcome, not whether her actual participation in sexual intercourse was voluntary.\nPetitioner contends that even if this case must be remanded to the District Court, the Court of Appeals erred in one of the terms of its remand. Specifically, the Court of Appeals stated that testimony about respondent\u2019s \u201cdress and personal fantasies,\u201d 243 U. S. App. D. C., at 328, n. 36, 753 F. 2d, at 146, n. 36, which the District Court apparently admitted into evidence, \u201chad no place in this litigation.\u201d Ibid. The apparent ground for this conclusion was that respondent\u2019s voluntariness vel non in submitting to Taylor\u2019s advances was immaterial to her sexual harassment claim. While \u201cvol-untariness\u201d in the sense of consent is not a defense to such a claim, it does not follow that a complainant\u2019s sexually provocative speech or dress is irrelevant as a matter of law in determining whether he or she found particular sexual advances unwelcome. To the contrary, such evidence is obviously relevant. The EEOC Guidelines emphasize that the trier of fact must determine the existence of sexual harassment in light of \u201cthe record as a whole\u201d and \u201cthe totality of circumstances, such as the nature of the sexual advances and the context in which the alleged incidents occurred.\u201d 29 CFR \u00a7 1604.11(b) (1985). Respondent\u2019s claim that any marginal relevance of the evidence in question was outweighed by the potential for unfair prejudice is the sort of argument properly addressed to the District Court. In this case the District Court concluded that the evidence should be admitted, and the Court of Appeals\u2019 contrary conclusion was based upon the erroneous, categorical view that testimony about provocative dress and publicly expressed sexual fantasies \u201chad no place in this litigation.\u201d 243 U. S. App. D. C., at 328, n. 36, 753 F. 2d, at 146, n. 36. While the District Court must carefully weigh the applicable considerations in deciding whether to admit evidence of this kind, there is no per se rule against its admissibility.\nIll\nAlthough the District Court concluded that respondent had not proved a violation of Title VII, it nevertheless went on to consider the question of the bank\u2019s liability. Finding that \u201cthe bank was without notice\u201d of Taylor\u2019s alleged conduct, and that notice to Taylor was not the equivalent of notice to the bank, the court concluded that the bank therefore could not be held hable for Taylor\u2019s alleged actions. The Court of Appeals took the opposite view, holding that an employer is strictly liable for a hostile environment created by a supervisor\u2019s sexual advances, even though the employer neither knew nor reasonably could have known of the alleged misconduct. The court held that a supervisor, whether or not he possesses the authority to hire, fire, or promote, is necessarily an \u201cagent\u201d of his employer for all Title VII purposes, since \u201ceven the appearance\u201d of such authority may enable him to impose himself on his subordinates.\nThe parties and amici suggest several different standards for employer liability. Respondent, not surprisingly, defends the position of the Court of Appeals. Noting that Title VII\u2019s definition of \u201cemployer\u201d includes any \u201cagent\u201d of the employer, she also argues that \u201cso long as the circumstance is work-related, the supervisor is the employer and the employer is the supervisor.\u201d Brief for Respondent 27. Notice to Taylor that the advances were unwelcome, therefore, was notice to the bank.\nPetitioner argues that respondent\u2019s failure to use its established grievance procedure, or to otherwise put it on notice of the alleged misconduct, insulates petitioner from liability for Taylor\u2019s wrongdoing. A contrary rule would be unfair, petitioner argues, since in a hostile environment harassment case the employer often will have no reason to know about, or opportunity to cure, the alleged wrongdoing.\nThe EEOC, in its brief as\u2019 amicus curiae, contends that courts formulating employer liability rules should draw from traditional agency principles. Examination of those principles has led the EEOC to the view that where a supervisor exercises the authority actually delegated to him by his employer, by making or threatening to make decisions affecting the employment status of his subordinates, such actions are properly imputed to the employer whose delegation of authority empowered the supervisor to undertake them. Brief for United States and EEOC as Amici Curiae 22. Thus, the courts have consistently held employers liable for the discriminatory discharges of employees by supervisory personnel, whether or not the employer knew, should have known, or approved of the supervisor\u2019s actions. E. g., Anderson v. Methodist Evangelical Hospital, Inc., 464 F. 2d 723, 725 (CA6 1972).\nThe EEOC suggests that when a sexual harassment claim rests exclusively on a \u201chostile environment\u201d theory, however, the usual basis for a finding of agency will often disappear. In that case, the EEOC believes, agency principles lead to\n\u201ca rule that asks whether a victim of sexual harassment had reasonably available an avenue of complaint regarding such harassment, and, if available and utilized, whether that procedure was reasonably responsive to the employee\u2019s complaint. If the employer has an expressed policy against sexual harassment and has implemented a procedure specifically designed to resolve sexual harassment claims, and if the victim does not take advantage of that procedure, the employer should be shielded from liability absent actual knowledge of the sexually hostile environment (obtained, e. g., by the filing of a charge with the EEOC or a comparable state agency). In all other cases, the employer will be liable if it has actual knowledge of the harassment or if, considering all the facts of the case, the victim in question had no reasonably available avenue for making his or her complaint known to appropriate management officials.\u201d Brief for United States and EEOC as Amici Curiae 26.\nAs respondent points out, this suggested rule is in some tension with the EEOC Guidelines, which hold an employer liable for the acts of its agents without regard to notice. 29 CFR \u00a7 1604.11(c) (1985). The Guidelines do require, however, an \u201cexamin[ation of] the circumstances of the particular employment relationship and the job [f Junctions performed by the individual in determining whether an individual acts in either a supervisory or agency capacity.\u201d Ibid.\nThis debate over the appropriate standard for employer liability has a rather abstract quality about it given the state of the record in this case. We do not know at this stage whether Taylor made any sexual advances toward respondent at all, let alone whether those advances were unwelcome, whether they were sufficiently pervasive to constitute a condition of employment, or whether they were \u201cso pervasive and so long continuing . . . that the employer must have become conscious of [them],\u201d Taylor v. Jones, 653 F. 2d 1193, 1197-1199 (CA8 1981) (holding employer liable for racially hostile working environment based on constructive knowledge).\nWe therefore decline the parties\u2019 invitation to issue a definitive rule on employer liability, but we do agree with the EEOC that Congress wanted courts to look to agency principles for guidance in this area. While such common-law principles may not be transferable in all their particulars to Title VII, Congress\u2019 decision to define \u201cemployer\u201d to include any \u201cagent\u201d of an employer, 42 U. S. C. \u00a72000e(b), surely evinces an intent to place some limits on the acts of employees for which employers under Title VII are to be held responsible. For this reason, we hold that the Court of Appeals erred in concluding that employers are always automatically liable for sexual harassment by their supervisors. See generally Restatement (Second) of Agency \u00a7\u00a7219-237 (1958). For the same reason, absence of notice to an employer does not necessarily insulate that employer from liability. Ibid.\nFinally, we reject petitioner\u2019s view that the mere existence of a grievance procedure and a policy against discrimination, coupled with respondent\u2019s failure to invoke that procedure, must insulate petitioner from liability. While those facts are plainly relevant, the situation before us demonstrates why they are not necessarily dispositive. Petitioner\u2019s general nondiscrimination policy did not address sexual harassment in particular, and thus did not alert employees to their employer\u2019s interest in correcting that form of discrimination. App. 25. Moreover, the bank\u2019s grievance procedure apparently required an employee to complain first to her supervisor, in this case Taylor. Since Taylor was the alleged perpetrator, it is not altogether surprising that respondent failed to invoke the procedure and report her grievance to him. Petitioner\u2019s contention that respondent\u2019s failure should insulate it from liability might be substantially stronger if its procedures were better calculated to encourage victims of harassment to come forward.\nIV\nIn sum, we hold that a claim of \u201chostile environment\u201d sex discrimination is actionable under Title VII, that the District Court\u2019s findings were insufficient to dispose of respondent\u2019s hostile environment claim, and that the District Court did not err in admitting testimony about respondent\u2019s sexually provocative speech and dress. As to employer liability, we conclude that the Court of Appeals was wrong to entirely disregard agency principles and impose absolute liability on employers for the acts of their supervisors, regardless of the circumstances of a particular case.\nAccordingly, the judgment of the Court of Appeals reversing the judgment of the District Court is affirmed, and the case is remanded for further proceedings consistent with this opinion.\nIt is so ordered.\nLike the Court of Appeals, this Court was not provided a complete transcript of the trial. We therefore rely largely on the District Court\u2019s opinion for the summary of the relevant testimony.",
+        "type": "majority",
+        "author": "Justice Rehnquist"
+      },
+      {
+        "text": "Justice Stevens,\nconcurring.\nBecause I do not see any inconsistency between the two opinions, and because I believe the question of statutory construction that Justice Marshall has answered is fairly presented by the record, I join both the Court\u2019s opinion and Justice Marshall\u2019s opinion.",
+        "type": "concurrence",
+        "author": "Justice Stevens,"
+      },
+      {
+        "text": "Justice Marshall,\nwith whom Justice Brennan, Justice Blackmun, and Justice Stevens join, concurring in the judgment.\nI fully agree with the Court\u2019s conclusion that workplace sexual harassment is illegal, and violates Title VII. Part III of the Court\u2019s opinion, however, leaves open the circumstances in which an employer is responsible under Title VII for such conduct. Because I believe that question to be properly before us, I write separately.\nThe issue the Court declines to resolve is addressed in the EEOC Guidelines on Discrimination Because of Sex, which are entitled to great deference. See Griggs v. Duke Power Co., 401 U. S. 424, 433-434 (1971) (EEOC Guidelines on Employment Testing Procedures of 1966); see also ante, at 65. The Guidelines explain:\n\u201cApplying general Title VII principles, an employer ... is responsible for its acts and those of its agents and supervisory employees with respect to sexual harassment regardless of whether the specific acts complained of were authorized or even forbidden by the employer and regardless of whether the employer knew or should have known of their occurrence. The Commission will examine the circumstances of the particular employment relationship and the job [f junctions performed by the individual in determining whether an individual acts in either a supervisory or agency capacity.\n\u201cWith respect to conduct between fellow employees, an employer is responsible for acts of sexual harassment in the workplace where the employer (or its agents or supervisory employees) knows or should have known of the conduct, unless it can show that it took immediate and appropriate corrective action.\u201d 29 CFR \u00a7\u00a71604.11(c),(d) (1985).\nThe Commission, in issuing the Guidelines, explained that its rule was \u201cin keeping with the general standard of employer liability with respect to agents and supervisory employees. . . . [T]he Commission and the courts have held for years that an employer is liable if a supervisor or an agent violates the Title VII, regardless of knowledge or any other mitigating factor.\u201d 45 Fed. Reg. 74676 (1980). I would adopt the standard set out by the Commission.\nAn employer can act only through individual supervisors and employees; discrimination is rarely carried out pursuant to a formal vote of a corporation\u2019s board of directors. Although an employer may sometimes adopt companywide discriminatory policies violative of Title VII, acts that may constitute Title VII violations are generally effected through the actions of individuals, and often an individual may take such a step even in defiance of company policy. Nonetheless, Title VII remedies, such as reinstatement and backpay, generally run against the employer as an entity. The question thus arises as to the circumstances under which an employer will be held liable under Title VII for the acts of its employees.\nThe answer supplied by general Title VII law, like that supplied by federal labor law, is that the act of a supervisory employee or agent is imputed to the employer. Thus, for example, when a supervisor discriminatorily fires or refuses to promote a black employee, that act is, without more, considered the act of the employer. The courts do not stop to consider whether the employer otherwise had \u201cnotice\u201d of the action, or even whether the supervisor had actual authority to act as he did. E. g., Flowers v. Crouch-Walker Corp., 552 F. 2d 1277, 1282 (CA7 1977); Young v. Southwestern Savings and Loan Assn., 509 F. 2d 140 (CA5 1975); Anderson v. Methodist Evangelical Hospital, Inc., 464 F. 2d 723 (CA6 1972). Following that approach, every Court of Appeals that has considered the issue has held that sexual harassment by supervisory personnel is automatically imputed to the employer when the harassment results in tangible job detriment to the subordinate employee. See Horn v. Duke Homes, Inc., Div. of Windsor Mobile Homes, 755 F. 2d 599, 604-606 (CA7 1985); Craig v.Y & Y Snacks, Inc., 721 F. 2d 77, 80-81 (CA3 1983); Katz v. Dole, 709 F. 2d 251, 255, n. 6 (CA4 1983); Henson v. Dundee, 682 F. 2d 897, 910 (CA11 1982); Miller v. Bank of America, 600 F. 2d 211, 213 (CA9 1979).\nThe brief filed by the Solicitor General on behalf of the United States and the EEOC in this case suggests that a different rule should apply when a supervisor\u2019s harassment \u201cmerely\u201d results in a discriminatory work environment. The Solicitor General concedes that sexual harassment that affects tangible job benefits is an exercise of authority delegated to the supervisor by the employer, and thus gives rise to employer liability. But, departing from the EEOC Guidelines, he argues that the case of a supervisor merely creating a discriminatory work environment is different because the supervisor \u201cis not exercising, or threatening to exercise, actual or apparent authority to make personnel decisions affecting the victim.\u201d Brief for United States and EEOC as Amici Curiae 24. In the latter situation, he concludes, some further notice requirement should therefore be necessary.\nThe Solicitor General\u2019s position is untenable. A supervisor\u2019s responsibilities do not begin and end with the power to hire, fire, and discipline employees, or with the power to recommend such actions. Rather, a supervisor is charged with the day-to-day supervision of the work environment and with ensuring a safe, productive workplace. There is no reason why abuse of the latter authority should have different consequences than abuse of the former. In both cases it is the authority vested in the supervisor by the employer that enables him to commit the wrong: it is precisely because the supervisor is understood to be clothed with the employer\u2019s authority that he is able to impose unwelcome sexual conduct on subordinates. There is therefore no justification for a special rule, to be applied only in \u201chostile environment\u201d cases, that sexual harassment does not create employer liability until the employee suffering the discrimination notifies other supervisors. No such requirement appears in the statute, and no such requirement can coherently be drawn from the law of agency.\nAgency principles and the goals of Title VII law make appropriate some limitation on the liability of employers for the acts of supervisors. Where, for example, a supervisor has no authority over an employee, because the two work in wholly different parts of the employer\u2019s business, it may be improper to find strict employer liability. See 29 CFR \u00a7 1604.11(c) (1985). Those considerations, however, do not justify the creation of a special \u201cnotice\u201d rule in hostile environment cases.\nFurther, nothing would be gained by crafting such a rule. In the \u201cpure\u201d hostile environment case, where an employee files an EEOC complaint alleging sexual harassment in the workplace, the employee seeks not money damages but in-junctive relief. See Bundy v. Jackson, 205 U. S. App. D. C. 444, 456, n. 12, 641 F. 2d 934, 946, n. 12 (1981). Under Title VII, the EEOC must notify an employer of charges made against it within 10 days after receipt of the complaint. 42 U. S. C. \u00a7 2000e-5(b). If the charges appear to be based on \u201creasonable cause,\u201d the EEOC must attempt to eliminate the offending practice through \u201cinformal methods of conference, conciliation, and persuasion.\u201d Ibid. An employer whose internal procedures assertedly would have redressed the discrimination can avoid injunctive relief by employing these procedures after receiving notice of the complaint or during the conciliation period. Cf. Brief for United States and EEOC as Amici Curiae 26. Where a complainant, on the other hand, seeks backpay on the theory that a hostile work environment effected a constructive termination, the existence of an internal complaint procedure may be a factor in determining not the employer\u2019s liability but the remedies available against it. Where a complainant without good reason bypassed an internal complaint procedure she knew to be effective, a court may be reluctant to find constructive termination and thus to award reinstatement or backpay.\nI therefore reject the Solicitor General\u2019s position. I would apply in this case the same rules we apply in all other Title VII cases, and hold that sexual harassment by a supervisor of an employee under his supervision, leading to a discriminatory work environment, should be imputed to the employer for Title VII purposes regardless of whether the employee gave \u201cnotice\u201d of the offense.\nThe remedial provisions of Title VII were largely modeled on those of the National Labor Relations Act (NLRA). See Albemarle Paper Co. v. Moody, 422 U. S. 405, 419, and n. 11 (1975); see also Franks v. Bowman Transportation Co., 424 U. S. 747, 768-770 (1976).\nFor NLRA cases, see, e. g., Graves Trucking, Inc. v. NLRB, 692 F. 2d 470 (CA7 1982); NLRB v. Kaiser Agricultural Chemical, Division of Kaiser Aluminum & Chemical Corp., 473 F. 2d 374, 384 (CA5 1973); Amalgamated Clothing Workers of America v. NLRB, 124 U. S. App. D. C. 365, 377, 365 F. 2d 898, 909 (1966).",
+        "type": "concurrence",
+        "author": "Justice Marshall,"
+      }
+    ],
+    "attorneys": [
+      "F. Robert Troll, Jr., argued the cause for petitioner. With him on the briefs were Charles H. Fleischer and Randall C. Smith.",
+      "Patricia J. Barry argued the cause for respondent Vinson. With her on the brief was Catherine A. MacKinnon"
+    ],
+    "corrections": "",
+    "head_matter": "MERITOR SAVINGS BANK, FSB v. VINSON et al.\nNo. 84-1979.\nArgued March 25, 1986\nDecided June 19, 1986\nRehnquist, J., delivered the opinion of the Court, in which Burger, C. J., and White, Powell, Stevens, and O\u2019Connor, JJ., joined. Stevens, J., filed a concurring opinion, post, p. 73. Marshall, J., filed an opinion concurring in the judgment, in which Brennan, Blackmun, and Stevens, JJ., joined, post, p. 74.\nF. Robert Troll, Jr., argued the cause for petitioner. With him on the briefs were Charles H. Fleischer and Randall C. Smith.\nPatricia J. Barry argued the cause for respondent Vinson. With her on the brief was Catherine A. MacKinnon\nBriefs of amici curiae urging reversal were filed for the United States et al. by Solicitor General Fried, Assistant Attorneys General Reynolds and Willard, Deputy Solicitor General Kuhl, Albert G. Lauber, Jr., John F. Cordes, John F. Daly, and Johnny J. Butler; for the Equal Employment Advisory Council by Robert E. Williams, Douglas S. McDowell, and Garen E. Dodge; for the Chamber of Commerce of the United States by Dannie B. Fogleman and Stephen A. Bokat; and for the Trustees of Boston University by William Burnett Harvey and Michael B. Rosen.\nBriefs of amici curiae urging affirmance were filed for the State of New Jersey et al. by W. Cary Edwards, Attorney General of New Jersey, James J. Ciancia, Assistant Attorney General, Susan L. Reisner and Lynn B. Norcia, Deputy Attorneys General, John Van de Kamp, Attorney General of California, Joseph I. Lieberman, Attorney General of Connecticut, Neil F. Hartigan, Attorney General of Illinois, Hubert H. Humphrey III, Attorney General of Minnesota, Paul Bardacke, Attorney General of New Mexico, Robert Abrams, Attorney General of New York, Jeffrey L. Amestoy, Attorney General of Vermont, and Elisabeth S. Shu-ster; for the American Federation of Labor and the Congress of Industrial Organizations et al. by Marsha S. Berzon, Joy L. Koletsky, Laurence Gold, Winn Newman, and Sarah E. Bums; for the Women\u2019s Bar Association of Massachusetts et al. by S. Beville May; for the Women\u2019s Bar Association of the State of New York by Stephen N. Shulman and Lynda S. Mounts; for the Women\u2019s Legal Defense Fund et al. by Linda R. Singer, Anne E. Simon, Nadine Taub, Judith Levin, and Barry H. Gottfried; for the Working Women\u2019s Institute et al. by Laurie E. Foster; and for Senator Paul Simon et al. by Michael H. Salsbury."
+  },
+  "file_name": "0057-01",
+  "first_page_order": 81,
+  "last_page_order": 102
+}

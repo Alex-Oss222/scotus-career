@@ -1,0 +1,688 @@
+{
+  "id": 6214908,
+  "name": "MILLER v. FLORIDA",
+  "name_abbreviation": "Miller v. Florida",
+  "decision_date": "1987-06-09",
+  "docket_number": "No. 86-5344",
+  "first_page": "423",
+  "last_page": "436",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "482 U.S. 423"
+    },
+    {
+      "type": "parallel",
+      "cite": "96 L. Ed. 2d 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "107 S. Ct. 2446"
+    },
+    {
+      "type": "vendor",
+      "cite": "1987 U.S. LEXIS 2608"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1986-123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "492 So. 2d 1308",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7599504
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/492/1308-01"
+      ]
+    },
+    {
+      "cite": "500 So. 2d 501",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7575807
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "503",
+          "parenthetical": "departure sentence not supported by clear and convincing reasons was erroneous even though defendant consented, because \"a defendant cannot . . . confer on the court the authority to impose an illegal sentence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/500/0501-01"
+      ]
+    },
+    {
+      "cite": "444 U. S. 1311",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11451868
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "Rehnquist, J., in chambers"
+        },
+        {
+          "page": "1312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/1311-01"
+      ]
+    },
+    {
+      "cite": "455 U. S. 950",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339426,
+        11339074,
+        11340003,
+        11340098,
+        11339203,
+        11339591,
+        11339014,
+        11339691,
+        11339151,
+        11339506,
+        11339891,
+        11339796,
+        11339348
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0950-06",
+        "/us/455/0950-02",
+        "/us/455/0950-12",
+        "/us/455/0950-13",
+        "/us/455/0950-04",
+        "/us/455/0950-08",
+        "/us/455/0950-01",
+        "/us/455/0950-09",
+        "/us/455/0950-03",
+        "/us/455/0950-07",
+        "/us/455/0950-11",
+        "/us/455/0950-10",
+        "/us/455/0950-05"
+      ]
+    },
+    {
+      "cite": "659 F. 2d 183",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1186258,
+        3684796
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/659/0183-01",
+        "/us-app-dc/212/0137-01"
+      ]
+    },
+    {
+      "cite": "212 U. S. App. D. C. 137",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3684796
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/212/0137-01"
+      ]
+    },
+    {
+      "cite": "474 U. S. 817",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6246150,
+        6249734,
+        6247751,
+        6248781,
+        6246479,
+        6249106,
+        6247445,
+        6250069,
+        6248055,
+        6248440,
+        6249402,
+        6247067,
+        6246749
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0817-01",
+        "/us/474/0817-12",
+        "/us/474/0817-06",
+        "/us/474/0817-09",
+        "/us/474/0817-02",
+        "/us/474/0817-10",
+        "/us/474/0817-05",
+        "/us/474/0817-13",
+        "/us/474/0817-07",
+        "/us/474/0817-08",
+        "/us/474/0817-11",
+        "/us/474/0817-04",
+        "/us/474/0817-03"
+      ]
+    },
+    {
+      "cite": "744 F. 2d 1543",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        598866
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1549-1550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/744/1543-01"
+      ]
+    },
+    {
+      "cite": "794 F. 2d 1295",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1591322
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/794/1295-01"
+      ]
+    },
+    {
+      "cite": "802 F. 2d 1539",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1625142
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/802/1539-01"
+      ]
+    },
+    {
+      "cite": "110 U. S. 574",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3503664
+      ],
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/110/0574-01"
+      ]
+    },
+    {
+      "cite": "301 U. S. 397",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        547734
+      ],
+      "weight": 2,
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "401-402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/301/0397-01"
+      ]
+    },
+    {
+      "cite": "366 U. S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285816
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "247, n. 3",
+          "parenthetical": "separate opinion of Harlan, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0213-01"
+      ]
+    },
+    {
+      "cite": "237 U. S. 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        631845
+      ],
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/237/0180-01"
+      ]
+    },
+    {
+      "cite": "269 U. S. 167",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        186367
+      ],
+      "weight": 2,
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "169-170"
+        },
+        {
+          "page": "170-171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/269/0167-01"
+      ]
+    },
+    {
+      "cite": "3 Dall. 386",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11738091
+      ],
+      "weight": 3,
+      "year": 1798,
+      "pin_cites": [
+        {
+          "page": "391"
+        },
+        {
+          "page": "390",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/3/0386-01"
+      ]
+    },
+    {
+      "cite": "479 U. S. 960",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6476928,
+        6476641,
+        6476709,
+        6477389,
+        6477454,
+        6476786,
+        6477203,
+        6477299,
+        6477013,
+        6477112
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0960-04",
+        "/us/479/0960-01",
+        "/us/479/0960-02",
+        "/us/479/0960-09",
+        "/us/479/0960-10",
+        "/us/479/0960-03",
+        "/us/479/0960-07",
+        "/us/479/0960-08",
+        "/us/479/0960-05",
+        "/us/479/0960-06"
+      ]
+    },
+    {
+      "cite": "432 U. S. 282",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178615
+      ],
+      "weight": 11,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "292"
+        },
+        {
+          "page": "293"
+        },
+        {
+          "page": "298"
+        },
+        {
+          "page": "294"
+        },
+        {
+          "page": "296-297"
+        },
+        {
+          "page": "300"
+        },
+        {
+          "page": "293"
+        },
+        {
+          "page": "293-294",
+          "parenthetical": "\"The new statute simply altered the methods employed in determining whether the death penalty was to be imposed; there was no change in the quantum of punishment attached to the crime\""
+        },
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0282-01"
+      ]
+    },
+    {
+      "cite": "478 So. 2d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7607106
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1056"
+        },
+        {
+          "page": "1056"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/478/1054-01"
+      ]
+    },
+    {
+      "cite": "488 So. 2d 820",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7593782
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/488/0820-01"
+      ]
+    },
+    {
+      "cite": "468 So. 2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7628193
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/468/1018-01"
+      ]
+    },
+    {
+      "cite": "450 U. S. 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181086
+      ],
+      "weight": 7,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "28-29"
+        },
+        {
+          "page": "30"
+        },
+        {
+          "page": "29"
+        },
+        {
+          "page": "31"
+        },
+        {
+          "page": "29, n. 12"
+        },
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/450/0024-01"
+      ]
+    },
+    {
+      "cite": "451 So. 2d 824",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7624620
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "824"
+        },
+        {
+          "page": "824"
+        },
+        {
+          "page": "824"
+        },
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/451/0824-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7812.014",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "(2)(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Fla. Stat. \u00a7810.02",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "488 So. 2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7584016
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "525"
+        },
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/488/0523-01"
+      ]
+    },
+    {
+      "cite": "439 So. 2d 848",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7637157
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/439/0848-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7921.001",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(4)(a)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(4)(b)"
+        },
+        {
+          "page": "(5)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1007,
+    "char_count": 23335,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 1.2719791190723692e-05,
+      "percentile": 0.9997129176256994
+    },
+    "sha256": "57cf007a0c015e1f9edcbfdc368a442d32f937972eac1a90e58d9f9c3bd8ee66",
+    "simhash": "1:4b063c8e3d572e76",
+    "word_count": 3767
+  },
+  "last_updated": "2024-02-27T23:57:58.844946+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "O\u2019CONNOR, J., delivered the opinion for a unanimous Court."
+    ],
+    "parties": [
+      "MILLER v. FLORIDA"
+    ],
+    "opinions": [
+      {
+        "text": "Justice O\u2019Connor\ndelivered the opinion of the Court.\nAt the time petitioner committed the crime for which he was convicted, Florida\u2019s sentencing guidelines would have resulted in a presumptive sentence of 314 to 414 years\u2019 imprisonment. At the time petitioner was sentenced, the revised guidelines called for a presumptive sentence of 514 to 7 years in prison. The trial court applied the guidelines in effect at the time of sentencing and imposed a 7-year sentence. The question presented is whether application of these amended guidelines in petitioner\u2019s case is unconstitutional by virtue of the Ex Post Facto Clause.\nt \u2014 I\nIn 1983, the Florida Legislature enacted legislation replacing Florida\u2019s system of indeterminate sentencing with a sentencing guidelines scheme intended \u201cto eliminate unwarranted variation in the sentencing process. \u201d Fla. Rule Crim. Proc. 3.701(b) (1983). See 1983 Fla. Laws, ch. 83-216. Under the sentencing statute, a guidelines commission was responsible for \u201cthe initial development of a statewide system of sentencing guidelines.\u201d Fla. Stat. \u00a7921.001(1) (1983). Once the commission had made its recommendation, the Supreme Court of Florida was to develop a final system of guidelines. These guidelines were to become effective for crimes committed on or after October 1, 1983. Fla. Stat. \u00a7921.001(4)(a) (1983).\nThe sentencing statute authorized the guidelines commission to \u201cmeet annually or at the call of the chairman to review sentencing practices and recommend modifications to the guidelines.\u201d Fla. Stat. \u00a7921.001(3) (1983). Before the convening of the legislature each year, the commission was to make its recommendations regarding the need for changes in the guidelines. The Supreme Court of Florida then could revise the sentencing guidelines to conform to all or part of the commission\u2019s recommendations. The sentencing law provided, however, that such revisions would become effective \u201conly upon the subsequent adoption by the Legislature of legislation implementing the guidelines as then revised.\u201d Fla. Stat. \u00a7921.001(4)(b) (1983).\nIn accordance with this legislation, the Supreme Court of Florida developed sentencing guidelines that went into effect on October 1, 1983. See In re Rules of Criminal Procedure (Sentencing Guidelines), 439 So. 2d 848 (1983). Under the scheme, offenses were grouped into nine \u201coffense categories\u201d (e. g., \u201crobbery\u201d and \u201csexual offenses\u201d). A single sentencing \u201cscoresheet\u201d would be prepared based on the defendant\u2019s \u201cprimary offense,\u201d defined as the crime \u201cwith the highest statutory degree\u201d at the time of conviction. Fla. Rule Crim. Proc. 3.701(d) (1983). In scoring a defendant\u2019s guidelines sentence, points would be assigned based on the primary offense, additional offenses at the time of conviction, prior record, legal status at the time of the offense, and victim injury. The defendant\u2019s total point score then would be compared to a chart for that offense category, which provided a presumptive sentence for that composite score.\nThe presumptive sentence range was \u201cassumed to be appropriate for the composite score of the offender.\u201d Fla. Rule Crim. Proc. 3.701(d)(8) (1983). Within the recommended range, the sentencing judge had discretion to fix the sentence \u201cwithout the requirement of a written explanation.\u201d Ibid. If the sentencing judge wished to depart from the guideline range, however, the judge had to give clear and convincing reasons in writing for doing so:\n\u201cDepartures from the presumptive sentence should be avoided unless there are clear and convincing reasons to warrant aggravating or mitigating the sentence. Any sentence outside of the guidelines must be accompanied by a written statement delineating the reasons for the departure. Reasons for deviating from the guidelines shall not include factors relating to either instant offense or prior arrests for which convictions have not been obtained.\u201d Fla. Rule Crim. Proc. 3.701(d)(ll) (1983).\nThe \u201cclear and convincing\u201d standard was construed as requiring reasons \u201cof such weight as to produce in the mind of the judge a firm belief or conviction, without hesitancy, that departure is warranted.\u201d State v. Mischler, 488 So. 2d 523, 525 (Fla. 1986). Only those sentences that fall outside the guidelines\u2019 range are subject to appellate review. See Fla. Stat. \u00a7921.001(5) (1983).\nPetitioner was convicted in August 1984 on counts of sexual battery with slight force, a second-degree felony, Fla.\nStat. \u00a7794.011(5) (Supp. 1984); burglary with an assault, a felony of the \u201cfirst degree punishable by . . . life,\u201d Fla. Stat. \u00a7810.02 (1983); and petit theft, a misdemeanor, Fla. Stat. \u00a7812.014(2)(c) (1983). On April 25, 1984, when these offenses were committed, the sentencing guidelines adopted October 1,1983, were still in effect. On May 8,1984, however, the Supreme Court of Florida proposed several revisions to the sentencing guidelines. See Florida Bar: Amendment to Rules of Criminal Procedure (\u00a7.701, S.988 \u2014 Sentencing Guidelines), 451 So. 2d 824 (1984). In June 1984 the Florida Legislature adopted the recommended changes, see 1984 Fla. Laws, ch. 84-328, and the legislation implementing the revised guidelines became effective July 1, 1984. When petitioner was sentenced on October 2, 1984, therefore, these revised sentencing guidelines were the guidelines then in effect.\nOnly two changes made in the revised guidelines are relevant here. First, the guidelines changed the definition of \u201cprimary offense\u201d from the offense wdth \u201cthe highest statutory degree,\u201d to the offense which results in \u201cthe most severe sentence range.\u201d See 451 So. 2d, at 824, n. This changed petitioner\u2019s primary offense from burglary wdth assault \u2014 the offense with the higher statutory degree \u2014 to sexual battery. Petitioner does not argue here that the new definition itself changed his presumptive sentence. See Tr. of Oral Arg. 6. As a result of the new definition, however, petitioner was affected by another change in the revised guidelines law: a 20% increase in the number of primary offense points assigned to sexual offenses. The Supreme Court of Florida, in its comments accompanying the revised guidelines, described the change: \u201cThe revision increases the primary offense points by 20% and wdll result in both increased rates and length of incarceration for sexual offenders.\u201d 451 So. 2d, at 824, n. As a result of the point increase, petitioner\u2019s total point score jumped to a presumptive sentence of to 7 years. See App. 12.\nAt petitioner\u2019s sentencing hearing on October 2, 1984, the State contended that the revised guidelines should apply in determining petitioner\u2019s sentence. Alternatively, the State argued that if the sentencing judge applied the earlier guidelines, he should depart from the guidelines\u2019 range and impose a 7-year sentence. Id., at 8-9. The sentencing judge, rejecting petitioner\u2019s ex post facto argument, ruled that the revised guidelines should apply. Concluding that he would \u201cstay within the new guidelines,\u201d the judge imposed a 7-year term of imprisonment for the sexual assault count. Id., at 10. Petitioner received a concurrent 7-year sentence on the burglary count, and time served on the misdemeanor charge. Id., at 6, 11.\nOn appeal, the Florida District Court of Appeal, relying on this Court\u2019s decision in Weaver v. Graham, 450 U. S. 24 (1981), vacated petitioner\u2019s sentence and remanded for re-sentencing in accordance with the sentencing guidelines in effect at the time the offense was committed. 468 So. 2d 1018 (1985). In remanding the case, the court noted that \u201cthe same sentence is possible if clear and convincing reasons for departure from the then applicable guidelines are stated in writing.\u201d Ibid.\nThe Supreme Court of Florida reversed. 488 So. 2d 820 (1986). In a summary opinion, the court concluded that its decision in State v. Jackson, 478 So. 2d 1054 (1985), established that \u201cthe trial court may sentence a defendant pursuant to the guidelines in effect at the time of sentencing.\u201d 488 So. 2d, at 820. In Jackson, the Supreme Court of Florida had emphasized that \u201cthe presumptive sentence established by the guidelines does not change the statutory limits of the sentence imposed for a particular offense.\u201d 478 So. 2d, at 1056. On that basis, it had concluded that a modification in sentencing guidelines procedure was \u201cmerely a procedural change, not requiring the application of the ex post facto doctrine\u201d under Dobbert v. Florida, 432 U. S. 282 (1977). 478 So. 2d, at 1056.\nWe granted certiorari, 479 U. S. 960 (1986), and now reverse.\nII\nArticle I of the United States Constitution provides that neither Congress nor any State shall pass any \u201cex post facto Law.\u201d See Art. I, \u00a79, cl. 3; Art. I, \u00a710, cl. 1. Our understanding of what is meant by ex post facto largely derives from the case of Calder v. Bull, 3 Dall. 386 (1798), in which this Court first considered the scope of the ex post facto prohibition. In Calder, Justice Chase, noting that the expression \u201cex post facto\u201d \u201chad been in use long before the revolution,\u201d id., at 391, summarized his understanding of what fell \u201cwithin the words and the intent of the prohibition\u201d:\n\u201c1st. Every law that makes an action done before the passing of the law, and which was innocent when done, criminal; and punishes such action. 2d. Every law that aggravates a crime, or makes it greater than it was, when committed. 3d. Every law that changes the punishment, and inflicts a greater punishment, than the law annexed to the crime, when committed. 4th. Every law that alters the legal rules of evidence, and receives less, or different testimony, than the law required at the time of the commission of the offense, in order to convict the offender.\u201d Id., at 390 (emphasis omitted).\nAccord, Dobbert v. Florida, supra, at 292, quoting Beazell v. Ohio, 269 U. S. 167, 169-170 (1925).\nJustice Chase explained that the reason the Ex Post Facto Clauses were included in the Constitution was to assure that federal and state legislatures were restrained from enacting arbitrary or vindictive legislation. See 3 Dall., at 389. Justices Paterson and Iredell, in their separate opinions in Calder, likewise emphasized that the Clauses were aimed at preventing legislative abuses. See id., at 396 (Paterson, J.); id., at 399-400 (Iredell, J.). See also Malloy v. South Carolina, 237 U. S. 180, 183 (1915); James v. United States, 366 U. S. 213, 247, n. 3 (1961) (separate opinion of Harlan, J.). In addition, the Justices\u2019 opinions in Calder, as well as other early authorities, indicate that the Clauses were aimed at a second concern, namely, that legislative enactments \u201cgive fair warning of their effect and permit individuals to rely on their meaning until explicitly changed.\u201d Weaver v. Graham, supra, at 28-29. See Calder v. Bull, 3 Dall., at 388 (Chase, J.); id., at 396 (Paterson, J.); 1W. Blackstone, Commentaries *46. Thus, almost from the outset, we have recognized that central to the ex post facto prohibition is a concern for \u201cthe lack of fair notice and governmental restraint when the legislature increases punishment beyond what was prescribed when the crime was consummated.\u201d Weaver, 450 U. S., at 30.\nOur test for determining whether a criminal law is ex post facto derives from these principles. As was stated in Weaver, to fall within the ex post facto prohibition, two critical elements must be present: first, the law \u201cmust be retrospective, that is, it must apply to events occurring before its enactment\u201d; and second, \u201cit must disadvantage the offender affected by it.\u201d Id., at 29. We have also held in Dobbert v. Florida, supra, that no ex post facto violation occurs if a change does not alter \u201csubstantial personal rights,\u201d but merely changes \u201cmodes of procedure which do not affect matters of substance.\u201d Id., at 293. See Beazell v. Ohio, supra, at 170-171. Respondent contends that the revised sentencing law is neither impermissibly retrospective, nor to petitioner\u2019s disadvantage; respondent also contends that the revised sentencing law is merely a procedural change. We consider these claims in turn.\nA law is retrospective if it \u201cchanges the legal consequences of acts completed before its effective date.\u201d Weaver, supra, at 31. Application of the revised guidelines law in petitioner\u2019s case clearly satisfies this standard. Respondent nevertheless contends that the ex post facto concern for retrospective laws is not violated here because Florida\u2019s sentencing statute \u201con its face provides for continuous review and recommendation of changes to the guidelines. \u201d Brief for Respondent 27-28. Relying on our decision in Dobbert, respondent argues that it is sufficient that petitioner was given \u201cfair warning\u201d that he would be sentenced pursuant to the guidelines then in effect on his sentencing date. Brief for Respondent 28.\nIn our view, Dobbert provides scant support for such a pinched construction of the ex post facto prohibition. In Dobbert, the capital sentencing statute in effect at the time the murders took place later was held to be invalid. In rejecting the defendant\u2019s argument that imposition of the death penalty therefore was a change in punishment from the punishment \u201cin effect\u201d when the crimes were committed, the Court concluded that ex post facto concerns were satisfied because the statute on the books at the time Dobbert committed the crimes warned him of the specific punishment Florida prescribed for first-degree murders. See 432 U. S., at 298. Here, by contrast, the statute in effect at the time petitioner acted did not warn him that Florida prescribed a 514- to 7-year presumptive sentence for that crime. Petitioner simply was warned of the obvious fact that the sentencing guidelines law \u2014 like any other law \u2014 was subject to revision. The constitutional prohibition against ex post facto laws cannot be avoided merely by adding to a law notice that it might be changed.\nIt is \u201caxiomatic that for a law to be ex post facto it must be more onerous than the prior law.\u201d Dobbert, supra, at 294. Looking only at the change in primary offense points, the revised guidelines law clearly disadvantages petitioner and similarly situated defendants. See 451 So. 2d, at 824, n. (the purpose and effect of the change in primary offense points was to \u201cincreas[e] [the] rates and length of incarceration for sexual offenders\u201d). Considering the revised guidelines law as a whole does not change this result. Unlike Dobbert, where we found that the \u201ctotality of the procedural changes wrought by the new statute . . . did not work an onerous application of an ex post facto change,\u201d 432 U. S., at 296-297, here respondent has not been able to identify any feature of the revised guidelines law that could be considered ameliorative.\nRespondent maintains that the change in guidelines laws is not disadvantageous because petitioner \u201ccannot show definitively that he would have gotten a lesser sentence.\u201d Tr. of Oral Arg. 29. This argument, however, is foreclosed by our decision in Lindsey v. Washington, 301 U. S. 397 (1937). In Lindsey, the law in effect at the time the crime was committed provided for a maximum sentence of 15 years, and a minimum sentence of not less than six months. At the time Lindsey was sentenced, the law had been changed to provide for a mandatory 15-year sentence. Finding that retrospective application of this change was ex post facto, the Court determined that \u201cwe need not inquire whether this is technically an increase in the punishment annexed to the crime,\u201d because \u201c[i]t is plainly to the substantial disadvantage of petitioners to be deprived of all opportunity to receive a sentence which would give them freedom from custody and control prior to the expiration of the 15-year term.\u201d Id., at 401-402. Thus, Lindsey establishes \u201cthat one is not barred from challenging a change in the penal code on ex post facto grounds simply because the sentence he received under the new law was not more onerous than that which he might have received under the old.\u201d Dobbert, supra, at 300.\nPetitioner plainly has been \u201csubstantially disadvantaged\u201d by the change in sentencing laws. To impose a 7-year sentence under the old guidelines, the sentencing judge would have to depart from the presumptive sentence range of 314 to 414 years. As a result, the sentencing judge would have to provide clear and convincing reasons in writing for the departure, on facts proved beyond a reasonable doubt, and his determination would be reviewable on appeal. By contrast, because a 7-year sentence is within the presumptive range under the revised law, the trial judge did not have to provide any reasons, convincing or otherwise, for imposing the sentence, and his decision was unreviewable. Thus, even if the revised guidelines law did not \u201ctechnically . . . increase . . . the punishment annexed to [petitioner\u2019s] crime,\u201d Lindsey, supra, at 401, it foreclosed his ability to challenge the imposition of a sentence longer than his presumptive sentence under the old law. Petitioner therefore was \u201csubstantially disadvantaged\u201d by the retrospective application of the revised guidelines to his crime.\nFinally, even if a law operates to the defendant\u2019s detriment, the ex post facto prohibition does not restrict \u201clegislative control of remedies and modes of procedure which do not affect matters of substance.\u201d Dobbert, 432 U. S., at 293. Hence, no ex post facto violation occurs if the change in the law is merely procedural and does \u201cnot increase the punishment, nor change the ingredients of the offence or the ultimate facts necessary to establish guilt.\u201d Hopt v. Utah, 110 U. S. 574, 590 (1884). See Dobbert, supra, at 293-294 (\u201cThe new statute simply altered the methods employed in determining whether the death penalty was to be imposed; there was no change in the quantum of punishment attached to the crime\u201d). On the other hand, a change in the law that alters a substantial right can be ex post facto \u201ceven if the statute takes a seemingly procedural form.\u201d Weaver, 450 U. S., at 29, n. 12.\nAlthough t\u00ed\u00ede distinction between substance and procedure might sometimes prove elusive, here the change at issue appears to have little about it that could be deemed procedural. The 20% increase in points for sexual offenses in no wise alters the method to be followed in determining the appropriate sentence; it simply inserts a larger number into the same equation. The comments of the Florida Supreme Court acknowledge that the sole reason for the increase was to punish sex offenders more heavily: the amendment was intended to, and did, increase the \u201cquantum of punishment\u201d for category 2 crimes. See 451 So. 2d, at 824, n.\nRespondent objects that it is misleading to view the change in the revised guidelines apart from the sentencing scheme as a whole. Relying largely on decisions by the Courts of Appeals sustaining the United States Parole Commission\u2019s guidelines against ex post facto claims, respondent urges that the revised guidelines \u201cmerely guide and channel\u201d the sentencing judge\u2019s discretion. Brief for Respondent 35. See, e. g., Wallace v. Christensen, 802 F. 2d 1539 (CA9 1986) (en banc); Yamamoto v. United States Parole Comm\u2019n, 794 F. 2d 1295 (CA8 1986); Dufresne v. Baer, 744 F. 2d 1543 (CA11 1984), cert. denied, 474 U. S. 817 (1985); Warren v. United States Parole Comm\u2019n, 212 U. S. App. D. C. 137, 659 F. 2d 183 (1981), cert. denied, 455 U. S. 950 (1982). See also Portley v. Grossman, 444 U. S. 1311 (1980) (Rehnquist, J., in chambers). Invoking the reasoning of these cases, respondent contends that an increase in the guidelines sentence operates only as a \u201cprocedural guidepost\u201d for the exercise of discretion within the same statutorily imposed sentencing limits.\nWe find the federal parole guidelines cases inapposite. The courts that have upheld the retrospective application of federal parole guidelines have articulated several reasons why the ex post facto prohibition does not apply. The majority of these courts have held that the federal parole guidelines are not \u201claws\u201d for purposes of the Ex Post Facto Clause. See, e. g., Wallace v. Christensen, supra, at 1553-1554 (citing cases). Other courts have found that the guidelines merely rationalize the exercise of statutory discretion, and that retrospective application of the guidelines thus does not violate the Ex Post Facto Clause. See, e. g., Warren v. United States Parole Comm\u2019n, supra, at 149, 659 F. 2d, at 195; Portley v. Grossman, supra, at 1312. Finally, some of the cases have held that retrospective application of the guidelines does not result in a more onerous punishment and thus does not constitute an ex post facto violation. See, e. g., Dufresne v. Baer, supra, at 1549-1550.\nNone of the reasons given in the federal parole cases even arguably applies here. First, the revised sentencing law is a law enacted by the Florida Legislature, and it has the force and effect of law. Cf. Williams v. State, 500 So. 2d 501, 503 (Fla. 1986) (departure sentence not supported by clear and convincing reasons was erroneous even though defendant consented, because \u201ca defendant cannot . . . confer on the court the authority to impose an illegal sentence\u201d). Nor do the revised guidelines simply provide flexible \u201cguideposts\u201d for use in the exercise of discretion: instead, they create a high hurdle that must be cleared before discretion can be exercised, so that a sentencing judge may impose a departure sentence only after first finding \u201cclear and convincing reasons\u201d that are \u201ccredible,\u201d \u201cproven beyond a reasonable doubt,\u201d and \u201cnot... a factor which has already been weighed in arriving at a presumptive sentence.\u201d See State v. Mischler, 488 So. 2d, at 525; Williams v. State, 492 So. 2d 1308, 1309 (Fla. 1986). Compare S. Rep. No. 98-225, p. 38 (1983) (describing the \u201cunfettered discretion\u201d of the Parole Commission under the system of parole guidelines). Finally, the revised guidelines directly and adversely affect the sentence petitioner receives. Thus, this is not a case where we can conclude, as we did in Dobbert, that \u201c[t]he crime for which the present defendant was indicted, the punishment prescribed therefor, and the quantity or the degree of proof necessary to establish his guilt, all remained unaffected by the subsequent statute.\u201d 432 U. S., at 294.\nr \u2014 H I \u2014 I I \u2014 I\nThe law at issue in this case, like the law in Weaver, \u201cmakes more onerous the punishment for crimes committed before its enactment.\u201d Weaver, supra, at 36. Accordingly, we find that Florida\u2019s revised guidelines law, 1984 Fla. Laws, ch. 84-328, is void as applied to petitioner, whose crime occurred before the law\u2019s effective date. We reverse the judgment of the Supreme Court of Florida, and remand the case for further proceedings not inconsistent with this opinion.\nIt is so ordered.",
+        "type": "majority",
+        "author": "Justice O\u2019Connor"
+      }
+    ],
+    "attorneys": [
+      "Anthony Calvello argued the cause for petitioner. With him on the briefs were Richard L. Jorandby and Craig S. Barnard.",
+      "Joy B. Shearer, Assistant Attorney General of Florida, argued the cause for respondent. With her on the brief was Robert A. Butterworth, Attorney General."
+    ],
+    "corrections": "",
+    "head_matter": "MILLER v. FLORIDA\nNo. 86-5344.\nArgued April 21, 1987\nDecided June 9, 1987\nO\u2019CONNOR, J., delivered the opinion for a unanimous Court.\nAnthony Calvello argued the cause for petitioner. With him on the briefs were Richard L. Jorandby and Craig S. Barnard.\nJoy B. Shearer, Assistant Attorney General of Florida, argued the cause for respondent. With her on the brief was Robert A. Butterworth, Attorney General.\nGerald D. Stem and Alvin Bronstein filed a brief for the American Civil Liberties Union et al. as amici curiae urging reversal."
+  },
+  "file_name": "0423-01",
+  "first_page_order": 461,
+  "last_page_order": 474
+}

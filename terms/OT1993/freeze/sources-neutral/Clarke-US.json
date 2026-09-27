@@ -1,0 +1,2566 @@
+{
+  "id": 10537649,
+  "name": "David A. CLARKE, et al., Appellees, v. UNITED STATES of America, Appellant",
+  "name_abbreviation": "Clarke v. United States",
+  "decision_date": "1990-10-02",
+  "docket_number": "No. 88-5439",
+  "first_page": "699",
+  "last_page": "718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "915 F.2d 699"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 8770,
+    "name": "United States Court of Appeals for the District of Columbia Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "479 U.S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216314
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "364"
+        },
+        {
+          "page": "736-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0361-01"
+      ]
+    },
+    {
+      "cite": "297 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3929479
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "341"
+        },
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/297/0288-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 119",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1824
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Justice Brandeis's concurring opinion in Ashwander v. TVA, 297 U.S. 288, 341, 56 S.Ct. 466, 480, 80 L.Ed. 688 (1936)"
+        },
+        {
+          "parenthetical": "citing Justice Brandeis's concurring opinion in Ashwander v. TVA, 297 U.S. 288, 341, 56 S.Ct. 466, 480, 80 L.Ed. 688 (1936)"
+        },
+        {
+          "parenthetical": "citing Justice Brandeis's concurring opinion in Ashwander v. TVA, 297 U.S. 288, 341, 56 S.Ct. 466, 480, 80 L.Ed. 688 (1936)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0119-01"
+      ]
+    },
+    {
+      "cite": "887 F.2d 1103",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3475937,
+        10536151
+      ],
+      "pin_cites": [
+        {
+          "page": "1106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/281/0112-01",
+        "/f2d/887/1103-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28042
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0203-01"
+      ]
+    },
+    {
+      "cite": "110 S.Ct. 625",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11331349
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Brennan, J., joined by Marshall, Blackmun, and Stevens, JJ., dissenting"
+        },
+        {
+          "parenthetical": "Brennan, J., joined by Marshall, Blackmun, and Stevens, JJ., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0265-01"
+      ]
+    },
+    {
+      "cite": "878 F.2d 523",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535927
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/878/0523-01"
+      ]
+    },
+    {
+      "cite": "806 F.2d 1347",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1656131
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1355"
+        },
+        {
+          "page": "1353-54"
+        },
+        {
+          "page": "1357-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/806/1347-01"
+      ]
+    },
+    {
+      "cite": "472 F.2d 218",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1289
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/472/0218-01"
+      ]
+    },
+    {
+      "cite": "38 L.Ed.2d 43",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "vacating without explanation, 472 F.2d 218 (5th Cir.1973), and remanding to district court for vacatur of its judgment; the court of appeals had refused to vacate district court judgment on Garde-\\ik& grounds"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 S.Ct. 118",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "vacating without explanation, 472 F.2d 218 (5th Cir.1973), and remanding to district court for vacatur of its judgment; the court of appeals had refused to vacate district court judgment on Garde-\\ik& grounds"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "414 U.S. 807",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11718500,
+        11718341,
+        11718430,
+        11718389,
+        11718462
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "vacating without explanation, 472 F.2d 218 (5th Cir.1973), and remanding to district court for vacatur of its judgment; the court of appeals had refused to vacate district court judgment on Garde-\\ik& grounds"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/0807-05",
+        "/us/414/0807-01",
+        "/us/414/0807-03",
+        "/us/414/0807-02",
+        "/us/414/0807-04"
+      ]
+    },
+    {
+      "cite": "727 F.2d 1161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3794104,
+        1934482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/234/0062-01",
+        "/f2d/727/1161-01"
+      ]
+    },
+    {
+      "cite": "848 F.2d 1307",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5656690,
+        1783486
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/270/0275-01",
+        "/f2d/848/1307-01"
+      ]
+    },
+    {
+      "cite": "824 F.2d 1240",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4331153,
+        1730402
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/263/0260-01",
+        "/f2d/824/1240-01"
+      ]
+    },
+    {
+      "cite": "702 F.2d 826",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1848052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/702/0826-01"
+      ]
+    },
+    {
+      "cite": "688 F.2d 266",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1465324
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/688/0266-01"
+      ]
+    },
+    {
+      "cite": "685 F.2d 123",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        525612
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/685/0123-01"
+      ]
+    },
+    {
+      "cite": "705 F.2d 1315",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1858574
+      ],
+      "pin_cites": [
+        {
+          "page": "1316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/705/1315-01"
+      ]
+    },
+    {
+      "cite": "483 F.2d 215",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        242427
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/483/0215-01"
+      ]
+    },
+    {
+      "cite": "315 U.S. 283",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        374744
+      ],
+      "weight": 3,
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/315/0283-01"
+      ]
+    },
+    {
+      "cite": "86 L.Ed. 1190",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        374571,
+        374695
+      ],
+      "weight": 2,
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/315/0783-03",
+        "/us/315/0784-01"
+      ]
+    },
+    {
+      "cite": "62 S.Ct. 801",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 U.S. 784",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        374674,
+        374749,
+        374695
+      ],
+      "weight": 2,
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/315/0784-03",
+        "/us/315/0784-02",
+        "/us/315/0784-01"
+      ]
+    },
+    {
+      "cite": "825 F.2d 502",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4331415,
+        10546727
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/263/0365-01",
+        "/f2d/825/0502-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 5,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "40-41"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "762 F.2d 134",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        366096,
+        3597578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/762/0134-01",
+        "/us-app-dc/246/0040-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210408
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0556-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490200
+      ],
+      "weight": 3,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0725-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 283",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11305055
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "289"
+        },
+        {
+          "page": "1074-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0283-01"
+      ]
+    },
+    {
+      "cite": "242 U.S. 202",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3934320
+      ],
+      "weight": 3,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "207-08"
+        },
+        {
+          "page": "106-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/242/0202-01"
+      ]
+    },
+    {
+      "cite": "166 U.S. 290",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3592671
+      ],
+      "weight": 3,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "page": "308-09"
+        },
+        {
+          "page": "546-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/166/0290-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 147",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175396
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "149"
+        },
+        {
+          "page": "348-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0147-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306141
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "482",
+          "parenthetical": "quoting Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 348-49, 46 L.Ed.2d 350 (1975)"
+        },
+        {
+          "page": "1183",
+          "parenthetical": "quoting Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 348-49, 46 L.Ed.2d 350 (1975)"
+        },
+        {
+          "parenthetical": "quoting Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 348-49, 46 L.Ed.2d 350 (1975)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0478-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 95",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298204
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "109"
+        },
+        {
+          "page": "1669"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0095-01"
+      ]
+    },
+    {
+      "cite": "815 F.2d 1435",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        519517
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/815/1435-01"
+      ]
+    },
+    {
+      "cite": "809 F.2d 909",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1643269,
+        4329877
+      ],
+      "pin_cites": [
+        {
+          "page": "914-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/809/0909-01",
+        "/us-app-dc/258/0068-01"
+      ]
+    },
+    {
+      "cite": "47 U.S.C. \u00a7 399",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "prohibiting any noncommercial educational broadcasting station that receives federal funds from \"editorializing\" or endorsing candidates"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 U.S.C. \u00a7 158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "withholding a percentage of federal highway funds from states that do not prohibit those under 21 from buying alcohol"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 L.Ed. 1303",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1953,
+      "pin_cites": [
+        {
+          "parenthetical": "voluntary cessation exception rooted in interest in protecting plaintiff from defendant's possible \"return to his old ways\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 U.S. 629",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        372865
+      ],
+      "weight": 4,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "632",
+          "parenthetical": "voluntary cessation exception rooted in interest in protecting plaintiff from defendant's possible \"return to his old ways\""
+        },
+        {
+          "page": "897",
+          "parenthetical": "voluntary cessation exception rooted in interest in protecting plaintiff from defendant's possible \"return to his old ways\""
+        },
+        {
+          "page": "632"
+        },
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/345/0629-01"
+      ]
+    },
+    {
+      "cite": "715 F.2d 1425",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1882351
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/715/1425-01"
+      ]
+    },
+    {
+      "cite": "749 F.2d 452",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        633112
+      ],
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/749/0452-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 289",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532087
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "302",
+          "parenthetical": "pre-enforcement review of allegedly unconstitutional statute is allowable when \"fear of criminal prosecution ... is not imaginary or wholly speculative\""
+        },
+        {
+          "page": "2310-11",
+          "parenthetical": "pre-enforcement review of allegedly unconstitutional statute is allowable when \"fear of criminal prosecution ... is not imaginary or wholly speculative\""
+        },
+        {
+          "parenthetical": "pre-enforcement review of allegedly unconstitutional statute is allowable when \"fear of criminal prosecution ... is not imaginary or wholly speculative\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0289-01"
+      ]
+    },
+    {
+      "cite": "701 F.2d 653",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12142505
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "655"
+        },
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/701/0653-01"
+      ]
+    },
+    {
+      "cite": "904 F.2d 732",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539625,
+        3482158
+      ],
+      "pin_cites": [
+        {
+          "page": "739"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/0732-01",
+        "/us-app-dc/284/0276-01"
+      ]
+    },
+    {
+      "cite": "761 F.2d 640",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        29450
+      ],
+      "pin_cites": [
+        {
+          "page": "641-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/761/0640-01"
+      ]
+    },
+    {
+      "cite": "710 F.Supp. 290",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7393515
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/710/0290-01"
+      ]
+    },
+    {
+      "cite": "830 F.2d 985",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1763361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/830/0985-01"
+      ]
+    },
+    {
+      "cite": "139 F.2d 90",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3684116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/139/0090-01"
+      ]
+    },
+    {
+      "cite": "33 Stat. 1214",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "457 U.S. 624",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6192977
+      ],
+      "weight": 10,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "630"
+        },
+        {
+          "page": "2634"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "2634"
+        },
+        {
+          "page": "647-54"
+        },
+        {
+          "page": "2643-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0624-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. \u00a7\u00a7 1341",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1249",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        5088
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1253"
+        },
+        {
+          "page": "1255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0472-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 395",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9660
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "401"
+        },
+        {
+          "page": "2334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0395-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 570",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532633,
+        3480001
+      ],
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0570-01",
+        "/us-app-dc/283/0116-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 305",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601398
+      ],
+      "weight": 13,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "317"
+        },
+        {
+          "page": "600-01"
+        },
+        {
+          "page": "318-20"
+        },
+        {
+          "page": "601-02"
+        },
+        {
+          "page": "333-36"
+        },
+        {
+          "page": "609-11",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "page": "335-36",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "page": "610",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "parenthetical": "Scalia, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0305-01"
+      ]
+    },
+    {
+      "cite": "898 F.2d 161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528898,
+        3479979,
+        3480216,
+        3480621,
+        10528952,
+        10528988
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/898/0161-01",
+        "/us-app-dc/283/0147-03",
+        "/us-app-dc/283/0147-01",
+        "/us-app-dc/283/0147-02",
+        "/f2d/898/0161-02",
+        "/f2d/898/0161-03"
+      ]
+    },
+    {
+      "cite": "103 Stat. 1267",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Stat. 774",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Stat. 934",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "886 F.2d 404",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530176,
+        3474149
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "418"
+        },
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/886/0404-01",
+        "/us-app-dc/280/0387-01"
+      ]
+    },
+    {
+      "cite": "705 F.Supp. 605",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7392530
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/705/0605-01"
+      ]
+    },
+    {
+      "cite": "102 Stat. 2269",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "536 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866922
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/536/0001-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28042
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "211",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "2798-99",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/483/0203-01"
+      ]
+    },
+    {
+      "cite": "110 S.Ct. 625",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11331349
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Brennan, J., dissenting"
+        },
+        {
+          "parenthetical": "Brennan, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/493/0265-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 1042",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6288632,
+        6286884,
+        6286214,
+        6288072,
+        6288393,
+        6284970,
+        6286520,
+        6285267,
+        6287768,
+        6287225,
+        6285595,
+        6285885,
+        6287518
+      ],
+      "year": 1983,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/460/1042-13",
+        "/us/460/1042-07",
+        "/us/460/1042-05",
+        "/us/460/1042-11",
+        "/us/460/1042-12",
+        "/us/460/1042-01",
+        "/us/460/1042-06",
+        "/us/460/1042-02",
+        "/us/460/1042-10",
+        "/us/460/1042-08",
+        "/us/460/1042-03",
+        "/us/460/1042-04",
+        "/us/460/1042-09"
+      ]
+    },
+    {
+      "cite": "488 U.S. 998",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1494062,
+        1494395,
+        1494070,
+        1494550
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "dismissing appeal"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/488/0998-03",
+        "/us/488/0998-04",
+        "/us/488/0998-02",
+        "/us/488/0998-01"
+      ]
+    },
+    {
+      "cite": "435 U.S. 942",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2304,
+        2370,
+        2634,
+        2639,
+        2833,
+        2357,
+        2646,
+        2711,
+        2710,
+        2617,
+        3127,
+        2749
+      ],
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "merely denying cer-tiorari without vacating"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/435/0942-08",
+        "/us/435/0942-06",
+        "/us/435/0942-04",
+        "/us/435/0942-01",
+        "/us/435/0942-07",
+        "/us/435/0942-03",
+        "/us/435/0942-05",
+        "/us/435/0942-12",
+        "/us/435/0942-10",
+        "/us/435/0942-09",
+        "/us/435/0942-11",
+        "/us/435/0942-02"
+      ]
+    },
+    {
+      "cite": "462 U.S. 1106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206306,
+        6204738,
+        6205861,
+        6204934,
+        6204490,
+        6206072,
+        6205393,
+        6206968,
+        6206745,
+        6205148,
+        6204317,
+        6206494
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "No. 82-1428"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/462/1106-09",
+        "/us/462/1106-03",
+        "/us/462/1106-07",
+        "/us/462/1106-04",
+        "/us/462/1106-02",
+        "/us/462/1106-08",
+        "/us/462/1106-06",
+        "/us/462/1106-12",
+        "/us/462/1106-11",
+        "/us/462/1106-05",
+        "/us/462/1106-01",
+        "/us/462/1106-10"
+      ]
+    },
+    {
+      "cite": "406 U.S. 950",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6276320,
+        6276608,
+        6275273,
+        6275574,
+        6275865,
+        6276863
+      ],
+      "year": 1972,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/406/0950-04",
+        "/us/406/0950-05",
+        "/us/406/0950-01",
+        "/us/406/0950-02",
+        "/us/406/0950-03",
+        "/us/406/0950-06"
+      ]
+    },
+    {
+      "cite": "431 U.S. 911",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2178,
+        1573,
+        1861,
+        1895,
+        1718,
+        2108
+      ],
+      "year": 1977,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/431/0911-05",
+        "/us/431/0911-04",
+        "/us/431/0911-06",
+        "/us/431/0911-01",
+        "/us/431/0911-02",
+        "/us/431/0911-03"
+      ]
+    },
+    {
+      "cite": "448 U.S. 448",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787593
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "No. 78-1007"
+        },
+        {
+          "parenthetical": "No. 78-1007"
+        },
+        {
+          "parenthetical": "No. 78-1007"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/448/0448-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1332",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "No. 82-1428"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "103 S.Ct. 2452",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "No. 82-1428"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "102 Stat. 662",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1988,
+      "opinion_index": 2
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1252",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "opinion_index": 2
+    },
+    {
+      "cite": "782 F.2d 800",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1552389
+      ],
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/782/0800-01"
+      ]
+    },
+    {
+      "cite": "75 L.Ed.2d 795",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 2
+    },
+    {
+      "cite": "103 S.Ct. 1438",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 2
+    },
+    {
+      "cite": "704 F.2d 1276",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3642097,
+        1854917
+      ],
+      "pin_cites": [
+        {
+          "page": "1280"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us-app-dc/227/0147-01",
+        "/f2d/704/1276-01"
+      ]
+    },
+    {
+      "cite": "888 F.2d 230",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528086
+      ],
+      "pin_cites": [
+        {
+          "page": "233-34"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/888/0230-01"
+      ]
+    },
+    {
+      "cite": "74 L.Ed.2d 522",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "dismissing petition for writ of certiorari"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "103 S.Ct. 433",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "dismissing petition for writ of certiorari"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "459 U.S. 1025",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6473669,
+        6473578,
+        6473840,
+        6474006,
+        6473914
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "dismissing petition for writ of certiorari"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/459/1025-02",
+        "/us/459/1025-01",
+        "/us/459/1025-03",
+        "/us/459/1025-05",
+        "/us/459/1025-04"
+      ]
+    },
+    {
+      "cite": "102 L.Ed.2d 766",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "dismissing appeal"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "109 S.Ct. 632",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "dismissing appeal"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "827 F.2d 1174",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1754046
+      ],
+      "pin_cites": [
+        {
+          "page": "1179"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/827/1174-01"
+      ]
+    },
+    {
+      "cite": "32 L.Ed.2d 338",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 2
+    },
+    {
+      "cite": "92 S.Ct. 2042",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1972,
+      "opinion_index": 2
+    },
+    {
+      "cite": "463 F.2d 268",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1344361
+      ],
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/463/0268-01"
+      ]
+    },
+    {
+      "cite": "557 F.2d 126",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        951448
+      ],
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/557/0126-01"
+      ]
+    },
+    {
+      "cite": "625 F.2d 684",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1283236
+      ],
+      "pin_cites": [
+        {
+          "page": "685"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/625/0684-01"
+      ]
+    },
+    {
+      "cite": "53 L.Ed.2d 221",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1977,
+      "opinion_index": 2
+    },
+    {
+      "cite": "97 S.Ct. 2166",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1992
+      ],
+      "year": 1977,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/431/0161-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11713016
+      ],
+      "weight": 5,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "484"
+        },
+        {
+          "page": "860",
+          "parenthetical": "Blackmun, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/401/0481-01"
+      ]
+    },
+    {
+      "cite": "96 S.Ct. 579",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6176824,
+        6176716
+      ],
+      "year": 1976,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/423/0326-01",
+        "/us/423/0325-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176716
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/423/0325-01"
+      ]
+    },
+    {
+      "cite": "718 F.2d 894",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1895100
+      ],
+      "pin_cites": [
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/718/0894-01"
+      ]
+    },
+    {
+      "cite": "78 Mich.L.Rev. 946",
+      "category": "journals:journal",
+      "reporter": "Mich. L. Rev.",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "17 U.C. Davis L. Rev. 7",
+      "category": "journals:journal",
+      "reporter": "U.C. Davis L. Rev.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "59 L.Ed.2d 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 4,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "No. 78-633"
+        },
+        {
+          "parenthetical": "No. 78-633"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "99 S.Ct. 840",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "No. 78-633"
+        },
+        {
+          "parenthetical": "No. 78-633"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "439 U.S. 1070",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11444609,
+        11444482,
+        11444581,
+        11444401,
+        11444566,
+        11444441,
+        11444636,
+        11444381,
+        11444511
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "No. 78-633"
+        },
+        {
+          "parenthetical": "No. 78-633"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/439/1070-08",
+        "/us/439/1070-04",
+        "/us/439/1070-07",
+        "/us/439/1070-02",
+        "/us/439/1070-06",
+        "/us/439/1070-03",
+        "/us/439/1070-09",
+        "/us/439/1070-01",
+        "/us/439/1070-05"
+      ]
+    },
+    {
+      "cite": "55 L.Ed.2d 538",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "merely denying cer-tiorari without vacating"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "98 S.Ct. 1521",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "merely denying cer-tiorari without vacating"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        },
+        {
+          "parenthetical": "No. 77-900"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "71 L.Ed.2d 105",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "102 S.Ct. 962",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6186730
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/454/0351-01"
+      ]
+    },
+    {
+      "cite": "454 U.S. 1118",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6505024,
+        6504944,
+        6505205,
+        6505109,
+        6504856
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/454/1118-03",
+        "/us/454/1118-02",
+        "/us/454/1118-05",
+        "/us/454/1118-04",
+        "/us/454/1118-01"
+      ]
+    },
+    {
+      "cite": "74 L.Ed.2d 943",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "summarily vacating under Munsingwear"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "103 S.Ct. 712",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "summarily vacating under Munsingwear"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "459 U.S. 1095",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6507968,
+        6507905,
+        6508133,
+        6508043,
+        6508339,
+        6507863
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "summarily vacating under Munsingwear"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/459/1095-03",
+        "/us/459/1095-02",
+        "/us/459/1095-05",
+        "/us/459/1095-04",
+        "/us/459/1095-06",
+        "/us/459/1095-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601323
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "82"
+        },
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/484/0072-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1388",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 2
+    },
+    {
+      "cite": "103 S.Ct. 3537",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 2
+    },
+    {
+      "cite": "463 U.S. 1207",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214243,
+        6214819,
+        6215690,
+        6214027,
+        6215948,
+        6215437,
+        6216175,
+        6213843,
+        6215131,
+        6216445,
+        6214526
+      ],
+      "year": 1983,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/463/1207-03",
+        "/us/463/1207-05",
+        "/us/463/1207-08",
+        "/us/463/1207-02",
+        "/us/463/1207-09",
+        "/us/463/1207-07",
+        "/us/463/1207-10",
+        "/us/463/1207-01",
+        "/us/463/1207-06",
+        "/us/463/1207-11",
+        "/us/463/1207-04"
+      ]
+    },
+    {
+      "cite": "698 F.2d 1323",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1506367
+      ],
+      "pin_cites": [
+        {
+          "page": "1331"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/698/1323-01"
+      ]
+    },
+    {
+      "cite": "686 F.2d 720",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1457468
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "721"
+        },
+        {
+          "page": "721"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/686/0720-01"
+      ]
+    },
+    {
+      "cite": "898 F.2d 18",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526549
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/898/0018-01"
+      ]
+    },
+    {
+      "cite": "862 F.2d 1299",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6494344,
+        1825452
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1301-02"
+        },
+        {
+          "page": "1301-03"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/br/93/1299-01",
+        "/f2d/862/1299-01"
+      ]
+    },
+    {
+      "cite": "891 F.2d 762",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533974
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "766"
+        },
+        {
+          "page": "766, 768"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/891/0762-01"
+      ]
+    },
+    {
+      "cite": "103 Stat. 1284",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "658 F.2d 93",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        474372
+      ],
+      "weight": 6,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/658/0093-01"
+      ]
+    },
+    {
+      "cite": "806 F.2d 1347",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1656131
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "1355-56"
+        },
+        {
+          "page": "1355-56"
+        },
+        {
+          "page": "1355"
+        },
+        {
+          "page": "1356"
+        },
+        {
+          "page": "1356-57"
+        },
+        {
+          "page": "1353"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/806/1347-01"
+      ]
+    },
+    {
+      "cite": "727 F.2d 1161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3794104,
+        1934482
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1165"
+        },
+        {
+          "page": "1166"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us-app-dc/234/0062-01",
+        "/f2d/727/1161-01"
+      ]
+    },
+    {
+      "cite": "848 F.2d 1307",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5656690,
+        1783486
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "1310"
+        },
+        {
+          "page": "1310",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1311"
+        },
+        {
+          "page": "1310"
+        },
+        {
+          "page": "1311"
+        },
+        {
+          "page": "1311"
+        },
+        {
+          "page": "1311",
+          "parenthetical": "emphasizing importance of \"avoiding] any prejudice to appellees by possibly subjecting them to a relitigation of the same issues\""
+        },
+        {
+          "page": "1310",
+          "parenthetical": "declining to apply Munsingwear in case in which the losing party \"essentially settled\" by accepting less than full amount of information sought in subpoena not enforced by District Court"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us-app-dc/270/0275-01",
+        "/f2d/848/1307-01"
+      ]
+    },
+    {
+      "cite": "702 F.2d 826",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1848052
+      ],
+      "pin_cites": [
+        {
+          "page": "826-27"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/702/0826-01"
+      ]
+    },
+    {
+      "cite": "688 F.2d 266",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1465324
+      ],
+      "pin_cites": [
+        {
+          "page": "267"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/688/0266-01"
+      ]
+    },
+    {
+      "cite": "685 F.2d 123",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        525612
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/685/0123-01"
+      ]
+    },
+    {
+      "cite": "705 F.2d 1315",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1858574
+      ],
+      "pin_cites": [
+        {
+          "page": "1316"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/705/1315-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": 2
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 13,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "39"
+        },
+        {
+          "page": "106-07"
+        },
+        {
+          "page": "39"
+        },
+        {
+          "page": "106"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "page": "39"
+        },
+        {
+          "page": "106"
+        },
+        {
+          "page": "106-07"
+        },
+        {
+          "page": "40-41"
+        },
+        {
+          "page": "107",
+          "parenthetical": "noting that Court has power to review \"[d]enial of a motion to vacate\" and \"commonly\" uses its broad supervisory powers over federal courts \"to prevent a judgment, unreviewable because of mootness, from spawning any legal consequence\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "701 F.2d 653",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12142505
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "657"
+        },
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/701/0653-01"
+      ]
+    },
+    {
+      "cite": "886 F.2d 404",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530176,
+        3474149
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "408-09"
+        },
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/886/0404-01",
+        "/us-app-dc/280/0387-01"
+      ]
+    },
+    {
+      "cite": "705 F.Supp. 605",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7392530
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/705/0605-01"
+      ]
+    },
+    {
+      "cite": "102 Stat. 2269",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "536 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866922
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/536/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2614,
+    "char_count": 77427,
+    "ocr_confidence": 0.727,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2352513602144372
+    },
+    "sha256": "bbda35de3fb1a742dd29ad67f5657dca47a037461cf3d43eef21432b83203e16",
+    "simhash": "1:edf833e32a9d8666",
+    "word_count": 12625
+  },
+  "last_updated": "2024-02-27T23:42:57.637935+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WALD, Chief Judge, MIKVA, EDWARDS, RUTH BADER GINSBURG, SILBERMAN, BUCKLEY, WILLIAMS, D.H. GINSBURG, SENTELLE, THOMAS, Circuit Judges, and ROBINSON, Senior Circuit Judge."
+    ],
+    "parties": [
+      "David A. CLARKE, et al., Appellees, v. UNITED STATES of America, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion for the Court filed by Circuit Judge WILLIAMS.\nConcurring opinion filed by Circuit Judge BUCKLEY, in which Circuit Judge D.H. GINSBURG joins.\nDissenting opinion filed by Circuit Judge EDWARDS, in which Circuit Judges MIKVA and RUTH BADER GINSBURG and Senior Circuit Judge ROBINSON join.\nSTEPHEN F. WILLIAMS, Circuit Judge:\nIn Gay Rights Coalition v. Georgetown University, 536 A.2d 1, 39 (D.C.1987), the District of Columbia Court of Appeals held that the University\u2019s refusal to grant the Coalition \u201cequal access to its \u2018facilities and services\u2019 \u201d violated the District\u2019s Human Rights Act. Congress responded with \u00a7 145 of the D.C. Appropriations Act of 1989, known in this litigation and in the media as the \u201cArmstrong Amendment\u201d after its prime mover in the Senate. Pub.L. No. 100-462, \u00a7 145,102 Stat. 2269, 2269-14 (1988). Section 145(b) provided: \u201cNone of the funds appropriated by this Act shall be obligated or expended after December 31, 1988, if on that date the District of Columbia has not adopted subsection (c) of this section.\u201d Subsection (c) \u2014 the language specified for addition to the D.C.Code \u2014 in turn read: \u201c[I]t shall not be an unlawful discriminatory practice in the District of Columbia for any educational institution that is affiliated with a religious organization or closely associated with the tenets of a religious organization to deny, restrict, abridge, or condition ... the use of any fund, service, facility, or benefit; or the granting of any endorsement, approval, or recognition, to any person or persons that are organized for, or engaged in, promoting, encouraging, or condoning any homosexual act, lifestyle, orientation, or belief.\u201d\nInstead of enacting the language, the members of the D.C. Council sued for in-junctive and declaratory relief against enforcement of the funding condition. The district court found that the condition violated their First Amendment rights by coercing them to speak against their wills, and issued a declaratory judgment. Clarke v. United States, 705 F.Supp. 605 (D.D.C.1988). Having given plaintiffs relief on that claim, the court did not reach their other theories. The government appealed, and a panel of this circuit upheld the district court on September 26, 1989. Clarke v. United States, 886 F.2d 404 (D.C.Cir.1989).\nAlthough the 1989 Appropriations Act was due to expire September 30, 1989, four days after the panel decision, the Act was extended several times as the 1990 Appropriations Act wound its way through Congress. The last extension expired on November 20, 1989, Pub.L. No. 101-154, 103 Stat. 934 (1989), and the 1990 Act became law when the President signed it the next day. Congressional Index, 101st Cong. (1989-90) (CCH) at 35,050 (H.R. 3746). The new act did not contain a funding condition; instead, Congress used its power under the District of Columbia Self-Government and Governmental Reorganization Act, Pub.L. No. 93-198, \u00a7 601, 87 Stat. 774 (1973), to amend the D.C.Code directly, bypassing the D.C. Council. District of Columbia Appropriations Act, 1990, Pub.L. No. 101-168, \u00a7 141, 103 Stat. 1267, 1284 (1989).\nIn the meantime, the United States had filed a petition for rehearing and suggestion for rehearing en banc. Once the last extension expired and the 1990 Act became law, it filed a motion suggesting that the case was moot and that the panel decision be vacated. On December 15, 1989, both the panel and the full court declined to rehear the case on the merits, but withheld the mandate. Clarke v. United States, 898 F.2d 161 (D.C.Cir.1989). The panel denied the proposed vacatur for mootness, but the full court ordered the mootness issue heard en banc.\nWe now decide that the issue was moot after the expiration of the last extension of the 1989 Act, and that the proper remedy is vacatur of the panel opinion and a remand to the district court with instructions to vacate its opinion and to dismiss the relevant count of the complaint as moot.\nI. Mootness\nA. Without regard to the doctrine\u2019s exceptions.\nThe mootness doctrine, deriving from Article III, limits federal courts to deciding \u201cactual, ongoing controversies.\u2019 Honig v. Doe, 484 U.S. 305, 317, 108 S.Ct. 592, 600-01, 98 L.Ed.2d 686 (1988). Even where litigation poses a live controversy when filed, the doctrine requires a federal court to refrain from deciding it if \u201cevents have so transpired that the decision will neither presently affect the parties\u2019 rights nor have a more-than-speculative chance of affecting them in the future.\u201d Transwesern Pipeline Co. v. FERC, 897 F.2d 570, 575 (D.C.Cir.1990); see also Preiser v. Newkirk, 422 U.S. 395, 401, 95 S.Ct. 2330, 2334, 45 L.Ed.2d 272 (1975). This limitation \u201csubsists through all stages of federal judicial proceedings, trial and appellate.\u201d Lewis v. Continental Bank Corp., \u2014 U.S. -, 110 S.Ct. 1249, 1253, 108 L.Ed.2d 400 (1990).\nAppellees do not claim that the Armstrong Amendment has had any residual effect on their First Amendment rights since it was superseded by the 1990 Appropriations Act. The 1989 Act appropriated funds \u201cfor the District of Columbia for the fiscal year ending September 30, 1989,\u201d Pub.L. No. 100-462, 102 Stat. at 2269, and \u00a7 108 of the 1989 Act pinned down its automatic expiration with an explicit statement that \u201c[n]o part of any appropriation contained in this Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.\u201d Pub.L. No. 100-462, \u00a7 108, 102 Stat. at 2269-8. After the 1989 Act\u2019s last extension expired, the Armstrong Amendment\u2019s funding condition ceased to have any effect.\nAppellees argue, however, that the case is not moot because vacating the district court's declaratory judgment would leave open the \u201cformal possibility of prosecution\u201d under the Anti-Deficiency Act, which forbids \u201cknowingly and willfully\u201d expending government funds without authorization from Congress. Brief for Appellees at 39-40; see 31 U.S.C. \u00a7\u00a7 1341(a), 1342 & 1350 (1988). They rely primarily on Edgar v. MITE Corp., 457 U.S. 624, 102 S.Ct. 2629, 73 L.Ed.2d 269 (1982), in which the Court found that the possibility of \u201ccivil and criminal liability\u201d saved the case from mootness. Id. at 630, 102 S.Ct. at 2634. The plaintiff corporation had made a tender offer in disregard of Illinois\u2019s anti-takeover law and secured an injunction against the law\u2019s enforcement, but it later withdrew the offer. The Secretary of State of Illinois, who was charged with enforcing the Illinois act, had represented to the court of appeals that he \u201cintend[ed] to enforce the Act against MITE.\u201d Id.\nHere, by contrast, there is no such threat. Quite the opposite: the government at oral argument not only stated that \u201cno one has ever suggested that there would be [a prosecution],\u201d but also conceded \u201cformally for the record that the existence of a judgment during that time would be a complete and adequate defense to any prosecution.\u201d\nThe concession gives formality to the obvious \u2014 the nonviability of any such prosecution. Our research has failed to turn up a single prosecution under the Anti-Deficiency Act in its entire existence since 1905. 33 Stat. 1214, 1257-58, ch. 1484, \u00a7 4 (1905). Moreover, the appellees would have at least two strong legal arguments should some future prosecutor try to dust it off. First, the district court\u2019s decision (and the panel affirmance) would raise a serious question whether appellees had the state of mind necessary for a violation. Second, although the MITE majority declined to resolve whether a later-vacated federal injunction would protect MITE from a state prosecution, 457 U.S. at 630, 102 S.Ct. at 2634, and Justice Stevens concluded that it could not, id. at 647-54, 102 S.Ct. at 2643-47, no federalism concerns would prevent an immunizing effect in the present case. Indeed, the few circuits faced with the question have held that a federal judgment, later reversed or found erroneous, is a defense to a federal prosecution for acts committed while the judgment was in effect. Thus in United States v. Mancuso, 139 F.2d 90 (3rd Cir.1943), the court held that a draftee who did not report for duty because a district court had enjoined enforcement of his induction order could not be prosecuted for failing to appear \u2014 despite the injunction\u2019s having been issued erroneously. And in United States v. Albertini, 830 F.2d 985 (9th Cir.1987), the court reversed a criminal conviction for acts taken in conformity with a decision of its own that was later reversed by the Supreme Court. See also United States v. Brady, 710 F.Supp. 290 (D.Colo.1989); compare United States v. Bruscantini, 761 F.2d 640, 641-42 (11th Cir.1985) (rejecting argument that reliance on stated opinion of state judge and state prosecutor was a defense to federal charge).\nOf course we cannot say that the risk of an attempted prosecution is zero. Later government representatives might try to persuade a court to distinguish Mancuso or to reject it. They might also believe that the government\u2019s present representation created no estoppel, and conceivably a court would agree. But see IB Moore\u2019s Federal Practice \u00b6 0.405[8] at 239-40 (1988); Farmland Indus., Inc. v. Grain Bd. of Iraq, 904 F.2d 732, 739 (D.C.Cir.1990). But zero risk is not the test. Any assessment of the possible side effects of a case \u201creally should be painted in shades of gray, since few controversies are wholly beyond the power of changed circumstances to revive.\u201d Commodity Futures Trading Comm\u2019n v. Bd. of Trade, 701 F.2d 653, 655 (7th Cir.1983); see also Wright, Miller & Cooper, Federal Practice and Procedure \u00a7 3533.3 at 273-74 (1984) (framing issue as whether \u201cthe prospect of future effects is too remote to justify decision\u201d); compare Babbitt v. United Farm Workers Nat\u2019l Union, 442 U.S. 289, 302, 99 S.Ct. 2301, 2310-11, 60 L.Ed.2d 895 (1979) (pre-enforcement review of allegedly unconstitutional statute is allowable when \u201cfear of criminal prosecution ... is not imaginary or wholly speculative\u201d). The government\u2019s formal representation, and its stipulation as to the exonerating effect of the district court judgment, seem to us enough to overcome the \u201cformal\u201d \u2014 and realistically quite remote \u2014 possibility of prosecution.\nWhile an explicit assertion of intent to prosecute can preserve a conflict\u2019s vitality, see MITE, and the risk may be great enough where the record on intent to prosecute is a blank, Charles v. Daley, 749 F.2d 452, 457 (7th Cir.1984) (amendment of criminal statute does not render challenge moot where defendants \u201coffered no evidence to rebut [the] possibility of prosecution\u201d for violations committed while deleted language was in effect), we have found no case where a court has found that the possibility of prosecution kept a controversy alive in the face of the government\u2019s formal legal concession of the existence of a complete defense. The closest is Mesa Petroleum Co. v. Cities Service Co., 715 F.2d 1425 (10th Cir.1983), where the court said that a prosecutor\u2019s \u201cabsence of ... intent\u201d to prosecute provided \u201ctoo slender a reed on which to rest our decision as to whether a live controversy is presented.\u201d Id. at 1431. In fact the officer charged with the enforcement of the act had simply told the court he had no current plans to prosecute. Before the district court, the agency had said that \u201cstate law is determinative of [its] enforcement intentions,\u201d id., language that may well have seemed a deliberate equivocation. These quibblings are a far cry from the government\u2019s representation and concession here.\nAll told, then, appellees\u2019 proclaimed fear of prosecution under the Anti-Deficiency Act is far too speculative to keep the case alive.\nB. Exceptions to Mootness.\nAppellees argue that even if the case is superficially moot, it falls within two exceptions to the doctrine \u2014 the common one for \u201cactions capable of repetition yet evading review,\u201d and the related but narrower one addressing a defendant\u2019s voluntary cessation of the offending conduct. Both exceptions involve instances where, despite the apparent demise of the controversy, its resolution has a reasonable chance of affecting the parties\u2019 future relations.\nCommon to both exceptions is the task of defining the wrong that the defendant is alleged to have inflicted. What is the injury that is capable of repetition, and what are the \u201cold ways\u201d to which the voluntarily ceasing defendant might return? See United States v. W.T. Grant Co., 345 U.S. 629, 632, 73 S.Ct. 894, 897, 97 L.Ed. 1303 (1953) (voluntary cessation exception rooted in interest in protecting plaintiff from defendant\u2019s possible \u201creturn to his old ways\u201d). The opportunities for manipulation are great. The more broadly we define the wrongful conduct, the more numerous are the possible examples, and the greater the likelihood of repetition. Of course there are practical limits. As the defined injury is broadened, it is likely to sweep up actions that last a long time and thus do not evade review. Here, for example, if we defined the alleged wrong as conditioning funding upon legislators\u2019 performance of the expressive conduct inherent in legislation, the action would by no means evade review, as Congress often embeds such conditions in permanent legislation. See, e.g., 23 U.S.C. \u00a7 158 (1988) (withholding a percentage of federal highway funds from states that do not prohibit those under 21 from buying alcohol); 47 U.S.C. \u00a7 399 (1982) (prohibiting any noncommercial educational broadcasting station that receives federal funds from \u201ceditorializing\u201d or endorsing candidates).\nThe United States would define the alleged injury as congressional use of funding to induce appellees to enact specific language allowing religiously affiliated institutions to discriminate against homosexuals. But facts completely irrelevant to any intelligible formulation of plaintiffs\u2019 claim \u2014 such as the specific issue on which Congress sought to induce plaintiffs\u2019 votes \u2014 are equally irrelevant to the mootness issue. See Amalgamated Transit Union, AFL-CIO v. Brock, 809 F.2d 909, 914-15 (D.C.Cir.1987).\nIn their brief opposing mootness, appel-lees appear to wobble in their notion of the injury. At one point they frame the issue as \u201cwhether Congress can coerce the Council Members\u2019 votes by withholding appropriated funds,\u201d Brief for Appellees at 31, while elsewhere they speak of Congress\u2019s \u201cattempt[ing] to coerce the Council Members into voting to adopt a prescribed law,\u201d id. at 24 (emphasis added), thus seeming to echo their complaint\u2019s focus on Congress\u2019s insistence on enactment of specific language. In any event, where plaintiffs are resisting a mootness claim we think they must be estopped to assert a broader notion of their injury than the one on which they originally sought relief. Cf. Tallahassee Memorial Regional Med. Ctr. v. Bowen, 815 F.2d 1435, 1449-50 & n. 28 (11th Cir.1987) (looking to complaint to determine scope of plaintiff\u2019s alleged injury).\nHere the plaintiffs never sought a broad invalidation of conditioned funding generally. Indeed, they made no claim at all against the other provisions in the 1989 Act that conditioned funds on District legislation but refrained from demanding specific language. See, e.g., Pub.L. No. 100-462, \u00a7 141, 102 Stat. at 2269-13 (conditioning expenditure of funds on the D.C. government's implementing \u201ca preference system that does not preclude the hiring of noncity residents\u201d); id., \u00a7 143, 102 Stat. at 2269-13 (conditioning all funds on the District\u2019s repealing an existing law prohibiting testing for AIDS as.a condition of acquiring insurance, and passing another to allow for such testing); id., Federal Payment to the District of Columbia, 102 Stat. at 2269 (conditioning $430 million on the District\u2019s maintaining a police force of at least 3880 officers).\nInstead, appellees attacked the Armstrong Amendment as violating their First Amendment rights by conditioning funds on their enactment of particular language. Count III of the Complaint, the one relevant, here, is titled \u201cViolation of the Free Speech Clause of the First Amendment by Coercing Particular Speech by the Members of the Council.\u201d Joint Appendix 32 (emphasis added). It goes on to argue that \u201c[t]he Armstrong Amendment coerces plaintiffs to propose and to vote in favor of amending the D.C. Human Rights Act, using the particular language dictated by Congress.\u201d Id. at If 61 (emphasis added); see also id. at \u00b6 62 (\u201cA law compelling particular speech, especially particular political speech, is presumptively invalid....\u201d).\nIt may well be appropriate to narrow the injury or conduct still further, by reference to (1) the especially coercive character of Congress\u2019s having conditioned all District appropriations on enactment of the required legislation, and (2) the gratuitous character of its use of conditioned funding to do something it could easily have done by direct exercise of its plenary power over the District. Count III speaks of the Armstrong Amendment\u2019s having \u201ccoerced\u201d the plaintiffs into adopting the specified legislation, id., and earlier argues that by \u201cthreatening to freeze all District expenditures, the Armstrong Amendment coerces\u201d plaintiffs\u2019 votes, id. at 1133; so perhaps Count III used \u201ccoercion]\u201d in that very specific sense. Also, Count III explicitly says that Congress failed to \u201cproceed in a manner designed to constitute the least possible interference with free speech,\u201d id. at \u00b6 62, seemingly invoking Congress's alternative option. We need not resolve whether these were essential to plaintiffs\u2019 original theory of their claim, however, as we find below that even the injurious act as more broadly conceived \u2014 conditioning funding on enactment of legislation in specific language \u2014 is not \u201ccapable of repetition yet evading review\u201d and cannot properly be characterized as conduct that the defendants have voluntarily ceased.\nCapable of repetition, yet evading review. In order to fit the case into one of the \u201cexceptional situations\u201d to which this doctrine applies, see Continental Bank, 110 S.Ct. at 1255 (quoting Los Angeles v. Lyons, 461 U.S. 95, 109, 103 S.Ct. 1660, 1669, 75 L.Ed.2d 675 (1983)), appellees must demonstrate that \u201c(1) the challenged action is in its duration too short to be fully litigated prior to its cessation or expiration, and (2) there [is] a reasonable expectation that the same complaining party would be subjected to the same action again.\u201d Murphy v. Hunt, 455 U.S. 478, 482, 102 S.Ct. 1181, 1183, 71 L.Ed.2d 353 (1982) (quoting Weinstein v. Bradford, 423 U.S. 147, 149, 96 S.Ct. 347, 348-49, 46 L.Ed.2d 350 (1975)); see also Honig v. Doe, 484 U.S. 305, 318-20, 108 S.Ct. 592, 601-02, 98 L.Ed.2d 686 (1988). Whatever the precise meaning of \u201creasonable expectation,\u201d compare Honig, 484 U.S. at 318-19 n. 6, 108 S.Ct. at 601-02 n. 6 (1988) (opinion of Brennan, J., for the Court), with id. at 333-36, 108 S.Ct. at 609-11 (Scalia, J., dissenting), appellees have not shown it.\nIn estimating the likelihood of an event\u2019s occurring in the future, a natural starting point is how often it has occurred in the past. Here, the Armstrong Amendment represents the sole occasion on which Congress has used conditioned funding to induce the D.C. Council (or any other government, so far as appears) to enact particular language into law. The amendment thus was, as a member of this court put it at oral argument, a purple cow. We have no reason at all to expect to see one ever again, especially as Congress is free to avoid problems of the present sort by-amending the D.C.Code directly.\nIt is true that Senator Armstrong stated at one point that he was \u201ctempted to simply offer the same amendment again.\u201d 135 Cong.Rec. S11104 (daily ed. Sept. 14, 1989). The resisted temptations of one senator, however, even if expressed on the floor of Congress, are hardly a good barometer of the likelihood of a congressional repeat.\nFurther, even if Congress were again to try to induce enactment of precisely worded legislation by means of conditioned funding, the effort would not necessarily evade review, or even be especially likely to do so. Congress often embeds a conditioned funding mechanism in permanent law. See p. 703 above. There is no reason to think that conditions exacting particular language are systematically linked with short-lived appropriations; with only one instance, there is no way to generalize.\nVoluntary cessation. Early cases developing the exception for a defendant\u2019s voluntary cessation focused on preventing a private defendant from manipulating the judicial process by voluntarily ceasing the complained of activity, and then seeking a dismissal of the case, thus securing freedom to \u201creturn to his old ways.\u201d See, e.g., W.T. Grant, 345 U.S. at 632, 73 S.Ct. at 897; United States v. Trans-Missouri Freight Ass\u2019n, 166 U.S. 290, 308-09, 17 S.Ct. 540, 546-47, 41 L.Ed. 1007 (1897); cf. Goshen Mfg. Co. v. Hubert A. Myers Mfg. Co., 242 U.S. 202, 207-08, 37 S.Ct. 105, 106-07, 61 L.Ed. 248 (1916). See also Wright, Miller & Cooper, Federal Practice and Procedure, \u00a7 3533.5 at 326 (1984). Even assuming Congress could properly be classified as a defendant in this action (which we doubt), the argument fails.\nAlthough the doctrine has more recently been applied to legislative bodies, see, e.g., City of Mesquite v. Aladdin\u2019s Castle, Inc., 455 U.S. 283, 289, 102 S.Ct. 1070, 1074-75, 71 L.Ed.2d 152 (1982); Quern v. Mandley, 436 U.S. 725, 733-34 n. 7, 98 S.Ct. 2068, 2074 n. 7, 56 L.Ed.2d 658 (1978), appellees point to no case applying the doctrine to Congress, and we have found none. We have serious doubts whether it could be. At least in the absence of overwhelming evidence (and perhaps not then), it would seem inappropriate for the courts either to impute such manipulative conduct to a coordinate branch of government, or to apply against that branch a doctrine that appears to rest on the likelihood of a manipulative purpose.\nAlthough the Supreme Court seems not to have addressed the issue, we think it telling that it failed even to mention voluntary cessation in a case where, if it encompassed Congress, the doctrine would be highly relevant. In Department of Treasury v. Galioto, 477 U.S. 556, 106 S.Ct. 2683, 91 L.Ed.2d 459 (1986), the Court dismissed as moot a challenge to statutes effectively denying anyone who had been committed to a mental institution access to firearms. While the case was pending before the Supreme Court, Congress amended the law to provide an administrative remedy for those affected. There, as in Quern and City of Mesquite, Congress was free to \u201creturn to its old ways\u201d when the action was dismissed.\nWe need not decide the issue, however, for we find that non-reenactment of a onetime condition that expired of its own terms cannot be viewed as cessation of conduct. In every case applying the voluntary cessation doctrine, the decision to stop the disputed activity was made while the litigation was pending, by, for example, altering an ordinance, City of Mesquite, withdrawing from a federal program, Quern, or resigning from boards of competing companies, W.T. Grant. Here, the expiration date of the 1989 Act was set well before this dispute arose, and was chosen for reasons having nothing to do with the Armstrong Amendment. (Nor, of course, did the brief extensions of the 1989 Act arise from the amendment or its litigation.) In essence, Congress shot an arrow into the air, and it fell to earth. It stretches the words beyond recognition to say that Congress \u201cvoluntarily ceased\u201d anything merely because it refrained from shooting some more arrows after the first landed. More important, extension of the doctrine to this case would not fit its basic theory. While the cessation of an ongoing activity pending a lawsuit may well imply an intent to renew the activity once the court has dropped out, this is hardly true of Congress\u2019s allowing a one-time provision to pass into history by its own terms.\nAppellees make much of a claim that Congress\u2019s non-renewal of the Armstrong Amendment was moved by a purpose to evade judicial review. We will assume ar-guendo that such a purpose played a significant role in the decision. But as Congress possesses an indisputably valid procedure for achieving its substantive purposes (namely, direct amendment of the D.C. Code), its nonrenewal of the disputed procedure hardly suggests either the manipulative purpose, or the risk of recurrence, that drives the voluntary cessation exception. Cf. Flynt v. Weinberger, 762 F.2d 134, 135 n. 1 (D.C.Cir.1985) (declining to apply voluntary cessation doctrine where \u201cthe challenged act is short-term in nature and discontinued after having achieved its objective\u201d).\nII. Remedy\nHaving determined that the case is moot, we must still decide whether it is appropriate to vacate the panel opinion and remand to the district court with instructions to dismiss Count III of the complaint. We find that it is.\nIn United States v. Munsingwear, 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950), the Court noted that the \u201cestablished practice of the Court in dealing with a civil case from a court in the federal system which has become moot while on its way here or pending our decision on the merits is to reverse or vacate the judgment below and remand with a direction to dismiss.\u201d Id. at 39 & n. 2, 71 S.Ct. at 106-07 & n. 2 (collecting cases); see also City of Mesquite, 455 U.S. at 288 n. 9, 102 S.Ct. at 1074 n. 9. Federal courts of appeals have followed suit, vacating district court decisions that became moot before the court of appeals\u2019 own disposition. See, e.g., Matson Navigation Co. v. United States, 825 F.2d 502 (D.C.Cir.1987).\nThe Supreme Court has also vacated its own decision when a case became moot after the decision issued but before its disposition of a petition for rehearing. Stewart v. Southern Ry. Co., 315 U.S. 784, 62 S.Ct. 801, 86 L.Ed. 1190, vacating as moot 315 U.S. 283, 62 S.Ct. 616, 86 L.Ed. 849 (1942). Again the courts of appeals have pursued a parallel course. Thus in United States v. Caraway, 483 F.2d 215 (5th Cir.1973), the court en banc vacated a panel decision because the case had become moot after the panel opinion issued but \u201cprior to the issuance of the mandate of this court and prior to the sua sponte determination to consider the appeal en banc.\u201d Id. at 216. Similarly, in In re Ghandtchi, 705 F.2d 1315, 1316 (11th Cir.1983), a panel vacated its decision when the case became moot after the opinion issued, but before the time limit for seeking en banc ran or the mandate issued, and in United States v. Miller, 685 F.2d 123 (5th Cir. Unit B 1982), a panel vacated its opinion on learning \u201c[bjefore issuance of the mandate\u201d that the case had become moot. In addition, panels vacate their decisions on learning that the case became moot before issuance. Ruiz v. Estelle, 688 F.2d 266 (5th Cir.1982) (partial vacatur, limited to issue parties had settled); Bumpus v. Clark, 702 F.2d 826 (9th Cir.1983). Wright, Miller and Cooper go further. They argue that because the Supreme Court conventionally grants cer-tiorari on moot cases, and vacates and remands with instructions to dismiss, it is \u201cappropriate for a court of appeals to vacate its own judgment if it is made aware of events that moot the case during the time available to seek certiorari.\u201d Federal Practice and Procedure \u00a7 3533.10 at 435.\nAs this case became moot on November 20, 1989 with the lapse of the 1989 Appropriations Act, and there was on that date no disposition of the suggestion for en banc review and no issuance of the mandate, the standard practice of both the Supreme Court and the courts of appeals calls for automatic vacatur.\nThe present case presents, however, a curiosity, in that the court\u2019s decision of December 15, 1989 not to rehear the merits en banc could be viewed as removing the prime reason for vacatur \u2014 to protect the losing party from the collateral effects of a judgment that it might have been able to have overturned but for the mooting event. Munsingwear, 340 U.S. at 40-41, 71 S.Ct. at 107.\nBut this sequence does not affect the matter. As the court can dis-ew banc a case that it has ordered heard en banc, see Bartlett v. Bowen, 824 F.2d 1240 (D.C.Cir.1987), it presumably retains the power to reverse a denial of en banc review until the issuance of the mandate. Indeed, in rejecting the call for rehearing en banc, the court explicitly withheld issuance of the mandate \u201cpending disposition by the en banc Court of appellant\u2019s Suggestion of Mootness and Motion to Vacate.\u201d Clarke v. United States, 898 F.2d 161 (D.C.Cir.1989). At a minimum, our withholding of the mandate must insulate the mootness and vacatur issues from the merits vote; the outcome on the merits cannot moot the mootness.\nAppellees suggest two reasons not to vacate: first, that vacatur of a decision that becomes moot after issuance is inappropriate where mootness results from a deliberate act of the losing party rather than \u201cby happenstance\u201d; second, that vaca-tur of a decision moot after issuance is discretionary, not mandatory, and that our discretion should be exercised against vaca-tur. We can resolve these claims without trying to speak definitively to the scope of the first or the soundness of the second. The first is inapplicable; and to the extent the issue is discretionary, we believe the context argues for vacatur.\nIn United States v. Garde, 848 F.2d 1307 (D.C.Cir.1988), we declined to vacate under Munsingwear where a government agency appealed a district court decision, and then complied with its requirements and applied for its vacatur. We reasoned that a practice of vacatur on these facts would encourage litigants who were dissatisfied with a result to wipe out its precedential and preclusion effects by compliance, and would be unfair to winners in the district court by cheating them of some of the fruits of their victory. See also Center for Science in the Public Interest v. Regan, 727 F.2d 1161 (D.C.Cir.1984); but see Board of Regents v. New Left Project, 414 U.S. 807, 94 S.Ct. 118, 38 L.Ed.2d 43 (1973) (vacating without explanation, 472 F.2d 218 (5th Cir.1973), and remanding to district court for vacatur of its judgment; the court of appeals had refused to vacate district court judgment on Garde-\\ik& grounds).\nSome commentators have argued that courts can better address these concerns in determining whether the voluntary cessation of conduct by the defendant has caused the case to become moot in the first place. See Wright, Miller & Cooper, Federal Practice and Procedure \u00a7 3533.10 at 430-31 (1984). Whatever the merits of that view, it exposes the point that these cases are only applying a milder version of the voluntary cessation doctrine: the case is not live enough for adjudication on the merits, but because of fears of manipulation by the losing party the court denies it the benefit of vacatur. See Commodity Futures Trading Comm\u2019n v. Board of Trade, 701 F.2d 653, 657 (7th Cir.1983) (noting the link). For the reasons developed at pp. 705-06, however, no version of the voluntary cessation doctrine is applicable here. Even if Congress were the defendant, its non-reenactment of a one-time provision that expired pursuant to its own terms \u2014 terms adopted in advance of any litigation and with no anticipation of its arising \u2014 cannot be considered voluntary cessation or \u201ccompliance\u201d with the panel decision.\nTwo recent decisions have suggested that where a court of appeals decision is mooted after issuance, the decision to vacate should be discretionary. Armster v. United States Dist. Court, 806 F.2d 1347, 1355 (9th Cir.1986) (although finding the case not moot, id. at 1353-54, and subject to one of the exceptions to mootness, id. at 1357-61, court argues that where mootness follows decision vacatur is within court\u2019s discretion); Commodity Futures Trading Comm\u2019n (focusing exclusively on issue preclusion effects, court declines to vacate district court decision or appellate decision issued before mooting event).\nWhatever the merits of this view \u2014 which would appear to represent a change from Stewart v. Southern Ry. Co., 315 U.S. 784, 62 S.Ct. 801, 86 L.Ed. 1190 (1942) \u2014 the judges of the majority who believe it correct also believe that on the present facts vacatur is appropriate for both our and the district court decisions.\nAny decision granting the plaintiffs relief on their First Amendment theory, no matter how narrowly confined (e.g., limited to cases conditioning 100% of funds available to the governing entity \u2014 including those from sources other than the federal government \u2014 and requiring enactment of specific language), would carry broad implications. Except for Miller v. Town of Hull, 878 F.2d 523 (1st Cir.1989), the panel opinion is the sole court of appeals decision finding legislators\u2019 votes subject to conventional First Amendment analysis. Cf. Spallone v. United States, \u2014 U.S. -, 110 S.Ct. 625, 646 n. 12, 107 L.Ed.2d 644 (1990) (Brennan, J., joined by Marshall, Blackmun, and Stevens, JJ., dissenting) (characterizing as \u201cunpersuasive\u201d the argument that legislative voting is speech protected by the First Amendment; \u201c[wjhile the act of publicly voting on legislation arguably contains a communicative element, the act is quintessential^ one of governance\u201d; the majority did not reach the issue.); Clarke v. United States, 886 F.2d 404, 418 (D.C.Cir.1989) (Buckley, J., concurring) (describing issue as \u201can important case of first impression\u201d). Its shadow would fall on all the myriad conditioned funding provisions used by Congress (see, e.g., South Dakota v. Dole, 483 U.S. 203, 107 S.Ct. 2793, 97 L.Ed.2d 171 (1987)) and by state or local governments.\nVacatur appears particularly appropriate where retention of the precedent creates a gratuitous conflict with a co-equal branch of government. In Matter of City of El Paso, Texas, 887 F.2d 1103, 1106 (D.C.Cir.1989), though by no means suggesting that vacatur for mootness was discretionary, we emphasized the avoidance of constitutional questions as one of the bases for vacatur. Similarly, in a context where the Supreme Court has explicitly regarded its application of the mootness doctrine as discretionary\u2014 where the mootness applies only to named members of a plaintiff class \u2014 it has viewed the constitutional character of the decision as compelling vacatur. Kremens v. Bartley, 431 U.S. 119, 133-34 & n. 15, 97 S.Ct. 1709, 1717 & n. 15, 52 L.Ed.2d 184 (1977) (citing Justice Brandeis\u2019s concurring opinion in Ashwander v. TVA, 297 U.S. 288, 341, 56 S.Ct. 466, 480, 80 L.Ed. 688 (1936)). The point is equally applicable here.\nAppellees suggest that the government here is in some kind of logical bind: if the issue is not \u201ccapable of repetition yet evading review,\u201d they suggest, then preserving the decision can have no impact. Of course the argument ignores the core of the adjudicatory process, reasoning by analogy. As Judge Buckley noted in his concurrence, \u201cwe may have opened the door to more litigation than we can now appreciate.\u201d Clarke, 886 F.2d at 418. It being unnecessary to open the door at all on the present facts, we return it to its pre-existing condition, neither open nor shut. The decision of the panel is vacated, and case is remanded to the district court to vacate its decision and to dismiss Count III of the complaint as moot.\nSo ordered.\n. Appellees have not pointed to any funds covered by \u00a7 108\u2019s reference to express exceptions that remained unexpended at the time the 1990 Act became law; it seems probable that if any existed the 1990 Act superseded the authority of the 1989 one.\n. Justices Marshall and Brennan concluded that the case was moot, because the federal decision would defeat any attempted state prosecution. Id. at 655-64, 102 S.Ct. at 2647-52 (Marshall, J., dissenting). While they stated that federal courts had the power to issue a more limited injunction, one \u201csubject to the condition that if the statute is later found to be valid, the State is free to seek penalties for violations that occurred during the period the injunction was in effect,\u201d id. at 656, 102 S.Ct. at 2648, they asserted a power in the federal courts to issue injunctions providing permanent protection, and would have presumed that any ambiguous injunction did so, id. at 657-58, 102 S.Ct. at 2648-49.\n. But cf. Burke v. Barnes, 479 U.S. 361, 364, 107 S.Ct. 734, 736-37, 93 L.Ed.2d 732 (1987) (rejecting argument that possibility of action to recover funds allegedly spent in violation of Anti-Deficiency Act saves a case from being moot, stating that \u201d[t]here is no indication of a presently existing dispute as to the accounting obligations, and if such a dispute were to arise it would not be between the parties to this case.\u201d).\n. It may be that the requirement of probable recurrence between the same parties is dropped where it is likely that the issue will recur between the defendant and others without ever reaching the Supreme Court. See Honig v. Doe, 484 U.S. 305, 335-36, 108 S.Ct. 592, 610, 98 L.Ed.2d 686 (1988) (Scalia, J., dissenting).\n. Thus the cases talk variously of either the issuance of the mandate, or of the filing (or disposition) of an application for rehearing, as the moment that brings to an end the duty to vacate a decision for prior mootness. Of course normally these run close together; under Rule 41(a) of the Federal Rules of Appellate Procedure the filing of a petition for rehearing stays the mandate automatically.",
+        "type": "majority",
+        "author": "STEPHEN F. WILLIAMS, Circuit Judge:"
+      },
+      {
+        "text": "BUCKLEY, Circuit Judge,\nwith whom D.H. GINSBURG, Circuit Judge, joins, concurring:\nI agree with all but one aspect of the court\u2019s excellent opinion, namely, its characterization of the wrong that Congress is alleged to have inflicted on the members of the District of Columbia Council. Because it ignores the critical element of their complaint, the court\u2019s \u201ccapable of repetition\u201d analysis is less convincing than it might be.\nThe court has defined the alleged wrong as the violation of the Councilors\u2019 First Amendment rights \u201cby conditioning funds on their enactment of particular language.\u201d Court Op. at 704 (emphasis in original). While it is true that Count III of the Complaint refers to the fact that the Armstrong Amendment conditioned funding on the District\u2019s adoption of \u201cparticular speech,\u201d the court\u2019s formulation overlooks the essence of the alleged wrong, which is Congress\u2019s use of draconian conditions to compel it to do so:\nThe Armstrong Amendment coerces plaintiffs to propose and to vote in favor of amending the D.C. Human Rights Act, using the particular language dictated by Congress, ... by threatening to freeze all District expenditures on January 1, 1989 unless the plaintiffs have proposed and voted for that Amendment.\nComplaint at Count III, para. 61 (emphasis added).\nThe basis for the Councilors\u2019 First Amendment claim is not that funding is conditioned on the adoption of particular language, but that the conditions coerce legislative speech. Except for this factor, the Amendment is indistinguishable from a host of grant-in-aid programs in which Congress conditions federal funding on a State\u2019s adoption of specific action. I can see little principled difference between a federal statute that conditions funding on a State\u2019s enactment of legislation qualifying it to participate in a federal program and one that specifies the language that the State must enact in order to do so. On the other hand, there is a world of difference between a statute that, for example, would induce a State to change its legal drinking age rather than \u201close a relatively small percentage of certain federal highway funds\u201d and one in which \u201cthe financial inducement offered by Congress might be so coercive as to pass the point at which \u2018pressure turns into compulsion.\u2019 \u201d South Dakota v. Dole, 483 U.S. 203, 211, 107 S.Ct. 2793, 2798-99, 97 L.Ed.2d 171 (1987) (citation omitted).\nHere, the \u201cfinancial inducement\u201d offered by the Armstrong Amendment was clearly coercive. Had Congress invoked its constitutional authority to order the District to enact the desired change in its Human Rights Act, see U.S. Const, art. I, \u00a7 8, the Councilors would have been called upon to act in a ministerial rather than a legislative capacity. See Spallone v. United States, \u2014 U.S. -, 110 S.Ct. 625, 646 n. 12, 107 L.Ed.2d 644 (1990) (Brennan, J., dissenting) (\u201cvoting to implement a remedial decree is best understood as a ministerial step in the process of executing a decision made by government actors with superior authority\u201d). But because Congress elected to provide the District with a Hobson\u2019s choice, the Councilors were able to argue that their legislative speech was being compelled.\nGiven the above, I would have characterized the alleged wrong as Congress\u2019s violation of the Councilors' First Amendment rights through its use of coercive conditions to compel the District to enact a particular measure. I would then have found the alleged wrong unlikely of repetition because the Armstrong Amendment was aberrational. As the court points out, it is unprecedented. See Court Op. at 704. Moreover, as Congress has the unquestioned power to effect its will either by direct order or through the exercise of its reserved authority, under the District of Columbia Self-Government and Governmental Reorganization Act, to enact laws on behalf of the District, there is no reason to believe that Congress will again seek to achieve by indirection what it can so readily command.",
+        "type": "concurrence",
+        "author": "BUCKLEY, Circuit Judge,"
+      },
+      {
+        "text": "EDWARDS, Circuit Judge,\nwith whom MIKVA and RUTH BADER GINSBURG, Circuit Judges, and ROBINSON, Senior Circuit Judge, join, dissenting:\nThe issue in this case is whether a court of appeals is obliged to vacate its own decision when postjudgment contingencies allegedly render the underlying controversy moot. The panel in this case held that the First Amendment prohibits Congress from compelling appellees, members of the D.C. Council (\u201cCouncil members\u201d), to vote to enact a particular piece of legislation. After the panel issued its decision, Congress enacted the disputed legislation directly. Appellant United States subsequently moved to vacate the judgment of the panel as moot. Although the panel and en banc court decided not to rehear the merits of the panel\u2019s decision, the court did decide to consider en banc the United States\u2019 motion to vacate.\nI would deny the motion without regard to whether the controversy between the United States and the Council members is now moot. Notwithstanding the rule that a court of appeals must ordinarily vacate a lower court decision when the case becomes moot pending appeal, see United States v. Munsingwear, 340 U.S. 36, 39, 71 S.Ct. 104, 106-07, 95 L.Ed. 36 (1950), a court of appeals has no duty to vacate its own decision once postjudgment contingencies arguably moot the case. See Armster v. United States District Court, 806 F.2d 1347, 1355-56, 1356 n. 12 (9th Cir.1986); Finberg v. Sullivan, 658 F.2d 93, 96 n. 4, 97 n. 6 (3d Cir.1980) (en banc) (dictum). In such a situation, the absence of a still live controversy poses no jurisdictional obstacle, because the court has already disposed of the case. Nor is vacatur necessary to protect the losing party from being bound by an unreviewable judgment. By that point, the loser has received all of the appellate review to which he is entitled as of right; if discretionary review would have been forthcoming from the Supreme Court, the losing party will be protected by the Court\u2019s practice of vacating court of appeals decisions in cases that are certwor-thy but moot.\nThe only circumstance in which a court of appeals should vacate its own decision is where the court determines that, but for the mootness of the case, it would have revisited the merits of its decision. Insofar as we have already denied the United States\u2019 petition for rehearing and suggestion for rehearing en banc, this condition is not satisfied here. Therefore, I dissent.\nI.\nThis case arises from enactment of the Nation\u2019s Capital Religious Liberty and Academic Freedom Act, Pub.L. No. 100-462, \u00a7 145, 102 Stat. 2269-14 (1988) (\u201cArmstrong Amendment I\u201d). Intended to overturn Gay Rights Coalition v. Georgetown University, 536 A.2d 1 (D.C.1987) (en banc), Armstrong Amendment I conditioned expenditure of the District\u2019s 1989 appropriations on the Council\u2019s enactment of an amendment to the D.C. Human Rights Act, D.C.Code \u00a7\u00a7 1-2501 to 1-2557 (1989), to permit religiously affiliated educational institutions to discriminate against homosexuals. Congress chose to compel members of the Council to vote to enact the disputed legislation rather than amend the Human Rights Act itself; this was done in order to comply with parliamentary rules prohibiting \u201csubstantive\u201d legislation in an appropriations bill. See United States v. Clarke, 886 F.2d 404, 408-09 (D.C.Cir.1989).\nInstead of submitting to Armstrong Amendment I, the Council members decided to test in court Congress\u2019 authority to compel members of the Council to vote to enact specific legislation. Ruling only hours before all municipal services in the District were to be shut down, the District Court held that Armstrong Amendment I violated the First Amendment rights of the Council members. See Clarke v. United States, 705 F.Supp. 605 (D.D.C.1988). A unanimous panel of this court affirmed, reasoning, inter alia, that Congress\u2019 interest in protecting the integrity of its parliamentary procedures was insufficient to justify the abridgment of the Council members\u2019 speech rights. See 886 F.2d at 414.\nDuring the pendency of the appeal in Clarke, Congress began deliberations on the 1990 version of the D.C. appropriations act. Responding to the decision of the District Court, Senator Armstrong introduced legislation directly amending the D.C. Human Rights Act. See 135 Cong. Reo. Sll,104 (daily ed. Sept. 14, 1989) (\u201cArmstrong Amendment II\u201d). Senator Armstrong explained that he was \u201creally tempted to simply offer [Armstrong Amendment I] again and leave the matter to the courts to decide.\u201d Id. But because Congress\u2019 authority to compel legislation by the Council was a \u201cperipheral question,\u201d he viewed it as more prudent simply to amend the Human Rights Act directly rather than let the pending legal dispute \u201cplay out, which is exactly what would happen if we were to reenact [Armstrong Amendment I].\u201d Id. In sum, Armstrong Amendment II was designed, in Senator Armstrong\u2019s words, to \u201cshort-circuit\u201d the controversy surrounding the means Congress had selected to achieve the desired amendment of D.C. law. Id. The 1990 D.C. Appropriations Act, along with Armstrong Amendment II, was signed into law on November 21, 1989, Pub.L. No. 101-168, \u00a7 141, 103 Stat. 1284, fifty-five days after entry of judgment in this court and eight days after the United States had submitted its petition for rehearing on the merits.\nOn November 24,1989, the United States moved to vacate Clarke as moot under United States v. Munsingwear, 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950). On December 15, the panel voted to deny the United States\u2019 petition for rehearing and its motion to vacate. On the same day, the full court voted to deny the United States\u2019 suggestion of rehearing en banc on the merits, but to grant en banc rehearing on the motion to vacate on grounds of mootness.\nII.\nA.\nDisposition of the United States\u2019 motion turns largely on identifying the proper scope of the Munsingwear doctrine. In Munsingwear, the Supreme Court established that the proper disposition when\na civil case from a court in the federal system ... has become moot while on its way [to review by an appellate court] or pending [the appellate court\u2019s] decision on the merits is to reverse or vacate the judgment below and remand with a direction to dismiss.\n340 U.S. at 39, 71 S.Ct. at 106. The purpose of this rule is to protect the losing party from being bound by a judgment \u201creview of which was prevented through happenstance.\u201d Id. at 40, 71 S.Ct. at 107.\nIt is generally accepted that Munsing-wear does not control all cases that become moot at some point after judgment in the district court. See United States v. Garde, 848 F.2d 1307, 1310 & n. 6 (D.C.Cir.1988). Although the onset of mootness prevents the reviewing court from taking further action on the merits of the case, courts of appeals have declined to apply Munsingwear\u2019s vacatur remedy when the losing party\u2019s interest in not being bound by an unreviewable judgment is inapplicable or is outweighed by competing considerations. An example is where a case settles prior to appellate court disposition. See National Union Fire Ins. Co. v. Seafirst Corp., 891 F.2d 762, 766 (9th Cir.1989); In re Memorial Hosp., 862 F.2d 1299, 1301-02 (7th Cir.1988); see also Clipper v. Takoma Park, 898 F.2d 18, 19 (4th Cir.1989) (declining to vacate court of appeals decision following postjudgment settlement). The courts in these cases have declined automatically to vacate judgments in this posture. There are two reasons for this: one is that the party who lost at trial has abandoned his interest in seeking appellate review; the other is that vacatur would undermine the interests of third parties and the judicial system as a whole in final resolution of a disputed legal question. See National Union Fire Ins. Co., 891 F.2d at 766, 768; In re Memorial Hosp., 862 F.2d at 1301-03.\nIn addition, this court, following the lead of other circuits, has declined to apply Munsingwear in cases that become moot not because of \u201chappenstance\u201d but because of \u201cthe deliberate action of the losing party.\u201d Center for Science v. Regan, 727 F.2d 1161, 1165 (D.C.Cir.1984); accord Garde, 848 F.2d at 1310; see also Ringsby Truck Lines, Inc. v. Western Conference of Teamsters, 686 F.2d 720, 721 (9th Cir.1982); Wisconsin v. Baker, 698 F.2d 1323, 1331 (7th Cir.), cert. denied, 463 U.S. 1207, 103 S.Ct. 3537, 77 L.Ed.2d 1388 (1983). In this situation, too, because the losing party has forfeited his interest in appellate review, we have declined to vacate the judgment below \u201cin order to avoid unfairness to [the] part[y] who prevailed in the lower court.\u201d Garde, 848 F.2d at 1310 (emphasis added). We also have noted that to apply Munsingwear\u2019s vacatur remedy in this setting would \u201cencourage litigants who are dissatisfied with the decision of the trial court \u2018to have the[] [decision] wiped from the books\u2019 by merely filing an appeal, then complying with the order or judgment below and petitioning for a vacatur of the adverse trial court decision.\u201d Garde, 848 F.2d at 1311 (quoting Ringsby, 686 F.2d at 721). See generally IB J. Moore, J. Luoas & T. Currier, supra note 1, 11 0.416[6], at 543 (\u201cIt would be quite destructive to the principle of judicial finality to put ... a litigant in a position to destroy the collateral conclusiveness of a judgment by destroying his own right of appeal.\u201d).\nContrary to what the United States contends, the case now before the court also does not fit squarely within the Munsing-wear mold. Even assuming that the passage of Armstrong Amendment II ended the controversy between the United States and the Council members, the case did not become moot \u201con its way\u201d to the Court of Appeals \u201cor pending [the Court of Appeal\u2019s] decision on the merits,\u201d Munsingwear, 340 U.S. at 39, 71 S.Ct. at 106, but only after the panel had issued its decision and entered judgment. The question posed by the United States\u2019 motion, then, is whether Munsingwear\u2019s protective rationale takes hold in a case in this posture. In my view, the answer is no.\nB.\nIn considered discussions of the issue, both the Ninth and the Third Circuits have concluded that Munsingwear does not compel a court of appeals to vacate its own decision when postjudgment contingencies render the underlying controversy moot. See Armster v. United States District Court, 806 F.2d 1347, 1355-56, 1356 n. 12 (9th Cir.1986); Finberg v. Sullivan, 658 F.2d 93, 96 n. 4, 97 n. 6 (3d Cir.1980) (en banc) (dictum). Instead, these courts have treated vacatur as only a discretionary remedy. See Armster, 806 F.2d at 1355; Finberg, 658 F.2d at 96 n. 4. Although one circuit apparently has adopted a different approach, see In re Ghandtchi, 705 F.2d 1315, 1316 (11th Cir.1983), I find the reasoning of the Ninth and Third Circuits persuasive.\nThe Munsingwear doctrine directs an appellate court to vacate a moot lower court disposition so that the losing party will not be bound by an \u201c \u2018unreviewable\u2019 judgment.\u201d Karcher v. May, 484 U.S. 72, 82, 108 S.Ct. 388, 395, 98 L.Ed.2d 327 (1987). But if a ease does not become moot until after the appellate court has entered its judgment, the losing party has not been deprived of review. It is true that mootness would prevent further review of the merits in the Supreme Court, but because review at that stage is discretionary, it does not follow that the court of appeals should vacate its own decision. If the case is \u201ccertworthy\u201d \u2014 a determination that the Supreme Court alone is in a position to make \u2014 the Supreme Court can grant cer-tiorari and summarily vacate. If the case does not warrant further consideration on the merits, the Court can simply deny cer-tiorari, permitting the judgment of the court of appeals to stand. The losing party in such a case remains bound by the judgment, but he has suffered no cognizable prejudice. For, by hypothesis, he has received all of the appellate review that was forthcoming.\nIndeed, as applied to those cases in which the Supreme Court would not have granted certiorari, a rule requiring the court of appeals to vacate its own decision would be unfair to the prevailing party. The court of appeals would be depriving that party of the collateral benefits of his judgment notwithstanding the absence of any legitimate expectation of review on the part of the losing party. Avoiding this injustice is a central aim of our policy of declining to vacate a decision when the losing party causes the case to become moot. See Garde, 848 F.2d at 1310; Center for Science, 727 F.2d at 1166.\nA rule requiring a court of appeals to vacate its own decision on the basis of postjudgment contingencies would also risk the type of jurisdictional manipulation with which we were concerned in Garde. See 848 F.2d at 1311. As the Ninth Circuit points out,\n[i]n the case of the government, heads of administrative agencies and other public officials could as a matter of course cause the withdrawal of decisions establishing unfavorable precedents or vindicating individual rights by complying with those decisions before the mandate issues. Such a result would be inconsistent with the manner in which our system of checks and balances is intended to operate.\nArmster, 806 F.2d at 1356; see also Finberg, 658 F.2d at 97 n. 6 (expressing concern that rule requiring vacatur would \u201cen-courag[e] the losing party on appeal to seek to delay the issuance of the mandate and in the interim bring about, for the sole purpose of evading the unfavorable decision, events which moot the case\u201d).\nObviously, the Ninth and Third Circuit rule makes the most sense if we have reason to believe that the Supreme Court has taken upon itself the function of vacating moot court of appeals dispositions if, but only if, they are otherwise certworthy. All of the available evidence suggests that this is indeed the Court\u2019s practice. It is clear that the Court vacates such cases only selectively. Compare, e.g., Tulare Lake Canal Co. v. United States, 459 U.S. 1095, 103 S.Ct. 712, 74 L.Ed.2d 943 (1983) (summarily vacating under Munsingwear) and Board of Governors v. Security Bancorp, 454 U.S. 1118, 102 S.Ct. 962, 71 L.Ed.2d 105 (1981) (same) with Velsicol Chem. Corp. v. United States, 435 U.S. 942, 98 S.Ct. 1521, 55 L.Ed.2d 538 (1978) (merely denying cer-tiorari without vacating) and Local 102, Int\u2019l Ladies\u2019 Garment Workers\u2019 Union v. United States, 439 U.S. 1070, 99 S.Ct. 840, 59 L.Ed.2d 36 (1979) (same). Because it summarily disposes of these cases, the Court has not expressly confirmed that it limits vacatur to cases that would have been reviewed on the merits but for the intervening mootness. Nonetheless, the Court has been so understood by both lower courts and commentators. See, e.g., Armster, 806 F.2d 1347, 1356 n. 12; Commodity Futures Trading Comm\u2019n v. Board of Trade, 701 F.2d 653, 657 (7th Cir.1983); Greenbaum, Mootness on Appeal in Federal Courts: A Reexamination of the Consequences of Appellate Disposition, 17 U.C. Davis L. Rev. 7, 47-48 & 48 n. 196 (1983); Note, Collateral Estop-pel and Supreme Court Disposition of Moot Cases, 78 Mich.L.Rev. 946, 951 (1980).\nThis explanation of the Court\u2019s selective use of vacatur also comports with the Supreme Court\u2019s practice in the analogous area of abatement. It is well established that the death of a criminal defendant abates the prosecution, and requires his conviction to be vacated if the defendant dies while his case is pending review by the court of appeals. See, e.g., United States v. Oberlin, 718 F.2d 894, 895 (9th Cir.1983). If, however, the defendant dies after the court of appeals affirms his conviction, the Supreme Court merely dismisses any outstanding petition for certiorari without vacating the conviction. See Dove v. United States, 423 U.S. 325, 96 S.Ct. 579, 46 L.Ed.2d 531 (1976), overruling Durham v. United States, 401 U.S. 481, 91 S.Ct. 858, 28 L.Ed.2d 200 (1971); accord Warden v. Palermo, 431 U.S. 911, 97 S.Ct. 2166, 53 L.Ed.2d 221 (1977). The reason for the different dispositions is that a criminal defendant\u2019s interest in not standing convicted without appellate review is deemed to be exhausted once he has availed himself of his appeal as of right to the court of appeals. See Durham, 401 U.S. at 484, 91 S.Ct. at 860 (Blackmun, J., dissenting); United States v. Pauline, 625 F.2d 684, 685 (5th Cir.1980); United States v. Moehlenkamp, 557 F.2d 126, 128 (7th Cir.1977). There is no reason to impute to the Supreme Court a different philosophy about discretionary appeals in the civil setting.\nIndeed, until this case, the United States was the primary proponent of limiting the vacatur remedy to certworthy moot civil appeals. For over a decade, the Government has consistently urged the Court not to apply Munsingwear but merely to deny certiorari in cases that have become moot following judgment in the court of appeals but that are not otherwise worthy of review on the merits. The Court\u2019s simple denial of certiorari in various of these eases forms the basis of the inference that the Court does not view Munsingwear as controlling once the losing party has exhausted his appeals as of right. See Commodity Futures Trading Comm\u2019n, 701 F.2d at 657; Greenbaum, supra, at 47-48, 48 n. 196.\nWhen confronted with the question at oral argument, the United States was unable to reconcile this position with its contention in this case that the court of appeals should automatically vacate its decision if the case becomes moot during the period for seeking review in the Supreme Court. This abrupt and unexplained about face only highlights that the real basis of the United States\u2019 motion is its displeasure with the merits of the panel\u2019s decision, not its concern to protect its right to be free of an unreviewable judgment.\nC.\nThe United States makes much of the fact that this case supposedly became moot during the pendency of the United States\u2019 petition for rehearing. According to the United States, the case remains pending before us until the petition is disposed of and our mandate has issued. Consequently, the United States contends, the court is obliged to vacate its judgment on jurisdictional grounds. I disagree.\nIf the principles underlying the Third and Ninth Circuit rule are sound \u2014 as I believe they are \u2014 the onset of mootness during the pendency of a petition for rehearing does not by itself require vacatur. The purpose of a petition for rehearing is to raise some defect in the decision meriting the court\u2019s reconsideration. See Fed.R.App.P. 40(a). Postjudgment mootness does not in itself constitute such a defect, for at the time at which the panel issued its opinion, the case was, by hypothesis, fully live. See Armster, 806 F.2d at 1356-57. \u201c[Ejvents occurring subsequent to a decision on the merits do not usually deprive a court of jurisdiction retroactively.\u201d Id. at 1353.\nPostjudgment mootness does deprive the court of the power to grant the petition and re-evaluate its judgment on the merits. But, again, because a party does not have a right to such review, this consideration does not warrant vacatur as a matter of course. The losing party is prejudiced by our inability to grant a petition for rehearing only when the party is able to raise points that would have warranted the exercise of our rehearing power. Thus, like the Supreme Court when it considers a case that has become moot during the pendency of a petition for certiorari, we should vacate a case that becomes moot during the pendency of a petition for rehearing only if we would have granted the petition. See Armster, 806 F.2d at 1356 n. 12; Finberg, 658 F.2d at 96 n. 4.\nIt is also immaterial that we have not yet issued the mandate in this case. A court of appeals\u2019 decision is \u201cfinal\u201d from the issuance of the judgment, not from the issuance of the mandate. See, e.g., S.Or.R. 13.4 (\u201cThe time for filing a petition for a writ of certiorari runs from the date the judgment or decree sought to be reviewed is rendered, and not from the date of the issuance of the mandate_\u201d). The mandate, which in this circuit as in others consists solely of a certified copy of the judgment and the opinion, see D.C.Cir. Handbook 64 (Aug. 1, 1987); 16 C. Wright, A. Miller, E. Cooper & E. Gressman, Federal PRACTICE AND PROCEDERE \u00a7 3987, at 474 (1977), is merely the formal vehicle for conveying the terms of our disposition to the District Court. Issuance of the mandate is a purely ministerial function that ordinarily occurs automatically twenty-one days after entry of judgment or seven days after denial of a petition for rehearing. See Fed.R.App.P. 41(a).\nInsofar as our issuance of the mandate is wholly separate from our consideration of the merits, it serves no purpose to tie the exercise of this function to the continued existence of the underlying controversy. See Armster, 806 F.2d at 1355 n. 9; Finberg, 658 F.2d at 96 n. 5, 97 n. 6. It is true that we can reopen our consideration of the merits by recalling the mandate where necessary \u201cto avoid injustice.\u201d Greater Boston Television Corp. v. FCC, 463 F.2d 268, 277 (D.C.Cir.1971), cert. denied, 406 U.S. 950, 92 S.Ct. 2042, 32 L.Ed.2d 338 (1972). But that power, too, is discretionary, see id., and thus its potential foreclosure by mootness does not warrant vaca-tur as a matter of course.\nIII.\nThe majority appears to accept that our decision whether to vacate on the basis of postjudgment contingencies is discretionary rather than mandatory under Munsing-wear. It is the majority\u2019s view of when that discretion is appropriately exercised with which I have the greatest disagreement.\nTo classify a particular remedy as \u201cdiscretionary\u201d is not to say that the remedy can be afforded for any reason that a court happens to give. See, e.g., United States v. Kramer, 827 F.2d 1174, 1179 (8th Cir.1987) (\u201cAn abuse of discretion occurs when a relevant factor that should have been given significant weight is not considered [or] when an irrelevant or improper factor is considered_\u201d (emphasis added)). \u201cDiscretion ... does not exist except as an area left open by a surrounding belt of restriction.\u201d R. Dworkin, Taking Rights Seriously 31 (1977). In any given context, then, the proper exercise of discretion must be guided by the reasons that make it appropriate to vest the court with discretion in the first instance.\nAs I have indicated, the reason that vaca-tur on the basis of postjudgment mootness is discretionary rather than mandatory is that the losing party in such a situation is not invariably prejudiced in the manner that Munsingwear envisions. The losing party has a legitimate claim to be spared from the collateral effects of the judgment only if further review of the merits would have been forthcoming but for the intervening mootness. Moreover, because only the Supreme Court is in a position to determine whether it would have granted certio-rari, vacatur to protect the losing party\u2019s interest in Supreme Court review should be the responsibility of the Supreme Court, not the court of appeals.\nIt follows that the only circumstance in which the court of appeals should exercise its discretion to vacate is when it determines that it would have revisited the merits of its decision \u2014 either by rehearing or by recall of the mandate \u2014 had the case not become moot. That is the only situation in which the court of appeals is in a position both to determine that the losing party has been prejudiced by postjudgment mootness and to nullify that prejudice. The exercise of the discretion to vacate in any other setting not only does nothing to protect the losing party\u2019s interest in further review, but also deprives the prevailing party of the collateral benefits of his judgment and creates an incentive for the losing party deliberately to moot the case by compliance with the judgment \u2014 the very factors we identified in Garde as warranting a departure from the Munsingwear doctrine. See 848 F.2d at 1311.\nIn rejecting the Government\u2019s petition for rehearing and suggestion for rehearing en banc in this case, a majority of this court has already indicated that the United States has furnished no reason to revisit the merits of the panel\u2019s decision. That determination should be decisive in our consideration of the United States\u2019 motion to vacate.\nThe majority invokes a more expansive view of our discretion. It notes that the question of Congress\u2019 power to compel legislative action by the Council members is \u201cimportant\u201d to the District\u2019s scheme of governance, and that answering the question requires us to confront an issue of constitutional law. These considerations, the majority concludes, counsel us to leave for another occasion final resolution of the underlying legal dispute.\nIn my view, the alleged importance and/or constitutional status of the issues resolved in the case cannot possibly be proper factors on which to base the exercise of the court\u2019s discretion to vacate, because they have nothing to do with the reasons that the court is vested with that power. In the absence of any conclusion that the merits of the panel decision should be reconsidered \u2014 a course that a majority of the full court has already rejected \u2014 the mere importance or constitutional status of the issues resolved does not justify relieving the United States of the collateral effects of the panel\u2019s judgment. Nor does the importance or constitutional status of the issues mitigate either the unfairness of depriving the Council members of the benefits of their victory or the incentive for post-judgment manipulation of our jurisdiction.\nIf anything, the importance and constitutional status of the issues only aggravate these concerns, as the facts of this case well illustrate. The Council members retain a substantial interest in the \u2018preclusive effect of the panel\u2019s decision precisely because the issues resolved- in the case are important to the District\u2019s scheme of governance. See Garde, 848 F.2d at 1311 (emphasizing importance of \u201cavoiding] any prejudice to appellees by possibly subjecting them to a relitigation of the same issues\u201d). Enactment of Armstrong II may have mooted the controversy surrounding Armstrong I, but it by no means signalled Congress\u2019 renunciation of its right to coerce legislative action by the Council members in the future. Cf. 135 Cong.Rec. S11,103, S11,104 (daily ed. Sept. 14, 1989) (statement of Sen. Armstrong) (expressing his astonishment with view \u201cthat Congress cannot use funding as a coercive device to require local policymakers to hew to some particular national standard\u201d and suggesting that \u201cthis is a parliamentary formulation that we have used 50 times or 100 times or 1,000 times\u201d). In expedited proceedings before the District Court, the Council members succeeded in obtaining a declaration of the invalidity of Armstrong Amendment I only hours before the law would have caused a complete shut-down of municipal services in the District \u2014 from public hospitals and public schools, to garbage collection, law enforcement and virtually all other services essential to the health, safety and welfare of the District\u2019s residents. The Council members and the citizens of the District should not be obliged to endure this uncertainty and disruption again.\nThe importance and constitutional status of the issues resolved in the case also directly contributed to the allegedly mooting episode \u2014 enactment of Armstrong Amendment II. Congress was perfectly aware of the constitutional challenge to its authority to compel legislative action by the Council. Rather than \u201clet [the case] play out,\u201d Senator Armstrong introduced Armstrong Amendment II in order to \u201cshort-circuit\u201d the ongoing legal controversy. 135 Cong. Reg at Sll,104. We are in no position, of course, to attribute this decision to the entire Congress or to assume that it was made in bad faith; indeed, a majority of the members of Congress may well have decided to go along with Armstrong Amendment II because they agreed that it was improper to coerce the Council members\u2019 votes. But whatever Congress\u2019 motives, the enactment of Armstrong Amendment II constitutes precisely the kind of postdecision compliance with the judgment that we indicated in Garde should not form the basis for vacatur.\nIV.\nThis case was fully live through entry of judgment by the panel. Because the full court has determined that the United States is not entitled to further consideration of the merits at this stage of the appellate process, the alleged postjudgment mootness has not prejudiced the United States in any manner properly redressed by this court. I therefore dissent from the court\u2019s decision to grant the United States\u2019 motion.\n. Notwithstanding mootness in this setting, both parties retain an interest in the collaterally pre-clusive effects of the lower court\u2019s judgment. Munsingwear, then, addresses the question of when it is fair to relieve the losing party from these effects because of the unavailability of appellate review. See id. at 39-40, 71 S.Ct. at 106-07. See generally IB J. Moore, J. Lucas & T. Currier, Moore\u2019s Federal Practice \u00a7 0.416[6] (2d ed. 1988).\n. The practice of these circuits is consistent with that of the Supreme Court, which also merely dismisses without vacating cases that settle pending disposition in that court. See, e.g., Minnesota Newspaper Ass'n, Inc. v. Postmaster General, 488 U.S. 998, 109 S.Ct. 632, 102 L.Ed.2d 766 (1989) (dismissing appeal); St. Lukes Fed'n v. Presbyterian/St. Lukes Medical Center, 459 U.S. 1025, 103 S.Ct. 433, 74 L.Ed.2d 522 (1982) (dismissing petition for writ of certiorari). The Second Circuit follows a different rule. See Long Island Lighting Co. v. Cuomo, 888 F.2d 230, 233-34 (2d Cir.1989). This circuit has yet to resolve the issue definitively. Compare Garde, 848 F.2d at 1310 (declining to apply Munsingwear in case in which the losing party \u201cessentially settled\u201d by accepting less than full amount of information sought in subpoena not enforced by District Court) with Douglas v. Donovan, 704 F.2d 1276, 1280 (D.C.Cir.1983) (applying Munsingwear without discussion to case mooted by settlement).\n. The United States cites four other cases from outside the Eleventh Circuit in support of its claim that circuit courts \"generally concur\u201d that Munsingwear applies when a case moots after judgment in the court of appeals. Brief for Appellant on Consideration En Banc at 37 & n. 4. In two of the cases, the mooting episode had, without the courts\u2019 knowledge, occurred before the courts entered their judgments. See Bumpus v. Clark, 702 F.2d 826, 826-27 (9th Cir.1983); Ruiz v. Estelle, 688 F.2d 266, 267 (5th Cir.1982), cert. denied, 460 U.S. 1042, 103 S.Ct. 1438, 75 L.Ed.2d 795 (1983). Vacatur was therefore necessary because the courts lacked subject matter jurisdiction at the time they issued their decisions. In another, it is unclear whether the mooting episode occurred before or after the court issued its opinion. See United States v. Miller, 685 F.2d 123, 124 (5th Cir. Unit B 1982). Finally, in the fourth case, the court had not issued a decision on the merits, and instead routinely applied Munsingwear to a case that had become moot pending appeal. See Kitlutsisti v. ARCO Alaska, Inc., 782 F.2d 800, 801 (9th Cir.1986). The United States omits any mention of the Ninth and Third Circuit rule in its brief.\n. Obviously, the analysis would be different if the losing party had an appeal as of right to the Supreme Court. In that situation, it could be said with absolute confidence that the losing party had been prejudiced in the way that Mun-singwear envisions \u2014 the loss of an opportunity to secure appellate review \u2014 whenever a case became moot after the court of appeals\u2019 judgment. With the repeal of 28 U.S.C. \u00a7 1252 (1982), however, all appeals from the circuit courts are now by certiorari. See Supreme Court Cases Selections Act, Pub.L. No. 100-352, \u00a7 1, 102 Stat. 662 (1988).\n. In Velsicol, the losing party in the court of appeals petitioned for a writ of certiorari, requesting that the Supreme Court grant review and summarily vacate as moot under Munsing-wear. See Petition for Writ of Certiorari at 5-6, 12, Velsicol Chem. Corp. v. United States, 435 U.S. 942, 98 S.Ct. 1521, 55 L.Ed.2d 538 (1978) (No. 77-900). The Government did not contest the claim of mootness, but argued that the Court should merely deny the losing party's petition because the case would not have merited review had it remained live. See Brief for the United States in Opposition at 4-8, Velsicol Chem. Corp. v. United States, 435 U.S. 942, 98 S.Ct. 1521, 55 L.Ed.2d 538 (1978) (No. 77-900). In Local 102, the case had apparently mooted when the losing parties complied with a court order to testify before a grand jury notwithstanding their claim of privilege; the Government again urged that the Court merely deny certiorari without vacating. See Memorandum for the United States in Opposition at 4 & n. 4, Local 102, Int\u2019l Ladies\u2019 Garment Workers\u2019 Union v. United States, 439 U.S. 1070, 99 S.Ct. 840, 59 L.Ed.2d 36 (1979) (No. 78-633).\n. As the Court\u2019s practice of selective vacatur demonstrates, mootness of the underlying controversy does not prevent the losing party from seeking certiorari for the purpose of securing vacatur. In effect, even a case that is moot as to the merits remains live as to the appropriateness of a vacatur remedy. Cf. Munsingwear, 340 U.S. at 40-41, 71 S.Ct. at 107 (noting that Court has power to review \"[d]enial of a motion to vacate\" and \"commonly\" uses its broad supervisory powers over federal courts \"to prevent a judgment, unreviewable because of mootness, from spawning any legal consequence\"). Moreover, because both parties retain an interest in the collaterally preclusive effect of the judgment, see note 1 supra, the Court can rely on effective adversary presentation of all issues relevant to determining whether the remedy should be granted, including whether the case would have been otherwise certworthy.\n. See, e.g., Brief for the United States in Opposition at 4-8, Velsicol Chem. Corp. v. United States, 435 U.S. 942, 98 S.Ct. 1521, 55 L.Ed.2d 538 (1978) (No. 77-900); Brief for the Federal Trade Commission in Opposition at 11 n. 11, Dairymen, Inc. v. FTC, 462 U.S. 1106, 103 S.Ct. 2452, 77 L.Ed.2d 1332 (1983) (No. 82-1428) (construing disposition in Velsicol to signal Court's adoption of rule limiting vacatur to cert-worthy cases); Memorandum for the Secretary of Commerce in Opposition at 10 n. 4, Fullilove v. Klutznick, 448 U.S. 448, 100 S.Ct. 2758, 65 L.Ed.2d 902 (1980) (No. 78-1007). Memorandum for the United States in Opposition at 4 n. 4, Local 102, Int\u2019l Ladies\u2019 Garment Workers\u2019 Union v. United States, 439 U.S. 1070, 99 S.Ct. 840, 59 L.Ed.2d 36 (1979) (No. 78-633).\n. Under the Federal Rules, the court ordinarily enters judgment upon issuance of its opinion. See Fed.R.App.P. 36. This procedure was followed here.\n. As we recognized in Garde, moreover, the court\u2019s interest in preventing postjudgment manipulation of its jurisdiction survives the court\u2019s determination that the case does not come within the \"voluntary cessation of illegal conduct\u201d exception to mootness. See id. at 1309 & n. 5, 1311.",
+        "type": "dissent",
+        "author": "EDWARDS, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Alfred Mollin, Atty., with whom Stuart M. Gerson, Asst. Atty. Gen., Jay B. Stephens, U.S. Atty., Michael Jay Singer and Jacob M. Lewis, Attys., Dept, of Justice, Washington, D.C., were on the brief, for appellant. John C. Harrison, Washington, D.C., also entered an appearance for appellant.",
+      "I. Michael Greenberger, with whom Gregory E. Mize, James R. Bird, and Richard M. Wyner, Washington, D.C. were on the brief, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "David A. CLARKE, et al., Appellees, v. UNITED STATES of America, Appellant.\nNo. 88-5439.\nUnited States Court of Appeals, District of Columbia Circuit.\nArgued May 30, 1990.\nDecided Oct. 2, 1990.\nAlfred Mollin, Atty., with whom Stuart M. Gerson, Asst. Atty. Gen., Jay B. Stephens, U.S. Atty., Michael Jay Singer and Jacob M. Lewis, Attys., Dept, of Justice, Washington, D.C., were on the brief, for appellant. John C. Harrison, Washington, D.C., also entered an appearance for appellant.\nI. Michael Greenberger, with whom Gregory E. Mize, James R. Bird, and Richard M. Wyner, Washington, D.C. were on the brief, for appellees.\nBefore WALD, Chief Judge, MIKVA, EDWARDS, RUTH BADER GINSBURG, SILBERMAN, BUCKLEY, WILLIAMS, D.H. GINSBURG, SENTELLE, THOMAS, Circuit Judges, and ROBINSON, Senior Circuit Judge."
+  },
+  "file_name": "0699-01",
+  "first_page_order": 795,
+  "last_page_order": 814
+}

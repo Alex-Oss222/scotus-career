@@ -1,0 +1,95 @@
+{
+  "scope": "Clerical interface, public-boundary, local-link and explanation-depth checks only; no vote, doctrine, historical-departure or source finding is inferred.",
+  "records": [
+    {
+      "record": "Burden_v_Zant_summary_merits_1994-01-10.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        163
+      ]
+    },
+    {
+      "record": "Day_v_Day_prospective_filing_control_1993-10-12.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        176
+      ]
+    },
+    {
+      "record": "Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        198
+      ]
+    },
+    {
+      "record": "Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        185
+      ]
+    },
+    {
+      "record": "In_re_Sassower_prospective_filing_control_1993-10-12.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        164,
+        173
+      ]
+    },
+    {
+      "record": "Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        173,
+        180
+      ]
+    },
+    {
+      "record": "John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        165,
+        157,
+        161
+      ]
+    },
+    {
+      "record": "Ratzlaf_v_United_States_merits_1994-01-11.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        164,
+        155
+      ]
+    },
+    {
+      "record": "South_Carolina_Act_184_effective_source_1994-01-01.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": []
+    },
+    {
+      "record": "Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        173
+      ]
+    },
+    {
+      "record": "Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        163,
+        164
+      ]
+    },
+    {
+      "record": "United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md",
+      "public_blocks": 11,
+      "controlling_explanation_word_counts": [
+        164,
+        157
+      ]
+    }
+  ],
+  "errors": []
+}

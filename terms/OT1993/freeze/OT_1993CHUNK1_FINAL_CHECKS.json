@@ -1,0 +1,63 @@
+{
+  "scope": "Named vote arithmetic, exact public Holdings duplication, source-copy identity, effective-date order, inventory and continuation references. These checks do not decide legal meaning, historical departures, or approval. Git checks excluded by user instruction.",
+  "court_records": 11,
+  "inventory_rows": 95,
+  "vote_audits": [
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_A_VOTES.json",
+      "record": "Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_A_VOTES.json",
+      "record": "Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_A_VOTES.json",
+      "record": "Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_B_VOTES.json",
+      "record": "United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md",
+      "components": 2
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_B_VOTES.json",
+      "record": "John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_C_VOTES.json",
+      "record": "Burden_v_Zant_summary_merits_1994-01-10.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_C_VOTES.json",
+      "record": "Ratzlaf_v_United_States_merits_1994-01-11.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_C_VOTES.json",
+      "record": "Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md",
+      "components": 2
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_D_VOTES.json",
+      "record": "Day_v_Day_prospective_filing_control_1993-10-12.md",
+      "components": 1
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_D_VOTES.json",
+      "record": "In_re_Sassower_prospective_filing_control_1993-10-12.md",
+      "components": 2
+    },
+    {
+      "audit": "OT_1993CHUNK1_ASSEMBLY_E_VOTES.json",
+      "record": "Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md",
+      "components": 1
+    }
+  ],
+  "errors": []
+}

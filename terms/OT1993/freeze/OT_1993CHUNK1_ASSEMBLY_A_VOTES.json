@@ -1,0 +1,129 @@
+[
+  {
+    "filename": "Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md",
+    "event": "Merits decision",
+    "date": "1993-11-09",
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "component": "Disposition",
+        "for_names": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against_names": [],
+        "announced_count": "9–0"
+      }
+    ],
+    "checks": {
+      "participant_partition": true,
+      "announced_count": true,
+      "public_projection_order": true,
+      "holdings_identity": true,
+      "controlling_explanations_120_200_words": true
+    },
+    "preservation": "File only; operator Git commitment pending"
+  },
+  {
+    "filename": "Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md",
+    "event": "Merits decision",
+    "date": "1993-11-09",
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "component": "Disposition",
+        "for_names": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against_names": [],
+        "announced_count": "9–0"
+      }
+    ],
+    "checks": {
+      "participant_partition": true,
+      "announced_count": true,
+      "public_projection_order": true,
+      "holdings_identity": true,
+      "controlling_explanations_120_200_words": true
+    },
+    "preservation": "File only; operator Git commitment pending"
+  },
+  {
+    "filename": "Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md",
+    "event": "Dismissal as improvidently granted",
+    "date": "1993-11-30",
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "component": "Disposition",
+        "for_names": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "against_names": [
+          "Blackmun",
+          "Stevens"
+        ],
+        "announced_count": "7–2"
+      }
+    ],
+    "checks": {
+      "participant_partition": true,
+      "announced_count": true,
+      "public_projection_order": true,
+      "holdings_identity": true,
+      "controlling_explanations_120_200_words": true
+    },
+    "preservation": "File only; operator Git commitment pending"
+  }
+]

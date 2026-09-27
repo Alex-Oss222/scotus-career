@@ -1,0 +1,493 @@
+{
+  "id": 601323,
+  "name": "KARCHER, SPEAKER OF THE NEW JERSEY GENERAL ASSEMBLY, et al. v. MAY et al.",
+  "name_abbreviation": "Karcher v. May",
+  "decision_date": "1987-12-01",
+  "docket_number": "No. 85-1551",
+  "first_page": "72",
+  "last_page": "85",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "484 U.S. 72"
+    },
+    {
+      "type": "parallel",
+      "cite": "98 L. Ed. 2d 327"
+    },
+    {
+      "type": "parallel",
+      "cite": "108 S. Ct. 388"
+    },
+    {
+      "type": "vendor",
+      "cite": "1987 U.S. LEXIS 5027"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1987-007"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "340 U. S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "39"
+        },
+        {
+          "page": "40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "477 U. S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210408
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0556-01"
+      ]
+    },
+    {
+      "cite": "479 U. S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216314
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0361-01"
+      ]
+    },
+    {
+      "cite": "450 A. 2d 499",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 N. J. 141",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        346483
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/91/0141-01"
+      ]
+    },
+    {
+      "cite": "469 U. S. 464",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959849
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0464-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 159",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6197246
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0159-01"
+      ]
+    },
+    {
+      "cite": "475 U. S. 534",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205017
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "543, n. 6"
+        },
+        {
+          "page": "543-544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0534-01"
+      ]
+    },
+    {
+      "cite": "280 U. S. 406",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3911894
+      ],
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/280/0406-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 14",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645244
+      ],
+      "year": 1877,
+      "pin_cites": [
+        {
+          "page": "20-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0014-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 578",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3493279
+      ],
+      "year": 1882,
+      "pin_cites": [
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/104/0578-01"
+      ]
+    },
+    {
+      "cite": "222 U. S. 578",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3660086
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "581"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/222/0578-01"
+      ]
+    },
+    {
+      "cite": "244 U. S. 397",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        343171
+      ],
+      "year": 1917,
+      "pin_cites": [
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/244/0397-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 1254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(2)"
+        },
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "479 U. S. 1062",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6543680,
+        6543712,
+        6543750,
+        6543883,
+        6543596,
+        6543982,
+        6543923,
+        6543798,
+        6543640,
+        6543839
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/1062-03",
+        "/us/479/1062-04",
+        "/us/479/1062-05",
+        "/us/479/1062-08",
+        "/us/479/1062-01",
+        "/us/479/1062-10",
+        "/us/479/1062-09",
+        "/us/479/1062-06",
+        "/us/479/1062-02",
+        "/us/479/1062-07"
+      ]
+    },
+    {
+      "cite": "780 F. 2d 240",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531380
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "241"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/0240-01"
+      ]
+    },
+    {
+      "cite": "572 F. Supp. 1561",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3601554
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1563"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/572/1561-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "42 U. S. C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "462 U. S. 919",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196077
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "940"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/462/0919-01"
+      ]
+    },
+    {
+      "cite": "342 U. S. 415",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641308
+      ],
+      "year": 1952,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/342/0415-01"
+      ]
+    },
+    {
+      "cite": "483 U. S. 1017",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28096,
+        28391,
+        28074,
+        28275,
+        28405
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/483/1017-05",
+        "/us/483/1017-01",
+        "/us/483/1017-03",
+        "/us/483/1017-02",
+        "/us/483/1017-04"
+      ]
+    },
+    {
+      "cite": "479 U. S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216314
+      ],
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/479/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1005,
+    "char_count": 23376,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 2.0777645770288004e-06,
+      "percentile": 0.9953049386276961
+    },
+    "sha256": "4050cb8a1cd9051f1f752a5cb6bc38df5f93ae314f11afc32600cc63049f14ab",
+    "simhash": "1:6cbe26a372c0c62a",
+    "word_count": 3825
+  },
+  "last_updated": "2024-02-27T18:43:45.964033+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "O\u2019Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Brennan, Marshall, Blackmun, Stevens, and Scalia, JJ., joined. White, J., filed an opinion concurring in the judgment, post, p. 83."
+    ],
+    "parties": [
+      "KARCHER, SPEAKER OF THE NEW JERSEY GENERAL ASSEMBLY, et al. v. MAY et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice O\u2019Connor\ndelivered the opinion of the Court.\nAlan J. Karcher and Carmen A. Orechio, the former presiding officers of the New Jersey Legislature, seek to appeal a judgment declaring a New Jersey statute unconstitutional. Their appeal presents the question whether public officials who have participated in a lawsuit solely in their official capacities may appeal an adverse judgment after they have left office. We hold that they may not.\nI\nIn December 1982 the New Jersey Legislature enacted, over the Governor\u2019s veto, a statute requiring the State\u2019s primary and secondary public school educators to permit their students to observe a minute of silence before the start of each schoolday. The statute reads as follows:\n\u201cPrincipals and teachers in each public elementary and secondary school of each school district in this State shall permit students to observe a 1 minute period of silence to be used solely at the discretion of the individual student, before the opening exercises of each school day for quiet and private contemplation or introspection. \u201d N. J. Stat. Ann. \u00a7 18A:36-4 (West Supp. 1987).\nThe New Jersey Attorney General immediately announced that he would not defend the statute if it were challenged. The statute became effective December 17,1982, and within a month appellees \u2014 a New Jersey public school teacher, several public school students, and parents of public school students\u2014 challenged its constitutionality in federal court. Appellees sued under 42 U. S. C. \u00a7 1983, alleging that the statute violated the Establishment Clause of the First Amendment and seeking both declaratory and injunctive relief. They named as defendants the New Jersey Department of Education, its Commissioner, and two township boards of education.\nWhen it became apparent that neither the Attorney General nor the named defendants would defend the statute, Karcher and Orechio, as Speaker of the New Jersey General Assembly and President of the New Jersey Senate, respectively, sought and obtained permission to intervene as defendants on behalf of the legislature. Appellees entered into a stipulation dismissing the suit against the named defendants, but the District Court refused to accept the stipulation out of concern for the effect it might have on the jurisdictional posture of the case. The legislature, through its presiding officers, carried the entire burden of defending the statute.\nAfter a 5-day trial, the District Court declared the New Jersey statute unconstitutional. Applying the test set out in Lemon v. Kurtzman, 403 U. S. 602 (1971), the court held that the statute violated the Establishment Clause of the First Amendment because its purpose was religious rather than secular, because it both advanced and inhibited religion, and because it fostered excessive government entanglement with religion. May v. Cooperman, 572 F. Supp. 1561 (NJ 1983).\nKarcher and Orechio appealed from the District Court\u2019s judgment in their official capacities as Speaker of the New Jersey General Assembly and President of the New Jersey Senate. The named defendants filed letters with the Court of Appeals stating that they would not participate in the appeal, except to the extent necessary to protect themselves from having to pay attorney\u2019s fees.\nThe Court of Appeals affirmed the District Court\u2019s declaratory judgment by a divided vote. The majority held that the statute did not promote or inhibit religion and would not foster excessive entanglement between government and religion, but affirmed the District Court\u2019s conclusion that the statute violated the Establishment Clause for lack of a valid secular purpose. The dissent concluded that the evidence was not sufficient to prove the absence of a secular legislative purpose. The Court of Appeals entered its judgment of affirmance on December 24, 1985. May v. Cooperman, 780 F. 2d 240 (CA3 1985).\nOn January 14, 1986, Karcher and Orechio lost their posts as presiding legislative officers. Charles Hardwick replaced Karcher as Speaker of the New Jersey General Assembly. John Russo succeeded Orechio as President of the New Jersey Senate.\nA March 19, 1986, notice appealing the judgment of the Court of Appeals to this Court was filed on behalf of \u201cAlan J. Karcher, as Speaker of the New Jersey General Assembly; the New Jersey General Assembly; Carmen A. Orechio, as President of the New Jersey Senate and the New Jersey Senate.\u201d App. to Juris. Statement 106a-107a. By letter dated May 6, 1986, appellants\u2019 counsel informed us that Senate President Russo and General Assembly Speaker Hardwick were withdrawing the legislature\u2019s appeal, but that Karcher desired to continue the appeal. App. to Motion to Dismiss or Affirm la-3a. Appellees moved to dismiss the appeal on the ground that the legislature\u2019s withdrawal left the Court without a case or controversy. We postponed consideration of the jurisdictional question to the hearing of the case on the merits. 479 U. S. 1062 (1987). We now dismiss the appeal for want of jurisdiction.\nII\nThe power of federal courts to hear and decide cases is defined by Article III of the Constitution and by the federal statutes enacted thereunder. Karcher and Orechio seek to invoke this Court\u2019s jurisdiction under 28 U. S. C. \u00a7 1254(2). That statute empowers us to review cases upon \u201cappeal by a party relying on a State statute held by a court of appeals to be invalid as repugnant to the Constitution, treaties or laws of the United States.\u201d One who is not an original party to a lawsuit may of course become a party by intervention, substitution, or third-party practice. 9 J. Moore, B. Ward, & J. Lucas, Moore\u2019s Federal Practice \u00b6 203.06 pp. 3-20 (1987). But we have consistently applied the general rule that one who is not a party or has not been treated as a party to a judgment has no right to appeal therefrom. United States ex rel. Louisiana v. Jack, 244 U. S. 397, 402 (1917); Ex parte Leaf Tobacco Board of Trade, 222 U. S. 578, 581 (1911); Ex parte Cockcroft, 104 U. S. 578, 579 (1882); Ex parte Cutting, 94 U. S. 14, 20-21 (1877).\nKarcher and Orechio intervened in this lawsuit in their official capacities as presiding officers on behalf of the New Jersey Legislature. They do not appeal the judgment in those capacities. Indeed, they could not, for they no longer hold those offices. The authority to pursue the lawsuit on behalf of the legislature belongs to those who succeeded Karcher and Orechio in office. Davis v. Preston, 280 U. S. 406, 407 (1930). Federal Rule of Appellate Procedure 43(e)(1) provides that \u201c[w]hen a public officer is a party to an appeal or other proceeding in the court of appeals in an official capacity and during its pendency . . . ceases to hold office, the action does not abate and the public officer\u2019s successor is automatically substituted as a party.\u201d The current presiding officers have informed us that the New Jersey Legislature is not an appellant in this case.\nHaving lost their official status as presiding legislative officers, Karcher and Orechio now seek to appeal in their capacities as individual legislators and as representatives of the majority of the 200th New Jersey Legislature, the now-expired legislative body that enacted the minute of silence statute. They do not seek leave to intervene in those capacities. Rather, they assert, for the first time in their briefs to this Court, that they originally intervened and ligitated the lawsuit in those roles.\nThe fact that Karcher and Orechio participated in this litigation in their official capacities as presiding officers on behalf of the legislature does not mean that they became parties in all of their personal and professional capacities. In Bender v. Williamsport Area School District, 475 U. S. 534 (1986), we observed that \u201c[a]cts performed by the same person in two different capacities \u2018are generally treated as the transactions of two different legal personages.\u2019 \u201d Id., at 543, n. 6, quoting F. James & G. Hazard, Civil Procedure \u00a7 11.6, p. 594 (3d ed. 1985). The concept of \u201clegal personage\u201d is a practical means of identifying the real interests at stake in a lawsuit. We have repeatedly recognized that the real party in interest in an official-capacity suit is the entity represented and not the individual officeholder. See Bender, supra, at 543-544; Kentucky v. Graham, 473 U. S. 159, 166 (1985); Brandon v. Holt, 469 U. S. 464, 471 (1985). We therefore agree with the Solicitor General\u2019s view that Karcher and Orechio\u2019s intervention as presiding legislative officers does not entitle them to appeal in their other individual and professional capacities. Brief for United States as Amicus Curiae 10-11. Karcher and Orechio may not appeal the Court of Appeals\u2019 judgment as individual legislators or as representatives of the 200th Legislature unless the record shows that they participated in those capacities below.\nThe course of proceedings in this case from the District Court to this Court make it clear that the only party-intervenor in this case was the incumbent New Jersey Legislature. At the District Court hearing on their oral motion to intervene, Karcher and Orechio represented to both the court and their opponents that they were intervening on behalf of the legislature and not as individual legislators. The District Court permitted Karcher and Orechio to intervene as party-defendants only in their representative capacities as presiding legislative officers. The intervention order provided:\n\u201cAlan J. Karcher in his representative capacity as Speaker of the New Jersey General Assembly; the New Jersey General Assembly; Carmen A. Orechio in his representative capacity as President of the New Jersey Senate; and the New Jersey Senate; be permitted to intervene as direct party defendants.\u201d App. 53-54.\nThe District Court\u2019s opinion on the merits identifies the defendant-intervenors as \u201cthe New Jersey Assembly and New Jersey Senate.\u201d May v. Cooperman, 572 F. Supp., at 1563. In its separate opinion on attorney\u2019s fees, the District Court emphasizes that it gave the legislature leave to intervene to represent the interests of the State:\n\u201cThe Legislature itself, through the Speaker of the General Assembly and the President of the Senate, moved to intervene in the case. The Legislature was permitted to intervene because it was responsible for enacting the statute and because no other party defendant was willing to defend the statute. The Legislature sought to perform a task which normally falls to the executive branch, but which, in this case, the executive branch refused to perform.\u201d Record, Doc. No. 60, p. 20.\nThe record in the Court of Appeals similarly identifies the appellant-intervenor as the New Jersey Legislature. The notice of appeal was filed by \u201cAlan J. Karcher, as Speaker of the New Jersey General Assembly; the New Jersey General Assembly; Carmen A. Orechio as President of the New Jersey Senate and the New Jersey Senate, DefendantsIntervenors.\u201d Record, Doc. No. 64. The Court of Appeals\u2019 opinion identifies the appellants as \u201cthe New Jersey Senate and Assembly.\u201d 780 F. 2d, at 241.\nThe notice of appeal to this Court identifies the appellants as \u201cAlan J. Karcher, as Speaker of the New Jersey General Assembly; the New Jersey General Assembly; Carmen A. Orechio, as President of the New Jersey Senate and the New Jersey Senate.\u201d App. to Juris. Statement 106a-107a. Even the jurisdictional statement refers to the appellants as \u201cthe Legislature.\u201d Juris. Statement 5-6. Though appellants assert in their brief that Karcher and Orechio as individual legislators were proper parties in the District Court and the Court of Appeals, our review of the record satisfies us that Karcher and Orechio have neither formally sought, nor in any sense been granted, permission to participate in this lawsuit as individual legislators.\nWe think it is also clear from the record that the partyintervenor at each point in the proceedings below was the incumbent legislature, on behalf of the State, and not the particular legislative body that enacted the minute of silence law. Nowhere in the record did Karcher and Orechio assert that they represented the 200th Legislature and no other.\nIn sum, Karcher and Orechio participated in this lawsuit in their official capacities as presiding officers of the New Jersey Legislature, but since they no longer hold those offices, they lack authority to pursue this appeal on behalf of the legislature. Karcher and Orechio as individual legislators and as representatives of the 200th New Jersey Legislature are not \u201cparties\u201d entitled to appeal the Court of Appeals\u2019 judgment under 28 U. S. C. \u00a71254(2). Accordingly, we must dismiss their appeal for want of jurisdiction.\nIll\nKarcher and Orechio argue that if we dismiss their appeal we must vacate the judgments below. They advance two theories in support of this result.\nFirst they contend that the judgments below must be vacated because no proper party-defendant ever intervened in the case. This is so, they say, because New Jersey law does not authorize the presiding legislative officers to represent the New Jersey Legislature in litigation. Not only is this claim directly contrary to appellants\u2019 explicit representations to the District Court, it appears to be wrong as a matter of New Jersey law. The New Jersey Supreme Court has granted applications of the Speaker of the General Assembly and the President of the Senate to intervene as parties-respondent on behalf of the legislature in defense of a legislative enactment. In re Forsythe, 91 N. J. 141, 144, 450 A. 2d 499, 500 (1982). Since the New Jersey Legislature had authority under state law to represent the State\u2019s interests in both the District Court and the Court of Appeals, we need not vacate the judgments below for lack of a proper defendant-appellant.\nAppellants\u2019 second theory for vacating the judgments below is based upon our practice of vacating lower court judgments when a case becomes moot on appeal. See Burke v. Barnes, 479 U. S. 361, 365 (1987); United States Department of Treasury v. Galioto, 477 U. S. 556, 560 (1986); United States v. Munsingwear, Inc., 340 U. S. 36, 39 (1950). In United States v. Munsingwear, we explained that when a case becomes moot in its journey through the federal courts we will reverse or vacate the \u201cunreviewable\u201d judgment below and remand with directions to dismiss. We reasoned that this procedure \u201cclears the path for future relitigation of the issues between the parties and eliminates a judgment, review of which was prevented through happenstance.\u201d Id., at 40. Karcher and Orechio contend that the rationale underlying the Munsingwear procedure applies to this case, for it is the happenstance of their loss of official status that renders the judgment unreviewable.\nWe reject this argument because its underlying premise is wrong. This case did not become unreviewable when Karcher and Orechio left office. Rather, under Federal Rule of Appellate Procedure 43(c)(1), the authority of Karcher and Orechio to pursue the appeal on behalf of the legislature passed to their successors in office. The rules effectuating automatic substitution of public officers were specifically designed to prevent suits involving public officers from becoming moot due to personnel changes. See Advisory Committee Notes on 1961 Arndt, to Fed. Rule Civ. Proc. 25(d)(1), 28 U. S. C., pp. 568-569.\nThis controversy did not become moot due to circumstances unattributable to any of the parties. The controversy ended when the losing party \u2014 the New Jersey Legislature-declined to pursue its appeal. Accordingly, the Munsingwear procedure is inapplicable to this case. Because Karcher and Orechio are not parties to this case in the capacities under which they seek to appeal, their appeal must be dismissed for want of jurisdiction.\nIt is so ordered.\n\u201c[INTERVENORS\u2019 COUNSEL]: I am Lawrence Marinari for the General Assembly and Senate, the intervenors.\n\u201cTHE COURT: Who are you actually appearing for now?\n\u201c[INTERVENORS\u2019 COUNSEL]: I am appearing for both the presiding officers of the House and New Jersey Senate and New Jersey General Assembly.\n\u201cAs the presiding officers of both houses, they are empowered by the rules of both houses to represent the House in ligitation.\n\u201cTHE COURT: They are in a representative capacity?\n\u201c[INTERVENORS\u2019 COUNSEL]: That is correct.\n\u201c[PLAINTIFFS\u2019 COUNSEL]: I don\u2019t thin[k] Messrs. Karcher and Orrechio [sic] are proper parties. I think it is the Legislature as a whole, separate entities.\n\u201c[INTERVENORS\u2019 COUNSEL]: The institution is coming in as an institution. I can\u2019t come in for each of the 120 individuals directly. I have not polled each one of them.\n\u201cTHE COURT: So I will grant the motion for intervention for Mr. Karcher and Mr. Orrechio [sic] in their capacities as Speakers of the respective Houses.\n\u201c[PLAINTIFFS\u2019 COUNSEL]: I do think the General Assembly and Senate are proper parties and can be represented by Orrechio [sic] and Karcher, but those entities \u2014\n\u201c[INTERVENORS\u2019 COUNSEL]: That is who I am representing. The order says Alan J. Karcher in representative capacity as Speaker of the New Jersey General Assembly, the New Jersey General Assembly and the same for the Senate and its body.\u201d App. to Motion to Dismiss or Affirm 12a-21a.\n\u201cTHE COURT: You say there is a rule which provides the Speaker of each House\u2014\n\u201c[INTERVENORS\u2019 COUNSEL]: It is the presiding officer of each House and in charge of all administrative duties, and from that we have been in numerous suits and have cooperated with counsel anytime they want a deposition. I don\u2019t envision this to be a problem, your Honor.\u201d App. to Motion to Dismiss or Affirm 16a-17a.",
+        "type": "majority",
+        "author": "Justice O\u2019Connor"
+      },
+      {
+        "text": "Justice White,\nconcurring in the judgment.\nI do not disagree with the Court that Mr. Karcher and Mr. Orechio were made parties to this suit in their official capacities representing the New Jersey General Assembly and the New Jersey Senate; those two entities were also made parties. Neither official intervened in his individual capacity as a legislator, and neither sought to appear in that capacity in the Court of Appeals. In January 1986, after the Court of Appeals had decided the case but before any attempt was made to bring it here on appeal, Karcher and Orechio lost their official standing to represent the New Jersey Legislature. It is clear enough to me that they therefore lost their authority to appeal on behalf of the legislature and that their successors in office automatically became parties in their stead, pursuant to Federal Rule of Appellate Procedure 43(c) (1). If any appeal was to be had on behalf of the legislature as it then existed, the appeal was to be taken by the substituted parties, not by Kareher and Orechio. This would be the case even if under New Jersey law, legislative action would be required to authorize the successor officials to drop the appeal. The fact is that there never was a cognizable appeal by the incumbent New Jersey Legislature; an appeal on its behalf never reached this Court. Since Kareher and Orechio did not appeal the Court of Appeals\u2019 judgment in their capacity as individual legislators, or as representatives of the defunct 200th New Jersey Legislature, I do not reach the question whether they would have had standing to maintain this appeal in one of those other capacities.\nLast June, we denied a motion by parents and a schoolteacher to intervene as appellants in this Court. 483 U. S. 1017: Since our interest in this case was the validity of the moment-of-silence statute, it might appear that we could save this case and avoid wasting the time and attention we have given it by vacating our prior order, and granting the motion to intervene, which was filed by those seemingly with standing to defend the law. Cf. Mullaney v. Anderson, 342 U. S. 415 (1952). But if in reality we had no jurisdiction to entertain the appeal taken in this case, it is evident that the movants\u2019 efforts to enter the case came too late.\nIt bears pointing out, however, that we have now acknowledged that the New Jersey Legislature and its authorized representative have the authority to defend the constitutionality of a statute attacked in federal court. Cf. Immigration and Naturalization Service v. Chadha, 462 U. S. 919, 940 (1983). Otherwise, there would never have been a valid appeal to the Court of Appeals, in which event, we would not leave standing the judgment of that court, as we now do.\nIt is also clear that because Kareher and Orechio did not seek to intervene as individual legislators in a nonrepresentative capacity, we again leave for another day the issue whether individual legislators have standing to intervene and defend legislation for which they voted. See Burke v. Barnes, 479 U. S. 361 (1987).\nSince I agree with the majority that no proper appeal was taken from the judgment below, I concur in its judgment that the \u201cappeal\u201d before us should be dismissed for want of jurisdiction.",
+        "type": "concurrence",
+        "author": "Justice White,"
+      }
+    ],
+    "attorneys": [
+      "Rex E. Lee argued the cause for appellants. With him on the briefs were William W. Robertson, Dean A. Gaver, Robert P. Zoller, and Carter G. Phillips.",
+      "Norman L. Cantor argued the cause for appellees. With him on the briefs were Richard M. Altman, John A. Powell, and Eric Neis ser."
+    ],
+    "corrections": "",
+    "head_matter": "KARCHER, SPEAKER OF THE NEW JERSEY GENERAL ASSEMBLY, et al. v. MAY et al.\nNo. 85-1551.\nArgued October 6, 1987\nDecided December 1, 1987\nO\u2019Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Brennan, Marshall, Blackmun, Stevens, and Scalia, JJ., joined. White, J., filed an opinion concurring in the judgment, post, p. 83.\nRex E. Lee argued the cause for appellants. With him on the briefs were William W. Robertson, Dean A. Gaver, Robert P. Zoller, and Carter G. Phillips.\nNorman L. Cantor argued the cause for appellees. With him on the briefs were Richard M. Altman, John A. Powell, and Eric Neis ser.\nBriefs of amici curiae urging reversal were filed for the United States by Solicitor General Fried, Assistant Attorney General Reynolds, Deputy Solicitor General Ayer, Deputy Assistant Attorney General Carvin, Andrew J. Pincus, David K. Flynn, and Dennis J. Dimsey; for the State of Connecticut et al. by Joseph I. Lieberman, Attorney General of Connecticut, Barney Lapp, Henry S. Cohn, and Carl J. Schuman, Assistant Attorneys General, and by the Attorneys General for their respective States as follows: Robert K. Corbin of Arizona, Charles M. Oberly III of Delaware, Linley E. Pearson of Indiana, William J. Guste, Jr., of Louisiana, Frank J. Kelley of Michigan, Brian McKay of Nevada, and Hal Stratton of New Mexico; for the Catholic League for Religious and Civil Rights by Steven Frederick McDowell; for the Rutherford Institute et al. by John W. Whitehead, David E. Morris, Alfred J. Lindh, Ira W. Still III, William B. Hollberg, Randall A. Pentiuk, Thomas W. Strahan, John F. Southworth, Jr., and W. Charles Bundren; and for Ronald Sokalski et al. by Rex E. Lee, Carter G. Phillips, Richard G. Wilkins, Michael J. Woodruff, and Samuel E. Ericsson.\nBriefs of amici curiae urging affirmance were filed for the American Association of School Administrators by David S. Tatel, Walter A. Smith, Jr., and Elizabeth B. Heffeman; for the American Jewish Congress et al. by Sheldon H. Elsen and Clement J. Coined; for Americans United for Separation of Church and State et al. by Lee Boothby and James M. Parker; for the Anti-Defamation League of B\u2019nai B\u2019rith et al. by Ruti G. Teitel, Justin J. Finger, Meyer Eisenberg, Jeffrey P. Sinensky, and Steven M. Freeman; for the New Jersey Council of Churches et al. by Donald L. Drakeman; and for the New Jersey Education Association by James R. Zazzali and Kenneth I. Nowak."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 218,
+  "last_page_order": 231
+}

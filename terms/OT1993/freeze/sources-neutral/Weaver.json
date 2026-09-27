@@ -1,0 +1,1079 @@
+{
+  "id": 6181086,
+  "name": "WEAVER v. GRAHAM, GOVERNOR OF FLORIDA",
+  "name_abbreviation": "Weaver v. Graham",
+  "decision_date": "1981-02-24",
+  "docket_number": "No. 79-5780",
+  "first_page": "24",
+  "last_page": "39",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "450 U.S. 24"
+    },
+    {
+      "type": "parallel",
+      "cite": "67 L. Ed. 2d 17"
+    },
+    {
+      "type": "parallel",
+      "cite": "101 S. Ct. 960"
+    },
+    {
+      "type": "vendor",
+      "cite": "1981 U.S. LEXIS 67"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1980-038"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "446 U. S. 916",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216768,
+        6216518,
+        6216271,
+        6216052,
+        6217493,
+        6216982,
+        6217212
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/446/0916-04",
+        "/us/446/0916-03",
+        "/us/446/0916-02",
+        "/us/446/0916-01",
+        "/us/446/0916-07",
+        "/us/446/0916-05",
+        "/us/446/0916-06"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 944575",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 So. 2d 280",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9830270
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/186/0280-01"
+      ]
+    },
+    {
+      "cite": "101 So. 233",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Fla. 26",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1308719
+      ],
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/88/0026-01"
+      ]
+    },
+    {
+      "cite": "238 So. 2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9729014
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/238/0296-01"
+      ]
+    },
+    {
+      "cite": "262 S. E. 2d 885",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 La. 699",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        1277608
+      ],
+      "weight": 2,
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "700"
+        },
+        {
+          "page": "535-536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/la/155/0700-01"
+      ]
+    },
+    {
+      "cite": "363 So. 2d 1375",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9637128
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1379, 1382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/363/1375-01"
+      ]
+    },
+    {
+      "cite": "20 Minn. L. Rev. 775",
+      "category": "journals:journal",
+      "reporter": "Minn. L. Rev.",
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Harv. L. Rev. 692",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 U. S. 343",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3599681
+      ],
+      "year": 1898,
+      "pin_cites": [
+        {
+          "page": "354-355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/170/0343-01"
+      ]
+    },
+    {
+      "cite": "110 U. S. 574",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3503664
+      ],
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/110/0574-01"
+      ]
+    },
+    {
+      "cite": "128 U. S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3534476
+      ],
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "194",
+          "parenthetical": "portion of legislation void which \" 'should endeavor to reach by its retroactive operation acts before committed' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/128/0189-01"
+      ]
+    },
+    {
+      "cite": "2 Cranch 272",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        1411962
+      ],
+      "year": 1804,
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/6/0162-01"
+      ]
+    },
+    {
+      "cite": "79 Cal. Rptr. 760",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "275 Cal. App. 2d 483",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2234542
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/275/0483-01"
+      ]
+    },
+    {
+      "cite": "560 P. 2d 375",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal. 3d 54",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2291110
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/19/0054-01"
+      ]
+    },
+    {
+      "cite": "86 Nev. 252",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4845056
+      ],
+      "weight": 4,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "256-257"
+        },
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/86/0252-01"
+      ]
+    },
+    {
+      "cite": "95 N. E. 2d 628",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Ind. 54",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1731816
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/229/0054-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7944.29",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 944.012",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "1979"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 N. E. 505",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 3,
+      "year": 1899,
+      "pin_cites": [
+        {
+          "page": "507"
+        },
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Mass. 264",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        475293
+      ],
+      "weight": 2,
+      "year": 1899,
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/172/0264-01"
+      ]
+    },
+    {
+      "cite": "137 U. S. 483",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3546873
+      ],
+      "year": 1890,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/137/0483-01"
+      ]
+    },
+    {
+      "cite": "410 F. 2d 689",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2195465
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "692"
+        },
+        {
+          "page": "691"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/410/0689-01"
+      ]
+    },
+    {
+      "cite": "468 F. 2d 1196",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        247592
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/468/1196-01"
+      ]
+    },
+    {
+      "cite": "417 U. S. 653",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519765
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/417/0653-01"
+      ]
+    },
+    {
+      "cite": "418 U. S. 539",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173832
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0539-01"
+      ]
+    },
+    {
+      "cite": "594 F. 2d 170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512812
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "elimination of parole eligibility held an ex post facto violation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/594/0170-01"
+      ]
+    },
+    {
+      "cite": "390 U. S. 713",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176964,
+        6176823
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/390/0713-02",
+        "/us/390/0713-01"
+      ]
+    },
+    {
+      "cite": "277 F. Supp. 644",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5334711
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "three-judge court"
+        },
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/277/0644-01"
+      ]
+    },
+    {
+      "cite": "449 U. S. 166",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715708
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0166-01"
+      ]
+    },
+    {
+      "cite": "302 U. S. 74",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137435
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "78-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/302/0074-01"
+      ]
+    },
+    {
+      "cite": "313 U. S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140520
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/313/0362-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch 87",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        530387
+      ],
+      "weight": 2,
+      "year": 1810,
+      "pin_cites": [
+        {
+          "page": "138"
+        },
+        {
+          "page": "138",
+          "parenthetical": "\"An ex post facto law is one which renders an act punishable in a manner in which it was not punishable when it was committed\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/10/0087-01"
+      ]
+    },
+    {
+      "cite": "237 U. S. 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        631845
+      ],
+      "weight": 4,
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "183"
+        },
+        {
+          "page": "184"
+        },
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/237/0180-01"
+      ]
+    },
+    {
+      "cite": "107 U. S. 221",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3499903
+      ],
+      "weight": 2,
+      "year": 1883,
+      "pin_cites": [
+        {
+          "page": "229"
+        },
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/107/0221-01"
+      ]
+    },
+    {
+      "cite": "432 U. S. 282",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178615
+      ],
+      "weight": 7,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "298"
+        },
+        {
+          "page": "293-294"
+        },
+        {
+          "page": "294"
+        },
+        {
+          "page": "300"
+        },
+        {
+          "page": "293"
+        },
+        {
+          "page": "293-294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0282-01"
+      ]
+    },
+    {
+      "cite": "3 Dall. 386",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11738091
+      ],
+      "weight": 4,
+      "year": 1798,
+      "pin_cites": [
+        {
+          "page": "390"
+        },
+        {
+          "page": "387"
+        },
+        {
+          "page": "395, 396",
+          "parenthetical": "Paterson, J."
+        },
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/3/0386-01"
+      ]
+    },
+    {
+      "cite": "134 U. S. 160",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299147
+      ],
+      "weight": 5,
+      "year": 1890,
+      "pin_cites": [
+        {
+          "page": "171"
+        },
+        {
+          "page": "171"
+        },
+        {
+          "page": "172",
+          "parenthetical": "rejecting nondisclosure of execution date as ex post facto increase of uncertainty and mental anxiety"
+        },
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/134/0160-01"
+      ]
+    },
+    {
+      "cite": "196 U. S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8291829
+      ],
+      "weight": 3,
+      "year": 1905,
+      "pin_cites": [
+        {
+          "page": "324-325"
+        },
+        {
+          "page": "325"
+        },
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/196/0319-01"
+      ]
+    },
+    {
+      "cite": "301 U. S. 397",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        547734
+      ],
+      "weight": 8,
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "401"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "401-402"
+        },
+        {
+          "page": "400"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "401-402"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/301/0397-01"
+      ]
+    },
+    {
+      "cite": "4 Wall. 277",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        6139656
+      ],
+      "weight": 3,
+      "year": 1867,
+      "pin_cites": [
+        {
+          "page": "325-326"
+        },
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/71/0277-01"
+      ]
+    },
+    {
+      "cite": "445 U. S. 927",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777696,
+        1777792,
+        1777378,
+        1777760,
+        1777636,
+        1777705,
+        1777834,
+        1777423,
+        1777745,
+        1777560,
+        1777631
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0927-02",
+        "/us/445/0927-01",
+        "/us/445/0927-07",
+        "/us/445/0927-08",
+        "/us/445/0927-11",
+        "/us/445/0927-03",
+        "/us/445/0927-09",
+        "/us/445/0927-06",
+        "/us/445/0927-04",
+        "/us/445/0927-05",
+        "/us/445/0927-10"
+      ]
+    },
+    {
+      "cite": "376 So. 2d 855",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9626953,
+        9626831
+      ],
+      "weight": 4,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "856"
+        },
+        {
+          "page": "857"
+        },
+        {
+          "page": "856"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/376/0855-02",
+        "/so2d/376/0855-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 944.275",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "weight": 14,
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        },
+        {
+          "parenthetical": "a"
+        },
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 944.27",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "390 U. S. 713",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176964,
+        6176823
+      ],
+      "year": 1968,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/390/0713-02",
+        "/us/390/0713-01"
+      ]
+    },
+    {
+      "cite": "277 F. Supp. 644",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5334711
+      ],
+      "year": 1967,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/277/0644-01"
+      ]
+    },
+    {
+      "cite": "301 U. S. 397",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        547734
+      ],
+      "year": 1937,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/301/0397-01"
+      ]
+    },
+    {
+      "cite": "432 U. S. 282",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178615
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/432/0282-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 944.275",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "e"
+        },
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 2
+    }
+  ],
+  "analysis": {
+    "cardinality": 1348,
+    "char_count": 31708,
+    "ocr_confidence": 0.663,
+    "pagerank": {
+      "raw": 2.016555577999063e-05,
+      "percentile": 0.9998561692206765
+    },
+    "sha256": "70515b20acb0d2adda754661292ea7eac8e8fb8c84d9d0e89f03a5a65cf89541",
+    "simhash": "1:b98e6e821bdf86b2",
+    "word_count": 5245
+  },
+  "last_updated": "2024-02-27T20:42:56.188000+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Marshall, J., delivered the opinion of the Court., in which Brennan, Stewart, White, Powell, and Stevens, JJ., joined. Blackmun, J., filed an opinion concurring in the judgment, in which Burger, C. J., joined, post, p. 36. Rehnquist, J., filed an opinion concurring in the judgment, post, p. 37."
+    ],
+    "parties": [
+      "WEAVER v. GRAHAM, GOVERNOR OF FLORIDA"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Marshall\ndelivered the opinion of the Court.\nFlorida, like many other States, rewards each convicted prisoner for good conduct and obedience to prison rules by using a statutory formula that reduces the portion of his sentence that he must serve. In this case, we consider whether a Florida statute altering the availability of such \u201cgain time for good conduct\u201d is unconstitutional as an ex post facto law when applied to petitioner, whose crime was committed before the statute\u2019s enactment.\nI\nThe relevant facts are undisputed. Petitioner pleaded guilty to second-degree murder. The crime charged occurred on January 31, 1976. On May 13, 1976, petitioner was convicted and sentenced to a prison term of 15 years, less time already served. The state statute in place on both the date of the offense and the date of sentencing provided a formula for deducting gain-time credits from the sentences \u201cof every prisoner who has committed no infraction of the rules or regulations of the division, or of the laws of the state, and who has performed in a faithful, diligent, industrious, orderly and peaceful manner, the work, duties and tasks assigned to him.\u201d Fla. Stat. \u00a7 944.27 (1) (1975). According to the formula, gain-time credits were to be calculated by the month and were to accumulate at an increasing rate the more time the prisoner had already served. Thus, the statute directed that the authorities \u201cshall grant the following deductions\u201d from a prisoner\u2019s sentence as gain time for good conduct:\n\u201c(a) Five days per month off the first and second years of his sentence;\n\u201c(b) Ten days per month off the third and fourth years of his sentence; and\n\u201c(c) Fifteen days per month off the fifth and all succeeding years of his sentence.\u201d Fla. Stat. \u00a7 944.27 (1) (1975).\nIn 1978, the Florida Legislature repealed \u00a7944.27 (1) and enacted a new formula for monthly gain-time deductions. This new statute provided:\n\u201c(a) Three days per month off the first and second years of the sentence;\n\u201c(b) Six days per month off the third and fourth years of the sentence; and\n\u201c(c) Nine days per month off the fifth and all succeeding years of the sentence.\u201d Fla. Stat. \u00a7 944.275 (1) (1979).\nThe new provision was implemented on January 1, 1979, and since tha.t time the State has applied it not only to prisoners sentenced for crimes committed since its enactment in 1978, but also to all other prisoners, including petitioner, whose offenses took place before that date.\nPetitioner, acting pro se, sought a writ of habeas corpus from the Supreme Court of Florida on the ground that the new statute as applied to him was an ex post facto law prohibited by the United States and the Florida Constitutions. He alleged that the reduced accumulation of monthly gain-time credits provided under the new statute would extend his required time in prison by over 2 years, or approximately 14 percent of his original 15-year sentence. The State Supreme Court summarily denied the petition. 376 So. 2d 855. The court relied on its decision in a companion case raising the same issue where it reasoned that \u201cgain time allowance is an act of grace rather than a vested right and may be withdrawn, modified, or denied.\u201d Harris v. Wainwright, 376 So. 2d 855, 856 (1979). We granted certiorari, 445 U. S. 927, and we now reverse.\nII\nThe ex post jacto prohibition forbids the Congress and the States to enact any law \u201cwhich imposes a punishment for an act which was not punishable at the time it was committed; or imposes additional punishment to that then prescribed.\u201d Cummings v. Missouri, 4 Wall. 277, 325-326 (1867). See Lindsey v. Washington, 301 U. S. 397, 401 (1937); Rooney v. North Dakota, 196 U. S. 319, 324-325 (1905); In re Medley, 134 U. S. 160, 171 (1890); Calder v. Bull, 3 Dall. 386, 390 (1798). Through this prohibition, the Framers sought to assure that legislative Acts give fair warning of their effect and permit individuals to rely on their meaning until explicitly changed. Dobbert v. Florida, 432 U. S. 282, 298 (1977); Kring v. Missouri, 107 U. S. 221, 229 (1883); Colder v. Bull, supra, at 387. The ban also restricts governmental power by-restraining arbitrary and potentially vindictive legislation. Malloy v. South Carolina, 237 U. S. 180, 183 (1915); Kring v. Missouri, supra, at 229; Fletcher v. Peck, 6 Cranch 87, 138 (1810); Calder v. Bull, supra, at 395, 396 (Paterson, J.); the Federalist No. 44 (J. Madison), No. 84 (A. Hamilton).\nIn accord with these purposes, our decisions prescribe that two critical elements must be present for a criminal or penal law to be ex post facto: it must be retrospective, that is, it must apply to events occurring before its enactment, and it must disadvantage the offender affected by it. Lindsey v. Washington, supra, at 401; Calder v. Bull, supra, at 390. Contrary to the reasoning of the Supreme Court of Florida, a law need not impair a \u201cvested right\u201d to violate the ex post facto prohibition. Evaluating whether a right has vested is important for claims under the Contracts or Due Process Clauses, which solely protect pre-existing entitlements. See, e. g., Wood v. Lovett, 313 U. S. 362, 371 (1941); Dodge v. Board of Education, 302 U. S. 74, 78-79 (1937). See also United States Railroad Retirement Board v. Fritz, 449 U. S. 166, 174 (1980). The presence or absence of an affirmative, enforceable right is not relevant, however, to the ex post facto prohibition, which forbids the imposition of punishment more severe than the punishment assigned by law when the act to be punished occurred. Critical to relief under the Ex Post Facto Clause is not an individual\u2019s right to less punishment, but the lack of fair notice and governmental restraint when the legislature increases punishment beyond what was prescribed when the crime was consummated. Thus, even if a statute merely alters penal provisions accorded by the grace of the legislature, it violates the Clause if it is both retrospective and more onerous than the law in effect on the date of the offense. We now consider the Florida statute in light of these two considerations.\nA\nThe respondent maintains that Florida\u2019s 1978 law altering the availability of gain time is not retrospective because, on its face, it applies only after its effective date. Brief for Respondent 12, 15-16. This argument fails to acknowledge that it is the effect, not the form, of the law that determines whether it is ex post facto. The critical question is whether the law changes the legal consequences of acts completed before its effective date. In the context of this case, this question can be recast as asking whether Fla. Stat. \u00a7 944.275 (1) (1979) applies to prisoners convicted for acts committed before the provision\u2019s effective date. Clearly, the answer is in the affirmative. The respondent concedes that the State uses \u00a7 944.275 (1), which was implemented on January 1, 1979, to calculate the gain time available to petitioner, who was convicted of a crime occurring on January 31, 1976. Thus, the provision attaches legal consequences to a crime committed before the law took effect.\nNonetheless, respondent contends that the State\u2019s revised gain-time provision is not retrospective because its predecessor was \u201cno part of the original sentence and thus no part of the punishment annexed to the crime at the time petitioner was sentenced.\u201d Brief for Respondent 12. This contention is foreclosed by our precedents. First, we need not determine whether the prospect of the gain time was in some technical sense part of the sentence to conclude that it in fact is one determinant of petitioner\u2019s prison term \u2014 and that his effective sentence is altered once this determinant is changed. See Lindsey v. Washington, 301 U. S., at 401\u2014402; Greenfield v. Scafati, 277 F. Supp. 644 (Mass. 1967) (three-judge court), summarily aff\u2019d, 390 U. S. 713 (1968). See also Rodriguez v. United States Parole Comm\u2019n, 594 F. 2d 170 (CA7 1979) (elimination of parole eligibility held an ex post facto violation). We have previously recognized that a prisoner\u2019s eligibility for reduced imprisonment is a significant factor entering into both the defendant\u2019s decision to plea bargain and the judge\u2019s calculation of the sentence to be imposed. Wolff v. McDonnell, 418 U. S. 539, 557 (1974); Warden v. Marrero, 417 U. S. 653, 658 (1974). See United States v. De Simone, 468 F. 2d 1196 (CA2 1972); Durant v. United States, 410 F. 2d 689, 692 (CA1 1969). Second, we have held that a statute may be retrospective even if it alters punitive conditions outside the sentence. Thus, we have concluded that a statute requiring solitary confinement prior to execution is ex post facto when applied to someone who committed a capital offense prior to its enactment, but not when applied only prospectively. Compare In re Medley, 134 U. S. 160 (1890), with Holden v. Minnesota, 137 U. S. 483 (1890). See also Cummings v. Missouri, 4 Wall. 277 (1867).\nFor prisoners who committed crimes before its enactment, \u00a7 944.275 (1) substantially alters the consequences attached to a crime already completed, and therefore changes \u201cthe quantum of punishment.\u201d See Dobbert v. Florida, 432 U. S., at 293-294. Therefore, it is a retrospective law which can be constitutionally applied to petitioner only if it is not to his detriment. Id., at 294.\nB\nWhether a retrospective state criminal statute ameliorates or worsens conditions imposed by its predecessor is a federal question. Lindsey v. Washington, supra, at 400. See Malloy v. South Carolina, 237 U. S., at 184; Rooney v. North Dakota, 196 U. S., at 325. The inquiry looks to the challenged provision, and not to any special circumstances that may mitigate its effect on the particular individual. Dobbert v. Florida, supra, at 300; Lindsey v. Washington, supra, at 401; Rooney v. North Dakota, supra, at 325.\nUnder this inquiry, we conclude \u00a7 944.275 (1) is disadvantageous to petitioner and other similarly situated prisoners. On its face, the statute reduces the number of monthly gain-time credits available to an inmate who abides by prison rules and adequately performs his assigned tasks. By definition, this reduction in gain-time accumulation lengthens the period that someone in petitioner\u2019s position must spend in prison. In Lindsey v. Washington, supra, at 401-402, we reasoned that \u201c[i]t is plainly to the substantial disadvantage of petitioners to be deprived of all opportunity to receive a sentence which would give them freedom from custody and control prior to the expiration of the 15-year term.\u201d Here, petitioner is similarly disadvantaged by the reduced opportunity to shorten his time in prison simply through good conduct. In Greenfield v. Scafati, supra, we affirmed the judgment of a three-judge District Court which found an ex post facto violation in the application of a statute denying any gain time for the first six months after parole revocation to an inmate whose crime occurred before the statute\u2019s enactment. There, as here, the inmate was disadvantaged by new restrictions on eligibility for release. In this vein, the three-judge court in Greenfield found \u201cno distinction between depriving a prisoner of the right to earn good conduct deductions and the right to qualify for, and hence earn, parole. Each . . . materially \u2018alters the situation of the accused to his disadvantage.\u2019 \u201d 277 F. Supp., at 646 (quoting In re Medley, supra, at 171). See also Murphy v. Commonwealth, 172 Mass. 264, 52 N. E. 505 (1899).\nRespondent argues that our inquiry sb\u00f3uld not end at this point because Fla. Stat. \u00a7 944.275 (1) (1979) must be examined in conjunction with other provisions enacted with it. Brief for Respondent 18-26. Respondent claims that the net effect of all these provisions is increased availability of- gain-time deductions. There can be no doubt that the legislature intended through these provisions to promote rehabilitation and to create incentives for specified productive conduct. See Fla. Stat. \u00a7 944.012 (1979). But none of these provisions for extra gain time compensates for the reduction of gain time available solely for good conduct. The fact remains that an inmate who performs satisfactory work and avoids disciplinary violations could obtain more gain time per month under the repealed provision, \u00a7 944.27 (1) (1975), than he could for the same conduct under the new provision, \u00a7 944.275 (1) (1979). To make up the difference, the inmate has to satisfy the extra conditions specified by the discretionary gain-time provisions. Even then, the award of the extra gain time is purely discretionary, contingent on both the wishes of the correctional authorities and special behavior by the inmate, such as saving a life or diligent performance in an academic program. Fla. Stat. \u00a7\u00a7 944.275 (3) (a), (b) (1979). In contrast, under both the new and old statutes, an inmate is automatically entitled to the monthly gain time simply for avoiding disciplinary infractions and performing his assigned tasks. Compare Fla. Stat. \u00a7 944.275 (1) (1979) with \u00a7 944.27 (1) (1975). Thus, the new provision constricts the inmate\u2019s opportunity to earn early release, and thereby makes more onerous the punishment for crimes committed before its enactment. This result runs afoul of the prohibition against ex post jacto laws.\nIII\nWe find Fla. Stat. \u00a7 944.275 (1) (1979) void as applied to petitioner, whose crime occurred before its effective date. We therefore reverse the judgment of the Supreme Court of Florida and remand this case for further proceedings hot inconsistent with this opinion.\nRmersei ani remanded.\nFla. Stat. \u00a7 944.275 (1) (1979); Fla. Stat. \u00a7 944.27 (1) (1975). At the time of petitioner\u2019s offense, Florida used the term \u201cgood-time,\u201d to refer to extra \u201callowance for meritorious conduct or exceptional industry.\u201d Fla. Stat. \u00a7944.29 (1975). The current Florida law adopts the phrase \u201cgain-time\u201d to apply to various kinds of time credited to reduce a prisoner\u2019s prison term. See, e. g., Fla. Stat. \u00a7 944.275 (3) (1979).\nThe statute also provided for extra discretionary good time, based on other factors. See n. 18, infra.\nThere are some minor language differences in the new provision directing the correctional authorities at the Department of Offender Rehabilitation to make the gain-time deductions. The phrase \u201cwho has performed in a satisfactory and acceptable manner the work, duties, and tasks assigned,\u201d Fla. Stat. \u00a7944.275 (1) (1979), replaces the former phrase, \u201cwho has performed in a faithful, diligent, industrious, orderly, and peaceful manner the work, duties, and tasks assigned,\u201d Fla. Stat. \u00a7 944.27 (1) (1975). The new version also explicitly adds that the deductions are to be made \u201con a monthly basis, as earned,\u201d which appears to codify the previous practice. The State Supreme Court assigned no significance to these differences in evaluating the ex post facto claim, nor does any party here assert that these minor language changes are relevant to our inquiry.\nNo saving clause limiting the Act\u2019s application was included. 1978 Fla. Laws, ch. 78-304. In applying the new schedule to prisoners like petitioner, the Secretary of the Department of Offender Rehabilitation relied on the legal opinion of the Attorney General of Florida. Fla. Op. Atty. Gen. 078-96 (1978).\n\u201cNo State shall . . . pass any ... ex post facto Law.\u201d U. S. Const., Art. I, \u00a7 10, cl. 1. The Florida Constitution similarly provides that \"[n]o . . . ex post facto law . . . shall be passed.\u201d Fla. Const., Art. I, \u00a7 10. See also Fla. Const., Art. X, \u00a7 9 (forbidding state legislature to enact a statute \u201caffect [ing] [the] prosecution or punishment\u201d for any offense previously committed).\nPetitioner estimated that his \u201ctentative expiration date\u201d under Fla. Stat. \u00a7 944.27 (1975) would be December 31, 1984. App. 15a. The State calculated that application of the new gain-time provision starting with its effective date resulted in a projected release date of February 2, 1987. Id,, at 12a-13a. The State does not dispute petitioner\u2019s contention that a difference of over two years is at stake.\nThe Florida court also distinguished cases from other jurisdictions striking down retrospective statutes that eliminated the allowance of gain time in specified situations, revised the entire scheme of criminal penalties, and extended the incarceration of juvenile offenders. 376 So. 2d, at 857 (distinguishing Dowd v. Sims, 229 Ind. 54, 95 N. E. 2d 628 (1950); Goldsworthy v. Hannifin, 86 Nev. 252, 468 P. 2d 350 (1970); In re Dewing, 19 Cal. 3d 54, 560 P. 2d 375 (1977); and In re Valenzuela, 275 Cal. App. 2d 483, 79 Cal. Rptr. 760 (1969)).\nU. S. Const., Art. I, \u00a7 9, cl. 3; Art. I, \u00a7 10, cl. 1. \u201cSo much importance did the [Convention attach to [the ex post facto prohibition], that it is found twice in the Constitution.\u201d Kring v. Missouri, 107 U. S. 221, 227 (1883).\n\u201cThe enhancement of a crime, or penalty, seems to come within the same mischief as the creation of a crime or penalty\u201d after the fact. Calder v. Bull, 3 Dall., at 397 (Paterson, J.). See also Fletcher v. Peck, 6 Cranch 87, 138 (1810) (\u201cAn ex post facto law is one which renders an act punishable in a manner in which it was not punishable when it was committed\u201d).\nThe ex post facto prohibition also upholds the separation of powers by confining the legislature to penal decisions with prospective effect and the judiciary and executive to applications of existing penal law. Cf. Ogden v. Blackledge, 2 Cranch 272, 277 (1804).\nSee Jaehne v. New York, 128 U. S. 189, 194 (1888) (portion of legislation void which \u201c 'should endeavor to reach by its retroactive operation acts before committed\u2019 \u201d) (quoting T. Cooley, Constitutional Limitations 215 (5th ed. 1883)).\nWe have also held that no ex post facto violation occurs if the change effected is merely procedural, and does \u201cnot increase the punishment nor change the ingredients of the offense or the ultimate facts necessary to establish guilt.\u201d Hopt v. Utah, 110 U. S. 574, 590 (1884). See Dobbert v. Florida, 432 U. S. 282, 293 (1977). Alteration of a substantial right, however, is not merely procedural, even if the statute takes a seemingly, procedural form. Thompson v. Utah, 170 U. S. 343, 354-355 (1898); Kring v. Missouri, supra, at 232.\nIn using the concept of vested rights, Harris v. Wainwright, 376 So. 2d, at 856, the Florida court apparently drew on the test for evaluating retrospective laws in a civil context. See 2 C. Sands, Sutherland on Statutory Construction \u00a7 41.06 (4th ed. 1973); Hochman, The Supreme Court and the Constitutionality of Retroactive Legislation, 73 Harv. L. Rev. 692, 696 (1960); Smead, The Rule Against Retroactive Legislation: A Basic Principle of Jurisprudence, 20 Minn. L. Rev. 775, 782 (1936). Discussion of vested rights has seldom appeared in ex post facto analysis, as in identifying whether the challenged change is substantive rather than procedural. Hopt v. Utah, supra, at 590. When a court engages in ex post facto analysis, which is concerned solely with whether a statute assigns more disadvantageous criminal or penal consequences to an act than did the law in place when the act occurred, it is irrelevant whether the statutory change touches any vested rights. Several state courts have properly distinguished vested rights from ex post facto concerns. E. g., State v. Curtis, 363 So. 2d 1375, 1379, 1382 (La. 1978); State ex rel. Woodward v. Board of Parole, 155 La. 699, 700, 99 So. 534, 535-536 (1924); Murphy v. Commonwealth, 172 Mass. 264, 272, 52 N. E. 505, 507 (1899).\nRespondent here advances several theories that incorporate the vested rights approach. For example, respondent defends Fla. Stat. \u00a7 944.275 (1) (1979) on the ground that it does not take away any gain time that petitioner has already earned. Brief for Respondent 39-40. Although this point might have pertinence were petitioner alleging a due process violation, see Wolff v. McDonnell, 418 U. S. 539 (1974), it has no relevance to his ex post facto claim.\nDurant v. United States, 410 F. 2d 689, 691 (CA1 1969); Adkins v. Bordenkircher, 262 S. E. 2d 885, 887 (W. Va. 1980); Goldsworthy v. Hannifin, 86 Nev., at 256-257, 468 P. 2d, at 352. See Murphy v. Commonwealth, supra, at 272, 52 N. E., at 507.\n\u201cThe Constitution deals with substance, not shadows. Its inhibition was levelled at the thing, not the name. It intended that the rights of the citizen should be secure against deprivation for past conduct by legislative enactment, under any form, however disguised.\u201d Cummings v. Missouri, 4 Wall. 277, 325 (1867).\nSee App. 12a-13a (Affidavit, Louie Wainwright, Secretary, Department of Corrections).\nEven when the sentence is at issue, a law may be retrospective not only if it alters the length of the sentence, but also if it changes the maximum sentence from discretionary to mandatory. Lindsey v. Washington, 301 U. S. 397, 401 (1937). The critical question, as Florida has often acknowledged, is whether the new provision imposes greater punishment after the commission of the offense, not merely whether it increases a criminal sentence. Greene v. State, 238 So. 2d 296 (Fla. 1970); Higginbotham v. State, 88 Fla. 26, 31, 101 So. 233, 235 (1924); Herberle v. P. R. O. Liquidating Co,, 186 So. 2d 280, 282 (Fla. App. 1966). Thus in Dobbert v. Florida, 432 U. S. 282 (1977), we held there was no ex post jacto violation because the challenged provisions changed the role of jury and judge in sentencing, but did not add to the \u201cquantum of punishment.\u201d Id., at 293-294. In Malloy v. South Carolina, 237 U. S. 180 (1915), we concluded that a change in the method of execution was not ex post facto because evidence showed the new method to be more humane, not because the change in the execution method was not retrospective. Id., at 185.\nThese other provisions permit discretionary grants of additional gain time for inmates who not only satisfy the good-conduct requirement, but who also deserve extra reward under designated categories. Under \u00a7 944.275 (3) (b) (1979), \u201cspecial gain-time\u201d of 1 to 60 days \u201cmay be granted\u201d to an \u201cinmate who does some outstanding deed, such as the saving of a life or assisting in the recapturing of an escaped inmate.\u201d Another provision specifies that an inmate \u201cmay be granted\u201d one to six extra gain-time days per month if he \u201cfaithfully performs the assignments given to him in a conscientious manner over and above that which may normally be expected of him\u201d and also either shows \u201chis desire to be a better than average inmate\u201d or \u201cdiligently participates in an approved course of academic or vocation study.\u201d \u00a7 944.275 (3) (a). An inmate may be awarded up to one gain-time credit for labor evaluated \u201con the basis of diligence of the inmate, the quality and quantity of work performed, and the skill required for performance of the work.\u201d \u00a7944.275 (2) (b). Finally, for inmates unable to qualify under this previous provision due to \u201cage, illness, infirmity, or confinement for reasons other than discipline,\u201d additional gain time of up to six days per month may be granted for \u201cconstructive utilization of time.\u201d \u00a7 944.275 (2) (e).\nIn addition, few of the \u201cnew\u201d sources for extra gain time do more than reiterate previous opportunities provided by statute or state regulation. Compare Fla. Stat. \u00a7 944.275 (3) (a) (1979) with \u00a7944.29 (1975) (\u201can extra good-time allowance for meritorious conduct or exceptional industry\u201d); Fla. Stat. \u00a7 944575 (2) (b) (1979) with \u00a7944.27 (1975) (authorizing administrative rules governing additional gain time) and Fla. Admin. Code, Rule 10B-20.04 (1) (1975) (gain time for construction labor project); Fla. Stat. \u00a7 944.275 (3) (b) (1979) with Rule 10B-20.04 (2) (1975) (gain time for outstanding deed). Moreover, under the statute in existence when petitioner\u2019s crime occurred, the Department of Corrections enjoyed greater discretion as to the reasons for awarding extra gain time, and as to the amount that could be awarded. See \u00a7944.29 (1975).\nAs respondent put it, \u201call any prisoner had to do . . . was to stay out of trouble.\u201d Brief for Respondent 25. The monthly gain-time provision, both at the time of petitioner\u2019s offense and now, directed that the Department of Corrections \u201cshall\u201d award gain time to those who obey the rules and perform their work satisfactorily. Fla Stat. \u00a7 944.27 (1) (1975); Fla. Stat. \u00a7944.275 (1) (1979). The discretionary extra gain time cannot fully compensate for the reduced accumulation of gain time for good behavior, for the discretionary credit is more uncertain. Cf. In re Medley, 134 U. S. 160, 172 (1890) (rejecting nondisclosure of execution date as ex post facto increase of uncertainty and mental anxiety). Moreover, replacement of mandatory sentence reduction with discretionary sentence reduction cannot be permissible in light of Lindsey v. Washington, 301 U. S., at. 401. There, we rejected as an ex post facto violation a legislative change from flexible sentencing to mandatory maximum sentencing because the retrospective legislation restricted defendants\u2019 opportunity to serve less than the maximum time in prison.\nWe need not give lengthy consideration to respondent\u2019s claim that the challenged statute, Fla. Stat. \u00a7944.275 (1) (1979), is merely procedural because it does not alter the punishment prescribed for petitioner\u2019s offense. Brief for Respondent 13, 17-18. This contention is incorrect, given the uncontested fact that the new provision reduces the quantity of gain time automatically available, and does not merely alter procedures for its allocation. See supra, Part II-A. Respondent\u2019s reliance on a general statement of legislative intent unrelated to the gain-time provision, see Brief for Respondent 17 (citing Fla. Stat. \u00a7944.012 (6) (1979)), is also unpersuasive.\nThe proper relief upon a conclusion that a state prisoner is being treated under an ex post facto law is to remand to permit the state court to apply, if possible, the law in place when his crime occurred. See Lindsey v. Washington, supra, at 402, In re Medley, supra, at 173. In remanding for this relief, we note that only the ex post facto portion of the new law is void as to petitioner, and therefore any severable provisions which are not ex post facto may still be applied to him. See 2 C. Sands, Sutherland on Statutory Construction \u00a7 44.04 (4th ed. 1973).",
+        "type": "majority",
+        "author": "Justice Marshall"
+      },
+      {
+        "text": "Justice Blackmun,\nwith whom The Chief Justice joins, concurring in the judgment.\nWere the Court writing on a clean slate, I would vote to affirm the judgment of the Supreme Court of Florida. My thesis would be: (a) the 1978 Florida statute operates only prospectively and does not affect petitioner\u2019s credits earned and accumulated prior to the effective date of the statute; (b) \u201cgood time\u201d or \u201cgain time\u201d is something to be earned and is not part of, or inherent in, the sentence imposed; (c) all the new statute did was to remove some of petitioner\u2019s hope and a portion of his opportunity; and (d) his sentence therefore was not enhanced by the statute. In addition, as the Court\u2019s 18th footnote reveals, ante, at 34-35, the statutory change by no means was entirely restrictive; in certain respects it was more lenient, as the Court\u2019s careful preservation for this prisoner of the new statute\u2019s other provisions clearly implies. Ante, at 36 and this page, n. 22.\nThe Court\u2019s precedents, however, particularly Lindsey v. Washington, 301 U. S. 397 (1937), and the summary disposition of Greenfield v. Scafati, 277 F. Supp. 644 (Mass. 1967), aff\u2019d, 390 U. S. 713 (1968), although not warmly persuasive for me, look the other way, and I thus must accede to the judgment of the Court.",
+        "type": "concurrence",
+        "author": "Justice Blackmun,"
+      },
+      {
+        "text": "Justice Rehnquist,\nconcurring in the judgment.\nI find this case a close one. As the Court recently noted: \u201cIt is axiomatic that for a law to be ex post facto it must be more onerous than the prior law.\u201d Dobbert v. Florida, 432 U. S. 282, 294 (1977). Petitioner was clearly disadvantaged by the loss of the opportunity to accrue gain time through good conduct pursuant to the 5-10-15 formula when the legislature changed to a 3-6-9 formula. The new statute, however, also afforded petitioner opportunities not available under prior law to earn additional gain time beyond the good-conduct formula. The case is not resolved simply by comparing the 5-10-15 formula with the 3-6-9 formula. \u201cWe must compare the two statutory procedures in toto to determine if the new may be fairly characterized as more onerous.\u201d Ibid.\nI am persuaded in this case, albeit not without doubt, that the new statute is more onerous than the old, because the amount of gain time which is accrued automatically solely through good conduct is substantially reduced, and this reduction is not offset by the availability of discretionary awards of gain time for activities extending beyond simply \u201cstaying out of trouble.\u201d This is not to say, however, that no reduction in automatic gain time, however slight, can ever be offset by increases in the availability of discretionary gain time, however great, or that reductions in the amount of credit for good conduct can never be offset by increases in the availability of credit which can be earned by more than merely good conduct.\nSince the availability of new opportunities for discretionary gain time and the reduction in the amount of automatic gain time can be viewed as a total package, it must be emphasized that nothing in today\u2019s decision compels Florida to provide prisoners in petitioner\u2019s position with the benefits of the new provisions when this Court has held that Florida may not require such prisoners to pay the price. It is not at all clear that the Florida Legislature would have intended to make available the new discretionary gain time to. prisoners earning automatic gain time under the old 5-10-15 formula, when the legislature in fact reduced the 5-10-15 formula when it enacted the new provisions. The question is, of course, one for Florida to resolve.\nWhile the Court points out that gain time was available under the old scheme beyond the 5-10-15 formula, ante, at 35, n. 19,1 am not convinced that the new sources simply \u201creiterate [d]\u201d opportunities previously available. There is, for example, no dispute that several of the new sources of gain time have no analogues in the previous statutory or administrative scheme. See, e. g., Fla. Stat. \u00a7944.275 (2) (e) (1979) (up to six days of gain time per month because of age, illness, infirmity, or confinement for reasons other than discipline); \u00a7 944.275 (3) (a) (up to six days per month for inmates who diligently participate in an approved course of academic or vocational study). Other new statutory provisions which had only administrative counterparts improved substantially on the availability of gain time. For example, under the old administrative system, an inmate could receive from 1 to 15 days of gain time per month for constructive labor, Fla. Admin. Code, Rule 10B-20.04 (1) (1975), while under the new statutory scheme, an inmate can receive up to 1 day of gain time for every day of constructive labor, Fla. Stat. \u00a7 944.275 (2) (b) (1979).",
+        "type": "concurrence",
+        "author": "Justice Rehnquist,"
+      }
+    ],
+    "attorneys": [
+      "Thomas C. MacDonald, Jr., by appointment of the Court, 446 U. S. 916, argued the cause and filed briefs for petitioner.",
+      "Wallace E. Allbritton, Assistant Attorney General of Florida, argued the cause for respondent. With him on the brief was Jim Smith, Attorney General."
+    ],
+    "corrections": "",
+    "head_matter": "WEAVER v. GRAHAM, GOVERNOR OF FLORIDA\nNo. 79-5780.\nArgued November 5, 1980\nDecided February 24, 1981\nMarshall, J., delivered the opinion of the Court., in which Brennan, Stewart, White, Powell, and Stevens, JJ., joined. Blackmun, J., filed an opinion concurring in the judgment, in which Burger, C. J., joined, post, p. 36. Rehnquist, J., filed an opinion concurring in the judgment, post, p. 37.\nThomas C. MacDonald, Jr., by appointment of the Court, 446 U. S. 916, argued the cause and filed briefs for petitioner.\nWallace E. Allbritton, Assistant Attorney General of Florida, argued the cause for respondent. With him on the brief was Jim Smith, Attorney General."
+  },
+  "file_name": "0024-01",
+  "first_page_order": 102,
+  "last_page_order": 117
+}

@@ -1,0 +1,351 @@
+{
+  "id": 10516913,
+  "name": "U.S. PHILIPS CORPORATION, North American Philips Corporation and N.V. Philips Gloeilampenfabrieken, Plaintiffs-Appellants, v. WINDMERE CORPORATION and Izumi Seimitsu Kogyo Kabushiki Kaisha, Defendants-Appellees",
+  "name_abbreviation": "U.S. Philips Corp. v. Windmere Corp.",
+  "decision_date": "1992-07-31",
+  "docket_number": "No. 92-1020",
+  "first_page": "728",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "971 F.2d 728"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "862 F.2d 1299",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6494344,
+        1825452
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/93/1299-01",
+        "/f2d/862/1299-01"
+      ]
+    },
+    {
+      "cite": "891 F.2d 762",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533974
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/891/0762-01"
+      ]
+    },
+    {
+      "cite": "927 F.2d 626",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1797459,
+        3488413
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "627-28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/927/0626-01",
+        "/us-app-dc/288/0354-01"
+      ]
+    },
+    {
+      "cite": "936 F.2d 127",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522317
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/936/0127-01"
+      ]
+    },
+    {
+      "cite": "931 F.2d 710",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1801757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/931/0710-01"
+      ]
+    },
+    {
+      "cite": "113 L.Ed.2d 235",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 1300",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "299 U.S. 259",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5721522
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "267"
+        },
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/299/0259-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "39-40"
+        },
+        {
+          "page": "106-107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "5 USPQ2d 1686",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. 2d (BNA)",
+      "pin_cites": [
+        {
+          "page": "1687"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "839 F.2d 663",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10545234
+      ],
+      "pin_cites": [
+        {
+          "page": "664"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/839/0663-01"
+      ]
+    },
+    {
+      "cite": "819 F.2d 277",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1710039
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/819/0277-01"
+      ]
+    },
+    {
+      "cite": "1991 U.S.Dist.LEXIS 506",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1991 WL 4426",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 L.Ed.2d 635",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 2070",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "490 U.S. 1068",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        604970,
+        605066,
+        605869,
+        605712,
+        604882,
+        605267,
+        605780,
+        605109,
+        605781,
+        605046,
+        605941,
+        605563,
+        605628
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/1068-01",
+        "/us/490/1068-06",
+        "/us/490/1068-11",
+        "/us/490/1068-02",
+        "/us/490/1068-05",
+        "/us/490/1068-10",
+        "/us/490/1068-08",
+        "/us/490/1068-07",
+        "/us/490/1068-13",
+        "/us/490/1068-03",
+        "/us/490/1068-09",
+        "/us/490/1068-12",
+        "/us/490/1068-04"
+      ]
+    },
+    {
+      "cite": "8 USPQ2d 1885",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. 2d (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "861 F.2d 695",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/861/0695-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 564,
+    "char_count": 10611,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 1.3998958299777606e-07,
+      "percentile": 0.6444823617129801
+    },
+    "sha256": "adb0fd8c546c19ae7d2bc2b9d32de205cc3829108f86b0e3fa76a6f866aedb96",
+    "simhash": "1:fda8f93b23364b95",
+    "word_count": 1704
+  },
+  "last_updated": "2024-02-27T20:34:25.855113+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NEWMAN, Circuit Judge, FRIEDMAN, Senior Circuit Judge, and MAYER, Circuit Judge."
+    ],
+    "parties": [
+      "U.S. PHILIPS CORPORATION, North American Philips Corporation and N.V. Philips Gloeilampenfabrieken, Plaintiffs-Appellants, v. WINDMERE CORPORATION and Izumi Seimitsu Kogyo Kabushiki Kaisha, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "PAULINE NEWMAN, Circuit Judge.\nORDER\nOn joint motion filed by U.S. Philips Corp., North American Philips Corp. and N.V. Philips Gloeilampenfabrieken (together herein \u201cPhilips\u201d) and Windmere Corporation, to enter settlement agreement, dismiss appeal, and vacate judgments. Izumi Seimitsu Kogyo Kabushiki Kaisha (Izumi) opposes the joint motion to dismiss and vacate the judgments. We grant the motion.\nThe Proceedings\nSuit was brought by Philips against Windmere and Izumi in the United States District Court for the Southern District of Florida, based on the sale by Windmere, a Florida corporation, of certain rotary electric shavers supplied by Izumi, a Japanese corporation. Philips charged Windmere with infringement and Izumi with contributory infringement of certain United States patents. Philips also charged Windmere with unfair competition based on asserted confusing similarity of the Izumi-supplied shavers. By counterclaim Windmere charged Philips with violation of the Sherman Act. Trial was to a jury. A verdict was directed against Windmere on the antitrust counterclaim, but was reversed by this court and remanded for trial. U.S. Philips Corp. v. Windmere Corp., 861 F.2d 695, 8 USPQ2d 1885 (Fed.Cir.1988), cert. denied, North American Philips Corp. v. Windmere Corp., 490 U.S. 1068, 109 S.Ct. 2070, 104 L.Ed.2d 635 (1989).\nNo appeal was taken from the judgment on the patent infringement count, which was decided in favor of Philips and against Windmere and Izumi; final judgment on the patent count was entered in 1986. The unfair competition claim was re-tried along with the antitrust counterclaim, and judgments were duly entered upon the jury verdicts, which were in favor of Windmere. U.S. Philips Corp. v. Windmere Corp., No. 84-2508, (S.D.Fla. Apr. 6, 1990) (antitrust issue); and (S.D.Fla. May 4, 1990) (unfair competition issue). Now before this court is Philips\u2019 appeal of these judgments.\nDuring pendency of this appeal Philips and Windmere entered into a settlement agreement. In accordance with the terms thereof Philips and Windmere filed a joint motion to dismiss the appeal and vacate the judgments. Izumi has opposed the motion to dismiss insofar as it requests vacatur of the judgments.\nI\nIzumi\u2019s Standing\nIzumi argues that it has standing to oppose the motion, for the following reasons:\nA\nIzumi states that it was a party before the district court, and that its continued status as a party is evidenced by its inclusion in this court\u2019s official caption, citing Fed.Cir. Rule 12 (practice note). Fed. Cir. Rule 12 relates to the docketing of an appeal and the filing of the record. The practice note provides that \u201cparties included in the trial court title having an adverse interest to the appellant but not cross appealing shall be deemed appellees.\u201d Izumi states that neither Philips nor Windmere objected to the inclusion of Izumi in the official caption. Izumi thus maintains that it has standing as an appellee.\nAlthough Izumi\u2019s name is indeed carried in the caption, Izumi is not a party to this appeal or any aspect thereof, was not a party to the trial of these claims, and did not file an appearance in the district court trial of these issues. Izumi did not file an appearance upon appeal to this court, and did not file a certificate of interest with this court. A practice note does not confer status or standing. Izumi was a party only to the patent infringement cause, for which the judgment was not appealed. Although Izumi argues that this court \u201cdoes not require an appellee to be named on every claim\u201d, Izumi is not party to any claim, and has not been since 1986.\nPhilips points out, without contradiction, that Izumi took affirmative steps to avoid being characterized or involved as a party in the trial of these counts. The record shows Izumi\u2019s resistance to discovery on the argument that it is not a party. We conclude that inclusion on the \u201cofficial caption\u201d does not establish status as a party before this court.\nB\nIzumi argues alternatively that even if it were not a party to the proceedings that are the subject of this appeal and settlement, its substantial involvement in the proceedings and its substantial interest in the subject matter provide standing to oppose vacatur. Izumi states that it was an indemnitor of Windmere and supporter of the entire defense on behalf of Wind-mere, including this appeal. Izumi also states that its testimony was key on the unfair competition issue. Izumi thus argues that even as a non-party it has sufficient interest to intervene and/or to oppose the motion.\nWe do not discern in Izumi\u2019s financial support of Windmere the authority to intervene in this court. The certificate of interest filed on this appeal identifies Windmere as the real party in interest. Despite Izu-mi\u2019s asserted interest as manufacturer of the accused product, Izumi refrained from intervention at the trial pursuant to Fed. R.Civ.P. 24, and did not seek to join the action under Fed.R.Civ.P. 19 or 20. Any financial or commercial interest Izumi might have in the unfair competition claim does not confer standing as a party, on the posture of this case.\nC\nIzumi argues that because it is involved at a trial in Illinois on similar issues, the judgment of the Florida court should be preserved for purposes of collateral estop-pel. The district court in Illinois has granted a motion for summary judgment filed by Sears, Roebuck & Co. against Philips, based on preclusion due to the Florida unfair competition judgment. U.S. Philips Corp. v. Sears Roebuck & Co., No. 85-C-5366 (N.D.Ill. Oct. 5, 1990), recons. denied, 1991 WL 4426, 1991 U.S.Dist.LEXIS 506 (N.D.Ill. Jan. 16, 1991). Philips and Wind-mere point out that Izumi seeks the benefit of the Florida settlement, yet seeks the benefit of the Florida judgment (which the settlement would vacate) for its possible effect in other actions.\nIzumi does not dispute that it is not a party to the unfair competition claims in the Illinois action. In view of this status, this argument does not lend Izumi standing to intervene in order to preserve the Florida judgment.\nD\nWe conclude that Izumi does not have standing to oppose the joint motion.\nII\nVacatur\nIt is nonetheless appropriate that this court review the propriety of vacatur, for we do not view vacatur as automatic under all circumstances.\nThis court has held that vacatur of the judgment at trial is appropriate when settlement moots the action on appeal. Federal Data Corp. v. SMS Data Products Group, Inc., 819 F.2d 277, 280 (Fed.Cir. 1987); Smith Int'l, Inc. v. Hughes Tool Co., 839 F.2d 663, 664, 5 USPQ2d 1686, 1687 (Fed.Cir.1988). Authority is found in United States v. Munsingwear, Inc., 340 U.S. 36, 39-40, 71 S.Ct. 104, 106-107, 95 L.Ed. 36 (1950) and Duke Power Co. v. Greenwood County, 299 U.S. 259, 267, 57 S.Ct. 202, 205, 81 L.Ed. 178 (1936), which provide that judgments should in general be vacated when the case becomes moot. In City Gas Co. of Florida v. Consolidated Gas Co. of Florida, \u2014 U.S.\u2014, 111 S.Ct. 1300, 113 L.Ed.2d 235 (1991) the Court summarily vacated a decision of the Eleventh Circuit and ordered the appellate court to dismiss the case under Munsing-wear, apparently because the parties had settled. Consolidated Gas Co. of Florida v. City Gas Co. of Florida, 931 F.2d 710 (11th Cir.1991) (on remand from Supreme Court).\nWe take note that some circuits have declined to vacate judgments merely because the parties settled their dispute. E.g., Clarendon Ltd. v. Nu-West Indus., Inc., 936 F.2d 127 (3rd Cir.1991); In re United States, 927 F.2d 626 (D.C.Cir.1991); National Union Fire Ins. Co. v. Seafirst Corp., 891 F.2d 762 (9th Cir.1989); In re Memorial Hosp. of Iowa County, Inc., 862 F.2d 1299 (7th Cir.1988). These courts distinguish the \u201cmootness\u201d occasioned by settlement pending appeal from that which was the concern in Munsingwear. Mun-singwear addresses the situation where the parties are foreclosed from seeking appellate review by circumstances beyond their control, whereas these courts characterize settlement of claims pending appeal as a voluntary decision to forego appeal, and not as a \u201chappenstance\u201d which divests the parties of their right to appellate review. Clarendon, 936 F.2d at 130; In re United States, 927 F.2d at 627-28; National Union, 891 F.2d at 766; In re Memorial Hosp., 862 F.2d at 1301. See generally 13A Charles A. Wright et al., Federal Practice and Procedure \u00a7 3533.10 (1984 & Supp.1992) (discussing the concerns faced by courts in deciding whether to vacate a judgment in light of settlement pending appeal).\nAlthough in the Federal Circuit vacatur is the general rule, we do not hold that vacatur must always be granted, whatever the circumstances. In this case, however, as in Federal Data Corp. and Smith International, the settlement between Philips and Windmere includes all the parties to the appeal. All of the claims of the judgments were appealed, and have now become entirely moot. See Munsingwear, supra. The parties to this appeal are entitled to rely on our precedent. Vacatur of the judgments on appeal is appropriate.\nACCORDINGLY, IT IS ORDERED THAT:\n1. Izumi\u2019s opposition to the parties\u2019 joint motion to dismiss and vacate is DENIED.\n2. The parties\u2019 joint motion is GRANTED. The judgments of April 6, 1990 and May 4, 1990 are VACATED. We remand with instructions that the case be DISMISSED WITH PREJUDICE.\n3.Thereupon, Appeal No. 92-1020 is DISMISSED.",
+        "type": "majority",
+        "author": "PAULINE NEWMAN, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "William E. Willis, Sullivan & Cromwell, New York City, for plaintiffs-appellants, U.S. Philips Corp., North American Philips Corp. and N.V. Philips Gloeilampenfabrieken and Paul M. Dodyk, Cravath, Swaine & Moore, New York City, for defendants-ap-pellees, Windmere Corp., were on the joint motion to dismiss the appeal as moot and vacate the judgments below.",
+      "Herbert H. Mintz and Jean B. Fordis, Finnegan, Henderson, Farabow, Garrett & Dunner, Washington, D.C., were on the Opposition filed by Izumi Seimitsu Kogyo Kabushiki Kaisha to the Philips-Windmere joint motion to dismiss the appeal as moot and vacate the judgments below."
+    ],
+    "corrections": "",
+    "head_matter": "U.S. PHILIPS CORPORATION, North American Philips Corporation and N.V. Philips Gloeilampenfabrieken, Plaintiffs-Appellants, v. WINDMERE CORPORATION and Izumi Seimitsu Kogyo Kabushiki Kaisha, Defendants-Appellees.\nNo. 92-1020.\nUnited States Court of Appeals, Federal Circuit.\nJuly 31, 1992.\nRehearing Denied, Suggestion for Rehearing In Banc Declined Oct. 2, 1992.\nWilliam E. Willis, Sullivan & Cromwell, New York City, for plaintiffs-appellants, U.S. Philips Corp., North American Philips Corp. and N.V. Philips Gloeilampenfabrieken and Paul M. Dodyk, Cravath, Swaine & Moore, New York City, for defendants-ap-pellees, Windmere Corp., were on the joint motion to dismiss the appeal as moot and vacate the judgments below.\nHerbert H. Mintz and Jean B. Fordis, Finnegan, Henderson, Farabow, Garrett & Dunner, Washington, D.C., were on the Opposition filed by Izumi Seimitsu Kogyo Kabushiki Kaisha to the Philips-Windmere joint motion to dismiss the appeal as moot and vacate the judgments below.\nBefore NEWMAN, Circuit Judge, FRIEDMAN, Senior Circuit Judge, and MAYER, Circuit Judge.\n. Uncorrected caption. Izumi Seimitsu Kogyo Kabushiki Kaisha is not a party to this appeal."
+  },
+  "file_name": "0728-01",
+  "first_page_order": 784,
+  "last_page_order": 788
+}

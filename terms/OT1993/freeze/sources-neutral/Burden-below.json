@@ -1,0 +1,496 @@
+{
+  "id": 10517013,
+  "name": "Jimmie BURDEN, Jr., Petitioner-Appellant, v. Walter ZANT, Warden, Georgia Diagnostic and Classification Center, Respondent-Appellee",
+  "name_abbreviation": "Burden v. Zant",
+  "decision_date": "1992-10-05",
+  "docket_number": "No. 88-8619",
+  "first_page": "771",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "975 F.2d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "11th Cir.",
+    "id": 9031,
+    "name": "United States Court of Appeals for the Eleventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "112 S.Ct. 1715",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11727470
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1720-21"
+        },
+        {
+          "page": "1727",
+          "parenthetical": "O'Connor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0001-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 539",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716568
+      ],
+      "weight": 5,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "546"
+        },
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0539-01"
+      ]
+    },
+    {
+      "cite": "92 L.Ed. 357",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 S.Ct. 86",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 U.S. 772",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        365217,
+        364963,
+        365485,
+        365108,
+        365366,
+        365342
+      ],
+      "year": 1947,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/332/0772-01",
+        "/us/332/0772-02",
+        "/us/332/0772-06",
+        "/us/332/0772-03",
+        "/us/332/0772-05",
+        "/us/332/0772-04"
+      ]
+    },
+    {
+      "cite": "41 S.E.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "pin_cites": [
+        {
+          "page": "546-48"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Ga.App. 777",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1532818
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/74/0777-01"
+      ]
+    },
+    {
+      "cite": "295 S.E.2d 297",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "303"
+        },
+        {
+          "page": "302"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "249 Ga. 739",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1187291,
+        1187285
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/249/0739-02",
+        "/ga/249/0739-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 153",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176749
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "167-68"
+        },
+        {
+          "page": "2922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0153-01"
+      ]
+    },
+    {
+      "cite": "56 L.Ed.2d 415",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 S.Ct. 2255",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "436 U.S. 914",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490633,
+        1490442,
+        1490281,
+        1490612,
+        1490456
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0914-01",
+        "/us/436/0914-05",
+        "/us/436/0914-02",
+        "/us/436/0914-04",
+        "/us/436/0914-03"
+      ]
+    },
+    {
+      "cite": "242 S.E.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 Ga. 393",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1160241,
+        1160238
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/240/0393-02",
+        "/ga/240/0393-01"
+      ]
+    },
+    {
+      "cite": "871 F.2d 956",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534760
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "957"
+        },
+        {
+          "page": "957"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/871/0956-01"
+      ]
+    },
+    {
+      "cite": "690 F.Supp. 1040",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4066579
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/690/1040-01"
+      ]
+    },
+    {
+      "cite": "76 L.Ed.2d 367",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 1803",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 U.S. 1103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6386457
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1103-01"
+      ]
+    },
+    {
+      "cite": "297 S.E.2d 242",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Ga. 313",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1190814
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/250/0313-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 12,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)(3)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)(8)"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 862",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6229263
+      ],
+      "weight": 7,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "865",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "865"
+        },
+        {
+          "page": "864"
+        },
+        {
+          "page": "863"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0433-01"
+      ]
+    },
+    {
+      "cite": "903 F.2d 1352",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541138
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1361"
+        },
+        {
+          "page": "1361"
+        },
+        {
+          "page": "1360"
+        },
+        {
+          "page": "1359-60"
+        },
+        {
+          "page": "1355-57"
+        },
+        {
+          "page": "1360"
+        },
+        {
+          "page": "1360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/903/1348-1352-01"
+      ]
+    },
+    {
+      "cite": "903 F.2d 1352",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541138
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/903/1348-1352-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1020,
+    "char_count": 31062,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 1.2678270580813663e-07,
+      "percentile": 0.6139771083178981
+    },
+    "sha256": "673cf5ce92533c948dd054e3ec2d9a9ca40093465f43900831c07b046f9778b4",
+    "simhash": "1:93c04b1263db716f",
+    "word_count": 5044
+  },
+  "last_updated": "2024-02-27T18:07:27.597258+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TJOFLAT, Chief Judge, FAY and ANDERSON, Circuit Judges."
+    ],
+    "parties": [
+      "Jimmie BURDEN, Jr., Petitioner-Appellant, v. Walter ZANT, Warden, Georgia Diagnostic and Classification Center, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ON REMAND FROM THE UNITED STATES SUPREME COURT\nBefore TJOFLAT, Chief Judge, FAY and ANDERSON, Circuit Judges.\nTJOFLAT, Chief Judge:\nIn Burden v. Zant, 903 F.2d 1352 (11th Cir.1990) (Burden II), rev\u2019d and remanded in part, \u2014 U.S.-, 111 S.Ct. 862, 112 L.Ed.2d 962 (1991) (per curiam), we rejected Jimmie Burden, Jr.\u2019s claim that his counsel labored under a conflict of interest in violation of Burden\u2019s Sixth Amendment right to effective counsel. Burden II, 903 F.2d at 1361. Specifically, Burden alleged in his petition for a writ of habeas corpus under 28 U.S.C. \u00a7 2254 (1988), that his counsel, while representing both him and Henry Lee Dixon, negotiated transactional immunity for Dixon, who wound up as the principal witness against Burden at trial. Burden advanced this factual allegation in support of his claim that a conflict of interest hampered his counsel\u2019s performance.\nThe Supreme Court remanded the case for us to \u201cconsider petitioner\u2019s conflict-of-interest claim free from [our] erroneous failure to credit the state trial court\u2019s finding that Dixon testified under a grant of immunity.\u201d Burden v. Zant, \u2014 U.S. -,-, 111 S.Ct. 862, 865, 112 L.Ed.2d 962 (1991) (per curiam). The state trial court\u2019s observation that Dixon testified under a grant of immunity appeared in a standard post-conviction report required under Georgia law in all capital cases as an administrative convenience to facilitate the Georgia Supreme Court\u2019s review. See infra note 6.\nIn this opinion, we make explicit that the state trial court\u2019s observation is not entitled to a presumption of correctness under 28 U.S.C. \u00a7 2254(d) because material facts were not adequately developed before that court. Id. \u00a7 2254(d)(3). Therefore, we once again affirm the district court\u2019s denial of Burden\u2019s habeas petition.\nI.\nOn August 1, 1981, the police arrested Jimmie Burden, Jr. on a charge of burglarizing his sister\u2019s home. Shortly thereafter, the state trial court appointed Kenneth Kondritzer, the public defender for the Middle Judicial Circuit of Georgia, to represent Burden. On September 15, 1981, while Burden was awaiting trial on the burglary charge, his nephew, Henry Lee Dixon, gave a statement to the police implicating petitioner in the unsolved 1974 murders of Louise Wynn and her three children. Based on this statement, the police obtained warrants charging both Burden and Dixon with the four murders. The court appointed Kondritzer, who continued to represent Burden, to represent Dixon as well.\nOn November 19, 1981, the court held a committal hearing for Dixon in Washington County, Georgia. Kondritzer appeared on Dixon\u2019s behalf. The court determined at this hearing that there was not probable cause to hold Dixon for any of the murders; the court, however, granted the State\u2019s motion to require Dixon, as a material witness, to post a $50,000 bond to guarantee his appearance at trial. Dixon did not post this bond and remained in custody until the close of Burden\u2019s trial.\nThe grand jury indicted Burden on December 7, 1981, for the four murders. At the end of December, Kondritzer left the public defender\u2019s office, and Michael Moses, the other member of the public defender\u2019s office, took over Burden\u2019s case. At Burden\u2019s trial in March 1982, Dixon\u2019s testimony provided the key evidence linking petitioner to the murders. The jury convicted petitioner on all counts.\nAt sentencing, the jury found one statutory aggravating circumstance and recommended death sentences for each murder. The Georgia Supreme Court affirmed all four convictions and three of the four death sentences. Burden v. State, 250 Ga. 313, 297 S.E.2d 242 (1982), cert. denied, 460 U.S. 1103, 103 S.Ct. 1803, 76 L.Ed.2d 367 (1983).\nAfter exhausting his state remedies, Burden unsuccessfully sought a petition for a writ of habeas corpus in the United States District Court for the Middle District of Georgia. Burden v. Zant, 690 F.Supp. 1040 (M.D.Ga.1988). On appeal, we remanded the case to the district court for an evidentiary hearing on Burden\u2019s conflict-of-interest claim because the record was not sufficient to permit a proper analysis of this claim. Burden v. Zant, 871 F.2d 956, 957 (11th Cir.1989) (.Burden I). After the district court completed an evidentiary hearing and entered findings of fact and conclusions of law, we affirmed the district court\u2019s denial of the petition. Burden II, 903 F.2d at 1361. As previously noted, the Supreme Court subsequently reversed our decision with respect to one aspect of petitioner\u2019s conflict-of-interest claim and remanded the case. Burden, \u2014 U.S. at -, 111 S.Ct. at 865.\nII.\nBurden claims that his counsel, Kondrit-zer, secured transactional immunity for Dixon in exchange for Dixon\u2019s testimony against petitioner at trial. According to Burden, this agreement effectively put Kondritzer in the position of having to sacrifice one client, Burden, in order to protect another client, Dixon. After striking a deal with the State, Kondritzer, to enforce the agreement, had to advise a key witness to implicate his own client. Thus, concludes petitioner, Kondritzer labored under a conflict of interest which adversely affected his representation of petitioner, in violation of petitioner\u2019s Sixth Amendment right to effective assistance of counsel.\nIn our prior opinion, we affirmed as not clearly erroneous the district court\u2019s conclusion, reached after a full evidentiary hearing, that \u201cthere is [no] evidence of transactional immunity being granted to Henry Lee Dixon....\u201d Burden II, 903 F.2d at 1360. Neither the district court nor this court made explicit reference to the observation by the state trial court, in its mandatory post-conviction report, that Dixon testified under a grant of immunity. Specifically, our opinion did not explain why the state trial court\u2019s observation is not entitled to a presumption of correctness under 28 U.S.C. \u00a7 2254(d). We now make plain what once was unclear.\nAs required under Georgia law, O.C.G.A. \u00a7 17-10-35(a) (1990), the state trial court in the present case completed a post-conviction report. In an addendum to this standard questionnaire, the court, in explaining why it thought that the death sentence was appropriate in this case, described, among other things, Dixon\u2019s testimony. The court stated that \u201c[t]he State\u2019s case depended primarily upon the testimony and credibility of Henry Lee Dixon which was corroborated by [Burden\u2019s] potential for violence.... Dixon was granted immunity from prosecution and the jury was properly informed of this fact and an appropriate charge was given by the court to the jury.\u201d\nA state court finding of historical fact is generally entitled to a presumption of correctness. 28 U.S.C. \u00a7 2254(d). In certain circumstances, however, this presumption does not attach. See id. \u00a7 2254(d)(1)\u2014(8). As we explain below, we conclude that the material fact at issue here \u2014 whether Kondritzer negotiated and obtained transactional immunity for Dixon in exchange for testifying against petitioner \u2014 was not adequately developed before the state trial court. Therefore, pursuant to 28 U.S.C. \u00a7 2254(d)(3), we may not presume the correctness of the state trial court\u2019s comment on Dixon\u2019s immunity.\nThere was never a hearing on the issue of Dixon\u2019s immunity in the state trial court and the court\u2019s comment on Dixon\u2019s immunity did not appear in the context of findings of fact and conclusions of law. The trial court completed the post-conviction report based on its impression of what occurred during petitioner\u2019s trial. See Burden, \u2014 U.S. at-, 111 S.Ct. at 864. The only evidence presented at trial suggesting that the State granted Dixon immunity in exchange for his testimony against Burden appeared in Dixon\u2019s response to Moses\u2019 questions on cross-examination. The examination went as follows:\nQ: (By Moses): Now, Mr. Dixon, have you been promised anything for your testimony today?\nA: (By Dixon): Immunity.\nQ: You've been promised immunity in order to testify? Is that correct?\nA: Correct.\nQ: Have you been told that you could get out of jail as soon as you testified? A: Not really.\nQ: Not really. What have you been told about you getting released from jail?\nA: I can\u2019t really say.\nQ: Your Honor, I ask that you direct the witness to answer my question.\nBY THE COURT: I think he said I can\u2019t say, and I don\u2019t know whether that means his inability to say or he doesn't know or what reason, and I would let counsel for the defendant exhaust it further. Now, if you have a reason, I don\u2019t understand when you say I can\u2019t say. Perhaps, you don\u2019t know. I don\u2019t know what your answer is in that regard. That's not descriptive to me nor to the jury, so please elaborate.\nA: I just don\u2019t know.\nBY MR. MOSES: You just don\u2019t know? A: No.\nThe trial court\u2019s impression that Dixon had received immunity also may have arisen from counsels\u2019 closing arguments to the jury. The prosecutor stated that \u201c[Dixon\u2019s] testimony may have, granted, we may have offered him immunity. I think you realize that we did. I\u2019ll tell you that we did. Nothing ever came of it because the Court dismissed the charges as was stipulated.\u201d Similarly, Moses, in closing, argued that Dixon \u201cacknowledged ... on the stand that he received immunity, don\u2019t know for what, but [he] received it.\u201d\nIn our opinion, it is clear that whether Kondritzer actually negotiated and obtained transactional immunity for Dixon from the prosecution in exchange for Dixon\u2019s testimony against petitioner was not adequately developed in the state trial court. At trial, this fact was only important as a means for petitioner to impeach Dixon; therefore, the parties spent little time or effort debating it. Furthermore, Moses\u2019 cross-examination of Dixon raised more questions than it resolved: this colloquy does not settle what type of deal Dixon purportedly reached with the State; who, if anyone, negotiated this deal for Dixon; or the extent of Dixon\u2019s and the State\u2019s obligations under this deal. It is this very uncertainty surrounding key factual questions relevant to Burden\u2019s allegation that Dixon testified under a grant of transactional immunity negotiated by Burden\u2019s counsel that prompted us to order a federal evidentiary hearing. See Burden I, 871 F.2d at 957.\nThus, in our judgment, it would be improper to presume the correctness of the state trial court\u2019s comment about Dixon\u2019s immunity. Rather, it was essential that the district court, on habeas corpus review, conduct a full and fair hearing regarding the facts surrounding petitioner\u2019s claim. Only in this way could the parties adequately develop the material facts of petitioner\u2019s claim \u2014 principally, whether Dixon testified under a grant of transactional immunity that Kondritzer obtained from the prosecution \u2014 so that we could make an informed decision concerning the merits of this claim.\nAfter a full hearing, the district court concluded that Dixon did not testify under a grant of transactional immunity or pursuant to a promise that the State would not prosecute him for his part in the crimes at issue. This finding by the district court is not clearly erroneous. Therefore, we affirm the district court\u2019s conclusion that petitioner\u2019s conflict-of-interest claim is merit-less. See Burden II, 903 F.2d at 1359-60.\nIII.\nIn summary, we hold that the state trial court\u2019s comment that Dixon testified under a grant of immunity is not entitled to a presumption of correctness because this material fact was not adequately developed before the trial court. Instead, we affirm the district court\u2019s finding, which was reached after a full and fair evidentiary hearing, that Dixon did not testify under a grant of immunity. Accordingly, we conclude that petitioner\u2019s conflict-of-interest claim is meritless.\nThe judgment of the district court is, accordingly,\nAFFIRMED.\n. In our judgment, the state trial court\u2019s statements in the post-conviction report are not factual findings; they were not the product of an adversary proceeding before the court. See infra note 8. Rather, as we explain infra note 6, they constitute personal impressions of the trial judge rendered for the purpose of aiding the Georgia Supreme Court\u2019s appellate review.\n. In another part of its opinion, the Supreme\nCourt noted its agreement with Burden's claim that we \u201cimproperly failed to give a presumption of correctness to a state-court factual finding, in violation of 28 U.S.C. \u00a7 2254(d).\u201d Burden, -U.S. at-, 111 S.Ct. at 863. Considering that the Court did not suggest that none of the exceptions to a presumption of correctness listed in \u00a7 2254(d)(1) \u2014 (8) applies, we do not read its opinion as foreclosing our consideration of these exceptions.\n. For a complete exposition of the facts of this case, see Burden II, 903 F.2d at 1355-57, and Burden v. State, 250 Ga. 313, 297 S.E.2d 242 (1982), cert. denied, 460 U.S. 1103, 103 S.Ct. 1803, 76 L.Ed.2d 367 (1983).\n. The public defender\u2019s office had two members: Kondritzer, the public defender, and Michael Moses, his junior colleague.\n. See supra note 4.\n. Under Georgia law, the jury\u2019s sentencing recommendation is binding on the trial court, which actually sentences the defendant. O.C.G.A. \u00a7 17-10-31 (1990).\n. Burden advances two other factual bases for his conflict-of-interest claim, see Burden II, 903 F.2d at 1360, neither of which is affected by the Supreme Court\u2019s remand and therefore before us today.\n. Under Georgia law, a trial court must file a report in every case in which the death penalty is imposed. O.C.G.A. \u00a7 17-10-35(a). This report is \"an administrative convenience\u201d that the Georgia Supreme Court uses to facilitate appellate review of capital cases. Thomas v. State, 240 Ga. 393, 242 S.E.2d 1, 7 (1977), cert. denied, 436 U.S. 914, 98 S.Ct. 2255, 56 L.Ed.2d 415 (1978). The report itself is a standard\n61/2-page questionnaire, designed to elicit information about the defendant, the crime, and the circumstances of the trial. It requires the trial judge to characterize the trial in several ways designed to test for arbitrariness and disproportionality of sentence. Included in the report are responses to detailed questions concerning the quality of the defendant's representation, whether race played a role in the trial, and, whether, in the trial court\u2019s judgment, there was any doubt about the defendant\u2019s guilt or the appropriateness of the sentence.\nGregg v. Georgia, 428 U.S. 153, 167-68, 96 S.Ct. 2909, 2922, 49 L.Ed.2d 859 (1976).\n.At the time of petitioner\u2019s trial, it had \u201cbeen indicated, although not decided, that(, under Georgia law,] a prosecutor may make an agreement to forgo prosecution only with the approval of the court.\" State v. Hanson, 249 Ga. 739, 295 S.E.2d 297, 303 (1982); see abo Smith v.. State, 74 Ga.App. 777, 41 S.E.2d 541, 546-48 (dictum), cert. denied, 332 U.S. 772, 68 S.Ct. 86, 92 L.Ed. 357 (1947). Indeed, the prosecutor in charge of petitioner\u2019s case, who allegedly offered Dixon immunity, testified in the district court that \u201cin each instance ... where a person was given transactional immunity, it was done so in writing.\u201d Six months after the jury convicted petitioner, the Georgia Supreme Court held that \"a valid promise to forgo prosecution ... must, first, contain a description of the crimes or transactions in regard to which an individual is excused from prosecution. Secondly [sic], the prosecutor must obtain court approval of an agreement to forgo prosecution.\" Hanson, 295 S.E.2d at 302. (These requirements do not apply to agreements to testify in exchange for use immunity.)\nWe would expect, then, to find some documentary evidence establishing that Dixon received a promise to forgo prosecution in exchange for his testimony pursuant to a court-approved agreement between his attorney and the prosecutor. The record, however, contains none. See Burden II, 903 F.2d at 1360. Petitioner instead relies on informal negotiations between his attorney and the prosecutor to support his claim that Dixon testified under a grant of immunity. Thus, the record may be insufficient to support the state court\u2019s observation. See 28 U.S.C. \u00a7 2254(d)(8). We, however, do not rely on this deficiency in deciding that the state trial court\u2019s observation is not entitled to a presumption of correctness.\n. In our view, these observations alone render \u00a7 2254(d)\u2019s presumption of correctness inapplicable. See supra note 1. Section 2254(d) unequivocally applies only to \"a determination after a hearing on the merits of a factual issue, made by a State court ... in a proceeding to which the applicant for the writ and the State ... were parties_\u201d 28 U.S.C. \u00a7 2254(d). Perhaps equally important, half of the exceptions to \u00a7 2254(d)\u2019s presumption of correctness, including the one we discuss in this opinion, id. \u00a7 2254(d)(3), on their face apply only to state court findings made pursuant to a hearing. See id. \u00a7 2254(d)(1), (2), (3), (6). With all due respect to the High Court, we believe that Sumner v. Mata, 449 U.S. 539, 101 S.Ct. 764, 66 L.Ed.2d 722 (1981), is not to the contrary. There, unlike in the present case, both parties were \"given an opportunity to be heard and [the issue] received plenary consideration\" before the appellate court made its finding. Id. at 546, 101 S.Ct. at 768. We nevertheless are bound by the Supreme Court\u2019s opinion which suggests, without discussion of Sumner or the explicit language of \u00a7 2254(d), that \u00a7 2254(d) does apply.\n. The trial court noted in its report that it also relied on unspecified information provided by petitioner\u2019s counsel.\n. Indeed, at the district court's evidentiary hearing on this matter, the prosecutor testified that he did not consider Dixon\u2019s testimony regarding the immunity issue, at the time of the trial, to have been \"significant or important.\u201d\n. The recent case of Keeney v. Tamayo-Reyes, \u2014 U.S. -, 112 S.Ct. 1715, 118 L.Ed.2d 318 (1992), is inapposite. Keeney held that a habeas petitioner will be entitled to a federal hearing on facts he or she failed to develop in state court only if he or she either (1) establishes cause for failing to develop the facts in state court and prejudice arising from that failure or (2) demonstrates that a fundamental miscarriage of justice would result from the denial of a federal hearing. Id. at-, 112 S.Ct. at 1720-21. Keeney did not affect a federal court\u2019s discretion to hold an evidentiary hearing on material facts not adequately developed in state court, even if the hearing is not mandatory. See id. at -, 112 S.Ct. at 1727 (O\u2019Connor, J., dissenting). More specifically, Keeney did not require a party in a habeas proceeding to establish cause and prejudice in order to establish that material facts were not developed in the state court.",
+        "type": "majority",
+        "author": "TJOFLAT, Chief Judge:"
+      },
+      {
+        "text": "ANDERSON, Circuit Judge,\ndissenting:\nRespectfully, I dissent. The crucial issue is whether Burden\u2019s counsel, Kondritzer, labored under an actual conflict of interest that adversely affected his performance because Kondritzer, while representing both Burden and Dixon, reached an understanding with the prosecutor that Dixon would not be prosecuted in exchange for his testimony against Burden. There is no disagreement as to the appropriate legal test. See Burden v. Zant, 903 F.2d 1352 (11th Cir.1990) (whether actual conflict of interest adversely affected counsel\u2019s performance). Furthermore, the majority seems to acknowledge that an actual conflict of interest adversely affecting performance would be established upon proof that counsel, while representing two persons charged with a murder, reached an informal understanding with the prosecutor that one of the defendants would not be prosecuted in exchange for his testimony against the other. Finally, there seems to be agreement that Kondritzer was in fact representing both Burden and Dixon at the crucial time, i.e., the time that the alleged \u201cdeal\u201d for Dixon was made. I dissent because I respectfully disagree with the majority\u2019s decision to deny relief on the basis of a purported fact finding by the district court \u201cthat Dixon did not testify under a grant of transactional immunity or pursuant to a promise that the state would not prosecute him for his part in the crimes at issue.\u201d Opinion of Chief Judge Tjoflat at 9.\nAs an initial matter, I note that the majority\u2019s factual assumption would be undermined if the state court\u2019s factual finding that \u201cDixon was granted immunity from prosecution\u201d were presumed to be correct. Even if the majority is correct in concluding that the state court\u2019s finding is not entitled to deference, I nevertheless submit that the majority\u2019s conclusion is erroneous. The majority assumes that the district court made a finding of fact not only that there was no formal grant of transactional immunity, but also that there was no informal understanding that Dixon would not be prosecuted if he testified against Burden. I respectfully submit that the district court did not find as a matter of fact that there was no informal understanding.\nReview of the district court\u2019s order indicates that the district court found as a fact:\nAfter the committal hearing Mr. Kondrit-zer had informal discussions with Chief Assistant District Attorney Malone which Mr. Kondritzer remembers resulting in \u201can understanding, you know, as long as he testified, nothing would happen to him.\u201d\nDistrict Court Order at 4. In the very next paragraph, the district court also found:\nAccording to Chief Assistant District Attorney Malone, transactional immunity, if and when granted, was formally agreed to by the district attorney and all the parties. He has no recollection nor is there any other evidence of transactional immunity being granted to Henry Lee Dixon.\nDistrict Court Opinion at 5. I submit that, in context, the only reasonable reading of the district court\u2019s order is that the district court found as a fact that there was no formal grant of transactional immunity, but that the district court made no finding at all as to whether there was an informal understanding between Kondritzer and the prosecutor that Dixon would not be prosecuted if he testified against Burden.\nPossibly the majority has read the phrase, \u201cnor is there any other evidence of transactional immunity being granted to Henry Lee Dixon,\u201d as a finding of fact that there was no informal understanding regarding Dixon. Several factors persuade me, however, that such an interpretation would be a misreading of the district court\u2019s order. First, the language the majority cites, see Opinion of Chief Judge Tjoflat at 5, appears in the context of the district court\u2019s discussion of a formal grant of transactional immunity. Second, my interpretation of the district court\u2019s meaning reconciles the language the majority cites with the immediately preceding paragraph in which the district court found that Kon-dritzer remembered informal discussions with the prosecutor resulting in an understanding that nothing would happen to Dixon as long as he testified. Third, the colloquy between the court and counsel during the evidentiary hearing, see infra, reveals that the district court sharply distinguished in its mind between a formal grant of transactional immunity and an informal understanding. It is clear that the district court did not consider an informal agreement that Dixon would not be prosecuted to be a grant of immunity. Finally, when the district court said, \u201cnor is there any other evidence of transactional immunity being granted to Henry Lee Dixon,\u201d the district court obviously was referring to a formal grant of immunity, rather than an informal understanding that Dixon would not be prosecuted, because there was unequivocal evidence (detailed below) that there was such an informal understanding. Thus, the district court could not have said, in the face of this record, that there is no evidence of an informal understanding that Dixon would not be prosecuted.\nAt the evidentiary hearing, Kondritzer testified as follows on direct examination by Burden\u2019s counsel.\nQ. And as far as Henry Lee Dixon is concerned, you represented him at the preliminary hearing?\nA. Yes.\nQ. And after the preliminary hearing, did you have discussions with Mr. Malone about immunity and about him not being prosecuted in the case?\nA. Yes, I believe so.\nQ. Describe those discussions and what were the results of them.\nA. Well, what I remember, informal discussions, nothing \u2014 asking him what was going to happen to Dixon and my memory of it is it was an understanding, you know, as long as he testified, nothing would happen to him.\nFirst Supplemental Record on Appeal, Vol. 2, at 28. On cross-examination by the state, Kondritzer testified as follows:\nQ. Do you recall ever having any discussions with Mr. Malone about potential immunity for Mr. Dixon?\nA. Yes. I believe we \u2014 I asked him occasionally what the deal was with Mr. Dixon.\nThe Court: Well now, a deal doesn\u2019t itself mean transactional immunity. Now, be more specific. What are you talking about?\nMr. Kondritzer: Well, I remember this was very unusual about being held \u2014 I thought it was unusual to hold him as a material witness and I, you know, believe I had asked Mr. Malone what, was he just going to sit in jail, you know, forever, you know, until they got around to doing something. I thought it was unusual.\nThe Court: But beyond that, what are you talking about? We know it\u2019s unusual; the Superior Court judge was the one who was holding him.\nMr. Kondritzer: I believe we \u2014 you know, I believe it was understood between myself and Mr. Malone that nothing would happen to Mr. Dixon down the road. The Court: But the fact that he tells you Mr. Dixon isn\u2019t going to be prosecuted doesn\u2019t in and of itself say that he\u2019s immunized when he testifies.\nMr. Kondritzer: Yes.\nThe Court: Isn\u2019t that right?\nMr. Kondritzer: Well, I would think if he said he\u2019s not \u2014 if he said he\u2019s not going to be prosecuted, wouldn\u2019t that mean he\u2019s\u2014 it would seem to indicate he\u2019s immunized, if he\u2019s not going to be prosecuted.\nThe Court: It wouldn\u2019t in this court; now, it might in somebody else\u2019s.\nMr. Kondritzer: Well, I\u2019m \u2014 what\u2019s\u2014I\u2019m confused. What\u2019s the\u2014\nThe Court: Well, I\u2019m trying to understand what you are telling us. You just come out with a general statement that you understood so-and-so, which to me, doesn\u2019t add up to immunity in a legal sense.\nMr. Kondritzer: Well, all I can \u2014 you know, I\u2019m doing the best I can, your honor, and I apologize if I\u2019m\u2014\nThe Court: No, all I want you to do is tell us the facts as you remember them. Mr. Kondritzer: My memory is that I had some agreement with Mr. Malone that nothing would happen to Mr. Dixon. The Court: But you don\u2019t recall any particular agreement, is that what you are telling us?\nMr. Kondritzer: Yes, you mean a specific\u2014\nThe Court: A specific understanding, yes sir.\nMr. Kondritzer: Well, I recall an understanding and I don\u2019t know what you mean by, you know, specific.\nThe Court: Well, the details of the understanding. See, an understanding is a bald conclusion.\nMr. Kondritzer: What I remember is just a \u2014 that\u2019s what I remember is this understanding between us.\nThe Court: Well, do you remember anything beyond your understanding that he was not going to prosecute him?\nMr. Kondritzer: Beyond that, no sir.\nId. at 37-39. Later in his testimony, Kon-dritzer reiterated that it was his understanding with the prosecutor that Dixon would not be prosecuted. Id. at 41. Shortly thereafter, Kondritzer testified: \u201cI remember him [the prosecutor] saying, \u2018I\u2019m not interested in Henry Dixon as long as, you know, if he\u2019s going to testify. We\u2019re not interested in prosecuting him,\u2019 words to that effect.\u201d Id. at 43.\nThe above colloquy between the court and counsel reveals the district court\u2019s belief that an informal agreement not to prosecute does not constitute immunization. Thus, the district court\u2019s statement: \u201cnor is there any other evidence of transactional immunity being granted to Henry Lee Dixon,\u201d was obviously referring to a formal grant of immunity and does not constitute a finding of fact that there was no informal understanding between the prosecutor and Kondritzer that Dixon would not be prosecuted.\nIf the district court had made such a finding, I respectfully submit that it would be clearly erroneous. There was overwhelming evidence of an informal agreement that Dixon would not be prosecuted if he testified against Burden. The very clear testimony of Kondritzer to that effect is set out above. Dixon testified at trial that he had been promised immunity for his testimony. In his closing argument to the jury at trial, the prosecutor, Malone, conceded that Dixon had been granted immunity. Finally, Mr. Moses, who inherited Burden\u2019s case from Kondritzer and tried it to the jury, testified that it was his understanding that Kondritzer had worked out the arrangement that Dixon would not be prosecuted if he testified against Burden. Moses based his understanding upon what Kondritzer and Dixon had told Moses. Id. at 48-51, 56-57, 59. The only evidence tending to suggest that there was no such informal arrangement is prosecutor Malone\u2019s testimony:\nQ. Do you recall ever having any discussions with Mr. Kondritzer about immunity for Mr. Dixon?\nA. Let me make this clear, I do not recall any conversations. That is not to say they did not occur. I do not recall them, if they did occur.\nId. at 18-19. Thus, there is unequivocal evidence from four different sources that there was an informal agreement that Dixon would not be prosecuted if he testified against Burden. The only contrary evidence is the prosecutor\u2019s inability to recall the conversations, and even this is undermined by his candid testimony that he could not testify that the conversations did not occur and, more significantly, by his contemporaneous concession that immunity was granted in his closing argument to the jury at trial.\nIn summary, I respectfully submit that the district court did not make a finding of fact that there was no informal understanding between the prosecutor and Kon-dritzer that Dixon would not be prosecuted if he testified against Burden. Furthermore, had the district court made such a finding, I submit that it would have been clearly erroneous.\nFor these reasons, I dissent.\n. Because, in my judgment, the record shows that Kondritzer reached an informal understanding with the prosecutor that Dixon would not be prosecuted in exchange for his testimony against Burden, I need not reach the question whether an actual conflict of interest adversely affecting performance would be established if the evidence indicated that there was no meeting of the minds in fact, but that Kondritzer believed that there was. However, it seems likely that the effect on Kondritzer\u2019s performance would be the same.",
+        "type": "dissent",
+        "author": "ANDERSON, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Millard Farmer, Joseph M. Nursey, Atlanta, Ga., for petitioner-appellant.",
+      "Paula K. Smith, Mary Beth Westmore-land, Office of the Attorney General, Atlanta, Ga., for respondent-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jimmie BURDEN, Jr., Petitioner-Appellant, v. Walter ZANT, Warden, Georgia Diagnostic and Classification Center, Respondent-Appellee.\nNo. 88-8619.\nUnited States Court of Appeals, Eleventh Circuit.\nOct. 5, 1992.\nMillard Farmer, Joseph M. Nursey, Atlanta, Ga., for petitioner-appellant.\nPaula K. Smith, Mary Beth Westmore-land, Office of the Attorney General, Atlanta, Ga., for respondent-appellee."
+  },
+  "file_name": "0771-01",
+  "first_page_order": 833,
+  "last_page_order": 841
+}
