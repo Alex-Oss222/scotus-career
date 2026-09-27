@@ -92,9 +92,9 @@ These are already behind Stone when the restart opens; do not treat them as new 
 
 **Historical background.** A dormant-Commerce and state-tax case concerning a State's authority to require an out-of-state mail-order business to collect use tax.
 
-**Stone's position.** Reverse the collection judgment under the surviving *Bellas Hess* Commerce rule without reaching the independent Due Process question. Purposeful solicitation and common-carrier delivery do not themselves displace the specific remote-seller collection boundary, and Quill's limited licensed ordering-software interests do not amount to the local market-maintaining activity needed to distinguish that rule on this record. Stone treats reliance as substantial but not permanent immunity, leaves Congress free to establish a coordinated national collection regime, and does not turn physical presence into a universal requirement for every tax or every future technology.
+**Stone's position.** Resolve both constitutional questions. Due Process is satisfied: Quill deliberately and continuously solicits the North Dakota market, makes substantial sales there, and uses ordinary delivery channels to complete those transactions. Physical presence is not an indispensable Due Process prerequisite when the taxpayer has purposefully directed sustained commercial activity at the State. Stone nevertheless reverses the collection judgment under the surviving *Bellas Hess* dormant-Commerce rule. That distinct rule is retained because of its settled collection boundary, reliance interests, and Congress's ability to replace it with a coordinated national regime, not because Due Process requires physical presence or because every interstate tax obligation needs such a bright line.
 
-**What this establishes.** Eight Justices retain the specific Commerce collection rule across the separate writings. The eight Associate Justices who reach Due Process reject an indispensable physical-presence requirement on that separate ground; Stone does not reach it. A narrower five-Justice coalition — Stevens, Blackmun, O'Connor, Souter, and Stone — additionally holds that Quill's limited software interests are insufficient local commercial presence on this record. No general software-nexus rule, numerical threshold, or universal physical-presence rule follows. Later state-tax cases should preserve the structural concerns of nexus, fair allocation, nondiscrimination, multiple taxation, and territorial reach without treating every formal feature of *Quill* as permanent.
+**What this establishes.** Stone expressly separates Due Process nexus from dormant-Commerce nexus. Purposeful market exploitation can satisfy adjudicative fairness even where the then-existing Commerce rule still protects a remote seller from a collection duty. The physical-presence rule is therefore narrow, precedent-dependent, and revisable rather than a general constitutional definition of state taxing power. Later tax cases must ask separately about nexus, fair allocation, nondiscrimination, multiple taxation, territorial reach, administrability, and reliance rather than letting one formal feature answer every question.
 
 ### Chemical Waste Management v. Hunt, 504 U.S. 334 (1992)
 
@@ -386,13 +386,13 @@ None of these cases should prematurely create *Lopez*. This Term's job is the su
 
 **Status.** Historical Supreme Court merits case.
 
-**Historical questions.** Could Congress authorize suits against a nonconsenting State under its Indian Gaming Regulatory Act enforcement scheme?
+**Historical questions.** Could Congress use the Indian Commerce Clause to authorize IGRA's private action directly against a nonconsenting State, and could the Tribe instead obtain prospective federal-law relief against the responsible state officer under *Ex parte Young*?
 
-**Stone's disposition.** Preserve clearly authorized prospective Article I enforcement against the State; reserve broader retrospective treasury liability.
+**Stone's disposition.** Affirm dismissal of the direct action against Florida, but reverse the categorical rejection of the prospective officer action and remand that claim for enforcement within IGRA's statutory sequence.
 
-**Reasoning.** Refuse to merge three questions: does Congress have substantive Article I authority; did Congress clearly authorize an action against a State; and what remedy is actually being sought? IGRA's prospective bargaining/enforcement structure does not require settling every question about accrued compensatory liability.
+**Reasoning.** Answer the immunity question directly. Congress has substantive authority to regulate Indian commerce and unmistakably authorized the IGRA action, but Article I authority over a subject does not by itself eliminate the State's immunity from being made the defendant in a private federal suit. A valid federal duty, a private cause of action, the identity of the defendant, immunity, and available relief are distinct questions. The officer route is likewise a real question, not a placeholder: where a responsible officer is maintaining an ongoing violation of federal law, prospective relief may proceed without converting the State into the defendant. IGRA's remedial design still controls what the court may order. *Ex parte Young* supplies a lawful enforcement route; it does not authorize a court to skip Congress's negotiation, determination, mediation, or other enacted limits.
 
-**What this establishes.** Avoids the historical all-or-nothing sovereign-immunity framework, preserving valid federal law while separately controlling the remedial channel — the prospective route survives while retrospective compensation is left for later cases.
+**What this establishes.** The durable sequence is duty → cause of action → defendant → immunity or valid abrogation → remedy. Article I can impose substantive federal obligations on States without automatically authorizing private suits against the State itself. Prospective officer enforcement remains available when its ordinary requirements are met and Congress has not displaced it with an incompatible remedial arrangement.
 
 ### United States v. Bishop, 66 F.3d 569
 
@@ -578,17 +578,41 @@ None of these cases should prematurely create *Lopez*. This Term's job is the su
 
 ## OT1998
 
-### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, 527 U.S. 627 (1999); College Savings Bank v. Florida Prepaid, 527 U.S. 666 (1999); Alden v. Maine, 527 U.S. 706 (1999)
+### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, 527 U.S. 627 (1999)
 
-**Status.** Historical Supreme Court merits cases, treated together.
+**Status.** Historical Supreme Court merits case.
 
-**Historical questions.** May Congress abrogate state sovereign immunity for patent infringement under § 5 of the Fourteenth Amendment; can a State be deemed to have constructively waived immunity by participating in a federally regulated market; and can a State be sued for money damages in its own courts on a federal claim?
+**Historical questions.** Did Congress validly abrogate state immunity from the patent-infringement damages action through § 5 of the Fourteenth Amendment?
 
-**Stone's disposition.** Reject two extremes. He does not accept that Article I automatically permits unlimited private retrospective money judgments against nonconsenting State treasuries; he also does not accept that sovereign immunity allows a State to take the benefit of substantive federal law while extinguishing the corresponding federal monetary entitlement entirely. *College Savings*: reject constructive waiver merely because a State entered a federally regulated market. *Florida Prepaid*: keep substantive federal patent obligations conceptually separate from the remedial channel. *Alden*: permit state remedial channeling but not state nullification of federal rights.
+**Stone's disposition.** Affirm dismissal of the direct damages action against the nonconsenting state entity.
 
-**Reasoning.** First identify whether Congress validly created the substantive federal obligation, then identify whether Congress unmistakably created the remedy. For retrospective compensatory obligations, a State may channel enforcement into an adequate state remedial system, but cannot simply erase the federal entitlement — if no constitutionally and practically adequate substitute exists and Congress clearly authorized compensation, a federal fallback remains available. Separately, a state-created entity operating voluntarily in an interstate commercial market may be treated according to its actual legal/fiscal structure and enterprise revenues rather than through fictional constructive waiver.
+**Reasoning.** The Patent Clause validly creates substantive federal patent obligations, but *Seminole Tribe* means Article I does not itself authorize a private damages suit against the State. Section 5 is a separate source and must be justified on its own terms. Congress did not establish a sufficiently concrete pattern of States depriving patent owners of property without constitutionally adequate process, and the abrogation rule reaches infringement categorically rather than tracking intentional or otherwise unconstitutional deprivations and the availability of process. The defect is remedial fit, not the validity of federal patent law. Waiver, federal enforcement, and properly available prospective officer relief remain distinct routes.
 
-**What this establishes.** Replaces binary immunity thinking with a sequence: duty → defendant/entity → consent/abrogation → forum → compensation route → fallback.
+**What this establishes.** A federal right can bind a State while a particular private damages remedy fails for want of a valid abrogation source. Stone will not manufacture a Fourteenth Amendment violation merely to preserve a remedy Congress attempted to rest on another power.
+
+### College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board, 527 U.S. 666 (1999)
+
+**Status.** Historical Supreme Court merits case.
+
+**Historical questions.** Did Congress validly abrogate immunity for the Lanham Act false-advertising claim, and did Florida constructively waive immunity by entering a federally regulated commercial market?
+
+**Stone's disposition.** Affirm the immunity dismissal.
+
+**Reasoning.** Congress clearly sought to authorize the action, but the Commerce Clause cannot supply the abrogation after *Seminole Tribe*, and this false-advertising claim supplies no independent § 5 basis for retrospective damages against the State. Market participation is not consent to suit. Waiver must be an actual, voluntary, and sufficiently clear choice by the State, not a legal fiction attached to conducting business in an area Congress regulates. Congress remains free to regulate the conduct substantively and to use constitutionally available enforcement mechanisms.
+
+**What this establishes.** Compulsory abrogation and voluntary waiver are separate doctrines. Neither can be created by relabeling the other.
+
+### Alden v. Maine, 527 U.S. 706 (1999)
+
+**Status.** Historical Supreme Court merits case.
+
+**Historical questions.** Could Congress authorize private FLSA damages actions against a nonconsenting State in the State's own courts?
+
+**Stone's disposition.** Affirm Maine's immunity dismissal.
+
+**Reasoning.** The immunity principle recognized in *Seminole Tribe* is not merely a venue rule for federal courts. Congress may impose valid Article I employment duties on a State, but it may not use Article I alone to make the nonconsenting State a private damages defendant in its own courts. Public federal enforcement, valid Reconstruction-Amendment abrogation, actual waiver, and properly available prospective officer relief remain separate mechanisms. To the extent Stone's earlier *Hilton* decision treated FELA coverage and statutory stare decisis as sufficient to compel a nonconsenting State to answer a private Article I damages action in state court, *Alden* openly rejects that remedial proposition while leaving the substantive federal railroad duty intact. Constitutional power cannot be supplied by statutory stare decisis.
+
+**What this establishes.** The administrable immunity sequence is source of duty → private action → defendant and forum → immunity, waiver, or valid abrogation → authorized relief. The failure of one enforcement route does not erase the underlying federal obligation, but the existence of that obligation does not create a constitutionally unavailable damages action.
 
 ## OT1999
 
@@ -596,11 +620,13 @@ None of these cases should prematurely create *Lopez*. This Term's job is the su
 
 **Status.** Historical Supreme Court merits case.
 
-**Historical questions.** Did Congress validly abrogate state sovereign immunity for retrospective damages under the Age Discrimination in Employment Act through § 5 of the Fourteenth Amendment?
+**Historical questions.** Did the ADEA clearly authorize private damages suits against States, and did § 5 of the Fourteenth Amendment give Congress power to abrogate immunity for those suits?
 
-**Stone's position.** Congress has not established the § 5 basis required for retrospective treasury damages merely by prohibiting age discrimination more broadly than the Constitution itself does — but that does not mean every federal ADEA obligation vanishes; the separate Commerce-based substantive duty and whatever lawful remedial channels exist must still be analyzed.
+**Stone's disposition.** Affirm the immunity dismissal of the private retrospective damages claims.
 
-**What this establishes.** Applies *Boerne* without converting failure of § 5 abrogation into destruction of the underlying statute.
+**Reasoning.** Congress clearly included state employers, so the case turns on constitutional power rather than statutory ambiguity. Age classifications ordinarily violate equal protection only when irrational, while the ADEA broadly forbids many age distinctions that a State could constitutionally make. The state-employment record does not establish a pattern of unconstitutional age discrimination sufficient to justify that breadth as § 5 prevention or remedy. The ADEA's substantive employment rule may still rest on the Commerce Clause; federal enforcement and other constitutionally available remedies remain. What fails is this private damages abrogation, not the federal employment standard itself.
+
+**What this establishes.** *Boerne* asks whether the § 5 remedy is fitted to the constitutional wrong Congress may prevent or remedy. A valid Article I duty neither supplies nor destroys the separate immunity analysis.
 
 ### Reno v. Condon, 528 U.S. 141 (2000)
 
@@ -726,11 +752,13 @@ None of these cases should prematurely create *Lopez*. This Term's job is the su
 
 **Status.** Historical Supreme Court merits case.
 
-**Historical questions.** Did Congress validly abrogate state sovereign immunity for ADA employment-discrimination damages under § 5?
+**Historical questions.** Did Congress validly abrogate state sovereign immunity for ADA Title I employment-discrimination damages under § 5 of the Fourteenth Amendment?
 
-**Stone's position.** Distinguish the particular § 5 abrogation question from every other source of federal law — a failed Fourteenth Amendment enforcement theory for retrospective damages does not automatically eliminate every valid statutory duty resting on another constitutional power or every lawful prospective/remedial route.
+**Stone's disposition.** Reject the immunity defense to the Title I damages actions and permit the claims to proceed.
 
-**What this establishes.** Reinforces source separation after *Kimel*.
+**Reasoning.** The answer is not supplied by the Commerce Clause after *Seminole Tribe*; Stone reaches § 5 directly. Congress assembled a substantial record of exclusion and stereotyped treatment of people with disabilities by public institutions, including employment, and chose a bounded preventive rule rather than an unlimited entitlement. Title I protects qualified individuals, permits job-related qualification standards, requires only reasonable accommodation, and preserves an undue-hardship defense. Those limits make the remedy sufficiently fitted to the recurring constitutional danger of irrational exclusion and stereotype-based state action. This does not make disability a suspect classification, convert every failure to accommodate into an independent constitutional violation, or validate every application of the ADA without regard to statutory defenses.
+
+**What this establishes.** *Kimel* and *Garrett* turn on proof and fit, not on a categorical rule that prophylactic § 5 legislation is either always valid or always invalid. Congress receives room to prevent recurring unconstitutional state discrimination when the evidentiary record and statutory limits identify an administrable connection to the constitutional wrong.
 
 ### Buckman Co. v. Plaintiffs' Legal Committee, 531 U.S. 341 (2001)
 
@@ -996,29 +1024,33 @@ No mandatory core roadmap case. Again, no filler.
 
 **Status.** Stone roadmap, preemption.
 
-**Historical questions.** Does federal immigration law preempt several provisions of an Arizona statute creating parallel state immigration-enforcement mechanisms?
+**Historical questions.** Does federal immigration law preempt SB 1070's separate alien-registration offense, unauthorized-employment offense, warrantless arrest authority, and mandatory immigration-status inquiry?
 
-**Stone's disposition.** Provision-by-provision analysis.
+**Stone's disposition.** Enjoin §§ 3, 5(C), and 6 as preempted. Reject a facial injunction against § 2(B), while preserving later as-applied challenges if implementation prolongs detention, creates an independent state removal regime, or otherwise conflicts with federal law.
 
-**Reasoning.** Do not decide the case using either slogan — "immigration is exclusively federal" or "policing is a traditional State function." For every provision ask: what federal statutory rule applies; did Congress occupy this particular field; can both rules be complied with; did Congress allocate enforcement discretion to federal officials; does Arizona create a parallel offense, sanction, detention authority, or enforcement mechanism inconsistent with that allocation? Likely outcomes: a separate state alien-registration offense is preempted where Congress created an exclusive federal registration structure; a state criminal sanction for conduct Congress regulates differently is preempted where it changes Congress's selected consequences; independent state arrest/removal authority inconsistent with federal control over removal is preempted; status inquiry and communication genuinely operating through federally authorized information-sharing systems is potentially permissible.
+**Reasoning.** Decide each enacted mechanism rather than rely on slogans about exclusive federal power or traditional state policing. Section 3 creates a parallel state registration crime in a field Congress comprehensively occupied. Section 5(C) adds a state criminal consequence for unauthorized employees where Congress deliberately chose a different allocation of sanctions. Section 6 gives state officers an independent arrest route tied to removability that interferes with the federal government's control over removal decisions and enforcement priorities. Section 2(B), by contrast, can on its face operate through federally authorized status inquiry and information sharing, so long as an otherwise lawful stop is not extended merely to pursue immigration verification and the State does not convert information exchange into its own removal system.
 
-**What this establishes.** The culmination of *Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona* — preemption is operational conflict, not rhetoric about which sovereign's subject matter sounds more important.
+**What this establishes.** The culmination of *Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona*: preemption turns on the actual federal rule, the state mechanism, and operational conflict. The same statute can therefore contain both displaced provisions and a provision that survives facial review subject to concrete implementation limits.
 
 ### National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)
 
-**Status.** Stone roadmap, Commerce and Spending.
+**Status.** Stone roadmap, Commerce, Taxing, and Spending.
 
-**Historical questions.** Does the Commerce Clause support the individual health-insurance mandate, and does the Medicaid-expansion funding condition unconstitutionally coerce the States?
+**Historical questions.** Does the Commerce Clause authorize the minimum-coverage requirement, does the associated payment fall within Congress's Taxing Power, and does the Medicaid-expansion funding condition unconstitutionally coerce the States?
 
-**Stone's disposition, Commerce.** The individual mandate is not supported by the Commerce Clause theory asserted.
+**Stone's disposition, Commerce.** The minimum-coverage requirement is not supported by the Commerce Clause theory asserted.
 
-**Reasoning, Commerce.** Stone should be careful not to create a metaphysical "activity/inactivity" rule divorced from constitutional function. The deeper problem is that Congress's theory would permit it to create the commercial predicate it needs by compelling a person to enter a market and then claim authority over the transaction it forced into existence. Commerce power ordinarily regulates commerce or conduct genuinely connected to commerce; it does not ordinarily manufacture the commerce whose existence supplies the asserted jurisdiction. An inevitable-market/cost-shifting argument may matter on materially different facts, but needs a reliable and judicially bounded mechanism, not simply the proposition that everybody eventually participates in healthcare. If the payment independently functions as a constitutional tax, that is a separate Taxing Power inquiry.
+**Reasoning, Commerce.** Stone should not create a metaphysical activity/inactivity slogan. The limiting problem is institutional and administrable: Congress may regulate commerce and conduct genuinely connected to a valid interstate regime, but it cannot create the commercial transaction that supplies its own asserted jurisdiction and then rely on that compelled transaction as the constitutional hook. A cost-shifting or inevitable-participation theory requires a demonstrated mechanism and boundary, not simply the proposition that everyone eventually uses healthcare.
 
-**Stone's disposition, Medicaid.** The threatened use of entrenched existing Medicaid funds is coercive to the extent it destroys a State's genuine practical choice.
+**Stone's disposition, Taxing Power.** Uphold the minimum-coverage payment as an exercise of the Taxing Power.
 
-**Reasoning, Medicaid.** This is *Kansas* applied, not a new coercion doctrine. Ask how central the existing funding stream is, how deeply State institutions have been built around it, how substantial the new obligations are, whether Congress is offering a genuinely new program or leveraging an established one, whether a State can realistically replace, restructure, or decline, and what transition exists. The expansion/new funds can remain subject to conditions even if the threat to old entrenched funds cannot.
+**Reasoning, Taxing Power.** Decide what the provision legally and practically does. The payment is collected through the tax system, ordinarily depends on familiar tax variables, produces revenue for the Treasury, is capped well below the cost of purchasing insurance in many cases, carries no scienter requirement, and does not make remaining uninsured independently unlawful. Those features make it a tax that creates a financial incentive rather than a punitive command backed by ordinary regulatory sanctions. Functional tax analysis does not allow Congress to save any forbidden regulation by attaching the word "tax"; a charge that operates as a criminal or prohibitory penalty would present a different case.
 
-**What this establishes.** Makes *Kansas* matter when the hard case finally arrives.
+**Stone's disposition, Medicaid.** Invalidate the threatened withdrawal of entrenched pre-existing Medicaid funds as the consequence of refusing the expansion, while permitting Congress to condition the genuinely new expansion funds on compliance with the expansion terms.
+
+**Reasoning, Medicaid.** Apply *Kansas*'s practical-choice rule. Consider the size and entrenchment of the existing funding stream, the extent to which States built durable institutions around it, the magnitude and character of the new obligations, the availability of transition or replacement, and whether refusal remains a genuine governmental option rather than fiscal capitulation. Congress may offer a large new program and attach clear conditions to the new money; it may not use destruction of the established program as leverage that leaves no realistic choice.
+
+**What this establishes.** Enumerated powers are analyzed separately and functionally. Failure under Commerce does not prevent a genuinely tax-like exaction from surviving under the Taxing Power, and broad Spending authority remains subject to an administrable practical-choice limit rather than a verbal distinction between "old" and "new" conditions alone.
 
 ## OT2012
 
