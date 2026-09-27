@@ -862,6 +862,3 @@ Supreme Court merits review is complete. Provide a constitutionally adequate cap
 
 ---
 
-## Simulation Workflow Blockers
-
-No workflow blockers remain open.
