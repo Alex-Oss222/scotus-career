@@ -1092,6 +1092,3 @@ Supreme Court review of this merits event is complete. Reverse the categorical e
 
 ---
 
-## Simulation Workflow Blockers
-
-No open workflow blockers.
