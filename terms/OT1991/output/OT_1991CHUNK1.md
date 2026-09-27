@@ -30,7 +30,7 @@ The Court applies *United States v. Healy*, which supplies the rule that a timel
 
 The Tenth Circuit must consider the appeal. The Supreme Court proceeding is closed, and the case returns to the Tenth Circuit for further appellate proceedings.
 
-Source note: Official United States Reports, 502 U.S. 1–8, read in full; research cutoff September 14, 2026. No quotation is required.
+Source note: Official United States Reports, 502 U.S. 1–8, read in full. No quotation is required.
 
 **End of entry: *United States v. Ibarra*, summary disposition, October 15, 1991.**
 
@@ -77,7 +77,7 @@ Stone, joined by Stevens, distinguishes an immune attendance order from a plausi
 
 The Supreme Court proceeding is closed. The Ninth Circuit judgment remains in place, and the pleaded claim returns for ordinary proceedings. Liability, causation, defenses, and damages remain unresolved.
 
-Source note: Official United States Reports, 502 U.S. 9–15, read in full; research cutoff September 14, 2026.
+Source note: Official United States Reports, 502 U.S. 9–15, read in full.
 
 **End of entry: *Mireles v. Waco*, summary disposition by an equally divided Court, October 21, 1991.**
 
@@ -119,7 +119,7 @@ Stone, joined by Blackmun and Stevens, would stay only the direction to use Plan
 
 No injunction or stay issues. The application is closed, and the district-court order remains operative subject to lower-court proceedings.
 
-Source note: Official United States Reports, 502 U.S. 1301–1302, read in full; district-court and preclearance authorities identified in the validated record; research cutoff September 14, 2026.
+Source note: Official United States Reports, 502 U.S. 1301–1302, read in full; district-court and preclearance authorities identified in the validated record.
 
 **End of entry: *Campos v. City of Houston*, application denied, October 29, 1991.**
 
@@ -141,7 +141,7 @@ Rule 39.8 makes fee denial discretionary when a present filing is frivolous or m
 
 No underlying petition was decided. Each applicant may pay and comply by November 25; absent compliance, the submissions do not enter the ordinary paid docket.
 
-Source note: Official United States Reports, 502 U.S. 16–20, read in full; research cutoff September 14, 2026.
+Source note: Official United States Reports, 502 U.S. 16–20, read in full.
 
 **End of entry: *Zatko v. California* and companion matters, fee-waiver motions denied, November 4, 1991.**
 
@@ -163,7 +163,7 @@ Section 1983 reaches a person who, under color of state law, causes a federal de
 
 Individual claims may proceed, but no damages or reinstatement are awarded now. The Supreme Court proceeding is closed, and the claims return for ordinary proceedings on elements and defenses.
 
-Source note: Official United States Reports, 502 U.S. 21–31, read in full; research cutoff September 14, 2026.
+Source note: Official United States Reports, 502 U.S. 21–31, read in full.
 
 **End of entry: *Hafer v. Melo*, merits decision, November 5, 1991.**
 
@@ -185,7 +185,7 @@ Section 1818(i)(1) withdraws jurisdiction to affect Board notices or orders exce
 
 The Supreme Court proceeding is closed. Both regulatory proceedings may continue through statutory channels; their validity and enforcement remain open.
 
-Source note: Official United States Reports, 502 U.S. 32–45, read in full; research cutoff September 14, 2026.
+Source note: Official United States Reports, 502 U.S. 32–45, read in full.
 
 **End of entry: *Board of Governors v. MCorp Financial*, merits decision, December 3, 1991.**
 
@@ -207,12 +207,9 @@ The Court holds that a federal general verdict on a multiple-object conspiracy n
 
 No retrial or acquittal is ordered. The conviction remains affirmed, and Supreme Court proceedings are closed.
 
-Source note: Official United States Reports, 502 U.S. 46–61, read in full; research cutoff September 14, 2026.
+Source note: Official United States Reports, 502 U.S. 46–61, read in full.
 
 **End of entry: *Griffin v. United States*, merits decision, December 3, 1991.**
 
 ---
 
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.
