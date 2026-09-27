@@ -663,6 +663,3 @@ Supreme Court merits review ends with reversal and a remand limited to the popul
 
 ---
 
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.
