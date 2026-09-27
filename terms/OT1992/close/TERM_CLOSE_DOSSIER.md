@@ -10,6 +10,8 @@ October Term 1992 is closed by coordinated publication of the three audited trac
 
 Under the repository's canonical-only cleanup policy, the published `state/` files are the sole live tracker copies after this Commit pass. The temporary `*.candidate.md` files are deleted after byte-identical publication. Their exact bytes remain recoverable from repository history at `6a653615c173150cfa8fe4bfc1cffda9fea8836d`.
 
+Post-close maintenance before OT1993 also removed the temporary Holdings and Standards pass-note files from the working tree. They remain listed in the source index below because the close actually relied on them, and their exact bytes remain available at the cited historical commit; they are not live current-state artifacts.
+
 ## Published tracker set
 
 | Published tracker | Audited source candidate | Source blob |
