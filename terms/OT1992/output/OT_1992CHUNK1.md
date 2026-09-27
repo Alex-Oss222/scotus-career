@@ -797,8 +797,3 @@ The Eleventh Circuit’s dismissal is reversed, and the case is remanded for con
 
 **End of entry: Republic National Bank of Miami v. United States, merits decision, December 14, 1992.**
 
----
-
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers. Coleman v. Thompson, petition No. 91-8336, was previously listed here as a stopped matter; it is removed because it was never actually an October Term 1992 matter — the petition reached its own terminal disposition on June 15, 1992, within October Term 1991.
