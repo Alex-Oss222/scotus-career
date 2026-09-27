@@ -998,8 +998,3 @@ Supreme Court review is complete. The Sixth Circuit receives the case for implem
 
 **End of entry: United States Department of Treasury v. Fabe, merits decision, 1993-06-11.**
 
----
-
-## Simulation Workflow Blockers
-
-No workflow blockers remain open.
