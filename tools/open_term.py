@@ -6,17 +6,26 @@ import re
 from pathlib import Path
 
 ROW = re.compile(r"^\|\s*(OT_\d{4}CHUNK\d+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$")
+# Chronological case-index form: | No. | chunk | caption | docket(s) | date | event type | category |
+INDEX_ROW = re.compile(r"^\|\s*\d+\s*\|\s*(\d+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$")
 
-def read_inventory(path: Path):
-    rows = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        m = ROW.match(line)
-        if m:
-            chunk, case, citation, date, date_status, matter_type = m.groups()
-            rows.append((date, chunk, case, citation, matter_type, date_status))
+def parse_row(line: str, year: str):
+    m = ROW.match(line)
+    if m:
+        chunk, case, citation, date, date_status, matter_type = m.groups()
+        return (date, chunk, case, citation, matter_type, date_status)
+    m = INDEX_ROW.match(line)
+    if m:
+        n, case, dockets, date, event_type, category = m.groups()
+        return (date, f"OT_{year}CHUNK{n}", case, dockets, category, event_type)
+    return None
+
+def read_inventory(path: Path, year: str):
+    rows = [row for line in path.read_text(encoding="utf-8").splitlines() if (row := parse_row(line, year))]
     if not rows:
         raise SystemExit(f"no inventory rows parsed from {path}")
-    return sorted(rows)
+    # Stable sort by date only: the case list's own order controls same-day ties.
+    return sorted(rows, key=lambda r: r[0])
 
 def main():
     ap = argparse.ArgumentParser()
@@ -26,16 +35,16 @@ def main():
     args = ap.parse_args()
     root = args.root.resolve()
     term = root / "terms" / args.term
-    rows = read_inventory(term / "case-list.md")
+    year = args.term.removeprefix("OT")
+    rows = read_inventory(term / "case-list.md", year)
     ws = term / "workspace"
     ws.mkdir(parents=True, exist_ok=True)
     manifest = ws / "manifest.md"
     if manifest.exists() and manifest.stat().st_size and not args.force:
         raise SystemExit(f"{manifest} already exists; term appears opened")
 
-    year = args.term.removeprefix("OT")
     header = f"# {args.term} Full-Term Event Manifest\n\nGenerated from case-list.md. Open must add validated carryovers from Standing State and any expressly supplied additions before first adjudication.\n\n"
-    table = "| Event date | Chunk | Case or matter | Citation | Matter type | Date status | Status |\n|---|---|---|---|---|---|---|\n"
+    table = "| Event date | Chunk | Case or matter | Citation or docket | Matter type | Date status or event type | Status |\n|---|---|---|---|---|---|---|\n"
     for date, chunk, case, citation, matter_type, date_status in rows:
         table += f"| {date} | {chunk} | {case} | {citation} | {matter_type} | {date_status} | Open |\n"
     manifest.write_text(header + table, encoding="utf-8")

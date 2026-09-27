@@ -1,163 +1,107 @@
-# OT_1993_CASE_INDEX
+# OT1993 chronological case index
 
-**October Term:** 1993. **Composition change before this term opens:** Byron White retired effective June 28, 1993, participating in the OT1992 decisions issued that day and no later; Ruth Bader Ginsburg took the judicial oath August 10, 1993 and is seated throughout October Term 1993. Every matter below therefore sits before the same nine Justices — Chief Justice Stone-Zsela and Associates Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg — unless a case-specific record establishes nonparticipation. See `foundation/COURT_COMPOSITION.md` for the accompanying circuit reallotment; this index does not restate allotments.
+95 unique listed matters, October 12, 1993–June 30, 1994, in eight chunks (12, 12, 12, 12, 12, 12, 12, 11). Consolidated companions remain one listed matter.
 
-**Calendar:** The dates below are the controlling inventory's historical opinion, order, or decree issuance dates, used for simulation ordering. They are not certiorari-grant dates. Every listed matter is authorized for this run; no matter is designated `[CERT GRANT]`.
+The existing case-list order controls ties. Application and per curiam events retain their actual action dates. A publication format does not convert filing relief into merits review. No separately listed original-jurisdiction decree or A-docket application occurs in this confirmed inventory. Related applications mentioned as background are not additional listed events.
 
-**Posture:** MERITS, APPLICATION, PROCEDURAL, and ORIGINAL retain the inventory's matter labels. Each brief identifies the actual decisional task, including per curiam procedural and mootness dispositions and interim applications. Every interim application goes to the participating full Court by referral and is decided as an order of the Court, consistent with the Standing State's referral practice.
+Each packet accounts for the completed OT1991–OT1992 simulated law and actual earlier effective same-term decisions. Stone’s proposed dispositions remain unapproved. Read `OT_1993_LOAD_MANIFEST.md` before runtime and `OT_1993_INHERITED_LAW.md` for the case-specific inheritance map.
 
-**Matter-type note:** Only *Day v. Day*, *In re Sassower*, *Cavanaugh v. Roller*, and *In re Anderson* have been independently checked against their actual dispositions (each a per curiam Rule 39.8 filing-abuse order, except *Cavanaugh*, dismissed as improvidently granted after argument). Every other entry below defaults to MERITS on the strength of the source inventory's own description ("95 published Court decisions... including per curiam dispositions"); it is not independently reverified case by case here. Confirm each matter's actual entry stage and posture when its brief is prepared, per `foundation/CASE_BRIEF_TEMPLATE.md`.
+| No. | New chunk | Case caption | Docket(s) | Event date | Event type | Category |
+|---:|---:|---|---|---|---|---|
+| 1 | 1 | Day v. Day | Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 | 1993-10-12 | Fee-waiver and filing-control application | APPLICATION |
+| 2 | 1 | In re Sassower | Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596 | 1993-10-12 | Fee-waiver and filing-control application | APPLICATION |
+| 3 | 1 | Harris v. Forklift Systems, Inc. | No. 92-1168 | 1993-11-09 | Signed opinion | MERITS |
+| 4 | 1 | Florence County School District Four v. Carter | No. 91-1523 | 1993-11-09 | Signed opinion | MERITS |
+| 5 | 1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | No. 92-1123 | 1993-11-30 | Per curiam post-grant procedural disposition | MERITS |
+| 6 | 1 | Cavanaugh v. Roller | No. 92-1510 | 1993-11-30 | Per curiam post-grant procedural disposition | MERITS |
+| 7 | 1 | United States v. James Daniel Good Real Property | No. 92-1180 | 1993-12-13 | Signed opinion | MERITS |
+| 8 | 1 | John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank | No. 92-1074 | 1993-12-13 | Signed opinion | MERITS |
+| 9 | 1 | Tennessee v. Middlebrooks | No. 92-989 | 1993-12-13 | Per curiam post-grant procedural disposition | MERITS |
+| 10 | 1 | Burden v. Zant | No. 92-8836 | 1994-01-10 | Per curiam judgment / summary disposition | MERITS |
+| 11 | 1 | Ratzlaf v. United States | No. 92-1196 | 1994-01-11 | Signed opinion | MERITS |
+| 12 | 1 | Thunder Basin Coal Co. v. Reich | No. 92-896 | 1994-01-19 | Signed opinion | MERITS |
+| 13 | 2 | Weiss v. United States | No. 92-1482, including Hernandez under Supreme Court Rule 12.2 | 1994-01-19 | Signed opinion | MERITS |
+| 14 | 2 | Schiro v. Farley | No. 92-7549 | 1994-01-19 | Signed opinion | MERITS |
+| 15 | 2 | Albright v. Oliver | No. 92-833 | 1994-01-24 | Signed opinion | MERITS |
+| 16 | 2 | National Organization for Women, Inc. v. Scheidler | No. 92-780 | 1994-01-24 | Signed opinion | MERITS |
+| 17 | 2 | ABF Freight System, Inc. v. NLRB | No. 92-1550 | 1994-01-24 | Signed opinion | MERITS |
+| 18 | 2 | Department of Revenue of Oregon v. ACF Industries, Inc. | No. 92-74 | 1994-01-24 | Signed opinion | MERITS |
+| 19 | 2 | Northwest Airlines, Inc. v. County of Kent | No. 92-97 | 1994-01-24 | Signed opinion | MERITS |
+| 20 | 2 | Hagen v. Utah | No. 92-6281 | 1994-02-23 | Signed opinion | MERITS |
+| 21 | 2 | FDIC v. Meyer | No. 92-741 | 1994-02-23 | Signed opinion | MERITS |
+| 22 | 2 | Department of Defense v. Federal Labor Relations Authority | No. 92-1223 | 1994-02-23 | Signed opinion | MERITS |
+| 23 | 2 | Elder v. Holloway | No. 92-8579 | 1994-02-23 | Signed opinion | MERITS |
+| 24 | 2 | Caspari v. Bohlen | No. 92-1500 | 1994-02-23 | Signed opinion | MERITS |
+| 25 | 3 | American Dredging Co. v. Miller | No. 91-1950 | 1994-02-23 | Signed opinion | MERITS |
+| 26 | 3 | Fogerty v. Fantasy, Inc. | No. 92-1750 | 1994-03-01 | Signed opinion | MERITS |
+| 27 | 3 | Campbell v. Acuff-Rose Music, Inc. | No. 92-1292 | 1994-03-07 | Signed opinion | MERITS |
+| 28 | 3 | Liteky v. United States | No. 92-6921 | 1994-03-07 | Signed opinion | MERITS |
+| 29 | 3 | Victor v. Nebraska / Sandoval v. California | Nos. 92-8894 (Victor) and 92-9049 (Sandoval) | 1994-03-22 | Signed opinion | MERITS |
+| 30 | 3 | United States v. Granderson | No. 92-1662 | 1994-03-22 | Signed opinion | MERITS |
+| 31 | 3 | Powell v. Nevada | No. 92-8841 | 1994-03-30 | Signed opinion | MERITS |
+| 32 | 3 | Oregon Waste Systems, Inc. v. Department of Environmental Quality | No. 93-70 (reported with companion No. 93-108) | 1994-04-04 | Signed opinion | MERITS |
+| 33 | 3 | Ticor Title Insurance Co. v. Brown | No. 92-1988 | 1994-04-04 | Per curiam post-grant procedural disposition | MERITS |
+| 34 | 3 | J.E.B. v. Alabama ex rel. T.B. | No. 92-1239 | 1994-04-19 | Signed opinion | MERITS |
+| 35 | 3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | No. 92-854 | 1994-04-19 | Signed opinion | MERITS |
+| 36 | 3 | McDermott, Inc. v. AmClyde | No. 92-1479 | 1994-04-20 | Signed opinion | MERITS |
+| 37 | 4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | No. 93-180 | 1994-04-20 | Per curiam judgment / summary disposition | MERITS |
+| 38 | 4 | United States v. Irvine | No. 92-1546 | 1994-04-20 | Signed opinion | MERITS |
+| 39 | 4 | Landgraf v. USI Film Products | No. 92-757 | 1994-04-26 | Signed opinion | MERITS |
+| 40 | 4 | Rivers v. Roadway Express, Inc. | No. 92-938 | 1994-04-26 | Signed opinion | MERITS |
+| 41 | 4 | Stansbury v. California | No. 93-5770 | 1994-04-26 | Per curiam judgment / summary disposition | MERITS |
+| 42 | 4 | City of Chicago v. Environmental Defense Fund | No. 92-1639 | 1994-05-02 | Signed opinion | MERITS |
+| 43 | 4 | United States v. Alvarez-Sanchez | No. 92-1812 | 1994-05-02 | Signed opinion | MERITS |
+| 44 | 4 | In re Anderson | No. 93-8312 | 1994-05-02 | Fee-waiver and filing-control application | APPLICATION |
+| 45 | 4 | C & A Carbone, Inc. v. Town of Clarkstown | No. 92-1402 | 1994-05-16 | Signed opinion | MERITS |
+| 46 | 4 | Kokkonen v. Guardian Life Insurance Co. of America | No. 93-263 | 1994-05-16 | Signed opinion | MERITS |
+| 47 | 4 | Beecham v. United States | No. 93-445, including Jones under Rule 12.2 | 1994-05-16 | Signed opinion | MERITS |
+| 48 | 4 | Security Services, Inc. v. Kmart Corp. | No. 93-284 | 1994-05-16 | Signed opinion | MERITS |
+| 49 | 5 | BFP v. Resolution Trust Corp. | No. 92-1370 | 1994-05-23 | Signed opinion | MERITS |
+| 50 | 5 | Staples v. United States | No. 92-1441 | 1994-05-23 | Signed opinion | MERITS |
+| 51 | 5 | Custis v. United States | No. 93-5209 | 1994-05-23 | Signed opinion | MERITS |
+| 52 | 5 | NLRB v. Health Care & Retirement Corp. of America | No. 92-1964 | 1994-05-23 | Signed opinion | MERITS |
+| 53 | 5 | Dalton v. Specter | No. 93-289 | 1994-05-23 | Signed opinion | MERITS |
+| 54 | 5 | Posters ’N’ Things, Ltd. v. United States | No. 92-903 | 1994-05-23 | Signed opinion | MERITS |
+| 55 | 5 | Associated Industries of Missouri v. Lohman | No. 93-397 | 1994-05-23 | Signed opinion | MERITS |
+| 56 | 5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | No. 93-609 | 1994-05-23 | Per curiam judgment / summary disposition | MERITS |
+| 57 | 5 | McKnight v. General Motors Corp. | No. 92-1113 | 1994-05-23 | Per curiam judgment / summary disposition | MERITS |
+| 58 | 5 | Waters v. Churchill | No. 92-1450 | 1994-05-31 | Signed opinion | MERITS |
+| 59 | 5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | No. 92-1911 | 1994-05-31 | Signed opinion | MERITS |
+| 60 | 5 | Nichols v. United States | No. 92-8556 | 1994-06-06 | Signed opinion | MERITS |
+| 61 | 6 | Farmer v. Brennan | No. 92-7247 | 1994-06-06 | Signed opinion | MERITS |
+| 62 | 6 | Department of Revenue of Montana v. Kurth Ranch | No. 93-144 | 1994-06-06 | Signed opinion | MERITS |
+| 63 | 6 | Digital Equipment Corp. v. Desktop Direct, Inc. | No. 93-405 | 1994-06-06 | Signed opinion | MERITS |
+| 64 | 6 | Key Tronic Corp. v. United States | No. 93-376 | 1994-06-06 | Signed opinion | MERITS |
+| 65 | 6 | City of Ladue v. Gilleo | No. 92-1856 | 1994-06-13 | Signed opinion | MERITS |
+| 66 | 6 | O’Melveny & Myers v. FDIC | No. 93-489 | 1994-06-13 | Signed opinion | MERITS |
+| 67 | 6 | Romano v. Oklahoma | No. 92-9093 | 1994-06-13 | Signed opinion | MERITS |
+| 68 | 6 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | No. 93-639 | 1994-06-13 | Signed opinion | MERITS |
+| 69 | 6 | Livadas v. Bradshaw | No. 92-1920 | 1994-06-13 | Signed opinion | MERITS |
+| 70 | 6 | United States v. Carlton | No. 92-1941 | 1994-06-13 | Signed opinion | MERITS |
+| 71 | 6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | No. 93-377 | 1994-06-13 | Signed opinion | MERITS |
+| 72 | 6 | Howlett v. Birkdale Shipping Co., S.A. | No. 93-670 | 1994-06-13 | Signed opinion | MERITS |
+| 73 | 7 | Simmons v. South Carolina | No. 92-9059 | 1994-06-17 | Signed opinion | MERITS |
+| 74 | 7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | No. 93-356; consolidated review included No. 93-521 | 1994-06-17 | Signed opinion | MERITS |
+| 75 | 7 | West Lynn Creamery, Inc. v. Healy | No. 93-141 | 1994-06-17 | Signed opinion | MERITS |
+| 76 | 7 | Hawaiian Airlines, Inc. v. Norris | No. 92-2058, including the related Finazzo judgment under Rule 12.2 | 1994-06-20 | Signed opinion | MERITS |
+| 77 | 7 | Director, Office of Workers’ Compensation Programs v. Greenwich Collieries | No. 93-744, including Maher Terminals under Rule 12.2 | 1994-06-20 | Signed opinion | MERITS |
+| 78 | 7 | Barclays Bank PLC v. Franchise Tax Board of California | Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry) | 1994-06-20 | Signed opinion | MERITS |
+| 79 | 7 | Reed v. Farley | No. 93-5418 | 1994-06-20 | Signed opinion | MERITS |
+| 80 | 7 | Dolan v. City of Tigard | No. 93-518 | 1994-06-24 | Signed opinion | MERITS |
+| 81 | 7 | Honda Motor Co. v. Oberg | No. 93-644 | 1994-06-24 | Signed opinion | MERITS |
+| 82 | 7 | Heck v. Humphrey | No. 93-6188 | 1994-06-24 | Signed opinion | MERITS |
+| 83 | 7 | Davis v. United States | No. 92-1949 | 1994-06-24 | Signed opinion | MERITS |
+| 84 | 7 | Thomas Jefferson University v. Shalala | No. 93-120 | 1994-06-24 | Signed opinion | MERITS |
+| 85 | 8 | Consolidated Rail Corp. v. Gottshall | No. 92-1956, including Carlisle under Rule 12.2 | 1994-06-24 | Signed opinion | MERITS |
+| 86 | 8 | Shannon v. United States | No. 92-8346 | 1994-06-24 | Signed opinion | MERITS |
+| 87 | 8 | Turner Broadcasting System, Inc. v. FCC | No. 93-44 | 1994-06-27 | Signed opinion | MERITS |
+| 88 | 8 | Board of Education of Kiryas Joel Village School District v. Grumet | No. 93-517, consolidated with Nos. 93-527 and 93-539 | 1994-06-27 | Signed opinion | MERITS |
+| 89 | 8 | Williamson v. United States | No. 93-5256 | 1994-06-27 | Signed opinion | MERITS |
+| 90 | 8 | McFarland v. Scott | No. 93-6497 | 1994-06-30 | Signed opinion | MERITS |
+| 91 | 8 | Holder v. Hall | No. 91-2012 | 1994-06-30 | Signed opinion | MERITS |
+| 92 | 8 | Johnson v. De Grandy | No. 92-519, consolidated with Nos. 92-593 and 92-767 | 1994-06-30 | Signed opinion | MERITS |
+| 93 | 8 | Madsen v. Women’s Health Center, Inc. | No. 93-880 | 1994-06-30 | Signed opinion | MERITS |
+| 94 | 8 | International Union, United Mine Workers of America v. Bagwell | No. 92-1625 | 1994-06-30 | Signed opinion | MERITS |
+| 95 | 8 | Tuilaepa v. California / Proctor v. California | Nos. 93-5131 (Tuilaepa) and 93-5161 (Proctor) | 1994-06-30 | Signed opinion | MERITS |
 
-**Source status:** October Term 1992's closed Holdings, Standards and Tests, and Standing State registers will supply the entering law and the Court's setting for this term once OT1992's Term Close is committed; this index is prepared ahead of that and does not itself adjudicate anything. No prior OT1993 simulated trackers, effective same-term decision records, or approved case-specific Stone supplements are supplied here. Any matter OT1992 leaves open at its own close (for example, a still-unresolved Coleman v. Thompson) is not included below; it would be added as a carried-forward addition, the same way Coleman itself was carried from OT1991 into OT1992, once OT1992 actually closes.
-
-**Verification:** Dates and citations verified against U.S. Reports volumes [510](https://www.supremecourt.gov/opinions/boundvolumes/510bv.pdf), [511](https://www.supremecourt.gov/opinions/boundvolumes/511bv.pdf), and [512](https://www.supremecourt.gov/opinions/boundvolumes/512bv.pdf), per the user's supplied inventory. 95 matters total, chunked below respecting every same-day group.
-
-## OT_1993CHUNK1
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK1 | Day v. Day | 510 U.S. 1 (1993) | 1993-10-12 | Historical, used for simulation ordering | PROCEDURAL |
-| OT_1993CHUNK1 | In re Sassower | 510 U.S. 4 (1993) | 1993-10-12 | Historical, used for simulation ordering | PROCEDURAL |
-| OT_1993CHUNK1 | Florence County School District Four v. Carter | 510 U.S. 7 (1993) | 1993-11-09 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK1 | Harris v. Forklift Systems, Inc. | 510 U.S. 17 (1993) | 1993-11-09 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | 510 U.S. 27 (1993) | 1993-11-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK1 | Cavanaugh v. Roller | 510 U.S. 42 (1993) | 1993-11-30 | Historical, used for simulation ordering | PROCEDURAL |
-| OT_1993CHUNK1 | United States v. James Daniel Good Real Property | 510 U.S. 43 (1993) | 1993-12-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK1 | John Hancock Mutual Life Insurance Co. v. Harris Trust and Savings Bank | 510 U.S. 86 (1993) | 1993-12-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK1 | Tennessee v. Middlebrooks | 510 U.S. 124 (1993) | 1993-12-13 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK2
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK2 | Burden v. Zant | 510 U.S. 132 (1994) | 1994-01-10 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Ratzlaf v. United States | 510 U.S. 135 (1994) | 1994-01-11 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Weiss v. United States | 510 U.S. 163 (1994) | 1994-01-19 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Thunder Basin Coal Co. v. Reich | 510 U.S. 200 (1994) | 1994-01-19 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Schiro v. Farley | 510 U.S. 222 (1994) | 1994-01-19 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | National Organization for Women, Inc. v. Scheidler | 510 U.S. 249 (1994) | 1994-01-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Albright v. Oliver | 510 U.S. 266 (1994) | 1994-01-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | ABF Freight System, Inc. v. NLRB | 510 U.S. 317 (1994) | 1994-01-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Department of Revenue of Oregon v. ACF Industries, Inc. | 510 U.S. 332 (1994) | 1994-01-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK2 | Northwest Airlines, Inc. v. County of Kent | 510 U.S. 355 (1994) | 1994-01-24 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK3
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK3 | Caspari v. Bohlen | 510 U.S. 383 (1994) | 1994-02-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK3 | Hagen v. Utah | 510 U.S. 399 (1994) | 1994-02-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK3 | American Dredging Co. v. Miller | 510 U.S. 443 (1994) | 1994-02-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK3 | FDIC v. Meyer | 510 U.S. 471 (1994) | 1994-02-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK3 | United States Department of Defense v. FLRA | 510 U.S. 487 (1994) | 1994-02-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK3 | Elder v. Holloway | 510 U.S. 510 (1994) | 1994-02-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK3 | Fogerty v. Fantasy, Inc. | 510 U.S. 517 (1994) | 1994-03-01 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK4
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK4 | Liteky v. United States | 510 U.S. 540 (1994) | 1994-03-07 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | Campbell v. Acuff-Rose Music, Inc. | 510 U.S. 569 (1994) | 1994-03-07 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | Victor v. Nebraska | 511 U.S. 1 (1994) | 1994-03-22 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | United States v. Granderson | 511 U.S. 39 (1994) | 1994-03-22 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | Powell v. Nevada | 511 U.S. 79 (1994) | 1994-03-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | Oregon Waste Systems, Inc. v. Department of Environmental Quality of Oregon | 511 U.S. 93 (1994) | 1994-04-04 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | Ticor Title Insurance Co. v. Brown | 511 U.S. 117 (1994) | 1994-04-04 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | J.E.B. v. Alabama ex rel. T.B. | 511 U.S. 127 (1994) | 1994-04-19 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK4 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | 511 U.S. 164 (1994) | 1994-04-19 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK5
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK5 | McDermott, Inc. v. AmClyde | 511 U.S. 202 (1994) | 1994-04-20 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | Boca Grande Club, Inc. v. Florida Power & Light Co. | 511 U.S. 222 (1994) | 1994-04-20 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | United States v. Irvine | 511 U.S. 224 (1994) | 1994-04-20 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | Landgraf v. USI Film Products | 511 U.S. 244 (1994) | 1994-04-26 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | Rivers v. Roadway Express, Inc. | 511 U.S. 298 (1994) | 1994-04-26 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | Stansbury v. California | 511 U.S. 318 (1994) | 1994-04-26 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | City of Chicago v. Environmental Defense Fund | 511 U.S. 328 (1994) | 1994-05-02 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | United States v. Alvarez-Sanchez | 511 U.S. 350 (1994) | 1994-05-02 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | In re Anderson | 511 U.S. 364 (1994) | 1994-05-02 | Historical, used for simulation ordering | PROCEDURAL |
-| OT_1993CHUNK5 | Beecham v. United States | 511 U.S. 368 (1994) | 1994-05-16 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | Kokkonen v. Guardian Life Insurance Co. of America | 511 U.S. 375 (1994) | 1994-05-16 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | C & A Carbone, Inc. v. Town of Clarkstown | 511 U.S. 383 (1994) | 1994-05-16 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK5 | Security Services, Inc. v. Kmart Corp. | 511 U.S. 431 (1994) | 1994-05-16 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK6
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK6 | Dalton v. Specter | 511 U.S. 462 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | Custis v. United States | 511 U.S. 485 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | Posters 'N' Things, Ltd. v. United States | 511 U.S. 513 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | BFP v. Resolution Trust Corp. | 511 U.S. 531 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | NLRB v. Health Care & Retirement Corp. of America | 511 U.S. 571 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | Staples v. United States | 511 U.S. 600 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | Associated Industries of Missouri v. Lohman | 511 U.S. 641 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | 511 U.S. 658 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK6 | McKnight v. General Motors Corp. | 511 U.S. 659 (1994) | 1994-05-23 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK7
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK7 | Waters v. Churchill | 511 U.S. 661 (1994) | 1994-05-31 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK7 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | 511 U.S. 700 (1994) | 1994-05-31 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK7 | Nichols v. United States | 511 U.S. 738 (1994) | 1994-06-06 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK7 | Department of Revenue of Montana v. Kurth Ranch | 511 U.S. 767 (1994) | 1994-06-06 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK7 | Key Tronic Corp. v. United States | 511 U.S. 809 (1994) | 1994-06-06 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK7 | Farmer v. Brennan | 511 U.S. 825 (1994) | 1994-06-06 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK7 | Digital Equipment Corp. v. Desktop Direct, Inc. | 511 U.S. 863 (1994) | 1994-06-06 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK8
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK8 | Romano v. Oklahoma | 512 U.S. 1 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | United States v. Carlton | 512 U.S. 26 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | City of Ladue v. Gilleo | 512 U.S. 43 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | 512 U.S. 61 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | O'Melveny & Myers v. FDIC | 512 U.S. 79 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | Howlett v. Birkdale Shipping Co., S.A. | 512 U.S. 92 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | Livadas v. Bradshaw | 512 U.S. 107 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK8 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | 512 U.S. 136 (1994) | 1994-06-13 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK9
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK9 | Simmons v. South Carolina | 512 U.S. 154 (1994) | 1994-06-17 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK9 | West Lynn Creamery, Inc. v. Healy | 512 U.S. 186 (1994) | 1994-06-17 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK9 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | 512 U.S. 218 (1994) | 1994-06-17 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK9 | Hawaiian Airlines, Inc. v. Norris | 512 U.S. 246 (1994) | 1994-06-20 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK9 | Director, Office of Workers' Compensation Programs v. Greenwich Collieries | 512 U.S. 267 (1994) | 1994-06-20 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK9 | Barclays Bank PLC v. Franchise Tax Board of California | 512 U.S. 298 (1994) | 1994-06-20 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK9 | Reed v. Farley | 512 U.S. 339 (1994) | 1994-06-20 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK10
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK10 | Dolan v. City of Tigard | 512 U.S. 374 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK10 | Honda Motor Co. v. Oberg | 512 U.S. 415 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK10 | Davis v. United States | 512 U.S. 452 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK10 | Heck v. Humphrey | 512 U.S. 477 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK10 | Thomas Jefferson University v. Shalala | 512 U.S. 504 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK10 | Consolidated Rail Corp. v. Gottshall | 512 U.S. 532 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK10 | Shannon v. United States | 512 U.S. 573 (1994) | 1994-06-24 | Historical, used for simulation ordering | MERITS |
-
-## OT_1993CHUNK11
-
-| Exact chunk | Case name | Citation | Event date | Date status | Matter type |
-|---|---|---|---|---|---|
-| OT_1993CHUNK11 | Williamson v. United States | 512 U.S. 594 (1994) | 1994-06-27 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | Turner Broadcasting System, Inc. v. FCC | 512 U.S. 622 (1994) | 1994-06-27 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | Board of Education of Kiryas Joel Village School District v. Grumet | 512 U.S. 687 (1994) | 1994-06-27 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | Madsen v. Women's Health Center, Inc. | 512 U.S. 753 (1994) | 1994-06-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | International Union, United Mine Workers of America v. Bagwell | 512 U.S. 821 (1994) | 1994-06-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | McFarland v. Scott | 512 U.S. 849 (1994) | 1994-06-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | Holder v. Hall | 512 U.S. 874 (1994) | 1994-06-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | Tuilaepa v. California | 512 U.S. 967 (1994) | 1994-06-30 | Historical, used for simulation ordering | MERITS |
-| OT_1993CHUNK11 | Johnson v. De Grandy | 512 U.S. 997 (1994) | 1994-06-30 | Historical, used for simulation ordering | MERITS |
+Dates checked against the [Supreme Court OT1993 Journal](https://www.supremecourt.gov/orders/journal/jnl93.pdf). Nichols retains No. 92-8556 as confirmed by the [June 6, 1994 opinion](https://www.law.cornell.edu/supct/html/92-8556.ZO.html), notwithstanding the journal’s inconsistent docket prefix.

@@ -35,6 +35,8 @@ FORBIDDEN_PUBLIC = [
     re.compile(r"^##\s+Simulation Workflow Blockers\s*$", re.M | re.I),
 ]
 CASE_ROW = re.compile(r"^\|\s*OT_\d{4}CHUNK\d+\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|", re.M)
+# Chronological case-index form: | No. | chunk | caption | docket(s) | date | ...
+INDEX_CASE_ROW = re.compile(r"^\|\s*\d+\s*\|\s*\d+\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|", re.M)
 
 def chunks(path: Path):
     return {int(m.group(2)): p for p in path.glob("OT_*CHUNK*.md") if (m := CHUNK.match(p.name))}
@@ -118,7 +120,7 @@ def main():
             if not (ws / name).exists():
                 errors.append(f"workspace missing {name}")
         case_list = (term / "case-list.md").read_text(encoding="utf-8")
-        listed = {m.group(1).strip() for m in CASE_ROW.finditer(case_list)}
+        listed = {m.group(1).strip() for rx in (CASE_ROW, INDEX_CASE_ROW) for m in rx.finditer(case_list)}
         mtext = manifest.read_text(encoding="utf-8")
         missing = sorted(case for case in listed if case not in mtext)
         if missing:
