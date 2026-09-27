@@ -186,7 +186,7 @@ Use this structure when no controlling rationale exists:
 [If an independently majority-supported proposition exists, repeat this complete three-field group for each such proposition:]
 **Independently majority-supported proposition:** [Exact proposition.]
 **Proposition-level authority:** [Source writings and every Justice supporting that exact proposition.]
-**Current force:** [Canonical present-force statement for that proposition only.]
+[**Current force:** [Include only if later authority modified this proposition; absence means it remains controlling as stated.]]
 
 [**Limits and questions not reached:** [What the judgment and any actual majority proposition establish, without attributing plurality reasoning to the Court.]]
 ```
@@ -221,7 +221,7 @@ Before publication, verify internally that:
 
 - every admitted proposition has proposition-level controlling authority;
 - case name, citation, docket, date, participation, material judgment, and remedy are accurate where included;
-- each proposition has one and only one `Current force` statement;
+- every proposition is governed by the register-wide unchanged-force convention, and every materially modified proposition has exactly one `Current force` field;
 - later treatment updates present force without rewriting the original holding;
 - *Marks* is used only for a true logical subset and fractures remain unresolved when they are legally unresolved;
 - limits, nonreach, application, remedy, and precedent treatment have not been converted into unsupported holdings;
