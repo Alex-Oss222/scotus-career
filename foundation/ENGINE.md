@@ -21,7 +21,9 @@ Each source controls its assigned subject:
 
 Master jurisprudence, character files, or upstream drafting rules are not law or Engine inputs unless this Engine expressly names them. They may not fill a missing Stone choice or override the approved Stone Position Supplement.
 
-The alternate timeline is internally real. Pre-divergence law remains available unless displaced by simulated law or another lawful source. Post-divergence historical decisions are research and comparison material, not in-world authority, unless the simulated Court adopts their propositions. No later doctrine, technology, fact, rule, or practice may be used before it existed or became effective.
+The alternate timeline is internally real. Pre-divergence law remains available unless displaced by simulated law or another lawful source. Post-divergence historical decisions are research and comparison material, not in-world authority, unless the Court in this timeline adopts their propositions. No later doctrine, technology, fact, rule, or practice may be used before it existed or became effective.
+
+**Historical fact versus Court action.** Reliable public sources may establish objective post-divergence facts, lower-court events, filings, party conduct, deadlines, and nonadjudicative docket facts when they remain compatible with the alternate timeline. A post-divergence Supreme Court judgment, order, vote, grant, denial, restriction, or other adjudicative action does not enter merely because it occurred historically; it requires a Canonical Decision Record in this timeline or an already-canonical decision. A nonadjudicative Clerk or docket-finality event may enter through an Admitted Source Record when verified or expressly established for continuity and when it decides no merits question, changes no holding, and creates no adverse inference beyond the stated docket effect.
 
 The Engine does not seek ideological balance, historical replication, Stone victories, particular vote margins, dissents, fractured decisions, doctrinal novelty, or equal authorship. It does not use labels or scores to generate votes.
 
@@ -46,7 +48,7 @@ For this Engine:
 - The **Term Working Ledger** is the append-only sequence of those Records in commitment order, each carrying its effective date and any correction link. The manifest and Current-Term Neutral Projection provide the regenerated effective-order view.
 - The **Term Continuity Note** is a complete, replaceable projection of current law, current procedure, chronology, and material Justice-specific continuity after the latest completed chunk.
 - The **Current-Term Neutral Projection** is a sanitized projection of the full Current Term State, including the opening trackers, effective current Records, chronology cursor, and material manifest dependencies. It contains only current law, public procedure, roster and allotments, and material published Justice positions. It excludes every private Stone core, provisional commitment, comparator, reconciliation, and audit annex.
-- The **Term Workspace** is the preferred single temporary term file containing the current manifest, Term Working Ledger, latest Term Continuity Note, and Current-Term Neutral Projection as distinct sections.
+- The **Term Workspace** is the conceptual set of the current manifest, Term Working Ledger, latest Term Continuity Note, and Current-Term Neutral Projection. OT1991–OT1992 retain the legacy single-file form. From OT1993 forward these are four separate replaceable files under `workspace/` so a task loads only the projection it actually needs.
 - The **Current Term State** is the combined effect of the identified term-opening trackers, the current Full-Term Event Manifest, every validated current-term Decision Record and effective Admitted Source Record through the chronology cursor, and the latest Term Continuity Note.
 
 A Decision Record or Admitted Source Record is durable only when written to its own file or committed to the Term Working Ledger and made available to a fresh continuation context. Name it with its natural authority, action or instrument, and date. If preservation fails, the change is not committed and no dependent event may proceed.
@@ -75,11 +77,11 @@ Uncoordinated decisions released on the same date use the same entering-law base
 
 If a later chunk introduces any Court event, admitted source, or other manifest item effective before the chronology cursor, reconcile the manifest before further adjudication. Insert it with a recorded correction only if it could not materially affect a completed later event or state change. If it could affect entering law, participation, posture, judgment, remedy, procedural stage, or institutional state, identify the affected Records and rerun or correct them only with the user's approval. Never preserve an adjudication reached on a displaced premise by silently changing the timeline.
 
-A matter remains open until a dated terminal event closes it. A grant, hold, relist, CVSG, reargument, remand return, or pending application is never silently dropped.
+A matter remains open until a dated terminal event closes it. A grant, hold, relist, CVSG, reargument, remand return, or pending application is never silently dropped. Passage of a deadline alone is not an adjudicative result unless the governing order expressly made the consequence self-executing. A verified or expressly established nonadjudicative docket-finality event may close an unperfected filing without a merits disposition or adverse inference, and must be recorded as an Admitted Source Record.
 
 ## 3. Operating architecture and physical separation
 
-Use one of two named modes. **Isolated-context mode** is preferred: each stage below runs in a distinct chat or agent context with only its authorized files. Separate chats inside one Project are not isolated when the Project automatically exposes withheld sources; remove those sources, use a clean Project, or use scoped agent contexts. **Single-conversation mode** is the fallback: preserve the same order and frozen handoffs, disclose that true blindness was unavailable, and treat independence as weaker. A label that says information was ignored is not physical separation.
+Use one of two named modes. **Isolated-context mode** is the normal mode from OT1993 forward: neutral preflight, independent modeling, historical reconciliation, assembly, and rendering run in distinct contexts with only their authorized files. The provisional and reconciled commitment files are durable immutable handoffs. Separate chats inside one Project are not isolated when the Project automatically exposes withheld sources; remove those sources, use a clean Project, or use scoped agent contexts. **Single-conversation mode** is an emergency fallback only: preserve the same order and frozen handoffs, disclose the limitation internally, and treat independence as weaker. A label that says information was ignored is not physical separation.
 
 ### A. Neutral preflight and research context
 
@@ -260,7 +262,9 @@ After provisional commitments are complete, introduce the historical vote or ali
 
 A historical match does not cure analysis that ignores a displaced premise. A historical departure does not fail merely because it is a departure. If the discrepancy cannot be supported, conduct additional source review and record the remaining uncertainty or stop the affected Justice determination if it prevents a defensible result. Do not automatically replace the provisional commitment with the historical vote.
 
-A departure requires a concrete, Justice-specific basis, such as displaced simulated law, a changed question or record, a different remedy, date-eligible authority or briefing, a material prior simulated position, or a circulation revision resolving a legal objection. Ideology, desired margins, drama, or coalition convenience is insufficient.
+**Causal departure test.** For every material departure, state in one compact row: (1) the Justice's historical position; (2) the concrete legal, factual, procedural, remedial, record, or prior-simulated premise that differs in this timeline; and (3) why that difference can matter to this Justice under date-eligible sources. If no material premise differs, the historical vote remains strong case-specific evidence and the reconciliation must explain any departure on some other concrete Justice-specific ground or retain the historical position. This is an analytical burden, not a binary algorithm.
+
+A departure requires a concrete, Justice-specific basis, such as displaced current law, a changed question or record, a different remedy, date-eligible authority or briefing, a material prior public position in this timeline, or a circulation revision resolving a legal objection. Ideology, desired margins, drama, coalition convenience, or a desired Stone outcome is insufficient.
 
 If a material date-eligible source, record correction, or lawful ground is discovered before commitment, do not patch a provisional row in assembly. Return only the corrected neutral material to the neutral preflight, replace the affected packet portion, remodel and refreeze the affected commitments, and repeat reconciliation without exposing Stone to either modeling stage. If Stone has already entered an uncommitted assembly, discard that assembly and repeat the handoffs. Record the correction and its effect.
 
@@ -324,7 +328,11 @@ Appeals as of right, certified questions, original matters, reargument, rehearin
 
 ## 11. Canonical Decision Record
 
-Create one durable Canonical Decision Record for every completed event. Use the natural key of case or docket, event type, event date, and October Term. Do not create opaque identifiers, packet codes, transaction labels, or checksums.
+Create one durable Canonical Decision Record for every completed event. Use the natural key of case or docket, event type, event date, and October Term. Do not create opaque identifiers, packet codes, transaction labels, or checksums. For OT1993 forward, filenames use that natural key consistently and are not abbreviated to one-party nicknames.
+
+Every Record begins with exactly four compact lines: **Case and dockets**; **Event and date**; **Result**; **Record version and supersession**. Mode, approval history, commit hashes, research process, and correction provenance belong in the internal audit/provenance section, never in the opening block or Public projection.
+
+Each Record ends with a bounded **Public projection** section containing the eleven Render Input blocks in their required order. That section is the sole source for the generated Render Input. The renderer never opens the rest of the Record.
 
 ### Mandatory decision kernel
 
@@ -483,7 +491,7 @@ Use computational tools for deterministic checks, including:
 - completeness of open-matter carry-forward; and
 - comparisons among Decision Records, Admitted Source Records, Render Inputs, the Term Continuity Note, and candidate replacement trackers.
 
-Tools check consistency; they do not decide legal meaning, predict votes, form coalitions, or determine doctrine mechanically.
+Tools check consistency; they do not decide legal meaning, predict votes, form coalitions, determine doctrine, decide whether a historical departure is persuasive, or select a remedy mechanically. Mechanize bookkeeping, never adjudication. A deterministic failure may require the AI to repair or re-evaluate the affected work, but no script supplies the legal answer.
 
 Research external follow-on events only when they are directly connected, date-eligible, material to a later supplied event or term continuity, and supported by reliable sources. Stop a historical chain when simulated law removes a necessary predicate. Record the research cutoff and any simulated scheduling assumption.
 
@@ -511,4 +519,4 @@ Write in restrained, specific legal prose. State the outcome first, then the con
 
 ## Begin rule
 
-Before the first adjudication of a term, validate the opening trackers and complete the Full-Term Event Manifest from the term-wide inventory. For each chunk, a control context reconstructs the Current Term State from the identified opening trackers and validated Term Workspace sections, then refreshes the Current-Term Neutral Projection before runtime handoff. Revalidate the supplied matters, process changes in chronological order, and durably commit each validated Record before moving to a dependent event. At chunk close, return the replacement Term Workspace. Send only the exact Render Input blocks and chunk metadata to the renderer, plus a separate Public Audit Projection only when the user requested one. At term close, use the Term-Close Dossier to produce and jointly audit complete replacement trackers.
+Before the first adjudication of a term, validate the opening trackers and complete the Full-Term Event Manifest from the term-wide inventory. For each chunk, a control context reconstructs the Current Term State from the identified opening trackers and validated Term Workspace sections, then refreshes the Current-Term Neutral Projection before runtime handoff. Revalidate the supplied matters, process changes in chronological order, and durably commit each validated Record before moving to a dependent event. At chunk close, atomically replace the four Term Workspace projections. Generate the Render Input mechanically from each Record's bounded Public projection, then validate it before rendering. Send only that generated Render Input to the renderer, plus a separate Public Audit Projection only when expressly requested. Public Court output never contains workflow, approval, version, model, or provenance language. At term close, run deterministic checks first, then use the Term-Close Dossier for substantive legal audit and coordinated tracker replacement.
