@@ -557,7 +557,7 @@ Before: Martin's filing-specific Rule 39.8 standard had not yet been applied to 
 
 #### Source Notes
 
-[Original petition](https://archive.org/download/micro_IA40385013_0424/micro_IA40385013_0424%202.%20Petition%20for%20Writ%20of%20Certiorari.pdf) and [Ninth Circuit disposition, 962 F.2d 13](https://law.justia.com/cases/federal/appellate-courts/F2/962/13/91800/) support the dates, underlying record, and posture. The disposition and holdings supplied above state this Court's action; the reporter locator is source identification, not a substituted decision. No verbatim historical opinion is presented as an authenticated quotation. Research cutoff March 8, 1993; no later disposition is asserted.
+[Original petition](https://archive.org/download/micro_IA40385013_0424/micro_IA40385013_0424%202.%20Petition%20for%20Writ%20of%20Certiorari.pdf) and [Ninth Circuit disposition, 962 F.2d 13](https://law.justia.com/cases/federal/appellate-courts/F2/962/13/91800/) support the dates, underlying record, and posture. The disposition and holdings supplied above state this Court's action; the reporter locator is source identification, not a substituted decision. No verbatim historical opinion is presented as an authenticated quotation.  no later disposition is asserted.
 
 #### Mandate, Remedy, and Stage
 
@@ -942,6 +942,3 @@ Supreme Court merits review is complete. The Sixth Circuit judgment stands, with
 
 ---
 
-## Simulation Workflow Blockers
-
-No open simulation workflow blockers.
