@@ -1,0 +1,153 @@
+{
+  "Liteky v. United States": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm on the section 455(a) recusal challenge",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Ordinary objective appearance regardless of source; no impossibility requirement",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ]
+      },
+      {
+        "name": "Independent section 455(a) protection without automatic importation of section 455(b) limits",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ]
+      },
+      {
+        "name": "Outside origin neither necessary nor sufficient",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Court cumulative application under ordinary appearance",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ]
+      },
+      {
+        "name": "Noncontrolling objective deep-partiality requirement for judicial-source attitudes",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  },
+  "Ticor Title Insurance Co. v. Brown": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Dismiss the writ as improvidently granted",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Kennedy"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Case-specific discretionary vehicle dismissal; no constitutional merits decision",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Pending proposal does not establish completed mootness",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Noncontrolling retention of the presented constitutional question",
+        "support": [
+          "O'Connor",
+          "Kennedy"
+        ]
+      }
+    ]
+  }
+}

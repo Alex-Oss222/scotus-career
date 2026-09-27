@@ -1,0 +1,86 @@
+[
+  {
+    "case": "AmericanDredging",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510443/usrep510443.pdf",
+    "pages": 28,
+    "characters": 58274,
+    "file": "AmericanDredging-510443.txt"
+  },
+  {
+    "case": "Fogerty",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510517/usrep510517.pdf",
+    "pages": 23,
+    "characters": 52017,
+    "file": "Fogerty-510517.txt"
+  },
+  {
+    "case": "Campbell",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510569/usrep510569.pdf",
+    "pages": 32,
+    "characters": 67141,
+    "file": "Campbell-510569.txt"
+  },
+  {
+    "case": "Liteky",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510540/usrep510540.pdf",
+    "pages": 29,
+    "characters": 61592,
+    "file": "Liteky-510540.txt"
+  },
+  {
+    "case": "Victor",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511001/usrep511001.pdf",
+    "pages": 38,
+    "characters": 78212,
+    "file": "Victor-511001.txt"
+  },
+  {
+    "case": "Granderson",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511039/usrep511039.pdf",
+    "pages": 40,
+    "characters": 88695,
+    "file": "Granderson-511039.txt"
+  },
+  {
+    "case": "Powell",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511079/usrep511079.pdf",
+    "pages": 14,
+    "characters": 29048,
+    "file": "Powell-511079.txt"
+  },
+  {
+    "case": "OregonWaste",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511093/usrep511093.pdf",
+    "pages": 24,
+    "characters": 53055,
+    "file": "OregonWaste-511093.txt"
+  },
+  {
+    "case": "Ticor",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511117/usrep511117.pdf",
+    "pages": 10,
+    "characters": 19739,
+    "file": "Ticor-511117.txt"
+  },
+  {
+    "case": "JEB",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511127/usrep511127.pdf",
+    "pages": 37,
+    "characters": 83092,
+    "file": "JEB-511127.txt"
+  },
+  {
+    "case": "CentralBank",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511164/usrep511164.pdf",
+    "pages": 38,
+    "characters": 84535,
+    "file": "CentralBank-511164.txt"
+  },
+  {
+    "case": "McDermott",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511202/usrep511202.pdf",
+    "pages": 20,
+    "characters": 46934,
+    "file": "McDermott-511202.txt"
+  }
+]

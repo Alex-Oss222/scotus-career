@@ -1,0 +1,181 @@
+{
+  "McDermott, Inc. v. AmClyde": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "River Don settlement credit",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Proportionate share and settlement risk",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Preserved joint liability and bounded remedy",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  },
+  "Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Private secondary claim",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "No private secondary action",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Noncontrolling conditional retained-action rule",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ]
+  },
+  "J.E.B. v. Alabama ex rel. T.B.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "State sex-based peremptories",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Kennedy"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Court opinion prohibition and heightened scrutiny",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Court opinion staged inquiry and remedy",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Operative prohibition including independent concurrence",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Kennedy"
+        ]
+      }
+    ]
+  }
+}

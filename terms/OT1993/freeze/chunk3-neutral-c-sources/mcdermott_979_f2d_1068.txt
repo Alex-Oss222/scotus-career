@@ -1,0 +1,630 @@
+https://static.case.law/f2d/979/html/1068-01.html
+McDERMOTT, INC., Plaintiff-Appellee, Cross-Appellant, v. CLYDE IRON, et al., Defendants, AmClyde, A Division of AMCA International, Inc., and River Don Casting Ltd., Defendants-Appellants, Cross-Appellees.
+No. 91-2246.
+United States Court of Appeals, Fifth Circuit.
+Dec. 11, 1992.
+Rehearing and Rehearing En Banc Denied Jan. 25, 1993.
+*1070
+Robert E. Coughig, Jr., Thomas O’Brien, Karen L. Lewis, Adams & Reese, New Orleans, La., for AmClyde, et al.
+Arden J. Lea, R. Jeffrey Bridger, Rockne L. Moseley, Lea, Plavnicky & Moseley, New Orleans, La., for plaintiff-appellee, cross-appellant.
+Before HIGGINBOTHAM and DUHÉ, Circuit Judges, and HARMON,
+*
+District Judge.
+*
+District Judge of the Southern District of Texas, sitting by designation.
+PATRICK E. HIGGINBOTHAM, Circuit Judge:
+This is a suit for damage to property resulting from a failure of a large crane on an offshore platform. AmClyde and River Don appeal from a judgment on the jury’s verdict urging that AmClyde’s contract with McDermott, and general maritime law, protect them from liability in warranty and tort in addition to the limits on tort liability under the
+East River
+doctrine and that, in any event, they are entitled to the credit of McDermott’s settlement with others. McDermott cross-appeals attacking the application of
+East River
+and the denial of recovery
+for
+damage to the crane itself. We reverse the judgment against Am-Clyde. We conclude that River Don is liable to McDermott, but hold that River Don is entitled to full credit for McDermott’s settlement.
+I.
+On January 10, 1986, McDermott contracted to purchase a 5,000 ton Shearleg crane designed and manufactured by Am-Clyde. The contract covered twenty-five pages and included several provisions purporting to limit potential liability. McDer-mott intended to use the crane to move the deck portion, the Snapper deck, of an offshore platform used in drilling for oil and natural gas. AmClyde designed the crane’s hook. River Don was not a party to the McDermott-AmClyde contract but manufactured the hook under a subcontract with AmClyde.
+On October 10, 1986, McDermott was using the crane to lift the approximately 3,950 ton Snapper deck. The crane was mounted aboard the vessel Intermac 600 in the Gulf of Mexico off the coast of Texas. As the crane lifted the deck, one of the prongs on the hook and one of the slings holding the deck broke, and the deck fell onto the barge with serious damage to the crane and deck. This suit followed.
+McDermott sued AmClyde, River Don, two manufacturers of the slings, and another sling supplier asserting tort and contract claims. AmClyde filed a third-party claim against Hudson Engineering, the McDermott subsidiary that designed the sling rigging arrangement used for the lift. AmClyde also counterclaimed for the cost of replacing the allegedly defective hook.
+AmClyde and River Don moved for partial summary judgment arguing that Am-Clyde and McDermott agreed in the contract to restrict any tort and contract liability to repair or replacement and that under general maritime law there is no recovery for product damage and resulting economic loss under
+East River Steamship Corp. v. Transamerica Delaval, Inc.,
+476 U.S. 858
+,
+106 S.Ct. 2295
+,
+90 L.Ed.2d 865
+(1986). The magistrate judge denied the motion.
+On the eve of trial, McDermott settled with the three sling-related defendants for $1 million. AmClyde and River Don claimed a dollar-for-dollar credit for the $1 million settlement against any judgment against them, citing
+Hernandez v. M/V RAJAAN,
+841 F.2d 582
+(5th Cir.1988). In his opening statement, counsel for McDer-mott told the jury that McDermott accepted responsibility for any part the slings played in causing the damage. The settlement documents were not formally executed until after the jury returned its verdict. That detail disclosed that the settlement
+*1071
+agreement attributed one half of the total settlement to crane damages and one half to deck damages.
+Shortly after trial began, the magistrate judge, relying on
+East River,
+ruled that McDermott could not recover in tort for damage to the product itself, the crane and the hook, but that it could recover in tort for damage to the deck as “other property.” At trial then, McDermott’s claim for damages to the crane was limited to the remedies provided for in its contract with AmClyde.
+The jury found the crane’s hook to be defective, that the defect was one of materials or workmanship and misrepresentation, and that this defect was a producing cause of injury. The jury also found that AmClyde breached express and implied warranties that were a producing cause of injury. The jury awarded compensatory damages of $2.1 million for damage to the deck, attributing the cause of the accident 32% to AmClyde, 38% to River Don, 0% to Hudson Engineering and 30% to “McDer-mott/ sling defendants.” Thé jury was not asked to determine separately McDermott’s contribution to the accident despite its assumption of any damage caused by the sling defendants. The court later denied AmClyde and River Don’s request for a $1 million credit against the verdict and rendered judgment on the jury’s verdict against AmClyde in the amount of $672,-000.00 and against River Don in the amount of $798,000.00.
+1
+AmClyde and River Don appeal, and McDermott cross-appeals. AmClyde and River Don first argue that recovery for damages to the deck cannot be supported by a breach of contract, because the parties disclaimed all warranties, except a limited replacement and repair warranty for materials and workmanship. Second, they contend that McDermott was not entitled to any recovery in tort for damage to the deck, because (1) the McDermott-AmClyde contract waived all tort liability as to Am-Clyde and River Don, and (2)
+East River
+precludes any tort claims for damage to
+both
+the crane and the.deck. Third, Am-Clyde and River Don assert that the trial court should have granted their motions for directed verdict and judgment notwithstanding the verdict, because McDermott failed to prove causation. Finally, Am-Clyde and River Don claim an offset of the $1 million settlement under
+Hernandez,
+alternatively, that they are entitled to a new trial because of various erroneous rulings on questions of evidence.
+McDermott contends that it is entitled to recover for damage to the crane as well as the deck. McDermott requests a remand for trial on the amount of damages to the crane only, contending that the jury has already determined the liability of Am-Clyde and River Don. McDermott argues that it should not be limited to the replacement of defective parts under the contract, because (1) AmClyde’s refusal to replace the hook free of charge caused the limited warranty to fail of its essential purpose; (2) AmClyde made broad and undisclaimed warranties by incorporating technical specifications into the document; (3) the warranty was modified by later dealings between the parties' and assurances from AmClyde that, it would “stand behind its product”; (4) the replacement warranty applies only to AmClyde’s manufacture of the crane, not to its design and sale. Second, McDer-mott contends that
+East River
+does not bar recovery for damage to the crane, because other property, the deck, along with the crane was damaged. Third, McDermott argues that its claims against River Don should not be governed by the rule of
+East River
+because there was no contractual relationship directly between them. Finally, McDermott claims prejudgment interest and urges that the jury’s verdict should be corrected to show that the jury allocated causation and not fault.
+II.
+We are convinced that the contract between McDermott and AmClyde controls
+*1072
+AmClyde’s liability to McDermott. It is urged that McDermott’s recovery in warranty is limited to the replacement/repair warranty in the McDermott-AmClyde contract, and the contract precludes McDer-mott from recovering in tort. We agree and reverse the judgment against Am-Clyde. Although we conclude that Rivér Don is not protected by the limited liability provisions in the contract between McDer-mott and AmClyde, and River Don is liable to McDermott, we find that River Don is entitled to a credit of McDermott’s settlement with the sling defendants. We address AmClyde first, then River Don.
+III.
+The language of the contract is critical to McDermott’s recovery against Am-Clyde in warranty, and we focus on Article XV
+2
+. The parties agree that we must look te the law of New York in interpreting this contract. Under New York law, these issues of contract interpretation are considered questions of law.
+Maio v. Gardino,
+— A.D.2d —,
+585 N.Y.S.2d 529
+, 530 (N.Y.App.Div.1992);
+Trastco Bank v. 11 North Pearl Assoc.,
+153 Misc.2d 340
+,
+580 N.Y.S.2d 847
+, 848 (N.Y.Sup.Ct.1992). Thus, our review is
+de novo.
+A.
+In Article XV, AmClyde warrants that equipment of its own manufacture will be free from defects in materials and workmanship and that the exclusive remedy for the breach of this limited warranty will be repair or replacement of defective parts. Such agreed upon limits on remedy are generally valid. N.Y.U.C.C.Law § 2-719 (McKinney 1991)
+3
+;
+Employers Ins. of
+*1073
+Wausau v. Suwannee River Spa Lines, Inc.,
+866 F.2d 752
+, 776 (5th Cir.1989);
+American Elec. Power Co. v. Westinghouse Elec.,
+418 F.Supp. 435
+, 452-53 (S.D.N.Y.1976).
+The jury found a defect in materials or workmanship, and therefore, a breach of this limited warranty. McDermott attempts to escape the restriction on remedy that it agreed to urging that this remedy “failed of its essential purpose.”
+4
+The policy behind the failure of essential purpose rule is to insure that the buyer has “at least minimum adequate remedies.” U.C.C. § 2-719 Comment 1. Typically, a limited repair/replaeement remedy fails of its essential purpose where (1) the “[sjeller is unsuccessful in repairing or replacing the defective part, regardless of good or bad faith; or (2) [t]here is unreasonable delay in repairing or replacing defective components.”
+Cayuga Harvester, Inc. v. Allis-Chalmers, Corp.,
+95 A.D.2d 5
+,
+465 N.Y.S.2d 606
+, 613 (1983). McDermott and AmClyde were aware of this rule, expressly addressing the doctrine in their contract. Article XV.C, provides: “[t]his exclusive remedy shall not have failed of its essential purpose ... provided the Seller remains willing to repair or replace defective part to components within a commercially reasonable time after it obtains actual knowledge of the existence of a particular defect.”
+See
+James J. White & Robert S. Summers,
+Uniform Commercial Code
+§ 12-10 (3d ed. 1988) (stating that such a clause may give the seller greater protection).
+McDermott argues that the limited remedy failed, of its essential purpose, because AmClyde did not replace the crane hook free of charge. McDermott, with agreement of AmClyde and River Don, sent the hook to Packer Engineering for testing. Packer determined that the hook was defective, and McDermott demanded a replacement from AmClyde under the limited warranty. AmClyde responded that McDermott must first send them a purchase order. McDermott sent the purchase order, and AmClyde later sent a new hook, both parties expressly reserving their rights. AmClyde, as we noted, counterclaimed for the cost of the replacement hook, arguing that the hook was not defective, but failed at McDermott’s negligent hand. Based on the jury’s verdict, the magistrate judge refused to order-payment for the replacement hook.
+McDermott’s assertion that AmClyde did not replace the hook free of charge is apparently based on AmClyde’s requirement of a purchase order and the contest-of its obligation to provide a free replacement. McDermott received a new hook and at no cost. AmClyde never denied its obligation to replace a defective hook. It only denied that the hook was defective. It lost that argument and honored its obligation. We find no failure of purpose.
+5
+B.
+McDermott argues that in addition to the limited warranty in Article XY, the contract gained another express warranty by incorporating design specifications.
+6
+The
+*1074
+Specifications
+state that “[t]he crane when erected will be capable of lifting 5000 ST to a reach of 100 feet measured from the boom heel pin.” McDermott argues that this language created an express warranty of the crane’s lifting capacity or a “design warranty.”
+We decline this journey, however, because assuming there was a “design warranty,” it was not breached. The jury found that the defect in the crane was one of materials or workmanship and misrepresentation and specifically
+not
+a defect in design.
+McDermott also argues that Am-Clyde gave other express warranties after the parties executed the contract. McDer-mott relies on an exchange of letters between AmClyde vice president Michael J. Ucci and McDermott vice president W.L. Higgins. Mr. Ucci wrote in part:
+In the unlikely event the 5000 ST Shear-leg Derrick being designed by Clyde does not perform according to the specification, Clyde would ensure that any deficiencies are corrected. Our track record in this area should speak for itself, but in addition I am giving you my personal assurance that we will stand behind our product.
+Mr. Higgins responded:
+To the extent that you have expanded on the intent of the warranty of the 5000 ST Shearleg Derrick, we understand you to say that Clyde will correct any such deficiencies and will cooperate with McDer-mott to do so expeditiously and with a minimum of inconvenience and expense. This of course would conceptually include having the work done locally to avoid the time and expense of taking the equipment out of service and sending it to Duluth, Minnesota to correct deficiencies.
+We accept your personal assurance that Clyde will accept the additional warranty responsibility. McDermott trusts that the entire Clyde organization endorses the intent of your Comfort Letter and in particular, the notion that Clyde will stand behind its product.
+McDermott argues that these letters created a new warranty.
+An express warranty arises through “[a]ny affirmation of fact or promise made by the seller to the buyer which relates to the goods and becomes part of the basis of the bargain.” N.Y.U.C.C. § 2-313(l)(a) (McKinney 1991). We do not read thése two letters to create a new or different warranty. Instead, Mr. Ucci only reaffirmed AmClyde’s obligation to repair or replace any defective parts. Regardless, McDermott cannot overcome the contract’s integration clause requiring a signed writing for its modification.
+7
+These provisions are specifically validated by U.C.C. § 2-209(2), and a signed writing is required to modify or rescind them.
+8
+McDermott counters with a waiver argument. As circular as the notion may be, it is true that an integration clause can be waived,
+see
+U.C.C. § 2-209(4),
+9
+but we conclude that no waiver occurred.
+McDermott states that both parties “as a normal course of conduct ... regulat
+*1075
+ly accommodated, modified, supplemented, and finalized important aspects of the Shearleg Crane and its warranted qualities after signing an initial contract document,” and contends that this course of dealing constituted a waiver of the contract’s modification requirement. The only case McDermott cites on this point is
+Linear Corp. v. Standard Hardware Co.,
+423 So.2d 966
+(Fla.Dist.Ct.App.1982). That case involved a contract for the sale of electronic security devices between a manufacturer and a wholesaler. The contract expressly stated that the goods were not purchased on consignment and could not be returned. The contract further required a signed writing to modify. The court found a waiver of this writing requirement and a new agreement to repurchase, concluding from a number of letters and telephone conversations that the seller had agreed to a return of unsold equipment.
+In
+Linear,
+the new agreement involved a major change to the contract, the right to return the goods. The changes referred to by McDermott involved technical details that would have been difficult to spell out in the contract. More important, the McDermott-AmClyde contract authorized changes to “plans, designs, or specifications.”
+10
+These changes did not modify the contract; they were contemplated by the parties, and the parties specifically provided for them in the contract. Relatedly and significantly, AmClyde and McDermott abided by the integration clause in performing the contract, executing a modification by a signed writing on one occasion. Representatives of McDermott and Am-Clyde executed a formal contract Addendum changing the indemnity/Hold Harmless provisions. At the same time, the parties left the WARRANTY and INTEGRATION clauses untouched. If Mr. Ucci and Mr. Higgins intended to create a new warranty, they could have done so by complying with the contract’s integration clause.
+C.
+The jury found that AmClyde breached an implied warranty of the hook. AmClyde argues, however, and we agree that this finding has no legal consequence. The McDermott-AmClyde contract waived all implied warranties. N.Y.U.C.C.Law § 2-316(2) (McKinney 1991).
+11
+Moreover, McDermott admitted that the contract waived all implied warranties under Fed. R.Civ.P. 36(b). AmClyde asked McDermott to admit or deny “[tjhat the Contract for Supply of 5,000 Short Ton Shearleg Derrick between McDermott and Clyde Iron dated January 10, 1986, in Article XV(A), waived any implied warranty.” McDermott replied “Admitted.” The magistrate should have ignored the jury’s answer to this question.
+American Automobile Ass’n v. AAA Legal Clinic,
+930 F.2d 1117
+, 1120 (5th Cir.1991).
+IV.
+This brings us to McDermott’s tort claims against AmClyde. Article XV of the McDermott-AmClyde contract provides that: “Correction of nonconformities, in the manner provided above, shall constitute fulfillment of all liabilities of the Seller to the Buyer or any other person
+whether based upon Contract, tort, strict liability or otherwise.”
+(emphasis added). ’ Am-Clyde argues that this provision protects it
+*1076
+from liability to McDermott in tort. We agree.
+Contractual provisions waiving negligence and strict liability claims are enforceable under New York law.
+See Laudisio v. Amoco Oil Co.,
+108 Misc.2d 245
+,
+437 N.Y.S.2d 502
+, 504 (N.Y.Sup.Ct.1981) (negligence);
+Velez v. Craine & Clark Lumber Corp.,
+33 N.Y.2d 117
+,
+350 N.Y.S.2d 617
+, 623,
+305 N.E.2d 750
+, 756 (N.Y.1973) (strict liability). Contractual waivers of liability are subject to close judicial scrutiny and “it must appear plainly and precisely that the limitation extends to negligence or other fault of the party attempting to shed his ordinary responsibility.”
+Howard v. Handler Bros. & Winell,
+279 A.D. 72
+,
+107 N.Y.S.2d 749
+, 752 (1951),
+aff'd,
+303 N.Y. 990
+,
+106 N.E.2d 67
+(1952);
+Gross v. Sweet,
+49 N.Y.2d 102
+,
+424 N.Y.S.2d 365
+, 368,
+400 N.E.2d 306
+, 309 (1979). McDermott does not attack the exculpatory provision in the McDermott-Am-Clyde contract as being vague or ambiguous. The provision is precise. It specifically mentions “tort” and “strict liability,” terms familiar to sophisticated business entities such as these.
+See Gross,
+424 N.Y.S.2d at 368
+,
+400 N.E.2d at 309
+(noting that broadly worded clauses may be sufficient where sophisticated business entities are involved). Moreover, similar clauses are common in commercial markets.
+See e.g. Nicor Supply Ships Assocs. v. General Motors,
+876 F.2d 501
+, 504 (5th Cir.1989);
+Arkwright-Boston Mfrs. Mutual Ins. Co. v. Westinghouse Elec. Corp.,
+844 F.2d 1174
+, 1181 n. 15 (5th Cir.1988);
+American Electric,
+418 F.Supp. at
+452 n. 25.
+12
+We hold that McDermott has no claims against AmClyde, except for breach of the limited warranty in their contract. We reverse this portion of the judgment of the district court.
+13
+V.
+Turning to River Don, McDermott's contention that it should have been allowed to proceed against River Don for a breach of warranty is unclear. On one hand, McDer-mott states it “was
+not
+allowed to proceed in contract against River Don for any damages but was restricted to tort damages by River Don to the deck section alone,” and “[t]he court, inexplicably, would not allow any evidence of contract remedies that River Don would owe to McDermott, Inc., directly or as third party beneficiary, per Article XV.” On the other hand, McDer-mott says “the evidence adduced at trial demonstrated that River Don made express and implied warranties regarding the Hook which were communicated to McDermott with the expectation that these representations would be relied upon.” Regardless, McDermott has not preserved this issue for appeal.
+The magistrate judge did not rule on McDermott’s contract claim against River Don. The magistrate relied upon
+East River
+in ruling that McDermott could recover in tort for the damage to the deck but not to the crane. Without objection, the district judge submitted only McDermott’s warranty claims to the jury.
+VI.
+River Don argues that the exculpatory provision in the McDermott-AmClyde contract protects it as well as AmClyde from liability in tort. River Don relies on
+Aeronaves De Mexico, S.A. v. McDonnell Douglas,
+677 F.2d 771
+(9th Cir.1982). In that case, an airplane's landing gear failed. Aeromexico sued the manufacturer of the plane, McDonnell Douglas, and the subcontractor who manufactured the landing gear assembly, Menasco.
+Id.
+at 772
+. The contract between Aeromexico and McDonnell Douglas contained a warranty provision, similar to that in the McDermott-AmClyde contract, barring a negligence action against McDonnell Douglas.
+Id.
+at 773
+. Aeromexico did not contest the validity of
+*1077
+that provision but on appeal argued that the exculpatory provision did not bar its suit against Menasco, because Aeromexico and Menasco were not in privity. The court rejected this contention, concluding that recovery by Aeromexico from Menas-co would be a windfall. The court relied on the fact that if Aeromexico were allowed to sue Menasco directly, Menasco could file a third party claim against McDonnell Douglas.
+Id.
+In fact, the district court found that the contract between McDonnell Douglas and Menasco permitted such a claim.
+Id.
+at n. 4. The liability would be visited upon McDonnell Douglas, “thus nullifying the contractual allocation of risks” between McDonnell Douglas and Aeromexico.
+Id.
+at 773.
+We decline to apply the rationale of
+Aer-onaves de Mexico.
+We are mindful of the fact that we must apply New York law to interpret the McDermott-AmClyde contract. We are not persuaded that New York would here abandon the rule of privity. If River Don had a claim against Am-Clyde and thus could shift ultimate liability to AmClyde, this fact would not persuade us that McDermott is barred from recovering against River Don. If AmClyde wanted to prevent River Don from shifting liability, AmClyde could have sought this protection from River Don in their subcontract. AmClyde only warranted equipment of its own manufacture. The contract did not preclude McDermott from suing other manufacturers.
+14
+River Don’s tort liability turns then on the
+East River
+doctrine. In
+East River Steamship Corp. v. Transamerica Delaval, Inc.,
+476 U.S. 858
+, 871,
+106 S.Ct. 2295
+, 2302,
+90 L.Ed.2d 865
+(1986), the Supreme Court held that “a manufacturer in a commercial relationship has no duty under either a negligence or strict products liability theory to prevent a product from injuring itself.” The Court reasoned that when the only damage is economic loss to the product itself, the purchaser has simply lost the benefit of its contractual bargain and should be limited to its contractual warranty remedies.
+Id.
+at 872-876
+,
+106 S.Ct. at 2302-04
+.
+McDermott argues that
+East River
+does not shield River Don from tort liability, because River Don is not a party to the contract between McDermott and Am-Clyde. In
+Shipco 2295, Inc. v. Avondale Shipyards, Inc.,
+825 F.2d 925
+, 929 (5th Cir.1987), we held that under
+East River
+there is “no rational reason to give the buyer greater rights to recover economic losses for a defect in the product because the component is designed, constructed, or furnished by someone other than the final manufacturer.” Allowing such a recovery would “undermine the objective of
+East River
+that the parties receive the benefit of their bargain.”
+Id.; see also Nathaniel Shipping, Inc. v. General Elec. Co.,
+920 F.2d 1256
+, 1263-64,
+modified,
+932 F.2d 366
+(5th Cir.1991). Thus,
+East River
+applies to River Don.
+East River
+applies when the action is for damage to the product itself and not for damage to “other property.”
+Shipco,
+825 F.2d at 929
+. Therefore, the issue in this case is whether the deck is “other property” so as to escape
+East River’s,
+bar to recovery in tort. We ask “what is the object of the contract or bargain that governs the rights of the parties?”
+Id.
+at 928
+;
+see also Petroleum Helicopters, Inc. v. Avco Corp.,
+930 F.2d 389
+, 393 n. 9 (5th Cir.1991);
+Nicor Supply Ships Assocs. v. General Motors,
+876 F.2d 501
+, 505 (5th Cir.1989).
+River Don argues that the deck is not “other property,” because McDermott owns the deck as well as the crane, pointing to
+Nicor.
+Nicor Supply Ships chartered its vessel to Digicon. Digicon then installed structures and equipment on the vessel for use during the term of the charter. A fire damaged the ship and Digicon’s equipment. Nicor and Digicon sued several parties.
+876 F.2d at 502-03
+.
+East River
+*1078
+barred Nicor’s claim for damage to the ship. Digicon’s claim for damage to its equipment survived “[b]ecause these items were not part of the contract under which the vessel was sold.”
+Id.
+at 506
+. The decision did not turn on Digicon’s ownership of the damaged equipment. The object of the McDermott-AmClyde contract was the manufacture, design, and sale of the crane, and that is the relevant inquiry. The deck was not the object of the sales contract rather-the deck is “other property.”
+McDermott argues that River Don is liable for damage to the crane, because when a plaintiff suffers damage to “other property”,
+East River
+allows recovery of
+all
+damages.
+East River
+allows recovery for damage to other property,
+476 U.S. at 875-76
+,
+106 S.Ct. at 2304
+, but when there is damage to other property, recovery for the loss to the product itself is still in contract and not tort. We emphasized this point in
+Nicor.
+Speaking
+of
+Digicon’s recovery in tort, we stated
+[hjaving sustained “physical injury to a proprietary interest,” Digicon may recover for economic loss as well,
+but its recovery for loss of profits is limited to losses resulting from its inability to use the “other property’’ it placed on the vessel as a result of the casualty.
+Digi-con is not entitled to recover for its loss of profits resulting from its inability to use the vessel itself or for its inability to use the “other property” if that resulted solely from the disability of the vessel itself.
+876 F.2d at 506
+(emphasis added). Therefore, this contention is without merit.
+15
+The trial court correctly applied
+East River
+to allow McDermott’s recovery against River Don for damage to the deck, but not the crane.
+VII.
+River Don argues that McDermott failed to prove causation. We review the evidence in the light most favorable to McDermott.
+Martin v. American Petrofina, Inc.,
+779 F.2d 250
+(5th Cir.1985). The verdict stands if reasonable jurors could reach different conclusions.
+Id.
+We decline to disturb the verdict.
+At trial, McDermott and River Don offered different theories of causation. McDermott argued that the hook was defective, and the defect caused the hook to break. River Don conceded that the hook contained flaws but argued that McDer-mott’s use of a right hand to left hand cable laid' sling arrangement caused the hook to break. That is, McDermott’s sling arrangement allowed the slings to rotate during the lift. This rotation caused the slings to break first, putting more stress on the hook than it was designed to handle.
+McDermott offered the testimony of Dr. Kenneth Packer, an expert in foundry practice, welding, and metallurgy. Packer testified that the hook contained a flaw that caused the hook to fail; that the hook broke first. On cross-examination, Dr. Packer testified that the hook was flawed when it left River Don’s foundry.
+River Don argues that Dr. Packer failed to substantiate McDermott’s theory of causation and could not discount other plausible theories, namely that the slings broke first. River Don refers to the fact that the crane, with the flaw, lifted objects weighing as much or more than the deck before the accident and in fact successfully lifted the deck on one occasion. Therefore, River Don argues that the flaw could not have caused the hook to fail.
+We find that McDermott presented sufficient evidence for the jury to conclude that hook failure caused the deck to fall.
+See Brown v. Parker-Hannifin Corp.,
+919 F.2d 308
+, 312 (5th Cir.1990) (“To establish causation, [plaintiff] need not rule out every conceivable explanation for the failure ... ”). First, the jury could have reasonably inferred that the flaw in the hook caused it to break. The jury could have considered the presence of the flaw in earlier lifts in evaluating the likelihood that the
+*1079
+hook caused the accident, but the presence of the flaw from the beginning does not eliminate it as a cause of the accident. Second, Dr. Packer was not the only witness to testify that the hook failed first. Steven Whitcomb, a project manager at Hudson Engineering, prepared a report on the cause of the accident. The report was based on a computer analysis of the two theories of causation, hook failure and sling failure. He delivered this report in a presentation to AmClyde. At trial, he testified about his report to AmClyde in which he concluded that the hook failed first and was the cause of the accident. McDermott also presented eye witnesses to the accident who testified that the hook broke first.
+VIII.
+River Don contends that any judgment rendered against it must be offset by the $1 million settlement between McDermott and the sling defendants under
+Hernandez v. M/V RAJAAN,
+841 F.2d 582
+(5th Cir.1988).
+Hernandez
+held that a maritime plaintiff “is entitled to receive a full damage award less any amount he recovered in a settlement with third-party defendants.”
+Id.
+at 591
+;
+see also Constructores Tecnicos v. Sea-Land Serv., Inc.,
+945 F.2d 841
+(5th Cir.1991);
+Rollins v. Cenac Towing Co.,
+938 F.2d 599
+(5th Cir.1991);
+Myers v. Griffin-Alexander Drilling Co.,
+910 F.2d 1252
+(5th Cir.1990). This rule of set-off “ensure[s] that the plaintiff does not recover more than the damages determined at trial.”
+Constructores,
+945 F.2d at 850
+.
+McDermott argues that
+Leger v. Drilling Well Control, Inc.,
+592 F.2d 1246
+(5th Cir.1979), states the law of this circuit and does not entitle River Don to a dollar-for-dollar credit. A recent panel of this court suggested that it is unclear whether
+Leger
+or
+Hernandez
+provides the rule of settlement credit in this circuit.
+See Hardy v. Gulf Oil Corp.,
+949 F.2d 826
+, 835 (5th Cir.1992). Judge Brown wrote a concurring opinion to emphasize the need to resolve this conflict en banc.
+Id.
+at 836
+. However, we think that
+Hernandez
+is the law of this circuit. The panel in
+Myers
+attempted to make this point clear:.
+we read
+Hernandez
+as adopting the reasoning of the Eleventh Circuit opinion in
+Self v. Great Lakes Dredge & Dock Co.,
+832 F.2d 1540
+(11th Cir.1987), which declined to follow
+Leger
+on grounds that
+Leger
+was inconsistent with
+Edmonds v. Compagnie Generale Transatlantique,
+443 U.S. 256
+,
+99 S.Ct. 2753
+,
+61 L.Ed.2d 521
+(1979).
+Myers,
+910 F.2d at 1256
+.
+Until the Eleventh Circuit decided
+Self, Leger
+was binding precedent in that circuit as well as our own.
+See Bonner v. City of Prichard,
+661 F.2d 1206
+(11th Cir.1981) (en banc) (adopting as binding precedent all decisions of the former Fifth Circuit handed down before the close of business on September 30, 1981). In
+Self,
+the Eleventh Circuit decided that Leger’s pro rata approach to settlement credit was inconsistent with the Supreme Court’s opinion in
+Edmonds.
+Thus, in
+Self,
+the Eleventh Circuit returned to the pro tanto or dollar-for-dollar' approach to credit set out in our earlier opinion in
+Billiot v. Seward Seacraft,
+382 F.2d 662
+, 664-65 (5th Cir.1967). We had abandoned
+Billiot
+in
+Leger
+based on
+United States v. Reliable Transfer Co.,
+421 U.S. 397
+,
+95 S.Ct. 1708
+,
+44 L.Ed.2d 251
+(1975). Today, there is no doubt in the Eleventh Circuit that
+Self
+overruled
+Leger. Great Lakes Dredge & Dock Co. v. Tanker,
+957 F.2d 1575
+, 1580 (1992).
+In
+Hernandez,
+we explicitly adopted the Eleventh Circuit’s reasoning in
+Self.
+Therefore, we also overruled
+Leger
+as precedent in this circuit and returned to the rule in
+Billiot. See, e.g., Pruitt v. Levi Strauss & Co.,
+932 F.2d 458
+, 465 (5th Cir.1991) (a panel may ignore the decision of a prior panel in the event of a superceding decision by the Supreme Court). Since
+Hernandez,
+we have applied its dollar-for-dollar approach.
+See Constructores,
+945 F.2d 841
+;
+Rollins,
+938 F.2d 599
+;
+Myers,
+910 F.2d 1252
+. Two recent panels cited
+Leger,
+suggesting that it remains good law.
+See Empresa Lineas Maritimas v. Schichau-Unterweser,
+955 F.2d 368
+, 374 (5th Cir.1992);
+Teal v. Eagle Fleet, Inc.,
+*1080
+933 F.2d 341
+, 346 (5th Cir.1991). However, they did not apply the
+Leger
+approach. We continue to apply
+Hernandez
+in calculating settlement credit.
+The district , court refused to allow any set-off, concluding that McDermott would not be paid for more than its injury, because
+East River
+left it otherwise uncompensated for the damage to the crane. This is true, but not relevant. The jury determined that McDermott’s total loss for the damage to the deck was $2.1 million, $1.47 million after a reduction of 30% for the responsibility attributed to McDer-mott/sling defendants. $1.47 million is McDermott’s “full damage award.” It cannot recover more. We must then deduct the
+Hernandez
+credit.
+This requires us to address McDermott’s post-trial revelation that half of the settlement was allocated to the crane and half to the deck. McDermott urges that because River Don is only liable for the deck, it is only entitled to credit for that part of the settlement covering damage to the deck. River Don urges us not to consider this allocation, because it was made after trial, it was not a party to the agreement and the settlement is not in the record.
+We see little reason to give effect to this allocation and strong reasons not to do so. Where defendants are potentially liable for the same damages and less than all defendants settle, uncertainty of the effect upon the nonsettling defendants does little to facilitate settlement and may well .frustrate the single recovery rule itself. A plaintiff should not be able to wait for the jury’s verdict to allocate the settlement in a way that reduces the remaining ' defendants’ credit.
+See King Cotton, Ltd. v. Powers,
+200 Ga.App. 549
+,
+409 S.E.2d 67
+, 70 (1991);
+see also Alexander v. Seaquest Inc.,
+575 So.2d 765
+, 766 (Fla.Dist.Ct.App.1991) (apportionment of settlement comes too late if done after jury-verdict, because nonsettling tortfeasors lose the right to settle);
+Dionese v. City of West Palm Beach,
+500 So.2d 1347
+, 1351 (Fla.1987) (disclosure of settlement’s terms may lead the non-settling defendant to settle instead of going to trial).
+Rejecting McDermott’s allocation of one-half to the crane and one-half to the deck leaves two options. We could apportion the settlement ourselves, or use the entire sum in calculating any credit due River Don. We decline the first option.
+See Lendvest Mortgage, Inc. v. De Armond,
+123 B.R. 623
+, 624-25 (Bankr.N.D.Cal.1991) (rather than attempt to allocate a settlement, a court should offset the entire amount). There is no evidence in the record concerning McDermott’s damages to the crane. A remand to the trial court offers no solution.
+Including the full amount of McDer-mott’s settlement in calculating any credit due River Don is the best solution.
+See U.S. Indus., Inc. v. Touche Ross & Co.,
+854 F.2d 1223
+, 1262 (10th Cir.1988) (where non-settling defendants are not privy to settlement negotiations, burden shifts to plaintiff to show that settlement did not represent common damages);
+see also Hess Oil Virgin Islands Corp. v. UOP, Inc.,
+861 F.2d 1197
+(10th Cir.1988) (“If [plaintiff] wanted to have any particular application of its settlement with the settling defendants toward [nonsettling defendant’s] liability, it should have specifically stipulated in the settlement documents what allocations of damages were applicable to each cause of action.”);
+but see Force v. Director, OWCP, Dept. of Labor,
+938 F.2d 981
+, 985 (9th Cir.1991) (defendant-employer bears burden of proving settlement allocation, because the LHWCA’s policy “of compensating employees for their injuries requires that ‘all doubtful questions of fact be resolved in favor of the injured employee’ ”).
+McDermott had a claim against the sling defendants for damage to the crane and the $1 million payment obtained a release of that claim as well as the claim for damage to the deck. It was McDermott’s burden to demonstrate that its jury award did not exceed its right to full compensation for a particular injury. McDermott has not met its burden of demonstrating that the proceeds of the settlement , with the sling defendants were for damage to the crane and not the deck. We hold that the entire $1 million should be included in calculating
+*1081
+any credit due River Don.
+See U.S. Industries,
+854 F.2d at 1262-63
+;
+Hess Oil,
+861 F.2d at 1209
+;
+Lendvest Mortgage,
+123 B.R. at 625
+;
+Alexander,
+575 So.2d at 765
+;
+King Cotton,
+409 S.E.2d at 70
+;
+Dionese,
+500 So.2d at 1349
+.
+16
+Applying
+Hernandez,
+McDermott’s full damage award is $1.47 million ($2.1 million jury verdict less 30% attributed to McDer-mott/sling defendants). We then deduct the $1 million received in settlement to reach $470,000. By the jury’s finding, River Don is liable to McDermott for its portion of McDermott’s loss (38% of $2.1 million or $798,000). However, McDermott is only entitled to recover an additional $470,-000 from any defendant. We therefore modify the judgment against River Don for $798,000, and enter judgment against River Don and in favor of McDermott in the amount of $470,000.
+It does not follow that McDermott’s decision at trial to' assume the fault of the sling defendants was unwise. To the contrary, this tactical move made more difficult any effort of River Don and AmClyde to lay any fault on the absent sling defendants. But for this move the jury may well have been persuaded that the sling defendants were liable for more than 30% and the other defendants, including River Don for less. Seen in the light of these realities of trial, this result makes sense.
+IX.
+McDermott claims pre-judgment interest. The jury awarded no interest. McDermott does not challenge the jury instruction,
+17
+which tracked the law of this circuit.
+18
+See Orduna S.A. v. Zen-Noh Grain Corp.,
+913 F.2d 1149
+, 1157 (5th Cir.1990) (noting the reasons for denying pre-judgment interest). Rather, McDer-mott argues that the circumstances justifying denial of pre-judgment interest were hot present in this case. We disagree.
+The jury could have found there was a genuine dispute over a good faith claim in a mutual fault setting. “Our cases have consistently upheld denials of prejudgment interest in cases of apportioned fault.”
+Inland Oil and Transport Co. v. Ark-White Towing Co.,
+696 F.2d 321
+, 328 (5th Cir.1983). In this case, the jury assessed responsibility 32% to AmClyde, 38% to River Don, and 30% to McDermott/sling defendants.
+See
+id.
+(upholding a denial of prejudgment interest where the plaintiff was found to be 25% at fault).
+X.
+Finally, McDermott asks us to correct the judgment to show that the jury apportioned causation and not fault. The judgment paraphrased the jury verdict as follows: “thirty percent (30%)
+fault
+allocated to plaintiff, McDermott, Inc., thirty-two percent (32%)
+fault
+allocated to AmClyde, a Unit of AMCA International Corporation, and thirty-eight percent (38%)
+fault
+allocated to River Don Castings, Ltd.” (emphasis
+*1082
+added). McDermott contends that the judgment incorrectly paraphrased the jury’s verdict which allocated
+causation
+and not fault. Interrogatory #5 asked:
+You have been instructed that the failure of the sling at a load less than its rated minimum breaking strength is a cause of damage to the deck and crane. If you have also answered interrogatories 1 and 2 “yes,” please state what proportion or percentage of plaintiffs damages you find’ from a preponderance of the evidence to have been legally
+caused by the fault
+of the respective parties?
+We agree that in answering this interrogatory the jury determined the percentage of injury caused by each defendant.
+REVERSED in part and AFFIRMED as modified in part.
+1
+. The jury also found in favor of McDermott on AmClyde’s counterclaim. AmClyde does not appeal this determination.
+2
+. ARTICLE XV—WARRANTY
+A. The Seller warrants equipment of its own manufacture to be free from defects in materials and workmanship under normal use and service for a period of six (6) months after first use and not to exceed twelve (12) months after shipment or notification of readiness for shipment. This warranty extends only to the Buyer, and in no event shall the Seller be liable for property damage sustained by a person designated by the law of any jurisdiction as a third party beneficiary of this warranty or any other warranty held to survive the Seller's disclaimer. This warranty does not extend to normal wear and tear or to the equipment, materials, parts and accessories manufactured by others, and THE BUYER AGREES THAT IT MUST RELY SOLELY ON THE MANUFACTURER’S WARRANTIES APPLICABLE, AND THAT IT SHALL HAVE NO REMEDY AGAINST THE SELLER FOR BREACH OF A MANUFACTURER’S WARRANTY. This warranty shall be NULL AND VOID if any repairs, modifications or alterations are made to the equipment supplied hereunder during the warranty period by the Buyer or by others on his behalf without the prior written consent of the SELLER. THE WARRANTY DESCRIBED IN THIS PARAGRAPH SHALL BE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+B. Upon written notification received by the , Seller within the above stated warranty period of any failure to conform to the above warranty, upon return prepaid to the Seller of any nonconforming original part of component and upon inspection by the Seller to ■verify said nonconformity, the Seller shall repair or replace said original part or component without charge to the Buyer. The Seller shall ship the repaired or replaced part or component to the Buyer at the Buyer’s expense. Correction of nonconformities, in the manner provided above, shall constitute fulfillment of all liabilities of the Seller to the Buyer or any other person whether based upon Contract, tort, strict liability or otherwise.
+C.The remedies set forth herein are exclusive, without regard to whether any defect was discoverable or latent at the time of delivery of the apparatus to the Buyer. The essential purpose of this exclusive remedy shall be to provide the buyer with repair or replacement of parts or components that prove to be defective within the period and under the conditions previously set forth. This exclusive remedy shall not have failed of its essential purpose (as that term is used in the Uniform Commercial Code) provided the Seller remains willing to repair or replace defective part to components within a commercially reasonable time after it obtains actual knowledge of the existence of a particular defect.
+3
+. N.Y.U.C.C. § 2-719(1) provides:
+Subject to the provisions of subsections (2) and (3) of this section and of the preceding section on liquidation and limitation of damages,
+(a) the agreement may provide for remedies in addition to or in substitution for those provided in this Article and may limit or alter the measure of damages recoverable under this Article, as by limiting the buyer’s reme
+*1073
+dies to return of the goods and repayment of the price or to repair and replacement pf nonconforming goods or parts; and
+(b) resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.
+4
+. N.Y.U.C.C. § 2-719(2) provides:
+Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this Act.
+5
+. McDermott further argues that the replacement warranty applies only to AmClyde's manufacturing of the crane, not to its design and sale. We find no merit to this contention.
+See e.g., American Elec. Power Co. v. Westinghouse Corp.,
+418 F.Supp. 435
+(S.D.N.Y.1976) (court recognized the validity of a similar , limitation of warranty/exclusive remedy provision where defendant’s responsibility encompassed manufacturing, construction, and design);
+Shipco 2295, Inc. v. Avondale Shipyards, Inc.,
+631 F.Supp. 1123
+(E.D.La.1986),
+aff'd,
+825 F.2d 925
+(5th Cir.1987),
+cert. denied,
+485 U.S. 1007
+,
+108 S.Ct. 1472
+,
+99 L.Ed.2d 701
+(1988) (Avondale’s limited warranty/exclusive remedy provision was enforced notwithstanding Avondale’s involvement in manufacturing, construction, and design).
+6
+.ARTICLE I — SCOPE OF WORK
+A. Provide one 5000 short ton shearleg derrick package for barge mounting in accordance with specification no. 8506-12D/B REV 2 entitled
+"Specifications for 5000 short ton shear-leg derrick"
+dated December 12, 1985 (EX
+*1074
+HIBIT A) and as described in your Proposal dated December 9, 1985,
+all of which are incorporated by this reference.
+(emphasis added).
+7
+.ARTICLE XXI—INTEGRATION
+This document constitutes the entire Agreement between the parties. There are no understandings as to the subject matter of this Agreement other than as herein set forth. All previous communications concerning the subject matter of this Agreement are hereby abrogated and withdrawn. This Agreement may not be modified except by a writing signed by both parties, and any printed terms and conditions submitted by either party during the course of this Agreement shall be of no force or effect, unless expressly agreed to the contrary in writing by both parties.
+8
+. N.Y.U.C.C. § 2-209(2) provides:
+A signed agreement which excludes modification or rescission except by a signed writing cannot be otherwise modified or rescinded, but except as between merchants such a requirement on a form supplied by the merchant must be separately signed by the other party.
+9
+. N.Y.U.C.C. § 2-209(4) provides:
+Although an attempt at modification or recision does not satisfy the requirements of subsection (2) or (3) it can operate as a waiver.
+10
+. ARTICLE V — CHANGES
+A. Buyer may, at any time by a written order, make changes within the general scope of this Contract in any one or more of the plans, designs, or specifications. If any such change causes an increase or decrease in the cost of or the time required for the performance of any part of this Contract, the Seller must advise Buyer Representative immediately and confirm to Buyer in writing within-5 working days. Nothing in this section shall excuse Seller from proceeding with the Contract as changed.
+11
+. N.Y.U.C.C. § 2-316(2) provides:
+Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that "There are no warranties which extend beyond the description on the face hereof.”
+12
+. The exculpatory provision’s preclusion of liability in tort bars McDermott's misrepresentation claim as well. Therefore, the jury's finding of a misrepresentation defect was of no legal significance.
+13
+. Because we reverse the judgment against Am-Clyde, we need not address AmClyde’s other assignments of error.
+14
+. Article XV provides in part: THE BUYER AGREES THAT IT MUST RELY SOLELY ON THE MANUFACTURER’S WARRANTIES APPLICABLE, AND THAT IT SHALL HAVE NO REMEDY AGAINST THE SELLER FOR BREACH OF A MANUFACTURER’S WARRANTY.
+15
+. McDermott also attempts to circumvent
+East River
+by arguing that the decision is inapplicable to the crane, a product that is unreasonably dangerous. The Supreme Court rejected this distinction
+East River.
+476 U.S. at 869-70
+,
+106 S.Ct. at 2301
+.
+16
+. Our conclusion that River Don is entitled to credit for McDermott’s settlement makes consideration of River Don’s alternative argument for a new trial based on evidentiary rulings unnecessary.
+17
+. The jury was charged as follows:
+In admiralty cases, the award of pre-judgment interest from the date of the loss is the rule rather than the exception. The decision to deny pre-judgment interest must be based on the existence of peculiar circumstances because pre-judgment interest is awarded as a compensation for a wrong done. It is your responsibility to determine whether to award McDermott, Inc. pre-judgment interest. ' If you determine that the — that the Plaintiff is entitled to pre-judgment interest; that is, interest from the date of the loss until the date you render your verdict, you must determine the rate at which the interest will be calculated. The circumstances which may justify denial of an award for pre-judgment interest are as follows: A genuine dispute over, a good faith claim exists in a mutual fault situation— mutual fault setting; the damages awarded are substantially less than the amount claimed by the Plaintiff; the Plaintiffs contributory negligence is to such a magnitude as to make and award of pre-judgment interest inequitable.
+18
+.McDermott refers us to Texas, New York, and Louisiana law; however, pre-judgment interest on a maritime tort claim is governed by general maritime law.
+Wyatt v. Penrod Drilling Co.,
+735 F.2d 951
+, 955 (5th Cir.1984);
+Robinson v. Pocahontas, Inc.,
+477 F.2d 1048
+, 1053 (1st Cir.1973).

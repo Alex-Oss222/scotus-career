@@ -1,0 +1,450 @@
+https://static.case.law/f2d/982/html/0386-01.html
+Walter Thomas BROWN, on behalf of themselves and all others similarly situated; Jeffrey L. Dziewit, on behalf of themselves and all others similarly situated, Plaintiffs-Appellants, v. TICOR TITLE INSURANCE COMPANY, a California corporation; Chicago Title Insurance Company, a Missouri corporation; Security Union Title Insurance Co., as successor in interest to Safeco Title Insurance Company, a California corporation; First American Title Insurance Company, a corporation; Lawyers Title Insurance Corporation, a Virginia corporation; Stewart Title Guaranty Company, a Texas corporation, Defendants-Appellees.
+No. 91-15474.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted April 16, 1992.
+Decided Dec. 28, 1992.
+*387
+Gerald D.W. North and Peter C. Warner, North & Vaira, Phoenix, AZ, for plaintiffs-appellants.
+Paul J. Laveroni, Cooley, Godward, Castro, Huddleston & Tatum, San Francisco, CA, John C. Christie, Jr., Bell, Boyd & Lloyd, Washington, DC, for defendants-appellees.
+T.G. NELSON, Circuit Judge:
+Appellants Brown and Dziewit (hereinafter “Brown”) are representatives of the Arizona and Wisconsin classes of consumers of title insurance. After the approval of a settlement agreement in a class action in Pennsylvania involving the same parties, Brown filed the present action in the district court of Arizona alleging a conspiracy to fix price levels for title search and examination services. Brown sought relief from the district court in the form of (1) treble damages, (2) costs and attorney fees, and (3) judgment restraining and enjoining the appellees from engaging in unlawful conduct. The appellees, title insurance companies (hereinafter “Ticor”), filed a motion for summary judgment, based on
+res judicata,
+which the district court granted. We affirm the district court in part in holding that
+res judicata
+bars injunctive relief, and reverse and remand on all other issues.
+*388
+RELATED CASES
+In 1985, following enforcement proceedings initiated by the Federal Trade Commission (“FTC”), twelve separate class action lawsuits were filed in five federal district courts in four states. The complaints alleged price fixing by various title insurance companies, encompassing the defendants in the present case, in thirteen affected states, including Arizona and Wisconsin. The class actions were consolidated as MDL 633 in the Eastern District of Pennsylvania by the Judicial Panel on Multidistrict Litigation pursuant to
+28 U.S.C. § 1407
+.
+In re Real Estate Title and Settlement Servs. Antitrust Litig.,
+1986-1 Trade Cas.
+(CCS)
+1167, 149 (E.D.Pa.1986),
+aff'd without opinion,
+815 F.2d 695
+(3d Cir.1987),
+cert. denied,
+485 U.S. 909
+,
+108 S.Ct. 1085
+,
+99 L.Ed.2d 243
+(1988). The complaints alleged that Ticor had violated the antitrust laws by participating in state-licensed rating bureaus which filed collective rates for real estate title search and examination services with state insurance regulatory bodies.
+The district court in MDL 633 found that under
+Southern Motor Carriers Rate Conference, Inc. v. United States,
+471 U.S. 48
+,
+105 S.Ct. 1721
+,
+85 L.Ed.2d 36
+(1985), Ticor could establish at least the first part of the two-part test for a state action immunity defense.
+See In re Real Estate,
+1986-1 Trade Cas. (CCH) ¶ 67,149
+, at 62,92s.
+1
+Before the court could decide the second part of the test, however, the parties reached a settlement in which the monetary claims against Ticor were dropped. The settlement was accepted by the MDL 633 court in its written decision dated June 10, 1986.
+Id.
+at 62,937
+.
+The Arizona attorney general then filed a new complaint in Arizona state court on behalf of state school districts seeking damages from the same defendants under state law. The MDL 633 court granted an injunction against the state court suit. The injunction was vacated by the Third Circuit, which held that the MDL 633 settlement could be collaterally attacked.
+In re Real Estate and Settlement Servs. Antitrust Litig.,
+869 F.2d 760
+, 769 (3d Cir.),
+cert. denied,
+493 U.S. 821
+,
+110 S.Ct. 77
+,
+107 L.Ed.2d 44
+(1989). The court held that if a class member had “not been given the opportunity to opt out in a class action involving both important injunctive relief and damage claims,” then the class member must have either “minimum contacts with the forum or consent to jurisdiction in order to be enjoined by the district court that entertained the class action.”
+Id.
+The court found that the class members in the MDL 633 case were not afforded the opportunity to opt out and did not have minimum contacts or consent to jurisdiction. The Arizona state court action was therefore allowed to proceed in part to decide if the plaintiffs were afforded due process in the MDL 633 action.
+The Arizona state court dismissed the complaint. The Arizona Court of Appeals affirmed the dismissal, holding that Arizona’s title insurance statutes authorized the “insurers to cooperate in rate-making in the issuance of title insurance policies,” and therefore the activity was not within the purview of the Arizona antitrust laws.
+Tucson Unified Sch. Dist. v. Chicago Title Ins. Co.,
+167 Ariz. 114
+,
+804 P.2d 843
+, 845 (App.1991).
+In 1986, an Administrative Law Judge entered an initial decision in the FTC’s enforcement action against various title insurance companies, including the defendants in this action, for price fixing in real estate title and search services.
+In re Ticor Title Ins. Co.,
+Docket No. 9190, FTC Initial Decision of Administrative Law Judge (December 22, 1986). In its final order, the FTC found that the defendants’ activities in Wisconsin and Arizona were
+*389
+not beyond the federal antitrust laws and that the state action immunity defense did not apply to defendants’ activities in Wisconsin and Arizona because there was no active supervision by these states.
+In re Ticor Title Ins. Co.,
+Docket No. 9190, PTC Final Order (September 19, 1989).
+The defendants petitioned the Third Circuit for review of the final order of the FTC in 1991.
+Ticor Title Ins. Co. v. Federal Trade Comm’n,
+922 F.2d 1122
+(3d Cir.1991). The Third Circuit held that the defendants’ “collective rate setting for title search and examination services in these six states [including Arizona and Wisconsin] [was] immune from federal antitrust liability under the state action doctrine,” thereby rejecting the FTC’s findings which rejected the state action immunity defense as to Arizona and Wisconsin.
+922 F.2d at 1125-26
+. The court held that the state action immunity defense did not depend upon the quality of supervision, so long as “the state clearly articulates and actively supervises the [anticompetitive] policy.”
+Id.
+at 1140
+. The Third Circuit therefore vacated the FTC’s final order.
+Id.
+The FTC appealed the decision to the United States Supreme Court which reversed and remanded the Third Circuit’s decision.
+Federal Trade Comm’n v. Ticor Title Ins. Co.,
+504 U.S.-,-,
+112 S.Ct. 2169
+,
+119 L.Ed.2d 410
+(1992).
+The Supreme Court held that the “mere potential for state supervision [was] not an adequate substitute for a decision by the State,” and therefore concluded that the Wisconsin statute did not provide immunity from antitrust liability.
+Id.
+at -,
+112 S.Ct. at 2179
+,
+119 L.Ed.2d at 425
+. The Supreme Court remanded the ease for further proceedings as to the quality of state supervision under the regulatory scheme in Arizona.
+FACTS AND PROCEDURAL HISTORY
+In 1985, the MDL 633 class action claims were filed in Pennsylvania. In January, 1986, a settlement was reached and presented to the MDL 633 court. The settlement dropped the monetary claims against Ticor and provided for (1) an injunction against Ticor’s participation in rating bureaus for a specified time period in five states, including Arizona and Wisconsin, (2) an increased dollar amount of each title insurance policy issued to class members in all thirteen states during the class period, (3) additional coverage for new title insurance policies purchased by class members, and (4) payment of the costs of lawsuit and attorneys’ fees as approved by the MDL 633 court.
+The MDL 633 court certified the class under Federal Rules of Civil Procedure 23(b)(1) and (b)(2)
+2
+and accepted the settlement. In doing so, the court considered and rejected objections to the settlement, including an attempt by the Arizona attorney general to opt out of the class. The court deemed these objections and requests to have been made on behalf of the states represented by the various attorneys general, and not on behalf of individual class members.
+See In re Real Estate,
+1986-1 Trade Cas. (CCH) 11
+67,149, at 62,926 n. 5.
+Brown filed the present action in the Arizona district court on behalf of Arizona and Wisconsin title insurance consumers alleging a combination and conspiracy by Ticor to fix, maintain and stabilize rates in
+*390
+Arizona and Wisconsin for title search and examination services in violation of the federal antitrust laws, codified at
+15 U.S.C. § 1
+,
+et seq.
+(the Sherman Act). Ticor moved for summary judgment dismissing the action based on
+res judicata,
+claiming that Brown, as a party to the MDL 633 settlement, was bound by the settlement. Relying on
+res judicata
+as well as state action immunity, the district court granted Ticor’s summary judgment motion. The district court had jurisdiction pursuant to
+28 U.S.C. §§ 1332
+and 1337, and we have jurisdiction of Brown’s timely appeal pursuant to
+28 U.S.C. § 1291
+.
+STANDARD OF REVIEW
+This court reviews a grant of summary judgment under a
+de novo
+standard.
+In re Bullion Reserve of N. Am.,
+922 F.2d 544
+, 546 (9th Cir.1991). If, viewing the record in the light most favorable to the nonmoving party, there are no genuine issues of fact and the moving party is entitled to judgment as a matter of law, the judgment will be affirmed.
+Norfolk Energy, Inc. v. Hodel,
+898 F.2d 1435
+, 1439 (9th Cir.1990).
+I.
+RES JUDICATA
+Ticor contends that Brown was a member of the MDL 633 settlement class and was thus barred from relitigating the case in Arizona by
+res judicata.
+A lawsuit involving the same parties and based upon the same cause of action as asserted in a previous case is barred under the doctrine of
+res judicata. Parklane Hosiery Co., Inc. v. Shore,
+439 U.S. 322
+, 326 n. 5,
+99 S.Ct. 645
+, 327 n. 5,
+58 L.Ed.2d 552
+(1979). However, if the plaintiff was not adequately represented in the prior action or there was a denial of due process, then the prior decision has no preclusive effect.
+Hansberry v. Lee,
+311 U.S. 32
+,
+61 S.Ct. 115
+,
+85 L.Ed. 22
+(1940).
+Admittedly, Brown was a member of the plaintiff class in the prior MDL 633 litigation and the same cause of action is involved. Thus, the issue is whether Brown falls within one of the two exceptions to the
+res judicata
+doctrine.
+A. INADEQUATE REPRESENTATION
+Brown contends that he was not adequately represented in the MDL 633 litigation, thereby rendering
+res judicata
+inapplicable to the present lawsuit, and that the district court therefore improperly granted Ticor’s motion for summary judgment. To support his argument, Brown cites
+Gonzales v. Cassidy,
+474 F.2d 67
+(5th Cir.1973). Brown contends that the
+Gonzales
+class representative was found to have inadequately represented all class members when the representative failed to take an appeal that “could not be characterized as patently meritless or frivolous.”
+Id.
+at 76
+. The failure to prosecute an appeal deprived the class members, whose rights were not vindicated by the district court’s decision, of full participation in the process.
+Id.
+We hold that
+Gonzales
+is not applicable to the present situation. In
+Gonzales,
+the class members collaterally attacked the settlement, demonstrating that the class representative secured a better monetary deal for himself than the rest of the class, and it was because of this that he failed to pursue an appeal on behalf of the class.
+Id.
+at 74-76
+. In the MDL 633 litigation, the settlement was similar for each class member.
+Adequate representation as required by Federal Rules of Civil Procedure Rule 23(a)(4) “depends on the qualifications of counsel for the representatives, an absence of antagonism, a sharing of interests between representatives and absentees, and the unlikelihood that the suit is collusive.”
+In re N. Dist. of Cal. Daikon Shield IUD Prods. Liab. Litig.,
+693 F.2d 847
+, 855 (9th Cir.1982),
+cert. denied,
+459 U.S. 1171
+,
+103 S.Ct. 817
+,
+74 L.Ed.2d 1015
+(1983). On collateral attack of a judgment, however, we will not second-guess a prior decision that counsel adequately represented a class. Instead, to avoid the binding effect of a prior class action based on class counsel’s error, a party must show not only that the prior representative “ ‘failed to prosecute or defend the action with due diligence and reasonable prudence,’ ” but
+*391
+also that “ ‘the opposing party was on notice of facts making that failure apparent.’ ”
+Class Plaintiffs v. City of Seattle,
+955 F.2d 1268
+, 1278 (9th Cir.) (quoting
+Restatement (Second) of Judgments
+§ 42(1)(2) (1982)),
+cert. denied,
+— U.S. —,
+113 S.Ct. 408
+,
+121 L.Ed.2d 333
+(1992). Brown fails to present facts which indicate a lack of adequate representation.
+1.
+A RIZONA
+In arguing specifically for the Arizona class, Brown contends that counsel’s failure to assert a 1981 Arizona case,
+United States v. Title Ins. Rating Bureau, Inc.,
+517 F.Supp. 1053
+(D.Ariz.1981),
+aff'd,
+700 F.2d 1247
+(9th Cir.1983),
+cert. denied,
+467 U.S. 1240
+,
+104 S.Ct. 3509
+,
+82 L.Ed.2d 819
+(1984)
+(‘TIRBA
+”), to the district court in the MDL 633 litigation established the inadequacy of representation of the Arizona class. The district court in
+TIRBA
+had held that the state action immunity defense was unavailable to Ticor because the Arizona legislature intended to promote competition, not to replace competition with regulation.
+3
+Id.
+at 1059.
+We hold that the failure of class counsel to specifically assert
+TIRBA
+was harmless error. The MDL 633 court referred to the case in its memorandum decision.
+In re Real Estate,
+1986-1 Trade Cas. (CCH) ¶ 67,149
+, at 62,933. The case was known to the court, and the Arizona class was therefore not harmed by class counsel’s failure to directly bring the case to the court’s attention.
+Brown also argues that, because MDL 633 class counsel misinterpreted
+Southern Motor Carriers
+as providing Ticor with the first half of a state action immunity defense for activities in Arizona, the Arizona class should not be bound by the MDL 633 decision. We disagree. The import of
+Southern Motor Carriers
+was fully considered in the MDL 633 lawsuit.
+See In re Real Estate,
+1986-1 Trade Cas. (CCH) ¶ 67,149
+, at 62,922-23. The Pennsylvania district court made clear its steadfast belief that Arizona and the other affected states permitted Tieor’s allegedly anticompetitive activities.
+Id.
+at 62,923
+. The court therefore indicated that under
+Southern Motor Carriers
+Ticor could establish the first half of a state action defense.
+See
+id.
+at 62,922-23
+.
+Even if class counsel might have challenged this ruling, it was an equally acceptable tactic to forego such a challenge and, instead, to attack the second half of Ticor’s state action defense. This is especially true in view of the strength with which the MDL 633 court apparently held its view of
+Southern Motor Carriers.
+In pursuing this alternate course, class counsel undertook extensive discovery to determine whether Arizona and the other states actively supervised the allegedly anticompetitive activity.
+See
+id.
+at 62,923
+. Under the circumstances, we conclude that MDL 633 class counsel was not derelict in its duties owed to the class. Brown’s argument here therefore fails to free the Arizona class from the binding effect of the MDL 633 judgment.
+2.
+WISCONSIN
+Brown asserts that the MDL 633 class counsel’s failure to raise the “clear legislative intent of the Wisconsin statutory scheme” constituted inadequate representation of the Wisconsin class, and therefore
+res judicata
+should not preclude the lawsuit by the Wisconsin class. Brown contends that the Wisconsin statute “was clearly designed to promote competition,” and this “design” should have been asserted by the MDL 633 class counsel. The failure to do so, according to Brown, amounted to inadequate representation of the Wisconsin class.
+We hold there was no inadequate representation of the Wisconsin class. The Wisconsin statute stated that its purpose was to regulate the business of insurance in a manner that would preclude the application of federal antitrust laws. Wis.Stat. § 625.-01(2)(f). This indicates an intent to replace competition with regulation and the failure to assert a legislative intent to the contrary was not inadequate representation.
+*392
+B. DUE PROCESS VIOLATION
+Brown also argues that minimal procedural due process must be provided in a class action lawsuit in order “to bind known plaintiffs concerning claims wholly or predominately” for monetary damages.
+See Phillips Petroleum Co. v. Shutts,
+472 U.S. 797
+, 811 n. 3,
+105 S.Ct. 2965
+, 2974 n. 3,
+86 L.Ed.2d 628
+(1985). Brown asserts that certifying the MDL 633 class pursuant to Federal Rules of Civil Procedure 23(b)(1) and (b)(2), which do not provide for the right to opt out, would be a violation of minimum due process if the class judgment precluded future recovery of damages, and therefore
+res judicata
+is not applicable to his case.
+In order to bind an absent plaintiff concerning a claim for monetary damages, the court must provide minimal due process.
+Id.
+at 811-12
+, 105 S.Ct. at 2974.
+Shutts
+is limited to claims “wholly or predominately for money judgments.”
+Id.
+at 811 n. 3,
+105 S.Ct. at
+2974 n. 3. The Third Circuit held that the MDL 633 litigation was a “hybrid suit that involved the
+foreclosure of substantial damage claims. ” In re Real Estate,
+869 F.2d at 768
+(emphasis added). We follow the Third Circuit’s holding.
+According to
+Shutts,
+minimal due process requires that "an absent plaintiff be provided with an opportunity to remove himself from the class by executing and returning an ‘opt out’ or ‘request for exclusion’ form to the court,” if monetary claims are involved.
+472 U.S. at 812
+, 105 S.Ct. at 2974. Because Brown had no opportunity to opt out of the MDL 633 litigation, we hold there would be a violation of minimal due process if Brown’s damage claims were held barred by
+res judicata.
+Brown will be bound by the injunctive relief provided by the settlement in MDL 633, and foreclosed from seeking other or further injunctive relief in this case, but
+res judicata
+will not bar Brown’s claims for monetary damages against Ticor.
+II.
+STATE ACTION IMMUNITY DEFENSE
+The United States Supreme Court in
+Mid-cal
+established two requirements for antitrust immunity under
+Parker v. Brown,
+317 U.S. 341
+,
+63 S.Ct. 307
+,
+87 L.Ed. 315
+(1943): (1) the challenged restraint must be “one clearly articulated and affirmatively expressed as state policy;” and (2) the policy must be “actively supervised” by the state.
+California Retail Liquor Dealers Ass’n v. Midcal Aluminum,
+445 U.S. 97
+, 105,
+100 S.Ct. 937
+, 943,
+63 L.Ed.2d 233
+(1980).
+Southern Motor Carriers
+extended the state action doctrine to situations where collective rate making conduct was permitted but not compelled by state law.
+Southern Motor Carriers,
+471 U.S. at 61
+, 105 S.Ct. at 1729.
+In
+Traweek v. City and County of San Francisco,
+920 F.2d 589
+(9th Cir.1990), we stated a two part test to determine the existence of a “clearly articulated” state policy under the first prong of
+Midcal.
+The court must determine (1) whether the legislature authorized the challenged actions and, if so, (2) whether the legislature intended to displace competition with regulation.
+Traweek,
+920 F.2d at 591-92
+. Although the Third Circuit has not addressed the issue of whether Wisconsin or Arizona passed the first prong of the
+Midcal
+test,
+see Ticor,
+922 F.2d at 1135, we do so here because of the additional two part test set forth in
+Traweek
+which is required to satisfy the first prong of the
+Midcal
+test.
+A. ARIZONA
+In
+Tucson,
+the Arizona court found “[rjate-making by title insurance bureaus [was] specifically authorized by Arizona law,” but made no determinations regarding the legislative intent to replace competition with regulation.
+804 P.2d at 844
+.
+Brown argues Arizona’s legislative intent was to enhance competition, not replace it, thereby failing to meet the “clearly articulated” standard of
+Midcal.
+To meet the “clearly articulated” standard, Arizona must meet Traweek’s two part test. Arizona Revised Statute § 20-341 states that “[n]othing in this article is intended to prohibit or discourage reasonable competition.” Based on this language and
+*393
+the lack of anything in the statute or legislative history to show a contrary intent, we hold the Arizona statute does not meet part two of the
+Traweek
+test which requires a showing of legislative intent to displace competition with regulation, and thus fails the first prong of the
+Midcal
+test. The state action immunity defense, therefore, will not protect Ticor from the lawsuit by the Arizona class.
+B. WISCONSIN
+Brown also contends that Wisconsin’s statute does not show a clear legislative intent to replace competition with regulation, and therefore does not meet the
+Traweek
+test regarding “clear articulation.”
+Because the recent United States Supreme Court decision definitively held that there was no active supervision in Wisconsin,
+Federal Trade Comm’n v. Ticor Title Ins. Co.,
+504 U.S. at-,
+112 S.Ct. at 2179
+,
+119 L.Ed.2d at 425
+, we need not address Brown’s argument concerning the first prong of the
+Midcal
+test. Wisconsin does not meet the second prong of
+Midcal,
+and thus the state action immunity defense will not protect Ticor from the lawsuit by the Wisconsin class.
+III.
+FILED TARIFF DOCTRINE
+The Filed Tariff Doctrine, also known as the
+Keogh
+doctrine, emanates from
+Keogh v. Chicago & N.W. Ry.,
+260 U.S. 156
+,
+43 S.Ct. 47
+,
+67 L.Ed. 183
+(1922). In
+Keogh,
+a private shipper claimed that rates submitted to and approved by the Interstate Commerce Commission (ICC) under the Interstate Commerce Act (ICA) were the product of an antitrust violation. The Court found no violation where the rates were submitted to and approved by the ICC.
+Brown contends that the present case involves state regulatory schemes which differ from the type of regulation in
+Keogh.
+The Arizona and Wisconsin statutes do not provide for affirmative governmental approval, as did the ICA. The
+Keogh
+doctrine therefore should not apply in the present case, according to Brown.
+Ticor argues that the Arizona statutes regulate the title insurance business and that there are specific regulatory standards for title insurance rates established by Arizona law, and therefore those are legal rates under
+Keogh.
+In addition, according to Ticor, the Wisconsin law is clear that rates filed with the Commissioner of Insurance are legal rates under
+Keogh.
+Ticor contends the rates filed in Arizona and Wisconsin are legal rates and are thus protected from antitrust claims under
+Keogh.
+In
+Wileman Bros. & Elliott, Inc. v. Giannini,
+909 F.2d 332
+(9th Cir.1990), nectarine and plum producers served either as members of administrative committees appointed by the federal Secretary of Agriculture or as employees of such committees which would issue and enforce standards for marketing nectarines and plums. The standards set forth by the committees allegedly favored the growers who were a part of the committees. The committee members promulgated the regulations themselves rather than making recommendations to the Secretary.
+Id.
+at 337
+. The defendants in
+Wileman
+contended that the Secretary “tacitly approved” the standards by failing to disapprove them as provided for in the regulations and that therefore
+Keogh
+should apply.
+Id.
+We held that:
+[Governmental approval [in
+Keogh
+] was required before there could be any effect from the collective activity and it was such approval that legitimized the allotments and the rates.
+... The
+mere fact of failure to disapprove,
+however, does
+not legitimize otherwise anticompetitive
+conduct---[Nondisapproval] does not guarantee any level of review whatsoever---- [T]here is no affirmative process of non-disapproval which can be relied upon fairly to evaluate a committee’s regulations. Second, non-disapproval is equally consistent with lack of knowledge or neglect as it is with assent.
+Wileman,
+909 F.2d at 337-38
+(emphasis added).
+In the present case, Ticor makes much of the fact that the filed rates are the only
+*394
+rates which it may legally charge in Arizona and Wisconsin. However, if those rates were the product of unlawful activity prior to their being filed and were not subjected to meaningful review by the state, then the fact that they were filed does not render them immune from challenge. The absence of meaningful state review allows the insurers to file any rates they want. Therefore, the act of filing does not legitimize a rate arrived at by improper action.
+The regulations of Arizona and Wisconsin require only “non-disapproval” of the rates and do not require compliance with strict guidelines such as those set forth under the ICC regulations. This case falls within the holding of
+Wileman,
+and we therefore hold the filed tariff doctrine is not applicable under either the Arizona or Wisconsin regulatory schemes.
+IV.
+CONCLUSION
+The decision of the district court is hereby AFFIRMED IN PART in its holding that
+res judicata
+bars injunctive relief, and REVERSED IN PART and REMANDED for further proceedings on all other issues. Costs to Appellants.
+1
+. The state action immunity doctrine protects private price-fixing if "the challenged restraint [is] one clearly articulated and affirmatively expressed as state policy [and] the policy [is] actively supervised by the State itself."
+California Retail Liquor Dealers Ass’n v. Midcal Aluminum, Inc.,
+445 U.S. 97
+, 105,
+100 S.Ct. 937
+, 943,
+63 L.Ed.2d 233
+(1980) (quotations omitted) (hereafter,
+"Midcal").
+The
+Southern Motor Carriers
+decision extended the state action immunity doctrine to situations where collective rate making was permitted but not compelled by state law.
+471 U.S. at 61
+, 105 S.Ct. at 1729.
+2
+. A class may be certified if it meets the requirements of Fed.R.Civ.P. 23(a):
+(1) the class is so numerous that joinder of all members is impracticable, (2) there are questions of law or fact common to the class, (3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and (4) the representative parties will fairly and adequately protect the interests of the class.
+Fed.R.Civ.P. 23(a).
+The court found the necessary elements present.
+Federal Rules of Civil Procedure 23 provides that a class action may be maintained if subdivision (a) is satisfied and, in addition, the prosecution of separate actions would create a risk of
+[23(b)(1) ](A) inconsistent or varying adjudications with respect to individual members of the class which would establish incompatible standards of conduct for the party opposing the class, or ... [23(b) ](2) the party opposing the class has acted or refused to act on grounds generally applicable to the class, thereby making appropriate final injunctive relief or corresponding declaratory relief with respect to the class as a whole____
+Fed.R.Civ.Proc. 23(b)(1)(A), (b)(2).
+3
+. The state action immunity defense will be discussed more fully in Section II,
+infra.

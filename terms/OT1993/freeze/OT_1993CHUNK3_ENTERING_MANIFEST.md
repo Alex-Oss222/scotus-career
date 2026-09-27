@@ -28,18 +28,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-02-23 | OT_1993CHUNK2 | Department of Defense v. Federal Labor Relations Authority | No. 92-1223 | MERITS | Signed opinion | Completed: Department_of_Defense_v_FLRA_merits_1994-02-23.md |
 | 1994-02-23 | OT_1993CHUNK2 | Elder v. Holloway | No. 92-8579 | MERITS | Signed opinion | Completed: Elder_v_Holloway_merits_1994-02-23.md |
 | 1994-02-23 | OT_1993CHUNK2 | Caspari v. Bohlen | No. 92-1500 | MERITS | Signed opinion | Completed: Caspari_v_Bohlen_merits_1994-02-23.md |
-| 1994-02-23 | OT_1993CHUNK3 | American Dredging Co. v. Miller | No. 91-1950 | MERITS | Signed opinion | Completed: American_Dredging_Co_v_Miller_merits_1994-02-23.md |
-| 1994-03-01 | OT_1993CHUNK3 | Fogerty v. Fantasy, Inc. | No. 92-1750 | MERITS | Signed opinion | Completed: Fogerty_v_Fantasy_Inc_merits_1994-03-01.md |
-| 1994-03-07 | OT_1993CHUNK3 | Campbell v. Acuff-Rose Music, Inc. | No. 92-1292 | MERITS | Signed opinion | Completed: Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md |
-| 1994-03-07 | OT_1993CHUNK3 | Liteky v. United States | No. 92-6921 | MERITS | Signed opinion | Completed: Liteky_v_United_States_merits_1994-03-07.md |
-| 1994-03-22 | OT_1993CHUNK3 | Victor v. Nebraska / Sandoval v. California | Nos. 92-8894 (Victor) and 92-9049 (Sandoval) | MERITS | Signed opinion | Completed: Victor_v_Nebraska_and_Sandoval_v_California_merits_1994-03-22.md |
-| 1994-03-22 | OT_1993CHUNK3 | United States v. Granderson | No. 92-1662 | MERITS | Signed opinion | Completed: United_States_v_Granderson_merits_1994-03-22.md |
-| 1994-03-30 | OT_1993CHUNK3 | Powell v. Nevada | No. 92-8841 | MERITS | Signed opinion | Completed: Powell_v_Nevada_merits_1994-03-30.md |
-| 1994-04-04 | OT_1993CHUNK3 | Oregon Waste Systems, Inc. v. Department of Environmental Quality | No. 93-70 (reported with companion No. 93-108) | MERITS | Signed opinion | Completed: Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md |
-| 1994-04-04 | OT_1993CHUNK3 | Ticor Title Insurance Co. v. Brown | No. 92-1988 | MERITS | Per curiam post-grant procedural disposition | Completed: Ticor_Title_Insurance_Co_v_Brown_DIG_1994-04-04.md |
-| 1994-04-19 | OT_1993CHUNK3 | J.E.B. v. Alabama ex rel. T.B. | No. 92-1239 | MERITS | Signed opinion | Completed: JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md |
-| 1994-04-19 | OT_1993CHUNK3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | No. 92-854 | MERITS | Signed opinion | Completed: Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md |
-| 1994-04-20 | OT_1993CHUNK3 | McDermott, Inc. v. AmClyde | No. 92-1479 | MERITS | Signed opinion | Completed: McDermott_Inc_v_AmClyde_merits_1994-04-20.md |
+| 1994-02-23 | OT_1993CHUNK3 | American Dredging Co. v. Miller | No. 91-1950 | MERITS | Signed opinion | Open |
+| 1994-03-01 | OT_1993CHUNK3 | Fogerty v. Fantasy, Inc. | No. 92-1750 | MERITS | Signed opinion | Open |
+| 1994-03-07 | OT_1993CHUNK3 | Campbell v. Acuff-Rose Music, Inc. | No. 92-1292 | MERITS | Signed opinion | Open |
+| 1994-03-07 | OT_1993CHUNK3 | Liteky v. United States | No. 92-6921 | MERITS | Signed opinion | Open |
+| 1994-03-22 | OT_1993CHUNK3 | Victor v. Nebraska / Sandoval v. California | Nos. 92-8894 (Victor) and 92-9049 (Sandoval) | MERITS | Signed opinion | Open |
+| 1994-03-22 | OT_1993CHUNK3 | United States v. Granderson | No. 92-1662 | MERITS | Signed opinion | Open |
+| 1994-03-30 | OT_1993CHUNK3 | Powell v. Nevada | No. 92-8841 | MERITS | Signed opinion | Open |
+| 1994-04-04 | OT_1993CHUNK3 | Oregon Waste Systems, Inc. v. Department of Environmental Quality | No. 93-70 (reported with companion No. 93-108) | MERITS | Signed opinion | Open |
+| 1994-04-04 | OT_1993CHUNK3 | Ticor Title Insurance Co. v. Brown | No. 92-1988 | MERITS | Per curiam post-grant procedural disposition | Open |
+| 1994-04-19 | OT_1993CHUNK3 | J.E.B. v. Alabama ex rel. T.B. | No. 92-1239 | MERITS | Signed opinion | Open |
+| 1994-04-19 | OT_1993CHUNK3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | No. 92-854 | MERITS | Signed opinion | Open |
+| 1994-04-20 | OT_1993CHUNK3 | McDermott, Inc. v. AmClyde | No. 92-1479 | MERITS | Signed opinion | Open |
 | 1994-04-20 | OT_1993CHUNK4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | No. 93-180 | MERITS | Per curiam judgment / summary disposition | Open |
 | 1994-04-20 | OT_1993CHUNK4 | United States v. Irvine | No. 92-1546 | MERITS | Signed opinion | Open |
 | 1994-04-26 | OT_1993CHUNK4 | Landgraf v. USI Film Products | No. 92-757 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** April 20, 1994, through McDermott v. AmClyde; Boca Grande and the other April 20 inventory matters remain uncompleted. Next: Boca Grande Club, Inc. v. Florida Power & Light Co. (April 20, 1994, chunk 4) follows McDermott in the expressly sequenced pair and must receive its actual holding. Other uncoordinated April 20 matters, including Irvine, retain the start-of-day baseline; no same-day dependency is inferred merely from processing order.
+- **Current chronology cursor.** February 23, 1994, through the five chunk 2 matters on that date; the uncoordinated February 23 group remains incomplete until American Dredging in chunk 3. Next: American Dredging Co. v. Miller (February 23, 1994, chunk 3) must use the start-of-day baseline through January 24. None of the five February 23 chunk 2 decisions supplies entering law to that uncoordinated same-day matter. All six combine only prospectively after the group.
 
 ## Manifest controls and limitations
 
@@ -144,4 +144,4 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 - **In re Sassower:** Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition.
 - **Cavanaugh v. Roller:** Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
 
-Boca Grande Club, Inc. v. Florida Power & Light Co. (April 20, 1994, chunk 4) follows McDermott in the expressly sequenced pair and must receive its actual holding. Other uncoordinated April 20 matters, including Irvine, retain the start-of-day baseline; no same-day dependency is inferred merely from processing order.
+American Dredging Co. v. Miller (February 23, 1994, chunk 3) must use the start-of-day baseline through January 24. None of the five February 23 chunk 2 decisions supplies entering law to that uncoordinated same-day matter. All six combine only prospectively after the group.

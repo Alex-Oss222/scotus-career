@@ -1,0 +1,857 @@
+{
+  "id": 10519091,
+  "name": "FANTASY, INC., Plaintiff-Counterdefendant-Appellee, v. John C. FOGERTY, Defendant-Counterclaimant-Appellant; FANTASY, INC., Plaintiff-Appellee, v. John C. FOGERTY, Defendant, and Warner Bros. Records, Inc.; WEA International, Inc.; Warner Communications, Inc.; WEA Manufacturing, Inc.; and WEA Corporation, Defendants-Appellants; FANTASY, INC., Plaintiff-Counterdefendant-Appellee, v. John C. FOGERTY, Defendants Counterclaimant-Appellant; FANTASY, INC., Plaintiff-Appellee, v. John C. FOGERTY, Defendant, and Warner Bros. Records, Inc.; WEA International, Inc.; Warner Communications, Inc.; WEA Manufacturing, Inc.; and WEA Corporation, Defendants-Appellants",
+  "name_abbreviation": "Fantasy, Inc. v. Fogerty",
+  "decision_date": "1993-02-02",
+  "docket_number": "Nos. 88-15815, 88-15816, 89-15118, 89-15120",
+  "first_page": "1524",
+  "last_page": "1533",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "984 F.2d 1524"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "787 F.2d 54",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1560486
+      ],
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/787/0054-01"
+      ]
+    },
+    {
+      "cite": "116 L.Ed.2d 143",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 181",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "925 F.2d 1010",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1789024
+      ],
+      "pin_cites": [
+        {
+          "page": "1022"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/925/1010-01"
+      ]
+    },
+    {
+      "cite": "110 L.Ed.2d 664",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 3217",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "496 U.S. 937",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12153760,
+        12153573,
+        12153894,
+        12154023,
+        12153799,
+        12153930,
+        12153643,
+        12153554,
+        12153619,
+        12153842,
+        12153974,
+        12153687,
+        12153721,
+        12153597
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0937-08",
+        "/us/496/0937-02",
+        "/us/496/0937-11",
+        "/us/496/0937-14",
+        "/us/496/0937-09",
+        "/us/496/0937-12",
+        "/us/496/0937-05",
+        "/us/496/0937-01",
+        "/us/496/0937-04",
+        "/us/496/0937-10",
+        "/us/496/0937-13",
+        "/us/496/0937-06",
+        "/us/496/0937-07",
+        "/us/496/0937-03"
+      ]
+    },
+    {
+      "cite": "872 F.2d 1416",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539803
+      ],
+      "pin_cites": [
+        {
+          "page": "1421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/872/1416-01"
+      ]
+    },
+    {
+      "cite": "108 L.Ed.2d 496",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1321",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "494 U.S. 1017",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5315,
+        4740,
+        5223,
+        4744,
+        5548,
+        5036,
+        5168,
+        5426,
+        5298,
+        5492,
+        5462,
+        4761,
+        4827,
+        5085
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/1017-03",
+        "/us/494/1017-01",
+        "/us/494/1017-02",
+        "/us/494/1017-05",
+        "/us/494/1017-13",
+        "/us/494/1017-12",
+        "/us/494/1017-10",
+        "/us/494/1017-11",
+        "/us/494/1017-04",
+        "/us/494/1017-14",
+        "/us/494/1017-08",
+        "/us/494/1017-07",
+        "/us/494/1017-09",
+        "/us/494/1017-06"
+      ]
+    },
+    {
+      "cite": "886 F.2d 1545",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539393
+      ],
+      "pin_cites": [
+        {
+          "page": "1556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/886/1545-01"
+      ]
+    },
+    {
+      "cite": "777 F.2d 485",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1521699
+      ],
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/777/0485-01"
+      ]
+    },
+    {
+      "cite": "823 F.2d 316",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1736346
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "322"
+        },
+        {
+          "page": "322-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/823/0316-01"
+      ]
+    },
+    {
+      "cite": "855 F.2d 1446",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536850
+      ],
+      "pin_cites": [
+        {
+          "page": "1454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/855/1446-01"
+      ]
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 505",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "323-24"
+        },
+        {
+          "page": "2553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "628 F.2d 1214",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1292864
+      ],
+      "pin_cites": [
+        {
+          "page": "1220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/628/1214-01"
+      ]
+    },
+    {
+      "cite": "571 F.Supp. 1504",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3597972
+      ],
+      "pin_cites": [
+        {
+          "page": "1507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/571/1504-01"
+      ]
+    },
+    {
+      "cite": "787 F.Supp. 952",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        11293525
+      ],
+      "pin_cites": [
+        {
+          "page": "960"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/787/0952-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 621",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 S.Ct. 39",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 821",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641348,
+        641356,
+        641326,
+        641265,
+        640951,
+        641049
+      ],
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0821-06",
+        "/us/342/0821-04",
+        "/us/342/0821-05",
+        "/us/342/0821-03",
+        "/us/342/0821-02",
+        "/us/342/0821-01"
+      ]
+    },
+    {
+      "cite": "188 F.2d 356",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218584
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/188/0356-01"
+      ]
+    },
+    {
+      "cite": "91 F.Supp. 596",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        294137
+      ],
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/91/0596-01"
+      ]
+    },
+    {
+      "cite": "711 F.Supp. 1513",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7395959
+      ],
+      "pin_cites": [
+        {
+          "page": "1520"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/711/1513-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed.2d 500",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 1289",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "485 U.S. 987",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        14018,
+        13858,
+        14019,
+        13895,
+        13551,
+        13841,
+        13204,
+        13812,
+        14169,
+        13978,
+        13211
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0987-06",
+        "/us/485/0987-03",
+        "/us/485/0987-01",
+        "/us/485/0987-04",
+        "/us/485/0987-02",
+        "/us/485/0987-09",
+        "/us/485/0987-11",
+        "/us/485/0987-10",
+        "/us/485/0987-05",
+        "/us/485/0987-08",
+        "/us/485/0987-07"
+      ]
+    },
+    {
+      "cite": "822 F.2d 833",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1723447
+      ],
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/822/0833-01"
+      ]
+    },
+    {
+      "cite": "34 P. 497",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1893,
+      "pin_cites": [
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Cal. 677",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1962515
+      ],
+      "year": 1893,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/99/0677-01"
+      ]
+    },
+    {
+      "cite": "58 Cal.Rptr. 503",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "509",
+          "parenthetical": "quoting Fountain v. Semi-Tropic Land & Water Co., 99 Cal. 677, 34 P. 497, 498 (1893)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Cal.App.2d 287",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2193930
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Fountain v. Semi-Tropic Land & Water Co., 99 Cal. 677, 34 P. 497, 498 (1893)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/250/0287-01"
+      ]
+    },
+    {
+      "cite": "132 P.2d 457",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.2d 411",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2228943
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/21/0411-01"
+      ]
+    },
+    {
+      "cite": "557 F.2d 674",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        951555
+      ],
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/557/0674-01"
+      ]
+    },
+    {
+      "cite": "812 F.2d 499",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1694712
+      ],
+      "pin_cites": [
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/812/0499-01"
+      ]
+    },
+    {
+      "cite": "969 F.2d 752",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10517715
+      ],
+      "pin_cites": [
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/969/0752-01"
+      ]
+    },
+    {
+      "cite": "732 F.2d 1095",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1947622
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1101"
+        },
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/732/1095-01"
+      ]
+    },
+    {
+      "cite": "968 F.2d 937",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10518192
+      ],
+      "pin_cites": [
+        {
+          "page": "940"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/968/0937-01"
+      ]
+    },
+    {
+      "cite": "245 F.2d 67",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        404202
+      ],
+      "pin_cites": [
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/245/0067-01"
+      ]
+    },
+    {
+      "cite": "512 F.Supp. 36",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3257833
+      ],
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/512/0036-01"
+      ]
+    },
+    {
+      "cite": "381 F.Supp. 884",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3305917
+      ],
+      "pin_cites": [
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/381/0884-01"
+      ]
+    },
+    {
+      "cite": "174 F.Supp. 211",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        425998
+      ],
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/174/0211-01"
+      ]
+    },
+    {
+      "cite": "697 F.2d 880",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1502664
+      ],
+      "pin_cites": [
+        {
+          "page": "885"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/697/0880-01"
+      ]
+    },
+    {
+      "cite": "851 F.2d 1152",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11361355
+      ],
+      "pin_cites": [
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/851/1152-01"
+      ]
+    },
+    {
+      "cite": "921 F.2d 241",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10542998
+      ],
+      "pin_cites": [
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/921/0241-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "664 F.Supp. 1345",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5881463
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1353-55"
+        },
+        {
+          "page": "1354"
+        },
+        {
+          "page": "1354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/664/1345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1310,
+    "char_count": 30191,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 9.355854284748849e-07,
+      "percentile": 0.9803691257675641
+    },
+    "sha256": "b3ed11411d6a8a061f66cac7453d90c53cc8208319b22e13563b96a615afcf4c",
+    "simhash": "1:1e2ac5b379855fc3",
+    "word_count": 4701
+  },
+  "last_updated": "2024-02-27T18:01:45.170103+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: BOOCHEVER, NOONAN, and O'SCANNLAIN, Circuit Judges."
+    ],
+    "parties": [
+      "FANTASY, INC., Plaintiff-Counterdefendant-Appellee, v. John C. FOGERTY, Defendant-Counterclaimant-Appellant. FANTASY, INC., Plaintiff-Appellee, v. John C. FOGERTY, Defendant, and Warner Bros. Records, Inc.; WEA International, Inc.; Warner Communications, Inc.; WEA Manufacturing, Inc.; and WEA Corporation, Defendants-Appellants. FANTASY, INC., Plaintiff-Counterdefendant-Appellee, v. John C. FOGERTY, Defendants Counterclaimant-Appellant. FANTASY, INC., Plaintiff-Appellee, v. John C. FOGERTY, Defendant, and Warner Bros. Records, Inc.; WEA International, Inc.; Warner Communications, Inc.; WEA Manufacturing, Inc.; and WEA Corporation, Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "BOOCHEVER, Circuit Judge:\nBACKGROUND\nIn 1970 appellant John Fogerty, a popular musician and songwriter, wrote a song entitled \u201cRun Through the Jungle\u201d (\u201cJungle\u201d). Fogerty sold the exclusive publishing rights to the song to Fantasy, Inc.\u2019s predecessors-in-interest, Cireco Music and Galaxy Records, in exchange for a sales percentage and other royalties derived from the song\u2019s exploitation. Cireco and Galaxy obtained a copyright on \u201cJungle,\u201d which Fantasy subsequently obtained by assignment.\nIn 1985 Fogerty published a song entitled \u201cThe Old Man Down the Road\u201d (\u201cOld Man\u201d), registered a copyright, and authorized Warner Brothers Records, Inc. to distribute \u201cOld Man.\u201d Fantasy alleged that \u201cOld Man\u201d was merely \u201cJungle\u201d with new words and filed an action for copyright infringement against Fogerty, Warner, and related companies. Fogerty pleaded four counterclaims, seeking rescission of the music publishing agreements he had entered into with Cireco and Galaxy and restitution of the songs covered by those contracts and, assuming a favorable ruling on the rescission claim, alleging copyright infringement of those songs by Fantasy and seeking damages and an accounting. After a jury trial on Fantasy\u2019s copyright claim in late 1988, a jury returned a verdict for Fogerty, finding that Fogerty did not infringe \"Jungle\u201d with his song \u201cOld Man.\u201d\nFogerty appeals several of the district court\u2019s orders that preceded and followed the jury trial. First, the court ruled in 1986 to strike from Fogerty\u2019s First Counterclaim allegations that Saul Zaentz, a general partner in Galaxy and later a minority shareholder and director of Fantasy, and Argosy Venture, Galaxy\u2019s sole shareholder, had fraudulently induced Fogerty to enter an unwise and illegal tax shelter scheme between 1969 and 1974 (\u201cthe Zaentz/Argosy allegations\u201d). Second, the court ruled in 1987 that Fantasy was entitled to summary judgment on Fogerty\u2019s First and Second Counterclaims, holding that Fantasy\u2019s payment of Fogerty\u2019s songwriting royalties into an irrevocable escrow account pending resolution of the copyright action did not constitute a material breach warranting rescission of the music publishing agreements. Fantasy, Inc. v. Fogerty, 664 F.Supp. 1345, 1353-55 (N.D.Cal.1987). Finally, after Fogerty had prevailed at trial, the court denied Fogerty\u2019s motion for attorneys\u2019 fees. This court has jurisdiction under 28 U.S.C. \u00a7 1291. We affirm in all respects.\nDISCUSSION\nI\nIn its 1986 order, the district court denied Fantasy\u2019s motion to dismiss Fogerty\u2019s First and Second Counterclaims, but ordered the striking of allegations concerning Zaentz and Argosy that the court found were barred by the statute of limitations and by res judicata. Fogerty challenges this order on the grounds that the Zaentz/Argosy allegations were only part of a claim that, as a whole, was not barred, and that the entire course of conduct between the parties was relevant to Fogerty\u2019s counterclaims because it went to the materiality of Fantasy\u2019s breach of the music publishing agreements. We review a district court\u2019s decision to strike matter pursuant to Fed.R.Civ.P. 12(f) for an abuse of discretion. See Federal Sav. & Loan Ins. Corp. v. Gemini Management, 921 F.2d 241, 243 (9th Cir.1990) (striking of affirmative defenses under Rule 12(f)); Northern Cheyenne Tribe v. Hodel, 851 F.2d 1152, 1155 (9th Cir.1988).\nRule 12(f) provides that a court \u201cmay order stricken from any pleading ... any redundant, immaterial, impertinent, or scandalous matter.\u201d \u201c[T]he function of a 12(f) motion to strike is to avoid the expenditure of time and money that must arise from litigating spurious issues by dispensing with those issues prior to trial.... \u201d Sidney-Vinstein v. A.H. Robins Co., 697 F.2d 880, 885 (9th Cir.1983). \u201c \u2018Immaterial\u2019 matter is that which has no essential or important relationship to the claim for relief or the defenses being pleaded.\u201d 5 Charles A. Wright & Arthur R. Miller, Federal Practice and Procedure \u00a7 1382, at 706-07 (1990). \u201c \u2018Impertinent\u2019 matter consists of statements that do not pertain, and are not necessary, to the issues in question.\u201d Id. at 711. Superfluous historical allegations are a proper subject of a motion to strike. See, e.g., Healing v. Jones, 174 F.Supp. 211, 220 (D.Ariz.1959).\nFogerty\u2019s First Counterclaim, as amended in his second answer, contained some seven pages of allegations concerning the tax shelter plan and his dealings with Zaentz and Argosy; only a few lines were devoted to Fogerty\u2019s allegation that Fantasy committed a material breach by escrow-ing Fogerty\u2019s royalties after the copyright infringement action arose. The district court reasonably construed paragraph 84 of Fogerty\u2019s second answer as suggesting that \u201cthe Zaentz/Argosy allegations and the 1985 failure to pay royalties constitute independent and cumulative grounds for rescission.\u201d Order re Plaintiff\u2019s Motion to Dismiss Amended Counterclaims and Defendant\u2019s Motion to Reconsider Imposition of Sanctions at 4. If these allegations, based on events occurring between 1969 and 1974, were indeed meant to serve as the basis of a separate claim for rescission, they were barred by the four-year statute of limitations for an action to rescind a written contract. See Cal.Civ.Proc.Code \u00a7 337 (West 1982). The only basis on which Fogerty properly could base his rescission counterclaim was Fantasy\u2019s es-crowing of royalties beginning in January 1985.\nFogerty was also barred by res judi-cata from relitigating the tax plan claims against Zaentz or his successors-in-interest. Although Fogerty gained substantial recovery from his lawyers and accountants for his injuries from the tax shelter plan, the California Superior Court dismissed Fogerty\u2019s claims against Zaentz based on the statute of limitations. Fogerty appealed that ruling, but later abandoned the appeal. Fogerty now denies that Zaentz was Fantasy\u2019s predecessor-in-interest, although his answer alleged otherwise. Fogerty cannot reassert the allegations of fraud regarding the tax plan, either as the basis for a damages claim (as he did in state court) or as a ground for rescission (as he did in district court here). Because the statute of limitations and res judicata would prevent proof of the Zaentz/Argosy allegations from being introduced at trial, the material was properly stricken under Rule 12(f). See 5 Wright & Miller, supra, \u00a7 1382, at 711-12.\nFogerty argues on appeal that the district court misconstrued his pleading and that the Zaentz/Argosy allegations were not meant to constitute an independent ground for rescission, but rather to present \u201crelevant background and foundational facts\u201d establishing a pattern of abuse to support his claim of Fantasy\u2019s material breach of the music publishing agreements. Even were we to accept Fogerty\u2019s \u201cpattern of abuse\u201d argument, however, the district court did not abuse its discretion in striking the Zaentz/Argosy allegations. The district court expressly found that no pattern of abuse existed and concluded that Fogerty had offered \u201cno legal theories regarding the relevance of these so-called \u2018abusive acts\u2019 to the claims for rescission and restitution ... [nor] any coherent legal argument that the string of alleged \u2018abuses\u2019 he lists constitutes fraud which would justify the rescission of songwriting contracts made in 1969.\u201d Order re Motions to Reconsider and Motions for Attorneys\u2019 Fees and Costs at 4. Although the course of conduct between the parties to a contract may be relevant to the materiality of a breach, Fogerty offers no authority for the proposition that the conduct of a predecessor-in-interest is relevant to materiality; in fact, he now denies that Zaentz was a predecessor-in-interest to Fantasy. Fogerty had ample opportunity to present his legal arguments to the district court, and he failed to do so. The court did not abuse its discretion in concluding that whether Zaentz fraudulently induced Fogerty\u2019s consent to the tax plan agreements simply was not relevant to the materiality of any breach Fantasy might have committed by escrowing royalties in 1985.\nMoreover, in granting Fantasy\u2019s motion to strike, the district court correctly noted that the Zaentz/Argosy allegations created serious risks of prejudice to Fantasy, delay, and confusion of the issues. The allegations did not involve the parties to the copyright infringement action, but rather consisted of stale and barred charges that had already been extensively litigated and would have been burdensome for Fantasy to answer. There was a strong likelihood that evidence of the disputes between Fog-erty and Zaentz/Argosy would lead to unwarranted and prejudicial inferences against Fantasy. See Loughrey v. Landon, 381 F.Supp. 884, 888 (E.D.Pa.1974). Finally, the stricken allegations would have unnecessarily complicated the trial of the copyright claim by requiring the introduction of extensive evidence of the tax plan agreements and a mass of related documents, potentially adding weeks to the trial. The district court could properly grant the motion to strike for the purpose of streamlining the ultimate resolution of the action and focusing the jury\u2019s attention on the real issues in the case. See California ex rel. State Lands Comm\u2019n v. United States, 512 F.Supp. 36, 38 (N.D.Cal.1981).\nFinally, there is no merit to Fogerty\u2019s claim that the court erroneously considered \u201ca volume of material\u201d outside the pleadings in ruling on Fantasy\u2019s motion to strike. Of the four documents that Fogerty challenges, two are Fogerty\u2019s and Fantasy\u2019s requests for judicial notice, which could properly be considered by the court in ruling on the motion to strike. See Sears, Roebuck & Co. v. Metropolitan Engravers, 245 F.2d 67, 70 (9th Cir.1956); William W. Schwarzer et ah, Cal.Prac. Guide: Fed.Civ.Pro. Before Trial 9:403 (TRG 1992) (grounds for motion to strike must appear on face of pleading or from matters which court may judicially notice). The other two documents designated by Fogerty are (1) a declaration of one of Fogerty\u2019s attorneys that Fogerty submitted in support of his request for judicial notice, which had no relevance to the motion to strike and was not mentioned in the court\u2019s order, and (2) an affidavit of one of Fantasy\u2019s attorneys regarding attorneys\u2019 fees, which the district court considered only with respect to Fantasy\u2019s motion for sanctions under Fed.R.Civ.P. II. Nor did the court err in ruling on the preclusion issue at the preliminary stage of the motion to strike, as the grounds for the district court\u2019s ruling that the Zaentz/Argosy allegations were barred by res judicata appeared on the face of the pleadings and from matters of which the. court took judicial notice.\nII\nIn its 1987 order, the district court granted Fantasy\u2019s motions for summary judgment on Fogerty\u2019s counterclaims for rescission of the music publishing agreements and copyright infringement. The court held that Fantasy\u2019s deposit of Fogerty\u2019s royalties in an irrevocable escrow account pending the outcome of the copyright action did not amount to a material breach of the music publishing agreements. Because the court did not grant rescission, Fogerty could not maintain his counterclaim for infringement of the \u201cJungle\u201d copyright. After trial, the court denied Fogerty\u2019s motion for reconsideration. Fogerty challenges the granting of summary judgment on his counterclaims on the grounds that the existence of numerous disputed issues of material fact rendered summary judgment improper and that the facts, when viewed in the light most favorable to Fogerty, did not entitle Fantasy to judgment as a matter of law. We review a grant of summary judgment de novo. Jones v. Union Pacific R.R., 968 F.2d 937, 940 (9th Cir.1992).\nThe district court based its ruling in part on Arthur Guinness & Sons v. Sterling Pub. Co., 732 F.2d 1095, 1101 (2d Cir.1984), which the court interpreted as holding that \u201c[a]s a matter of law, a \u2018bona fide dispute\u2019 regarding royalty payments does not amount to a material breach unless the contract expressly provides so.\u201d Fantasy, Inc., 664 F.Supp. at 1354. Thus, once the court concluded that the dispute between Fantasy and Fogerty was bona fide and found no express statement in the music publishing agreements that deposit of royalties in an irrevocable escrow account would be considered a material breach, it concluded that no material breach occurred. Guinness only stated, however, that a bona fide dispute concerning royalty payments does not automatically constitute a material breach unless the contract so provides, not that such a dispute could never constitute a material breach under any circumstances. We agree with the Second Circuit\u2019s statement in Guinness. Although the district court may have construed Guinness overbroadly in reaching its conclusion that no material breach occurred, we may affirm the district court\u2019s decision on any basis supported by the record, even if the court relied on the wrong grounds or wrong reasoning. United States v. Washington, 969 F.2d 752, 755 (9th Cir.1992); Marino v. Vasquez, 812 F.2d 499, 508 (9th Cir.1987).\nAlthough Fantasy\u2019s copyright infringement action arose under federal law, Fogerty\u2019s rescission counterclaim was governed exclusively by state contract law. See Reliance Finance Corp. v. Miller, 557 F.2d 674, 679 (9th Cir.1977). California law provides that a party may unilaterally rescind a contract if there is a material breach by the other party. Cal.Civ.Code \u00a7 1689(b)(2) (West 1985). The materiality of a partial breach of contract is determined by the importance or seriousness of the breach and the likelihood that the injured party will receive substantial performance. 1 B.E. Witkin, Summary of California Law \u00a7 795, at 718 (9th ed. 1987). A material breach is one that \u201cis so dominant or pervasive as in any real or substantial measure to frustrate the purpose of the undertaking.\u201d Medico-Dental Bldg. Co. v. Horton & Converse, 21 Cal.2d 411, 132 P.2d 457, 470 (1942). If a breach does not go \u201c \u2018to the root of the matter\u2019 \u201d and \u201c \u2018can be readily compensated in damages,\u2019 \u201d a party may not rescind. Integrated, Inc. v. Alec Fergusson Elec. Contractors, 250 Cal.App.2d 287, 58 Cal.Rptr. 503, 509 (1967) (quoting Fountain v. Semi-Tropic Land & Water Co., 99 Cal. 677, 34 P. 497, 498 (1893)). The Restatement (Second) of Contracts lists five circumstances as \u201csignificant\u201d in determining whether a breach is material:\n(a) the extent to which the injured party will be deprived of the benefit which he reasonably expected;\n(b) the extent to which the injured party can be adequately compensated for the part of that benefit of which he will be deprived;\n(c) the extent to which the party failing to perform or to offer to perform will suffer forfeiture;\n(d) the likelihood that the party failing to perform or to offer to perform will cure his failure, taking account of all the circumstances including any reasonable \u25a0 assurances;\n(e) the extent to which the behavior of the party failing to perform or to offer to perform comports with standards of good faith and fair dealing.\nRestatement (Second) of Contracts \u00a7 241 (1981).\nFogerty argues that whether Fantasy\u2019s deposit of Fogerty\u2019s royalties in an irrevocable escrow account pending the outcome of the copyright action amounted to a material breach of the music publishing agreements was a disputed issue of fact. Although the question of whether a breach is material depends on the facts and circumstances of each particular case, see Federal Deposit Ins. Corp. v. Air Florida Sys., Inc., 822 F.2d 833, 840 (9th Cir.1987), cert. denied, 485 U.S. 987, 108 S.Ct. 1289, 99 L.Ed.2d 500 (1988), and thus is \u201cnormally\u201d a question for the jury, 6 Samuel Willi-ston, A Treatise on the Law of Contracts \u00a7 841, at 159 (3d ed. 1962), it need not be left to the trier of fact where, as here, the underlying facts are undisputed and only the legal conclusion to be drawn from those facts remains in doubt. See B.F. Goodrich Co. v. Vinyltech Corp., 711 F.Supp. 1513, 1520 (D.Ariz.1989) (granting summary judgment for plaintiff on breach of contract claim despite defendant\u2019s assertion of material breach); Boeing Airplane Co. v. Aeronautical Indus. Dist. Lodge No. 751, 91 F.Supp. 596, 609 (W.D.Wash.1950) (granting summary judgment based on material breach), aff'd, 188 F.2d 356 (9th Cir.), cert. denied, 342 U.S. 821, 72 S.Ct. 39, 96 L.Ed. 621 (1951); cf. Far West Fed. Bank v. Director, Office of Thrift Supervision, 787 F.Supp. 952, 960 (D.Or.1992) (granting rescission on summary judgment based on frustration of purpose and impossibility of performance).\nWhen Fantasy began to deposit all royalties due Fogerty into an interest-bearing escrow account upon commencement of the copyright action, Fantasy instructed the escrow agent to hold the funds until receipt of either a court order or joint instructions from Fantasy and Fogerty. Simultaneously with the establishment of the escrow account, Fantasy informed Fogerty that all royalties would be placed in the account as security for any judgment Fantasy might receive in the copyright action and that royalty payments would be resumed if Fog-erty provided an alternate form of security. Fantasy continued to provide. Fogerty with royalty statements for each six-month period and offered to cooperate with Fogerty in selecting a new escrow holder if the existing agent was- unsatisfactory. Despite Fantasy\u2019s invitations, Fogerty never requested a different escrow holder, sought to negotiate an alternative security, or even inquired how much was deposited or where the account was located.\nOur application of the five Restatement factors leads us to the conclusion that any breach by Fantasy was nonmaterial as a matter of law. First, although Fogerty was deprived of a significant amount of royalties for the duration of the litigation, he presents no evidence that Fantasy failed to keep accurate records and deposit his royalties in escrow, nor does he dispute that promptly after trial he received the full amount of royalties plus interest, total-ling some $1.4 million. Second, Fogerty made no showing that any injury he might have suffered by the delay in receiving royalty payments could not be adequately compensated in damages. Third, Fantasy would suffer a substantial forfeiture if rescission were granted and ownership of the songs were awarded to Fogerty. Fourth, Fantasy\u2019s failure was always likely to be cured in view of Fantasy\u2019s communications with Fogerty affirming its obligation to pay royalties under the music publishing agreements, and was in fact cured immediately following the jury verdict.\nWith regard to the fifth factor under the Restatement (whether the breaching party adhered to standards of good faith and fair dealing), Fogerty contends that Fantasy\u2019s motives and state of mind in bringing the copyright action and in withholding Fogerty\u2019s royalties were questions of fact that should not have been decided on summary judgment. While it is true that questions of motive and intent are not generally susceptible to disposition on summary judgment, see Grason Elec. Co. v. Sacramento Mun. Util. Dist., 571 F.Supp. 1504, 1507 (E.D.Cal.1983), this does not mean that such questions must be left to the trier of fact even when the nonmoving party presents no evidence to support his claim. See Vaughn v. Teledyne, Inc., 628 F.2d 1214, 1220 (9th Cir.1980). Fogerty maintains that Fantasy brought the copyright action without any good faith belief in the allegation of infringement and withheld royalties from him in bad faith to coerce him into a settlement and to punish him for songs allegedly defamatory to Zaentz. That Fogerty simply asserts that Fantasy acted in bad faith, however, does not create a disputed issue of material fact precluding summary judgment.\n\u201cOne of the principal purposes of the summary judgment rule is to isolate and dispose of factually unsupported claims_\u201d Celotex Corp. v. Catrett, 477 U.S. 317, 323-24, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986). Once a summary judgment motion is made and properly supported, the adverse party may not rest on the mere allegations of his pleadings, but must set forth specific facts showing that there is a genuine issue for trial. Fed. R.Civ.Pro. 56(e). Fogerty has not met this burden. As the district court found, \u201cFog-erty supplies no factual basis beyond mere assertions that [Fantasy] has acted fraudulently or delinquently.\u201d Fantasy, Inc., 664 F.Supp. at 1354. Such unsubstantiated allegations are clearly insufficient to defeat a motion for summary judgment. The available evidence, when viewed in the light most favorable to Fogerty, leads to the conclusion that Fantasy\u2019s depositing of Fogerty\u2019s royalties in an irrevocable interest-bearing escrow account under the circumstances here involved did not constitute a material breach justifying rescission of the music publishing agreements.\nFogerty contends that even if Fantasy\u2019s copyright infringement claim was a bona fide dispute entitling Fantasy to escrow royalties from \u201cJungle,\u201d this did not entitle Fantasy to withhold royalties from all of Fogerty\u2019s songs, and that whether such withholding was excessive and in itself a material breach was a disputed question of fact. Although Fogerty cites no law in support of this argument, we might be led to agree with him had Fantasy not offered Fogerty the chance to avoid the withholding of royalties by furnishing an alternate form of security. Under these circumstances, we conclude that summary judgment was not barred by any disputed question of excessive withholding of royalties.\nIll\nIn 1989, after Fogerty prevailed at the jury trial on Fantasy\u2019s copyright claim, the district court denied Fogerty\u2019s motion for attorneys\u2019 fees under 17 U.S.C. \u00a7 505. The court found that Fantasy\u2019s infringement suit was not brought frivolously or in bad faith, and thus circuit precedent precluded an award of attorneys\u2019 fees to Fog-erty. See Olson v. National Broadcasting Co., 855 F.2d 1446, 1454 (9th Cir.1988); McCulloch v. Albert E. Price, Inc., 823 F.2d 316, 322 (9th Cir.1987); Cooling Systems & Flexibles, Inc. v. Stuart Radiator, Inc., 777 F.2d 485, 493 (9th Cir.1985). Fog-erty challenges this order on the ground that the court did not apply the correct standard. Alternatively, he urges this court to abandon its existing standard in favor of the \u201cevenhanded\u201d approach of the Third and Eleventh Circuits, which rejects bad faith or frivolity as a prerequisite for an award of attorneys\u2019 fees to a prevailing party. We review a district court\u2019s denial of an award of attorneys\u2019 fees pursuant to the Copyright Act for an abuse of discretion, Frank Music Corp. v. Metro-Goldwyn-Mayer, Inc., 886 F.2d 1545, 1556 (9th Cir.1989), cert. denied, 494 U.S. 1017, 110 S.Ct. 1321, 108 L.Ed.2d 496 (1990), and a district court\u2019s findings of fact for clear error, Fed.R.Civ.P. 52(a); Kruso v. Int'l. Tel. & Tel. Corp., 872 F.2d 1416, 1421 (9th Cir.1989), cert. denied, 496 U.S. 937, 110 S.Ct. 3217, 110 L.Ed.2d 664 (1990).\nThis circuit has adopted the rule that in litigation brought under the Copyright Act a prevailing defendant may not be awarded attorneys\u2019 fees under \u00a7 505 unless it can be demonstrated that the action was frivolous or was instituted and prosecuted in bad faith. The purpose of that rule is to avoid chilling a copyright holder\u2019s incentive to sue on colorable claims, and thereby to give full effect to the broad protection for copyrights intended by the Copyright Act. See McCulloch, 823 F.2d at 322-23. Fogerty presented numerous arguments below to support his contention that Fantasy's copyright action was frivolous and/or in bad faith. The district court rejected these arguments.\nFogerty argues that the district court abused its discretion by treating \u201cbad faith\u201d and \u201cfrivolity\u201d as the same standard, instead of applying the disjunctive test of \u201cbad faith or frivolity.\u201d While Fog-erty does not appear to contend that Fantasy\u2019s copyright suit was frivolous, he argues that an action that is not frivolous may still be brought in bad faith, and that the district court erroneously \u2022 ignored the actual bad faith motivation for filing this action because- Fantasy\u2019s attorneys were able to design a cause of action that could ultimately be submitted to the jury. A fair reading of the district court\u2019s opinion, however, compels the conclusion that the court recognized and applied the correct standard of bad faith or frivolity:\nThe Court finds that Fantasy\u2019s infringement suit was not brought frivolously nor in bad faith.... Fantasy\u2019s suit was not frivolous merely because it presented a case of first impression. Nor does Fantasy\u2019s \u201cknowledge of Fog-erty\u2019s creativity\u201d mean that this suit was brought in bad faith, where a finding of subconscious copying would have supported Fantasy\u2019s infringement claim. And although the Court did not allow Fantasy to maintain a \u201cbreach of warranty\u201d claim, Fantasy\u2019s attempt to argue such a theory is no more in bad faith than was Fogerty\u2019s pretrial assertion that the \u201cfair use\u201d defense of the Copyright Act was applicable to him.\nBecause the Court finds that Fantasy\u2019s suit alleging that \u201cOld Man\u201d infringed upon \u201cJungle\u201d was not filed frivolously nor in bad faith, the Court finds that whatever animosity exists between Fog-erty and Zaentz does not warrant an award of attorneys\u2019 fees.\nOrder re Motions to Reconsider and Motions for Attorneys\u2019 Fees and Costs at 10-11, (emphasis added). Although some of the court\u2019s language in support of the conclusion that the suit was not brought in bad faith may more properly apply to the frivolity contention, the overall statement clearly indicates an application of the proper disjunctive standard.\nIn his brief before this court, and again at oral argument, Fogerty presents as \u201cevidence of Fantasy\u2019s vindictive use of litigation\u201d an out-of-context sentence from the closing argument of Fantasy\u2019s counsel at trial. Fogerty notes that Fantasy\u2019s counsel, after reciting the lyrics of \"Zanz Kant Danz\u201d (which was the basis for a defamation suit against Fogerty by Zaentz), argued to the jury: \u201cLadies and Gentlemen, if your name was Zaentz and you had been part of John Fogerty\u2019s background, ... wouldn\u2019t you sue?\u201d What Fogerty fails to mention, however, is that Fantasy\u2019s counsel was explaining why Zaentz had believed that the song referred to him and had filed his defamation suit, not why Fantasy had filed its copyright infringement action. Although Fogerty alleges the \u201cfact\u201d that \u201cZaentz has a deep personal dislike for Fogerty and caused Fantasy to bring this frivolous copyright infringement suit as another attempt to get back at Fogerty,\u201d he presented no evidence to the district court that would require a finding that Fantasy\u2019s action was brought in bad faith. The district court did not clearly err in finding that the copyright action was not brought in bad faith, nor did it abuse its discretion in following Ninth Circuit precedent and denying Fogerty\u2019s motion for attorneys\u2019 fees.\nWith regard to Fogerty\u2019s argument that the existing Ninth Circuit standard should be abandoned in favor of the approach of the Third and Eleventh Circuits, this panel is bound by the existing circuit rule, which conforms with the approach of the Second and Seventh Circuits. See Video Views, Inc. v. Studio 21, Ltd., 925 F.2d 1010, 1022 (7th Cir.), cert. denied, \u2014 U.S. -, 112 S.Ct. 181, 116 L.Ed.2d 143 (1991); Roth v. Pritikin, 787 F.2d 54, 57 (2d Cir.1986). We decline to create an exception or to call for an en banc hearing to revisit that rule at this time.\nCONCLUSION\nWe therefore hold that the district court did not err in striking the stale and irrelevant Zaentz/Argosy allegations from Fog-erty\u2019s counterclaims, in ruling against Fog-erty on summary judgment, or in denying Fogerty attorneys\u2019 fees.\nAFFIRMED.\n. Indeed, Fogerty\u2019s briefs suggest an attempt to have it both ways: when arguing that the conduct of predecessors-in-interest is relevant to a determination of materiality, Fogerty categorizes Zaentz as Fantasy\u2019s predecessor-in-interest, but when arguing that his claims are not barred by the statute of limitations or res judicata, Fogerty argues that Zaentz is not a predecessor of Fantasy.\n. Fogerty filed his first answer, including counterclaims, on November 11, 1985. Fantasy filed a motion to dismiss the counterclaims. Fogerty filed a second answer, including amended counterclaims, on February 19, 1986, thereby rendering Fantasy\u2019s motion to dismiss moot. On February 21, 1986, the district court held that Fog-erty and his attorneys had violated Rule 11 in filing the first set of counterclaims and imposed sanctions in the amount of $5,000.\n. The actual language in Guinness states that \"a bona fide dispute concerning royalty payments does not, as a matter of law, establish a material breach justifying rescission of the contract absent an express provision in the agreement.... Whether [defendant\u2019s] action in withholding disputed legal fees is such a breach is therefore sufficiently arguable to debar [plaintiff] from obtaining an injunction.\u201d Guinness & Sons, 732 F.2d at 1101.",
+        "type": "majority",
+        "author": "BOOCHEVER, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Kenneth I. Sidle, Gipson Hoffman & Pan-cione, Los Angeles, CA, for defendants-appellants.",
+      "Malcolm Burnstein and Catherine Trim-bur, Burnstein & Trimbur, San Francisco, CA, for plaintiff-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "FANTASY, INC., Plaintiff-Counterdefendant-Appellee, v. John C. FOGERTY, Defendant-Counterclaimant-Appellant. FANTASY, INC., Plaintiff-Appellee, v. John C. FOGERTY, Defendant, and Warner Bros. Records, Inc.; WEA International, Inc.; Warner Communications, Inc.; WEA Manufacturing, Inc.; and WEA Corporation, Defendants-Appellants. FANTASY, INC., Plaintiff-Counterdefendant-Appellee, v. John C. FOGERTY, Defendants Counterclaimant-Appellant. FANTASY, INC., Plaintiff-Appellee, v. John C. FOGERTY, Defendant, and Warner Bros. Records, Inc.; WEA International, Inc.; Warner Communications, Inc.; WEA Manufacturing, Inc.; and WEA Corporation, Defendants-Appellants.\nNos. 88-15815, 88-15816, 89-15118, 89-15120.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted Nov. 2, 1992.\nDecided Feb. 2, 1993.\nKenneth I. Sidle, Gipson Hoffman & Pan-cione, Los Angeles, CA, for defendants-appellants.\nMalcolm Burnstein and Catherine Trim-bur, Burnstein & Trimbur, San Francisco, CA, for plaintiff-appellee.\nBefore: BOOCHEVER, NOONAN, and O'SCANNLAIN, Circuit Judges."
+  },
+  "file_name": "1524-01",
+  "first_page_order": 1584,
+  "last_page_order": 1593
+}

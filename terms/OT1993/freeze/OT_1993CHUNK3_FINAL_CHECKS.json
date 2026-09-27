@@ -1,0 +1,133 @@
+{
+  "baseline_files": 875,
+  "preserved_files": 871,
+  "updated_workspace_files": 4,
+  "new_records": 12,
+  "records": {
+    "American_Dredging_Co_v_Miller_merits_1994-02-23.md": {
+      "date": "1994-02-23",
+      "result": "**Result:** Louisiana Supreme Court affirmed, 7–2; state proceedings on the injury claims continue.",
+      "sha256": "19f7f6543ca37ab2043c5338b25d18352490ae0c06fc07ebbaef034b607d1f17"
+    },
+    "Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md": {
+      "date": "1994-03-07",
+      "result": "**Result:** Sixth Circuit reversed and remanded, 9–0; ultimate fair use remains unresolved.",
+      "sha256": "7a435b20ac10f1f893f103294da5c03257a8e0e7dd5e8b417e580f3910a1b7ad"
+    },
+    "Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md": {
+      "date": "1994-04-19",
+      "result": "**Result:** Tenth Circuit reversed on the pleaded private aiding-and-abetting claim, 5–4; summary judgment for Central Bank on that theory is preserved.",
+      "sha256": "098f73c40d43c8137c76cf4252ddc52c66a21b23b3b301a55c9b2081e3e2a2cf"
+    },
+    "Fogerty_v_Fantasy_Inc_merits_1994-03-01.md": {
+      "date": "1994-03-01",
+      "result": "**Result:** Ninth Circuit fee ruling reversed and remanded, 9–0; automatic recovery rejected; infringement verdict undisturbed.",
+      "sha256": "e4b13ee09db568051cf5b48d0f84373397a58bc6be3b283a449d43372f2d2857"
+    },
+    "JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md": {
+      "date": "1994-04-19",
+      "result": "**Result:** Alabama Court of Civil Appeals reversed and remanded, 7–2, for the equal-protection jury-selection inquiry and a new trial if the strikes cannot lawfully be sustained.",
+      "sha256": "94db6cbb73c4b6867235fc64888a63bd77f6701cddd483191feea6e1d0ed3678"
+    },
+    "Liteky_v_United_States_merits_1994-03-07.md": {
+      "date": "1994-03-07",
+      "result": "**Result:** Eleventh Circuit affirmed, 9–0; ordinary objective §455(a) appearance rule controls by five votes; four concur in the judgment.",
+      "sha256": "02e823c4f0c3b5630abfef843ca3731dc64bc98a2e2877cd527f5c3ab8ccea30"
+    },
+    "McDermott_Inc_v_AmClyde_merits_1994-04-20.md": {
+      "date": "1994-04-20",
+      "result": "**Result:** Fifth Circuit reversed as to River Don’s dollar settlement credit and remanded, 9–0; the AmClyde contract ruling remains undisturbed.",
+      "sha256": "740e2a2d9e5df08add00321a5e4a2df4f7e67c09bed2c92102aca552780d42b8"
+    },
+    "Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md": {
+      "date": "1994-04-04",
+      "result": "**Result:** Oregon Supreme Court judgment reversed and remanded, 8–1, on the challenged origin-based surcharge.",
+      "sha256": "c9f388438df965da67cadbecb0739811123c09bd17ca41ddb4ddb267b019aa6e"
+    },
+    "Powell_v_Nevada_merits_1994-03-30.md": {
+      "date": "1994-03-30",
+      "result": "**Result:** Nevada Supreme Court judgment vacated and remanded, 8–1; suppression and other remedial grounds remain unresolved.",
+      "sha256": "d52791dc518dc6b4b8b8c82dd18f10735fe6817eccda9aa240aaa27509322b70"
+    },
+    "Ticor_Title_Insurance_Co_v_Brown_DIG_1994-04-04.md": {
+      "date": "1994-04-04",
+      "result": "**Result:** Writ dismissed as improvidently granted, 7–2; Ninth Circuit judgment undisturbed; no substantive opt-out holding.",
+      "sha256": "0cc842236a110edfd2bc493a592f9e76e14a0f79ade5110b1b554115ee179cad"
+    },
+    "United_States_v_Granderson_merits_1994-03-22.md": {
+      "date": "1994-03-22",
+      "result": "**Result:** Eleventh Circuit affirmed, 8–1; six Justices adopt a two-to-six-month custodial range on this record.",
+      "sha256": "f1b9c7203c4286e761f14d14f2ff580375bd2a42020ff76c68a0d1dabae9666b"
+    },
+    "Victor_v_Nebraska_and_Sandoval_v_California_merits_1994-03-22.md": {
+      "date": "1994-03-22",
+      "result": "**Result:** Both instruction judgments affirmed: Victor 6–3; Sandoval 9–0 on the question reviewed.",
+      "sha256": "9d03559274259ddbcf2b7f7b29c77225c59080e1e23f1b84c4d66a87e3afcf71"
+    }
+  },
+  "holding_explanation_word_counts": {
+    "American_Dredging_Co_v_Miller_merits_1994-02-23.md": [
+      158,
+      158
+    ],
+    "Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md": [
+      161,
+      157,
+      161,
+      162,
+      159
+    ],
+    "Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md": [
+      191
+    ],
+    "Fogerty_v_Fantasy_Inc_merits_1994-03-01.md": [
+      159,
+      156
+    ],
+    "JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md": [
+      170,
+      167
+    ],
+    "Liteky_v_United_States_merits_1994-03-07.md": [
+      170,
+      165
+    ],
+    "McDermott_Inc_v_AmClyde_merits_1994-04-20.md": [
+      165,
+      159
+    ],
+    "Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md": [
+      161,
+      163,
+      163
+    ],
+    "Powell_v_Nevada_merits_1994-03-30.md": [
+      161,
+      161
+    ],
+    "Ticor_Title_Insurance_Co_v_Brown_DIG_1994-04-04.md": [
+      157
+    ],
+    "United_States_v_Granderson_merits_1994-03-22.md": [
+      171,
+      156
+    ],
+    "Victor_v_Nebraska_and_Sandoval_v_California_merits_1994-03-22.md": [
+      163,
+      163,
+      161,
+      160
+    ]
+  },
+  "local_links_checked": 352,
+  "vote_receipt_files": [
+    "OT_1993CHUNK3_ASSEMBLY_A_VOTES.json",
+    "OT_1993CHUNK3_ASSEMBLY_B_VOTES.json",
+    "OT_1993CHUNK3_ASSEMBLY_C_VOTES.json",
+    "OT_1993CHUNK3_ASSEMBLY_LT_VOTES.json"
+  ],
+  "errors": [],
+  "warnings": [],
+  "git_checks": "DEFERRED; not executed",
+  "scope": "Clerical checks only; legal meaning assessed in staged contexts"
+}

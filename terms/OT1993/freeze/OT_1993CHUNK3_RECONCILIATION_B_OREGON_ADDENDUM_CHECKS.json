@@ -1,0 +1,18 @@
+{
+  "prior_freezes_preserved": {
+    "terms/OT1993/freeze/OT_1993CHUNK3_RECONCILED_B.md": true,
+    "terms/OT1993/runtime/OT_1993CHUNK3_RECONCILED_B.md": true,
+    "terms/OT1993/freeze/OT_1993CHUNK3_COMMITMENTS_B.md": true,
+    "terms/OT1993/runtime/OT_1993CHUNK3_COMMITMENTS_B.md": true
+  },
+  "addendum_mirror_byte_identical": true,
+  "source_read": "Fort Gratiot 504 U.S.353-373, all 21 PDF pages extracted and read, including full dissent and footnotes",
+  "corrected_blackmun_oregon_disposition": "affirm rejection of facial challenge",
+  "git_commands_run": false,
+  "sha256": {
+    "terms/OT1993/freeze/OT_1993CHUNK3_RECONCILED_B_OREGON_ADDENDUM.md": "9060b482d2441b515a601802410614da98ed16473a7c4054f96e687f74824bb3",
+    "terms/OT1993/runtime/OT_1993CHUNK3_RECONCILED_B_OREGON_ADDENDUM.md": "9060b482d2441b515a601802410614da98ed16473a7c4054f96e687f74824bb3",
+    "terms/OT1993/freeze/chunk3-sources/FortGratiot-504353.pdf": "12be5cf06f47f9c4e667506eac7461c44bd9c78408823afe5d29a27934062169",
+    "terms/OT1993/freeze/chunk3-sources/FortGratiot-504353.txt": "998424f9c195ce51b92b5510576bf4b441a6505bd08ee7f799275beb091147f2"
+  }
+}

@@ -1,0 +1,23 @@
+# OT1993 chunk 3 Run control
+
+User expressly directed Run and approved all Section II positions in OT_1993CHUNK3.md as written. No additional approval is needed merely because a source file describes preparation status.
+
+Mode: isolated scoped agent contexts for neutral modeling, fresh historical reconciliation, and assembly. A control context may inspect withheld materials but does not produce non-Stone commitments. General model knowledge cannot be erased. An incidental search exposure affecting neutral A's Fogerty/Campbell work occurred before any commitment; those two matters are reassigned to a fresh scoped neutral context. American Dredging and Liteky were not affected. The exposure is preserved, not described as blindness.
+
+The user prohibits every Git command and restricts writes to terms/OT1993/ and tmp/. Freeze means durable on-disk preservation and fresh-context availability in this Run; no Git commit is claimed. Existing ledger order and metadata will be preserved without verification; new records will be staged in effective order. Git object existence and history-based order are deferred, not passed. Temporary wrapper invokes the repository's ledger/check main routines while replacing only Git-dependent callbacks; a guard rejects an accidental Git subprocess.
+
+The approved brief is untouched. tools/split_chunk.py regenerated all three homogeneous runtime splits. Group subsets are verbatim mechanical selections. The entering-law file was generated using tools/build_entering_law.py plus verbatim selected Holdings and current Record Public Projection copies; it does not create authority. Current state and foundation are read-only. Opening Holdings synchronization passed.
+
+The supplied inherited paths refer to current state/HOLDINGS.md, state/STANDARDS_AND_TESTS.md, state/STANDING_STATE.md and foundation/COURT_COMPOSITION.md by the user's statement of byte identity at b83e0fd. This Run does not verify that Git object. No actual inherited/ directory is required. State processed-through values are July 26, 1993, OT1992 close, edition September 17, 2026; the current-term cursor begins February 23, 1994 with American Dredging remaining in the uncoordinated same-day group.
+
+All February 23 decisions share their pre-day baseline. Later current-term law is date-filtered. Ratzlaf supplies relevant prior lenity law for Granderson; Weiss is bounded independence context for Liteky; NOW and Meyer are bounded cause-of-action context for Central Bank; Northwest does not convert import-origin regulation into an airport user-fee case. Within this chunk, initially no proposed ruling supplies a necessary substantive premise for another; each will receive a final effective-state dependency check. McDermott must be carried into next chunk before the expressly sequenced Boca Grande action.
+
+Run creates Records, workspace projections and generated Render Input. Render is a separate task. Prior stopped Day, Sassower and Cavanaugh matters and seven standing carryovers remain open with their existing exact blockers and stages.
+
+## Completion
+
+All twelve matters are assembled. The factual refreshes and final reconciliation handoffs are identified in the generated commitment/reconciliation indexes; their source files remain preserved. Eight non-Stone commitments per matter were reconciled before Stone entered assembly. The earlier unsupported Oregon Blackmun departure was withdrawn; the final handoff controls. All final legal and source limits, exact component votes and distinct remedies are carried into the Records and generated Render Input.
+
+The ledger and manifest are rebuilt; cumulative continuity and sanitized neutral projection now run through April 20 after McDermott, with the Boca Grande sequence still open. The normal Render Input builder copied twelve Public Projections. The actual term checker passed all non-Git checks with zero warnings; final checks passed for twelve Records, 28 explanation blocks, vote membership, 352 local links, identity and preservation. Only the four authorized workspace projections changed among 875 baseline files; 871 remain byte-identical. No public output was written. See [final validation](OT_1993CHUNK3_VALIDATION.md) and [machine receipt](OT_1993CHUNK3_FINAL_CHECKS.json).
+
+No Git command was executed. Git history, commit-object checks, snapshot-commit verification and commitment remain explicitly deferred to the operator. The two raw reference candidates reported by the legacy checker's scanner were not authenticated or asserted to be commits. Durable preservation is complete, but no Git freeze commit is claimed.

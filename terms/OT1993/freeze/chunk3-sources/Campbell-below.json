@@ -1,0 +1,1419 @@
+{
+  "id": 1871072,
+  "name": "ACUFF-ROSE MUSIC, INC., . Plaintiff-Appellant, v. Luther R. CAMPBELL, a/k/a Luke Skyywalker; Christopher Wongwon, a/k/a Fresh Kid Ice; Mark Ross, a/k/a Brother Marquis; David Hobbs, a/k/a Mr. Mixx; professionally known as 2 Live Crew; Luke Skyywalker Records, Defendants-Appellees",
+  "name_abbreviation": "Acuff-Rose Music, Inc. v. Campbell",
+  "decision_date": "1992-08-17",
+  "docket_number": "No. 91-6225",
+  "first_page": "1429",
+  "last_page": "1446",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "972 F.2d 1429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "6th Cir.",
+    "id": 8864,
+    "name": "United States Court of Appeals for the Sixth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "439 U.S. 1132",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11457539,
+        11457668,
+        11457575,
+        11457288,
+        11457384,
+        11457610,
+        11457359,
+        11457329,
+        11457269,
+        11457407,
+        11457464,
+        11457498,
+        11457307,
+        11457434
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/1132-11",
+        "/us/439/1132-14",
+        "/us/439/1132-12",
+        "/us/439/1132-02",
+        "/us/439/1132-06",
+        "/us/439/1132-13",
+        "/us/439/1132-05",
+        "/us/439/1132-04",
+        "/us/439/1132-01",
+        "/us/439/1132-07",
+        "/us/439/1132-09",
+        "/us/439/1132-10",
+        "/us/439/1132-03",
+        "/us/439/1132-08"
+      ]
+    },
+    {
+      "cite": "623 F.2d 252",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1277859
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/623/0252-01"
+      ]
+    },
+    {
+      "cite": "482 F.Supp. 741",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5764366
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/482/0741-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1125",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 L.Ed.2d 177",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 213",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "484 U.S. 890",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601056,
+        600521,
+        599562,
+        600685,
+        600467,
+        600885,
+        600666
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0890-02",
+        "/us/484/0890-03",
+        "/us/484/0890-05",
+        "/us/484/0890-06",
+        "/us/484/0890-04",
+        "/us/484/0890-07",
+        "/us/484/0890-01"
+      ]
+    },
+    {
+      "cite": "818 F.2d 252",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716249
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/0252-01"
+      ]
+    },
+    {
+      "cite": "811 F.2d 90",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1165550
+      ],
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/811/0090-01"
+      ]
+    },
+    {
+      "cite": "59 L.Ed.2d 94",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S.Ct. 1054",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "581 F.2d 751",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        861982
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "757"
+        },
+        {
+          "page": "757"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/581/0751-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 251",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 297",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "904 F.2d 152",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534094
+      ],
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/0152-01"
+      ]
+    },
+    {
+      "cite": "794 F.2d 432",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1591029
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "437"
+        },
+        {
+          "page": "438, n. 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/794/0432-01"
+      ]
+    },
+    {
+      "cite": "677 F.2d 180",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        557447
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "182"
+        },
+        {
+          "page": "182"
+        },
+        {
+          "page": "183-85"
+        },
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/677/0180-01"
+      ]
+    },
+    {
+      "cite": "125 F. 977",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        65619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/125/0977-01"
+      ]
+    },
+    {
+      "cite": "960 F.2d 301",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520812
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "309"
+        },
+        {
+          "page": "309-10"
+        },
+        {
+          "page": "311"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "309-10"
+        },
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/960/0301-01"
+      ]
+    },
+    {
+      "cite": "621 F.2d 57",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        482290
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/621/0057-01"
+      ]
+    },
+    {
+      "cite": "495 U.S. 207",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        633900
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "236",
+          "parenthetical": "quoting Iowa State Univ. Research Found., Inc. v. American Broadcasting Cos., 621 F.2d 57, 60 (2d Cir.1980)"
+        },
+        {
+          "page": "1768",
+          "parenthetical": "quoting Iowa State Univ. Research Found., Inc. v. American Broadcasting Cos., 621 F.2d 57, 60 (2d Cir.1980)"
+        },
+        {
+          "parenthetical": "quoting Iowa State Univ. Research Found., Inc. v. American Broadcasting Cos., 621 F.2d 57, 60 (2d Cir.1980)"
+        },
+        {
+          "page": "238"
+        },
+        {
+          "page": "1769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0207-01"
+      ]
+    },
+    {
+      "cite": "464 U.S. 417",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200302
+      ],
+      "weight": 12,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "448"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "449"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "451"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "449"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "451"
+        },
+        {
+          "page": "793",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0417-01"
+      ]
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 106",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(1) and (2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 102",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "744 F.2d 1490",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        598673
+      ],
+      "pin_cites": [
+        {
+          "page": "1495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/744/1490-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 539",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206269
+      ],
+      "weight": 26,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "560"
+        },
+        {
+          "page": "2230"
+        },
+        {
+          "page": "560"
+        },
+        {
+          "page": "2230"
+        },
+        {
+          "page": "549"
+        },
+        {
+          "page": "2224",
+          "parenthetical": "quoting H. Ball, Law of Copyright and Literary Property, 260 (1944)"
+        },
+        {
+          "page": "549"
+        },
+        {
+          "page": "2224"
+        },
+        {
+          "page": "549"
+        },
+        {
+          "page": "2224"
+        },
+        {
+          "page": "562"
+        },
+        {
+          "page": "2231"
+        },
+        {
+          "page": "562"
+        },
+        {
+          "page": "2231"
+        },
+        {
+          "page": "562"
+        },
+        {
+          "page": "2231"
+        },
+        {
+          "page": "563"
+        },
+        {
+          "page": "2232"
+        },
+        {
+          "page": "565"
+        },
+        {
+          "page": "2233"
+        },
+        {
+          "page": "2233"
+        },
+        {
+          "page": "566"
+        },
+        {
+          "page": "2233"
+        },
+        {
+          "page": "568"
+        },
+        {
+          "page": "2234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0539-01"
+      ]
+    },
+    {
+      "cite": "135 F.2d 73",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3659696
+      ],
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/135/0073-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed.2d 856",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 2201",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "481 U.S. 1059",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6385381,
+        6385194,
+        6385070,
+        6384849,
+        6384954
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/1059-05",
+        "/us/481/1059-04",
+        "/us/481/1059-03",
+        "/us/481/1059-01",
+        "/us/481/1059-02"
+      ]
+    },
+    {
+      "cite": "803 F.2d 1253",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1629597
+      ],
+      "pin_cites": [
+        {
+          "page": "1257-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/803/1253-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "255"
+        },
+        {
+          "page": "2513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "322"
+        },
+        {
+          "page": "2552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "904 F.2d 331",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536240
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/0331-01"
+      ]
+    },
+    {
+      "cite": "754 F.Supp. 1150",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7389127
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "1153"
+        },
+        {
+          "page": "1154-59"
+        },
+        {
+          "page": "1154"
+        },
+        {
+          "page": "1155-56"
+        },
+        {
+          "page": "1157"
+        },
+        {
+          "page": "1158"
+        },
+        {
+          "page": "1159-60"
+        },
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/754/1150-01"
+      ]
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 107",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 U.S. 1132",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11457539,
+        11457668,
+        11457575,
+        11457288,
+        11457384,
+        11457610,
+        11457359,
+        11457329,
+        11457269,
+        11457407,
+        11457464,
+        11457498,
+        11457307,
+        11457434
+      ],
+      "year": 1979,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/439/1132-11",
+        "/us/439/1132-14",
+        "/us/439/1132-12",
+        "/us/439/1132-02",
+        "/us/439/1132-06",
+        "/us/439/1132-13",
+        "/us/439/1132-05",
+        "/us/439/1132-04",
+        "/us/439/1132-01",
+        "/us/439/1132-07",
+        "/us/439/1132-09",
+        "/us/439/1132-10",
+        "/us/439/1132-03",
+        "/us/439/1132-08"
+      ]
+    },
+    {
+      "cite": "1 Cranch 137",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        6759998,
+        6760011,
+        12121622
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/dc/1/0137-01",
+        "/dc/1/0137-02",
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "654 F.2d 204",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1257817
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/654/0204-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379234
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/376/0254-01"
+      ]
+    },
+    {
+      "cite": "5 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12121622
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "3 W.New Eng.L.Rev. 39",
+      "category": "journals:journal",
+      "reporter": "W. New Eng. L. Rev.",
+      "year": 1980,
+      "opinion_index": 1
+    },
+    {
+      "cite": "17 U.S.C.A. \u00a7 107",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "99 5.Ct. 1054",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 1
+    },
+    {
+      "cite": "422 U.S. 151",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9630
+      ],
+      "weight": 4,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "156"
+        },
+        {
+          "page": "2043"
+        },
+        {
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/422/0151-01"
+      ]
+    },
+    {
+      "cite": "97 Harv.L.Rev. 1395",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1408"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "57 Wash.L.Rev. 163",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "year": 1981,
+      "opinion_index": 1
+    },
+    {
+      "cite": "693 F.Supp. 1517",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7399179
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1525"
+        },
+        {
+          "page": "1528"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/693/1517-01"
+      ]
+    },
+    {
+      "cite": "479 F.Supp. 351",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4115466
+      ],
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/479/0351-01"
+      ]
+    },
+    {
+      "cite": "137 F.Supp. 348",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4267731
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/137/0348-01"
+      ]
+    },
+    {
+      "cite": "13 L.Ed.2d 33",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "parenthetical": "Mad Magazine parodies of Irving Berlin songs held to be fair use"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "85 S.Ct. 46",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "parenthetical": "Mad Magazine parodies of Irving Berlin songs held to be fair use"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "379 U.S. 822",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11740003,
+        11740111,
+        11739793,
+        11739858,
+        11740185,
+        11739643,
+        11739934
+      ],
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "parenthetical": "Mad Magazine parodies of Irving Berlin songs held to be fair use"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/379/0822-05",
+        "/us/379/0822-06",
+        "/us/379/0822-02",
+        "/us/379/0822-03",
+        "/us/379/0822-07",
+        "/us/379/0822-01",
+        "/us/379/0822-04"
+      ]
+    },
+    {
+      "cite": "329 F.2d 541",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        124537
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "545"
+        },
+        {
+          "page": "545"
+        },
+        {
+          "page": "545"
+        },
+        {
+          "page": "544-45"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/329/0541-01"
+      ]
+    },
+    {
+      "cite": "78 S.Ct. 667",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6161078
+      ],
+      "weight": 2,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "parenthetical": "Jack Benny's parody of the motion picture \"Gaslight\" held not to be fair use of the original"
+        },
+        {
+          "parenthetical": "Jack Benny's parody of the motion picture \"Gaslight\" held not to be fair use of the original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/356/0043-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 43",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6161121,
+        6161078
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "parenthetical": "Jack Benny's parody of the motion picture \"Gaslight\" held not to be fair use of the original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/356/0043-02",
+        "/us/356/0043-01"
+      ]
+    },
+    {
+      "cite": "239 F.2d 532",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        14235
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/239/0532-01"
+      ]
+    },
+    {
+      "cite": "131 F.Supp. 165",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4260075
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/131/0165-01"
+      ]
+    },
+    {
+      "cite": "293 F.Supp. 130",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        2896330
+      ],
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/293/0130-01"
+      ]
+    },
+    {
+      "cite": "104 F.2d 661",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1059737
+      ],
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/104/0661-01"
+      ]
+    },
+    {
+      "cite": "623 F.2d 252",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1277859
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/623/0252-01"
+      ]
+    },
+    {
+      "cite": "482 F.Supp. 741",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5764366
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/482/0741-01"
+      ]
+    },
+    {
+      "cite": "59 L.Ed.2d 94",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "opinion_index": 1
+    },
+    {
+      "cite": "581 F.2d 751",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        861982
+      ],
+      "pin_cites": [
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/581/0751-01"
+      ]
+    },
+    {
+      "cite": "794 F.2d 432",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1591029
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "436"
+        },
+        {
+          "page": "440"
+        },
+        {
+          "page": "439"
+        },
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/794/0432-01"
+      ]
+    },
+    {
+      "cite": "677 F.2d 180",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        557447
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "191"
+        },
+        {
+          "page": "185"
+        },
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/677/0180-01"
+      ]
+    },
+    {
+      "cite": "960 F.2d 301",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520812
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/960/0301-01"
+      ]
+    },
+    {
+      "cite": "464 U.S. 417",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200302
+      ],
+      "weight": 8,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "451"
+        },
+        {
+          "page": "793"
+        },
+        {
+          "page": "431"
+        },
+        {
+          "page": "783"
+        },
+        {
+          "page": "429"
+        },
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/464/0417-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 539",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206269
+      ],
+      "weight": 9,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "549"
+        },
+        {
+          "page": "2224"
+        },
+        {
+          "page": "562"
+        },
+        {
+          "page": "2231"
+        },
+        {
+          "page": "564"
+        },
+        {
+          "page": "2232"
+        },
+        {
+          "page": "568"
+        },
+        {
+          "page": "2234"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/471/0539-01"
+      ]
+    },
+    {
+      "cite": "754 F.Supp. 1150",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7389127
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1155"
+        },
+        {
+          "page": "1157"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/754/1150-01"
+      ]
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 107",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis supplied"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 2432,
+    "char_count": 66130,
+    "ocr_confidence": 0.786,
+    "pagerank": {
+      "raw": 1.1673919244146299e-07,
+      "percentile": 0.5854580711076206
+    },
+    "sha256": "9189d2663f5a0641fcc4599d1fc09f01fe06526cb1820436c713edafa7e3bf74",
+    "simhash": "1:cb42713abd5777fb",
+    "word_count": 11154
+  },
+  "last_updated": "2024-02-27T16:08:37.376252+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: NELSON and NORRIS, Circuit Judges; and JOINER, Senior District Judge."
+    ],
+    "parties": [
+      "ACUFF-ROSE MUSIC, INC., . Plaintiff-Appellant, v. Luther R. CAMPBELL, a/k/a Luke Skyywalker; Christopher Wongwon, a/k/a Fresh Kid Ice; Mark Ross, a/k/a Brother Marquis; David Hobbs, a/k/a Mr. Mixx; professionally known as 2 Live Crew; Luke Skyywalker Records, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "JOINER, Senior District Judge.\nIn this copyright case, plaintiff appeals summary judgment granted to defendants. The district court held that defendants\u2019 use of a song owned by plaintiff was a parody and therefore constituted a fair use of copyrighted material under section 107 of the Copyright Act, 17 U.S.C. \u00a7 101 et seq.\nThe 2 Live Crew, a rap music group, released for commercial distribution a version of Acuff-Rose Music\u2019s copyrighted song, \u201cOh, Pretty Woman.\u201d Acuff-Rose sued The 2 Live Crew, its individual members and its record company for copyright infringement and alleged pendent state law claims of interference with business relations and' interference with prospective business advantage. Defendants filed a motion for dismissal, which was treated as a motion for summary judgment. The district court granted summary judgment, holding that The 2 Live Crew had created a parody and that the parody was a non-infringing \u201cfair use\u201d of the song as defined by section 107 of the 1976 Copyright Act. 17 U.S.C. \u00a7 107. We reverse.\nI.\n\u201cOh, Pretty Woman\u201d was written and recorded by Roy Orbison and William Dees in 1964. Rights to the song were assigned to Acuff-Rose that same year, and Acuff-Rose registered for copyright protection. The song has become a pop music standard, and Acuff-Rose has realized substantial income from the licensing of \u201ccover\u201d recordings and other derivative works.\nLuther Campbell, lead vocalist and song writer of The 2 Live Crew (2 Live Crew), wrote a version of \u201cOh, Pretty Woman\u201d in May 1989, which he entitled \u201cPretty Woman.\u201d By affidavit, Campbell stated that he had intended to create a parody as an attempt \u201cthrough comical lyrics, to satirize the original work....\u201d In June 1989, Campbell\u2019s company, Luke Records (then doing business as Skyywalker Records), released \u201cPretty Woman\u201d as one of ten tracks on a collection entitled \u201cAs Clean As They Wanna Be.\u201d The credits on the album recognize Orbison and Dees as the writers of \u201cPretty Woman,\u201d and Acuff-Rose as publisher of the song.\nOn July 5, 1989, following release of the album, Linda Fine, general manager of Luke Records, wrote a letter to Gerald Tiefer of Opryland Music Group (of which Acuff-Rose is a part) to \u201cinform [Tiefer] of \u2018Two Live Crew\u2019s\u2019 desire to do a parody\u201d of \u201cOh, Pretty Woman.\u201d Fine stressed that a parody was intended and that the popularity of 2 Live Crew ensured substantial sales:\nAt the time of this writing the Group has a cut on the Billboard Rap Chart. I have enclosed a copy of the lyrics, so that you may see their satirical parody, very similar in vain [sic] to what Weird Al Yankovic and other satirical artists are doing.\nWe intend that all credits (writer & publisher) show your complete ownership of the song, and of course we intend to pay statutory rates.\nKindly keep in mind that we present this to you in a humorous sense and in no way should this be construed as anything but a novelty record that will be heard by hundreds of thousands of new listeners in their homes.\nFine included a cassette tape of 2 Live Crew\u2019s version of the song and a lyric sheet for Tiefer to consider.\nTiefer responded tersely: \u201cI am aware of the success enjoyed by \u2018The 2 Live Crews\u2019, but I must inform you that we cannot permit the use of a parody of \u2018Oh, Pretty Woman.\u2019 \u201d This refusal to grant a license did not dissuade 2 Live Crew from continuing to sell \u201cAs Clean As They Wanna Be.\u201d\nAcuff-Rose brought suit in June 1990 and defendants responded by filing a motion to dismiss, accompanied by affidavits, and sought to deposit $13,867.56. This amount was apparently calculated after reference to statutory royalty rates established by the Copyright Act, and reflected defendants\u2019 understanding of what was owed to Acuff-Rose for use of the copyrighted song. The district court ordered the funds deposited with the Clerk of Court. Acuff-Rose responded with affidavits, which the district court relied upon when granting summary judgment.\nAmong the affidavits presented, defendants presented that of Oscar Brand. Brand, who has himself recorded a number of songs which he terms \u201cparodies,\u201d stated his opinion that \u201cboth the words and the music of the 2 Live Crew performance are classic parodies.\u201d Brand dissected the two songs and found substantial similarities of musical structure between them. The 2 Live Crew version has the same 4/4 drum beat as the original and includes a \u201cvery recognizable \u2018bass riff,\u2019 \u201d which \u201cis repeated eight times....\u201d However, the 2 Live Crew version diverges from the original by following the recognizable riff with \u201can atypical scraper \u2014 a Latin musical device, quite antithetic to the Orbison musical styling.\u201d Further, in the 2 Live Crew version, the lead vocalist sings (or raps) \u201cin the key of B major, which, performed against the A major chorus, gives the song a comic aspect.\u201d\nLyrically, Brand found \u201cPretty Woman\u201d to be consistent with a long tradition in the United States of making social commentary through music. African-American rap music, Brand stated, uses parody as a form of protest, and often substitutes new words to \u201cmake fun of the \u2018white-bread\u2019 originals and the establishment....\u201d In \u201cPretty Woman,\u201d Brand concluded, \u201cthis anti-establishment singing group is trying to show how bland and banal the Orbison song seems to them. It\u2019s just one of many examples of their derisive approach to \u2018white-centered\u2019 popular music.\u201d\nAcuff-Rose presented the affidavit of Ph.D. musicologist Earl V. Speilman. Speilman also examined and compared the two songs and determined that there is \u201ca significant amount of similarity\u201d between them. Speilman identified five specific similarities, including the repetition of the recognizable riff, which \u201cmay have actually been sampled or lifted and then incorporated into the recording of \u2018Pretty Woman\u2019 as performed by The 2 Live Crew.\u201d Speilman concluded that even a listener without musical training would readily discern that \u201cPretty Woman\u201d was modelled after \u201cOh, Pretty Woman.\u201d\nThe district court determined that there were no genuine issues of fact material to the question of fair use in dispute, and that the case was therefore suitable for summary judgment. Acuff-Rose Music, Inc. v. Campbell, 754 F.Supp. 1150, 1153 (M.D.Tenn.1991). The court then analyzed the factors by which an alleged infringing use is tested for fairness under section 107 of the Act. Id. at 1154-59.\nFollowing the district court\u2019s determination that \u201cPretty Woman\u201d was a parody, Acuff-Rose filed motions to distribute the funds deposited by 2 Live Crew with the Clerk of Court, and sought reconsideration of the fair use determination by introducing additional evidence on the question of the impact of the parody upon the market value of the copyrighted original. Based upon its determination of fair use, the district court granted summary judgment and ordered the funds returned to 2 Live Crew.\nII.\nWe review the district court\u2019s grant of summary judgment de novo. EEOC v. University of Detroit, 904 F.2d 331, 334 (6th Cir.1990). Summary judgment is appropriate if the non-moving party fails to establish a genuine issue of material fact on an element essential to its case and on which it would bear the burden of proof at trial. Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S.Ct. 2548, 2552, 91 L.Ed.2d 265 (1986). In making that determination, we view the evidence in the record in the light most favorable to the non-moving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 2513, 91 L.Ed.2d 202 (1986).\nThese general principles apply to the question of fair use, Maxtone-Graham v. Burtchaell, 803 F.2d 1253, 1257-58 (2d Cir.1986), cert. denied, 481 U.S. 1059, 107 S.Ct. 2201, 95 L.Ed.2d 856 (1987), which is a mixed question of law and fact. Mathews Conveyor Co. v. Palmer Bee Co., 135 F.2d 73, 85 (6th Cir.1943); Harper & Row Publishers v. Nation Enter., 471 U.S. 539, 560, 105 S.Ct. 2218, 2230, 85 L.Ed.2d 588 (1985). In reviewing the district court\u2019s determination of fair use, when that court has found facts sufficient to evaluate each of the factors enumerated in section 107 of the Copyright Act, we \u201c \u2018need not remand for further factfinding ... [but] may conclude as a matter of law that [the challenged use] do[es] not qualify as a fair use of the copyrighted work.\u2019 \u201d Harper & Row, 471 U.S. at 560, 105 S.Ct. at 2230 (quoting Pacific & S. Co. v. Duncan, 744 F.2d 1490, 1495 (11th Cir.1984)). Our review of the record shows that no material facts are in dispute. The parties dispute the ultimate conclusions to be drawn from the facts. These judgments are legal in nature.\nIII.\nSection 102(a) of the Copyright Act, adopted under the express authority of Art. I, Section 8 of the United States Constitution granting Congress the power to give authors exclusive rights to their writings, protects \u201cmusical works, including any accompanying words.\u201d 17 U.S.C. \u00a7 102(a)(2). Section 106 of the Act grants to the copyright holder a variety of exclusive rights in the copyrighted work, including the right to \u201creproduce the copyrighted work in copies or phonorecords,\u201d and to \u201cprepare derivative works based upon the copyrighted work.\u201d 17 U.S.C. \u00a7 106(1) and (2). The words and music to plaintiff\u2019s song \u201cOh Pretty Woman\u201d are subject to these protections. However, plaintiff\u2019s exclusive rights are also subject to the provisions of sections 107 through 118 of the Act, which create exemptions and limitations on the owner\u2019s rights.\nSection 107 of the Copyright Act states:\nNotwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include\u2014\n(1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;\n(2) the nature of the copyrighted work;\n(3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and\n(4) the effect of the use upon the potential market for or value of the copyrighted work.\n17 U.S.C. \u00a7 107. In this case 2 Live Crew defends against a charge of copyright infringement by arguing that \u201cPretty Woman\u201d falls within the exceptions spelled out in section 107.\nIn determining the scope and extent of the exceptions and limitations to copyright protection carved out by section 107, it is important to focus on the plain language of that section and the directions implicit in its form. Section 107 takes from a copyright owner the exclusive rights to his work insofar as a derivative, or allegedly infringing work, is a \u201cfair use\u201d of the copyrighted work. Traditionally, fair use is defined as \u201c \u2018a privilege in others than the owner of the copyright to use the copyrighted material in a reasonable manner without his consent.\u2019 \u201d Harper & Row, 471 U.S. at 549, 105 S.Ct. at 2224 (quoting H. Ball, Law of Copyright and Literary Property, 260 (1944)). Fair use is an \u201cequitable rule of reason,\u201d Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, 448, 104 S.Ct. 774, 792, 78 L.Ed.2d 574 (1984), which is used in order to \u201cavoid rigid application of the copyright statute when, on occasion, it would stifle the very creativity which that law is designed to foster.\u201d Stewart v. Abend, 495 U.S. 207, 236, 110 S.Ct. 1750, 1768, 109 L.Ed.2d 184 (1990) (quoting Iowa State Univ. Research Found., Inc. v. American Broadcasting Cos., 621 F.2d 57, 60 (2d Cir.1980)). Fair use is the only exception to a copyright holder\u2019s exclusive rights in his work, but section 107 explains that the overarching concept of fair use embraces use of a copyrighted work for the purpose of \u201ccriticism, comment, news reporting, teaching, scholarship, or research.\u201d\nAs the jurisprudence of section 107 has developed, the courts have found that the section\u2019s recognition of \u201ccomment\u201d and \u201ccriticism\u201d as species of fair use also, by practical extension of those terms, includes the use of a copyrighted work (or a portion thereof) as a parody or satire of that work. Rogers v. Koons, 960 F.2d 301, 309 (2d Cir.1992). Indeed, the fair use formulation found in section 107 is a reflection of Congress\u2019s intent to codify the common law fair use doctrine, which has long included parody. Harper & Row, 471 U.S. at 549, 105 S.Ct. at 2224; see also Bloom & Hamlin v. Nixon, 125 F. 977 (C.C.E.D.Pa.1903) (a parody fair use involving vaudeville impersonations). Therefore, it is understandable that both the parties and the district court focus on parody in their analyses of fair use. However, because the text of section 107 lists specific fair uses, we find that the term parody must be either subsumed within the statutory terms \u201ccriticism\u201d or \u201ccomment,\u201d or be an entirely separate category of exception.\nUnfortunately, the terminology of the fair use analysis has evolved in such a way that the popular definition of parody and the statutory definition of parody as a form of criticism have become somewhat confused. Popularly, the term parody may be described as \u201cwhen one \u00e1rtist, for comic effect or social commentary, closely imitates the style of another artist and in so doing creates a new artwork that makes ridiculous the style and expression of the original.\u201d Rogers, 960 F.2d at 309-10. This popular definition has been used on occasion as a synonym for that which is necessary to create an exception to the exclusive rights in a copyrighted work. This use, we find, creates confusion and should be avoided. Much of entertainment involves parodies in the popular sense, but section 107 does not direct the courts to conclude that all such parodies are fair uses. For the purposes of this opinion, we will assume, as found by the district court, that 2 Live Crew\u2019s song is a parody of Acuff-Rose\u2019s copyrighted song, and proceed to determine whether the calculus of section 107 results in a determination of fair use. That determination requires careful application of the four statutory factors. Harper & Row, 471 U.S. at 549, 105 S.Ct. at 2224; 3 M. Nimmer, Nimmer on Copyright, \u00a7 13.05[A] at 13-82.1. Although the question of fair use in the context of musical works is one of first impression in this circuit, we do not write on a clean slate.\nPurpose and Character of Use\nWe look first to the purpose and character of the use of Acuff-Rose\u2019s song by 2 Live Crew. We accept the district court\u2019s conclusion that the purpose of the use was to parody the original. We consider the character of the use separately. The use of a copyrighted work primarily for commercial purposes has been held by the Supreme Court to be presumptively unfair. Sony Corp., 464 U.S. 417, 449, 104 S.Ct. 774, 792, 78 L.Ed.2d 574 (1984). \u201cWhile commercial motivation and fair use can exist side by side, the court may consider whether the alleged infringing use was primarily for public benefit or for private commercial gain.\u201d MCA, Inc. v. Wilson, 677 F.2d 180, 182 (2d Cir.1981). The Supreme Court explained that \u201c[t]he crux of the profit/nonprofit distinction is not whether the sole motive of the use is monetary gain, but whether the user stands to profit from exploitation of the copyrighted material without paying the customary price.\u201d Harper & Row, 471 U.S. at 562, 105 S.Ct. at 2231.\nIn the instant case, the district court found, and we agree, that \u201c2 Live Crew\u2019s song is included on a commercially distributed album sold for the purpose of making a profit,\u201d and that \u201c2 Live Crew\u2019s primary goal in releasing \u2018As Clean As They Wanna Be' is to sell its music....\u201d 754 F.Supp. at 1154. However, the district court saw the Supreme Court's holdings in Sony Corp. and Harper & Row regarding the presumptively unfair nature of a commercial purpose as \u201cmerely \u2018tendpng] to weigh against a finding of fair use.\u2019 \u201d Id. (quoting Harper & Row, 471 U.S. at 562, 105 S.Ct. at 2231). We agree that commercial purpose is not itself controlling on the issue of fair use, but find that the district court placed insufficient emphasis on the command of Harper & Row, wherein the Supreme Court expressly reaffirmed its earlier holding that \u201c \u2018[Ejvery commercial use of copyrighted material is presumptively an unfair exploitation of the monopoly privilege that belongs to the owner of the copyright.\u2019 \u201d 471 U.S. at 562, 105 S.Ct. at 2231 (quoting Sony Corp., 464 U.S. at 451, 104 S.Ct. at 792). Therefore, in analyzing the purpose and character of 2 Live Crew\u2019s use of the copyrighted song, the facts in the record require that we start from the position that the use is unfair. We are asked to then consider whether 2 Live Crew met its burden to rebut the presumption by a defense, we note, requiring the court to be convinced that the \u201cparody does not unfairly diminish the economic value of the original.\u201d Fisher v. Dees, 794 F.2d 432, 437 (9th Cir.1986).\nAlthough in this case we do not set aside the district court\u2019s conclusion that 2 Live Crew\u2019s song is a criticism in the nature of a parody in the popular sense, we nevertheless find that the district court erred in the process of determining that the criticism constituted a fair use of the copyrighted work. We find that the admittedly commercial nature of the derivative work-the purpose of the work being no less important than its character in the Act\u2019s formulation-requires the conclusion that the first factor weighs against a finding of fair use. Sony Corp., 464 U.S. at 449, 104 S.Ct. at 792.\nNature of Copyrighted Work\nThe district court found that this factor weighed against a determination of fair use, and we agree. Acuff-Rose, 754 F.Supp. at 1155-56. As a general rule, creative works-literary works of fiction or artistic works-are afforded greater protection from the fair use determination than are works of fact. Harper & Row, 471 U.S. at 563, 105 S.Ct. at 2232; New Era Publications, Int\u2019l v. Carol Publishing Group, 904 F.2d 152, 157 (2d Cir.), cert. denied, - U.S. -, 111 S.Ct. 297, 112 L.Ed.2d 251 (1990). The status of \u201cOh, Pretty Woman\u201d as a creative work is not contested. In determining whether this factor should weigh in favor of the copyright holder we also ask whether the work \u201crepresented a substantial investment of time and labor made in anticipation of financial return.\u201d MCA, Inc., 677 F\u20192d at 182. The record amply supports a finding in favor of Acuff-Rose on this factor.\nPortion Used\nThe third factor we consider is the amount and substantiality of the portion of the copyrighted work used in the derivative work in relation to the copyrighted work as a whole. As applied to alleged parodies, this factor has historically turned on analysis of the \u201cconjure up\u201d test. Walt Disney Prods, v. Air Pirates, 581 F.2d 751, 757 (9th Cir.l978) cert. denied sub nom., O\u2019Neill v. Walt Disney Prods., 439 U.S. 1132, 99 S.Ct. 1054, 59 L.Ed.2d 94 (1979). The test asks \u201cwhether the parodist has appropriated a greater amount of the original work than is necessary to \u2018recall or conjure up\u2019 the object of his satire.\u201d Id. The test describes a continuum of use, and not only scrutinizes the extent of the taking, but the qualitative nature of that taking. Harper & Row, 471 U.S. at 565, 105 S.Ct. at 2233. A de minimis use, one that is meager and fragmentary, by definition fails to conjure up the original and does not constitute an infringement. Elsmere, 482 F.Supp. at 744. The 2 Live Crew, appropriately, does not attempt to characterize its use of the copyrighted work as de minim-is. Uses which depart from the de minim-is level may nevertheless be fair uses, but at some point on the continuum this factor militates against a finding of fair use. Air Pirates, 581 F.2d at 757. Parodies are generally allowed to use more of the copyrighted work and still fall within the rubric of fair use than are other types of copying:\n[T]he concept of \u2018conjuring up\u2019 an original came into the copyright law not as a limitation on how much of an original may be used, but as a recognition that a parody frequently needs to be more than a fleeting evocation of an original in order to make its humorous point. A parody is entitled at least to \u2018conjure up\u2019 the original.\nElsmere, 623 F.2d at 253, n. 1 (citation omitted).\nThe district court, having found that 2 Live Crew created a parody iti the popular sense, applied the conjure up test. The amount of the original work which is appropriated is a factual issue, but the question whether the taking is excessive under the circumstances is one of law. Fisher, 794 F.2d at 438, n. 4.\nThe districtcourt, operating on the assumption that \"Pretty Woman\" is a parody, concluded: \"In view of the fact that the medium is a song, its purpose is parody, and the relative brevity of the copying, it appropriates no more from the original than is necessary to accomplish reasonably its parodic purpose.\" A cuff-Rose, 754 F.Supp. at 1157. Clearly, the court was using the term parody in its popular sense. While it may not be inappropriate to find that no more was taken than necessary, the copying was qualitatively substantial. Both of defendants' af-fiants stated that 2 Live Crew's version tracks the music and meter of the original. These opinions were intended to demonstrate that the new song is a parody. However, these opinions point out the ~ub-stantiality of copying. Near verbatim taking of the music and meter of a copyrighted work without the creation of a parody is excessive taking. See MCA, inc., 677 F.2d at 183-85. Most importantly, defendants' affiants stated that the song is built upon the recognizable bass or guitar riff of the original by repeating that riff eight times. Acuff-Rose's musicologist stated that the riff was probably sampled from the original, that is, simply recorded verbatim and then mixed with 2 Live Crew's additions. \"[T]he fact that a substantial portion of the infringing work was copied verbatim is evidence of the qualitative value of the copied material, both to the originator and to the plagiarist who seeks to profit from marketing someone else's copyrighted expression.\" Harper & Row, 471 U.s. at 565, 105 S.Ct. at 2233. The qualitative degree of the copying is even more critical than the quantitative, and we ask what degree of the essence of the original is copied in relation to its whole. See Salinger v. Random House, Inc., 811 F.2d 90, 98 (2d Cir.), reh'g denied, 818 F.2d 252, cert. denied, 484 U.S. 890, 108 S.Ct. 213, 98 L.Ed.2d 177 (1987). We conclude that taking the heart of the original and making it the heart of a new work was to purloin a substantial portion of the essence of the original. The facts as developed under this factor, \"the amount and substantiality of the portion used in relation to the copyrighted work as a whole\" cannot be used in any way to support a finding of fair use.\nEffect on Potential Market\nThis factor has been characterized as \"undoubtedly the single most important element of fair use.\" Harper & Row, 471 U.S. at 566, 105 S.Ct. at 2233; see also Stewart, 495 U.S. at 238, 110 S.Ct. at 1769. This factor requires that a balance be struck \"between the benefit gained by the copyright owner when the copying is found an unfair use and the benefit gained by the public when the use is held to be fair.\" Rogers, 960 F.2d at 311. To demonstrate that the balance weighs in favor of a finding of no fair use:\nActual present harm need not be shown; such a requirement would leave the copyright holder with no defense against predictable damage. Nor is it necessary to show with certainty that future harm will result. What is necessary is a showing by a preponderance of the evidence that some meaningful likelihood of future harm exists. If the intended use is for commercial gain, that likelihood may be presumed. But if it is for a noncommercial purpose, the likelihood must be demonstrated.\nSony Corp., 464 U.S. at 451, 104 S.Ct. at 793 (emphasis in original). The focus is on potential harm, and the \"inquiry must take account not only of harm to the original but also of harm to the market for derivative works.\" Harper & Row, 471 U.S. at 568, 105 S.Ct. at 2234.\nIn the instant case, the use of the copyrighted work is wholly commercial, so that we presume that a likelihood of future harm to Acuff-Rose exists. See Rogers, 960 F.2d at 312 (the court holding that \u201cthere is- simply nothing in the record to support a view that [defendant] produced [the derivative art work] for anything other than sale as high-priced art. Hence, the likelihood of future harm to [plaintiffs] photograph is presumed, and plaintiff\u2019s market for his work has been prejudiced\u201d).\nHaving determined that 2 Live Crew created a parody, the district court refused to indulge the presumption and concluded that \u201cit is extremely unlikely that 2 Live Crew\u2019s song could adversely affect the market for the original\u201d because the \u201cintended audience for the two songs is entirely different.\u201d Acuff-Rose, 754 F.Supp. at 1158. In reaching this conclusion, the district court largely relied on the affidavit of Krasilovsky who stated, in part: \u201cI cannot see how it [the new work] can affect the sales or popularity of the Orbison song, except to stimulate interest in the original.\u201d Id. Although we have already determined that harm for purposes of the fair use analysis has been established by the presumption attaching to commercial uses, we note that inquiry under the fourth statutory factor not only considers harm to the market for the original but harm to the market for derivative works as well. Id. This formulation was arrived at by Professor Nimmer, who provided an example relied upon by the Rogers court: \u201c[A] movie adaptation is made of a book. Even though the movie may boost book sales, it is an unfair use because of the effect on the potential sale of adaptation rights.\u201d Rogers, 960 F.2d at 312 (citing 3 Nimmer, \u00a7 13.05[B]). Krasilovsky\u2019s statement is irrelevant as to the fourth statutory factor. The record on this factor does not support a finding of fair use.\nConclusion\nThree of the factors set out in the statute weigh against a finding of fair use. One is, at best, neutral. In dealing with uses popularly termed parodies, the factors involving the commercial nature of the use and the damage to the defendant are of particular significance. It is likely, for example, that an identical use of the copyrighted work in this case at a private gathering on a not-for-profit basis would be a fair use. It is the blatantly commercial purpose of the derivative work that prevents this parody from being a fair use.\nWe conclude that the district court erred in granting summary judgment to defendants. The four factors set forth in section 107 of the Act support the conclusion that 2 Live Crew\u2019s use of Acuff-Rose\u2019s copyrighted song was not a fair use. We REVERSE and REMAND for proceedings consistent with this opinion.\n. We use the term \"album\" generically; \"As Clean As They Wanna Be\u201d was also released on compact disc and cassette tape.\n. The parties dispute the above chronology. Defendants contend that Campbell intended all along to create a comic song and appropriately sought the permission of Acuff-Rose prior to doing so. Acuff-Rose sees Fine\u2019s letter as a effort to create a revisionist history of legitimacy for an act of piracy. The district court found that \"As Clean As They Wanna Be\u201d was released on July 15, 1989, subsequent to Fine's letter to Tiefer. Campbell\u2019s intent is not dispositive of the case, but we note that this finding contradicts Campbell\u2019s affidavit. The only support in the record for a July 15 release date is found in Acuff-Rose\u2019s response to the motion for dismissal, in which counsel asserted a release date \"on or about July 15, 1989.\u201d Campbell\u2019s affidavit is a better factual source than counsel\u2019s contention.\n.At oral argument, counsel for 2 Live Crew stated that the deposit was a tactical mistake which should not be construed as an admission that the group\u2019s song was something other than a fair use parody. Our review of the record reveals confusion over the status of \"Pretty Woman\u201d as either a \"comic\u201d effort, such as those created by comic musician Weird Al Yan-kovic, or a \"parody,\u201d which purports to deliver social commentary within a humorous framework. Yankovic's works are licensed uses, not \"fair uses\" for which a license is not required. This confusion on the part of 2 Live Crew adds weight to Acuff-Rose\u2019s assertion that Campbell\u2019s intent to create a parody was only formed after \"Pretty Woman\" was released.\n.2 Live Crew also presented the affidavit of M. William Krasilovsky, whose conclusions and the reasons therefore are much the same as Brand\u2019s.\n. The district court also determined that Acuff-Rose\u2019s pendent state law claims were preempted by section 301 of the Copyright Act. Acuff-Rose Music, 754 F.Supp. at 1159-60. Acuff-Rose does not challenge this determination.\n. Acuff-Rose also sought leave to amend its complaint to allege violations of the Lanham Act. 15 U.S.C. \u00a7 1125(a). The district court denied the motion and Acuff-Rose does not allege error in the denial.\n. See, S.Rep. No. 94-473, 94th Cong., 1st Sess. at 61-62 (1975); H.R.Rep. No. 94-1476, 94th Cong., 2d Sess. at 65 (1976).\n. We do so with considerable reservation, as the district court\u2019s parody analysis does not, in our view, comport with proper analysis of that term.\nThe district court compared the statement of the parties' affiants and concluded: \"Acuff-Rose may not like it, and 2 Live Crew may not have created the best parody of the original, but nonetheless the facts convincingly demonstrate that it is a parody.\u201d Acuff Rose, 754 F.Supp. at 1155. The district court closely parsed the lyrics of the two songs, finding that: \"Although the parody starts out with the same lyrics as the original, it quickly degenerates into a play on words, substituting predictable lyrics with shocking ones.\u201d Id. 2 Live Crew contends that by way of the \"shocking\" lyrics \"Pretty Woman\" was intended to satirize the original work, as well as society at large. Our difficulty with the district court\u2019s conclusion that this intention was realized is that, even accepting that \"Pretty Woman\u201d is a comment on the banality of white-centered popular music, we cannot discern any parody of the original song. Failing a direct comment on the original, there can be no parody, as the \"copied work must be, at least in part, an object of the parody, otherwise there would be no need to conjure up the original work.\u201d Rogers, 960 F.2d at 310 (citing MCA, Inc., 677 F.2d at 185).\nIn the copyrighted song, the singer remarks on the beauty of a woman he sees on the street. The singer is initially disappointed when the woman rebuffs his advances and later exults when the woman appears to change her mind. Campbell's lyrics involved women but aside from broadly evoking the theme of the original in the opening line of the 2 Live Crew version: \"Pretty Woman-Walkin' down the street, Pretty Woman-Girl you look so sweet,\u201d bear no discernible relationship to the original. Instead, as Brand noted, the lyrics examine a series of women with unappealing attributes: \u201cBig Hairy Woman-You need to shave that stuff, Big Hairy Woman-You know I bet it\u2019s tough, Big Hairy Woman-AH that hair it ain\u2019t legit, \u2019Cause you look like 'cousin it,\u2019 Big Hairy Woman,\" or who are not faithful: \"Two Timin\u2019 Woman-Girl you know you ain\u2019t right, Two Timin' Woman-You's out with my boy last night, Two Ti-min' Woman-That takes a load off my mind, Two Timin\u2019 Woman-Now I know the baby ain\u2019t mine.\u201d\nIn our opinion, this is not a new work which makes ridiculous the style and expression of the original, although there is plainly an element of the ridiculous to the new work. We cannot see any thematic relationship between the copyrighted song and the alleged parody. The mere fact that both songs have a woman as their central theme is too tenuous a connection to be viewed as critical comment on the original. We find instructive the holding in Elsmere v. National Broadcasting Co., 482 F.Supp. 741 (S.D.N.Y.1980), aff\u2019d per curiam, 623 F.2d 252 (2d Cir.1980). The Court of Appeals for the Second Circuit agreed with the district court that the company of the television program \"Saturday Night Live\u201d had performed a parody-entitled \"I Love Sodom\u201d-of the then-widely known advertising jingle \"I Love New York.\" The new work cast the' original image-polishing effort as ridiculous by asserting that the effort to redeem New York City's image was futile. It is this sort of direct comment, comment which is expressly and unambiguously directed at the message of the original work, which constitutes a parody. Similarly, the court in Rogers found that a sculpture based upon a copyrighted photograph was not a parody regardless of the creator's alleged intention to point out the banality of the copyrighted work. Rogers, 960 F.2d at 309-10. The new work, the court found, could perhaps be seen as a critique of materialistic society at large, but on its face the sculpture failed to make critical comment regarding the original creative work. Id. We are in agreement with the Rogers court that the term parody cannot be allowed to assume too broad a definition, for if an \"infringement of a copyrightable expression could be justified as a fair use solely on the basis of the infringer's claim to a higher or different artistic use ... there would be no practicable boundary to the fair use defense.\u201d Id. at 310.",
+        "type": "majority",
+        "author": "JOINER, Senior District Judge."
+      },
+      {
+        "text": "DAVID A. NELSON, Circuit Judge,\ndissenting.\nA Second Circuit panel that included both of the cousins Hand once called the \u201cfair use\u201d issue \u201cthe most troublesome in the whole law of copyright.\u201d Dellar v. Samuel Goldwyn, Inc., 104 F.2d 661, 662 (2d Cir.1939). It has been said, indeed, that the fair use doctrine \u201cis so flexible as virtually to defy definition.\u201d Time, Inc. v. Bernard Geis Assocs., 293 F.Supp. 130, 144 (S.D.N.Y.1968).\nPerhaps the most troublesome fair use issue of all is the question of whether a particular parody constitutes fair use of a copyrighted original. The parody cases appear to be in hopeless conflict. Compare, for example, Loew\u2019s, Inc. v. Columbia Broadcasting System, 131 F.Supp. 165 (S.D.Cal.1955), aff'd sub nom. Benny v. Loew\u2019s, Inc., 239 F.2d 532 (9th Cir.1956), aff'd by an equally divided court, 356 U.S. 43, 78 S.Ct. 667, 2 L.Ed.2d 583 (1958) (Jack Benny\u2019s parody of the motion picture \u201cGaslight\u201d held not to be fair use of the original), with Berlin v. E.C. Publications, Inc., 329 F.2d 541 (2d Cir.), cert. denied, 379 U.S. 822, 85 S.Ct. 46, 13 L.Ed.2d 33 (1964) (Mad Magazine parodies of Irving Berlin songs held to be fair use). Cf. Columbia Pictures Corp. v. National Broadcasting Co., 137 F.Supp. 348 (S.D.Cal.1955), where the same district judge who rejected the fair use defense for Jack Benny\u2019s parody of \u201cGaslight\u201d accepted the defense for a Sid Caesar parody of \u201cFrom Here to Eternity.\u201d In sum, whether a particular parody is entitled to the protection of the fair use doctrine is a question likely to be dealt with by lower courts in much the same way that the Supreme Court deals with more than a few questions of constitutional law; we think we know fair use when we see it, even if we cannot do a very good job of relating what we see (or do not see) to the governing text.\nThe text that is pertinent here is statutory, not constitutional. Where parody is concerned, however, the guidance provided by the statute is at least as Delphic as that sometimes provided by the Constitution. The Copyright Act says that \u201cthe fair use of a copyrighted work ... for purposes such as criticism, comment ... scholarship or research, is not an infringement of copyright.\u201d 17 U.S.C. \u00a7 107 (emphasis supplied). (The statute itself tells us that the words \u201csuch as\u201d mean what they say and \u201care illustrative and not limitative.\u201d 17 U.S.C. \u00a7 101.) The statute then goes on to list four factors that shall be \u201cinclude[d]\u201d among the factors considered by a court in determining a question of fair use: \u201cIn determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include [the four factors.]\u201d Section 107 (emphasis supplied). Here again, the list provided by Congress is \u201cnonexclusive,\u201d to borrow the term used in Harper & Row, Publishers, Inc. v. Nation Enterprises, 471 U.S. 539, 549, 105 S.Ct. 2218, 2224, 85 L.Ed.2d 588 (1985); the court is free to consider any other factors that may be relevant.\nWhere we are dealing with parody, as I shall suggest, unenumerated factors may have no less relevance than the four set forth in the statute \u2014 and the statutory factors are likely to have a somewhat different impact on our deliberations than they would in a non-parody situation. Before turning to these matters, however, I think it would be helpful to consider what it is we are talking about when we speak of \u201cparody.\u201d\nThe etymology of the word has direct relevance to this case. The term comes from the Greek parodeia, meaning \u201ca song sung alongside another.\u201d The musical parody is thus the very archetype of the genre.\nOne of the best definitions I have come across is the following, which appears in a prize-winning student essay:\n\u201cA parody is a work that transforms all or a significant part of an original work of authorship into a derivative work by distorting it or closely imitating it, for comic [or, I would add, for satiric] effect, in a manner such that both the original work of authorship and the independent effort of the parodist are recognizable.\u201d Clemmons, \u201cAuthor v. Parodist: Striking a Compromise,\u201d ASCAP Copyright Law Symposium No. 33 (1987) at 101.\nSome authorities go on to suggest that if the derivative work is to be treated as true parody, it must do more than achieve a comic effect: \u201cIt must also make some critical comment or statement about the original work which reflects th\u00e9 original perspective of the parodist \u2014 thereby giving the parody social value beyond its entertainment function.\u201d Metro-Goldwyn-Mayer v. Showcase Atlanta Cooperative Productions, Inc., 479 F.Supp. 351, 357 (N.D.Ga.1979); New Line Cinema Corp. v. Bertlesman Music Group, Inc., 693 F.Supp. 1517, 1525 (S.D.N.Y.1988). See also Faaland, \u201cParody and Fair Use: The Critical Question,\u201d 57 Wash.L.Rev. 163 (1981); Bisceglia, \u201cParody and Copyright Protection: Turning the Balancing Act into a Juggling Act,\u201d ASCAP Copyright Law Symposium No. 34 (1987). But whether or not a derivative work must \u201ccriticize\u201d the original, I am not sure that I understand the reservations my colleagues on the panel have expressed in this case about accepting the district court\u2019s conclusion that 2 Live Crew\u2019s \u201cPretty Woman\u201d is in fact a parody of the Acuff-Rose original. Under anyone\u2019s definition, it seems to me, the 2 Live Crew song is a quintessential parody.\nThe Second Circuit faced a similar definitional question in Berlin v. E.C. Publications, Inc., 329 F.2d 541 (2d Cir.), cert. denied, 379 U.S. 822, 85 S.Ct. 46, 13 L.Ed.2d 33 (1964). One of the Irving Berlin pieces on which the Mad Magazine people had worked their peculiar magic was the song \u201cA Pretty Girl is Like a Melody.\u201d (Messrs. Orbison and Dees are obviously not the first tunesmiths to have turned their attention to a comely female.) The defendants, in the words of the court,\n\u201ctransformed the plaintiffs\u2019 \u2018A Pretty Girl is Like a Melody,\u2019 \u2022 into \u2018Louella Schwartz Describes Her Malady\u2019; what was originally a tribute to feminine beauty became a burlesque of a feminine hypochondriac troubled with sleeplessness and a propensity to tell the world of her plight.\u201d Id. at 543.\nThis was \u201cparody,\u201d the Second Circuit said \u2014 and it was parody that constituted fair use of Irving Berlin\u2019s original work:\n\u201cFor, as a general proposition, we believe that parody and satire are deserving of substantial freedom \u2014 both as entertainment and as a form of social and literary criticism. As the readers of Cervantes\u2019 \u2018Don Quixote\u2019 and Swift\u2019s \u2018Gulliver\u2019s Travels,\u2019 or the parodies of a modern master such as Max Beerbohm well know, many a true word is indeed spoken in jest.\u201d Id. at 545.\nIn Fisher v. Dees, 794 F.2d 432 (9th Cir.1986), similarly, the Ninth Circuit had occasion to analyze a pair of songs about women named \u201cSunny\u201d or \u201cSonny.\u201d The first piece, recorded in the 1950s by Johnny Mathis, was entitled \u201cWhen Sunny Gets Blue.\u201d The second, released in 1985 under the title \u201cWhen Sonny Sniffs Glue,\u201d copied the first six bars (the recognizable main theme) of the original song\u2019s 38 bars. The derivative work transformed the original opening lyrics \u2014 \u201cWhen Sunny gets blue, her eyes get gray and cloudy, then the rain begins to fall\u201d \u2014 into \u201cWhen Sonny sniffs glue, her eyes get red and bulgy, then her hair begins to fall.\u201d Id. at 434'. After listening to tapes of both songs, the Ninth Circuit panel had no difficulty at all in rejecting an argument that \u201cthe so-called parody is not actually a parody, or at least is not a parody of the composer\u2019s song.\u201d Id. at 436. Said the court,\n\u201cAlthough we have no illusions of musical expertise, it was clear to us that Dees\u2019s version was intended to poke fun at the composers\u2019 song, and at Mr. Mathis\u2019s rather singular vocal range. We reject the notion that the song was used merely as a vehicle to achieve a comedic objective unrelated to the song, its place and time.\u201d Id.\nLike the Second Circuit panel in Berlin, the Fisher court affirmed a finding that the parody was entitled to fair use protection as a matter of law. Id. at 440.\nI myself have no more \u201cillusions of musical expertise\u201d than did the members of the court that decided Fisher v. Dees. After listening, however, to Exhibits D and E, the tapes of the two \u201cPretty Woman\u201d songs, I am satisfied that the 2 Live Crew version both imitates and distorts the original work for comic or satiric effect, and does so in such a way that both the original work and the work of the parodist are readily recognizable. The parody (done in an African-American dialect) was clearly intended to ridicule the white-bread original \u2014 and if a higher criticism is necessary to qualify the derivative work as true parody, such criticism is readily discernible.\nThe affidavit of Oscar Brand explains, as Judge Joiner has noted, that \u201cthis anti-establishment singing group [2 Live Crew] is trying to show how bland and banal the Orbison song seems to them.\u201d The district court accepted Brand\u2019s explanation. 754 F.Supp. at 1155. So do I. Whether one likes the original or not \u2014 and the maxim \u201cde gustibus non est disputandum \u201d comes to mind here \u2014 the original is quite clearly being held up to criticism by 2 Live Crew.\nConsider the plot, if one may call it that, of the original work. A lonely man with a strangely nasal voice sees a pretty woman (name unknown) walking down the street. The man speculates on whether the woman is lonely too. Apostrophizing her in his mind, he urges her to stop and talk and give him a smile and say she will stay with him and be his that night. The woman walks on by, and the man resigns himself to going home alone. Before he leaves, however, he sees the woman walking back to him. End of story.\nThis little vignette is intended, I think, to be sort of sweet. While it is certainly suggestive, it is also, by the standards of its time, \u201cromantic\u201d rather than indelicate. The singer evokes a sexual theme in his soliloquy, but then leaves the realization of his desire to the listener\u2019s imagination.\nThe parody by 2 Live Crew is.much more explicit, and it reminds us that sexual congress with nameless streetwalkers is not necessarily the stuff of romance and is not necessarily without its consequences. The singers (there are several) have the same thing on their minds as did the lonely man with the nasal voice, but here there is no hint of wine and roses. The 2 Live Crew singers \u2014 randy misogynists, not lonely Sir Lancelots \u2014 raucously address a \u201cbig hairy woman\u201d and her \u201cbald-headed friend,\u201d one qr both of whom are urged to \u201clet the boys jump in.\u201d One singer chides a woman (the big hairy one, I think) for having cheated on him (\u201cTwo timin\u2019 woman/You\u2019s out with my boy last night\u201d). In the end, this cloud proves to have what\u2019the singer sees as a silver lining:\n\u201cTwo timin\u2019 woman/That takes a load off my mind Two timin\u2019 woman/Now I know the baby ain\u2019t mine.\u201d\nThis, I should say, is \u201ccriticism\u201d with a vengeance \u2014 and the thematic relationship to the original is obvious. The relationship between the copyrighted song and the parody is every bit as patent here as was the corresponding relationship between the songs considered by the courts in Elsmere Music, Inc. v. National Broadcasting Co., 482 F.Supp. 741 (S.D.N.Y.1980), aff'd 623 F.2d 252 (2d Cir.1980). That case involved an oft-repeated advertising jingle known as \u201cI Love New York\u201d and a Saturday Night Live take-off entitled \u201cI Love Sodom.\u201d The parody was held to constitute a fair use of the original. The statutory factors, in my view, fiilly support a corresponding result in the instant case.\n* * * sfc * *\nThe first of the factors that we must consider is this:\n\u201c(1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes....\u201d\nIn the case before us, of course, the purpose is parody and the character is commercial. Does the mere fact that the parodists hoped to make money mean that their use of the original work is presumptively unfair? I am by no means convinced that the Supreme Court would so hold \u2014 and any such presumption would be readily rebut-table in any event.\nIt is true that in the Betamax case, Sony Corp. v. Universal City Studios, Inc., 464 U.S. 417, 451, 104 S.Ct. 774, 793, 78 L.Ed.2d 574 (1984), the Court made the broad statement that \u201cevery commercial use of copyrighted material is presumptively an unfair exploitation of the monopoly privilege that belongs to the owner of the copyright....\u201d It is also true that this statement was quoted with approval in Harper & Row, 471 U.S. at 562, 105 S.Ct. at 2231. . But both of those cases involved mechanical copying, literally or figuratively, without alteration of the copied material.\nThere is a difference, obviously, between copying and caricaturizing. By calling into being a new and transformed work, the caricaturist exercises a type of creativity that is foreign to the work of the copyist. And the creative work of the caricaturist is surely more valuable than the reproductive work of the copyist. Thus it has been suggested that the presumption of unfairness in cases of commercial exploitation \u201cis sensible and appropriate only when applied to commercial reproductive uses.... \u201d Note, \u201cThe Parody Defense to Copyright Infringement: Productive Fair Use After Betamax,\u201d 97 Harv.L.Rev. 1395, 1408 (1984).\nAn illustration may help. W.S. Gilbert and Sir Arthur Sullivan created comic operas that are among the most commercially successful of all time. Gilbert and Sullivan certainly cannot be said to. have had \u201cnonprofit educational purposes\u201d in mind when they wrote such a work as Princess Ida, one of their minor masterpieces. Princess Ida was, in Gilbert\u2019s words, \"a respectful operatic perversion\u201d of \u201cThe Princess,\u201d a lengthy poem by Tennyson. Would the world not be a poorer place if Lord Tennyson could have stilled the voice of W.S. Gilbert merely because Gilbert\u2019s purposes included the making of money? For anyone who loves Gilbert and Sullivan \u2014 and their number is legion \u2014 the question answers itself.\nSimilarly, I think, the world would be the poorer if the holders of the copyright on \u201cI Love New York\u201d had been allowed to block the Saturday Night Live rendition of \u201cI Love Sodom.\u201d \u201c[I]n today\u2019s world of often unrelieved solemnity,\u201d as the Second Circuit panel remarked in affirming the judgment in favor of Saturday Night Live, \u201ccopyright law should be hospitable to the humor of parody....\u201d Elsmere Music Co., Inc., 623 F.2d at 253.\nWe should almost certainly be hospitable to the humor of parody if we allowed ourselves to be guided, as the Supreme Court was guided in the Betamax case, \u201cby Justice Stewart\u2019s exposition of the correct approach to the ambiguities in the law of copyright.\u201d Sony, 464 U.S. at 431, 104 S.Ct. at 783. The cause that is ultimately to be served, Justice Stewart observed in Twentieth Century Music Corp. v. Aiken, 422 U.S. 151, 156, 95 S.Ct. 2040, 2043, 45 L.Ed.2d 84 (1975), is \u201cthe cause of promoting broad public availability of literature, music and other arts.\u201d What Justice Stewart called the \u201cultimate aim\u201d of copyright law is \u201cto stimulate artistic creativity for the general public good.\u201d Id. (footnote omitted). If we keep this ultimate aim in mind, it seems to me, we are not likely to conclude that parody for profit is presumptively \u201cunfair.\u201d\n# >f< # * # *\nThe second statutory factor to be considered is\n\u201c(2) the nature of the copyrighted work_\u201d\nThe pertinent data in this connection are that Orbison and Dees published \u201cOh, Pretty Woman\u201d long before the alleged infringement occurred, and that theirs is a work of the imagination rather than a piece of historical reportage.\nThat the original song had long since been published is a factor which works in favor of the 2 Live Crew defendants. See Harper & Row, 471 U.S. at 564, 105 S.Ct. at 2232, where the Supreme Court declared that \u201cthe scope of fair use is narrower with respect to unpublished works.\u201d The fact that \u201cOh, Pretty Woman\u201d is a creative work might tend to offset the publication factor, perhaps, if the work were not being used for the purpose of parody. But parody routinely sets its sights on the fictive as opposed to the factual. If, as the Second Circuit insists, \u201cparody and satire are deserving of substantial freedom,\u201d Berlin, 329 F.2d at 545, it would make no sense at all to penalize the parodist for taking as his subject precisely the sort of work that has been grist for parodists\u2019 mills for the last two and a half millennia.\nThe third statutory factor is a somewhat problematical one, where parody is concerned:\n\u201c(3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole....\u201d\nThe \u201cportion used\u201d test is problematical in this context because parody cannot be parody unless it allows the original work to shine through in a form which, while distorted, is recognizable. \u201cParody by its nature demands close imitation,\u201d Bisceglia, \u201cParody and Copyright Protection,\u201d AS-CAP Copyright Law Symposium No. 34 at 17; substantial usage is thus almost a given.\nThe Ninth Circuit has held that the fair use defense must fail when the purported parodists\u2019 copying \u201cis virtually complete or almost verbatim.\u201d Walt Disney Productions v. Air Pirates, 581 F.2d 751, 756 (9th Cir.1978), cert. denied, 439 U.S. 1132, 99 5.Ct. 1054, 59 L.Ed.2d 94 (1979). I have no quarrel with this formulation; near-verbatim copying is closer to plagiarism than it is to parody. But neither the music nor the lyrics of 2 Live Crew\u2019s \u201cPretty Woman\u201d can fairly be said to constitute near-verbatim copying of the Orbison and Dees original.\n\u201cAt the very least,\u201d the Second Circuit has said, a parody will pass muster under the \u201cportion used\u201d factor \u201cwhere the parodist does not appropriate a greater amount of the original work than is necessary to \u2018recall or conjure up\u2019 the object of his sat-ire_\u201d Berlin, 329 F.2d at 545. Saturday Night Live\u2019s \u201cI Love Sodom\u201d was held to pass the \u201cconjure up\u201d test, and 2 Live Crew\u2019s \u201cPretty Woman\u201d does not appear to have appropriated more of the original on which it was based than did \u201cI Love Sodom.\u201d\nThe district court (Wiseman, J.) made these observations about the amount and substantiality of the mimicry in the 2 Live Crew song:\n\u201cIn this case, 2 Live Crew has not mimicked so much of \u2018Oh, Pretty Woman\u2019 that it runs afoul of the substantiality factor. Notable aspects of the' original song are plainly present in 2 Live Crew\u2019s version but, unlike Air Pirates, this is not a case of virtually complete or verbatim copying. Rather this case falls in the realm of parodies envisioned by Fisher and Berlin. In view of the fact that the medium is a song, its purpose is parody, and the relative brevity of the copying, it appropriates no more from the original than is necessary to accomplish reasonably its parodie purpose. Fisher, 794 F.2d at 439.\u201d 754 F.Supp. at 1157.\nI cannot improve on Judge Wiseman\u2019s analysis of the substantiality factor.\n* * * * # *\nThe last of the statutory factors is this:\n\u201c(4) the effect of the use upon the potential market for or value of the copyrighted work.\u201d\nTo me, at least, it seems as clear in this case as it did to the Second Circuit in Berlin that \u201cthe parody has neither the intent nor the effect of fulfilling the demand for the original_\u201d . 329 F.2d at 545.\nThe affidavit of Oscar Brand says that\n\u201cParodies have never interfered with the popularity of the original. * * * The sales graph of \u2018Hello, Dolly\u2019 didn\u2019t change when it became \u2018Hello, Lyndon,\u2019 and \u2018Hello, Nixon.\u2019 Hundreds of popular songs have been \u2018covered\u2019 by parody performances and recordings without altering their popular appeal or interfering with their sales.\u201d\nAlthough Brand\u2019s assertion that parodies have \u201cnever\u201d interfered with the popularity of the original strikes me as dubious, there has been no showing of any such interference here. Brand \u2014 who is probably on firmer ground when he sticks to the specifics of this case \u2014 explains that the audiences for the two songs are quite different:\n\u201cThere is no question in my mind that the song \u201cOh, Pretty _ Woman\u201d by Roy Orbison and William Dees was intended for Mr. Orbison\u2019s country music audience and middle-America.\n[] On the other hand, 2 Live Crew\u2019s version[ ], which is unquestionably a comic parody, is aimed at the large black populace which used to buy what was once called \u2018race\u2019 records.' The group\u2019s popularity is intense among the disaffected, definitely not the audience for the Orbison song. I cannot see how it can affect the sales or popularity of the Orbison song, except to stimulate interest in the original.\u201d\nBrand\u2019s analysis of the market stands unrefuted. One month after Brand gave his affidavit, the plaintiff\u2019s Director of Licensing, Gerald Tiefer, executed an affidavit in which there is no attempt to deny that the two songs are aimed at different markets. Mr. Tiefer does suggest, however, that the 2 Live Crew parody could impair the value of the plaintiff\u2019s right to grant licenses to parodists. And Mr. Jerry Flowers, Executive-Director of Publishing for the plaintiff\u2019s parent corporation, says in an affidavit that the licensing of parodies of established hit songs has become extremely lucrative. .\nJudge Joiner invites our attention, in this connection, to Rogers v. Koons, 960 F.2d 301, 312 (2d Cir.1992), where the Second Circuit observed that \u201cthe inquiry considers not only harm to the market for the original [work], but also harm to the market for derivative works.\u201d In a passage a portion of which was quoted with approval in Harper & Row, 471 U.S. at 568, 105 S.Ct. at 2234, similarly, the Nimmer treatise says that \u201c[i]f the defendant\u2019s work adversely affects the value of any of the rights of the copyrighted work ... [including the right to license derivative works,] the use is not fair even if the rights thus affected have not as yet been exercised by the plaintiff.\u201d 3 Nimmer on Copyrights, \u00a7 13.05[B] at 13-88.19 (1992) (citations omitted).\nNimmer, however, is not discussing parody here; the quoted passage deals with a motion picture hypothetically adapted from a copyrighted novel. And neither Rogers v. Koons nor Harper & Row involved parody either. The former was a case in which a sculpture had been copied with great fidelity from a photograph \u2014 the artisans who produced the sculpture were told that the \u201cwork must be just like photo,\u201d 960 F.2d at 305\u2014and the latter was a case in which quotations from the unpublished manuscript of President Ford\u2019s autobiography were lifted by the defendant verbatim.\nParody, again, is different. It transforms as it copies, and it may well savage the original work in the process. In the past, at least, copyright holders have not been overly enthusiastic about agreeing to see their works parodied \u2014 and the law itself has licensed parodists, much as the law has given license to book reviewers, drama critics, and other commentators. Ours is a commercial age, to be sure, and consensual \u201cparody licenses\u201d may be more common now than they used to be. I confess that I am still uneasy, however, about the prospect of the courts turning copyright holders into censors of parody. Neither the history of the fair use doctrine nor the four factors enumerated in the Copyright Act compel such a result. \u201c[Permissible parody, whether or not in good taste, is the price an artist pays for success.... \u201d MCA, Inc. v. Wilson, 677 F.2d 180, 191 (2d Cir.1981) (Mansfield, J., dissenting).\nI said earlier in this opinion that there may be- factors which, although not enumerated in the Copyright Act, merit consideration by the courts in determining when parody constitutes fair use. I shall mention only one such factor \u2014 one foreshadowed in what has already been said. It is this: the social value of the parody as criticism.\nIn the case at bar, it seems to me, this factor militates rather strongly in favor of affirmance of the district court\u2019s finding of fair use. The 2 Live Crew \u201cPretty Woman\u201d is hopelessly vulgar, to be sure, but we ought not let that fact conceal what may be the song\u2019s most significant message \u2014 for here the vulgarity, to paraphrase Marshall McLuhan, is the message. The original work may not seem vulgar, at first blush, but the 2 Live Crew group are telling us, knowingly or unknowingly, that vulgar is precisely what \u201cOh, Pretty Woman\u201d is. Whether we agree or disagree, this perception is not one we ought tc suppress.\n. As Berlin points out, 329 F.2d at 544-45, Loew's has been widely criticized. Among the critics is no less a figure than Professor (later Justice) Benjamin Kaplan. See Kaplan, An Unhurried View of Copyright (1967) at 69. The Ninth Circuit has said that its Loew's decision \u201cwas essentially repudiated by Congress's recognition of parody in the notes to the Copyrights Act of 1976.\" Fisher v. Dees, 794 F.2d 432, 435 (9th Cir.1986), citing 17 U.S.C.A. \u00a7 107 Historical Note. (The Note quotes House Report No. 94-1476 as listing \"use in a parody of some of the content of the work parodied\u201d as among \u201cthe sort of activities the courts might regard as fair use under the circumstances.\u201d)\n. There are, to be sure, authorities who would constitutionalize copyright law.. Some would treat satire as sacrosanct under the First Amendment. See, e.g., Goetsch, \"Parody as Free Speech \u2014 The Replacement of the Fair Use Doctrine By First Amendment Protection,\" 3 W.New Eng.L.Rev. 39 (1980). Others would accord constitutional protection to any parody a limitation on which would, in the opinion of the judge, impede \"the Progress of Science\" as that phrase is used in the Copyright Clause, Art. I, \u00a7 8 of the Constitution. See Bisceglia, \"Parody and Copyright Protection: Turning the Balancing Act Into a Juggling Act,\u201d ASCAP Copyright Law Symposium No. 34 (1987) at 23. As for me, I cannot work up much enthusiasm for turning every copyright case into a mini-Marbury v. Madison [5 U.S. 137, 1 Cranch 137, 2 L.Ed. 60] or New York Times Co. v. Sullivan [376 U.S. 254, 84 S.Ct. 710, 11 L.Ed.2d 686.] The major role in determining how to promote the progress of science has been given, after all, to Congress: \"As the text of the Constitution makes plain, it is Congress that has been assigned the task of defining the scope of the limited monopoly that should be granted to authors or to inventors_\u201d Sony Corp. v. Universal City Studios, Inc., 464 U.S. 417, 429, 104 S.Ct. 774, 782, 78 L.Ed.2d 574 (1984). The Ninth Circuit has rejected out of hand the notion that the First Amendment gives parodists a blanket protection from copyright infringement actions. Fisher v. Dees, 794 F.2d 432, 434 n. 2 (9th Cir.1986).\n. VII Encyclopedia Britannica (15th ed. 1975) at 768. \"Parodeia\" joins the Greek words for 'Tie-side\u201d and \"to sing\u201d \u2014 the roots of our prefix \"para\u201d and our word for a lyric poem, \u201code.\u201d Webster\u2019s New International Dictionary (3d ed. 1961).\n. See also Note, \u201cThe Parody Defense to Copyright Infringement: Productive Fair Use After Betamax,\" 97 Harv.L.Rev. 1395 (1984): \"Parody, in its purest form, is the art of creating a new literary, musical, or other artistic work that both mimics and renders ludicrous the style and thought of an original.\u201d The examples cited by the Harvard editors are Cervantes\u2019 Don Quixote (1614), Pope\u2019s The Rape of the Lock (1712), and Austen\u2019s Northanger Abbey (1818), all of which parodied then-popular literary genres. Judge Yankwich provides a much longer list of well known parodies in his article \"Parody and Burlesque in the Law of Copyright,\" 33 Can.B.Rev. 1131 (1955). The art form goes back at least as far as Aristophines, the famous comic dramatist of ancient Greece, whose play The Frogs (405 B.C.)\u2014a work still performed today \u2014 spoofed the plays of Aeschylus and Euripides.\nParodies often outlast and outshine the works parodied. A good example is Lewis Carroll\u2019s \"You Are Old, Father William,\u201d a takeoff on Southey\u2019s work \"The Old Man\u2019s Comforts.\u201d The texts, which are strikingly similar in form, may be read side-by-side in the appendix to Bisceglia, \"Parody and Copyright Protection: Turning the Balancing Act into a Juggling Act,\u201d ASCAP Copyright Law Symposium No. 34 (1987) at 37-38.\n. I recognize that the affidavit of musicologist Earl Spielman refers to a \"one measure guitar lick\u201d that \"may have actually been sampled or lifted and then incorporated into the recording of \u2018Pretty Woman' as performed by The 2 Live Crew.\" But the Copyright Act \u201cprotects only those sound recordings \u2018fixed\u2019 on or after February 15, 1972,\u201d Note, \"Digital Sound Sampling, Copyright and Publicity: Protecting Against the Electronic Appropriation of Sounds,\u201d 87 Col. L.Rev. 1723, 1727-28 (1987), citing 17. U.S.C. \u00a7 301(c); Orbison and Dees recorded \"Oh, Pretty Woman\u201d in 1964. It is arguable, moreover, that a \"sampling\u201d of no more than a\u2019 few notes should be governed by the maxim de minimis non curat lex. Id. at 1735. Finally, the plaintiffs have not shown by a preponderance of the evidence that any sampling really occurred here \u2014 and to my untrained ear, at least, it is obvious that most of the 2 Live Crew music was not lifted electronically from the 1964 recording.\n. The Second Circuit noted by way of dictum in that case that \u201c[e]ven more extensive use [than that necessary to 'conjure up\u2019 the original] would still be fair use, provided the parody builds upon the original, using the original as a known element of modern culture and contributing something new for humorous effect or commentary.\u201d 623 F.2d at 253 n. 1. Professor Nimmer\u2019s treatise asserts that \u2018\u2018[t]his went too far,\u201d adding that \u2018\u2018[t]he Second Circuit later drew back from this extreme_\u201d 3 Nimmer on Copyright, \u00a7 13.03[f] at 13-90.9-.10 (1992), citing Warner Bros., Inc. v. American Broadcasting Companies, 654 F.2d 204 (2d Cir.1981), and MCA, Inc. v. Wilson, 677 F.2d 180 (2d Cir.1981). I am by no means sure that the Elsmere dictum did go too far, but it makes no difference in the case at bar; the 2 Live Crew song passes the \"conjure up\" test in any event.\n. Because parody is a special case, moreover, a drop in the popularity of the original \"Oh, Pretty Woman\u201d would be of doubtful relevance anyway. \"[W]e must accept the harsh truth that parody may quite legitimately aim at garroting the original, destroying it commercially as well as artistically.\" Kaplan, An Unhurried View of Copyright, at 69.\n. This case is thus different from New Line Cinema Corp. v. Bertlesman Music Group, 693 F.Supp. 1517 (S.D.N.Y.1988), where testimony \"unequivocally established that the songs \u2018Nightmare on My Street\u2019 and \u2018Are You Ready for Freddy?\u2019 are in direct competition.\u201d Id. at 1528.\n. Vulgarity, in practice, probably cuts against acceptance of the parody defense. See MCA, Inc. v. Wilson, 677 F.2d 180, 185 (2d Cir.1981), where the panel majority said this:\n\"We are not prepared to hold that a commercial composer can plagiarize a competitor's copyrighted song, substitute dirty lyrics of his own, perform it for commercial gain, and then escape liability by calling the end result a parody or satire on the mores of society.\" MCA, Inc. v. Wilson, 677 F.2d 180, 185 (2d Cir.1981).\nI have some sympathy for this attitude, particularly where the parties really are \"competitors;\" be the lyrics of the derivative work dirty or clean, it goes against the grain to let a competitor reap where he has not sown. In the case at bar, however, there has been no showing that the parties are competitors. The 2 Live Crew song, moreover, is not just \u201ca parody or satire on the mores of society\" \u2014 it is a parody or satire on the mores of Orbison\u2019s Pretty Woman and her admirer.",
+        "type": "dissent",
+        "author": "DAVID A. NELSON, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "E. Andrew Norwood (briefed), Francis J. Del Casino (briefed), R. Eddie Wayland (argued and briefed), Nora T. Cannon (briefed), King & Ballow, Nashville, Tenn., for plaintiff-appellant.",
+      "Alan Mark Turk (argued and briefed), Sanford R. Ross, Nashville, Tenn., for defendants-appellees."
+    ],
+    "corrections": "",
+    "head_matter": "ACUFF-ROSE MUSIC, INC., . Plaintiff-Appellant, v. Luther R. CAMPBELL, a/k/a Luke Skyywalker; Christopher Wongwon, a/k/a Fresh Kid Ice; Mark Ross, a/k/a Brother Marquis; David Hobbs, a/k/a Mr. Mixx; professionally known as 2 Live Crew; Luke Skyywalker Records, Defendants-Appellees.\nNo. 91-6225.\nUnited States Court of Appeals, Sixth Circuit.\nArgued May 15, 1992.\nDecided Aug. 17, 1992.\nRehearing and Rehearing En Banc Denied Oct. 26, 1992.\nE. Andrew Norwood (briefed), Francis J. Del Casino (briefed), R. Eddie Wayland (argued and briefed), Nora T. Cannon (briefed), King & Ballow, Nashville, Tenn., for plaintiff-appellant.\nAlan Mark Turk (argued and briefed), Sanford R. Ross, Nashville, Tenn., for defendants-appellees.\nBefore: NELSON and NORRIS, Circuit Judges; and JOINER, Senior District Judge.\nHonorable Charles W. Joiner, United States District Court for the Eastern District of Michigan, sitting by designation."
+  },
+  "file_name": "1429-01",
+  "first_page_order": 1553,
+  "last_page_order": 1570
+}

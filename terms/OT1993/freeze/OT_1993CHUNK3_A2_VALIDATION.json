@@ -1,0 +1,18 @@
+{
+  "identical_freeze_runtime": true,
+  "eight_rows_per_case": true,
+  "files": {
+    "terms\\OT1993\\freeze\\OT_1993CHUNK3_COMMITMENTS_A2.md": {
+      "bytes": 30082,
+      "sha256": "42a4a70e18e550fd7734b2eb019da527f2da044de502ce42954933df12b590e4"
+    },
+    "terms\\OT1993\\runtime\\OT_1993CHUNK3_COMMITMENTS_A2.md": {
+      "bytes": 30082,
+      "sha256": "42a4a70e18e550fd7734b2eb019da527f2da044de502ce42954933df12b590e4"
+    },
+    "terms\\OT1993\\freeze\\OT_1993CHUNK3_NEUTRAL_A2_SUPPLEMENT.md": {
+      "bytes": 12524,
+      "sha256": "f1b76bdc0c9104047f26d085ef9992cd85f15938c3e5ec3a50b6a215e6fe60cc"
+    }
+  }
+}

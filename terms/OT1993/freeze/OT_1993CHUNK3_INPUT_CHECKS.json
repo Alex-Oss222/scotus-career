@@ -1,0 +1,82 @@
+{
+  "brief_sha256": "af493b69c279b8e32e74a7056d9451f1cefd9d76889ddf7ad7b2261a5f683987",
+  "neutral_anchors": [
+    {
+      "source": "state\\HOLDINGS.md",
+      "anchor": "no-92-5618-particular-frivolousness-and-the-available-paid-route",
+      "resolves": true
+    },
+    {
+      "source": "state\\HOLDINGS.md",
+      "anchor": "whether-alabama-may-impose-an-additional-disposal-charge-on-equivalent-hazardous-waste-because-it-originated-outside-the-state",
+      "resolves": true
+    },
+    {
+      "source": "state\\HOLDINGS.md",
+      "anchor": "whether-county-origin-restrictions-at-private-landfills-escape-commerce-clause-scrutiny-because-they-also-exclude-other-intrastate-counties",
+      "resolves": true
+    },
+    {
+      "source": "state\\HOLDINGS.md",
+      "anchor": "whether-oklahomas-ten-percent-in-state-coal-requirement-is-lawful-discrimination-against-interstate-commerce",
+      "resolves": true
+    },
+    {
+      "source": "state\\HOLDINGS.md",
+      "anchor": "whether-the-prior-act-instruction-created-a-reasonable-likelihood-that-jurors-bypassed-elemental-proof",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "a-vitiated-jury-reasonable-doubt-standard-is-structural-error",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "adult-guidelines-ceiling-for-juvenile-detention",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "authoritative-interpretive-guidelines-commentary",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "contribution-within-the-received-rule-10b-5-action",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "federal-rules-applied-to-parties-govern-still-open-direct-review",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "impartiality-of-balanced-bar-dues-arbitration-panels",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "no-contingency-enhancement-under-the-environmental-fee-provisions",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "nominal-civil-rights-relief-and-reasonable-fees",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "purposeful-racial-peremptory-strikes-by-the-criminal-defense",
+      "resolves": true
+    },
+    {
+      "source": "state\\STANDARDS_AND_TESTS.md",
+      "anchor": "review-of-guidelines-departures-resting-on-invalid-grounds",
+      "resolves": true
+    }
+  ],
+  "term_open": true,
+  "git": "No command executed; supplied snapshot identity accepted from user"
+}

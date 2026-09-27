@@ -1,0 +1,64 @@
+https://static.case.law/so2d/606/html/0156-01.html
+J.E.B. v. STATE of Alabama ex rel. T.B.
+2910210.
+Court of Civil Appeals of Alabama.
+June 5, 1992.
+Rehearing Denied July 17, 1992.
+Certiorari Denied Oct. 23, 1992 Alabama Supreme Court 1911717.
+John F. Porter III of Livingston, Porter & Paulk, P.C., Scottsboro, for appellant.
+William Prendergast and Lois Brasfield, Asst. Attys. Gen., for appellee.
+L. CHARLES WRIGHT, Retired Appellate Judge.
+The State of Alabama, on behalf of T.B. (mother), filed a complaint for paternity and child support against J.E.B. (father) in the District Court of Jackson County. After a hearing the district court entered an order adjudicating paternity and ordered the father to pay child support. The father filed notice of appeal to the circuit court. A jury trial was held. The jury returned a verdict in favor of the mother. The trial court entered an order accordingly. The father appeals.
+Initially the father asserts that the trial court erred in overruling the father’s objection to the State’s peremptory jury strikes based on his allegation that the State’s strikes were based entirely on gender.
+The father insists that the State improperly used its peremptory strikes to purpose
+*157
+fully eliminate men from the jury. He suggests that such actions were in violation of his rights to equal protection and due process. He requests that this court extend the
+Batson v. Kentucky,
+476 U.S. 79
+,
+106 S.Ct. 1712
+,
+90 L.Ed.2d 69
+(1986), principle, which prohibits peremptory strikes based solely upon race, to include gender-based strikes.
+This issue has previously been addressed by the court of criminal appeals and the supreme court.
+Fisher v. State,
+587 So.2d 1027
+(Ala.Crim.App.),
+cert. denied
+587 So.2d 1039
+(Ala.1991);
+Daniels v. State,
+581 So.2d 536
+(Ala.Crim.App.1990),
+cert. denied
+581 So.2d 541
+(Ala.1991);
+Dysart v. State,
+581 So.2d 541
+(Ala.Crim.App.1990),
+cert. denied
+581 So.2d 545
+(Ala.1991). The supreme court recently revisited the issue in
+Ex parte Murphy,
+596 So.2d 45
+(Ala.1992), and declined to extend the
+Batson
+principle to gender-based strikes. We must follow the decisions of the supreme court. § 12-3-16, Code 1975.
+The father next contends that the blood test results should have been excluded because the State failed to establish a proper chain of custody. He specifically asserts that the phlebotomist’s failure to testify was fatal to the admissibility of the blood test results.
+Dr. Leigh Ann Harman, the supervisor of the University of Alabama at Birmingham Immunogenetics/DNA Diagnostic Laboratory, testified that along with the blood samples she received an Immunogen-etics/DNA Diagnostic Laboratory Paternity Chain of Custody Document. The document was developed in order to allow the supervisor to confirm the chain of custody without having to bring numerous laboratory personnel to court. Dr. Harman thoroughly discussed the document and its safety devices. She testified in detail as to her laboratory’s procedures for drawing blood samples and assuring proper identification of both the individuals having the test and the blood samples drawn from those individuals. She testified that once the blood samples were received by the laboratory they were checked for any sign of tampering. She stated that there was no sign of tampering, that the box was taped, the tape was intact, and the tape was initialed by the person who sealed and delivered it.
+We find that a proper chain of custody was sufficiently established by Dr. Har-man’s testimony.
+Lyle v. Eddy,
+481 So.2d 395
+(Ala.Civ.App.1985).
+The father asserts that the trial court erred in allowing into evidence the results of the DNA test without first establishing that the test “met the requirements of the recent supreme court holding in the case of
+Ex parte Perry,
+586 So.2d 242
+(Ala.1991).”
+Ex parte Perry
+pertains to the admissibility of DNA test results in a forensic setting. That case clearly distinguishes between forensic testing and clinical testing (which we have in this case). The strict admissibility requirements of
+Ex parte Perry
+are not applicable in a paternity action.
+The judgment of the trial court is affirmed.
+The foregoing opinion was prepared by Retired Appellate Judge L. CHARLES WRIGHT while serving on active duty status as a judge of this court under the provisions of § 12-18-10(e), Code 1975, and this opinion is hereby adopted as that of the court.
+AFFIRMED.
+All the Judges concur.

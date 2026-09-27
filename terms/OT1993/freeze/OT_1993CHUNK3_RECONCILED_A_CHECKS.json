@@ -1,0 +1,77 @@
+{
+  "freeze_runtime_identical": true,
+  "reconciled_sha256": "a5590c41052107708ae5a392c2c090d6180f1bd4de11562cc603bec09f812316",
+  "reconciled_bytes": 32690,
+  "justice_rows": {
+    "25": {
+      "Blackmun": 1,
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1
+    },
+    "26": {
+      "Blackmun": 1,
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1
+    },
+    "27": {
+      "Blackmun": 1,
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1
+    },
+    "28": {
+      "Blackmun": 1,
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1
+    }
+  },
+  "official_reports": {
+    "AmericanDredging-510443": {
+      "pages_in_text": 28,
+      "bytes": 59397,
+      "sha256": "b3cafe89045aa579797d79970155eb1c43f5f10c701a15b5d30629bc4cbbb36a"
+    },
+    "Fogerty-510517": {
+      "pages_in_text": 23,
+      "bytes": 53001,
+      "sha256": "b59289de8ba3d3ff3514c3363b5b72eb2af2bf0bd88a83e783233219d0ada0d3"
+    },
+    "Campbell-510569": {
+      "pages_in_text": 32,
+      "bytes": 68455,
+      "sha256": "5cae67e6de653c3bba558b80b00c7222702d62704588d24131cde1e1b4cb48b4"
+    },
+    "Liteky-510540": {
+      "pages_in_text": 29,
+      "bytes": 62871,
+      "sha256": "f23e108f22911a6e3d0356a316ed934cc71bd8b8c1ad17ed2907d78f8ae4cb58"
+    }
+  },
+  "ready_cases": [
+    25,
+    26,
+    27
+  ],
+  "pending_neutral_refresh": [
+    28
+  ]
+}

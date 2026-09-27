@@ -1,0 +1,254 @@
+{
+  "id": 10518057,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. John Patrick LITEKY, Charles Joseph Liteky, Roy Lawrence Bourgeois, Defendants-Appellants",
+  "name_abbreviation": "United States v. Liteky",
+  "decision_date": "1992-09-28",
+  "docket_number": "No. 91-8577",
+  "first_page": "910",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "973 F.2d 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "11th Cir.",
+    "id": 9031,
+    "name": "United States Court of Appeals for the Eleventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "48 L.Ed.2d 188",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 S.Ct. 1685",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "425 U.S. 944",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6263179,
+        6262347,
+        6264181,
+        6262902,
+        6262585,
+        6263582
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0944-04",
+        "/us/425/0944-01",
+        "/us/425/0944-06",
+        "/us/425/0944-03",
+        "/us/425/0944-02",
+        "/us/425/0944-05"
+      ]
+    },
+    {
+      "cite": "517 F.2d 1044",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1127921
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/517/1044-01"
+      ]
+    },
+    {
+      "cite": "66 L.Ed.2d 114",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 S.Ct. 244",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 U.S. 888",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11776646,
+        11776585,
+        11776779,
+        11776396,
+        11776719,
+        11776533,
+        11776474
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0888-05",
+        "/us/449/0888-04",
+        "/us/449/0888-07",
+        "/us/449/0888-01",
+        "/us/449/0888-06",
+        "/us/449/0888-03",
+        "/us/449/0888-02"
+      ]
+    },
+    {
+      "cite": "614 F.2d 958",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1401601
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/614/0958-01"
+      ]
+    },
+    {
+      "cite": "101 L.Ed.2d 894",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 2857",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "487 U.S. 1210",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1774850,
+        1774951,
+        1775240,
+        1775113,
+        1775245,
+        1775225,
+        1774811,
+        1775259,
+        1775133,
+        1774975
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/1210-09",
+        "/us/487/1210-06",
+        "/us/487/1210-04",
+        "/us/487/1210-03",
+        "/us/487/1210-08",
+        "/us/487/1210-01",
+        "/us/487/1210-02",
+        "/us/487/1210-10",
+        "/us/487/1210-05",
+        "/us/487/1210-07"
+      ]
+    },
+    {
+      "cite": "828 F.2d 1532",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1747958
+      ],
+      "pin_cites": [
+        {
+          "page": "1540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/828/1532-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 455",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 144",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1361",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 1991,
+    "ocr_confidence": 0.784,
+    "pagerank": {
+      "raw": 1.0030270827206583e-07,
+      "percentile": 0.539442260919459
+    },
+    "sha256": "e6521db3bc603293375cfb7b1dbc296c22ae88f7e9bfafbda122ca7a650bff67",
+    "simhash": "1:f75c47b030778ae8",
+    "word_count": 300
+  },
+  "last_updated": "2024-02-27T17:05:59.513684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before ANDERSON, Circuit Judge, HILL and ESCHBACH , Senior Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. John Patrick LITEKY, Charles Joseph Liteky, Roy Lawrence Bourgeois, Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nIn 1990, Charles Liteky, Patrick Liteky, and Father Roy Bourgeois spilled blood on federal property as part of a protest against the United States\u2019 involvement in El Salvador. The defendants were convicted of violating 18 U.S.C. \u00a7 1361, which prohibits \u201cwillfully injurpng] ... any property of the United States....\u201d Before the trial, the defendants requested that the district judge recuse himself, see 28 U.S.C. \u00a7 144; 28 U.S.C. \u00a7 455(a), because he had presided over Father Bourgeois\u2019 1983 conviction, which also related to a protest regarding United States policy toward El Salvador. But matters arising out of the course of judicial proceedings are not a proper basis for recusal. United States v. Alabama, 828 F.2d 1532, 1540 (11th Cir.1987), cert. denied, 487 U.S. 1210, 108 S.Ct. 2857, 101 L.Ed.2d 894 (1988); In re Corrugated Container Antitrust Litigation, 614 F.2d 958 (5th Cir.), cert. denied, 449 U.S. 888, 101 S.Ct. 244, 66 L.Ed.2d 114 (1980); Davis v. Board of School Comrs., 517 F.2d 1044 (5th Cir.1975), cert. denied, 425 U.S. 944, 96 S.Ct. 1685, 48 L.Ed.2d 188 (1976). Therefore, the district court properly rejected the motion. The defendants also contend that the district court denied them a fair trial. After carefully reviewing the defendants\u2019 arguments as well as the record on appeal, we have concluded that those arguments are without merit. \u2022\nConclusion\nWe AFFIRM the convictions.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Peter Thompson, Thompson, Lundquist & Sicoli, Ltd., Minneapolis, Minn., for defendants-appellants.",
+      "G.F. Peterman, III, Asst. U.S. Atty., Macon, Ga., for plaintiff-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. John Patrick LITEKY, Charles Joseph Liteky, Roy Lawrence Bourgeois, Defendants-Appellants.\nNo. 91-8577.\nUnited States Court of Appeals, Eleventh Circuit.\nSept. 28, 1992.\nPeter Thompson, Thompson, Lundquist & Sicoli, Ltd., Minneapolis, Minn., for defendants-appellants.\nG.F. Peterman, III, Asst. U.S. Atty., Macon, Ga., for plaintiff-appellee.\nBefore ANDERSON, Circuit Judge, HILL and ESCHBACH , Senior Circuit Judges.\nHonorable Jesse E. Eschbach, Senior U.S. Circuit Judge for the Seventh Circuit, sitting by designation."
+  },
+  "file_name": "0910-01",
+  "first_page_order": 970,
+  "last_page_order": 971
+}

@@ -1,0 +1,30 @@
+{
+  "reconciliation_mirror_byte_identical": true,
+  "base_commitments_mirror_byte_identical": true,
+  "base_commitments_modified_by_this_context": false,
+  "git_commands_run": false,
+  "cleared_matters": [
+    "Victor/Sandoval instruction components",
+    "Oregon Waste"
+  ],
+  "deferred_matters": [
+    "Granderson clean neutral supplement and renewed reconciliation",
+    "Powell clean neutral supplement and renewed reconciliation"
+  ],
+  "sha256": {
+    "terms/OT1993/freeze/OT_1993CHUNK3_RECONCILED_B.md": "8ee46e56ed7868c3da8d6246b87a753672a8ad37918264422a29e3c1fa6eb8d3",
+    "terms/OT1993/runtime/OT_1993CHUNK3_RECONCILED_B.md": "8ee46e56ed7868c3da8d6246b87a753672a8ad37918264422a29e3c1fa6eb8d3",
+    "terms/OT1993/freeze/OT_1993CHUNK3_COMMITMENTS_B.md": "87ad50070927b9a6ddf46485cf689e2b528785d9cd7f7f8f56f35b97090f5348",
+    "terms/OT1993/runtime/OT_1993CHUNK3_COMMITMENTS_B.md": "87ad50070927b9a6ddf46485cf689e2b528785d9cd7f7f8f56f35b97090f5348",
+    "terms/OT1993/freeze/OT_1993CHUNK3_NEUTRAL_B_REFRESH_REQUEST.md": "5f06f3ae828a1762f931d22a2e97218a3ead085a8be57a7a8d39fd6dc2e9491e",
+    "terms/OT1993/freeze/OT_1993CHUNK3_RECONCILIATION_VALIDATION_B.md": "611c6304e0559ed1db37153672fb7c06a44944ed4a4dabe1ac5da3c86f0061e2",
+    "terms/OT1993/freeze/chunk3-sources/Victor-511001.txt": "2921d4ec1c22562979b0f91ce603cfa4e17b8d497fd8165a0bd6452a48458fa5",
+    "terms/OT1993/freeze/chunk3-sources/Victor-511001.pdf": "b13ba03d9b9d71a0cece9ae56012ad46c6177485d4bd389191c31e41a56888f7",
+    "terms/OT1993/freeze/chunk3-sources/Granderson-511039.txt": "57749b3d43db1857c4bf9e65305686a748212bab1664d6550757f2ef719d07da",
+    "terms/OT1993/freeze/chunk3-sources/Granderson-511039.pdf": "786012dd93eed0ea0c80cf44628bab3250eac1ce323b4ed8fe8af65043a7ad9b",
+    "terms/OT1993/freeze/chunk3-sources/Powell-511079.txt": "bf1674a6f1a2a12828a0059f192f5b07aea08e4293c7a40190ecc41838584ba2",
+    "terms/OT1993/freeze/chunk3-sources/Powell-511079.pdf": "4d09c1996d5ff85e092e64c4df5a27ce4e12018e866399ef6e2c48c9cdabd49f",
+    "terms/OT1993/freeze/chunk3-sources/OregonWaste-511093.txt": "2d9326472c386dde210b3e618a281c3afb2da24bbd144ce5b04c7b6f0d62a6ca",
+    "terms/OT1993/freeze/chunk3-sources/OregonWaste-511093.pdf": "ae810fb247cc66bd413d4efec6cbef65693ecd28074dba42a3914aab41aaa577"
+  }
+}

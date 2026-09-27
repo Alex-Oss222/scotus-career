@@ -1,0 +1,2140 @@
+{
+  "id": 2001562,
+  "name": "THE PEOPLE, Plaintiff and Respondent, v. ALFRED ARTHUR SANDOVAL, Defendant and Appellant",
+  "name_abbreviation": "People v. Sandoval",
+  "decision_date": "1992-12-14",
+  "docket_number": "No. S004765. Crim. No. 26405",
+  "first_page": "155",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Cal. 4th 155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 9021,
+    "name": "Supreme Court of California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "247 Cal.Rptr. 729",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 548",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4529252
+      ],
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/0548-01"
+      ]
+    },
+    {
+      "cite": "599 P.2d 100",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Cal.Rptr. 905",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.3d 283",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2270536
+      ],
+      "pin_cites": [
+        {
+          "page": "292-316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/25/0283-01"
+      ]
+    },
+    {
+      "cite": "842 P.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.Rptr.2d 702",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.4th 1183",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2008231
+      ],
+      "pin_cites": [
+        {
+          "page": "1234-1235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/3/1183-01"
+      ]
+    },
+    {
+      "cite": "807 P.2d 1009",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 Cal.Rptr. 780",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Cal.3d 334",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2358530
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "385-386"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/53/0334-01"
+      ]
+    },
+    {
+      "cite": "498 U.S. 39",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217574
+      ],
+      "weight": 5,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0039-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 609",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524757
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0609-01"
+      ]
+    },
+    {
+      "cite": "753 P.2d 37",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "246 Cal.Rptr. 245",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 86",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4529308
+      ],
+      "pin_cites": [
+        {
+          "page": "112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/0086-01"
+      ]
+    },
+    {
+      "cite": "499 P.2d 129",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Cal.Rptr. 161",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.3d 756",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2277369
+      ],
+      "pin_cites": [
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/7/0756-01"
+      ]
+    },
+    {
+      "cite": "193 Cal.Rptr. 614",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Cal.App.3d 658",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2101416
+      ],
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/145/0658-01"
+      ]
+    },
+    {
+      "cite": "489 P.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Cal.Rptr. 684",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.3d 839",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2324376
+      ],
+      "pin_cites": [
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/5/0839-01"
+      ]
+    },
+    {
+      "cite": "659 P.2d 1144",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Cal.Rptr. 855",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Cal.3d 572",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4635872
+      ],
+      "pin_cites": [
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/33/0572-01"
+      ]
+    },
+    {
+      "cite": "755 P.2d 960",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 Cal.Rptr. 510",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 1036",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4529219
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1088"
+        },
+        {
+          "page": "1117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/1036-01"
+      ]
+    },
+    {
+      "cite": "665 P.2d 520",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Cal.Rptr. 748",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.3d 92",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4552843
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/34/0092-01"
+      ]
+    },
+    {
+      "cite": "166 Cal.Rptr. 360",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Cal.App.3d 504",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4730769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/107/0504-01"
+      ]
+    },
+    {
+      "cite": "105 Cal.Rptr. 432",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Cal.App.3d 41",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2346095
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/29/0041-01"
+      ]
+    },
+    {
+      "cite": "609 P.2d 468",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Cal.Rptr. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.3d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2261866
+      ],
+      "pin_cites": [
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/27/0001-01"
+      ]
+    },
+    {
+      "cite": "751 P.2d 395",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "245 Cal.Rptr. 336",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.3d 883",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4537291
+      ],
+      "pin_cites": [
+        {
+          "page": "912-913"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/44/0883-01"
+      ]
+    },
+    {
+      "cite": "758 P.2d 1081",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Cal.Rptr. 550",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.3d 478",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1968793
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "410-513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/46/0478-01"
+      ]
+    },
+    {
+      "cite": "237 Cal.Rptr. 734",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Cal.App.3d 819",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2214004
+      ],
+      "pin_cites": [
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/192/0819-01"
+      ]
+    },
+    {
+      "cite": "213 Cal.Rptr. 742",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Cal.App.3d 1085",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2131114
+      ],
+      "pin_cites": [
+        {
+          "page": "1097-1098"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/167/1085-01"
+      ]
+    },
+    {
+      "cite": "696 P.2d 111",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Cal.Rptr. 719",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Cal.3d 301",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1977065
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/38/0301-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 683",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12764
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0683-01"
+      ]
+    },
+    {
+      "cite": "766 P.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 Cal.Rptr. 586",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.3d 983",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1971408
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1017-1018"
+        },
+        {
+          "page": "1030"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/47/0983-01"
+      ]
+    },
+    {
+      "cite": "718 P.2d 99",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Cal.Rptr. 112",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Cal.3d 826",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4544838
+      ],
+      "pin_cites": [
+        {
+          "page": "833"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/41/0826-01"
+      ]
+    },
+    {
+      "cite": "170 Cal.Rptr. 619",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Cal.App.3d 470",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6042977
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/114/0470-01"
+      ]
+    },
+    {
+      "cite": "647 P.2d 569",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Cal.Rptr. 165",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.3d 897",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1979986
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/31/0897-01"
+      ]
+    },
+    {
+      "cite": "755 P.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 Cal.Rptr. 126",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 744",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4528505
+      ],
+      "pin_cites": [
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/0744-01"
+      ]
+    },
+    {
+      "cite": "761 P.2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "251 Cal.Rptr. 757",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.3d 1035",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1968872
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/46/1035-01"
+      ]
+    },
+    {
+      "cite": "706 F.2d 282",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1117005
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/706/0282-01"
+      ]
+    },
+    {
+      "cite": "131 App.D.C. 7",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "401 F.2d 958",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2135097,
+        3579492
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/401/0958-01"
+      ]
+    },
+    {
+      "cite": "843 F.2d 1019",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10547574
+      ],
+      "pin_cites": [
+        {
+          "page": "1022"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/843/1019-01"
+      ]
+    },
+    {
+      "cite": "753 P.2d 1082",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "246 Cal.Rptr. 886",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 306",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4528882
+      ],
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/0306-01"
+      ]
+    },
+    {
+      "cite": "802 P.2d 950",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "277 Cal.Rptr. 166",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal.3d 909",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2376173
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "934"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/52/0909-01"
+      ]
+    },
+    {
+      "cite": "683 P.2d 699",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Cal.Rptr. 700",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.3d 441",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4467989
+      ],
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/36/0441-01"
+      ]
+    },
+    {
+      "cite": "770 P.2d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 Cal.Rptr. 550",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.3d 632",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4615250
+      ],
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/48/0632-01"
+      ]
+    },
+    {
+      "cite": "760 P.2d 996",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "251 Cal.Rptr. 467",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.3d 919",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1968854
+      ],
+      "pin_cites": [
+        {
+          "page": "938"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/46/0919-01"
+      ]
+    },
+    {
+      "cite": "764 P.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "253 Cal.Rptr. 710",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.3d 576",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1971374
+      ],
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/47/0576-01"
+      ]
+    },
+    {
+      "cite": "722 P.2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Cal.Rptr. 899",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.3d 378",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4464274
+      ],
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/42/0378-01"
+      ]
+    },
+    {
+      "cite": "789 P.2d 983",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 Cal.Rptr. 802",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.3d 826",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4461106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/50/0826-01"
+      ]
+    },
+    {
+      "cite": "774 P.2d 659",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "259 Cal.Rptr. 630",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "639 P.2d 908",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Cal.Rptr. 266",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Cal.3d 553",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2013867
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/30/0553-01"
+      ]
+    },
+    {
+      "cite": "776 P.2d 285",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "260 Cal.Rptr. 583",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.3d 200",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1974348
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/49/0200-01"
+      ]
+    },
+    {
+      "cite": "821 P.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.Rptr.2d 81",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.4th 281",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1201310
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "319"
+        },
+        {
+          "page": "317-320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/1/0281-01"
+      ]
+    },
+    {
+      "cite": "442 P.2d 353",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.Rptr. 297",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.2d 810",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2306189
+      ],
+      "pin_cites": [
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/68/0810-01"
+      ]
+    },
+    {
+      "cite": "92 A.L.R.3d 1127",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "542 P.2d 229",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.Rptr. 357",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.3d 540",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2272264
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/15/0540-01"
+      ]
+    },
+    {
+      "cite": "771 P.2d 1330",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 Cal.Rptr 242",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.3d 935",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4615837
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/48/0935-01"
+      ]
+    },
+    {
+      "cite": "790 P.2d 1289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 Cal.Rptr. 492",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.3d 954",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4460735
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "993"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/50/0954-01"
+      ]
+    },
+    {
+      "cite": "24 A.L.R.3d 1065",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829794
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0558-01"
+      ]
+    },
+    {
+      "cite": "706 F.Supp. 1534",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7394846
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1559"
+        },
+        {
+          "page": "1559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/706/1534-01"
+      ]
+    },
+    {
+      "cite": "366 P.2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.Rptr. 777",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal.2d 720",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4379509
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/56/0720-01"
+      ]
+    },
+    {
+      "cite": "841 P.2d 118",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.Rptr.2d 133",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "485 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13683
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "31-34"
+        },
+        {
+          "page": "30-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0025-01"
+      ]
+    },
+    {
+      "cite": "426 P.2d 908",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Cal.Rptr. 340",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Cal.2d 536",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2331151
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/66/0536-01"
+      ]
+    },
+    {
+      "cite": "545 P.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Cal.Rptr. 467",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.3d 156",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2295063
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/16/0156-01"
+      ]
+    },
+    {
+      "cite": "821 P.2d 1302",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.Rptr.2d 426",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.4th 173",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1201311
+      ],
+      "pin_cites": [
+        {
+          "page": "234-235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/1/0173-01"
+      ]
+    },
+    {
+      "cite": "115 L.Ed.2d 720",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        1108176
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0808-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 805",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605301
+      ],
+      "weight": 7,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0805-01"
+      ]
+    },
+    {
+      "cite": "482 U.S. 496",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216766
+      ],
+      "weight": 7,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/482/0496-01"
+      ]
+    },
+    {
+      "cite": "819 P.2d 436",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.Rptr.2d 696",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Cal.3d 787",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1946391
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "844"
+        },
+        {
+          "page": "833-836"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/54/0787-01"
+      ]
+    },
+    {
+      "cite": "755 P.2d 253",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 Cal.Rptr. 69",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 660",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4528807
+      ],
+      "pin_cites": [
+        {
+          "page": "716"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/0660-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217116
+      ],
+      "weight": 3,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0356-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 153",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176749
+      ],
+      "weight": 3,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0153-01"
+      ]
+    },
+    {
+      "cite": "758 P.2d 1135",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Cal.Rptr. 604",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.3d 432",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1968864
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "456-457"
+        },
+        {
+          "page": "448-449"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/46/0432-01"
+      ]
+    },
+    {
+      "cite": "758 P.2d 1217",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Cal.Rptr. 687",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.3d 659",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1968814
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "704-705, fn. 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/46/0659-01"
+      ]
+    },
+    {
+      "cite": "753 P.2d 1052",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "247 Cal.Rptr. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.3d 259",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4528423
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "301-302"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/45/0259-01"
+      ]
+    },
+    {
+      "cite": "726 P.2d 113",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 Cal.Rptr. 667",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.3d 730",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4464588
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "777-779"
+        },
+        {
+          "page": "775"
+        },
+        {
+          "page": "774-777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/42/0730-01"
+      ]
+    },
+    {
+      "cite": "754 P.2d 1306",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "512 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1798681,
+        1798711
+      ],
+      "year": 1986,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/511/0231-01",
+        "/pa/511/0232-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 232",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798711
+      ],
+      "year": 1986,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/511/0232-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 135",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822776
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/524/0135-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210041
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "576-579"
+        },
+        {
+          "page": "469-471"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/478/0570-01"
+      ]
+    },
+    {
+      "cite": "792 P.2d 251",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "270 Cal.Rptr. 451",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "50 Cal.3d 1223",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4460721
+      ],
+      "pin_cites": [
+        {
+          "page": "1253"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-3d/50/1223-01"
+      ]
+    },
+    {
+      "cite": "838 P.2d 204",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "12 Cal.Rptr.2d 682",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "3 Cal.4th 806",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2008217
+      ],
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-4th/3/0806-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 992",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202816
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "998-999"
+        },
+        {
+          "page": "1178-1179"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/463/0992-01"
+      ]
+    },
+    {
+      "cite": "105 S.Ct. 2633",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "86 L.Ed.2d 231",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "pin_cites": [
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "472 U.S. 320",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "827 P.2d 388",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "6 Cal.Rptr.2d 822",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "2 Cal.4th 408",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2005391
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "483-484"
+        },
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-4th/2/0408-01"
+      ]
+    },
+    {
+      "cite": "839 P.2d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "13 Cal.Rptr.2d 511",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "3 Cal.4th 1088",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2008282
+      ],
+      "pin_cites": [
+        {
+          "page": "1107"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-4th/3/1088-01"
+      ]
+    },
+    {
+      "cite": "839 P.2d 984",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "13 Cal.Rptr.2d 475",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "3 Cal.4th 959",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2008240
+      ],
+      "pin_cites": [
+        {
+          "page": "1016"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-4th/3/0959-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829794
+      ],
+      "weight": 6,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/528/0558-01"
+      ]
+    },
+    {
+      "cite": "706 F.Supp. 1534",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7394846
+      ],
+      "weight": 6,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1559"
+        },
+        {
+          "page": "p. 1559"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/706/1534-01"
+      ]
+    },
+    {
+      "cite": "758 P.2d 1135",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "250 Cal.Rptr. 604",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "46 Cal.3d 432",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1968864
+      ],
+      "pin_cites": [
+        {
+          "page": "446-448"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-3d/46/0432-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2938,
+    "char_count": 101063,
+    "ocr_confidence": 0.881,
+    "pagerank": {
+      "raw": 4.5820092116899574e-07,
+      "percentile": 0.9253858043461222
+    },
+    "sha256": "63c3e557a479d5b9e116eb67c951f42d7c939ba73ae1069283092ff422eda4a7",
+    "simhash": "1:8b61613235fe493d",
+    "word_count": 16791
+  },
+  "last_updated": "2024-02-27T20:27:09.604878+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE PEOPLE, Plaintiff and Respondent, v. ALFRED ARTHUR SANDOVAL, Defendant and Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPANELLI, J.\n\u2014Defendant was convicted by a jury in the Los Angeles County Superior Court of four counts of first degree murder (Pen. Code, \u00a7 187) with a multiple-murder special-circumstance finding (\u00a7 190.2, subd. (a)(3)), and one count of attempted murder (\u00a7\u00a7 664/187). The jury also found that defendant personally used a firearm in the commission of each offense (\u00a7 12022.5).\nThe jury returned a verdict of death as to the conviction of murder of Marlene Wells and verdicts of life without possibility of parole as to the convictions of murder of Gilbert Martinez, Anthony Aceves, and Ray Wells. The appeal is automatic. (\u00a7 1239, subd. (b).)\nGuilt Phase Facts\nProsecution Case.\n1. Belvedere Park Murders.\nAbout 2:30 a.m. on October 14, 1984, Adela Rodriguez and a group of girls (Zebba, Susie, Dianne, Corine, and Yvonne), along with Gilbert Martinez and Manuel Torres, drove to Belvedere Park in East Los Angeles. Anthony Aceves and a man named Jack drove to the park in another car. Once there, the group broke up into couples. Adela walked off with Gilbert Martinez.\nAdela and Gilbert started walking back to the car after Zebba called for them to return. A fight was about to start near the car between people Adela did not know. As Adela was getting in the car, Gilbert said, \u201cLet me get my friends first.\u201d As Gilbert approached his friends, Adela saw defendant shoot Gilbert in the head at close range. Defendant also shot Anthony in the head, and he shot at Manuel as the latter ran away. Defendant turned and pointed the gun at Adela and her friend Susie. Susie backed the car out, and drove off. Defendant\u2019s car followed them for a short distance. The girls then returned to the park to check on their friends. Gilbert died in Adela\u2019s arms.\nSusie Martinez testified that she drove Adela and the others to Belvedere Park on October 14,1984. She walked around the park with Anthony Aceves until they were called back to the car. When they arrived at the car, she saw Carlos Tostado fighting with someone. The fight stopped, and she noticed defendant standing next to a brown Monte Carlo arguing or talking with Anthony. Gilbert was nearby. Defendant pulled out a gun and shot Gilbert and Anthony in the head. After Gilbert fell to the ground, defendant shot him again. Susie did not see Gilbert or Anthony with any weapons, nor did she them make any aggressive gestures.\nCarlos Tostado testified that he drove a white Monte Carlo to Belvedere Park on October 14,1984. Several friends were with him. Another car drove up with four young women and three men. Tostado fought with one of the men. As the fight was breaking up, defendant, also known as \u201cChato,\u201d and Eugene Valenzuela, also known as \u201cFelon,\u201d drove up in a tan Monte Carlo. Defendant got out of the car, grabbed one of the men by the neck and shot him. Tostado had known defendant for about 10 years and was a member of the same gang, Arizona Marivilla. The victims belonged to a different gang, Mariana Marivilla.\nTostado admitted that he had lied to the police when he gave them statements on October 14, October 16, and December 12,1984. He acknowledged that he was on probation for using phencyclidine (PCP) at the time of his testimony.\nThe prosecution read the preliminary hearing testimony of Manuel Torres, who had since died in an unrelated auto accident. He had gone to Belvedere Park in Susie\u2019s car with Gilbert Martinez and several young women. As they were getting into the car to leave, Gilbert stopped to talk to a group of people. Anthony Aceves left the car to \u201cback up\u201d Gilbert. Torres heard shots and saw Anthony fall to the ground. He himself was shot in the neck, but he did not see who shot him.\nDeputy Sheriff Woodrow West went to Belvedere Park around 4 a.m. to investigate the shootings. He found a small pocket knife on the ground near the spot where Anthony Aceves had fallen. There were traces of blood on the knife. Deputy West also found five expended .22-caliber bullet casings.\nAutopsies performed on the bodies of Gilbert Martinez and Anthony Aceves revealed that both alcohol (.09 percent) and PCP (.033 micrograms per milliliter) were found in Martinez\u2019s blood and that PCP (.042 micrograms per milliliter) was detected in Aceves\u2019s liver tissue. Since Aceves died three days after the shooting, the PCP levels in his liver and blood would have been higher at the time of the shooting.\n2. Wells Murders.\nBenjamin Verduzco had known defendant for about 16 years and had been a fellow member of Arizona Marivilla, but Verduzco no longer belonged. He agreed to testify in exchange for release from prison. He was placed in a protection program, given $600 a month for room and board, and was promised a name change.\nOn October 15 or 16,1984, defendant asked Verduzco to keep a beige and brown Monte Carlo in his garage because he was in some kind of trouble. Verduzco agreed. Defendant left the car in Verduzco\u2019s garage and drove off with Eugene Valenzuela in a 1969 black Chevrolet Impala.\nA week later, on October 24, 1984, defendant came to Verduzco\u2019s home. Ray and Marlene Wells arrived a few minutes later. Defendant asked to borrow $5 from Ray Wells and then left. That night, the police came to Verduzco\u2019s house and seized defendant\u2019s car.\nOn October 31, 1984, at 12:42 a.m., Frank Bender heard gunshots. He went to the front door of his house and looked across the street to the residence of Ray and Marlene Wells. He noticed that the Wellses\u2019 dog appeared frightened. He also saw a black 1968 Chevrolet Caprice parked nearby with the engine running. Shortly thereafter, he saw a silhouette cross the Wells yard and drive away in the car.\nThat same night, between 1 and 2 a.m., defendant called Benjamin Verduzco and said, \u201cBennie, I just did the big mouth in.\u201d When Verduzco asked, \u201cWho,\u201d defendant said, \u201cRemember the one who was there in the morning with the car.\u201d He referred to him as \u201cR\u201d and did not use a name. Defendant also said, \u201cYou know I take care of business. I had to do her, too.\u201d Defendant killed \u201cher\u201d because she saw him \u201cdo R.\u201d Defendant said, \u201cThey have gone to heaven with the angels.\u201d Defendant said he did it so that \u201cthey wouldn\u2019t be snitching no more.\u201d\nDeputy Sheriff Robert Havercroft went to the Wells residence on the night of the murders. The rear door of the house was closed but not locked. He found Ray Wells\u2019s body on a couch in the living room and Marlene\u2019s body in the doorway between the dining room and kitchen. Deputy Havercroft found no evidence of theft, and no signs of forced entry.\nDeputy Havercroft found three appointment books with many names and addresses. Attached to one of the appointment books were two small pieces of paper. The names \u201cChato\u201d and \u201cFelon\u201d were written on one piece of paper, and the name \u201cMoses Verduzco\u201d was written on the other.\nBetty Phipps sold a 1968 Chevrolet Caprice to defendant in October 1984. The car was not in running condition; defendant told her he was going to fix it up. On October 7, 1984, a black 1968 Chevrolet Caprice was stolen from the Los Angeles zoo. The stolen 1968 Chevrolet Caprice was stopped at the United States-Mexico border at Tecate on December 15, 1984, while Salvador Rubio, a member of the Arizona Marivilla gang, was driving it. The license plate and vehicle identification numbers that were on the car did not belong to the car. One of the documents found in the glove compartment was a \u201cpink slip\u201d or ownership certificate with the name of Betty Phipps on the back.\nDefense Case.\n1. Belvedere Park Murders.\nThe defense presented evidence from law enforcement officers and others regarding inconsistent statements given by Adela Rodriguez and the other young women on the night of the shootings. Zebba Rodriguez testified that when she was walking back to the car she saw Gilbert Martinez, Anthony Aceves, and Manuel Torres arguing with about three other men. She was afraid, got in the car, heard shots, and ducked until she heard no more shots. When she raised her head, she saw Gilbert and Anthony lying on the ground. She did not see who had done the shooting.\nDavid Martinez testified that he went to Belvedere Park on the night of the shooting with Carlos Tostado. He and Tostado had spent the day cruising, drinking beer and smoking PCP.\nDr. Griffith Thomas, a pathologist, testified that PCP can cause very bizarre and aggressive behavior. The amount of PCP in the victims\u2019 bodies would correlate with bizarre behavior. Dr. Donald Trackman, a forensic psychiatrist, testified that persons with amounts of PCP in their systems such as the victims showed were \u201cunpredictable people\u201d and that they \u201cmay attack you and try to kill you.\u201d\n2. Wells Murders.\nDetective Gene Hetzel interviewed Benjamin Verduzco on November 1, 1984. When he told Verduzco that the Wellses had been murdered, Verduzco appeared surprised and shocked. Verduzco did not mention that he had received a phone call from defendant on the night of the murders. He did not tell police about the phone call until much later.\nRalph Ortega testified that he went to a ranch in Tecate, Mexico with defendant and several other people on October 24, 1984. Ortega went back to Los Angeles and returned to Tecate with his wife and children on October 30, 1984. Defendant was still there. The next evening, October 31, Halloween, defendant and some others took Ortega\u2019s son trick-or-treating.\nGuilt Phase Contentions\n1. Denial of Motion to Sever Counts.\nDefendant contends that the trial court erred in denying his motion to sever the Belvedere Park murders from the Wells murders. He argued for severance on the basis that the incidents were unrelated, not cross-admissible, and that the evidence in the Wells charges was far weaker than that in the Belvedere Park charges. The court denied severance based on the prosecutor\u2019s representation that Benjamin Verduzco would testify at trial and provide evidence of defendant\u2019s motive and premeditation concerning the Wells murders that linked them with the Belvedere Park murders.\nDefendant renewed his motion to sever shortly before trial was scheduled to begin. The trial court denied the motion, again in reliance on the prosecutor\u2019s representation about Verduzco\u2019s anticipated testimony.\nSection 954 provides in pertinent part: \u201cAn accusatory pleading may charge two or more different offenses . . . of the same class of crimes or offenses, under separate counts, . . . provided, that the court in which a case is triable, in the interests of justice and for good cause shown, may in its discretion order that the different offenses or counts set forth in the accusatory pleading be tried separately or divided into two or more groups and each of said groups tried separately. ...\u201d\nThe statutory requirements for joinder were met here because both incidents involved the same class of crimes\u2014murder. Since the requirements for joinder were satisfied, defendant can predicate error only on a clear showing of potential prejudice. (People v. Johnson (1988) 47 Cal.3d 576, 587 [253 Cal.Rptr. 710, 764 P.2d 1087].) \u201cThe burden is on the party seeking severance to clearly establish that there is a substantial danger of prejudice requiring that the charges be separately tried.\u201d (People v. Bean (1988) 46 Cal.3d 919, 938 [251 Cal.Rptr. 467, 760 P.2d 996].)\n\u201cThe determination of prejudice is necessarily dependent on the particular circumstances of each individual case, but certain criteria have emerged to provide guidance in ruling upon and reviewing a motion to sever trial.\u201d (Frank v. Superior Court (1989) 48 Cal.3d 632, 639 [257 Cal.Rptr. 550, 770 P.2d 1119].) Refusal to sever may be an abuse of discretion where: (1) evidence on the crimes to be jointly tried would not be cross-admissible in separate trials; (2) certain of the charges are unusually likely to inflame the jury against the defendant; (3) a \u201cweak\u201d case has been joined with a \u201cstrong\u201d case, or with another \u201cweak\u201d case, so that the \u201cspillover\u201d effect of aggregate evidence on several charges might well alter the outcome of some or all of the charges; and (4) any one of the charges carries the death penalty or joinder of them turns the matter into a capital case. (Ibid.; see also Williams v. Superior Court (1984) 36 Cal.3d 441, 453 [204 Cal.Rptr. 700, 683 P.2d 699].)\nDefendant bases his argument for prejudice primarily on the absence of cross-admissibility of the two sets of offenses. He argues that the trial court\u2019s reasoning did not establish that the evidence of the two separate incidents would have been admissible in its entirety had there been separate trials. According to defendant, all it established was that there would have been some minor evidentiary crossover as to the two incidents. However, even if defendant is correct on this point, it is now clear that cross-admissibility is not the sine qua non of joint trials. (People v. Mason (1991) 52 Cal.3d 909, 934 [277 Cal.Rptr. 166, 802 P.2d 950]; Frank v. Superior Court, supra, 48 Cal.3d at p. 641; People v. Poggi (1988) 45 Cal.3d 306, 321 [246 Cal.Rptr. 886, 753 P.2d 1082].) \u201cWhile we have held that cross-admissibility ordinarily dispels any inference of prejudice, we have never held that the absence of cross-admissibility, by itself, sufficed to demonstrate prejudice.\u201d (People v. Mason, supra, 52 Cal.3d at p. 934.) \u201cThat the evidence would otherwise be inadmissible may be considered as a factor suggesting possible prejudice, but countervailing considerations that are not present when evidence of uncharged offenses is offered must be weighed in ruling on a severance motion. The burden is on the defendant therefore to persuade the court that these countervailing considerations are outweighed by a substantial danger of undue prejudice.\u201d (People v. Bean, supra, 46 Cal.3d at p. 939.)\nDefendant did not carry that burden. The potential prejudice he asserted did not rise to the level of demonstrating that the court\u2019s denial of severance was an abuse of discretion. The court recognized that the anticipated testimony by Verduzco added significantly to the strength of the Wells case, thereby obviating the danger of a \u201cspillover\u201d effect from the Belvedere Park evidence. Indeed, the court suggested that it would reconsider the severance motion if the prosecution were not able to secure Verduzco\u2019s testimony. The inflammatory effect of defendant\u2019s gang membership as to the Belvedere Park case was neutralized by the fact that the victims were also gang members. Moreover, this was not a case in which capital charges resulted solely from the joinder of the two incidents. (Cf. Williams v. Superior Court, supra, 36 Cal.3d at p. 454.)\nDefendant also made passing reference to the fact that he had separate defenses that would be prejudiced because he desired to testify as to one incident but not the other. Although we have not addressed this theory of prejudice, it has been considered by federal courts. The federal courts have ruled that severance is not mandatory every time a defendant wishes to testify to one charge but not to another. \u201c \u2018If that were the law, a court would be divested of all control over the matter of severance and the choice would be entrusted to the defendant.\u2019 \u201d (U.S. v. Archer (7th Cir. 1988) 843 F.2d 1019, 1022.) The need for severance does not arise in federal courts \u201c \u2018until the defendant makes a convincing showing that he has both important testimony to give concerning one count and strong need to refrain from testifying on the other.\u2019 \u201d (Ibid.; quoting Baker v. United States (D.C. Cir. (1968) 401 F.2d 958, 977 [131 App.D.C. 7]; see also United States v. Valentine (10th Cir. 1983) 706 F.2d 282, 291.) Federal courts have required the defendant to present enough information to satisfy the court that the claim of prejudice is genuine and to enable it to weigh the considerations of economy and expedient judicial administration against the defendant\u2019s interest in having a free choice with respect to testifying. (United States v. Valentine, supra, 706 F.2d at p. 291.)\nDefendant\u2019s showing fell far short of anything that would have satisfied the federal standards or any standard this court might adopt. Defendant neither explained the nature of the testimony he wished to give in the Belvedere Park case nor his reasons for not wanting to testify in the Wells case. The trial court did not abuse its discretion in denying severance.\nBecause the issue is raised on appeal following trial, we must also consider whether, \u201cdespite the correctness of the trial court\u2019s ruling, a gross unfairness has occurred from the joinder such as to deprive the defendant of a fair trial or due process of law.\u201d (People v. Johnson, supra, 47 Cal.3d at p. 590.) Defendant claims gross unfairness occurred as a result of the destruction of his ability to testify as to one incident but not as to the other. He has done no more, however, than make a bald assertion to that effect. \u201cOne asserting prejudice has the burden of proving it; a bald assertion of prejudice is not sufficient.\u201d (Id. at p. 591.) We conclude, therefore, that defendant has failed to show that denial of severance deprived him of a fair trial.\n2. Use of Peremptory Challenges.\nDefendant contends that the trial court erred in permitting the prosecutor to systematically exercise his peremptory challenges to excuse from the jury those prospective jurors who had expressed some scruples about imposition of the death penalty. Defendant acknowledges that we have addressed this contention on numerous occasions and have found no constitutional infirmity in permitting peremptory challenges by both sides on the basis of specific juror attitudes on the death penalty. (See, e.g., People v. Caro (1988) 46 Cal.3d 1035, 1061 [251 Cal.Rptr. 757, 761 P.2d 680]; People v. Belmontes (1988) 45 Cal.3d 744, 799 [248 Cal.Rptr. 126, 755 P.2d 310].) Accordingly, we reject defendant\u2019s contention.\n3. Evidence of Defendant\u2019s Gang Membership.\nDefendant contends that the trial court erred in admitting evidence of his gang membership because it was irrelevant and prejudicial to his defense. Defendant objected pretrial by moving to preclude the prosecutor from referring to his alleged gang membership during opening statements. The prosecutor argued that evidence of gang membership was relevant to prove the motive for the murders at Belvedere Park. The trial court ruled that the prosecutor had made a showing that the evidence was admissible and denied the motion.\nDefendant later moved to strike the testimony of Carlos Tostado and Benjamin Verduzco on the ground that the prosecutor had used them to put irrelevant and prejudicial testimony before the jury of defendant\u2019s alleged gang membership. The trial court denied the motion, ruling that the gang membership evidence had not caused undue prejudice.\nDefendant argues that the evidence of gang membership was irrelevant and that the prosecutor never proved a gang-related motive for the shootings. We do not agree. The evidence established that the victims were members of a rival gang. The fact that the gangs purportedly had been at peace for seven years does not eliminate gang retaliation as a motive. Indeed, that appears to have been the only plausible motive. What we have here is a battle over turf. The Arizona Marivilla gang considered Belvedere Park to be its territory. The victims, members of a rival gang, were in Arizona Marivilla territory and were shot by a member of the Arizona gang without any other provocation.\nDefendant argues that evidence of gang membership was found to be prejudicial and irrelevant in People v. Cardenas (1982) 31 Cal.3d 897 [184 Cal.Rptr. 165, 647 P.2d 569] and People v. Perez (1981) 114 Cal.App.3d 470 [170 Cal.Rptr. 619]. However, here, unlike Cardenas and Perez, the evidence was far more relevant. In Cardenas the prosecution introduced evidence of gang membership to prove bias of defense witnesses, but bias had already been established by other testimony. We held that the admission of gang membership evidence was an abuse of discretion under Evidence Code section 352 because the evidence was of minimal probative value, cumulative, and extremely prejudicial. In Perez, the evidence of gang membership had no relevance to any issue at trial. In this case, the court did not err in the admission of gang affiliation.\n4. Exclusion of Evidence of Third Party Culpability.\nDefendant contends that the trial court improperly excluded, pursuant to Evidence Code section 352, evidence of third party culpability as to the Wells murders. We find no abuse of the court\u2019s discretion to exclude such evidence.\nDeputy Havercroft found a daily appointment book and two weekly planners at the Wells residence. The books contained many names and addresses. Two small pieces of paper were clipped to the daily appointment book. The names \u201cChato\u201d and \u201cFelon\u201d were written on one piece of paper, and the name \u201cMoses Verduzco\u201d was written on the other piece of paper. Defendant\u2019s nickname is \u201cChato.\u201d\nThe defense sought to prove that Ray Wells was the center of a violent criminal operation involving drugs and stolen cars and guns, and that any number of criminal accomplices or rivals could have killed him. Therefore, the defense sought to cross-examine Deputy Havercroft about the names found in the appointment book and weekly planners and to introduce those documents into evidence. After considerable argument and an offer of proof, the court ruled that the evidence was inadmissible because \u201cit still does not point the finger at any individual nor does it rise at all above possible ground of suspicion.\u201d\nA criminal defendant has a right to present evidence of third party culpability if it is capable of raising a reasonable doubt about his own guilt. This rule does \u201cnot require that any evidence, however remote, must be admitted to show a third party\u2019s possible culpability. . . . [E]vidence of mere motive or opportunity to commit the crime in another person, without more, will not suffice to raise a reasonable doubt about a defendant\u2019s guilt: there must be direct or circumstantial evidence linking the third person to the actual perpetration of the crime.\u201d (People v. Hall (1986) 41 Cal.3d 826, 833 [226 Cal.Rptr. 112, 718 P.2d 99].)\nThe trial court properly found defendant\u2019s showing insufficient. The defense had no evidence of another person\u2019s actual motive to commit the crimes. Instead, the defense merely raised the possibility that others had a motive to kill Ray and Marlene Wells. Although the defense identified two persons with plausible motives, they had no direct or circumstantial evidence linking them to actual perpetration of the crimes.\nThe present case is similar to People v. Edelbacher (1989) 47 Cal.3d 983, 1017-1018 [254 Cal.Rptr. 586, 766 P.2d 1], where the defense sought to introduce evidence concerning the victim\u2019s association with \u201cHell\u2019s Angel-type people\u201d and drug dealers in order to prove that someone other than the defendant committed the crime. We affirmed the trial court\u2019s ruling that the evidence was inadmissible. It did not identify a possible suspect other than the defendant or link any third person to commission of the crime, or even establish an actual motive rather than a possible or potential motive.\nDefendant\u2019s reliance on Crane v. Kentucky (1986) 476 U.S. 683 [90 L.Ed.2d 636, 106 S.Ct. 2142] is misplaced. That case bears no similarity to the facts of the present case. Crane involved the exclusion of testimony regarding the circumstances surrounding the taking of the defendant\u2019s confession. The Supreme Court held that the ruling had denied the defendant a fair opportunity to present a defense.\nAs an additional basis for admission of this evidence defendant argues that the evidence was admissible pursuant to Evidence Code section 356. That argument is also unavailing. Evidence Code section 356 provides in pertinent part: \u201cWhere part of an act, declaration, conversation, or writing is given in evidence . . . , any other act, declaration, conversation, or writing which is necessary to make it understood may also be given in evidence.\u201d\nContrary to defendant\u2019s contention, Evidence Code section 356 did not require admission of the appointment book and weekly planners. Those books simply were not part of a writing given in evidence by the prosecution. While the prosecution introduced independent slips of paper that were clipped to the appointment book, the book and the weekly planners themselves were unnecessary to an understanding of the slips of paper.\n5. Admissibility of Prior Conviction for Impeachment.\nDefendant contends that the trial court erred in ruling that his prior conviction for assault with intent to commit murder would be admissible for impeachment purposes. We do not agree. The court followed the analysis set forth in People v. Castro (1985) 38 Cal.3d 301 [211 Cal.Rptr. 719, 696 P.2d 111], interpreting article I, section 28, subdivision (f) of the California Constitution, which was enacted as part of Proposition 8 in 1982. It properly concluded that defendant\u2019s reliance on pre-Castro cases was not determinative and that defendant\u2019s conviction for assault with intent to commit murder involved moral turpitude. (People v. Olmedo (1985) 167 Cal.App.3d 1085, 1097-1098 [213 Cal.Rptr. 742].) The court then exercised its discretion under Evidence Code section 352, concluding that the probative value outweighed the prejudicial effect. The court noted that it could not assess the impact of the prior conviction on defendant\u2019s testimony because no offer of proof as to that testimony had been made. Contrary to defendant\u2019s contention, the court did not state that an offer of proof was required and, indeed, noted that California law did not then require an offer of proof. Because of the similarity of the prior to one of the charged crimes, the court offered to sanitize the prior by allowing reference to the conviction only as a prior felony conviction. It did not abuse its discretion in doing so. (See People v. Massey (1987) 192 Cal.App.3d 819, 825 [237 Cal.Rptr. 734].)\nDefendant\u2019s reliance on pre-Castro and Proposition 8 cases is unpersuasive. As we noted in People v. Castro, supra, 38 Cal.3d at page 312, the intention of the drafters of Proposition 8 was to \u201crestore trial court discretion as visualized by the Evidence Code and to reject the rigid, black letter rules of exclusion\u201d which had been grafted onto the code by our decisions. Accordingly, we find no abuse of discretion in the trial court\u2019s ruling.\n6. Request for Ruling in Advance on Scope of Cross-examination of\nDefendant.\nDefendant contends that the trial court\u2019s refusal to rule on the scope of permissible cross-examination if he took the witness stand to testify on the Belvedere Park murders violated his right to testify on his own behalf.\nBefore the defense rested its case, defense counsel told the court that defendant wished to testify about the Belvedere Park incident on October 14, 1984, but that he did not wish to testify about the Wells murders on October 31, 1984. Counsel asked the court to limit any cross-examination of defendant to the Belvedere Park charges. Counsel indicated that defendant would testify on the issue of self-defense but gave no further details as an offer of proof. Defense counsel argued that the two incidents were entirely separate and that the direct and cross-examination could therefore be limited to the Belvedere Park charges. The prosecution disagreed, asserting that there was evidentiary spillover regarding defendant\u2019s efforts to hide the beige and brown Monte Carlo in Verduzco\u2019s garage and Ray Wells\u2019s apparent knowledge of the transaction. The trial court refused to make a ruling in advance of defendant\u2019s actual testimony, stating \u201cwhether a defendant can effectively limit the cross-examination depends upon the direct examination and may not be known until he testifies. The law is that a defendant cannot artificially limit the cross-examination and direct examination.\u201d\nDefendant has failed to show that the court\u2019s ruling was erroneous. None of the authorities cited is directly on point, and none would have required the ruling sought here. Indeed, there is authority supportive of the trial court\u2019s action. (See People v. Keenan (1988) 46 Cal.3d 478, 410-513 [250 Cal.Rptr. 550, 758 P.2d 1081]; People v. Williams (1988) 44 Cal.3d 883, 912-913 [245 Cal.Rptr. 336, 751 P.2d 395].) The court acted well within its discretion.\n7. Cross-examination of Dr. Trockman.\nDr. Donald Trockman, a forensic psychiatrist, testified as an expert witness for the defense in support of the self-defense claim as to the Belvedere Park counts. Dr. Trockman testified that there was a high correlation between ingestion of PCP and unpredictable violence and hostility. Based on his review of the autopsy report of Gilbert Martinez showing bruises and high levels of PCP and alcohol in his blood, Dr. Trockman concluded that at the time of his death, Martinez was in an angry, aggressive, violent mood. He could not reach any specific conclusion as to the mood of Anthony Aceves because he had lived for three days after the shooting.\nOn cross-examination Dr. Trockman testified that the mental state reached under the influence of alcohol is different from the mental state reached under the influence of PCP. The prosecutor reminded the doctor that he had testified differently in previous cases where the person was charged with being under the influence of PCP and asked the doctor whether his answer was dependent on his function in the particular case.\nThe prosecutor asked Dr. Trockman if Gilbert Martinez was in a violently aggressive mood during his entire period of PCP intoxication, and was told: \u201cThp important time. The time when he confronted the accused in this case.\u201d The prosecutor then asked how he knew the victim had confronted the accused and whether the defense had told him what he had to accomplish to dispel the prosecution case.\nThe prosecutor also asked Dr. Trockman whether, by his testimony, he tries to affect the outcome of a case. The prosecutor queried whether the witness instructed attorneys on the questions they should ask for dramatic effect, to maintain the interest of the jury, and to dispel inferences of defense bias.\nDuring closing argument the prosecutor referred to the doctor\u2019s admission that he had testified differently in other cases about the distinction between alcohol and PCP intoxication. Based on the admission the prosecutor stated that the doctor \u201cis a liar.\u201d\nDefendant contends that the prosecutor committed prejudicial misconduct in so questioning the doctor and in calling him a liar during closing argument. Although defendant objected to the questions on cross-examination, he raised no objection during argument to the prosecutor\u2019s use of the term \u201cliar.\u201d Defendant has thus waived the latter point since any harm caused by this characterization could have been cured by a timely objection and an admonition. (People v. Green (1980) 27 Cal.3d 1, 27 [164 Cal.Rptr. 1, 609 P.2d 468].)\nIn any event, there was no prosecutorial misconduct. The prosecutor was entitled to question the doctor\u2019s testimonial consistency and possible bias. (People v. Meneley (1972) 29 Cal.App.3d 41, 60 [105 Cal.Rptr. 432].) Referring to testimony as \u201clies\u201d is an acceptable practice so long as the prosecutor argues inferences based on the evidence and not on the prosecutor\u2019s personal belief. (People v. Edelbacher, supra, 47 Cal.3d 983, 1030.) Closing argument may be vigorous and may include opprobrious epithets when they are reasonably warranted by the evidence. In this case, the prosecutor\u2019s argument was based on the evidence and amounted to nothing more than vigorous yet fair argument. (Ibid.)\nDefendant\u2019s reliance on People v. McGreen (1980) 107 Cal.App.3d 504 [166 Cal.Rptr. 360] (overruled on other grounds in People v. Wolcott (1983) 34 Cal.3d 92 [192 Cal.Rptr. 748, 665 P.2d 520]) is misplaced. In McGreen, the prosecutor attempted to discredit the expert witness by showing that he had received B and C grades in graduate school and that the witness\u2019s membership in certain scientific societies was a sham. The trial court eventually foreclosed further cross-examination on these grounds. The prosecutor nevertheless persisted in the line of questioning and additionally asserted that the witness\u2019s testimony had been stricken in another case because it was \u201cpatently unbelievable.\u201d When asked for authority to support the admission of such evidence of the witness\u2019s \u201cunbelievability,\u201d the prosecutor admitted he had none. Additionally, during argument the prosecutor suggested there had been an ethics investigation of the witness and characterized the witness as an habitual liar who prostituted his credentials for $50 an hour. (Id. at pp. 514-517.)\nIn no way was the cross-examination in this case comparable to that in McGreen. Here, the prosecutor elicited testimony tending to show bias by questioning the witness about his contrary testimony in previous cases and his interest in helping the defense. Such cross-examination was proper. (See People v. Rich (1988) 45 Cal.3d 1036, 1088 [248 Cal.Rptr. 510, 755 P.2d 960].)\n8. Cross-examination of Ralph Ortega.\nDefendant contends the prosecutor committed multiple instances of prejudicial misconduct during the cross-examination of Ralph Ortega, defendant\u2019s alibi witness in the Wells case.\nRalph Ortega testified for the defense that he went with defendant, Eugene Valenzuela, and others to a small ranch in Tecate, Mexico on October 24, 1984. He testified further that he stayed four days and returned to Los Angeles while defendant remained at the ranch. Defendant was still there when Ortega returned around midnight on October 30. They stayed on at the ranch; defendant went with Ortega the next night, Halloween eve, to take Ortega\u2019s son trick-or-treating.\nOn cross-examination the prosecutor elicited from Ortega that he had been arrested about 5:45 a.m. on October 24, 1984, near the Mexican border. He established that Ortega was not released from custody until about 5 p.m. that evening. The prosecutor noted that this information had not been revealed during Ortega\u2019s testimony on direct examination and asked Ortega if defense counsel had tried to avoid this subject. The prosecutor made references to Ortega\u2019s decision to \u201cfess up\u201d because \u201cI was on to you\u201d and asked if defense counsel had explained to him that it was necessary to put defendant in Tecate around 10 or 11 a.m. on October 24. The prosecutor established that Ortega and his friends just \u201chung around\u201d the ranch. The prosecutor also established that Ortega purchased and delivered food and supplies to defendant and Valenzuela during their entire stay in Tecate.\nThe prosecutor asked Ortega if counsel had explained to him that he would be liable as an accessory after the fact if he ever admitted that he knew that defendant had committed the Belvedere Park murders at the time he took defendant to Tecate. Ortega said no and denied any knowledge that defendant was involved.\nLater, when questioning Ortega about his knowledge of the seizure of the 1968 Chevrolet Caprice at the border, the prosecutor stated: \u201cAre you going to stop your lying here in court?\u201d Defense counsel objected to the prosecutor\u2019s yelling, but not to the question itself.\nDefendant contends that the prosecutor committed misconduct by repeatedly suggesting that defense counsel had colluded with Ortega in the fabrication of Ortega\u2019s alibi testimony. In our view, the record, as described above, does not support the assertion. Moreover, defendant has waived the point by failing to object and request a timely admonition. (People v. Green, supra, 27 Cal.3d at p. 27.)\nDefendant also claims that the prosecutor used his cross-examination of Ortega to express his own personal disbelief in Ortega\u2019s testimony. Defendant refers to the questions suggesting that Ortega was lying. Again, no objection was raised below, and the point is therefore waived since any harm could have been cured by a prompt admonition. (People v. Green, supra, 27 Cal.3d at p. 28.)\nDefendant asserts that the prosecutor improperly tried to impeach Ortega with evidence of a drug arrest. Ortega was arrested as an accessory to murder in this case, but he was released from custody after one day and charges were never filed. When questioning Ortega about his arrest in this case, the prosecutor queried, \u201cYou were also arrested for something else, weren\u2019t you?\u201d Defense counsel\u2019s objection was sustained. No admonition was requested or given; Under these circumstances, we fail to see how defendant could have been prejudiced by this question since the jury was already aware that Ortega had been arrested on the way to Tecate for possession of methamphetamines. Moreover, the jury was given the standard instruction (CALJIC No. 1.02) stating that a question is not evidence and that they should not guess what the answer might have been when an objection is sustained.\nDefendant also contends that the prosecutor improperly questioned Ortega about his failure to volunteer his exculpatory information to the police prior to trial. Defendant asserts that the prosecutor was aware that Ortega had been arrested as an accessory and had exercised his constitutional right to remain silent, Indeed, Ortega explained that he had never told the police about the alibi because he had refused to be interviewed. On redirect Ortega explained that he had given his exculpatory information to the defense attorneys and their investigator a year before the trial. Therefore, even assuming that the prosecutor\u2019s questioning in this area amounted to misconduct, we conclude that defendant suffered no significant prejudice as a result of it.\nDefendant complains about questions concerning remarks made in the elevator after Ortega\u2019s testimony on direct examination. The prosecutor\u00bb defense counsel, and Ortega had a conversation in the elevator as they left the courthouse. No jurors were present in the elevator. The following morning, defense counsel reopened direct examination and questioned Ortega about the conversation in the elevator. Ortega testified that the prosecutor threatened him and said \u201csomeone is going to jail behind this.\u201d\nOn cross-examination the prosecutor asked Ortega whether he (the prosecutor) had made the alleged threat in response to a question asked by defense counsel. When Ortega answered yes, the prosecutor asked if defense counsel had said \u201cWell, how do you guys like what happened in there today?\u201d Defense counsel objected and denied making the statement. The objection was overruled. Ortega responded that he had heard defense counsel say only, \u201cWhat\u2019s up?\u201d\nDefendant argues that the prosecutor\u2019s question was asked in bad faith. The claim is supported by nothing more than defendant\u2019s bald assertion. No police officers who overheard the conversation were called as witnesses by either the prosecution or the defense. Since the record contains no basis for branding the prosecutor\u2019s questioning as bad faith, we reject defendant\u2019s contention.\n9. Prosecutor\u2019s Argument.\nDefendant contends that the prosecutor committed prejudicial misconduct in a number of respects in addition to the claims that we have already discussed. First, defendant charges the prosecutor with improper attacks on defense counsel. During the course of his lengthy review of the testimony of virtually every witness, the prosecutor referred to attempts by defense counsel to mislead the jury and, at one point, accused defense counsel of perpetrating a fraud on the court. The prosecutor also referred to defense theories and evidence as \u201cridiculous\u201d and \u201cnonsense.\u201d Defendant interprets the prosecutor\u2019s characterization of the defense testimony as lies and concoctions, to be an accusation of defense fabrication of evidence. Defendant also complains about the prosecutor\u2019s repeated references to defense counsel\u2019s reaction to particular testimony.\n\u201cA prosecutor may vigorously argue his case, marshalling the facts and arguing inferences to be drawn therefrom. (People v. Fosselman (1983) 33 Cal.3d 572, 580 [189 Cal.Rptr. 855, 659 P.2d 1144].) We have held he may not express a personal belief in defendant\u2019s guilt, in part because of the danger that jurors may assume there is other evidence at his command on which he bases this conclusion. (People v. Bain (1971) 5 Cal.3d 839, 848 [97 Cal.Rptr. 684, 489 P.2d 564].) We have also held it improper for the prosecutor to imply that defense counsel has fabricated evidence or otherwise to portray defense counsel as the villain in the case. It is not necessary to find that such implication impinges upon defendant\u2019s constitutional right to counsel. (Compare People v. Turner (1983) 145 Cal.App.3d 658, 674 [193 Cal.Rptr. 614].) Instead it is sufficient to note that defendant\u2019s conviction should rest on the evidence, not on derelictions of his counsel. (People v. Perry (1972) 7 Cal.3d 756, 790 [103 Cal.Rptr. 161, 499 P.2d 129]; Bain, supra, 5 Cal.3d at p. 847.) Casting uncalled for aspersions on defense counsel directs attention to largely irrelevant matters and does not constitute comment on the evidence or argument as to inferences to be drawn therefrom.\u201d (People v. Thompson (1988) 45 Cal.3d 86, 112 [246 Cal.Rptr. 245, 753 P.2d 37].)\nDefendant objected to many, but not all, of the cited instances. For the most part, his objections were overruled. The court did, however, sustain his objection to the accusation of perpetrating a fraud on the court. It admonished the jury to disregard the comment, stating that there had been no perpetration of a fraud by any lawyer in this case. While we agree that many of the cited remarks were improper, we do not find them to have been prejudicial. The prosecutor was entitled to argue the inconsistencies in the evidence and even to characterize inconsistent testimony as \u201clies.\u201d (See People v. Edelbacher, supra, 47 Cal.3d at p. 1030.) Here, however, the prosecutor went beyond that point on several occasions, denigrating counsel instead of the evidence. Personal attacks on opposing counsel are improper and irrelevant to the issues. The prosecutor\u2019s reference to counsel\u2019s reaction to particular evidence was also improper for the same reason, but we do not interpret it as a charge of fabrication of evidence. All of these remarks were a small part of the prosecutor\u2019s very lengthy review of the evidence presented. They were clearly recognizable as an advocate\u2019s hyperbole. (See People v. Poggi, supra, 45 Cal.3d at p. 340.) Accordingly, we find no reasonable probability that the jury would have reached a more favorable result absent the objectionable comments. (People v. Green, supra, 27 Cal.3d at p. 36.)\nDefendant also contends that the prosecutor committed misconduct because he expressed personal opinions regarding the defense case. Defendant refers to the prosecutor\u2019s statement that \u201cI shake my head in disbelief every time I think about it [Ralph Ortega\u2019s testimony].\u201d Defendant also makes reference to the prosecutor\u2019s statement: \u201cThey know the defendant killed those boys. And they know he killed Ray and Marlene Wells.\u201d Finally, defendant complains about the prosecutor\u2019s argument about the disparities between defense promises of proof in the opening statement and the trial evidence. Defendant waived all but the first point by failing to raise a timely objection at trial. {People v. Green, supra, 27 Cal.3d at p. 27.) As to the first point, the remark was made in the context of reviewing the discrepancies in defense testimony and was not likely to be understood as being based on anything outside the record.\nDefendant further charges that the prosecutor committed misconduct by referring to defendant\u2019s failure to testify at trial. The prosecutor argued that he forestalled defense testimony by preemptively proving that defendant did not need glasses at the time of the Belvedere Park offenses: \u201cI should not have proved to you earlier in the trial that he didn\u2019t need glasses at the time in the park, because then you would have heard, \u2018Well, I was in the park, and you can see all the witnesses say I didn\u2019t have any glasses on. And I saw one guy go do my friend in with a knife. And another one came to me, and I thought he was going to do me in. I ran over to help my friend and shot him, and I shot him twice. I saw the other one. I couldn\u2019t see good who was doing what to me, so I shot him. And the other one coming at me, I shot him, too, because I just couldn\u2019t see good.\u2019 That\u2019s what you would have heard.\u201d A defense objection under Griffin v. California (1965) 380 U.S. 609 [14 L.Ed.2d 106, 85 S.Ct. 1229] (Griffin) was sustained, and the court admonished the jury to disregard the prosecutor\u2019s comments to the extent they reflected on the defendant\u2019s not testifying. The prosecutor referred to the glasses again in his rebuttal, stating: \u201cAnd I argued in my opening argument the fact that you would hear or you would have heard, had we given them a little rope to hang themselves, also you would have heard, \u2018Well, I couldn\u2019t see. I didn\u2019t have my glasses on, so therefore that\u2019s why I shot this person and I had to shoot this person.\u2019 \u201d The defense objection was overruled.\nWe believe that the court\u2019s initial admonition was sufficient to obviate any Griffin concern. To the extent that the rebuttal comment could be construed as a reference to defendant\u2019s failure to testify, in context, it was clearly harmless. The reference was a minor feature in this seemingly marathon argument.\nDefendant contends that the prosecutor committed misconduct by referring to defendant\u2019s courtroom appearance (wearing a suit, wearing reading glasses, being clean-shaven) as a \u201cploy\u201d and by asserting that defendant did not need to wear the glasses all the time during the trial. Defendant waived these points by failing to object at trial, since any harm could have been cured by timely objection and prompt admonition. (People v. Green, supra, 27 Cal.3d at p. 27.) In any event, these statements could not have had a prejudicial effect in light of the overwhelming evidence of the Belvedere Park killings.\nIn sum, we find no denial of due process or a fair trial as a result of any misconduct committed by the prosecutor. Both sides seemed unduly argumentative and personal on occasion, but such instances were not so frequent or severe as to detract from the jury\u2019s fair consideration of the evidence.\n10. Instruction on Reasonable Doubt.\nIn a supplemental brief, defendant argues that the instruction on reasonable doubt, CALJIC No. 2.90, is constitutionally flawed, citing Cage v. Louisiana (1990) 498 U.S. 39 [112 L.Ed.2d 339, 111 S.Ct. 328]. Similar challenges to CALJIC No. 2.90 were raised and rejected in People v. Jennings (1991) 53 Cal.3d 334, 385-386 [279 Cal.Rptr. 780, 807 P.2d 1009] and People v. Johnson (1992) 3 Cal.4th 1183, 1234-1235 [14 Cal.Rptr.2d 702, 842 P.2d 1], As we noted in Jennings and Johnson, despite use of the term \u201cmoral certainty\u201d in CALJIC No. 2.90, the instruction does not suffer from the flaws condemned in Cage v. Louisiana, supra, 498 U.S. 39.\nDefendant also cites Justice Mosk\u2019s criticism of CALJIC No. 2.90 in his concurring opinion in People v. Brigham (1979) 25 Cal.3d 283, 292-316 [157 Cal.Rptr. 905, 599 P.2d 100]. Recognizing that CALJIC No. 2.90 is a verbatim copy of section 1096, Justice Mosk urged the Legislature to redraft the definition of reasonable doubt in section 1096 to make it intelligible to modern juries. The Legislature has not responded. As Justice Mosk recognized, such changes must come from the Legislature.\nPenalty Phase Facts\nEvidence in Aggravation.\nThe penalty case-in-aggravation consisted of evidence of three prior crimes by defendant: 1) a 1978 assault upon a police officer; 2) a 1979 conviction of assault with intent to commit murder; and 3) a 1985 assault on a fellow jail inmate.\n1. 1978 Assault.\nDeputy Sheriff Randall Prestwich testified that on May 13, 1978, he and his partner heard gunshots in the vicinity of Arizona Street in Los Angeles. They saw defendant and two other men run from a house. Defendant had a shotgun. Deputy Prestwich yelled at the men to freeze. The other two ran off, and defendant brought the gun up to his waist and flinched, as if he expected the gun to go off. Deputy Prestwich fired a shot at defendant and saw defendant flinch again. Defendant turned and ran. Deputy Prestwich caught him and arrested him for assault on a police officer.\n2. 1979 Assault.\nErnest Leos testified that on March 17,1979, he and his son were in their driveway when Jesse Trujillo\u2019s car stopped in front of the driveway. Leos\u2019s son, Ernest, Jr., went over to the car and was shot while talking to someone in the car. Defendant was convicted of assault with intent to commit murder for this shooting.\n3. 1985 Assault.\nDeputy Sheriff Kenneth Salazar testified that on March 21, 1985, defendant was working as a trusty in the high security section of Los Angeles County jail. After defendant had finished passing out and collecting breakfast trays, he was ordered back to his cell so that Guy Walker could leave his cell to take a shower. Walker received a razor blade and soap and went into the shower. Defendant was then released from his cell to complete his duties.\nDeputy Lujan saw defendant run into the shower area, approach Walker, and move his fist toward Walker\u2019s head. Deputy Salazar saw defendant run from the shower area to the toilet area. As he followed defendant, Deputy Salazar saw Guy Walker slumped on the floor with blood on his face. Deputy Salazar heard a toilet flush. When he reached the toilet area, defendant was standing over a toilet. Deputy Salazar found a small piece of razor in the doorway leading to the toilet area. Walker\u2019s injuries could have been caused by a razor blade.\nEvidence in Mitigation.\n1. Walker Incident.\nGuy Walker testified for defendant. He and defendant had several arguments in March 1985 because defendant had been named trusty and had the cell Walker wanted. Walker tried to cut defendant\u2019s throat and to stab him. That same week, defendant entered the shower area and they fought.\n2. In-custody Behavior.\nDeputy Sheriffs Ronald Hernandez and Anthony Campbell, assigned to the Los Angeles County jail, had never had problems with defendant. Defendant was helpful and friendly, and both deputies voted for him to be appointed a jail trusty.\n3. Defendant\u2019s Family and Friends.\nPatricia Solis struck up a friendship with defendant after she had been dismissed as a prospective juror in the case. She described defendant as an intelligent and sensitive person, who cared about other people, and loved his children.\nEdward Dominguez had known defendant since 1976, when he opened his liquor store in the neighborhood. Defendant was always a gentleman and, on one occasion, prevented a fight in the store.\nRichard Rodriguez, a gang consultant affiliated with the California Youth Authority, testified that although Arizona Marivilla was once a street gang, since 1982 it had been incorporated as a neighborhood association. Defendant participated in the youth program when he was released from prison in May 1984.\nDefendant\u2019s wife and son described him as a nice, lovable man who is a good father.\nDefendant\u2019s mother, Elizabeth Luna, testified that defendant\u2019s father, who had been abusive to her and the children, died when defendant was six or seven. Luna then \u201cwent wild,\u201d and began drinking and partying. Defendant became \u201cthe man of the house\u201d upon his father\u2019s death, and he took care of his four brothers and sisters, even stealing on occasion so they could eat.\nPenalty Phase Contentions\n1. Evidence of Gang Affiliation.\nDefendant contends that the erroneous admission of his gang affiliation in the guilt phase prejudiced him in the penalty phase because he had to call Richard Rodriguez to rebut that evidence and the prosecutor improperly cross-examined him.\nAs previously noted, Richard Rodriguez testified in mitigation that the Arizona Marivilla gang, which had been violent, was reformulated in 1982 as a neighborhood association with the goal of keeping the peace. He testified that after defendant left prison in 1984 he was not involved in gang activities and that defendant was working to keep young people out of gangs. On cross-examination the prosecutor asked Rodriguez if it was true that Arizona Marivilla was one of the most violent gangs in East Los Angeles and responsible for most of the murders in that area from 1975 to 1985. The prosecutor also asked if defendant was one of the most active members.\nWe find no error. First, we have already concluded that the evidence of defendant\u2019s gang membership was properly admitted at the guilt phase. Second, the prosecutor was entitled to attempt to negate the evidence in mitigation to the effect that the Arizona Marivilla was now simply a peaceful neighborhood association. (People v. Thompson, supra, 45 Cal.3d at p. 124.) It is well established that the prosecution may inquire of a defense reputation witness whether he has heard of acts or conduct by the defendant inconsistent with the witness\u2019s testimony so long as the People have a good faith belief that the acts or conduct about which they wish to inquire actually took place. (People v. Siripongs (1988) 45 Cal.3d 548, 578 [247 Cal.Rptr. 729, 754 P.2d 1306].)\n2. Consideration of Defendant\u2019s Age.\nDefendant contends that the jury was improperly allowed by the comt and prosecutor to consider his age as a factor in aggravation. Defendant was 26 at the time of the offenses. The court rejected defendant\u2019s special instruction stating that if defendant\u2019s age were to be considered, it could be considered only as a mitigating factor. The court gave CALJIC No. 8.84.1, which permitted the jury to consider \u201cthe age of the defendant at the time of the crime\u201d in determining the appropriate penalty.\nDuring the penalty argument, the prosecutor reviewed the factors listed in CALJIC No. 8.84.1 and argued: \u201cThe age of the defendant at the time of the crime. He is obviously old enough to know the difference between right and wrong, and that\u2019s aggravation.\u201d\nDefendant acknowledges that we have rejected attacks on the instruction given. (See, e.g., People v. Rodriguez (1986) 42 Cal.3d 730, 777-779 [230 Cal.Rptr. 667, 726 P.2d 113]; People v. Lucky (1988) 45 Cal.3d 259, 301-302 [247 Cal.Rptr. 1, 753 P.2d 1052].) As we noted in People v. Lucky, supra, at page 302, mere chronological age should not of itself be deemed either aggravating or mitigating: \u201cIn our view, the word \u2018age\u2019 in statutory sentencing factor (i) is used as a metonym for any age-related matter suggested by the evidence or by common experience or morality that might reasonably inform the choice of penalty. Accordingly, either counsel may argue any such age-related inference in every case.\u201d (Ibid.)\nThe court did not err in rejecting defendant\u2019s proposed special instruction, since it stated that inferences relating to defendant\u2019s age could be considered only as a mitigating factor. Nor was there any impropriety in the prosecutor\u2019s argument. The prosecutor\u2019s argument that defendant was old enough to know better, thus making it aggravating, is an age-related inference that has been found permissible in a number of cases. (See People v. Bonin (1988) 46 Cal.3d 659, 704-705, fn. 6 [250 Cal.Rptr. 687, 758 P.2d 1217]; People v. Brown (1988) 46 Cal.3d 432, 456-457 [250 Cal.Rptr. 604, 758 P.2d 1135].)\nDefendant urges us to reexamine our construction of the age factor in People v. Lucky, supra, 45 Cal.3d 259 and succeeding cases, arguing that the unfettered discretion regarding how the factor is to be considered renders it unconstitutional under the principles of Gregg v. Georgia (1976) 428 U.S. 153 [49 L.Ed.2d 859, 96 S.Ct. 2909] and Maynard v. Cartwright (1988) 486 U.S. 356 [100 L.Ed.2d 372,108 S.Ct. 1853]. We rejected a similar argument in People v. Babbitt (1988) 45 Cal.3d 660, 716 [248 Cal.Rptr. 69, 755 P.2d 253] and are not persuaded that we should reexamine that reasoning. (See also People v. Edwards (1991) 54 Cal.3d 787, 844 [1 Cal.Rptr.2d 696, 819 P.2d 436].)\n3. Reference to Suffering by Victims and Their Families.\nDefendant contends that the prosecutor violated Booth v. Maryland (1987) 482 U.S. 496 [96 L.Ed.2d 440, 107 S.Ct. 2529] and South Carolina v. Gathers (1989) 490 U.S. 805 [104 L.Ed.2d 876, 109 S.Ct. 2207] by urging the jury to consider characteristics of the victims and the loss suffered by the victims\u2019 families. The allegedly objectionable references were made in response to defense counsel\u2019s argument that the jury should consider defendant\u2019s difficult childhood, including the fact that he had to become the man of the house at the age of eight, as illustrated by a photograph of defendant at his father\u2019s funeral.\nThe prosecutor stated: \u201cI want you to think about this. I want you to look at this picture very hard. When you have got it back there in that room look at it. How hurtful it was at the time or hurtful it is when you see it years later. But remember the Aceves family. Replace all these faces. Put Anthony Aceves in the casket.\n\u201cPut Anthony Aceves in that casket. Put his family around it. Because it happened two years ago they are not victims? They are hurt. He should be given compassion? The way he executed that boy?\n\u201cThink about the parents and the family of Gilbert Martinez. When they were standing around his casket and they were crying and they were saying \u2018My God, how could this happen to my child?\u2019\n\u201cMarlene Wells. When she was on the ground and the defendant was standing over her and putting two bullets in the back of her head just before she is looking up at him. \u2018Don\u2019t kill me.\u2019 Begging for her life. And he shoots her brutally in the back of the head.\n\u201cThink about it. They are funerals. Every time you look at this funeral photograph produced by the defense you think of their funerals. You think of their families. And you are called upon to impose death in cases like this when it\u2019s so aggravated. How many people must he kill?\u201d\nDuring the pendency of this appeal, both Booth v. Maryland, supra, 482 U.S. 496 and South Carolina v. Gathers, supra, 490 U.S. 805, were largely overruled. In Payne v. Tennessee (1991) 501 U.S__[115 L.Ed.2d 720, 111 S.Ct. 2597], the United States Supreme Court held that the use of victim impact evidence does not offend the Eighth Amendment guaranty of an individualized penalty assessment in a capital trial. We have since held that the injury inflicted by the defendant\u2014including evidence about the victim and the impact of the crime on the victim\u2019s family\u2014is one of the circumstances of the crime, evidence of which is admissible under section 190.3, factor (a). (People v. Edwards, supra, 54 Cal.3d 787, 833-836; People v. Fierro (1991) 1 Cal.4th 173, 234-235 [3 Cal.Rptr.2d 426, 821 P.2d 1302].)\nThe prosecutor\u2019s remarks were permissible under the principles set forth in Payne v. Tennessee, supra, 501 U.S__[115 L.Ed.2d 720, 111 S.Ct. 2597] and People v. Edwards, supra, 54 Cal.3d 787. Accordingly, defendant\u2019s claim must be rejected.\n4. Biblical References.\nDefendant contends that the prosecutor violated his rights to due process, a fair trial, separation of church and state, and freedom from cruel and unusual punishment by quoting biblical authority in his final argument. We agree that the prosecutor\u2019s argument was improper, but we conclude that it does not require reversal of the penalty judgment.\nDuring final argument, defense counsel stated, inter alia: \u201cIt seems almost to be in the theater of absurd to be talking about life and death. I don\u2019t know what gives me the right to talk about it. . . . [f] What we have to really talk about is values, purpose. You have to confront yourselves in terms of your own feelings, what you demand from society, what you really demand from Mr. Sandoval, what you demand from yourselves. [][] Revenge? That\u2019s really what we\u2019re talking about. When you convicted Mr. Sandoval of these four murders and found the special circumstances to be true, you already guaranteed one thing. Fred Sandoval will die in the penitentiary is one of them in the State of California. Period. He will never come out. He will die in the penitentiary, [f] The question is is he going to die whatever it is in three years in the gas chamber or is he going to die of old age in the pen or is he going to die because someone stabs him in the back in the penitentiary? But the reality is that he is going to die in the penitentiary. That\u2019s already been decided and you decided that.\n\u201cAnd in facing you again and thinking about that and thinking about how hard your job is, how difficult your job is, in reality you could sit, play God to an individual. . . . [ft] In some sense, I really don\u2019t know which is worse, execution or the gas chamber or that kind of life in prison. But you have that power alone. Any one of you can stop the execution alone. You have that power. I have never held that awesome power of holding a person\u2019s life in my hands. You have that power. You alone, [ft] You also have that responsibility that you are going to carry for the very rest of your life whether you push that button or not. And the bottom line is it\u2019s revenge. Because society to you because you are society, you want to extract revenge. Or is it bad enough to stop it and let this man live out his life in prison? . . . [ft] I have come to grasp it now. I looked at you in the eye and you can look back at me. Doesn\u2019t change anything. Nothing will bring back Anthony Aceves and Gilbert Martinez and the two Wells. Nothing. Won\u2019t change. Bottom line is revenge. Just pure and simple. Vengeance.\n\u201cIf that\u2019s what you want, that\u2019s what you felt, you push the button. An eye for an eye, a tooth for a tooth, a stripe for a stripe, a life for a life, [ft] I don\u2019t think society requires revenge. I don\u2019t think that you require revenge. An eye for an eye. [ft] Ghandi [sic] said we do this eye for an eye thing, make society require it and do it, what happens is the whole world becomes blind. The light is shut out. That\u2019s not right. Don\u2019t shut out the light. Don\u2019t make the world blind. Don\u2019t push that button.\"\nThe prosecutor responded to defense counsel\u2019s argument by stating: \u201cHe told you that it\u2019s absurd to talk about life and death, that the law is absurd, that you are playing God, that it\u2019s revenge, [ft] And that is to get you, of course, to vote for life without the possibility of parole. Well, death is a legitimate means of punishment in this state. It\u2019s available in this state. You are called upon to impose it if you think it\u2019s appropriate. You are a cross section of the community. People are judged by a jury of their peers. You make that determination whether the defendant should get the death penalty or life without the possibility of parole. The defense wants to make that burdensome for you. [\u2018]Each and everyone [sic] of you from here on must live with that decision. Push that button over there. You must live with that decision for the rest of your life.[\u2019] [ft] Well if it wasn\u2019t you called upon to carry out the will of the People of the State of California, would have been another jury, because that\u2019s our system. That\u2019s how the law is affected in this state, [ft] Don\u2019t once think that you have to feel burdened and depressed because I voted for death. You are doing what the law says if it\u2019s substantial, the aggravation substantially outweighs the mitigation. Don\u2019t listen to this lawyer talk. . . .\u201d\n\u201cMr. Applebaum says don\u2019t play God. Let every person be in subjection to the governing authorities for there is no authority except from God and those which are established by God. Therefore, he who resists authority has opposed the ordinance of God, and they who have opposed will receive condemnations upon themselves for rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear or authority? Do what is good and you will have praise for the same for it is a minister of God to you for good. But if you do what is evil, be afraid for it does not bear the sword for nothing for it is a minister of God an Avenger who brings wrath upon one who practices evil. [1] You are not playing God. You are doing what God says. This might be the only opportunity to wake him up. God will destroy the body to save the soul. Make him get himself right. . . . [f ] . . . Let him have the opportunity to get his soul right. That\u2019s the only way to get his attention. You are not playing God. God ordains authority.\u201d\nDefendant asserts that the material in the previous paragraph was a paraphrase of Romans 13:1-7 and that such reliance on biblical authority to advocate imposition of the death penalty is improper. We agree.\nThe People seek to justify the argument as having been appropriate rebuttal to defense counsel\u2019s argument. While the question is close, we are of the opinion that the prosecutor\u2019s argument crossed the line of permissible argument and rebuttal. There are situations in which the prosecutor has been allowed to make comments in rebuttal that would otherwise be improper, when such comments are fairly responsive to the argument of defense counsel. (See People v. McDaniel (1976) 16 Cal.3d 156, 111 [127 Cal.Rptr. 467, 545 P.2d 843] and People v. Hill (1967) 66 Cal.2d 536, 560 [58 Cal.Rptr. 340, 426 P.2d 908]; see also United States v. Robinson (1988) 485 U.S. 25, 31-34 [99 L.Ed.2d 23, 30-33, 108 S.Ct. 864].) This, however, is not such a situation.\nHere, the prosecutor paraphrased a passage of the Bible that is commonly understood as providing justification for the imposition of the death penalty. Such argument is improper. \u201cThe closing statements of counsel should relate to the law and the facts of the case as each side interprets them.\" (People v. Hawthorne, ante, 43, at p. 60 [14 Cal.Rptr.2d 133, 841 P.2d 118].) Though not expressly identified as such, the passage was unmistakably biblical in style and readily recognizable by persons schooled in the Christian religion. The prosecutor \u201cmay state matters not in evidence that are common knowledge, or are illustrations drawn from common experience, history, or literature.\u201d (People v. Love (1961) 56 Cal.2d 720, 730 [16 Cal.Rptr. 777, 366 P.2d 33].) He may not, however, invoke higher or other law as a consideration in the jury\u2019s sentencing determination. (Jones v. Kemp (N.D.Ga. 1989) 706 F.Supp. 1534, 1559; Commonwealth v. Chambers (1991) 528 Pa. 558 [599 A.2d 630, 644].) The argument here was clearly improper by exhorting the jury to consider factors outside section 190.3 in making its penalty determination.\nPenalty determinations are to be based on the evidence presented by the parties and the legal instructions given by the court. Reference by either party to religious doctrine, commandments or biblical passages tending to undermine that principle is improper. We recognize that the defense must be allowed some latitude in its presentation of mitigating evidence. Nevertheless, we do not understand that latitude to include exhortation of religious canons as a factor weighing against the death penalty. If the defense were to present such argument, it would be subject to objection by the prosecution and possible like-kind argument in rebuttal. (See United States v. Robinson, supra, 485 U.S. at pp. 31-34 [99 L.Ed.2d at pp. 30-33].) What is objectionable is reliance on religious authority as supporting or opposing the death penalty. The penalty determination is to be made by reliance on the legal instructions given by the court, not by recourse to extraneous authority. (Jones v. Kemp, supra, 706 F.Supp. 1534, 1559.) We do not mean to rule out all reference to religion or religious figures so long as the reference does not purport to be a religious law or commandment.\nThough we have found that the argument in this case constituted misconduct, we do not find that it requires reversal of the penalty judgment. The jurors deliberated for four days before indicating that they were split six to six on two counts and five to seven on the other two. After further deliberations the next day, they returned verdicts of life without possibility of parole on three of the counts and death on only one of the counts. Under these circumstances, we find no reasonable possibility that the jury would have reached more favorable verdicts had the misconduct not occurred. (See People v. Brown, supra, 46 Cal.3d 432, 448-449.) The result is the same under the federal Chapman test (Chapman v. California (1968) 386 U.S. 18 [17 L.Ed.2d 705, 87 S.Ct. 824, 24 A.L.R.3d 1065]).\n5. Jury Deadlock.\nDefendant contends that the trial court coerced the jury\u2019s verdict by requiring it to continue deliberating after the jury had declared a deadlock.\nThe jury retired for its penalty deliberations at 1:10 p.m. on Thursday, March 12, 1987, and deliberated until 2:45 p.m. Deliberations continued at 8:05 a.m. on Friday morning until the court recessed the jury at 11:45 a.m. to allow counsel time to submit argument on the appropriate response to a question submitted by the jury. The jury had been given separate verdict forms for each victim and it asked whether it could find that different penalties are applicable to different counts. On Monday morning, March 16, 1987, the court responded to the jury\u2019s question by stating, \u201cyou should reach a verdict as to each count if you can.\u201d At 8:50 a.m. the jury resumed deliberations and continued until court was adjourned at 1:30 p.m. Deliberations continued on Tuesday, March 17, for an hour and a half. After deliberating two and a half more hours the next morning, March 18, the jury sent the court a note stating, \u201cWe cannot reach a verdict. How do you proceed from this point on, and what would you like us to do?\u201d The court called the jury out and asked the foreman whether there was \u201cany reasonable possibility, and I emphasize the word \u2018possible\u2019 that the jury can arrive at a verdict as to any count given further deliberations, the rereading of any testimony or the answering of any question that I can answer?\u201d The foreman answered, \u201cNo. We have discussed that possibility, and we don\u2019t believe that we can reach a verdict.\u201d The court then asked for the jury division on each count and was told that it was six to six on count 1, six to six on count 2 five to seven on count 3, and five to seven on count 4. The court then polled each juror as to \u201cwhether you think there is a reasonable possibility with further deliberations you can arrive at a verdict as to any of the counts,\u201d and each juror replied, \u201cNo.\u201d\nIn a conference outside the jury\u2019s presence, the court indicated that it wanted the jury to spend a little more time and that it would probably declare a mistrial if the jury did not reach a verdict the next day. The court estimated that the jury had deliberated for about three full days and noted that a little more time would not be unreasonable in light of the fact that the trial had lasted five months. The court released the jury for that day with directions to return at 7:45 a.m. the next morning. After further deliberations the next morning, Thursday, March 19, 1987, the jury returned its verdicts of life without possibility of parole as to counts 1, 2 and 3, and a verdict of death as to count 4.\nSection 1140 provides: \u201cExcept as provided by law, the jury cannot be discharged after the cause is submitted to them until they have agreed upon their verdict and rendered it in open court, unless by consent of both parties, entered upon the minutes, or unless, at the expiration of such time as the court may deem proper, it satisfactorily appears that there is no reasonable probability that the jury can agree.\u201d\n\u201cThe determination whether there is reasonable probability of agreement rests in the discretion of the trial court. (People v. Miller (1990) 50 Cal.3d 954, 993 [269 Cal.Rptr. 492, 790 P.2d 1289]; People v. Sheldon (1989) 48 Cal.3d 935, 959 [258 Cal.Rptr 242, 771 P.2d 1330]; People v. Rodriguez (1986) 42 Cal.3d 730, 775 [230 Cal.Rptr. 667, 726 P.2d 113]; People v. Rojas (1975) 15 Cal.3d 540, 546 [125 Cal.Rptr. 357, 542 P.2d 229, 92 A.L.R.3d 1127]; People v. Carter (1968) 68 Cal.2d 810, 817 [69 Cal.Rptr. 297, 442 P.2d 353].) The court must exercise its power, however, without coercion of the jury, so as to avoid displacing the jury\u2019s independent judgment \u2018in favor of considerations of compromise and expediency.\u2019 (People v. Carter, supra, 68 Cal.2d at p. 817.)\u201d (People v. Breaux (1991) 1 Cal.4th 281, 319 [3 Cal.Rptr.2d 81, 821 P.2d 585].) The question of coercion is necessarily dependent on the facts and circumstances of each case. (Ibid.)\nDefendant argues that the length of time the jury had been deliberating demonstrates that the jury had given careful consideration to the evidence and that a mistrial would have been warranted. (Compare People v. Rich, supra, 45 Cal.3d 1036, 1117 [court declined to declare mistrial on penalty after jury declared itself unable to reach verdict following only one hour of deliberation].) Defendant also cites the virtually even split and the jurors\u2019 individual statements against the usefulness of further deliberations as indicating that the court should have declared a mistrial. None of these factors, however, removed the court\u2019s discretion to require further deliberations. The jury had deliberated a similar amount of time in People v. Breaux, supra, 1 Cal.4th 281, 317-320, when it was asked to continue even though all of the jurors were negative on the prospects of a verdict. In People v. Rodriguez, supra, 42 Cal.3d 730, 774-777, we found no abuse of discretion in requiring the jury to continue deliberating after it declared itself unable to reach a verdict following 18 days of deliberation.\nAs further evidence of his claim that the verdict was coerced, defendant points to the facts that the order to continue deliberations was unaccompanied by further explanation and that the verdicts were reached shortly thereafter. The form of the verdicts\u2014three for life and one for death\u2014is also cited as evidence of \u201cconsiderations of compromise and expediency\u201d (People v. Carter, supra, 68 Cal.2d at p. 817) rather than independent judgment. We are not persuaded. Other explanations for the difference in the verdicts are readily apparent. The jury may have felt that only one death verdict was necessary and that the killing of Marlene Wells was most egregious since she had had no involvement with defendant. Thus the difference in the verdicts may be explained by the difference in the circumstances of the crimes. Defendant\u2019s assertion that the verdicts should have been uniform is based on the incorrect premise that the aggravating and mitigating circumstances were the same as to each count. They were not. Each murder had its own set of circumstances, which qualified for consideration under factor (a) of section 190.3.\nNothing in the record suggests that the jury was coerced in any way. The court made no statements that could be interpreted as exerting pressure on any juror. The court viewed the jury as a responsible group that took its duty seriously. The court was not unreasonable in concluding that, in light of the fact that the trial itself had taken some five months, the jury should put in a little more time than the fourteen and one-quarter hours it had deliberated up to that point. The record shows no abuse of discretion.\n6. Separate Verdict Forms.\nDefendant contends that the trial court erred in requiring the jury to return a separate penalty verdict as to each murder victim. Defendant argues that the multiple verdicts obscured the overriding constitutional value of reaching a comprehensive determination of the appropriateness of the death penalty considering all aggravating and mitigating circumstances and invited compromise verdicts. He also claims that the multiple penalty verdicts placed undue emphasis on the characteristics and status of the individual victims, relying on Booth v. Maryland, supra, 482 U.S. 496 and South Carolina v. Gathers, supra, 490 U.S. 805. We are not convinced.\nA defendant who kills more than one person may be convicted and punished for each murder. (People v. Andrews (1989) 49 Cal.3d 200, 225 [260 Cal.Rptr. 583, 776 P.2d 285]; People v. Ramos (1982) 30 Cal.3d 553, 587 [180 Cal.Rptr. 266, 639 P.2d 908].) Separate penalty verdicts have been returned in other capital cases. The defendant in People v. Bittaker (1989) 4$ Cal.3d 1046 [259 Cal.Rptr. 630, 774 P.2d 659] was convicted of first degree murder of five victims and was given separate death verdicts as to each murder victim. (Id. at pp. 1106, 1110, fn. 34.) Likewise, the defendant in People v. Mattson (1990) 50 Cal.3d 826 [268 Cal.Rptr. 802, 789 P.2d 983], who was convicted of the first degree murder of two girls, was given a separate verdict of death as to each murder victim. (Id. at p. 838.) We are not persuaded that there is any impropriety in requiring the jury to return a separate penalty verdict for each capital murder count.\n7. Standard for Imposition of Death.\nThe court gave CALJIC No. 8.84.2 (1986 rev.) on the standards for determining the penalty verdicts. Defendant objects to the following language in that instruction: \u201cTo return a judgment of death, each of you must be persuaded that the aggravating factors are so substantial in comparison with the mitigating factors that it warrants death instead of life in prison without parole.\u201d Defendant complains that the instruction did not inform the jury that a necessary condition for imposition of the death penalty is a finding that aggravation outweighs mitigation rather than merely being \u201cso substantial in comparison.\u201d\nWe rejected a similar challenge to this language in People v. Breaux, supra, 1 Cal.4th at pages 315-316. There, as in this case, the language in question was preceded by instructions that provide: \u201cThe weighing of aggravating and mitigating factors does not mean a mere mechanical counting of factors on each side of an imaginary scale, or the arbitrary assignment of weights to any of them. You are free to assign whatever moral or sympathetic value you deem appropriate to each and all of the various factors you are permitted to consider. In weighing the various . . . factors you determine under the relevant evidence which penalty is justified and appropriate by considering the totality of aggravating factors with the totality of the mitigating factors.\u201d The instructions given, in our view, were sufficient to inform the jury that it could return a death verdict only if the aggravating circumstances outweighed the mitigating circumstances.\n8. Cumulative Error.\nDefendant contends that the cumulative effect of errors during the penalty phase trial requires reversal of the penalty. Since we have found only one error in the penalty phase, there is no cumulative effect.\nConclusion\nThe judgment is affirmed.\nLucas, C. J., Kennard, J., Arabian, J., Baxter, J., and George, J., concurred.\nAll statutory references hereafter are to the Penal Code unless otherwise indicated.\nBender, who is a car buff, first told police it was a Chevrolet Impala. He determined it was a Chevrolet Caprice after examining a book of cars. The only difference between an Impala and a Caprice was that the Caprice had chrome strips. He remembered the car because it was in excellent shape.\nWe have since held that testimony by the defendant is a prerequisite to appellate review. (People v. Collins (1986) 42 Cal.3d 378, 383 [228 Cal.Rptr. 899, 722 P.2d 173].) The ruling here preceded our holding in Collins, which was to be applied prospectively only.\ndefendant\u2019s mother testified that defendant was six or seven when his father died. The prosecutor, however, referred to defendant as having been eight at the time of his father\u2019s death.",
+        "type": "majority",
+        "author": "PANELLI, J."
+      },
+      {
+        "text": "MOSK, J., Concurring and Dissenting.\nI concur in the judgment as to guilt, death eligibility, and noncapital sentence. After review, no error or other defect is evident requiring reversal or vacation on any of these issues.\nI dissent, however, from the judgment as to the sentence of death. As will appear, there was prejudicial prosecutorial misconduct bearing on this question.\nI\nIn summation at the penalty phase, defense counsel urged the jury to fix the penalty for defendant at life imprisonment without possibility of parole.\nBy contrast, the prosecutor asked for death. In the course of his argument, he made the following comments.\n\u201cI want to respond to some of the things argued by [defense counsel]. He told you that it\u2019s absurd to talk about life and death, that the law is absurd, that you are playing God, that it\u2019s revenge.\n\u201cAnd that is to get you, of course, to vote for life without the possibility of parole. Well, death is a legitimate means of punishment in this state. It\u2019s available in this state. You are called upon to impose it if you think it\u2019s appropriate. You are a cross section of the community. People are judged by a jury of their peers. You make that determination whether the defendant should get the death penalty or life without the possibility of parole. The defense wants to make that burdensome for you. [\u2018]Each and everyone [sic] of you from here on must live with that decision. Push that button over there. You must live with that decision for the rest of your life.f]\n\u201cWell, if it wasn\u2019t you called upon to carry out the will of the people of the State of California, would have been another jury, because that\u2019s our system. That\u2019s how the law is affected in this state.\n\u201cDon\u2019t once think that you have to feel burdened and depressed because I voted for death. You are doing what the law says if it\u2019s substantial, the aggravation substantially outweighs the mitigation. Don\u2019t listen to this lawyer talk.\n\u201c[Defense counsel] says don\u2019t play God. [\u2018]Let every person be in subjection to the governing authorities for there is no authority except from God and those which are established by God. Therefore, he who resists authority has opposed the ordinance of God, and they who have opposed will receive condemnations upon themselves for rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise for the same for it is a minister of God to you for good. But if you do what is evil, be afraid for it does not bear the sword for nothing for it is a minister of God an avenger who brings wrath upon one who practices evil.f]\n\u201cYou are not playing God. You are doing what God says. This might be the only opportunity to wake him up. God will destroy the body to save the soul. Make him get himself right. . . .\n\u201c. . . Let him have the opportunity to get his soul right. That\u2019s the only way to get his attention. You are not playing God. God ordains authority.\u201d\nAt this point, defense counsel objected and asked to approach the bench, but met with summary denial.\nII\n\u201cIt is of course misconduct for a prosecutor to invoke purported religious law in support of the imposition of the penalty of death.\u201d (People v. Hill (1992) 3 Cal.4th 959, 1016 [13 Cal.Rptr.2d 475, 839 P.2d 984] (conc. opn. of Mosk, J.); accord, People v. Wrest (1992) 3 Cal.4th 1088, 1107 [13 Cal.Rptr.2d 511, 839 P.2d 1020].)\n\u201cArgument of this sort by a representative of the government offends California statutes and judicial decisions, which establish the positive, secular law of this state as the rule governing the choice between life and death (see People v. Mincey (1992) 2 Cal.4th 408,483-484 [6 Cal.Rptr.2d 822, 827 P.2d 388] (conc. & dis. opn. of Mosk, J.)). It also violates the United States and California Constitutions\u2014including their respective clauses concerning establishment of religion (U.S. Const., Amend. I; Cal. Const., art. I, \u00a7 4), cruel and unusual punishments (U.S. Const., Amend. VIII; Cal. Const., art. I, \u00a7 17), and due process of law (U.S. Const., Amend. XIV; Cal. Const., art. I, \u00a7 15).\u201d (People v. Hill, supra, 3 Cal.4th at pp. 1016-1017 (cone. opn. of Mosk, J,); see also People v. Wrest, supra, 3 Cal.4th at p. 1107 [holding that \u201csuch an argument tends to diminish the jury\u2019s sense of responsibility for its verdict and to imply that another, higher law should be applied in capital cases, displacing the law in the court\u2019s instructions\u201d].)\n\u201cIt is well settled that religion may not play a role in the sentencing process.\u201d (Jones v. Kemp (N.D.Ga. 1989) 706 F.Supp. 1534, 1559; accord, People v. Mincey (1992) 2 Cal.4th 408, 485 [6 Cal.Rptr.2d 822, 827 P.2d 388] (conc. & dis. opn. of Mosk, J.); see People v. Wrest, supra, 3 Cal.4th at p. 1107.)\nThe jury has \u201ca duty to apply the law of the [jurisdiction] as given by the trial judge, not its own interpretation of the law or its own interpretation of precepts of the Bible, in determining whether the [defendant] should live or die.\u201d (Jones v. Kemp, supra, 706 F.Supp. at p. 1559; accord, People v. Mincey, supra, 2 Cal.4th at p. 485 (conc. & dis. opn. of Mosk, J.); see People v. Wrest, supra, 3 Cal.4th at p. 1107.)\nThe invocation of \u201cthe command of extrajudicial \u2018law\u2019 from any source other than the trial judge, no matter how well intentioned, is not permitted.\u201d (Jones v. Kemp, supra, 706 F.Supp. at p. 1559; accord, People v. Mincey, supra, 2 Cal.4th at p. 485 (conc. & dis. opn. of Mosk, J.); see People v. Wrest, supra, 3 Cal.4th at p. 1107.)\nIndeed, the \u201cuse ... of an extrajudicial code . . . cannot be reconciled with the Eighth Amendment\u2019s requirement that any decision to impose death must be the result of discretion which is carefully and narrowly channelled and circumscribed by the secular law of the jurisdiction.\u201d (Jones v. Kemp, supra, 706 F.Supp. at p. 1559; accord, People v. Mincey, supra, 2 Cal.4th at p. 485 (conc. & dis. opn. of Mosk, J.); see People v. Wrest, supra, 3 Cal.4th at p. 1107.)\nThe Bible, of course, is just such an extrajudicial code. (People v. Mincey, supra, 2 Cal.4th at p. 483 (conc. & dis. opn. of Mosk, J.); Jones v. Kemp, supra, 706 F.Supp. at p. 1559.) Its commands and prohibitions cannot be viewed as mere reliquiae of a culture separated from ours by thousands of miles and thousands of years. This is because \u201c[t]o the average juror, . . . the Bible is an authoritative religious document . . . .\u201d (Jones v. Kemp, supra, at p. 1559; accord, People v. Mincey, supra, at pp. 483-484 (conc. & dis. opn. of Mosk, J.).)\nIt is also misconduct for a prosecutor to seek to \u201cminimize the jury\u2019s sense of responsibility for determining the appropriateness of death.\u201d (Caldwell v. Mississippi (1985) 472 U.S. 320, 341 [86 L.Ed.2d 231, 247, 105 S.Ct. 2633]; accord, People v. Wrest, supra, 3 Cal.4th at p. 1107.) \u201c[U]nder the Eighth Amendment \u2018the qualitative difference of death from all other punishments requires a correspondingly greater degree of scrutiny of the capital sentencing determination.\u2019 \u201d (Caldwell v. Mississippi, supra, at p. 329 [86 L.Ed.2d at p. 239], quoting California v. Ramos (1983) 463 U.S. 992, 998-999 [77 L.Ed.2d 1171, 1178-1179, 103 S.Ct. 3446].) The assumption underlying Eighth Amendment jurisprudence is that \u201ca capital sentencing jury recognizes the gravity of its task and proceeds with the appropriate awareness of its \u2018truly awesome responsibility.\u2019 \u201d (Caldwell v. Mississippi, supra, at p. 341 [86 L.Ed.2d at p. 247].) This premise is threatened when a representative of the government attempts to undermine the jurors\u2019 proper attitude and approach.\nIt hardly needs mention that \u201c[a] prosecutor is held to a standard higher than that imposed on other attorneys because of the unique function he or she performs in representing the interests, and in exercising the sovereign power, of the State.\u201d (People v. Espinoza (1992) 3 Cal.4th 806, 820 [12 Cal.Rptr.2d 682, 838 P.2d 204].)\nIII\nOn the very face of the record, prosecutorial misconduct is manifest.\nTo begin with, the prosecutor invoked purported religious law in support of the imposition of the penalty of death. That is indisputable.\nAs noted, the prosecutor stated: \u201c[Defense counsel] says don\u2019t play God. [\u2018]Let every person be in subjection to the governing authorities for there is no authority except from God and those which are established by God. Therefore, he who resists authority has opposed the ordinance of God, and they who have opposed will receive condemnations upon themselves for rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise for the same for it is a minister of God to you for good. But if you do what is evil, be afraid for it does not bear the sword for nothing for it is a minister of God an avenger who brings wrath upon one who practices evil.[\u2018] [\u00b6] You are not playing God. You are doing what God says. This might be the only opportunity to wake him up. God will destroy the body to save the soul. Make him get himself right.\u201d The prosecutor returned to the point: \u201cLet him have the opportunity to get his soul right. That\u2019s the only way to get his attention. You are not playing God. God ordains authority.\u201d\nIn a word, the \u201crule of decision\u201d that the prosecutor urged the jury to apply was assertedly religious. He cited the Bible to the jurors. To be sure, he did not expressly identify the relevant passage\u2014which is Romans 13:1-4\u2014as biblical in source and in substance. No such identification was required. There is no reasonable likelihood that the jury understood the words to be anything other than what they were.\nFurther, the \u201cpurpose of punishment\u201d that the prosecutor called on the jury to serve was assertedly religious as well. He exhorted the jurors to destroy defendant\u2019s corruptible body in order to save his immortal soul.\nThe majority rightly conclude that the prosecutor\u2019s impropriety cannot be justified or even excused as \u201cfairly responsive\u201d to comments in defense counsel\u2019s summation. True, the prosecutor asserted that he \u201cwant[ed] to respond to some of the things argued by [defense counsel].\u201d But there was nothing \u201cfairly responsive\u201d about what he would soon say. Perhaps the matter would have been different if counsel had declared or even suggested that the death penalty was inappropriate under some religious law. He had not done so. Notwithstanding his utterance of the word \u201cGod\u201d and his reference to lex talionis, his argument was altogether secular\u2014to the effect that the jurors each held an absolute power of life and death over defendant; that they should reject death as empty vengeance; and that they should choose life to vindicate what is good in human beings and human society.\nMore important, even a \u201cfair response\u201d of this kind by a prosecutor would be altogether impermissible. It is plain from the analysis set out above that the government is prohibited from interjecting religion into the sentencing process. The prosecutor is its representative. The bar that constrains the principal constrains the agent as well.\nIn addition, the prosecutor sought to minimize the jury\u2019s sense of responsibility for determining the appropriateness of death. That too is indisputable.\nAs noted, the prosecutor stated: \u201cThe defense wants to make [the penalty determination] burdensome for you. [\u2018]Each and everyone [sic] of you from here on must live with that decision. Push that button over there. You must live with that decision for the rest of your life.f] [f] Well, if it wasn\u2019t you called upon to carry out the will of the people of the State of California, would have been another jury, because that\u2019s our system. That\u2019s how the law is affected in this state, [f] Don\u2019t once think that you have to feel burdened and depressed because I voted for death. You are doing what the law says if it\u2019s substantial, the aggravation substantially outweighs the mitigation. Don\u2019t listen to this lawyer talk.\u201d\nThe prosecutor\u2019s impropriety in this regard cannot seriously be denied. Indeed, the majority\u2019s efforts here are totally nonexistent\u2014and that in spite of the fact that defendant expressly raised the claim in his briefing before this court.\nI now turn from the fact of the prosecutor\u2019s misconduct to its consequence.\nIt is the general rule for error under California law that reversal requires prejudice (People v. Gordon (1990) 50 Cal.3d 1223, 1253 [270 Cal.Rptr. 451,792 P.2d 251]) and prejudice in turn requires a reasonable possibility of an effect on the outcome when, as here, penalty in a capital trial is involved (.People v. Brown (1988) 46 Cal.3d 432, 446-448 [250 Cal.Rptr. 604, 758 P.2d 1135]).\nSimilarly, it is the general rule for error under the United States Constitution that reversal requires prejudice and prejudice in turn is presumed unless the government shows that the failing was harmless beyond a reasonable doubt. (See, e.g., Rose v. Clark (1986) 478 U.S. 570, 576-579 [92 L.Ed.2d 460, 469-471, 106 S.Ct. 3101].)\nThe prosecutor\u2019s misconduct implicates both California law and the United States Constitution. It appears to be subject to the general rule of harmless-error analysis. Thus, insofar as state law is concerned, the \u201creasonable possibility\u201d standard is applied. Insofar as the federal charter is involved, the \u201creasonable doubt\u201d test is employed.\nThe prosecutor\u2019s misconduct went to the first, last, and only issue before the jury in the penalty phase of this capital trial, viz., whether they were to take or spare defendant\u2019s life. The evidence in aggravation was not insubstantial. But not insubstantial too was the evidence in mitigation.\nThe prosecutor\u2019s attempt to minimize the jury\u2019s responsibility cannot be deemed unsuccessful. \u201cA capital sentencing jury is made up of individuals placed in a very unfamiliar situation and called on to make a very difficult and uncomfortable choice. They are confronted with evidence and argument on the issue of whether another should die, and they are asked to decide that issue on behalf of the community. Moreover, they are given only partial guidance as to how their judgment should be exercised, leaving them with substantial discretion.\u201d (Caldwell v. Mississippi, supra, All U.S. at p. 333 [86 L.Ed.2d at p. 242].) Comments like those of the prosecutor in this case offered the jurors an easy way to avoid a hard choice\u2014in fact, an especially hard choice, to judge from the relatively close balance of aggravation and mitigation at the penalty phase and the labored progress of the deliberations thereafter.\nPerhaps more significant, the prosecutor\u2019s argument from purported religious law must have carried special force, incorporating as it did \u201cwhat many consider an authoritative source\u2014if not Authority Itself.\u201d (People v. Mincey, supra, 1 Cal.4th at p. 487 (conc. & dis. opn. of Mosk, J.).)\nI acknowledge that the jury did not return its verdict of death immediately after the prosecutor\u2019s misconduct and that it also returned three verdicts of life. \u201cThat fact means only that [the] impropriety did not instantly [and totally] determine the outcome. It simply does not suggest that it was without improper influence.\u201d (People v. Mincey, supra, 1 Cal.4th at p. 487 (conc. & dis. opn. of Mosk, J.).) The majority appear to assume that the force of the impropriety was dissipated in the course of deliberations. A contrary assumption, however, seems more reasonable on this record: the impropriety\u2019s force actually determined the course of deliberations and thereby prevented four early verdicts of life.\nIn sum, the misconduct raises a reasonable possibility of an adverse effect on the outcome, and cannot be deemed harmless beyond a reasonable doubt.\nIV\nFor the reasons stated above, I would set aside the sentence of death.\nAppellant\u2019s petition for a rehearing was denied February 10,1993, and the opinion was modified to read as printed above. Mosk, J., was of the opinion that the petition should be granted.\nBecause the issue is not raised in this case, I do not attempt to define \u201creligious\u201d misconduct by defense counsel. Certainly, the task would require some delicacy. For example, the provisions of the United States and California Constitutions that constrain the prosecution in this regard\u2014including the clauses concerning establishment of religion (U.S. Const., Amend. I; Cal. Const., art. I, \u00a7 4), cruel and unusual punishments (U.S. Const., Amend. VIH; Cal. Const., art. I, \u00a7 17), and due process of law (U.S. Const., Amend. XIV; Cal. Const., art. I, \u00a7 15)\u2014are generally inapplicable to the defense. (But see Cal. Const., art I, \u00a7 29 [\u201cIn a criminal case, the people of the State of California have the right to due process of law . . . .\u201d].) I leave this labor to another day. The majority should do so as well. They purport to distinguish between permissible references to \u201creligion\u201d and impermissible references to \u201creligious law.\u201d Their \u201crule\u201d may be suitable for sophists to debate in rhetorical exercises. It is altogether too vague for the bench and bar to apply in criminal trials.\nIn accord with above analysis is Commonwealth v. Chambers (1991) 528 Pa. 558 [599 A.2d 630]. There, the Pennsylvania Supreme Court considered a claim of prosecutorial misconduct based on comments that \u201cKarl Chambers has taken a life\u201d and \u201cAs the Bible says, \u2018and the murderer shall be put to death.\u2019 \u201d It found the point meritorious. Its reasoning was as follows.\n\u201cIn the past we have narrowly tolerated references to the Bible and have characterized such references as on the limits of \u2018oratorical flair\u2019 and have cautioned that such references are a dangerous practice which we strongly discourage. Commonwealth v. Henry, 524 Pa. 135, 569 A.2d 929 (1990); Commonwealth v. Whitney, 511 Pa. 232, 512 A.2d 1152 (1986). We now admonish all prosecutors that reliance in any manner upon the Bible or any other religious\nwriting in support of the imposition of a penalty of death is reversible error per se and may subject violators to disciplinary action.\n\u201cHere, the prosecutor argued, \u2018As the Bible says, \u201cand the murderer shall be put to death.\u201d \u2019 This reference is substantially different than the references tolerated in Henry and Whitney where the prosecutor allegorically likened the Defendant to the Prince of Darkness mentioned in the Bible to establish that he was an evil person.\n\u201cMore than allegorical reference, this argument by the prosecutor advocates to the jury that an independent source of law exists for the conclusion that the death penalty is the appropriate punishment for [Chambers]. By arguing that the Bible dogmatically commands that \u2018the murderer shall be put to death,\u2019 the prosecutor interjected religious law as an additional factor for the jury\u2019s consideration which neither flows from the evidence or any legitimate inference to be drawn therefrom. We believe that such an argument is a deliberate attempt to destroy the objectivity and impartiality of the jury which cannot be cured and which we will not countenance. Our courts are not ecclesiastical courts and, therefore, there is no reason to refer to religious rules or commandments to support the imposition of a death penalty.\n\u201cOur Legislature has enacted a Death Penalty Statute which carefully categorizes all the factors that a jury should consider in determining whether the death penalty is an appropriate punishment and, if a penalty of death is meted out by a jury, it must be because the jury was satisfied that the substantive law of the Commonwealth requires its imposition, not because of some other source of law.\u201d (Commonwealth v. Chambers, supra, 528 Pa. at pp. 586-587 [599 A.2d at p. 644].)\nIn accord on this point as well is Commonwealth v. Chambers, supra, 528 Pa. 558 [599 A.2d 630], As noted, the Pennsylvania Supreme Court in that case held meritorious a claim of prosecutorial misconduct based on the comments that \u201cKarl Chambers has taken a life\u201d and \u201cAs the Bible says, \u2018and the murderer shall be put to death.\u2019 \u201d (See fn. 2, ante.) \u201cBecause the prosecutor\u2019s argument in favor of the death penalty reached outside of the evidence of the case and the law of this Commonwealth,\u201d concluded the court, \u201cwe are not convinced that the penalty was not the product of passion, prejudice or an arbitrary factor and, therefore, pursuant to our Death Penalty Statute, we must vacate the sentence of death ...\u201d (528 Pa. at p. 587 [599 A.2d at p. 644].)",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "MOSK, J., Concurring and Dissenting."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Eric S. Multhaup, under appointment by the Supreme Court, and Kathy M. Chavez for Defendant and Appellant.",
+      "David Booth Beers and John Townsend Rich as Amici Curiae on behalf of Defendant and Appellant.",
+      "John K. Van de Kamp and Daniel E. Lungren, Attorneys General, Richard B. Iglehart and George Williamson, Chief Assistant Attorneys General, Edward T. Fogel, Jr., Assistant Attorney General, Carol Wendelin Pollack, Acting Assistant Attorney General, Marc E. Turchin, William T. Harter, Susan Lee Frierson and Sharon Wooden Richard, Deputy Attorneys General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. S004765. Crim. No. 26405.\nDec. 14, 1992.]\nTHE PEOPLE, Plaintiff and Respondent, v. ALFRED ARTHUR SANDOVAL, Defendant and Appellant.\nCounsel\nEric S. Multhaup, under appointment by the Supreme Court, and Kathy M. Chavez for Defendant and Appellant.\nDavid Booth Beers and John Townsend Rich as Amici Curiae on behalf of Defendant and Appellant.\nJohn K. Van de Kamp and Daniel E. Lungren, Attorneys General, Richard B. Iglehart and George Williamson, Chief Assistant Attorneys General, Edward T. Fogel, Jr., Assistant Attorney General, Carol Wendelin Pollack, Acting Assistant Attorney General, Marc E. Turchin, William T. Harter, Susan Lee Frierson and Sharon Wooden Richard, Deputy Attorneys General, for Plaintiff and Respondent."
+  },
+  "file_name": "0155-01",
+  "first_page_order": 191,
+  "last_page_order": 241
+}
