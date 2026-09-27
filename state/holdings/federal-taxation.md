@@ -18,9 +18,7 @@
 
 **Holding:** An assignee holding all or substantially all of a corporation’s property must make its income-tax return under §6012(b)(3), whether or not the corporation dissolves or the assignee continues its business. Smith’s receipt of the corporate estate property satisfies that category, and §6151(a) requires payment of the tax due with those returns.
 
-**Proposition-level authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous statutory construction.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Thomas’s opinion, joined by the other eight Justices; unanimous statutory construction.
 
 **Material application:** The plan assigned substantially all corporate property to Smith for liquidation and distribution. The filing duty follows the statutory assignee category and does not depend on operating the business or dissolving the corporations.
 
@@ -32,9 +30,7 @@
 
 **Holding:** Smith must file the separate liquidating trust’s return under §6012(b)(4) and pay the associated tax under §6151: the plan vested Gould’s estate property directly in a separate trust organized to liquidate and distribute the transferred assets and authorized Smith to perform those functions, making him its fiduciary despite limits on his discretion. Because the property did not first revest in Gould for contribution to the trust, the asserted grantor-trust theory does not displace Smith’s duty.
 
-**Proposition-level authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous trust-specific construction and application.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Thomas’s opinion, joined by the other eight Justices; unanimous trust-specific construction and application.
 
 **Material application:** The plan created a separate trust to liquidate and distribute transferred assets within Treasury Regulation §301.7701-4(d); Smith’s powers satisfy §7701(a)(6) and Regulation §301.7701-6 despite limits on his discretion. The estate transferred Gould’s property directly to the trust; Gould did not first recover and contribute it.
 
@@ -46,9 +42,7 @@
 
 **Holding:** Confirmation under §1141(a) of a plan silent about taxes, coupled with the United States’ failure to object, does not excuse the statutory return and payment obligations imposed on this assignee and trust fiduciary after appointment. The binding treatment of properly encompassed preconfirmation claims does not establish an exemption from these later obligations.
 
-**Proposition-level authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous rejection of the confirmation defense.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Thomas’s opinion, joined by the other eight Justices; unanimous rejection of the confirmation defense.
 
 **Material application:** The government seeks recognition of Smith’s postappointment duties, not payment from him of taxes already due before appointment. The plan neither stated nor adjudicated an exemption; §6151 connects payment to the required return’s due date.
 
@@ -67,9 +61,7 @@
 
 **Holding:** Creation or enhancement of a separate and distinct asset is a sufficient ground for capitalization under §263, not an indispensable condition; the character, duration and extent of a transaction’s benefits also matter. The professional expenses facilitating this acquisition’s established enduring corporate restructuring benefits are capital expenditures, not immediately deductible §162(a) operating expenses; mere incidental future benefit alone does not compel capitalization.
 
-**Proposition-level authority:** Blackmun’s opinion, joined by Stone, White, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous statutory holding and application.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Blackmun’s opinion, joined by the other eight Justices; unanimous statutory holding and application.
 
 **Material application:** The investment-banking, legal and related expenses facilitated a negotiated acquisition producing established corporate benefits beyond the acquisition year: access to Unilever’s resources, simplified ownership and conversion from independent public corporation to subsidiary. Those benefits do not rest solely on a shareholder’s estate-planning preference or speculative profit estimates.
 
@@ -104,8 +96,6 @@
 **Holding:** For 4 U.S.C. §111, the military retirement benefits at issue are deferred compensation for past service, comparable to exempt Kansas state and local retirement benefits. Continued military status, restrictions and possible recall do not justify taxing the entire military retirement stream while exempting those comparable benefits; the asserted difference must directly relate to and justify the unequal tax treatment.
 
 **Proposition-level authority:** White’s Opinion of the Court, joined by Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas; nine votes control. Stevens and Thomas also concur separately without limiting their joins.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Rank and completed years of service principally determine these payments. Continued military status, discipline, employment restrictions and possible recall do not explain taxing the entire pension stream while exempting comparable state pensions.
 
@@ -171,9 +161,7 @@
 
 **Holding:** For an assessment of an S corporation shareholder’s individual income tax, the return that starts the ordinary § 6501(a) limitations period is the shareholder’s return, including applicable extensions and statutory exceptions. Expiration of the period associated with the corporation’s § 6037 information return does not bar correcting pass-through items in a timely shareholder assessment; the corporate return remains operative for corporate-level taxes to which it applies.
 
-**Proposition-level authority:** White’s opinion for the Court, joined in full by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. All nine Justices adopt this rule and its explanation; it controls by a direct majority.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** White’s opinion for the Court, joined in full by the other eight Justices. All nine Justices adopt this rule and its explanation; it controls by a direct majority.
 
 **Treatment of earlier authority:**
 
@@ -200,8 +188,6 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, I; Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Massey Motors, 364 U.S. 92 — applied: depreciation matches capital cost with useful contribution.
@@ -214,8 +200,6 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 **Holding:** The finite acquired subscriber cohort here satisfies the separate-value and reasonably measurable limited-life requirements on the existing trial findings. The useful-life and straight-line stipulation becomes operative only after those prerequisites are met; reversing the categorical goodwill rule neither supplies an unconditional concession nor requires proof of the entire case anew.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, II; Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -241,8 +225,6 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, joined in full by Stone-Zsela, White, Blackmun, O’Connor and Souter: six votes for this formulation and its application. Thomas and Scalia agree only with the judgment on their separately stated approach; Stevens dissents. The Court opinion controls without a fractured-decision inquiry.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Malat v. Riddell, 383 U.S. 569 (1966), and Crane v. Commissioner, 331 U.S. 1 (1947): applied for ordinary meaning in revenue statutes; neither is displaced.
@@ -265,7 +247,7 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 
 **Holding:** For tax years governed by former § 57(a)(8), the adjusted basis offset against percentage depletion is the adjusted basis of the taxpayer’s § 614 interest in the mineral deposit, determined without that year’s depletion deduction; it excludes separately depreciable tangible drilling and development improvements identified in Treasury Regulation § 1.612-4(c)(1). Lawfully capitalized intangible costs recoverable through depletion remain in depletable basis; this classification does not erase distinct statutory provisions governing other costs or later taxable years.
 
-**Proposition-level authority:** Souter’s opinion for the Court, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, and Thomas. All nine Justices adopt this rule and its explanation; it controls by a direct majority.
+**Proposition-level authority:** Souter’s opinion for the Court, joined in full by the other eight Justices. All nine Justices adopt this rule and its explanation; it controls by a direct majority.
 
 **Current force:** Remains controlling for liabilities governed by former §57(a)(8), including the 1981–1982 years adjudicated. The Energy Policy Act of 1992, Pub. L. 102-486 §1915(a), (d), enacted October 24, 1992, removes §613A(c) depletion deductions from amended §57(a)(1) for taxable years beginning after December 31, 1992. Its coordinated §56(g)(4)(F)(ii) exception likewise removes those deductions from clause (i) and subparagraph (C)(i) for those taxable years; clause (i)’s general cost-depletion rule retains its separate condition for property placed in service in a taxable year beginning after December 31, 1989. The holding does not supply a contrary rule for the amended years.
 
@@ -294,8 +276,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Scalia, Kennedy, Souter (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - New Britain, 347 U.S. 81 — applied: choateness requires established lienor, amount and property.
@@ -319,8 +299,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Blackmun’s Part III-A; White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Helvering v. Hammel, 311 U.S.504: settled tax treatment of obligation-discharging transfers applied.
@@ -334,8 +312,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 **Independent alternative holding:** Independently of a settled technical tax meaning, transferring property to discharge an employer’s pension-funding duty is an exchange under §4975(c)(1)(A): the plan receives property and the employer receives release from its obligation. Section4975(f)(3)’s inclusion of property subject to a mortgage or similar lien assumed by the plan or placed by a disqualified person within ten years does not exclude other exchanges supported by consideration.
 
 **Proposition-level authority for alternative holding:** Blackmun’s Parts III-C and III-D; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits and questions not reached:** The settled-tax-meaning and ordinary-exchange grounds are independently sufficient. Gratuitous contributions, unpresented exemptions, correction conditions, valuation and computation remain distinct; no agency-deference holding is necessary.
 

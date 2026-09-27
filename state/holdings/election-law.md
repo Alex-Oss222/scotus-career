@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** Souter's opinion, joined by Stone, White, Blackmun, Stevens, O'Connor, and Kennedy; these seven Justices supply a majority of the eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Protection against unauthorized appropriation of a party name did not justify a geographic bar that also prohibited authorized expansion. The suburban candidates' insufficient support justified their exclusion, but did not justify disqualifying countywide and city candidates who met their own constituencies' requirements.
 
 **Limits and questions not reached:** Other district structures, cumulative burdens, and actual unauthorized name use remain open. The unaddressed state-law judicial-candidate objection is left for authoritative state-court construction; the unappealed water-district candidates are not revived, and no new election is ordered.
@@ -41,8 +39,6 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 **Holding:** A court must weigh the character and magnitude of the injury to First and Fourteenth Amendment rights against the State's precise asserted interests and the extent to which they require the burden. Severe restrictions must be narrowly drawn to advance a compelling interest; reasonable, nondiscriminatory restrictions ordinarily are justified by important regulatory interests, so strict scrutiny does not govern every election rule.
 
 **Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices control the complete rule. Kennedy's dissent, joined by Blackmun and Stevens, and Stone's dissent also accept the calibrated framework without making their contrary application controlling.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** A write-in prohibition must be examined with the available routes to ballot access and its role in the selection system. Neither the prohibition alone nor the general need for election administration decides the burden.
 
@@ -72,8 +68,6 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 
 **Proposition-level authority:** White's opinion, joined by O'Connor, Scalia, Souter and Thomas, controls. Kennedy's dissent, joined by Blackmun and Stevens, and Stone's dissent expressly agree on rejection of this broader claim; all nine support the component without issuing a joint opinion.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** A genuine interest in supporting an actual alternative candidate requires the contextual access analysis separately stated above. Political expression outside the ballot and every restriction on eligible candidates in a different system are not decided.
 
 **Operative remedy or transition:** Reject the arbitrary-message tally claim; it supplies no independent ground for relief from the prohibition.
@@ -93,9 +87,7 @@ For this case’s other questions, see *United States Department of Commerce v. 
 
 **Holding:** In allocating the statutorily fixed House among States using whole Representatives and respecting each State's constitutional minimum, Article I, §2 and the Fourteenth Amendment permit the equal-proportions method's population-based choice of relative representational equality. An alternative's improvement in selected absolute population disparities does not establish that equal proportions violates the constitutional population command when the change worsens other legitimate measures of equality; the Court neither requires equal proportions uniquely nor approves every population-related formula.
 
-**Proposition-level authority:** Stevens's Opinion of the Court, Part III, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, Souter and Thomas. All nine participating Justices adopt this proposition at its stated scope; it controls by an express majority, with no judgment-only or narrower-ground vote.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens's Opinion of the Court, Part III, joined by the other eight Justices. All nine participating Justices adopt this proposition at its stated scope; it controls by an express majority, with no judgment-only or narrower-ground vote.
 
 **Limits and questions not reached:** The House’s size of 435 is statutory, not constitutional. Wesberry and Karcher’s intrastate equality and justification rules remain; no percentage tolerance, new burden sequence, uniquely required method, or approval of every population-based method is adopted.
 
@@ -117,9 +109,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** The constitutional command to count persons in each State permits inclusion of federal personnel temporarily overseas whose enduring ties support residence in a particular State. It does not require a literal census-day physical presence rule, and it does not authorize attribution to a State without a supportable residence connection.
 
-**Proposition-level authority:** Stone's opinion of the Court, Part III, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the constitutional inclusion rule.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stone's opinion of the Court, Part III, joined by the other eight Justices; all nine adopt the constitutional inclusion rule.
 
 **Limits and questions not reached:** The rule requires a supportable residence connection; it does not mandate inclusion of every person abroad or relax intrastate district equality. Different connections and methodological records remain open.
 
@@ -143,9 +133,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** Section 2 does not prohibit a State from choosing majority-minority districts merely because no federal violation compels their creation; challengers bear at least the initial burden of showing, under the totality of circumstances, unequal electoral opportunity caused by the challenged arrangement. A federal court may order such districts only when their creation is necessary to remedy an established federal-law violation, but that limit does not become a categorical restriction on state redistricting authority; independently applicable federal constitutional and statutory requirements remain enforceable.
 
-**Proposition-level authority:** O'Connor's Opinion of the Court, Part II.B, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt the complete proposition; it directly controls the rejection of the lower court's statutory prohibition and burden allocation.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** O'Connor's Opinion of the Court, Part II.B, joined by the other eight Justices. All nine adopt the complete proposition; it directly controls the rejection of the lower court's statutory prohibition and burden allocation.
 
 **Treatment of earlier authority:**
 
@@ -156,9 +144,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** Assuming that Section 2 reaches the asserted loss of minority influence districts, the claim fails because challengers did not establish sufficiently cohesive white majority voting usually to defeat the minority's preferred candidates. The Gingles prerequisites apply with attention to the claim's nature: an influence claim would require modification or elimination of the first prerequisite that the minority could constitute a district majority, but the Court need not select that adaptation or decide whether influence claims are cognizable because the independently necessary bloc-voting showing is absent.
 
-**Proposition-level authority:** O'Connor's Opinion of the Court, Parts II.A and II.C, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this independently dispositive rejection of the presented Section 2 claim and each stated reservation.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** O'Connor's Opinion of the Court, Parts II.A and II.C, joined by the other eight Justices. All nine adopt this independently dispositive rejection of the presented Section 2 claim and each stated reservation.
 
 **Treatment of earlier authority:**
 
@@ -169,9 +155,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** Assuming that the Fifteenth Amendment reaches the asserted vote-dilution claim, the finding that Ohio intentionally injured black voters cannot stand on this record: attention to perceived federal-law requirements and possession of an opponent's speculative documents, without evidence of reliance, do not establish the prohibited purpose the District Court inferred. The Court reverses that finding as clearly erroneous without deciding the Amendment's coverage of dilution or its relationship to race-conscious districting generally.
 
-**Proposition-level authority:** O'Connor's Opinion of the Court, Part III, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this record-specific constitutional disposition; none adopts a general immunity for political objectives or racial awareness.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** O'Connor's Opinion of the Court, Part III, joined by the other eight Justices. All nine adopt this record-specific constitutional disposition; none adopts a general immunity for political objectives or racial awareness.
 
 **Treatment of earlier authority:**
 
@@ -182,9 +166,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** A state legislative plan whose maximum total population deviation exceeds ten percent establishes a prima facie case requiring the State to justify the disparity; crossing that threshold does not make preservation of county boundaries legally unavailable as a justification. The District Court must determine whether the actual plan reasonably advances that rational state policy, including its substantiated connection to the deviations and consistency of implementation, and whether the resulting disparities nevertheless exceed constitutional limits; the Court does not decide that Ohio has met its burden.
 
-**Proposition-level authority:** O'Connor's Opinion of the Court, Part IV, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this standard and the population-only remand; neither the State's success nor a particular remedial map receives a controlling vote.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** O'Connor's Opinion of the Court, Part IV, joined by the other eight Justices. All nine adopt this standard and the population-only remand; neither the State's success nor a particular remedial map receives a controlling vote.
 
 **Treatment of earlier authority:**
 
@@ -207,9 +189,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** When a State's legislature or judiciary is timely undertaking redistricting, a federal court must defer its own redistricting action unless the record shows that the State will not produce a lawful plan in time for the election. The federal court may set a reasonable deadline and retain jurisdiction as a safeguard, but may neither obstruct timely state work nor displace it merely because it prefers another plan; completion of every state appeal before the election is not required.
 
-**Proposition-level authority:** Scalia's opinion on state priority, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; all nine adopt this rule. The separate eight-Justice dismissal direction concerns this completed record, not the general availability of retained jurisdiction.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Scalia's opinion on state priority, joined by the other eight Justices; all nine adopt this rule. The separate eight-Justice dismissal direction concerns this completed record, not the general availability of retained jurisdiction.
 
 **Treatment of earlier authority:**
 
@@ -220,9 +200,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** Once a state court's final judgment replaces the challenged legislative plan, the federal court must give the replacement legal effect rather than treat it as one optional proposal. A challenge to the old plan becomes moot unless it also reaches the superseding plan; allegations against the old plan alone do not establish a violation in the replacement.
 
-**Proposition-level authority:** Scalia's opinion on the live-plan issue, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; all nine adopt the stated rule. No party-preclusion rule beyond that necessary legal effect is announced.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Scalia's opinion on the live-plan issue, joined by the other eight Justices; all nine adopt the stated rule. No party-preclusion rule beyond that necessary legal effect is announced.
 
 **Treatment of earlier authority:**
 
@@ -233,9 +211,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Holding:** A §2 claim that single-member districts fragment a minority group's potential electoral majority requires proof that the group is sufficiently large and geographically compact to form a majority in a single-member district, is politically cohesive, and faces majority bloc voting ordinarily sufficient to defeat its preferred candidate, absent special circumstances such as an unopposed minority candidate. Without the required cohesion and majority-bloc evidence, the court may not order a minority district by adding distinct groups' populations; the Court assumes without deciding that a supported coalition claim is permissible and leaves influence-only claims and the population denominator unresolved.
 
-**Proposition-level authority:** Scalia's statutory opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; all nine adopt the stated single-member extension and record application. No fractured-opinion or Marks inference is required.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Scalia's statutory opinion, joined by the other eight Justices; all nine adopt the stated single-member extension and record application. No fractured-opinion or Marks inference is required.
 
 **Treatment of earlier authority:**
 
@@ -259,8 +235,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 **Holding:** Alleged deliberate or predominant consideration of race in drawing territorial constituencies, even with departures from ordinary districting criteria, does not by itself state this equal-protection claim where no racial exclusion, intentional dilution, materially unequal participation, legally inferior civic membership or other independently cognizable constitutional deprivation is alleged. This is a substantive disposition of the design-only theory, not heightened pleading, a universal requirement of additional downstream loss, or an added constitutional-injury prerequisite for an independent statutory claim.
 
 **Proposition-level authority:** Stone-Zsela’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Ordinary notice pleading applies; no expert proof or replacement map is required at pleading. Independent exclusion, dilution, unequal participation, civic-status and statutory claims retain their own elements. No statewide racial-strength defense, general replacement of Croson, predominance test or added constitutional-injury gate for §2 is adopted.
 

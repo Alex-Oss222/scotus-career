@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** Souter's Opinion of the Court, Part II, joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas; eight Justices adopt this rule. Scalia agrees that proximate cause is required but joins no part of the Court's opinion; his distinct reasoning is not added to the opinion's support.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** No purchaser-seller requirement is decided: Souter, Stone, Blackmun, Kennedy and Thomas join Part IV’s reservation. No special racketeering injury, antitrust-injury requirement, universal third-party-injury bar, or general zone-of-interests rule is adopted.
 
 **Operative remedy or transition:** The Ninth Circuit’s judgment is reversed on both asserted SIPC claims and remanded with directions to enter judgment for Holmes on the derivative customer RICO claim and the asserted independent §78eee(d) administration-advance claim. Trustees’ distinct claims remain, and SIPC may share in any estate recovery only under lawful liquidation priorities; no recovery or distribution is predetermined.
@@ -38,8 +36,6 @@
 
 **Proposition-level authority:** Souter's Opinion of the Court, Part III-A, joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas; eight Justices adopt the application and its limits. The validity and source of the asserted common-law subrogation are assumed, not established.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Customer subrogation and responsibility for coconspirators’ conduct are assumed without decision. Purchasing-customer claims, separately grounded parking claims, directly aimed injury to SIPC, fraud merits, actual causation and damages remain unadjudicated; the unappealed Rule 10b-5 judgment is not reopened.
 
 **Operative remedy or transition:** The Ninth Circuit’s judgment is reversed on both asserted SIPC claims and remanded with directions to enter judgment for Holmes on the derivative customer RICO claim and the asserted independent §78eee(d) administration-advance claim. Trustees’ distinct claims remain, and SIPC may share in any estate recovery only under lawful liquidation priorities; no recovery or distribution is predetermined.
@@ -56,8 +52,6 @@
 **Holding:** Section 78eee(d) of SIPA gives SIPC party-in-interest status, a right to be heard and deemed intervention in liquidation matters; it does not itself create an independent right to recover administration advances as damages from Holmes. Neither that participation provision alone nor its combination with §1964(c) supplies a missing substantive recovery right or dispenses with RICO's own conditions.
 
 **Proposition-level authority:** Souter's Opinion of the Court, Part III-B, joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas; eight Justices adopt this independently sufficient statutory ground for rejecting SIPC's own §78eee(d) claim. This is distinct from the customer-subrogation causation holding.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court does not decide every other-law claim or the unbriefed theory of subrogation to trustees for expense advances. The statute’s participation rights and administration-advance duties remain; a separate RICO-causation ground for SIPC’s own advances is not a controlling alternative holding.
 
@@ -79,8 +73,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 **Holding:** Under the pre-1988 Lanham Act §43(a), nonfunctional restaurant trade dress that is inherently distinctive may receive protection without proof of acquired secondary meaning, provided the remaining infringement requirements, including likelihood of confusion, are met. Protection does not expire after an unspecified period merely because secondary meaning has not developed.
 
 **Proposition-level authority:** White's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy and Souter, supplies seven votes at this level of generality. Stevens and Thomas agree with the judgment on separate statutory accounts; the Court's rule does not depend on combining their writings.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The jury found inherent distinctiveness, nonfunctionality and likelihood of confusion, but no acquired secondary meaning. These findings concern separate elements and are accepted for the limited granted issue.
 
@@ -111,8 +103,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Royal Indemnity, 313 U.S. 289 — applied: interest compensates delay in payment of matured contractual obligations.
@@ -125,8 +115,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 **Holding:** Sections 3701(c) and 3717 exclude state agencies from the Debt Collection Act’s mandatory interest mechanism, but do not extinguish the independently applicable common-law obligation on this debt. That conclusion does not apply the statutory minimum rate, collection fees or penalty charges to Texas and does not depend on treating West Virginia’s 1987 holding as settled law in 1982.
 
 **Proposition-level authority:** White’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -152,8 +140,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** The statutory-construction portion of Blackmun's Opinion of the Court is joined by Stone, Stevens, O'Connor, Scalia, Kennedy and Thomas: seven Justices adopt the stated rule at the same level of generality. Souter and White reject the directional requirement.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - United States v. Turkette, 452 U.S. 576 (1981): applied for text-based interpretation of distinct RICO elements; its inclusion of criminal enterprises remains unchanged.
@@ -169,8 +155,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 **Holding:** The accounting firm's preparation and explanation of the cooperative's audit reports, using the financial records and disclosing an investment-based plant valuation, do not establish participation in directing the cooperative merely because the firm failed to require or communicate a fair-market valuation. On the RICO component reviewed here, that failure is insufficient under § 1962(c), and the firm's summary judgment is affirmed.
 
 **Proposition-level authority:** The application portion of Blackmun's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy and Thomas, controls by six votes. Stone, White and Souter reject this application; their judgments cannot be counted as joins.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -194,8 +178,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 **Holding:** Persons jointly liable for the same violation under the established implied Rule10b-5 action may seek contribution, subject to proof of their shared underlying liability and the applicable allocation requirements. The rule is a bounded incident of that received action and does not create general professional liability, an automatic aiding-and-abetting rule, indemnity, or contribution under unrelated statutes.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Contribution is an incident of the received action, not a new professional cause, indemnity, automatic aiding-and-abetting liability or a universal federal contribution rule. A settlement alone does not prove shared liability.
 
@@ -225,8 +207,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** No general power to rewrite statutes or duty to raise every unargued question is created. Geographic reach of the insurance activity and the Comptroller’s construction remain undecided; no deference holding is necessary.
 
 **Operative remedy or transition:** Reverse the repeal holding and remand both consolidated petitions for the actual scope dispute.
@@ -252,8 +232,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - SEC v. National Securities, Inc., 393 U.S.453: policyholder relationship and function-specific treatment of a state statute applied.
@@ -268,8 +246,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - National Securities, 393 U.S.453: the protected policyholder relationship includes administration necessary to implement the policy-payment function.
@@ -280,8 +256,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 **Holding:** Section1012(b)’s first clause does not preserve Ohio’s ordinary employee-wage and general-creditor preferences against §3713 merely because those priorities appear in an insurance-liquidation statute. Their indirect relationship to policyholder welfare is too tenuous; the United States retains federal priority over these unprotected preferences, subject to the actual statutory trigger.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; the four dissenters agree in this disposition on their broader ground; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Protection is functional, not for every claim grouped with policyholders or labeled administrative. The antitrust clause and separate boycott exception are not altered. The federal priority operates on the established insolvency/act-of-bankruptcy predicate; §3713(a)(2) excludes cases under Title11, distinct from this state insurer liquidation.
 

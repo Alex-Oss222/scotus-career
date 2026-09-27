@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, Kennedy, Souter and Thomas; five Justices support this exact proposition. Stone's agreement in rejecting the categorical premise is not a join in the Court's opinion.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Circumstantial evidence may establish motive. Political neutrality is not categorically excluded. The Court assumes for purposes of its reasoning that an attributed opinion could qualify, without resolving every imputation issue; persecution because of the attribution still requires evidentiary support. Asylum's and withholding's distinct probability thresholds remain unchanged.
 
 **Treatment of earlier authority:**
@@ -34,8 +32,6 @@
 **Holding:** Under §1105a(a)(4), a court may overturn the Board's supported factual determination only when the record compels the contrary finding, not merely because that finding could be supported. Here the evidence does not compel a finding of feared persecution because of the applicant's political opinion, so the Ninth Circuit cannot displace the Board's denial on its stated nexus rationale.
 
 **Proposition-level authority:** Scalia's opinion joined by White, Kennedy, Souter and Thomas; five Justices support both the evidentiary conclusion and the operative restoration of the Board's denial. Stone does not join this holding or its remedy.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The applicant explained fear of government retaliation for joining, and renewed visits established continuing recruitment pressure without compelling the inference that pressure arose because of his political opinion. The Court makes no credibility finding and requires no direct proof of motive.
 
@@ -62,9 +58,7 @@
 
 **Holding:** INA §242(a) permits a generally applicable release condition forbidding unauthorized employment when the regulation is construed not to reach authorized workers and retains individual status determinations and discretionary relief. Officials must determine existing work authorization, address colorable citizenship or status claims, and consider the regulation's avenue for discretionary relief.
 
-**Proposition-level authority:** Stevens's unanimous opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas support the proposition.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens's unanimous opinion; all nine Justices support the proposition.
 
 **Material application:** Section 242(a) does not restrict every release condition to securing physical appearance. The regulation's construction limits its operation to unauthorized employment and preserves the individual determinations on which the facial statutory ruling rests.
 
@@ -101,8 +95,6 @@
 
 **Proposition-level authority:** Scalia's opinion for the Court, joined by White, O'Connor, Kennedy, Souter and Thomas: six votes for this rule. Stone-Zsela concurs in the judgment on a narrower statutory and facial-review ground.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Carlson v. Landon, 342 U.S.524 (1952): applies discretion bounded by the immigration statute; it does not authorize indefinite custody.
@@ -114,8 +106,6 @@
 **Holding:** The Constitution does not give a juvenile without an available parent, guardian or close adult relative a fundamental right to placement with a willing unrelated adult instead of temporary, nonpunitive government care under this regulation and the binding conditions agreement. On this facial record, the family preferences and other release avenues reasonably serve care and attendance interests; individual unconstitutional confinement and enforcement of the agreement remain open.
 
 **Proposition-level authority:** Scalia's Court opinion, joined by White, O'Connor, Kennedy, Souter and Thomas: six. O'Connor and Souter also explain the substantial liberty interest in avoiding institutional confinement in a separate concurrence; Stone-Zsela does not join this formulation.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -130,8 +120,6 @@
 
 **Proposition-level authority:** Scalia's Court opinion, joined by White, O'Connor, Kennedy, Souter and Thomas: six. Stone-Zsela agrees with setting aside the universal automatic-hearing remedy but reserves a distinct Mathews-based implementation inquiry.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Fare v. Michael C., 442 U.S.707 (1979): applies the recognition that juveniles can make a knowing waiver; no universal finding of comprehension follows.
@@ -142,8 +130,6 @@
 **Holding:** The regulation's distinction between juveniles with available family custodians and those without them survives the facial equal-protection objection because family availability bears a rational relation to safe placement and attendance. The separate federal juvenile-delinquency release scheme does not require identical release rules for immigration custody, and this ruling does not resolve unequal administration in a particular case.
 
 **Proposition-level authority:** Scalia's Court opinion, joined by White, O'Connor, Kennedy, Souter and Thomas: six. Stone-Zsela concurs in the judgment on this component and adds no ground.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -168,8 +154,6 @@
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Section 243(h) does not govern this offshore return operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - EEOC v. Arabian American Oil Co., 499 U.S.244 — geographic presumption applied.
@@ -182,8 +166,6 @@
 **Holding:** Article33 of the Refugee Convention, as undertaken through the 1967 Protocol, does not extend its return prohibition to this high-seas repatriation operation. That territorial construction resolves the asserted treaty restraint without deciding whether the Convention otherwise supplies an independently enforceable cause of action. Article33(2) withholds its benefit where reasonable grounds identify a danger to the security of the country of presence, or a refugee convicted by final judgment of a particularly serious crime constitutes a danger to that country’s community.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Article 33 does not independently limit the high-seas operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Statutory and treaty coverage are separately resolved. No refugee-status determination, general executive exemption from law or independent treaty cause-of-action ruling is made; domestic custody and other sources constraining different operations remain distinct.
 

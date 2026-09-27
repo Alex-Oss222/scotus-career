@@ -17,9 +17,7 @@
 
 **Holding:** ERISA’s circular definition of employee incorporates the general common law of agency, not a particular State’s law or a substitute test of benefit expectations, reliance and bargaining power. Courts must weigh all incidents of the relationship—including control over manner and means, skill, tools, work location, duration, assignment rights, scheduling discretion, payment, assistants, regular-business integration, the hiring party’s business, benefits and tax treatment—with no single factor decisive.
 
-**Proposition-level authority:** Souter's unanimous opinion of the Court, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the agency construction and multifactor inquiry.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Souter's unanimous opinion of the Court, supported by all nine Justices; all nine Justices adopt the agency construction and multifactor inquiry.
 
 **Limits and questions not reached:** A contractual label or single factor is not decisive. Benefits do not replace classification. The FLSA’s broader express definition remains distinct; Darden’s status, vesting, forfeiture, benefits and independent state-contract remedies are not decided. The denied Extended Earnings Plan cross-petition is outside review.
 
@@ -47,8 +45,6 @@
 
 **Proposition-level authority:** Souter's opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter support the proposition unanimously among the eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The Army required the three-year tour associated with King's position. Neighboring service categories contain express duration limits, while §2024(d) ties protected leave to the period required for covered duty without adding such a cap.
 
 **Limits and questions not reached:** The holding concerns only an implied duration restriction. It does not excuse failure to satisfy the provision's enacted coverage, notice, service, or return requirements, decide damages, or determine obligations after a failure properly to return.
@@ -69,8 +65,6 @@
 **Holding:** For a nondiscriminatory exclusion policy, nonemployee organizers must show that employees are practically beyond reasonable offsite communication before the Board may balance a need for entry against the employer's property rights; greater convenience or organizing success does not satisfy that threshold. This workforce's community residence, public approaches and substantial direct contacts defeat the asserted exception, while discriminatory exclusion, employees' own solicitation and genuinely inaccessible workforces remain governed by their distinct rules.
 
 **Proposition-level authority:** Stone's opinion, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices control both the statutory rule and denial of enforcement.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Employees lived in the surrounding community; organizers used public approaches and obtained direct home-contact information for roughly one fifth of the workforce. Few authorization cards did not establish an inability to communicate. Board expertise remains relevant to actual access obstacles, within the judicially established statutory rule.
 
@@ -101,8 +95,6 @@
 
 **Proposition-level authority:** White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Section 301 classifies covered contracts rather than limiting plaintiffs to signatory organizations. Uniform federal interpretation applies when a beneficiary enforces the qualifying interunion contract.
 
 **Limits and questions not reached:** Ordinary contract predicates remain necessary. The Court does not classify standalone local bylaws, federalize every internal union dispute, or decide breach, defenses, or damages.
@@ -127,8 +119,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Aikens, 460 U.S. 711, and Burdine, 450 U.S. 248 — applied: actual motivation may be proved circumstantially; no automatic inference from any unlawful motive.
@@ -140,8 +130,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 **Holding:** An ADEA disparate-treatment violation is willful when the employer knew or recklessly disregarded whether its conduct violated the Act, whether the decision was individual or a formal policy. Once that showing is made, liquidated damages require no additional outrageousness, direct evidence or predominant-age motive; a good-faith, nonreckless mistake about a statutory permission is not willfulness.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -165,8 +153,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 **Holding:** ERISA §514(a) preempts this continuation obligation insofar as it incorporates an ERISA-covered health plan’s benefit content as the legal measure of mandatory replacement coverage, even when an employer may administer the replacement benefits separately through an exempt workers’ compensation arrangement. No §514(b) savings claim is decided, and this ruling does not preempt requirements measured solely by an ERISA-exempt governmental or church plan.
 
 **Proposition-level authority:** Thomas’s opinion, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy and Souter; eight Justices adopt the same operative rule.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -196,9 +182,7 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Holding:** Garmon and Machinists preemption do not prohibit a State's project-specific contracting condition when the State pursues its own proprietary interests as owner and purchaser, the analogous private conduct is lawful, and Congress has not expressly or impliedly displaced that proprietary conduct. MWRA's Bid Specification 13.1 meets those conditions; it governs performance of the Boston Harbor project rather than imposing general labor policy on unrelated conduct.
 
-**Proposition-level authority:** Blackmun's Opinion of the Court, joined by Stone, White, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas: unanimous controlling authority in both dockets.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Blackmun's Opinion of the Court, joined by the other eight Justices: unanimous controlling authority in both dockets.
 
 **Treatment of earlier authority:**
 
@@ -227,9 +211,7 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Holding:** Noise-induced occupational hearing loss sustained during workplace exposure is a scheduled, presumptively disabling injury governed by §908(c)(13), whether claimed before or after retirement; the injury is complete at last exposure, which supplies the injury date for the wage basis. Later awareness or filing does not make it an occupational disease that does not immediately result in disability under §910(i), and §908(c)(23)’s special retiree formula therefore does not apply.
 
-**Proposition-level authority:** Stevens’s unanimous Opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; nine votes for the rule and application.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s unanimous Opinion of the Court, joined by the other eight Justices; nine votes for the rule and application.
 
 **Treatment of earlier authority:** Potomac Electric Power Co. v. Director, OWCP, 449 U.S. 268 (1980), is applied: scheduled compensation is mandatory within its statutory branch and does not require actual earning loss. Todd Shipyards Corp. v. Black, 717 F.2d 1280 (9th Cir. 1983), is distinguished as a latent-disease case; its rationale does not move the completed hearing injury to the awareness date. The contrary retiree classifications in Ingalls Shipbuilding and Alabama Dry Dock do not survive this statutory construction.
 
@@ -237,9 +219,7 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Holding:** Section 908(c)(13)(D) postpones the running of the §912 notice period and §913 claim period for hearing loss until the employee receives an audiogram and its accompanying report indicating hearing loss; it does not postpone the substantive time of injury to awareness. The 1984 amendments accordingly provide a hearing-specific filing protection, independently defeating the contention that congressional concern about late hearing claims necessarily places them in the latent-disease compensation system.
 
-**Proposition-level authority:** Stevens’s unanimous Opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; nine votes for the rule and application.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s unanimous Opinion of the Court, joined by the other eight Justices; nine votes for the rule and application.
 
 **Treatment of earlier authority:** Potomac Electric remains the source of the schedule’s fixed statutory operation. Redick v. Bethlehem Steel Corp., 16 BRBS 155 (1984), cannot justify denying a scheduled claim solely because hearing loss was discovered after voluntary retirement; reference to it in debate does not change either statutory trigger.
 
@@ -258,9 +238,7 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Holding:** For employees described in § 207(o)(2)(A)(ii) who were hired before April 15, 1986, the regular compensatory-time practice in effect on that date constitutes the agreement or understanding the statute otherwise requires before the work is performed. This transition rule operates independently of, and does not require, a further individual or collective agreement for that cohort.
 
-**Proposition-level authority:** Stevens’s unanimous opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; all nine support this proposition.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s unanimous opinion of the Court, joined by the other eight Justices; all nine support this proposition.
 
 **Treatment of earlier authority:**
 
@@ -270,9 +248,7 @@ No prior Supreme Court holding addressed this transition provision; the Court ap
 
 **Holding:** Where employees have selected a representative organization that state law does not authorize to enter a binding § 207(o)(2)(A)(i) agreement, the employer may rely on individual § 207(o)(2)(A)(ii) agreements or understandings with the affected employees hired on or after April 15, 1986, rather than lose the compensatory-time option entirely for want of a legally capable collective representative.
 
-**Proposition-level authority:** Stevens’s unanimous opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; all nine support this proposition.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s unanimous opinion of the Court, joined by the other eight Justices; all nine support this proposition.
 
 **Limits and questions not reached:** No general collective-bargaining entitlement, overtime exemption or presumption of individual consent is created. The Court does not decide a practice adopted after April 15, 1986 or employees with a representative legally capable of making the collective agreement.
 
@@ -294,8 +270,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 **Holding:** Section502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. Other equitable monetary remedies are not categorically barred; restitution, unappealed claims and the separate malpractice disposition remain untouched.
 
@@ -324,8 +298,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, Section 302 restrains prohibited transactions portion; Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The three-Justice pooled-fund rationale is noncontrolling. Separate ERISA asset-transfer and fiduciary claims remain unresolved; lawful receipt does not immunize later fiduciary misconduct.
 
 **Operative remedy or transition:** Reverse the §302 transfer direction and remand; the court of appeals may consider the unreviewed ERISA claims previously rejected below.
@@ -349,8 +321,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 **Holding:** After an employer produces admissible evidence of nondiscriminatory reasons, a proven prima-facie case and rejection of the offered explanations do not automatically command judgment for the employee. Those circumstances may support a finding of intentional discrimination without a mandatory additional category of direct or independent proof; the Eighth Circuit’s automatic-liability mandate is vacated, while no majority here adopts a replacement persuasion allocation.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, O’Connor, Scalia, Kennedy, Thomas (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Burdine’s persuasion allocation is not replaced. No universal Title VII/§1983 equivalence, clear-error decision, resolution of retaliation, remaining defenses, relief or applicability of the 1991 Act is adopted.
 

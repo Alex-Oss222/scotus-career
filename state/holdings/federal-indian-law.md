@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone, White, Stevens, O'Connor, Kennedy, Souter, and Thomas; these eight Justices support the ad valorem holding. Blackmun dissents on this component.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The stipulated record did not establish every parcel's patent source. The Indian Reorganization Act did not automatically restore every existing fee parcel to tax-protected status, and the specific land-tax authority did not create general personal taxing jurisdiction over reservation Indians.
 
 **Limits and questions not reached:** The holding concerns qualifying General Allotment Act fee land and preserves independently applicable federal protections. It does not rest on alienability alone or authorize a governmental-impact inquiry under Brendale.
@@ -33,9 +31,7 @@
 
 **Holding:** Congressional permission to tax qualifying fee land ad valorem does not unmistakably authorize a tax imposed on an Indian owner's sale of that land. Securing the transactional tax with a lien does not change its legal incidence.
 
-**Proposition-level authority:** Scalia's opinion states this proposition for Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices support the sales-excise holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Scalia's opinion states this proposition for all nine Justices; all nine Justices support the sales-excise holding.
 
 **Material application:** The annual property levy is triggered by ownership and burdens the realty; the sales excise is triggered by a transaction. A collection lien cannot enlarge Congress's permission by transforming an unauthorized transactional charge into a land tax.
 
@@ -55,9 +51,7 @@
 
 **Holding:** Under 18 U.S.C. §3243, Kansas may prosecute offenses committed by or against Indians on Indian reservations, including trust or restricted allotments, within Kansas to the same extent its courts may prosecute offenses elsewhere in the State under state law, even when the conduct also violates the Indian Major Crimes Act. Federal courts retain their jurisdiction over federally defined offenses; this concurrent authority over conduct does not authorize Kansas courts to adjudicate federal criminal charges.
 
-**Proposition-level authority:** White's unanimous opinion, joined by Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas, controls the grant, the saving clause and the disposition.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** White's unanimous opinion, joined by the other eight Justices, controls the grant, the saving clause and the disposition.
 
 **Treatment of earlier authority:**
 
@@ -81,8 +75,6 @@
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - McClanahan v. Arizona State Tax Commission, 411 U.S.164: applied with both residence and income-source predicates.
@@ -94,8 +86,6 @@
 **Holding:** For tribal members residing in Indian country, the challenged vehicle excise and registration levies fall within the prohibition on state property taxation absent congressional authorization; collecting the same forbidden charges from later purchasers does not save them. Their application to the established residents must be reconsidered on remand; the Court does not decide a genuinely apportioned off-country road-use charge or every tax connected to a vehicle sale.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Tribal employment or registration alone does not establish protection. Outside-Indian-country self-government claims, genuinely apportioned off-country road-use charges and nonmember taxation are not decided.
 
@@ -119,8 +109,6 @@
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, Acquisition displaces exclusion-derived regulation portion; White, Stevens, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Dion, 476 U.S.734 — clear congressional choice required, without an invariable express-words requirement.
@@ -133,8 +121,6 @@
 **Holding:** Loss of treaty-based exclusion does not decide whether a Montana exception or properly established federal authorization permits particular regulation. Remand preserves the exceptions for consensual commercial dealings, contracts, leases or other arrangements with the Tribe or its members, and for conduct threatening or directly affecting tribal political integrity, economic security, health or welfare, within Montana’s limits. General inherent sovereignty alone does not restore the abrogated regulatory power.
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, Residual authority remains a distinct inquiry portion; White, Stevens, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Taken former trust lands and formerly non-Indian fee lands retain distinct histories. Unreviewed Montana findings and properly established federal authorization remain for consideration; the undeveloped Corps litigating position receives no deference. No reservation-boundary, criminal-jurisdiction or universal exclusive-state-power ruling.
 

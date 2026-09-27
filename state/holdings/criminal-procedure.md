@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** Per curiam opinion joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; unanimous eight-Justice participating Court.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The Government's January 30 notice of appeal was filed within thirty days after the January 3 denial of reconsideration.
 
 **Limits and questions not reached:** Bad-faith and successive motions, the substantive effect of abandonment, and the Fourth Amendment validity of the search are unresolved. Existing appeal periods and preservation rules are unchanged.
@@ -90,8 +88,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** Parts III-B-2 and IV of Souter's opinion, joined by Stone, Blackmun, Stevens, O'Connor and Kennedy; six Justices. White and Thomas accept the error framework but find the existing review sufficient; Scalia would affirm on a separate ground.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Proportionality compares sentences across cases; it does not itself determine whether this invalid factor influenced this sentencing balance. Three valid factors and no found mitigation may bear on harmlessness but do not establish the missing inquiry. The State bears the beyond-a-reasonable-doubt burden.
 
 **Limits and questions not reached:** The Court neither undertakes reweighing nor determines the outcome of lawful correction. It requires no prescribed phrase and rejects a bare harmless-error label as sufficient. No automatic life sentence, mandatory new penalty jury, new mitigation finding or new habeas standard is created.
@@ -111,8 +107,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** White's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Kennedy and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; Scalia and Thomas dissent.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Illinois requires consideration of aggravation and mitigation. A juror who fixes death in advance regardless of the evidence refuses that task; the conclusion a qualified juror reaches after genuine consideration is different.
 
 **Limits and questions not reached:** The State need not provide jury sentencing, but a jury it supplies must be impartial. General support for capital punishment is not disqualifying, and the Court prescribes no weight for mitigation or required punishment. Witt's substantial-impairment standard remains intact.
@@ -131,8 +125,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 **Holding:** On a capital defendant’s request, voir dire must adequately inquire into whether prospective sentencing jurors would automatically impose death regardless of lawful consideration of the facts and mitigation. General promises of fairness and obedience to instructions did not cover that subject here; the denied inquiry requires reversal of the death-sentence affirmance and remand, without disturbing the conviction.
 
 **Proposition-level authority:** White's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Kennedy and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; Scalia and Thomas dissent.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Generic assurances can conceal a prospective juror's belief that automatic death is fair. One juror's volunteered disqualifying answer and removal do not show adequate subject coverage for the others. The defendant need not prove answers to an inquiry he was forbidden to make.
 
@@ -158,8 +150,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** The per curiam opinion, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; seven Justices adopt the defect and corrective requirements. White favors argument and casts no present merits vote; Scalia dissents.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The jury returned an 11–1 general death recommendation under the unelaborated instruction. The judge gave operative weight to four aggravators and found two mitigators. No factor-specific jury finding is inferred; the required legal weight of the recommendation supplies the indirect channel of error.
 
 **Treatment of earlier authority:**
@@ -178,8 +168,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 **Holding:** Reversal of the rejection of this sentencing claim requires further proceedings that remove the influence of the invalid jury recommendation through lawful reweighing or harmless-error review satisfying Chapman beyond a reasonable doubt. If no lawful cure is available, a new sentencing proceeding is required; valid remaining aggravators alone do not establish a cure, and neither an automatic life sentence nor disturbance of the guilt judgment follows.
 
 **Proposition-level authority:** The per curiam opinion, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; seven Justices adopt the defect and corrective requirements. White favors argument and casts no present merits vote; Scalia dissents.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No automatic reduction to life, retrial of guilt, adjudication of unrelated aggravators, factor-by-factor jury finding, or collateral-review gateway rule follows. The petition's severance and mitigation/time/funding/proportionality questions are not granted or adjudicated in this limited summary action; no separate denial of them is invented. No prior Supreme Court decision is overruled.
 
@@ -205,8 +193,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, White, Blackmun, Stevens and O'Connor; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The holding is confined to the old-rule application established by Godfrey for this finality date. No Teague exception or unresolved procedural-default defense is decided.
 
 **Operative remedy or transition:** The Fifth Circuit’s Teague disposition is reversed and remanded for consideration of the preserved procedural-default defense and adequate state correction. If relief otherwise becomes warranted, a conditional writ may permit lawful resentencing or authorized appellate correction. No unconditional release, automatic life sentence, or finding that a particular state cure failed is ordered.
@@ -224,8 +210,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 **Holding:** When a capital sentencer weighs a constitutionally invalid aggravating factor against mitigation, remaining valid aggravators do not by themselves cure the error. The state judicial system must supply genuine reweighing without the invalid factor, where authorized, or constitutional harmless-error review establishing that the invalid factor did not affect the sentence; the adequacy of any cure here remains for further proceedings.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, White, Blackmun, Stevens and O'Connor; six Justices adopt this proposition.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Genuine authorized reweighing and constitutional harmlessness are distinct corrective routes. The latter places on the State the burden of proving harmlessness beyond a reasonable doubt. Remaining valid aggravators or bare proportionality review alone do not cure the error; death eligibility is not automatically negated.
 
@@ -252,8 +236,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** O'Connor's Part II, joined by Stone, White, Blackmun, Stevens and Souter: six of nine participating Justices adopt this rule and application.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Continued medication became involuntary after objection. Medical appropriateness was accepted, but the unexplained order established neither essential safety need nor the insufficiency of less intrusive means; testimony indicated that competence might continue without Mellaril.
 
 **Limits and questions not reached:** No incompetency finding, fixed treatment instruction, categorical medication prohibition, universal proof quantum, strict-scrutiny formula or rule making every medication error structural is adopted. The complete conditions for competency-restoration medication, competency waiver, the Fifth Amendment demeanor theory and an unpreserved Eighth Amendment theory remain undecided. Chapman’s harmless-beyond-a-reasonable-doubt formulation appears only in Stone’s concurrence.
@@ -270,8 +252,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 **Holding:** When unjustified compelled antipsychotic medication through trial creates a supported, substantial risk of impairing the defense that the record cannot reliably reconstruct, the defendant need not demonstrate exactly how an unmedicated trial would have differed. The risk here extends beyond visible demeanor to testimony, comprehension and communication with counsel; explanatory expert testimony does not cure it, and the convictions and dependent sentence must be vacated for a new trial.
 
 **Proposition-level authority:** O'Connor's Part III, joined by Stone, White, Blackmun, Stevens and Souter: six of nine participating Justices adopt this record-specific rule and remedy. Kennedy concurs in the reversal and new-trial judgment on a distinct trial-integrity ground.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The supported risk concerned attention, testimony, comprehension and communication with counsel as well as demeanor. Expert explanation cannot restore an altered conversation or response, and an unmedicated trial cannot reliably be reconstructed.
 
@@ -359,8 +339,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Part I of Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; nine Justices endorse this rule.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The limited grant accepts the state-law exception foundations for the child's statements as its premise; the Court makes no finding that disputed foundations are satisfied. Their spontaneous and treatment settings supply evidentiary value that later trial testimony cannot recreate.
 
 **Limits and questions not reached:** No blanket approval of police questioning, automatic child-necessity rule, harmless-error holding, or ruling on state-law admissibility outside the granted premise is established.
@@ -380,8 +358,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** The Confrontation Clause is not categorically confined to formal affidavits or equivalent trial substitutes, so that limiting definition does not supply an alternative basis for admitting these statements. The Court resolves the accepted exceptions under existing confrontation law and leaves any broader reconstruction of that law open.
 
 **Proposition-level authority:** Part II of Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices reject the proposed categorical narrowing. Scalia and Thomas withhold that join.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court does not hold that every hearsay statement violates the Constitution or decide the treatment of a formal investigative accusation on a disputed record. No new categorical testimonial rule replaces the received framework.
 
@@ -404,8 +380,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** A process capable of granting detention credit is distinct from McCarthy’s damages-only claim and compensation-incapable grievance procedure. The decision leaves proper administrative and judicial review available.
 
 **Operative remedy or transition:** The Sixth Circuit’s direction to the sentencing court to award credit is reversed. Initial computation remains with the Attorney General through BOP after sentence commencement, subject to proper review; no days of credit or new detention order are awarded.
@@ -423,8 +397,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** Section 3585(b) forbids federal detention credit for time already credited against another sentence when the federal sentence begins. A defendant cannot avoid that condition merely because the federal sentencing hearing occurred before the other court awarded its credit.
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt this proposition.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Tennessee credited 429 days before the federal term began, although after the federal sentencing hearing. The Court does not fix a numerical federal credit, define every form of official detention, or decide a challenge to a completed BOP calculation.
 
@@ -445,9 +417,7 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Holding:** The use of evidence of an uncharged crime in one trial does not itself place the defendant in jeopardy for that crime. The later Oklahoma substantive charges concern different acts from the Missouri attempt and are not barred merely because evidence of those acts helped prove intent in Missouri.
 
-**Proposition-level authority:** Part I of White's opinion of the Court, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the distinct-prosecution rule.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Part I of White's opinion of the Court, supported by all nine Justices; all nine Justices adopt the distinct-prosecution rule.
 
 **Limits and questions not reached:** The Missouri attempt concerned different acts from the earlier Oklahoma offenses. Ordinary objections to the admissibility of particular evidence remain.
 
@@ -463,8 +433,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** A conspiracy and its substantive objects are distinct offenses; prosecution of the substantive crime does not bar prosecution of the agreement merely because the same acts help prove both. The overlapping Missouri conduct therefore does not bar this Oklahoma conspiracy.
 
 **Proposition-level authority:** Part II of White's opinion of the Court, joined by Stone, O'Connor, Scalia, Kennedy, Souter and Thomas; seven Justices adopt this rationale. Stevens and Blackmun concur only in the conspiracy judgment on a narrower ground.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Grady remains in force; no same-transaction requirement or new evidentiary exemption is adopted. A materially different single-incident successive prosecution remains for its own case.
 
@@ -491,8 +459,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** White, joined by Stone, Blackmun, Stevens, Souter, Thomas: six votes control.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Later-collected evidence may establish prior readiness; its collection date and investigative persistence do not alone decide entrapment. No knowledge-of-illegality element, reasonable-suspicion prerequisite, general bar on undercover opportunities, or objective misconduct defense is adopted.
 
 **Operative remedy or transition:** Reverse the Eighth Circuit’s judgment and return the case for entry of acquittal. The prosecution may not retry the charge to supply missing proof of independent predisposition.
@@ -510,8 +476,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** Because the prosecution’s proof was legally insufficient to overcome entrapment, the proper disposition is acquittal rather than a new trial. Burks bars a second opportunity to supply the missing evidence of independent predisposition.
 
 **Proposition-level authority:** White, joined by Stone, Blackmun, Stevens, Souter, Thomas: six votes support the remedial direction.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** This disposition rests on insufficiency, not an erroneous instruction or another correctable trial error. A separate outrageous-government-conduct claim and statutory amendments are not decided.
 
@@ -535,8 +499,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** White's opinion, joined on this proposition by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The repeated injuries supported the inference of nonaccidental harm without themselves identifying McGuire as the abuser. The evidence-alone theory could not support habeas relief.
 
 **Limits and questions not reached:** State-law admissibility alone is not reviewed. The Court does not decide a general constitutional prohibition of propensity evidence.
@@ -548,8 +510,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** An ambiguous instruction violates due process only when, read with the charge and trial as a whole, there is a reasonable likelihood the jury applied it in a way that relieved the State of proving an element. This instruction did not create that likelihood because it conditioned any inference on the jury's finding that McGuire committed the prior acts and expressly prohibited a bad-character inference.
 
 **Proposition-level authority:** White's opinion joined at this level by Blackmun, Scalia, Kennedy, and Souter; five of eight participants. Stone, Stevens, and O'Connor join only the distinct prior-injury-evidence proposition.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The complete charge neither directed a finding that McGuire caused the earlier injuries nor shifted the prosecution's burden on identity or any other element.
 
@@ -569,8 +529,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** On the trial record here, the quantity and recency of West’s possession of distinctive items from the same theft, considered with the jury’s permissible rejection of his incomplete account, allow a rational trier of fact to find the elements of larceny beyond a reasonable doubt; the exhausted Jackson insufficiency claim therefore warrants no habeas relief. The reviewing court must assess the evidence and permissible credibility choices favorably to the prosecution, without retrying guilt, shifting the State’s burden or treating possession as an invariably sufficient substitute for proof of theft.
 
 **Proposition-level authority:** Thomas and Scalia in the principal opinion, White in his express endorsement of its sufficiency demonstration, O'Connor with Blackmun and Stevens in their concurrence, Kennedy in his concurrence, and Stone in his separate concurrence expressly adopt this same record-specific Jackson proposition: eight Justices. Souter is excluded because his ground is Teague-only. No complete opinion commands a majority, and no broader rule is synthesized under Marks.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** More than fifteen distinctive items from the same theft were found in West's residence two to four weeks afterward, and the jury could reject gaps in his incomplete flea-market account. Affirmative possession evidence and permissible credibility choices together sustain the inference; disbelief alone supplies no missing element. The offense threshold was $100 and the prior felony was credibility material, not propensity proof of this theft.
 
@@ -599,8 +557,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas's Opinion of the Court, joined in full by White, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven of nine participating Justices adopt this rule and explanation. Stone concurs in the judgment on his separately stated compatible rule and qualifications; he is not a formal opinion joiner. Stevens dissents from the remand on actual-motive application, not on an exemption from the Rule.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The court of appeals dispensed with similar motive because the Government could immunize the witnesses at trial and did not fully consider the competing actual-motive accounts. Disclosure of grand-jury material to the defense is distinct from admitting it for its truth.
 
 **Limits and questions not reached:** The Court finds neither actual similar motive nor ultimate inadmissibility and adopts no categorical exclusion of grand-jury testimony. Compelled immunity, other hearsay exceptions, independent preserved constitutional grounds, witness truthfulness and guilt remain undecided.
@@ -618,8 +574,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 **Holding:** When the Government offers independent evidence contradicting unavailable witnesses' grand-jury accounts, but does not present any version of those accounts to the trial jury, that act alone does not forfeit its Rule 804(b)(1) objection. Even assuming a privilege-forfeiture analogy is available, mere contradiction is not disclosure of the protected communication; this decision does not establish that every hearsay objection is a testimonial privilege.
 
 **Proposition-level authority:** Thomas's Opinion of the Court, joined by White, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven Justices expressly reject the asserted forfeiture ground at this limited level of generality. This is a distinct controlling answer to the defendants' alternative admissibility theory, not a finding of ultimate inadmissibility.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Government offered contractors, recordings and documents, without presenting any version of DeMatteis's or Bruno's grand-jury account to the trial jury. The selective-disclosure premise of the asserted United States v. Miller, 600 F.2d 498 (5th Cir. 1979), analogy is absent; that lower-court authority does not supply an adopted Supreme Court privilege rule.
 
@@ -671,8 +625,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** Stevens’s Parts II and III, joined by Blackmun, O’Connor and Thomas, adopt the personally-known/direct-negation duty. Stone’s separate merits opinion adopts that duty where omission materially distorts the presentation. Under Marks, these five judgment supporters establish the stated common requirement; the four-Justice formulation does not remove Stone’s material-distortion qualification from the controlling rule.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The duty concerns substantial evidence personally known to the prosecutor, not an investigative search or a preliminary trial of every defense. Misconduct and charging prejudice are separate inquiries.
 
 **Limits and questions not reached:** The grant concerns authority, not the accounting documents’ specific character. Affirmance does not establish that every intent-related item meets the duty or that the prosecutor fabricated evidence. Negligent discovery, state-grand-jury duties, constitutional disclosure, immunity and fabrication claims remain undecided.
@@ -691,8 +643,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 **Holding:** Federal supervisory authority permits dismissal without prejudice when a prosecutor withholds personally known, substantial evidence directly negating the charged offense, the omission materially distorts the presentation, the evidence would plainly preclude a finding of probable cause, and the violation substantially influenced the indictment or leaves grave doubt that the indictment was free from that influence. This establishes the stated sufficient ground for dismissal; it requires neither a search for undiscovered favorable evidence nor presentation of every potential defense.
 
 **Proposition-level authority:** Stevens’s merits Parts II and III, joined by Blackmun, O’Connor and Thomas, supply the narrower judgment-supporting rule. Stone concurs in affirmance under the broader material-distortion formulation, covering known evidence substantially undermining an essential element with established Bank of Nova Scotia prejudice. Under Marks v. United States, 430 U.S. 188, the four-Justice rule is the controlling logical subset: every known, directly negating omission that plainly defeats probable cause, materially distorts the presentation and causes the stated prejudice also satisfies Stone’s broader rule. The five judgment supporters together establish its force. Stone is not represented as formally joining the narrower qualification. The four-Justice and broader one-Justice applications are not combined to remove that qualification from the sufficient ground recognized here. Neither the plurality nor the five judgment supporters adopt an exclusive rule forbidding relief in every other circumstance.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The narrower rule adds evidence plainly precluding probable cause to the shared known-evidence, direct-negation and material-distortion requirements, and independently requires Bank of Nova Scotia prejudice. The Government presented a categorical authority objection rather than renewed review of the particular evidence.
 
@@ -723,8 +673,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone, Blackmun, Stevens, Scalia, Souter and Thomas; seven Justices support the proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The policy-statement holding concerns an express prohibition guiding the relevant Guideline, not every policy statement for every purpose. Whether nonsimilar old convictions justify departure is not decided.
 
 **Operative remedy or transition:** The sentence-affirmance judgment is vacated and remanded to the Seventh Circuit. It must decide causal harmlessness and independently reasonable extent on the whole record; if either required condition fails, it must remand for resentencing. The convictions remain intact.
@@ -740,8 +688,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone, Blackmun, Stevens, Scalia, Souter and Thomas; seven Justices support the proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The inquiry asks whether this judge would have imposed the same sentence, not whether that sentence could lawfully have been imposed. Chapman’s constitutional proof standard is not adopted.
 
 **Operative remedy or transition:** The sentence-affirmance judgment is vacated and remanded to the Seventh Circuit. It must decide causal harmlessness and independently reasonable extent on the whole record; if either required condition fails, it must remand for resentencing. The convictions remain intact.
@@ -756,8 +702,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 **Holding:** Even when an invalid departure ground was harmless under §3742(f)(1), a reviewing court must separately determine under §3742(f)(2) that the departure’s extent is reasonable in light of the valid grounds actually identified by the sentencing court. A reasonable sentence that the district court could have imposed does not establish that the erroneous factor was harmless.
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone, Blackmun, Stevens, Scalia, Souter and Thomas; seven Justices support the proposition.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Review concerns valid grounds actually identified by the sentencing court; comments used to select a sentence after departure do not become new departure grounds. The lawful use of nonsimilar old convictions and the ultimate reasonable magnitude remain unresolved.
 
@@ -779,8 +723,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 **Holding:** The United States–Mexico Extradition Treaty does not prohibit this abduction or make extradition its exclusive means of obtaining a defendant’s presence. Because the Treaty supplies no restriction barring this prosecution, the Ker–Frisbie rule permits trial notwithstanding the DEA-sponsored forcible transfer and Mexico’s protest; the treaty-based dismissal and repatriation order must be reversed.
 
 **Proposition-level authority:** White's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five Justices adopt the treaty construction, application and remedy. Stone, Blackmun, Stevens and O'Connor dissent from the 5–4 reversal.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Article 9 preserves discretion over surrender of nationals and submission for domestic prosecution when surrender is declined within that process. It does not require every acquisition of custody to use extradition. Undisputed DEA sponsorship and Mexico's protest do not supply the missing Treaty restriction.
 
@@ -811,8 +753,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Parts I, II-A and III of Souter’s opinion, joined by Stone, White, Stevens, Scalia, Kennedy and Thomas; seven Justices. The legislative-history and competing lenity explanations do not command five votes.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The comparable adult range is 15–21 months absent a supported lawful departure; none is established here. Other juvenile statutory limits remain. No common new lenity or legislative-history methodology commands a majority; no Marks synthesis is supplied.
 
 **Operative remedy or transition:** The Eighth Circuit’s judgment is affirmed. Its earlier remand has already produced an 18-month term; this decision orders no new hearing, additional detention or new departure finding.
@@ -836,8 +776,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Parts I–II of Stevens’s opinion, joined by White, Blackmun, O’Connor and Souter; five Justices adopt this statutory ground. Kennedy and Stone independently support the judgment without joining those parts, and their reasons are not necessary to make this holding controlling.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Knowing receipt of unauthorized payment in return for official acts does not become lawful merely because the payer proposed it.
 
 **Limits and questions not reached:** Mere gratuities, cases lacking the required undertaking, entrapment and collateral evidentiary disputes are not decided or reopened. Interstate commerce and proof beyond a reasonable doubt remain required. Kennedy’s communicated-exchange theory and Stone’s separate reasoning do not add elements to the Court’s holdings.
@@ -856,8 +794,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Parts I–II of Stevens’s opinion, joined by White, Blackmun, O’Connor and Souter; five Justices sustain the instruction and distinguish agreement from later performance.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The charge excluded a contribution standing alone, even where the donor had pending business, and required knowing acceptance for a specific requested exercise of official power. Receipt for the undertaking completes the crime without completed rezoning assistance.
 
 **Limits and questions not reached:** Mere gratuities, cases lacking the required undertaking, entrapment and collateral evidentiary disputes are not decided or reopened. Interstate commerce and proof beyond a reasonable doubt remain required. Kennedy’s communicated-exchange theory and Stone’s separate reasoning do not add elements to the Court’s holdings.
@@ -874,8 +810,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 **Holding:** Official-right extortion is not confined to obtaining payment by falsely asserting that law entitles the official to collect it. A knowing unauthorized payment in return for official acts can violate the official-right branch without deceiving the payer that the payment is a lawful fee.
 
 **Proposition-level authority:** Part III of Stevens’s opinion, joined by White, Blackmun, Kennedy and Souter; five Justices decide this construction. O’Connor does not reach it, and Stone does not join or supply an additional ground on it.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** False fee demands are one form of official-right extortion, not an indispensable element of every form; the payment here concerned official assistance and was not lawfully due.
 
@@ -902,8 +836,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Per curiam Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; no noted dissent.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The concrete historical-pattern motion, renewed objections and Fourteenth Amendment appellate presentation control; a generic assertion of unfairness does not automatically preserve every constitutional claim. Holland’s Sixth Amendment rule remains distinct.
 
 **Operative remedy or transition:** The Court grants certiorari and leave to proceed in forma pauperis, reverses the Texas judgment by reasoned per curiam decision and remands for consideration of the preserved claim, obtaining explanations and findings as appropriate. No automatic new trial is ordered.
@@ -920,8 +852,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 **Holding:** Because Trevino’s case remained on direct review when Batson was decided, Griffith requires its application, and Powers removes the objection that Trevino and the excluded jurors are of different races. The state court must decide the preserved claim under Batson’s ordinary burdens; preservation alone establishes neither purposeful discrimination nor an automatic entitlement to a new trial.
 
 **Proposition-level authority:** Per curiam Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; no noted dissent.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The state court must apply the prima facie showing, race-neutral explanation when required, and ultimate purposeful-discrimination determination. Preservation alone proves no violation. Consequences of inability to complete a future corrective inquiry and other trial errors remain undecided.
 
@@ -947,8 +877,6 @@ For the State's standing to assert excluded jurors' rights in *Georgia v. McColl
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, Stevens, Kennedy and Souter; five of nine Justices adopt the rule and its limited attribution.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Georgia creates the peremptory power, summons and compensates jurors and judicially gives exclusion legal effect. Selection of the governmental criminal jury is the specific public function at issue.
 
 **Limits and questions not reached:** Ordinary defense representation, advice and investigation remain private. The decision does not abolish peremptories or constitutionalize every defense act, and it decides no actual strike, criminal charge or nonracial classification.
@@ -968,8 +896,6 @@ For the State's standing to assert excluded jurors' rights in *Georgia v. McColl
 **Holding:** When the State establishes facts supporting a prima facie inference of purposeful racial defense strikes, the defense must give race-neutral explanations and the judge must determine whether the State has proved purposeful discrimination; the ultimate persuasion burden remains with the State. Effective counsel and an impartial jury do not confer a right to racial exclusion, while genuine race-neutral challenges, inquiry into actual bias and appropriate protection of concrete confidential matters remain available.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, Stevens, Kennedy and Souter; five Justices. No general privilege-resolution rule or unconscious-bias test is adopted.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** A strike against a minority juror alone does not require explanation. Genuine race-neutral challenges and meaningful inquiry into actual disqualifying bias remain available. A concrete privilege dispute, a general privilege-resolution rule and unconscious-bias safeguards remain undecided; confidential judicial consideration is possible without a categorical exemption.
 
@@ -1038,9 +964,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Holding:** Substantial assistance alone does not authorize a sentencing court to depart under 18 U.S.C. §3553(e) or USSG §5K1.1 without the Government's required motion. Those provisions give the Government power to move, not a duty to do so whenever assistance has been useful; their independent operation is reserved on this record.
 
-**Proposition-level authority:** Part A of Souter's Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas. All nine adopt the statutory rule.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Part A of Souter's Opinion of the Court, joined by the other eight Justices. All nine adopt the statutory rule.
 
 **Material application:** The Government made no motion; a judicial reassessment of cooperation’s value cannot substitute for the statutory act.
 
@@ -1056,9 +980,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Holding:** A district court may review the Government's refusal to file a substantial-assistance motion and grant relief when the refusal rests on an unconstitutional purpose, including race or religion. This case establishes no particular corrective remedy because no unconstitutional refusal has been shown.
 
-**Proposition-level authority:** Part A of Souter's Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas. All nine reject categorical immunity from constitutional review.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Part A of Souter's Opinion of the Court, joined by the other eight Justices. All nine reject categorical immunity from constitutional review.
 
 **Material application:** Absence of a statutory entitlement does not eliminate constitutional limits, but Wade identifies no supported unconstitutional purpose.
 
@@ -1076,8 +998,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part B of Souter's Opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas. Eight Justices adopt this independent constitutional ground; Stone does not join the separate formulation and resolves only the unsupported proffer under his stated ground.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Useful assistance may coexist with a rational assessment that the costs and benefits do not justify moving.
 
 **Limits and questions not reached:** No enforceable plea promise is established. The independent operation of §3553(e) and §5K1.1, any particular remedy for a proved unconstitutional refusal, a departure amount and an independent firearm-term challenge are not decided. The motion prerequisite is not classified as an Article III jurisdictional limit.
@@ -1093,8 +1013,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** A defendant seeking discovery or an evidentiary hearing about a refused substantial-assistance motion must make a substantial threshold showing of improper motive; useful assistance alone, with or without generalized accusations, is insufficient. Wade's assistance-only proffer does not justify discovery, a hearing, a remand to develop an unspecified claim, or a sentence reduction.
 
 **Proposition-level authority:** Part B of Souter's Opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas: eight Justices adopt the discovery threshold and its application. Stone agrees that this proffer fails but does not join the general threshold; his separate concurrence is not a limit on the eight-Justice rule.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** When invited to identify evidence supporting inquiry, counsel offered only Wade’s assistance. No suspect reason was identified; useful cooperation with generalized accusations cannot justify inquiry.
 
@@ -1120,8 +1038,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, I–II; White, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Walton, 497 U.S. 639 — applied: a sufficiently definite state judicial construction may guide a judge’s capital sentencing.
@@ -1133,8 +1049,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** A facial challenge may test whether a State has maintained a consistent, constitutionally sufficient formulation; alleged inconsistency in applying a valid formulation is a separate inquiry. Under Jeffers, constitutional review of its application asks whether no reasonable sentencer could find the aggravator; that question and the unreviewed grounds for resentencing remain open or intact here.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, II–III; White, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1160,8 +1074,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Blackmun, Stevens, Kennedy, Souter and Thomas: eight votes. Thomas also writes separately; Scalia dissents.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:** Clemons v. Mississippi, 494 U.S. 738 (1990), applied: lawful state appellate cure is permitted, automatic factor-count affirmance is not. Stringer v. Black (March 9), Sochor v. Florida (June 8) and Espinosa v. Florida (June 29), all 1992, applied at their controlling levels: actual weighing error requires actual constitutional correction. Chapman v. California, 386 U.S. 18 (1967), preserves the State’s beyond-reasonable-doubt harmlessness obligation.
 
 ##### Arizona’s adjudication did not cure this sentence
@@ -1169,8 +1081,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** On the parties’ premise that a majority of the Arizona Supreme Court had to cast valid curative votes, this sentence cannot stand: even assuming the two Justices retaining the narrowed aggravator lawfully reweighed, the two other affirming Justices relied conclusively on the remaining criminal history without a new balance of mitigation. The denial of sentence relief is reversed for a conditional writ allowing a reasonable period for constitutional correction or vacation of the death sentence and imposition of a lawful lesser sentence.
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Blackmun, Stevens, Kennedy, Souter and Thomas: eight votes. Thomas also writes separately; Scalia dissents. No rule demanding identical reasoning from every member of a state appellate majority is adopted.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Walton v. Arizona, 497 U.S. 639 (1990), and Lewis v. Jeffers, 497 U.S. 764 (1990), preserved: narrowing constructions and appropriately reviewed state applications may be valid, but do not supply a curative vote absent here. State v. Gretzler, 135 Ariz.42, 659 P.2d1 (1983), remains the state narrowing source; its proper application by Holohan and Hays is not decided. Clemons and the operative weighing-error decisions require the stated remedy.
 
@@ -1192,8 +1102,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter and Thomas; eight votes at this level. Blackmun agrees with the result in a separate writing limited to sentencing.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:** Boykin v. Alabama, 395 U.S. 238 (1969), distinguished as direct review without weakening its valid-waiver requirement. Johnson v. Zerbst, 304 U.S. 458, 468–469 (1938), applied to collateral regularity. Burgett v. Texas, 389 U.S. 109 (1967), preserved for constitutionally defective uncounseled convictions. Medina v. California (June 22, 1992), distinguished: its narrow competence-burden holding does not establish a controlling categorical ban on practical due-process analysis.
 
 ##### Measure of proof
@@ -1202,8 +1110,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter and Thomas; eight votes at this level. Blackmun agrees with the result in a separate writing limited to sentencing.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:** Boykin is not extended into a clear-and-convincing collateral proof requirement. Zerbst supports the distinction between constitutional validity and a universally heightened burden. The Sixth Circuit’s Dunn v. Simmons, 877 F.2d 1275 (1989), cannot govern insofar as it demands that constitutional quantum and shifts the entire production burden solely because no transcript survives.
 
 ##### The 1981 plea
@@ -1211,8 +1117,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** Under then-applicable 28 U.S.C. §2254(d), a competent state court’s factual determination, evidenced by written findings, an opinion or other reliable and adequate written indicia after a merits hearing involving the applicant and the State receives a presumption of correctness subject to the conditions and exceptions below; the ultimate federal question whether a plea was knowing and voluntary remains independently determined. On the established earlier warnings, contemporaneous 1981 charge form and jury warning, representation, education, unimpaired condition and testimony here, Raley’s 1981 plea was knowing and voluntary and the Sixth Circuit’s conditional new-hearing remedy is unwarranted. The presumption does not govern if the applicant establishes, it otherwise appears, or the State admits that (1) the state hearing did not resolve the merits of the factual dispute; (2) its factfinding procedure was inadequate to afford a full and fair hearing; (3) material facts were not adequately developed; (4) the state court lacked subject-matter jurisdiction or jurisdiction over the applicant; (5) an indigent applicant was denied appointed counsel in deprivation of his constitutional right; (6) the applicant did not receive a full, fair and adequate hearing; or (7) the applicant was otherwise denied due process in that proceeding. Under paragraph (8), the presumption also does not govern when the pertinent state record is produced and the federal court, considering that record as a whole, concludes that the factual determination lacks fair record support. At a federal evidentiary hearing, once the state factual determination is duly proved, and absent those circumstances, the applicant must establish its error by convincing evidence. That federal factual-review burden is distinct from Kentucky’s allocation and measure of proof of a prior plea’s constitutional validity. Inferences receive deference only when fairly supported by the facts; no presumption attaches to the ultimate federal legal conclusion.
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter and Thomas; eight votes at this level. Blackmun agrees with the result in a separate writing limited to sentencing.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Marshall v. Lonberger, 459 U.S. 422, 431–438 (1983), applied to supported historical inferences and independent legal review. Boykin and North Carolina v. Alford, 400 U.S. 25, 31 (1970), applied to an informed voluntary choice. No later habeas deference standard enters.
 
@@ -1234,8 +1138,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Parts I–III and V of Souter's opinion, joined by Stone-Zsela, Blackmun, Stevens and O'Connor; five Justices adopt this prefinality-law holding, its application to youth and background, and the conditional sentencing remedy.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Teague v. Lane, 489 U.S. 288, and Butler v. McKellar, 494 U.S. 407 — applied; the relevant result must be dictated at finality, not merely supported by a later plausible extension.
@@ -1251,8 +1153,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Parts II and V of Souter's opinion, joined by Stone-Zsela, Blackmun, Stevens and O'Connor; five Justices adopt this independently sufficient ground for sentencing relief and its conditional remedy.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Eddings v. Oklahoma, 455 U.S. 104 — applied to youth's independent culpability significance; jurors may assign weight but cannot be legally prevented from giving it effect.
@@ -1265,8 +1165,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Independent alternative holding:** A capital sentencing system may not prevent a jury from acting on the material culpability significance it finds in a defendant's disturbed upbringing merely because that evidence also bears on future dangerousness or lacks a uniquely severe permanent handicap. The evidence of Graham's mother's recurring mental illness and hospitalizations and his shifting family care supports such a mitigating judgment, which the submitted special issues cannot adequately express; this independently requires the same sentencing remedy.
 
 **Proposition-level authority for alternative holding:** Parts III and V of Souter's opinion, joined by Stone-Zsela, Blackmun, Stevens and O'Connor; five Justices adopt this independent background-evidence ground and the conditional sentencing remedy.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1298,8 +1196,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part I of the per curiam opinion, joined by Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter and Thomas; seven Justices adopt the rule and reversal of this ground.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Lockett v. Ohio, 438 U.S. 586; Eddings v. Oklahoma, 455 U.S. 104; Penry v. Lynaugh, 492 U.S. 302: applied to preserve meaningful consideration of supported mitigation; they do not require this unsupported instruction.
@@ -1312,8 +1208,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Independent alternative holding:** Even assuming that a presumption of innocence of other offenses applies at capital sentencing, its existence does not automatically require an instruction; the relevant circumstances must create a genuine danger that jurors will attribute other criminal conduct to the defendant on a basis other than lawful evidence. The silent criminal-history record, undiminished reasonable-doubt instructions on aggravation, and absence of a circumstance creating that danger do not require such an instruction here; the Court does not decide the general existence or scope of that sentencing presumption.
 
 **Proposition-level authority for alternative holding:** Part II of the per curiam opinion, joined by White, O'Connor, Scalia, Kennedy and Thomas; five Justices expressly adopt this alternative response. Stone-Zsela and Souter do not join or reach it.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1339,8 +1233,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** White’s opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; nine Justices adopt the same rule.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - United States v. Jacobsen, 466 U.S. 109 — applied; possession and privacy remain independently protected interests.
@@ -1354,9 +1246,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Holding:** A court may not reject an otherwise applicable Fourth Amendment claim merely because the same conduct also concerns a deprivation of property under the Due Process Clause. Each applicable constitutional protection must be examined on its own terms; this disposition does not adjudicate the family’s separate substantive-due-process claim.
 
-**Proposition-level authority:** White’s opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; unanimous holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** White’s opinion, joined by the other eight Justices; unanimous holding.
 
 **Treatment of earlier authority:**
 
@@ -1381,8 +1271,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** When a defendant's flight and recapture both precede a timely appeal, fugitive status alone does not justify dismissal: the sanction must respond to a sufficient connection between that misconduct and the appellate process. Courts may adopt reasonable rules for recurring classes of appellate disruption, and may dismiss for sufficiently established interference, inability to conduct meaningful review, or prejudice to a legally available retrial; retrial prejudice cannot justify dismissing a sufficiency appeal whose successful resolution would prohibit retrial.
 
 **Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy and Souter; six Justices adopt the rule, qualifications and remand.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1411,8 +1299,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by White, Scalia, Kennedy, Souter and Thomas; six Justices adopt the rule and its application to the Collins objection.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Strickland v. Washington, 466 U.S.668 (1984): applied and clarified for loss of a subsequently rejected substantive rule; ordinary reasonable-probability analysis remains the usual test.
@@ -1426,8 +1312,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** Teague's limitation on new rules supporting collateral relief does not require a federal habeas court to disregard a subsequent legal correction favorable to the State when deciding whether an omitted objection caused cognizable Strickland prejudice. Performance remains assessed from counsel's perspective at the time, while the prejudice inquiry here does not preserve an entitlement to the rejected Collins rule.
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by White, Scalia, Kennedy, Souter and Thomas; six Justices adopt this answer to the temporal objection.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1452,8 +1336,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Scalia's opinion, joined by White, O’Connor, Kennedy, Souter and Thomas, supplies six votes for this rule and its application.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Carchman v. Nash, 473 U.S. 716 (1985): applied for the compact’s federal-law character and attention to operative language; its exclusion of probation-violation detainers remains intact.
@@ -1476,8 +1358,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Holding:** For properly joined defendants, mutually antagonistic defenses alone do not require severance; the district court evaluates whether a joint trial presents a serious risk of compromising a specific trial right or preventing a reliable individualized verdict, and chooses effective relief in its sound discretion. Severance is not required for every showing of prejudice if instructions or other safeguards adequately cure the risk, but instructions are not presumed to cure every risk; Garcia, Soto and Martinez have shown no uncured risk requiring separate trials here.
 
 **Proposition-level authority:** O’Connor’s opinion for Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas; eight Justices adopt the rule and its application. Stevens’s narrower concurrence supplies no join in this general formulation.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1504,9 +1384,7 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning petitione
 
 **Holding:** An offense carrying no more than six months’ imprisonment is presumptively petty for the constitutional jury-trial right, but the defendant may overcome that presumption by showing that the additional authorized penalties, considered with the maximum incarceration, are so severe that they clearly reflect a legislative judgment that the offense is serious. For this national-park DUI scheme, the six-month imprisonment ceiling, $5,000 fine and alternative probation of up to five years with its authorized conditions do not rebut the presumption; the defendant has no constitutional jury entitlement on that basis.
 
-**Proposition-level authority:** The per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas; all nine support both the complete Blanton rule and this application.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** The per curiam opinion, joined in full by all nine Justices; all nine support both the complete Blanton rule and this application.
 
 **Treatment of earlier authority:**
 
@@ -1532,8 +1410,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Blackmun’s opinion of the Court, joined by Stone-Zsela, White, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; nine participating Justices adopt the rule and explanation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Diaz v. United States, 223 U.S.442 — applied at its actual scope: voluntary departure permits continuation after initial presence, not commencement in absence.
@@ -1558,8 +1434,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Doyle, 426 U.S. 610 — applied: warning-induced silence receives due-process protection.
@@ -1571,8 +1445,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 **Holding:** For this preserved Doyle trial error properly before the federal habeas court, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation.
 
 **Proposition-level authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1598,9 +1470,7 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Holding:** A sentence increase under U.S.S.G. § 3C1.1 for independently established trial perjury—willfully false testimony under oath or affirmation about a material matter—does not violate the defendant’s right to testify. Once the court properly determines that the defendant committed such perjury, the applicable Guideline requires its two-level obstruction adjustment; neither exercising the trial right nor a guilty verdict alone supplies that predicate.
 
-**Proposition-level authority:** Kennedy’s opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Souter, and Thomas; all nine Justices adopt this proposition, its explanation and its record application, so it controls directly.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Kennedy’s opinion, joined in full by the other eight Justices; all nine Justices adopt this proposition, its explanation and its record application, so it controls directly.
 
 **Treatment of earlier authority:**
 
@@ -1611,9 +1481,7 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Holding:** When a defendant objects to a § 3C1.1 increase based on trial testimony, the court must review the evidence and independently find willfully false sworn testimony concerning a material matter, excluding confusion, mistake and faulty memory. Separate clear findings for each element are preferable, but a single determination encompassing all the factual predicates is sufficient; the district court’s findings here meet that standard.
 
-**Proposition-level authority:** Kennedy’s opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Souter, and Thomas; all nine Justices adopt this proposition, its explanation and its record application, so it controls directly.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Kennedy’s opinion, joined in full by the other eight Justices; all nine Justices adopt this proposition, its explanation and its record application, so it controls directly.
 
 **Treatment of earlier authority:**
 
@@ -1637,8 +1505,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
@@ -1652,8 +1518,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - United States v. Atkinson, 297 U.S. 157: applies the independent fairness, integrity and public-reputation standard.
@@ -1665,8 +1529,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 **Holding:** For these alternates, instructed not to participate, mere presence during deliberations neither establishes prejudice nor warrants a presumption of prejudice under Rule 52(b). Without a specific showing of participation or a chilling effect, respondents have not shown an effect on substantial rights; the per se new-trial ruling must be reversed.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Rule 24(c) waivability, errors first clarified on appeal, outcome-independent categories, appropriate prejudice presumptions, the preserved-objection burden, and Rule 606(b) hearing limits remain undecided. Because substantial rights were not shown, discretionary correction of a prejudicial intrusion is not decided.
 
@@ -1692,8 +1554,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Mistretta v. United States, 488 U.S.361: applies the delegated institutional framework.
@@ -1705,8 +1565,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 **Holding:** Amendment433’s exclusion of unlawful firearm possession by a felon is a permissible interpretation of the crime-of-violence guideline and controls defendants to whom it applies. The appellate judgment sustaining a categorical possession rule is vacated; the governing-version and temporal objection remains for remand, together with properly presented independent sentencing grounds and the consequences of any guideline error.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Interpretation cannot amend contrary guideline text. Governing-version and temporal applicability remain open; other convictions are not automatically independent sentencing predicates.
 
@@ -1729,8 +1587,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 **Holding:** A defendant’s participation in a conspiracy neither creates nor defeats a personal Fourth Amendment claim: the defendant must show interference with his or her own protected property interest in a seizure or reasonable expectation of privacy in a search. The conspiracy exception is rejected, and the lower court must evaluate each reviewed defendant’s actual interests without reopening the unchallenged illegality of the stop.
 
 **Proposition-level authority:** Per curiam Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Conspiracy neither supplies nor destroys an actual protected interest. The Court does not decide that every respondent lacks an interest or that all evidence must be admitted.
 
@@ -1755,8 +1611,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 **Holding:** Under the applicable §924(c)(1), a conviction means the finding of guilt; a second or subsequent conviction on a distinct firearm count may therefore occur in the same prosecution as the first. The statute does not require commission of the later offense after an earlier conviction, and the enhanced terms remain subject to its consecutive-service command.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; White, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The holding concerns the applicable statutory text and distinct convictions, not appellate finality, proportionality or later amendments.
 
@@ -1783,8 +1637,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 **Holding:** When an unconstitutional reasonable-doubt charge vitiates the jury’s governing standard for all factual findings, the defendant has received no constitutionally valid jury verdict of guilt beyond a reasonable doubt. That structural defect requires reversal without harmless-error assessment; an appellate court’s hypothetical verdict cannot substitute for the required jury determination, and this rule does not classify every instructional mistake as structural.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Cage defect is conceded. Different instructional errors, evidentiary sufficiency and collateral-review gates remain unresolved; the distinct penalty-phase relief is not reviewed.
 
@@ -1814,8 +1666,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; White, Blackmun, O'Connor, Kennedy, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Perrin v. United States, 444 U.S.37: ordinary meaning applied.
@@ -1828,8 +1678,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 **Holding:** The firearm must have a purpose or effect with respect to the trafficking crime, rather than being present by accident or coincidence; at minimum, it must facilitate or have the potential to facilitate that crime. Offering the firearm as the consideration for the charged drug transaction establishes that relationship here without deciding that facilitation alone is sufficient in every other setting.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; White, Blackmun, O'Connor, Kennedy, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Use and relation to trafficking remain separate. Mere possession, uncharged carrying and the outer boundary of sufficient facilitation are not decided; §924(d)’s forfeiture elements are not imported.
 
@@ -1855,8 +1703,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Part II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Terry v. Ohio, 392 U.S.1: the protective purpose limits the scope of the frisk.
@@ -1870,8 +1716,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** When the accepted findings establish that the officer identified contraband only by squeezing and manipulating an object after determining that it was not a weapon, the examination exceeds Terry and cannot justify the seizure. That independent ground sustains suppression here despite the state court’s erroneous categorical rejection of tactile recognition.
 
 **Proposition-level authority:** White’s Parts III and IV; Stone-Zsela, White, Stevens, O'Connor, Scalia, Kennedy, Souter (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Probable cause must arise from authorized contact, with lawful access; exploratory touching is not a new exception. The diversion record’s identified legal uses, rather than an invented conviction, support review.
 
@@ -1895,8 +1739,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court; Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Teague v. Lane, 489 U.S.288: finality-era dictated-by-precedent inquiry applied.
@@ -1912,8 +1754,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** The Falconer rule regulates trial procedure rather than removing conduct or a class of persons from the State’s substantive power to punish, and it is not a watershed procedural rule essential to the fundamental accuracy and fairness of the criminal process. Neither exception recognized by Teague at this event’s date permits its retroactive use to obtain the reviewed habeas relief.
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court; Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The State preserved Teague despite its Falconer-error concession. Direct-review validity of the charge and harmlessness are not decided; no categorical exclusion of defense-instruction errors from due process is adopted.
 
@@ -1939,8 +1779,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, The appellate court could reach the future-effects claim portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Kennedy, Souter (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Ordinary claim-scope and appellate-review principles — applied to the actual attempted proof; no new exception for important claims.
@@ -1951,8 +1789,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** A prisoner may establish an Eighth Amendment violation by proving deliberate indifference to involuntary exposure posing an unreasonable risk of serious future harm. He must prove both the objective gravity of the exposure—including seriousness, likelihood and contemporary society’s unwillingness to tolerate the risk—and the separate subjective requirement under Wilson, assessed against current conditions.
 
 **Proposition-level authority:** White’s Opinion of the Court, Preventive protection does not require existing disease portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Kennedy, Souter (7 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The objective inquiry includes scientific risk and society’s unwillingness to tolerate involuntary exposure; Wilson’s subjective requirement remains separate. Transfer and actual implementation of the new smoking policy bear on current exposure, culpability and prospective need.
 
@@ -1980,8 +1816,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, Youth’s independent culpability significance needs an effective sentencing route portion; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Graham v. Collins, January 25, 1993 — independent youth-culpability holding applied as binding merits law.
@@ -1996,8 +1830,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** Because this is direct review of the preserved mitigation claim, Teague does not bar relief. The death sentence must be reversed for an effective sentencing vehicle permitting the material youth mitigation to affect punishment without a false answer to a factual special issue; Texas may provide adequate capital resentencing or a lawful noncapital sentence, while the guilt judgment remains intact.
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, Direct review permits the necessary sentence correction portion; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The whole-charge reasonable-likelihood standard, not mere possibility, governs. No categorical age bar, facial invalidation of Texas sentencing, right to favorable weight or unrestricted mercy instruction is established.
 
@@ -2022,8 +1854,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Dusky v. United States, 362 U.S.402: the functional competence standard governs each presented choice.
@@ -2036,8 +1866,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** A further competence determination is required when circumstances give the court reason to doubt present competence; no automatic hearing is required for every plea or waiver. Reversal of the higher-standard ruling leaves the existing claims about adequate inquiry and informed, voluntary relinquishment for consideration under the correct standards and the applicable pre-AEDPA treatment of state findings.
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** States may provide further safeguards. Execution competence and a distinct standard for actually conducting a trial without counsel remain open. Medication does not itself establish incapacity, and earlier findings are neither ignored nor conclusive after material change; reliable retrospective review and actual waivers remain for consideration.
 
@@ -2062,8 +1890,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, this proposition; Stone-Zsela, White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Bloom v. Illinois, 391 U.S.194: criminal character of punitive contempt applied.
@@ -2076,8 +1902,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, this proposition; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Brown v. Ohio, 432 U.S.161: successive greater/included-offense protection applied.
@@ -2089,8 +1913,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** Grady is not overruled: beyond Blockburger’s elements protection, a later prosecution is barred when establishing an essential element requires proof of conduct constituting an offense for which the defendant has already been prosecuted. Mere reuse of evidence or a common episode does not suffice, and Felix’s independently punishable conspiracy holding remains; no five-Justice rationale determines Grady’s application to Foster II–V in this fractured decision.
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Grady survives; evidentiary overlap and a common episode do not alone establish a bar. Summary contempt, coercive civil sanctions and separate sovereigns are not decided. Foster II–V have no controlling rationale, as stated separately below.
 
@@ -2123,8 +1945,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Browning-Ferris v. Kelco Disposal, 492 U.S.257: government prosecution/receipt distinguishes this fine from private punitive award.
@@ -2139,8 +1959,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; White, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Peisch v. Ware, 4 Cranch 347: punitive understanding and stranger-removal qualification applied.
@@ -2152,8 +1970,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 **Holding:** The lower court must evaluate whether Austin’s actual forfeiture is excessive; statutory facilitation and coverage as punishment do not themselves decide that question. The Court adopts no comprehensive excessiveness test and does not limit the remand to instrumentality alone: the property’s connection to the offense may matter, and other relevant considerations may also be examined.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Souter (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Coverage does not decide excessiveness, incorporate all criminal safeguards or establish state incorporation. Truly innocent ownership, taxation and solely compensatory recovery remain distinct; neither a comprehensive formula nor instrumentality alone is adopted.
 
@@ -2178,8 +1994,6 @@ For the traditional-prior-restraint classification and independent First Amendme
 **Holding:** A criminal RICO forfeiture extracting property as punishment is subject to the Excessive Fines Clause independently of the validity of the convictions or the permissibility of the prison term. The lower court must examine the extent of the exaction in relation to the offenses supporting it; it may not reject that inquiry simply because the sentence is less than life imprisonment without parole.
 
 **Proposition-level authority:** Souter's Part III, joined by Stone-Zsela, White, O'Connor, Scalia, Thomas; six Justices adopt coverage and remand. Blackmun, Stevens and Kennedy accept the alternative excessiveness remand without joining Part III or adopting a proportionality formula.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court leaves actual excessiveness to the lower court, with appropriate record development. The inquiry is not reduced to counting the seven titles adjudged obscene, and it may not presume that every asset or dollar of lawful business is criminal activity. No numerical cap, comprehensive proportionality formula or binding list of excessiveness considerations is adopted. The independent First Amendment inquiry remains necessary.
 

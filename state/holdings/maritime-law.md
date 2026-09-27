@@ -42,8 +42,6 @@
 
 **Proposition-level authority:** White's opinion for the Court, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The claimed work on floating platforms and during towing leaves genuine disputes about vessel status and employment connection. Listed repair work, lack of propulsion, and absence of living quarters do not resolve those disputes conclusively.
 
 **Limits and questions not reached:** The effect of a final award or settlement, summary judgment on a conclusive record, ultimate crew status, negligence, unseaworthiness, maintenance and cure, and damages remain open.

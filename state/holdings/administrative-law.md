@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** O'Connor's opinion joined by Stone, White, Scalia, Kennedy, and Souter; six of eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The exclusive INA procedure supplies the hearing's governing authority. Functional similarity, agency regulations, and remedial purpose cannot enlarge the enacted fee cross-reference.
 
 **Limits and questions not reached:** Substantial justification is not reached because coverage fails. Covered judicial EAJA claims and separately presented constitutional claims are not decided; the asylum grant and its factual basis are undisturbed.
@@ -41,8 +39,6 @@
 **Holding:** Section 1818(i)(1) bars a district court from enjoining an ongoing Board notice-or-order proceeding except through channels that §1818 itself authorizes. Neither general bankruptcy jurisdiction nor Leedom v. Kyne supplies an alternative intervention channel where the proceeding falls within the governmental regulatory exception and meaningful review of a final order remains available.
 
 **Proposition-level authority:** Stevens's opinion for the Court, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The adversary action fits none of §1818's authorized channels for temporary-order challenges, final-order review, or Board enforcement. Section 362(b)(4) permits governmental regulatory proceedings to continue; §§362(a)(3) and (a)(6) do not halt these nonfinal proceedings before seizure of estate property or recovery of a prepetition claim. Section 1334 supplies no competing jurisdiction because the Board is not another court and continuation does not displace control of estate property.
 
@@ -67,8 +63,6 @@ For the separate standing and constitutional-counting holdings in Franklin v. Ma
 
 **Proposition-level authority:** Part IV of Stone-Zsela's Opinion of the Court, joined by Blackmun, Stevens, Kennedy and Souter, controls with five votes. White, O'Connor, Scalia and Thomas disagree with this rule while agreeing with reversal on their own reviewability ground.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Presidential transmission under §2a does not confer an independent presidential choice of the population counted under §141. The President's own APA status and susceptibility to coercive relief remain undecided; Waterman's independent foreign-affairs decision structure is different.
 
 **Operative remedy or transition:** The District Court's judgment is reversed and its corrective relief dissolved. No replacement allocation, further factual proceedings or injunction against the President is ordered.
@@ -84,8 +78,6 @@ For the separate standing and constitutional-counting holdings in Franklin v. Ma
 **Holding:** Section 141 permits the supported inclusion of temporarily overseas personnel with enduring state ties, and the Secretary's comparative choice of supplemented home-of-record information is not arbitrary or capricious on this record. The agency must supply a contemporaneous, reasonably discernible explanation connecting its available information and residence objective to its choice; imperfection alone does not require rejection of every available dataset.
 
 **Proposition-level authority:** Part V of Stone-Zsela's Opinion of the Court, joined by Blackmun, Stevens, Kennedy and Souter, controls with five votes. The other four Justices do not join the statutory or APA merits determination.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The contemporaneous record supplies supplementary personnel information and continuing residence reasons despite cancellation of the proposed survey. Home of record may identify enduring ties; tax residence and last duty station have different defects. The holding relies on actual agency reasons, not stricken later declarations or counsel's substitute explanation.
 
@@ -113,8 +105,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part III, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support both propositions. Stone agrees with the disposition of this component only.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Section 320.4(a) and (f) authorize shelf-effects review; subsection (g)(6) concerns the applicant’s construction-site property interest. The Corps adopted Interior’s stated concern and made its own permit determination.
 
 **Limits and questions not reached:** No independent Interior or Attorney General veto is authorized. Compliance with unpresented internal-routing requirements and automatic disclaimer rules for other permits are not decided.
@@ -132,8 +122,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part IV-A, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices adopt this independently sufficient ground for rejecting the §552 challenge. Stone agrees with its disposition only.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The published coastline regulation expressly identified baseline shifts and effects on federal outer continental rights. A catalogue of every possible curative disclaimer was unnecessary.
 
 **Limits and questions not reached:** This applied published criterion does not validate an undisclosed binding rule for every coastal project or dispense with separate §553 duties.
@@ -148,8 +136,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority for alternative holding:** White's opinion, Part IV-B, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices adopt this independently sufficient alternative holding. Stone agrees with its disposition only.
 
-**Current force of alternative holding:** Remains controlling as stated.
-
 **Material application of alternative holding:** The July 1, 1983 communication supplied the condition and ground, followed by approximately ten months for consideration and negotiation before Alaska executed the disclaimer on May 9, 1984.
 
 **Limits of alternative holding:** Notice of this condition is not notice of every general policy and does not itself cure §553 or another mandatory-procedure violation.
@@ -163,8 +149,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 **Holding:** The underlying public-interest and coastline provisions were adopted through notice and comment, and §553 did not require the Corps to promulgate an additional legislative rule before specifying this curative condition in Nome's individual licensing proceeding. This holding depends on application of those existing criteria and the absence of an established, separately binding Corps rule requiring every coastal permit to contain a disclaimer.
 
 **Proposition-level authority:** White's opinion, Part V, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support the rule and application. Stone agrees with the disposition of the §553 component only.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The 1973 proposal and 1974 final rule underwent notice and comment. The individual condition applied those criteria in licensing, which §551 includes within adjudication.
 
@@ -184,8 +168,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part VI, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support this review holding. Stone agrees with the §706 disposition only.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The Corps adopted the identified shelf-boundary concern in July 1983 and evaluated the conditioned project in July 1984. The condition removed that concern while permitting the documented public benefits.
 
 **Limits and questions not reached:** Lawful authority alone does not establish reasoned discretion; later mineral information cannot repair a missing contemporaneous reason. No separate quantitative mineral valuation or universal harmless-error rule is imposed.
@@ -204,8 +186,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 **Holding:** Section 706(2)(E)'s substantial-evidence requirement applies to the hearing or statutory-record proceedings identified in that provision; a public notice and opportunity for comments alone do not establish that predicate. Alaska has established no such predicate for this permit, and its separate assertion that the condition lacks a factual foundation fails under §706(2)(A) because the stipulated project and contemporaneously identified boundary effect support the actual ground.
 
 **Proposition-level authority:** White's opinion, Part VII, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support the statutory-review holding and the distinct record application. Stone agrees with the disposition of this §706 component only.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 706(2)(E) concerns proceedings subject to §§556–557 or otherwise reviewed on a statutorily required agency-hearing record. No such predicate is established; the stipulated plans and contemporaneous correspondence support the separate arbitrary-action review.
 
@@ -232,8 +212,6 @@ For the private-rate-fixing supervision rule and Wisconsin/Montana application i
 
 **Proposition-level authority:** Part IV of Kennedy's opinion of the Court, joined by White, Blackmun, Stevens, Scalia and Souter; six Justices adopt this remand. Stone separately concurs in the same remedial direction; O'Connor and Thomas would affirm.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Correction of the legal rule does not permit replacement of supported agency facts or itself resolve every factual disagreement against the insurers.
 
 **Limits and questions not reached:** The statutory fact-review obligation is distinct from independent review of the legal immunity rule. The Court establishes no new general administrative-review test and resolves neither the disputed appellate treatment of Connecticut/Arizona findings nor ultimate immunity there.
@@ -256,9 +234,7 @@ For the private-rate-fixing supervision rule and Wisconsin/Montana application i
 
 **Holding:** For this interstate federal permit, EPA’s valid regulation incorporates the applicable, federally approved downstream standards into federal permitting law, and its reasonable, consistently held construction receives substantial deference. EPA permissibly construed Oklahoma’s no-degradation requirement to prohibit an actual detectable or measurable violation, rather than every infinitesimal theoretical effect.
 
-**Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous construction of the standards as used in this federal permit.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s opinion, joined by the other eight Justices; unanimous construction of the standards as used in this federal permit.
 
 **Material application:** The standards were developed with federal guidance, approved by EPA and incorporated through 40 C.F.R. §122.4(d). In this federal permitting setting, the detectable-or-measurable formulation implements the standards without treating every theoretical additional molecule as a downstream veto.
 
@@ -272,9 +248,7 @@ For the private-rate-fixing supervision rule and Wisconsin/Montana application i
 
 **Holding:** A reviewing court must accept agency adjudicative findings supported by substantial evidence on the record as a whole and may not replace them merely because competing findings also could be supported. Here EPA’s supported finding that Fayetteville carried the administrative preponderance burden of no actual detectable violation sustains the permit; the court’s contrary policy does not establish arbitrary agency action.
 
-**Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous appellate-review holding and application.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s opinion, joined by the other eight Justices; unanimous appellate-review holding and application.
 
 **Material application:** The administrative law judge addressed nutrient enrichment, appearance, dissolved oxygen and metals under the corrected no-detectable-violation standard. The phosphorus-stream error was harmless because the findings addressed the more vulnerable lake; the standards-edition error was harmless because the relevant editions did not materially differ. The lower court’s categorical degradation rule did not make EPA’s action arbitrary.
 
@@ -299,8 +273,6 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 **Proposition-level authority:** Stevens's opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter support this operative rule. Scalia and Kennedy do not join Part III's broader discussion of possible derivative public benefits. The operative rule has the support of all eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Released reports disclosed the interview questions and answers, dates, sampling, and reported treatment. Names would connect sensitive family, employment, and living information to identifiable returnees who cooperated under an assurance of confidentiality. The requesters supplied a general hope of finding inaccuracies through renewed interviews, without concrete contradictory information or a demonstrated incremental public contribution sufficient to outweigh that privacy invasion.
 
 **Limits and questions not reached:** The Court does not require proof of government wrongdoing before invoking FOIA, decide that derivative investigation can never matter, or adjudicate Haiti's safety or any asylum claim. Waived Exemptions 1 and 7(C) are not reached.
@@ -324,8 +296,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The independent inability-to-agree condition, passenger-service connection, compensation obligation and conjunctive rebuttal remain. The railroad must establish both significant impairment of common-carrier duties and adequate available alternative property to overcome presumed need. The applicable 1990 amendment expressly permits service-promoting reconveyance in pending cases.
 
 **Operative remedy or transition:** The D.C. Circuit’s judgments in both consolidated dockets are reversed and remanded for resolution of compensation challenges and other review issues not previously decided. The Court sustains the ICC order only on the reached acquisition, agency-ground, prerequisite and public-use issues; it fixes no new valuation.
@@ -343,8 +313,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The court may identify the agency’s discernible construction, but may not invent omitted findings or substitute a new rationale supplied by counsel.
 
 **Operative remedy or transition:** The D.C. Circuit’s judgments in both consolidated dockets are reversed and remanded for resolution of compensation challenges and other review issues not previously decided. The Court sustains the ICC order only on the reached acquisition, agency-ground, prerequisite and public-use issues; it fixes no new valuation.
@@ -360,8 +328,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** An unaccepted unilateral offer is not invariably sufficient; the agency must find inability to reach agreement from the parties’ actual positions. Presumed need does not dispense with that antecedent finding.
 
 **Operative remedy or transition:** The D.C. Circuit’s judgments in both consolidated dockets are reversed and remanded for resolution of compensation challenges and other review issues not previously decided. The Court sustains the ICC order only on the reached acquisition, agency-ground, prerequisite and public-use issues; it fixes no new valuation.
@@ -376,8 +342,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Both significant common-carrier impairment and an adequate available alternative are required to rebut need. Preserved freight rights and compensation are part of the transaction; the correctness of the compensation amount remains open.
 
 **Operative remedy or transition:** The D.C. Circuit’s judgments in both consolidated dockets are reversed and remanded for resolution of compensation challenges and other review issues not previously decided. The Court sustains the ICC order only on the reached acquisition, agency-ground, prerequisite and public-use issues; it fixes no new valuation.
@@ -390,8 +354,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Independent alternative holding:** The ICC permissibly reads the alternative-property condition of §562(d) to ask whether an adequate alternative route is available on the statutory terms, rather than whether a lesser interest in the same segment would suffice. The absence of such an alternative independently prevents rebuttal of the need presumption here.
 
 **Proposition-level authority for alternative holding:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** The alternative inquiry concerns an adequate available route on the statutory terms, not a lesser interest in the same segment; it does not authorize acquisition unrelated to passenger service. Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 — applied: the ICC’s route-based construction is permissible within the statutory scheme.
 
@@ -409,8 +371,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this statutory rule and application.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Maislin Industries, U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116: applied; its rejection of the negotiated-rate unreasonable-practice policy remains, alongside the statutory unreasonable-rate remedy.
@@ -425,8 +385,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices support this independent limitation ruling.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Bull v. United States, 295 U.S. 247: applied; same-transaction recoupment survives while the principal action is timely.
@@ -437,8 +395,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** A court hearing the statutory unreasonable-rate claim must allow a reasonable opportunity for the parties to obtain the ICC's determination of rate reasonableness, but that primary-jurisdiction procedure does not deprive the court of jurisdiction. The court may retain the action, ordinarily staying proceedings for that purpose, or dismiss without prejudice only if the parties would not be unfairly disadvantaged; neither prior payment nor a completed ICC ruling is required to file the civil claim.
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this allocation and its qualifications.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -453,8 +409,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** A separate final judgment on the carrier's claim requires Rule 54(b)'s express determination that there is no just reason for delay, considering judicial administration and the actual equities. Prompt suit by a solvent carrier ordinarily favors separate judgment, while actual or threatened insolvency of the party seeking judgment weighs against it without creating an absolute bar; appropriate security and an enforcement stay under Rule 62(h) remain available where other equities justify them.
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices support the rule and remand rather than deciding discretion initially.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -480,8 +434,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Department of Justice v. Reporters Committee for Freedom of the Press, 489 U.S.749: distinguished; privacy categories do not establish every source’s confidentiality.
@@ -493,8 +445,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** Exemption7(D) protects identity when law-enforcement disclosure could reasonably be expected to reveal a confidential source, including an agency, authority or private institution furnishing information confidentially; it also protects information furnished by a confidential source in a criminal investigation conducted by a criminal-law-enforcement authority. The statute separately covers a lawful national-security intelligence investigation; reasonably segregable nonexempt material remains subject to release, but redacting identity alone does not remove protection for covered source information.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Public-testimony waiver and other exemptions remain unresolved. In-camera affidavits and protective procedures may be used when justified, but are not universally required. The separate national-security clause is not construed beyond its stated statutory coverage.
 
@@ -518,8 +468,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Heckler v. Chaney, 470 U.S.821: discretionary resource-allocation rationale applied beyond the enforcement setting within the statutory limits stated.
@@ -532,8 +480,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** Even assuming the program’s termination is a rule, this reallocation and organizational policy change falls within §553(b)(A)’s exceptions for agency organization and general policy statements and does not require notice and comment. The ruling concerns a change in service availability, not a new binding eligibility rule, and leaves the separate §552 publication question unresolved.
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Enacted program limits remain enforceable. The independent constitutional claim, §552 publication question and unreviewed remedial issue are reserved. The decision relies on §553(b)(A), not the benefits exception in §553(a)(2), which the Department had undertaken not to invoke.
 
@@ -556,8 +502,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Kennedy, Thomas (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S.837: traditional tools followed by permissible construction of remaining ambiguity applied.
@@ -569,8 +513,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** An agency’s change of statutory interpretation may reduce the weight accorded its view, but change alone does not make a considered, otherwise permissible construction unlawful. The Court must examine the text, delegated setting and reasons; an unsupported litigation position cannot substitute for the legally required agency explanation or obtain automatic controlling weight.
 
 **Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Kennedy, Thomas (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The hospitals concede no applicable regulatory exemption or exception. Independent challenges to unlawful reimbursement methods remain available outside this review; no automatic actual-cost escape or replacement of Chevron is adopted.
 
@@ -594,8 +536,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Holding:** In an APA action, an otherwise final agency decision is reviewable without an optional superior-agency appeal unless a statute expressly requires exhaustion or an agency rule both requires the appeal and makes the challenged action inoperative pending it. Courts cannot add their own exhaustion requirement beyond those alternatives; remaining APA finality, reviewability and adequate-remedy conditions still apply.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, Section 704 controls exhaustion of superior-agency review portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Otherwise final action remains subject to reviewability and adequate-remedy requirements; express statutory exhaustion and lawful mandatory-and-inoperative agency appeals survive. No universal common-law exhaustion rule is decided.
 

@@ -21,8 +21,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Souter's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas: 8 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Required content is the procedure, material risks and alternatives, probable gestational age and childbirth risks, not an ideological script. Section 3205(c) protects omission of subsection (a) information when the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. It is an information defense, not an emergency-treatment or general delay exception. Stone concurs in the judgment only and adds no rationale vote. The separately invalidated timing and exclusive-speaker conditions do not acquire approval through this speech holding.
 
 **Operative remedy or transition:** Deny the independent facial medical-content speech claim at this bounded scope; materially false, irrelevant or ideological implementation is not approved.
@@ -39,8 +37,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Souter's opinion, joined by White, Stevens, O'Connor, Scalia, Kennedy, Thomas: 7 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Availability means a right to review and obtain free materials if chosen, without acceptance, reading or endorsement. Assistance may be available for prenatal, childbirth and neonatal care, without eligibility or payment guarantees. Paternal liability remains despite an offer to pay for abortion and is not guaranteed collection; rape-related omission is permitted without a police report, including spousal rape. Section 3205(c) protects omission of subsection (a) information when the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. It is an information defense, not an emergency-treatment or general delay exception. Clinicians may correct or criticize information. Stone concurs in the judgments only; Blackmun does not reach these independent speech grounds.
 
 **Operative remedy or transition:** Deny facial relief on each of the three independent speech claims at its bounded factual scope. Concrete falsehood, coercive distribution or materially different enforcement remains open.
@@ -56,8 +52,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** The First Amendment does not invalidate state publication and genuinely chosen receipt of objective materials, or a certificate confined to receipt of lawful information rather than ideological assent. This principle does not supply a vote sustaining a contested underlying notice, timing or delivery obligation.
 
 **Proposition-level authority:** Souter's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas: 8 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Receipt of a copy occurs only if the patient chooses to review it; no reading or ideological assent is compelled. A written certificate documents actual lawful receipt, not personal agreement. Stone concurs in judgment only. The independent speech ruling does not add votes to any disputed prerequisite or certification dependency.
 
@@ -118,8 +112,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Part A of White’s opinion; Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter join White at this level of generality.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** No universal bar excludes association evidence tied to witness bias, demonstrated racial motive, future danger, another legitimate sentencing issue, or actual mitigation. A white victim does not categorically exclude racial motive in another case.
 
 **Operative remedy or transition:** The judgment sustaining the death sentence is vacated and remanded, 8–1. Delaware may consider its harmless-error contention consistently with the constitutional relevance ruling; the Court neither finds harmlessness nor adopts a mandatory Chapman/new-sentencing sequence.
@@ -139,8 +131,6 @@ For the distinct limited collection judgment, see International Society for Kris
 **Holding:** The state judgment sustaining this sentence cannot stand on the constitutional reasoning it adopted. On remand the state court may consider Delaware’s harmless-error contention; this Court decides neither whether harmless-error analysis is available for this violation nor whether the error was harmless.
 
 **Proposition-level authority:** Part B of White’s opinion, joined by Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; seven Justices control the remand’s reserved scope.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court decides neither availability nor satisfaction of harmless-error review and does not command new sentencing automatically. The convictions remain intact.
 
@@ -163,8 +153,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Stone's opinion joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter, and Thomas; eight of nine participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Annual collection preceded twice-monthly lobbying announcements, and protection began only after position-specific objections. Budget estimates and protection of a reasonably sufficient amount can address uncertainty without exact advance prediction; repeated 45-day waivers cannot shift the monitoring burden back to a known dissenter.
 
 **Limits and questions not reached:** Compulsory support for activities germane to professional regulation and improvement of legal services remains permissible. No universal opt-in requirement is adopted. Accounting details and injunction terms are left for remand; an unpreserved retroactive-refund request is outside review.
@@ -177,9 +165,7 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Holding:** Membership in the compulsory bar alone does not establish constitutional bias in every arbitrator selected through a procedure giving the bar and objector one selection each and requiring a mutually selected or judicially appointed chair. Actual bias, a direct stake, or obstructive delay remains subject to review.
 
-**Proposition-level authority:** Stone's opinion joined on this proposition by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stone's opinion joined on this proposition by the other eight Justices; all nine Justices.
 
 **Material application:** Neither party controls the chair, and judicial appointment is available if agreement fails. The shared indirect incidence of bar dues does not itself establish a direct stake in a particular award.
 
@@ -202,8 +188,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** O'Connor's opinion joined by Stone, White, Stevens, Scalia, and Souter; six of eight participants. Blackmun's and Kennedy's judgment-only concurrences are not counted as joins in this rationale.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The payment restraint depends on the work's content and affects access to protected expression without requiring a purpose to suppress ideas. Excluding victimless crimes and releasing limited production or legal expenses do not cure the statute's breadth.
 
 **Limits and questions not reached:** The Court decides this statute, leaving materially different laws open. The decision does not protect stolen property, discharge victim or creditor claims, or immunize publishing income from neutral restitution, forfeiture, attachment, judgments, and collection rules.
@@ -225,8 +209,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined in full by Stevens, O'Connor, Kennedy, and Souter: five of nine, controlling. Stone-Zsela separately concurs in the judgment on compatible grounds and does not formally join that opinion.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The administrator may select whether to charge, which time and support costs to include and whether to discount them without a binding method or explanation requirement. A $1,000 cap does not constrain those choices, and the finding that the particular $100 assessment reflected administrative work does not cure the facial defect.
 
 **Limits and questions not reached:** Different fees alone do not prove invalidity. Authoritative narrowing construction and established administration may supply constraints; presumed benign discretion does not. Concrete indigency, fixed neutral fees, particular content-independent costs and municipal funding duties remain undecided; separate City and School Board claims are outside this review.
@@ -245,8 +227,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority for alternative holding:** Blackmun's opinion of the Court, joined by Stevens, O'Connor, Kennedy, and Souter: an independently sufficient five-Justice holding. Stone-Zsela's separate concurrence agrees with the rule without a formal join.
 
-**Current force of alternative holding:** Remains controlling as stated.
-
 **Limits, remedy, transition, or precedent treatment:** Audience-hostility pricing independently sustains the same facial protection against enforcement. It does not find the actual $100 assessment retaliatory, fix police expenditures or forbid genuinely content-independent administrative charges. The following precedent treatment applies to this alternative ground:
 
 - Ward v. Rock Against Racism, 491 U.S. 781 (1989): applied; the justification must be independent of the message.
@@ -260,8 +240,6 @@ For the distinct limited collection judgment, see International Society for Kris
 **Holding:** The First Amendment does not make a demonstration fee invalid merely because it exceeds a nominal amount, or valid merely because it is small. Cox's allowance for lawful, nondiscriminatory regulatory cost recovery survives; a fee's lawful purpose, content neutrality, and bounded administration govern the defects presented here.
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined by Stevens, O'Connor, Kennedy and Souter, independently controls both rejections of numerical shortcuts. White's dissent, joined by Scalia and Thomas, and Stone's separate concurrence also reject a universal nominal ceiling; no judgment-only position is converted into a full-opinion join.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No permissible dollar amount or comprehensive schedule of recoverable costs is fixed. A fee exceeding a nominal amount must still have a lawful purpose, neutral criteria and bounded administration.
 
@@ -284,8 +262,6 @@ For the distinct limited collection judgment, see International Society for Kris
 **Holding:** Tennessee's campaign-specific prohibition is a content-based restriction on political speech, and ordinary public sidewalks and streets within the 100-foot boundary remain public forums. The State must show that this restriction is necessary to serve a compelling interest and narrowly drawn to achieve that end; viewpoint neutrality and the availability of speech beyond the boundary do not by themselves lower that scrutiny.
 
 **Proposition-level authority:** Seven participating Justices expressly adopt this governing proposition at the same level of generality: Blackmun's plurality, joined by Stone, White and Kennedy, and Stevens's dissent, joined by O'Connor and Souter. It is an independently majority-supported proposition, not a seven-Justice judgment coalition or an Opinion of the Court. Scalia rejects the forum classification and applies a different standard.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Viewpoint neutrality and opportunities to speak beyond the boundary do not make campaign-specific content discrimination neutral. The Justices applying strict scrutiny disagree about necessity and tailoring in this facial challenge.
 
@@ -378,8 +354,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy and Souter: seven, throughout.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S.557 (1980): applies the existing commercial-speech test to the accepted classification.
@@ -391,8 +365,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** A newsrack prohibition determined by whether its publication is a commercial handbill is content based when the asserted safety and aesthetic harms do not justify that distinction without reference to the publication's content. Cincinnati cannot sustain this selective ban as a content-neutral time, place and manner restriction merely because its objective is benign; otherwise lawful neutral regulation of newsracks remains available.
 
 **Proposition-level authority:** Stevens's Court opinion, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy and Souter: seven. This rejects the City's independent time, place and manner defense.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -416,8 +388,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** When truthful, nonmisleading solicitation concerns lawful CPA services, the State must demonstrate that the harms supporting its restriction are real and that the restriction alleviates them to a material degree. Florida’s unsupported predictions about direct solicitation of business clients do not satisfy that burden; the ruling neither requires empirical studies in every case nor immunizes deceptive or coercive solicitation.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No strict scrutiny, universal empirical-studies requirement, or least-restrictive-means rule is adopted. Fraud, coercion and materially different professional settings remain distinct.
 
@@ -444,8 +414,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Per curiam Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The holding concerns these trial-like adversarial hearings, not every pretrial proceeding or grand juries. Witness safety may justify a properly supported limited order; an accused’s preference alone cannot.
 
 **Operative remedy or transition:** Grant review, reverse the judgment sustaining blanket closure and remand for qualified access and particularized protective orders. No automatic release of every transcript or damages award.
@@ -469,8 +437,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s speech portion; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Perry Education Association v. Perry Local Educators’ Association, 460 U.S.37: viewpoint neutrality within a nonpublic forum applied.
@@ -482,8 +448,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** Allowing this voluntary, publicly accessible, after-hours film presentation without school sponsorship does not violate the Establishment Clause. Equal access serves a secular forum purpose and neither primarily advances religion as governmental activity nor creates excessive entanglement; this holding authorizes access to private speech, not an official devotional program.
 
 **Proposition-level authority:** White’s establishment portion; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Souter (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The separate Sunday-worship application and the facial validity of every religious-use restriction are outside review. No unlimited public forum, school sponsorship, compulsory worship or public devotional financing is required.
 
@@ -508,8 +472,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Kennedy’s Parts II-A-1 and II-A-3; Stone-Zsela, Stevens, Scalia, Kennedy, Thomas (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Fowler v. Rhode Island, 345 U.S.67: discrimination in the treatment of religious exercise prohibited.
@@ -523,8 +485,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Kennedy’s Part II-B; Stone-Zsela, White, Stevens, Scalia, Kennedy, Thomas (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Smith, 494 U.S.872: general-applicability requirement applied, without reopening its neutral-law holding.
@@ -536,8 +496,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** A restriction of religious practice that is nonneutral or not generally applicable must satisfy compelling-interest scrutiny and narrow tailoring. These ordinances fail narrow tailoring independently of whether the asserted ends could be compelling because comparable harms are left unregulated and neutral, narrower controls on disposal, care, killing methods and location could address the city’s concerns.
 
 **Proposition-level authority:** Kennedy’s Part III, narrow-tailoring ground; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -551,8 +509,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Independent alternative holding:** Where the government burdens protected religious conduct but leaves appreciable comparable harm unregulated despite feasible controls, it has not established that its asserted interest justifies the selective restriction at the highest constitutional level. Hialeah’s substantial underinclusion independently defeats its compelling-interest showing for this scheme; the decision does not declare animal welfare or public health inherently unimportant.
 
 **Proposition-level authority for alternative holding:** Kennedy’s Part III, compelling-interest ground; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Material application:** Ordinance87-40 incorporates Florida’s unnecessary-or-cruel-killing rule as construed to reject religious necessity while accepting comparable secular reasons. Ordinance87-52 prohibits owning, keeping, possessing, sacrificing or slaughtering enumerated animals or any other animal with intent to use it for food, and limits application to killing in any ritual regardless of whether flesh or blood will actually be consumed; its separate exception allows licensed establishments to slaughter animals specifically raised for food where properly zoned or permitted under state/local law and Agriculture Department rules. Ordinance87-71 defines sacrifice as unnecessary killing, tormenting, torturing or mutilating in a ritual or ceremony not primarily for food consumption and prohibits it citywide. Ordinance87-72 requires food slaughter in a properly zoned slaughterhouse meeting health, safety and sanitation codes, but separately exempts persons or organizations slaughtering or processing for sale small numbers of hogs or cattle weekly in accordance with the state-law exemption. The distinct exclusions, comparable secular harms and available neutral controls support the holdings; 87-72’s independent validity in another setting remains reserved.
 
@@ -578,8 +534,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s Parts I and II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - New York v. Ferber, 458 U.S.747: authoritative state construction accepted.
@@ -590,8 +544,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** The First Amendment permits an enhanced penalty for an independently criminal battery when the defendant intentionally selects the victim because of race under the applicable statutory predicate. The State may prove a relevant motive through lawful evidence, but may not punish abstract racist belief, expression or association without its legally relevant connection to the offense or another legitimate issue.
 
 **Proposition-level authority:** White’s Parts I and II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -606,8 +558,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** The possibility that a person might suppress protected views for fear that those views could later help prove intentional selection in a future crime does not establish substantial overbreadth of this enhancement. The First Amendment permits relevant statements to prove criminal intent, subject to evidentiary safeguards and Dawson’s prohibition on punishment for abstract belief.
 
 **Proposition-level authority:** White’s Part III; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** State-law meanings remain binding while federal constitutional effect is independently determined. Abstract belief cannot be punished, relevance and other evidentiary safeguards remain, and no later jury-allocation rule or blanket admissibility rule is adopted.
 
@@ -631,8 +581,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Holding:** Assuming truthful advertising of lawful activity, the licensing-State lottery restriction satisfies Central Hudson as applied to Edge because it meaningfully reduces lottery promotion reaching North Carolina residents and reasonably accommodates the different policies of lottery and nonlottery States. Complete exclusion of cross-border advertising is unnecessary, but the actual advancement and reasonable-fit requirements remain; no categorical exception for vice advertising or bar on as-applied challenges follows.
 
 **Proposition-level authority:** White’s Opinion of the Court, this proposition; Stone-Zsela, White, Kennedy, Souter, Thomas (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The first Central Hudson inquiry is assumed in the station’s favor. Merely marginal advancement, a categorical vice exception, a bar on as-applied review and the greater-power/lesser-power theory are not adopted. The restriction’s unopposed construction excludes noncommercial lottery information.
 
@@ -660,8 +608,6 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 **Proposition-level authority:** Souter's Part I, joined by Stone-Zsela, White, O'Connor, Scalia, Thomas; six Justices adopt this proposition. Blackmun, Stevens and Kennedy do not join the classification. The independent First Amendment question has a different coalition.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The classification neither licenses a future-publication ban nor permits seizure of protected stock on probable cause alone. It does not resolve the independent challenge to removal of lawful works or immunize publishing assets from neutral sanctions.
 
 **Operative remedy or transition:** The traditional-prior-restraint claim is rejected, 6–3; that rejection does not sustain the entire forfeiture. Approval of the challenged forfeiture is vacated for the independent First and Eighth Amendment examinations described in the other question blocks. The convictions remain undisturbed.
@@ -677,8 +623,6 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 **Holding:** Where obscenity predicates produce forfeiture of an expressive enterprise and removal of lawful inventory, the judgment sustaining that forfeiture cannot rest solely on the existence of valid convictions and the absence of a traditional prior restraint. The judgment must be vacated for an independent First Amendment examination of the challenged expressive burden, distinguishing the judicial forfeiture from subsequent administrative destruction and confining correction to a reviewable injury and available relief.
 
 **Proposition-level authority:** Souter's Part II, joined by Stone-Zsela, Blackmun, Stevens, Kennedy; five Justices expressly adopt this limited rule and remand. Their separate positions do not establish a majority rule either categorically immunizing expressive inventory or adopting a comprehensive scrutiny framework for every postconviction forfeiture.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court leaves the ultimate constitutional treatment of the distinct assets unresolved. Neither categorical immunity for expressive inventory nor a comprehensive scrutiny framework commands a majority. Judicial forfeiture, subsequent administrative destruction, statutory nexus, causation, reviewable injury and available relief remain distinct. The Court neither adopts a content-selection rationale from R.A.V. nor enlarges its entered overbreadth rule.
 

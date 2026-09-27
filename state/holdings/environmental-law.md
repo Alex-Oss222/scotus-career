@@ -18,9 +18,7 @@
 
 **Holding:** The Clean Water Act authorizes EPA, in issuing this federal permit under §402(a), to require compliance with applicable downstream state water-quality standards through its valid regulations. A downstream State’s limited direct role in permitting does not restrict that federal authority; whether the Act itself commands identical compliance in every permitting setting remains open.
 
-**Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous statutory-authority holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s opinion, joined by the other eight Justices; unanimous statutory-authority holding.
 
 **Material application:** Section 402(a)(2) authorizes permit conditions, §301(b)(1)(C) identifies attainment of applicable standards, and 40 C.F.R. §122.4(d) reasonably implements that scheme through assurance of affected-state compliance. Limits on Oklahoma’s independent authority do not negate EPA’s delegated power.
 
@@ -34,9 +32,7 @@
 
 **Holding:** The Clean Water Act does not categorically forbid a new discharge merely because its effluent will reach waters already failing a water-quality standard, irrespective of whether it will cause a detectable violation under the applicable permit standards. Courts may not substitute that categorical prohibition for the Act’s actual permitting and pollution-reduction scheme.
 
-**Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous rejection of the court of appeals’ independent statutory ground.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens’s opinion, joined by the other eight Justices; unanimous rejection of the court of appeals’ independent statutory ground.
 
 **Material application:** Section 303(d) provides a framework for pollution reduction, and §402(h) addresses additional pollutants accepted by a treatment plant violating its own permit; neither supplies the broader downstream prohibition the Tenth Circuit imposed. EPA applied the no-detectable-violation approach to this discharge.
 

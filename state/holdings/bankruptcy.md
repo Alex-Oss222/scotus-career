@@ -19,8 +19,6 @@
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined by White, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt the statutory exclusion. Scalia's separate concurrence does not limit his full join; Stone concurs in the judgment without a formal opinion join.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Plan trust status, ERISA qualification and federal enforceability are established. Shumate's control, which defeated the lower state-spendthrift analysis, cannot impose a state-law limitation absent from §541(c)(2). Section 522 retains work for interests not already excluded; policy observations supply no independent alternative holding.
 
 **Limits and questions not reached:** The required beneficial trust interest, enforceable transfer restriction and applicable nonbankruptcy law remain essential. Other plans, nontrust interests, statutory exceptions, distributed benefits, avoidance remedies and the plan-fiduciary question preserved in Guidry are not adjudicated or displaced. No general pension immunity is created. The alternative §522(b)(2)(A) exemption and §522(d)(10)(E)'s coverage of presently payable benefits versus undistributed corpus remain undecided.
@@ -46,8 +44,6 @@
 
 **Proposition-level authority:** Thomas's opinion for the Court, joined in full by Stone, White, Blackmun, O'Connor, Scalia, Kennedy and Souter. Eight participating Justices adopt the rule and its explanation at the same level of generality; no fractured-opinion analysis is needed.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Taylor knew of the lawsuit and its potentially substantial proceeds. Uncertainty about value allowed timely inquiry, objection or a request for extension; it did not suspend the deadline until collection. Rule 9006(b)(3) confines enlargement to Rule 4003(b)’s conditions; the August 1, 1991 supplemental-schedule wording does not reopen the expired period.
 
 **Limits and questions not reached:** The Court does not decide §105(a), unpreserved fraud, unscheduled property, differently limited exemption claims, retroactivity, alternative valuation, liens or good faith. Rule 4003(c)’s burden on the objector remains applicable in a properly presented objection proceeding.
@@ -72,8 +68,6 @@
 **Holding:** In the Chapter 7 setting presented, §506(d) does not reduce a lien on real property to its current judicially determined value when the claim is allowed under §502 and secured by that lien. Section 506(a)'s valuation for treatment of a claim does not, on these facts, compel avoidance of the lien's excess under §506(d); other statutory settings and express exceptions remain outside the decision.
 
 **Proposition-level authority:** Blackmun's opinion, joined by White, Stevens, O'Connor and Kennedy; five of eight participating Justices control the statutory construction and affirmance.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The debtor sought to reduce the lien securing an allowed debt of approximately $120,000 to the established property value of $39,000. Section 506(a) continues to value secured and unsecured amounts for claim treatment; that valuation does not automatically avoid the excess lien here.
 
@@ -101,9 +95,7 @@
 
 **Holding:** Payments on long-term debt may qualify for the then-current §547(c)(2) ordinary-course exception; debt maturity is not an additional categorical exclusion. Under §547(g), the creditor must prove that the debt was incurred in the ordinary course of both parties, that payment was made in their ordinary course, and that payment accorded with ordinary business terms.
 
-**Proposition-level authority:** Stevens's opinion states this statutory proposition for Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices. Scalia's separate writing agrees with this holding and judgment.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stevens's opinion states this statutory proposition for all nine Justices. Scalia's separate writing agrees with this holding and judgment.
 
 **Material application:** Congress removed the former 45-day restriction while retaining the three statutory requirements. Eligibility alone does not establish that the particular interest and commitment-fee payments satisfy them.
 
@@ -125,8 +117,6 @@
 **Holding:** For §547(b), an ordinary check transfers the debtor’s relevant bank-account interest when the drawee honors it, because delivery gives the payee no assigned interest in that account. The November 20 honor date therefore satisfies the ninety-day timing element here, without deciding other preference elements or defenses.
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, O'Connor, Scalia, Kennedy, Souter and Thomas; seven Justices adopt this proposition.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The trustee must establish every other preference element; properly presented §547(c) defenses remain available. Neither timing under §547(c) nor nonordinary payment instruments is decided. Section 547(e) does not relate the transfer back before an interest in the account passed.
 
@@ -152,8 +142,6 @@
 
 **Proposition-level authority:** Stone-Zsela's opinion for the Court, joined by White, Blackmun, Stevens and Kennedy: five.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Taylor v. Freeland & Kronz, April 21, 1992, decision: distinguishes the Rule 4003(b)/9006(b)(3) exemption-objection limit; preserves its strict operation.
@@ -165,8 +153,6 @@
 
 **Proposition-level authority:** Stone-Zsela's Court opinion, joined by White, Blackmun, Stevens and Kennedy: five; the dissent does not dispute attorney attribution, but its disagreement about excusability does not create another rationale majority.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Link v. Wabash Railroad Co., 370 U.S.626 (1962): applies attribution of freely selected counsel's conduct to the client.
@@ -177,8 +163,6 @@
 **Holding:** With counsel's conduct attributed to the creditors, the unusually placed and ambiguous bar-date notice, the twenty-day delay, and the undisturbed findings of no prejudice, no adverse administrative effect and good faith support excusing the missed Chapter 11 deadline here. The late claims may be filed; the decision does not establish their substantive validity or amount, excuse ordinary disregard of a clear notice, or give dispositive weight to counsel's office disruption.
 
 **Proposition-level authority:** Stone-Zsela's Court opinion, joined by White, Blackmun, Stevens and Kennedy: five; the Sixth Circuit's judgment is affirmed on the corrected attribution analysis.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -200,8 +184,6 @@
 **Holding:** When a creditor retains a secured portion of an allowed claim secured only by a security interest in real property that is the debtor’s principal residence, §1322(b)(2) protects the holder’s rights in the mortgage claim as a whole, notwithstanding §506(a) valuation and bifurcation. The debtor may not modify the deficiency portion in a way that alters those protected repayment and enforcement rights; independent statutory restrictions and the express cure authority remain effective.
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section1322(b)(5) permits cure within a reasonable time and maintenance of payments during the case when the final claim payment falls after the last plan payment. The automatic stay operates independently. Wholly unsecured liens and classification of ancillary deed collateral remain undecided.
 
@@ -226,8 +208,6 @@
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - United States v. Ron Pair Enterprises, Inc., 489 U.S.235: statutory interest distinguished from agreement-dependent reasonable fees, costs and charges.
@@ -238,8 +218,6 @@
 **Holding:** When a plan provides for an allowed secured arrearage claim through deferred payments, the creditor objects and the debtor retains the collateral, §1325(a)(5)(B) requires lien retention and distributions worth at least the allowed claim as of the plan’s effective date. Cure and maintenance under §1322(b)(5) do not exempt those arrearages from that requirement; creditor acceptance or surrender remains a distinct statutory alternative.
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Preconfirmation application is accepted for these plans, not a universal temporal endpoint. Cure under §1322(b)(5) requires a reasonable time and maintained payments on debt extending beyond the plan. No rate, universal undersecured rule or agreement-free fee right is decided; accrual and present-value calculations must not duplicate recovery for the same period.
 

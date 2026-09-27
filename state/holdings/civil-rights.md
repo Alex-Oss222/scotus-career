@@ -21,8 +21,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Section 3203 defines medical emergency through the physician's good-faith clinical judgment: a condition necessitating immediate abortion to avert death, or one in which delay creates serious risk of substantial and irreversible impairment of a major bodily function. The significant-threat interpretation and application to the three obstetric conditions are the Third Circuit's construction, not additional statutory words or a binding Pennsylvania Supreme Court interpretation. Section 3205(c)'s separate disclosure defense is not an emergency-delay exception. A materially different authoritative construction or enforcement remains challengeable.
 
 **Operative remedy or transition:** Facial relief against the emergency definition is denied under the prospective protective construction. No separate vagueness judgment is entered.
@@ -38,8 +36,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** When medical emergency compels an abortion, the physician shall inform the woman, prior to abortion if possible, of the medical indications supporting the judgment that abortion is necessary to avert death or substantial and irreversible impairment of a major bodily function. The statutory text appears in the appendix at 505 U.S. 903–904.
 
 **Operative remedy or transition:** The explanation requirement survives with its express if-possible qualification; it creates no advance-permission or treatment-delay condition.
@@ -53,8 +49,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** A physician is protected from liability for failing to furnish §3205(a)'s information if the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would have a severely adverse effect on the patient's physical or mental health. This statutory disclosure defense does not supply a general waiting-period waiver, authorize delay of necessary emergency treatment or replace §3203's emergency protection.
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The paragraph identified by the District Court and Third Circuit as §3205(c) protects a physician from liability for failure to furnish subsection (a)'s information when the physician proves, by a preponderance of the evidence, a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. The defense concerns the physician's reasonable belief, not proof that feared injury actually occurred. Its enacted preponderance burden does not displace the constitutional justification allocation. It does not excuse every unfavorable reaction or inconvenience.
 
@@ -79,8 +73,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Stone, Blackmun, Stevens, O'Connor and Souter additionally apply the complete framework: separated from the invalid interval and exclusive routine-speaker condition, the bounded medical information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation. The other four Justices join the bounded medical-content permission without adopting the complete framework.
 
 **Limits and questions not reached:** Section 3205(c) protects omission of subsection (a) information when the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. It is an information defense, not an emergency-treatment or general delay exception. False or exaggerated risk descriptions and ideological assent are outside the sustained content. Concrete misleading implementation remains challengeable.
@@ -97,8 +89,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3205(a)(2)(i) may require truthful notice that state materials describing fetal development and alternatives exist, that the patient has a right to review them, and that a copy will be supplied free if she chooses. The duty requires notice, not acceptance, reading or endorsement of the materials or listed agencies.
 
 **Proposition-level authority:** Stone's opinion, joined by Stevens, O'Connor, Kennedy, Souter: 5 direct rationale joins including the author. The judgment is 8–1: White, Scalia and Thomas concur in the judgment on their broader reasonable-regulation grounds; Blackmun dissents from the mandatory notice.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Separated from the invalid interval and exclusive routine-speaker condition, the bounded information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation.
 
@@ -117,8 +107,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Stevens, O'Connor, Kennedy, Souter: 5 direct rationale joins including the author. The judgment is 8–1: White, Scalia and Thomas concur in the judgment on their broader reasonable-regulation grounds; Blackmun dissents from the mandatory notice.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Separated from the invalid interval and exclusive routine-speaker condition, the bounded information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation.
 
 **Limits and questions not reached:** Section 3205(c) protects omission of subsection (a) information when the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. It is an information defense, not an emergency-treatment or general delay exception. The performing or referring physician may delegate the ancillary notices to a qualified physician assistant, health-care practitioner, technician or social worker. No entitlement to benefits or general permission to impose every truthful financial fact is established.
@@ -135,8 +123,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3205(a)(2)(iii) may require accurate notice that the father is liable to assist in supporting the child even if he offered to pay for an abortion; the statute provides, “In the case of rape, this information may be omitted.” No police report is required. Legal liability cannot be represented as guaranteed payment, and the omission permission changes no support obligation. This holding governs the disclosure alone; a married patient's separate question of notifying her spouse of the pregnancy is governed by the spousal-notice holding below, not by this provision.
 
 **Proposition-level authority:** Stone's opinion, joined by Stevens, O'Connor, Kennedy, Souter: 5 direct rationale joins including the author. The judgment is 8–1: White, Scalia and Thomas concur in the judgment on their broader reasonable-regulation grounds; Blackmun dissents from the mandatory notice.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Separated from the invalid interval and exclusive routine-speaker condition, the bounded information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation.
 
@@ -155,8 +141,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Section 3208 requires easily comprehensible English, Spanish and Vietnamese materials within sixty days after the chapter becomes law, annual updates and legible type. A geographically indexed directory identifies public and private pregnancy, childbirth, dependent-child and adoption services and contacts, including phone numbers; the Department may instead provide a toll-free twenty-four-hour number supplying that list and local service information. Fetal information covers probable anatomy and physiology in two-week increments from fertilization to full term and relevant survival information; realistic pictures state dimensions and match the patient's stage. Information must be objective, nonjudgmental and scientifically accurate, including common abortion methods and risks, possible detrimental psychological effects and childbirth risks. Free copies in appropriate numbers are available to any person, facility or hospital requesting them. The materials state that coercion is unlawful, that abortion without informed consent or a private medical consultation may expose the physician to civil damages, that paternal support liability remains despite an offer to pay for abortion, and that adoptive parents may pay prenatal, childbirth and neonatal costs. Financial statements do not guarantee availability or collection. Findings of directory defects and misinformation by some organizations do not establish universal falsity or compliance.
 
 **Operative remedy or transition:** Publication and provision of a copy if chosen are sustained. Acceptance, reading and ideological assent are not required, and clinicians may supplement or criticize the material.
@@ -170,9 +154,7 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Holding:** Section 3205(a)(4) may document actual receipt of lawful information without ideological assent or certification of unchosen reading. Its particular mandatory ancillary, timing and physician-delivery links stand or fall with the separately counted duties; a nine-Justice agreement on basic documentation is not a nine-Justice vote for every retained prerequisite.
 
-**Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author. The basic receipt principle is unanimous. Ancillary dependencies survive 8–1, with Blackmun dissenting; Stone, Stevens, O'Connor, Kennedy and Souter join the five-Justice ancillary rationale, while White, Scalia and Thomas concur in those judgments. Stone, Blackmun, Stevens, O'Connor and Souter sever both timing and exclusive-delivery dependencies, each 5–4.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Stone's opinion, joined by the other eight Justices: 9 direct rationale joins including the author. The basic receipt principle is unanimous. Ancillary dependencies survive 8–1, with Blackmun dissenting; Stone, Stevens, O'Connor, Kennedy and Souter join the five-Justice ancillary rationale, while White, Scalia and Thomas concur in those judgments. Stone, Blackmun, Stevens, O'Connor and Souter sever both timing and exclusive-delivery dependencies, each 5–4.
 
 **Limits and questions not reached:** The patient certifies in writing before the procedure that required lawful information was supplied. Receipt is not agreement; no certificate may demand unchosen reading, compliance with invalid timing or an exclusive routine speaker. Particular duty coalitions remain distinct.
 
@@ -187,8 +169,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3205(a)(1) is invalid insofar as it excludes qualified personnel from communicating routine consent information under appropriate physician responsibility. Accurate content remains required; individualized diagnosis, clinical assessment and professional responsibility are not eliminated.
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent from invalidation. The judgment is 5–4.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The record establishes meaningful added demands from physician-only delivery of information trained personnel can competently communicate. Qualified communication with physician availability and responsibility is a concrete practicable alternative the State has not adequately answered.
 
@@ -205,8 +185,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** The compulsory twenty-four-hour interval in §3205(a)(1)–(2) is invalid under the meaningful-interference branch. The State has not substantiated the justification and fit of a uniform interval or adequately answered practical, substantially less burdensome means of securing informed and voluntary consent. Timing-dependent certification and enforcement are severed.
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent. The judgment is 5–4; no finding that every application is a substantial obstacle is required for this distinct ground.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The demonstrated additional delay, travel, expense and scheduling burdens are meaningful interference. Individual counseling, questions and additional time when needed or requested supply practical alternatives the State has not adequately answered. An emergency exception does not justify burdens on patients outside its terms, and voluntary waiting does not justify universal compulsion.
 
@@ -241,8 +219,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent. The judgment is 5–4.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Evidence shows referrers would stop providing referral information if identified even under accepted confidentiality. The State has not justified blanket identification over performing-provider records and targeted inquiry tied to actual clinical responsibility or suspected misconduct.
 
 **Operative remedy or transition:** Sever identification solely because of referral. Retain performing-physician, required concurring or second-physician and facility identification and otherwise lawful targeted investigation.
@@ -258,8 +234,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3214(a)(8) may require a confidential account of the physician's basis for invoking §3211(b)(1)'s medical-necessity predicate. Recording that judgment does not establish a new substantive necessity test, require advance approval, adjudicate every other postviability restriction or create an offense merely because another physician later disagrees.
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 3214(a)(8) requests the basis for the judgment that an abortion under §3211(b)(1) was necessary to prevent death or substantial and irreversible impairment of a major bodily function. That predicate concerns the referenced rule for abortion at twenty-four or more weeks, not merely a viability/gestational-age result. The individual report excludes patient names; actual confidentiality safeguards are accepted in this litigation. These terms appear in §§3214(a) and (a)(8); the confidentiality findings are stated in the lower-court reporting discussions. The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable.
 
@@ -284,8 +258,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The field requires the basis for any medical judgment that a medical emergency existed which excused compliance with a provision of the Act. Section 3203 supplies the physician's good-faith clinical judgment of immediate need to avert death or delay creating serious risk of substantial and irreversible impairment of a major bodily function, prospectively construed to prevent a significant threat to life or health. Section 3205(c)'s information-omission defense remains a different provision. Individual reports exclude patient names and retain accepted confidentiality protections. The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable.
 
 **Operative remedy or transition:** The bounded confidential report remains lawful. It creates no advance permission, unnecessary test, new culpability rule or professional immunity, and does not adjudicate unappealed age-result or underlying ascertainment duties.
@@ -308,8 +280,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3214(a)(11), incorporating §3210(a), may require reporting the actual inquiries, examinations, tests and diagnostic basis used to determine probable gestational age under the prudent-physician standard. It does not prescribe additional medically unnecessary tests; §3210(a)'s exception remains when medical emergency prevents compliance, and the separate age-result field is not newly adjudicated.
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 3210(a), quoted in district finding 309, excuses compliance when medical emergency prevents it. Otherwise the referring or performing physician first determines probable gestational age through inquiries and examinations/tests a prudent physician considers necessary for accurate diagnosis. The performing physician reports types of inquiries, examinations and tests used and the diagnostic basis. Section 3214(a)(11) incorporates that information; §3214(a)(5) separately records gestational age. Accepted report confidentiality excludes patient identification by name. The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable.
 
@@ -334,8 +304,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Operative remedy or transition:** Reverse approval of both notice-compliance and nonnotification-reason fields in No. 91-744; sever them and dependent enforcement under Act 64 and Pennsylvania law, preserving independent confidential marital status.
 
 **Treatment of earlier authority:**
@@ -348,8 +316,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3214(a)(12)'s confidential inquiry whether the patient was married is sustained and severed from its invalid notice-compliance and nonnotification-reason questions. The field supplies demographic information without requiring spousal disclosure or an explanation for withholding it.
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable. No general governmental entitlement to intimate information is created.
 
@@ -365,8 +331,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3207(b)'s compulsory public-release condition is unconstitutional as applied to the plaintiff facilities and their covered reports. Confidential collection and otherwise lawful official access and public-expenditure disclosure remain. The cause is remanded to identify the protected reports and conform the injunction.
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas would sustain public release. The 5–4 holding supplies plaintiff-specific relief, not automatic statewide facial invalidation.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Supported risks of harassment and withdrawal from medical-assistance participation establish meaningful interference for these plaintiffs. Receipt of funds, including for other services, does not adequately justify exposing the broader affiliation reports. Public expenditure and funded-service disclosure together with confidential examination provide concrete alternatives the State has not adequately answered.
 
@@ -385,8 +349,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3214(f)'s compulsory public-release condition is unconstitutional as applied to the plaintiff facilities' covered quarterly reports on this record. Confidential submission of quarterly and trimester totals remains. Public reporting of actual State expenditures is not invalidated.
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent. The judgment is 5–4.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Harassment and medical-assistance withdrawal risks establish meaningful interference for the plaintiffs. The State has not adequately justified disclosure of complete abortion totals over public expenditure/funded-service information combined with confidential examination.
 
@@ -415,8 +377,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part II, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt this rule and reverse the §1983 ruling under §671(a)(15).
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The Court does not declare every state-plan provision unenforceable or find that administrative funding withdrawal comprehensively forecloses an otherwise existing §1983 right. The absence of an individual right, the existence of an action, and the scope of relief remain separate inquiries.
 
 **Operative remedy or transition:** The Seventh Circuit’s judgment is reversed as to §671(a)(15) and (9) enforcement through both asserted routes; the three-working-day assignment/reassignment injunction and ancillary weekly monitoring order are vacated, 6–3. Any blanket resolution of the independent §671(a)(16) claim is vacated and that claim remanded for provision-specific consideration, 9–0, without keeping the existing injunction alive on an unadjudicated ground.
@@ -434,8 +394,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part III, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt this independently necessary ground for rejecting the second enforcement route sustained below.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Failure to imply a private action does not foreclose an otherwise available enacted §1983 remedy; other statutory provisions require their own examination.
 
 **Operative remedy or transition:** The Seventh Circuit’s judgment is reversed as to §671(a)(15) and (9) enforcement through both asserted routes; the three-working-day assignment/reassignment injunction and ancillary weekly monitoring order are vacated, 6–3. Any blanket resolution of the independent §671(a)(16) claim is vacated and that claim remanded for provision-specific consideration, 9–0, without keeping the existing injunction alive on an unadjudicated ground.
@@ -452,8 +410,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part IV-A, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt this separate statutory holding.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The reporting obligation and administrative enforcement remain. Section 671(a)(16)’s case-plan and review claim is not decided through this reporting holding.
 
 **Operative remedy or transition:** The Seventh Circuit’s judgment is reversed as to §671(a)(15) and (9) enforcement through both asserted routes; the three-working-day assignment/reassignment injunction and ancillary weekly monitoring order are vacated, 6–3. Any blanket resolution of the independent §671(a)(16) claim is vacated and that claim remanded for provision-specific consideration, 9–0, without keeping the existing injunction alive on an unadjudicated ground.
@@ -468,8 +424,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 **Holding:** Section 671(a)(9) does not create an implied private action for these respondents to obtain the challenged caseworker relief: its reporting requirement and the Act's enforcement structure do not establish congressional intent to authorize that action. Rejection of this distinct statutory vehicle does not decide private enforcement of §671(a)(16).
 
 **Proposition-level authority:** White's Opinion of the Court, Part IV-B, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt the ground rejecting direct implied enforcement of the reporting claim.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 671(a)(16), read with §675(1) and §675(5)(B), remains open as to enforceable right, implied action, violation and additional lawful relief. No constitutional claim is revived or nationwide three-day deadline imposed.
 
@@ -495,8 +449,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** Souter's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas; eight Justices adopt this ground. Stone concurs separately in the unanimous judgment without a formal opinion join.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Burlington is incorporated in Delaware and actually headquartered in Texas. Its principal Montana office does not have the same relationship to corporate litigation convenience as an actual home county. Incorporation provides an administrable, imperfect headquarters approximation whose mismatch Burlington has not shown irrational.
 
 **Limits and questions not reached:** No suspect classification or fundamental right to a preferred county is involved. A foreign corporation actually headquartered in Montana, separately presented commerce objections, personal jurisdiction and the FELA merits remain undecided. The Court adopts neither FELA recovery policy nor hypothetical federal venue as its ground.
@@ -518,8 +470,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority for alternative holding:** Souter's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas; eight Justices adopt this ground. Stone concurs separately in the unanimous judgment without a formal opinion join.
 
-**Current force of alternative holding:** Remains controlling as stated.
-
 **Limits, remedy, transition, or precedent treatment:** The alternative addresses this asserted defect and this Texas-headquartered challenger; it does not create a categorical rule insulating incorporation classifications or govern every facial challenge. The Montana-headquartered foreign-corporation application remains open. Correcting the alleged incorporation/headquarters mismatch would still leave Burlington a nonresident and supplies no right to transfer either action.
 
 - Roberts & Schaefer Co. v. Emmerson, 271 U.S. 50 (1926): applied to bar relief based on a classification defect whose correction would not benefit this challenger.
@@ -537,8 +487,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 **Holding:** A state officer sued in an individual capacity is a person under 42 U.S.C. §1983 even when the challenged act was undertaken through official authority, and state sovereign immunity does not independently bar a judgment payable by that officer personally. The plaintiff must still prove the officer's own violation under color of law, and the officer retains applicable personal immunities.
 
 **Proposition-level authority:** O'Connor's opinion for the Court, joined by Stone, White, Blackmun, Stevens, Scalia, Kennedy, and Souter; all eight participants.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Court of Appeals construed the damages claims as personal claims against Hafer. Her authority to discharge employees supplies the state-law connection without converting the claims into claims against Pennsylvania.
 
@@ -563,8 +511,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Unemancipated minors under eighteen ordinarily need their own informed consent plus one parent's. Only the mother is required where the father participated in incest. If both parents are deceased or unavailable within reasonable time and manner, a guardian may consent; after divorce the custodial parent's consent suffices; if neither parent nor guardian is available within reasonable time and manner, an adult standing in place of a parent may consent. Parent/guardian considers only the child's or ward's best interests. Medical emergency excuses compliance. A minor may elect court without first requesting parental consent. Maturity/capacity plus actual consent and best interests are alternative judicial routes. Counsel is provided absent private counsel or a knowing intelligent waiver. Trial ruling is due within three business days of application; appeal ruling within five business days of filing. Proceedings and records are confidential. The separate adult-incompetence text presents no developed independent challenge here. These are the terms of §3206(a)–(f) and (h), including the provisions quoted by the Third Circuit. The statutory safeguards sustained here are not all declared constitutionally indispensable. No developed adult-incapacity claim or present failure to supply the bypass's required operation is decided. Emergency care cannot await parental or judicial proceedings.
 
 **Operative remedy or transition:** The one-parent structure and independent bypass survive the facial challenge; no special parental-attendance proceedings are ordered.
@@ -580,8 +526,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Section 3206 may use accurate material medical information and concise, nonmisleading notices concerning available materials, possible assistance and paternal support to inform a parent's consent. This sustention creates no independent parent-specific waiting period, physician-only parental-delivery command or compulsory clinic visit; optional materials need not be read or endorsed, and the paternal-support provision states: “In the case of rape, this information may be omitted.” No police report is required.
 
 **Proposition-level authority:** Souter's opinion, joined by White, Stevens, O'Connor, Scalia, Kennedy, Thomas: 7 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The district court used §3205 to interpret informed parental consent at 744 F. Supp. 1382–1384. That is a lower-court construction, not an express §3206 incorporation of every §3205 timing/delivery mechanism. Assistance may be available, not guaranteed. Paternal liability includes the father who offered to pay for abortion; “In the case of rape, this information may be omitted.” This permission has no law-enforcement reporting condition and does not guarantee collection. Materials are furnished if chosen, without required acceptance, reading or ideological assent. The §3206 emergency, incest, unavailability, custody and bypass terms remain as stated in the preceding holding.
 
@@ -605,9 +549,7 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Holding:** A municipal employee who establishes deprivation of a federal right under color of state law and municipal responsibility need not also prove an independent, freestanding abuse-of-governmental-power element. The existence of the constitutional wrong and its attribution to municipal policy or custom remain separate required inquiries.
 
-**Proposition-level authority:** Part A of Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous statutory holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Part A of Stevens’s opinion, joined by the other eight Justices; unanimous statutory holding.
 
 **Material application:** The Fifth Circuit’s additional statutory requirement cannot sustain dismissal merely because the city acted as an employer. Its rejection does not establish the underlying federal right or final municipal attribution; attribution is assumed only to resolve the constitutional question.
 
@@ -621,9 +563,7 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Holding:** The substantive Due Process Clause does not impose an independent general obligation on a municipality to provide its voluntary employees a workplace free from unreasonable risks of harm. Accepting public employment does not itself create the custody or deprivation of liberty that supports affirmative constitutional duties of care.
 
-**Proposition-level authority:** Part B of Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous duty limitation.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Part B of Stevens’s opinion, joined by the other eight Justices; unanimous duty limitation.
 
 **Material application:** The complaint alleges known hazards and deliberate failures to train, warn and equip sewer workers. Those allegations are accepted at dismissal; they do not make voluntary employment a custodial restraint.
 
@@ -636,8 +576,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 **Independent alternative holding:** The pleaded municipal failures to train, warn and equip sewer workers against known hazards do not constitute arbitrary or conscience-shocking deprivation under substantive due process in this voluntary-employment setting. Even assuming the Texas safety statute creates the asserted duties and a protected liberty interest, breach alone does not establish that distinct substantive constitutional wrong.
 
 **Proposition-level authority for alternative holding:** Part C of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices control this alternative rejection. Stone’s agreement in the judgment does not join Part C.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits, remedy, transition, or precedent treatment:** No deliberate bodily injury or direction knowingly sending Collins into a dangerous sewer is alleged. The public-program rationale recognizes competing social, political and economic choices as a legal presumption; it is not a finding that the city acted responsibly or that its budget justified these omissions. The alternative independently supports affirmance without deciding state remedies or a different affirmative-injury claim. *Rochin v. California*, 342 U.S. 165, is distinguished from these protective omissions. *Bishop*, 426 U.S. 341, and *Daniels*, 474 U.S. 327, preserve the distinction between state employment or tort duties and substantive constitutional arbitrariness. *Harrah Independent School District v. Martin*, 440 U.S. 194, distinguishes an assumed state-created interest from arbitrary deprivation.
 
@@ -653,8 +591,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 **Holding:** A nontrivial beating inflicted maliciously and without disciplinary justification on a restrained convicted prisoner violates the Eighth Amendment even when the resulting physical injuries are limited, where the established conduct satisfies even *Whitley*’s demanding malicious-and-sadistic inquiry. Injury remains relevant evidence and bears on compensation; accidental harm or a merely technical battery is not enough.
 
 **Proposition-level authority:** Part A of O’Connor’s opinion, joined by Stone, White, Stevens, Kennedy and Souter; six Justices adopt this rule and its application. Blackmun’s concurrence in the judgment is not counted as a join. O’Connor’s Part B, joined by White, Kennedy and Souter, has only four votes for extending *Whitley* to every prison excessive-force claim. No *Marks* aggregation supplies that universal rule.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Hudson was handcuffed and shackled; the undisturbed findings established unnecessary repeated blows and supervisory condonation. Dental and facial injuries confirmed that the force was not trivial. The findings satisfied even *Whitley*’s heightened culpability inquiry.
 
@@ -672,8 +608,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Part C of O’Connor’s opinion, joined by Stone, White, Stevens, Kennedy and Souter; six-Justice case-specific rejection of the alternative ground.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The Court announces no general definition of punishment or general rule governing isolated, unauthorized conduct.
 
 **Operative remedy or transition:** The alternative characterization supplies no ground for preserving the Fifth Circuit’s judgment; the remand must respect the intact supervisory-condonation finding.
@@ -690,8 +624,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 **Holding:** When the State concedes that an insanity acquittee is no longer mentally ill, it may not continue his psychiatric confinement under the existing insanity-acquittee authority solely because he cannot prove that he will be harmless. The original acquittal supports neither a suspended criminal sentence nor indefinite psychiatric custody after its illness predicate disappears.
 
 **Proposition-level authority:** White's Part II-A, joined by Stone, Blackmun, Stevens, O'Connor and Souter: six of nine participating Justices adopt this proposition and application.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The conceded absence of present mental illness is not cured by antisocial personality or a doctor’s inability to guarantee safety. An insanity acquittal is not a conviction authorizing punishment.
 
@@ -711,8 +643,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** White's Part II-B, joined by Blackmun, Stevens, O'Connor and Souter: five of nine participating Justices adopt this independently sufficient ground. Stone does not join this section's separate Vitek-based procedural characterization.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** A counseled hearing about danger alone cannot supply the absent illness predicate. Ordinary civil commitment requires clear and convincing proof of present illness and dangerousness.
 
 **Limits and questions not reached:** The Court makes no finding that Foucha is harmless, adopts no general scrutiny tier or universal dangerousness burden, and leaves materially narrower preventive regimes, the duration of otherwise valid commitment and the scope of state insanity defenses open. Equal protection has only four supporters and supplies no controlling ground.
@@ -731,8 +661,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 **Holding:** Louisiana's scheme permitting indefinite psychiatric confinement of a no-longer-mentally-ill acquittee because he has not proved nondangerousness violates due process. A legitimate preventive purpose and periodic review do not cure the absence of a carefully limited substantive authority; the Court leaves materially narrower preventive regimes undecided.
 
 **Proposition-level authority:** White's Part II-C, joined by Stone, Blackmun, Stevens, O'Connor and Souter: six of nine participating Justices adopt this independently sufficient rejection of Louisiana's asserted alternative preventive justification. The holding adopts no new general scrutiny tier or universal dangerousness proof standard.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Periodic review does not cure an indefinite scheme without carefully limited substantive authority. Salerno’s focused pretrial regime does not justify this post-acquittal confinement.
 
@@ -758,8 +686,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, O'Connor, Kennedy, and Souter; these five Justices supply the controlling majority of the eight participants.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The agents could consider assassination references, a reported gesture, oral statements, the confusing interview, and refusal to elaborate. They also had the letter's repeated attribution of the supposed plot to an outside group, bearing on whether Bryant communicated a serious threat under §871 or reported an imagined danger. The Ninth Circuit's comparison of the relative reasonableness of interpretations and its general assignment of legal immunity to a jury were erroneous.
 
 **Limits and questions not reached:** The Court finds neither guilt, innocence, bad faith, nor a constitutional violation. It neither directs immunity nor orders an automatic trial. The separate warrant ruling remains intact.
@@ -784,8 +710,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** Before viability, the patient retains the right to decide whether to continue a pregnancy without proving medical necessity or obtaining official approval of her reasons; the State may not prohibit that protected choice, give another person effective control over it, or prevent timely care necessary for life or health. After viability the State may prohibit abortion only with the required life-and-health protection, while competent practice, genuinely informed consent, safety and lawful administration remain regulable within these boundaries.
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Viability is individualized and medically supported; no fixed week or conclusive calendar presumption is adopted. Necessary care includes relevant physical and mental health and cannot await imminent death or catastrophic deterioration. Clinical appropriateness concerns safe and suitable treatment, not official approval of the patient's reasons. The holding does not decide constitutional fetal personhood, general public funding, conscience claims, every postviability restriction or admission of a particular drug.
 
@@ -816,8 +740,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** This is a direct five-Justice rule; no Marks synthesis or addition of Kennedy's separate approach is required. An independent numerical facial-review threshold is not adopted. The spousal-notice holding supplies its distinct provision-specific affected-group analysis.
 
 **Operative remedy or transition:** The complete framework replaces the independent trimester timetable effective June 29, 1992. Existing injunctions must be conformed to the actual component judgments, not automatically dissolved.
@@ -835,8 +757,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The constitutional foundation, each regulatory proposition and each coalition remain distinct. Changed membership, continuing disagreement or criticism of one regulatory implementation does not silently withdraw the protected liberty. No wholesale overruling of Akron or Thornburgh follows; their actual treatment appears with the affected duties.
 
 **Treatment of earlier authority:**
@@ -853,8 +773,6 @@ The adopted inquiry has the following complete operative scope:
 **Holding:** The independent trimester timetable is displaced together with adoption of the complete six-step replacement. Five Justices adopt that integrated holding. All nine reject continuation of the former timetable in result, but the other four do not join the replacement standard.
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. The separate result of rejecting the former timetable has nine supporters; only these five adopt its integrated replacement.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The former first-trimester reservation of decision and effectuation to patient and physician and the later health-regulation timing rule are displaced. The viability boundary and necessary-care protection remain. Gestational age may substantiate a particular safety duty when evidence links it to medical risk, but crossing a trimester boundary does not independently change the previability standard.
 
@@ -879,8 +797,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter: all eight participating Justices support this limited rule.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The district bears the release showing; good faith must be demonstrated through conduct toward the whole decree. Whether retained control is necessary or practicable to achieve compliance elsewhere is part of the inquiry, beyond a bare no-obstruction test. Jurisdiction and active authority over remaining violations continue.
 
 **Operative remedy or transition:** Vacate the Eleventh Circuit’s categorical simultaneous-compliance restriction and remand, 8–0; Thomas did not participate. The court must identify issues properly open, secure findings on whole-decree good faith and remedial connections, and define any released obligations and retained supervision. This Court releases no component, orders no general retrial of settled facts, and finds no final systemwide compliance. Each party bears its own costs.
@@ -898,8 +814,6 @@ The adopted inquiry has the following complete operative scope:
 **Holding:** The district bears the burden of showing that imbalance for which it disclaims remedial responsibility is not traceable to the constitutional violation; genuinely independent demographic change does not require perpetual racial balancing. Existing factual findings receive clear-error review, but findings on one question do not decide unexamined causal or remedial connections; the remand must resolve properly open issues and define the obligations released and retained.
 
 **Proposition-level authority:** Stone, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter: eight votes; the separate opinions’ disputed factual applications are outside this holding.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Neither racial imbalance alone nor demographic movement automatically establishes a violation or completed remedy. Properly settled factual findings receive clear-error review; unexamined causal or remedial links remain open. No majority adopts the separate writings’ disputed factual applications or a revised causation presumption.
 
@@ -923,8 +837,6 @@ The adopted inquiry has the following complete operative scope:
 **Holding:** Private litigants who invoke state replevin, garnishment, or attachment procedures do not receive the objective immunity from suit recognized in Harlow merely because their qualifying joint action may be attributable to the State under §1983. Whether such defendants have a distinct good-faith or probable-cause defense, whether the plaintiff bears additional elements, and the allocation of any such burden remain undecided.
 
 **Proposition-level authority:** O'Connor's opinion for the Court, joined in full by White, Blackmun, Stevens, Scalia and Kennedy: six of nine participating Justices adopt the proposition covering replevin, garnishment and attachment. Stone joins the opinion only as applied to private litigants invoking state replevin machinery, including its stated reservations; seven adopt that narrower proposition. He takes no position on its extension to the other procedures. Souter and Thomas dissent. The six full joins suffice for the broader rule; no fractured-decision analysis is required.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Private commercial use of compulsory process and representation in that use do not establish a public office whose discretionary performance needs immunity from litigation. Attribution under Lugar and eligibility for Harlow immunity remain separate.
 
@@ -957,8 +869,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** For the five framework Justices an established substantial obstacle independently ends justification. Kennedy joins the notice-specific effective-control and affected-group rationale but not the complete framework. No compelling-interest assertion rescues that obstacle and no universal numerical facial formula follows.
 
 **Limits and questions not reached:** The affected population is married women compelled to notify against their wishes after the actual exceptions, defined independently of the constitutional conclusion. The record establishes effective obstruction for a large fraction of that group without assigning a percentage. Under §3209, a signed substitute statement may certify that the spouse is not the father; diligent effort failed to locate him; pregnancy resulted from reported spousal sexual assault under §3128; or there is reason to believe notice would likely cause bodily injury to the woman by the spouse or another individual. Medical emergency independently excuses notice. Statements need no notarization but must warn that false statements are punishable. The incorporated assault involves sexual intercourse or deviate sexual intercourse through force, threat of force preventing resistance by a person of reasonable resolution, or an unconscious spouse. The victim or her agent must personally report to an agency with jurisdiction within ninety days of commission, not discovery of pregnancy or the abortion request. That statutory clock is distinct from district finding 297's explanation of its practical narrowing and is not independently adjudicated as a criminal-law rule. The exceptions do not generally cover economic or psychological coercion, threats to children or others, publicity, divorce or custody retaliation. Failure to qualify for one substitute does not establish safety; another substitute may remain available. None of these reporting conditions applies to the separate rape-information omission permission in §3205(a)(2)(iii). Independent spousal speech, equality and generalized privacy grounds are not reached by a controlling rationale.
@@ -985,8 +895,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** White’s opinion, joined by Stone, Blackmun, Stevens, O’Connor, Kennedy and Souter; seven Justices control the remedial rule and application. Scalia and Thomas concur only in the judgment on a narrower statutory ground.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Franklin’s allegations concern completed sexual harassment and abuse while attending a federally funded school, with alleged official knowledge and inaction. After her departure, backpay and prospective student relief could not compensate the pleaded injury. Congress’s 1986 reference to legal and equitable remedies and subsequent preservation of private enforcement supply no direction barring compensation.
 
 **Limits and questions not reached:** Allegations are not findings. No new cause of action, final recipient-attribution rule, punitive remedy, or liability for unintended discriminatory effects is established; the source of Congress’s constitutional power need not be selected.
@@ -1000,8 +908,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Holding:** The Spending Clause notice principle does not categorically bar compensatory relief for an intentional violation of Title IX’s express prohibition of sex discrimination within its established private action. Ambiguous funding conditions, unintentional effects and the separate requirements for attributing misconduct to a recipient are not resolved.
 
 **Proposition-level authority:** White’s opinion, joined by Stone, Blackmun, Stevens, O’Connor, Kennedy and Souter; seven Justices reject the separate funding-notice ground for dismissal.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The enacted nondiscrimination condition and established private action defeat a categorical notice objection to compensation for the pleaded intentional discrimination. This conclusion does not establish when the school is responsible for the teacher’s conduct.
 
@@ -1024,8 +930,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia does not join the system-wide rule.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** Current racial imbalance alone is insufficient. New policies unconnected to the established dual system remain subject to ordinary equal-protection analysis. No general Title VI disparate-impact cause or heightened proof quantum is created.
 
 **Operative remedy or transition:** The Fifth Circuit judgment is vacated in both consolidated dockets. The courts below must assess traceable policies' current effects, educational justification, practical elimination and interaction. If the State's duty remains undischarged, Equal Protection and the related Title VI duty are violated and appropriate remedial proceedings must follow. Existing findings are not set aside merely because the governing legal standard was wrong.
@@ -1045,8 +949,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia does not join the system-wide rule.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Brown II, 349 U.S. 294: applied; the State retains the burden of showing discharge of its established duty.
@@ -1061,8 +963,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia agrees only with further admissions review on a distinct ground and does not supply a ninth rationale join.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Brown and Green: applied; inherited discriminatory admission barriers require effective dismantlement rather than a new neutral label.
@@ -1074,8 +974,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 **Holding:** The corrected inquiry must examine unnecessary program duplication, inherited mission assignments, continued institutional organization, and other properly challenged features including affected funding, with their combined segregative effects and educational justifications. Neither racial identifiability nor fiscal inefficiency alone requires closing or merging a university, and improved funding alone cannot establish dismantlement while unlawful barriers remain.
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia does not join the system-wide rule.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Additional funding merely to preserve publicly financed separate enclaves is not an entitlement; funding required for actual dismantlement remains for remedial findings. Racial identifiability and fiscal inefficiency alone do not require closure or merger.
 
@@ -1103,8 +1001,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices support this proposition in both appeals.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The Common Fund Resolution replaces individual district road-fund authority with collective commission control. The Unit System places road operations under an appointed engineer while retaining substantial authority, including appointment and budget powers, in the elected commission. Neither changes the relevant selection mechanism or electorate.
 
 **Limits and questions not reached:** The listed electoral categories are illustrative, not exhaustive. Effective replacement of an elective office with an appointive office remains unresolved. The Court decides no racial-purpose or discriminatory-effect question, §2 claim, Title VI claim, or constitutional claim; the unappealed Road Supervision ruling is undisturbed.
@@ -1124,8 +1020,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 **Holding:** The Attorney General's interpretation of §5 is entitled to substantial consideration but cannot extend preclearance to governing changes that lack the statutory connection to voting. The proposed significant-transfer/different-constituencies test cannot substitute for that connection in these appeals.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices support this proposition in both appeals.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The rejected test concerns significant transfers of authority between officials responsible to substantially different constituencies. That formulation can reach governing responsibilities without identifying any change in voting and therefore cannot substitute for the required connection.
 
@@ -1150,9 +1044,7 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Holding:** A civil-rights plaintiff who obtains an enforceable nominal-damages judgment against the defendant from whom fees are sought is a prevailing party under §1988. The judgment must directly benefit the plaintiff by changing the defendant’s legal obligation; its nominal amount does not defeat eligibility.
 
-**Proposition-level authority:** Part I of White’s opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; all nine Justices support this controlling proposition.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Part I of White’s opinion, joined by the other eight Justices; all nine Justices support this controlling proposition.
 
 **Treatment of earlier authority:**
 
@@ -1166,8 +1058,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 **Holding:** When the court of appeals denies fees solely because a nominal-damages plaintiff is ineligible, correction of that error does not itself determine a reasonable amount. On this record, the fee judgment is vacated and remanded for preserved reasonableness objections and an explained Hensley assessment of actual success, allowing reduction to zero without automatically reinstating the prior award or requiring proportionality to damages.
 
 **Proposition-level authority:** Part II of White’s opinion, joined by Stone-Zsela, Blackmun, Stevens and Souter; five Justices control the remedy and stated fee principles.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1194,8 +1084,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Scalia Part II, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters. Souter separately agrees with rejection of this theory without a formal join.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Griffin v. Breckenridge, 403 U.S. 88 — applied; coverage of private conspiracies retains purposeful, invidiously discriminatory deprivation requirements.
@@ -1207,8 +1095,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 **Holding:** Constitutional protection of abortion choice against governmental interference does not itself create a right against the purely private obstruction proved here. Without necessary state involvement or another right protected against private encroachment, the deprivation clause cannot sustain this theory merely because the conspiracy deliberately seeks to prevent abortions.
 
 **Proposition-level authority:** Scalia Part II, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters of this distinct sufficient ground addressing the alternative privacy theory. Souter separately accepts Scott’s private-right limitation.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1223,8 +1109,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Scalia Part IV, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters. Souter agrees to remove the present federal basis but would additionally direct consideration of hindrance.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Farrar v. Hobby, December 14, 1992 — distinguished; enforceable federal nominal relief differs from reversal of the only adjudicated federal liability basis.
@@ -1235,8 +1119,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 **Holding:** The Court does not adjudicate liability under §1985(3)’s separate clause concerning conspiracies to prevent or hinder constituted state authorities from giving or securing equal protection. That theory was not adjudicated below or fairly included in the granted deprivation-clause questions, and no finding establishes the required purpose to hinder state protection; the remand does not direct liability under that theory.
 
 **Proposition-level authority:** Scalia Part V, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters control scope and mandate. Ultimate substantive requirements of the separate clause remain undecided.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1264,8 +1146,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 
 **Proposition-level authority:** Thomas’s Parts I and II-A; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - United States Railroad Retirement Board v. Fritz, 449 U.S.166: conceivable legitimate grounds and imperfect economic fit applied.
@@ -1279,8 +1159,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 **Independent alternative holding:** Congress could independently distinguish separately owned buildings because an incumbent provider can add nearby buildings at a lower marginal cost than a new entrant can incur to install its own reception facilities, creating a plausible first-mover advantage. This conceivable competition concern is sufficient under ordinary rational-basis review without proof that every regulated system possesses monopoly power.
 
 **Proposition-level authority for alternative holding:** Thomas’s Part II-B; White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force of alternative holding:** Remains controlling as stated.
 
 **Limits and questions not reached:** The regulatory-cost and competition grounds are independently sufficient. No First Amendment or heightened-scrutiny question is decided, and no actual monopoly is found.
 
@@ -1303,8 +1181,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 **Holding:** Court reporters performing the statutory task of accurately recording or producing a verbatim transcript do not receive absolute judicial immunity merely because their work is important or integral to a judicial proceeding. A claimant must establish the historically and functionally justified immunity; this ministerial task does not involve the discretionary adjudication that supports judicial immunity.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The burden rests on the person claiming immunity. An authorized federal damages action, actionable deprivation, causation, qualified immunity or other defenses and damages remain undecided.
 
@@ -1333,8 +1209,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The preliminary assessment is not an adjudication portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Tumey, 273 U.S.510 — interested adjudication forbidden; the sponsor is not the adjudicator here.
@@ -1347,8 +1221,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The factual presumption assigns ordinary persuasion portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter (8 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Crowell v. Benson, 285 U.S.22 — constitutionally sound construction used within the interpretive choice the text permits.
@@ -1359,8 +1231,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 **Holding:** Under §1401(a)(3)(B), a contesting employer may rebut the actuarial calculation by a preponderance showing either that assumptions and methods were unreasonable in the aggregate, considering plan experience and reasonable expectations, or that the actuary made a significant error in applying them. The professional and statutory constraints make this presumption constitutionally permissible here; fraud need not be proved.
 
 **Proposition-level authority:** Souter’s Opinion of the Court, Actuarial rebuttal retains both statutory routes portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -1373,8 +1243,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 **Holding:** Allocating a proportionate share of unfunded vested-benefit costs to this withdrawing employer is rational in light of its participation in the pooled pension undertaking. Neither private contribution limits nor the absence of a one-to-one match between its contributions and benefits to its own employees defeats this substantive-due-process application.
 
 **Proposition-level authority:** Souter’s Opinion of the Court, This withdrawal allocation is rational portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Arbitral factfinding and actuarial judgments remain distinct. Under the applicable §1393(a)(1) route, assumptions and methods collectively must be reasonable and represent the actuary’s best estimate of anticipated plan experience; another reasonable estimate alone proves no defect. Judicial review under §1401(c) separately presumes arbitral facts correct unless rebutted by a clear preponderance. Defined-benefit classification is outside review.
 
@@ -1399,8 +1267,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - City of Cleburne v. Cleburne Living Center, 473 U.S.432: rational relationship to the actual disadvantage required; no new scrutiny tier adopted.
@@ -1414,8 +1280,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Cleburne, 473 U.S.432: relevant differences may support a particular procedural distinction.
@@ -1427,8 +1291,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 **Holding:** Allowing relatives or guardians to participate as parties does not categorically violate procedural due process where the adult has counsel and an effective opportunity to contest adverse evidence before an independent decisionmaker. Relatives may neither supply a substitute for the statutory commitment grounds nor control the decision or suppress the adult’s position.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No new scrutiny tier or national reasonable-doubt requirement is adopted; heightened scrutiny and Kentucky’s repealed voluntary-admission rule remain outside review. Party status is sustained categorically, not every hearing’s fairness.
 
@@ -1452,8 +1314,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, this proposition; Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Imbler v. Pachtman, 424 U.S.409: protected advocacy and genuine preparation preserved; ordinary investigation distinguished.
@@ -1465,8 +1325,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 **Holding:** A prosecutor’s statements to the press announcing an indictment have no absolute prosecutorial immunity merely because they concern a pending prosecution or cause injury through later judicial proceedings. The ordinary qualified-immunity inquiry and the requirement of an actionable constitutional deprivation remain separate.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
-
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Allegations are not findings. Genuine advocacy preparation and unreviewed in-court presentation immunity remain; paid or coerced witness allegations require initial treatment below. Qualified immunity, constitutional injury, causation and damages are unresolved; defamation alone is not held actionable.
 

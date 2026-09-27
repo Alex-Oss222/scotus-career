@@ -17,9 +17,7 @@
 
 **Holding:** Section 318(b)(6)(A) substitutes compliance with §318(b)(3) and (b)(5) for satisfaction of the requirements under MBTA, NEPA, NFMA, FLPMA and OCLA identified in the pending timber disputes, while leaving actual compliance for courts to decide. That express substantive amendment is effective although enacted in an appropriations statute and does not violate Article III on the ground decided below.
 
-**Proposition-level authority:** Thomas's unanimous opinion of the Court, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the changed-law holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** Thomas's unanimous opinion of the Court, supported by all nine Justices; all nine Justices adopt the changed-law holding.
 
 **Limits and questions not reached:** The holding concerns the Northwest Timber Compromise’s covered sales and fiscal-year 1990 framework, with continued application to covered sales contracts; it does not find any sale compliant. The sixteen enjoined Forest Service sales sustain the controversy; the apparently moot BLM branch supplies no separate merits disposition. Klein’s full reach, the unraised challenge to narrowly targeted legislation, and final-judgment reopening remain undecided.
 
@@ -47,9 +45,7 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Holding:** Section 10 of the Rivers and Harbors Act permits the Corps to consider the effect of this proposed artificial coastal extension on federal submerged-land rights and to condition approval on preserving the existing federal-state boundary. The Submerged Lands Act does not require unconditional approval of the extension or invalidate this condition, which concerns only additional entitlement attributable to the Nome project and leaves existing state property and claims intact.
 
-**Proposition-level authority:** White's opinion, Part II, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices support this statutory holding and its stated limits.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** White's opinion, Part II, joined by the other eight Justices; all nine Justices support this statutory holding and its stated limits.
 
 **Material application:** The condition addresses the same prospective boundary encroachment that supports withholding permission and preserves the existing allocation while allowing construction.
 
@@ -83,8 +79,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The construction does not erase the express compulsory title and liability terms or authorize judicial rewriting; those terms receive their own constitutional review.
 
 **Treatment of earlier authority:**
@@ -98,8 +92,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 **Holding:** Congress may authorize the Act's interstate waste surcharges, collect a share for a segregated federal spending program, and condition distributions on explicit, disposal-related milestones. On this record these conditions are authorized inducements; segregation of the funds and state choice whether to qualify do not remove the program from the spending power.
 
 **Proposition-level authority:** Part III-A of O'Connor's opinion on this incentive, joined by White, Blackmun, Stevens, Scalia, Kennedy, Souter, and Thomas: eight Justices. Stone-Zsela separately agrees; no formal join is attributed to him.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The program serves safe disposal, supplies clear notice of the disposal conduct and deadlines earning distributions, and relates the conditions to that expenditure. No independent constitutional prohibition breached by satisfying those conditions is identified. The federal tax on interstate commerce is not independently challenged.
 
@@ -120,8 +112,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** Part III-B of O'Connor's opinion on this incentive, joined by White, Blackmun, Stevens, Scalia, Kennedy, Souter, and Thomas: eight Justices. Stone-Zsela separately agrees; no formal join is attributed to him.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Declining the milestones exposes private waste producers to increased costs and eventual loss of outside disposal access; it does not itself transfer obligations to the State or require an appropriation. Political pressure from affected residents is distinct from a legal command, and New York remains free to regulate in its own manner.
 
 **Limits and questions not reached:** The decision supplies no federal disposal fallback, no duty on sited States to accept New York waste and no permission for discrimination beyond Congress's express authorization.
@@ -141,8 +131,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 **Holding:** Congress may not use its ordinary commerce authority to make an unwilling State choose between regulating private waste generators under federal instructions and accepting their waste into state ownership and possession with associated liability. Combining two unauthorized commands does not create a lawful option, and state officials' advocacy for the statute does not enlarge Congress's powers or estop this noncompacting State from challenging the command.
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The compulsory 1996 mechanism leaves no lawful way for New York to decline federal program responsibility: the State must arrange disposal under federal instructions or take private generators' waste and assume liability for all damages directly or indirectly incurred through failure to take prompt possession. New York joined no compact.
 
@@ -170,8 +158,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** O'Connor's Part V, joined by Scalia, Kennedy, Souter, and Thomas, supplies five votes for the assumption-and-merits rationale. Stone-Zsela separately rejects the claim after finding this limited institutional claim justiciable. White, Blackmun, and Stevens vote to reject the challenge as part of their affirm-all disposition but do not join Part V.
 
-**Current force:** Remains controlling as stated.
-
 **Limits and questions not reached:** The Court assumes this claim is justiciable without deciding that issue. Stone's affirmative decision to hear the limited institutional claim has no other join and creates no controlling justiciability rule. No separate Guarantee ground is decided for the already invalidated take-title command.
 
 **Operative remedy or transition:** The remaining Guarantee Clause challenge is rejected in all three dockets. The surviving incentives leave New York's legislative choice and elected officials' accountability intact.
@@ -188,8 +174,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 **Holding:** An invalid provision is severed when the remainder remains fully operative and it is not evident that Congress would have rejected that remainder independently. The compulsory 1996 title, possession, and associated liability mechanism is severable here; the remaining financing and access incentives stay in force, without a court-created replacement program or a duty on other States to accept New York's waste.
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The remaining financing and access provisions function independently and advance disposal capacity. Absence of a severability clause creates no presumption against severance; the Act's objective is capacity, not the invalid sanction for its own sake.
 
@@ -248,8 +232,6 @@ For the threatened-enforcement and injunction-scope holdings in *Morales v. Tran
 **Holding:** Section 18 does not automatically preempt a supplementary state occupational-safety standard merely because a federal standard covers the same issue and the State lacks an approved plan. The categorical overlap rule is reversed; provisions must instead be examined for an actual basis of displacement, without treating either dual public purpose or occupational overlap as conclusive.
 
 **Proposition-level authority:** Souter’s plurality, joined by Blackmun, Stevens and Thomas, and Stone-Zsela’s concurrence in the judgment independently and expressly support this limited negative proposition and its remand consequence: five of nine Justices. No complete opinion commands five joins.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 18(a) preserves authority where no federal standard exists. Section 18(b), including its enacted heading, and the approval and withdrawal provisions can govern a State assuming the federal regulatory role without establishing a universal prohibition on compatible supplementation. Federal minimum training and additional state training do not become incompatible solely through overlap.
 
@@ -369,8 +351,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices support this proposition. Scalia and Thomas cast no merits vote.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The Act requires covered public and private coal-fired utilities to obtain at least ten percent of coal heat input from Oklahoma coal. The small reserved share does not cure facial origin discrimination. The record does not show that an origin quota is necessary to secure reliable energy supplies when reasonable neutral diversification measures are available; retaining benefits for the local coal industry is not a sufficient justification.
 
 **Limits and questions not reached:** Neutral energy regulation remains available; the evenhanded-regulation balance does not govern this express origin quota.
@@ -391,8 +371,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** The Act's integrated purchasing mandate cannot be preserved solely for the state-owned Grand River Dam Authority without an adequate state-law basis for severing applications and retaining that different legislative scheme. The Court invalidates the enacted regulatory program while leaving the validity of an independently adopted state procurement policy open.
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices support this proposition.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Act's severability language concerning parts does not adequately establish legislative intent to remove all private applications and preserve a different GRDA-only scheme. State ownership of one regulated utility does not establish that an independent procurement policy was enacted or would be retained alone.
 
@@ -415,9 +393,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Holding:** A State may not impose an additional disposal charge on out-of-state hazardous waste that it does not impose on equivalent in-state waste unless it establishes a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve. Alabama's $72-per-ton additional charge fails because the record supplies no origin-linked difference in the relevant risks or costs and adequate evenhanded means remain available; commercial hazardous-waste disposal receives Commerce Clause protection despite the material's dangers.
 
-**Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the rule, application and remedial limits. Stone's additional compensatory-tax observation is not part of the Court's holding.
-
-**Current force:** Remains controlling as stated.
+**Proposition-level authority:** White's opinion of the Court, joined by the other eight Justices; all nine adopt the rule, application and remedial limits. Stone's additional compensatory-tax observation is not part of the Court's holding.
 
 **Material application:** The accepted long-term disposal, transportation, monitoring and capacity concerns do not establish that an equivalent imported ton is more dangerous or costly than a domestic ton. Evenhanded charges, total-volume limits and direct safety regulation address those mechanisms; these examples expose the missing justification rather than require a replacement program. Allowing the same waste upon payment of an extra fee does not establish a quarantine justification.
 
@@ -459,8 +435,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy, Souter and Thomas; seven Justices.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The relevant comparison is between subsidiaries without independent Iowa operations. A domestic subsidiary doing business in Iowa supplies a distinct taxable connection. Kraft's accepted unitary relationship and Iowa's general authority to apportion connected income do not answer the independent nondiscrimination question.
 
 **Limits and questions not reached:** The decision creates no blanket immunity for foreign dividends, changes no accepted unitary or operational tax-base boundary, and does not decide the independent international multiple-taxation, national-voice or equal-protection theories.
@@ -480,8 +454,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** Iowa’s adoption of a federal income definition supplies no congressional authorization to discriminate, and hypothetical taxes imposed by other sovereigns do not establish a matched justification for Iowa’s unequal burden. Administrative convenience is inadequate here because a reasonable nondiscriminatory adjustment can preserve substantially the same benefits; the challenged assessment therefore cannot stand.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy, Souter and Thomas; seven Justices. This resolves the asserted justifications for the first holding, not a free-standing ruling on other taxes.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** Iowa incorporates the federal taxable-income figure and domestic-dividend deduction while omitting federal foreign-tax credits. A neutral dividend adjustment can retain substantially the same calculation and auditing benefits. Taxes imposed by other sovereigns establish no equivalent Iowa burden on the relevant domestic comparison.
 
@@ -508,8 +480,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Parts I–II of Scalia’s opinion, joined by White, Stevens, O’Connor, Souter and Thomas, supply six votes for the standard; Part III is joined by White, Stevens, Souter and Thomas, supplying five votes for its stated application. Stone-Zsela’s judgment concurrence is not a formal join and is not needed to establish authority.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Recruitment, training, evaluation, meetings and limited credit mediation facilitate solicitation without an independent function. Regular stale-gum replacement provides an independent service; paid stock-check transactions deliver gum; inventory maintained principally for those exchanges and sales supports those independent functions.
 
 **Limits and questions not reached:** The Court rejects an automatic before-sale/after-sale line and a request-only definition. It leaves materially different service records, each unprotected activity's independent sufficiency, constitutional tax objections and calculation undecided. O'Connor joins the standards but not the whole application; her separate treatment of freshness and the independent sufficiency of inventory and stock-check sales is not a Court holding.
@@ -530,8 +500,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Parts I–II of Scalia's opinion, joined by White, Stevens, O'Connor, Souter and Thomas, supply six votes for this statutory-text holding; it was not separately contested by any Justice's writing.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Wrigley's own sales representatives are not independent contractors within §381(d)(1); the office distinction and its independent-contractor exemption therefore have no application to Wrigley's uncompensated home arrangements, which are governed instead by the ancillary-means/independent-business-function standard in the preceding holding.
 
 **Limits and questions not reached:** No holding decides what showing establishes an independent contractor's required multiple-principal or holding-out status in a contested case, or the scope of an office actually maintained by a qualifying independent contractor.
@@ -547,8 +515,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** Activities outside protected solicitation do not defeat §381 protection when they are genuinely de minimis—too slight to create a nontrivial additional connection with the taxing State—but the inquiry considers the unprotected activities together and is not resolved by their small proportion of the company’s total sales. Wrigley’s recurring stale-gum exchanges, stock-check sales and supporting inventory together create that additional connection, making §381 protection unavailable for the assessed years.
 
 **Proposition-level authority:** Part II of Scalia’s opinion, joined by White, Stevens, O’Connor, Souter and Thomas, establishes the six-vote qualification. Part III, joined by White, Stevens, Souter and Thomas, supplies five votes for the combined-activity application. O’Connor independently finds inventory and stock-check sales sufficient without counting stale-gum replacement; her separate alternative is not a Court holding.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The inquiry combines regular stale-gum exchanges, supporting stock and occasional paid stock-check deliveries. Their small share of overall Wisconsin sales does not make the additional local connection trivial.
 
@@ -575,8 +541,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Stevens, Scalia and Souter; five Justices adopt the territorial limitation and operational-function qualification. The opinion independently controls without aggregating separate writings.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** The existing boundary remains workable despite fact-sensitive applications, and States and businesses have organized tax systems and investments around it. A corporation's general profit purpose or common ownership cannot substitute for an operational connection.
 
 **Limits and questions not reached:** A valid tax base and a fair apportionment formula are separate requirements. The Court does not constitutionalize every state-law definition of business income or make investment duration decisive. Because ASARCO and Woolworth are retained, the conditional reargument questions about retroactivity and replacement principles are not reached.
@@ -595,8 +559,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** Where the stipulated facts establish unrelated enterprises without functional integration, centralized management or economies of scale, and do not show that the stock itself performed an identifiable operational function in the taxpayer's unitary business, a general acquisition strategy and intended later use of sale proceeds cannot justify apportioning the capital gain. Bendix has met its burden on this record; New Jersey must exclude the approximately $211.5 million ASARCO gain from the challenged apportionable tax base.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Stevens, Scalia and Souter; five Justices adopt the application and remand. Stone separately supports reversal; Blackmun, O'Connor and Thomas dissent, making the judgment 6–3.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The stipulated absence of shared operational management, services, facilities or financing, and the merely minor arm's-length dealings, negate integration. Two noncontrolling board seats do not show centralized management. The record identifies no working-capital use or other operational role for the shares; intended later use of sale proceeds is insufficient.
 
@@ -623,8 +585,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Parts I–III of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices. Stone expressly does not reach due process and supplies no join.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Sustained solicitation and about $1 million in annual North Dakota sales establish the purposeful connection; the obligation relates rationally to benefits from that market. The distinct Commerce inquiry remains necessary.
 
 **Limits and questions not reached:** Consumer use-tax liability, other taxes, a numerical transaction or property-value threshold, a general software or physical-presence rule, and the result under future legislation are not decided. Potential retroactive effects of overruling the Commerce rule were excluded from the grant. Congress cannot authorize a due-process violation.
@@ -646,8 +606,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** The common, narrower ground expressly supported by Stevens, Blackmun, O’Connor and Souter in Part IV, Scalia, Kennedy and Thomas in their concurrence, and Stone in his concurrence in the judgment; eight Justices retain the particular precedent. The full Part IV substantive policy analysis has four joins and is not an Opinion of the Court. The software application has the separate five-Justice authority identified below.
 
-**Current force:** Remains controlling as stated.
-
 **Material application:** Complete Auto preserves substantial nexus separately from apportionment, nondiscrimination and fair relation to state services. The specific collection precedent and reliance it created persist; the four-Justice Part IV policy analysis is not imported into the common precedent ground.
 
 **Limits and questions not reached:** Consumer use-tax liability, other taxes, a numerical transaction or property-value threshold, a general software or physical-presence rule, and the result under future legislation are not decided. Potential retroactive effects of overruling the Commerce rule were excluded from the grant. Congress cannot authorize a due-process violation.
@@ -667,8 +625,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** Quill’s insignificant interests in the licensed ordering software on this record do not supply the local commercial presence required to take its mail-order sales outside the retained Commerce Clause collection rule. This conclusion rejects the State’s asserted alternative nexus for this seller without prescribing a general rule for all software, licenses or in-state property.
 
 **Proposition-level authority:** Stevens, Blackmun, O’Connor and Souter in Part IV, together with Stone’s expressly matching record-specific software ground in his concurrence in the judgment; five Justices adopt this application at the same scope. Scalia, Kennedy and Thomas support reversal but are not counted as joining this substantive software explanation.
-
-**Current force:** Remains controlling as stated.
 
 **Material application:** The insignificant software interests facilitate communication with the out-of-state business; they do not establish the local commercial operation or market-maintaining representative activity asserted by the State. No warehouse, employee or agent is found.
 
@@ -696,8 +652,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's treaty portion, joined by Stone-Zsela, White, Stevens, O'Connor, Scalia, Souter and Thomas: eight Justices adopt this construction and application.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Air France v. Saks, 470 U.S.392 (1985): applied for treaty interpretation beginning with text while considering relevant context.
@@ -708,8 +662,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** The Container Conventions, 19 U.S.C.1322 and their implementing regulations do not occupy all container taxation or preempt a nondiscriminatory local lease tax that neither taxes importation nor obstructs the federal temporary-admission policy. Tennessee's tax therefore survives both the asserted field-preemption and obstacle-preemption grounds; the distinct federal rules governing bonded warehouses do not confer the same exemption on these lease transactions.
 
 **Proposition-level authority:** Kennedy's regulatory-preemption portion, joined by Stone-Zsela, White, Stevens, O'Connor, Scalia, Souter and Thomas: eight Justices adopt the stated rejection of both grounds.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -724,8 +676,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's foreign-commerce portion, joined by Stone-Zsela, White, Stevens, O'Connor, Souter and Thomas: seven Justices adopt this rule and application. Scalia agrees only in the judgment on this issue; Blackmun dissents.
 
-**Current force:** Remains controlling as stated.
-
 **Treatment of earlier authority:**
 
 - Complete Auto Transit, Inc. v. Brady, 430 U.S.274 (1977): its four requirements remain mandatory; their satisfaction is conceded in this case.
@@ -738,8 +688,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** Under Michelin, this nondiscriminatory local lease tax does not offend national commercial uniformity, divert federal import revenue or disrupt interstate harmony, and therefore does not violate the Import-Export Clause. The tax attaches to temporary possession transferred in Tennessee, rather than to the containers or their cargo as imports or exports in transit; the Court leaves unresolved whether Michelin otherwise altered Richfield's rule for direct taxation of goods in transit.
 
 **Proposition-level authority:** Kennedy's Import-Export portion, joined by Stone-Zsela, White, Stevens, O'Connor, Souter and Thomas: seven Justices adopt this rule and application. Scalia concurs only in this component's judgment on a distinct export-status ground; Blackmun does not supply a separate Import-Export disposition.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -764,8 +712,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Holding:** The Senate’s use of a committee to receive testimony, while the full Senate receives the record, hears argument and retains deliberation and judgment, falls within the impeachment-trial procedure committed to the Senate and is not judicially revisable on this claim. This holding does not decide whether courts may enforce the oath, presidential-trial presiding-officer or two-thirds requirements, or review a purported proceeding that abandons adjudication altogether.
 
 **Proposition-level authority:** Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy and Thomas. Six of nine Justices adopt this exact ground and its limits; White and Blackmun’s merits ground is noncontrolling, and Souter does not formally join the Court’s opinion.
-
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
