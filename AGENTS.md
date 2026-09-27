@@ -27,19 +27,28 @@ Never edit anything under `foundation/`.
 - `case-list.md` — the user's term-wide inventory of cases and Court actions (the Engine's "lightweight term-wide inventory").
 - `briefs/` — the user's case briefs, one file per chunk of about ten cases (`OT_<year>CHUNK<n>.md`). Inputs. Never edit them; Stone's words are never altered.
 - `runtime/` — when present, the user's split of each chunk into `_NEUTRAL`, `_STONE`, and `_COMPARATOR` files.
-- `workspace.md` — the Term Workspace: Full-Term Event Manifest, Term Working Ledger index, latest Term Continuity Note, Current-Term Neutral Projection. Written by Open, replaced by every Run.
-- `records/` — one Canonical Decision Record or Admitted Source Record per completed event, named by case, event type, and date. One file per event: a user-authorized correction replaces the file in place and states its lineage (versions and commit hashes).
-- `render-inputs/` — written by Run: the eleven-block Render Input for every event in the chunk, plus chunk metadata. One file per chunk: a correction replaces the event’s block in place and updates the chunk metadata; the other blocks stay byte-identical.
-- `output/` — written by Render: the public render of each chunk under the Contract. One file per chunk: a correction replaces the event’s entry in place; the other entries stay byte-identical.
+- `workspace/` — for OT1993 forward, four replaceable projections: `manifest.md`, `ledger.md`, `continuity.md`, and `neutral.md`. OT1991–OT1992 retain their legacy `workspace.md` files unchanged as historical artifacts.
+- `entering-law/` — one generated reading slice per chunk, copied from the authoritative opening trackers and effective current-term Records immediately before modeling. It is derived context, never authority.
+- `freeze/` — durable stage handoffs: provisional non-Stone commitments and reconciled commitments. These files are written before Stone enters assembly and may not be edited by the assembly task.
+- `validation/` — durable deterministic check results and source-retrieval status used by the Record's validation statement.
+- `records/` — one Canonical Decision Record or Admitted Source Record per completed event, named by natural case/docket identity, event type, and date. An authorized correction replaces the file in place; concise lineage belongs in internal provenance, not public Court prose.
+- `render-inputs/` — generated from each Record's bounded `Public projection` section. The generated file is the renderer's physically separate handoff and is never independently redrafted.
+- `output/` — written by Render: Court-facing public output only. It contains no workflow status, version history, approval history, model language, or operator provenance.
 - `close/` — staged close work, pass notes, one canonical `AUDIT.md`, and the Term-Close Dossier. Candidate tracker files are temporary and are removed after a successful Commit pass; superseded audit versions and candidate bytes remain in Git history.
 
 ## The four tasks the user gives
 
-**"Open October Term <year>."** Validate `state/` as the opening trackers against the Engine's term-opening baseline rules, read `case-list.md`, build the Full-Term Event Manifest, and write `terms/OT<year>/workspace.md`. Report any conflict or missing inventory item; do not invent one.
+**"Open October Term <year>."** Validate `state/` against the Engine's term-opening baseline, read `case-list.md`, and for OT1993 forward write `workspace/manifest.md`, `workspace/ledger.md`, `workspace/continuity.md`, and `workspace/neutral.md`. Report any conflict or missing inventory item; do not invent one.
 
-**"Run October Term <year>, chunk <n>."** Take `terms/OT<year>/briefs/OT_<year>CHUNK<n>.md` (and the matching `runtime/` files if present). Reconstruct the Current Term State from `state/` and `workspace.md`. Adjudicate every event in the chunk under the Engine, in effective-date order. For each completed event write its Decision Record to `records/`, and write the chunk's Render Inputs — the Engine's eleven blocks per event, in order, plus the chunk metadata — to `render-inputs/OT_<year>CHUNK<n>.md`; replace `workspace.md`. Do not write the public render. A stopped matter is listed in the chunk metadata with its exact blocker and left open — never resolved by guessing.
+**"Prepare October Term <year>, chunk <n>."** Regenerate the `runtime/` split from the approved chunk brief, rebuild the event-date entering-law slice in `entering-law/`, and prepare the Neutral Modeling Packet. This task may read neutral materials and authoritative current law. It does not read the current chunk's Stone section or historical comparator after the mechanical split.
 
-**"Render October Term <year>, chunk <n>."** A separate task. Read only `render-inputs/OT_<year>CHUNK<n>.md`, `foundation/RENDER_CONTRACT.md`, and the Render form, Holdings writing standard, and Voice sections below. Write `output/OT_<year>CHUNK<n>.md`. Do not open briefs, records, or sources; do not research, revisit votes, change coalitions, or add holdings. If a Render Input lacks something the Contract needs, render the entry as far as it goes and name the exact gap in the Simulation Workflow Blockers section.
+**"Model October Term <year>, chunk <n>."** A physically separate task. Read only the Neutral Modeling Packet, the event-date entering-law slice, and the Engine provisions required for non-Stone modeling. Write `freeze/OT_<year>CHUNK<n>_COMMITMENTS.md`. Do not read Stone, the historical comparator, prior reconciliation, or private audit material.
+
+**"Reconcile October Term <year>, chunk <n>."** A physically separate task. Read the frozen Neutral Modeling Packet, provisional commitments, and historical comparator, but not Stone. Write `freeze/OT_<year>CHUNK<n>_RECONCILED.md`. Every historical departure must identify the concrete changed premise and why it can matter to that Justice. Do not turn this inquiry into a score or automatic historical-vote rule.
+
+**"Run October Term <year>, chunk <n>."** Assembly only. Read the Neutral Modeling Packet, the frozen reconciled commitments, Stone's approved position last, and the date-eligible sources needed for final compatibility. Adjudicate in effective-date order, write each Canonical Decision Record, update the four workspace projections, and put the eleven public blocks once in the Record's bounded `Public projection` section. Generate `render-inputs/OT_<year>CHUNK<n>.md` mechanically from those sections. Run deterministic checks before commitment. Do not rewrite frozen Model or Reconcile files.
+
+**"Render October Term <year>, chunk <n>."** A separate task. Read only `render-inputs/OT_<year>CHUNK<n>.md`, `foundation/RENDER_CONTRACT.md`, and the public-render instructions. Write `output/OT_<year>CHUNK<n>.md`. Do not open briefs, Records, freeze files, audit material, or sources; do not research, revisit votes, change coalitions, or add holdings. A blocker is reported to the operator and never printed inside the Court-facing output.
 
 **Closing a term** is staged, one task per pass; see "Close protocol" below. Nothing in `state/` changes until the Commit pass.
 
@@ -47,7 +56,7 @@ The user may also say, in plain words, that the Court issues an order or takes u
 
 ## Mode
 
-Each task is one context that sees the neutral packet, the comparator, and Stone's position together. That is the Engine's single-conversation mode: keep its stage order and frozen handoffs, and state in each Decision Record that true blindness was unavailable. Do not describe the process as blind. When `runtime/` split files exist, read the `_NEUTRAL` file first and freeze the provisional non-Stone commitments before opening `_COMPARATOR`; open `_STONE` last.
+For OT1993 forward, Model, Reconcile, and Run are separate contexts with durable handoffs. Model never receives the comparator or Stone. Reconcile receives the comparator but never Stone. Run receives Stone only after the reconciled freeze exists. Single-conversation mode remains a documented emergency fallback, not the normal path. General model knowledge cannot be erased, but withheld current-matter files must be physically absent from each restricted task.
 
 ## Research
 
@@ -72,7 +81,7 @@ Decide the render form for each event when projecting its Render Input, and stat
 - **Material change** means any of: a different judgment or disposition on any component; a different controlling proposition, or a different coalition supporting it; a Justice other than Stone voting differently from history; a different remedy, mandate, or remand; a matter history decided that this Court leaves undecided, or the reverse; a new or changed reusable doctrine; a different treatment of precedent. A change that follows solely from Stone casting the vote Rehnquist cast (a different author for the Court, a margin one vote different) is not material by itself.
 - A 5-4 judgment, an equal division, or a fracture with no Opinion of the Court always takes the full form.
 - Renders publish only what the Court publishes: dispositions, opinions, and noted statements. Never the conference or certiorari poll.
-- **No workflow metadata in a render.** The public render carries no version numbers, commit hashes, lineage, or correction labels: not in the Docket and Chronology row, not in headings, not in Source Notes. A corrected entry reads as the Court’s decision of its date, exactly as an uncorrected one does; provenance lives in the record’s lineage line and audit annex and in the workspace. Source Notes keep only what the Contract asks for about sources: verified quotation and citation support and public-source limits. The Simulation Workflow Blockers section lists only blockers still open, in the Contract’s table; when none is open it says so in one line and lists no history of cleared items.
+- **No workflow metadata in a render.** The public render carries no version numbers, commit hashes, lineage, approval history, correction labels, research-retrieval dates, or references to a model, simulation, user, operator, freeze, or workflow. A corrected entry reads as the Court's decision of its effective date. Provenance stays internal. Source Notes contain only historically ordinary source or quotation information when needed. Blockers never appear in the Court-facing file.
 
 ## Records
 
@@ -112,7 +121,7 @@ The user may designate a matter for special consideration. Its Run and Render fo
 - **Coalition and vote audit.** The record’s audit annex carries a vote audit: before-and-after vote tables naming the Justices for every controlling proposition and every provision; for each proposed new join, the Justice’s recorded objection, the revised reasoning that answers it, and the exact scope of agreement (complete-framework support, support for particular protections, or judgment-only agreement); an explanation for every changed vote; and the author and joins of every controlling portion. Where the user asks what would follow if a proposal obtained five votes, the annex adds a clearly labeled hypothetical successful-adoption scenario that names the additional judicial choices it assumes and is kept apart from the support the record establishes; nothing from that scenario enters the decision, the Render Input, the render, or current law.
 - **Render form: full**, always; the Render carries the separate-writing summaries and the extended holdings at the depth the Render Input supplies.
 
-Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.5, September 15, 2026; Stone’s complete six-step framework adopted as a five-Justice controlling majority — Stone, Blackmun, Stevens, O’Connor, Souter — at the user’s direct authority, per the record’s “Version 1.5 assembly” section). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
+Canonical enhanced-case adjudication: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991. The current Canonical Decision Record controls and is not reopened absent an authorized correction. Its controlling coalition on Stone's six-step framework is Stone, Blackmun, Stevens, O'Connor, and Souter. Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice. Public output states the decision normally and never narrates the provenance of the canonical version.
 
 ## Close protocol
 
