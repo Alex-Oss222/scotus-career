@@ -1278,9 +1278,7 @@ White applies the important-objective and substantial-relationship test to the a
 
 #### Source Notes
 
-The principal statutory source is the supplied Pennsylvania Abortion Control Act text, reproduced in the statutory appendix at 505 U.S. 902–911. The supplementary record sources are the [District Court opinion, 744 F. Supp. 1323](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/) and the [Third Circuit opinion, 947 F.2d 682](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey). Statutory commands, constructions and contested inferences remain distinct. The [historical Casey text](https://supreme.justia.com/cases/federal/us/505/833/) is consulted for statutory, record and argument context; its resolution is not entering precedent. Research cutoff: June 29, 1992.
-
-The paternal-support rape permission is optional and has no police-report condition. The different spousal-assault exception incorporates a ninety-day clock running from commission of the offense. Materials are furnished if chosen; acceptance, reading and ideological assent are not required. The emergency explanation precedes treatment only if possible. The information-omission defense is separate from emergency permission. The parental ruling periods and two public-release funding lookbacks remain distinct.
+The principal statutory source is the supplied Pennsylvania Abortion Control Act text, reproduced in the statutory appendix at 505 U.S. 902–911. The supplementary record sources are the [District Court opinion, 744 F. Supp. 1323](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/) and the [Third Circuit opinion, 947 F.2d 682](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey). Statutory commands, constructions and contested inferences remain distinct. The paternal-support rape permission is optional and has no police-report condition. The different spousal-assault exception incorporates a ninety-day clock running from commission of the offense. Materials are furnished if chosen; acceptance, reading and ideological assent are not required. The emergency explanation precedes treatment only if possible. The information-omission defense is separate from emergency permission. The parental ruling periods and two public-release funding lookbacks remain distinct.
 
 The author counts once. Named rationale coalitions are distinct from judgment coalitions. Nine deny special attendance relief, but five adopt the no-established-command rationale and four advance an additional assumed-operation rationale. Certification dependencies follow their underlying duties. The complete framework has five direct joins and does not depend on adding supporters of a different rationale.
 
@@ -1506,6 +1504,3 @@ The application is denied. The Second Circuit's July 15 stay remains pending the
 
 ---
 
-## Simulation Workflow Blockers
-
-This section records workflow status and is not part of the Court's public action or legal record. No stopped matter and no unresolved blocker is identified for this chunk.
