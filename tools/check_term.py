@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import re
 import subprocess
+import sys
 from pathlib import Path
 
 CHUNK = re.compile(r"OT_(\d{4})CHUNK(\d+)\.md$")
@@ -80,7 +81,7 @@ def main():
 
     # Global Holdings volume synchronization.
     if modern:
-        p = subprocess.run([str(root / "tools" / "holdings_volumes.py"), "check", "--root", str(root)],
+        p = subprocess.run([sys.executable, str(root / "tools" / "holdings_volumes.py"), "check", "--root", str(root)],
                            capture_output=True, text=True)
         if p.returncode:
             errors.append("Holdings doctrinal volumes are stale or unsynchronized: " + (p.stderr.strip() or p.stdout.strip()))
@@ -103,7 +104,7 @@ def main():
             brief = briefs.get(n)
             if not brief:
                 continue
-            p = subprocess.run([str(root / "tools" / "split_chunk.py"), str(brief), "--check"],
+            p = subprocess.run([sys.executable, str(root / "tools" / "split_chunk.py"), str(brief), "--check"],
                                capture_output=True, text=True)
             if p.returncode:
                 errors.append(f"chunk {n}: stale runtime split: " + (p.stderr.strip() or p.stdout.strip()))
