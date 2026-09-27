@@ -52,18 +52,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-05-16 | OT_1993CHUNK4 | Kokkonen v. Guardian Life Insurance Co. of America | No. 93-263 | MERITS | Signed opinion | Completed: Kokkonen_v_Guardian_Life_merits_1994-05-16.md |
 | 1994-05-16 | OT_1993CHUNK4 | Beecham v. United States | No. 93-445, including Jones under Rule 12.2 | MERITS | Signed opinion | Completed: Beecham_and_Jones_v_United_States_merits_1994-05-16.md |
 | 1994-05-16 | OT_1993CHUNK4 | Security Services, Inc. v. Kmart Corp. | No. 93-284 | MERITS | Signed opinion | Completed: Security_Services_v_Kmart_merits_1994-05-16.md |
-| 1994-05-23 | OT_1993CHUNK5 | BFP v. Resolution Trust Corp. | No. 92-1370 | MERITS | Signed opinion | Completed: BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Staples v. United States | No. 92-1441 | MERITS | Signed opinion | Completed: Staples_v_United_States_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Custis v. United States | No. 93-5209 | MERITS | Signed opinion | Completed: Custis_v_United_States_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | NLRB v. Health Care & Retirement Corp. of America | No. 92-1964 | MERITS | Signed opinion | Completed: NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Dalton v. Specter | No. 93-289 | MERITS | Signed opinion | Completed: Dalton_v_Specter_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Posters ’N’ Things, Ltd. v. United States | No. 92-903 | MERITS | Signed opinion | Completed: Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Associated Industries of Missouri v. Lohman | No. 93-397 | MERITS | Signed opinion | Completed: Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | No. 93-609 | MERITS | Per curiam judgment / summary disposition | Completed: Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | McKnight v. General Motors Corp. | No. 92-1113 | MERITS | Per curiam judgment / summary disposition | Completed: McKnight_v_General_Motors_Corp_merits_1994-05-23.md |
-| 1994-05-31 | OT_1993CHUNK5 | Waters v. Churchill | No. 92-1450 | MERITS | Signed opinion | Completed: Waters_v_Churchill_merits_1994-05-31.md |
-| 1994-05-31 | OT_1993CHUNK5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | No. 92-1911 | MERITS | Signed opinion | Completed: PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md |
-| 1994-06-06 | OT_1993CHUNK5 | Nichols v. United States | No. 92-8556 | MERITS | Signed opinion | Completed: Nichols_v_United_States_merits_1994-06-06.md |
+| 1994-05-23 | OT_1993CHUNK5 | BFP v. Resolution Trust Corp. | No. 92-1370 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | Staples v. United States | No. 92-1441 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | Custis v. United States | No. 93-5209 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | NLRB v. Health Care & Retirement Corp. of America | No. 92-1964 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | Dalton v. Specter | No. 93-289 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | Posters ’N’ Things, Ltd. v. United States | No. 92-903 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | Associated Industries of Missouri v. Lohman | No. 93-397 | MERITS | Signed opinion | Open |
+| 1994-05-23 | OT_1993CHUNK5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | No. 93-609 | MERITS | Per curiam judgment / summary disposition | Open |
+| 1994-05-23 | OT_1993CHUNK5 | McKnight v. General Motors Corp. | No. 92-1113 | MERITS | Per curiam judgment / summary disposition | Open |
+| 1994-05-31 | OT_1993CHUNK5 | Waters v. Churchill | No. 92-1450 | MERITS | Signed opinion | Open |
+| 1994-05-31 | OT_1993CHUNK5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | No. 92-1911 | MERITS | Signed opinion | Open |
+| 1994-06-06 | OT_1993CHUNK5 | Nichols v. United States | No. 92-8556 | MERITS | Signed opinion | Open |
 | 1994-06-06 | OT_1993CHUNK6 | Farmer v. Brennan | No. 92-7247 | MERITS | Signed opinion | Open |
 | 1994-06-06 | OT_1993CHUNK6 | Department of Revenue of Montana v. Kurth Ranch | No. 93-144 | MERITS | Signed opinion | Open |
 | 1994-06-06 | OT_1993CHUNK6 | Digital Equipment Corp. v. Desktop Direct, Inc. | No. 93-405 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** June 6, 1994, through Nichols; the other uncoordinated June 6 inventory matters remain unprocessed. Next: Farmer v. Brennan (June 6, 1994, chunk 6) is the next inventory event. Nichols and the unprocessed June 6 cases share the start-of-day baseline; Nichols does not enter those uncoordinated same-day cases. Staples entered Posters in the express May 23 sequence. Completed May 23 law enters May 31 only within its scope; the independent May 31 pair shared its entering baseline.
+- **Current chronology cursor.** May 16, 1994, through the completed chunk 4 group. Next: BFP v. Resolution Trust Corp. (May 23, 1994, chunk 5) is the next scheduled event. Completed uncoordinated May 16 cases shared the entering baseline; Landgraf entered Rivers and McDermott entered Boca Grande in their express sequences.
 
 ## Manifest controls and limitations
 
@@ -146,7 +146,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 - **In re Sassower:** Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition.
 - **Cavanaugh v. Roller:** Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
 
-Farmer v. Brennan (June 6, 1994, chunk 6) is the next inventory event. Nichols and the unprocessed June 6 cases share the start-of-day baseline; Nichols does not enter those uncoordinated same-day cases. Staples entered Posters in the express May 23 sequence. Completed May 23 law enters May 31 only within its scope; the independent May 31 pair shared its entering baseline.
+BFP v. Resolution Trust Corp. (May 23, 1994, chunk 5) is the next scheduled event. Completed uncoordinated May 16 cases shared the entering baseline; Landgraf entered Rivers and McDermott entered Boca Grande in their express sequences.
 
 ## Pending original writ after the completed May 2 fee action
 

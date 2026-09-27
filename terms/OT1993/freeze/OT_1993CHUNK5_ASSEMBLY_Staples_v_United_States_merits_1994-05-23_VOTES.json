@@ -1,0 +1,45 @@
+{
+  "Staples v. United States; No. 92-1441; 511 U.S. 600.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Instruction",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Knowledge of machinegun characteristics",
+        "support": [
+          "Stone",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ]
+      }
+    ]
+  }
+}

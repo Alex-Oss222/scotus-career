@@ -1,0 +1,57 @@
+{
+  "Custis v. United States; No. 93-5209; 511 U.S. 485.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "ACCA sentencing channel",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Statutory channel",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Constitutional channel and counsel exception",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

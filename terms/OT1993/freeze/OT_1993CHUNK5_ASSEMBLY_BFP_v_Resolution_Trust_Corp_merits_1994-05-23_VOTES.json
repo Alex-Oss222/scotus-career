@@ -1,0 +1,71 @@
+{
+  "BFP v. Resolution Trust Corp.; No. 92-1370; 511 U.S. 531.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Private buyers",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Imperial",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "No conclusive federal value",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Contextual valuation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

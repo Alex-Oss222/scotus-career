@@ -1,0 +1,45 @@
+{
+  "Nichols v. United States; No.92-8556; 511 U.S.738.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Present Guidelines use and sentence",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "oppose": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Defined Guidelines application permitted",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ]
+      }
+    ]
+  }
+}

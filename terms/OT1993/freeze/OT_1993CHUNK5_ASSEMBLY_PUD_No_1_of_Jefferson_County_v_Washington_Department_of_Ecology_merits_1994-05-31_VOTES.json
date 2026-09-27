@@ -1,0 +1,167 @@
+{
+  "PUD No. 1 of Jefferson County v. Washington Department of Ecology; No. 92-1911; 511 U.S. 700.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Conditioning reach",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Standards and uses",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Existing-use additional ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Allocation and licensing objections",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Activity-compliance scope",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Section 301 incorporation route",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Appropriate State-law incorporation route",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Designated uses and criteria",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Existing-use antidegradation ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Water-allocation savings",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Present federal-licensing objection",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+**Case and dockets:** Staples v. United States; No. 92-1441; 511 U.S. 600.
+**Event and date:** Merits decision; 1994-05-23.
+**Result:** Tenth Circuit reversed and remanded, 7–2.
+**Version / lineage:** Initial decision; supersedes no earlier adjudication. Prevalidation public-completeness pass carries the already considered complete-weapon definition and the expressly unadjudicated statutory branches/exclusions into the public entry; no adjudicative change; earlier draft bytes preserved in freeze/OT_1993CHUNK5_PREVALIDATION_STAPLES_PUBLIC_STATUTE.txt. Durable file preservation in the September 27, 2026 Run; operator Git commitment pending under the no-Git instruction.
+
+## Event, entering law and participation
+
+October Term 1993; argued November 30, 1993; merits decision May 23, 1994, on certiorari to the Tenth Circuit, 971 F.2d 608 (1992). The inventory supplies the decision calendar. No unrecorded grant date or grant vote is invented. All nine Justices were seated and participate at argument and decision; quorum six, judgment threshold five. Review concerns the preserved statutory instruction, not a search claim, a Second Amendment claim, or facial due-process invalidity.
+
+The jury convicted on one of two alleged machinegun counts. Testing supported automatic fire; Staples testified that he had not experienced it. The AR-15 had modified and substituted components. The instruction required voluntary possession of a recognized dangerous device but expressly dispensed with knowledge of the characteristics selecting the statutory class. Neither testimony nor the absence of an element finding establishes ultimate ignorance, harmlessness, or insufficiency.
+
+Entering law: the May 23 start-of-day baseline. Thompson/Center's actual making rule does not decide possession culpability. Ratzlaf (January 11) and Granderson (March 22) preserve their offense-specific constructions and residual lenity; neither creates a general illegality-knowledge element. The operative §5845(b) complete-weapon definition includes shooting, design to shoot, or ready restoration to shoot automatically more than one shot, without manual reloading, by a single trigger function. Its separate frame, receiver, conversion-part and assembly-parts branches are not decided here. The statutory antique exclusion and the Secretary's collector-item exclusion remain as enacted; the latter does not encompass a machinegun or destructive device. No party established such an exclusion for this rifle. Section 5871's ten-year maximum and $10,000 statutory fine are the pertinent enacted penalties, not a new sentence imposed here.
+
+## Stone's approved position and final compatibility
+
+The user's September 27, 2026 instruction expressly approves Section II as written. Assembly read the per-case mechanical Stone extract only after both Staples reconciliation handoffs were durable. The approved core requires factual-characteristic knowledge, reversal and ordinary further proceedings, permits circumstantial proof, rejects a legal-knowledge requirement and categorical public-welfare or gun-rights holdings, and preserves ordinary sufficiency/retrial constraints. The actual earlier law and fuller definitions do not displace that core; no renewed approval is necessary. No standing fallback is used for the presented component. Stone joins Thomas's entire bounded Court opinion. References to conceivable circumstantial evidence in his supplement do not become new facts about Staples.
+
+## Judgment, assignment and final writings
+
+Reverse the Tenth Circuit judgment and remand, 7–2: Stone, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; Blackmun and Stevens would affirm. Stone is in the judgment majority and assigns the Court opinion to Thomas for the precise National Firearms Act construction and compatible statutory rationale. This is an Engine assignment, not imported historical authorship. Thomas, Stone, Scalia, Kennedy and Souter join the rule and full explanation. Ginsburg writes separately, joined by O'Connor, on the narrow specialized-definition ground; no broader explanatory join is imputed. Stevens writes the dissent, joined by Blackmun. No circulated revision changes a non-Stone judgment or frozen ground.
+
+## Sources, cutoff and validation
+
+Research cutoff: immediately before May 23, 1994. The complete official U.S. Reports source is [511 U.S. 600](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511600/usrep511600.pdf), with record/instruction facts at pp.602–604 and 622–623; the [Archive docket collection](https://archive.org/details/micro_IA40385013_0386) supplies the actual United States merits brief and full definitions. Full report reading and extraction occurred in the separate source context. Lower-court judgment, dates, evidence and challenged instruction are historical facts; this judgment, assignment and joins are Engine adjudication. The full trial transcript was not recovered; no ultimate factual or error-review determination is invented. Thomas's unverified Harris panel participation is expressly unused.
+
+Neutral preflight, independent modeling, historical reconciliation, and assembly occurred in distinct authorized contexts. Local checks: nine participants; seven plus two judgment votes; five direct controlling joins; two narrower judgment concurrences; two dissenters; full statutory alternatives preserved; Stone core and remedy compatible. Holdings explanation and internal/Public Projection identity are checked by the assembly writer. Chunk-wide interface and preservation checks are recorded in OT_1993CHUNK5_VALIDATION.md when completed. This file is durably preserved for the dependent Posters event; Git execution and commit-object checks are deferred by user instruction.
+
+## Controlling holdings
+
+### Knowledge of the characteristics making this rifle a machinegun
+
+**Controlling proposition:** To convict a defendant under 26 U.S.C. §5861(d) for possessing an unregistered machinegun in the circumstances presented here, the Government must prove beyond a reasonable doubt that the defendant knew the characteristics bringing the rifle within the complete-weapon machinegun definition—a weapon that shoots, is designed to shoot, or can be readily restored to shoot automatically more than one shot, without manual reloading, by a single function of the trigger; circumstantial evidence may establish that knowledge. It need not prove knowledge of nonregistration, the registration requirement, or illegality, and the omitted-element instruction requires reversal and remand without a finding of evidentiary insufficiency or an order of acquittal.
+
+**Authority:** Thomas's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Souter, supplies five direct joins to this rule and its explanation. Ginsburg, joined by O'Connor, independently concurs in the judgment on the same narrow factual-knowledge requirement; the Court's authority does not depend on combining different rationales under Marks.
+
+**Controlling explanation:** The Court holds that knowledge must reach the characteristic distinguishing this machinegun from an ordinary semiautomatic rifle. Morissette v. United States preserves the traditional presumption of criminal fault when a statute is silent, and United States v. United States Gypsum Co. requires examination of the particular offense before dispensing with it. United States v. Freed concerned knowing possession of grenades and ignorance of their registration status; it did not resolve ignorance of the physical feature that places an otherwise ordinarily possessed rifle within this Act. The Government's reliance on a gun's dangerous character does not alone establish that Congress eliminated knowledge of that feature. Ordinary lawful rifle possession and the substantial statutory penalty support the narrower construction together; neither establishes a categorical rule for all dangerous objects or all felonies. Here the instruction expressly allowed conviction without knowledge of the defining characteristics. Staples's testimony does not establish that he lacked knowledge, and modifications or firing behavior may supply circumstantial proof. Further proceedings must apply the correct requirement while preserving ordinary sufficiency and retrial constraints.
+
+**Precedent treatment:**
+
+- Morissette v. United States, 342 U.S. 246 (1952): applies the presumption of criminal fault despite statutory silence.
+- United States v. United States Gypsum Co., 438 U.S. 422 (1978): applies contextual examination before dispensing with fault.
+- United States v. Freed, 401 U.S. 601 (1971): distinguishes knowledge of the object's regulated characteristics from knowledge of nonregistration; its registration holding remains intact.
+- United States v. Balint, 258 U.S. 250 (1922): preserves the bounded public-welfare category without extending its narcotics construction automatically to this rifle.
+- Ratzlaf v. United States, January 11, 1994: distinguishes its express-willfulness and knowledge-of-illegality rule; no universal legal-knowledge requirement follows.
+- United States v. Thompson/Center Arms Co., June 8, 1992: leaves its making rule and limited parts-package disposition unchanged; neither decides this possession element.
+
+## Continuity — published noncontrolling positions
+
+Ginsburg, joined by O'Connor, concurs in the judgment. The relevant knowledge concerns the feature that makes the possessed rifle a machinegun under the Act's specialized definition. Knowing that an object is a gun is distinct from knowing that it has the regulated characteristics, just as factual knowledge is distinct from knowing the registration law. The narrower statutory ground suffices without declaring that serious penalties invariably prevent public-welfare treatment. Circumstantial evidence remains available, and neither the statute's validity nor Staples's ultimate knowledge is decided.
+
+Stevens, joined by Blackmun, dissents. In their view, the instruction required knowing and voluntary possession of an object recognized as a dangerous weapon likely to be regulated, which supplies the culpability appropriate to this regulatory statute under Balint and Freed. Their construction does not punish innocent misidentification of a toy or other harmless object, but it does not require knowledge of every feature triggering registration. They would affirm on the preserved instruction question, without finding that Staples actually knew the rifle could fire automatically.
+
+## Adaptive audit annex
+
+The independent [Staples commitments](../freeze/OT_1993CHUNK5_COMMITMENTS_STAPLES.md) and [statutory-completion refreeze](../freeze/OT_1993CHUNK5_COMMITMENTS_STAPLES_SOURCE_COMPLETION.md) preceded the [reconciled handoff](../freeze/OT_1993CHUNK5_RECONCILED_STAPLES.md) and [completion reconciliation](../freeze/OT_1993CHUNK5_RECONCILED_STAPLES_SOURCE_COMPLETION.md). The source context's exposure to historical reports is disclosed; it supplied no independent model. The historical comparator confirms all eight non-Stone judgments and the narrower O'Connor/Ginsburg explanatory scope. Stone replaces Rehnquist with the same judgment; no material historical departure or new common explanatory join is asserted.
+
+| Justice | Frozen ground and final compatibility |
+|---|---|
+| Blackmun | Affirm under the bounded dangerous-device rule; Sipes and his preserved regulatory-offense distinction support it. Joins Stevens only with knowing possession and innocent-misidentification limits retained. |
+| Stevens | Affirm under Balint/Freed regulatory notice; his Gypsum/Liparota and current-term positions leave that category open. Authored ground preserves knowing possession, not an ultimate knowledge finding. |
+| O'Connor | Reverse for knowledge of the defining characteristic; Thompson/Center and her current Granderson position support precise penal construction. Joins Ginsburg's narrow concurrence, not a general felony/public-welfare proposition. |
+| Scalia | Reverse under factual-knowledge presumption; Morissette/Gypsum and his Ratzlaf/Granderson statutory distinctions support the bounded Court explanation. Full join. |
+| Kennedy | Reverse for knowledge of the feature selecting the statutory class; Ratzlaf and his distinct Granderson reasoning preserve separate elements and penal measures. Full bounded join. |
+| Souter | Reverse; Thompson/Center and his Ratzlaf/Granderson positions distinguish definitions and residual ambiguity. Full join retaining all pertinent statutory alternatives. |
+| Thomas | Reverse under the unrebutted factual-knowledge presumption for this statute. His different Ratzlaf/Granderson conclusions concern different text. Authors bounded Court opinion; Harris attribution unused. |
+| Ginsburg | Reverse on specialized statutory definition and factual knowledge; her actual Ratzlaf/Granderson writings support distinct mental-state components. Narrow concurrence, joined by O'Connor; no categorical felony rule. |
+
+The enhanced independent comparison tests the characteristics-knowledge path against the strongest regulatory-notice counterargument and the dangerous-device path against ordinary lawful rifle ownership and the unknown selecting characteristic. Final compatibility needs no invented circulation dialogue or changed commitment. No Marks aggregation is required. There is no automatic acquittal, new trial command, registration-law invalidation, or finding of knowledge. The present case supplies entering law to Posters only through the inventory's express sequence.
+
+## Public Projection
+
+## Event
+
+Staples v. United States, No. 92-1441, 511 U.S. 600. Argued November 30, 1993; decided May 23, 1994. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 971 F.2d 608 (1992), which affirmed conviction after rejecting a requested knowledge-of-characteristics instruction. The question is whether §5861(d) requires knowledge of the characteristics making this rifle a statutory machinegun.
+
+Render form: compact. Basis: 7–2 judgment with no material change to the historical judgment, controlling proposition, non-Stone positions, remedy or precedent treatment; the Chief's substitution and assignment do not themselves require full form.
+
+## Participation
+
+All nine Justices participate: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+## Public Action
+
+The Court reverses the Tenth Circuit's judgment and remands, 7–2.
+
+## Judgment & Remedy
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Preserved §5861(d) instruction | Reverse and remand, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Blackmun, Stevens | Correct factual-knowledge requirement; ordinary sufficiency and retrial constraints remain. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope |
+|---|---|---|---|---|
+| Opinion of the Court | Thomas | Stone-Zsela, Scalia, Kennedy, Souter | Reverse and remand | Entire bounded statutory opinion; five direct joins. |
+| Concurrence in the judgment | Ginsburg | O'Connor | Reverse and remand | Narrow factual-knowledge requirement under the specialized definition; no broader whole-opinion join. |
+| Dissent | Stevens | Blackmun | Would affirm | Dangerous-device construction retaining knowing possession. |
+
+## Holdings
+
+### Knowledge of the characteristics making this rifle a machinegun
+
+**Controlling proposition:** To convict a defendant under 26 U.S.C. §5861(d) for possessing an unregistered machinegun in the circumstances presented here, the Government must prove beyond a reasonable doubt that the defendant knew the characteristics bringing the rifle within the complete-weapon machinegun definition—a weapon that shoots, is designed to shoot, or can be readily restored to shoot automatically more than one shot, without manual reloading, by a single function of the trigger; circumstantial evidence may establish that knowledge. It need not prove knowledge of nonregistration, the registration requirement, or illegality, and the omitted-element instruction requires reversal and remand without a finding of evidentiary insufficiency or an order of acquittal.
+
+**Authority:** Thomas's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Souter, supplies five direct joins to this rule and its explanation. Ginsburg, joined by O'Connor, independently concurs in the judgment on the same narrow factual-knowledge requirement; the Court's authority does not depend on combining different rationales under Marks.
+
+**Controlling explanation:** The Court holds that knowledge must reach the characteristic distinguishing this machinegun from an ordinary semiautomatic rifle. Morissette v. United States preserves the traditional presumption of criminal fault when a statute is silent, and United States v. United States Gypsum Co. requires examination of the particular offense before dispensing with it. United States v. Freed concerned knowing possession of grenades and ignorance of their registration status; it did not resolve ignorance of the physical feature that places an otherwise ordinarily possessed rifle within this Act. The Government's reliance on a gun's dangerous character does not alone establish that Congress eliminated knowledge of that feature. Ordinary lawful rifle possession and the substantial statutory penalty support the narrower construction together; neither establishes a categorical rule for all dangerous objects or all felonies. Here the instruction expressly allowed conviction without knowledge of the defining characteristics. Staples's testimony does not establish that he lacked knowledge, and modifications or firing behavior may supply circumstantial proof. Further proceedings must apply the correct requirement while preserving ordinary sufficiency and retrial constraints.
+
+**Precedent treatment:**
+
+- Morissette v. United States, 342 U.S. 246 (1952): applies the presumption of criminal fault despite statutory silence.
+- United States v. United States Gypsum Co., 438 U.S. 422 (1978): applies contextual examination before dispensing with fault.
+- United States v. Freed, 401 U.S. 601 (1971): distinguishes knowledge of the object's regulated characteristics from knowledge of nonregistration; its registration holding remains intact.
+- United States v. Balint, 258 U.S. 250 (1922): preserves the bounded public-welfare category without extending its narcotics construction automatically to this rifle.
+- Ratzlaf v. United States, January 11, 1994: distinguishes its express-willfulness and knowledge-of-illegality rule; no universal legal-knowledge requirement follows.
+- United States v. Thompson/Center Arms Co., June 8, 1992: leaves its making rule and limited parts-package disposition unchanged; neither decides this possession element.
+
+## Precedent Treatment
+
+The Court applies Morissette and Gypsum's contextual presumption of factual culpability and distinguishes Freed's registration question and Balint's narcotics setting. Ratzlaf remains confined to its express willfulness provision; Thompson/Center's making rule and Granderson's March 22, 1994 residual-lenity construction remain unchanged. No precedent is overruled.
+
+## Law After Decision
+
+The separate statutory branches include a machinegun's frame or receiver, a part designed and intended solely and exclusively for conversion, a combination of parts designed and intended for conversion, and parts from which a machinegun can be assembled when possessed or controlled by one person. Those branches are unadjudicated. Section 5845(a) excludes antique firearms and also devices, other than machineguns or destructive devices, that the Secretary finds from manufacture date, value, design and other characteristics primarily to be collector's items unlikely to be used as weapons. No such exclusion is established or adjudicated for this rifle; the antique definition and other devices are not expanded here.
+
+For this machinegun-possession offense, knowledge must include the defining characteristics, while legal and registration knowledge remain unnecessary. The Court does not decide other National Firearms Act devices, the independent frame/receiver/parts branches, a Second Amendment claim, facial statutory validity, ultimate knowledge, evidentiary sufficiency, or a particular harmless-error result. The rifle's modifications and firing behavior may be considered as evidence under the lawful standard, but no inference is directed.
+
+## Separate Writings
+
+Ginsburg, joined by O'Connor, concurs in the judgment. The relevant knowledge concerns the feature that makes the possessed rifle a machinegun under the Act's specialized definition. Knowing that an object is a gun is distinct from knowing that it has the regulated characteristics, just as factual knowledge is distinct from knowing the registration law. The narrower statutory ground suffices without declaring that serious penalties invariably prevent public-welfare treatment. Circumstantial evidence remains available, and neither the statute's validity nor Staples's ultimate knowledge is decided.
+
+Stevens, joined by Blackmun, dissents. In their view, the instruction required knowing and voluntary possession of an object recognized as a dangerous weapon likely to be regulated, which supplies the culpability appropriate to this regulatory statute under Balint and Freed. Their construction does not punish innocent misidentification of a toy or other harmless object, but it does not require knowledge of every feature triggering registration. They would affirm on the preserved instruction question, without finding that Staples actually knew the rifle could fire automatically.
+
+## Procedure After Action
+
+The case returns through the Tenth Circuit for further proceedings consistent with the correct knowledge requirement. The Court orders no acquittal, fixes no sentence, and neither mandates a retrial nor resolves any properly available sufficiency or error-review issue. The registration law remains in force.
+
+## Source Notes
+
+The official [United States Reports, 511 U.S. 600](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511600/usrep511600.pdf) supplies the dates, record, and challenged instruction; the [docket's records and briefs](https://archive.org/details/micro_IA40385013_0386) supply the Government's submission and statutory text. The full underlying trial transcript is not supplied, and the account makes no ultimate finding of knowledge or error harmlessness. No decisional quotation is asserted.

@@ -1,0 +1,3 @@
+# Staples — reconciliation of source-completion refreeze
+
+Read with `OT_1993CHUNK5_RECONCILED_STAPLES.md`. Before delivery to assembly, the reconciliation context read `OT_1993CHUNK5_COMMITMENTS_STAPLES_SOURCE_COMPLETION.md`, the model's separately preserved pre-comparator refreeze applying the complete §5845(a)/(b) definitions and exceptions. It confirms every judgment, ground, remedy and join boundary without change. The reconciled handoff already addresses those exact definition branches, exclusions, and the complete-rifle scope. No additional reconciliation change is required. No Stone material was received. All eight non-Stone judgments remain matched to verified history, and the narrow Ginsburg/O'Connor explanatory boundaries remain preserved.

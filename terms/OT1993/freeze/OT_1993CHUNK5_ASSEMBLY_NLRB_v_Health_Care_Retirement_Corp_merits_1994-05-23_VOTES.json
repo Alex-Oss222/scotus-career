@@ -1,0 +1,45 @@
+{
+  "NLRB v. Health Care & Retirement Corp. of America; No. 92-1964; 511 U.S. 571.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Supervisory status",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Permissible construction and application",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "case": "Staples",
+  "status": "local assembly checks passed; available for explicit dependent event",
+  "nine_participants": true,
+  "judgment": "7-2",
+  "court_reasoning_joins": 5,
+  "holding_identity": true,
+  "explanation_words": [
+    174
+  ],
+  "sha256": "ba473639e2ab81e32277dd7140c22f74932333236298880a3a591898d12e7e57",
+  "git": "not invoked; operator commitment pending"
+}

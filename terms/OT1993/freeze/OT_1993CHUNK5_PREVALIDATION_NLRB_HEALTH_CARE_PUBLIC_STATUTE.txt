@@ -1,0 +1,133 @@
+**Case and dockets:** NLRB v. Health Care & Retirement Corp. of America; No. 92-1964; 511 U.S. 571.
+**Event and date:** Merits decision; 1994-05-23.
+**Result:** The Sixth Circuit is reversed on the supervisory-status issue and the case remanded, 5–4.
+**Version / lineage:** Initial decision; supersedes no earlier adjudication. Prevalidation clerical citation-date correction (Boston & Maine Corp., June 22, 1992 to Boston & Maine Corp., March 25, 1992); no adjudicative change; earlier draft bytes preserved in freeze/OT_1993CHUNK5_PREVALIDATION_NLRB_HEALTH_CARE_CITATION.txt. Durable file preservation in the September 27, 2026 Run; operator Git commitment pending under the no-Git instruction.
+
+## Event, participation, statute and entering law
+
+Research cutoff: immediately before May 23, 1994. No.92-1964; argued February 22, 1994; certiorari to the Sixth Circuit, 987 F.2d 1256. All nine participate, quorum six and majority five. The case concerns the Board's supervisory-status ground for protecting four licensed practical nurses. The administrative findings describe limited direction, patterned assignments, aides' own coverage arrangements and available administrators. Employer descriptions of staffing, counseling, evaluation and reporting are considered as descriptions, not conclusive new judicial findings. The agency's counsel did not concede a categorical nurse-only exemption.
+
+Section 2(11)'s alternatives are authority to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward or discipline other employees, responsibly direct them, adjust their grievances, or effectively recommend such action. A listed authority must be in the employer's interest and require independent judgment rather than merely routine or clerical exercise. Possession matters even if infrequently exercised. Sections 2(3), 2(12) and 9(b) supply the employee/professional structure; these technical LPNs need not themselves satisfy the professional definition. Actual Lechmere, Boston & Maine, John Hancock, ABF and City of Chicago govern within their own scopes. No earned-weight doctrine or later supervisory test enters.
+
+## Stone, compatibility, assignment and remedy
+
+Only after the reconciled handoff was frozen did assembly read Stone's approved second revision. His primary mandatory construction receives no additional full-framework join. Blackmun, Stevens, Souter and Ginsburg retain their frozen permissible-interpretation ground and do not undertake to bind every future Board to Stone's complete construction. His express Option 4 fallback therefore activates: Stone joins their narrower ground directly and sustains the supported employee-status determination. This is a specified substantive fallback, not the standing silence fallback. The primary reasoning is preserved in his separate concurrence, not silently deleted or promoted into Court law.
+
+Stone, in the five-Justice judgment majority, assigns Ginsburg the Court opinion. Blackmun, Stevens and Souter join it; Stone joins without reservation on its permissible scope. Kennedy authors the four-Justice dissent; O'Connor, Scalia and Thomas join. No frozen non-Stone vote or ground changes. Reverse the Sixth Circuit insofar as it rejected the Board's interpretation and employee-status determination; remand for enforcement consequences and independently unresolved issues. Protected status alone does not establish protected conduct, every unfair labor practice, backpay or another remedy. The Court does not salvage the order through a separately invented independent-judgment rationale.
+
+## Source and validation
+
+The source context read the complete official 511 U.S.571–599 report and the complete statutory account; it supplied sanitized facts to a separate model. The preflight removed a private advocacy sentence from the derived packet without modifying the approved brief or canonical runtime split. Neither the independent model nor reconciliation received Stone. Counts reconcile at five to four, with five direct permissible-construction joins and one noncontrolling mandatory-construction position. No Marks aggregation is necessary. File preservation replaces Git execution under the user's instruction.
+
+## Controlling holdings
+
+### The Board may distinguish skilled direction from genuine supervisory authority
+
+**Controlling proposition:** The Board permissibly interprets NLRA §2(11), in the context of the Act's protection of skilled and professional employees, to distinguish direction incidental to skilled patient care from genuine supervisory authority exercised for the employer. On this record, its functional construction and supported determination that the four licensed practical nurses are employees must be sustained; no occupational exemption or independent judicial substitute for the agency's rationale is adopted.
+
+**Authority:** Ginsburg's Opinion of the Court is joined by Stone-Zsela, Blackmun, Stevens and Souter. All five directly adopt the permissible-construction ground; Stone-Zsela's proposed mandatory construction appears only in his concurrence.
+
+**Controlling explanation:** The Court holds that the employer's economic benefit from patient care does not alone answer whether skilled direction constitutes supervisory authority. Sections 2(3), 2(11), 2(12) and 9(b) preserve both employee coverage and genuine supervisory exclusion. Fall River Dyeing requires respect for a rational Board construction consistent with that scheme and an application supported by substantial evidence. Yeshiva University recognizes that professional and institutional interests can coincide, while distinguishing ordinary professional work from management; its managerial exclusion does not replace this statutory inquiry. The Board examined limited direction, established assignment patterns and administrators' continuing availability, rather than relying on a nursing title. Those findings make its functional rationale discernible under Chenery and Boston & Maine. The opposing reading risks making ordinary skilled instruction itself a supervisory role. Yet the Board may not discard assigning or responsibly directing, demand hiring power in every case, or deny that professional judgment can be independent judgment. Lechmere's statutory limits remain. The Court sustains this permissible interpretation, without holding it the only lawful construction or supplying an unpresented alternative independent-judgment ground.
+
+**Precedent treatment:**
+
+- Fall River Dyeing & Finishing Corp. v. NLRB, 482 U.S. 27 (1987): applies review for rational interpretation consistent with the Act and substantial evidentiary support.
+- NLRB v. Yeshiva University, 444 U.S. 672 (1980): uses its distinction between ordinary professional duties and management, while preserving professional/institutional overlap and the separate managerial question.
+- Lechmere, Inc. v. NLRB, January 27, 1992: preserves binding statutory boundaries; it does not settle this classification tension.
+- SEC v. Chenery Corp., 318 U.S. 80 (1943), and National Railroad Passenger Corp. v. Boston & Maine Corp., March 25, 1992: permit reliance on the agency's discernible actual rationale, not an invented substitute.
+- Packard Motor Car Co. v. NLRB, 330 U.S. 485 (1947): distinguishes its pre-amendment employer-interest discussion from the later statutory definition.
+- ABF Freight System, Inc. v. NLRB, January 24, 1994: preserves Board judgment within an enacted delegation, without authorizing disregard of statutory text.
+
+## Continuity — published noncontrolling positions
+
+Stone-Zsela concurs, joining the entire permissible-construction opinion. He would also hold that the statutory scheme requires the distinction between professional or technical direction and actual delegated supervisory authority. The inquiry begins with a listed function, identifies the decisions the employer authorized, examines their practical scope, and asks whether exercising that authority requires independent rather than routine or clerical judgment. Those considerations implement the statutory conditions; they do not require hiring, firing, policy control, a fixed percentage of supervisory work, or a particular personal sanction. A charge nurse's reallocation of aides may involve both clinical and supervisory judgment, so the actual delegation matters. Professional judgment can satisfy independent judgment when genuine supervisory authority exists; it cannot establish that authority by itself. The four employees are licensed practical nurses, and their protection does not depend on classifying them as registered professionals. The agency's actual limited-role findings support its result. If it had rested exclusively on the assertion that patient care never benefits the employer, Chenery would require remand rather than judicial repair. His mandatory construction has no other joins and does not bind later Boards; the Court's adopted rule permits the Board's present interpretation.
+
+Kennedy dissents, joined by O'Connor, Scalia and Thomas. Providing patient care is the nursing home's business, and authority exercised to provide it serves the employer's interest even when professional norms also guide the nurse. The statute separately requires a listed supervisory function and independent judgment, which can preserve employee coverage without an additional exclusion from employer interest. They would affirm the Sixth Circuit's refusal of enforcement on the legal ground presented. They do not hold that every nurse is a supervisor or decide an alternative classification ground the Board did not present. In their view, the statutory objection cannot be answered by describing the same direction as incidental professional work when it otherwise satisfies the enacted definition.
+
+## Adaptive audit annex
+
+The frozen [independent commitments](../freeze/OT_1993CHUNK5_COMMITMENTS_NLRB_HEALTH_CARE.md) and [reconciliation](../freeze/OT_1993CHUNK5_RECONCILED_NLRB_HEALTH_CARE.md) preceded exposure of the case-specific Stone supplement. The reconciliation records source support, both competing paths, and the preserved narrower positions; assembly changes no frozen non-Stone disposition.
+
+| Justice | Frozen ground and final join |
+|---|---|
+| Blackmun | Reverse on rational functional construction and supported limited-role findings; joins Ginsburg, not a mandatory new supervisory formula. |
+| Stevens | Reverse under delegated Board judgment within statutory categories; joins permissible construction only. |
+| O'Connor | Affirm on employer-interest text while retaining the separate function and independent-judgment conditions; joins Kennedy. |
+| Scalia | Affirm because the Board cannot exclude patient-care direction from enacted employer interest; joins dissent without new all-professionals rule. |
+| Kennedy | Affirm the presented ground; authors the dissent and reserves other statutory elements or agency theories not presented. |
+| Souter | Reverse under a permissible role distinction, not a claim patient care lacks business benefit; joins the Court. |
+| Thomas | Affirm within Lechmere/text limits; joins dissent retaining all three statutory conditions. |
+| Ginsburg | Reverse; authors the contextual employee/professional-coverage opinion, supported by LPN findings and full counsel explanation. |
+
+**Historical departure:** Stone's approved reversal and express permissible-construction fallback supply a fifth vote for the position Blackmun, Stevens, Souter and Ginsburg independently retain. The historical affirmance and rejected Board construction become reversal and a controlling permissible-construction rule. Every non-Stone judgment and sufficient ground remains historically supported; no changed factual premise or new non-Stone join is invented. The new controlling status follows from the changed fifth vote. Stone's stronger mandatory rule has one vote only.
+
+## Public Projection
+
+## Event
+
+NLRB v. Health Care & Retirement Corp. of America, No. 92-1964, 511 U.S. 571. Argued February 22, 1994; decided 1994-05-23. On certiorari to the Sixth Circuit, 987 F.2d 1256, which refused enforcement on the supervisory-status ground. The question is whether the Board may distinguish skilled patient-care direction from genuine supervisory authority.
+
+Render form: full. Basis: 5–4 judgment and material change in disposition and controlling statutory interpretation.
+
+## Participation
+
+All nine Justices participate: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+## Public Action
+
+The Sixth Circuit is reversed on the supervisory-status issue and the case remanded, 5–4.
+
+## Judgment & Remedy
+
+| Component | Disposition | For | Against | Remedy |
+|---|---|---|---|---|
+| Supervisory-status construction and determination | Reverse and remand, 5–4 | Stone, Blackmun, Stevens, Souter, Ginsburg | O'Connor, Scalia, Kennedy, Thomas | Give effect to the supported Board employee-status determination and resolve independently remaining issues. |
+
+## Opinion Topology
+
+| Writing | Author | Joins | Scope |
+|---|---|---|---|
+| Opinion of the Court | Ginsburg | Stone-Zsela, Blackmun, Stevens, Souter | Permissible functional construction and its supported application; five direct joins. |
+| Concurrence | Stone-Zsela | None | Would also require the limiting statutory distinction; joins the Court's narrower rule. |
+| Dissent | Kennedy | O'Connor, Scalia, Thomas | Would affirm the employer-interest ruling, reserving other unpresented grounds. |
+
+## Holdings
+
+### The Board may distinguish skilled direction from genuine supervisory authority
+
+**Controlling proposition:** The Board permissibly interprets NLRA §2(11), in the context of the Act's protection of skilled and professional employees, to distinguish direction incidental to skilled patient care from genuine supervisory authority exercised for the employer. On this record, its functional construction and supported determination that the four licensed practical nurses are employees must be sustained; no occupational exemption or independent judicial substitute for the agency's rationale is adopted.
+
+**Authority:** Ginsburg's Opinion of the Court is joined by Stone-Zsela, Blackmun, Stevens and Souter. All five directly adopt the permissible-construction ground; Stone-Zsela's proposed mandatory construction appears only in his concurrence.
+
+**Controlling explanation:** The Court holds that the employer's economic benefit from patient care does not alone answer whether skilled direction constitutes supervisory authority. Sections 2(3), 2(11), 2(12) and 9(b) preserve both employee coverage and genuine supervisory exclusion. Fall River Dyeing requires respect for a rational Board construction consistent with that scheme and an application supported by substantial evidence. Yeshiva University recognizes that professional and institutional interests can coincide, while distinguishing ordinary professional work from management; its managerial exclusion does not replace this statutory inquiry. The Board examined limited direction, established assignment patterns and administrators' continuing availability, rather than relying on a nursing title. Those findings make its functional rationale discernible under Chenery and Boston & Maine. The opposing reading risks making ordinary skilled instruction itself a supervisory role. Yet the Board may not discard assigning or responsibly directing, demand hiring power in every case, or deny that professional judgment can be independent judgment. Lechmere's statutory limits remain. The Court sustains this permissible interpretation, without holding it the only lawful construction or supplying an unpresented alternative independent-judgment ground.
+
+**Precedent treatment:**
+
+- Fall River Dyeing & Finishing Corp. v. NLRB, 482 U.S. 27 (1987): applies review for rational interpretation consistent with the Act and substantial evidentiary support.
+- NLRB v. Yeshiva University, 444 U.S. 672 (1980): uses its distinction between ordinary professional duties and management, while preserving professional/institutional overlap and the separate managerial question.
+- Lechmere, Inc. v. NLRB, January 27, 1992: preserves binding statutory boundaries; it does not settle this classification tension.
+- SEC v. Chenery Corp., 318 U.S. 80 (1943), and National Railroad Passenger Corp. v. Boston & Maine Corp., March 25, 1992: permit reliance on the agency's discernible actual rationale, not an invented substitute.
+- Packard Motor Car Co. v. NLRB, 330 U.S. 485 (1947): distinguishes its pre-amendment employer-interest discussion from the later statutory definition.
+- ABF Freight System, Inc. v. NLRB, January 24, 1994: preserves Board judgment within an enacted delegation, without authorizing disregard of statutory text.
+
+## Precedent Treatment
+
+The treatments and present force of materially used authorities are stated with each holding below. No precedent is overruled.
+
+## Law After Decision
+
+The Board's functional construction is permissible, not compulsory for all future Boards. Each statutory function remains available as an alternative; hiring or firing is unnecessary if another listed authority is established. Employer interest, genuine authority and nonroutine independent judgment remain necessary. No occupational exemption, denial of professional judgment's possible independence, or automatic remedy follows.
+
+## Separate Writings
+
+Stone-Zsela concurs, joining the entire permissible-construction opinion. He would also hold that the statutory scheme requires the distinction between professional or technical direction and actual delegated supervisory authority. The inquiry begins with a listed function, identifies the decisions the employer authorized, examines their practical scope, and asks whether exercising that authority requires independent rather than routine or clerical judgment. Those considerations implement the statutory conditions; they do not require hiring, firing, policy control, a fixed percentage of supervisory work, or a particular personal sanction. A charge nurse's reallocation of aides may involve both clinical and supervisory judgment, so the actual delegation matters. Professional judgment can satisfy independent judgment when genuine supervisory authority exists; it cannot establish that authority by itself. The four employees are licensed practical nurses, and their protection does not depend on classifying them as registered professionals. The agency's actual limited-role findings support its result. If it had rested exclusively on the assertion that patient care never benefits the employer, Chenery would require remand rather than judicial repair. His mandatory construction has no other joins and does not bind later Boards; the Court's adopted rule permits the Board's present interpretation.
+
+Kennedy dissents, joined by O'Connor, Scalia and Thomas. Providing patient care is the nursing home's business, and authority exercised to provide it serves the employer's interest even when professional norms also guide the nurse. The statute separately requires a listed supervisory function and independent judgment, which can preserve employee coverage without an additional exclusion from employer interest. They would affirm the Sixth Circuit's refusal of enforcement on the legal ground presented. They do not hold that every nurse is a supervisor or decide an alternative classification ground the Board did not present. In their view, the statutory objection cannot be answered by describing the same direction as incidental professional work when it otherwise satisfies the enacted definition.
+
+## Procedure After Action
+
+The Sixth Circuit must give effect to the supported employee-status determination and address any independently preserved remaining issues. The Court awards no backpay and does not determine every element of protected conduct or unfair labor practice.
+
+## Source Notes
+
+The complete official [United States Reports, 511 U.S. 571](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511571/usrep511571.pdf) supplies the administrative findings, statute, lower-court posture and counsel's complete explanation. The four nurses are licensed practical nurses; no registered-professional status is assumed.

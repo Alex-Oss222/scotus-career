@@ -1,0 +1,108 @@
+# Public authority reading copy
+
+Derived from the completed Record. Its effective date and scope govern; no private material is included.
+
+## Event
+
+Waters v. Churchill, No.92-1450, 511 U.S.661. Argued December 1, 1993; decided May 31, 1994. On certiorari to the Seventh Circuit, 977 F.2d1114, which reversed defendants' summary judgment under an actual-speech rule. The questions concern mistaken employer accounts, actual retaliatory cause, and the proper remand.
+
+
+## Participation
+
+All nine Justices participate: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+## Public Action
+
+The Seventh Circuit's judgment is vacated and the case remanded, 7–2. Defendants' summary judgment remains set aside because the actual ground for discharge is materially disputed.
+
+## Judgment & Remedy
+
+| Component | Disposition and vote | For | Other position | Consequence |
+|---|---|---|---|---|
+| Categorical appellate factual-error rule and mandate | Vacate and remand, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Blackmun, Stevens would affirm reversal and remand under actual-speech rule | Defendants' summary judgment remains set aside; genuine reliance/motive and protection of causally relevant other speech remain. |
+| Personal immunity, municipal policy/custom and final relief | No final merits disposition on these matters | No immunity or damages award | No revived association claim | Immunity remains available for consideration if necessary; ungranted municipal issue not reached. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Exact scope |
+|---|---|---|---|
+| Opinion announcing judgment; plurality | O'Connor | Stone-Zsela, Souter, Ginsburg | Full objective-care framework and conditional application; four joins, no complete Opinion of the Court. |
+| Concurrence | Souter | None | Genuine belief, limited endpoint agreements and unraised excessiveness observation. |
+| Concurrence in judgment | Scalia | Kennedy, Thomas | Genuine permissible ground; no independent inquiry duty; accepts sufficient safe harbor and remand. |
+| Dissent | Stevens | Blackmun | Actual protected speech; would affirm and remand; accepts unreasonable-false-protected-speech endpoint. |
+
+## Holdings
+
+### A genuine, reasonable account of disciplinable speech supplies a limited safe harbor
+
+**Controlling proposition:** A public employer does not violate the employee's substantive speech right by disciplining her because of a genuinely held, objectively reasonable account of speech that the Pickering–Connick balance permits it to discipline, even if that account is later shown mistaken. The protection requires actual reliance on the permissible ground; it does not protect a reasonable investigation used to conceal retaliation for different protected speech.
+
+**Authority:** O'Connor's plurality opinion, joined by Stone-Zsela, Souter and Ginsburg, adopts this sufficient condition; Scalia's concurrence in the judgment, joined by Kennedy and Thomas, expressly accepts it under their broader genuine-ground rule. Seven Justices agree at this precise level; only four adopt the full objective-inquiry framework.
+
+**Controlling explanation:** The Court's common rule permits reliance on a genuine, reasonable account without requiring perfect reconstruction of a workplace conversation. Pickering balances protected public criticism against effective public service, and Connick permits reasonable forecasts of disruption in the actual employment setting. An employer need not await a breakdown, but the account must describe speech the legal balance permits it to discipline. Givhan protects private expression without eliminating the relevance of its manner, time and place. These principles do not protect an asserted belief that was not the real reason for discharge. Mt. Healthy requires attention to actual causation rather than a reason that merely could have justified the result. Here the reported attack on supervisory authority and discouragement of transfer could permissibly prompt discipline because of its threatened disruption, even assuming some public-concern value. That conditional legal conclusion neither finds the reported words true nor establishes genuine reliance. The separate patient-care criticism and asserted management hostility leave the actual basis for discharge disputed.
+
+**Precedent treatment:**
+
+- Pickering v. Board of Education, 391 U.S. 563 (1968): applies the public-employee speech balance, adding this limited factual-error permission.
+- Connick v. Myers, 461 U.S. 138 (1983): applies contextual public-concern analysis and reasonable prospective assessment of institutional disruption; personal embarrassment alone is insufficient.
+- Givhan v. Western Line Consolidated School District, 439 U.S. 410 (1979): preserves private speech protection and the relevance of manner, time and place.
+- Mt. Healthy City Board of Education v. Doyle, 429 U.S. 274 (1977): preserves actual causation; a potentially permissible ground is not proof of the ground actually used.
+
+### An unreasonable false account cannot defeat actually protected speech
+
+**Controlling proposition:** Discipline because of an unreasonable and incorrect report of speech that was actually protected violates the substantive speech right when the protected speech bears the required causal relation to the action, subject to distinct causation defenses and remedial immunity. This agreement does not establish liability for every investigative imperfection, for an unreasonable report of actually unprotected speech, or without proof of the underlying protected conduct and causal action.
+
+**Authority:** O'Connor, Stone-Zsela, Souter and Ginsburg accept this proposition under objective factual care; Stevens's dissent, joined by Blackmun, expressly accepts it under their broader actual-speech rule. Six Justices agree on this proposition, but the two dissenters do not join the reasonable-error safe harbor or the judgment vacating the appellate rule.
+
+**Controlling explanation:** The controlling agreement preserves protection when a public employer acts against protected speech on an unreasonable false account. Pickering does not permit public-concern criticism to be displaced merely by calling it disruptive; the institutional justification must answer the legally relevant speech. Givhan prevents private delivery from eliminating that protection, while Connick requires attention to content, form and context. The competing concern for workable management cannot justify the combined assumptions of an unreasonable report and actually protected speech that caused the adverse action. At the same time, this proposition concerns substantive suppression, not an employment hearing guaranteed by Roth. A flawed interview alone proves neither protected speech nor causation, and disagreement over witnesses does not itself establish unreasonableness. Mt. Healthy retains the employee's motivating-factor showing and the employer's separate same-decision defense. No damages follow automatically: the facts remain disputed and individual immunity has its own requirements. The Court does not combine this agreement with the separate safe harbor to attribute a complete investigatory theory to all six Justices.
+
+**Precedent treatment:**
+
+- Pickering, Connick and Givhan: preserve the substantive protection of the actual public-concern speech within the employment balance.
+- Board of Regents v. Roth, 408 U.S. 564 (1972): distinguishes a property-based hearing entitlement from this substantive speech claim.
+- Mt. Healthy, 429 U.S. 274 (1977): retains the distinct causation and same-decision requirements; unreasonableness alone is not an automatic recovery rule.
+
+### The motive dispute requires remand without restoring defendants' summary judgment
+
+**Controlling proposition:** The Seventh Circuit's categorical actual-words rule is vacated, but defendants' summary judgment remains set aside because genuine reliance and retaliation for other protected criticism are materially disputed. On remand the employee must show protected conduct was a substantial or motivating factor; the employer may prove by a preponderance that the same decision would have occurred without it, and individual qualified immunity remains available and, if necessary, must be assessed as a distinct defense under the law relevant to the 1987 conduct.
+
+**Authority:** O'Connor's four-Justice plurality and Scalia's three-Justice concurrence in the judgment support this common vacatur and limited remand. Blackmun and Stevens would affirm the appellate reversal under their different actual-speech rule; their votes are not counted as support for vacatur.
+
+**Controlling explanation:** The Court remands because a permissible reported account does not establish that management actually acted upon it. Churchill's evidence concerning earlier patient-care criticism, cross-training disputes and management hostility supports an inference that protected expression, rather than the reported personal attack, prompted discharge. The Court does not resolve that inference against her on summary judgment. Mt. Healthy requires a proved same-decision defense, not a showing that another ground could have justified dismissal; Givhan preserves that distinction for private criticism. If different statements caused discharge, their protection must be assessed under Pickering and Connick. The competing grounds for vacatur do not require reopening the completed investigation's objective adequacy; genuine reliance and motive remain unresolved under both judgment-supporting approaches. Harlow and Elder preserve a separate inquiry into personal damages immunity and relevant authority, without allowing a newly stated 1994 rule itself to establish notice in early 1987. No damages, reinstatement, final credibility finding or municipal-liability holding is ordered.
+
+**Precedent treatment:**
+
+- Mt. Healthy, 429 U.S. 274 (1977), and Givhan, 439 U.S. 410 (1979): apply the employee's causal showing and the employer's preponderance same-decision defense.
+- Harlow v. Fitzgerald, 457 U.S. 800 (1982): preserves individual qualified immunity as distinct from the substantive speech rule.
+- Elder v. Holloway, February 23, 1994: requires considering relevant authority on the preserved immunity issue, without expanding the claim or supplying notice from later law.
+- Rankin v. McPherson, June 24, 1987, and Anderson v. Creighton, June 25, 1987: may inform later doctrine but cannot themselves establish notice for the January and February 1987 actions.
+
+## Precedent Treatment
+
+Pickering and Connick retain their contextual speech balance, subject to the identified factual-error propositions. Mt. Healthy and Givhan retain causation and the proved same-decision defense. Roth creates no assumed employment-hearing entitlement. Harlow and Elder remain distinct immunity authorities; no later rule supplies notice for early 1987. No precedent is overruled. The different logical overlaps do not establish one complete rationale under Marks.
+
+## Law After Decision
+
+The controlling propositions are the limited reasonable-and-genuine safe harbor, the six-Justice agreement concerning unreasonable false reports of actually protected speech, and the common motive-based remand. The full objective-inquiry framework has four joins. It does not become a unified majority rationale by combining different directions of agreement. No general constitutional investigation claim, mandatory witness checklist, least-severe-discipline rule, universal post-discharge cure, or automatic recovery for procedural imperfection is adopted. Unreasonable inquiry when the actual words were unprotected is not resolved.
+
+For this completed process, the plurality finds objective adequacy conditionally on genuine reliance; the other three vacating Justices require no independent adequacy showing. The reported personal attack and discouragement of transfer may lawfully be disciplined on a genuine account because the predicted disruption outweighs any assumed public-concern value. No finding establishes that those were the true words or real cause. Different patient-care criticism must be assessed if it actually caused discharge. Mt. Healthy requires the employee's substantial-or-motivating-factor showing and permits the employer to prove the same decision by a preponderance. Individual immunity, the ungranted municipal policy/custom issue, and substantive protection remain distinct.
+
+## Separate Writings
+
+O'Connor announces the judgment and writes a plurality opinion joined by Stone-Zsela, Souter and Ginsburg. Their complete framework permits a genuinely held, reasonably reached account of speech to enter the employment balance even if mistaken. When a reasonable supervisor would recognize a substantial likelihood that the actual speech was protected, the employer must exercise the care a reasonable manager would use for this decision in this setting. Good faith alone does not supply that care. Reliability, known contradictions, obvious available witnesses, practicable clarification, urgency and reasonably feared harm inform the assessment; they are not a mandatory interview checklist. Hearsay and ordinary credibility choices may be reasonable. The Constitution does not demand a trial, confrontation, every witness, perfect accuracy or an employment hearing under Roth.
+
+On the completed sequence here, the initial and confirming Ballew reports, the Perkins-Graham interview, Hopper's opportunity to hear Churchill during the grievance, and the additional check with Ballew satisfy the objective standard if genuinely relied upon. This does not establish that the witnesses were truthful or the reports were the actual reason for discharge. It creates no universal rule that later grievance review cures every earlier injury. The reported personal attack, discouragement of transfer and threatened working relationship furnish sufficient predicted disruption to outweigh any assumed public-concern value in that account. Different patient-care criticism remains a different question. The four reserve no new objective-adequacy issue on remand; they preserve genuine belief, actual motive, protection of other causally relevant speech and available defenses. This full framework has four joins.
+
+Souter also concurs separately. Genuine belief is an independent requirement: an objectively reasonable investigation cannot protect a decisionmaker who does not credit its result or uses it as a pretext. He explains the majority agreements at the two ends of the disputed factual-error question. The reasonable-and-genuine safe harbor is accepted by seven Justices; liability for an unreasonable false report of actually protected speech is accepted by six. Those overlaps do not give the entire plurality framework seven or six joins. He also considers whether management genuinely regarded the selected discipline as appropriate, while noting that no distinct pretext-of-excessiveness claim is raised. That observation establishes no least-severe-sanction rule.
+
+Scalia concurs in the judgment, joined by Kennedy and Thomas. The First Amendment forbids retaliation for protected expression. In their view a genuine decision based on a legally disciplinable account does not violate that right merely because the account was wrong, and the Constitution creates no separate investigation duty. Selective inquiry, implausible explanations and disregard of evidence may prove pretext; inadequacy of an investigation is not itself their constitutional wrong. They accept the plurality's reasonable-and-genuine safe harbor because their rule permits more employer action, not because they adopt objective care as necessary. Honest belief still cannot make legally protected speech punishable, and neither an asserted belief nor a possible lawful ground proves actual causation. They join the remand on the supported motive dispute.
+
+Stevens dissents, joined by Blackmun. They would affirm the appellate reversal and remand under the rule that protection follows the speech actually uttered and its causal connection to discipline. Churchill's supported patient-care account must be taken favorably on defendants' summary-judgment motion; that procedural assumption is not a trial finding. Their Connick and Rankin positions protect informed criticism of public operations while retaining Pickering balancing. Mt. Healthy and Givhan preserve causation and a proved same-decision defense, but they would not add bad faith as an element of a claim involving actually protected speech. Reasonable factual error does not extinguish the substantive right. Management's legitimate interests enter the balance, and individual immunity addresses some damages risks without narrowing the right. Burnup & Sims offers an analogy concerning mistaken reports of protected labor activity, not direct application of the NLRA. They expressly agree that an unreasonable false report cannot defeat actually protected speech that caused discipline, while rejecting the broader safe harbor for reasonable mistakes.
+
+## Procedure After Action
+
+Further proceedings must determine genuine reliance, actual motivation, and the protection of other speech found to have caused discharge, with ordinary summary-judgment and Mt. Healthy rules and preserved personal immunity. The completed investigation's conditional objective adequacy and the reported account's conditional legal permissibility are not reopened as wholly unresolved issues. No damages, reinstatement, municipal policy/custom ruling, revived association claim or final credibility finding is ordered.
+
+## Source Notes
+
+The complete [official report, 511 U.S.661](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511661/usrep511661.pdf) and the Seventh Circuit record account supply the competing reports, pre-discharge inquiry, grievance process and separate motive evidence. The prior [Mt. Healthy report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep429/usrep429274/usrep429274.pdf), [Givhan report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep439/usrep439410/usrep439410.pdf), [Connick report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep461/usrep461138/usrep461138.pdf) and [Rankin report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep483/usrep483378/usrep483378.pdf) support the distinct earlier rules. Rankin postdates the January and February 1987 conduct. Neither conversation version is presented as an appellate finding of historical truth.

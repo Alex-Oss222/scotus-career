@@ -1,0 +1,43 @@
+{
+  "Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co.; No.93-609; 511 U.S.658.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "§27A(b) reopening",
+        "support": [
+          "Stone",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Article III finality",
+        "support": [
+          "Stone",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ]
+      }
+    ]
+  }
+}

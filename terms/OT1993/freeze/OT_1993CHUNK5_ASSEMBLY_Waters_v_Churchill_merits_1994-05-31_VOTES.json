@@ -1,0 +1,70 @@
+{
+  "Waters v. Churchill; No.92-1450; 511 U.S.661.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Vacatur and remand",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Reasonable genuine account sufficient",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Unreasonable incorrect protected-speech endpoint",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Motive remand",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

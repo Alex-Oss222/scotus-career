@@ -1,0 +1,157 @@
+{
+  "baseline_files": 1336,
+  "new_records": 12,
+  "records": {
+    "Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** Missouri Supreme Court reversed and remanded, 9–0.",
+      "sha256": "6b834434252c695c5ef63e5e31c3b9919dd78377a0a3d9e896797123525e9085"
+    },
+    "BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** Ninth Circuit categorical value ruling reversed and remanded on both consolidated routes, 5–4.",
+      "sha256": "213d551c3dfeb77e7917208f9592ec39e976555304fb1b3a0ada931ab83be7ca"
+    },
+    "Custis_v_United_States_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** The Fourth Circuit is affirmed, 6–3.",
+      "sha256": "06ba138045ba3c8658d3a1b1fd7a19c935570794fbf024cecd3f75eb2e237b95"
+    },
+    "Dalton_v_Specter_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** The Third Circuit is reversed and the case remanded for dismissal of the presented selection challenge, 9–0.",
+      "sha256": "328953295bd131d3dd5c4c19dabc2fccbc5cfdd3805bac9c23771bad35e1eb44"
+    },
+    "McKnight_v_General_Motors_Corp_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** Counsel sanction vacated and remanded, 9–0; underlying employment disposition undisturbed.",
+      "sha256": "76309edad3605ba46d500426f99afe6c2f388a1b86378e1ee09e896559c771c2"
+    },
+    "Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** Fifth Circuit reversed; deny §27A(b) reopening on remand, 5–3; O'Connor absent.",
+      "sha256": "b5824e74228934d8f5f3bb02cabe9a1ce4d15b5c58cb6202705f7cc6a4952438"
+    },
+    "Nichols_v_United_States_merits_1994-06-06.md": {
+      "date": "1994-06-06",
+      "result": "**Result:** Sixth Circuit affirmed, 5–4, on fractured grounds; general Baldasar overruling lacks five votes.",
+      "sha256": "6b17c48667f1afc6f334d17d3e8262a37b87aa7832a71aac4bb095d3f531d4fa"
+    },
+    "NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** The Sixth Circuit is reversed on the supervisory-status issue and the case remanded, 5–4.",
+      "sha256": "654d91dd5e1e18cb2c64b30ce61a3f653fea869de52aa5d6aa33bd77276467be"
+    },
+    "Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** Eighth Circuit affirmed on reviewed questions, 9–0; no separate count or sentence altered.",
+      "sha256": "2ff8db68034a0da2bf6a74a16408d31d4c2909ce75694fcb695457d567704846"
+    },
+    "PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md": {
+      "date": "1994-05-31",
+      "result": "**Result:** Washington Supreme Court affirmed, 7–2; minimum-flow certification condition sustained.",
+      "sha256": "12c541b8b7d0a1b4d4fd98933b79091041491bb6c6a475eb5bd7e972eec69e6f"
+    },
+    "Staples_v_United_States_merits_1994-05-23.md": {
+      "date": "1994-05-23",
+      "result": "**Result:** Tenth Circuit reversed and remanded, 7–2.",
+      "sha256": "6f00c5e25d92a4d283032b424833dea2e92071c65972990fa5358cf8a8eda468"
+    },
+    "Waters_v_Churchill_merits_1994-05-31.md": {
+      "date": "1994-05-31",
+      "result": "**Result:** Vacate and remand, 7–2; defendants' summary judgment remains set aside; fractured rationales.",
+      "sha256": "3cdcd40d11b50f20c4f23b236988db33974890e1aaaab29c49f763fe4f0c2b87"
+    }
+  },
+  "holding_explanation_word_counts": {
+    "Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md": [
+      158,
+      159
+    ],
+    "BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md": [
+      168,
+      172
+    ],
+    "Custis_v_United_States_merits_1994-05-23.md": [
+      164,
+      165
+    ],
+    "Dalton_v_Specter_merits_1994-05-23.md": [
+      177
+    ],
+    "McKnight_v_General_Motors_Corp_merits_1994-05-23.md": [
+      148,
+      150
+    ],
+    "Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md": [
+      168
+    ],
+    "Nichols_v_United_States_merits_1994-06-06.md": [
+      166
+    ],
+    "NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md": [
+      175
+    ],
+    "Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md": [
+      160,
+      153,
+      147,
+      154
+    ],
+    "PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md": [
+      157,
+      153,
+      157,
+      157,
+      162,
+      165,
+      157
+    ],
+    "Staples_v_United_States_merits_1994-05-23.md": [
+      174
+    ],
+    "Waters_v_Churchill_merits_1994-05-31.md": [
+      162,
+      167,
+      155
+    ]
+  },
+  "local_links_checked": 456,
+  "vote_receipt_files": [
+    "OT_1993CHUNK5_ASSEMBLY_Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_BFP_v_Resolution_Trust_Corp_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Custis_v_United_States_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Dalton_v_Specter_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_McKnight_v_General_Motors_Corp_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Nichols_v_United_States_merits_1994-06-06_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Posters_N_Things_Ltd_v_United_States_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Staples_v_United_States_merits_1994-05-23_VOTES.json",
+    "OT_1993CHUNK5_ASSEMBLY_Waters_v_Churchill_merits_1994-05-31_VOTES.json"
+  ],
+  "render_record_order": [
+    "BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md",
+    "Staples_v_United_States_merits_1994-05-23.md",
+    "Custis_v_United_States_merits_1994-05-23.md",
+    "NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md",
+    "Dalton_v_Specter_merits_1994-05-23.md",
+    "Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md",
+    "Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md",
+    "Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md",
+    "McKnight_v_General_Motors_Corp_merits_1994-05-23.md",
+    "Waters_v_Churchill_merits_1994-05-31.md",
+    "PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md",
+    "Nichols_v_United_States_merits_1994-06-06.md"
+  ],
+  "opening_carryovers_preserved": true,
+  "prior_blockers_preserved": [
+    "Day v. Day",
+    "In re Sassower",
+    "Cavanaugh v. Roller"
+  ],
+  "errors": [],
+  "git": "All Git checks deferred; no Git invocation",
+  "scope": "Clerical checks; substantive legal conclusions reviewed in staged contexts"
+}
