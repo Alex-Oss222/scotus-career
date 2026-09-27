@@ -1000,6 +1000,3 @@ Supreme Court review is complete. The Sixth Circuit receives the case for implem
 
 ---
 
-## Simulation Workflow Blockers
-
-No workflow blockers remain open.
