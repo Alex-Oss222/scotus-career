@@ -85,8 +85,15 @@ def main():
         lines.append(f"| {date} | {chunk} | {case} | {citation} | {matter_type} | {date_status} | {status} |")
 
     target = term / "workspace" / "manifest.md"
+    # Preserve every section appended below the inventory table (carryovers,
+    # institutional calendar, controls): from the first "## " heading onward.
+    preserved = ""
+    if target.exists():
+        m = re.search(r"^## ", target.read_text(encoding="utf-8"), re.M)
+        if m:
+            preserved = "\n" + target.read_text(encoding="utf-8")[m.start():].rstrip() + "\n"
     target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    target.write_text("\n".join(lines) + "\n" + preserved, encoding="utf-8")
     print(f"{target}: {len(rows)} inventory events")
 
 if __name__ == "__main__":
