@@ -230,22 +230,31 @@
 
 ## A. STATUS
 
-* **Version:** 1.
-* **Approval Status:** Proposed and unapproved.
+* **Version:** 2.
+* **Approval Status:** User-directed revision.
 * **Current-Through Baseline:** Section I, subject to actual simulated revalidation.
-* **Conditions:** No draft commerce position has become governing law.
+* **Conditions:** This revision replaces Stone's earlier reservation of Due Process; the Commerce disposition and remedy remain unchanged.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Reverse and remand on the Commerce Clause ground.
-* **Stone's Remedy and Remand Position:** Reject the challenged collection liability on this record. Leave the consumer's use-tax liability and other taxes outside this judgment.
+* **Stone's Controlled Judgment or Disposition:** Reverse and remand because the surviving Commerce Clause collection rule bars the challenged duty; separately reject Quill's Due Process objection.
+* **Stone's Remedy and Remand Position:** Reject the challenged collection liability on this record. Leave the consumer's use-tax liability and other taxes outside this judgment. The Due Process holding supplies no independent collection authority because the separate Commerce rule still controls.
 
 ## C. ISSUE POSITIONS
 
-### Issue 1: Retain the specific collection precedent
+### Issue 1: Retain the specific Commerce collection precedent
 
-* **Threshold and Merits Reach:** Reach nexus and the request to reconsider Bellas Hess. Reserve the separate due-process challenge because the commerce ground completely resolves the collection demand.
-* **Stone's Legal Position:** Apply the specific mail-order collection precedent within Complete Auto rather than announce a new general physical-presence requirement.
-* **Stone's Proposed Holding:** The collection duty imposed on Quill is barred by the surviving Commerce Clause rule of Bellas Hess; its limited software interests do not establish the local commercial operation missing here.
-* **Essential Reasoning and Record Application:** Complete Auto ends categorical immunity for interstate business, but does not say that a protected market establishes all four requirements or expressly repudiate this particular collection boundary. Quill's extensive solicitation makes the State's fairness argument substantial; it does not itself identify a conflict that requires overruling the narrower precedent. Under the Master's precedent discipline, computerized calculation reduces one burden without establishing that divergent definitions, administration, and compliance duties have disappeared. The reliance is concrete: interstate sellers organized distribution and previously completed transactions under an express collection rule. Reliance does not make a constitutional error permanent, but neither economic growth nor the availability of a different reasonable nexus rule demonstrates a source-grounded necessity for this Court to replace the boundary now. Congress's power permits coordinated adjustment of collection obligations; that competence supports, but does not independently justify, retaining the precedent. Insignificant licensed ordering software is not a substitute for the in-state market-maintaining activity recognized in Tyler Pipe.
-* **Boundary or Reserved Question:** No extension to every tax, no quantitative sales threshold, and no corporate exemption from generally valid law. Reserve due-process reconsideration, including whether purposeful solicitation would satisfy that independently analyzed limitation. No new rule or overruling is proposed.
+* **Threshold and Merits Reach:** Reach nexus and the request to reconsider *Bellas Hess*.
+* **Stone's Legal Position:** Apply the specific mail-order collection precedent within *Complete Auto* rather than announce a new general physical-presence requirement.
+* **Stone's Proposed Holding:** The collection duty imposed on Quill is barred by the surviving Commerce Clause rule of *Bellas Hess*; its limited software interests do not establish the local commercial operation missing here.
+* **Essential Reasoning and Record Application:** *Complete Auto* ends categorical immunity for interstate business, but does not say that a protected market establishes all four requirements or expressly repudiate this particular collection boundary. Quill's extensive solicitation makes the State's fairness argument substantial; it does not itself require overruling the narrower Commerce precedent. Computerized calculation reduces one burden without establishing that divergent definitions, administration, and compliance duties have disappeared. The reliance is concrete: interstate sellers organized distribution and previously completed transactions under an express collection rule. Reliance does not make a constitutional error permanent, but neither economic growth nor the availability of a different reasonable nexus rule demonstrates a source-grounded necessity for this Court to replace the boundary now. Congress's power permits coordinated adjustment of collection obligations; that competence supports, but does not independently justify, retaining the precedent. Insignificant licensed ordering software is not a substitute for the in-state market-maintaining activity recognized in *Tyler Pipe*.
+* **Boundary or Reserved Question:** No extension to every tax, no quantitative sales threshold, and no corporate exemption from generally valid law. No new general physical-presence rule is announced.
+
+### Issue 2: Due Process nexus is independently satisfied
+
+* **Threshold and Merits Reach:** Reach the separately presented Due Process challenge rather than treating the Commerce ground as a reason to leave it unanswered.
+* **Stone's Legal Position:** Purposeful, sustained commercial exploitation of a State's market can establish the minimum connection required by Due Process without physical presence.
+* **Stone's Proposed Holding:** Quill's deliberate and continuous solicitation of North Dakota customers, substantial recurring sales, and ordinary delivery of those transactions establish a sufficient Due Process connection even though the company has no employees, warehouse, or ordinary physical outlet in the State.
+* **Essential Reasoning and Record Application:** Due Process asks whether the State's assertion of authority is sufficiently connected to the seller's purposeful conduct and is fundamentally fair. Quill did not make an isolated or accidental sale; it repeatedly directed catalogs, advertising, telephone solicitation, and sales activity at North Dakota customers and derived substantial revenue from that market. *International Shoe*, *Burger King*, and the modern minimum-contacts cases make formal physical entry an inadequate universal proxy for purposeful affiliation. The collection obligation is rationally related to the market Quill deliberately serves. This does not collapse Due Process into the dormant Commerce Clause. Due Process addresses constitutional fairness and connection; the Commerce rule separately addresses the structural collection boundary retained through precedent, reliance, and Congress's coordinating authority.
+* **Boundary or Reserved Question:** This holding does not decide every form of legislative jurisdiction, every state tax, or any quantitative sales threshold. It rejects only an indispensable physical-presence requirement for Due Process on these purposeful and substantial contacts.
+
