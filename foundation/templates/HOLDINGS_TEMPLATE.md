@@ -102,7 +102,7 @@ Use this structure:
 
 **Proposition-level authority:** [Controlling opinion or instrument; every Justice supporting this exact proposition at the same operative level of generality; nature of its controlling force.]
 
-**Current force:** [One canonical statement of the proposition's present controlling scope. If unchanged, say that it remains controlling as stated. If modified, state only the surviving scope and cite the later controlling case or noncase authority.]
+[**Current force:** [Include this field only when later controlling authority has modified the proposition's present operation. State only the surviving scope and cite the later controlling case or noncase authority. If the field is absent, the original Holding remains controlling as stated.]]
 
 [**Material application:** [Only the case-specific application needed to understand scope.]]
 
@@ -139,7 +139,7 @@ Do not reproduce full opinion topology. Include authorship, joins, partial joins
 
 ### Current force and backlinks
 
-Each recorded proposition has exactly one canonical present-force statement: its `Current force` field. Later controlling authority that alters the proposition's present operation requires amendment of that field. Preserve the originally announced Holding and add a compact later-authority backlink to the modifying case or noncase source.
+The register-wide convention is that a proposition whose question block has no `Current force` field remains controlling as stated in its original Holding. Add a `Current force` field only when later controlling authority materially changes present operation. Preserve the originally announced Holding and add a compact later-authority backlink to the modifying case or noncase source. Thus the field is meaningful whenever it appears and boilerplate unchanged-force lines are omitted.
 
 The later case records its own holding and its treatment of the earlier authority. Do not duplicate the earlier proposition's full current-force analysis there. Routine applications and citations do not warrant backlinks.
 
@@ -151,7 +151,7 @@ Record a remedy, mandate, remand instruction, or temporal transition only when o
 
 ### Treatment of precedent
 
-Record material controlling treatment proposition by proposition. State what earlier law supplied and the scope of what the later Court changed, preserved, or distinguished. Put the earlier proposition's single complete present-force statement only in that earlier entry's `Current force` field; the later entry supplies treatment, not a duplicate current-law restatement. Do not reduce a compound treatment to one categorical label and do not silently rewrite an earlier holding.
+Record material controlling treatment proposition by proposition. State what earlier law supplied and the scope of what the later Court changed, preserved, or distinguished. When the earlier proposition is modified, put its single complete surviving-scope statement only in that earlier entry's `Current force` field; the later entry supplies treatment, not a duplicate current-law restatement. When it is unchanged, no `Current force` field is needed. Do not reduce a compound treatment to one categorical label and do not silently rewrite an earlier holding.
 
 A noncase source changes present force by its own legal operation, not by creating a fictional Court treatment. Record that effect in `Current force` and the later-authority backlink, with any applicable transition.
 
@@ -162,7 +162,7 @@ Within the affected question block, use:
 ```text
 **Independent alternative holding:** [Exact independently sufficient proposition.]
 **Proposition-level authority for alternative holding:** [Source and exact controlling coalition.]
-**Current force of alternative holding:** [One canonical present-force statement.]
+[**Current force of alternative holding:** [Include only if later authority modified the alternative holding; absence means it remains controlling as stated.]]
 [**Limits, remedy, transition, or precedent treatment:** [Only applicable material.]]
 ```
 
