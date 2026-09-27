@@ -1,0 +1,550 @@
+{
+  "id": 10518955,
+  "name": "SECURITY SERVICES, INC. f/k/a Riss International Corporation, Appellant, v. K MART CORPORATION, Appellee",
+  "name_abbreviation": "Security Services, Inc. v. K Mart Corp.",
+  "decision_date": "1993-06-18",
+  "docket_number": "No. 92-1833",
+  "first_page": "1516",
+  "last_page": "1527",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "996 F.2d 1516"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "3d Cir.",
+    "id": 8840,
+    "name": "United States Court of Appeals for the Third Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "49 U.S.C.A. \u00a7\u00a7 10761-62",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 U.S.C.A. \u00a7 10101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 F.2d 355",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1193221
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/169/0355-01"
+      ]
+    },
+    {
+      "cite": "49 U.S.C.A. \u00a7 11706",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "539 F.2d 929",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1040028
+      ],
+      "pin_cites": [
+        {
+          "page": "932"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/539/0929-01"
+      ]
+    },
+    {
+      "cite": "72 L.Ed.2d 161",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 S.Ct. 1750",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 U.S. 905",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200192,
+        6199776,
+        6201027,
+        6201212,
+        6199945,
+        6201484,
+        6201709,
+        6200404,
+        6200629,
+        6200828,
+        6199583
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0905-04",
+        "/us/456/0905-02",
+        "/us/456/0905-08",
+        "/us/456/0905-09",
+        "/us/456/0905-03",
+        "/us/456/0905-10",
+        "/us/456/0905-11",
+        "/us/456/0905-05",
+        "/us/456/0905-06",
+        "/us/456/0905-07",
+        "/us/456/0905-01"
+      ]
+    },
+    {
+      "cite": "665 F.2d 1304",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        472227,
+        3688773
+      ],
+      "pin_cites": [
+        {
+          "page": "1308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/665/1304-01",
+        "/us-app-dc/215/0001-01"
+      ]
+    },
+    {
+      "cite": "49 U.S.C. \u00a7 10762",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "989 F.2d 281",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10511383
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/989/0281-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 354",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200098
+      ],
+      "weight": 13,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "367"
+        },
+        {
+          "page": "2465"
+        },
+        {
+          "page": "358"
+        },
+        {
+          "page": "369-70"
+        },
+        {
+          "page": "2467"
+        },
+        {
+          "page": "368"
+        },
+        {
+          "page": "2461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0354-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "324"
+        },
+        {
+          "page": "2553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "49 C.F.R. \u00a7 1312.10",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 C.F.R. \u00a7 1312.4",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 C.F.R. \u00a7 1312.27",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "(e)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 L.Ed.2d 133",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 979",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "969 F.2d 1563",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519661
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "1566"
+        },
+        {
+          "page": "1572"
+        },
+        {
+          "page": "1568-72"
+        },
+        {
+          "page": "1571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/969/1563-01"
+      ]
+    },
+    {
+      "cite": "49 C.F.R. \u00a7 1312",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1992 WL 17399",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*5"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*7"
+        },
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 I.C.C.2d 246",
+      "category": "reporters:federal",
+      "reporter": "I.C.C.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 C.F.R. \u00a7 1312.30",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "(c)(l)(iii)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "497 U.S. 116",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213542
+      ],
+      "weight": 9,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "126"
+        },
+        {
+          "page": "2766"
+        },
+        {
+          "page": "127-28"
+        },
+        {
+          "page": "2766-67"
+        },
+        {
+          "page": "130-31"
+        },
+        {
+          "parenthetical": "applying three-year limitations period to debtor carrier's post-petition claim for undercharges after originally billing at lower negotiated rate"
+        },
+        {
+          "parenthetical": "applying three-year limitations period to debtor carrier's post-petition claim for undercharges after originally billing at lower negotiated rate"
+        },
+        {
+          "parenthetical": "applying three-year limitations period to debtor carrier's post-petition claim for undercharges after originally billing at lower negotiated rate"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0116-01"
+      ]
+    },
+    {
+      "cite": "260 U.S. 156",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925655
+      ],
+      "weight": 3,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "163"
+        },
+        {
+          "page": "49-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/260/0156-01"
+      ]
+    },
+    {
+      "cite": "265 U.S. 59",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137378
+      ],
+      "weight": 3,
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "65"
+        },
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/265/0059-01"
+      ]
+    },
+    {
+      "cite": "237 U.S. 94",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        631816
+      ],
+      "weight": 3,
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "97"
+        },
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/237/0094-01"
+      ]
+    },
+    {
+      "cite": "826 F.2d 1299",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1741241
+      ],
+      "pin_cites": [
+        {
+          "page": "1304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/826/1299-01"
+      ]
+    },
+    {
+      "cite": "918 F.2d 411",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534243
+      ],
+      "pin_cites": [
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/0411-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1202,
+    "char_count": 35728,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2348474756636391
+    },
+    "sha256": "52560660a4e84b4f8960084dbae75f66df90e90fc925e61da99828fa1ecd0a34",
+    "simhash": "1:f94fa556641a3e03",
+    "word_count": 5845
+  },
+  "last_updated": "2024-02-27T17:53:16.141498+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: COWEN, ROTH, and ROSENN, Circuit Judges."
+    ],
+    "parties": [
+      "SECURITY SERVICES, INC. f/k/a Riss International Corporation, Appellant, v. K MART CORPORATION, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nROSENN, Circuit Judge.\nThis case presents a recurring question of late whether a carrier in bankruptcy can recover undercharges under tariff rates filed for interstate commerce transportation notwithstanding the lower rates actually negotiated and collected prior to its bankruptcy. Plaintiff-Appellant Security Services, Inc., f/k/a Riss International Corporation (Riss), filed suit in the United States District Court for the Eastern District of Pennsylvania to recover undercharges from the Defendanb-Appellee K Mart Corporation (K Mart) for interstate transportation services performed by Riss on behalf of K Mart. K Mart defended this action by asserting a number of defenses, only one of which is pertinent here: that the tariff relied upon by Riss to calculate the undercharges was void as a matter of law at the time the services in question were performed. If this defense is valid, the tariff cannot serve as a basis from which to calculate such undercharges.\nThe district court granted K Mart\u2019s motion for summary judgment, and Riss appeals. We affirm.\nI. FACTS\nOn April 17, 1986, Riss and K Mart entered into a contract under which Riss agreed to transport goods on behalf of K Mart and K Mart agreed to pay for Riss\u2019s services at the rates specified in the contract. Between November 3, 1986, and December 29, 1989, Riss performed services for K Mart under the contract and submitted invoices for those services to K Mart in accordance with the terms of the contract. K Mart paid these invoices.\nIn November 1989, Riss filed a chapter 11 bankruptcy petition. At this point, Riss underwent a corporate reorganization and became known as Security Services, Inc. As debtor-in-possession, it conducted a post-petition audit which seemingly revealed that under the filed rate doctrine, it had undercharged K Mart by a significant amount for the services\u2019 in question. Riss calculated the amount of the undercharges by comparing the amounts it had originally invoiced for these services under the contract with amounts that would have been invoiced according to the tariff Riss had on file with the Interstate Commerce Commission (ICC or Commission) at the time the services were performed. Riss thereupon invoiced K Mart for those undercharges plus interest; K Mart, however, refused to pay.\nIt is undisputed that on August 20, 1984, Riss issued distance rate tariff ICC RISS 501-B with the customary effective date 30 days later. This tariff remained on file with the ICC during the approximately four-year period Riss performed the services in question for K Mart under the contract. The tariff in turn referred to and depended upon the Household Goods Carriers\u2019 Bureau (HGB) distance guide ICC HGB 100-A, its supplements, and subsequent issues, which specified (1) the distance in miles between various points of origin and destination, and (2)the carriers who were participants in the HGB distance guide.\nRiss has produced no direct evidence showing it ever executed a power of attorney or concurrence permitting it to participate in HGB\u2019s distance guide. K Mart submitted evidence that HGB canceled Riss\u2019s participation in the HGB distance guide on February 19, 1985, by Supplement 17 to-the guide, for Riss\u2019s nonpayment of participation fees to HGB. K Mart also submitted evidence that HGB considers a power of attorney \u201cdead\u201d if a carrier fails to renew it (by submitting the participation fees) within a reasonable time after cancellation. There is no evidence, apart from HGB\u2019s cancellation of Riss\u2019s participation, that Riss, as principal, ever revoked any power of attorney that may once have existed, or that HGB, as agent, ever renounced any such power of attorney.\nII. BACKGROUND\nA. APPLICABLE LAW\nOur review of a district court\u2019s grant of summary judgment is plenary. Carlson v. Arnot-Ogden Memorial Hosp., 918 F.2d 411, 413 (3d Cir.1990). We affirm only if there are no genuine issues of material fact and the relevant law entitles the moving party to judgment. Carter v. Rafferty, 826 F.2d 1299, 1304 (3d Cir.1987); Fed.R.Civ.P. 56(e).\nThe Supreme Court provided the classic formulation of the Act\u2019s filed rate doctrine when it stated in pertinent part:\nUnder the Interstate Commerce Act, the rate of the carrier duly filed is the only lawful charge. Deviation from it is not permitted upon any pretext. Shippers ... are charged with notice of it, and they as well as the carrier must abide by it.... Ignorance or misquotation of rates is not an excuse for paying or charging either less or more than the rate filed.\nLouisville & Nashville R. Co. v. Maxwell, 237 U.S. 94, 97, 35 S.Ct. 494, 495, 59 L.Ed. 853 (1915). No contract between a carrier and a shipper can reduce the amount payable under filed and published tariffs specifying the rates adopted by the carrier. Louisville & Nashville R. Co. v. Central Iron & Coal Co., 265 U.S. 59, 65, 44 S.Ct. 441, 442, 68 L.Ed. 900 (1924); Keogh v. Chicago & Northwestern R. Co., 260 U.S. 156, 163, 43 S.Ct. 47, 49-50, 67 L.Ed. 183 (1922). \u201cThe duty to file rates with the Commission, see [49 U.S.C.] \u00a7 10762, and the obligation to charge only those rates, see [id. at] \u00a7 10761, have always been considered essential to preventing price discrimination and stabilizing rates.\u201d Maislin Indus., U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116, 126, 110 S.Ct. 2759, 2766, 111 L.Ed.2d 94 (1990). The Court has acknowledged that the rule is strict and may at times work a hardship, but this rigid approach has been deemed necessary to promote the congressional policy of preventing unjust discrimination in interstate commerce. Id. at 127-28, 110 S.Ct. at 2766-67.\nUnder ICC regulation, a distance rate tariff consists of two parts: (1) the dollar rate that a carrier charges per mile, and (2) the distance in miles between various points of origin and destination. 49 C.F.R. \u00a7 1312.30 (1992); Jasper Wyman & Son, 8 I.C.C.2d 246 (1992), No. 40510, 1992 WL 17399, at *1 (I.C.C. Jan. 29, 1992), petition for review docketed sub nom. Overland Express, Inc. v. I.C.C., No. 92-1037 (D.C.Cir. Feb. 13,1992). Because the number of miles between two points will vary depending on the route chosen, specification of that number precludes a carrier from favoring one shipper over another by calculating a lower charge for the favored shipper based on a shorter route. This promotes Congress\u2019s policy of preventing price discrimination. When a common carrier elects to file a distance rate tariff, as did Riss, it must provide both components to allow a shipper to calculate transportation costs for a given shipment. If a tariff is incomplete because one or the other of these components is missing, the shipper cannot put the tariff to its intended use.\nTariff ICC RISS 501-B specified only the first required component, i.e., the dollar rate Riss would charge per mile. As permitted by ICC regulation, however, Riss\u2019s tariff referred to the HGB distance guide (and its supplements and subsequent issues) to provide the second component. 49 C.F.R. \u00a7 1312.30(c)(l)(iii), (c)(4). HGB\u2019s distance guide, officially on file with the ICC according to the mandate in 49 C.F.R. \u00a7 1312.-30(c)(4), is deemed a tariff in its own right. Jasper Wyman, 1992 WL 17399, at *3; Freightcor Servs., Inc. v. Vitro Packaging, Inc., 969 F.2d 1563, 1566 (5th Cir.1992), cert. denied, - U.S. -, 113 S.Ct. 979, 122 L.Ed.2d 133 (1993). \u201cCarriers participating in tariffs which refer to, and are governed by separate tariffs ..., shall also participate in those governing separate tariffs.\u201d 49 C.F.R. \u00a7 1312.27(e).\nTo participate as required in a governing separate tariff issued in the name of an agent, as Riss purports to have done in HGB\u2019s distance tariff, a carrier must execute a concurrence or power of attorney. Id. at \u00a7 1312.4(d). Once properly executed, this concurrence or power of attorney must remain effective, because absent an effective concurrence or power of attorney, \u201ctariffs are void as a matter of law.\u201d Id. Further, if a tariff is challenged on the basis of an allegedly ineffective concurrence or power of attorney, the carrier is responsible for submitting the necessary proof to the contrary. Id.; cf. id. at \u00a7 1312.10(a). \u201cRevocation ... of the power of attorney for] ... concurrence should be reflected through lawfully published tariff revisions.... \u201d Id. at \u00a7 1312.10(a), (b)(2).\nAgents filing governing separate tariffs, such as HGB, are required to provide a list of participating carriers, either within the tariff itself or in a separate participating carriers tariff. Id. at \u00a7\u00a7 1312.13(c)(1), 1312.-25(a). When it is necessary to amend this list due to, e.g., the cancellation of a carrier\u2019s participation, such amendment is accomplished by issuing a supplement to the tariff in which the list appears, as HGB did in this case. Id. at \u00a7\u00a7 1312.17(a-b), 1312.18, 1312.-25(d); see also id. at \u00a7 1312.10(a), (b)(2).\nB. THE DISTRICT COURT\u2019S DISPOSITION OF THE CASE\nThe district court based its grant of summary judgment on the ICC\u2019s ruling in Jasper Wyman, which is directly on point. In Jasper Wyman, as in the present case, the carrier sued the shipper for undercharges based on its distance rate tariff on file with the ICC, which referred to an HGB distance guide as a governing separate tariff.\nAs in the instant case, the carrier in Jasper Wyman contended, without producing any evidence, that at some point it had executed a power of attorney which remained effective to permit participation in the HGB\u2019s governing separate tariff at all times pertinent to the claim for undercharges. The shipper, however, presented evidence (1) that the carrier participated in HGB\u2019s governing separate tariff from 1970 to May 22, 1983, only, on which date HGB canceled the carrier\u2019s participation for nonpayment of fees in a supplement to its tariff; and (2) that HGB considers a carrier\u2019s power of attorney \u201cdead\u201d if the carrier fails to renew it by submitting participation fees within a reasonable time after cancellation. The undercharges sought by the carrier related to transportation services performed after the cancellation date of May 22, 1983.\nIn Jasper Wyman, the ICC first determined that at the time in question there was no effective power of attorney to permit the carrier\u2019s participation in HGB\u2019s tariff. Further, the ICC found that, even if an effective power of attorney existed, the carrier was not a participant in HGB\u2019s tariff at the time in question because the carrier was not listed by HGB as a participant in its tariff at that time. The ICC finally concluded that either of these determinations of nonparticipation sufficiently precluded the carrier from relying on HGB\u2019s tariff for the computation of its freight charges. It therefore held that the carrier\u2019s incomplete and ineffective tariff could not lawfully support the claim for undercharges.\nIn the present case, the district court, on facts identical in all essential respects to those of Jasper Wyman, found that Riss had submitted no proof of the existence of an effective concurrence or power of attorney for the period in question. Further, the court found that HGB did not list Riss as a participant in its distance tariff for this period. Because Riss failed both tests under Jasper Wyman for an effective participation in HGB\u2019s governing separate tariff, the court concluded Riss could not tie into the HGB tariff to complete its own tariff. Consequently, it held that shippers could not compute Riss\u2019s charges under the incomplete and therefore ineffective tariff. Thus, Riss had no valid tariff to serve as a basis for calculating undercharges on its shipments for K Mart.\nIII. DISCUSSION\nRiss first contends that the district court erred because its tariff complied with ICC regulations in that Riss never revoked its power of attorney originally issued to HGB. Riss further contends that even if its tariff did not comply with ICC regulations, applicable Supreme Court precedent prohibits the ICC from retroactively rejecting an effective tariff. Riss also asserts that the Riss tariff was in substantial compliance with governing ICC regulations. Finally, if the tariff is deemed void, Riss argues it is nonetheless entitled to receive reasonable compensation for its services, which may be more than the contract rate.\nA. COMPLIANCE WITH THE REQUIREMENT OF AN EFFECTIVE POWER OF ATTORNEY\nRiss submitted no evidence of the existence of a power of attorney effective during the time pertinent to this litigation. Nevertheless, Riss artfully contends that K Mart\u2019s evidence of HGB\u2019s 1985 cancellation of its participation in the HGB distance guide raises inferences (1) that it had been a participant in HGB\u2019s governing separate tariff prior to the cancellation date; (2) that at one time it had executed a power of attorney to HGB to support its participation; and (3) that such power remained effective at all times pertinent to this litigation. Thus, it argues that its tariff cannot be declared void pursuant to \u00a7 1312.4(d).\nSection 1312.4(d) provides in pertinent part:\n[A] carrier may not participate in a tariff issued in the name of ... an agent unless a power of attorney or concurrence has been executed. Absent effective concurrences or powers of attorney, tariffs are void as a matter of law. Should a challenge to a tariff be made on this basis, carriers will be required to submit the necessary proof.\n49 C.F.R. \u00a7 1312.4(d). The regulation is precise and specific; it plainly mandates that, upon challenge, the earner submit the proof necessary to establish the existence of an effective power of attorney. The carrier proof provision plausibly places the burden of production upon the carrier, as the party most likely to control relevant evidence, to produce that evidence or suffer the consequences. Here, however, the record does not show that Riss has made any effort to carry its burden. Under such circumstances, a further inquiry into whether an effective power of attorney existed during the relevant period of time is unnecessary.\nFurther, even if this court should proceed to the merits, the evidence of record does not create a genuine issue of material fact precluding summary judgment for K Mart. An examination of the inferences Riss relies upon shows that the inference critical to Riss\u2019s assertion of compliance with \u00a7 1312.4(d) is not properly raised from the evidence. K Mart\u2019s evidence that HGB canceled Riss\u2019s participation on February 19, 1985, may raise an inference that at some time prior to that date Riss executed a power of attorney allowing it to participate in HGB\u2019s tariff; additionally, it may raise an inference that such a power of attorney remained effective until the cancellation date. Based on general principles of agency law, however, it does not raise an inference that there was an effective power of attorney in existence after HGB canceled Riss\u2019s participation. In fact, any inference to be drawn is to the contrary and therefore fatal to Riss\u2019s position.\nGeneral agency law holds that \u201c[authority created in any manner terminates when either party in any manner manifests to the other dissent to its continuance, or unless otherwise agreed, when the other has notice of dissent.\u201d Restatement (Second) of Agency \u00a7 119 (1958). \u201cSuch termination by act of the principal is revocation; by act of the agent, it is renunciation.\u201d Id. at \u00a7 118 cmt. a. A principal, such as Riss, \u201cmay manifest [a] termination of consent by conduct which is inconsistent with its continuance\u201d; an agent, such as HGB, \u201cmay manifest renunciation by conduct inconsistent with the continued performance of [its] duties to the principal.\u201d Id. at \u00a7 119 cmt b.\nIn the present case, HGB\u2019s duties to Riss under any power of attorney that may have once existed were to publish and file a distance tariff on Riss\u2019s behalf. See 49 C.F.R. \u00a7 1312.10(a). To obtain these services, Riss presumably agreed to pay HGB the required participation fees. Accepting as true the inference that Riss had issued a power of attorney, as we must on summary judgment, Riss nonetheless manifested a revocation of that power of attorney when it failed to make the required payment of participation fees because its failure to pay constituted conduct inconsistent with the continuance of its consent. We conclude that this manifestation of revocation rendered ineffective any power of attorney Riss may have issued.\nFurther, HGB had the power to renounce the authority vested in it by any power of attorney Riss may have issued. It could manifest such a renunciation by conduct inconsistent with the continued performance of the duties it owed Riss. Such a renunciation would render the power of attorney ineffective. HGB\u2019s cancellation of Riss\u2019s participation in its tariff unquestionably is conduct inconsistent with the continued performance of HGB\u2019s duties to Riss. Thus, we also conclude that, even absent a revocation by Riss, HGB\u2019s cancellation operated as a renunciation of authority rendering ineffective any power of attorney Riss may have once executed.\nThe conclusion that any power of attorney Riss may have issued did not survive its failure to pay or HGB\u2019s cancellation of its participation is further supported by evidence that HGB generally considers a power of attorney \u201cdead\u201d at the time of cancellation for nonpayment of fees if the carrier does not renew the power of attorney by submitting the necessary fees within a reasonable time after cancellation. There is no evidence that Riss ever submitted fees to HGB at any time after cancellation, much less within a reasonable time, to \u201crenew\u201d its pre-cancellation power of attorney. Additionally, there is no evidence that Riss issued a new power of attorney to HGB after the cancellation.\nRiss also contends that its power of attorney should not be deemed ineffective because HGB did not give it advance actual notice of cancellation. Riss relies on a 1939 ICC notice discussing cancellation of participation for this advance notice requirement. The filed rate doctrine, however, charges carriers and shippers alike with constructive knowledge of filed tariffs. HGB\u2019s cancellation, filed in a supplement to its tariff, afforded Riss sufficient notice of both the cancellation and HGB\u2019s renunciation of any power of attorney that may once have existed. See Jasper Wyman & Son, 1992 WL 17399, at *5, petition for review docketed sub nom. Overland Express, Inc. v. I.C.C., No. 92-1037 (D.C.Cir. Feb. 13, 1992). A holding to the contrary would vitiate the filed rate doctrine.\nThus, even if this matter is considered on the merits based on the record before this court, the undisputed facts establish that any power of attorney that may have existed became ineffective either when Riss failed to submit its participation fees or, at the latest, once HGB canceled Riss\u2019s participation in its distance tariff. Therefore, whether this court applies the carrier proof provision of \u00a7 1312.4(d) or decides on the merits under that same section, Riss has failed to \u201cdesignate specific facts showing that there is a genuine issue for trial.\u201d Celotex Corp. v. Catrett, 477 U.S. 317, 324, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986). Under the relevant law, Riss\u2019s tariff was void when K Mart made its shipments in 1986 through 1989 because any power of attorney it previously may have issued became ineffective in 1985, 49 C.F.R. \u00a7 1312.4(d), and a void tariff cannot support the undercharges Riss seeks, Jasper Wyman, 1992 WL 17399, at *1; Freightcor, 969 F.2d 1563 at 1572. Therefore, absent a reason for not applying \u00a7 1312.4(d) as written, K Mart is entitled to judgment as a matter of law.\nB. RETROACTIVE VOIDING OF AN EFFECTIVE TARIFF\n1. The Validity of the Voiding Provision in Section 1312.4(d)\nRiss, however, challenges the authority of the ICC to promulgate and apply the remedial voiding provision of \u00a7 1312.4(d) without specific statutory authority. The parties do not dispute that there is no express statutory authority for \u00a7 1312.4(d). Riss argues that this voiding provision must be subjected to the test governing the ICC\u2019s discretionary authority to reject retroactively effective tariffs as set forth by the Supreme Court in ICC v. American Trucking Association, Inc., 467 U.S. 354, 104 S.Ct. 2458, 81 L.Ed.2d 282 (1984). In American Trucking, the Court determined that, in the absence of specific statutory authority, the remedy of retroactive rejection had to satisfy two criteria to lie within the ICC\u2019s discretionary power: \u201c[Fjirst, the power must further a specific statutory purpose, and second the exercise of power must be directly and closely tied to that mandate.\u201d Id. at 367, 104 S.Ct. at 2465. Riss contends that the voiding provision does not satisfy these criteria.\nK Mart urges that a voiding of Riss\u2019s tariff under \u00a7 1312.4(d) is not a discretionary retroactive rejection of an effective tariff that must satisfy standards set forth in American Trucking because Riss\u2019s tariff was ineffective ab initio; alternatively, K Mart argues that if the voiding provision must satisfy the American Trucking test, it passes that test and can be applied to void Riss\u2019s tariff. For purposes of this discussion and following settled summary judgment law, we take as true the inferences that an effective power of attorney existed from the time Riss issued ICC RISS 501-B in 1984 through HGB\u2019s cancellation of its participation in 1985. Consequently, we accept, contrary to the distinction K Mart attempts to demonstrate between this case and American Trucking, that Riss\u2019s tariff was effective when filed.\nThis alone does not determine the applicability of the American Trucking test. American Trucking decided whether the ICC had discretionary remedial enforcement authority to retroactively reject an effective tariff, rendering it void ab initio. Id. at 358, 368 & n. 9, 370, 104 S.Ct. at 2466 & n. 9, 2467. Here, the remedy the ICC adopted under \u00a7 1312.-4(d) is not the exercise of the power of rejection; rather, it is a remedial power to declare a tariff void from the moment a carrier does not effectively concur or maintain a power of attorney to support its participation in a governing separate tariff. The remedial power in this case is in some respects broader than the remedy examined in American Trucking: it not only would apply to void a tariff ab initio because an effective concurrence or power of attorney did not exist when the tariff was filed; it also would allow the voiding of a tariff that was originally accompanied by the required concurrence or power of attorney at some later date if the concurrence or power of attorney becomes ineffective.\nUnder either scenario, \u00a7 1312.-4(d) would operate, as did the remedy examined in American Trucking, to declare a tariff retroactively void. This voiding power, like the remedy in American Trucking, could leave a carrier exposed to overcharges, regarding which the Court stated, \u201c[T]he very potency of overcharge is what makes the nullification of motor-carrier tariffs a troubling exercise of Commission authority. For a motor carrier, overcharge liability may be ruinous.\u201d Id. at 369-70, 104 S.Ct. at 2467. Because American Trucking\u2019s retroactive rejection and the present case\u2019s retroactive voiding both raise the same basic concerns regarding overcharge liability, we agree with Riss that the validity of the voiding provision is governed by the test provided in American Trucking. Accord Freightcor, 969 F.2d 1563 (subjecting \u00a7 1312.4(d) to the American Trucking test). But see Atlantis Express, Inc. v. Associated Wholesale Grocers, Inc., 989 F.2d 281 (8th Cir.1993) (concluding scrutiny of section 1312.4(d) under American Trucking test unnecessary); Jasper Wyman, 1992 WL 17399, at *7. We also agree, however, with K Mart\u2019s alternative argument that the voiding provision complies with the test set forth in that case.\nThe Court of Appeals for the Fifth Circuit has addressed this same issue and has determined that the ICC\u2019s discretionary power under \u00a7 1312.4(d) satisfies American Trucking\u2019s two-part test. Freightcor, 969 F.2d at 1568-72. We agree with the Freightcor analysis. As to the first criterion that the power further a specific statutory mandate of the Commission, the court stated:\n[T]he congressional mandate to the ICC is that the Commission must maintain a fair and efficient transportation market, which, at the very least, does not permit secret negotiations and arrangements between carriers and shippers. [See Maislin, 497 U.S. at 130-31.] Mindful of this policy, the Commission is specifically under a statutory mandate to determine what information must be provided in every joint tariff and [to] provide mechanisms to ensure that this information is provided and is accurate. [49 U.S.C. \u00a7 10762(a)(1).] Pursuant to this obligation, we believe that there is a strong presumption that the Commission must require the disclosure of the identity of the carriers participating in every tariff.\nFreightcor, 969 F.2d at 1571. The court determined that the power to void a tariff that refers to another tariff governing its terms, when the mandated participation in that governing separate tariff is unsupported by the required effective concurrence or power of attorney, furthers a specific statutory mandate by furthering the disclosure of the identity of carriers participating in governing separate tariffs. We agree that the first criterion of the American Trucking test is thus met in this case.\nAs to the second criterion that the ICC\u2019s exercise of power be directly and closely tied to such a specific statutory mandate, the court stated:\nIn fulfilling the statutory mandate, the Commission designated participation via concurrence or power of attorney. The ICC regulations prescribe a simple method for compliance with the statute and declare that tariffs that do not comply with important statutory mandates are void. Stated another way, the regulation defines the essential elements of an effective tariff that refers to other tariffs that govern its terms.\nAlthough the use of voiding as a method of [securing] compliance is potentially a harsh measure, we are satisfied that the Commission has not exceeded its discretion by determining that tariffs are void if they fail to comply with [regulatory provisions] that serve important statutory purposes.\nId. Thus, the court determined that the exercise of power is directly and closely tied to the statutory mandate. We agree that the second criterion of the American Trucking test is also met here. We therefore hold that under the American Trucking test the ICC has the discretionary power to void effective tariffs under \u00a7 1312.4(d).\n2. Reversion to an Earlier Tariff for Rate Calculation\nRiss\u2019s final argument grounded in American Trucking is based on the proposition that where a tariff is retroactively rejected and deemed void ab initio, the tariff in effect prior to the rejection becomes the applicable tariff for the period during which the motor carrier charged rates contained in the rejectr ed tariff. American Trucking, 467 U.S. at 368, 104 S.Ct. at 2461. Riss contends that if ICC RISS 501-B is rejected for a lack of participation in ICC HGB 101-B, it should nonetheless be permitted to calculate undercharges based on ICC RISS 501-B and its apparently proper earlier participation in ICC HGB 100-A. Riss\u2019s argument is premised on substituting an earlier issue of HGB\u2019s tariff, which was in effect at the time when Riss was listed as a participant in HGB\u2019s tariff, for the issue of HGB\u2019s tariff that was in effect during the period when Riss was not listed as a participant.\nThis argument is mere sophistry. Section 1312.4(d) does not operate in the present case to void the latter issue of HGB\u2019s tariff; rather, \u00a7 1312.4(d) operates to declare Riss\u2019s own tariff, ICC RISS 501-B, void. We also note that, even had Riss proffered evidence of the existence of a Riss tariff preceding ICC RISS 501-B on which to base a calculation of rates, \u00a7 1312.4(d) does not render the tariff in question void ab initio in this case as the remedy under scrutiny did in American Trucking. Rather, \u00a7 1312.4(d) declares Riss\u2019s tariff void only from the moment in 1985 when Riss failed to maintain the necessary effective power of attorney. Because Riss\u2019s tariff is not void ab initio, there is no reason, as there may have been in American Trucking, to look to an earlier tariff for rate calculation.\nIn a broad sense, Riss argues that American Trucking requires it be allowed to calculate undercharges based on rates contained in whatever Riss tariff most recently complied with ICC regulations prior to the voiding. In the present ease, however, those rates appear to be the very same rates contained in the void tariff, and Riss would consequently end up with exactly what it is prohibited from seeking under the void tariff itself. We therefore conclude that Riss\u2019s position is untenable because it would completely vitiate the remedial enforcement power contained in \u00a7 1312.4(d), a power we hold to be a proper exercise of the ICC\u2019s discretionary authority to nullify tariffs.\nC. SUBSTANTIAL COMPLIANCE\nRiss contends that ICC RISS 501-B should not be voided because it is in substantial compliance with ICC regulations and it therefore \u201ctrumps\u201d \u00a7 1312.4(d) under the filed rate doctrine. Citing Genstar Chemical Ltd. v. ICC, 665 F.2d 1304, 1308 (D.C.Cir.1981), cert. denied, 456 U.S. 905, 102 S.Ct. 1750, 72 L.Ed.2d 161 (1982), Riss asserts that a tariff on file with the ICC and not rejected at the outset is not to be disregarded or treated as nonexistent merely because of some element of substantive unlawfulness in the rate or some irregularity in tariff filing formalities. Here, however, we have neither. Instead, Riss\u2019s tariff was missing one entire and essential component of the two necessary to satisfy the fundamental purpose of tariffs, i.e., to disclose the freight charges due the carrier. Jasper Wyman, 1992 WL 17399, at *7.\nRelying on the inference that at some time prior to HGB\u2019s cancellation on February 18, 1985, it had participated in HGB\u2019s distance guide tariff, Riss seems to argue that its former participation in the HGB tariff conferred upon it a right of perpetual participation. However, it is undisputed that Riss never transmitted any distance tariff to the Commission itself after HGB\u2019s cancellation, nor did it participate in the distance guides filed by any other carrier or agent. Consequently, Riss had no effective tariff by which any shipper or the Commission could ascertain its transportation charges. Riss\u2019s tariff, therefore, did not substantially comply at any time relevant to this case.\nD. REMAND FOR THE FIXING OF A REASONABLE RATE\nRiss contends on appeal that in any event it is entitled under 49 U.S.CA. \u00a7 10701(a) to receive a reasonable rate for its services, which in this case allegedly may be more than the negotiated rate it received under the contract. It asserts, therefore, that if its tariff is deemed void pursuant to \u00a7 1312.4(d), then this court should remand the case to the district court with instructions to refer the case to the ICC to determine the reasonable rate to which it is entitled. We note that Riss\u2019s reading of \u00a7 10701(a) is questionable. We decline, however, to address this argument as it was not raised in the district court. Newark Morning Ledger Co. v. United States, 539 F.2d 929, 932 (3d Cir.1976).\nIV. CONCLUSION\nWe hold therefore that the ICC had the power to promulgate 49 C.F.R. \u00a7 1312.-4(d) declaring void as a matter of law a tariff that is not in compliance with it. Riss\u2019s tariff ICC RISS 501-B failed to comply with this regulatory section, and was therefore void, at the time Riss performed the services at issue in this litigation. Consequently, although the filed rate doctrine mandates that carriers charge and shippers pay only the duly filed rate, Riss\u2019s purported tariff cannot be the basis for the computation of freight undercharges for services provided subsequent to the time it became void.\nAccordingly, the summary judgment of the district court in favor of K Mart will be affirmed. Costs taxed against the appellant.\n. Before the district court, K Mart also asserted the following defenses: 1) that iri its relationship with K Mart, Riss was a contract carrier; 2) that the charges Riss sought to recover were based on unreasonable rates; and 3) that Riss was collaterally estopped from pursuing its claim because five cases involving the same issues had already been decided against Riss. The district court determined that the ICC had primary jurisdiction over the first two issues and therefore did not decide them. Although it found that collateral estoppel would apply, it declined to rule on that basis, preferring instead to proceed to the merits of the defense now at issue on appeal.\n. Title 49 U.S.C.A. \u00a7 11706(a) (West 1993) provides in pertinent part:\nA common carrier providing transportation or service subject to the jurisdiction of the Interstate Commerce Commission ... must begin a civil action to recover charges for transportation or service provided by the carrier ... within 3 years after the claim accrues.\nSee. Maislin Indus., U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116, 123 & n. 5, 110 S.Ct. 2759, 2764 & n. 5, 111 L.Ed.2d 94 (1990) (applying three-year limitations period to debtor carrier\u2019s post-petition claim for undercharges after originally billing at lower negotiated rate). Riss filed its complaint in the district court on October 30, 1991. We note that Riss's claim for undercharges on shipments made between November 3, 1986, and October 29, 1988, would appear to be barred by \u00a7 11706(a). K Mart, however, failed to assert this affirmative defense and therefore has waived it. Fed.R.Civ.P. 8(c); Van Sant v. American Express, Inc., 169 F.2d 355, 372 & nn. 9-10 (3d Cir.1948); 5A Charles A. Wright & Arthur R. Miller, Federal Practice and Procedure \u00a7 1394 (2d ed. 1990).\n.The filed rate doctrine, contained in the Interstate Commerce Act, 49 U.S.C.A. \u00a7 10101 et seq. (West 1993), mandates that common carriers file tariffs from which shippers can calculate their rates and that those rates be charged by the carrier and paid by the shipper without exception. 49 U.S.C.A. \u00a7\u00a7 10761-62.\n. K Mart interprets American Trucking to apply only to \"effective\" tariffs, meaning tariffs in compliance with the ICC\u2019s tariff regulations. We note without deciding, however (as did the district court, Bench Op.Tr. at 9), that the Court in American Trucking arguably used the term \"effective\" to refer to nothing more than a tariff\u2014 whether defective or not \u2014 that had passed its effective date without suffering a statutorily permissible pre-effective date rejection by the ICC. See, e.g., American Trucking, 467 U.S. at 360 n. 4, 104 S.Ct. at 2462 n. 4 (\"tariffs with obvious defects inevitably are permitted to go into effect\"). If this is the case, then the American Trucking test would also apply to determine the validity of the voiding provision of \u00a7 1312.4(d) even when, unlike the present case, there was no effective concurrence or power or attorney in existence at the time a tariff referring to a governing separate tariff was initially filed.",
+        "type": "majority",
+        "author": "ROSENN, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Paul 0. Taylor, Harris & Taylor, Bloom-ington, MN, for appellant.",
+      "William J. Augello, George Carl Pezold, Raymond A. Selvaggio, Augello, Pezold & Hirschmann, Huntington, NY, Charles Howard, Hoyle, Morris & Kerr, Philadelphia, PA, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SECURITY SERVICES, INC. f/k/a Riss International Corporation, Appellant, v. K MART CORPORATION, Appellee.\nNo. 92-1833.\nUnited States Court of Appeals, Third Circuit.\nSubmitted Under Third Circuit Rule 12(6) May 4, 1993.\nDecided June 18, 1993.\nPaul 0. Taylor, Harris & Taylor, Bloom-ington, MN, for appellant.\nWilliam J. Augello, George Carl Pezold, Raymond A. Selvaggio, Augello, Pezold & Hirschmann, Huntington, NY, Charles Howard, Hoyle, Morris & Kerr, Philadelphia, PA, for appellee.\nBefore: COWEN, ROTH, and ROSENN, Circuit Judges."
+  },
+  "file_name": "1516-01",
+  "first_page_order": 1612,
+  "last_page_order": 1623
+}

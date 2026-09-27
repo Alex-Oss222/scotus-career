@@ -1,0 +1,413 @@
+{
+  "id": 10543506,
+  "name": "Frank WILKINSON; The National Committee Against Repressive Legislation, on its own Behalf and on Behalf of its officers, members, affiliates and contributors; Frances Fritchman; John Randolph; Sara Cunningham; Michael Shulman; Sarah Shulman, on behalf of themselves, and all others similarly situated, Plaintiffs-Appellants, v. FEDERAL BUREAU OF INVESTIGATION; Director of the Federal Bureau of Investigation; United States Department of Justice; Attorney General of United States; Agents or Officials of the Federal Bureau of Investigation, Fred J. Baumgardner; Cartha Deloach; Charles D. Brennan; Robert Shackelford; Raymond Wannall; Robert Wick; A.W. Gray; W.G. Simon; John P. Mohr; Kleinkauf; Ware; Reddy; D.J. Parsons; Gregg; Bly; and The United States of America, Defendants-Appellees",
+  "name_abbreviation": "Wilkinson v. Federal Bureau of Investigation",
+  "decision_date": "1991-01-07",
+  "docket_number": "Civ. A. No. 89-55122",
+  "first_page": "555",
+  "last_page": "559",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "922 F.2d 555"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "764 F.2d 76",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        378355
+      ],
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/764/0076-01"
+      ]
+    },
+    {
+      "cite": "796 F.2d 276",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1619824,
+        1619863
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/796/0276-02",
+        "/f2d/796/0276-01"
+      ]
+    },
+    {
+      "cite": "829 F.2d 888",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1758500
+      ],
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/829/0888-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "618 F.2d 836",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1380675,
+        3787116
+      ],
+      "pin_cites": [
+        {
+          "page": "841"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/618/0836-01",
+        "/us-app-dc/199/0352-01"
+      ]
+    },
+    {
+      "cite": "799 F.2d 461",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1605672
+      ],
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/799/0461-01"
+      ]
+    },
+    {
+      "cite": "653 F.2d 671",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3534270,
+        1465903
+      ],
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/209/0416-01",
+        "/f2d/653/0671-01"
+      ]
+    },
+    {
+      "cite": "376 F.2d 102",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2031454
+      ],
+      "pin_cites": [
+        {
+          "page": "104-05"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/376/0102-01"
+      ]
+    },
+    {
+      "cite": "664 F.2d 260",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1167063
+      ],
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/664/0260-01"
+      ]
+    },
+    {
+      "cite": "821 F.2d 1422",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1699985
+      ],
+      "pin_cites": [
+        {
+          "page": "1423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/821/1422-01"
+      ]
+    },
+    {
+      "cite": "402 U.S. 530",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11734185
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "533"
+        },
+        {
+          "page": "1582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0530-01"
+      ]
+    },
+    {
+      "cite": "784 F.2d 939",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1548343
+      ],
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/784/0939-01"
+      ]
+    },
+    {
+      "cite": "680 F.2d 743",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        548535
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "746"
+        },
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/680/0743-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 937",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11300707
+      ],
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/0937-01"
+      ]
+    },
+    {
+      "cite": "66 L.Ed.2d 221",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 S.Ct. 364",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 U.S. 956",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11800288,
+        11799810,
+        11799908,
+        11799973,
+        11799561,
+        11800043,
+        11799756,
+        11800204,
+        11799696,
+        11799858,
+        11799604,
+        11800119,
+        11799645
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0956-13",
+        "/us/449/0956-06",
+        "/us/449/0956-08",
+        "/us/449/0956-09",
+        "/us/449/0956-01",
+        "/us/449/0956-10",
+        "/us/449/0956-05",
+        "/us/449/0956-12",
+        "/us/449/0956-04",
+        "/us/449/0956-07",
+        "/us/449/0956-02",
+        "/us/449/0956-11",
+        "/us/449/0956-03"
+      ]
+    },
+    {
+      "cite": "110 B.R. 919",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6118927
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/110/0919-01"
+      ]
+    },
+    {
+      "cite": "623 F.2d 1377",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1277803,
+        6542327
+      ],
+      "pin_cites": [
+        {
+          "page": "1380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/623/1377-01",
+        "/br/5/1377-01"
+      ]
+    },
+    {
+      "cite": "786 F.2d 900",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6127852,
+        1556437
+      ],
+      "pin_cites": [
+        {
+          "page": "902-03"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/58/0900-01",
+        "/f2d/786/0900-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 717,
+    "char_count": 13243,
+    "ocr_confidence": 0.801,
+    "pagerank": {
+      "raw": 2.3761151873057806e-07,
+      "percentile": 0.7963209438079208
+    },
+    "sha256": "0dea4e3e81e59a64bb8ed286e14e87388fb1d16522cc8e3a18c6d302d2332992",
+    "simhash": "1:9abae732efa29b40",
+    "word_count": 1987
+  },
+  "last_updated": "2024-02-27T23:26:47.533086+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WALLACE and POOLE, Circuit Judges, and EZRA, District Judge."
+    ],
+    "parties": [
+      "Frank WILKINSON; The National Committee Against Repressive Legislation, on its own Behalf and on Behalf of its officers, members, affiliates and contributors; Frances Fritchman; John Randolph; Sara Cunningham; Michael Shulman; Sarah Shulman, on behalf of themselves, and all others similarly situated, Plaintiffs-Appellants, v. FEDERAL BUREAU OF INVESTIGATION; Director of the Federal Bureau of Investigation; United States Department of Justice; Attorney General of United States; Agents or Officials of the Federal Bureau of Investigation, Fred J. Baumgardner; Cartha Deloach; Charles D. Brennan; Robert Shackelford; Raymond Wannall; Robert Wick; A.W. Gray; W.G. Simon; John P. Mohr; Kleinkauf; Ware; Reddy; D.J. Parsons; Gregg; Bly; and The United States of America, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "DAVID A. EZRA, District Judge:\nINTRODUCTION\nFrank Wilkinson and the National Committee Against Repressive Legislation (\u201cAppellants\u201d) appeal the district court\u2019s order of December 28, 1988 denying their motion to compel further production of documents. Finding that this court has jurisdiction over the matter and that the district court did not abuse its discretion in denying the motion, we affirm.\nBACKGROUND\nThe underlying dispute in this case began a decade ago, when appellants sued the FBI and various other federal agencies and officials (\"Appellees\") asserting state and federal constitutional and statutory claims. The basis for these claims was appellants' assertion that the FBI had wrongfully investigated and disrupted their legitimate political activities. Pursuant to a series of discovery stipulations, the district court entered final judgment and dismissed the last of appellants' claims on May 13, 1988.\nThese stipulations, the terms of which comprise the parties' settlement agreement, provided for the release of all claims against appellees in exchange for their production of thousands of pages of documents. Appellees made claims of privilege with respect to many of these documents. Accordingly, the court evaluated the propriety of the claims of privilege pursuant to a sample procedure agreed to by the parties in a Stipulation and Order entered January 26, 1984. This procedure required appellees to produce an unredact-ed \"representative sample of documents embodying the privileged material.\" The district court would then decide whether the sample contained legitimate assertions of privilege entitling appellees to redact portions of the documents before surrendering them to appellants.\nOn July 14, 1988, appellants filed their Motion to Compel Further Production of Documents, alleging appellees had improperly redacted some 43,600 pages of documents. The redactions, appellants claimed, were either unexplained or were based on erroneous assertions of the state secrets and informant confidentiality privileges. Appellants requested the district court conduct a line-by-line examination of the redacted material to determine the legitimacy of each deletion. They now appeal the district court's denial of that motion.\nDISCUSSION\nA. Subject Matter Jurisdiction\nAppellees have raised repeatedly, both here and below, the issue of subject matter jurisdiction. Because our ability to reach the merits of this appeal depends on the existence of jurisdiction, we address this issue preliminarily.\nAppellees contend the district court lacked subject matter jurisdiction because appellants' motion was not timely. They further urge that this court lacks jurisdiction because the order appealed from was not final. We reject both of these arguments.\n1. The District Court's Jurisdiction\nCharacterizing appellants' request for production as a discovery motion, appel-lees contend it should have been brought within ten days of the entry of final judgment on May 13, 1988. The motion was not filed until July 14, 1988.\nAppellees' argument is without merit. District courts have the inherent power to enforce settlement agreements. In re Suchy, 786 F.2d 900, 902-03 (9th Cir.1985); In re Springpark Assoc., 623 F.2d 1377, 1380 (9th Cir.) (superseded on other grounds by statute, as stated in In re Villa Madrid, 110 B.R. 919, 922 n. 3 (9th Cir. BAP.1990)), cert. denied, 449 U.S. 956, 101 S.Ct. 364, 66 L.Ed.2d 221 (1980). The substance of appellants' Memorandum in Support of the Motion to Compel Production makes clear they sought enforcement of the terms of the settlement agreement as embodied in various stipulations. Thus, their motion was not a \"discovery\" motion in the usual sense. Accordingly, the district court had jurisdiction to decide the motion, under its inherent supervisory power.\n2. This Court's Jurisdiction\nAppellees argued unsuccessfully to a motions panel that this court lacks jurisdiction because the order appealed from is not final. The motions panel rejected that argument in its order filed July 31, 1989, and we do likewise. While we take cognizance of the motions panel's decision, this merits panel has an independent obligation to determine whether jurisdiction exists. Schiegel v. Bebout, 841 F.2d 937, 941 (9th Cir.1988). We find that the December 1988 order was appealable and that this court has jurisdiction.\nAlthough technically not a \u201cdiscovery\u201d motion, as indicated above, appellants\u2019 request to compel was analogous to such a motion. Thus, for purposes of determining whether this court has jurisdiction, we look to cases discussing ordinary discovery motions.\nThis circuit has not yet decided expressly whether the denial of a post-judgment motion to compel production of documents, brought to enforce a settlement agreement, is final and appealable. The Eleventh Circuit has found that orders granting post-judgment discovery are generally not ap-pealable as final judgments. See Rouse Constr. Int\u2019l, Inc. v. Rouse Constr. Corp., 680 F.2d 743, 746 (11th Cir.1982). The reason is that the party opposing the motion can refuse to comply and challenge the order on appeal from a contempt citation. See In re Grand Jury Subpoena (Niren), 784 F.2d 939, 941 (9th Cir.1986) (citing United States v. Ryan, 402 U.S. 530, 533, 91 S.Ct. 1580, 1582, 29 L.Ed.2d 85 (1971)); In re Nat\u2019l Mortgage Equity Corp. Mortgage Pool Certificates Litig., 821 F.2d 1422, 1423 (9th Cir.1987) (discussing prejudgment order compelling discovery).\nBy contrast, a litigant dissatisfied with an order denying post-judgment discovery cannot rely on the contempt process to provide an opportunity for appeal. Rouse, 680 F.2d at 746. Accordingly, an order denying discovery in aid of execution is an appealable final order. Fehlhaber v. Fehlhaber, 664 F.2d 260, 262 (11th Cir.1981) (citing United States v. McWhirter, 376 F.2d 102, 104-05 (5th Cir.1967). Similarly, where the litigation is in the district court solely for the purpose of deciding a discovery motion, the court\u2019s disposition of the motion is an appealable final judgment. In re Multi-Piece Rim Prod. Liab. Litig., 653 F.2d 671, 676 (D.C.Cir.1981). This circuit has recognized that a pre-judgment order denying a plaintiff\u2019s right to documents under the Freedom of Information Act, the Act under which plaintiffs originally sued defendants in this case, is an ap-pealable final judgment. See In re Steele, 799 F.2d 461, 464 (9th Cir.1986) (citing with approval Green v. Department of Commerce, 618 F.2d 836, 841 (D.C.Cir.1980)).\nWe now conclude that an order denying a post-judgment motion to compel production of documents brought to enforce a settlement agreement is appealable.\nHere, the district court had entered judgment on all of appellants\u2019 substantive claims before appellants brought their motion to compel production in enforcement of the settlement agreement. The only issues before the court were those pertaining to appellees\u2019 compliance with that settlement agreement. Following denial of their motion, appellants could not have relied on the contempt process to provide them an opportunity for appeal, since there was no court order for them to disobey. Moreover, because the underlying action had already concluded, there was no prospect of a further judgment to appeal from. Therefore, this court has jurisdiction under 28 U.S.C. \u00a7 1291.\nB. Whether the District Court Abused its Discretion\nHaving found jurisdiction, we review the district court\u2019s enforcement of the settlement agreement for abuse of discretion. Callie v. Near, 829 F.2d 888, 890 (9th Cir.1987).\nAppellants assert incorrectly that the district court misconstrued their motion to compel production as a discovery motion and that it failed to reach the merits. Although the court did refer to the motion as a \u201cdiscovery motion,\u201d the substance of its order indicates clearly that it fully considered and ruled on the issue of appellees\u2019 compliance with the provisions of the settlement agreement. The court reached the merits of the motion and did not abuse its discretion in denying it.\n1. The State Secrets Privilege\nAppellants challenge the redaction of some 20,000 pages of documents, which appellees contend could threaten national security. They allege the district court failed to \u201chear and resolve\u201d their dispute over the adequacy of appellees\u2019 production of documents, as the court agreed to do when it approved the parties\u2019 settlement agreement. Finally, they argue the court should have examined each document line-by-line to determine whether appellees invoked the privilege properly.\nThe parties stipulated to the procedure for asserting claims of state secrets privilege in an order filed January 26, 1984. The very purpose of this procedure was to relieve the court of the considerable burden of examining hundreds of thousands of pages line-by-line. Having agreed to this procedure, appellants cannot now attempt to void unilaterally this important provision of the settlement agreement.\nBy consent of the parties, the evaluation of privilege claims was committed to the judge\u2019s sound discretion. Having made that evaluation by its order of September 6, 1984, the court was under no duty to conduct the line-by-line review appellants seek. The court did not abuse its discretion in refusing to do so.\n2. The Informant Confidentiality Privilege\nAppellants further object to the redaction of 21,000 pages of documents on the basis of informant confidentiality. They argue that paragraph five of the Second Stipulation prevents appellees from asserting the informant confidentiality privilege. Paragraph five contains a waiver of claims of personal privacy with respect to third parties, i.e., parties not directly involved in the litigation. Appellants contend the court erroneously construed \u201cpersonal privacy,\u201d to exclude informant confidentiality.\nIn considering motions to enforce settlement agreements, the court must construe the agreement\u2019s language literally and in a straightforward manner. TNT Mktg., Inc. v. Agresti, 796 F.2d 276, 278 (9th Cir.1986) (citation omitted). It must give words their usual and ordinary meaning. Id. A judge who presides over a settlement hearing and approves a settlement agreement is in a particularly good position to construe the agreement\u2019s terms. Meyer v. Oppenheimer Management Corp., 764 F.2d 76, 80 (2nd Cir.1985).\nHere, the district court examined paragraph five and determined \u201cpersonal privacy\u201d did not include informant confidentiality. As appellees point out, the policies supporting informant confidentiality differ from those implicating personal privacy concerns. Disclosure of an informant\u2019s identity threatens more than personal embarrassment or inconvenience. Such disclosure may not only deter other potential informants from coming forward in the future with information important to the public interest, it may also risk the informant\u2019s personal safety. Accordingly, we cannot say the district court abused its discretion in ruling that appellees' informant confidentiality claims did not violate paragraph five of the Second Stipulation.\n3. Production of Previously Redacted Documents\nFinally, appellants complain of deletions in 2,600 pages of documents surrendered to them. Appellees explained, and the district court found, that these deletions became part of the documents \u201cat some time in the past for reasons no longer known.\u201d The court noted correctly that the appellees\u2019 obligation was to produce \u201cwhatever documents they [had], not to create new ones.\u201d Again, we find no abuse of discretion in the court\u2019s conclusion.\nCONCLUSION\nFinding that we have subject matter jurisdiction over this appeal, we conclude the district court did not abuse its discretion in denying appellants\u2019 motion to compel further production of documents.\nAFFIRMED.\n. The collateral order doctrine does not apply because all proceedings before the district court on the merits of the underlying suit have terminated.",
+        "type": "majority",
+        "author": "DAVID A. EZRA, District Judge:"
+      }
+    ],
+    "attorneys": [
+      "R. Joseph Sher, Sr. Trial Counsel, Torts Branch, Civ. Div., U.S. Dept, of Justice, Washington, D.C., for defendants-appel-lees.",
+      "Michael D. Stein, Los Angeles, Cal., for plaintiffs-appellants."
+    ],
+    "corrections": "",
+    "head_matter": "Frank WILKINSON; The National Committee Against Repressive Legislation, on its own Behalf and on Behalf of its officers, members, affiliates and contributors; Frances Fritchman; John Randolph; Sara Cunningham; Michael Shulman; Sarah Shulman, on behalf of themselves, and all others similarly situated, Plaintiffs-Appellants, v. FEDERAL BUREAU OF INVESTIGATION; Director of the Federal Bureau of Investigation; United States Department of Justice; Attorney General of United States; Agents or Officials of the Federal Bureau of Investigation, Fred J. Baumgardner; Cartha Deloach; Charles D. Brennan; Robert Shackelford; Raymond Wannall; Robert Wick; A.W. Gray; W.G. Simon; John P. Mohr; Kleinkauf; Ware; Reddy; D.J. Parsons; Gregg; Bly; and The United States of America, Defendants-Appellees.\nCiv. A. No. 89-55122.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted Oct. 2, 1990.\nDecided Jan. 7, 1991.\nR. Joseph Sher, Sr. Trial Counsel, Torts Branch, Civ. Div., U.S. Dept, of Justice, Washington, D.C., for defendants-appel-lees.\nMichael D. Stein, Los Angeles, Cal., for plaintiffs-appellants.\nBefore WALLACE and POOLE, Circuit Judges, and EZRA, District Judge.\nThe Honorable David A. Ezra, United States District Judge for the District of Hawaii, sitting by designation."
+  },
+  "file_name": "0555-01",
+  "first_page_order": 643,
+  "last_page_order": 647
+}

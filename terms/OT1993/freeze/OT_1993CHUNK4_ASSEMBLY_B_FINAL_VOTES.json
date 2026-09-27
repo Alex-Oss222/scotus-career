@@ -1,0 +1,125 @@
+{
+  "United States v. Irvine": {
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse the reviewed 1979 refund judgment",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Statutory later-transfer rule and independent branch if regulation inapplicable",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Conditional regulatory timeliness and estate-planning explanation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Section 501(b) applies to earlier transfers, not this later disposition",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  },
+  "C & A Carbone, Inc. v. Town of Clarkstown": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse and remand flow-control enforcement judgment",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Souter"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Private processing-service discrimination and regulatory/proprietary distinction",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Failure of justification under adequate nondiscriminatory alternatives",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

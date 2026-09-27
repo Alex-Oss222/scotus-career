@@ -1,0 +1,30 @@
+[
+  {
+    "record": "terms\\OT1993\\records\\Kokkonen_v_Guardian_Life_merits_1994-05-16.md",
+    "explanation_word_counts": [
+      167,
+      167
+    ],
+    "public_blocks": 11,
+    "holdings_identical": true,
+    "event_render_basis": true
+  },
+  {
+    "record": "terms\\OT1993\\records\\Beecham_and_Jones_v_United_States_merits_1994-05-16.md",
+    "explanation_word_counts": [
+      171
+    ],
+    "public_blocks": 11,
+    "holdings_identical": true,
+    "event_render_basis": true
+  },
+  {
+    "record": "terms\\OT1993\\records\\Security_Services_v_Kmart_merits_1994-05-16.md",
+    "explanation_word_counts": [
+      177
+    ],
+    "public_blocks": 11,
+    "holdings_identical": true,
+    "event_render_basis": true
+  }
+]

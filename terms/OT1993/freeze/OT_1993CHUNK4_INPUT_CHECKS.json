@@ -1,0 +1,63 @@
+{
+  "brief_sha256": "e6833b0a3dea8b1dd896b7b96f528fbde6a1ac797f44f059e9fcc3df612fc9c9",
+  "runtime_sha256": {
+    "NEUTRAL": "93d4259514ddaee79f893a918fb573c473f712310c66ba321ed198496e6bd5d6",
+    "STONE": "6e4f929eae04c1880ca1aedadcae2958e1cbf9caa47ced0ca3a7e8c68042af83",
+    "COMPARATOR": "c97fd99cecc6d4801cde98bbf5d862b7e4963107a023656368f7a56389d9be0a"
+  },
+  "entering_slice_sha256": "cb15eab97b282d634c38433956248fdaf4c7b517deae6123dddd373dba5471e2",
+  "source_anchors": [
+    [
+      "HOLDINGS",
+      "no-92-5584-an-arguable-current-petition-is-not-defeated-by-filing-history"
+    ],
+    [
+      "HOLDINGS",
+      "no-prospective-filing-restriction-on-this-record"
+    ],
+    [
+      "HOLDINGS",
+      "the-official-interference-allegation-is-not-defeated-by-filing-history"
+    ],
+    [
+      "HOLDINGS",
+      "whether-318b6a-changes-governing-timber-law-or-directs-results-under-unchanged-law"
+    ],
+    [
+      "HOLDINGS",
+      "whether-alabama-may-impose-an-additional-disposal-charge-on-equivalent-hazardous-waste-because-it-originated-outside-the-state"
+    ],
+    [
+      "HOLDINGS",
+      "whether-county-origin-restrictions-at-private-landfills-escape-commerce-clause-scrutiny-because-they-also-exclude-other-intrastate-counties"
+    ],
+    [
+      "HOLDINGS",
+      "whether-extreme-repetitive-frivolous-filing-permits-denial-of-pending-rule-398-fee-waiver-motions"
+    ],
+    [
+      "STANDARDS_AND_TESTS",
+      "collateral-rule-11-sanctions-despite-absence-of-merits-jurisdiction"
+    ],
+    [
+      "STANDARDS_AND_TESTS",
+      "compensatory-remedies-for-intentional-title-ix-discrimination"
+    ],
+    [
+      "STANDARDS_AND_TESTS",
+      "federal-rules-applied-to-parties-govern-still-open-direct-review"
+    ],
+    [
+      "STANDARDS_AND_TESTS",
+      "miranda-habeas-review-and-fair-litigation-of-independent-coercion-claims"
+    ],
+    [
+      "STANDARDS_AND_TESTS",
+      "proprietary-public-purchases-and-labor-preemption"
+    ],
+    [
+      "STANDARDS_AND_TESTS",
+      "unreasonable-rate-counterclaims-recoupment-and-primary-jurisdiction"
+    ]
+  ]
+}

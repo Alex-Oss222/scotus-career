@@ -1,0 +1,21 @@
+{
+  "status": "Initial assembly completeness checked; no vote change",
+  "files": [
+    {
+      "path": "terms/OT1993/records/Kokkonen_v_Guardian_Life_merits_1994-05-16.md",
+      "sha256": "1b3c04bfdaadbdcd69b06012a519de155518cc1f8e57825c917efb7bcb9cc18d"
+    },
+    {
+      "path": "terms/OT1993/records/Beecham_and_Jones_v_United_States_merits_1994-05-16.md",
+      "sha256": "6dd2b1519fc908e4ffceb01f224b8be5b06e3b6abbbb9aebac372b71ede31a2b"
+    },
+    {
+      "path": "terms/OT1993/records/Security_Services_v_Kmart_merits_1994-05-16.md",
+      "sha256": "03012450e0198f8b51a9b68c3dae686fb54c7407a8f8b5d1d9cb6c6de49a71c3"
+    },
+    {
+      "path": "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_D2_VOTES.json",
+      "sha256": "c9bb428a2abab55fa969761dcf8b583f51458655c54b579186e2b8aa29ec43ad"
+    }
+  ]
+}

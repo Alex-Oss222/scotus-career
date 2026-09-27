@@ -1,0 +1,516 @@
+{
+  "id": 1080814,
+  "name": "Town of Clarkstown, Respondent, v. C&A Carbone, Inc., et al., Appellants, et al., Defendants",
+  "name_abbreviation": "Town of Clarkstown v. C&A Carbone, Inc.",
+  "decision_date": "1992-08-31",
+  "docket_number": "",
+  "first_page": "213",
+  "last_page": "225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 A.D.2d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Div.",
+    "id": 8994,
+    "name": "New York Supreme Court, Appellate Division"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "39 NY2d 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323797
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0241-01"
+      ]
+    },
+    {
+      "cite": "122 AD2d 595",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3483629,
+        3484439
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/122/0595-02",
+        "/ad2d/122/0595-01"
+      ]
+    },
+    {
+      "cite": "139 AD2d 41",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3551136
+      ],
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/139/0041-01"
+      ]
+    },
+    {
+      "cite": "162 AD2d 791",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1000703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/162/0791-01"
+      ]
+    },
+    {
+      "cite": "505 US -, 112",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 NY2d 313",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4406695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0313-01"
+      ]
+    },
+    {
+      "cite": "73 NY2d 638",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4412190
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/0638-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333065
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0268-01"
+      ]
+    },
+    {
+      "cite": "397 US 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12050581
+      ],
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0137-01"
+      ]
+    },
+    {
+      "cite": "857 F2d 913",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534376
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "922"
+        },
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/857/0913-01"
+      ]
+    },
+    {
+      "cite": "362 US 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6165132
+      ],
+      "pin_cites": [
+        {
+          "page": "442, 448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/362/0440-01"
+      ]
+    },
+    {
+      "cite": "374 US 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8650
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/374/0424-01"
+      ]
+    },
+    {
+      "cite": "437 US 117",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178010
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "127-128"
+        },
+        {
+          "page": "127-128"
+        },
+        {
+          "page": "129-134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/437/0117-01"
+      ]
+    },
+    {
+      "cite": "51 NY2d 670",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4381501
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/51/0670-01"
+      ]
+    },
+    {
+      "cite": "504 US, 112",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "437 US 617",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183310
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/437/0617-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 587",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323895
+      ],
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0587-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 66",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347752
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0066-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 7",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 NY2d 325",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4404934
+      ],
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0325-01"
+      ]
+    },
+    {
+      "cite": "123 AD2d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3490830
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/123/0688-01"
+      ]
+    },
+    {
+      "cite": "211 NY 309",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        65214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/211/0305-01"
+      ]
+    },
+    {
+      "cite": "4 NY2d 215",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2248146
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/4/0215-01"
+      ]
+    },
+    {
+      "cite": "51 NY2d 679",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4379050
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/51/0679-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 524",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4414138
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0524-01"
+      ]
+    },
+    {
+      "cite": "150 Misc 2d 109",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        894715
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/150/0109-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 428",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2351150
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0428-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 761",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418497
+      ],
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0761-01"
+      ]
+    },
+    {
+      "cite": "147 AD2d 230",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3578227
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/147/0230-01"
+      ]
+    },
+    {
+      "cite": "83 AD2d 316",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3260289
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "332"
+        },
+        {
+          "page": "324"
+        },
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/83/0316-01"
+      ]
+    },
+    {
+      "cite": "165 AD2d 83",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012334
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/165/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1107,
+    "char_count": 25977,
+    "ocr_confidence": 0.839,
+    "pagerank": {
+      "raw": 1.6055284202295208e-07,
+      "percentile": 0.6845843136028394
+    },
+    "sha256": "f8f1486d9fcc7f6a175a5300a468a6ca1ae6b47cb4078d73b1fb61e8bdf15297",
+    "simhash": "1:973f9f8ff6c5024f",
+    "word_count": 4255
+  },
+  "last_updated": "2024-02-27T22:19:34.624317+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Town of Clarkstown, Respondent, v C&A Carbone, Inc., et al., Appellants, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nHarwood, J.\nOn this appeal, we examine the constitutionality of a local law which mandates that all solid waste processed or otherwise handled within the locality be processed or handled at a designated facility. In light of the health, safety, and environmental concerns connected with solid waste management and disposal, we conclude that the challenged local law constitutes a valid exercise of the locality\u2019s police power which offends neither the Commerce Clause of the United States Constitution nor the Due Process Clauses of the United States and New York State Constitutions. We therefore uphold the judgment of the Supreme Court which enjoins the appellants from violating that law.\nThe appellant C&C Realty, Inc. (hereinafter C&C) is the owner of property located within the plaintiff Town of Clarkstown at 183 Western Highway, West Nyack, in Rockland County. The appellant C&A Carbone, Inc. (hereinafter C&A), of which the appellant Carbone is an officer, and the appellant Recycling Products of Rockland, Inc. (hereinafter Recycling), of which the appellant Carbone is part owner, are interrelated corporations which, according to a complaint the corporate appellants filed in the United States District Court for the Southern District of New York, are in the \"interstate business\u201d of bringing to the Western Highway premises \"certain waste materials\u201d which are sorted \"into waste which is recyclable and waste which is not recyclable\u201d and then shipped to disposal facilities outside the State. On July 17, 1987, the New York State Department of Environmental Conservation (hereinafter the DEC) issued to C&A a permit authorizing it to operate at the Western Highway site, on certain conditions and with limited permission to manage recyclables, a \"Transfer Station\u201d, which is presently defined by New York State regulations as a \"solid waste management facility, other than a recyclables handling and recovery facility * * * where solid waste is taken from collection vehicles and placed in other transportation units for movement to another solid waste management facility\u201d (6 NYCRR 360-1.2 [b] [157]). The appellants assert that the \"tipping fee\u201d presently charged to truckers and haulers using the Western Highway facility is $70 per ton, which fee the appellants are apparently free to lower or raise as they see fit. The initial expiration date on C&A\u2019s permit was July 31, 1992, and the appellants acknowledge that if a permit were to be issued today, or if the current permit were to be renewed, it would be subject to the more stringent regulations promulgated after enactment of the Solid Waste Management Act of 1988 (see, L 1988, ch 70).\nOn August 7, 1989, the Town and the DEC entered into a consent decree to close a municipal landfill located on Route 303 in West Nyack which had been operated by the Town since in or about 1950, and which, from the early 1970\u2019s, when the State adopted a comprehensive refuse and solid waste regulatory scheme (see, ECL art 27), was periodically cited for environmental violations. Pursuant to the 1989 consent decree the Town was required to develop and implement a remedial plan which would address the adverse environmental consequences caused by the landfill and by its closing. In contemplation thereof, the Town filed an Environmental Assessment Form for the construction of a Solid Waste Transfer Station at the Route 303 site. In June 1989 based in part on a report which is not included in the record before us, and following a public comment period, the Town issued a negative declaration that the construction and operation of a town transfer station on the closed landfill site would not have a significant impact on the environment (see, ECL 8-0109 [4]; see also, 6 NYCRR 617.8 [e] [1] [ii]). It also determined that no further proceedings pursuant to the New York State Environmental Quality Review Act (hereinafter SEQRA) (see, ECL art 8) were required.\nIn January 1990 the Town, in furtherance of its remedial plan, awarded Clarkstown Recycling Center, Inc. (hereinafter Clarkstown Recycling) the contract for construction and operation of the Town transfer station. Pursuant to the contract with Clarkstown Recycling, the Town is obligated to deliver to the transfer facility a specified annual tonnage of acceptable waste, and the Town must pay Clarkstown Recycling a penalty if less than the specified amount of waste is delivered. Apparently in accordance with a Town resolution, Clarkstown Recycling is permitted to charge haulers $81 per ton to dispose of solid waste, without regard to its point of origin. After five years, the Town may acquire the facility for $1. Various site and other approvals were issued by the DEC and, in December 1990 the DEC issued a permit authorizing Clarkstown Recycling to operate a solid waste transfer station at the Route 303 site and, in that regard, to accept, exclusive of source-separated recyclables, up to 600 tons of solid waste per day and to conduct limited recycling activities. The initial expiration date on the Clarkstown Recycling transfer station permit is December 31,1995.\nIn addition, the Town, pursuant to its remedial plan, amended its zoning code to provide that the Town shall have only one designated \"transfer station\u201d, which it defined as \"an area of land upon which is located * * * structures, machinery and/or other devices where any solid waste * * * is taken from a collection vehicle and placed either upon the land, into any other transportation unit, or into any other device for future movement to another location\u201d (see, Town of Clarkstown Code \u00a7 106-3). The zoning code was also amended to define a \"[recycling [facility\u201d as \"[a]n area of land upon which is located, permanently or temporarily, structures, machinery, and/or other devices which are utilized to separate, process, modify, convert, treat, boil, compost, compact or prepare solid waste * * * so * * * any component part of the same may be recovered\u201d.\nIn addition to amending its zoning ordinance, the Town enacted Local Laws, 1990, No. 9 of the Town of Clarkstown, governing \"Solid Waste Transportation and Disposal\u201d. Its stated purpose is to ensure that all solid waste \"within or generated within the Town\u201d other than sludge and certain hazardous and pathological wastes which could not be disposed of within the Town, is delivered to the Town\u2019s \"solid waste\u201d facility located at the Route 303 site or to a Town-approved recycling center (Local Laws, 1990, No. 9 of Town of Clarkstown \u00a7 2 [A]). The local law specifically requires that all acceptable solid waste generated within the Town must \"be transported and delivered\u201d to the Route 303 facility or to Town-approved recycling centers and that \"as to\u201d solid waste brought to a recycling center, the unrecycled residue \"shall be disposed of\u2019 at the Town\u2019s \"solid waste facility\u201d, except \"for recyclable materials which are separated from solid waste at the point of origin or generation of such solid waste, which separated recyclable materials may be transported and delivered to facilities within the Town as aforesaid, or to sites outside the Town\u201d (Local Laws, 1990, No. 9 of Town of Clarkstown \u00a7 3 [A], [B], [C]). The local law separately provides that it is unlawful to import waste from outside the Town and \"dump same\u201d on property within the Town (see, Local Laws, 1990, No. 9 of Town of Clarkstown \u00a7 5 [B]), but waste generated outside the Town is otherwise to be handled in the same manner as waste generated in the Town, and, in that regard, the local law renders it unlawful within the Town to \"dispose\u201d or \"attempt to dispose\u201d of solid waste generated or collected outside the Town except for waste \"disposed of\u2019 at the Town-operated facility and except for recyclables brought to a recycling center established by special permit (Local Laws, 1990, No. 9 of Town of Clarkstown \u00a7 5 [A]). Finally, the local law provides for the adoption by resolution \"from time to time\u201d as to fees to be collected at Town facilities (see, Local Laws, 1990, No. 9 of Town of Clarkstown \u00a7 6), but there is nothing to suggest, and no claim is made in this action, that point of origin has any bearing on the fees to be collected.\nBy order dated February, 27, 1991, as a result of litigation which is not presently before us, the Supreme Court directed the Town to issue to the appellant C&A a special permit, subject to reasonable conditions, authorizing it to operate a recycling center at the Western Highway site. In March 1991 a tractor-trailer containing 23 bales of solid waste became disabled following an accident on the Palisades Interstate Parkway. On-site police investigation revealed that the vehicle, which bore an Ohio registration, contained household-type garbage originating within the Town, within a neighboring Town, and in New Jersey, that the shipper was the appellant C&A, and that the destination for the 46,440-pound-load was Wabash, Indiana. Town police thereafter observed other tractor-trailers entering and leaving the Western Highway premises, and those vehicles proved to hold solid waste, not recyclable materials, originating within and outside the Town and headed for locations in Illinois, Indiana, West Virginia and Florida.\nThe Town immediately commenced the instant action for a permanent injunction prohibiting violations of Local Laws, 1990, No. 9 of the Town of Clarkstown and simultaneously sought a preliminary injunction, urging that the appellants\u2019 conduct was depriving the Town of thousands of dollars daily in uncollected revenues. Shortly thereafter, and before answering in this litigation, the corporate appellants commenced an action in the United States District Court for the Southern District of New York for injunctive relief and damages. They, too, sought a preliminary injunction. The District Court (Brieant, J.), by order dated July 11, 1991, dismissed all the antitrust claims on the merits but preliminarily enjoined the Town from enforcing Local Laws, 1990, No. 9 of the Town of Clarkstown, except insofar as it concerned solid waste generated solely within the Town, on the ground that the corporate appellants had demonstrated a likelihood of establishing that the local law constitutes an unreasonable, discriminatory, and impermissible burden on interstate commerce in violation of the Commerce Clause of the United States Constitution.\nFour days later, on July 15, 1991, the Supreme Court, acting upon the parties\u2019 stipulation to treat the Town\u2019s motion for a preliminary injunction as one for summary judgment, declined to dismiss the action on constitutional grounds as requested by the appellants, and granted the Town summary judgment. By judgment dated July 31, 1991, the court declared that Local Laws, 1990, No. 9 of the Town of Clarkstown is valid, ruled that the appellants are in violation thereof, and permanently enjoined them from operating their businesses at the Western Highway site in violation of the local law and in violation of Town of Clarkstown Code chapter 106. The Federal action was thereafter discontinued.\nAlthough the appellants have urged, somewhat inconsistently, that they are operating only a recycling center, and, by implication, that they are not violating any Town law, they contend here, as they did before the Supreme Court, inter alia, that the local law violates the Commerce Clause of the United States Constitution (see, US Const, art I, \u00a7 8), that the application of the local law as applied to them constitutes a taking of property in violation of the Due Process Clauses of the New York State and United States Constitutions (see, US Const 5th, 14th Amends; NY Const, art I, \u00a7\u00a7 6, 7), that the local law was enacted for economic rather than public health and welfare reasons and was therefore beyond the scope of the Town\u2019s police powers, and that the local law was enacted in violation of SEQRA (see, ECL art 8) because no negative or other declaration was filed with respect to its enactment. We note that the appellants interpose no direct challenge to Town of Clarkstown Code chapter 106 on the ground that it permits only one transfer station within the Town. The appellants make no claim that their existing facility constitutes a legal nonconforming use (cf, Town of Islip v Zalak, 165 AD2d 83; Niagara Recycling v Town of Niagara, 83 AD2d 316; see also, Moran v Village of Philmont, 147 AD2d 230, 234). Perhaps because of the lapse of time (see, CPLR 217), the appellants do not challenge on appeal the negative declaration issued in June 1989 when construction of the Town\u2019s transfer station was made part of the Town\u2019s remedial plan.\nWe agree with the Supreme Court that the appellants have no standing to challenge the adequacy of the Town\u2019s environmental review. Although the appellants\u2019 economic concerns do not deprive them of standing to also complain of environmental injury (see, Society of Plastics Indus, v County of Suffolk, 77 NY2d 761, 777), the appellants are aggrieved only economically by the enactment of the local law (see, Matter of Mobil Oil Corp. v Syracuse Indus. Dev. Agency, 76 NY2d 428). Neither that economic injury, nor the status of C&C as an owner of property within the Town, is sufficient under the facts of this case to confer standing on the appellants to challenge the Town\u2019s failure to separately issue environmental declarations with respect to that part of the Town\u2019s remedial plan which requires that all solid waste which is processed or handled within the Town be processed or handled at the Town\u2019s transfer station (see, Matter of Mobil Oil Corp. v Syracuse Indus. Dev. Agency, supra; cf., 6 NYCRR 617.13 [d] [15]; Montes Waste Sys. v Town of Oyster Bay, 150 Misc 2d 109). We note, moreover, that the record demonstrates that the over-all plan was the subject of adequate environmental review (see, Matter of Har Enters, v Town of Brookhaven, 74 NY2d 524; cf., Montes Waste Sys. v Town of Oyster Bay, supra).\nThe appellants\u2019 claim that the enactment of the local law was financially motivated and thus beyond the scope of the Town\u2019s police powers is without merit. Local governments have long been authorized to enact laws relating to the \"safety, health and well-being of persons or property\u201d (NY Const, art IX, \u00a7 2 [c] [ii] [10]) and it is well settled that the regulation of solid waste collection and disposal, a function traditionally entrusted to State and local governments (see, e.g., Town Law \u00a7 130 [6]; \u00a7 136 [8]; \u00a7 198 [9]; \u00a7 221), is fundamentally related to the public health and welfare (see, e.g., Monroe-Livingston Sanitary Landfill v Town of Caledonia, 51 NY2d 679; Town of Islip v Zalak, supra). Municipalities have thus heretofore been empowered to ban dumping (see, Wiggins v Town of Somers, 4 NY2d 215), to grant exclusive franchises for the collection of disposal of waste (see, City of Rochester v Gutberlett, 211 NY 309), and to prohibit outright the establishment of commercial and private disposal facilities (see, Monroe-Livingston Sanitary Landfill v Town of Caledonia, supra; Town of LaGrange v Giovenetti Enters., 123 AD2d 688).\nMore recent legislative responses (see, e.g., L 1983, ch 544; L 1988, ch 70; L 1991, ch 569) to what has become a national crisis (see, Weinberg, 1989 Supp Practice Commentaries, McKinney\u2019s Cons Laws of NY, Book 17 Vi, ECL 27-0106, 1992 Pocket Part, at 145), while obviously fostering State-wide or regional approaches designed to encourage \"economical\u201d projects for present and future waste collection (see, ECL 27-0101 [1]), also contemplate and encourage the active involvement of local governments in the development of local solutions and local plans such as that adopted here by the Town and approved by the DEC (see, ECL 27-0103, 27-0107; cf., Town Law \u00a7 221). A concern for the continued economic viability of a solid waste management facility established pursuant to such a plan does not negate or detract from, but in fact is a part of the health, safety, and environmental concerns such plan is designed to address (see, Town of N. Hempstead v Incorporated Vil. of Westbury, \u2014 AD2d \u2014 [2d Dept., Aug. 17, 1992]). Indeed, like the enabling legislation (see, L 1983, ch 544) concerning solid waste management in the Town of North Hempstead which we have recently upheld (Town of N. Hempstead v Incorporated Vil. of Westbury, supra), the newly enacted \"Holland-Gromack\u201d law (see, L 1991, ch 569) authorizes municipalities within the County of Rockland to adopt local laws which impose \"appropriate and reasonable limitations on competition\u201d in solid waste management, inter alia, by requiring that all solid waste generated or brought within their boundaries be delivered to specified facilities, thus confirming the \"governmental and public purpose\u201d of \"displacing] competition\u201d so that public welfare rather than profit is' the focus of solid waste management. The appellants have thus failed to sustain their heavy burden of demonstrating that the economic aspects of the Town\u2019s remedial plan render\nLocal Laws, 1990, No. 9 of the Town of Clarkstown an unconstitutional exercise of the Town\u2019s police power.\nThat enactment of Local Laws, 1990, No. 9 of the Town of Clarkstown is within the scope of the Town\u2019s police power does not end our inquiry. As noted, the appellants also urge that the local law constitutes an unreasonable, discriminatory burden on interstate commerce and that its application as to them constitutes an unlawful taking of property, violating their constitutional rights to due process of law. But while neither argument is without merit, neither justifies the extraordinary step of invalidating the local law (see, 41 Kew Gardens Rd. Assoes. v Tyburski, 70 NY2d 325, 333; Lighthouse Shores v Town of Islip, 41 NY2d 7; see also, de St. Aubin v Flaeke, 68 NY2d 66; cf., French Investing Co. v City of New York, 39 NY2d 587, 595).\nIt is now beyond dispute that \"garbage\u201d is an article of commerce within the meaning of the Commerce Clause of the United States Constitution (see, Philadelphia v New Jersey, 437 US 617). It is also well settled that neither the several States nor their municipalities may isolate themselves from a solid waste problem common to all the States by erecting discriminatory barriers to the free flow of commerce (see, Philadelphia v New Jersey, supra; Chemical Waste Mgt. v Hunt, 504 US, 112 S Ct 2009 [June 1, 1992]; Fort Gratiot Sanitary Landfill v Michigan Dept, of Natural Resources, 504 US, 112 S Ct 2019 [June 1, 1992]; see also, Dutchess Sanitation Serv. v Town of Plattekill, 51 NY2d 670). However, the Commerce Clause protects the interstate market, not particular interstate firms (see, Exxon Corp. v Governor of Md., 437 US 117, 127-128), and the \"simple answer to [the appellants\u2019] argument is that the legislation does not discriminate against interstate commerce\u201d (Niagara Recycling v Town of Niagara, supra, at 332) because, unlike State or local legislation at issue in most of the cases on which the appellants rely (see, e.g., Chemical Waste Mgt. v Hunt, supra; Fort Gratiot Sanitary Landfill v Michigan Dept, of Natural Resources, supra; Philadelphia v New Jersey, supra; Dutchess Sanitation Serv. v Town of Plattekill, supra), the local law in issue here imposes no special fees, taxes, prohibitions, or duties on those transporting out-of-State articles of commerce. Rather, the local law applies evenhandedly to all solid waste processed within the Town, regardless of point of origin (see, Exxon Corp. v Governor of Md., supra; Head v New Mexico Bd., 374 US 424; Huron Cement Co. v Detroit, 362 US 440, 442, 448; Filiberto Sanita tion v State of New Jersey Dept, of Envtl. Protection, 857 F2d 913). Moreover, were we to assume that the presently existing $11 difference between the Town tipping fee and the fee the appellants have chosen to impose has any effect on the interstate flow of solid waste (cf, Monroe-Livingston Sanitary Landfill v Town of Caledonia, supra, at 684; Town of La-Grange v Giovenetti Enters., supra; but see, Filiberto Sanitation v State of New Jersey Dept, of Envtl. Protection, supra, at 922), there is no evidence before us which suggests that what can have nothing more than an incidental effect on interstate commerce is impermissibly burdensome (see, Exxon Corp. v Governor of Md., supra, at 127-128; see also, Filiberto Sanitation v State of New Jersey Dept, of Envtl. Protection, supra), particularly when the \"burden\u201d is weighed against the legitimate and significant public concerns underlying the local law (cf., Pike v Bruce Church, Inc., 397 US 137, 142; see, Filiberto Sanitation v State of New Jersey Dept, of Envtl. Protection, supra, at 915).\nThe ruling by the United States District Court for the Southern District of New York on the corporate appellants\u2019 motion for a preliminary injunction does not require that we rule in their favor here (cf., Guggenheimer v Ginzburg, 43 NY2d 268, 272; Niagara Recycling v Town of Niagara, supra, at 324), and we conclude that the appellants\u2019 interstate commerce claim is insufficient to justify denying the Town summary judgment (see, Filiberto Sanitation v State of New Jersey Dept, of Envtl. Protection, supra).\nAlthough the appellants have not established the existence of an issue as to whether Local Laws, 1990, No. 9 of the Town of Clarkstown impermissibly burdens interstate commerce, the potential effect on their business does require that we review their claim that the local law works as a taking violative of their due process rights (see, e.g., Birnbaum v State of New York, 73 NY2d 638; Rochester Gas & Elec. Corp. v Public Serv. Commn., 71 NY2d 313; Niagara Recycling v Town of Niagara, supra; cf., Town oflslip v Zalak, supra). However, the appellants may operate a recycling facility at the Western Highway site. Further, they do not directly claim, and the record does not suggest, that Local Laws, 1990, No. 9 of the Town of Clarkstown deprives the appellants of all economically viable uses of the Western Highway property held by the appellant C&C (see generally, Lucas v South Carolina Coastal Council, 505 US \u2014, 112 S Ct 2886 [June 29, 1992]; de St. Aubin v Flacke, supra; French Investing Co. v City of New York, supra; cf., Town of Islip v Zalak, supra). Furthermore, while the appellants may have had some vested interest in the permit to operate a transfer station at the Western Highway site (see, Niagara Recycling v Town of Niagara, supra; cf., Matter of Allied Grocers Coop, v Tax Appeals Tribunal, 162 AD2d 791), the expiration of that permit on July 31, 1992, renders moot any claim that the local law retrospectively diminished or retroactively invalidated vested rights. In light of the close relation of the local law to the promotion of health, safety and welfare of society (see, Niagara Recycling v Town of Niagara, supra; see also, Empire State Assn, of Adult Homes v Perales, 139 AD2d 41, 44; Moran v Village of Philmont, 147 AD2d 230, supra; Filiberto Sanitation v State of New Jersey Dept, of Envtl. Protection, supra), the acute public interest in the proper and safe management of solid waste (cf., e.g., Niagara Recycling v Town of Niagara, supra, at 327; see, Filiberto Sanitation v State of New Jersey Dept, of Envtl. Protection, supra), the appellants\u2019 obvious knowledge that their business was and would be increasingly heavily regulated (cf., Birnbaum u State of New York, supra), and the appellants\u2019 heavy burden of overcoming the presumption of constitutionality which attaches to the local law (de St. Aubin v Flacke, supra, at 76; French Investing Co. v City of New York, supra; cf., Lighthouse Shores v Town of Islip, 41 NY2d 7, supra), there are no issues of fact warranting trial of the appellants\u2019 due process claims. In fact, what emerges from the appellants\u2019 multipronged challenge to Local Laws, 1990, No. 9 of the Town of Clarkstown is a singular complaint that its enactment adversely affects competition, in the solid waste industry (but see, Exxon Corp. v Governor of Md., supra, at 129-134), a claim the appellants unsuccessfully pressed in the United States District Court. That claim does not include a challenge to the validity of the \"Holland-Gromack\u201d law which confirms the Town\u2019s authority to limit or displace competition (see, L 1991, ch 569) and the constitutionality of which in any event is not before us (see, CPLR 1012 [b]; Jefferds v Ellis, 122 AD2d 595). Under the circumstances, we . uphold Supreme Court\u2019s determination granting the Town summary judgment.\nThe appeal from the order dated July 15, 1991, is dismissed because the right of direct appeal therefrom terminated with the entry of the judgment in the action (see, Matter of Aho, 39 NY2d 241, 248). The issues raised on appeal from the order are brought up for review and have been considered on the appeals from the judgment (see, CPLR 5501 [a] [1]), and the order dated September 16, 1991, made upon reargument. Further, the appeal from the judgment is dismissed, since it was superseded by the order dated September 16, 1991. The order dated September 16, 1991, is affirmed insofar as appealed from.\nThompson, J. P., Bracken and Miller, JJ., concur.\nOrdered that the appeal from the order dated July 15, 1991 is dismissed; and it is further,\nOrdered that the appeal from the judgment dated July 31, 1991, is dismissed as the judgment was superseded by the order dated September 16, 1991, made upon reargument; and it is further,\nOrdered that the order dated September 16, 1991, is affirmed insofar as appealed from; and it is further,\nOrdered that the respondent is awarded one bill of costs.",
+        "type": "majority",
+        "author": "Harwood, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Granik Silverman Sandberg Campbell Nowicki Resnik, New City (Morrie Slifkin, David W. Silverman, Kenneth H. Resnik and Ricki H. Berger of counsel), for appellants.",
+      "Richard A. Glickel, West Nyack, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Town of Clarkstown, Respondent, v C&A Carbone, Inc., et al., Appellants, et al., Defendants.\nSecond Department,\nAugust 31, 1992\nAPPEARANCES OF COUNSEL\nGranik Silverman Sandberg Campbell Nowicki Resnik, New City (Morrie Slifkin, David W. Silverman, Kenneth H. Resnik and Ricki H. Berger of counsel), for appellants.\nRichard A. Glickel, West Nyack, for respondent."
+  },
+  "file_name": "0213-01",
+  "first_page_order": 247,
+  "last_page_order": 259
+}

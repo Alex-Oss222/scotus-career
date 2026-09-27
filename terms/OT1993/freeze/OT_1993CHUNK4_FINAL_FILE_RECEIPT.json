@@ -1,0 +1,977 @@
+{
+  "status": "Durable file-integrity receipt; no Git operation or commitment claimed",
+  "files": {
+    "terms/OT1993/entering-law/OT_1993CHUNK4.md": {
+      "bytes": 35425,
+      "sha256": "cb15eab97b282d634c38433956248fdaf4c7b517deae6123dddd373dba5471e2"
+    },
+    "terms/OT1993/entering-law/OT_1993CHUNK4_COMPLETED_PUBLIC_AUTHORITY.md": {
+      "bytes": 581574,
+      "sha256": "f17e9343a435ab2d29864c6ba72add908fd68a332972521433ef8d345c6af42c"
+    },
+    "terms/OT1993/entering-law/OT_1993CHUNK4_LANDGRAF_PUBLIC.md": {
+      "bytes": 15988,
+      "sha256": "099162a36b7dda40e8c2346030efd7a326ce6c52e3a22a42cc831630055d362f"
+    },
+    "terms/OT1993/entering-law/OT_1993CHUNK4_STANSBURY_PUBLIC.md": {
+      "bytes": 6076,
+      "sha256": "b4d226f81acdddc4ab079ea93a4a824072a9b701d282a3f457733af11b36323d"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Alvarez-511-350.pdf": {
+      "bytes": 406579,
+      "sha256": "18b5700a38da4fd31324bceb3ca2a14f6ae7903b0e330e37225f41403ca0b217"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Alvarez-511-350.txt": {
+      "bytes": 27963,
+      "sha256": "8b8ebd7d9e4edf0770d424df427c5546efa1e1b2c72bb4e852c61dfd8350d5e2"
+    },
+    "terms/OT1993/freeze/chunk4-sources/alvarez-ca9.json": {
+      "bytes": 95819,
+      "sha256": "54b91c8164f074e0abd3927a517c4c22f93727f56f82a6805d9b34a49ed2681c"
+    },
+    "terms/OT1993/freeze/chunk4-sources/alvarez-ca9.txt": {
+      "bytes": 64622,
+      "sha256": "780d6d03510364304185e9bb9a5b5d0abc925f279a918db57c57ce6930dd6966"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Alvarez-govinfo.pdf": {
+      "bytes": 221130,
+      "sha256": "01625f251be3a5e8a8de04191653d2e305bc26a5e01ccea15e584d33490ae4b6"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Alvarez-govinfo.txt": {
+      "bytes": 32292,
+      "sha256": "a9f282c133353079d742993c64720b372bc6e269e7b9d10c0752259930e6aa6c"
+    },
+    "terms/OT1993/freeze/chunk4-sources/american-trucking.pdf": {
+      "bytes": 771915,
+      "sha256": "e9b14c4e9decf355543ff2f9dc57a69e1ca93f80c574fbfe3dffe7e589d2b6e9"
+    },
+    "terms/OT1993/freeze/chunk4-sources/american-trucking.txt": {
+      "bytes": 57666,
+      "sha256": "198ffe6f51baae74963f160fab6b08b205d1462781abe2c6bd4fd9d3e2b0a6fb"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-511-364.pdf": {
+      "bytes": 165700,
+      "sha256": "a2da54583710dd933e7b6763440c03ff6eaed26a6fe6e83522a28c0ba28e3d99"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-511-364.txt": {
+      "bytes": 10955,
+      "sha256": "38b2493c7162e160b377088c775db2aa88e30bf538d743cd48f37803d6a0ad61"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-govinfo.pdf": {
+      "bytes": 192314,
+      "sha256": "278036eebe25b2bac416e3d871896b8618c6400bd8b0245b58393feb27147be0"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-govinfo.txt": {
+      "bytes": 7000,
+      "sha256": "a1cdcd60078f4372c0b12edacfc818d5311adb4ca5370b880293cd8e2852d1b4"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-IA-files.json": {
+      "bytes": 19993,
+      "sha256": "0f952874dc8f8443301d33124088fd46a2ef3d6908d2e3214da6cd24a5148988"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-IA-files.xml": {
+      "bytes": 27162,
+      "sha256": "f52bbd7d4b0c1e93b86fac445c22b526db5864c46cc8d132cc4f82b323401b88"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-IA-search.json": {
+      "bytes": 66244,
+      "sha256": "f958bdde7ab5857ddf860fe594a7168a632c402e1fdaec0e287a9a1cc648bc1e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-petition-djvu.txt": {
+      "bytes": 119819,
+      "sha256": "4111bdd2a87775ba3f9b49250ae08f034aa1fbbc347b75b3d8920d449828a70a"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-petition.pdf": {
+      "bytes": 17982691,
+      "sha256": "46a2da51cfa8e4053e7f64c01688de2c9656086e8104a968d52dd54d2d358b5f"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Anderson-petition.txt": {
+      "bytes": 209988,
+      "sha256": "54119f2a375e5bd615c2f1d5130b72f6fd97289b7a0b1c9229e8128898e45693"
+    },
+    "terms/OT1993/freeze/chunk4-sources/anderson-us.pdf": {
+      "bytes": 265258,
+      "sha256": "f7389488e392f6ab556a543b454ab15952beadb8310f250775cdd565a05a2a89"
+    },
+    "terms/OT1993/freeze/chunk4-sources/anderson-us.txt": {
+      "bytes": 16685,
+      "sha256": "8112b7c623c7f4a99cf43740778ca3e76512f4b24bfd5e0619cc3ca39c2da577"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Beecham-511-368.pdf": {
+      "bytes": 224949,
+      "sha256": "c0a6120196b5a77d4c4d6e4e7d382c68cfa2fc5ae37d014b7a5d8e1766506bca"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Beecham-511-368.txt": {
+      "bytes": 14933,
+      "sha256": "8ddceee719109b00a94762902f1485662dc53b80d950fe09fb8c9592de1bb1b6"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Beecham-govinfo.pdf": {
+      "bytes": 203191,
+      "sha256": "628ca22f2b3dee17c173e194a8a656689022592edf41b0c1217ca48c0da49bb2"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Beecham-govinfo.txt": {
+      "bytes": 15963,
+      "sha256": "f6e604ff8d66ad6fdb812e0c1e25067aba139795ebad826c9fff22f9e79a9d54"
+    },
+    "terms/OT1993/freeze/chunk4-sources/beheler.pdf": {
+      "bytes": 272804,
+      "sha256": "708f929cf91a751b0a648c5ef7bcbf795b526af8bd3b0ec9b85c2a7028def117"
+    },
+    "terms/OT1993/freeze/chunk4-sources/beheler.txt": {
+      "bytes": 16225,
+      "sha256": "001bf06d19ad7131b5351817d66c61223f6991c7eca0e110268233512fb4f155"
+    },
+    "terms/OT1993/freeze/chunk4-sources/bennett.txt": {
+      "bytes": 55211,
+      "sha256": "73e84cb73b3f2f84a88c460db866de48767d72cecea3f482de867763215f6f4e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/berkemer.pdf": {
+      "bytes": 829023,
+      "sha256": "fd916f6617423169b7878b352faa0664c1fbafbe3bf0cd6376d1af49dd075882"
+    },
+    "terms/OT1993/freeze/chunk4-sources/berkemer.txt": {
+      "bytes": 64685,
+      "sha256": "5f0c2ef6935bdecbf09217a332034354247b6a9faf9a56451c9816172a57cc9e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Boca-511-222.pdf": {
+      "bytes": 49448,
+      "sha256": "9ba57238ba658c0b72b1c0b31cfb14ff98c1959ed5e89c23453ea619ac7e4ad3"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Boca-511-222.txt": {
+      "bytes": 2462,
+      "sha256": "0c8f6874415b6316b088fd3f49e140d09d5f3949fbe7efb506cf7885b1ea824b"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Boca-govinfo.pdf": {
+      "bytes": 192681,
+      "sha256": "0a735b7a88efa6e5df2bd44f532863f3f9ec9c35bd612a5a74ea807f95611aaf"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Boca-govinfo.txt": {
+      "bytes": 2765,
+      "sha256": "0cfbb2e9c3056eb4443e3afea3e7ca8f0d9a1c7473cb4658257939662462ff45"
+    },
+    "terms/OT1993/freeze/chunk4-sources/boca_below.txt": {
+      "bytes": 2633,
+      "sha256": "313e18ded83905b4c58cb8787f797002ffe43753d5199ef5f9b91e2495a9fcd8"
+    },
+    "terms/OT1993/freeze/chunk4-sources/bowen.txt": {
+      "bytes": 48575,
+      "sha256": "d7fdb7ce4af1ee0ec6b916846560b23c28f1ee2631c8a72df10c699a2ab526e0"
+    },
+    "terms/OT1993/freeze/chunk4-sources/bradley.txt": {
+      "bytes": 62860,
+      "sha256": "516aa9c984a54896761007bd647bf34e0ee96698a198393728f39d0e426173dc"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Carbone-511-383.pdf": {
+      "bytes": 1529765,
+      "sha256": "05807e4333bc31534227b2a614964b92facc14b2fdb6020f27ea983c5d879e19"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Carbone-511-383.txt": {
+      "bytes": 106196,
+      "sha256": "10678d70337009d6fb42fa6d39da64a76fed5a2736ddb3e2fccf8f2a3c2d580f"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Carbone-govinfo.pdf": {
+      "bytes": 310679,
+      "sha256": "4ec5cad7868726db8b1484d731a4030c96658fa1ab66f61c674a39f04b12fbae"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Carbone-govinfo.txt": {
+      "bytes": 111365,
+      "sha256": "fd4960af748425b029274268e03bafa13a73b67bff57b8621f067c8ab8a79458"
+    },
+    "terms/OT1993/freeze/chunk4-sources/carbone-lower.json": {
+      "bytes": 37243,
+      "sha256": "2e6e3f3deb0b4c66ced65c3dbee2b0c4c84f4f553f7df19a7a0a81c6eebe6dad"
+    },
+    "terms/OT1993/freeze/chunk4-sources/carbone-lower.txt": {
+      "bytes": 25787,
+      "sha256": "0682e3f35395520caa9d6c4ec4017faa5192f82f5bff17778f0dcd71dda80e10"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chapman.pdf": {
+      "bytes": 750912,
+      "sha256": "f11450801925e0d930a7d4e1fc4b081fe97e41fc6125f40e7b4bece922bea024"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chapman.txt": {
+      "bytes": 57770,
+      "sha256": "14ac6b89d6255ff8ca702b0b0a6b6b85f86aba8fc4feb3fefb66d578954ac8ae"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chevron.txt": {
+      "bytes": 67042,
+      "sha256": "42306b173783edd6fa0657b65a5c0a82c4422b02bbeabd9ffe8c8eda9bc852f5"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Chicago-511-328.pdf": {
+      "bytes": 705080,
+      "sha256": "a4224c2dbf9db652924670ece6a77e597066b350c0d1cc1c19cafaae137e4b78"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Chicago-511-328.txt": {
+      "bytes": 47488,
+      "sha256": "4b836f2c7266ea3668102a91eacdaa432d87edfff515f151bdf393a71a33063e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chicago-ca7-1991.json": {
+      "bytes": 37474,
+      "sha256": "0250cd62aeaa60444c129541426c4ac9161584ce16b5b1305dcb247978cdb7ab"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chicago-ca7-1991.txt": {
+      "bytes": 27749,
+      "sha256": "d95e37e471d1530b9ca1e71c215ccb19f31fa47cbb2d5a788ef8e4ea736caeeb"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chicago-ca7-1993-neutral.txt": {
+      "bytes": 4596,
+      "sha256": "1766dee1a9f1d437b2661ddc0aa00901154b448d68b09804a1e74092e7a00b94"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chicago-ca7.json": {
+      "bytes": 11434,
+      "sha256": "27b95d85c594ed6d512356b31380d2ec96f0623d935cf18b4de4393ea6c56ac3"
+    },
+    "terms/OT1993/freeze/chunk4-sources/chicago-ca7.txt": {
+      "bytes": 5814,
+      "sha256": "2d1281c92a17a9ea1f166875eb939097c71b8f642184abaf3d051e138b4a5d81"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Chicago-govinfo.pdf": {
+      "bytes": 241243,
+      "sha256": "05751a4be05c652ea86e76c04a0f661f94e535a88897bb662a8e82e6a336aa6f"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Chicago-govinfo.txt": {
+      "bytes": 50119,
+      "sha256": "c4bfbdebc1d21884666e0b7e3ee4fb25101953dd7f1eb4d2070d2103418a808d"
+    },
+    "terms/OT1993/freeze/chunk4-sources/civil-rights-act-1991.pdf": {
+      "bytes": 4794486,
+      "sha256": "b2ef77631a66148f53d69cf53b40f2d5af5858fd065ec0fa6f4984fc50e44cff"
+    },
+    "terms/OT1993/freeze/chunk4-sources/civil-rights-act-1991.txt": {
+      "bytes": 90454,
+      "sha256": "ff301f4abfd2eaac158079c670919fc10262bf352ad9cafececbc44f25f54b13"
+    },
+    "terms/OT1993/freeze/chunk4-sources/cts.json": {
+      "bytes": 85994,
+      "sha256": "90f38f2bea6b4c4c585c13b2bb9b072d1625dd6662900a6431d1adbb9c9f7930"
+    },
+    "terms/OT1993/freeze/chunk4-sources/cts.txt": {
+      "bytes": 62011,
+      "sha256": "8b08c96eda12c01220a1269887dea02fd19173dd7398c62809b1e1e3510b2b56"
+    },
+    "terms/OT1993/freeze/chunk4-sources/deanmilk.json": {
+      "bytes": 31261,
+      "sha256": "9d93df6234ffa3650bfd8a96bba5c2c0ad7cb00ba7cce9ca6ff5a3d1bd41621f"
+    },
+    "terms/OT1993/freeze/chunk4-sources/deanmilk.txt": {
+      "bytes": 20674,
+      "sha256": "9f72a17052e1117a76e792bf4841b58bba856433cc24be422691ec94d9b1da31"
+    },
+    "terms/OT1993/freeze/chunk4-sources/dickman.txt": {
+      "bytes": 52131,
+      "sha256": "d1a36bdf3eb73d45a27ce39659657f6ff7485750e239e03fb76d1ccb6e7abb8c"
+    },
+    "terms/OT1993/freeze/chunk4-sources/exxon.json": {
+      "bytes": 93122,
+      "sha256": "538684ed690ceed2fa8ba32101c868af05681bdec31be2d4db17f1c2184483c1"
+    },
+    "terms/OT1993/freeze/chunk4-sources/exxon.txt": {
+      "bytes": 70878,
+      "sha256": "295d4f2b9a63f9b5db3cde64e7d49f658f157a2575a6acfc67a0d224fbf06d07"
+    },
+    "terms/OT1993/freeze/chunk4-sources/gersman.txt": {
+      "bytes": 123610,
+      "sha256": "a609ae0597427f5ae5448eb866109580aeac19651dfa620d766468e8d4909242"
+    },
+    "terms/OT1993/freeze/chunk4-sources/gersman_index.txt": {
+      "bytes": 31005,
+      "sha256": "231f988831f99c94e9cc0eaad0819c64734c2956c29a43eb7648ed75af2ea26f"
+    },
+    "terms/OT1993/freeze/chunk4-sources/GOVINFO_REPORT_RECEIPT.json": {
+      "bytes": 4362,
+      "sha256": "7b37b569a7f355a183cfc22ae8410b1df2c12eaf85768b2d35f8eaf4dbba4018"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Irvine-511-224.pdf": {
+      "bytes": 634795,
+      "sha256": "d77e627ac2306774f173f3b2670abaef05a66c5e73d222134220a06808fde426"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Irvine-511-224.txt": {
+      "bytes": 44008,
+      "sha256": "432fb0ce8bb9415dc38aa2ddb733b1e2264c06f28fd2114efda2cf2952fa211b"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Irvine-govinfo.pdf": {
+      "bytes": 239301,
+      "sha256": "46e81457de0746514667717d6b1a16fe722fba18b61a246def6568af1d57cbd1"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Irvine-govinfo.txt": {
+      "bytes": 46502,
+      "sha256": "eef6ee8166cb42da6b189f6f433cf4608c098fbfc5b97990922f530fa16d0356"
+    },
+    "terms/OT1993/freeze/chunk4-sources/irvine_below.txt": {
+      "bytes": 47907,
+      "sha256": "71e9446afdd1b67bca8d6e63c6bbe2acfc542d822db65b504f9701dcc72b71ae"
+    },
+    "terms/OT1993/freeze/chunk4-sources/irvine_index.txt": {
+      "bytes": 52772,
+      "sha256": "dea52e1db662cbd59986cbebeabbebd5a12a54d64074b691899fc0233d22c80e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/jewett.txt": {
+      "bytes": 51364,
+      "sha256": "ecdd8f022e93eecba54ad36050df0a7252de7116d74cfdc4efb02a63704e648e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/jones-lower.json": {
+      "bytes": 33405,
+      "sha256": "53bb36197a8b5ae8103f6fc913b78e034adcca9c99c15c71b22fd7079654bf70"
+    },
+    "terms/OT1993/freeze/chunk4-sources/jones-lower.txt": {
+      "bytes": 18884,
+      "sha256": "3800d326eaa7ecd6a06538e7c0211446de04e4dc8d4e6d2a342c07549cd94b1e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/kaiser.txt": {
+      "bytes": 100399,
+      "sha256": "0e763ba5bd9e58cd7af761a1e7fc45b9b0d03de9333897b4772bd340dbec3495"
+    },
+    "terms/OT1993/freeze/chunk4-sources/kmart-lower.json": {
+      "bytes": 48705,
+      "sha256": "6f315990ade963933dc147e8cdbd4d96c40ab484f77a2262a5d80d1c935edf1b"
+    },
+    "terms/OT1993/freeze/chunk4-sources/kmart-lower.txt": {
+      "bytes": 35542,
+      "sha256": "38aa3ebbab3869ac7852a40843541f2b566572f4169cc9f4423a3b9d075c4da9"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Kokkonen-511-375.pdf": {
+      "bytes": 245196,
+      "sha256": "a7303c990f3be8857eba64a2534f36476de9d9c0e8d6d1cf5af3f613297042d4"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Kokkonen-511-375.txt": {
+      "bytes": 16594,
+      "sha256": "0ee59406bb85608b7e53b2737292c1a44ac60c1f4587c1bf5a3a493c593db514"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Kokkonen-govinfo.pdf": {
+      "bytes": 205753,
+      "sha256": "c7bc16b01546fdbe257107e23c9a56782e14ea00c83fa42e351167c4c490644d"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Kokkonen-govinfo.txt": {
+      "bytes": 17478,
+      "sha256": "dee995b75190e0db575edeff6387690e6704e50b5eb0d8ca0532bc6202dbb18d"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Landgraf-511-244.pdf": {
+      "bytes": 1837281,
+      "sha256": "0c953466da0b7f6ba2089b2877d23516e0cc40ac52bd29f9efce27f05b514143"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Landgraf-511-244.txt": {
+      "bytes": 127262,
+      "sha256": "6a020208036b09ed8afaac383e5e26851cd47bb91c7ad2cb30174a08f257eee3"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Landgraf-govinfo.pdf": {
+      "bytes": 344678,
+      "sha256": "96e7eaf2b7e2f6c9af875937dd57bb6d5be982f38a514681d81a7f3ab39363e6"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Landgraf-govinfo.txt": {
+      "bytes": 133108,
+      "sha256": "711d552f3a00a94ffc5e8d0cafac8e31ba3454e59f80d4a3938876a01de7c5c8"
+    },
+    "terms/OT1993/freeze/chunk4-sources/landgraf_below.txt": {
+      "bytes": 20847,
+      "sha256": "ad80b39a00652896779d5a2f668e6c3f75e15a32469cb118234879e260b5cfe4"
+    },
+    "terms/OT1993/freeze/chunk4-sources/landgraf_index.txt": {
+      "bytes": 61493,
+      "sha256": "af524fbc4df9b936b1e3a1e461cb0d95bbeeb2044da04aa370eb084cd466dd9a"
+    },
+    "terms/OT1993/freeze/chunk4-sources/lytle-494545.pdf": {
+      "bytes": 376345,
+      "sha256": "11d1b006cac0a486a6e5c6564f11e606d1f7243f7d7d0351535386788b7120bc"
+    },
+    "terms/OT1993/freeze/chunk4-sources/lytle-494545.txt": {
+      "bytes": 28276,
+      "sha256": "a52202bb91094bd43b0ac474fa36f00b8997d239164b398e02220da297f52f37"
+    },
+    "terms/OT1993/freeze/chunk4-sources/maislin.pdf": {
+      "bytes": 1170910,
+      "sha256": "3b5516b40fc3434ebb96dd39045a01598ad82832cb8bbdf7f75f28328bb38bf4"
+    },
+    "terms/OT1993/freeze/chunk4-sources/maislin.txt": {
+      "bytes": 90399,
+      "sha256": "7048f263f9df768c80aff0739778bb2de23224ba2a3edb8df281cda8a413232e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/morgan.txt": {
+      "bytes": 1352,
+      "sha256": "8b1d47968555560e5cc578466dbf114e6f197a29a6ce94428a98d760189f70c0"
+    },
+    "terms/OT1993/freeze/chunk4-sources/negotiated-rates-1993.pdf": {
+      "bytes": 1672325,
+      "sha256": "5ebcb934507146fb7d4a92ed694f668e78e8653df6f5383ca93aba3f0432194a"
+    },
+    "terms/OT1993/freeze/chunk4-sources/negotiated-rates-1993.txt": {
+      "bytes": 34982,
+      "sha256": "a06bcb7485a3baf4dc5e13834f45a164d6baa4f13250572c4d4f7afc6fb70d41"
+    },
+    "terms/OT1993/freeze/chunk4-sources/newenergy.json": {
+      "bytes": 31676,
+      "sha256": "a8f3241d1eecbdc2152566e32a9dd03917de2ff6c75d3a0c3269a6047f0e5738"
+    },
+    "terms/OT1993/freeze/chunk4-sources/newenergy.txt": {
+      "bytes": 19338,
+      "sha256": "6097c79ccac2ab38243bd0d097542bfe7780ea04730fe4e70a773f766257f6f7"
+    },
+    "terms/OT1993/freeze/chunk4-sources/OFFICIAL_REPORT_RECEIPT.json": {
+      "bytes": 5114,
+      "sha256": "90a383a1e094fb11e302340f47af6ae1bbe84e1c455d13a832673a098e7bf5c7"
+    },
+    "terms/OT1993/freeze/chunk4-sources/patterson-491164.pdf": {
+      "bytes": 1812312,
+      "sha256": "df5bade07e36af67e169ff20c98364399be23edbf9080b60070215e799cac3c2"
+    },
+    "terms/OT1993/freeze/chunk4-sources/patterson-491164.txt": {
+      "bytes": 135629,
+      "sha256": "8fbb28c9a08b6ec8c8697697d12bd68954401ce6f280d39f1cfdc04be2f5a5ad"
+    },
+    "terms/OT1993/freeze/chunk4-sources/pauley.txt": {
+      "bytes": 88600,
+      "sha256": "8bfd91e2f0a6c7f9ac993343760f7fef502e387dc8ee5e99948dd1301836d0ea"
+    },
+    "terms/OT1993/freeze/chunk4-sources/perkins.pdf": {
+      "bytes": 524281,
+      "sha256": "51edefdaca4234daf0556db56f8b0e99a0699308c78985b0ec929583622c55e2"
+    },
+    "terms/OT1993/freeze/chunk4-sources/perkins.txt": {
+      "bytes": 40108,
+      "sha256": "24995971f195a5d2e9901554dd4c939ba098779255d6215002f90a8c8ba2acd3"
+    },
+    "terms/OT1993/freeze/chunk4-sources/pike.json": {
+      "bytes": 23503,
+      "sha256": "3dea491a37ab4a9fd7539245494844dfadadda52ea5d3a52ca3457938f513cde"
+    },
+    "terms/OT1993/freeze/chunk4-sources/pike.txt": {
+      "bytes": 15868,
+      "sha256": "c66c074edaa2a4dc8dfd08432017fd7a8483df4f22858aef11de8c5c31439de2"
+    },
+    "terms/OT1993/freeze/chunk4-sources/RCRA-6903-1994.pdf": {
+      "bytes": 216190,
+      "sha256": "9b98b56d5ba23dd841953a252525e98133971b3e4a11d0e271d9b0acf68caa92"
+    },
+    "terms/OT1993/freeze/chunk4-sources/RCRA-6903-1994.txt": {
+      "bytes": 24634,
+      "sha256": "5474d91626e4d5ba4143d9fea14d3cb95723ef19a1d0a73d493b484d500c28c6"
+    },
+    "terms/OT1993/freeze/chunk4-sources/reeves.json": {
+      "bytes": 82717,
+      "sha256": "475df4db9a13eed99425e69984d5d3b9e7abf9b15848c76db92f33a2004c3a36"
+    },
+    "terms/OT1993/freeze/chunk4-sources/reeves.txt": {
+      "bytes": 52332,
+      "sha256": "77da69113a07314fe8baebf407cdfd7262e0619006d91fd6d46f9a462f65e4c4"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Rivers-511-298.pdf": {
+      "bytes": 667649,
+      "sha256": "68699c334a2a3d82ae5c686c4857f321df9b7e3cfc0964ec7c31fa4dc472fdaa"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Rivers-511-298.txt": {
+      "bytes": 45439,
+      "sha256": "689cb6b27b52bbc8e8509550ffd432fc3c267efa1474d21fe5c85b93469151e6"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Rivers-govinfo.pdf": {
+      "bytes": 245307,
+      "sha256": "62f53462145c719e625b01529c6250e55f0cffa179b47a2f5d8b30b161d2a50b"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Rivers-govinfo.txt": {
+      "bytes": 47832,
+      "sha256": "972da6c262b1c2520572165a80ef049e3a2db90502257eedbced51929b1e2ea4"
+    },
+    "terms/OT1993/freeze/chunk4-sources/rivers_below.txt": {
+      "bytes": 28862,
+      "sha256": "8d5d2b4ec5d10b24fbc44ff989aa55d913371bba1b4a331c3c94eb6951e1f751"
+    },
+    "terms/OT1993/freeze/chunk4-sources/rivers_index.txt": {
+      "bytes": 27210,
+      "sha256": "0128f1d092519b9cc338c55c04e395f485c9f8ee71a7947673240d3707846a06"
+    },
+    "terms/OT1993/freeze/chunk4-sources/rust.txt": {
+      "bytes": 114940,
+      "sha256": "b052ddf6105e61681a783622f903ca9e0cc92468993983dba07068263c50f0ca"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Security-511-431.pdf": {
+      "bytes": 1015873,
+      "sha256": "2cb167e427023e911d1e0664fd924c4825c457523259ed54c972b98fff2c8d6a"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Security-511-431.txt": {
+      "bytes": 69668,
+      "sha256": "334cf225e7e029b4736c30cf1d8b427f6851123f01699a228798ab0838a29859"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Security-govinfo.pdf": {
+      "bytes": 269242,
+      "sha256": "977ac27b82b7f8b466a999e7054784459cdd5c7d9868a5c29e0d62b79f8b3774"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Security-govinfo.txt": {
+      "bytes": 73390,
+      "sha256": "058cc86ada78424e14d743dc323c7c9ebcdc4b1ea6962caeeb7679171cdfaa4b"
+    },
+    "terms/OT1993/freeze/chunk4-sources/southcentral.json": {
+      "bytes": 60778,
+      "sha256": "84ac133ac8388af76a22cf1bb470342f6801ccc1695e0652a59027e427e82e6c"
+    },
+    "terms/OT1993/freeze/chunk4-sources/southcentral.txt": {
+      "bytes": 42025,
+      "sha256": "44d0c04e841a9c2c06419dea5b05e5955efd64d2b0319aba54f0c3bf5cdfdf9d"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Stansbury-511-318.pdf": {
+      "bytes": 298284,
+      "sha256": "454489225cb3da698e44c88dc4a9e032e96a154508de70358659a367358c1056"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Stansbury-511-318.txt": {
+      "bytes": 19923,
+      "sha256": "845049941f6a516de30e7d9718346fe3be1ae64a1e525ad68b3050c0adfb189b"
+    },
+    "terms/OT1993/freeze/chunk4-sources/stansbury-ca.json": {
+      "bytes": 191669,
+      "sha256": "fc1944b287290319df25c8dcc189f7bbc093018b1c8f5bdc1bef51afcd22fd3e"
+    },
+    "terms/OT1993/freeze/chunk4-sources/stansbury-ca.txt": {
+      "bytes": 124912,
+      "sha256": "b1e6760bb8dc50021ce0014b484bb147d189402f9c5413491b5780b661ff221a"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Stansbury-govinfo.pdf": {
+      "bytes": 209581,
+      "sha256": "2158ff5f246365a0a3892c63fac705fe06941bb439e7cb34d00c047b370bf8f7"
+    },
+    "terms/OT1993/freeze/chunk4-sources/Stansbury-govinfo.txt": {
+      "bytes": 21161,
+      "sha256": "ce3989a2c8a67a0c40d22d2731063d7210722a582094d1abd9d63ab11291d364"
+    },
+    "terms/OT1993/freeze/chunk4-sources/wheelabrator.txt": {
+      "bytes": 8755,
+      "sha256": "31f0ccbe82a23e23095b4e95234f85119244e2046e93cb9e6aa46de98ca6c671"
+    },
+    "terms/OT1993/freeze/chunk4-sources/wheelabrator_index.txt": {
+      "bytes": 57871,
+      "sha256": "7c201610e24ee653df8753fc9f798248ec1f8a5e2f86aaecc3444b3096e7c858"
+    },
+    "terms/OT1993/freeze/chunk4-sources/wilkinson.json": {
+      "bytes": 23321,
+      "sha256": "001a21f996e42873012709280c809e356db5b1951621797c7b67817ef1a8c998"
+    },
+    "terms/OT1993/freeze/chunk4-sources/wilkinson.txt": {
+      "bytes": 12064,
+      "sha256": "069dbb4ab74ce063e3f563267748a139c1e689b3705a8bcf0f19f7458f5a67a1"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ALVAREZ_NEUTRAL_REFRESH.md": {
+      "bytes": 7015,
+      "sha256": "89184c4921f776c3b60d3c30afb9d51193981b8a1c2bd281b36b41651170d12e"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ALVAREZ_PUBLIC_FORMULATION.md": {
+      "bytes": 3581,
+      "sha256": "40cd5d60b1e9c2a8b0c7bf96e6140e64b65ca98894b6914fff04c3f1d7d2dc27"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ANDERSON_COMMITMENTS_REFRESH.md": {
+      "bytes": 10203,
+      "sha256": "c0a17da91c5c90fc578b647d81dda45123fd974021447d6083de2cd316f992a8"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ANDERSON_NEUTRAL_REFRESH.md": {
+      "bytes": 10404,
+      "sha256": "6fabc165f10e0f93615c2aa7e7a3a91e23a99b67a8fd86a100b86c2ca3e00af6"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_B_FINAL_VOTES.json": {
+      "bytes": 2770,
+      "sha256": "79a88fe242a467adf53dbf425e8a1f38eb0679d493479b639b50ffb6e33c7acb"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_B_VALIDATION.md": {
+      "bytes": 4344,
+      "sha256": "e3fee82f9329e4797d57303f151d0e8a191ca86def9a96b3c9c3b63240cf7381"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_Boca_Grande_Club_VOTES.json": {
+      "bytes": 967,
+      "sha256": "378feada0318e6e67f8699d25b8ac7d288d9d0f238db1ced37d193063f42874b"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_City_of_Chicago_VOTES.json": {
+      "bytes": 1185,
+      "sha256": "b5dc4c999c8ee044c4affd51817dffdd1e95d715f1e94a49672d23d0476f52ed"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_D2_CHECKS.json": {
+      "bytes": 756,
+      "sha256": "991012f62f0bfe7d2da8c5e3ad055a3118efbe28158fcb6a0da4f8a84fb7d21d"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_D2_RECEIPT.json": {
+      "bytes": 830,
+      "sha256": "165f00abad4cccf9a2330284090602e3ca7a93d08ed7e4186dc70b411df0a906"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_D2_VALIDATION.md": {
+      "bytes": 8330,
+      "sha256": "adf43a17823d0fa29baddee5fc41b5b47c996447ee44dea7d073429b71fc7f77"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_D2_VOTES.json": {
+      "bytes": 3516,
+      "sha256": "c9bb428a2abab55fa969761dcf8b583f51458655c54b579186e2b8aa29ec43ad"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_In_re_Anderson_fee_order_1994-05-02_VOTES.json": {
+      "bytes": 1551,
+      "sha256": "bff20bdd57dbcab98c216d8da6ac8a95837ab3552b14be99ac83731715522f7a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_Landgraf_VOTES.json": {
+      "bytes": 1310,
+      "sha256": "446fa0c0a8e39b8b6f417cd4b5c449d77eaf167168a679f9ccfdbca5ad2f5c67"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_Rivers_VOTES.json": {
+      "bytes": 1170,
+      "sha256": "685648b12fc2896f592bfabdc0949b3f67374bb169599f3b981f543600705c87"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_Stansbury_VOTES.json": {
+      "bytes": 904,
+      "sha256": "713f0b86e642be5e6c48d6eb9418b0762f1cefd5a09944db9c620cf134a38e00"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ASSEMBLY_United_States_VOTES.json": {
+      "bytes": 1241,
+      "sha256": "9f7ae70d5839aa829bdefea52da4d3669d8c8a1d3eb23b7085eab8b11a0093a3"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_CHECK_OUTPUT.txt": {
+      "bytes": 11415,
+      "sha256": "5b8db615677979189645c374d67c151a4b3fe56a3ada27474f5ecaaf8feab500"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_CHICAGO_DEFINITIONS.md": {
+      "bytes": 613,
+      "sha256": "fd935ae096afe5ae62b1fa63acaaf6cb067782ca36d27f492c24bffed1e3b55a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_CHICAGO_STATUTE.md": {
+      "bytes": 1865,
+      "sha256": "e44f31ddb716c8e6bbc0c3c9ba32b29f237f865383f4b697f8ad33c289003696"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS.md": {
+      "bytes": 2861,
+      "sha256": "493a4a13c1b67cd20b5bf6809abf3d3eedc31cbfab1fc61252045ecd268ace9b"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS_A.md": {
+      "bytes": 30655,
+      "sha256": "f80f2e5f427bf8169e3e68eb8e21bcdc703f93e4466e105c107e2466148bf945"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS_B.md": {
+      "bytes": 26095,
+      "sha256": "dba8934fce615fe669e871e94b6558c4c06d11a4a7c26ff408035248f25142de"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS_C.md": {
+      "bytes": 18260,
+      "sha256": "cb6c993adb249b89d8f0d8585f308e33e66ab4336507ce2829c026d3a82bdd19"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS_D1.md": {
+      "bytes": 18195,
+      "sha256": "ec755688e5f810cde345935f091bf26097eeb57560dab99bff9fbe1ba39c025d"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS_D2.md": {
+      "bytes": 22947,
+      "sha256": "b14ba4837b9c6b92a6018b0687eee440d91c4b207090ea7ec59461f16a5c7a25"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_COMMITMENTS_RIVERS.md": {
+      "bytes": 19947,
+      "sha256": "80421d11d5017e3c914f10492ba8705e065cd12915b65ccaac6bfbefb1ef6ee0"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ENTERING_CONTINUITY.md": {
+      "bytes": 201469,
+      "sha256": "173aed2a4f5ddb999eb1d405a948df06f481ffdbca7de964d0cedfa517565774"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ENTERING_LEDGER.md": {
+      "bytes": 19929,
+      "sha256": "c61c4fd942616688c0f8b838606fd926ba3a39c670e3caab70beea9597a1990d"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ENTERING_MANIFEST.md": {
+      "bytes": 26105,
+      "sha256": "e6ef6fb4865fa53c2591347d9895bc76382a6d1c35d804ef972ff6a205e3defd"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_ENTERING_NEUTRAL_PROJECTION.md": {
+      "bytes": 199534,
+      "sha256": "1cd40e5ec4c3b40651d75b09f6c75f98fb631681d03b81928af1265f091a0ef9"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_FINAL_CHECKS.json": {
+      "bytes": 6702,
+      "sha256": "444692a893c064de338c9be3a036fae037d9b03833e531873213d14457eb8ef7"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_INPUT_CHECKS.json": {
+      "bytes": 2148,
+      "sha256": "5ab3a1a9a36650343c8cc977a3b1056cdbad5822b49315fa96cbceeb88cd76cc"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_IRVINE_NEUTRAL_SCOPE_ADDENDUM.md": {
+      "bytes": 4172,
+      "sha256": "6b225b54c022116fe6e1de2e1fdb4bbb9363a025b4651feca986d1b300ae9750"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL.md": {
+      "bytes": 131782,
+      "sha256": "93d4259514ddaee79f893a918fb573c473f712310c66ba321ed198496e6bd5d6"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_A_VALIDATION.md": {
+      "bytes": 16885,
+      "sha256": "26a68d38c6527d5c147cb9e7d5f9f8c6e6f66e758d03739dc926a6a8bb20851a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_B_VALIDATION.md": {
+      "bytes": 15491,
+      "sha256": "90654be4f4cc9b3f515121e5782c96f188cb6c838caa9b4fab7b2c55c1847c0a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_C_VALIDATION.md": {
+      "bytes": 11873,
+      "sha256": "36c450ed54c97b0f14b87ec4cdb73953120bdbfd9b60afd26814b4c1a7ed65d3"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_D1_VALIDATION.md": {
+      "bytes": 13946,
+      "sha256": "84dbd5b71935cf371ff71c1f533788c9a471f8c6e7307c381f13b811833da606"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_D2_VALIDATION.md": {
+      "bytes": 13948,
+      "sha256": "6ef3836342baede2cb938657cd02a6baff73be0376c29d64aff72cc997312383"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_RIVERS_VALIDATION.md": {
+      "bytes": 7518,
+      "sha256": "7a11039e4be8156b86096990a133a9ff8161beb42bcb0a4ae2f728cb24f55d4b"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NEUTRAL_SOURCE_SUPPLEMENT_KB.md": {
+      "bytes": 3616,
+      "sha256": "e0aea7b8f6aa0770501865e1f469cf9f79e18ded41e7e59fd5dc06acbe72736a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_NO_GIT_CHECK.json": {
+      "bytes": 238,
+      "sha256": "b2643ac069d40b22c39c0c2503313de75ca1c01b46170b082c218289398f7536"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_PRESERVATION_BASELINE.json": {
+      "bytes": 138384,
+      "sha256": "2a68dc6ab9f626b5587e79c239c281175f42f8f54bba364fd6eff453aee9e58a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_PRIVATE_STONE_CONTROL.md": {
+      "bytes": 5354,
+      "sha256": "ea41db47d78b4c3650d72f9a4d24ce4a7e2dfa9a15a4caff2510262a471f4f8f"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED.md": {
+      "bytes": 2594,
+      "sha256": "53f58f90fb288801e21b22da7e5c018b52d8f54ba3919d43114aacd16848bf42"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_ALVAREZ.md": {
+      "bytes": 10143,
+      "sha256": "d0aa17b53a4cf4f42c7cff7b242535148d477dd77559e2197d6effe7576adbe2"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_ALVAREZ_JOIN_ADDENDUM.md": {
+      "bytes": 9084,
+      "sha256": "9624a7bab8ad0d10c678e6790f81b85a2dc730df72edea0a1ab2de63cda8de52"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_ALVAREZ_VALIDATION.md": {
+      "bytes": 1518,
+      "sha256": "f16e20049113d2bbace79fe2f80c4ccb115d30f9db469655eba98164e459aef2"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_ANDERSON.md": {
+      "bytes": 17494,
+      "sha256": "613e9c11c26b92ae54492599277fc2957c9068809789437b79a4732e7caaabb4"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_ANDERSON_VALIDATION.md": {
+      "bytes": 2723,
+      "sha256": "bb4b60cc70465503194b8430493d26d83a4b0dfb543d34dfb2e440ba1ac8bf16"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_MERITS.md": {
+      "bytes": 12693,
+      "sha256": "d9ef4d3c417b188bbb15b34eef33b33d6f1412abb77f83d0f9f7122326e37a47"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_MERITS_VALIDATION.md": {
+      "bytes": 2884,
+      "sha256": "118127ce4ce2fe1a11ab192a6a479f0f6e5da7f569bb4af96e3b3fb3909cda3c"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_BOCA.md": {
+      "bytes": 5404,
+      "sha256": "abaa3b53d197b4a7bb69cb9c4434a444ccf78ecb5a088e2553870b38671de54c"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_BOCA_VALIDATION.md": {
+      "bytes": 1633,
+      "sha256": "13a48b2b209de19b3eea9d0ef42437c2012d98922ea6b56a48c624b504cb5719"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_C.md": {
+      "bytes": 16108,
+      "sha256": "03fa06150eec557468d54a967019864997a6f1709df12bfab200cf7cac659c6e"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_D1.md": {
+      "bytes": 19499,
+      "sha256": "a38bf44eeb10fa33b0e7217a3427d31e234954c734f350342b287400ca3e2086"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_D1_VALIDATION.md": {
+      "bytes": 4872,
+      "sha256": "a5ed08a25df638cc0ccb672f19208760051ac09f92c5c349eb7723a732a19ae4"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_D2.md": {
+      "bytes": 20834,
+      "sha256": "15d87f8079d7898b8da015fda0d401f194f1f4e61e9cdcb3f62dca5e0d2c8a51"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_IRVINE.md": {
+      "bytes": 10664,
+      "sha256": "a8300ced5c1b239f365e9cb11d403385f3b65566916a4142e9e9c2b6d45833e1"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_IRVINE_VALIDATION.md": {
+      "bytes": 1737,
+      "sha256": "16627918e4e4bb8f6312b707611d0ad0ad19b16abc9a5d22675ca46a3625fccf"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_LANDGRAF.md": {
+      "bytes": 16915,
+      "sha256": "e3dc59ac991947ec08893be3c94eb92ed0fe9ccb2d37c5810484576395be9028"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_LANDGRAF_VALIDATION.md": {
+      "bytes": 3923,
+      "sha256": "88db76fe5b3d5a1e0ab1a622ab7de2ecfb6926832c3ec3651d67e3c4a312214f"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_RIVERS.md": {
+      "bytes": 20294,
+      "sha256": "681611d3a11be7aae2404a3d7813d351feab054b42c3809575579811c97eefe5"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_RIVERS_VALIDATION.md": {
+      "bytes": 4861,
+      "sha256": "3ffd7be4abf2ad186a818b88b30dd0ce8887d4ac7e19feb42fe546e162c0c94a"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILIATION_C_VALIDATION.md": {
+      "bytes": 12191,
+      "sha256": "f0ef589ef3f2f63a004596c9f8e71360a5d69b51f30fc159431563b94dceecea"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILIATION_D2_VALIDATION.md": {
+      "bytes": 9040,
+      "sha256": "ee4033e94190061477ce5c5d81a291fd5c7ef469c8936fd1852a8326c3f6fac3"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RIVERS_FREEZE_RECEIPT.md": {
+      "bytes": 398,
+      "sha256": "8699ebdb6560d9ac2f9567f00cb9d074b58b3cc796dccfd31dbb1c6f13681b86"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RIVERS_PREDECISION_AUTHORITIES.md": {
+      "bytes": 6508,
+      "sha256": "177d34b7389cf8e69d717523a9cddd47b65e9a65013f7ca366237e415ceb174d"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RIVERS_PREFLIGHT.md": {
+      "bytes": 4235,
+      "sha256": "2446cf90483a594b14d29c9803bde5e3d687a476d2b3840140d813120f78be7f"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_RUN_CONTROL.md": {
+      "bytes": 7022,
+      "sha256": "be5b0c22f5ac3f2ee5328886a0d1d1545560613eff4b0ae0d69cb3f1998a0c8d"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_STOPPED.json": {
+      "bytes": 1267,
+      "sha256": "6378acc674663c9f5351098ffd656b1e8b4bfc82fa38a12360bfba04adba192b"
+    },
+    "terms/OT1993/freeze/OT_1993CHUNK4_VALIDATION.md": {
+      "bytes": 9194,
+      "sha256": "a03bb67179006fcead9dafd6a8b856d8bdca1e75466464a0b583650c1d87f045"
+    },
+    "terms/OT1993/records/Beecham_and_Jones_v_United_States_merits_1994-05-16.md": {
+      "bytes": 19856,
+      "sha256": "6dd2b1519fc908e4ffceb01f224b8be5b06e3b6abbbb9aebac372b71ede31a2b"
+    },
+    "terms/OT1993/records/Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md": {
+      "bytes": 18376,
+      "sha256": "684673fdd34defd88b7faaded5f27d0426c39d08f6bcb97a6f37f8c6931512b7"
+    },
+    "terms/OT1993/records/C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md": {
+      "bytes": 32887,
+      "sha256": "4000f1bcc875669c4ac8e9cfa7e66da3c2d4556d09d906793cc81382beec8d88"
+    },
+    "terms/OT1993/records/City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md": {
+      "bytes": 45758,
+      "sha256": "348e9a68b7cb09a74388345b519b1d4b0fb109385b3f7a9c23950f955e53904d"
+    },
+    "terms/OT1993/records/In_re_Anderson_fee_order_1994-05-02.md": {
+      "bytes": 39509,
+      "sha256": "26b5dd9f7d2238f6e7985d212751307a38b50e1d9a240f30dcc12701242b90e1"
+    },
+    "terms/OT1993/records/Kokkonen_v_Guardian_Life_merits_1994-05-16.md": {
+      "bytes": 23538,
+      "sha256": "1b3c04bfdaadbdcd69b06012a519de155518cc1f8e57825c917efb7bcb9cc18d"
+    },
+    "terms/OT1993/records/Landgraf_v_USI_Film_Products_merits_1994-04-26.md": {
+      "bytes": 51697,
+      "sha256": "54d504258d4ac353b7f92c8bb0a0e5a9248b0410628e3466ea3362a2e8639eb8"
+    },
+    "terms/OT1993/records/Rivers_v_Roadway_Express_merits_1994-04-26.md": {
+      "bytes": 50917,
+      "sha256": "723a3520d7e9c2a9ea49d1ba435e65fed55565b069ca93c9315d15231b84d93f"
+    },
+    "terms/OT1993/records/Security_Services_v_Kmart_merits_1994-05-16.md": {
+      "bytes": 28566,
+      "sha256": "03012450e0198f8b51a9b68c3dae686fb54c7407a8f8b5d1d9cb6c6de49a71c3"
+    },
+    "terms/OT1993/records/Stansbury_v_California_merits_1994-04-26.md": {
+      "bytes": 21130,
+      "sha256": "3bbcae71f842a8b93e505357cc9693adee4f484818a8e7eabfc750a29919456e"
+    },
+    "terms/OT1993/records/United_States_v_Alvarez_Sanchez_merits_1994-05-02.md": {
+      "bytes": 40326,
+      "sha256": "5cec4f3af49f726fb539e674a17ce1df593cdbae71beea202dc764124fa0cdec"
+    },
+    "terms/OT1993/records/United_States_v_Irvine_merits_1994-04-20.md": {
+      "bytes": 29161,
+      "sha256": "910820fea59be6af063dd9b0dba3552b12775124cc0960fb62f7f618476a8d6a"
+    },
+    "terms/OT1993/render-inputs/OT_1993CHUNK4.md": {
+      "bytes": 135959,
+      "sha256": "9659ec422e891d2ba6b9528eaac563669b579b6792e1531dc0730beb3e80e3f3"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_COMMITMENTS.md": {
+      "bytes": 2861,
+      "sha256": "493a4a13c1b67cd20b5bf6809abf3d3eedc31cbfab1fc61252045ecd268ace9b"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_COMPARATOR_A.md": {
+      "bytes": 4716,
+      "sha256": "ffe8fc384c6f43e6058eff182818df9d3023f9e58904763b5a557dd5f07ac704"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_COMPARATOR_B.md": {
+      "bytes": 5640,
+      "sha256": "53e37d1d9870cc6143a18bfb5c17ff467033385a9d7adfd19cede5419b5425a7"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_COMPARATOR_C.md": {
+      "bytes": 5550,
+      "sha256": "12982030f87f171ed4b3a60fe7ec44c4e9429c6d06cd78cfd195b56a2cbb8c03"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_COMPARATOR_RIVERS.md": {
+      "bytes": 1534,
+      "sha256": "3f8df6af9cd0ef258d184348c21a4eae4ae9653eca11862abe36e71cadd46e88"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_NEUTRAL_A.md": {
+      "bytes": 31595,
+      "sha256": "eb5172b49c2d0ee2633c1a800259b534200f55017c6cdf19d2f6bf5e2b1f3d69"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_NEUTRAL_B.md": {
+      "bytes": 48520,
+      "sha256": "a47a59bede31b6c26a3c5bea1ca77742302bddf2e19d665c3cae50e421b036af"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_NEUTRAL_C.md": {
+      "bytes": 40330,
+      "sha256": "b00aeb6e4d02ca39527ec018bf5a6755ac9e1c968077df392ba6528940de3920"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_NEUTRAL_D.md": {
+      "bytes": 37270,
+      "sha256": "395e44a881d5d442fc3a8593a6cdd993cbd8086e812738c465b746a936aa2174"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_NEUTRAL_RIVERS.md": {
+      "bytes": 11360,
+      "sha256": "0124371301ebd4dcdd97c866a58ca842b98d3d9eb46a22db73bad8aa170b2e06"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_RECONCILED.md": {
+      "bytes": 2594,
+      "sha256": "53f58f90fb288801e21b22da7e5c018b52d8f54ba3919d43114aacd16848bf42"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_STONE_A.md": {
+      "bytes": 23806,
+      "sha256": "a4690e4a65209194781c029893c9a18da28a1209d273214cdc0c4a4d02bba87a"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_STONE_B.md": {
+      "bytes": 35435,
+      "sha256": "3cb0dac490a1bbd1f01c125af05dfccb9aafe7b95ab340a97990191c79a1db26"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_STONE_B_ASSEMBLY.md": {
+      "bytes": 15603,
+      "sha256": "895800dcabd67b75848d5b3eecb05ebfd848e597361886cf9acd48621d71aa2c"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_STONE_C.md": {
+      "bytes": 30831,
+      "sha256": "0e805e99d4ded912f8a1c6120c8649c50763a075e721dbf41d8ea51a6a2ba33a"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_STONE_D2.md": {
+      "bytes": 22813,
+      "sha256": "a53b2c2cb431964ceadf286cb330b357580ea7038e4a6aab74924711622fb69c"
+    },
+    "terms/OT1993/runtime/OT_1993CHUNK4_STONE_RIVERS.md": {
+      "bytes": 8191,
+      "sha256": "5a52f0dfbeeca29e3db571bae463f16509e5b256eadcc5feffa1c101f021993a"
+    },
+    "terms/OT1993/workspace/continuity.md": {
+      "bytes": 259157,
+      "sha256": "4410f69638680a72191a618ee993c4adfd321f97b5e43c85690c2e24205a1d90"
+    },
+    "terms/OT1993/workspace/ledger.md": {
+      "bytes": 25681,
+      "sha256": "9cb497e0fd25a998ee8ab86c835e124788d040ca11edcd605e525593f80e47a8"
+    },
+    "terms/OT1993/workspace/manifest.md": {
+      "bytes": 26617,
+      "sha256": "d681066508ebb01f0aa5655893fecbd4f73b9656926b16c7ad5e424f47651624"
+    },
+    "terms/OT1993/workspace/neutral-projection.md": {
+      "bytes": 257679,
+      "sha256": "86c8764533db5db178114f42dead06962ed714b0c1a2ea1deb928f08ed6a4a3f"
+    }
+  }
+}

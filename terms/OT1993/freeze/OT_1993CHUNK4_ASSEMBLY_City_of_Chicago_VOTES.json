@@ -1,0 +1,59 @@
+{
+  "City of Chicago v. Environmental Defense Fund, No. 92-1639.": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "ash exemption judgment",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stevens",
+          "O'Connor"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "facility/generation scope",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "statutory boundary and agency interpretation",
+        "support": [
+          "Stone-Zsela",
+          "Blackmun",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# Alvarez-Sanchez final reconciliation validation
+
+The complete GovInfo report, 511 U.S. 350–363, was read in full; the final Stevens page and statutory proviso were specifically checked. The initial pending reconciliation is superseded only for Alvarez by the final handoff. The clean neutral preservation refresh and complete actual Stansbury public projection were read before finalizing. No new unvalidated factual premise was inserted.
+
+Eight non-Stone judgment votes reconcile to reverse/remand. Seven support the statutory opinion; Stevens's narrow proposition agreement remains distinct from a full-opinion join. Ginsburg and Blackmun's post-six-hour reservation does not reduce their statutory join. The transportation/distance proviso, jury-weight condition, no-collusion lower finding, ordinary-cooperation limit, preservation nonreach, and Anderson reservation remain distinct. No final Court assignment is made.
+
+This is a distinct matter-specific reconciliation context that previously modeled unrelated Carbone, not a claim of an entirely fresh conversation. It did not neutral-model Alvarez. No Alvarez Stone material, combined brief, raw Record, or private Stone validation was read. Later limited operator exposure concerning Landgraf led to exclusion and reassignment of that case and is disclosed in the Boca/Irvine validations; it supplied no Alvarez position. No Git command or Git-dependent tool was run. Durable term files are the frozen handoff. No remaining Alvarez reconciliation blocker.

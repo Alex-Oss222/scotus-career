@@ -1,0 +1,589 @@
+{
+  "id": 10517561,
+  "name": "UNITED STATES of America, Plaintiff-Appellant, v. Kirby Lee JONES, Defendant-Appellee",
+  "name_abbreviation": "United States v. Jones",
+  "decision_date": "1993-05-24",
+  "docket_number": "No. 92-5820",
+  "first_page": "1131",
+  "last_page": "1136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "993 F.2d 1131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C. \u00a7 923",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "(d)(1)(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "961 F.2d 50",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1863181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/961/0050-01"
+      ]
+    },
+    {
+      "cite": "100 Stat. 449",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Stat. 1214",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 636",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 L.Ed.2d 952",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 1531",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 U.S. 1073",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6344195,
+        6345508,
+        6346981,
+        6347203,
+        6345864,
+        6346493,
+        6344682,
+        6346284,
+        6346128,
+        6345072,
+        6346738,
+        6345330,
+        6343959,
+        6345690,
+        6344445
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1073-02",
+        "/us/460/1073-07",
+        "/us/460/1073-14",
+        "/us/460/1073-15",
+        "/us/460/1073-09",
+        "/us/460/1073-12",
+        "/us/460/1073-04",
+        "/us/460/1073-11",
+        "/us/460/1073-10",
+        "/us/460/1073-05",
+        "/us/460/1073-13",
+        "/us/460/1073-06",
+        "/us/460/1073-01",
+        "/us/460/1073-08",
+        "/us/460/1073-03"
+      ]
+    },
+    {
+      "cite": "692 F.2d 376",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1483404
+      ],
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/692/0376-01"
+      ]
+    },
+    {
+      "cite": "343 F.2d 60",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        872054
+      ],
+      "pin_cites": [
+        {
+          "page": "62-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/343/0060-01"
+      ]
+    },
+    {
+      "cite": "985 F.2d 151",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 U.S. 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189736
+      ],
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "991"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0103-01"
+      ]
+    },
+    {
+      "cite": "359 U.S. 255",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164203
+      ],
+      "weight": 3,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "260-61",
+          "parenthetical": "internal quotation omitted"
+        },
+        {
+          "page": "749",
+          "parenthetical": "internal quotation omitted"
+        },
+        {
+          "parenthetical": "internal quotation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/359/0255-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605146
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citation omitted"
+        },
+        {
+          "parenthetical": "internal citation omitted"
+        },
+        {
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0107-01"
+      ]
+    },
+    {
+      "cite": "961 F.2d 1003",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1862976
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/961/1003-01"
+      ]
+    },
+    {
+      "cite": "786 F.Supp. 650",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5715605
+      ],
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/786/0650-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 925",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "946 F.2d 1347",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529326
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1350"
+        },
+        {
+          "page": "1350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/946/1347-01"
+      ]
+    },
+    {
+      "cite": "932 F.2d 1330",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546509
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "1334-35"
+        },
+        {
+          "page": "1334"
+        },
+        {
+          "page": "1334-35"
+        },
+        {
+          "page": "1337",
+          "parenthetical": "Fletcher, J. dissenting"
+        },
+        {
+          "page": "1335"
+        },
+        {
+          "page": "1336-37",
+          "parenthetical": "Fletcher, J. dissenting"
+        },
+        {
+          "page": "1335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/932/1326-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 164",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 203",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "498 U.S. 875",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6437312,
+        6437473,
+        6436485,
+        6437159,
+        6436649,
+        6436555,
+        6436845,
+        6437391,
+        6437231,
+        6437007,
+        6437074,
+        6437652,
+        6437556,
+        6436919,
+        6436759
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0875-11",
+        "/us/498/0875-13",
+        "/us/498/0875-01",
+        "/us/498/0875-09",
+        "/us/498/0875-03",
+        "/us/498/0875-02",
+        "/us/498/0875-05",
+        "/us/498/0875-12",
+        "/us/498/0875-10",
+        "/us/498/0875-07",
+        "/us/498/0875-08",
+        "/us/498/0875-15",
+        "/us/498/0875-14",
+        "/us/498/0875-06",
+        "/us/498/0875-04"
+      ]
+    },
+    {
+      "cite": "904 F.2d 216",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534759
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/0216-01"
+      ]
+    },
+    {
+      "cite": "80 L.Ed.2d 128",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a prior conviction for falsifying a customs declaration is not an offense relating to business practices within the meaning of \u00a7 921(a)(20)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 1597",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a prior conviction for falsifying a customs declaration is not an offense relating to business practices within the meaning of \u00a7 921(a)(20)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "465 U.S. 1101",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11396128,
+        11395937,
+        11396256,
+        11396006,
+        11396167,
+        11396326,
+        11395820,
+        11396300,
+        11396365,
+        11396046,
+        11396084,
+        11395861,
+        11395967
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a prior conviction for falsifying a customs declaration is not an offense relating to business practices within the meaning of \u00a7 921(a)(20)(B)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/1101-08",
+        "/us/465/1101-03",
+        "/us/465/1101-10",
+        "/us/465/1101-05",
+        "/us/465/1101-09",
+        "/us/465/1101-12",
+        "/us/465/1101-01",
+        "/us/465/1101-11",
+        "/us/465/1101-13",
+        "/us/465/1101-06",
+        "/us/465/1101-07",
+        "/us/465/1101-02",
+        "/us/465/1101-04"
+      ]
+    },
+    {
+      "cite": "722 F.2d 26",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10590468
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/722/0026-01"
+      ]
+    },
+    {
+      "cite": "961 F.2d 60",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1863209
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/961/0060-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 921",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)(20)"
+        },
+        {
+          "page": "(a)",
+          "parenthetical": "20(A)"
+        },
+        {
+          "page": "(a)(20)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        },
+        {
+          "page": "(a)(6)"
+        },
+        {
+          "page": "(g)(1)"
+        },
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 999,
+    "char_count": 19254,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 1.571790049258901e-07,
+      "percentile": 0.6788193056815282
+    },
+    "sha256": "e3bcc4a0a0a8264a97c2e55cf43239f36b88a95112c1b53995b8b02640f43c3e",
+    "simhash": "1:ee9ce69c63d1e5ff",
+    "word_count": 3135
+  },
+  "last_updated": "2024-02-27T19:14:33.023325+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HALL and LUTTIG, Circuit Judges, and HILTON, United States District Judge for the Eastern District of Virginia, sitting by designation."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellant, v. Kirby Lee JONES, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nK.K. HALL, Circuit Judge:\nThe United States appeals an order dismissing an indictment against Kirby Lee Jones. The indictment charged Jones with two counts of violating federal firearms laws. We reverse.\nI\nOn March 3, 1992, Jones was indicted in the Northern District of West Virginia on one count of being an ex-felon in possession of a firearm, in violation of 18 U.S.C. \u00a7 922(g)(1), and one count of making a false statement in connection with the purchase of a firearm, in violation of 18 U.S.C. \u00a7 922(a)(6) and 924(a)(1)(B). The indictment alleged that Jones had previously been convicted of the following felonies: (1) breaking and entering in 1969; (2) interstate transportation of a stolen motor vehicle in 1971; and (3) forgery in 1978. The stolen car conviction occurred in the United States District Court for the Southern District of Ohio. The other convictions were in the state courts of West Virginia.\nThe government concedes that the state convictions cannot serve as predicate felonies under 18 U.S.C. \u00a7 921(a)(20) because West Virginia restored Jones\u2019 civil rights upon the completion of the forgery sentence in 1982. See United States v. Haynes, 961 F.2d 60 (4th Cir.1992). The government contended, however, that the federal conviction remained a viable predicate conviction under the federal firearms act. The magistrate judge recommended adoption of the position of the Eighth and Ninth Circuits that a state\u2019s restoration of rights scheme has the effect of eliminating even a prior federal conviction as a predicate conviction under \u00a7 922(g)(1). The district court adopted the recommendation and dismissed the indictment. The government appeals.\nII\nIt is a federal offense for some ex-felons to possess firearms: \u201cIt shall be unlawful for any person ... who has been convicted in any court of a crime punishable by imprisonment for a term exceeding one year ... to ... possess in or affecting commerce, any firearm.... \u201d 18 U.S.C. \u00a7 922(g)(1). What qualifies as a \u201ccrime punishable by imprisonment for a term exceeding one year,\u201d or \u201cpredicate conviction,\u201d however, is subject to a number of statutory exceptions. Two of these exceptions have existed since 1968: (1) any prior conviction based on a violation of laws regulating business practices (18 U.S.C. \u00a7 921(a)(20(A)); \u2022and (2) any prior state conviction for an offense that is classified as a misdemeanor by the state (18 U.S.C. \u00a7 921(a)(20)(B)). These relatively straightforward provisions have generated little caselaw. See, e.g., United States v. Meldish, 722 F.2d 26 (2d Cir.1983), cert. denied, 465 U.S. 1101, 104 S.Ct. 1597, 80 L.Ed.2d 128 (1984) (holding that a prior conviction for falsifying a customs declaration is not an offense relating to business practices within the meaning of \u00a7 921(a)(20)(B)).\nIn 1986, the Firearm Owners\u2019 Protection Act refined the definition of predicate conviction as follows:\nWhat constitutes a conviction of [a crime punishable by imprisonment for a, term exceeding one year] shall be determined in accordance with the law of the jurisdiction in which the proceedings were held. Any conviction which has been expunged, or set aside or for which a person has been pardoned or has had civil rights restored shall not be considered a conviction for purposes of this chapter, unless such pardon, ex-pungement, or restoration of civil rights expressly provides that the person may not ship, possess, or receive firearms.\nThis final provision of \u00a7 921 (a) (20) [hereinafter, the \u201camendment\u201d], particularly the term \u201chas had civil rights restored,\u201d has engendered a growing body of caselaw. This amendment is the focus of this ease.\nWe have dealt with this amendment on a number of occasions, but always from the perspective of a predicate state conviction. See, e.g., United States v. McLean, 904 F.2d 216 (4th Cir.), cert. denied, 498 U.S. 875, 111 S.Ct. 203, 112 L.Ed.2d 164 (1990). The purported predicate conviction in Jones\u2019 case, however, is a 1979 conviction in the federal district court of Ohio. The Eighth and Ninth Circuits have recently held that a state\u2019s restoration of rights scheme can negate even a prior federal conviction for the purposes of 18 U.S.C. \u00a7 922(g)(1) and \u00a7 921(a)(20). \u00dcnited States v. Geyler, 932 F.2d 1330 (9th Cir.1991); United States v. Edwards, 946 F.2d 1347 (8th Cir.1991). Our interpretation of the statute leads us to the opposite conclusion.\nIII\nIn view of the circuit-split that will be created by our judgment, perhaps our first task should be to explain why we reject the analyses and holdings of our sister circuits. For clarity\u2019s sake, inasmuch as both Geyler and Edwards come to the same conclusion by the same route, we will limit our discussion to the earlier-decided and more extensive opinion of the Ninth Circuit.\nThe linchpin of Geyler (although it is not acknowledged as such) is that the second sentence of the amendment should be considered apart from the first \u2014 \u201c[t]he two sentences ... pertain to two entirely different sets of circumstances.\u201d Geyler, 932 F.2d at 1334-35. In support of this segregation, the court characterizes the first sentence as merely setting forth the seemingly unremarkable proposition that \u201cfederal law determines the existence of a federal conviction, and state law determines the existence of a state conviction.\u201d Id. at 1334. Contrary to the \u201cwishful suggestion\u201d of the government, the court described the second sentence as an \u201cunrelated reference\u201d to the effect of post-conviction events. Id. at 1334-35.\nHaving reduced the scope of its inquiry to a single sentence, the court purports to find that the term at issue \u2014 \u201cany conviction ... for which a person ... has had civil rights restored....\u201d \u2014 is decipherable through examination of the plain meaning of the words alone. The analysis proceeds along the following lines: (1) although both the states and the federal government provide for pardons, expungements and setting aside convictions, only states provide procedures for restoring civil rights to persons who have completed felony sentences; (2) \u201cCongress could not have expected that the federal government would perform this [restoration] function. ...\u201d; (3) Congress could have limited the benefits of rights restoration to state felons only; (4) the second sentence refers to \u201cany conviction;\u201d (5) therefore, the reference to the restoration of civil rights must be to the state procedure.\nThis analysis does not strike us as one based solely on plain meaning. The first departure from a plain meaning analysis is the court\u2019s assumption that the Congress \u201cwas certainly aware\u201d of the lack of a federal restoration procedure. \u201cRestoration of civil rights\u201d is, at the very least, a term that can admit of several legitimate interpretations. It is, for example, at least arguable that the federal procedure embodied in 18 U.S.C. \u00a7 925(c) is a rights-restoration scheme; indeed, it is the ultimate restoration for firearm purposes. Another possibility is that the term applies only to situations in which \u201csome state action granted a convicted felon a specific pardon, expungement or restoration of rights, such as a Restoration of Civil Rights Certificate ...\u201d (United States v. Hammonds, 786 F.Supp. 650, 662 (E.D.Mich.1992) (emphasis in original)), rather than restorations by operation of law. See also United States v. Ramos, 961 F.2d 1003, 1008 (1st Cir.1992) (interpreting restoration of rights to require \u201csome affirmative step after conviction.\u201d). In any event, as soon as the court in Geyler strayed outside the text of the statute to assume congressional knowledge on a subject that is outside the ken of most persons, the plain meaning analysis was compromised.\nIn a footnote, the Geyler court concedes that there are some civil rights lost by virtue of a federal felony conviction that \u201cpresumably the state cannot restore.\u201d Id. at 1334 n. 6. What the court does not say is that these civil rights could presumably be restored by the federal government; that the federal government did not have in place a restoration procedure in 1986 does not preclude the possibility that one would be established sometime thereafter.\nThe upshot of all this is that the Ninth Circuit\u2019s \u201cplain language\u201d interpretation of the amendment misses the forest for the trees. \u201c[I]n expounding a statute, we [are] not ... guided by a single sentence or member of a sentence, but look to the provisions of the whole law, and to its object and policy.\u201d Massachusetts v. Morash, 490 U.S. 107, 109 S.Ct. 1668, 104 L.Ed.2d 98 (1989) (internal citation omitted) (quoted in Geyler, 932 F.2d at 1337 (Fletcher, J. dissenting)). Once it is determined that the words of the amendment itself do not readily admit of a single interpretation, we must place it in some larger context.\nIV\n\u201cStatutes, including penal enactments are not inert exercises in literary composition. They are instruments of government, and in construing them the general purpose is a more important aid to the meaning than any rule which grammar or formal logic may lay down.\u201d United States v. Shirey, 359 U.S. 255, 260-61, 79 S.Ct. 746, 749, 3 L.Ed.2d 789 (1959) (internal quotation omitted). Subsection 921(a)(20) has a single purpose \u2014 to define a term used elsewhere in the Act, i.e. \u201ca crime punishable by imprisonment for a term exceeding one year.\u201d As a definitional provision, the amendment has meaning only in reference to the overall act in which the definition is used.\nThe Gun Control Act of 1968 was a response \u201cto widespread national concern that existing Federal control over the sale and shipment of firearms [across] State lines is grossly inadequate.\u201d H.Rep. No. 1577 (June 21,1968). As a general proposition, then, the legislative goal was to exert greater federal control over the spread of firearms. One of the means of accomplishing this was to prohibit ex-felons from possessing or dealing in firearms. Initially, all former felons were to be covered by the prohibition except those covered by subsections (a)(20)(A) and (B).\nThe primary impetus for the amendment under discussion was Congress\u2019s intent to reverse the ruling of the Supreme Court in Dickerson v. New Banner Institute, Inc., 460 U.S. 103, 103 S.Ct. 986, 74 L.Ed.2d 845 (1983). See United States v. Geyler, 932 F.2d 1330,1335 (9th Cir.1991); id. at 1336-37 (Fletcher, J. dissenting). Dickerson involved a prior state prosecution of one Kennison for carrying a concealed firearm. State law allowed the court to place Kennison on probation while deferring entry of judgment of conviction. Upon Kennison\u2019s successful completion of the probationary period, the record of the deferred judgment was expunged. Kennison later applied for a firearm dealer\u2019s license from the Bureau of Alcohol, Tobacco and Firearms. On the license application, he answered that he had never been convicted of a felony. The license was issued but later revoked on the ground that the state conviction triggered the federal firearm disabilities. The Supreme Court upheld the revocation. In reaching this result, the Court held that the issue of what constituted a \u201cconviction\u201d under the federal firearms statutes was a question of federal, not state, law. Id. at 111-12, 103 S.Ct. at 991.\nIn the Senate report accompanying a bill containing essentially the same provisions as the current version of \u00a7 921(a)(20), the committee noted that \u201c[s]ince the Federal prohibition is keyed to the state\u2019s conviction, state law should govern in these matters.\u201d S.R. 98-583 (98th Congress). The report also noted that the bill would override the Dickerson decision where state courts or legislatures had decided not to treat certain guilty pleas as convictions. Id. at n. 16. In other words, a state would determine the fingering effects of a conviction in its own courts. The purpose of the statute remains unchanged \u2014 to keep guns out of the wrong hands.\nGiven this background, it is difficult to imagine any conclusion other than the one we reach in this case. By enacting the amendment, Congress clearly wished to endow each state with the power to determine how convictions by that state would be treated. If a state determines that one of its offenders should not be stigmatized in any manner, then the amendment allows the state to return such an offender to his pre-conviction status. But \u201ca preference exists for determining the meaning of federal criminal legislation without reliance on diverse state laws [and] ... in the absence of a specific indication to incorporate the differing rules of the states, federal criminal sanctions should be applied with uniform standards and definitions.\u201d United States v. Lender, 985 F.2d 151, 157 (4th Cir.1993) (interpreting the first sentence of the amendment). See also NLRB v. Randolph Electric Membership Corp., 343 F.2d 60, 62-63 (4th Cir.1965) (\u201cIn the absence of a plain indication to the contrary, ... it will be assumed when Congress enacts a statute that it does not intend to make its application dependent on state law.\u201d). We believe that a far greater degree of specificity would be necessary before we would be willing to find a statutory intent to allow the individual states to negate federal convictions.\nV\nUnder the holdings in Geyler and Edwards, the confusion engendered by the federal statute would increase exponentially. The possibility of a \u201ccivil rights bath\u201d is alluded to in Edwards. See 946 F.2d at 1350. One only has to pursue this concept a short distance before the problems become evident. For example, A and B are released from federal prison after serving sentences for identical crimes. Each was prosecuted in the same district court in a state that does not restore civil rights to its own felons. A remains in the state in which he was prosecuted. 'After a while, he goes to visit B, who was then living in a state that does restore civil rights. Together they commit an armed robbery in B\u2019s new home state and are prosecuted in the federal court there for, among other offenses, violations of \u00a7 922(g)(1). Under Geyler\u2019s holding, B could not be prosecuted for the firearm offense, whereas A could. A similar result would arguably obtain if B had only temporarily moved to the restoring state (long enough to get his \u201cbath\u201d) and then committed the robbery in A\u2019s state. Such possibilities militate further against the interpretation adopted in Geyler.\nYI\nAs an alternative basis for its holding, the court in Geyler asserts that the rule of lenity requires the result reached in that ease because the reference in the second sentence to \u201cany conviction\u201d renders the amendment ambiguous \u201cat the least.\u201d Id. at 1336; see also Edwards, 946 F.2d at 1350. The rule of lenity applies only where the ambiguity remains after resort to the legislative history fails to disclose the intent of the drafters. See United States v. McDonald, 692 F.2d 376, 379 (5th Cir.1982), cert. denied, 460 U.S. 1073, 103 S.Ct. 1531, 75 L.Ed.2d 952 (1983). As discussed above, we find no ambiguity. The legislative history leads to only one conclusion \u2014 that Congress intended for a state\u2019s post-conviction restoration scheme to affect only the rights of persons convicted in that state\u2019s courts.\nThe order dismissing the indictment is reversed, and the case is remanded with directions to reinstate the indictment.\nREVERSED AND REMANDED.\n. The defendant's motion to dismiss the indictment was referred to the magistrate judge for a report and recommendation pursuant to 28 U.S.C. \u00a7 636(b)(1)(B) and Fed.R.Civ.P. 72(b).\n. Count 2 of the indictment alleged that Jones falsely stated on the ATF forms that he was not prohibited by the federal firearms laws from possessing a firearm. The magistrate judge discussed only the felon-in-possession count (\u00a7 922(g)(1)), apparently on the assumption that the allegedly false statement was not false if Jones was not prohibited from possessing a firearm under \u00a7 922(g)(1). On appeal, the government does not argue that count 2 could stand alone.\n. Gun Control Act of 1968, Pub.L. 90-618, Title I, \u00a7 102, 82 Stat. 1214.\n. Pub.L. 99-308, \u00a7 101(5), 100 Stat. 449.\n. At its most fundamental level, Geyler rests on the interpretation of Arizona law. The court stated that \"upon [Geyler\u2019s] discharge from imprisonment [on the federal sentence], ... Arizona granted him an automatic restoration of civil rights.\u201d Geyler, 932 F.2d at 1331 and n. 1. This statement is based on an Arizona restoration-of-rights statute that does not mention federal convictions, but which the court interprets to include federal convictions in order to avoid an anomalous result.\nIn Jones\u2019 case, the district court held, based on our decision in United States v. Haynes, 961 F.2d 50 (4th Cir.1992), that West Virginia law, as evidenced by the \u2018certificate of discharge\u2019 received by Jones, restored his civil rights. Jones, of course, received nothing from the State of West Virginia upon completion of his federal sentence. Instead of examining West Virginia law to determine whether the state's restoration scheme was intended to cover federal felons, we choose to rest our decision on the federal statute alone.\n. After noting that the first sentence \"quite simply\u201d says that the prosecuting jurisdiction determines what a conviction is (932 F.2d at 1335), the court added the following footnote:\nThe [first] sentence was enacted \"to accommodate state reforms adopted since 1969, which permit dismissal of charges after a plea and successful completion of a probationary period, or which create \"open-ended\u201d offenses, conviction for which may be treated as misdemeanor or felony at the option of the court.\u201d Federal Firearms Owners Protection Act, S.Rep. No. 583, 98th Cong., 2d Sess. 7 (1984).\nId. at n. 7. This is hardly support for the proposition that the two sentences are unrelated. The cited material refers directly to the post-conviction procedures outlined in the second sentence of the amendment.\n. This section establishes a procedure by which the Secretary of the Treasury may provide \u201crelief from the disabilities imposed by federal laws with respect to the ... possession of firearms. ...\u201d\n. The Gun Control Act was enacted as Title IV of the Omnibus Crime Control and Safe Streets Act of 1968.\n. In addition to prohibiting ex-felons from possessing firearms, \u00a7 922(g) and (h) prohibit the same class of ex-felons from dealing in firearms without a license from the Secretary of the Treasury. See 18 U.S.C. \u00a7 923(d)(1)(b) (1982).\n.S.Rept. No. 98-583 (98th Congress) accompanied S. 914, which contained substantially the same language regarding the exclusion from the definition of conviction now found in \u00a7 921 (a)(20).",
+        "type": "majority",
+        "author": "K.K. HALL, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "David J. Horne, Sr. Atty., Office of the Asst. Chief Counsel, Bureau of Alcohol, Tobacco & Firearms, Cincinnati, OH, argued (William A. Kolibash, U.S. Atty., and Lisa A. Grimes, Asst. U.S. Atty., Wheeling, WV, on brief), for appellant.",
+      "R. Russell Stobbs, Weston, WV, argued for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellant, v. Kirby Lee JONES, Defendant-Appellee.\nNo. 92-5820.\nUnited States Court of Appeals, Fourth Circuit.\nArgued April 2, 1993.\nDecided May 24, 1993.\nDavid J. Horne, Sr. Atty., Office of the Asst. Chief Counsel, Bureau of Alcohol, Tobacco & Firearms, Cincinnati, OH, argued (William A. Kolibash, U.S. Atty., and Lisa A. Grimes, Asst. U.S. Atty., Wheeling, WV, on brief), for appellant.\nR. Russell Stobbs, Weston, WV, argued for appellee.\nBefore HALL and LUTTIG, Circuit Judges, and HILTON, United States District Judge for the Eastern District of Virginia, sitting by designation."
+  },
+  "file_name": "1131-01",
+  "first_page_order": 1245,
+  "last_page_order": 1250
+}

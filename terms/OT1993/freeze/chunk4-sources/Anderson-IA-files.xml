@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1709224494</mtime>
+    <size>7214</size>
+    <md5>a312856935ce675923c4c8e97f199413</md5>
+    <crc32>6cae40d1</crc32>
+    <sha1>0dbbb53ba806dd3c8e8d1d4c40c80d0dfca206ba</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket.pdf" source="derivative">
+    <pdf_module_version>0.0.23</pdf_module_version>
+    <format>Text PDF</format>
+    <original>micro_IA40385013_0541 1. Docket_page_numbers.json</original>
+    <mtime>1709222550</mtime>
+    <size>92372</size>
+    <md5>61f1190bcf38882981f49ee8f972dbf7</md5>
+    <crc32>b1879831</crc32>
+    <sha1>8fcb950faa1acb3e2c62cbdf604ca274b46a40b8</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.3.0-6-g76ae</ocr>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>micro_IA40385013_0541 1. Docket_jp2.zip</original>
+    <mtime>1709217796</mtime>
+    <size>12849</size>
+    <md5>6e87fb1a516b6cbf115d23f5c11f1793</md5>
+    <crc32>5328be84</crc32>
+    <sha1>fe3fd75f975b85f4f218938eb820e1ab44042972</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>micro_IA40385013_0541 1. Docket_djvu.xml</original>
+    <mtime>1709223746</mtime>
+    <size>856</size>
+    <md5>939c5a2a393fc10c19602a3d43fab3e2</md5>
+    <crc32>568f6fdd</crc32>
+    <sha1>aaa9bd4bae7943409eaf5fae3349d0eea203280a</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>micro_IA40385013_0541 1. Docket_hocr.html</original>
+    <mtime>1709220104</mtime>
+    <size>12882</size>
+    <md5>37249e759ca064eb3b956ff03b66c393</md5>
+    <crc32>1db9e701</crc32>
+    <sha1>5eba14a76b8e7f83f93fe359ce63251632229136</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.3.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.56</hocr_char_to_word_hocr_version>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>micro_IA40385013_0541 1. Docket_chocr.html.gz</original>
+    <mtime>1709219608</mtime>
+    <size>25967</size>
+    <md5>1b297bc69dd379b9749972632b3653d4</md5>
+    <crc32>b893f858</crc32>
+    <sha1>4d597301dd8ec52c265954aa04d7597778796397</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.1.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.56</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>micro_IA40385013_0541 1. Docket_hocr.html</original>
+    <mtime>1709220209</mtime>
+    <size>53</size>
+    <md5>de9487bc212b525e270e55da19981738</md5>
+    <crc32>143f4ef8</crc32>
+    <sha1>eb533f587213d59014e0683a5d35349ad4fe4a51</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.2.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.56</hocr_fts_text_hocr_version>
+    <word_conf_0_10>3</word_conf_0_10>
+    <word_conf_11_20>3</word_conf_11_20>
+    <word_conf_21_30>1</word_conf_21_30>
+    <word_conf_31_40>4</word_conf_31_40>
+    <word_conf_41_50>2</word_conf_41_50>
+    <word_conf_51_60>3</word_conf_51_60>
+    <word_conf_61_70>0</word_conf_61_70>
+    <word_conf_71_80>1</word_conf_71_80>
+    <word_conf_81_90>10</word_conf_81_90>
+    <word_conf_91_100>111</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>micro_IA40385013_0541 1. Docket_hocr.html</original>
+    <mtime>1709220287</mtime>
+    <size>459</size>
+    <md5>e528179e6d9c47ead99274ded34a9c69</md5>
+    <crc32>4e8c45e6</crc32>
+    <sha1>26ec53f7d6be46f37d6ef8c52771322e5302a5d6</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_jp2.zip" source="derivative">
+    <title>Docket</title>
+    <microfiche_deriver_module_version>1.1.0</microfiche_deriver_module_version>
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709217472</mtime>
+    <size>257893</size>
+    <md5>f34e7f6639ccf7c3a29379639fb28382</md5>
+    <crc32>6c581bfa</crc32>
+    <sha1>c240275d7286b1544a1555c483f5e8b2be5b2f9e</sha1>
+    <filecount>2</filecount>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.5</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>0</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>micro_IA40385013_0541 1. Docket_hocr.html</original>
+    <mtime>1709220371</mtime>
+    <size>326</size>
+    <md5>64334bede2c98cd217ce3734cc4e642a</md5>
+    <crc32>df9b2709</crc32>
+    <sha1>240d15bbee3b348027538ad02c27fd5fa14e085a</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 1. Docket_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709220371</mtime>
+    <size>889</size>
+    <md5>0ae60084ab8c800fc09cd12baaeb718d</md5>
+    <crc32>f4c77d49</crc32>
+    <sha1>73bfa3f17d8eb25eb13237a1cca172eedaff290b</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari.pdf" source="derivative">
+    <pdf_module_version>0.0.23</pdf_module_version>
+    <format>Text PDF</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_page_numbers.json</original>
+    <mtime>1709222331</mtime>
+    <size>17982691</size>
+    <md5>e6b270219c254a13f4cfc9ab3c2e2234</md5>
+    <crc32>c23a83ea</crc32>
+    <sha1>12706a7973c5e2ad0aa7a3e17aa10f19cb8c9626</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.3.0-6-g76ae</ocr>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>0.7867</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_jp2.zip</original>
+    <mtime>1709218621</mtime>
+    <size>1770988</size>
+    <md5>5bb0e793286e934fb3b9170f60c7d67c</md5>
+    <crc32>cd439206</crc32>
+    <sha1>4e0ad0d59cc90d8b3ca56e0791410928da45de5f</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_djvu.xml</original>
+    <mtime>1709223851</mtime>
+    <size>119819</size>
+    <md5>174e9eea5d8991107ee07a0d8edf8fd2</md5>
+    <crc32>b77abcd1</crc32>
+    <sha1>3723587c5d785f029a80c221ef8ffaee8d9774d6</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr.html</original>
+    <mtime>1709220093</mtime>
+    <size>1684762</size>
+    <md5>d9391ca52187f29911e5650a0ace26a9</md5>
+    <crc32>4fd12289</crc32>
+    <sha1>acc21ef54a14cebf93508ee9e94369682beea241</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.3.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.56</hocr_char_to_word_hocr_version>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>0.7867</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_chocr.html.gz</original>
+    <mtime>1709219707</mtime>
+    <size>3172289</size>
+    <md5>a1d440a8463e8e56b597bf2cd2650372</md5>
+    <crc32>895d678d</crc32>
+    <sha1>7eb7c0c66b0b7d4610d7db033ffd49d2fda994df</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.1.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.56</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr.html</original>
+    <mtime>1709220512</mtime>
+    <size>779</size>
+    <md5>1d9891512038970caac8680e1a494344</md5>
+    <crc32>026f32c4</crc32>
+    <sha1>6a20a42b324e0f76753df899b54b9335d7701281</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.2.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.56</hocr_fts_text_hocr_version>
+    <word_conf_0_10>1324</word_conf_0_10>
+    <word_conf_11_20>429</word_conf_11_20>
+    <word_conf_21_30>573</word_conf_21_30>
+    <word_conf_31_40>568</word_conf_31_40>
+    <word_conf_41_50>555</word_conf_41_50>
+    <word_conf_51_60>633</word_conf_51_60>
+    <word_conf_61_70>549</word_conf_61_70>
+    <word_conf_71_80>531</word_conf_71_80>
+    <word_conf_81_90>1016</word_conf_81_90>
+    <word_conf_91_100>14062</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr.html</original>
+    <mtime>1709220639</mtime>
+    <size>46103</size>
+    <md5>653491994033092f8194b67a9983a92f</md5>
+    <crc32>ff0180f6</crc32>
+    <sha1>7eea33db509b78113f91734f57eb5d87b81968fd</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_jp2.zip" source="derivative">
+    <title>Petition for Writ of Certiorari</title>
+    <microfiche_deriver_module_version>1.1.0</microfiche_deriver_module_version>
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709217668</mtime>
+    <size>35720785</size>
+    <md5>4ee1e6236759235570c320ef40d37ded</md5>
+    <crc32>2b7848fb</crc32>
+    <sha1>e7048bbef1b1b56e455c3fa39fb6024c9fb7ea80</sha1>
+    <filecount>67</filecount>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.5</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>0</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>micro_IA40385013_0541 2. Petition for Writ of Certiorari_hocr.html</original>
+    <mtime>1709220789</mtime>
+    <size>11134</size>
+    <md5>658e372b35ce733d735c71b5f7a79845</md5>
+    <crc32>d264cdc6</crc32>
+    <sha1>4d34f2cd1143d18efc00b31a5504acf35401d6a9</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 2. Petition for Writ of Certiorari_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709220789</mtime>
+    <size>21705</size>
+    <md5>bb64a57485bcf2b8ef7b7b9f8827acee</md5>
+    <crc32>54c31274</crc32>
+    <sha1>c060af1c622f351e49ff007f23369daf745e77a1</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion.pdf" source="derivative">
+    <pdf_module_version>0.0.23</pdf_module_version>
+    <format>Text PDF</format>
+    <original>micro_IA40385013_0541 3. Opinion_page_numbers.json</original>
+    <mtime>1709222632</mtime>
+    <size>375017</size>
+    <md5>58e229bfa28e84bba7fe67082e3245d2</md5>
+    <crc32>64820b93</crc32>
+    <sha1>9062a4584da1f721f9137fd07ffdd8577df65446</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.3.0-6-g76ae</ocr>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>micro_IA40385013_0541 3. Opinion_jp2.zip</original>
+    <mtime>1709218764</mtime>
+    <size>74941</size>
+    <md5>a27756bed71e72ed92347c19592b41d4</md5>
+    <crc32>8d1964fe</crc32>
+    <sha1>3508ee25afebe8e3fab02d08e2b20ef3b89489bb</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>micro_IA40385013_0541 3. Opinion_djvu.xml</original>
+    <mtime>1709223937</mtime>
+    <size>5359</size>
+    <md5>4681e003cc4daeda1d773f6b7ca48f41</md5>
+    <crc32>9927bba7</crc32>
+    <sha1>318a8b1755f9de50007beffd4340e1d0ee2e4fec</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>micro_IA40385013_0541 3. Opinion_hocr.html</original>
+    <mtime>1709220115</mtime>
+    <size>69313</size>
+    <md5>63fdc017d0c721425a48938ef65f8edd</md5>
+    <crc32>e95e1814</crc32>
+    <sha1>0b4064656ae342316a43b8945a91671bc079bd81</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.3.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.56</hocr_char_to_word_hocr_version>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>micro_IA40385013_0541 3. Opinion_chocr.html.gz</original>
+    <mtime>1709219870</mtime>
+    <size>128564</size>
+    <md5>5b08910838cd593fdb8fb206a803ac29</md5>
+    <crc32>aaffa5fe</crc32>
+    <sha1>d9ac776d331f953e0cc04e5952c6fa89fb0a164c</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.1.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.56</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>micro_IA40385013_0541 3. Opinion_hocr.html</original>
+    <mtime>1709220909</mtime>
+    <size>70</size>
+    <md5>1dcb40d56e5ab683ef1a097fbbfe34ed</md5>
+    <crc32>4ce775b3</crc32>
+    <sha1>c016d38ae02b7655f9692625d7fba97087079095</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.2.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.56</hocr_fts_text_hocr_version>
+    <word_conf_0_10>0</word_conf_0_10>
+    <word_conf_11_20>3</word_conf_11_20>
+    <word_conf_21_30>2</word_conf_21_30>
+    <word_conf_31_40>0</word_conf_31_40>
+    <word_conf_41_50>0</word_conf_41_50>
+    <word_conf_51_60>0</word_conf_51_60>
+    <word_conf_61_70>0</word_conf_61_70>
+    <word_conf_71_80>6</word_conf_71_80>
+    <word_conf_81_90>24</word_conf_81_90>
+    <word_conf_91_100>831</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>micro_IA40385013_0541 3. Opinion_hocr.html</original>
+    <mtime>1709221042</mtime>
+    <size>2254</size>
+    <md5>278e33562005e82c881bc29b0daeb124</md5>
+    <crc32>7f5250dc</crc32>
+    <sha1>b313840b61dc5bc55515fbf2f5b9aed7e3827939</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_jp2.zip" source="derivative">
+    <title>Opinion</title>
+    <microfiche_deriver_module_version>1.1.0</microfiche_deriver_module_version>
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709217671</mtime>
+    <size>1086514</size>
+    <md5>7b1fb53b781b13d6708275d4c5f728bd</md5>
+    <crc32>535eac7c</crc32>
+    <sha1>b39fc83e92295142bf65f764274aa4494121ba1a</sha1>
+    <filecount>3</filecount>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.5</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>0</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>micro_IA40385013_0541 3. Opinion_hocr.html</original>
+    <mtime>1709221118</mtime>
+    <size>494</size>
+    <md5>f6a06ccba37fe735779ec1d16e22fe13</md5>
+    <crc32>ab31c22f</crc32>
+    <sha1>628d8b29c023c7e0b7e80506680cb58c4a561340</sha1>
+  </file>
+  <file name="micro_IA40385013_0541 3. Opinion_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709221119</mtime>
+    <size>1209</size>
+    <md5>bd728aa3881728903d13ea03bda710fe</md5>
+    <crc32>951d7e06</crc32>
+    <sha1>c27fc0cd1d106f0b07b6e77f6a96f8aeeb907950</sha1>
+  </file>
+  <file name="micro_IA40385013_0541.pdf" source="derivative">
+    <pdf_module_version>0.0.23</pdf_module_version>
+    <format>Text PDF</format>
+    <original>micro_IA40385013_0541_page_numbers.json</original>
+    <mtime>1709223639</mtime>
+    <size>18434652</size>
+    <md5>b46ad637a2ee5a7f049dcc89a835302d</md5>
+    <crc32>24e3d41a</crc32>
+    <sha1>0de97015ef48c96d6a1442adda422f7af6c6e87f</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_archive.torrent" source="metadata">
+    <btih>de2457cd06716eb8a0d95ed4c5afa082fb825041</btih>
+    <mtime>1765933209</mtime>
+    <size>20226</size>
+    <md5>54f206ffab6f369ea501c5400b659f71</md5>
+    <crc32>b7e56992</crc32>
+    <sha1>509c892fe4975512aef5532a698235ef529332f5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="micro_IA40385013_0541_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.3.0-6-g76ae</ocr>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Fraktur</ocr_detected_script>
+    <ocr_detected_script_conf>0.5244</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>micro_IA40385013_0541_jp2.zip</original>
+    <mtime>1709219520</mtime>
+    <size>1854743</size>
+    <md5>6877c72e98482976846e76ef5d0994d4</md5>
+    <crc32>4c3fed69</crc32>
+    <sha1>2ac2fd331e55c950998ed760f90c87b3a95c0fff</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>micro_IA40385013_0541_djvu.xml</original>
+    <mtime>1709224008</mtime>
+    <size>126034</size>
+    <md5>201d1a61fd2fbda5fbf1f5a630c9e40b</md5>
+    <crc32>153053fa</crc32>
+    <sha1>f98387ab6719200c1181d944ce5ac757f46ec66b</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>micro_IA40385013_0541_hocr.html</original>
+    <mtime>1709220123</mtime>
+    <size>1756745</size>
+    <md5>6dc474923efc75929cfe5e49aec944ef</md5>
+    <crc32>25d3e383</crc32>
+    <sha1>d908b6fbba67ef02fbd75de1eed94e891f2365ea</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>46f286c7c415307fa4aad603d4072ec2</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="micro_IA40385013_0541_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.3.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.56</hocr_char_to_word_hocr_version>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Fraktur</ocr_detected_script>
+    <ocr_detected_script_conf>0.5244</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>micro_IA40385013_0541_chocr.html.gz</original>
+    <mtime>1709220064</mtime>
+    <size>3321158</size>
+    <md5>3d94aa53a68450da385fb00fcea6bbb0</md5>
+    <crc32>a4526102</crc32>
+    <sha1>f287ec9c3b7a083c1587080ae002872d69a88243</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.1.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.56</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>micro_IA40385013_0541_hocr.html</original>
+    <mtime>1709221183</mtime>
+    <size>841</size>
+    <md5>73514c3d9e8d4c9b2e746ccccf288f53</md5>
+    <crc32>2fe43a1d</crc32>
+    <sha1>9940e6af7327aa103a21d99bf95f4adadf50f9e6</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.2.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.56</hocr_fts_text_hocr_version>
+    <word_conf_0_10>1327</word_conf_0_10>
+    <word_conf_11_20>435</word_conf_11_20>
+    <word_conf_21_30>576</word_conf_21_30>
+    <word_conf_31_40>572</word_conf_31_40>
+    <word_conf_41_50>557</word_conf_41_50>
+    <word_conf_51_60>636</word_conf_51_60>
+    <word_conf_61_70>549</word_conf_61_70>
+    <word_conf_71_80>538</word_conf_71_80>
+    <word_conf_81_90>1050</word_conf_81_90>
+    <word_conf_91_100>15004</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>micro_IA40385013_0541_hocr.html</original>
+    <mtime>1709221256</mtime>
+    <size>48262</size>
+    <md5>c22b435f54a52ad499868f7f6522db3a</md5>
+    <crc32>dde8be90</crc32>
+    <sha1>5a85dc4f250ea5f2a85d65fe43ceb75a722c582c</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_itemimage.png" source="original">
+    <mtime>1708781041</mtime>
+    <size>309837</size>
+    <md5>148b37bf1f6898f25b93d0657cb74cba</md5>
+    <crc32>fb9f4e67</crc32>
+    <sha1>6cf3343527d70f4903b801ecf1fea3f192a337ad</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="micro_IA40385013_0541_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709217668</mtime>
+    <size>37297500</size>
+    <md5>723b36203b7529dbff14c47f78c6ee15</md5>
+    <crc32>4c56972f</crc32>
+    <sha1>0cd0b7c0ee89ff365d9e9fb064427ed67a0fc8b0</sha1>
+    <filecount>73</filecount>
+  </file>
+  <file name="micro_IA40385013_0541_meta.sqlite" source="original">
+    <mtime>1709216872</mtime>
+    <size>20480</size>
+    <md5>01722c128d2a47413f77490c39242e6f</md5>
+    <crc32>47d6ccee</crc32>
+    <sha1>4fa3c156e14292c8759abcfdf9e525b0913a44a4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="micro_IA40385013_0541_meta.xml" source="original">
+    <mtime>1777365723</mtime>
+    <size>3501</size>
+    <md5>e21260e640d87899cbb4c95deefe7c6b</md5>
+    <crc32>4acb7d3a</crc32>
+    <sha1>c7c927ece9983c7118437a38228db832429482a2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="micro_IA40385013_0541_micro_jp2.zip" source="original">
+    <mtime>1708781032</mtime>
+    <size>118590471</size>
+    <md5>f2ae0ce4a71ad53def3b5687e9f2f0e0</md5>
+    <crc32>46db278c</crc32>
+    <sha1>5a468857dd8abcc37659fe06654694f0df508379</sha1>
+    <format>Micro Cards JP2 ZIP</format>
+    <filecount>12</filecount>
+    <private>true</private>
+  </file>
+  <file name="micro_IA40385013_0541_micro_scan.json" source="original">
+    <format>Micro Cards Data JSON</format>
+    <original>micro_IA40385013_0541_micro_jp2.zip</original>
+    <mtime>1709216834</mtime>
+    <size>13232</size>
+    <md5>eef4d7eca9cceaca30d5ecc6a2ae6770</md5>
+    <crc32>d1890132</crc32>
+    <sha1>ded52cabab5a9679ca8e3ea6d843ea59ecb1b059</sha1>
+    <private>true</private>
+  </file>
+  <file name="micro_IA40385013_0541_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.5</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>0</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>micro_IA40385013_0541_hocr.html</original>
+    <mtime>1709221350</mtime>
+    <size>11643</size>
+    <md5>161fa378f8291250c4200d1954618189</md5>
+    <crc32>8af165b4</crc32>
+    <sha1>928c0de4a054c77156449523c1aa4103ae382dfa</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_reviews.xml" source="original">
+    <mtime>1777365740</mtime>
+    <size>1202</size>
+    <md5>a6f03c0b9e1a3d2bc9987ee9a73e9158</md5>
+    <crc32>21c8f572</crc32>
+    <sha1>3710f10c667fe8aa2234a922403a2e9723deba89</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="micro_IA40385013_0541_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>micro_IA40385013_0541_micro_scan.json</original>
+    <mtime>1709221350</mtime>
+    <size>23593</size>
+    <md5>a5b1ca54aa2d521aa4c8cf3d23377273</md5>
+    <crc32>abd36e80</crc32>
+    <sha1>cbf7bb9955ec121c7ee9f291f09f61684bc79ab6</sha1>
+  </file>
+  <file name="micro_IA40385013_0541_thumb_avif.zip" source="derivative">
+    <microfiche_deriver_module_version>1.1.0</microfiche_deriver_module_version>
+    <format>AVIF Thumbnails ZIP</format>
+    <original>micro_IA40385013_0541_micro_jp2.zip</original>
+    <mtime>1708782058</mtime>
+    <size>8393280</size>
+    <md5>858b5cdf7932369fd1260b4e8d903022</md5>
+    <crc32>69f035a2</crc32>
+    <sha1>fb25ef1040dde97f4134f07156b54bec73fd8068</sha1>
+    <filecount>4</filecount>
+    <private>true</private>
+  </file>
+</files>

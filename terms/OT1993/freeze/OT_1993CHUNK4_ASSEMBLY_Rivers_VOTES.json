@@ -1,0 +1,55 @@
+{
+  "Rivers v. Roadway Express, Inc., No. 92-938.": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "reviewed \u00a7101 temporal judgment",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "\u00a7101 temporal rule, complete Court explanation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "corrective amendment and judicial interpretation distinction, complete Court explanation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

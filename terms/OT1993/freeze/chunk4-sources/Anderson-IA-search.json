@@ -1,0 +1,1704 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1438,
+    "params": {
+      "query": "collection:us-supreme-court AND title:Anderson",
+      "qin": "collection:us-supreme-court AND title:Anderson",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 500,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 421,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386005_1527",
+        "title": "Anderson v. Electronic Data Systems Corp., 513 U.S. 808 (1994) (No. 93-1670)"
+      },
+      {
+        "identifier": "micro_IA40385610_0860",
+        "title": "International Union, United Automobile, Aircraft & Agricultural Implement Workers of America v. Anderson, 351 U.S. 959 (1956) (No. 565)"
+      },
+      {
+        "identifier": "micro_IA40386009_1314",
+        "title": "Anderson v. Watchtower Bible and Tract Society of New York, Inc. (No. 07-188)"
+      },
+      {
+        "identifier": "micro_IA40386004_0414",
+        "title": "Kahn v. Anderson, 255 U.S. 1 (1921) (No. 421)"
+      },
+      {
+        "identifier": "micro_IA40386008_0325",
+        "title": "Anderson v. Wilson, 289 U.S. 20 (1933) (Nos. 460, 461)"
+      },
+      {
+        "identifier": "micro_IA40386419_0176",
+        "title": "Anderson v. Commissioner (No. 879)"
+      },
+      {
+        "identifier": "per_scotus_1855_87_0",
+        "title": "The Steamer Republic, Her Tackle, &c., Joseph E. Montgomery, Richard Willett, Benjamin E. Harrison, and James Philips, Claimants and Appellants, vs. John J. Anderson, Reuben L. Anderson, and Erastus H. Gaylord, Libellants. 1855: Vol 87"
+      },
+      {
+        "identifier": "micro_IA34086415_1498",
+        "title": "Anderson v. United States, 319 U.S. 781 (1943) (No. 809)"
+      },
+      {
+        "identifier": "micro_IA04386408_0140",
+        "title": "United States v. Anderson, Clayton & Co., 350 U.S. 55 (1955) (No. 26)"
+      },
+      {
+        "identifier": "micro_IA40386420_0940",
+        "title": "Anderson v, Swart., 366 U.S. 925 (1960) (No. 846)"
+      },
+      {
+        "identifier": "micro_IA40385020_2588",
+        "title": "Anderson v. Beatrice Foods Co., 498 U.S. 891 (1990) (No. 90-198)"
+      },
+      {
+        "identifier": "micro_IA40385010_0541",
+        "title": "Tilley v. Anderson, 460 U.S. 1085 (1983) (No. 82-1440)"
+      },
+      {
+        "identifier": "micro_IA40385602_0027",
+        "title": "Anderson v. United States, 379 U.S. 879 (1964) (No. 305)"
+      },
+      {
+        "identifier": "micro_IA40385607_1893",
+        "title": "Anderson v. United States, 419 U.S. 827 (1974) (No. 73-1588)"
+      },
+      {
+        "identifier": "micro_IA40386020_0515",
+        "title": "Standard Oil Co. v. Anderson, 212 U.S. 215 (1909) (No. 58)"
+      },
+      {
+        "identifier": "micro_IA40386410_0248",
+        "title": "ANDERSON Et Al. v. MARTIN, 375 U.S. 399 (1964) (No. 51)"
+      },
+      {
+        "identifier": "micro_IA40385006_0482",
+        "title": "Jenkins v. Anderson, 447 U.S. 231 (1980) (No. 78-6809)"
+      },
+      {
+        "identifier": "micro_IA40385007_0107",
+        "title": "Anderson Bros. Ford v. Valencia, 452 U.S. 205 (1981) (No. 80-84)"
+      },
+      {
+        "identifier": "micro_IA40386004_1004",
+        "title": "Brokamp v. Mercy Hospital Anderson, 529 U.S. 1097 (2000) (No. 99-1332)"
+      },
+      {
+        "identifier": "micro_IA40386002_1671",
+        "title": "Anderson v. Unisys Corp. (No. 95-281)"
+      },
+      {
+        "identifier": "micro_IA40386015_1731",
+        "title": "Anderson v. United States, 540 U.S. 825 (2003) (No. 02-1846)"
+      },
+      {
+        "identifier": "micro_IA40386017_1511",
+        "title": "Anderson v. Federal Bureau of Investigation, 559 U.S. 973 (2010) (No. 09-869)"
+      },
+      {
+        "identifier": "micro_IA40386004_0873",
+        "title": "Johnson v. Anderson, 529 U.S. 1020 (2000) (No. 99-1189)"
+      },
+      {
+        "identifier": "micro_IA40385008_0557",
+        "title": "Alyeska Pipeline Service Co. v. Anderson, 454 U.S. 1099 (1981) (No. 81-724)"
+      },
+      {
+        "identifier": "micro_IA40385019_0121",
+        "title": "Anderson v. United States, 480 U.S. 906 (1987) (No. 86-1167)"
+      },
+      {
+        "identifier": "micro_IA40385017_1323",
+        "title": "K. R. v. Anderson Community School Corp., 521 U.S. 1114 (1997) (No. 96-323)"
+      },
+      {
+        "identifier": "micro_IA40385608_0374",
+        "title": "Anderson v. United States, 420 U.S. 991 (1975) (No. 74-827)"
+      },
+      {
+        "identifier": "micro_IA40386007_1154",
+        "title": "Anderson v. International Union, United Plant Guard Workers, 543 U.S. 1056 (2005) (No. 04-756)"
+      },
+      {
+        "identifier": "per_scotus_1891_1345",
+        "title": "The Corporation of the Catholic Bishop of Nesqually, in Washington Territory, Appellant, vs. John Gibbon, T. M. Anderson, R. T. Yeatman, and the United States. 1891: Vol 1345"
+      },
+      {
+        "identifier": "per_scotus_1892_1312",
+        "title": "The Texas and Pacific Railway Company, Plaintiff in Error, vs. Ida May Anderson and Husband, Scott Anderson. 1892: Vol 1312"
+      },
+      {
+        "identifier": "per_scotus_1892_183",
+        "title": "Johan Paulsen, A. Alfreds, J. J. Allard, Alfred Anderson, et al., Plaintiffs in Error, vs. The City of Portland, John Gates, Mayor, et al. 1892: Vol 183"
+      },
+      {
+        "identifier": "micro_IA40385003_1722",
+        "title": "Anderson Co. v. John P. Chase, Inc., 424 U.S. 969 (1976) (No. 75-1159)"
+      },
+      {
+        "identifier": "micro_IA40385606_0540",
+        "title": "McConnell v. Anderson, 405 U.S. 1046 (1972) (No. 71-978)"
+      },
+      {
+        "identifier": "micro_IA40385606_1759",
+        "title": "Burger v. Anderson, 410 U.S. 931 (1973) (No. 72-910)"
+      },
+      {
+        "identifier": "micro_IA40385602_1626",
+        "title": "Anderson v. United States, 385 U.S. 840 (1966) (No. 403)"
+      },
+      {
+        "identifier": "micro_IA40385008_0202",
+        "title": "Anderson v. City of Northlake, 454 U.S. 1081 (1981) (No. 81-356)"
+      },
+      {
+        "identifier": "micro_IA40385004_2737",
+        "title": "Kwang-Wei Han v. Anderson Air Conditioning, Inc., 434 U.S. 1013 (1978) (No. 77-611)"
+      },
+      {
+        "identifier": "micro_IA40385013_0603",
+        "title": "Anderson v. Green, 513 U.S. 557 (1995) (No. 94-197)"
+      },
+      {
+        "identifier": "micro_IA40385019_2338",
+        "title": "Jacoway v. Anderson, 108 S. Ct. 147 (1987) (No. 87-71)"
+      },
+      {
+        "identifier": "micro_IA40385020_0473",
+        "title": "Elliott v. Anderson, 493 U.S. 978 (1989) (No. 89-620)"
+      },
+      {
+        "identifier": "micro_IA40385017_1438",
+        "title": "State University of New York v. Anderson, 528 U.S. 1111 (2000) (No. 98-1845)"
+      },
+      {
+        "identifier": "micro_IA40385017_0564",
+        "title": "Anderson v. Frohnmayer, 484 U.S. 801 (1987) (No. 86-1850)"
+      },
+      {
+        "identifier": "micro_IA40385001_1085",
+        "title": "Anderson v. Johnson, 390 U.S. 456 (1968) (No. 700)"
+      },
+      {
+        "identifier": "micro_IA40385002_1709",
+        "title": "Anderson v. Parcom, Inc., 493 U.S. 849 (1989) (No. 89-91)"
+      },
+      {
+        "identifier": "per_scotus_1888_135",
+        "title": "Robert H. Anderson, Appellant, vs. Henry T. Miller and William Mitchell, Partners, under the Firm-Name Of H. T. Miller And Company. 1888: Vol 135"
+      },
+      {
+        "identifier": "per_scotus_1869_387",
+        "title": "The United States, Appellants, vs. Nelson Anderson. 1869: Vol 387"
+      },
+      {
+        "identifier": "per_scotus_1883_298",
+        "title": "Henry J. Anderson, Receiver of the First National Bank of Allentown, Plaintiff in Error, vs, The Philadelphia Warehouse Company. 1883: Vol 298"
+      },
+      {
+        "identifier": "micro_IA40386007_1515",
+        "title": "Anderson v. United States, 116 S. Ct. 925 (1996) (No. 95-1091)"
+      },
+      {
+        "identifier": "micro_IA40385606_0049",
+        "title": "Anderson v. United States, 405 U.S. 918 (1972) (No. 71-690)"
+      },
+      {
+        "identifier": "micro_IA40386014_0209",
+        "title": "Anderson v. Dallas Area Rapid Transit, 528 U.S. 1062 (1999) (No. 99-634)"
+      },
+      {
+        "identifier": "micro_IA40386018_1189",
+        "title": "Anderson Community School Corp. v. Willis ex rel. Willis, 526 U.S. 1019 (1999) (No. 98-1183)"
+      },
+      {
+        "identifier": "micro_IA40386014_2015",
+        "title": "Anderson v. Russell, 534 U.S. 949 (2001) (No. 00-1933)"
+      },
+      {
+        "identifier": "micro_IA40386403_0130",
+        "title": "Anderson v. United States, 318 U.S. 350 (1943) (No. 10)"
+      },
+      {
+        "identifier": "micro_IA40386017_1085",
+        "title": "Anderson-Tully Co. v. McDaniel (No. 09-415)"
+      },
+      {
+        "identifier": "micro_IA40386008_0999",
+        "title": "Dassault Aviation v. Anderson, 543 U.S. 1015 (2004) (No. 04-222)"
+      },
+      {
+        "identifier": "micro_IA40385607_1067",
+        "title": "Alaska Helicopters, Inc. v. Anderson, 414 U.S. 1068 (1973) (No. 73-526)"
+      },
+      {
+        "identifier": "micro_IA40386012_0863",
+        "title": "Michigan v. Anderson, 513 U.S. 1183 (1995) (No. 94-922)"
+      },
+      {
+        "identifier": "micro_IA40386014_0143",
+        "title": "King v. Anderson, 528 U.S. 986 (1999) (No. 99-566)"
+      },
+      {
+        "identifier": "micro_IA40385003_0414",
+        "title": "Reuben L. Anderson-Cherne, Inc. v. Commissioner of Revenue, 422 U.S. 1040 (1975) (No. 74-1427)"
+      },
+      {
+        "identifier": "micro_IA40386450_0225",
+        "title": "Cope v. Anderson, 331 U.S. 461 (1946) (Nos. 593, 656)"
+      },
+      {
+        "identifier": "micro_IA40385018_1682",
+        "title": "Anderson v. Minnesota, 476 U.S. 1141 (1986) (No. 85-1622)"
+      },
+      {
+        "identifier": "micro_IA40385018_1644",
+        "title": "Burlington Northern Railroad v. Anderson, 476 U.S. 1116 (1986) (No. 85-1574)"
+      },
+      {
+        "identifier": "micro_IA40386003_1771",
+        "title": "Anderson v. United States, 513 U.S. 823 (1994) (No. 93-2051)"
+      },
+      {
+        "identifier": "micro_IA40386004_0523",
+        "title": "Vicksburg, S. & PR Co. v. Anderson-Tully Co., 256 U.S. 408 (1921) (No. 270)"
+      },
+      {
+        "identifier": "micro_IA40386001_0504",
+        "title": "Anderson v. Pacific Coast SS Co., 225 U.S. 187 (1912) (Nos. 641,642)"
+      },
+      {
+        "identifier": "micro_IA40386010_1543",
+        "title": "Anderson v. Ohio State University, 535 U.S. 990 (2002) (No. 01-1330)"
+      },
+      {
+        "identifier": "micro_IA40385602_0032",
+        "title": "Anderson v. United States, 379 U.S. 879 (1964) (No. 336)"
+      },
+      {
+        "identifier": "micro_IA40385013_0314",
+        "title": "Antoine v. Byers & Anderson, Inc., 508 U.S. 429 (1993) (No. 91-7604)"
+      },
+      {
+        "identifier": "micro_IA40385019_1427",
+        "title": "Anderson v. United States Department of Transportation, 486 U.S. 1026 (1988) (No. 87-1458)"
+      },
+      {
+        "identifier": "micro_IA40385019_2131",
+        "title": "Weaver v. Anderson County Fiscal Court, 488 U.S. 855 (1988) (No. 88-194)"
+      },
+      {
+        "identifier": "micro_IA40385601_0045",
+        "title": "Shaffer v. Anderson, 368 U.S. 956 (1962) (No. 544)"
+      },
+      {
+        "identifier": "micro_IA40385005_2243",
+        "title": "Anderson v. Stroble, 440 U.S. 940 (1979) (No. 78-998)"
+      },
+      {
+        "identifier": "micro_IA40385001_1091",
+        "title": "Anderson v. Tiemann, 390 U.S. 714 (1968) (No. 1218)"
+      },
+      {
+        "identifier": "micro_IA40386416_0859",
+        "title": "Bailey Farm Dairy Co. v. Anderson, 329 U.S. 788 (1946) (No. 640)"
+      },
+      {
+        "identifier": "micro_IA40385013_0541",
+        "title": "In Re Anderson, 511 U.S. 364 (1994) (No. 93-8312)"
+      },
+      {
+        "identifier": "micro_IA40385003_1008",
+        "title": "Somberg v. Anderson, 423 U.S. 929 (1975) (No. 75-373)"
+      },
+      {
+        "identifier": "micro_IA40386004_1284",
+        "title": "Anderson v. Delaware, 519 U.S. 872 (1996) (No. 96-226)"
+      },
+      {
+        "identifier": "micro_IA40385602_1085",
+        "title": "Halko v. Anderson, 382 U.S. 1011 (1966) (No. 785)"
+      },
+      {
+        "identifier": "micro_IA40385003_0880",
+        "title": "International Harvester Co v. Anderson, 424 U.S. 927 (1976) (No. 75-243)"
+      },
+      {
+        "identifier": "per_scotus_1845_107",
+        "title": "Mckean Buchanan, Plaintiff in Error, vs. Mary Ann Anderson. 1845: Vol 107"
+      },
+      {
+        "identifier": "per_scotus_1867_362",
+        "title": "The State of Maryland, on the Relation of Thomas Anderson, Plaintiff in Error, vs. John W. Baker, George Ernest, and Julian Magruder 1867: Vol 362"
+      },
+      {
+        "identifier": "micro_IA40386012_0959",
+        "title": "Anderson v. Douglas & Lomason Co., 513 U.S. 1149 (1995) (No. 94-1027)"
+      },
+      {
+        "identifier": "micro_IA40386013_1104",
+        "title": "Anderson v. Commissioner, 522 U.S. 948 (1997) (No. 97-137)"
+      },
+      {
+        "identifier": "micro_IA40386016_1235",
+        "title": "Anderson v. Town of Durham, Maine (No. 06-132)"
+      },
+      {
+        "identifier": "micro_IA40386017_0101",
+        "title": "Anderson v. Louisiana (No. 08-948)"
+      },
+      {
+        "identifier": "micro_IA40385610_1329",
+        "title": "Anderson v. Thorington Constr. Co., 363 U.S. 719 (1960) (No. 878)"
+      },
+      {
+        "identifier": "micro_IA40386003_0546",
+        "title": "INTERNAT'L & GN RY. CO. v. Anderson Co., 246 U.S. 424 (1918) (No. 243)"
+      },
+      {
+        "identifier": "micro_IA40386416_1724",
+        "title": "Tingle v. Anderson-Tully Co., 335 U.S. 816 (1948) (No. 95)"
+      },
+      {
+        "identifier": "micro_IA40386417_1633",
+        "title": "Patterson v. Anderson, 345 U.S. 965 (1953) (No. 748)"
+      },
+      {
+        "identifier": "micro_IA40386012_2098",
+        "title": "Anderson v. Cunard Line Ltd., 516 U.S. 865 (1995) (No. 95-101)"
+      },
+      {
+        "identifier": "micro_IA40386003_0996",
+        "title": "AT&T Corp. v. Anderson, 525 U.S. 1093 (1999) (No. 98-600)"
+      },
+      {
+        "identifier": "micro_IA40386417_0642",
+        "title": "Anderson v. Commissioner, 341 U.S. 935 (1951) (No. 656)"
+      },
+      {
+        "identifier": "micro_IA40385009_2067",
+        "title": "American Society of Plastic & Reconstructive Surgeons, Inc. v. Anderson, 502 U.S. 900 (1991) (No. 90-1736)"
+      },
+      {
+        "identifier": "micro_IA40385007_2429",
+        "title": "Lawrence Anderson v. United States (No. 80-6759)"
+      },
+      {
+        "identifier": "micro_IA40385008_0299",
+        "title": "Oden v. Anderson, 454 U.S. 968 (1981) (No. 81-457)"
+      },
+      {
+        "identifier": "micro_IA40385004_2455",
+        "title": "Anderson v. City of DeKalb, 434 U.S. 904 (1977) (No. 77-323)"
+      },
+      {
+        "identifier": "micro_IA40385008_0972",
+        "title": "Blackwell v. Anderson, 455 U.S. 947 (1982) (No. 81-1189)"
+      },
+      {
+        "identifier": "micro_IA40385003_2347",
+        "title": "Anderson v. United States, 429 U.S. 822 (1976) (No. 75-1630)"
+      },
+      {
+        "identifier": "micro_IA40385601_1833",
+        "title": "Berlenbach v. Anderson & Thompson Ski Co., 379 U.S. 830 (1964) (No. 210)"
+      },
+      {
+        "identifier": "micro_IA40385602_1182",
+        "title": "Anderson v. Shuford, 383 U.S. 935 (1966) (No. 891)"
+      },
+      {
+        "identifier": "micro_IA40385019_1924",
+        "title": "Anderson v. Alabama State Personnel Board, 488 U.S. 827 (1988) (No. 87-2092)"
+      },
+      {
+        "identifier": "micro_IA40385606_0544",
+        "title": "Anderson v. Colorado, 405 U.S. 1042 (1972) (No. 71-1055)"
+      },
+      {
+        "identifier": "micro_IA40385012_1365",
+        "title": "Anderson v. Bessemer City, 470 U.S. 564 (1985) (No. 83-1623)"
+      },
+      {
+        "identifier": "micro_IA40385018_2424",
+        "title": "Anderson v. United States Department of Transportation, 479 U.S. 1006 (1986) (No. 86-361)"
+      },
+      {
+        "identifier": "micro_IA40385609_0234",
+        "title": "Anderson v. Board of Education, 427 U.S. 650 (1976) (No. 75-729)"
+      },
+      {
+        "identifier": "micro_IA40386015_0531",
+        "title": "Anderson v. United States, 537 U.S. 1020 (2002) (No. 02-537)"
+      },
+      {
+        "identifier": "micro_IA40386015_0626",
+        "title": "Anderson v. Treadwell, 538 U.S. 906 (2003) (No. 02-639)"
+      },
+      {
+        "identifier": "micro_IA40386015_0320",
+        "title": "H & R Block, Inc. v. Anderson, 539 U.S. 913 (2003) (No. 02-0312)"
+      },
+      {
+        "identifier": "micro_IA40386018_0180",
+        "title": "Anderson v. United States, 171 U.S. 604 (1898) (No. 181)"
+      },
+      {
+        "identifier": "micro_IA40386018_1286",
+        "title": "Bowman v. Anderson, 526 U.S. 1067 (1999) (No. 98-1322)"
+      },
+      {
+        "identifier": "micro_IA40386007_0028",
+        "title": "N. & G. Taylor Co. v. Anderson, 275 U.S. 431 (1928) (No. 114)"
+      },
+      {
+        "identifier": "micro_IA40386013_1939",
+        "title": "Lindgren v. Anderson, 216 B.R. 1049 (1998) (No. 97-1029)"
+      },
+      {
+        "identifier": "micro_IA40386014_2254",
+        "title": "Mentavlos v. Anderson, 534 U.S. 952 (2001) (No. 01-224)"
+      },
+      {
+        "identifier": "micro_IA40385008_0547",
+        "title": "Anderson v. Low Rent Housing Commission of Muscatine, 454 U.S. 1086 (1981) (No. 81-714)"
+      },
+      {
+        "identifier": "micro_IA40385008_2100",
+        "title": "Anderson v. Harless, 459 U.S. 4 (1982) (No. 81-2066)"
+      },
+      {
+        "identifier": "micro_IA40385607_1061",
+        "title": "Indiana & Michigan Electric Co. v. Anderson Power & Light, 414 U.S. 1068 (1973) (No. 73-511)"
+      },
+      {
+        "identifier": "micro_IA40385607_2151",
+        "title": "Anderson v. United States, 419 U.S. 875 (1974) (No. 73-1774)"
+      },
+      {
+        "identifier": "micro_IA40385608_0140",
+        "title": "Napper v. Anderson, 419 U.S. 1023 (1974) (No. 74-381)"
+      },
+      {
+        "identifier": "micro_IA40385006_0815",
+        "title": "Grand Bahama Development Co. v. Anderson, 444 U.S. 930 (1979) (No. 79-325)"
+      },
+      {
+        "identifier": "micro_IA40385005_1518",
+        "title": "Anderson v. United States, 439 U.S. 980 (1978) (No. 78-242)"
+      },
+      {
+        "identifier": "micro_IA40385020_0315",
+        "title": "Anderson v. Aetna Casualty & Surety Co., 493 U.S. 959 (1989) (No. 89-442)"
+      },
+      {
+        "identifier": "micro_IA40385010_1125",
+        "title": "Anderson v. Oklahoma, 467 U.S. 1209 (1984) (No. 82-2030)"
+      },
+      {
+        "identifier": "micro_IA40386001_0520",
+        "title": "Messenger v. Anderson, 225 U.S. 436 (1912) (No. 150)"
+      },
+      {
+        "identifier": "micro_IA40385604_0472",
+        "title": "Anderson v. United States, 394 U.S. 903 (1969) (No. 928)"
+      },
+      {
+        "identifier": "micro_IA40386002_0641",
+        "title": "Anderson v. Forty-Two Broadway Co., 239 U.S. 69 (1915) (No. 246)"
+      },
+      {
+        "identifier": "micro_IA40386003_0063",
+        "title": "Tyee Realty Co. v. Anderson, 240 U.S. 115 (1916) (Nos. 393, 394)"
+      },
+      {
+        "identifier": "micro_IA40386011_0942",
+        "title": "Anderson: In Re (No. 92-59)"
+      },
+      {
+        "identifier": "micro_IA40386012_0720",
+        "title": "Anderson v. Nidorf, 514 U.S. 1035 (1995) (No. 94-770)"
+      },
+      {
+        "identifier": "micro_IA40386416_2115",
+        "title": "Anderson v. Bowers, 337 U.S. 918 (1949) (No. 730)"
+      },
+      {
+        "identifier": "micro_IA40386417_2305",
+        "title": "Anderson v. McKay, 348 U.S. 836 (1954) (No. 272)"
+      },
+      {
+        "identifier": "micro_IA40385018_1995",
+        "title": "Anderson v. Alaska, 479 U.S. 948 (1986) (No. 85-1986)"
+      },
+      {
+        "identifier": "micro_IA40386009_1635",
+        "title": "Van Anderson v. Missouri (No. 07-564)"
+      },
+      {
+        "identifier": "per_scotus_1877_39",
+        "title": "Harvey Terry, Joshua Green, and Thomas Green, Appellants, vs. Edward C. Anderson, Jr., E. C. Anderson, Jr., Executor of Geo. W. Anderson, Deceased; C. A. Baynard, Robert W. Flournoy, \u039d. \u0392. Knapp, Andrew Low, Jr., W. H. Cuyler, John C. Nicholl, Will"
+      },
+      {
+        "identifier": "micro_IA40385005_1716",
+        "title": "Anderson v. Barasa, 439 U.S. 1003 (1978) (No. 78-445)"
+      },
+      {
+        "identifier": "micro_IA40386013_1386",
+        "title": "Howard v. Anderson, 522 U.S. 968 (1997) (No. 97-438)"
+      },
+      {
+        "identifier": "micro_IA40386013_1371",
+        "title": "Anderson v. Panos, 522 U.S. 951 (1997) (No. 97-422)"
+      },
+      {
+        "identifier": "micro_IA40386016_2049",
+        "title": "Anderson v. Abodeeen (No. 06-998)"
+      },
+      {
+        "identifier": "micro_IA40386408_0031",
+        "title": "Anderson v. McKay, 348 U.S. 836 (1954) (No. 272)"
+      },
+      {
+        "identifier": "micro_IA40386450_0123",
+        "title": "United States v. Anderson, 328 U.S. 699 (1946) (No. 447)"
+      },
+      {
+        "identifier": "micro_IA40386013_2085",
+        "title": "Anderson v. United States, 523 U.S. 1072 (1998) (No. 1191)"
+      },
+      {
+        "identifier": "micro_IA40385008_0515",
+        "title": "International Ass'n of Machinists & Aerospace Workers v. Anderson, 454 U.S. 1145 (1982) (No. 81-679)"
+      },
+      {
+        "identifier": "micro_IA40385008_0676",
+        "title": "Charles Anderson, Warden v. Cornell Fuller, 455 U.S. 1028 (1982) (No. 81-855)"
+      },
+      {
+        "identifier": "micro_IA40386013_1656",
+        "title": "Anderson v. Land, 522 U.S. 1048 (1998) (No. 97-727)"
+      },
+      {
+        "identifier": "micro_IA40386018_1863",
+        "title": "Anderson v. Clow, 520 U.S. 1103 (1997) (No. 96-845)"
+      },
+      {
+        "identifier": "micro_IA40385020_3050",
+        "title": "Anderson v. Kentucky, 498 U.S. 1013 (1990) (No. 90-708)"
+      },
+      {
+        "identifier": "micro_IA40385601_0298",
+        "title": "Anderson v. Knox, 370 U.S. 915 (1962) (No. 908)"
+      },
+      {
+        "identifier": "micro_IA40385606_0695",
+        "title": "California v. Anderson, 406 U.S. 958 (1972) (No. 71-1248)"
+      },
+      {
+        "identifier": "micro_IA40385019_1861",
+        "title": "Anderson v. Slattery Group, Inc., 489 U.S. 1051 (1989) (No. 87-2022)"
+      },
+      {
+        "identifier": "micro_IA40386008_1223",
+        "title": "Harwick v. Anderson, 525 U.S. 870 (1998) (No. 98-56)"
+      },
+      {
+        "identifier": "micro_IA40385005_2780",
+        "title": "International Ass'n of Machinists & Aerospace Workers v. Anderson, 442 U.S. 921 (1979) (No. 78-1650)"
+      },
+      {
+        "identifier": "micro_IA40385007_0504",
+        "title": "Anderson v. Bolger, 449 U.S. 956 (1980) (No. 80-492)"
+      },
+      {
+        "identifier": "micro_IA40385005_1914",
+        "title": "City of Boston v. Anderson, 439 U.S. 1060 (1979) (No. 78-649)"
+      },
+      {
+        "identifier": "micro_IA40385005_2119",
+        "title": "Anderson v. Neuberger, 439 U.S. 1129 (1979) (No. 78-862)"
+      },
+      {
+        "identifier": "micro_IA40385012_0097",
+        "title": "Anderson v. Creighton, 483 U.S. 635 (1987) (No. 85-1520)"
+      },
+      {
+        "identifier": "micro_IA40385009_2144",
+        "title": "Anderson v. Environmental Health Department, 502 U.S. 814 (1991) (No. 90-1819)"
+      },
+      {
+        "identifier": "micro_IA40385610_1218",
+        "title": "Anderson v. City of Cedar Rapids, 359 U.S. 498 (1959) (No. 786)"
+      },
+      {
+        "identifier": "per_scotus_1881_95",
+        "title": "The Union Paper Bag Machine Company, WM. H. Chatfield, and William Woods, Appellants, vs. Thomas R. Nixon, Morris H. Nixon, and William O. Anderson., Morris H. Nixon and William O. Anderson, Appellants, vs. The Union Paper Bag Machine Company et al."
+      },
+      {
+        "identifier": "per_scotus_1884_108",
+        "title": "Johnson Hagood, Comptroller General of the State of South Carolina; R. S. Porcher, County Treasurer of Oconee County; and Samuel E. Moore, County Treasurer of Anderson County, Appellants, vs. John P. Southern and Jamen P. Low, Assignees of the Blue R"
+      },
+      {
+        "identifier": "per_scotus_1875_3_0",
+        "title": "The State of Florida, Complainant, vs. Edward C. Anderson, Jr., Daniel P. Holland, J. Frederick Warring, et al. 1875: Vol 3"
+      },
+      {
+        "identifier": "per_scotus_1844_57",
+        "title": "William Henderson, Plaintiff in Error, vs. John Anderson. 1844: Vol 57"
+      },
+      {
+        "identifier": "micro_IA0438614_1092",
+        "title": "Hays v. Anderson, 361 U.S. 838 (1959) (No. 115)"
+      },
+      {
+        "identifier": "micro_IA34806415_2488",
+        "title": "Anderson v. Tway, 324 U.S. 861 (1945) (No. 885)"
+      },
+      {
+        "identifier": "micro_IA40386420_0464",
+        "title": "Stice v. Kansas ex rel. Anderson, 364 U.S. 823 (1960) (No. 213)"
+      },
+      {
+        "identifier": "micro_IA40386420_1292",
+        "title": "Anderson v. California (No. 483)"
+      },
+      {
+        "identifier": "micro_IA40386407_0087",
+        "title": "Carson v. Roane-Anderson Co., 342 U.S. 232 (1952) (No. 186-187)"
+      },
+      {
+        "identifier": "per_scotus_1884_65_0",
+        "title": "The Schooner \"Maggie J. Smith,\" Robert G. Dun, Theodore T. Anderson, et al., Claimants, Appellants, vs. Samuel H. Walker, Enoch Robinson, William O. Snow, et al. Samuel H. Walker, Enoch Robinson, et al., Appellants, vs. Robert G, Dun, Theodore T. And"
+      },
+      {
+        "identifier": "per_scotus_1885_957",
+        "title": "R. Van Brocklin and J. F. Stacy. Plaintiffs in Error, vs. Butler P. Anderson, Commissioner of Revenue; The State of Tennessee; The County of Shelby; The Taxing District of Shelby County; and Lawrence Lamb, Receiver and Back Tax Collector of the City"
+      },
+      {
+        "identifier": "per_scotus_1888_28",
+        "title": "The Georgia Railroad and Banking Company, Plaintiff in Error, vs. James M. Smith, Campbell Wallace and Leander N. Trammell, Railroad Commissioners of Georgia, and Clifford Anderson, Attorney General of Georgia. 1888: Vol 28"
+      },
+      {
+        "identifier": "micro_IA40385606_1063",
+        "title": "Anderson v. Lecon Properties, Inc., 409 U.S. 879 (1972) (No. 72-138)"
+      },
+      {
+        "identifier": "micro_IA40385011_0883",
+        "title": "Frey v. Anderson, 464 U.S. 1057 (1984) (No. 83-725)"
+      },
+      {
+        "identifier": "micro_IA40385002_0298",
+        "title": "Richard Anderson Photography v. Radford University, 489 U.S. 1033 (1989) (No. 88-651)"
+      },
+      {
+        "identifier": "micro_IA40386016_1492",
+        "title": "Wexler v. Anderson (No. 06-401)"
+      },
+      {
+        "identifier": "micro_IA40386017_0901",
+        "title": "Anderson v. Vanguard Car Car Rental Rental USA, Inc. (No. 09-146)"
+      },
+      {
+        "identifier": "micro_IA40386014_1201",
+        "title": "Anderson v. Simon, 531 U.S. 1073 (2001) (No. 00-635)"
+      },
+      {
+        "identifier": "micro_IA40386005_0585",
+        "title": "County of Hawaii v. Anderson, 528 U.S. 928 (1999) (No. 99-104)"
+      },
+      {
+        "identifier": "micro_IA40386006_0300",
+        "title": "Druggan v. Anderson, 269 U.S. 36 (1925) (No. 415)"
+      },
+      {
+        "identifier": "micro_IA40386012_0225",
+        "title": "Anderson v. United States, 513 U.S. 1015 (1994) (No. 94-243)"
+      },
+      {
+        "identifier": "micro_IA40385605_1454",
+        "title": "Anderson v. Laird, 404 U.S. 865 (1971) (No. 70-240)"
+      },
+      {
+        "identifier": "micro_IA40385602_0030",
+        "title": "Anderson v. United States, 379 U.S. 879 (1964) (No. 310)"
+      },
+      {
+        "identifier": "micro_IA40386015_1463",
+        "title": "Bodell v. Anderson, 539 U.S. 942 (2003) (No. 02-1534)"
+      },
+      {
+        "identifier": "per_scotus_1877_527",
+        "title": "The United States, Appellants, vs. Jonas H. Levy and Anderson D. Dieter. 1877: Vol 527"
+      },
+      {
+        "identifier": "micro_IA40386014_0968",
+        "title": "Waterman Steamship Corp. v. Anderson, 531 U.S. 812 (2000) (No. 99-1746)"
+      },
+      {
+        "identifier": "micro_IA40386418_1269",
+        "title": "Local Union No. 698, Retail Clerks' Union v. Anderson (No. 837)"
+      },
+      {
+        "identifier": "micro_IA40386418_1458",
+        "title": "Haas v. Anderson (No. 352)"
+      },
+      {
+        "identifier": "micro_IA40386419_0261",
+        "title": "National Producing Co. v. Anderson (No. 1009)"
+      },
+      {
+        "identifier": "micro_IA40385607_1192",
+        "title": "Anderson v. Dunlop, 414 U.S. 1131 (1974) (No. 73-771)"
+      },
+      {
+        "identifier": "micro_IA40386007_0080",
+        "title": "Untermyer v. Anderson, 276 U.S. 440 (1928) (No. 221)"
+      },
+      {
+        "identifier": "micro_IA40386407_0239",
+        "title": "May v. Anderson, 345 U.S. 528 (1953) (No. 244)"
+      },
+      {
+        "identifier": "micro_IA40385608_0916",
+        "title": "ANDERSON V. RADCLIFF (No. 74-1061)"
+      },
+      {
+        "identifier": "micro_IA40386011_1848",
+        "title": "Anderson v. United States, 507 U.S. 917 (1993) (No. 92-1064)"
+      },
+      {
+        "identifier": "micro_IA40385602_1580",
+        "title": "Halko v. Anderson, 385 U.S. 833 (1966) (No. 298)"
+      },
+      {
+        "identifier": "micro_IA40385603_0045",
+        "title": "Fanale v. Anderson, 385 U.S. 976 (1966) (No. 621)"
+      },
+      {
+        "identifier": "micro_IA40385603_0060",
+        "title": "Williams v. Anderson, 385 U.S. 988 (1966) (No. 700)"
+      },
+      {
+        "identifier": "micro_IA40386008_1618",
+        "title": "Anderson v. United States, 525 U.S. 966 (1998) (No. 98-481)"
+      },
+      {
+        "identifier": "micro_IA0438614_1102",
+        "title": "Anderson v. Atlantic Coast Line Railroad, 361 U.S. 841 (1959) (No. 251)"
+      },
+      {
+        "identifier": "micro_IA40386404_0195",
+        "title": "Bailey v. Anderson, 326 U.S. 203 (1945) (No. 49)"
+      },
+      {
+        "identifier": "micro_IA40386414_0299",
+        "title": "Anderson v. United States, 417 U.S. 211 (1974) (No. 73-346)"
+      },
+      {
+        "identifier": "micro_IA40386001_0329",
+        "title": "Anderson v. United Realty Co., 222 U.S. 164 (1911) (No. 27)"
+      },
+      {
+        "identifier": "micro_IA40386002_0608",
+        "title": "Charles E. Myers and A. Claude Kalmey, Plffs. In Err. v. John B. Anderson (Nos. 8, 9, 10)"
+      },
+      {
+        "identifier": "micro_IA40386006_0231",
+        "title": "Central Union Trust Co. of NY v. Anderson County, 268 U.S. 93 (1925) (No. 178)"
+      },
+      {
+        "identifier": "micro_IA40386009_1068",
+        "title": "Anderson, Superintendent, Indiana State Prison v. Matheney, 535 U.S. 1030 (2002) (No. 01-1053)"
+      },
+      {
+        "identifier": "micro_IA40386004_1542",
+        "title": "Anderson v. Mississippi, 519 U.S. 1009 (1996) (No. 96-501)"
+      },
+      {
+        "identifier": "micro_IA40385007_0754",
+        "title": "Michigan v. Anderson, 449 U.S. 1101 (1981) (No. 80-747)"
+      },
+      {
+        "identifier": "micro_IA40385018_2244",
+        "title": "Anderson v. United States Department of Agriculture, 479 U.S. 851 (1986) (No. 86-125)"
+      },
+      {
+        "identifier": "micro_IA40386003_1078",
+        "title": "Anderson v. Anheuser-Busch Cos., Inc., 525 U.S. 1069 (1999) (No. 98-685)"
+      },
+      {
+        "identifier": "micro_IA40385007_0008",
+        "title": "Gavin v. Anderson, 449 U.S. 810 (1980) (No. 79-6770)"
+      },
+      {
+        "identifier": "micro_IA40385006_2598",
+        "title": "Anderson v. Commissioner, 449 U.S. 841 (1980) (No. 79-2027)"
+      },
+      {
+        "identifier": "micro_IA40385007_0435",
+        "title": "Anderson v. Georgia, 449 U.S. 955 (1980) (No. 80-417)"
+      },
+      {
+        "identifier": "micro_IA40386012_2092",
+        "title": "Unisys Corp. v. Anderson, 516 U.S. 913 (1995) (No. 95-95)"
+      },
+      {
+        "identifier": "micro_IA40386015_0202",
+        "title": "Anderson v. Indiana Department of State Revenue, 537 U.S. 887 (2002) (No. 02-184)"
+      },
+      {
+        "identifier": "micro_IA40385018_0625",
+        "title": "Anderson County v. United States, 474 U.S. 919 (1985) (No. 85-308)"
+      },
+      {
+        "identifier": "micro_IA40385008_1368",
+        "title": "Anderson v. United States, 456 U.S. 916 (1982) (No. 81-1648)"
+      },
+      {
+        "identifier": "per_scotus_1874_263",
+        "title": "The Atlantic, Tennessee and Ohio Railroad Company, The Charlotte and South Carolina Railroad Company, Joseph H. Wilson and Anderson Mitchell, Appellants, vs.The Carolina National Bank of Columbia, South Carolina, L. D. Childs and C. H. Manson. 1874:"
+      },
+      {
+        "identifier": "micro_IA40385607_0816",
+        "title": "Anderson v. Froderman, 414 U.S. 979 (1973) (No. 73-5243)"
+      },
+      {
+        "identifier": "micro_IA40386020_1657",
+        "title": "Anderson v. Pearson, 542 U.S. 938 (2004) (No. 03-1531)"
+      },
+      {
+        "identifier": "micro_IA40385610_0535",
+        "title": "Anderson v. Jordan, 343 U.S. 912 (1952) (No. 635)"
+      },
+      {
+        "identifier": "micro_IA40386007_0481",
+        "title": "V. Loewers Gambrinus Brewery Co. v. Anderson, 282 U.S. 638 (1931) (No. 352)"
+      },
+      {
+        "identifier": "micro_IA40386008_1510",
+        "title": "Castlewood, Inc. v. Anderson County, 525 U.S. 949 (1998) (No. 98-361)"
+      },
+      {
+        "identifier": "micro_IA40386011_0625",
+        "title": "Walker v. Anderson Electrical Connectors, 506 U.S. 1078 (1993) (No. 91-1794)"
+      },
+      {
+        "identifier": "micro_IA40386017_2035",
+        "title": "In re Anderson, 562 U.S. 826 (2010) (No. 09-1444)"
+      },
+      {
+        "identifier": "micro_IA40385006_2585",
+        "title": "Raymond W. Anderson and Paul W. Keve v. Thomas H. Winsett, 449 U.S. 1093 (1981) (No. 79-2014)"
+      },
+      {
+        "identifier": "micro_IA40385007_1031",
+        "title": "Anderson v. United States, 450 U.S. 920 (1981) (No. 80-1051)"
+      },
+      {
+        "identifier": "micro_IA40386417_0106",
+        "title": "Anderson v. United States, 339 U.S. 965 (1950) (No. 741)"
+      },
+      {
+        "identifier": "micro_IA40385010_2236",
+        "title": "Anderson v. Consol-Pennsylvania Coal Co., 502 U.S. 1075 (1992) (No. 91-1029)"
+      },
+      {
+        "identifier": "micro_IA43086415_1188",
+        "title": "Estate of Anderson v. Commissioner, 317 U.S. 653 (1942) (No. 230)"
+      },
+      {
+        "identifier": "micro_IA40386016_0458",
+        "title": "Anderson v. Westinghouse Savannah River Co., 546 U.S. 1214 (2006) (No. 05-616)"
+      },
+      {
+        "identifier": "micro_IA40386005_0341",
+        "title": "Anderson v. Corall, 263 U.S. 193 (1923) (No. 44)"
+      },
+      {
+        "identifier": "micro_IA40386003_0919",
+        "title": "Anderson v. Steers, 510 U.S. 1114 (1994) (No. 93-937)"
+      },
+      {
+        "identifier": "micro_IA40385008_1384",
+        "title": "Anderson v. Conner, 456 U.S. 937 (1982) (No. 81-1667)"
+      },
+      {
+        "identifier": "micro_IA40385017_0576",
+        "title": "Anderson v. Oregon State Bar, 483 U.S. 1013 (1987) (No. 86-1948)"
+      },
+      {
+        "identifier": "micro_IA40386416_0218",
+        "title": "Abell v. Anderson, 326 U.S. 731 (1945) (No. 194)"
+      },
+      {
+        "identifier": "micro_IA40386417_0770",
+        "title": "Anderson-Tully Co. v. United States, 342 U.S. 826 (1951) (No. 171)"
+      },
+      {
+        "identifier": "micro_IA40385019_1076",
+        "title": "Maryland v. Anderson, 485 U.S. 913 (1988) (No. 87-699)"
+      },
+      {
+        "identifier": "micro_IA40385608_0684",
+        "title": "ANDERSON V. LANGENENWALTER (No. 74-1084)"
+      },
+      {
+        "identifier": "micro_IA40385610_0525",
+        "title": "Anderson-Prichard Oil Corp. v. Corporation Commission, 342 U.S. 938 (1952) (No. 569)"
+      },
+      {
+        "identifier": "micro_IA40386017_2714",
+        "title": "Anderson v. Obama, 562 U.S. 1139 (2011) (No. 10-612)"
+      },
+      {
+        "identifier": "micro_IA40386017_2810",
+        "title": "Miccosukee Tribe of Indians of Florida v. Kraus-Anderson Construction Co., 562 U.S. 1198 (2011) (No. 10-717)"
+      },
+      {
+        "identifier": "micro_IA40386020_1477",
+        "title": "Cate v. Anderson (No. 07-1436)"
+      },
+      {
+        "identifier": "micro_IA40386010_1211",
+        "title": "Nishioka v. University of Texas M. D. Anderson Cancer Center, 537 U.S. 817 (2002) (No. 01-1696)"
+      },
+      {
+        "identifier": "micro_IA40386002_1380",
+        "title": "Macaluso v. Anderson, 519 U.S. 814 (1996) (No. 95-1897)"
+      },
+      {
+        "identifier": "micro_IA40386006_0355",
+        "title": "First Nat. Bank of Guthrie Center v. Anderson, 269 U.S. 341 (1926) (No. 26)"
+      },
+      {
+        "identifier": "micro_IA40385001_0055",
+        "title": "Anderson v. Alabama, 366 U.S. 208 (1961) (No. 326)"
+      },
+      {
+        "identifier": "micro_IA40385005_0637",
+        "title": "Anderson, Clayton & Co. v. United States, 436 U.S. 944 (1978) (No. 77-1324)"
+      },
+      {
+        "identifier": "micro_IA40385017_1800",
+        "title": "In re Anderson, 469 U.S. 1206 (1985) (No. 84-896)"
+      },
+      {
+        "identifier": "per_scotus_1874_98",
+        "title": "Thomas D. W. Yanley, Plaintiff in Error, Vs. William D. Lavender, Robert M. Anderson, John Ross, and James J. Pace. 1874: Vol 98"
+      },
+      {
+        "identifier": "per_scotus_1870_73",
+        "title": "James Farr, Jr., Plaintiff, vs. George A. Thomson, Achas P. Dutton, Loomis H. Coleman, Norman Clarke, John Vaughan, Homer Glass, Ira C. Paine, John Anderson, John Reilley, Titus G. fish, and William Beswick, Defendants. 1870: Vol 73"
+      },
+      {
+        "identifier": "micro_IA40386011_1231",
+        "title": "Anderson v. Continental Steel Corp., 506 U.S. 941 (1992) (No. 92-388)"
+      },
+      {
+        "identifier": "per_scotus_1891_256",
+        "title": "The State of Missouri at the Relation and to the Use of the Quincy, Missouri and Pacific Railroad Company, Plaintiff in Error, vs. Anderson W. Harris, George T. Todd, and Thomas Montgomery, Judges of the County Court of Sullivan County, Missouri 189"
+      },
+      {
+        "identifier": "per_scotus_1894_446",
+        "title": "The First National Bank of Garnett, Kansas, Plaintiff in Error, vs. R. H. Ayers, Sheriff of Anderson County, Kansas; J. M. Hargrave, Treasurer of Anderson County, Kansas, and The Board of County Commissioners of Anderson County, Kansas. 1894: Vol 44"
+      },
+      {
+        "identifier": "micro_IA40386420_0391",
+        "title": "Girten Investment Co. v. Kansas ex rel. Anderson (No. 909)"
+      },
+      {
+        "identifier": "micro_IA40386018_1528",
+        "title": "United States v. Anderson, 526 U.S. 1159 (1999) (No. 98-1583)"
+      },
+      {
+        "identifier": "micro_IA40386016_1195",
+        "title": "Bayer Corp. v. Anderson (No. 06-88)"
+      },
+      {
+        "identifier": "micro_IA40386450_0159",
+        "title": "Anderson v. Yungkau, 329 U.S. 482 (1947) (No. 87)"
+      },
+      {
+        "identifier": "micro_IA40386020_0112",
+        "title": "New Jersey v. Anderson, 203 U.S. 483 (1906) (No. 49)"
+      },
+      {
+        "identifier": "micro_IA40385001_0144",
+        "title": "Anderson v. Ball, 368 U.S. 18 (1961) (No. 326)"
+      },
+      {
+        "identifier": "micro_IA40385606_1226",
+        "title": "Anderson v. California, 409 U.S. 949 (1972) (No. 72-226)"
+      },
+      {
+        "identifier": "micro_IA40385019_1869",
+        "title": "Anderson v. North Carolina, 488 U.S. 975 (1988) (No. 87-2030)"
+      },
+      {
+        "identifier": "micro_IA40385608_0373",
+        "title": "Anderson v. Trimble, 419 U.S. 995 (1974) (No. 74-3)"
+      },
+      {
+        "identifier": "micro_IA34806415_2404",
+        "title": "Anderson v. General American Life Insurance, 323 U.S. 798 (1945) (No. 709)"
+      },
+      {
+        "identifier": "micro_IA40386418_0902",
+        "title": "Anderson v. Mitchell, 352 U.S. 926 (1956) (No. 460)"
+      },
+      {
+        "identifier": "micro_IA40386417_1973",
+        "title": "Anderson v. National Labor Relations Board, 346 U.S. 938 (1954) (No. 487)"
+      },
+      {
+        "identifier": "micro_IA40386012_2253",
+        "title": "Northern Telecom, Inc. v. Anderson, 516 U.S. 1043 (1996) (No. 95-471)"
+      },
+      {
+        "identifier": "micro_IA40386014_0283",
+        "title": "Anderson v. United States, 528 U.S. 1023 (1999) (No. 99-712)"
+      },
+      {
+        "identifier": "micro_IA40386011_0354",
+        "title": "Jones v. Anderson, 504 U.S. 912 (1992) (No. 91-1487)"
+      },
+      {
+        "identifier": "micro_IA40385012_0328",
+        "title": "Anderson v. Liberty Lobby, 477 U.S. 242 (1986) (No. 84-1602)"
+      },
+      {
+        "identifier": "micro_IA40385008_2005",
+        "title": "Anderson v. Celebrezze, 460 U.S. 780 (1983) (No. 81-1635)"
+      },
+      {
+        "identifier": "micro_IA40385018_0035",
+        "title": "Alpha Portland Industries, Inc. v. Anderson, 471 U.S. 1102 (1985) (No. 84-1547)"
+      },
+      {
+        "identifier": "micro_IA40385005_2055",
+        "title": "K. G. Moore, Inc. v. Anderson, 439 U.S. 1116 (1979) (No. 78-797)"
+      },
+      {
+        "identifier": "micro_IA40386012_0036",
+        "title": "Anderson v. Busman, 513 U.S. 867 (1994) (No. 94-36)"
+      },
+      {
+        "identifier": "micro_IA40385010_0694",
+        "title": "Warden v. Anderson, 462 U.S. 1111 (1983) (No. 82-1593)"
+      },
+      {
+        "identifier": "micro_IA40385602_0031",
+        "title": "Anderson v. United States, 379 U.S. 879 (1964) (No. 332)"
+      },
+      {
+        "identifier": "per_scotus_1891_202",
+        "title": "Samuel H. Kissam, Henry N. Whitney, and Eugene R. Washburn, Plaintiffs in Error, vs. Henry J. Anderson, Receiver of the First National Bank of Albion 1891: Vol 202"
+      },
+      {
+        "identifier": "per_scotus_1892_63",
+        "title": "Nathan C. Morse, Junior, and Charles Evans, Plaintiffs in Error, vs. John Jay Anderson. 1892: Vol 63"
+      },
+      {
+        "identifier": "per_scotus_1842_134",
+        "title": "William & D. Hardeman, and William P. Perkins, Plaintiffs in Error, vs. Edward Anderson. 1842: Vol 134"
+      },
+      {
+        "identifier": "micro_IA40386416_1424",
+        "title": "Mario Mercado E Hijos v. Anderson, 332 U.S. 837 (1947) (No. 422)"
+      },
+      {
+        "identifier": "micro_IA40386418_1350",
+        "title": "Anderson v. United States (No. 212)"
+      },
+      {
+        "identifier": "micro_IA40386006_0364",
+        "title": "United States v. Anderson, 269 U.S. 422 (1926) (Nos. 337, 420)"
+      },
+      {
+        "identifier": "micro_IA40386007_1176",
+        "title": "Xechem International, Inc. v. University of Texas M. D. Anderson Cancer Center, 543 U.S. 1149 (2005) (No. 04-781)"
+      },
+      {
+        "identifier": "micro_IA40386014_0897",
+        "title": "Anderson v. Johnson, 530 U.S. 1269 (2000) (No. 99-1667)"
+      },
+      {
+        "identifier": "micro_IA40386011_0345",
+        "title": "Anderson v. Battle, 504 U.S. 912 (1992) (No. 91-1478)"
+      },
+      {
+        "identifier": "micro_IA40386019_0495",
+        "title": "United States v. Anderson, 194 U.S. 394 (1904) (No. 560)"
+      },
+      {
+        "identifier": "micro_IA40386020_0449",
+        "title": "Shawnee Compress Co. v. Anderson, 209 U.S. 423 (1908) (No. 140)"
+      },
+      {
+        "identifier": "micro_IA40386403_0261",
+        "title": "Anderson National Bank v. Reeves, 321 U.S. 747 (1944) (No. 154)"
+      },
+      {
+        "identifier": "micro_IA40386012_0867",
+        "title": "In re Anderson, 513 U.S. 1109 (1995) (No. 94-928)"
+      },
+      {
+        "identifier": "micro_IA40386016_1316",
+        "title": "Urban Investment Investment Trust, Inc. v. Anderson-Dundee 53 LLC (No. 06-217)"
+      },
+      {
+        "identifier": "micro_IA40386008_0893",
+        "title": "Stumbo v. Anderson, 543 U.S. 956 (2004) (No. 04-103)"
+      },
+      {
+        "identifier": "micro_IA40385020_3235",
+        "title": "Anderson v. State Bar of California, 498 U.S. 1069 (1991) (No. 90-920)"
+      },
+      {
+        "identifier": "micro_IA40385602_1743",
+        "title": "Williams v. Anderson, 385 U.S. 931 (1966) (No. 487)"
+      },
+      {
+        "identifier": "micro_IA40385610_0332",
+        "title": "Anderson v. Michigan, 336 U.S. 957 (1949) (No. 698)"
+      },
+      {
+        "identifier": "micro_IA40385610_0714",
+        "title": "Anderson Bros. v. Board of Supervisors of Washington County, 348 U.S. 923 (1955) (No. 488)"
+      },
+      {
+        "identifier": "micro_IA40385610_1173",
+        "title": "Anderson v. Corporation Comm'n of Okla., 358 U.S. 642 (1959) (No. 576)"
+      },
+      {
+        "identifier": "micro_IA40386002_0732",
+        "title": "Northern Telecom, Inc. v. Anderson, 516 U.S. 1043 (1996) (No. 95-708)"
+      },
+      {
+        "identifier": "micro_IA40385018_2135",
+        "title": "Anderson v. United States Postal Service, 479 U.S. 983 (1986) (No. 85-2155)"
+      },
+      {
+        "identifier": "micro_IA40385002_1464",
+        "title": "Anderson v. Sickels, 492 U.S. 921 (1989) (No. 88-1967)"
+      },
+      {
+        "identifier": "micro_IA40385601_0044",
+        "title": "Shaffer v. Anderson, 368 U.S. 956 (1962) (No. 578)"
+      },
+      {
+        "identifier": "per_scotus_1884_851",
+        "title": "The Board of County Commissioners of the County of Anderson, Plaintiff in Error, vs. Thomas P. Beal. 1884: Vol 851"
+      },
+      {
+        "identifier": "per_scotus_1890_138",
+        "title": "J. C. Anderson, Administrator of Edward J. Wilson, Deceased, Thomas Emmet Wilson, Sarah J. Davis, and George W. Davis, Appellants, vs. James S. Watt, Executor of James Symington, Deceased, Appellee. 1890: Vol 138"
+      },
+      {
+        "identifier": "micro_IA34086415_1999",
+        "title": "Bailey v. Anderson, 321 U.S. 799 (1944) (No. 829)"
+      },
+      {
+        "identifier": "micro_IA34086415_1332",
+        "title": "Bigelow v. Anderson, 317 U.S. 690 (1942) (No. 494)"
+      },
+      {
+        "identifier": "micro_IA40386002_1684",
+        "title": "County of Kern v. Anderson, 516 U.S. 916 (1995) (No. 95-294)"
+      },
+      {
+        "identifier": "micro_IA40386002_0304",
+        "title": "Taylor v. Anderson, 234 U.S. 74 (1914) (No. 338)"
+      },
+      {
+        "identifier": "micro_IA40385610_0053",
+        "title": "Ex parte Anderson, 319 U.S. 728 (1943) (No. 839)"
+      },
+      {
+        "identifier": "micro_IA40386005_1267",
+        "title": "Anderson v. Merit Systems Protection Board, 512 U.S. 1204 (1994) (No. 93-1478)"
+      },
+      {
+        "identifier": "micro_IA40386006_0535",
+        "title": "Anderson v. Shipowners Assn. of Pacific Coast, 272 U.S. 359 (1926) (No. 306)"
+      },
+      {
+        "identifier": "micro_IA40386012_1870",
+        "title": "Anderson v. Maryland, 516 U.S. 816 (1995) (No. 94-1996)"
+      },
+      {
+        "identifier": "micro_IA40386018_0986",
+        "title": "Anderson v. Imperial Center V, L. P., 525 U.S. 1143 (1999) (No. 98-954)"
+      },
+      {
+        "identifier": "micro_IA40386006_0771",
+        "title": "Smith v. Anderson, 562 U.S. 1221 (2011) (No. 10-837)"
+      },
+      {
+        "identifier": "micro_IA40386002_0259",
+        "title": "Kansas City Southern R. Co. v. Anderson, 233 U.S. 325 (1914) (No. 319)"
+      },
+      {
+        "identifier": "micro_IA40386014_1052",
+        "title": "Anderson v. Clinton for President Committee, 530 U.S. 1263 (2000) (No. 99-1837)"
+      },
+      {
+        "identifier": "micro_IA40385007_1170",
+        "title": "C. Michael Anderson v. Nebraska (Nos. 80-1204, 80-5862)"
+      },
+      {
+        "identifier": "micro_IA40385017_0750",
+        "title": "Anderson v. Sno-King Village Ass'n, 488 U.S. 801 (1988) (No. 87-1647)"
+      },
+      {
+        "identifier": "micro_IA40385604_1620",
+        "title": "Anderson Federation of Teachers, Local 519 v. School City of Anderson, 399 U.S. 928 (1970) (No. 1571)"
+      },
+      {
+        "identifier": "micro_IA40385603_0425",
+        "title": "Anderson v. Commissioner, 387 U.S. 906 (1967) (No. 1180)"
+      },
+      {
+        "identifier": "micro_IA40385608_1543",
+        "title": "Somberg v. Anderson, 423 U.S. 929 (1975) (No. 75-373)"
+      },
+      {
+        "identifier": "micro_IA40385604_0258",
+        "title": "Anderson v. Oklahoma, 393 U.S. 1017 (1969) (No. 628)"
+      },
+      {
+        "identifier": "micro_IA40385007_0032",
+        "title": "Lewis v. Anderson, 449 U.S. 869 (1980) (No. 80-19)"
+      },
+      {
+        "identifier": "micro_IA40385006_1803",
+        "title": "Anderson v. Charles, 447 U.S. 404 (1980) (No. 79-1377)"
+      },
+      {
+        "identifier": "micro_IA40385005_1098",
+        "title": "Kidder v. Anderson, 439 U.S. 829 (1978) (No. 77-1714)"
+      },
+      {
+        "identifier": "per_scotus_1885_905",
+        "title": "John Sloane, William D. Sloane, Henry F. Sloane Thomas C. Sloane, Walter W. Law, et al, Plaintiffs in Error, vs. Marcus Anderson. 1885: Vol 905"
+      },
+      {
+        "identifier": "per_scotus_1876_12_0",
+        "title": "William K. McMillen, Plaintiff in Error, vs. Robert K. Anderson. 1876: Vol 12"
+      },
+      {
+        "identifier": "micro_IA40385004_1271",
+        "title": "Baum v. Anderson, 430 U.S. 932 (1977) (No. 76-1024)"
+      },
+      {
+        "identifier": "micro_IA40385009_1512",
+        "title": "Anderson v. Chrysler Motors Corp., 498 U.S. 1121 (1991) (No. 90-1113)"
+      },
+      {
+        "identifier": "micro_IA40385011_0320",
+        "title": "Anderson County v. United States, 464 U.S. 1017 (1983) (No. 83-320)"
+      },
+      {
+        "identifier": "micro_IA0438641_1038",
+        "title": "Denton & Anderson Co. v. Kavanagh, 361 U.S. 828 (1959) (No. 215)"
+      },
+      {
+        "identifier": "micro_IA40385019_1462",
+        "title": "Anderson v. United States, 487 U.S. 1234 (1988) (No. 87-1499)"
+      },
+      {
+        "identifier": "micro_IA40385608_0375",
+        "title": "Anderson v. United States, 420 U.S. 991 (1975) (No. 74-830)"
+      },
+      {
+        "identifier": "micro_IA40385001_1310",
+        "title": "Anderson v. Urban Renewal & Community Development Agency, 395 U.S. 823 (1969) (No. 1414)"
+      },
+      {
+        "identifier": "micro_IA40385602_1455",
+        "title": "Anderson v. City of Chester, 384 U.S. 1003 (1966) (No. 443)"
+      },
+      {
+        "identifier": "micro_IA40385606_0584",
+        "title": "Anderson v. United States, 406 U.S. 906 (1972) (No. 71-1084)"
+      },
+      {
+        "identifier": "micro_IA40385608_1855",
+        "title": "International Harvester Co v. Anderson, 424 U.S. 927 (1976) (No. 75-243)"
+      },
+      {
+        "identifier": "micro_IA40386007_0822",
+        "title": "Anderson v. United States, 544 U.S. 1062 (2005) (No. 04-1450)"
+      },
+      {
+        "identifier": "micro_IA40386004_1534",
+        "title": "Anderson v. Envirotest Technologies, Inc., 519 U.S. 1008 (1996) (No. 96-493)"
+      },
+      {
+        "identifier": "micro_IA40386403_0220",
+        "title": "Anderson v. Abbott, U.S. 321 U.S. 349 (1943) (No. 3)"
+      },
+      {
+        "identifier": "micro_IA40386018_0152",
+        "title": "Tinsley v. Anderson, 171 U.S. 101 (1898) (No. 632633)"
+      },
+      {
+        "identifier": "micro_IA40386450_0122",
+        "title": "Anderson v. Mt. Clemens Pottery Co., 328 U.S. 680 (1946) (No. 342)"
+      },
+      {
+        "identifier": "micro_IA40386415_0083",
+        "title": "Commissioners of the Sinking Fund v. Anderson, 311 U.S. 669 (1940) (No. 216)"
+      },
+      {
+        "identifier": "micro_IA40386416_1625",
+        "title": "Anderson v. Commissioner, 334 U.S. 819 (1948) (No. 725)"
+      },
+      {
+        "identifier": "micro_IA40386420_0461",
+        "title": "Anderson v. County Board of School Trustees of McHenry County (No. 202)"
+      },
+      {
+        "identifier": "micro_IA40386415_0048",
+        "title": "Splint Coal Corp. v. Anderson, 311 U.S. 661 (1940) (No. 146)"
+      },
+      {
+        "identifier": "micro_IA40386015_1064",
+        "title": "Waters v. Anderson, 538 U.S. 945 (2003) (No. 02-1110)"
+      },
+      {
+        "identifier": "micro_IA40385007_0511",
+        "title": "Lester v. Anderson, 450 U.S. 1045 (1981) (No. 80-495)"
+      },
+      {
+        "identifier": "per_scotus_1881_16",
+        "title": "In the Matter of The Petition of John Anderson Mason for Writs of Habeas Corpus and Certiorari. 1881: Vol 16"
+      },
+      {
+        "identifier": "micro_IA40385603_1171",
+        "title": "Anderson v. Cotner, 390 U.S. 954 (1968) (No. 1035)"
+      },
+      {
+        "identifier": "micro_IA40385606_1537",
+        "title": "Laird v. Anderson, 409 U.S. 1076 (1972) (No. 72-653)"
+      },
+      {
+        "identifier": "micro_IA40386007_1084",
+        "title": "Anderson v. Wade, 546 U.S. 826 (2005) (No. 04-1732)"
+      },
+      {
+        "identifier": "micro_IA40386416_1681",
+        "title": "Anderson v. Provident Life & Accident Insurance, 334 U.S. 846 (1948) (No. 798)"
+      },
+      {
+        "identifier": "micro_IA04386419_0914",
+        "title": "Anderson v. United States, 360 U.S. 929 (1959) (No. 799)"
+      },
+      {
+        "identifier": "micro_IA40385018_2454",
+        "title": "Illinois v. Anderson, 479 U.S. 1012 (1986) (No. 86-396)"
+      },
+      {
+        "identifier": "micro_IA40385602_0029",
+        "title": "Anderson v. United States, 379 U.S. 879 (1964) (No. 308)"
+      },
+      {
+        "identifier": "micro_IA40385602_0839",
+        "title": "Anderson v. Harris, 382 U.S. 894 (1965) (No. 434)"
+      },
+      {
+        "identifier": "micro_IA40386001_0580",
+        "title": "Anderson v. Smith, 226 U.S. 439 (1913) (No. 91)"
+      },
+      {
+        "identifier": "per_scotus_1833_107",
+        "title": "Reuben Anderson et al., Plaintiffs in Error, vs. Michael Bock. 1833: Vol 107"
+      },
+      {
+        "identifier": "micro_IA40385003_1336",
+        "title": "Anderson v. Board of Education, 427 U.S. 650 (1976) (No. 75-729)"
+      },
+      {
+        "identifier": "micro_IA40385010_0955",
+        "title": "Anderson v. Fisher, 464 U.S. 802 (1983) (No. 82-1856)"
+      },
+      {
+        "identifier": "per_scotus_1889_322",
+        "title": "Joseph Anderson and Hannah M. Anderson, Plaintiffs in Error, vs. Levi Carkins 1889: Vol 322"
+      },
+      {
+        "identifier": "per_scotus_1886_174",
+        "title": "Edward Lees and Robert J. Hendricks, Appellants, vs. Anderson Fowler 1886: Vol 174"
+      },
+      {
+        "identifier": "micro_IA40385002_0132",
+        "title": "Anderson v. United States, 488 U.S. 966 (1988) (No. 88-459)"
+      },
+      {
+        "identifier": "micro_IA40385018_1616",
+        "title": "Burlington Northern Inc. v. Anderson, 476 U.S. 1174 (1986) (No. 85-1544)"
+      },
+      {
+        "identifier": "micro_IA40385610_0783",
+        "title": "Anderson v. Atlantic Coast Line Railroad, 350 U.S. 807 (1955) (No. 261)"
+      },
+      {
+        "identifier": "micro_IA40385002_0041",
+        "title": "Anderson v. North Dakota, 488 U.S. 965 (1988) (No. 88-350)"
+      },
+      {
+        "identifier": "micro_IA40385007_0204",
+        "title": "Celebrezze v. Anderson, 448 U.S. 914 (1980) (No. 80-182)"
+      },
+      {
+        "identifier": "micro_IA40385006_1915",
+        "title": "Tucker v. Anderson, 446 U.S. 953 (1980) (No. 79-1510)"
+      },
+      {
+        "identifier": "micro_IA40386013_1872",
+        "title": "K. R. v. Anderson Community School Corp., 523 U.S. 1046 (1998) (No. 97-960)"
+      },
+      {
+        "identifier": "micro_IA40386013_0372",
+        "title": "Anderson v. Las Vegas Tribe of Paiute Indians, 520 U.S. 1169 (1997) (No. 96-1410)"
+      },
+      {
+        "identifier": "micro_IA40386017_1872",
+        "title": "Anderson v. AMR, 561 U.S. 1007 (2010) (No. 09-1261)"
+      },
+      {
+        "identifier": "micro_IA40386013_0160",
+        "title": "Anderson v. Holifield, 520 U.S. 1155 (1997) (No. 96-1182)"
+      },
+      {
+        "identifier": "micro_IA40385607_0703",
+        "title": "Anderson v. Salt Lake City Corp., 414 U.S. 879 (1973) (No. 72-1622)"
+      },
+      {
+        "identifier": "micro_IA40385608_1184",
+        "title": "Napper v. Anderson, 423 U.S. 837 (1975) (No. 74-1583)"
+      },
+      {
+        "identifier": "micro_IA40386004_1724",
+        "title": "Anderson v. Sharma, 517 U.S. 1234 (1996) (No. 95-1640)"
+      },
+      {
+        "identifier": "micro_IA40386006_0902",
+        "title": "Anderson v. Kitchen, 563 U.S. 918 (2011) (No. 10-983)"
+      },
+      {
+        "identifier": "micro_IA40386002_1375",
+        "title": "Anderson v. Johnson, 519 U.S. 814 (1996) (No. 95-1891)"
+      },
+      {
+        "identifier": "micro_IA40386009_0831",
+        "title": "Anderson v. United States, 534 U.S. 1083 (2002) (No. 01-806)"
+      },
+      {
+        "identifier": "micro_IA40385003_0558",
+        "title": "Napper v. Anderson, 423 U.S. 837 (1975) (No. 74-1583)"
+      },
+      {
+        "identifier": "micro_IA40386420_0176",
+        "title": "Tillman v. Anderson, 362 U.S. 903 (1960) (No. 640)"
+      },
+      {
+        "identifier": "micro_IA40386416_0181",
+        "title": "Manhattan Lighterage Corp. v. Anderson, 326 U.S. 722 (1945) (No. 121)"
+      },
+      {
+        "identifier": "micro_IA40385606_1655",
+        "title": "Anderson v. City of Phoenix, 410 U.S. 990 (1973) (No. 72-801)"
+      },
+      {
+        "identifier": "micro_IA43086415_1075",
+        "title": "Mason v. Anderson-Cottonwood Irrigation District, 317 U.S. 704 (1942) (No. 1198)"
+      },
+      {
+        "identifier": "micro_IA40386014_0508",
+        "title": "Anderson v. Ford Motor Co., 528 U.S. 1156 (2000) (No. 99-951)"
+      },
+      {
+        "identifier": "micro_IA40386017_0809",
+        "title": "Anderson v. Iowa City City Development Development Board (No. 09-185)"
+      },
+      {
+        "identifier": "micro_IA40385003_2119",
+        "title": "Anderson v. United States, 430 U.S. 905 (1977) (No. 75-50075-509513)"
+      },
+      {
+        "identifier": "micro_IA40386016_1353",
+        "title": "Anderson v. Ford Motor Motor Co (No. 06-255)"
+      },
+      {
+        "identifier": "micro_IA40385010_3239",
+        "title": "Tropigas, S.A. v. Anderson, 469 U.S. 1074 (1984) (No. 84-704)"
+      },
+      {
+        "identifier": "micro_IA40386419_0360",
+        "title": "Anderson v. Seeman (No. 122)"
+      },
+      {
+        "identifier": "micro_IA40385020_1775",
+        "title": "Heck v. Anderson, 498 U.S. 846 (1990) (No. 90-27)"
+      },
+      {
+        "identifier": "micro_IA40385601_1390",
+        "title": "Miller & Lux Inc. v. Anderson, 375 U.S. 986 (1964) (No. 633)"
+      },
+      {
+        "identifier": "micro_IA40385601_1393",
+        "title": "Miller & Lux Inc. v. Anderson, 375 U.S. 986 (1964) (No. 647)"
+      },
+      {
+        "identifier": "micro_IA40386006_0316",
+        "title": "Anderson v. Clune, 269 U.S. 140 (1925) (No. 331)"
+      },
+      {
+        "identifier": "micro_IA40386003_0906",
+        "title": "Anderson v. Douglas County, 510 U.S. 1113 (1994) (No. 93-923)"
+      },
+      {
+        "identifier": "micro_IA40385007_0772",
+        "title": "Anderson v. United States, 450 U.S. 912 (1981) (No. 80-766)"
+      },
+      {
+        "identifier": "micro_IA40385606_1155",
+        "title": "Anderson v. United States, 405 U.S. 918 (1972) (No. 71-690)"
+      },
+      {
+        "identifier": "micro_IA40385606_1176",
+        "title": "Anderson v. United States, 409 U.S. 915 (1972) (No. 72-168)"
+      },
+      {
+        "identifier": "micro_IA40386412_0142",
+        "title": "Protective Committee for Independent Stockholders of TMT Trailer Ferry, Inc. v. Anderson, 390 U.S. 414 (1968) (No. 38)"
+      },
+      {
+        "identifier": "micro_IA40386417_0866",
+        "title": "Baker v. Anderson Hotels of Oklahoma, Inc., 342 U.S. 869 (1951) (No. 324)"
+      },
+      {
+        "identifier": "micro_IA40386416_0619",
+        "title": "Levers v. Anderson, 328 U.S. 866 (1946) (No. 1231)"
+      },
+      {
+        "identifier": "micro_IA40386018_0257",
+        "title": "First Nat. Bank of Grand Forks v. Anderson, 172 U.S. 573 (1899) (No. 223)"
+      },
+      {
+        "identifier": "micro_IA40386020_0731",
+        "title": "Anderson v. United States (No. 08-433)"
+      },
+      {
+        "identifier": "micro_IA40386407_0106",
+        "title": "Mullaney v. Anderson, 342 U.S. 415 (1952) (No. 329)"
+      },
+      {
+        "identifier": "micro_IA40386012_0212",
+        "title": "Anderson v. United States, 513 U.S. 1015 (1994) (No. 94-231)"
+      },
+      {
+        "identifier": "micro_IA40386008_0928",
+        "title": "Norfolk & Western Railway Co. v. Anderson, 543 U.S. 926 (2004) (No. 04-144)"
+      },
+      {
+        "identifier": "micro_IA40386010_0277",
+        "title": "Indiana Ex Rel. Anderson v. Brand, 303 U.S. 95 (1938) (No. 256)"
+      },
+      {
+        "identifier": "micro_IA40385004_1779",
+        "title": "Anderson v. United States, 434 U.S. 819 (1977) (No. 76-1494)"
+      },
+      {
+        "identifier": "micro_IA40385008_1554",
+        "title": "Anderson v. Anderson, 457 U.S. 1106 (1982) (No. 81-1873)"
+      },
+      {
+        "identifier": "micro_IA40385019_0973",
+        "title": "Anderson v. State Oil & Gas Board, 484 U.S. 955 (1987) (No. 87-577)"
+      },
+      {
+        "identifier": "micro_IA40386015_2225",
+        "title": "Anderson v. Arkansas, 540 U.S. 1050 (2003) (No. 03-508)"
+      },
+      {
+        "identifier": "micro_IA40386404_0200",
+        "title": "Levers v. Anderson, 326 U.S. 219 (1945) (No. 51)"
+      },
+      {
+        "identifier": "micro_IA40386417_2442",
+        "title": "Adam, Meldrum & Anderson Co. v. Commissioner, 348 U.S. 913 (1955) (No. 426)"
+      },
+      {
+        "identifier": "micro_IA40386401_0286",
+        "title": "Anderson v. Helvering, 310 U.S. 404 (1940) (No. 682-3)"
+      },
+      {
+        "identifier": "micro_IA40385606_0045",
+        "title": "Anderson v. United States, 404 U.S. 950 (1971) (No. 71-285)"
+      },
+      {
+        "identifier": "micro_IA40385604_0220",
+        "title": "Anderson v. Empire Seafoods, Inc., 393 U.S. 983 (1968) (No. 556)"
+      },
+      {
+        "identifier": "micro_IA40386001_0676",
+        "title": "United States v. Anderson, 228 U.S. 52 (1913) (No. 705)"
+      },
+      {
+        "identifier": "micro_IA40385002_1702",
+        "title": "Fleming v. Anderson, 493 U.S. 849 (1989) (No. 89-84)"
+      },
+      {
+        "identifier": "micro_IA40386003_0239",
+        "title": "Chicago, TH & SR Co. v. Anderson, 242 U.S. 283 (1916) (No. 34)"
+      },
+      {
+        "identifier": "micro_IA40386014_1175",
+        "title": "Anderson v. Niagara Mohawk Power Corp., 531 U.S. 842 (2000) (No. 00-73)"
+      },
+      {
+        "identifier": "micro_IA40385608_2055",
+        "title": "Anderson Co. v. John P. Chase, Inc., 424 U.S. 969 (1976) (No. 75-1159)"
+      },
+      {
+        "identifier": "micro_IA40386006_1370",
+        "title": "Clark v. Roy Anderson Corp., 524 U.S. 905 (1998) (No. 97-1662)"
+      },
+      {
+        "identifier": "micro_IA40385009_0221",
+        "title": "Anderson v. Flateau, 458 U.S. 1123 (1982) (No. 81-2333)"
+      },
+      {
+        "identifier": "micro_IA40385013_0515",
+        "title": "Anderson v. Edwards, 514 U.S. 143 (1995) (No. 93-1883)"
+      },
+      {
+        "identifier": "micro_IA40385009_0068",
+        "title": "Fisher v. Anderson, 459 U.S. 801 (1982) (No. 81-2176)"
+      },
+      {
+        "identifier": "micro_IA40385009_0035",
+        "title": "Parker v. Anderson, 459 U.S. 828 (1982) (No. 81-2138)"
+      },
+      {
+        "identifier": "micro_IA40385014_0596",
+        "title": "Beneficial Nat. Bank v. Anderson, 539 U.S. 1 (2003) (No. 02-306)"
+      },
+      {
+        "identifier": "micro_IA40385009_2676",
+        "title": "Anderson v. United Telephone Co., 502 U.S. 940 (1991) (No. 91-408)"
+      }
+    ]
+  }
+}

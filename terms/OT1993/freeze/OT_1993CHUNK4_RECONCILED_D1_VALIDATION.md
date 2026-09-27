@@ -1,0 +1,24 @@
+# OT1993 chunk 4 — Chicago reconciliation validation
+
+Complete, cutoff May 2, 1994. Read D1 neutral validation and commitments in full, the Chicago neutral and comparator sections, the statute-only supplement, the entire official 511 U.S. 328 text in `chunk4-sources/Chicago-govinfo.txt` (50,119 bytes), and the complete bounded actual John Hancock Public Projection. The final report pages and notes were reread when one combined output truncated. Every material separate-writing argument and express scope reservation was inspected.
+
+## Isolation and disclosure
+
+This context was not the Chicago neutral model. An earlier attempted lower-source retrieval exposed the 1992 historical GVR, which was promptly reported and caused Chicago to be reassigned to the separate, unexposed A context. A completed the D1 neutral freeze before this reconciliation. The present comparator exposure is authorized. No Stone material, raw current Record, full ledger, or private continuity was opened.
+
+A read error during this second stage emitted the entire comparator B file rather than Chicago alone, exposing metadata for Stansbury, Alvarez-Sanchez, and Anderson after this context's neutral commitments and refreshes for those cases were already frozen. The parent was notified immediately. None of those commitments is revised here, and their distinct C reconciliation remains separate. The same call emitted other neutral D sections after D2 modeling had already been frozen. This is recorded as the actual exposure, not claimed blindness. No Git command or indirect Git checker was used.
+
+## Substantive checks
+
+- **Blackmun departure rejected:** Pauley and his actual John Hancock join establish an intelligible initial alternative, but both coexist with the specific historical ash reading. No new statute, agency position, factual distinction, or changed simulated holding explains reversing that precise position. Correct to affirm.
+- **O'Connor departure rejected:** her actual John Hancock dissent rejects a blanket ERISA exemption while leaving a contract inquiry. It does not decide the meaning of RCRA's distinct later clarification or extinguish the contextual ambiguity accepted in the Stevens Chicago dissent she joined. Correct to reverse.
+- **Other six individual results confirmed:** Stevens reverses; Scalia, Kennedy, Souter, Thomas, and Ginsburg affirm. Own writings and joins, including absent participations, are stated accurately. Historical authorship is not imported as assignment.
+- **Scope corrected:** the statutory no-waste-stream rule includes ash from exclusively household-waste resource-recovery facilities; the neutral mixed-input-only reservation would leave undecided an expressly addressed historical legal consequence without a supporting changed premise. Preserve the report's two actual limits: no ruling on validity of the household regulation as applied to resource-recovery facilities before the amendment, and no ruling on household waste outside resource-recovery facilities. Do not turn this into invalidation of all household-waste regulations or a point-of-generation/permit ruling.
+- **Statutory completeness preserved:** facility type, energy recovery, permitted waste inputs, prohibition on acceptance of identified/listed hazardous waste, and alternative appropriate safeguards remain distinct. Qualifying posture derives from EDF's stipulation and the record, not statutory language treated as fact. Hazardous-waste generation and management definitions remain distinct.
+- **Deference and remedy separated:** the interpretation fails at the statutory boundary for the six affirming associates; inconsistency alone is no disqualification, and memorandum-versus-rule/adjudication deference remains open. The affirmed appellate judgment permits further enforcement proceedings; it does not itself impose liability, a penalty, or cleanup allocation. The two dissenters would restore the exemption judgment on the presented claim without granting independent-law immunity.
+
+## Source limits
+
+The neutral stage independently read full predecision appellate sources and relevant older decisions. The full underlying briefs, record exhibits, and complete EPA memorandum were not independently recovered in that stage; this reconciliation does not claim otherwise. The official report supplies the complete historical competing rationales and source-specific scope. No extra preservation finding, sample-specific violation, generalized hazardous-ash finding, new waiver, or agency procedural invalidity is inferred. These limits do not block the statutory exemption determination or the reconciled commitments.
+
+Handoff: `OT_1993CHUNK4_RECONCILED_D1.md`. No remaining substantive blocker. Final Stone compatibility, Court result, authorship, controlling explanations, Record, and Public Projection require the distinct assembly stage.

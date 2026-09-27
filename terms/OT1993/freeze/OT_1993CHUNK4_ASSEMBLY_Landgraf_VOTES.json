@@ -1,0 +1,65 @@
+{
+  "Landgraf v. USI Film Products, No. 92-757.": {
+    "participants": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "reviewed \u00a7102 judgment",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "temporal framework",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "\u00a7102 damages temporal rule, Court explanation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "conditional jury, Court explanation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ]
+  }
+}

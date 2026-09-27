@@ -1,0 +1,110 @@
+[
+  {
+    "case": "Boca",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511222/usrep511222.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Boca-511-222.pdf",
+    "pages": 2,
+    "characters": 2410,
+    "sha256": "9ba57238ba658c0b72b1c0b31cfb14ff98c1959ed5e89c23453ea619ac7e4ad3",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Irvine",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511224/usrep511224.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Irvine-511-224.pdf",
+    "pages": 20,
+    "characters": 43161,
+    "sha256": "d77e627ac2306774f173f3b2670abaef05a66c5e73d222134220a06808fde426",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Landgraf",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511244/usrep511244.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Landgraf-511-244.pdf",
+    "pages": 54,
+    "characters": 124861,
+    "sha256": "0c953466da0b7f6ba2089b2877d23516e0cc40ac52bd29f9efce27f05b514143",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Rivers",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511298/usrep511298.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Rivers-511-298.pdf",
+    "pages": 20,
+    "characters": 44506,
+    "sha256": "68699c334a2a3d82ae5c686c4857f321df9b7e3cfc0964ec7c31fa4dc472fdaa",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Stansbury",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511318/usrep511318.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Stansbury-511-318.pdf",
+    "pages": 10,
+    "characters": 19546,
+    "sha256": "454489225cb3da698e44c88dc4a9e032e96a154508de70358659a367358c1056",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Chicago",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511328/usrep511328.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Chicago-511-328.pdf",
+    "pages": 22,
+    "characters": 46549,
+    "sha256": "a4224c2dbf9db652924670ece6a77e597066b350c0d1cc1c19cafaae137e4b78",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Alvarez",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511350/usrep511350.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Alvarez-511-350.pdf",
+    "pages": 13,
+    "characters": 27407,
+    "sha256": "18b5700a38da4fd31324bceb3ca2a14f6ae7903b0e330e37225f41403ca0b217",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Anderson",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511364/usrep511364.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Anderson-511-364.pdf",
+    "pages": 5,
+    "characters": 10742,
+    "sha256": "a2da54583710dd933e7b6763440c03ff6eaed26a6fe6e83522a28c0ba28e3d99",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Beecham",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511368/usrep511368.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Beecham-511-368.pdf",
+    "pages": 7,
+    "characters": 14639,
+    "sha256": "c0a6120196b5a77d4c4d6e4e7d382c68cfa2fc5ae37d014b7a5d8e1766506bca",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Kokkonen",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511375/usrep511375.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Kokkonen-511-375.pdf",
+    "pages": 8,
+    "characters": 16290,
+    "sha256": "a7303c990f3be8857eba64a2534f36476de9d9c0e8d6d1cf5af3f613297042d4",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Carbone",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511383/usrep511383.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Carbone-511-383.pdf",
+    "pages": 48,
+    "characters": 104194,
+    "sha256": "05807e4333bc31534227b2a614964b92facc14b2fdb6020f27ea983c5d879e19",
+    "review": "extracted all pages; human/model full text review still required"
+  },
+  {
+    "case": "Security",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511431/usrep511431.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Security-511-431.pdf",
+    "pages": 31,
+    "characters": 68340,
+    "sha256": "2cb167e427023e911d1e0664fd924c4825c457523259ed54c972b98fff2c8d6a",
+    "review": "extracted all pages; human/model full text review still required"
+  }
+]

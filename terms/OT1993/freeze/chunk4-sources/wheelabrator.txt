@@ -1,0 +1,44 @@
+SOURCE: https://law.resource.org/pub/us/case/reporter/F2/931/931.F2d.211.90-7437.1219.html
+
+931 F.2d 211
+931 F.2d 211
+32 ERC 2009, 59 USLW 2727, 21 Envtl.
+L. Rep. 20,845
+ENVIRONMENTAL DEFENSE FUND, INC., Plaintiff-Appellant,
+v.
+WHEELABRATOR TECHNOLOGIES, INC., Westchester Resco Company,
+L.P., Defendants-Appellees.
+No. 1219, Docket 90-7437.
+United States Court of Appeals,
+Second Circuit.
+Argued March 18, 1991.
+Decided April 24, 1991.
+R. Edward Wilhoite, Jr., Despres, Schwartz & Geoghegan, Chicago, Ill.  (Robert L. Graham, Laura A. Kaster, Gretchen M. Livingston, Robert L. Denby, Jenner & Block, Chicago, Ill., Karen Florini, Environmental Defense Fund, Washington, D.C., of counsel), for appellant.
+John G. Koeltl, New York City (Daniel G. Murphy, Ted S. Ward, Debevoise & Plimpton, New York City, Harold Himmelman, David M. Friedland, Stanley S. Sokul, Beveridge & Diamond, Washington, D.C., of counsel), for appellees.
+Before MESKILL, MINER and ALTIMARI, Circuit Judges.
+MESKILL, Circuit Judge:
+1
+This is an appeal from a judgment entered in the United States District Court for the Southern District of New York, Haight, J., on April 16, 1990, granting summary judgment in favor of the defendants Wheelabrator Technologies, Inc. and Westchester Resco Company, L.P.  (collectively "Wheelabrator"), and dismissing plaintiff Environmental Defense Fund's (EDF) complaint with prejudice.  Judgment was entered pursuant to Judge Haight's order of April 9, 1990.  Prior to ordering entry of judgment, Judge Haight had issued an opinion dated November 21, 1989, which examined EDF's claims.  See Environmental Defense Fund v. Wheelabrator Tech., Inc., 725 F.Supp. 758 (S.D.N.Y.1989).  In that opinion, Judge Haight fully set forth his findings of fact and conclusions of law.  See id.    The district court, however, delayed ordering the entry of final judgment pending further discovery.  The district court's findings and conclusions of November 21, 1989 provide the basis for this appeal.  Assuming the reader's familiarity with that opinion, we offer only a limited discussion of the relevant background.
+2
+Wheelabrator operates a resource recovery facility, popularly known as a "trash-to-energy" facility, where solid waste generated in Westchester County is delivered and incinerated.  The end-product of this incineration process is residue ash.  The manner in which Wheelabrator disposes of this residue ash provides the underlying basis for the instant controversy.  EDF contends that this residue ash is a "hazardous waste" which must be disposed of in accordance with the provisions of Subtitle C of the Resource Conservation and Recovery Act of 1976 (RCRA) (often called the "Solid Waste Disposal Act"), 42 U.S.C. Secs. 6921-39b.  Wheelabrator maintains that the ash, under the existing statutory and regulatory scheme, can be disposed of as non-hazardous solid waste under Subtitle D of the RCRA, 42 U.S.C. Secs. 6941-49a.  Wheelabrator argues that Section 3001(i) of the RCRA, 42 U.S.C. Sec. 6921(i), which was adopted in 1984, specifically grants an exclusion from the hazardous waste regulations to the ash that is the end-product of a resource recovery facility's incineration process.
+3
+EDF also advances an alternative argument.  EDF contends that even assuming Section 3001(i) grants an exclusion to the residue ash, Wheelabrator cannot avail itself of the benefits of that exclusion because it has taken inadequate steps to ensure that hazardous wastes are not being incinerated and it accepts small amounts of hazardous wastes from "small quantity generators."    See 40 C.F.R. Sec. 261.5(a) (defining the term).  In response, Wheelabrator asserts that "small quantity generators" are authorized by federal regulation to deliver their hazardous waste for disposal to any waste facility that is "[p]ermitted, licensed, or registered by a State to manage municipal or industrial solid waste."    40 C.F.R. Sec. 261.5(g)(3)(iv).  Wheelabrator also claims that its contractual arrangements with those who deliver solid waste for incineration adequately ensure against the receipt of hazardous wastes.
+4
+The threshold question that we must address is whether Congress, in adopting the Clean Air Act, Amendments of 1990, Pub.L. No. 101-549, 104 Stat. 2399 (1990), intended to preclude the enforcement of existing environmental laws and regulations as they relate to the disposal of incinerator ash, thereby mooting the controversy currently before us.  We note that this legislation was enacted after the district court's decision.
+5
+Our review of the relevant statutory provision and the accompanying legislative history convinces us that Congress did not intend to erect a bar to the enforcement of pre-existing environmental statutes and regulations.  Section 306 of the Clean Air Act Amendments of 1990 provides:
+6
+For a period of 2 years after the date of enactment of the Clean Air Act Amendments of 1990, ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the [EPA] pursuant to section 3001 of the Solid Waste Disposal Act.  Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990.
+7
+Pub.L. No. 101-549, 104 Stat. 2399, 2584 (1990).  The plain language of the statute precludes the EPA from "regulating" incinerator ash for two years.  The precise meaning of the term "regulate," however, is in our view at best ambiguous.  We, therefore, look to the statute's legislative history for guidance.
+8
+The legislative history provides us with a rather clear indication of Congress' intent.  The House and Senate Conferees offered the following explanation:
+9
+The conferees do not intend to prejudice or affect in any manner ongoing litigation, including Environmental Defense Fund v. Wheelabrator Inc., 725 F.Supp. 758 (2d Cir.)  [sic] and Environmental Defense Fund v. City of Chicago, Appeal No. 90-3060 (7th Cir.), or any State activity regarding ash.
+10
+H.R.Conf.Rep. No. 952, 101st Cong., 2nd Sess. 335, 342, reprinted in 1990 U.S.Code Cong. & Admin.News 3867, 3874.  The plain import of this statement is that Congress consciously made a decision not to express an opinion regarding the instant case and a companion case being litigated in the Seventh Circuit.  Indeed, it is obvious that Congress had no intention of rendering judicial review of the instant case moot.  Moreover, the statement is consistent with a congressional intention to see that the applicable regulatory scheme currently in existence is not rendered null and void as it relates to the regulation of incinerator ash.  Finally, by imposing a two year moratorium on any new EPA regulatory activity concerning incinerator ash, Congress simply may have desired to maintain the status quo pending judicial resolution of the issues presented here and in City of Chicago.    Once the courts have spoken, Congress will be in a better position to evaluate its options regarding the treatment of incinerator ash and to direct its future legislative efforts accordingly.
+11
+Having concluded that the case is properly before us, we now direct our attention to the district court's decision.  The district court rejected EDF's arguments and ultimately ordered that judgment be entered in favor of Wheelabrator.  Specifically, in its November 21, 1989 decision, the district court held that Section 3001(i) of the RCRA grants an exclusion from the hazardous waste regulations to the residue ash which is produced by the incineration of solid municipal waste.  The district court also concluded that applicable federal regulations permit "small quantity generators" of hazardous waste to dispose of that waste at any facility, including a resource recovery facility, that is "[p]ermitted, licensed, or registered by a State to manage municipal or industrial solid waste."    40 C.F.R. Sec. 261.5(g)(3)(iv).  Finally, the court held that Wheelabrator, through its contractual arrangements for the delivery of solid municipal waste, had in place legally sufficient controls to ensure that unauthorized hazardous wastes would not be delivered to the resource recovery facility for disposal.
+12
+After carefully reviewing Judge Haight's thorough and well reasoned opinion, we agree with his analysis of the legal issues.  Accordingly, we affirm the April 16, 1990 judgment of the district court for the reasons stated by Judge Haight in his opinion dated November 21, 1989.  Environmental Defense Fund v. Wheelabrator Tech., Inc., 725 F.Supp. 758 (S.D.N.Y.1989).
+CC∅ | Transformed by Public.Resource.Org

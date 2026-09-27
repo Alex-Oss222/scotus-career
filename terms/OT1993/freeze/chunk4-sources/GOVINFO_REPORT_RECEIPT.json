@@ -1,0 +1,86 @@
+[
+  {
+    "case": "Boca",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-222.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Boca-govinfo.pdf",
+    "sha256": "0a735b7a88efa6e5df2bd44f532863f3f9ec9c35bd612a5a74ea807f95611aaf",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Boca-govinfo.txt"
+  },
+  {
+    "case": "Irvine",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-224.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Irvine-govinfo.pdf",
+    "sha256": "46e81457de0746514667717d6b1a16fe722fba18b61a246def6568af1d57cbd1",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Irvine-govinfo.txt"
+  },
+  {
+    "case": "Landgraf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-244.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Landgraf-govinfo.pdf",
+    "sha256": "96e7eaf2b7e2f6c9af875937dd57bb6d5be982f38a514681d81a7f3ab39363e6",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Landgraf-govinfo.txt"
+  },
+  {
+    "case": "Rivers",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-298.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Rivers-govinfo.pdf",
+    "sha256": "62f53462145c719e625b01529c6250e55f0cffa179b47a2f5d8b30b161d2a50b",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Rivers-govinfo.txt"
+  },
+  {
+    "case": "Stansbury",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-318.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Stansbury-govinfo.pdf",
+    "sha256": "2158ff5f246365a0a3892c63fac705fe06941bb439e7cb34d00c047b370bf8f7",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Stansbury-govinfo.txt"
+  },
+  {
+    "case": "Chicago",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-328.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Chicago-govinfo.pdf",
+    "sha256": "05751a4be05c652ea86e76c04a0f661f94e535a88897bb662a8e82e6a336aa6f",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Chicago-govinfo.txt"
+  },
+  {
+    "case": "Alvarez",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-350.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Alvarez-govinfo.pdf",
+    "sha256": "01625f251be3a5e8a8de04191653d2e305bc26a5e01ccea15e584d33490ae4b6",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Alvarez-govinfo.txt"
+  },
+  {
+    "case": "Anderson",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-364.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Anderson-govinfo.pdf",
+    "sha256": "278036eebe25b2bac416e3d871896b8618c6400bd8b0245b58393feb27147be0",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Anderson-govinfo.txt"
+  },
+  {
+    "case": "Beecham",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-368.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Beecham-govinfo.pdf",
+    "sha256": "628ca22f2b3dee17c173e194a8a656689022592edf41b0c1217ca48c0da49bb2",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Beecham-govinfo.txt"
+  },
+  {
+    "case": "Kokkonen",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-375.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Kokkonen-govinfo.pdf",
+    "sha256": "c7bc16b01546fdbe257107e23c9a56782e14ea00c83fa42e351167c4c490644d",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Kokkonen-govinfo.txt"
+  },
+  {
+    "case": "Carbone",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-383.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Carbone-govinfo.pdf",
+    "sha256": "4ec5cad7868726db8b1484d731a4030c96658fa1ab66f61c674a39f04b12fbae",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Carbone-govinfo.txt"
+  },
+  {
+    "case": "Security",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-431.pdf",
+    "file": "terms\\OT1993\\freeze\\chunk4-sources\\Security-govinfo.pdf",
+    "sha256": "977ac27b82b7f8b466a999e7054784459cdd5c7d9868a5c29e0d62b79f8b3774",
+    "full_text": "terms\\OT1993\\freeze\\chunk4-sources\\Security-govinfo.txt"
+  }
+]

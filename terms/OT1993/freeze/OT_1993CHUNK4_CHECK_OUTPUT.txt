@@ -1,0 +1,183 @@
+COMMAND: C:\Users\alexl\AppData\Local\Programs\Python\Python314\python.exe tmp/ot1993_chunk4_no_git.py rebuild_ledger
+EXIT: 0
+C:\Users\alexl\Projects\scotus-career\terms\OT1993\workspace\ledger.md: 48 records
+DEFERRED: Git commitment-history verification and new-record commitment order.
+
+
+COMMAND: C:\Users\alexl\AppData\Local\Programs\Python\Python314\python.exe tools/rebuild_manifest.py OT1993 --stopped Day v. Day=Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline. --stopped In re Sassower=Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition. --stopped Cavanaugh v. Roller=Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
+EXIT: 0
+C:\Users\alexl\Projects\scotus-career\terms\OT1993\workspace\manifest.md: 95 inventory events
+
+
+COMMAND: C:\Users\alexl\AppData\Local\Programs\Python\Python314\python.exe tmp/ot1993_chunk4_project_workspace.py
+EXIT: 0
+Projected 47 Court Records and 1 source Record; 3 stopped matters.
+
+
+COMMAND: C:\Users\alexl\AppData\Local\Programs\Python\Python314\python.exe tools/build_render_input.py terms\OT1993\render-inputs\OT_1993CHUNK4.md terms\OT1993\records\Beecham_and_Jones_v_United_States_merits_1994-05-16.md terms\OT1993\records\Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md terms\OT1993\records\City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md terms\OT1993\records\C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md terms\OT1993\records\In_re_Anderson_fee_order_1994-05-02.md terms\OT1993\records\Kokkonen_v_Guardian_Life_merits_1994-05-16.md terms\OT1993\records\Landgraf_v_USI_Film_Products_merits_1994-04-26.md terms\OT1993\records\Rivers_v_Roadway_Express_merits_1994-04-26.md terms\OT1993\records\Security_Services_v_Kmart_merits_1994-05-16.md terms\OT1993\records\Stansbury_v_California_merits_1994-04-26.md terms\OT1993\records\United_States_v_Alvarez_Sanchez_merits_1994-05-02.md terms\OT1993\records\United_States_v_Irvine_merits_1994-04-20.md --stopped Day v. Day: Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline. --stopped In re Sassower: Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition. --stopped Cavanaugh v. Roller: Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
+EXIT: 0
+terms\OT1993\render-inputs\OT_1993CHUNK4.md
+
+
+COMMAND: C:\Users\alexl\AppData\Local\Programs\Python\Python314\python.exe tmp/ot1993_chunk4_no_git.py check_term
+EXIT: 0
+OK: OT1993; 0 warning(s)
+DEFERRED: commit-object existence checks; no Git command executed.
+Unverified references: A40385013, cb0cf85, cceeded
+
+
+COMMAND: C:\Users\alexl\AppData\Local\Programs\Python\Python314\python.exe tmp/ot1993_chunk4_final_checks.py
+EXIT: 0
+{
+  "baseline_files": 1088,
+  "preserved_files": 1084,
+  "updated_workspace_files": 4,
+  "new_records": 12,
+  "records": {
+    "Beecham_and_Jones_v_United_States_merits_1994-05-16.md": {
+      "date": "1994-05-16",
+      "result": "**Result:** Both Fourth Circuit judgments affirmed, 9–0 each; state restoration does not remove a federal conviction under §921(a)(20). Jones retains the indictment-reinstatement/remand posture, without a new guilt finding.",
+      "sha256": "6dd2b1519fc908e4ffceb01f224b8be5b06e3b6abbbb9aebac372b71ede31a2b"
+    },
+    "Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md": {
+      "date": "1994-04-20",
+      "result": "**Result:** Vacated and remanded, 9–0.",
+      "sha256": "684673fdd34defd88b7faaded5f27d0426c39d08f6bcb97a6f37f8c6931512b7"
+    },
+    "City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md": {
+      "date": "1994-05-02",
+      "result": "**Result:** Affirmed, 7–2; statutory facility exclusion does not exempt generated hazardous ash.",
+      "sha256": "348e9a68b7cb09a74388345b519b1d4b0fb109385b3f7a9c23950f955e53904d"
+    },
+    "C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md": {
+      "date": "1994-05-16",
+      "result": "**Result:** State enforcement judgment reversed and remanded, 7–2; six-Justice discrimination opinion; O'Connor judgment-only concurrence.",
+      "sha256": "ee86e782ed2566247408ff3ca2e8d3b02d2cbba3b43458eddfcc758eb63996e7"
+    },
+    "In_re_Anderson_fee_order_1994-05-02.md": {
+      "date": "1994-05-02",
+      "result": "**Result:** Current fee motion granted and new prospective extraordinary-writ condition declined, each 9–0; underlying writ remains pending.",
+      "sha256": "26b5dd9f7d2238f6e7985d212751307a38b50e1d9a240f30dcc12701242b90e1"
+    },
+    "Kokkonen_v_Guardian_Life_merits_1994-05-16.md": {
+      "date": "1994-05-16",
+      "result": "**Result:** Ninth Circuit judgment reversed and remanded, 9–0, for dismissal of the settlement-enforcement motion for lack of the asserted ancillary jurisdiction.",
+      "sha256": "1b3c04bfdaadbdcd69b06012a519de155518cc1f8e57825c917efb7bcb9cc18d"
+    },
+    "Landgraf_v_USI_Film_Products_merits_1994-04-26.md": {
+      "date": "1994-04-26",
+      "result": "**Result:** Affirmed, 8–1; five-Justice general temporal framework.",
+      "sha256": "54d504258d4ac353b7f92c8bb0a0e5a9248b0410628e3466ea3362a2e8639eb8"
+    },
+    "Rivers_v_Roadway_Express_merits_1994-04-26.md": {
+      "date": "1994-04-26",
+      "result": "**Result:** Affirmed and remanded, 8–1; existing old-law enforcement jury remand preserved.",
+      "sha256": "723a3520d7e9c2a9ea49d1ba435e65fed55565b069ca93c9315d15231b84d93f"
+    },
+    "Security_Services_v_Kmart_merits_1994-05-16.md": {
+      "date": "1994-05-16",
+      "result": "**Result:** Third Circuit judgment affirming summary judgment for Kmart affirmed, 7–2; Thomas and Ginsburg separately dissent. Stevens concurs separately while joining the Court.",
+      "sha256": "03012450e0198f8b51a9b68c3dae686fb54c7407a8f8b5d1d9cb6c6de49a71c3"
+    },
+    "Stansbury_v_California_merits_1994-04-26.md": {
+      "date": "1994-04-26",
+      "result": "**Result:** Reversed and remanded, 9–0.",
+      "sha256": "3bbcae71f842a8b93e505357cc9693adee4f484818a8e7eabfc750a29919456e"
+    },
+    "United_States_v_Alvarez_Sanchez_merits_1994-05-02.md": {
+      "date": "1994-05-02",
+      "result": "**Result:** Reversed and remanded, 9–0; all nine join the bounded opinion.",
+      "sha256": "5cec4f3af49f726fb539e674a17ce1df593cdbae71beea202dc764124fa0cdec"
+    },
+    "United_States_v_Irvine_merits_1994-04-20.md": {
+      "date": "1994-04-20",
+      "result": "**Result:** Eighth Circuit reversed, 8–0; Blackmun does not participate in the decision; 1979 refund judgment only.",
+      "sha256": "910820fea59be6af063dd9b0dba3552b12775124cc0960fb62f7f618476a8d6a"
+    }
+  },
+  "holding_explanation_word_counts": {
+    "Beecham_and_Jones_v_United_States_merits_1994-05-16.md": [
+      171
+    ],
+    "Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md": [
+      151
+    ],
+    "City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md": [
+      165,
+      160
+    ],
+    "C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md": [
+      162,
+      165
+    ],
+    "In_re_Anderson_fee_order_1994-05-02.md": [
+      157,
+      154
+    ],
+    "Kokkonen_v_Guardian_Life_merits_1994-05-16.md": [
+      166,
+      164
+    ],
+    "Landgraf_v_USI_Film_Products_merits_1994-04-26.md": [
+      158,
+      166,
+      161
+    ],
+    "Rivers_v_Roadway_Express_merits_1994-04-26.md": [
+      166,
+      162
+    ],
+    "Security_Services_v_Kmart_merits_1994-05-16.md": [
+      177
+    ],
+    "Stansbury_v_California_merits_1994-04-26.md": [
+      160
+    ],
+    "United_States_v_Alvarez_Sanchez_merits_1994-05-02.md": [
+      152,
+      153
+    ],
+    "United_States_v_Irvine_merits_1994-04-20.md": [
+      158,
+      159,
+      161
+    ]
+  },
+  "local_links_checked": 357,
+  "vote_receipt_files": [
+    "OT_1993CHUNK4_ASSEMBLY_Boca_Grande_Club_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_B_FINAL_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_City_of_Chicago_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_D2_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_In_re_Anderson_fee_order_1994-05-02_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_Landgraf_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_Rivers_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_Stansbury_VOTES.json",
+    "OT_1993CHUNK4_ASSEMBLY_United_States_VOTES.json"
+  ],
+  "inventory_completed": 12,
+  "stopped_blockers_preserved": [
+    "Day v. Day",
+    "In re Sassower",
+    "Cavanaugh v. Roller"
+  ],
+  "carryovers_unchanged": true,
+  "render_record_order": [
+    "Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md",
+    "United_States_v_Irvine_merits_1994-04-20.md",
+    "Landgraf_v_USI_Film_Products_merits_1994-04-26.md",
+    "Rivers_v_Roadway_Express_merits_1994-04-26.md",
+    "Stansbury_v_California_merits_1994-04-26.md",
+    "City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md",
+    "In_re_Anderson_fee_order_1994-05-02.md",
+    "United_States_v_Alvarez_Sanchez_merits_1994-05-02.md",
+    "Beecham_and_Jones_v_United_States_merits_1994-05-16.md",
+    "C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md",
+    "Kokkonen_v_Guardian_Life_merits_1994-05-16.md",
+    "Security_Services_v_Kmart_merits_1994-05-16.md"
+  ],
+  "errors": [],
+  "warnings": [],
+  "git_checks": "DEFERRED; not executed",
+  "scope": "Clerical checks only; legal meaning assessed in staged contexts"
+}

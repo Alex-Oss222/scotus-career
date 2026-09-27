@@ -4,8 +4,8 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 
 | Event date | Chunk | Case or matter | Citation or docket | Matter type | Date status or event type | Status |
 |---|---|---|---|---|---|---|
-| 1993-10-12 | OT_1993CHUNK1 | Day v. Day | Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 | APPLICATION | Fee-waiver and filing-control application | Stopped: Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline. |
-| 1993-10-12 | OT_1993CHUNK1 | In re Sassower | Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596 | APPLICATION | Fee-waiver and filing-control application | Stopped: Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition. |
+| 1993-10-12 | OT_1993CHUNK1 | Day v. Day | Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 | APPLICATION | Fee-waiver and filing-control application | Stopped: Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline. Completed separate prospective component: [Day_v_Day_prospective_filing_control_1993-10-12.md](../records/Day_v_Day_prospective_filing_control_1993-10-12.md). |
+| 1993-10-12 | OT_1993CHUNK1 | In re Sassower | Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596 | APPLICATION | Fee-waiver and filing-control application | Stopped: Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition. Completed separate prospective component: [In_re_Sassower_prospective_filing_control_1993-10-12.md](../records/In_re_Sassower_prospective_filing_control_1993-10-12.md). |
 | 1993-11-09 | OT_1993CHUNK1 | Harris v. Forklift Systems, Inc. | No. 92-1168 | MERITS | Signed opinion | Completed: Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md |
 | 1993-11-09 | OT_1993CHUNK1 | Florence County School District Four v. Carter | No. 91-1523 | MERITS | Signed opinion | Completed: Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md |
 | 1993-11-30 | OT_1993CHUNK1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | No. 92-1123 | MERITS | Per curiam post-grant procedural disposition | Completed: Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md |
@@ -40,18 +40,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-04-19 | OT_1993CHUNK3 | J.E.B. v. Alabama ex rel. T.B. | No. 92-1239 | MERITS | Signed opinion | Completed: JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md |
 | 1994-04-19 | OT_1993CHUNK3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | No. 92-854 | MERITS | Signed opinion | Completed: Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md |
 | 1994-04-20 | OT_1993CHUNK3 | McDermott, Inc. v. AmClyde | No. 92-1479 | MERITS | Signed opinion | Completed: McDermott_Inc_v_AmClyde_merits_1994-04-20.md |
-| 1994-04-20 | OT_1993CHUNK4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | No. 93-180 | MERITS | Per curiam judgment / summary disposition | Completed: Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md |
-| 1994-04-20 | OT_1993CHUNK4 | United States v. Irvine | No. 92-1546 | MERITS | Signed opinion | Completed: United_States_v_Irvine_merits_1994-04-20.md |
-| 1994-04-26 | OT_1993CHUNK4 | Landgraf v. USI Film Products | No. 92-757 | MERITS | Signed opinion | Completed: Landgraf_v_USI_Film_Products_merits_1994-04-26.md |
-| 1994-04-26 | OT_1993CHUNK4 | Rivers v. Roadway Express, Inc. | No. 92-938 | MERITS | Signed opinion | Completed: Rivers_v_Roadway_Express_merits_1994-04-26.md |
-| 1994-04-26 | OT_1993CHUNK4 | Stansbury v. California | No. 93-5770 | MERITS | Per curiam judgment / summary disposition | Completed: Stansbury_v_California_merits_1994-04-26.md |
-| 1994-05-02 | OT_1993CHUNK4 | City of Chicago v. Environmental Defense Fund | No. 92-1639 | MERITS | Signed opinion | Completed: City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md |
-| 1994-05-02 | OT_1993CHUNK4 | United States v. Alvarez-Sanchez | No. 92-1812 | MERITS | Signed opinion | Completed: United_States_v_Alvarez_Sanchez_merits_1994-05-02.md |
-| 1994-05-02 | OT_1993CHUNK4 | In re Anderson | No. 93-8312 | APPLICATION | Fee-waiver and filing-control application | Completed: In_re_Anderson_fee_order_1994-05-02.md |
-| 1994-05-16 | OT_1993CHUNK4 | C & A Carbone, Inc. v. Town of Clarkstown | No. 92-1402 | MERITS | Signed opinion | Completed: C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md |
-| 1994-05-16 | OT_1993CHUNK4 | Kokkonen v. Guardian Life Insurance Co. of America | No. 93-263 | MERITS | Signed opinion | Completed: Kokkonen_v_Guardian_Life_merits_1994-05-16.md |
-| 1994-05-16 | OT_1993CHUNK4 | Beecham v. United States | No. 93-445, including Jones under Rule 12.2 | MERITS | Signed opinion | Completed: Beecham_and_Jones_v_United_States_merits_1994-05-16.md |
-| 1994-05-16 | OT_1993CHUNK4 | Security Services, Inc. v. Kmart Corp. | No. 93-284 | MERITS | Signed opinion | Completed: Security_Services_v_Kmart_merits_1994-05-16.md |
+| 1994-04-20 | OT_1993CHUNK4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | No. 93-180 | MERITS | Per curiam judgment / summary disposition | Open |
+| 1994-04-20 | OT_1993CHUNK4 | United States v. Irvine | No. 92-1546 | MERITS | Signed opinion | Open |
+| 1994-04-26 | OT_1993CHUNK4 | Landgraf v. USI Film Products | No. 92-757 | MERITS | Signed opinion | Open |
+| 1994-04-26 | OT_1993CHUNK4 | Rivers v. Roadway Express, Inc. | No. 92-938 | MERITS | Signed opinion | Open |
+| 1994-04-26 | OT_1993CHUNK4 | Stansbury v. California | No. 93-5770 | MERITS | Per curiam judgment / summary disposition | Open |
+| 1994-05-02 | OT_1993CHUNK4 | City of Chicago v. Environmental Defense Fund | No. 92-1639 | MERITS | Signed opinion | Open |
+| 1994-05-02 | OT_1993CHUNK4 | United States v. Alvarez-Sanchez | No. 92-1812 | MERITS | Signed opinion | Open |
+| 1994-05-02 | OT_1993CHUNK4 | In re Anderson | No. 93-8312 | APPLICATION | Fee-waiver and filing-control application | Open |
+| 1994-05-16 | OT_1993CHUNK4 | C & A Carbone, Inc. v. Town of Clarkstown | No. 92-1402 | MERITS | Signed opinion | Open |
+| 1994-05-16 | OT_1993CHUNK4 | Kokkonen v. Guardian Life Insurance Co. of America | No. 93-263 | MERITS | Signed opinion | Open |
+| 1994-05-16 | OT_1993CHUNK4 | Beecham v. United States | No. 93-445, including Jones under Rule 12.2 | MERITS | Signed opinion | Open |
+| 1994-05-16 | OT_1993CHUNK4 | Security Services, Inc. v. Kmart Corp. | No. 93-284 | MERITS | Signed opinion | Open |
 | 1994-05-23 | OT_1993CHUNK5 | BFP v. Resolution Trust Corp. | No. 92-1370 | MERITS | Signed opinion | Open |
 | 1994-05-23 | OT_1993CHUNK5 | Staples v. United States | No. 92-1441 | MERITS | Signed opinion | Open |
 | 1994-05-23 | OT_1993CHUNK5 | Custis v. United States | No. 93-5209 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** May 16, 1994, through the completed chunk 4 group. Next: BFP v. Resolution Trust Corp. (May 23, 1994, chunk 5) is the next scheduled event. Completed uncoordinated May 16 cases shared the entering baseline; Landgraf entered Rivers and McDermott entered Boca Grande in their express sequences.
+- **Current chronology cursor.** April 20, 1994, through McDermott v. AmClyde; Boca Grande and the other April 20 inventory matters remain uncompleted. Next: Boca Grande Club, Inc. v. Florida Power & Light Co. (April 20, 1994, chunk 4) follows McDermott in the expressly sequenced pair and must receive its actual holding. Other uncoordinated April 20 matters, including Irvine, retain the start-of-day baseline; no same-day dependency is inferred merely from processing order.
 
 ## Manifest controls and limitations
 
@@ -146,8 +146,4 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 - **In re Sassower:** Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition.
 - **Cavanaugh v. Roller:** Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
 
-BFP v. Resolution Trust Corp. (May 23, 1994, chunk 5) is the next scheduled event. Completed uncoordinated May 16 cases shared the entering baseline; Landgraf entered Rivers and McDermott entered Boca Grande in their express sequences.
-
-## Pending original writ after the completed May 2 fee action
-
-In re Anderson, No. 93-8312: financial leave and prospective filing control are resolved by the May 2 order; the underlying original extraordinary-writ petition remains pending for independent consideration under Rule 20 and the governing habeas statutes. No merits disposition, response order, hearing or deadline is inferred.
+Boca Grande Club, Inc. v. Florida Power & Light Co. (April 20, 1994, chunk 4) follows McDermott in the expressly sequenced pair and must receive its actual holding. Other uncoordinated April 20 matters, including Irvine, retain the start-of-day baseline; no same-day dependency is inferred merely from processing order.

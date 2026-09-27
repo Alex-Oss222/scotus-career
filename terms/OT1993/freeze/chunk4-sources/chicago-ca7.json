@@ -1,0 +1,191 @@
+{
+  "id": 10511769,
+  "name": "ENVIRONMENTAL DEFENSE FUND, INC. and Citizens for a Better Environment, Plaintiffs-Appellants, v. CITY OF CHICAGO and Mayor Richard M. Daley, Defendants-Appellees",
+  "name_abbreviation": "Environmental Defense Fund, Inc. v. City of Chicago",
+  "decision_date": "1993-01-29",
+  "docket_number": "No. 90-3060",
+  "first_page": "303",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "985 F.2d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "42 U.S.C. \u00a7 6901",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 L.Ed.2d 426",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 486",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11924866
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0019-01"
+      ]
+    },
+    {
+      "cite": "948 F.2d 345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1859624
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/948/0345-01"
+      ]
+    },
+    {
+      "cite": "118 L.Ed.2d 539",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "112 S.Ct. 1932",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6516687
+      ],
+      "year": 1992,
+      "opinion_index": 1,
+      "case_paths": [
+        "/br/139/1932-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2524",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1107664
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "2535"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/0680-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 9,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "863"
+        },
+        {
+          "page": "863"
+        },
+        {
+          "page": "863-64"
+        },
+        {
+          "page": "2792"
+        },
+        {
+          "page": "863"
+        },
+        {
+          "page": "2792"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 6640,
+    "ocr_confidence": 0.727,
+    "pagerank": {
+      "raw": 7.052393210097117e-08,
+      "percentile": 0.4252018167854574
+    },
+    "sha256": "b244e280ccbb729c329594889b01d2345041d7b5850a153c7aab667fd0d9daee",
+    "simhash": "1:3378e1a23e5f7276",
+    "word_count": 1038
+  },
+  "last_updated": "2024-02-27T17:17:45.861807+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BAUER, Chief Judge, POSNER and RIPPLE, Circuit Judges."
+    ],
+    "parties": [
+      "ENVIRONMENTAL DEFENSE FUND, INC. and Citizens for a Better Environment, Plaintiffs-Appellants, v. CITY OF CHICAGO and Mayor Richard M. Daley, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "BAUER, Chief Judge.\nThe Supreme Court granted certiorari in this case and vacated our judgment. Environmental Defense Fund v. City of Chicago, 948 F.2d 345 (7th Cir.1991), vacat ed, \u2014 U.S. -, 113 S.Ct. 486, 121 L.Ed.2d 426 (1992). The Court has remanded the case for reconsideration in light of a memorandum issued by the Administrator of the Environmental Protection Agency (\u201cEPA\u201d) to regional administrators about the \u201cExemption for Municipal Waste Combustion Ash From Hazardous Waste Regulation Under RCRA Section 3001(i).\u201d Memorandum of William K. Reilly, Administrator, Environmental Protection Agency, dated September 18, 1992. We have requested and received Circuit Rule 54 Statements of Position from both parties. In our earlier opinion, we ruled that ash generated in the combustion of municipal waste is subject to the regulatory scheme governing hazardous waste set forth in Subtitle C of the Resource Conservation and Recovery Act of 1976, 42 U.S.C. \u00a7 6901-6992k (\u201cRCRA\u201d). This order assumes familiarity with our earlier opinion in this case, which appears at 948 F.2d 345 (7th Cir.1991).\nThe EPA memorandum explains the agency\u2019s new interpretation of Section 3001\u00a9 of RCRA, 42 U.S.C. \u00a7 6921\u00a9. The agency\u2019s new interpretation represents a change in the agency\u2019s prior official position that ash generated by the combustion of municipal waste is not included in the Section 3001\u00a9 exemption. See 50 Fed.Reg. 28,725-26 (July 15, 1985). Hence, the EPA\u2019s interpretation now conflicts with ours.\nThe agency\u2019s change of position and Administrator Reilly\u2019s memorandum explaining it do not persuade us that our analysis of the RCRA was in error. As we explained in the original opinion, the EPA has changed its view so often that it is no longer entitled to the deference normally accorded an agency\u2019s interpretation of the statute it administers. 948 F.2d at 350. This additional change of position does not alter that conclusion.\nAdministrator Reilly explained the change of position is justified because the language of Section 3001\u00a9 is ambiguous and its legislative history supports the agency\u2019s conclusion that the ash should be exempted under Section 3001\u00a9. These arguments were presented to this court by the City and we considered and rejected them, finding that the plain language of the statute is dispositive. The EPA offers no new support for these arguments in its memorandum, and we continue to find them unpersuasive. Further, because we believe the language of Section 3001\u00a9 is clear, the public policy arguments Reilly discusses in the memorandum cannot override the mandate of the statute. Only Congress may change the law in response to policy arguments, courts may not do so.\nAccordingly, upon reconsideration of the parties\u2019 statements of position and the memorandum, we hold that the EPA memorandum does not affect our opinion or judgment in this case.",
+        "type": "majority",
+        "author": "BAUER, Chief Judge."
+      },
+      {
+        "text": "RIPPLE, Circuit Judge,\ndissenting.\nThis case is before us on remand from the Supreme Court of the United States. We have been directed to reconsider our earlier decision in light of the memorandum of the Administrator of the Environmental Protection Agency of September 18, 1992. In my view, despite the varying interpretations given the statute by the agency in the past, we are not, under the circumstances here, entirely relieved of our obligation under Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984), to defer to the reasonable interpretation of the agency charged with the administration of the statute. It is true that the Supreme Court has said that \u201c[a]s a general matter ... the case for judicial deference is less compelling with respect to agency positions that are inconsistent with previously held views.\u201d Pauley v. Bethenergy Mines, Inc., \u2014 U.S. -, -, 111 S.Ct. 2524, 2535, 115 L.Ed.2d 604 (1991). The Court has also stressed, however, that \u201c[a]n initial agency interpretation is not instantly carved in stone.\u201d Chevron, 467 U.S. at 863, 104 S.Ct. at 863. Indeed, the agency has the continuing obligation to ensure that its interpretation is reasonable by considering \u201cvarying interpretations and the wisdom of its policy on a continuing basis.\u201d Id. at 863-64, 104 S.Ct. at 2792.\nThe reasonableness of the Administrator\u2019s interpretation must be assessed \u201cnot in a sterile textual vacuum, but in the context of implementing policy decisions in a technical and complex arena.\u201d Id. at 863, 104 S.Ct. at 2792. As the Solicitor General graphically set out in his brief before the Supreme Court, the basic problem is that Congress has simply failed to address a major environmental policy question. See Br. of the United States as Amicus Curiae at 11 n. 6, City of Chicago v. Environmental Defense Fund, \u2014 U.S. -, 112 S.Ct. 1932, 118 L.Ed.2d 539 (1992). Consequently, the Administrator has attempted to resolve the matter on the basis of the available evidence. Here, confronted with the split of authority between two courts of appeals, the Administrator took another look at an admittedly ambiguous issue and reassessed his earlier pronouncements. In my view, this was responsible agency action and is deserving of our deferential review.\nWhile the Administrator\u2019s approach differs somewhat from the analysis of my colleagues in the Second Circuit (and while I find Judge Haight\u2019s presentation somewhat more convincing than the Administrator\u2019s), I do not perceive that tension to be a fundamental one. Accordingly, I would affirm the judgment of the district court. Hopefully, Congress will make the policy decision that needs to be made and the highest court in the land will be spared the necessity of having to deal with what is, at bottom, a problem for the legislative branch.",
+        "type": "dissent",
+        "author": "RIPPLE, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Leslie A. Jones, Northwestern University Legal Clinic, R. Edward Wilhoite, Jr. (argued), Despres, Schwartz & Geoghegan, Chicago, IL, Karen Florini, Washington, DC, for plaintiffs-appellants.",
+      "Nancy Marren, Henry L. Henderson, Lawrence Rosenthal, Deputy County Counsel, Mardell Nereim (argued), Kelly R. Welsh, Asst. County Counsel, Office of the Corp. Counsel, Appeals Div., Chicago, IL, for defendants-appellees."
+    ],
+    "corrections": "",
+    "head_matter": "ENVIRONMENTAL DEFENSE FUND, INC. and Citizens for a Better Environment, Plaintiffs-Appellants, v. CITY OF CHICAGO and Mayor Richard M. Daley, Defendants-Appellees.\nNo. 90-3060.\nUnited States Court of Appeals, Seventh Circuit.\nDecided Jan. 29, 1993.\nLeslie A. Jones, Northwestern University Legal Clinic, R. Edward Wilhoite, Jr. (argued), Despres, Schwartz & Geoghegan, Chicago, IL, Karen Florini, Washington, DC, for plaintiffs-appellants.\nNancy Marren, Henry L. Henderson, Lawrence Rosenthal, Deputy County Counsel, Mardell Nereim (argued), Kelly R. Welsh, Asst. County Counsel, Office of the Corp. Counsel, Appeals Div., Chicago, IL, for defendants-appellees.\nBefore BAUER, Chief Judge, POSNER and RIPPLE, Circuit Judges.\n. This decision was originally rendered by unpublished order on January 12, 1993. See Circuit Rule 53. The Court has subsequently decided to issue the decision as an opinion."
+  },
+  "file_name": "0303-01",
+  "first_page_order": 389,
+  "last_page_order": 391
+}
