@@ -4,6 +4,8 @@
 **Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
 **Edition:** September 17, 2026
 
+**Current-force convention:** Unless a question block contains a `Current force` field, its original Holding remains controlling as stated. A `Current force` field appears only when later controlling authority has modified the proposition's present operation.
+
 ## Constitutional Structure
 
 ### Congressional amendment of law governing pending litigation
@@ -19,7 +21,6 @@
 
 **Proposition-level authority:** Thomas's unanimous opinion of the Court, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the changed-law holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The holding concerns the Northwest Timber Compromise’s covered sales and fiscal-year 1990 framework, with continued application to covered sales contracts; it does not find any sale compliant. The sixteen enjoined Forest Service sales sustain the controversy; the apparently moot BLM branch supplies no separate merits disposition. Klein’s full reach, the unraised challenge to narrowly targeted legislation, and final-judgment reopening remain undecided.
 
@@ -49,7 +50,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part II, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices support this statutory holding and its stated limits.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The condition addresses the same prospective boundary encroachment that supports withholding permission and preserves the existing allocation while allowing construction.
 
@@ -83,7 +83,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The construction does not erase the express compulsory title and liability terms or authorize judicial rewriting; those terms receive their own constitutional review.
 
@@ -99,7 +98,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** Part III-A of O'Connor's opinion on this incentive, joined by White, Blackmun, Stevens, Scalia, Kennedy, Souter, and Thomas: eight Justices. Stone-Zsela separately agrees; no formal join is attributed to him.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The program serves safe disposal, supplies clear notice of the disposal conduct and deadlines earning distributions, and relates the conditions to that expenditure. No independent constitutional prohibition breached by satisfying those conditions is identified. The federal tax on interstate commerce is not independently challenged.
 
@@ -120,7 +118,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** Part III-B of O'Connor's opinion on this incentive, joined by White, Blackmun, Stevens, Scalia, Kennedy, Souter, and Thomas: eight Justices. Stone-Zsela separately agrees; no formal join is attributed to him.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Declining the milestones exposes private waste producers to increased costs and eventual loss of outside disposal access; it does not itself transfer obligations to the State or require an appropriation. Political pressure from affected residents is distinct from a legal command, and New York remains free to regulate in its own manner.
 
@@ -142,7 +139,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The compulsory 1996 mechanism leaves no lawful way for New York to decline federal program responsibility: the State must arrange disposal under federal instructions or take private generators' waste and assume liability for all damages directly or indirectly incurred through failure to take prompt possession. New York joined no compact.
 
@@ -170,7 +166,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** O'Connor's Part V, joined by Scalia, Kennedy, Souter, and Thomas, supplies five votes for the assumption-and-merits rationale. Stone-Zsela separately rejects the claim after finding this limited institutional claim justiciable. White, Blackmun, and Stevens vote to reject the challenge as part of their affirm-all disposition but do not join Part V.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court assumes this claim is justiciable without deciding that issue. Stone's affirmative decision to hear the limited institutional claim has no other join and creates no controlling justiciability rule. No separate Guarantee ground is decided for the already invalidated take-title command.
 
@@ -189,7 +184,6 @@ For the ripe-review holding in *New York v. United States*, June 19, 1992, Nos. 
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The remaining financing and access provisions function independently and advance disposal capacity. Absence of a severability clause creates no presumption against severance; the Act's objective is capacity, not the invalid sanction for its own sake.
 
@@ -249,7 +243,6 @@ For the threatened-enforcement and injunction-scope holdings in *Morales v. Tran
 
 **Proposition-level authority:** Souter’s plurality, joined by Blackmun, Stevens and Thomas, and Stone-Zsela’s concurrence in the judgment independently and expressly support this limited negative proposition and its remand consequence: five of nine Justices. No complete opinion commands five joins.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 18(a) preserves authority where no federal standard exists. Section 18(b), including its enacted heading, and the approval and withdrawal provisions can govern a State assuming the federal regulatory role without establishing a universal prohibition on compatible supplementation. Federal minimum training and additional state training do not become incompatible solely through overlap.
 
@@ -369,7 +362,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices support this proposition. Scalia and Thomas cast no merits vote.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Act requires covered public and private coal-fired utilities to obtain at least ten percent of coal heat input from Oklahoma coal. The small reserved share does not cure facial origin discrimination. The record does not show that an origin quota is necessary to secure reliable energy supplies when reasonable neutral diversification measures are available; retaining benefits for the local coal industry is not a sufficient justification.
 
@@ -392,7 +384,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices support this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Act's severability language concerning parts does not adequately establish legislative intent to remove all private applications and preserve a different GRDA-only scheme. State ownership of one regulated utility does not establish that an independent procurement policy was enacted or would be retained alone.
 
@@ -417,7 +408,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the rule, application and remedial limits. Stone's additional compensatory-tax observation is not part of the Court's holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The accepted long-term disposal, transportation, monitoring and capacity concerns do not establish that an equivalent imported ton is more dangerous or costly than a domestic ton. Evenhanded charges, total-volume limits and direct safety regulation address those mechanisms; these examples expose the missing justification rather than require a replacement program. Allowing the same waste upon payment of an extra fee does not establish a quarantine justification.
 
@@ -459,7 +449,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy, Souter and Thomas; seven Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The relevant comparison is between subsidiaries without independent Iowa operations. A domestic subsidiary doing business in Iowa supplies a distinct taxable connection. Kraft's accepted unitary relationship and Iowa's general authority to apportion connected income do not answer the independent nondiscrimination question.
 
@@ -481,7 +470,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy, Souter and Thomas; seven Justices. This resolves the asserted justifications for the first holding, not a free-standing ruling on other taxes.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Iowa incorporates the federal taxable-income figure and domestic-dividend deduction while omitting federal foreign-tax credits. A neutral dividend adjustment can retain substantially the same calculation and auditing benefits. Taxes imposed by other sovereigns establish no equivalent Iowa burden on the relevant domestic comparison.
 
@@ -508,7 +496,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Parts I–II of Scalia’s opinion, joined by White, Stevens, O’Connor, Souter and Thomas, supply six votes for the standard; Part III is joined by White, Stevens, Souter and Thomas, supplying five votes for its stated application. Stone-Zsela’s judgment concurrence is not a formal join and is not needed to establish authority.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Recruitment, training, evaluation, meetings and limited credit mediation facilitate solicitation without an independent function. Regular stale-gum replacement provides an independent service; paid stock-check transactions deliver gum; inventory maintained principally for those exchanges and sales supports those independent functions.
 
@@ -530,7 +517,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Parts I–II of Scalia's opinion, joined by White, Stevens, O'Connor, Souter and Thomas, supply six votes for this statutory-text holding; it was not separately contested by any Justice's writing.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Wrigley's own sales representatives are not independent contractors within §381(d)(1); the office distinction and its independent-contractor exemption therefore have no application to Wrigley's uncompensated home arrangements, which are governed instead by the ancillary-means/independent-business-function standard in the preceding holding.
 
@@ -548,7 +534,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Part II of Scalia’s opinion, joined by White, Stevens, O’Connor, Souter and Thomas, establishes the six-vote qualification. Part III, joined by White, Stevens, Souter and Thomas, supplies five votes for the combined-activity application. O’Connor independently finds inventory and stock-check sales sufficient without counting stale-gum replacement; her separate alternative is not a Court holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The inquiry combines regular stale-gum exchanges, supporting stock and occasional paid stock-check deliveries. Their small share of overall Wisconsin sales does not make the additional local connection trivial.
 
@@ -575,7 +560,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Stevens, Scalia and Souter; five Justices adopt the territorial limitation and operational-function qualification. The opinion independently controls without aggregating separate writings.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The existing boundary remains workable despite fact-sensitive applications, and States and businesses have organized tax systems and investments around it. A corporation's general profit purpose or common ownership cannot substitute for an operational connection.
 
@@ -596,7 +580,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Stevens, Scalia and Souter; five Justices adopt the application and remand. Stone separately supports reversal; Blackmun, O'Connor and Thomas dissent, making the judgment 6–3.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The stipulated absence of shared operational management, services, facilities or financing, and the merely minor arm's-length dealings, negate integration. Two noncontrolling board seats do not show centralized management. The record identifies no working-capital use or other operational role for the shares; intended later use of sale proceeds is insufficient.
 
@@ -623,7 +606,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Parts I–III of Stevens’s opinion, joined by White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; eight Justices. Stone expressly does not reach due process and supplies no join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Sustained solicitation and about $1 million in annual North Dakota sales establish the purposeful connection; the obligation relates rationally to benefits from that market. The distinct Commerce inquiry remains necessary.
 
@@ -646,7 +628,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** The common, narrower ground expressly supported by Stevens, Blackmun, O’Connor and Souter in Part IV, Scalia, Kennedy and Thomas in their concurrence, and Stone in his concurrence in the judgment; eight Justices retain the particular precedent. The full Part IV substantive policy analysis has four joins and is not an Opinion of the Court. The software application has the separate five-Justice authority identified below.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Complete Auto preserves substantial nexus separately from apportionment, nondiscrimination and fair relation to state services. The specific collection precedent and reliance it created persist; the four-Justice Part IV policy analysis is not imported into the common precedent ground.
 
@@ -668,7 +649,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stevens, Blackmun, O’Connor and Souter in Part IV, together with Stone’s expressly matching record-specific software ground in his concurrence in the judgment; five Justices adopt this application at the same scope. Scalia, Kennedy and Thomas support reversal but are not counted as joining this substantive software explanation.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The insignificant software interests facilitate communication with the out-of-state business; they do not establish the local commercial operation or market-maintaining representative activity asserted by the State. No warehouse, employee or agent is found.
 
@@ -696,7 +676,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's treaty portion, joined by Stone-Zsela, White, Stevens, O'Connor, Scalia, Souter and Thomas: eight Justices adopt this construction and application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -709,7 +688,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's regulatory-preemption portion, joined by Stone-Zsela, White, Stevens, O'Connor, Scalia, Souter and Thomas: eight Justices adopt the stated rejection of both grounds.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -724,7 +702,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's foreign-commerce portion, joined by Stone-Zsela, White, Stevens, O'Connor, Souter and Thomas: seven Justices adopt this rule and application. Scalia agrees only in the judgment on this issue; Blackmun dissents.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -739,7 +716,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Kennedy's Import-Export portion, joined by Stone-Zsela, White, Stevens, O'Connor, Souter and Thomas: seven Justices adopt this rule and application. Scalia concurs only in this component's judgment on a distinct export-status ground; Blackmun does not supply a separate Import-Export disposition.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -765,7 +741,6 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Proposition-level authority:** Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy and Thomas. Six of nine Justices adopt this exact ground and its limits; White and Blackmun’s merits ground is noncontrolling, and Souter does not formally join the Court’s opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -795,7 +770,6 @@ For the judicial aggravator, general advisory recommendation and sentence-correc
 
 **Proposition-level authority:** Part II-A of Souter's opinion, joined by Stone, White, O'Connor, Scalia, Kennedy and Thomas; seven Justices. Blackmun and Stevens would reach the instructional claim.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Florida separately stated that the penalty-instruction claims were unpreserved and rejected their merits; its note includes heinousness. Availability of fundamental-error review does not establish that this preservation ruling depends on the federal merits, and later citations to the merits discussion do not withdraw the independent ground.
 
@@ -855,7 +829,6 @@ For the judicial aggravator, general advisory recommendation and sentence-correc
 
 **Proposition-level authority:** O'Connor's opinion, joined by Stone, White, Blackmun, Stevens, Kennedy, Souter, and Thomas; these eight Justices supply the controlling rationale. Scalia concurs in the judgment and agrees with the express form-or-title ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Smith returned the clerk's informal-brief form within the valid appeal period. Use of that form did not negate the notice the document objectively might convey, and a requirement of separate notice and brief documents could not add a jurisdictional condition.
 
@@ -878,7 +851,6 @@ For the judicial aggravator, general advisory recommendation and sentence-correc
 
 **Proposition-level authority:** The per curiam opinion is joined by Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter and Thomas: seven Justices. The Court assumes the procedural challenge's strength for this remedial inquiry; it does not adopt Stone-Zsela's separate assessment that the then-operative FDA procedural regulation was likely violated.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The personal-use policy permits admission rather than compels it. Even assuming a strong procedural challenge, removing automatic detention restores agency discretion. The Court accepts serious imminent injury without inventing individual danger or an alternative treatment placement.
 
@@ -905,7 +877,6 @@ For the judicial aggravator, general advisory recommendation and sentence-correc
 
 **Proposition-level authority:** Thomas’s opinion, joined by Stone, Scalia, Kennedy and Souter; five Justices adopt the text/coexistence rationale. White, Blackmun, Stevens and O’Connor agree in judgment on their separate stated reasoning.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The applicable §1292 requirements remain, including certification of a controlling legal question, substantial ground for difference of opinion, material advancement of termination, timely application and circuit permission under §1292(b). No jury entitlement or extension of district-court language to bankruptcy appellate panels is decided.
 
@@ -931,7 +902,6 @@ For the judicial aggravator, general advisory recommendation and sentence-correc
 
 **Proposition-level authority:** White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Wooddell seeks replacement of lost earnings, not return of identified funds held by the union or backpay incidental to reinstatement in a former job.
 
@@ -979,7 +949,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Kennedy and Souter; five Justices adopt this proposition. The judgment reversing dismissal is unanimous, but the separate judgment concurrences do not add joins to the Court's foundational statutory holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The complaint seeks compensation from the children's father and his companion for alleged abuse, without requesting a divorce, alimony, custody decree or review of a state decree. The settled statutory understanding survives the 1948 recodification; Article III itself contains no domestic-relations exclusion.
 
@@ -1002,7 +971,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Kennedy and Souter; five Justices adopt this proposition. The judgment reversing dismissal is unanimous, but the separate judgment concurrences do not add joins to the Court's foundational statutory holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The action seeks compensation for past misconduct and does not halt, supervise or displace an ongoing state adjudication. No state proceeding is alleged to be pending.
 
@@ -1021,7 +989,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Kennedy and Souter; five Justices adopt this proposition. The judgment reversing dismissal is unanimous, but the separate judgment concurrences do not add joins to the Court's foundational statutory holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Family status has already been determined and its present legal character does not decide the alleged torts or compensation. State expertise and an important family-policy interest alone cannot replace the absent interference.
 
@@ -1047,7 +1014,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** The per curiam opinion is joined by White, O'Connor, Scalia, Kennedy and Thomas: five of nine participating Justices adopt this record-specific application of Barefoot. Stevens concurs in the denial without joining that opinion. Stone, Blackmun and Souter dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The disputed recantation, competing confession accounts, physical-evidence allegations and scientific interpretations are considered together but do not show the needed prospect of overcoming independent claim-default and successive-petition barriers. Irreparable harm alone does not establish the missing likelihood.
 
@@ -1076,7 +1042,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** The per curiam opinion is joined by White, O'Connor, Scalia, Kennedy, Souter and Thomas. Six of nine participating Justices adopt this independent equitable ground. Stone, Blackmun and Stevens dissent. No other ground is necessary to the judgment, and no fractured-opinion rule is invoked.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The recent Harding account adds support but does not explain failure to raise the established cyanide-gas challenge through four prior federal habeas proceedings. Medical submissions and execution’s irreversibility do not outweigh the unexplained delay on this record.
 
@@ -1105,7 +1070,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** The per curiam opinion for Stone, White, O'Connor, Scalia, Kennedy, Souter, and Thomas, together with Stevens's concurrence joined by Blackmun, expressly states this dispositive prerequisite for all nine Justices. This is an actual majority-supported threshold proposition across writings.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Washington did not ask the Ninth Circuit panel to modify the August 1991 order awaiting related proceedings. Earlier general inquiries and a resubmission request did not establish that focused relief was unavailable or inevitably futile.
 
@@ -1128,7 +1092,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter’s Opinion of the Court, joined by White, Blackmun, Stevens and Thomas; five of nine participating Justices adopt the charter construction at this level of generality. Stone-Zsela agrees on his separate charter-specific ground but supplies no formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Congress added the explicit federal-forum reference in 1947 against the charter precedents. The clause confers both capacity and jurisdiction and preserves concurrent state-court access. Section 1349's restriction on incorporation alone does not erase this specific additional grant.
 
@@ -1151,7 +1114,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter’s Opinion of the Court, joined by White, Blackmun, Stevens and Thomas; the same five Justices adopt this necessary answer to the alternative removal objection.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Diversity, joinder and independently available abstention retain their own requirements and remain unresolved. No tort element, defense, immunity or substantive-law issue is decided.
 
@@ -1169,7 +1131,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter’s Opinion of the Court, joined by White, Blackmun, Stevens and Thomas; five Justices decide the constitutional objection. The dissent does not reach it, and Stone-Zsela supplies only his separate ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Federal law supplies the corporation's legal existence and powers; state-law issues do not remove that federal foundation. Article III's capacity is distinct from Congress's narrower choices in general jurisdiction statutes.
 
@@ -1212,7 +1173,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Scalia’s opinion, joined by Stone, White, O’Connor, Kennedy, Souter and Thomas; the same seven Justices reject each alternative offered to sustain the monetary judgment.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The order imposes a general obligation to pay $20,000. No identified property or fund supports it, and the relief is an affirmative recovery rather than defensive recoupment.
 
@@ -1233,7 +1193,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter, Part II-A, joined by Stone, O’Connor, Scalia, Kennedy, Thomas; six votes control. White, Blackmun and Stevens dissent on this issue.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The express inclusion of the United States among defendants does not alter the separate incorporated penalty provisions, whose general definitions of liable persons omit the United States.
 
@@ -1254,7 +1213,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter, Part II-B.1, joined by Stone, O’Connor, Scalia, Kennedy, Thomas; six votes control. White, Blackmun and Stevens dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The statute twice links sanctions to process. That context permits the narrower reading of coercive measures securing compliance rather than punishment for completed substantive violations.
 
@@ -1275,7 +1233,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter, Part II-B.2, joined by Stone, O’Connor, Scalia, Kennedy, Thomas; six votes control. White, Blackmun and Stevens dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Federal approval does not transform Ohio’s penalty statute into a federal source of liability. The reference to civil penalties does not independently enlarge the incorporated federal penalty definition.
 
@@ -1297,7 +1254,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Souter, Part II-C, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Thomas; all nine Justices join this holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Permitting, reporting, injunctions and sanctions enforcing injunctions address compliance; the text identifies no unequivocal mechanism for punishing completed violations.
 
@@ -1325,7 +1281,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** Per curiam opinion joined by White, O'Connor, Scalia, Kennedy, and Souter; five of the eight participating Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The present submissions were found frivolous; the applicants' extraordinary filing histories supported the finding of continuing abuse.
 
@@ -1348,7 +1303,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, joined in full by Stone, White, Scalia, Kennedy, Souter, and Thomas. These seven Justices adopt the rule and the judgment-supporting explanation. Stevens’s dissent, joined by Blackmun, agrees with this factual-screening standard but disagrees with the additional appellate remand; their agreement is not needed to establish controlling authority.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The magistrate relied on the complaints’ combined pattern while acknowledging that each was not necessarily frivolous. Particular supporting affidavits must be considered without deciding truth from the pattern alone.
 
@@ -1367,7 +1321,6 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, joined in full by Stone, White, Scalia, Kennedy, Souter, and Thomas. Seven participating Justices adopt this review rule and its remand instructions. No separate proposition establishes a categorical preclusion rule for every later fee application or an absolute right to amend.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Abuse-of-discretion review does not insulate legal error. Screening does not adjudicate the merits or bar a paid complaint; possible effects on later fee applications make prejudice and curability relevant.
 
@@ -1396,7 +1349,6 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 
 **Proposition-level authority:** Scalia's Opinion of the Court, Part II, joined by Stone-Zsela, White, O'Connor and Thomas, controls with five votes. Kennedy separately concurs in the judgment and agrees that the earlier interval is reviewable, but does not join the Court's writing. The holding rests on the express five-Justice opinion without combining separate rationales.
 
-**Current force:** Remains controlling as stated.
 
 **Operative remedy or transition:** Reverse the no-compensation judgment and remand to the Supreme Court of South Carolina. The new permit avenue, remaining defenses, extent and duration of loss, and valuation remain for further proceedings; the permanent-value award is not automatically restored.
 
@@ -1420,7 +1372,6 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Stone concurs separately in the judgment without joining the opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Negotiable dollar repayment promises bearing market-linked interest are means private borrowers can use. The foreign-exchange objective and refinancing of existing debt concern purpose and do not change the instruments' commercial nature.
 
@@ -1438,7 +1389,6 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Stone concurs separately in the judgment without joining the opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The holders validly selected New York under the instruments, and previous payments credited their accounts there. The promised dollars failed to arrive at the agreed place of performance.
 
@@ -1457,7 +1407,6 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Stone concurs separately in the judgment without joining the opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Argentina purposefully offered New York payment in dollar instruments, honored that selection before the dispute and then failed to perform there; the connection is more than foreseeable routing through an American bank.
 
@@ -1482,7 +1431,6 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, joined in full by Stone, Blackmun, Stevens, and Kennedy. All five adopt this rule, its application, and the limited hearing remedy; five of nine participating Justices constitute a majority. No independently sufficient alternative holding or fractured-opinion analysis is necessary.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Tamayo-Reyes presented the claim to the state courts, and the State identifies no independent and adequate procedural bar. Counsel’s deficient factual development was negligent, not deliberate; the missing facts concern explanation of the manslaughter mental-state element.
 
@@ -1559,7 +1507,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Part I of Souter’s opinion of the Court, joined by Stone, White, Stevens, Scalia, Kennedy and Thomas; seven Justices adopt the live-controversy determination.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Government seeks restoration of the three-year statutory-maximum approach after the reduced eighteen-month term was served. The threshold ruling neither authorizes renewed detention nor decides the lawful sentencing ceiling.
 
@@ -1584,7 +1531,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part I, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt this threshold ruling.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The B.H. decree remains operative; neither modification nor violation of that decree is decided.
 
@@ -1607,7 +1553,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** Souter's opinion, joined by Stone, White, Blackmun, Stevens, O'Connor, and Kennedy; these seven Justices supply a majority of the eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Several candidates exceeded the five-percent threshold that could alter later party qualification. The challenged restrictions operated on a timetable too short for complete review before voting, and the dispute retained concrete consequences.
 
@@ -1632,7 +1577,6 @@ For this case’s other questions, see *United States Department of Commerce v. 
 
 **Proposition-level authority:** Stevens's Opinion of the Court, Part II, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, Souter and Thomas. All nine participating Justices adopt this proposition at its stated scope; it controls by an express majority, with no judgment-only or narrower-ground vote.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The possibility that several constitutional methods exist does not foreclose this constitutional challenge. Baker’s political-question limits in other settings remain; Count II is separate.
 
@@ -1658,7 +1602,6 @@ For this case’s other questions, see *Yee v. City of Escondido*, April 1, 1992
 
 **Proposition-level authority:** Part II-A of O'Connor's opinion of the Court, joined by White, Stevens, Scalia, Kennedy and Thomas; six Justices adopt this procedural proposition. Stone does not join this rationale.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Due-process merits are not rejected. Whether the review limitation is jurisdictional or prudential is expressly undecided.
 
@@ -1675,7 +1618,6 @@ For this case’s other questions, see *Yee v. City of Escondido*, April 1, 1992
 
 **Proposition-level authority:** Part II-B–C of O'Connor's opinion of the Court, joined by White, Stevens, Scalia, Kennedy and Thomas; six Justices adopt this procedural proposition. Stone does not join this rationale.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The holding uses the then-governing facial substantial-advancement theory and does not decide regulatory-taking merits or override the separate question-presented limit.
 
@@ -1695,7 +1637,6 @@ For this case’s other questions, see *Yee v. City of Escondido*, April 1, 1992
 
 **Proposition-level authority:** O’Connor, II-D, joined by Stone, White, Stevens, Scalia, Kennedy, Thomas: seven votes; this section adopts no regulatory merits or ripeness conclusion.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Preserving a general taking claim does not enlarge the grant. Physical and regulatory taking questions are related but not subsidiary to one another, and no exceptional urgency or economy warrants enlargement here.
 
@@ -1722,7 +1663,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** Stone’s reviewability opinion, joined by White, Scalia, Kennedy and Souter: five Justices adopt the rule and explanation. The four Justices who prefer dismissal of the writ do not join this rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Tenth Circuit expressly applied Page. Adhering to binding precedent did not concede its correctness; the Government had opposed the rule when it was established.
 
@@ -1750,7 +1690,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Scalia, Kennedy and Souter; five of eight participating Justices support the exact proposition. O'Connor concurs in the judgment without joining this rationale; Thomas did not participate.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Officials reaffirmed the single-occupancy obligation in 1985 after the original 1979 decree. The centrality of that term and acceptance of known risks matter, but the lower court must assess inequity without treating unforeseeability as an absolute condition.
 
@@ -1771,7 +1710,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Scalia, Kennedy and Souter; five of eight participating Justices support the exact proposition. O'Connor concurs in the judgment without joining this rationale; Thomas did not participate.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The district court may consider practical administration and cost in selecting lawful relief, while exercising its own equitable judgment; these considerations cannot replace proof of a qualifying change. Bell does not dissolve the officials' independently accepted single-cell promise.
 
@@ -1796,7 +1734,6 @@ For the direct-reference and independently sufficient fare-marketing-effects gro
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, O'Connor, Kennedy and Thomas; five of eight participants. Stone states a compatible equitable ground separately without joining the opinion; Souter does not participate.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Texas formally announced intended suits. Continuing the advertisements would accumulate substantial liability, while suspending them during a test case and review would surrender the challenged conduct. Neither option provides an adequate practical substitute on this record.
 
@@ -1812,7 +1749,6 @@ For the direct-reference and independently sufficient fare-marketing-effects gro
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, O'Connor, Kennedy and Thomas; five Justices. All eight participants vote to remove the excess, but Stone, Blackmun and Stevens supply no additional joins to this rationale.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The enforcement notices concern fare advertising, not the entire range of airline operations covered by the decree. The decree would otherwise adjudicate state applications before the State asserted them.
 
@@ -1860,7 +1796,6 @@ The consolidated matters are New York, County of Allegany and County of Cortland
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas: five of nine, controlling. Stone-Zsela agrees separately without a formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Developing a disposal site takes years; avoiding the future consequence requires present preparations, and no party suggests the State's generators will stop producing waste. Waiting would not sharpen the legal question and would require the very preparations challenged.
 
@@ -1889,7 +1824,6 @@ For this case’s other questions, see *United States Department of Commerce v. 
 
 **Proposition-level authority:** Stevens's Opinion of the Court, Part IV, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, Souter and Thomas. All nine participating Justices adopt this proposition at its stated scope; it controls by an express majority, with no judgment-only or narrower-ground vote.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Count II’s standing, justiciability, merits and relief remain open. Singleton supplies ordinary remand practice with discretionary exceptions, not a categorical jurisdictional bar to first-instance appellate decision.
 
@@ -1914,7 +1848,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Operative remedy or transition:** No additional materials vacatur, focused remand or interim injunction is ordered. Ordinary proceedings implement the actual component judgments; concrete misleading or coercive implementation remains challengeable.
 
@@ -1928,7 +1861,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas concur in the judgment on their additional assumed-operation ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** District findings 232 and 238–259 describe anticipated attendance practices and burdens; Third Circuit footnote 23 reserves the statutory correctness of that interpretation. They do not establish an enacted or authoritative additional-visit command. A later actual duty requires its own burden, alternative and justification assessment; the existence of bypass is not an automatic cure.
 
@@ -1954,7 +1886,6 @@ For the separate questions whether the coal quota violates the Commerce Clause a
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices support this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The purchasing record, the extraction tax, and evidence of available production capacity support an inference of lost severance receipts from compelled substitution away from Wyoming coal. The fiscal inference is supported on the summary-judgment record; it is not itself a stipulated fact.
 
@@ -1972,7 +1903,6 @@ For the separate questions whether the coal quota violates the Commerce Clause a
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices support this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The possibility of a producer's or utility's suit does not require surrender of this distinct state injury, but the holding does not promise an original forum for every indirect effect on tax receipts. Acceptance of the bill does not bar jurisdictional reconsideration on the developed record.
 
@@ -1998,7 +1928,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part I, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices support this threshold holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The disclaimer reserves legal review, and continuing adverse sovereign claims concern present entitlement rather than proceeds from a particular lease.
 
@@ -2023,7 +1952,6 @@ This threshold holding applies Article III, §1251(b)(2), and the stipulated con
 
 **Proposition-level authority:** Part II of Scalia's opinion of the Court, joined by White, Kennedy, Souter and Thomas; five Justices adopt the elements and litigation-stage evidentiary requirements. Stone concurs in the judgment without joining this section.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Earlier survival of the pleading stage does not establish the specific facts needed at summary judgment. The Court resolves this action on insufficient threatened personal injury.
 
@@ -2045,7 +1973,6 @@ This threshold holding applies Article III, §1251(b)(2), and the stipulated con
 
 **Proposition-level authority:** Part III-A of Scalia's opinion of the Court, joined by White, Kennedy, Souter and Thomas, controls with five votes. Stone's separate concurrence supplies a sixth vote for the record-specific personal-injury conclusion without a formal opinion join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The affidavits describe visits to Egyptian and Sri Lankan project areas but no sufficiently definite return undertaking or continuing activity showing imminent exposure. General ecosystem, animal and professional connections supply no missing evidence of these members' own threatened use.
 
@@ -2068,7 +1995,6 @@ This threshold holding applies Article III, §1251(b)(2), and the stipulated con
 
 **Proposition-level authority:** Part IV of Scalia's opinion of the Court, joined by White, Kennedy, Souter and Thomas; five Justices adopt the citizen-suit and concrete-interest rule. Stone does not join this section.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 11(g), 16 U.S.C. §1540(g), permits enforcement but identifies no concrete injury to these members independent of the unsupported future use. The public's common interest in lawful administration cannot supply the missing personal connection.
 
@@ -2100,7 +2026,6 @@ For this case’s other questions, see *United States Department of Commerce v. 
 
 **Proposition-level authority:** Stevens's Opinion of the Court, Part I, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, Souter and Thomas. All nine participating Justices adopt this proposition at its stated scope; it controls by an express majority, with no judgment-only or narrower-ground vote.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Standing is affirmative and record-specific; it assumes neither a new enactment nor a command to the President, and guarantees no second Montana seat. Count II’s distinct legislative injury is not adjudicated.
 
@@ -2123,7 +2048,6 @@ For the constitutional counting question, see Franklin v. Massachusetts, June 26
 
 **Proposition-level authority:** Stone's opinion of the Court, Parts I–III, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the inclusion-injury standing holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** This is the proved injury from inclusion of the overseas population. The Court does not find that a particular alternative residence dataset would restore a seat, establish a general premise that nonparties follow judicial advice, or decide coercive relief against the President.
 
@@ -2149,7 +2073,6 @@ For the acquisition-value and reassessment-exception equal-protection holdings i
 
 **Proposition-level authority:** Blackmun’s Part II-A, joined by White, O’Connor, Scalia, Kennedy, Souter and Thomas, controls with seven of nine Justices. Stone-Zsela states the same refusal separately; Stevens does not reach the issue.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Nordlinger already lived in Los Angeles before purchasing her home, alleges no personal impediment to interstate movement and identifies neither a qualifying relationship nor a reason an affected traveler could not sue. Her own financial injury permits her own equal-protection challenge, not assertion of every theory available to another owner.
 
@@ -2178,7 +2101,6 @@ For the state-attribution and Batson-procedure holdings in *Georgia v. McCollum*
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, Stevens, Kennedy and Souter; five Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Racial selection injures the integrity of the State's tribunal; the State directly relates to citizens it summons to serve, and excluded jurors face substantial practical obstacles to separate redress.
 
@@ -2204,7 +2126,6 @@ For the state-attribution and Batson-procedure holdings in *Georgia v. McCollum*
 
 **Proposition-level authority:** Kennedy's opinion, joined by Stone, White, Stevens, and Souter; these five Justices supply a majority of the eight participants. Blackmun concurs in the judgment on a different ground and does not supply the controlling rationale.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The retained statutory construction governs the specialized railroad relationship. Congress retained the relevant statutory language, and South Carolina excluded FELA-covered employees from workers' compensation against that established background.
 
@@ -2251,7 +2172,6 @@ For the state-attribution and Batson-procedure holdings in *Georgia v. McCollum*
 
 **Proposition-level authority:** White’s Opinion of the Court, joined in full by Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas: seven votes for this rule and its controlling explanation. Stone-Zsela supplies an eighth vote for reversal and the narrower procedural rule in his judgment concurrence. No fractured-decision analysis is necessary.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2280,7 +2200,6 @@ For the state-attribution and Batson-procedure holdings in *Georgia v. McCollum*
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2295,7 +2214,6 @@ For the state-attribution and Batson-procedure holdings in *Georgia v. McCollum*
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2322,7 +2240,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning interstat
 
 **Proposition-level authority:** Stone-Zsela’s opinion, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous controlling holding.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2338,7 +2255,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning interstat
 
 **Proposition-level authority:** Stone-Zsela’s opinion, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous controlling holding and remand limitation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2363,7 +2279,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning interstat
 
 **Proposition-level authority:** Scalia Part IV, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters. This does not establish entitlement to any particular injunction.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2390,7 +2305,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine participating Justices adopt this filing-specific application and its limits.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2405,7 +2319,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; all nine participate.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2429,7 +2342,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Part I of the per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine participating Justices adopt this filing-specific application and its limits.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2443,7 +2355,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Part II of the per curiam opinion, joined by White, O'Connor, Scalia, Kennedy, Souter and Thomas; six of nine control the motion, its stated ground and the compliance opportunity. Stone-Zsela, Blackmun and Stevens dissent from this part.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2456,7 +2367,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Part III of the per curiam opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the sufficiency of this narrower, record-specific ground without resolving the Court's power on a different record.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2482,7 +2392,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Souter's opinion for the Court, excluding its warning paragraph, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas: six. White and Blackmun agree in the intentional-claim judgment on a separate domestic-nexus ground.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2494,7 +2403,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Souter's Court opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas: six. Intentional-claim reversal receives eight judgment votes; White and Blackmun reach it without joining the sovereign-nature characterization.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2524,7 +2432,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Parts I, II and IV of Blackmun’s opinion, joined by Stone-Zsela, White, Stevens, O’Connor, Scalia, Kennedy and Souter; eight Justices adopt this rule. Thomas supports the judgment on a different statutory ground.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2540,7 +2447,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Stone-Zsela’s statutory-payment opinion, joined by White, Scalia, Kennedy, Souter and Thomas, supplies six express joins and independently controls. Stevens expressly accepts the same sufficient statutory proposition in his own writing, making seven supporters without an invented formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2565,7 +2471,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** O'Connor's plurality opinion, joined by Scalia, Kennedy and Thomas, and White's express agreement with its reasons for finding this submission insufficient in his concurrence in the judgment: five Justices adopt this limited record conclusion. White does not join the plurality's broader discussion or an unspecified extraordinarily high threshold. No whole opinion commands five votes; no Marks synthesis establishes a common general test.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2607,7 +2512,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** The statutory portion of White's Opinion of the Court, joined by Stone, Blackmun, O'Connor, Scalia, Kennedy, Souter and Thomas: eight Justices adopt this holding. Stevens dissents.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2636,7 +2540,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** The per curiam opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy and Souter; six of nine participating Justices adopt this rule and the remand. Scalia and Thomas concur only in the judgment; White would use plenary review.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2663,7 +2566,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Souter’s Opinion of the Court, I–II; Stone-Zsela, White, Blackmun, Stevens, Kennedy, Souter (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2678,7 +2580,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Souter’s Opinion of the Court, III; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2704,7 +2605,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Stevens’s opinion for the Court, joined in full by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter, and Thomas: nine votes for this rule and its application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Mills v. Green, 159 U.S. 651, 653 (1895), applied: some effectual relief suffices. Reisman v. Caplin, 375 U.S. 440, 449 (1964), applied: summons-enforcement orders remain judicially reviewable. United States v. Zolin, 491 U.S. 554 (1989), left undisturbed: its privilege ruling and divided disposition of enforcement-condition jurisdiction are not reopened.
 
@@ -2726,7 +2626,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens and Kennedy: five votes for this construction and its operative limits. Kennedy’s separate account of permissible workability analysis adds no condition to the Court’s holding.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2742,7 +2641,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens and Kennedy: five votes for this construction and its operative limits. Kennedy’s separate account of permissible workability analysis adds no condition to the Court’s holding. The dissenters would require denial because of entity status and do not join the Court’s application process.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2768,7 +2666,6 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 
 **Proposition-level authority:** O’Connor’s opinion for Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas; eight participating Justices adopt the explanation. Stevens agrees in the disposition but does not join the Court’s opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2796,7 +2693,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Stone's Opinion of the Court, joined in full by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; unanimous controlling authority.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2823,7 +2719,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2837,7 +2732,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Direct federal taxation, congressionally created remedies and the correctness of California’s tax classification are not decided.
 
@@ -2863,7 +2757,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court does not classify every filing fee as costs or exempt the United States from ordinary adjudicatory procedure. A different express monetary waiver is not decided.
 
@@ -2888,7 +2781,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Stevens’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2916,7 +2808,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Stevens’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Thomas (7 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Actual later mootness and lawful unusual-case discretion remain available; no universal command to decide validity, technical validity ruling or fee ruling follows. The first two jurisdictional grounds independently defeat automatic mootness; the seven-Justice discretionary holding is distinct.
 
@@ -2940,7 +2831,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Stevens’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Later papers as a possible new action and the limitations or other defenses to that action remain undecided. Liberal construction of uncounseled pleadings does not excuse the statutory sequence.
 
@@ -2965,7 +2855,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2980,7 +2869,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -2994,7 +2882,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning joint tri
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Claims Court-first filing, wholly different relief, future-action tolling and general pure prospectivity remain unresolved. The holding does not adopt the Federal Circuit’s broader repudiation of those distinct precedents.
 
@@ -3020,7 +2907,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The completed federal conviction issue survives any lawful sentencing outcome; this does not create a general exception for interlocutory criminal rulings. Correctness of the separate penalty-phase relief is not reviewed.
 
@@ -3045,7 +2931,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 
 **Proposition-level authority:** Thomas’s threshold opinion; White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Reenactment does not itself enact a lower court’s constitutional judgment or resolve separate speech objections. No general rule that congressional silence adopts agency interpretations is established.
 
@@ -3070,7 +2955,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Part I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The statutory diversion record’s identified state-law and federal criminal-history uses supply the continuing consequences; no conviction or universal presumption about dismissed prosecutions is assumed.
 
@@ -3097,7 +2981,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The live dispute and opportunity for argument and supplemental briefing support consideration of the antecedent question. No universal duty to raise unargued issues or authority for advisory resolution follows.
 
@@ -3122,7 +3005,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, Equal opportunity to compete is a concrete injury portion; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3138,7 +3020,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, The replacement continues the controversy portion; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Stage-appropriate proof remains necessary for genuinely disputed elements. No equal-protection merits rule, guaranteed contract or categorical rule about every replacement enactment is established.
 
@@ -3162,7 +3043,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, Antecedent legal grounds must be considered on this remand portion; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3177,7 +3057,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, Lack of a duty and an affirmative prohibition are different portion; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No Establishment Clause merits, reimbursement entitlement or revived Free Exercise claim is decided. A regulation implementing only the constitutional limit may not avoid the constitutional question; absence of a federal duty does not establish a prohibition on local provision.
 
@@ -3201,7 +3080,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The individual-determination channel does not foreclose all rule challenges portion; Stone-Zsela, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3215,7 +3093,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Souter’s Opinion of the Court, A concrete application barrier must be established portion; Stone-Zsela, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** An individual denial ordinarily follows the statutory administrative route and judicial review connected to deportation; §1255a(f)(2)’s late-filing bar is not evaded by a regulatory label. Eligibility, substantive rule validity and general equitable tolling remain unresolved. Processing a timely tender is distinct from extending the deadline.
 
@@ -3240,7 +3117,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, An applied federal rule governs still-open direct review portion; Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3255,7 +3131,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, Retroactivity and the lawful tax remedy are separate portion; Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Final judgments are not reopened; pure prospectivity where application to the original litigants is reserved is not decided. Genuine procedural and remedial rules cannot reintroduce selective prospectivity. Virginia’s refund premise is not an independent state ground insulating the federal error.
 
@@ -3280,7 +3155,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3293,7 +3167,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3307,7 +3180,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; White, O’Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Sentence six permits a pre-answer remand on the Secretary’s good-cause motion, or new material evidence with good cause for earlier omission, retaining jurisdiction for return and later judgment. Prevailing status does not establish every EAJA condition or amount. No later deemed-entry deadline is imported.
 
@@ -3333,7 +3205,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Stone-Zsela’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Preclearance is neither a command to maximize majority-minority districts nor a certificate of compliance with every law. The federal disposition does not immunize the State’s plan against an independently cognizable challenge.
 
@@ -3357,7 +3228,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -3372,7 +3242,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The original Rules govern. No later Rule702 text, universal technical-specialty rule, appellate-review standard or substantive causation finding is adopted. Cross-examination supplements screening for admissible evidence; Rules403, 703, 706 and ordinary sufficiency rules remain available.
 
@@ -3399,7 +3268,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Per curiam opinion joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; unanimous eight-Justice participating Court.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Government's January 30 notice of appeal was filed within thirty days after the January 3 denial of reconsideration.
 
@@ -3470,7 +3338,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** Parts III-B-2 and IV of Souter's opinion, joined by Stone, Blackmun, Stevens, O'Connor and Kennedy; six Justices. White and Thomas accept the error framework but find the existing review sufficient; Scalia would affirm on a separate ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Proportionality compares sentences across cases; it does not itself determine whether this invalid factor influenced this sentencing balance. Three valid factors and no found mitigation may bear on harmlessness but do not establish the missing inquiry. The State bears the beyond-a-reasonable-doubt burden.
 
@@ -3491,7 +3358,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** White's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Kennedy and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; Scalia and Thomas dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Illinois requires consideration of aggravation and mitigation. A juror who fixes death in advance regardless of the evidence refuses that task; the conclusion a qualified juror reaches after genuine consideration is different.
 
@@ -3512,7 +3378,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** White's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Kennedy and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; Scalia and Thomas dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Generic assurances can conceal a prospective juror's belief that automatic death is fair. One juror's volunteered disqualifying answer and removal do not show adequate subject coverage for the others. The defendant need not prove answers to an inquiry he was forbidden to make.
 
@@ -3538,7 +3403,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** The per curiam opinion, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; seven Justices adopt the defect and corrective requirements. White favors argument and casts no present merits vote; Scalia dissents.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The jury returned an 11–1 general death recommendation under the unelaborated instruction. The judge gave operative weight to four aggravators and found two mitigators. No factor-specific jury finding is inferred; the required legal weight of the recommendation supplies the indirect channel of error.
 
@@ -3559,7 +3423,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** The per curiam opinion, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; seven Justices adopt the defect and corrective requirements. White favors argument and casts no present merits vote; Scalia dissents.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No automatic reduction to life, retrial of guilt, adjudication of unrelated aggravators, factor-by-factor jury finding, or collateral-review gateway rule follows. The petition's severance and mitigation/time/funding/proportionality questions are not granted or adjudicated in this limited summary action; no separate denial of them is invented. No prior Supreme Court decision is overruled.
 
@@ -3585,7 +3448,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, White, Blackmun, Stevens and O'Connor; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The holding is confined to the old-rule application established by Godfrey for this finality date. No Teague exception or unresolved procedural-default defense is decided.
 
@@ -3605,7 +3467,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, White, Blackmun, Stevens and O'Connor; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Genuine authorized reweighing and constitutional harmlessness are distinct corrective routes. The latter places on the State the burden of proving harmlessness beyond a reasonable doubt. Remaining valid aggravators or bare proportionality review alone do not cure the error; death eligibility is not automatically negated.
 
@@ -3632,7 +3493,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** O'Connor's Part II, joined by Stone, White, Blackmun, Stevens and Souter: six of nine participating Justices adopt this rule and application.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Continued medication became involuntary after objection. Medical appropriateness was accepted, but the unexplained order established neither essential safety need nor the insufficiency of less intrusive means; testimony indicated that competence might continue without Mellaril.
 
@@ -3651,7 +3511,6 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Proposition-level authority:** O'Connor's Part III, joined by Stone, White, Blackmun, Stevens and Souter: six of nine participating Justices adopt this record-specific rule and remedy. Kennedy concurs in the reversal and new-trial judgment on a distinct trial-integrity ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The supported risk concerned attention, testimony, comprehension and communication with counsel as well as demeanor. Expert explanation cannot restore an altered conversation or response, and an unmedicated trial cannot reliably be reconstructed.
 
@@ -3739,7 +3598,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Part I of Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; nine Justices endorse this rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The limited grant accepts the state-law exception foundations for the child's statements as its premise; the Court makes no finding that disputed foundations are satisfied. Their spontaneous and treatment settings supply evidentiary value that later trial testimony cannot recreate.
 
@@ -3761,7 +3619,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Part II of Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Kennedy and Souter; seven Justices reject the proposed categorical narrowing. Scalia and Thomas withhold that join.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court does not hold that every hearsay statement violates the Constitution or decide the treatment of a formal investigative accusation on a disputed record. No new categorical testimonial rule replaces the received framework.
 
@@ -3784,7 +3641,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** A process capable of granting detention credit is distinct from McCarthy’s damages-only claim and compensation-incapable grievance procedure. The decision leaves proper administrative and judicial review available.
 
@@ -3804,7 +3660,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Tennessee credited 429 days before the federal term began, although after the federal sentencing hearing. The Court does not fix a numerical federal credit, define every form of official detention, or decide a challenge to a completed BOP calculation.
 
@@ -3827,7 +3682,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Part I of White's opinion of the Court, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the distinct-prosecution rule.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Missouri attempt concerned different acts from the earlier Oklahoma offenses. Ordinary objections to the admissibility of particular evidence remain.
 
@@ -3844,7 +3698,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Part II of White's opinion of the Court, joined by Stone, O'Connor, Scalia, Kennedy, Souter and Thomas; seven Justices adopt this rationale. Stevens and Blackmun concur only in the conspiracy judgment on a narrower ground.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Grady remains in force; no same-transaction requirement or new evidentiary exemption is adopted. A materially different single-incident successive prosecution remains for its own case.
 
@@ -3871,7 +3724,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** White, joined by Stone, Blackmun, Stevens, Souter, Thomas: six votes control.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Later-collected evidence may establish prior readiness; its collection date and investigative persistence do not alone decide entrapment. No knowledge-of-illegality element, reasonable-suspicion prerequisite, general bar on undercover opportunities, or objective misconduct defense is adopted.
 
@@ -3891,7 +3743,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** White, joined by Stone, Blackmun, Stevens, Souter, Thomas: six votes support the remedial direction.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** This disposition rests on insufficiency, not an erroneous instruction or another correctable trial error. A separate outrageous-government-conduct claim and statutory amendments are not decided.
 
@@ -3915,7 +3766,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** White's opinion, joined on this proposition by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The repeated injuries supported the inference of nonaccidental harm without themselves identifying McGuire as the abuser. The evidence-alone theory could not support habeas relief.
 
@@ -3929,7 +3779,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** White's opinion joined at this level by Blackmun, Scalia, Kennedy, and Souter; five of eight participants. Stone, Stevens, and O'Connor join only the distinct prior-injury-evidence proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The complete charge neither directed a finding that McGuire caused the earlier injuries nor shifted the prosecution's burden on identity or any other element.
 
@@ -3950,7 +3799,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas and Scalia in the principal opinion, White in his express endorsement of its sufficiency demonstration, O'Connor with Blackmun and Stevens in their concurrence, Kennedy in his concurrence, and Stone in his separate concurrence expressly adopt this same record-specific Jackson proposition: eight Justices. Souter is excluded because his ground is Teague-only. No complete opinion commands a majority, and no broader rule is synthesized under Marks.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** More than fifteen distinctive items from the same theft were found in West's residence two to four weeks afterward, and the jury could reject gaps in his incomplete flea-market account. Affirmative possession evidence and permissible credibility choices together sustain the inference; disbelief alone supplies no missing element. The offense threshold was $100 and the prior felony was credibility material, not propensity proof of this theft.
 
@@ -3979,7 +3827,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas's Opinion of the Court, joined in full by White, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven of nine participating Justices adopt this rule and explanation. Stone concurs in the judgment on his separately stated compatible rule and qualifications; he is not a formal opinion joiner. Stevens dissents from the remand on actual-motive application, not on an exemption from the Rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The court of appeals dispensed with similar motive because the Government could immunize the witnesses at trial and did not fully consider the competing actual-motive accounts. Disclosure of grand-jury material to the defense is distinct from admitting it for its truth.
 
@@ -3999,7 +3846,6 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 **Proposition-level authority:** Thomas's Opinion of the Court, joined by White, Blackmun, O'Connor, Scalia, Kennedy and Souter; seven Justices expressly reject the asserted forfeiture ground at this limited level of generality. This is a distinct controlling answer to the defendants' alternative admissibility theory, not a finding of ultimate inadmissibility.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Government offered contractors, recordings and documents, without presenting any version of DeMatteis's or Bruno's grand-jury account to the trial jury. The selective-disclosure premise of the asserted United States v. Miller, 600 F.2d 498 (5th Cir. 1979), analogy is absent; that lower-court authority does not supply an adopted Supreme Court privilege rule.
 
@@ -4051,7 +3897,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** Stevens’s Parts II and III, joined by Blackmun, O’Connor and Thomas, adopt the personally-known/direct-negation duty. Stone’s separate merits opinion adopts that duty where omission materially distorts the presentation. Under Marks, these five judgment supporters establish the stated common requirement; the four-Justice formulation does not remove Stone’s material-distortion qualification from the controlling rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The duty concerns substantial evidence personally known to the prosecutor, not an investigative search or a preliminary trial of every defense. Misconduct and charging prejudice are separate inquiries.
 
@@ -4072,7 +3917,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** Stevens’s merits Parts II and III, joined by Blackmun, O’Connor and Thomas, supply the narrower judgment-supporting rule. Stone concurs in affirmance under the broader material-distortion formulation, covering known evidence substantially undermining an essential element with established Bank of Nova Scotia prejudice. Under Marks v. United States, 430 U.S. 188, the four-Justice rule is the controlling logical subset: every known, directly negating omission that plainly defeats probable cause, materially distorts the presentation and causes the stated prejudice also satisfies Stone’s broader rule. The five judgment supporters together establish its force. Stone is not represented as formally joining the narrower qualification. The four-Justice and broader one-Justice applications are not combined to remove that qualification from the sufficient ground recognized here. Neither the plurality nor the five judgment supporters adopt an exclusive rule forbidding relief in every other circumstance.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The narrower rule adds evidence plainly precluding probable cause to the shared known-evidence, direct-negation and material-distortion requirements, and independently requires Bank of Nova Scotia prejudice. The Government presented a categorical authority objection rather than renewed review of the particular evidence.
 
@@ -4103,7 +3947,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone, Blackmun, Stevens, Scalia, Souter and Thomas; seven Justices support the proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The policy-statement holding concerns an express prohibition guiding the relevant Guideline, not every policy statement for every purpose. Whether nonsimilar old convictions justify departure is not decided.
 
@@ -4120,7 +3963,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone, Blackmun, Stevens, Scalia, Souter and Thomas; seven Justices support the proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The inquiry asks whether this judge would have imposed the same sentence, not whether that sentence could lawfully have been imposed. Chapman’s constitutional proof standard is not adopted.
 
@@ -4137,7 +3979,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone, Blackmun, Stevens, Scalia, Souter and Thomas; seven Justices support the proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Review concerns valid grounds actually identified by the sentencing court; comments used to select a sentence after departure do not become new departure grounds. The lawful use of nonsimilar old convictions and the ultimate reasonable magnitude remain unresolved.
 
@@ -4160,7 +4001,6 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Proposition-level authority:** White's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five Justices adopt the treaty construction, application and remedy. Stone, Blackmun, Stevens and O'Connor dissent from the 5–4 reversal.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Article 9 preserves discretion over surrender of nationals and submission for domestic prosecution when surrender is declined within that process. It does not require every acquisition of custody to use extradition. Undisputed DEA sponsorship and Mexico's protest do not supply the missing Treaty restriction.
 
@@ -4191,7 +4031,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Parts I, II-A and III of Souter’s opinion, joined by Stone, White, Stevens, Scalia, Kennedy and Thomas; seven Justices. The legislative-history and competing lenity explanations do not command five votes.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The comparable adult range is 15–21 months absent a supported lawful departure; none is established here. Other juvenile statutory limits remain. No common new lenity or legislative-history methodology commands a majority; no Marks synthesis is supplied.
 
@@ -4216,7 +4055,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Parts I–II of Stevens’s opinion, joined by White, Blackmun, O’Connor and Souter; five Justices adopt this statutory ground. Kennedy and Stone independently support the judgment without joining those parts, and their reasons are not necessary to make this holding controlling.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Knowing receipt of unauthorized payment in return for official acts does not become lawful merely because the payer proposed it.
 
@@ -4236,7 +4074,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Parts I–II of Stevens’s opinion, joined by White, Blackmun, O’Connor and Souter; five Justices sustain the instruction and distinguish agreement from later performance.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The charge excluded a contribution standing alone, even where the donor had pending business, and required knowing acceptance for a specific requested exercise of official power. Receipt for the undertaking completes the crime without completed rezoning assistance.
 
@@ -4255,7 +4092,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Part III of Stevens’s opinion, joined by White, Blackmun, Kennedy and Souter; five Justices decide this construction. O’Connor does not reach it, and Stone does not join or supply an additional ground on it.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** False fee demands are one form of official-right extortion, not an indispensable element of every form; the payment here concerned official assistance and was not lawfully due.
 
@@ -4282,7 +4118,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Per curiam Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; no noted dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The concrete historical-pattern motion, renewed objections and Fourteenth Amendment appellate presentation control; a generic assertion of unfairness does not automatically preserve every constitutional claim. Holland’s Sixth Amendment rule remains distinct.
 
@@ -4301,7 +4136,6 @@ For this case’s other questions, see *United States v. R. L. C.*, March 24, 19
 
 **Proposition-level authority:** Per curiam Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; no noted dissent.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The state court must apply the prima facie showing, race-neutral explanation when required, and ultimate purposeful-discrimination determination. Preservation alone proves no violation. Consequences of inability to complete a future corrective inquiry and other trial errors remain undecided.
 
@@ -4327,7 +4161,6 @@ For the State's standing to assert excluded jurors' rights in *Georgia v. McColl
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, Stevens, Kennedy and Souter; five of nine Justices adopt the rule and its limited attribution.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Georgia creates the peremptory power, summons and compensates jurors and judicially gives exclusion legal effect. Selection of the governmental criminal jury is the specific public function at issue.
 
@@ -4349,7 +4182,6 @@ For the State's standing to assert excluded jurors' rights in *Georgia v. McColl
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, Stevens, Kennedy and Souter; five Justices. No general privilege-resolution rule or unconscious-bias test is adopted.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** A strike against a minority juror alone does not require explanation. Genuine race-neutral challenges and meaningful inquiry into actual disqualifying bias remain available. A concrete privilege dispute, a general privilege-resolution rule and unconscious-bias safeguards remain undecided; confidential judicial consideration is possible without a categorical exemption.
 
@@ -4420,7 +4252,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part A of Souter's Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas. All nine adopt the statutory rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Government made no motion; a judicial reassessment of cooperation’s value cannot substitute for the statutory act.
 
@@ -4438,7 +4269,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part A of Souter's Opinion of the Court, joined by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas. All nine reject categorical immunity from constitutional review.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Absence of a statutory entitlement does not eliminate constitutional limits, but Wade identifies no supported unconstitutional purpose.
 
@@ -4456,7 +4286,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part B of Souter's Opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas. Eight Justices adopt this independent constitutional ground; Stone does not join the separate formulation and resolves only the unsupported proffer under his stated ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Useful assistance may coexist with a rational assessment that the costs and benefits do not justify moving.
 
@@ -4474,7 +4303,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part B of Souter's Opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas: eight Justices adopt the discovery threshold and its application. Stone agrees that this proffer fails but does not join the general threshold; his separate concurrence is not a limit on the eight-Justice rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** When invited to identify evidence supporting inquiry, counsel offered only Wade’s assistance. No suspect reason was identified; useful cooperation with generalized accusations cannot justify inquiry.
 
@@ -4500,7 +4328,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, I–II; White, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4514,7 +4341,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, II–III; White, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4540,7 +4366,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Blackmun, Stevens, Kennedy, Souter and Thomas: eight votes. Thomas also writes separately; Scalia dissents.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Clemons v. Mississippi, 494 U.S. 738 (1990), applied: lawful state appellate cure is permitted, automatic factor-count affirmance is not. Stringer v. Black (March 9), Sochor v. Florida (June 8) and Espinosa v. Florida (June 29), all 1992, applied at their controlling levels: actual weighing error requires actual constitutional correction. Chapman v. California, 386 U.S. 18 (1967), preserves the State’s beyond-reasonable-doubt harmlessness obligation.
 
@@ -4550,7 +4375,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Blackmun, Stevens, Kennedy, Souter and Thomas: eight votes. Thomas also writes separately; Scalia dissents. No rule demanding identical reasoning from every member of a state appellate majority is adopted.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Walton v. Arizona, 497 U.S. 639 (1990), and Lewis v. Jeffers, 497 U.S. 764 (1990), preserved: narrowing constructions and appropriately reviewed state applications may be valid, but do not supply a curative vote absent here. State v. Gretzler, 135 Ariz.42, 659 P.2d1 (1983), remains the state narrowing source; its proper application by Holohan and Hays is not decided. Clemons and the operative weighing-error decisions require the stated remedy.
 
@@ -4572,7 +4396,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter and Thomas; eight votes at this level. Blackmun agrees with the result in a separate writing limited to sentencing.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Boykin v. Alabama, 395 U.S. 238 (1969), distinguished as direct review without weakening its valid-waiver requirement. Johnson v. Zerbst, 304 U.S. 458, 468–469 (1938), applied to collateral regularity. Burgett v. Texas, 389 U.S. 109 (1967), preserved for constitutionally defective uncounseled convictions. Medina v. California (June 22, 1992), distinguished: its narrow competence-burden holding does not establish a controlling categorical ban on practical due-process analysis.
 
@@ -4582,7 +4405,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter and Thomas; eight votes at this level. Blackmun agrees with the result in a separate writing limited to sentencing.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Boykin is not extended into a clear-and-convincing collateral proof requirement. Zerbst supports the distinction between constitutional validity and a universally heightened burden. The Sixth Circuit’s Dunn v. Simmons, 877 F.2d 1275 (1989), cannot govern insofar as it demands that constitutional quantum and shifts the entire production burden solely because no transcript survives.
 
@@ -4592,7 +4414,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for the Court, joined by Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter and Thomas; eight votes at this level. Blackmun agrees with the result in a separate writing limited to sentencing.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Marshall v. Lonberger, 459 U.S. 422, 431–438 (1983), applied to supported historical inferences and independent legal review. Boykin and North Carolina v. Alford, 400 U.S. 25, 31 (1970), applied to an informed voluntary choice. No later habeas deference standard enters.
 
@@ -4614,7 +4435,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Parts I–III and V of Souter's opinion, joined by Stone-Zsela, Blackmun, Stevens and O'Connor; five Justices adopt this prefinality-law holding, its application to youth and background, and the conditional sentencing remedy.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4631,7 +4451,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Parts II and V of Souter's opinion, joined by Stone-Zsela, Blackmun, Stevens and O'Connor; five Justices adopt this independently sufficient ground for sentencing relief and its conditional remedy.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4678,7 +4497,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Part I of the per curiam opinion, joined by Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter and Thomas; seven Justices adopt the rule and reversal of this ground.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4719,7 +4537,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** White’s opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; nine Justices adopt the same rule.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4736,7 +4553,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** White’s opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; unanimous holding.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4762,7 +4578,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy and Souter; six Justices adopt the rule, qualifications and remand.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4791,7 +4606,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by White, Scalia, Kennedy, Souter and Thomas; six Justices adopt the rule and its application to the Collins objection.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4807,7 +4621,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O'Connor's opinion of the Court, joined by White, Scalia, Kennedy, Souter and Thomas; six Justices adopt this answer to the temporal objection.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4832,7 +4645,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** Scalia's opinion, joined by White, O’Connor, Kennedy, Souter and Thomas, supplies six votes for this rule and its application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4857,7 +4669,6 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Proposition-level authority:** O’Connor’s opinion for Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas; eight Justices adopt the rule and its application. Stevens’s narrower concurrence supplies no join in this general formulation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4886,7 +4697,6 @@ For Zafiro v. United States, January 25, 1993, No. 91-6824, concerning petitione
 
 **Proposition-level authority:** The per curiam opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas; all nine support both the complete Blanton rule and this application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4912,7 +4722,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Blackmun’s opinion of the Court, joined by Stone-Zsela, White, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; nine participating Justices adopt the rule and explanation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4938,7 +4747,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4952,7 +4760,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4980,7 +4787,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Kennedy’s opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Souter, and Thomas; all nine Justices adopt this proposition, its explanation and its record application, so it controls directly.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -4993,7 +4799,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Kennedy’s opinion, joined in full by Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Souter, and Thomas; all nine Justices adopt this proposition, its explanation and its record application, so it controls directly.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5017,7 +4822,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5032,7 +4836,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5046,7 +4849,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Rule 24(c) waivability, errors first clarified on appeal, outcome-independent categories, appropriate prejudice presumptions, the preserved-objection burden, and Rule 606(b) hearing limits remain undecided. Because substantial rights were not shown, discretionary correction of a prejudicial intrusion is not decided.
 
@@ -5072,7 +4874,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5086,7 +4887,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Interpretation cannot amend contrary guideline text. Governing-version and temporal applicability remain open; other convictions are not automatically independent sentencing predicates.
 
@@ -5110,7 +4910,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Per curiam Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Conspiracy neither supplies nor destroys an actual protected interest. The Court does not decide that every respondent lacks an interest or that all evidence must be admitted.
 
@@ -5136,7 +4935,6 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; White, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The holding concerns the applicable statutory text and distinct convictions, not appellate finality, proportionality or later amendments.
 
@@ -5164,7 +4962,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Cage defect is conceded. Different instructional errors, evidentiary sufficiency and collateral-review gates remain unresolved; the distinct penalty-phase relief is not reviewed.
 
@@ -5194,7 +4991,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; White, Blackmun, O'Connor, Kennedy, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5209,7 +5005,6 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; White, Blackmun, O'Connor, Kennedy, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Use and relation to trafficking remain separate. Mere possession, uncharged carrying and the outer boundary of sufficient facilitation are not decided; §924(d)’s forfeiture elements are not imported.
 
@@ -5235,7 +5030,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Part II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5251,7 +5045,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Parts III and IV; Stone-Zsela, White, Stevens, O'Connor, Scalia, Kennedy, Souter (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Probable cause must arise from authorized contact, with lawful access; exploratory touching is not a new exception. The diversion record’s identified legal uses, rather than an invented conviction, support review.
 
@@ -5275,7 +5068,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court; Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5293,7 +5085,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court; Stone-Zsela, White, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The State preserved Teague despite its Falconer-error concession. Direct-review validity of the charge and harmlessness are not decided; no categorical exclusion of defense-instruction errors from due process is adopted.
 
@@ -5319,7 +5110,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, The appellate court could reach the future-effects claim portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Kennedy, Souter (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5332,7 +5122,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, Preventive protection does not require existing disease portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Kennedy, Souter (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The objective inquiry includes scientific risk and society’s unwillingness to tolerate involuntary exposure; Wilson’s subjective requirement remains separate. Transfer and actual implementation of the new smoking policy bear on current exposure, culpability and prospective need.
 
@@ -5360,7 +5149,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, Youth’s independent culpability significance needs an effective sentencing route portion; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5377,7 +5165,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** O’Connor’s Opinion of the Court, Direct review permits the necessary sentence correction portion; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The whole-charge reasonable-likelihood standard, not mere possibility, governs. No categorical age bar, facial invalidation of Texas sentencing, right to favorable weight or unrestricted mercy instruction is established.
 
@@ -5402,7 +5189,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5417,7 +5203,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** States may provide further safeguards. Execution competence and a distinct standard for actually conducting a trial without counsel remain open. Medication does not itself establish incapacity, and earlier findings are neither ignored nor conclusive after material change; reliable retrospective review and actual waivers remain for consideration.
 
@@ -5442,7 +5227,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, this proposition; Stone-Zsela, White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5456,7 +5240,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** White’s Opinion of the Court, this proposition; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5470,7 +5253,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Grady survives; evidentiary overlap and a common episode do not alone establish a bar. Summary contempt, coercive civil sanctions and separate sovereigns are not decided. Foster II–V have no controlling rationale, as stated separately below.
 
@@ -5503,7 +5285,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5519,7 +5300,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; White, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -5533,7 +5313,6 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Souter (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Coverage does not decide excessiveness, incorporate all criminal safeguards or establish state incorporation. Truly innocent ownership, taxation and solely compensatory recovery remain distinct; neither a comprehensive formula nor instrumentality alone is adopted.
 
@@ -5559,7 +5338,6 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 **Proposition-level authority:** Souter's Part III, joined by Stone-Zsela, White, O'Connor, Scalia, Thomas; six Justices adopt coverage and remand. Blackmun, Stevens and Kennedy accept the alternative excessiveness remand without joining Part III or adopting a proportionality formula.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court leaves actual excessiveness to the lower court, with appropriate record development. The inquiry is not reduced to counting the seven titles adjudged obscene, and it may not presume that every asset or dollar of lawful business is criminal activity. No numerical cap, comprehensive proportionality formula or binding list of excessiveness considerations is adopted. The independent First Amendment inquiry remains necessary.
 
@@ -5588,7 +5366,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 3203 defines medical emergency through the physician's good-faith clinical judgment: a condition necessitating immediate abortion to avert death, or one in which delay creates serious risk of substantial and irreversible impairment of a major bodily function. The significant-threat interpretation and application to the three obstetric conditions are the Third Circuit's construction, not additional statutory words or a binding Pennsylvania Supreme Court interpretation. Section 3205(c)'s separate disclosure defense is not an emergency-delay exception. A materially different authoritative construction or enforcement remains challengeable.
 
@@ -5605,7 +5382,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** When medical emergency compels an abortion, the physician shall inform the woman, prior to abortion if possible, of the medical indications supporting the judgment that abortion is necessary to avert death or substantial and irreversible impairment of a major bodily function. The statutory text appears in the appendix at 505 U.S. 903–904.
 
@@ -5621,7 +5397,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The paragraph identified by the District Court and Third Circuit as §3205(c) protects a physician from liability for failure to furnish subsection (a)'s information when the physician proves, by a preponderance of the evidence, a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. The defense concerns the physician's reasonable belief, not proof that feared injury actually occurred. Its enacted preponderance burden does not displace the constitutional justification allocation. It does not excuse every unfavorable reaction or inconvenience.
 
@@ -5646,7 +5421,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Stone, Blackmun, Stevens, O'Connor and Souter additionally apply the complete framework: separated from the invalid interval and exclusive routine-speaker condition, the bounded medical information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation. The other four Justices join the bounded medical-content permission without adopting the complete framework.
 
@@ -5665,7 +5439,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Stevens, O'Connor, Kennedy, Souter: 5 direct rationale joins including the author. The judgment is 8–1: White, Scalia and Thomas concur in the judgment on their broader reasonable-regulation grounds; Blackmun dissents from the mandatory notice.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Separated from the invalid interval and exclusive routine-speaker condition, the bounded information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation.
 
@@ -5684,7 +5457,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Stevens, O'Connor, Kennedy, Souter: 5 direct rationale joins including the author. The judgment is 8–1: White, Scalia and Thomas concur in the judgment on their broader reasonable-regulation grounds; Blackmun dissents from the mandatory notice.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Separated from the invalid interval and exclusive routine-speaker condition, the bounded information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation.
 
@@ -5703,7 +5475,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Stevens, O'Connor, Kennedy, Souter: 5 direct rationale joins including the author. The judgment is 8–1: White, Scalia and Thomas concur in the judgment on their broader reasonable-regulation grounds; Blackmun dissents from the mandatory notice.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Separated from the invalid interval and exclusive routine-speaker condition, the bounded information supplied during the existing encounter establishes no demonstrated meaningful additional access burden on this record. Accuracy alone would not answer a concrete burden from materially different delivery, timing or implementation.
 
@@ -5722,7 +5493,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 3208 requires easily comprehensible English, Spanish and Vietnamese materials within sixty days after the chapter becomes law, annual updates and legible type. A geographically indexed directory identifies public and private pregnancy, childbirth, dependent-child and adoption services and contacts, including phone numbers; the Department may instead provide a toll-free twenty-four-hour number supplying that list and local service information. Fetal information covers probable anatomy and physiology in two-week increments from fertilization to full term and relevant survival information; realistic pictures state dimensions and match the patient's stage. Information must be objective, nonjudgmental and scientifically accurate, including common abortion methods and risks, possible detrimental psychological effects and childbirth risks. Free copies in appropriate numbers are available to any person, facility or hospital requesting them. The materials state that coercion is unlawful, that abortion without informed consent or a private medical consultation may expose the physician to civil damages, that paternal support liability remains despite an offer to pay for abortion, and that adoptive parents may pay prenatal, childbirth and neonatal costs. Financial statements do not guarantee availability or collection. Findings of directory defects and misinformation by some organizations do not establish universal falsity or compliance.
 
@@ -5739,7 +5509,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author. The basic receipt principle is unanimous. Ancillary dependencies survive 8–1, with Blackmun dissenting; Stone, Stevens, O'Connor, Kennedy and Souter join the five-Justice ancillary rationale, while White, Scalia and Thomas concur in those judgments. Stone, Blackmun, Stevens, O'Connor and Souter sever both timing and exclusive-delivery dependencies, each 5–4.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The patient certifies in writing before the procedure that required lawful information was supplied. Receipt is not agreement; no certificate may demand unchosen reading, compliance with invalid timing or an exclusive routine speaker. Particular duty coalitions remain distinct.
 
@@ -5755,7 +5524,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent from invalidation. The judgment is 5–4.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The record establishes meaningful added demands from physician-only delivery of information trained personnel can competently communicate. Qualified communication with physician availability and responsibility is a concrete practicable alternative the State has not adequately answered.
 
@@ -5773,7 +5541,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent. The judgment is 5–4; no finding that every application is a substantial obstacle is required for this distinct ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The demonstrated additional delay, travel, expense and scheduling burdens are meaningful interference. Individual counseling, questions and additional time when needed or requested supply practical alternatives the State has not adequately answered. An emergency exception does not justify burdens on patients outside its terms, and voluntary waiting does not justify universal compulsion.
 
@@ -5808,7 +5575,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent. The judgment is 5–4.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Evidence shows referrers would stop providing referral information if identified even under accepted confidentiality. The State has not justified blanket identification over performing-provider records and targeted inquiry tied to actual clinical responsibility or suspected misconduct.
 
@@ -5826,7 +5592,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 3214(a)(8) requests the basis for the judgment that an abortion under §3211(b)(1) was necessary to prevent death or substantial and irreversible impairment of a major bodily function. That predicate concerns the referenced rule for abortion at twenty-four or more weeks, not merely a viability/gestational-age result. The individual report excludes patient names; actual confidentiality safeguards are accepted in this litigation. These terms appear in §§3214(a) and (a)(8); the confidentiality findings are stated in the lower-court reporting discussions. The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable.
 
@@ -5851,7 +5616,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The field requires the basis for any medical judgment that a medical emergency existed which excused compliance with a provision of the Act. Section 3203 supplies the physician's good-faith clinical judgment of immediate need to avert death or delay creating serious risk of substantial and irreversible impairment of a major bodily function, prospectively construed to prevent a significant threat to life or health. Section 3205(c)'s information-omission defense remains a different provision. Individual reports exclude patient names and retain accepted confidentiality protections. The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable.
 
@@ -5876,7 +5640,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 3210(a), quoted in district finding 309, excuses compliance when medical emergency prevents it. Otherwise the referring or performing physician first determines probable gestational age through inquiries and examinations/tests a prudent physician considers necessary for accurate diagnosis. The performing physician reports types of inquiries, examinations and tests used and the diagnostic basis. Section 3214(a)(11) incorporates that information; §3214(a)(5) separately records gestational age. Accepted report confidentiality excludes patient identification by name. The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable.
 
@@ -5901,7 +5664,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Operative remedy or transition:** Reverse approval of both notice-compliance and nonnotification-reason fields in No. 91-744; sever them and dependent enforcement under Act 64 and Pennsylvania law, preserving independent confidential marital status.
 
@@ -5916,7 +5678,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The accepted §3214(e)(1)–(2) safeguards make them nonpublic, require a common pleas court good-cause order for law-enforcement access, and bar statistical publication identifying any physician, facility or patient. Concrete materially different administration remains challengeable. No general governmental entitlement to intimate information is created.
 
@@ -5933,7 +5694,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas would sustain public release. The 5–4 holding supplies plaintiff-specific relief, not automatic statewide facial invalidation.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Supported risks of harassment and withdrawal from medical-assistance participation establish meaningful interference for these plaintiffs. Receipt of funds, including for other services, does not adequately justify exposing the broader affiliation reports. Public expenditure and funded-service disclosure together with confidential examination provide concrete alternatives the State has not adequately answered.
 
@@ -5953,7 +5713,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas dissent. The judgment is 5–4.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Harassment and medical-assistance withdrawal risks establish meaningful interference for the plaintiffs. The State has not adequately justified disclosure of complete abortion totals over public expenditure/funded-service information combined with confidential examination.
 
@@ -5982,7 +5741,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part II, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt this rule and reverse the §1983 ruling under §671(a)(15).
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court does not declare every state-plan provision unenforceable or find that administrative funding withdrawal comprehensively forecloses an otherwise existing §1983 right. The absence of an individual right, the existence of an action, and the scope of relief remain separate inquiries.
 
@@ -6001,7 +5759,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part III, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt this independently necessary ground for rejecting the second enforcement route sustained below.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Failure to imply a private action does not foreclose an otherwise available enacted §1983 remedy; other statutory provisions require their own examination.
 
@@ -6019,7 +5776,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part IV-A, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt this separate statutory holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The reporting obligation and administrative enforcement remain. Section 671(a)(16)’s case-plan and review claim is not decided through this reporting holding.
 
@@ -6036,7 +5792,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** White's Opinion of the Court, Part IV-B, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices adopt the ground rejecting direct implied enforcement of the reporting claim.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section 671(a)(16), read with §675(1) and §675(5)(B), remains open as to enforceable right, implied action, violation and additional lawful relief. No constitutional claim is revived or nationwide three-day deadline imposed.
 
@@ -6062,7 +5817,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** Souter's opinion of the Court, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Thomas; eight Justices adopt this ground. Stone concurs separately in the unanimous judgment without a formal opinion join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Burlington is incorporated in Delaware and actually headquartered in Texas. Its principal Montana office does not have the same relationship to corporate litigation convenience as an actual home county. Incorporation provides an administrable, imperfect headquarters approximation whose mismatch Burlington has not shown irrational.
 
@@ -6105,7 +5859,6 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 
 **Proposition-level authority:** O'Connor's opinion for the Court, joined by Stone, White, Blackmun, Stevens, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Court of Appeals construed the damages claims as personal claims against Hafer. Her authority to discharge employees supplies the state-law connection without converting the claims into claims against Pennsylvania.
 
@@ -6130,7 +5883,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas: 9 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Unemancipated minors under eighteen ordinarily need their own informed consent plus one parent's. Only the mother is required where the father participated in incest. If both parents are deceased or unavailable within reasonable time and manner, a guardian may consent; after divorce the custodial parent's consent suffices; if neither parent nor guardian is available within reasonable time and manner, an adult standing in place of a parent may consent. Parent/guardian considers only the child's or ward's best interests. Medical emergency excuses compliance. A minor may elect court without first requesting parental consent. Maturity/capacity plus actual consent and best interests are alternative judicial routes. Counsel is provided absent private counsel or a knowing intelligent waiver. Trial ruling is due within three business days of application; appeal ruling within five business days of filing. Proceedings and records are confidential. The separate adult-incompetence text presents no developed independent challenge here. These are the terms of §3206(a)–(f) and (h), including the provisions quoted by the Third Circuit. The statutory safeguards sustained here are not all declared constitutionally indispensable. No developed adult-incapacity claim or present failure to supply the bypass's required operation is decided. Emergency care cannot await parental or judicial proceedings.
 
@@ -6148,7 +5900,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Souter's opinion, joined by White, Stevens, O'Connor, Scalia, Kennedy, Thomas: 7 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The district court used §3205 to interpret informed parental consent at 744 F. Supp. 1382–1384. That is a lower-court construction, not an express §3206 incorporation of every §3205 timing/delivery mechanism. Assistance may be available, not guaranteed. Paternal liability includes the father who offered to pay for abortion; “In the case of rape, this information may be omitted.” This permission has no law-enforcement reporting condition and does not guarantee collection. Materials are furnished if chosen, without required acceptance, reading or ideological assent. The §3206 emergency, incest, unavailability, custody and bypass terms remain as stated in the preceding holding.
 
@@ -6174,7 +5925,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Part A of Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous statutory holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Fifth Circuit’s additional statutory requirement cannot sustain dismissal merely because the city acted as an employer. Its rejection does not establish the underlying federal right or final municipal attribution; attribution is assumed only to resolve the constitutional question.
 
@@ -6190,7 +5940,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Part B of Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous duty limitation.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The complaint alleges known hazards and deliberate failures to train, warn and equip sewer workers. Those allegations are accepted at dismissal; they do not make voluntary employment a custodial restraint.
 
@@ -6221,7 +5970,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Part A of O’Connor’s opinion, joined by Stone, White, Stevens, Kennedy and Souter; six Justices adopt this rule and its application. Blackmun’s concurrence in the judgment is not counted as a join. O’Connor’s Part B, joined by White, Kennedy and Souter, has only four votes for extending *Whitley* to every prison excessive-force claim. No *Marks* aggregation supplies that universal rule.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Hudson was handcuffed and shackled; the undisturbed findings established unnecessary repeated blows and supervisory condonation. Dental and facial injuries confirmed that the force was not trivial. The findings satisfied even *Whitley*’s heightened culpability inquiry.
 
@@ -6239,7 +5987,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Part C of O’Connor’s opinion, joined by Stone, White, Stevens, Kennedy and Souter; six-Justice case-specific rejection of the alternative ground.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court announces no general definition of punishment or general rule governing isolated, unauthorized conduct.
 
@@ -6258,7 +6005,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** White's Part II-A, joined by Stone, Blackmun, Stevens, O'Connor and Souter: six of nine participating Justices adopt this proposition and application.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The conceded absence of present mental illness is not cured by antisocial personality or a doctor’s inability to guarantee safety. An insanity acquittal is not a conviction authorizing punishment.
 
@@ -6278,7 +6024,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** White's Part II-B, joined by Blackmun, Stevens, O'Connor and Souter: five of nine participating Justices adopt this independently sufficient ground. Stone does not join this section's separate Vitek-based procedural characterization.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** A counseled hearing about danger alone cannot supply the absent illness predicate. Ordinary civil commitment requires clear and convincing proof of present illness and dangerousness.
 
@@ -6299,7 +6044,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** White's Part II-C, joined by Stone, Blackmun, Stevens, O'Connor and Souter: six of nine participating Justices adopt this independently sufficient rejection of Louisiana's asserted alternative preventive justification. The holding adopts no new general scrutiny tier or universal dangerousness proof standard.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Periodic review does not cure an indefinite scheme without carefully limited substantive authority. Salerno’s focused pretrial regime does not justify this post-acquittal confinement.
 
@@ -6325,7 +6069,6 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, O'Connor, Kennedy, and Souter; these five Justices supply the controlling majority of the eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The agents could consider assassination references, a reported gesture, oral statements, the confusing interview, and refusal to elaborate. They also had the letter's repeated attribution of the supposed plot to an outside group, bearing on whether Bryant communicated a serious threat under §871 or reported an imagined danger. The Ninth Circuit's comparison of the relative reasonableness of interpretations and its general assignment of legal immunity to a jury were erroneous.
 
@@ -6352,7 +6095,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Viability is individualized and medically supported; no fixed week or conclusive calendar presumption is adopted. Necessary care includes relevant physical and mental health and cannot await imminent death or catastrophic deterioration. Clinical appropriateness concerns safe and suitable treatment, not official approval of the patient's reasons. The holding does not decide constitutional fetal personhood, general public funding, conscience claims, every postviability restriction or admission of a particular drug.
 
@@ -6383,7 +6125,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** This is a direct five-Justice rule; no Marks synthesis or addition of Kennedy's separate approach is required. An independent numerical facial-review threshold is not adopted. The spousal-notice holding supplies its distinct provision-specific affected-group analysis.
 
@@ -6402,7 +6143,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The constitutional foundation, each regulatory proposition and each coalition remain distinct. Changed membership, continuing disagreement or criticism of one regulatory implementation does not silently withdraw the protected liberty. No wholesale overruling of Akron or Thornburgh follows; their actual treatment appears with the affected duties.
 
@@ -6421,7 +6161,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. The separate result of rejecting the former timetable has nine supporters; only these five adopt its integrated replacement.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The former first-trimester reservation of decision and effectuation to patient and physician and the later health-regulation timing rule are displaced. The viability boundary and necessary-care protection remain. Gestational age may substantiate a particular safety duty when evidence links it to medical risk, but crossing a trimester boundary does not independently change the previability standard.
 
@@ -6446,7 +6185,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter: all eight participating Justices support this limited rule.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The district bears the release showing; good faith must be demonstrated through conduct toward the whole decree. Whether retained control is necessary or practicable to achieve compliance elsewhere is part of the inquiry, beyond a bare no-obstruction test. Jurisdiction and active authority over remaining violations continue.
 
@@ -6466,7 +6204,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** Stone, joined by White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter: eight votes; the separate opinions’ disputed factual applications are outside this holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Neither racial imbalance alone nor demographic movement automatically establishes a violation or completed remedy. Properly settled factual findings receive clear-error review; unexamined causal or remedial links remain open. No majority adopts the separate writings’ disputed factual applications or a revised causation presumption.
 
@@ -6491,7 +6228,6 @@ The adopted inquiry has the following complete operative scope:
 
 **Proposition-level authority:** O'Connor's opinion for the Court, joined in full by White, Blackmun, Stevens, Scalia and Kennedy: six of nine participating Justices adopt the proposition covering replevin, garnishment and attachment. Stone joins the opinion only as applied to private litigants invoking state replevin machinery, including its stated reservations; seven adopt that narrower proposition. He takes no position on its extension to the other procedures. Souter and Thomas dissent. The six full joins suffice for the broader rule; no fractured-decision analysis is required.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Private commercial use of compulsory process and representation in that use do not establish a public office whose discretionary performance needs immunity from litigation. Attribution under Lugar and eligibility for Harlow immunity remain separate.
 
@@ -6524,7 +6260,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter: 6 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** For the five framework Justices an established substantial obstacle independently ends justification. Kennedy joins the notice-specific effective-control and affected-group rationale but not the complete framework. No compelling-interest assertion rescues that obstacle and no universal numerical facial formula follows.
 
@@ -6552,7 +6287,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** White’s opinion, joined by Stone, Blackmun, Stevens, O’Connor, Kennedy and Souter; seven Justices control the remedial rule and application. Scalia and Thomas concur only in the judgment on a narrower statutory ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Franklin’s allegations concern completed sexual harassment and abuse while attending a federally funded school, with alleged official knowledge and inaction. After her departure, backpay and prospective student relief could not compensate the pleaded injury. Congress’s 1986 reference to legal and equitable remedies and subsequent preservation of private enforcement supply no direction barring compensation.
 
@@ -6568,7 +6302,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** White’s opinion, joined by Stone, Blackmun, Stevens, O’Connor, Kennedy and Souter; seven Justices reject the separate funding-notice ground for dismissal.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The enacted nondiscrimination condition and established private action defeat a categorical notice objection to compensation for the pleaded intentional discrimination. This conclusion does not establish when the school is responsible for the teacher’s conduct.
 
@@ -6591,7 +6324,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia does not join the system-wide rule.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Current racial imbalance alone is insufficient. New policies unconnected to the established dual system remain subject to ordinary equal-protection analysis. No general Title VI disparate-impact cause or heightened proof quantum is created.
 
@@ -6612,7 +6344,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia does not join the system-wide rule.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6628,7 +6359,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia agrees only with further admissions review on a distinct ground and does not supply a ninth rationale join.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6642,7 +6372,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** White's opinion of the Court, joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this proposition. Scalia does not join the system-wide rule.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Additional funding merely to preserve publicly financed separate enclaves is not an entitlement; funding required for actual dismantlement remains for remedial findings. Racial identifiability and fiscal inefficiency alone do not require closure or merger.
 
@@ -6670,7 +6399,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices support this proposition in both appeals.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Common Fund Resolution replaces individual district road-fund authority with collective commission control. The Unit System places road operations under an appointed engineer while retaining substantial authority, including appointment and budget powers, in the elected commission. Neither changes the relevant selection mechanism or electorate.
 
@@ -6692,7 +6420,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices support this proposition in both appeals.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The rejected test concerns significant transfers of authority between officials responsible to substantially different constituencies. That formulation can reach governing responsibilities without identifying any change in voting and therefore cannot substitute for the required connection.
 
@@ -6719,7 +6446,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Part I of White’s opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; all nine Justices support this controlling proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6734,7 +6460,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Part II of White’s opinion, joined by Stone-Zsela, Blackmun, Stevens and Souter; five Justices control the remedy and stated fee principles.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6761,7 +6486,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Scalia Part II, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters. Souter separately agrees with rejection of this theory without a formal join.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6775,7 +6499,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Scalia Part II, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters of this distinct sufficient ground addressing the alternative privacy theory. Souter separately accepts Scott’s private-right limitation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6790,7 +6513,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Scalia Part IV, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters. Souter agrees to remove the present federal basis but would additionally direct consideration of hindrance.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6803,7 +6525,6 @@ For the school-supervision holding applied here, see Freeman v. Pitts, March 31,
 
 **Proposition-level authority:** Scalia Part V, joined by Stone-Zsela, White, Kennedy and Thomas: five direct supporters control scope and mandate. Ultimate substantive requirements of the separate clause remain undecided.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6831,7 +6552,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 
 **Proposition-level authority:** Thomas’s Parts I and II-A; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6871,7 +6591,6 @@ For the other question-level holdings in FCC v. Beach Communications, Inc., June
 
 **Proposition-level authority:** Stevens’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The burden rests on the person claiming immunity. An authorized federal damages action, actionable deprivation, causation, qualified immunity or other defenses and damages remain undecided.
 
@@ -6900,7 +6619,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The preliminary assessment is not an adjudication portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6914,7 +6632,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The factual presumption assigns ordinary persuasion portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter (8 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6927,7 +6644,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, Actuarial rebuttal retains both statutory routes portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6941,7 +6657,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, This withdrawal allocation is rational portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Arbitral factfinding and actuarial judgments remain distinct. Under the applicable §1393(a)(1) route, assumptions and methods collectively must be reasonable and represent the actuary’s best estimate of anticipated plan experience; another reasonable estimate alone proves no defect. Judicial review under §1401(c) separately presumes arbitral facts correct unless rebutted by a clear preponderance. Defined-benefit classification is outside review.
 
@@ -6966,7 +6681,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, Blackmun, Stevens, O’Connor, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6981,7 +6695,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -6995,7 +6708,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, this proposition; Stone-Zsela, White, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No new scrutiny tier or national reasonable-doubt requirement is adopted; heightened scrutiny and Kentucky’s repealed voluntary-admission rule remain outside review. Party status is sustained categorically, not every hearing’s fairness.
 
@@ -7019,7 +6731,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, this proposition; Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Thomas (6 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7033,7 +6744,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Allegations are not findings. Genuine advocacy preparation and unreviewed in-court presentation immunity remain; paid or coerced witness allegations require initial treatment below. Qualified immunity, constitutional injury, causation and damages are unresolved; defamation alone is not held actionable.
 
@@ -7062,7 +6772,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Souter's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas: 8 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Required content is the procedure, material risks and alternatives, probable gestational age and childbirth risks, not an ideological script. Section 3205(c) protects omission of subsection (a) information when the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. It is an information defense, not an emergency-treatment or general delay exception. Stone concurs in the judgment only and adds no rationale vote. The separately invalidated timing and exclusive-speaker conditions do not acquire approval through this speech holding.
 
@@ -7080,7 +6789,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Souter's opinion, joined by White, Stevens, O'Connor, Scalia, Kennedy, Thomas: 7 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Availability means a right to review and obtain free materials if chosen, without acceptance, reading or endorsement. Assistance may be available for prenatal, childbirth and neonatal care, without eligibility or payment guarantees. Paternal liability remains despite an offer to pay for abortion and is not guaranteed collection; rape-related omission is permitted without a police report, including spousal rape. Section 3205(c) protects omission of subsection (a) information when the physician proves by a preponderance of the evidence a reasonable belief that furnishing it would severely adversely affect the patient's physical or mental health. It is an information defense, not an emergency-treatment or general delay exception. Clinicians may correct or criticize information. Stone concurs in the judgments only; Blackmun does not reach these independent speech grounds.
 
@@ -7098,7 +6806,6 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 
 **Proposition-level authority:** Souter's opinion, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas: 8 direct rationale joins including the author.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Receipt of a copy occurs only if the patient chooses to review it; no reading or ideological assent is compelled. A written certificate documents actual lawful receipt, not personal agreement. Stone concurs in judgment only. The independent speech ruling does not add votes to any disputed prerequisite or certification dependency.
 
@@ -7159,7 +6866,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Part A of White’s opinion; Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter join White at this level of generality.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No universal bar excludes association evidence tied to witness bias, demonstrated racial motive, future danger, another legitimate sentencing issue, or actual mitigation. A white victim does not categorically exclude racial motive in another case.
 
@@ -7181,7 +6887,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Part B of White’s opinion, joined by Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; seven Justices control the remand’s reserved scope.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court decides neither availability nor satisfaction of harmless-error review and does not command new sentencing automatically. The convictions remain intact.
 
@@ -7204,7 +6909,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Stone's opinion joined by White, Blackmun, Stevens, O'Connor, Kennedy, Souter, and Thomas; eight of nine participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Annual collection preceded twice-monthly lobbying announcements, and protection began only after position-specific objections. Budget estimates and protection of a reasonably sufficient amount can address uncertainty without exact advance prediction; repeated 45-day waivers cannot shift the monitoring burden back to a known dissenter.
 
@@ -7220,7 +6924,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Stone's opinion joined on this proposition by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Neither party controls the chair, and judicial appointment is available if agreement fails. The shared indirect incidence of bar dues does not itself establish a direct stake in a particular award.
 
@@ -7243,7 +6946,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** O'Connor's opinion joined by Stone, White, Stevens, Scalia, and Souter; six of eight participants. Blackmun's and Kennedy's judgment-only concurrences are not counted as joins in this rationale.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The payment restraint depends on the work's content and affects access to protected expression without requiring a purpose to suppress ideas. Excluding victimless crimes and releasing limited production or legal expenses do not cure the statute's breadth.
 
@@ -7266,7 +6968,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined in full by Stevens, O'Connor, Kennedy, and Souter: five of nine, controlling. Stone-Zsela separately concurs in the judgment on compatible grounds and does not formally join that opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The administrator may select whether to charge, which time and support costs to include and whether to discount them without a binding method or explanation requirement. A $1,000 cap does not constrain those choices, and the finding that the particular $100 assessment reflected administrative work does not cure the facial defect.
 
@@ -7302,7 +7003,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined by Stevens, O'Connor, Kennedy and Souter, independently controls both rejections of numerical shortcuts. White's dissent, joined by Scalia and Thomas, and Stone's separate concurrence also reject a universal nominal ceiling; no judgment-only position is converted into a full-opinion join.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No permissible dollar amount or comprehensive schedule of recoverable costs is fixed. A fee exceeding a nominal amount must still have a lawful purpose, neutral criteria and bounded administration.
 
@@ -7326,7 +7026,6 @@ For the distinct limited collection judgment, see International Society for Kris
 
 **Proposition-level authority:** Seven participating Justices expressly adopt this governing proposition at the same level of generality: Blackmun's plurality, joined by Stone, White and Kennedy, and Stevens's dissent, joined by O'Connor and Souter. It is an independently majority-supported proposition, not a seven-Justice judgment coalition or an Opinion of the Court. Scalia rejects the forum classification and applies a different standard.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Viewpoint neutrality and opportunities to speak beyond the boundary do not make campaign-specific content discrimination neutral. The Justices applying strict scrutiny disagree about necessity and tailoring in this facial challenge.
 
@@ -7419,7 +7118,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy and Souter: seven, throughout.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7433,7 +7131,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Stevens's Court opinion, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy and Souter: seven. This rejects the City's independent time, place and manner defense.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7458,7 +7155,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No strict scrutiny, universal empirical-studies requirement, or least-restrictive-means rule is adopted. Fraud, coercion and materially different professional settings remain distinct.
 
@@ -7485,7 +7181,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Per curiam Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The holding concerns these trial-like adversarial hearings, not every pretrial proceeding or grand juries. Witness safety may justify a properly supported limited order; an accused’s preference alone cannot.
 
@@ -7510,7 +7205,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s speech portion; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7524,7 +7218,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s establishment portion; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Souter (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The separate Sunday-worship application and the facial validity of every religious-use restriction are outside review. No unlimited public forum, school sponsorship, compulsory worship or public devotional financing is required.
 
@@ -7549,7 +7242,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Kennedy’s Parts II-A-1 and II-A-3; Stone-Zsela, Stevens, Scalia, Kennedy, Thomas (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7564,7 +7256,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Kennedy’s Part II-B; Stone-Zsela, White, Stevens, Scalia, Kennedy, Thomas (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7578,7 +7269,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** Kennedy’s Part III, narrow-tailoring ground; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7619,7 +7309,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s Parts I and II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7632,7 +7321,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s Parts I and II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7648,7 +7336,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s Part III; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** State-law meanings remain binding while federal constitutional effect is independently determined. Abstract belief cannot be punished, relevance and other evidentiary safeguards remain, and no later jury-allocation rule or blanket admissibility rule is adopted.
 
@@ -7673,7 +7360,6 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Proposition-level authority:** White’s Opinion of the Court, this proposition; Stone-Zsela, White, Kennedy, Souter, Thomas (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The first Central Hudson inquiry is assumed in the station’s favor. Merely marginal advancement, a categorical vice exception, a bar on as-applied review and the greater-power/lesser-power theory are not adopted. The restriction’s unopposed construction excludes noncommercial lottery information.
 
@@ -7701,7 +7387,6 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 **Proposition-level authority:** Souter's Part I, joined by Stone-Zsela, White, O'Connor, Scalia, Thomas; six Justices adopt this proposition. Blackmun, Stevens and Kennedy do not join the classification. The independent First Amendment question has a different coalition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The classification neither licenses a future-publication ban nor permits seizure of protected stock on probable cause alone. It does not resolve the independent challenge to removal of lawful works or immunize publishing assets from neutral sanctions.
 
@@ -7719,7 +7404,6 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 **Proposition-level authority:** Souter's Part II, joined by Stone-Zsela, Blackmun, Stevens, Kennedy; five Justices expressly adopt this limited rule and remand. Their separate positions do not establish a majority rule either categorically immunizing expressive inventory or adopting a comprehensive scrutiny framework for every postconviction forfeiture.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court leaves the ultimate constitutional treatment of the distinct assets unresolved. Neither categorical immunity for expressive inventory nor a comprehensive scrutiny framework commands a majority. Judicial forfeiture, subsequent administrative destruction, statutory nexus, causation, reviewable injury and available relief remain distinct. The Court neither adopts a content-selection rationale from R.A.V. nor enlarges its entered overbreadth rule.
 
@@ -7748,7 +7432,6 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 **Proposition-level authority:** Souter's opinion, joined by Stone, White, Blackmun, Stevens, O'Connor, and Kennedy; these seven Justices supply a majority of the eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Protection against unauthorized appropriation of a party name did not justify a geographic bar that also prohibited authorized expansion. The suburban candidates' insufficient support justified their exclusion, but did not justify disqualifying countywide and city candidates who met their own constituencies' requirements.
 
@@ -7771,7 +7454,6 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 
 **Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices control the complete rule. Kennedy's dissent, joined by Blackmun and Stevens, and Stone's dissent also accept the calibrated framework without making their contrary application controlling.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** A write-in prohibition must be examined with the available routes to ballot access and its role in the selection system. Neither the prohibition alone nor the general need for election administration decides the burden.
 
@@ -7801,7 +7483,6 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 
 **Proposition-level authority:** White's opinion, joined by O'Connor, Scalia, Souter and Thomas, controls. Kennedy's dissent, joined by Blackmun and Stevens, and Stone's dissent expressly agree on rejection of this broader claim; all nine support the component without issuing a joint opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** A genuine interest in supporting an actual alternative candidate requires the contextual access analysis separately stated above. Political expression outside the ballot and every restriction on eligible candidates in a different system are not decided.
 
@@ -7824,7 +7505,6 @@ For this case’s other questions, see *United States Department of Commerce v. 
 
 **Proposition-level authority:** Stevens's Opinion of the Court, Part III, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, Souter and Thomas. All nine participating Justices adopt this proposition at its stated scope; it controls by an express majority, with no judgment-only or narrower-ground vote.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The House’s size of 435 is statutory, not constitutional. Wesberry and Karcher’s intrastate equality and justification rules remain; no percentage tolerance, new burden sequence, uniquely required method, or approval of every population-based method is adopted.
 
@@ -7848,7 +7528,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** Stone's opinion of the Court, Part III, joined by White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine adopt the constitutional inclusion rule.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The rule requires a supportable residence connection; it does not mandate inclusion of every person abroad or relax intrastate district equality. Different connections and methodological records remain open.
 
@@ -7874,7 +7553,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** O'Connor's Opinion of the Court, Part II.B, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt the complete proposition; it directly controls the rejection of the lower court's statutory prohibition and burden allocation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7887,7 +7565,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** O'Connor's Opinion of the Court, Parts II.A and II.C, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this independently dispositive rejection of the presented Section 2 claim and each stated reservation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7900,7 +7577,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** O'Connor's Opinion of the Court, Part III, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this record-specific constitutional disposition; none adopts a general immunity for political objectives or racial awareness.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7913,7 +7589,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** O'Connor's Opinion of the Court, Part IV, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this standard and the population-only remand; neither the State's success nor a particular remedial map receives a controlling vote.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7938,7 +7613,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** Scalia's opinion on state priority, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; all nine adopt this rule. The separate eight-Justice dismissal direction concerns this completed record, not the general availability of retained jurisdiction.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7951,7 +7625,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** Scalia's opinion on the live-plan issue, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; all nine adopt the stated rule. No party-preclusion rule beyond that necessary legal effect is announced.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7964,7 +7637,6 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** Scalia's statutory opinion, joined by Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter and Thomas; all nine adopt the stated single-member extension and record application. No fractured-opinion or Marks inference is required.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -7989,7 +7661,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Stone-Zsela’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Ordinary notice pleading applies; no expert proof or replacement map is required at pleading. Independent exclusion, dilution, unequal participation, civic-status and statutory claims retain their own elements. No statewide racial-strength defense, general replacement of Croson, predominance test or added constitutional-injury gate for §2 is adopted.
 
@@ -8021,7 +7692,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** O'Connor's opinion joined by Stone, White, Scalia, Kennedy, and Souter; six of eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The exclusive INA procedure supplies the hearing's governing authority. Functional similarity, agency regulations, and remedial purpose cannot enlarge the enacted fee cross-reference.
 
@@ -8044,7 +7714,6 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Stevens's opinion for the Court, joined by Stone, White, Blackmun, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The adversary action fits none of §1818's authorized channels for temporary-order challenges, final-order review, or Board enforcement. Section 362(b)(4) permits governmental regulatory proceedings to continue; §§362(a)(3) and (a)(6) do not halt these nonfinal proceedings before seizure of estate property or recovery of a prepetition claim. Section 1334 supplies no competing jurisdiction because the Board is not another court and continuation does not displace control of estate property.
 
@@ -8069,7 +7738,6 @@ For the separate standing and constitutional-counting holdings in Franklin v. Ma
 
 **Proposition-level authority:** Part IV of Stone-Zsela's Opinion of the Court, joined by Blackmun, Stevens, Kennedy and Souter, controls with five votes. White, O'Connor, Scalia and Thomas disagree with this rule while agreeing with reversal on their own reviewability ground.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Presidential transmission under §2a does not confer an independent presidential choice of the population counted under §141. The President's own APA status and susceptibility to coercive relief remain undecided; Waterman's independent foreign-affairs decision structure is different.
 
@@ -8087,7 +7755,6 @@ For the separate standing and constitutional-counting holdings in Franklin v. Ma
 
 **Proposition-level authority:** Part V of Stone-Zsela's Opinion of the Court, joined by Blackmun, Stevens, Kennedy and Souter, controls with five votes. The other four Justices do not join the statutory or APA merits determination.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The contemporaneous record supplies supplementary personnel information and continuing residence reasons despite cancellation of the proposed survey. Home of record may identify enduring ties; tax residence and last duty station have different defects. The holding relies on actual agency reasons, not stricken later declarations or counsel's substitute explanation.
 
@@ -8115,7 +7782,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part III, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support both propositions. Stone agrees with the disposition of this component only.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 320.4(a) and (f) authorize shelf-effects review; subsection (g)(6) concerns the applicant’s construction-site property interest. The Corps adopted Interior’s stated concern and made its own permit determination.
 
@@ -8134,7 +7800,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part IV-A, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices adopt this independently sufficient ground for rejecting the §552 challenge. Stone agrees with its disposition only.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The published coastline regulation expressly identified baseline shifts and effects on federal outer continental rights. A catalogue of every possible curative disclaimer was unnecessary.
 
@@ -8166,7 +7831,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part V, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support the rule and application. Stone agrees with the disposition of the §553 component only.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The 1973 proposal and 1974 final rule underwent notice and comment. The individual condition applied those criteria in licensing, which §551 includes within adjudication.
 
@@ -8186,7 +7850,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part VI, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support this review holding. Stone agrees with the §706 disposition only.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Corps adopted the identified shelf-boundary concern in July 1983 and evaluated the conditioned project in July 1984. The condition removed that concern while permitting the documented public benefits.
 
@@ -8207,7 +7870,6 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 
 **Proposition-level authority:** White's opinion, Part VII, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; eight Justices support the statutory-review holding and the distinct record application. Stone agrees with the disposition of this §706 component only.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 706(2)(E) concerns proceedings subject to §§556–557 or otherwise reviewed on a statutorily required agency-hearing record. No such predicate is established; the stipulated plans and contemporaneous correspondence support the separate arbitrary-action review.
 
@@ -8234,7 +7896,6 @@ For the private-rate-fixing supervision rule and Wisconsin/Montana application i
 
 **Proposition-level authority:** Part IV of Kennedy's opinion of the Court, joined by White, Blackmun, Stevens, Scalia and Souter; six Justices adopt this remand. Stone separately concurs in the same remedial direction; O'Connor and Thomas would affirm.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Correction of the legal rule does not permit replacement of supported agency facts or itself resolve every factual disagreement against the insurers.
 
@@ -8260,7 +7921,6 @@ For the private-rate-fixing supervision rule and Wisconsin/Montana application i
 
 **Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous construction of the standards as used in this federal permit.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The standards were developed with federal guidance, approved by EPA and incorporated through 40 C.F.R. §122.4(d). In this federal permitting setting, the detectable-or-measurable formulation implements the standards without treating every theoretical additional molecule as a downstream veto.
 
@@ -8276,7 +7936,6 @@ For the private-rate-fixing supervision rule and Wisconsin/Montana application i
 
 **Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous appellate-review holding and application.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The administrative law judge addressed nutrient enrichment, appearance, dissolved oxygen and metals under the corrected no-detectable-violation standard. The phosphorus-stream error was harmless because the findings addressed the more vulnerable lake; the standards-edition error was harmless because the relevant editions did not materially differ. The lower court’s categorical degradation rule did not make EPA’s action arbitrary.
 
@@ -8301,7 +7960,6 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 **Proposition-level authority:** Stevens's opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter support this operative rule. Scalia and Kennedy do not join Part III's broader discussion of possible derivative public benefits. The operative rule has the support of all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Released reports disclosed the interview questions and answers, dates, sampling, and reported treatment. Names would connect sensitive family, employment, and living information to identifiable returnees who cooperated under an assurance of confidentiality. The requesters supplied a general hope of finding inaccuracies through renewed interviews, without concrete contradictory information or a demonstrated incremental public contribution sufficient to outweigh that privacy invasion.
 
@@ -8326,7 +7984,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The independent inability-to-agree condition, passenger-service connection, compensation obligation and conjunctive rebuttal remain. The railroad must establish both significant impairment of common-carrier duties and adequate available alternative property to overcome presumed need. The applicable 1990 amendment expressly permits service-promoting reconveyance in pending cases.
 
@@ -8345,7 +8002,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The court may identify the agency’s discernible construction, but may not invent omitted findings or substitute a new rationale supplied by counsel.
 
@@ -8362,7 +8018,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** An unaccepted unilateral offer is not invariably sufficient; the agency must find inability to reach agreement from the parties’ actual positions. Presumed need does not dispense with that antecedent finding.
 
@@ -8378,7 +8033,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Both significant common-carrier impairment and an adequate available alternative are required to rebut need. Preserved freight rights and compensation are part of the transaction; the correctness of the compensation amount remains open.
 
@@ -8411,7 +8065,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this statutory rule and application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8427,7 +8080,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices support this independent limitation ruling.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8440,7 +8092,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices adopt this allocation and its qualifications.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8456,7 +8107,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, White, Stevens, O'Connor, Kennedy, Souter and Thomas; eight Justices support the rule and remand rather than deciding discretion initially.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8482,7 +8132,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8496,7 +8145,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Public-testimony waiver and other exemptions remain unresolved. In-camera affidavits and protective procedures may be used when justified, but are not universally required. The separate national-security clause is not construed beyond its stated statutory coverage.
 
@@ -8520,7 +8168,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8535,7 +8182,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Enacted program limits remain enforceable. The independent constitutional claim, §552 publication question and unreviewed remedial issue are reserved. The decision relies on §553(b)(A), not the benefits exception in §553(a)(2), which the Department had undertaken not to invoke.
 
@@ -8558,7 +8204,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Kennedy, Thomas (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8572,7 +8217,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Kennedy, Thomas (6 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The hospitals concede no applicable regulatory exemption or exception. Independent challenges to unlawful reimbursement methods remain available outside this review; no automatic actual-cost escape or replacement of Chevron is adopted.
 
@@ -8597,7 +8241,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, Section 704 controls exhaustion of superior-agency review portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Otherwise final action remains subject to reviewability and adequate-remedy requirements; express statutory exhaustion and lawful mandatory-and-inoperative agency appeals survive. No universal common-law exhaustion rule is decided.
 
@@ -8626,7 +8269,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion of the Court, joined by White, Kennedy, Souter and Thomas; five Justices support this exact proposition. Stone's agreement in rejecting the categorical premise is not a join in the Court's opinion.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Circumstantial evidence may establish motive. Political neutrality is not categorically excluded. The Court assumes for purposes of its reasoning that an attributed opinion could qualify, without resolving every imputation issue; persecution because of the attribution still requires evidentiary support. Asylum's and withholding's distinct probability thresholds remain unchanged.
 
@@ -8642,7 +8284,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion joined by White, Kennedy, Souter and Thomas; five Justices support both the evidentiary conclusion and the operative restoration of the Board's denial. Stone does not join this holding or its remedy.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The applicant explained fear of government retaliation for joining, and renewed visits established continuing recruitment pressure without compelling the inference that pressure arose because of his political opinion. The Court makes no credibility finding and requires no direct proof of motive.
 
@@ -8671,7 +8312,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stevens's unanimous opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas support the proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 242(a) does not restrict every release condition to securing physical appearance. The regulation's construction limits its operation to unauthorized employment and preserves the individual determinations on which the facial statutory ruling rests.
 
@@ -8708,7 +8348,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion for the Court, joined by White, O'Connor, Kennedy, Souter and Thomas: six votes for this rule. Stone-Zsela concurs in the judgment on a narrower statutory and facial-review ground.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8722,7 +8361,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's Court opinion, joined by White, O'Connor, Kennedy, Souter and Thomas: six. O'Connor and Souter also explain the substantial liberty interest in avoiding institutional confinement in a separate concurrence; Stone-Zsela does not join this formulation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8737,7 +8375,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's Court opinion, joined by White, O'Connor, Kennedy, Souter and Thomas: six. Stone-Zsela agrees with setting aside the universal automatic-hearing remedy but reserves a distinct Mathews-based implementation inquiry.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8750,7 +8387,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's Court opinion, joined by White, O'Connor, Kennedy, Souter and Thomas: six. Stone-Zsela concurs in the judgment on this component and adds no ground.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8775,7 +8411,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Section 243(h) does not govern this offshore return operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8790,7 +8425,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Article 33 does not independently limit the high-seas operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Statutory and treaty coverage are separately resolved. No refugee-status determination, general executive exemption from law or independent treaty cause-of-action ruling is made; domestic custody and other sources constraining different operations remain distinct.
 
@@ -8816,7 +8450,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion, joined by Stone, White, Stevens, O'Connor, Kennedy, Souter, and Thomas; these eight Justices support the ad valorem holding. Blackmun dissents on this component.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The stipulated record did not establish every parcel's patent source. The Indian Reorganization Act did not automatically restore every existing fee parcel to tax-protected status, and the specific land-tax authority did not create general personal taxing jurisdiction over reservation Indians.
 
@@ -8832,7 +8465,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Scalia's opinion states this proposition for Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices support the sales-excise holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The annual property levy is triggered by ownership and burdens the realty; the sales excise is triggered by a transaction. A collection lien cannot enlarge Congress's permission by transforming an unauthorized transactional charge into a land tax.
 
@@ -8854,7 +8486,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** White's unanimous opinion, joined by Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas, controls the grant, the saving clause and the disposition.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8878,7 +8509,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8892,7 +8522,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Tribal employment or registration alone does not establish protection. Outside-Indian-country self-government claims, genuinely apportioned off-country road-use charges and nonmember taxation are not decided.
 
@@ -8916,7 +8545,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, Acquisition displaces exclusion-derived regulation portion; White, Stevens, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -8931,7 +8559,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, Residual authority remains a distinct inquiry portion; White, Stevens, O’Connor, Scalia, Kennedy, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Taken former trust lands and formerly non-Indian fee lands retain distinct histories. Unreviewed Montana findings and properly established federal authorization remain for consideration; the undeveloped Corps litigating position receives no deference. No reservation-boundary, criminal-jurisdiction or universal exclusive-state-power ruling.
 
@@ -8957,7 +8584,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Souter's unanimous opinion of the Court, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the agency construction and multifactor inquiry.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** A contractual label or single factor is not decisive. Benefits do not replace classification. The FLSA’s broader express definition remains distinct; Darden’s status, vesting, forfeiture, benefits and independent state-contract remedies are not decided. The denied Extended Earnings Plan cross-petition is outside review.
 
@@ -8985,7 +8611,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Souter's opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter support the proposition unanimously among the eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The Army required the three-year tour associated with King's position. Neighboring service categories contain express duration limits, while §2024(d) ties protected leave to the period required for covered duty without adding such a cap.
 
@@ -9008,7 +8633,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stone's opinion, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices control both the statutory rule and denial of enforcement.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Employees lived in the surrounding community; organizers used public approaches and obtained direct home-contact information for roughly one fifth of the workforce. Few authorization cards did not establish an inability to communicate. Board expertise remains relevant to actual access obstacles, within the judicially established statutory rule.
 
@@ -9039,7 +8663,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 301 classifies covered contracts rather than limiting plaintiffs to signatory organizations. Uniform federal interpretation applies when a beneficiary enforces the qualifying interunion contract.
 
@@ -9065,7 +8688,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9079,7 +8701,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9104,7 +8725,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** Thomas’s opinion, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy and Souter; eight Justices adopt the same operative rule.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9136,7 +8756,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** Blackmun's Opinion of the Court, joined by Stone, White, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas: unanimous controlling authority in both dockets.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9167,7 +8786,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** Stevens’s unanimous Opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; nine votes for the rule and application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Potomac Electric Power Co. v. Director, OWCP, 449 U.S. 268 (1980), is applied: scheduled compensation is mandatory within its statutory branch and does not require actual earning loss. Todd Shipyards Corp. v. Black, 717 F.2d 1280 (9th Cir. 1983), is distinguished as a latent-disease case; its rationale does not move the completed hearing injury to the awareness date. The contrary retiree classifications in Ingalls Shipbuilding and Alabama Dry Dock do not survive this statutory construction.
 
@@ -9177,7 +8795,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** Stevens’s unanimous Opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; nine votes for the rule and application.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:** Potomac Electric remains the source of the schedule’s fixed statutory operation. Redick v. Bethlehem Steel Corp., 16 BRBS 155 (1984), cannot justify denying a scheduled claim solely because hearing loss was discovered after voluntary retirement; reference to it in debate does not change either statutory trigger.
 
@@ -9198,7 +8815,6 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Proposition-level authority:** Stevens’s unanimous opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; all nine support this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9210,7 +8826,6 @@ No prior Supreme Court holding addressed this transition provision; the Court ap
 
 **Proposition-level authority:** Stevens’s unanimous opinion of the Court, joined by Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; all nine support this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No general collective-bargaining entitlement, overtime exemption or presumption of individual consent is created. The Court does not decide a practice adopted after April 15, 1986 or employees with a representative legally capable of making the collective agreement.
 
@@ -9233,7 +8848,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. Other equitable monetary remedies are not categorically barred; restitution, unappealed claims and the separate malpractice disposition remain untouched.
 
@@ -9262,7 +8876,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, Section 302 restrains prohibited transactions portion; Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The three-Justice pooled-fund rationale is noncontrolling. Separate ERISA asset-transfer and fiduciary claims remain unresolved; lawful receipt does not immunize later fiduciary misconduct.
 
@@ -9288,7 +8901,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, O’Connor, Scalia, Kennedy, Thomas (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Burdine’s persuasion allocation is not replaced. No universal Title VII/§1983 equivalence, clear-error decision, resolution of retaliation, remaining defenses, relief or applicability of the 1991 Act is adopted.
 
@@ -9339,7 +8951,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** White's opinion for the Court, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, and Souter; all eight participants.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The claimed work on floating platforms and during towing leaves genuine disputes about vessel status and employment connection. Listed repair work, lack of propulsion, and absence of living quarters do not resolve those disputes conclusively.
 
@@ -9364,7 +8975,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined by White, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt the statutory exclusion. Scalia's separate concurrence does not limit his full join; Stone concurs in the judgment without a formal opinion join.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Plan trust status, ERISA qualification and federal enforceability are established. Shumate's control, which defeated the lower state-spendthrift analysis, cannot impose a state-law limitation absent from §541(c)(2). Section 522 retains work for interests not already excluded; policy observations supply no independent alternative holding.
 
@@ -9391,7 +9001,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas's opinion for the Court, joined in full by Stone, White, Blackmun, O'Connor, Scalia, Kennedy and Souter. Eight participating Justices adopt the rule and its explanation at the same level of generality; no fractured-opinion analysis is needed.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Taylor knew of the lawsuit and its potentially substantial proceeds. Uncertainty about value allowed timely inquiry, objection or a request for extension; it did not suspend the deadline until collection. Rule 9006(b)(3) confines enlargement to Rule 4003(b)’s conditions; the August 1, 1991 supplemental-schedule wording does not reopen the expired period.
 
@@ -9418,7 +9027,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Blackmun's opinion, joined by White, Stevens, O'Connor and Kennedy; five of eight participating Justices control the statutory construction and affirmance.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The debtor sought to reduce the lien securing an allowed debt of approximately $120,000 to the established property value of $39,000. Section 506(a) continues to value secured and unsecured amounts for claim treatment; that valuation does not automatically avoid the excess lien here.
 
@@ -9448,7 +9056,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Stevens's opinion states this statutory proposition for Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas; all nine Justices. Scalia's separate writing agrees with this holding and judgment.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Congress removed the former 45-day restriction while retaining the three statutory requirements. Eligibility alone does not establish that the particular interest and commitment-fee payments satisfy them.
 
@@ -9471,7 +9078,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Stone's opinion of the Court, joined by White, O'Connor, Scalia, Kennedy, Souter and Thomas; seven Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The trustee must establish every other preference element; properly presented §547(c) defenses remain available. Neither timing under §547(c) nor nonordinary payment instruments is decided. Section 547(e) does not relate the transfer back before an interest in the account passed.
 
@@ -9497,7 +9103,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Stone-Zsela's opinion for the Court, joined by White, Blackmun, Stevens and Kennedy: five.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9510,7 +9115,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Stone-Zsela's Court opinion, joined by White, Blackmun, Stevens and Kennedy: five; the dissent does not dispute attorney attribution, but its disagreement about excusability does not create another rationale majority.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9523,7 +9127,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Stone-Zsela's Court opinion, joined by White, Blackmun, Stevens and Kennedy: five; the Sixth Circuit's judgment is affirmed on the corrected attribution analysis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9546,7 +9149,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Section1322(b)(5) permits cure within a reasonable time and maintenance of payments during the case when the final claim payment falls after the last plan payment. The automatic stay operates independently. Wholly unsecured liens and classification of ancillary deed collateral remain undecided.
 
@@ -9571,7 +9173,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9584,7 +9185,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Preconfirmation application is accepted for these plans, not a universal temporal endpoint. Cure under §1322(b)(5) requires a reasonable time and maintained payments on debt extending beyond the plan. No rate, universal undersecured rule or agreement-free fee right is decided; accrual and present-value calculations must not duplicate recovery for the same period.
 
@@ -9611,7 +9211,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous statutory construction.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The plan assigned substantially all corporate property to Smith for liquidation and distribution. The filing duty follows the statutory assignee category and does not depend on operating the business or dissolving the corporations.
 
@@ -9625,7 +9224,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous trust-specific construction and application.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The plan created a separate trust to liquidate and distribute transferred assets within Treasury Regulation §301.7701-4(d); Smith’s powers satisfy §7701(a)(6) and Regulation §301.7701-6 despite limits on his discretion. The estate transferred Gould’s property directly to the trust; Gould did not first recover and contribute it.
 
@@ -9639,7 +9237,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Thomas’s opinion, joined by Stone, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy and Souter; unanimous rejection of the confirmation defense.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The government seeks recognition of Smith’s postappointment duties, not payment from him of taxes already due before appointment. The plan neither stated nor adjudicated an exemption; §6151 connects payment to the required return’s due date.
 
@@ -9660,7 +9257,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** Blackmun’s opinion, joined by Stone, White, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous statutory holding and application.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The investment-banking, legal and related expenses facilitated a negotiated acquisition producing established corporate benefits beyond the acquisition year: access to Unilever’s resources, simplified ownership and conversion from independent public corporation to subsidiary. Those benefits do not rest solely on a shareholder’s estate-planning preference or speculative profit estimates.
 
@@ -9696,7 +9292,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** White’s Opinion of the Court, joined by Stone, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas; nine votes control. Stevens and Thomas also concur separately without limiting their joins.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Rank and completed years of service principally determine these payments. Continued military status, discipline, employment restrictions and possible recall do not explain taxing the entire pension stream while exempting comparable state pensions.
 
@@ -9764,7 +9359,6 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Proposition-level authority:** White’s opinion for the Court, joined in full by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas. All nine Justices adopt this rule and its explanation; it controls by a direct majority.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9791,7 +9385,6 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, I; Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9806,7 +9399,6 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, II; Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9832,7 +9424,6 @@ No Supreme Court precedent is overruled. The contrary corporate-period rule appl
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, joined in full by Stone-Zsela, White, Blackmun, O’Connor and Souter: six votes for this formulation and its application. Thomas and Scalia agree only with the judgment on their separately stated approach; Stevens dissents. The Court opinion controls without a fractured-decision inquiry.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9885,7 +9476,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Scalia, Kennedy, Souter (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9910,7 +9500,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Blackmun’s Part III-A; White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9951,7 +9540,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Thomas's unanimous opinion; Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas support the proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The claims arose from admitted simple negligence and sought categories characterized as compensatory under state law. Alleged duplication or unconsciousness did not alone change the damages' legal nature. A federal “punitive effect” inquiry could not replace the statute's traditional punitive-damages category.
 
@@ -9975,7 +9563,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -9989,7 +9576,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** White’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10002,7 +9588,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** White’s Opinion of the Court, III–IV; White, Blackmun, Stevens, O'Connor, Scalia, Kennedy (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10029,7 +9614,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Stevens’s plurality procedural discussion, expressly agreeing on this proposition with Scalia’s concurrence joined by Thomas, this proposition; Blackmun, Stevens, Scalia, Kennedy, Thomas (5 Justices). Stevens, Blackmun and Kennedy adopt the procedural discussion; Scalia and Thomas expressly concur that the instructed jury and actual judicial reasonableness review provided here satisfy due process. This common case-specific proposition has five votes; no formal whole-opinion join or Marks substantive rule is inferred.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Five agree only that the particular process is sufficient. No ratio, universal procedural checklist, potential-harm formula, instruction-waiver rule or replacement substantive-excessiveness test commands a majority.
 
@@ -10062,7 +9646,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous statutory-authority holding.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 402(a)(2) authorizes permit conditions, §301(b)(1)(C) identifies attainment of applicable standards, and 40 C.F.R. §122.4(d) reasonably implements that scheme through assurance of affected-state compliance. Limits on Oklahoma’s independent authority do not negate EPA’s delegated power.
 
@@ -10078,7 +9661,6 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Proposition-level authority:** Stevens’s opinion, joined by Stone, White, Blackmun, O’Connor, Scalia, Kennedy, Souter and Thomas; unanimous rejection of the court of appeals’ independent statutory ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Section 303(d) provides a framework for pollution reduction, and §402(h) addresses additional pollutants accepted by a treatment plant violating its own permit; neither supplies the broader downstream prohibition the Tenth Circuit imposed. EPA applied the no-detectable-violation approach to this discharge.
 
@@ -10105,7 +9687,6 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 **Proposition-level authority:** Souter's Opinion of the Court, Part II, joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas; eight Justices adopt this rule. Scalia agrees that proximate cause is required but joins no part of the Court's opinion; his distinct reasoning is not added to the opinion's support.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No purchaser-seller requirement is decided: Souter, Stone, Blackmun, Kennedy and Thomas join Part IV’s reservation. No special racketeering injury, antitrust-injury requirement, universal third-party-injury bar, or general zone-of-interests rule is adopted.
 
@@ -10124,7 +9705,6 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 **Proposition-level authority:** Souter's Opinion of the Court, Part III-A, joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas; eight Justices adopt the application and its limits. The validity and source of the asserted common-law subrogation are assumed, not established.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Customer subrogation and responsibility for coconspirators’ conduct are assumed without decision. Purchasing-customer claims, separately grounded parking claims, directly aimed injury to SIPC, fraud merits, actual causation and damages remain unadjudicated; the unappealed Rule 10b-5 judgment is not reopened.
 
@@ -10143,7 +9723,6 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 **Proposition-level authority:** Souter's Opinion of the Court, Part III-B, joined by Stone, White, Blackmun, Stevens, O'Connor, Kennedy and Thomas; eight Justices adopt this independently sufficient statutory ground for rejecting SIPC's own §78eee(d) claim. This is distinct from the customer-subrogation causation holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The Court does not decide every other-law claim or the unbriefed theory of subrogation to trustees for expense advances. The statute’s participation rights and administration-advance duties remain; a separate RICO-causation ground for SIPC’s own advances is not a controlling alternative holding.
 
@@ -10166,7 +9745,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** White's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy and Souter, supplies seven votes at this level of generality. Stevens and Thomas agree with the judgment on separate statutory accounts; the Court's rule does not depend on combining their writings.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The jury found inherent distinctiveness, nonfunctionality and likelihood of confusion, but no acquired secondary meaning. These findings concern separate elements and are accepted for the limited granted issue.
 
@@ -10197,7 +9775,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10212,7 +9789,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** White’s Opinion of the Court, II; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10238,7 +9814,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** The statutory-construction portion of Blackmun's Opinion of the Court is joined by Stone, Stevens, O'Connor, Scalia, Kennedy and Thomas: seven Justices adopt the stated rule at the same level of generality. Souter and White reject the directional requirement.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10256,7 +9831,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** The application portion of Blackmun's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy and Thomas, controls by six votes. Stone, White and Souter reject this application; their judgments cannot be counted as joins.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10281,7 +9855,6 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Contribution is an incident of the received action, not a new professional cause, indemnity, automatic aiding-and-abetting liability or a universal federal contribution rule. A settlement alone does not prove shared liability.
 
@@ -10311,7 +9884,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No general power to rewrite statutes or duty to raise every unargued question is created. Geographic reach of the insurance activity and the Comptroller’s construction remain undecided; no deference holding is necessary.
 
@@ -10338,7 +9910,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10354,7 +9925,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10367,7 +9937,6 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; the four dissenters agree in this disposition on their broader ground; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Protection is functional, not for every claim grouped with policyholders or labeled administrative. The antitrust clause and separate boycott exception are not altered. The federal priority operates on the established insolvency/act-of-bankruptcy predicate; §3713(a)(2) excludes cases under Title11, distinct from this state insurer liquidation.
 
@@ -10396,7 +9965,6 @@ For reviewability of the original categorical-prohibition period, see Lucas v. S
 
 **Proposition-level authority:** Scalia's Opinion of the Court, Part III, joined by Stone-Zsela, White, O'Connor and Thomas, supplies five votes for the complete rule and its explanation. Kennedy supports reversal through an expectations-sensitive analysis, without joining this categorical formulation. No Marks combination is required or used.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Total loss is the trial finding assumed for the legal question, not a Council concession or appellate affirmance of value. A new legislative declaration of harm cannot replace substantiated background law; changed knowledge may affect application of genuine nuisance principles.
 
@@ -10429,7 +9997,6 @@ For reviewability of the original categorical-prohibition period, see Lucas v. S
 
 **Proposition-level authority:** O'Connor's unanimous opinion, joined by Stone, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt this threshold holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The agreements predated the offset statute and contained no offset promise; no contractual enforcement rule was removed. The Court does not reach substantial-impairment balancing or deny protection to genuinely impaired employment contracts.
 
@@ -10451,7 +10018,6 @@ For reviewability of the original categorical-prohibition period, see Lucas v. S
 
 **Proposition-level authority:** O'Connor's opinion, supported by Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; all nine Justices adopt the due-process holding.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Retroactivity itself requires rational justification. Reliance does not automatically defeat this restoration and equalization measure; the Court does not validate retroactive legislation categorically.
 
@@ -10478,7 +10044,6 @@ For this case’s other questions, see *Yee v. City of Escondido*, April 1, 1992
 
 **Proposition-level authority:** O’Connor, I, joined by Stone, White, Stevens, Scalia, Kennedy, Thomas: seven votes control. Blackmun and Souter separately agree with rejection of the physical-taking claim.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The owners did not attempt the change-of-use procedure; no unsuccessful withdrawal attempt or actual law forbidding withdrawal is adjudicated. A separate regulatory-taking claim and other applications remain open.
 
@@ -10506,7 +10071,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices adopt this independently sufficient ground.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Capped acquisition assessments can reduce displacement of established households and businesses as nearby prices rise. New purchasers and existing owners receive the same rate ceiling and annual-growth limit, although initial bases differ. Large resulting disparities do not by themselves sever the rational connection to neighborhood continuity.
 
@@ -10545,7 +10109,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** The exception allows qualifying older owners to move to a principal residence of equal or lesser value suited to changed needs or income without losing the assessment protection otherwise discouraging the move.
 
@@ -10564,7 +10127,6 @@ For the absent-traveler standing holding in *Nordlinger v. Hahn*, June 18, 1992,
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, joined by White, O’Connor, Scalia, Kennedy and Souter; six Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Preserving family and neighborhood connection despite a change in legal ownership rationally supports continued assessment within the exception. Unequal benefit to children whose parents own property does not alone make the distinction irrational.
 
@@ -10592,7 +10154,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone, Stevens, O'Connor, Scalia and Souter; six Justices adopt this proposition.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** The condemnation power belongs to the ICC and remains subject to compensation. The decision does not authorize naked private favoritism or determine the proper valuation.
 
@@ -10618,7 +10179,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stevens's opinion, joined by Stone, Blackmun, O’Connor and Souter, supplies five votes for this proposition; Scalia and Thomas also accept donee eligibility in their judgment concurrence. The Court opinion independently controls.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10631,7 +10191,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Stevens's opinion, joined by Stone, Blackmun, O’Connor and Souter, controls with five votes. Scalia and Thomas concur in this practical result on their separately stated relation-back analysis; no narrower-ground inference is needed.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10656,7 +10215,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, I; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10669,7 +10227,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, II; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10682,7 +10239,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** Thomas’s Opinion of the Court, III; Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10707,7 +10263,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, II-A; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10732,7 +10287,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, III; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10747,7 +10301,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, IV; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10761,7 +10314,6 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court, V; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10787,7 +10339,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas (8 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10813,7 +10364,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 **Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs1–6, entered in its continuing original action. This is binding decretal relief for the parties; it announces no new general coastal-ownership test or opinion rationale.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -10839,7 +10389,6 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 **Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Initial contractual rent differences and the initial-rent floor remain protected. Particular study accuracy and lawful implementation remain contestable; the Court does not approve every application of the 1989 legislation.
 
@@ -10865,7 +10414,6 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Proposition-level authority:** Souter’s Opinion of the Court, The asserted impact does not establish a taking portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No constitutional percentage ceiling, independent entitlement to the former thirty-percent-of-net-worth cap or adjudication of employers entering plans before ERISA is established. Contractual limits do not alone defeat federal legislation, and the regulatory setting supplies no universal immunity for retrospective pension laws.
 
@@ -10894,7 +10442,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Blackmun, Stevens, Scalia and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; O'Connor and Thomas dissent from the 7–2 reversal.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** State officials must exercise substantive control over the particular private restraint. Staffed agencies, veto power, enforceable duties and the legal effect of silence establish capacity or nominal approval, not necessarily its exercise.
 
@@ -10917,7 +10464,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Kennedy's opinion of the Court, joined by White, Blackmun, Stevens, Scalia and Souter; six Justices adopt this proposition. Stone concurs in the judgment without a formal opinion join; O'Connor and Thomas dissent from the 7–2 reversal.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Commission findings show arithmetic-only or absent review, rates effective despite missing requested information in Montana, and an information request seven years after a Wisconsin filing became effective. The findings establish absent substantive control, not economically mistaken state judgment; limited judicial review cannot cure that absence.
 
@@ -10944,7 +10490,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Blackmun's opinion of the Court, joined by Stone, White, Stevens, Kennedy and Souter; six Justices.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Independent service providers, customer preference for their services and self-servicing customers permit a finding of efficient separate provision. Restrictions on parts sales and use of independent service permit a finding of conditioning; installation of parts during service does not conclusively merge the products. The tied-commerce volume is undisputed here.
 
@@ -10976,7 +10521,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Blackmun's opinion, joined by Stone, White, Stevens, Kennedy and Souter; six Justices permit a market and power finding without conclusively establishing either.
 
-**Current force:** Remains controlling as stated.
 
 **Material application:** Owners cannot necessarily substitute another brand's parts, and replacing the equipment may cost much more than the service at issue. Evidence supports nearly complete control of compatible parts and an eighty-to-ninety-five-percent service share, together with impediments to independent supply. Equipment competitors remain relevant to whether lifetime prices are constrained.
 
@@ -11016,7 +10560,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** White’s opinion of the Court for Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas; nine Justices adopt the rule and its explanation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -11031,7 +10574,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** White’s unanimous opinion; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas adopt the remedial holding and explanation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -11055,7 +10597,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Fraud in obtaining governmental action, serial proceedings and independently unlawful conduct remain unresolved. Loss of petitioning protection would not establish the ordinary antitrust elements.
 
@@ -11082,7 +10623,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, Below-cost pricing must carry a prospect of recoupment portion; O’Connor, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -11098,7 +10638,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court, This record lacks the necessary recoupment showing portion; O’Connor, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** No exclusive cost measure is selected. Actual recoupment, express conspiracy or single-firm monopoly is not required, but the defendant’s own recovery must be supported. Sherman Act dangerous probability is not automatically substituted for Robinson-Patman’s reasonable prospect. Alternative antitrust-injury and causation grounds remain undecided.
 
@@ -11123,7 +10662,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -11139,7 +10677,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, this proposition; Stone-Zsela, O’Connor, Scalia, Kennedy, Thomas (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Treatment of earlier authority:**
 
@@ -11154,7 +10691,6 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Current force:** Remains controlling as stated.
 
 **Limits and questions not reached:** Qualifying activity and actual state regulation remain required. Section6a’s precise applicability is reserved; where applicable its direct, substantial and reasonably foreseeable domestic effect and claim-connection requirements remain, and the pleaded effect here gives rise to these claims. No universal comity-impossibility rule, general independent coercion definition, proven cartel or actual liability is adopted.
 
