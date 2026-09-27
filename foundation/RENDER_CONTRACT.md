@@ -2,7 +2,7 @@
 
 ## 1. Function and input
 
-This Contract converts the Supreme Court Term Simulator Engine's validated event Render Inputs and chunk metadata into a public-facing account of the Court's actions and law, plus any operator-only workflow blocker notice. Center what the Court decided, its controlling rule and rationale, the rule's authority and limits, treatment of prior law, and the remedy or procedural effect. Keep each case entry unmistakably bounded while allowing its interior form to follow the decision's complexity. The renderer presents; it does not adjudicate, research, reconcile, classify, count votes, form coalitions, apply *Marks*, select relief, resolve chronology, repair a Canonical Decision Record, or update a tracker.
+This Contract converts validated event Render Inputs and chunk metadata into a Court-facing account of the Court's actions and law. Center what the Court decided, its controlling rule and rationale, the rule's authority and limits, treatment of prior law, and the remedy or procedural effect. Keep each case entry unmistakably bounded while allowing its interior form to follow the decision's complexity. The renderer presents; it does not adjudicate, research, reconcile, classify, count votes, form coalitions, apply *Marks*, select relief, resolve chronology, repair a Canonical Decision Record, or update a tracker.
 
 The renderer receives these eleven blocks, in this order:
 
@@ -32,9 +32,11 @@ The renderer receives these eleven blocks, in this order:
 | Procedure After Action | Stage, immediate effect, next act, and controlling condition |
 | Source Notes | Verified quotation and citation support, public-source limits, scheduling assumptions, and authorized corrections |
 
-The eleven-block event inputs and validated chunk metadata are the exclusive sources for the public render and blocker notice. Do not require an inapplicable or absent field, create a new substantive field, inspect raw CDR analysis, or use an adaptive audit annex. **Source Notes** may support or qualify another block; it cannot independently create a public fact, holding, rationale, vote, or remedy.
+The eleven-block event inputs and validated chunk metadata are the exclusive sources for the public render. Do not require an inapplicable or absent field, create a new substantive field, inspect raw CDR analysis, or use an adaptive audit annex. **Source Notes** may support or qualify another block; it cannot independently create a public fact, holding, rationale, vote, or remedy. Source Notes never print modern research-retrieval dates, version or commit history, approval history, file paths, model/process descriptions, or workflow-validation metadata.
 
 The Engine selects separate-position explanations under its Render Input rules before handoff. Positions retained solely for future simulation continuity are outside the ordinary public projection. Do not independently select a different set of positions, reconstruct omitted theories, or treat their absence from the render as absence from the simulated public record. Report Stone under the same standards as every other Justice, without a dedicated section or repeated personal account.
+
+The public account treats this Court and its precedents as the operative legal world. Refer to an earlier decision by case name or ordinary precedent language, never as a "simulated" holding. Do not explain that an outcome was pinned, approved, directed, corrected by a user, modeled, or produced by an alternate-history process. Git and internal Records preserve provenance; the public report reads like an ordinary Court publication.
 
 Bracketed text below is instruction and does not print.
 
@@ -51,7 +53,7 @@ Bracketed text below is instruction and does not print.
 9. Omit an unpopulated optional section. Do not print empty headings, “None,” “N/A,” or stock sentinels for missing material. The entry boundaries required by Section 3 always print.
 10. Depth and interior form are adaptive within the fixed entry boundaries in Section 3. A routine event may use a compact conventional narrative; a standard event may use the suggested section form; a fractured, multi-question, transition-sensitive, or procedurally complex event may use the full structured form and tables. Preserve all material distinctions, but use no word, sentence, paragraph, or internal-section-count quota.
 
-If the input lacks or contradicts a fact needed to state the public action, judgment, authority, remedy, or next stage, identify the exact render blocker. Render an unaffected event or portion only when doing so cannot imply a resolution.
+If the input lacks or contradicts a fact needed to state the public action, judgment, authority, remedy, or next stage, identify the exact render blocker to the operator outside the public file. Render an unaffected event or portion only when doing so cannot imply a resolution.
 
 ## 3. Chunk presentation
 
@@ -87,17 +89,7 @@ Every event entry, including a single event without the chunk wrapper, begins wi
 
 Use level-four or deeper headings inside an entry; reserve level-three headings in the decisions section for new case or matter entries. Keep all event-specific prose, tables, citations, and procedural conditions above its closing line. The closing line ends the displayed account only. It does not declare the case closed, terminate proceedings, or alter the stage supplied by **Procedure After Action**. A later action in the same case receives its own bounded entry in its supplied chronological position. A supplied consolidated event may share one entry with all affected dockets identified; separately decided companions remain separate entries. The closing line and divider follow the final substantive paragraph even in the shortest routine form.
 
-If chunk metadata identifies a stopped matter, add this nonadjudicative section after all completed-event renders, or use it alone when no event was completed:
-
-```text
-## Simulation Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| [metadata identity] | [metadata blocker] |
-```
-
-This section is operator-only workflow output, not part of the Court's public action or legal record. State the supplied exact blocker without quoting or summarizing private Stone substance. Do not infer an outcome, vote, law, or procedural effect for a stopped matter. Omit the section when the metadata names none.
+Workflow blockers are never written into the Court-facing file. If chunk metadata identifies a stopped matter or a Render Input is incomplete or contradictory, return the exact blocker to the operator outside the public artifact. Do not infer an outcome, vote, law, or procedural effect for the stopped matter. A successfully rendered chunk ends with its final Court entry.
 
 ## 4. Merits and other precedential decisions
 
