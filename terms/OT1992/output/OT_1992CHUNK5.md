@@ -953,6 +953,3 @@ Both reviewed appellate components affirmed. Warning-device negligence proceedin
 
 ---
 
-## Simulation Workflow Blockers
-
-No open workflow blockers.
