@@ -1,0 +1,180 @@
+{
+  "id": 493605,
+  "name": "Roger D. GRIFFIN, Respondent v. STATE of South Carolina, Petitioner",
+  "name_abbreviation": "Griffin v. State",
+  "decision_date": "1993-07-19",
+  "docket_number": "23909",
+  "first_page": "285",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "315 S.C. 285"
+    },
+    {
+      "type": "parallel",
+      "cite": "433 S.E.2d 862"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "S.C.",
+    "id": 8894,
+    "name": "Supreme Court of South Carolina"
+  },
+  "jurisdiction": {
+    "id": 59,
+    "name_long": "South Carolina",
+    "name": "S.C."
+  },
+  "cites_to": [
+    {
+      "cite": "922 F. (2d) 1558",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10548920
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/922/1558-01"
+      ]
+    },
+    {
+      "cite": "984 F. (2d) 120",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10509602
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/984/0120-01"
+      ]
+    },
+    {
+      "cite": "482 U.S. 423",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214908
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/482/0423-01"
+      ]
+    },
+    {
+      "cite": "409 S.E. (2d) 397",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        2187160,
+        2187107
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/305/0456-01",
+        "/sc/305/0455-01"
+      ]
+    },
+    {
+      "cite": "305 S.C. 456",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2187160
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/305/0456-01"
+      ]
+    },
+    {
+      "cite": "286 S.C. 556",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2166837
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/286/0556-01"
+      ]
+    },
+    {
+      "cite": "298 S.C. 113",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2174619
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "115-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/298/0113-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 5273,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 1.994532965041026e-07,
+      "percentile": 0.7421963597105469
+    },
+    "sha256": "906b062a600f2c8d4f866299ffb49618f8f981f5cf159059d0b2672f40592f7c",
+    "simhash": "1:73bbc2baa39d066f",
+    "word_count": 857
+  },
+  "last_updated": "2024-02-27T23:21:02.398873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Harwell, C.J., and Chandler, Finney and Moore, JJ., concur."
+    ],
+    "parties": [
+      "Roger D. GRIFFIN, Respondent v. STATE of South Carolina, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Toal, Justice:\nThe State appeals from an order granting Respondent\u2019s application for postconviction relief. We affirm.\nFACTS\nThe Respondent, Griffin, was indicted for murder in April 1984. On May 21, 1984, Griffin appeared before the court and entered a plea of guilty to voluntary manslaughter. Prior to the acceptance of the plea, the trial judge conducted a lengthy colloquy to determine the voluntariness of the plea. At the conclusion of the judge\u2019s questioning, the plea was accepted and Griffin was sentenced to thirty years imprisonment. Griffin did not appeal his guilty plea or sentence.\nOn July 1,1991, Griffin filed an Application for Post-Conviction Relief. In his application, Griffin alleged, inter alia, that the State\u2019s application of the Omnibus Crime Bill, specifically the change from an annual review for parole eligibility to a biannual review, violated the ex post facto clause of the South Carolina and United States Constitutions. The PCR judge found that Griffin relied upon the annual review for parole eligibility in his decision to plead guilty, and that Griffin\u2019s constitutional rights under the ex post facto clause were violated. We granted the State\u2019s petition for certiorari to review the PCR court\u2019s order.\nLAW/ANALYSIS\nThe State raises two issues on appeal. The first and pivotal issue is whether the PCR judge erred in ruling that Griffin suffered a violation of the ex post facto clause. The second issue is whether the PCR judge erred in finding that Griffin\u2019s plea of guilty to voluntary manslaughter was not knowingly, voluntarily, and intelligently entered.\nWe addressed this first issue in Gunter v. State, 298 S.C. 113, 378 S.E. (2d) 443 (1989). In Gunter, the applicant for post-conviction relief raised an ex post facto challenge to the change in parole eligibility review. Id. After examining the question, we held that:\nthe standards governing petitioner\u2019s parole eligibility have not . . . changed. Instead, only the frequency with which petitioner can be reconsidered for parole has been altered. We find no ex post facto violation in the application of the questioned statute to petitioner.\nId. at 115-16,378 S.E. (2d) at 444.\nThe PCR court distinguished Gunter on the grounds that Griffin had pled guilty and that Gunter was convicted at trial. This is not completely correct. While it is true Gunter was tried, convicted, and sentenced to thirty years for voluntary manslaughter, we reversed the conviction in State v. Gunter, 286 S.C. 556, 335 S.E. (2d) 542 (1985). On remand, Gunter pled guilty to voluntary manslaughter and received a thirteen-year sentence. Our PCR holding in Gunter v. State, 298 S.C. 113, 378 S.E. (2d) 443 (1989), was rendered while Gunter was serving the thirteen-year sentence as a result of his plea of guilty.\nSince Gunter, we have held that \u201c[t]he ex post facto clause protects against retroactive legislative provisions which are disadvantageous to the offender. A mere procedural change in law, not increasing punishment or changing elements of the offense, does not result in an ex post facto violation.\u201d Elmore v. State, 305 S.C. 456, 459, 409 S.E. (2d) 397, 399 (1991); see also Miller v. Florida, 482 U.S. 423, 107 S.Ct. 2446, 96 L.Ed. (2d) 351 (1987).\nRespondent cites the recent Fourth Circuit decision in Roller v. Cavanaugh, 984 F. (2d) 120 (1993). In Roller, the Fourth Circuit Court of Appeals disregarded our decision in Gunter, and held that the statutory amendment for review of parole eligibility was a violation of the ex post facto clause. The Fourth Circuit relied on Akins v. Snow, 922 F. (2d) 1558 (11th Cir. 1991), which found an ex post facto violation in a Georgia statute that decreased the frequency of parole hearings from once a year to once every eight years. Obviously the Georgia statute was an example of how a procedural change could be expanded to have a substantive effect.\nThe Fourth Circuit\u2019s analysis is compelling. It is difficult to determine where the difference lies between a review once every two years and once every eight years. This gray area tortures the ex post facto analysis between a change in the standards for review and a procedural change in timing. The Akins court was faced with a statute that provided for a procedural change which effectively changed the standards for parole. We must now acknowledge that where a procedural rule is so overly intrusive that it substantively effects the review standard, it then becomes an ex post facto violation. In adopting the Fourth Circuit\u2019s holding in Roller, we overrule our holding in Gunter, 298 S.C. 113, 378 S.E. (2d) 443.\nIn light of our holding today, we need not reach the second issue. Accordingly, for the reasons stated, the decision of the PCR court is AFFIRMED.\nHarwell, C.J., and Chandler, Finney and Moore, JJ., concur.",
+        "type": "majority",
+        "author": "Toal, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Atty. Gen. T. Travis Medlock, Chief Deputy Atty. Gen. Joseph D. Shine and Asst. Attys. Gen. Delbert H. Singleton, Jr. and Lisa Godwin Jefferson, Columbia, for petitioner.",
+      "Asst. Appellate Defender Robert M. Pachak, of S.C. office of Appellate Defense, Columbia, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "23909\nRoger D. GRIFFIN, Respondent v. STATE of South Carolina, Petitioner.\n(433 S.E. (2d) 862)\nSupreme Court\nAtty. Gen. T. Travis Medlock, Chief Deputy Atty. Gen. Joseph D. Shine and Asst. Attys. Gen. Delbert H. Singleton, Jr. and Lisa Godwin Jefferson, Columbia, for petitioner.\nAsst. Appellate Defender Robert M. Pachak, of S.C. office of Appellate Defense, Columbia, for respondent.\nSubmitted Apr. 20,1993;\nDecided July 19,1993.\nReh. Den. Aug. 17,1993."
+  },
+  "file_name": "0285-01",
+  "first_page_order": 301,
+  "last_page_order": 304
+}

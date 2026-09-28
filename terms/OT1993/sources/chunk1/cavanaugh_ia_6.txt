@@ -1,0 +1,704 @@
+PDF PAGE 1
+No. 92-1510 Pa a 
+IN THE SUPREME COURT OF THE UNITED STATES 
+October Term, 1993 
+MICHAEL J. CAVANAUGH, EXECUTIVE DIRECTOR OF 
+THE SOUTH CAROLINA DEPARTMENT OF 
+PROBATION, PAROLE AND PARDON SERVICES; AND 
+SOUTH CAROLINA DEPARTMENT OF PROBATION, 
+PAROLE AND PARDON SERVICES, 
+PETITIONERS, 
+versus 
+GARY LEE ROLLER, 
+RESPONDENT. 
+On Writ of Certiorari to the United States 
+Court of Appeals for the Fourth Circuit 
+RESPONDENT’S BRIEF ON THE MERITS 
+W. GASTON FAIREY* 
+TIFFANY BROOME HEBERT 
+FAIREY, PARISE & MILLS, P. A. 
+Post Office Box 8443 
+Columbia, South Carolina 29202 
+(803) 252-7606 
+COUNSEL FOR RESPONDENT 
+*counsel of record 
+"BEST AVAILABLE COPY™ 
+
+
+PDF PAGE 2
+QUESTIONS PRESENTED FOR REVIEW 
+I. May a State prisoner challenging the denial 
+of timely parole hearings seek injunctive relief under 42 
+U.S.C. §1983, or must relief be sought under 28 U.S.C. 
+§2254? 
+II. Does the retrospective application of a 
+Statute increasing from one to two years the time period for 
+parole consideration violate the Ex Post Facto Clause of the 
+United States Constitution? 
+
+
+PDF PAGE 3
+TABLE OF CONTENTS 
+PAGE 
+QUESTIONS PRESENTED FOR REVIEW ........ i 
+TABLE OF CONTENTS —— .«uueuuee i 
+TABLE OF AUTHORITIES ~~ .....sees iii 
+STATEMENT OF THE CASE ~)ue__......ee. | 
+SUMMARY OF THE ARGUMENT _____...... .... .. . . 4 
+ARGUMENT I 
+AS THE RESPONDENT IS NOT 
+ATTACKING THE FACT OR LENGTH 
+OF HIS CONFINEMENT, NOR 
+SEEKING AN IMMEDIATE OR MORE 
+SPEEDY RELEASE, 42 U.S.C. §1983 
+IS AN APPROPRIATE REMEDY TO 
+SEEK INJUNCTIVE RELIEF ....... 7 
+ARGUMENT II 
+THE RETROSPECTIVE APPLICATION 
+OF A STATUTE INCREASING THE TIME 
+PERIOD FOR CONSIDERATION FOR 
+PAROLE FROM ONE TO TWO YEARS 
+"INFLICTS A GREATER PUNISHMENT" 
+FOR A CRIME AND VIOLATES THE 
+EX POST FACTO CLAUSES OF | 
+THE CONSTITUTION ____.......... .. . . 16 
+' 
+COMLUSN @ 48» °°} 86666 eeunn 30 | 
+-li- 
+TABLE OF AUTHORITIES 
+Beazell v. Ohio, 269 U.S. 167 (1925) cae 
+Board of Regents v. Roth, 408 U.S. 564 (1972) .... 
+Calder v. Bull, 3 Dall. 386 (1798) bes 
+Collins v. Youngblood, 497 U.S. 37 (1990) ... 
+Dobbert v. Florida, 432 U.S. 282 (1977)... 
+Ex Parte Medley, 134 U.S. 160 (1890) es 
+Fender v. Thompson, 883 F.2d 303, 
+(4th Cir. 1989) 
+Georgevich v. Strauss, 772 F.2d 1078, 
+1087 (3rd Cir. 1985) pe. 
+Gerstein v. Pugh, 420 U.S. 103 (1975) Pas 
+Greenholtz v. Inmates of the Nebraska 
+Penal & Corr. Complex, 442 U.S. 1 (1979) .. 
+Griffin v. State, Opinion No. 23909, 
+Sup. Ct. of $.C., July 19, 1993 need 
+oe. 
+
+
+PDF PAGE 4
+Gunter v. State, 298 S.C. 113, 378 S.E.2d 443 (1989) 2,3 
+Gut v. Minnesota, 9 Wall. 35 (1870) 3 ..... 
+Hopt v. Utah, 110 U.S. 575 (1884) ti“ iw“ (“ie 
+Lindsey v. Washington, 301 U.S. 397 (1937) .... 
+Malloy v. South Carolina, 237 U.S. 180 (1915)... . 
+Patsy v. Board of Regents, 457 U.S. 496 (1982) ... 
+Preiser v. Rodriguez, 411 U.S. 475 (1973)... .. 
+Roller v. Cavanaugh, 984 F.2d 120, 
+mmr “( ””C””C”C”C™”~™~C«C OS 
+Schwartz v. Muncy, 834 F.2d 396 (4th Cir. 1987) .. 
+Thompson v. Missouri, 171 U.S. 380 (1898)... .. 
+Weaver v. Graham, 450 U.S. 24 (1981) = ..... 
+Wolff v. McDonnell, 418 U.S. 539 (1974) ..... 
+Wright v. Cuyler, 624 F.2d 455 (3d Cir. 1980) .... 
+20,21 
+48.11, 
+25,27 
+5,23, 
+9,10, 
+11,13 
+STATEMENT OF THE CASE 
+The Respondent/Plaintiff, Gary Lee Roller, 
+(hereinafter Roller), was convicted in Chester County, South 
+Carolina, Court of General Sessions, of the crimes of 
+Voluntary Manslaughter and Grand Larceny, said crimes 
+occurring on December 13, 1982. Roller was sentenced on 
+March 25, 1983, to thirty (30) years for the crime of 
+Voluntary Manslaughter and five (5) years for the crime of 
+Grand Larceny. The law in effect at the time of his crimes 
+and sentencing required annual reconsideration of parole if 
+Roller was denied parole on his original eligibility date. (J.A. 
+6). In 1986, the State amended the parole statute to provide 
+that violent offenders would be reconsidered for parole every 
+two years after initial rejection. (J.A. 7). Roller was initially 
+considered and rejected for parole on October 27, 1990. The 
+letter of rejection stated that he would be eligible for 
+reconsideration on or about October 27, 1992, in accordance 
+with the state law passed in 1986. 
+
+
+PDF PAGE 5
+Prior to the administrative determination by the 
+Petitioners as to Roller’s reconsideration date, the South 
+Carolina Supreme Court decided in Gunter v. State, 298 S.C. 
+113, 378 S.E.2d 443 (1989), that the retrospective application 
+of the change in the parole law was not in violation of the Ex 
+Post Facto Clause. 
+On December 28, 1990, Roller filed a Complaint 
+under 42 U.S.C. §1983 in the District Court for the District of 
+South Carolina seeking injunctive and monetary relief. (J.A. 
+2-11). The Honorable Henry M. Herlong, Jr., United States 
+District Judge, issued an Order, filed November 8, 1991, 
+granting the State’s Motion for Summary Judgment. (J.A. 23- 
+26). Roller appealed the District Court’s ruling with regard to 
+the denial of prospective injunctive relief. The Fourth Circuit 
+Court of Appeals reversed the District Court and granted 
+Roller the injunctive relief requested in its opinion of January 
+15, 1993. (J.A. 28-36). Thereafter, the State of South 
+Carolina petitioned this Court for certiorari as the Fourth 
+Circuit ruling conflicted with the South Carolina Supreme 
+Court’s ruling in Gunter v. State. Certiorari was granted in 
+this Court’s Order of May 24, 1993. 
+Since this Court granted certiorari, the South 
+Carolina Supreme Court has overruled its decision in Gunter 
+v. State. In Griffin v. State, Opin. No. 23909 (July 19, 1993), 
+the South Carolina Court held the change in parole 
+reconsideration hearings under the Omnibus Crime Act of 
+1986, when applied to inmates such as Roller and Griffin, is 
+violative of the Ex Post Facto Clause of the Constitution. In 
+Griffin, the South Carolina Court adopted the reasoning of the 
+Fourth Circuit’s opinion in Roller. 
+
+
+PDF PAGE 6
+SUMMARY OF THE ARGUMENT 
+The first issue raised is jurisdictional in nature 
+and calls for this Court to determine whether a prisoner may 
+challenge the denial of timely parole hearings under 42 U.S.C. 
+§1983. As a hearing seeking parole neither assures Roller of 
+release, nor involves any change in the length of his sentence, 
+§1983 is a proper avenue for relief. The exclusive remedy 
+provisions of Preiser v. Rodriguez, 411 U.S. 475 (1973), apply 
+only to cases in which immediate release or reduction in length 
+of confinement is sought. If the remedy sought relates to 
+process rather than outcome, then the provisions of 28 U.S.C. 
+§2254 do not preempt jurisdiction under §1983. As a ruling 
+in Roller’s favor on the underlying action will not entitle him 
+to release, §1983 is a proper procedural alternative to vindicate 
+his constitutional rights. 
+The second issue requires interpretation of the 
+Ex Post Facto Clause of the Constitution. Roller was 
+sentenced at a time when the statutory law of South Carolina 
+-4- 
+provided that upon initial rejection for parole he would be 
+considered for parole every twelve months thereafter. In 1986, 
+the parole law was changed to provide that the reconsideration 
+hearings were to be held every twenty-four months rather than 
+every twelve months. The State chose to apply the new statute 
+to inmates sentenced prior to 1986. Under the guidelines of 
+Calder v. Bull, 3 Dall. 386 (1798), and Collins v. Youngblood, 
+497 U.S. 37 (1990), the application of the subsequent statute 
+to Roller violates Calder in that it “changes the punishment, 
+and inflicts a greater punishment, than the law annexed to the 
+crime, when committed." Calder at 390, [emphasis in 
+original]. The State’s categorization of the change as 
+"procedural" is not relevant to the determination as the 
+retrospective application of the statute goes to substantive 
+aspects of the sentence imposed upon Roller, and “penal 
+provisions accorded by the grace of the legislature” are equally 
+entitled to the protection of the Ex Post Facto Clause as the 
+actual sentence imposed. Weaver v. Graham, 450 U.S. 24, 30 
+
+
+PDF PAGE 7
+(1981). Even though Roller may never be accorded the grace 
+of parole during his term of imprisonment, the retrospective 
+application of the statute restricting his opportunity to seek 
+parole is more harsh than the law at the time of his sentencing 
+and therefore “makes more burdensome" the punishment for 
+his crime. 
+I. 
+AS THE RESPONDENT IS NOT 
+ATTACKING THE FACT OR LENGTH OF HIS 
+CONFINEMENT, NOR SEEKING AN IMMEDIATE OR 
+MORE SPEEDY RELEASE, 42 U.S.C. §1983 IS AN 
+APPROPRIATE REMEDY TO SEEK INJUNCTIVE 
+RELIEF. 
+If Roller were seeking his release from custody, 
+or a reduction in his sentence in order to gain an earlier 
+release, his only avenue to obtain such relief would lie in 
+habeas corpus. In the case at hand, Roller seeks injunctive 
+relief for the sole purpose of obtaining an annual parole 
+reconsideration hearing. Such a hearing would only give 
+Roller the opportunity to seek parole which, in no way, is a 
+guarantee of release. “That the state holds out the possibility 
+of parole provides no more than a mere hope that the benefit 
+will be obtained." Greenholtz v. Inmates of Nebraska Penal & 
+Corr. Complex, 442 U.S. 1, 11 (1979) (citing Board of 
+
+
+PDF PAGE 8
+Regents v. Roth, 408 U.S. 564, 577 (1982)) [emphasis in 
+original]. This "mere hope” of release is the determinant 
+factor in deciding whether Roller may proceed under §1983 or 
+is limited to habeas corpus relief. 
+Under Preiser v. Rodriguez, 411 U.S. 475 
+(1973), the fact or duration of incarceration may not be 
+challenged under 42 U.S.C. §1983. Roller does not challenge 
+this general principle. The State, however, extends this 
+qualification far beyond Preiser and its progeny. Preiser 
+established the "extent to which §1983 is a permissible 
+alternative to the traditional remedy of habeas corpus." 411 
+U.S. at 500. “When the relief sought is actual or speedier 
+release, Preiser restricts the availability of the civil rights 
+Statute. “In short, Congress has determined that habeas corpus 
+is the appropriate remedy for state prisoners attacking the 
+validity of the fact or length of their confinement, and that 
+specific determination must override the general terms of 
+$1983." 411 U.S. at 490. Similarly, the question here is 
+whether the general language of §1983 is preempted by the 
+specific provisions of 28 U.S.C. §2254. 
+The language of 28 U.S.C. §2254(a) provides in 
+The Supreme Court, a justice thereof, a circuit 
+judge, or a district court shall entertain an 
+application for a writ of habeas corpus... only 
+on the ground that he is in custody in violation 
+of the Constitution or laws or treaties of the 
+United States. 
+This language does not indicate that Congress intended this 
+remedy to apply to constitutional complaints other than 
+improper custody. As such, it does not preempt the general 
+language of §1983 allowing a prisoner, challenging prison 
+conditions and asserting denial of other constitutional rights, to 
+proceed under §1983. Preiser at 498-499. The Preiser Court 
+limited its holding to those cases in which plaintiffs did not 
+seek damages, but only equitable relief which would result in 
+their actual or speedier release. 
+This Court’s rulings since have adhered to the 
+Preiser parameters. Wolff v. McDonnell, 48 U.S. 539 (1974), 
+-9- 
+
+
+PDF PAGE 9
+recognized that §1983 was a proper vehicle to challenge the 
+procedures used in taking good time credits, although 
+restoration of good time credits under §1983 was foreclosed by 
+this Court’s ruling in Preiser. This limitation, however, did 
+not deprive the inmates of other relief under §1983. 
+[D]etermination of the validity of the procedures 
+employed ... as a predicate to a damages award 
+would not be barred by Preiser; and because 
+under that case only an injunction restoring 
+good time improperly taken is foreclosed, 
+neither would it preclude a litigant with standing 
+from obtaining by way of ancillary relief an 
+otherwise proper injunction enjoining the 
+prospective enforcement of invalid prison 
+regulations. 
+Wolff, 418 U.S. at 555. 
+In Gerstein v. Pugh, 420 U.S. 103 (1975), 
+pretrial detainees filed a §1983 class action suit challenging the 
+Florida criminal procedure which allowed for pretrial detention 
+without a judicial determination of probable cause. The suit 
+sought injunctive relief and did not seek a release from 
+custody. 
+Respondents did not ask for release from state 
+-10- 
+custody, even as an alternative remedy. They 
+asked only that the state authorities be ordered 
+to give them a probable cause determination. ... 
+Because release was neither asked nor ordered, 
+the lawsuit did not come within the class of 
+cases for which habeas corpus is the exclusive 
+remedy. Preiser v. Rodriguez, see Wolff v. 
+McDonnell. 
+Gerstein, 420 U.S. at 107 n.6 [citations omitted]. 
+Greenholtz v. Inmates of the Nebraska Penal & 
+Corr. Complex, 442 U.S. 1 (1979), dealt with a substantially 
+similar issue as that raised by Roller; whether constitutional 
+concerns were violated by post-sentencing parole procedures. 
+This Court reached the merits of the Greenholtz §1983 claim 
+without mention of whether the suit was properly before the 
+Court. As pursuing the action under §1983 is a jurisdictional 
+matter, this Court would have sua sponte raised the issue and 
+refused to consider the merits of the underlying claim. Collins 
+v. Youngblood, 497 at 41. 
+Under the State’s reasoning, Greenholtz should 
+have been dismissed. The basis of the inmates claim was that 
+“they had been unconstitutionally denied parole...." 442 U.S. 
+a. 
+
+
+PDF PAGE 10
+at 3. As such, the Greenholtz plaintiffs, had they been 
+successful, may have had an increased opportunity for release 
+on parole. The fault in Petitioner’s argument is that the State 
+fails to distinguish between claims focusing on procedure and 
+those focusing on the outcome of litigation. Gerstein v. Pugh’s 
+holding that pretrial detainees were entitled to fair and 
+impartial probable cause determinations could have led to the 
+release of some plaintiffs from pretrial detention. This fact did 
+not limit the detainees to habeas corpus relief as the remedy 
+sought was a fair hearing and not release. “[T]he fact that a 
+prisoner’s success in the litigation might increase the chance 
+for early release does not, in itself, transform the action into 
+one for habeas corpus." Georgevich v. Strauss, 772 F.2d 
+1078, 1087 (3rd Cir., en banc 1985) (citing Wright v. Cuyler, 
+624 F.2d 455 (3d Cir. 1980)). 
+The question is one of process as opposed to 
+outcome. When an inmate is challenging the procedures 
+applied as violative of the Constitution, and not seeking actual 
+-12- 
+release, §1983 is an appropriate vehicle. In Georgevich, the 
+Circuit Court considered a constitutional challenge to parole 
+procedures on equal protection grounds and found the process 
+versus Outcome distinction determinative of which claims are 
+properly under §1983 and which are restricted to habeas 
+corpus. After reviewing this Court’s decisions in Preiser, 
+Wolff, Gerstein and Greenholtz, the Third Circuit found “the 
+distinction [to be] between process-based claims and those 
+focusing on the outcome of a particular decision. Since 
+plaintiff's claim relates only to process and not to the actual 
+duration of confinement, we hoid that it could properly be 
+brought as a §1983 action." Georgevich, 772 F.2d at 1087. 
+Roller agrees with the Third Circuit that “analysis of the relief 
+sought is necessary to determine whether exhaustion of state 
+remedies is required." Seed v. Strauss, 772 F.2d at 
+1086. 
+Roller does not challenge the legality, fact or 
+duration of his confinement. What is challenged is the process 
+-13- 
+
+
+PDF PAGE 11
+by which the State has denied Roller hearings to which he was 
+formerly entitled. If Roller is successful in obtaining the 
+injunctive relief requested, the ultimate effect of yearly 
+hearings on his ability to obtain parole is unknown. Obtaining 
+yearly as opposed to bi-yearly hearings does not in any way 
+guarantee him a speedier release from prison. This Court’s 
+decision on the merits of this action will not divest the parole 
+board of its sole authority to decide if Roller is to be released. 
+Therefore, Roller is not asking this Court to provide him with 
+a speedier release, but with an opportunity to be considered for 
+release under the circumstances as they existed at the time of 
+his crime and sentencing. 
+While Roller makes no assertion that he is 
+entitled to parole now or at any time in the future, the Fourth 
+Circuit Court’s decision makes it clear that he should not 
+expect such relief. “Our decision does not, of course, require 
+or even suggest that Roller be paroled. South Carolina need 
+never parole him, so long as it considers the question every 
+-14- 
+year.” Roller v. Cavanaugh, 984 F.2d 120, 124 (4th Cir. 
+1993). Simply put, release for Roller is “neither asked nor 
+ordered” under his §1983 action. Gerstein, 420 U.S. at 107 
+n. 7. The Fourth Circuit Court of Appeals correctly decided 
+this issue and Roller’s action is properly brought under §1983. 
+Petitioner also argues that Roller should have 
+first sought redress in the South Carolina State Courts before 
+asking for federal relief. While exhaustion of state remedies 
+may be necessary for habeas purposes, the same is not true of 
+$1983 actions. Patsy v. Board of Regents, 457 U.S. 496 
+(1982). 
+
+
+PDF PAGE 12
+Il. 
+THE RETROSPECTIVE APPLICATION OF 
+A STATUTE INCREASING THE TIME PERIOD FOR 
+CONSIDERATION FOR PAROLE FROM ONE TO TWO 
+YEARS "INFLICTS A GREATER PUNISHMENT" FOR 
+A CRIME AND VIOLATES THE EX POST FACTO 
+CLAUSE OF THE CONSTITUTION. 
+The Fourth Circuit found that "South Carolina 
+has undoubtedly applied its new statute to ‘alter the conditions - 
+of...[Roller’s}] preexisting parole eligibility." Roller y. 
+Cavanaugh, 984 F.2d at 124 (citing Fender v. Thompson, 883 
+F.2d 303, 306 (4th Cir. 1989)). Based upon the established 
+general rule in the Fourth Circuit that changes in parole 
+eligibility after the commission of the crime are in violation of 
+-the Ex Post Facto Clause, the Circuit Court found a violation 
+of the Constitution in Roller’s case. This decision conforms 
+with the long standing rules of this Court as to the ex post 
+facto prohibition and is consonant with the tradition of this 
+-16- 
+venerable precept. 
+In Calder v. Bull, 3 Dall. 386 (1798), Justice 
+Chase engaged in a lengthy discussion of the differences 
+between ex post facto and retrospective laws. 3 Dall. at 391- 
+393. While indicating that both Categories are “generally 
+unjust; and may be oppressive," Calder at 391, he found that 
+only penal laws fall “within the words and the intent of the 
+prohibition.” Calder at 390 [emphasis in Original]. The term 
+ex post facto was in use “long before the Revolution, and had 
+acquired an appropriate meaning, by Legislators, Lawyers, and 
+Authors." Calder at 391 [emphasis in original]. Justice Chase 
+found this meaning to encompass four categories: 
+Ist. Every law that makes an action done before the passing of the law, and which was innocent when done, criminal; and punishes 
+such action. 2d. Every law that aggravates a crime, or makes it greater than it was, when committed. 3d. Every law that changes the Punishment, and inflicts a greater Punishment, 
+than the law annexed to the crime, when committed. 4th. Every law that alters the legal rules of evidence, and receives less, or different, testimony, than the law required at the time of the commission of the offence, in order 
+-17- 
+
+
+PDF PAGE 13
+to convict the offender. 
+Calder at 390 [emphasis in original]. 
+These precepts were found to be consistent with commentaries 
+of Sir William Blackstone who “considers an ex post facto law 
+precisely in the same light I have done.” Calder at 391 
+{emphasis in original]. While the accuracy of the historical 
+discussion in Calder has been debated, this Court has faithfully 
+adhered to the general principles espoused by the Justices in 
+that case. See, Collins v. Youngblood, 497 U.S. 37, 41 n. 2 
+(1990). 
+This Court has, on a number of occasions, 
+revisited the meaning of the ex post facto provisions. Of these 
+cases, this Court has found that Beazell v. Ohio, 269 U.S. 167 
+(1925), “is faithful to our best knowledge of the original 
+understanding of the Ex Post Facto Clause." Collins v. 
+Youngblood, 497 U.S. 37, 43 (1990). In the 127 years 
+between Calder and Beazell, this Court, on a number of 
+occasions, found retrospective penal laws did not violate the ex 
+-18- 
+post facto doctrine. In Beazell, Justice Stone reviewed these 
+opinions and found that there was substantial precedent for the 
+principle but there was no bright line test to determine when a 
+procedural change violated the Constitution. 
+But it is now well settled that statutory changes 
+in the mode of trial or the rules of evidence, 
+which do not deprive the accused of a defense 
+and which operate only in a limited and 
+unsubstantial manner to his disadvantage, are 
+not prohibited.... Just what alterations of 
+procedure will be held to be of sufficient 
+moment to transgress the constitutional 
+prohibition cannot be embraced within a formula 
+or stated in a general proposition. The 
+distinction is one of degree. But the 
+constitutional provision was intended to secure 
+substantial personal rights against arbitrary and 
+oppressive legislation, and not to limit the 
+legislative control of remedies and modes of 
+procedure which do not affect substantial rights. 
+269 U.S. at 170-171 [citations omitted]. 
+Examples given of retrospective changes which 
+do not violate the prohibition are the qualification of convicted 
+felons as witnesses, Hopt v. Utah, 110 U.S. 575 (1884); 
+allowing evidence which had been previously held 
+inadmissable, Thompson v. Missouri, 171 U.S. 380 (1898); 
+-19- 
+ey ee 
+
+
+PDF PAGE 14
+changing the place of trial, Gut v. Minnesota, 9 Wall. 35, 19 
+L.Ed. 573 (1870); and changing the mode of execution, Malloy 
+v. South Carolina, 237 U.S. 180 (1915). 
+The degree of the distinction is illustrated by 
+comparing the ruling in Malloy with Ex Parte Medley, 134 
+U.S. 160 (1890). In both cases the defendant was under a 
+valid sentence of death. In Medley, the retrospective statutory 
+change added a requirement of solitary confinement prior to 
+execution, in Malloy the method of execution was changed 
+from hanging to death by electrocution. As this Court found 
+that solitary confinement was "an additional punishment of the 
+most important and painful character," Medley, 134 U.S. at 
+171, his punishment was found to be in violation of the 
+Constitutional protection. On the other hand, in Malloy, the 
+Court found that the change from hanging to electrocution was, 
+if anything, a more humane method of producing death and 
+"some of the odious features incident to the old method 
+[hanging] were abated." Malloy, 237 U.S. at 185. Therefore, 
+the statutory change in Malloy did not violate the prohibition. 
+The distinction between the cases turns upon the issue of 
+whether the new statute makes more harsh the punishment 
+being imposed. If it does, then it violates the Ex Post Facto 
+Clause; if it does not then there is no violation. 
+This Court revisited the "procedural" question 
+in Collins v. Youngblood, supra. 
+Several of our cases have described as 
+"procedural" those changes which, even though 
+they work to the disadvantage «* the accused, 
+do not violate the Ex Post Facto Clause. While 
+these cases do not explicitly define what they 
+mean by the word “procedural,” it is logical to 
+think that the term refers to changes in the 
+procedures by which a criminal case is 
+adjudicated, as opposed to changes in the 
+substantive law of crimes. 
+497 U.S. at 45 [citations omitted]. 
+This Court found an element of confusion had been fostered by 
+a number of cases which accorded protection to procedural 
+changes which affected "matters of substance” or “arbitrarily 
+infring[ed] upon ‘substantial personal rights." Jd. By 
+returning to the original concept of Calder, the Court indicated 
+-21- 
+
+
+PDF PAGE 15
+that ex post facto violations should be founded upon the 
+categories set forth by Justice Chase. By whatever designation 
+given a retrospective penal change, if it involves one of the 
+four Calder categories, and is detrimental to the defendant, it 
+violates the Ex Post Facto Clause. 
+We think the best way to make sense out of this 
+discussion in the cases is to say that by simply 
+labelling a law “procedural,” a legislature does 
+not thereby immunize it from scrutiny under the 
+Ex Post Facto Clause. Subtle ex post facto 
+violations are no more permissible than overt 
+ones....But the prohibition which may not be 
+evaded is the one defined by the Calder 
+categories. 
+Collins, 110 S.Ct at 2721 [citations omitted]. 
+The question becomes whether an increase from 
+one to two years in parole consideration after initial rejection 
+is encompassed in the Calder categories. The Petitioner 
+ignores this aspect of Collins and focuses an argument to 
+whether the change is “substantial.” While Roller maintains 
+that the change in his case is substantial, the Respondent 
+believes the proper inquiry lies in the nature of the deprivation. 
+-22- 
+The Petitioner focuses on the "substantial protections” and 
+"personal rights” issues in arguing that Roller is not protected 
+by the constitutional prohibition. Such inquiry is inconsistent 
+with the effort of the Court in Collins to clear up the confusion 
+engendered by these phrases and refocus the analysis to the 
+Calder categories. Collins, 497 U.S. at 45-46. 
+While Roller’s total sentence has not been 
+changed, his opportunity to seek his release, pursuant to a 
+procedure mandated by the law at the time of his sentence, has 
+been altered. While a State has no obligation to employ 
+parole, good time, or work credits, once these benefits are 
+granted by legislation, they are entitled to ex post facto 
+protection. "Thus, even if a statute merely alters penal 
+provisions accorded by the grace of the legislature, it violates 
+the Clause if it is both retrospective and more onerous than the 
+law in effect on the date of the offence.” Weaver v. Graham, 
+450 U.S. 24, 30-31 (1981). 
+The Petitioner argues that there has been no 
+-23- 
+
+
+PDF PAGE 16
+change in the sentence imposed upon Roller. While Roller’s 
+thirty-five year sentence has not been changed, this fact does 
+not end the inquiry. In Weaver, this Court found that the 
+retrospective change in gain time credits to the inmate’s 
+detriment, while outside of the sentence imposed, was a change 
+in “the quantum of punishment." 450 U.S. at 33 (quoting 
+Dobbert v. Florida, 432 U.S. at 293-294). Similarly Roller 
+has suffered a change in his punishment, and the retrospective 
+application of the statute at issue here falls squarely under the 
+Calder categories. 
+In Weaver, the issue as to the effect of the 
+retrospective change was a close one. The gain time statute 
+was amended to reduce the amount of gain time for good 
+behavior but increased the opportunity for discretionary gain 
+time. Then Justice Rehnquist, concurring in the judgment, 
+indicated that he was “persuaded in this case, albeit not without 
+Goubt, that the statute is more onerous than the old." 450 U.S. 
+at 38. The significance of the resolution of this issue in the 
+-24- 
+inmate’s favor is that the Petitioner’s argument as to 
+“substantial deprivation" misses the point. If there is no 
+dispute as to the detrimental effect of the statute, then the 
+inquiry ends. 
+Roller’s entitlement to annual parole hearings 
+after reaching his parole eligibility date was statutory law in 
+South Carolina at the time of his crime and sentencing. As 
+such, it was a “part of the law annexed to the crime at the 
+time” of his offense. Roller v. Cavanaugh, 984 F.2d at 122 
+(quoting from Schwartz v. Muncy, 834 F.2d 396, 398 n. 8 (4th 
+Cir. 1987)). Changing the law to require Roller to serve at 
+least one additional year before parole reconsideration is a 
+change in the quantum of punishment. “We are not willing to 
+disparage the ‘substance’ of a year, especially a year in 
+prison.” Roller at 123. This change, while couched by the 
+State as “procedural,” does not affect some procedure 
+concerning Roller’s trial nor can it be said that it simply 
+changes the manner in which the State is imposing the 
+-25- 
+
+
+PDF PAGE 17
+punishment. 
+The fact that there is no guarantee that yearly 
+reviews would make any difference in Roller’s ultimate release 
+date does not diminish the constitutional error of the State’s 
+action. In the case of Lindsey v. Washington, 301 U.S. 397 
+(1937), the petitioner committed a burglary at a time when 
+there was a minimum sentence of six months and a maximum 
+sentence of fifteen years. At the time of sentencing the law 
+had changed to provide for a mandatory fifteen year sentence. 
+This Court found the application of the mandatory sentence to 
+Lindsey to be violative of ex post facto. Although Lindsey 
+could have been sentenced to fifteen years under the original 
+Statute, such a sentence was not mandated. 
+It is true that petitioners might have been 
+sentenced to fifteen years under the old statute. 
+But the ex post facto clause looks to the 
+standard of punishment prescribed by a statute, 
+rather than to the sentence actually imposed. 
+The Constitution forbids the application of any 
+new punitive measure to a crime already 
+consummated, to the detriment or material 
+disadvantage of the wrongdoer... 
+We need not inquire whether this is technically 
+an increase in the punishment annexed to the 
+crime. It is plainly to the substantial 
+disadvantage of the petitioners to be deprived of 
+all opportunity to receive a sentence which 
+would give them freedom from custody and 
+control prior to the expiration of the fifteen-year 
+sentence. 
+Lindsey v. Washington, 301 U.S. at 401-402. 
+While Roller may never be paroled, the proper 
+test is whether his opportunity to seek release is being 
+adversely affected. Without question Roller is being denied all 
+opportunity to seek his release for the one year period after the 
+anniversary of his parole eligibility. 
+Petitioner argues that there is a distinction 
+between initial parole eligibility and subsequent hearing dates. 
+That somehow once eligibility is reached, changing the dates 
+for consideration for release does not disadvantage Roller. The 
+Fourth Circuit rejected this argument finding that "[e]ligibility 
+without consideration is cold comfort." Roller, 984 F.2d at 
+123. Although the two may be technically different, 
+Petitioner’s argument calls to mind the Collins’ admonition that 
+-27- 
+
+
+PDF PAGE 18
+"[s]ubtle ex post facto violations are no more permissible than 
+overt ones." 497 U.S. at 46. This position also assumes that 
+the opportunity to secure release is not a matter of substance. 
+As a practical matter, no typical inmate could reasonably be 
+expected to distinguish between the initial eligibility and 
+subsequent concideration for parole. In each situation a 
+hearing is the only means by which the inmate may obtain 
+release. The Fourth Circuit Court of Appeals correctly held 
+that the distinction was irrelevant for the purposes of the ex 
+post facto clause. 
+To argue that the disadvantage to Roller imposed 
+by South Carolina’s Omnibus Crime Bill is insubstantial and 
+therefore constitutional flies in the face of the purpose and 
+spirit of the ex post facto clause. A retrospective increase in 
+the burden of punishment is constitutionally prohibited. 
+The retrospective application of the 1986 parole 
+provisions to Roller is in violation of the Ex Post Facto Clause 
+of the Constitution. The change is penal in nature, is being 
+-28- 
+applied retrospectively, is contained within the Calder 
+categories, and is to the detriment of the Respondent. While 
+the states should be encouraged to fashion and implement 
+changes in rehabilitative programs to foster improved 
+correctional practices, such changes should not be at the 
+expense of time honored constitutional principles. There is 
+room in our society for both. 
+
+
+PDF PAGE 19
+CONCLUSION 
+FOR THE FOREGOING REASONS, the 
+Respondent, Gary Lee Roller, prays that this Honorable Court 
+affirm the judgment of the Fourth Circuit Court of Appeals. 
+RESPECTFULLY SUBMITTED, this the 9th 
+day of August, 1993, in Columbia, South Carolina. 
+FAIREY, PARISE & MILLS, P. A. 
+=| U-n~\—= 
+W. GASTON FAIREY* > 
+TIFFANY BROOME HEBERT 
+Post Office Box 8443 
+Columbia, South Carolina 29202 
+(803) 252-7606 
+COUNSEL FOR RESPONDENT. 

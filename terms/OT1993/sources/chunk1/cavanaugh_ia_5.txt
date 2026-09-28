@@ -1,0 +1,938 @@
+PDF PAGE 1
+_— 
+F oupreme Court, U.S. 
+No. 92-1510 
+7 . 
+) . & ¥ i> 
+In The 
+Supreme Court of the United States 
+October Term, 1993 
+7 
+MICHAEL J. CAVANAUGH, Executive Director of the 
+South Carolina Department of Probation, Parole, and 
+Pardon Services; South Carolina Department of 
+Probation, Parole, and Pardon Services, 
+Petitioners, 
+vs. 
+GARY LEE ROLLER, 
+Respondent. 
+¢ 
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fourth Circuit 
+> 
+PETITIONERS’ BRIEF ON THE MERITS 
+¢ 
+T. Travis MEDLOcK, 
+Attorney General 
+Epwin W. Evans, Chief 
+Deputy Attorney General 
+Cart N. LUNDBERG 
+Counsel of Record 
+Chief Legal Counsel 
+S. C. Dept. of Probation, 
+Parole, and Pardon Services 
+Post Office Box 50666 
+Columbia, SC 29250 
+Telephone: (803) 734-9207 
+Counsel for Petitioners 
+COCKLE ae Rig PRINTING CO, 5, 225-6964 
+CALL COLLECT (402) 342 
+~2\* 
+
+
+PDF PAGE 2
+QUESTIONS PRESENTED FOR REVIEW 
+I. 
+IS FEDERAL JURISDICTION FOR RESPONDENT’S 
+CHALLENGE OF SOUTH CAROLINA’S PAROLE 
+RELEASE SYSTEM PROPER UNDER 42 U.S.C. § 1983, OR 
+SHOULD IT HAVE BEEN BROUGHT UNDER HABEAS 
+CORPUS AFTER STATE REMEDIES WERE 
+EXHAUSTED? 
+IS THE 1986 STATUTORY AMENDMENT TO THE 
+SOUTH CAROLINA CODE, WHICH INCREASES THE 
+TIME BETWEEN PAROLE CONSIDERATION HEAR- 
+INGS FROM ONE TO TWO YEARS FOR OFFENDERS 
+CONVICTED OF VIOLENT CRIME, AN INSUBSTAN- 
+TIAL PROCEDURAL CHANGE OUTSIDE THE PUR- 
+VIEW OF THE EX POST FACTO CLAUSE, AS THE 
+SUPREME COURT OF SOUTH CAROLINA HELD IN 
+GUNTER V. STATE, 378 S.E.2d 443 (1989)? 
+
+
+PDF PAGE 3
+TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESENTED FOR REVIEW........... i 
+TABLE OF AUTHORITIRD ........ccccccecccccccec: iii 
+OPINIONS AND JUDGMENTS .................... 1 
+STATEMENT OF JURISDICTION................... 2 
+CONSTITUTIONAL PROVISION AND STATUTES 
+INVOLVED TIIertrerrrrrrir rT 3 
+STATEMENT OF THE CASE...................000. 4 
+SUMMARY OF THE ARGUMENT ................. 5 
+ARGUMENT 
+I. The prisoner’s challenge of South Carolina’s parole release system reaches the very “ccre of habeas corpus” and, because it does, federal jurisdiction is not proper under 42 U.S.C. § 1983............... 8 
+II. An increase in the time between parole consider- 
+ation hearings from one to two years, applied 
+retroactively, is an insubstantial peoesdueal change ou.Jide the purview of the Ex Post Facto 
+Clause ..... ooecsececetdeucnen sea 14 
+CUINCLEIBION 6.oo ccccccccesvecceduenesee 21 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Akins v. Snow, 922 F.2d 1558 (11th Cir. 1991), cert. 
+denied, 111 S.Ct. 2915 (1991) ............... 17, 18, 19 
+Alexander v. Johnson, 742 F.2d 117 (4th Cir. 1984) .... 10 
+Bailey v. Gardebring, 940 F.2d 1150 (8th Cir. 1991), 
+cert. denied, Bailey v. Noot, 112 S.Ct. 1516 (1992).... 19 
+Beazell v. Ohio, 269 U.S. 167 (1925) ..........6.06065. 16 
+Braden v. 30th Judicial Circuit of Kentucky, 410 U.S. 
+cece ese ncccccecccceseucces 11 
+Calder v. Bull, 3 Dall. 386 (1798) ..............045. 7, 16 
+Collins v. Youngblood, 497 U.S. 37 (1990) ...7, 16, 17, 18, 19 
+Del Raine v. Carlson, 826 F.2d 698 (7th Cir. 1987) ..... 4 
+Dobbert v. Florida, 432 U.S. 282 (1977)............ 16, 18 
+Gerstein v. Pugh, 420 U.S. 103 (1987) ............. 13, 20 
+Greenholtz v. Inmates of Nebraska Penal and Correc- 
+tional Complex, 442 U.S. 1 (1979) ............... 13, 20 
+Gunter v. State, 298 S.C. 113, 378 S.E.2d 443 (1989) 
+RE ccc ccaecescccescsccccccce 3, 4, 6, 15 
+Hamlin v. Warren, 664 F.2d 29, (4th Cir. 1981), cert. 
+SE ED ER WEE GEUUEDs ccccccscccccccccccccees 11 
+Hopt v. Utah, 110 U.S. 574 (1884)....... 2... ene, 16 
+Leonard v. Hammond, 804 F.2d 838 (4th Cir. 1986) .10, 12 
+Malloy v. South Carolina, 237 U.S. 180 (1915)......... 17 
+Miller v. Florida, 482 U.S. 423 (1987)...............4.. 16 
+Portley v. Grossman, 444 U.S. 1311 (1980) ......... 16, 18 
+
+
+PDF PAGE 4
+iv 
+TABLE OF AUTHORITIES —- Continued 
+Page 
+Preiser v. Rodriguez, 411 U.S. 475 (1973) ......... passim 
+Rodriguez v. McGinnis, 451 F.2d 730 (2d Cw 1971)....13 
+Rodriguez v. U.S. Parole Commission, 594 F.2d 170 
+> ain ana RET 19 
+Strader v. Troy, 571 F.2d 1263 (4th Cir. 1978) 
+$6SGbn Sn ObObOEbESShEE66000060K6ee0"" 5, 6, 9, 10, 11, 12 
+Todd v. Baskerville, 712 F.2d 70 (4th Cir. 1983)..... 10, 12 
+Will v. Michigan Dept. of State Police, 491 U.S. 58 
+Siconaisdeuscsannsdnshustucnaeseaniacinees 11, 12 
+Wilson v. Lockhart, 949 F.2d 1051 (8th Cir. 1991) ..... 10 
+Wolff v. McDonnell, 418 U.S. 539 (1974)........... 13, 20 
+STATUTES 
+ee es Fe adnan cnentacadbendunndcckessneiene 2 
+ee es Oe EN 6 cca ctucudededdeed caer 2 
+ee ee Oe rnn6tbbieseuncousateusanewns 3, 5, 9, 12 
+United States Supreme Court Rule 10.1(a)............ 2 
+1981 Act No. 100, § 9, S.C. Code Ann., § 24-21-610 
+Daddtsdhubedsdéussess enadondusnucsuanes 3, 15 
+1981 Act No. 100, § 10, S.C. Code Ann., § 24-21-620 
+er re rer Me eee 3, 4, 15 
+1986 Act No. 462, § 31, S.C. Code Ann., § 24-21-645 
+nd+dbdececdbecasaskekeaiianeee 2, 3, 4, 14, 15 7 
+1986 Act. No. 462, § 32, S.C. Code Ann., § 24-21-650 
+DPSsnvceseedvecsaneeeeuncaittessanednll 2, 3, 4, 14 
+1986 Act. No. 462, § 33, S.C. Code Ann. § 16-1-60 
+PEA Stns ndcicdncstsustecuceetubenchusausouenet 2,3 
+No. 92-1510 
+° 
+In The 
+Supreme Court of the United States 
+October Term, 1993 
+. 
+MICHAEL J. CAVANAUGH, Executive Director of the 
+South Carolina Department of Probation, Parole, and 
+Pardon Services; South Carolina Department of 
+Probation, Parole, and Pardon Services, 
+Petitioners, 
+vs. 
+GARY LEE ROLLER, 
+Respondent. 
+° 
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fourth Circuit 
+¢ 
+PETITIONERS’ BRIEF ON THE MERITS 
+e 
+CITATION OF THE OPINIONS AND JUDGMENTS 
+DELIVERED IN THE COURTS BELOW 
+Roller v. Cavanaugh, et al., Case 3:90-3054-20]. Opinion and 
+Order of the United States District Court for the District 
+of South Carolina filed November 8, 1991, is reprinted in 
+the Joint Appendix (J.A. 23). 
+Roller v. Cavanaugh, et al., Case 3:90-3054-20]. Judgment of 
+the United States District Court for the District of South 
+1 
+
+
+PDF PAGE 5
+Carolina filed November 12, 1991, is reprinted in the Joint 
+Appendix (J.A. 27). 
+Roller v. Cavanaugh, et al., 984 F.2d 120 (4th Cir. 1991) +s 
+reprinted in the Joint Appendix (J.A. 28). 
+¢ 
+STATEMENT OF THE GROUNDS ON WHICH THE 
+JURISDICTION OF THE UNITED STATES 
+SUPREME COURT IS INVOLVED 
+The petitioner has been granted review of the Janu- 
+ary 15, 1993, opinion and judgment of the United States 
+Court of Appeals for the Fourth Circuit. The petitioner 
+filed a petition for writ of certiorari with the United 
+States Supreme Court on March 8, 1993, and it was 
+granted on May 24, 1993. 
+Jurisdiction is conferred on the United States 
+Supreme Court by 28 U.S.C. § 1254(1) and 28 U.S.C. 
+§ 1257(8), as characterized in Supreme Court Rule 10.1(a). 
+The former statute allows this Court to review, upon 
+petition for writ of certiorari, cases of the courts of 
+appeals, before or after judgment has been rendered. The 
+latter statute allows the Court to review, also upon peti- 
+tion for writ of certiorari, final judgments rendered by the 
+highest court of a state in which a decision could be had, 
+where the validity of a state statute is being drawn in 
+question on the ground of its being repugnant to the 
+Constitution. In this matter, South Carolina Code Sections 
+16-1-60, 24-21-645, 24-21-650 are being drawn in question 
+on the ground that their application to the Respondent 
+violates the Ex Post Facto Clause. Further, this is a matter 
+in which a United States court of appeals has decided a 
+federal question in a way that conflicts with a state court 
+of last resort. The Fourth Circuit’s decision squarely con- 
+flicts with the South Carolina Supreme Court’s decision 
+in Gunter v. State, 298 S.C. 113, 378 S.E.2d 443 (1989), on 
+the ex post facto question; and on the threshold question of 
+federal jurisdiction under 42 U.S.C. § 1983, it conflicts 
+with this Court’s decision in Preiser v. Rodriguez, 411 U.S. 
+475 (1973), and its line. 
+o 
+CONSTITUTIONAL PROVISION AND 
+STATUTES INVOLVED 
+Article I, § 9 clause 3 provides “No . . . ex post facto law 
+shall be passed.” 
+1981 Act No. 100, § 9, S.C. Code Ann., § 24-21-610 (1976), 
+enacted June 15, 1981 (parole eligibility) is set forth in J.A. 
+at 37. 
+1981 Act No. 100, § 10, S.C. Code Ann., § 24-21-620 (1976), 
+enacted June 15, 1981 (parole hearing rescheduling) is set 
+forth in J.A. at 39. 
+1986 Act No. 462, § 31, S.C. Code Ann., § 24-21-645 (1976), 
+enacted June 3, 1986 (parole hearing rescheduling) is set 
+forth in J.A. at 40. 
+1986 Act. No. 462, § 32, S.C. Code Ann., § 24-21-650 (1976), 
+enacted June 3, 1986 (parole hearing rescheduling) is set 
+forth in J.A. at 40. 
+1986 Act. No. 462, § 33, S.C. Code Ann. § 16-1-60 (1976), 
+enacted June 3, 1986 (definition of violent crime) is set 
+forth in J.A. at 41. 
+
+
+PDF PAGE 6
+STATEMENT OF THE CASE 
+The respondent, Gary Lee Roller, was convicted of 
+voluntary manslaughter and grand larceny in the Chester 
+County Court of General Sessions for the State of South 
+Carolina. Both crimes were committed on December 13, 
+1982. Roller was sentenced on March 25, 1983. (J.A. 6) On 
+October 27, 1990, Roller became eligible for parole under 
+the parole eligibility statute in force on December 13, 
+1982, the date he committed his crimes. (J.A. 37) That 
+parole eligibility date has not changed. 
+When Roller committed his crimes, the procedural 
+law governing the rescheduling of parole hearings fol- 
+lowing a rejection set the time at one year. S.C. Code Ann. 
+§ 24-21-620 (1976), as amended. (J.A. 39) Effective June 3, 
+1986, the law controlling the rescheduling procedure was 
+changed to require a two-year period between parole 
+hearings for violent offenders. S.C. Code Ann. 
+§§ 24-21-645, 24-21-650. (J.A. 40) At the same time, the 
+South Carolina General Assembly enacted S.C. Code Ann. 
+§ 16-1-60, which enumerated those crimes deemed to be 
+violent and included in that enumeration the crime of 
+voluntary manslaughter. (J.A. 41) The punishment for 
+voluntary manslaughter, including parole eligibility, how- 
+ever, remained exactly what it had been when Roller 
+committed that crime in 1982. The South Carolina 
+Supreme Court ruled in Gunter v. State, 298 S.C. 113, 378 
+S.E.2d 443 (1989), that the decrease in the frequency of 
+parole hearings for violent offenders was a permissible 
+procedural change and did not violate the Ex Post Facto 
+Clause of the Constitution. 
+SUMMARY OF THE ARGUMENT 
+This case raises two questions. The first question 
+invites the Court to revisit Preiser v. Rodriguez, 411 U.S. 
+475 (1973), and the problem of defining the line between 
+federal jurisdiction under 42 U.S.C. § 1983 of the Civil 
+Rights Act and federal Habeas Corpus. As presented for 
+the Court’s review, the question is whether federal juris- 
+diction for the Respondent’s challenge of a South Caro- 
+lina law that decreases the frequency of his parole 
+reconsideration hearings from one year to two years is 
+properly founded on Section 1983; or, whether the 
+Respondent’s challenge reaches the very “core of habeas 
+corpus” and, as such, should require him to exhaust the 
+remedies available to him in the state courts of South 
+Carolina. The Fourth Circuit, adhering to the interpreta- 
+tion it gave Preiser in the case of Strader v. Troy, 571 F.2d 
+1263 (4th Cir. 1978), held that federal jurisdiction to hear 
+the prisoner’s petition was properly founded on § 1983. 
+We think the Fourth Circuit erred and should be 
+reversed. The Strader interpretation of this Court’s deci- 
+sion in Preiser expands federal jurisdiction under Section 
+1983 in these prisoner petition cases far beyond the hold- 
+ing in Preiser. In Preiser, this Court held that “when a state 
+prisoner is challenging the very fact or duration of his 
+physical imprisonment, and the relief he seeks is a deter- 
+mination that he is entitled to immediate release or a 
+speedier release from that imprisonment, his sole federal 
+remedy is a writ of habeas corpus.” And a speedier 
+release, we think, is just what the Respondent is seeking 
+when he demands a more frequent parole review- 
+whether he says it in so many words, or not. That, after 
+
+
+PDF PAGE 7
+all, is what his ex post facto challenge, at its core, seeks to 
+achieve. 
+We must look to the core of the Respondent's claim, 
+not merely to the language in which he couches that 
+claim. The Fourth Circuit, relying on Strader, ignores the 
+core of the Respondent’s claim and sees only the lan- 
+guage. In this view, the Fourth Circuit’s analysis might 
+fairly be summarized as follows: The Respondent never 
+comes out and says he is seeking a speedier release; 
+therefore, that’s not what he’s seeking. Preiser looks 
+deeper, to the bedrock of the claim. As demonstrated by 
+the Fourth Circuit’s decision below, and indeed by the 
+wide difference of opinion expressed by federal courts in 
+every circuit when confronted with a Preiser puzzle, this 
+Court, we suggest, needs once again to take the measure 
+of Preiser’s depth to some fathom of greater precision. At 
+bottom, Preiser was deeply concerned with the larger 
+principles of federalism and comity between the federal 
+government and the governments of the several states. 
+The Fourth Circuit’s decision, we believe, effectively dis- 
+torts these principles, under which, when viewed in 
+accord with the teachings of Preiser, this case should 
+never have gained entry in the federal courts. 
+The second question goes to the merits of the 
+Respondent’s claim: Whether or not a 1986 statutory 
+amenament to the South Carolina Code, which increases 
+the time between parole reconsideration hearings from 
+ong to two years for offenders convicted of violent crime, 
+is an insubstantial procedural change outside the pur- 
+view of the Ex Post Facto Clause. The South Carolina 
+Supreme Court, in Gunter v. State, 378 S.E.2d 443 (1989), a 
+case directly on point, held that the change presented no 
+ex post facto violation. The Fourth Circuit disagreed, effec- 
+tively overruling South Carolina’s highest court. 
+We believe that the Fourth Circuit’s decision on the 
+merits was error. The Fourth Circuit oversimplified by 
+equating reconsideration for parole with eligibility for 
+parole. The two are not the same, and the difference is 
+absolutely crucial to a correct analysis of the ex post facto 
+problem presented here. When reconsideration for parole 
+is equated with parole eligibility the analysis comes to an 
+end, because parole eligibility attaches to the punish- 
+ment. A change in parole eligibility, applied retroactively 
+to the disadvantage of the prisoner, violates the constitu- 
+tional prohibition. 
+But the point is irrelevant, because parole eligibility 
+was never at issue here. Respondent’s parole eligibility 
+has remained unchanged from the date of his conviction 
+and sentencing. If we fix our attention on the relevant- 
+the scheduling of parole reconsideration hearings-we 
+arrive at this Court’s ex post facto analysis in Collins v. 
+Youngblood, 497 U.S. 37 (1990). In Collins, the Court pur- 
+posefully reached back to the “original u’  erstanding” of 
+the Ex Post Facto Clause, expressed in Calder v. Bull, 3 
+Dall. 386 (1798), to reject the increasingly wide-spread 
+notion that any change which alters the situation of a 
+party to his disadvantage violates the Clause. In place of 
+this mistaken idea, the Court substituted the notion that 
+the Ex Post Facto Clause “was intended to secure substan- 
+tial personal rights against arbitrary and oppressive legis- 
+lation.” This idea allows for a flexible case-by-case 
+approach. When this approach is applied to the particular 
+facts presented in this case, we believe that the change, 
+though retroactive, is not one of so substantial a moment 
+
+
+PDF PAGE 8
+as to violate any personal rights of the Respondent 
+intended to be secure against arbitrary and oppressive 
+legislation. The Fourth Circuit simply avoids the real 
+question altogether. 
+Should the matter go to the merits, we would ask the 
+Court to reverse the Fourth Circuit on the ex post facto 
+question and correct this error. Should it not go to the 
+merits because the Court finds jurisdiction improperly 
+founded on Section 1983, we would ask for an order 
+vacating the Fourth Circuit’s opinion and judgment, to 
+ensure that it will have no binding effect. 
+I. 
+THE PRISONER’S CHALLENGE OF SOUTH CARO- 
+LINA’S PAROLE RELEASE SYSTEM REACHES THE 
+VERY “CORE OF HABEAS CORPUS” AND, BECAUSE 
+IT DOES, FEDERAL JURISDICTION IS NOT PROPER 
+UNDER 42 U.S.C. § 1983. 
+Section 1983 is not available to test the application of 
+the challenged parole law. The action is cognizable only 
+in habeas corpus. Preiser v. Rodriguez, 411 U.S. 475 (1973), 
+states the rule that controls here: 
+[W]e hold today that when a state prisoner is 
+challenging the very fact or duration of his 
+physical imprisonment, and the relief he seeks is 
+a determination that he is entitled to immediate 
+release or a speedier release from that imprison- 
+ment, his sole federal remedy is a writ of habeas 
+*corpus. [emphasis added] 
+Id. This holding forecloses Respondent’s § 1983 action 
+here. Preiser also teaches that “a § 1983 is a proper rem- 
+edy for a state prisoner who is making a constitutional 
+challenge to the conditions of his prison life, but not to 
+the fact or length of his custody.” Id. at 499. The District 
+Court relied on Strader v. Troy, 571 F.2d 1263 (4th Cir. 
+1978), which incorrectly interprets Preiser. The Fourth 
+Circuit held in Strader that Preiser stands for the proposi- 
+tion that “§ 1983 may be used to challenge parole pro- 
+cedures” only when the prisoner seeks “consideration for 
+parole.” Relying thus on Strader, the District Court was 
+then able to conclude that Roller’s use of § 1983 was 
+proper because he “does not say he is entitled to parole.” 
+But in fact that is precisely his claim-that he is being 
+unlawfully restrained or confined by being denied an 
+annual parole consideration hearing. He is seeking to 
+shorten his confinement. Historically, this issue has 
+always been addressed by habeas corpus, not § 1983. In 
+order to get into the federal courts on § 1983, Roller 
+strenuously denies that what he seeks is his release from 
+prison. However, his claim that South Carolina has vio- 
+lated the Ex Post Facto Clause of the Constitution appears 
+to be predicated on either of two premises: that annual 
+parole consideration hearings are a part of his punish- 
+ment and that by extending the interval between hear- 
+ings, his punishment has been increased; or that the 
+retroactive denial of an annual parole hearing has sub- 
+stantially disadvantaged him. Either premise asks the 
+Court to focus on the notion that the relief he seeks in his 
+complaint controls whether the claim itself lies in habeas 
+or § 1983. He seeks thereby to divert attention from the 
+core of his complaint, which is nothing other than a 
+challenge to the duration of his physical imprisonment, a 
+challenge which only habeas can address. See Del Raine v. 
+
+
+PDF PAGE 9
+10 
+Carlson, 826 F.2d 698, 702 (7th Cir. 1987); Wilson v. Lock- 
+hart, 949 F.2d 1051 (8th Cir. 1991); Alexander v. Johnson, 742 
+F.2d 117 (4th Cir. 1984). 
+Roller cannot have it both ways. Either he is chal- 
+lenging the increase in the time between his parole hear- 
+ings as constituting an ex post facto violation when 
+applied to him, in which case the action lies solely in 
+habeas corpus (Preiser, 411 U.S. at 500) and must be 
+played out in the South Carolina state courts. Or he is not 
+challenging that increase, in which case it is a mystery 
+just what he might be challenging as the retroactive dis- 
+advantage supposed to be substantial enough to violate 
+the Ex Post Facto Clause. It is clear that the core of his ex 
+post facto challenge, which attacks the retroactively 
+applied decrease in the frequency of his parole consider- 
+ation hearings, is a challenge of his future restraint, in 
+order to obtain for himself an earlier release. To call it 
+anything else is semantic subterfuge. The Fourth Circuit 
+itself has said as much in cases coming after Strader and 
+interpreting Preiser. Leonard v. Hammond, 804 F.2d 838 (4th 
+Cir. 1986); Todd v. Baskerville, 712 F.2d 70 (4th Cir. 1983); 
+Alexander v. Johnson, 742 F.2d 117 (4th Cir. 1984). The 
+Eighth Circuit has well observed that t'e chance for an 
+earlier parole release, or the chance that a sentence might 
+be commuted to a term of years, falls within habeas 
+corpus. The Eighth Circuit justifies this extension of Pre- 
+iser on the grounds that a state court system should have 
+the first opportunity to decide the merits of the underly- 
+ing constitutional issue. Wilson v. Lockhart, 949 F.2d 1051 
+(8th Cir. 1991). 
+11 
+Insofar as Strader ignores all this, it simply gets Pre- 
+iser wrong. And in so doing, Strader needlessly com- 
+pounds the problem, already “difficult enough,” Hamlin 
+v. Warren, 664 F.2d 29, 33 (4th Cir. 1981), cert. denied, 455 
+U.S. 911 (1982), confronting state and federal courts alike: 
+How to sort through the frustrating conflict between the 
+civil rights and habeas corpus remedies for state pris- 
+oners. The heart of this conflict and, more important, how 
+we finally resolve the conflict, implicates our deepest 
+concern for and understanding of certain fundamental 
+notions of federalism and all that that bedrock principle 
+entails in the way of comity between the federal govern- 
+ment and the several states. To rely on Strader, we 
+believe, undermines federalism and upsets the delicate 
+balance which comity helps to keep. Braden v. 30th Judicial 
+Circuit of Kentucky, 410 U.S. 484 (1973) (exhaustion of 
+state-court remedies ensures comity between federal and 
+state courts). For, what Strader suggests is that South 
+Carolina’s right to exercise concurrent jurisdiction with 
+the federal courts in deciding questions of federal consti- 
+tutional law need not be accorded the full respect that 
+federalism says is its due, and may in fact be ignored 
+altogether whenever a state prisoner, crafty enough to 
+capitalize on the confusion now troubling the federal 
+courts, renames his habeas corpus petition a § 1983 claim 
+for relief. 
+The Court should also recognize that there is a fur- 
+ther obstacle in the limitations on suits against the states 
+imposed by the Eleventh Amendment. As this Court 
+stated in the leading case of Will v. Michigan Dept. of State 
+Police, 491 U.S. 58, 65 (1989), “Section 1983 provides a 
+
+
+PDF PAGE 10
+12 
+federal forum to remedy many deprivations of civil liber- 
+ties, but it does not provide a federal forum for litigants 
+who seek a remedy against a State for alleged depriva- 
+tions of civil liberties.” The Eleventh Amendment, as the 
+Court put it, “bars such suits unless the State has waived 
+its immunity.” Id. And South Carolina, we would assure 
+the Court, has never waived its immunity here. Further, 
+although Will suggests that an action against a state offi- 
+cial in his official capacity for prospective injunctive relief 
+under § 1983 is proper because such an action would not 
+be treated as an action against the state, the suggestion 
+doesn’t fit the case here. Id. at 2311, n.10. What Roller is 
+challenging is not the official capacity action of a state 
+official; what he is challenging is the system South Caro- 
+lina has set up for reviewing paroles after a rejection. The 
+difficulty in relying on Strader is thus complicated. And 
+the only way out for the Court, we would suggest, is for 
+the Court to overrule the Fourth Circuit’s reliance on 
+Strader in favor of the lucid reasoning expressed in Preiser 
+and well followed by the Fourth Circuit in Todd and 
+Leonard. 
+The analysis by which cases are included within or 
+excluded from § 1983 is difficult at best. Focusing on the 
+distinction between the nature of the complaint and the 
+nature of the relief is essential. This focus does not, 
+however, always yield a bright-line test. A finer focus 
+may be necessary. If the state has provided a specific legal 
+remedy to address problems arising out of specific issues 
+such as parole, then exhaustion should be required in all 
+cases where the inmate is seeking release or earlier 
+release from confinement. If a state has not provided a 
+13 
+remedy, the debate goes on. This Court has often empha- 
+sized that the states should be allowed to experiment and 
+develop their own procedures. See Gerstein v. Pugh, 420 
+U.S. 103, 123 (1987); Wolff v. McDonnell, 418 U.S. 539 
+(1974); Greenholtz v. Inmates of Nebraska Penal and Correc- 
+tional Complex, 442 U.S. 1 (1979). Finally, it is crucial for 
+the Court to remember that South Carolina has in place 
+adequate state-law remedies-the Uniform Post-Convic- 
+tion Procedure Act, S.C. Code Ann. § 17-27-10 et seq. and 
+the Tort Claims Act, S.C. Code Ann. § 15-78-10 et seq.—that 
+have always been available to Roller. He need only have 
+availed himself of those remedies, which he has chosen 
+not to do. Instead, Roller resorts to the Civil Rights stat- 
+ute in order to circumvent the exhaustion requirements of 
+the habeas corpus statute. For this Court to countenance 
+such highjinks even for a moment would return us to the 
+state of affairs that existed in 1971, before Preiser dealt 
+with the problem. It was a state of affairs that led one 
+judge of the Second Circuit to lament, “[s]tate prisoners 
+are increasingly resorting to the Civil Rights statutes in 
+order to circumvent the [exhaustion] requirements of [the 
+habeas corpus statute].” Rodriguez v. McGinnis, 451 F.2d 
+730 (2d Cir. 1971). The situation, of course, was later 
+corrected when the Court reversed in Preiser. The reason- 
+ing that should guide the Court’s deliberations here is 
+first stated in Preiser. Certainly the Fourth Circuit deci- 
+sion does serious harm to federal-state comity. South 
+Carolina therefore requests that this Court reverse the 
+Fourth Circuit and rule that a challenge to the denial of 
+annual parole consideration hearings can only be brought 
+under the habeas corpus statutes after exhaustion of state 
+remedies. 
+
+
+PDF PAGE 11
+14 
+AN INCREASE IN THE TIME BETWEEN PAROLE 
+CONSIDERATION HEARINGS FROM ONE TO TWO 
+YEARS, APPLIED RETROACTIVELY, IS AN INSUB- 
+STANTIAL PROCEDURAL CHANGE OUTSIDE THE 
+PURVIEW OF THE EX POST FACTO CLAUSE. 
+The ex post facto question isn’t as simple as Roller and 
+the Fourth Circuit have made it out to be. The Fourth 
+Circuit wrongly equates parole eligibility in South Caro- 
+lina with parole reconsideration. Once this equation is 
+made, it is but a short step to the conclusion that the 
+statutory change in question violates the ex post facto 
+prohibition. It is a short step because the equation, albeit 
+an erroneous one, puts the question squarely under the 
+well-established rule that parole eligibility is a substan- 
+tive matter and attaches to the punishment. Change 
+parole eligibility retroactively and to the prisoner’s dis- 
+advantage, and the prohibition against ex post facto laws 
+is violated. 
+True enough. But the point is wholly irrelevant to the 
+question here. The change in the procedure setting the 
+time between parole consideration hearings is a matter of 
+great importance. But it is qualitatively and quan- 
+titatively different from a change in parole eligibility. In 
+South Carolina, once a prisoner becomes eligible for 
+parole on his sentence the eligibility vests; thereafter, he 
+is reconsidered for parole every year. In South Carolina, a 
+prisoner becomes eligible for parole on his sentence only 
+once; thereafter, he is reconsidered for parole every year 
+(in the case of non-violent offenders) or every two years 
+(in the case of violent offenders). See S.C. Code Ann. 
+§§ 24-21-645 and 24-21-650 (1976). (J.A. 40) Roller’s date 
+15 
+of eligibility for parole has not changed; that date was 
+fixed from the start. See S.C. Code Ann. § 24-21-610 (1976), 
+as amended. (J.A. 37) What has changed is the procedure 
+governing the interval between parole hearings after a 
+rejection. For Roller that interval used to be one year (see 
+§ 24-21-620); now it is two years (see § 24-21-645). (J.A. 
+39, 40 respectively) This is all that has been changed. No 
+punishment has been added to Roller’s original sentence 
+after the fact. His sentence has not been lengthened. His 
+parole eligibility has not been revoked or altered in any 
+way. No “gain time” credits have been lost retroactively. 
+As the Supreme Court of South Carolina found in Gunter 
+v. State, 298 S.C. 113, 378 S.E.2d 443 (1989), “the standards 
+governing petitioner’s parole eligibility have not been 
+changed. Instead, only the frequency with which peti- 
+tioner can be reconsidered for parole has been altered.” 
+The only change in Roller’s situation is just this and 
+nothing more-an insubstantial procedural change deter- 
+mining how frequently he will be reconsidered for parole. 
+South Carolina concedes that this change does oper- 
+ate to the prisoner’s disadvantage, but it most certainly 
+does not offend the Ex Post Facto Clause. Not all retroac- 
+tive changes offend, a point well-established in the prece- 
+dent of this Court: 
+[T]he prohibition of ex post facto laws does not 
+extend to every change of law that “may work 
+to the disadvantage of a defendant.” It is 
+intended to secure “substantial personal rights” 
+from retroactive deprivation and does not “limit 
+the legislative control of remedies and modes of 
+procedure which do not affect matters of sub- 
+stance.” 
+
+
+PDF PAGE 12
+16 
+Portley v. Grossman, 444 U.S. 1311, 1312 (1980), quoting 
+Dobbert v. Florida, 432 U.S. 282, 293 (1977). See also, Miller 
+v. Florida, 482 U.S. 423 (1987); Beazell v. Ohio, 269 U.S. 167, 
+(1925); Hopt v. Utah, 110 U.S. 574, 590 (1884). 
+This Court reminds us in Collins v. Youngblood, 497 
+U.S. 37, (1990), that we must go back tb the beginnings of 
+ex post facto analysis, to clear the books of much of the 
+confusion that has arisen in recent years. In Beazell v. 
+Ohio, 269 U.S. 167, 171 (1925), this Court confidently 
+summarized the general rule of ex post facto analysis, 
+which had its beginning in Calder v. Bull, 3 Dall. 386 
+(1798): 
+It is settled, by decisions of this Court so well 
+known that their citation may be dispensed 
+with, that any statute which punishes as a crime 
+an act previously committed, which was inno- 
+cent when done; which makes more burden- 
+some the punishment for a crime, after its 
+commission, or which deprives one charged 
+with crime of any defense available according to 
+law at the time when the act was committed, is 
+prohibited as ex post facto [citations omitted]. 
+Collins, which goes back to Calder via Beazell, reminds us 
+of the Court’s own “original understanding” of the Ex 
+Post Facto Clause. Id. at 42. That original understanding 
+rejects the notion—now increasingly current in some Cir- 
+cuits, and among them, the Fourth Circuit, in particular- 
+that any change which alters the situation of a party to 
+his disadvantage effectively violates the Ex Post Facto 
+Clause. Id. at 49. Collins emphasizes, in both its majority 
+and concurring opinions, that the Ex Post Facto Clause 
+“was intended to secure substantial personal rights 
+17 
+against arbitrary and oppressive legislation.” Id. at 46 and 
+57, quoting Malloy v. South Carolina, 237 U.S. 180, 183 
+(1915). Just what alterations of procedure will be held to 
+be of sufficient moment to transgress the constitutional 
+prohibition “cannot be embraced within a formula or 
+stated in a general proposition. The distinction is one of 
+degree.” Collins at 57, quoting Malloy. 
+The Fourth Circuit’s reasoning leaves no room for 
+this tried and true distinction. It leaves no room for case- 
+by-case analysis of ex post facto problems based on the 
+countless variations of fact these cases present. It also 
+leaves no room for case-by-case analysis based on the 
+numerous variations of law within the several states. The 
+Fourth Circuit’s analysis reduces all levels of complexity 
+to the lowest common denominator of simplicity: all 
+changes in the law which operate retroactively to the 
+disadvantage of the convicted criminal, no matter how 
+slight, violate the prohibition against ex post facto laws. 
+Furthermore, the Fourth Circuit’s simplistic analysis 
+effectively homogenizes all state laws in such a way as to 
+obliterate their distinctive differences. This reduction of 
+differences for the sake of easy analysis ignores all state 
+lines and state laws. Ultimately, it discourages states from 
+once-permissible experimentation. 
+Such a reduction occurs when the Fourth Circuit 
+likens the case of Akins v. Snow, 922 F.2d 1558 (11th Cir. 
+1991), to this case. Whether the Fourth Circuit sees it or 
+not, this case is distinct from Akins, and the distinction is 
+based on an important matter of substance and degree, 
+one which this Court has recognized under Collins v. 
+Youngblood. As a matter of law and fact, the situation 
+presented in Akins is vastly different from the situation 
+
+
+PDF PAGE 13
+18 
+here. In Akins, the interval between parole reconsidera- 
+tion hearings after a denial was increased from one year 
+to eight years. This was even longer than it took to 
+become eligible for parole in the first instance, which was 
+seven years in Akins’ case. The Eleventh Circuit equated 
+the period between parole hearings with parole eligibility 
+itself. It did so on the basis of its finding that the Georgia 
+legislature “considers a parole reconsideration hearing an 
+essential and important part of parole eligibility.” 922 
+F.2d at 1562. It was then easy for the Akins Court to 
+conclude that the change increased the punishment retro- 
+actively and therefore violated the prohibition against ex 
+post facto laws. It is important to emphasize, once again, 
+that in South Carolina parole eligibility and parole recon- 
+sideration are statutorily two different things, separate 
+and distinct. 
+The Fourth Circuit’s decision, however, ignores this 
+crucial distinction between parole eligibility and the 
+scheduling of parole consideration hearings. In doing so, 
+the Fourth Circuit, without expressly saying so, con- 
+cludes that a change in the scheduling of parole consider- 
+ation hearings is the same thing as a change in the 
+inmate’s parole eligibility (as the Akins Court held) and 
+therefore is a violation of the Ex Post Facto Clause. The 
+sweeping import of the Fourth Circuit’s analysis is that 
+no change in a state’s parole procedure which disadvan- 
+tages an inmate can be made. This result conflicts with 
+the holding in Collins, as well as the holdings in Dobbert 
+ahd Portley. Supra. 
+South Carolina would not deny that even under its © 
+own parole system such a change as was at issue in Akins 
+would violate the Ex Post Facto Clause. Clearly, any 
+19 
+increase of seven years, from one to eight years between 
+parole reconsideration hearings, operates as a substantial 
+disadvantage by denying the inmate a meaningful oppor- 
+tunity for a parole hearing. See Rodriguez v. U.S. Parole 
+Commission, 594 F.2d 170, 174-175 (7th Cir. 1979). Such a 
+degree of change is of sufficient moment to transgress the 
+constitutional prohibition. Indeed, a change in parole 
+review potentially far more severe than the one before the 
+Court here-a denial of annual parole review where the 
+law had previously provided for such review-was 
+recently upheld by the Eighth Circuit, reviewing a change 
+in Minnesota’s parole release mechanism, as presenting 
+no ex post facto violation. See Bailey v. Gardebring, 940 F.2d 
+1150 (8th Cir. 1991), cert. denied, Bailey v. Noot, 112 S.Ct. 
+1516 (1992). In Bailey, the prisoner lost not only his annual 
+parole review but any scheduled date of review. The 
+Eighth Circuit went so far as to hold that Minnesota’s 
+parole regulations were not laws for the purpose of the 
+Ex Post Facto Clause. Id. South Carolina’s parole law does 
+not go anywhere near this extreme. This is how Collins 
+would approach the Akins problem. Looking at the facts 
+of the case at bar, Collins would say that nothing of the 
+kind has occurred here. Roller has had, and still enjoys, a 
+meaningful opportunity for parole under South Caro- 
+lina’s system of paroles. 
+South Carolina has more freedom than Georgia to 
+experiment with changes in parole reconsideration, because 
+South Carolina’s parole laws do not make parole recon- 
+sideration an integral or essential part of parole eligi- 
+bility, as do Georgia’s parole laws. South Carolina should 
+not lose its legitimate freedom to experiment with its 
+parole system in the way that it has distinguished 
+
+
+PDF PAGE 14
+20 
+between parole reconsideration hearings for violent and 
+non-violent offenders. South Carolina will lose a large 
+part of that legitimate freedom to experiment if the 
+Fourth Circuit’s holding is affirmed. This Court has well 
+recognized that the several states should be encouraged 
+to develop their own parole systems and be allowed to 
+experiment with ways of improving those parole systems. 
+Greenholtz v. Inmates of Nebraska Penal and Correctional 
+Complex, 442 U.S. 1 (1979); Gerstein v. Pugh, 420 U.S. 103 
+(1975). Wolff v. McDonnell, 418 U.S. 539 (1974). The Fourth 
+Circuit’s approach to ex post facto analysis, as evinced 
+here, undermines this Court’s wise concern for the right 
+of every state to fashion its own parole system, leaving to 
+each state as much freedom as possible under the federal 
+constitution. The Court should find, therefore, that this 
+case presents no violation of the Ex Post Facto Clause and 
+reverse the Fourth Circuit’s decision. 
++ 
+21 
+CONCLUSION 
+Based upon the foregoing reasons, the judgment of 
+the Fourth Circuit Court of Appeals should be reversed. 
+This Court should hold that 42 U.S.C. § 1983 does not 
+afford a jurisdictional avenue to challenge South Caro- 
+lina’s parole system, and it should further hold that South 
+Carolina’s retroactive application of a two-year wait 
+between parole consideration hearings does not violate 
+the Ex Post Facto Clause. 
+Respectfully submitted, 
+T. Travis MEDLOcK, 
+Attorney General 
+Epwin E. Evans, Esq. 
+Chief Deputy Attorney General 
+Cart N. LUNDBERG, 
+Counsel of Record 
+Chief Legal Counsel 
+S. C. Dept. of Probation, Parole, 
+and Pardon Services 
+P.O. Box 50666 
+Columbia, SC 29250 
+(803) 734-9207 
+
+
+PDF PAGE 15
+wl 
+co 
+prosey 
+JO 
+Tesunu7 
+OvVO9-ITZL/PTE 
+SOTE9 
+TanosstW 
+‘uo 
+jAeTD 
+TOE 
+3TNS 
+‘JeTepuozeD 
+goog 
+‘O*'d 
+‘Teputs/¥ 
+Teputs 
+90vE7# 
+“IRGNIS 
+/H 
+GUYpOIU 
+4 
+‘peaqtwaqrs 
+[nyj0edsey 
+“3OW 
+SOTISNC 
+TeUTWTID 
+sy 
+O32 
+AQUeNsind 
+ueTtTYog 
+tJeydoystazay9 
+quepuodssey 
+ jueseidezt 
+03 
+[esunoo 
+peubtsispun 
+ay 
+pejutodde 
+steeddy 
+fo 
+31n09 
+3tTnDA1TD 
+y3y5tg 
+ey 
+ 3eYyA 
+punorzH 
+syq 
+uo 
+seTny 
+4anoz 
+eweidns 
+‘T*6€ 
+eTnY 
+yaTM 
+souepioosse 
+ut 
+stiedned 
+ewi0y 
+ut 
+pesssoid 
+OF 
+eAPST 
+WTY 
+JUeIB 
+AiInOD 
+sty 
+Asenbex 
+Attnjqoedse1 
+03 
+‘Tesunos 
+ybnozy3 
+pue 
+Aq 
+‘ueTyog 
+Azeydoystiauz 
+quepucdsey 
+MON 
+SgZWOD 
+STURdNWd 
+WHUOd 
+NI 
+daadoud 
+OL 
+ZAWZT 
+YOd 
+NOILOW 
+S,LNSGNOdSau 
+*jUuepuodssey 
+‘N3THO@ 
+YFHdOLSIYHD 
+i tt ee 
+"A 
+OOST-Z6 
+°ON 
+‘SI@UOTITIed 
+yaa 
+3H 
+40 
+3010 
+} 
+‘NOXIN 
+(AWC) 
+“M 
+HWIWG@UaC 
+| 
+pue 
+Iuvdswd 
+Invad 
+S661 
+1 
+AVI 
+SALWLS 
+GSLINA 
+3HL 
+dO 
+LUNOD 
+AWaYaNS 
+AHL 
+NI 
+Gutig SN 
+‘00, 
+ewesdng 
