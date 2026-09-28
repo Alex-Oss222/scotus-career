@@ -541,13 +541,14 @@ The legality of the asserted exceptions can be decided without independently cal
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The completed simulated maritime allocation cases support the distinction between allocating fault once and compensating the adjudicated share. They do not make comparative fault or an ordinary liability dispute an independent basis to deny prejudgment interest.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The completed simulated maritime allocation cases support the distinction between allocating fault once and compensating the adjudicated share. They do not make comparative fault or an ordinary liability dispute an independent basis to deny prejudgment interest.
 
 ## B. FIXED CORE
 
@@ -560,7 +561,7 @@ The legality of the asserted exceptions can be decided without independently cal
 - **Required Legal Propositions:** Mutual fault and a genuine dispute over liability, without more, do not justify denying maritime prejudgment interest on an otherwise compensable loss. Affirm the remand for calculation, leaving rate, period, and any lawfully open distinct issue to the trial court.
 - **Express Exclusions:** Automatic denial for mutual fault; punishment of a reasonable defense; an interest amount invented from the claimant’s demand.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -987,13 +988,14 @@ The declaration-only stay may be evaluated. Any claimed additional coercive caus
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The proposed Wilton result is consistent with simulated Ankenbrandt only if it is grounded in the Declaratory Judgment Act's own discretionary remedy. It must not be stated as a broad new abstention license for coercive claims or nonparallel proceedings.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The proposed Wilton result is consistent with simulated Ankenbrandt only if it is grounded in the Declaratory Judgment Act's own discretionary remedy. It must not be stated as a broad new abstention license for coercive claims or nonparallel proceedings.
 
 ## B. FIXED CORE
 
@@ -1006,7 +1008,7 @@ The declaration-only stay may be evaluated. Any claimed additional coercive caus
 - **Required Legal Propositions:** Brillhart governs this declaration-only coverage action, and the district court’s reasoned stay is reviewed for abuse of discretion. The adequate parallel state proceeding and duplicative issues support the stay. Affirm, without deciding independent coercive claims or nonparallel cases.
 - **Express Exclusions:** Treating statutory discretion as lack of jurisdiction; an unconditional first-filed rule; dismissal that needlessly risks loss of a forum.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1286,13 +1288,14 @@ The legal modification question can be decided; all actual compensation conseque
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** Greenwich Collieries is the material completed same-field refresh. It supports the brief's allocation of proof to the modification proponent but does not create a presumption from wages or alter §22's grounds.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** Greenwich Collieries is the material completed same-field refresh. It supports the brief's allocation of proof to the modification proponent but does not create a presumption from wages or alter §22's grounds.
 
 ## B. FIXED CORE
 
@@ -1305,7 +1308,7 @@ The legal modification question can be decided; all actual compensation conseque
 - **Required Legal Propositions:** Section 22 permits modification of a nonscheduled disability award for a demonstrated change in injury-related earning capacity even when physical impairment is unchanged. Reverse and remand for application of the full economic-capacity standard, not automatic termination from increased wages.
 - **Express Exclusions:** Automatic termination from wages; a physical-change prerequisite absent from the nonscheduled economic definition; unrestricted reopening of final awards.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1719,13 +1722,14 @@ Complete proposed legal positions are supplied for the admitted pure-law controv
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The simulation contains no controlling direct-evidence requirement. The proposed vacatur should therefore correct the categorical evidentiary rule without using interlocutory review to resolve disputed motive, participation, or causation.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The simulation contains no controlling direct-evidence requirement. The proposed vacatur should therefore correct the categorical evidentiary rule without using interlocutory review to resolve disputed motive, participation, or causation.
 
 ## B. FIXED CORE
 
@@ -1738,7 +1742,7 @@ Complete proposed legal positions are supplied for the admitted pure-law controv
 - **Required Legal Propositions:** The legality of a categorical direct-evidence condition is a separable question of law; review of that question does not authorize appellate resolution of contested motive, participation, or causation. The remand must preserve the applicable boundary of interlocutory jurisdiction. Qualified immunity does not impose a categorical requirement of direct evidence of unconstitutional motive. A plaintiff must satisfy the actual constitutional elements and ordinary procedural burdens through legally competent direct or circumstantial proof. Vacate the judgment applying the contrary requirement.
 - **Express Exclusions:** Importing the historical Johnson v. Jones holding; treating a circuit concurrence as Supreme Court law; a direct-evidence or invented heightened-quantum requirement; granting damages from allegations alone.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -2147,13 +2151,14 @@ The lawful instruction and new-trial consequence may be decided; ultimate statut
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The proposed Chandris position now expressly follows the simulation's Gizoni holding. It may clarify nature and duration as aspects of the vessel-connection inquiry, but it should not invent a numerical percentage or treat drydock service as categorically irrelevant.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The proposed Chandris position now expressly follows the simulation's Gizoni holding. It may clarify nature and duration as aspects of the vessel-connection inquiry, but it should not invent a numerical percentage or treat drydock service as categorically irrelevant.
 
 ## B. FIXED CORE
 
@@ -2166,7 +2171,7 @@ The lawful instruction and new-trial consequence may be decided; ultimate statut
 - **Required Legal Propositions:** Seaman status requires performance contributing to a vessel’s mission and a substantial employment-related connection to that vessel or an identifiable fleet, assessed in the nature and duration of the actual assignment. Neither a job label nor an isolated moment aboard conclusively decides the question. The categorical drydock instruction was not justified by a record permitting only one navigation-status conclusion and swept too broadly in excluding the period for every purpose. The preserved error affected the contested status determination. Affirm the new trial without deciding ultimate status or negligence.
 - **Express Exclusions:** Status from labels alone; a universal rule that drydock means out of navigation; retroactive entitlement from later work; automatic reversal on unpreserved instructions.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -2498,13 +2503,14 @@ The prosecution bar may be decided; a future sentencing dispute requires its own
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** This is a substantive correction. The prior brief incorrectly said simulated Dixon displaced Grady. It did the opposite: Grady survives. The proposed affirmance remains coherent only because the earlier marijuana sentencing used cocaine conduct to determine punishment for the marijuana offense; it was not a prior prosecution of the cocaine offense. Felix's evidence-use distinction, rather than a historical overruling of Grady, supports that route.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** This is a substantive correction. The prior brief incorrectly said simulated Dixon displaced Grady. It did the opposite: Grady survives. The proposed affirmance remains coherent only because the earlier marijuana sentencing used cocaine conduct to determine punishment for the marijuana offense; it was not a prior prosecution of the cocaine offense. Felix's evidence-use distinction, rather than a historical overruling of Grady, supports that route.
 
 ## B. FIXED CORE
 
@@ -2517,7 +2523,7 @@ The prosecution bar may be decided; a future sentencing dispute requires its own
 - **Required Legal Propositions:** Consideration of relevant uncharged conduct in selecting a sentence within the statutory range for the offense of conviction does not itself constitute punishment for the uncharged offense under the Double Jeopardy Clause. The prior marijuana sentence therefore does not bar this cocaine prosecution. The possibility of a later overlapping sentence does not itself bar this prosecution. Any resulting sentence must be calculated under the applicable coordination provisions and independent constitutional limits; no particular consecutive or concurrent sentence is approved here.
 - **Express Exclusions:** A same-evidence bar; any overruling or silent narrowing of simulated Grady; a guarantee of cumulative imprisonment; reliance on sentencing labels alone; use of Kurth Ranch beyond its distinct punitive-exaction setting.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
