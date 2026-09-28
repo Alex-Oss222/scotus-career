@@ -1099,7 +1099,6 @@ The Court may define the permissible litigation and refer factual questions. It 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1459,7 +1458,6 @@ The consolidated limitations issue may be resolved. No additional Crown Cork bri
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1953,7 +1951,6 @@ Statutory interpretation and the scope of necessary findings may be resolved; th
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
