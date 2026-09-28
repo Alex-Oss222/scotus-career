@@ -1,0 +1,139 @@
+{
+  "Romano v. Oklahoma": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Vacate appellate judgment insofar as it sustains Sarfaty death sentence and remand; guilt untouched",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Contextual responsibility extension and violation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Prior deletion and reweighing do not resolve responsibility error; common appellate vacatur/remand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Unconditional new penalty hearing if State seeks death, with Blackmun broader reservation",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "First Chapman harmlessness inquiry; conditional new penalty hearing",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Independent ordinary-due-process rejection",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Rejection of general constitutional evidence-code theory",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Independent as-administered capital-punishment objection and preferred noncapital disposition",
+        "support": [
+          "Blackmun"
+        ],
+        "controlling": false
+      }
+    ],
+    "writings": [
+      {
+        "author": "Souter",
+        "form": "Court opinion for responsibility and common vacatur/remand; plurality further remedy",
+        "court_joins": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ],
+        "plurality_remedy_joins": [
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ]
+      },
+      {
+        "author": "Stone",
+        "form": "Concurrence in part and in judgment",
+        "joins": []
+      },
+      {
+        "author": "Blackmun",
+        "form": "Concurrence preserving independent broader ground and noncapital preference",
+        "joins": []
+      },
+      {
+        "author": "O'Connor",
+        "form": "Dissent",
+        "joins": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ],
+    "fallback_used": false,
+    "remedial_fracture": "No further-remedy route has five votes; no Marks rule declared. Four new-hearing, one first-harmlessness, four no-error affirmance."
+  }
+}

@@ -9,7 +9,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1993-11-09 | OT_1993CHUNK1 | Harris v. Forklift Systems, Inc. | No. 92-1168 | MERITS | Signed opinion | Completed: Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md |
 | 1993-11-09 | OT_1993CHUNK1 | Florence County School District Four v. Carter | No. 91-1523 | MERITS | Signed opinion | Completed: Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md |
 | 1993-11-30 | OT_1993CHUNK1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | No. 92-1123 | MERITS | Per curiam post-grant procedural disposition | Completed: Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md |
-| 1993-11-30 | OT_1993CHUNK1 | Cavanaugh v. Roller | No. 92-1510 | MERITS | Per curiam post-grant procedural disposition | Completed: Cavanaugh_v_Roller_merits_1993-11-30.md |
+| 1993-11-30 | OT_1993CHUNK1 | Cavanaugh v. Roller | No. 92-1510 | MERITS | Merits decision (expressly authorized completion) | Completed: Cavanaugh_v_Roller_merits_1993-11-30.md |
 | 1993-12-13 | OT_1993CHUNK1 | United States v. James Daniel Good Real Property | No. 92-1180 | MERITS | Signed opinion | Completed: United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md |
 | 1993-12-13 | OT_1993CHUNK1 | John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank | No. 92-1074 | MERITS | Signed opinion | Completed: John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md |
 | 1993-12-13 | OT_1993CHUNK1 | Tennessee v. Middlebrooks | No. 92-989 | MERITS | Per curiam post-grant procedural disposition | Completed: Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md |
@@ -64,18 +64,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-05-31 | OT_1993CHUNK5 | Waters v. Churchill | No. 92-1450 | MERITS | Signed opinion | Completed: Waters_v_Churchill_merits_1994-05-31.md |
 | 1994-05-31 | OT_1993CHUNK5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | No. 92-1911 | MERITS | Signed opinion | Completed: PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md |
 | 1994-06-06 | OT_1993CHUNK5 | Nichols v. United States | No. 92-8556 | MERITS | Signed opinion | Completed: Nichols_v_United_States_merits_1994-06-06.md |
-| 1994-06-06 | OT_1993CHUNK6 | Farmer v. Brennan | No. 92-7247 | MERITS | Signed opinion | Completed: Farmer_v_Brennan_merits_1994-06-06.md |
-| 1994-06-06 | OT_1993CHUNK6 | Department of Revenue of Montana v. Kurth Ranch | No. 93-144 | MERITS | Signed opinion | Completed: Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md |
-| 1994-06-06 | OT_1993CHUNK6 | Digital Equipment Corp. v. Desktop Direct, Inc. | No. 93-405 | MERITS | Signed opinion | Completed: Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md |
-| 1994-06-06 | OT_1993CHUNK6 | Key Tronic Corp. v. United States | No. 93-376 | MERITS | Signed opinion | Completed: Key_Tronic_Corp_v_United_States_merits_1994-06-06.md |
-| 1994-06-13 | OT_1993CHUNK6 | City of Ladue v. Gilleo | No. 92-1856 | MERITS | Signed opinion | Completed: City_of_Ladue_v_Gilleo_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | O’Melveny & Myers v. FDIC | No. 93-489 | MERITS | Signed opinion | Completed: OMelveny_Myers_v_FDIC_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | Romano v. Oklahoma | No. 92-9093 | MERITS | Signed opinion | Completed: Romano_v_Oklahoma_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | No. 93-639 | MERITS | Signed opinion | Completed: Ibanez_v_Florida_Board_of_Accountancy_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | Livadas v. Bradshaw | No. 92-1920 | MERITS | Signed opinion | Completed: Livadas_v_Bradshaw_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | United States v. Carlton | No. 92-1941 | MERITS | Signed opinion | Completed: United_States_v_Carlton_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | No. 93-377 | MERITS | Signed opinion | Completed: Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md |
-| 1994-06-13 | OT_1993CHUNK6 | Howlett v. Birkdale Shipping Co., S.A. | No. 93-670 | MERITS | Signed opinion | Completed: Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md |
+| 1994-06-06 | OT_1993CHUNK6 | Farmer v. Brennan | No. 92-7247 | MERITS | Signed opinion | Open |
+| 1994-06-06 | OT_1993CHUNK6 | Department of Revenue of Montana v. Kurth Ranch | No. 93-144 | MERITS | Signed opinion | Open |
+| 1994-06-06 | OT_1993CHUNK6 | Digital Equipment Corp. v. Desktop Direct, Inc. | No. 93-405 | MERITS | Signed opinion | Open |
+| 1994-06-06 | OT_1993CHUNK6 | Key Tronic Corp. v. United States | No. 93-376 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | City of Ladue v. Gilleo | No. 92-1856 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | O’Melveny & Myers v. FDIC | No. 93-489 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | Romano v. Oklahoma | No. 92-9093 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | No. 93-639 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | Livadas v. Bradshaw | No. 92-1920 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | United States v. Carlton | No. 92-1941 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | No. 93-377 | MERITS | Signed opinion | Open |
+| 1994-06-13 | OT_1993CHUNK6 | Howlett v. Birkdale Shipping Co., S.A. | No. 93-670 | MERITS | Signed opinion | Open |
 | 1994-06-17 | OT_1993CHUNK7 | Simmons v. South Carolina | No. 92-9059 | MERITS | Signed opinion | Open |
 | 1994-06-17 | OT_1993CHUNK7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | No. 93-356; consolidated review included No. 93-521 | MERITS | Signed opinion | Open |
 | 1994-06-17 | OT_1993CHUNK7 | West Lynn Creamery, Inc. v. Healy | No. 93-141 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** June 13, 1994, through all twelve chunk-6 matters; the June 6 and June 13 inventory groups are complete. Next: Simmons v. South Carolina (June 17, 1994, chunk 7) is the next inventory event. The completed June 6 cases, including Nichols, shared their start-of-day baseline and enter the June 13 cases only prospectively. The eight June 13 cases shared their own start-of-day baseline. Future matters receive the completed earlier law only within its scope.
+- **Current chronology cursor.** June 6, 1994, through Nichols; the other uncoordinated June 6 inventory matters remain unprocessed. Next: Farmer v. Brennan (June 6, 1994, chunk 6) is the next inventory event. Nichols and the unprocessed June 6 cases share the start-of-day baseline; Nichols does not enter those uncoordinated same-day cases. Staples entered Posters in the express May 23 sequence. Completed May 23 law enters May 31 only within its scope; the independent May 31 pair shared its entering baseline.
 
 ## Manifest controls and limitations
 
@@ -144,7 +144,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 Day and Sassower's current fee components are permanently closed without Court action under their replacement lineage; their prospective decisions stand. Cavanaugh is completed by the November 30 merits decision. No component of these three matters is open or stopped.
 
-Simmons v. South Carolina (June 17, 1994, chunk 7) is the next inventory event. The completed June 6 cases, including Nichols, shared their start-of-day baseline and enter the June 13 cases only prospectively. The eight June 13 cases shared their own start-of-day baseline. Future matters receive the completed earlier law only within its scope.
+Farmer v. Brennan (June 6, 1994, chunk 6) is the next inventory event. Nichols and the unprocessed June 6 cases share the start-of-day baseline; Nichols does not enter those uncoordinated same-day cases. Staples entered Posters in the express May 23 sequence. Completed May 23 law enters May 31 only within its scope; the independent May 31 pair shared its entering baseline.
 
 ## Pending original writ after the completed May 2 fee action
 

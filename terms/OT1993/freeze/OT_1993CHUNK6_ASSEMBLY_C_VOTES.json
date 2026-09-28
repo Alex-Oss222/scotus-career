@@ -1,0 +1,278 @@
+{
+  "Livadas v. Bradshaw": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Independent wage claim, bargaining-based nonenforcement and §1983 policy challenge",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "An independent wage-penalty claim is not preempted by §301",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "California may not penalize completion of protected collective bargaining",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Section 1983 supplies a channel for this identified federal labor right",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      }
+    ],
+    "record": "Livadas_v_Bradshaw_merits_1994-06-13.md"
+  },
+  "United States v. Carlton": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Retroactive ownership amendment and the narrowed refund entitlement",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Express statutory temporal direction with separate constitutional review",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Rational corrective purpose and modest period defeat this due-process challenge despite actual reliance",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "O'Connor revenue-purpose and temporal rationale",
+        "support": [
+          "O'Connor"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Scalia/Thomas procedural due-process rationale",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ],
+    "record": "United_States_v_Carlton_merits_1994-06-13.md"
+  },
+  "Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Categorical trader preemption and the alternative facial excessive-burden ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Federal trader regulation does not displace reasonable collection of valid nonmember taxes",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Probable-demand limits and prior approval survive only at facial scope",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      }
+    ],
+    "record": "Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md"
+  },
+  "Howlett v. Birkdale Shipping Co., S.A.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Turnover-warning summary judgment and proper knowledge/obviousness inquiry",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "The cargo turnover-warning duty is limited by the vessel’s assigned care",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Knowledge and obviousness require the correct actor and time on remand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      }
+    ],
+    "record": "Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md"
+  }
+}

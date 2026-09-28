@@ -1,0 +1,10 @@
+{
+  "source": "approved brief mechanically split, no source text rewritten",
+  "runtime_sha256": {
+    "NEUTRAL": "6b1e32cb7330e7258105be609f40ea6496a9f7f3b54ce1be8e8feaf640f9e0ac",
+    "STONE": "603b55ca0e33e93b443a3c6cd56cf72a4c514f6000c4a81f39610bb900dd8823",
+    "COMPARATOR": "d1cd4ecd30452bbc751c66490d31efa88b13153abc42b771cfe2e34941584aa7"
+  },
+  "approval": "User directs adjudication using Section II as written; September 27, 2026",
+  "git": "No Git command; deferred operator verification and commitment"
+}

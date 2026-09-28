@@ -1,0 +1,268 @@
+{
+  "City of Ladue v. Gilleo": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm injunction against replacement residential-sign prohibition",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Near-total residential-channel elimination with inadequate alternatives violates First Amendment, assuming neutrality",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Deleting exemptions alone cannot cure the residential-channel defect; Stone separate qualification",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      }
+    ],
+    "record": "City_of_Ladue_v_Gilleo_merits_1994-06-13.md"
+  },
+  "O’Melveny & Myers v. FDIC": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse federal-common-law ruling and remand for California law",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Pre-FIRREA significant-conflict analysis requires California law for these acquired claims",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Conditional FIRREA construction supplies no federal anti-imputation rule and leaves temporal reach undecided",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "State courts may develop their own common law as explained in Stevens concurrence",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter"
+        ],
+        "controlling": false
+      }
+    ],
+    "record": "OMelveny_Myers_v_FDIC_merits_1994-06-13.md"
+  },
+  "Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse CPA ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Reverse CFP prohibition ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor"
+        ]
+      },
+      {
+        "name": "Reject actual paragraph (j) disclosure as basis of reprimand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor"
+        ]
+      },
+      {
+        "name": "Reverse/remand for setting aside both challenged grounds; opposition would retain CFP basis with conforming administrative action if needed",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Truthful active CPA license is not falsified by legal objection to regulatory authority",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "This private CFP representation not proved actually or inherently deceptive and prohibition unjustified as applied",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Actual immediate and extensive paragraph (j) disclosure burden unjustified on this record",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "CFP prohibition constitutional as applied under OConnor inherent-deception rationale",
+        "support": [
+          "O'Connor"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Paragraph (j) independently valid as applied if CFP speech merely potentially misleading",
+        "support": [
+          "O'Connor"
+        ],
+        "controlling": false
+      }
+    ],
+    "record": "Ibanez_v_Florida_Board_of_Accountancy_merits_1994-06-13.md"
+  }
+}

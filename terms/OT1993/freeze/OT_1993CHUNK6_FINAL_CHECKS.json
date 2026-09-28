@@ -1,0 +1,144 @@
+{
+  "baseline_files": 1534,
+  "new_records": 12,
+  "records": {
+    "City_of_Ladue_v_Gilleo_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Affirmed, 9–0; the residential-sign injunction remains effective.",
+      "sha256": "329a9883403b5961500002cd4518aa235d37413b311729d23a72d197b3716cf1"
+    },
+    "Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md": {
+      "date": "1994-06-06",
+      "result": "**Result:** Affirmed, 6–3; O'Connor would vacate and remand, Scalia and Thomas would reverse.",
+      "sha256": "35a3f1756cc32b1c119e186a807bc912a6e3ac2f44af02e620d92815aa3a1b1a"
+    },
+    "Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Reversed and remanded, 9–0.",
+      "sha256": "450ac548d27c05363efc8b8f5655bbd5eb99d9b7e8098e3f4012193aff822496"
+    },
+    "Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md": {
+      "date": "1994-06-06",
+      "result": "**Result:** Affirmed, 9–0; one controlling alternative has eight joins.",
+      "sha256": "ffea724c3a7d4a1143c61b451fc836743026a6efada7cef097aa307448d94290"
+    },
+    "Farmer_v_Brennan_merits_1994-06-06.md": {
+      "date": "1994-06-06",
+      "result": "**Result:** Vacated and remanded, 9–0.",
+      "sha256": "40d06652e5a8e520472eb7d237cfa71c3dd16a2cdae2622778a7f31c09cac29c"
+    },
+    "Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Vacated and remanded, 9–0.",
+      "sha256": "306ee9375dde232f96a02dc0115f2ea03ebdebdf382760e6a8941a2bc7bc263d"
+    },
+    "Ibanez_v_Florida_Board_of_Accountancy_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Reversed and remanded; CPA ground 9–0, CFP and actual disclosure justification 8–1; O’Connor dissents in part.",
+      "sha256": "b5280770684513d2ad72935cd31f9fe4ce6f830fde7b77ad75c4e0eac2ec24aa"
+    },
+    "Key_Tronic_Corp_v_United_States_merits_1994-06-06.md": {
+      "date": "1994-06-06",
+      "result": "**Result:** Affirmed in part, reversed in part, and remanded; litigation fees 6–3, other categories 9–0.",
+      "sha256": "c410cae202e636414c1faa98b3856840148869251a8d7e5b58d966db7b81acea"
+    },
+    "Livadas_v_Bradshaw_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Reversed and remanded, 9–0.",
+      "sha256": "ca20a08872bdccd9f08bc5193bc2e4c24d73184ce92fb1a8c67cc6de74e15f11"
+    },
+    "OMelveny_Myers_v_FDIC_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Reversed and remanded, 9–0, for California-law consideration; liability and FIRREA temporal application remain undecided.",
+      "sha256": "7f4300fca3289b35eb86681b3be27f3bc8b460ace9d0f5801c82f69ec81cf3b2"
+    },
+    "Romano_v_Oklahoma_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Vacate the Oklahoma appellate judgment insofar as it sustains the Sarfaty death sentence and remand, 5–4; five-Justice responsibility holding; further remedial instructions fractured.",
+      "sha256": "ac1474eebc55842ee56512919f36691a35c9464b0e845c582525175cd3b871bd"
+    },
+    "United_States_v_Carlton_merits_1994-06-13.md": {
+      "date": "1994-06-13",
+      "result": "**Result:** Reversed and remanded, 9–0.",
+      "sha256": "1f5897a96fe4fdcfaf62642bb71f25fbf47b6e3fd653cf78ed6bff617aabf77e"
+    }
+  },
+  "holding_explanation_word_counts": {
+    "City_of_Ladue_v_Gilleo_merits_1994-06-13.md": [
+      161
+    ],
+    "Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md": [
+      168
+    ],
+    "Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md": [
+      174,
+      169
+    ],
+    "Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md": [
+      160,
+      161
+    ],
+    "Farmer_v_Brennan_merits_1994-06-06.md": [
+      162,
+      164,
+      161
+    ],
+    "Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md": [
+      160,
+      167
+    ],
+    "Ibanez_v_Florida_Board_of_Accountancy_merits_1994-06-13.md": [
+      164,
+      162,
+      175
+    ],
+    "Key_Tronic_Corp_v_United_States_merits_1994-06-06.md": [
+      168,
+      158,
+      167
+    ],
+    "Livadas_v_Bradshaw_merits_1994-06-13.md": [
+      161,
+      161,
+      157
+    ],
+    "OMelveny_Myers_v_FDIC_merits_1994-06-13.md": [
+      168,
+      170
+    ],
+    "Romano_v_Oklahoma_merits_1994-06-13.md": [
+      186,
+      153
+    ],
+    "United_States_v_Carlton_merits_1994-06-13.md": [
+      163,
+      167
+    ]
+  },
+  "local_links_checked": 662,
+  "vote_receipt_files": [
+    "OT_1993CHUNK6_ASSEMBLY_A_VOTES.json",
+    "OT_1993CHUNK6_ASSEMBLY_B_VOTES.json",
+    "OT_1993CHUNK6_ASSEMBLY_C_VOTES.json",
+    "OT_1993CHUNK6_ASSEMBLY_ROMANO_VOTES.json"
+  ],
+  "render_record_order": [
+    "Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md",
+    "Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md",
+    "Farmer_v_Brennan_merits_1994-06-06.md",
+    "Key_Tronic_Corp_v_United_States_merits_1994-06-06.md",
+    "City_of_Ladue_v_Gilleo_merits_1994-06-13.md",
+    "Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md",
+    "Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md",
+    "Ibanez_v_Florida_Board_of_Accountancy_merits_1994-06-13.md",
+    "Livadas_v_Bradshaw_merits_1994-06-13.md",
+    "OMelveny_Myers_v_FDIC_merits_1994-06-13.md",
+    "Romano_v_Oklahoma_merits_1994-06-13.md",
+    "United_States_v_Carlton_merits_1994-06-13.md"
+  ],
+  "opening_carryovers_preserved": true,
+  "prior_blockers_preserved": [],
+  "errors": [],
+  "git": "All Git checks deferred; no Git invocation",
+  "scope": "Clerical checks; substantive legal conclusions reviewed in staged contexts"
+}

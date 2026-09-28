@@ -1,0 +1,18 @@
+{
+  "status": "June 6 assembly complete; public baseline provided before June 13 commitments",
+  "effective_group": "1994-06-06",
+  "later_group": "1994-06-13",
+  "same_day_sequence": "No sequence among June 6 matters or among June 13 matters",
+  "public_update": {
+    "path": "terms/OT1993/entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md",
+    "sha256": "c46a7aa8af1d6108dd6affc053c5d9ddaac6f5b2959ca59f7f9a1c395a276718"
+  },
+  "records": {
+    "terms/OT1993/records/Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md": "35a3f1756cc32b1c119e186a807bc912a6e3ac2f44af02e620d92815aa3a1b1a",
+    "terms/OT1993/records/Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md": "ffea724c3a7d4a1143c61b451fc836743026a6efada7cef097aa307448d94290",
+    "terms/OT1993/records/Farmer_v_Brennan_merits_1994-06-06.md": "40d06652e5a8e520472eb7d237cfa71c3dd16a2cdae2622778a7f31c09cac29c",
+    "terms/OT1993/records/Key_Tronic_Corp_v_United_States_merits_1994-06-06.md": "c410cae202e636414c1faa98b3856840148869251a8d7e5b58d966db7b81acea",
+    "terms/OT1993/records/Nichols_v_United_States_merits_1994-06-06.md": "6b17c48667f1afc6f334d17d3e8262a37b87aa7832a71aac4bb095d3f531d4fa"
+  },
+  "git": "Not invoked; operator verification and commitment pending"
+}
