@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Gilmore preserves Teague's event-date new-rule inquiry and its then-recognized exceptions. Simulated Graham found the youth/background requirement already dictated, rather than barring it as new. Dixon retained Grady. None automatically answers whether this noncapital enhancement proceeding is covered by an old double-jeopardy rule. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -55,4 +55,4 @@ For application, identify what facts the original adjudicator necessarily decide
 **Source Support:** 510 U.S. 385-397: state finality, the two enhancement proceedings, and pre-event Teague authorities. [P12](https://supreme.justia.com/cases/federal/us/510/383/)
 
 
-**Revision Trace:** User-directed implementation of [Caspari v. Bohlen review](review/02_CASES_13-24.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Caspari v. Bohlen review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

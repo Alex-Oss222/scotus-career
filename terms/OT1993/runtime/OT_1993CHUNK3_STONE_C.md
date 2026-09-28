@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-02-23 through 1994-04-20. Event date
 
 **Inherited-Law Context:** The inherited registers do not resolve this absent-member opt-out question. Preserve the certification premise, grant scope and suitability of this case for decision before addressing constitutional class relief. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -55,7 +55,7 @@ For any later merits rule, distinguish individual money claims released for clas
 **Source Support:** 511 U.S. 118-121: the earlier class litigation, certification, settlement, judgment below, and limited question. [P16](https://supreme.justia.com/cases/federal/us/511/117/)
 
 
-**Revision Trace:** User-directed implementation of [Ticor Title Insurance Co. v. Brown review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Ticor Title Insurance Co. v. Brown review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 34. J.E.B. v. Alabama ex rel. T.B.
 
@@ -75,7 +75,7 @@ For any later merits rule, distinguish individual money claims released for clas
 
 **Inherited-Law Context:** McCollum establishes purposeful racial jury-exclusion rules and their burdens. Its holding does not already decide sex-based strikes; analyze that extension without borrowing the distinct territorial-districting theory rejected in Shaw. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -112,7 +112,7 @@ The State exercised the challenged strikes, so state action is direct. The defen
 **Source Support:** [R18](https://supreme.justia.com/cases/federal/us/511/127/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [J.E.B. v. Alabama ex rel. T.B. review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [J.E.B. v. Alabama ex rel. T.B. review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 35. Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.
 
@@ -310,7 +310,7 @@ Affirm the reversal of summary judgment and remand for further proceedings consi
 
 **Inherited-Law Context:** No inherited OT1991–OT1992 holding selects the settlement-credit method for this maritime tort. Preserve the maritime apportionment authorities and the distinct position of settling and nonsettling defendants. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -345,4 +345,4 @@ Application requires a reliable fault allocation including relevant absent settl
 **Source Support:** 511 U.S. 204-221: settlement terms, jury allocations, judgment below, contractual limitation, and competing maritime rules. [P17](https://supreme.justia.com/cases/federal/us/511/202/)
 
 
-**Revision Trace:** User-directed implementation of [McDermott, Inc. v. AmClyde review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [McDermott, Inc. v. AmClyde review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

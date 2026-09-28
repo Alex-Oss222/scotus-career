@@ -211,136 +211,6 @@ The full trial transcript and original committee report are not independently av
 
 ---
 
-<!-- source-record: Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md -->
-## Event
-
-Board of Education of Kiryas Joel Village School District v. Grumet, Nos. 93-517, 93-527 and 93-539; 512 U.S. 687. Argued March 30, 1994; decided June 27, 1994. On writs of certiorari to the New York Court of Appeals, 81 N.Y.2d 518, 618 N.E.2d 94 (1993). The consolidated cases concern whether Chapter 748's creation of a school district coterminous with Kiryas Joel violates the Establishment Clause despite its secular special-education purpose. The petition in No. 93-517 also requests replacement of Lemon and its primary-effect approach; the Court resolves the district's validity on sufficient narrower grounds. Render form: full. Basis: two independently sufficient grounds have different controlling coalitions, and the judgment includes a separate religious-boundary rationale.
-
-The trial court granted summary judgment under federal and state constitutional grounds; the Appellate Division affirmed on primary effect. The Court of Appeals affirmed under the federal Establishment Clause and expressly reserved state constitutional law. Citizen-taxpayer respondents proceeded under New York State Finance Law §123 after the association and officers were denied standing in those capacities. The adversely affected districts seek review of the concrete judgment; no new federal taxpayer-standing exception is announced.
-
-The village incorporated in 1977 under general law. Its residents shared the Satmar faith, but its incorporation and their voluntary association are not the challenged acts. Public special services began at a religious-school annex in 1984 and ended after Aguilar and Ball in 1985. Parents reported panic, fear and trauma at outside placements and withdrew most children; that account is not a finding that interaction violated religious doctrine. Wieder in 1988 recognized authority to arrange a local public program, without requiring it. Chapter 748 followed in 1989 and grants all union-free-district powers. The present public program provides secular special education, employs outside professionals, uses coeducational classrooms without religious symbols and serves pupils from neighboring districts. These circumstances do not reduce the board's general power over schools, teachers, textbooks, discipline and property taxation. The act supplies no religious voter or office qualification, rabbinical appointment, special-education-only limitation or sunset.
-
-Chapter 748 provides:
-
-> Section 1. The territory of the village of Kiryas Joel in the town of Monroe, Orange county, on the date when this act shall take effect, shall be and hereby is constituted a separate school district, and shall be known as the Kiryas Joel village school district and shall have and enjoy all the powers and duties of a union free school district under the provisions of the education law.
->
-> § 2. Such district shall be under the control of a board of education, which shall be composed of from five to nine members elected by the qualified voters of the village of Kiryas Joel, said members to serve for terms not exceeding five years.
->
-> § 3. This act shall take effect on the first day of July next succeeding the date on which it shall have become a law.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate at argument and decision. No recusal or nonparticipation is established.
-
-## Public Action
-
-The New York Court of Appeals judgment invalidating Chapter 748 under the Establishment Clause is affirmed in all three dockets, 7–2.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Federal invalidation of Chapter 748 in Nos. 93-517, 93-527 and 93-539 | Affirmed, 7–2, in each docket | Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Ginsburg | Scalia, Thomas | The judgment invalidating the special school-district act stands; lawful secular special-education arrangements and statutory rights remain available |
-
-The remedy reaches Chapter 748's creation of the particular district. It does not invalidate the village, close private religious schools, erase IDEA entitlements, require integration into a specified classroom, establish a new district or set an automatic transfer date. Implementation remains with the appropriate state authorities and courts within constitutional and statutory limits. Scalia and Thomas would reverse the federal ground and leave the expressly reserved state constitutional question for further state proceedings, not declare the act immune from state law.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court, Parts I, II-B, II-C and III | Souter | Stone-Zsela, Blackmun, Stevens, O'Connor, Ginsburg | Affirms in all three dockets | Background; particular denominational benefit and equal treatment; accommodation; application and remedy; six |
-| Opinion of the Court, Part II introduction and II-A | Souter | Stone-Zsela, Blackmun, Stevens, Ginsburg | Independently supports affirmance | Deliberate allocation of general civil authority to a community chosen by denomination; five; O'Connor does not join |
-| Concurrence | Blackmun | No other Justice | Joins Souter throughout and affirms | Affirmative defense of Lemon's general effect and entanglement principles |
-| Concurrence | Stevens | Blackmun, Ginsburg | Joins Souter throughout and affirms | Additional objection to state support of religious separation and attachment; three |
-| Concurrence in part and in the judgment | O'Connor | No other Justice | Joins I, II-B, II-C and III; affirms | Equal treatment, permissible accommodation, context-specific establishment analysis and possible later Aguilar reconsideration |
-| Concurrence in the judgment | Kennedy | No other Justice | Affirms without joining Souter's opinion | Government's deliberate religious boundary criterion; rejects lack of assured future equal treatment as sufficient |
-| Concurrence | Stone-Zsela | No other Justice | Joins Souter throughout and affirms | Actual denominational allocation, source-specific distinction from Shaw, equal civic standing and continuity of lawful services |
-| Dissent | Scalia | Thomas throughout, Parts I–V | Would reverse the federal ground in all three dockets | Public secular government, culturally responsive accommodation, rejection of fusion/equality grounds; noncontrolling preferences concerning Lemon, Aguilar and Ball |
-
-## Holdings
-
-### The State may not select a denomination as the recipient of general governmental authority
-
-**Controlling proposition:** The Establishment Clause forbids a State deliberately to allocate general civil authority to a community selected as a religious community, even when the immediate recipients are elected public lay officials rather than clergy. Chapter 748 violates that rule because its design and context use denominational membership as the organizing basis of the special school district; religious homogeneity or coincidence with an existing village line alone would not establish the violation.
-
-**Authority:** Souter's opinion, Part II introduction and II-A, joined by Stone-Zsela, Blackmun, Stevens and Ginsburg: five Justices. This is an independently sufficient ground. O'Connor does not join that portion, and Kennedy's separate judgment rationale is not counted as a join.
-
-**Controlling explanation:** The Court holds that the constitutional defect lies in the State's allocation of authority, not in a finding that the public school teaches religion. Larkin prohibits a transfer of discretionary governmental power to religious institutions. Chapter 748 does not reproduce its church veto: lay voters elect a public board, and ordinary public-school law applies. The structural concern nevertheless reaches a deliberate legislative choice of a denomination as the organizing recipient of general school-government power. Larson supplies the requirement of denominational neutrality, while McDaniel protects religious citizens from political disqualification. Those principles coexist. The village's lawful incorporation, secular instruction, outside professional staff and service to children from neighboring districts are substantial considerations, but do not cure this particular allocation. Nor do the children's educational needs require a permanent grant of general district powers on that basis. The Court leaves ordinary geographic government and neutral local services available. It invalidates neither voluntary religious association nor a district merely because its residents share a faith.
-
-**Precedent treatment:**
-
-- Larkin v. Grendel's Den, Inc., 459 U.S. 116: applies its civil-authority boundary by structural analogy to deliberate denominational allocation through a lay public board; it does not treat this board as a church or clergy veto.
-- Larson v. Valente, 456 U.S. 228: applies denominational neutrality to the State's choice of recipients of general public authority; no general disability on religious communities follows.
-- McDaniel v. Paty, 435 U.S. 618: preserves equal political citizenship and distinguishes religious officeholders from governmental allocation by denomination.
-
-### The particular denominational grant lacks a neutral basis for equal treatment
-
-**Controlling proposition:** Chapter 748 independently violates religious neutrality by conferring an anomalously particular benefit of general school-government power on this selected denominational community without neutral terms or dependable assurance of equal treatment for comparable communities. The defect follows from this enactment's design and context, not a rule that every special act is invalid, every general statute is neutral, or an unproved finding that another religious community has already been refused.
-
-**Authority:** Souter's opinion, Part II-B, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg: six Justices. This is an independently sufficient alternative ground; Kennedy expressly declines it.
-
-**Controlling explanation:** The Court holds that this exceptional allocation supplies no adequate neutral account of which similarly situated communities may receive the same governmental benefit. Larson requires denominational neutrality, and Amos distinguishes a generally available religious accommodation from preference for a particular denomination. The problem is not simply that the Legislature addressed one difficulty first. Its chosen structure grants broad continuing authority to the identified religious community without a neutral assurance governing comparable claims. A later legislature need not consider or decide another request, and legislative inaction may leave no merits decision whose reasons can be reviewed. That structural concern does not require inventing a prior refusal to another faith. The lawful general incorporation of the village illustrates a different basis for civic organization. Secular instruction and genuine need remain relevant, but cannot alone explain the denominational selection of governmental authority. Neutral criteria or otherwise equal arrangements may permit accommodation; the Court commands no particular statute and does not assume that a formally general law could never conceal the same preference.
-
-**Precedent treatment:**
-
-- Larson v. Valente: applies the prohibition on denominational preference to the particular governmental benefit and its allocation.
-- Corporation of Presiding Bishop v. Amos, 483 U.S. 327: distinguishes its general nonprofit religious-employer accommodation from a special denominational franchise; its permission to accommodate remains effective.
-
-### Accommodation preserves educational access but does not cure this allocation
-
-**Controlling proposition:** A State may accommodate religiously grounded needs beyond what free exercise independently requires, but accommodation does not authorize this denominational allocation of general governmental power. Affirmance leaves the children's statutory special-education rights and lawful neutral local public services intact, without commanding a particular placement, validating the adequacy of earlier services or prescribing a replacement district.
-
-**Authority:** Souter's opinion, Part II-C and the implementing limits in Part III, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg: six Justices. This holding rejects the accommodation defense and defines the remedy's limits; Kennedy reaches the judgment on his separate ground.
-
-**Controlling explanation:** The Court holds that protecting these children's access to secular education is a legitimate objective. Amos permits accommodation beyond constitutionally compelled exemptions, and Zorach distinguishes permissible attention to religious needs from governmental sponsorship. But a legitimate service objective does not cure an impermissible allocation of civil power. The current secular curriculum, professional staffing and participation of children from other districts do not narrow the statute's grant of all union-free-district powers. The State remains able to provide appropriate services through neutral arrangements. Wieder recognized discretion to arrange a local public program without creating this district; it did not require such a program or establish that outside attendance violated religious doctrine. Wolman identifies the possibility of properly administered services at neutral sites, not the adequacy of any particular proposed placement here. The Court does not decide whether earlier services met each child's needs, close private religious schools, invalidate incorporation or extinguish IDEA eligibility. Aguilar, Ball and Lemon need not be revised to decide this special act.
-
-**Precedent treatment:**
-
-- Corporation of Presiding Bishop v. Amos: preserves permissible accommodation beyond free-exercise compulsion, with its denominational-neutrality and application limits.
-- Zorach v. Clauson, 343 U.S. 306: preserves lawful accommodation of private religious needs without authorizing this governmental franchise.
-- Wolman v. Walter, 433 U.S. 229: preserves the possibility of properly administered neutral-site services; no particular replacement is approved.
-- Board of Education v. Wieder, 72 N.Y.2d 174, 527 N.E.2d 767: respects the state court's recognition of local educational discretion without turning permission into a compulsory separate school.
-- Aguilar v. Felton, 473 U.S. 402, and School District of Grand Rapids v. Ball, 473 U.S. 373: neither is overruled, modified or used to order restoration of the terminated annex program.
-- Lemon v. Kurtzman, 403 U.S. 602: remains governing law; this bounded neutrality decision neither replaces its framework nor imposes a new universal analytical sequence.
-
-### Authority, limits and questions not reached
-
-The two independently sufficient invalidation grounds have direct majorities. Kennedy's religious-boundary rationale and the principal opinion's equal-treatment rationale are not combined under Marks: Kennedy would reject government religious gerrymanders even if all faiths received equivalent ones, while the principal opinion identifies a defect in this particular unequal allocation. Agreement in judgment does not establish a logical subset or a complete opinion join. Stevens's additional state-supported religious-separation rationale has only Stevens, Blackmun and Ginsburg.
-
-The Court does not overrule Lemon, Aguilar or Ball; adopt a comprehensive replacement establishment test; create an aid-merits holding in Zobrest; revise Shaw's racial equal-protection holding; find a religious qualification for voters or officers; or adjudicate the reserved state constitutional question. A petition requested replacement of Lemon, but the present decision rests on the sufficient narrower grounds. No finding of religious instruction, mandatory assimilation, denial to another faith, permanent religious demographics or free-exercise entitlement to a separate district is made. The judgment does not prescribe an individual service placement or require elimination of culturally responsive secular instruction.
-
-## Precedent Treatment
-
-The holding-specific treatments govern. Larkin's structural boundary applies to the actual denominational allocation while its church-veto facts remain distinct. Larson's neutrality rule and McDaniel's equal political citizenship are preserved together. Amos, Zorach and Wolman leave lawful accommodation available. Lemon, Aguilar and Ball are not overruled. Zobrest decided no Establishment Clause merits, and Carter's statutory reimbursement rule supplies no exception to denominational neutrality. Shaw's rejection of the particular design-only racial territorial claim remains intact; this decision rests on an independently identified establishment injury. Lee's school-worship and pressure holdings, Lamb's Chapel's private-access holding and Lukumi's actual neutrality rules retain their separate scopes. No comprehensive new establishment test is adopted.
-
-## Law After Decision
-
-Effective June 27, 1994, Chapter 748's deliberate denominational allocation of general civil authority is invalid under a five-Justice holding. Its particular unequal governmental benefit independently fails under a six-Justice holding. Legitimate accommodation does not cure those defects, and secular special-education rights remain. Religious homogeneity alone is no constitutional disqualification, and neither the form of special legislation nor a formally general law conclusively decides neutrality. Kennedy's independent boundary theory and Stevens's additional separation theory remain separate positions. The Court changes no general incorporation rule, racial districting standard, statutory education entitlement or school-aid precedent.
-
-## Separate Writings
-
-Blackmun concurs, joined by no other Justice. He regards Lemon's effect and entanglement principles as generally sound, and sees the Court's analysis as consistent with them. His position is affirmative adherence, not merely a conclusion that reconsideration is unnecessary. The decision's particular neutrality and allocation rules do not establish his concurrence as an additional opinion of the Court. He also joins Stevens's separate writing.
-
-Stevens concurs, joined by Blackmun and Ginsburg. In his view, the State's affirmative organization of this religious separation supports attachment to the group's faith, beyond merely distributing a secular educational service on equal terms. He distinguishes private religious education, voluntary off-site release time and exemption from a general governmental burden. Current secular teaching, outside staff and lay public governance are accepted facts; his objection does not depend on relabeling the curriculum religious. The proposed concern for tolerance is a constitutional assessment of the State's chosen arrangement, not an empirical finding that a particular child retained a faith because of the district and not an order for compulsory assimilation or a particular integrated placement. The writing supplies a three-Justice additional rationale, not another holding.
-
-O'Connor concurs in part and in the judgment, joined by no other Justice. She joins the particular-benefit, equal-treatment and accommodation analysis, but not the complete Larkin delegation analogy. Ordinarily rights and benefits should not depend on a person's faith, while a genuine religious burden may be accommodated without selecting a favored sect. She recognizes that this community may presently have a distinctive need and that special legislation is not inherently unlawful. The structural difficulty is the lack of dependable neutral terms for comparable groups: a future legislature may simply decline to address their requests, without a decision explaining why. A generally available district arrangement or neutral eligibility administered through reviewable decisions could present a different case; she commands neither. Religious residents remain entitled to political participation and public services. She favors more precise, context-sensitive establishment rules over forcing every category through one rigid Lemon formula, without rejecting every valid insight of decisions applying it. She would reconsider Aguilar in a proper case so that neutral special education might be provided at sectarian premises on equal terms. That prospective view changes neither Aguilar nor Ball here and draws no aid-merits support from Zobrest, which resolved antecedent questions.
-
-Kennedy concurs in the judgment, joined by no other Justice. The decisive objection is the State's own deliberate use of religion to draw the boundaries of a political unit. A geographic description does not cure purposeful religious line drawing; offering equivalent religious gerrymanders to every faith would not cure it either. Private association, neutral incorporation and lines derived from geography or history remain different, and residents do not lose self-government merely because they share a faith. He acknowledges the secular school and preexisting lawful village but regards the Legislature's purposeful adoption of the religious community's line for this new unit as the State's own forbidden criterion. He expressly rejects the principal opinion's lack-of-assured-future-equal-treatment ground. A State may respond to a unique burden without arranging every future accommodation in advance, and a later unequal treatment claim can be considered when it arises, although extension or invalidation may pose remedial choices. Religious practical distress need not violate a specific tenet to support permissible accommodation; it creates no entitlement to this district. Larson and Larkin's religious-allocation boundary and Lukumi's objective neutrality principles support his separate ground. Shaw supplies no racial-design holding to import. He declines unnecessary Lemon reliance and regards Aguilar and Ball as possible subjects for later reconsideration; neither changes now.
-
-Stone-Zsela concurs, joined by no other Justice. The statute creates an elected public board, not a rabbinical veto, so Larkin supplies a structural analogy rather than an identical factual rule. Secular instruction and real educational need count, but the decisive inquiry is whether religious membership actually organized this special allocation of general public authority. The act's design and context establish that defect here; demographic homogeneity alone would not. One-off legislation can be lawful, and a formally general statute can still be engineered for a denomination. Actual eligibility, governmental reasons, powers conveyed and access for comparable communities reveal which is occurring. Shaw rejected racial territorial design alone as the particular equal-protection deprivation asserted within a common electorate. This case rests on a distinct Establishment Clause injury: the State's use of denomination to organize governmental authority. It neither imports the rejected racial-design theory nor requires excluded voters to prove an election loss. Religious residents retain equal civic standing, and children retain equal access to lawful secular disability services. A neutral local program may meet those needs without this allocation. Wieder permits such an arrangement without commanding a placement, while Carter creates no exception to denominational neutrality. He joins affirmance with implementation left to the responsible state authorities and courts, and sees no need to revise Lemon, Aguilar or Ball.
-
-Scalia dissents, joined by Thomas throughout. Chapter 748 creates an ordinary public institution with elected lay officials, secular instruction and general public duties, not a religious institution's veto. Larkin therefore does not establish that the State delegated to a church, and McDaniel protects religious citizens from civic disability. The lawful village line and distinctive educational and cultural problem explain the district without an established religious office qualification or devotional program. Even when accommodation is religiously motivated, Amos, Walz and Zorach allow responses beyond what free exercise commands. He accepts the prohibition on denominational favoritism but rejects the inference that known homogeneity and special legislation establish it here. Absence of guaranteed future accommodations is not present discrimination; courts can address a supported later unequal-treatment claim, including the existing benefit if necessary. He also rejects Kennedy's application because the Legislature used the existing lawful geographic community to provide secular education. The dissent favors abandoning Lemon's unitary method for fidelity to longstanding accommodation traditions and would overrule Aguilar and Ball at an appropriate opportunity. These are noncontrolling positions, not an agreed comprehensive replacement test or a present overruling. Zobrest supplies no aid-merits precedent, and surviving accommodation authorities carry the limited public-school argument. Reversal would remove the federal ground while leaving the reserved state constitutional claim for the state courts. The dissent approves no clergy veto, religious voting qualification, governmental worship or unlimited exemption.
-
-## Procedure After Action
-
-The judgment invalidating Chapter 748 stands in all three dockets. New York's responsible authorities and courts must implement that judgment consistently with continuing statutory educational duties and the availability of lawful neutral services. The Court prescribes no replacement district, individual placement, transfer date, damages or repayment. It does not close private schools, invalidate the village, restore a previously discontinued program by judicial command or resolve the state constitutional issue reserved below.
-
-## Source Notes
-
-The [official report, 512 U.S. 687](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512687/usrep512687.pdf), 690–696 and 693 n.1, supports the argument date, posture, reported educational circumstances and the complete quotation of 1989 N.Y. Laws chapter 748. The original session-law scan was not independently recovered; the quotation is the complete act reproduced in that report. The New York Court of Appeals, 81 N.Y.2d 518, 618 N.E.2d 94, expressly reserved state constitutional law. Wieder, 72 N.Y.2d 174, 527 N.E.2d 767, supplies local educational discretion, not a commanded placement. The No. 93-517 petition's questions include the Lemon-replacement request; companion-petition scope is not represented as independently exhausted. Complete administrative and party-brief coverage is not claimed. Parental distress, service adequacy and predictions concerning future applicants retain the distinctions stated above. No decisional quotation is asserted beyond the verified statutory text.
-
----
-
 <!-- source-record: Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md -->
 ## Event
 
@@ -516,6 +386,136 @@ The [official Act, 106 Stat. 1460](https://www.govinfo.gov/content/pkg/STATUTE-1
 
 ---
 
+<!-- source-record: Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md -->
+## Event
+
+Board of Education of Kiryas Joel Village School District v. Grumet, Nos. 93-517, 93-527 and 93-539; 512 U.S. 687. Argued March 30, 1994; decided June 27, 1994. On writs of certiorari to the New York Court of Appeals, 81 N.Y.2d 518, 618 N.E.2d 94 (1993). The consolidated cases concern whether Chapter 748's creation of a school district coterminous with Kiryas Joel violates the Establishment Clause despite its secular special-education purpose. The petition in No. 93-517 also requests replacement of Lemon and its primary-effect approach; the Court resolves the district's validity on sufficient narrower grounds. Render form: full. Basis: two independently sufficient grounds have different controlling coalitions, and the judgment includes a separate religious-boundary rationale.
+
+The trial court granted summary judgment under federal and state constitutional grounds; the Appellate Division affirmed on primary effect. The Court of Appeals affirmed under the federal Establishment Clause and expressly reserved state constitutional law. Citizen-taxpayer respondents proceeded under New York State Finance Law §123 after the association and officers were denied standing in those capacities. The adversely affected districts seek review of the concrete judgment; no new federal taxpayer-standing exception is announced.
+
+The village incorporated in 1977 under general law. Its residents shared the Satmar faith, but its incorporation and their voluntary association are not the challenged acts. Public special services began at a religious-school annex in 1984 and ended after Aguilar and Ball in 1985. Parents reported panic, fear and trauma at outside placements and withdrew most children; that account is not a finding that interaction violated religious doctrine. Wieder in 1988 recognized authority to arrange a local public program, without requiring it. Chapter 748 followed in 1989 and grants all union-free-district powers. The present public program provides secular special education, employs outside professionals, uses coeducational classrooms without religious symbols and serves pupils from neighboring districts. These circumstances do not reduce the board's general power over schools, teachers, textbooks, discipline and property taxation. The act supplies no religious voter or office qualification, rabbinical appointment, special-education-only limitation or sunset.
+
+Chapter 748 provides:
+
+> Section 1. The territory of the village of Kiryas Joel in the town of Monroe, Orange county, on the date when this act shall take effect, shall be and hereby is constituted a separate school district, and shall be known as the Kiryas Joel village school district and shall have and enjoy all the powers and duties of a union free school district under the provisions of the education law.
+>
+> § 2. Such district shall be under the control of a board of education, which shall be composed of from five to nine members elected by the qualified voters of the village of Kiryas Joel, said members to serve for terms not exceeding five years.
+>
+> § 3. This act shall take effect on the first day of July next succeeding the date on which it shall have become a law.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate at argument and decision. No recusal or nonparticipation is established.
+
+## Public Action
+
+The New York Court of Appeals judgment invalidating Chapter 748 under the Establishment Clause is affirmed in all three dockets, 7–2.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Federal invalidation of Chapter 748 in Nos. 93-517, 93-527 and 93-539 | Affirmed, 7–2, in each docket | Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Ginsburg | Scalia, Thomas | The judgment invalidating the special school-district act stands; lawful secular special-education arrangements and statutory rights remain available |
+
+The remedy reaches Chapter 748's creation of the particular district. It does not invalidate the village, close private religious schools, erase IDEA entitlements, require integration into a specified classroom, establish a new district or set an automatic transfer date. Implementation remains with the appropriate state authorities and courts within constitutional and statutory limits. Scalia and Thomas would reverse the federal ground and leave the expressly reserved state constitutional question for further state proceedings, not declare the act immune from state law.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Parts I, II-B, II-C and III | Souter | Stone-Zsela, Blackmun, Stevens, O'Connor, Ginsburg | Affirms in all three dockets | Background; particular denominational benefit and equal treatment; accommodation; application and remedy; six |
+| Opinion of the Court, Part II introduction and II-A | Souter | Stone-Zsela, Blackmun, Stevens, Ginsburg | Independently supports affirmance | Deliberate allocation of general civil authority to a community chosen by denomination; five; O'Connor does not join |
+| Concurrence | Blackmun | No other Justice | Joins Souter throughout and affirms | Affirmative defense of Lemon's general effect and entanglement principles |
+| Concurrence | Stevens | Blackmun, Ginsburg | Joins Souter throughout and affirms | Additional objection to state support of religious separation and attachment; three |
+| Concurrence in part and in the judgment | O'Connor | No other Justice | Joins I, II-B, II-C and III; affirms | Equal treatment, permissible accommodation, context-specific establishment analysis and possible later Aguilar reconsideration |
+| Concurrence in the judgment | Kennedy | No other Justice | Affirms without joining Souter's opinion | Government's deliberate religious boundary criterion; rejects lack of assured future equal treatment as sufficient |
+| Concurrence | Stone-Zsela | No other Justice | Joins Souter throughout and affirms | Actual denominational allocation, source-specific distinction from Shaw, equal civic standing and continuity of lawful services |
+| Dissent | Scalia | Thomas throughout, Parts I–V | Would reverse the federal ground in all three dockets | Public secular government, culturally responsive accommodation, rejection of fusion/equality grounds; noncontrolling preferences concerning Lemon, Aguilar and Ball |
+
+## Holdings
+
+### The State may not select a denomination as the recipient of general governmental authority
+
+**Controlling proposition:** The Establishment Clause forbids a State deliberately to allocate general civil authority to a community selected as a religious community, even when the immediate recipients are elected public lay officials rather than clergy. Chapter 748 violates that rule because its design and context use denominational membership as the organizing basis of the special school district; religious homogeneity or coincidence with an existing village line alone would not establish the violation.
+
+**Authority:** Souter's opinion, Part II introduction and II-A, joined by Stone-Zsela, Blackmun, Stevens and Ginsburg: five Justices. This is an independently sufficient ground. O'Connor does not join that portion, and Kennedy's separate judgment rationale is not counted as a join.
+
+**Controlling explanation:** The Court holds that the constitutional defect lies in the State's allocation of authority, not in a finding that the public school teaches religion. Larkin prohibits a transfer of discretionary governmental power to religious institutions. Chapter 748 does not reproduce its church veto: lay voters elect a public board, and ordinary public-school law applies. The structural concern nevertheless reaches a deliberate legislative choice of a denomination as the organizing recipient of general school-government power. Larson supplies the requirement of denominational neutrality, while McDaniel protects religious citizens from political disqualification. Those principles coexist. The village's lawful incorporation, secular instruction, outside professional staff and service to children from neighboring districts are substantial considerations, but do not cure this particular allocation. Nor do the children's educational needs require a permanent grant of general district powers on that basis. The Court leaves ordinary geographic government and neutral local services available. It invalidates neither voluntary religious association nor a district merely because its residents share a faith.
+
+**Precedent treatment:**
+
+- Larkin v. Grendel's Den, Inc., 459 U.S. 116: applies its civil-authority boundary by structural analogy to deliberate denominational allocation through a lay public board; it does not treat this board as a church or clergy veto.
+- Larson v. Valente, 456 U.S. 228: applies denominational neutrality to the State's choice of recipients of general public authority; no general disability on religious communities follows.
+- McDaniel v. Paty, 435 U.S. 618: preserves equal political citizenship and distinguishes religious officeholders from governmental allocation by denomination.
+
+### The particular denominational grant lacks a neutral basis for equal treatment
+
+**Controlling proposition:** Chapter 748 independently violates religious neutrality by conferring an anomalously particular benefit of general school-government power on this selected denominational community without neutral terms or dependable assurance of equal treatment for comparable communities. The defect follows from this enactment's design and context, not a rule that every special act is invalid, every general statute is neutral, or an unproved finding that another religious community has already been refused.
+
+**Authority:** Souter's opinion, Part II-B, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg: six Justices. This is an independently sufficient alternative ground; Kennedy expressly declines it.
+
+**Controlling explanation:** The Court holds that this exceptional allocation supplies no adequate neutral account of which similarly situated communities may receive the same governmental benefit. Larson requires denominational neutrality, and Amos distinguishes a generally available religious accommodation from preference for a particular denomination. The problem is not simply that the Legislature addressed one difficulty first. Its chosen structure grants broad continuing authority to the identified religious community without a neutral assurance governing comparable claims. A later legislature need not consider or decide another request, and legislative inaction may leave no merits decision whose reasons can be reviewed. That structural concern does not require inventing a prior refusal to another faith. The lawful general incorporation of the village illustrates a different basis for civic organization. Secular instruction and genuine need remain relevant, but cannot alone explain the denominational selection of governmental authority. Neutral criteria or otherwise equal arrangements may permit accommodation; the Court commands no particular statute and does not assume that a formally general law could never conceal the same preference.
+
+**Precedent treatment:**
+
+- Larson v. Valente: applies the prohibition on denominational preference to the particular governmental benefit and its allocation.
+- Corporation of Presiding Bishop v. Amos, 483 U.S. 327: distinguishes its general nonprofit religious-employer accommodation from a special denominational franchise; its permission to accommodate remains effective.
+
+### Accommodation preserves educational access but does not cure this allocation
+
+**Controlling proposition:** A State may accommodate religiously grounded needs beyond what free exercise independently requires, but accommodation does not authorize this denominational allocation of general governmental power. Affirmance leaves the children's statutory special-education rights and lawful neutral local public services intact, without commanding a particular placement, validating the adequacy of earlier services or prescribing a replacement district.
+
+**Authority:** Souter's opinion, Part II-C and the implementing limits in Part III, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg: six Justices. This holding rejects the accommodation defense and defines the remedy's limits; Kennedy reaches the judgment on his separate ground.
+
+**Controlling explanation:** The Court holds that protecting these children's access to secular education is a legitimate objective. Amos permits accommodation beyond constitutionally compelled exemptions, and Zorach distinguishes permissible attention to religious needs from governmental sponsorship. But a legitimate service objective does not cure an impermissible allocation of civil power. The current secular curriculum, professional staffing and participation of children from other districts do not narrow the statute's grant of all union-free-district powers. The State remains able to provide appropriate services through neutral arrangements. Wieder recognized discretion to arrange a local public program without creating this district; it did not require such a program or establish that outside attendance violated religious doctrine. Wolman identifies the possibility of properly administered services at neutral sites, not the adequacy of any particular proposed placement here. The Court does not decide whether earlier services met each child's needs, close private religious schools, invalidate incorporation or extinguish IDEA eligibility. Aguilar, Ball and Lemon need not be revised to decide this special act.
+
+**Precedent treatment:**
+
+- Corporation of Presiding Bishop v. Amos: preserves permissible accommodation beyond free-exercise compulsion, with its denominational-neutrality and application limits.
+- Zorach v. Clauson, 343 U.S. 306: preserves lawful accommodation of private religious needs without authorizing this governmental franchise.
+- Wolman v. Walter, 433 U.S. 229: preserves the possibility of properly administered neutral-site services; no particular replacement is approved.
+- Board of Education v. Wieder, 72 N.Y.2d 174, 527 N.E.2d 767: respects the state court's recognition of local educational discretion without turning permission into a compulsory separate school.
+- Aguilar v. Felton, 473 U.S. 402, and School District of Grand Rapids v. Ball, 473 U.S. 373: neither is overruled, modified or used to order restoration of the terminated annex program.
+- Lemon v. Kurtzman, 403 U.S. 602: remains governing law; this bounded neutrality decision neither replaces its framework nor imposes a new universal analytical sequence.
+
+### Authority, limits and questions not reached
+
+The two independently sufficient invalidation grounds have direct majorities. Kennedy's religious-boundary rationale and the principal opinion's equal-treatment rationale are not combined under Marks: Kennedy would reject government religious gerrymanders even if all faiths received equivalent ones, while the principal opinion identifies a defect in this particular unequal allocation. Agreement in judgment does not establish a logical subset or a complete opinion join. Stevens's additional state-supported religious-separation rationale has only Stevens, Blackmun and Ginsburg.
+
+The Court does not overrule Lemon, Aguilar or Ball; adopt a comprehensive replacement establishment test; create an aid-merits holding in Zobrest; revise Shaw's racial equal-protection holding; find a religious qualification for voters or officers; or adjudicate the reserved state constitutional question. A petition requested replacement of Lemon, but the present decision rests on the sufficient narrower grounds. No finding of religious instruction, mandatory assimilation, denial to another faith, permanent religious demographics or free-exercise entitlement to a separate district is made. The judgment does not prescribe an individual service placement or require elimination of culturally responsive secular instruction.
+
+## Precedent Treatment
+
+The holding-specific treatments govern. Larkin's structural boundary applies to the actual denominational allocation while its church-veto facts remain distinct. Larson's neutrality rule and McDaniel's equal political citizenship are preserved together. Amos, Zorach and Wolman leave lawful accommodation available. Lemon, Aguilar and Ball are not overruled. Zobrest decided no Establishment Clause merits, and Carter's statutory reimbursement rule supplies no exception to denominational neutrality. Shaw's rejection of the particular design-only racial territorial claim remains intact; this decision rests on an independently identified establishment injury. Lee's school-worship and pressure holdings, Lamb's Chapel's private-access holding and Lukumi's actual neutrality rules retain their separate scopes. No comprehensive new establishment test is adopted.
+
+## Law After Decision
+
+Effective June 27, 1994, Chapter 748's deliberate denominational allocation of general civil authority is invalid under a five-Justice holding. Its particular unequal governmental benefit independently fails under a six-Justice holding. Legitimate accommodation does not cure those defects, and secular special-education rights remain. Religious homogeneity alone is no constitutional disqualification, and neither the form of special legislation nor a formally general law conclusively decides neutrality. Kennedy's independent boundary theory and Stevens's additional separation theory remain separate positions. The Court changes no general incorporation rule, racial districting standard, statutory education entitlement or school-aid precedent.
+
+## Separate Writings
+
+Blackmun concurs, joined by no other Justice. He regards Lemon's effect and entanglement principles as generally sound, and sees the Court's analysis as consistent with them. His position is affirmative adherence, not merely a conclusion that reconsideration is unnecessary. The decision's particular neutrality and allocation rules do not establish his concurrence as an additional opinion of the Court. He also joins Stevens's separate writing.
+
+Stevens concurs, joined by Blackmun and Ginsburg. In his view, the State's affirmative organization of this religious separation supports attachment to the group's faith, beyond merely distributing a secular educational service on equal terms. He distinguishes private religious education, voluntary off-site release time and exemption from a general governmental burden. Current secular teaching, outside staff and lay public governance are accepted facts; his objection does not depend on relabeling the curriculum religious. The proposed concern for tolerance is a constitutional assessment of the State's chosen arrangement, not an empirical finding that a particular child retained a faith because of the district and not an order for compulsory assimilation or a particular integrated placement. The writing supplies a three-Justice additional rationale, not another holding.
+
+O'Connor concurs in part and in the judgment, joined by no other Justice. She joins the particular-benefit, equal-treatment and accommodation analysis, but not the complete Larkin delegation analogy. Ordinarily rights and benefits should not depend on a person's faith, while a genuine religious burden may be accommodated without selecting a favored sect. She recognizes that this community may presently have a distinctive need and that special legislation is not inherently unlawful. The structural difficulty is the lack of dependable neutral terms for comparable groups: a future legislature may simply decline to address their requests, without a decision explaining why. A generally available district arrangement or neutral eligibility administered through reviewable decisions could present a different case; she commands neither. Religious residents remain entitled to political participation and public services. She favors more precise, context-sensitive establishment rules over forcing every category through one rigid Lemon formula, without rejecting every valid insight of decisions applying it. She would reconsider Aguilar in a proper case so that neutral special education might be provided at sectarian premises on equal terms. That prospective view changes neither Aguilar nor Ball here and draws no aid-merits support from Zobrest, which resolved antecedent questions.
+
+Kennedy concurs in the judgment, joined by no other Justice. The decisive objection is the State's own deliberate use of religion to draw the boundaries of a political unit. A geographic description does not cure purposeful religious line drawing; offering equivalent religious gerrymanders to every faith would not cure it either. Private association, neutral incorporation and lines derived from geography or history remain different, and residents do not lose self-government merely because they share a faith. He acknowledges the secular school and preexisting lawful village but regards the Legislature's purposeful adoption of the religious community's line for this new unit as the State's own forbidden criterion. He expressly rejects the principal opinion's lack-of-assured-future-equal-treatment ground. A State may respond to a unique burden without arranging every future accommodation in advance, and a later unequal treatment claim can be considered when it arises, although extension or invalidation may pose remedial choices. Religious practical distress need not violate a specific tenet to support permissible accommodation; it creates no entitlement to this district. Larson and Larkin's religious-allocation boundary and Lukumi's objective neutrality principles support his separate ground. Shaw supplies no racial-design holding to import. He declines unnecessary Lemon reliance and regards Aguilar and Ball as possible subjects for later reconsideration; neither changes now.
+
+Stone-Zsela concurs, joined by no other Justice. The statute creates an elected public board, not a rabbinical veto, so Larkin supplies a structural analogy rather than an identical factual rule. Secular instruction and real educational need count, but the decisive inquiry is whether religious membership actually organized this special allocation of general public authority. The act's design and context establish that defect here; demographic homogeneity alone would not. One-off legislation can be lawful, and a formally general statute can still be engineered for a denomination. Actual eligibility, governmental reasons, powers conveyed and access for comparable communities reveal which is occurring. Shaw rejected racial territorial design alone as the particular equal-protection deprivation asserted within a common electorate. This case rests on a distinct Establishment Clause injury: the State's use of denomination to organize governmental authority. It neither imports the rejected racial-design theory nor requires excluded voters to prove an election loss. Religious residents retain equal civic standing, and children retain equal access to lawful secular disability services. A neutral local program may meet those needs without this allocation. Wieder permits such an arrangement without commanding a placement, while Carter creates no exception to denominational neutrality. He joins affirmance with implementation left to the responsible state authorities and courts, and sees no need to revise Lemon, Aguilar or Ball.
+
+Scalia dissents, joined by Thomas throughout. Chapter 748 creates an ordinary public institution with elected lay officials, secular instruction and general public duties, not a religious institution's veto. Larkin therefore does not establish that the State delegated to a church, and McDaniel protects religious citizens from civic disability. The lawful village line and distinctive educational and cultural problem explain the district without an established religious office qualification or devotional program. Even when accommodation is religiously motivated, Amos, Walz and Zorach allow responses beyond what free exercise commands. He accepts the prohibition on denominational favoritism but rejects the inference that known homogeneity and special legislation establish it here. Absence of guaranteed future accommodations is not present discrimination; courts can address a supported later unequal-treatment claim, including the existing benefit if necessary. He also rejects Kennedy's application because the Legislature used the existing lawful geographic community to provide secular education. The dissent favors abandoning Lemon's unitary method for fidelity to longstanding accommodation traditions and would overrule Aguilar and Ball at an appropriate opportunity. These are noncontrolling positions, not an agreed comprehensive replacement test or a present overruling. Zobrest supplies no aid-merits precedent, and surviving accommodation authorities carry the limited public-school argument. Reversal would remove the federal ground while leaving the reserved state constitutional claim for the state courts. The dissent approves no clergy veto, religious voting qualification, governmental worship or unlimited exemption.
+
+## Procedure After Action
+
+The judgment invalidating Chapter 748 stands in all three dockets. New York's responsible authorities and courts must implement that judgment consistently with continuing statutory educational duties and the availability of lawful neutral services. The Court prescribes no replacement district, individual placement, transfer date, damages or repayment. It does not close private schools, invalidate the village, restore a previously discontinued program by judicial command or resolve the state constitutional issue reserved below.
+
+## Source Notes
+
+The [official report, 512 U.S. 687](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512687/usrep512687.pdf), 690–696 and 693 n.1, supports the argument date, posture, reported educational circumstances and the complete quotation of 1989 N.Y. Laws chapter 748. The original session-law scan was not independently recovered; the quotation is the complete act reproduced in that report. The New York Court of Appeals, 81 N.Y.2d 518, 618 N.E.2d 94, expressly reserved state constitutional law. Wieder, 72 N.Y.2d 174, 527 N.E.2d 767, supplies local educational discretion, not a commanded placement. The No. 93-517 petition's questions include the Lemon-replacement request; companion-petition scope is not represented as independently exhausted. Complete administrative and party-brief coverage is not claimed. Parental distress, service adequacy and predictions concerning future applicants retain the distinctions stated above. No decisional quotation is asserted beyond the verified statutory text.
+
+---
+
 <!-- source-record: Williamson_v_United_States_merits_1994-06-27.md -->
 ## Event
 
@@ -621,6 +621,130 @@ The Eleventh Circuit's judgment is vacated. The case returns to that court for f
 The [official United States Reports source, 512 U.S. 594](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512594/usrep512594.pdf), supplies the docket, argument date, reported trial facts, refusal to testify, silent affirmance, operative Rule text and reported trial concessions. The question is an issue statement, not a quotation of the grant. The complete trial transcript and separately authenticated appellate order are unavailable in the supplied record; no unreported exact words, panel reasoning, full-evidence harmlessness finding or waiver is inferred.
 
 [United States v. Harrell](https://static.case.law/f2d/788/html/1524-01.html) and [United States v. Taggart](https://static.case.law/f2d/944/html/0837-01.html) support the distinct circuit corroboration rule. The original Advisory Committee note and House, Senate and conference materials accompanying Rule 804 supply the competing related-statement explanations and removal of the proposed constitutional accomplice bar; those materials are distinct from the enacted Rule. No purported quotation of a present opinion or unrecovered trial passage is supplied. No later remand outcome is reported.
+
+---
+
+<!-- source-record: McFarland_v_Scott_merits_1994-06-30.md -->
+## Event
+
+McFarland v. Scott, No. 93-6497; 512 U.S. 849. Argued March 29, 1994; decided June 30, 1994. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, 7 F.3d 47. The questions are whether an indigent capital prisoner may obtain §848(q)(4)(B) counsel before a formal federal habeas application and whether the qualifying request permits consideration of a §2251 stay.
+
+The reviewed proceeding began with McFarland's October 22, 1993 request expressly identifying a contemplated §2254 challenge and seeking statutory counsel and a stay. The resource center had been unable to obtain volunteer counsel. The district court denied relief October 25; on October 26 the Fifth Circuit granted leave to proceed without prepayment of fees but denied a certificate of probable cause, counsel and a stay. It also relied on the absence of a general constitutional state-collateral-counsel right, the absence of a shown substantial constitutional claim and hypothetical dismissal for nonexhaustion if the motion were treated as a petition. A skeletal petition filed by a located attorney on October 26 began a separate proceeding; it is not this motion. The earlier October 27 execution setting supplies history, not a present execution date.
+
+Render form: full. Basis: the separate counsel and stay coalitions, partial disposition, and changed controlling coalitions require distinct tables.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No case-specific nonparticipation is established.
+
+## Public Action
+
+The Fifth Circuit's judgment is reversed to permit qualified appointment and lawful consideration of a stay, and the case is remanded. Counsel is sustained by seven Justices; stay authority and its discretionary exercise by six.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Statutory appointment before the formal merits application | Reverse, 7–2 | Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Ginsburg | Scalia, Thomas | Appoint qualified counsel under the statutory conditions. |
+| Categorical denial of preapplication §2251 stay authority | Reverse, 6–3 | Stone-Zsela, Blackmun, Stevens, Kennedy, Souter, Ginsburg | O'Connor, Scalia, Thomas | Consider a necessary stay through individualized discretion; no present automatic or indefinite stay. |
+
+The certificate denial is removed only insofar as it prevents the statutory consideration supported by each component coalition. It is not a grant for an unidentified constitutional claim or a general holding about §2253. O'Connor would reverse appointment denial but affirm stay denial. Scalia and Thomas would affirm both. Leave to proceed without prepayment remains granted; the conviction, sentence and distinct October 26 proceeding are not adjudicated.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Parts I–IV | Stevens | Stone-Zsela, Blackmun, Kennedy, Souter, Ginsburg throughout; O'Connor in Part I | Reversal and remand | Part I: statutory counsel and appointment direction, seven. Part II: §2251 pendency, Part III: §2283 express authorization, Part IV: stay discretion and remand, six each. |
+| Concurrence in part and dissent in part | O'Connor | No other Justice | Reverse appointment denial; affirm stay denial | Joins Part I; rejects preapplication §2251 pendency. |
+| Dissent | Thomas | Scalia | Affirm both denials | Requires an actual application for counsel and stay predicates. |
+
+Each holding has a direct majority; no combination of separate rationales is required.
+
+## Holdings
+
+### Qualified capital counsel may be appointed before the merits application
+
+**Controlling proposition:** A defendant who is or becomes financially unable to obtain adequate representation or reasonably necessary investigative, expert or other services may initiate the postconviction proceeding contemplated by 21 U.S.C. §848(q)(4)(B) through a request for counsel to prepare an identified federal §2254 or §2255 challenge seeking to vacate or set aside a death sentence. The statute entitles the qualifying defendant to counsel before a formal merits application, subject to the qualifications and service conditions stated below; a request unrelated to that federal capital challenge does not qualify.
+
+**Authority:** Part I of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Kennedy, Souter and Ginsburg. Seven Justices directly adopt the statutory rule and its application to the October 22 motion.
+
+**Controlling explanation:** The Court holds that Congress provided assistance in preparing the pleading, not merely assistance after the prisoner has prepared it alone. Section 848(q) supplies qualified representation and reasonably necessary services in the capital postconviction proceeding. Habeas Rules 2(c) and 4 require factual pleading and permit early dismissal; investigation therefore has substantial work before the first adequate application. The statutory word proceeding encompasses the express request that starts this authorized preparatory stage. Texas's contrary reading gives insufficient effect to that sequence, although assistance would also perform work after filing. Murray v. Giarratano concerns a general constitutional entitlement to state collateral counsel and does not defeat this enacted federal entitlement. McFarland's October 22 motion expressly identified the federal challenge and requested the statutory assistance. The later October 26 skeletal petition is a different proceeding and supplies neither the basis nor an obstacle to this ruling. The Court decides no underlying claim, general constitutional counsel right, or complete scope of representation in state exhaustion proceedings.
+
+**Precedent treatment:**
+
+- Murray v. Giarratano, 492 U.S. 1 (1989): distinguished; its constitutional collateral-counsel question does not restrict the express federal statutory appointment mechanism.
+- Herrera v. Collins, January 25, 1993: its record-specific rejection of the asserted innocence showing remains intact; no general freestanding-innocence standard is imported into this appointment question.
+
+**Statutory qualifications:** Section 848(q)(6), governing appointment after judgment, requires at least one appointed attorney admitted to the relevant court of appeals for five years with three years of experience handling felony appeals there. Paragraph (5)'s separate pre-judgment rule requires five years' admission in the trial court and three years' actual felony-trial experience there; it does not replace paragraph (6). Under paragraph (7), good cause permits another attorney whose background, knowledge or experience enables proper representation, with due consideration of the possible penalty's seriousness and the litigation's unique and complex nature. Under paragraph (8), representation continues through subsequent available judicial proceedings, all available postconviction process, stay applications and other appropriate motions and procedures, and available competency and clemency proceedings unless similarly qualified counsel replaces the attorney on the attorney's or defendant's motion. The full reach of that provision into later state proceedings is not decided.
+
+Under the then-operative paragraph (9), an ex parte finding that investigative, expert or other services are reasonably necessary for representation concerning guilt or sentence requires authorization and payment under paragraph (10). If timely procurement could not practicably await prior authorization, the court may authorize the services and payment retroactively; it is not required to do so. Paragraph (10) requires compensation and service fees and expenses at rates or amounts the court determines reasonably necessary, notwithstanding generally applicable criminal-case rates and maxima. These conditions do not authorize unconditional payment for unidentified services.
+
+### The statutory preparation proceeding satisfies §2251 pendency
+
+**Controlling proposition:** A qualifying request invoking §848(q)(4)(B) counsel to prepare the identified federal capital challenge commences a habeas proceeding for §2251's limited preparatory purpose. The federal justice or judge before whom it is pending therefore has authority to consider a stay of covered state proceedings although the formal merits application has not yet been filed.
+
+**Authority:** Part II of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six Justices adopt this construction; O'Connor does not join it.
+
+**Controlling explanation:** The Court holds that the authorized preparation stage is a pending proceeding within the stay statute. Section 2251 is the source of this power; the counsel entitlement does not itself authorize an injunction. Congress's provision for counsel to investigate and prepare a capital application identifies a stage of the federal habeas undertaking to which §2251's existing language can apply. Requiring the completed application before that stage can receive protection would allow execution to defeat the work Congress made available. The contrary view properly insists that funding and jurisdiction are separate questions, but it reads proceeding as though Congress had said merits application. The Court gives each statute independent work while recognizing the same limited proceeding. Barefoot v. Estelle's treatment of capital habeas review does not require an already developed claim as the price of preparing it with the assistance Congress supplied. The Court neither determines the separate October 26 petition's sufficiency nor excuses any requirement governing the eventual merits application.
+
+**Precedent treatment:**
+
+- Barefoot v. Estelle, 463 U.S. 880 (1983): its capital merits and successive-review principles are preserved in their settings; they do not eliminate the statutory preparatory stage.
+- Herrera v. Collins, January 25, 1993: distinguished as adjudication of an actual substantive submission, not the initiation of this statutory preparation proceeding.
+
+**Section 2251's remaining terms:** The judge may act before final judgment, after final judgment of discharge, or pending appeal. The covered state proceeding must be against the detained person in a state court or under state authority and concern a matter involved in the habeas proceeding. After a stay is granted, covered subsequent state proceedings are void; without a stay, they remain valid as though no federal habeas proceeding or appeal were pending.
+
+### Section 2251 supplies the express statutory exception to §2283
+
+**Controlling proposition:** For a covered state-court proceeding within the pending habeas matter described above, §2251 expressly authorizes a stay and thus satisfies §2283's exception for an Act of Congress expressly authorizing an injunction. This ruling does not independently find §2283's distinct exceptions for aid of jurisdiction or protection or effectuation of judgments satisfied.
+
+**Authority:** Part III of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six Justices directly adopt this statutory conclusion; it is distinct from the appointment entitlement and from the exercise of stay discretion.
+
+**Controlling explanation:** The Court holds that the Anti-Injunction Act does not defeat the authority Congress expressly supplies through §2251. Section 2283 forbids a federal injunction staying state-court proceedings unless one of its stated exceptions applies. Section 2251 authorizes a judge with a pending habeas proceeding to stay the covered state action. Once the qualifying preparation motion satisfies that pendency requirement, the express congressional authorization is present. The lower court's contrary conclusion depended on its rejected view that no habeas proceeding existed. Recognizing the exception therefore requires no general equitable power and no inference that every statutory right to counsel carries an injunction remedy. The competing reading would deny this exception because it denies pendency, not because §2251 lacks express stay language. The Court preserves the other two exceptions as separate provisions and does not decide that either supplies an alternative basis here. Barefoot's distinct review principles continue to govern their proper stages; statutory authority remains separate from entitlement to its discretionary exercise.
+
+**Precedent treatment:**
+
+- Barefoot v. Estelle, 463 U.S. 880 (1983): preserved; this statutory authorization ruling neither displaces its applicable review principles nor creates an automatic capital stay.
+
+**Independent statutory steps:** Financial eligibility and a covered counsel request establish the appointment entitlement. Section 2251 separately supplies stay power after the Court's pendency construction. Section 2283's express-authorization exception answers the prohibition on staying state-court proceedings. None of those conclusions alone requires a stay.
+
+### Reasonable preparation and individualized stay discretion govern the remand
+
+**Controlling proposition:** The district court must appoint qualified counsel and afford a reasonable opportunity for meaningful investigation and presentation of available habeas claims, considering a stay when necessary to protect that work. A stay is neither automatic nor indefinite: the court must assess the actual circumstances and may deny relief where the prisoner inexcusably ignores an available opportunity and obstructs the process; no such finding is made here.
+
+**Authority:** Part IV of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six adopt the stay-discretion rule and common remand; O'Connor separately joins the appointment direction under Part I only.
+
+**Controlling explanation:** The Court holds that authority must be exercised to make the statutory opportunity meaningful without conferring unlimited delay. Counsel needs a reasonable chance to investigate and prepare the first application. Execution timing, realistic preparation needs, prior opportunities for assistance and demonstrated obstruction bear on that assessment; no rigid schedule or presumption of abuse follows. Barefoot preserves substantive review standards where developed claims or successive applications are before the court, but requiring that finished showing before preparatory counsel can work confuses the stages. The lower court's constitutional-counsel observation does not answer §848, and its hypothetical conversion of this motion into an unexhausted petition does not decide the relief actually requested. Exhaustion and other collateral limitations govern the eventual petition at their proper stage. The certificate denial falls only insofar as it obstructs the statutory consideration ordered here. The Court grants no certificate for an unidentified constitutional claim, issues no present execution stay, and decides no general rule for every ancillary order under §2253.
+
+**Precedent treatment:**
+
+- Barefoot v. Estelle, 463 U.S. 880 (1983): preserved for merits and successive-review questions; distinguished from reasonable preparation under the enacted counsel right.
+- Murray v. Giarratano, 492 U.S. 1 (1989): does not sustain denial of the statutory federal assistance recognized here.
+- Reed v. Farley, June 20, 1994: collateral-relief and exhaustion rules remain separate; exhaustion retains exceptions where state corrective process is absent or circumstances make it ineffective to protect the prisoner's rights.
+
+**Limits:** No conviction or death sentence is vacated, no release or merits writ is ordered, no new execution date is found, and no decision concerns the separate October 26 action's dismissal or exhaustion. The grant of leave to proceed without prepayment of fees remains undisturbed.
+
+## Precedent Treatment
+
+Giarratano's constitutional question, Barefoot's applicable merits and successive-review principles, Herrera's record-specific innocence disposition, Custis's distinct ACCA channel and Reed's collateral and exhaustion limits retain their force. The holdings above identify the precise distinctions. No precedent is overruled; no general constitutional collateral-counsel right is announced.
+
+## Law After Decision
+
+Effective June 30, 1994, the qualifying federal capital-counsel request begins the statutory preparation proceeding before the formal merits application. Section 2251 separately permits a stay of covered state action and supplies the express congressional exception to §2283. Appointment entitlement and stay discretion remain different decisions. The court must provide a reasonable preparation opportunity while managing proved delay or obstruction; later pleading, exhaustion, default and abuse rules retain their proper operation. The decision establishes no universal §2253 rule or entitlement to merits relief.
+
+## Separate Writings
+
+Justice O'Connor joins the counsel holding because Congress may provide assistance before a merits application. She nevertheless regards §2251 as requiring an actual habeas application and would affirm the stay denial in this proceeding. Section 848's reference to stay applications describes counsel's work rather than amending the separate pendency requirement; practical need cannot supply the missing authority on her reading.
+
+Justice Thomas, joined by Justice Scalia, would affirm both denials. They read the appointment statute's reference to a proceeding under §§2254 or 2255 and §2251's pendency requirement to demand an actual application. Investigative services still perform work after filing, and practical usefulness does not remove either textual predicate. They make no finding of deliberate delay, adequate alternative assistance or any defect in the distinct October 26 action.
+
+## Procedure After Action
+
+The case returns through the Fifth Circuit for qualified appointment and district-court consideration of a necessary preparatory stay under the correct authority. The district court retains individualized discretion and reasonable case-management authority. No release, merits writ, new execution date, indefinite stay or decision concerning the separate petition is ordered.
+
+## Source Notes
+
+The [Fifth Circuit opinion, 7 F.3d 47](https://static.case.law/f3d/7/html/0047-01.html) supplies the reviewed order and its alternative grounds. The [official report, 512 U.S. 849–873](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512849/usrep512849.pdf) supplies the docket, dates and reported procedural sequence, including the separate October 26 filing. The archived text of [21 U.S.C. §848](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title21-section848&num=0&edition=1994), read in its form effective on the decision date, supplies the appointment, qualification and service provisions; the operative versions of [§2251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2251&num=0&edition=1994) and [§2283](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2283&num=0&edition=1994) supply the distinct stay rules. The full underlying collateral record and all party briefs are unavailable. The decision makes no unreported diligence, exhaustion or merits finding, and states the review questions in substance rather than as a verbatim grant quotation.
 
 ---
 
@@ -768,114 +892,6 @@ The Eleventh Circuit's Section 2 judgment and its existing remand for formulatio
 The [Eleventh Circuit opinion, 955 F.2d 1563](https://static.case.law/f2d/955/html/1563-01.html), and [District Court opinion, 757 F. Supp. 1560](https://static.case.law/f-supp/757/html/1560-01.html), support the record, the five district seats plus at-large chairman, the rejected referendum, and the distinction between statutory liability and remedy formulation. The [United States' May 1993 merits brief](https://archive.org/download/micro_IA40385013_0278/micro_IA40385013_0278%2009.%20Amicus%20Curiae%20Brief.pdf), question presented and page 6 note 4, supports the limited review scope; its merits position is distinct from its earlier petition-stage submission. The question above is an issue statement, not a purported verbatim grant order.
 
 The [official reproduction of 42 U.S.C. §1973](https://www.govinfo.gov/content/pkg/USCODE-1994-title42/pdf/USCODE-1994-title42-chap20-subchapI-A-sec1973.pdf) reproduces the governing 1982 text. [Gingles](https://tile.loc.gov/storage-services/service/ll/usrep/usrep478/usrep478030/usrep478030.pdf), [Chisom](https://tile.loc.gov/storage-services/service/ll/usrep/usrep501/usrep501380/usrep501380.pdf), and [Houston Lawyers](https://tile.loc.gov/storage-services/service/ll/usrep/usrep501/usrep501419/usrep501419.pdf) supply the cited earlier rules. No decisional passage is presented as a verified quotation. The reported local-act structure does not establish unreported allocations of duties within the proposed commission; none is assumed or ordered. The Court does not select a final map or use a future decision as authority.
-
----
-
-<!-- source-record: International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md -->
-## Event
-
-International Union, United Mine Workers of America v. Bagwell, No. 92-1625; 512 U.S. 821. Argued November 29, 1993; decided June 30, 1994. On writ of certiorari to the Supreme Court of Virginia, 244 Va. 463, 423 S.E.2d 349, which on November 6, 1992 reversed the intermediate court and entered final judgment for Bagwell in Record 910634 and affirmed the circuit court in Record 920299. The question is whether the surviving substantial fines for completed out-of-court violations are civil coercion because announced prospectively or criminal punishment requiring a jury.
-
-The 1989 labor injunction prohibited violence, obstruction and specified picketing conduct and required supervision and reporting. The initial $642,000 fines, including a $424,000 suspension, were later vacated and are not under review. The announced schedule for future breaches was $100,000 per violent violation and $20,000 per nonviolent violation. Seven later hearings addressed more than 400 violations and imposed over $64 million, with extensive adversarial process and proof beyond a reasonable doubt but no jury. After settlement the injunction was dissolved and approximately $12 million payable to the Company was vacated. Roughly $52 million for the Commonwealth and two counties remained collectible by Bagwell, preserving a live controversy. No party justified those sums as compensation measured by proved loss; later obedience could not purge the assessed liabilities.
-
-Render form: full. Basis: the additional procedural explanation has a distinct and materially changed coalition, requiring precise partial-join treatment despite the unanimous judgment.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No case-specific nonparticipation is established.
-
-## Public Action
-
-The Virginia Supreme Court's judgment sustaining the surviving public fines is reversed, and the case is remanded, 9–0.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Surviving approximately $52 million public assessments | Reverse and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No Justice | The fines cannot be collected on these civil nonjury adjudications; any further lawful proceeding must respect criminal safeguards and all independent defenses. |
-
-The Court revives neither the initial vacated fines nor the approximately $12 million private assessments, awards no substitute compensation, commands no prosecution and decides no future double-jeopardy defense. It invalidates no injunction wholesale and fixes no new fine or exact mandate date.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Kennedy | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas throughout; Ginsburg in Parts I and III | Reverse and remand | Part I classification and Part III jury/remedy have nine joins. Part II necessity/factfinding account has eight. |
-| Concurrence | Scalia | No other Justice | Joins the Court throughout | Adds a historical-method explanation; reserves a comprehensive future classification test. |
-| Concurrence in part and in the judgment | Ginsburg | No other Justice | Joins Parts I and III and the reversal/remand | Relies on traditional classification and settlement/public-enforcement considerations; declines Part II. |
-
-Direct majorities support every holding. Thomas joins no separate Scalia writing; Ginsburg's limited join is not judgment-only agreement with the entire opinion.
-
-## Holdings
-
-### The surviving fixed public fines are criminal punishment
-
-**Controlling proposition:** Substantial fixed fines imposed for completed out-of-court violations, unmeasured by proved loss and offering no postimposition compliance-based means to avoid the assessed liability, are criminal punishment in the circumstances presented here. Advance announcement of the schedule does not make these fines civil; genuinely compensatory relief and conditional coercion remain distinct.
-
-**Authority:** Part I of Justice Kennedy's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine directly adopt the classification and application.
-
-**Controlling explanation:** The Court holds that the fines' operation determines their character. Gompers distinguishes relief benefiting a complainant through performance from punishment for completed disobedience; Hicks requires examination of the substantive relief rather than the label. These public assessments punish completed breaches and cannot be purged through renewed obedience. No party asserts measured compensation for proved loss. Bagwell answers that the Union could have avoided every fine by obeying the announced schedule. But advance notice also accompanies ordinary criminal prohibitions; it does not supply a later means to discharge these liabilities. Mine Workers preserves a fixed fine suspended on a real compliance condition, and Shillitani permits coercion that ends when the contemnor performs the required act. Those mechanisms remain available where their actual conditions exist. Here settlement, dissolution of the injunction and survival of the public assessments underscore the absence of continuing private remedial relief. The Court does not decide that every complex decree, public payee or accrued coercive payment makes a sanction criminal.
-
-**Precedent treatment:**
-
-- Gompers v. Bucks Stove & Range Co., 221 U.S. 418 (1911): applied to distinguish remedial performance from punishment for completed violations.
-- United States v. Mine Workers, 330 U.S. 258 (1947): preserved; a suspended fine with a genuine later compliance condition differs from these fixed liabilities.
-- Shillitani v. United States, 384 U.S. 364 (1966): preserved; conditional coercion depends on a continuing lawful opportunity to perform the required act.
-- Hicks v. Feiock, 485 U.S. 624 (1988): applied; federal constitutional classification follows the proceeding and relief's substance, not its civil label.
-
-**Civil remedies and limits:** Compensation must correspond to proved loss. Genuine coercion may use prospective per-day sanctions avoidable through present compliance, confinement terminable by performance, or a fixed fine suspended on a real compliance condition. The contemnor must have the relevant ability to comply. The Court does not require cancellation of every already accrued per-day burden upon eventual compliance. Wording a command affirmatively or negatively does not itself settle classification; this decree contained both kinds of obligations. No clause-by-clause severance is undertaken. The Court does not displace the distinct classification of legislative civil schemes or resolve every discovery or litigation-management sanction.
-
-### Necessity for enforcement does not excuse criminal procedure on this record
-
-**Controlling proposition:** The need to enforce this continuing decree does not justify imposing serious punitive sanctions for dispersed out-of-court conduct without the criminal safeguards those sanctions require. The scale of the liabilities, complex obligations and extensive retrospective factfinding reinforce the criminal classification; neither complexity nor amount alone supplies a universal civil/criminal test.
-
-**Authority:** Part II of Justice Kennedy's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter and Thomas. Eight Justices adopt this additional bounded procedural explanation. Ginsburg joins the common classification and remedy but not this account.
-
-**Controlling explanation:** The Court holds that enforcement necessity must be assessed in the setting in which the power is used. Immediate courtroom obstruction can require an immediate judicial response under the established limits of direct contempt. Discrete acts that impede adjudication or remain susceptible to performance-based coercion present different needs from a continuing decree regulating many activities outside the court's presence. The present proceedings required extensive evidence and resolution of disputes about hundreds of completed acts. The judge's interest in enforcing the order does not remove the procedural protection that Bloom attaches to serious criminal punishment. Shillitani's power to induce an identifiable performance does not answer that concern. The opposing argument correctly stresses that civil courts must retain effective means of enforcement, but it does not make these final public liabilities conditional or compensatory. This explanation strengthens the classification already established by their operation; it creates no free-form balance permitting a judge to replace a required jury with procedures thought equally reliable.
-
-**Precedent treatment:**
-
-- Bloom v. Illinois, 391 U.S. 194 (1968): applied; the enforcement interest does not dispense with the jury for serious criminal contempt.
-- Shillitani v. United States, 384 U.S. 364 (1966): distinguished as continuing coercion directed to an identifiable act the contemnor could perform.
-
-**Scope:** Existing direct-contempt powers remain subject to their own limits; directness alone does not remove the jury right when the punishment is serious. This case involves indirect contempt. No actual judicial bias is found, no mechanical complexity rule is adopted, and no independent ground validates or invalidates the underlying labor injunction.
-
-### Serious criminal contempt requires a jury and these civil assessments cannot stand
-
-**Controlling proposition:** These approximately $52 million public fines constitute serious criminal contempt and require applicable criminal safeguards, including a jury. Proof beyond a reasonable doubt before a judge does not replace that protection; the judgment sustaining collection through these nonjury civil adjudications is reversed and the case remanded, without directing a new prosecution or reviving any vacated fines.
-
-**Authority:** Part III of Justice Kennedy's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine adopt the jury rule and bounded reversal/remand.
-
-**Controlling explanation:** The Court holds that the substantial process furnished here did not include the independent protection the Constitution requires. Bloom establishes a jury right for serious criminal contempt even though a judge has a strong interest in vindicating the court's authority. Notice, discovery, cross-examination and proof beyond a reasonable doubt serve real purposes, but they do not constitute a jury. The approximately $52 million surviving public liabilities are plainly serious without fixing a numerical boundary for petty contempt. The civil character asserted below therefore cannot sustain their collection. This conclusion does not forbid punishment of violent or obstructive conduct through lawful criminal proceedings, confer special immunity on a labor organization, or decide every sanction available under an injunction. It removes the judgment's present legal basis and leaves any further proceeding to its own authority and defenses. Dixon's criminal-jeopardy rule remains applicable in its proper setting, but no hypothetical later charge, offense identity or double-jeopardy defense is adjudicated here.
-
-**Precedent treatment:**
-
-- Bloom v. Illinois, 391 U.S. 194 (1968): applied; serious criminal contempt requires a jury, while the petty-offense qualification remains distinct from the civil/criminal classification.
-- United States v. Dixon, June 28, 1993: its rule for completed nonsummary criminal contempt and its retention of Grady remain intact; no future prosecution or defense is decided.
-
-**Remedial boundaries:** No jury waiver or harmlessness finding is made. The vacated initial $642,000 fines, including the former $424,000 suspension, and the vacated approximately $12 million Company assessments remain outside the surviving judgment. No substitute compensation, new fine amount, conviction, prosecution, specific mandate date, substantive-excessiveness ruling or wholesale invalidation of the dissolved injunction is ordered. Petty criminal contempt may lack a jury requirement but remains criminal and retains its applicable safeguards.
-
-## Precedent Treatment
-
-Gompers, Mine Workers, Shillitani and Hicks supply the retained relief-based distinctions, and Bloom requires the independent jury safeguard. The precise treatments appear with each holding. Dixon's existing criminal-contempt and successive-prosecution rules, including retained Grady, remain unchanged; no future offense or defense is decided. Kurth Ranch's separate tax classification and Honda's civil punitive-review rule do not replace contempt precedent. No precedent is overruled.
-
-## Law After Decision
-
-Effective June 30, 1994, the prospectively announced schedule does not convert these fixed, noncompensatory and nonpurgeable public fines into civil coercion. Their serious criminal character requires a jury despite the heightened proof burden used below. The additional necessity/factfinding account reinforces this application without a universal complexity or amount test. Genuine loss compensation and conditional performance-based civil coercion remain available within their predicates. The case creates no special labor exemption, numerical petty-contempt ceiling, automatic prosecution command or prospective jeopardy ruling.
-
-## Separate Writings
-
-Justice Scalia joins the Court's opinion but separately declines to select a comprehensive test for every civil/criminal boundary. Traditional coercive contempt commonly induced an identifiable act, or cessation of an identifiable continuing act, with confinement or per-day pressure ending through compliance. A continuing judicial code regulating many activities differs: obligations persist and retrospective credibility disputes multiply, concentrating rulemaking, accusation, factfinding and punishment in the same court. Those historical concerns reinforce criminal safeguards on these extreme facts. A discrete supervisory act can remain susceptible to civil coercion; the present record does not authorize separating particular assessments by clause. Ending future per-day pressure does not necessarily erase burdens already accrued. His historical account is additional and noncontrolling; he leaves the exact boundary for other decrees open. No other Justice joins this concurrence.
-
-Justice Ginsburg concurs in part and in the judgment. She joins Parts I and III and relies on the traditional Gompers/Hicks distinction. A contemnor can perform the act required by genuine coercive relief; punishment for a completed forbidden act cannot be undone by promising future obedience. The advance schedule offered only the opportunity to obey before committing the violation, just as criminal law does. Mine Workers's suspended fine provided a later compliance route absent here. Survival of these unpaid public assessments after settlement, withdrawal of the private complainant and appointment of a collection official further reveals vindication of public authority. In this setting, a proceeding retaining only the asserted private civil character would call for vacatur after the parties' settlement and joint request. She announces no payee-only test or rule governing every settlement. She agrees that these serious criminal sanctions require a jury, while declining Part II's additional necessity and factfinding account. No other Justice joins this concurrence.
-
-## Procedure After Action
-
-The case returns through the Virginia Supreme Court for proceedings consistent with reversal of the surviving public-fine judgment. Collection cannot rest on the civil nonjury adjudications rejected here. Any further criminal proceeding must have its own lawful basis and respect all applicable defenses; none is ordered or prejudged. The already-vacated private and initial fines remain outside the judgment.
-
-## Source Notes
-
-The [Virginia Supreme Court opinion, 244 Va. 463](https://static.case.law/va/244/html/0463-01.html) supplies the consolidated posture, decree enforcement and lower judgment. The [official report, 512 U.S. 821–848](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512821/usrep512821.pdf) supplies the docket, argument date and reported sanction and settlement facts. The [Hicks report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep485/usrep485624/usrep485624.pdf), [Bloom report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391194/usrep391194.pdf) and [Shillitani report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep384/usrep384364/usrep384364.pdf) support the earlier classification and procedural rules. The complete operative injunction and violation-by-violation allocations are unavailable; no clause-specific disposition or reconstructed exact total is asserted. The intermediate ruling is reported through the state high-court source. The parties agree that the Company fines were vacated despite incomplete express-vacatur documentation. The review question is stated in substance; no verbatim grant wording or actual judicial-bias finding is asserted.
 
 ---
 
@@ -1363,14 +1379,14 @@ The complete certified evidentiary record, full appearance transcript, video and
 
 ---
 
-<!-- source-record: McFarland_v_Scott_merits_1994-06-30.md -->
+<!-- source-record: International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md -->
 ## Event
 
-McFarland v. Scott, No. 93-6497; 512 U.S. 849. Argued March 29, 1994; decided June 30, 1994. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, 7 F.3d 47. The questions are whether an indigent capital prisoner may obtain §848(q)(4)(B) counsel before a formal federal habeas application and whether the qualifying request permits consideration of a §2251 stay.
+International Union, United Mine Workers of America v. Bagwell, No. 92-1625; 512 U.S. 821. Argued November 29, 1993; decided June 30, 1994. On writ of certiorari to the Supreme Court of Virginia, 244 Va. 463, 423 S.E.2d 349, which on November 6, 1992 reversed the intermediate court and entered final judgment for Bagwell in Record 910634 and affirmed the circuit court in Record 920299. The question is whether the surviving substantial fines for completed out-of-court violations are civil coercion because announced prospectively or criminal punishment requiring a jury.
 
-The reviewed proceeding began with McFarland's October 22, 1993 request expressly identifying a contemplated §2254 challenge and seeking statutory counsel and a stay. The resource center had been unable to obtain volunteer counsel. The district court denied relief October 25; on October 26 the Fifth Circuit granted leave to proceed without prepayment of fees but denied a certificate of probable cause, counsel and a stay. It also relied on the absence of a general constitutional state-collateral-counsel right, the absence of a shown substantial constitutional claim and hypothetical dismissal for nonexhaustion if the motion were treated as a petition. A skeletal petition filed by a located attorney on October 26 began a separate proceeding; it is not this motion. The earlier October 27 execution setting supplies history, not a present execution date.
+The 1989 labor injunction prohibited violence, obstruction and specified picketing conduct and required supervision and reporting. The initial $642,000 fines, including a $424,000 suspension, were later vacated and are not under review. The announced schedule for future breaches was $100,000 per violent violation and $20,000 per nonviolent violation. Seven later hearings addressed more than 400 violations and imposed over $64 million, with extensive adversarial process and proof beyond a reasonable doubt but no jury. After settlement the injunction was dissolved and approximately $12 million payable to the Company was vacated. Roughly $52 million for the Commonwealth and two counties remained collectible by Bagwell, preserving a live controversy. No party justified those sums as compensation measured by proved loss; later obedience could not purge the assessed liabilities.
 
-Render form: full. Basis: the separate counsel and stay coalitions, partial disposition, and changed controlling coalitions require distinct tables.
+Render form: full. Basis: the additional procedural explanation has a distinct and materially changed coalition, requiring precise partial-join treatment despite the unanimous judgment.
 
 ## Participation
 
@@ -1378,112 +1394,96 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, S
 
 ## Public Action
 
-The Fifth Circuit's judgment is reversed to permit qualified appointment and lawful consideration of a stay, and the case is remanded. Counsel is sustained by seven Justices; stay authority and its discretionary exercise by six.
+The Virginia Supreme Court's judgment sustaining the surviving public fines is reversed, and the case is remanded, 9–0.
 
 ## Judgment & Remedy
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Statutory appointment before the formal merits application | Reverse, 7–2 | Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Ginsburg | Scalia, Thomas | Appoint qualified counsel under the statutory conditions. |
-| Categorical denial of preapplication §2251 stay authority | Reverse, 6–3 | Stone-Zsela, Blackmun, Stevens, Kennedy, Souter, Ginsburg | O'Connor, Scalia, Thomas | Consider a necessary stay through individualized discretion; no present automatic or indefinite stay. |
+| Surviving approximately $52 million public assessments | Reverse and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No Justice | The fines cannot be collected on these civil nonjury adjudications; any further lawful proceeding must respect criminal safeguards and all independent defenses. |
 
-The certificate denial is removed only insofar as it prevents the statutory consideration supported by each component coalition. It is not a grant for an unidentified constitutional claim or a general holding about §2253. O'Connor would reverse appointment denial but affirm stay denial. Scalia and Thomas would affirm both. Leave to proceed without prepayment remains granted; the conviction, sentence and distinct October 26 proceeding are not adjudicated.
+The Court revives neither the initial vacated fines nor the approximately $12 million private assessments, awards no substitute compensation, commands no prosecution and decides no future double-jeopardy defense. It invalidates no injunction wholesale and fixes no new fine or exact mandate date.
 
 ## Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I–IV | Stevens | Stone-Zsela, Blackmun, Kennedy, Souter, Ginsburg throughout; O'Connor in Part I | Reversal and remand | Part I: statutory counsel and appointment direction, seven. Part II: §2251 pendency, Part III: §2283 express authorization, Part IV: stay discretion and remand, six each. |
-| Concurrence in part and dissent in part | O'Connor | No other Justice | Reverse appointment denial; affirm stay denial | Joins Part I; rejects preapplication §2251 pendency. |
-| Dissent | Thomas | Scalia | Affirm both denials | Requires an actual application for counsel and stay predicates. |
+| Opinion of the Court | Kennedy | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas throughout; Ginsburg in Parts I and III | Reverse and remand | Part I classification and Part III jury/remedy have nine joins. Part II necessity/factfinding account has eight. |
+| Concurrence | Scalia | No other Justice | Joins the Court throughout | Adds a historical-method explanation; reserves a comprehensive future classification test. |
+| Concurrence in part and in the judgment | Ginsburg | No other Justice | Joins Parts I and III and the reversal/remand | Relies on traditional classification and settlement/public-enforcement considerations; declines Part II. |
 
-Each holding has a direct majority; no combination of separate rationales is required.
+Direct majorities support every holding. Thomas joins no separate Scalia writing; Ginsburg's limited join is not judgment-only agreement with the entire opinion.
 
 ## Holdings
 
-### Qualified capital counsel may be appointed before the merits application
+### The surviving fixed public fines are criminal punishment
 
-**Controlling proposition:** A defendant who is or becomes financially unable to obtain adequate representation or reasonably necessary investigative, expert or other services may initiate the postconviction proceeding contemplated by 21 U.S.C. §848(q)(4)(B) through a request for counsel to prepare an identified federal §2254 or §2255 challenge seeking to vacate or set aside a death sentence. The statute entitles the qualifying defendant to counsel before a formal merits application, subject to the qualifications and service conditions stated below; a request unrelated to that federal capital challenge does not qualify.
+**Controlling proposition:** Substantial fixed fines imposed for completed out-of-court violations, unmeasured by proved loss and offering no postimposition compliance-based means to avoid the assessed liability, are criminal punishment in the circumstances presented here. Advance announcement of the schedule does not make these fines civil; genuinely compensatory relief and conditional coercion remain distinct.
 
-**Authority:** Part I of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Kennedy, Souter and Ginsburg. Seven Justices directly adopt the statutory rule and its application to the October 22 motion.
+**Authority:** Part I of Justice Kennedy's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine directly adopt the classification and application.
 
-**Controlling explanation:** The Court holds that Congress provided assistance in preparing the pleading, not merely assistance after the prisoner has prepared it alone. Section 848(q) supplies qualified representation and reasonably necessary services in the capital postconviction proceeding. Habeas Rules 2(c) and 4 require factual pleading and permit early dismissal; investigation therefore has substantial work before the first adequate application. The statutory word proceeding encompasses the express request that starts this authorized preparatory stage. Texas's contrary reading gives insufficient effect to that sequence, although assistance would also perform work after filing. Murray v. Giarratano concerns a general constitutional entitlement to state collateral counsel and does not defeat this enacted federal entitlement. McFarland's October 22 motion expressly identified the federal challenge and requested the statutory assistance. The later October 26 skeletal petition is a different proceeding and supplies neither the basis nor an obstacle to this ruling. The Court decides no underlying claim, general constitutional counsel right, or complete scope of representation in state exhaustion proceedings.
-
-**Precedent treatment:**
-
-- Murray v. Giarratano, 492 U.S. 1 (1989): distinguished; its constitutional collateral-counsel question does not restrict the express federal statutory appointment mechanism.
-- Herrera v. Collins, January 25, 1993: its record-specific rejection of the asserted innocence showing remains intact; no general freestanding-innocence standard is imported into this appointment question.
-
-**Statutory qualifications:** Section 848(q)(6), governing appointment after judgment, requires at least one appointed attorney admitted to the relevant court of appeals for five years with three years of experience handling felony appeals there. Paragraph (5)'s separate pre-judgment rule requires five years' admission in the trial court and three years' actual felony-trial experience there; it does not replace paragraph (6). Under paragraph (7), good cause permits another attorney whose background, knowledge or experience enables proper representation, with due consideration of the possible penalty's seriousness and the litigation's unique and complex nature. Under paragraph (8), representation continues through subsequent available judicial proceedings, all available postconviction process, stay applications and other appropriate motions and procedures, and available competency and clemency proceedings unless similarly qualified counsel replaces the attorney on the attorney's or defendant's motion. The full reach of that provision into later state proceedings is not decided.
-
-Under the then-operative paragraph (9), an ex parte finding that investigative, expert or other services are reasonably necessary for representation concerning guilt or sentence requires authorization and payment under paragraph (10). If timely procurement could not practicably await prior authorization, the court may authorize the services and payment retroactively; it is not required to do so. Paragraph (10) requires compensation and service fees and expenses at rates or amounts the court determines reasonably necessary, notwithstanding generally applicable criminal-case rates and maxima. These conditions do not authorize unconditional payment for unidentified services.
-
-### The statutory preparation proceeding satisfies §2251 pendency
-
-**Controlling proposition:** A qualifying request invoking §848(q)(4)(B) counsel to prepare the identified federal capital challenge commences a habeas proceeding for §2251's limited preparatory purpose. The federal justice or judge before whom it is pending therefore has authority to consider a stay of covered state proceedings although the formal merits application has not yet been filed.
-
-**Authority:** Part II of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six Justices adopt this construction; O'Connor does not join it.
-
-**Controlling explanation:** The Court holds that the authorized preparation stage is a pending proceeding within the stay statute. Section 2251 is the source of this power; the counsel entitlement does not itself authorize an injunction. Congress's provision for counsel to investigate and prepare a capital application identifies a stage of the federal habeas undertaking to which §2251's existing language can apply. Requiring the completed application before that stage can receive protection would allow execution to defeat the work Congress made available. The contrary view properly insists that funding and jurisdiction are separate questions, but it reads proceeding as though Congress had said merits application. The Court gives each statute independent work while recognizing the same limited proceeding. Barefoot v. Estelle's treatment of capital habeas review does not require an already developed claim as the price of preparing it with the assistance Congress supplied. The Court neither determines the separate October 26 petition's sufficiency nor excuses any requirement governing the eventual merits application.
+**Controlling explanation:** The Court holds that the fines' operation determines their character. Gompers distinguishes relief benefiting a complainant through performance from punishment for completed disobedience; Hicks requires examination of the substantive relief rather than the label. These public assessments punish completed breaches and cannot be purged through renewed obedience. No party asserts measured compensation for proved loss. Bagwell answers that the Union could have avoided every fine by obeying the announced schedule. But advance notice also accompanies ordinary criminal prohibitions; it does not supply a later means to discharge these liabilities. Mine Workers preserves a fixed fine suspended on a real compliance condition, and Shillitani permits coercion that ends when the contemnor performs the required act. Those mechanisms remain available where their actual conditions exist. Here settlement, dissolution of the injunction and survival of the public assessments underscore the absence of continuing private remedial relief. The Court does not decide that every complex decree, public payee or accrued coercive payment makes a sanction criminal.
 
 **Precedent treatment:**
 
-- Barefoot v. Estelle, 463 U.S. 880 (1983): its capital merits and successive-review principles are preserved in their settings; they do not eliminate the statutory preparatory stage.
-- Herrera v. Collins, January 25, 1993: distinguished as adjudication of an actual substantive submission, not the initiation of this statutory preparation proceeding.
+- Gompers v. Bucks Stove & Range Co., 221 U.S. 418 (1911): applied to distinguish remedial performance from punishment for completed violations.
+- United States v. Mine Workers, 330 U.S. 258 (1947): preserved; a suspended fine with a genuine later compliance condition differs from these fixed liabilities.
+- Shillitani v. United States, 384 U.S. 364 (1966): preserved; conditional coercion depends on a continuing lawful opportunity to perform the required act.
+- Hicks v. Feiock, 485 U.S. 624 (1988): applied; federal constitutional classification follows the proceeding and relief's substance, not its civil label.
 
-**Section 2251's remaining terms:** The judge may act before final judgment, after final judgment of discharge, or pending appeal. The covered state proceeding must be against the detained person in a state court or under state authority and concern a matter involved in the habeas proceeding. After a stay is granted, covered subsequent state proceedings are void; without a stay, they remain valid as though no federal habeas proceeding or appeal were pending.
+**Civil remedies and limits:** Compensation must correspond to proved loss. Genuine coercion may use prospective per-day sanctions avoidable through present compliance, confinement terminable by performance, or a fixed fine suspended on a real compliance condition. The contemnor must have the relevant ability to comply. The Court does not require cancellation of every already accrued per-day burden upon eventual compliance. Wording a command affirmatively or negatively does not itself settle classification; this decree contained both kinds of obligations. No clause-by-clause severance is undertaken. The Court does not displace the distinct classification of legislative civil schemes or resolve every discovery or litigation-management sanction.
 
-### Section 2251 supplies the express statutory exception to §2283
+### Necessity for enforcement does not excuse criminal procedure on this record
 
-**Controlling proposition:** For a covered state-court proceeding within the pending habeas matter described above, §2251 expressly authorizes a stay and thus satisfies §2283's exception for an Act of Congress expressly authorizing an injunction. This ruling does not independently find §2283's distinct exceptions for aid of jurisdiction or protection or effectuation of judgments satisfied.
+**Controlling proposition:** The need to enforce this continuing decree does not justify imposing serious punitive sanctions for dispersed out-of-court conduct without the criminal safeguards those sanctions require. The scale of the liabilities, complex obligations and extensive retrospective factfinding reinforce the criminal classification; neither complexity nor amount alone supplies a universal civil/criminal test.
 
-**Authority:** Part III of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six Justices directly adopt this statutory conclusion; it is distinct from the appointment entitlement and from the exercise of stay discretion.
+**Authority:** Part II of Justice Kennedy's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter and Thomas. Eight Justices adopt this additional bounded procedural explanation. Ginsburg joins the common classification and remedy but not this account.
 
-**Controlling explanation:** The Court holds that the Anti-Injunction Act does not defeat the authority Congress expressly supplies through §2251. Section 2283 forbids a federal injunction staying state-court proceedings unless one of its stated exceptions applies. Section 2251 authorizes a judge with a pending habeas proceeding to stay the covered state action. Once the qualifying preparation motion satisfies that pendency requirement, the express congressional authorization is present. The lower court's contrary conclusion depended on its rejected view that no habeas proceeding existed. Recognizing the exception therefore requires no general equitable power and no inference that every statutory right to counsel carries an injunction remedy. The competing reading would deny this exception because it denies pendency, not because §2251 lacks express stay language. The Court preserves the other two exceptions as separate provisions and does not decide that either supplies an alternative basis here. Barefoot's distinct review principles continue to govern their proper stages; statutory authority remains separate from entitlement to its discretionary exercise.
-
-**Precedent treatment:**
-
-- Barefoot v. Estelle, 463 U.S. 880 (1983): preserved; this statutory authorization ruling neither displaces its applicable review principles nor creates an automatic capital stay.
-
-**Independent statutory steps:** Financial eligibility and a covered counsel request establish the appointment entitlement. Section 2251 separately supplies stay power after the Court's pendency construction. Section 2283's express-authorization exception answers the prohibition on staying state-court proceedings. None of those conclusions alone requires a stay.
-
-### Reasonable preparation and individualized stay discretion govern the remand
-
-**Controlling proposition:** The district court must appoint qualified counsel and afford a reasonable opportunity for meaningful investigation and presentation of available habeas claims, considering a stay when necessary to protect that work. A stay is neither automatic nor indefinite: the court must assess the actual circumstances and may deny relief where the prisoner inexcusably ignores an available opportunity and obstructs the process; no such finding is made here.
-
-**Authority:** Part IV of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six adopt the stay-discretion rule and common remand; O'Connor separately joins the appointment direction under Part I only.
-
-**Controlling explanation:** The Court holds that authority must be exercised to make the statutory opportunity meaningful without conferring unlimited delay. Counsel needs a reasonable chance to investigate and prepare the first application. Execution timing, realistic preparation needs, prior opportunities for assistance and demonstrated obstruction bear on that assessment; no rigid schedule or presumption of abuse follows. Barefoot preserves substantive review standards where developed claims or successive applications are before the court, but requiring that finished showing before preparatory counsel can work confuses the stages. The lower court's constitutional-counsel observation does not answer §848, and its hypothetical conversion of this motion into an unexhausted petition does not decide the relief actually requested. Exhaustion and other collateral limitations govern the eventual petition at their proper stage. The certificate denial falls only insofar as it obstructs the statutory consideration ordered here. The Court grants no certificate for an unidentified constitutional claim, issues no present execution stay, and decides no general rule for every ancillary order under §2253.
+**Controlling explanation:** The Court holds that enforcement necessity must be assessed in the setting in which the power is used. Immediate courtroom obstruction can require an immediate judicial response under the established limits of direct contempt. Discrete acts that impede adjudication or remain susceptible to performance-based coercion present different needs from a continuing decree regulating many activities outside the court's presence. The present proceedings required extensive evidence and resolution of disputes about hundreds of completed acts. The judge's interest in enforcing the order does not remove the procedural protection that Bloom attaches to serious criminal punishment. Shillitani's power to induce an identifiable performance does not answer that concern. The opposing argument correctly stresses that civil courts must retain effective means of enforcement, but it does not make these final public liabilities conditional or compensatory. This explanation strengthens the classification already established by their operation; it creates no free-form balance permitting a judge to replace a required jury with procedures thought equally reliable.
 
 **Precedent treatment:**
 
-- Barefoot v. Estelle, 463 U.S. 880 (1983): preserved for merits and successive-review questions; distinguished from reasonable preparation under the enacted counsel right.
-- Murray v. Giarratano, 492 U.S. 1 (1989): does not sustain denial of the statutory federal assistance recognized here.
-- Reed v. Farley, June 20, 1994: collateral-relief and exhaustion rules remain separate; exhaustion retains exceptions where state corrective process is absent or circumstances make it ineffective to protect the prisoner's rights.
+- Bloom v. Illinois, 391 U.S. 194 (1968): applied; the enforcement interest does not dispense with the jury for serious criminal contempt.
+- Shillitani v. United States, 384 U.S. 364 (1966): distinguished as continuing coercion directed to an identifiable act the contemnor could perform.
 
-**Limits:** No conviction or death sentence is vacated, no release or merits writ is ordered, no new execution date is found, and no decision concerns the separate October 26 action's dismissal or exhaustion. The grant of leave to proceed without prepayment of fees remains undisturbed.
+**Scope:** Existing direct-contempt powers remain subject to their own limits; directness alone does not remove the jury right when the punishment is serious. This case involves indirect contempt. No actual judicial bias is found, no mechanical complexity rule is adopted, and no independent ground validates or invalidates the underlying labor injunction.
+
+### Serious criminal contempt requires a jury and these civil assessments cannot stand
+
+**Controlling proposition:** These approximately $52 million public fines constitute serious criminal contempt and require applicable criminal safeguards, including a jury. Proof beyond a reasonable doubt before a judge does not replace that protection; the judgment sustaining collection through these nonjury civil adjudications is reversed and the case remanded, without directing a new prosecution or reviving any vacated fines.
+
+**Authority:** Part III of Justice Kennedy's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine adopt the jury rule and bounded reversal/remand.
+
+**Controlling explanation:** The Court holds that the substantial process furnished here did not include the independent protection the Constitution requires. Bloom establishes a jury right for serious criminal contempt even though a judge has a strong interest in vindicating the court's authority. Notice, discovery, cross-examination and proof beyond a reasonable doubt serve real purposes, but they do not constitute a jury. The approximately $52 million surviving public liabilities are plainly serious without fixing a numerical boundary for petty contempt. The civil character asserted below therefore cannot sustain their collection. This conclusion does not forbid punishment of violent or obstructive conduct through lawful criminal proceedings, confer special immunity on a labor organization, or decide every sanction available under an injunction. It removes the judgment's present legal basis and leaves any further proceeding to its own authority and defenses. Dixon's criminal-jeopardy rule remains applicable in its proper setting, but no hypothetical later charge, offense identity or double-jeopardy defense is adjudicated here.
+
+**Precedent treatment:**
+
+- Bloom v. Illinois, 391 U.S. 194 (1968): applied; serious criminal contempt requires a jury, while the petty-offense qualification remains distinct from the civil/criminal classification.
+- United States v. Dixon, June 28, 1993: its rule for completed nonsummary criminal contempt and its retention of Grady remain intact; no future prosecution or defense is decided.
+
+**Remedial boundaries:** No jury waiver or harmlessness finding is made. The vacated initial $642,000 fines, including the former $424,000 suspension, and the vacated approximately $12 million Company assessments remain outside the surviving judgment. No substitute compensation, new fine amount, conviction, prosecution, specific mandate date, substantive-excessiveness ruling or wholesale invalidation of the dissolved injunction is ordered. Petty criminal contempt may lack a jury requirement but remains criminal and retains its applicable safeguards.
 
 ## Precedent Treatment
 
-Giarratano's constitutional question, Barefoot's applicable merits and successive-review principles, Herrera's record-specific innocence disposition, Custis's distinct ACCA channel and Reed's collateral and exhaustion limits retain their force. The holdings above identify the precise distinctions. No precedent is overruled; no general constitutional collateral-counsel right is announced.
+Gompers, Mine Workers, Shillitani and Hicks supply the retained relief-based distinctions, and Bloom requires the independent jury safeguard. The precise treatments appear with each holding. Dixon's existing criminal-contempt and successive-prosecution rules, including retained Grady, remain unchanged; no future offense or defense is decided. Kurth Ranch's separate tax classification and Honda's civil punitive-review rule do not replace contempt precedent. No precedent is overruled.
 
 ## Law After Decision
 
-Effective June 30, 1994, the qualifying federal capital-counsel request begins the statutory preparation proceeding before the formal merits application. Section 2251 separately permits a stay of covered state action and supplies the express congressional exception to §2283. Appointment entitlement and stay discretion remain different decisions. The court must provide a reasonable preparation opportunity while managing proved delay or obstruction; later pleading, exhaustion, default and abuse rules retain their proper operation. The decision establishes no universal §2253 rule or entitlement to merits relief.
+Effective June 30, 1994, the prospectively announced schedule does not convert these fixed, noncompensatory and nonpurgeable public fines into civil coercion. Their serious criminal character requires a jury despite the heightened proof burden used below. The additional necessity/factfinding account reinforces this application without a universal complexity or amount test. Genuine loss compensation and conditional performance-based civil coercion remain available within their predicates. The case creates no special labor exemption, numerical petty-contempt ceiling, automatic prosecution command or prospective jeopardy ruling.
 
 ## Separate Writings
 
-Justice O'Connor joins the counsel holding because Congress may provide assistance before a merits application. She nevertheless regards §2251 as requiring an actual habeas application and would affirm the stay denial in this proceeding. Section 848's reference to stay applications describes counsel's work rather than amending the separate pendency requirement; practical need cannot supply the missing authority on her reading.
+Justice Scalia joins the Court's opinion but separately declines to select a comprehensive test for every civil/criminal boundary. Traditional coercive contempt commonly induced an identifiable act, or cessation of an identifiable continuing act, with confinement or per-day pressure ending through compliance. A continuing judicial code regulating many activities differs: obligations persist and retrospective credibility disputes multiply, concentrating rulemaking, accusation, factfinding and punishment in the same court. Those historical concerns reinforce criminal safeguards on these extreme facts. A discrete supervisory act can remain susceptible to civil coercion; the present record does not authorize separating particular assessments by clause. Ending future per-day pressure does not necessarily erase burdens already accrued. His historical account is additional and noncontrolling; he leaves the exact boundary for other decrees open. No other Justice joins this concurrence.
 
-Justice Thomas, joined by Justice Scalia, would affirm both denials. They read the appointment statute's reference to a proceeding under §§2254 or 2255 and §2251's pendency requirement to demand an actual application. Investigative services still perform work after filing, and practical usefulness does not remove either textual predicate. They make no finding of deliberate delay, adequate alternative assistance or any defect in the distinct October 26 action.
+Justice Ginsburg concurs in part and in the judgment. She joins Parts I and III and relies on the traditional Gompers/Hicks distinction. A contemnor can perform the act required by genuine coercive relief; punishment for a completed forbidden act cannot be undone by promising future obedience. The advance schedule offered only the opportunity to obey before committing the violation, just as criminal law does. Mine Workers's suspended fine provided a later compliance route absent here. Survival of these unpaid public assessments after settlement, withdrawal of the private complainant and appointment of a collection official further reveals vindication of public authority. In this setting, a proceeding retaining only the asserted private civil character would call for vacatur after the parties' settlement and joint request. She announces no payee-only test or rule governing every settlement. She agrees that these serious criminal sanctions require a jury, while declining Part II's additional necessity and factfinding account. No other Justice joins this concurrence.
 
 ## Procedure After Action
 
-The case returns through the Fifth Circuit for qualified appointment and district-court consideration of a necessary preparatory stay under the correct authority. The district court retains individualized discretion and reasonable case-management authority. No release, merits writ, new execution date, indefinite stay or decision concerning the separate petition is ordered.
+The case returns through the Virginia Supreme Court for proceedings consistent with reversal of the surviving public-fine judgment. Collection cannot rest on the civil nonjury adjudications rejected here. Any further criminal proceeding must have its own lawful basis and respect all applicable defenses; none is ordered or prejudged. The already-vacated private and initial fines remain outside the judgment.
 
 ## Source Notes
 
-The [Fifth Circuit opinion, 7 F.3d 47](https://static.case.law/f3d/7/html/0047-01.html) supplies the reviewed order and its alternative grounds. The [official report, 512 U.S. 849–873](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512849/usrep512849.pdf) supplies the docket, dates and reported procedural sequence, including the separate October 26 filing. The archived text of [21 U.S.C. §848](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title21-section848&num=0&edition=1994), read in its form effective on the decision date, supplies the appointment, qualification and service provisions; the operative versions of [§2251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2251&num=0&edition=1994) and [§2283](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2283&num=0&edition=1994) supply the distinct stay rules. The full underlying collateral record and all party briefs are unavailable. The decision makes no unreported diligence, exhaustion or merits finding, and states the review questions in substance rather than as a verbatim grant quotation.
+The [Virginia Supreme Court opinion, 244 Va. 463](https://static.case.law/va/244/html/0463-01.html) supplies the consolidated posture, decree enforcement and lower judgment. The [official report, 512 U.S. 821–848](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512821/usrep512821.pdf) supplies the docket, argument date and reported sanction and settlement facts. The [Hicks report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep485/usrep485624/usrep485624.pdf), [Bloom report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391194/usrep391194.pdf) and [Shillitani report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep384/usrep384364/usrep384364.pdf) support the earlier classification and procedural rules. The complete operative injunction and violation-by-violation allocations are unavailable; no clause-specific disposition or reconstructed exact total is asserted. The intermediate ruling is reported through the state high-court source. The parties agree that the Company fines were vacated despite incomplete express-vacatur documentation. The review question is stated in substance; no verbatim grant wording or actual judicial-bias finding is asserted.
 
 ---
 

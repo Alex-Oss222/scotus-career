@@ -2,7 +2,7 @@
 
 Durable file freeze September 27, 2026, under the user's prohibition on git commands. No repository commit is claimed. This context is physically separate from neutral modeling and has received no Stone supplement or combined brief. Inputs are the immutable A2 commitments; neutral packet and sanitized source facts; the historical comparator; complete official PDF texts; and the actual entering-law and completed chunk1 public-authority slices. The original commitments remain preserved. Research cutoff is immediately before January 24, 1994. These three cases share the same uncoordinated daily baseline and do not supply precedent to each other.
 
-[Official-source validation](OT_1993CHUNK2_SOURCE_VALIDATION.md) supplies the complete historical opinion inventory and research limits. Authorship in that inventory does not assign this Court's opinions. This handoff determines only non-Stone commitments and compatibility boundaries. A1's different subject matters supply no changed substantive premise here.
+[Official-source validation](../freeze/OT_1993CHUNK2_SOURCE_VALIDATION.md) supplies the complete historical opinion inventory and research limits. Authorship in that inventory does not assign this Court's opinions. This handoff determines only non-Stone commitments and compatibility boundaries. A1's different subject matters supply no changed substantive premise here.
 
 ## 15. Albright v. Oliver
 

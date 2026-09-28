@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** The waste-origin decisions and Boston Harbor preserve the distinction between government purchasing and regulation. Determine this flow-control ordinance's actual operation; municipal involvement alone does not establish a market-participant exception. Earlier OT1993 commerce decisions require effective simulated records. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,7 +57,7 @@ The enforcement judgment burdens Carbone’s actual operations and interstate di
 **Source Support:** [R23](https://supreme.justia.com/cases/federal/us/511/383/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [C & A Carbone, Inc. v. Town of Clarkstown review](review/04_CASES_37-48.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [C & A Carbone, Inc. v. Town of Clarkstown review](review/04_CASES_37-48.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 46. Kokkonen v. Guardian Life Insurance Co. of America
@@ -78,7 +78,7 @@ The enforcement judgment burdens Carbone’s actual operations and interstate di
 
 **Inherited-Law Context:** Willy's collateral power over completed litigation misconduct is distinct from jurisdiction to enforce a private settlement. It does not create general post-dismissal contract jurisdiction. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -115,7 +115,7 @@ Subject-matter jurisdiction must be decided before settlement breach. Original d
 **Source Support:** [R24](https://supreme.justia.com/cases/federal/us/511/375/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Kokkonen v. Guardian Life Insurance Co. of America review](review/04_CASES_37-48.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Kokkonen v. Guardian Life Insurance Co. of America review](review/04_CASES_37-48.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 47. Beecham v. United States
@@ -136,7 +136,7 @@ Subject-matter jurisdiction must be decided before settlement breach. Original d
 
 **Inherited-Law Context:** No inherited ruling determines which sovereign restores rights for a federal conviction under §921(a)(20). Keep the sovereign-of-conviction question separate from the effect of an otherwise valid restoration. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -173,7 +173,7 @@ Application begins with the sovereign of conviction, then asks whether that sove
 **Source Support:** 511 U.S. 369-374: conviction jurisdictions, restoration orders, statutory text, and the judgments below. [P23](https://supreme.justia.com/cases/federal/us/511/368/)
 
 
-**Revision Trace:** User-directed implementation of [Beecham v. United States review](review/04_CASES_37-48.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Beecham v. United States review](review/04_CASES_37-48.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 48. Security Services, Inc. v. Kmart Corp.
@@ -194,7 +194,7 @@ Application begins with the sovereign of conviction, then asks whether that sove
 
 **Inherited-Law Context:** Reiter preserves undercharge adjudication, counterclaims and primary-jurisdiction referral as separate steps. It does not establish the legal effectiveness of a mileage tariff after canceled participation. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -229,4 +229,4 @@ Lower courts should verify the incorporated schedules, authorized participation,
 **Source Support:** 511 U.S. 433-461: tariff participation, timing of shipments, bankruptcy claim, and competing tariff constructions. [P24](https://supreme.justia.com/cases/federal/us/511/431/)
 
 
-**Revision Trace:** User-directed implementation of [Security Services, Inc. v. Kmart Corp. review](review/04_CASES_37-48.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Security Services, Inc. v. Kmart Corp. review](review/04_CASES_37-48.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

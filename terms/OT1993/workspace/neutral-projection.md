@@ -977,7 +977,7 @@ Original federal jurisdiction and approval of a settlement do not themselves aut
 
 #### The law of the convicting jurisdiction governs the conviction exclusion
 
-**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
 
 **Authority:** O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; all nine affirm both included judgments on this ground.
 

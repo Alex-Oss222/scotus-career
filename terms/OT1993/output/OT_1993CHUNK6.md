@@ -4,20 +4,124 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
+| 1994-06-06 | Farmer v. Brennan | Merits decision | Remanded for reconsideration of discovery, summary judgment and any current need for protection. |
 | 1994-06-06 | Department of Revenue of Montana v. Kurth Ranch | Merits decision | Disallowance of the surviving tax claim remains effective; administration and any necessary accounting implement the judgment. |
 | 1994-06-06 | Digital Equipment Corp. v. Desktop Direct, Inc. | Merits decision | Interlocutory appeal dismissed; the district litigation continues in its existing posture. |
-| 1994-06-06 | Farmer v. Brennan | Merits decision | Remanded for reconsideration of discovery, summary judgment and any current need for protection. |
 | 1994-06-06 | Key Tronic Corp. v. United States | Merits decision | Remanded for task-specific identification costs; litigation and claimed negotiation expenses remain excluded. |
 | 1994-06-13 | City of Ladue v. Gilleo | Merits decision | Existing protection against the replacement sign prohibition remains in force. |
-| 1994-06-13 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | Merits decision | Reversed on both facial grounds; remanded with concrete application challenges preserved. |
-| 1994-06-13 | Howlett v. Birkdale Shipping Co., S.A. | Merits decision | Vacated and remanded for reconsideration of the turnover-warning claim; renewed summary judgment remains possible. |
-| 1994-06-13 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | Merits decision | Remanded following reversal of both grounds for the reprimand. |
-| 1994-06-13 | Livadas v. Bradshaw | Merits decision | Reversed and remanded for appropriate relief against the official-capacity policy, subject to remedial and immunity limits. |
 | 1994-06-13 | O’Melveny & Myers v. FDIC | Merits decision | Reversed and remanded for preserved California-law questions; liability and damages remain undecided. |
 | 1994-06-13 | Romano v. Oklahoma | Merits decision | Death-sustaining appellate judgment vacated and remanded; further remedy remains unresolved, and guilt is untouched. |
+| 1994-06-13 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | Merits decision | Remanded following reversal of both grounds for the reprimand. |
+| 1994-06-13 | Livadas v. Bradshaw | Merits decision | Reversed and remanded for appropriate relief against the official-capacity policy, subject to remedial and immunity limits. |
 | 1994-06-13 | United States v. Carlton | Merits decision | Reversed and remanded for application of the amended ownership rule; the asserted due-process refund theory fails. |
+| 1994-06-13 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | Merits decision | Reversed on both facial grounds; remanded with concrete application challenges preserved. |
+| 1994-06-13 | Howlett v. Birkdale Shipping Co., S.A. | Merits decision | Vacated and remanded for reconsideration of the turnover-warning claim; renewed summary judgment remains possible. |
 
 ## Decisions and Dispositions
+
+### Farmer v. Brennan, No. 92-7247
+
+Merits decision, June 6, 1994
+
+#### Chronology and Posture
+
+511 U.S. 825. Argued January 12, 1994; decided June 6, 1994. On writ of certiorari to the Seventh Circuit's unpublished summary affirmance of judgment for federal prison officials. The questions are the meaning of deliberate indifference in a failure-to-protect claim and whether the absence of an express warning defeats other possible proof of actual knowledge. Farmer alleges assault after a March 9, 1989 transfer and seeks damages and prospective protection; officials dispute their individual knowledge and responsibility.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
+
+#### Judgment
+
+The judgment is vacated and the case remanded, 9–0.
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Failure-to-protect summary judgment and related discovery ruling | Vacate and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Reconsider the Rule 56(f) request and judgment using actual awareness and ordinary circumstantial proof; preserve individualized defenses and current-relief review. |
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Souter | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Ginsburg | Vacatur and remand | Entire actual-awareness, proof, reasonable-response, application and bounded-remedy opinion |
+| Concurrence | Blackmun | No other Justice | Joins the Court and judgment | Preserves objection to Wilson while accepting its application here |
+| Concurrence | Stevens | No other Justice | Joins the Court and judgment | Preserves objection to a subjective-motivation condition for cruel confinement |
+| Concurrence in the judgment | Thomas | No other Justice | Vacatur and remand only | Applies the unchallenged framework provisionally; does not join the constitutional predicate or remedial reasoning |
+
+#### Controlling Propositions and Authority
+
+##### Actual awareness and unreasonable disregard of substantial danger
+
+**Controlling proposition:** A prison official violates the Eighth Amendment by disregarding a substantial risk of serious harm only if the official knows facts indicating that risk, actually appreciates the risk, and fails to respond reasonably. A danger that an official merely should have discovered does not establish deliberate indifference; an official who responds reasonably is not liable under this rule even if harm occurs.
+
+**Authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight Justices adopt this rule; Thomas joins only the judgment.
+
+**Controlling explanation:** The Court holds that deliberate indifference requires actual appreciation of serious danger. Estelle separates constitutionally culpable indifference from negligence, and Wilson requires both a serious deprivation and a culpable state of mind in a conditions claim. Hudson v. Palmer recognizes the duty to protect prisoners whom custody prevents from protecting themselves. Those duties do not make officials insurers against every assault. The official must understand the substantial risk, but need not foresee its precise attacker, timing or mechanism when the known danger encompasses the prisoner's situation. The broader proposal to impose liability for whatever a reasonable official would have recognized would replace Wilson's subjective requirement. The opposite proposal to demand purposeful harm would confuse ordinary protective duties with the distinct force setting. Reasonable protective action defeats deliberate indifference even when unsuccessful. The Court does not find that any defendant possessed the required knowledge, had responsibility for a particular placement, caused the assault or lacks a defense. Those questions remain individualized on remand.
+
+**Precedent treatment:**
+
+- Estelle v. Gamble, 429 U.S. 97: applies its distinction between deliberate indifference and negligence without reopening the accepted conditions framework.
+- Wilson v. Seiter, 501 U.S. 294: applies its separate objective and subjective requirements and specifies actual-awareness recklessness for this failure-to-protect claim.
+- Hudson v. Palmer, 468 U.S. 517: applies its recognition of custodial protection duties; it supplies no automatic liability from an assault.
+- Hudson v. McMillian, February 25, 1992: preserves the nontrivial malicious-beating holding and leaves its unresolved broader force standards untouched; no universal malicious-and-sadistic requirement enters this conditions claim.
+
+##### Circumstantial proof and reconsideration of summary judgment
+
+**Controlling proposition:** Actual awareness may be proved by ordinary circumstantial evidence, including an obvious risk, and does not require an express warning by the prisoner. Obviousness permits but does not compel an inference: a genuine failure to appreciate the risk defeats the knowledge element, whereas deliberately refusing to confirm strongly suspected facts or their obvious inference may establish awareness; summary judgment here must be reconsidered without treating Farmer's silence as dispositive.
+
+**Authority:** The proof-and-remand portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight adopt its reasoning; all nine support vacatur and remand.
+
+**Controlling explanation:** The Court holds that a subjective rule does not require direct admission of knowledge. Wilson's culpability requirement asks what the official actually understood; ordinary evidence may answer that question. An obvious and longstanding danger, reports, experience or communications may permit a factfinder to reject a disclaimer of awareness. But proof that an official ought to have known remains different from proof that the official did know. Deliberate avoidance of a strongly suspected danger cannot secure immunity from that inference, while an honest failure to draw it remains outside this constitutional rule. Farmer sought discovery about institutional violence and officials' knowledge under Rule 56(f). The district court denied that request and treated the absence of an express safety complaint as decisive. That approach may have foreclosed other material evidence. The Court therefore requires reconsideration of the request and summary judgment under the proper standard whether discovery is ultimately allowed or denied. It neither orders trial nor bars renewed summary judgment on a properly considered record.
+
+**Precedent treatment:**
+
+- Wilson v. Seiter, 501 U.S. 294: applies its actual culpability requirement without making a prisoner warning an additional element.
+- Estelle v. Gamble, 429 U.S. 97: preserves the negligence boundary while allowing ordinary evidence of deliberate indifference.
+
+**Limits and questions not reached:** The transfer officials may contest their knowledge, responsibility, causation and reasonable response. The Court does not combine different defendants' innocent information into collective knowledge, find the alleged assault proved, or decide qualified immunity. The event-date rule is Rule 56(f).
+
+##### Current danger governs preventive relief
+
+**Controlling proposition:** Prospective protection requires an established current substantial danger and knowing unreasonable nonresponse that persists through the litigation and is likely to continue. The court may consider later developments bearing on present danger and knowledge; litigation notice cannot create past damages liability, and officials may defeat prospective relief by showing that the danger or culpable response has ceased and will not recur.
+
+**Authority:** The prospective-relief portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg; eight Justices adopt this rule and the bounded remand.
+
+**Controlling explanation:** The Court holds that preventive relief concerns present conditions. Helling permits a prisoner to seek protection before serious harm occurs, while retaining Wilson's culpability requirement. The Government's earlier reliance on administrative detention cannot resolve the issue when its later account places Farmer in the general population of a medium-security prison. Neither account establishes a present constitutional danger by itself. Within ordinary procedural discretion, the district court may consider evidence developed during litigation showing both an ongoing substantial risk and the responsible officials' knowing failure to respond reasonably. A filed allegation supplies no finding of danger, and later notice does not establish what officials knew before the assault. Officials remain free to show changed placement, effective protection or cessation unlikely to recur. Any injunction must fit the established danger and officials' lawful responsibilities. The record does not justify a blanket prohibition on all penitentiary placement. The Court preserves the distinct capacities, causation and immunity inquiries and awards neither damages nor an injunction.
+
+**Precedent treatment:**
+
+- Helling v. McKinney, June 18, 1993: applies preventive protection against serious future harm and its direction to examine current conditions.
+- Wilson v. Seiter, 501 U.S. 294: retains the separate culpability requirement for the threatened conditions violation.
+- Bivens v. Six Unknown Named Agents, 403 U.S. 388: preserves the presented individual-officer damages channel without creating a Treasury claim.
+- Carlson v. Green, 446 U.S. 14: preserves the individual-officer Eighth Amendment damages source; damages entitlement remains unproved.
+- FDIC v. Meyer, February 23, 1994: applies the distinction between an individual claim and an unavailable direct agency constitutional damages action.
+- Elder v. Holloway, February 23, 1994: preserves review of immunity using all relevant law existing when the conduct occurred; this decision supplies no retroactive notice in 1989.
+
+**Limits and questions not reached:** The Terre Haute warden and Bureau Director were sued only in official capacities; the Oxford warden, case manager and two regional officials faced both-capacity claims. Equitable discretion and appropriate internal grievance procedures are not converted into a new mandatory exhaustion holding. No later statutory exhaustion regime is applied.
+
+#### Precedent Treatment and Current-Law Effect
+
+Wilson remains controlling; its subjective requirement is now specified for this failure-to-protect claim. Helling remains the basis for preventive review. The limited malicious-force rule in Hudson is neither enlarged nor displaced. No precedent is overruled.
+
+Effective June 6, 1994, deliberate indifference in this conditions claim requires actual awareness and unreasonable disregard, with ordinary circumstantial proof and a reasonable-response limit. Absence of a prisoner warning is not dispositive. Prospective relief turns on current danger and conduct; historical knowledge, individual capacities, causation and qualified immunity remain distinct. No defendant is found liable, and no universal mental-state rule for all prison-force claims is adopted.
+
+#### Separate Positions Relevant to the Decision
+
+Justice Blackmun joins the Court because it applies the unchallenged deliberate-indifference framework while preserving workable circumstantial proof and prevention of future harm. He would overrule Wilson's general subjective requirement: objectively inhumane conditions may violate the Eighth Amendment without identifying an official with the required state of mind. That broader position does not change the rule the Court adopts here.
+
+Justice Stevens joins the Court's application but maintains that confinement conditions imposed on a prisoner can constitute punishment without improper subjective motivation. His disagreement with Wilson does not impose a purposeful-malice requirement or prevent his join in the present actual-awareness rule.
+
+Justice Thomas concurs only in the judgment. In his view, not every condition or unauthorized omission is punishment within the Eighth Amendment. Because the parties do not seek overruling Estelle or Wilson, he accepts a cautionary remand within their framework to determine whether Farmer's silence was treated as dispositive. The remand does not declare the officials liable or prevent renewed summary judgment after the proper inquiry. His judgment vote does not join the Court's broader constitutional or prospective-relief explanation.
+
+#### Source Notes
+
+The [official report, 511 U.S. 825](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511825/usrep511825.pdf), at 829–832 and 848–851, supplies the procedural record, capacities, discovery request and reported changes in confinement. No separate reasoned Seventh Circuit opinion is reported. The underlying discovery materials and complete briefs were not independently recovered; neither the alleged assault, defendant-specific knowledge, exact 1989 security classifications nor current danger is treated as a completed finding.
+
+#### Mandate, Remedy, and Stage
+
+The case returns for reconsideration of the Rule 56(f) request and the merits judgment. Discovery may be allowed or denied on a proper basis; the merits must then be evaluated without an express-warning prerequisite. Defendants may assert individualized knowledge, causation, reasonable response and immunity defenses. Current prospective danger and the scope of any lawful protection remain for the lower court. No automatic trial, damages award or placement injunction is ordered.
+
+**End of entry: Farmer v. Brennan, merits decision, June 6, 1994.**
+
+---
 
 ### Department of Revenue of Montana v. Kurth Ranch, No. 93-144
 
@@ -182,110 +286,6 @@ The interlocutory appeal remains dismissed. The district litigation continues in
 
 ---
 
-### Farmer v. Brennan, No. 92-7247
-
-Merits decision, June 6, 1994
-
-#### Chronology and Posture
-
-511 U.S. 825. Argued January 12, 1994; decided June 6, 1994. On writ of certiorari to the Seventh Circuit's unpublished summary affirmance of judgment for federal prison officials. The questions are the meaning of deliberate indifference in a failure-to-protect claim and whether the absence of an express warning defeats other possible proof of actual knowledge. Farmer alleges assault after a March 9, 1989 transfer and seeks damages and prospective protection; officials dispute their individual knowledge and responsibility.
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
-
-#### Judgment
-
-The judgment is vacated and the case remanded, 9–0.
-
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Failure-to-protect summary judgment and related discovery ruling | Vacate and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Reconsider the Rule 56(f) request and judgment using actual awareness and ordinary circumstantial proof; preserve individualized defenses and current-relief review. |
-
-#### Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Souter | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Ginsburg | Vacatur and remand | Entire actual-awareness, proof, reasonable-response, application and bounded-remedy opinion |
-| Concurrence | Blackmun | No other Justice | Joins the Court and judgment | Preserves objection to Wilson while accepting its application here |
-| Concurrence | Stevens | No other Justice | Joins the Court and judgment | Preserves objection to a subjective-motivation condition for cruel confinement |
-| Concurrence in the judgment | Thomas | No other Justice | Vacatur and remand only | Applies the unchallenged framework provisionally; does not join the constitutional predicate or remedial reasoning |
-
-#### Controlling Propositions and Authority
-
-##### Actual awareness and unreasonable disregard of substantial danger
-
-**Controlling proposition:** A prison official violates the Eighth Amendment by disregarding a substantial risk of serious harm only if the official knows facts indicating that risk, actually appreciates the risk, and fails to respond reasonably. A danger that an official merely should have discovered does not establish deliberate indifference; an official who responds reasonably is not liable under this rule even if harm occurs.
-
-**Authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight Justices adopt this rule; Thomas joins only the judgment.
-
-**Controlling explanation:** The Court holds that deliberate indifference requires actual appreciation of serious danger. Estelle separates constitutionally culpable indifference from negligence, and Wilson requires both a serious deprivation and a culpable state of mind in a conditions claim. Hudson v. Palmer recognizes the duty to protect prisoners whom custody prevents from protecting themselves. Those duties do not make officials insurers against every assault. The official must understand the substantial risk, but need not foresee its precise attacker, timing or mechanism when the known danger encompasses the prisoner's situation. The broader proposal to impose liability for whatever a reasonable official would have recognized would replace Wilson's subjective requirement. The opposite proposal to demand purposeful harm would confuse ordinary protective duties with the distinct force setting. Reasonable protective action defeats deliberate indifference even when unsuccessful. The Court does not find that any defendant possessed the required knowledge, had responsibility for a particular placement, caused the assault or lacks a defense. Those questions remain individualized on remand.
-
-**Precedent treatment:**
-
-- Estelle v. Gamble, 429 U.S. 97: applies its distinction between deliberate indifference and negligence without reopening the accepted conditions framework.
-- Wilson v. Seiter, 501 U.S. 294: applies its separate objective and subjective requirements and specifies actual-awareness recklessness for this failure-to-protect claim.
-- Hudson v. Palmer, 468 U.S. 517: applies its recognition of custodial protection duties; it supplies no automatic liability from an assault.
-- Hudson v. McMillian, February 25, 1992: preserves the nontrivial malicious-beating holding and leaves its unresolved broader force standards untouched; no universal malicious-and-sadistic requirement enters this conditions claim.
-
-##### Circumstantial proof and reconsideration of summary judgment
-
-**Controlling proposition:** Actual awareness may be proved by ordinary circumstantial evidence, including an obvious risk, and does not require an express warning by the prisoner. Obviousness permits but does not compel an inference: a genuine failure to appreciate the risk defeats the knowledge element, whereas deliberately refusing to confirm strongly suspected facts or their obvious inference may establish awareness; summary judgment here must be reconsidered without treating Farmer's silence as dispositive.
-
-**Authority:** The proof-and-remand portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight adopt its reasoning; all nine support vacatur and remand.
-
-**Controlling explanation:** The Court holds that a subjective rule does not require direct admission of knowledge. Wilson's culpability requirement asks what the official actually understood; ordinary evidence may answer that question. An obvious and longstanding danger, reports, experience or communications may permit a factfinder to reject a disclaimer of awareness. But proof that an official ought to have known remains different from proof that the official did know. Deliberate avoidance of a strongly suspected danger cannot secure immunity from that inference, while an honest failure to draw it remains outside this constitutional rule. Farmer sought discovery about institutional violence and officials' knowledge under Rule 56(f). The district court denied that request and treated the absence of an express safety complaint as decisive. That approach may have foreclosed other material evidence. The Court therefore requires reconsideration of the request and summary judgment under the proper standard whether discovery is ultimately allowed or denied. It neither orders trial nor bars renewed summary judgment on a properly considered record.
-
-**Precedent treatment:**
-
-- Wilson v. Seiter, 501 U.S. 294: applies its actual culpability requirement without making a prisoner warning an additional element.
-- Estelle v. Gamble, 429 U.S. 97: preserves the negligence boundary while allowing ordinary evidence of deliberate indifference.
-
-**Limits and questions not reached:** The transfer officials may contest their knowledge, responsibility, causation and reasonable response. The Court does not combine different defendants' innocent information into collective knowledge, find the alleged assault proved, or decide qualified immunity. The event-date rule is Rule 56(f).
-
-##### Current danger governs preventive relief
-
-**Controlling proposition:** Prospective protection requires an established current substantial danger and knowing unreasonable nonresponse that persists through the litigation and is likely to continue. The court may consider later developments bearing on present danger and knowledge; litigation notice cannot create past damages liability, and officials may defeat prospective relief by showing that the danger or culpable response has ceased and will not recur.
-
-**Authority:** The prospective-relief portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg; eight Justices adopt this rule and the bounded remand.
-
-**Controlling explanation:** The Court holds that preventive relief concerns present conditions. Helling permits a prisoner to seek protection before serious harm occurs, while retaining Wilson's culpability requirement. The Government's earlier reliance on administrative detention cannot resolve the issue when its later account places Farmer in the general population of a medium-security prison. Neither account establishes a present constitutional danger by itself. Within ordinary procedural discretion, the district court may consider evidence developed during litigation showing both an ongoing substantial risk and the responsible officials' knowing failure to respond reasonably. A filed allegation supplies no finding of danger, and later notice does not establish what officials knew before the assault. Officials remain free to show changed placement, effective protection or cessation unlikely to recur. Any injunction must fit the established danger and officials' lawful responsibilities. The record does not justify a blanket prohibition on all penitentiary placement. The Court preserves the distinct capacities, causation and immunity inquiries and awards neither damages nor an injunction.
-
-**Precedent treatment:**
-
-- Helling v. McKinney, June 18, 1993: applies preventive protection against serious future harm and its direction to examine current conditions.
-- Wilson v. Seiter, 501 U.S. 294: retains the separate culpability requirement for the threatened conditions violation.
-- Bivens v. Six Unknown Named Agents, 403 U.S. 388: preserves the presented individual-officer damages channel without creating a Treasury claim.
-- Carlson v. Green, 446 U.S. 14: preserves the individual-officer Eighth Amendment damages source; damages entitlement remains unproved.
-- FDIC v. Meyer, February 23, 1994: applies the distinction between an individual claim and an unavailable direct agency constitutional damages action.
-- Elder v. Holloway, February 23, 1994: preserves review of immunity using all relevant law existing when the conduct occurred; this decision supplies no retroactive notice in 1989.
-
-**Limits and questions not reached:** The Terre Haute warden and Bureau Director were sued only in official capacities; the Oxford warden, case manager and two regional officials faced both-capacity claims. Equitable discretion and appropriate internal grievance procedures are not converted into a new mandatory exhaustion holding. No later statutory exhaustion regime is applied.
-
-#### Precedent Treatment and Current-Law Effect
-
-Wilson remains controlling; its subjective requirement is now specified for this failure-to-protect claim. Helling remains the basis for preventive review. The limited malicious-force rule in Hudson is neither enlarged nor displaced. No precedent is overruled.
-
-Effective June 6, 1994, deliberate indifference in this conditions claim requires actual awareness and unreasonable disregard, with ordinary circumstantial proof and a reasonable-response limit. Absence of a prisoner warning is not dispositive. Prospective relief turns on current danger and conduct; historical knowledge, individual capacities, causation and qualified immunity remain distinct. No defendant is found liable, and no universal mental-state rule for all prison-force claims is adopted.
-
-#### Separate Positions Relevant to the Decision
-
-Justice Blackmun joins the Court because it applies the unchallenged deliberate-indifference framework while preserving workable circumstantial proof and prevention of future harm. He would overrule Wilson's general subjective requirement: objectively inhumane conditions may violate the Eighth Amendment without identifying an official with the required state of mind. That broader position does not change the rule the Court adopts here.
-
-Justice Stevens joins the Court's application but maintains that confinement conditions imposed on a prisoner can constitute punishment without improper subjective motivation. His disagreement with Wilson does not impose a purposeful-malice requirement or prevent his join in the present actual-awareness rule.
-
-Justice Thomas concurs only in the judgment. In his view, not every condition or unauthorized omission is punishment within the Eighth Amendment. Because the parties do not seek overruling Estelle or Wilson, he accepts a cautionary remand within their framework to determine whether Farmer's silence was treated as dispositive. The remand does not declare the officials liable or prevent renewed summary judgment after the proper inquiry. His judgment vote does not join the Court's broader constitutional or prospective-relief explanation.
-
-#### Source Notes
-
-The [official report, 511 U.S. 825](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511825/usrep511825.pdf), at 829–832 and 848–851, supplies the procedural record, capacities, discovery request and reported changes in confinement. No separate reasoned Seventh Circuit opinion is reported. The underlying discovery materials and complete briefs were not independently recovered; neither the alleged assault, defendant-specific knowledge, exact 1989 security classifications nor current danger is treated as a completed finding.
-
-#### Mandate, Remedy, and Stage
-
-The case returns for reconsideration of the Rule 56(f) request and the merits judgment. Discovery may be allowed or denied on a proper basis; the merits must then be evaluated without an express-warning prerequisite. Defendants may assert individualized knowledge, causation, reasonable response and immunity defenses. Current prospective danger and the scope of any lawful protection remain for the lower court. No automatic trial, damages award or placement injunction is ordered.
-
-**End of entry: Farmer v. Brennan, merits decision, June 6, 1994.**
-
----
-
 ### Key Tronic Corp. v. United States, No. 93-376
 
 Merits decision, June 6, 1994
@@ -420,261 +420,6 @@ Stone-Zsela concurs in the entire Court opinion and judgment. Removing exemption
 The judgment and existing protection against enforcement of the replacement prohibition stand. The City remains free to adopt otherwise constitutional size, number, placement, illumination and safety controls. The Court neither revives the former variance procedure nor decides the proposed six-square-foot substitute that was not argued to the district court. There is no new damages award, exemption-deletion order or fee disposition.
 
 **End of entry: City of Ladue v. Gilleo, merits decision, June 13, 1994.**
-
----
-
-### Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., No. 93-377
-
-Merits decision, June 13, 1994
-
-512 U.S. 61. Argued March 23, 1994; decided June 13, 1994. On writ of certiorari to the New York Court of Appeals, 81 N.Y.2d 417, 615 N.E.2d 994. Its June 10, 1993 judgment granted the wholesalers summary judgment and sustained the facial injunction against the unimplemented program on categorical trader preemption and alternative excessive-burden grounds. The question is whether federal Indian Trader law preempts the challenged collection, documentation and quantity controls.
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
-
-The judgment is reversed and remanded, 9–0. Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg support reversal of both categorical trader preemption and the alternative facial excessive-burden ground; no Justice opposes.
-
-Justice O'Connor delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. Their joins encompass every holding and the limited remand.
-
-The Indian Trader Statutes do not categorically preempt state requirements reasonably directed to collecting cigarette taxes validly imposed on nonexempt consumers. New York's state-agent, stamping, advance-collection, certification, invoice, recordkeeping and reporting requirements survive this facial challenge insofar as they serve that collection function without taxing protected consumption or displacing the federal trader appointment.
-
-The holding rests on O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited federal-statute and collection holding.
-
-The Court holds that federal trader licensing is not immunity from reasonable assistance in collecting valid consumer taxes. Warren Trading Post protects the federally regulated reservation trade against the direct state tax considered there. Moe, Colville and Potawatomi separately permit taxation of nonexempt purchasers and reasonably necessary collection duties while protecting exempt consumption and tribal immunity. Those rules coexist. Section 261's federal authority over trader appointment and regulation does not make every ancillary state collection requirement an invasion of that authority. New York places ultimate tax incidence on the consumer and uses the distribution chain to collect it. Certification, records and reports identify exempt transactions; state-agent and stamping requirements collect taxes on the others. The strongest objection is that these obligations could become state control of federally protected trade. That possibility requires attention to actual operation, consistent with Bracker's federal, tribal and state inquiry; it does not establish facial invalidity here. The Court rejects both categorical preemption and the lower court's alternative facial burden conclusion, while leaving unreasonable administration and tribal enforcement questions open.
-
-Warren Trading Post Co. v. Arizona Tax Commission, 380 U.S. 685, retains its protection against the particular direct tax on federally regulated reservation trade; its broader language does not create universal collection immunity. Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463, permits valid nonmember taxation and reasonable collection assistance while preserving exempt member purchases. Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134, supplies the distinction between taxable purchases and protected tribal trade, including reasonable documentation burdens. Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505, preserves valid nonmember tax obligations and reasonable collection tools without overcoming the tribe's immunity from suit. White Mountain Apache Tribe v. Bracker, 448 U.S. 136, requires attention to the actual federal, tribal and state regulatory setting rather than a universal territorial or licensing rule.
-
-No general state power to regulate reservation commerce, revoke a federal trader appointment, tax exempt consumption or sue an immune tribe is recognized. The Seneca treaty contention was not addressed below and is not decided.
-
-New York may limit unstamped deliveries to probable demand by qualifying exempt purchasers and require advance approval as reasonably necessary collection devices, provided exempt purchases remain adequately available and the requirements remain connected to the valid nonmember tax. The challenged scheme survives the present facial objections because no inadequate implemented quota or denied exempt supply is established; stamped sales have no corresponding numerical ceiling, and unreasonable applications remain subject to challenge.
-
-The holding rests on O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the qualified quota-and-approval holding and reversal of the facial injunction.
-
-The Court holds that controlling untaxed supply can serve lawful collection without eliminating the exemption. Moe and Colville recognize the need to distinguish exempt from taxable reservation transactions; Potawatomi does not require a State to abandon a valid tax merely because direct recovery from the tribe is unavailable. New York's evidence of extraordinary untaxed deliveries supplies a reason to address diversion, not a finding that every retailer evades tax. The scheme allows a tribal regulatory agreement, uses tribal demand evidence where the tribe regulates distribution, and otherwise estimates demand from enrollment and consumption data. Approval and documentation operate with those channels, and stamped supply remains unlimited. The wholesalers' stronger objection is practical: an inflexible estimate or delayed approval could deprive members of exempt purchases. That objection may support relief on an actual record, but the present unimplemented scheme establishes no such deprivation. The Court does not determine an initial quota's accuracy, approve arbitrary territory allocations or excuse excessive compliance burdens. Exempt trade remains protected, and concrete challenges remain available.
-
-Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463, is extended to permit a qualified supply-control mechanism as reasonable collection assistance directed to valid taxes. Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134, supplies the distinction between collection of nonexempt taxes and preservation of protected consumption. Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505, leaves alternative lawful collection methods available while preserving sovereign immunity. Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993, retains its residence, source and incidence distinctions and supplies no exemption for every wholesale sale to a reservation retailer. County of Yakima v. Confederated Tribes, January 14, 1992, retains its exact-authorization and legal-incidence analysis for distinct land taxes; collection labels do not authorize prohibited taxes.
-
-No precedent is overruled. Warren Trading Post does not establish universal trader immunity. Sac and Fox and Yakima retain their distinct rules for member income, vehicle levies and congressionally authorized fee-land taxation.
-
-Effective June 13, 1994, federal trader law does not facially invalidate this reasonable-collection program, including its probable-demand and approval mechanisms. Both grounds of the New York Court of Appeals' facial judgment fail. Every component remains bounded by the valid nonexempt tax and protection of genuine exempt consumption.
-
-Tax Law §471(1) taxes cigarettes possessed in New York except those beyond the State's taxing power; §471(2) puts ultimate incidence and liability on the consumer. State-licensed agents purchase and affix stamps before the first sale and precollect tax on nonexempt sales. The protected consumer is an enrolled member of an exempt New York nation or tribe buying within a qualified reservation for the individual's own use or consumption there, not for resale. Untaxed wholesale deliveries require a valid exemption certificate, intended distribution to exempt consumers and reservation delivery. The wholesale buyer displays its certificate on first purchase and signs subsequent invoices. The consumer's distinct procedure requires individual-exemption certification initially and identity evidence on later purchases. Wholesalers keep buyer-specific untaxed-sale records and report monthly.
-
-A tribe may enter a §336.7(c)(1) regulatory agreement providing tribal delivery approval. Without an agreement, the Department calculates probable demand. Where the tribe regulates, licenses or controls distribution, the Department uses submitted demand evidence; otherwise it multiplies statewide per-capita consumption by enrollment. Trade territory is determined in consultation with a regulating tribe and otherwise from available Department information. Valid orders and quantities reasonably related to exempt demand govern approval; monthly coupons implement the allotment. The Department may withhold delivery approval from past or current violators and cancel certificates for noncompliance. These powers remain tied to lawful collection; the decision does not authorize destroying the exempt channel. Stamped cigarettes have no numerical sales quota.
-
-No actual quota's accuracy, denial of exempt supply, unlawful delay, unreasonable compliance burden or particular retailer's evasion is found. Population, actual exempt consumption, qualifying consumers, demand variations and access to documentation may matter to a concrete challenge; the Court announces no new mandatory calculation formula. The unadjudicated Seneca treaty contention and enforcement against a tribe remain unresolved.
-
-**Source notes:** The [official report, 512 U.S. 61](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512061/usrep512061.pdf), 64–70 and 77 n.11, and the [New York Court of Appeals opinion, 81 N.Y.2d 417](https://www.law.cornell.edu/nyctap/081_0417.htm), support the program, lower grounds and facial posture. The official report identifies the reproduced 1992 regulations as 20 N.Y.C.R.R. §§336.6–336.7; the lower text uses §335 numbering. The original codification was not independently recovered, so no substantive amendment is inferred from that numbering difference. The complete underlying audit record and every brief were not independently recovered. The reported ratios support the asserted collection problem, not individual tax-evasion findings.
-
-The New York Court of Appeals is reversed on both grounds supporting its facial judgment, and the case is remanded for proceedings consistent with the limited rejection of facial preemption. The facial injunction cannot rest on those grounds. Concrete challenges to inadequate exempt supply, arbitrary approval or territory allocation, and excessive compliance burdens remain available on an actual record. No particular quota, tax collection from a tribe or treaty objection is adjudicated.
-
-**End of entry: Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., merits decision, June 13, 1994.**
-
----
-
-### Howlett v. Birkdale Shipping Co., S.A., No. 93-670
-
-Merits decision, June 13, 1994
-
-512 U.S. 92. Argued April 20, 1994; decided June 13, 1994. On writ of certiorari to the Third Circuit, 998 F.2d 1003, which affirmed without opinion summary judgment for the vessel. The questions concern the vessel's limited turnover duty to warn of a latent cargo-stow hazard and the proper knowledge and obviousness inquiries.
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
-
-The judgment is vacated and the case remanded, 9–0, for reconsideration of the turnover-warning summary judgment and the proper knowledge and obviousness inquiries. Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg support that disposition; no Justice opposes.
-
-Justice Kennedy delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. Their joins encompass every holding and the limited remand.
-
-A vessel must warn an unloading stevedore of a hazard the vessel knows or should know through its required reasonable care, likely to be encountered in the work and neither known nor obvious to, nor reasonably anticipated by, a competent stevedore. For a cargo-stow hazard, that duty does not ordinarily require supervising independent loading operations or inspecting their completed work; an established contract, positive law or custom may alter that allocation, but none is established here.
-
-The holding rests on Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited turnover-warning rule and rejection of a general cargo-inspection duty.
-
-The Court holds that reasonable care must be measured by the work the vessel is required to perform. Section 905(b) authorizes negligence liability and excludes the warranty of seaworthiness; ownership and an onboard injury therefore do not establish liability. Scindia assigns primary cargo-work responsibility to the expert stevedore while preserving the vessel's own turnover duties. Burnside supplies ordinary care, not responsibility for every contractor-created hazard. Howlett's proposed land-contractor analogy would require reasonable inspections during or after loading, not merely prohibit careless supervision once undertaken. Even that limited inspection demand would redistribute the cargo responsibility Scindia preserves unless contract, law or custom provides it. The Court rejects the asserted general duty to supervise the foreign stevedore or inspect the completed stow. It does not erase knowledge the crew actually acquired while performing vessel work. Nor does the phrase should know create a discovery duty by itself. Active-control and intervention duties remain distinct and are not substitute theories in this turnover-only claim.
-
-Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156, supplies the allocation of cargo responsibility and the limited turnover-warning duty; its separate active-control and intervention duties remain intact. Federal Marine Terminals, Inc. v. Burnside Shipping Co., 394 U.S. 404, preserves ordinary care within the vessel's legally assigned responsibilities, without a universal contractor-inspection rule.
-
-The Court does not establish a contract, positive-law or customary enlargement of the vessel's duties. Section 905(b)'s bar on direct or indirect employer liability to the vessel for these damages and contrary agreements remains; no indemnity or seaworthiness claim is revived.
-
-The turnover-warning claim must be reconsidered because possible crew knowledge during loading and a hazard's visibility to a competent unloading stevedore are distinct inquiries. Supplying plastic alone does not prove knowledge of its dangerous placement, and loading-stage visibility does not itself establish unloading-stage obviousness; the full record may still support summary judgment, and no negligence, latent hazard, causation or damages is found here.
-
-The holding rests on Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this application and bounded vacatur and remand.
-
-The Court holds that the rejection of a general inspection duty does not resolve the evidence of actual knowledge. Scindia's warning rule requires both qualifying vessel knowledge and a danger the competent unloading stevedore would not know, find obvious or reasonably anticipate. The vessel supplied plastic, and crew members were present during aspects of loading. Those circumstances require examination with the other evidence; neither alone conclusively proves awareness of the dangerous arrangement. The district court also reasoned that a condition visible during loading would be obvious. That reasoning joins different actors, times and conditions. Bags might obscure what had earlier been visible, yet Howlett's own witnesses described plastic visible during discharge, including from above. The Court does not suppress that adverse evidence or equate his subjective surprise with a latent hazard. No separate constructive-knowledge basis beyond the rejected broad inspection theory has been established. Actual knowledge thus remains material. The lower courts must reassess the record under the correct distinctions without an automatic trial or liability order.
-
-Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156, supplies the distinct vessel-knowledge and competent-stevedore warning conditions for the actual turnover setting; neither condition is presumed from the accident.
-
-The Court does not attribute knowledge to the vessel merely because somebody aboard might have seen material. Actual crew role, awareness and unloading visibility remain questions for proper summary-judgment assessment; renewed summary judgment remains possible.
-
-No precedent is overruled. Scindia retains its separate turnover, active-control and intervention duties. American Dredging and McDermott do not enlarge the underlying vessel-negligence duty.
-
-Effective June 13, 1994, the limited turnover-warning duty applies to cargo-stow hazards without imposing a general obligation to supervise independent loading or inspect the completed stow. Knowledge discoverable through reasonable care remains tied to a duty the vessel actually has; it does not create the rejected inspection obligation. Contract, positive law and custom retain their capacity to alter ordinary allocation when established.
-
-The relevant perception is that of a competent unloading stevedore performing the work, not only the injured longshoreman's subjective awareness and not automatically that of the foreign loader. Actual crew knowledge acquired in vessel operations remains relevant; providing plastic or crew presence does not establish it conclusively. Here no independent constructive-knowledge basis beyond the rejected inspection theory is established. The remand concerns proper treatment of actual-knowledge evidence and the separate unloading inquiry, not elimination of actual knowledge as a material requirement on the presented theory.
-
-Section 905(b) preserves a covered person's negligence action against the vessel as a third party and excludes liability based on the seaworthiness warranty. It bars shifting those damages to the employer directly or indirectly and renders contrary agreements or warranties ineffective within that provision. The independent stevedore's alleged negligence is not automatically vessel negligence. The Court decides only the turnover-warning claim; active-control, intervention, settlement allocation and forum rules do not supply additional holdings here.
-
-**Source notes:** The [official report, 512 U.S. 92](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512092/usrep512092.pdf), 94–106, supplies the cargo record, limited claim, district-court reasons and opinionless Third Circuit affirmance. The [Scindia report, 451 U.S. 156](https://tile.loc.gov/storage-services/service/ll/usrep/usrep451/usrep451156/usrep451156.pdf) supplies the distinct duties and contract, positive-law and custom qualifications. The original district-court order and depositions were not separately recovered; competing reported submissions establish no conclusive knowledge or concealment finding.
-
-The Third Circuit's judgment is vacated and the case remanded for reconsideration of the turnover-warning claim on the full summary-judgment record under the stated duty. The lower courts must distinguish evidence of actual vessel knowledge from the condition facing a competent unloading stevedore and address the contrary visibility evidence. Renewed summary judgment remains possible; the Court orders neither trial, compensation, a negligence finding nor a finding of causation.
-
-**End of entry: Howlett v. Birkdale Shipping Co., S.A., merits decision, June 13, 1994.**
-
----
-
-### Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, No. 93-639
-
-Merits decision, June 13, 1994
-
-#### Chronology and Posture
-
-512 U.S. 136. Argued April 19, 1994; decided June 13, 1994. On writ of certiorari to Florida's First District Court of Appeal, 621 So.2d 435, which affirmed without opinion the Board's May 12, 1992 reprimand. No appeal of right to the Florida Supreme Court followed from that form. The question is whether the Board may impose this discipline for use of Ibanez's active CPA and authorized private CFP credentials in her law-practice communications. Its jurisdiction is conceded; the speech restriction remains contested.
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
-
-#### Judgment
-
-The judgment sustaining the reprimand is reversed and the case remanded. Reversal of the CPA ground is unanimous; reversal of the CFP ground and rejection of the actual disclosure justification are 8–1.
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| CPA designation as a basis for reprimand | Reverse, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Set aside the CPA basis while preserving licensing jurisdiction and valid conduct rules |
-| CFP designation and paragraph (j) disclosure justification for the sanction | Reverse and remand, 8–1 | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | O'Connor | Set aside the CFP basis on this record; O'Connor would preserve it under the prohibition ground or independently under the actual disclosure application |
-
-The eight-Justice disposition requires setting aside the reprimand on both challenged grounds. O'Connor would retain the CFP basis and permit conforming administrative action if separation is necessary. No Justice revokes a license, awards damages, restores the withdrawn unlicensed-firm count or determines a future sanction.
-
-#### Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Reverses CPA ground | Active-license truthfulness and limited CPA remedy |
-| Opinion of the Court, Parts II and III | Kennedy | Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas, Ginsburg | Reverses CFP ground and rejects actual disclosure justification | Record-specific certification and disclosure rules; no universal advertising immunity |
-| Concurrence in part and dissent in part | O'Connor | No other Justice | Joins Part I; would preserve CFP-based sanction | As-applied prohibition rationale and independently sufficient as-applied disclosure alternative; neither controls |
-
-#### Controlling Propositions and Authority
-
-##### An active CPA credential is not false because its holder disputed regulation
-
-**Controlling proposition:** The Board may not reprimand Ibanez for truthfully identifying her active Florida CPA credential on these law-practice communications on the unsupported theory that the title falsely implies submission to regulation. Her earlier legal challenge to the Board's authority does not falsify the credential or prove misleading advertising; the CPA ground for the reprimand must be set aside, with otherwise lawful professional regulation preserved.
-
-**Authority:** Part I of Kennedy's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine adopt the CPA ground and its limited remedy.
-
-**Controlling explanation:** The Court holds that an active professional license remains a truthful credential despite its holder's legal disagreement with the licensing agency. Central Hudson protects truthful commercial information concerning lawful activity while permitting regulation of false or misleading representations. In re R.M.J. distinguishes that information from advertising properly subject to prohibition or clarification. Ibanez holds an active Florida CPA license; the Board identifies no false statement that it has expired, been revoked, or confers different qualifications. Its contrary argument treats her resistance to its authority as proof that CPA communicates a false promise of regulatory submission. Jurisdiction is now conceded, and her legal contention cannot make the State's own current credential fictitious. Edenfield requires justification tied to the actual professional setting, rather than an unsupported characterization of the speech. The withdrawn unlicensed-firm count supplies no alternative finding of misconduct. This decision concerns the truthful title on this record; it neither removes the Board's jurisdiction nor excuses a violation of a valid rule governing professional conduct.
-
-**Precedent treatment:**
-
-- Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S. 557: applies protection for truthful, nonmisleading commercial information and preserves regulation of actual deception.
-- In re R.M.J., 455 U.S. 191: applies the distinction between factual professional information and misleading advertising; no immunity from appropriately justified regulation follows.
-- Edenfield v. Fane, April 26, 1993: applies the requirement of justification in the relevant professional setting, without imposing an invariable empirical-study requirement.
-
-##### The private CFP credential is not inherently deceptive on this record
-
-**Controlling proposition:** The Board may not sustain this reprimand merely because Ibanez's authorized private CFP credential, displayed beside CPA without naming the private certifier, could be mistaken for government recognition. On this record the Board has not established actual or inherent deception or a constitutionally adequate justification for suppressing that truthful certification information; the CFP prohibition ground must be set aside, without validating every private credential or every form of its advertisement.
-
-**Authority:** Part II of Kennedy's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas and Ginsburg. Eight Justices directly adopt this as-applied holding; O'Connor dissents from it.
-
-**Controlling explanation:** The Court holds that possible misunderstanding is not self-proving deception. Ibanez was authorized to use the CFP designation by its private certifying body. The omission of that body's name and the adjacent CPA title present the Board's strongest objection: a reader might think both credentials come from the State. Central Hudson and R.M.J. nonetheless require a justified distinction between useful factual information and misleading speech. Peel's plurality treated genuine certification as verifiable information; the separate judgment concurrence recognized potential misunderstanding while rejecting a complete ban. Those writings do not establish that every abbreviated credential is immune. Here the anonymous mailing that prompted investigation establishes no deceived customer, and the agency witnesses do not supply the missing connection between asserted harm and suppression. Edenfield permits experience and reasonable inference but rejects speculation as an adequate substitute. The certifier's standards are reported amicus representations, not findings guaranteeing superior competence. The Court leaves false credentials, actual deception and appropriately supported regulation for cases presenting them.
-
-**Precedent treatment:**
-
-- Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S. 557: applies the distinction between protected factual information and actually or inherently misleading speech.
-- In re R.M.J., 455 U.S. 191: preserves regulation of deception without treating possible confusion as automatically justifying suppression.
-- Peel v. Attorney Registration and Disciplinary Commission, 496 U.S. 91: applies its protection against the certification ban within the distinct plurality and concurrence rationales; no unanimous rule against certification regulation is attributed to it.
-- Edenfield v. Fane, April 26, 1993: applies its real-harm and material-advancement inquiry to the actual asserted professional deception.
-- Cincinnati v. Discovery Network, March 24, 1993: preserves reasonable fit between the selected restriction and its asserted harm without requiring regulation of every source at once.
-- United States v. Edge Broadcasting Co., June 25, 1993: preserves supported incremental regulation and reasonable fit; it supplies no presumption that this credential is misleading.
-
-##### The actual immediate disclosure demand does not justify this reprimand
-
-**Controlling proposition:** Paragraph (j)'s demand for an immediately adjacent disclaimer that the certifier is neither affiliated with nor sanctioned by state or federal government, together with the certifier's recognition requirements including but not limited to education, experience and testing, cannot sustain this reprimand without adequate justification for that actual burden. The Board has not justified it on this record; the holding preserves supported, proportionate factual clarification and neither prescribes a replacement disclaimer nor creates an exception to paragraph (i)'s separate prohibition.
-
-**Authority:** Part III of Kennedy's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas and Ginsburg. Eight Justices reject this disclosure justification as applied; O'Connor would independently sustain it if the advertisement is merely potentially misleading.
-
-**Controlling explanation:** The Court holds that a disclosure's possible usefulness does not justify every disclosure burden. Zauderer permits factual information reasonably related to preventing deception while withholding approval from unjustified or unduly burdensome demands. The Board invokes clarification as an alternative to suppression, but paragraph (j) requires much more than identifying the private certifier: an immediately adjacent statement that the certifier is neither affiliated with nor sanctioned by state or federal government, plus recognition requirements including but not limited to education, experience and testing. That substantial recitation bears directly on whether these stationery, card and directory communications can convey the credential at all. R.M.J. preserves appropriate clarification, and Peel's separate concurrence expressly distinguishes limited information from an unnecessary exhaustive account. The present record does not justify this particular demand merely by asserting possible confusion. Neither absence of a deceived-customer complaint nor absence of an empirical study is categorically decisive in every case. The Court decides the actual requirement and sanction, not a hypothetical short disclosure, and leaves adequately supported, proportionate clarification available under the received commercial-speech framework.
-
-**Precedent treatment:**
-
-- Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626: applies the distinction between reasonably related factual clarification and unjustified or unduly burdensome disclosure.
-- In re R.M.J., 455 U.S. 191: preserves the possibility of adequately justified clarification of potentially misleading professional information.
-- Peel v. Attorney Registration and Disciplinary Commission, 496 U.S. 91: preserves the separate concurrence's limited-disclosure rationale without converting its permission into a duty to supply exhaustive standards.
-- Edenfield v. Fane, April 26, 1993: applies record-sensitive justification without requiring empirical studies in every professional-regulation case.
-
-**Limits and questions not reached:** Paragraph (g) addresses stated or implied recognition as a public-accountancy specialist unless the recognizing agency is Board-approved; paragraph (i) independently prohibits recognition by another entity using certified; paragraph (j) separately imposes the actual disclosure just analyzed. Compliance with (j) is not an exception to (i). The Court resolves the sanction on this record, not all applications of those provisions, the withdrawn unlicensed-firm charge, future advertising, licensing jurisdiction, or the validity of a differently justified shorter disclosure. An expired credential, fictitious certifier or express false claim of state endorsement presents a different case.
-
-#### Precedent Treatment and Current-Law Effect
-
-Central Hudson, R.M.J., Zauderer and the distinct Peel writings remain the received commercial-speech framework. Edenfield and Discovery Network require relevant justification and fit, without compulsory studies in every case, universal least-restrictive-means review or rejection of every incremental restriction. Edge's supported partial-advancement principle remains intact. No precedent is overruled.
-
-Effective June 13, 1994, the Board cannot sustain this reprimand for the active CPA title, the authorized private CFP title or the inadequately justified actual disclosure burden. Paragraph (g)'s exception concerns Board approval of the recognizing agency; paragraph (i)'s independent non-Board-certified prohibition does not contain a (j) disclaimer exception. Paragraph (j) requires, in immediate proximity to the specialty statement, a statement that the recognizing agency is neither affiliated with nor sanctioned by state or federal government, plus its recognition requirements including but not limited to education, experience and testing. The disposition is as applied to this record. Actual deception, false credentials and properly supported proportionate factual disclosures remain regulable. Experience and reasonable inference may justify consumer protection where connected to the actual speech and burden; this decision creates no universal heightened evidence rule.
-
-#### Separate Positions Relevant to the Decision
-
-O'Connor concurs in Part I and the CPA disposition and dissents from Parts II and III and reversal of the CFP ground. Her Peel dissent distinguishes literal truth from what prospective clients reasonably understand. The unexplained CFP initials appear beside a state CPA credential without naming a certifier whose standards the consumer can verify. She regards that specific presentation as inherently misleading about governmental recognition and would sustain paragraph (i)'s prohibition as applied, in the context of the Board's specialty-recognition charge under (g). She does not find a different, uncharged violation or declare every truthful statement about private certification inherently deceptive. The active, state-issued CPA title lacks that source ambiguity, so she joins its protection.
-
-She independently concludes that, even if the CFP advertisement is only potentially misleading, paragraph (j)'s actual disclosure application is valid here. Zauderer allows responsive factual clarification, and the advertisement leaves both governmental status and recognition standards unexplained. She accepts the immediate-proximity statement that the recognizing agency is neither affiliated with nor sanctioned by state or federal government, plus its recognition requirements including but not limited to education, experience and testing, as responsive to those ambiguities in this application. This is approval of the actual burden in this case, not a substitute hypothetical one-line rule or a universal endorsement of every application. Her strongest contrary consideration is that useful factual information may be suppressed by extensive disclosure; she concludes the present unexplained certification can lawfully require the demanded explanation. Regulatory experience and the advertisement itself suffice for her inference without a proved deceived client. Compliance with (j) does not become an exception to the independent (i) prohibition. She would reverse the CPA basis, preserve the CFP basis and permit conforming administrative treatment if the sanction needs separation, without dictating a future penalty. Both grounds are noncontrolling.
-
-#### Source Notes
-
-The [official report, 512 U.S. 136](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512136/usrep512136.pdf), 138–148 and the quoted Board provisions, supplies the credentials, communications, administrative chronology, jurisdictional concession, review route and actual rule language. It reports the First District's affirmance without opinion and the hearing officer's recommendation as distinct acts. The certifier's standards are amicus representations, not an independent finding of superior competence. The complete Board order, original rule-publication dates, underlying certification file and appellate judgment sheet were not independently recovered. The decision does not depend on an unproved amendment date or an uncharged independent violation. [Peel, 496 U.S. 91](https://tile.loc.gov/storage-services/service/ll/usrep/usrep496/usrep496091/usrep496091.pdf), supplies distinct plurality, concurrence and dissent rationales, not a single unanimous certification rule.
-
-#### Mandate, Remedy, and Stage
-
-The case is remanded for proceedings consistent with reversal of the reprimand's CPA and CFP grounds. The Board's licensing jurisdiction remains conceded and intact. The Court prescribes no new disclaimer, finds no misconduct on the withdrawn unlicensed-firm count, revokes no credential and awards no damages. Future truthful or misleading representations and a different supported disclosure must be evaluated on their own records; no permanent immunity attaches to these initials.
-
-**End of entry: Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, merits decision, June 13, 1994.**
-
----
-
-### Livadas v. Bradshaw, No. 92-1920
-
-Merits decision, June 13, 1994
-
-512 U.S. 107. Argued April 26, 1994; decided June 13, 1994. On writ of certiorari to the Ninth Circuit, 987 F.2d 552, whose amended opinion reversed judgment for Livadas. The questions concern §301 preemption, a policy burdening protected collective bargaining and the §1983 channel for that federal right. The initial appellate opinion was filed September 11, 1991 and amended on denial of rehearing March 8, 1993.
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
-
-The judgment is reversed and remanded, 9–0, on the independent wage claim, bargaining-based nonenforcement and §1983 policy challenge. Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg support the entire disposition; no Justice opposes.
-
-Justice Stevens delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Their joins encompass every holding and the limited remand.
-
-Section 301 does not displace a nonnegotiable state wage-payment claim whose resolution requires no interpretation of disputed collective-bargaining terms. Consulting an undisputed contractual wage rate to calculate the possible statutory penalty supplies arithmetic, not the contract interpretation needed for §301 preemption; genuinely contract-dependent claims remain different.
-
-The holding rests on Stevens's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt this antecedent holding.
-
-The Court holds that the nature of the actual dispute controls. Lingle preserves state-law claims whose elements can be resolved without construing the collective-bargaining agreement. Allis-Chalmers v. Lueck requires federal treatment where the asserted state duty instead depends on interpreting that agreement. Livadas invokes California's independent obligation to pay earned wages at discharge and its penalty for willful delay. Her wage rate is undisputed; consulting it does not decide what a contractual term means. The agreement also permits direct wage claims not requiring interpretation to proceed before an authorized court or agency. The Commissioner's concern for uniform contract interpretation therefore supplies no reason to refuse this claim categorically. A private arbitration clause does not transform every statutory wage question into a contract dispute. Conversely, calling a claim nonnegotiable or pleading it under state law does not answer preemption if a genuine contractual controversy must be resolved. The Court decides neither every contractual waiver nor the employer's willfulness, penalty liability or defenses.
-
-Lingle v. Norge Division of Magic Chef, Inc., 486 U.S. 399, supplies the rule that a claim independent of contract interpretation survives; use of undisputed wage information does not change the claim's source. Allis-Chalmers Corp. v. Lueck, 471 U.S. 202, retains preemption of genuinely contract-dependent claims but does not preempt this arithmetic use. Wooddell v. International Brotherhood of Electrical Workers, December 4, 1991, retains the distinct §301 route for a beneficiary enforcing a qualifying interunion contract, rather than every union-related claim.
-
-The NLRA forbids California's policy withholding otherwise available enforcement of an independent wage right solely because an employee is covered by a collective-bargaining agreement containing arbitration. The employee's protected freedom to bargain includes carrying bargaining through to such an agreement; this rule neither compels employer assent nor generally requires the State to create an enforcement service.
-
-The holding rests on Stevens's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this statutory labor-right holding.
-
-The Court holds that a State may not make protected bargaining the reason for withdrawing an offered benefit. Nash prevents state benefit conditions that burden federally protected labor activity. Golden State recognizes that the federal bargaining process carries enforceable protections against governmental interference. The freedom here includes completing that process through an agreement providing arbitration; it is not an entitlement to compel an employer to accept terms. California's policy attaches the loss of public enforcement to that protected choice even though this wage claim requires no contractual interpretation. Administrative convenience, an available private suit and good intentions do not remove the condition's actual burden. Fort Halifax permits independent minimum labor standards and genuine negotiated alternatives where the law provides them; it does not validate every bargaining-based exclusion. California need not offer a wage-enforcement service generally, and ordinary lawful eligibility requirements remain. The Court rejects this particular condition without creating heightened equal-protection scrutiny, guaranteeing successful wage recovery or deciding every arbitration arrangement.
-
-Nash v. Florida Industrial Commission, 389 U.S. 235, supplies the prohibition on state benefit conditions burdening federally protected labor activity. Golden State Transit Corp. v. Los Angeles, 493 U.S. 103, protects the federally secured bargaining process against governmental interference. Fort Halifax Packing Co. v. Coyne, 482 U.S. 1, preserves independent minimum labor standards and does not authorize this penalty for protected bargaining.
-
-Section 1983 permits Livadas to enforce her definite individual federal right to carry protected collective bargaining through to an agreement without this state-imposed loss of enforcement access. The NLRA does not foreclose that action against governmental interference; federal priority alone does not make every preemption rule a privately enforceable right or establish entitlement to a particular remedy.
-
-The holding rests on Stevens's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the right, nonforeclosure and bounded-remedy analysis.
-
-The Court holds that the federal right and the enforcement channel must be identified separately. Golden State asks whether the statute secures an individual right and whether Congress displaced the enacted §1983 remedy. Livadas identifies a concrete freedom within the protected bargaining process, including its completion, rather than an abstract claim that federal law prevails. The NLRA's machinery for resolving private labor disputes does not foreclose this action against a State's interference with that freedom. Suter's provision-specific rejection of asserted child-welfare rights does not establish a constitutional-rights-only rule or make every statute with administrative enforcement immune from §1983. The Commissioner's characterization of the dispute as only mistaken state-law interpretation overlooks the independent federal burden. An enforceable right nevertheless does not decide the proper relief. Bradshaw succeeds an official-capacity defendant; no personal-capacity liability is established. The Court leaves official-capacity monetary relief, the Eleventh Amendment, the underlying wage penalty and appropriate further proceedings to their distinct inquiries on remand.
-
-Golden State Transit Corp. v. Los Angeles, 493 U.S. 103, supplies separate federal-right and congressional-foreclosure inquiries for this governmental interference. Suter v. Artist M., March 25, 1992, is distinguished by its specific absence of the asserted §671(a)(15) and §671(a)(9) rights and implied actions; it creates no universal state-plan or administrative-review bar. FDIC v. Meyer, February 23, 1994, preserves the distinction between a right, an available cause, immunity and recoverable relief; no agency-damages extension follows here.
-
-No personal qualified-immunity question is decided. The Court does not determine the employer's liability, every possible contract waiver, or the effect of reinstatement and backpay on the penalty claim.
-
-No precedent is overruled. Suter retains its provision-specific limits on the asserted child-welfare rights and does not bar this independently established labor right. Wooddell retains its distinct contract-enforcement scope.
-
-Effective June 13, 1994, the independent wage claim remains outside §301 preemption, the bargaining-based nonenforcement policy conflicts with the NLRA, and §1983 supplies the channel for the identified right subject to proper relief. These are distinct holdings, not a general damages action for every labor-preemption error.
-
-California Labor Code §201 requires earned and unpaid wages immediately on discharge. Section 203 applies to willful failure to pay and continues wages at the same rate until payment or commencement of an action, for no more than thirty days. Livadas claimed three days; none is awarded here. Section 219 prohibits private agreements setting aside the payment protections but permits more frequent, greater or earlier payment. Section 229 permits an individual's wage-collection action despite private arbitration; its separate exception concerns a dispute over interpretation or application of a collective-bargaining agreement containing arbitration. The Commissioner's broader administrative exclusion is her policy, not a command written into §229. Section 204.2's different pay-period rule for designated executive, administrative or professional employees and §227.3's collective-agreement treatment of vacation pay do not become exceptions to this §201/203 claim.
-
-Administrative proceedings under §§98 and 98.1 differ from court representation under §98.3(a), which depends on the Commissioner's assessment of financial inability to employ counsel and a valid, enforceable claim. The employee's own §218 suit and §218.5 prevailing-party fee provision remain distinct. Contract §18.8 permits the relevant direct claim through arbitration or an authorized tribunal or agency without requiring contract interpretation. No guaranteed entitlement to every public enforcement service or identical access through these separate routes is established.
-
-Suter leaves intact the absence of the asserted reasonable-efforts right under §671(a)(15) and of the asserted reporting right under §671(a)(9), and the separate absence of implied actions. The reporting clause concerns reason to believe that the funded child's home or institution is unsuitable because of neglect, abuse or exploitation, and reporting to the appropriate court or law-enforcement agency. Section 671(a)(16), read with §§675(1) and 675(5)(B), remains unresolved. Livadas changes none of those child-welfare holdings.
-
-**Source notes:** The [official report, 512 U.S. 107](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512107/usrep512107.pdf), 110–115, 128 and statutory notes, and the [amended Ninth Circuit opinion, 987 F.2d 552](https://static.case.law/f2d/987/html/0552-01.html), establish the chronology, policy, California provisions, contract and official capacity. The full underlying record and every brief were not independently recovered. The reported state-law dispute does not establish willfulness or monetary eligibility; no damages amount is established.
-
-The Ninth Circuit is reversed and the case remanded for proceedings consistent with the three holdings. The lower courts must determine appropriate source-authorized relief against the official-capacity policy, including the distinct monetary-relief and Eleventh Amendment constraints. No employer wage penalty, personal damages or automatic reinstatement of a money award is ordered; willfulness, backpay's effect and other underlying penalty defenses remain unresolved.
-
-**End of entry: Livadas v. Bradshaw, merits decision, June 13, 1994.**
 
 ---
 
@@ -863,6 +608,165 @@ The case returns to the Oklahoma Court of Criminal Appeals with its judgment vac
 
 ---
 
+### Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, No. 93-639
+
+Merits decision, June 13, 1994
+
+#### Chronology and Posture
+
+512 U.S. 136. Argued April 19, 1994; decided June 13, 1994. On writ of certiorari to Florida's First District Court of Appeal, 621 So.2d 435, which affirmed without opinion the Board's May 12, 1992 reprimand. No appeal of right to the Florida Supreme Court followed from that form. The question is whether the Board may impose this discipline for use of Ibanez's active CPA and authorized private CFP credentials in her law-practice communications. Its jurisdiction is conceded; the speech restriction remains contested.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
+
+#### Judgment
+
+The judgment sustaining the reprimand is reversed and the case remanded. Reversal of the CPA ground is unanimous; reversal of the CFP ground and rejection of the actual disclosure justification are 8–1.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| CPA designation as a basis for reprimand | Reverse, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Set aside the CPA basis while preserving licensing jurisdiction and valid conduct rules |
+| CFP designation and paragraph (j) disclosure justification for the sanction | Reverse and remand, 8–1 | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | O'Connor | Set aside the CFP basis on this record; O'Connor would preserve it under the prohibition ground or independently under the actual disclosure application |
+
+The eight-Justice disposition requires setting aside the reprimand on both challenged grounds. O'Connor would retain the CFP basis and permit conforming administrative action if separation is necessary. No Justice revokes a license, awards damages, restores the withdrawn unlicensed-firm count or determines a future sanction.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Reverses CPA ground | Active-license truthfulness and limited CPA remedy |
+| Opinion of the Court, Parts II and III | Kennedy | Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas, Ginsburg | Reverses CFP ground and rejects actual disclosure justification | Record-specific certification and disclosure rules; no universal advertising immunity |
+| Concurrence in part and dissent in part | O'Connor | No other Justice | Joins Part I; would preserve CFP-based sanction | As-applied prohibition rationale and independently sufficient as-applied disclosure alternative; neither controls |
+
+#### Controlling Propositions and Authority
+
+##### An active CPA credential is not false because its holder disputed regulation
+
+**Controlling proposition:** The Board may not reprimand Ibanez for truthfully identifying her active Florida CPA credential on these law-practice communications on the unsupported theory that the title falsely implies submission to regulation. Her earlier legal challenge to the Board's authority does not falsify the credential or prove misleading advertising; the CPA ground for the reprimand must be set aside, with otherwise lawful professional regulation preserved.
+
+**Authority:** Part I of Kennedy's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine adopt the CPA ground and its limited remedy.
+
+**Controlling explanation:** The Court holds that an active professional license remains a truthful credential despite its holder's legal disagreement with the licensing agency. Central Hudson protects truthful commercial information concerning lawful activity while permitting regulation of false or misleading representations. In re R.M.J. distinguishes that information from advertising properly subject to prohibition or clarification. Ibanez holds an active Florida CPA license; the Board identifies no false statement that it has expired, been revoked, or confers different qualifications. Its contrary argument treats her resistance to its authority as proof that CPA communicates a false promise of regulatory submission. Jurisdiction is now conceded, and her legal contention cannot make the State's own current credential fictitious. Edenfield requires justification tied to the actual professional setting, rather than an unsupported characterization of the speech. The withdrawn unlicensed-firm count supplies no alternative finding of misconduct. This decision concerns the truthful title on this record; it neither removes the Board's jurisdiction nor excuses a violation of a valid rule governing professional conduct.
+
+**Precedent treatment:**
+
+- Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S. 557: applies protection for truthful, nonmisleading commercial information and preserves regulation of actual deception.
+- In re R.M.J., 455 U.S. 191: applies the distinction between factual professional information and misleading advertising; no immunity from appropriately justified regulation follows.
+- Edenfield v. Fane, April 26, 1993: applies the requirement of justification in the relevant professional setting, without imposing an invariable empirical-study requirement.
+
+##### The private CFP credential is not inherently deceptive on this record
+
+**Controlling proposition:** The Board may not sustain this reprimand merely because Ibanez's authorized private CFP credential, displayed beside CPA without naming the private certifier, could be mistaken for government recognition. On this record the Board has not established actual or inherent deception or a constitutionally adequate justification for suppressing that truthful certification information; the CFP prohibition ground must be set aside, without validating every private credential or every form of its advertisement.
+
+**Authority:** Part II of Kennedy's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas and Ginsburg. Eight Justices directly adopt this as-applied holding; O'Connor dissents from it.
+
+**Controlling explanation:** The Court holds that possible misunderstanding is not self-proving deception. Ibanez was authorized to use the CFP designation by its private certifying body. The omission of that body's name and the adjacent CPA title present the Board's strongest objection: a reader might think both credentials come from the State. Central Hudson and R.M.J. nonetheless require a justified distinction between useful factual information and misleading speech. Peel's plurality treated genuine certification as verifiable information; the separate judgment concurrence recognized potential misunderstanding while rejecting a complete ban. Those writings do not establish that every abbreviated credential is immune. Here the anonymous mailing that prompted investigation establishes no deceived customer, and the agency witnesses do not supply the missing connection between asserted harm and suppression. Edenfield permits experience and reasonable inference but rejects speculation as an adequate substitute. The certifier's standards are reported amicus representations, not findings guaranteeing superior competence. The Court leaves false credentials, actual deception and appropriately supported regulation for cases presenting them.
+
+**Precedent treatment:**
+
+- Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S. 557: applies the distinction between protected factual information and actually or inherently misleading speech.
+- In re R.M.J., 455 U.S. 191: preserves regulation of deception without treating possible confusion as automatically justifying suppression.
+- Peel v. Attorney Registration and Disciplinary Commission, 496 U.S. 91: applies its protection against the certification ban within the distinct plurality and concurrence rationales; no unanimous rule against certification regulation is attributed to it.
+- Edenfield v. Fane, April 26, 1993: applies its real-harm and material-advancement inquiry to the actual asserted professional deception.
+- Cincinnati v. Discovery Network, March 24, 1993: preserves reasonable fit between the selected restriction and its asserted harm without requiring regulation of every source at once.
+- United States v. Edge Broadcasting Co., June 25, 1993: preserves supported incremental regulation and reasonable fit; it supplies no presumption that this credential is misleading.
+
+##### The actual immediate disclosure demand does not justify this reprimand
+
+**Controlling proposition:** Paragraph (j)'s demand for an immediately adjacent disclaimer that the certifier is neither affiliated with nor sanctioned by state or federal government, together with the certifier's recognition requirements including but not limited to education, experience and testing, cannot sustain this reprimand without adequate justification for that actual burden. The Board has not justified it on this record; the holding preserves supported, proportionate factual clarification and neither prescribes a replacement disclaimer nor creates an exception to paragraph (i)'s separate prohibition.
+
+**Authority:** Part III of Kennedy's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Souter, Thomas and Ginsburg. Eight Justices reject this disclosure justification as applied; O'Connor would independently sustain it if the advertisement is merely potentially misleading.
+
+**Controlling explanation:** The Court holds that a disclosure's possible usefulness does not justify every disclosure burden. Zauderer permits factual information reasonably related to preventing deception while withholding approval from unjustified or unduly burdensome demands. The Board invokes clarification as an alternative to suppression, but paragraph (j) requires much more than identifying the private certifier: an immediately adjacent statement that the certifier is neither affiliated with nor sanctioned by state or federal government, plus recognition requirements including but not limited to education, experience and testing. That substantial recitation bears directly on whether these stationery, card and directory communications can convey the credential at all. R.M.J. preserves appropriate clarification, and Peel's separate concurrence expressly distinguishes limited information from an unnecessary exhaustive account. The present record does not justify this particular demand merely by asserting possible confusion. Neither absence of a deceived-customer complaint nor absence of an empirical study is categorically decisive in every case. The Court decides the actual requirement and sanction, not a hypothetical short disclosure, and leaves adequately supported, proportionate clarification available under the received commercial-speech framework.
+
+**Precedent treatment:**
+
+- Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626: applies the distinction between reasonably related factual clarification and unjustified or unduly burdensome disclosure.
+- In re R.M.J., 455 U.S. 191: preserves the possibility of adequately justified clarification of potentially misleading professional information.
+- Peel v. Attorney Registration and Disciplinary Commission, 496 U.S. 91: preserves the separate concurrence's limited-disclosure rationale without converting its permission into a duty to supply exhaustive standards.
+- Edenfield v. Fane, April 26, 1993: applies record-sensitive justification without requiring empirical studies in every professional-regulation case.
+
+**Limits and questions not reached:** Paragraph (g) addresses stated or implied recognition as a public-accountancy specialist unless the recognizing agency is Board-approved; paragraph (i) independently prohibits recognition by another entity using certified; paragraph (j) separately imposes the actual disclosure just analyzed. Compliance with (j) is not an exception to (i). The Court resolves the sanction on this record, not all applications of those provisions, the withdrawn unlicensed-firm charge, future advertising, licensing jurisdiction, or the validity of a differently justified shorter disclosure. An expired credential, fictitious certifier or express false claim of state endorsement presents a different case.
+
+#### Precedent Treatment and Current-Law Effect
+
+Central Hudson, R.M.J., Zauderer and the distinct Peel writings remain the received commercial-speech framework. Edenfield and Discovery Network require relevant justification and fit, without compulsory studies in every case, universal least-restrictive-means review or rejection of every incremental restriction. Edge's supported partial-advancement principle remains intact. No precedent is overruled.
+
+Effective June 13, 1994, the Board cannot sustain this reprimand for the active CPA title, the authorized private CFP title or the inadequately justified actual disclosure burden. Paragraph (g)'s exception concerns Board approval of the recognizing agency; paragraph (i)'s independent non-Board-certified prohibition does not contain a (j) disclaimer exception. Paragraph (j) requires, in immediate proximity to the specialty statement, a statement that the recognizing agency is neither affiliated with nor sanctioned by state or federal government, plus its recognition requirements including but not limited to education, experience and testing. The disposition is as applied to this record. Actual deception, false credentials and properly supported proportionate factual disclosures remain regulable. Experience and reasonable inference may justify consumer protection where connected to the actual speech and burden; this decision creates no universal heightened evidence rule.
+
+#### Separate Positions Relevant to the Decision
+
+O'Connor concurs in Part I and the CPA disposition and dissents from Parts II and III and reversal of the CFP ground. Her Peel dissent distinguishes literal truth from what prospective clients reasonably understand. The unexplained CFP initials appear beside a state CPA credential without naming a certifier whose standards the consumer can verify. She regards that specific presentation as inherently misleading about governmental recognition and would sustain paragraph (i)'s prohibition as applied, in the context of the Board's specialty-recognition charge under (g). She does not find a different, uncharged violation or declare every truthful statement about private certification inherently deceptive. The active, state-issued CPA title lacks that source ambiguity, so she joins its protection.
+
+She independently concludes that, even if the CFP advertisement is only potentially misleading, paragraph (j)'s actual disclosure application is valid here. Zauderer allows responsive factual clarification, and the advertisement leaves both governmental status and recognition standards unexplained. She accepts the immediate-proximity statement that the recognizing agency is neither affiliated with nor sanctioned by state or federal government, plus its recognition requirements including but not limited to education, experience and testing, as responsive to those ambiguities in this application. This is approval of the actual burden in this case, not a substitute hypothetical one-line rule or a universal endorsement of every application. Her strongest contrary consideration is that useful factual information may be suppressed by extensive disclosure; she concludes the present unexplained certification can lawfully require the demanded explanation. Regulatory experience and the advertisement itself suffice for her inference without a proved deceived client. Compliance with (j) does not become an exception to the independent (i) prohibition. She would reverse the CPA basis, preserve the CFP basis and permit conforming administrative treatment if the sanction needs separation, without dictating a future penalty. Both grounds are noncontrolling.
+
+#### Source Notes
+
+The [official report, 512 U.S. 136](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512136/usrep512136.pdf), 138–148 and the quoted Board provisions, supplies the credentials, communications, administrative chronology, jurisdictional concession, review route and actual rule language. It reports the First District's affirmance without opinion and the hearing officer's recommendation as distinct acts. The certifier's standards are amicus representations, not an independent finding of superior competence. The complete Board order, original rule-publication dates, underlying certification file and appellate judgment sheet were not independently recovered. The decision does not depend on an unproved amendment date or an uncharged independent violation. [Peel, 496 U.S. 91](https://tile.loc.gov/storage-services/service/ll/usrep/usrep496/usrep496091/usrep496091.pdf), supplies distinct plurality, concurrence and dissent rationales, not a single unanimous certification rule.
+
+#### Mandate, Remedy, and Stage
+
+The case is remanded for proceedings consistent with reversal of the reprimand's CPA and CFP grounds. The Board's licensing jurisdiction remains conceded and intact. The Court prescribes no new disclaimer, finds no misconduct on the withdrawn unlicensed-firm count, revokes no credential and awards no damages. Future truthful or misleading representations and a different supported disclosure must be evaluated on their own records; no permanent immunity attaches to these initials.
+
+**End of entry: Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, merits decision, June 13, 1994.**
+
+---
+
+### Livadas v. Bradshaw, No. 92-1920
+
+Merits decision, June 13, 1994
+
+512 U.S. 107. Argued April 26, 1994; decided June 13, 1994. On writ of certiorari to the Ninth Circuit, 987 F.2d 552, whose amended opinion reversed judgment for Livadas. The questions concern §301 preemption, a policy burdening protected collective bargaining and the §1983 channel for that federal right. The initial appellate opinion was filed September 11, 1991 and amended on denial of rehearing March 8, 1993.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
+
+The judgment is reversed and remanded, 9–0, on the independent wage claim, bargaining-based nonenforcement and §1983 policy challenge. Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg support the entire disposition; no Justice opposes.
+
+Justice Stevens delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Their joins encompass every holding and the limited remand.
+
+Section 301 does not displace a nonnegotiable state wage-payment claim whose resolution requires no interpretation of disputed collective-bargaining terms. Consulting an undisputed contractual wage rate to calculate the possible statutory penalty supplies arithmetic, not the contract interpretation needed for §301 preemption; genuinely contract-dependent claims remain different.
+
+The holding rests on Stevens's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt this antecedent holding.
+
+The Court holds that the nature of the actual dispute controls. Lingle preserves state-law claims whose elements can be resolved without construing the collective-bargaining agreement. Allis-Chalmers v. Lueck requires federal treatment where the asserted state duty instead depends on interpreting that agreement. Livadas invokes California's independent obligation to pay earned wages at discharge and its penalty for willful delay. Her wage rate is undisputed; consulting it does not decide what a contractual term means. The agreement also permits direct wage claims not requiring interpretation to proceed before an authorized court or agency. The Commissioner's concern for uniform contract interpretation therefore supplies no reason to refuse this claim categorically. A private arbitration clause does not transform every statutory wage question into a contract dispute. Conversely, calling a claim nonnegotiable or pleading it under state law does not answer preemption if a genuine contractual controversy must be resolved. The Court decides neither every contractual waiver nor the employer's willfulness, penalty liability or defenses.
+
+Lingle v. Norge Division of Magic Chef, Inc., 486 U.S. 399, supplies the rule that a claim independent of contract interpretation survives; use of undisputed wage information does not change the claim's source. Allis-Chalmers Corp. v. Lueck, 471 U.S. 202, retains preemption of genuinely contract-dependent claims but does not preempt this arithmetic use. Wooddell v. International Brotherhood of Electrical Workers, December 4, 1991, retains the distinct §301 route for a beneficiary enforcing a qualifying interunion contract, rather than every union-related claim.
+
+The NLRA forbids California's policy withholding otherwise available enforcement of an independent wage right solely because an employee is covered by a collective-bargaining agreement containing arbitration. The employee's protected freedom to bargain includes carrying bargaining through to such an agreement; this rule neither compels employer assent nor generally requires the State to create an enforcement service.
+
+The holding rests on Stevens's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this statutory labor-right holding.
+
+The Court holds that a State may not make protected bargaining the reason for withdrawing an offered benefit. Nash prevents state benefit conditions that burden federally protected labor activity. Golden State recognizes that the federal bargaining process carries enforceable protections against governmental interference. The freedom here includes completing that process through an agreement providing arbitration; it is not an entitlement to compel an employer to accept terms. California's policy attaches the loss of public enforcement to that protected choice even though this wage claim requires no contractual interpretation. Administrative convenience, an available private suit and good intentions do not remove the condition's actual burden. Fort Halifax permits independent minimum labor standards and genuine negotiated alternatives where the law provides them; it does not validate every bargaining-based exclusion. California need not offer a wage-enforcement service generally, and ordinary lawful eligibility requirements remain. The Court rejects this particular condition without creating heightened equal-protection scrutiny, guaranteeing successful wage recovery or deciding every arbitration arrangement.
+
+Nash v. Florida Industrial Commission, 389 U.S. 235, supplies the prohibition on state benefit conditions burdening federally protected labor activity. Golden State Transit Corp. v. Los Angeles, 493 U.S. 103, protects the federally secured bargaining process against governmental interference. Fort Halifax Packing Co. v. Coyne, 482 U.S. 1, preserves independent minimum labor standards and does not authorize this penalty for protected bargaining.
+
+Section 1983 permits Livadas to enforce her definite individual federal right to carry protected collective bargaining through to an agreement without this state-imposed loss of enforcement access. The NLRA does not foreclose that action against governmental interference; federal priority alone does not make every preemption rule a privately enforceable right or establish entitlement to a particular remedy.
+
+The holding rests on Stevens's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the right, nonforeclosure and bounded-remedy analysis.
+
+The Court holds that the federal right and the enforcement channel must be identified separately. Golden State asks whether the statute secures an individual right and whether Congress displaced the enacted §1983 remedy. Livadas identifies a concrete freedom within the protected bargaining process, including its completion, rather than an abstract claim that federal law prevails. The NLRA's machinery for resolving private labor disputes does not foreclose this action against a State's interference with that freedom. Suter's provision-specific rejection of asserted child-welfare rights does not establish a constitutional-rights-only rule or make every statute with administrative enforcement immune from §1983. The Commissioner's characterization of the dispute as only mistaken state-law interpretation overlooks the independent federal burden. An enforceable right nevertheless does not decide the proper relief. Bradshaw succeeds an official-capacity defendant; no personal-capacity liability is established. The Court leaves official-capacity monetary relief, the Eleventh Amendment, the underlying wage penalty and appropriate further proceedings to their distinct inquiries on remand.
+
+Golden State Transit Corp. v. Los Angeles, 493 U.S. 103, supplies separate federal-right and congressional-foreclosure inquiries for this governmental interference. Suter v. Artist M., March 25, 1992, is distinguished by its specific absence of the asserted §671(a)(15) and §671(a)(9) rights and implied actions; it creates no universal state-plan or administrative-review bar. FDIC v. Meyer, February 23, 1994, preserves the distinction between a right, an available cause, immunity and recoverable relief; no agency-damages extension follows here.
+
+No personal qualified-immunity question is decided. The Court does not determine the employer's liability, every possible contract waiver, or the effect of reinstatement and backpay on the penalty claim.
+
+No precedent is overruled. Suter retains its provision-specific limits on the asserted child-welfare rights and does not bar this independently established labor right. Wooddell retains its distinct contract-enforcement scope.
+
+Effective June 13, 1994, the independent wage claim remains outside §301 preemption, the bargaining-based nonenforcement policy conflicts with the NLRA, and §1983 supplies the channel for the identified right subject to proper relief. These are distinct holdings, not a general damages action for every labor-preemption error.
+
+California Labor Code §201 requires earned and unpaid wages immediately on discharge. Section 203 applies to willful failure to pay and continues wages at the same rate until payment or commencement of an action, for no more than thirty days. Livadas claimed three days; none is awarded here. Section 219 prohibits private agreements setting aside the payment protections but permits more frequent, greater or earlier payment. Section 229 permits an individual's wage-collection action despite private arbitration; its separate exception concerns a dispute over interpretation or application of a collective-bargaining agreement containing arbitration. The Commissioner's broader administrative exclusion is her policy, not a command written into §229. Section 204.2's different pay-period rule for designated executive, administrative or professional employees and §227.3's collective-agreement treatment of vacation pay do not become exceptions to this §201/203 claim.
+
+Administrative proceedings under §§98 and 98.1 differ from court representation under §98.3(a), which depends on the Commissioner's assessment of financial inability to employ counsel and a valid, enforceable claim. The employee's own §218 suit and §218.5 prevailing-party fee provision remain distinct. Contract §18.8 permits the relevant direct claim through arbitration or an authorized tribunal or agency without requiring contract interpretation. No guaranteed entitlement to every public enforcement service or identical access through these separate routes is established.
+
+Suter leaves intact the absence of the asserted reasonable-efforts right under §671(a)(15) and of the asserted reporting right under §671(a)(9), and the separate absence of implied actions. The reporting clause concerns reason to believe that the funded child's home or institution is unsuitable because of neglect, abuse or exploitation, and reporting to the appropriate court or law-enforcement agency. Section 671(a)(16), read with §§675(1) and 675(5)(B), remains unresolved. Livadas changes none of those child-welfare holdings.
+
+**Source notes:** The [official report, 512 U.S. 107](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512107/usrep512107.pdf), 110–115, 128 and statutory notes, and the [amended Ninth Circuit opinion, 987 F.2d 552](https://static.case.law/f2d/987/html/0552-01.html), establish the chronology, policy, California provisions, contract and official capacity. The full underlying record and every brief were not independently recovered. The reported state-law dispute does not establish willfulness or monetary eligibility; no damages amount is established.
+
+The Ninth Circuit is reversed and the case remanded for proceedings consistent with the three holdings. The lower courts must determine appropriate source-authorized relief against the official-capacity policy, including the distinct monetary-relief and Eleventh Amendment constraints. No employer wage penalty, personal damages or automatic reinstatement of a money award is ordered; willfulness, backpay's effect and other underlying penalty defenses remain unresolved.
+
+**End of entry: Livadas v. Bradshaw, merits decision, June 13, 1994.**
+
+---
+
 ### United States v. Carlton, No. 92-1941
 
 Merits decision, June 13, 1994
@@ -953,3 +857,99 @@ The Ninth Circuit is reversed and the case remanded for judgment consistent with
 **End of entry: United States v. Carlton, merits decision, June 13, 1994.**
 
 ---
+### Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., No. 93-377
+
+Merits decision, June 13, 1994
+
+512 U.S. 61. Argued March 23, 1994; decided June 13, 1994. On writ of certiorari to the New York Court of Appeals, 81 N.Y.2d 417, 615 N.E.2d 994. Its June 10, 1993 judgment granted the wholesalers summary judgment and sustained the facial injunction against the unimplemented program on categorical trader preemption and alternative excessive-burden grounds. The question is whether federal Indian Trader law preempts the challenged collection, documentation and quantity controls.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
+
+The judgment is reversed and remanded, 9–0. Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg support reversal of both categorical trader preemption and the alternative facial excessive-burden ground; no Justice opposes.
+
+Justice O'Connor delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. Their joins encompass every holding and the limited remand.
+
+The Indian Trader Statutes do not categorically preempt state requirements reasonably directed to collecting cigarette taxes validly imposed on nonexempt consumers. New York's state-agent, stamping, advance-collection, certification, invoice, recordkeeping and reporting requirements survive this facial challenge insofar as they serve that collection function without taxing protected consumption or displacing the federal trader appointment.
+
+The holding rests on O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited federal-statute and collection holding.
+
+The Court holds that federal trader licensing is not immunity from reasonable assistance in collecting valid consumer taxes. Warren Trading Post protects the federally regulated reservation trade against the direct state tax considered there. Moe, Colville and Potawatomi separately permit taxation of nonexempt purchasers and reasonably necessary collection duties while protecting exempt consumption and tribal immunity. Those rules coexist. Section 261's federal authority over trader appointment and regulation does not make every ancillary state collection requirement an invasion of that authority. New York places ultimate tax incidence on the consumer and uses the distribution chain to collect it. Certification, records and reports identify exempt transactions; state-agent and stamping requirements collect taxes on the others. The strongest objection is that these obligations could become state control of federally protected trade. That possibility requires attention to actual operation, consistent with Bracker's federal, tribal and state inquiry; it does not establish facial invalidity here. The Court rejects both categorical preemption and the lower court's alternative facial burden conclusion, while leaving unreasonable administration and tribal enforcement questions open.
+
+Warren Trading Post Co. v. Arizona Tax Commission, 380 U.S. 685, retains its protection against the particular direct tax on federally regulated reservation trade; its broader language does not create universal collection immunity. Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463, permits valid nonmember taxation and reasonable collection assistance while preserving exempt member purchases. Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134, supplies the distinction between taxable purchases and protected tribal trade, including reasonable documentation burdens. Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505, preserves valid nonmember tax obligations and reasonable collection tools without overcoming the tribe's immunity from suit. White Mountain Apache Tribe v. Bracker, 448 U.S. 136, requires attention to the actual federal, tribal and state regulatory setting rather than a universal territorial or licensing rule.
+
+No general state power to regulate reservation commerce, revoke a federal trader appointment, tax exempt consumption or sue an immune tribe is recognized. The Seneca treaty contention was not addressed below and is not decided.
+
+New York may limit unstamped deliveries to probable demand by qualifying exempt purchasers and require advance approval as reasonably necessary collection devices, provided exempt purchases remain adequately available and the requirements remain connected to the valid nonmember tax. The challenged scheme survives the present facial objections because no inadequate implemented quota or denied exempt supply is established; stamped sales have no corresponding numerical ceiling, and unreasonable applications remain subject to challenge.
+
+The holding rests on O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the qualified quota-and-approval holding and reversal of the facial injunction.
+
+The Court holds that controlling untaxed supply can serve lawful collection without eliminating the exemption. Moe and Colville recognize the need to distinguish exempt from taxable reservation transactions; Potawatomi does not require a State to abandon a valid tax merely because direct recovery from the tribe is unavailable. New York's evidence of extraordinary untaxed deliveries supplies a reason to address diversion, not a finding that every retailer evades tax. The scheme allows a tribal regulatory agreement, uses tribal demand evidence where the tribe regulates distribution, and otherwise estimates demand from enrollment and consumption data. Approval and documentation operate with those channels, and stamped supply remains unlimited. The wholesalers' stronger objection is practical: an inflexible estimate or delayed approval could deprive members of exempt purchases. That objection may support relief on an actual record, but the present unimplemented scheme establishes no such deprivation. The Court does not determine an initial quota's accuracy, approve arbitrary territory allocations or excuse excessive compliance burdens. Exempt trade remains protected, and concrete challenges remain available.
+
+Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463, is extended to permit a qualified supply-control mechanism as reasonable collection assistance directed to valid taxes. Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134, supplies the distinction between collection of nonexempt taxes and preservation of protected consumption. Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505, leaves alternative lawful collection methods available while preserving sovereign immunity. Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993, retains its residence, source and incidence distinctions and supplies no exemption for every wholesale sale to a reservation retailer. County of Yakima v. Confederated Tribes, January 14, 1992, retains its exact-authorization and legal-incidence analysis for distinct land taxes; collection labels do not authorize prohibited taxes.
+
+No precedent is overruled. Warren Trading Post does not establish universal trader immunity. Sac and Fox and Yakima retain their distinct rules for member income, vehicle levies and congressionally authorized fee-land taxation.
+
+Effective June 13, 1994, federal trader law does not facially invalidate this reasonable-collection program, including its probable-demand and approval mechanisms. Both grounds of the New York Court of Appeals' facial judgment fail. Every component remains bounded by the valid nonexempt tax and protection of genuine exempt consumption.
+
+Tax Law §471(1) taxes cigarettes possessed in New York except those beyond the State's taxing power; §471(2) puts ultimate incidence and liability on the consumer. State-licensed agents purchase and affix stamps before the first sale and precollect tax on nonexempt sales. The protected consumer is an enrolled member of an exempt New York nation or tribe buying within a qualified reservation for the individual's own use or consumption there, not for resale. Untaxed wholesale deliveries require a valid exemption certificate, intended distribution to exempt consumers and reservation delivery. The wholesale buyer displays its certificate on first purchase and signs subsequent invoices. The consumer's distinct procedure requires individual-exemption certification initially and identity evidence on later purchases. Wholesalers keep buyer-specific untaxed-sale records and report monthly.
+
+A tribe may enter a §336.7(c)(1) regulatory agreement providing tribal delivery approval. Without an agreement, the Department calculates probable demand. Where the tribe regulates, licenses or controls distribution, the Department uses submitted demand evidence; otherwise it multiplies statewide per-capita consumption by enrollment. Trade territory is determined in consultation with a regulating tribe and otherwise from available Department information. Valid orders and quantities reasonably related to exempt demand govern approval; monthly coupons implement the allotment. The Department may withhold delivery approval from past or current violators and cancel certificates for noncompliance. These powers remain tied to lawful collection; the decision does not authorize destroying the exempt channel. Stamped cigarettes have no numerical sales quota.
+
+No actual quota's accuracy, denial of exempt supply, unlawful delay, unreasonable compliance burden or particular retailer's evasion is found. Population, actual exempt consumption, qualifying consumers, demand variations and access to documentation may matter to a concrete challenge; the Court announces no new mandatory calculation formula. The unadjudicated Seneca treaty contention and enforcement against a tribe remain unresolved.
+
+**Source notes:** The [official report, 512 U.S. 61](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512061/usrep512061.pdf), 64–70 and 77 n.11, and the [New York Court of Appeals opinion, 81 N.Y.2d 417](https://www.law.cornell.edu/nyctap/081_0417.htm), support the program, lower grounds and facial posture. The official report identifies the reproduced 1992 regulations as 20 N.Y.C.R.R. §§336.6–336.7; the lower text uses §335 numbering. The original codification was not independently recovered, so no substantive amendment is inferred from that numbering difference. The complete underlying audit record and every brief were not independently recovered. The reported ratios support the asserted collection problem, not individual tax-evasion findings.
+
+The New York Court of Appeals is reversed on both grounds supporting its facial judgment, and the case is remanded for proceedings consistent with the limited rejection of facial preemption. The facial injunction cannot rest on those grounds. Concrete challenges to inadequate exempt supply, arbitrary approval or territory allocation, and excessive compliance burdens remain available on an actual record. No particular quota, tax collection from a tribe or treaty objection is adjudicated.
+
+**End of entry: Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., merits decision, June 13, 1994.**
+
+---
+
+### Howlett v. Birkdale Shipping Co., S.A., No. 93-670
+
+Merits decision, June 13, 1994
+
+512 U.S. 92. Argued April 20, 1994; decided June 13, 1994. On writ of certiorari to the Third Circuit, 998 F.2d 1003, which affirmed without opinion summary judgment for the vessel. The questions concern the vessel's limited turnover duty to warn of a latent cargo-stow hazard and the proper knowledge and obviousness inquiries.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision.
+
+The judgment is vacated and the case remanded, 9–0, for reconsideration of the turnover-warning summary judgment and the proper knowledge and obviousness inquiries. Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg support that disposition; no Justice opposes.
+
+Justice Kennedy delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. Their joins encompass every holding and the limited remand.
+
+A vessel must warn an unloading stevedore of a hazard the vessel knows or should know through its required reasonable care, likely to be encountered in the work and neither known nor obvious to, nor reasonably anticipated by, a competent stevedore. For a cargo-stow hazard, that duty does not ordinarily require supervising independent loading operations or inspecting their completed work; an established contract, positive law or custom may alter that allocation, but none is established here.
+
+The holding rests on Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited turnover-warning rule and rejection of a general cargo-inspection duty.
+
+The Court holds that reasonable care must be measured by the work the vessel is required to perform. Section 905(b) authorizes negligence liability and excludes the warranty of seaworthiness; ownership and an onboard injury therefore do not establish liability. Scindia assigns primary cargo-work responsibility to the expert stevedore while preserving the vessel's own turnover duties. Burnside supplies ordinary care, not responsibility for every contractor-created hazard. Howlett's proposed land-contractor analogy would require reasonable inspections during or after loading, not merely prohibit careless supervision once undertaken. Even that limited inspection demand would redistribute the cargo responsibility Scindia preserves unless contract, law or custom provides it. The Court rejects the asserted general duty to supervise the foreign stevedore or inspect the completed stow. It does not erase knowledge the crew actually acquired while performing vessel work. Nor does the phrase should know create a discovery duty by itself. Active-control and intervention duties remain distinct and are not substitute theories in this turnover-only claim.
+
+Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156, supplies the allocation of cargo responsibility and the limited turnover-warning duty; its separate active-control and intervention duties remain intact. Federal Marine Terminals, Inc. v. Burnside Shipping Co., 394 U.S. 404, preserves ordinary care within the vessel's legally assigned responsibilities, without a universal contractor-inspection rule.
+
+The Court does not establish a contract, positive-law or customary enlargement of the vessel's duties. Section 905(b)'s bar on direct or indirect employer liability to the vessel for these damages and contrary agreements remains; no indemnity or seaworthiness claim is revived.
+
+The turnover-warning claim must be reconsidered because possible crew knowledge during loading and a hazard's visibility to a competent unloading stevedore are distinct inquiries. Supplying plastic alone does not prove knowledge of its dangerous placement, and loading-stage visibility does not itself establish unloading-stage obviousness; the full record may still support summary judgment, and no negligence, latent hazard, causation or damages is found here.
+
+The holding rests on Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this application and bounded vacatur and remand.
+
+The Court holds that the rejection of a general inspection duty does not resolve the evidence of actual knowledge. Scindia's warning rule requires both qualifying vessel knowledge and a danger the competent unloading stevedore would not know, find obvious or reasonably anticipate. The vessel supplied plastic, and crew members were present during aspects of loading. Those circumstances require examination with the other evidence; neither alone conclusively proves awareness of the dangerous arrangement. The district court also reasoned that a condition visible during loading would be obvious. That reasoning joins different actors, times and conditions. Bags might obscure what had earlier been visible, yet Howlett's own witnesses described plastic visible during discharge, including from above. The Court does not suppress that adverse evidence or equate his subjective surprise with a latent hazard. No separate constructive-knowledge basis beyond the rejected broad inspection theory has been established. Actual knowledge thus remains material. The lower courts must reassess the record under the correct distinctions without an automatic trial or liability order.
+
+Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156, supplies the distinct vessel-knowledge and competent-stevedore warning conditions for the actual turnover setting; neither condition is presumed from the accident.
+
+The Court does not attribute knowledge to the vessel merely because somebody aboard might have seen material. Actual crew role, awareness and unloading visibility remain questions for proper summary-judgment assessment; renewed summary judgment remains possible.
+
+No precedent is overruled. Scindia retains its separate turnover, active-control and intervention duties. American Dredging and McDermott do not enlarge the underlying vessel-negligence duty.
+
+Effective June 13, 1994, the limited turnover-warning duty applies to cargo-stow hazards without imposing a general obligation to supervise independent loading or inspect the completed stow. Knowledge discoverable through reasonable care remains tied to a duty the vessel actually has; it does not create the rejected inspection obligation. Contract, positive law and custom retain their capacity to alter ordinary allocation when established.
+
+The relevant perception is that of a competent unloading stevedore performing the work, not only the injured longshoreman's subjective awareness and not automatically that of the foreign loader. Actual crew knowledge acquired in vessel operations remains relevant; providing plastic or crew presence does not establish it conclusively. Here no independent constructive-knowledge basis beyond the rejected inspection theory is established. The remand concerns proper treatment of actual-knowledge evidence and the separate unloading inquiry, not elimination of actual knowledge as a material requirement on the presented theory.
+
+Section 905(b) preserves a covered person's negligence action against the vessel as a third party and excludes liability based on the seaworthiness warranty. It bars shifting those damages to the employer directly or indirectly and renders contrary agreements or warranties ineffective within that provision. The independent stevedore's alleged negligence is not automatically vessel negligence. The Court decides only the turnover-warning claim; active-control, intervention, settlement allocation and forum rules do not supply additional holdings here.
+
+**Source notes:** The [official report, 512 U.S. 92](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512092/usrep512092.pdf), 94–106, supplies the cargo record, limited claim, district-court reasons and opinionless Third Circuit affirmance. The [Scindia report, 451 U.S. 156](https://tile.loc.gov/storage-services/service/ll/usrep/usrep451/usrep451156/usrep451156.pdf) supplies the distinct duties and contract, positive-law and custom qualifications. The original district-court order and depositions were not separately recovered; competing reported submissions establish no conclusive knowledge or concealment finding.
+
+The Third Circuit's judgment is vacated and the case remanded for reconsideration of the turnover-warning claim on the full summary-judgment record under the stated duty. The lower courts must distinguish evidence of actual vessel knowledge from the condition facing a competent unloading stevedore and address the contrary visibility evidence. Renewed summary judgment remains possible; the Court orders neither trial, compensation, a negligence finding nor a finding of causation.
+
+**End of entry: Howlett v. Birkdale Shipping Co., S.A., merits decision, June 13, 1994.**
+
+---
+

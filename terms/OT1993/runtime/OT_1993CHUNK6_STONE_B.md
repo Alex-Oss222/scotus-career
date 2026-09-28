@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-06-06 through 1994-06-13. Event date
 
 **Inherited-Law Context:** Discovery Network and Forsyth require examining the actual speech distinction and the fit of the restriction; neither decides a nearly complete residential-sign prohibition. Preserve Ladue's separate medium and location analysis. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -53,7 +53,7 @@ The operative challenge is to the replacement ordinance, so repeal of the first 
 **Source Support:** [R35](https://supreme.justia.com/cases/federal/us/512/43/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [City of Ladue v. Gilleo review](review/06_CASES_61-72.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [City of Ladue v. Gilleo review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 66. O’Melveny & Myers v. FDIC
@@ -74,7 +74,7 @@ The operative challenge is to the replacement ordinance, so repeal of the first 
 
 **Inherited-Law Context:** United States v. Texas preserves a particular federal common-law interest rule absent displacement. It supplies no general authority to federalize every defense in an FDIC receiver's state-law tort action. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -107,7 +107,7 @@ The causes of action are state-created, notwithstanding federal receiver status 
 **Source Support:** [R36](https://supreme.justia.com/cases/federal/us/512/79/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [O’Melveny & Myers v. FDIC review](review/06_CASES_61-72.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [O’Melveny & Myers v. FDIC review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 67. Romano v. Oklahoma
@@ -128,7 +128,7 @@ The causes of action are state-created, notwithstanding federal receiver status 
 
 **Inherited-Law Context:** Estelle preserves the constitutional threshold for state evidentiary error; Lashley rejects a blanket instruction about innocence of other crimes; Graham/Johnson require effective consideration of supported mitigation. None decides the effect of this other death judgment on the jury's responsibility. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -165,7 +165,7 @@ This is direct review of the limited penalty-phase federal question. Oklahoma’
 **Source Support:** [R37](https://supreme.justia.com/cases/federal/us/512/1/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Romano v. Oklahoma review](review/06_CASES_61-72.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Romano v. Oklahoma review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 68. Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy
@@ -186,7 +186,7 @@ This is direct review of the limited penalty-phase federal question. Oklahoma’
 
 **Inherited-Law Context:** Discovery Network, Edenfield and Edge require the relevant commercial-speech showing and fit under their own records. Apply that law to truthful active professional credentials; imagined misleading effects cannot replace the necessary justification. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -219,5 +219,5 @@ Ibanez no longer contests the Board’s jurisdiction over her. That concession i
 **Source Support:** [R38](https://supreme.justia.com/cases/federal/us/512/136/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy review](review/06_CASES_61-72.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

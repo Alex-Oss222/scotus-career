@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Foucha limits continued insanity-acquittee confinement after its predicate ends; it does not tell the jury what verdict consequences it must hear under the federal statute. Preserve the actual immediate commitment procedure and any effective Simmons ruling without conflating distinct trial settings. Olano keeps preserved-error and forfeited-error burdens distinct; the requested instruction and record determine which review applies. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,4 +59,4 @@ Use Rule 52(a) and Kotteakos for preserved nonconstitutional error, with the Gov
 **Source Support:** 512 U.S. 575-593: statutory commitment process, requested instructions, trial record, and pre-event instruction authorities. [P39](https://supreme.justia.com/cases/federal/us/512/573/)
 
 
-**Revision Trace:** User-directed implementation of [Shannon v. United States review](review/08_CASES_85-95.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Shannon v. United States review](review/08_CASES_85-95.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

@@ -539,7 +539,7 @@ The Court affirms both Fourth Circuit judgments, 9–0, holding that the law of 
 
 ### The law of the convicting jurisdiction governs the conviction exclusion
 
-**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
 
 **Authority:** O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; all nine affirm both included judgments on this ground.
 
@@ -547,7 +547,7 @@ The Court affirms both Fourth Circuit judgments, 9–0, holding that the law of 
 
 **Precedent treatment:**
 - Chapman v. United States, 500 U.S. 453 (1991): applied to reserve lenity for unresolved penal ambiguity after interpretation; competing proposed readings alone do not trigger it.
-- United States v. Granderson, decided March 1, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
+- United States v. Granderson, decided March 22, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
 - Jarecki v. G. D. Searle & Co., 367 U.S. 303 (1961): its neighboring-terms principle supports, without mechanically compelling, the shared sovereign reference.
 - Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983): the intervening statutory choice-of-law text governs; its former federal-law definition is not used to bypass the enacted provision.
 

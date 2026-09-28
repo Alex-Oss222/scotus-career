@@ -4,7 +4,7 @@
 
 The existing case-list order controls ties. Application and per curiam events retain their actual action dates. A publication format does not convert filing relief into merits review. No separately listed original-jurisdiction decree or A-docket application occurs in this confirmed inventory. Related applications mentioned as background are not additional listed events.
 
-Each packet accounts for the completed OT1991–OT1992 simulated law and actual earlier effective same-term decisions. Stone’s proposed dispositions remain unapproved. Read `OT_1993_LOAD_MANIFEST.md` before runtime and `OT_1993_INHERITED_LAW.md` for the case-specific inheritance map.
+Each packet accounts for the completed OT1991–OT1992 simulated law and actual earlier effective same-term decisions. Stone’s proposed dispositions remain unapproved. Before runtime, read the current `workspace/manifest.md`, `workspace/ledger.md`, `workspace/continuity.md`, and `workspace/neutral-projection.md` as permitted for the stage; use the relevant `entering-law/` slices for case-specific inherited and effective current-term authority. Neutral modeling receives only the sanitized neutral projection and its selected entering-law slice.
 
 | No. | New chunk | Case caption | Docket(s) | Event date | Event type | Category |
 |---:|---:|---|---|---|---|---|

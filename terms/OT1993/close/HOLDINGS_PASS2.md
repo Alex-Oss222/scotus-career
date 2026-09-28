@@ -1,5 +1,8 @@
 # OT1993 Holdings pass 2 — operator notes
 
+**September 28, 2026 correction follow-up:** The user-authorized Beecham/Jones version 1.1 correction resolves this note’s Beecham deferral: the four-part firearms qualification and Granderson date are corrected in the Record and downstream copies, and the May 16, 1994 holding and selector rule are now incorporated in both candidates. The pass-time account and counts below describe the earlier preparation, not the corrected candidate totals. The Holdings candidate now carries 234 current-term propositions; the Standards and Tests candidate now has 289 entries (83 additions). The original pass receipt, including any recorded hash, is historical; no new term audit or publication is claimed.
+
+
 Prepared September 28, 2026. Scope: chunks 6–8, the term's remaining chunks, comprising 35 current Canonical Decision Records. The [Holdings candidate](HOLDINGS.candidate.md) appends **108 controlling propositions**, including two independently sufficient alternative holdings. The running total across both passes is **233 controlling propositions** (125 + 108). Chunk 6 contributes 26, chunk 7 contributes 32, and chunk 8 contributes 50. Counts concern separately stated controlling propositions, not cases, opinions, cross-references or judgment-authority explanations.
 
 All 35 matters contribute controlling law. No new matter is deferred in this pass. The existing Beecham/Jones deferral from pass 1 remains unresolved; completing this pass does not authorize publication of the candidate or close the term.

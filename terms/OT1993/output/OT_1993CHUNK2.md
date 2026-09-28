@@ -4,74 +4,20 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
-| 1994-01-19 | Schiro v. Farley | Merits decision | Denial of habeas relief affirmed; conviction and death sentence undisturbed on the claims decided. |
 | 1994-01-19 | Weiss v. United States | Merits decision | Both military appellate judgments affirmed; no new appointment, fixed term or retrial ordered. |
-| 1994-01-24 | ABF Freight System, Inc. v. National Labor Relations Board | Merits decision | Enforcement affirmed; reinstatement and backpay remain enforceable. |
+| 1994-01-19 | Schiro v. Farley | Merits decision | Denial of habeas relief affirmed; conviction and death sentence undisturbed on the claims decided. |
 | 1994-01-24 | Albright v. Oliver | Merits decision | Dismissal of the presented substantive-due-process claim affirmed; state-law dismissal without prejudice unchanged. |
-| 1994-01-24 | Department of Revenue of Oregon v. ACF Industries, Inc. | Merits decision | Reversed and remanded; the total-exemption requirement is removed. |
 | 1994-01-24 | National Organization for Women, Inc. v. Scheidler | Merits decision | Reviewed RICO dismissals reversed; the two clinics' affected claims return for further proceedings. |
+| 1994-01-24 | ABF Freight System, Inc. v. National Labor Relations Board | Merits decision | Enforcement affirmed; reinstatement and backpay remain enforceable. |
+| 1994-01-24 | Department of Revenue of Oregon v. ACF Industries, Inc. | Merits decision | Reversed and remanded; the total-exemption requirement is removed. |
 | 1994-01-24 | Northwest Airlines, Inc. v. County of Kent | Merits decision | Affirmed; existing parking recalculation and crash, fire and rescue allocation proceedings continue. |
-| 1994-02-23 | Caspari v. Bohlen | Merits decision | Conditional-habeas judgment reversed on nonretroactivity grounds; constitutional merits reserved. |
+| 1994-02-23 | Hagen v. Utah | Merits decision | Utah judgment affirmed; the reinstated conviction remains in place. |
+| 1994-02-23 | FDIC v. Meyer | Merits decision | Agency damages judgment reversed; Pattullo's unreviewed judgment remains undisturbed. |
 | 1994-02-23 | Department of Defense v. Federal Labor Relations Authority | Merits decision | Enforcement of both disclosure orders reversed on the asserted Privacy Act FOIA-exception basis. |
 | 1994-02-23 | Elder v. Holloway | Merits decision | Reversed and remanded for independent immunity review using all relevant law; ultimate immunity remains open. |
-| 1994-02-23 | FDIC v. Meyer | Merits decision | Agency damages judgment reversed; Pattullo's unreviewed judgment remains undisturbed. |
-| 1994-02-23 | Hagen v. Utah | Merits decision | Utah judgment affirmed; the reinstated conviction remains in place. |
+| 1994-02-23 | Caspari v. Bohlen | Merits decision | Conditional-habeas judgment reversed on nonretroactivity grounds; constitutional merits reserved. |
 
 ## Decisions and Dispositions
-
-### Schiro v. Farley, No. 92-7549
-
-Merits decision, January 19, 1994
-
-510 U.S. 222. Argued November 1, 1993. On certiorari to the Seventh Circuit, 963 F.2d 962, affirming denial of federal habeas relief from an Indiana death sentence. The questions concern successive jeopardy and issue preclusion after a jury convicted on felony murder and left alternative forms blank.
-
-All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
-
-The Seventh Circuit judgment is affirmed, 7–2. The Court declines the late Teague contention and denies relief on the presented double-jeopardy and issue-preclusion claims.
-
-On both the successive-jeopardy and necessary-determination components, affirmance is supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; Blackmun and Stevens oppose and would grant relief from death on these grounds. No habeas relief, new factual inquiry or resentencing is ordered. The felony-murder conviction and death sentence remain undisturbed by this decision. All nine agree to decline the late nonretroactivity objection and reach the presented claims; that procedural agreement is not a separate merits disposition.
-
-Opinion of the Court by O'Connor, joined in full by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg. Stevens dissents, joined by Blackmun. Blackmun also files a separate dissent, joined by no other Justice. The majority opinion controls every proposition stated below; no Marks inquiry is required.
-
-Teague nonretroactivity is not jurisdictional. When the State omitted that defense in the lower courts and in its opposition to certiorari and first raised it in merits briefing, the Court may decline to consider it; the Court exercises that discretion here and reaches the presented double-jeopardy claims.
-
-The holding rests on O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices. Blackmun and Stevens also agree with merits reach, but their agreement is unnecessary to the opinion's controlling authority.
-
-The Court declines to decide the State's late nonretroactivity defense. Collins v. Youngblood establishes that Teague does not limit subject-matter jurisdiction and need not be raised by the Court on its own. That distinction permits attention to the way a case was presented. Indiana defended the judgment in the lower courts and opposed review without invoking Teague. Its later merits brief does not make consideration of that defense compulsory. The fully presented double-jeopardy questions can therefore be resolved without deciding whether Schiro seeks a new rule or whether a Teague exception would permit it. This exercise of discretion does not establish that every omission permanently forfeits nonretroactivity, or that a reviewing court may never consider the question on its own. The State's legitimate interest in finality does not turn a nonjurisdictional defense into an unavoidable threshold in this procedural posture.
-
-The Court applies Collins v. Youngblood for the nonjurisdictional character of nonretroactivity and the resulting discretion. As to Teague v. Lane, its substantive nonretroactivity rule and contemporary exceptions are left unchanged; they are not applied to dispose of this case.
-
-Considering the intentional-killing aggravator in the initial sentencing phase of this prosecution did not itself place Schiro in jeopardy a second time. Acquittal-like capital determinations remain protected, but the jury's advisory recommendation against death was not a final acquittal of a statutory aggravator or sentence under this scheme.
-
-The holding rests on O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices.
-
-The Court distinguishes a second prosecution from the first determination of punishment. Stroud and DiFrancesco establish that the ordinary sentencing process is not another trial for the offense merely because it considers facts used to determine punishment. Bullington and Rumsey protect an acquittal-like determination that the prosecution has failed to establish entitlement to death; they do not make every step within an initial prosecution a separate jeopardy. Here the jury's sentencing recommendation was advisory. The judge was required to consider it but was not bound by it, and the recommendation disclosed no finding that the intentional-killing aggravator had failed. The Court does not infer such a finding from the recommendation alone. Dixon's retention of Grady continues to protect against a later prosecution where its conditions are met; that trigger is not supplied by this initial sentencing. The separate question whether the guilt verdict necessarily rejected intent remains subject to its own analysis.
-
-The Court applies Stroud v. United States and United States v. DiFrancesco to distinguish initial sentencing from successive prosecution. The Court preserves Bullington v. Missouri and Arizona v. Rumsey for acquittal-like capital determinations; distinguished from this advisory recommendation and initial sentencing. As to United States v. Dixon and Grady v. Corbin, successive-prosecution protection remains in force; this case does not supply its later-prosecution predicate. As to Sochor v. Florida, its distinction between an unparticularized recommendation and an actual aggravator finding remains intact.
-
-Assuming issue preclusion can operate between guilt and sentencing in one prosecution, the claimant must show from the pleadings, evidence, charge and other relevant record that the jury necessarily decided the disputed ultimate fact in his favor. Schiro did not make that showing: the Count II felony-murder conviction and blank alternative forms could rationally reflect selection of one murder verdict without rejecting knowing or intentional killing.
-
-The holding rests on O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices.
-
-Ashe requires a practical examination of what the jury necessarily decided, rather than treating an unused form as a finding by itself. Green protects an implied acquittal when the verdict actually carries that significance; it does not dispense with examining this record. Count I charged knowing killing, whereas the sentencing aggravator required intentional killing during rape. The ten forms included one general not-guilty form and alternative murder dispositions. The court did not expressly demand a separate verdict on each count. Counsel described selection of a single verdict, while Instruction 8's mental-state language supplied another possible understanding of the charge without conclusively establishing how jurors used it. These features permit a rational explanation of the Count II verdict that does not reject intent. Schiro's competing interpretation therefore does not establish the necessary determination required by Ashe and Dowling. This conclusion makes no affirmative finding of intent, decides no independent jury-sentencing claim, and leaves interphase preclusion's general availability unresolved.
-
-The Court applies Ashe v. Swenson to the necessary determination of an ultimate fact on the full record. The Court preserves the implied-acquittal protection of Green v. United States; its result does not control these alternative forms and instructions. The Court applies Dowling v. United States for the claimant's burden to identify an issue actually and necessarily determined; no new evidentiary rule is adopted. The limits in Griffin v. United States and Sochor v. Florida on inferring specific findings from general verdicts and recommendations remain distinct from actual acquittal protection.
-
-No decision is overruled. Dixon retains Grady; Bullington and Rumsey continue to protect acquittal-like capital determinations, and Ashe and Green continue to protect facts necessarily resolved by an actual or implied acquittal.
-
-Effective January 19, 1994, late Teague presentation may be declined in this posture; initial sentencing is not itself a later prosecution; and this record fails to establish necessary rejection of intent. The Court does not decide whether issue preclusion generally operates between guilt and penalty phases, whether the judge correctly found intent on the merits, an independent constitutional jury-factfinding claim, or other unpresented capital claims. No categorical rule that blank verdict forms never constitute acquittals is adopted.
-
-Stevens dissents, joined by Blackmun. They would reverse the denial of habeas relief as to death while preserving the felony-murder conviction. They read the completed guilt verdict as rejecting the knowing-killing accusation and regard intentional killing as incompatible with that rejection. Green's protection of an implied acquittal and Ashe's practical inquiry require the sentencing judge to respect the jury's choice, particularly where mental culpability was contested. They reject treating the prosecutor's description of one verdict as a judicial instruction. Their conclusion depends on the whole guilt-phase record, not on a rule that every blank form or every advisory recommendation against death is an acquittal.
-
-Blackmun also dissents separately to explain the capital-sentencing protection supplied by Bullington. A proceeding requiring proof beyond a reasonable doubt of the fact authorizing death must honor a prior acquittal of that fact. He joins Stevens's reading of the guilt verdict and would forbid use of the intentional-killing aggravator after that determination. His separate ground does not acquit Schiro of felony murder, announce a general prohibition on judicial capital sentencing, or make the advisory recommendation alone dispositive.
-
-**Source Notes:** Record, trial instructions, forms, statutory aggravator and procedural history: [official United States Reports, 510 U.S. 222](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510222/usrep510222.pdf), 224–228, 233–235, and reproduced trial material at 240–246. Count I charged knowing killing; the aggravator required intentional killing during rape. The opinion date supplies the decision calendar. No quotation from an unrecovered transcript or finding about jurors' actual thought processes is asserted.
-
-The judgment denying these habeas grounds stands. There is no Supreme Court remand and no newly retained proceeding. Other claims, if any, receive no disposition here.
-
-**End of entry: Schiro v. Farley, merits decision, January 19, 1994.**
-
----
 
 ### Weiss v. United States, No. 92-1482, including Hernandez under Rule 12.2
 
@@ -156,6 +102,179 @@ Military proceedings, commissions, duties and statutory protections: [official U
 Both military appellate judgments stand. No remand, appointment proceeding, tenure rule or new trial is directed. Neither this decision nor the guilty pleas foreclose distinct claims beyond the institutional objections decided.
 
 **End of entry: Weiss v. United States, merits decision, January 19, 1994.**
+
+---
+
+### Schiro v. Farley, No. 92-7549
+
+Merits decision, January 19, 1994
+
+510 U.S. 222. Argued November 1, 1993. On certiorari to the Seventh Circuit, 963 F.2d 962, affirming denial of federal habeas relief from an Indiana death sentence. The questions concern successive jeopardy and issue preclusion after a jury convicted on felony murder and left alternative forms blank.
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+The Seventh Circuit judgment is affirmed, 7–2. The Court declines the late Teague contention and denies relief on the presented double-jeopardy and issue-preclusion claims.
+
+On both the successive-jeopardy and necessary-determination components, affirmance is supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; Blackmun and Stevens oppose and would grant relief from death on these grounds. No habeas relief, new factual inquiry or resentencing is ordered. The felony-murder conviction and death sentence remain undisturbed by this decision. All nine agree to decline the late nonretroactivity objection and reach the presented claims; that procedural agreement is not a separate merits disposition.
+
+Opinion of the Court by O'Connor, joined in full by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg. Stevens dissents, joined by Blackmun. Blackmun also files a separate dissent, joined by no other Justice. The majority opinion controls every proposition stated below; no Marks inquiry is required.
+
+Teague nonretroactivity is not jurisdictional. When the State omitted that defense in the lower courts and in its opposition to certiorari and first raised it in merits briefing, the Court may decline to consider it; the Court exercises that discretion here and reaches the presented double-jeopardy claims.
+
+The holding rests on O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices. Blackmun and Stevens also agree with merits reach, but their agreement is unnecessary to the opinion's controlling authority.
+
+The Court declines to decide the State's late nonretroactivity defense. Collins v. Youngblood establishes that Teague does not limit subject-matter jurisdiction and need not be raised by the Court on its own. That distinction permits attention to the way a case was presented. Indiana defended the judgment in the lower courts and opposed review without invoking Teague. Its later merits brief does not make consideration of that defense compulsory. The fully presented double-jeopardy questions can therefore be resolved without deciding whether Schiro seeks a new rule or whether a Teague exception would permit it. This exercise of discretion does not establish that every omission permanently forfeits nonretroactivity, or that a reviewing court may never consider the question on its own. The State's legitimate interest in finality does not turn a nonjurisdictional defense into an unavoidable threshold in this procedural posture.
+
+The Court applies Collins v. Youngblood for the nonjurisdictional character of nonretroactivity and the resulting discretion. As to Teague v. Lane, its substantive nonretroactivity rule and contemporary exceptions are left unchanged; they are not applied to dispose of this case.
+
+Considering the intentional-killing aggravator in the initial sentencing phase of this prosecution did not itself place Schiro in jeopardy a second time. Acquittal-like capital determinations remain protected, but the jury's advisory recommendation against death was not a final acquittal of a statutory aggravator or sentence under this scheme.
+
+The holding rests on O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices.
+
+The Court distinguishes a second prosecution from the first determination of punishment. Stroud and DiFrancesco establish that the ordinary sentencing process is not another trial for the offense merely because it considers facts used to determine punishment. Bullington and Rumsey protect an acquittal-like determination that the prosecution has failed to establish entitlement to death; they do not make every step within an initial prosecution a separate jeopardy. Here the jury's sentencing recommendation was advisory. The judge was required to consider it but was not bound by it, and the recommendation disclosed no finding that the intentional-killing aggravator had failed. The Court does not infer such a finding from the recommendation alone. Dixon's retention of Grady continues to protect against a later prosecution where its conditions are met; that trigger is not supplied by this initial sentencing. The separate question whether the guilt verdict necessarily rejected intent remains subject to its own analysis.
+
+The Court applies Stroud v. United States and United States v. DiFrancesco to distinguish initial sentencing from successive prosecution. The Court preserves Bullington v. Missouri and Arizona v. Rumsey for acquittal-like capital determinations; distinguished from this advisory recommendation and initial sentencing. As to United States v. Dixon and Grady v. Corbin, successive-prosecution protection remains in force; this case does not supply its later-prosecution predicate. As to Sochor v. Florida, its distinction between an unparticularized recommendation and an actual aggravator finding remains intact.
+
+Assuming issue preclusion can operate between guilt and sentencing in one prosecution, the claimant must show from the pleadings, evidence, charge and other relevant record that the jury necessarily decided the disputed ultimate fact in his favor. Schiro did not make that showing: the Count II felony-murder conviction and blank alternative forms could rationally reflect selection of one murder verdict without rejecting knowing or intentional killing.
+
+The holding rests on O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices.
+
+Ashe requires a practical examination of what the jury necessarily decided, rather than treating an unused form as a finding by itself. Green protects an implied acquittal when the verdict actually carries that significance; it does not dispense with examining this record. Count I charged knowing killing, whereas the sentencing aggravator required intentional killing during rape. The ten forms included one general not-guilty form and alternative murder dispositions. The court did not expressly demand a separate verdict on each count. Counsel described selection of a single verdict, while Instruction 8's mental-state language supplied another possible understanding of the charge without conclusively establishing how jurors used it. These features permit a rational explanation of the Count II verdict that does not reject intent. Schiro's competing interpretation therefore does not establish the necessary determination required by Ashe and Dowling. This conclusion makes no affirmative finding of intent, decides no independent jury-sentencing claim, and leaves interphase preclusion's general availability unresolved.
+
+The Court applies Ashe v. Swenson to the necessary determination of an ultimate fact on the full record. The Court preserves the implied-acquittal protection of Green v. United States; its result does not control these alternative forms and instructions. The Court applies Dowling v. United States for the claimant's burden to identify an issue actually and necessarily determined; no new evidentiary rule is adopted. The limits in Griffin v. United States and Sochor v. Florida on inferring specific findings from general verdicts and recommendations remain distinct from actual acquittal protection.
+
+No decision is overruled. Dixon retains Grady; Bullington and Rumsey continue to protect acquittal-like capital determinations, and Ashe and Green continue to protect facts necessarily resolved by an actual or implied acquittal.
+
+Effective January 19, 1994, late Teague presentation may be declined in this posture; initial sentencing is not itself a later prosecution; and this record fails to establish necessary rejection of intent. The Court does not decide whether issue preclusion generally operates between guilt and penalty phases, whether the judge correctly found intent on the merits, an independent constitutional jury-factfinding claim, or other unpresented capital claims. No categorical rule that blank verdict forms never constitute acquittals is adopted.
+
+Stevens dissents, joined by Blackmun. They would reverse the denial of habeas relief as to death while preserving the felony-murder conviction. They read the completed guilt verdict as rejecting the knowing-killing accusation and regard intentional killing as incompatible with that rejection. Green's protection of an implied acquittal and Ashe's practical inquiry require the sentencing judge to respect the jury's choice, particularly where mental culpability was contested. They reject treating the prosecutor's description of one verdict as a judicial instruction. Their conclusion depends on the whole guilt-phase record, not on a rule that every blank form or every advisory recommendation against death is an acquittal.
+
+Blackmun also dissents separately to explain the capital-sentencing protection supplied by Bullington. A proceeding requiring proof beyond a reasonable doubt of the fact authorizing death must honor a prior acquittal of that fact. He joins Stevens's reading of the guilt verdict and would forbid use of the intentional-killing aggravator after that determination. His separate ground does not acquit Schiro of felony murder, announce a general prohibition on judicial capital sentencing, or make the advisory recommendation alone dispositive.
+
+**Source Notes:** Record, trial instructions, forms, statutory aggravator and procedural history: [official United States Reports, 510 U.S. 222](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510222/usrep510222.pdf), 224–228, 233–235, and reproduced trial material at 240–246. Count I charged knowing killing; the aggravator required intentional killing during rape. The opinion date supplies the decision calendar. No quotation from an unrecovered transcript or finding about jurors' actual thought processes is asserted.
+
+The judgment denying these habeas grounds stands. There is no Supreme Court remand and no newly retained proceeding. Other claims, if any, receive no disposition here.
+
+**End of entry: Schiro v. Farley, merits decision, January 19, 1994.**
+
+---
+
+### Albright v. Oliver, No. 92-833
+
+Merits decision, January 24, 1994
+
+#### Chronology and Posture
+
+510 U.S. 266. Argued October 12, 1993. On certiorari to the Seventh Circuit, 975 F.2d 343, affirming Rule 12(b)(6) dismissal of a §1983 action. The question is whether Albright's asserted freedom from prosecution without probable cause is enforceable as substantive due process on the claim presented. Albright surrendered on a warrant, posted bond and needed permission to leave Illinois. After a preliminary hearing bound him over, the charge was dismissed because it stated no offense under Illinois law. Alleged deliberate misuse and informant unreliability are allegations, not findings.
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+#### Judgment
+
+The Seventh Circuit judgment is affirmed, 7–2. The presented substantive-due-process claim remains dismissed.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Presented substantive-due-process claim | Affirm dismissal, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Blackmun, Stevens | No damages or merits remand; dissent would reverse and remand the substantive claim for further proceedings without finding liability |
+
+The state malicious-prosecution count's dismissal without prejudice is not disturbed. No Fourth Amendment claim is reinstated, and no authorization to relitigate a different claim is given.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Plurality | O'Connor | Stone-Zsela, Scalia, Ginsburg | Affirmance | Entire bounded specific-source analysis |
+| Concurrence | Scalia | No other Justice | Affirmance and full plurality join | Additional source-identification explanation |
+| Concurrence | Ginsburg | No other Justice | Affirmance and full plurality join | Continuing-pretrial-restraint reservation |
+| Concurrence in the judgment | Kennedy | Thomas | Affirmance only | Distinct prosecution/due-process analysis and conditional state-remedy ground |
+| Concurrence in the judgment | Souter | No other Justice | Affirmance only | No additional substantial injury alleged; otherwise unprotected claims reserved |
+| Dissent | Stevens | Blackmun | Reverse and remand | Bounded deliberate-arbitrary-prosecution claim and preserved defenses |
+
+No opinion supplies a controlling rationale.
+
+#### Controlling Propositions and Authority
+
+##### Presented substantive-due-process claim
+
+**Judgment without controlling rationale:** Dismissal of Albright's presented substantive-due-process claim is affirmed, 7–2. O'Connor's specific-source plurality has four votes: O'Connor, Stone-Zsela, Scalia and Ginsburg. Kennedy and Thomas adopt a distinct prosecution/due-process analysis; Souter adopts a distinct absence-of-additional-substantial-injury ground. The judgment binds the parties, but neither a general Fourth Amendment displacement rule nor a general state-remedy bar becomes law.
+
+**Explanation of authority and limits:** The Court affirms the dismissal, but no opinion supplies five votes for a sufficient legal explanation. The plurality applies Graham's specific-source approach to the alleged seizure-related liberty burdens while preserving Soldal and James Daniel Good's independent protections. Kennedy and Thomas distinguish arrest from prosecution and consider the nature of the asserted due-process interest, including the conditional significance of Illinois's remedy for unauthorized malicious prosecution. Souter asks whether the complaint supplies a substantial deprivation outside the protection ordinarily afforded by the Fourth Amendment. These inquiries are not interchangeable. A claim involving an additional substantial injury, a properly presented procedural defect, or an established substantive right could divide those approaches differently. Marks does not permit adding their votes to announce the plurality's rule, the state-remedy rationale, or a new synthesized test. The Court does not adopt the Seventh Circuit's requirement of incarceration, employment loss or another palpable consequence. Nor does it decide the abandoned Fourth Amendment theory, its accrual, immunity, municipal attribution or a general fabrication claim.
+
+**Precedent treatment:** Marks v. United States supplies the governing fractured-decision inquiry; no rationale here is established as a controlling logical subset. Graham, Collins, Soldal, James Daniel Good, Williams, Medina, Costello, Gerstein, Paul, Parratt and Hudson retain their existing force; the uses of those decisions in the separate rationales do not establish a new majority construction.
+
+#### Precedent Treatment and Current-Law Effect
+
+No majority adopts a new construction of the cited constitutional or remedial precedents. Graham's specific-source rule and Soldal and James Daniel Good's independent-protections rules retain their existing scope. Williams's confined federal supervisory duty and dismissal authority remain distinct from this state constitutional damages claim. Medina supplies no exclusive criminal due-process methodology. Parratt and Hudson remain limited procedural-adequacy authorities, not a general exhaustion requirement or defense to an established substantive violation.
+
+The judgment disposes of this substantive-due-process claim without producing a controlling general test for constitutional malicious prosecution. The plurality, Kennedy/Thomas opinion and Souter opinion remain distinct noncontrolling rationales. The Court leaves the abandoned Fourth Amendment claim, procedural-due-process and interstate-travel questions, accrual, immunity, municipal liability and deliberate-fabrication boundaries undecided.
+
+#### Separate Positions Relevant to the Decision
+
+O'Connor's plurality, joined by Stone-Zsela, Scalia and Ginsburg, applies Graham's specific-source approach and Collins's requirement of an identified constitutional wrong. The arrest and pretrial restraints belong under the appropriate specific protection; they do not establish the asserted freestanding substantive guarantee. The plurality rejects the lower court's palpable-consequence requirement and preserves independently applicable guarantees under Soldal and James Daniel Good. Gerstein distinguishes restraint from the decision to prosecute. Williams's federal supervisory protection does not establish the state constitutional tort, but prevents a categorical denial of all judicial scrutiny of charging misconduct.
+
+Scalia concurs separately and joins the plurality. He emphasizes the need to identify a constitutional guarantee rather than convert common-law malicious prosecution into a new substantive right. Graham supplies the specific-source approach; his additional reasoning does not displace existing independent protections or decide a procedural claim not presented.
+
+Ginsburg concurs separately and joins the plurality. Release on bond need not end all constitutional restraint: required court appearances and travel permission can continue governmental control. That reservation explains why the Fourth Amendment remains a meaningful source; it does not decide the abandoned claim, accrual, preliminary-hearing liability or immunity.
+
+Kennedy concurs in the judgment with Thomas. They distinguish an arrest claim governed by Graham from initiation of prosecution and find no independent substantive guarantee of the kind asserted here. Gerstein and Costello preserve the distinction between restraint and lawful charging procedures; Williams's actual federal supervisory protection remains separate. Alternatively, assuming an ordinary due-process interest against unauthorized malicious prosecution, Illinois's adequate tort remedy answers the random-unauthorized-deprivation concern under Parratt and Hudson. This is neither exhaustion nor a rule curing an established substantive or Fourth Amendment violation. They leave a materially different absence of adequate redress open and do not join the plurality.
+
+Souter concurs only in the judgment. Soldal and James Daniel Good preserve overlapping constitutional protection, but Collins counsels restraint where no additional substantial deprivation has been alleged. He finds no substantial injury here attributable to mere prosecution outside the protection ordinarily afforded for the ensuing seizure. He does not treat the harms as trivial, decide the Fourth Amendment claim or rule out an otherwise unprotected substantial injury in another case.
+
+Stevens dissents with Blackmun. They would allow development of the asserted deliberate, arbitrary prosecution claim. Hurtado protects substance beyond procedural form; Winship and Mooney show why meaningful proof and freedom from deliberate deception matter. Collins's workplace omission differs from affirmative abuse, and Soldal and James Daniel Good preserve independent rights. Williams reinforces scrutiny of deliberate distortion without itself supplying a state damages cause. They reject the view that a potential Fourth Amendment remedy eliminates an independently protected injury, and regard Parratt as insufficient to defeat an established substantive violation; Zinermon also limits treating delegated official conduct as necessarily random and unauthorized. Their proposed reversal would leave causation, culpability, immunity and municipal attribution unresolved.
+
+#### Source Notes
+
+The [United States Reports account, 510 U.S. 266](https://www.loc.gov/item/usrep510266/), supports the argument date, lower-court posture, allegations and abandonment of the Fourth Amendment theory. The original briefs and complete trial record were not independently available; the question is stated in substance and no verbatim grant language or new factual finding is supplied. The complaint's allegations are accepted for pleading review only. No quoted decisional language is used.
+
+#### Mandate, Remedy, and Stage
+
+Supreme Court merits review is complete. The Seventh Circuit's dismissal stands; the Court orders no new trial, damages award or merits remand. Any different claim remains subject to ordinary procedural rules. The state-law count's prior dismissal without prejudice remains unchanged.
+
+**End of entry: Albright v. Oliver, merits decision, January 24, 1994.**
+
+---
+
+### National Organization for Women, Inc. v. Scheidler, No. 92-780
+
+Merits decision, January 24, 1994
+
+510 U.S. 249. Argued December 8, 1993. On certiorari to the Seventh Circuit, 968 F.2d 612, affirming Rule 12(b)(6) dismissal. The questions concern the two clinic plaintiffs' standing and whether RICO requires an economic motive in the §1962(c) enterprise or predicate acts, with the dependent §1962(d) dismissal also at issue. Delaware Women's Health Organization and Summit Women's Health Organization allege that PLAN and associated activists used threats and force to drive away staff and patients and injure their business and property. Only those clinics asserted RICO claims; NOW did not, and no class was certified.
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+The Seventh Circuit's judgment is reversed, 9–0, as to the economic-motive dismissal of §1962(c) and the dependent §1962(d) dismissal. The clinics' injury allegations suffice for standing at this pleading stage.
+
+Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg all support the clinics' pleading-stage standing and reversal of both reviewed RICO dismissals. The affected claims return for further proceedings without an economic-motive requirement. The Court enters no finding of liability, predicate offense, pattern, obtained property, enterprise direction or final causation; no treble damages, costs, fees or injunction is awarded. The antitrust and §1962(a) income rulings are not revived by this decision.
+
+Blackmun writes for the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Souter concurs separately, joined by Kennedy; both join every part of the Court's opinion. Both controlling holdings command all nine votes; no Marks inquiry is needed.
+
+Delaware Women's Health Organization and Summit Women's Health Organization have standing at the Rule 12(b)(6) stage on allegations that respondents' threatened and actual force against staff and patients caused injury to the clinics' own business or property. Under the governing pleading standard, the allegations suffice where relief could be granted on facts consistent with them; this neither supplies standing to NOW on an unasserted RICO count nor establishes liability, a certified class or final proof of causation.
+
+The holding rests on Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine Justices adopt this threshold ruling.
+
+The Court assesses the two clinics' own alleged injuries. Simon requires named plaintiffs to establish their own standing even when they seek class treatment; no class was certified here, and NOW did not assert the RICO counts. Allen requires injury fairly traceable to the challenged conduct. The clinics allege that force and threats drove away staff and patients and harmed their businesses, including a threat of reprisals against one clinic's administrator. Those allegations connect the asserted injury to respondents' conduct. Hishon requires sustaining a complaint when relief could follow from facts proved consistently with its allegations. Respondents' demand for more at this stage would treat an untried pleading as a completed evidentiary record. Holmes's factual and proximate-cause requirements remain operative; today's threshold ruling does not find a pattern, an extortionate obtaining of property or the direction of an enterprise. It permits the two clinics to proceed on their own claimed injury while leaving proof and each defendant's responsibility for further proceedings.
+
+The Court applies Simon v. Eastern Kentucky Welfare Rights Organization; named plaintiffs need their own standing despite requested class treatment. The Court applies Allen v. Wright; the allegations identify injury traceable to the challenged conduct. The Court applies Hishon v. King & Spalding at Rule 12(b)(6); later proof is not demanded to sustain consistent allegations. The Court preserves Holmes v. Securities Investor Protection Corp.; actual and proximate causation, including contextual directness, remain independent requirements.
+
+Section 1962(c) requires no economic or profit-seeking motive in either the enterprise or its predicate racketeering acts; a noneconomic purpose does not exclude conduct satisfying the statute's enacted elements. The dismissal of the clinics' §1962(c) claim and the dependent §1962(d) conspiracy claim therefore cannot stand on the omitted motive requirement, while enterprise, commerce, direction, predicate offenses, pattern, causation, individual responsibility and applicable constitutional limits remain to be established.
+
+The holding rests on Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine Justices adopt the same statutory construction and its limited remedial consequence.
+
+The Court begins with the enacted definitions and prohibition. Section 1961(4) includes associations in fact, and §1962(c) covers an enterprise whose activities affect interstate commerce. Harming a business can affect commerce without enriching the actor. Turkette gives the enterprise definition its enacted breadth; Sedima rejects restrictions supplied merely because an application goes beyond Congress's immediate concerns. The different acquisition and investment roles of enterprises in neighboring subsections do not impose a commercial-purpose requirement on subsection (c)'s vehicle for racketeering. An antiracketeering purpose cannot add words that Congress omitted, and breadth alone creates no ambiguity calling for lenity. This removes the ground supporting both reviewed dismissals. It does not decide whether respondents obtained property under the Hobbs Act, committed any predicate or pattern, or directed enterprise affairs as Reves requires. Holmes's causal limits likewise survive. The concern that litigation may chill lawful protest remains serious, but the Court leaves particular First Amendment defenses and lawful remedial limits open rather than adding an economic-motive element.
+
+The Court applies United States v. Turkette to the breadth of the enterprise definition and the absence of an ambiguity supporting an invented motive limitation. The Court applies Sedima, S.P.R.L. v. Imrex Co.; statutory breadth does not justify extra-textual restrictions or itself invoke lenity. The Court preserves Reves v. Ernst & Young; some role in directing the enterprise itself is required, rather than merely rendering services or conducting one's own affairs. Primary responsibility or formal executive status is unnecessary; an associated outsider who directs enterprise affairs and lower participants operating under upper management can qualify, while the exact lower-rung boundary remains open. The Court preserves Holmes v. Securities Investor Protection Corp.; no motive ruling relaxes factual/proximate causation or contextual directness. The Court distinguishes Bray v. Alexandria Women's Health Clinic; its §1985(3) requirements do not supply a RICO immunity or an economic-motive element. As to NAACP v. Claiborne Hardware Co., its protection of lawful advocacy and limits on association-based liability remain available; no particular First Amendment defense is adjudicated here.
+
+Turkette and Sedima govern construction of the enacted RICO elements. Holmes and Reves continue to require, respectively, factual/proximate causation with contextual directness and some role in directing enterprise affairs. Primary responsibility or executive status is unnecessary under Reves, but its exact lowest operational boundary remains open. Bray's separate statutory requirements supply no RICO exemption. Claiborne Hardware continues to protect lawful advocacy and association; political agreement or membership alone does not establish responsibility for others' unlawful acts.
+
+RICO's §1962(c) has no economic-motive requirement for the enterprise or predicate acts. This construction removes the asserted motive bar without establishing any other element or remedy. Obstruction, coercion and extortion remain distinct: the Hobbs Act's obtaining requirement, along with its other conditions, must be addressed where that predicate is asserted. Sections 1962(a), (c) and (d) remain distinct, and the Court does not decide §1962(a) income, antitrust liability, actual First Amendment defenses, class certification or private RICO injunctive authority.
+
+Souter concurs with Kennedy, and both join the Court's entire opinion. Noerr's constitutional-avoidance principle does not authorize insertion of a motive element into this text. They also explain why such a condition would poorly protect speech: it could shield ideologically motivated violence while exposing lawful advocacy by groups that raise money. Claiborne Hardware instead requires careful attention to actual conduct and responsibility, and permits a defendant to show that an alleged predicate is protected expression. Even after a violation is proved, a remedy can burden protected association, as NAACP v. Alabama illustrates. Particular First Amendment defenses and limits remain available; the concurrence finds none established or foreclosed here, creates no political-purpose exemption or new pleading test, and authorizes no injunction.
+
+**Source Notes:** The [United States Reports account, 510 U.S. 249](https://www.loc.gov/item/usrep510249/), supports the dates, allegations, lower-court rulings and identification of the two RICO plaintiffs. Complete original briefs and the full trial record were not independently available. The question is stated in substance, not as verbatim grant language. The Court's ruling uses the pleading standard applicable to this case; it announces no factual finding that property was obtained or that any predicate offense occurred.
+
+The case returns for further proceedings on the two clinics' affected §1962(c) and dependent §1962(d) claims under the stated construction. The lower courts must address the remaining statutory elements, each defendant's responsibility, any properly presented First Amendment defense and the lawful basis of each requested remedy. Allegations remain unproved. The Court fixes no next hearing date and retains no separate proceeding.
+
+**End of entry: National Organization for Women, Inc. v. Scheidler, merits decision, January 24, 1994.**
 
 ---
 
@@ -245,81 +364,6 @@ The Tenth Circuit enforcement judgment stands, and the Board may enforce reinsta
 
 ---
 
-### Albright v. Oliver, No. 92-833
-
-Merits decision, January 24, 1994
-
-#### Chronology and Posture
-
-510 U.S. 266. Argued October 12, 1993. On certiorari to the Seventh Circuit, 975 F.2d 343, affirming Rule 12(b)(6) dismissal of a §1983 action. The question is whether Albright's asserted freedom from prosecution without probable cause is enforceable as substantive due process on the claim presented. Albright surrendered on a warrant, posted bond and needed permission to leave Illinois. After a preliminary hearing bound him over, the charge was dismissed because it stated no offense under Illinois law. Alleged deliberate misuse and informant unreliability are allegations, not findings.
-
-All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
-
-#### Judgment
-
-The Seventh Circuit judgment is affirmed, 7–2. The presented substantive-due-process claim remains dismissed.
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Presented substantive-due-process claim | Affirm dismissal, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Blackmun, Stevens | No damages or merits remand; dissent would reverse and remand the substantive claim for further proceedings without finding liability |
-
-The state malicious-prosecution count's dismissal without prejudice is not disturbed. No Fourth Amendment claim is reinstated, and no authorization to relitigate a different claim is given.
-
-#### Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Plurality | O'Connor | Stone-Zsela, Scalia, Ginsburg | Affirmance | Entire bounded specific-source analysis |
-| Concurrence | Scalia | No other Justice | Affirmance and full plurality join | Additional source-identification explanation |
-| Concurrence | Ginsburg | No other Justice | Affirmance and full plurality join | Continuing-pretrial-restraint reservation |
-| Concurrence in the judgment | Kennedy | Thomas | Affirmance only | Distinct prosecution/due-process analysis and conditional state-remedy ground |
-| Concurrence in the judgment | Souter | No other Justice | Affirmance only | No additional substantial injury alleged; otherwise unprotected claims reserved |
-| Dissent | Stevens | Blackmun | Reverse and remand | Bounded deliberate-arbitrary-prosecution claim and preserved defenses |
-
-No opinion supplies a controlling rationale.
-
-#### Controlling Propositions and Authority
-
-##### Presented substantive-due-process claim
-
-**Judgment without controlling rationale:** Dismissal of Albright's presented substantive-due-process claim is affirmed, 7–2. O'Connor's specific-source plurality has four votes: O'Connor, Stone-Zsela, Scalia and Ginsburg. Kennedy and Thomas adopt a distinct prosecution/due-process analysis; Souter adopts a distinct absence-of-additional-substantial-injury ground. The judgment binds the parties, but neither a general Fourth Amendment displacement rule nor a general state-remedy bar becomes law.
-
-**Explanation of authority and limits:** The Court affirms the dismissal, but no opinion supplies five votes for a sufficient legal explanation. The plurality applies Graham's specific-source approach to the alleged seizure-related liberty burdens while preserving Soldal and James Daniel Good's independent protections. Kennedy and Thomas distinguish arrest from prosecution and consider the nature of the asserted due-process interest, including the conditional significance of Illinois's remedy for unauthorized malicious prosecution. Souter asks whether the complaint supplies a substantial deprivation outside the protection ordinarily afforded by the Fourth Amendment. These inquiries are not interchangeable. A claim involving an additional substantial injury, a properly presented procedural defect, or an established substantive right could divide those approaches differently. Marks does not permit adding their votes to announce the plurality's rule, the state-remedy rationale, or a new synthesized test. The Court does not adopt the Seventh Circuit's requirement of incarceration, employment loss or another palpable consequence. Nor does it decide the abandoned Fourth Amendment theory, its accrual, immunity, municipal attribution or a general fabrication claim.
-
-**Precedent treatment:** Marks v. United States supplies the governing fractured-decision inquiry; no rationale here is established as a controlling logical subset. Graham, Collins, Soldal, James Daniel Good, Williams, Medina, Costello, Gerstein, Paul, Parratt and Hudson retain their existing force; the uses of those decisions in the separate rationales do not establish a new majority construction.
-
-#### Precedent Treatment and Current-Law Effect
-
-No majority adopts a new construction of the cited constitutional or remedial precedents. Graham's specific-source rule and Soldal and James Daniel Good's independent-protections rules retain their existing scope. Williams's confined federal supervisory duty and dismissal authority remain distinct from this state constitutional damages claim. Medina supplies no exclusive criminal due-process methodology. Parratt and Hudson remain limited procedural-adequacy authorities, not a general exhaustion requirement or defense to an established substantive violation.
-
-The judgment disposes of this substantive-due-process claim without producing a controlling general test for constitutional malicious prosecution. The plurality, Kennedy/Thomas opinion and Souter opinion remain distinct noncontrolling rationales. The Court leaves the abandoned Fourth Amendment claim, procedural-due-process and interstate-travel questions, accrual, immunity, municipal liability and deliberate-fabrication boundaries undecided.
-
-#### Separate Positions Relevant to the Decision
-
-O'Connor's plurality, joined by Stone-Zsela, Scalia and Ginsburg, applies Graham's specific-source approach and Collins's requirement of an identified constitutional wrong. The arrest and pretrial restraints belong under the appropriate specific protection; they do not establish the asserted freestanding substantive guarantee. The plurality rejects the lower court's palpable-consequence requirement and preserves independently applicable guarantees under Soldal and James Daniel Good. Gerstein distinguishes restraint from the decision to prosecute. Williams's federal supervisory protection does not establish the state constitutional tort, but prevents a categorical denial of all judicial scrutiny of charging misconduct.
-
-Scalia concurs separately and joins the plurality. He emphasizes the need to identify a constitutional guarantee rather than convert common-law malicious prosecution into a new substantive right. Graham supplies the specific-source approach; his additional reasoning does not displace existing independent protections or decide a procedural claim not presented.
-
-Ginsburg concurs separately and joins the plurality. Release on bond need not end all constitutional restraint: required court appearances and travel permission can continue governmental control. That reservation explains why the Fourth Amendment remains a meaningful source; it does not decide the abandoned claim, accrual, preliminary-hearing liability or immunity.
-
-Kennedy concurs in the judgment with Thomas. They distinguish an arrest claim governed by Graham from initiation of prosecution and find no independent substantive guarantee of the kind asserted here. Gerstein and Costello preserve the distinction between restraint and lawful charging procedures; Williams's actual federal supervisory protection remains separate. Alternatively, assuming an ordinary due-process interest against unauthorized malicious prosecution, Illinois's adequate tort remedy answers the random-unauthorized-deprivation concern under Parratt and Hudson. This is neither exhaustion nor a rule curing an established substantive or Fourth Amendment violation. They leave a materially different absence of adequate redress open and do not join the plurality.
-
-Souter concurs only in the judgment. Soldal and James Daniel Good preserve overlapping constitutional protection, but Collins counsels restraint where no additional substantial deprivation has been alleged. He finds no substantial injury here attributable to mere prosecution outside the protection ordinarily afforded for the ensuing seizure. He does not treat the harms as trivial, decide the Fourth Amendment claim or rule out an otherwise unprotected substantial injury in another case.
-
-Stevens dissents with Blackmun. They would allow development of the asserted deliberate, arbitrary prosecution claim. Hurtado protects substance beyond procedural form; Winship and Mooney show why meaningful proof and freedom from deliberate deception matter. Collins's workplace omission differs from affirmative abuse, and Soldal and James Daniel Good preserve independent rights. Williams reinforces scrutiny of deliberate distortion without itself supplying a state damages cause. They reject the view that a potential Fourth Amendment remedy eliminates an independently protected injury, and regard Parratt as insufficient to defeat an established substantive violation; Zinermon also limits treating delegated official conduct as necessarily random and unauthorized. Their proposed reversal would leave causation, culpability, immunity and municipal attribution unresolved.
-
-#### Source Notes
-
-The [United States Reports account, 510 U.S. 266](https://www.loc.gov/item/usrep510266/), supports the argument date, lower-court posture, allegations and abandonment of the Fourth Amendment theory. The original briefs and complete trial record were not independently available; the question is stated in substance and no verbatim grant language or new factual finding is supplied. The complaint's allegations are accepted for pleading review only. No quoted decisional language is used.
-
-#### Mandate, Remedy, and Stage
-
-Supreme Court merits review is complete. The Seventh Circuit's dismissal stands; the Court orders no new trial, damages award or merits remand. Any different claim remains subject to ordinary procedural rules. The state-law count's prior dismissal without prejudice remains unchanged.
-
-**End of entry: Albright v. Oliver, merits decision, January 24, 1994.**
-
----
-
 ### Department of Revenue of Oregon v. ACF Industries, Inc., No. 92-74
 
 Merits decision, January 24, 1994
@@ -363,50 +407,6 @@ Stevens also rejects the total-exemption remedy. If discrimination is shown, rel
 The case returns to the lower courts for proceedings consistent with the Court's construction. The Ninth Circuit's total-exemption requirement is removed. The Court directs no new tax amount and does not reopen an unasserted assessment or rate claim. Any independently preserved claim remains governed by its ordinary procedural posture; the targeted-tax reservation creates no new finding or entitlement to relief.
 
 **End of entry: Department of Revenue of Oregon v. ACF Industries, Inc., merits decision, January 24, 1994.**
-
----
-
-### National Organization for Women, Inc. v. Scheidler, No. 92-780
-
-Merits decision, January 24, 1994
-
-510 U.S. 249. Argued December 8, 1993. On certiorari to the Seventh Circuit, 968 F.2d 612, affirming Rule 12(b)(6) dismissal. The questions concern the two clinic plaintiffs' standing and whether RICO requires an economic motive in the §1962(c) enterprise or predicate acts, with the dependent §1962(d) dismissal also at issue. Delaware Women's Health Organization and Summit Women's Health Organization allege that PLAN and associated activists used threats and force to drive away staff and patients and injure their business and property. Only those clinics asserted RICO claims; NOW did not, and no class was certified.
-
-All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
-
-The Seventh Circuit's judgment is reversed, 9–0, as to the economic-motive dismissal of §1962(c) and the dependent §1962(d) dismissal. The clinics' injury allegations suffice for standing at this pleading stage.
-
-Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg all support the clinics' pleading-stage standing and reversal of both reviewed RICO dismissals. The affected claims return for further proceedings without an economic-motive requirement. The Court enters no finding of liability, predicate offense, pattern, obtained property, enterprise direction or final causation; no treble damages, costs, fees or injunction is awarded. The antitrust and §1962(a) income rulings are not revived by this decision.
-
-Blackmun writes for the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Souter concurs separately, joined by Kennedy; both join every part of the Court's opinion. Both controlling holdings command all nine votes; no Marks inquiry is needed.
-
-Delaware Women's Health Organization and Summit Women's Health Organization have standing at the Rule 12(b)(6) stage on allegations that respondents' threatened and actual force against staff and patients caused injury to the clinics' own business or property. Under the governing pleading standard, the allegations suffice where relief could be granted on facts consistent with them; this neither supplies standing to NOW on an unasserted RICO count nor establishes liability, a certified class or final proof of causation.
-
-The holding rests on Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine Justices adopt this threshold ruling.
-
-The Court assesses the two clinics' own alleged injuries. Simon requires named plaintiffs to establish their own standing even when they seek class treatment; no class was certified here, and NOW did not assert the RICO counts. Allen requires injury fairly traceable to the challenged conduct. The clinics allege that force and threats drove away staff and patients and harmed their businesses, including a threat of reprisals against one clinic's administrator. Those allegations connect the asserted injury to respondents' conduct. Hishon requires sustaining a complaint when relief could follow from facts proved consistently with its allegations. Respondents' demand for more at this stage would treat an untried pleading as a completed evidentiary record. Holmes's factual and proximate-cause requirements remain operative; today's threshold ruling does not find a pattern, an extortionate obtaining of property or the direction of an enterprise. It permits the two clinics to proceed on their own claimed injury while leaving proof and each defendant's responsibility for further proceedings.
-
-The Court applies Simon v. Eastern Kentucky Welfare Rights Organization; named plaintiffs need their own standing despite requested class treatment. The Court applies Allen v. Wright; the allegations identify injury traceable to the challenged conduct. The Court applies Hishon v. King & Spalding at Rule 12(b)(6); later proof is not demanded to sustain consistent allegations. The Court preserves Holmes v. Securities Investor Protection Corp.; actual and proximate causation, including contextual directness, remain independent requirements.
-
-Section 1962(c) requires no economic or profit-seeking motive in either the enterprise or its predicate racketeering acts; a noneconomic purpose does not exclude conduct satisfying the statute's enacted elements. The dismissal of the clinics' §1962(c) claim and the dependent §1962(d) conspiracy claim therefore cannot stand on the omitted motive requirement, while enterprise, commerce, direction, predicate offenses, pattern, causation, individual responsibility and applicable constitutional limits remain to be established.
-
-The holding rests on Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine Justices adopt the same statutory construction and its limited remedial consequence.
-
-The Court begins with the enacted definitions and prohibition. Section 1961(4) includes associations in fact, and §1962(c) covers an enterprise whose activities affect interstate commerce. Harming a business can affect commerce without enriching the actor. Turkette gives the enterprise definition its enacted breadth; Sedima rejects restrictions supplied merely because an application goes beyond Congress's immediate concerns. The different acquisition and investment roles of enterprises in neighboring subsections do not impose a commercial-purpose requirement on subsection (c)'s vehicle for racketeering. An antiracketeering purpose cannot add words that Congress omitted, and breadth alone creates no ambiguity calling for lenity. This removes the ground supporting both reviewed dismissals. It does not decide whether respondents obtained property under the Hobbs Act, committed any predicate or pattern, or directed enterprise affairs as Reves requires. Holmes's causal limits likewise survive. The concern that litigation may chill lawful protest remains serious, but the Court leaves particular First Amendment defenses and lawful remedial limits open rather than adding an economic-motive element.
-
-The Court applies United States v. Turkette to the breadth of the enterprise definition and the absence of an ambiguity supporting an invented motive limitation. The Court applies Sedima, S.P.R.L. v. Imrex Co.; statutory breadth does not justify extra-textual restrictions or itself invoke lenity. The Court preserves Reves v. Ernst & Young; some role in directing the enterprise itself is required, rather than merely rendering services or conducting one's own affairs. Primary responsibility or formal executive status is unnecessary; an associated outsider who directs enterprise affairs and lower participants operating under upper management can qualify, while the exact lower-rung boundary remains open. The Court preserves Holmes v. Securities Investor Protection Corp.; no motive ruling relaxes factual/proximate causation or contextual directness. The Court distinguishes Bray v. Alexandria Women's Health Clinic; its §1985(3) requirements do not supply a RICO immunity or an economic-motive element. As to NAACP v. Claiborne Hardware Co., its protection of lawful advocacy and limits on association-based liability remain available; no particular First Amendment defense is adjudicated here.
-
-Turkette and Sedima govern construction of the enacted RICO elements. Holmes and Reves continue to require, respectively, factual/proximate causation with contextual directness and some role in directing enterprise affairs. Primary responsibility or executive status is unnecessary under Reves, but its exact lowest operational boundary remains open. Bray's separate statutory requirements supply no RICO exemption. Claiborne Hardware continues to protect lawful advocacy and association; political agreement or membership alone does not establish responsibility for others' unlawful acts.
-
-RICO's §1962(c) has no economic-motive requirement for the enterprise or predicate acts. This construction removes the asserted motive bar without establishing any other element or remedy. Obstruction, coercion and extortion remain distinct: the Hobbs Act's obtaining requirement, along with its other conditions, must be addressed where that predicate is asserted. Sections 1962(a), (c) and (d) remain distinct, and the Court does not decide §1962(a) income, antitrust liability, actual First Amendment defenses, class certification or private RICO injunctive authority.
-
-Souter concurs with Kennedy, and both join the Court's entire opinion. Noerr's constitutional-avoidance principle does not authorize insertion of a motive element into this text. They also explain why such a condition would poorly protect speech: it could shield ideologically motivated violence while exposing lawful advocacy by groups that raise money. Claiborne Hardware instead requires careful attention to actual conduct and responsibility, and permits a defendant to show that an alleged predicate is protected expression. Even after a violation is proved, a remedy can burden protected association, as NAACP v. Alabama illustrates. Particular First Amendment defenses and limits remain available; the concurrence finds none established or foreclosed here, creates no political-purpose exemption or new pleading test, and authorizes no injunction.
-
-**Source Notes:** The [United States Reports account, 510 U.S. 249](https://www.loc.gov/item/usrep510249/), supports the dates, allegations, lower-court rulings and identification of the two RICO plaintiffs. Complete original briefs and the full trial record were not independently available. The question is stated in substance, not as verbatim grant language. The Court's ruling uses the pleading standard applicable to this case; it announces no factual finding that property was obtained or that any predicate offense occurred.
-
-The case returns for further proceedings on the two clinics' affected §1962(c) and dependent §1962(d) claims under the stated construction. The lower courts must address the remaining statutory elements, each defendant's responsibility, any properly presented First Amendment defense and the lawful basis of each requested remedy. Allegations remain unproved. The Court fixes no next hearing date and retains no separate proceeding.
-
-**End of entry: National Organization for Women, Inc. v. Scheidler, merits decision, January 24, 1994.**
 
 ---
 
@@ -544,108 +544,200 @@ The Sixth Circuit's judgment is affirmed. The District Court's unappealed parkin
 
 ---
 
-### Caspari v. Bohlen, No. 92-1500
+### Hagen v. Utah, No. 92-6281
 
 Merits decision, February 23, 1994
 
 #### Chronology and Posture
 
-510 U.S. 383. Argued December 6, 1993. Certiorari to the Eighth Circuit, 979 F.2d 109, which reversed the denial of habeas relief and directed a conditional writ. The stated question concerned double jeopardy in repeated noncapital sentencing; Teague was argued in the petition and consistently asserted in the litigation. The Court determines whether that defense is fairly included and bars this writ.
+510 U.S. 399. Argued November 2, 1993. On certiorari to the Supreme Court of Utah, 858 P.2d 925, which reinstated Hagen's conviction for distribution of a controlled substance in Myton. The intermediate appellate court had vacated the conviction because it regarded Myton as Indian country. Hagen's status as an Indian is settled for this review. The question is whether Congress diminished the Uintah Reservation through the enactments opening its unallotted lands, thereby permitting the territorial criminal jurisdiction asserted in this prosecution. Myton is within the original reservation boundaries and in the opened area.
 
-All nine participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+The May 27, 1902 Act, 32 Stat. 263–264, conditioned allotment on consent of a majority of the adult male Uintah and White River Ute Indians. It provided eighty acres of irrigable agricultural land to each head of family and forty acres to each other member, with allotments by October 1, 1903, and directed restoration of unallotted lands to the public domain at that time. Homestead entrants were to pay $1.25 per acre. Sale proceeds first reimbursed federal advances implementing the program; the remainder benefited the Indians under the Secretary's direction. The separately appropriated $70,064.48 settled other claims and was originally payable upon majority consent to allotment and restoration; it was not a fixed purchase price for the surplus lands. The June 19, 1902 resolution required adequate common grazing land to be set aside before opening and released that payment without awaiting consent to allotment or restoration.
+
+The March 3, 1903 Act authorized allotment without consent if consent was not obtained by June 1, 1903, confined the common grazing lands to no more than 250,000 acres south of the Strawberry River, and postponed opening under the earlier program until October 1, 1904. The April 21, 1904 Act funded the necessary surveys and postponed opening again, to March 10, 1905. The March 3, 1905 Act expressly repealed the south-of-Strawberry location restriction and postponed opening until September 1, 1905, unless the President chose an earlier date. It prescribed homestead and townsite disposition by presidential proclamation, barred settlement, occupation or entry except as the proclamation prescribed during the first sixty days, and directed cash disposal of land remaining after five years, in parcels of no more than 640 acres to one person. It retained the earlier sale-proceeds arrangement but did not repeat the public-domain phrase or expressly repeal it generally. The July 14 proclamation recited the earlier restoration instruction and opened the lands under the prescribed entry arrangements on August 28, 1905. Congress never obtained the required majority consent; the later statutory authority to proceed without it therefore matters.
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
 
 #### Judgment
 
-The Eighth Circuit judgment granting habeas relief is reversed, 8–1.
+The judgment of the Supreme Court of Utah is affirmed, 6–3.
 
-| Component | Disposition and vote | Supporting Justices | Opposing Justice | Effect |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Reach the Teague defense as fairly included | Consider, 8–1 | Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens | No exceptional-circumstances bypass |
-| New-rule bar and resulting habeas judgment | Reverse, 8–1 | Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens | The conditional writ cannot rest on this claim |
+| Reservation boundary and resulting territorial jurisdiction in this prosecution | Affirm, 6–3 | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Stone-Zsela, Blackmun, Souter | Utah's reinstatement of the conviction stands; dissent would reverse and remand to set aside the judgment resting on the rejected territorial premise |
 
-The Court leaves the constitutional merits unresolved. Stevens would decline Teague and affirm the conditional writ on the merits; alternatively he would treat the confined application as old law. The formal disposition is reversal. Ordinary lower proceedings must implement that bar, without a new proof hearing, a replacement sentence or disturbance of other properly preserved claims not resolved here.
+All nine leave the separate preclusion issue unadjudicated. No additional relief or general jurisdictional allocation is ordered.
 
 #### Opinion Topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope |
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reverse | All three holdings; ultimate constitutional merits reserved |
-| Dissent | Stevens | No other Justice | Affirm conditional relief | Rule 14 objection, trial-like adjudication and alternative old-rule analysis |
-
-Blackmun joins the Court's entire threshold opinion without deciding against the constitutional merits of a future eligible claim. No separate opinion supplies a controlling alternative merits rule.
+| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Thomas, Ginsburg | Affirmance | Entire bounded statutory construction, application and limits |
+| Dissent | Blackmun | Stone-Zsela, Souter | Reversal and remand | Entire statutory-sequence disagreement and confined remedy |
 
 #### Controlling Propositions and Authority
 
-##### The preserved nonretroactivity defense is fairly included here
+##### Congressional diminishment and the jurisdiction asserted at Myton
 
-**Controlling proposition:** In this habeas case, Missouri's consistently asserted Teague defense is fairly included as a subsidiary limit on applying the very constitutional rule and granting the writ challenged by the petition, although the stated question names the double-jeopardy issue rather than Teague. The Court therefore considers that nonjurisdictional defense; preservation, disclosure in the petition's body or logical priority alone does not make every independent omitted question reviewable.
+**Controlling proposition:** Congress diminished the Uintah Reservation as to the unallotted lands covered by the opening program: the 1902 operative direction restoring those lands to the public domain remained effective through the 1903–1905 amendments and implementation. Myton's location in that opened area is therefore outside the reservation on this record, and Utah may exercise the territorial criminal jurisdiction asserted over Hagen's offense; opening or fee ownership alone does not establish that result elsewhere.
 
-**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices. Stevens disagrees with fair inclusion and would decline the defense under Rule 14.1(a).
+**Authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Thomas and Ginsburg. These six Justices adopt the statutory construction, its clear-intent basis and its application to this prosecution. There is a direct majority rationale; no fractured-opinion inference is necessary.
 
-**Controlling explanation:** The Court separates preservation from the question actually accepted for review. Missouri asserted nonretroactivity throughout the relevant proceedings and described it in the petition, so the late-defense concern addressed in Schiro is absent. That observation alone does not settle Rule 14. Yee and Izumi require distinguishing an argument within a presented question from a related independent question. Here Teague limits whether the particular constitutional rule supporting this same habeas judgment may be applied to the final conviction. It is not a request to reverse an additional party-status order or decide another constitutional claim. The Court treats that confined remedial limit as subsidiary and therefore needs no exceptional-circumstances bypass. Stevens correctly identifies different legal inquiries into constitutional merits and retroactivity, but their difference does not make this limit on the same claimed writ an independent question. The holding neither makes nonretroactivity jurisdictional nor turns a State's preserved defenses into a general exemption from the Court's question-presentation rules.
-
-**Precedent treatment:**
-
-- Yee v. City of Escondido: applied to distinguish subsidiary legal arguments from distinct questions; preservation and fair inclusion remain separate requirements.
-- Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp.: preserved; an omitted independent question does not become reviewable merely through notice, logical priority or ordinary economy. This confined same-rule habeas limitation is distinguished from its separate intervention determination.
-- Schiro v. Farley: distinguished on presentation; the defense there first appeared at merits briefing after earlier omissions. Its discretionary treatment of a nonjurisdictional defense remains intact.
-
-##### The requested extension was a new rule at finality
-
-**Controlling proposition:** Bohlen's conviction and sentence became final on January 2, 1986, and the rule forbidding renewed proof of persistent-offender status in this noncapital proceeding was not dictated by the precedent then in force. Federal habeas relief therefore depends on a recognized Teague exception; the Court does not decide whether the proposed double-jeopardy protection should govern a case eligible for a decision on the constitutional merits.
-
-**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices adopt the finality-specific new-rule determination, not a prospective rule permitting every noncapital sentencing rehearing.
-
-**Controlling explanation:** The Court examines what the earlier precedents required, rather than demanding identical facts or counting disagreements. Graham preserves relief when an established constitutional duty already dictates its application; Gilmore confirms that a materially different noncapital extension can remain new. Bullington and Rumsey protected acquittal-like determinations of entitlement to death. Bohlen's status hearing had substantial trial protections, including pleaded facts, proof beyond reasonable doubt and adversarial presentation. Its consequence, however, was transfer of sentencing authority and removal of the jury's ordinary constraint within an unchanged class-A range. DiFrancesco had rejected automatic treatment of ordinary sentencing as an acquittal. Those decisions left a reasonable jurist room to distinguish this noncapital status determination. Total failure of the State's proof makes the finality argument substantial, but does not establish that the extension was already compelled in 1986. Prefinality disagreement corroborates that openness only after this comparison. Later explanations guide today's method without becoming part of the prefinality landscape. The Court leaves the ultimate trial-like merits question unresolved.
+**Controlling explanation:** The Court holds that the enactments must be read together. Solem requires congressional intent to diminish, gives statutory language primary weight, and resolves remaining ambiguity for the Indians. Its framework does not require a particular cession formula or fixed purchase payment. Rosebud shows that later implementation can preserve an earlier boundary decision. Here the 1902 restoration command has operative force beyond permission to sell. The later Acts postponed that program, supplied surveys and altered its implementation. The 1905 Act retained the proceeds arrangement and depended on the earlier allotment provisions. Its homestead and townsite restrictions can operate alongside restoration; its omission of the earlier phrase therefore does not establish repeal. Congress expressly repealed the geographic grazing restriction, further supporting this reading of the remaining provisions. Seymour and Mattz distinguish opening alone from an actual boundary change; this statutory sequence establishes the latter. Contemporary administrative understandings and subsequent settlement can corroborate that conclusion, but neither supplies congressional authority independently. The holding establishes the territorial premise for this Myton prosecution without deciding every parcel, retained tribal power or other category of Indian country.
 
 **Precedent treatment:**
 
-- Teague v. Lane: applied to the date at which the state judgment became final and the distinction between dictated applications and new rules.
-- Graham v. Collins: applied in its controlling form; a dictated application does not become new merely because the facts differ or courts disagree.
-- Gilmore v. Taylor: applied to preserve the possibility of a genuinely new noncapital extension after substantive comparison.
-- Bullington v. Missouri and Arizona v. Rumsey: preserved for acquittal-like capital adjudications; their extension to this noncapital status proceeding was not dictated at finality, and their ultimate reach is not decided.
-- United States v. DiFrancesco: applied as prefinality support for distinguishing sentencing determinations from offense acquittals.
-- Griffith v. Kentucky: used for the finality convention; direct review was exhausted and the certiorari period expired on January 2, with January 1 a legal holiday.
-- United States v. Dixon: its retention of Grady remains in force but does not answer whether this sentencing-status proceeding has the necessary jeopardy character.
+- Solem v. Bartlett, 465 U.S. 463: applies its clear-intent inquiry and unequal weighting of text, contemporaneous context and later treatment; distinguishes its nonoperative public-domain reference from the surviving operative command here.
+- Rosebud Sioux Tribe v. Kneip, 430 U.S. 584: applies statutory continuity across a sequence of enactments and preserves the rule that no particular formula or fixed payment is indispensable.
+- Seymour v. Superintendent, 368 U.S. 351: preserves the distinction between opening and boundary change and the rule that fee ownership within retained boundaries does not itself remove Indian-country status.
+- Mattz v. Arnett, 412 U.S. 481: preserves the need for congressional diminishment beyond mere sale and settlement; this sequence supplies the additional direction.
+- DeCoteau v. District County Court, 420 U.S. 425: preserves clear congressional cession as sufficient evidence without making its precise words or payment structure mandatory.
+- South Dakota v. Bourland, June 14, 1993: preserves its particular displacement of exclusion-derived regulation and its separate residual-authority inquiry; it does not itself establish reservation boundaries.
+- Negonsott v. Samuels, February 24, 1993: preserves its express Kansas-specific criminal authorization; it supplies no independent Utah authorization within Indian country.
+- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves the distinct §1151 categories and the need to determine actual Indian-country status.
 
-##### Neither Teague exception permits this writ
+#### Limits and Questions Not Reached
 
-**Controlling proposition:** The proposed rule falls within neither the exception for rules excluding conduct or a class of persons or punishments from the State's substantive power, nor the exception for watershed procedures essential to accuracy and fundamental fairness. Its protection against renewed litigation of offender status does not remove the robberies or these authorized sentences from lawful punishment and does not supply a watershed accuracy procedure; the habeas grant on this new rule must therefore be reversed.
-
-**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices apply both exceptions as they exist at this decision's date. Neither exception is eliminated or prospectively narrowed out of existence.
-
-**Controlling explanation:** The Court addresses each exception rather than treating collateral review as the end of analysis. Penry recognizes that some rules remove conduct, persons or punishments from substantive state authority. The asserted bar concerns another opportunity to establish prior convictions in choosing the sentencer; it does not make robbery unpunishable or place these authorized terms beyond the State's power. Teague and Sawyer also preserve a narrow category of fundamental procedures whose absence seriously threatens accuracy and fairness. A finality protection may be important without serving that distinct watershed function. Preventing renewed proof after evidentiary failure protects against repeated adjudication; it does not create a new bedrock safeguard for reliable determination of the underlying criminal charge. Bullington's acquittal protection remains fully effective in its established setting, but its importance does not excuse the required exception inquiry for this new extension. The Court reverses the writ on the presented claim without authorizing another proof proceeding, disturbing unrelated preserved claims or prescribing a replacement sentence.
-
-**Precedent treatment:**
-
-- Teague v. Lane: applies both contemporary exceptions after finding a new rule; neither is abolished.
-- Penry v. Lynaugh: applies the substantive exception's protection against punishment beyond the State's constitutional power; this claim does not satisfy it.
-- Sawyer v. Smith: applies the distinction between an important procedural protection and the exceptional accuracy-and-fairness requirement.
-- Bullington v. Missouri: preserved; refusing retroactive extension does not overrule its established capital-acquittal protection.
+The collateral-estoppel issue arising from Ute Indian Tribe v. Utah was omitted from the petition and expressly disavowed by Hagen; the Court does not decide its merits. This case does not adjudicate private titles, all remaining trust or allotted lands, every tract of the larger Uintah and Ouray territory, unrelated tribal powers, or every sovereign's jurisdiction over every offense. The $70,064.48 payment is not relied upon as a purchase of the surplus land. Later population and state administration do not independently change boundaries.
 
 #### Precedent Treatment and Current-Law Effect
 
-No capital-acquittal precedent is overruled. The presentation rule is applied through fair inclusion, not an exception based on notice alone. Graham's dictated-application principle and Gilmore's new-rule analysis remain coordinated; Dixon's retained Grady rule is not displaced. Both recognized Teague exceptions remain available in appropriate cases.
+No cited precedent is overruled. The Court leaves the merits of the disavowed preclusion theory unresolved.
 
-This preserved, fairly included habeas limitation bars relief based on a noncapital offender-status extension not dictated at January 2, 1986 finality and satisfying neither then-recognized exception. It does not establish that double jeopardy never applies in noncapital sentencing, make every preserved defense fairly included, permit every repeated proof attempt, or abolish a Teague exception. Ordinary sentence enhancements are not assumed to increase every applicable maximum: these class-A ranges were unchanged. The Court leaves constitutional merits and other unresolved claims open.
+Effective February 23, 1994, the Court's construction of the Uintah opening enactments establishes diminishment for the opened area implicated by Myton and sustains the jurisdiction asserted in this prosecution. Solem's existing clear-intent inquiry remains the governing method. The decision rejects a mandatory cession-wording or sum-certain-payment requirement without weakening the rule that opening, alienation or demographic change alone is insufficient. It supplies no universal rule assigning all fee parcels to state jurisdiction and does not displace the separate retained powers and Indian-country categories recognized in Bourland and Sac and Fox.
 
 #### Separate Positions Relevant to the Decision
 
-Stevens dissents, joined by no other Justice. He treats Teague's historical-dictation and exception inquiries as independent questions omitted from the petition's stated question. Under Yee and Izumi, prior assertion, briefing and an antecedent relationship do not by themselves supply fair inclusion or exceptional circumstances. Defining the question solely by the identity of the writ would allow almost any distinct defense into the case. His own preference for greater flexibility in Izumi does not relieve the Court of applying its adopted presentation rule evenhandedly.
+Blackmun dissents, joined by Chief Justice Stone-Zsela and Souter. The dissent would reverse the Utah Supreme Court and remand for disposition of the prosecution consistently with the absence of the asserted territorial jurisdiction. Its disagreement concerns the application of Solem's requirement of clear congressional intent, not Congress's power to act or an indispensable wording or payment formula.
 
-On the presented merits, Stevens would affirm the conditional writ. Missouri required formal allegations, proof beyond reasonable doubt, findings and adversarial protections before persistent-offender status could remove the jury's ordinary sentencing constraint. The State offered no qualifying proof, even after the appellate invitation to supplement it. Bullington, Rumsey and the insufficiency-finality principle drawn from Burks support treating that failed adjudication as final. The unchanged class-A punishment range does not erase the concrete consequence of changing who controls the sentence. The first judge did not expressly acquit Bohlen of status; the appellate determination of evidentiary insufficiency supplies the asserted equivalent. Trial-error reversal would present a different issue.
+The 1902 restoration language is substantial evidence for the State and cannot be dismissed as an ordinary opening provision. The dissent nevertheless finds that the final 1905 enactment leaves the territorial consequence uncertain. Congress changed the manner of disposition, omitted the public-domain language from the operative opening directions, and expressly carried forward the use of proceeds for the Indians. The cross-references in the intervening Acts and the absence of an express general repeal support continuity, but do not remove the difference between continuing allotment and sale arrangements and clearly preserving a change in jurisdictional boundaries. The express repeal of the grazing-location restriction proves that Congress made that particular change; it does not conclusively settle the force of every omission elsewhere. The dissent neither treats the entire 1902 Act as repealed nor makes tribal consent after the 1903 authorization a continuing statutory prerequisite.
 
-Alternatively, Stevens regards this confined application as dictated by the existing trial-like-acquittal principle, rather than new merely because the sentence is noncapital. That is not a second route under a Teague exception: if classified as new, he identifies neither a substantive-punishment exclusion nor a watershed accuracy rule. His proposed disposition would preserve conditional relief against the invalid renewed status adjudication, while leaving lawful sentencing without retrying the failed allegation possible. It would not acquit the robberies, impose a replacement term, invent a new release deadline or create a freestanding constitutional right to jury sentencing. These views are noncontrolling.
+Seymour and Mattz establish that opening land to settlers is compatible with retained reservation boundaries. Rosebud supports the State's continuity argument, but the dissent distinguishes its established cession purpose from the ambiguity remaining in this sequence. Neither absence of a fixed purchase payment nor retained sale proceeds alone controls; the payment here settled separate claims. Under Solem, uncertainty after reading the enactments in context must be resolved for retained Indian rights.
+
+The administrative history does not supply the missing clarity. Inspector McLaughlin described removal of an outside boundary but also promised continuing agency protection and privileges; the proclamation cannot itself exercise Congress's boundary power. The later jurisdictional history includes competing tribal and federal assertions, and non-Indian settlement cannot amend an Act. The dissent gives such evidence its subordinate role rather than categorically excluding it. Section 1151 does not make a fee patent within retained boundaries dispositive. Reversal on this territorial ground would leave private titles and any other sovereign's lawful prosecution undisturbed. The dissent does not rely on the disavowed preclusion theory or claim that all surplus-land enactments preserve reservations.
 
 #### Source Notes
 
-The proceedings and statutory safeguards are supported by [official United States Reports, 510 U.S. 383](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510383/usrep510383.pdf) and the [Eighth Circuit judgment, 979 F.2d 109](https://static.case.law/f2d/979/html/0109-01.html). Persistent-offender status required two or more felonies committed at different times, proved beyond reasonable doubt. For these class-A robberies it changed sentencing authority, not the ten-to-thirty-year-or-life range; both sentencings produced three consecutive fifteen-year terms. Finality was January 2, 1986, after the certiorari period and holiday adjustment. The earlier opinion's shorthand date and generalized enhancement language do not alter those particulars. The reports support the petition-presentation account; no independently recovered complete petition or unreported finding is claimed.
+The enactments and procedural record appear in the [United States Reports, 510 U.S. 399](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510399/usrep510399.pdf); the judgment below is 858 P.2d 925. The legal account paraphrases the statutes and verified record. The separate preclusion issue was expressly disavowed and supplies no alternative ground.
 
 #### Mandate, Remedy, and Stage
 
-The Eighth Circuit's conditional-habeas direction on this claim is reversed. Proceedings implementing the mandate must respect the nonretroactivity bar and the reserved merits. The Court directs no new evidentiary hearing, State proof opportunity, release deadline or replacement sentence and leaves the robbery convictions otherwise undisturbed.
+The conviction reinstated by the Utah Supreme Court remains in place. No merits remand, title adjudication, damages award or order reallocating all jurisdiction in the region issues. Proceedings implementing the affirmed judgment remain for the Utah courts.
 
-**End of entry: Caspari v. Bohlen, merits decision, February 23, 1994.**
+**End of entry: Hagen v. Utah, merits decision, February 23, 1994.**
+
+---
+### FDIC v. Meyer, No. 92-741
+
+Merits decision, February 23, 1994
+
+#### Chronology and Posture
+
+510 U.S. 471. Argued October 4, 1993. On certiorari to the Ninth Circuit, 944 F.2d 562, which affirmed a $130,000 constitutional damages award against the Federal Savings and Loan Insurance Corporation. The Federal Deposit Insurance Corporation succeeded to the pertinent liability after Congress abolished FSLIC in 1989 and was substituted in the action. The questions are whether former FSLIC's sue-and-be-sued clause waives immunity despite FTCA exclusivity and, if so, whether a constitutional damages cause of action lies directly against the agency.
+
+On April 13, 1982, California's Savings and Loan Commissioner seized Fidelity Savings and Loan Association and appointed FSLIC receiver under state law. The Federal Home Loan Bank Board appointed it receiver under federal law the same day. Acting through Robert Pattullo under its policy of replacing failed thrifts' senior managers, FSLIC discharged Meyer. His sole surviving trial claim alleged deprivation of a California-law employment property interest without Fifth Amendment due process. The jury awarded damages against FSLIC but found Pattullo protected by qualified immunity. The Ninth Circuit affirmed both; only the agency award is under review. A contractual claim was dropped; no finding establishes that another process actually compensated Meyer.
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+#### Judgment
+
+The Ninth Circuit judgment sustaining agency damages is reversed, 9–0.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Agency constitutional damages judgment | Reverse, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | The $130,000 award cannot stand; reject the direct agency cause |
+
+All nine reject the FTCA-exclusivity defense and recognize the applicable waiver, but agree that those conclusions do not sustain the damages award. Pattullo's unreviewed individual judgment is undisturbed. No constitutional merits determination or new damages trial is ordered.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Thomas | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg | Reversal | All statutory, waiver, cause-of-action and independent fiscal/remedial portions |
+
+#### Controlling Propositions and Authority
+
+##### FTCA exclusivity does not encompass this federal constitutional claim
+
+**Controlling proposition:** Section 2679(a) makes FTCA relief exclusive as against an agency's sue-and-be-sued authority only for claims cognizable under the whole of §1346(b), including its private-person and state-law requirements. Meyer's federal constitutional tort is outside that category, so §2679(a) does not bar this suit in the agency's own name; this statutory conclusion neither supplies a cause of action nor guarantees recovery.
+
+**Authority:** The statutory-exclusivity portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. All nine adopt this separate threshold holding.
+
+**Controlling explanation:** The Court reads the cross-reference as Congress wrote it. Section 1346(b) covers claims against the United States, for money damages, for injury or loss of property or personal injury or death, caused by a government employee's negligent or wrongful act or omission, within the scope of employment, under circumstances making a private person liable under the law of the place. Richards and Miree establish that this final requirement means state substantive law. California law may create Meyer's asserted employment interest, but the duty he invokes is federal due process. FDIC cannot detach the tort language from the remaining statutory conditions. Loeffler's coordination of agency waivers with the FTCA does not erase those conditions. Smith concerned §2679(b)(1), which governs employee suits and lacks the cognizable-under-§1346(b) language; it does not resolve this agency provision. Hubsch distinguishes failure to prove an element of a cognizable claim from absence of the statutory category itself. This claim presents the latter problem. The Court therefore rejects exclusivity without deciding constitutional liability.
+
+**Precedent treatment:**
+
+- Richards v. United States, 369 U.S. 1: applies the FTCA's state-law source and private-person limitation.
+- Miree v. DeKalb County, 433 U.S. 25: applies state law as the substantive source under the law-of-the-place provision.
+- Loeffler v. Frank, 486 U.S. 549: preserves FTCA coordination while specifying that §2679(a) refers to cognizability under §1346(b), not everything described as tortious.
+- United States v. Smith, 499 U.S. 160: distinguishes employee exclusivity under §2679(b)(1) and its treatment of the foreign-country exception from the differently worded agency provision.
+- Hubsch v. United States, 338 U.S. 440: preserves cognizability despite failure of proof on an element; distinguishes a claim that never falls within §1346(b)'s category.
+
+##### Former FSLIC's sue-and-be-sued clause waives immunity
+
+**Controlling proposition:** Former 12 U.S.C. §1725(c)(4) waives FSLIC's sovereign immunity for this constitutional tort claim, even though a private entity ordinarily would not bear that constitutional duty. An implied restriction on its broad sue-and-be-sued authority requires a clear showing that the suit is inconsistent with the statutory or constitutional scheme, that restriction is necessary to avoid grave interference with governmental functions, or that Congress plainly intended the clause in a narrow sense; FDIC establishes none here.
+
+**Authority:** The waiver portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. Nine Justices adopt the specific waiver and its stated limits.
+
+**Controlling explanation:** The Court gives this express waiver its independent effect. Burr and Loeffler require liberal construction of authority to sue and be sued, subject to the clear limiting showings stated above. Former §1725(c)(4) empowered FSLIC to sue and be sued, complain and defend, in a court of competent jurisdiction in the United States. FDIC relies on the absence of comparable private constitutional liability, rather than showing statutory incompatibility, grave governmental interference or a plainly restricted congressional purpose. Burr, Franchise Tax Board and Loeffler used ordinary private liability to identify suits or incidents of suit encompassed by a waiver; they did not make that liability an absolute ceiling on its scope. Section 2679(a) expressly coordinates the waiver with §1346(b) and leaves room for claims outside the latter provision. Importing its private-person limitation into the waiver would erase that arrangement. Nordic Village requires attention to the particular consent and remedy; this provision supplies broad consent. Whether substantive law supplies the requested damages action remains a separate inquiry.
+
+**Precedent treatment:**
+
+- FHA v. Burr, 309 U.S. 242: applies liberal construction and all three grounds for a clearly established implied restriction; mere absence of private constitutional liability does not establish one.
+- Loeffler v. Frank, 486 U.S. 549: applies the broad waiver rule while keeping separate statutory limits distinct.
+- Franchise Tax Board v. United States Postal Service, 467 U.S. 512: preserves private-business liability as support for the incidents of suit recognized there, without turning it into an outer boundary for every waiver.
+- United States v. Nordic Village, February 25, 1992: preserves the requirement to identify the particular sovereign consent; the ambiguous bankruptcy provision there does not narrow this express agency clause.
+
+##### Waiver does not create a direct agency Bivens action
+
+**Controlling proposition:** A waiver of sovereign immunity removes a defense to suit but does not itself authorize constitutional damages; Bivens does not supply Meyer a direct damages cause of action against FSLIC. Extending an individual-officer action to the federal agency would create a distinct defendant and public obligation, rather than merely provide relief within an existing agency action.
+
+**Authority:** The cause-of-action portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. All nine adopt this independently sufficient ground for rejecting the agency award.
+
+**Controlling explanation:** The Court keeps consent to suit distinct from the source of liability, as Mitchell requires. Bivens authorized damages against the officers responsible for the alleged Fourth Amendment violation; Davis v. Passman and Carlson likewise concern individual federal defendants. Those decisions do not establish a direct agency action merely because an express statute waives immunity. Carlson recognizes the deterrent value of personal liability, including its difference from a government remedy. Agency liability could improve compensation and need not eliminate every incentive for officers to obey the Constitution. Those advantages nevertheless do not identify authority for this distinct public obligation or preserve unchanged the relationship between personal liability and official immunity. Pattullo's successful defense cannot itself transfer liability to FSLIC. Franklin permits appropriate relief within an established action; it does not create the missing agency cause. The Court rejects that extension without overruling the individual-officer precedents, deciding that the discharge satisfied due process, or treating an abandoned contractual claim as adequate compensation.
+
+**Precedent treatment:**
+
+- United States v. Mitchell, 463 U.S. 206: applies the analytical separation of sovereign consent and a substantive source authorizing relief.
+- Bivens v. Six Unknown Named Agents, 403 U.S. 388: retains its individual-officer action and declines extension directly to a federal agency.
+- Davis v. Passman, 442 U.S. 228: preserves the individual employment-discrimination action; it does not supply an agency defendant here.
+- Carlson v. Green, 446 U.S. 14: preserves individual-officer liability and its deterrent rationale without making every useful compensatory arrangement an authorized agency action.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: preserves appropriate relief within an established private action; distinguishes creation of a new action and defendant.
+
+##### Independent reason to leave this fiscal and remedial extension to Congress
+
+**Controlling proposition:** Even assuming that a direct agency remedy could advance the compensatory and deterrent purposes of Bivens, the resulting expansion of direct federal financial liability and redesign of the remedial structure counsel against judicial creation of that remedy. Those institutional considerations independently require rejection of this implied agency damages action; the Court does not find that Meyer received an adequate substitute remedy.
+
+**Authority:** The independent fiscal-and-remedial portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. Nine Justices adopt this independently sufficient alternative ground.
+
+**Controlling explanation:** The Court would decline this agency remedy even if it served Bivens's purposes. Bivens itself recognizes special factors counseling hesitation; its reliance on Standard Oil identifies federal fiscal choices as a matter for the legislative branch. A direct agency cause could impose substantial public liability and require choices about compensation, governmental operations and the relation to official immunity. Meyer argues that existing indemnification spending could instead support agency payments. The Court does not decide whether that prediction is correct: shifting those obligations is itself a fiscal and remedial choice. Bush and Schweiker demonstrate why an incomplete compensation mechanism does not automatically authorize a judicial addition to Congress's arrangements. Their particular statutory schemes are not attributed to this employment dispute, and the Court does not declare every remedial gap insignificant. Congress may enact a damages right and matching waiver. Without that authorization, the claimed advantages do not justify this distinct extension. The Court leaves Meyer's property interest, the constitutional adequacy of his discharge and any other properly grounded remedy undecided.
+
+**Precedent treatment:**
+
+- Bivens v. Six Unknown Named Agents, 403 U.S. 388: applies its special-factors limitation to the proposed direct public liability, independently of the individual-defendant distinction.
+- United States v. Standard Oil Co. of California, 332 U.S. 301: applies the concern against judicial determination of a new federal fiscal obligation.
+- Bush v. Lucas, 462 U.S. 367: applies institutional restraint concerning a new damages remedy; does not find that Bush's civil-service scheme governed or compensated Meyer.
+- Schweiker v. Chilicky, 487 U.S. 412: applies caution about remedy creation despite incomplete compensation, without importing its Social Security system as Meyer's actual remedy.
+
+#### Limits and Questions Not Reached
+
+The $130,000 agency award cannot stand for want of an agency cause. Pattullo's separate immunity judgment is outside review and remains undisturbed. The Court does not decide Meyer's property entitlement, the underlying due-process violation, entitlement under another source, a universal federal waiver, or elimination of existing individual Bivens remedies. Former §1725(c)(4), rather than a silently substituted successor clause, governs this 1982 agency claim. Section 2679(b)(1)'s separate employee rule is not rewritten.
+
+#### Precedent Treatment and Current-Law Effect
+
+No individual-officer Bivens precedent is overruled. Molzof's separate construction of the FTCA punitive-damages exclusion remains unchanged; it does not create an agency cause or convert this federal constitutional duty into a state-law tort.
+
+Effective February 23, 1994, §2679(a)'s agency exclusivity turns on the complete §1346(b) category; a federal constitutional tort falls outside its state-law requirement. Former FSLIC's sue-and-be-sued clause waives immunity for the claim, subject to the stated Burr limits, but supplies no substantive constitutional damages cause. Bivens is not extended directly to federal agencies, both because that changes its individual-defendant structure and because institutional fiscal and remedial concerns independently counsel against the extension. Existing individual actions, genuinely authorized statutory remedies, and the distinction between waiver and substantive liability remain intact. The decision does not settle the underlying due-process claim.
+
+#### Source Notes
+
+The applicable statutory text and reported proceedings appear in the [United States Reports, 510 U.S. 471](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510471/usrep510471.pdf). The reviewed judgment is 944 F.2d 562. The former FSLIC statute governs the agency claim despite later succession. The opinion does not treat an abandoned contractual claim as established adequate relief.
+
+#### Mandate, Remedy, and Stage
+
+The agency damages judgment is reversed because the asserted direct constitutional cause is unavailable. Ordinary proceedings implementing reversal must reject that agency cause; no new evidentiary inquiry or damages trial is directed. Pattullo's judgment remains undisturbed, and the Court does not adjudicate the due-process merits or award another remedy.
+
+**End of entry: FDIC v. Meyer, merits decision, February 23, 1994.**
 
 ---
 
@@ -773,200 +865,108 @@ The Court of Appeals must reconsider qualified immunity independently using all 
 
 ---
 
-### FDIC v. Meyer, No. 92-741
+### Caspari v. Bohlen, No. 92-1500
 
 Merits decision, February 23, 1994
 
 #### Chronology and Posture
 
-510 U.S. 471. Argued October 4, 1993. On certiorari to the Ninth Circuit, 944 F.2d 562, which affirmed a $130,000 constitutional damages award against the Federal Savings and Loan Insurance Corporation. The Federal Deposit Insurance Corporation succeeded to the pertinent liability after Congress abolished FSLIC in 1989 and was substituted in the action. The questions are whether former FSLIC's sue-and-be-sued clause waives immunity despite FTCA exclusivity and, if so, whether a constitutional damages cause of action lies directly against the agency.
+510 U.S. 383. Argued December 6, 1993. Certiorari to the Eighth Circuit, 979 F.2d 109, which reversed the denial of habeas relief and directed a conditional writ. The stated question concerned double jeopardy in repeated noncapital sentencing; Teague was argued in the petition and consistently asserted in the litigation. The Court determines whether that defense is fairly included and bars this writ.
 
-On April 13, 1982, California's Savings and Loan Commissioner seized Fidelity Savings and Loan Association and appointed FSLIC receiver under state law. The Federal Home Loan Bank Board appointed it receiver under federal law the same day. Acting through Robert Pattullo under its policy of replacing failed thrifts' senior managers, FSLIC discharged Meyer. His sole surviving trial claim alleged deprivation of a California-law employment property interest without Fifth Amendment due process. The jury awarded damages against FSLIC but found Pattullo protected by qualified immunity. The Ninth Circuit affirmed both; only the agency award is under review. A contractual claim was dropped; no finding establishes that another process actually compensated Meyer.
-
-All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+All nine participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
 
 #### Judgment
 
-The Ninth Circuit judgment sustaining agency damages is reversed, 9–0.
+The Eighth Circuit judgment granting habeas relief is reversed, 8–1.
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+| Component | Disposition and vote | Supporting Justices | Opposing Justice | Effect |
 |---|---|---|---|---|
-| Agency constitutional damages judgment | Reverse, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | The $130,000 award cannot stand; reject the direct agency cause |
+| Reach the Teague defense as fairly included | Consider, 8–1 | Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens | No exceptional-circumstances bypass |
+| New-rule bar and resulting habeas judgment | Reverse, 8–1 | Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens | The conditional writ cannot rest on this claim |
 
-All nine reject the FTCA-exclusivity defense and recognize the applicable waiver, but agree that those conclusions do not sustain the damages award. Pattullo's unreviewed individual judgment is undisturbed. No constitutional merits determination or new damages trial is ordered.
+The Court leaves the constitutional merits unresolved. Stevens would decline Teague and affirm the conditional writ on the merits; alternatively he would treat the confined application as old law. The formal disposition is reversal. Ordinary lower proceedings must implement that bar, without a new proof hearing, a replacement sentence or disturbance of other properly preserved claims not resolved here.
 
 #### Opinion Topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+| Writing | Author | Joined by | Relationship to judgment | Scope |
 |---|---|---|---|---|
-| Opinion of the Court | Thomas | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg | Reversal | All statutory, waiver, cause-of-action and independent fiscal/remedial portions |
+| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reverse | All three holdings; ultimate constitutional merits reserved |
+| Dissent | Stevens | No other Justice | Affirm conditional relief | Rule 14 objection, trial-like adjudication and alternative old-rule analysis |
+
+Blackmun joins the Court's entire threshold opinion without deciding against the constitutional merits of a future eligible claim. No separate opinion supplies a controlling alternative merits rule.
 
 #### Controlling Propositions and Authority
 
-##### FTCA exclusivity does not encompass this federal constitutional claim
+##### The preserved nonretroactivity defense is fairly included here
 
-**Controlling proposition:** Section 2679(a) makes FTCA relief exclusive as against an agency's sue-and-be-sued authority only for claims cognizable under the whole of §1346(b), including its private-person and state-law requirements. Meyer's federal constitutional tort is outside that category, so §2679(a) does not bar this suit in the agency's own name; this statutory conclusion neither supplies a cause of action nor guarantees recovery.
+**Controlling proposition:** In this habeas case, Missouri's consistently asserted Teague defense is fairly included as a subsidiary limit on applying the very constitutional rule and granting the writ challenged by the petition, although the stated question names the double-jeopardy issue rather than Teague. The Court therefore considers that nonjurisdictional defense; preservation, disclosure in the petition's body or logical priority alone does not make every independent omitted question reviewable.
 
-**Authority:** The statutory-exclusivity portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. All nine adopt this separate threshold holding.
+**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices. Stevens disagrees with fair inclusion and would decline the defense under Rule 14.1(a).
 
-**Controlling explanation:** The Court reads the cross-reference as Congress wrote it. Section 1346(b) covers claims against the United States, for money damages, for injury or loss of property or personal injury or death, caused by a government employee's negligent or wrongful act or omission, within the scope of employment, under circumstances making a private person liable under the law of the place. Richards and Miree establish that this final requirement means state substantive law. California law may create Meyer's asserted employment interest, but the duty he invokes is federal due process. FDIC cannot detach the tort language from the remaining statutory conditions. Loeffler's coordination of agency waivers with the FTCA does not erase those conditions. Smith concerned §2679(b)(1), which governs employee suits and lacks the cognizable-under-§1346(b) language; it does not resolve this agency provision. Hubsch distinguishes failure to prove an element of a cognizable claim from absence of the statutory category itself. This claim presents the latter problem. The Court therefore rejects exclusivity without deciding constitutional liability.
-
-**Precedent treatment:**
-
-- Richards v. United States, 369 U.S. 1: applies the FTCA's state-law source and private-person limitation.
-- Miree v. DeKalb County, 433 U.S. 25: applies state law as the substantive source under the law-of-the-place provision.
-- Loeffler v. Frank, 486 U.S. 549: preserves FTCA coordination while specifying that §2679(a) refers to cognizability under §1346(b), not everything described as tortious.
-- United States v. Smith, 499 U.S. 160: distinguishes employee exclusivity under §2679(b)(1) and its treatment of the foreign-country exception from the differently worded agency provision.
-- Hubsch v. United States, 338 U.S. 440: preserves cognizability despite failure of proof on an element; distinguishes a claim that never falls within §1346(b)'s category.
-
-##### Former FSLIC's sue-and-be-sued clause waives immunity
-
-**Controlling proposition:** Former 12 U.S.C. §1725(c)(4) waives FSLIC's sovereign immunity for this constitutional tort claim, even though a private entity ordinarily would not bear that constitutional duty. An implied restriction on its broad sue-and-be-sued authority requires a clear showing that the suit is inconsistent with the statutory or constitutional scheme, that restriction is necessary to avoid grave interference with governmental functions, or that Congress plainly intended the clause in a narrow sense; FDIC establishes none here.
-
-**Authority:** The waiver portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. Nine Justices adopt the specific waiver and its stated limits.
-
-**Controlling explanation:** The Court gives this express waiver its independent effect. Burr and Loeffler require liberal construction of authority to sue and be sued, subject to the clear limiting showings stated above. Former §1725(c)(4) empowered FSLIC to sue and be sued, complain and defend, in a court of competent jurisdiction in the United States. FDIC relies on the absence of comparable private constitutional liability, rather than showing statutory incompatibility, grave governmental interference or a plainly restricted congressional purpose. Burr, Franchise Tax Board and Loeffler used ordinary private liability to identify suits or incidents of suit encompassed by a waiver; they did not make that liability an absolute ceiling on its scope. Section 2679(a) expressly coordinates the waiver with §1346(b) and leaves room for claims outside the latter provision. Importing its private-person limitation into the waiver would erase that arrangement. Nordic Village requires attention to the particular consent and remedy; this provision supplies broad consent. Whether substantive law supplies the requested damages action remains a separate inquiry.
+**Controlling explanation:** The Court separates preservation from the question actually accepted for review. Missouri asserted nonretroactivity throughout the relevant proceedings and described it in the petition, so the late-defense concern addressed in Schiro is absent. That observation alone does not settle Rule 14. Yee and Izumi require distinguishing an argument within a presented question from a related independent question. Here Teague limits whether the particular constitutional rule supporting this same habeas judgment may be applied to the final conviction. It is not a request to reverse an additional party-status order or decide another constitutional claim. The Court treats that confined remedial limit as subsidiary and therefore needs no exceptional-circumstances bypass. Stevens correctly identifies different legal inquiries into constitutional merits and retroactivity, but their difference does not make this limit on the same claimed writ an independent question. The holding neither makes nonretroactivity jurisdictional nor turns a State's preserved defenses into a general exemption from the Court's question-presentation rules.
 
 **Precedent treatment:**
 
-- FHA v. Burr, 309 U.S. 242: applies liberal construction and all three grounds for a clearly established implied restriction; mere absence of private constitutional liability does not establish one.
-- Loeffler v. Frank, 486 U.S. 549: applies the broad waiver rule while keeping separate statutory limits distinct.
-- Franchise Tax Board v. United States Postal Service, 467 U.S. 512: preserves private-business liability as support for the incidents of suit recognized there, without turning it into an outer boundary for every waiver.
-- United States v. Nordic Village, February 25, 1992: preserves the requirement to identify the particular sovereign consent; the ambiguous bankruptcy provision there does not narrow this express agency clause.
+- Yee v. City of Escondido: applied to distinguish subsidiary legal arguments from distinct questions; preservation and fair inclusion remain separate requirements.
+- Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp.: preserved; an omitted independent question does not become reviewable merely through notice, logical priority or ordinary economy. This confined same-rule habeas limitation is distinguished from its separate intervention determination.
+- Schiro v. Farley: distinguished on presentation; the defense there first appeared at merits briefing after earlier omissions. Its discretionary treatment of a nonjurisdictional defense remains intact.
 
-##### Waiver does not create a direct agency Bivens action
+##### The requested extension was a new rule at finality
 
-**Controlling proposition:** A waiver of sovereign immunity removes a defense to suit but does not itself authorize constitutional damages; Bivens does not supply Meyer a direct damages cause of action against FSLIC. Extending an individual-officer action to the federal agency would create a distinct defendant and public obligation, rather than merely provide relief within an existing agency action.
+**Controlling proposition:** Bohlen's conviction and sentence became final on January 2, 1986, and the rule forbidding renewed proof of persistent-offender status in this noncapital proceeding was not dictated by the precedent then in force. Federal habeas relief therefore depends on a recognized Teague exception; the Court does not decide whether the proposed double-jeopardy protection should govern a case eligible for a decision on the constitutional merits.
 
-**Authority:** The cause-of-action portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. All nine adopt this independently sufficient ground for rejecting the agency award.
+**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices adopt the finality-specific new-rule determination, not a prospective rule permitting every noncapital sentencing rehearing.
 
-**Controlling explanation:** The Court keeps consent to suit distinct from the source of liability, as Mitchell requires. Bivens authorized damages against the officers responsible for the alleged Fourth Amendment violation; Davis v. Passman and Carlson likewise concern individual federal defendants. Those decisions do not establish a direct agency action merely because an express statute waives immunity. Carlson recognizes the deterrent value of personal liability, including its difference from a government remedy. Agency liability could improve compensation and need not eliminate every incentive for officers to obey the Constitution. Those advantages nevertheless do not identify authority for this distinct public obligation or preserve unchanged the relationship between personal liability and official immunity. Pattullo's successful defense cannot itself transfer liability to FSLIC. Franklin permits appropriate relief within an established action; it does not create the missing agency cause. The Court rejects that extension without overruling the individual-officer precedents, deciding that the discharge satisfied due process, or treating an abandoned contractual claim as adequate compensation.
-
-**Precedent treatment:**
-
-- United States v. Mitchell, 463 U.S. 206: applies the analytical separation of sovereign consent and a substantive source authorizing relief.
-- Bivens v. Six Unknown Named Agents, 403 U.S. 388: retains its individual-officer action and declines extension directly to a federal agency.
-- Davis v. Passman, 442 U.S. 228: preserves the individual employment-discrimination action; it does not supply an agency defendant here.
-- Carlson v. Green, 446 U.S. 14: preserves individual-officer liability and its deterrent rationale without making every useful compensatory arrangement an authorized agency action.
-- Franklin v. Gwinnett County Public Schools, February 26, 1992: preserves appropriate relief within an established private action; distinguishes creation of a new action and defendant.
-
-##### Independent reason to leave this fiscal and remedial extension to Congress
-
-**Controlling proposition:** Even assuming that a direct agency remedy could advance the compensatory and deterrent purposes of Bivens, the resulting expansion of direct federal financial liability and redesign of the remedial structure counsel against judicial creation of that remedy. Those institutional considerations independently require rejection of this implied agency damages action; the Court does not find that Meyer received an adequate substitute remedy.
-
-**Authority:** The independent fiscal-and-remedial portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. Nine Justices adopt this independently sufficient alternative ground.
-
-**Controlling explanation:** The Court would decline this agency remedy even if it served Bivens's purposes. Bivens itself recognizes special factors counseling hesitation; its reliance on Standard Oil identifies federal fiscal choices as a matter for the legislative branch. A direct agency cause could impose substantial public liability and require choices about compensation, governmental operations and the relation to official immunity. Meyer argues that existing indemnification spending could instead support agency payments. The Court does not decide whether that prediction is correct: shifting those obligations is itself a fiscal and remedial choice. Bush and Schweiker demonstrate why an incomplete compensation mechanism does not automatically authorize a judicial addition to Congress's arrangements. Their particular statutory schemes are not attributed to this employment dispute, and the Court does not declare every remedial gap insignificant. Congress may enact a damages right and matching waiver. Without that authorization, the claimed advantages do not justify this distinct extension. The Court leaves Meyer's property interest, the constitutional adequacy of his discharge and any other properly grounded remedy undecided.
+**Controlling explanation:** The Court examines what the earlier precedents required, rather than demanding identical facts or counting disagreements. Graham preserves relief when an established constitutional duty already dictates its application; Gilmore confirms that a materially different noncapital extension can remain new. Bullington and Rumsey protected acquittal-like determinations of entitlement to death. Bohlen's status hearing had substantial trial protections, including pleaded facts, proof beyond reasonable doubt and adversarial presentation. Its consequence, however, was transfer of sentencing authority and removal of the jury's ordinary constraint within an unchanged class-A range. DiFrancesco had rejected automatic treatment of ordinary sentencing as an acquittal. Those decisions left a reasonable jurist room to distinguish this noncapital status determination. Total failure of the State's proof makes the finality argument substantial, but does not establish that the extension was already compelled in 1986. Prefinality disagreement corroborates that openness only after this comparison. Later explanations guide today's method without becoming part of the prefinality landscape. The Court leaves the ultimate trial-like merits question unresolved.
 
 **Precedent treatment:**
 
-- Bivens v. Six Unknown Named Agents, 403 U.S. 388: applies its special-factors limitation to the proposed direct public liability, independently of the individual-defendant distinction.
-- United States v. Standard Oil Co. of California, 332 U.S. 301: applies the concern against judicial determination of a new federal fiscal obligation.
-- Bush v. Lucas, 462 U.S. 367: applies institutional restraint concerning a new damages remedy; does not find that Bush's civil-service scheme governed or compensated Meyer.
-- Schweiker v. Chilicky, 487 U.S. 412: applies caution about remedy creation despite incomplete compensation, without importing its Social Security system as Meyer's actual remedy.
+- Teague v. Lane: applied to the date at which the state judgment became final and the distinction between dictated applications and new rules.
+- Graham v. Collins: applied in its controlling form; a dictated application does not become new merely because the facts differ or courts disagree.
+- Gilmore v. Taylor: applied to preserve the possibility of a genuinely new noncapital extension after substantive comparison.
+- Bullington v. Missouri and Arizona v. Rumsey: preserved for acquittal-like capital adjudications; their extension to this noncapital status proceeding was not dictated at finality, and their ultimate reach is not decided.
+- United States v. DiFrancesco: applied as prefinality support for distinguishing sentencing determinations from offense acquittals.
+- Griffith v. Kentucky: used for the finality convention; direct review was exhausted and the certiorari period expired on January 2, with January 1 a legal holiday.
+- United States v. Dixon: its retention of Grady remains in force but does not answer whether this sentencing-status proceeding has the necessary jeopardy character.
 
-#### Limits and Questions Not Reached
+##### Neither Teague exception permits this writ
 
-The $130,000 agency award cannot stand for want of an agency cause. Pattullo's separate immunity judgment is outside review and remains undisturbed. The Court does not decide Meyer's property entitlement, the underlying due-process violation, entitlement under another source, a universal federal waiver, or elimination of existing individual Bivens remedies. Former §1725(c)(4), rather than a silently substituted successor clause, governs this 1982 agency claim. Section 2679(b)(1)'s separate employee rule is not rewritten.
+**Controlling proposition:** The proposed rule falls within neither the exception for rules excluding conduct or a class of persons or punishments from the State's substantive power, nor the exception for watershed procedures essential to accuracy and fundamental fairness. Its protection against renewed litigation of offender status does not remove the robberies or these authorized sentences from lawful punishment and does not supply a watershed accuracy procedure; the habeas grant on this new rule must therefore be reversed.
+
+**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices apply both exceptions as they exist at this decision's date. Neither exception is eliminated or prospectively narrowed out of existence.
+
+**Controlling explanation:** The Court addresses each exception rather than treating collateral review as the end of analysis. Penry recognizes that some rules remove conduct, persons or punishments from substantive state authority. The asserted bar concerns another opportunity to establish prior convictions in choosing the sentencer; it does not make robbery unpunishable or place these authorized terms beyond the State's power. Teague and Sawyer also preserve a narrow category of fundamental procedures whose absence seriously threatens accuracy and fairness. A finality protection may be important without serving that distinct watershed function. Preventing renewed proof after evidentiary failure protects against repeated adjudication; it does not create a new bedrock safeguard for reliable determination of the underlying criminal charge. Bullington's acquittal protection remains fully effective in its established setting, but its importance does not excuse the required exception inquiry for this new extension. The Court reverses the writ on the presented claim without authorizing another proof proceeding, disturbing unrelated preserved claims or prescribing a replacement sentence.
+
+**Precedent treatment:**
+
+- Teague v. Lane: applies both contemporary exceptions after finding a new rule; neither is abolished.
+- Penry v. Lynaugh: applies the substantive exception's protection against punishment beyond the State's constitutional power; this claim does not satisfy it.
+- Sawyer v. Smith: applies the distinction between an important procedural protection and the exceptional accuracy-and-fairness requirement.
+- Bullington v. Missouri: preserved; refusing retroactive extension does not overrule its established capital-acquittal protection.
 
 #### Precedent Treatment and Current-Law Effect
 
-No individual-officer Bivens precedent is overruled. Molzof's separate construction of the FTCA punitive-damages exclusion remains unchanged; it does not create an agency cause or convert this federal constitutional duty into a state-law tort.
+No capital-acquittal precedent is overruled. The presentation rule is applied through fair inclusion, not an exception based on notice alone. Graham's dictated-application principle and Gilmore's new-rule analysis remain coordinated; Dixon's retained Grady rule is not displaced. Both recognized Teague exceptions remain available in appropriate cases.
 
-Effective February 23, 1994, §2679(a)'s agency exclusivity turns on the complete §1346(b) category; a federal constitutional tort falls outside its state-law requirement. Former FSLIC's sue-and-be-sued clause waives immunity for the claim, subject to the stated Burr limits, but supplies no substantive constitutional damages cause. Bivens is not extended directly to federal agencies, both because that changes its individual-defendant structure and because institutional fiscal and remedial concerns independently counsel against the extension. Existing individual actions, genuinely authorized statutory remedies, and the distinction between waiver and substantive liability remain intact. The decision does not settle the underlying due-process claim.
-
-#### Source Notes
-
-The applicable statutory text and reported proceedings appear in the [United States Reports, 510 U.S. 471](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510471/usrep510471.pdf). The reviewed judgment is 944 F.2d 562. The former FSLIC statute governs the agency claim despite later succession. The opinion does not treat an abandoned contractual claim as established adequate relief.
-
-#### Mandate, Remedy, and Stage
-
-The agency damages judgment is reversed because the asserted direct constitutional cause is unavailable. Ordinary proceedings implementing reversal must reject that agency cause; no new evidentiary inquiry or damages trial is directed. Pattullo's judgment remains undisturbed, and the Court does not adjudicate the due-process merits or award another remedy.
-
-**End of entry: FDIC v. Meyer, merits decision, February 23, 1994.**
-
----
-
-### Hagen v. Utah, No. 92-6281
-
-Merits decision, February 23, 1994
-
-#### Chronology and Posture
-
-510 U.S. 399. Argued November 2, 1993. On certiorari to the Supreme Court of Utah, 858 P.2d 925, which reinstated Hagen's conviction for distribution of a controlled substance in Myton. The intermediate appellate court had vacated the conviction because it regarded Myton as Indian country. Hagen's status as an Indian is settled for this review. The question is whether Congress diminished the Uintah Reservation through the enactments opening its unallotted lands, thereby permitting the territorial criminal jurisdiction asserted in this prosecution. Myton is within the original reservation boundaries and in the opened area.
-
-The May 27, 1902 Act, 32 Stat. 263–264, conditioned allotment on consent of a majority of the adult male Uintah and White River Ute Indians. It provided eighty acres of irrigable agricultural land to each head of family and forty acres to each other member, with allotments by October 1, 1903, and directed restoration of unallotted lands to the public domain at that time. Homestead entrants were to pay $1.25 per acre. Sale proceeds first reimbursed federal advances implementing the program; the remainder benefited the Indians under the Secretary's direction. The separately appropriated $70,064.48 settled other claims and was originally payable upon majority consent to allotment and restoration; it was not a fixed purchase price for the surplus lands. The June 19, 1902 resolution required adequate common grazing land to be set aside before opening and released that payment without awaiting consent to allotment or restoration.
-
-The March 3, 1903 Act authorized allotment without consent if consent was not obtained by June 1, 1903, confined the common grazing lands to no more than 250,000 acres south of the Strawberry River, and postponed opening under the earlier program until October 1, 1904. The April 21, 1904 Act funded the necessary surveys and postponed opening again, to March 10, 1905. The March 3, 1905 Act expressly repealed the south-of-Strawberry location restriction and postponed opening until September 1, 1905, unless the President chose an earlier date. It prescribed homestead and townsite disposition by presidential proclamation, barred settlement, occupation or entry except as the proclamation prescribed during the first sixty days, and directed cash disposal of land remaining after five years, in parcels of no more than 640 acres to one person. It retained the earlier sale-proceeds arrangement but did not repeat the public-domain phrase or expressly repeal it generally. The July 14 proclamation recited the earlier restoration instruction and opened the lands under the prescribed entry arrangements on August 28, 1905. Congress never obtained the required majority consent; the later statutory authority to proceed without it therefore matters.
-
-All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
-
-#### Judgment
-
-The judgment of the Supreme Court of Utah is affirmed, 6–3.
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Reservation boundary and resulting territorial jurisdiction in this prosecution | Affirm, 6–3 | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Stone-Zsela, Blackmun, Souter | Utah's reinstatement of the conviction stands; dissent would reverse and remand to set aside the judgment resting on the rejected territorial premise |
-
-All nine leave the separate preclusion issue unadjudicated. No additional relief or general jurisdictional allocation is ordered.
-
-#### Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Thomas, Ginsburg | Affirmance | Entire bounded statutory construction, application and limits |
-| Dissent | Blackmun | Stone-Zsela, Souter | Reversal and remand | Entire statutory-sequence disagreement and confined remedy |
-
-#### Controlling Propositions and Authority
-
-##### Congressional diminishment and the jurisdiction asserted at Myton
-
-**Controlling proposition:** Congress diminished the Uintah Reservation as to the unallotted lands covered by the opening program: the 1902 operative direction restoring those lands to the public domain remained effective through the 1903–1905 amendments and implementation. Myton's location in that opened area is therefore outside the reservation on this record, and Utah may exercise the territorial criminal jurisdiction asserted over Hagen's offense; opening or fee ownership alone does not establish that result elsewhere.
-
-**Authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Thomas and Ginsburg. These six Justices adopt the statutory construction, its clear-intent basis and its application to this prosecution. There is a direct majority rationale; no fractured-opinion inference is necessary.
-
-**Controlling explanation:** The Court holds that the enactments must be read together. Solem requires congressional intent to diminish, gives statutory language primary weight, and resolves remaining ambiguity for the Indians. Its framework does not require a particular cession formula or fixed purchase payment. Rosebud shows that later implementation can preserve an earlier boundary decision. Here the 1902 restoration command has operative force beyond permission to sell. The later Acts postponed that program, supplied surveys and altered its implementation. The 1905 Act retained the proceeds arrangement and depended on the earlier allotment provisions. Its homestead and townsite restrictions can operate alongside restoration; its omission of the earlier phrase therefore does not establish repeal. Congress expressly repealed the geographic grazing restriction, further supporting this reading of the remaining provisions. Seymour and Mattz distinguish opening alone from an actual boundary change; this statutory sequence establishes the latter. Contemporary administrative understandings and subsequent settlement can corroborate that conclusion, but neither supplies congressional authority independently. The holding establishes the territorial premise for this Myton prosecution without deciding every parcel, retained tribal power or other category of Indian country.
-
-**Precedent treatment:**
-
-- Solem v. Bartlett, 465 U.S. 463: applies its clear-intent inquiry and unequal weighting of text, contemporaneous context and later treatment; distinguishes its nonoperative public-domain reference from the surviving operative command here.
-- Rosebud Sioux Tribe v. Kneip, 430 U.S. 584: applies statutory continuity across a sequence of enactments and preserves the rule that no particular formula or fixed payment is indispensable.
-- Seymour v. Superintendent, 368 U.S. 351: preserves the distinction between opening and boundary change and the rule that fee ownership within retained boundaries does not itself remove Indian-country status.
-- Mattz v. Arnett, 412 U.S. 481: preserves the need for congressional diminishment beyond mere sale and settlement; this sequence supplies the additional direction.
-- DeCoteau v. District County Court, 420 U.S. 425: preserves clear congressional cession as sufficient evidence without making its precise words or payment structure mandatory.
-- South Dakota v. Bourland, June 14, 1993: preserves its particular displacement of exclusion-derived regulation and its separate residual-authority inquiry; it does not itself establish reservation boundaries.
-- Negonsott v. Samuels, February 24, 1993: preserves its express Kansas-specific criminal authorization; it supplies no independent Utah authorization within Indian country.
-- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves the distinct §1151 categories and the need to determine actual Indian-country status.
-
-#### Limits and Questions Not Reached
-
-The collateral-estoppel issue arising from Ute Indian Tribe v. Utah was omitted from the petition and expressly disavowed by Hagen; the Court does not decide its merits. This case does not adjudicate private titles, all remaining trust or allotted lands, every tract of the larger Uintah and Ouray territory, unrelated tribal powers, or every sovereign's jurisdiction over every offense. The $70,064.48 payment is not relied upon as a purchase of the surplus land. Later population and state administration do not independently change boundaries.
-
-#### Precedent Treatment and Current-Law Effect
-
-No cited precedent is overruled. The Court leaves the merits of the disavowed preclusion theory unresolved.
-
-Effective February 23, 1994, the Court's construction of the Uintah opening enactments establishes diminishment for the opened area implicated by Myton and sustains the jurisdiction asserted in this prosecution. Solem's existing clear-intent inquiry remains the governing method. The decision rejects a mandatory cession-wording or sum-certain-payment requirement without weakening the rule that opening, alienation or demographic change alone is insufficient. It supplies no universal rule assigning all fee parcels to state jurisdiction and does not displace the separate retained powers and Indian-country categories recognized in Bourland and Sac and Fox.
+This preserved, fairly included habeas limitation bars relief based on a noncapital offender-status extension not dictated at January 2, 1986 finality and satisfying neither then-recognized exception. It does not establish that double jeopardy never applies in noncapital sentencing, make every preserved defense fairly included, permit every repeated proof attempt, or abolish a Teague exception. Ordinary sentence enhancements are not assumed to increase every applicable maximum: these class-A ranges were unchanged. The Court leaves constitutional merits and other unresolved claims open.
 
 #### Separate Positions Relevant to the Decision
 
-Blackmun dissents, joined by Chief Justice Stone-Zsela and Souter. The dissent would reverse the Utah Supreme Court and remand for disposition of the prosecution consistently with the absence of the asserted territorial jurisdiction. Its disagreement concerns the application of Solem's requirement of clear congressional intent, not Congress's power to act or an indispensable wording or payment formula.
+Stevens dissents, joined by no other Justice. He treats Teague's historical-dictation and exception inquiries as independent questions omitted from the petition's stated question. Under Yee and Izumi, prior assertion, briefing and an antecedent relationship do not by themselves supply fair inclusion or exceptional circumstances. Defining the question solely by the identity of the writ would allow almost any distinct defense into the case. His own preference for greater flexibility in Izumi does not relieve the Court of applying its adopted presentation rule evenhandedly.
 
-The 1902 restoration language is substantial evidence for the State and cannot be dismissed as an ordinary opening provision. The dissent nevertheless finds that the final 1905 enactment leaves the territorial consequence uncertain. Congress changed the manner of disposition, omitted the public-domain language from the operative opening directions, and expressly carried forward the use of proceeds for the Indians. The cross-references in the intervening Acts and the absence of an express general repeal support continuity, but do not remove the difference between continuing allotment and sale arrangements and clearly preserving a change in jurisdictional boundaries. The express repeal of the grazing-location restriction proves that Congress made that particular change; it does not conclusively settle the force of every omission elsewhere. The dissent neither treats the entire 1902 Act as repealed nor makes tribal consent after the 1903 authorization a continuing statutory prerequisite.
+On the presented merits, Stevens would affirm the conditional writ. Missouri required formal allegations, proof beyond reasonable doubt, findings and adversarial protections before persistent-offender status could remove the jury's ordinary sentencing constraint. The State offered no qualifying proof, even after the appellate invitation to supplement it. Bullington, Rumsey and the insufficiency-finality principle drawn from Burks support treating that failed adjudication as final. The unchanged class-A punishment range does not erase the concrete consequence of changing who controls the sentence. The first judge did not expressly acquit Bohlen of status; the appellate determination of evidentiary insufficiency supplies the asserted equivalent. Trial-error reversal would present a different issue.
 
-Seymour and Mattz establish that opening land to settlers is compatible with retained reservation boundaries. Rosebud supports the State's continuity argument, but the dissent distinguishes its established cession purpose from the ambiguity remaining in this sequence. Neither absence of a fixed purchase payment nor retained sale proceeds alone controls; the payment here settled separate claims. Under Solem, uncertainty after reading the enactments in context must be resolved for retained Indian rights.
-
-The administrative history does not supply the missing clarity. Inspector McLaughlin described removal of an outside boundary but also promised continuing agency protection and privileges; the proclamation cannot itself exercise Congress's boundary power. The later jurisdictional history includes competing tribal and federal assertions, and non-Indian settlement cannot amend an Act. The dissent gives such evidence its subordinate role rather than categorically excluding it. Section 1151 does not make a fee patent within retained boundaries dispositive. Reversal on this territorial ground would leave private titles and any other sovereign's lawful prosecution undisturbed. The dissent does not rely on the disavowed preclusion theory or claim that all surplus-land enactments preserve reservations.
+Alternatively, Stevens regards this confined application as dictated by the existing trial-like-acquittal principle, rather than new merely because the sentence is noncapital. That is not a second route under a Teague exception: if classified as new, he identifies neither a substantive-punishment exclusion nor a watershed accuracy rule. His proposed disposition would preserve conditional relief against the invalid renewed status adjudication, while leaving lawful sentencing without retrying the failed allegation possible. It would not acquit the robberies, impose a replacement term, invent a new release deadline or create a freestanding constitutional right to jury sentencing. These views are noncontrolling.
 
 #### Source Notes
 
-The enactments and procedural record appear in the [United States Reports, 510 U.S. 399](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510399/usrep510399.pdf); the judgment below is 858 P.2d 925. The legal account paraphrases the statutes and verified record. The separate preclusion issue was expressly disavowed and supplies no alternative ground.
+The proceedings and statutory safeguards are supported by [official United States Reports, 510 U.S. 383](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510383/usrep510383.pdf) and the [Eighth Circuit judgment, 979 F.2d 109](https://static.case.law/f2d/979/html/0109-01.html). Persistent-offender status required two or more felonies committed at different times, proved beyond reasonable doubt. For these class-A robberies it changed sentencing authority, not the ten-to-thirty-year-or-life range; both sentencings produced three consecutive fifteen-year terms. Finality was January 2, 1986, after the certiorari period and holiday adjustment. The earlier opinion's shorthand date and generalized enhancement language do not alter those particulars. The reports support the petition-presentation account; no independently recovered complete petition or unreported finding is claimed.
 
 #### Mandate, Remedy, and Stage
 
-The conviction reinstated by the Utah Supreme Court remains in place. No merits remand, title adjudication, damages award or order reallocating all jurisdiction in the region issues. Proceedings implementing the affirmed judgment remain for the Utah courts.
+The Eighth Circuit's conditional-habeas direction on this claim is reversed. Proceedings implementing the mandate must respect the nonretroactivity bar and the reserved merits. The Court directs no new evidentiary hearing, State proof opportunity, release deadline or replacement sentence and leaves the robbery convictions otherwise undisturbed.
 
-**End of entry: Hagen v. Utah, merits decision, February 23, 1994.**
+**End of entry: Caspari v. Bohlen, merits decision, February 23, 1994.**
 
 ---
+

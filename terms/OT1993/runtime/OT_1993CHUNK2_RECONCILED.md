@@ -103,7 +103,7 @@ The common appointment portion has eight non-Stone joins at the stated level; it
 
 Durable file freeze September 27, 2026, under the user's prohibition on git commands. No repository commit is claimed. This context is physically separate from neutral modeling and has received no Stone supplement or combined brief. Inputs are the immutable A2 commitments; neutral packet and sanitized source facts; the historical comparator; complete official PDF texts; and the actual entering-law and completed chunk1 public-authority slices. The original commitments remain preserved. Research cutoff is immediately before January 24, 1994. These three cases share the same uncoordinated daily baseline and do not supply precedent to each other.
 
-[Official-source validation](OT_1993CHUNK2_SOURCE_VALIDATION.md) supplies the complete historical opinion inventory and research limits. Authorship in that inventory does not assign this Court's opinions. This handoff determines only non-Stone commitments and compatibility boundaries. A1's different subject matters supply no changed substantive premise here.
+[Official-source validation](../freeze/OT_1993CHUNK2_SOURCE_VALIDATION.md) supplies the complete historical opinion inventory and research limits. Authorship in that inventory does not assign this Court's opinions. This handoff determines only non-Stone commitments and compatibility boundaries. A1's different subject matters supply no changed substantive premise here.
 
 ## 15. Albright v. Oliver
 
@@ -425,7 +425,7 @@ This compatibility result requires the actual opinion to preserve the proposal's
 
 Status: immutable no-Stone reconciliation handoff. This completes only matters 19 and 24; the B-unaffected reconciliation continues to govern Hagen, Meyer and Elder. The original B freeze and clean targeted addendum remain unchanged. Stone's supplement, combined briefs and private current assembly records were not received or read. No author or Stone vote is selected. No version-control command was run.
 
-Inputs: [original B commitments](OT_1993CHUNK2_COMMITMENTS_B.md), [clean targeted addendum](OT_1993CHUNK2_COMMITMENTS_B_TARGETED_ADDENDUM.md), [13-21 source validation](OT_1993CHUNK2_SOURCE_VALIDATION.md), [22-24 source validation](OT_1993CHUNK2_SOURCE_VALIDATION_22_24.md), the sanitized facts, and authorized comparator. Source-context exposure is authorized for reconciliation and is not attributed to the clean model. Newly noticed unchanged facts are distinguished from changed premises in the simulated world.
+Inputs: [original B commitments](OT_1993CHUNK2_COMMITMENTS_B.md), [clean targeted addendum](OT_1993CHUNK2_COMMITMENTS_B_TARGETED_ADDENDUM.md), [13-21 source validation](../freeze/OT_1993CHUNK2_SOURCE_VALIDATION.md), [22-24 source validation](../freeze/OT_1993CHUNK2_SOURCE_VALIDATION_22_24.md), the sanitized facts, and authorized comparator. Source-context exposure is authorized for reconciliation and is not attributed to the clean model. Newly noticed unchanged facts are distinguished from changed premises in the simulated world.
 
 The targeted comparison covers actual public Itel, Graham, Gilmore, Izumi and Schiro; historical Itel's Scalia separate writing; and the official Northwest and Caspari texts. The merits cutoffs are January 24, 1994 for Northwest and February 23, 1994 for Caspari. Caspari's old-law inquiry uses January 2, 1986. Current law informs the method, not the contents of the prefinality legal landscape.
 

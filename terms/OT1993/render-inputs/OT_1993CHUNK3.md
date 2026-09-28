@@ -358,100 +358,6 @@ The [official United States Reports account, 510 U.S. 540](https://tile.loc.gov/
 
 ---
 
-<!-- source-record: United_States_v_Granderson_merits_1994-03-22.md -->
-## Event
-
-United States v. Granderson, No. 92-1662. Merits decision, March 22, 1994. Argued January 10, 1994. On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit, 969 F.2d 980. The United States seeks restoration of a twenty-month prison term imposed after revocation of probation for controlled-substance possession. The question concerns the kind of sentence required and the minimum and maximum authorized by former 18 U.S.C. §3565(a)'s drug-possession proviso when the original sentence was probation.
-
-Render form: full — the distinct judgment, proposition, and opinion relationships and material limits call for structured treatment.
-
-Granderson pleaded guilty to destruction of mail. The original Guidelines imprisonment range was zero to six months; the offense statute's maximum was five years. The original sentence was sixty months' probation and a $2,000 fine. Following a positive cocaine test and a possession finding, the district court revoked probation and imposed twenty months' imprisonment. The Eleventh Circuit upheld revocation, vacated the prison term and ordered release after more than eleven months had been served. No lawful departure beyond the original six-month prison ceiling is established. Payment or discharge of the fine is not established. No additional affirmative fine, probation or supervised-release relief is decided.
-
-Former §3565(a) permits a court, after the Rule 32.1 hearing and consideration of applicable §3553(a) factors, either to continue probation with or without extending its term or modifying or enlarging its conditions, or to revoke probation and impose another sentence available under subchapter A at the initial sentencing. Its drug-possession proviso states:
-
-> Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.
-
-Former §3583(g), enacted alongside that proviso, addresses supervised release and expressly requires termination and service in prison of not less than one-third of the supervised-release term when the defendant is found in possession of a controlled substance. Those express prison words are absent from §3565(a); its custodial consequence is the Court's contextual construction, not a quotation of an express prison command. Section 3583(e)(3)'s distinct limits and proof rule are not imported into §3565(a). Probation is a statutory sentence under §§3551 and 3561; the Court does not revive a suspended-sentence fiction. The enacted probation restrictions remain: no probation for a Class A or B felony, an offense expressly excluding probation, or a defendant sentenced at the same time to imprisonment for the same or a different nonpetty offense. These provisions do not establish a departure or change Granderson's undisputed eligibility.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. All nine were seated at both milestones; no case-specific recusal or other nonparticipation is established.
-
-## Public Action
-
-The Court affirms the Eleventh Circuit by eight votes to one. The twenty-month prison sentence remains vacated and the completed release order remains in force; probation revocation is undisturbed.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Sentence limitation and release | Affirmed, 8–1 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg | Thomas | Leave twenty months vacated and release in force; no new custodial sentencing hearing, renewed probation, replacement fine or separate change to supervised release is ordered. Thomas would reverse to permit restoration of the challenged twenty-month prison term. |
-| Probation revocation | Undisturbed | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No Justice seeks disturbance | Possession and lawful revocation are outside the contested sentence limitation. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Ginsburg | Stone-Zsela, Blackmun, Stevens, O'Connor, Souter | Affirm | Entire opinion: contextual mandatory custody, ordinary two-to-six-month range, residual lenity and bounded remedy. |
-| Concurrence in the judgment | Scalia | No other Justice | Affirm | Permissible probation; whole actual sentence including fine supplies the minimum comparator; served prison custody satisfies it on this record. |
-| Concurrence in the judgment | Kennedy | No other Justice | Affirm | Permissible probation; revoked probation component supplies minimum comparator; no mandatory two-month prison floor. |
-| Dissent | Thomas | No other Justice | Would reverse | Mandatory imprisonment measured by one-third of actual probation; would permit restoration of twenty months. |
-
-## Holdings
-
-### The former proviso requires two to six months’ imprisonment on this record
-
-**Controlling proposition:** When controlled-substance possession triggers former §3565(a)'s mandatory probation-revocation proviso on an ordinary record with an initially available zero-to-six-month Guidelines imprisonment range and no established lawful departure, the replacement imprisonment term must be at least one-third of the range's six-month maximum and no more than that maximum: two to six months here. The sixty months of probation actually imposed do not become sixty equivalent prison months; materially different original ranges and downward-departure situations are not resolved by this calculation.
-
-**Authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter; six Justices support this complete construction, independently of Scalia's and Kennedy's judgment concurrences.
-
-**Controlling explanation:** The Court gives the mandatory revocation provision a custodial consequence while reading its measure within the sentencing scheme. Ordinary §3565(a) distinguishes continuing probation from revocation and another initially available sentence. That context supports imprisonment after the specified drug violation, although the proviso does not expressly use the word prison. The original sentencing range supplies a commensurable measure: its upper end yields a definite one-third minimum without erasing custody by using the zero-month lower end. The same available range limits the maximum here. The Government's reading instead treats sixty months of probation as sixty months of imprisonment, producing twenty months despite an ordinary six-month ceiling. Congress's differently worded supervised-release provision does not establish that exchange rate. R. L. C. recognizes the Guidelines' role in lawful sentencing limits without deciding this separate minimum; Williams forbids an invented departure. The Court acknowledges that its construction resolves defective drafting through context. It does not prescribe the denominator when a lawful downward departure produced probation from a substantially higher range or alter the original unrevoked fine.
-
-**Precedent treatment:**
-- United States v. R. L. C., 503 U.S. 291 (1992): its recognition of a lawful Guidelines ceiling informs the distinct revocation context; its juvenile minimum and interpretive divisions are not transplanted.
-- Williams v. United States, 503 U.S. 193 (1992): preserved for actual lawful departure grounds; no departure is invented to sustain twenty months.
-- Stinson v. United States, 508 U.S. 36 (1993): preserved; commentary cannot override a federal statute or resolve the proviso by contrary text.
-
-### Residual penal uncertainty defeats the larger probation-to-prison conversion
-
-**Controlling proposition:** After examination of the former proviso's text, sentencing structure and companion enactment, any remaining genuine uncertainty about the Government's proposed conversion of sixty probation months into a twenty-month prison minimum must be resolved against that greater punishment. This residual-lenity ground independently rejects the Government's construction; it neither makes every competing reading ambiguous nor supplies a universal lowest-number rule for different sentencing records.
-
-**Authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter; the same six Justices adopt this independently sufficient reason to reject the Government's twenty-month construction.
-
-**Controlling explanation:** The Court does not start with a preferred punishment and invoke lenity to obtain it. It first examines the enacted proviso, the ordinary revocation alternatives, probation's statutory status and the express prison command in the contemporaneous supervised-release provision. Those features leave the Government's equation of unlike sanctions insufficiently clear. Bass preserves Congress's responsibility to authorize criminal punishment and provide fair notice; Bifulco applies that restraint to the kind and extent of a penal consequence. Chapman cautions that a rival argument alone does not establish ambiguity. Here the uncertainty arises from the statutory measures themselves and survives the ordinary interpretive inquiry. Ratzlaf's residual-lenity principle therefore supports rejecting the larger conversion without pretending that it dictates every sentencing result. The Court's contextual two-to-six-month construction supplies the operative range on this record. It neither forbids properly authorized punishment in a different scheme nor resolves the distinct problem of probation following a substantial downward departure from a much higher range.
-
-**Precedent treatment:**
-- United States v. Bass, 404 U.S. 336 (1971): applied for fair warning and clear legislative authorization of punishment.
-- Bifulco v. United States, 447 U.S. 381 (1980): applied to genuine uncertainty about the authorized penal consequence.
-- Chapman v. United States, 500 U.S. 453 (1991): preserved; interpretive disagreement alone does not activate lenity.
-- Ratzlaf v. United States, January 11, 1994: its residual-lenity principle is applied to this distinct statutory ambiguity, without importing its offense-specific knowledge requirement.
-
-## Precedent Treatment
-
-The holding-specific treatment above controls. No Supreme Court precedent is overruled. R. L. C., Williams and Stinson retain separate statutory-ceiling, departure and commentary functions; the Court does not merge them into a freestanding sentencing power. Bass, Bifulco, Chapman and Ratzlaf govern the residual interpretive question at the limits stated.
-
-## Law After Decision
-
-Effective March 22, 1994, the former drug-possession proviso requires revocation and a custodial sentence within two to six months on this ordinary zero-to-six-month Guidelines record. A materially different original range requires its own lawful calculation. The Court does not choose a denominator or a universal minimum for probation imposed after a downward departure from a much higher otherwise applicable range, nor declare lenity unavailable when such a construction would produce a sentence longer than the original probation term. Williams still requires an actually supported lawful departure; Stinson still subordinates commentary to statute. The Court does not convert probation months into prison months, annul an unrevoked fine, alter supervised-release law or apply a later amendment.
-
-## Separate Writings
-
-Justice Scalia concurs in the judgment. Section 3565(a) uses the broad verb sentence, and Congress's companion supervised-release provision shows that it knew how to require prison expressly. He would permit a new eligible probation sentence. The original-sentence measure includes the entire actual judgment—sixty months' probation and a $2,000 fine—so the minimum comparator includes twenty months' probation and one-third of the fine. He recognizes that this requires comparing unlike punishments. On this record, eleven months' imprisonment meets or exceeds that combined severity; the five months beyond the ordinary six-month prison ceiling exceed the severity represented by the fractional fine. This is a case-specific legal comparison, not a dollar-to-day conversion rule, a finding of payment, a monetary credit or discharge order. The Government's demand for twenty prison months therefore fails without new probation or a new fine.
-
-Justice Kennedy also concurs in the judgment but uses a different referent. Revocation terminates the existing probation without necessarily prescribing the new kind of sentence. The proviso's priority over other parts of §3565 and the express prison language in §3583(g) permit a new eligible probation sentence. Only probation is revoked, so one-third of the actual sixty-month probation component supplies a twenty-month probation minimum; the unrevoked fine does not enter that denominator. Otherwise available imprisonment may be imposed if it is more severe than that minimum, but it is not mandatory under his reading. The eleven months already served exceed both that comparator and the ordinary prison ceiling here. He affirms release without ordering a new probation term. He rejects the Court's two-month mandatory prison floor and Scalia's whole-sentence measure.
-
-Justice Thomas dissents. The revocation structure requires imprisonment, and original sentence refers to the probation actually imposed, not to a Guidelines prison sentence never pronounced. The proviso's overriding language makes twenty months the minimum and displaces an inconsistent ordinary six-month ceiling. He treats the scheme as sufficiently clear and therefore finds no remaining ambiguity for lenity. He would restore the challenged twenty-month sentence through reversal of the court of appeals. He orders no new fine, additional punishment beyond that term or broader maximum determination.
-
-## Procedure After Action
-
-Supreme Court review is complete. The Eleventh Circuit's vacatur of the twenty-month term and release order remain operative, and revocation remains intact. The Court orders no new sentencing proceeding or substitute sanction; the original fine's payment status and unpresented monetary implementation are undecided.
-
-## Source Notes
-
-[Official report, 511 U.S. 39–78](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511039/usrep511039.pdf), supports the dates, docket, original probation and fine, reported range, statutory text and competing constructions. [Eleventh Circuit, 969 F.2d 980](https://static.case.law/f2d/969/cases/0980-01.json), supplies the revocation, sentence vacatur and release posture. The former proviso and companion provision are verified in the official 1988 Code and Supplement IV; the proviso quotation retains its possession trigger, cross-reference and notwithstanding clause. [United States v. Harrison, 815 F. Supp. 494](https://static.case.law/f-supp/815/cases/0494-01.json), identifies the materially different downward-departure issue reserved here, without supplying a rule adopted in this case. The original sentencing judgment and fine-payment records were not independently obtained; no payment, remission or discharge is inferred.
-
----
-
 <!-- source-record: Victor_v_Nebraska_and_Sandoval_v_California_merits_1994-03-22.md -->
 ## Event
 
@@ -566,6 +472,100 @@ Supreme Court review of the two instruction questions is complete. The Nebraska 
 ## Source Notes
 
 [Official report, 511 U.S. 1–38](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511001/usrep511001.pdf), supplies dates, dockets, procedural history and the complete charges, including their express qualifications. [Nebraska opinion, 242 Neb. 306](https://static.case.law/neb/242/cases/0306-01.json), and [California opinion, 4 Cal.4th 155](https://static.case.law/cal-4th/4/cases/0155-01.json), supply the judgments under review. The issue description is reconstructed from the reported controversy, not represented as authenticated verbatim grant language. Full trial records and every brief were not independently obtained; no additional finding, concession or unrelated capital claim is assumed.
+
+---
+
+<!-- source-record: United_States_v_Granderson_merits_1994-03-22.md -->
+## Event
+
+United States v. Granderson, No. 92-1662. Merits decision, March 22, 1994. Argued January 10, 1994. On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit, 969 F.2d 980. The United States seeks restoration of a twenty-month prison term imposed after revocation of probation for controlled-substance possession. The question concerns the kind of sentence required and the minimum and maximum authorized by former 18 U.S.C. §3565(a)'s drug-possession proviso when the original sentence was probation.
+
+Render form: full — the distinct judgment, proposition, and opinion relationships and material limits call for structured treatment.
+
+Granderson pleaded guilty to destruction of mail. The original Guidelines imprisonment range was zero to six months; the offense statute's maximum was five years. The original sentence was sixty months' probation and a $2,000 fine. Following a positive cocaine test and a possession finding, the district court revoked probation and imposed twenty months' imprisonment. The Eleventh Circuit upheld revocation, vacated the prison term and ordered release after more than eleven months had been served. No lawful departure beyond the original six-month prison ceiling is established. Payment or discharge of the fine is not established. No additional affirmative fine, probation or supervised-release relief is decided.
+
+Former §3565(a) permits a court, after the Rule 32.1 hearing and consideration of applicable §3553(a) factors, either to continue probation with or without extending its term or modifying or enlarging its conditions, or to revoke probation and impose another sentence available under subchapter A at the initial sentencing. Its drug-possession proviso states:
+
+> Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.
+
+Former §3583(g), enacted alongside that proviso, addresses supervised release and expressly requires termination and service in prison of not less than one-third of the supervised-release term when the defendant is found in possession of a controlled substance. Those express prison words are absent from §3565(a); its custodial consequence is the Court's contextual construction, not a quotation of an express prison command. Section 3583(e)(3)'s distinct limits and proof rule are not imported into §3565(a). Probation is a statutory sentence under §§3551 and 3561; the Court does not revive a suspended-sentence fiction. The enacted probation restrictions remain: no probation for a Class A or B felony, an offense expressly excluding probation, or a defendant sentenced at the same time to imprisonment for the same or a different nonpetty offense. These provisions do not establish a departure or change Granderson's undisputed eligibility.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. All nine were seated at both milestones; no case-specific recusal or other nonparticipation is established.
+
+## Public Action
+
+The Court affirms the Eleventh Circuit by eight votes to one. The twenty-month prison sentence remains vacated and the completed release order remains in force; probation revocation is undisturbed.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Sentence limitation and release | Affirmed, 8–1 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg | Thomas | Leave twenty months vacated and release in force; no new custodial sentencing hearing, renewed probation, replacement fine or separate change to supervised release is ordered. Thomas would reverse to permit restoration of the challenged twenty-month prison term. |
+| Probation revocation | Undisturbed | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No Justice seeks disturbance | Possession and lawful revocation are outside the contested sentence limitation. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Ginsburg | Stone-Zsela, Blackmun, Stevens, O'Connor, Souter | Affirm | Entire opinion: contextual mandatory custody, ordinary two-to-six-month range, residual lenity and bounded remedy. |
+| Concurrence in the judgment | Scalia | No other Justice | Affirm | Permissible probation; whole actual sentence including fine supplies the minimum comparator; served prison custody satisfies it on this record. |
+| Concurrence in the judgment | Kennedy | No other Justice | Affirm | Permissible probation; revoked probation component supplies minimum comparator; no mandatory two-month prison floor. |
+| Dissent | Thomas | No other Justice | Would reverse | Mandatory imprisonment measured by one-third of actual probation; would permit restoration of twenty months. |
+
+## Holdings
+
+### The former proviso requires two to six months’ imprisonment on this record
+
+**Controlling proposition:** When controlled-substance possession triggers former §3565(a)'s mandatory probation-revocation proviso on an ordinary record with an initially available zero-to-six-month Guidelines imprisonment range and no established lawful departure, the replacement imprisonment term must be at least one-third of the range's six-month maximum and no more than that maximum: two to six months here. The sixty months of probation actually imposed do not become sixty equivalent prison months; materially different original ranges and downward-departure situations are not resolved by this calculation.
+
+**Authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter; six Justices support this complete construction, independently of Scalia's and Kennedy's judgment concurrences.
+
+**Controlling explanation:** The Court gives the mandatory revocation provision a custodial consequence while reading its measure within the sentencing scheme. Ordinary §3565(a) distinguishes continuing probation from revocation and another initially available sentence. That context supports imprisonment after the specified drug violation, although the proviso does not expressly use the word prison. The original sentencing range supplies a commensurable measure: its upper end yields a definite one-third minimum without erasing custody by using the zero-month lower end. The same available range limits the maximum here. The Government's reading instead treats sixty months of probation as sixty months of imprisonment, producing twenty months despite an ordinary six-month ceiling. Congress's differently worded supervised-release provision does not establish that exchange rate. R. L. C. recognizes the Guidelines' role in lawful sentencing limits without deciding this separate minimum; Williams forbids an invented departure. The Court acknowledges that its construction resolves defective drafting through context. It does not prescribe the denominator when a lawful downward departure produced probation from a substantially higher range or alter the original unrevoked fine.
+
+**Precedent treatment:**
+- United States v. R. L. C., 503 U.S. 291 (1992): its recognition of a lawful Guidelines ceiling informs the distinct revocation context; its juvenile minimum and interpretive divisions are not transplanted.
+- Williams v. United States, 503 U.S. 193 (1992): preserved for actual lawful departure grounds; no departure is invented to sustain twenty months.
+- Stinson v. United States, 508 U.S. 36 (1993): preserved; commentary cannot override a federal statute or resolve the proviso by contrary text.
+
+### Residual penal uncertainty defeats the larger probation-to-prison conversion
+
+**Controlling proposition:** After examination of the former proviso's text, sentencing structure and companion enactment, any remaining genuine uncertainty about the Government's proposed conversion of sixty probation months into a twenty-month prison minimum must be resolved against that greater punishment. This residual-lenity ground independently rejects the Government's construction; it neither makes every competing reading ambiguous nor supplies a universal lowest-number rule for different sentencing records.
+
+**Authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter; the same six Justices adopt this independently sufficient reason to reject the Government's twenty-month construction.
+
+**Controlling explanation:** The Court does not start with a preferred punishment and invoke lenity to obtain it. It first examines the enacted proviso, the ordinary revocation alternatives, probation's statutory status and the express prison command in the contemporaneous supervised-release provision. Those features leave the Government's equation of unlike sanctions insufficiently clear. Bass preserves Congress's responsibility to authorize criminal punishment and provide fair notice; Bifulco applies that restraint to the kind and extent of a penal consequence. Chapman cautions that a rival argument alone does not establish ambiguity. Here the uncertainty arises from the statutory measures themselves and survives the ordinary interpretive inquiry. Ratzlaf's residual-lenity principle therefore supports rejecting the larger conversion without pretending that it dictates every sentencing result. The Court's contextual two-to-six-month construction supplies the operative range on this record. It neither forbids properly authorized punishment in a different scheme nor resolves the distinct problem of probation following a substantial downward departure from a much higher range.
+
+**Precedent treatment:**
+- United States v. Bass, 404 U.S. 336 (1971): applied for fair warning and clear legislative authorization of punishment.
+- Bifulco v. United States, 447 U.S. 381 (1980): applied to genuine uncertainty about the authorized penal consequence.
+- Chapman v. United States, 500 U.S. 453 (1991): preserved; interpretive disagreement alone does not activate lenity.
+- Ratzlaf v. United States, January 11, 1994: its residual-lenity principle is applied to this distinct statutory ambiguity, without importing its offense-specific knowledge requirement.
+
+## Precedent Treatment
+
+The holding-specific treatment above controls. No Supreme Court precedent is overruled. R. L. C., Williams and Stinson retain separate statutory-ceiling, departure and commentary functions; the Court does not merge them into a freestanding sentencing power. Bass, Bifulco, Chapman and Ratzlaf govern the residual interpretive question at the limits stated.
+
+## Law After Decision
+
+Effective March 22, 1994, the former drug-possession proviso requires revocation and a custodial sentence within two to six months on this ordinary zero-to-six-month Guidelines record. A materially different original range requires its own lawful calculation. The Court does not choose a denominator or a universal minimum for probation imposed after a downward departure from a much higher otherwise applicable range, nor declare lenity unavailable when such a construction would produce a sentence longer than the original probation term. Williams still requires an actually supported lawful departure; Stinson still subordinates commentary to statute. The Court does not convert probation months into prison months, annul an unrevoked fine, alter supervised-release law or apply a later amendment.
+
+## Separate Writings
+
+Justice Scalia concurs in the judgment. Section 3565(a) uses the broad verb sentence, and Congress's companion supervised-release provision shows that it knew how to require prison expressly. He would permit a new eligible probation sentence. The original-sentence measure includes the entire actual judgment—sixty months' probation and a $2,000 fine—so the minimum comparator includes twenty months' probation and one-third of the fine. He recognizes that this requires comparing unlike punishments. On this record, eleven months' imprisonment meets or exceeds that combined severity; the five months beyond the ordinary six-month prison ceiling exceed the severity represented by the fractional fine. This is a case-specific legal comparison, not a dollar-to-day conversion rule, a finding of payment, a monetary credit or discharge order. The Government's demand for twenty prison months therefore fails without new probation or a new fine.
+
+Justice Kennedy also concurs in the judgment but uses a different referent. Revocation terminates the existing probation without necessarily prescribing the new kind of sentence. The proviso's priority over other parts of §3565 and the express prison language in §3583(g) permit a new eligible probation sentence. Only probation is revoked, so one-third of the actual sixty-month probation component supplies a twenty-month probation minimum; the unrevoked fine does not enter that denominator. Otherwise available imprisonment may be imposed if it is more severe than that minimum, but it is not mandatory under his reading. The eleven months already served exceed both that comparator and the ordinary prison ceiling here. He affirms release without ordering a new probation term. He rejects the Court's two-month mandatory prison floor and Scalia's whole-sentence measure.
+
+Justice Thomas dissents. The revocation structure requires imprisonment, and original sentence refers to the probation actually imposed, not to a Guidelines prison sentence never pronounced. The proviso's overriding language makes twenty months the minimum and displaces an inconsistent ordinary six-month ceiling. He treats the scheme as sufficiently clear and therefore finds no remaining ambiguity for lenity. He would restore the challenged twenty-month sentence through reversal of the court of appeals. He orders no new fine, additional punishment beyond that term or broader maximum determination.
+
+## Procedure After Action
+
+Supreme Court review is complete. The Eleventh Circuit's vacatur of the twenty-month term and release order remain operative, and revocation remains intact. The Court orders no new sentencing proceeding or substitute sanction; the original fine's payment status and unpresented monetary implementation are undecided.
+
+## Source Notes
+
+[Official report, 511 U.S. 39–78](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511039/usrep511039.pdf), supports the dates, docket, original probation and fine, reported range, statutory text and competing constructions. [Eleventh Circuit, 969 F.2d 980](https://static.case.law/f2d/969/cases/0980-01.json), supplies the revocation, sentence vacatur and release posture. The former proviso and companion provision are verified in the official 1988 Code and Supplement IV; the proviso quotation retains its possession trigger, cross-reference and notwithstanding clause. [United States v. Harrison, 815 F. Supp. 494](https://static.case.law/f-supp/815/cases/0494-01.json), identifies the materially different downward-departure issue reserved here, without supplying a rule adopted in this case. The original sentencing judgment and fine-payment records were not independently obtained; no payment, remission or discharge is inferred.
 
 ---
 
@@ -827,6 +827,96 @@ The [Ninth Circuit opinion, 982 F.2d 386](https://static.case.law/f2d/982/html/0
 
 ---
 
+<!-- source-record: JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md -->
+## Event
+
+J.E.B. v. Alabama ex rel. T.B.; No. 92-1239. Merits decision, 1994-04-19. Argued November 2, 1993; decided April 19, 1994. On certiorari to the Alabama Court of Civil Appeals, 606 So.2d 156 (1992), in the State’s paternity and child-support action. The question is whether equal protection prohibits the State’s purposeful use of sex in peremptory jury strikes. The lower court rejected that legal claim; unrelated blood-chain and DNA-evidence issues are outside this review.
+
+Render form: full — Stone joins the prohibition that Rehnquist opposed, changing the controlling coalition; the exception for Stone casting Rehnquist’s vote does not apply.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. Nine participated; no recusal or nonparticipation is recorded.
+
+## Public Action
+
+The Court reverses and remands, 7–2. Justice Blackmun delivers the Opinion of the Court, joined by Stone, Stevens, O’Connor, Souter and Ginsburg. O’Connor concurs separately. Kennedy concurs in the judgment. Scalia dissents, joined by Thomas.
+
+## Judgment & Remedy
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Rejection of the sex-discrimination selection claim | Reversed and remanded, 7–2 | Stone, Blackmun, Stevens, O’Connor, Kennedy, Souter, Ginsburg | Scalia, Thomas | Apply the staged inquiry; if the strikes cannot be sustained on valid nondiscriminatory grounds, set aside the verdict and provide a lawfully selected new trial. |
+
+The two dissenters would affirm. The Court does not decide paternity or prescribe the jury’s composition.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relation to judgment | Scope |
+|---|---|---|---|---|
+| Opinion of the Court | Blackmun | Stone, Stevens, O’Connor, Souter, Ginsburg | Reversal and remand | Both holdings, explanations and remedy; six full joins. |
+| Concurrence | O’Connor | None | Joins Court opinion and judgment | Practical costs and private-party attribution reservations. |
+| Concurrence in the judgment | Kennedy | None | Reversal and remand | Operative prohibition and inquiry on individual-citizenship grounds; no full-opinion join. |
+| Dissent | Scalia | Thomas | Would affirm | Opposition to extending the individual-strike prohibition to sex. |
+
+## Holdings
+
+### Purposeful sex discrimination in state peremptory strikes
+
+**Controlling proposition:** The State may not strike a prospective juror because of sex or the assumption that sex itself predicts competence or impartiality. Under the equal-protection requirement that a sex classification substantially serve an important governmental objective, a generalized prediction that men will favor the alleged father does not justify this exclusion; genuine individual, sex-neutral reasons remain available.
+
+**Authority:** Blackmun’s Opinion of the Court, joined by Stone, Stevens, O’Connor, Souter and Ginsburg; six Justices adopt the rule and explanation. Kennedy concurs in the judgment and independently supports the operative prohibition on individual-right grounds.
+
+**Controlling explanation:** The Court holds that a citizen’s sex cannot substitute for individual qualification to serve as a juror. Craig and Hogan require an important objective substantially advanced by a sex classification and protect men as well as women. Batson provides the prohibition on discriminatory peremptories in the racial setting; the Court extends its protection here through sex’s own heightened scrutiny. Powers, Edmonson and McCollum explain the prospective juror’s independent equal-protection interest. Alabama itself exercised these strikes, so its state action is direct. An adversary’s wish for sympathetic jurors cannot justify excluding a citizen on a generalized expectation of male or female views. Even a population-level correlation does not establish this individual juror’s partiality, and voir dire permits inquiry into actual attitudes. The decision does not assume that men and women have identical experiences, abolish peremptory challenges, or require proportional representation. Taylor’s fair-cross-section principle concerns a distinct guarantee; the all-female result is evidence to consider, not itself the constitutional violation. Whether sex requires a stricter classification rule is unnecessary to this decision.
+
+**Precedent treatment:**
+
+- Craig v. Boren, 429 U.S. 190 — applied: sex classifications require an important objective and substantial relationship.
+- Mississippi University for Women v. Hogan, 458 U.S. 718 — applied to unjustified sex stereotypes and equal protection of men.
+- Batson v. Kentucky, 476 U.S. 79 — extended to purposeful sex-based state peremptories; its racial rule remains intact.
+- Powers v. Ohio, 499 U.S. 400 — applied for the excluded juror’s individual interest and the litigant’s ability to challenge discriminatory selection.
+- Edmonson v. Leesville Concrete Co., 500 U.S. 614, and Georgia v. McCollum — relied on for juror equality within selection; the private-party sex-strike question is not decided.
+- Taylor v. Louisiana, 419 U.S. 522 — distinguished: no proportionally representative petit jury is required by this decision.
+
+### Staged proof and the remand
+
+**Controlling proposition:** A party challenging a peremptory strike as purposeful sex discrimination must first make the required prima facie showing; the striking party must then give a genuine sex-neutral explanation, which need not justify a challenge for cause. The trial court decides intentional discrimination with the ultimate burden on the objector; if Alabama cannot sustain the challenged strikes under that inquiry, the verdict must be set aside and a new trial held before a lawfully selected jury.
+
+**Authority:** Blackmun’s six-Justice Opinion of the Court adopts the procedure and conditional remedy; Kennedy independently agrees with the operative inquiry and remand, producing seven votes for reversal and remand.
+
+**Controlling explanation:** The Court preserves the stages of proof rather than treating every strike as presumptively unlawful. Batson supplies the inference, explanation and ultimate-purpose inquiry; McCollum preserves the distinction between producing a neutral reason and carrying the ultimate burden. Alabama used nine of its ten strikes against men, and the trial court rejected the objection as legally unavailable. That categorical ruling must be reversed so the proper inquiry can occur. A juror’s expressed view about disputed paternity evidence can justify exclusion; an assumption that men will favor the alleged father cannot. Occupation, family experience and demeanor may offer individual reasons, but they must be assessed in context, including whether comparable retained jurors were treated differently. A reason correlated with sex is not automatically forbidden, nor does a neutral label defeat proof of pretext. The Court supplies no explanation or credibility finding. The lower court must perform the inquiry and provide a new trial if lawful selection cannot be sustained; paternity and the independent evidence questions are not decided here.
+
+**Precedent treatment:**
+
+- Batson v. Kentucky, 476 U.S. 79 — its staged purpose inquiry is extended without requiring a cause-level explanation or an explanation for every strike.
+- Georgia v. McCollum — its distinction between production and the objector’s ultimate persuasion burden is preserved.
+
+## Precedent Treatment
+
+Batson’s protection is extended to purposeful sex-based state strikes through Craig and Hogan’s existing heightened scrutiny. Powers, Edmonson and McCollum supply juror equality and proof principles; their racial holdings remain binding. Taylor does not impose a proportional petit-jury requirement. No strict-scrutiny rule, private-party sex-strike holding or general abolition of peremptories is adopted.
+
+## Law After Decision
+
+The State cannot use sex itself as a substitute for an individual assessment in peremptory selection. The existing prima facie, neutral-explanation and ultimate-purpose stages now govern this sex-discrimination claim. An individual characteristic correlated with sex may support a strike if it is genuine and not a pretext or proxy. The final jury’s composition alone is not the violation, and a permissible explanation need not establish cause.
+
+## Separate Writings
+
+O’Connor concurs while joining the Court’s opinion. Hogan’s heightened scrutiny does not permit Alabama’s express sex classification, even if group experiences sometimes differ. She emphasizes peremptories’ practical value and the costs of expanded pretext litigation. Genuine individual explanations remain permissible and need not amount to cause. She preserves her disagreement with attributing private litigants’ jury choices to the State; Alabama’s direct state action makes that issue unnecessary here. Her reservations do not qualify her join in this decision’s state-strike prohibition or staged inquiry.
+
+Kennedy concurs in the judgment and agrees with the operative prohibition and inquiry. Powers and Edmonson supply his account of each citizen’s right to participate without exclusion by group identity. Jurors serve as individuals who must obey the instructions impartially; representative selection prevents discriminatory exclusion, rather than authorizing jurors to carry group prejudice into deliberation. He does not join a rationale resting on group representation or treating presumed group perspectives as the source of the constitutional right. His individual-right ground supports reversal and the same bounded remand, without prescribing jury proportions or resolving private-party sex strikes.
+
+Scalia dissents, joined by Thomas. They accept that sex classifications ordinarily receive heightened review but would not extend Batson’s individual-strike model to this traditional adversarial selection device. Peremptories permit predictions that do not satisfy cause, and they regard the extension as impairing that function while increasing uncertain pretext litigation. Their Powers and McCollum objections supply the institutional concern. They would affirm rejection of this sex-strike claim rather than require explanation proceedings. They do not deny Alabama’s direct state action, endorse excluding men from the venire, or overrule existing racial-selection law. Their position supplies no separate harmless-error holding or decision on the paternity evidence.
+
+## Procedure After Action
+
+The case returns to the Alabama courts for the proper jury-selection inquiry and the conditional new-trial remedy. Independent evidence issues and paternity remain for their proper proceedings. There is no retained Supreme Court proceeding, prescribed quota or automatic finding about an explanation the trial court has not assessed.
+
+## Source Notes
+
+The [Alabama Court of Civil Appeals opinion](https://static.case.law/so2d/606/html/0156-01.html) supplies the paternity posture, preserved objection and separate evidentiary issues. The [official report, 511 U.S. 127–163](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511127/usrep511127.pdf), supplies the venire counts, state strikes, chronology and competing equal-protection arguments. The selection facts establish the setting for the inquiry; they do not establish a neutral explanation, credibility determination or paternity finding by this Court.
+
+---
+
 <!-- source-record: Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md -->
 ## Event
 
@@ -942,96 +1032,6 @@ The case returns through the Tenth Circuit for further proceedings on the reinst
 ## Source Notes
 
 The [Tenth Circuit opinion, 969 F.2d 891](https://static.case.law/f2d/969/html/0891-01.html) supplies the affirmative-assistance theory, the disputed appraisal and postponement evidence, the disclosure-duty ruling and the unresolved actual-knowledge alternative. The [United States Reports account, 511 U.S. 164–201](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511164/usrep511164.pdf) supplies the argument and decision dates, record account and competing statutory and received-remedy arguments. Section 10(b), 15 U.S.C. §78j(b), and Rule 10b-5, 17 C.F.R. §240.10b-5, supply the governing prohibition. The reports do not establish adjudicated fraud, culpability or damages by Central Bank, or a presented primary claim. The questions are stated in substance; no verbatim grant language or additional Court order is supplied.
-
----
-
-<!-- source-record: JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md -->
-## Event
-
-J.E.B. v. Alabama ex rel. T.B.; No. 92-1239. Merits decision, 1994-04-19. Argued November 2, 1993; decided April 19, 1994. On certiorari to the Alabama Court of Civil Appeals, 606 So.2d 156 (1992), in the State’s paternity and child-support action. The question is whether equal protection prohibits the State’s purposeful use of sex in peremptory jury strikes. The lower court rejected that legal claim; unrelated blood-chain and DNA-evidence issues are outside this review.
-
-Render form: full — Stone joins the prohibition that Rehnquist opposed, changing the controlling coalition; the exception for Stone casting Rehnquist’s vote does not apply.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. Nine participated; no recusal or nonparticipation is recorded.
-
-## Public Action
-
-The Court reverses and remands, 7–2. Justice Blackmun delivers the Opinion of the Court, joined by Stone, Stevens, O’Connor, Souter and Ginsburg. O’Connor concurs separately. Kennedy concurs in the judgment. Scalia dissents, joined by Thomas.
-
-## Judgment & Remedy
-
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Rejection of the sex-discrimination selection claim | Reversed and remanded, 7–2 | Stone, Blackmun, Stevens, O’Connor, Kennedy, Souter, Ginsburg | Scalia, Thomas | Apply the staged inquiry; if the strikes cannot be sustained on valid nondiscriminatory grounds, set aside the verdict and provide a lawfully selected new trial. |
-
-The two dissenters would affirm. The Court does not decide paternity or prescribe the jury’s composition.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relation to judgment | Scope |
-|---|---|---|---|---|
-| Opinion of the Court | Blackmun | Stone, Stevens, O’Connor, Souter, Ginsburg | Reversal and remand | Both holdings, explanations and remedy; six full joins. |
-| Concurrence | O’Connor | None | Joins Court opinion and judgment | Practical costs and private-party attribution reservations. |
-| Concurrence in the judgment | Kennedy | None | Reversal and remand | Operative prohibition and inquiry on individual-citizenship grounds; no full-opinion join. |
-| Dissent | Scalia | Thomas | Would affirm | Opposition to extending the individual-strike prohibition to sex. |
-
-## Holdings
-
-### Purposeful sex discrimination in state peremptory strikes
-
-**Controlling proposition:** The State may not strike a prospective juror because of sex or the assumption that sex itself predicts competence or impartiality. Under the equal-protection requirement that a sex classification substantially serve an important governmental objective, a generalized prediction that men will favor the alleged father does not justify this exclusion; genuine individual, sex-neutral reasons remain available.
-
-**Authority:** Blackmun’s Opinion of the Court, joined by Stone, Stevens, O’Connor, Souter and Ginsburg; six Justices adopt the rule and explanation. Kennedy concurs in the judgment and independently supports the operative prohibition on individual-right grounds.
-
-**Controlling explanation:** The Court holds that a citizen’s sex cannot substitute for individual qualification to serve as a juror. Craig and Hogan require an important objective substantially advanced by a sex classification and protect men as well as women. Batson provides the prohibition on discriminatory peremptories in the racial setting; the Court extends its protection here through sex’s own heightened scrutiny. Powers, Edmonson and McCollum explain the prospective juror’s independent equal-protection interest. Alabama itself exercised these strikes, so its state action is direct. An adversary’s wish for sympathetic jurors cannot justify excluding a citizen on a generalized expectation of male or female views. Even a population-level correlation does not establish this individual juror’s partiality, and voir dire permits inquiry into actual attitudes. The decision does not assume that men and women have identical experiences, abolish peremptory challenges, or require proportional representation. Taylor’s fair-cross-section principle concerns a distinct guarantee; the all-female result is evidence to consider, not itself the constitutional violation. Whether sex requires a stricter classification rule is unnecessary to this decision.
-
-**Precedent treatment:**
-
-- Craig v. Boren, 429 U.S. 190 — applied: sex classifications require an important objective and substantial relationship.
-- Mississippi University for Women v. Hogan, 458 U.S. 718 — applied to unjustified sex stereotypes and equal protection of men.
-- Batson v. Kentucky, 476 U.S. 79 — extended to purposeful sex-based state peremptories; its racial rule remains intact.
-- Powers v. Ohio, 499 U.S. 400 — applied for the excluded juror’s individual interest and the litigant’s ability to challenge discriminatory selection.
-- Edmonson v. Leesville Concrete Co., 500 U.S. 614, and Georgia v. McCollum — relied on for juror equality within selection; the private-party sex-strike question is not decided.
-- Taylor v. Louisiana, 419 U.S. 522 — distinguished: no proportionally representative petit jury is required by this decision.
-
-### Staged proof and the remand
-
-**Controlling proposition:** A party challenging a peremptory strike as purposeful sex discrimination must first make the required prima facie showing; the striking party must then give a genuine sex-neutral explanation, which need not justify a challenge for cause. The trial court decides intentional discrimination with the ultimate burden on the objector; if Alabama cannot sustain the challenged strikes under that inquiry, the verdict must be set aside and a new trial held before a lawfully selected jury.
-
-**Authority:** Blackmun’s six-Justice Opinion of the Court adopts the procedure and conditional remedy; Kennedy independently agrees with the operative inquiry and remand, producing seven votes for reversal and remand.
-
-**Controlling explanation:** The Court preserves the stages of proof rather than treating every strike as presumptively unlawful. Batson supplies the inference, explanation and ultimate-purpose inquiry; McCollum preserves the distinction between producing a neutral reason and carrying the ultimate burden. Alabama used nine of its ten strikes against men, and the trial court rejected the objection as legally unavailable. That categorical ruling must be reversed so the proper inquiry can occur. A juror’s expressed view about disputed paternity evidence can justify exclusion; an assumption that men will favor the alleged father cannot. Occupation, family experience and demeanor may offer individual reasons, but they must be assessed in context, including whether comparable retained jurors were treated differently. A reason correlated with sex is not automatically forbidden, nor does a neutral label defeat proof of pretext. The Court supplies no explanation or credibility finding. The lower court must perform the inquiry and provide a new trial if lawful selection cannot be sustained; paternity and the independent evidence questions are not decided here.
-
-**Precedent treatment:**
-
-- Batson v. Kentucky, 476 U.S. 79 — its staged purpose inquiry is extended without requiring a cause-level explanation or an explanation for every strike.
-- Georgia v. McCollum — its distinction between production and the objector’s ultimate persuasion burden is preserved.
-
-## Precedent Treatment
-
-Batson’s protection is extended to purposeful sex-based state strikes through Craig and Hogan’s existing heightened scrutiny. Powers, Edmonson and McCollum supply juror equality and proof principles; their racial holdings remain binding. Taylor does not impose a proportional petit-jury requirement. No strict-scrutiny rule, private-party sex-strike holding or general abolition of peremptories is adopted.
-
-## Law After Decision
-
-The State cannot use sex itself as a substitute for an individual assessment in peremptory selection. The existing prima facie, neutral-explanation and ultimate-purpose stages now govern this sex-discrimination claim. An individual characteristic correlated with sex may support a strike if it is genuine and not a pretext or proxy. The final jury’s composition alone is not the violation, and a permissible explanation need not establish cause.
-
-## Separate Writings
-
-O’Connor concurs while joining the Court’s opinion. Hogan’s heightened scrutiny does not permit Alabama’s express sex classification, even if group experiences sometimes differ. She emphasizes peremptories’ practical value and the costs of expanded pretext litigation. Genuine individual explanations remain permissible and need not amount to cause. She preserves her disagreement with attributing private litigants’ jury choices to the State; Alabama’s direct state action makes that issue unnecessary here. Her reservations do not qualify her join in this decision’s state-strike prohibition or staged inquiry.
-
-Kennedy concurs in the judgment and agrees with the operative prohibition and inquiry. Powers and Edmonson supply his account of each citizen’s right to participate without exclusion by group identity. Jurors serve as individuals who must obey the instructions impartially; representative selection prevents discriminatory exclusion, rather than authorizing jurors to carry group prejudice into deliberation. He does not join a rationale resting on group representation or treating presumed group perspectives as the source of the constitutional right. His individual-right ground supports reversal and the same bounded remand, without prescribing jury proportions or resolving private-party sex strikes.
-
-Scalia dissents, joined by Thomas. They accept that sex classifications ordinarily receive heightened review but would not extend Batson’s individual-strike model to this traditional adversarial selection device. Peremptories permit predictions that do not satisfy cause, and they regard the extension as impairing that function while increasing uncertain pretext litigation. Their Powers and McCollum objections supply the institutional concern. They would affirm rejection of this sex-strike claim rather than require explanation proceedings. They do not deny Alabama’s direct state action, endorse excluding men from the venire, or overrule existing racial-selection law. Their position supplies no separate harmless-error holding or decision on the paternity evidence.
-
-## Procedure After Action
-
-The case returns to the Alabama courts for the proper jury-selection inquiry and the conditional new-trial remedy. Independent evidence issues and paternity remain for their proper proceedings. There is no retained Supreme Court proceeding, prescribed quota or automatic finding about an explanation the trial court has not assessed.
-
-## Source Notes
-
-The [Alabama Court of Civil Appeals opinion](https://static.case.law/so2d/606/html/0156-01.html) supplies the paternity posture, preserved objection and separate evidentiary issues. The [official report, 511 U.S. 127–163](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511127/usrep511127.pdf), supplies the venire counts, state strikes, chronology and competing equal-protection arguments. The selection facts establish the setting for the inquiry; they do not establish a neutral explanation, credibility determination or paternity finding by this Court.
 
 ---
 

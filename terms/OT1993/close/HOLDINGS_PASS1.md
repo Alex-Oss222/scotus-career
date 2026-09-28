@@ -1,5 +1,8 @@
 # OT1993 Holdings pass 1 — operator notes
 
+**September 28, 2026 correction follow-up:** The user-authorized Beecham/Jones version 1.1 correction resolves this note’s Beecham deferral: the four-part firearms qualification and Granderson date are corrected in the Record and downstream copies, and the May 16, 1994 holding and selector rule are now incorporated in both candidates. The pass-time account and counts below describe the earlier preparation, not the corrected candidate totals. The Holdings candidate now carries 234 current-term propositions; the Standards and Tests candidate now has 289 entries (83 additions). The original pass receipt, including any recorded hash, is historical; no new term audit or publication is claimed.
+
+
 Prepared September 28, 2026. Scope: chunks 1–5, comprising 60 current Canonical Decision Records. The unpublished [Holdings candidate](HOLDINGS.candidate.md) carries the complete term-opening register forward and appends 125 controlling propositions from 57 Records, including seven independently sufficient alternative holdings. One additional Record, Albright, contributes only the durable statement of a fractured judgment's authority; it is not counted as a controlling proposition. Ticor supplies no admissible independent holding. Beecham and Jones are deferred for the correction described below.
 
 The candidate retains the synchronized term-opening publication header pending the remaining passes and coordinated close. Its header does not represent completion of OT1993 or a newly published cutoff. No adjudication, public render, foundation file, or published state tracker was changed. No Git command was run; repository lineage and commit existence remain for the operator's verification.

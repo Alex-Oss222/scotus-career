@@ -152,72 +152,6 @@ Supreme Court Rules 20, 33, 38, and 39; Martin, 506 U.S. 1; Demos v. Storrie, 50
 
 ---
 
-<!-- source-record: Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md -->
-## Event
-
-Florence County School District Four v. Carter, No. 91-1523. Merits decision, 1993-11-09.
-
-Render form: compact. Basis: Unanimous affirmance; no material change in judgment, controlling rule, supporting coalition, or remedy from the comparator.
-
-On writ of certiorari to the Fourth Circuit, 950 F.2d 156 (1991), which affirmed reimbursement for Shannon Carter's private education at Trident Academy. Argued October 6, 1993; decided November 9, 1993. The question is whether IDEA categorically bars reimbursement for an otherwise appropriate parental private placement because it lacks state approval or fails to meet every condition applicable to public free appropriate education. Administrative officers had accepted the public individualized education program; the district court subsequently found it inadequate and found Trident appropriate. Those latter findings are settled for this review. Trident lacked state approval and did not meet every public-program requirement. The district seeks reversal on that categorical ground; the parents seek affirmance.
-
-## Participation
-
-All nine Justices participated: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. No nonparticipation is recorded.
-
-## Public Action
-
-Fourth Circuit affirmed, 9–0.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Categorical state-approval/public-program objection to parental reimbursement | Affirm, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | No opposing vote | Reimbursement judgment remains operative; ordinary equitable authority over reasonable amounts is preserved. No new merits remand or compulsory approval of Trident is ordered. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | Affirmance | Entire opinion: statutory eligibility, equitable limits, and settled findings |
-
-## Holdings
-
-### Appropriate parental placement and equitable reimbursement
-
-**Controlling proposition:** When the public offer violates IDEA and the parents' unilateral private placement provides an education otherwise appropriate for the child under the Act, §1415(e)(2) permits equitable reimbursement even if that placement lacks state approval or does not satisfy every requirement in §1401(a)(18)'s definition of a publicly provided free appropriate education. Parents act at financial risk and must establish both public inadequacy and private appropriateness; neither their choice nor the child's progress alone guarantees reimbursement, the court must consider relevant equitable circumstances and a reasonable amount, equitable considerations may support reduction or denial of relief, and full reimbursement is inappropriate if the private cost was unreasonable.
-
-**Authority:** O'Connor's opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; O'Connor and those eight Justices supply nine votes for this rule and affirmance. Direct unanimous authority; no fractured-opinion inference.
-
-**Controlling explanation:** The Court holds that an otherwise appropriate parental placement does not become ineligible for reimbursement merely because the State has not approved it. Burlington locates reimbursement in §1415(e)(2)'s authority to grant appropriate relief after the public system fails to provide the education the Act requires. Section 1401(a)(18) separately describes public expense, supervision and direction without charge; state educational standards; appropriate preschool, elementary, or secondary education; and conformity with an individualized education program. Transplanting every public-program condition into the corrective parental remedy would defeat Burlington: a placement made over the agency's objection ordinarily lacks its supervision and its individualized program. The State's legitimate concern for educational quality remains protected by the requirement that the private placement actually be appropriate. Here that finding and the inadequacy of the public offer are settled; progress at Trident supports the finding but does not make every beneficial school reimbursable. The district's cost objection likewise does not justify a categorical approval bar. Courts retain equitable control over the reasonable amount and may reduce or deny relief on relevant equitable grounds. Rowley's public-education standard remains unchanged. Neither constitutional funding rights nor a general duty to finance parental preferences is decided.
-
-**Precedent treatment:**
-
-- *School Committee of Burlington v. Department of Education*, 471 U.S. 359 (1985): applies its statutory reimbursement authority, financial-risk rule, and equitable discretion; lack of state approval of the parental placement is not an additional categorical bar.
-- *Board of Education v. Rowley*, 458 U.S. 176 (1982): leaves the standard governing appropriate public education intact; the public program's inadequacy and Trident's appropriateness are settled for this review.
-
-## Precedent Treatment
-
-Burlington's equitable reimbursement remedy is applied and clarified: lack of state approval of an otherwise appropriate parental placement is not a categorical disqualification. Its public-inadequacy, private-appropriateness, financial-risk, and equitable limitations remain. Rowley's public-education standard is unchanged. Zobrest's distinction between absence of a federal duty and an affirmative prohibition remains intact; its unresolved constitutional questions are not answered here.
-
-## Law After Decision
-
-Effective November 9, 1993, parental reimbursement depends on a public offer that violates IDEA, a private placement otherwise appropriate under the Act, and equitable relief in an appropriate amount. Every public-program requirement is not an absolute condition of the private corrective remedy. The private education must still be appropriate. A State's lack of an approved-school list is not essential to the rule. Relevant parental conduct, expense, and educational deficiencies remain available equitable considerations under governing law; no new mandatory checklist is created. Public-placement standards are not abolished, and the decision neither certifies Trident nor establishes a constitutional funding right.
-
-## Separate Writings
-
-No separate opinion issues.
-
-## Procedure After Action
-
-The Fourth Circuit's judgment affirming reimbursement is affirmed. The reimbursement judgment remains in force; the district court's ordinary equitable authority over a reasonable amount is preserved. The Court does not reopen the settled education findings, order a new merits remand, require state approval of Trident, or order general financing of private education.
-
-## Source Notes
-
-20 U.S.C. §§1401(a)(18), 1412, 1415(e)(2); Burlington, 471 U.S. 359; Rowley, 458 U.S. 176. The [official report, 510 U.S. 7](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510007/usrep510007.pdf), pages 9–16, supplies the underlying proceedings and reproduced statutory provisions. [Carter, 950 F.2d 156](https://static.case.law/f2d/950/cases/0156-01.json), records the judgment below. The review question is stated in substance; the settled adequacy findings are not retried.
-
----
-
 <!-- source-record: Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md -->
 ## Event
 
@@ -284,6 +218,153 @@ The Sixth Circuit's judgment is reversed and the case is remanded for further pr
 ## Source Notes
 
 Title VII, 42 U.S.C. §2000e-2(a)(1); Meritor, 477 U.S. 57; Sixth Circuit judgment reported at 976 F.2d 733. The [official report, 510 U.S. 17](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510017/usrep510017.pdf), pages 19–23, reproduces the trial findings, relevant statutory text, and the parties' legal-standard dispute. The review question is stated in substance; no broader question is represented.
+
+---
+
+<!-- source-record: Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md -->
+## Event
+
+Florence County School District Four v. Carter, No. 91-1523. Merits decision, 1993-11-09.
+
+Render form: compact. Basis: Unanimous affirmance; no material change in judgment, controlling rule, supporting coalition, or remedy from the comparator.
+
+On writ of certiorari to the Fourth Circuit, 950 F.2d 156 (1991), which affirmed reimbursement for Shannon Carter's private education at Trident Academy. Argued October 6, 1993; decided November 9, 1993. The question is whether IDEA categorically bars reimbursement for an otherwise appropriate parental private placement because it lacks state approval or fails to meet every condition applicable to public free appropriate education. Administrative officers had accepted the public individualized education program; the district court subsequently found it inadequate and found Trident appropriate. Those latter findings are settled for this review. Trident lacked state approval and did not meet every public-program requirement. The district seeks reversal on that categorical ground; the parents seek affirmance.
+
+## Participation
+
+All nine Justices participated: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. No nonparticipation is recorded.
+
+## Public Action
+
+Fourth Circuit affirmed, 9–0.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Categorical state-approval/public-program objection to parental reimbursement | Affirm, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | No opposing vote | Reimbursement judgment remains operative; ordinary equitable authority over reasonable amounts is preserved. No new merits remand or compulsory approval of Trident is ordered. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | Affirmance | Entire opinion: statutory eligibility, equitable limits, and settled findings |
+
+## Holdings
+
+### Appropriate parental placement and equitable reimbursement
+
+**Controlling proposition:** When the public offer violates IDEA and the parents' unilateral private placement provides an education otherwise appropriate for the child under the Act, §1415(e)(2) permits equitable reimbursement even if that placement lacks state approval or does not satisfy every requirement in §1401(a)(18)'s definition of a publicly provided free appropriate education. Parents act at financial risk and must establish both public inadequacy and private appropriateness; neither their choice nor the child's progress alone guarantees reimbursement, the court must consider relevant equitable circumstances and a reasonable amount, equitable considerations may support reduction or denial of relief, and full reimbursement is inappropriate if the private cost was unreasonable.
+
+**Authority:** O'Connor's opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; O'Connor and those eight Justices supply nine votes for this rule and affirmance. Direct unanimous authority; no fractured-opinion inference.
+
+**Controlling explanation:** The Court holds that an otherwise appropriate parental placement does not become ineligible for reimbursement merely because the State has not approved it. Burlington locates reimbursement in §1415(e)(2)'s authority to grant appropriate relief after the public system fails to provide the education the Act requires. Section 1401(a)(18) separately describes public expense, supervision and direction without charge; state educational standards; appropriate preschool, elementary, or secondary education; and conformity with an individualized education program. Transplanting every public-program condition into the corrective parental remedy would defeat Burlington: a placement made over the agency's objection ordinarily lacks its supervision and its individualized program. The State's legitimate concern for educational quality remains protected by the requirement that the private placement actually be appropriate. Here that finding and the inadequacy of the public offer are settled; progress at Trident supports the finding but does not make every beneficial school reimbursable. The district's cost objection likewise does not justify a categorical approval bar. Courts retain equitable control over the reasonable amount and may reduce or deny relief on relevant equitable grounds. Rowley's public-education standard remains unchanged. Neither constitutional funding rights nor a general duty to finance parental preferences is decided.
+
+**Precedent treatment:**
+
+- *School Committee of Burlington v. Department of Education*, 471 U.S. 359 (1985): applies its statutory reimbursement authority, financial-risk rule, and equitable discretion; lack of state approval of the parental placement is not an additional categorical bar.
+- *Board of Education v. Rowley*, 458 U.S. 176 (1982): leaves the standard governing appropriate public education intact; the public program's inadequacy and Trident's appropriateness are settled for this review.
+
+## Precedent Treatment
+
+Burlington's equitable reimbursement remedy is applied and clarified: lack of state approval of an otherwise appropriate parental placement is not a categorical disqualification. Its public-inadequacy, private-appropriateness, financial-risk, and equitable limitations remain. Rowley's public-education standard is unchanged. Zobrest's distinction between absence of a federal duty and an affirmative prohibition remains intact; its unresolved constitutional questions are not answered here.
+
+## Law After Decision
+
+Effective November 9, 1993, parental reimbursement depends on a public offer that violates IDEA, a private placement otherwise appropriate under the Act, and equitable relief in an appropriate amount. Every public-program requirement is not an absolute condition of the private corrective remedy. The private education must still be appropriate. A State's lack of an approved-school list is not essential to the rule. Relevant parental conduct, expense, and educational deficiencies remain available equitable considerations under governing law; no new mandatory checklist is created. Public-placement standards are not abolished, and the decision neither certifies Trident nor establishes a constitutional funding right.
+
+## Separate Writings
+
+No separate opinion issues.
+
+## Procedure After Action
+
+The Fourth Circuit's judgment affirming reimbursement is affirmed. The reimbursement judgment remains in force; the district court's ordinary equitable authority over a reasonable amount is preserved. The Court does not reopen the settled education findings, order a new merits remand, require state approval of Trident, or order general financing of private education.
+
+## Source Notes
+
+20 U.S.C. §§1401(a)(18), 1412, 1415(e)(2); Burlington, 471 U.S. 359; Rowley, 458 U.S. 176. The [official report, 510 U.S. 7](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510007/usrep510007.pdf), pages 9–16, supplies the underlying proceedings and reproduced statutory provisions. [Carter, 950 F.2d 156](https://static.case.law/f2d/950/cases/0156-01.json), records the judgment below. The review question is stated in substance; the settled adequacy findings are not retried.
+
+---
+
+<!-- source-record: Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md -->
+## Event
+
+Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., No. 92-1123. Dismissal as improvidently granted, 1993-11-30.
+
+Render form: compact. Basis: Seven-to-two disposition and a reasoned threshold opinion; no material change in judgment, controlling propositions, their coalition, or remedy from the comparator.
+
+On writ of certiorari to the Federal Circuit, 971 F.2d 728 (1992). Argued October 12, 1993; decided November 30, 1993. The stated question concerns routine vacatur of district-court judgments at the parties' request after settlement during appeal. The antecedent dispute is whether Izumi can secure review without a properly presented challenge to denial of intervention. Izumi participated in the earlier patent trial but not the retrial that produced judgments for Windmere. Philips and Windmere settled for $57 million and jointly sought vacatur; their settlement was not conditioned on vacatur. Izumi, an indemnitor seeking to preserve possible issue-preclusion benefits in related litigation, sought intervention to oppose the motion. The Federal Circuit denied intervention and vacated the judgments. Its settlement-vacatur practice was general, not exceptionless. Izumi discussed intervention in the petition's body and added an express intervention question at the merits stage.
+
+## Participation
+
+All nine Justices participated: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. No nonparticipation is recorded.
+
+## Public Action
+
+Writ dismissed as improvidently granted, 7–2; intervention and vacatur orders undisturbed.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Whether to continue this writ through review of intervention to settlement vacatur | Dismiss as improvidently granted, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | Blackmun, Stevens | Federal Circuit intervention denial and vacatur remain undisturbed. No merits affirmance, reversal, reinstatement, or new remand. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Per curiam | Supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | Dismisses writ | Party-review route and prudential question-presentation ground; no vacatur merits |
+| Dissent | Stevens | Blackmun | Opposes dismissal; would reach intervention, reverse denial and routine vacatur, and remand | Complete bounded exceptional-review and equitable-assessment rationale |
+
+## Holdings
+
+### Review of a denied intervention application is distinct from review as a party
+
+**Controlling proposition:** Under 28 U.S.C. §1254(1), an unsuccessful applicant for intervention may seek review of the denial, but cannot obtain review of the parties' underlying judgment on the strength of an unreviewed intervention denial or a financial interest alone. Because Izumi's denial of intervention remains undisturbed, Izumi lacks the party status necessary to press the settlement-vacatur question in this petition; the Court does not decide whether intervention should have been allowed.
+
+**Authority:** Per curiam opinion of the Court supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, seven Justices; Blackmun and Stevens dissent. This stated threshold ground supports the dismissal and carries procedural authority, without a settlement-vacatur holding.
+
+**Controlling explanation:** The Court holds that an interest in the outcome is distinct from the status needed to seek review of the judgment between the parties. Section 1254(1) authorizes a party to petition for review of a case in a court of appeals. Automobile Workers v. Scofield preserves the important route for an unsuccessful intervention applicant: that applicant may petition to review the denial itself. The route does not make the applicant a party before the denial is overturned. Izumi participated in the earlier patent litigation, but it did not participate as a party in the retrial producing the judgments now challenged. Its financial support, indemnity exposure, and desire to preserve possible issue-preclusion benefits do not themselves replace successful intervention. Whether those interests justified intervention is a separate question; the Court does not affirm the denial on its merits. Because that denial remains undisturbed, Izumi cannot obtain review of the settling parties' vacatur through the question it presented. Article III interest, statutory party status, and the proper presentation of a question must remain distinct.
+
+**Precedent treatment:**
+
+- *Automobile Workers v. Scofield*, 382 U.S. 205 (1965): applies its route for an applicant denied intervention to seek review of that denial; no automatic party status or right to review the underlying judgment follows from applying to intervene.
+
+### The intervention question was not fairly included and no exception is warranted
+
+**Controlling proposition:** Rule 14.1(a) creates a strong prudential presumption against deciding a question not stated in the certiorari petition or fairly included in a stated question, subject to exceptional circumstances; a separate intervention denial is not fairly included merely because it must be overturned before the Court can reach a settlement-vacatur question. Neither discussion in the petition's body and later merits briefing nor the antecedent relationship establishes exceptional urgency or economy on this record, so the Court declines review of intervention and dismisses the writ as improvidently granted, leaving vacatur undecided.
+
+**Authority:** Per curiam opinion of the Court supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, seven Justices; Blackmun and Stevens dissent. The reasoned dismissal establishes this question-presentation ruling, not the merits of the judgment below.
+
+**Controlling explanation:** The Court holds that a separate adverse order does not become a subsidiary question merely because overturning it would permit consideration of the stated question. Yee v. City of Escondido supplies the distinction between an argument supporting a preserved claim and a related but independent question outside the grant. Whether Izumi should be allowed to intervene depends on its litigation relationship and the circumstances of its application; whether settlement warrants vacatur concerns the treatment of judgments at the settling parties' request. Discussion of intervention in the petition's body and merits briefing supplied notice, but did not place that distinct question among those presented or fairly included. The strongest contrary argument is that intervention is indispensable and has been fully argued. That connection does not establish exceptional urgency or economy sufficient to overcome the presentation rule in this fact-dependent dispute. The rule is prudential, so the Court does not deny its power to make an exception; its obligation to notice jurisdictional defects is separate. Declining the intervention question leaves no route to the vacatur merits and requires dismissal of this writ.
+
+**Precedent treatment:**
+
+- *Yee v. City of Escondido*, 503 U.S. 519 (1992), question-presented portion: applies the distinction between related independent questions and subsidiary questions, with the narrow prudential exception retained; it does not convert the limit into a jurisdictional prohibition.
+- *Automobile Workers v. Scofield*, 382 U.S. 205 (1965): its review route remains available, but does not dispense with presenting the intervention question.
+
+## Precedent Treatment
+
+Scofield's review route is applied without making unsuccessful intervention applicants automatic parties to the underlying case. Yee's distinction between related independent questions and subsidiary questions is applied, retaining its prudential exception. Munsingwear, Karcher, and Cardinal Chemical receive no new controlling treatment on settlement vacatur; their possible application appears only in the dissent. Leaving the judgment below undisturbed does not endorse its vacatur policy.
+
+## Law After Decision
+
+Effective November 30, 1993, the reasoned threshold opinion establishes the two procedural propositions stated above. The statutory party requirement and prudential question-presentation rule remain distinct; the latter does not eliminate the Court's obligation to notice jurisdictional defects. The dismissal establishes no rule approving or forbidding routine settlement vacatur, no intervention entitlement on these facts, and no collateral-estoppel result in other litigation. Section 2106's equitable authority and existing vacatur precedents are left without a new merits construction.
+
+## Separate Writings
+
+Stevens dissents, joined by Blackmun. They would exercise the prudential exception to reach intervention, reverse the denial and the routine settlement-vacatur disposition, and remand for an actual equitable assessment. The intervention argument was disclosed in the petition and addressed adversarially; in their view, dismissal after plenary review gives the omitted question heading more weight than the notice and economy purposes of Rule 14.1(a) warrant. *Yee* preserves exceptional consideration, while *Scofield* supplies the route to review the denial. Izumi's indemnity exposure and the settling parties' newly adverse request support the limited right to intervene to oppose erasure. The fact that an applicant was not already a party does not itself answer whether it should be allowed to become one.
+
+On vacatur, the dissent reads §2106 as requiring an actual equitable judgment that accounts for public and third-party interests. *Munsingwear* addresses loss of appellate review through mootness, while *Karcher* distinguishes voluntary abandonment; voluntary settlement alone does not automatically justify erasing a judgment. *Cardinal Chemical* supplies a limited analogy against an automatic practice disguised as discretion, rather than a decision about settlement itself. Judgments represent public work and can affect persons outside the bargain. The dissent would require those interests to be assessed before vacatur, while preserving lawful case-specific relief. It does not declare settlement vacatur categorically unavailable, give every nonparty an intervention right, or command permanent preservation of these judgments. Its proposed intervention and vacatur rules receive two votes and do not govern the Court's disposition.
+
+## Procedure After Action
+
+The writ is dismissed as improvidently granted. The Federal Circuit's denial of intervention and its vacatur orders remain undisturbed, including the underlying direction to dismiss the settled case with prejudice. This Court issues no new remand, does not reinstate a district-court judgment, and does not decide collateral estoppel in the related litigation. Proceedings on this writ are concluded subject to ordinarily available post-decision procedures.
+
+## Source Notes
+
+28 U.S.C. §§1254(1), 2106; Supreme Court Rule 14.1(a); Scofield, 382 U.S. 205; Yee, 503 U.S. 519. [U.S. Philips v. Windmere, 971 F.2d 728](https://static.case.law/f2d/971/cases/0728-01.json), records the denial of intervention and vacatur. The [official report, 510 U.S. 27](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510027/usrep510027.pdf), pages 28–34, reproduces the settlement, question-presentation history, statutory review provision, and applicable Rule. The complete petition is not reproduced in that report; the question and added question are supported by its stated excerpts.
 
 ---
 
@@ -407,84 +488,92 @@ The [Fourth Circuit opinion, 984 F.2d 120](https://static.case.law/f2d/984/cases
 
 ---
 
-<!-- source-record: Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md -->
+<!-- source-record: United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md -->
 ## Event
 
-Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., No. 92-1123. Dismissal as improvidently granted, 1993-11-30.
+United States v. James Daniel Good Real Property, No. 92-1180; 510 U.S. 43. Merits decision, December 13, 1993 (1993-12-13). Argued October 6, 1993. On writ of certiorari to the Ninth Circuit, 971 F.2d 1376 (1992), which reversed summary judgment of forfeiture, required pre-seizure process, and remanded for a statutory-promptness inquiry. The questions are whether civil seizure of this real property required prior notice and a hearing, and whether violation of §§1602–1604 requires dismissal despite compliance with §1621.
 
-Render form: compact. Basis: Seven-to-two disposition and a reasoned threshold opinion; no material change in judgment, controlling propositions, their coalition, or remedy from the comparator.
-
-On writ of certiorari to the Federal Circuit, 971 F.2d 728 (1992). Argued October 12, 1993; decided November 30, 1993. The stated question concerns routine vacatur of district-court judgments at the parties' request after settlement during appeal. The antecedent dispute is whether Izumi can secure review without a properly presented challenge to denial of intervention. Izumi participated in the earlier patent trial but not the retrial that produced judgments for Windmere. Philips and Windmere settled for $57 million and jointly sought vacatur; their settlement was not conditioned on vacatur. Izumi, an indemnitor seeking to preserve possible issue-preclusion benefits in related litigation, sought intervention to oppose the motion. The Federal Circuit denied intervention and vacated the judgments. Its settlement-vacatur practice was general, not exceptionless. Izumi discussed intervention in the petition's body and added an express intervention question at the merits stage.
+Render form: full. The pre-seizure coalition and judgment margin differ; the two judgment components have different coalitions and three distinct minority writings.
 
 ## Participation
 
-All nine Justices participated: Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. No nonparticipation is recorded.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg participated at argument and decision. No nonparticipation is reported.
 
 ## Public Action
 
-Writ dismissed as improvidently granted, 7–2; intervention and vacatur orders undisturbed.
+The Court affirms in part, reverses in part, and remands.
 
 ## Judgment & Remedy
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Whether to continue this writ through review of intervention to settlement vacatur | Dismiss as improvidently granted, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | Blackmun, Stevens | Federal Circuit intervention denial and vacatur remain undisturbed. No merits affirmance, reversal, reinstatement, or new remand. |
+| Pre-seizure due process | Affirmed, 6–3 | Stone, Blackmun, Stevens, Kennedy, Souter, Ginsburg | O'Connor, Scalia, Thomas | Further proceedings respecting the notice-and-hearing requirement and its exigency exception |
+| §§1602–1604 as a basis for dismissal of this timely action | Reversed, 9–0 | Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Further proceedings without the rejected statutory dismissal sanction |
+
+The judgment is affirmed in part, reversed in part, and remanded. The timely forfeiture action may proceed under lawful procedures. The lower courts must determine any properly presented, source-authorized consequences of the interim seizure, including any available restoration or accounting; no such award, automatic dismissal, return of title, or sovereign damages award is ordered here.
 
 ## Opinion Topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Per curiam | Supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | Dismisses writ | Party-review route and prudential question-presentation ground; no vacatur merits |
-| Dissent | Stevens | Blackmun | Opposes dismissal; would reach intervention, reverse denial and routine vacatur, and remand | Complete bounded exceptional-review and equitable-assessment rationale |
+| Writing | Author | Joined by | Relationship and exact scope |
+|---|---|---|---|
+| Opinion for the Court: Pre-seizure process | Kennedy | Stone, Blackmun, Stevens, Souter, Ginsburg | Full agreement with the hearing ruling, exigency qualification, and corresponding remand |
+| Opinion for the Court: Statutory timing | Kennedy | Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Full agreement with the timing construction and reversal of that ground |
+| Concurrence in part and dissent in part | O'Connor | No other Justice | Joins statutory timing; disagrees with the process ruling on her stated application of Mathews and forfeiture precedent |
+| Concurrence in part and dissent in part | Scalia | No other Justice | Joins statutory timing; disagrees with the process ruling on the traditional-procedure ground |
+| Concurrence in part and dissent in part | Thomas | No other Justice | Joins statutory timing; disagrees with the process ruling on his narrower record-specific ground |
 
 ## Holdings
 
-### Review of a denied intervention application is distinct from review as a party
+### Notice and a hearing before civil seizure of real property
 
-**Controlling proposition:** Under 28 U.S.C. §1254(1), an unsuccessful applicant for intervention may seek review of the denial, but cannot obtain review of the parties' underlying judgment on the strength of an unreviewed intervention denial or a financial interest alone. Because Izumi's denial of intervention remains undisturbed, Izumi lacks the party status necessary to press the settlement-vacatur question in this petition; the Court does not decide whether intervention should have been allowed.
+**Controlling proposition:** Before seizing real property for civil forfeiture, the Government must ordinarily give the owner notice and a meaningful opportunity to be heard; a Fourth Amendment warrant does not itself satisfy this independent Fifth Amendment requirement. To bypass prior process for exigent circumstances, the Government must show that less restrictive measures, such as notice of the pending claim recorded against the property, a restraining order, or a bond, would not prevent sale, destruction, or continued unlawful use; emergency seizure remains possible on that showing with appropriate subsequent process.
 
-**Authority:** Per curiam opinion of the Court supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, seven Justices; Blackmun and Stevens dissent. This stated threshold ground supports the dismissal and carries procedural authority, without a settlement-vacatur holding.
+**Authority:** Kennedy's opinion for the Court, Pre-seizure process portion, joined by Stone, Blackmun, Stevens, Souter, and Ginsburg. These six adopt the same rule, its exigency qualification, and its application.
 
-**Controlling explanation:** The Court holds that an interest in the outcome is distinct from the status needed to seek review of the judgment between the parties. Section 1254(1) authorizes a party to petition for review of a case in a court of appeals. Automobile Workers v. Scofield preserves the important route for an unsuccessful intervention applicant: that applicant may petition to review the denial itself. The route does not make the applicant a party before the denial is overturned. Izumi participated in the earlier patent litigation, but it did not participate as a party in the retrial producing the judgments now challenged. Its financial support, indemnity exposure, and desire to preserve possible issue-preclusion benefits do not themselves replace successful intervention. Whether those interests justified intervention is a separate question; the Court does not affirm the denial on its merits. Because that denial remains undisturbed, Izumi cannot obtain review of the settling parties' vacatur through the question it presented. Article III interest, statutory party status, and the proper presentation of a question must remain distinct.
-
-**Precedent treatment:**
-
-- *Automobile Workers v. Scofield*, 382 U.S. 205 (1965): applies its route for an applicant denied intervention to seek review of that denial; no automatic party status or right to review the underlying judgment follows from applying to intervene.
-
-### The intervention question was not fairly included and no exception is warranted
-
-**Controlling proposition:** Rule 14.1(a) creates a strong prudential presumption against deciding a question not stated in the certiorari petition or fairly included in a stated question, subject to exceptional circumstances; a separate intervention denial is not fairly included merely because it must be overturned before the Court can reach a settlement-vacatur question. Neither discussion in the petition's body and later merits briefing nor the antecedent relationship establishes exceptional urgency or economy on this record, so the Court declines review of intervention and dismisses the writ as improvidently granted, leaving vacatur undecided.
-
-**Authority:** Per curiam opinion of the Court supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, seven Justices; Blackmun and Stevens dissent. The reasoned dismissal establishes this question-presentation ruling, not the merits of the judgment below.
-
-**Controlling explanation:** The Court holds that a separate adverse order does not become a subsidiary question merely because overturning it would permit consideration of the stated question. Yee v. City of Escondido supplies the distinction between an argument supporting a preserved claim and a related but independent question outside the grant. Whether Izumi should be allowed to intervene depends on its litigation relationship and the circumstances of its application; whether settlement warrants vacatur concerns the treatment of judgments at the settling parties' request. Discussion of intervention in the petition's body and merits briefing supplied notice, but did not place that distinct question among those presented or fairly included. The strongest contrary argument is that intervention is indispensable and has been fully argued. That connection does not establish exceptional urgency or economy sufficient to overcome the presentation rule in this fact-dependent dispute. The rule is prudential, so the Court does not deny its power to make an exception; its obligation to notice jurisdictional defects is separate. Declining the intervention question leaves no route to the vacatur merits and requires dismissal of this writ.
+**Controlling explanation:** The Court holds that taking control of land and its rents requires a separate inquiry into fair procedure. Soldal establishes that protection against unreasonable seizure does not displace another constitutional safeguard. Mathews directs attention to the owner's interest, the danger of error and value of additional procedures, and the Government's interests and burdens. Good's tenants remained, but the Government controlled occupancy and received their rent. An ex parte probable-cause determination does not answer every ownership defense or substitute for an opportunity to contest forfeiture. Doehr and Fuentes explain why notice and adversarial participation can prevent wrongful deprivation. Calero-Toledo permitted postponement for movable property and exceptional governmental needs; land ordinarily can be preserved without first taking possession or income. Its immovability does not eliminate waste, transfer, or unlawful use, but those risks require an actual showing that narrower safeguards are inadequate. None was made here. The Court therefore affirms the hearing ruling for civil real-property forfeiture, while reserving criminal forfeiture and the ultimate forfeiture merits.
 
 **Precedent treatment:**
+- Soldal v. Cook County: applied to preserve the independent operation of constitutional protections; its possessory-seizure rule remains intact.
+- Mathews v. Eldridge: applied to the process required before this deprivation; no new general balancing formula replaces it.
+- Connecticut v. Doehr: applied for the value of notice and an opportunity to contest a prejudgment property deprivation.
+- Fuentes v. Shevin: applied for the value of notice and an opportunity to contest a prejudgment property deprivation.
+- Calero-Toledo v. Pearson Yacht Leasing Co.: distinguished because movable property and exceptional governmental needs can justify delayed process; that exception remains available where its justification exists.
 
-- *Yee v. City of Escondido*, 503 U.S. 519 (1992), question-presented portion: applies the distinction between related independent questions and subsidiary questions, with the narrow prudential exception retained; it does not convert the limit into a jurisdictional prohibition.
-- *Automobile Workers v. Scofield*, 382 U.S. 205 (1965): its review route remains available, but does not dispense with presenting the intervention question.
+### Mandatory administrative promptness does not supply an unstated dismissal sanction
+
+**Controlling proposition:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers, §1603 requires prompt reporting to the United States attorney, and §1604 requires proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears; these remain mandatory duties, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
+
+**Authority:** Kennedy's opinion for the Court, Statutory timing portion, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, and Ginsburg. All nine adopt this construction and reversal of the contrary ground below.
+
+**Controlling explanation:** The Court holds that an official duty and the consequence of violating it are different questions. Congress directed prompt reports through the customs enforcement process and prompt commencement of proper proceedings. It separately supplied a five-year period protecting against stale forfeiture actions. The Government filed within that period. Brock explains that a mandatory administrative deadline does not, without more, divest the responsible official of authority after the deadline. Montalvo-Murillo likewise rejects an automatic substantive release remedy for failure to meet a mandatory hearing time when the statute does not supply that consequence. Those decisions answer the proposed inference that the word commanding promptness necessarily requires dismissal. Sections 1602–1604 contain no such sanction, and their place beside an express limitations provision gives no basis to invent one. The Court does not make the duties optional or excuse the seizure's separate constitutional defect. It reverses the statutory-delay ground and leaves independently authorized consequences to the appropriate further proceedings.
+
+**Precedent treatment:**
+- Brock v. Pierce County: applied to distinguish a mandatory timing duty from an unstated loss of governmental authority.
+- United States v. Montalvo-Murillo: applied to reject an automatic substantive remedy that the timing provision does not prescribe; its distinct hearing duty is not diluted.
 
 ## Precedent Treatment
 
-Scofield's review route is applied without making unsuccessful intervention applicants automatic parties to the underlying case. Yee's distinction between related independent questions and subsidiary questions is applied, retaining its prudential exception. Munsingwear, Karcher, and Cardinal Chemical receive no new controlling treatment on settlement vacatur; their possible application appears only in the dissent. Leaving the judgment below undisturbed does not endorse its vacatur policy.
+The precedent-treatment lines accompanying each controlling proposition are part of the Court's law. No precedent is overruled. Buena Vista and Austin remain separate as described in Law After Decision.
 
 ## Law After Decision
 
-Effective November 30, 1993, the reasoned threshold opinion establishes the two procedural propositions stated above. The statutory party requirement and prudential question-presentation rule remain distinct; the latter does not eliminate the Court's obligation to notice jurisdictional defects. The dismissal establishes no rule approving or forbidding routine settlement vacatur, no intervention entitlement on these facts, and no collateral-estoppel result in other litigation. Section 2106's equitable authority and existing vacatur precedents are left without a new merits construction.
+Effective December 13, 1993, civil seizure of real property ordinarily requires prior notice and a meaningful hearing, with the Government bearing the stated exigency showing. The rule includes rented property and protects control and income, not only physical occupancy. Fourth Amendment compliance does not answer the separate process question. The customs promptness duties remain mandatory but supply no dismissal sanction for an action within §1621's five-year period. The innocent-owner and relation-back rules in United States v. 92 Buena Vista Avenue and the Excessive Fines coverage in Austin v. United States remain separate and unchanged. No criminal-forfeiture rule, final ownership determination, sovereign-immunity waiver, or automatic compensation remedy is decided.
 
 ## Separate Writings
 
-Stevens dissents, joined by Blackmun. They would exercise the prudential exception to reach intervention, reverse the denial and the routine settlement-vacatur disposition, and remand for an actual equitable assessment. The intervention argument was disclosed in the petition and addressed adversarially; in their view, dismissal after plenary review gives the omitted question heading more weight than the notice and economy purposes of Rule 14.1(a) warrant. *Yee* preserves exceptional consideration, while *Scofield* supplies the route to review the denial. Izumi's indemnity exposure and the settling parties' newly adverse request support the limited right to intervene to oppose erasure. The fact that an applicant was not already a party does not itself answer whether it should be allowed to become one.
+O'Connor concurs in the statutory-timing ruling and dissents from the hearing ruling. She accepts Mathews as the framework but gives different weight to Good's conviction, the warrant, continued tenant occupancy, and the public enforcement interest. She also regards Calero-Toledo and established forfeiture practice as supporting process after seizure on this record. She does not deny that Good has a protected property interest or treat Mathews as categorically inapplicable.
 
-On vacatur, the dissent reads §2106 as requiring an actual equitable judgment that accounts for public and third-party interests. *Munsingwear* addresses loss of appellate review through mootness, while *Karcher* distinguishes voluntary abandonment; voluntary settlement alone does not automatically justify erasing a judgment. *Cardinal Chemical* supplies a limited analogy against an automatic practice disguised as discretion, rather than a decision about settlement itself. Judgments represent public work and can affect persons outside the bargain. The dissent would require those interests to be assessed before vacatur, while preserving lawful case-specific relief. It does not declare settlement vacatur categorically unavailable, give every nonparty an intervention right, or command permanent preservation of these judgments. Its proposed intervention and vacatur rules receive two votes and do not govern the Court's disposition.
+Scalia concurs in the statutory-timing ruling and dissents from the hearing ruling. His ground is the sufficiency of historically established sovereign forfeiture procedures and the warrant in this setting, informed by Gerstein's distinction between preliminary seizure procedures and a later adversarial determination. He would not impose the additional pre-seizure procedure here. He does not announce that the Fourth Amendment invariably displaces due process; Soldal's independent-protections rule remains binding.
+
+Thomas concurs in the statutory-timing ruling and dissents from the hearing ruling on the narrower combination of the conviction, warrant, and absence of physical dispossession in this record. He does not endorse unlimited reliance on the traditional property-based forfeiture fiction to justify the breadth of modern §881(a)(7). His result therefore does not establish approval of every civil forfeiture procedure or every seizure of an occupied home.
 
 ## Procedure After Action
 
-The writ is dismissed as improvidently granted. The Federal Circuit's denial of intervention and its vacatur orders remain undisturbed, including the underlying direction to dismiss the settled case with prejudice. This Court issues no new remand, does not reinstate a district-court judgment, and does not decide collateral estoppel in the related litigation. Proceedings on this writ are concluded subject to ordinarily available post-decision procedures.
+The case returns to the lower courts for proceedings consistent with the two component rulings. The timely forfeiture claim remains pending; lawful consequences of the unconstitutional interim seizure require their own remedial basis. No date for further proceedings is fixed.
 
 ## Source Notes
 
-28 U.S.C. §§1254(1), 2106; Supreme Court Rule 14.1(a); Scofield, 382 U.S. 205; Yee, 503 U.S. 519. [U.S. Philips v. Windmere, 971 F.2d 728](https://static.case.law/f2d/971/cases/0728-01.json), records the denial of intervention and vacatur. The [official report, 510 U.S. 27](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510027/usrep510027.pdf), pages 28–34, reproduces the settlement, question-presentation history, statutory review provision, and applicable Rule. The complete petition is not reproduced in that report; the question and added question are supported by its stated excerpts.
+The record and chronology are supported by [the official report, 510 U.S. 43](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510043/usrep510043.pdf), and the reported Ninth Circuit judgment, 971 F.2d 1376. Good had already rented the house when the Government seized control and redirected $900 monthly rent; continued tenant occupancy is not absence of a deprivation. The constitutional rule applies to civil real-property forfeiture. No verified quotation from a newly announced writing is reproduced.
 
 ---
 
@@ -651,95 +740,6 @@ Supreme Court review ends. Further proceedings follow the Tennessee Supreme Cour
 ## Source Notes
 
 [State v. Middlebrooks, 840 S.W.2d 317, Part III](https://static.case.law/sw2d/840/cases/0317-01.json), supplies the original independent state constitutional analysis and the operative resentencing remedy. [State v. Howell, 868 S.W.2d 238, Part II.E and footnote 7](https://static.case.law/sw2d/868/cases/0238-01.json), decided November 10, 1993, expressly explains that Article I, §16 required Middlebrooks's result; its separate facts and harmless-error result concern Howell alone. The published majority opinions, rather than an assertion by counsel or a separate state concurrence, supply the basis for the Court's jurisdictional conclusion.
-
----
-
-<!-- source-record: United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md -->
-## Event
-
-United States v. James Daniel Good Real Property, No. 92-1180; 510 U.S. 43. Merits decision, December 13, 1993 (1993-12-13). Argued October 6, 1993. On writ of certiorari to the Ninth Circuit, 971 F.2d 1376 (1992), which reversed summary judgment of forfeiture, required pre-seizure process, and remanded for a statutory-promptness inquiry. The questions are whether civil seizure of this real property required prior notice and a hearing, and whether violation of §§1602–1604 requires dismissal despite compliance with §1621.
-
-Render form: full. The pre-seizure coalition and judgment margin differ; the two judgment components have different coalitions and three distinct minority writings.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg participated at argument and decision. No nonparticipation is reported.
-
-## Public Action
-
-The Court affirms in part, reverses in part, and remands.
-
-## Judgment & Remedy
-
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Pre-seizure due process | Affirmed, 6–3 | Stone, Blackmun, Stevens, Kennedy, Souter, Ginsburg | O'Connor, Scalia, Thomas | Further proceedings respecting the notice-and-hearing requirement and its exigency exception |
-| §§1602–1604 as a basis for dismissal of this timely action | Reversed, 9–0 | Stone, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Further proceedings without the rejected statutory dismissal sanction |
-
-The judgment is affirmed in part, reversed in part, and remanded. The timely forfeiture action may proceed under lawful procedures. The lower courts must determine any properly presented, source-authorized consequences of the interim seizure, including any available restoration or accounting; no such award, automatic dismissal, return of title, or sovereign damages award is ordered here.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship and exact scope |
-|---|---|---|---|
-| Opinion for the Court: Pre-seizure process | Kennedy | Stone, Blackmun, Stevens, Souter, Ginsburg | Full agreement with the hearing ruling, exigency qualification, and corresponding remand |
-| Opinion for the Court: Statutory timing | Kennedy | Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Full agreement with the timing construction and reversal of that ground |
-| Concurrence in part and dissent in part | O'Connor | No other Justice | Joins statutory timing; disagrees with the process ruling on her stated application of Mathews and forfeiture precedent |
-| Concurrence in part and dissent in part | Scalia | No other Justice | Joins statutory timing; disagrees with the process ruling on the traditional-procedure ground |
-| Concurrence in part and dissent in part | Thomas | No other Justice | Joins statutory timing; disagrees with the process ruling on his narrower record-specific ground |
-
-## Holdings
-
-### Notice and a hearing before civil seizure of real property
-
-**Controlling proposition:** Before seizing real property for civil forfeiture, the Government must ordinarily give the owner notice and a meaningful opportunity to be heard; a Fourth Amendment warrant does not itself satisfy this independent Fifth Amendment requirement. To bypass prior process for exigent circumstances, the Government must show that less restrictive measures, such as notice of the pending claim recorded against the property, a restraining order, or a bond, would not prevent sale, destruction, or continued unlawful use; emergency seizure remains possible on that showing with appropriate subsequent process.
-
-**Authority:** Kennedy's opinion for the Court, Pre-seizure process portion, joined by Stone, Blackmun, Stevens, Souter, and Ginsburg. These six adopt the same rule, its exigency qualification, and its application.
-
-**Controlling explanation:** The Court holds that taking control of land and its rents requires a separate inquiry into fair procedure. Soldal establishes that protection against unreasonable seizure does not displace another constitutional safeguard. Mathews directs attention to the owner's interest, the danger of error and value of additional procedures, and the Government's interests and burdens. Good's tenants remained, but the Government controlled occupancy and received their rent. An ex parte probable-cause determination does not answer every ownership defense or substitute for an opportunity to contest forfeiture. Doehr and Fuentes explain why notice and adversarial participation can prevent wrongful deprivation. Calero-Toledo permitted postponement for movable property and exceptional governmental needs; land ordinarily can be preserved without first taking possession or income. Its immovability does not eliminate waste, transfer, or unlawful use, but those risks require an actual showing that narrower safeguards are inadequate. None was made here. The Court therefore affirms the hearing ruling for civil real-property forfeiture, while reserving criminal forfeiture and the ultimate forfeiture merits.
-
-**Precedent treatment:**
-- Soldal v. Cook County: applied to preserve the independent operation of constitutional protections; its possessory-seizure rule remains intact.
-- Mathews v. Eldridge: applied to the process required before this deprivation; no new general balancing formula replaces it.
-- Connecticut v. Doehr: applied for the value of notice and an opportunity to contest a prejudgment property deprivation.
-- Fuentes v. Shevin: applied for the value of notice and an opportunity to contest a prejudgment property deprivation.
-- Calero-Toledo v. Pearson Yacht Leasing Co.: distinguished because movable property and exceptional governmental needs can justify delayed process; that exception remains available where its justification exists.
-
-### Mandatory administrative promptness does not supply an unstated dismissal sanction
-
-**Controlling proposition:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers, §1603 requires prompt reporting to the United States attorney, and §1604 requires proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears; these remain mandatory duties, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
-
-**Authority:** Kennedy's opinion for the Court, Statutory timing portion, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, and Ginsburg. All nine adopt this construction and reversal of the contrary ground below.
-
-**Controlling explanation:** The Court holds that an official duty and the consequence of violating it are different questions. Congress directed prompt reports through the customs enforcement process and prompt commencement of proper proceedings. It separately supplied a five-year period protecting against stale forfeiture actions. The Government filed within that period. Brock explains that a mandatory administrative deadline does not, without more, divest the responsible official of authority after the deadline. Montalvo-Murillo likewise rejects an automatic substantive release remedy for failure to meet a mandatory hearing time when the statute does not supply that consequence. Those decisions answer the proposed inference that the word commanding promptness necessarily requires dismissal. Sections 1602–1604 contain no such sanction, and their place beside an express limitations provision gives no basis to invent one. The Court does not make the duties optional or excuse the seizure's separate constitutional defect. It reverses the statutory-delay ground and leaves independently authorized consequences to the appropriate further proceedings.
-
-**Precedent treatment:**
-- Brock v. Pierce County: applied to distinguish a mandatory timing duty from an unstated loss of governmental authority.
-- United States v. Montalvo-Murillo: applied to reject an automatic substantive remedy that the timing provision does not prescribe; its distinct hearing duty is not diluted.
-
-## Precedent Treatment
-
-The precedent-treatment lines accompanying each controlling proposition are part of the Court's law. No precedent is overruled. Buena Vista and Austin remain separate as described in Law After Decision.
-
-## Law After Decision
-
-Effective December 13, 1993, civil seizure of real property ordinarily requires prior notice and a meaningful hearing, with the Government bearing the stated exigency showing. The rule includes rented property and protects control and income, not only physical occupancy. Fourth Amendment compliance does not answer the separate process question. The customs promptness duties remain mandatory but supply no dismissal sanction for an action within §1621's five-year period. The innocent-owner and relation-back rules in United States v. 92 Buena Vista Avenue and the Excessive Fines coverage in Austin v. United States remain separate and unchanged. No criminal-forfeiture rule, final ownership determination, sovereign-immunity waiver, or automatic compensation remedy is decided.
-
-## Separate Writings
-
-O'Connor concurs in the statutory-timing ruling and dissents from the hearing ruling. She accepts Mathews as the framework but gives different weight to Good's conviction, the warrant, continued tenant occupancy, and the public enforcement interest. She also regards Calero-Toledo and established forfeiture practice as supporting process after seizure on this record. She does not deny that Good has a protected property interest or treat Mathews as categorically inapplicable.
-
-Scalia concurs in the statutory-timing ruling and dissents from the hearing ruling. His ground is the sufficiency of historically established sovereign forfeiture procedures and the warrant in this setting, informed by Gerstein's distinction between preliminary seizure procedures and a later adversarial determination. He would not impose the additional pre-seizure procedure here. He does not announce that the Fourth Amendment invariably displaces due process; Soldal's independent-protections rule remains binding.
-
-Thomas concurs in the statutory-timing ruling and dissents from the hearing ruling on the narrower combination of the conviction, warrant, and absence of physical dispossession in this record. He does not endorse unlimited reliance on the traditional property-based forfeiture fiction to justify the breadth of modern §881(a)(7). His result therefore does not establish approval of every civil forfeiture procedure or every seizure of an occupied home.
-
-## Procedure After Action
-
-The case returns to the lower courts for proceedings consistent with the two component rulings. The timely forfeiture claim remains pending; lawful consequences of the unconstitutional interim seizure require their own remedial basis. No date for further proceedings is fixed.
-
-## Source Notes
-
-The record and chronology are supported by [the official report, 510 U.S. 43](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510043/usrep510043.pdf), and the reported Ninth Circuit judgment, 971 F.2d 1376. Good had already rented the house when the Government seized control and redirected $900 monthly rent; continued tenant occupancy is not absence of a deprivation. The constitutional rule applies to civil real-property forfeiture. No verified quotation from a newly announced writing is reproduced.
 
 ---
 

@@ -1,0 +1,2887 @@
+{
+  "id": 10001024,
+  "name": "STATE of Tennessee, Appellee, v. Michael Wayne HOWELL, Appellant",
+  "name_abbreviation": "State v. Howell",
+  "decision_date": "1993-11-10",
+  "docket_number": "",
+  "first_page": "238",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "868 S.W.2d 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tenn.",
+    "id": 10312,
+    "name": "Tennessee Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 11,
+    "name_long": "Tennessee",
+    "name": "Tenn."
+  },
+  "cites_to": [
+    {
+      "cite": "107 Nev. 957",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        8559088
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "court concluded that the juiy's consideration of two invalid aggravating circumstances was harmless beyond a reasonable doubt because there were three other valid aggravators and no mitigating evidence"
+        },
+        {
+          "parenthetical": "court concluded that the juiy's consideration of two invalid aggravating circumstances was harmless beyond a reasonable doubt because there were three other valid aggravators and no mitigating evidence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/107/0957-01"
+      ]
+    },
+    {
+      "cite": "595 So.2d 1323",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7521790
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/595/1323-01"
+      ]
+    },
+    {
+      "cite": "564 So.2d 120",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        11945553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/564/0120-01"
+      ]
+    },
+    {
+      "cite": "797 P.2d 561",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "jury's consideration of invalid special circumstances did not prejudice the defendant because the prosecutor did not emphasize those factors in his argument to the jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "273 Cal.Rptr. 537",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "jury's consideration of invalid special circumstances did not prejudice the defendant because the prosecutor did not emphasize those factors in his argument to the jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.3d 471",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4457568
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "jury's consideration of invalid special circumstances did not prejudice the defendant because the prosecutor did not emphasize those factors in his argument to the jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/51/0471-01"
+      ]
+    },
+    {
+      "cite": "813 S.W.2d 420",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9981421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/813/0420-01"
+      ]
+    },
+    {
+      "cite": "838 S.W.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9996608
+      ],
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/838/0185-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 454",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187407
+      ],
+      "weight": 3,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0454-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787607
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "66"
+        },
+        {
+          "page": "2539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0056-01"
+      ]
+    },
+    {
+      "cite": "657 S.W.2d 414",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9942124
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/657/0414-01"
+      ]
+    },
+    {
+      "cite": "680 S.W.2d 447",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9941639
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/680/0447-01"
+      ]
+    },
+    {
+      "cite": "694 S.W.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9989539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/694/0941-01"
+      ]
+    },
+    {
+      "cite": "762 S.W.2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9992624
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/762/0110-01"
+      ]
+    },
+    {
+      "cite": "Tenn. Code Ann. \u00a7 39-2-205",
+      "category": "laws:leg_statute",
+      "reporter": "Tenn. Code Ann.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "(c)(4)(D)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "664 S.W.2d 281",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11747447
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/664/0281-01"
+      ]
+    },
+    {
+      "cite": "667 S.W.2d 44",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9927763
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/667/0044-01"
+      ]
+    },
+    {
+      "cite": "665 S.W.2d 87",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9927655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/665/0087-01"
+      ]
+    },
+    {
+      "cite": "727 S.W.2d 945",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9989967
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/727/0945-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 2114",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11729912
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "2123",
+          "parenthetical": "O'Connor, J. concurring"
+        },
+        {
+          "parenthetical": "O'Connor, J. concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0527-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 1130",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6225374
+      ],
+      "weight": 3,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0222-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 939",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202510
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0939-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 738",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5352
+      ],
+      "weight": 10,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "758"
+        },
+        {
+          "page": "1450"
+        },
+        {
+          "page": "756"
+        },
+        {
+          "page": "1449"
+        },
+        {
+          "page": "758, n. 5"
+        },
+        {
+          "page": "1451, n. 5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0738-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215022
+      ],
+      "weight": 4,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0249-01"
+      ]
+    },
+    {
+      "cite": "680 S.W.2d 785",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9952784
+      ],
+      "pin_cites": [
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/680/0785-01"
+      ]
+    },
+    {
+      "cite": "756 S.W.2d 669",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9981981
+      ],
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/756/0669-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 684",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541415
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0684-01"
+      ]
+    },
+    {
+      "cite": "778 S.W.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9993284
+      ],
+      "pin_cites": [
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/778/0048-01"
+      ]
+    },
+    {
+      "cite": "815 S.W.2d 166",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9970567
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "185"
+        },
+        {
+          "page": "186-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/815/0166-01"
+      ]
+    },
+    {
+      "cite": "853 S.W.2d 483",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10004339
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "489"
+        },
+        {
+          "page": "488"
+        },
+        {
+          "page": "488"
+        },
+        {
+          "page": "490"
+        },
+        {
+          "page": "489"
+        },
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/853/0483-01"
+      ]
+    },
+    {
+      "cite": "615 S.W.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9958832
+      ],
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/615/0126-01"
+      ]
+    },
+    {
+      "cite": "540 S.W.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10135244
+      ],
+      "pin_cites": [
+        {
+          "page": "649"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/540/0641-01"
+      ]
+    },
+    {
+      "cite": "797 S.W.2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9982056
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "598"
+        },
+        {
+          "page": "596"
+        },
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/797/0589-01"
+      ]
+    },
+    {
+      "cite": "857 S.W.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9992986
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "21"
+        },
+        {
+          "page": "22",
+          "parenthetical": "instruction on mercy"
+        },
+        {
+          "page": "23"
+        },
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/857/0001-01"
+      ]
+    },
+    {
+      "cite": "771 S.W.2d 387",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10001125
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/771/0387-01"
+      ]
+    },
+    {
+      "cite": "797 S.W.2d 578",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9981918
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/797/0578-01"
+      ]
+    },
+    {
+      "cite": "86 L.Ed.2d 231",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 2633",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "472 U.S. 320",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 S.W.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10150921,
+        8508335
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/463/0710-01",
+        "/tenn-app/62/0424-01"
+      ]
+    },
+    {
+      "cite": "62 Tenn.App. 424",
+      "category": "reporters:state",
+      "reporter": "Tenn. App.",
+      "case_ids": [
+        8508335
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn-app/62/0424-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12814
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "4"
+        },
+        {
+          "page": "1670-71"
+        },
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0001-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 862",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195530
+      ],
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "879"
+        },
+        {
+          "page": "2744"
+        },
+        {
+          "page": "251"
+        },
+        {
+          "page": "877"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0862-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 280",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177464
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0280-01"
+      ]
+    },
+    {
+      "cite": "370 U.S. 660",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169863
+      ],
+      "weight": 3,
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/370/0660-01"
+      ]
+    },
+    {
+      "cite": "565 S.W.2d 38",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9925573
+      ],
+      "pin_cites": [
+        {
+          "page": "40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/565/0038-01"
+      ]
+    },
+    {
+      "cite": "767 S.W.2d 387",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9973452
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/767/0387-01"
+      ]
+    },
+    {
+      "cite": "670 S.W.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9934030
+      ],
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/670/0232-01"
+      ]
+    },
+    {
+      "cite": "637 S.W.2d 858",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9957181
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/637/0858-01"
+      ]
+    },
+    {
+      "cite": "701 S.W.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9955317
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "813"
+        },
+        {
+          "page": "813"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/701/0808-01"
+      ]
+    },
+    {
+      "cite": "669 S.W.2d 694",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9949953
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "697-98"
+        },
+        {
+          "page": "698"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/669/0694-01"
+      ]
+    },
+    {
+      "cite": "605 S.W.2d 227",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9931567
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/605/0227-01"
+      ]
+    },
+    {
+      "cite": "470 S.W.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        8509577,
+        10151341
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/225/0478-01",
+        "/sw2d/470/0610-01"
+      ]
+    },
+    {
+      "cite": "225 Tenn. 478",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8509577
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/225/0478-01"
+      ]
+    },
+    {
+      "cite": "698 S.W.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9959751
+      ],
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/698/0063-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "680"
+        },
+        {
+          "page": "1436"
+        },
+        {
+          "page": "681-82"
+        },
+        {
+          "page": "681-82"
+        },
+        {
+          "page": "684-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 5,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "415 U.S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174956
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "318"
+        },
+        {
+          "page": "1111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/415/0308-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 15",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196542
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "20"
+        },
+        {
+          "page": "294"
+        },
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0015-01"
+      ]
+    },
+    {
+      "cite": "723 F.2d 319",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1914416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/723/0319-01"
+      ]
+    },
+    {
+      "cite": "505 F.Supp. 1190",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4184672
+      ],
+      "pin_cites": [
+        {
+          "page": "1252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/505/1190-01"
+      ]
+    },
+    {
+      "cite": "717 F.2d 336",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11955600
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "349"
+        },
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/717/0336-01"
+      ]
+    },
+    {
+      "cite": "725 F.2d 1040",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1924722
+      ],
+      "pin_cites": [
+        {
+          "page": "1048"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/725/1040-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1525264
+      ],
+      "weight": 3,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0400-01"
+      ]
+    },
+    {
+      "cite": "607 S.W.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9932366
+      ],
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/607/0234-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 2503",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1481067
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "2511",
+          "parenthetical": "Stephens, J. dissenting"
+        },
+        {
+          "page": "2511, n. 6",
+          "parenthetical": "Stevens, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0317-01"
+      ]
+    },
+    {
+      "cite": "706 S.W.2d 628",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9979488
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "631"
+        },
+        {
+          "page": "632"
+        },
+        {
+          "page": "628",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/706/0628-01"
+      ]
+    },
+    {
+      "cite": "594 S.W.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9947124
+      ],
+      "pin_cites": [
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/594/0743-01"
+      ]
+    },
+    {
+      "cite": "638 S.W.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9939563
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "360"
+        },
+        {
+          "page": "360"
+        },
+        {
+          "page": "366",
+          "parenthetical": "instruction on mercy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/638/0342-01"
+      ]
+    },
+    {
+      "cite": "804 S.W.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9991339
+      ],
+      "pin_cites": [
+        {
+          "page": "877"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/804/0868-01"
+      ]
+    },
+    {
+      "cite": "563 S.W.2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9950910
+      ],
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/563/0804-01"
+      ]
+    },
+    {
+      "cite": "366 U.S. 717",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285471
+      ],
+      "weight": 16,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "722-23"
+        },
+        {
+          "page": "1642-43"
+        },
+        {
+          "page": "725-28"
+        },
+        {
+          "page": "1644-45"
+        },
+        {
+          "page": "727"
+        },
+        {
+          "page": "1645"
+        },
+        {
+          "page": "728"
+        },
+        {
+          "page": "1645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0717-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 794",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541496
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "799-800"
+        },
+        {
+          "page": "2035-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0794-01"
+      ]
+    },
+    {
+      "cite": "656 S.W.2d 862",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9953769
+      ],
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/656/0862-01"
+      ]
+    },
+    {
+      "cite": "789 S.W.2d 545",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10003925
+      ],
+      "pin_cites": [
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/789/0545-01"
+      ]
+    },
+    {
+      "cite": "768 S.W.2d 239",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9970245
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "246"
+        },
+        {
+          "page": "246"
+        },
+        {
+          "page": "251-52"
+        },
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/768/0239-01"
+      ]
+    },
+    {
+      "cite": "782 S.W.2d 199",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9994402
+      ],
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/782/0199-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 202",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524661
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "219"
+        },
+        {
+          "page": "835"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0202-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 81",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1774920
+      ],
+      "weight": 11,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "88"
+        },
+        {
+          "page": "2278"
+        },
+        {
+          "page": "88"
+        },
+        {
+          "page": "2278"
+        },
+        {
+          "page": "89"
+        },
+        {
+          "page": "2279"
+        },
+        {
+          "page": "89"
+        },
+        {
+          "page": "2279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0081-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 412",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959771
+      ],
+      "weight": 3,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0412-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 1025",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212213
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1031"
+        },
+        {
+          "page": "2889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/1025-01"
+      ]
+    },
+    {
+      "cite": "736 S.W.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9963434
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/736/0095-01"
+      ]
+    },
+    {
+      "cite": "746 S.W.2d 441",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9976583
+      ],
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/746/0441-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 415",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225274
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0415-01"
+      ]
+    },
+    {
+      "cite": "635 S.W.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9945099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/635/0498-01"
+      ]
+    },
+    {
+      "cite": "839 S.W.2d 54",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9993339
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "65"
+        },
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/839/0054-01"
+      ]
+    },
+    {
+      "cite": "Tenn. Code Ann. \u00a7 39-2-203",
+      "category": "laws:leg_statute",
+      "reporter": "Tenn. Code Ann.",
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "(i)(2)"
+        },
+        {
+          "page": "(g)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "840 S.W.2d 317",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9998923
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "346"
+        },
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/840/0317-01"
+      ]
+    },
+    {
+      "cite": "83 L.Ed.2d 296",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 1
+    },
+    {
+      "cite": "105 S.Ct. 360",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 1
+    },
+    {
+      "cite": "469 U.S. 963",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12034269,
+        12034334
+      ],
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/469/0963-01",
+        "/us/469/0963-02"
+      ]
+    },
+    {
+      "cite": "504 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787710
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "707-709"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/504/0428-01"
+      ]
+    },
+    {
+      "cite": "108 L.Ed.2d 602",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "110 S.Ct. 1464",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "494 U.S. 1021",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4944,
+        5169,
+        5111,
+        5052,
+        5183
+      ],
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/494/1021-01",
+        "/us/494/1021-04",
+        "/us/494/1021-02",
+        "/us/494/1021-03",
+        "/us/494/1021-05"
+      ]
+    },
+    {
+      "cite": "372 S.E.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "551-553"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "323 N.C. 181",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        2563702
+      ],
+      "year": 1988,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nc/323/0181-01"
+      ]
+    },
+    {
+      "cite": "284 S.E.2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "248 Ga. 616",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1183857,
+        1183918
+      ],
+      "year": 1980,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ga/248/0616-01",
+        "/ga/248/0616-02"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 1093",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6223309
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/503/0159-01"
+      ]
+    },
+    {
+      "cite": "100 L.Ed.2d 934",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        1104894
+      ],
+      "year": 1988,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/351/0056-01"
+      ]
+    },
+    {
+      "cite": "108 S.Ct. 2834",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 1
+    },
+    {
+      "cite": "486 U.S. 1061",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6375268,
+        6376325,
+        6375755,
+        6375564,
+        6375412,
+        6376092
+      ],
+      "year": 1988,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/486/1061-01",
+        "/us/486/1061-06",
+        "/us/486/1061-04",
+        "/us/486/1061-03",
+        "/us/486/1061-02",
+        "/us/486/1061-05"
+      ]
+    },
+    {
+      "cite": "743 P.2d 210",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "229"
+        },
+        {
+          "page": "228-230"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "108 Wash.2d 734",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1187836
+      ],
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/108/0734-01"
+      ]
+    },
+    {
+      "cite": "72 L.Ed.2d 864",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1982,
+      "opinion_index": 1
+    },
+    {
+      "cite": "102 S.Ct. 2260",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "opinion_index": 1
+    },
+    {
+      "cite": "456 U.S. 984",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6378752,
+        6378420,
+        6378588
+      ],
+      "year": 1982,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/456/0984-03",
+        "/us/456/0984-01",
+        "/us/456/0984-02"
+      ]
+    },
+    {
+      "cite": "210 Neb. 457",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        5416896
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/neb/210/0457-01"
+      ]
+    },
+    {
+      "cite": "130 N.J. 109",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        329124
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nj/130/0109-01"
+      ]
+    },
+    {
+      "cite": "836 S.W.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9976276
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/836/0530-01"
+      ]
+    },
+    {
+      "cite": "855 S.W.2d 526",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11291829
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/855/0526-01"
+      ]
+    },
+    {
+      "cite": "864 S.W.2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10008419
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/864/0465-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11304091
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "110"
+        },
+        {
+          "page": "874"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/455/0104-01"
+      ]
+    },
+    {
+      "cite": "753 S.W.2d 659",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9987241
+      ],
+      "pin_cites": [
+        {
+          "page": "664-665"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/753/0659-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 639",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6218483
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "3058"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/497/0639-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 493",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9138802
+      ],
+      "weight": 5,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "503",
+          "parenthetical": "opinion of Marshall, J."
+        },
+        {
+          "page": "2169",
+          "parenthetical": "opinion of Marshall, J."
+        },
+        {
+          "parenthetical": "opinion of Marshall, J."
+        },
+        {
+          "page": "242, 243"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/407/0493-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214785
+      ],
+      "weight": 7,
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/481/0279-01"
+      ]
+    },
+    {
+      "cite": "621 S.W.2d 127",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9959903
+      ],
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/621/0127-01"
+      ]
+    },
+    {
+      "cite": "614 S.W.2d 348",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9965669
+      ],
+      "pin_cites": [
+        {
+          "page": "350-351"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/614/0348-01"
+      ]
+    },
+    {
+      "cite": "690 S.W.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9974922
+      ],
+      "pin_cites": [
+        {
+          "page": "527, 532"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/690/0517-01"
+      ]
+    },
+    {
+      "cite": "758 S.W.2d 515",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9976757
+      ],
+      "pin_cites": [
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/758/0515-01"
+      ]
+    },
+    {
+      "cite": "714 S.W.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9966928
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/714/0241-01"
+      ]
+    },
+    {
+      "cite": "337 So.2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9674456
+      ],
+      "pin_cites": [
+        {
+          "page": "786"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/337/0783-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217116
+      ],
+      "weight": 3,
+      "year": 1988,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/486/0356-01"
+      ]
+    },
+    {
+      "cite": "840 S.W.2d 307",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9998672
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/840/0307-01"
+      ]
+    },
+    {
+      "cite": "492 U.S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215448
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/492/0361-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183794
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "433"
+        },
+        {
+          "page": "1767"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/446/0420-01"
+      ]
+    },
+    {
+      "cite": "465 U.S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11334651
+      ],
+      "weight": 6,
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/465/0037-01"
+      ]
+    },
+    {
+      "cite": "855 S.W.2d 563",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11291904
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "570-71"
+        },
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/855/0563-01"
+      ]
+    },
+    {
+      "cite": "458 U.S. 782",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        636586
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "797"
+        },
+        {
+          "page": "3377"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/458/0782-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6211931
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "157-158"
+        },
+        {
+          "page": "1688"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/481/0137-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 538",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220747
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "545",
+          "parenthetical": "O'Connor, J., concurring"
+        },
+        {
+          "page": "841",
+          "parenthetical": "O'Connor, J., concurring"
+        },
+        {
+          "parenthetical": "O'Connor, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/479/0538-01"
+      ]
+    },
+    {
+      "cite": "492 U.S. 302",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214810
+      ],
+      "weight": 6,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "318",
+          "parenthetical": "quoting California v. Brown, 479 U.S. 538, 545, 107 S.Ct. 837, 841, 93 L.Ed.2d 934 (1987) (O'Connor, J., concurring) (emphasis in original)"
+        },
+        {
+          "page": "2947",
+          "parenthetical": "quoting California v. Brown, 479 U.S. 538, 545, 107 S.Ct. 837, 841, 93 L.Ed.2d 934 (1987) (O'Connor, J., concurring) (emphasis in original)"
+        },
+        {
+          "parenthetical": "quoting California v. Brown, 479 U.S. 538, 545, 107 S.Ct. 837, 841, 93 L.Ed.2d 934 (1987) (O'Connor, J., concurring) (emphasis in original)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/492/0302-01"
+      ]
+    },
+    {
+      "cite": "25 L.Ed. 345",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3373987
+      ],
+      "year": 1878,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/99/0130-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 238",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782791
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "392-93"
+        },
+        {
+          "page": "2805-06"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/408/0238-01"
+      ]
+    },
+    {
+      "cite": "404 F.2d 571",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2125046
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/404/0571-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 153",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176749
+      ],
+      "weight": 6,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "171-173"
+        },
+        {
+          "page": "2924-2925"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/428/0153-01"
+      ]
+    },
+    {
+      "cite": "217 U.S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        407817
+      ],
+      "weight": 9,
+      "year": 1909,
+      "pin_cites": [
+        {
+          "page": "378"
+        },
+        {
+          "page": "553"
+        },
+        {
+          "page": "381"
+        },
+        {
+          "page": "554"
+        },
+        {
+          "page": "367"
+        },
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/217/0349-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 86",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6161306
+      ],
+      "weight": 9,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "99-100"
+        },
+        {
+          "page": "597"
+        },
+        {
+          "page": "101"
+        },
+        {
+          "page": "597"
+        },
+        {
+          "page": "100"
+        },
+        {
+          "page": "597"
+        },
+        {
+          "page": "100"
+        },
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/356/0086-01"
+      ]
+    },
+    {
+      "cite": "813 S.W.2d 420",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9981421
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/813/0420-01"
+      ]
+    },
+    {
+      "cite": "838 S.W.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9996608
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/838/0185-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 1130",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6225374
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1137"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/503/0222-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 939",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202510
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "973"
+        },
+        {
+          "page": "3437"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/463/0939-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 738",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5352
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "748"
+        },
+        {
+          "page": "1448"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/494/0738-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215022
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "261",
+          "parenthetical": "Marshall, J., dissenting"
+        },
+        {
+          "page": "1800",
+          "parenthetical": "Marshall, J., dissenting"
+        },
+        {
+          "parenthetical": "Marshall, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/486/0249-01"
+      ]
+    },
+    {
+      "cite": "815 S.W.2d 166",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9970567
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "189"
+        },
+        {
+          "page": "194-95"
+        },
+        {
+          "page": "193"
+        },
+        {
+          "page": "197",
+          "parenthetical": "Reid, C.J., concurring and dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/815/0166-01"
+      ]
+    },
+    {
+      "cite": "853 S.W.2d 483",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10004339
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/853/0483-01"
+      ]
+    },
+    {
+      "cite": "615 S.W.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9958832
+      ],
+      "pin_cites": [
+        {
+          "page": "136, 140-141"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/615/0126-01"
+      ]
+    },
+    {
+      "cite": "857 S.W.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9992986
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/857/0001-01"
+      ]
+    },
+    {
+      "cite": "86 L.Ed.2d 231",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "105 S.Ct. 2633",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "2640"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "472 U.S. 320",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "462 U.S. 862",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195530
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "876"
+        },
+        {
+          "page": "2742"
+        },
+        {
+          "page": "877"
+        },
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/462/0862-01"
+      ]
+    },
+    {
+      "cite": "370 U.S. 660",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169863
+      ],
+      "weight": 3,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "666"
+        },
+        {
+          "page": "1420"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/370/0660-01"
+      ]
+    },
+    {
+      "cite": "839 S.W.2d 54",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9993339
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "54, 83",
+          "parenthetical": "Tenn.1992"
+        },
+        {
+          "page": "85",
+          "parenthetical": "Reid, C.J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/839/0054-01"
+      ]
+    },
+    {
+      "cite": "840 S.W.2d 317",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9998923
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "351"
+        },
+        {
+          "page": "351-52"
+        },
+        {
+          "page": "354-55"
+        },
+        {
+          "page": "338"
+        },
+        {
+          "page": "343"
+        },
+        {
+          "page": "353"
+        },
+        {
+          "page": "341-47"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/840/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 3135,
+    "char_count": 125145,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 4.838829868725104e-07,
+      "percentile": 0.9322686380557322
+    },
+    "sha256": "be00a7e573a60d4a235ac1525cc7c524ac065684799e40fbaa0575afaec7dba3",
+    "simhash": "1:9240a72b634e9f9a",
+    "word_count": 20003
+  },
+  "last_updated": "2024-02-27T18:12:36.659615+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DROWOTA and O\u2019BRIEN, JJ., concur.",
+      "DAUGHTREY, J., concurring in the results only.",
+      "REID, C.J., see separate concurring opinion."
+    ],
+    "parties": [
+      "STATE of Tennessee, Appellee, v. Michael Wayne HOWELL, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nANDERSON, Justice.\nIn this capital case, the defendant, Michael Wayne Howell, was found guilty of grand larceny and the first-degree felony murder of Alvin Kennedy, but found not guilty of premeditated first-degree murder. In the sentencing hearing, the Memphis jury found two aggravating circumstances: (1) that the defendant was previously convicted of one or more felonies which involved the use or threat of violence to the person; and (2) that the murder was committed while the defendant was engaged in committing a felony. Tenn.Code Ann. \u00a7 39-2-203(i)(2) and (7) (1982). The jury rejected the aggravating circumstance that the murder was committed to prevent the lawful arrest or prosecution of the defendant, Tenn.Code Ann. \u00a7 39-2-203(i)(6) (1982), but found that there were no mitigating circumstances sufficiently substantial to outweigh the other two aggravating circumstances, and sentenced the defendant to death by electrocution. The court ordered the defendant\u2019s death sentence to run consecutively with a death sentence for murder in Oklahoma and a 26-year sentence for attempted murder in Florida, which convictions arose out of events that occurred shortly after the Memphis murder.\nOn appeal, the defendant raises numerous issues for our review, involving alleged errors occurring at trial in the guilt phase. We have carefully considered the defendant\u2019s contentions and have decided that none has merit. We, therefore, affirm the defendant\u2019s conviction in the guilt phase.\nIn State v. Middlebrooks, 840 S.W.2d 317 (Tenn.1992), a majority of this Court concluded that application of the aggravating circumstance set forth in Tenn.Code Ann. \u00a7 39-2-203(i)(7), that the murder occurred while the defendant was engaged in committing a felony, does not narrow the population of death-eligible felony murder defendants as required under the Tennessee and United States Constitutions, because it essentially duplicates the elements of the offense of first-degree felony murder. Applying the Middlebrooks holding to this case results in the invalidation of the felony murder aggravating circumstance and requires a determination of whether the jury\u2019s consideration of that aggravating circumstance was harmless beyond a reasonable doubt. Upon careful review of the record, we conclude that the submission of the felony murder aggravating circumstance for jury consideration, in this case, is harmless error beyond a reasonable doubt.\nWe, therefore, affirm the defendant\u2019s death sentence.\nFACTUAL BACKGROUND\nOn Saturday, October 31, 1987, between 10:00 a.m. and 1:00 p.m., the defendant and his girlfriend, Mona Lisa Watson, walked to the house of his brother\u2019s girlfriend, Cheri Goff. After arriving, the defendant showed Goff a set of keys to the Lynn Whitsett Corporation property in Memphis where he had previously worked, and announced that \u201che was going to go get him a truck.\u201d The defendant also said \u201che was going down hard this time, and he was going to take some people with him.\u201d After making these statements, Goff said the defendant used her telephone to call someone about getting a gun for him. Goff also testified that she had previously seen the defendant carrying a silver handgun with a white, or bone, handle.\nLater that same night, sometime after 8:00 p.m., Terry Lee Ellis drove Howell and Watson to Raines Road and left them at the Ryder Truck Terminal near the Lynn Whit-sett property. Earlier, around 7:30 p.m., the defendant and Watson had stopped by the home of Robert Brink, the husband of one of Watson\u2019s friends. Brink said Howell asked to borrow some money and used the telephone, but did not stay long.\nAround 2:30 a.m. on Sunday, November 1, 1987, the defendant and Watson purchased a candy bar at the Quick-Shop Food Store on Macon in Memphis. Cassandra Henderson, the clerk on duty testified that the defendant was driving a white pickup truck with writing on the door and a workman\u2019s rack on the back, which he had parked on the blind side of the store. Henderson also said that as Howell was leaving the store, he bumped into another customer, Rodney Graves, who was entering the store, and a fight broke out between the two men. After the fight, Henderson said she saw the defendant in the store parking lot with a silver pistol. Rodney Graves testified that after the fight, Howell went outside and returned to the front door of the store carrying a silver gun with bone handle, but nothing happened and the defendant left the premises.\nLater that day, sometime in the evening of November 1,1987, the defendant and Watson drove the Whitsett truck to Stanley Johnson\u2019s house. Johnson testified that Howell was waving around a nickel-plated .38 caliber pistol with a bone handle, which the defendant referred to as \u201cJesus Christ.\u201d In addition, Johnson said Howell told him that \u201canybody messes with us, I\u2019ll introduce them to Jesus Christ.\u201d Thereafter, between 9:00 and 10:00 p.m., Cheri Goff said she was returning home from a movie with some friends when she saw the defendant driving a white truck with a Lynn Whitsett logo on the side and red sideboards on the back.\nAt 11:05 'p.m. on November 1, 1987, Tennessee Highway Patrol Officer Aaron Chism said he stopped by Loeb\u2019s 7-Eleven Market on Whitten Road off Interstate 40 in Shelby County, and saw the victim, Alvin Kennedy, working at his job on the midnight shift. Between 12:20 and 12:40 a.m. that same night, Brian Moser said he came into the Loeb\u2019s store to purchase a six-pack of beer, but there was no clerk in the store. As a result, after waiting a few minutes, Moser said he decided to go across the street to the Southland 7-Eleven and purchase his beer.\nAt 12:45 a.m., Charles Allen stopped at Loeb\u2019s 7-Eleven to purchase some gasoline. When he went to pay for his gas, Allen found Kennedy\u2019s body lying behind the counter in a pool of blood, the cash register drawer open, and all of the paper money missing. As a result, Allen said he ran across the street to the Southland 7-Eleven and asked the clerk to call the police.\nUpon investigation, it was discovered that Kennedy had been shot once from close range in the upper right forehead. The wound had immediately rendered him unconscious, and he had died within a short time. It was also discovered that $111.16 was missing from the store. The tape from the cash register indicated that the last transaction had occurred at 12:24 a.m.\nSusan Bauer, the clerk at the Southland 7-Eleven across the street from the Loeb\u2019s store, testified that she remembered Watson and the defendant purchasing beer and a candy bar at her store around 12:20 a.m., approximately 20 minutes before Allen came in asking her to call the police. She said she remembered when they came in because they parked the Whitsett truck on the blind side of the store, which she thought was suspicious for that time of night.\nLater that day, Monday, November 2, 1987, at approximately 9:00 p.m., Charlene Calhoun was shot in the parking lot of her apartment complex near Interstate 40 in Dell City, Oklahoma, and her 1987 Toyota Tercel was stolen. A witness who heard the shooting said he saw a man and a woman get into a light-colored Toyota hatchback and drive away after the shots were fired. The Lynn Whitsett truck was found only 125 feet from the scene of the shooting, with its interior on fire, and the defendant\u2019s left palm prints on the truck\u2019s fenders.\nOn the morning of Tuesday, November 3, 1987, Stanley Johnson said he saw Howell and Watson in Memphis, and they were driving a small compact car. The defendant asked Johnson for money and said that \u201che had a little heat on him [and] had to get out of town.\u201d Johnson said he gave Howell $20, and promised to try to raise a couple of hundred dollars more by that evening.\nThat night, the defendant and Watson came to Johnson\u2019s house. After Johnson told the defendant he had not been able to raise any money, Howell asked Johnson to sell his gun for him. When Johnson said he couldn\u2019t get $5 for the gun, the defendant decided to keep it. Johnson also told the defendant that the story of the killing was being broadcast, that his picture was being shown on TV, and it was reported that he killed a man for $17. Johnson testified that he asked the defendant \u201cWhy $17?,\u201d and Howell replied, \u201cYeah, he wouldn\u2019t open the safe, so I told him I\u2019d introduce him to Jesus Christ if he wouldn\u2019t open the safe. You know how I am, Stan. If they\u2019re old enough to talk, I wasn\u2019t going to leave a witness. They\u2019re old enough to die.\u201d After giving the defendant $30 and promising to try to find $200 for him by the next night, Johnson said Howell and Watson left, and he never saw them again.\nAlmost a month later, on November 29, 1987, the defendant and Watson were arrested in Panama City, Florida, after a shoot-out with police and a high-speed chase. They were driving the stolen Toyota from Oklahoma, but had replaced the Oklahoma tags with Tennessee plates from another vehicle. Florida police found a nickel-plated Smith & Wesson .38 revolver with a bone handle on the floorboard of the passenger\u2019s side where the defendant had been seated. Ballistics tests indicated that the bullet that had killed Alvin Kennedy had been fired from this gun, as had the bullet taken from the body of Charlene Calhoun in Oklahoma.\nThe last evidence introduced by the State was the redacted testimony of co-defendant Mona Lisa Watson given in April of 1988 at the defendant\u2019s Oklahoma preliminary hearing for the murder of Charlene Calhoun. Watson agreed to testify against the defendant in return for a life sentence. Although she later decided not to testify at both the Tennessee trial and the Oklahoma trial, Watson was questioned on direct examination by the prosecutors at the Oklahoma preliminary hearing. She testified that she and the defendant had driven Interstate 40 from Memphis to Oklahoma in the Lynn Whitsett truck on November 1 and 2, 1987. Watson said they drank beer and shot cocaine on the trip, and when they got to Dell City, Oklahoma, she said they got off the interstate and stopped at an apartment complex to walk around. After walking around for a few minutes, Watson said Howell shot Charlene Calhoun, the two of them took her car, and they set fire to the Lynn Whitsett truck by igniting lighter fluid she had thrown on the front seat. Then, Watson said she and the defendant drove back to Memphis in Calhoun\u2019s ear, and thereafter to Florida on November 3, 1987.\nOn cross-examination during the Oklahoma preliminary hearing, the Oklahoma public defender representing Howell asked Watson questions about a shooting in Memphis prior to their trip to Oklahoma. Watson testified that before going to Oklahoma, she and the defendant had gone into a convenience store in Memphis to purchase a six-pack of beer. After Howell handed her the beer and told her to go to the car, Watson said the defendant pulled a gun and shot the clerk in the head, and that it was the same gun Howell had shown her earlier.\nLater, at the Tennessee trial, Howell\u2019s defense counsel tried to impeach the prelimi-naiy hearing testimony of Watson. He attempted to introduce testimony from Watson\u2019s Oklahoma lawyer and the defendant\u2019s Oklahoma lawyer that Watson later stated that she had lied during the preliminary hearing in order to escape the death penalty herself. The Memphis trial judge, however, sustained the State\u2019s objection that the evidence was hearsay and self-serving, and ruled the evidence inadmissible. Except for this attempt to impeach Watson\u2019s former testimony, the defendant presented no testimony on his behalf at the guilt phase of the trial.\nBased upon this evidence, the jury found the defendant guilty of first-degree murder in the perpetration of a felony and grand larceny, but not guilty of premeditated first-degree murder.\nIn the sentencing phase, the state incorporated the evidence presented at the guilt phase, and introduced proof that the defendant had been convicted of armed robbery in Wyoming in 1980, of first-degree murder in Oklahoma in 1988, and of armed robbery and attempted first-degree murder in Florida in 1988.\nIn mitigation, the defendant\u2019s main theory was that he suffered from brain damage, and therefore his ability to appreciate the wrongfulness of his conduct or conform his conduct to the requirements of the law was impaired. The defendant\u2019s mother testified that Howell was a loving son who had come from a very poor family. She also testified that the defendant\u2019s father drank heavily, and the defendant grew up witnessing his father beating her. The defendant\u2019s mother testified that Howell, the fifth of nine children, had been born prematurely as a result of one such beating. After being diagnosed as a slow learner and being placed in special education classes, the defendant\u2019s mother said Howell finally dropped out of school in the eighth grade and went to work on his father\u2019s garbage truck.\nThe other evidence presented by the defendant\u2019s sister and mother demonstrated that he had suffered four head injuries during his life. Once, while working on the garbage truck, the defendant was hit in the head by the truck compactor door and his skull was fractured. Another time, during a fight, one of his brothers hit him in the head and knocked him out with a bumper jack. The third injury occurred when a winch cable broke loose and knocked him unconscious while he was working on a river boat. The last injury occurred when he was knocked unconscious alter taking several left hooks during a boxing match in the Wyoming prison.\nThe defendant\u2019s other witness, Dr. Phillip Murphy, a clinical psychologist, testified that he administered a battery of psychological tests to Howell in November of 1988. Dr. Murphy said that the test results showed \u201cdefinite evidence of brain damage,\u201d and that the brain abnormalities impaired Howell\u2019s ability to appreciate the wrongfulness of his conduct or conform his conduct to the requirements of the law to the extent that his judgment was substantially' affected. Dr. Murphy diagnosed the defendant as suffering from chronic organic brain syndrome and a resultant personality disorder. Extensive medical testing, however, failed to show evidence of brain damage.\nBased upon the proof, the jury found the existence of two aggravating circumstances beyond a reasonable doubt. The jury found that (1) the defendant was previously convicted of one or more felonies which involved the use or threat of violence to the person, Tenn. Code Ann. \u00a7 39-2-203(i)(2) (1982), and (2) that the murder was committed while the defendant was engaged in committing a felony, Tenn.Code Ann. \u00a7 39 \u2014 2\u2014203(i)(7) (1982). In addition, the jury found that there were no mitigating circumstances sufficiently substantial to outweigh the two aggravating circumstances. As a result, the jury sentenced the defendant to death.\nPART I.\nGUILT PHASE \u2014 TRIAL ERRORS\nA. Individual Jury Voir Dire\nThe first issue raised by the defendant is whether the trial court erred in refusing to allow individual voir dire on the prospective jurors\u2019 exposure to pretrial publicity. The defendant contends that many of the jurors had been exposed to pretrial publicity about this crime, the Oklahoma crime, and the Florida crime, and as a result, counsel for the defendant should have been allowed to engage in individual, sequestered voir dire of those prospective jurors. In particular, the defendant argues that his counsel should have been allowed to question jurors concerning the content of the pretrial publicity to which they were exposed.\nThe ultimate goal of voir dire is to see that jurors are competent, unbiased, and impartial, and the decision of how to conduct voir dire of prospective jurors rests within the sound discretion of the trial court. State v. Harris, 839 S.W.2d 54, 65 (Tenn.1992); State v. Simon, 635 S.W.2d 498, 508 (Tenn.1982); see also Mu\u2019Min v. Virginia, 500 U.S. 415, 111 S.Ct. 1899, 114 L.Ed.2d 493 (1991). Where the crime is highly publicized, the better procedure is to grant the defendants individual, sequestered, voir dire, but it is only where there is a \u201csignificant possibility\u201d that a juror has been exposed to potentially prejudicial material that individual voir dire is mandated. Harris, 839 S.W.2d at 65; State v. Porterfield, 746 S.W.2d 441, 447 (Tenn.1988); and State v. Claybrook, 736 S.W.2d 95, 100 (Tenn.1987). In addition, questions about the content of the publicity to which jurors have been exposed might be helpful in assessing whether a juror is impartial, but such questions are not constitutionally compelled, and the trial court\u2019s failure to ask these questions is not reversible error unless it rendered the defendant\u2019s trial fundamentally unfair. Mu\u2019Min v. Virginia, 500 U.S. at -, 111 S.Ct. at 1905.\nIn this case, the record demonstrates that of the 78 prospective jurors examined, around 52, or about 64 percent, had some pretrial exposure to the case, either at the time the crime was committed, or shortly before the trial began. The trial court refused individual voir dire of all jurors who had heard or read something about the case but did not remember specific details, but the court indicated that individual voir dire would be permitted for those jurors who indicated that they did remember the specific content of news reports. However, none of the jurors who actually heard the ease indicated that they remembered specific details of any of the pretrial publicity. In addition, those members of the jury who were exposed to pretrial publicity stated that they could and would render an impartial verdict based solely on the evidence presented at trial.\nBased upon this record, we conclude that the trial court did not abuse its discretion in refusing to allow individual voir dire of prospective jurors with respect to the content of pretrial news reports to which they had been exposed. A trial court\u2019s findings of juror impartiality may be overturned only for \u201cmanifest error,\u201d Patton v. Yount, 467 U.S. 1025, 1031, 104 S.Ct. 2885, 2889, 81 L.Ed.2d 847 (1984), and w\u00e9 find no such error on this record.\nNext, the defendant contends that the trial court\u2019s failure to allow him to ask prospective jurors exactly what they knew about the case from the pretrial publicity impaired his right to use his peremptory challenges intelligently and violated his rights to due process, and his right to a fair and impartial jury under the Sixth and Fourteenth Amendments to the U.S. Constitution.\nIt is well settled that the Sixth and Fourteenth Amendments guarantee a defendant on trial for his life the right to an impartial jury, see Wainwright v. Witt, 469 U.S. 412, 105 S.Ct. 844, 83 L.Ed.2d 841 (1985), and the use of peremptory challenges is a means to achieve the end of an impartial jury. Ross v. Oklahoma, 487 U.S. 81, 88, 108 S.Ct. 2273, 2278, 101 L.Ed.2d 80 (1988). However, although the right to exercise peremptory challenges is \u201cone of the most important of the rights secured to the accused,\u201d Swain v. Alabama, 380 U.S. 202, 219, 85 S.Ct. 824, 835, 13 L.Ed.2d 759 (1965), the right to exercise peremptory challenges is not of constitutional dimension. Ross, 487 U.S. at 88, 108 S.Ct. at 2278.\nAs long as the jury that sits is impartial, the denial or impairment of the right to exercise peremptory challenges does not violate the Sixth Amendment. Id. In addition, because peremptory challenges are a creature of statute and are not required by the Constitution, denial or impairment of the right to exercise peremptory challenges does not violate the due process clause of the Fourteenth Amendment as long as the defendant receives what the state law provides. Id., 487 U.S. at 89, 108 S.Ct. at 2279.\nIn this case, the defendant was permitted to exercise all 15 of the peremptory challenges a death-eligible defendant is allowed under Tenn.R.Crim.P. 24, and the record does not support a charge of systematic impairment of his ability to exercise those challenges. In addition, there is no evidence that the jury which ultimately heard the case was unfair or partial.\nAccordingly, we find no reversible error as a result of the restriction of voir dire.\nB. Jury Voir Dire and Challenges For Cause\nThe next issue we address is whether the trial court erred in failing to strike certain prospective jurors for cause because they admitted to having preconceived opinions about the case. The defendant argues that two jurors should have been excused for cause under Tenn.R.Crim.P. 24(b)(2), which provides, in part, that if a juror \u201cadmits to having formed an opinion, he shall be subject to challenge for cause unless the examination shows unequivocally that he can be impartial.\u201d\nA trial court has wide discretion in ruling on the qualifications of a juror, State v. Kilburn, 782 S.W.2d 199, 203 (Tenn.Crim.App.1989), but irrespective of whether the trial judge should have excluded the two challenged jurors for cause, any error in this regard is harmless unless the jury who heard the case was not fair and impartial. State v. Thompson, 768 S.W.2d 239, 246 (Tenn.1989). It is a long-settled principle that a defendant who disagrees with a trial court\u2019s ruling on for cause challenges must, in order to preserve the claim that the ruling deprived him of a fair trial, exercise peremptory challenges to remove the jurors. Even then, however, the failure to correctly exclude a juror for cause is grounds for reversal only if the defendant exhausts all of his peremptory challenges and an incompetent juror is forced upon him. Ross, 487 U.S. at 89, 108 S.Ct. at 2279; and State v. Jones, 789 S.W.2d 545, 549 (Tenn.1990).\nThe record reflects that one of the challenged jurors, Michael Benson, did not serve on the jury. Accordingly, any error in refusing to excuse him for cause in and of itself does not entitle the defendant to a new trial unless the jury that ultimately heard the case was not fair and impartial. State v. Thompson, 768 S.W.2d at 246.\nThe record also reflects, however, that the other challenged juror, Ricky Carver, did serve on the jury. On voir dire by the State, Carver stated that he had opinions but believed he could set aside any preconceived opinion and require the State to prove beyond a reasonable doubt that the defendant was guilty.\nThe trial judge excused other jurors for cause after they testified they had formed opinions on the merits of the case and would not be able to set aside those opinions and render a verdict on the evidence alone. Unlike those jurors, Carver testified that he could set aside his preconceived opinions and render a verdict based solely on the evidence presented at trial. After hearing this testimony and observing Carver\u2019s demeanor, the trial judge overruled the challenge for cause.\nAfter reviewing the record, we conclude that the trial court did not abuse its discretion in refusing to excuse either Benson or Carver for cause. \u201cJurors need not be totally ignorant of the facts of the ease on which they sit [and] [e]ven the formation of an opinion on the merits will not disqualify a juror if [he] can lay aside [his] opinion and render a verdict based on the evidence presented in court.\u201d State v. Sammons, 656 S.W.2d 862, 869 (Tenn.Crim.App.1982). See also Murphy v. Florida, 421 U.S. 794, 799-800, 95 S.Ct. 2031, 2035-36, 44 L.Ed.2d 589 (1975); Irvin v. Dowd, 366 U.S. 717, 722-23, 81 S.Ct. 1639, 1642-43, 6 L.Ed.2d 751 (1961); and Adams v. State, 563 S.W.2d 804, 807 (Tenn.1978).\nAccordingly, we find no merit to the defendant\u2019s argument.\nC. Change of Venue\nThe next issue we address is whether the trial court erred by denying the defendant\u2019s motion for a change of venue due to the pretrial publicity. The defendant contends that because 52 of the 78 prospective jurors were exposed to pretrial publicity mentioning the defendant\u2019s criminal record, and that he was suspected of killing a second convenience store clerk in Memphis, the trial court\u2019s failure to grant a change of venue deprived him of his right to trial by an impartial jury, his right to due process, and his right to fundamental fairness as guaranteed by the Sixth and Fourteenth Amendments to the U.S. Constitution. In support of his argument, the defendant cites Irvin v. Dowd, 366 U.S. 717, 81 S.Ct. 1639, 6 L.Ed.2d 751 (1961).\nThe matter of a change of venue addresses itself to the sound discretion of the trial court, and a denial of change of venue will only be reversed on appeal for an affirmative and clear abuse of discretion. State v. Bates, 804 S.W.2d 868, 877 (Tenn.1991); and State v. Melson, 638 S.W.2d 342, 360 (Tenn.1982). In this case, we find no abuse of discretion on the part of the trial judge.\nIn State v. Hoover, 594 S.W.2d 743, 746 (Tenn.Crim.App.1979), the court listed a group of 17 factors to be considered in determining whether to grant a change of venue. Among these are the nature, extent, and timing of the pretrial publicity. Although there had been publicity about the case, most of it had occurred two years before the trial, and despite the fact that approximately 60 percent of the prospective jurors recalled the occurrence of the offense, none of the jurors who actually heard the case could remember any of the details of the news reports. The facts of this case are very different from the facts in Irvin v. Dowd, supra, the case relied upon by the defendant.\nIn Irvin v. Dowd, supra, two-thirds of the jurors actually seated had been exposed to a barrage of pretrial publicity right up until the time of trial, had already formed an opinion that the defendant was guilty, and acknowledged familiarity with material facts and circumstances of the case. Irvin, 366 U.S. at 725-28, 81 S.Ct. at 1644-45. In addition, even the headlines of one of the local newspapers reported during jury selection that \u201cimpartial jurors are hard to find.\u201d Id., 366 U.S. at 727, 81 S.Ct. at 1645. Although each of the jurors said that he could be impartial, the U.S. Supreme Court concluded that \u201c[w]ith his life at stake, it is not requiring too much that petitioner be tried in an atmosphere undisturbed by so huge a wave of public passion and by a jury other than one in which two-thirds of the members admit, before hearing any testimony, to possessing a belief in his guilt.\u201d Id., 366 U.S. at 728, 81 S.Ct. at 1645.\nUnlike the jury in Irvin v. Dowd, the jurors\u2019 exposure to pretrial publicity in this case ranged from nonexistent to moderate, and there is no evidence of any \u201cundue excitement against the defendant\u201d in Shelby County which would have precluded a fair trial. See Tenn.R.Crim.P. 21(a). See also State v. Melson, 638 S.W.2d at 360. Accordingly, we find no abuse of discretion in the trial court\u2019s denial of the defendant\u2019s motion for a change of venue.\nD. Oklahoma Preliminary Hearing Testimony\nWe next consider whether the trial court erred in admitting the testimony of co-defendant, Mona Lisa Watson, given at the defendant\u2019s preliminary hearing in Oklahoma on the charges against him in that state for the murder of Charlene Calhoun. The trial court admitted this testimony under the former testimony exception to the hearsay rule, which provides:\n(b) Hearsay exceptions\nThe following are not excluded by the hearsay rule if the declarant is unavailable as a witness:\n(1) Former testimony\nTestimony given as a witness at another hearing of the same or a different proceeding, ... if the party against whom the testimony is now offered ... had an opportunity and similar motive to develop the testimony by direct, cross, or redirect examination.\nFed.R.Evid. 804(b)(1) (adopted by this Court as a statement of the law in Tennessee in State v. Causby, 706 S.W.2d 628, 631 (Tenn.1986)). Whenever former testimony is at issue, the underlying question is \u201cwhether fairness allows imposing, upon the party against whom now offered, the handling of the witness on the earlier occasion.\u201d Fed.R.Evid. 804, advisory committee note, 28 U.S.C.A. at 446, subd. (b), except. (1). The rule was designed to ensure fairness in cases when former testimony is admitted. Accordingly, the rule must be given a literal meaning, and each element of the rule must be satisfied before former testimony is admitted. See United States v. Salerno, \u2014 U.S. -, 112 S.Ct. 2503, 120 L.Ed.2d 255 (1992).\nFirst, the defendant contends that Watson was not unavailable because she did not invoke her privilege against self-incrimination until after the preliminary hearing testimony was admitted and read to the jury. While it would have been a better procedure for the trial court to have Watson invoke the privilege against self-incrimination out of the jury\u2019s presence before- admitting the preliminary hearing testimony, Watson invoked her privilege against self-incrimination and did not testify during the trial. Since invocation of the privilege against self-incrimination renders a witness unavailable, State v. Armes, 607 S.W.2d 234, 237 (Tenn.1980), and since the circumstances of the present case conclusively support a finding of unavailability, we find no merit to the defendant\u2019s argument.\nThe defendant next contends that although he had an opportunity to cross examine Wat-: son at the Oklahoma preliminary hearing, he did not have a similar motive to develop her testimony because the preliminary hearing involved separate charges in another state. He also argues that he was represented by a different lawyer in those proceedings, who had no real motive to inquire into or develop the facts relevant to the killing of Alvin Kennedy in Tennessee. As a result, the defendant asserts that admission of the former testimony violated the hearsay rule and his right to confrontation under the Sixth and Fourteenth Amendments to the U.S. Constitution, and Article I, \u00a7 9 of the Tennessee Constitution.\nThe Sixth Amendment to the U.S. Constitution, which is applicable to the states through the Fourteenth Amendment, see Pointer v. Texas, 380 U.S. 400, 85 S.Ct. 1065, 13 L.Ed.2d 923 (1965), provides that \u201c[i]n all criminal prosecutions, the accused shall enjoy the right to be confronted with the witnesses against him.\u201d The corresponding provision of the Tennessee Constitution provides \u201c[t]hat in all criminal prosecutions, the accused hath the right ... to meet the witnesses face to face.\u201d Tenn. Const. art. I, \u00a7 9. This Court has previously held that the former testimony exception to the hearsay rule has sufficient \u201cindicia of reliability\u201d so that admission of evidence thereunder comports with the right of confrontation. Accordingly, if Watson\u2019s Oklahoma preliminary hearing testimony met the requirements of the former testimony hearsay exception, it would also satisfy the right of confrontation.\nIn State v. Causby, supra, a first-degree murder case, this Court held that the trial court properly admitted a co-defendant\u2019s former testimony from a juvenile transfer hearing under the former testimony exception to the hearsay rule because the defendants had a full opportunity and similar motive to develop the prior testimony. Several factors were considered in reaching that conclusion, but the most emphasis was placed on the fact that at both the transfer hearing and the subsequent trial, the testimony was addressed to the same issue of \u201c[wjhether or not the defendants had committed the offense\u201d charged. Causby, 706 S.W.2d at 632.\nComplete identity of the issues is not necessary. Other courts considering what constitutes a similar motive have concluded that if the issues in both cases are sufficiently similar, the requirement of similar motive is satisfied. United States v. Licavoli, 725 F.2d 1040, 1048 (6th Cir.1984); United States v. Pizarra, 717 F.2d 336, 349 (7th Cir.1983); Zenith Radio Corp. v. Matsushita Electric Indus. Co., 505 F.Supp. 1190, 1252 (E.D.Pa.1980), aff'd in part, rev\u2019d in part, 723 F.2d 319 (3rd Cir.1983). This conclusion comports with the Advisory Committee Note to Rule 804 that observes: \u201cThe common law ... did require identity of issues as a means of insuring that the former handling of the witness was the equivalent of what would now be done if the opportunity were presented. Modem decisions reduce the requirement to \u2018substantial\u2019 identity.\u201d 28 U.S.C.A. at 447, subd. (b), except. (1); see also Cohen, Paine & Sheppeard, Tennessee Law of Evidence, Sec. 804(b)(2).1, p. 461 (2d ed. 1990).\nThe defendant\u2019s identity as the killer of Alvin Kennedy and Charlene Calhoun was an issue in both the Oklahoma hearing and the Tennessee trial. The testimony identifying the defendant as the killer of Alvin Kennedy circumstantially established the defendant\u2019s identity as the killer of Charlene Calhoun, since Kennedy and Calhoun were shot with the same gun. Likewise, Watson\u2019s testimony identifying the defendant as the person who shot Charlene Calhoun circumstantially established the defendant\u2019s identity as the thief of the Whitsett track and killer of Alvin Kennedy. Consequently, the defendant had a similar motive to explore the identification issues at the Oklahoma preliminary hearing. See, e.g., Pizarro, 717 F.2d at 349. In fact, the defendant has failed to point to any matter that would have been developed in cross-examination that was not raised in the prior proceedings. Therefore, we conclude that a similar motive existed to develop Watson\u2019s preliminary hearing testimony with respect to the killings of both Charlene Calhoun, and Alvin Kennedy in Tennessee.\nIt is true that the defendant was not represented by the same counsel in the Oklahoma hearing and the Tennessee trial. However, the rule requires only that the party against whom the testimony is offered have an opportunity and similar motive. An identity of lawyers is not necessary. Tennessee Law of Evidence, at p. 460. Moreover, the facts relating to the murder of Alvin Kennedy were brought out on Watson\u2019s cross-examination by the defendant\u2019s Oklahoma counsel. \u201cIf the party against whom [the testimony] is now offered is the one against whom the testimony was offered previously, no unfairness is apparent in requiring him to accept his own prior conduct of cross-exami-nation_\u201d Fed.R.Evid. 804, advisory committee note, 28 U.S.C.A. at 447, subd. (b), except. (1).\nMoreover, a party, for tactical reasons, may decide \u201cnot to engage in a rigorous cross-examination, or even in any cross-examination at all.\u201d Salerno, \u2014 U.S. at -, 112 S.Ct. at 2511 (Stephens, J. dissenting). The party may have a similar motive, but simply choose not to act on it. Id.\n[A]s long as the party had a similar motive to develop the testimony in the prior proceeding, there is no unfairness in requiring the party against whom the testimony is now offered to accept her prior decision to develop or not develop the testimony fully.\nU.S. v. Salerno, \u2014 U.S. at -, 112 S.Ct. at 2511, n. 6 (Stevens, J., dissenting) (emphasis added).\nAs a result of the foregoing, we conclude that defendant\u2019s Oklahoma counsel had a similar motive to defendant\u2019s Tennessee counsel to develop Watson\u2019s testimony about Alvin Kennedy\u2019s murder at the preliminary hearing in Oklahoma. Accordingly, we conclude that the admission of Watson\u2019s Oklahoma preliminary hearing testimony with respect to the murder of Alvin Kennedy in Memphis did not violate the hearsay rule nor the defendant\u2019s confrontation rights under the Sixth and Fourteenth Amendments to the U.S. Constitution, and Article I, \u00a7 9 of the Tennessee Constitution.\nE. Refusal to Admit Recantation of Watson\u2019s Testimony\nThe defendant next asserts that it was error for the trial court to refuse to allow him to impeach Watson\u2019s Oklahoma preliminary hearing testimony with evidence that she recanted her testimony. At trial, the defendant sought to introduce proof from Watson\u2019s Oklahoma attorney that after the preliminary hearing in Oklahoma, Watson said she had lied and placed the blame on Howell in order to escape the death penalty herself. The State objected and the trial court agreed, ruling the evidence self-serving hearsay and inadmissible, even for impeachment purposes.\nThe defendant\u2019s contention that evidence of Watson\u2019s recantation was not hearsay because it was offered for impeachment is correct. Hearsay is \u201ca statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.\u201d Tenn.R.Evid. 801(c). Statements used for impeachment purposes are not admitted to prove the truth of the statement, but to show that the credibility of the witness is suspect. Cohen, Paine, & Sheppeard, Tennessee Law of Evidence \u00a7 801.8, p. 388 (2d ed. 1990). Accordingly, prior inconsistent statements offered for impeachment are not hearsay, id., and the trial court should have allowed the defendant to introduce evidence of Watson\u2019s recantation.\nMoreover, we agree that the trial court\u2019s refusal to allow the defendant to impeach Watson\u2019s former testimony with evidence that she later recanted violated his confrontation rights under the Sixth and Fourteenth Amendments to the U.S. Constitution, and Article I, \u00a7 9 of the Tennessee Constitution. In addition to protecting a defendant\u2019s right to confront the witnesses at the time of trial, the state and federal confrontation clauses also guarantee to the defendant \u201can opportunity for effective cross examination,\u201d Delaware v. Fensterer, 474 U.S. 15, 20, 106 S.Ct. 292, 294, 88 L.Ed.2d 15, 19 (1985), so that the defendant can \u201cexpose to the jury the facts from which jurors ... [can] appropriately draw inferences relating to the reliability of the witness.\u201d Davis v. Alaska, 415 U.S. 308, 318, 94 S.Ct. 1105, 1111, 39 L.Ed.2d 347 (1974). However, the existence of a constitutional error does not automatically entitle a defendant to a reversal. Since 1967, the U.S. Supreme Court has repeatedly reaffirmed the principle announced in Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967), that an otherwise valid conviction should not be set aside if the reviewing court may say on the whole record that the constitutional error was harmless beyond a reasonable doubt. Delaware v. Van Arsdall, 475 U.S. 673, 680, 106 S.Ct. 1431, 1436, 89 L.Ed.2d 674 (1986). Indeed, the U.S. Supreme Court has repeatedly stated that \u201cthe Constitution entitles a criminal defendant to a fair trial, not a perfect one.\u201d Van Arsdall, 475 U.S. at 681-82, 106 S.Ct. at 1436-37.\nThe trial court in Van Arsdall refused to allow the the defendant to impeach the state\u2019s key witness by questioning him about the dismissal of a criminal charge against him after he had agreed to speak with the prosecutor about the case against the defendant. The Court agreed with the defendant that the trial court committed constitutional error, but concluded that the error was harmless beyond a reasonable doubt. In so holding, the Court emphasized that:\nThe harmless error doctrine recognizes the principle that the central purpose of a criminal trial is to decide the factual question of the defendant\u2019s guilt or innocence, and promotes public respect for the criminal process by focusing on the underlying fairness of the trial rather than on the virtually inevitable presence of immaterial error. Reversal for error regardless of its effect on the judgment, encourages litigants to abuse the judicial process and bestirs the public to ridicule it.\nVan Arsdall, 475 U.S. at 681-82, 106 S.Ct. at 1436-37 (citations and internal quotation marks omitted).\nIn determining whether the constitutionally improper denial of a defendant\u2019s opportunity to impeach a witness is harmless under the Chapman standard, the correct inquiry is whether, assuming that the damaging potential of the cross-examination were fully realized, the error was nonetheless harmless beyond a reasonable doubt. Id., 475 U.S. at 684-85, 106 S.Ct. at 1438. A number of factors are relevant to this inquiry including the importance of the witness\u2019 testimony in the prosecution\u2019s case, the cumulative nature of the testimony, the presence or absence of evidence corroborating or contradicting the witness on material points, the extent of cross-examination otherwise permitted, and the overall strength of the prosecution\u2019s case. Id.\nThere is no doubt that in this case, Watson\u2019s former testimony was important to the prosecution\u2019s ease as the only direct evidence that the defendant killed Kennedy. However, the corroborative proof of her Oklahoma preliminary hearing testimony was overwhelming and the prosecution\u2019s overall case was otherwise strong. Moreover, the jury was informed that Watson\u2019s testimony at the Oklahoma preliminary hearing was given in exchange for the charges against her being lowered to second-degree murder and a plea recommendation of life imprisonment.\nMoreover, the evidence, even excluding the Watson proof, is ample to convict beyond a reasonable doubt. See Causby, 706 S.W.2d at 628 (citations omitted). Witnesses testified that they saw the defendant with the murder weapon the night before Alvin Kennedy was murdered. Another witness testified to the defendant\u2019s admission made the night before the murder that he was going to go down hard this time and take some people with him, and still another witness testified to his admission after the Kennedy murder. In addition, the convenience store clerk working at the store across the street from the site of the Kennedy murder testified that Howell and Watson were in her store within minutes of the time the murder was committed, and that they were driving the stolen Whitsett truck. Moreover, ballistics tests showed that the gun found in the defendant\u2019s possession by Florida police when he was apprehended was the same gun used to kill Alvin Kennedy in Memphis, and Charlene Calhoun in Oklahoma.\nAlthough this evidence is largely circumstantial, a conviction may be based entirely on circumstantial evidence \u201cwhere facts are \u2018so clearly interwoven and connected that the finger of guilt is pointed unerringly at the defendant and the defendant alone.\u2019\u201d State v. Duncan, 698 S.W.2d 63, 67 (Tenn.1985) (quoting State v. Crawford, 225 Tenn. 478, 484, 470 S.W.2d 610, 613 (1971)). Even excluding the Watson proof, we conclude that the circumstantial evidence in the record is ample to point the finger of guilt unerringly at the defendant alone.\nAfter evaluating the relevant factors, we conclude that any doubt cast on Watson\u2019s reliability as a witness and her former testimony by impeachment evidence that she later made an unsworn, general statement that the testimony was false would have been minimal. Accordingly, we hold that the trial court\u2019s failure to admit evidence that Watson later recanted her preliminary hearing testimony was harmless beyond a reasonable doubt.\nF. Redaction of Testimony Regarding Drug Use\nThe next issue we address is whether the trial court erred in redacting that part of Watson\u2019s preliminary hearing testimony which indicated that she and the defendant had been drinking and shooting cocaine before the Kennedy killing. The defendant contends that it was error for the trial court to exclude this testimony because it would have been relevant to the mental state of the defendant and his intent at the time of the murder. The redacted testimony about which the defendant complains was given by Watson at a later preliminary hearing held a week after the first preliminary hearing.\nWhile the defendant raised this issue as error in his motion for a new trial, our review of the record shows that Howell did not request the trial court to include this portion of the record of the Oklahoma proceeding in the proof. Our review of the record also shows that during the trial, the defendant included in the proof other parts of Watson\u2019s testimony regarding the defendant\u2019s drug use on the ride from Memphis to Oklahoma.\nAccordingly, since the defendant did not request that the proof be admitted during the trial, and did not bring the issue to the trial court\u2019s attention until the motion for a new trial was filed, we conclude that this issue has been waived by the defendant. Tenn.RApp.P. 36(a). In addition, because the jury heard other evidence of drug and alcohol use by the defendants on the weekend of the murder, we conclude that the omission of this part of Watson\u2019s testimony would have been harmless error even if not waived, especially in light of the fact that the evidence was relevant to intent and mental state, and the defendant was convicted of felony murder, not premeditated murder.\nG. Proof of Other Crimes\nThe last issue raised by the defendant with respect to the guilt phase is whether the trial court erred in admitting evidence of the defendant\u2019s commission of other crimes in Oklahoma and Florida. The trial court admitted evidence that the defendant shot Charlene Calhoun in Oklahoma, and had been involved in a shoot-out with police in Florida, on the grounds that the evidence was relevant to the issues of the identity and flight of the defendant.\nIt is well settled that in a criminal trial, evidence that a defendant has committed some other crime wholly independent of that for which he is charged, even though it is a crime of the same character, is usually not admissible because it is irrelevant. Bunch v. State, 605 S.W.2d 227, 229 (Tenn.1980). In addition, because of the obvious prejudice of such evidence to the defendant, its admission often constitutes prejudicial error, requiring the reversal of a conviction. Id.\nHowever, if evidence that the defendant has committed a crime separate and distinct from the one on trial is relevant to some matter actually in issue in the case on trial, and if its probative value as evidence is not outweighed by its prejudicial effect upon the defendant, then such evidence may be properly admitted. Id. Previous cases have held that evidence of crimes other than that for which the defendant was on trial was properly admitted as being relevant to such issues as the identity of the defendant, State v. Taylor, 669 S.W.2d 694, 697-98 (Tenn.1983), and the defendant\u2019s flight or attempt to evade arrest. State v. Zagorsky 701 S.W.2d 808, 813 (Tenn.1985).\nWhile the defendant admits that his possession of the murder weapon in Oklahoma and Florida was relevant to the murder charges in Tennessee, he contends that the probative value of the details of the offenses committed in those states was outweighed by the prejudicial effect. We disagree.\nThe fact that Charlene Calhoun had been shot with the same gun used to kill Alvin Kennedy was highly relevant and critical to proving the defendant\u2019s identity as Kennedy\u2019s killer. In addition, the fact that the Whitsett truck was found at the scene of Calhoun\u2019s shooting was highly relevant to the defendant\u2019s identity as Kennedy\u2019s killer because the truck had been seen near Loeb\u2019s near the time of the murder. Moreover, the proof regarding the killing of Charlene Calhoun was, for the most part, as circumscribed as possible, with the witnesses usually referring to what happened as a \u201cshooting,\u201d or \u201calleged shooting.\u201d\nThe testimony concerning the defendant\u2019s apprehension in Florida was more detailed, with the police officers testifying how the defendant shot at them when the car was stopped, and during the high-speed chase. This testimony, however, was relevant to the defendant\u2019s guilt as establishing his flight and connecting him with the murder weapon, thereby establishing his guilt as the person who killed Kennedy.\nBased upon our review of the record, we conclude that the probative value of the evidence presented regarding the Oklahoma killing, and the Florida shoot-out, outweighed its prejudicial effect. As a result, we hold that the trial court properly admitted this evidence with respect to the defendant\u2019s identity and flight. See Zagorski, 701 S.W.2d at 813; and Taylor, 669 S.W.2d at 698.\nNext, the defendant contends that even if the trial court properly admitted proof of the other crimes, the failure of the trial court to instruct the jury that this proof could only be used on the questions of identity and flight amounted to \u201cfundamental error,\u201d relying upon our opinion in State v. Reece, 637 S.W.2d 858 (Tenn.1982). The State, however, contends that the \u201cfundamental error\u201d rule of State v. Reece is inapplicable, and that the defendant waived the issue because he failed to make a special request for the instructions, faded to object to the court\u2019s omission of such instructions, and failed to raise the issue in his motion for a new trial.\nIn State v. Reece, supra, this Court held that where the State\u2019s case is weak and prior inconsistent statements admitted for impeachment are extremely damaging, the failure to give a limiting instruction that the statements are only to be considered on the issue of credibility may amount to fundamental error constituting grounds for reversal, even in the absence of a special request. Reece, 637 S.W.2d at 861. This holding, however, was \u201climited to those exceptional cases in which the impeaching testimony is extremely damaging, the need for a limiting instruction is apparent, and the failure to give it results in substantial prejudice to the rights of the accused.\u201d Id.\nOur review of the record convinces us that the \u201cfundamental error\u201d rule of State v. Reece, supra, is not applicable to this case. An important factor for the Reece court was the fact that the prior inconsistent statements used to impeach were so damaging that the failure to give a limiting instruction, in essence, allowed the jury to consider the impeachment evidence as substantive evidence, and thereby allowed inadmissible hearsay evidence to take precedence over testimony given under oath by the witness on the stand. In this case, the testimony about the defendant\u2019s other crimes was relevant to his guilt, and no hearsay problems were involved.\nAccordingly, although there is a significant possibility of misuse with testimony about a defendant\u2019s commission of other crimes, and limiting instructions are critical in preventing the improper and prejudicial use of proof of other crimes, see, e.g., State v. Fisher, 670 S.W.2d 232, 237 (Tenn.Crim.App.1983), we conclude that the trial court did not commit reversible error in failing to give limiting instructions with respect to the proof of other crimes. The defendant waived the issue by not requesting a limiting instruction and by not raising the issue in his motion for a new trial, Tenn.R.App.P. 3(e), and the failure to give limiting instructions was neither fundamental nor prejudicial error. State v. West, 767 S.W.2d 387, 396 (Tenn.1989). In this case, the blame for the failure to give limiting instructions \u201cmust be laid at the defendant\u2019s feet.\u201d Laird v. State, 565 S.W.2d 38, 40 (Tenn.Crim.App.1978).\nH. Conclusion\nThis completes our review of the defendant\u2019s contentions with respect to alleged trial court errors in the guilt phase. We find that no reversible error occurred during the guilt phase and, accordingly, we affirm the defendant\u2019s guilt.\nPART II.\nSENTENCING PHASE\nA. Recantation of Preliminary Hearing Testimony\nDuring the sentencing phase, as in the guilt phase, the defendant sought to introduce testimony from Watson\u2019s Oklahoma attorney, and the defendant\u2019s Oklahoma attorney, that Watson said she lied during the preliminary hearing in order to escape the death penalty herself. The trial court, however, sustained the State\u2019s objection to the testimony on the grounds of relevance and hearsay, finding that the evidence did not go to mitigation, but instead was an attempt to re-litigate the innocence of the defendant.\nThe defendant contends that the trial court\u2019s ruling was erroneous because the evidence went to the statutory mitigating circumstance that \u201c[t]he defendant was an accomplice in the murder committed by another person and the defendant\u2019s participation was relatively minor.\u201d Tenn.Code Ann, \u00a7 39\u20142\u2014203(j)(5) (1982). In addition, the defendant argues that the trial court\u2019s exclusion of this evidence violated his rights under the Eighth and Fourteenth Amendments to the U.S. Constitution. We disagree.\nUnder the Eighth Amendment, which is applicable to the states through the Fourteenth Amendment, see Robinson v. California, 370 U.S. 660, 82 S.Ct. 1417, 8 L.Ed.2d 758 (1962), after restricting the class of death-eligible offenses, a state must utilize additional procedures that assure reliability in the determination that death is the appropriate punishment in a given capital case. See Woodson v. North Carolina, 428 U.S. 280, 96 S.Ct. 2978, 49 L.Ed.2d 944 (1976). To meet this reliability requirement, a state must permit the sentencer to make an individualized determination on the basis of the character of the individual and the circumstances of the crime. Zant v. Stephens, 462 U.S. 862, 879, 103 S.Ct. 2733, 2744, 77 L.Ed.2d 235, 251 (1983). Thus, the defendant is entitled to present and have the sentencer fully consider all relevant evidence in mitigation of the sentence. Skipper v. South Carolina, 476 U.S. 1, 4, 106 S.Ct. 1669, 1670-71, 90 L.Ed.2d 1, 6 (1986).\nWe conclude that it was not error to exclude the evidence that Watson later recanted to her lawyers the preliminary hearing testimony in which she identified Howell as the triggerman. The evidence is overwhelming that the defendant was the person who killed Alvin Kennedy, and he had implicitly admitted it to a witness. There is absolutely no proof in the record that Watson was the killer. We find that the evidence of Watson\u2019s recantation was irrelevant to the mitigating circumstance set out in Tenn.Code Ann. \u00a7 39-2-203(j)(5) (1982) and to the defendant\u2019s character or the circumstances of the crime.\nB. State\u2019s Cross-Examination of Dr. Murphy\nThe defendant next contends that prejudicial error was committed by the state in the manner in which it used a study to cross-examine Dr. Murphy. On direct examination, Dr. Murphy testified that the tests given the defendant, the results of which showed \u201cdefinite evidence of brain damage,\u201d were very reliable and not susceptible to attempts at malingering or faking by the defendant. On cross-examination, the State asked Murphy, over objection, if he was familiar with the Faust, Hart and Gilmecki study conducted in 1987 in which children had been instructed to fake neuropsychological exams and the results were then sent to qualified experts, such as Murphy for eval\u00faation. Dr. Murphy replied that he was not familiar with the study. The State then proceeded to ask Murphy, over objection, if he would be surprised that 93% of the neuropsy-chologists had found the tests abnormal \u201cwhen, in fact, none of them were.\u201d Dr. Murphy then explained the limitations of such studies, but conceded that the professional literature in general indicates that psychological tests are sometimes inaccurate and can be faked.\nThe defendant contends that this line of cross-examination was error because the authoritative nature of the study was not acknowledged by Murphy or established by independent evidence as required by McCay v. Mitchell, 62 Tenn.App. 424, 463 S.W.2d 710, 720 (1970).\nThe State, in response argues that any error was harmless because the jury was instructed that statements, arguments, and remarks of counsel are not evidence and should be disregarded if not supported by the evidence, and because Murphy conceded that although he was not familiar with this particular study, he was aware of other professional literature indicating that psychological tests are sometimes inaccurate and can be faked. We agree.\nRequiring proof of the authoritative nature of the study has the \u201cwholesome effect of not permitting this issue to be determined by mere statements of counsel.\u201d Id. Here, Dr. Murphy, although he was not familiar with the specific study used by the State, conceded that there is authoritative literature in his field of expertise which indicates that psychological tests are sometimes inaccurate and can be faked. In this context, we conclude that the failure to establish by independent evidence the authoritative nature of the Faust, Hart and Gilmeeki study was harmless error.\nC. The Trial Judge\u2019s Statement During Sentencing\nThe defendant next argues that the trial judge\u2019s comment to his counsel, \u201cMr. Jones, I have ruled, it\u2019s a matter for the appellate courts,\u201d in connection with the objection to the State\u2019s use of the Faust, Hart and Gil-mecki study, diminished the jury\u2019s sense of responsibility for imposing the death penalty and implied the jury\u2019s decision was not final in violation of Caldwell v. Mississippi, 472 U.S. 320, 105 S.Ct. 2633, 86 L.Ed.2d 231 (1985). We disagree.\nCaldwell involved a prosecutor\u2019s misleading argument, endorsed by the trial judge, that a jury\u2019s death sentence was not final but reviewable on appeal. The statement of the trial court in this case concerned an eviden-tiary ruling and was directed to the defendant\u2019s counsel, not the jury. The asserted Caldwell violation is without merit. See Johnson v. State, 797 S.W.2d 578 (Tenn.1990); State v. Taylor, 771 S.W.2d 387, 396 (Tenn.1989).\nD. Sympathy Instruction and Argument\nNext the defendant argues that the trial court\u2019s \u201canti-sympathy\u201d instruction given at the sentencing and guilt phase of the trial violated his rights under the Eighth Amendment. This issue is without merit. See State v. Smith, 857 S.W.2d 1, 21 (Tenn.1993); State v. Boyd, 797 S.W.2d 589, 598 (Tenn.1990).\nThe defendant also contends that the trial court\u2019s refusal to charge the jury, as requested by the defendant, that \u201cyou are allowed to consider sympathy elicited based on evidence presented,\u201d violated the Eighth Amendment requirement that a jury be allowed to consider any mitigating evidence. The trial court instructed the jury that they were \u201cauthorized to weigh and consider any mitigating circumstances ... raised by the evidence throughout the entire course of the trial,\u201d and in addition to informing them of the statutory mitigating circumstances, instructed them that they were to consider \u201cany aspect of the defendant\u2019s character or record or any circumstances of the offense favorable to the defendant shown by the proof.\u201d The jury was not precluded from considering mitigating evidence by the charge given. The issue is without merit. See Edward v. State, 540 S.W.2d 641, 649 (Tenn.1976); cf. Smith, 857 S.W.2d at 22 (instruction on mercy); Melson, 638 S.W.2d at 366 (instruction on mercy).\nFinally, the defendant contends that the prosecutor\u2019s closing argument at the sentencing hearing requesting that the jury not feel sorry for the defendant because of his head injuries and telling them to overcome their sympathy for the defendant violated the Eighth Amendment. Examination of this argument in context reveals that the prosecutor was urging the jury not to return a life sentence based on the mitigating circumstances presented by the defendant. Such argument is proper. This issue has no merit.\nE. Constitutionality of the Death Penalty\nThe defendant first asserts that the death penalty is cruel and unusual punishment. Relying on the dissenting opinion in State v. Dicks, 615 S.W.2d 126, 132 (Tenn.1981) (Brock, C.J., dissenting), the defendant contends that under all circumstances, the death penalty is cruel and unusual punishment under the Eighth Amendment to the U.S. Constitution, and Article I, \u00a7 16 of the Tennessee Constitution. We find no merit to this argument, which has been considered and rejected many times by this Court. State v. Bane, 853 S.W.2d 483, 489 (Tenn.1993); Smith, 857 S.W.2d at 23; State v. Black, 815 S.W.2d 166, 185 (Tenn.1991); and State v. McCormick, 778 S.W.2d 48, 53 (Tenn.1989).\nNext, the defendant argues that the statute under which he was sentenced, particularly Tenn.Code Ann. \u00a7 39-2-203(g) (1982), is unconstitutional because it imper-missibly places the burden of proof upon the defendant to prove that mitigating circumstances outweigh aggravating circumstances in violation of the dictates of Mullaney v. Wilbur, 421 U.S. 684, 95 S.Ct. 1881, 44 L.Ed.2d 508 (1975). We find no merit to this argument because \u201cthe statute, taken in context, clearly outlines where the burden of proof lies.\u201d Boyd, 797 S.W.2d at 596. See also Bane, 853 S.W.2d at 488; Thompson, 768 S.W.2d at 251-52.\nThe defendant next contends that the sentencing statute is unconstitutional because it impermissibly interferes with the jury\u2019s discretion to decline to impose the death penalty, and thereby creates a \u201cpresumption of death.\u201d The defendant argues that the language providing that if the aggravating \u201ccircumstance or circumstances are not outweighed by any mitigating circumstances, the sentence shall be death,\u201d Tenn. Code Ann. \u00a7 39-2-203(g) (1982), requires a sentence of death when the aggravating and mitigating factors are evenly balanced.\nThis argument was addressed and rejected in State v. Boyd, supra, where we found that \u201c[t]here is no likelihood that this statutory language imposes a \u201cpresumption of death.\u201d \u201d Boyd, 797 S.W.2d at 596. See also Bane, 853 S.W.2d at 488; State v. Wright, 756 S.W.2d 669, 674 (Tenn.1988); and State v. Teague, 680 S.W.2d 785, 790 (Tenn.1984). Accordingly, we find no merit to the defendant\u2019s argument.\nAlong the same lines, the defendant argues that \u201cthe sentence shall be death\u201d portion of the statutory language quoted above violates Article I, \u00a7 19 of the Tennessee Constitution, which requires that \u201cin all indictments for libel, the jury shall have a right to determine the law and the facts, under the direction of the court, as in other criminal cases.\u201d Howell contends that the \u201cshall\u201d language impermissibly interferes with the jury\u2019s absolute discretion to impose its own decision under Article I, \u00a7 19.\nThis argument was addressed and rejected by this Court in Black, supra, where we found that the language of Tenn.Code Ann. \u00a7 39-2-203(g) (1982) does not violate Article I, \u00a7 19, of the Tennessee Constitution. Id., 815 S.W.2d at 186-87; see also Bane, 853 S.W.2d at 490. Accordingly, we find no merit to this argument.\nNext, the defendant contends that the sentencing statute violates the Eighth and Fourteenth Amendments to the U.S. Constitution because it does not require the jury to find beyond a reasonable doubt that the aggravating circumstances are not outweighed by the mitigating circumstances in order to support a death sentence. Once again, this argument has been addressed and rejected by this court. In State v. Thompson, supra, after reviewing the language of Tenn.Code Ann. \u00a7 39-2-203 (1982), and the relevant standards under the Eighth Amendment, we concluded that \u201cthe phrasing [of the statute] does not operate to preclude consideration of any relevant mitigating factors and that it satisfies the constraints of the eighth amendment.\u201d Thompson, 768 S.W.2d at 252; see also Bane, 853 S.W.2d at 489. Accordingly, we find the defendant\u2019s argument to be without merit.\nThe last argument raised by the defendant attacking the constitutionality of the death penalty is that Tennessee\u2019s statute fails to sufficiently narrow the class of death eligible defendants under the Eighth Amendment to the U.S. Constitution, and Article I, \u00a7 16 of the Tennessee Constitution, because all persons convicted of felony murder are eligible for the death penalty on the sole basis that they committed the underlying felony.\nIn State v. Middlebrooks, 840 S.W.2d 317 (Tenn.1992), this Court held that it is unconstitutional under the Tennessee Constitution, Article I, Section 16, to use the felony murder aggravating circumstance, Tenn.Code Ann. \u00a7 39 \u2014 2\u2014203(i)(7) (1982) [now \u00a7 39-13-204(i)(7) (1991) ], to support imposition of the death penalty for a conviction of felony murder, although it can be used to support imposition of the death penalty for premeditated murder. We determined that the use of the felony murder aggravating circumstance duplicated the elements of the underlying crime and failed to narrow the class of death-eligible murderers as required by Article I, Section 16, of the Tennessee Constitution and by the Eighth Amendment to the United States Constitution. We must now determine whether, based on the facts in this case, the sentencing jury\u2019s consideration of the invalid felony murder aggravating circumstance is harmless beyond a reasonable doubt where there is one remaining aggravating circumstance consisting of the defendant\u2019s prior violent felony convictions, which were introduced in support of the aggravating circumstance at trial. Evidence of the prior violent felony convictions included: a 1984 Wyoming conviction for armed robbery; a 1988 Oklahoma conviction for first-degree murder, for which he received the death penalty; a 1988 Florida conviction for attempted murder; and a 1988 Florida conviction for armed robbery.\nIn Satterwhite v. Texas, 486 U.S. 249, 108 S.Ct. 1792, 100 L.Ed.2d 284 (1988), the U.S. Supreme Court first applied the Chapman, supra, harmless error analysis to federal constitutional errors occurring in capital sentencing proceedings. Id., 486 U.S. at 261, 108 S.Ct. at 1800. In that case, the constitutional error \u2014 admission of evidence in violation of the defendant\u2019s Sixth Amendment right to consult with counsel before submitting to a psychiatric examination designed to determine future dangerousness \u2014 was not held to be harmless.\nTwo years later, in Clemons v. Mississippi, 494 U.S. 738, 110 S.Ct. 1441, 108 L.Ed.2d 725 (1990), the Court held that when a sentencing jury in a weighing state has relied, in part, on a constitutionally invalid aggravating circumstance, state appellate courts may reweigh the remaining aggravating circumstances against the mitigating evidence, if permissible under state law, or apply Chapman harmless error analysis. The majority in Clemons held that a reviewing Court is capable of examining the balance struck by the sentencing authority, be it judge or jury, and of deciding whether the elimination of an improperly considered aggravating circumstance affected the balance, without denying an individualized determination on the basis of the character of the individual and the circumstances of the crime. Clemons, 494 U.S. at 758, 110 S.Ct. at 1450 (quoting Barclay v. Florida, 463 U.S. 939, 103 S.Ct. 3418, 77 L.Ed.2d 1134 (1983), a case in which the plurality found that the Florida Supreme Court could apply harmless error analysis when reviewing a death sentence imposed by a trial judge who, as a matter of state law, erroneously considered a nonstatutory aggravating circumstance).\nThe Clemons majority did not consider written jury findings concerning mitigating circumstances necessary for effective appellate reweighing or harmless error analysis, but instead commented:\nNor are we impressed with the claim that without written jury findings concerning mitigating circumstances appellate courts cannot perform their proper role. In Fon-zeo and Proffitt, we upheld the Florida death penalty scheme permitting a trial judge to override a jury\u2019s recommendation of life, even though there were no written jury findings. An appellate court also is able adequately to evaluate any evidence relating to mitigating factors without the assistance of written jury findings.\nClemons, 494 U.S. at 756, 110 S.Ct. at 1449.\nIn a more recent case, Stringer v. Black, \u2014 U.S. -, 112 S.Ct. 1130, 117 L.Ed.2d 367 (1992), the Court stated that as applied to a capital sentencing jury\u2019s consideration of an invalid aggravating factor, the Chapman harmless error standard requires that an appellate court conclude, beyond a reasonable doubt, that the sentence would have been the same had the sentencing authority given no weight to the invalid aggravating factor. Id., \u2014 U.S. at -, 112 S.Ct. at 1137. A lesser requirement would deprive the defendant of the precision that individualized consideration demands. Id. Moreover, \u201cthe bald assertion that an error of constitutional dimensions was \u2018harmless\u2019 cannot substitute for a principled explanation of how the court reached that conclusion.\u201d Sochor v. Florida, \u2014 U.S. -, -, 112 S.Ct. 2114, 2123, 119 L.Ed.2d 326 (1992) (O\u2019Connor, J. concurring).\nThis Court, prior to Clemons, concluded that a sentencing jury\u2019s consideration of an invalid aggravating circumstance was subject to harmless error analysis. In State v. Bobo, 727 S.W.2d 945 (Tenn.1987), the State committed error by introducing evidence of another murder for which the defendant had not been convicted to establish the aggravating circumstances of mass murder. We concluded that the error was harmless beyond a reasonable doubt, because the record fully supported two other valid aggravators, and contained little evidence of mitigating circumstances.\nAgain, in State v. Cone, 665 S.W.2d 87 (Tenn.1984), four aggravating circumstances were found by the jury; however, this Court found the evidence insufficient to support one of the aggravators, but concluded that the error was harmless beyond a reasonable doubt because the evidence clearly established the remaining three aggravators found by the jury. See also State v. Workman, 667 S.W.2d 44 (Tenn.1984) (error in admitting opinion evidence on an ultimate issue, specifically the presence of a statutory aggravating circumstance, was harmless beyond a reasonable. doubt because there was overwhelming evidence of the other four remaining aggravating circumstances and a paucity of evidence of mitigating circumstances); State v. Campbell, 664 S.W.2d 281 (Tenn.1984) (error in admitting evidence of convictions for nonviolent felonies in order to establish aggravating circumstance of prior violent felony convictions was harmless beyond a reasonable doubt because evidence of prior violent felony convictions was introduced to support the aggravator, the evidence supporting the two other aggravating circumstances was overwhelming, and there was no evidence of mitigating circumstances).\nIn order to guarantee the precision that individualized sentencing considerations demand and provide a principled explanation for our conclusion in each case, it is important, when conducting harmless error review, to completely examine the record for the presence of factors which potentially influence the sentence ultimately imposed. These include, but are not limited to, the number and strength of remaining valid aggravating circumstances, the prosecutor\u2019s argument at sentencing, the evidence admitted to establish the invalid aggravator, and the nature, quality and strength of mitigating evidence.\nWhen examining the first of these factors, we necessarily consider the number of remaining valid aggravating circumstances since the effect of aggravating circumstances on sentencing usually increases with the number of circumstances proven; but even more crucial than the sum of the remaining aggravating circumstances is the qualitative nature of each circumstance, its substance and persuasiveness, as well as the quantum of proof supporting it. In that respect, the Tennessee statute assigns no relative importance to the various statutory aggravating circumstances. By their very nature, and under the proof in certain cases, however, some aggravating circumstances may be more qualitatively persuasive and objectively reliable than others. That is particularly true of the aggravating circumstance remaining in this case. Tenn.Code Ann. \u00a7 39-2-203(i)(2) (1982) (previous convictions of felonies involving the use of violence to the person). In addition, as the present case illustrates, the effect of the aggravating circumstance on the sentence may increase where there is proof of more than one prior violent felony conviction.\nThe second factor, the extent to which the prosecutor emphasizes the invalid aggravating factor during closing argument, is relevant to the harmless error analysis. However, unlike other state courts, we do not consider it the prime factor in the determination of whether the error was harmless beyond a reasonable doubt. The emphasis on the invalid circumstance during argument is but one of several considerations in our analysis.\nThe third significant factor in harmless error analysis is whether an invalid aggravating circumstance was established by evidence that was materially inaccurate or admissible only to support the invalid aggra-vator, or whether the evidence was otherwise admissible in either the guilt or sentencing phases of the proceeding. Clemons, 494 U.S. at 758, n. 5, 110 S.Ct. at 1451, n. 5. In evaluating a jury\u2019s consideration of an invalid aggravating factor, it is important to ask whether removal of that factor from the sen-tencer\u2019s consideration also removes any evidence from the jury\u2019s total consideration, or whether the State\u2019s reliance on the invalid circumstance allowed the jury to improperly consider any evidence. Even though the jury cannot weigh the invalid aggravating factor against any mitigating factors, the jury can properly consider evidence of the circumstances of the crime and the character of the defendant in making an individualized determination of whether the death sentence is justified. Id. In that respect, an aggravating factor which duplicates the elements of the underlying crime has less relative tendency to prejudicially affect the sentence imposed than invalid aggravating factors which interject inadmissible evidence into the sentencing calculus, or which require the sentencing jury to draw additional conclusions from the guilt phase evidence.\nFinally, all the relevant evidence in mitigation must be fully considered in applying harmless error analysis to guarantee that the defendant receives an individualized sentencing determination. Stringer, \u2014 U.S. at -, 112 S.Ct. at 1137. As in the case of the remaining valid statutory aggravating circumstance, we examine both the quantum and quality of the mitigating factors presented by the proof.\nIn the present case, the evidence supporting the remaining aggravating factor of prior violent felony convictions is undisputed and overwhelming. In addition to the cold-blooded execution-style murder of Kennedy in Memphis, Tennessee, the defendant committed another similar cold-blooded execution-style murder in Oklahoma within twenty-four hours of Kennedy\u2019s murder. Less than thirty days later, he committed an armed robbery in Florida and later engaged in a shootout with police officers before his capture, for which he was convicted of attempted murder. A few years earlier, he had been convicted in Wyoming for armed robbery. Moreover, the prosecutor\u2019s argument strongly emphasized the defendant\u2019s violent felony convictions, with little emphasis on the armed robbery. Furthermore, no additional evidence, nor any evidence that was not already properly before the jury, was introduced in support of the invalid aggravating circumstance. Finally, the mitigating evidence in this case focused on environmental conditions in childhood and psychological testing which was interpreted to demonstrate brain damage. This, in turn, according to the psychologist, impaired the defendant\u2019s judgment and ability to appreciate his conduct was wrong. Extensive medical testing, however, failed to show the claimed brain damage. There was virtually no mitigating evidence relating to the good character of the defendant, other than the evidence offered to explain his antisocial behavior.\nAfter a careful review of the record, we conclude beyond a reasonable doubt that the sentence would have been the same had the jury given no weight to the invalid felony murder aggravating factor, and we affirm the sentence of death.\nCONCLUSION\nWe have carefully considered the defendant\u2019s contentions as to the alleged errors occurring during the guilt and sentencing phases and conclude the defendant\u2019s conviction and death sentence should be affirmed.\nIn accordance with the mandate of Tenn. Code Ann. \u00a7 39-2-205(c)(4)(D) (1982) [now Tenn.Code Ann. \u00a7 39 \u2014 13\u2014206(c)(1)(D) (1991)], we find that the sentence of death was not imposed in an arbitrary fashion, that the evidence overwhelmingly supports the jury\u2019s finding of the statutory aggravating circumstance, and that the evidence supports the jury\u2019s finding of the absence of any mitigating circumstances sufficiently substantial to outweigh the aggravating circumstance. Further, our comparative proportionality review reveals that the sentence in this case is neither excessive nor disproportionate to the penalty imposed in similar cases, considering both the nature of the crime and character of the defendant. See State v. Boyd, 797 S.W.2d 589 (Tenn.1990); State v. Johnson, 762 S.W.2d 110 (Tenn.1988); State v. Bobo, 727 S.W.2d 945 (Tenn.1987); State v. King, 694 S.W.2d 941 (Tenn.1985); State v. McKay, 680 S.W.2d 447 (Tenn.1985); State v. Harries, 657 S.W.2d 414 (Tenn.1983); and State v. Simon, 635 S.W.2d 498 (Tenn.1982).\nWe, therefore, affirm the conviction of first-degree felony murder and the sentence of death. The sentence will be carried out as provided by law on the 10th day of February, 1994, unless otherwise ordered by this Court or by other proper authority. Costs of this appeal are assessed against the defendant, Michael Wayne Howell.\nDROWOTA and O\u2019BRIEN, JJ., concur.\nDAUGHTREY, J., concurring in the results only.\nREID, C.J., see separate concurring opinion.\n. Howell's co-defendant Watson was convicted of first-degree felony murder and was sentenced by the jury to life imprisonment. The Court of Criminal Appeals affirmed her conviction, and this Court denied her application to appeal.\n. This case was tried before the Tennessee Rules of Evidence were adopted and became effective on January 1, 1990. Therefore, the federal rule, as adopted in State v. Causby, supra, is the governing standard.\n. Ohio v. Roberts, 448 U.S. 56, 66, 100 S.Ct. 2531, 2539, 65 L.Ed.2d 597 (1980).\n. Causby, 706 S.W.2d at 631.\n. Although the Tennessee Rules of Evidence were not in effect at the time of trial, except for the definition of conduct as hearsay, Rule 801 restates Tennessee common law. Tenn.R.Evid. 801, Advisoiy Commission Comments.\n. Impeachment of an expert by learned treatises is now governed by Rule 618 of the Tennessee Rules of Evidence which restates the holding of McCay v. Mitchell, supra. See Advisory Commission Comments.\n. The decision in Middlebrooks was required by Art. I, \u00a7 16 of the Tennessee Constitution. We reviewed federal constitutional law in our analysis to determine whether the duplication also violated the Eighth Amendment to the United States Constitution, but Middlebrooks was decided on separate and independent state constitutional grounds. See Middlebrooks, 840 S.W.2d at 346; Zant v. Stephens, 462 U.S. at 877, 103 S.Ct. at 2742.\n. See Estelle v. Smith, 451 U.S. 454, 101 S.Ct. 1866, 68 L.Ed.2d 359 (1981).\n. Since Clemons, we have reviewed a number of capital cases in which an invalid or unconstitutional aggravating circumstance was considered by the sentencing jury, but have been unable to conclude that the error was harmless. See, e.g., Bane, 853 S.W.2d at 489; Smith, 857 S.W.2d at 25; State v. Evans, 838 S.W.2d 185, 196 (Tenn.1992); Middlebrooks, 840 S.W.2d at 322; State v. Terry, 813 S.W.2d 420 (Tenn.1991).\n. Other jurisdictions consider similar factors in conducting harmless error analysis. See People v. Sanders, 51 Cal.3d 471, 273 Cal.Rptr. 537, 797 P.2d 561 (1990) (jury's consideration of invalid special circumstances did not prejudice the defendant because the prosecutor did not emphasize those factors in his argument to the jury); Preston v. State, 564 So.2d 120 (Fla.1990) (court could not conclude that the jury\u2019s consideration of an invalid aggravating circumstance was harmless error because prosecutor emphasized the importance of the invalid circumstance in his closing argument, and only two valid aggravating circumstances remained); Shell v. State, 595 So.2d 1323 (Miss.1992) (court could not conclude jury\u2019s consideration of invalid aggravating circumstance harmless because it was argued almost exclusively to the jury and only one valid aggravator remained); Beets v. State, 107 Nev. 957, 821 P.2d 1044 (1991) (court concluded that the juiy\u2019s consideration of two invalid aggravating circumstances was harmless beyond a reasonable doubt because there were three other valid aggravators and no mitigating evidence).\n. See People v. Sanders, 51 Cal.3d 471, 273 Cal.Rptr. 537, 797 P.2d 561 (1990); and other cases cited supra at note 10.\n. But see State v. Campbell, supra, in which improper evidence was admitted to support the invalid aggravating circumstance, yet the error was harmless beyond a reasonable doubt based on the record in that case.",
+        "type": "majority",
+        "author": "ANDERSON, Justice."
+      },
+      {
+        "text": "REID, Chief Justice,\nconcurring.\nI concur in affirming the conviction of first degree murder and the sentence of death.\nSince September 1, 1990, the Court has reviewed on direct appeal twelve cases in which the sentence was death. I stated in dissent in State v. Black, 815 S.W.2d 166 (Tenn.1991), the first case on which I sat in which the sentence of death was affirmed, that whether the imposition of death is cruel and unusual punishment in violation of Article I, Section 16 of the Tennessee Constitution should be reserved until the Court is presented a case in which there are no errors requiring reversal of the conviction or sentence. The case before the Court is the first in which I have participated that is, in my opinion, sufficiently free of error to require consideration of that basic issue.\nThe District Attorney General and counsel for the defendant obviously were well-prepared for trial; the prosecution presented the case in a forceful but fair and dignified manner. The lawyers for the defendant put the State to its proof on every issue and utilized every apparent opportunity for the benefit of the defendant. The trial judge demonstrated the qualities critically important in conducting a highly emotional and legally exacting trial. The record shows that the case was decided by a competent and impartial jury. The record demonstrates that capital cases can be tried relatively free of error.\nI concur in the decision to affirm the sentence, not because Tennessee death penalty law, in my opinion, now meets constitutional standards, but because the procedures followed and the facts proven in this ease satisfy the essentials of a constitutionally valid system. I write separately to discuss the constitutionality of the death penalty and, in the context of this case, deficiencies in Tennessee\u2019s death penalty jurisprudence.\nCONSTITUTIONALITY OF DEATH PENALTY\nIn a non-capital case, Trop v. Dulles, 356 U.S. 86, 99-100, 78 S.Ct. 590, 597, 2 L.Ed.2d 630 (1958), the United States Supreme Court discussed the history and scope of the rights protected by the constitutional provision against cruel and unusual punishment:\nThe exact scope of the constitutional phrase \u201ccruel and unusual\u201d has not been detailed by this Court. But the basic policy reflected in these words is firmly established in the Anglo-American tradition of criminal justice. The phrase in our Constitution was taken directly from the English Declaration of Rights of 1688, and the principle it represents can be traced back to the Magna Carta. The basic concept underlying the Eighth Amendment is nothing less than the dignity of man. While the State has the power to punish, the Amendment stands to assure that this power be exercised within the limits of civilized standards_ The Court recognized in [Weems v. United States, 217 U.S. 349, 30 S.Ct. 544, 54 L.Ed. 793 (1909) ] that the words of the Amendment are not precise, and that their scope is not static. The Amendment must draw its meaning from the evolving standards of decency that mark the progress of a maturing society.\nIn Gregg v. Georgia, 428 U.S. 153, 171-173, 96 S.Ct. 2909, 2924-2925, 49 L.Ed.2d 859 (1976), the Supreme Court expanded upon the requirements of the Eighth Amendment of the United States Constitution:\nThus the Clause forbidding \u201ccruel and unusual\u201d punishments \u201cis not fastened to the obsolete but may acquire meaning as public opinion becomes enlightened by a humane justice.\u201d [Weems v. United States, 217 U.S. at 378, 30 S.Ct. at 553]....\nIt is clear from the foregoing precedents that the Eighth Amendment has not been regarded as a static concept. As Mr. Chief Justice Warren said, in an oft-quoted phrase, \u201c[t]he Amendment must draw its meaning from the evolving standards of decency that mark the progress of a ma-taring society.\u201d Trop v. Dulles, [356 U.S. at 101, 78 S.Ct. at 597]. See also Jackson v. Bishop, 404 F.2d 571, 579 (CA8 1968). Cf. Robinson v. California, [370 U.S. 660, 666, 82 S.Ct. 1417, 1420, 8 L.Ed.2d 758 (1962) ]. Thus, an assessment of contemporary values concerning the infliction of a challenged sanction is relevant to the application of the Eighth Amendment. As we develop below more fully, see infra, at 2926-2927, this assessment does not call for a subjective judgment. It requires, rather, that we look to objective indicia that reflect the public attitude toward a given sanction.\nBut our cases also make clear that public perceptions of standards of decency with respect to criminal sanctions are not conclusive. A penalty also must accord with \u201cthe dignity of man,\u201d which is the \u201cbasic concept underlying the Eighth Amendment.\u201d Trop v. Dulles, [356 U.S. at 100, 78 S.Ct. at 597] (plurality opinion). This means, at least, that the punishment not be \u201cexcessive.\u201d When a form of punishment in the abstract (in this case, whether capital punishment may ever be imposed as a sanction for murder) rather than in the particular (the propriety of death as a penalty to be applied to a specific defendant for a specific crime) is under consideration, the inquiry into \u201cex-cessiveness\u201d has two aspects. First, the punishment must not involve the unnecessary and wanton infliction of pain. Furman v. Georgia, [408 U.S. 238, 392-93, 92 S.Ct. 2726, 2805-06, 33 L.Ed.2d 346 (1972) ] (Burger, C.J., dissenting). See Wilkerson v. Utah, [99 U.S. (9 Otto) 130, 136, 25 L.Ed. 345 (1878); Weems v. United States, [217 U.S. at 381, 30 S.Ct. at 554]. Second, the punishment must not be grossly out of proportion to the severity of the crime. Trop v. Dulles, [356 U.S. at 100, 78 S.Ct. at 597] (plurality opinion) (dictum); Weems v. United States, [217 U.S. at 367, 30 S.Ct. at 549].\nIn Gregg v. Georgia, the Supreme Court rejected the contention that, though historically the death penalty had been the law in every state and was, at least implicitly, recognized by the language of the Eighth Amendment, contemporary society had in 1976 rejected the death penalty as an appropriate and necessary criminal sanction. The Supreme Court concluded that \u201cin the absence of more convincing evidence, ... death as a punishment for murder is not without justification and thus is not unconstitutionally severe.\u201d 428 U.S. at 187, 96 S.Ct. at 2931.\nConsequently, under the federal constitution, when properly made an issue by the pleadings and proof, the determination of whether capital punishment constitutes cruel and unusual punishment requires an assessment of contemporary values in Tennessee concerning the imposition of the penalty of death for a particular offense. That assessment cannot be subjective but must include the consideration of objective indicia which reflect the public attitude. However, public attitude is not conclusive; the assessment must also be consistent with human dignity and must include a finding that capital punishment for the particular offense accomplishes some beneficial social purpose. A similar analysis must be performed under the state constitution, even if this Court should find that the standard for determining whether capital punishment is cruel and unusual is higher than that required by the federal constitution. See State v. Black, 815 S.W.2d 166, 189 (Tenn.1991). In both cases, there are factual issues that can be resolved only by proof. Since these issues are not addressed by the pleadings or proof in this case, there is no basis on which this Court can make an assessment of contemporary values in Tennessee under the United States Constitution or the Tennessee Constitution.\nDEFICIENCIES IN DEATH PENALTY JURISPRUDENCE\nUnder state and federal law, this Court bears the responsibility for the development and imposition of a system of death penalty jurisprudence which meets all constitutional and statutory requirements. My view as to the duty of the Court in this regard was set forth in State v. Black:\nUnder these circumstances, particularly in light of the nature of the punishment, the imperfection of the judicial system, and the broad discretion vested in the district attorneys general of this State, see State v. Dicks, [615 S.W.2d 126, 136, 140-141 (Tenn.1981) ], this Court should assert its full and independent authority under the State Constitution to assure that the process whereby a defendant is sentenced to death is essentially free of error. This Court, through the exercise of strict appellate review, must require stringent and exact compliance with the Tennessee Constitution and state statutes. The United States Supreme Court has repeatedly emphasized the importance of meaningful appellate review to protect against the unlawful imposition of the death penalty. See Zant v. Stephens, [462 U.S. 862, 876, 103 S.Ct. 2733, 2742, 77 L.Ed.2d 235 (1983) ]; Barclay v. Florida, [463 U.S. 939, 973, 103 S.Ct. 3418, 3437, 77 L.Ed.2d 1134 (1988) ] (Stevens, J., concurring) (\u201cthe question is whether, in its regular practice, the Florida Supreme Court has become a rubber stamp for lower court death-penalty determinations.\u201d).\n815 S.W.2d at 194-95. Since State v. Black, the Court has addressed some of the more significant deficiencies in Tennessee death penalty law. Some have been resolved, but, in my view, others have been ignored or treated superficially.\nReview of a sentence of death involves, in addition to the assignments of error made by the parties, the examination by the Court of three critical aspects of the ease. See State v. Middlebrooks, 840 S.W.2d 317, 351 (1992), (Reid, C.J., concurring and dissenting). The first step is the determination that the sentence of death is not disproportionate to the crime committed, thereby establishing the defendant as a member of the death-eligible class of offenders. Id. The second step is the determination of whether the narrowing process has shown the defendant is among the worst of the death-eligible class. Id. at 351-52. The third step is a comparative proportionality review whereby the Court finds, upon consideration of the defendant and the offense, that the sentence of death is not disproportionate to the penalties imposed in similar cases. Id. at 354-55. Proportionality, as a measure of fairness, is the principle guiding the Court\u2019s review. First, the sentence of death is compared with the offense committed; then, the defendant is compared with other death-eligible offenders; and, last, the defendant and the criminal acts on which the sentence is based are compared with other similar offenders and acts committed. This process helps achieve a \u201c \u2018reasoned moral response to the defendant\u2019s background, character, and crime,\u2019 \u201d see Penry v. Lynaugh, 492 U.S. 302, 318, 109 S.Ct. 2934, 2947, 106 L.Ed.2d 256 (1989) (quoting California v. Brown, 479 U.S. 538, 545, 107 S.Ct. 837, 841, 93 L.Ed.2d 934 (1987) (O\u2019Connor, J., concurring) (emphasis in original)), and is designed to select for execution only those most deserving of death, the worst of the bad.\nDEFINING THE DEATH-ELIGIBLE CLASS\nReview of a case in which the defendant has been sentenced to death logically begins with the definition of the class of death-eligible defendants under the United States Constitution. Under the Eighth and Fourteenth Amendments, death is a disproportionate punishment in all cases except where a defendant kills, attempts to kill, or intends that a killing take place, or that lethal force will be imposed, or where a defendant\u2019s personal involvement in the underlying felony is substantial and who exhibits a reckless disregard or indifference to the value of human life. Tison v. Arizona, 481 U.S. 137, 157-158, 107 S.Ct. 1676, 1688, 95 L.Ed.2d 127 (1987); Enmund v. Florida, 458 U.S. 782, 797, 102 S.Ct. 3368, 3377, 73 L.Ed.2d 1140 (1982); State v. Branam, 855 S.W.2d 563, 570-71 (Tenn.1993); State v. Middlebrooks, 840 S.W.2d 317, 338 (Tenn.1992).\nSuperimposed upon this defined group of defendants are additional constitutional and statutory limitations. The federal constitution does not permit all murderers in this death-eligible class to be executed. The process fashioned by the United States Supreme Court for selecting those who ultimately will be executed was summarized in State v. Middlebrooks as follows:\nAs a constitutionally necessary first step under the Eighth Amendment, the Supreme Court has required the states to narrow the sentencers\u2019 consideration of the death penalty to a smaller, more culpable class of homicide defendants than the pre-Fmrman class of death-eligible murderers. See Pulley v. Harris, [465 U.S. 37, 104 S.Ct. 871, 79 L.Ed.2d 29 (1984) ]. A state, however, must not only genuinely narrow the class of death eligible defendants, but must do so in a way that reasonably justifies the imposition of a more severe sentence on the defendant compared to others found guilty of murder. Zant v. Stephens, [462 U.S. at 877, 103 S.Ct. at 2742]. A proper narrowing device, therefore, provides a principled way to distinguish the case in which the death penalty was imposed from the many cases in which it was not, Godfrey v. Georgia, [446 U.S. 420, 433, 100 S.Ct. 1759, 1767, 64 L.Ed.2d 398 (1980)], and must differentiate a death penalty case in an objective, even-handed, and substantially rational way from the many murder eases in which the death penalty may not be imposed. Zant [462 U.S. at 879, 103 S.Ct. at 2744]. As a result, a proper narrowing device insures that, even though some defendants who fall within the restricted class of death-eligible defendants manage to avoid the death penalty, those who receive it will be among the worst murderers \u2014 those whose crimes are particularly serious, or for which the death penalty is peculiarly appropriate. See Gregg v. Georgia, [428 U.S. 153, 96 S.Ct. 2909, 49 L.Ed.2d 859 (1976) ].\n840 S.W.2d at 343. Thus, this Court has recognized that the United States Constitution defines the class of death-eligible defendants but also requires further narrowing by statute or court review.\nThe State of Tennessee has by constitution and statute further limited those who are death-eligible. As noted in the dissent in State v. Black:\nTennessee constitutional standards are not destined to walk in lock step with the uncertain and fluctuating federal standards and do not relegate Tennessee citizens to the lowest levels of constitutional protection, those guaranteed by the national constitution.\nIndeed, the General Assembly has clearly indicated that when a defendant\u2019s life is at stake, citizens of Tennessee are entitled to greater protections than those guaranteed by the United States Constitution. Recognizing higher standards than the United States Supreme Court has found in the federal constitution and reflecting a higher \u201ccontemporary standard of decency\u201d in Tennessee, the legislature has forbidden the execution of persons who are under the age of eighteen, T.C.A. \u00a7 37-1-134(a)(1), and who are mentally retarded, T.C.A. \u00a7 39-13-203. Compare Stanford v. Kentucky, [492 U.S. 361, 109 S.Ct. 2969, 106 L.Ed.2d 306 (1989) ] (Eighth Amendment is not violated by imposition of death on sixteen and seventeen year olds); Penry v. Lynaugh, [492 U.S. 302, 109 S.Ct. 2934, 106 L.Ed.2d 256 (1989)] (Eighth Amendment does not prohibit subjecting mentally retarded defendant to death penalty).\n815 S.W.2d at 193.\nThe Court, since Black, has also narrowed the group of death-eligible defendants by finding death to be a disproportionate penalty. In State v. Branam, 855 S.W.2d 563 (Tenn.1993), the Court found in a unanimous decision that, under the circumstances of that case, death was disproportionate punishment for an accomplice who was not the trigger-man in a felony murder. The Court found in State v. Hale, 840 S.W.2d 307 (Tenn.1992), that death was disproportionate punishment for misdemeanor child abuse causing the death of the child.\nThe most significant decision by the Court was State v. Middlebrooks, 840 S.W.2d 317 (Tenn.1992), which addressed the use of aggravating circumstances to narrow the death-eligible class to those defendants for whom imposition of the death penalty is most appropriate. In Middlebrooks the Court held that because the felony murder aggravating circumstance, T.C.A. \u00a7 39 \u2014 2\u2014203(i)(7) (1982) [now 39-13-204(i)(7) (Supp.1993) ], essentially duplicated the elements of the offense of first degree felony murder, T.C.A. \u00a7 39-2-202(a) (1982) and T.C.A. \u00a7 39-2-202(a)(1) (Supp.1988), it failed to narrow the population of death-eligible felony murder defendants as required by the Eighth Amendment and Article I, Section 16. Middlebrooks, by eliminating felony murder as an aggravating circumstance in first-degree felony murder prosecutions, has accomplished two significant results. It adds a new category of defendants who are immune from the imposition of the sentence of death in those cases where defendants are charged with first-degree felony murder and the only aggravating circumstance is the felony; and, it eliminates felony murder as an aggravating circumstance in selecting those death-eligible defendants who are most deserving of the sentence of death in those cases where other aggravating circumstances are present.\nHowever, Middlebrooks accomplished only a partial solution. My concurrence and dissent in that case stated:\nThis holding based on Article I, Section 16 of the Tennessee Constitution is a step toward limiting the jury\u2019s discretion in imposing capital punishment to a \u201cdemonstrably smaller and more blameworthy\u201d class of murderers. Maynard v. Cartwright, [486 U.S. 356, 108 S.Ct. 1853, 100 L.Ed.2d 372 (1988) ]. However, even with the felony murder aggravating circumstance eliminated, the Tennessee sentencing statute still includes in the class of death-eligible defendants accidental and unintentional murderers whose culpability is minimal. It still allows convictions for first degree felony murder of persons who killed accidentally or unintentionally and those who did not kill, did not intend to kill and did not intend that any person suffer any physical harm. The statute still does not effectively limit the class of death-eligible defendants (which is a group different from those actually executed) to those most deserving of death as punishment and, therefore, it violates the Tennessee constitutional prohibition against cruel and unusual punishment.\n840 S.W.2d at 350 (Reid, C. J., concurring and dissenting). I further criticized the majority\u2019s reasoning because:\nThe result ... is illogical: an aggravating circumstance that fails to narrow the class because it duplicates the elements of the offense is unconstitutional, but aggravating circumstances that fail to narrow the class for other reasons are not unconstitutional. The logical conclusion from the majority Opinion\u2019s analysis would be that any provision of the statute that fails to accomplish the constitutional imperative to narrow the class is invalid.\nId. at 352.\nOn the authority of Middlebrooks, the Court subsequently reversed the sentence of death and remanded for resentencing in State v. Bane, 853 S.W.2d 483 (Tenn.1993), in which the aggravating circumstances found by the jury were T.C.A. \u00a7 39-13-204(i)(5), the murder was especially heinous, atrocious or cruel, and (i)(7), felony murder; State v. Evans, 838 S.W.2d 185 (Tenn.1992), in which the aggravating circumstances were (i)(6), the murder was committed to avoid lawful arrest and (i)(7) felony murder; and State v. Smith, 857 S.W.2d 1 (Tenn.1993), in which the aggravating circumstances were (i)(2), previous felony convictions, and (i)(7), felony murder. The defendant in Smith was not, in my view, death-eligible, because the record did not show that the killing was deliberate or intentional or accompanied by a conscious purpose of producing death or a conscious realization that death likely would occur. See Middlebrooks, 840 S.W.2d at 353.\nIn summary, the federal constitution allows the prosecution to seek a sentence of death for any defendant who himself kills, attempts to kill, or intends that a killing take place or that lethal force will be imposed, or for any defendant whose personal involvement in the underlying felony is substantial and who exhibits a reckless disregard or indifference to the value of human life. However, T.C.A. \u00a7 39-13-203 prohibits the imposition of death upon any mentally retarded person; T.C.A \u00a7 37-1-134(a)(1)(A) prohibits the imposition of death upon any person less than 18 years of age; State v. Branam, 855 S.W.2d at 570, raises the level of participation required of a defendant who did not personally wield the lethal agent and may be read to exclude such persons from the death-eligible group; and State v. Hale, 840 S.W.2d at 314, excludes any person who caused the death of another by the commission of an act which is not a felony. Middle- brooks excludes any person charged with felony murder and not charged with some aggravating circumstance other than T.C.A. \u00a7 39 \u2014 13\u2014204(i)(7), felony murder. Nevertheless, the class still includes some defendants who killed accidentally or unintentionally and those who did not kill, did not intend to kill, and did not intend that any person suffer physical harm. I would limit the felony murderers eligible for the imposition of the death penalty to those defendants in cases, like the present, in which the proof shows the killing was deliberate or intentional or accompanied by a conscious purpose of producing death or a conscious realization that death will likely occur.\nThe record in this ease shows the defendant is a member of the death-eligible class under both the federal and state constitutions. The defendant\u2019s own statement shows the killing was deliberate or intentional.\nUSE OF AGGRAVATING AND MITIGATING CIRCUMSTANCES TO ACCOMPLISH PARTICULARIZED SENTENCING\nAt the second stage of the death penalty procedure, at which the jury is required to consider aggravating and mitigating circumstances in order to achieve particularized sentencing, the Court has not given sufficient guidance in the use of aggravating and mitigating circumstances. The Court has, instead, it seems to me, searched for some basis on which to affirm the sentence of death despite a misuse of aggravating circumstances, most often by a finding of harmless error.\nThis constitutionally mandated function is accomplished by requiring the jury to find beyond a reasonable doubt the existence of one or more statutory aggravating circumstances and that, beyond a reasonable doubt, the aggravating circumstances outweigh any mitigating circumstances. T.C.A. \u00a7 39-13-204(g). Implicit in this exercise is the rational consideration of the substance of each aggravating and mitigating circumstance and an understanding of their practical use in accomplishing the stated purpose of determining that the defendant is not only a member of the death eligible class, but also one of the worst of the death eligible class. There should be sufficient evidence to support each aggravating circumstance found. More than one aggravating circumstance should not be based on the same acts of the defendant. See Provence v. State, 337 So.2d 783, 786 (Fla.1976); but see also State v. Carter, 714 S.W.2d 241 (Tenn.1986). Aggravating circumstances which are factually inconsistent should not be given effect. See State v. Black, 815 S.W.2d at 197 (Reid, C.J., concurring and dissenting). The jury should be instructed as to the meaning of each aggravating circumstance so as to aid the jury in its application. See, e.g., State v. Hines, 758 S.W.2d 515, 523 (Tenn.1988); State v. Williams, 690 S.W.2d 517, 527, 532 (Tenn.1985); State v. Moore, 614 S.W.2d 348, 350-351 (Tenn.1981).\nThe problems often associated with the definition and application of aggravating circumstances are not present in this case, even though one invalid aggravating circumstance was charged. The defendant was charged with aggravating circumstances T.C.A. \u00a7 39-13-204(i)(2), having previously been convicted of one or more felonies involving violence to the person; (i)(6), committing the murder to prevent the lawful arrest or prosecution of the defendant; and (i)(7), committing the murder during the course of a felony. The jury found aggravating circumstances (i)(2) and (i)(7). Aggravating circumstance (i)(7) was found in State v. Middlebrooks, 840 S.W.2d at 341-47, to be an invalid aggravating circumstance on the charge of first-degree felony murder, and the case was remanded for re-sentencing. However, the Court has found in this case that charging (i)(7) was harmless error, and has affirmed the sentence of death.\nI have indicated previously that harmless error analysis is inappropriate whenever one of the aggravating circumstances found by the jury is found to be invalid on appeal. I still subscribe to that view with regard to the previous cases considered by the Court and in all cases where the Court must make a subjective decision regarding the effect of the aggravating circumstance found to be harmless. However, even though in the present case, the court improperly submitted to the jury the aggravating circumstance of felony murder, T.C.A. \u00a7 39-13-204(i)(7), I concur in the majority\u2019s finding that under the circumstances of this case, this error was harmless beyond a reasonable doubt, and that the sentence would have been the same had the invalid aggravating circumstance not been charged. Stringer v. Black, 503 U.S. -, -, 112 S.Ct. 1130, 1137, 117 L.Ed.2d 367 (1992).\nThe issue on harmless error analysis is whether the Court can conclude that beyond a reasonable doubt the invalid aggravating circumstance did not influence the jury in its determination that the sentence would be death. Id. 503 U.S. at -, 112 S.Ct. at 1136. The issue is not the extent to which the aggravating and mitigating circumstances were supported by the evidence or whether the aggravating circumstances outweighed the mitigating circumstances. A finding that the evidence in support of the valid aggravating circumstance was overwhelming and the evidence in mitigation was meager may, and in this case does, support the jury\u2019s finding that beyond a reasonable doubt the aggravating circumstance outweighed the mitigating circumstances, but it does not necessarily follow that the jury was not influenced by the invalid aggravating circumstance. And, further, the Court must conclude that admission of the invalid aggravating circumstance was harmless error before it can consider whether the record supports the jury\u2019s finding that aggravating circumstances outweighed mitigating circumstances.\nIn Middlebrooks, the Court found that: Even though the evidence amply supports the aggravating circumstance of the murder being especially heinous, atrocious, or cruel in that it involved torture or depravity of mind, Tenn.Code Ann. \u00a7 39-2-203(i)(5) (1982), we are unable to conclude that the elimination of the aggravating circumstance (i)(7) is harmless error beyond a reasonable doubt.\n840 S.W.2d at 347. The dissent in Middle-brooks emphasized that:\nThis torture-murder of a kidnapped child unquestionably is one of the most aggravated killings that this Court has seen.\nThe fourteen-year-old victim\u2019s ordeal, as described in the majority opinion, began at 7:30 p.m. and ended at 11 p.m. This brutal and tragic murder is certainly one of the \u201cworst of the bad.\u201d\nId. at 350 (Drowota, J. concurring and dissenting). However, there was no insistence in the dissent that the admission of aggravating circumstance (i)(7), if error, was harmless error.\nThe main opinion undertakes a \u201cprincipled explanation\u201d of its conclusion that admission of the invalid aggravating circumstance was harmless beyond a reasonable doubt. That explanation is that the \u201cquantum and quality\u201d of all relevant evidence in aggravation and mitigation must be examined and fully considered. The problem with this objective and logical procedure is that jurors are not required to be objective or logical in determining the sentence. This Court in State v. Terry, 813 S.W.2d 420 (Tenn.1991), unanimously found that the erroneous instruction of aggravating circumstance (i)(7) was not harmless error beyond a reasonable doubt. The Court stated, quoting State v. Pritchett, 621 S.W.2d 127, 139 (Tenn.1981),\nWe have no way of knowing and cannot speculate whether the jury would have imposed the death penalty with one of the two aggravating circumstances withdrawn from their consideration and with the necessity of weighing the one remaining aggravating circumstance against the mitigating circumstances.\nState v. Terry, 813 S.W.2d at 425.\nThe decision of whether a defendant lives or dies \u201crequires a profoundly moral evaluation of the defendant\u2019s character and crime,\u201d in which the sentencer, by constitutional mandate, \u201cis afforded substantial discretion.\u201d Satterwhite v. Texas, 486 U.S. 249, 261, 108 S.Ct. 1792, 1800, 100 L.Ed.2d 284 (1988) (Marshall, J., dissenting).\nBecause of the moral character of a capital sentencing determination and the substantial discretion placed in the hands of the sentencer, predicting the reaction of a sentencer to a proceeding untainted by constitutional error on the basis of a cold record is a dangerously speculative enterprise. As the Court recognized in Caldwell v. Mississippi, 472 U.S. 320, 330, 105 S.Ct. 2633, 2640, 86 L.Ed.2d 231 (1985), \u201c[w]hatever intangibles a jury might consider in its sentencing determination, few can be gleaned from an appellate record.\u201d In the same vein, an appellate court is ill equipped to evaluate the effect of a constitutional error on a sentencing determination. Such sentencing judgments, even when guided and channeled, are inherently subjective, and the weight a sentencer gives an instruction or a significant piece of evidence that is later determined to violate a defendant\u2019s constitutional rights is nowhere apparent in the record. In McCleskey v. Kemp, [481 U.S. 279, 107 S.Ct. 1756, 95 L.Ed.2d 262 (1987)], the Court acknowledged that \u201c[i]ndividual jurors bring to their deliberations \u2018qualities of human nature and varieties of human experience, the range of which is unknown and perhaps unknowable,\u2019 \u201d and their collective judgment of the appropriate sentence is marked by an \u201cinherent lack of predictability.\u201d Id., 481 U.S., at 311, 107 S.Ct., at 1776-1777, quoting Peters v. Kiff, 407 U.S. 493, 503, 92 S.Ct. 2163, 2169, 33 L.Ed.2d 83 (1972) (opinion of Marshall, J.). The threat of an erroneous harmless-error determination thus looms much larger in the capital sentencing context than elsewhere.\n* * * * * \u215c\nHarmless-error analysis impinges directly on the reliability of the capital sentencing decision by allowing a court to substitute its judgment of what the sentencer would have done in the absence of constitutional error for an actual judgment of the sen-tencer untainted by constitutional error.\nId. 407 U.S. at 242, 243, 92 S.Ct. at 262, 263 (Marshall, J., dissenting).\nHowever, even though the Court cannot reasonably discover the impact of erroneously considered material on an essentially subjective decision, a court can conclude beyond a reasonable doubt that there was no evidence before a jury which could influence its decision. It is on this basis that I concur with the finding of harmless error in this case.\nThe most significant fact in harmless error analysis is whether the error permitted the sentencers to consider evidence that would not otherwise have come before them. Cf. State v. Harris, 839 S.W.2d at 54, 83 (Tenn.1992) (Reid, C.J., dissenting) (evidence of other offenses not properly before jury absent error at guilt phase). In this case, as stated in the main opinion, the jury heard no evidence in support of the invalid aggravating circumstance that was not admissible to prove the elements of the crime. Submission of the felony murder aggravator to the jury exposed the sentencers to no evidence which they would not have properly heard at the guilt phase even if the State had not relied upon that aggravating circumstance. Under our statute and the federal constitution, the jury can properly consider evidence of the nature, facts and circumstances of the crime in making its determination as to whether a sentence of death is warranted. See T.C.A. \u00a7 39-13-204(c) (formerly \u00a7 39 \u2014 2\u2014203(c)); Clemons v. Mississippi, 494 U.S. 738, 748, 110 S.Ct. 1441, 1448, 108 L.Ed.2d 725 (1990). The evidence of the offense and its nature was thus properly before the jury at sentencing. Consequently, there was no inadmissible evidence that could have affected the jury\u2019s decision. The argument of the prosecutor regarding the invalid aggravating circumstance did not go beyond statements that were permissible with reference to the commission of the offense of which the defendant was convicted. As a result, the jury heard nothing that was not appropriate, except that numerically, there were two aggravating circumstances rather than one. Finding prejudicial error on this super-technical ground would require the absolute rejection of the principle of harmless error found in Rule 52 of the Tennessee Rules of Criminal Procedure and Rule 36(b) of the Tennessee Rules of Appellate Procedure. Where there was in fact error but, as in this case, the error could not have affected the verdict of the jury, it is appropriate to find the error was harmless beyond a reasonable doubt.\nNo issue is made of the aggravating circumstance found under T.C.A. \u00a7 39-13-204(i)(2). The record shows that the defendant\u2019s prior convictions supporting this aggravating circumstance were two convictions of armed robbery, one conviction of first degree murder and one conviction of attempt to commit first degree murder. The evidence in mitigation was meager. Accordingly, I concur that the record supports the jury\u2019s finding that the aggravating circumstance outweighed the mitigating circumstances and the imposition of the sentence of death.\nCOMPARATIVE PROPORTIONALITY REVIEW\nThe greatest deficiency in this case, and in the present death penalty law as applied in this state, is the total absence of a meaningful and exacting comparative proportionality review. Where the statute defining a capital offense does not accomplish narrowing, as the Tennessee statute does not, comparative proportionality analysis is a vital component in the constitutional imposition of the death penalty. See Walton v. Arizona, 497 U.S. 639, 110 S.Ct. 3047, 3058, 111 L.Ed.2d 511 (1990); McCleskey v. Kemp, 481 U.S. 279, 107 S.Ct. 1756, 95 L.Ed.2d 262 (1987); Pulley v. Harris, 465 U.S. 37, 104 S.Ct. 871, 79 L.Ed.2d 29 (1984).\nThe comparative proportionality review in this case consisted of the conclusory statement, \u201cFurther, our comparative proportionality review reveals that the sentence in this case is neither excessive nor disproportionate to the penalty imposed in similar cases, considering both the nature of the crime and character of the defendant.\u201d This statement is followed by citation to a series of other cases in which the death penalty was imposed. In addition to revealing the lack of any articulated standard for comparative proportionality review, see State v. Harris, 839 S.W.2d at 85 (Reid, C.J., dissenting), the court\u2019s opinion also reflects a basic misunderstanding of the purpose of such review. If the case under review is compared only with cases in which the defendant has been sentenced to death, as in the Court\u2019s opinion in this case, its similarity to cases in which the sentence of death was not imposed, and, thus, any disproportionality, could not be noted. To make this determination, the Court must also examine first degree murder cases in which the sentence of death is not imposed. Limiting review to those cases in which a sentence of death was given compares the case under review only to the standard for death-eligibility as discussed in step one of the analysis. Supra, p. 265. The same observation was made in State v. Middlebrooks:\nThe Court obviously has substituted for the proportionality review required at this third stage of the proceedings a finding that the proof shows the defendant to be a member of the death-eligible group which, under the federal constitution and the Tennessee statute, includes all eases in which the proof meets the threshold standard of reckless indifference. This practice is acknowledged by the statement in Justice Drowota\u2019s dissent that the death penalty is not disproportionate punishment so long as the reckless indifference standard of En-mund and Tison is met. Drowota, J., dissenting at 349. Consequently, the Court has not found the punishment disproportionate in any of the 84 cases in which the sentence of death has been imposed since 1977. This fact alone would suggest there has been no effective proportionality review on appeal.\n840 S.W.2d at 355.\nThe need to look beyond cases in which the jury actually imposed a sentence of death in order to assure valid proportionality review is recognized in Rule 12 of the Supreme Court Rules. This Rule sets forth the information regarding the defendant and the offense furnished by the trial judge, on which this Court bases its comparative proportionality review. The Rule requires that the report be completed \u201cin all first-degree murder cases in which life imprisonment or a sentence of death is imposed.\u201d (Emphasis supplied.) It thus implicitly establishes all cases resulting in first degree murder convictions as the universe of cases to which this Court must look when determining whether a sentence of death is proportionate. Regardless of whether, as some defendants have argued, Rule 12 provides an insufficient basis for the Court\u2019s comparative proportionality review under T.C.A. \u00a7 39 \u2014 13\u2014206(c)(1)(D) (Supp.1991), the record shows that the majority has not in the present appeal followed the Rule. Compare State v. Barber, 753 S.W.2d 659, 664-665 (Tenn.1988) (reviewing cases in which life imprisonment and sentences of death were imposed).\nAnother deficiency in the Court\u2019s comparative proportionality review is the absence of any process for determining if geographic or racial patterns of charging and prosecuting capital cases demonstrate an arbitrary exercise of the prosecutorial function. The Court must respect the broad discretionary powers given prosecutors. However, the statutes and the constitution require consistency and reliability in the administration of capital punishment. See Eddings v. Oklahoma, 455 U.S. 104, 110, 102 S.Ct. 869, 874, 71 L.Ed.2d 1 (1982). That ultimate responsibility rests on the Court. Even though statistical information alone regarding the number of prosecutions in a county or judicial district may not be a reliable standard for determining that the death penalty is being arbitrarily and capriciously imposed, the court should collect and review that information which may demonstrate the need for the adoption of a procedure that would ensure the avoidance of any extraneous influences from the race, sex, or status of the defendant or victim, or the resources available to prosecute or defend a case.\nAn adequate structure for comparative proportionality review cannot be set forth in a dissent. It requires the formulation of standards and the implementation of procedures for collecting and comparing cases and can be accomplished only by action of the court.\nNevertheless, despite the deficiencies in the procedure and information available for a proper comparative proportionality review, comparison of the character of the defendant in this case and the nature of his crime, by any standard of analysis, would show that he is among the worst of the bad. From the opening lines of the proof, which is discussed in detail in the main opinion, the defendant is shown to possess the characteristics most repulsive to society\u2019s sense of decency, and most destructive to the very fabric of society. His proclamation that he was \u201cgoing down hard this time\u201d and he would \u201cbe taking some people with him,\u201d evinces a total disrespect for life, his own and that of others, and an arrogant and callous defiance of an ordered society, made dangerous by a fatalistic eagerness for violence. The immediate and efficient procurement of the weapon shows a deliberate and deadly purpose. His quick, but calculated, use of the weapon against the stranger at the market demonstrates, in traditional legal language, a heart bent on fatal mischief.\nThe defendant\u2019s deification of the weapon as Jesus Christ exposed a consummate contempt for morality and a gratuitous defilement of the sacred. His utter immorality is matched by the efficient casualness of the murders, once to obtain $111.16 and again to obtain possession of a vehicle. The deliberateness of the murder of the market clerk, his reasoned purpose for the murder, and the enormity of Ms contempt for life, moral values and the divine are summed up in Ms statement to the witness Johnson, \u201cYeah, he wouldn\u2019t open the safe, so I told him I would introduce him to Jesus Christ.\u201d Even the cold pages of the record show the defendant to be the embodiment of the danger against which people are the most defenseless \u2014 deliberate but meaningless violence unmitigated by even the ordinary human frailties of anger, fear, jealousy, or greed.\nThe valid aggravating circumstance, the defendant\u2019s prior convictions of felomes involving violence to the person, T.C.A. \u00a7 39-13-204(i)(2), was compelling. It was shown that the defendant had been twice convicted of armed robbery. He also had been convicted of first degree murder and attempted first degree murder. These violent felomes are among the most serious in any penal code and show the defendant\u2019s deliberately violent nature over an extended period of time. The record establishes beyond a reasonable doubt that, upon consideration of the defendant\u2019s background and character and the nature and circumstances of the crime, the defendant is among those most deserving of the ultimate sanction.\nFor the reasons stated in State v. Black, I renew the objection to electrocution as the means of executing the sentence of death; but, I do not consider that grounds for reversal of the sentence.\nFor these reasons, I concur in the Court\u2019s affirmance of the death penalty in tMs case.\n. State v. Tran, 864 S.W.2d 465 (Tenn.1993); State v. Smith, 857 S.W.2d 1 (Tenn.1993); State v. Branam, 855 S.W.2d 563 (Tenn.1993); State v. Caughron, 855 S.W.2d 526 (Tenn.1993); State v. Bane, 853 S.W.2d 483 (Tenn.1993); State v. Middlebrooks, 840 S.W.2d 317 (Tenn.1992); State v. Hale, 840 S.W.2d 307 (Tenn.1992); State v. Harris, 839 S.W.2d 54 (Tenn.1992); State v. Evans, 838 S.W.2d 185 (Tenn.1992); State v. Brown, 836 S.W.2d 530 (Tenn.1992); State v. Black, 815 S.W.2d 166 (Tenn.1991); State v. Terry, 813 S.W.2d 420 (Tenn.1991).\n. See Comment, Deadly Mistakes: Harmless Error in Capital Sentencing, 54 University of Chicago Law Review 740 (1987).\n. See supra p. 262.\n. The question of an appropriate universe for comparative proportionality analysis in death penalty cases is thoroughly reviewed in State v. Marshall, 130 N.J. 109, 613 A.2d 1059 (1992). While Marshall adopted a broader universe than that contained in Rule 12, some other jurisdictions have limited themselves to a review of cases resulting in first degree murder convictions. See e.g., State v. Moore, 210 Neb. 457, 316 N.W.2d 33, 44, cert. denied, 456 U.S. 984, 102 S.Ct. 2260, 72 L.Ed.2d 864 (1982); State v. Rupe, 108 Wash.2d 734, 743 P.2d 210, 229 (1987) cert. denied, 486 U.S. 1061, 108 S.Ct. 2834, 100 L.Ed.2d 934 (1988).\nI also note for comparison with the cursory comparative proportionality analysis applied in this case, the proportionality review procedures employed by the New Jersey Supreme Court in Marshall and by the courts of other states. See, e.g., Dawson v. State, 581 A.d 1078, 1109-1110 (Del.1990), vacated on other grounds, - U.S. -, 112 S.Ct. 1093, 117 L.Ed.2d 309 (1992); Godfrey v. State, 248 Ga. 616, 284 S.E.2d 422, 425 (1980); State v. Cummings, 323 N.C. 181, 372 S.E.2d 541, 551-553 (1988), vacated on other grounds, 494 U.S. 1021, 110 S.Ct. 1464, 108 L.Ed.2d 602 (1990); Commonwealth v. Frey, 504 Pa. 428, 475 A.2d 700, 707-709, cert. denied, 469 U.S. 963, 105 S.Ct. 360, 83 L.Ed.2d 296 (1984); State v. Rupe, 743 P.2d at 228-230.",
+        "type": "concurrence",
+        "author": "REID, Chief Justice,"
+      }
+    ],
+    "attorneys": [
+      "W. Mark Ward, Asst. Shelby Co. Public Defender, A.C. Wharton, Shelby County Public Defender, Memphis, for appellant.",
+      "Charles W. Burson, Atty. Gen. & Reporter, Debra K. Inglis, Asst. Atty. Gen., Nashville, John W. Pierotti, Dist. Atty. Gen., James C. Beasley, Jr., Jerry R. Kitchen, Glenn I. Wright, Asst. Dist. Attys. Gen., Memphis, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Tennessee, Appellee, v. Michael Wayne HOWELL, Appellant.\nSupreme Court of Tennessee, at Jackson.\nNov. 10, 1993.\nW. Mark Ward, Asst. Shelby Co. Public Defender, A.C. Wharton, Shelby County Public Defender, Memphis, for appellant.\nCharles W. Burson, Atty. Gen. & Reporter, Debra K. Inglis, Asst. Atty. Gen., Nashville, John W. Pierotti, Dist. Atty. Gen., James C. Beasley, Jr., Jerry R. Kitchen, Glenn I. Wright, Asst. Dist. Attys. Gen., Memphis, for appellee."
+  },
+  "file_name": "0238-01",
+  "first_page_order": 270,
+  "last_page_order": 305
+}

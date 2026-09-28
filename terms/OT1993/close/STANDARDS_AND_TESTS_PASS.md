@@ -1,5 +1,8 @@
 # OT1993 Standards and Tests pass
 
+**September 28, 2026 correction follow-up:** The user-authorized Beecham/Jones version 1.1 correction resolves this note’s Beecham deferral: the four-part firearms qualification and Granderson date are corrected in the Record and downstream copies, and the May 16, 1994 holding and selector rule are now incorporated in both candidates. The pass-time account and counts below describe the earlier preparation, not the corrected candidate totals. The Holdings candidate now carries 234 current-term propositions; the Standards and Tests candidate now has 289 entries (83 additions). The original pass receipt, including any recorded hash, is historical; no new term audit or publication is claimed.
+
+
 Prepared September 28, 2026. The [complete candidate](STANDARDS_AND_TESTS.candidate.md) contains **288 entries**: 204 unchanged opening entries, two revised opening entries, and 82 additions. It is staged work, not coordinated publication or a term audit. The Beecham/Jones correction remains a publication blocker.
 
 ## Independent derivation

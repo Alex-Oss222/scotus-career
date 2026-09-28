@@ -6386,6 +6386,33 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 ### Firearm-characteristic knowledge
 
+#### [Beecham v. United States and Jones v. United States, 511 U.S. 368](../records/Beecham_and_Jones_v_United_States_merits_1994-05-16.md)
+
+**Docket or dockets:** No. 93-445; Jones included under Rule 12.2.
+
+**Decided:** 1994-05-16.
+
+##### The law of the convicting jurisdiction governs the conviction exclusion
+
+**Holding:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous; all nine Justices join the complete rule and both affirmances.
+
+**Material application:** State restoration alone does not remove either federal predicate. Jones's two restored West Virginia convictions remain excluded; the decision does not revive them.
+
+**Limits and questions not reached:** The Court creates no federal restoration process and does not decide a particular federal pardon, the availability or requirements of §925(c) relief, the civil-rights bundle, automatic versus affirmative restoration, or whether federal habeas qualifies as a set-aside. It enters no guilt finding or independent ruling on the linked false-statement count's elements, materiality or intent.
+
+**Operative remedy or transition:** Both Fourth Circuit judgments are affirmed, 9–0 each. Jones's indictment-reinstatement and remand disposition remains operative; Beecham receives no new sentencing or restoration order.
+
+**Treatment of earlier authority:**
+
+- Chapman v. United States, 500 U.S. 453 (1991): applied to reserve lenity for unresolved penal ambiguity after interpretation; competing proposed readings alone do not trigger it.
+- United States v. Granderson, decided March 22, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
+- Jarecki v. G. D. Searle & Co., 367 U.S. 303 (1961): its neighboring-terms principle supports, without mechanically compelling, the shared sovereign reference.
+- Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983): the intervening statutory choice-of-law text governs; its former federal-law definition is not used to bypass the enacted provision.
+
+The contrary separate-clause reasoning of Geyler and Edwards is rejected on sovereign selection. No Supreme Court precedent is overruled.
+
 #### [Staples v. United States, 511 U.S. 600](../records/Staples_v_United_States_merits_1994-05-23.md)
 
 **Docket or dockets:** No. 92-1441.

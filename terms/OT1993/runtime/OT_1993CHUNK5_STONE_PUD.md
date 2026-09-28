@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-05-23 through 1994-06-06. Event date
 
 **Inherited-Law Context:** Arkansas v. Oklahoma recognizes permit conditions grounded in the relevant Clean Water Act authority and applicable water-quality standards. Its §402 treatment does not automatically decide the reach of state §401 conditions; assess the distinct activity/discharge language. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -61,5 +61,5 @@ Applicants concede that construction and tailrace discharges trigger §401 certi
 **Source Support:** [R30](https://supreme.justia.com/cases/federal/us/511/700/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [PUD No. 1 of Jefferson County v. Washington Department of Ecology review](review/05_CASES_49-60.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [PUD No. 1 of Jefferson County v. Washington Department of Ecology review](review/05_CASES_49-60.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

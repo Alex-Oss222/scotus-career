@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-05-23 through 1994-06-06. Event date
 
 **Inherited-Law Context:** Willy establishes the distinct collateral character of sanctions, not a Rule 38 sanction for preserving a nonfrivolous Supreme Court argument. Harper and actual effective Landgraf/Rivers law must be kept separate from the reasonableness of the argument when made. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -61,5 +61,5 @@ As a coherent recommendation alongside Stone's *Landgraf/Rivers* positions, leav
 **Source Support:** 511 U.S. 659-660: the appeal, sanction order, preservation memorandum, and circuit-law situation at the time counsel acted. No independent bad-faith finding is assumed. [P29](https://www.law.cornell.edu/supct/html/92-1113.ZPC.html)
 
 
-**Revision Trace:** User-directed implementation of [McKnight v. General Motors Corp. review](review/05_CASES_49-60.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [McKnight v. General Motors Corp. review](review/05_CASES_49-60.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

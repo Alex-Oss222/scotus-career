@@ -20,7 +20,7 @@ Mechanically copied without substantive revision from the runtime split. The use
 
 **Inherited-Law Context:** Dobbs requires treatment of the actual recovered record; Keeney preserves the distinct hearing rule for inadequately developed facts on a properly presented claim. Neither authorizes inventing the district court finding challenged here or deciding the conflict claim without its necessary facts. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,7 +57,7 @@ The State's finality argument and the statutory presumption for qualifying state
 **Source Support:** 510 U.S. 132-134 and Burden, 498 U.S. 433 (1991): record descriptions and the earlier mandate. The earlier decision is independently date-eligible; this matter’s resolution is not entering law. [P06](https://caselaw.findlaw.com/court/us-supreme-court/510/132.html)
 
 
-**Revision Trace:** User-directed implementation of [Burden v. Zant review](review/01_CASES_01-12.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Burden v. Zant review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 11. Ratzlaf v. United States
 
@@ -77,7 +77,7 @@ The State's finality argument and the statutory presumption for qualifying state
 
 **Inherited-Law Context:** No inherited OT1991–OT1992 holding decides the knowledge-of-illegality element of this anti-structuring offense. Preserve the statutory willfulness analysis and distinguish knowledge of the bank's duty from knowledge that structuring is unlawful. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -114,7 +114,7 @@ The mens rea objection was preserved on direct review under §1254(1). This is i
 **Source Support:** [R05](https://supreme.justia.com/cases/federal/us/510/135/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Ratzlaf v. United States review](review/01_CASES_01-12.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Ratzlaf v. United States review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 12. Thunder Basin Coal Co. v. Reich
 
@@ -134,7 +134,7 @@ The mens rea objection was preserved on direct review under §1254(1). This is i
 
 **Inherited-Law Context:** MCorp supplies a scheme-specific exclusive-review holding; Darby limits court-imposed exhaustion under the APA. Determine this Mine Act scheme's own channel and meaningful-review provisions rather than treating either rule as universal. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -169,4 +169,4 @@ The district court’s statutory jurisdiction is the question, not a jurisdictio
 **Source Support:** [R06](https://supreme.justia.com/cases/federal/us/510/200/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Thunder Basin Coal Co. v. Reich review](review/01_CASES_01-12.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Thunder Basin Coal Co. v. Reich review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

@@ -495,83 +495,6 @@ The Seventh Circuit judgment is affirmed. Exemption-based summary judgment for C
 
 ---
 
-<!-- source-record: In_re_Anderson_fee_order_1994-05-02.md -->
-## Event
-
-In re Anderson, No. 93-8312. Order on the motion for leave to proceed in forma pauperis, May 2, 1994; no oral argument. Anderson submitted an original petition for an extraordinary writ of habeas corpus under 28 U.S.C. §2241, accompanied by a Rule 39 motion filed March 11, 1994. This fee proceeding reviews no single lower-court merits judgment. The questions are permission to proceed without prepayment and whether to impose a new fee-and-form condition on future extraordinary-writ petitions.
-
-Render form: full. Basis: both the current fee disposition and prospective-control action differ materially from the comparator.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate in the order. There is no case-specific nonparticipation.
-
-## Public Action
-
-The Court grants Anderson leave to proceed in forma pauperis and declines to impose the proposed new fee-and-form condition on future extraordinary-writ petitions. Each action is unanimous, 9–0. The underlying writ is not decided.
-
-## Judgment & Remedy
-
-| Component | Action and vote | Supporting Justices | Opposing Justices | Immediate effect |
-|---|---|---|---|---|
-| Current Rule 39 motion, No. 93-8312 | Granted, 9–0 | Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | Anderson may proceed without prepayment; no payment-cure date applies. |
-| Proposed new fee-and-form condition for future extraordinary-writ petitions | Declined on this record, 9–0 | Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | No new prospective filing condition is imposed. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to action | Scope |
-|---|---|---|---|---|
-| Opinion and order of the Court | Per curiam | Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Grant current fee motion; decline new future condition | Both components and all stated limits. |
-
-## Holdings
-
-### Financial permission follows a particular assessment of the present paper
-
-**Controlling proposition:** Rule 39.8 permits denial of financial leave when the Court is satisfied that the particular submission is frivolous or malicious; prior unsuccessful filings do not by themselves supply that finding. Anderson’s affidavit supports inability to prepay, and the present petition’s specific, partly corroborated access-to-review contention supports granting this motion despite substantial independent obstacles to the requested extraordinary writ; the grant establishes no entitlement to that writ.
-
-**Authority:** The per curiam opinion and order, joined by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices grant the motion on this bounded ground.
-
-**Controlling explanation:** The Court grants financial leave after examining this submission. Martin distinguishes an arguable current question from a defective companion paper; it does not make every reference to access sufficient. Demos v. Storrie likewise permits a particular allegation of official interference to clear the filing threshold without proving that allegation or excusing an underlying default. Anderson identifies concrete obstacles to review and appends an order vacating a filing injunction because the record did not show whether notice and an opportunity to be heard had been afforded. That order also affirms dismissal of the complaint and establishes neither lack of notice nor continuing obstruction. The petition faces serious contrary rulings on counsel, trial claims and the adequacy of local remedies, but financial permission is distinct from success under Rule 20. The Court finds no financial deficiency or sufficient basis to characterize this entire paper as frivolous or malicious. It neither accepts the allegations as true nor decides the writ.
-
-**Precedent treatment:**
-- Martin v. District of Columbia Court of Appeals: applied; the present-paper assessment preserves both its limited grant and its companion denial, rather than creating automatic leave for access claims.
-- Demos v. Storrie: applied; an arguable, particular interference allegation can support fee permission without resolving the requested relief or default.
-- Zatko v. California, 502 U.S. 16 (1991): preserved; discretionary denial on a demonstrated present-frivolousness and extreme-abuse record remains available.
-
-### This record does not justify a new condition on all future extraordinary-writ filings
-
-**Controlling proposition:** A prospective extraordinary-writ fee-and-form restriction must rest on demonstrated applicant-specific abuse and a supported connection between that abuse, the future category restricted and the inadequacy of individual treatment. This record does not establish those predicates for the proposed new condition; the refusal imposes no numerical threshold, universal warning requirement, duty to exhaust every imaginable lesser measure, or categorical prohibition of properly supported targeted restrictions.
-
-**Authority:** The same per curiam opinion and order, joined by all nine participating Justices: Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
-
-**Controlling explanation:** The Court declines the proposed prospective condition because its scope requires a stronger established basis than this record supplies. McDonald, Sindram and In re Demos recognize the distinctive burden of repetitive extraordinary-writ applications, which lack ordinary filing deadlines. Those decisions remain effective. Day and Sassower require attention to demonstrated abuse and the category restricted; Sassower’s noncriminal extraordinary-writ component does not itself decide every original habeas application. Here filing volume calls for scrutiny, but it does not establish the nature of every earlier paper or the inadequacy of individual screening. The current petition also contains an arguable access issue. A restriction covering unknown future custody-review requests cannot rest on treating those missing predicates as established. The Court does not require full merits consideration of each repetitive paper, declare processing costless, or forbid a later justified response. It leaves existing valid restrictions intact and adopts only the record-specific refusal necessary to decide the proposal before it.
-
-**Precedent treatment:**
-- In re McDonald, 489 U.S. 180 (1989); In re Sindram, 498 U.S. 177 (1991); and In re Demos, 500 U.S. 16 (1991): preserved as authority for supported, targeted extraordinary-writ restrictions; no categorical displacement occurs.
-- Day v. Day and In re Sassower, decided October 12, 1993: applied within their actual prospective-control scopes; neither supplies a disposition of its unresolved current fee motions or automatically governs all custody-review applications.
-
-## Precedent Treatment
-
-The treatments accompanying the two holdings govern. No extraordinary-writ restriction precedent is overruled. Swain v. Pressley, 430 U.S. 372 (1977), retains its rule that denial of local relief or inability to use a remedy does not alone establish the inadequacy or ineffectiveness required to bypass D.C. Code §23-110; this fee order makes no such finding.
-
-## Law After Decision
-
-Effective May 2, 1994, Anderson receives financial leave for this petition, and no new future extraordinary-writ fee condition is imposed. Rule 39.8 remains discretionary on its stated frivolous-or-malicious predicate. The Court’s limited application preserves individual screening and properly supported future controls. In re Demos (1991), addressing extraordinary-writ restrictions, remains distinct from Demos v. Storrie’s later particular-paper ruling. No habeas jurisdiction, exhaustion, default or merits rule changes.
-
-## Separate Writings
-
-No separate writing is published.
-
-## Procedure After Action
-
-The underlying extraordinary-writ petition remains pending for independent consideration. Rule 20 requires the applicable exceptional circumstances and inadequacy of relief through another form or court; §2241 and the applicable habeas requirements remain separate. Financial leave does not establish that D.C. Code §23-110 remedies are inadequate or ineffective, excuse a default, grant a hearing, order a response, vacate a conviction, reopen another docket or extend a deadline. No payment-cure deadline is set because the fee motion is granted. No existing valid restriction is vacated or enlarged.
-
-## Source Notes
-
-[Anderson’s March 11 petition and attachments, docket collection](https://archive.org/details/micro_IA40385013_0541), supplies the current motion, sworn affidavit, particular allegations and appended lower orders. The affidavit discloses a $23.83 prison account, no current employment, no reported income in the preceding twelve months and no listed valuable property. The attached D.C. Circuit order affirms dismissal but vacates the June 16, 1993 filing injunction for an insufficient notice record; its available page supplies no exact date of the appellate order. Alternate pages of the 1993 D.C. appellate attachment and the first page of that federal appellate order are absent from the available copy; no omitted findings are inferred. [Official report, 511 U.S. 364–367](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-364.pdf), supplies the docket and event date. The present fee action does not adopt a lower merits allegation as a finding.
-
----
-
 <!-- source-record: United_States_v_Alvarez_Sanchez_merits_1994-05-02.md -->
 ## Event
 
@@ -653,55 +576,68 @@ The Ninth Circuit judgment is reversed and the case remanded for proceedings con
 
 ---
 
-<!-- source-record: Beecham_and_Jones_v_United_States_merits_1994-05-16.md -->
+<!-- source-record: In_re_Anderson_fee_order_1994-05-02.md -->
 ## Event
 
-Beecham v. United States and Jones v. United States, No. 93-445, with Jones included under Rule 12.2. Argued March 21, 1994; decided May 16, 1994. Certiorari to the Fourth Circuit, 993 F.2d 1539 and 993 F.2d 1131. The question is whether state restoration of civil rights removes a federal conviction from §922(g) through §921(a)(20). Render form: compact. Basis: both judgments are unanimous on one shared statutory ground, with a full Court opinion and no separate writing.
+In re Anderson, No. 93-8312. Order on the motion for leave to proceed in forma pauperis, May 2, 1994; no oral argument. Anderson submitted an original petition for an extraordinary writ of habeas corpus under 28 U.S.C. §2241, accompanied by a Rule 39 motion filed March 11, 1994. This fee proceeding reviews no single lower-court merits judgment. The questions are permission to proceed without prepayment and whether to impose a new fee-and-form condition on future extraordinary-writ petitions.
+
+Render form: full. Basis: both the current fee disposition and prospective-control action differ materially from the comparator.
 
 ## Participation
 
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg participated at argument and decision in both included matters. No nonparticipation is identified.
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate in the order. There is no case-specific nonparticipation.
 
 ## Public Action
 
-The Court affirms both Fourth Circuit judgments, 9–0, holding that the law of the convicting jurisdiction governs the statutory conviction exclusion.
+The Court grants Anderson leave to proceed in forma pauperis and declines to impose the proposed new fee-and-form condition on future extraordinary-writ petitions. Each action is unanimous, 9–0. The underlying writ is not decided.
 
 ## Judgment & Remedy
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Effect |
+| Component | Action and vote | Supporting Justices | Opposing Justices | Immediate effect |
 |---|---|---|---|---|
-| Beecham: state restoration of federal predicate | Affirmed, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | None | Fourth Circuit rejection of the state-restoration theory stands. |
-| Jones: state restoration of federal predicate and linked indictment disposition | Affirmed, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | None | Reinstatement of the indictment and remand remain operative; no guilt or independent false-statement-elements finding. |
+| Current Rule 39 motion, No. 93-8312 | Granted, 9–0 | Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | Anderson may proceed without prepayment; no payment-cure date applies. |
+| Proposed new fee-and-form condition for future extraordinary-writ petitions | Declined on this record, 9–0 | Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | No new prospective filing condition is imposed. |
 
 ## Opinion Topology
 
-| Writing | Author | Joined by | Relationship and scope |
-|---|---|---|---|
-| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg | Full opinion and both affirmances; integrated sovereign rule, qualifications, and nonreach. |
+| Writing | Author | Joined by | Relationship to action | Scope |
+|---|---|---|---|---|
+| Opinion and order of the Court | Per curiam | Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Grant current fee motion; decline new future condition | Both components and all stated limits. |
 
 ## Holdings
 
-### The law of the convicting jurisdiction governs the conviction exclusion
+### Financial permission follows a particular assessment of the present paper
 
-**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+**Controlling proposition:** Rule 39.8 permits denial of financial leave when the Court is satisfied that the particular submission is frivolous or malicious; prior unsuccessful filings do not by themselves supply that finding. Anderson’s affidavit supports inability to prepay, and the present petition’s specific, partly corroborated access-to-review contention supports granting this motion despite substantial independent obstacles to the requested extraordinary writ; the grant establishes no entitlement to that writ.
 
-**Authority:** O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; all nine affirm both included judgments on this ground.
+**Authority:** The per curiam opinion and order, joined by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices grant the motion on this bounded ground.
 
-**Controlling explanation:** The Court holds that the two adjoining clauses address one inquiry: whether a qualifying conviction remains on the person's record. The first clause selects the law governing what constitutes a conviction. The second directs that certain convictions shall not be considered convictions after specified events. Restoration is therefore a step within the inquiry already assigned to the convicting jurisdiction. The neighboring references to pardons, expungements, and set-asides reinforce that reading; those measures ordinarily come from that jurisdiction. Petitioners fairly observe that States administer many civil rights and that the second sentence does not repeat the choice-of-law language. Reading that sentence alone, however, would require a new selector among the State of the offense, residence, or earlier residence that Congress did not supply. Difficulty obtaining federal relief is a real consequence, but listing alternatives does not promise every procedure to every offender. Chapman and Granderson reserve lenity for genuine uncertainty after contextual interpretation; none remains here. The Court creates no restoration process and leaves the availability and requirements of federal relief open.
+**Controlling explanation:** The Court grants financial leave after examining this submission. Martin distinguishes an arguable current question from a defective companion paper; it does not make every reference to access sufficient. Demos v. Storrie likewise permits a particular allegation of official interference to clear the filing threshold without proving that allegation or excusing an underlying default. Anderson identifies concrete obstacles to review and appends an order vacating a filing injunction because the record did not show whether notice and an opportunity to be heard had been afforded. That order also affirms dismissal of the complaint and establishes neither lack of notice nor continuing obstruction. The petition faces serious contrary rulings on counsel, trial claims and the adequacy of local remedies, but financial permission is distinct from success under Rule 20. The Court finds no financial deficiency or sufficient basis to characterize this entire paper as frivolous or malicious. It neither accepts the allegations as true nor decides the writ.
 
 **Precedent treatment:**
-- Chapman v. United States, 500 U.S. 453 (1991): applied to reserve lenity for unresolved penal ambiguity after interpretation; competing proposed readings alone do not trigger it.
-- United States v. Granderson, decided March 1, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
-- Jarecki v. G. D. Searle & Co., 367 U.S. 303 (1961): its neighboring-terms principle supports, without mechanically compelling, the shared sovereign reference.
-- Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983): the intervening statutory choice-of-law text governs; its former federal-law definition is not used to bypass the enacted provision.
+- Martin v. District of Columbia Court of Appeals: applied; the present-paper assessment preserves both its limited grant and its companion denial, rather than creating automatic leave for access claims.
+- Demos v. Storrie: applied; an arguable, particular interference allegation can support fee permission without resolving the requested relief or default.
+- Zatko v. California, 502 U.S. 16 (1991): preserved; discretionary denial on a demonstrated present-frivolousness and extreme-abuse record remains available.
+
+### This record does not justify a new condition on all future extraordinary-writ filings
+
+**Controlling proposition:** A prospective extraordinary-writ fee-and-form restriction must rest on demonstrated applicant-specific abuse and a supported connection between that abuse, the future category restricted and the inadequacy of individual treatment. This record does not establish those predicates for the proposed new condition; the refusal imposes no numerical threshold, universal warning requirement, duty to exhaust every imaginable lesser measure, or categorical prohibition of properly supported targeted restrictions.
+
+**Authority:** The same per curiam opinion and order, joined by all nine participating Justices: Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+
+**Controlling explanation:** The Court declines the proposed prospective condition because its scope requires a stronger established basis than this record supplies. McDonald, Sindram and In re Demos recognize the distinctive burden of repetitive extraordinary-writ applications, which lack ordinary filing deadlines. Those decisions remain effective. Day and Sassower require attention to demonstrated abuse and the category restricted; Sassower’s noncriminal extraordinary-writ component does not itself decide every original habeas application. Here filing volume calls for scrutiny, but it does not establish the nature of every earlier paper or the inadequacy of individual screening. The current petition also contains an arguable access issue. A restriction covering unknown future custody-review requests cannot rest on treating those missing predicates as established. The Court does not require full merits consideration of each repetitive paper, declare processing costless, or forbid a later justified response. It leaves existing valid restrictions intact and adopts only the record-specific refusal necessary to decide the proposal before it.
+
+**Precedent treatment:**
+- In re McDonald, 489 U.S. 180 (1989); In re Sindram, 498 U.S. 177 (1991); and In re Demos, 500 U.S. 16 (1991): preserved as authority for supported, targeted extraordinary-writ restrictions; no categorical displacement occurs.
+- Day v. Day and In re Sassower, decided October 12, 1993: applied within their actual prospective-control scopes; neither supplies a disposition of its unresolved current fee motions or automatically governs all custody-review applications.
 
 ## Precedent Treatment
 
-The treatments stated with the holding govern. No judicial precedent is overruled. The contrary separate-clause approach of Geyler and Edwards is rejected on the sovereign-selection issue; their reasoning does not authorize state restoration of these federal predicates.
+The treatments accompanying the two holdings govern. No extraordinary-writ restriction precedent is overruled. Swain v. Pressley, 430 U.S. 372 (1977), retains its rule that denial of local relief or inability to use a remedy does not alone establish the inadequacy or ineffectiveness required to bypass D.C. Code §23-110; this fee order makes no such finding.
 
 ## Law After Decision
 
-Courts begin with the sovereign of conviction and apply that sovereign's law to the specified conviction-removing events, retaining the enacted express firearms qualification. State control of ordinary civil rights does not alone remove a federal conviction. A difficult or unavailable remedy does not create a judicial restoration procedure. Lenity remains available for genuine residual ambiguity, but does not alter this resolved contextual reading.
+Effective May 2, 1994, Anderson receives financial leave for this petition, and no new future extraordinary-writ fee condition is imposed. Rule 39.8 remains discretionary on its stated frivolous-or-malicious predicate. The Court’s limited application preserves individual screening and properly supported future controls. In re Demos (1991), addressing extraordinary-writ restrictions, remains distinct from Demos v. Storrie’s later particular-paper ruling. No habeas jurisdiction, exhaustion, default or merits rule changes.
 
 ## Separate Writings
 
@@ -709,11 +645,11 @@ No separate writing is published.
 
 ## Procedure After Action
 
-The two Fourth Circuit judgments remain in force. Jones's restored West Virginia convictions remain excluded; the federal predicate supports the appellate reinstatement/remand disposition, not an adjudication of guilt. The linked false-statement count remains in that procedural posture without an independent ruling on its elements. No particular federal pardon, restoration process, §925(c) relief, civil-rights bundle, automatic-restoration rule, or federal-habeas set-aside question is decided. Any separate properly presented ground follows its own requirements.
+The underlying extraordinary-writ petition remains pending for independent consideration. Rule 20 requires the applicable exceptional circumstances and inadequacy of relief through another form or court; §2241 and the applicable habeas requirements remain separate. Financial leave does not establish that D.C. Code §23-110 remedies are inadequate or ineffective, excuse a default, grant a hearing, order a response, vacate a conviction, reopen another docket or extend a deadline. No payment-cure deadline is set because the fee motion is granted. No existing valid restriction is vacated or enlarged.
 
 ## Source Notes
 
-[Official report, 511 U.S. 368–374](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-368.pdf), supplies dates, docket grouping, prior conviction jurisdictions, and statutory setting. [United States v. Jones, 993 F.2d 1131](https://static.case.law/f2d/993/cases/1131-01.json), supplies the reinstatement/remand judgment, restored state predicates, and linked-count posture. The authenticated lower judgment controls the description of Jones's review posture; no intervening conviction is established. Beecham's unpublished memorandum was not separately recovered. No quotation from this Court's opinion is asserted.
+[Anderson’s March 11 petition and attachments, docket collection](https://archive.org/details/micro_IA40385013_0541), supplies the current motion, sworn affidavit, particular allegations and appended lower orders. The affidavit discloses a $23.83 prison account, no current employment, no reported income in the preceding twelve months and no listed valuable property. The attached D.C. Circuit order affirms dismissal but vacates the June 16, 1993 filing injunction for an insufficient notice record; its available page supplies no exact date of the appellate order. Alternate pages of the 1993 D.C. appellate attachment and the first page of that federal appellate order are absent from the available copy; no omitted findings are inferred. [Official report, 511 U.S. 364–367](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-364.pdf), supplies the docket and event date. The present fee action does not adopt a lower merits allegation as a finding.
 
 ---
 
@@ -884,6 +820,70 @@ The case returns for proceedings implementing dismissal of the enforcement motio
 ## Source Notes
 
 [Official report, 511 U.S. 375–382](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-375.pdf), supplies the dates, review route, dismissal terms, enforcement motion, and jurisdiction-only appeal. [Wilkinson v. FBI, 922 F.2d 555](https://static.case.law/f2d/922/cases/0555-01.json), supplies the lower theory and its separate orders. The unpublished appellate memorandum and district enforcement order were not separately recovered; their pertinent procedural facts are reported in the official account. No quotation from this Court's opinion is asserted.
+
+---
+
+<!-- source-record: Beecham_and_Jones_v_United_States_merits_1994-05-16.md -->
+## Event
+
+Beecham v. United States and Jones v. United States, No. 93-445, with Jones included under Rule 12.2. Argued March 21, 1994; decided May 16, 1994. Certiorari to the Fourth Circuit, 993 F.2d 1539 and 993 F.2d 1131. The question is whether state restoration of civil rights removes a federal conviction from §922(g) through §921(a)(20). Render form: compact. Basis: both judgments are unanimous on one shared statutory ground, with a full Court opinion and no separate writing.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg participated at argument and decision in both included matters. No nonparticipation is identified.
+
+## Public Action
+
+The Court affirms both Fourth Circuit judgments, 9–0, holding that the law of the convicting jurisdiction governs the statutory conviction exclusion.
+
+## Judgment & Remedy
+
+| Component | Disposition | Supporting Justices | Opposing Justices | Effect |
+|---|---|---|---|---|
+| Beecham: state restoration of federal predicate | Affirmed, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | None | Fourth Circuit rejection of the state-restoration theory stands. |
+| Jones: state restoration of federal predicate and linked indictment disposition | Affirmed, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg | None | Reinstatement of the indictment and remand remain operative; no guilt or independent false-statement-elements finding. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship and scope |
+|---|---|---|---|
+| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg | Full opinion and both affirmances; integrated sovereign rule, qualifications, and nonreach. |
+
+## Holdings
+
+### The law of the convicting jurisdiction governs the conviction exclusion
+
+**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+
+**Authority:** O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; all nine affirm both included judgments on this ground.
+
+**Controlling explanation:** The Court holds that the two adjoining clauses address one inquiry: whether a qualifying conviction remains on the person's record. The first clause selects the law governing what constitutes a conviction. The second directs that certain convictions shall not be considered convictions after specified events. Restoration is therefore a step within the inquiry already assigned to the convicting jurisdiction. The neighboring references to pardons, expungements, and set-asides reinforce that reading; those measures ordinarily come from that jurisdiction. Petitioners fairly observe that States administer many civil rights and that the second sentence does not repeat the choice-of-law language. Reading that sentence alone, however, would require a new selector among the State of the offense, residence, or earlier residence that Congress did not supply. Difficulty obtaining federal relief is a real consequence, but listing alternatives does not promise every procedure to every offender. Chapman and Granderson reserve lenity for genuine uncertainty after contextual interpretation; none remains here. The Court creates no restoration process and leaves the availability and requirements of federal relief open.
+
+**Precedent treatment:**
+- Chapman v. United States, 500 U.S. 453 (1991): applied to reserve lenity for unresolved penal ambiguity after interpretation; competing proposed readings alone do not trigger it.
+- United States v. Granderson, decided March 22, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
+- Jarecki v. G. D. Searle & Co., 367 U.S. 303 (1961): its neighboring-terms principle supports, without mechanically compelling, the shared sovereign reference.
+- Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983): the intervening statutory choice-of-law text governs; its former federal-law definition is not used to bypass the enacted provision.
+
+## Precedent Treatment
+
+The treatments stated with the holding govern. No judicial precedent is overruled. The contrary separate-clause approach of Geyler and Edwards is rejected on the sovereign-selection issue; their reasoning does not authorize state restoration of these federal predicates.
+
+## Law After Decision
+
+Courts begin with the sovereign of conviction and apply that sovereign's law to the specified conviction-removing events, retaining the enacted express firearms qualification. State control of ordinary civil rights does not alone remove a federal conviction. A difficult or unavailable remedy does not create a judicial restoration procedure. Lenity remains available for genuine residual ambiguity, but does not alter this resolved contextual reading.
+
+## Separate Writings
+
+No separate writing is published.
+
+## Procedure After Action
+
+The two Fourth Circuit judgments remain in force. Jones's restored West Virginia convictions remain excluded; the federal predicate supports the appellate reinstatement/remand disposition, not an adjudication of guilt. The linked false-statement count remains in that procedural posture without an independent ruling on its elements. No particular federal pardon, restoration process, §925(c) relief, civil-rights bundle, automatic-restoration rule, or federal-habeas set-aside question is decided. Any separate properly presented ground follows its own requirements.
+
+## Source Notes
+
+[Official report, 511 U.S. 368–374](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-368.pdf), supplies dates, docket grouping, prior conviction jurisdictions, and statutory setting. [United States v. Jones, 993 F.2d 1131](https://static.case.law/f2d/993/cases/1131-01.json), supplies the reinstatement/remand judgment, restored state predicates, and linked-count posture. The authenticated lower judgment controls the description of Jones's review posture; no intervening conviction is established. Beecham's unpublished memorandum was not separately recovered. No quotation from this Court's opinion is asserted.
 
 ---
 

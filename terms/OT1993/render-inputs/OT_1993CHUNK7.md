@@ -2,91 +2,6 @@
 
 **October Term:** 1993. **Completed events:** 12. **Chronological range:** 1994-06-17 through 1994-06-24.
 
-<!-- source-record: MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md -->
-## Event
-
-MCI Telecommunications Corp. v. American Telephone & Telegraph Co., No. 93-356, consolidated with United States et al. v. American Telephone & Telegraph Co. et al., No. 93-521; 512 U.S. 218. Argued March 21, 1994; decided June 17, 1994. On certiorari to the United States Court of Appeals for the District of Columbia Circuit. The question is whether 47 U.S.C. §203(b)(2) authorizes the Commission's rule making tariff filing optional for all nondominant long-distance carriers.
-
-The reviewed unpublished summary order set aside the FCC's November 1992 rule, 7 FCC Rcd 8072. It relied on AT&T v. FCC, 978 F.2d 727 (D.C. Cir. 1992), which addressed the earlier complaint and the statutory authority for permissive detariffing. The present review concerns the rulemaking judgment; it does not separately decide the amount or availability of a recovery in that complaint. The challenged rule permits carriers to file voluntarily; it does not prohibit filings as the earlier compulsory-nonfiling rule did.
-
-Render form: full. Basis: the Court's structural modification holding and a separate four-Justice independent statutory ground require distinct authority and opinion accounts.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg participate. Justice O'Connor took no part in the consideration or decision. No reason for her nonparticipation is stated.
-
-## Public Action
-
-The judgment of the Court of Appeals is affirmed, 5–3.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Statutory validity of the permissive-detariffing rule; Nos. 93-356 and 93-521 | Affirm, 5–3 | Stone-Zsela, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | The judgment setting aside the rule remains in force. No damages, tariff rate or replacement regulatory program is ordered. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Chief Justice Stone-Zsela | Scalia, Kennedy, Thomas, Ginsburg | Affirm both consolidated dockets | Structural modification ground, statutory qualifications, deference analysis and remedy; all join fully. |
-| Concurrence | Scalia | Kennedy, Thomas, Ginsburg | Affirm; all four also join the Court | Additional independently sufficient special-condition objection; four votes, noncontrolling. |
-| Dissent | Stevens | Blackmun, Souter | Would reverse and remand | The modification power reasonably permits the rule; both asserted statutory barriers are rejected. |
-
-## Holdings
-
-### The modification power does not permit this replacement of mandatory filing
-
-**Controlling proposition:** Under 47 U.S.C. §203(b)(2), the Commission may, in its discretion and for good cause shown, modify tariff requirements in particular instances or by general order applicable to special circumstances or conditions, but may not replace §203(a)'s mandatory filing obligation throughout the nondominant long-distance sector with an optional system or lengthen the statutory notice period beyond 120 days. The challenged permissive-filing rule exceeds that delegation and is invalid; Chevron does not require deference to a construction outside this statutory boundary.
-
-**Authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined by Scalia, Kennedy, Thomas and Ginsburg. Five of eight participating Justices directly adopt the structural modification ground, its application and its stated limits; no aggregation of separate rationales is necessary.
-
-**Controlling explanation:** The Court holds that the modification clause operates within Congress's tariff system. Section 203(a) makes filing obligatory, while subsection (c) generally ties lawful service and charges to published schedules. The power to modify any requirement is substantial, but its object and context do not permit the Commission to substitute voluntary filing throughout the nondominant sector. Chevron requires examination of this enacted boundary before deference; Boston & Maine recognizes contextual delegation, and Good Samaritan permits considered changes within lawful statutory methods. Neither authorizes replacement of a required mechanism merely because other protections remain. Nondominant carriers face different competitive constraints, and the rule preserves just-and-reasonable rates, nondiscrimination, complaints and voluntary tariffs. Those features make the agency's argument substantial, but they do not preserve the separate obligatory tariff protection Congress enacted. The rule fails for that structural reason, not because a policy is important or affects many carriers. The Court preserves lawful class-wide technical adjustments and leaves particular limited waivers, enforcement decisions and past monetary consequences for cases presenting them.
-
-**Application and operative qualifications:** The November 1992 rule makes filing optional, not forbidden, for nondominant long-distance carriers; AT&T alone remains classified as dominant in this record. A modification can have consequential effects. Courts must examine the obligation changed, the scope of the modification clause and whether the agency adjusts the obligation's operation or removes its essential operation for the regulated class. This inquiry does not turn on a numerical market-share threshold or automatically invalidate a class-wide adjustment. Changes to filing form, contents, timing or place remain possible under the statutory conditions; timing changes cannot extend the 120-day notice ceiling. The Court does not categorically foreclose deferral or waiver in limited circumstances, and decides no particular proposed waiver. Good cause alone cannot authorize replacement of mandatory filing throughout this sector.
-
-**Precedent treatment:**
-
-- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984): applies the inquiry into statutory meaning before deference; no new exception based on economic importance and no replacement of Chevron is adopted.
-- National Railroad Passenger Corp. v. Boston & Maine Corp., March 25, 1992: preserves contextual interpretation within an actual delegation and the requirement of a discernible agency ground; the agency's competitive-policy rationale is examined, not replaced by a judicial rationale.
-- Good Samaritan Hospital v. Shalala, June 7, 1993: preserves permissible interpretive change within a statutory system; the defect here is the rule's statutory reach, not the fact that the Commission changed its policy.
-- Lechmere, Inc. v. NLRB, January 27, 1992: preserves the principle that agency expertise operates within binding statutory limits; its distinct nonemployee-access rule is not imported into tariff regulation.
-- NLRB v. Health Care & Retirement Corp. of America, May 23, 1994: distinguishes a permissible functional construction preserving the statute's operative distinctions from removal of the filing obligation here; its supervisory-status holding remains intact.
-- PUD No. 1 of Jefferson County v. Washington Department of Ecology, May 31, 1994: distinguishes broad conditioning authority grounded in that Act's operative compliance language; no general rule against consequential agency action follows.
-- MCI Telecommunications Corp. v. FCC, 765 F.2d 1186 (D.C. Cir. 1985): its rejection of compulsory nonfiling supplies relevant statutory context, but its express reservation of permissive detariffing is respected; the present optional rule is independently adjudicated.
-
-**Limits and questions not reached:** The Court does not decide whether the challenged order independently fails the special-circumstances-or-conditions requirement. Scalia, Kennedy, Thomas and Ginsburg adopt that separate reason in a concurrence, which does not command a participating majority. The Court does not prescribe tariff rates or a replacement regulatory program, decide damages or retrospective consequences of prior nonfiling, resolve every individual nonenforcement decision, or adopt an independently sufficient ratification or prohibition theory from §§226 or 332. No separate alternative holding controls.
-
-## Precedent Treatment
-
-The treatment and present force of each materially used authority are stated in the holding. No precedent is overruled. The earlier MCI v. FCC decision invalidated compulsory nonfiling and reserved permissive detariffing; the Court decides the latter question on its own statutory footing.
-
-## Law After Decision
-
-The filing obligation remains operative subject to modifications that §203 actually authorizes. The new holding excludes replacement of mandatory filing throughout the nondominant long-distance sector with the optional regime before the Court. It preserves meaningful lawful adjustments, including class-wide technical changes, and the existing framework for construing agency authority. The four-Justice special-condition theory creates no independent controlling rule.
-
-Section 203(a) requires every common carrier except connecting carriers, within a reasonable time designated by the Commission, to file, print and keep publicly available schedules of charges for interstate and foreign wire or radio communications on its own system, with connecting carriers and over established through routes. Schedules include joint or separate charges and classifications, practices and regulations affecting them, additional information and the form and inspection places the Commission lawfully requires, and notice of the effective date. Carriers furnish schedules to connecting carriers, which must keep them open for inspection at the public places the Commission requires. The connecting-carrier exception does not erase those carriers' separate inspection duties.
-
-Section 203(b)(1) ordinarily requires 120 days' notice to the Commission and the public before changing filed charges, classifications, regulations or practices, in the prescribed form and with the prescribed information. Subsection (b)(2) permits the Commission, in its discretion and for good cause shown, to modify any requirement made by or under §203, either in particular instances or by general order applicable to special circumstances or conditions. It forbids requiring a notice period longer than 120 days. Good cause, the particular-instance or qualifying-general-order route, and the notice ceiling retain their separate functions.
-
-Section 203(c) generally forbids providing the covered communications without filed and published schedules, unless otherwise provided by or under authority of the Act. That proviso recognizes lawful authority; it does not itself confer unlimited authority to dispense with filing. The subsection separately forbids charging more, less or different compensation than the effective schedule specifies, refunding or remitting scheduled charges by any device, and supplying privileges or facilities or applying classifications, regulations or practices affecting charges except as specified in the schedule. This proviso is distinct from subsection (a)'s connecting-carrier exception and subsection (b)(2)'s modification conditions. Sections 201–202 retain their just-and-reasonable and nondiscrimination requirements, while §§206–208 retain liability, damages-forum and complaint machinery. Their survival does not dispense with the independently required filing mechanism.
-
-## Separate Writings
-
-Justice Scalia concurs, joined by Kennedy, Thomas and Ginsburg, while joining the Court's opinion in full. They would also hold that the general order independently fails §203(b)(2)'s special-circumstances-or-conditions requirement. Even assuming the modification power could reach the change, a substitute filing regime covering every long-distance carrier except AT&T and approximately forty percent of customers has the ordinary reach of sector regulation. Calling the category nondominant does not, in their view, establish the limiting condition for this order. They do not adopt a numerical cutoff or find that each nondominant carrier has market power; breadth is evidence of the order's regulatory character. They preserve general orders addressing genuine qualifying conditions and do not determine whether a smaller or differently conditioned waiver would qualify. The four Justices regard this statutory objection as sufficient by itself. It is not an alternative holding of the Court.
-
-Justice Stevens dissents, joined by Blackmun and Souter. They would reverse the statutory-authority judgment and remand because the express power to modify any requirement, including by a general order for special conditions, reasonably accommodates the difference between dominant and competitive carriers. Nondominance can be special by character rather than by numerical rarity. The agency's actual competition rationale matters: mandatory advance public filing may burden competition without delivering the same protection against market power. The rule preserves voluntary filing, just-and-reasonable rates, nondiscrimination, complaint enforcement and the possibility of restoring filing obligations if conditions change. These features persuade the dissent that the Commission adjusted the statutory system rather than abandoned it. The 120-day ceiling limits an increased notice burden; it does not confine every relaxation to an insignificant detail. Boston & Maine supports contextual delegation, and the permissible constructions sustained in Health Care & Retirement and PUD No. 1 show why operative text and safeguards matter. Lechmere still requires respect for established statutory limits, but it does not resolve the scope of this express modification clause. The dissent rejects both the Court's modification ground and the concurrence's independent special-condition objection. Good cause, actual qualifying conditions and the agency's own reasons remain necessary; the dissent would not authorize elimination of §§201–202, sustain compulsory nonfiling, or adjudicate the separate complaint's monetary remedy.
-
-## Procedure After Action
-
-Affirmance leaves the D.C. Circuit's invalidation of the challenged rule in force and completes this Court's merits review in both consolidated dockets. The Commission retains authority to make modifications satisfying the statute. The Court gives no new remand instruction in the distinct complaint proceeding and decides no damages, past-nonfiling monetary consequences, specific tariff rate or replacement regulatory regime.
-
-## Source Notes
-
-The [official report, 512 U.S. 218](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512218/usrep512218.pdf), supports the argument date, consolidated dockets, participation and administrative setting. The complete [1985 court-of-appeals opinion](https://static.case.law/f2d/765/html/1186-01.html) expressly reserves permissive detariffing; the [1992 opinion](https://static.case.law/f2d/978/html/0727-01.html) identifies the complaint proceeding and its relief. The [official United States Code, title 47](https://www.govinfo.gov/content/pkg/USCODE-1994-title47/pdf/USCODE-1994-title47.pdf), printed page 39, supplies the operative §203 text, including the 120-day notice period. The unpublished summary order is distinct from the published 1992 opinion; its exact issuance date is not supplied. No verbatim grant question, additional administrative finding or particular complaint recovery is asserted.
-
----
-
 <!-- source-record: Simmons_v_South_Carolina_merits_1994-06-17.md -->
 ## Event
 
@@ -194,6 +109,91 @@ The [official report, 512 U.S. 154–185](https://tile.loc.gov/storage-services/
 
 ---
 
+<!-- source-record: MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md -->
+## Event
+
+MCI Telecommunications Corp. v. American Telephone & Telegraph Co., No. 93-356, consolidated with United States et al. v. American Telephone & Telegraph Co. et al., No. 93-521; 512 U.S. 218. Argued March 21, 1994; decided June 17, 1994. On certiorari to the United States Court of Appeals for the District of Columbia Circuit. The question is whether 47 U.S.C. §203(b)(2) authorizes the Commission's rule making tariff filing optional for all nondominant long-distance carriers.
+
+The reviewed unpublished summary order set aside the FCC's November 1992 rule, 7 FCC Rcd 8072. It relied on AT&T v. FCC, 978 F.2d 727 (D.C. Cir. 1992), which addressed the earlier complaint and the statutory authority for permissive detariffing. The present review concerns the rulemaking judgment; it does not separately decide the amount or availability of a recovery in that complaint. The challenged rule permits carriers to file voluntarily; it does not prohibit filings as the earlier compulsory-nonfiling rule did.
+
+Render form: full. Basis: the Court's structural modification holding and a separate four-Justice independent statutory ground require distinct authority and opinion accounts.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg participate. Justice O'Connor took no part in the consideration or decision. No reason for her nonparticipation is stated.
+
+## Public Action
+
+The judgment of the Court of Appeals is affirmed, 5–3.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Statutory validity of the permissive-detariffing rule; Nos. 93-356 and 93-521 | Affirm, 5–3 | Stone-Zsela, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | The judgment setting aside the rule remains in force. No damages, tariff rate or replacement regulatory program is ordered. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Chief Justice Stone-Zsela | Scalia, Kennedy, Thomas, Ginsburg | Affirm both consolidated dockets | Structural modification ground, statutory qualifications, deference analysis and remedy; all join fully. |
+| Concurrence | Scalia | Kennedy, Thomas, Ginsburg | Affirm; all four also join the Court | Additional independently sufficient special-condition objection; four votes, noncontrolling. |
+| Dissent | Stevens | Blackmun, Souter | Would reverse and remand | The modification power reasonably permits the rule; both asserted statutory barriers are rejected. |
+
+## Holdings
+
+### The modification power does not permit this replacement of mandatory filing
+
+**Controlling proposition:** Under 47 U.S.C. §203(b)(2), the Commission may, in its discretion and for good cause shown, modify tariff requirements in particular instances or by general order applicable to special circumstances or conditions, but may not replace §203(a)'s mandatory filing obligation throughout the nondominant long-distance sector with an optional system or lengthen the statutory notice period beyond 120 days. The challenged permissive-filing rule exceeds that delegation and is invalid; Chevron does not require deference to a construction outside this statutory boundary.
+
+**Authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined by Scalia, Kennedy, Thomas and Ginsburg. Five of eight participating Justices directly adopt the structural modification ground, its application and its stated limits; no aggregation of separate rationales is necessary.
+
+**Controlling explanation:** The Court holds that the modification clause operates within Congress's tariff system. Section 203(a) makes filing obligatory, while subsection (c) generally ties lawful service and charges to published schedules. The power to modify any requirement is substantial, but its object and context do not permit the Commission to substitute voluntary filing throughout the nondominant sector. Chevron requires examination of this enacted boundary before deference; Boston & Maine recognizes contextual delegation, and Good Samaritan permits considered changes within lawful statutory methods. Neither authorizes replacement of a required mechanism merely because other protections remain. Nondominant carriers face different competitive constraints, and the rule preserves just-and-reasonable rates, nondiscrimination, complaints and voluntary tariffs. Those features make the agency's argument substantial, but they do not preserve the separate obligatory tariff protection Congress enacted. The rule fails for that structural reason, not because a policy is important or affects many carriers. The Court preserves lawful class-wide technical adjustments and leaves particular limited waivers, enforcement decisions and past monetary consequences for cases presenting them.
+
+**Application and operative qualifications:** The November 1992 rule makes filing optional, not forbidden, for nondominant long-distance carriers; AT&T alone remains classified as dominant in this record. A modification can have consequential effects. Courts must examine the obligation changed, the scope of the modification clause and whether the agency adjusts the obligation's operation or removes its essential operation for the regulated class. This inquiry does not turn on a numerical market-share threshold or automatically invalidate a class-wide adjustment. Changes to filing form, contents, timing or place remain possible under the statutory conditions; timing changes cannot extend the 120-day notice ceiling. The Court does not categorically foreclose deferral or waiver in limited circumstances, and decides no particular proposed waiver. Good cause alone cannot authorize replacement of mandatory filing throughout this sector.
+
+**Precedent treatment:**
+
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984): applies the inquiry into statutory meaning before deference; no new exception based on economic importance and no replacement of Chevron is adopted.
+- National Railroad Passenger Corp. v. Boston & Maine Corp., March 25, 1992: preserves contextual interpretation within an actual delegation and the requirement of a discernible agency ground; the agency's competitive-policy rationale is examined, not replaced by a judicial rationale.
+- Good Samaritan Hospital v. Shalala, June 7, 1993: preserves permissible interpretive change within a statutory system; the defect here is the rule's statutory reach, not the fact that the Commission changed its policy.
+- Lechmere, Inc. v. NLRB, January 27, 1992: preserves the principle that agency expertise operates within binding statutory limits; its distinct nonemployee-access rule is not imported into tariff regulation.
+- NLRB v. Health Care & Retirement Corp. of America, May 23, 1994: distinguishes a permissible functional construction preserving the statute's operative distinctions from removal of the filing obligation here; its supervisory-status holding remains intact.
+- PUD No. 1 of Jefferson County v. Washington Department of Ecology, May 31, 1994: distinguishes broad conditioning authority grounded in that Act's operative compliance language; no general rule against consequential agency action follows.
+- MCI Telecommunications Corp. v. FCC, 765 F.2d 1186 (D.C. Cir. 1985): its rejection of compulsory nonfiling supplies relevant statutory context, but its express reservation of permissive detariffing is respected; the present optional rule is independently adjudicated.
+
+**Limits and questions not reached:** The Court does not decide whether the challenged order independently fails the special-circumstances-or-conditions requirement. Scalia, Kennedy, Thomas and Ginsburg adopt that separate reason in a concurrence, which does not command a participating majority. The Court does not prescribe tariff rates or a replacement regulatory program, decide damages or retrospective consequences of prior nonfiling, resolve every individual nonenforcement decision, or adopt an independently sufficient ratification or prohibition theory from §§226 or 332. No separate alternative holding controls.
+
+## Precedent Treatment
+
+The treatment and present force of each materially used authority are stated in the holding. No precedent is overruled. The earlier MCI v. FCC decision invalidated compulsory nonfiling and reserved permissive detariffing; the Court decides the latter question on its own statutory footing.
+
+## Law After Decision
+
+The filing obligation remains operative subject to modifications that §203 actually authorizes. The new holding excludes replacement of mandatory filing throughout the nondominant long-distance sector with the optional regime before the Court. It preserves meaningful lawful adjustments, including class-wide technical changes, and the existing framework for construing agency authority. The four-Justice special-condition theory creates no independent controlling rule.
+
+Section 203(a) requires every common carrier except connecting carriers, within a reasonable time designated by the Commission, to file, print and keep publicly available schedules of charges for interstate and foreign wire or radio communications on its own system, with connecting carriers and over established through routes. Schedules include joint or separate charges and classifications, practices and regulations affecting them, additional information and the form and inspection places the Commission lawfully requires, and notice of the effective date. Carriers furnish schedules to connecting carriers, which must keep them open for inspection at the public places the Commission requires. The connecting-carrier exception does not erase those carriers' separate inspection duties.
+
+Section 203(b)(1) ordinarily requires 120 days' notice to the Commission and the public before changing filed charges, classifications, regulations or practices, in the prescribed form and with the prescribed information. Subsection (b)(2) permits the Commission, in its discretion and for good cause shown, to modify any requirement made by or under §203, either in particular instances or by general order applicable to special circumstances or conditions. It forbids requiring a notice period longer than 120 days. Good cause, the particular-instance or qualifying-general-order route, and the notice ceiling retain their separate functions.
+
+Section 203(c) generally forbids providing the covered communications without filed and published schedules, unless otherwise provided by or under authority of the Act. That proviso recognizes lawful authority; it does not itself confer unlimited authority to dispense with filing. The subsection separately forbids charging more, less or different compensation than the effective schedule specifies, refunding or remitting scheduled charges by any device, and supplying privileges or facilities or applying classifications, regulations or practices affecting charges except as specified in the schedule. This proviso is distinct from subsection (a)'s connecting-carrier exception and subsection (b)(2)'s modification conditions. Sections 201–202 retain their just-and-reasonable and nondiscrimination requirements, while §§206–208 retain liability, damages-forum and complaint machinery. Their survival does not dispense with the independently required filing mechanism.
+
+## Separate Writings
+
+Justice Scalia concurs, joined by Kennedy, Thomas and Ginsburg, while joining the Court's opinion in full. They would also hold that the general order independently fails §203(b)(2)'s special-circumstances-or-conditions requirement. Even assuming the modification power could reach the change, a substitute filing regime covering every long-distance carrier except AT&T and approximately forty percent of customers has the ordinary reach of sector regulation. Calling the category nondominant does not, in their view, establish the limiting condition for this order. They do not adopt a numerical cutoff or find that each nondominant carrier has market power; breadth is evidence of the order's regulatory character. They preserve general orders addressing genuine qualifying conditions and do not determine whether a smaller or differently conditioned waiver would qualify. The four Justices regard this statutory objection as sufficient by itself. It is not an alternative holding of the Court.
+
+Justice Stevens dissents, joined by Blackmun and Souter. They would reverse the statutory-authority judgment and remand because the express power to modify any requirement, including by a general order for special conditions, reasonably accommodates the difference between dominant and competitive carriers. Nondominance can be special by character rather than by numerical rarity. The agency's actual competition rationale matters: mandatory advance public filing may burden competition without delivering the same protection against market power. The rule preserves voluntary filing, just-and-reasonable rates, nondiscrimination, complaint enforcement and the possibility of restoring filing obligations if conditions change. These features persuade the dissent that the Commission adjusted the statutory system rather than abandoned it. The 120-day ceiling limits an increased notice burden; it does not confine every relaxation to an insignificant detail. Boston & Maine supports contextual delegation, and the permissible constructions sustained in Health Care & Retirement and PUD No. 1 show why operative text and safeguards matter. Lechmere still requires respect for established statutory limits, but it does not resolve the scope of this express modification clause. The dissent rejects both the Court's modification ground and the concurrence's independent special-condition objection. Good cause, actual qualifying conditions and the agency's own reasons remain necessary; the dissent would not authorize elimination of §§201–202, sustain compulsory nonfiling, or adjudicate the separate complaint's monetary remedy.
+
+## Procedure After Action
+
+Affirmance leaves the D.C. Circuit's invalidation of the challenged rule in force and completes this Court's merits review in both consolidated dockets. The Commission retains authority to make modifications satisfying the statute. The Court gives no new remand instruction in the distinct complaint proceeding and decides no damages, past-nonfiling monetary consequences, specific tariff rate or replacement regulatory regime.
+
+## Source Notes
+
+The [official report, 512 U.S. 218](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512218/usrep512218.pdf), supports the argument date, consolidated dockets, participation and administrative setting. The complete [1985 court-of-appeals opinion](https://static.case.law/f2d/765/html/1186-01.html) expressly reserves permissive detariffing; the [1992 opinion](https://static.case.law/f2d/978/html/0727-01.html) identifies the complaint proceeding and its relief. The [official United States Code, title 47](https://www.govinfo.gov/content/pkg/USCODE-1994-title47/pdf/USCODE-1994-title47.pdf), printed page 39, supplies the operative §203 text, including the 120-day notice period. The unpublished summary order is distinct from the published 1992 opinion; its exact issuance date is not supplied. No verbatim grant question, additional administrative finding or particular complaint recovery is asserted.
+
+---
+
 <!-- source-record: West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md -->
 ## Event
 
@@ -287,6 +287,196 @@ The case returns for proceedings consistent with reversal of the judgment sustai
 ## Source Notes
 
 The predecision facts, order mechanics, and procedural history are supported by the [Massachusetts Supreme Judicial Court opinion](https://static.case.law/mass/415/html/0008-01.html) and the record discussion in the [official report, 512 U.S. 186](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512186/usrep512186.pdf). The earlier tax/subsidy distinction is supported by [New Energy, 486 U.S. 269](https://tile.loc.gov/storage-services/service/ll/usrep/usrep486/usrep486269/usrep486269.pdf). The complete standalone amended pricing instrument and full briefs were not independently available; its material operation and qualifications are supplied by the judicial record. Exact unquoted severability provisions, a particular refund entitlement, or an authenticated verbatim grant limitation are not decided. No new quotation from an opinion is represented as published decisional language.
+
+---
+
+<!-- source-record: Hawaiian_Airlines_v_Norris_merits_1994-06-20.md -->
+## Event
+
+Hawaiian Airlines, Inc. v. Norris, No. 92-2058, including the related Finazzo judgment under Rule 12.2. Argued April 28, 1994; decided June 20, 1994 (1994-06-20). On certiorari to the Supreme Court of Hawaii, 74 Haw. 648, 847 P.2d 263 (1993), and 74 Haw. 235, 842 P.2d 634 (1992).
+
+The question is whether the Railway Labor Act preempts Norris's state wrongful-discharge claims because the employment relationship also supplies contractual grievance remedies. Norris, an aircraft mechanic, disputed a demand to sign a maintenance record concerning an axle sleeve, reported his safety concern to the FAA, and challenged discipline imposed for asserted insubordination. The content of the requested certification and the discharge/suspension characterization remain disputed.
+
+The airline action and the action against Paul Finazzo, Howard Ogden, and Hatsuo Honma are both before the Court. The reported airline trial dismissal concerns the public-policy count. The published officers judgment reverses dismissal of the public-policy and whistleblower counts, vacates the certified final judgment, and remands. Both reviewed judgments reject the federal preemption barrier. A separate federal dismissal of the airline contract claim is not challenged.
+
+**Render form: compact.** The Court is unanimous, with no material change in judgment, controlling rule, or remedy.
+
+## Participation
+
+All nine participate: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg.
+
+## Public Action
+
+Both Hawaii judgments are affirmed, 9–0. The surviving independent state claims may proceed subject to ordinary state law.
+
+## Judgment & Remedy
+
+The public-policy preemption disposition in the airline action and the public-policy and whistleblower preemption dispositions in the included officers action are affirmed unanimously. Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg support each disposition. The common rule addresses both independent state theories; it does not create an additional certified airline judgment concerning a count not established by the available order. No damages, reinstatement, renewed grievance, or return-to-work order is issued.
+
+## Opinion Topology
+
+Justice Stevens delivers the opinion of the Court. Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg join it in full. There are no partial joins or separate writings.
+
+## Holdings
+
+### Independent state rights remain enforceable without interpreting the labor agreement
+
+**Holding and operative rule:** The Railway Labor Act's exclusive machinery for minor disputes covers claims founded on a collective-bargaining agreement or requiring interpretation of its disputed terms; it does not displace independent state-law claims resolvable through factual questions about conduct or motive without that interpretation. Norris's public-policy and whistleblower theories meet that independence test on the presented preemption question, so both reviewed Hawaii judgments are affirmed, leaving the surviving claims, their ordinary elements and defenses, and any relief for state proceedings.
+
+**Authority:** Justice Stevens's opinion for a unanimous Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. All nine adopt the complete rule, application, precedent treatment, and bounded affirmance.
+
+**Controlling explanation:** The Court holds that a contractual grievance does not absorb every legal protection arising from the same events. Section 184 assigns agreement-based airline disputes to the statutory adjustment process. Buell preserves independently supplied rights despite grievance overlap, and Lingle separates factual questions about discharge and motive from interpretation of an agreement. That distinction also governs here, while recognizing the RLA's different machinery. Livadas confirms that consulting a contract is not necessarily interpreting disputed terms. Whether Norris reported a safety concern, what certification was requested, and why the employer acted are factual questions relevant to the independent state duties. A contractual discipline defense does not itself convert those duties into contract rights. Conrail's arguable-justification test classifies disputes over an agreement; it does not establish that every independent claim is such a dispute. Andrews remains controlling when the claimed entitlement actually comes from the agreement. State-law labels alone do not defeat preemption either: genuine interpretive dependence still requires the proper contractual channel. The Court decides neither retaliation nor the contract grievance's merits.
+
+**Precedent treatment:** Lingle v. Norge Division of Magic Chef, Inc., 486 U.S. 399 (1988): extends its independent-right and necessary-interpretation distinction from the Labor Management Relations Act context to RLA preemption, without equating the two statutes in every respect.
+
+**Precedent treatment:** Atchison, Topeka & Santa Fe Railway Co. v. Buell, 480 U.S. 557 (1987): applies its refusal to substitute RLA grievance machinery for an independent substantive protection; no new federal injury or whistleblower action follows.
+
+**Precedent treatment:** Consolidated Rail Corp. v. Railway Labor Executives' Assn., 491 U.S. 299 (1989): preserves its arguable-contractual-justification test within the major/minor distinction for contractual disputes; it does not answer the antecedent source-of-right question.
+
+**Precedent treatment:** Andrews v. Louisville & Nashville Railroad Co., 406 U.S. 320 (1972): distinguishes its agreement-founded entitlement while preserving compulsory adjustment for that category.
+
+**Precedent treatment:** Elgin, Joliet & Eastern Railway Co. v. Burley, 325 U.S. 711 (1945): disavows its broader suggestion that an omitted contractual case necessarily includes an independent state-law claim within minor disputes; that dictum does not control. Its contractual and representation holdings are not overruled.
+
+**Precedent treatment:** Livadas v. Bradshaw, June 13, 1994: applies the distinction between factual consultation and necessary interpretation, preserving genuinely contract-dependent claims; its separate bargaining-policy and §1983 holdings are not extended here.
+
+**Operative qualifications and limits:** A statutory or nonnegotiable label does not by itself establish independence. Courts examine the claim's actual elements; a state claim using disputed contractual just cause as its substantive standard differs from the factual retaliatory-motive inquiry here. Overlapping facts, parallel remedies, unfinished grievance steps, or an asserted contract defense do not alone defeat an independent right. The separate federal dismissal of the CBA claim remains intact. State elements, defenses, ordinary limits against duplicate recovery, and genuine arbitration duties remain applicable. Affirmance establishes no unsafe-aircraft finding, wrongful discharge, damages amount, reinstatement, or new FAA cause of action.
+
+## Precedent Treatment
+
+The holding-specific treatment above governs. Lingle is extended across the distinct statutory settings, and Burley's broader independent-state-claim dictum is disavowed. No contractual holding of Burley or Andrews is overruled. Livadas's separate labor-policy and §1983 rulings remain within their own scope.
+
+## Law After Decision
+
+The RLA now expressly applies Lingle's independent-right and necessary-contract-interpretation distinction to the state claims presented. Factual overlap and consultation remain different from deciding disputed contract meaning. The contractual minor-dispute channel remains exclusive within its proper scope; federal labor regulation does not automatically displace every employment right enforced outside that channel.
+
+Section 184 requires covered airline disputes to be handled in the usual manner through the designated chief operating officer. If adjustment fails, either party or both may petition the appropriate adjustment board with facts and supporting data. Carriers and employees through their selected representatives must establish boards of jurisdiction no greater than the lawful system, group, or regional railroad-board jurisdiction; agreements may establish individual, system, or group airline boards, and the statute preserves mutually agreed temporary national boards of similarly limited jurisdiction. The initial handling command and permission to refer an unresolved dispute are distinct. The railroad board itself is not made the forum for this airline case.
+
+The quoted Hawaii whistleblower protection covers an employee's actual or impending verbal or written report to a public body of a violation or suspected violation of Hawaii, political-subdivision, or federal law or rules, unless the employee knows the report is false. No finding establishes that exception here. Hawaii law gives the statutory rights and remedies precedence over inferior CBA rights, remedies, and procedures; that state provision does not itself override federal preemption. The common-law public-policy theory remains a distinct count. Their independent sources and actual elements, rather than state labels alone, support today's federal ruling.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The existing Hawaii remands remain operative. The proper state proceedings will determine the surviving claims under their elements and defenses and address any overlapping relief under ordinary limits against duplicate recovery. Neither the truth of the retaliation allegations nor the merits of the dismissed contract count are reopened or adjudicated by affirmance. No further Supreme Court merits proceeding or particular mandate-issuance date is directed.
+
+## Source Notes
+
+The [published Hawaii opinion](https://static.case.law/haw/74/html/0235-01.html) supplies the officers action, the two dismissed counts, the state provisions and the remand. The [official report, 512 U.S. 246](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512246/usrep512246.pdf) supplies the two-action posture, argument date, record, and the airline dismissal's described scope. The [official Code text of §184](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title45-section184&num=0&edition=1994) supplies the airline adjustment provision. The separate full airline order and complete contemporary Hawaii enactment were not independently obtained. Their missing contents do not supply additional certified dismissals, statutory elements, or a particular damages remedy. The competing certification and employment accounts remain allegations, not findings of liability.
+
+---
+
+<!-- source-record: Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md -->
+## Event
+
+Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, No. 93-744, including Maher Terminals under Rule 12.2; 512 U.S. 267. Argued April 25, 1994; decided June 20, 1994 (1994-06-20). On certiorari to the United States Court of Appeals for the Third Circuit, reviewing Greenwich Collieries v. Director, OWCP, 990 F.2d 730 (March 23, 1993), and Maher Terminals, Inc. v. Director, OWCP, 992 F.2d 1277 (April 19, 1993). Each judgment vacated a Benefits Review Board award or order and required administrative reconsideration. The question is whether the Department of Labor's true-doubt rule may award these benefits when opposing evidence is equally persuasive, including the APA's meaning and its application through each compensation statute.
+
+Andrew Ondecko's black-lung claim involved equally weighted evidence of pneumoconiosis and total disability. His long coal-employment history supplied a distinct employment-connection presumption, not all medical elements. In Maher, Pasqualina Santoro sought Michael Santoro's lifetime-disability and death benefits after a workplace neck strain and a later cancer diagnosis. The contested issue was whether the injury aggravated his condition and hastened death. The ALJ found the Longshore §20(a) presumption rebutted, then used true doubt to resolve the remaining evidentiary tie. The Board sustained the awards. The Director seeks restoration of benefits and authority to use the tie rule; the employers seek affirmance. Neither proceeding presents a finding that the workplace accident originally caused the cancer.
+
+Render form: full. Basis: the two statutory incorporation paths, distinct benefit components, limited disapproval of an earlier APA construction and preserved administrative remedies require a precise judgment and opinion account.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No nonparticipation is recorded.
+
+## Public Action
+
+The Court affirms both Third Circuit judgments, 6–3. The true-doubt rule cannot sustain these awards under the incorporated APA persuasion requirement.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Greenwich: challenged pneumoconiosis and total-disability determinations | Affirm, 6–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | Board award remains vacated; ALJ must complete weighing under claimant persuasion and applicable presumptions. |
+| Maher: lifetime-disability benefits | Affirm, 6–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | Board order remains vacated; remand through the Board to the ALJ for a lawful preponderance determination. |
+| Maher: death benefits | Affirm, 6–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | The same vacatur and remand require lawful consideration of aggravation and hastened death; no final employer entitlement is directed. |
+
+Both Third Circuit judgments are affirmed. Their existing administrative remands remain operative; the Court does not itself weigh the medical evidence, automatically deny all benefits, restore an award or fix a dollar amount. The dissenters would reverse the rule-invalidating judgments and remand without treating a genuine-tie rule as unlawful, while preserving review of any incomplete weighing or other unresolved defect.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Chief Justice Stone-Zsela, Scalia, Kennedy, Thomas, Ginsburg | Affirm both judgments | Entire opinion: APA allocation and limited precedent treatment; Longshore incorporation; narrow black-lung actual-regulation ground; all reservations and administrative remedies. |
+| Dissent | Blackmun | Stevens, Souter | Would reverse both rule-invalidating judgments and remand | Entire production/discretion rationale, statutory-stare-decisis objection, rejection of the independent Greenwich regulation/Mullins bar, and bounded remedy. |
+
+## Holdings
+
+### The APA assigns persuasion to the proponent of an order
+
+**Controlling proposition:** When APA §556(d) governs and no applicable statutory exception provides otherwise, the proponent of a rule or order bears the burden of persuasion, not merely the obligation to produce evidence. With the preponderance standard governing these benefits proceedings, a claimant cannot prevail on a necessary element left in genuine evidentiary equipoise after complete weighing and application of operative statutory presumptions and lawful defense burdens.
+
+**Authority:** O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. Six participating Justices directly adopt this allocation, its application to both proceedings, and the limited treatment of prior precedent; no aggregation of different grounds is necessary.
+
+**Controlling explanation:** The Court holds that producing some evidence does not satisfy the burden Congress assigned to the party seeking an order. In the APA's enacted procedural framework, burden of proof identifies the risk that the evidence will not persuade. Steadman establishes preponderance as the ordinary degree of proof and supports the statute's common adjudicatory framework; allocation and degree remain distinct questions. Transportation Management's footnote 7 directly construed the burden as production alone. That statutory statement and administrative reliance deserve consideration, but its broader construction is inconsistent with the enacted allocation and was unnecessary to sustain the decision's affirmative-defense structure. The General Counsel there must prove prohibited motivation; an employer may bear persuasion on its claim that the same discharge would have occurred anyway. That holding survives. Here true doubt awards relief precisely when the claimant has not persuaded the factfinder on a required element. Beneficent purpose cannot supply the missing statutory exception. This conclusion changes neither admissibility, lawful presumptions, the degree of proof, nor appellate substantial-evidence review, and decides no medical fact.
+
+**Precedent treatment:**
+
+- Steadman v. SEC, 450 U.S. 91 (1981): preserves its preponderance standard and uses its explanation of the APA framework; its proof-quantum holding is not recast as an earlier decision squarely settling allocation.
+- NLRB v. Transportation Management Corp., 462 U.S. 393, 404 n.7 (1983): disapproves the production-only construction of APA §7(c), now §556(d), to the extent inconsistent with the persuasion allocation; preserves the Wright Line holding requiring the General Counsel to prove unlawful motivation and permitting an employer same-decision affirmative defense.
+
+### The Longshore Act's evidentiary flexibility does not displace the APA allocation
+
+**Controlling proposition:** Longshore Act §19(d), 33 U.S.C. §919(d), requires APA adjudication notwithstanding other provisions of the chapter, and §23(a), 33 U.S.C. §923(a), does not exempt these claims from §556(d)'s persuasion allocation by relaxing evidentiary and technical procedural rules. Section 923(a) separately requires reception of a deceased employee's declarations concerning the injury under investigation and makes them sufficient to establish the injury when corroborated by other evidence; that preserved rule does not establish Santoro's disputed aggravation and hastened death on the claim presented here, and the vacatur and remand for a lawful preponderance determination are affirmed.
+
+**Authority:** O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. These six adopt the Longshore incorporation holding and apply it to both the lifetime-disability and death-benefit claims in Maher Terminals.
+
+**Controlling explanation:** The Court holds that freedom from technical evidence rules does not transfer the risk of nonpersuasion. Section 919(d) expressly brings Longshore hearings within APA adjudication despite other chapter provisions. Section 923(a) permits investigation and hearing methods best suited to ascertain the parties' rights, but its flexibility is itself subject to the chapter. Reading it to erase the incorporated burden would defeat that express relation. The separate deceased-employee declaration rule remains effective according to its own corroboration requirement; it supplies no general instruction to award benefits whenever medical evidence is tied. Steadman's proof standard applies without turning the reviewing court into the factfinder. Santoro's statutory presumption was rebutted, so it cannot substitute for the ultimate weighing of whether the injury aggravated his condition and hastened death. The Director's remedial-purpose argument cannot overcome the incorporated allocation. The ALJ must reconsider under lawful burdens and explain the actual evidentiary balance. The Court neither adopts the employer's medical account nor directs final denial of the claims.
+
+**Application and statutory limits:** Section 923(a) frees the deputy commissioner or Board from common-law or statutory evidence rules and technical or formal procedure except as provided by the chapter; it permits, rather than commands, a chosen investigative or hearing method best suited to ascertain the parties' rights. Its deceased-declaration reception and corroborated-sufficiency commands are separate. The §20(a) presumption that a claim comes within the Act operates in the absence of substantial evidence to the contrary; the ALJ found it rebutted here, and it is no longer evidence supporting ultimate persuasion. The causal questions concern aggravation and hastened death, not an established finding that the workplace incident originally caused the cancer. Incomplete weighing remains a question for administrative reconsideration and ordinary review.
+
+**Precedent treatment:**
+
+- Steadman v. SEC, 450 U.S. 91 (1981): applies the preponderance quantum in APA adjudication while retaining the distinction between agency factfinding and appellate review.
+- NLRB v. Transportation Management Corp., 462 U.S. 393 (1983): retains genuine affirmative-defense burdens; it does not authorize transfer of claimant persuasion merely because a benefits scheme is remedial.
+
+### The invoked black-lung regulation does not establish a departure from the APA
+
+**Controlling proposition:** The Black Lung Benefits Act's §932(a) incorporates the relevant Longshore adjudicatory provisions subject to its statutory and regulatory qualifications; even assuming it authorizes an appropriate regulatory departure from APA §556(d), §718.3(c)'s statement of a congressional reasonable-doubt policy does not establish that departure. The APA persuasion rule therefore governs the disputed pneumoconiosis and total-disability determinations here, and the Greenwich vacatur and remand are affirmed without deciding the full scope of §932(a)'s regulatory power or adopting an independent ground under §718.403 or Mullins.
+
+**Authority:** O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. Six Justices adopt the actual-regulation ground, the express reservation of broader delegated power, and the bounded administrative remedy.
+
+**Controlling explanation:** The Court holds that possible authority to create an exception and actual exercise of that authority are different questions. Section 932(a) expressly accommodates regulations of the Secretary, so the Court does not require Congress itself to spell out every conceivable departure or deny the Secretary all power to make one. The regulation invoked here describes congressional intent to give claimants reasonable doubt concerning disability or death due to pneumoconiosis. It does not adequately establish displacement of the incorporated APA persuasion rule. Remedial policy and longstanding practice cannot supply the missing operative allocation. Mullins requires real weighing in its interim-presumption setting and expressly left the APA question open; it supplies no previously decided answer to this allocation dispute. Ondecko's employment presumption does not prove the distinct existence of pneumoconiosis or total disability. The ALJ must finish weighing those matters under the APA rule and any applicable presumption. The Court reserves both a different exercise of delegated authority and the lower court's independent regulation-and-Mullins rationale, and finds no ultimate medical entitlement.
+
+**Application and statutory limits:** Section 932(a) applies after December 31, 1973 during periods when the State's compensation law is not on the Secretary's §931(b) list, to coal-mine operators respecting death or total disability due to pneumoconiosis arising from mine employment, or entitlements under §921(c)(5). It excludes Longshore Act §§1, 2, 3, 4, 8, 9, 10, 12, 13, 29, 30, 31, 32, 33, 37, 38, 41, 43, 44, 45, 46, 47, 48, 49, 50 and 51. Incorporation is except as otherwise provided in §932(a) or by the Secretary's regulations, and references to the employer refer to fund trustees as the Secretary considers appropriate consistently with 26 U.S.C. §9501(d). Additional provisions the Secretary prescribes in the Federal Register to provide payment to entitled persons may not be inconsistent with the provisions specifically excluded. The cross-reference to §28(h)(1) of the 1984 Longshore amendments excludes that Act's §7 medical-services amendments from black-lung claims. None of those excluded-provision, fund-substitution or medical-services matters is adjudicated here.
+
+Section 718.3(c) expresses the policy of giving claimants the benefit of all reasonable doubt about total or partial disability or death due to pneumoconiosis; it does not expressly prescribe an ultimate equipoise award. Section 718.403 places proof of an alleged fact on the party alleging it except as provided in the subchapter, but its independent effect is not decided. Ondecko's more than ten years of coal-mine employment bears on whether established pneumoconiosis arose from that employment; it does not supply the separate disease and total-disability findings disputed here. An ALJ must not stop weighing at an apparent tie or rename a tie a slight preponderance.
+
+**Precedent treatment:**
+
+- Mullins Coal Co. v. Director, OWCP, 484 U.S. 135 (1987): preserves its requirement of actual weighing under its interim-presumption regulation and its reservation of the APA question; the Court does not adopt the Third Circuit's separate use of Mullins and §718.403 as an independent bar.
+- Steadman v. SEC, 450 U.S. 91 (1981): preserves the preponderance standard while the incorporated APA allocation determines the consequence of genuine equipoise.
+
+**Limits and questions not reached:** The Court determines no final entitlement, medical fact, benefit amount or award of relief to either employer. It preserves statutory exceptions and presumptions according to their own triggers and effects, does not settle the full regulatory-exception power under §932(a), and does not decide the independent §718.403/Mullins ground. There is no separate alternative holding and no fractured rationale requiring a Marks inquiry.
+
+## Precedent Treatment
+
+The precise treatments accompanying the holdings govern: Transportation Management's production-only APA statement is disapproved, while its Wright Line mixed-motive and affirmative-defense holding survives. Steadman's preponderance standard remains. Mullins's interim-regulation weighing rule and its reservation of the APA allocation issue are preserved; its independent use with §718.403 by the Third Circuit is not adopted.
+
+## Law After Decision
+
+Effective June 20, 1994, the APA's burden-of-proof clause places persuasion on the proponent unless an applicable statutory exception supplies a different rule. These claimants cannot receive benefits on true doubt under the provisions and regulation presented. The earlier production-only APA statement in Transportation Management no longer governs; its mixed-motive and affirmative-defense holding remains intact. Steadman's preponderance standard, the legal effect of genuine affirmative defenses, admissibility rules and lawful presumptions remain distinct.
+
+The Longshore Act's technical-evidence flexibility does not erase its express APA incorporation. The black-lung holding resolves the regulation actually invoked and leaves open the full scope of a different authorized regulation under §932(a). The Court does not independently adopt the Third Circuit's §718.403/Mullins ground. Lower tribunals must actually weigh the evidence, apply each operative presumption and defense burden, and decide whether the party bearing persuasion has carried it. Substantial-evidence review is not a license for an appellate court to reweigh the medical record. No benefits system, presumption or regulatory power beyond these holdings is displaced.
+
+## Separate Writings
+
+Justice Blackmun dissents, joined by Justices Stevens and Souter. They would reverse both judgments insofar as they invalidate the true-doubt rule and remand for remaining review. Transportation Management expressly construed the APA allocation sentence as imposing a production burden. Its statutory construction and the compensation systems' established administration should not be displaced by treating the discussion as insignificant merely because it appeared in a footnote. Steadman fixes the degree of proof; it does not necessarily identify the party that must lose when properly weighed evidence is exactly balanced. The dissent would preserve both precedents through that distinction.
+
+The dissent's rule is limited to a genuine tie after the ALJ has actually weighed the reliable evidence. It would not permit an award on weaker evidence, reinstate a rebutted presumption as evidence, or allow a tribunal to stop its analysis when opposing items first appear equal. Mullins's insistence on weighing under its interim regulation is consistent with this boundary, and its express reservation of the APA question prevents treating it as a prior prohibition of every tie rule. For Greenwich, the dissent also rejects the lower court's asserted independent §718.403/Mullins bar: the regulation's burden language can reasonably carry the production meaning, while §932(a) and §718.3(c) reinforce a permissible claimant-protective rule within the compensation scheme. For Maher, the Longshore scheme and §923(a)'s procedural flexibility inform the choice left by the production construction; they are not categorical exemptions from the APA.
+
+The dissent answers the majority's ordinary understanding of preponderance and proponent burden with the directly relevant earlier construction and the difference between standard and allocation. It does not give Labor authority to override a definitively adopted APA persuasion command or to control the meaning of the APA merely because it administers benefits. Its administrative-discretion premise depends on statutory space actually left by the production reading. Nor would reversal itself restore either award: ordinary review of complete weighing, the necessary medical elements and all independently unresolved defects remains. The disagreement concerns the lawful treatment of a fully considered tie, not a Supreme Court finding that Ondecko was disabled or that Santoro's work injury hastened his death.
+
+## Procedure After Action
+
+The Court's merits review is complete in No. 93-744 and the included Maher proceeding. Both Third Circuit judgments remain in force: the Board awards are vacated and the claims return through the prescribed administrative channels for complete weighing under the APA persuasion rule and all applicable statutory presumptions and lawful defense burdens. A tie on a necessary element, after those rules operate, does not carry claimant persuasion. No unconditional final denial, restoration of benefits, medical finding or new hearing date is ordered.
+
+## Source Notes
+
+The [official report, 512 U.S. 267](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512267/usrep512267.pdf), supports the docket, April 25 argument, June 20 decision date, included Maher proceeding, facts and competing legal arguments. The complete lower opinions establish the formal judgments: [Greenwich, 990 F.2d 730](https://static.case.law/f2d/990/html/0730-01.html), and [Maher, 992 F.2d 1277](https://static.case.law/f2d/992/html/1277-01.html). Both formally vacate and remand; shorthand descriptions of Maher as a reversal do not replace that mandate.
+
+The official Code supplies [APA §556(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title5-section556&num=0&edition=1994), [Longshore §919(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title33-section919&num=0&edition=1994), [§923(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title33-section923&num=0&edition=1994), and [black-lung §932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title30-section932&num=0&edition=1994). Their amendment histories establish the operative text; the [§907 statutory note](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title33-section907&num=0&edition=1994) supplies the 1984 medical-services exception. The contemporaneous reports supply the operative §718.3(c) and §718.403 sentences. The full 1993 CFR volume, merits briefs and joint appendix are not independently available in this account, so no additional regulatory clause or unreported finding is asserted. No quotation from a newly announced writing is reproduced.
 
 ---
 
@@ -469,196 +659,6 @@ The complete original treaty and diplomatic communications, separate full 1992 C
 
 ---
 
-<!-- source-record: Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md -->
-## Event
-
-Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, No. 93-744, including Maher Terminals under Rule 12.2; 512 U.S. 267. Argued April 25, 1994; decided June 20, 1994 (1994-06-20). On certiorari to the United States Court of Appeals for the Third Circuit, reviewing Greenwich Collieries v. Director, OWCP, 990 F.2d 730 (March 23, 1993), and Maher Terminals, Inc. v. Director, OWCP, 992 F.2d 1277 (April 19, 1993). Each judgment vacated a Benefits Review Board award or order and required administrative reconsideration. The question is whether the Department of Labor's true-doubt rule may award these benefits when opposing evidence is equally persuasive, including the APA's meaning and its application through each compensation statute.
-
-Andrew Ondecko's black-lung claim involved equally weighted evidence of pneumoconiosis and total disability. His long coal-employment history supplied a distinct employment-connection presumption, not all medical elements. In Maher, Pasqualina Santoro sought Michael Santoro's lifetime-disability and death benefits after a workplace neck strain and a later cancer diagnosis. The contested issue was whether the injury aggravated his condition and hastened death. The ALJ found the Longshore §20(a) presumption rebutted, then used true doubt to resolve the remaining evidentiary tie. The Board sustained the awards. The Director seeks restoration of benefits and authority to use the tie rule; the employers seek affirmance. Neither proceeding presents a finding that the workplace accident originally caused the cancer.
-
-Render form: full. Basis: the two statutory incorporation paths, distinct benefit components, limited disapproval of an earlier APA construction and preserved administrative remedies require a precise judgment and opinion account.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No nonparticipation is recorded.
-
-## Public Action
-
-The Court affirms both Third Circuit judgments, 6–3. The true-doubt rule cannot sustain these awards under the incorporated APA persuasion requirement.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Greenwich: challenged pneumoconiosis and total-disability determinations | Affirm, 6–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | Board award remains vacated; ALJ must complete weighing under claimant persuasion and applicable presumptions. |
-| Maher: lifetime-disability benefits | Affirm, 6–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | Board order remains vacated; remand through the Board to the ALJ for a lawful preponderance determination. |
-| Maher: death benefits | Affirm, 6–3 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Blackmun, Stevens, Souter | The same vacatur and remand require lawful consideration of aggravation and hastened death; no final employer entitlement is directed. |
-
-Both Third Circuit judgments are affirmed. Their existing administrative remands remain operative; the Court does not itself weigh the medical evidence, automatically deny all benefits, restore an award or fix a dollar amount. The dissenters would reverse the rule-invalidating judgments and remand without treating a genuine-tie rule as unlawful, while preserving review of any incomplete weighing or other unresolved defect.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | O'Connor | Chief Justice Stone-Zsela, Scalia, Kennedy, Thomas, Ginsburg | Affirm both judgments | Entire opinion: APA allocation and limited precedent treatment; Longshore incorporation; narrow black-lung actual-regulation ground; all reservations and administrative remedies. |
-| Dissent | Blackmun | Stevens, Souter | Would reverse both rule-invalidating judgments and remand | Entire production/discretion rationale, statutory-stare-decisis objection, rejection of the independent Greenwich regulation/Mullins bar, and bounded remedy. |
-
-## Holdings
-
-### The APA assigns persuasion to the proponent of an order
-
-**Controlling proposition:** When APA §556(d) governs and no applicable statutory exception provides otherwise, the proponent of a rule or order bears the burden of persuasion, not merely the obligation to produce evidence. With the preponderance standard governing these benefits proceedings, a claimant cannot prevail on a necessary element left in genuine evidentiary equipoise after complete weighing and application of operative statutory presumptions and lawful defense burdens.
-
-**Authority:** O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. Six participating Justices directly adopt this allocation, its application to both proceedings, and the limited treatment of prior precedent; no aggregation of different grounds is necessary.
-
-**Controlling explanation:** The Court holds that producing some evidence does not satisfy the burden Congress assigned to the party seeking an order. In the APA's enacted procedural framework, burden of proof identifies the risk that the evidence will not persuade. Steadman establishes preponderance as the ordinary degree of proof and supports the statute's common adjudicatory framework; allocation and degree remain distinct questions. Transportation Management's footnote 7 directly construed the burden as production alone. That statutory statement and administrative reliance deserve consideration, but its broader construction is inconsistent with the enacted allocation and was unnecessary to sustain the decision's affirmative-defense structure. The General Counsel there must prove prohibited motivation; an employer may bear persuasion on its claim that the same discharge would have occurred anyway. That holding survives. Here true doubt awards relief precisely when the claimant has not persuaded the factfinder on a required element. Beneficent purpose cannot supply the missing statutory exception. This conclusion changes neither admissibility, lawful presumptions, the degree of proof, nor appellate substantial-evidence review, and decides no medical fact.
-
-**Precedent treatment:**
-
-- Steadman v. SEC, 450 U.S. 91 (1981): preserves its preponderance standard and uses its explanation of the APA framework; its proof-quantum holding is not recast as an earlier decision squarely settling allocation.
-- NLRB v. Transportation Management Corp., 462 U.S. 393, 404 n.7 (1983): disapproves the production-only construction of APA §7(c), now §556(d), to the extent inconsistent with the persuasion allocation; preserves the Wright Line holding requiring the General Counsel to prove unlawful motivation and permitting an employer same-decision affirmative defense.
-
-### The Longshore Act's evidentiary flexibility does not displace the APA allocation
-
-**Controlling proposition:** Longshore Act §19(d), 33 U.S.C. §919(d), requires APA adjudication notwithstanding other provisions of the chapter, and §23(a), 33 U.S.C. §923(a), does not exempt these claims from §556(d)'s persuasion allocation by relaxing evidentiary and technical procedural rules. Section 923(a) separately requires reception of a deceased employee's declarations concerning the injury under investigation and makes them sufficient to establish the injury when corroborated by other evidence; that preserved rule does not establish Santoro's disputed aggravation and hastened death on the claim presented here, and the vacatur and remand for a lawful preponderance determination are affirmed.
-
-**Authority:** O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. These six adopt the Longshore incorporation holding and apply it to both the lifetime-disability and death-benefit claims in Maher Terminals.
-
-**Controlling explanation:** The Court holds that freedom from technical evidence rules does not transfer the risk of nonpersuasion. Section 919(d) expressly brings Longshore hearings within APA adjudication despite other chapter provisions. Section 923(a) permits investigation and hearing methods best suited to ascertain the parties' rights, but its flexibility is itself subject to the chapter. Reading it to erase the incorporated burden would defeat that express relation. The separate deceased-employee declaration rule remains effective according to its own corroboration requirement; it supplies no general instruction to award benefits whenever medical evidence is tied. Steadman's proof standard applies without turning the reviewing court into the factfinder. Santoro's statutory presumption was rebutted, so it cannot substitute for the ultimate weighing of whether the injury aggravated his condition and hastened death. The Director's remedial-purpose argument cannot overcome the incorporated allocation. The ALJ must reconsider under lawful burdens and explain the actual evidentiary balance. The Court neither adopts the employer's medical account nor directs final denial of the claims.
-
-**Application and statutory limits:** Section 923(a) frees the deputy commissioner or Board from common-law or statutory evidence rules and technical or formal procedure except as provided by the chapter; it permits, rather than commands, a chosen investigative or hearing method best suited to ascertain the parties' rights. Its deceased-declaration reception and corroborated-sufficiency commands are separate. The §20(a) presumption that a claim comes within the Act operates in the absence of substantial evidence to the contrary; the ALJ found it rebutted here, and it is no longer evidence supporting ultimate persuasion. The causal questions concern aggravation and hastened death, not an established finding that the workplace incident originally caused the cancer. Incomplete weighing remains a question for administrative reconsideration and ordinary review.
-
-**Precedent treatment:**
-
-- Steadman v. SEC, 450 U.S. 91 (1981): applies the preponderance quantum in APA adjudication while retaining the distinction between agency factfinding and appellate review.
-- NLRB v. Transportation Management Corp., 462 U.S. 393 (1983): retains genuine affirmative-defense burdens; it does not authorize transfer of claimant persuasion merely because a benefits scheme is remedial.
-
-### The invoked black-lung regulation does not establish a departure from the APA
-
-**Controlling proposition:** The Black Lung Benefits Act's §932(a) incorporates the relevant Longshore adjudicatory provisions subject to its statutory and regulatory qualifications; even assuming it authorizes an appropriate regulatory departure from APA §556(d), §718.3(c)'s statement of a congressional reasonable-doubt policy does not establish that departure. The APA persuasion rule therefore governs the disputed pneumoconiosis and total-disability determinations here, and the Greenwich vacatur and remand are affirmed without deciding the full scope of §932(a)'s regulatory power or adopting an independent ground under §718.403 or Mullins.
-
-**Authority:** O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. Six Justices adopt the actual-regulation ground, the express reservation of broader delegated power, and the bounded administrative remedy.
-
-**Controlling explanation:** The Court holds that possible authority to create an exception and actual exercise of that authority are different questions. Section 932(a) expressly accommodates regulations of the Secretary, so the Court does not require Congress itself to spell out every conceivable departure or deny the Secretary all power to make one. The regulation invoked here describes congressional intent to give claimants reasonable doubt concerning disability or death due to pneumoconiosis. It does not adequately establish displacement of the incorporated APA persuasion rule. Remedial policy and longstanding practice cannot supply the missing operative allocation. Mullins requires real weighing in its interim-presumption setting and expressly left the APA question open; it supplies no previously decided answer to this allocation dispute. Ondecko's employment presumption does not prove the distinct existence of pneumoconiosis or total disability. The ALJ must finish weighing those matters under the APA rule and any applicable presumption. The Court reserves both a different exercise of delegated authority and the lower court's independent regulation-and-Mullins rationale, and finds no ultimate medical entitlement.
-
-**Application and statutory limits:** Section 932(a) applies after December 31, 1973 during periods when the State's compensation law is not on the Secretary's §931(b) list, to coal-mine operators respecting death or total disability due to pneumoconiosis arising from mine employment, or entitlements under §921(c)(5). It excludes Longshore Act §§1, 2, 3, 4, 8, 9, 10, 12, 13, 29, 30, 31, 32, 33, 37, 38, 41, 43, 44, 45, 46, 47, 48, 49, 50 and 51. Incorporation is except as otherwise provided in §932(a) or by the Secretary's regulations, and references to the employer refer to fund trustees as the Secretary considers appropriate consistently with 26 U.S.C. §9501(d). Additional provisions the Secretary prescribes in the Federal Register to provide payment to entitled persons may not be inconsistent with the provisions specifically excluded. The cross-reference to §28(h)(1) of the 1984 Longshore amendments excludes that Act's §7 medical-services amendments from black-lung claims. None of those excluded-provision, fund-substitution or medical-services matters is adjudicated here.
-
-Section 718.3(c) expresses the policy of giving claimants the benefit of all reasonable doubt about total or partial disability or death due to pneumoconiosis; it does not expressly prescribe an ultimate equipoise award. Section 718.403 places proof of an alleged fact on the party alleging it except as provided in the subchapter, but its independent effect is not decided. Ondecko's more than ten years of coal-mine employment bears on whether established pneumoconiosis arose from that employment; it does not supply the separate disease and total-disability findings disputed here. An ALJ must not stop weighing at an apparent tie or rename a tie a slight preponderance.
-
-**Precedent treatment:**
-
-- Mullins Coal Co. v. Director, OWCP, 484 U.S. 135 (1987): preserves its requirement of actual weighing under its interim-presumption regulation and its reservation of the APA question; the Court does not adopt the Third Circuit's separate use of Mullins and §718.403 as an independent bar.
-- Steadman v. SEC, 450 U.S. 91 (1981): preserves the preponderance standard while the incorporated APA allocation determines the consequence of genuine equipoise.
-
-**Limits and questions not reached:** The Court determines no final entitlement, medical fact, benefit amount or award of relief to either employer. It preserves statutory exceptions and presumptions according to their own triggers and effects, does not settle the full regulatory-exception power under §932(a), and does not decide the independent §718.403/Mullins ground. There is no separate alternative holding and no fractured rationale requiring a Marks inquiry.
-
-## Precedent Treatment
-
-The precise treatments accompanying the holdings govern: Transportation Management's production-only APA statement is disapproved, while its Wright Line mixed-motive and affirmative-defense holding survives. Steadman's preponderance standard remains. Mullins's interim-regulation weighing rule and its reservation of the APA allocation issue are preserved; its independent use with §718.403 by the Third Circuit is not adopted.
-
-## Law After Decision
-
-Effective June 20, 1994, the APA's burden-of-proof clause places persuasion on the proponent unless an applicable statutory exception supplies a different rule. These claimants cannot receive benefits on true doubt under the provisions and regulation presented. The earlier production-only APA statement in Transportation Management no longer governs; its mixed-motive and affirmative-defense holding remains intact. Steadman's preponderance standard, the legal effect of genuine affirmative defenses, admissibility rules and lawful presumptions remain distinct.
-
-The Longshore Act's technical-evidence flexibility does not erase its express APA incorporation. The black-lung holding resolves the regulation actually invoked and leaves open the full scope of a different authorized regulation under §932(a). The Court does not independently adopt the Third Circuit's §718.403/Mullins ground. Lower tribunals must actually weigh the evidence, apply each operative presumption and defense burden, and decide whether the party bearing persuasion has carried it. Substantial-evidence review is not a license for an appellate court to reweigh the medical record. No benefits system, presumption or regulatory power beyond these holdings is displaced.
-
-## Separate Writings
-
-Justice Blackmun dissents, joined by Justices Stevens and Souter. They would reverse both judgments insofar as they invalidate the true-doubt rule and remand for remaining review. Transportation Management expressly construed the APA allocation sentence as imposing a production burden. Its statutory construction and the compensation systems' established administration should not be displaced by treating the discussion as insignificant merely because it appeared in a footnote. Steadman fixes the degree of proof; it does not necessarily identify the party that must lose when properly weighed evidence is exactly balanced. The dissent would preserve both precedents through that distinction.
-
-The dissent's rule is limited to a genuine tie after the ALJ has actually weighed the reliable evidence. It would not permit an award on weaker evidence, reinstate a rebutted presumption as evidence, or allow a tribunal to stop its analysis when opposing items first appear equal. Mullins's insistence on weighing under its interim regulation is consistent with this boundary, and its express reservation of the APA question prevents treating it as a prior prohibition of every tie rule. For Greenwich, the dissent also rejects the lower court's asserted independent §718.403/Mullins bar: the regulation's burden language can reasonably carry the production meaning, while §932(a) and §718.3(c) reinforce a permissible claimant-protective rule within the compensation scheme. For Maher, the Longshore scheme and §923(a)'s procedural flexibility inform the choice left by the production construction; they are not categorical exemptions from the APA.
-
-The dissent answers the majority's ordinary understanding of preponderance and proponent burden with the directly relevant earlier construction and the difference between standard and allocation. It does not give Labor authority to override a definitively adopted APA persuasion command or to control the meaning of the APA merely because it administers benefits. Its administrative-discretion premise depends on statutory space actually left by the production reading. Nor would reversal itself restore either award: ordinary review of complete weighing, the necessary medical elements and all independently unresolved defects remains. The disagreement concerns the lawful treatment of a fully considered tie, not a Supreme Court finding that Ondecko was disabled or that Santoro's work injury hastened his death.
-
-## Procedure After Action
-
-The Court's merits review is complete in No. 93-744 and the included Maher proceeding. Both Third Circuit judgments remain in force: the Board awards are vacated and the claims return through the prescribed administrative channels for complete weighing under the APA persuasion rule and all applicable statutory presumptions and lawful defense burdens. A tie on a necessary element, after those rules operate, does not carry claimant persuasion. No unconditional final denial, restoration of benefits, medical finding or new hearing date is ordered.
-
-## Source Notes
-
-The [official report, 512 U.S. 267](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512267/usrep512267.pdf), supports the docket, April 25 argument, June 20 decision date, included Maher proceeding, facts and competing legal arguments. The complete lower opinions establish the formal judgments: [Greenwich, 990 F.2d 730](https://static.case.law/f2d/990/html/0730-01.html), and [Maher, 992 F.2d 1277](https://static.case.law/f2d/992/html/1277-01.html). Both formally vacate and remand; shorthand descriptions of Maher as a reversal do not replace that mandate.
-
-The official Code supplies [APA §556(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title5-section556&num=0&edition=1994), [Longshore §919(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title33-section919&num=0&edition=1994), [§923(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title33-section923&num=0&edition=1994), and [black-lung §932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title30-section932&num=0&edition=1994). Their amendment histories establish the operative text; the [§907 statutory note](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title33-section907&num=0&edition=1994) supplies the 1984 medical-services exception. The contemporaneous reports supply the operative §718.3(c) and §718.403 sentences. The full 1993 CFR volume, merits briefs and joint appendix are not independently available in this account, so no additional regulatory clause or unreported finding is asserted. No quotation from a newly announced writing is reproduced.
-
----
-
-<!-- source-record: Hawaiian_Airlines_v_Norris_merits_1994-06-20.md -->
-## Event
-
-Hawaiian Airlines, Inc. v. Norris, No. 92-2058, including the related Finazzo judgment under Rule 12.2. Argued April 28, 1994; decided June 20, 1994 (1994-06-20). On certiorari to the Supreme Court of Hawaii, 74 Haw. 648, 847 P.2d 263 (1993), and 74 Haw. 235, 842 P.2d 634 (1992).
-
-The question is whether the Railway Labor Act preempts Norris's state wrongful-discharge claims because the employment relationship also supplies contractual grievance remedies. Norris, an aircraft mechanic, disputed a demand to sign a maintenance record concerning an axle sleeve, reported his safety concern to the FAA, and challenged discipline imposed for asserted insubordination. The content of the requested certification and the discharge/suspension characterization remain disputed.
-
-The airline action and the action against Paul Finazzo, Howard Ogden, and Hatsuo Honma are both before the Court. The reported airline trial dismissal concerns the public-policy count. The published officers judgment reverses dismissal of the public-policy and whistleblower counts, vacates the certified final judgment, and remands. Both reviewed judgments reject the federal preemption barrier. A separate federal dismissal of the airline contract claim is not challenged.
-
-**Render form: compact.** The Court is unanimous, with no material change in judgment, controlling rule, or remedy.
-
-## Participation
-
-All nine participate: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg.
-
-## Public Action
-
-Both Hawaii judgments are affirmed, 9–0. The surviving independent state claims may proceed subject to ordinary state law.
-
-## Judgment & Remedy
-
-The public-policy preemption disposition in the airline action and the public-policy and whistleblower preemption dispositions in the included officers action are affirmed unanimously. Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg support each disposition. The common rule addresses both independent state theories; it does not create an additional certified airline judgment concerning a count not established by the available order. No damages, reinstatement, renewed grievance, or return-to-work order is issued.
-
-## Opinion Topology
-
-Justice Stevens delivers the opinion of the Court. Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg join it in full. There are no partial joins or separate writings.
-
-## Holdings
-
-### Independent state rights remain enforceable without interpreting the labor agreement
-
-**Holding and operative rule:** The Railway Labor Act's exclusive machinery for minor disputes covers claims founded on a collective-bargaining agreement or requiring interpretation of its disputed terms; it does not displace independent state-law claims resolvable through factual questions about conduct or motive without that interpretation. Norris's public-policy and whistleblower theories meet that independence test on the presented preemption question, so both reviewed Hawaii judgments are affirmed, leaving the surviving claims, their ordinary elements and defenses, and any relief for state proceedings.
-
-**Authority:** Justice Stevens's opinion for a unanimous Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. All nine adopt the complete rule, application, precedent treatment, and bounded affirmance.
-
-**Controlling explanation:** The Court holds that a contractual grievance does not absorb every legal protection arising from the same events. Section 184 assigns agreement-based airline disputes to the statutory adjustment process. Buell preserves independently supplied rights despite grievance overlap, and Lingle separates factual questions about discharge and motive from interpretation of an agreement. That distinction also governs here, while recognizing the RLA's different machinery. Livadas confirms that consulting a contract is not necessarily interpreting disputed terms. Whether Norris reported a safety concern, what certification was requested, and why the employer acted are factual questions relevant to the independent state duties. A contractual discipline defense does not itself convert those duties into contract rights. Conrail's arguable-justification test classifies disputes over an agreement; it does not establish that every independent claim is such a dispute. Andrews remains controlling when the claimed entitlement actually comes from the agreement. State-law labels alone do not defeat preemption either: genuine interpretive dependence still requires the proper contractual channel. The Court decides neither retaliation nor the contract grievance's merits.
-
-**Precedent treatment:** Lingle v. Norge Division of Magic Chef, Inc., 486 U.S. 399 (1988): extends its independent-right and necessary-interpretation distinction from the Labor Management Relations Act context to RLA preemption, without equating the two statutes in every respect.
-
-**Precedent treatment:** Atchison, Topeka & Santa Fe Railway Co. v. Buell, 480 U.S. 557 (1987): applies its refusal to substitute RLA grievance machinery for an independent substantive protection; no new federal injury or whistleblower action follows.
-
-**Precedent treatment:** Consolidated Rail Corp. v. Railway Labor Executives' Assn., 491 U.S. 299 (1989): preserves its arguable-contractual-justification test within the major/minor distinction for contractual disputes; it does not answer the antecedent source-of-right question.
-
-**Precedent treatment:** Andrews v. Louisville & Nashville Railroad Co., 406 U.S. 320 (1972): distinguishes its agreement-founded entitlement while preserving compulsory adjustment for that category.
-
-**Precedent treatment:** Elgin, Joliet & Eastern Railway Co. v. Burley, 325 U.S. 711 (1945): disavows its broader suggestion that an omitted contractual case necessarily includes an independent state-law claim within minor disputes; that dictum does not control. Its contractual and representation holdings are not overruled.
-
-**Precedent treatment:** Livadas v. Bradshaw, June 13, 1994: applies the distinction between factual consultation and necessary interpretation, preserving genuinely contract-dependent claims; its separate bargaining-policy and §1983 holdings are not extended here.
-
-**Operative qualifications and limits:** A statutory or nonnegotiable label does not by itself establish independence. Courts examine the claim's actual elements; a state claim using disputed contractual just cause as its substantive standard differs from the factual retaliatory-motive inquiry here. Overlapping facts, parallel remedies, unfinished grievance steps, or an asserted contract defense do not alone defeat an independent right. The separate federal dismissal of the CBA claim remains intact. State elements, defenses, ordinary limits against duplicate recovery, and genuine arbitration duties remain applicable. Affirmance establishes no unsafe-aircraft finding, wrongful discharge, damages amount, reinstatement, or new FAA cause of action.
-
-## Precedent Treatment
-
-The holding-specific treatment above governs. Lingle is extended across the distinct statutory settings, and Burley's broader independent-state-claim dictum is disavowed. No contractual holding of Burley or Andrews is overruled. Livadas's separate labor-policy and §1983 rulings remain within their own scope.
-
-## Law After Decision
-
-The RLA now expressly applies Lingle's independent-right and necessary-contract-interpretation distinction to the state claims presented. Factual overlap and consultation remain different from deciding disputed contract meaning. The contractual minor-dispute channel remains exclusive within its proper scope; federal labor regulation does not automatically displace every employment right enforced outside that channel.
-
-Section 184 requires covered airline disputes to be handled in the usual manner through the designated chief operating officer. If adjustment fails, either party or both may petition the appropriate adjustment board with facts and supporting data. Carriers and employees through their selected representatives must establish boards of jurisdiction no greater than the lawful system, group, or regional railroad-board jurisdiction; agreements may establish individual, system, or group airline boards, and the statute preserves mutually agreed temporary national boards of similarly limited jurisdiction. The initial handling command and permission to refer an unresolved dispute are distinct. The railroad board itself is not made the forum for this airline case.
-
-The quoted Hawaii whistleblower protection covers an employee's actual or impending verbal or written report to a public body of a violation or suspected violation of Hawaii, political-subdivision, or federal law or rules, unless the employee knows the report is false. No finding establishes that exception here. Hawaii law gives the statutory rights and remedies precedence over inferior CBA rights, remedies, and procedures; that state provision does not itself override federal preemption. The common-law public-policy theory remains a distinct count. Their independent sources and actual elements, rather than state labels alone, support today's federal ruling.
-
-## Separate Writings
-
-
-
-## Procedure After Action
-
-The existing Hawaii remands remain operative. The proper state proceedings will determine the surviving claims under their elements and defenses and address any overlapping relief under ordinary limits against duplicate recovery. Neither the truth of the retaliation allegations nor the merits of the dismissed contract count are reopened or adjudicated by affirmance. No further Supreme Court merits proceeding or particular mandate-issuance date is directed.
-
-## Source Notes
-
-The [published Hawaii opinion](https://static.case.law/haw/74/html/0235-01.html) supplies the officers action, the two dismissed counts, the state provisions and the remand. The [official report, 512 U.S. 246](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512246/usrep512246.pdf) supplies the two-action posture, argument date, record, and the airline dismissal's described scope. The [official Code text of §184](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title45-section184&num=0&edition=1994) supplies the airline adjustment provision. The separate full airline order and complete contemporary Hawaii enactment were not independently obtained. Their missing contents do not supply additional certified dismissals, statutory elements, or a particular damages remedy. The competing certification and employment accounts remain allegations, not findings of liability.
-
----
-
 <!-- source-record: Reed_v_Farley_merits_1994-06-20.md -->
 ## Event
 
@@ -775,112 +775,6 @@ The original motions, their filing stamps, and the full Indiana opinion were not
 
 ---
 
-<!-- source-record: Davis_v_United_States_merits_1994-06-24.md -->
-## Event
-
-Davis v. United States, No. 92-1949, 512 U.S. 452. Argued March 29, 1994; decided June 24, 1994 (1994-06-24). On writ of certiorari to the United States Court of Military Appeals, 36 M.J. 337, affirming the military conviction. The question is whether, following a valid waiver, an ambiguous counsel reference requires cessation or clarification and whether the actual questioning complied. Davis seeks reversal for admission of statements; the United States seeks affirmance.
-
-Davis was convicted by general court-martial of unpremeditated murder under Article 118. His sentence included life confinement, dishonorable discharge, forfeiture of all pay and allowances, and reduction to E-1. The Navy-Marine Corps Court of Military Review affirmed September 16, 1991; the Court of Military Appeals affirmed March 11, 1993. The separate October 20 interview and physical-evidence issue is not reopened.
-
-On November 4, 1988, naval investigators gave oral and written Article 31 and counsel advice and obtained a valid written waiver. About ninety minutes into questioning, Davis said, “Maybe I should talk to a lawyer.” The credited account shows an actual interruption of offense questioning, neutral clarification and a voluntary disclaimer that he was asking for counsel. After questioning resumed and a later break, agents briefly reminded him of his rights; they did not repeat all warnings or obtain a new written waiver. Davis later clearly said that he wanted a lawyer before saying anything else, and the interview stopped. The military judge credited the agents over Davis's differing account; the Court makes no new credibility finding.
-
-Render form: full. Basis: the controlling mandatory-clarification rule has five votes, with partial joins and a four-Justice contrary rule requiring distinct treatment.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No Justice is recused.
-
-## Public Action
-
-The Court affirms the Court of Military Appeals, 9–0. A five-Justice majority requires neutral clarification of a reasonable possible present request for counsel after waiver; the actual clarification and final cessation satisfied that rule.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Admission of challenged November 4 statements on the postwaiver invocation theory and resulting military judgment | Affirm, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | No exclusion, new trial or remand on this theory; the military judgment remains in force. |
-
-The Court does not adjudicate the separate October 20 issue, invalidate the initial waiver, or decide a new §3501 alternative ground.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Souter | Stone-Zsela, Blackmun, Stevens and Ginsburg throughout; O'Connor, Scalia, Kennedy and Thomas in Parts II and III | Unanimous affirmance | I: mandatory neutral clarification after a reasonable possible present request; II: actual lawful clarification and admission; III: clear-request cessation rule |
-| Concurrence in part and in the judgment | O'Connor | Scalia, Kennedy and Thomas | Joins Parts II and III and affirmance; does not join Part I | Would require an objectively clear request to activate cessation and permit clarification without making it compulsory |
-
-## Holdings
-
-### I. A reasonable possible present request requires neutral clarification
-
-**Controlling proposition:** After a valid waiver, words that a reasonable officer would understand in context as possibly requesting counsel for the present interrogation require a pause in substantive questioning and limited, neutral clarification; a passing unrelated reference to a lawyer or speculation about an unexpressed wish does not. Officers may resume after a clarified voluntary choice to proceed, but must maintain the pause while a reasonable possible present request remains unresolved, and may not demand justification for counsel, promise benefits for continuing, discourage counsel, predict counsel's advice, or repeatedly pressure the suspect under the guise of clarification.
-
-**Authority:** Part I of Justice Souter's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices directly adopt the mandatory clarification rule, its trigger and its limits; O'Connor, Scalia, Kennedy and Thomas decline this part.
-
-**Controlling explanation:** The Court holds that a valid waiver does not permit officers to exploit expressed uncertainty about whether the suspect now wants counsel. Miranda protects an effective choice during custodial questioning, and Edwards makes a request for counsel consequential. Smith distinguishes genuine initial ambiguity from an already clear request that later answers cannot erase. Barrett requires attention to the choice actually communicated; McNeil requires an expression concerning assistance during custodial questioning, rather than an unrelated counsel interest. Those decisions leave this postwaiver ambiguity question open. The contrary clear-request-only rule offers simplicity, but both approaches require officers to assess words in context. A short neutral clarification protects the choice without treating every reference as an irrevocable invocation. It also respects the initial waiver by permitting resumption when the suspect voluntarily clarifies a wish to proceed. The Court adopts this additional safeguard as the rule resolving the presented ambiguity question, not as a conclusion that the investigators' compliance alone logically compels it. Prewaiver conduct and unrelated lawyer references remain outside this holding.
-
-**Precedent treatment:**
-
-- Miranda v. Arizona, 384 U.S. 436 (1966): develops its protection of an effective custodial counsel choice through the stated postwaiver clarification rule.
-- Edwards v. Arizona, 451 U.S. 477 (1981): preserves cessation upon actual invocation; clarification addresses the antecedent genuinely uncertain choice.
-- Smith v. Illinois, 469 U.S. 91 (1984): preserves its prohibition on using later answers to defeat an initially clear invocation and resolves the distinct ambiguity question it left open.
-- Connecticut v. Barrett, 479 U.S. 523 (1987): applies its attention to the scope of the suspect's communicated choice, without requiring legal terminology.
-- McNeil v. Wisconsin, 501 U.S. 171 (1991): preserves the need for an actual expression concerning custodial counsel and does not treat a different judicial-proceeding request as such an expression.
-
-### II. The actual clarification and ensuing statements were lawful
-
-**Controlling proposition:** Following Davis's valid initial waiver and genuinely uncertain first reference to counsel, the agents lawfully paused offense questioning, neutrally clarified that he was not requesting counsel, and resumed questioning; their later brief reminder did not supply a new full warning or new written waiver. Admission of the challenged November 4 statements therefore supplies no ground to reverse the military judgment on this invocation theory, without using later answers to defeat an initially clear request.
-
-**Authority:** Part II of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg. All nine directly join this actual-clarification application and affirmance; the four Justices who reject a duty accept the permissibility of the clarification actually used.
-
-**Controlling explanation:** The Court applies the military judge's credited account rather than resolving the competing testimony anew. Davis received oral and written advice and executed a valid initial waiver. His first statement, “Maybe I should talk to a lawyer,” expressed genuine uncertainty in its context. The investigators stopped offense questioning and asked whether he was requesting counsel, explaining that questioning would stop if he was. He voluntarily disclaimed a request. Barrett supports respecting the choice actually expressed, and Smith does not prohibit genuine clarification where no initially clear request has occurred. The later break brought a brief reminder of rights, not repetition of all warnings or a new written waiver. The Court does not depend on an invented second waiver. The argument for complete termination at the first remark would disregard the established distinction between uncertainty and a clear invocation. Because the actual exchange was limited and neutral, it satisfied the Court's clarification rule and also fell within the permissible questioning accepted by the concurring Justices.
-
-**Precedent treatment:**
-
-- Connecticut v. Barrett: applies respect for the scope of the actual communicated choice to the credited clarification and disclaimer.
-- Smith v. Illinois: distinguishes genuine clarification of uncertainty from impermissible later-answer erosion of a clear invocation.
-
-### III. A clear request requires cessation and cannot be undone by later answers
-
-**Controlling proposition:** A clear request for custodial counsel stops police-initiated substantive interrogation unless counsel is present or the suspect initiates further communication and validly waives the protection under the governing rules; no prescribed legal formula is required. An initially clear request cannot be rendered ambiguous by later answers elicited in violation of that protection, and Davis's later clear request was honored by ending the interview.
-
-**Authority:** Part III of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg. All nine directly join this preservation and application of the clear-invocation rule.
-
-**Controlling explanation:** The Court preserves the distinction between deciding whether a request was made and deciding whether questioning may continue after one. Edwards supplies the cessation rule and its narrow routes for further communication; an earlier waiver does not authorize police to disregard a later invocation. Smith prevents officers from manufacturing uncertainty by relying on answers obtained after an initially clear request. Neither principle requires a suspect to use technical language. The inquiry concerns what the words reasonably communicate in their actual setting. Davis's first remark was uncertain on the credited record, so neutral clarification was permissible. His later statement that he wanted a lawyer before saying anything else was a clear request, and the agents stopped. The Court therefore has no ensuing interrogation to exclude on that ground. This application does not decide a different case involving pressure after invocation, the validity of an unpresented later waiver, or Sixth Amendment attachment; it leaves those questions to their governing rules.
-
-**Precedent treatment:**
-
-- Edwards v. Arizona: applies and preserves cessation, counsel-presence and suspect-initiation/valid-waiver requirements.
-- Smith v. Illinois: applies and preserves the ban on undoing a clear initial invocation through later answers elicited in violation of counsel protection.
-
-### Scope and questions not reached
-
-The Court decides postwaiver invocation within the Miranda/Edwards framework accepted by the parties and applied through the military rules below. It does not independently resolve the Fifth Amendment's direct operation in military proceedings, Sixth Amendment attachment, prewaiver conduct, adequacy of the initial warnings, an invalid initial waiver, or the separate October 20 interview/physical-evidence dispute. The Government did not invoke 18 U.S.C. §3501 below or rely on it as its merits ground. The Court does not decide that statute's military applicability, construction or constitutionality, and it supplies no alternative ground for affirmance. Withrow's collateral-review and independent-coercion rules and Stansbury's objective custody inquiry remain distinct. The exact rule has five direct joins, and the actual application and clear-request protections have nine; no Marks aggregation is used.
-
-## Precedent Treatment
-
-The holding-specific treatments above govern. No precedent is overruled. Miranda's counsel protection is developed for genuine postwaiver ambiguity; Edwards and Smith retain their clear-request safeguards. Barrett and McNeil retain their distinct limits concerning communicated choice and the relevant counsel interest. Withrow remains the rule for Miranda habeas review and fair litigation of independent coercion claims; Stansbury remains the objective custody rule. Neither resolves this distinct invocation issue by itself.
-
-## Law After Decision
-
-Effective June 24, 1994, a valid initial waiver does not permit continued substantive questioning through words reasonably understood as a possible present request for counsel. Officers must pause and clarify neutrally, maintaining the pause while that reasonable uncertainty remains. A clarified voluntary choice to proceed permits resumption, while a clear request invokes Edwards. Unrelated lawyer references and unexpressed wishes do not trigger the new duty. No prescribed legal phrasing is required.
-
-The military framework is accepted as applied below and by the parties. Direct Fifth Amendment operation in the military, Sixth Amendment attachment, prewaiver conduct and the unpressed §3501 theory remain undecided. The four-Justice optional-clarification position is noncontrolling. Actual lawful clarification and honoring a clear final request independently support the unanimous affirmance.
-
-## Separate Writings
-
-Justice O'Connor, joined by Justices Scalia, Kennedy and Thomas, joins the actual-clarification application and clear-request protections but rejects a mandatory pause for an uncertain reference. Following a knowing and voluntary waiver, these Justices would require words clear enough that a reasonable officer would understand counsel to be requested. Their rule demands no legal terminology or prescribed formula. McNeil requires communication of the particular custodial-counsel interest, and Edwards's cessation protection follows invocation rather than a possible undisclosed wish. The initial waiver remains significant until the suspect objectively communicates a changed choice. Limited clarification is often sensible and is lawful here, but its practical value does not itself establish a legal duty. These Justices accept Smith's prohibition on using later answers to undo a clear request and do not approve coercive persuasion disguised as clarification. They accept the credited first ambiguity, the actual neutral exchange and voluntary disclaimer, and cessation upon the final clear request. They do not rely on a new waiver, decide prewaiver conduct, or adopt the unpressed §3501 theory. Their no-duty rule has four votes; Part I's mandatory rule controls.
-
-## Procedure After Action
-
-Supreme Court merits review is complete. The Court of Military Appeals judgment stands; no statements are excluded and no new trial or further merits proceedings are ordered on the invocation theory. No precise mandate-issuance date is stated.
-
-## Source Notes
-
-The [Court of Military Appeals opinion, 36 M.J. 337](https://static.case.law/mj/36/html/0337-01.html), supplies the credited exchange, disputed testimony, valid initial waiver, later brief reminder, sentence and lower clarification rule. The [official report, 512 U.S. 452](https://www.govinfo.gov/content/pkg/USREPORTS-512/pdf/USREPORTS-512-452.pdf), supplies the docket, argument date and review posture. Both support the quoted first remark. The entire underlying record and every brief were not independently available; no unreported finding or verbatim grant wording is asserted. Section 3501 was not the Government's ground, and the military framework was accepted rather than independently reexamined.
-
----
-
 <!-- source-record: Dolan_v_City_of_Tigard_merits_1994-06-24.md -->
 ## Event
 
@@ -989,6 +883,105 @@ The case returns to Oregon for proceedings consistent with the Court's opinion o
 ## Source Notes
 
 The [Oregon Supreme Court opinion, 317 Ore. 110](https://static.case.law/or/317/html/0110-01.html), supplies the permit, code, findings, variance and lower-court posture. The [United States Reports case report, 512 U.S. 374](https://www.govinfo.gov/content/pkg/USREPORTS-512/pdf/USREPORTS-512-374.pdf), supplies docket, argument and record details, including the distinct greenway and pathway demands. The question is stated in substance from that record; it is not represented as a verbatim petition quotation. The [official Nollan report](https://www.govinfo.gov/content/pkg/USREPORTS-483/pdf/USREPORTS-483-825.pdf) supplies the earlier essential-nexus authority. No unverified concession, alternative proposal or completed conveyance is assumed.
+
+---
+
+<!-- source-record: Honda_Motor_Co_v_Oberg_merits_1994-06-24.md -->
+## Event
+
+Honda Motor Co., Ltd. v. Oberg, No. 93-644; 512 U.S. 415. Argued April 20, 1994; decided June 24, 1994. October Term 1993. On writ of certiorari to the Oregon Supreme Court, 316 Ore. 263, 851 P.2d 1084 (1993), which sustained the judgment after the Oregon Court of Appeals. The question is whether Oregon's prohibition on judicial review of punitive amount, apart from its retained legal-error and no-evidence review, satisfies procedural due process.
+
+Oberg was severely injured when a three-wheeled all-terrain vehicle overturned. The jury assessed $919,390.39 in compensation and $5 million in punitive damages, with 20 percent comparative fault; compensation was reduced to $735,512.31. The present issue concerns review of the punitive amount, not the compensatory calculation or a constitutional dollar ceiling.
+
+Oregon's Article VII (Amended), §3 bars reexamination of jury-tried facts unless the court can affirmatively say there is no evidence supporting the verdict. The provision preserves jury trial in actions at law exceeding $200 under the text governing this action. As construed by the state courts, it leaves correction of legal and instructional error and unsupported punitive entitlement, but does not authorize reducing an award merely because its amount is excessive.
+
+ORS §30.925 requires clear and convincing evidence of wanton disregard for others' health, safety and welfare and permits wealth evidence only after a prima facie showing of punitive entitlement. Its seven criteria concern likelihood of serious harm, awareness, profitability, duration and concealment, attitude after discovery, financial condition, and total deterrent effect of other punishment, including punitive awards to similarly situated persons and criminal penalties imposed or potentially applicable. The jury actually received five: likelihood, awareness, duration, attitude and financial condition. Honda objected to profitability as phrased because it assumed misconduct and waived the other-punishment instruction on the represented absence of prior punishment. Punitive damages were optional, and the $5 million limit was the amount pleaded in the complaint, not a statutory maximum. ORS §41.315 separately supplies a clear-and-convincing requirement unless another law specifically provides otherwise, and a prima-facie wealth-evidence limitation.
+
+Render form: full. Basis: the controlling coalition and separate remedial position require a full authority account.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Oregon Supreme Court's judgment sustaining the punitive award without adequate judicial amount review is reversed, and the case is remanded, 8–1.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Judgment sustaining the punitive award without adequate amount review | Reverse and remand, 8–1 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Ginsburg | Meaningful judicial examination of the amount and lawful correction, with further proceedings consistent with the opinion |
+
+The Court decides no separate substantive-excessiveness component. The compensatory judgment and entitlement to some punitive damages are not undone by the procedural ruling. The Court selects no substitute sum and orders no automatic new punitive trial. Chief Justice Stone-Zsela's concurrence would require a new punitive determination only if adequate review cannot provide lawful correction.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Blackmun | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Reversal and remand | Entire opinion: lost safeguard, inadequacy of actual substitutes and bounded review remedy |
+| Concurrence | Stone-Zsela | No other Justice | Joins the Court's opinion and judgment | Effective examination/correction and a new punitive determination only when adequate review cannot lawfully correct |
+| Concurrence | Scalia | No other Justice | Joins the Court's opinion and judgment | Traditional procedure enforcing state-law reasonableness limits, without a federal substantive numerical right |
+| Dissent | Ginsburg | No other Justice | Would affirm against the procedural challenge | Combined actual safeguards and procedural experimentation; federal substantive claim reserved |
+
+Eight Justices join each controlling portion. The two concurrences do not narrow the other Justices' full joins or create a fractured Court opinion; neither separate ground becomes an additional majority holding.
+
+## Holdings
+
+### Removing amount review without adequate replacement violates due process
+
+**Controlling proposition:** Oregon may alter historical procedures, but it may not remove the traditional judicial safeguard against an arbitrary punitive-damages amount without an adequate substitute. Where the existing process leaves the amount without that protection, due process requires a meaningful opportunity for judicial examination and lawful correction of the amount; review confined to whether any evidence supports punitive entitlement does not perform that function.
+
+**Authority:** Justice Blackmun's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt this bounded procedural rule, without a substantive numerical rule.
+
+**Controlling explanation:** The Court holds that Oregon has removed an important protection against arbitrary punishment without adequately replacing its function. Haslip relied on instructions and meaningful judicial scrutiny; TXO sustained the actual combination of jury proceedings and judicial review there without establishing a universal checklist or substantive formula. The history of judicial control over excessive verdicts identifies the safeguard at issue, rather than making every historical motion constitutionally permanent. Hurtado permits procedural development when adequate protection remains. The State therefore correctly argues that different arrangements can satisfy due process, but difference alone does not establish adequacy. A court's power to determine whether punitive liability has any evidentiary support does not permit it to examine an arbitrary amount imposed upon a culpable defendant. That remaining gap distinguishes this case from a disagreement over the form or detail of actual review. The Court does not prescribe the precise constitutional review standard, require multiple appellate tiers or independent appellate reweighing, or decide whether this award is substantively excessive.
+
+**Precedent treatment:**
+
+- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: applied for the function of actual instructions and judicial review; no requirement to reproduce every Alabama procedure follows.
+- TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443: distinguished from a legal prohibition on amount review; its record-specific procedural sufficiency remains controlling, and its fractured substantive grounds supply no numerical or potential-harm formula.
+- Hurtado v. California, 110 U.S. 516: applied to permit procedural innovation with adequate protection; it does not validate elimination of a safeguard without adequate replacement.
+
+### Oregon's actual safeguards do not cure the amount-review gap
+
+**Controlling proposition:** The instructions actually given, clear-and-convincing proof of punitive entitlement, prima-facie gate for wealth evidence, discretionary award, complaint-based ceiling and retained legal-error and no-evidence review, considered together, do not adequately replace judicial examination of the punitive amount. The judgment sustaining the $5 million punitive award is therefore reversed and remanded for constitutionally adequate review and further proceedings, without deciding that the sum is excessive, fixing a substitute, eliminating punitive entitlement or reopening compensation.
+
+**Authority:** Justice Blackmun's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt the application and limited review remedy.
+
+**Controlling explanation:** The Court holds that these protections reduce risk but leave the decisive amount inquiry unavailable. Five instructed considerations directed the jury to serious harm, awareness, duration, response after notice and financial condition. The heightened proof requirement addressed entitlement; the wealth gate controlled evidence; the optional award and pleaded ceiling bounded the jury's choice without independently testing the selected sum. Legal-error review can correct improper instructions, and no-evidence review can reject unsupported punitive liability. Neither permits correction merely because an otherwise authorized award is excessive. Haslip demonstrates the value of meaningful scrutiny after jury selection of an amount, while TXO prevents confusing the absence of a separate written explanation with the absence of review itself. The strongest contrary argument treats Oregon's stronger trial safeguards as an adequate combined substitute. Their actual operation, however, still leaves an arbitrary amount beyond judicial correction once entitlement exists. The Court returns the punitive award for adequate review while leaving its ultimate amount and the precise review standard open.
+
+**Precedent treatment:**
+
+- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: applied to assess the function of safeguards together; Oregon's trial improvements do not by themselves replace the missing amount inquiry.
+- TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443: followed as to the difference between real review without a separate written trial explanation and a bar to review; its procedural holding is not converted into a substantive ceiling.
+
+### Limits and questions not reached
+
+The Court does not determine whether $5 million is itself excessive, a permissible ratio or maximum award, the precise constitutional standard of review, a federal checklist, a universal right to repeated appellate review, a mandatory written opinion, or a compulsory remittitur procedure. It does not disturb the compensatory judgment or decide a new challenge to punitive entitlement. Review and lawful correction are the remedy; no new punitive trial is automatically ordered. Corporate status does not remove the defendant's procedural protection. Chief Justice Stone-Zsela's additional conditional direction concerning a new punitive determination is stated in his concurrence and is not an additional Court holding. Eight Justices join the same procedural opinion, so no Marks aggregation is needed.
+
+## Precedent Treatment
+
+Haslip's safeguards remain effective authority, with no requirement that States copy every Alabama feature. TXO continues to establish only its independently majority-supported, record-specific procedural sufficiency: an instructed jury followed by actual trial and state supreme court review was adequate there, notwithstanding the absence of a separate written trial explanation. No potential-harm formula, ratio, instruction-waiver rule or replacement substantive-excessiveness test is derived from its divided reasoning. Hurtado permits procedural change with adequate protection and does not excuse the unreplaced loss established here. No precedent is overruled.
+
+## Law After Decision
+
+Effective June 24, 1994, Oregon's denial of judicial examination of punitive amount fails procedural due process because the actual substitute protections do not perform the omitted safeguard's function. A culpability finding does not insulate every punitive amount from review. States retain room to design adequate procedures; the exact standard of review and substantive validity of the award remain open. The decision extends the procedural protection established by Haslip and the limited procedural proposition in TXO without creating a ratio or substantive punitive-damages formula. The concurrences' distinct explanations and Ginsburg's whole-process position remain noncontrolling.
+
+## Separate Writings
+
+Chief Justice Stone-Zsela concurs, joining the Court's opinion. Adequate review must permit examination of the record, the governing punitive standards and whether the amount is arbitrary or excessive, with authority to correct an unsupported award. He accepts Oregon's argument that stronger trial safeguards may sometimes provide an adequate substitute, but concludes that the actual system leaves the amount inquiry unavailable. Entitlement and the no-evidence rule answer a different question. He would order a new punitive determination only if adequate review cannot provide lawful correction, without making a retrial automatic, selecting a substitute sum, declaring $5 million excessive or disturbing compensation. His position requires no federal checklist or additional appellate tier and applies equally to a corporate defendant.
+
+Justice Scalia concurs, joining the Court's opinion. The defect concerns a traditional procedure for enforcing state-prescribed limits on deprivation of property. Oregon's 1910 amendment removed judicial review for excessiveness while leaving state-law limits requiring a reasonable punitive award. Instructions followed by judicial review traditionally enforced those limits; removing that review without an adequate functional substitute creates the procedural defect. He does not recognize a federal substantive right to a particular punitive sum or a numerical ceiling. His agreement with reversal therefore preserves the distinction between the fairness of the adjudicative process and the constitutional correctness of a dollar amount. No other Justice joins this separate explanation.
+
+Justice Ginsburg dissents. She would affirm against this procedural challenge because the entire Oregon process adequately constrains punitive choice. The clear-and-convincing entitlement burden, gate on wealth evidence, five actual amount-directed instructions, optional award, complaint ceiling and retained correction of legal and instructional errors or unsupported entitlement must be assessed together. Haslip and TXO did not require every State to reproduce their postverdict procedures. The strongest objection is that entitlement does not validate every amount, but the instructed criteria guide the choice of amount itself, and jurors are ordinarily presumed to follow adequate directions. She accepts that Oregon lacks ordinary excessiveness review and does not rely on an established routine power to impose a lower pre-verdict cap. She reserves a properly presented federal gross-excessiveness claim and a future state refusal to hear it; her dissent does not hold the $5 million substantively valid or endorse a ratio.
+
+## Procedure After Action
+
+The case returns for constitutionally adequate judicial examination of the punitive amount, lawful correction and further proceedings consistent with the opinion. The award is not held substantively excessive, and no substitute amount or automatic punitive retrial is directed. The compensatory judgment and punitive entitlement remain undisturbed. Chief Justice Stone-Zsela's separate conditional remedy would require a new punitive determination only if adequate review cannot provide lawful correction.
+
+## Source Notes
+
+The [Oregon Supreme Court opinion, 316 Ore. 263](https://static.case.law/or/316/html/0263-01.html), supplies the state constitutional construction, statutory safeguards, award and preserved procedural claim. The [United States Reports case report, 512 U.S. 415](https://www.govinfo.gov/content/pkg/USREPORTS-512/pdf/USREPORTS-512-415.pdf), supplies docket, argument, record, instructions and the distinction between the seven statutory criteria and five actually instructed. The [official Haslip report](https://www.govinfo.gov/content/pkg/USREPORTS-499/pdf/USREPORTS-499-1.pdf) supplies the earlier procedural authority. The review question is stated in substance rather than quoted as authenticated petition wording. No additional review power or federal claim decided below is inferred from a suggestion about a possible future case.
 
 ---
 
@@ -1113,102 +1106,109 @@ The [official report, 512 U.S. 477](https://www.govinfo.gov/content/pkg/USREPORT
 
 ---
 
-<!-- source-record: Honda_Motor_Co_v_Oberg_merits_1994-06-24.md -->
+<!-- source-record: Davis_v_United_States_merits_1994-06-24.md -->
 ## Event
 
-Honda Motor Co., Ltd. v. Oberg, No. 93-644; 512 U.S. 415. Argued April 20, 1994; decided June 24, 1994. October Term 1993. On writ of certiorari to the Oregon Supreme Court, 316 Ore. 263, 851 P.2d 1084 (1993), which sustained the judgment after the Oregon Court of Appeals. The question is whether Oregon's prohibition on judicial review of punitive amount, apart from its retained legal-error and no-evidence review, satisfies procedural due process.
+Davis v. United States, No. 92-1949, 512 U.S. 452. Argued March 29, 1994; decided June 24, 1994 (1994-06-24). On writ of certiorari to the United States Court of Military Appeals, 36 M.J. 337, affirming the military conviction. The question is whether, following a valid waiver, an ambiguous counsel reference requires cessation or clarification and whether the actual questioning complied. Davis seeks reversal for admission of statements; the United States seeks affirmance.
 
-Oberg was severely injured when a three-wheeled all-terrain vehicle overturned. The jury assessed $919,390.39 in compensation and $5 million in punitive damages, with 20 percent comparative fault; compensation was reduced to $735,512.31. The present issue concerns review of the punitive amount, not the compensatory calculation or a constitutional dollar ceiling.
+Davis was convicted by general court-martial of unpremeditated murder under Article 118. His sentence included life confinement, dishonorable discharge, forfeiture of all pay and allowances, and reduction to E-1. The Navy-Marine Corps Court of Military Review affirmed September 16, 1991; the Court of Military Appeals affirmed March 11, 1993. The separate October 20 interview and physical-evidence issue is not reopened.
 
-Oregon's Article VII (Amended), §3 bars reexamination of jury-tried facts unless the court can affirmatively say there is no evidence supporting the verdict. The provision preserves jury trial in actions at law exceeding $200 under the text governing this action. As construed by the state courts, it leaves correction of legal and instructional error and unsupported punitive entitlement, but does not authorize reducing an award merely because its amount is excessive.
+On November 4, 1988, naval investigators gave oral and written Article 31 and counsel advice and obtained a valid written waiver. About ninety minutes into questioning, Davis said, “Maybe I should talk to a lawyer.” The credited account shows an actual interruption of offense questioning, neutral clarification and a voluntary disclaimer that he was asking for counsel. After questioning resumed and a later break, agents briefly reminded him of his rights; they did not repeat all warnings or obtain a new written waiver. Davis later clearly said that he wanted a lawyer before saying anything else, and the interview stopped. The military judge credited the agents over Davis's differing account; the Court makes no new credibility finding.
 
-ORS §30.925 requires clear and convincing evidence of wanton disregard for others' health, safety and welfare and permits wealth evidence only after a prima facie showing of punitive entitlement. Its seven criteria concern likelihood of serious harm, awareness, profitability, duration and concealment, attitude after discovery, financial condition, and total deterrent effect of other punishment, including punitive awards to similarly situated persons and criminal penalties imposed or potentially applicable. The jury actually received five: likelihood, awareness, duration, attitude and financial condition. Honda objected to profitability as phrased because it assumed misconduct and waived the other-punishment instruction on the represented absence of prior punishment. Punitive damages were optional, and the $5 million limit was the amount pleaded in the complaint, not a statutory maximum. ORS §41.315 separately supplies a clear-and-convincing requirement unless another law specifically provides otherwise, and a prima-facie wealth-evidence limitation.
-
-Render form: full. Basis: the controlling coalition and separate remedial position require a full authority account.
+Render form: full. Basis: the controlling mandatory-clarification rule has five votes, with partial joins and a four-Justice contrary rule requiring distinct treatment.
 
 ## Participation
 
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No Justice is recused or otherwise nonparticipating.
+Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No Justice is recused.
 
 ## Public Action
 
-The Oregon Supreme Court's judgment sustaining the punitive award without adequate judicial amount review is reversed, and the case is remanded, 8–1.
+The Court affirms the Court of Military Appeals, 9–0. A five-Justice majority requires neutral clarification of a reasonable possible present request for counsel after waiver; the actual clarification and final cessation satisfied that rule.
 
 ## Judgment & Remedy
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Judgment sustaining the punitive award without adequate amount review | Reverse and remand, 8–1 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Ginsburg | Meaningful judicial examination of the amount and lawful correction, with further proceedings consistent with the opinion |
+| Admission of challenged November 4 statements on the postwaiver invocation theory and resulting military judgment | Affirm, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | No exclusion, new trial or remand on this theory; the military judgment remains in force. |
 
-The Court decides no separate substantive-excessiveness component. The compensatory judgment and entitlement to some punitive damages are not undone by the procedural ruling. The Court selects no substitute sum and orders no automatic new punitive trial. Chief Justice Stone-Zsela's concurrence would require a new punitive determination only if adequate review cannot provide lawful correction.
+The Court does not adjudicate the separate October 20 issue, invalidate the initial waiver, or decide a new §3501 alternative ground.
 
 ## Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Blackmun | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Reversal and remand | Entire opinion: lost safeguard, inadequacy of actual substitutes and bounded review remedy |
-| Concurrence | Stone-Zsela | No other Justice | Joins the Court's opinion and judgment | Effective examination/correction and a new punitive determination only when adequate review cannot lawfully correct |
-| Concurrence | Scalia | No other Justice | Joins the Court's opinion and judgment | Traditional procedure enforcing state-law reasonableness limits, without a federal substantive numerical right |
-| Dissent | Ginsburg | No other Justice | Would affirm against the procedural challenge | Combined actual safeguards and procedural experimentation; federal substantive claim reserved |
-
-Eight Justices join each controlling portion. The two concurrences do not narrow the other Justices' full joins or create a fractured Court opinion; neither separate ground becomes an additional majority holding.
+| Opinion of the Court | Souter | Stone-Zsela, Blackmun, Stevens and Ginsburg throughout; O'Connor, Scalia, Kennedy and Thomas in Parts II and III | Unanimous affirmance | I: mandatory neutral clarification after a reasonable possible present request; II: actual lawful clarification and admission; III: clear-request cessation rule |
+| Concurrence in part and in the judgment | O'Connor | Scalia, Kennedy and Thomas | Joins Parts II and III and affirmance; does not join Part I | Would require an objectively clear request to activate cessation and permit clarification without making it compulsory |
 
 ## Holdings
 
-### Removing amount review without adequate replacement violates due process
+### I. A reasonable possible present request requires neutral clarification
 
-**Controlling proposition:** Oregon may alter historical procedures, but it may not remove the traditional judicial safeguard against an arbitrary punitive-damages amount without an adequate substitute. Where the existing process leaves the amount without that protection, due process requires a meaningful opportunity for judicial examination and lawful correction of the amount; review confined to whether any evidence supports punitive entitlement does not perform that function.
+**Controlling proposition:** After a valid waiver, words that a reasonable officer would understand in context as possibly requesting counsel for the present interrogation require a pause in substantive questioning and limited, neutral clarification; a passing unrelated reference to a lawyer or speculation about an unexpressed wish does not. Officers may resume after a clarified voluntary choice to proceed, but must maintain the pause while a reasonable possible present request remains unresolved, and may not demand justification for counsel, promise benefits for continuing, discourage counsel, predict counsel's advice, or repeatedly pressure the suspect under the guise of clarification.
 
-**Authority:** Justice Blackmun's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt this bounded procedural rule, without a substantive numerical rule.
+**Authority:** Part I of Justice Souter's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices directly adopt the mandatory clarification rule, its trigger and its limits; O'Connor, Scalia, Kennedy and Thomas decline this part.
 
-**Controlling explanation:** The Court holds that Oregon has removed an important protection against arbitrary punishment without adequately replacing its function. Haslip relied on instructions and meaningful judicial scrutiny; TXO sustained the actual combination of jury proceedings and judicial review there without establishing a universal checklist or substantive formula. The history of judicial control over excessive verdicts identifies the safeguard at issue, rather than making every historical motion constitutionally permanent. Hurtado permits procedural development when adequate protection remains. The State therefore correctly argues that different arrangements can satisfy due process, but difference alone does not establish adequacy. A court's power to determine whether punitive liability has any evidentiary support does not permit it to examine an arbitrary amount imposed upon a culpable defendant. That remaining gap distinguishes this case from a disagreement over the form or detail of actual review. The Court does not prescribe the precise constitutional review standard, require multiple appellate tiers or independent appellate reweighing, or decide whether this award is substantively excessive.
-
-**Precedent treatment:**
-
-- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: applied for the function of actual instructions and judicial review; no requirement to reproduce every Alabama procedure follows.
-- TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443: distinguished from a legal prohibition on amount review; its record-specific procedural sufficiency remains controlling, and its fractured substantive grounds supply no numerical or potential-harm formula.
-- Hurtado v. California, 110 U.S. 516: applied to permit procedural innovation with adequate protection; it does not validate elimination of a safeguard without adequate replacement.
-
-### Oregon's actual safeguards do not cure the amount-review gap
-
-**Controlling proposition:** The instructions actually given, clear-and-convincing proof of punitive entitlement, prima-facie gate for wealth evidence, discretionary award, complaint-based ceiling and retained legal-error and no-evidence review, considered together, do not adequately replace judicial examination of the punitive amount. The judgment sustaining the $5 million punitive award is therefore reversed and remanded for constitutionally adequate review and further proceedings, without deciding that the sum is excessive, fixing a substitute, eliminating punitive entitlement or reopening compensation.
-
-**Authority:** Justice Blackmun's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt the application and limited review remedy.
-
-**Controlling explanation:** The Court holds that these protections reduce risk but leave the decisive amount inquiry unavailable. Five instructed considerations directed the jury to serious harm, awareness, duration, response after notice and financial condition. The heightened proof requirement addressed entitlement; the wealth gate controlled evidence; the optional award and pleaded ceiling bounded the jury's choice without independently testing the selected sum. Legal-error review can correct improper instructions, and no-evidence review can reject unsupported punitive liability. Neither permits correction merely because an otherwise authorized award is excessive. Haslip demonstrates the value of meaningful scrutiny after jury selection of an amount, while TXO prevents confusing the absence of a separate written explanation with the absence of review itself. The strongest contrary argument treats Oregon's stronger trial safeguards as an adequate combined substitute. Their actual operation, however, still leaves an arbitrary amount beyond judicial correction once entitlement exists. The Court returns the punitive award for adequate review while leaving its ultimate amount and the precise review standard open.
+**Controlling explanation:** The Court holds that a valid waiver does not permit officers to exploit expressed uncertainty about whether the suspect now wants counsel. Miranda protects an effective choice during custodial questioning, and Edwards makes a request for counsel consequential. Smith distinguishes genuine initial ambiguity from an already clear request that later answers cannot erase. Barrett requires attention to the choice actually communicated; McNeil requires an expression concerning assistance during custodial questioning, rather than an unrelated counsel interest. Those decisions leave this postwaiver ambiguity question open. The contrary clear-request-only rule offers simplicity, but both approaches require officers to assess words in context. A short neutral clarification protects the choice without treating every reference as an irrevocable invocation. It also respects the initial waiver by permitting resumption when the suspect voluntarily clarifies a wish to proceed. The Court adopts this additional safeguard as the rule resolving the presented ambiguity question, not as a conclusion that the investigators' compliance alone logically compels it. Prewaiver conduct and unrelated lawyer references remain outside this holding.
 
 **Precedent treatment:**
 
-- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: applied to assess the function of safeguards together; Oregon's trial improvements do not by themselves replace the missing amount inquiry.
-- TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443: followed as to the difference between real review without a separate written trial explanation and a bar to review; its procedural holding is not converted into a substantive ceiling.
+- Miranda v. Arizona, 384 U.S. 436 (1966): develops its protection of an effective custodial counsel choice through the stated postwaiver clarification rule.
+- Edwards v. Arizona, 451 U.S. 477 (1981): preserves cessation upon actual invocation; clarification addresses the antecedent genuinely uncertain choice.
+- Smith v. Illinois, 469 U.S. 91 (1984): preserves its prohibition on using later answers to defeat an initially clear invocation and resolves the distinct ambiguity question it left open.
+- Connecticut v. Barrett, 479 U.S. 523 (1987): applies its attention to the scope of the suspect's communicated choice, without requiring legal terminology.
+- McNeil v. Wisconsin, 501 U.S. 171 (1991): preserves the need for an actual expression concerning custodial counsel and does not treat a different judicial-proceeding request as such an expression.
 
-### Limits and questions not reached
+### II. The actual clarification and ensuing statements were lawful
 
-The Court does not determine whether $5 million is itself excessive, a permissible ratio or maximum award, the precise constitutional standard of review, a federal checklist, a universal right to repeated appellate review, a mandatory written opinion, or a compulsory remittitur procedure. It does not disturb the compensatory judgment or decide a new challenge to punitive entitlement. Review and lawful correction are the remedy; no new punitive trial is automatically ordered. Corporate status does not remove the defendant's procedural protection. Chief Justice Stone-Zsela's additional conditional direction concerning a new punitive determination is stated in his concurrence and is not an additional Court holding. Eight Justices join the same procedural opinion, so no Marks aggregation is needed.
+**Controlling proposition:** Following Davis's valid initial waiver and genuinely uncertain first reference to counsel, the agents lawfully paused offense questioning, neutrally clarified that he was not requesting counsel, and resumed questioning; their later brief reminder did not supply a new full warning or new written waiver. Admission of the challenged November 4 statements therefore supplies no ground to reverse the military judgment on this invocation theory, without using later answers to defeat an initially clear request.
+
+**Authority:** Part II of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg. All nine directly join this actual-clarification application and affirmance; the four Justices who reject a duty accept the permissibility of the clarification actually used.
+
+**Controlling explanation:** The Court applies the military judge's credited account rather than resolving the competing testimony anew. Davis received oral and written advice and executed a valid initial waiver. His first statement, “Maybe I should talk to a lawyer,” expressed genuine uncertainty in its context. The investigators stopped offense questioning and asked whether he was requesting counsel, explaining that questioning would stop if he was. He voluntarily disclaimed a request. Barrett supports respecting the choice actually expressed, and Smith does not prohibit genuine clarification where no initially clear request has occurred. The later break brought a brief reminder of rights, not repetition of all warnings or a new written waiver. The Court does not depend on an invented second waiver. The argument for complete termination at the first remark would disregard the established distinction between uncertainty and a clear invocation. Because the actual exchange was limited and neutral, it satisfied the Court's clarification rule and also fell within the permissible questioning accepted by the concurring Justices.
+
+**Precedent treatment:**
+
+- Connecticut v. Barrett: applies respect for the scope of the actual communicated choice to the credited clarification and disclaimer.
+- Smith v. Illinois: distinguishes genuine clarification of uncertainty from impermissible later-answer erosion of a clear invocation.
+
+### III. A clear request requires cessation and cannot be undone by later answers
+
+**Controlling proposition:** A clear request for custodial counsel stops police-initiated substantive interrogation unless counsel is present or the suspect initiates further communication and validly waives the protection under the governing rules; no prescribed legal formula is required. An initially clear request cannot be rendered ambiguous by later answers elicited in violation of that protection, and Davis's later clear request was honored by ending the interview.
+
+**Authority:** Part III of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg. All nine directly join this preservation and application of the clear-invocation rule.
+
+**Controlling explanation:** The Court preserves the distinction between deciding whether a request was made and deciding whether questioning may continue after one. Edwards supplies the cessation rule and its narrow routes for further communication; an earlier waiver does not authorize police to disregard a later invocation. Smith prevents officers from manufacturing uncertainty by relying on answers obtained after an initially clear request. Neither principle requires a suspect to use technical language. The inquiry concerns what the words reasonably communicate in their actual setting. Davis's first remark was uncertain on the credited record, so neutral clarification was permissible. His later statement that he wanted a lawyer before saying anything else was a clear request, and the agents stopped. The Court therefore has no ensuing interrogation to exclude on that ground. This application does not decide a different case involving pressure after invocation, the validity of an unpresented later waiver, or Sixth Amendment attachment; it leaves those questions to their governing rules.
+
+**Precedent treatment:**
+
+- Edwards v. Arizona: applies and preserves cessation, counsel-presence and suspect-initiation/valid-waiver requirements.
+- Smith v. Illinois: applies and preserves the ban on undoing a clear initial invocation through later answers elicited in violation of counsel protection.
+
+### Scope and questions not reached
+
+The Court decides postwaiver invocation within the Miranda/Edwards framework accepted by the parties and applied through the military rules below. It does not independently resolve the Fifth Amendment's direct operation in military proceedings, Sixth Amendment attachment, prewaiver conduct, adequacy of the initial warnings, an invalid initial waiver, or the separate October 20 interview/physical-evidence dispute. The Government did not invoke 18 U.S.C. §3501 below or rely on it as its merits ground. The Court does not decide that statute's military applicability, construction or constitutionality, and it supplies no alternative ground for affirmance. Withrow's collateral-review and independent-coercion rules and Stansbury's objective custody inquiry remain distinct. The exact rule has five direct joins, and the actual application and clear-request protections have nine; no Marks aggregation is used.
 
 ## Precedent Treatment
 
-Haslip's safeguards remain effective authority, with no requirement that States copy every Alabama feature. TXO continues to establish only its independently majority-supported, record-specific procedural sufficiency: an instructed jury followed by actual trial and state supreme court review was adequate there, notwithstanding the absence of a separate written trial explanation. No potential-harm formula, ratio, instruction-waiver rule or replacement substantive-excessiveness test is derived from its divided reasoning. Hurtado permits procedural change with adequate protection and does not excuse the unreplaced loss established here. No precedent is overruled.
+The holding-specific treatments above govern. No precedent is overruled. Miranda's counsel protection is developed for genuine postwaiver ambiguity; Edwards and Smith retain their clear-request safeguards. Barrett and McNeil retain their distinct limits concerning communicated choice and the relevant counsel interest. Withrow remains the rule for Miranda habeas review and fair litigation of independent coercion claims; Stansbury remains the objective custody rule. Neither resolves this distinct invocation issue by itself.
 
 ## Law After Decision
 
-Effective June 24, 1994, Oregon's denial of judicial examination of punitive amount fails procedural due process because the actual substitute protections do not perform the omitted safeguard's function. A culpability finding does not insulate every punitive amount from review. States retain room to design adequate procedures; the exact standard of review and substantive validity of the award remain open. The decision extends the procedural protection established by Haslip and the limited procedural proposition in TXO without creating a ratio or substantive punitive-damages formula. The concurrences' distinct explanations and Ginsburg's whole-process position remain noncontrolling.
+Effective June 24, 1994, a valid initial waiver does not permit continued substantive questioning through words reasonably understood as a possible present request for counsel. Officers must pause and clarify neutrally, maintaining the pause while that reasonable uncertainty remains. A clarified voluntary choice to proceed permits resumption, while a clear request invokes Edwards. Unrelated lawyer references and unexpressed wishes do not trigger the new duty. No prescribed legal phrasing is required.
+
+The military framework is accepted as applied below and by the parties. Direct Fifth Amendment operation in the military, Sixth Amendment attachment, prewaiver conduct and the unpressed §3501 theory remain undecided. The four-Justice optional-clarification position is noncontrolling. Actual lawful clarification and honoring a clear final request independently support the unanimous affirmance.
 
 ## Separate Writings
 
-Chief Justice Stone-Zsela concurs, joining the Court's opinion. Adequate review must permit examination of the record, the governing punitive standards and whether the amount is arbitrary or excessive, with authority to correct an unsupported award. He accepts Oregon's argument that stronger trial safeguards may sometimes provide an adequate substitute, but concludes that the actual system leaves the amount inquiry unavailable. Entitlement and the no-evidence rule answer a different question. He would order a new punitive determination only if adequate review cannot provide lawful correction, without making a retrial automatic, selecting a substitute sum, declaring $5 million excessive or disturbing compensation. His position requires no federal checklist or additional appellate tier and applies equally to a corporate defendant.
-
-Justice Scalia concurs, joining the Court's opinion. The defect concerns a traditional procedure for enforcing state-prescribed limits on deprivation of property. Oregon's 1910 amendment removed judicial review for excessiveness while leaving state-law limits requiring a reasonable punitive award. Instructions followed by judicial review traditionally enforced those limits; removing that review without an adequate functional substitute creates the procedural defect. He does not recognize a federal substantive right to a particular punitive sum or a numerical ceiling. His agreement with reversal therefore preserves the distinction between the fairness of the adjudicative process and the constitutional correctness of a dollar amount. No other Justice joins this separate explanation.
-
-Justice Ginsburg dissents. She would affirm against this procedural challenge because the entire Oregon process adequately constrains punitive choice. The clear-and-convincing entitlement burden, gate on wealth evidence, five actual amount-directed instructions, optional award, complaint ceiling and retained correction of legal and instructional errors or unsupported entitlement must be assessed together. Haslip and TXO did not require every State to reproduce their postverdict procedures. The strongest objection is that entitlement does not validate every amount, but the instructed criteria guide the choice of amount itself, and jurors are ordinarily presumed to follow adequate directions. She accepts that Oregon lacks ordinary excessiveness review and does not rely on an established routine power to impose a lower pre-verdict cap. She reserves a properly presented federal gross-excessiveness claim and a future state refusal to hear it; her dissent does not hold the $5 million substantively valid or endorse a ratio.
+Justice O'Connor, joined by Justices Scalia, Kennedy and Thomas, joins the actual-clarification application and clear-request protections but rejects a mandatory pause for an uncertain reference. Following a knowing and voluntary waiver, these Justices would require words clear enough that a reasonable officer would understand counsel to be requested. Their rule demands no legal terminology or prescribed formula. McNeil requires communication of the particular custodial-counsel interest, and Edwards's cessation protection follows invocation rather than a possible undisclosed wish. The initial waiver remains significant until the suspect objectively communicates a changed choice. Limited clarification is often sensible and is lawful here, but its practical value does not itself establish a legal duty. These Justices accept Smith's prohibition on using later answers to undo a clear request and do not approve coercive persuasion disguised as clarification. They accept the credited first ambiguity, the actual neutral exchange and voluntary disclaimer, and cessation upon the final clear request. They do not rely on a new waiver, decide prewaiver conduct, or adopt the unpressed §3501 theory. Their no-duty rule has four votes; Part I's mandatory rule controls.
 
 ## Procedure After Action
 
-The case returns for constitutionally adequate judicial examination of the punitive amount, lawful correction and further proceedings consistent with the opinion. The award is not held substantively excessive, and no substitute amount or automatic punitive retrial is directed. The compensatory judgment and punitive entitlement remain undisturbed. Chief Justice Stone-Zsela's separate conditional remedy would require a new punitive determination only if adequate review cannot provide lawful correction.
+Supreme Court merits review is complete. The Court of Military Appeals judgment stands; no statements are excluded and no new trial or further merits proceedings are ordered on the invocation theory. No precise mandate-issuance date is stated.
 
 ## Source Notes
 
-The [Oregon Supreme Court opinion, 316 Ore. 263](https://static.case.law/or/316/html/0263-01.html), supplies the state constitutional construction, statutory safeguards, award and preserved procedural claim. The [United States Reports case report, 512 U.S. 415](https://www.govinfo.gov/content/pkg/USREPORTS-512/pdf/USREPORTS-512-415.pdf), supplies docket, argument, record, instructions and the distinction between the seven statutory criteria and five actually instructed. The [official Haslip report](https://www.govinfo.gov/content/pkg/USREPORTS-499/pdf/USREPORTS-499-1.pdf) supplies the earlier procedural authority. The review question is stated in substance rather than quoted as authenticated petition wording. No additional review power or federal claim decided below is inferred from a suggestion about a possible future case.
+The [Court of Military Appeals opinion, 36 M.J. 337](https://static.case.law/mj/36/html/0337-01.html), supplies the credited exchange, disputed testimony, valid initial waiver, later brief reminder, sentence and lower clarification rule. The [official report, 512 U.S. 452](https://www.govinfo.gov/content/pkg/USREPORTS-512/pdf/USREPORTS-512-452.pdf), supplies the docket, argument date and review posture. Both support the quoted first remark. The entire underlying record and every brief were not independently available; no unreported finding or verbatim grant wording is asserted. Section 3501 was not the Government's ground, and the military framework was accepted rather than independently reexamined.
 
 ---
 

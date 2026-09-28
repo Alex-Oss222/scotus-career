@@ -2,6 +2,111 @@
 
 **October Term:** 1993. **Completed events:** 12. **Chronological range:** 1994-06-06 through 1994-06-13.
 
+<!-- source-record: Farmer_v_Brennan_merits_1994-06-06.md -->
+## Event
+
+Farmer v. Brennan, No. 92-7247; 511 U.S. 825. Argued January 12, 1994; decided June 6, 1994. On writ of certiorari to the Seventh Circuit's unpublished summary affirmance of judgment for federal prison officials. The questions are the meaning of deliberate indifference in a failure-to-protect claim and whether the absence of an express warning defeats other possible proof of actual knowledge. Farmer alleges assault after a March 9, 1989 transfer and seeks damages and prospective protection; officials dispute their individual knowledge and responsibility. Render form: full. Basis: separate opinion and judgment coalitions, three separate writings, and distinct past-damages and prospective-remedy inquiries require explicit topology.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or other nonparticipation is established.
+
+## Public Action
+
+The judgment is vacated and the case remanded, 9–0.
+
+## Judgment & Remedy
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Failure-to-protect summary judgment and related discovery ruling | Vacate and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Reconsider the Rule 56(f) request and judgment using actual awareness and ordinary circumstantial proof; preserve individualized defenses and current-relief review. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Souter | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Ginsburg | Vacatur and remand | Entire actual-awareness, proof, reasonable-response, application and bounded-remedy opinion |
+| Concurrence | Blackmun | No other Justice | Joins the Court and judgment | Preserves objection to Wilson while accepting its application here |
+| Concurrence | Stevens | No other Justice | Joins the Court and judgment | Preserves objection to a subjective-motivation condition for cruel confinement |
+| Concurrence in the judgment | Thomas | No other Justice | Vacatur and remand only | Applies the unchallenged framework provisionally; does not join the constitutional predicate or remedial reasoning |
+
+## Holdings
+
+### Actual awareness and unreasonable disregard of substantial danger
+
+**Controlling proposition:** A prison official violates the Eighth Amendment by disregarding a substantial risk of serious harm only if the official knows facts indicating that risk, actually appreciates the risk, and fails to respond reasonably. A danger that an official merely should have discovered does not establish deliberate indifference; an official who responds reasonably is not liable under this rule even if harm occurs.
+
+**Authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight Justices adopt this rule; Thomas joins only the judgment.
+
+**Controlling explanation:** The Court holds that deliberate indifference requires actual appreciation of serious danger. Estelle separates constitutionally culpable indifference from negligence, and Wilson requires both a serious deprivation and a culpable state of mind in a conditions claim. Hudson v. Palmer recognizes the duty to protect prisoners whom custody prevents from protecting themselves. Those duties do not make officials insurers against every assault. The official must understand the substantial risk, but need not foresee its precise attacker, timing or mechanism when the known danger encompasses the prisoner's situation. The broader proposal to impose liability for whatever a reasonable official would have recognized would replace Wilson's subjective requirement. The opposite proposal to demand purposeful harm would confuse ordinary protective duties with the distinct force setting. Reasonable protective action defeats deliberate indifference even when unsuccessful. The Court does not find that any defendant possessed the required knowledge, had responsibility for a particular placement, caused the assault or lacks a defense. Those questions remain individualized on remand.
+
+**Precedent treatment:**
+
+- Estelle v. Gamble, 429 U.S. 97: applies its distinction between deliberate indifference and negligence without reopening the accepted conditions framework.
+- Wilson v. Seiter, 501 U.S. 294: applies its separate objective and subjective requirements and specifies actual-awareness recklessness for this failure-to-protect claim.
+- Hudson v. Palmer, 468 U.S. 517: applies its recognition of custodial protection duties; it supplies no automatic liability from an assault.
+- Hudson v. McMillian, February 25, 1992: preserves the nontrivial malicious-beating holding and leaves its unresolved broader force standards untouched; no universal malicious-and-sadistic requirement enters this conditions claim.
+
+### Circumstantial proof and reconsideration of summary judgment
+
+**Controlling proposition:** Actual awareness may be proved by ordinary circumstantial evidence, including an obvious risk, and does not require an express warning by the prisoner. Obviousness permits but does not compel an inference: a genuine failure to appreciate the risk defeats the knowledge element, whereas deliberately refusing to confirm strongly suspected facts or their obvious inference may establish awareness; summary judgment here must be reconsidered without treating Farmer's silence as dispositive.
+
+**Authority:** The proof-and-remand portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight adopt its reasoning; all nine support vacatur and remand.
+
+**Controlling explanation:** The Court holds that a subjective rule does not require direct admission of knowledge. Wilson's culpability requirement asks what the official actually understood; ordinary evidence may answer that question. An obvious and longstanding danger, reports, experience or communications may permit a factfinder to reject a disclaimer of awareness. But proof that an official ought to have known remains different from proof that the official did know. Deliberate avoidance of a strongly suspected danger cannot secure immunity from that inference, while an honest failure to draw it remains outside this constitutional rule. Farmer sought discovery about institutional violence and officials' knowledge under Rule 56(f). The district court denied that request and treated the absence of an express safety complaint as decisive. That approach may have foreclosed other material evidence. The Court therefore requires reconsideration of the request and summary judgment under the proper standard whether discovery is ultimately allowed or denied. It neither orders trial nor bars renewed summary judgment on a properly considered record.
+
+**Precedent treatment:**
+
+- Wilson v. Seiter, 501 U.S. 294: applies its actual culpability requirement without making a prisoner warning an additional element.
+- Estelle v. Gamble, 429 U.S. 97: preserves the negligence boundary while allowing ordinary evidence of deliberate indifference.
+
+**Limits and questions not reached:** The transfer officials may contest their knowledge, responsibility, causation and reasonable response. The Court does not combine different defendants' innocent information into collective knowledge, find the alleged assault proved, or decide qualified immunity. The event-date rule is Rule 56(f).
+
+### Current danger governs preventive relief
+
+**Controlling proposition:** Prospective protection requires an established current substantial danger and knowing unreasonable nonresponse that persists through the litigation and is likely to continue. The court may consider later developments bearing on present danger and knowledge; litigation notice cannot create past damages liability, and officials may defeat prospective relief by showing that the danger or culpable response has ceased and will not recur.
+
+**Authority:** The prospective-relief portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg; eight Justices adopt this rule and the bounded remand.
+
+**Controlling explanation:** The Court holds that preventive relief concerns present conditions. Helling permits a prisoner to seek protection before serious harm occurs, while retaining Wilson's culpability requirement. The Government's earlier reliance on administrative detention cannot resolve the issue when its later account places Farmer in the general population of a medium-security prison. Neither account establishes a present constitutional danger by itself. Within ordinary procedural discretion, the district court may consider evidence developed during litigation showing both an ongoing substantial risk and the responsible officials' knowing failure to respond reasonably. A filed allegation supplies no finding of danger, and later notice does not establish what officials knew before the assault. Officials remain free to show changed placement, effective protection or cessation unlikely to recur. Any injunction must fit the established danger and officials' lawful responsibilities. The record does not justify a blanket prohibition on all penitentiary placement. The Court preserves the distinct capacities, causation and immunity inquiries and awards neither damages nor an injunction.
+
+**Precedent treatment:**
+
+- Helling v. McKinney, June 18, 1993: applies preventive protection against serious future harm and its direction to examine current conditions.
+- Wilson v. Seiter, 501 U.S. 294: retains the separate culpability requirement for the threatened conditions violation.
+- Bivens v. Six Unknown Named Agents, 403 U.S. 388: preserves the presented individual-officer damages channel without creating a Treasury claim.
+- Carlson v. Green, 446 U.S. 14: preserves the individual-officer Eighth Amendment damages source; damages entitlement remains unproved.
+- FDIC v. Meyer, February 23, 1994: applies the distinction between an individual claim and an unavailable direct agency constitutional damages action.
+- Elder v. Holloway, February 23, 1994: preserves review of immunity using all relevant law existing when the conduct occurred; this decision supplies no retroactive notice in 1989.
+
+**Limits and questions not reached:** The Terre Haute warden and Bureau Director were sued only in official capacities; the Oxford warden, case manager and two regional officials faced both-capacity claims. Equitable discretion and appropriate internal grievance procedures are not converted into a new mandatory exhaustion holding. No later statutory exhaustion regime is applied.
+
+## Precedent Treatment
+
+The proposition-specific treatments above govern. Wilson remains controlling; its subjective requirement is now specified for this failure-to-protect claim. Helling remains the basis for preventive review. The limited malicious-force rule in Hudson is neither enlarged nor displaced. No precedent is overruled.
+
+## Law After Decision
+
+Effective June 6, 1994, deliberate indifference in this conditions claim requires actual awareness and unreasonable disregard, with ordinary circumstantial proof and a reasonable-response limit. Absence of a prisoner warning is not dispositive. Prospective relief turns on current danger and conduct; historical knowledge, individual capacities, causation and qualified immunity remain distinct. No defendant is found liable, and no universal mental-state rule for all prison-force claims is adopted.
+
+## Separate Writings
+
+Justice Blackmun joins the Court because it applies the unchallenged deliberate-indifference framework while preserving workable circumstantial proof and prevention of future harm. He would overrule Wilson's general subjective requirement: objectively inhumane conditions may violate the Eighth Amendment without identifying an official with the required state of mind. That broader position does not change the rule the Court adopts here.
+
+Justice Stevens joins the Court's application but maintains that confinement conditions imposed on a prisoner can constitute punishment without improper subjective motivation. His disagreement with Wilson does not impose a purposeful-malice requirement or prevent his join in the present actual-awareness rule.
+
+Justice Thomas concurs only in the judgment. In his view, not every condition or unauthorized omission is punishment within the Eighth Amendment. Because the parties do not seek overruling Estelle or Wilson, he accepts a cautionary remand within their framework to determine whether Farmer's silence was treated as dispositive. The remand does not declare the officials liable or prevent renewed summary judgment after the proper inquiry. His judgment vote does not join the Court's broader constitutional or prospective-relief explanation.
+
+## Procedure After Action
+
+The case returns for reconsideration of the Rule 56(f) request and the merits judgment. Discovery may be allowed or denied on a proper basis; the merits must then be evaluated without an express-warning prerequisite. Defendants may assert individualized knowledge, causation, reasonable response and immunity defenses. Current prospective danger and the scope of any lawful protection remain for the lower court. No automatic trial, damages award or placement injunction is ordered.
+
+## Source Notes
+
+The [official report, 511 U.S. 825](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511825/usrep511825.pdf), at 829–832 and 848–851, supplies the procedural record, capacities, discovery request and reported changes in confinement. No separate reasoned Seventh Circuit opinion is reported. The underlying discovery materials and complete briefs were not independently recovered; neither the alleged assault, defendant-specific knowledge, exact 1989 security classifications nor current danger is treated as a completed finding. No quotation from the Court's opinion is asserted.
+
+---
+
 <!-- source-record: Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md -->
 ## Event
 
@@ -164,111 +269,6 @@ The interlocutory appeal remains dismissed. The district litigation continues in
 ## Source Notes
 
 The [official report, 511 U.S. 863](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511863/usrep511863.pdf), 865–867, and [Tenth Circuit judgment, 993 F.2d 755](https://static.case.law/f2d/993/html/0755-01.html), supply the agreement, dismissal, reopening order and appellate dismissal. The source reports possible material nondisclosure, not a completed finding of fraud. Settlement price and the complete negotiation record were not independently established. The appeal decides jurisdiction alone; no quotation from the Court's opinion is asserted.
-
----
-
-<!-- source-record: Farmer_v_Brennan_merits_1994-06-06.md -->
-## Event
-
-Farmer v. Brennan, No. 92-7247; 511 U.S. 825. Argued January 12, 1994; decided June 6, 1994. On writ of certiorari to the Seventh Circuit's unpublished summary affirmance of judgment for federal prison officials. The questions are the meaning of deliberate indifference in a failure-to-protect claim and whether the absence of an express warning defeats other possible proof of actual knowledge. Farmer alleges assault after a March 9, 1989 transfer and seeks damages and prospective protection; officials dispute their individual knowledge and responsibility. Render form: full. Basis: separate opinion and judgment coalitions, three separate writings, and distinct past-damages and prospective-remedy inquiries require explicit topology.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or other nonparticipation is established.
-
-## Public Action
-
-The judgment is vacated and the case remanded, 9–0.
-
-## Judgment & Remedy
-
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Failure-to-protect summary judgment and related discovery ruling | Vacate and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Reconsider the Rule 56(f) request and judgment using actual awareness and ordinary circumstantial proof; preserve individualized defenses and current-relief review. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Souter | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Ginsburg | Vacatur and remand | Entire actual-awareness, proof, reasonable-response, application and bounded-remedy opinion |
-| Concurrence | Blackmun | No other Justice | Joins the Court and judgment | Preserves objection to Wilson while accepting its application here |
-| Concurrence | Stevens | No other Justice | Joins the Court and judgment | Preserves objection to a subjective-motivation condition for cruel confinement |
-| Concurrence in the judgment | Thomas | No other Justice | Vacatur and remand only | Applies the unchallenged framework provisionally; does not join the constitutional predicate or remedial reasoning |
-
-## Holdings
-
-### Actual awareness and unreasonable disregard of substantial danger
-
-**Controlling proposition:** A prison official violates the Eighth Amendment by disregarding a substantial risk of serious harm only if the official knows facts indicating that risk, actually appreciates the risk, and fails to respond reasonably. A danger that an official merely should have discovered does not establish deliberate indifference; an official who responds reasonably is not liable under this rule even if harm occurs.
-
-**Authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight Justices adopt this rule; Thomas joins only the judgment.
-
-**Controlling explanation:** The Court holds that deliberate indifference requires actual appreciation of serious danger. Estelle separates constitutionally culpable indifference from negligence, and Wilson requires both a serious deprivation and a culpable state of mind in a conditions claim. Hudson v. Palmer recognizes the duty to protect prisoners whom custody prevents from protecting themselves. Those duties do not make officials insurers against every assault. The official must understand the substantial risk, but need not foresee its precise attacker, timing or mechanism when the known danger encompasses the prisoner's situation. The broader proposal to impose liability for whatever a reasonable official would have recognized would replace Wilson's subjective requirement. The opposite proposal to demand purposeful harm would confuse ordinary protective duties with the distinct force setting. Reasonable protective action defeats deliberate indifference even when unsuccessful. The Court does not find that any defendant possessed the required knowledge, had responsibility for a particular placement, caused the assault or lacks a defense. Those questions remain individualized on remand.
-
-**Precedent treatment:**
-
-- Estelle v. Gamble, 429 U.S. 97: applies its distinction between deliberate indifference and negligence without reopening the accepted conditions framework.
-- Wilson v. Seiter, 501 U.S. 294: applies its separate objective and subjective requirements and specifies actual-awareness recklessness for this failure-to-protect claim.
-- Hudson v. Palmer, 468 U.S. 517: applies its recognition of custodial protection duties; it supplies no automatic liability from an assault.
-- Hudson v. McMillian, February 25, 1992: preserves the nontrivial malicious-beating holding and leaves its unresolved broader force standards untouched; no universal malicious-and-sadistic requirement enters this conditions claim.
-
-### Circumstantial proof and reconsideration of summary judgment
-
-**Controlling proposition:** Actual awareness may be proved by ordinary circumstantial evidence, including an obvious risk, and does not require an express warning by the prisoner. Obviousness permits but does not compel an inference: a genuine failure to appreciate the risk defeats the knowledge element, whereas deliberately refusing to confirm strongly suspected facts or their obvious inference may establish awareness; summary judgment here must be reconsidered without treating Farmer's silence as dispositive.
-
-**Authority:** The proof-and-remand portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight adopt its reasoning; all nine support vacatur and remand.
-
-**Controlling explanation:** The Court holds that a subjective rule does not require direct admission of knowledge. Wilson's culpability requirement asks what the official actually understood; ordinary evidence may answer that question. An obvious and longstanding danger, reports, experience or communications may permit a factfinder to reject a disclaimer of awareness. But proof that an official ought to have known remains different from proof that the official did know. Deliberate avoidance of a strongly suspected danger cannot secure immunity from that inference, while an honest failure to draw it remains outside this constitutional rule. Farmer sought discovery about institutional violence and officials' knowledge under Rule 56(f). The district court denied that request and treated the absence of an express safety complaint as decisive. That approach may have foreclosed other material evidence. The Court therefore requires reconsideration of the request and summary judgment under the proper standard whether discovery is ultimately allowed or denied. It neither orders trial nor bars renewed summary judgment on a properly considered record.
-
-**Precedent treatment:**
-
-- Wilson v. Seiter, 501 U.S. 294: applies its actual culpability requirement without making a prisoner warning an additional element.
-- Estelle v. Gamble, 429 U.S. 97: preserves the negligence boundary while allowing ordinary evidence of deliberate indifference.
-
-**Limits and questions not reached:** The transfer officials may contest their knowledge, responsibility, causation and reasonable response. The Court does not combine different defendants' innocent information into collective knowledge, find the alleged assault proved, or decide qualified immunity. The event-date rule is Rule 56(f).
-
-### Current danger governs preventive relief
-
-**Controlling proposition:** Prospective protection requires an established current substantial danger and knowing unreasonable nonresponse that persists through the litigation and is likely to continue. The court may consider later developments bearing on present danger and knowledge; litigation notice cannot create past damages liability, and officials may defeat prospective relief by showing that the danger or culpable response has ceased and will not recur.
-
-**Authority:** The prospective-relief portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg; eight Justices adopt this rule and the bounded remand.
-
-**Controlling explanation:** The Court holds that preventive relief concerns present conditions. Helling permits a prisoner to seek protection before serious harm occurs, while retaining Wilson's culpability requirement. The Government's earlier reliance on administrative detention cannot resolve the issue when its later account places Farmer in the general population of a medium-security prison. Neither account establishes a present constitutional danger by itself. Within ordinary procedural discretion, the district court may consider evidence developed during litigation showing both an ongoing substantial risk and the responsible officials' knowing failure to respond reasonably. A filed allegation supplies no finding of danger, and later notice does not establish what officials knew before the assault. Officials remain free to show changed placement, effective protection or cessation unlikely to recur. Any injunction must fit the established danger and officials' lawful responsibilities. The record does not justify a blanket prohibition on all penitentiary placement. The Court preserves the distinct capacities, causation and immunity inquiries and awards neither damages nor an injunction.
-
-**Precedent treatment:**
-
-- Helling v. McKinney, June 18, 1993: applies preventive protection against serious future harm and its direction to examine current conditions.
-- Wilson v. Seiter, 501 U.S. 294: retains the separate culpability requirement for the threatened conditions violation.
-- Bivens v. Six Unknown Named Agents, 403 U.S. 388: preserves the presented individual-officer damages channel without creating a Treasury claim.
-- Carlson v. Green, 446 U.S. 14: preserves the individual-officer Eighth Amendment damages source; damages entitlement remains unproved.
-- FDIC v. Meyer, February 23, 1994: applies the distinction between an individual claim and an unavailable direct agency constitutional damages action.
-- Elder v. Holloway, February 23, 1994: preserves review of immunity using all relevant law existing when the conduct occurred; this decision supplies no retroactive notice in 1989.
-
-**Limits and questions not reached:** The Terre Haute warden and Bureau Director were sued only in official capacities; the Oxford warden, case manager and two regional officials faced both-capacity claims. Equitable discretion and appropriate internal grievance procedures are not converted into a new mandatory exhaustion holding. No later statutory exhaustion regime is applied.
-
-## Precedent Treatment
-
-The proposition-specific treatments above govern. Wilson remains controlling; its subjective requirement is now specified for this failure-to-protect claim. Helling remains the basis for preventive review. The limited malicious-force rule in Hudson is neither enlarged nor displaced. No precedent is overruled.
-
-## Law After Decision
-
-Effective June 6, 1994, deliberate indifference in this conditions claim requires actual awareness and unreasonable disregard, with ordinary circumstantial proof and a reasonable-response limit. Absence of a prisoner warning is not dispositive. Prospective relief turns on current danger and conduct; historical knowledge, individual capacities, causation and qualified immunity remain distinct. No defendant is found liable, and no universal mental-state rule for all prison-force claims is adopted.
-
-## Separate Writings
-
-Justice Blackmun joins the Court because it applies the unchallenged deliberate-indifference framework while preserving workable circumstantial proof and prevention of future harm. He would overrule Wilson's general subjective requirement: objectively inhumane conditions may violate the Eighth Amendment without identifying an official with the required state of mind. That broader position does not change the rule the Court adopts here.
-
-Justice Stevens joins the Court's application but maintains that confinement conditions imposed on a prisoner can constitute punishment without improper subjective motivation. His disagreement with Wilson does not impose a purposeful-malice requirement or prevent his join in the present actual-awareness rule.
-
-Justice Thomas concurs only in the judgment. In his view, not every condition or unauthorized omission is punishment within the Eighth Amendment. Because the parties do not seek overruling Estelle or Wilson, he accepts a cautionary remand within their framework to determine whether Farmer's silence was treated as dispositive. The remand does not declare the officials liable or prevent renewed summary judgment after the proper inquiry. His judgment vote does not join the Court's broader constitutional or prospective-relief explanation.
-
-## Procedure After Action
-
-The case returns for reconsideration of the Rule 56(f) request and the merits judgment. Discovery may be allowed or denied on a proper basis; the merits must then be evaluated without an express-warning prerequisite. Defendants may assert individualized knowledge, causation, reasonable response and immunity defenses. Current prospective danger and the scope of any lawful protection remain for the lower court. No automatic trial, damages award or placement injunction is ordered.
-
-## Source Notes
-
-The [official report, 511 U.S. 825](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511825/usrep511825.pdf), at 829–832 and 848–851, supplies the procedural record, capacities, discovery request and reported changes in confinement. No separate reasoned Seventh Circuit opinion is reported. The underlying discovery materials and complete briefs were not independently recovered; neither the alleged assault, defendant-specific knowledge, exact 1989 security classifications nor current danger is treated as a completed finding. No quotation from the Court's opinion is asserted.
 
 ---
 
@@ -435,178 +435,192 @@ The [official report, 512 U.S. 43](https://tile.loc.gov/storage-services/service
 
 ---
 
-<!-- source-record: Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md -->
+<!-- source-record: OMelveny_Myers_v_FDIC_merits_1994-06-13.md -->
 ## Event
 
-Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., No. 93-377; 512 U.S. 61. Argued March 23, 1994; decided June 13, 1994. On writ of certiorari to the New York Court of Appeals, 81 N.Y.2d 417, 615 N.E.2d 994. Its June 10, 1993 judgment granted the wholesalers summary judgment and sustained the facial injunction against the unimplemented program on categorical trader preemption and alternative excessive-burden grounds. The question is whether federal Indian Trader law preempts the challenged collection, documentation and quantity controls.
-
-Render form: compact. Basis: a unanimous judgment and one complete Opinion of the Court permit a unified account of the rule and its qualifications.
+O’Melveny & Myers v. FDIC, No. 93-489; 512 U.S. 79. Argued March 21, 1994; decided June 13, 1994. On writ of certiorari to the Ninth Circuit, 969 F.2d 744, which reversed an unexplained summary judgment for the law firm and used federal common law to reject defenses to the receiver's acquired California claims. The question is whether federal or California law governs imputation and related defenses, not whether malpractice or damages have been proved. Render form: full. Basis: the independently sufficient pre-FIRREA ground, conditional statutory construction and separate state-law explanation are stated distinctly.
 
 ## Participation
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or other nonparticipation is established.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or nonparticipation is established.
 
 ## Public Action
 
-The judgment is reversed and remanded, 9–0.
+The Ninth Circuit's federal-common-law judgment is reversed, and the case is remanded, 9–0.
 
 ## Judgment & Remedy
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Categorical trader preemption and the alternative facial excessive-burden ground | Reversed and remanded, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | No opposing Justice | The New York Court of Appeals is reversed on both grounds supporting its facial judgment, and the case is remanded for proceedings consistent with the limited rejection of facial preemption. The facial injunction cannot rest on those grounds. Concrete challenges to inadequate exempt supply, arbitrary approval or territory allocation, and excessive compliance burdens remain available on an actual record. No particular quota, tax collection from a tribe or treaty objection is adjudicated. |
+| Source of law governing imputation and related defenses to acquired California claims | Reverse and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Determine preserved California questions without a federal anti-imputation exception; no judgment on liability or damages. |
 
 ## Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | Entire judgment | Entire opinion, including every holding and the bounded remand |
+| Opinion of the Court, Parts I and II | Scalia | Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg | Reverse and remand | State-law and independently sufficient pre-FIRREA ground; conditional FIRREA construction; temporal and merits reservations |
+| Concurrence | Stevens | Blackmun, O'Connor, Souter | Joins the Court and judgment | Explains the distinct authority of state courts to develop state common law without dictating California's answer |
 
 ## Holdings
 
-### Federal trader regulation does not displace reasonable collection of valid nonmember taxes
+### These acquired California claims carry California imputation law
 
-**Controlling proposition:** The Indian Trader Statutes do not categorically preempt state requirements reasonably directed to collecting cigarette taxes validly imposed on nonexempt consumers. New York's state-agent, stamping, advance-collection, certification, invoice, recordkeeping and reporting requirements survive this facial challenge insofar as they serve that collection function without taxing protected consumption or displacing the federal trader appointment.
+**Controlling proposition:** On the pre-FIRREA framework, California law governs imputation and related defenses to the institution's California negligence and fiduciary-duty claims acquired by the federal receiver: fund protection, greater recovery and general administrative uniformity do not establish the particular significant conflict with federal policy required for the proposed federal exception. The Ninth Circuit's federal-common-law ruling is reversed and the case remanded to determine the preserved state-law questions, without directing judgment for either party.
 
-**Authority:** O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited federal-statute and collection holding.
+**Authority:** Part I of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt the same pre-FIRREA ground, independently sufficient to reject the proposed rule without deciding FIRREA's temporal reach.
 
-**Controlling explanation:** The Court holds that federal trader licensing is not immunity from reasonable assistance in collecting valid consumer taxes. Warren Trading Post protects the federally regulated reservation trade against the direct state tax considered there. Moe, Colville and Potawatomi separately permit taxation of nonexempt purchasers and reasonably necessary collection duties while protecting exempt consumption and tribal immunity. Those rules coexist. Section 261's federal authority over trader appointment and regulation does not make every ancillary state collection requirement an invasion of that authority. New York places ultimate tax incidence on the consumer and uses the distribution chain to collect it. Certification, records and reports identify exempt transactions; state-agent and stamping requirements collect taxes on the others. The strongest objection is that these obligations could become state control of federally protected trade. That possibility requires attention to actual operation, consistent with Bracker's federal, tribal and state inquiry; it does not establish facial invalidity here. The Court rejects both categorical preemption and the lower court's alternative facial burden conclusion, while leaving unreasonable administration and tribal enforcement questions open.
-
-**Precedent treatment:**
-
-- Warren Trading Post Co. v. Arizona Tax Commission, 380 U.S. 685: preserves its protection against the particular direct tax on federally regulated reservation trade; its broader language does not create universal collection immunity.
-- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: applies valid nonmember taxation and reasonable collection assistance while preserving exempt member purchases.
-- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applies the distinction between taxable purchases and protected tribal trade, including reasonable documentation burdens.
-- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: preserves valid nonmember tax obligations and reasonable collection tools without overcoming the tribe's immunity from suit.
-- White Mountain Apache Tribe v. Bracker, 448 U.S. 136: applies attention to the actual federal, tribal and state regulatory setting rather than a universal territorial or licensing rule.
-
-**Limits and questions not reached:** No general state power to regulate reservation commerce, revoke a federal trader appointment, tax exempt consumption or sue an immune tribe is recognized. The Seneca treaty contention was not addressed below and is not decided.
-
-### Probable-demand limits and prior approval survive only at facial scope
-
-**Controlling proposition:** New York may limit unstamped deliveries to probable demand by qualifying exempt purchasers and require advance approval as reasonably necessary collection devices, provided exempt purchases remain adequately available and the requirements remain connected to the valid nonmember tax. The challenged scheme survives the present facial objections because no inadequate implemented quota or denied exempt supply is established; stamped sales have no corresponding numerical ceiling, and unreasonable applications remain subject to challenge.
-
-**Authority:** O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the qualified quota-and-approval holding and reversal of the facial injunction.
-
-**Controlling explanation:** The Court holds that controlling untaxed supply can serve lawful collection without eliminating the exemption. Moe and Colville recognize the need to distinguish exempt from taxable reservation transactions; Potawatomi does not require a State to abandon a valid tax merely because direct recovery from the tribe is unavailable. New York's evidence of extraordinary untaxed deliveries supplies a reason to address diversion, not a finding that every retailer evades tax. The scheme allows a tribal regulatory agreement, uses tribal demand evidence where the tribe regulates distribution, and otherwise estimates demand from enrollment and consumption data. Approval and documentation operate with those channels, and stamped supply remains unlimited. The wholesalers' stronger objection is practical: an inflexible estimate or delayed approval could deprive members of exempt purchases. That objection may support relief on an actual record, but the present unimplemented scheme establishes no such deprivation. The Court does not determine an initial quota's accuracy, approve arbitrary territory allocations or excuse excessive compliance burdens. Exempt trade remains protected, and concrete challenges remain available.
+**Controlling explanation:** The Court holds that acquiring a state-created claim does not ordinarily enlarge it by federal judicial decree. Erie denies general federal common law; Wallis requires a particular significant conflict before a special federal rule displaces state law. Boyle preserves exceptional displacement when its federal-interest and conflict requirements are met, rather than making federal involvement enough. Kimbell Foods shows that even rights generated by federal programs do not invariably require nationally uniform rules. Here the receiver sues on the institution's professional-negligence and fiduciary-duty rights. The strongest contrary argument is that imputation reduces recoveries for innocent creditors and the federal insurance fund after the dishonest officers lose control. That policy supplies no limiting principle identifying the required conflict: more recovery would benefit a federal claimant in virtually any lawsuit. United States v. Texas preserved an established federal debt-interest rule in a different setting. California's own imputation, adverse-interest and receiver doctrines must be considered without assuming their answer. The Court neither decides liability nor abolishes established categories of federal common law.
 
 **Precedent treatment:**
 
-- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: extends reasonable collection assistance to a qualified supply-control mechanism directed to valid taxes.
-- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applies the distinction between collection of nonexempt taxes and preservation of protected consumption.
-- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: leaves alternative lawful collection methods available while preserving sovereign immunity.
-- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves its residence, source and incidence distinctions; it supplies no exemption for every wholesale sale to a reservation retailer.
-- County of Yakima v. Confederated Tribes, January 14, 1992: preserves the exact authorization and legal-incidence analysis for its distinct land taxes; collection labels do not authorize prohibited taxes.
+- Erie Railroad v. Tompkins, 304 U.S. 64: applies the absence of general federal common law to privately generated state causes; exceptional federal fields are not abolished.
+- Wallis v. Pan American Petroleum Corp., 384 U.S. 63: applies its requirement of an identified significant conflict with federal policy; ordinary federal financial interests are insufficient here.
+- Boyle v. United Technologies Corp., 487 U.S. 500: preserves federal-interest and conflict prerequisites for exceptional displacement; the necessary conflict is absent in these acquired claims.
+- United States v. Kimbell Foods, Inc., 440 U.S. 715: distinguishes federally generated program rights and preserves its rejection of automatic nationwide uniformity even there.
+- United States v. Texas, April 5, 1993: distinguishes the established federal delay-compensation obligation on an assumed federal debt; it supplies no new receiver exemption from state tort defenses.
+- FDIC v. Meyer, February 23, 1994: preserves the separation of sovereign consent, federal-party status and substantive cause of action; this action remains state created.
+
+### FIRREA, if applicable, supplies no additional anti-imputation rule
+
+**Controlling proposition:** If FIRREA governs these claims, §1821(d)(2)(A)(i) transfers the institution's rights, titles, powers and privileges to the FDIC subject to the legal incidents of those rights and the federal exceptions Congress actually enacted; it does not authorize adding the proposed federal exemption from California imputation law. The Court leaves FIRREA's temporal reach unresolved because the independently sufficient pre-FIRREA analysis produces the same state-law remand.
+
+**Authority:** Part II of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt this conditional statutory construction and its temporal reservation. It is not a finding that FIRREA applies retrospectively.
+
+**Controlling explanation:** The Court holds that FIRREA does not authorize the additional rule the receiver requests. Its succession provision transfers the institution's rights; it does not recast every state claim as an enlarged federal one. Congress separately addressed limitations in §1821(d)(14), contract repudiation and its consequences in §1821(e)(1) and (3), officer and director liability in §1821(k), and certain agreements in §1821(d)(9). Those provisions address different subjects and cannot be combined into a residual power to disregard ordinary imputation. The FDIC argues that protecting the insurance fund warrants filling the statutory silence. In this setting silence leaves the acquired rights and enacted exceptions in place; it does not delegate creation of any additional advantage that might increase recovery. This conclusion does not determine the application of any listed exception to a properly presented different claim. Landgraf requires a separate temporal inquiry when application of later legislation matters. Because the pre-FIRREA ground already resolves the proposed federal rule, no such determination is necessary here. California's substantive answer and the firm's professional liability remain open.
+
+**Precedent treatment:**
+
+- Erie Railroad v. Tompkins, 304 U.S. 64: preserves state substantive law where no enacted or otherwise valid federal displacement is established.
+- Boyle v. United Technologies Corp., 487 U.S. 500: remains available within its actual exceptional-federal-law requirements; this construction does not occupy every federal common-law field.
+- Landgraf v. USI Film Products, April 26, 1994: preserves its temporal-direction and new-consequences framework; FIRREA's temporal application is unnecessary to decide and is not presumed.
+
+**Limits and questions not reached:** The Court does not decide California imputation, adverse-interest exceptions, estoppel, engagement scope, duty, breach, causation, recoverable client losses, assigned investor claims, a statute-of-frauds defense, or FIRREA's temporal reach. Reversal does not reinstate the unexplained district-court summary judgment. The complaint does not seek reimbursement of the investors' rescission payments.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. No precedent is overruled. Warren Trading Post does not establish universal trader immunity. Sac and Fox and Yakima retain their distinct rules for member income, vehicle levies and congressionally authorized fee-land taxation.
+The treatments in the holding blocks govern. United States v. Texas retains its established federal debt-interest rule, and Boyle retains its exceptional displacement inquiry. Meyer does not supply a federal malpractice cause. Landgraf's temporal rule is left intact because the same outcome follows without resolving FIRREA's temporal application. No precedent is overruled.
 
 ## Law After Decision
 
-Effective June 13, 1994, federal trader law does not facially invalidate this reasonable-collection program, including its probable-demand and approval mechanisms. Both grounds of the New York Court of Appeals' facial judgment fail. Every component remains bounded by the valid nonexempt tax and protection of genuine exempt consumption.
-
-Tax Law §471(1) taxes cigarettes possessed in New York except those beyond the State's taxing power; §471(2) puts ultimate incidence and liability on the consumer. State-licensed agents purchase and affix stamps before the first sale and precollect tax on nonexempt sales. The protected consumer is an enrolled member of an exempt New York nation or tribe buying within a qualified reservation for the individual's own use or consumption there, not for resale. Untaxed wholesale deliveries require a valid exemption certificate, intended distribution to exempt consumers and reservation delivery. The wholesale buyer displays its certificate on first purchase and signs subsequent invoices. The consumer's distinct procedure requires individual-exemption certification initially and identity evidence on later purchases. Wholesalers keep buyer-specific untaxed-sale records and report monthly.
-
-A tribe may enter a §336.7(c)(1) regulatory agreement providing tribal delivery approval. Without an agreement, the Department calculates probable demand. Where the tribe regulates, licenses or controls distribution, the Department uses submitted demand evidence; otherwise it multiplies statewide per-capita consumption by enrollment. Trade territory is determined in consultation with a regulating tribe and otherwise from available Department information. Valid orders and quantities reasonably related to exempt demand govern approval; monthly coupons implement the allotment. The Department may withhold delivery approval from past or current violators and cancel certificates for noncompliance. These powers remain tied to lawful collection; the decision does not authorize destroying the exempt channel. Stamped cigarettes have no numerical sales quota.
-
-No actual quota's accuracy, denial of exempt supply, unlawful delay, unreasonable compliance burden or particular retailer's evasion is found. Population, actual exempt consumption, qualifying consumers, demand variations and access to documentation may matter to a concrete challenge; the Court announces no new mandatory calculation formula. The unadjudicated Seneca treaty contention and enforcement against a tribe remain unresolved.
+Effective June 13, 1994, federal receivership, a desire for greater recovery and general uniformity do not create a federal exception to California imputation and related defenses in these acquired California claims. The independent pre-FIRREA rule and conditional FIRREA construction both require the same state-law inquiry. Enacted federal exceptions and established federal common-law fields keep their own requirements. California may supply receiver-protective rules; the Court decides neither their existence nor their application here. This is not a rule that every FDIC action necessarily uses state law.
 
 ## Separate Writings
 
-
+Stevens concurs, joined by Blackmun, O'Connor and Souter, while all four join the entire Court opinion. Federal judicial restraint does not require California's common law to remain fixed or dictate imputation against the receiver. Erie distinguishes a federal court's creation of a new national rule from legitimate state common-law development. State courts may adapt their own rules to the displacement of fraudulent insiders and protection of innocent creditors within their lawmaking authority; a federal court adjudicating these claims must ascertain California law rather than invent a federal substitute. The availability and content of any California receiver-protective rule remain unresolved. This explanation does not establish a new federal exception, direct California to excuse imputation, or find malpractice proved. Its state-law-development emphasis is a noncontrolling concurrence, not an alternative Court holding.
 
 ## Procedure After Action
 
-The New York Court of Appeals is reversed on both grounds supporting its facial judgment, and the case is remanded for proceedings consistent with the limited rejection of facial preemption. The facial injunction cannot rest on those grounds. Concrete challenges to inadequate exempt supply, arbitrary approval or territory allocation, and excessive compliance burdens remain available on an actual record. No particular quota, tax collection from a tribe or treaty objection is adjudicated.
+The case returns for consideration of California imputation, estoppel, professional duty and other preserved state-law questions. The unexplained original summary judgment is not automatically reinstated. No duty, breach, causation, loss amount, investor assignment, statute-of-frauds defense or adverse-interest exception is finally decided. The alleged client losses remain claims; an ADSB subsidiary's rescission payments to investors are not the reimbursement sought in this action. FIRREA's temporal reach remains open if a later necessary issue actually depends on it. No damages or refund is ordered.
 
 ## Source Notes
 
-The [official report, 512 U.S. 61](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512061/usrep512061.pdf), 64–70 and 77 n.11, and the [New York Court of Appeals opinion, 81 N.Y.2d 417](https://www.law.cornell.edu/nyctap/081_0417.htm), support the program, lower grounds and facial posture. The official report identifies the reproduced 1992 regulations as 20 N.Y.C.R.R. §§336.6–336.7; the lower text uses §335 numbering. The original codification was not independently recovered, so no substantive amendment is inferred from that numbering difference. The complete underlying audit record and every brief were not independently recovered. The reported ratios support the asserted collection problem, not individual tax-evasion findings.
+The [official report, 512 U.S. 79](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512079/usrep512079.pdf), 81–89, supplies argument and decision dates, conservatorship/receivership/substitution chronology and the succession clause. The [Ninth Circuit opinion, 969 F.2d 744](https://static.case.law/f2d/969/html/0744-01.html), 746–752, supplies the engagement dispute, unexplained summary judgment, state causes and express distinction between client losses and investors' rescission payments. FIRREA's identified provisions have distinct functions; no omitted exception or retroactivity command is inferred. Full engagement proof and all underlying loss records were not independently recovered. No finding of liability, damages or a California exception is supplied by the reported summary-judgment posture.
 
 ---
 
-<!-- source-record: Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md -->
+<!-- source-record: Romano_v_Oklahoma_merits_1994-06-13.md -->
 ## Event
 
-Howlett v. Birkdale Shipping Co., S.A., No. 93-670; 512 U.S. 92. Argued April 20, 1994; decided June 13, 1994. On writ of certiorari to the Third Circuit, 998 F.2d 1003, which affirmed without opinion summary judgment for the vessel. The questions concern the vessel's limited turnover duty to warn of a latent cargo-stow hazard and the proper knowledge and obviousness inquiries.
+Romano v. Oklahoma, No. 92-9093; 512 U.S. 1. Argued March 22, 1994; decided June 13, 1994. On writ of certiorari to the Oklahoma Court of Criminal Appeals, 847 P.2d 368 (1993). The limited question is whether admitting evidence that a capital defendant has already received a death sentence in another case impermissibly undermines the present sentencing jury's responsibility under the Eighth and Fourteenth Amendments. Review concerns the Sarfaty penalty judgment; it does not reopen guilt or adjudicate the independent Thompson prosecution.
 
-Render form: compact. Basis: a unanimous judgment and one complete Opinion of the Court permit a unified account of the rule and its qualifications.
+The State introduced the Thompson judgment disclosing a conviction, death sentence, execution command and intended appeal despite the defense's offered conviction stipulation and objection to disclosing punishment. The judge explained that the conviction was on appeal and not final. Correct general instructions assigned this jury its sentencing responsibility but did not specifically direct it to disregard the other death choice. The jury found four aggravators: prior violent felony; especially heinous, atrocious or cruel murder; avoidance of arrest or prosecution; and continuing threat. Seventeen mitigating circumstances were submitted. At least one aggravator had to be found unanimously beyond a reasonable doubt, and the jury had to find aggravation outweighed mitigation; the weighing itself was not assigned that proof standard.
+
+After reversal of the Thompson conviction for improper joinder, the state appellate court removed the prior-violent-felony aggravator and reweighed the remaining three before sustaining death. It continued to treat underlying conduct as relevant to future danger because reversal was not for evidentiary insufficiency. It separately found the other death sentence irrelevant but rejected the constitutional objection. The later reported Thompson reconviction and death sentence were not information known to the Sarfaty jury.
+
+Render form: full. Basis: the 5–4 judgment and fractured further-remedy positions require separate judgment and opinion tables.
 
 ## Participation
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or other nonparticipation is established.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No case-specific nonparticipation is established.
 
 ## Public Action
 
-The judgment is vacated and remanded, 9–0.
+The Oklahoma Court of Criminal Appeals' judgment is vacated insofar as it sustains the Sarfaty death sentence, and the case is remanded, 5–4. The conviction is untouched. A five-Justice responsibility holding governs the remand; neither detailed further-remedy proposal commands a majority.
 
 ## Judgment & Remedy
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Turnover-warning summary judgment and proper knowledge/obviousness inquiry | Vacated and remanded, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | No opposing Justice | The Third Circuit's judgment is vacated and the case remanded for reconsideration of the turnover-warning claim on the full summary-judgment record under the stated duty. The lower courts must distinguish evidence of actual vessel knowledge from the condition facing a competent unloading stevedore and address the contrary visibility evidence. Renewed summary judgment remains possible; the Court orders neither trial, compensation, a negligence finding nor a finding of causation. |
+| Oklahoma appellate judgment sustaining the Sarfaty death sentence | Vacate to that extent and remand, 5–4 | Stone-Zsela, Blackmun, Stevens, Souter, Ginsburg | O'Connor, Scalia, Kennedy, Thomas | Further proceedings under the controlling responsibility rule; guilt and Thompson remain untouched. |
+
+The Court vacates the portion of the appellate judgment sustaining death. It does not separately order the trial sentence automatically void or declare it enforceable. The further remedial question returns to the state court under governing law.
+
+| Further-remedy position | Justices | Exact scope |
+|---|---|---|
+| Require a new penalty hearing if the State continues to seek death | Blackmun, Stevens, Souter, Ginsburg | Four would set aside the death sentence and require a constitutionally adequate hearing, excluding the separate death judgment and preserving independently admissible conduct. Blackmun accepts this minimum case-specific relief while separately seeking noncapital relief on his broader ground. |
+| First require constitutional harmless-error review | Stone-Zsela | He would require the State to prove beyond a reasonable doubt that the disclosure did not contribute to selection of death; if the State fails, require a new penalty hearing without the separate death judgment if it continues to seek death. No harmlessness conclusion is made here. |
+| Affirm the reviewed judgment on no-error grounds | O'Connor, Scalia, Kennedy, Thomas | They find no federal constitutional violation and adopt no conditional harmlessness disposition. |
+
+These are four, one and four positions on the further route, not a second majority or an equal division. No majority settles whether a new constitutional harmlessness determination can permit retention of the existing sentence. The Court neither orders automatic life imprisonment nor compels the State to seek death.
 
 ## Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Kennedy | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Entire judgment | Entire opinion, including every holding and the bounded remand |
+| Opinion of the Court on responsibility and common vacatur/remand; plurality on further remedy | Souter | Stone-Zsela, Blackmun, Stevens, Ginsburg on responsibility and common vacatur/remand; Blackmun, Stevens, Ginsburg on the additional new-hearing direction | Vacate the death-sustaining appellate judgment and remand | Five join the two controlling holdings. Only four require an unconditional new penalty hearing if death is pursued. Blackmun preserves his broader noncapital preference. |
+| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Joins responsibility and common vacatur/remand, but not the plurality's unconditional new-hearing instruction | Requires a first constitutional harmlessness inquiry, then a new penalty hearing if the State fails to carry its burden and continues to seek death. |
+| Concurrence | Blackmun | No other Justice | Joins the case-specific responsibility holding and minimum new-hearing position while seeking broader relief | Independently objects to capital punishment as presently administered and would require a lawful noncapital disposition; does not agree that a new capital hearing answers that objection. |
+| Dissent | O'Connor | Scalia, Kennedy, Thomas | Would affirm the modified three-aggravator judgment | Narrower Caldwell ground, independent ordinary-due-process rejection, and rejection of a general constitutional evidence-code theory. |
+
+The responsibility rule and limited vacatur/remand have five express joins. The additional remedial direction is a plurality position. No Marks rationale is declared for the competing further-remedy theories.
 
 ## Holdings
 
-### The cargo turnover-warning duty is limited by the vessel’s assigned care
+### Another jury's death decision cannot displace the present jury's responsibility
 
-**Controlling proposition:** A vessel must warn an unloading stevedore of a hazard the vessel knows or should know through its required reasonable care, likely to be encountered in the work and neither known nor obvious to, nor reasonably anticipated by, a competent stevedore. For a cargo-stow hazard, that duty does not ordinarily require supervising independent loading operations or inspecting their completed work; an established contract, positive law or custom may alter that allocation, but none is established here.
+**Controlling proposition:** The Eighth and Fourteenth Amendments forbid the State to present an irrelevant death sentence imposed by another jury in circumstances that substantially invite the present capital jury to treat its own choice of death as already made elsewhere. This contextual rule extends Caldwell's protection beyond an inaccurate description of legal responsibility; it requires more than a speculative possibility of influence, preserves independently admissible prior-conduct evidence, and leaves open whether a focused instruction can prevent the distortion in a different record.
 
-**Authority:** Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited turnover-warning rule and rejection of a general cargo-inspection duty.
+**Authority:** Responsibility portion of Souter's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices adopt this rule and its application to the Sarfaty penalty proceeding. Blackmun's additional objection to capital punishment does not limit his join in this case-specific responsibility reasoning.
 
-**Controlling explanation:** The Court holds that reasonable care must be measured by the work the vessel is required to perform. Section 905(b) authorizes negligence liability and excludes the warranty of seaworthiness; ownership and an onboard injury therefore do not establish liability. Scindia assigns primary cargo-work responsibility to the expert stevedore while preserving the vessel's own turnover duties. Burnside supplies ordinary care, not responsibility for every contractor-created hazard. Howlett's proposed land-contractor analogy would require reasonable inspections during or after loading, not merely prohibit careless supervision once undertaken. Even that limited inspection demand would redistribute the cargo responsibility Scindia preserves unless contract, law or custom provides it. The Court rejects the asserted general duty to supervise the foreign stevedore or inspect the completed stow. It does not erase knowledge the crew actually acquired while performing vessel work. Nor does the phrase should know create a discovery duty by itself. Active-control and intervention duties remain distinct and are not substitute theories in this turnover-only claim.
-
-**Precedent treatment:**
-
-- Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156: applies the allocation of cargo responsibility and specifies its limited turnover warning duty; the separate active-control and intervention duties remain intact.
-- Federal Marine Terminals, Inc. v. Burnside Shipping Co., 394 U.S. 404: preserves ordinary care within the vessel's legally assigned responsibilities, without a universal contractor-inspection rule.
-
-**Limits and questions not reached:** The Court does not establish a contract, positive-law or customary enlargement of the vessel's duties. Section 905(b)'s bar on direct or indirect employer liability to the vessel for these damages and contrary agreements remains; no indemnity or seaworthiness claim is revived.
-
-### Knowledge and obviousness require the correct actor and time on remand
-
-**Controlling proposition:** The turnover-warning claim must be reconsidered because possible crew knowledge during loading and a hazard's visibility to a competent unloading stevedore are distinct inquiries. Supplying plastic alone does not prove knowledge of its dangerous placement, and loading-stage visibility does not itself establish unloading-stage obviousness; the full record may still support summary judgment, and no negligence, latent hazard, causation or damages is found here.
-
-**Authority:** Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this application and bounded vacatur and remand.
-
-**Controlling explanation:** The Court holds that the rejection of a general inspection duty does not resolve the evidence of actual knowledge. Scindia's warning rule requires both qualifying vessel knowledge and a danger the competent unloading stevedore would not know, find obvious or reasonably anticipate. The vessel supplied plastic, and crew members were present during aspects of loading. Those circumstances require examination with the other evidence; neither alone conclusively proves awareness of the dangerous arrangement. The district court also reasoned that a condition visible during loading would be obvious. That reasoning joins different actors, times and conditions. Bags might obscure what had earlier been visible, yet Howlett's own witnesses described plastic visible during discharge, including from above. The Court does not suppress that adverse evidence or equate his subjective surprise with a latent hazard. No separate constructive-knowledge basis beyond the rejected broad inspection theory has been established. Actual knowledge thus remains material. The lower courts must reassess the record under the correct distinctions without an automatic trial or liability order.
+**Controlling explanation:** The Court holds that a capital jury must own the sentencing choice entrusted to it. Caldwell protects that responsibility against official information that directs it elsewhere. The Court extends that principle to this different evidentiary mechanism. The Thompson judgment carried both another jury's death determination and an execution command, although the defense offered to stipulate to the conviction. That avoidable addition concerned punishment, not merely criminal conduct. The exhibit's truth, the notice of appeal and correct general instructions deserve weight, but none specifically withdrew the suggestion that another jury had already made the decisive choice. Darden involved guilt-stage remarks that increased responsibility; Dugger resolved procedural default without deciding the underlying Caldwell claim; Sawyer addressed a new-rule question on collateral review. Their narrower descriptions are substantial contrary authority, but do not resolve this direct-review extension. The inquiry considers the presentation's prominence, prosecutorial use, avoidable inclusion and any focused corrective instruction without making a speculative possibility sufficient. The Court finds the constitutional distortion on this record, not actual abdication by an identified juror. It decides neither a general evidentiary code nor whether a focused instruction could suffice elsewhere.
 
 **Precedent treatment:**
 
-- Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156: applies the distinct vessel-knowledge and competent-stevedore warning conditions to the actual turnover setting; neither condition is presumed from the accident.
+- Caldwell v. Mississippi, 472 U.S. 320 (1985): its responsibility protection is extended to an official disclosure of another jury's death selection that substantially invites displacement of the current choice; the Court does not pretend the earlier facts already decided this question.
+- Darden v. Wainwright, 477 U.S. 168 (1986): its guilt-stage setting and remarks increasing responsibility are distinguished; its separate fundamental-unfairness standard remains intact.
+- Dugger v. Adams, 489 U.S. 401 (1989): its procedural-default holding is preserved; its description of the ordinary misstatement claim does not preclude the extension adopted here.
+- Sawyer v. Smith, 497 U.S. 227 (1990): its collateral-review new-rule holding is preserved; no nonretroactivity bar enters this direct review.
 
-**Limits and questions not reached:** The Court does not attribute knowledge to the vessel merely because somebody aboard might have seen material. Actual crew role, awareness and unloading visibility remain questions for proper summary-judgment assessment; renewed summary judgment remains possible.
+### Earlier aggravator reweighing does not resolve the responsibility error
+
+**Controlling proposition:** The state appellate court's deletion of the prior-violent-felony aggravator and reweighing of the remaining three do not themselves resolve the distinct constitutional error in presenting another jury's death selection. Its judgment is vacated only insofar as it sustains the Sarfaty death sentence, and the case is remanded for further proceedings under the responsibility holding; the Court establishes no controlling choice between a required new penalty hearing and a first constitutional harmless-error inquiry.
+
+**Authority:** Common disposition and prior-reweighing portion of Souter's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five adopt this limited proposition and appellate vacatur/remand; their different further-remedy positions are not a single holding.
+
+**Controlling explanation:** The Court holds that removing one aggravator did not answer the responsibility question. Caldwell protects the jury's independent choice whether death is appropriate, while the state court's reweighing removed a predicate for aggravation after the Thompson conviction was reversed. The remaining three aggravators concern eligibility and the balance of aggravation and mitigation; their existence alone does not determine the effect of the other jury's punishment decision on selection. The state court sustained death without applying the responsibility rule adopted today. Its judgment therefore cannot stand on that analysis. This conclusion neither invalidates appellate reweighing generally nor establishes that the disclosure was harmless or incapable of harmlessness. Five Justices agree to the limited vacatur and remand, but do not agree on the further remedial instruction. The Court preserves that distinction instead of attributing either proposed route to a majority. The guilt adjudication and independent Thompson proceedings are outside this penalty question and remain untouched.
+
+**Precedent treatment:**
+
+- Caldwell v. Mississippi, 472 U.S. 320 (1985): its independent-responsibility protection identifies an error distinct from an invalid aggravator; earlier reweighing does not automatically answer it.
+- Johnson v. Mississippi, 486 U.S. 578 (1988): the invalid-prior-conviction problem remains distinct from the responsibility error; removing the prior-violent-felony aggravator does not decide the latter.
+
+**Limits and questions not reached:** No majority determines whether the existing sentence may be retained following a new constitutional harmlessness determination or whether a new penalty hearing is required whenever the State continues to seek death. No independently sufficient ordinary due-process holding, general constitutional evidence code, or Court-wide ruling on the validity of capital punishment is adopted. No actual juror mental state, inevitable execution, harmlessness finding, automatic life sentence, acquittal or release is found or ordered.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. No precedent is overruled. Scindia retains its separate turnover, active-control and intervention duties. American Dredging and McDermott do not enlarge the underlying vessel-negligence duty.
+Caldwell's responsibility protection is extended to the described official evidentiary disclosure. Darden, Dugger and Sawyer retain their holdings in their distinct settings. Johnson v. Mississippi's invalid-predicate question remains separate. Estelle's ordinary evidentiary due-process boundary, Lashley's limited instruction rule, and Graham and Johnson v. Texas's effective-mitigation holdings are unchanged. No precedent is overruled. Chapman supplies the Chief Justice's proposed further-remedy standard, but the Court adopts no majority holding applying or rejecting that standard for this error.
 
 ## Law After Decision
 
-Effective June 13, 1994, the limited turnover-warning duty applies to cargo-stow hazards without imposing a general obligation to supervise independent loading or inspect the completed stow. Knowledge discoverable through reasonable care remains tied to a duty the vessel actually has; it does not create the rejected inspection obligation. Contract, positive law and custom retain their capacity to alter ordinary allocation when established.
-
-The relevant perception is that of a competent unloading stevedore performing the work, not only the injured longshoreman's subjective awareness and not automatically that of the foreign loader. Actual crew knowledge acquired in vessel operations remains relevant; providing plastic or crew presence does not establish it conclusively. Here no independent constructive-knowledge basis beyond the rejected inspection theory is established. The remand concerns proper treatment of actual-knowledge evidence and the separate unloading inquiry, not elimination of actual knowledge as a material requirement on the presented theory.
-
-Section 905(b) preserves a covered person's negligence action against the vessel as a third party and excludes liability based on the seaworthiness warranty. It bars shifting those damages to the employer directly or indirectly and renders contrary agreements or warranties ineffective within that provision. The independent stevedore's alleged negligence is not automatically vessel negligence. The Court decides only the turnover-warning claim; active-control, intervention, settlement allocation and forum rules do not supply additional holdings here.
+Effective June 13, 1994, the State may not present an irrelevant separate death determination in circumstances substantially inviting the present capital jury to relinquish its own sentencing responsibility. The rule requires contextual assessment, does not forbid independently admissible prior-conduct evidence, and does not decide whether a focused instruction could prevent the distortion in another case. The earlier deletion and reweighing of an aggravator does not itself resolve the responsibility error. The Court adopts no controlling choice between the two proposed further-remedy routes. The independent ordinary-due-process claim is not reached by the controlling opinion, and neither a general constitutional rule excluding every irrelevant capital-sentencing item nor a general prohibition of capital punishment becomes law.
 
 ## Separate Writings
 
+Souter's further-remedy discussion is joined by Blackmun, Stevens and Ginsburg. Those four would set aside the death sentence and require a new penalty hearing if the State continues to seek death, because they cannot exclude its effect on the jury's overall responsibility. Caldwell's protection concerns the independent sentencing choice; general instructions, appeal notice and the earlier reweighing do not remove the risk they identify. Even assuming this error is amenable to Chapman's inquiry, they conclude that an effect on the selection of death cannot be excluded on this record and refuse to reopen that conclusion through another harmlessness assessment. They do not find an identified juror's actual thoughts or announce that every evidentiary error in capital sentencing is structural. Guilt and independently admissible conduct remain untouched. That direction has four votes.
 
+Chief Justice Stone-Zsela concurs in the responsibility holding and limited appellate vacatur/remand. Under Chapman, he would first require the State to prove beyond a reasonable doubt that the unconstitutional disclosure did not contribute to the selection of death. Eligibility for death does not establish harmlessness concerning its selection: neither the four findings originally made by the jury nor the three aggravators remaining after appellate reweighing answers that question. Conversely, the constitutional violation does not by itself establish that the error is structural and immune from harmless-error review. The original reweighing did not apply the new responsibility rule, and the Court should not make a conclusive prejudice determination without the required record-based inquiry. If the State fails to establish constitutional harmlessness and continues to seek death, he would require a new penalty hearing without the irrelevant separate death judgment. Independently admissible prior-conduct evidence and the guilt adjudication remain available and untouched, respectively. His responsibility rule considers the prominence and prosecutorial use of the information, its avoidable inclusion in proof of conviction, and any specific corrective instruction; it does not require exclusion of relevant conduct or declare that no focused instruction could ever suffice. He does not adopt ordinary due process as an alternative sufficient ground. His proposed harmlessness route has no other join and is not the Court's further-remedy instruction.
+
+Justice Blackmun concurs in the case-specific responsibility holding and accepts the plurality's new-hearing relief as a minimum, while independently concluding that capital punishment as presently administered cannot provide the consistency, individualized fairness and reliability required by the Eighth Amendment. His objection remains even if the challenged disclosure is removed. The guided-sentencing structure sustained in Gregg and Jurek seeks to reconcile restraint of arbitrary punishment with individual consideration; in his view, narrowing eligibility and permitting full mitigation still leave arbitrary selection among eligible offenders. Lockett and Eddings protect individual mitigating consideration, and Graham and Johnson v. Texas enforce that protection. He joined the latter decisions; they are not examples of the Court refusing effective mitigation. He nevertheless considers that protection insufficient to answer the separate selection problem. His position leaves theoretically open procedures that truly provide consistency, fairness and reliability, although he doubts they can be achieved. He would vacate death and require a lawful noncapital disposition through state proceedings, without selecting a particular punishment, acquittal or release. He makes no new finding about Romano's innocence, race, counsel or discriminatory treatment. This position is his alone; it neither overrules Gregg or Jurek nor turns a general challenge to capital punishment into a party claim within the limited question presented.
+
+Justice O'Connor dissents, joined by Justices Scalia, Kennedy and Thomas. Caldwell, as explained by Darden, Dugger and Sawyer, requires misleading information about the jury's legal responsibility. The exhibit was true when admitted, appeal information made its nonfinality explicit, and the instructions accurately assigned the present jury its own choice. The possibility that another death sentence influenced deliberations does not establish the required misdescription. The four separately reject ordinary due-process relief because the entire proceeding does not cross Donnelly and Darden's fundamental-unfairness threshold. Estelle preserves the distinction between state-law irrelevance and federal constitutional error. Truth is not categorical immunity from all other constitutional objections, and correct general instructions are not an automatic cure in every case. But this record does not establish either asserted violation for these Justices. Woodson and Lockett protect individualized sentencing rather than a federal evidence code. Zant's concern with aggravation based on constitutionally protected conduct is not the present objection; Johnson v. Mississippi's invalid-predicate concern is distinct because the prior-violent-felony aggravator was removed and three others reweighed. That decision differs from Johnson v. Texas's mitigation holding. The dissent does not endorse the irrelevant exhibit, restore the deleted aggravator, use later Thompson proceedings as a cure, or treat eligibility as harmlessness. Its no-error conclusion makes a conditional harmless-error position unnecessary.
 
 ## Procedure After Action
 
-The Third Circuit's judgment is vacated and the case remanded for reconsideration of the turnover-warning claim on the full summary-judgment record under the stated duty. The lower courts must distinguish evidence of actual vessel knowledge from the condition facing a competent unloading stevedore and address the contrary visibility evidence. Renewed summary judgment remains possible; the Court orders neither trial, compensation, a negligence finding nor a finding of causation.
+The case returns to the Oklahoma Court of Criminal Appeals with its judgment vacated only insofar as it sustains the Sarfaty death sentence. Further proceedings must respect the controlling responsibility holding and the distinction between prior conduct and another jury's death choice. The state court must address the remaining remedial issue under governing law; this Court has not resolved whether a new constitutional harmlessness determination may permit retention of the existing sentence or whether a new hearing must precede any continued pursuit of death. Neither proposed detailed instruction may be attributed to the Court. No guilt retrial, disposition of Thompson, particular replacement sentence, release or execution order is issued.
 
 ## Source Notes
 
-The [official report, 512 U.S. 92](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512092/usrep512092.pdf), 94–106, supplies the cargo record, limited claim, district-court reasons and opinionless Third Circuit affirmance. The [Scindia report, 451 U.S. 156](https://tile.loc.gov/storage-services/service/ll/usrep/usrep451/usrep451156/usrep451156.pdf) supplies the distinct duties and contract, positive-law and custom qualifications. The original district-court order and depositions were not separately recovered; competing reported submissions establish no conclusive knowledge or concealment finding. No reasoned appellate opinion, liability fact or quoted Court language is invented.
+The [official report, 512 U.S. 1](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512001/usrep512001.pdf), at 3–6, 11, 17 and 24 n.6, supplies dates, review scope, the exhibit, appeal information and reported instructions. The [Oklahoma opinion, 847 P.2d 368](https://static.case.law/p2d/847/html/0368-01.html), at 389–394, supplies the distinct relevance ruling, deletion of the prior-violent-felony aggravator and reweighing of three remaining aggravators. The [official Caldwell report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep472/usrep472320/usrep472320.pdf) supports the antecedent responsibility principle and its separate writings; the [official Chapman report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep386/usrep386018/usrep386018.pdf) supports the direct-review standard discussed in the concurrence. The full original trial transcript, actual instruction sheets and every party brief are not independently available here; the reported particulars do not establish additional prosecutorial emphasis, actual juror thought or a preserved general challenge to capital punishment. No decisional quotation is asserted.
 
 ---
 
@@ -815,195 +829,6 @@ The [official report, 512 U.S. 107](https://tile.loc.gov/storage-services/servic
 
 ---
 
-<!-- source-record: OMelveny_Myers_v_FDIC_merits_1994-06-13.md -->
-## Event
-
-O’Melveny & Myers v. FDIC, No. 93-489; 512 U.S. 79. Argued March 21, 1994; decided June 13, 1994. On writ of certiorari to the Ninth Circuit, 969 F.2d 744, which reversed an unexplained summary judgment for the law firm and used federal common law to reject defenses to the receiver's acquired California claims. The question is whether federal or California law governs imputation and related defenses, not whether malpractice or damages have been proved. Render form: full. Basis: the independently sufficient pre-FIRREA ground, conditional statutory construction and separate state-law explanation are stated distinctly.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or nonparticipation is established.
-
-## Public Action
-
-The Ninth Circuit's federal-common-law judgment is reversed, and the case is remanded, 9–0.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Source of law governing imputation and related defenses to acquired California claims | Reverse and remand, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Determine preserved California questions without a federal anti-imputation exception; no judgment on liability or damages. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court, Parts I and II | Scalia | Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg | Reverse and remand | State-law and independently sufficient pre-FIRREA ground; conditional FIRREA construction; temporal and merits reservations |
-| Concurrence | Stevens | Blackmun, O'Connor, Souter | Joins the Court and judgment | Explains the distinct authority of state courts to develop state common law without dictating California's answer |
-
-## Holdings
-
-### These acquired California claims carry California imputation law
-
-**Controlling proposition:** On the pre-FIRREA framework, California law governs imputation and related defenses to the institution's California negligence and fiduciary-duty claims acquired by the federal receiver: fund protection, greater recovery and general administrative uniformity do not establish the particular significant conflict with federal policy required for the proposed federal exception. The Ninth Circuit's federal-common-law ruling is reversed and the case remanded to determine the preserved state-law questions, without directing judgment for either party.
-
-**Authority:** Part I of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt the same pre-FIRREA ground, independently sufficient to reject the proposed rule without deciding FIRREA's temporal reach.
-
-**Controlling explanation:** The Court holds that acquiring a state-created claim does not ordinarily enlarge it by federal judicial decree. Erie denies general federal common law; Wallis requires a particular significant conflict before a special federal rule displaces state law. Boyle preserves exceptional displacement when its federal-interest and conflict requirements are met, rather than making federal involvement enough. Kimbell Foods shows that even rights generated by federal programs do not invariably require nationally uniform rules. Here the receiver sues on the institution's professional-negligence and fiduciary-duty rights. The strongest contrary argument is that imputation reduces recoveries for innocent creditors and the federal insurance fund after the dishonest officers lose control. That policy supplies no limiting principle identifying the required conflict: more recovery would benefit a federal claimant in virtually any lawsuit. United States v. Texas preserved an established federal debt-interest rule in a different setting. California's own imputation, adverse-interest and receiver doctrines must be considered without assuming their answer. The Court neither decides liability nor abolishes established categories of federal common law.
-
-**Precedent treatment:**
-
-- Erie Railroad v. Tompkins, 304 U.S. 64: applies the absence of general federal common law to privately generated state causes; exceptional federal fields are not abolished.
-- Wallis v. Pan American Petroleum Corp., 384 U.S. 63: applies its requirement of an identified significant conflict with federal policy; ordinary federal financial interests are insufficient here.
-- Boyle v. United Technologies Corp., 487 U.S. 500: preserves federal-interest and conflict prerequisites for exceptional displacement; the necessary conflict is absent in these acquired claims.
-- United States v. Kimbell Foods, Inc., 440 U.S. 715: distinguishes federally generated program rights and preserves its rejection of automatic nationwide uniformity even there.
-- United States v. Texas, April 5, 1993: distinguishes the established federal delay-compensation obligation on an assumed federal debt; it supplies no new receiver exemption from state tort defenses.
-- FDIC v. Meyer, February 23, 1994: preserves the separation of sovereign consent, federal-party status and substantive cause of action; this action remains state created.
-
-### FIRREA, if applicable, supplies no additional anti-imputation rule
-
-**Controlling proposition:** If FIRREA governs these claims, §1821(d)(2)(A)(i) transfers the institution's rights, titles, powers and privileges to the FDIC subject to the legal incidents of those rights and the federal exceptions Congress actually enacted; it does not authorize adding the proposed federal exemption from California imputation law. The Court leaves FIRREA's temporal reach unresolved because the independently sufficient pre-FIRREA analysis produces the same state-law remand.
-
-**Authority:** Part II of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt this conditional statutory construction and its temporal reservation. It is not a finding that FIRREA applies retrospectively.
-
-**Controlling explanation:** The Court holds that FIRREA does not authorize the additional rule the receiver requests. Its succession provision transfers the institution's rights; it does not recast every state claim as an enlarged federal one. Congress separately addressed limitations in §1821(d)(14), contract repudiation and its consequences in §1821(e)(1) and (3), officer and director liability in §1821(k), and certain agreements in §1821(d)(9). Those provisions address different subjects and cannot be combined into a residual power to disregard ordinary imputation. The FDIC argues that protecting the insurance fund warrants filling the statutory silence. In this setting silence leaves the acquired rights and enacted exceptions in place; it does not delegate creation of any additional advantage that might increase recovery. This conclusion does not determine the application of any listed exception to a properly presented different claim. Landgraf requires a separate temporal inquiry when application of later legislation matters. Because the pre-FIRREA ground already resolves the proposed federal rule, no such determination is necessary here. California's substantive answer and the firm's professional liability remain open.
-
-**Precedent treatment:**
-
-- Erie Railroad v. Tompkins, 304 U.S. 64: preserves state substantive law where no enacted or otherwise valid federal displacement is established.
-- Boyle v. United Technologies Corp., 487 U.S. 500: remains available within its actual exceptional-federal-law requirements; this construction does not occupy every federal common-law field.
-- Landgraf v. USI Film Products, April 26, 1994: preserves its temporal-direction and new-consequences framework; FIRREA's temporal application is unnecessary to decide and is not presumed.
-
-**Limits and questions not reached:** The Court does not decide California imputation, adverse-interest exceptions, estoppel, engagement scope, duty, breach, causation, recoverable client losses, assigned investor claims, a statute-of-frauds defense, or FIRREA's temporal reach. Reversal does not reinstate the unexplained district-court summary judgment. The complaint does not seek reimbursement of the investors' rescission payments.
-
-## Precedent Treatment
-
-The treatments in the holding blocks govern. United States v. Texas retains its established federal debt-interest rule, and Boyle retains its exceptional displacement inquiry. Meyer does not supply a federal malpractice cause. Landgraf's temporal rule is left intact because the same outcome follows without resolving FIRREA's temporal application. No precedent is overruled.
-
-## Law After Decision
-
-Effective June 13, 1994, federal receivership, a desire for greater recovery and general uniformity do not create a federal exception to California imputation and related defenses in these acquired California claims. The independent pre-FIRREA rule and conditional FIRREA construction both require the same state-law inquiry. Enacted federal exceptions and established federal common-law fields keep their own requirements. California may supply receiver-protective rules; the Court decides neither their existence nor their application here. This is not a rule that every FDIC action necessarily uses state law.
-
-## Separate Writings
-
-Stevens concurs, joined by Blackmun, O'Connor and Souter, while all four join the entire Court opinion. Federal judicial restraint does not require California's common law to remain fixed or dictate imputation against the receiver. Erie distinguishes a federal court's creation of a new national rule from legitimate state common-law development. State courts may adapt their own rules to the displacement of fraudulent insiders and protection of innocent creditors within their lawmaking authority; a federal court adjudicating these claims must ascertain California law rather than invent a federal substitute. The availability and content of any California receiver-protective rule remain unresolved. This explanation does not establish a new federal exception, direct California to excuse imputation, or find malpractice proved. Its state-law-development emphasis is a noncontrolling concurrence, not an alternative Court holding.
-
-## Procedure After Action
-
-The case returns for consideration of California imputation, estoppel, professional duty and other preserved state-law questions. The unexplained original summary judgment is not automatically reinstated. No duty, breach, causation, loss amount, investor assignment, statute-of-frauds defense or adverse-interest exception is finally decided. The alleged client losses remain claims; an ADSB subsidiary's rescission payments to investors are not the reimbursement sought in this action. FIRREA's temporal reach remains open if a later necessary issue actually depends on it. No damages or refund is ordered.
-
-## Source Notes
-
-The [official report, 512 U.S. 79](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512079/usrep512079.pdf), 81–89, supplies argument and decision dates, conservatorship/receivership/substitution chronology and the succession clause. The [Ninth Circuit opinion, 969 F.2d 744](https://static.case.law/f2d/969/html/0744-01.html), 746–752, supplies the engagement dispute, unexplained summary judgment, state causes and express distinction between client losses and investors' rescission payments. FIRREA's identified provisions have distinct functions; no omitted exception or retroactivity command is inferred. Full engagement proof and all underlying loss records were not independently recovered. No finding of liability, damages or a California exception is supplied by the reported summary-judgment posture.
-
----
-
-<!-- source-record: Romano_v_Oklahoma_merits_1994-06-13.md -->
-## Event
-
-Romano v. Oklahoma, No. 92-9093; 512 U.S. 1. Argued March 22, 1994; decided June 13, 1994. On writ of certiorari to the Oklahoma Court of Criminal Appeals, 847 P.2d 368 (1993). The limited question is whether admitting evidence that a capital defendant has already received a death sentence in another case impermissibly undermines the present sentencing jury's responsibility under the Eighth and Fourteenth Amendments. Review concerns the Sarfaty penalty judgment; it does not reopen guilt or adjudicate the independent Thompson prosecution.
-
-The State introduced the Thompson judgment disclosing a conviction, death sentence, execution command and intended appeal despite the defense's offered conviction stipulation and objection to disclosing punishment. The judge explained that the conviction was on appeal and not final. Correct general instructions assigned this jury its sentencing responsibility but did not specifically direct it to disregard the other death choice. The jury found four aggravators: prior violent felony; especially heinous, atrocious or cruel murder; avoidance of arrest or prosecution; and continuing threat. Seventeen mitigating circumstances were submitted. At least one aggravator had to be found unanimously beyond a reasonable doubt, and the jury had to find aggravation outweighed mitigation; the weighing itself was not assigned that proof standard.
-
-After reversal of the Thompson conviction for improper joinder, the state appellate court removed the prior-violent-felony aggravator and reweighed the remaining three before sustaining death. It continued to treat underlying conduct as relevant to future danger because reversal was not for evidentiary insufficiency. It separately found the other death sentence irrelevant but rejected the constitutional objection. The later reported Thompson reconviction and death sentence were not information known to the Sarfaty jury.
-
-Render form: full. Basis: the 5–4 judgment and fractured further-remedy positions require separate judgment and opinion tables.
-
-## Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No case-specific nonparticipation is established.
-
-## Public Action
-
-The Oklahoma Court of Criminal Appeals' judgment is vacated insofar as it sustains the Sarfaty death sentence, and the case is remanded, 5–4. The conviction is untouched. A five-Justice responsibility holding governs the remand; neither detailed further-remedy proposal commands a majority.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Oklahoma appellate judgment sustaining the Sarfaty death sentence | Vacate to that extent and remand, 5–4 | Stone-Zsela, Blackmun, Stevens, Souter, Ginsburg | O'Connor, Scalia, Kennedy, Thomas | Further proceedings under the controlling responsibility rule; guilt and Thompson remain untouched. |
-
-The Court vacates the portion of the appellate judgment sustaining death. It does not separately order the trial sentence automatically void or declare it enforceable. The further remedial question returns to the state court under governing law.
-
-| Further-remedy position | Justices | Exact scope |
-|---|---|---|
-| Require a new penalty hearing if the State continues to seek death | Blackmun, Stevens, Souter, Ginsburg | Four would set aside the death sentence and require a constitutionally adequate hearing, excluding the separate death judgment and preserving independently admissible conduct. Blackmun accepts this minimum case-specific relief while separately seeking noncapital relief on his broader ground. |
-| First require constitutional harmless-error review | Stone-Zsela | He would require the State to prove beyond a reasonable doubt that the disclosure did not contribute to selection of death; if the State fails, require a new penalty hearing without the separate death judgment if it continues to seek death. No harmlessness conclusion is made here. |
-| Affirm the reviewed judgment on no-error grounds | O'Connor, Scalia, Kennedy, Thomas | They find no federal constitutional violation and adopt no conditional harmlessness disposition. |
-
-These are four, one and four positions on the further route, not a second majority or an equal division. No majority settles whether a new constitutional harmlessness determination can permit retention of the existing sentence. The Court neither orders automatic life imprisonment nor compels the State to seek death.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court on responsibility and common vacatur/remand; plurality on further remedy | Souter | Stone-Zsela, Blackmun, Stevens, Ginsburg on responsibility and common vacatur/remand; Blackmun, Stevens, Ginsburg on the additional new-hearing direction | Vacate the death-sustaining appellate judgment and remand | Five join the two controlling holdings. Only four require an unconditional new penalty hearing if death is pursued. Blackmun preserves his broader noncapital preference. |
-| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Joins responsibility and common vacatur/remand, but not the plurality's unconditional new-hearing instruction | Requires a first constitutional harmlessness inquiry, then a new penalty hearing if the State fails to carry its burden and continues to seek death. |
-| Concurrence | Blackmun | No other Justice | Joins the case-specific responsibility holding and minimum new-hearing position while seeking broader relief | Independently objects to capital punishment as presently administered and would require a lawful noncapital disposition; does not agree that a new capital hearing answers that objection. |
-| Dissent | O'Connor | Scalia, Kennedy, Thomas | Would affirm the modified three-aggravator judgment | Narrower Caldwell ground, independent ordinary-due-process rejection, and rejection of a general constitutional evidence-code theory. |
-
-The responsibility rule and limited vacatur/remand have five express joins. The additional remedial direction is a plurality position. No Marks rationale is declared for the competing further-remedy theories.
-
-## Holdings
-
-### Another jury's death decision cannot displace the present jury's responsibility
-
-**Controlling proposition:** The Eighth and Fourteenth Amendments forbid the State to present an irrelevant death sentence imposed by another jury in circumstances that substantially invite the present capital jury to treat its own choice of death as already made elsewhere. This contextual rule extends Caldwell's protection beyond an inaccurate description of legal responsibility; it requires more than a speculative possibility of influence, preserves independently admissible prior-conduct evidence, and leaves open whether a focused instruction can prevent the distortion in a different record.
-
-**Authority:** Responsibility portion of Souter's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices adopt this rule and its application to the Sarfaty penalty proceeding. Blackmun's additional objection to capital punishment does not limit his join in this case-specific responsibility reasoning.
-
-**Controlling explanation:** The Court holds that a capital jury must own the sentencing choice entrusted to it. Caldwell protects that responsibility against official information that directs it elsewhere. The Court extends that principle to this different evidentiary mechanism. The Thompson judgment carried both another jury's death determination and an execution command, although the defense offered to stipulate to the conviction. That avoidable addition concerned punishment, not merely criminal conduct. The exhibit's truth, the notice of appeal and correct general instructions deserve weight, but none specifically withdrew the suggestion that another jury had already made the decisive choice. Darden involved guilt-stage remarks that increased responsibility; Dugger resolved procedural default without deciding the underlying Caldwell claim; Sawyer addressed a new-rule question on collateral review. Their narrower descriptions are substantial contrary authority, but do not resolve this direct-review extension. The inquiry considers the presentation's prominence, prosecutorial use, avoidable inclusion and any focused corrective instruction without making a speculative possibility sufficient. The Court finds the constitutional distortion on this record, not actual abdication by an identified juror. It decides neither a general evidentiary code nor whether a focused instruction could suffice elsewhere.
-
-**Precedent treatment:**
-
-- Caldwell v. Mississippi, 472 U.S. 320 (1985): its responsibility protection is extended to an official disclosure of another jury's death selection that substantially invites displacement of the current choice; the Court does not pretend the earlier facts already decided this question.
-- Darden v. Wainwright, 477 U.S. 168 (1986): its guilt-stage setting and remarks increasing responsibility are distinguished; its separate fundamental-unfairness standard remains intact.
-- Dugger v. Adams, 489 U.S. 401 (1989): its procedural-default holding is preserved; its description of the ordinary misstatement claim does not preclude the extension adopted here.
-- Sawyer v. Smith, 497 U.S. 227 (1990): its collateral-review new-rule holding is preserved; no nonretroactivity bar enters this direct review.
-
-### Earlier aggravator reweighing does not resolve the responsibility error
-
-**Controlling proposition:** The state appellate court's deletion of the prior-violent-felony aggravator and reweighing of the remaining three do not themselves resolve the distinct constitutional error in presenting another jury's death selection. Its judgment is vacated only insofar as it sustains the Sarfaty death sentence, and the case is remanded for further proceedings under the responsibility holding; the Court establishes no controlling choice between a required new penalty hearing and a first constitutional harmless-error inquiry.
-
-**Authority:** Common disposition and prior-reweighing portion of Souter's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five adopt this limited proposition and appellate vacatur/remand; their different further-remedy positions are not a single holding.
-
-**Controlling explanation:** The Court holds that removing one aggravator did not answer the responsibility question. Caldwell protects the jury's independent choice whether death is appropriate, while the state court's reweighing removed a predicate for aggravation after the Thompson conviction was reversed. The remaining three aggravators concern eligibility and the balance of aggravation and mitigation; their existence alone does not determine the effect of the other jury's punishment decision on selection. The state court sustained death without applying the responsibility rule adopted today. Its judgment therefore cannot stand on that analysis. This conclusion neither invalidates appellate reweighing generally nor establishes that the disclosure was harmless or incapable of harmlessness. Five Justices agree to the limited vacatur and remand, but do not agree on the further remedial instruction. The Court preserves that distinction instead of attributing either proposed route to a majority. The guilt adjudication and independent Thompson proceedings are outside this penalty question and remain untouched.
-
-**Precedent treatment:**
-
-- Caldwell v. Mississippi, 472 U.S. 320 (1985): its independent-responsibility protection identifies an error distinct from an invalid aggravator; earlier reweighing does not automatically answer it.
-- Johnson v. Mississippi, 486 U.S. 578 (1988): the invalid-prior-conviction problem remains distinct from the responsibility error; removing the prior-violent-felony aggravator does not decide the latter.
-
-**Limits and questions not reached:** No majority determines whether the existing sentence may be retained following a new constitutional harmlessness determination or whether a new penalty hearing is required whenever the State continues to seek death. No independently sufficient ordinary due-process holding, general constitutional evidence code, or Court-wide ruling on the validity of capital punishment is adopted. No actual juror mental state, inevitable execution, harmlessness finding, automatic life sentence, acquittal or release is found or ordered.
-
-## Precedent Treatment
-
-Caldwell's responsibility protection is extended to the described official evidentiary disclosure. Darden, Dugger and Sawyer retain their holdings in their distinct settings. Johnson v. Mississippi's invalid-predicate question remains separate. Estelle's ordinary evidentiary due-process boundary, Lashley's limited instruction rule, and Graham and Johnson v. Texas's effective-mitigation holdings are unchanged. No precedent is overruled. Chapman supplies the Chief Justice's proposed further-remedy standard, but the Court adopts no majority holding applying or rejecting that standard for this error.
-
-## Law After Decision
-
-Effective June 13, 1994, the State may not present an irrelevant separate death determination in circumstances substantially inviting the present capital jury to relinquish its own sentencing responsibility. The rule requires contextual assessment, does not forbid independently admissible prior-conduct evidence, and does not decide whether a focused instruction could prevent the distortion in another case. The earlier deletion and reweighing of an aggravator does not itself resolve the responsibility error. The Court adopts no controlling choice between the two proposed further-remedy routes. The independent ordinary-due-process claim is not reached by the controlling opinion, and neither a general constitutional rule excluding every irrelevant capital-sentencing item nor a general prohibition of capital punishment becomes law.
-
-## Separate Writings
-
-Souter's further-remedy discussion is joined by Blackmun, Stevens and Ginsburg. Those four would set aside the death sentence and require a new penalty hearing if the State continues to seek death, because they cannot exclude its effect on the jury's overall responsibility. Caldwell's protection concerns the independent sentencing choice; general instructions, appeal notice and the earlier reweighing do not remove the risk they identify. Even assuming this error is amenable to Chapman's inquiry, they conclude that an effect on the selection of death cannot be excluded on this record and refuse to reopen that conclusion through another harmlessness assessment. They do not find an identified juror's actual thoughts or announce that every evidentiary error in capital sentencing is structural. Guilt and independently admissible conduct remain untouched. That direction has four votes.
-
-Chief Justice Stone-Zsela concurs in the responsibility holding and limited appellate vacatur/remand. Under Chapman, he would first require the State to prove beyond a reasonable doubt that the unconstitutional disclosure did not contribute to the selection of death. Eligibility for death does not establish harmlessness concerning its selection: neither the four findings originally made by the jury nor the three aggravators remaining after appellate reweighing answers that question. Conversely, the constitutional violation does not by itself establish that the error is structural and immune from harmless-error review. The original reweighing did not apply the new responsibility rule, and the Court should not make a conclusive prejudice determination without the required record-based inquiry. If the State fails to establish constitutional harmlessness and continues to seek death, he would require a new penalty hearing without the irrelevant separate death judgment. Independently admissible prior-conduct evidence and the guilt adjudication remain available and untouched, respectively. His responsibility rule considers the prominence and prosecutorial use of the information, its avoidable inclusion in proof of conviction, and any specific corrective instruction; it does not require exclusion of relevant conduct or declare that no focused instruction could ever suffice. He does not adopt ordinary due process as an alternative sufficient ground. His proposed harmlessness route has no other join and is not the Court's further-remedy instruction.
-
-Justice Blackmun concurs in the case-specific responsibility holding and accepts the plurality's new-hearing relief as a minimum, while independently concluding that capital punishment as presently administered cannot provide the consistency, individualized fairness and reliability required by the Eighth Amendment. His objection remains even if the challenged disclosure is removed. The guided-sentencing structure sustained in Gregg and Jurek seeks to reconcile restraint of arbitrary punishment with individual consideration; in his view, narrowing eligibility and permitting full mitigation still leave arbitrary selection among eligible offenders. Lockett and Eddings protect individual mitigating consideration, and Graham and Johnson v. Texas enforce that protection. He joined the latter decisions; they are not examples of the Court refusing effective mitigation. He nevertheless considers that protection insufficient to answer the separate selection problem. His position leaves theoretically open procedures that truly provide consistency, fairness and reliability, although he doubts they can be achieved. He would vacate death and require a lawful noncapital disposition through state proceedings, without selecting a particular punishment, acquittal or release. He makes no new finding about Romano's innocence, race, counsel or discriminatory treatment. This position is his alone; it neither overrules Gregg or Jurek nor turns a general challenge to capital punishment into a party claim within the limited question presented.
-
-Justice O'Connor dissents, joined by Justices Scalia, Kennedy and Thomas. Caldwell, as explained by Darden, Dugger and Sawyer, requires misleading information about the jury's legal responsibility. The exhibit was true when admitted, appeal information made its nonfinality explicit, and the instructions accurately assigned the present jury its own choice. The possibility that another death sentence influenced deliberations does not establish the required misdescription. The four separately reject ordinary due-process relief because the entire proceeding does not cross Donnelly and Darden's fundamental-unfairness threshold. Estelle preserves the distinction between state-law irrelevance and federal constitutional error. Truth is not categorical immunity from all other constitutional objections, and correct general instructions are not an automatic cure in every case. But this record does not establish either asserted violation for these Justices. Woodson and Lockett protect individualized sentencing rather than a federal evidence code. Zant's concern with aggravation based on constitutionally protected conduct is not the present objection; Johnson v. Mississippi's invalid-predicate concern is distinct because the prior-violent-felony aggravator was removed and three others reweighed. That decision differs from Johnson v. Texas's mitigation holding. The dissent does not endorse the irrelevant exhibit, restore the deleted aggravator, use later Thompson proceedings as a cure, or treat eligibility as harmlessness. Its no-error conclusion makes a conditional harmless-error position unnecessary.
-
-## Procedure After Action
-
-The case returns to the Oklahoma Court of Criminal Appeals with its judgment vacated only insofar as it sustains the Sarfaty death sentence. Further proceedings must respect the controlling responsibility holding and the distinction between prior conduct and another jury's death choice. The state court must address the remaining remedial issue under governing law; this Court has not resolved whether a new constitutional harmlessness determination may permit retention of the existing sentence or whether a new hearing must precede any continued pursuit of death. Neither proposed detailed instruction may be attributed to the Court. No guilt retrial, disposition of Thompson, particular replacement sentence, release or execution order is issued.
-
-## Source Notes
-
-The [official report, 512 U.S. 1](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512001/usrep512001.pdf), at 3–6, 11, 17 and 24 n.6, supplies dates, review scope, the exhibit, appeal information and reported instructions. The [Oklahoma opinion, 847 P.2d 368](https://static.case.law/p2d/847/html/0368-01.html), at 389–394, supplies the distinct relevance ruling, deletion of the prior-violent-felony aggravator and reweighing of three remaining aggravators. The [official Caldwell report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep472/usrep472320/usrep472320.pdf) supports the antecedent responsibility principle and its separate writings; the [official Chapman report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep386/usrep386018/usrep386018.pdf) supports the direct-review standard discussed in the concurrence. The full original trial transcript, actual instruction sheets and every party brief are not independently available here; the reported particulars do not establish additional prosecutorial emphasis, actual juror thought or a preserved general challenge to capital punishment. No decisional quotation is asserted.
-
----
-
 <!-- source-record: United_States_v_Carlton_merits_1994-06-13.md -->
 ## Event
 
@@ -1095,3 +920,178 @@ The Ninth Circuit is reversed and the case remanded for judgment consistent with
 ## Source Notes
 
 The [official report, 512 U.S. 26](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512026/usrep512026.pdf), 28–31, and [Ninth Circuit opinion, 972 F.2d 1051](https://static.case.law/f2d/972/html/1051-01.html), including its statutory reproductions, support the stipulated transaction and legislative chronology. The original statute's breadth is conceded. The lower report's $5,287,500 deduction and official report's $5,287,000 differ; no disposition depends on resolving that discrepancy. Full underlying transaction exhibits and every brief were not independently recovered. No precise new tax or refund award is supplied.
+
+---
+
+<!-- source-record: Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md -->
+## Event
+
+Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., No. 93-377; 512 U.S. 61. Argued March 23, 1994; decided June 13, 1994. On writ of certiorari to the New York Court of Appeals, 81 N.Y.2d 417, 615 N.E.2d 994. Its June 10, 1993 judgment granted the wholesalers summary judgment and sustained the facial injunction against the unimplemented program on categorical trader preemption and alternative excessive-burden grounds. The question is whether federal Indian Trader law preempts the challenged collection, documentation and quantity controls.
+
+Render form: compact. Basis: a unanimous judgment and one complete Opinion of the Court permit a unified account of the rule and its qualifications.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or other nonparticipation is established.
+
+## Public Action
+
+The judgment is reversed and remanded, 9–0.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Categorical trader preemption and the alternative facial excessive-burden ground | Reversed and remanded, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | No opposing Justice | The New York Court of Appeals is reversed on both grounds supporting its facial judgment, and the case is remanded for proceedings consistent with the limited rejection of facial preemption. The facial injunction cannot rest on those grounds. Concrete challenges to inadequate exempt supply, arbitrary approval or territory allocation, and excessive compliance burdens remain available on an actual record. No particular quota, tax collection from a tribe or treaty objection is adjudicated. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | Entire judgment | Entire opinion, including every holding and the bounded remand |
+
+## Holdings
+
+### Federal trader regulation does not displace reasonable collection of valid nonmember taxes
+
+**Controlling proposition:** The Indian Trader Statutes do not categorically preempt state requirements reasonably directed to collecting cigarette taxes validly imposed on nonexempt consumers. New York's state-agent, stamping, advance-collection, certification, invoice, recordkeeping and reporting requirements survive this facial challenge insofar as they serve that collection function without taxing protected consumption or displacing the federal trader appointment.
+
+**Authority:** O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited federal-statute and collection holding.
+
+**Controlling explanation:** The Court holds that federal trader licensing is not immunity from reasonable assistance in collecting valid consumer taxes. Warren Trading Post protects the federally regulated reservation trade against the direct state tax considered there. Moe, Colville and Potawatomi separately permit taxation of nonexempt purchasers and reasonably necessary collection duties while protecting exempt consumption and tribal immunity. Those rules coexist. Section 261's federal authority over trader appointment and regulation does not make every ancillary state collection requirement an invasion of that authority. New York places ultimate tax incidence on the consumer and uses the distribution chain to collect it. Certification, records and reports identify exempt transactions; state-agent and stamping requirements collect taxes on the others. The strongest objection is that these obligations could become state control of federally protected trade. That possibility requires attention to actual operation, consistent with Bracker's federal, tribal and state inquiry; it does not establish facial invalidity here. The Court rejects both categorical preemption and the lower court's alternative facial burden conclusion, while leaving unreasonable administration and tribal enforcement questions open.
+
+**Precedent treatment:**
+
+- Warren Trading Post Co. v. Arizona Tax Commission, 380 U.S. 685: preserves its protection against the particular direct tax on federally regulated reservation trade; its broader language does not create universal collection immunity.
+- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: applies valid nonmember taxation and reasonable collection assistance while preserving exempt member purchases.
+- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applies the distinction between taxable purchases and protected tribal trade, including reasonable documentation burdens.
+- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: preserves valid nonmember tax obligations and reasonable collection tools without overcoming the tribe's immunity from suit.
+- White Mountain Apache Tribe v. Bracker, 448 U.S. 136: applies attention to the actual federal, tribal and state regulatory setting rather than a universal territorial or licensing rule.
+
+**Limits and questions not reached:** No general state power to regulate reservation commerce, revoke a federal trader appointment, tax exempt consumption or sue an immune tribe is recognized. The Seneca treaty contention was not addressed below and is not decided.
+
+### Probable-demand limits and prior approval survive only at facial scope
+
+**Controlling proposition:** New York may limit unstamped deliveries to probable demand by qualifying exempt purchasers and require advance approval as reasonably necessary collection devices, provided exempt purchases remain adequately available and the requirements remain connected to the valid nonmember tax. The challenged scheme survives the present facial objections because no inadequate implemented quota or denied exempt supply is established; stamped sales have no corresponding numerical ceiling, and unreasonable applications remain subject to challenge.
+
+**Authority:** O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the qualified quota-and-approval holding and reversal of the facial injunction.
+
+**Controlling explanation:** The Court holds that controlling untaxed supply can serve lawful collection without eliminating the exemption. Moe and Colville recognize the need to distinguish exempt from taxable reservation transactions; Potawatomi does not require a State to abandon a valid tax merely because direct recovery from the tribe is unavailable. New York's evidence of extraordinary untaxed deliveries supplies a reason to address diversion, not a finding that every retailer evades tax. The scheme allows a tribal regulatory agreement, uses tribal demand evidence where the tribe regulates distribution, and otherwise estimates demand from enrollment and consumption data. Approval and documentation operate with those channels, and stamped supply remains unlimited. The wholesalers' stronger objection is practical: an inflexible estimate or delayed approval could deprive members of exempt purchases. That objection may support relief on an actual record, but the present unimplemented scheme establishes no such deprivation. The Court does not determine an initial quota's accuracy, approve arbitrary territory allocations or excuse excessive compliance burdens. Exempt trade remains protected, and concrete challenges remain available.
+
+**Precedent treatment:**
+
+- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: extends reasonable collection assistance to a qualified supply-control mechanism directed to valid taxes.
+- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applies the distinction between collection of nonexempt taxes and preservation of protected consumption.
+- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: leaves alternative lawful collection methods available while preserving sovereign immunity.
+- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves its residence, source and incidence distinctions; it supplies no exemption for every wholesale sale to a reservation retailer.
+- County of Yakima v. Confederated Tribes, January 14, 1992: preserves the exact authorization and legal-incidence analysis for its distinct land taxes; collection labels do not authorize prohibited taxes.
+
+## Precedent Treatment
+
+The holding-specific treatments govern. No precedent is overruled. Warren Trading Post does not establish universal trader immunity. Sac and Fox and Yakima retain their distinct rules for member income, vehicle levies and congressionally authorized fee-land taxation.
+
+## Law After Decision
+
+Effective June 13, 1994, federal trader law does not facially invalidate this reasonable-collection program, including its probable-demand and approval mechanisms. Both grounds of the New York Court of Appeals' facial judgment fail. Every component remains bounded by the valid nonexempt tax and protection of genuine exempt consumption.
+
+Tax Law §471(1) taxes cigarettes possessed in New York except those beyond the State's taxing power; §471(2) puts ultimate incidence and liability on the consumer. State-licensed agents purchase and affix stamps before the first sale and precollect tax on nonexempt sales. The protected consumer is an enrolled member of an exempt New York nation or tribe buying within a qualified reservation for the individual's own use or consumption there, not for resale. Untaxed wholesale deliveries require a valid exemption certificate, intended distribution to exempt consumers and reservation delivery. The wholesale buyer displays its certificate on first purchase and signs subsequent invoices. The consumer's distinct procedure requires individual-exemption certification initially and identity evidence on later purchases. Wholesalers keep buyer-specific untaxed-sale records and report monthly.
+
+A tribe may enter a §336.7(c)(1) regulatory agreement providing tribal delivery approval. Without an agreement, the Department calculates probable demand. Where the tribe regulates, licenses or controls distribution, the Department uses submitted demand evidence; otherwise it multiplies statewide per-capita consumption by enrollment. Trade territory is determined in consultation with a regulating tribe and otherwise from available Department information. Valid orders and quantities reasonably related to exempt demand govern approval; monthly coupons implement the allotment. The Department may withhold delivery approval from past or current violators and cancel certificates for noncompliance. These powers remain tied to lawful collection; the decision does not authorize destroying the exempt channel. Stamped cigarettes have no numerical sales quota.
+
+No actual quota's accuracy, denial of exempt supply, unlawful delay, unreasonable compliance burden or particular retailer's evasion is found. Population, actual exempt consumption, qualifying consumers, demand variations and access to documentation may matter to a concrete challenge; the Court announces no new mandatory calculation formula. The unadjudicated Seneca treaty contention and enforcement against a tribe remain unresolved.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The New York Court of Appeals is reversed on both grounds supporting its facial judgment, and the case is remanded for proceedings consistent with the limited rejection of facial preemption. The facial injunction cannot rest on those grounds. Concrete challenges to inadequate exempt supply, arbitrary approval or territory allocation, and excessive compliance burdens remain available on an actual record. No particular quota, tax collection from a tribe or treaty objection is adjudicated.
+
+## Source Notes
+
+The [official report, 512 U.S. 61](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512061/usrep512061.pdf), 64–70 and 77 n.11, and the [New York Court of Appeals opinion, 81 N.Y.2d 417](https://www.law.cornell.edu/nyctap/081_0417.htm), support the program, lower grounds and facial posture. The official report identifies the reproduced 1992 regulations as 20 N.Y.C.R.R. §§336.6–336.7; the lower text uses §335 numbering. The original codification was not independently recovered, so no substantive amendment is inferred from that numbering difference. The complete underlying audit record and every brief were not independently recovered. The reported ratios support the asserted collection problem, not individual tax-evasion findings.
+
+---
+
+<!-- source-record: Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md -->
+## Event
+
+Howlett v. Birkdale Shipping Co., S.A., No. 93-670; 512 U.S. 92. Argued April 20, 1994; decided June 13, 1994. On writ of certiorari to the Third Circuit, 998 F.2d 1003, which affirmed without opinion summary judgment for the vessel. The questions concern the vessel's limited turnover duty to warn of a latent cargo-stow hazard and the proper knowledge and obviousness inquiries.
+
+Render form: compact. Basis: a unanimous judgment and one complete Opinion of the Court permit a unified account of the rule and its qualifications.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. No recusal or other nonparticipation is established.
+
+## Public Action
+
+The judgment is vacated and remanded, 9–0.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Turnover-warning summary judgment and proper knowledge/obviousness inquiry | Vacated and remanded, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | No opposing Justice | The Third Circuit's judgment is vacated and the case remanded for reconsideration of the turnover-warning claim on the full summary-judgment record under the stated duty. The lower courts must distinguish evidence of actual vessel knowledge from the condition facing a competent unloading stevedore and address the contrary visibility evidence. Renewed summary judgment remains possible; the Court orders neither trial, compensation, a negligence finding nor a finding of causation. |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Entire judgment | Entire opinion, including every holding and the bounded remand |
+
+## Holdings
+
+### The cargo turnover-warning duty is limited by the vessel’s assigned care
+
+**Controlling proposition:** A vessel must warn an unloading stevedore of a hazard the vessel knows or should know through its required reasonable care, likely to be encountered in the work and neither known nor obvious to, nor reasonably anticipated by, a competent stevedore. For a cargo-stow hazard, that duty does not ordinarily require supervising independent loading operations or inspecting their completed work; an established contract, positive law or custom may alter that allocation, but none is established here.
+
+**Authority:** Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited turnover-warning rule and rejection of a general cargo-inspection duty.
+
+**Controlling explanation:** The Court holds that reasonable care must be measured by the work the vessel is required to perform. Section 905(b) authorizes negligence liability and excludes the warranty of seaworthiness; ownership and an onboard injury therefore do not establish liability. Scindia assigns primary cargo-work responsibility to the expert stevedore while preserving the vessel's own turnover duties. Burnside supplies ordinary care, not responsibility for every contractor-created hazard. Howlett's proposed land-contractor analogy would require reasonable inspections during or after loading, not merely prohibit careless supervision once undertaken. Even that limited inspection demand would redistribute the cargo responsibility Scindia preserves unless contract, law or custom provides it. The Court rejects the asserted general duty to supervise the foreign stevedore or inspect the completed stow. It does not erase knowledge the crew actually acquired while performing vessel work. Nor does the phrase should know create a discovery duty by itself. Active-control and intervention duties remain distinct and are not substitute theories in this turnover-only claim.
+
+**Precedent treatment:**
+
+- Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156: applies the allocation of cargo responsibility and specifies its limited turnover warning duty; the separate active-control and intervention duties remain intact.
+- Federal Marine Terminals, Inc. v. Burnside Shipping Co., 394 U.S. 404: preserves ordinary care within the vessel's legally assigned responsibilities, without a universal contractor-inspection rule.
+
+**Limits and questions not reached:** The Court does not establish a contract, positive-law or customary enlargement of the vessel's duties. Section 905(b)'s bar on direct or indirect employer liability to the vessel for these damages and contrary agreements remains; no indemnity or seaworthiness claim is revived.
+
+### Knowledge and obviousness require the correct actor and time on remand
+
+**Controlling proposition:** The turnover-warning claim must be reconsidered because possible crew knowledge during loading and a hazard's visibility to a competent unloading stevedore are distinct inquiries. Supplying plastic alone does not prove knowledge of its dangerous placement, and loading-stage visibility does not itself establish unloading-stage obviousness; the full record may still support summary judgment, and no negligence, latent hazard, causation or damages is found here.
+
+**Authority:** Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this application and bounded vacatur and remand.
+
+**Controlling explanation:** The Court holds that the rejection of a general inspection duty does not resolve the evidence of actual knowledge. Scindia's warning rule requires both qualifying vessel knowledge and a danger the competent unloading stevedore would not know, find obvious or reasonably anticipate. The vessel supplied plastic, and crew members were present during aspects of loading. Those circumstances require examination with the other evidence; neither alone conclusively proves awareness of the dangerous arrangement. The district court also reasoned that a condition visible during loading would be obvious. That reasoning joins different actors, times and conditions. Bags might obscure what had earlier been visible, yet Howlett's own witnesses described plastic visible during discharge, including from above. The Court does not suppress that adverse evidence or equate his subjective surprise with a latent hazard. No separate constructive-knowledge basis beyond the rejected broad inspection theory has been established. Actual knowledge thus remains material. The lower courts must reassess the record under the correct distinctions without an automatic trial or liability order.
+
+**Precedent treatment:**
+
+- Scindia Steam Navigation Co. v. De Los Santos, 451 U.S. 156: applies the distinct vessel-knowledge and competent-stevedore warning conditions to the actual turnover setting; neither condition is presumed from the accident.
+
+**Limits and questions not reached:** The Court does not attribute knowledge to the vessel merely because somebody aboard might have seen material. Actual crew role, awareness and unloading visibility remain questions for proper summary-judgment assessment; renewed summary judgment remains possible.
+
+## Precedent Treatment
+
+The holding-specific treatments govern. No precedent is overruled. Scindia retains its separate turnover, active-control and intervention duties. American Dredging and McDermott do not enlarge the underlying vessel-negligence duty.
+
+## Law After Decision
+
+Effective June 13, 1994, the limited turnover-warning duty applies to cargo-stow hazards without imposing a general obligation to supervise independent loading or inspect the completed stow. Knowledge discoverable through reasonable care remains tied to a duty the vessel actually has; it does not create the rejected inspection obligation. Contract, positive law and custom retain their capacity to alter ordinary allocation when established.
+
+The relevant perception is that of a competent unloading stevedore performing the work, not only the injured longshoreman's subjective awareness and not automatically that of the foreign loader. Actual crew knowledge acquired in vessel operations remains relevant; providing plastic or crew presence does not establish it conclusively. Here no independent constructive-knowledge basis beyond the rejected inspection theory is established. The remand concerns proper treatment of actual-knowledge evidence and the separate unloading inquiry, not elimination of actual knowledge as a material requirement on the presented theory.
+
+Section 905(b) preserves a covered person's negligence action against the vessel as a third party and excludes liability based on the seaworthiness warranty. It bars shifting those damages to the employer directly or indirectly and renders contrary agreements or warranties ineffective within that provision. The independent stevedore's alleged negligence is not automatically vessel negligence. The Court decides only the turnover-warning claim; active-control, intervention, settlement allocation and forum rules do not supply additional holdings here.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The Third Circuit's judgment is vacated and the case remanded for reconsideration of the turnover-warning claim on the full summary-judgment record under the stated duty. The lower courts must distinguish evidence of actual vessel knowledge from the condition facing a competent unloading stevedore and address the contrary visibility evidence. Renewed summary judgment remains possible; the Court orders neither trial, compensation, a negligence finding nor a finding of causation.
+
+## Source Notes
+
+The [official report, 512 U.S. 92](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512092/usrep512092.pdf), 94–106, supplies the cargo record, limited claim, district-court reasons and opinionless Third Circuit affirmance. The [Scindia report, 451 U.S. 156](https://tile.loc.gov/storage-services/service/ll/usrep/usrep451/usrep451156/usrep451156.pdf) supplies the distinct duties and contract, positive-law and custom qualifications. The original district-court order and depositions were not separately recovered; competing reported submissions establish no conclusive knowledge or concealment finding. No reasoned appellate opinion, liability fact or quoted Court language is invented.

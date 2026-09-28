@@ -1,7 +1,7 @@
 **Case and dockets:** Beecham v. United States and Jones v. United States, No. 93-445, including Jones under Rule 12.2; October Term 1993.
 **Event and date:** Merits decision, 1994-05-16.
 **Result:** Both Fourth Circuit judgments affirmed, 9–0 each; state restoration does not remove a federal conviction under §921(a)(20). Jones retains the indictment-reinstatement/remand posture, without a new guilt finding.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Durable no-Git Run handoff.
+**Version / lineage:** Version 1.1, September 28, 2026; user-authorized correction of AUDIT F01–F02. Replaces the initial Record preserved in commit fb57000d774520e983932c9c73ec33fedd2110df: restores “transport” in the retained-firearms qualification and corrects Granderson’s date to March 22, 1994. Judgments, coalitions, reasoning and remedies otherwise unchanged; correction commit remains for the operator.
 
 ## Event, posture, and law entering
 
@@ -17,7 +17,7 @@ Nine Justices participate at argument and decision; no case-specific absence or 
 
 This assembly context did not model or reconcile these D2 matters. Earlier attempted neutral research accidentally exposed historical same-matter material; that exposure was reported, affected modeling was abandoned, and clean D2 neutral and reconciliation handoffs were subsequently frozen by other contexts. This assembly reads those completed handoffs before the newly authorized Stone D2 supplement. It also previously performed unrelated Carbone modeling and A/B reconciliation. The separation is matter-specific and honestly disclosed; no new blind context is claimed. Stone's approved Section II controls his position. No standing fallback is needed for the presented components. No invented draft circulation, personal motive, or historical assignment supplies a join.
 
-Durable lineage: first Canonical Decision Record for this event; supersedes no completed adjudication. Frozen neutral and reconciliation artifacts remain unchanged. No Git operation or Git-dependent checker was run under the user's prohibition. This Record is durably written for root validation and coordinated workspace publication; the assembly context does not claim to have updated the term projections. Mechanical checks and their limits are recorded in `../freeze/OT_1993CHUNK4_ASSEMBLY_D2_VALIDATION.md`.
+Initial assembly provenance (preserved): this was the first Canonical Decision Record for the event and superseded no completed adjudication. The authorized version 1.1 correction is identified in the opening lineage line. Frozen neutral and reconciliation artifacts remain unchanged. No Git operation or Git-dependent checker was run under the user's prohibition. This Record is durably written for root validation and coordinated workspace publication; the assembly context does not claim to have updated the term projections. Mechanical checks and their limits are recorded in `../freeze/OT_1993CHUNK4_ASSEMBLY_D2_VALIDATION.md`.
 
 ## Earlier-law revalidation
 
@@ -48,7 +48,7 @@ The strongest alternative stresses state control of ordinary civil rights, a sep
 
 ### The law of the convicting jurisdiction governs the conviction exclusion
 
-**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
 
 **Authority:** O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; all nine affirm both included judgments on this ground.
 
@@ -56,7 +56,7 @@ The strongest alternative stresses state control of ordinary civil rights, a sep
 
 **Precedent treatment:**
 - Chapman v. United States, 500 U.S. 453 (1991): applied to reserve lenity for unresolved penal ambiguity after interpretation; competing proposed readings alone do not trigger it.
-- United States v. Granderson, decided March 1, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
+- United States v. Granderson, decided March 22, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
 - Jarecki v. G. D. Searle & Co., 367 U.S. 303 (1961): its neighboring-terms principle supports, without mechanically compelling, the shared sovereign reference.
 - Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983): the intervening statutory choice-of-law text governs; its former federal-law definition is not used to bypass the enacted provision.
 
@@ -99,7 +99,7 @@ The Court affirms both Fourth Circuit judgments, 9–0, holding that the law of 
 
 ### The law of the convicting jurisdiction governs the conviction exclusion
 
-**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
+**Controlling proposition:** Section 921(a)(20)'s direction to use the law of the jurisdiction where the proceedings occurred governs the related exclusion for expungement, set-aside, pardon, or restoration of civil rights, so state restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion remains subject to its qualification that a conviction is not excluded if the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms; the Court decides which sovereign's law governs, not whether a particular federal restorative mechanism exists or has been satisfied.
 
 **Authority:** O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; all nine affirm both included judgments on this ground.
 
@@ -107,7 +107,7 @@ The Court affirms both Fourth Circuit judgments, 9–0, holding that the law of 
 
 **Precedent treatment:**
 - Chapman v. United States, 500 U.S. 453 (1991): applied to reserve lenity for unresolved penal ambiguity after interpretation; competing proposed readings alone do not trigger it.
-- United States v. Granderson, decided March 1, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
+- United States v. Granderson, decided March 22, 1994: its contextual interpretive approach and residual role for lenity remain intact; its distinct sentencing ambiguity does not establish ambiguity here.
 - Jarecki v. G. D. Searle & Co., 367 U.S. 303 (1961): its neighboring-terms principle supports, without mechanically compelling, the shared sovereign reference.
 - Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983): the intervening statutory choice-of-law text governs; its former federal-law definition is not used to bypass the enacted provision.
 

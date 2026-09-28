@@ -1739,6 +1739,24 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Holdings navigation:** [The relevant presentment duty precedes the measurement of delay](HOLDINGS.candidate.md#the-relevant-presentment-duty-precedes-the-measurement-of-delay); [The limited statutory protection does not decide all confession admissibility](HOLDINGS.candidate.md#the-limited-statutory-protection-does-not-decide-all-confession-admissibility).
 
+### Convicting-jurisdiction law for the firearms conviction exclusion
+
+**Governing question:** Which jurisdiction's law governs whether expungement, set-aside, pardon or restoration of civil rights excludes a conviction under 18 U.S.C. §921(a)(20) for the federal firearms prohibition.
+
+**Current rule:** Apply the law of the jurisdiction where the proceedings occurred to the related conviction exclusion for expungement, set-aside, pardon or restoration of civil rights. State restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion retains its qualification: a conviction is not excluded if the pardon, expungement or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms. State administration of ordinary civil rights and difficulty obtaining federal relief do not supply a different sovereign selector or create a judicial restoration procedure.
+
+**Authority by component:**
+
+- Convicting-sovereign selector and retained-firearms qualification: [Beecham and Jones — The law of the convicting jurisdiction governs the conviction exclusion](../records/Beecham_and_Jones_v_United_States_merits_1994-05-16.md#the-law-of-the-convicting-jurisdiction-governs-the-conviction-exclusion), 1994-05-16. O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; unanimous direct support.
+
+**Present operation effective:** Beecham and Jones, May 16, 1994 (1994-05-16).
+
+**Open question:** The decision does not establish the availability or satisfaction of a particular federal pardon or restoration mechanism, §925(c) relief, the required civil-rights bundle, automatic versus affirmative restoration, or federal habeas as a set-aside.
+
+**Related current rules:** Collateral attacks on ACCA predicates at federal sentencing governs the distinct sentencing-forum question; it does not replace this conviction-selector rule.
+
+**Holdings navigation:** [The law of the convicting jurisdiction governs the conviction exclusion](HOLDINGS.candidate.md#the-law-of-the-convicting-jurisdiction-governs-the-conviction-exclusion).
+
 ### Collateral attacks on ACCA predicates at federal sentencing
 
 **Governing question:** Which attacks on prior state convictions may be heard in the federal ACCA sentencing proceeding.

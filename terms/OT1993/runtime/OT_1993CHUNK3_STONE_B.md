@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-02-23 through 1994-04-20. Event date
 
 **Inherited-Law Context:** Sullivan makes a constitutionally vitiated reasonable-doubt standard structural error. First decide whether each whole charge has that defect; harmless-error review cannot cure an instruction once Sullivan's trigger is met. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -63,7 +63,7 @@ Victor did not object at trial or raise the claim on direct appeal, but Nebraska
 **Source Support:** [R15](https://supreme.justia.com/cases/federal/us/511/1/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Victor v. Nebraska / Sandoval v. California review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Victor v. Nebraska / Sandoval v. California review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 30. United States v. Granderson
 
@@ -83,7 +83,7 @@ Victor did not object at trial or raise the claim on direct appeal, but Nebraska
 
 **Inherited-Law Context:** R.L.C., Williams and Stinson preserve their distinct statutory-ceiling, departure-review and commentary rules. R.L.C. supplies no majority-adopted general lenity method and does not itself select the §3565(a) revocation range. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -120,7 +120,7 @@ The strongest objection is that Congress said original sentence, not Guidelines 
 **Source Support:** 511 U.S. 41-57: original sentence, Guidelines range, revocation, statutory wording, and presented interpretations. [P15](https://supreme.justia.com/cases/federal/us/511/39/)
 
 
-**Revision Trace:** User-directed implementation of [United States v. Granderson review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [United States v. Granderson review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 31. Powell v. Nevada
 
@@ -140,7 +140,7 @@ The strongest objection is that Congress said original sentence, not Guidelines 
 
 **Inherited-Law Context:** Harper confirms uniform application of an applied federal rule to still-open direct review, with remedy separately determined. The criminal direct-review rule in Griffith and McLaughlin's actual holding remain the immediate authorities. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -181,7 +181,7 @@ The state court passed on the federal retroactivity issue, supporting §1257 rev
 **Source Support:** [R16](https://supreme.justia.com/cases/federal/us/511/79/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Powell v. Nevada review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Powell v. Nevada review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 32. Oregon Waste Systems, Inc. v. Department of Environmental Quality
 
@@ -201,7 +201,7 @@ The state court passed on the federal retroactivity issue, supporting §1257 rev
 
 **Inherited-Law Context:** Apply the inherited discrimination rules to the origin-based surcharge. A compensatory-tax defense requires its own established predicates; a valid disposal charge cannot be inferred merely from a conservation purpose. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -238,5 +238,5 @@ The challenge to the operative surcharge presents concrete economic injury and a
 **Source Support:** [R17](https://supreme.justia.com/cases/federal/us/511/93/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Oregon Waste Systems, Inc. v. Department of Environmental Quality review](review/03_CASES_25-36.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** User-directed implementation of [Oregon Waste Systems, Inc. v. Department of Environmental Quality review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
