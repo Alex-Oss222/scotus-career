@@ -1,0 +1,576 @@
+
+  
+
+    
+Alan CARLISLE v. CONSOLIDATED RAIL CORPORATION, Appellant.
+
+    
+No. 92-1263.
+
+    
+United States Court of Appeals, Third Circuit.
+
+    
+Argued Sept. 21, 1992.
+
+    
+Decided March 29, 1993.
+
+    
+
+      
+*91
+J. Michael Farrell (argued), Philadelphia, PA, for appellee.
+
+    
+Jonathan F. Altman (argued), Jonathan F. Altman, P.C., Philadelphia, PA, for appellant.
+
+    
+Before MANSMANN and ROTH, Circuit Judges and RESTANI, Judge, U.S. Court of International Trade.
+1
+
+    
+
+    
+
+      
+1
+
+      
+. Honorable Jane A. Restani, United States Court of International Trade, sitting by designation.
+
+    
+
+  
+
+  
+
+    
+OPINION OF THE COURT
+
+    
+ROTH, Circuit Judge:
+
+    
+Alan Carlisle, a former railroad worker, sued his employer under the Federal Employers’ Liability Act (FELA) for negligent infliction of emotional distress. Carlisle al
+*92
+leged that his employer, Consolidated Rail Corporation (“Conrail”), breached its duty to provide a safe workplace by requiring him to work under unreasonably stressful and dangerous conditions, which resulted in foreseeable injuries to his health. At trial, the jury returned a verdict in favor of Carlisle, awarding him $386,500' in damages. Conrail moved for judgment n.o.v., alleging that the facts submitted to the jury were legally insufficient to support the verdict, and moved, in the alternative, for a new trial based on alleged trial errors. Conrail now appeals from an order of the district court, 
+790 F.Supp. 521
+, denying Conrail’s post-trial motions. For the reasons discussed below, we will affirm.
+
+    
+I.
+
+    
+Alan Carlisle started working on the railroad in 1973 as a ticket agent for the Reading Railroad, rising rapidly to positions as a tower man, a block operator, and finally a train dispatcher. Carlisle worked for Conrail from its formation in 1976 until 1988, first as a train dispatcher and later as a supervisor of all rail operations in the Philadelphia area. Train dispatchers and their supervisors are responsible for the safe movement of trains carrying passengers, freight and hazardous materials.
+
+    
+Beginning in 1984, Conrail sharply reduced its workforce, which, in combination with the risks presented by the company’s aging railstock and outdated switching equipment, increased the stress and responsibility of dispatchers’ and supervisors’ jobs. As a dispatcher, Carlisle was under constant pressure to achieve on-time performance for the trains. Carlisle testified at trial that he was made increasingly anxious by Conrail’s repeated instructions to ignore safety concerns, such as malfunctioning equipment or poor maintenance, that would have slowed the movement of trains.
+
+    
+In 1988, Carlisle was moved to a train-master position in the South Philadelphia yards, which required him to work long and erratic hours as a troubleshooter, often in dangerous areas.- Despite the new job assignment, Carlisle also continued to work occasionally as a supervisor and dispatcher, retaining many of the job responsibilities of his earlier position. Conrail had cut the number of people staffing each shift from eleven to four, requiring most employees in Conrail’s dispatching office to double up on responsibilities. Carlisle testified at trial that, as a result of being overworked and burdened with both excessive responsibility and an abusive, alcoholic supervisor in the South Philadelphia yards, he experienced insomnia, fatigue, headaches, depression, sleepwalking and substantial weight-loss. Carlisle testified further that, as a result of being made to work 12 to 15 hour shifts for 15 consecutive days in August, 1988, his stress-related problems finally culminated in a nervous breakdown. At trial, Carlisle put on testimony by an expert on emotional stress who stated that Carlisle had suffered a bout of major depression and was disabled from returning to his job as a train dispatcher. Carlisle never returned to work for Conrail, choosing instead to pursue new careers first as a real estate agent and then as a secondary-school teacher.
+
+    
+Carlisle introduced evidence showing that his emotional and physical injuries were a foreseeable result of his working conditions. Over defendant’s objection, the court admitted into evidence a series of depositions, taken in a separate case,
+2
+ in which Carlisle’s co-workers and subordinates testified that their jobs as dispatchers and supervisors in the Philadelphia Conrail offices had caused them to suffer cardiac arrests, nervous breakdowns, and a variety of emotional problems such as depression, paranoia and insomnia. Carlisle testified that the train dispatchers he supervised often complained about Conrail’s outdated equipment and about the long hours and high level of stress in their jobs; Carlisle, in turn, passed on their complaints to his supervisors and added his own con
+*93
+cerns about the excessive hours and stress of his job. He received no response to these complaints.
+
+    
+The trial court also admitted into evidence two reports from the Federal Railway Administration, one that documented the stressful nature of a train dispatcher’s job and one that criticized the outdated equipment and hazardous working conditions at Conrail’s Philadelphia dispatching office.
+
+    
+II.
+
+    
+Carlisle brought this action in federal district court under the FELA, 
+45 U.S.C. §§ 51-60
+ (1988). This appeal is taken from a final order of the district court and thus this Court’s jurisdiction rests on 
+28 U.S.C. § 1291
+ (1988).
+
+    
+Conrail appeals the denial of its motion for a judgment notwithstanding the verdict on the grounds that Carlisle presented facts that were legally insufficient to support recovery under the FELA for injuries resulting from negligent infliction of emotional distress. Conrail also appeals the denial of its motion for a new trial, alleging a variety of trial errors. We will first consider the district court’s interpretation and application of the law regarding the FELA and then consider Conrail’s allegations of trial error.
+3
+
+    
+
+    
+Our review of the district court’s interpretation and application of legal precedent governing FELA liability for emotional injury is plenary. 
+Dent v. Cunningham, 
+786 F.2d 173
+, 175 (3d Cir.1986). Our review of findings of fact by the district court follows a clearly erroneous standard. 
+Leeper v. United States, 
+756 F.2d 300
+, 308 (3d Cir.1985). Our review of the district court’s rulings on the relevance and admissibility of evidence follows an abuse of discretion standard. 
+United States v. Driggs, 
+823 F.2d 52
+, 54 (3d Cir.1987).
+
+    
+Conrail claims that this Court’s precedent does not allow recovery for job stress-related injuries absent a precipitating accident causing injury or fright. At the time of trial, this Court had never upheld a claim under the FELA for injuries absent these factors. Yet, such cases explicitly were decided on a case-by-case, fact-specific basis and held open the possibility of recovery. Indeed, since Carlisle’s trial we have expanded the basis for recovery under the FELA. In 
+Gottshall v. Consolidated Rail Corp., 
+988 F.2d 355
+ (3d Cir.1993), we upheld a claim for negligent infliction of emotional distress under the FELA, but under factual conditions quite different from this case. On the facts of this case, we will affirm for the first time the grant of damages under the FELA for negligent infliction of emotional distress for work stress-related injuries. This holding rests on evidence admitted at trial which reasonably supports a finding by the jury that Conrail breached its well-established duty under the FELA to provide a safe workplace, that such injuries were the foreseeable result of Conrail’s negligence, and that Carlisle’s demanding and dangerous workplace caused his emotional and physical injuries.
+
+    
+A. 
+Current FELA Jurisprudence
+
+    
+
+    
+Congress enacted the FELA in 1908 to provide compensation for railway employees suffering job-related injuries caused by the negligence of their employer. The FELA, as codified, provides that every railroad “shall be liable in damages to any person suffering injury while he is employed by such carrier ... resulting in whole or in part from the negligence of [the railroad].” 
+45 U.S.C. § 51
+. As stated by the Supreme Court: “We have recognized generally that the FELA is a broad remedial statute, and have adopted a ‘standard of liberal construction in order to accomplish [Congress’] objectives.’ ” 
+Atchison, Topeka & Santa Fe Ry. Co. v. Buell, 
+480 U.S. 557
+, 562, 
+107 S.Ct. 1410
+, 1414, 
+94 L.Ed.2d 563
+ (1987) (citation omitted). Thus, an employee can recover under the FELA as long as the employer’s negligence 
+*94
+“played any part, even the slightest, in producing the injury or death for which damages are sought.” 
+Rogers v. Missouri Pac. R.R. Co., 
+352 U.S. 500
+, 506, 
+77 S.Ct. 443
+, 448, 
+1 L.Ed.2d 493
+ (1957); 
+Pehowic v. Erie Lackawanna R.R. Co., 
+430 F.2d 697
+, 699 (3d Cir.1970) (quoting 
+Rogers). 
+The FELA imposes on railroads a clear duty to provide their employees with a safe workplace. 
+Sano v. Pennsylvania R.R. Co., 
+282 F.2d 936
+, 937 (3d Cir.1960).
+
+    
+In deciding which injuries are compensa-ble under the statute, FELA jurisprudence “gleans guidance from common-law developments.” 
+Buell, 
+480 U.S. at 568
+, 
+107 S.Ct. at 1417
+. However, determining the scope of FELA liability is distinctly “a federal question, not varying in accordance with the differing conceptions of negligence applicable under state and local laws_” 
+Urie v. Thompson, 
+337 U.S. 163
+, 174, 
+69 S.Ct. 1018
+, 1027, 
+93 L.Ed. 1282
+ (1949). While the tort of negligent infliction of emotional distress was unknown in 1908, mental distress law has evolved to the point where all states have recognized the tort, but with a wide array of threshold tests and limitations. An American Law Reports annotation noted many years ago that “[t]he case law in the field [of emotional distress] is in an almost unparalleled state of confusion and any attempt at a consistent exegesis of the authorities is likely to break down in embarrassed complexity.” 
+4
+ This wide divergence among states in their doctrinal approach to recovery for emotional injury continues to this day.
+5
+
+    
+
+    
+In 
+Buell, 
+the Supreme Court declined to decide whether wholly emotional injuries arising from work conditions were compen-sable under the FELA, partly because of the inadequacy of the record in that case, but also because of the broad divergence among the states in their standards for recovery for negligent infliction of emotion
+al 
+distress. The 
+Buell 
+Court noted the striking doctrinal divergences between states in the area and concluded:
+
+    
+[T]he question whether one can recover for emotional injury may not be susceptible to an all-inclusive “yes” or “no” answer. As in other areas of the law, broad pronouncements in this area may have to bow to the precise application of developing legal principles to the particular facts at hand.
+
+    
+
+      
+Id.
+ 
+480 U.S. at 570
+, 
+107 S.Ct. at 1418
+. Following the Supreme Court’s ruling in 
+Buell, 
+the federal courts of appeals have engaged in case-by-case determinations of the proper standards for recovery under the FELA in cases involving claims for negligent infliction of emotional distress.
+
+    
+Four basic common law standards have been adopted by the states for testing the genuineness of claims arising from negligently inflicted emotional injuries: the “physical impact” test (recovery only where plaintiffs emotional injury is incidental to physical contact); the “zone of danger” test (recovery absent contact allowed when emotional injury arises from plaintiff being threatened with physical harm); the “physical manifestation” test (plaintiffs emotional injury must cause some physical injury); and the “relative bystander” test (plaintiff must witness injury to a close relative).
+6
+
+    
+
+    
+These doctrines have been adopted due to the courts’ suspicion that emotional distress claims are often subject to fraud and exaggeration. 
+See 
+Restatement (Second) of Torts § 436A cmt. b (1965) (detailing concerns that emotional injury claims are often trivial, falsified and unforeseeable). The central purpose of the four standards is to screen possibly fraudulent claims for emotional injury by requiring some external indicia of the genuineness of the harm suffered. This Court has repeatedly noted 
+*95
+its concerns about the potential for a flood of litigation, unlimited damages and fraud arising from unrestrained emotional distress claims. 
+See, e.g., Outten v. National R.R. Passenger Corp., 
+928 F.2d 74
+, 79 (3d Cir.1991); 
+Holliday v. Consolidated Rail Corp., 
+914 F.2d 421
+, 424 (3d Cir.1990), 
+cert. denied, 
+498 U.S. 1090
+, 
+111 S.Ct. 970
+, 
+112 L.Ed.2d 1057
+ (1991).
+
+    
+However, an important tension exists between courts’ concerns about excessive, frivolous litigation, the common law standards employed by the courts to curb such claims, and the broad remedial purposes of the FELA. As noted by the 
+Buell 
+Court, “[a] primary purpose of the Act was to eliminate a number of traditional defenses to tort liability and to facilitate recovery in meritorious cases.” 
+480 U.S. at 561
+, 
+107 S.Ct. at 1413
+. The Supreme Court has also held that “Congress did not intend to create a static remedy, but one which would be developed and enlarged to meet the changing conditions and changing concepts of industry’s duty towards its workers.” 
+Kernan v. American Dredging Co., 
+355 U.S. 426
+, 432, 
+78 S.Ct. 394
+, 398, 
+2 L.Ed.2d 382
+ (1958). Thus, Congress’ express intent in creating the FELA and the Supreme Court’s consistent interpretation of the statute require us to reconcile the FELA’s mandate to expand recovery standards with the courts’ reasonable concerns about the potential for a flood of baseless litigation.
+
+    
+In our recent opinion in 
+Gottshall, 
+we reviewed closely the recent decisions of the other circuits since 
+Buell. 
+988 F.2d at 362-65
+. Rather than repeating that effort here, we will note that only the Seventh Circuit has firmly decided this issue since 
+Buell, 
+reaffirming its earlier holding that purely emotional injuries are not compensa-ble under the FELA, while the Ninth Circuit continues to operate under a 
+pre-Buell 
+holding allowing full recovery under the FELA for emotional injuries. 
+See Ray v. Consolidated Rail Corp., 
+938 F.2d 704
+ (7th Cir.1991) 
+cert. denied, 
+— U.S. -, 
+112 S.Ct. 914
+, 
+116 L.Ed.2d 813
+ (1992); 
+Taylor v. Burlington N.R.R ., 
+787 F.2d 1309
+, 1313 (9th Cir.1986); 
+Pierce v. Southern Pac. Transp. Co., 
+823 F.2d 1366
+, 1372 n. 2 (9th Cir.1987). The First, Fourth, Fifth and Sixth circuits have declined to decide whether emotional injuries without a precipitating injury or accident are compensa-ble under the FELA, ruling in each case that the plaintiff failed to make a requisite threshold showing. 
+See Moody v. Maine Cent. R.R., 
+823 F.2d 693
+ (1st Cir.1987); 
+Elliott v. Norfolk & Western Ry., 
+910 F.2d 1224
+ (4th Cir.1990); 
+Plaisance v. Texaco, 
+966 F.2d 166
+ (5th Cir.1992) (en banc)
+7
+; 
+Adams v. CSX Transp., Inc., 
+899 F.2d 536
+ (6th Cir.1990). Thus, as we concluded in 
+Gottshall, 
+a “review of the decisions in other circuits in the wake of 
+Buell 
+indicates that there is no common discernable principle, test, view or attitude.” 
+988 F.2d at 365
+.
+
+    
+B. 
+Third Circuit FELA Precedent
+
+    
+
+    
+In two recent cases, this circuit has also declined to decide definitively whether the FELA permits recovery for injuries without physical contact or fear of contact, deciding such cases instead on a fact-specific basis. See 
+Holliday v. Consolidated Rail Corp., 
+914 F.2d 421
+ (3d Cir.1990), 
+cert. denied, 
+498 U.S. 1090
+, 
+111 S.Ct. 970
+, 
+112 L.Ed.2d 1057
+ (1991); 
+Outten v. National R.R. Passenger Corp., 
+928 F.2d 74
+ (3d Cir. 
+*96
+1991). However, in our most recent case in this field, 
+Gottshall v. Consolidated Rail Corp., 
+988 F.2d 355
+ (3d Cir.1993), this Court for the first time upheld recovery under the FELA for negligent infliction of emotional distress without proof of any physical impact, under circumstances where the emotional distress was accompanied by physical manifestations. Moreover, because the district courts of this circuit have rendered conflicting opinions on this topic, we see a heightened need for clear direction from this circuit and, ultimately, the Supreme Court.
+8
+
+    
+
+    
+Appellant claims that in order to sustain a cause of action under the FELA for negligent infliction of emotional distress, plaintiff “was required to prove that there was an accident, physical impact or injury to someone.... [A]n employee, like Carlisle, who allegedly suffers from stress-related injuries or illnesses caused by his general working conditions, fails to state a claim under the F.E.L.A.” Appellant’s Brief at 11-12. Appellant relies heavily on a district court decision which rejected similar work-related stress claims filed by Carlisle’s co-workers. 
+See Kraus v. Consolidated Rail Corp., 
+723 F.Supp. 1073
+, 1090 (E.D.Pa.1989), 
+appeal dismissed on procedural grounds, 
+899 F.2d 1360
+ (3d Cir.1990). In 
+Kraus, 
+four Conrail train dispatchers alleged emotional and physical injuries, including heart attacks, ulcers and nervous breakdowns, arising from their stressful work environment. Noting that the common law in this area is “less than clearly defined and in a stage of rapid evolution,” the 
+Kraus 
+court concluded that most state and federal cases have required allegations of specific physical impact on the plaintiff or third parties, and thus held that “[j]ob-related stress is simply not the type of problem intended to be dealt with by the FELA.” 
+Id. 
+at 1089-90 (relying on Marlowe, Comment, 
+33 Vill.L.Rev. 781
+ (1988)).
+
+    
+We disagree. The Supreme Court has held that “[t]he wording [of the FELA] was not restrictive as to ... the particular kind of injury resulting.” 
+Urie v. Thompson, 
+337 U.S. 163
+, 
+69 S.Ct. 1018
+, 
+93 L.Ed. 1282
+ (1949). Under this explication of the FELA, it is becoming more and more apparent that emotional and physical injuries that are the foreseeable result of requiring workers to remain in unreasonably dangerous and stressful work conditions for significant periods of time can present a claim under the statute.
+
+    
+Moreover, this conclusion, that a claim for negligent infliction of emotional distress arising from work-related stress is cognizable under the FELA, is not inconsistent with our prior FELA case law. In 
+Holliday 
+and 
+Outten, 
+this court on a case-by-case basis rejected FELA claims alleging negligent infliction of emotional distress, while refusing to foreclose the possibility of such recovery. In' 
+Holliday, 
+a railroad worker allegedly suffered emotional and physical injuries because of his brief assignment to a job that he felt unqualified to perform. This Court affirmed the district court’s summary judgment in favor of the railroad while stating:
+
+    
+We emphasize that our opinion is narrow. We are not holding that there can never be a recovery under FELA for emotional conditions unless the employee suffers an immediate physical injury from the railroad’s negligent conduct, or unless there is an accident of some kind, as we need not and do not reach that issue. Thus, our holding does not draw a “bright line” requiring a direct impact traceable to the employer’s negligence before there can be a FELA recovery. We are not called upon to decide whether an employee exposed to dangerous conditions for a protracted time, though not in an áccident, could recover.
+
+    
+914 F.2d at 426-27
+.
+
+    
+In 
+Outten, 
+we refused to permit recovery for negligent infliction of emotional distress resulting from the employee’s reaction to an accident which occurred a mile 
+*97
+from where the employee was located. The ground for our holding was that this result was not foreseeable:
+
+    
+[I]t is hardly foreseeable to the railroad that one of its employees might suffer serious psychological injuries as a result of the fear of injury'from a train collision over a mile away. There is a “perceived unfairness of imposing heavy and disproportionate financial burdens upon a defendant, whose condúct was only negligent, for consequences which appear remote from the ‘wrongful’ act.”
+
+    
+928 F.2d at 79
+ (quoting W. Page Keeton et al., 
+Prosser and Keeton on the Law of Torts 
+861 (5th ed.1984)).
+
+    
+More recently in 
+Gottskall, 
+in reversing a district court’s grant of summary judgment in Conrail’s favor, we held that the FELA does permit recovery for claims for emotional and physical injury arising from negligent infliction of emotional distress, under some circumstances.
+
+    
+Thus, we now have before us the issue which was defined but not faced in 
+Holli-day, Outten, 
+and 
+Gottskall: 
+Can protracted exposure to work-related, stressfully injurious conditions lead to liability under the FELA? Under the circumstances of this case, where the injurious result was reasonably foreseeable, we conclude that it can.
+
+    
+The facts of record in this case demonstrate that Conrail had ample notice of the stressful and dangerous conditions under which Carlisle was forced to work. Carlisle passed on to his supervisors the complaints of his co-workers and subordinates about outdated equipment, long hours and the high level of job-related stress. He also communicated to them his own concerns about excessive hours and the stress of his job. At trial, he introduced into evidence a series of depositions, originally taken in the 
+Kraus 
+ease, in which fellow workers in the Philadelphia Conrail offices testified that their jobs as dispatchers and supervisors had caused them to suffer cardiac arrests, nervous breakdowns, and a variety of emotional problems such as depression, paranoia and insomnia.
+9
+ He also introduced two reports from the Federal Railway Administration (“F.R.A.”) which documented the stressful nature of a train dispatcher’s job and the outdated equipment and hazardous working conditions at Conrail’s Philadelphia dispatching office.
+10
+
+    
+
+    
+We conclude therefore that, when it is reasonably foreseeable that extended exposure to dangerous and stressful working conditions will cause injury to the worker, the employer may be held to be liable under the FELA for the employee’s resulting injuries.
+11
+ Specifically, under the facts of this case, we find that Carlisle presented sufficient evidence concerning (1) Conrail’s duty to provide him with a safe workplace; (2) prior notice to Conrail, through the FRA reports and stress-related injuries to Car-lisle’s co-workers, making Carlisle’s injury foreseeable to Conrail; (3) Conrail’s breach of that duty through the hazardous conditions and demands of Carlisle’s job; and, (4) causation of Carlisle’s injuries by the demands of an" unreasonably unsafe and stressful work environment.
+
+    
+III.
+
+    
+In this case, we uphold for the first time a claim under the FELA for negligent in
+*98
+fliction of emotional distress arising from work-related stress. We reaffirm our holding in 
+Gottshall 
+that this Court adopts no single common law standard for weighing the genuineness of emotional injury claims. Rather, courts of this circuit should engage in an initial review of the factual indicia of the genuineness of a claim, taking into account broadly used common law standards, then should apply the traditional negligence elements of duty, foreseeability, breach, and causation in weighing the merits of that claim.
+
+    
+Since 1908, when the FELA was adopted, the common law has evolved to where previously unknown claims for emotional injury are now broadly recognized. As medical science has also progressed, many courts have abandoned earlier common law standards used to screen claims, relying instead on expert testimony and a wider range of factual evidence to evaluate claims. Here, the evidence shows that Conrail drove its train dispatchers to work under highly stressful working conditions for long periods of time, knew of the potentially harmful effects of these conditions on Carlisle and his co-workers, and did nothing to alleviate them, causing a serious injury to Carlisle. The fact that Carlisle’s injury, both emotional and physical, arose from work-related stress is no bar to recovery under the FELA as long as there is sufficient convincing evidence of the foreseeability of the result, of the causal nexus, and of the genuineness of his claim.
+
+    
+We will affirm the district court’s denial of Conrail's motions for judgment n.o.v. or in the alternative for a new trial.
+
+    
+
+      
+2
+
+      
+. 
+Kraus v. Consolidated Rail Corp., 
+723 F.Supp. 1073
+ (E.D.Pa.1989), 
+appeal dismissed, 
+899 F.2d 1360
+ (3d Cir.1990).
+
+    
+
+    
+
+      
+3
+
+      
+. We find to be without merit and consequently will not discuss Conrail’s allegations of error by the trial court in its failure to instruct the jury on the proper legal standards of FELA jurisprudence, its failure to instruct on contributory negligence, and its failure to grant a new trial because of prejudicial remarks made by plaintiff’s counsel.
+
+    
+
+    
+
+      
+4
+
+      
+. Annotation, 
+Right to Recover for Emotional Disturbance or its Physical Consequences, in the Absence of Impact or Other Actionable Wrong, 
+64 A.L.R.2d 100
+, 103 (1959) (footnotes omitted).
+
+    
+
+    
+
+      
+5
+
+      
+. 
+See 
+Douglas Marlowe, Comment, 
+Negligent Infliction of Emotional Distress: A Jurisdictional Survey of Existing Limitation Devices and Proposal Based on an Analysis of Objective Versus Subjective Indices of Distress, 
+33 Vill.L.Rev. 781
+ (1988).
+
+    
+
+    
+
+      
+6
+
+      
+
+        
+. See generally 
+Peter Bell, 
+The Bell Tolls: Toward Full Tort Recovery for Psychic Injury, 
+36 U.Fla.L.Rev. 333
+ (1984); Marlowe, Comment, 
+33 Vill.L.Rev. 781
+ (1988).
+
+    
+
+    
+
+      
+7
+
+      
+. The district court in the present case explicitly adopted the "full recovery” rule .as formulated by the Fifth Circuit in 
+Plaisance v. Texaco, 
+937 F.2d 1004
+ (5th Cir.1991), allowing recovery under the FELA for negligently inflicted emotional distress where the normal showings of duty, breach, causation and foreseeability are met. However, following a recent 
+en banc 
+rehearing, the Fifth Circuit held that the facts of 
+Plaisance 
+"make it unnecessary for us to decide whether the Jones Act [and FELA, its underlying statute] permit[] recovery for purely emotional injuries.” 
+Plaisance 
+v. 
+Texaco, 
+966 F.2d 166
+, 167 (5th Cir.1992) (en banc). The 
+en banc 
+opinion emphasized that the Fifth Circuit’s earlier holding in 
+Gaston v. Flowers Transp., 
+866 F.2d 816
+ (5th Cir.1989) “continues to represent the law of this circuit." 
+Id. 
+at 169. 
+Gaston 
+rejected recovery under the bystander test, which "implicitly foreclosed recovery under any less exacting model, such as a full recovery theory.” 
+Id. 
+Thus, the revised 
+Plaisance 
+opinion strongly suggests that the Fifth Circuit will join the Seventh in rejecting FELA recovery for emotional injuries without actual or threatened physical impact.
+
+    
+
+    
+
+      
+8
+
+      
+. Given the conflicts among the circuits, Justices White and Thomas have stated their belief that "a uniform rule should be announced by th[e Supreme] Court on this important and recurring issue.” 
+Ray v. Consolidated Rail Corp., 
+— U.S. -, 
+112 S.Ct. 914
+, 
+116 L.Ed.2d 813
+ (1992).
+
+    
+
+    
+
+      
+9
+
+      
+. We agree with the district court’s determination that these depositions were admissible for the purpose of showing the foreseeability of Carlisle’s injury by establishing that Conrail had adequate notice of the stressful conditions of Carlisle’s job and of the possible emotional and physical injuries that might result.
+
+    
+
+    
+
+      
+10
+
+      
+. We also agree with the district court that these reports were admissible to show foreseeability and notice to Conrail. The district court properly concluded that introduction, of these reports was not prohibited under 
+45 U.S.C. § 41
+ because this evidentiary prohibition applies to F.R.A. reports investigating the causes of specific accidents, rather than the type of general safety conditions report in question here. 
+Carlisle, 
+790 F.Supp. at 532
+.
+
+    
+
+    
+
+      
+11
+
+      
+. The injury here to Carlisle was emotional, accompanied by obvious physical manifestations. We do not face and do not decide the issue of whether purely emotional injury, caused by extended exposure to stressful, dangerous working conditions, would be compensa-ble under the FELA.
+
+    
+
+  
+

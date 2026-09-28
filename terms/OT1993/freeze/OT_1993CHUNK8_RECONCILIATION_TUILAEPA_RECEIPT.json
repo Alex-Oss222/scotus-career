@@ -1,0 +1,87 @@
+﻿{
+    "hashes":  [
+                   {
+                       "path":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_TUILAEPA.md",
+                       "sha256":  "5179d539bd58919d0599bbdac1739a8649f75635a53a8d3fc0320fe9fe708927"
+                   },
+                   {
+                       "path":  "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_VALIDATION_C.md",
+                       "sha256":  "8c0c9845df5ff7b95027a894c9f0fd95108f5f610ebd997eddd42f88edb4c759"
+                   },
+                   {
+                       "path":  "terms/OT1993/freeze/OT_1993CHUNK8_RECONCILED_TUILAEPA.md",
+                       "sha256":  "255871b4639049504012c8f01b491a744dc551d3ababde1e411a5dc32403a9db"
+                   },
+                   {
+                       "path":  "terms/OT1993/freeze/OT_1993CHUNK8_RECONCILIATION_VALIDATION_TUILAEPA.md",
+                       "sha256":  "c548e32395975fe4f4c2ad0ea4975318ee94815d4471b40f2268932e76654585"
+                   }
+               ],
+    "turnerSubstantiveBlockIdentity":  [
+                                           {
+                                               "block":  "Participation",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Public Action",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Judgment \u0026 Remedy",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Opinion Topology",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Holdings",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Precedent Treatment",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Law After Decision",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Separate Writings",
+                                               "equal":  true
+                                           },
+                                           {
+                                               "block":  "Procedure After Action",
+                                               "equal":  true
+                                           }
+                                       ],
+    "associates":  [
+                       "Blackmun",
+                       "Stevens",
+                       "O\u0027Connor",
+                       "Scalia",
+                       "Kennedy",
+                       "Souter",
+                       "Thomas",
+                       "Ginsburg"
+                   ],
+    "affirm":  [
+                   "Stevens",
+                   "O\u0027Connor",
+                   "Scalia",
+                   "Kennedy",
+                   "Souter",
+                   "Thomas",
+                   "Ginsburg"
+               ],
+    "oppose":  [
+                   "Blackmun"
+               ],
+    "components":  [
+                       "Tuilaepa factor (a)",
+                       "Tuilaepa factor (b)",
+                       "Tuilaepa factor (i)",
+                       "Proctor factor (a)"
+                   ],
+    "scope":  "Associate-only reconciliation; no final Court tally"
+}

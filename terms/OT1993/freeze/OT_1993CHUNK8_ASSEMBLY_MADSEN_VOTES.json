@@ -1,0 +1,388 @@
+{
+  "Madsen v. Women's Health Center, Inc.": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reach geographic tailoring and paragraph (4)",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Reject present categorical content/association challenge",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Preserve qualified public access arrangement; Stevens categorical grounds only",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Reverse private extension",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [],
+        "decline": [
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Affirm medical noise",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "decline": [
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Reverse images",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [],
+        "decline": [
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Reverse initial-invitation approach condition",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stevens"
+        ]
+      },
+      {
+        "name": "Reverse residential territory",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Decline independent (7)–(9) substantive merits",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "Remove actually invalidated paragraph (9) predicates",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      },
+      {
+        "name": "No mandatory new post-refusal replacement",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stone"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "I review scope",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "II-A(1) actual concert plus notice; no ideological guilt",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "II-A(2) present neutrality",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "II-B heightened neutral injunction standard",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-A public access fit",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-B private extension invalid",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-C medical noise valid",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-D images invalid",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-E initial consent invalid",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-F residential territory invalid",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "IV-A independent conduct-language nonreach rationale",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "IV-B invalidated-predicate relief",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "IV-C permissive-only remand",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Stone complete mandatory post-refusal protection; conditional eight feet",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Stevens individual complete-relief equitable standard",
+        "support": [
+          "Stevens"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Scalia strict direct-restraint and operational/predicate grounds",
+        "support": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Souter additional individual-concert explanation",
+        "support": [
+          "Souter"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

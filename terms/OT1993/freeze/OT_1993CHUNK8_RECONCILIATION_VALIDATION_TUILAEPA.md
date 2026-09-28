@@ -1,0 +1,21 @@
+# Tuilaepa/Proctor — reconciliation validation
+
+**Status:** Ready for bounded assembly. Original neutral freezes and refresh notes are unchanged. No Git commands were executed; operator Git verification and commitment remain pending.
+
+## Checks performed
+
+- Read the original neutral packet, sanitized source remainder, original commitments, neutral validation, both dependency refreshes, and authorized comparator. No Stone, combined brief, private prior annex or root private control was received.
+- Read the complete official Tuilaepa report, 512 U.S. 967–996, including all separate writings and footnotes. Verified historical topology: Kennedy with Rehnquist, O'Connor, Scalia, Souter and Thomas; separate Scalia and Souter concurrences; Stevens with Ginsburg in judgment; Blackmun dissenting. Both historical judgments were affirmed 8–1. This supplies no simulated assignment.
+- Directly checked complete prior public Stringer, Espinosa, Graham, Arave and Johnson v. Texas entries, selected capital Standards, and complete bounded Victor/Sandoval, Romano, Simmons and Shannon entries. June 27's neutral refresh and the later Turner channel clarification change no capital premise.
+- Read Turner's corrected appeal-channel account and source note in `../entering-law/OT_1993CHUNK8_TURNER_ROUTE_CLARIFIED_PUBLIC.md`: Section 23 requires the three-judge District Court, and Section 1253 supplies this appeal from denial of injunctive relief. The precise lower disposition is clarified. This bounded Event/Source Notes update changes no substantive rule, vote, join or remedy and requires no capital remodeling.
+- Tested all eight Associates on every presented component: Tuilaepa (a), (b), (i); Proctor (a). The final Associate-only partition is seven rejecting each challenge and one finding each defective. Stevens's earlier (a)/(i) invalidity and vacatur change to no-error affirmance; Blackmun's earlier acceptance of (b) changes to the already framed guidance objection. Ginsburg's narrow rationale and Scalia's willingness to join compatible limited reasoning are preserved without assigning final joins.
+- Checked the Justice-specific proposed departures against actual changed law. Texas mitigation rules preserve a route absent there but present here; Romano's unrelated death-decision distortion and Simmons's withheld legal rebuttal are absent from these records. General concern for guidance supplies no sufficient changed premise for Stevens's departure. No new premise supports exempting (b) from Blackmun's broader weighing-guidance objection.
+- Kept statutory `if relevant`, the entire challenged-factor wording, violence after the capital offense, state constructions, proof instructions and nonmechanical weighing distinct. Proctor's separate charge and limited (a) question remain separate. No bias or absence-of-mitigation finding was inferred.
+- Kept no-error affirmance separate from constitutional-error cure. Blackmun's preferred noncapital relief and acceptance of a minimum lawful factor-error remand remain explicit. Seven affirmance votes imply no harmlessness vote; lower-court concurrences supply no universal cure. Guilt remains outside the requested sentencing relief.
+- No new material neutral-source correction was needed. Blackmun's general factor-(b) objection rests on the formulated weighing issue already available to neutral modeling, not a newly adopted specific missing-instruction fact. Any such new factual reliance remains a return-to-neutral gate.
+
+## Final handoff and boundaries
+
+`OT_1993CHUNK8_RECONCILED_TUILAEPA.md` is the final reconciliation handoff. Seven Associates—Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg—would affirm both judgments against the presented questions; Blackmun opposes. No final nine-member judgment, author, writing structure, Stone compatibility or controlling opinion is determined here. No Record, workspace projection or render was written.
+
+The full original trial appendices and exhaustive merits briefs remain unreviewed; no new quotation, concession, juror finding, precise instruction omission or harmlessness conclusion fills that gap. The limited paths do not require such a fact. There is no remaining June 24/27 dependency blocker and no source blocker preventing bounded assembly. Original and final handoff hashes appear in the companion receipt.

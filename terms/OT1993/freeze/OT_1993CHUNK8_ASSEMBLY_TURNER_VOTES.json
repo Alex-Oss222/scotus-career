@@ -1,0 +1,180 @@
+{
+  "Turner Broadcasting System, Inc. v. FCC": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Vacate summary judgment and remand without final invalidation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Reverse for constitutional relief against challenged compulsory carriage",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Cable protected expression; no broadcast-scarcity or rational-basis shortcut in II-A/II-B formulation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Ordinary content-classification rule in II-B",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "General full-power obligations content neutral, with low-power/market and administration reservations",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "OBrien/Ward intermediate standard, no least-restrictive-means demand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Free broadcasting, diverse sources and fair competition substantial content-neutral interests",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Reasonable predictive inferences from substantial evidence; substantial deference; no formal legislative record",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-B complete evidentiary rule and present-record insufficiency application",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Content preference and strict-scrutiny invalidity",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Independent invalidity for excessive scope even assuming content neutrality",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Existing record sufficient; primary affirmance",
+        "support": [
+          "Stevens"
+        ],
+        "controlling": false
+      }
+    ],
+    "nonbinary_scope_positions": [
+      {
+        "name": "Final evidentiary application: existing record insufficient for defenders summary judgment",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Kennedy",
+          "Souter"
+        ],
+        "oppose": [
+          "Stevens"
+        ],
+        "nonbinary": [
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "scope": "Stevens finds evidence sufficient; four reversal voters reject the intermediate-remand path on other grounds and are not classified as finding evidence sufficient."
+      }
+    ]
+  }
+}

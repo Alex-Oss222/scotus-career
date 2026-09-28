@@ -1,0 +1,108 @@
+Frank Basil McFarland v. James A. Collins, 7 F.3d 47, Fifth Circuit, No. 93-1954, October 26, 1993.
+
+Verbatim opinion body and footnote; source editorial metadata excluded.
+
+ON MOTION FOR STAY OF EXECUTION AND APPOINTMENT OF COUNSEL
+
+    
+Before DAVIS, JONES, and DUHÉ, Circuit Judges.
+
+    
+PER CURIAM:
+
+    
+Frank B. McFarland seeks in forma pau-peris status and a certificate of probable cause to review the district court’s denial of his application for a stay of execution and for the appointment of counsel to represent him in the filing and prosecution of a complaint for habeas relief. He also seeks from this Court a stay of execution.
+
+    
+We grant IFP but deny certificate of probable cause.
+
+    
+The only post conviction relief petitioner has sought in state court has been a number of motions to stay court ordered executions to permit the petitioner to obtain habeas counsel. The final motion for stay was denied by the Texas Court of Criminal Appeals on October 22. Thus, no post-conviction claims have been filed in state court alleging specific constitutional infirmities in his state court conviction and sentence. The only pleadings McFarland has filed in federal district court is a motion for stay of the state court ordered execution and request for appointment of counsel and a request for certificate of probable cause. McFarland seeks review of the district court’s denial of those motions.
+
+    
+A Petitioner does not have a right to an automatic stay pending the filing of his first habeas corpus petition. 
+Autry v. Estelle, 
+464 U.S. 1
+, 2, 
+104 S.Ct. 20
+, 22, 
+78 L.Ed.2d 1
+ (1983). A United States Court may not stay proceedings in a state court except as expressly authorized by act of Congress, or where nec.essary in aid of its jurisdiction, or to perfect or effectuate its judgments. 
+28 U.S.C. § 2283
+. Such an act of 
+*49
+Congress exists in the form of 
+28 U.S.C. § 2251
+, but it authorizes stay only by a court before which a habeas corpus proceeding is pending. No habeas corpus proceeding was pending before the district court and none is pending here. A suit is pending when commenced. 
+In Re Connaway, 
+178 U.S. 421
+, 427-28, 
+20 S.Ct. 951
+, 953-54, 
+44 L.Ed. 1134
+ (1900). Federal Rule of Civil Procedure 3 makes it clear one commences a civil proceeding by filing a complaint with the court. That has not been done. We do not view the motion for stay and for appointment of counsel as the equivalent of an application for habeas relief. 
+Brown v. Vasquez, 
+952 F.2d 1164
+, 1166 (9th Cir.1991), 
+cert. denied, 
+— U.S. -, 
+112 S.Ct. 1778
+, 
+118 L.Ed.2d 435
+ (1992). We do not, however, share the view of the Ninth Circuit in 
+Brown 
+that the filing of the motions at issue is sufficient to meet the requirement of § 2251 that a habeas proceeding be “pending” before we may stay state court proceedings. 
+Brown, 
+952 F.2d at 1169
+. In fact, all of the “pro se” filings in this matter, which were prepared by the Texas Resource Center, show clearly that no habeas action is pending in any court.
+
+    
+Were we, by some legal alchemy, to ignore the foregoing, Appellant still could not prevail. He does not make the minimal showing necessary to establish entitlement to a stay. Appellant argues that he is entitled to appointment of counsel, and appointed counsel will require additional time to prepare the habeas petition. There is, however, no constitutional right to court appointed counsel in state post-conviction proceedings. 
+Coleman v. Thompson, 
+— U.S. -, 
+111 S.Ct. 2546
+, 
+115 L.Ed.2d 640
+ (1991); 
+Murray v. Giarratano, 
+492 U.S. 1
+, 
+109 S.Ct. 2765
+, 
+106 L.Ed.2d 1
+ (1989). We are not prepared to accept the blanket assertion that, in this case, meaningful access to the courts necessarily means court appointed counsel. 
+Id.
+
+    
+
+    
+Additionally, to be entitled to a stay, Appellant must show, if not a probability of success on the merits, at least a substantial case on the merits when a serious legal question is involved. 
+Byrne v. Roemer, 
+847 F.2d 1130
+, 1133 (5th Cir.1988). Appellant has not even indicated the issues that might be raised in a habeas application, much less shown a substantial case on the merits. 
+Barefoot v. Estelle, 
+463 U.S. 880
+, 895, 
+103 S.Ct. 3383
+, 3395, 
+77 L.Ed.2d 1090
+ (1983).
+1
+
+    
+
+    
+Accordingly the application for certificate of probable cause is denied. The motion for stay of execution and appointment of counsel is also denied.
+
+    
+
+      
+1
+
+      
+. There is yet another problem not addressed by any of Appellant's filings: the question of exhaustion of state remedies. Petitioner must exhaust state habeas remedies before he is entitled to relief on a federal habeas petition. 
+28 U.S.C. § 2254
+(b) (West 1985); 
+In re Lindsey, 
+875 F.2d 1502
+, 1506 (11th Cir.1989). The numerous attachments to the papers filed show not only that no claims have been exhausted; but no post conviction claims have even been filed in state court. Thus, even if McFarland’s pleadings are characterized as a federal habeas petition, the district court would be obliged to dismiss it for failure to exhaust the claims.

@@ -1,0 +1,141 @@
+UNITED STATES of America, Plaintiff-Appellee, v. James Timothy HARRELL, Robert Galveston Alexander, and John Henry Porter, Defendants-Appellants.
+No. 85-3464.
+United States Court of Appeals, Eleventh Circuit.
+May 13, 1986.
+Rehearing and Rehearing En Banc Denied June 16,1986.
+*1525
+Robert J. Vossler, Federal Public Defender, Tallahassee, Fla., for Harrell.
+Donald S. Modesitt, Tallahassee, Fla., for Alexander.
+Clyde M. Taylor, Jr., L. Sanford Selvey, II, Tallahassee, Fla., for Porter.
+Lennard B. Register, III, Asst. U.S. Atty., Tallahassee, Fla., for the U.S.
+Before GODBOLD, Chief Judge, TJO-FLAT, Circuit Judge, and TUTTLE, Senior Circuit Judge.
+TUTTLE, Senior Circuit Judge:
+This is an appeal from the conviction of the appellants on a three count indictment alleging possession of marijuana with intent to distribute, a conspiracy to possess with intent to distribute the drugs and with knowingly and intentionally using a communication facility in committing a felony.
+BACKGROUND
+The case against defendants involves the stealing of a substantial amount of marijuana from the Wakulla County, Florida Sheriff’s Department some time in July, 1980. The defendants were recruited to assist in the theft and sale of the marijuana by Williams, a deputy sheriff. Williams later resigned to avoid taking a lie detector test. Subsequently, at the government’s request, he secretly tape recorded other defendants. There is more than sufficient evidence of the participation in the conspiracy by all three appellants.
+I. ISSUES
+1. Did the trial court err in allowing into evidence tape recorded conversations of Alexander containing statements incriminating appellants Porter and Harrell?
+2. Did the trial court abuse its discretion in admitting enhanced tape recordings and allowing the jury to use transcripts' thereof while listening to the tapes?
+3. Did the trial court err in its discovery rulings?
+4. Was there sufficient evidence to prove that there has been one conspiracy as charged in the indictment and that each appellant was involved therein?
+5. Did reversible error occur when an expert witness was authorized by the court to enter the jury room in connection with the setting up of tape recording equipment?
+*1526
+II. DISCUSSION
+1. Appellants complained of the introduction of tape recordings in which statements by one defendant implicated one or more other defendants who were not present at the taping. They contend that the trial court erred in denying Porter’s motion to redact certain portions of taped conversations wherein Porter was named but at which he was not present. The same motion was made on behalf of Harrell as to some of the tapes. Appellants contend it was error for the court to permit the tapes to go to the jury without eliminating the names of the co-defendants. Under the principle of
+Bruton v. United States,
+391 U.S. 123
+,
+88 S.Ct. 1620
+,
+20 L.Ed.2d 476
+(1968), appellants made the appropriate motions to prevent the jury from hearing the testimony on the tapes dealing with the non-speaking defendant. The trial court overruled the motions, holding that the statements were admissible under Federal Rules of Evidence 804(b)(3) (statement against interest
+1
+), and 801(d)(2)(E) (statement by a co-conspirator of a party during the course and in furtherance of the conspiracy.
+2
+)
+This Court in
+United States v. Avery,
+760 F.2d 1219
+(11th Cir.1985), recognized that:
+“Bruton
+holds that any extra judicial statement of one defendant,
+not otherwise admissible against his co-defendant,
+may not be introduced in the co-defendant’s trial.” (Emphasis added.) Here, the trial court admitted government’s exhibits 11, 12, and 13 against appellants Harrell and Porter under Rule 804(b)(3) and under Rule 801(d)(2)(E), Fed.R.Evid. Obviously, therefore, if the evidence was admissible under either rule,
+Bruton
+does not control.
+We need not consider whether Rule 801(d)(2)(E), the co-conspirator rule, applied here, because we conclude that the evidence was admissible under the rule permitting the admission of a statement against interest. There can be no doubt that what Alexander said in his taped conversation with Williams admitted fully and completely all of the charges that had been made against him. His admissions clearly were against his penal interest. The court found that the three-prong test set forth in
+United States v. Alvarez,
+584 F.2d 694
+(5th Cir.1978)
+3
+, had been met. To be admissible under Rule 804(b)(3), a statement must be against the penal interest of the declarant, corroborating circumstances must exist indicating the trustworthiness of the statement, and the declarant must be unavailable.
+United States v. Mock,
+640 F.2d 629
+(5th Cir.1981);
+United States v. Robinson,
+635 F.2d 363
+(5th Cir.1981).
+Treating these matters in reverse order, it is clear that the declarant was not available as a witness. The government was unable to call co-defendant declarants Alexander and Harrell as to statements incriminating Porter on some of the exhibits and Alexander as to statements incriminating Harrell on others, since they were on trial and thus were privileged against testifying.
+United States v. Thomas,
+571 F.2d 285
+, 288 (5th Cir.1978);
+Robinson,
+supra,
+at 364
+.
+*1527
+The second test is that in order to satisfy the “against penal interest” prong, the statement must so far tend to subject the declarant to criminal liability that a reasonable man in his position would not have made the statement unless he believed it to be true. Appellants seek to engraft on this test a requirement that appellants must know that they were being recorded and that they must know that they were speaking with persons who could have caused their prosecution. No such requirement exists with respect to this rule.
+United States v. Bagley,
+537 F.2d 162
+(5th Cir. 1976),
+cert. denied,
+429 U.S. 1075
+,
+97 S.Ct. 816
+,
+50 L.Ed.2d 794
+(1977):
+We do not think that a reasonable man would falsely admit the commission of a serious crime to his cellmate knowing that there was chance, even if slight, that this admission could be used to convict him and subject him to such severe penalty.
+537 F.2d at 165
+.
+The last prong of the test, that there were “corroborating circumstances which clearly indicate the trustworthiness of the statement” is also satisfied in this case. There was ample testimony entirely aside from the contents of the tapes involving each of these appellants in the crime.
+2. Appellants challenge the trial court’s refusal to omit the tapes from evidence because of imperfections in the tapes. This Court has previously held that:
+The Court properly admitted a sound recording into evidence only when the party introducing it carries its burden of going forward with foundation evidence demonstrating that the recording as played is an accurate reproduction of relevant sounds previously audited by a witness. As a general rule, at least in the context of a criminal trial, this requires the prosecution to go forward with respect to the competency of the operator, the fidelity of the recording equipment, the absence of material deletions, additions, or alterations in the relevant portions of the recording, and the identification of the relevant speakers.
+United States v. Biggins,
+551 F.2d 64
+, 66 (5th Cir.1977).
+The
+Biggins
+Court stated further, however,
+Nevertheless the trial judge has broad discretion in determining whether to allow a recording to be played before the jury.
+2
+The standards of foundation evidence we adopt serve the paramount purpose of ensuring the accuracy of the recording. Strict compliance with the government’s particularized burden is the preferred method of proceeding. If the trial judge independently determines that the recording accurately reproduces the auditory evidence, however, his discretion to admit the evidence is not to be sacrificed to a formalistic adherence to the standard we establish. If there is independent evidence of the accuracy of the tape recordings admitted at trial, we shall be extremely reluctant to disturb the trial court’s decision even though at the time that decision was made the government had not carried its particularized burden of going forward.
+Id.
+at 67
+.
+We conclude that the trial court in this case fully satisfied the requirements addressed by the court in
+Biggins.
+We are also satisfied that the trial court adequately instructed the jury as to the manner in which the tapes and transcripts should be used. No error occurred when the trial court admitted the tapes in evidence.
+3. We have carefully considered appellants’ complaints as to the trial court’s acts in relation to Jencks Act material and as to refusal to permit the introduction of evidence by defendants. We conclude that nothing that occurred during the trial proceedings amounted to an abuse
+*1528
+of discretion to the substantial prejudice of the appellant.
+4. We conclude that there was sufficient evidence from which the jury in this case could find that the acts complained of under Count I were part of a single, rather than two conspiracies. This determination is one for the jury to make when the court properly charges the law with respect to the existence of a conspiracy.
+5. Finally, appellants complain of the denial by the trial court of their second motion for new trial based on facts discovered by them after the trial. These facts were asserted to be knowledge that during the jury’s deliberation, an expert witness for the government named Holbrook, had entered the jury room where he instructed the members of the jury or their foreman as to the use of equipment so that the jurors could use a mini cassette if they saw fit to do so. The trial court set the motion for rehearing, as for a motion for rehearing on the basis of newly-discovered evidence, down for a hearing. The oral testimony was undisputed that Dr. Holbrook entered the jury room the first time under a direct instruction from the trial court and with the consent of counsel for the defendants and his later entry into the jury room was solely for the purpose of explaining the use of the mini cassette and that there was no discussion or “deliberation” by the jury on the merits of the case while he was in the room. We agree with the trial court’s findings and conclusions in this regard:
+So there in a — in that same vein, and there has been nothing presented to me to — indicating that there was any invasion of the province of the jury, no suggestion of any impropriety or suggestion as to how the jury should agree or disagree or come to a resolution on any of the matters presented to them for their consideration.
+Dr. Holbrook’s entry into the jury room was under the court’s direction. He was accompanied by a United States marshal. There was no evidence presented that any — any prohibited matters took place in the jury room and finding that, I find no prejudice on behalf-prejudice against the defendant’s rights, and the motion is denied.
+The judgments are AFFIRMED.
+1
+. This Rule provides:
+(b)
+Hearsay exceptions.
+The following are not excluded by the hearsay rule if the declar-ant is unavailable as a witness:
+(3)
+Statement against interest.
+A statement which was at the time of its making so far contrary to the declarant’s pecuniary or proprietary interest, or so far tended to subject him to civil or criminal liability, or to render invalid a claim by him against another, that a reasonable man in his position would not have made the statement unless he believed it to be true. A statement tending to expose the declarant to criminal liability and offered to exculpate the accused is not admissible unless corroborating circumstances clearly indicate the trustworthiness of the statement.
+2
+. This Rule provides:
+(d)
+Statements which are not hearsay.
+A statement is not hearsay if—
+(2)
+Admission by party-opponent.
+The statement is offered against a party and is____
+(E) a statement by a coconspirator of a party during the course in furtherance of the conspiracy.
+3
+. In
+Bonner v. City of Prichard,
+661 F.2d 1206
+(11th Cir.1981) (en banc), this Court adopted as precedent all of the decisions of the former Fifth Circuit decided prior to October 1, 1981.
+2
+Cf. United States
+v.
+Avila,
+443 F.2d 792
+(5th Cir)
+cert. denied,
+404 U.S. 944
+,
+92 S.Ct. 295
+,
+30 L.Ed.2d 258
+(1971) (trial court did not abuse discretion by admitting partially inaudible tape recording where there was ample basis for determining that it was accurate reproduction and person who carried recording device was available for cross-examination).

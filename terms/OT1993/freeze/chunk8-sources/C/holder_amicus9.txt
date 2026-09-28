@@ -1,0 +1,1242 @@
+Iu the Supreme Court of the United 
+
+
+OCTOBER TERM, 1992 
+
+
+JACKIE HOLDER, ETC., ET AL., PETITIONERS 
+
+
+E.K. HALL, SR., ET AL. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE ELEVENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE 
+SUPPORTING RESPONDENTS 
+
+
+- 
+
+
+WILLIAM C. BRYSON 
+
+Acting Solicitor General 
+JAMES P. TURNER 
+
+Vefepet ferw? liforwe y Ge ple ral 
+
+EpWIN S. KNEEDLER 
+
+Acting Deputy Solicitor General 
+MICHAEL R. DREEREN 
+
+ASSIS ‘a wf fu ti} ‘ Nolicitor ts re ral 
+DENNIS J. DIMSEY 
+IRVING GORNSTEIN 
+
+Attoi ves 
+
+Dh pea: imieni of Justice 
+
+Washington, D.C. 20520 
+
+
+(22) 514-2217 
+
+
+No. 91-2012 | MAY 19 1993 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Court of Appeals erred in holding 
+that governance by a single county commissioner, 
+rather than a multi-member board of commissioners, 
+is subject to challenge as dilutive under Section 2 of 
+the Voting Rights Act of 1965, as amended, 42 
+U.S.C. Section 1973. 
+
+
+(1) 
+
+
+ee . 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Interest of the United States 202. ........2.----ccecceeeeeeees 1 
+ee ecsuunmeussauonacnocnss 
+a ssunnsetonentounan 7 
+Argument: 
+
+
+The practice of electing a sole county commissioner, 
+rather than a multimember commission, is subject 
+to challenge as dilutive under Section 2 of the Vot- 
+EE EE ee 10 
+
+
+A. Section 2 is applicable to single-member offices.. 10 
+
+
+B. The application of vote-dilution theory in this 
+case is consistent with Gingles and is not pre- 
+mised on the view that Section 2 guarantees 
+
+
+proportional representation —................. A 15 
+
+C. Analysis under Section 2 does not ignore state 
+policy interests ........................ SAE 21 
+a stussnamanonnussaneas 25 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Allen v. State Bd. of Elections, 393 U.S. 544 
+EEE SELLE SC 10 
+Carrollton Branch of NAACP vy. Stallings, 829 
+F.2d 1547 (11th Cir. 1987), cert. denied, 485 
+
+
+a 5 
+Chisom V. Roemer, 111 8. Ct. 2354 (1991) .......... 7, 10, 13, 
+20, 23 
+
+City of Lockhart v. United States, 460 U.S. 125 
+EE SITS neo he a 12 
+Clark Vv. Roemer, 111 S. Ct. 2096 (1991)... 12 
+
+Dillard v. Crenshaw County, 831 F.2d 246 (11th 
+ESSE TT 24 
+Gregory V. Ashcroft, 111 S. Ct. 2395 (1991) .......... 23 
+Growe V. Emison, 113 8S. Ct. 1075 (1993) ...... eS 15, 16 
+
+Houston Lawyers’ Ass'n Vv. Attorney General of 
+Texas, 111 S. Ct. 2376 (1991) 2.000000... 4, 9, 11, 22 
+
+(111) 
+
+
+IV 
+
+
+Cases—Continued : Page 
+Jeffers Vv. Clinton, 730 F. Supp. 196 (E.D. Ark. 
+1989), aff'd mem., 498 U.S. 1019 (1991) ....... 18 
+McNeil Vv. Springfield Park Dist., 851 F.2d 937 (7th 
+Cir. 1988), cert. denied, 490 U.S. 1031 (1989)... 21 
+Overton V. City of Austin, 871 F.2d 529 (5th Cir. 
+EERE ERTET SLR Serer IS, 4 BO 21 
+Presley v. Etowah County Comm'n, 112 S. Ct. 820 
+RENNER ESE ARS CREE SESE 12,13 
+Romero V. City of Pomona, 883 F.2d 1418 (9th Cir. 
+a =e 21 
+Sirty-Seventh Minnesota State Senate v. “Beene, 
+Oe Wns 20 
+Thornburg V. Gingles, 478 U.S. 30 (1986) 38, 4, 8, 14, 
+
+
+15, 16, 17, 19, 21 
+United States v. Dallas County Comm'n, 850 F.2d 
+1430 (11th Cir. 1988), cert. denied, 490 U.S. 
+
+
+1030 (1989) | EE SS ae Pa oa 24 
+Voinovich V. Quilter, 113 8S. Ct. 1149 (1993) rath 15, 19 
+Constitution and statutes: 
+U.S. Const. Art. 11,§ 1,Cl.1 23 
+Voting Rights Act of 1965, 42 U.S. C. 1973 et s seq. 
+SS GA Scene eae passim 
+§ 2(a), 42 U.S.C. 1973 (a) Bo AONE aS Ch 10, 13, 14 
+§ 2(b), 42 U.S.C. 1973 (b) ...... uu... 10, 13, 14, 15 
+Ck a } | 
+Ga. Code Ann. § 36-5-22.1 (1987)... 2 24 
+EE, 
+Miscellaneous : 
+Georgia Dep’t of Community Affairs, County Gov- 
+ernment Information Catalog (1989) 18 
+
+
+National Ass’n of Counties, County Government 
+Structure: A State by State Report (July 
+ek aoe 18 
+
+S. Rep. No. 417, 97th Cong., 2d Sess. (1982). 21, 23 
+
+The Federalist No. 69 (A. Hamilton) (C. Rossiter 
+ed. 1961) ......... 23 
+
+U.S. Bureau of the Census, 1987 Census of Gov- 
+ernments, Vol. 1, No. 2: United States Govern- 
+ment Organization; Popularly Elected Officials 
+ ) eee piaiesebaiaaiaincbaaneneniabenieins 18 
+
+
+Iu the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1992 
+
+
+No. 91-2012 
+JACKIE HOLDER, ETC., ET AL., PETITIONERS 
+v. 
+
+
+E.K. HALL, SR., ET AL. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE ELEVENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE 
+SUPPORTING RESPONDENTS 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+This case involves the application of Section 2 of 
+the Voting Rights Act of 1965, 42 U.S.C. 1973, to a 
+claim that the practice of electing a sole county 
+commissioner in Bleckley County, Georgia, dilutes 
+the voting strength of black voters. The United 
+States has the primary responsibility for enforcing 
+Section 2, and the resolution of this case will affecc 
+that responsibility. In response to the Court’s in- 
+vitation, the Solicitor General submitted a brief at 
+the petition stage of this case.’ 
+
+
+'The government’s brief at the petition stage expressed 
+the view that the Voting Rights Act applies to the practice of 
+using single-member offices, but that the practice cannot be 
+
+
+(1) 
+
+
+2 
+STATEMENT 
+
+
+1. Bleckley County is situated in rural central 
+Georgia. In 1980, it had a total population of 10,767. 
+Twenty-two percent of the population is black; the 
+voting age population is 19 percent black. Pet. App. 
+4, 5. 
+
+Since its creation in 1912, Bleckley County has 
+had a sole commissioner form of government. Pet. 
+App. 4. The commissioner, like all county governing 
+authorities in the State, has both legislative and ex- 
+ecutive power. Among other things, the commis- 
+sioner has “exclusive jurisdiction” to control the 
+county’s property, to levy taxes, to maintain roads 
+and bridges, to fill vacancies in county offices, to ap- 
+propriate money, and to make rules and regulations 
+tu promote the general welfare. Ga. Code Ann. § 36- 
+5-22.1 (1987). The commissioner is elected by all 
+voters in the county and must receive a majority of 
+the votes cast. Pet. App. 65. No black candidate has 
+ever run for or served as commissioner.’ Jd. at 78. 
+
+
+challenged under Section 2 on a vote-dilution theory. On 
+further reflection, we have concluded for the reasons set forth 
+in this brief that the practice of electing a sole county com- 
+
+
+missioner is subject to challenge as dilutive in violation of 
+Section 2. 
+
+
+* Bleckley County’s black community leaders, many of whom 
+are experienced local politicians, expressed the belief that it 
+would be nearly impossible for a black candidate to win an 
+at-large, county-wide election. Pet. App. 78-79. At trial, the 
+district court agreed, stating, “[h]aving run for public office 
+myself, I'll guarantee you, under the circumstances, I wouldn’t 
+run if I were black in [Bleckley] county. You’re going to put 
+your hard-earned time and shoe leather campaigning through- 
+out this county * * * under these circumstances”” Jd. at 79. 
+
+
+3 
+
+
+In 1985, the Georgia legislature authorized Bleckley 
+County to adopt by referendum a multimember com- 
+mission consisting of five commissioners elected from 
+single-member districts and a chairman elected at 
+large. 1985 Ga. Laws 4406. That referendum was 
+defeated by a vote of 1,156 to 887. Pet. App. 9.’ 
+
+2. Respondents are black voters residing in Bleck- 
+ley County, as well as the local chapter of the 
+NAACP. In 1985, they filed suit in federal district 
+court against petitioners, who are Bleckley County’s 
+commissioner and its superintendent of elections. Re- 
+spondents alleged that Bleckley County’s practice of 
+electing 2 sole commissioner, rather than electing a 
+multimember commission, violates Section 2 of the 
+Voting Rights Act, 42 U.S.C. 1973. Pet. App. 66. 
+
+After a trial, the district court ruled in favor of 
+petitioners. Applying the framework established in 
+Thornburg v Gingles, 478 U.S. 30 (1986), the dis- 
+trict court found that respondents had satisfied the 
+first of the three Gingles preconditions for a vote- 
+dilution claim because, in the absence of the chal- 
+lenged use of a single-member commission, black vot- 
+ers were sufficiently numerous and compact that they 
+would have constituted a majority in one district of 
+2 multimember commission. Pet. App. 55; see Gingles, 
+478 U.S. at 50-51. The court found that “[i]f the 
+county commisison were increased in number to six 
+commissioners to be elected from five single member 
+districts and if the districts were the same as the 
+present school board election districts, a black ma- 
+jority ‘safe’ district * * * would result.” Pet. App. 
+12. 
+
+
+’ Four years earlier, county voters approved a five-member 
+district plan for the election of the Bleckley County School 
+Board. Pet. Br. 7 n.5. 
+
+
+4 
+
+
+The court determined, however, that respondenis 
+had failed to prove racially polarized voting in Bleck- 
+ley County, and had therefore failed to establish the 
+second and third Gingles preconditions. See 478 U.S. 
+at 51. In reaching that conclusion, the court assumed 
+that the only way to prove polarized voting is through 
+statistical evidence of voting behavior. Pet. App. 50- 
+51 & n.45. The court noted that respondents had not 
+produced evidence of polarized voting in local elec- 
+tions. /d. at 33. Because the county has only one 
+voting precinct, the court found, such evidence was 
+“not available.” /d. at 25; see ‘d. at 33 n.22. Al- 
+though respondents had offered statistical data con- 
+cerning the 1984 and 1988 presidential primaries in 
+which Jesse Jackson was a candidate, the court found 
+that the evidence was insufficient to prove a pattern 
+of polarized voting. /d. at 37-46, 50-51. The court 
+therefore concluded that respondents had failed to 
+satisfy the third Gingles precondition—that white. 
+usually vote sufficiently as a bloc to defeat the mi- 
+nority’s preferred candidate. 7d. at 51. For essen- 
+tially the same reason, the court found that respond- 
+ents had failed to prove the second Gingles precon- 
+dition—that the minority group is politically co- 
+hesive. /d. at 52-55. The court concluded that re- 
+spondents’ failure to establish these two of the 
+Gingles preconditions was fatal to their Section 2 
+claim. Id. at 55-56. 
+
+Nonetheless, the court went on to consider other 
+factors relevant to the “totality of circumstances” 
+under Section 2. It found that “blacks in Bleckley 
+County continue to suffer from a depressed socio- 
+economic status,” Pet. App. 58; that their status 
+“hinders the possibility of blacks participating ac- 
+tively in the political process,” ibid.; and that “[t]he 
+
+
+5 
+
+
+barriers to active participation in the political proc- 
+ess are today compounded by the fact that Bleckley 
+County now has only one voting precinct for the en- 
+tire 219 sware-mile area.” /d. at 7 n.3. The court 
+also found that there “have been problems in the 
+past with regard to low black representation among 
+workers at the election polling place.” /d. at 58. 
+
+On the other hand, the court found that “there is 
+no [candidate] slating process to stand as a barrier 
+te minority participation.” Pet. App. 59. The court 
+also found that respondents had failed to prove that 
+the sole commissioner was unresponsive to minority 
+voters or that the policy underlying the election of a 
+sole commissioner is “tenuous.” J/bid. Considering 
+the totality of circumstances, the court concluded that 
+respondents’ Section 2 challenge to Bleckley County’s 
+practice of electing a sole commissioner “must fail.” 
+Id. at 59-60. 
+
+3. The court of appeals reverse’. Pet. App. 62-86. 
+Relying on its decision in Ca n Branch of 
+NAACP vy. Stallings, 829 F.2d 7 (11th Cir. 
+1987), cert. denied, 485 U.S. 936 (1988), the court 
+of appeals held that a challenge to the practice of 
+electing a sole commissioner is “subject to the same 
+analysis” as that used in Gingles. Pet. App. 68. Ap- 
+plying that analysis, the court agreed with the dis- 
+trict court that respondents had satisfied the first 
+Gingles precondition by showing that blacks coul:! 
+constitute a majority of the electorate in one of five 
+single-member districts. Jd. at 74-75 & n.10. The court 
+rejected the argument that the entire county must 
+serve as the benchmark for determining whether the 
+minority group is sufficiently large to constitute a 
+majority in a district, explaining that it is “appropri- 
+ate to consider the size and geographical compactness 
+
+
+6 
+
+
+of the minority group within a restructured form of 
+the challenged system when the existing structure 
+is being challenged as dilutive.” Jd. at 74. 
+
+The court of appeals further held that the district 
+court had been “operating under a misconception of 
+the law” in finding that respondents had failed to 
+prove racially polarized voting. Pet. App. 76. The 
+court explained that a wide variety of evidence, not 
+only statistical data about elections, is relevant in de 
+termining whether there is racially polarized voting. 
+Id. at 77. After considering all the relevant evidence, 
+the court of appeals found that the evidence “con- 
+clusively” established both white bloc voting and mi- 
+nority political cohesion. Jd. at 78-85 & n.18.* 
+
+The court of appeals also concluded that “the to- 
+tality of the circumstances found in Bleckley County 
+clearly reveal[{s] a situation where the electoral power 
+of Bleckley County blacks has been abridged ‘on ac- 
+
+
+* Among other things, the court of appeals noted that (1) 
+no black has ever run for commissioner, Pet. App. 78; (2) 
+black political leaders testified that it would be futile for a 
+black candidate to run, ibid.; (3) the district judge echoed 
+that observation based on his political experience, id. at 79: 
+(4) the available statistical evidence revealed polarized vot- 
+ing, td. at 79-80; (5) black candidates had consistently lost 
+local elections in which whites constituted a voting majority, 
+but had won when blacks were in the majority, id. at 81: 
+(6) a significant number of Bleckley County voters had sup- 
+ported segregationist candidates in the past, id. at 82: and 
+(7) Bleckley County had long practiced racial discrimination 
+in all aspects of local life, id. at 83-84. Petitioners challenged 
+in this Court the court of appeals’ conclusion that respondents 
+had shown white bloc voting and minority political cohesion, 
+but the Court's order limiting the grant of certiorari and 
+formulating the question presented excluded those issues. 113 
+S. Ct. 1382 (1993). 
+
+
+> 
+
+
+count of race or color.” Pet. App. 86. The court of 
+appeals therefore held that respondents had estab- 
+lished a violation of Section 2, and it remanded for 
+the fashioning of a remedy. /bid. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The court of appeals correctly determined that the 
+practice of electing a sole commissioner to Bleckley 
+County’s governing body can be challenged as dilu- 
+tive of minority voting power under Section 2 of the 
+Voting Rights Act. If the County had moved from 
+a five-member commission, with one member elected 
+by minority voters, to a single-commissioner system 
+in which minority voters had no power to influence 
+the election, the minority vote clearly would have 
+been diluted. The same analysis applies to respond- 
+ents’ vote-dilution challenge to Bleckley County’s ex- 
+isting single-commissioner system. 
+
+A. The practice of electing a sole commissioner 
+is a “standard, practice, or procedure” within the 
+coverage of Section 2. This Court has made clear that 
+there is no single-member-office exception to Section 
+2. Houston Lawyers’ Ass'n vy. Attorney General of 
+Texas, 111 S. Ct. 2376 (1991). Although a locality’s 
+interests in retaining its existing election system 
+are relevant in evaluating the totality of the circum- 
+stances and in formulating a remedy, those interests 
+do not provide a per se exemption from Section 2. 
+Applying Section 2 in this case is further supported 
+by the fact that the preclearance requirements of 
+Section 5 of the Voting Rights Act are applicable to 
+changes in the size of a legislative body; Sections 2 and 
+5 should be accorded a similar reach in this context. 
+Chisom vy. Roemer, 111 S. Ct. 2354, 2367 (1991). 
+
+
+Petitioners claim that minority votes are diluted 
+in this case because of the minority’s small size in 
+the voting population, not because of the challenged 
+single-commissioner election practice. That is incor- 
+rect. In any vote-dilution challenge to an existing 
+election system, it could be said that the minority’s 
+small size, rather than the system itself, is the source 
+of the minority’s electoral failure. Thus, the issue of 
+vote dilution must be measured against a proposed 
+alternative voting arrangement that is reasonable in 
+the legal and factual context of a particular case. 
+
+B. A vote-dilution challenge to Bleckley County’s 
+election of a sole commissioner does not conflict 
+with the first precondition for a vote-dilution claim 
+announced by this Court in Thornburg v. Gingles, 
+478 U.S. 30, 50 (1986), and does not rest on the 
+premise that Section 2 guarantees proportional rep- 
+resentation. In Gingles, this Court required the mi- 
+nority group to demonstrate that, in the absence of 
+the challenged structure, “it is sufficiently large and 
+geographically compact to constitute a majority in a 
+single-member district.” 478 U.S. at 50. The plain- 
+tiffs in this case met that requirement by measuring 
+the voting strength minority voters would have if 
+Bleckley County had a five-member commission 
+elected from single-member districts. That arrange- 
+ment is common in Georgia and is consistent with 
+state law and policy. Use of such a benchmark does 
+not embrace a theory of proportional representation. 
+
+Nor does it imply that the plaintiffs in a Section 2 
+case May propose a commission of whatever size 
+would be required to ensure that minority voters can 
+elect a representative of their choice. A court would 
+be fully justified, for example, in rejecting a tiny 
+minority’s claim of vote dilution premised on an ec- 
+
+
+9 
+
+
+centric or impracticable alternative method of redis- 
+tricting. Here, however, it is Bleckley County that 
+has strayed from the norm. Few counties in Georgia, 
+and none in other States, use a one-person commis- 
+sion as the governing body. The choice of a five- 
+member body, by contrast, is common, authorized, 
+and practicable. Line-drawing problems that may 
+arise in other cases do not warrant a finding that 
+vote-dilution principles are inapplicable neve. 
+
+C. State interests in retaining the challenge 
+of electing representatives are relevant in a vote- 
+dilution case. The proper point to consider those in- 
+terests, however, is in evaluating the totality of the 
+circumstances or in developing a remedy. Houston 
+Lawyers’ Ass'n vy. Attorney General of Texas, supra. 
+In this case, the efficiency and economy interests sug- 
+gested by petitioner in defense of electing a single 
+individual to constitute the entire county commission 
+do not outweigh the substantial dilution of minority 
+voting strength produced by Bleckley County’s un- 
+usual scheme. 
+
+That a vote-dilution challenge may succeed in this 
+case does not lead to the conclusion that all tradi- 
+tional single-office executive positions, such as may- 
+ors, governors, or sheriffs, must be subdivided to com- 
+ply with the Voting Rights Act. The county commis- 
+sion here exercises all legislative as well as executive 
+authority over the county’s citizens. The compelling 
+state interests that support the retention of tradi- 
+tional single-executive positions are absent with re- 
+spect to the single-member-commission approach em- 
+ployed in Bleckley County, a body that also exercises 
+plenary legislative power within the county govern- 
+ment. 
+
+
+10 
+ARGUMENT 
+
+
+THE PRACTICE OF ELECTING A SOLE COUNTY 
+COMMISSIONER, RATHER THAN A MULTIMEMBER 
+COMMISSION, IS SUBJECT TO CHALLENGE AS 
+DILUTIVE UNDER SECTION 2 OF THE VOTING 
+RIGHTS ACT 
+
+
+A. Section 2 Is Applicable To Single-Member Offices 
+
+
+1. The initial step in determining whether the 
+Voting Rights Act applies to Bleckley County’s prac- 
+tice of electing a sole commissioner is to consider the 
+language of the Act. This Court has held that the 
+Voting Rights Act “should be interpreted in a man- 
+ner that provides ‘the broadest possible scope’ in com- 
+batting racial discrimination.” Chisom v. Roemer, 
+111 S. Ct. 2354, 2368 (1991), quoting Allen v. State 
+Bd. of Elections, 393 U.S. 544, 567 (1969). 
+
+Section 2 of the Voting Rights Act provides that 
+“[n]Jo * * * standard, practice, or procedure shall be 
+imposed or applied * * * in a manner which results 
+in a denial or abridgement of the right of any citi- 
+zen of the United States to vote on account of race 
+or color” or membership in a language minority. 42 
+U.S.C. 1973(a). A violation of that prohibition is es- 
+tablished if, “based on the totality of circumstances,” 
+it is shown that the political processes leading to 
+nomination or election “are not equally open to par- 
+ticipation by members of a class of citizens protected 
+by subsection (a) in that its members have less op- 
+portunity than other members of the electorate to 
+participate in the political process and to elect repre- 
+sentatives of their choice.” 42 U.S.C. 1973(b). The 
+practice of electing a single official to an office in a 
+particular geographic area—the use of a single- 
+
+
+member office—is a “standard, practice, or proce- 
+dure” within the meaning of Section 2, and elections 
+for such offices thus are covered by Section 2. 
+
+This Court recognized that single-member offices 
+are not immune from challenge under Section 2 of 
+the Voting Rights Act in Houston Lawyers’ Ass'n v. 
+Attorney General of Texas, 111 S. Ct. 2376 (1991). 
+In that case, the plaintiffs brought a vote-dilution 
+challenge to the election of trial judges to single- 
+member offices on a county-wide basis in Texas. The 
+Court expressly rejected the claim that “the ‘single- 
+member office’ theory automatically exempts certain 
+elections from the coverage of $2.” 111 S. Ct. at 
+2381. Instead, the Court held that the “coverage of 
+the Act encompasses the election of executive officers 
+and trial judges whose responsibilities are exercised 
+independently in an area coextensive with the districts 
+from which they are elected.” /d. at 2380. The Court 
+made clear that the state interests advanced in sup- 
+port of the challenged practice of electing office- 
+holders on a county-wide basis “are relevant either 
+to an analysis of the totality of the circumstances 
+that must be considered in an application of the re- 
+sults test embodied in § 2, as amended,” or in formu- 
+lating “possible remedies”; but those interests do noi 
+affect “the threshold question of the Act’s coverage”’ 
+or “automatically, and in every case, outweigh proof 
+of racial vote dilution.” /d. at 2380-2381. 
+
+Houston Lawyers’ Ass’n involved a claim that the 
+minority vote was diluted by Texas’s failure to es- 
+tablish smaller election districts for a single-member 
+officeholder than the area over which the officeholder 
+exercises jurisdiction, 111 S. Ct. at 2381, while this 
+case involves a claim that the minority’s vote is di- 
+luted by Bleckley County’s failure to establish a larger 
+
+
+12 
+
+
+commission to carry out the functions currently per- 
+formed by the sole commissioner. Nonetheless, the 
+principle involved in Houston Lawyers’ Ass’n is 
+equally applicable here. Elections for single-member 
+offices are not exempt from vote-dilution challenges 
+under Section 2, and any interest the State has in 
+maintaining its electoral practices for such offices 
+should be considered under the totality-of-the-circum- 
+stances inquiry or at the remedial stage. 
+
+The conclusion that the election of a sole commis- 
+sioner can be challenged as dilutive under Section 2 
+is further supported by this Court’s decisions under 
+Section 5 of the Voting Rights Act, 42 U.S.C. 1973c.° 
+This Court has construed the identical “standard, 
+practice, or procedure” language in Section 5 of the 
+Voting Rights Act to apply to changes in the size 
+of legislative bodies. In City of Lockhart vy. United 
+States, 460 U.S. 125 (1983), a city changed from a 
+three-member commission to a five-member council. 
+The Court held that the addition of two seats had 
+the potential to dilute minority voting strength in 
+violation of Section 5, even. though there was no 
+change in the underlying method of election. /d. at 
+131. In Presley v. Etowah County Comm’n, 112 5. 
+Ct. 820, 828 (1992), the Court reaffirmed that a 
+change in the size of a legislative body is a practice 
+with respect to voting covered by Section 5.° In view 
+
+
+* Section 5 requires covered States or political subdivisions 
+to submit changes in voting standards, practices, and pro- 
+cedures to the Attorney General or to the United States Dis- 
+trict Court for the District of Columbia for preclearance. See 
+Clark v. Roemer, 111 S. Ct. 2096 (1991). 
+
+
+*A change in the number of representatives who sit on a 
+body is quite different from a reallocation of functions among 
+
+
+13 
+
+
+of the “close connection” between Sections 2 and 5, 
+those provisions should be accorded a similar reach 
+in this context. Chisom, 111 S. Ct. at 2367. 
+
+It would, moreover, be incongruous if the practice 
+of electing a sole commissioner could not be chal- 
+lenged under Section 2. A jurisdiction covered by 
+Section 5 would be precluded from changing from a 
+multimember commission to a sole commissioner 
+when to do so would have a discriminatory effect, 
+but the jurisdiction would be exempt from challenge 
+under Section 2 if it had a similarly discriminatory 
+system already in place. This Court has previously 
+found it “unlikely that Congress intended such an 
+anomalous result.” Chisom, 111 S. Ct. at 2367 (ex- 
+plaining that one reason for finding judicial elections 
+te be covered by Section 2 is that they are covered 
+by Section 5). 
+
+2. Under the Section 2 “results” test, the exist- 
+ence of a vote-dilution violation is determined by 
+evaluating the effect of the challenged practice on the 
+ability of minorities “to participate in the political 
+process and to elect representatives of their choice.”’ 
+42 U.S.C. 1973(a) and (b). Petitioners contend that 
+the Section 2 results test can never be violated by the 
+practice of electing a sole commissioner, because “[i]t 
+
+
+government officials. In Etowah County, the Court held that 
+the preclearance requirements of Section 5 are inapplicable 
+to changes in the allocation of functions performed by the 
+elected officials; a jurisdiction’s reduction in the number of 
+elected officials, however, is clearly subject to review under 
+Section 5 because it bears “on the substance of voting power.” 
+112 S. Ct. at 829. Here, in contrast to Etowah County, it is 
+the number of elected officials, not the assignment of their 
+functions, that forms the basis for the Voting Rights Act 
+challenge. 
+
+
+14 
+
+
+is the small size of the group of voters in the dis- 
+trict, not its race, that prevents it from achieving 
+a greater measure of electoral success * * °.” Pet. 
+Br. 19. That claim is at odds with the theory of the 
+Voting Rights Act. In any challenge to an election 
+practice in which the minority group cannot elect 
+representatives of its own choosing, it could be said 
+that the small size of the group, not the particular 
+election structure, is the cause of the group’s elec- 
+toral failure. If that argument were accepted, it 
+would be impossible to mount a challenge even to « 
+multimember, at-large election system. Yet this 
+Court entertained precisely that form of challenge in 
+Thornburg v. Gingles, 478 U.S. 30 (1986).’ 
+
+In Gingles, this Court explained that a minority 
+group’s size is relevant to a Section 2 challenge in 
+order to determine whether the group has “the pofen- 
+tial to elect representatives in the absence of the chal- 
+lenged structure or practice.” 478 U.S. at 50 n.17. 
+When the minority group is too small to constitute a 
+voting majority even absent the challenged structure 
+
+
+7 Our brief at the petition stage (at 5-6) suggested that the 
+practice of electing a single office holder has an adverse effect 
+on minority voters only because of the minority group’s small 
+size, and therefore does not meet Section 2(a)'s requirement 
+of producing “a denial or abridgement of the right * * * to 
+vote on account of race or color.” 42 U.S.C. 1973(a) (empha- 
+sis added). Section 2(b), however, provides that a violation 
+of Section 2(a) “is established” when a minority group shows 
+that “its members have less opportunity than other members 
+of the electorate to participate in the political process and to 
+elect representatives of their choice.” Thus, under the ex- 
+press terms of Section 2(b), if a minority group can show 
+that it has been denied an equal opportunity to elect represen- 
+tatives of its choice, it has, by definition, shown an “abridge- 
+ment of the right * * * to vote on account of race or color.” 
+
+
+15 
+
+
+vr practice, the group “cannot claim to have been in- 
+jured by that structure or practice.”* Jbid. When, 
+however, the minority group can establish that, with 
+the use of an alternative voting practice or structure 
+it could elect representatives of its choice, the chal- 
+lenge cannot be dismissed on the theory that the 
+group’s plight is simply a function of smail size com- 
+bined with a system of majoritarian rule. As we 
+explain below, where, as in this case, the proposed 
+alternative election arrangement against which to 
+measure a claim of vote dilution is reasonable in the 
+legal and factual context of the particular voting 
+practice at issue, analysis of a vote-dilution claim 
+under Section 2 can proceed. 
+
+
+B. The Application Of Vote-Dilution Theory In This 
+Case Is Consistent With Gingles And Is Not Premised 
+On The View That Section 2 Guarantees Proportional 
+Representation 
+
+
+Petitioners contend (Br. 24-28) that recognition 
+of a vote-dilution challenge to the County’s election 
+of a sole commissioner would undermine the first 
+Gingles precondition for a vote-dilution claim and 
+would imply a right to proportional representation. 
+See 42 U.S.C. 1973(b) (“nothing in [Section 2] es- 
+establishes a right to have members of a protected 
+
+
+*The Court has reserved the issue of whether Section 2 
+applies to a claim that a minority group, even though lacking 
+the size and compactness “to constitute a majority in a single- 
+member district,” has been impermissibly impaired in its 
+ability “to influence elections” through the use of a multi- 
+member district. Gingles, 478 U.S. at 46 n.12: see also Voino- 
+vich V. Quilter, 113 8. Ct. 1149, 1155 (1993) (assuming with- 
+out deciding that an influence claim may be brought) : Growe 
+V. Emison, 113 S. Ct. 1075, 1084 n.5 (1993) (leaving open the 
+same issue). 
+
+
+16 
+
+
+class elected in numbers equal to their proportion 
+in the population”). We disagree. 
+
+1. In Thornburg vy. Gingles, supra, this Court 
+stated that, as a precondition to a vote-dilution claim 
+based on the submergence of a minority group in a 
+multimember district electing candidates at-large, 
+“the minority group must be able to demonstrate that 
+it is sufficiently large and geographically compact to 
+constitute a majority in a single-member district.” ” 
+478 U.S. at 50. Petitioners argue that, if the mi- 
+nority group were free to propose a revised votins; 
+scheme involving an unlimited number of additiona! 
+elected positions as a means of demonstrating vote 
+dilution, the group could always establish the exist- 
+ence of a single-member district in which it consti- 
+tuted the majority. The effect of that rule, peti- 
+tioners argue, would be to guarantee proportiona! 
+representation for the minority group. 
+
+Application of Gingles in this case does not pro- 
+duce that consequence. The purpose of the first 
+Gingles precondition is to ensure “that the minority 
+has the potential to elect a representative of its own 
+choice in some single-member district.” Growe v. 
+Emison, 113 S. Ct. 1075, 1084 (1993); Gingles, 478 
+U.S. at 50 n.17. The claim in this case meets that 
+requirement without presupposing any right to pro- 
+portional representation. In finding that the prac- 
+tice of electing a sole commisisoner is dilutive, the 
+
+
+* The Court articulated two other preconditions to a vote- 
+dilution claim—that “the minority group must be able to show 
+that it is politically cohesive” and that “the white majority 
+votes sufficiently as a bloc to enable it * * * usually to defeat 
+the minority’s preferred candidate.” 478 U.S. at 51. The 
+court of appeals found those preconditions to be established, 
+and they are not at issue in this Court. See note 4, supra. 
+
+
+17 
+
+
+court of appeals compared it to a five-member com- 
+mission elected from single-member districts. The 
+proposed five-district arrangement was _ specifically 
+authorized by the state legislature when it provided 
+for a referendum on a multimember commission in 
+1985, is common throughout the State, and is used 
+by Bleckley County for electing the school board (Pet. 
+App. 86 n.20). Measuring the minority voters’ 
+power to elect against that state-sanctioned electoral 
+errangement does not threaten to create a right of 
+minorities to have their members elected in propor- 
+tion to their percentage of the population (no matter 
+how small); it simply takes into account a well- 
+recognized alternative election system that the county 
+was free to adopt. 
+
+Nor does acceptance of the claim described above 
+imply that plaintiffs may propose a commission of 
+whatever size is required to create a single-member 
+district in which the minority group would have ma- 
+jority voting strength. The State’s electoral policies 
+and traditional ways of structuring local government 
+are of substantial relevance in determining what sort 
+of proposed alternative voting practice can reason- 
+ably provide a measure of the dilutive effect of the 
+challenged practice. For example, in Gingles this 
+Court stated that a minority group must be “suffi- 
+ciently * * * geographically compact” to form a ma- 
+jority in a single district. 478 U.S. at 50. The geo- 
+graphical-compactness rule derives not from an ex- 
+press requirement to that effect in Section 2, but 
+rather from traditional characteristics of this coun- 
+try’s election districts, as drawn under state law." 
+
+
+"In practice the compactness rule is not applied more 
+strictly under Section 2 than the State applies compactness 
+
+
+18 
+
+
+Similarly, a court would be justified in rejecting a 
+tiny minority’s claim of vote dilution that is prem- 
+ised on expanding a county commission to 25 or 50 
+members, for that numerous a county governing body 
+would be largely, if not entirely, unprecedented in 
+this country. But that does not imply that the court 
+may reject a claim based on a reconstituted commis- 
+sion of a size that is endorsed by state law and fully 
+consistent with state policy. 
+
+A five-member body is by far the most common 
+size for a county commission in Georgia. Georgia 
+Dep’t of Community Affairs, County Government In- 
+formation Catalog (1989) (Table 1.A: Form of Gov- 
+ernment) (76 of Georgia’s 159 counties had five 
+commissioners, including 25 counties that are smaller 
+than Bleckley County). Indeed, the Georgia legis- 
+lature expressly authorized Bleckley County to adopt 
+a commission consisting of five members elected 
+from single-member districts (as well as a chair- 
+man elected at-large). 1985 Ga. Laws 4406. More- 
+over, far from representing a common scheme na- 
+tionwide, the use of a sole commissioner to exercise 
+all legislative and executive authority over citizens is 
+an aberration. Georgia is the only State in which any 
+counties have commissions with only one member. See 
+U.S. Bureau of the Census, 1987 Census of Govern- 
+ments, Vol. 1, No. 2: Government Organization; 
+Popularly Elected Officials [GC87(1)-2] (Jan. 1990) ; 
+National Ass’n of Counties, County Government 
+Structure: A State by State Report (July 1989). 
+Even in Georgia, the use of a sole commissioner is 
+rare. As of 1990, only 21 Georgia counties had a 
+
+
+principles in its other redistricting actions. See Jeffers v. 
+Clinton, 730 F. Supp. 196, 207 (E.D. Ark. 1989), aff'd mem., 
+498 U.S. 1019 (1991). 
+
+
+19 
+
+
+sole commissioner, Pet. App. 4-5, and, as petitioners 
+observe (Br. 4), only 14 have a sole commissioner 
+today. 
+
+2. Petitioners err in contending (Br. 15) that 
+Gingles mandates that “[v]ote dilution must be 
+measured against the number of positions in the ex- 
+isting structure.” Gingles states that vote dilution is 
+measured against the minority’s potential to elect 
+“in the absence of the challenged structure or prac- 
+tice.” 478 U.S. at 50 n.17. The fact that respond- 
+ents posit a structural change in the current number 
+of elected commissioners in order to measure vote 
+dilution is not a reason to reject their theory; any 
+vote-dilution claim contemplates a change in the sys- 
+tem of electing the official or officials in question. 
+For example, a claim of vote dilution directed against 
+at-large elections in multimember districts envisions 
+a change to single-member (istricts."' 
+
+Nor is the theory underlying respondents’ claim 
+invalid because a court must make a threshold de- 
+termination of whether the number of commissioners 
+proposed by the plaintiffs in a Section 2 case pro- 
+vides a suitable benchmark for measuring dilution. 
+It is true that that task may involve some line- 
+
+
+' That the process of identifying black voters’ potential 
+tc elect in this case may differ from the process of subdividing 
+a multimember district described in Gingles simply reflects 
+the different nature of the claims at issue. The Court has 
+recognized that “the Gingles factors cannot be applied me- 
+chanically and without regard to the nature of the claim. For 
+example, the first Gingles precondition, the requirement that 
+the group be sufficiently large to constitute a majority in a 
+single district, would have to be modified or eliminated when 
+analyzing the influence-dilution claim we assume arguendo to 
+be actionable today.” Voinovich Vv. Quilter, 113 8. Ct. at 1157; 
+see note 8, supra. 
+
+
+20 
+
+
+drawing. Line-drawing, however, is often required 
+in making other Section 2 determinations, such as 
+what constitutes sufficient geographical compactness 
+of the minority population for the purpose of creat- 
+ing a single-member district. In this case, respond- 
+ents’ proposed benchmark was appropriate in light of 
+the State’s endorsement of five-member commissions, 
+the prevalence of commissions of that size, and the 
+use of five districts within Bleckley County itself for 
+electing school board members. Even if the task of 
+determining an appropriate benchmark were more 
+difficult, however, this Court has made clear that the 
+need to make difficult judgments does not “justify a 
+judicially created limitation on the coverage of the 
+broadly worded statute, as enacted and amended by 
+Congress.” Chisom v. Roemer, 111 S. Ct. at 2368. 
+
+In a related context, this Court has articulated prin- 
+ciples to guide federal courts in determining whether 
+federal law may be invoked to require a modi- 
+fication in the size of a legislative body. In Sirty- 
+Seventh Minnesota State Senate v. Beens, 406 U.S. 
+187, 200 (1972), this Court held that a district court 
+abused its discretion in “drastically changing” the 
+size of a State’s legislative body in order to remedy 
+a one-person, one-vote violation. At the same time, 
+the Court observed that it would “not disapprove a 
+court-imposed minor variation from a State’s pre- 
+scribed figure when that change is shown to be neces- 
+Sary to meet constitutional requirements.” Jd. at 
+199. 
+
+
+espondents’ dilution theory does not require pe- 
+titioners to make any departure from Georgia law 
+or policy, since five-member commissions are the rule 
+in Georgia, not the exception. There is, accordingly, 
+a firm basis for concluding that the dilution of the 
+
+
+21 
+
+
+minority vote in electing a single member to Bleckley 
+
+County’s commission is cognizable under Section 2. 
+This case presents no issue as to whether plain- 
+
+tiffs can challenge the size of an existing multimem- 
+
+ber council or commission as a dilutive practice.” 
+
+The only question presented here is whethe 
+
+tice of electing a sole commissione 
+
+
+’ r than a 
+multimember commission, can be challeng That 
+
+
+C. Analysis Under Section 2 Does Not Ignore State 
+Policy Interests 
+
+
+Finally, petitioners contend (Br. 37-40) that al- 
+lowing a challenge to the practice of electing a sole 
+cemmissioner would invite an impermissible intru- 
+sion on state policy interests. That contention mis- 
+
+
+' Some courts have rejected that type of claim. See McNeil 
+V. Springfield Park Dist. 851 F.2d 937, 946-947 (7th Cir. 
+1988), cert. denied, 490 U.S. 1031 (1989) : Romero v. City of 
+Pomona, 883 F.2d 1418, 1425 n.10 (9th Cir. 1989) ; see also 
+Overton V. City of Austin, 871 F.2d 529, 543 (5th Cir. 1989) 
+(Jones, J., concurring). 
+
+
+22 
+
+
+conceives the way in which state interests are taken 
+into account in evaluating a Section 2 claim. 
+
+In Houston Lawyers’ Ass'n vy. Attorney Genera! 
+of Texas, supra, this Court explained that, under the 
+totality of the circumstances that bear on the ap- 
+plication of the results test under Section 2, a Staie 
+may advance its “interest in maintaining an electoral 
+system” as a factor to be considered. 111 S. Ct. at 
+2381. “A State’s justification for its electoral sys- 
+tem is a proper factor for the courts to assess in a 
+racial vote dilution inquiry.” Jbid. The Court also 
+indicated that, if a violation is established, the State’s 
+interests and policies underlying its electoral system 
+are relevant at the remedial stage. /d. at 2380. 
+
+Under Houston Lawyers’ Ass'n, petitioners’ justi- 
+fications for electing a single individual to constitute 
+its county commission may be considered on a case- 
+by-case basis in determining whether a violation has 
+been established; those justifications are part of the 
+totality of the circumstances that form the context 
+of the alleged violation. The record in this case, 
+however, does not indicate that petitioners established 
+a justification for retaining a sole commissioner that 
+outweighs the substantial dilution of black voters’ 
+ability to elect representatives of their choice. While 
+the district court found that petitioners’ interest in 
+electing a sole commissioner is not “tenuous,” Pet. 
+App. 10, the interest asserted by petitioners—that 
+the election of a sole commissioner is “economical 
+and efficient,” Pet. Br. 7-8—is not especially strong 
+in view of the unusual character of the sole-com- 
+missioner approach and the many examples of work- 
+able multimember commissions in other counties (in- 
+
+
+23 
+
+
+cluding counties that are smaller than Bleckley 
+Nation.” 
+
+That a Section 2 violation may be establishec 
+this case does not mean that all practices of electing 
+@ single individual to office are open to invalidation. 
+Positions of executive leadership are frequently en- 
+trusted to a single individual—as exemplified by the 
+Constitution’s vesting of the executive power in one 
+President U.S. Const. Art. II, § 1, Cl. 1. A State will 
+often have a compelling interest in electing a single offi- 
+cial to perform executive functions, and it can support 
+that interest by reference to long and widely followed 
+traditions. See The Federalist No.69, at 415 (A. Ham- 
+ilton) (C. Rossiter ed. 1961) (“I proceed now to 
+trace the real characters of the proposed executive 
+* * *. The first thing which strikes our attention is 
+that the executive authority, with few exceptions, is 
+to be vested in a single magistrate.”) To permit a 
+plaintiff to seek multiple officers for such positions 
+would be a radical departure from this country’s 
+political traditions, and there is no evidence in the 
+history of the Voting Rights Act that Congress in- 
+tended that consequence. Cf. Chisom v. Roemer, 111 
+S. Ct. at 2364. 
+
+
+Petitioners err (Br. 38) in suggesting that Gregory v. 
+Ashcroft, 111 S. Ct. 2395 (1991), would require a clear state- 
+ment by Congress before a court could require a change in the 
+number of commissioners. Because Congress expressly relied 
+on its power to enforce the Civil War Amendments in enact- 
+ing Section 2, see S. Rep. No. 417, swpra, at 39-43, and be- 
+cause the Voting Rights Act clearly regulates state voting 
+practices, Gregory is not relevant here. See Chisom, 111 S. Ct. 
+at 2372-2373 (Scalia, J., dissenting). 
+
+
+24 
+
+
+In contrast, the commission in Bleckley County ex- 
+ercises all legislative as well as executive functions, 
+including the power to set tax rates. Ga. Code 
+Ann. § 36-5-22.1 (1987). That is an extraordinary 
+concentration of power in a single elected official. 
+Compared to the traditional practice of electing a 
+single mayor, sheriff, coroner, clerk of court, school 
+intendent, or governor, there is no historical or 
+strong functional interest in assigning to a single 
+individual all of the legislative and executive func- 
+tions that Georgia law delegates to the county’s gov- 
+erning body. Bodies that exercise such mixed func- 
+tions are typically composed of multiple members. 
+
+Consistent with the foregoing principles, the Elev- 
+enth Circuit, while permitting minority voters to 
+challenge the practice of electing a sole commissioner, 
+has rejected the view that Section 2 may be used to 
+alter the practice of electing a single person to offices 
+such as lieutenant governor, sheriff, probate judge, 
+and tax collector. See Dillard v. Crenshaw County, 
+831 F.2d 246, 251 (11th Cir. 1987); United States 
+v. Dallas County Comm'n, 850 F.2d 1430, 1432 nl 
+(11th Cir. 1988), cert. denied, 490 U.S. 1030 (1959). 
+Accordingly, this Court’s affirmance of the Eleventh 
+Cireuit’s holding that Section 2 is violated by the 
+practice of electing a sole county commissioner in 
+Ghee case » would in no way suggest that all traditional 
+
+
+25 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+
+
+WILLIAM C. BRYSON 
+Acting Solicitor General 
+
+
+JAMES P. TURNER 
+Acting Assistant Attorney General 
+
+
+EpwIn S. KNEEDLER 
+
+Acting Deputy Solicitor General 
+MICHAEL R. DREEBEN 
+
+Assistant to the Solicitor General 
+
+
+DENNIS J. DIMSEY 
+IRVING GORNSTEIN 
+Attorneys 
+
+
+May 1993 
+
+
+® © © @ownewweer eewrus orrice i965 34247% #0280 
+
+

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "holder_official",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512874/usrep512874.pdf",
+    "bytes": 3074570,
+    "status": "ok"
+  },
+  {
+    "name": "degrandy_official",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512997/usrep512997.pdf",
+    "bytes": 1156001,
+    "status": "ok"
+  },
+  {
+    "name": "tuilaepa_official",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512967/usrep512967.pdf",
+    "bytes": 960234,
+    "status": "ok"
+  },
+  {
+    "name": "gingles",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep478/usrep478030/usrep478030.pdf",
+    "bytes": 2314117,
+    "status": "ok"
+  },
+  {
+    "name": "chisom",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep501/usrep501380/usrep501380.pdf",
+    "bytes": 1180726,
+    "status": "ok"
+  },
+  {
+    "name": "houston_lawyers",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep501/usrep501419/usrep501419.pdf",
+    "bytes": 300474,
+    "status": "ok"
+  },
+  {
+    "name": "boyde",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep494/usrep494370/usrep494370.pdf",
+    "bytes": 1118845,
+    "status": "ok"
+  },
+  {
+    "name": "walton",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep497/usrep497639/usrep497639.pdf",
+    "bytes": 2446258,
+    "status": "ok"
+  },
+  {
+    "name": "lowenfield",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep484/usrep484231/usrep484231.pdf",
+    "bytes": 842503,
+    "status": "ok"
+  },
+  {
+    "name": "holder_lower",
+    "url": "https://static.case.law/f2d/955/html/1563-01.html",
+    "bytes": 71351,
+    "status": "ok"
+  },
+  {
+    "name": "degrandy_lower",
+    "url": "https://static.case.law/f-supp/815/html/1550-01.html",
+    "bytes": 201173,
+    "status": "ok"
+  },
+  {
+    "name": "holder_district",
+    "url": "https://static.case.law/f-supp/757/html/1560-01.html",
+    "bytes": 146454,
+    "status": "ok"
+  },
+  {
+    "name": "tuilaepa_lower",
+    "url": "https://static.case.law/cal-4th/4/html/0569-01.html",
+    "bytes": 101284,
+    "status": "ok"
+  },
+  {
+    "name": "proctor_lower",
+    "url": "https://static.case.law/cal-4th/4/html/0499-01.html",
+    "bytes": 259355,
+    "status": "ok"
+  },
+  {
+    "name": "florida_validation",
+    "url": "https://static.case.law/so-2d/597/html/0276-01.html",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

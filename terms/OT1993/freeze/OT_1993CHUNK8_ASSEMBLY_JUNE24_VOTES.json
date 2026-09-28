@@ -1,0 +1,173 @@
+{
+  "Consolidated Rail Corp. v. Gottshall, including Carlisle": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Gottshall reversal and first-instance zone application",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "oppose": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Carlisle reversal and entry of judgment for Conrail",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "oppose": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "FELA emotional injury within zone of danger, with fear-of-self qualification",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Gottshall unresolved application and remand",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Carlisle work-stress exclusion and judgment for Conrail",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Ginsburg bounded ordinary-negligence alternative",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Stone direct-conditions and objectively foreseeable serious-harm rule",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Souter additional developing-common-law explanation",
+        "support": [
+          "Souter"
+        ],
+        "controlling": false
+      }
+    ]
+  },
+  "Shannon v. United States": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "No-error affirmance of conviction; opposing remedy is vacatur and Rule 52(a) remand",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Stone",
+          "Blackmun",
+          "Stevens"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "No statutory consequences-instruction mandate",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Ordinary no-consequences rule with tailored actual-error correction; no error here",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Requested limited explanation as supervisory practice and preserved-error remand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

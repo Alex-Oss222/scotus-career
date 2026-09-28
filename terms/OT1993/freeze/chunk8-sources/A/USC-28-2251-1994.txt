@@ -1,0 +1,167 @@
+28 USC 2251: Stay of State court proceedings
+
+            Result 1 of 1
+            
+<!--
+                var prev = function(event) { bindCode(event, 'R', 'j_idt21:j_idt23:prevResult')};
+                var next = function(event) { bindCode(event, 'r', 'j_idt21:j_idt23:nextResult')};
+                if (document.addEventListener) {
+                    document.addEventListener("keypress", prev, false);
+                    document.addEventListener("keypress", next, false);
+                }
+                else if (document.attachEvent) {
+                    document.attachEvent("onkeypress", prev);
+                    document.attachEvent("onkeypress", next);
+                }
+            -->
+Current
+2024 Main Ed. (1/6/2025)
+2018 Ed. and Supplement V (1/3/2024)
+2018 Ed. and Supplement IV (1/5/2023)
+2018 Ed. and Supplement III (1/3/2022)
+2018 Ed. and Supplement II (1/13/2021)
+2018 Ed. and Supplement I (1/24/2020)
+2018 Main Ed. (1/14/2019)
+2012 Ed. and Supplement V (1/12/2018)
+2012 Ed. and Supplement IV (1/6/2017)
+2012 Ed. and Supplement III (1/3/2016)
+2012 Ed. and Supplement II (1/5/2015)
+2012 Ed. and Supplement I (1/16/2014)
+2012 Main Ed. (1/15/2013)
+2006 Ed. and Supplement V (1/3/2012)
+2006 Ed. and Supplement IV (1/7/2011)
+2006 Ed. and Supplement III (2/1/2010)
+2006 Ed. and Supplement II (1/5/2009)
+2006 Ed. and Supplement I (1/8/2008)
+2006 Main Ed. (1/3/2007)
+2000 Ed. and Supplement V (1/2/2006)
+2000 Ed. and Supplement IV (1/3/2005)
+2000 Ed. and Supplement III (1/19/2004)
+2000 Ed. and Supplement II (1/6/2003)
+2000 Ed. and Supplement I (1/22/2002)
+2000 Main Ed. (1/2/2001)
+1994 Ed. and Supplement V (1/23/2000)
+1994 Ed. and Supplement IV (1/5/1999)
+1994 Ed. and Supplement III (1/26/1998)
+1994 Ed. and Supplement II (1/6/1997)
+1994 Ed. and Supplement I (1/16/1996)
+1994 Main Ed. (1/4/1995)
+<!--
+                var prev = function(event) { bindCode(event, 'V', 'j_idt30:formResults:prevResult')};
+                var next = function(event) { bindCode(event, 'v', 'j_idt30:formResults:nextResult')};
+                if (document.addEventListener) {
+                    document.addEventListener("keypress", prev, false);
+                    document.addEventListener("keypress", next, false);
+                }
+                else if (document.attachEvent) {
+                    document.attachEvent("onkeypress", prev);
+                    document.attachEvent("onkeypress", next);
+                }
+                // Set select's default option.
+                var documentYear ="1994";
+                var editionYear="";
+                if (documentYear!="") {
+                    editionYear = documentYear;
+                } else {
+                    editionYear="1994";
+                    if(editionYear==""){
+                        editionYear = "1994";
+                     }
+                }
+                var select=document.getElementById("j_idt30:formResults:versionsSel");
+
+                if (editionYear!="" && select) {
+                    for (var i=0; i<select.options.length; i++) {
+                        if (select.options[i].value==editionYear) {
+                            select.selectedIndex=i;
+                            break;
+                        }
+                    }
+                }
+            -->
+Back to Original Document
+<< Previous
+TITLE 28
+ / 
+PART VI
+ / 
+CHAPTER 153
+ / 
+§ 2251
+Next >>
+<!--
+                        var prevS = function(event) { bindLink(event, 'S', 'frmNav:prevSection')};
+                        var nextS = function(event) { bindLink(event, 's', 'frmNav:nextSection')};
+                        if (document.addEventListener) {
+                            document.addEventListener("keypress", prevS, false);
+                            document.addEventListener("keypress", nextS, false);
+                        }
+                        else if (document.attachEvent) {
+                            document.attachEvent("onkeypress", prevS);
+                            document.attachEvent("onkeypress", nextS);
+                        }
+                    -->
+[Print]
+[Print selection]
+[OLRC Home]
+Help
+<!--
+            var closeLink = document.getElementById('closeLink');
+            if (window.opener && closeLink) {
+                closeLink.firstChild.nodeValue = '[Close]';
+            }
+        -->
+28 USC 2251
+: Stay of State court proceedings
+Text contains those laws in effect on January 4, 1995
+From Title 28-JUDICIARY AND JUDICIAL PROCEDURE
+PART VI-PARTICULAR PROCEEDINGS
+CHAPTER 153-HABEAS CORPUS
+Jump To: 
+Source Credit
+§2251. Stay of State court proceedings
+A justice or judge of the United States before whom a habeas corpus proceeding is pending, may, before final judgment or after final judgment of discharge, or pending appeal, stay any proceeding against the person detained in any State court or by or under the authority of any State for any matter involved in the habeas corpus proceeding.
+After the granting of such a stay, any such proceeding in any State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.
+(
+June 25, 1948, ch. 646, 
+62 Stat. 966
+.)
+Historical and Revision Notes
+Based on title 28, U.S.C., 1940 ed., §465 (
+R.S. §766
+; 
+Mar. 3, 1893, ch. 226, 
+27 Stat. 751
+; 
+Feb. 13, 1925, ch. 229, §8(c), 
+43 Stat. 940
+; 
+June 19, 1934, ch. 673, 
+48 Stat. 1177
+).
+Provisions relating to proceedings pending in 1934 were deleted as obsolete.
+A provision requiring an appeal to be taken within 3 months was omitted as covered by 
+sections 2101 and 2107 of this title
+.
+Changes were made in phraseology.
+<!--
+                    //If a standard reference seach then rename each element to be used
+                    //later in the highlighting.
+                    var isUscodeRef = "false";
+                    if (isUscodeRef) {
+                        var links = document.getElementsByName("hl1");
+                        for (var i=0; i<links.length; i++) {
+                            if (i==0) {
+                                links[i].style.background = 'yellow';
+                            }
+                            links[i].id = "hl" + (i+1);
+                        }
+                    }
+                    // Hide the pending section if version different to prelim.
+                    try {
+                        var documentYear ="1994";
+                        var pendingSection = document.getElementById("spanPU");
+                        if (pendingSection && documentYear !="prelim")
+                            pendingSection.style.visibility="hidden";
+                    } catch(e) {}
+                -->

@@ -1,0 +1,191 @@
+{
+  "Williamson v. United States": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Vacate Eleventh Circuit judgment and remand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Assertion-specific contextual Rule 804(b)(3) construction",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Common remand and preserved-error limits without automatic new trial",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "All recounted Harris custodial account fails Rule 804(b)(3)",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Particular-assertion application remand under narrow rule",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Some Harris portions presently qualify under the exception",
+        "support": [
+          "O'Connor",
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Qualified related-statement construction with two exclusions",
+        "support": [
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ],
+    "nonbinary_application": {
+      "groups": [
+        {
+          "name": "Entire-account exclusion; remand for error consequences",
+          "justices": [
+            "Blackmun",
+            "Stevens",
+            "Souter",
+            "Ginsburg"
+          ]
+        },
+        {
+          "name": "Particular-assertion assessment under narrow rule",
+          "justices": [
+            "Stone",
+            "O'Connor",
+            "Scalia"
+          ]
+        },
+        {
+          "name": "Application remand under broader related-statement rule",
+          "justices": [
+            "Kennedy",
+            "Thomas"
+          ]
+        }
+      ],
+      "narrow_remand_subdivision": [
+        {
+          "name": "Some portions affirmatively qualify",
+          "justices": [
+            "O'Connor",
+            "Scalia"
+          ]
+        },
+        {
+          "name": "No present selection of qualifying assertions",
+          "justices": [
+            "Stone"
+          ]
+        }
+      ],
+      "explanation": "4 / 3 / 2 application paths are not a binary tie or one seven-Justice application rationale. Within narrow remand, 2 / 1 distinguishes affirmative qualification from no present selection."
+    },
+    "writings": [
+      {
+        "author": "O'Connor",
+        "parts": [
+          {
+            "name": "I-III",
+            "support": [
+              "Stone",
+              "Blackmun",
+              "Stevens",
+              "O'Connor",
+              "Scalia",
+              "Souter",
+              "Ginsburg"
+            ]
+          },
+          {
+            "name": "IV-A",
+            "support": [
+              "Stone",
+              "O'Connor",
+              "Scalia"
+            ]
+          },
+          {
+            "name": "IV-B",
+            "support": [
+              "O'Connor",
+              "Scalia"
+            ]
+          }
+        ]
+      },
+      {
+        "author": "Ginsburg",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "kind": "concurrence in part and in the judgment"
+      },
+      {
+        "author": "Kennedy",
+        "support": [
+          "Kennedy",
+          "Thomas"
+        ],
+        "kind": "concurrence in the judgment"
+      }
+    ]
+  }
+}

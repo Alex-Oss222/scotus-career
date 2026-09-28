@@ -88,17 +88,17 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-06-24 | OT_1993CHUNK7 | Heck v. Humphrey | No. 93-6188 | MERITS | Signed opinion | Completed: Heck_v_Humphrey_merits_1994-06-24.md |
 | 1994-06-24 | OT_1993CHUNK7 | Davis v. United States | No. 92-1949 | MERITS | Signed opinion | Completed: Davis_v_United_States_merits_1994-06-24.md |
 | 1994-06-24 | OT_1993CHUNK7 | Thomas Jefferson University v. Shalala | No. 93-120 | MERITS | Signed opinion | Completed: Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md |
-| 1994-06-24 | OT_1993CHUNK8 | Consolidated Rail Corp. v. Gottshall | No. 92-1956, including Carlisle under Rule 12.2 | MERITS | Signed opinion | Open |
-| 1994-06-24 | OT_1993CHUNK8 | Shannon v. United States | No. 92-8346 | MERITS | Signed opinion | Open |
-| 1994-06-27 | OT_1993CHUNK8 | Turner Broadcasting System, Inc. v. FCC | No. 93-44 | MERITS | Signed opinion | Open |
-| 1994-06-27 | OT_1993CHUNK8 | Board of Education of Kiryas Joel Village School District v. Grumet | No. 93-517, consolidated with Nos. 93-527 and 93-539 | MERITS | Signed opinion | Open |
-| 1994-06-27 | OT_1993CHUNK8 | Williamson v. United States | No. 93-5256 | MERITS | Signed opinion | Open |
-| 1994-06-30 | OT_1993CHUNK8 | McFarland v. Scott | No. 93-6497 | MERITS | Signed opinion | Open |
-| 1994-06-30 | OT_1993CHUNK8 | Holder v. Hall | No. 91-2012 | MERITS | Signed opinion | Open |
-| 1994-06-30 | OT_1993CHUNK8 | Johnson v. De Grandy | No. 92-519, consolidated with Nos. 92-593 and 92-767 | MERITS | Signed opinion | Open |
-| 1994-06-30 | OT_1993CHUNK8 | Madsen v. Women’s Health Center, Inc. | No. 93-880 | MERITS | Signed opinion | Open |
-| 1994-06-30 | OT_1993CHUNK8 | International Union, United Mine Workers of America v. Bagwell | No. 92-1625 | MERITS | Signed opinion | Open |
-| 1994-06-30 | OT_1993CHUNK8 | Tuilaepa v. California / Proctor v. California | Nos. 93-5131 (Tuilaepa) and 93-5161 (Proctor) | MERITS | Signed opinion | Open |
+| 1994-06-24 | OT_1993CHUNK8 | Consolidated Rail Corp. v. Gottshall | No. 92-1956, including Carlisle under Rule 12.2 | MERITS | Signed opinion | Completed: Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md |
+| 1994-06-24 | OT_1993CHUNK8 | Shannon v. United States | No. 92-8346 | MERITS | Signed opinion | Completed: Shannon_v_United_States_merits_1994-06-24.md |
+| 1994-06-27 | OT_1993CHUNK8 | Turner Broadcasting System, Inc. v. FCC | No. 93-44 | MERITS | Signed opinion | Completed: Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md |
+| 1994-06-27 | OT_1993CHUNK8 | Board of Education of Kiryas Joel Village School District v. Grumet | No. 93-517, consolidated with Nos. 93-527 and 93-539 | MERITS | Signed opinion | Completed: Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md |
+| 1994-06-27 | OT_1993CHUNK8 | Williamson v. United States | No. 93-5256 | MERITS | Signed opinion | Completed: Williamson_v_United_States_merits_1994-06-27.md |
+| 1994-06-30 | OT_1993CHUNK8 | McFarland v. Scott | No. 93-6497 | MERITS | Signed opinion | Completed: McFarland_v_Scott_merits_1994-06-30.md |
+| 1994-06-30 | OT_1993CHUNK8 | Holder v. Hall | No. 91-2012 | MERITS | Signed opinion | Completed: Holder_v_Hall_merits_1994-06-30.md |
+| 1994-06-30 | OT_1993CHUNK8 | Johnson v. De Grandy | No. 92-519, consolidated with Nos. 92-593 and 92-767 | MERITS | Signed opinion | Completed: Johnson_v_De_Grandy_merits_1994-06-30.md |
+| 1994-06-30 | OT_1993CHUNK8 | Madsen v. Women’s Health Center, Inc. | No. 93-880 | MERITS | Signed opinion | Completed: Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md |
+| 1994-06-30 | OT_1993CHUNK8 | International Union, United Mine Workers of America v. Bagwell | No. 92-1625 | MERITS | Signed opinion | Completed: International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md |
+| 1994-06-30 | OT_1993CHUNK8 | Tuilaepa v. California / Proctor v. California | Nos. 93-5131 (Tuilaepa) and 93-5161 (Proctor) | MERITS | Signed opinion | Completed: Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md |
 
 ## Opening carryovers from Standing State
 
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** June 24, 1994, through all twelve chunk-7 matters; the two uncoordinated June 24 chunk-8 matters remain open. Next: Consolidated Rail Corp. v. Gottshall and Shannon v. United States (June 24, 1994, chunk 8) are next. They share the June 24 start-of-day baseline and receive no law from the uncoordinated June 24 chunk-7 decisions. Completed June 17 and June 20 law enters prospectively within its scope.
+- **Current chronology cursor.** June 30, 1994, through all eleven chunk-8 matters; all 95 inventory Court events are completed. Next: No unprocessed event remains in the supplied case-list. Seven opening carryovers and Anderson’s underlying original writ remain open; term close requires their express disposition or carry-forward under the Engine. No new Court action is inferred.
 
 ## Manifest controls and limitations
 
@@ -144,7 +144,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 Day and Sassower's current fee components are permanently closed without Court action under their replacement lineage; their prospective decisions stand. Cavanaugh is completed by the November 30 merits decision. No component of these three matters is open or stopped.
 
-Consolidated Rail Corp. v. Gottshall and Shannon v. United States (June 24, 1994, chunk 8) are next. They share the June 24 start-of-day baseline and receive no law from the uncoordinated June 24 chunk-7 decisions. Completed June 17 and June 20 law enters prospectively within its scope.
+Continue the remaining inventory matters in effective-date order. Holder must precede De Grandy in the expressly established same-day sequence; other same-day events share their start-of-day baseline.
 
 ## Pending original writ after the completed May 2 fee action
 

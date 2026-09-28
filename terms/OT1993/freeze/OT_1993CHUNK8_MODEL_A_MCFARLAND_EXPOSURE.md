@@ -1,0 +1,7 @@
+# McFarland neutral-context exposure report
+
+During the resumed neutral validation turn, direct retrieval of the predecision lower opinion at https://static.case.law/f3d/7/html/0047-01.html succeeded. Display of its text revealed a postdecision Supreme Court petition-treatment metadata line before the lower opinion. This is excluded same-matter Supreme Court action information under Engine §3A and §5 even though it appears in a lower-opinion database wrapper.
+
+Affected McFarland modeling was stopped immediately. No McFarland commitments were created in this context, and this context did not repair its own neutral framing or continue the affected modeling. The root operator was notified promptly. No same-matter Supreme Court opinion was opened. The raw retrieved lower source is at `tmp/model_a_fresh/McFarlandAppeal.txt`; it is not a clean modeling input because it retains that metadata. The existing sanitized source supplement A already supplies the lower decision's material grounds and distinct-proceeding qualification. A fresh scoped validation/modeling context must use sanitized material and must not receive the content of the excluded metadata.
+
+The June 24 Gottshall and Shannon handoffs were frozen before this exposure and remain unchanged. The exposure is confined to McFarland and does not concern Williamson; Williamson work may continue on its own authorized packet, supplement and entering law. No Git command ran. Operator Git verification and commitment remain pending.

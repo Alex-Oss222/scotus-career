@@ -1,0 +1,92 @@
+[
+  [
+    "Gottshall",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512532/usrep512532.pdf",
+    41,
+    88786
+  ],
+  [
+    "Shannon",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512573/usrep512573.pdf",
+    21,
+    44851
+  ],
+  [
+    "Williamson",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512594/usrep512594.pdf",
+    28,
+    57964
+  ],
+  [
+    "McFarland",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512849/usrep512849.pdf",
+    25,
+    54026
+  ],
+  [
+    "Buell",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep480/usrep480557/usrep480557.pdf",
+    15,
+    33260
+  ],
+  [
+    "Monessen",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep486/usrep486330/usrep486330.pdf",
+    26,
+    58489
+  ],
+  [
+    "Jones",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep463/usrep463354/usrep463354.pdf",
+    34,
+    80647
+  ],
+  [
+    "Giarratano",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep492/usrep492001/usrep492001.pdf",
+    32,
+    73249
+  ],
+  [
+    "Wright",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep497/usrep497805/usrep497805.pdf",
+    31,
+    67173
+  ],
+  [
+    "Lee",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep476/usrep476530/usrep476530.pdf",
+    28,
+    61549
+  ],
+  [
+    "Bourjaily",
+    "https://tile.loc.gov/storage-services/service/ll/usrep/usrep483/usrep483171/usrep483171.pdf",
+    32,
+    71827
+  ],
+  [
+    "IA",
+    "collection:us-supreme-court AND (identifier:*92-1956* OR title:Gottshall)",
+    200,
+    "{\"responseHeader\":{\"status\":0,\"QTime\":7629,\"params\":{\"query\":\"collection:us-supreme-court AND (identifier:*92-1956* OR title:Gottshall)\",\"qin\":\"collection:us-supreme-court AND (identifier:*92-1956* OR title:Gottshall)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":30,\"start\":0}},\"response\":{\"numFound\":1,\"start\":0,\"docs\":[{\"identifier\":\"micro_IA40385013_0405\",\"title\":\"Consolidated Rail Corporation v. Gottshall, 512 U.S. 532 (1994) (No. 92-1956)\"}]}}"
+  ],
+  [
+    "IA",
+    "collection:us-supreme-court AND (identifier:*92-8346* OR title:Shannon)",
+    200,
+    "{\"responseHeader\":{\"status\":0,\"QTime\":4605,\"params\":{\"query\":\"collection:us-supreme-court AND (identifier:*92-8346* OR title:Shannon)\",\"qin\":\"collection:us-supreme-court AND (identifier:*92-8346* OR title:Shannon)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":30,\"start\":0}},\"response\":{\"numFound\":34,\"start\":0,\"docs\":[{\"identifier\":\"micro_IA40386011_1566\",\"title\":\"Shannon v. United Services Automobile Ass'n, 506 U.S. 1028 (1992) (No. 92-760)\"},{\"identifier\":\"micro_IA40385003_1193\",\"title\":\"Shannon v. United States, 424 U.S. 965 (1976) (No. 75-571)\"},{\"identifier\":\"micro_IA40386012_1959\",\"title\":\"Shannon v. City of Santa Ana, 516 U.S. 822 (1995) (No. 94-2097)\"},{\"identifier\":\"micro_IA40385005_2128\",\"title\":\"Shannon v. Waterhouse, 440 U.S. 911 (1979) (No. 78-871)\"},{\"identifier\":\"micro_IA40386017_0708\",\"title\":\"Shannon v. 520 South Michigan Avenue Associates, Ltd. (No. 09-14)\"},{\"identifier\":\"micro_IA40386407_0092\",\"title\":\"United States v. Shannon, 342 U.S. 288 (1952) (No. 47)\"},{\"iden"
+  ],
+  [
+    "IA",
+    "collection:us-supreme-court AND (identifier:*93-5256* OR title:Williamson)",
+    200,
+    "{\"responseHeader\":{\"status\":0,\"QTime\":4627,\"params\":{\"query\":\"collection:us-supreme-court AND (identifier:*93-5256* OR title:Williamson)\",\"qin\":\"collection:us-supreme-court AND (identifier:*93-5256* OR title:Williamson)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":30,\"start\":0}},\"response\":{\"numFound\":69,\"start\":0,\"docs\":[{\"identifier\":\"micro_IA40386008_1238\",\"title\":\"Oglesby v. Brown & Williamson Tobacco Corp., 525 U.S. 868 (1998) (No. 98-71)\"},{\"identifier\":\"micro_IA40385003_1835\",\"title\":\"Brown & Williamson Tobacco Corp. v. Dixon, 426 U.S. 911 (1976) (No. 75-1290)\"},{\"identifier\":\"micro_IA40385017_2455\",\"title\":\"Williamson v. Gillmor, 471 U.S. 1054 (1985) (No. 84-1364)\"},{\"identifier\":\"micro_IA40385017_1289\",\"title\":\"American Pioneer Life Insurance v. Williamson, 517 U.S. 1231 (1996) (No. 95-1325)\"},{\"identifier\":\"micro_IA40385014_0257\",\"title\":\"FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120 (2000) (No. 98-1152)\"},{\"identifier\":\"micro_IA40385011_0965\",\"title\":\"Brown & Will"
+  ],
+  [
+    "IA",
+    "collection:us-supreme-court AND (identifier:*93-6497* OR title:McFarland)",
+    200,
+    "{\"responseHeader\":{\"status\":0,\"QTime\":4859,\"params\":{\"query\":\"collection:us-supreme-court AND (identifier:*93-6497* OR title:McFarland)\",\"qin\":\"collection:us-supreme-court AND (identifier:*93-6497* OR title:McFarland)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":30,\"start\":0}},\"response\":{\"numFound\":34,\"start\":0,\"docs\":[{\"identifier\":\"micro_IA40385007_0801\",\"title\":\"McFarland v. United States, 450 U.S. 1029 (1981) (No. 80-798)\"},{\"identifier\":\"micro_IA40385003_1109\",\"title\":\"McFarland v. United States, 423 U.S. 1049 (1976) (No. 75-479)\"},{\"identifier\":\"micro_IA40386012_1517\",\"title\":\"McFarland v. Leyh, 115 S. Ct. 2002 (1995) (No. 94-1623)\"},{\"identifier\":\"micro_IA40385606_0970\",\"title\":\"McFarland v. Knapp, 409 U.S. 850 (1972) (No. 71-1653)\"},{\"identifier\":\"micro_IA40385608_1663\",\"title\":\"McFarland v. United States, 423 U.S. 1049 (1976) (No. 75-479)\"},{\"identifier\":\"micro_IA40386011_1621\",\"title\":\"McFarland v. Cheney, 506 U.S. 1053 (1993) (No. 92-822)\"},{\"identifier\":\"micro_IA4038500"
+  ]
+]

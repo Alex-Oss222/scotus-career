@@ -1,0 +1,27 @@
+﻿{
+    "stage":  "Final neutral dependency refresh through June 27",
+    "matters":  [
+                    "Holder v. Hall",
+                    "Tuilaepa v. California / Proctor v. California"
+                ],
+    "public_source":  "terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md",
+    "public_source_sha256":  "84448d9632b305f224f714c8428f7c35f0016f8300fa79b36b010431b31591d2",
+    "bounded_projections":  90,
+    "prior_shared_projections_unchanged":  87,
+    "new_sections_read":  [
+                              "Kiryas Joel",
+                              "Turner",
+                              "Williamson"
+                          ],
+    "original_freeze_hashes":  "All three match original receipt",
+    "justice_rows":  "Eight distinct rows in each of the two refresh tables",
+    "commitment_changes":  "None",
+    "earlier_event_refresh":  "Complete",
+    "next_stage":  "Historical reconciliation of unchanged original commitments",
+    "de_grandy":  "Not modeled; requires actual Holder Public Projection",
+    "excluded_sources_opened":  "None",
+    "git_commands":  "None",
+    "note":  "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_REFRESH_C_JUNE27.md",
+    "note_sha256":  "d18756dae6ec18654dbb6f680b953b9b28728acc047812220d5996216704eb15",
+    "frozen_at_utc":  "2026-09-28T05:55:35.0945526Z"
+}

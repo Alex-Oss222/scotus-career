@@ -1,0 +1,177 @@
+{
+  "baseline_files": 1711,
+  "concurrent_external_changes_not_claimed_as_preserved": [
+    {
+      "path": "terms/OT1994/case-list.md",
+      "opening_sha256": "e2c5e08783e695a7820215213128a08b7fbc9b5708a70dcbbc82a112518d0f46",
+      "observed_sha256": "c23dea231200c7cb4e20925c4c2df06afd4390500519d924ce3b07dfd8bc596f",
+      "last_modified_utc": "2026-09-28T05:29:26.683627+00:00"
+    },
+    {
+      "path": "terms/OT1994/briefs/OT_1994CHUNK9.md",
+      "opening_sha256": "ff44abd14b570251264c1cb432be92669a086d552be3cd8c47bc44bcd259df6a",
+      "observed_sha256": "55ef010dddfbb3f8b47732d654b6ce0c3325a2aecafd1354ae2fa867b6bc2feb",
+      "last_modified_utc": "2026-09-28T05:29:26.683627+00:00"
+    }
+  ],
+  "new_records": 11,
+  "records": {
+    "Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md": {
+      "date": "1994-06-27",
+      "result": "**Result:** Affirm federal invalidation of Chapter 748 in all three dockets, 7–2; deliberate denominational allocation of general civil authority has five direct supporters, and the particular-benefit/equal-treatment ground has six.",
+      "sha256": "5cdc2dcf91408aca4771b800b4b0a8d3ad61ec343c6647f8eb973c3ad846697a"
+    },
+    "Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Both Third Circuit judgments reversed and remanded, 5–4; Gottshall for first-instance zone-of-danger application, Carlisle for entry of judgment for Conrail.",
+      "sha256": "690d3aeb57cf14524522448d4f29a223b94818b5e93e54b49f22852e81604274"
+    },
+    "Holder_v_Hall_merits_1994-06-30.md": {
+      "date": "1994-06-30",
+      "result": "**Result:** Affirm the Eleventh Circuit's Section 2 liability judgment and preserve its existing remand for formulation of a remedy, 5–4; six Justices adopt threshold coverage.",
+      "sha256": "9ec768d9a3195f6b980427e4964b824ae914e43fb21146f55deaaf8fafcc5b0f"
+    },
+    "International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md": {
+      "date": "1994-06-30",
+      "result": "**Result:** Reversed and remanded, 9–0, as to the surviving public fines; additional procedural account joined by eight.",
+      "sha256": "39a4c9cd6afa1818e66049cec6b075100bdca5700f8a0987c260ae9c59f4b86d"
+    },
+    "Johnson_v_De_Grandy_merits_1994-06-30.md": {
+      "date": "1994-06-30",
+      "result": "**Result:** House Section 2 liability and dependent Plan 268 remedy reversed; Senate judgment affirmed, each 7–2. Thomas and Scalia would vacate and remand to dismiss the consolidated Section 2 actions.",
+      "sha256": "959efd6952f6078b7bf6e5690bda2ba7294ff7f4365d65697b51f57bfb0c42c2"
+    },
+    "Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md": {
+      "date": "1994-06-30",
+      "result": "**Result:** Affirmed in part, reversed in part, and remanded, with component judgments and scope distinctions stated below; no mandatory new personal-separation order.",
+      "sha256": "ac178761f9b7c9d61cc85b93081acb8c486cbd57ec11f43d6574983050e38175"
+    },
+    "McFarland_v_Scott_merits_1994-06-30.md": {
+      "date": "1994-06-30",
+      "result": "**Result:** Reversed and remanded; statutory counsel 7–2, preparatory stay authority 6–3.",
+      "sha256": "5c78c1b2d47e777a8a7af236095000cbbcec5b24fb53469292a76d3158168f1d"
+    },
+    "Shannon_v_United_States_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Fifth Circuit judgment affirmed, 6–3, on no-error grounds, with actual corrective-instruction authority preserved.",
+      "sha256": "889c6212a6d20d0e8df2f06a0ff6dbe122b05f2721a0ddadf6f2975316ccb71e"
+    },
+    "Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md": {
+      "date": "1994-06-30",
+      "result": "**Result:** Both judgments affirmed, 8–1; each presented factor challenge rejected on no-error grounds.",
+      "sha256": "2b0292f1fc9aa7d8e1d1cca73a667cd7725305168c546283fa47e572d745b9dd"
+    },
+    "Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md": {
+      "date": "1994-06-27",
+      "result": "**Result:** Vacate the summary judgment sustaining the challenged must-carry provisions and remand, 5–4; intermediate classification and standard have five votes, while the present-record insufficiency application has four.",
+      "sha256": "c70358efa4cf7680d69c49068821fee925a063300447769dcb5f2e3f670dd0ac"
+    },
+    "Williamson_v_United_States_merits_1994-06-27.md": {
+      "date": "1994-06-27",
+      "result": "**Result:** Eleventh Circuit judgment vacated and remanded, 9–0; assertion-specific contextual Rule 804(b)(3) construction commands seven votes; application paths remain 4 / 3 / 2, with a two-Justice affirmative qualification position within the three-Justice narrow-remand path.",
+      "sha256": "6fafc1ad75688814cba86f9d95d0bd4b1a4674ccb56ca2d836a14215fb178836"
+    }
+  },
+  "holding_explanation_word_counts": {
+    "Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md": [
+      162,
+      169,
+      164
+    ],
+    "Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md": [
+      167,
+      156,
+      170
+    ],
+    "Holder_v_Hall_merits_1994-06-30.md": [
+      159,
+      171,
+      171,
+      163
+    ],
+    "International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md": [
+      162,
+      160,
+      157
+    ],
+    "Johnson_v_De_Grandy_merits_1994-06-30.md": [
+      154,
+      156,
+      164,
+      162,
+      184,
+      172
+    ],
+    "Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md": [
+      155,
+      150,
+      156,
+      160,
+      156,
+      158,
+      159,
+      156,
+      158,
+      161,
+      162,
+      155,
+      154
+    ],
+    "McFarland_v_Scott_merits_1994-06-30.md": [
+      162,
+      160,
+      160,
+      162
+    ],
+    "Shannon_v_United_States_merits_1994-06-24.md": [
+      169,
+      169
+    ],
+    "Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md": [
+      162,
+      159,
+      163,
+      164
+    ],
+    "Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md": [
+      155,
+      154,
+      169,
+      167,
+      165,
+      156
+    ],
+    "Williamson_v_United_States_merits_1994-06-27.md": [
+      182,
+      172
+    ]
+  },
+  "local_links_checked": 701,
+  "vote_receipt_files": [
+    "OT_1993CHUNK8_ASSEMBLY_DEGRANDY_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_HOLDER_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_JUNE24_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_JUNE30_THREE_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_KIRYAS_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_MADSEN_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_TURNER_VOTES.json",
+    "OT_1993CHUNK8_ASSEMBLY_WILLIAMSON_VOTES.json"
+  ],
+  "render_record_order": [
+    "Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md",
+    "Shannon_v_United_States_merits_1994-06-24.md",
+    "Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md",
+    "Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md",
+    "Williamson_v_United_States_merits_1994-06-27.md",
+    "Holder_v_Hall_merits_1994-06-30.md",
+    "International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md",
+    "Johnson_v_De_Grandy_merits_1994-06-30.md",
+    "Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md",
+    "McFarland_v_Scott_merits_1994-06-30.md",
+    "Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md"
+  ],
+  "opening_carryovers_preserved": true,
+  "errors": [],
+  "git": "All Git checks deferred; no Git invocation",
+  "scope": "Deterministic consistency only; separate stage records document substantive review. Separately recorded concurrent files outside this Run were left untouched and are not claimed as preserved opening bytes."
+}

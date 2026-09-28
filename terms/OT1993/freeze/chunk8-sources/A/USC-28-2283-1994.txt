@@ -1,0 +1,162 @@
+28 USC 2283: Stay of State court proceedings
+
+            Result 1 of 1
+            
+<!--
+                var prev = function(event) { bindCode(event, 'R', 'j_idt21:j_idt23:prevResult')};
+                var next = function(event) { bindCode(event, 'r', 'j_idt21:j_idt23:nextResult')};
+                if (document.addEventListener) {
+                    document.addEventListener("keypress", prev, false);
+                    document.addEventListener("keypress", next, false);
+                }
+                else if (document.attachEvent) {
+                    document.attachEvent("onkeypress", prev);
+                    document.attachEvent("onkeypress", next);
+                }
+            -->
+Current
+2024 Main Ed. (1/6/2025)
+2018 Ed. and Supplement V (1/3/2024)
+2018 Ed. and Supplement IV (1/5/2023)
+2018 Ed. and Supplement III (1/3/2022)
+2018 Ed. and Supplement II (1/13/2021)
+2018 Ed. and Supplement I (1/24/2020)
+2018 Main Ed. (1/14/2019)
+2012 Ed. and Supplement V (1/12/2018)
+2012 Ed. and Supplement IV (1/6/2017)
+2012 Ed. and Supplement III (1/3/2016)
+2012 Ed. and Supplement II (1/5/2015)
+2012 Ed. and Supplement I (1/16/2014)
+2012 Main Ed. (1/15/2013)
+2006 Ed. and Supplement V (1/3/2012)
+2006 Ed. and Supplement IV (1/7/2011)
+2006 Ed. and Supplement III (2/1/2010)
+2006 Ed. and Supplement II (1/5/2009)
+2006 Ed. and Supplement I (1/8/2008)
+2006 Main Ed. (1/3/2007)
+2000 Ed. and Supplement V (1/2/2006)
+2000 Ed. and Supplement IV (1/3/2005)
+2000 Ed. and Supplement III (1/19/2004)
+2000 Ed. and Supplement II (1/6/2003)
+2000 Ed. and Supplement I (1/22/2002)
+2000 Main Ed. (1/2/2001)
+1994 Ed. and Supplement V (1/23/2000)
+1994 Ed. and Supplement IV (1/5/1999)
+1994 Ed. and Supplement III (1/26/1998)
+1994 Ed. and Supplement II (1/6/1997)
+1994 Ed. and Supplement I (1/16/1996)
+1994 Main Ed. (1/4/1995)
+<!--
+                var prev = function(event) { bindCode(event, 'V', 'j_idt30:formResults:prevResult')};
+                var next = function(event) { bindCode(event, 'v', 'j_idt30:formResults:nextResult')};
+                if (document.addEventListener) {
+                    document.addEventListener("keypress", prev, false);
+                    document.addEventListener("keypress", next, false);
+                }
+                else if (document.attachEvent) {
+                    document.attachEvent("onkeypress", prev);
+                    document.attachEvent("onkeypress", next);
+                }
+                // Set select's default option.
+                var documentYear ="1994";
+                var editionYear="";
+                if (documentYear!="") {
+                    editionYear = documentYear;
+                } else {
+                    editionYear="1994";
+                    if(editionYear==""){
+                        editionYear = "1994";
+                     }
+                }
+                var select=document.getElementById("j_idt30:formResults:versionsSel");
+
+                if (editionYear!="" && select) {
+                    for (var i=0; i<select.options.length; i++) {
+                        if (select.options[i].value==editionYear) {
+                            select.selectedIndex=i;
+                            break;
+                        }
+                    }
+                }
+            -->
+Back to Original Document
+<< Previous
+TITLE 28
+ / 
+PART VI
+ / 
+CHAPTER 155
+ / 
+§ 2283
+Next >>
+<!--
+                        var prevS = function(event) { bindLink(event, 'S', 'frmNav:prevSection')};
+                        var nextS = function(event) { bindLink(event, 's', 'frmNav:nextSection')};
+                        if (document.addEventListener) {
+                            document.addEventListener("keypress", prevS, false);
+                            document.addEventListener("keypress", nextS, false);
+                        }
+                        else if (document.attachEvent) {
+                            document.attachEvent("onkeypress", prevS);
+                            document.attachEvent("onkeypress", nextS);
+                        }
+                    -->
+[Print]
+[Print selection]
+[OLRC Home]
+Help
+<!--
+            var closeLink = document.getElementById('closeLink');
+            if (window.opener && closeLink) {
+                closeLink.firstChild.nodeValue = '[Close]';
+            }
+        -->
+28 USC 2283
+: Stay of State court proceedings
+Text contains those laws in effect on January 4, 1995
+From Title 28-JUDICIARY AND JUDICIAL PROCEDURE
+PART VI-PARTICULAR PROCEEDINGS
+CHAPTER 155-INJUNCTIONS; THREE-JUDGE COURTS
+Jump To: 
+Source Credit
+§2283. Stay of State court proceedings
+A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.
+(
+June 25, 1948, ch. 646, 
+62 Stat. 968
+.)
+Historical and Revision Notes
+Based on title 28, U.S.C., 1940 ed., §379 (
+Mar. 3, 1911, ch. 231, §265, 
+36 Stat. 1162
+).
+An exception as to acts of Congress relating to bankruptcy was omitted and the general exception substituted to cover all exceptions.
+The phrase "in aid of its jurisdiction" was added to conform to 
+section 1651 of this title
+ and to make clear the recognized power of the Federal courts to stay proceedings in State cases removed to the district courts.
+The exceptions specifically include the words "to protect or "effectuate its judgments," for lack of which the Supreme Court held that the Federal courts are without power to enjoin relitigation of cases and controversies fully adjudicated by such courts. (See 
+Toucey v. New York Life Insurance Co
+., 62 S.Ct. 139, 314 U.S. 118, 86 L.Ed. 100. A vigorous dissenting opinion (62 S.Ct. 148) notes that at the time of the 1911 revision of the Judicial Code, the power of the courts, of the United States to protect their judgments was unquestioned and that the revisers of that code noted no change and Congress intended no change).
+Therefore the revised section restores the basic law as generally understood and interpreted prior to the Toucey decision.
+Changes were made in phraseology.
+<!--
+                    //If a standard reference seach then rename each element to be used
+                    //later in the highlighting.
+                    var isUscodeRef = "false";
+                    if (isUscodeRef) {
+                        var links = document.getElementsByName("hl1");
+                        for (var i=0; i<links.length; i++) {
+                            if (i==0) {
+                                links[i].style.background = 'yellow';
+                            }
+                            links[i].id = "hl" + (i+1);
+                        }
+                    }
+                    // Hide the pending section if version different to prelim.
+                    try {
+                        var documentYear ="1994";
+                        var pendingSection = document.getElementById("spanPU");
+                        if (pendingSection && documentYear !="prelim")
+                            pendingSection.style.visibility="hidden";
+                    } catch(e) {}
+                -->

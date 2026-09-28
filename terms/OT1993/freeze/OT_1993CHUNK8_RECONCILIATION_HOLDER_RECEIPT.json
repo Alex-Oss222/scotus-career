@@ -1,0 +1,22 @@
+﻿[
+    {
+        "path":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_HOLDER.md",
+        "sha256":  "7c9c8801d279337efbe29145e4b1df2f005641bfe1698813c8ea74ac109e7924"
+    },
+    {
+        "path":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_TUILAEPA.md",
+        "sha256":  "5179d539bd58919d0599bbdac1739a8649f75635a53a8d3fc0320fe9fe708927"
+    },
+    {
+        "path":  "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_VALIDATION_C.md",
+        "sha256":  "8c0c9845df5ff7b95027a894c9f0fd95108f5f610ebd997eddd42f88edb4c759"
+    },
+    {
+        "path":  "terms/OT1993/freeze/OT_1993CHUNK8_RECONCILED_HOLDER.md",
+        "sha256":  "0d12e56fba904e3be5bcf8fdfe43839dc2939933decc4453607901ff3b1e99ce"
+    },
+    {
+        "path":  "terms/OT1993/freeze/OT_1993CHUNK8_RECONCILIATION_VALIDATION_HOLDER.md",
+        "sha256":  "c83f4ace45e44c0ce614cb2d06a51619b5432adf615151185d991cc96dcba38b"
+    }
+]

@@ -1,0 +1,704 @@
+
+  
+
+    
+Alan CARLISLE v. CONSOLIDATED RAIL CORPORATION.
+
+    
+Civ. A. No. 88-8752.
+
+    
+United States District Court, E.D. Pennsylvania.
+
+    
+March 23, 1992.
+
+    
+
+      
+*522
+J. Michael Farrell, Philadelphia, Pa., for plaintiff.
+
+    
+Jonathan F. Altman, Jonathan F. Altman, P.C., Philadelphia, Pa., for defendant.
+
+  
+
+  
+
+    
+MEMORANDUM AND ORDER
+
+    
+GAWTHROP, District Judge.
+
+    
+Plaintiff, Alan Carlisle, filed this suit under the Federal Employers’ Liability Act, 
+45 U.S.C. § 51
+, 
+et seq. 
+(“FELA”), against Consolidated Rail Corporation (“Conrail”), his former employer, alleging negligent infliction of emotional distress. Plaintiff claimed that Conrail breached its non-dele-gable duty to provide him with a safe place to work by requiring him to work under unreasonably dangerous conditions, with foreseeable hazards to his health. The jury returned a verdict in favor of the plaintiff in the amount of $386,500, and Conrail now moves for judgment notwithstanding the verdict, claiming that Mr. Car-lisle’s evidence was not legally sufficient to present a question to the jury on the theory of negligent infliction of emotional distress under the FELA. Counsel also moves for a new trial, asserting a variety of trial errors. Upon the following reasoning, I shall deny both of defendant's motions.
+
+    
+DISCUSSION
+
+    
+I. 
+Motion for Judgment Notwithstanding the Verdict
+
+    
+
+    
+Granting a motion for judgment notwithstanding the verdict
+1
+ is appropriate only if the trial record is “critically deficient of that minimum quantity of evidence from which a jury might reasonably afford relief.” 
+Aloe Coal Co. v. Clark Equipment Co., 
+816 F.2d 110
+, 1113 (3d Cir.1987), 
+cert. denied, 
+484 U.S. 853
+, 
+108 S.Ct. 156
+, 
+98 L.Ed.2d 111
+ (1987). A judgment notwithstanding the verdict should only be granted when, without weighing the evidence, there can be but one reasonable conclusion as to the proper judgment. 
+Marian Bank v. International Harvester Credit Corp., 
+550 
+*523
+F.Supp. 456
+, 460 (E.D.Pa.1982), 
+aff'd, 
+725 F.2d 669
+ (3d Cir.1983).
+
+    
+Defendant contends that the plaintiffs evidence was legally insufficient to sustain a jury’s verdict, under the caselaw of the Third Circuit, because the plaintiff failed to establish: 1) an accident, physical impact, or injury to someone; 2) physical injury to himself as the result of an impact; 3) his placement in a zone of danger; 4) his witness of an accident resulting in physical injury to someone;
+2
+ and 5) outrageous and unconscionable abuse directed at him.
+3
+
+    
+
+    
+a. The law on negligent infliction of emotional distress claims under the FELA
+
+    
+Preliminarily, I disagree with defendant’s characterizations of the law in this circuit. The Supreme Court in 
+Atchison, Topeka & Santa Fe Railway Co. v. Buell, 
+480 U.S. 557
+, 
+107 S.Ct. 1410
+, 
+94 L.Ed.2d 563
+ (1987) decided that the Railway Labor Act (“RLA”), as the statute governing railway labor disputes, did not preempt an employee’s FELA action seeking recovery for intentional and negligent harassment and intimidation from co-workers. In so doing, however, the Court declined to create a general rule as to whether a plaintiff can recover for purely emotional injuries under the FELA. While the court in 
+Buell 
+stated that the FELA should be liberally construed and suggested that some emotional injuries may be cognizable, 
+Id. 
+at 561-562
+, 
+107 S.Ct. at 1413-1414
+, it left the issue to the circuits, to decide whether employees could recovery for emotional injuries under the FELA and, if so, under what circumstances. “[T]he question whether one can recover for emotional injury may not be susceptible to an all-inclusive ‘yes’ or ‘no’ answer. As in other areas of law, broad pronouncements in this area may have to bow to the precise application of developing legal principles to the particular facts at hand.” 
+Id. 
+at 570
+, 
+107 S.Ct. at 1418
+.
+
+    
+Two circuits that have directly faced this issue have found that physical injury, physical contact, or immediate threat of physical contact is not required to prove negligent infliction of emotional distress under the FELA. 
+Plaisance v. Texaco, Inc., 
+937 F.2d 1004
+, 1009 (5th Cir.1991); 
+Taylor v. Burlington Northern R. Co., 
+787 F.2d 1309
+, 1313 (9th Cir.1986). The Seventh Circuit, however, does require physical contact or the threat of physical contact before an emotional injury is cognizable under the FELA. 
+Ray v. Consolidate Rail Corporation, 
+938 F.2d 704
+ (7th Cir.1991), 
+cert. denied, 
+— U.S. —, 
+112 S.Ct. 914
+, 
+116 L.Ed.2d 813
+ (1992).
+
+    
+The two Third Circuit decisions on this issue have not directly addressed the question expressly left open by the Supreme Court in 
+Buell: 
+whether physical contact, physical injury, or the immediate threat of physical contact is a required element for a FELA action for negligent infliction of emotional distress. The Third Circuit in 
+Holliday v. Consolidated Rail Corp., 
+914 F.2d 421
+ (3d Cir.1990), 
+cert. denied, 
+— U.S. —, 
+111 S.Ct. 970
+, 
+112 L.Ed.2d 1057
+ (1991), declined to allow recovery for emotional distress caused by Conrail’s placement of an employee in a position for which he was not qualified, for but a few days. Focusing on the “nature of [the plaintiff’s] injury and the character of the tortious activity,” 
+Id. 
+at 423, the court held that even though plaintiff’s emotional injury manifested itself physically, in the form of heart palpitations, spastic colon, involuntary rectal discharge, anxiety and depression, Conrail’s allegedly tortious activity of placing the plaintiff in a job for which he considered himself unqualified for a short 
+*524
+period of only a few days was “simply an ordinary management decision.” 
+Id. 
+at 425.
+
+    
+The court, however, was careful to limit the breadth of its holding by explicitly stating,
+
+    
+We emphasize that our opinion is narrow. We are not holding that there can never be a recovery under the FELA for emotional conditions unless the employee suffers an immediate physical injury from the railroad’s negligent conduct, or unless there is at least an accident of some kind, as we need not and do not reach that issue. Thus, our holding does not draw a ‘bright line’ requiring a direct impact traceable to the employer’s negligence before there can be a FELA recovery. We are not called upon to decide whether an employee exposed to dangerous conditions for a protracted time, though not in an accident, could recover. 
+Id. 
+at 427.
+
+    
+The Third Circuit’s most recent decision in this area is 
+Outten v. National Railroad Passenger Corp., 
+928 F.2d 74
+ (3d Cir.1991). There, the plaintiff attempted to recover from Amtrak for negligent infliction of emotional distress, claiming he fled from his job site in fear of his life, when he thought two trains would collide near him. It turned out that he was at least a full mile from the point where the trains collided, and he had witnessed neither the initial impact nor the individual injuries.
+
+    
+Upon those facts, the court held that no theory permitted this particular plaintiff to recover under the FELA for his emotional injuries, noting as a Palsgrafian factor in its decision, that it was “hardly foreseeable to the railroad that one of its employees might suffer serious psychological injuries as a result of the fear of injury from a train collision over a mile away.” 
+Id. 
+at 79
+. But in so holding, the court again limited its denial of recovery for emotional distress under the FELA to the specific facts of the case, stating that they were not “prepared to attempt to devise a litmus test for FELA claims based on negligent infliction of emotional distress that could be applied across-the-board because the Supreme Court has cautioned us to give ‘exacting scrutiny to the facts of the case.’ ” 
+Id.
+ 
+(quoting 
+Buell, 
+480 U.S. at 568
+, 
+107 S.Ct. at 1417
+).
+
+    
+One court in this district has faced claims similar to the one at bar. In 
+Kraus v. Consolidated Rail Corp., 
+723 F.Supp. 1073
+ (E.D.Pa.1989), 
+appeal dismissed on other procedural grounds, 
+899 F.2d 1360
+ (3d Cir.1990), Judge McGlynn granted summary judgment to Conrail on the claims of four former Conrail train dispatchers. The train dispatchers brought claims for negligent infliction of emotional distress under the FELA, alleging that they had suffered injuries, ranging from the purely emotional for one plaintiff, to the physical—a heart attack—for another. They contended that their maladies were caused by Conrail’s failure to provide them with a safe place to work, and, in particular, claimed that job consolidation, work force reduction, heavy workload, intense pressure from job responsibility, loss of lunch and rest breaks, and chaotic working conditions at Conrail caused the stress that injured them.
+
+    
+After a thorough review of the caselaw on recovery for emotional injuries under the FELA, as well as the law on negligent infliction of emotional distress, the court in 
+Kraus 
+decided that the plaintiffs were allegedly injured by performing the normal duties of their jobs, as structured by management and monitored by the union, and concluded that job-related stress from general working conditions is not the type of problem intended to be dealt with by the FELA. 
+Id. 
+at 1090. In its review of the caselaw on negligent infliction of emotional distress, the court found that most states combine a foreseeability analysis with some kind of physical-contact or physical-manifestation requirement. Finding that there was no allegation that any of the 
+Kraus 
+plaintiffs had suffered physical contact, the court did not analyze the aspect of foreseeability, but instead concluded that the type of conduct alleged was not the type of conduct that has “led to the evolution of the negligent infliction tort.” 
+Id. 
+at 1089.
+
+    
+With the utmost respect for the author of that opinion and with appreciation 
+*525
+for his scholarly analysis of the common law and the FELA cases dealing with employees’ emotional injuries, I must, nevertheless, disagree with the opinion’s general conclusion. I am of the view that a plaintiff who incurs stress-related emotional or physical injuries, allegedly from Conrail’s negligence in requiring its employee to work under conditions that are unsafe and harmful to an employee’s health, does state a cognizable claim under the FELA. In so stating, I am quick to say that I do agree that stress can be an inevitable, daily — and non-actionable — concomitant of any job. It is only in the very most egregious circumstances, in which the psychological brutality of the conditions of the workplace has so bludgeoned the body and mind as to result in genuine debilitating physical repercussions, that a cause of action in this context should be countenanced.
+
+    
+At the outset, the fact that working conditions are at the “heart of labor-management negotiations” and part of a collective bargaining agreement, 
+Id. 
+at 1090, is not of dispositive consequence to the analysis of injury under the FELA. In holding that the FELA provides railway workers with substantive protection against negligent conduct independent of the employer’s obligations under its collective bargaining agreement, the Supreme Court in 
+Buell, 
+supra,
+ 
+480 U.S. at 562
+, 
+107 S.Ct. at 1415
+, explained that “presumably a host of personal injuries suffered by railroad employees are caused by negligent practices and conditions that might have been cured or avoided by the timely invocation of the grievance machinery ... But we have never considered that possibility a bar to an employee’s bringing a FELA claim for personal injuries.” 
+Id.
+
+    
+
+    
+In determining that silicosis was an injury under the FELA, the Supreme Court in 
+Urie v. Thompson, 
+337 U.S. 163
+, 
+69 S.Ct. 1018
+, 
+93 L.Ed. 1282
+ (1949), recognized that nothing in the language
+4
+ of the FELA or its legislative history disclosed any express intent “to exclude from the Act’s coverage any injury resulting ‘in whole or in part from the negligence’ of the [railroad] ... On its face, every injury suffered by any employee while employed by reason of the carrier’s negligence was made compensa-ble.” 
+Id. 
+at 181, 
+69 S.Ct. at 1030
+. Although courts are legitimately concerned that recognizing the cognizability of FELA claims for emotional injury could open the floodgates of litigation, the court in 
+Plaisance, 
+supra,
+ 
+937 F.2d at 1010
+, noted that a person who suffers emotional injuries from the negligence of another should not be denied recovery simply because there is a danger of false claims, a possibility of liability for remote or unforeseeable consequences, or the possibility that the injuries were only temporary. “An emotional injury can be every bit as harmful, debilitating, and destructive of the quality of one’s life as a physical injury.” 
+Id. 
+at 1009
+.
+
+    
+I agree. Were the courts to preclude a right to recover because of the danger of false claims, the courts could, under that theory, shut down shop entirely. The job of the trial courts is, largely, to provide that fact-finding forum in which the bogus claim can be sifted out from the bona fide one. Since at the 
+nisi prius 
+level, the law is usually well-settled, and the facts are not, it is the latter, factual area upon which litigation generally finds its principal focus: evaluating evidence, to find the truth. It is a task that courts across the land perform daily, with a fair degree of success. Were the courts to shrink from that task and preclude all lawsuits, simply because some plaintiffs are perjurious, greedy, and malingering, justice would ultimately be denied to millions of the legitimately injured.
+
+    
+Courts have indeed allowed FELA claims based on work-related stress. In 
+McMillan v. Western Pacific Railroad Co., 
+54 Cal.2d 841
+, 
+9 Cal.Rptr. 361
+, 
+357 P.2d 449
+ (1960), the Supreme Court of California held that a train dispatcher who suffered a nervous 
+*526
+collapse because of stressful working conditions stated a claim cognizable under the FELA. In 
+Barker v. Consolidated Rail Corporation, 
+No. 85-5304 slip op., 
+1986 WL 1203
+ (E.D.Pa. January 24, 1986), a case involving a train dispatcher who worked with Mr. Carlisle at Conrail, Judge Weiner held that a plaintiff stated a claim under the FELA where his heart attack was allegedly induced by excessive job stress. So too, in 
+Welby v. Consolidated Rail Corporation, 
+671 F.Supp. 1015
+ (M.D.Pa.1987), Chief Judge Nealon held that plaintiffs claim that his heart attack was caused by improper and unsafe working conditions stated a claim under the FELA. 
+See also Yawn v. Southern Ry. Co. 
+591 F.2d 312
+ (5th Cir.), 
+cert. denied, 
+442 U.S, 934
+, 
+99 S.Ct. 2869
+, 
+61 L.Ed.2d 304
+ (1979) (employees’ allegation that railroad failed to provide sufficient help and adequate time for employees to do their work stated a claim under the FELA).
+
+    
+Because I find, as did Judge McGlynn in 
+Kraus, 
+supra,
+ 
+723 F.Supp. at 1089
+, that the law in this area is “less than clearly defined and in a stage of rapid evolution,” 
+Id.,
+ 
+and because both Third Circuit cases on the issue explicitly limited their holdings to the facts of each case, I conclude that the caselaw in this circuit does not mandate a physical contact to prove injury under the FELA. A plaintiff does not have to prove physical impact resulting in physical injury to himself or the threat of physical contact caused by his placement in a zone of danger, in order to recover on a claim for negligent infliction of emotional distress under the FELA.
+
+    
+The objective-negligence standard used in 
+Plaisance 
+and adopted by Judge Hutton of this district in 
+Smolsky v. Consolidated Rail Corp., 
+780 F.Supp. 283
+, 290 (E.D.Pa.1991), after his own thorough review of the caselaw in this area, is the one I find to be appropriate in this situation. It permits an action for negligent infliction of emotional distress, where the plaintiffs claimed emotional injury resulted from a situation in which a reasonable person,
+5
+ normally constituted, would not be able to cope adequately with the mental distress occasioned by the circumstances. 
+Plaisance, 
+937 F.2d at 1010
+. In 
+Smolsky, 
+the plaintiff made a claim for negligent infliction of emotional distress under the FELA, alleging a campaign of systematic and abusive harassment, sexual and non-sexual, by her supervisor. The court held that, in order to recover on her claim, the plaintiff must prove all the traditional common-law elements of negligence: duty, breach, causation, and foreseeability. 
+Smolsky, 
+supra 
+at 290
+; 
+see Adams v. CSX Transportation, Inc., 
+899 F.2d 536
+, 539 (6th Cir.1990). I find this test for a claim of negligent infliction of emotional distress more in accordance with the evolving caselaw on emotional torts and the Supreme Court’s broad construction of the FELA. Hence, my holding.
+
+    
+b. Application of the law to the facts of this case
+
+    
+In applying the negligence test to the facts of this case, I must determine whether plaintiff presented evidence at trial that was legally sufficient to get him to the jury on the question of negligent infliction of emotional distress. In so doing, I note that “where there is conflicting evidence which could lead to inconsistent conclusions, a judgment N.O.V. should not be granted.” 
+Marian Bank v. International Harvester Credit Corp., 
+550 F.Supp. 456
+, 460 (E.D.Pa.1982), 
+aff'd, 
+725 F.2d 668
+, 669 (3d Cir.1983).
+
+    
+In reviewing the evidence as to the negligence elements of duty, breach, causation, and foreseeability, on which I charged the jury, (N.T. May 20, 1991 at 157-162), it is clear from the outset that Carlisle has established duty on the part of Conrail, since the FELA imposes upon the defendant-employer a non-delegable duty to use reasonable care to furnish its employees with a safe place to work. 
+Sano v. Pennsylvania R.R.Co., 
+282 F.2d 936
+ (3d Cir.1960). Plain
+*527
+tiff claims that Conrail’s breach of this duty, by requiring him to work under the strenuous conditions that he did, with the responsibilities he bore, for the length of time he did, caused his injury, and that Conrail knew or should have known that plaintiff's health was threatened by his work. As to these elements of breach, causation, and foreseeability, I must look to plaintiff’s trial evidence to determine whether, if believed by the jury, it would support a verdict in his favor.
+
+    
+After starting as a train dispatcher for Conrail in 1976, he moved up to supervising other train dispatchers and, by 1981, was responsible for all the train movements in and out of Washington D.C., Baltimore, Wilmington and Philadelphia. Some of these trains carried passengers, but most carried freight, and a great deal of that freight was hazardous material. From 1984 to 1987, Conrail consolidated jobs and reduced its workforce. It shortened tracks, closed control towers, and lessened the number of switches on the rails, forcing the dispatchers and Mr. Carlisle, their supervisor, to make more decisions as to which trains could move where.
+
+    
+Before the tower operators were eliminated by Conrail, they had served as “the eyes and ears” of the train dispatchers, since the dispatchers had no visual way to monitor the trains from the Control Center. (N.T. May 14, 1991 at 119). The tower operators were analogous to forward observers in the field artillery; they would see where a train was on the track and send that information back to the train dispatchers at the Control Center. Without the visual aid of the control towers, or any computerization that simulated train movements — such as lights moving on a remote control board — to locate and monitor the movement of the trains, the plaintiff and the other train dispatchers had to use third-hand information from SEPTA and Amtrak tower operators and data from a computer that gave only the last checkpoint the train had passed. In order to communicate this information among the train dispatchers, Mr. Carlisle, and others who worked in the Control Center, would shout it out to whoever needed it, amidst telephones ringing and radios transmitting and receiving. Mr. Carlisle, along with the other train dispatchers, had to hold all this information in his memory. (N.T. May 14, 1991 at 120-121, 125, 127). Conrail gave him virtually no mnemonic assistance.
+
+    
+In 1988, Mr. Carlisle’s already extensive job responsibilities shifted and increased. He was transferred to South Philadelphia operations in May of 1988, where he kept many of the train dispatching and supervisory responsibilities of his previous position. In addition, however, since Conrail had reduced the number of people working each shift from eleven to four, (N.T. May 14, 1991 at 100), Mr. Carlisle was given the responsibilities from what had previously been other jobs. He had to oversee several train yards in Philadelphia, enforce compliance with safety rules and perform the functions of a troubleshooter. As a troubleshooter, he had to go to the site of a train that was stopped for some reason, discover and remedy the problem — whether it be defective tracks, a bad switch, or vandalism — and perform various safety checks on the equipment, the trains, and the operating crews. (N.T. May 15, 1991 at 82). Mr. Carlisle testified that he had requested police protection many times, since the areas in which he had to check problems were often deserted train yards in dangerous areas, but that it was refused him. (N.T. May 15, 1991 at 83).
+
+    
+Beginning at the end of May, 1988, with the responsibilities of three jobs on his shoulders, Conrail required plaintiff to work fifteen-hour days, six to thirteen consecutive days at a time. For example, Mr. Carlisle went to work on August 7, 1988 at 6:00 p.m. He worked all through the night and then got off at 9:30 a.m., when he would go home, try to spend some time with his wife and children, maybe get some sleep, and then be back at work at 6:00 p.m. again. This he did for eight consecutive days. In one two-week period, he worked in excess of 225 hours. During his time at work, Mr. Carlisle could not take any breaks for lunch or rest, (N.T. May 15, 1991 at 73, 112-117, 122, May 14, 1991 at 97). Plaintiff also introduced evidence to 
+*528
+show that his supervisor verbally abused him at work and at home, calling in the middle of the night, and that during working hours, that supervisor had exhibited signs that he was drunk. (N.T. May 15, 1991 at 88-89, 92). As a train dispatcher, Mr. Carlisle was under pressure to achieve on-time performance for the trains, and he became more anxious when Conrail instructed him to ignore safety concerns, such as poor maintenance or malfunctioning equipment, which would have taken time to attend to. (N.T. May 15, 1991 at 30).
+
+    
+As his job responsibilities increased, his working conditions worsened, and his time on the job lengthened, the stress from work, plaintiff testified, was causing him mental and emotional pain that manifested itself physically. He felt severe fatigue and had headaches that would last all day. Because he had no appetite, he was losing weight — some 15-20 pounds, a significant amount for the not-so-hefty man the court observed at trial. He suffered from insomnia; during the few hours he did have off of work, he could not sleep. And one day, while driving to work, he blacked out at the wheel. His use of alcohol increased, as he tried to use it to get to sleep. When he did fall asleep, his wife would often find him sleepwalking, once with a lighted cigarette in his hand. (N.T. May 15, 1991 at 119-121, May 17, 1991 at 6, 9-10, 15). Plaintiff fell into a major depression, and with it came a decrease in his awareness of what was going on around him, at home and at work. He feared that he was going to cause some serious damage to himself, to other people, or to property. (N.T. May 15, 1991 at 135, 139).
+
+    
+In addition to plaintiffs testimony that his working conditions were harming his health, Mr. Carlisle’s treating psychiatrist and another psychiatrist, who provided expertise on the subject of stress, testified that he suffered from adjustment disorder that evolved into major depression, as well as from excessive use of alcohol — all, in reaction to anxiety and depression. In their opinion, his work caused his severe mental and physical health problems. (Videotape depositions of Dr. Lawrence Real and Dr. Paul Rosch). Even defendant’s expert psychiatrist somewhat agreed; he testified that plaintiff did suffer from adjustment disorder caused, at least in part, by his work. (N.T. of Dr. Kenneth Kool, May 20, 1991 at 52-53).
+
+    
+I find that there was sufficient evidence for the jury to conclude that Conrail, in requiring Mr. Carlisle to work under conditions that were stressful and harmful in the extreme, breached its duty to provide him with a safe workplace. This is not the situation the Third Circuit faced in 
+Holli-day, supra, 
+where the plaintiff suffered emotional harm from being put, for only a few days, in a position for which he felt unqualified. In the case at bar, Conrail exposed Mr. Carlisle to working conditions that were dangerous to his health for a protracted time. Cases have found that the FELA provides for recovery when an employer’s negligence injures an employee through the employee’s protracted exposure to harmful situations in the workplace, such as toxic industrial chemicals or harassment by other employees. 
+See e.g. Smolsky v. Consolidated Rail Corp., supra, 
+780 F.Supp. at 291
+ (recovery under the FELA for sexual and non-sexual harassment); 
+Urie v. Thompson, supra 
+337 U.S. at 180-182
+, 
+69 S.Ct. at 1029-1031
+ (recovery under the FELA for exposure to asbestos); 
+Taylor v. Burlington Northern R. Co., supra, 
+787 F.2d 1309
+ (9th Cir.1986) (recovery under the FELA for harassment and physical threats); 
+Teague v. National Railroad Passenger Corp., 
+708 F.Supp. 1344
+ (D.Mass.1989) (embarrassment and humiliation at work recognized as negligent infliction claim under the FELA).
+
+    
+This court sees no real distinction between a negligent infliction of emotional distress claim based on harassment at the workplace, and a work-related stress claim such as Mr. Carlisle’s. Harassment and job stress are similar; both may result in emotional injuries to employees, and both are often within the control of the employer. In my view, plaintiff’s evidence that Conrail’s breach of its duty caused his emotional injuries, if believed by the jury, was sufficient to support a verdict in his favor.
+
+    
+
+      
+*529
+In turning to the perplexing problem of foreseeability, a factor that concerned the courts in 
+Outten 
+and 
+Kraus, 
+Mr. Carlisle presented evidence that tended to show that Conrail could have foreseen that Mr. Carlisle’s working conditions were dangerous to his health, and that the stress of his job would and did cause his emotional injuries, with physical manifestations. Mr. Carlisle testified that he complained to his supervisors about the stress of his long hours and overwhelming job responsibility. (N.T. May 15, 1991 at 133). Plaintiff also introduced into evidence the depositions of six other Conrail train dispatchers who had all worked previously in plaintiffs same office. In the depositions, these witnesses testified that they had each suffered various medical illness ranging from heart attacks to nervous breakdowns, after being exposed to virtually the same working conditions as Mr. Carlisle. Mr. Carlisle, and the train dispatchers, in their depositions, testified that they told Conrail that unsafe working conditions and stress on the job had caused each of their illnesses. (N.T. May 15, 1991 at 12-23). This testimony was not admitted to prove that working conditions at Conrail caused the medical problems, 
+see infra, 
+but was admitted to prove notice to Conrail that the working conditions had become pervasively dangerous, or at least notice that the train dispatchers themselves believed that working conditions had caused their ailments.
+
+    
+Going to the issue of foreseeability, plaintiff read into evidence portions of two government reports, one made in 1974 and the other in 1987, on the medical and safety consequences associated with the stress of train dispatching, and plaintiff testified about the 1987 report. The 1974 report, a study of the job of train dispatcher, was not directed at any particular railroad, but it did find that the stress of their job caused negative medical consequences on the individual train dispatchers. Specific sources of stress noted in the report were the dependence on memory, inadequate staffing, the conflict between management’s need for production and safety for the worker and the public, and the pressure for perfect performance, since a mistake could result in substantial injury. (N.T. May 17, 1991 at 61-65).
+
+    
+The report in 1987 was a Federal Railway Administration (“FRA”) safety assessment of Conrail and its Philadelphia Office, where Mr. Carlisle worked. In particular, the report found that the dispatching workload was “excessive to the point that there was an appearance of having made decisions which were not well thought out.” (N.T. May 17, 1991 at 67). The report noted its concerns that dispatchers are required to perform several other functions that are unrelated to the safe movement of trains and are forced to work in a necessarily disruptive environment, again, with phones ringing, radios blaring, and dispatchers shouting, necessary because there is no communications system between dispatching desks. The report found insufficient staff to provide relief for vacations, personal emergencies, or sickness, and it found that inefficient staffing decisions have forced dispatchers to work on rest days, and to forgo the familiarization trips required before a dispatcher is assigned to a particular track. (N.T. May 17, 1991 at 66-70). As to the conflict between production and safety, the report noted that “Too many middle and upper middle managers value quote ‘production’ end of quote over ‘safety,’ and fail to translate the organizational safety commitment into effective safety programs.” (N.T. May 17, 1991 at 69).
+
+    
+Despite explicit recommendations to update the equipment used in the dispatcher’s job, to reduce the workload per dispatcher, and to assure the availability of adequate dispatching personnel, (N.T. May 17, 1991 at 68), Mr. Carlisle testified that to his knowledge, he saw no change in these areas after the report came out; at least nothing was done in the Philadelphia office to alleviate or reduce the stressfulness of the train dispatcher’s job. (N.T. May 15, 1991 at 34). From the evidence presented by the plaintiff, the jury could have concluded that the 1974 report put Conrail on notice of the stressfulness of the train dispatcher’s job, and of the medical problems caused by that stress. The 1987 report put 
+*530
+Conrail specifically on notice that particular problems existed in the dispatcher’s working conditions, creating a hazardous situation for the people who worked there. In addition, after Conrail received complaints by at least six other train dispatchers that the same conditions outlined in the 1987 report had caused their emotional and medical illnesses, the jury could have concluded that it was foreseeable to Conrail that working Mr. Carlisle for up to thirteen consecutive days, fifteen hours per day, under those stress-filled working conditions, would result in injury to Mr. Carlisle.
+
+    
+Plaintiff’s evidence that Conrail negligently breached its duty to provide a safe workplace was legally sufficient to go to the jury. He presented evidence that tended to show that Conrail created hazardous working conditions, knew of their potentially harmful effects on plaintiff, and did nothing to alleviate them. Mr. Carlisle presented evidence that it was those stressful working conditions that caused his injury. Since the jury could reasonably have reached its verdict on the facts and the law, I shall deny defendant’s motion for judgment notwithstanding the verdict.
+
+    
+II. 
+Motion for a New Trial
+
+    
+
+    
+Since granting the motion for a new trial acts to overturn a jury verdict, the court will not set aside the jury’s verdict unless “manifest injustice will result if the verdict is allowed to stand.” 
+Emigh v. Consolidated Rail Corp., 
+710 F.Supp. 608
+, 609 (W.D.Pa.1989). A new trial should be granted only if there has been a miscarriage of justice. 
+Montgomery Ward & Co. v. Duncan, 
+311 U.S. 243
+, 
+61 S.Ct. 189
+, 
+85 L.Ed. 147
+ (1940). The authority to grant a new trial is reserved almost entirely to the discretion of the trial judge. 
+E.J. Stewart, Inc. v. Aitken Products, Inc., 
+607 F.Supp. 883
+, 893 (E.D.Pa.), 
+aff'd, 
+779 F.2d 42
+ (3d Cir.1985). Defendant Conrail moves for a New Trial under Fed.R.Civ.P. 59 for several reasons. I will address each one in turn.
+
+    
+a. Defendant’s claim that the verdict is contrary to law and contrary to the evidence
+
+    
+For the reasons set forth in my discussion on defendant’s Motion for Judgment Notwithstanding the Verdict, finding plaintiff’s evidence legally sufficient to support a verdict in his favor, I conclude that the verdict is not contrary to law. Since defendant does not discuss any specific evidence that would show that the jury verdict in favor of plaintiff is against the weight of the evidence, I will not grant the motion on that ground either.
+
+    
+b. Defendant’s claim that the court erred in admitting the depositions and testimony of other train dispatchers
+
+    
+Defendant claims it was error for the court to admit the depositions of, and testimony concerning, six train dispatchers who had all worked previously in plaintiff’s same office. These witnesses testified that they each suffered various medical illness ranging from heart attacks to nervous breakdowns, after being exposed to the same working conditions as Mr. Carlisle. Their testimony, along with Mr. Carlisle’s, was that they told Conrail that they had suffered these medical ailments because of the unsafe working conditions and stress on the job. Defendant claims this testimony was irrelevant and highly prejudicial.
+
+    
+On the contrary, I find that the testimony was relevant to Carlisle’s notice of the probable dangerous effects that the train dispatcher’s working conditions had on the person employed to do the job.
+6
+ It tended to prove that at least Conrail knew that its train dispatchers linked working conditions with their medical problems. (N.T. May 15, 1991 at 10-12). The possibility that the evidence of other heart attacks, for exam-
+*531
+pie, might have suggested a causal link between employment as a Conrail train dispatcher, and Mr. Carlisle’s injuries, was substantially lessened by a limiting instruction given by the court. (N.T. May 15, 1991 at 13-14). I instructed the jury:
+
+    
+This evidence is not being admitted for proof of the matter asserted in the statement. That is to say, this evidence is not being admitted to prove that Joe Blow had a heart attack which he claims occurred on the job at Conrail....
+
+    
+It is being admitted for the very limited purpose of that so-called information having been transmitted to the powers that be at Conrail to put them on notice, as we say, to give them some inkling there might be some problem with the conditions on the premises.
+
+    
+It is for that limited purpose of notice of whatever this so-called information — we know not whether it is true at this juncture — that that information was given to Conrail, to be a red flag to them that there might be some problem.
+
+    
+That evidence may be inadmissible on one theory does not preclude its admission entirely, should there be some other sound evidentiary theory of admission. Then, the inquiry turns rather to one of balancing. Any prejudice that Conrail claims to have suffered was outweighed by the probative value of the evidence on the issue of notice and foreseeability.
+7
+
+      
+See 
+Fed.R.Evid. 401 and 403.
+
+    
+Defendant further contends that it should have been allowed to show that the claims of four of these six testifying train dispatchers had been dismissed on summary judgment in another court proceeding. I disagree. While it is true that another court dismissed them, 
+see Kraus v. Consolidated Rail Corp., supra, 
+723 F.Supp. 1073
+ (E.D.Pa.1989), evidence as to an injury is no less persuasive because a court has held that no cause of action exists to recover for that injury. The evidence was being offered solely to show that one District Judge had not found that a cause of action existed in those other cases. Their judicial disposition elsewhere was probative of nothing relevant to the fact-finder, but could have been highly prejudicial. I find now, as I did then, that under Fed.R.Evid. 403, this evidence would have unnecessarily confused the jury by, in essence, relitigating the other lawsuits, delving into “all the subtle distinguishing factual features and legal nuances between those and the case at bar,” without offering anything substantial in probative value. (N.T. May 16, 1991 at 52-56). It would have been no more appropriate than for a court, in a products liability case, for example, after evidence of injuries and accidents had come forth — to prove notice to the manufacturer, to have permitted the manufacturer to bring in court records, or other evidence, showing that many of those accidents, upon coming to court, resulted in defense summary judgment victories and jury verdicts. The situation epitomizes the worthy purpose of Rule 403.
+
+    
+c. Defendant’s claim that the court erred in admitting the 1974 and 1987 FRA Reports
+
+    
+Plaintiff introduced into evidence two studies of the Federal Railway Administration (“FRA”), one done in 1974, the other in 1987. As mentioned, these government documents, going to the issue of notice, were relevant. As for the hearsay aspect, they were admissible under Fed. R.Evid. 803(8)(C), creating a hearsay exception for the admissibility of “factual findings resulting from an investigation made pursuant to authority granted by law.” The Supreme Court, in 
+Beech Aircraft Corp. v. Rainey, 
+488 U.S. 153
+, 
+109 S.Ct. 439
+, 
+102 L.Ed.2d 445
+ (1988), applied that subsection, holding that a government study’s conclusions and opinions, as well as its factual observations could be admitted into evidence; the document there at issue 
+*532
+was a Navy investigative report, which included an opinion on the most probable cause of a Navy airplane crash.
+
+    
+Defendant argues that since the 1974 study was so remote in time, it was irrelevant to Mr. Carlisle’s 1988 working conditions. Defendant points out that Conrail was not even in existence then, much less a subject of the study, and plaintiff did not come to work for Conrail until 1976. I find Conrail’s arguments unpersuasive. Again, the report was only admitted to prove notice. It is indeed true that Conrail did not exist in 1974, the Penn Central bankruptcy not yet then having been fully resolved. But the same tracks existed. The same trains, the same observation towers, the same roadbeds, the same railroad routes existed. The industry was well established. The problems in the industry did not magically appear or vanish or metamorphose with the creation of Conrail. To a certain extent, a railroad is a railroad is a railroad — a beautiful means of transportation, but not without thorns.
+
+    
+If a government study is done in 1974 which concludes that use of a certain product may be dangerous, and a company is formed in 1976, requiring its employees to use that potentially dangerous product, that company cannot ignore the already existing literature in the field, with impunity. The 1974 study is certainly relevant to any action against the company for use of a dangerous product.
+
+    
+As to the 1987 study of actual Conrail Operations in Philadelphia, defendant claims that the study was inadmissible under 
+45 U.S.C. § 41
+, which prohibits the introduction into evidence of any portion of an accident report in civil lawsuits for damages. In particular, 
+45 U.S.C. § 41
+ provides that “[n]either the report required by section 38 of this title nor any report of the investigation. provided for in section 40 of this title nor any part thereof shall be admitted as evidence or used for any purpose in any suit or action for damages growing out of any matter mentioned in said report or investigation.” Defendant argues that the FRA’s statement in the report, that one of the reasons why it was conducting the safety review was a series of accidents that occurred on the railroad, brings the 1987 safety study under the prohibition of 
+45 U.S.C. § 41
+. I find now, as I did at trial (N.T. May 16, 1991 at 46), that this generic study of safety concerns and accidents on the railroad was not the kind of report intended to be excluded from evidence under § 41. Section 41 precludes only the reports under Sections 38 and 40
+8
+ from coming into evidence, these FRA reports not being under either section, the statute does not prohibit their admission. This safety report is distinguishable from an accident reconstruction report, where the government agency makes findings and conclusions about the causes or circumstances of one particular accident. The cases cited by defendant in its papers, 
+Protectus Alpha Navigation v. North Pacific Grain Growers, Inc., 
+767 F.2d 1379
+, 1385 (9th Cir.1985); 
+Minichello v. U.S. Industries, Inc., 
+756 F.2d 26
+ (6th Cir.1985); 
+Trochia v. Burlington Northern, Inc., 
+174 Mont. 83
+, 
+568 P.2d 558
+, 
+cert. denied, 
+434 U.S. 1035
+, 
+98 S.Ct. 770
+, 
+54 L.Ed.2d 783
+ (1977), are not to the contrary, since they all involve the exclusion from evidence of government reports on one accident.
+
+    
+Finally, Defendant claims that plaintiffs reading of portions of the reports into evi
+*533
+dence left the jury with a misleading impression of the complete report and prejudiced the defendant. Defendant did not object at trial on these grounds, and therefore, its objection is not preserved. In any event, defendant was not prevented from reading into evidence any other portion of the reports that was relevant to the issue at hand; defendant simply chose not to.
+
+    
+d. Jury Instructions
+
+    
+Defendant claims that the court erred in not giving its jury instructions numbered 6, 7, 8, 9, 11, 16, and 17. The court did not give those jury instructions because they did not accurately characterize the law and were not supported by the evidence in the case. These instructions all dealt with defendant’s contention that the law prohibits a cause of action under FELA for emotional injury caused by working conditions that were hazardous to plaintiffs health,
+9
+ a subject discussed at probably too-great length, above. I did charge the jury quite fully in the language of 
+Holliday, supra. 
+For example:
+
+    
+In order for Mr. Carlisle to maintain a claim for negligent infliction of emotional distress under the FELA, he must prove more than that he was placed for a few days in a position in some ways similar to his prior work assignment, but for which he was unqualified, and as a result, he suffered job-related stress and physical consequences attributable to his emotional state.
+
+    
+Although an employee may feel that he received inadequate support help, was not permitted to take vacation days and worked in an understaffed office, and the employee claims to have suffered job-related stress injuries as a result of these employment conditions, such circumstances in and of themselves do not give rise to a claim under the FELA nor may Mr. Carlisle recover just because, in and of itself, he feared for the safety of others.
+
+    
+If the heart of Mr. Carlisle’s claim is that he did not like his new job of Train Master solely because it required him to work long hours and nights, then he has failed to state a claim under the FELA. While employees, in all walks of life, are placed in difficult, tense job situations, sometimes for extended periods, those placement decisions may be ordinary management decisions, and not of such a character that an employee’s emotional reaction and related physical consequences to the placement, constitute an injury compensable under the FELA. The burden is on Mr. Carlisle to prove by a preponderance of the evidence that the emotional and psychological damages of which he complains, do exist and that they are a result of the negligence of Conrail. (N.T. May 20, 1991 at 156-157).
+
+    
+I find no errors in the other jury instructions given that would constitute a miscarriage of justice; all other aspects of the jury charge were in accordance with the law and the evidence in the case.
+
+    
+e. Statements of Plaintiff’s Counsel
+
+    
+Defendant claims that plaintiff’s counsel made two remarks that were so prejudicial that they constituted manifest injustice, mandating a new trial. One was during cross-examination of Mr. William Love, a Train Master who worked at times in 1988, in the South Philadelphia Yard with Mr. Carlisle. Plaintiff’s counsel asked, “Mr. Love, did you understand that when you had your heart attack, based on the role that your physicians indicated that your job may have played, that you may have had a cause of action against Conrail?” (N.T. May 20, 1991 at 20-21). The court then asked the witness whether he knew what a “cause of action” was, and he said he did not. The court then stated: “I remind the jury that just because a lawyer says somebody may have a cause of action does not necessarily mean that that is so. I guess lawyers think everybody has a cause of action against everybody. That’s why court’s are busy.” (N.T. May 20, 1991 at 21). With this interjected caveat and quick pooh-poohing of counsel’s improper ploy, with an intentional bit of mocking levity, 
+*534
+the court cured whatever slight prejudice might have come from plaintiffs counsel’s question. The jury was also instructed, twice — once in the opening charge, once in the closing — that the questions of counsel are not evidence; that is only to be found in the answers.
+
+    
+Lastly, defendant contends that when plaintiffs counsel allegedly broke the “Golden Rule” in summation, and that his misconduct so prejudiced the defendant as to call for a new trial. The use of the “Golden Rule” argument — that is, asking the jury to put themselves in the defendant's shoes — has been held by courts to be improper because it “encourages the jury to depart from neutrality and to decide the case on the basis of personal interest and bias rather than on the evidence.” 
+Spray-Rite Service Corp. v. Monsanto Co., 
+684 F.2d 1226
+, 1246 (7th Cir.1982), 
+aff'd on other grounds, 
+465 U.S. 752
+, 
+104 S.Ct. 1464
+, 
+79 L.Ed.2d 775
+ (1984).
+
+    
+In 
+Edwards v. City of Philadelphia, 
+860 F.2d 568
+ (3d Cir.1988), the Third Circuit held, however, that the use of the “Golden Rule” argument is rendered harmless either by an immediate curative instruction or by a clear and complete jury instruction on the elements of the claim asserted and on the allocation of the burdens of proof. 
+Id. 
+at 574
+.
+
+    
+In the case at bar, plaintiffs counsel asked the jury, “If you were a defendant in which one of your employees was being accused of being a drunk and abusive, would you produce that employee?” (N.T. May 20, 1991 at 115). After objection and a sidebar conference with counsel, I immediately gave a curative instruction to the jury charging them that the “comment of counsel as to something to the effect that if you were the defendant in this case or whatever, you should disregard that entirely.” (N.T. May 20, 1991 at 116). As to the second prong of 
+Edwards, 
+a clear and complete charge on the elements of plaintiffs claim and the burdens of proof was given in the jury instructions at the end of the trial, as well.
+
+    
+Having found no errors at trial that constitute such manifest injustice that a new trial is required, defendant’s motion for a new trial will be denied.
+
+    
+
+      
+1
+
+      
+. At the time this motion was filed under Rule 50, that rule was titled "Judgment Notwithstanding the Verdict.” Effective on December 1, 1991, the Rule was changed to "Judgment as a Matter of Law in Actions Tried by a Jury.”
+
+    
+
+    
+
+      
+2
+
+      
+. This refers to the “bystander cases” under FELA which have no bearing on this case. 
+See e.g. Gaston v. Flowers Transportation, 
+866 F.2d 816
+ (5th Cir.1989) (denied recovery for emotional injury to plaintiff as a result of seeing his half-brother crushed to death between two ships). In 
+Plaisance v. Texaco, Inc., 
+937 F.2d 1004
+ (5th Cir.1991), 
+reh'g granted en banc, 
+954 F.2d 266
+ (5th Cir.1992), however, the Fifth Circuit reviewed 
+Gaston 
+and limited its impact, calling it "myopic prognostication.” 
+Id.
+ 
+at 1011 n. 8.
+
+    
+
+    
+
+      
+3
+
+      
+. This standard, used in claims for intentional infliction of emotional distress, is inapposite here where the plaintiff has made clear on several occasions that he is not pursuing such a claim.
+
+    
+
+    
+
+      
+4
+
+      
+. The FELA, in pertinent part, provides: "Every common carrier by railroad while engaging in commerce between any of the several States ... shall be liable in damages to any person suffering injury while he is employed by such carrier in such commerce ... for such injury or death resulting in whole or in part from the negligence of any of the officers, agents, or employees of such carrier....” 
+45 U.S.C. § 51
+.
+
+    
+
+    
+
+      
+5
+
+      
+. In this context, the reasonable railway employee, to which the courts must attribute "the appropriate daring and strength and quality of character,” traits that generally belong to those who choose the railroad as a career. 
+Plaisance, 
+supra,
+ 
+937 F.2d at 1011
+.
+
+    
+
+    
+
+      
+6
+
+      
+
+        
+. 
+The case at bar is unlike the situation in 
+Ama-tucci v. Delaware & Hudson Ry., 
+745 F.2d 180
+ (2d Cir.1984), cited by the defendant, where the trial judge elicited testimony on other engineers who had suffered heart attacks. There, the reversal seems to have turned on the fact that it was the judge, not counsel, who, over repeated objections and exceptions, persisted in asking a long series of questions, so that "the jury accordingly may have attached more weight to it.” 
+Id. 
+at 184
+.
+
+    
+
+    
+
+      
+7
+
+      
+. Although not the explicitly the basis for my decision, the depositions of the train dispatchers and the 1974 and 1987 government reports, discussed 
+infra 
+could have been admitted under Fed.R.Evid. 702 as documents relied upon by plaintiff’s expert, Dr. Rosch, in the formation of his opinion. Dr. Rosch testified that he did rely on these documents in order to reach his expert opinion.
+
+    
+
+    
+
+      
+8
+
+      
+. Section 38 provides that it is the duty of every common carrier to make to the Secretary of Transportation, a monthly report, under oath, “of all collisions, derailments, or other accidents resulting in death or injury to any person or damage to equipment or roadbed, arising from the operation of such railroad, which report shall state the nature and causes thereof and the circumstances connected therewith ...” 
+45 U.S.C. § 38
+.
+
+      
+Section 40 provides that the "Secretary of Transportation shall have authority to investigate all collisions, derailments, or other accidents resulting in serious injury to person or to the property of a railroad occurring on the line of any common carrier ... The Secretary, shall have authority to investigate such collisions, derailments, or other accidents aforesaid, and all the attending facts, conditions, and circumstances ... and shall, when he deems it in the public interest, make reports of such investigations, stating the cause of accident, together with such recommendations as he deems proper. Such reports shall be made public in such manner as the Secretary deems proper.” 
+45 U.S.C. § 40
+.
+
+    
+
+    
+
+      
+9
+
+      
+. One exception is defendant’s jury instruction no. 9 which charged on the issue of intentional infliction of emotional distress, a claim never plead or pursued by plaintiff.
+
+    
+
+  
+

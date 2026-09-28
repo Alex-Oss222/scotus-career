@@ -1,0 +1,17 @@
+{
+  "reason": "The unmodified repository matcher does not equate typographic and straight apostrophes or slash and conjunction in consolidated captions. These explicit, date-and-docket-verified aliases complete only the two corresponding status cells. Inventory and Record captions remain unchanged.",
+  "aliases": [
+    {
+      "inventory_caption": "Madsen v. Women’s Health Center, Inc.",
+      "docket_verified": "93-880",
+      "record": "terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md",
+      "record_sha256": "ac178761f9b7c9d61cc85b93081acb8c486cbd57ec11f43d6574983050e38175"
+    },
+    {
+      "inventory_caption": "Tuilaepa v. California / Proctor v. California",
+      "docket_verified": "93-5131",
+      "record": "terms/OT1993/records/Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md",
+      "record_sha256": "2b0292f1fc9aa7d8e1d1cca73a667cd7725305168c546283fa47e572d745b9dd"
+    }
+  ]
+}

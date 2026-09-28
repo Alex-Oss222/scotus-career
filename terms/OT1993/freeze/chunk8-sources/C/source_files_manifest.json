@@ -1,0 +1,202 @@
+[
+  {
+    "file": "boyde.pdf",
+    "bytes": 1118845,
+    "sha256": "c2766921db7273984c4736e850577c4450852d7cdfd1c0e5e7ae7af287e064fd"
+  },
+  {
+    "file": "boyde.txt",
+    "bytes": 86446,
+    "sha256": "6cfbf6ed9f7e5b2a471beb86c358c1cac3f5d7d19e93f57f285af2f0698d7d94"
+  },
+  {
+    "file": "chisom.pdf",
+    "bytes": 1180726,
+    "sha256": "a73b80a43117fe48f004ffef65336a247c4e8eed703731620cebf9818076ab08"
+  },
+  {
+    "file": "chisom.txt",
+    "bytes": 88865,
+    "sha256": "c2684ff9adb9e8c065eab9e0a79ad8782581a4268037d203fc944379ad88a6f2"
+  },
+  {
+    "file": "degrandy_lower.html",
+    "bytes": 201173,
+    "sha256": "9cccbf35204fde3c0d38d010b0e5cb78d655f95a9e65b02bac71ab574e28a4e5"
+  },
+  {
+    "file": "degrandy_lower.txt",
+    "bytes": 138033,
+    "sha256": "c7d75da6778a7f47a9429ac497f6cc4e433a569c5601fec44c50c99de14154f0"
+  },
+  {
+    "file": "degrandy_official.pdf",
+    "bytes": 1156001,
+    "sha256": "7491bfd939c95360958ce6a3a10d397549e2673112ccd288eb1e230d4f20f76a"
+  },
+  {
+    "file": "degrandy_official.txt",
+    "bytes": 81194,
+    "sha256": "090745b76de2f9c71f2b6d90c03a46a15e81aa32ea190f92c22ae69ecad36ce1"
+  },
+  {
+    "file": "gingles.pdf",
+    "bytes": 2314117,
+    "sha256": "42f088ab21c8df5694475d658dce023031f3f7fe274c3f197ab1da2b432c1d02"
+  },
+  {
+    "file": "gingles.txt",
+    "bytes": 178775,
+    "sha256": "0a604dd1e6845b39113324061d15eb07409a4d60ea366a801d458d99a2b68912"
+  },
+  {
+    "file": "holder_amicus10.txt",
+    "bytes": 52447,
+    "sha256": "b907efaa14d536a42f84feeda547d37271d03b456592655057c2f79eec1d0b2c"
+  },
+  {
+    "file": "holder_amicus9.txt",
+    "bytes": 46930,
+    "sha256": "196873c34898e163cb0cc3931ae46a4215673e938925447e0b31e775a9a93a82"
+  },
+  {
+    "file": "holder_district.html",
+    "bytes": 146454,
+    "sha256": "0215a416826a098e4939c9df35f25af273e10bef700cf6d9624b7c179cff6cbf"
+  },
+  {
+    "file": "holder_district.txt",
+    "bytes": 90148,
+    "sha256": "8bd293b5044b9a2dba2d4aa0f64ec937388ba4ea572f9bc3353fc8e0cca5d919"
+  },
+  {
+    "file": "holder_lower.html",
+    "bytes": 71351,
+    "sha256": "72a25a2b7fb7331108728eaea3529a90421f9a21b9a03f318a4ad2c336f6598d"
+  },
+  {
+    "file": "holder_lower.txt",
+    "bytes": 42061,
+    "sha256": "87e5d73626c6e26ddc0ac8b6c114417281b86236a3f728bd96c1c499926f7d49"
+  },
+  {
+    "file": "holder_official.pdf",
+    "bytes": 3074570,
+    "sha256": "ea3fc7e9fdf86816540c648efe421a29c756ae4ce03ef486e1f7a48724d09504"
+  },
+  {
+    "file": "holder_official.txt",
+    "bytes": 217423,
+    "sha256": "e0332a63839f75f48aed0b9c2588a708da8aff37ab01ad34b7c91f915fb4b41e"
+  },
+  {
+    "file": "holder_us_amicus.pdf",
+    "bytes": 4463209,
+    "sha256": "8322af5ce67e6440e28c27c72e5fa1a677aed0a7b4e217a5bccd0cbcb6f2e855"
+  },
+  {
+    "file": "holder_us_amicus_pdf.txt",
+    "bytes": 59564,
+    "sha256": "fbacbd15cab2d849e01c727c6ae8314871bc0200d9415767250319e22974b7ab"
+  },
+  {
+    "file": "houston_lawyers.pdf",
+    "bytes": 300474,
+    "sha256": "8c95d21ca6697cdbb46adf1a068a5129b88326f78e7e411c82a81d0645912769"
+  },
+  {
+    "file": "houston_lawyers.txt",
+    "bytes": 22540,
+    "sha256": "024fa96e8054aa09e70ce9b17d3782133bb3ea705cc6950d2c1b828574828527"
+  },
+  {
+    "file": "ia_search.json",
+    "bytes": 82080,
+    "sha256": "5ce7bfc70d5a9db39348a6a96eeaaafbf625fabbb9516ed02fecf82d15d06e4d"
+  },
+  {
+    "file": "lowenfield.pdf",
+    "bytes": 842503,
+    "sha256": "e8f160d77cb72ab710fb53a53eb76d8109fc8a3b4c6cbf2cffe22912d1b744cf"
+  },
+  {
+    "file": "lowenfield.txt",
+    "bytes": 65662,
+    "sha256": "83550e4cac9bf6b79abd8f7be515087e8ceb4b46d41d0f23f7c5bd85964725f0"
+  },
+  {
+    "file": "micro_IA40385013_0278_metadata.json",
+    "bytes": 83731,
+    "sha256": "65736797dbb6b539c803d385cc224554df7c6151d19db47b143f57fe99ee84d4"
+  },
+  {
+    "file": "micro_IA40385013_0353_metadata.json",
+    "bytes": 180086,
+    "sha256": "1ec611c8a913dad84fb2473a0d22d521e7d9c7321fb0c1d918c83c0c51fb93a1"
+  },
+  {
+    "file": "micro_IA40385013_0519_metadata.json",
+    "bytes": 99450,
+    "sha256": "7414f657d218b04373ccab9a35fae4d887ec3ca500ffc6ab8ce9fb7e1799761f"
+  },
+  {
+    "file": "micro_IA40385013_0520_metadata.json",
+    "bytes": 77559,
+    "sha256": "694517b37ae9a270ed892c5fb437812f4cd4534adb41c5300496f46f157baba9"
+  },
+  {
+    "file": "proctor_lower.html",
+    "bytes": 259355,
+    "sha256": "8fd9bbf41e409321271377f3f5d68c774b283db0ff4b84f3e8d0a71e67552bb7"
+  },
+  {
+    "file": "proctor_lower.txt",
+    "bytes": 156087,
+    "sha256": "1afb21481158df80e8c1847cb735869d43ed137e09c265ff449f426824749017"
+  },
+  {
+    "file": "retrieval.json",
+    "bytes": 2607,
+    "sha256": "6e3beb84b93a351e1ad9efbf48d6683a9eefffc3f63cee9cee7225bf146429ef"
+  },
+  {
+    "file": "tuilaepa_lower.html",
+    "bytes": 101284,
+    "sha256": "2abbe3dbe4a170d2486691c81c6299cedf95f5c28d3d6e2874be4ac39db14628"
+  },
+  {
+    "file": "tuilaepa_lower.txt",
+    "bytes": 62120,
+    "sha256": "2f84995c8630dab291bcf63a94976233d70892e7d2d373b37f1931ba23ebb46a"
+  },
+  {
+    "file": "tuilaepa_official.pdf",
+    "bytes": 960234,
+    "sha256": "7b65959937764557ec39f7d85d5010d1006ab275e9e803ad3795443201ca1c79"
+  },
+  {
+    "file": "tuilaepa_official.txt",
+    "bytes": 67256,
+    "sha256": "8c7123847d846c8bedad74d91729c5a486a489342f7147b278fe2844d72b6506"
+  },
+  {
+    "file": "vra_1994.pdf",
+    "bytes": 218932,
+    "sha256": "ee7f281368106b392e93dcf726df94c9f1403094218f17d948c7a34f9c7b2353"
+  },
+  {
+    "file": "vra_1994.txt",
+    "bytes": 18058,
+    "sha256": "dd4ef180f02ea3db437c083b75db4b26ee63a6fc85d495c3fcc585cd3feeb0a8"
+  },
+  {
+    "file": "walton.pdf",
+    "bytes": 2446258,
+    "sha256": "73465997c2f69b4115a7f77824f9c1e97b441a7caccbd55b65bea96df074b778"
+  },
+  {
+    "file": "walton.txt",
+    "bytes": 185133,
+    "sha256": "5019c0d19a5867ef4939eb30b754ba28c3bd729573bff0730287ab5adf8fb7c7"
+  }
+]

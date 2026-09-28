@@ -1,0 +1,424 @@
+
+  
+
+    
+UNITED STATES of America, Plaintiff-Appellee, v. Terry Lee SHANNON, Defendants-Appellant.
+
+    
+No. 92-7294.
+
+    
+United States Court of Appeals, Fifth Circuit.
+
+    
+Jan. 12, 1993.
+
+    
+
+      
+*760
+Thomas R. Trout, New Albany, MS, for defendant-appellant.
+
+    
+Calvin D. Buchanan, Asst. U.S. Atty. and Robert Q. Whitwell, U.S. Atty., Oxford, MS, for plaintiff-appellee.
+
+    
+Before WILLIAMS, HIGGINBOTHAM and BARKSDALE, Circuit Judges.
+
+  
+
+  
+
+    
+JERRE S. WILLIAMS, Circuit Judge:
+
+    
+Terry Lee Shannon appeals his conviction for firearm possession. Shannon pleaded insanity at his trial, and the district court instructed the jury on the insanity defense. The court, however, refused to instruct the jury about the mandatory commitment procedures that accompany a jury verdict of “not guilty only by reason of insanity” (“NGI”). Shannon contends that the court’s refusal to reveal the required disposition of a defendant acquitted because of his insanity was error in light of the Insanity Defense Reform Act of 1984, 
+18 U.S.C. §§ 4241-4247
+ (“IDRA” or “Act”). We affirm the district court’s decision. We agree that district courts possess no discretion to offer such instructions.
+
+    
+I. FACTS AND PRIOR PROCEEDINGS
+
+    
+The principal facts are uncontroverted and largely stipulated. At about 4:00 a.m. on the morning of August 25, 1990, Sergeant Marvin Brown of the Tupelo Police Department was on roving patrol and stopped Shannon as he walked down a Tu-pelo street. The officer told Shannon that a detective wanted to speak with him and asked Shannon to accompany him back to the station. Shannon then told Sergeant Brown that he did not want to live anymore, whereupon he walked across the street, pulled a pistol from his coat or shirt, and shot himself in the chest. The wound was not fatal.
+
+    
+Shannon had acquired the gun the day before from his son, with whom Shannon had ridden to the Tupelo Airport where the son was catching a return flight to New York. When Shannon learned his son was planning to board the plane with the pistol, he retrieved it because he knew it was unlawful to go through airport security with a firearm. Shannon also knew as a prior convicted felon that he could not lawfully possess a firearm himself, and he later stated that he had planned to carry the gun to his mother’s house until he could deliver it to his parole officer.
+
+    
+In the early morning hours of August 25, Shannon had left his girlfriend’s house and began walking to his mother’s house, purportedly to leave the gun with her. Before he reached the house, he had been stopped and questioned by Sergeant Brown, and this led to Shannon shooting himself. He was indicted for possession of a firearm by a convicted felon in violation of 
+18 U.S.C. § 922
+(g)(1).
+
+    
+Before trial, the defense moved to have Shannon declared mentally incompetent to stand trial.
+1
+ The court scheduled a eompe-
+*761
+tency hearing, heard expert testimony regarding Shannon’s ability to participate in his trial, and concluded that he was able “to understand the nature and consequences of the proceedings against him and to assist properly in his defense.” The case proceeded to trial on the defense of insanity. Shannon concedes that the Government presented evidence at trial that, if believed by the jury, was sufficient to prove the essential elements of the crime charged. The jury’s role then became the consideration of Shannon’s insanity defense.
+
+    
+Shannon concedes he “unquestionably knew as an abstract proposition that it was unlawful for him to possess a firearm.” He urges, however, that the question remains whether he appreciated the wrongfulness of his acts under the circumstances prevailing at the time of the offense. Dr. Richard G. Ellis, a psychologist with the Bureau of Prisons, and Dr. Michael D. Roberts, a local clinical psychologist, testified at Shannon’s trial regarding his mental condition at that time. The precise nature of their diagnoses differed, but they both agreed that Shannon suffered from mental illness at the time of trial and possibly at the time of the shooting. Despite their acknowledgment of Shannon’s chronic mental problems, however, the experts agreed that Shannon’s mental illness was not so severe as to render him legally insane at the time of the offense and thus unable to appreciate the nature, quality, and wrongfulness of his actions.
+
+    
+The court properly instructed the jury on the insanity defense.
+2
+ It refused Shannon’s request to inform the jury that an NGI verdict would result in Shannon’s involuntary commitment in accordance with § 4243(e) of the IDRA.
+3
+ The jury rejected Shannon’s insanity defense and returned a guilty verdict. Because Shannon already had three previous convictions, the district court sentenced him to serve fifteen years without the possibility of probation or parole pursuant to 
+18 U.S.C. § 924
+(e)(1). Shannon’s appeal is timely.
+
+    
+II. DISCUSSION
+
+    
+This case presents a single issue: did the district court err in refusing to instruct the jury that Shannon would be committed until he was no longer dangerous if the jury found him “not guilty only by reason of insanity”? The issue arises because it is urged that the established law was changed by the IDRA of 1984.
+
+    
+A. 
+The Law Before the 1984 Act
+
+    
+
+    
+The well-established general principle is that a jury has no concern with the consequences of its verdict. As the Supreme Court stated succinctly in 
+Rogers v. United States, 
+“the jury [has] no sentencing function and should reach its verdict without regard to what sentence might be imposed.” 
+422 U.S. 35
+, 40, 
+95 S.Ct. 2091
+, 2095, 
+45 L.Ed.2d 1
+ (1975). This Circuit has long recognized that punishment and sentencing are matters entrusted exclusively to the trial judge. We have held specifical
+*762
+ly that juries should not ordinarily be informed about the consequences of an NGI verdict. 
+See United States v. McCracken, 
+488 F.2d 406
+, 423 (5th Cir.1974) (“Except where a special provision mandates a jury role in assessment or determination of penalty, the punishment provided by law for offenses charged is a matter exclusively for the court and should not be considered by the jury in arriving at a verdict as to guilt or innocence.”).
+
+    
+
+      
+McCracken, 
+a pre-IDRA case, posed an issue similar to the one we face today. We reversed the defendant’s murder conviction because the trial court instructed the jury that if it returned an NGI verdict, the defendant would be freed. The jury charge embodied a then-accurate statement of the law; no federal statutory scheme yet provided for the disposition of defendants acquitted due to insanity. We recognized, however, that the court’s instruction possibly served to coerce or induce a guilty verdict since jurors at that time were assumed to be fearful of those with mental illness and might convict insane defendants based upon a perceived need to protect society rather than face the risks resulting from their immediate release onto the streets. We lamented that the absence of federal commitment procedures led to heavy reliance upon state authorities to institute commitment proceedings against those acquitted by reason of insanity. We labelled such dependence one of the “the harsh effects of the federal statutory silence.”
+
+    
+In the 
+McCracken 
+opinion, we noted the District of Columbia Circuit’s decision in 
+Lyles v. United States, 
+254 F.2d 725
+, 728 (D.C.Cir.1957) (en banc), 
+cert. denied, 
+356 U.S. 961
+, 
+78 S.Ct. 997
+, 
+2 L.Ed.2d 1067
+ (1958). In 
+Lyles, 
+a divided court held that a jury should be informed that such an NGI verdict would result in defendant’s involuntary commitment. But a key feature distinguished 
+Lyles. 
+The case arose under the D.C.Code, which Congress had amended to provide for mandatory commitment of a defendant who asserted a successful insanity defense.
+4
+ Despite our apparent appreciation for such a statute, we noted that the absence of comparable federal legislation made the D.C. Circuit’s approach inapposite for other circuits. 
+McCracken, 
+488 F.2d at 422
+. We therefore concluded in 
+McCracken 
+that, absent an explicit statutory directive mandating an enhanced jury role, it was inappropriate for jurors to consider possible post-trial punishments. 
+Id. 
+at 423
+.
+
+    
+
+      
+McCracken 
+was a natural descendant of our earlier decision in 
+Pope v. United States, 
+298 F.2d 507
+ (5th Cir.1962), 
+cert. denied, 
+381 U.S. 941
+, 
+85 S.Ct. 1776
+, 
+14 L.Ed.2d 704
+ (1965). In 
+Pope, 
+we affirmed the trial court’s refusal to inform the jury about what would occur if they found Pope “not guilty only by reason of insanity.” There too, we expressly rejected the 
+Lyles 
+approach, holding that “[different rules and different statutes apply to the Courts of the District of Columbia.” 
+Id. 
+at 509. Emphasizing our long-standing focus on the unique duties of judges and juries, we said:
+
+    
+Unless otherwise provided by statute, it is the duty of the court to impose sentence, or make such other disposition of the case as required by law, after the facts have been decided by the jury. To inform the jury that the court may impose minimum or maximum sentence, will or will not grant probation, when a defendant will be eligible for a parole, 
+or other matters relating to disposition of the defendant, 
+tend to draw the attention of the jury away from their chief function, as sole judges of the facts, open the door to compromise verdicts and to confuse the issue or issues to be decided. In a case of this nature what they were to decide was whether the defendant was guilty or not.
+
+    
+
+      
+Id. 
+at 508 (emphasis added).
+
+    
+B. 
+The IDRA’s Impact
+
+    
+
+    
+Shannon argues strongly that the trial court’s ruling left the jury with no guid-
+*763
+anee as to the actual implications of its verdict. As a result, the confused jury fell captive to the misconception that only two real options existed — guilty (go to jail) or not guilty/NGI (go free). Because they feared that a dangerous, mentally-ill person would be released if they returned an NGI verdict, they were induced to reject his insanity defense, however meritorious it may have been.
+5
+ Appealing to the 
+McCracken 
+court’s concern that uninformed and frightened juries might convict while still questioning a defendant’s sanity, Shannon urges us to apply “common sense and justice”.
+6
+
+    
+
+    
+Shannon asserts that Congress’s passage of the IDRA constitutes a statutory change that mandates, or at least authorizes, the instruction he seeks. Because the justification for a different rule in different parts of the federal system has now been removed, Shannon argues, the practice announced in 
+Lyles 
+must now be applied nationwide. We must disagree that the IDRA alters the calculus. The statute enacted a comprehensive scheme for dealing with insanity in federal criminal cases. Yet it has no provision expanding the jury’s role. It leaves the jury solely with its customary determination of guilt or innocence.
+
+    
+For support, Shannon cites the Eighth Circuit’s opinion in 
+United States v. Neavill, 
+868 F.2d 1000
+ (8th Cir.), 
+vacated, reh’g en banc granted, 
+877 F.2d 1394
+ (8th Cir.), 
+appeal dismissed, 
+886 F.2d 220
+ (8th Cir.1989). In 
+Neavill, 
+the panel found that the IDRA permitted it to re-examine former precedent, in which the court had joined this Circuit and others in rejecting the 
+Lyles 
+rationale. In reaching its decision, the court relied heavily on a Senate Committee report that endorsed the D.C. Circuit’s rationale:
+
+    
+The [Senate] Committee endorses the procedure used in the District of Columbia whereby the jury, in a case in which the insanity defense has been raised, may be instructed on the effect of a verdict of not guilty by reason of insanity. If a defendant requests that the instruction not be given, it is within the discretion of the court whether to give it or not.
+
+    
+S.Rep. No. 98-225, 98th Cong., 1st Sess. 240, 
+reprinted in 
+1984 U.S.Code Cong. & Admin.News 3182, 3422 (footnotes omitted). 
+Neavill, 
+however, has no current precedential value. As the citation makes clear, it was vacated by operation of law when rehearing 
+en banc 
+was granted and then was dismissed at Neavill’s request prior to reconsideration by the full Circuit.
+
+    
+Shannon likewise emphasizes the Act’s legislative history and insists that it illustrates Congress’s intentions. We agree, however, with the Ninth Circuit’s refusal to disregard the statute’s clarity by embracing the committee report:
+
+    
+This statement does not have the force of law nor does it purport to interpret or explain ambiguous language in the statute regarding instructions. 
+See International Brotherhood of Electrical Workers Local Union No. 474 v. NLRB, 
+814 F.2d 697
+, 712 (D.C.Cir.1987) (“While a committee report may ordinarily be used to interpret unclear language contained in a statute, a committee report cannot serve as an 
+independent source having the force of law.... 
+[Cjourts have no 
+*764
+authority to 
+enforce 
+principles gleaned 
+solely 
+from legislative history that has no statutory reference point.” (emphasis in original) (citations omitted)).
+
+    
+
+      
+United States v. Frank, 
+956 F.2d 872
+, 881 (9th Cir.1991), 
+cert. denied, 
+— U.S. —, 
+113 S.Ct. 363
+, 
+121 L.Ed.2d 276
+ (1992).
+7
+
+    
+
+    
+In 
+McCracken, 
+488 F.2d at 423
+, we said that a specific statutory provision was required to justify an enhanced jury role. We do not have it here. The IDRA does not expressly provide that a jury be instructed regarding mandatory commitment procedures. In contrast, Congress explicitly dealt with what juries should be told by way of instruction when a psychiatric defense is raised. 
+18 U.S.C. § 4242
+(b) provides:
+
+    
+If the issue of insanity is raised ... 
+the jury shall be instructed to find, 
+or, in the event of a nonjury trial, the court shall find the defendant—
+
+    
+(1) guilty;
+
+    
+(2) not guilty; or
+
+    
+(3) not guilty only by reason of insanity-
+
+    
+(emphasis added)
+
+    
+It is noteworthy that Congress was explicit in directing what issues should be raised, yet said nothing about informing juries of the consequences of any of the three choices. Courts may not properly attempt to discern what Congress, while remaining quiet, assumed would happen. Absent an affirmative statutory requirement that juries be granted a sentencing role, we adhere to the established axiom that it is inappropriate for a jury to consider or be informed about the consequences of its verdict.
+
+    
+Finally, the other peripheral sources that Shannon cites for support are likewise devoid of statutory anchors and do not compel a different result. Specifically, Shannon notes that the ABA Standards address the issue and recommend that the proposed instruction be given. II ABA Standards for Criminal Justice No. 7-6.8 (2d ed. 1986). Moreover, he insists that the prevailing trend among the states favors requiring or authorizing the instruction. Thomas M. Fleming, Annotation, 
+Instructions in State Criminal Case in which Defendant Pleads Insanity as to Hospital Confinement in Event of Acquittal, 
+81 A.L.R. 4th 659
+, 667 (1990). These sources are no authority to abandon our long-standing precedents without congressional mandate. Our decision today is grounded upon the traditional roles of judges and juries and rooted in the Act’s plain language.
+
+    
+Three other circuits have examined the issue. None has taken the passage of the Act to mandate such an instruction. 
+Frank, 
+956 F.2d at 881
+; 
+United States v. Blume, 
+967 F.2d 45
+, 49 (2d Cir.1992); 
+United States v. Barnett, 
+968 F.2d 1189
+, 1192 (11th Cir.1992). Two of the Circuits 
+permit 
+judges to provide such information, one in narrow and possibly justifiable circumstances and the other more broadly.
+
+    
+In 
+Frank, 
+a divided panel of the Ninth Circuit affirmed the district court’s refusal to instruct the jury on the effect of an NGI verdict, holding that the IDRA fails to enlarge the jury’s role beyond the traditional guilt/innocence determination. But the Court qualified its holding, concluding that “prosecutorial misconduct” which suggests that those persons found innocent by reason of insanity are released into society properly may warrant a curative instruction to correct the error and abate jury anxiety or confusion. 
+956 F.2d at 881
+. In 
+Barnett, 
+the Eleventh Circuit followed the holdings of 
+Rogers 
+and McCracken: “Punishment, or the lack thereof, is a matter entrusted to the trial judge.” 
+968 F.2d at 1192
+. The opinion does not expressly discuss whether instructional discretion exists in certain cases, but seems to intimate that it does not. A recent panel of the Second Circuit was also divided on the issue. 
+Blume, 
+967 F.2d at 50
+. Judge Lumbard, writing for the Court, stated that the Senate Committee report’s language leaves the instructional decision to the district court’s discretion; Judge Newman, writing sepa
+*765
+rately, urges that the instruction should always be given unless the defendant requests its omission, but he adjusted his position to join Judge Lumbard and give the Court a majority position in favor of the discretionary approach. Judge Winter, also concurring separately in the result but disagreeing with the NGI analysis, seems to adopt a variety of the 
+Frank 
+rationale, urging that the instruction typically should not be given unless the jury has evinced a belief that those acquitted NGI usually go free.
+
+    
+We adhere to our established precedents since there is no statutory directive that opens up to juries a role in the assessment or determination of penalties. We properly are concerned about possible unfortunate consequences of any alteration of the traditional role of the jury. We are convinced that a carefully limited and precise statutory mandate must be required. There is none here.
+
+    
+III. CONCLUSION
+
+    
+We find the established law unchanged by the 1984 Insanity Defense Reform Act. The district court acted properly in refusing an instruction stating the consequences of finding the accused not guilty only by reason of insanity.
+
+    
+AFFIRMED.
+
+    
+
+      
+1
+
+      
+. 
+18 U.S.C. § 4241
+, Determination of mental competency to stand trial, establishes the procedure for evaluating whether a defendant is "suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and 
+*761
+consequences of the proceedings against him or to assist properly in his defense."
+
+    
+
+    
+
+      
+2
+
+      
+. The district court defined "insanity” as follows: "The defendant was insane as the law defines that term only if, as a result of a severe mental disease or defect, the defendant was unable to appreciate the nature and quality or the wrongfulness of his acts. Mental disease or defect does not otherwise constitute a defense." This definition comports with the statutory provisions of 
+18 U.S.C. § 17
+.
+
+    
+
+    
+
+      
+3
+
+      
+. Section 4243(e) ensures that a federal criminal defendant found not guilty by reason of insanity will not be released onto the streets. It provides that "the Attorney General shall hospitalize the person for treatment in a suitable facility” until a State assumes responsibility for the defendant’s care and treatment or until it can be certified that his release will not pose a substantial danger to others or to property.
+
+      
+Shannon’s counsel attempted to make this mandatory confinement known to the jurors. During a jury instruction conference, counsel suggested two alternative instructions: (1) "In the event it is your verdict that the defendant is not guilty only by reason of insanity, it is required that the Court commit the defendant,” or (2) ”[Y]ou should know that it is required that the Court commit defendant to a suitable hospital facility until such time as the defendant does not pose a substantial risk of bodily injury to another or serious danger to the property of another.” The trial judge rejected both versions.
+
+    
+
+    
+
+      
+4
+
+      
+. The Code provision did not by its own terms mandate the giving of such an instruction. 
+See Lyles, 
+254 F.2d at 728-29
+.
+
+      
+
+    
+
+    
+
+      
+5
+
+      
+. Shannon has not shown that in deliberating, the jury in this case actually entertained these misconceptions, failed to follow the judge's instructions, or considered extraneous factors that colored its verdict.
+
+    
+
+    
+
+      
+6
+
+      
+. The instruction Shannon desires could actually work to his disadvantage and cause him more harm than good. As the Third Circuit perceptively noted in 
+Government of V.I. v. Fredericks: 
+"A juror who is convinced that a defendant is dangerous, but who believes [the defendant] did not ... commit the [offense] charged, might be willing to compromise on a verdict of not guilty by reason of insanity rather than insist on an acquittal." 
+578 F.2d 927
+, 936 (3d Cir.1978). Moreover, a jury could assume that due to overcrowded mental hospitals, strapped social services budgets, sympathetic judges, etc., a defendant will be released after only a short period of commitment. To combat the prospect of early release, the jury could simply opt to find him guilty. The mandatory instruction Shannon seeks, therefore, seems to be fraught with the same prejudice and jury confusion he wants to avoid.
+
+    
+
+    
+
+      
+7
+
+      
+. Justice Stevens wrote an opinion "respecting the denial" of the writ of certiorari in 
+Frank. 
+He stated that the rule should be that the district court must give the disputed instruction to the jury unless the defendant affirmatively requests its omission.
+
+    
+
+  
+

@@ -1,0 +1,108 @@
+{
+  "scope": "Historical reconciliation only, Gottshall/Carlisle 85 and Shannon 86",
+  "git": "Not executed; operator verification/commit pending",
+  "hashes": {
+    "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_GOTTSHALL.md": "da154cd1c4259d1f45de679cce8f62a8d65aa0d73b290e071fcd071340313001",
+    "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_SHANNON.md": "ffef701f7bd890525f0e9dd30f87e9de83a12cf6c3a0d58c6d0d5f32baee9d40",
+    "terms/OT1993/freeze/OT_1993CHUNK8_RECONCILED_GOTTSHALL.md": "c8e75ed5cf42403e6dfa60a19ea9084cebc1a82537ffc0688b193bbaf89a407b",
+    "terms/OT1993/freeze/OT_1993CHUNK8_RECONCILED_SHANNON.md": "b7ea8b4fc5e3524dedf7223c58b4f6442f3055aca543f685cc21511542456f87",
+    "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_A.md": "19a514ce66a56129bcd3ba16792fddeb1d5d6db299c34a140e2288aaa0b36d85",
+    "terms/OT1993/freeze/OT_1993CHUNK8_SOURCE_NEUTRAL_A.md": "6bb030f38c7361e1f8e7294c0395dde8135fe0a4de9d7a9339d595b8ccfd9994",
+    "terms/OT1993/freeze/OT_1993CHUNK8_PREFLIGHT_A_JUNE24.md": "ac4439fb385d5ba977220b0890b40c44d214595caa9d579d1bb4b66899374f77",
+    "terms/OT1993/freeze/chunk8-sources/A/Gottshall.txt": "468de542bd976e4ef21e1a23f1850f25eca3400b8d631fda26391a828fb19911",
+    "terms/OT1993/freeze/chunk8-sources/A/Shannon.txt": "b70aa02d3a6211a5020e8ff23728a48fcbbc7f254593aeabae25f929eb7cfb52"
+  },
+  "source_pages": {
+    "Gottshall": 41,
+    "Shannon": 21
+  },
+  "non_stone_components": [
+    {
+      "name": "Gottshall reversal",
+      "participants": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "oppose": [
+        "Blackmun",
+        "Stevens",
+        "Ginsburg"
+      ],
+      "counts": [
+        5,
+        3
+      ]
+    },
+    {
+      "name": "Carlisle reversal with judgment for Conrail",
+      "participants": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "oppose": [
+        "Blackmun",
+        "Stevens",
+        "Ginsburg"
+      ],
+      "counts": [
+        5,
+        3
+      ]
+    },
+    {
+      "name": "Shannon affirmance",
+      "participants": [
+        "Blackmun",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Blackmun",
+        "Stevens"
+      ],
+      "counts": [
+        6,
+        2
+      ]
+    }
+  ]
+}

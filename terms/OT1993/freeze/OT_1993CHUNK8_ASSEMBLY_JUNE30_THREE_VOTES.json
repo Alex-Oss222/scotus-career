@@ -1,0 +1,372 @@
+{
+  "McFarland v. Scott": {
+    "record": "terms/OT1993/records/McFarland_v_Scott_merits_1994-06-30.md",
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse counsel denial and implement qualified appointment",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Reverse categorical denial of preparatory stay authority",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Preapplication qualified capital counsel",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Section 2251 preparatory pendency",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Section 2283 express congressional authorization exception",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Reasonable preparation and individualized stay discretion",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      }
+    ]
+  },
+  "International Union, United Mine Workers of America v. Bagwell": {
+    "record": "terms/OT1993/records/International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md",
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse surviving public fines and remand with criminal safeguards and independent defenses preserved",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Criminal classification of these fixed noncompensatory nonpurgeable fines",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Bounded additional enforcement-necessity and retrospective-factfinding explanation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Serious-contempt jury and bounded reversal/remand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Scalia additional historical-method account",
+        "support": [
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Ginsburg additional settlement explanation",
+        "support": [
+          "Ginsburg"
+        ],
+        "controlling": false
+      }
+    ]
+  },
+  "Tuilaepa v. California and Proctor v. California": {
+    "record": "terms/OT1993/records/Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md",
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Tuilaepa factor (a) no-error rejection",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      },
+      {
+        "name": "Tuilaepa factor (b) no-error rejection",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      },
+      {
+        "name": "Tuilaepa factor (i) no-error rejection",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      },
+      {
+        "name": "Tuilaepa judgment affirmed without a new penalty hearing",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      },
+      {
+        "name": "Proctor factor (a) no-error rejection and judgment affirmed",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Relevant selection without fixed labels, weights or yes-or-no elements, within existing safeguards",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Factor (a) constitutional against both presented challenges",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Factor (b) sufficiently definite in Tuilaepa",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Factor (i) contextual age consideration without automatic absence-of-youth aggravation",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Additional framework discussion preserving existing eligibility and selection law",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Scalia broader objection to posteligibility weighing requirements",
+        "support": [
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Blackmun all-factor guidance objection and independent noncapital ground",
+        "support": [
+          "Blackmun"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

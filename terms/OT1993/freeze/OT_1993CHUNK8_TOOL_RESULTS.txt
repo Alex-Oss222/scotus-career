@@ -1,0 +1,7 @@
+Final check_term (non-Git scope only), exit 0
+OK: OT1993; 0 warning(s)
+DEFERRED: commit-object existence checks; no Git command executed.
+Unverified references: 200137A, A40385013, cb0cf85, cceeded
+
+Final runtime-split check, exit 0
+OK: 11 matters; runtime split is current

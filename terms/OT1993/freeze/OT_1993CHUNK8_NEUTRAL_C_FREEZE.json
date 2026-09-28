@@ -1,0 +1,150 @@
+﻿{
+    "stage":  "Fresh neutral validation and independent non-Stone modeling",
+    "matters":  [
+                    "Holder v. Hall",
+                    "Tuilaepa v. California / Proctor v. California"
+                ],
+    "frozen_at_utc":  "2026-09-28T05:03:06.4480769Z",
+    "git_commands":  "None",
+    "operator_git_commit":  "Pending",
+    "earlier_event_refresh":  "Pending actual June 24/27 chunk-8 public decisions before reconciliation",
+    "de_grandy":  "Not modeled; awaits actual Holder Public Projection",
+    "inputs":  [
+                   {
+                       "file":  "terms/OT1993/freeze/OT_1993CHUNK8_STAGE_RULES.md",
+                       "sha256":  "753f926f85cc2657cabf638bb7e05fea404c7f4541e943df1d144a1e5afe7368"
+                   },
+                   {
+                       "file":  "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_C.md",
+                       "sha256":  "f4bb0b3a13edaef276aa4e9f1dd6da6bbc8f0ea30046dda2910d7c627b430ae5"
+                   },
+                   {
+                       "file":  "terms/OT1993/freeze/OT_1993CHUNK8_SOURCE_NEUTRAL_HOLDER.md",
+                       "sha256":  "dd0808c65bff3021165f259fe701fa5ff6dec91f9ac0325b1c4cdbbe9befcee9"
+                   },
+                   {
+                       "file":  "terms/OT1993/freeze/OT_1993CHUNK8_SOURCE_NEUTRAL_C.md",
+                       "sha256":  "db67a0d93531642a1fce446afb698d6ed0a8b12c6db42ebe0e837163594a8f93"
+                   },
+                   {
+                       "file":  "terms/OT1993/entering-law/OT_1993CHUNK8.md",
+                       "sha256":  "d7ade211f3869453cfa2fc9abc845973bb598958f5d605343c60df472f51a5ef"
+                   },
+                   {
+                       "file":  "terms/OT1993/entering-law/OT_1993CHUNK8_CITED_HOLDINGS.md",
+                       "sha256":  "6d48ed68e7bc693352557feb4faecd70f6bd8ec561f8b77b2f914e2c583b45f0"
+                   },
+                   {
+                       "file":  "terms/OT1993/entering-law/OT_1993CHUNK8_ENTERING_PUBLIC_AUTHORITY.md",
+                       "sha256":  "cefa592ed8bda3b4fa7bb602d1971b14a9f8f972ef5d02f4d64c188044d7bdff"
+                   },
+                   {
+                       "file":  "terms/OT1993/entering-law/OT_1993CHUNK8_PRIOR_PUBLIC_C.md",
+                       "sha256":  "467ef4b8e0ebc5e59530639c0b9886b23f1bbc1e0fa1a6766900e96fa832c09c"
+                   },
+                   {
+                       "file":  "terms/OT1993/workspace/neutral-projection.md",
+                       "sha256":  "3204fa1887eab7589d79bfafbe921a354995a146724ea0bf25f5eb23715bb9a0"
+                   },
+                   {
+                       "file":  "terms/OT1993/freeze/chunk8-sources/C/houston_lawyers.txt",
+                       "sha256":  "024fa96e8054aa09e70ce9b17d3782133bb3ea705cc6950d2c1b828574828527"
+                   },
+                   {
+                       "file":  "terms/OT1993/freeze/chunk8-sources/C/boyde.txt",
+                       "sha256":  "6cfbf6ed9f7e5b2a471beb86c358c1cac3f5d7d19e93f57f285af2f0698d7d94"
+                   }
+               ],
+    "outputs":  [
+                    {
+                        "file":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_HOLDER.md",
+                        "sha256":  "7c9c8801d279337efbe29145e4b1df2f005641bfe1698813c8ea74ac109e7924"
+                    },
+                    {
+                        "file":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_TUILAEPA.md",
+                        "sha256":  "5179d539bd58919d0599bbdac1739a8649f75635a53a8d3fc0320fe9fe708927"
+                    },
+                    {
+                        "file":  "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_VALIDATION_C.md",
+                        "sha256":  "8c0c9845df5ff7b95027a894c9f0fd95108f5f610ebd997eddd42f88edb4c759"
+                    }
+                ],
+    "deterministic_checks":  [
+                                 {
+                                     "file":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_HOLDER.md",
+                                     "justice_rows":  [
+                                                          {
+                                                              "justice":  "Blackmun",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Stevens",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "O\u0027Connor",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Scalia",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Kennedy",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Souter",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Thomas",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Ginsburg",
+                                                              "rows":  1
+                                                          }
+                                                      ],
+                                     "result":  "Eight distinct named non-Stone rows; substantive sufficiency reviewed manually"
+                                 },
+                                 {
+                                     "file":  "terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_TUILAEPA.md",
+                                     "justice_rows":  [
+                                                          {
+                                                              "justice":  "Blackmun",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Stevens",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "O\u0027Connor",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Scalia",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Kennedy",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Souter",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Thomas",
+                                                              "rows":  1
+                                                          },
+                                                          {
+                                                              "justice":  "Ginsburg",
+                                                              "rows":  1
+                                                          }
+                                                      ],
+                                     "result":  "Eight distinct named non-Stone rows; substantive sufficiency reviewed manually"
+                                 }
+                             ]
+}

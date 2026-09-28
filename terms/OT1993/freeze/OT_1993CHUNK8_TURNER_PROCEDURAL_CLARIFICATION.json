@@ -1,0 +1,20 @@
+{
+  "classification": "Precompletion source and procedural-citation clarification within the initial Run",
+  "record": "terms/OT1993/records/Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md",
+  "preserved_initial_snapshot": "terms/OT1993/freeze/OT_1993CHUNK8_TURNER_INITIAL_ASSEMBLY_SNAPSHOT.md",
+  "old_sha256": "13fddb958582650622dcefcd834c1fda49580fb631fc887885f0b1fb36a2ff0f",
+  "new_sha256": "c70358efa4cf7680d69c49068821fee925a063300447769dcb5f2e3f670dd0ac",
+  "public_blocks_changed": [
+    "Event",
+    "Source Notes"
+  ],
+  "all_other_public_blocks_byte_identical": true,
+  "adjudicative_components_changed": false,
+  "inputs": [
+    "OT_1993CHUNK8_SOURCE_NEUTRAL_TURNER_STATUTORY_CLARIFICATION.md",
+    "OT_1993CHUNK8_NEUTRAL_REFRESH_TURNER_STATUTORY.md",
+    "OT_1993CHUNK8_RECONCILIATION_TURNER_STATUTORY_ADDENDUM.md"
+  ],
+  "existing_assembly_receipt": "Original receipt remains preserved and applies to the initial snapshot; its arithmetic and unchanged substantive checks remain applicable. This receipt validates the limited current differences.",
+  "git": "No Git command; operator verification and commitment pending."
+}

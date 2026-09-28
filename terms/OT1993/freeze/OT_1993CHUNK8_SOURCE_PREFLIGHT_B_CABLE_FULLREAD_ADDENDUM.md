@@ -1,0 +1,34 @@
+# Source-only control addendum — complete Cable Act reading
+
+Status: the complete downloaded Act has now been read. This addendum updates only the source-coverage limitation in `OT_1993CHUNK8_SOURCE_PREFLIGHT_B.md`; it does not alter that earlier frozen artifact, the early neutral handoff, any commitment, or any Decision Record.
+
+## Source and actual coverage
+
+- Authority: Cable Television Consumer Protection and Competition Act of 1992, Pub. L. 102-385, 106 Stat. 1460–1504 (October 5, 1992).
+- Official original: <https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg1460.pdf>.
+- Local PDF: `chunk8-sources/B/Cable_Act_1992.pdf`, 45 pages, 7,810,911 bytes; SHA-256 `329e1e9bfcb23dc7b436447be0cc0f168a288a731ca168d4795d1e4a50b0d08f`.
+- Local extracted text: `chunk8-sources/B/Cable_Act_1992.txt`, 168,485 bytes; SHA-256 `19ecd000ca56b185413c8ded84f52f792f88190b34484ebaa53cfd57707485fc`.
+- The entire extracted PDF text was read in contiguous, untruncated segments, using raw bytes decoded as cp1252: `[0,25000)`, `[25000,50500)`, `[50500,75500)`, `[75500,100500)`, `[100500,125500)`, `[125500,150500)`, and `[150500,168485)`. Coverage includes all 28 sections, all qualifications and cross-references printed in them, enactment certifications, and the final legislative-history entry. This is a full PDF-text reading, not a claim that every scanned page was separately inspected visually.
+- Original PDF pages 8 and 41 (106 Stat. 1467 and 1500) were additionally rendered and visually checked for the basic-tier provision and judicial-review provision discussed below. The images are `chunk8-sources/B/Cable_Act_check_7.png` and `Cable_Act_check_40.png`.
+
+The earlier control statement that only §§4–5 had been read was accurate when written. This addendum records subsequent completion; it does not recast the earlier review as already complete.
+
+## Relevant statutory cross-references and pinpoint correction
+
+These are statutory source facts for fresh validation, not conclusions about the constitutional challenge or a proposed disposition.
+
+1. **Basic tier — §3, adding Communications Act §623(b)(7), 106 Stat. 1467.** Each operator must provide a separately available basic service tier, subscription to which is required for access to any other tier. Its minimum contents are all signals carried to fulfill §§614 and 615; public, educational, and governmental access programming required by the franchise; and the signal of any television broadcast station the operator provides to any subscriber, except a signal secondarily transmitted by a satellite carrier beyond that station's local service area. An operator **may** add other video-programming signals or services to the basic tier; these additions are then subject to basic-tier rate regulation. This supplies the statutory basic-tier cross-reference beyond the separate §615(h) requirement that its compulsory noncommercial signals be available in the lowest-priced tier containing local commercial broadcast signals. The provisions should not be collapsed into a single undifferentiated duty.
+
+2. **Election — §6, adding Communications Act §325(b)(3)(B), (4)–(6), 106 Stat. 1482–1483.** The prescribed regulations must require television stations to elect between retransmission consent and §614 carriage within one year after enactment and every three years thereafter; where multiple cable systems serve the same geographic area, the election applies to all of them. For a station electing retransmission consent with respect to a cable system, §614 does not apply to carriage of that station's signal by that system. Exercise of retransmission-consent rights must not interfere with or supersede another station's rights under §614 or §615 when that station elects carriage. The section does not modify the compulsory copyright license under 17 U.S.C. §111 or affect existing or future station–programmer licensing agreements. This confirms the early handoff's distinction between the two choices; it does not independently establish an FCC implementation fact or a station's actual election.
+
+3. **Judicial-review pinpoint and trigger — §23, adding Communications Act §635(c), 106 Stat. 1500, not 1498.** The early neutral handoff's introductory citation included “1498”; the correct pinpoint for §23 is **1500**. Section 635(c)(1) requires a three-judge district court under 28 U.S.C. §2284 for a civil action challenging the constitutionality of §614 or §615 or any provision of either. Section 635(c)(2)'s special direct-appeal clause concerns an interlocutory or final judgment, decree, or order **holding** §614, §615, or a provision thereof unconstitutional; such an appeal must be filed within 20 days after entry. Do not describe that special clause as itself covering every order upholding those provisions. This source addendum does not determine another jurisdictional basis for the actual appeal.
+
+4. **Keep the other educational-access definition separate — §9(c), adding Communications Act §612(i)(4), 106 Stat. 1485.** The provision expressly says that nothing in that subsection substitutes for the §615 requirement to carry qualified noncommercial educational television stations. Its separate leased-access programming-source categories do not replace §615's station definitions. No additional constitutional challenge or holding about those categories is inferred from reading them.
+
+The full reading identified no further correction to the §4/§5 numerical carriage requirements, small-system qualification, commercial and noncommercial duplicate-signal distinctions, signal-quality/payment conditions, channel-position alternatives, or noncommercial transition provisions supplied in the early neutral handoff. This statement concerns that handoff's statutory description; it is not an audit of later Records or a conclusion about the challenge's merits.
+
+## Exposure and remaining limits
+
+This remains an outcome-exposed **source-only** context because of the historical reports read during earlier source work. It has not modeled a Justice's commitment and must not serve as fresh neutral validation. No same-matter Supreme Court outcome, vote, authorship, reasoning, or remedy is supplied here. A fresh context decides whether any statutory fact above materially affects its authorized task.
+
+This pass does not claim a complete review of FCC implementing proceedings, the Turner lower report, Turner merits briefs, or appendices. It closes the specific incomplete-whole-Act-reading limitation only. OCR artifacts remain in the extracted text, including the apparent §5/§6 heading error already disclosed; exact quotations from other uncertain passages would require their original scan. No original freeze or current Record was edited. No Git command was run. New files are confined to `terms/OT1993/` and the previously disclosed temporary PDF-rendering dependencies under `tmp/`.

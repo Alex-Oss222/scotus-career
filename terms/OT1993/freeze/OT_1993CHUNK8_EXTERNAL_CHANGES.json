@@ -1,0 +1,19 @@
+{
+  "classification": "Observed unattributed concurrent changes outside this Run write scope",
+  "handling": "Left untouched. No Run command or assigned task authorized a write to these paths. Their changed bytes are not claimed as this Run work or as preserved opening bytes. Attribution is not established by filesystem hashes.",
+  "observed_utc": "2026-09-28T06:05:28.710199+00:00",
+  "files": [
+    {
+      "path": "terms/OT1994/case-list.md",
+      "opening_sha256": "e2c5e08783e695a7820215213128a08b7fbc9b5708a70dcbbc82a112518d0f46",
+      "observed_sha256": "c23dea231200c7cb4e20925c4c2df06afd4390500519d924ce3b07dfd8bc596f",
+      "last_modified_utc": "2026-09-28T05:29:26.683627+00:00"
+    },
+    {
+      "path": "terms/OT1994/briefs/OT_1994CHUNK9.md",
+      "opening_sha256": "ff44abd14b570251264c1cb432be92669a086d552be3cd8c47bc44bcd259df6a",
+      "observed_sha256": "55ef010dddfbb3f8b47732d654b6ce0c3325a2aecafd1354ae2fa867b6bc2feb",
+      "last_modified_utc": "2026-09-28T05:29:26.683627+00:00"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "Johnson v. De Grandy": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "House reversal and removal of dependent Plan 268 remedy; alternative vacatur and dismissal",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Senate affirmance for lack of proved violation; alternative vacatur and dismissal",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "I-A: actual state-law preclusion scope and no mandatory optional-state-return exhaustion",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "I-B: United States independent original suit",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "II: necessary Gingles conditions, separate totality, no maximization and assumed first condition",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III: full contextual proportionality rule and explanation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Exact limited proportionality relevance, no automatic liability and no safe harbor; Kennedy separately agrees",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "IV: full House contextual legal-sufficiency application",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "V: full Senate contextual application and no irremediability ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "VI: partial reversal/affirmance and bounded lawful implementation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Thomas statutory noncoverage and vacatur/dismissal alternative",
+        "support": [
+          "Thomas",
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Kennedy personal constitutional reservation; no constitutional adjudication",
+        "support": [
+          "Kennedy"
+        ],
+        "controlling": false
+      }
+    ],
+    "alternative_formal_dispositions": [
+      {
+        "justices": [
+          "Thomas",
+          "Scalia"
+        ],
+        "disposition": "Vacate the appealed judgments and remand with instructions to dismiss the consolidated Section 2 actions for failure to state a covered claim."
+      }
+    ],
+    "internal_threshold_matrix": [
+      {
+        "name": "Private preclusion rejected",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "published_opinion_support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "United States original jurisdiction available",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "published_opinion_support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "opinion_parts": [
+      {
+        "author": "Souter",
+        "parts": [
+          "I-A",
+          "I-B",
+          "II",
+          "VI"
+        ],
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "author": "Souter",
+        "parts": [
+          "III",
+          "IV",
+          "V"
+        ],
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "separate_writings": [
+      {
+        "author": "O'Connor",
+        "joins": [],
+        "type": "concurrence"
+      },
+      {
+        "author": "Kennedy",
+        "joins": [],
+        "type": "concurrence in part and in the judgment"
+      },
+      {
+        "author": "Thomas",
+        "joins": [
+          "Scalia"
+        ],
+        "type": "dissent"
+      }
+    ]
+  }
+}

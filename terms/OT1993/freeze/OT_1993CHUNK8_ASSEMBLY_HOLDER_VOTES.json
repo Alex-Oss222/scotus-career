@@ -1,0 +1,122 @@
+{
+  "Holder v. Hall": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm Section 2 liability",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Preserve existing statutory remedy remand; constitutional alternative not necessary",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Threshold Section 2 coverage of governing-body size; Kennedy reserves affirmative coverage",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Contextually reasonable comparison grounded independently of racial tally",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Preserved Gingles proof plus totality supports statutory liability",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Limited remedy formulation; no new liability trial, fixed board size, map, quota or winner",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Additional statutory-stare-decisis and reenactment rationale",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Body-size comparison lacks an objective norm, ordinary dilution doctrine retained",
+        "support": [
+          "O'Connor",
+          "Kennedy"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Section 2 excludes vote dilution; reject incompatible precedents",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

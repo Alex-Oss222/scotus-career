@@ -1,0 +1,148 @@
+{
+  "Board of Education of Kiryas Joel Village School District v. Grumet": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm federal invalidation of Chapter 748, No. 93-517",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Affirm federal invalidation of Chapter 748, No. 93-527",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Affirm federal invalidation of Chapter 748, No. 93-539",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Actual denominational allocation of general civil authority; bounded Larkin structural ground",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Particular denominational governmental benefit without neutral assurance of equal treatment",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Accommodation does not cure this allocation; preserve lawful services and statutory rights",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Kennedy independent religious-boundary criterion even if religious gerrymanders offered equally",
+        "support": [
+          "Kennedy"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Additional state-supported religious separation and attachment rationale",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Blackmun explicit general defense of Lemon effect and entanglement principles",
+        "support": [
+          "Blackmun"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "OConnor context-specific analytical method rather than rigid unitary Lemon formula",
+        "support": [
+          "O'Connor"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Public secular district and accommodation sufficient to reverse federal judgment",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Tradition-based preference to abandon Lemon and reconsider Aguilar/Ball appropriately",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}
