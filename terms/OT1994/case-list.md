@@ -2,7 +2,7 @@
 
 **+ = one of the 15 expressly listed simulated grants.** For those entries, the docket shown is simulation-assigned under the user’s instruction; it is not a historical Supreme Court identifier. Stone approval status is stated separately in Section II.
 
-99 matters: 97 MERITS and 2 ORIGINAL; nine chunks (12 each in chunks 1–8, 3 in chunk 9). Listed applications and petition-stage events: none. The comprehensive supplied list controls membership, with Hays excluded and Miller reconstructed under the exact user-supplied question. Consolidated companions count once.
+99 matters: 97 MERITS and 2 ORIGINAL; nine chunks (12 each in chunks 1–8, 3 in chunk 9). Listed applications and petition-stage events: none. The comprehensive supplied list controls membership, with Hays excluded and Miller reconstructed under the exact user-supplied predominance question and the authorized historical-injury and voluntary-inclusion questions in [chunk 9](briefs/OT_1994CHUNK9.md#97-miller-v-johnson--abrams-v-johnson--united-states-v-johnson). Miller's reconstructed lower-court judgment remains to be specified before a final mandate is selected. Consolidated companions count once.
 
 | No. | Chunk | Caption | Docket(s) | Event date | Event type | Category |
 |---:|---:|---|---|---|---|---|
