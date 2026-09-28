@@ -278,17 +278,15 @@ The conduct litigated below preceded the 1994 amendment. The Federal Circuit dec
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-01-18. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-01-18. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The version of the Plant Variety Protection Act governing the conduct controls; the later amendment cannot be imported retroactively merely because this decision follows enactment.
+**Authority and application:** The simulated *Landgraf* judgment and five-Justice temporal framework are now effective law. They require the court to identify the operative statutory version before attaching new legal consequences to completed conduct. The 1994 Plant Variety Protection Act amendments therefore cannot be used as though they governed the earlier transactions merely because they were enacted before this Court's decision.
 
-- [Landgraf v. USI Film Products, No. 92-757.](inherited/readings/OT1994-015.md#authority-1)
+- [Landgraf v. USI Film Products — temporal framework and pre-enactment conduct](../../OT1993/records/Landgraf_v_USI_Film_Products_merits_1994-04-26.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state; the linked OT1993 Decision Record supplies the later controlling temporal rule. Preserve Landgraf's exact coalition, limits, and distinction between governing law and remedy. Historical comparator material and post-enactment policy cannot silently rewrite the law applicable to the transactions.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+At this refresh, the repository contains no completed OT1994 Decision Record. Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -426,10 +424,13 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** Simulated Landgraf is controlling, not merely persuasive historical background. The proposed Asgrow construction must apply the pre-amendment Act and may use the later amendment only as later legislation, not as retroactive law or conclusive evidence of what the old text meant.
 
 ## B. FIXED CORE
 
@@ -456,10 +457,10 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Scope of the saved-seed exception
 
 - **Threshold and Merits Reach:** Stone reaches this issue within the admitted review scope, subject to the specific threshold and preservation treatment in Section I.C. He does not treat a merits answer as supplying jurisdiction or a missing factual finding.
-- **Current Governing Rule:** Sections 2541 and 2543 must be read together; the saved-seed proviso expressly preserves the prohibition on multiplication as a step in marketing for growing purposes.
+- **Current Governing Rule:** The pre-amendment Plant Variety Protection Act governs the transactions. Simulated *Landgraf* forbids attaching the 1994 amendment's new legal consequences to completed earlier conduct without the required congressional direction.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** The former saved-seed exception covers seed genuinely saved for replanting the farmer’s own acreage, with qualifying later farmer-to-farmer disposition under the proviso. It does not authorize intentional multiplication for reproductive marketing merely because the seller also grows food or feed crops. Reverse and remand under that construction.
-- **Essential Reasoning:** The proviso must perform real work without becoming an alternative license to produce protected planting seed for sale. Reading “saved seed” in its stated own-farm context permits a farmer to change plans and dispose of seed retained for replanting, while the opening reservation preserves the breeder’s right against multiplication for reproductive marketing. No separate advertising campaign is necessary to give production its commercial objective.
+- **Essential Reasoning:** The old text must do the interpretive work. The saved-seed proviso must have real effect without becoming a commercial reproduction license, and the breeder's protection against multiplication for reproductive marketing must also remain operative. Simulated *Landgraf* confirms that the later amendment cannot be imported backward to settle the case. A farmer may change plans and dispose of genuinely saved replanting seed; intentional multiplication for the planting market is outside that protected core.
 - **Record Application:** The scale and reproductive destination of these sales support applying the multiplication restriction rather than treating occupation alone as a safe harbor. Any unresolved element or remedial question must be resolved on the existing record or on lawful remand, not by the Court’s invention of a fifty-percent rule.
 - **Principal Contrary Argument:** An express proviso permitting sales cannot be read out of the statute. An acreage restriction requires textual support rather than a preference for stronger plant-breeder rights.
 - **Stone’s Answer:** The former saved-seed exception covers seed genuinely saved for replanting the farmer’s own acreage, with qualifying later farmer-to-farmer disposition under the proviso. It does not authorize intentional multiplication for reproductive marketing merely because the seller also grows food or feed crops. Reverse and remand under that construction. Do not prohibit ordinary saving and planting on the farmer’s own land, infer infringement merely from high yield, or impose the 1994 amendment on prior conduct. The construction supplies no damages finding.

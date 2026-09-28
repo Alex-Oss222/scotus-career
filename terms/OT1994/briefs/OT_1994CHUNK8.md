@@ -421,7 +421,8 @@ Review is limited to the issues stated above, necessary antecedents, and the rem
 
 | Matter | Status | Source |
 |---|---|---|
-| A shipment of fruit from Morocco to Massachusetts was damaged aboard the Sky Reefer; the cargo owner and subrogated insurer seek approximately $1 million. | Claim and undisputed litigation background, not adjudicated carrier liability | 29 F.3d at 728. |
+| A shipment of fruit from Morocco to Massachusetts was damaged aboard the Sky Reefer; the cargo owner and subrogated insurer seek approximately <!-- BEGIN_CASE OT1994-089 -->
+ million. | Claim and undisputed litigation background, not adjudicated carrier liability | 29 F.3d at 728. |
 | The bill of lading selects Japanese law and arbitration in Tokyo and contains a local-law clause addressing COGSA. | Contract text in the record | 29 F.3d at 728–729. |
 | The parties agree COGSA applies to the shipment by force of law. | Recorded common legal premise | 29 F.3d at 729. |
 | The district court stayed rather than dismissed the action and certified whether COGSA § 3(8) nullifies the arbitration clause. | Procedural ruling | 29 F.3d at 728–729, 732. |
@@ -445,17 +446,15 @@ The First Circuit decided the certified appeal on July 7, 1994. Its footnote sta
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-19. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-19. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The cited enacted provisions and surviving pre-divergence precedents govern at their actual scope. No directly controlling new simulated rule is assumed for this question.
+**Authority and application:** No validated simulated Supreme Court holding through OT1993 directly resolves the interaction between COGSA §3(8) and a foreign maritime arbitration clause. The FAA, COGSA, and surviving pre-divergence arbitration precedents therefore remain the operative sources. Three earlier OT1994 arbitration matters are listed as potential same-term dependencies, but no OT1994 Decision Record presently exists for any of them.
 
-**Selected simulated authority:** No direct case-specific rule is identified in the verified sources; the statutory and surviving pre-divergence authorities below remain available.
+**Prospective same-term dependencies:** *Allied-Bruce Terminix Cos. v. Dobson* (scheduled 1995-01-18), *Mastrobuono v. Shearson Lehman Hutton, Inc.* (scheduled 1995-03-06), and *First Options of Chicago, Inc. v. Kaplan* (scheduled 1995-05-22). Before Run, load only actual Decision Records effective before this event. Their current briefs, historical outcomes, or proposed Stone positions are not law.
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Forward OT1994 dependencies:** Allied-Bruce Terminix Cos. v. Dobson (1995-01-18, chunk 2); Mastrobuono v. Shearson Lehman Hutton, Inc. (1995-03-06, chunk 3); First Options of Chicago, Inc. v. Kaplan (1995-05-22, chunk 6). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -598,10 +597,13 @@ The certified statutory issue and present effect of the clause may be decided; n
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The simulation audit found no pre-OT1994 holding that decides Sky Reefer. The proposed disposition therefore remains grounded in the enacted COGSA/FAA interaction and the effective-vindication distinction, subject to mandatory revalidation if any of the three earlier OT1994 arbitration cases is actually adjudicated first.
 
 ## B. FIXED CORE
 
@@ -631,7 +633,8 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 - **Current Governing Rule:** COGSA’s nonwaiver command and the FAA must be read together; arbitration may change the forum without surrendering the substantive protection. Indussa’s foreign-court rule is persuasive but expressly reserved arbitration.
 - **Stone’s Legal Position:** Reconcile the two statutes and affirm on a narrower construction than the First Circuit’s FAA-priority rationale.
 - **Stone’s Proposed Holding:** COGSA § 3(8) does not invalidate the Tokyo arbitration clause merely because the selected forum increases inconvenience or enforcement expense. The FAA does not override COGSA’s nonwaivable substantive protection; the statutes operate together where arbitration leaves that protection available.
-- **Essential Reasoning:** Congress protected defined carrier obligations while also enforcing maritime arbitration agreements. Those enactments can coexist without treating either statute as an implied repeal of the other. The record does not establish that the claimed expense makes this approximately $1 million dispute incapable of effective presentation. It is unnecessary to approve all foreign-court clauses or to decide a materially different showing of practical foreclosure.
+- **Essential Reasoning:** Congress protected defined carrier obligations while also enforcing maritime arbitration agreements. Those enactments can coexist without treating either statute as an implied repeal of the other. The record does not establish that the claimed expense makes this approximately <!-- BEGIN_CASE OT1994-089 -->
+ million dispute incapable of effective presentation. It is unnecessary to approve all foreign-court clauses or to decide a materially different showing of practical foreclosure.
 - **Record Application:** The certified question permits rejection of the categorical forum objection. It does not permit reopening the adhesion ruling or finding the carrier liable for the damaged fruit. Affirmance need not adopt the First Circuit’s proposition that the FAA removes arbitration from COGSA altogether.
 - **Principal Contrary Argument:** The FAA’s procedural policy cannot validate a clause that actually extinguishes a nonwaivable federal entitlement. Treating COGSA as inapplicable whenever arbitration is chosen would erase its protection by contract.
 - **Stone’s Answer:** COGSA § 3(8) does not invalidate the Tokyo arbitration clause merely because the selected forum increases inconvenience or enforcement expense. The FAA does not override COGSA’s nonwaivable substantive protection; the statutes operate together where arbitration leaves that protection available. A demonstrated waiver of statutory liability or effective elimination of the protected remedy is not sustained by this holding. Foreign-court clauses generally, the unreviewed adhesion defense, and liability for the cargo remain outside this decision.
@@ -887,18 +890,18 @@ The action began in December 1984. The earlier state judgment at 806 P.2d 598 wa
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-19. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-19. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Harper and any actual earlier Reich decision concern temporal effect and tax remedies; they do not automatically establish a § 1983 fee entitlement.
+**Authority and application:** Simulated *Harper* separates the governing federal tax rule from the remedy and requires meaningful backward-looking relief in a pay-first setting without dictating one refund formula. Simulated *Livadas* separately holds that §1983 can supply a channel for an identified federal right while insisting that right, cause of action, defendant, immunity, and remedy remain distinct. Neither case resolves the tax-specific equitable limitation presented here. The prepared OT1994 *Reich v. Collins* matter could be directly relevant to tax remedies if an actual earlier Decision Record is entered, but no such OT1994 Record exists at this refresh.
 
-- [Harper v. Virginia Department of Taxation, 509 U.S. 86 (1993)](inherited/readings/OT1994-091.md#authority-1)
-- [Livadas v. Bradshaw, No. 92-1920; 512 U.S. 107.](inherited/readings/OT1994-091.md#authority-2)
+- [Harper v. Virginia Department of Taxation — retroactivity and tax remedy remain separate](../../OT1992/records/Harper_v_Virginia_Department_of_Taxation_merits_1993-06-18.md)
+- [Livadas v. Bradshaw — identified federal right, §1983 channel, and separate remedy inquiry](../../OT1993/records/Livadas_v_Bradshaw_merits_1994-06-13.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Prospective same-term dependency:** *Reich v. Collins* is scheduled earlier in OT1994. Before Run, load its actual Decision Record if one exists and revalidate the adequacy and tax-remedy analysis. Do not use the prepared brief or historical comparator as current law.
 
-**Forward OT1994 dependencies:** Reich v. Collins (1994-12-06, chunk 1). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1041,10 +1044,13 @@ The federal equitable and fee questions can be resolved on the established adequ
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The completed simulated cases support the brief's right/remedy separation but do not themselves foreclose §1983 equitable relief in state tax cases. The proposed denial must therefore rest on the tax-specific federal equity tradition and the adequacy of the refund remedy, not on state law overriding §1983 or on a general exhaustion requirement.
 
 ## B. FIXED CORE
 
@@ -1071,10 +1077,10 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Federal tax relief in a state court
 
 - **Threshold and Merits Reach:** Stone reaches the federal availability of injunctive and declaratory relief, not tax validity or a new sovereign monetary claim.
-- **Current Governing Rule:** Dennis establishes a cognizable federal right; Dows, Matthews, and Great Lakes supply established equitable limits. Section 1341 restricts federal district courts and does not directly govern state-court jurisdiction.
+- **Current Governing Rule:** Simulated *Harper* requires application of the governing federal tax rule while leaving lawful corrective remedies distinct; simulated *Livadas* confirms that an identified federal right and §1983 enforcement channel do not automatically select a particular remedy. Any limitation here must come from federal tax-equity principles and an actually adequate legal remedy.
 - **Stone’s Legal Position:** Apply the established tax-equity limitation to § 1983’s remedial scope and reject the lower court’s broader jurisdictional-uniformity rationale.
 - **Stone’s Proposed Holding:** Section 1983 does not require injunctive or declaratory interference with state tax administration when an adequate legal remedy provides effective redress. The limitation follows from the federal equitable principles informing that statute, not direct application of § 1341 to state courts. The adequate refund remedy here leaves no basis for the additional § 1983 equitable relief sought. This limitation on the federal remedy does not withdraw a State’s authority to provide otherwise lawful equitable relief under state law.
-- **Essential Reasoning:** The right and its remedy remain separate. Reading § 1983 with the established tax-equity background preserves both Dennis and the ordinary opportunity to collect and refund taxes through lawful procedures. This is not a rule that state law can override a federal cause of action, nor a demand for exhaustion in every civil-rights case. A merely nominal or repeatedly frustrated refund route would present a different adequacy inquiry.
+- **Essential Reasoning:** The federal right and the remedy remain separate. *Harper* prevents a State from using remedial doctrine to recreate selective prospectivity, while *Livadas* prevents courts from collapsing right, enforcement channel, and relief. The distinct tax-equity tradition permits withholding additional injunction or declaration when an adequate refund route supplies effective correction. That is not a state-law override of §1983 and not a general exhaustion rule.
 - **Record Application:** The taxpayers already obtained invalidation and a state-law refund remedy. The record does not establish a breakdown, irreparable injury unaddressed by recovery, or repeated refusal to honor the judgment requiring another equitable channel. The constitutional tax merits and refund entitlement remain undisturbed.
 - **Principal Contrary Argument:** A state-court prohibition cannot simply be borrowed from a statute addressing federal district courts; any restraint must follow from § 1983’s own federal remedial scope.
 - **Stone’s Answer:** Section 1983 does not require injunctive or declaratory interference with state tax administration when an adequate legal remedy provides effective redress. The limitation follows from the federal equitable principles informing that statute, not direct application of § 1341 to state courts. The adequate refund remedy here leaves no basis for the additional § 1983 equitable relief sought. This limitation on the federal remedy does not withdraw a State’s authority to provide otherwise lawful equitable relief under state law. No direct application of the Tax Injunction Act to state courts; no general exhaustion requirement; no authority to withdraw an effective refund after payment; no disposition of a distinct properly supported individual-capacity damages claim. A State remains free, absent an independent federal prohibition, to authorize broader injunctive or declaratory relief under its own law.

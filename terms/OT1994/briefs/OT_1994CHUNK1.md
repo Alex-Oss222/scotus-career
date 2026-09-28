@@ -175,19 +175,17 @@ The Ninth Circuit ruled on August 4, 1993. Historical review was granted January
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1994-11-08. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1994-11-08. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Settlement-related jurisdiction and finality are relevant procedural analogies; neither predetermines the equitable vacatur issue.
+**Authority and application:** The simulated *Izumi* decision is a threshold decision only and expressly leaves settlement vacatur undecided. *Kokkonen* separates jurisdiction to enforce a settlement from the settlement contract itself. *Digital Equipment* supplies finality and collateral-order limits, not a settlement-vacatur rule. Bancorp therefore presents an open merits question about equitable vacatur under § 2106.
 
-- [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., No. 92-1123.](inherited/readings/OT1994-002.md#authority-1)
-- [Kokkonen v. Guardian Life Insurance Co. of America, No. 93-263; October Term 1993.](inherited/readings/OT1994-002.md#authority-2)
-- [Digital Equipment Corp. v. Desktop Direct, Inc.; No. 93-405.](inherited/readings/OT1994-002.md#authority-3)
+- [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. — DIG and question-presentation holdings](../../OT1993/records/Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md)
+- [Kokkonen v. Guardian Life Insurance Co. of America — postdismissal settlement-enforcement jurisdiction](../../OT1993/records/Kokkonen_v_Guardian_Life_merits_1994-05-16.md)
+- [Digital Equipment Corp. v. Desktop Direct, Inc. — collateral-order finality](../../OT1993/records/Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. The linked Canonical Decision Records supply later simulated law through OT1993 and control over stale preparation language within their actual holdings, coalitions, limits, and effective dates. Historical comparators, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, the repository contains no completed OT1994 Decision Record, so any same-term dependency remains prospective unless a dated record becomes effective before this event.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -298,10 +296,13 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** Izumi supplies no controlling settlement-vacatur merits rule; its Stevens-Blackmun vacatur discussion is noncontrolling. The proposed Bancorp disposition therefore must stand on § 2106, Munsingwear/Karcher, and equitable allocation, not on an invented prior simulated holding.
 
 ## B. FIXED CORE
 
@@ -1326,18 +1327,17 @@ The initial appellate opinion was reconsidered after intervening proceedings; th
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-01-10. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-01-10. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Primary jurisdiction, tariff enforcement and statutory credit remedies remain separate inquiries.
+**Authority and application:** *Reiter* keeps tariff liability, unreasonable-rate counterclaims, primary jurisdiction, and judicial procedure in their separate statutory channels. *MCI* later confirms that agency expertise and deference operate inside, not outside, the statutory authority Congress actually supplied. The ICC's express credit-regulation and enforcement provisions therefore must be read with the filed-rate command rather than erased by it.
 
-- [Reiter v. Cooper, 507 U.S. 258 (1993)](inherited/readings/OT1994-012.md#authority-1)
-- [ABF Freight System, Inc. v. NLRB; No. 92-1550.](inherited/readings/OT1994-012.md#authority-2)
+- [Reiter v. Cooper — tariff claims, recoupment, and ICC primary jurisdiction](../../OT1992/records/Reiter_v_Cooper_merits_1993-03-08.md)
+- [ABF Freight System, Inc. v. NLRB — agency remedial authority within statutory limits](../../OT1993/records/ABF_Freight_System_v_NLRB_merits_1994-01-24.md)
+- [MCI Telecommunications Corp. v. AT&T — agency modification power remains bounded by statutory structure](../../OT1993/records/MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. The linked Canonical Decision Records supply later simulated law through OT1993 and control over stale preparation language within their actual holdings, coalitions, limits, and effective dates. Historical comparators, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, the repository contains no completed OT1994 Decision Record, so any same-term dependency remains prospective unless a dated record becomes effective before this event.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1440,10 +1440,13 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** MCI is now effective simulated law and strengthens the source-bound agency analysis: an agency cannot erase a statutory command, but neither may a court erase an independently conferred enforcement power. The proposed Transcon result remains supportable on that distinction.
 
 ## B. FIXED CORE
 
@@ -1470,10 +1473,10 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Credit-rule enforcement and the filed-rate obligation
 
 - **Threshold and Merits Reach:** Stone reaches this issue within the admitted review scope, subject to the specific threshold and preservation treatment in Section I.C. He does not treat a merits answer as supplying jurisdiction or a missing factual finding.
-- **Current Governing Rule:** The filed-rate duty coexists with Congress’s credit delegation and express ICC enforcement channel; Maislin bars an administrative rewrite of tariffs, not every separately authorized collection restriction.
+- **Current Governing Rule:** Congress's filed-rate command and its separately enacted credit-regulation and ICC enforcement provisions must each be given effect. Simulated *MCI* confirms that agency authority cannot replace a statutory command, while *Reiter* confirms that distinct statutory mechanisms remain distinct.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** The ICC may invoke its statutory enforcement authority to enjoin collection that violates valid credit regulations. The filed-rate rule does not categorically defeat such an injunction. Reverse and remand for application to the collections actually subject to the regulatory requirements.
-- **Essential Reasoning:** Congress wrote both the rate requirement and the credit delegation. Enforcing a notice or billing condition that Congress authorized is not an equitable substitution of an unfiled rate. Commercial Metals addresses a private defense and cannot disable an enforcement power the statute independently assigns to the Commission.
+- **Essential Reasoning:** Congress wrote both the rate obligation and the credit delegation. Enforcing a valid notice, billing, or credit condition is not an agency-created substitute tariff. *MCI* bars an agency from replacing a statutory mechanism; it does not authorize a court to nullify a different enforcement power Congress expressly granted. *Commercial Metals* addresses a private defense and therefore does not resolve this Commission enforcement action.
 - **Record Application:** The disputed loss-of-discount collection practice falls within the subject of the credit regulations. The courts must test the bills and timing against those rules rather than enter judgment on the premise that the filed-rate doctrine makes violations irrelevant.
 - **Principal Contrary Argument:** An agency may not evade Maislin by relabeling an objection to collection as credit administration. Its regulation and proposed injunction must trace to the distinct delegation.
 - **Stone’s Answer:** The ICC may invoke its statutory enforcement authority to enjoin collection that violates valid credit regulations. The filed-rate rule does not categorically defeat such an injunction. Reverse and remand for application to the collections actually subject to the regulatory requirements. Do not announce a general shipper defense, forgive every tariff undercharge, or apply later transportation reforms retroactively. No conclusion follows concerning independent bankruptcy or contract defenses.
