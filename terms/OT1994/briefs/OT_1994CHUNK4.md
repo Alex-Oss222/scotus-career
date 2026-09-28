@@ -201,13 +201,14 @@ Determine only the Director’s review entitlement on the identified component. 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** Greenwich Collieries is now effective same-field simulated law, but its burden-of-proof holding does not answer whether the Director is "adversely affected or aggrieved." The proposed Newport News result must rest on §921(c) and the Director's own legally cognizable interest, not a generalized agency-enforcement theory.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** Greenwich Collieries is now effective same-field simulated law, but its burden-of-proof holding does not answer whether the Director is "adversely affected or aggrieved." The proposed Newport News result must rest on §921(c) and the Director's own legally cognizable interest, not a generalized agency-enforcement theory.
 
 ## B. FIXED CORE
 
@@ -220,7 +221,7 @@ Determine only the Director’s review entitlement on the identified component. 
 - **Required Legal Propositions:** The Director’s general interest in correct administration does not by itself make him adversely affected or aggrieved under § 921(c) with respect to this claimant’s unappealed benefits award. Affirm that reviewed dismissal, without disturbing the distinct Special Fund component.
 - **Express Exclusions:** A categorical rule that government can never be aggrieved; borrowing the employee’s unasserted appellate right; disturbing the Fund ruling by an undifferentiated mandate.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -537,13 +538,14 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The prior brief duplicated Suter and risked making an enforcement-channel case do substantive AFDC work it does not own. The refreshed brief uses Suter only for source separation; the proposed Anderson v. Edwards result remains a construction of the AFDC unit rules themselves.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The prior brief duplicated Suter and risked making an enforcement-channel case do substantive AFDC work it does not own. The refreshed brief uses Suter only for source separation; the proposed Anderson v. Edwards result remains a construction of the AFDC unit rules themselves.
 
 ## B. FIXED CORE
 
@@ -556,7 +558,7 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 - **Required Legal Propositions:** Federal AFDC law does not categorically prohibit California from grouping the covered needy applicants with their common caretaker in one assistance unit. Mandatory federal family-inclusion rules are not exclusive unit definitions, and grouping applicants is not by itself impermissible imputation of outside income. The cited equitable-treatment and assistance-unit regulations do not categorically forbid this common-caretaker grouping, and the scheme does not occupy unit definition so completely as to eliminate the state choice at issue. Guidance may confirm the reading but does not create the authority.
 - **Express Exclusions:** Automatic deference in place of statutory interpretation; a categorical entitlement to separate assistance-unit allowances; an immunity for actual unlawful income deeming.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1240,13 +1242,14 @@ Correct the legal sequence and direct review on the existing statutory standards
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** Daubert is controlling simulated evidence law but does not supply a Vaccine Act causation test. The Whitecotton analysis must keep evidentiary admissibility separate from the statutory first-onset and significant-aggravation routes.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** Daubert is controlling simulated evidence law but does not supply a Vaccine Act causation test. The Whitecotton analysis must keep evidentiary admissibility separate from the statutory first-onset and significant-aggravation routes.
 
 ## B. FIXED CORE
 
@@ -1259,7 +1262,7 @@ Correct the legal sequence and direct review on the existing statutory standards
 - **Required Legal Propositions:** A first-onset Table claim requires the first symptom or manifestation of the claimed injury within the applicable period. A later symptom of an injury already present does not satisfy that route. The Federal Circuit’s contrary construction must be reversed, without deciding whether its challenged preexisting-injury finding is factually sustainable. Remand for proper review of the preexisting-injury finding and the significant-aggravation claim under their distinct statutory requirements. Reach the Government’s unrelated-cause defense only if a qualifying Table claim is established; reserve the disputed application of that defense rather than decide it hypothetically.
 - **Express Exclusions:** “Any symptom” in place of first onset; actual-causation proof as a universal Table prerequisite; automatic disqualification for preexisting illness; use of a later Table.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
