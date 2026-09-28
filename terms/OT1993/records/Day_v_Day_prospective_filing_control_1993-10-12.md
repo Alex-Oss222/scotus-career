@@ -1,7 +1,7 @@
 **Case and dockets:** Day v. Day, Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430.
 **Event and date:** Prospective filing-control decision, 1993-10-12; October Term 1993, chunk 1; current fee components not adjudicated.
-**Result:** Decline the new prospective noncriminal-certiorari fee-and-form condition, 9–0; eight current Rule 39 motions remain unadjudicated.
-**Version / lineage:** Initial record; supersedes no adjudication. Operator Git commitment pending; no Git command run or commit claimed.
+**Result:** Decline the new prospective noncriminal-certiorari fee-and-form condition, 9–0; eight current Rule 39 motions permanently closed by express operator scope decision, without adjudication or further Court action.
+**Version / lineage:** Version 1.1 replaces the initial record's current-fee status only. By express operator decision on September 27, 2026, the eight current motions are permanently closed without further Court action because the petitions and affidavits needed to adjudicate them do not exist and are not expected to become available; this is a scope decision, not a Court finding. The prospective adjudication is unchanged. Git verification and commitment are deferred.
 
 ## Event and chronology
 
@@ -61,11 +61,13 @@ The governing rule remains individual treatment under existing filing rules unle
 
 ## Continuity
 
-No published noncontrolling proposition is added. Stone's private current-motion grants do not enter public continuity or current law. The prospective question is completed by this dated action; the eight fee motions remain open and source-stopped, so the inventory matter is neither wholly completed nor wholly blocked. The disposition changes no roster, allotment, or standing institutional practice and supplies no new current filing deadline or clerical instruction. No connected external consequence is admitted.
+No published noncontrolling proposition is added. Stone's private current-motion grants do not enter public continuity or current law. The prospective question is completed by this dated action; the eight current fee motions are permanently closed under the express scope decision stated in the lineage, without adjudication or further Court action. The inventory matter is fully resolved for term tracking. The disposition changes no roster, allotment, or standing institutional practice and supplies no new current filing deadline or clerical instruction. No connected external consequence is admitted.
 
-No new prospective fee-and-form condition is imposed. The current Rule 39 motions in Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 remain unadjudicated by this decision. That statement describes the decision's scope: it grants or denies no current motion, enters no stay or continuance, fixes no payment or correction deadline, and directs no new filing or further-consideration procedure. No petition for certiorari or underlying claim is disposed of. Existing rules remain operative, and the broader grouped matter remains open to the extent of its unresolved current motions.
+No new prospective fee-and-form condition is imposed. The current Rule 39 motions in Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 remain unadjudicated by this decision. That statement describes the decision's scope: it grants or denies no current motion, enters no stay or continuance, fixes no payment or correction deadline, and directs no new filing or further-consideration procedure. No petition for certiorari or underlying claim is disposed of. Existing rules remain operative.
 
 ## Adaptive Audit Annex
+
+The frozen current-fee descriptions below document the source stop at the original assembly. They do not survive as open commitments after the express scope closure in Version 1.1. No private approved position is converted into a Court vote.
 
 ### Authorized stages and compatibility
 
@@ -95,7 +97,7 @@ The historical current-fee denials are not comparators to completed current-fee 
 
 Research cutoff: October 12, 1993. In-world law and facts are limited to that event date; no later law or external event enters. The complete [three-page official Day report text](../sources/chunk1/day_510_1.txt), extracted from the [official PDF](../sources/chunk1/day_510_1.pdf), was read; it supports identities, reported volume, and the historical comparator but does not itself supply in-world October or June adjudications. The exact Zatko, Martin, and Demos entries were read in the entering-law slice. Modern retrieval and incomplete catalog access are documented only in the internal [comparator source validation](../freeze/COMPARATOR_SOURCE_VALIDATION.md). No Justia retrieval was performed and no quotation is invented.
 
-Exact current-fee blockers remain the absent eight current petitions or verified decision-material contents, and the corresponding financial affidavits or an express controlling factual eligibility stipulation. Eligibility alone would not supply the current-paper screening basis. Any earlier in-world Day action relied on would need its actual authorized Record or equivalent admitted source. These are operator source limits, not a public judicial assertion that the Court lacks its own papers. They stop only the current motions and do not undo the independently supported prospective refusal.
+Former source blocker and permanent scope closure: The eight current fee motions are permanently closed without further Court action because the underlying current petitions and financial affidavits needed to adjudicate them do not exist and are not expected to become available. This is the operator's expressly authorized scope decision of September 27, 2026, not a Court finding or disposition. No Justice is assigned a current-fee vote, eligibility determination, finding of frivolousness or malice, or other finding. The published prospective filing-control decision, its votes, reasoning, and effect remain unchanged. No current-fee matter is carried forward. The missing source material remains a limit on what can truthfully be adjudicated, not an outstanding task or a public claim that the Court lacks its own papers.
 
 Performed checks: comparison with the exact approved prospective core; every frozen Justice's sufficient ground and join barrier; distinct treatment of current fees and future controls; lawful referred channel; all nine participants, quorum, majority and 9–0 arithmetic; statutory/precedent limits; exact eleven-block Public Projection order; internal/public Holdings identity; controlling explanation within 120–200 words; and local link resolution. The mechanical vote aid is [assembly D votes](../freeze/OT_1993CHUNK1_ASSEMBLY_D_VOTES.json). Whole-term validation, effective-date propagation, the clean Sassower refresh, and operator Git preservation remain outside this assembly; none is represented as already performed. This is initial durable component output pending those coordinated operations.
 
@@ -159,7 +161,7 @@ No separate writing issues.
 
 ## Procedure After Action
 
-No new prospective fee-and-form condition is imposed. The current Rule 39 motions in Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 remain unadjudicated by this decision. That statement describes the decision's scope: it grants or denies no current motion, enters no stay or continuance, fixes no payment or correction deadline, and directs no new filing or further-consideration procedure. No petition for certiorari or underlying claim is disposed of. Existing rules remain operative, and the broader grouped matter remains open to the extent of its unresolved current motions.
+No new prospective fee-and-form condition is imposed. The current Rule 39 motions in Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 remain unadjudicated by this decision. That statement describes the decision's scope: it grants or denies no current motion, enters no stay or continuance, fixes no payment or correction deadline, and directs no new filing or further-consideration procedure. No petition for certiorari or underlying claim is disposed of. Existing rules remain operative.
 
 ## Source Notes
 

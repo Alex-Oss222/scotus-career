@@ -1,0 +1,54 @@
+{
+  "judgment": {
+    "affirm": [
+      "Stone-Zsela",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter"
+    ],
+    "dissent_on_channel": [
+      "Scalia",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "vote": "6–3"
+  },
+  "present_live_holding": [
+    "Stone-Zsela",
+    "Blackmun",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "court_merits_holdings": [
+    "Stone-Zsela",
+    "Blackmun",
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter"
+  ],
+  "ginsburg_conditional_constitutional_agreement": "separate, noncontrolling; no extra majority join",
+  "scalia_constitutional_alternative": [
+    "Scalia",
+    "Thomas"
+  ],
+  "source_projection_paragraphs_preserved_in_render": [
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "day_sassower_public_entry_changes": "only removal of continuing-open language",
+  "git_commands_executed": 0
+}

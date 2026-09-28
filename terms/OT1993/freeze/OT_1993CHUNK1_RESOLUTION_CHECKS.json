@@ -1,0 +1,37 @@
+{
+  "changed_existing_files": [
+    "terms/OT1993/freeze/OT_1993CHUNK1_STOPPED.json",
+    "terms/OT1993/output/OT_1993CHUNK1.md",
+    "terms/OT1993/records/Day_v_Day_prospective_filing_control_1993-10-12.md",
+    "terms/OT1993/records/In_re_Sassower_prospective_filing_control_1993-10-12.md",
+    "terms/OT1993/render-inputs/OT_1993CHUNK1.md",
+    "terms/OT1993/workspace/continuity.md",
+    "terms/OT1993/workspace/ledger.md",
+    "terms/OT1993/workspace/manifest.md",
+    "terms/OT1993/workspace/neutral-projection.md"
+  ],
+  "unrelated_public_entries_byte_identical": [
+    "Florence County School District Four v. Carter, No. 91-1523",
+    "Harris v. Forklift Systems, Inc., No. 92-1168",
+    "Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., No. 92-1123",
+    "John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, No. 92-1074",
+    "Tennessee v. Middlebrooks, No. 92-989",
+    "United States v. James Daniel Good Real Property, No. 92-1180",
+    "Burden v. Zant, No. 92-8836",
+    "Ratzlaf v. United States, No. 92-1196",
+    "Thunder Basin Coal Co. v. Reich, No. 92-896"
+  ],
+  "day_sassower_holdings_judgments_topology": "unchanged",
+  "new_cavanaugh_entries": 1,
+  "stopped_chunk1_matters": 0,
+  "three_manifest_statuses": "Completed",
+  "chronology_cursor": "June 6, 1994 unchanged",
+  "controlling_explanation_word_counts": [
+    158,
+    169,
+    173
+  ],
+  "new_record_local_links": "resolved",
+  "git_commands_executed": 0,
+  "git_verification": "deferred to operator; not passed"
+}
