@@ -855,3 +855,5 @@ Ginsburg separately dissents. She also would reverse the invalidity ground and r
 The Third Circuit judgment and Kmart's summary judgment stand. The Court orders no further calculation, substituted tariff, agency referral, or bankruptcy distribution. It does not decide contract carriage, rate reasonableness, estoppel, collateral estoppel, or unpresented statutory relief. The waived limitations defense and unpreserved reasonable-compensation theory are not revived. No election or remedy under the Negotiated Rates Act is adjudicated. Thomas and Ginsburg would remand after rejecting invalidity, leaving other properly presented defenses for further proceedings rather than immediately awarding undercharges.
 
 **End of entry: Security Services, Inc. v. Kmart Corp., Merits decision, May 16, 1994.**
+
+---
