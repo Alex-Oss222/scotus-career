@@ -412,7 +412,8 @@ Review is limited to the issues stated above, necessary antecedents, and the rem
 |---|---|---|
 | The S/S EM FORD broke from its berth, struck the wall, and sank in Milwaukee Harbor. | Established accident background | 31 F.3d at 582; 915 F.2d 1154 (7th Cir. 1990). |
 | The prior appellate disposition allocated two-thirds fault to National Gypsum and one-third to the City. | Prior judgment, not a new finding sought here | 31 F.3d at 582. |
-| The parties settled principal damages at $1,677,541.86 and left the interest question open; the City paid the principal. | Undisputed partial settlement and judgment | 31 F.3d at 582. |
+| The parties settled principal damages at <!-- BEGIN_CASE OT1994-076 -->
+,677,541.86 and left the interest question open; the City paid the principal. | Undisputed partial settlement and judgment | 31 F.3d at 582. |
 | The district court denied interest on mutual-fault and municipal financing grounds. | Ruling under review | 31 F.3d at 582–583. |
 
 ### 3. Threshold and vehicle matters
@@ -432,18 +433,16 @@ The accident litigation culminated in the 1990 fault allocation. The parties sub
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-12. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-12. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Maritime compensation and settlement allocation do not themselves establish an exception to prejudgment interest.
+**Authority and application:** Simulated *McDermott* adopts proportionate-share settlement credit in general maritime tort and keeps settlement allocation distinct from unrelated insolvency and statutory questions. Simulated *Boca Grande* applies that rule to a corresponding contribution demand. Those cases reinforce compensatory allocation and the separation of settlement consequences from other remedies, but neither creates an exception to ordinary maritime prejudgment interest.
 
-- [McDermott, Inc. v. AmClyde; No. 92-1479.](inherited/readings/OT1994-076.md#authority-1)
-- [Boca Grande Club, Inc. v. Florida Power & Light Co., No. 93-180.](inherited/readings/OT1994-076.md#authority-2)
+- [McDermott, Inc. v. AmClyde — proportionate-share maritime settlement allocation](../../OT1993/records/McDermott_Inc_v_AmClyde_merits_1994-04-20.md)
+- [Boca Grande Club v. Florida Power & Light — application of McDermott to contribution](../../OT1993/records/Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -542,10 +541,13 @@ The legality of the asserted exceptions can be decided without independently cal
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The completed simulated maritime allocation cases support the distinction between allocating fault once and compensating the adjudicated share. They do not make comparative fault or an ordinary liability dispute an independent basis to deny prejudgment interest.
 
 ## B. FIXED CORE
 
@@ -878,17 +880,15 @@ The insurers first filed in December 1992, dismissed, and refiled in February 19
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-12. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-12. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The source of jurisdiction and the kind of relief matter; general abstention limits do not decide the Declaratory Judgment Act's discretion.
+**Authority and application:** Simulated *Ankenbrandt* treats abstention as exceptional and source-specific, rejecting Younger and Burford grounds that were not actually satisfied. It does not make every exercise of federal jurisdiction mandatory. Wilton presents a different source: the Declaratory Judgment Act itself makes the requested declaration discretionary. The question is therefore whether Brillhart gives effect to that remedial discretion without importing a general power to decline ordinary coercive jurisdiction.
 
-- [Ankenbrandt v. Richards, 504 U.S. 689 (1992)](inherited/readings/OT1994-078.md#authority-1)
+- [Ankenbrandt v. Richards — limited abstention and ordinary federal jurisdiction](../../OT1991/records/Ankenbrandt_v_Richards_merits_1992-06-15.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -987,10 +987,13 @@ The declaration-only stay may be evaluated. Any claimed additional coercive caus
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The proposed Wilton result is consistent with simulated Ankenbrandt only if it is grounded in the Declaratory Judgment Act's own discretionary remedy. It must not be stated as a broad new abstention license for coercive claims or nonparallel proceedings.
 
 ## B. FIXED CORE
 
@@ -1169,18 +1172,19 @@ The injury occurred in 1980 and the award in 1983. Later earnings prompted modif
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-12. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-12. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The LHWCA's enacted compensation and modification provisions govern; related coverage decisions do not replace § 22's conditions.
+**Authority and application:** Simulated *Cowart* and *Bath Iron Works* enforce the LHWCA by statutory branch and keep entitlement, filing, coverage, and remedy in their assigned provisions. The later simulated *Greenwich Collieries* decision places persuasion on the proponent under the APA unless an applicable statutory rule supplies a different allocation. Together they support applying §22 to the legally relevant change in injury-related earning capacity while requiring the modification proponent to prove the qualifying change. Increased wages remain evidence, not an automatic presumption of full recovery.
 
-- [Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469 (1992)](inherited/readings/OT1994-079.md#authority-1)
-- [Bath Iron Works Corp. v. Director, Office of Workers’ Compensation Programs, 506 U.S. 153 (1993)](inherited/readings/OT1994-079.md#authority-2)
+- [Estate of Cowart v. Nicklos Drilling Co. — LHWCA entitlement and statutory conditions](../../OT1991/records/Estate_of_Cowart_v_Nicklos_Drilling_Co_merits_1992-06-22.md)
+- [Bath Iron Works Corp. v. Director, OWCP — LHWCA branch-specific compensation and filing rules](../../OT1992/records/bath-iron-works-v-director-owcp-merits-1993-01-12.md)
+- [Director, OWCP v. Greenwich Collieries — APA persuasion rule and preserved statutory presumptions](../../OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Prospective same-term matter:** *Director, OWCP v. Newport News Shipbuilding* is scheduled earlier in OT1994 but no Decision Record exists at this refresh. In any event, its prepared issue concerns the Director's appellate aggrievement, not the substantive §22 modification standard, so it must not be treated as controlling this question without an actual holding that bears on it.
 
-**Forward OT1994 dependencies:** Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co. (1995-03-21, chunk 4). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1282,10 +1286,13 @@ The legal modification question can be decided; all actual compensation conseque
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** Greenwich Collieries is the material completed same-field refresh. It supports the brief's allocation of proof to the modification proponent but does not create a presumption from wages or alter §22's grounds.
 
 ## B. FIXED CORE
 
@@ -1312,7 +1319,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Economic change under § 22
 
 - **Threshold and Merits Reach:** Stone reaches the legal ground for timely modification and the necessary remand; he does not order benefits terminated without the required capacity application.
-- **Current Governing Rule:** Disability for this nonscheduled award is economic incapacity caused by injury, and § 22 permits timely modification when the relevant conditions change.
+- **Current Governing Rule:** Section 22 permits modification on its enacted grounds. Simulated *Greenwich Collieries* places persuasion on the proponent absent a statutory exception; the employer therefore must prove a qualifying change in injury-related earning capacity. Actual wages are probative but create no automatic presumption of full recovery.
 - **Stone’s Legal Position:** Apply the Act’s economic definition and clarify that the modification ground is not confined to physical change.
 - **Stone’s Proposed Holding:** Section 22 permits modification of a nonscheduled disability award for a demonstrated change in injury-related earning capacity even when physical impairment is unchanged. Reverse and remand for application of the full economic-capacity standard, not automatic termination from increased wages.
 - **Essential Reasoning:** The statute compensates an injury’s effect on earning ability in this category, rather than paying a fixed amount for bodily impairment alone. The reopening provision should track that legally relevant condition while retaining its own grounds, time limit, and safeguards.
@@ -1550,19 +1557,19 @@ The challenged events occurred in 1988. The district court ruled in 1991, and th
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-12. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-12. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Separate legal immunity questions from contested motive facts; no direct-evidence requirement is inferred from general immunity law.
+**Authority and application:** Simulated *Elder* holds that appellate qualified-immunity review is a legal inquiry using all relevant authority, while preserving the proper summary-judgment record and leaving disputed liability facts unresolved. Simulated *Leatherman* rejects a special heightened municipal §1983 pleading rule absent a source in the Rules or legislation, while expressly leaving individual-officer rules open. *Digital Equipment* reinforces the difference between a separable legal question and factual merits adjudication. None establishes a direct-evidence-only condition for motive.
 
-- [Elder v. Holloway; No. 92-8579.](inherited/readings/OT1994-081.md#authority-1)
-- [Digital Equipment Corp. v. Desktop Direct, Inc.; No. 93-405.](inherited/readings/OT1994-081.md#authority-2)
-- [Leatherman v. Tarrant County Narcotics Intelligence and Coordination Unit, 507 U.S. 163 (1993)](inherited/readings/OT1994-081.md#authority-3)
+- [Elder v. Holloway — legal qualified-immunity review and proper record limits](../../OT1993/records/Elder_v_Holloway_merits_1994-02-23.md)
+- [Leatherman v. Tarrant County — no extra municipal §1983 pleading rule; individual-officer issue reserved](../../OT1992/records/leatherman-v-tarrant-county-merits-1993-03-03.md)
+- [Digital Equipment Corp. v. Desktop Direct — separable legal review and finality limits](../../OT1993/records/Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Same-day dependency:** *Johnson v. Jones* is scheduled for the same date. Under the Engine, uncoordinated same-day decisions share the same entering baseline. With no established coordinated sequence and no OT1994 Decision Record, Johnson cannot supply law to Kimberlin at this stage.
 
-**Forward OT1994 dependencies:** Johnson v. Jones (1995-06-12, chunk 7). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1712,10 +1719,13 @@ Complete proposed legal positions are supplied for the admitted pure-law controv
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The simulation contains no controlling direct-evidence requirement. The proposed vacatur should therefore correct the categorical evidentiary rule without using interlocutory review to resolve disputed motive, participation, or causation.
 
 ## B. FIXED CORE
 
@@ -1742,7 +1752,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Interlocutory legal review
 
 - **Threshold and Merits Reach:** Stone reaches only the separable legal rule under Mitchell on the supplied baseline. Runtime reach remains conditional on verification of the identified same-day controlling source; a contrary actual rule requires renewed approval, not an inferred fallback.
-- **Current Governing Rule:** Mitchell permits review to the extent immunity turns on a separable issue of law. Any earlier effective simulated decision refining that boundary must be applied at its actual scope.
+- **Current Governing Rule:** Qualified immunity remains an objective legal defense, and motive remains an element of the underlying retaliation claim where that doctrine requires it. Simulated *Elder*, *Leatherman*, and *Digital Equipment* supply no direct-evidence-only condition and preserve the distinction between legal review and disputed facts.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** The legality of a categorical direct-evidence condition is a separable question of law; review of that question does not authorize appellate resolution of contested motive, participation, or causation. The remand must preserve the applicable boundary of interlocutory jurisdiction.
 - **Essential Reasoning:** A legal exclusion of an entire category of evidence can be reviewed without declaring any particular witness credible. That distinction allows correction of the rule while keeping factual disputes with the lawful decisionmaker.
@@ -1992,17 +2002,15 @@ The alleged injury occurred during the May 1989 voyage; the later drydock period
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-14. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-14. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The status of a worker, the vessel's navigation status and available maritime remedies remain distinct.
+**Authority and application:** Simulated *Gizoni* is controlling maritime worker-status law: listed occupational work and voluntary unadjudicated LHWCA benefits do not categorically bar Jones Act seaman status, and job labels, platform characteristics, and other single facts do not replace the substantial employment-related vessel-connection inquiry. It left ultimate status to factfinding. That premise materially supports a Chandris rule focused on the worker's actual relationship to the vessel or fleet rather than an occupational label or a judicially invented percentage.
 
-- [Southwest Marine, Inc. v. Gizoni, 502 U.S. 81 (1991)](inherited/readings/OT1994-083.md#authority-1)
+- [Southwest Marine, Inc. v. Gizoni — Jones Act/LHWCA status and factual vessel connection](../../OT1991/records/Southwest_Marine_v_Gizoni_merits_1991-12-04.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -2139,10 +2147,13 @@ The lawful instruction and new-trial consequence may be decided; ultimate statut
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The proposed Chandris position now expressly follows the simulation's Gizoni holding. It may clarify nature and duration as aspects of the vessel-connection inquiry, but it should not invent a numerical percentage or treat drydock service as categorically irrelevant.
 
 ## B. FIXED CORE
 
@@ -2169,7 +2180,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Employment-related vessel connection
 
 - **Threshold and Merits Reach:** Stone reaches this issue within the admitted review scope, subject to the specific threshold and preservation treatment in Section I.C. He does not treat a merits answer as supplying jurisdiction or a missing factual finding.
-- **Current Governing Rule:** Wilander requires contribution to the vessel’s work and an employment-related connection to a vessel in navigation, distinguishing sea-based service from incidental land-based work.
+- **Current Governing Rule:** Under *Wilander* and the simulated *Gizoni* holding, seaman status turns on contribution to a vessel's function and a substantial employment-related connection to a vessel in navigation; occupational labels and isolated facts do not categorically resolve status. Nature and duration may inform the connection without becoming an invented numerical threshold.
 - **Stone’s Legal Position:** Clarify Wilander’s open connection requirement only as needed to evaluate the disputed instruction. Do not create a new quantitative cutoff.
 - **Stone’s Proposed Holding:** Seaman status requires performance contributing to a vessel’s mission and a substantial employment-related connection to that vessel or an identifiable fleet, assessed in the nature and duration of the actual assignment. Neither a job label nor an isolated moment aboard conclusively decides the question.
 - **Essential Reasoning:** The statute protects the ship’s workforce without converting every land-based visitor into crew. Nature and duration are aspects of the received connection inquiry, not a numerical score or a substitute for the actual assignment.
@@ -2336,21 +2347,18 @@ The earlier cocaine activity was considered at the 1992 sentencing on the mariju
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-14. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-14. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Separate punishment, offense identity and consideration of conduct at sentencing; Kurth Ranch's punitive-tax analysis is limited to its unusual exaction.
+**Authority and application:** The simulated law materially differs from history. Simulated *Dixon* expressly retained *Grady* by five votes; it did not overrule the same-conduct rule. Simulated *Felix* likewise preserves the distinction between a later prosecution of already prosecuted criminal conduct and mere reuse of evidence, while maintaining conspiracy as a distinct offense. Simulated *Kurth Ranch* treats an unusual postconviction drug assessment as punishment on the preserved same-offense premise, but confines that result to the scheme's combined punitive operation. *R.L.C.* reinforces that punishment is bounded by the legal range and source authorizing the sentence. Witte must therefore be decided consistently with retained Grady, not with the historical Dixon overruling.
 
-- [United States v. Dixon, 509 U.S. 688 (1993)](inherited/readings/OT1994-084.md#authority-1)
-- [United States v. Felix, 503 U.S. 378 (1992)](inherited/readings/OT1994-084.md#authority-2)
-- [Department of Revenue of Montana v. Kurth Ranch; No. 93-144.](inherited/readings/OT1994-084.md#authority-3)
-- [United States v. R. L. C., 503 U.S. 291 (1992)](inherited/readings/OT1994-084.md#authority-4)
-- [United States v. R. L. C., 503 U.S. 291 (1992)](inherited/readings/OT1994-084.md#authority-5)
+- [United States v. Dixon — Grady expressly retained; fractured application to later counts](../../OT1992/records/United_States_v_Dixon_merits_1993-06-28.md)
+- [United States v. Felix — evidentiary overlap and distinct-offense/conspiracy rule](../../OT1991/records/United_States_v_Felix_merits_1992-03-25.md)
+- [Department of Revenue of Montana v. Kurth Ranch — unusual punitive exaction and narrow double-jeopardy rule](../../OT1993/records/Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md)
+- [United States v. R.L.C. — lawful sentencing range and source of punishment](../../OT1991/records/United_States_v_RLC_merits_1992-03-24.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Forward OT1994 dependencies:** United States v. Harris (1995-04-27, chunk 5). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -2358,7 +2366,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 - **Williams v. Oklahoma, 358 U.S. 576, 584–586 (1959); McMillan v. Pennsylvania, 477 U.S. 79 (1986):** A sentencing court may consider relevant conduct in selecting punishment within the range lawfully authorized for the offense of conviction. These sources do not authorize unlimited punishment outside that range or erase independent jury and due-process constraints.
 
-- **Blockburger v. United States, 284 U.S. 299 (1932); United States v. Dixon, 509 U.S. 688 (1993):** Offense identity and governing statutory elements matter; Dixon displaced Grady’s same-conduct approach before the simulation’s divergence. Neither decision makes all repeated evidence a second prosecution.
+- **Blockburger v. United States, 284 U.S. 299 (1932); simulated United States v. Dixon (June 28, 1993); simulated United States v. Felix (March 25, 1992):** Offense identity remains important, but the simulation expressly retained Grady's additional successive-prosecution protection. At the same time, Felix establishes that reuse of evidence about conduct, without an earlier prosecution for the distinct offense, is not itself a second prosecution. Witte must fit both propositions.
 
 - **Applicable Sentencing Guidelines §§ 1B1.3 and 5G1.3:** Relevant-conduct and undischarged-sentence coordination rules govern their assigned sentencing tasks. Their application may prevent duplicative punishment but does not guarantee that every later sentence is barred or that the earlier departure must be repeated.
 
@@ -2490,10 +2498,13 @@ The prosecution bar may be decided; a future sentencing dispute requires its own
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** This is a substantive correction. The prior brief incorrectly said simulated Dixon displaced Grady. It did the opposite: Grady survives. The proposed affirmance remains coherent only because the earlier marijuana sentencing used cocaine conduct to determine punishment for the marijuana offense; it was not a prior prosecution of the cocaine offense. Felix's evidence-use distinction, rather than a historical overruling of Grady, supports that route.
 
 ## B. FIXED CORE
 
@@ -2504,7 +2515,7 @@ The prosecution bar may be decided; a future sentencing dispute requires its own
 - **Issues Reached:** Issue 1, Relevant conduct and prior punishment; Issue 2, Coordinated sentencing and remaining remedies.
 - **Issues Not Reached:** Cocaine guilt, a new sentence, correction of the earlier Guidelines calculation, unpresented plea-contract relief, and punishment outside the authorized statutory range.
 - **Required Legal Propositions:** Consideration of relevant uncharged conduct in selecting a sentence within the statutory range for the offense of conviction does not itself constitute punishment for the uncharged offense under the Double Jeopardy Clause. The prior marijuana sentence therefore does not bar this cocaine prosecution. The possibility of a later overlapping sentence does not itself bar this prosecution. Any resulting sentence must be calculated under the applicable coordination provisions and independent constitutional limits; no particular consecutive or concurrent sentence is approved here.
-- **Express Exclusions:** A same-evidence rule for successive prosecution; a guarantee of cumulative imprisonment; reliance on labels alone; using Harris’s single-prosecution holding to avoid the distinct prior-punishment question.
+- **Express Exclusions:** A same-evidence bar; any overruling or silent narrowing of simulated Grady; a guarantee of cumulative imprisonment; reliance on sentencing labels alone; use of Kurth Ranch beyond its distinct punitive-exaction setting.
 
 These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
 
@@ -2520,10 +2531,10 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Relevant conduct and prior punishment
 
 - **Threshold and Merits Reach:** Stone reaches the Double Jeopardy bar to prosecution, not correction of the earlier sentence or proof of the new offenses.
-- **Current Governing Rule:** Prior punishment is identified from the legal offense and sentence, not the fact that related misconduct informed punishment within its authorized range.
-- **Stone’s Legal Position:** Apply the distinction between sentencing considerations and a separate offense judgment; distinguish the simulated Kurth Ranch punitive exaction.
+- **Current Governing Rule:** Simulated *Dixon* expressly retains *Grady*: a later prosecution is barred when an essential element requires proof of conduct constituting an offense already prosecuted, while mere evidence reuse or a common episode is insufficient. Simulated *Felix* preserves that evidence-use distinction. The separate question here is whether relevant-conduct consideration at the first sentencing was itself punishment or prosecution for the later cocaine offenses.
+- **Stone’s Legal Position:** Apply the simulation's retained Grady rule together with Felix's evidence-use distinction and distinguish the simulated Kurth Ranch punitive exaction. Do not rely on the historical overruling of Grady, which did not occur in this timeline.
 - **Stone’s Proposed Holding:** Consideration of relevant uncharged conduct in selecting a sentence within the statutory range for the offense of conviction does not itself constitute punishment for the uncharged offense under the Double Jeopardy Clause. The prior marijuana sentence therefore does not bar this cocaine prosecution.
-- **Essential Reasoning:** The first judgment imposed a legally authorized consequence of the marijuana conviction. The cocaine facts informed the severity of that consequence but did not authorize a separate conviction or sentence for cocaine. This identifies the legal basis and range of punishment rather than dismissing its practical effect.
+- **Essential Reasoning:** The first judgment imposed punishment authorized by the marijuana conviction. The cocaine facts increased the sentencing calculation, but the court did not adjudicate a cocaine charge or impose a separate legal punishment for a cocaine offense. That is materially different from the successive prosecution Grady forbids and from the separate punitive exaction in simulated *Kurth Ranch*. Felix confirms that legal use of overlapping conduct as evidence does not itself place the defendant in jeopardy for every distinct offense the evidence describes.
 - **Record Application:** The 144-month sentence remained within the range authorized for the marijuana conviction. No cocaine acquittal or separate cocaine punishment occurred in that judgment. The new indictment can proceed without a finding of guilt now.
 - **Principal Contrary Argument:** The effect on imprisonment was real; the Court must explain why the legal characterization is substantive rather than let the sentencing label alone decide.
 - **Stone’s Answer:** Consideration of relevant uncharged conduct in selecting a sentence within the statutory range for the offense of conviction does not itself constitute punishment for the uncharged offense under the Double Jeopardy Clause. The prior marijuana sentence therefore does not bar this cocaine prosecution. No approval of punishment above an independently authorized maximum, use of an invalid conviction, disregard of an acquittal, or a new substantive sentencing-proof rule.
