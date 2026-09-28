@@ -1,0 +1,189 @@
+# OT1994 Full-Term Event Manifest
+
+**Opening status:** Open; four-file workspace populated and validated. No OT1994 adjudication has occurred.
+
+Seeded by `tools/open_term.py OT1994`, then reconciled with the opening Standing State and the supplied neutral intake. This is a planning projection, not a Record or source of law. The [inventory](../case-list.md) contains **99 matters: 97 MERITS and 2 ORIGINAL**, across nine chunks. Eight matters are carried open; Nebraska v. Wyoming is already one of the 99. The full opening manifest therefore accounts for **106 distinct matters: 99 scheduled events and seven additional unscheduled carryovers**, not 107 scheduled Court events.
+
+## Scheduled inventory and chronology
+
+Dates below are the supplied inventory's planning dates, confirmed against Section I of each brief. They are not newly adjudicated Court actions or a certification of historical grants. The fifteen `+` matters use the supplied simulation-assigned dockets; their established merits posture is carried from Standing State without inventing grant dates or petition polls. Consolidated companions count once. No application or petition-stage event is listed among the 99 supplied events.
+
+**Same-day grouping:** every equal event date is one same-day group, including groups split across chunks: 1995-01-10 (1/2), 1995-02-21 (2/3), 1995-04-19 (4/5), 1995-05-15 (5/6), 1995-06-05 (6/7), 1995-06-14 (7/8), and 1995-06-29 (8/9). Inventory order is a display tie-break only. No OT1994 coordinated release sequence is established at opening. Uncoordinated events on the same date use the common pre-group law, even when their Run tasks occur separately.
+
+The next dated inventory event is **United States v. Shabani, No. 93-981, 1994-11-01, chunk 1**, subject to its Run intake. The seven additional carryovers have no supplied next-event date and are not assigned an invented chunk. An admitted intervening event or source must be integrated by its actual effective date before a dependent adjudication.
+
+| Chunk | Inventory matters | Inventory numbers | First scheduled event | Last scheduled event |
+|---|---|---|---|---|
+| 1 | 12 | 1–12 | 1994-11-01 | 1995-01-10 |
+| 2 | 12 | 13–24 | 1995-01-10 | 1995-02-21 |
+| 3 | 12 | 25–36 | 1995-02-21 | 1995-03-20 |
+| 4 | 12 | 37–48 | 1995-03-21 | 1995-04-19 |
+| 5 | 12 | 49–60 | 1995-04-19 | 1995-05-15 |
+| 6 | 12 | 61–72 | 1995-05-15 | 1995-06-05 |
+| 7 | 12 | 73–84 | 1995-06-05 | 1995-06-14 |
+| 8 | 12 | 85–96 | 1995-06-14 | 1995-06-29 |
+| 9 | 3 | 97–99 | 1995-06-29 | 1995-06-29 |
+
+| Event date | Chunk | Case or matter | Citation or docket | Matter type | Date status or event type | Status | Current stage |
+|---|---|---|---|---|---|---|---|
+| 1994-11-01 | OT_1994CHUNK1 | United States v. Shabani | 93-981 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-11-08 | OT_1994CHUNK1 | U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership | 93-714 | MERITS | Merits decision | Open; no OT1994 action completed | Residual equitable vacatur/mootness question; original bankruptcy merits not a live path |
+| 1994-11-14 | OT_1994CHUNK1 | Hess v. Port Authority Trans-Hudson Corp. | 93-1197 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-11-29 | OT_1994CHUNK1 | United States v. X-Citement Video, Inc. | 93-723 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-12-05 | OT_1994CHUNK1 | Church of Scientology Flag Service Organization, Inc. v. City of Clearwater + | 93-1062 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-12-06 | OT_1994CHUNK1 | Federal Election Commission v. NRA Political Victory Fund | 93-1151 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-12-06 | OT_1994CHUNK1 | Reich v. Collins | 93-908 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-12-12 | OT_1994CHUNK1 | Brown v. Gardner | 93-1128 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-12-12 | OT_1994CHUNK1 | Nebraska Department of Revenue v. Loewenstein | 93-823 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1994-12-12 | OT_1994CHUNK1 | In re Baby K + | 93-1673 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-09 | OT_1994CHUNK1 | Plakas v. Drinski + | 93-1824 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-10 | OT_1994CHUNK1 | Interstate Commerce Commission v. Transcon Lines | 93-1318 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-10 | OT_1994CHUNK2 | Tome v. United States | 93-6892 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-17 | OT_1994CHUNK2 | Young v. Northern Illinois Conference of United Methodist Church + | 93-1917 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-18 | OT_1994CHUNK2 | Asgrow Seed Co. v. Winterboer | 92-2038 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-18 | OT_1994CHUNK2 | United States v. Mezzanatto | 93-1340 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-18 | OT_1994CHUNK2 | American Airlines, Inc. v. Wolens | 93-1286 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-18 | OT_1994CHUNK2 | NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co. | 93-1612; 93-1613 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-18 | OT_1994CHUNK2 | Allied-Bruce Terminix Cos. v. Dobson | 93-1001 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-23 | OT_1994CHUNK2 | Schlup v. Delo | 93-7901 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-01-23 | OT_1994CHUNK2 | McKennon v. Nashville Banner Publishing Co. | 93-1543 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-13 | OT_1994CHUNK2 | Fargo Women’s Health Organization v. Schafer + | 93-1712 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-21 | OT_1994CHUNK2 | Lebron v. National Railroad Passenger Corp. | 93-1525 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-21 | OT_1994CHUNK2 | Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co. | 93-768 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-21 | OT_1994CHUNK3 | O'Neal v. McAninch | 93-7407 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-22 | OT_1994CHUNK3 | United States v. National Treasury Employees Union | 93-1170 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-22 | OT_1994CHUNK3 | Harris v. Alabama | 93-7659 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-22 | OT_1994CHUNK3 | Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co. | 93-762; 93-1094 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-02-22 | OT_1994CHUNK3 | Anderson v. Green | 94-197 | MERITS | Per curiam decision after merits submission | Open; no OT1994 action completed | After merits submission; threshold mootness and treatment of preliminary judgments require decision |
+| 1995-02-28 | OT_1994CHUNK3 | Gustafson v. Alloyd Co. | 93-404 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-01 | OT_1994CHUNK3 | Arizona v. Evans | 93-1660 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-01 | OT_1994CHUNK3 | Swint v. Chambers County Commission | 93-1636 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-06 | OT_1994CHUNK3 | Mastrobuono v. Shearson Lehman Hutton, Inc. | 94-18 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-06 | OT_1994CHUNK3 | Curtiss-Wright Corp. v. Schoonejongen | 93-1935 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-06 | OT_1994CHUNK3 | Shalala v. Guernsey Memorial Hospital | 93-1251 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-20 | OT_1994CHUNK3 | Ambassador Books & Video, Inc. v. City of Little Rock + | 93-1886 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-21 | OT_1994CHUNK4 | Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co. | 93-1783 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-22 | OT_1994CHUNK4 | Anderson v. Edwards | 93-1883 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-27 | OT_1994CHUNK4 | Swanner v. Anchorage Equal Rights Commission + | 94-124 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-03-28 | OT_1994CHUNK4 | Qualitex Co. v. Jacobson Products Co. | 93-1577 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-03 | OT_1994CHUNK4 | Oklahoma Tax Commission v. Jefferson Lines, Inc. | 93-1677 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-18 | OT_1994CHUNK4 | Plaut v. Spendthrift Farm, Inc. | 93-1121 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-18 | OT_1994CHUNK4 | Shalala v. Whitecotton | 94-372 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-18 | OT_1994CHUNK4 | Freightliner Corp. v. Myrick | 94-286 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-18 | OT_1994CHUNK4 | Heintz v. Jenkins | 94-367 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-18 | OT_1994CHUNK4 | Lanphere & Urbaniak v. Colorado + | 94-38 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-19 | OT_1994CHUNK4 | Celotex Corp. v. Edwards | 93-1504 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-19 | OT_1994CHUNK4 | McIntyre v. Ohio Elections Commission | 93-986 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-19 | OT_1994CHUNK5 | Stone v. Immigration and Naturalization Service | 93-1199 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-19 | OT_1994CHUNK5 | Kyles v. Whitley | 93-7927 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-19 | OT_1994CHUNK5 | Rubin v. Coors Brewing Co. | 93-1631 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-25 | OT_1994CHUNK5 | California Department of Corrections v. Morales | 93-1462 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-25 | OT_1994CHUNK5 | United States v. Williams | 94-395 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-26 | OT_1994CHUNK5 | United States v. Lopez | 93-1260 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-04-27 | OT_1994CHUNK5 | United States v. Harris + | 94-297 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-01 | OT_1994CHUNK5 | United States v. Robertson | 94-251 | MERITS | Per curiam decision after merits submission | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-08 | OT_1994CHUNK5 | United States v. Pinson + | 94-164 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-15 | OT_1994CHUNK5 | Kansas v. Colorado | 105, Original | ORIGINAL | Original proceeding: exceptions to Special Master report | Open; no OT1994 action completed | Original action; exceptions to Special Master report pending |
+| 1995-05-15 | OT_1994CHUNK5 | Hubbard v. United States | 94-172 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-15 | OT_1994CHUNK6 | City of Edmonds v. Oxford House, Inc. | 94-23 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-15 | OT_1994CHUNK6 | Reynoldsville Casket Co. v. Hyde | 94-3 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-15 | OT_1994CHUNK6 | Day v. Holahan + | 94-672 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-22 | OT_1994CHUNK6 | U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill | 93-1456; 93-1828 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-22 | OT_1994CHUNK6 | Wilson v. Arkansas | 94-5707 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-22 | OT_1994CHUNK6 | First Options of Chicago, Inc. v. Kaplan | 94-560 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-22 | OT_1994CHUNK6 | Kelley v. Board of Trustees of the University of Illinois + | 94-783 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-30 | OT_1994CHUNK6 | Nebraska v. Wyoming | 108, Original | ORIGINAL | Original proceeding: exceptions to Special Master report | Open; no OT1994 action completed | Original action; exceptions to Special Master report pending; existing carried action, not a new grant |
+| 1995-05-30 | OT_1994CHUNK6 | North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC | 94-834; 94-835 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-30 | OT_1994CHUNK6 | Garlotte v. Fordice | 94-6790 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-05-30 | OT_1994CHUNK6 | United States v. Wellons + | 94-496 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-05 | OT_1994CHUNK6 | Reno v. Koray | 94-790 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-05 | OT_1994CHUNK7 | Metropolitan Washington Airports Authority v. Hechinger + | 94-851 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Missouri v. Jenkins | 93-1823 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Ryder v. United States | 94-431 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | City of Milwaukee v. Cement Division, National Gypsum Co. | 94-788 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Adarand Constructors, Inc. v. Peña | 93-1841 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Wilton v. Seven Falls Co. | 94-562 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Metropolitan Stevedore Co. v. Rambo | 94-820 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Johnson v. Jones | 94-455 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-12 | OT_1994CHUNK7 | Kimberlin v. Quinlan | 93-2068 | MERITS | Per curiam decision after merits submission | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-14 | OT_1994CHUNK7 | Commissioner v. Schleier | 94-500 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-14 | OT_1994CHUNK7 | Chandris, Inc. v. Latsis | 94-325 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-14 | OT_1994CHUNK7 | Witte v. United States | 94-6187 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-14 | OT_1994CHUNK8 | Gutierrez de Martinez v. Lamagno | 94-167 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-14 | OT_1994CHUNK8 | Oklahoma Tax Commission v. Chickasaw Nation | 94-771 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-19 | OT_1994CHUNK8 | Sandin v. Conner | 93-1911 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-19 | OT_1994CHUNK8 | United States v. Gaudin | 94-514 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-19 | OT_1994CHUNK8 | Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | 94-623 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-19 | OT_1994CHUNK8 | Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston | 94-749 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-19 | OT_1994CHUNK8 | National Private Truck Council, Inc. v. Oklahoma Tax Commission | 94-688 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-21 | OT_1994CHUNK8 | United States v. Aguilar | 94-270 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-21 | OT_1994CHUNK8 | Florida Bar v. Went For It, Inc. | 94-226 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-26 | OT_1994CHUNK8 | Vernonia School District 47J v. Acton | 94-590 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-29 | OT_1994CHUNK8 | Rosenberger v. Rector and Visitors of the University of Virginia | 94-329 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-29 | OT_1994CHUNK8 | Babbitt v. Sweet Home Chapter of Communities for a Great Oregon | 94-859 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-29 | OT_1994CHUNK9 | Miller v. Johnson / Abrams v. Johnson / United States v. Johnson | 94-631; 94-797; 94-929 | MERITS | Merits decision | Open; mandate blocked by unspecified reconstructed judgment | Established merits review; awaiting the supplied decision event |
+| 1995-06-29 | OT_1994CHUNK9 | Capitol Square Review and Advisory Board v. Pinette | 94-780 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+| 1995-06-29 | OT_1994CHUNK9 | Chabad-Lubavitch of Georgia v. Miller + | 93-1047 | MERITS | Merits decision | Open; no OT1994 action completed | Established merits review; awaiting the supplied decision event |
+
+## Validated Standing State carryovers
+
+| Carried matter | Docket | Stage at opening | Next-event schedule | Next act or condition | Authority |
+|---|---|---|---|---|---|
+| Zatko v. California and sixteen companion petitions | No. 91-5052 and sixteen companion IFP dockets | Underlying petitions unresolved after denial of seventeen fee motions; paid-docketing status unestablished. | Unscheduled; no new event date supplied | Obtain evidence of compliance with the November 25, 1991 fee-and-form condition or a later filing/order before further petition action. The passed deadline alone supplies no disposition or continuity closure. | [Prior Record](../../OT1991/records/Zatko_v_California_fee_motions_1991-11-04.md) |
+| Wyoming v. Oklahoma | No. 112, Original | Declaratory judgment and injunction issued; original jurisdiction retained for implementation. | Unscheduled; no new event date supplied | A supported implementation request, if filed; no later decree, hearing or compliance finding is supplied. | [Prior Record](../../OT1991/records/Wyoming_v_Oklahoma_merits_1992-01-22.md) |
+| Reynolds v. International Amateur Athletic Federation | No. A-954 | Limited United States Olympic Trials interim protection pending further Court order. | Unscheduled; no new event date supplied | A further Court order or expressly authorized continuity closure is needed to end the carried condition. Do not infer an expiry, competition result or worldwide relief. | [Prior Record](../../OT1991/records/Reynolds_v_International_Amateur_Athletic_Federation_application_for_stay_1992-06-20.md) |
+| Grubbs v. Delo | No. A-324 | Application pending; temporary administrative stay pending further Court order. | Unscheduled; no new event date supplied | Examine the actual application and State response, lawful review channel and required stay showing before further relief. No fixed expiry, execution or later disposition is established. | [Prior Record](../../OT1992/records/Grubbs_v_Delo_administrative_stay_1992-10-20.md) |
+| United States v. Louisiana (Alabama and Mississippi Boundary Case) | No. 9, Original | Supplemental decree entered; original jurisdiction retained to effectuate and supplement the decree and the parties’ rights. | Unscheduled; no new event date supplied | A supported further proceeding, order or writ under retained jurisdiction, if sought; preserve the complete incorporated coordinate schedule rather than an abbreviated boundary. | [Prior Record](../../OT1992/records/United_States_v_Louisiana_supplemental_decree_1993-02-22.md) |
+| Delaware v. New York | No. 111, Original | Original jurisdiction retained; remanded to the Special Master for further proceedings and a recommended decree. | Unscheduled; no new event date supplied | The Master must determine the relevant obligations and address evidence and recommend a decree. No completed accounting, amount or deadline is supplied. | [Prior Record](../../OT1992/records/delaware_original_exceptions_1993-03-30.md) |
+| Nebraska v. Wyoming | No. 108, Original | Partial summary judgments entered; remaining original-action proceedings retained before the Special Master. | 1995-05-30; chunk 6, matter 68 | Use the existing original action and the actual prior judgments and burdens. The supplied next exceptions event is already inventory matter 68, chunk 6, 1995-05-30; do not create another grant or duplicate event. | [Prior Record](../../OT1992/records/nebraska_partial_summary_judgment_1993-04-20.md) |
+| In re Anderson | No. 93-8312 | Financial leave granted; underlying original extraordinary-writ petition pending for independent consideration. | Unscheduled; no new event date supplied | Independent Rule 20 and applicable habeas review remains necessary. Financial leave supplies no merits relief, response order, excuse of default or finding that other remedies are inadequate; no payment-cure deadline applies. | [Prior Record](../../OT1993/records/In_re_Anderson_fee_order_1994-05-02.md) |
+
+## Material dependencies
+
+Potential dependencies identify questions for refresh, not holdings. Only an actual Record effective before the event, or a lawfully established same-day sequence, can supply current-term authority.
+
+| Later matter or same-day related matter | Potential source event | Opening treatment |
+|---|---|---|
+| Young v. Northern Illinois Conference of United Methodist Church + | Church of Scientology Flag Service Organization, Inc. v. City of Clearwater + (1994-12-05) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Anderson v. Green | U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership (1994-11-08) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Mastrobuono v. Shearson Lehman Hutton, Inc. | Allied-Bruce Terminix Cos. v. Dobson (1995-01-18) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Swanner v. Anchorage Equal Rights Commission + | Church of Scientology Flag Service Organization, Inc. v. City of Clearwater + (1994-12-05) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| United States v. Lopez | Allied-Bruce Terminix Cos. v. Dobson (1995-01-18) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| United States v. Harris + | United States v. X-Citement Video, Inc. (1994-11-29); Allied-Bruce Terminix Cos. v. Dobson (1995-01-18); United States v. Lopez (1995-04-26) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| United States v. Robertson | Allied-Bruce Terminix Cos. v. Dobson (1995-01-18); United States v. Lopez (1995-04-26); United States v. Harris + (1995-04-27) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| United States v. Pinson + | Arizona v. Evans (1995-03-01) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Reynoldsville Casket Co. v. Hyde | Reich v. Collins (1994-12-06) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Day v. Holahan + | McIntyre v. Ohio Elections Commission (1995-04-19) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| First Options of Chicago, Inc. v. Kaplan | Allied-Bruce Terminix Cos. v. Dobson (1995-01-18); Mastrobuono v. Shearson Lehman Hutton, Inc. (1995-03-06) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Metropolitan Washington Airports Authority v. Hechinger + | Federal Election Commission v. NRA Political Victory Fund (1994-12-06) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Adarand Constructors, Inc. v. Peña | Missouri v. Jenkins (1995-06-12) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
+| Metropolitan Stevedore Co. v. Rambo | Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co. (1995-03-21) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. The earlier prepared §921(c) aggrievement issue does not itself govern §22 modification. |
+| Johnson v. Jones | Swint v. Chambers County Commission (1995-03-01) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Kimberlin v. Quinlan | Johnson v. Jones (1995-06-12) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. The brief supports a bounded pure-law controversy; an evidence-sufficiency component or claimed earlier Johnson release requires separate reachability and source revalidation. |
+| Commissioner v. Schleier | McKennon v. Nashville Banner Publishing Co. (1995-01-23) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| United States v. Gaudin | Hubbard v. United States (1995-05-15) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | Allied-Bruce Terminix Cos. v. Dobson (1995-01-18); Mastrobuono v. Shearson Lehman Hutton, Inc. (1995-03-06); First Options of Chicago, Inc. v. Kaplan (1995-05-22) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| National Private Truck Council, Inc. v. Oklahoma Tax Commission | Reich v. Collins (1994-12-06) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| United States v. Aguilar | Hubbard v. United States (1995-05-15); United States v. Gaudin (1995-06-19) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Florida Bar v. Went For It, Inc. | Lanphere & Urbaniak v. Colorado + (1995-04-18); Rubin v. Coors Brewing Co. (1995-04-19) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Rosenberger v. Rector and Visitors of the University of Virginia | Church of Scientology Flag Service Organization, Inc. v. City of Clearwater + (1994-12-05) | Earlier-date authority only if an actual effective Record bears on the issue; refresh before this event. |
+| Capitol Square Review and Advisory Board v. Pinette | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
+| Chabad-Lubavitch of Georgia v. Miller + | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29); Capitol Square Review and Advisory Board v. Pinette (1995-06-29) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
+
+## Institutional setting and intake limits
+
+The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](continuity.md#5-current-procedure-and-institution) and [neutral projection](neutral-projection.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
+
+### Matter-specific limits retained at opening
+
+- **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson (chunk 9, matter 97): final judgment and mandate blocked.** The reconstructed lower-court judgment is unspecified. The required input is that judgment and its grounds, any injunction, the status of independent claims, and material preservation or alternative grounds. The historical Georgia invalidation cannot substitute for it. No reconstructed argument date or new grant date is established. Keep the supplied 1995-06-29 planning date and consolidated dockets; Hays remains excluded.
+- **Kimberlin v. Quinlan (chunk 7, matter 81): conditional reachability revalidation.** Johnson v. Jones is on the same day, with no established release sequence. It supplies no opening law and no automatic earlier same-day authority. Preserve the common baseline unless an express coordinated sequence is established. The brief's condition on an evidence-sufficiency component remains open; do not invent the missing earlier release or certify that condition satisfied.
+- **Fargo Women's Health Organization v. Schafer (chunk 2, matter 22): existing Casey revalidation remains required.** Use the actual controlling Casey framework from the opening trackers. Opening the term neither resolves the brief's revalidation note nor supplies any missing controlled position.
+- **Other source limitations:** the neutral packets' bounded source-completeness and missing-record qualifications remain in force. No opening validation certifies complete petitions, merits briefing, joint appendices, statutory source records or final factfinding. Reassess each material limit during clean Run preflight; stop only the affected path when its necessary source is missing.
+- **Asgrow Seed Co. v. Winterboer (chunk 2, matter 15): statutory timing.** The packet identifies Pub. L. 103-349 as a later amendment, outside the challenged transactions' governing temporal version. Verify the exact effective/transition text before using the amendment to change current law; it is not admitted as a new controlling source by this opening. The supplied materials establish no exact additional source-event date for the manifest.
+
+No missing inventory member or conflict in the opening tracker headers, Holdings volumes, roster or allotments was found. These matter-specific limits do not prevent opening the term or preparing unaffected matters.
+## Source and validation
+
+Authority for inventory identity and dates: `case-list.md` and the nine briefs’ Section I fields. Authority for carryovers: opening Standing State, the linked prior Records, and the OT1993 close dossier. No grant, terminal order, new source admission or result is inferred. See [opening validation](../audit/OPENING_VALIDATION.md) for actual checks and the unchanged tracker fingerprints.
