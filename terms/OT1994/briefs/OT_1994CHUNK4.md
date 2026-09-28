@@ -201,7 +201,6 @@ Determine only the Director’s review entitlement on the identified component. 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -538,7 +537,6 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1242,7 +1240,6 @@ Correct the legal sequence and direct review on the existing statutory standards
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
