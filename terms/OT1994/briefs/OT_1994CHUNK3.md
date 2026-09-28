@@ -345,18 +345,16 @@ The work occurred in 1991 and the flooding in April 1992. The Seventh Circuit de
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-22. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-02-22. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Admiralty status and maritime tort jurisdiction have distinct elements; the companion dockets remain one matter.
+**Authority and application:** *Gizoni* is controlling simulated law on maritime worker status and demonstrates that occupational labels do not substitute for the governing maritime test. *McDermott* is controlling simulated maritime common law on settlement allocation. Neither decision changes the *Sisson* location-and-connection framework for admiralty tort jurisdiction; they instead reinforce the need to keep status, liability, allocation, and jurisdiction in their separate doctrines.
 
-- [Southwest Marine, Inc. v. Gizoni, 502 U.S. 81 (1991)](inherited/readings/OT1994-028.md#authority-1)
-- [McDermott, Inc. v. AmClyde; No. 92-1479.](inherited/readings/OT1994-028.md#authority-2)
+- [Southwest Marine, Inc. v. Gizoni — maritime status and factual connection](../../OT1991/records/Southwest_Marine_v_Gizoni_merits_1991-12-04.md)
+- [McDermott, Inc. v. AmClyde — proportionate-share maritime settlement rule](../../OT1993/records/McDermott_Inc_v_AmClyde_merits_1994-04-20.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -456,10 +454,13 @@ The Court may resolve the jurisdictional framework and its application at this s
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The completed simulated maritime cases do not supply a different admiralty-jurisdiction test. The proposed Grubart disposition therefore remains an application of the surviving Sisson/Extension Act framework, with Gizoni and McDermott used only for their actual maritime propositions.
 
 ## B. FIXED CORE
 
@@ -641,17 +642,18 @@ The district court issued preliminary relief in 1993; the Ninth Circuit affirmed
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-22. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-02-22. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Assess the continuing controversy after the separate waiver litigation before reaching the underlying welfare merits; later Bancorp law matters only if actually adopted and effective.
+**Authority and application:** The simulated *Church of Scientology* decision establishes that a case is not moot merely because complete restoration is impossible when meaningful partial relief remains available. *Izumi* supplies question-presentation and party-status rules but deliberately leaves settlement vacatur undecided. Here the required federal waiver for California's challenged program has been set aside, so the court must ask whether there is any presently operative program or meaningful relief to adjudicate before reaching the constitutional merits.
 
-- [Church of Scientology of California v. United States, 506 U.S. 9 (1992)](inherited/readings/OT1994-029.md#authority-1)
+- [Church of Scientology of California v. United States — meaningful partial relief and mootness](../../OT1992/records/church-of-scientology-v-united-states-merits-1992-11-16.md)
+- [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. — threshold disposition; settlement vacatur left open](../../OT1993/records/Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Prospective same-term dependency:** *U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership* is scheduled earlier in OT1994 and could bear on vacatur if an actual simulated Decision Record is entered before this event. No such OT1994 Record exists at this refresh, so Bancorp's brief or proposed Stone position is not current law.
 
-**Forward OT1994 dependencies:** U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership (1994-11-08, chunk 1). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
 
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -753,10 +755,13 @@ The threshold disposition may be prepared on the described absence of authorizat
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The current simulated mootness law requires a real inquiry into remaining relief, not automatic dismissal. The loss of the federal waiver is nevertheless materially different from the retained-copy situation in Church of Scientology. Bancorp remains a prospective dependency only and cannot be imported from its preparation file.
 
 ## B. FIXED CORE
 
@@ -783,7 +788,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Intervening waiver decision and justiciability
 
 - **Threshold and Merits Reach:** Stone resolves the intervening justiciability question and does not reach the constitutional merits. The right-to-travel discussion remains background, not an alternative advisory holding.
-- **Current Governing Rule:** Article III requires a present dispute or a sufficiently imminent threat; Abbott Laboratories governs contingent pre-enforcement claims, and Munsingwear governs appropriate treatment of judgments that cannot receive merits review.
+- **Current Governing Rule:** Article III requires a live controversy and meaningful available relief. Simulated *Church of Scientology* confirms that incomplete relief can suffice, while the loss of the federal waiver here means the Court must identify a presently operative implementation before adjudicating its constitutionality. Any Bancorp vacatur rule is prospective until actually decided.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** Because the challenged implementation lacks the required federal authorization and a replacement waiver is not established, the constitutional controversy is not ripe for adjudication in its present posture. Vacate the preliminary judgments and remand for dismissal without prejudice to a challenge to any later operative program.
 - **Essential Reasoning:** A constitutional ruling should address the program government can actually implement. The necessary federal authorization has been judicially removed; the content and legal viability of a future replacement are contingent. Vacatur prevents an unreviewed preliminary constitutional ruling from governing a materially altered controversy while leaving affected recipients free to challenge a real program.
@@ -1281,18 +1286,16 @@ The amendment and facility closure occurred in 1983. The Third Circuit’s opera
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-06. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-06. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** ERISA duties turn on the statutory and plan functions in issue; fiduciary remedies do not themselves determine who may amend the plan.
+**Authority and application:** Simulated *Mertens* keeps ERISA remedy questions tied to the remedies Congress enacted. Simulated *John Hancock* later separates plan-asset status, fiduciary function, breach, and remedy and rejects a categorical agency shortcut. Neither case decides who may amend a plan. Section 402(b)(3), the written plan, and ordinary corporate authorization therefore control the amendment-procedure question.
 
-- [Mertens v. Hewitt Associates, 508 U.S. 248 (1993)](inherited/readings/OT1994-034.md#authority-1)
-- [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, No. 92-1074](inherited/readings/OT1994-034.md#authority-2)
+- [Mertens v. Hewitt Associates — ERISA remedial categories](../../OT1992/records/mertens_merits_1993-06-01.md)
+- [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — component-specific ERISA status and fiduciary function](../../OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1428,10 +1431,13 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The completed simulated ERISA cases reinforce source separation but do not impose a new amendment-procedure formula. The proposed Curtiss-Wright result remains a statutory §402(b)(3) interpretation, and actual corporate authorization of the particular amendment remains a separate remand question.
 
 ## B. FIXED CORE
 
