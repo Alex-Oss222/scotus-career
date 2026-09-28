@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Federal Indian Law
 
@@ -130,3 +130,76 @@
 
 - Montana, 450 U.S.544 — both consensual-relationship and serious tribal-interest exceptions expressly retained.
 - United States v. Wheeler, 435 U.S.313 — retained internal tribal powers do not themselves establish nonmember regulation after the abrogation found here.
+
+### Reservation diminishment
+
+#### [Hagen v. Utah, 510 U.S. 399](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Hagen_v_Utah_merits_1994-02-23.md)
+
+**Docket or dockets:** No. 92-6281.
+
+**Decided:** 1994-02-23.
+
+##### Congressional diminishment and the jurisdiction asserted at Myton
+
+**Holding:** Congress diminished the Uintah Reservation as to the unallotted lands covered by the opening program: the 1902 operative direction restoring those lands to the public domain remained effective through the 1903–1905 amendments and implementation. Myton's location in that opened area is therefore outside the reservation on this record, and Utah may exercise the territorial criminal jurisdiction asserted over Hagen's offense; opening or fee ownership alone does not establish that result elsewhere.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Thomas and Ginsburg. These six Justices adopt the statutory construction, its clear-intent basis and its application to this prosecution. There is a direct majority rationale; no fractured-opinion inference is necessary.
+
+**Limits and questions not reached:** The collateral-estoppel issue arising from Ute Indian Tribe v. Utah was omitted from the petition and expressly disavowed by Hagen; the Court does not decide its merits. This case does not adjudicate private titles, all remaining trust or allotted lands, every tract of the larger Uintah and Ouray territory, unrelated tribal powers, or every sovereign's jurisdiction over every offense. The $70,064.48 payment is not relied upon as a purchase of the surplus land. Later population and state administration do not independently change boundaries.
+
+**Treatment of earlier authority:**
+
+- Solem v. Bartlett, 465 U.S. 463: applies its clear-intent inquiry and unequal weighting of text, contemporaneous context and later treatment; distinguishes its nonoperative public-domain reference from the surviving operative command here.
+- Rosebud Sioux Tribe v. Kneip, 430 U.S. 584: applies statutory continuity across a sequence of enactments and preserves the rule that no particular formula or fixed payment is indispensable.
+- Seymour v. Superintendent, 368 U.S. 351: preserves the distinction between opening and boundary change and the rule that fee ownership within retained boundaries does not itself remove Indian-country status.
+- Mattz v. Arnett, 412 U.S. 481: preserves the need for congressional diminishment beyond mere sale and settlement; this sequence supplies the additional direction.
+- DeCoteau v. District County Court, 420 U.S. 425: preserves clear congressional cession as sufficient evidence without making its precise words or payment structure mandatory.
+- South Dakota v. Bourland, June 14, 1993: preserves its particular displacement of exclusion-derived regulation and its separate residual-authority inquiry; it does not itself establish reservation boundaries.
+- Negonsott v. Samuels, February 24, 1993: preserves its express Kansas-specific criminal authorization; it supplies no independent Utah authorization within Indian country.
+- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves the distinct §1151 categories and the need to determine actual Indian-country status.
+
+**Operative remedy or transition:** The Utah Supreme Court is affirmed, 6–3, leaving its reinstatement of Hagen's conviction intact. No adjudication of private titles or general reallocation of regional jurisdiction is ordered.
+
+### Reservation cigarette-tax collection
+
+#### [Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., 512 U.S. 61](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md)
+
+**Docket or dockets:** No. 93-377.
+
+**Decided:** 1994-06-13.
+
+##### Federal trader regulation does not displace reasonable collection of valid nonmember taxes
+
+**Holding:** The Indian Trader Statutes do not categorically preempt state requirements reasonably directed to collecting cigarette taxes validly imposed on nonexempt consumers. New York's state-agent, stamping, advance-collection, certification, invoice, recordkeeping and reporting requirements survive this facial challenge insofar as they serve that collection function without taxing protected consumption or displacing the federal trader appointment.
+
+**Proposition-level authority:** O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited federal-statute and collection holding.
+
+**Material application:** Ultimate incidence is on the consumer. Protected purchases are by an enrolled member of an exempt New York nation or tribe within a qualified reservation for personal use or consumption there, not resale. Untaxed wholesale deliveries require a valid exemption certificate, intended distribution to exempt consumers and reservation delivery; the buyer shows its certificate initially and signs later invoices. Consumers separately certify exemption initially and show identity on later purchases. Wholesalers keep buyer-specific untaxed-sale records and report monthly. These duties do not authorize taxing protected consumption or overcoming tribal immunity.
+
+**Limits and questions not reached:** No general state power to regulate reservation commerce, revoke a federal trader appointment, tax exempt consumption or sue an immune tribe is recognized. The Seneca treaty contention was not addressed below and is not decided.
+
+**Treatment of earlier authority:**
+
+- Warren Trading Post Co. v. Arizona Tax Commission, 380 U.S. 685: preserves its protection against the particular direct tax on federally regulated reservation trade; its broader language does not create universal collection immunity.
+- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: applies valid nonmember taxation and reasonable collection assistance while preserving exempt member purchases.
+- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applies the distinction between taxable purchases and protected tribal trade, including reasonable documentation burdens.
+- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: preserves valid nonmember tax obligations and reasonable collection tools without overcoming the tribe's immunity from suit.
+- White Mountain Apache Tribe v. Bracker, 448 U.S. 136: applies attention to the actual federal, tribal and state regulatory setting rather than a universal territorial or licensing rule.
+
+##### Probable-demand limits and prior approval survive only at facial scope
+
+**Holding:** New York may limit unstamped deliveries to probable demand by qualifying exempt purchasers and require advance approval as reasonably necessary collection devices, provided exempt purchases remain adequately available and the requirements remain connected to the valid nonmember tax. The challenged scheme survives the present facial objections because no inadequate implemented quota or denied exempt supply is established; stamped sales have no corresponding numerical ceiling, and unreasonable applications remain subject to challenge.
+
+**Proposition-level authority:** O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the qualified quota-and-approval holding and reversal of the facial injunction.
+
+**Material application:** A tribe may enter a regulatory agreement for tribal approval. Without an agreement, the Department calculates probable demand using submitted evidence where the tribe regulates, licenses or controls distribution, and otherwise enrollment and statewide consumption. Trade territory uses consultation with a regulating tribe and otherwise available Department information. Valid orders and quantities reasonably related to exempt demand govern approval through monthly coupons. Withholding approval from past or current violators and canceling noncompliant certificates remain tied to lawful collection, not destruction of the exempt channel. No particular quota is approved and stamped supply has no numerical ceiling.
+
+**Treatment of earlier authority:**
+
+- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: extends reasonable collection assistance to a qualified supply-control mechanism directed to valid taxes.
+- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applies the distinction between collection of nonexempt taxes and preservation of protected consumption.
+- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: leaves alternative lawful collection methods available while preserving sovereign immunity.
+- Oklahoma Tax Commission v. Sac and Fox Nation, May 17, 1993: preserves its residence, source and incidence distinctions; it supplies no exemption for every wholesale sale to a reservation retailer.
+- County of Yakima v. Confederated Tribes, January 14, 1992: preserves the exact authorization and legal-incidence analysis for its distinct land taxes; collection labels do not authorize prohibited taxes.
+
+**Operative remedy or transition:** The New York Court of Appeals is reversed on both grounds supporting its facial judgment and the case remanded. The facial injunction cannot rest on categorical trader preemption or the rejected facial excessive-burden ground. Concrete challenges to inadequate exempt supply, arbitrary approval or allocation, and excessive compliance burdens remain available; no particular quota, recovery from a tribe or treaty claim is adjudicated.

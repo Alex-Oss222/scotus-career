@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Federal Taxation
 
@@ -320,3 +320,127 @@ The controlling classification follows the coordinated statutory and regulatory 
 **Treatment of earlier authority:**
 
 - This independently sufficient ground rests directly on §4975(c)(1)(A) and (f)(3); it requires no additional treatment of an earlier decision.
+
+### Gift-tax disclaimers
+
+#### [United States v. Irvine, 511 U.S. 224](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Irvine_merits_1994-04-20.md)
+
+**Docket or dockets:** No. 92-1546.
+
+**Decided:** 1994-04-20.
+
+##### Federal law taxes the later gratuitous transfer, independently of state relation back
+
+**Holding:** Subject to the gift-tax chapter's limitations, §§2501(a)(1) and 2511(a) reach a later direct or indirect gratuitous transfer of a valuable property interest, including this delayed disclaimer directing part of a remainder to the disclaimant's children. State law defines the interests and the disclaimer's effectiveness, but its relation-back fiction does not control federal taxability unless federal law makes that consequence dependent on state law; even if the regulatory disclaimer exception does not apply to this 1917 interest, the statutory transfer rule independently reaches the 1979 disposition.
+
+**Proposition-level authority:** Souter's statutory-transfer portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; all eight participating Justices adopt this statutory ground and the alternative for regulatory inapplicability.
+
+**Treatment of earlier authority:**
+
+- Dickman v. Commissioner, 465 U.S. 330 (1984): applied for the comprehensive reach of the federal gift-transfer provisions.
+- Jewett v. Commissioner, 455 U.S. 305 (1982): applied to the indirect transfer through a delayed disclaimer and the absence of a state-law right to federal tax immunity.
+- Morgan v. Commissioner, 309 U.S. 78 (1940), and United States v. Pelzer, 312 U.S. 399 (1941): applied to distinguish state property interests from their federal tax treatment unless the federal provision makes state law controlling.
+
+**Independent alternative holding:** If Treasury Regulation §25.2511-1(c)(2) applies to this pre-1977 interest, its disclaimer exception requires an unequivocal refusal effective under local law, within a reasonable time after knowledge of the transfer creating the interest and before acceptance; a partial refusal must be complete and unqualified in light of the facts and local law. With knowledge and capacity present by 1931, Irvine's 1979 refusal fails the reasonable-time requirement whether time runs from that knowledge or from enactment in 1932; no fixed deadline or obligation to disclaim before enactment is established, and applicability to this pre-Act inter vivos trust remains undecided.
+
+**Proposition-level authority for alternative holding:** Souter's conditional reasonable-time portion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas and Ginsburg; seven Justices adopt this independently sufficient conditional ground and its explanation. Scalia does not join this portion, though he agrees with taxability on his separate acceptance-and-transfer rationale.
+
+**Treatment of earlier authority:**
+
+- Jewett v. Commissioner: applied conditionally to the knowledge measure and the gift-tax/estate-tax relationship; its rule is not limited to the date an interest becomes possessory.
+- Estate of Sanford v. Commissioner, 308 U.S. 39 (1939): applied through Jewett for the gift tax's complementary role in preventing avoidance of transfers-at-death taxation.
+
+##### The 1932 limitation protects earlier transfers, not every later disposition of an old interest
+
+**Holding:** Revenue Act of 1932 §501(b) excludes transfers made on or before June 6, 1932; it does not exempt a later gratuitous transfer merely because the transferred interest was created before that date. The relevant taxable transfer here occurred through the 1979 disclaimer, so the statutory prospective limitation does not bar the tax; no ruling requires a pre-enactment disclaimer or approves retroactive Treasury lawmaking generally.
+
+**Proposition-level authority:** Souter's prospective-application portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; eight Justices adopt this answer to the independent statutory defense.
+
+**Treatment of earlier authority:**
+
+- United States v. Jacobs, 306 U.S. 363 (1939): applied to distinguish a tax on a later transfer from retroactive taxation of an earlier event.
+- Jewett v. Commissioner: applied to reject state relation back as the federal tax date.
+- Untermyer v. Anderson, 276 U.S. 440 (1928): distinguished; this case taxes the later disposition and does not adjudicate a retroactive tax on the 1917 transfer.
+
+**Limits and questions not reached:** This is a tax on the 1979 disposition, not the trust's 1917 creation. Regulatory applicability to the pre-Act inter vivos interest remains open; the Court sets no numerical reasonable-time deadline and requires no pre-enactment disclaimer. A prompt refusal before acceptance or absence of a reasonable post-enactment opportunity presents different facts.
+
+**Operative remedy or transition:** The Eighth Circuit's 1979 refund judgment is reversed, 8–0; Blackmun does not participate. No special valuation remand, fixed payment amount or disposition of the separate 1980 assessment is ordered.
+
+### Railroad property-tax exemptions
+
+#### [Department of Revenue of Oregon v. ACF Industries, Inc., 510 U.S. 332](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md)
+
+**Docket or dockets:** No. 92-74.
+
+**Decided:** 1994-01-24.
+
+##### The ordinary property-tax comparison excludes exempt property
+
+**Holding:** For §11503(b)(1)–(3), the §11503(a)(4) commercial-and-industrial comparison class consists of property devoted to commercial or industrial use and actually subject to a property-tax levy, excluding transportation property and land used primarily for agriculture or timber growing. Property exempt from that levy is outside the comparison class; these paragraphs therefore do not require ordinary exemptions granted to nonrailroad property to be extended to railroad property.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Souter, Thomas and Ginsburg; eight Justices adopt the statutory definition as the premise of the exemption ruling.
+
+**Treatment of earlier authority:**
+
+- Sorenson v. Secretary of Treasury: applied; repeated statutory levy language bears a consistent meaning in the coordinated provisions.
+- Burlington Northern Railroad Co. v. Oklahoma Tax Commission: preserved; its assessment protection does not itself decide exemptions or enlarge the defined comparison class.
+
+##### Ordinary exemptions do not become forbidden discrimination under the catchall
+
+**Holding:** Section 11503(b)(4) does not permit invalidation of railroad-property taxation solely because a generally applicable property tax based on value exempts ordinary categories of nonrailroad property. The Court leaves open a scheme under which railroads alone, or railroads with only an isolated and targeted group, bear the tax; it establishes neither a percentage threshold nor a rule that every tax labeled a property tax is beyond paragraph (4).
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Souter, Thomas and Ginsburg; eight Justices adopt this construction and the reversal of the exemption requirement.
+
+**Treatment of earlier authority:**
+
+- Mountain States Telephone & Telegraph Co. v. Pueblo of Santa Ana: applied; one provision should not be read to make another inoperative.
+- United Savings Assn. of Texas v. Timbers of Inwood Forest Associates: applied; the statute's coordinated structure resolves the ambiguity of an isolated phrase.
+- Davis v. Michigan Department of Treasury: distinguished; exemptions can discriminate, but its different statute does not displace the 4-R Act's structure.
+- Burlington Northern Railroad Co. v. Oklahoma Tax Commission: preserved for the separate assessment protection; no new intent requirement, exemption percentage or rate rule is created.
+
+**Limits and questions not reached:** No numerical exemption safe harbor, universal property-tax exclusion from paragraph (4), or constitutional validation of exemptions is adopted. Railroad-only or isolated targeted-group taxation remains reserved.
+
+**Operative remedy or transition:** The Ninth Circuit is reversed and the case remanded, removing the automatic total-exemption requirement. No tax amount, assessment or new finding of targeted taxation is ordered; an unasserted assessment or rate claim is not reopened.
+
+### Retroactive estate-tax amendments
+
+#### [United States v. Carlton, 512 U.S. 26](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Carlton_merits_1994-06-13.md)
+
+**Docket or dockets:** No. 92-1941.
+
+**Decided:** 1994-06-13.
+
+##### The enacted amendment governs the earlier transaction
+
+**Holding:** Section 10411(b) expressly makes the 1987 amendment to §2057 effective as if included in the original 1986 enactment, so its decedent-ownership requirement reaches the estate's December 1986 transaction, subject to constitutional review. The original statute contained no such condition; neither later legislative explanation nor an agency announcement supplies a preexisting ownership requirement.
+
+**Proposition-level authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Kennedy and Ginsburg. These six Justices adopt the statutory holding; the judgment concurrences accept the express temporal direction without joining the opinion.
+
+**Material application:** The Government stipulated that the estate qualified under the original text. The express 1987 effective-date provision, rather than an earlier agency notice or later account of original purpose, supplies the new ownership condition's retrospective operation.
+
+**Treatment of earlier authority:**
+
+- Landgraf v. USI Film Products, April 26, 1994: applies its priority for express temporal direction, subject to constitutional limits.
+- Rivers v. Roadway Express, Inc., April 26, 1994: distinguishes enacted change from judicial construction; corrective purpose alone does not provide temporal reach.
+- Harper v. Virginia Department of Taxation, June 18, 1993: preserves its rule for judicial decisions in open direct review; that rule does not displace Congress's express amendment.
+
+##### The limited retroactive ownership amendment satisfies due process
+
+**Holding:** Retroactive economic legislation satisfies due process when its retroactive operation rationally serves a legitimate legislative purpose. Applying this prompt correction of the unexpectedly broad estate-tax deduction to the short interval since its enactment meets that standard despite the executor's established reliance, lack of advance notice and actual loss; this decision creates neither a fixed one-year limit, an automatic reliance exemption nor an unlimited revenue-purpose safe harbor.
+
+**Proposition-level authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Kennedy and Ginsburg. Stone-Zsela, Blackmun, Stevens, Kennedy, Souter and Ginsburg supply six direct joins in this constitutional rationale; O'Connor, Scalia and Thomas agree only with the judgment on their distinct grounds.
+
+**Limits and questions not reached:** The Court decides neither the abandoned Contract Clause and Takings theories nor a new tax-loss compensation claim. No allocation failure, agency power to amend the original statute, fixed constitutional lookback limit or new dollar assessment is adjudicated.
+
+**Treatment of earlier authority:**
+
+- Pension Benefit Guaranty Corp. v. R. A. Gray & Co., 467 U.S. 717: applies rational-purpose review to the retroactive operation itself and explains the harsh-and-oppressive formulation.
+- General Motors Corp. v. Romein, March 9, 1992: applies its rational-justification rule despite actual reliance, without treating all retroactivity as valid.
+- Usery v. Turner Elkhorn Mining Co., 428 U.S. 1: preserves legislative power to adjust economic obligations retrospectively for a rational legitimate purpose.
+- Welch v. Henry, 305 U.S. 134, and United States v. Hemme, 476 U.S. 558: preserve context-sensitive tax review; their harsh-and-oppressive language creates no automatic reliance veto.
+- United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
+- Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
+- United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
+
+**Operative remedy or transition:** The Ninth Circuit is reversed and the case remanded for judgment applying the amended ownership requirement. No refund follows from the rejected due-process theory and no compensation is awarded for the transaction loss. The Court fixes no new assessment, penalty, valuation, allocation failure or refund amount.

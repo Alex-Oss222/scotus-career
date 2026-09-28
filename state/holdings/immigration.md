@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Immigration
 

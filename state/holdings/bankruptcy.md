@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Bankruptcy
 
@@ -227,3 +227,41 @@
 
 - Nobelman, June 1, 1993: the anti-modification rule and express cure authority retained without erasing the separate confirmation requirement.
 - Ron Pair, 489 U.S.235: distinct Bankruptcy Code provisions receive their own operative effect; the present-value holding rests on §1325(a)(5)(B), not §506(b) alone.
+
+### Foreclosure avoidance and federal value
+
+#### [BFP v. Resolution Trust Corp., 511 U.S. 531](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md)
+
+**Docket or dockets:** No. 92-1370.
+
+**Decided:** 1994-05-23.
+
+##### Regular foreclosure procedure does not conclusively establish federal value
+
+**Holding:** A noncollusive mortgage foreclosure of real property that complies with state law does not conclusively establish reasonably equivalent value under 11 U.S.C. §548(a)(2)(A); when the statutory avoidance claim is timely and otherwise properly presented, the bankruptcy court must assess the value exchanged independently under that federal requirement. Procedural compliance remains relevant evidence, and rejection of conclusiveness establishes neither insolvency nor any other avoidance predicate, entitlement to recovery, or a defect in the debtor's property interest.
+
+**Proposition-level authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens and Ginsburg; five Justices directly adopt the proposition and explanation. No fractured-decision synthesis is needed.
+
+**Treatment of earlier authority:**
+
+- Butner v. United States, 440 U.S. 48 (1979): applies its distinction between state-defined property interests and countervailing federal bankruptcy consequences.
+- Owen v. Owen, 500 U.S. 305 (1991): applies the independent operation of an enacted federal avoidance power.
+- Dewsnup v. Timm, January 15, 1992: distinguishes its limited §506(d) Chapter 7 lien-survival rule; express avoidance powers remain separate.
+- Nobelman v. American Savings Bank, June 1, 1993: distinguishes the §1322(b)(2) principal-residence protection; its rights and qualified cure rules remain intact.
+
+##### Value is compared under realistically comparable forced-sale conditions
+
+**Holding:** The §548(a)(2)(A) comparison concerns the value transferred and the total legally relevant consideration in realistically comparable forced-sale conditions, with competent evidence of property condition, enforceable interests and liens, realistic sale constraints, available purchasers, actual marketing and notice, and reliable comparable distressed transactions where pertinent; these are sources of valuation evidence, not mandatory elements or new foreclosure procedures. The avoidance claimant retains its statutory burden, and neither an unsupported appraisal above the price, procedural regularity alone, a fixed percentage, nor hindsight about a better hypothetical sale supplies the required conclusion.
+
+**Proposition-level authority:** Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens and Ginsburg; five Justices directly adopt the proposition and explanation. No fractured-decision synthesis is needed.
+
+**Treatment of earlier authority:**
+
+- Gelfert v. National City Bank, 313 U.S. 221 (1941): uses its recognition of forced-sale conditions without converting price into a conclusive federal measure.
+- In re Bundles, 856 F.2d 815 (7th Cir. 1988): supports attention to the transaction's circumstances; no wholesale adoption of a formal presumption or every part of its method.
+- Durrett v. Washington National Insurance Co., 621 F.2d 201 (5th Cir. 1980): does not supply a controlling minimum percentage.
+- In re Madrid, 21 B.R. 424 (BAP9 1982), and In re Winshall Settler's Trust, 758 F.2d 1136 (6th Cir. 1985): their conclusive regular-foreclosure approach cannot govern the federal value issue after this decision.
+
+**Limits and questions not reached:** The inquiry concerns timely mortgage foreclosure avoidance of real property, not every forced sale. All statutory predicates and transferee protections remain necessary. The allegation of a value above $725,000 against a $433,000 sale price is not a finding. No Durrett percentage or Bundles presumption is adopted.
+
+**Operative remedy or transition:** Both the district-court/private-buyer and Bankruptcy Appellate Panel/Imperial routes are reversed on the categorical value ground and remanded, 5–4. The rejected no-property-interest alternative is not revived. No avoidance, title transfer, refund or fixed recovery is automatic; proved avoidance and recovery requirements and transferee protections remain necessary, without reopening titles outside this timely proceeding.

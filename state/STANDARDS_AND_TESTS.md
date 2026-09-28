@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: STANDARDS AND TESTS
 
-**Last completed October Term:** 1992
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Federal courts and judicial remedies
 
@@ -444,6 +444,208 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Holdings navigation:** [Northeastern Florida Chapter, AGC v. Jacksonville, 508 U.S. 656 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#northeastern-florida-chapter-agc-v-jacksonville-508-us-656-1993).
 
+### Intervention denial and statutory party status for Supreme Court review
+
+**Governing question:** Whether an unsuccessful intervention applicant may seek review of the parties’ underlying judgment.
+
+**Current rule:** Under §1254(1), an unsuccessful intervention applicant may seek review of the denial itself, but cannot obtain review of the parties’ underlying judgment merely through an unreviewed intervention denial or financial interest. The applicant does not become a party before that denial is overturned. Article III interest, statutory party status and proper question presentation remain distinct.
+
+**Authority by component:**
+
+- Review route and party-status prerequisite: [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp — Review of a denied intervention application is distinct from review as a party](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md#public-projection), 1993-11-30. Per curiam opinion of the Court supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, seven Justices; Blackmun and Stevens dissent. This stated threshold ground supports the dismissal and carries procedural authority, without a settlement-vacatur holding.
+
+**Present operation effective:** Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp, 1993-11-30.
+
+**Holdings navigation:** [Review of a denied intervention application is distinct from review as a party](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#review-of-a-denied-intervention-application-is-distinct-from-review-as-a-party).
+
+### Presented questions, subsidiary arguments and exceptional Supreme Court review
+
+**Governing question:** When an issue outside the stated certiorari question may be considered.
+
+**Current rule:** Rule 14.1(a) creates a strong prudential presumption against deciding questions neither stated in the petition nor fairly included, subject to exceptional circumstances. A distinct intervention denial is not fairly included merely because reversing it would permit reaching a settlement-vacatur question; discussion in the petition’s body and merits briefing does not alone suffice. A consistently asserted Teague defense may be subsidiary where it limits application of the very constitutional rule and habeas relief challenged by the petition. Geographic tailoring is fairly included in a challenge to exclusion from designated speech zones. An exceptional extension requires its own supported basis; adversarial briefing, preservation, logical priority or usefulness alone does not enlarge the questions. The duty to notice jurisdictional defects remains separate.
+
+**Authority by component:**
+
+- Strong prudential presumption and independent-question boundary: [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp — The intervention question was not fairly included and no exception is warranted](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md#public-projection), 1993-11-30. Per curiam opinion of the Court supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, seven Justices; Blackmun and Stevens dissent. The reasoned dismissal establishes this question-presentation ruling, not the merits of the judgment below.
+- Confined subsidiary Teague defense: [Caspari v. Bohlen — The preserved nonretroactivity defense is fairly included here](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Caspari_v_Bohlen_merits_1994-02-23.md#public-projection), 1994-02-23. O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices. Stevens disagrees with fair inclusion and would decline the defense under Rule 14.1(a).
+- Geographic inclusion and independently justified exceptional review: [Madsen v. Women's Health Center, Inc — The limited scope of geographic and paragraph (4) review; The independent conduct-language claims remain undecided](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md#public-projection), 1994-06-30. O'Connor's Part I, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg: eight. Stevens declines these distinct merits questions. O'Connor's Part IV-A, joined by Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg: eight on the Rule 14 ground. Stone-Zsela agrees only in the nonreach disposition for these independently disputed terms and applications and adds no ground.
+
+**Present operation effective:** Madsen v. Women's Health Center, Inc, 1994-06-30.
+
+**Exceptions and limits:** Madsen’s separate noise-and-images review rested together on a continuing categorical restraint, direct connection to the clinic remedy, existing medical record, adversarial presentation and severable legal correction. It declined further independent conduct-language questions despite briefing. Those circumstances are not a universal mandatory checklist or permission to review every related clause.
+
+**Holdings navigation:** [The intervention question was not fairly included and no exception is warranted](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-intervention-question-was-not-fairly-included-and-no-exception-is-warranted); [The preserved nonretroactivity defense is fairly included here](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-preserved-nonretroactivity-defense-is-fairly-included-here); [The limited scope of geographic and paragraph (4) review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-limited-scope-of-geographic-and-paragraph-4-review); [The independent conduct-language claims remain undecided](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-independent-conduct-language-claims-remain-undecided).
+
+### Customs forfeiture promptness duties and dismissal
+
+**Governing question:** Whether breach of §§1602–1604 requires dismissal of a timely forfeiture action.
+
+**Current rule:** Breach of §§1602–1604’s separate reporting and commencement duties does not require dismissal of a forfeiture action filed within §1621’s five-year limitations period. Absence of that dismissal sanction does not make the duties optional. An independently supported constitutional-delay claim or other source-authorized relief remains available. This consequence rule does not replace the provisions’ separate reporting and commencement inquiries.
+
+**Authority by component:**
+
+- Mandatory duties, limitations period and absent automatic dismissal: [United States v. James Daniel Good Real Property — Mandatory administrative promptness does not supply an unstated dismissal sanction](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md#public-projection), 1993-12-13. Kennedy's opinion for the Court, Statutory timing portion, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, and Ginsburg. All nine adopt this construction and reversal of the contrary ground below.
+
+**Present operation effective:** United States v. James Daniel Good Real Property, 1993-12-13.
+
+**Holdings navigation:** [Mandatory administrative promptness does not supply an unstated dismissal sanction](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#mandatory-administrative-promptness-does-not-supply-an-unstated-dismissal-sanction).
+
+### Mine Act channeling and meaningful judicial review
+
+**Governing question:** Whether anticipatory Mine Act representation-and-posting disputes may bypass the Commission and appellate review.
+
+**Current rule:** Where Congress’s intent is fairly discernible from the Mine Act’s language, structure and purpose and the claims can receive meaningful review, an anticipatory challenge to representation and posting requirements must proceed through the independent Commission and then the court of appeals. Connection to enforcement, relevant agency expertise and actual review availability inform that scheme-specific inquiry, not three mandatory elements for every administrative statute. Review adequacy must reflect actual injury and access; collection only after review, expedition and bounded temporary relief supported the conclusion on the absence of demonstrated irreversible compliance injury. Delayed payment alone does not establish adequate review.
+
+**Authority by component:**
+
+- Statutory channel and inquiry form: [Thunder Basin Coal Co. v. Reich — This Mine Act dispute must follow the statutory review channel](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md#public-projection), 1994-01-19. Blackmun's Opinion of the Court, statutory-channel portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; all nine participants adopt this proposition at the stated level of generality.
+- Meaningful-review qualification and bounded interim routes: [Thunder Basin Coal Co. v. Reich — The available route does not impose an intolerable choice on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md#public-projection), 1994-01-19. Blackmun's Opinion of the Court, meaningful-review and due-process portion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, and Ginsburg; seven participants adopt this ground. Scalia and Thomas agree with the judgment on a distinct constitutional formulation and are not counted as joining this explanation.
+
+**Present operation effective:** Thunder Basin Coal Co. v. Reich, 1994-01-19.
+
+**Exceptions and limits:** Commission temporary relief under §815(b)(2) requires a hearing opportunity for each party, substantial likelihood of favorable findings and no adverse health-and-safety effect; relief is forbidden for §814(a) or (f) citations. Appellate relief under §816(a)(2) requires notice and hearing opportunity, substantial likelihood of success and protection of miners’ health and safety; it excludes §817(a) imminent-danger withdrawal orders and §814(a) or (f) citations. Section 816(c) makes review nonstaying. No stay of every posting citation, immunity from penalties or exclusion of every collateral constitutional claim is established.
+
+**Holdings navigation:** [This Mine Act dispute must follow the statutory review channel](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#this-mine-act-dispute-must-follow-the-statutory-review-channel); [The available route does not impose an intolerable choice on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-available-route-does-not-impose-an-intolerable-choice-on-this-record).
+
+### Objective appearance of judicial impartiality under §455(a)
+
+**Governing question:** When judicial or outside conduct requires federal judicial disqualification.
+
+**Current rule:** A judge must disqualify when an informed, detached observer considering relevant conduct and circumstances together would reasonably question impartiality. A reasonable conclusion that a fair and impartial hearing is unlikely suffices, without proof of actual bias or impossibility of fair judgment. Judicial origin is relevant context, not a bar or exceptional-intensity requirement; outside origin is neither necessary nor sufficient. Ordinary adjudicative views, adverse rulings, criticism and trial management alone do not establish improper partiality. Section 455(b)’s particular limits do not automatically narrow §455(a)’s independent appearance protection.
+
+**Authority by component:**
+
+- Single objective appearance standard across sources: [Liteky v. United States — Section 455(a) applies the same objective appearance standard regardless of source](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Liteky_v_United_States_merits_1994-03-07.md#public-projection), 1994-03-07. Kennedy's opinion of the Court, joined in full by Chief Justice Stone-Zsela, Blackmun, Stevens and Souter. These five Justices adopt this rule at the same level of generality. Scalia, O'Connor, Thomas and Ginsburg agree with the judgment but do not join the ordinary-appearance formulation without their additional judicial-source requirement. No narrower-rationale aggregation is necessary.
+
+**Present operation effective:** Liteky v. United States, 1994-03-07.
+
+**Open question:** Section 144 procedure, independent §455(b)(1) claims and the remedy for an established violation remain unresolved. The four-Justice additional judicial-source threshold is not controlling.
+
+**Holdings navigation:** [Section 455(a) applies the same objective appearance standard regardless of source](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-455a-applies-the-same-objective-appearance-standard-regardless-of-source).
+
+### Statutory temporal reach and new consequences for completed conduct
+
+**Governing question:** How courts decide whether new legislation governs events preceding enactment.
+
+**Current rule:** First determine whether Congress prescribed the statute’s temporal reach. If it did, that direction governs subject to independent constitutional limits. Otherwise ask whether applying the provision would attach new legal consequences to completed events by impairing existing rights, increasing liability for past conduct or imposing new duties concerning completed transactions. Such operation requires clear congressional intent. Pending litigation alone does not answer the question. Procedural, jurisdictional and prospective-relief labels are not substitutes for examining the provision’s actual operation. Legislative correction of a judicial construction, or a purpose to restore an earlier understanding, does not by itself establish retrospective reach; this legislative inquiry differs from the temporal operation of judicial decisions.
+
+**Authority by component:**
+
+- Sequential temporal inquiry: [Landgraf v. USI Film Products — Determine statutory temporal reach before applying the presumption against new retrospective consequences](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Landgraf_v_USI_Film_Products_merits_1994-04-26.md#public-projection), 1994-04-26. Stevens’s general-framework portion, joined by Stone-Zsela, O’Connor, Souter and Ginsburg; five Justices adopt this organizing rule. Scalia, Kennedy and Thomas concur on a distinct relevant-activity approach, not as additional joins at this level of generality.
+- Corrective purpose and distinction from judicial interpretation: [Rivers v. Roadway Express, Inc — Corrective legislative purpose does not itself give an amendment retrospective reach](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Rivers_v_Roadway_Express_merits_1994-04-26.md#public-projection), 1994-04-26. Stevens’s opinion, joined by Stone-Zsela, O’Connor, Souter and Ginsburg, controls by five votes at this explanatory level. Scalia, Kennedy and Thomas accept the judicial/legislative distinction through their separate textual method, not through a presumed full join.
+
+**Present operation effective:** Rivers v. Roadway Express, Inc, 1994-04-26.
+
+**Holdings navigation:** [Determine statutory temporal reach before applying the presumption against new retrospective consequences](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#determine-statutory-temporal-reach-before-applying-the-presumption-against-new-retrospective-consequences); [Corrective legislative purpose does not itself give an amendment retrospective reach](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#corrective-legislative-purpose-does-not-itself-give-an-amendment-retrospective-reach).
+
+### Jurisdiction to enforce a settlement after dismissal
+
+**Governing question:** When a federal court may enforce a settlement after dismissing the original action.
+
+**Current rule:** Enforcement of the settlement is a separate contract controversy requiring an independent jurisdictional basis unless the dismissal order lawfully incorporates the settlement obligation or expressly retains jurisdiction to enforce it. Mere awareness, approval or party consent does not confer jurisdiction. Under Rule 41(a)(2), the court may make compliance or retention a condition of its discretionary dismissal. For a stipulated Rule 41(a)(1)(ii) dismissal, the parties must agree to the retained enforcement authority and the court must timely embody it in its order; a private agreement alone is insufficient.
+
+**Authority by component:**
+
+- Independent basis or operative dismissal order: [Kokkonen v. Guardian Life Insurance Co. of America — Postdismissal contract enforcement requires a jurisdictional basis; A lawful dismissal order may make settlement compliance enforceable](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Kokkonen_v_Guardian_Life_merits_1994-05-16.md#public-projection), 1994-05-16. Scalia's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas, and Ginsburg; all nine adopt the rule, application, and reversal with remand. Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas, and Ginsburg; all nine adopt this qualification defining the boundary of the jurisdictional holding.
+
+**Present operation effective:** Kokkonen v. Guardian Life Insurance Co. of America, 1994-05-16.
+
+**Open question:** Possible reopening under Rule 60(b), as distinct from exercising jurisdiction over a separate contract-enforcement action, is not decided.
+
+**Holdings navigation:** [Postdismissal contract enforcement requires a jurisdictional basis](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#postdismissal-contract-enforcement-requires-a-jurisdictional-basis); [A lawful dismissal order may make settlement compliance enforceable](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-lawful-dismissal-order-may-make-settlement-compliance-enforceable).
+
+### Review preclusion for the approved 1990 base-closure package
+
+**Governing question:** Whether implementation litigation may reopen the approved package under the 1990 base-closure statute.
+
+**Current rule:** The 1990 base-closure statute’s integrated selection, recommendation, presidential approval and congressional-review process, with its constrained choices and strict deadlines, precludes an APA challenge to the approved closure selection through litigation nominally directed at implementation and antecedent selection defects. The holding is tied to that completed statutory package. It does not establish a categorical rule that every presidential recommendation is nonfinal, or resolve presidential APA status as a controlling rationale.
+
+**Authority by component:**
+
+- Scheme-specific preclusion of the completed selection challenge: [Dalton v. Specter — The approved closure selection cannot be reopened through this implementation challenge](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dalton_v_Specter_merits_1994-05-23.md#public-projection), 1994-05-23. Souter's Opinion of the Court is joined by all nine Justices. The statutory-preclusion ground alone commands the Court; a four-Justice concurrence on recommendation finality is not controlling.
+
+**Present operation effective:** Dalton v. Specter, 1994-05-23.
+
+**Open question:** Distinct timely claims to compel an unperformed statutory duty, constitutional claims and genuinely ultra vires conduct remain outside the holding. The broader four-Justice rationale is not governing law.
+
+**Holdings navigation:** [The approved closure selection cannot be reopened through this implementation challenge](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-approved-closure-selection-cannot-be-reopened-through-this-implementation-challenge).
+
+### Sanctions for preserving a substantial question for higher review
+
+**Governing question:** When controlling circuit precedent can justify a sanction for pursuing further review.
+
+**Current rule:** A litigant’s preservation of a substantial question unresolved by the Supreme Court is not frivolous solely because existing circuit precedent forecloses relief below. A sanction resting only on that foreclosure cannot stand. The rule does not excuse an independently sanctionable manner or purpose of litigation, authorize endless repetition or reopen a final merits judgment. Reversal of the sanction leaves an otherwise undisturbed merits disposition in place.
+
+**Authority by component:**
+
+- Legitimate preservation and separation of sanction from merits: [McKnight v. General Motors Corp — Preserving a substantial question for further review is not itself frivolous; Sanction relief leaves the underlying employment disposition undisturbed](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McKnight_v_General_Motors_Corp_merits_1994-05-23.md#public-projection), 1994-05-23. Per curiam Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine direct joins.
+
+**Present operation effective:** McKnight v. General Motors Corp, 1994-05-23.
+
+**Holdings navigation:** [Preserving a substantial question for further review is not itself frivolous](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#preserving-a-substantial-question-for-further-review-is-not-itself-frivolous); [Sanction relief leaves the underlying employment disposition undisturbed](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#sanction-relief-leaves-the-underlying-employment-disposition-undisturbed).
+
+### Congressional reopening of completed private federal judgments
+
+**Governing question:** Whether §27A(b) may compel reopening of an already final, unappealed private securities judgment.
+
+**Current rule:** Article III forbids compelling a federal court to reopen a completed, unappealed judgment in a private securities action through §27A(b)’s retroactive reinstatement command. That command addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time-barred after that date, timely under the jurisdiction’s law as it stood on that date, and the subject of a reinstatement motion within sixty days after enactment. Meeting those statutory conditions does not overcome the constitutional finality of the completed private judgment. Pending litigation, prospective relief, government waiver of its own protection and established Rule 60 mechanisms are distinct questions; the holding does not decide them by analogy alone.
+
+**Authority by component:**
+
+- Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Congress may not command reopening of this completed private federal judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
+
+**Present operation effective:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co, 1994-05-23.
+
+**Holdings navigation:** [Congress may not command reopening of this completed private federal judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#congress-may-not-command-reopening-of-this-completed-private-federal-judgment).
+
+### Private settlement rights and collateral-order appeals
+
+**Governing question:** Whether rejection of a private settlement defense permits an immediate collateral-order appeal.
+
+**Current rule:** Ordinary private settlement rights do not have the public importance required for immediate appeal under the collateral-order doctrine. Independently, final-judgment review adequately vindicates this category of contractual rights despite the expense of the intervening litigation. Describing the bargain as a right not to stand trial does not establish appealability. These independently sufficient limits govern the category presented, not every conceivable private agreement; other authorized interlocutory routes, including §1292 certification when its conditions are met, remain distinct.
+
+**Authority by component:**
+
+- Nine-Justice importance ground: [Digital Equipment Corp. v. Desktop Direct, Inc — A private settlement does not supply the required collateral-order importance](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md#public-projection), 1994-06-06. Part I of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt this independently sufficient ground for affirmance.
+- Eight-Justice independent adequate-final-review ground: [Digital Equipment Corp. v. Desktop Direct, Inc — Independently, final review adequately vindicates this category of settlement rights](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md#public-projection), 1994-06-06. Part II of Scalia's Opinion of the Court, joined by Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. Eight Justices adopt this independently sufficient alternative; Stone-Zsela does not join Part II.
+
+**Present operation effective:** Digital Equipment Corp. v. Desktop Direct, Inc, 1994-06-06.
+
+**Holdings navigation:** [A private settlement does not supply the required collateral-order importance](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-private-settlement-does-not-supply-the-required-collateral-order-importance).
+
+### State-law incidents of claims acquired by the FDIC
+
+**Governing question:** Whether FDIC receivership creates a federal rule displacing state imputation defenses to acquired state tort claims.
+
+**Current rule:** When the FDIC acquires an institution’s state-law tort claims, state law ordinarily supplies the associated imputation rules and defenses. Federal financial interests or a preference for uniformity alone do not justify new federal common law; a significant conflict with an identified federal policy is required. For pre-FIRREA receivership claims the ordinary rule applies independently of that Act. If FIRREA applies, §1821’s succession to the institution’s rights carries their legal incidents subject to Congress’s enacted exceptions; it supplies no additional categorical anti-imputation rule.
+
+**Authority by component:**
+
+- State-law rule and federal-common-law limit: [O’Melveny & Myers v. FDIC — These acquired California claims carry California imputation law](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/OMelveny_Myers_v_FDIC_merits_1994-06-13.md#public-projection), 1994-06-13. Part I of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt the same pre-FIRREA ground, independently sufficient to reject the proposed rule without deciding FIRREA's temporal reach.
+- Independent conditional FIRREA ground: [O’Melveny & Myers v. FDIC — FIRREA, if applicable, supplies no additional anti-imputation rule](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/OMelveny_Myers_v_FDIC_merits_1994-06-13.md#public-projection), 1994-06-13. Part II of Scalia's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. All nine adopt this conditional statutory construction and its temporal reservation. It is not a finding that FIRREA applies retrospectively.
+
+**Present operation effective:** O’Melveny & Myers v. FDIC, 1994-06-13.
+
+**Open question:** The decision leaves FIRREA’s temporal applicability and the eventual operation of the particular state-law defense for the lower courts.
+
+**Holdings navigation:** [These acquired California claims carry California imputation law](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#these-acquired-california-claims-carry-california-imputation-law); [FIRREA, if applicable, supplies no additional anti-imputation rule](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#firrea-if-applicable-supplies-no-additional-anti-imputation-rule).
+
+### Criminal contempt fines and an effective opportunity to purge
+
+**Governing question:** When coercive terminology does not make an out-of-court contempt fine civil.
+
+**Current rule:** A fixed, noncompensatory public fine for completed out-of-court disobedience is criminal when the contemnor has no effective opportunity to purge the imposed obligation through compliance. Announcing a schedule prospectively does not by itself make later irrevocable assessments civil. Compensation measured by actual loss and genuinely conditional coercion, including a daily fine that can be avoided through compliance, remain distinct; ability to comply must be real. Serious criminal contempt requires criminal procedure, including a jury, even if a judge found disobedience beyond a reasonable doubt. The need to enforce an injunction does not replace those protections.
+
+**Authority by component:**
+
+- Character of fines, inadequate enforcement justification and serious-contempt procedure: [International Union, United Mine Workers of America v. Bagwell — The surviving fixed public fines are criminal punishment; Necessity for enforcement does not excuse criminal procedure on this record; Serious criminal contempt requires a jury and these civil assessments cannot stand](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md#public-projection), 1994-06-30. Part I of Justice Kennedy's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine directly adopt the classification and application. Part II of Justice Kennedy's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter and Thomas. Eight Justices adopt this additional bounded procedural explanation. Ginsburg joins the common classification and remedy but not this account. Part III of Justice Kennedy's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg. All nine adopt the jury rule and bounded reversal/remand.
+
+**Present operation effective:** International Union, United Mine Workers of America v. Bagwell, 1994-06-30.
+
+**Exceptions and limits:** Size and complexity alone do not define every contempt. The decision creates no universal numerical seriousness threshold, erases no properly accrued coercive fine automatically, and leaves the distinct procedures for petty and direct contempt outside its holding.
+
+**Holdings navigation:** [The surviving fixed public fines are criminal punishment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-surviving-fixed-public-fines-are-criminal-punishment); [Necessity for enforcement does not excuse criminal procedure on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#necessity-for-enforcement-does-not-excuse-criminal-procedure-on-this-record); [Serious criminal contempt requires a jury and these civil assessments cannot stand](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#serious-criminal-contempt-requires-a-jury-and-these-civil-assessments-cannot-stand).
+
 ## Civil rights and constitutional remedies
 
 ### Individual-capacity liability for official conduct under §1983
@@ -600,6 +802,101 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Present operation effective:** 1993-06-24; Buckley v. Fitzsimmons, for the components identified above.
 
 **Holdings navigation:** [Buckley v. Fitzsimmons, 509 U.S. 259 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#buckley-v-fitzsimmons-509-us-259-1993).
+
+### Prospective parole-consideration claims under §1983
+
+**Governing question:** Whether a prisoner must use habeas to restore the required frequency of discretionary parole consideration.
+
+**Current rule:** A state prisoner may seek prospective declaratory and injunctive relief under §1983 against responsible officials to restore the legally required frequency of discretionary parole consideration when the judgment neither orders release nor establishes entitlement to release or shorter custody. Habeas is not the exclusive channel for that opportunity-only claim, and no general state-remedy exhaustion requirement attaches to the properly brought §1983 action.
+
+**Authority by component:**
+
+- Opportunity-only channel and absence of general exhaustion: [Cavanaugh v. Roller — Section 1983 permits this opportunity-only claim](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Cavanaugh_v_Roller_merits_1993-11-30.md#public-projection), 1993-11-30. Part II of O'Connor's opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, and Souter; six Justices adopt the same rule and affirm this remedial channel.
+
+**Present operation effective:** Cavanaugh v. Roller, 1993-11-30.
+
+**Related current rules:** “Conviction-negating damages claims and favorable invalidation” governs the separate in-custody damages prerequisite; Cavanaugh’s opportunity-only relief remains available.
+
+**Holdings navigation:** [Section 1983 permits this opportunity-only claim](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-1983-permits-this-opportunity-only-claim).
+
+### Relevant precedent in appellate qualified-immunity review
+
+**Governing question:** What legal sources an appellate court must consider on a preserved clearly-established-law issue.
+
+**Current rule:** Whether a federal right was clearly established when officials acted is reviewed independently using all relevant precedent, including cases neither cited to nor discovered by the district court. This does not admit a new claim or factual record, make each considered precedent controlling or permit later decisions to supply notice retrospectively. The notice inquiry stays fixed to the conduct date. Ordinary claim and evidence preservation, particularized objective immunity and proper summary-judgment treatment remain distinct; no mandatory merits-first sequence follows.
+
+**Authority by component:**
+
+- Independent legal review, contemporaneous notice and preservation limits: [Elder v. Holloway — Appellate review must consider all relevant law on the preserved immunity issue](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Elder_v_Holloway_merits_1994-02-23.md#public-projection), 1994-02-23. Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas. All nine adopt the legal-authority rule and the limited reversal and remand.
+
+**Present operation effective:** Elder v. Holloway, 1994-02-23.
+
+**Holdings navigation:** [Appellate review must consider all relevant law on the preserved immunity issue](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#appellate-review-must-consider-all-relevant-law-on-the-preserved-immunity-issue).
+
+### No direct federal-agency Bivens damages action
+
+**Governing question:** Whether sovereign consent itself permits constitutional damages against a federal agency.
+
+**Current rule:** A waiver removes sovereign immunity but does not create constitutional damages liability. Bivens’s individual-officer action does not extend directly to a federal agency: that extension would create a new defendant and public obligation. Independently, even assuming compensation and deterrence benefits, the expansion of direct federal fiscal liability and redesign of the remedial structure counsel against judicial creation of that agency action. Existing individual Bivens, Davis and Carlson actions and genuinely authorized statutory remedies retain their own scope; no adequate substitute remedy is presumed.
+
+**Authority by component:**
+
+- Separation of waiver from agency cause: [FDIC v. Meyer — Waiver does not create a direct agency Bivens action](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/FDIC_v_Meyer_merits_1994-02-23.md#public-projection), 1994-02-23. The cause-of-action portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. All nine adopt this independently sufficient ground for rejecting the agency award.
+- Independent fiscal-and-remedial reason against extension: [FDIC v. Meyer — Independent reason to leave this fiscal and remedial extension to Congress](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/FDIC_v_Meyer_merits_1994-02-23.md#public-projection), 1994-02-23. The independent fiscal-and-remedial portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. Nine Justices adopt this independently sufficient alternative ground.
+
+**Present operation effective:** FDIC v. Meyer, 1994-02-23.
+
+**Holdings navigation:** [Waiver does not create a direct agency Bivens action](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#waiver-does-not-create-a-direct-agency-bivens-action).
+
+### The 1991 Civil Rights Act’s new liabilities and jury election
+
+**Governing question:** Whether the 1991 Act’s new damages and contractual coverage reach preenactment conduct.
+
+**Current rule:** Section 102’s new compensatory and punitive damages do not apply to conduct before November 21, 1991. Its jury election exists only when statutory damages under that section are available and requested; either party may then demand a jury, which must not be told the statutory caps. Section 102 damages supplement rather than duplicate §706(g) relief and exclude backpay, interest on backpay and other relief authorized there. Punitive damages require malice or reckless indifference to federally protected rights and are unavailable against governments, government agencies and political subdivisions. Section 101’s expansion of §1981 to contractual performance, modification, termination and enjoyment of benefits likewise does not govern preenactment conduct. Corrective purpose alone supplies no contrary temporal command; a defendant need not prove actual reliance on the former interpretation.
+
+**Authority by component:**
+
+- New damages, their limits and dependent jury election: [Landgraf v. USI Film Products — Section 102 does not add its new damages to this preenactment conduct; The jury election depends on an available statutory damages claim](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Landgraf_v_USI_Film_Products_merits_1994-04-26.md#public-projection), 1994-04-26. Stevens’s §102 application, joined by Stone-Zsela, O’Connor, Souter and Ginsburg, controls by five votes. Scalia, Kennedy and Thomas independently reach the same unavailability of new damages through their concurrence. Blackmun disagrees about compensation and reserves punitive damages. Stevens’s jury portion, joined by Stone-Zsela, O’Connor, Souter and Ginsburg, supplies the controlling five-Justice explanation. Scalia, Kennedy and Thomas reach the same conditional conclusion in their concurrence; Blackmun would permit a jury election because he would make compensation available.
+- Expanded contractual coverage and temporal reach: [Rivers v. Roadway Express, Inc — Section 101’s new contractual coverage does not govern the earlier conduct; Corrective legislative purpose does not itself give an amendment retrospective reach](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Rivers_v_Roadway_Express_merits_1994-04-26.md#public-projection), 1994-04-26. Stevens’s opinion, joined in full by Stone-Zsela, O’Connor, Souter and Ginsburg; these five adopt the complete explanation. Scalia, Kennedy and Thomas reach the same temporal result through their separate relevant-activity and textual-command method. Stevens’s opinion, joined by Stone-Zsela, O’Connor, Souter and Ginsburg, controls by five votes at this explanatory level. Scalia, Kennedy and Thomas accept the judicial/legislative distinction through their separate textual method, not through a presumed full join.
+
+**Present operation effective:** Rivers v. Roadway Express, Inc, 1994-04-26.
+
+**Exceptions and limits:** Claims already available under the earlier law remain available on their own terms. Neither section supplies a new remedy for every earlier Title VII or §1981 wrong.
+
+**Holdings navigation:** [Section 102 does not add its new damages to this preenactment conduct](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-102-does-not-add-its-new-damages-to-this-preenactment-conduct); [The jury election depends on an available statutory damages claim](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-jury-election-depends-on-an-available-statutory-damages-claim); [Section 101’s new contractual coverage does not govern the earlier conduct](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-101s-new-contractual-coverage-does-not-govern-the-earlier-conduct); [Corrective legislative purpose does not itself give an amendment retrospective reach](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#corrective-legislative-purpose-does-not-itself-give-an-amendment-retrospective-reach).
+
+### Conviction-negating damages claims and favorable invalidation
+
+**Governing question:** When a prisoner’s §1983 damages claim must await invalidation of the conviction or sentence.
+
+**Current rule:** For an in-custody claimant with a real lawful opportunity to challenge the conviction, a §1983 damages claim whose success necessarily establishes the invalidity of that conviction or sentence cannot proceed before favorable invalidation. Qualifying invalidation is reversal on direct appeal, executive expungement, a declaration of invalidity by an authorized state tribunal, or a federal writ of habeas corpus calling it into question. The court compares the actual civil theory and criminal basis, not labels. Independent injuries whose success is compatible with the criminal judgment remain separately cognizable. The barred claim accrues upon qualifying invalidation; the rule is not a direction to file now and seek a stay or an invented tolling regime.
+
+**Authority by component:**
+
+- Limited in-custody necessary-invalidity prerequisite: [Heck v. Humphrey — I. Necessary invalidity on the present in-custody record; II. Statutory coordination supports this limited prerequisite](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Heck_v_Humphrey_merits_1994-06-24.md#public-projection), 1994-06-24. Part I of Justice O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine directly adopt this bounded rule; the distinct sufficient rationales are not added together to obtain its support. Part II of O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens and Souter; five Justices adopt this sufficient statutory explanation at this limited scope. Scalia, Kennedy, Thomas and Ginsburg do not join Part II.
+- Qualifying invalidation, accrual and independent injuries: [Heck v. Humphrey — III. Qualifying invalidation and deferred accrual; IV. Independent injuries, claim-specific analysis and this dismissal](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Heck_v_Humphrey_merits_1994-06-24.md#public-projection), 1994-06-24. Part III of O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine directly adopt the four invalidation routes and the accrual consequence for the barred claim. Part IV of O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine directly adopt this boundary, application and remedy.
+
+**Present operation effective:** Heck v. Humphrey, 1994-06-24.
+
+**Open question:** Two distinct populations remain unresolved: former prisoners no longer in custody, and persons who never had a realistic opportunity for habeas review regardless of custody status. Neither reservation is an exemption already granted. Patsy’s ordinary no-exhaustion rule and Cavanaugh’s opportunity-only prospective claim remain effective.
+
+**Holdings navigation:** [Necessary invalidity on the present in-custody record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#necessary-invalidity-on-the-present-in-custody-record); [Statutory coordination supports this limited prerequisite](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#statutory-coordination-supports-this-limited-prerequisite); [Qualifying invalidation and deferred accrual](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#qualifying-invalidation-and-deferred-accrual); [Independent injuries, claim-specific analysis and this dismissal](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#independent-injuries-claim-specific-analysis-and-this-dismissal).
+
+### Meaningful review of punitive-damage amounts
+
+**Governing question:** What due process requires when a State removes traditional judicial review of punitive-damage amounts.
+
+**Current rule:** A State may not remove meaningful judicial review of the amount of a punitive-damage award without an adequate substitute protecting against arbitrary deprivation. Review limited to whether any evidence supports an award, or safeguards directed only to entitlement rather than amount, do not necessarily fill that gap. The inquiry concerns meaningful protection against arbitrary magnitude; it does not establish a fixed constitutional ratio, mandatory remittitur, a prescribed written-opinion format or a required number of reviewing courts.
+
+**Authority by component:**
+
+- Amount review and inadequate substitutes: [Honda Motor Co. v. Oberg — Removing amount review without adequate replacement violates due process; Oregon's actual safeguards do not cure the amount-review gap](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Honda_Motor_Co_v_Oberg_merits_1994-06-24.md#public-projection), 1994-06-24. Justice Blackmun's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt this bounded procedural rule, without a substantive numerical rule. Justice Blackmun's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt the application and limited review remedy.
+
+**Present operation effective:** Honda Motor Co. v. Oberg, 1994-06-24.
+
+**Open question:** The decision does not itself determine the permissible amount of the award or prescribe the only constitutionally sufficient system of review.
+
+**Holdings navigation:** [Removing amount review without adequate replacement violates due process](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#removing-amount-review-without-adequate-replacement-violates-due-process); [Oregon's actual safeguards do not cure the amount-review gap](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#oregons-actual-safeguards-do-not-cure-the-amount-review-gap).
 
 ## Criminal procedure, evidence, and punishment
 
@@ -1250,19 +1547,21 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Holdings navigation:** [Minnesota v. Dickerson, 508 U.S. 366 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#minnesota-v-dickerson-508-us-366-1993); [Minnesota v. Dickerson, 508 U.S. 366 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#minnesota-v-dickerson-508-us-366-1993-1).
 
-### Serious future health risks in prison conditions
+### Serious risks in prison conditions and deliberate indifference
 
-**Governing question:** What instructions govern serious future health risks in prison conditions?
+**Governing question:** What objective danger, official culpability and response govern preventive prison-conditions claims and failure-to-protect liability.
 
-**Current rule:** A prisoner may establish an Eighth Amendment violation through deliberate indifference to involuntary exposure posing unreasonable risk of serious future harm, without waiting for existing disease. The prisoner must prove objective gravity, including seriousness, likelihood and contemporary society's unwillingness to tolerate the risk, and the separate subjective culpability requirement under Wilson. Current conditions govern prospective relief; no later Farmer formulation or automatic relief from exposure alone enters.
+**Current rule:** A prisoner may establish an Eighth Amendment violation through deliberate indifference to involuntary exposure posing an unreasonable risk of serious future harm without waiting for existing disease. For future-health exposure, the objective inquiry includes the seriousness and likelihood of harm and contemporary society’s unwillingness to tolerate the risk. For a substantial danger to inmate safety, an official must actually know facts indicating the risk, actually draw the inference and disregard it unreasonably. Constructive knowledge or negligence is insufficient. Reasonable protective action defeats deliberate-indifference liability even if harm occurs. Actual awareness may be proved circumstantially, including from an obvious risk, but obviousness permits rather than compels the inference. Deliberate avoidance of confirmation may support actual awareness; a specific prisoner warning, identification of the exact assailant or prediction of the precise time is unnecessary. Knowledge cannot be imputed collectively without proof of the individual official’s awareness. Prospective relief considers current danger and awareness through the litigation and whether unlawful disregard is likely to continue; an adequate showing of nonrecurrence may defeat that relief. Later notice can support prospective protection but does not retroactively establish awareness for damages.
 
 **Authority by component:**
 
 - Preventive protection does not require existing disease: [Helling v. McKinney — Preventive protection does not require existing disease](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/Helling_v_McKinney_merits_1993-06-18.md), 1993-06-18. White’s Opinion of the Court, Preventive protection does not require existing disease portion; Stone-Zsela, White, Blackmun, Stevens, O’Connor, Kennedy, Souter (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
-**Present operation effective:** 1993-06-18; Helling v. McKinney, for the components identified above.
+- Actual-awareness standard, circumstantial proof, reasonable response and preventive relief: [Farmer v. Brennan — Actual awareness and unreasonable disregard of substantial danger; Circumstantial proof and reconsideration of summary judgment; Current danger governs preventive relief](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Farmer_v_Brennan_merits_1994-06-06.md#public-projection), 1994-06-06. Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight Justices adopt this rule; Thomas joins only the judgment. The proof-and-remand portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg. Eight adopt its reasoning; all nine support vacatur and remand. The prospective-relief portion of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Ginsburg; eight Justices adopt this rule and the bounded remand.
 
-**Holdings navigation:** [Helling v. McKinney, 509 U.S. 25 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#helling-v-mckinney-509-us-25-1993).
+**Present operation effective:** Farmer v. Brennan, 1994-06-06, for subjective culpability, proof and preventive operation; Helling’s objective future-health inquiry remains effective from 1993-06-18.
+
+**Holdings navigation:** [Helling v. McKinney, 509 U.S. 25 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#helling-v-mckinney-509-us-25-1993); [Actual awareness and unreasonable disregard of substantial danger](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#actual-awareness-and-unreasonable-disregard-of-substantial-danger); [Circumstantial proof and reconsideration of summary judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#circumstantial-proof-and-reconsideration-of-summary-judgment); [Current danger governs preventive relief](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#current-danger-governs-preventive-relief).
 
 ### Capacity to plead or waive counsel and independent valid waiver
 
@@ -1310,6 +1609,362 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Present operation effective:** 1993-06-28; Daubert v. Merrell Dow Pharmaceuticals, for the components identified above.
 
 **Holdings navigation:** [Daubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#daubert-v-merrell-dow-pharmaceuticals-509-us-579-1993).
+
+### Retrospective withdrawal of mandatory parole reconsideration
+
+**Governing question:** Whether a later law may double the interval between mandatory discretionary-parole hearings for an earlier offender.
+
+**Current rule:** The Ex Post Facto Clause forbids applying to a pre-enactment offender a later statute that removes every alternate mandatory parole-reconsideration opportunity by doubling the post-denial interval from twelve to twenty-four months, where ordinary parole depends on consideration and no retained ordinary means of obtaining intervening review is established. That binding loss of a meaningful release opportunity makes punishment more onerous despite unchanged initial eligibility, maximum sentence and ultimate release discretion; the prisoner need not prove the omitted hearing would have produced release. Relief restores the consideration opportunity, not an entitlement to parole.
+
+**Authority by component:**
+
+- Mandatory annual-to-biennial withdrawal, proof and relief boundary: [Cavanaugh v. Roller — The binding loss of annual reconsideration increases punishment on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Cavanaugh_v_Roller_merits_1993-11-30.md#public-projection), 1993-11-30. Part III of O'Connor's opinion, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy, and Souter; six Justices adopt the rule, its application to Roller, and the prospective remedy. Ginsburg's conditional agreement in her separate opinion adds no vote to this controlling coalition.
+
+**Present operation effective:** Cavanaugh v. Roller, 1993-11-30.
+
+**Open question:** Individualized postponement based on no material change warranting release, meaningful interim review, changed voting or suitability rules, abolition of parole and the reach of extraordinary clemency remain unresolved. No general probability formula governs other changes.
+
+**Holdings navigation:** [The binding loss of annual reconsideration increases punishment on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-binding-loss-of-annual-reconsideration-increases-punishment-on-this-record).
+
+### South Carolina violent-crime classification at the offense date
+
+**Governing question:** Which classification date and transition provisions govern South Carolina’s admitted Act No. 184.
+
+**Current rule:** Under §16-1-60(B), an offense must have been defined as violent under subsection (A) when committed for the person to be considered guilty of a violent crime. Act No. 184 §266 applies subsection (B) retroactively to all persons convicted under South Carolina law while saving all pending proceedings and existing, acquired or incurred rights and liabilities at the effective date. Other provisions apply prospectively to crimes and offenses committed after that date. Sentences pronounced on or after the effective date must comply with the classification system except where that would require a greater penalty than applied at the offense date.
+
+**Authority by component:**
+
+- Act No. 184 §§8, 266, 268–269, precise admitted statutory text and transition: [South Carolina 1993 Act — §16-1-60(B), Act 184 §§8, 266, 268–269](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/South_Carolina_Act_184_effective_source_1994-01-01.md#public-projection), effective 1994-01-01 for the classification rule; admitted enacted text and its preserved temporal provisions.
+
+**Present operation effective:** South Carolina 1993 Act, 1994-01-01.
+
+**Effective transition:** The relevant provisions take effect January 1, 1994. Section 268 makes §267 effective July 1, 1993; §269 excludes §§267 and 268 from its January 1 effective-date command. The source does not retroactively alter Cavanaugh’s November 30 decision.
+
+**Unresolved interaction:** The admitted source does not construe the relationship between §266’s savings sentence and its express retroactivity sentence. It establishes no compliance, mootness or judicial vacatur.
+
+### Knowing unlawfulness in willful currency structuring
+
+**Governing question:** What §5322(a)’s willfulness requires for the charged §5324(3) structuring offense.
+
+**Current rule:** The Government must prove beyond a reasonable doubt that the defendant knew the structuring was unlawful, in addition to knowledge of the financial institution’s reporting duty and a purpose to evade it. Reasonable circumstantial inferences may establish knowledge; knowledge of a section number or having read the Code is unnecessary. If ordinary interpretation leaves genuine ambiguity on that additional knowledge requirement, lenity independently requires this narrower criminal construction; conflicting history or general purpose cannot enlarge the crime beyond sufficiently clear enacted language.
+
+**Authority by component:**
+
+- Knowledge elements and proof: [Ratzlaf v. United States — Willful structuring requires knowledge that structuring is unlawful](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Ratzlaf_v_United_States_merits_1994-01-11.md#public-projection), 1994-01-11. Ginsburg's Opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Kennedy, and Souter; six of nine participants adopt the rule and instructional-error disposition.
+- Independent residual-lenity ground: [Ratzlaf v. United States — Residual ambiguity independently requires the narrower criminal construction](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Ratzlaf_v_United_States_merits_1994-01-11.md#public-projection), 1994-01-11. Ginsburg's Opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Kennedy, and Souter; the same six Justices expressly adopt this independently sufficient alternative holding.
+
+**Present operation effective:** Ratzlaf v. United States, 1994-01-11.
+
+**Exceptions and limits:** The §5322(a) exception for §5315 and its regulations is separate from §5324(3). This is no universal ignorance-of-law defense, legal-proceeds requirement or civil-forfeiture rule.
+
+**Holdings navigation:** [Willful structuring requires knowledge that structuring is unlawful](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#willful-structuring-requires-knowledge-that-structuring-is-unlawful).
+
+### Late assertion of Teague nonretroactivity
+
+**Governing question:** Whether an omitted Teague defense must be entertained when first raised in Supreme Court merits briefing.
+
+**Current rule:** Teague nonretroactivity is not jurisdictional. When the State omitted it below and in its certiorari opposition and first asserted it in merits briefing, the Court may decline consideration. The permission is discretionary, not a mandatory waiver rule. A consistently preserved subsidiary defense limiting the very constitutional rule and habeas relief under review presents the distinct fair-inclusion setting addressed in Caspari; preservation and fair inclusion remain separate.
+
+**Authority by component:**
+
+- Discretion to decline the late nonjurisdictional defense: [Schiro v. Farley — Late presentation of nonretroactivity](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Schiro_v_Farley_merits_1994-01-19.md#public-projection), 1994-01-19. O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices. Blackmun and Stevens also agree with merits reach, but their agreement is unnecessary to the opinion's controlling authority.
+- Preserved subsidiary-defense distinction: [Caspari v. Bohlen — The preserved nonretroactivity defense is fairly included here](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Caspari_v_Bohlen_merits_1994-02-23.md#public-projection), 1994-02-23. O'Connor's opinion of the Court, joined by Stone-Zsela, Blackmun, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices. Stevens disagrees with fair inclusion and would decline the defense under Rule 14.1(a).
+
+**Present operation effective:** Schiro v. Farley, 1994-01-19, for discretionary treatment of the late defense. Caspari, 1994-02-23, supplies the distinct preserved-defense comparison, not a later change to that discretion.
+
+**Related current rules:** “Presented questions, subsidiary arguments and exceptional Supreme Court review” supplies the question-presentation boundary. Neither decision changes Teague’s new-rule inquiry or either contemporary exception.
+
+**Holdings navigation:** [Late presentation of nonretroactivity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#late-presentation-of-nonretroactivity); [The preserved nonretroactivity defense is fairly included here](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-preserved-nonretroactivity-defense-is-fairly-included-here).
+
+### Former drug-possession probation revocation and the imprisonment range
+
+**Governing question:** How former §3565(a)’s mandatory drug-possession proviso measures replacement imprisonment in the ordinary zero-to-six-month Guidelines setting.
+
+**Current rule:** For controlled-substance possession triggering the former proviso, with an initially available zero-to-six-month Guidelines imprisonment range and no established lawful departure, revocation requires imprisonment of at least one-third of that range’s six-month maximum and no more than that maximum. Probation months are not equivalent prison months. After ordinary interpretation, genuine residual uncertainty independently defeats the larger probation-to-prison conversion; disagreement alone is not ambiguity and lenity is no universal lowest-number rule.
+
+**Authority by component:**
+
+- Bounded range construction: [United States v. Granderson — The former proviso requires two to six months’ imprisonment on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Granderson_merits_1994-03-22.md#public-projection), 1994-03-22. Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter; six Justices support this complete construction, independently of Scalia's and Kennedy's judgment concurrences.
+- Independent residual-lenity rejection of larger punishment: [United States v. Granderson — Residual penal uncertainty defeats the larger probation-to-prison conversion](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Granderson_merits_1994-03-22.md#public-projection), 1994-03-22. Ginsburg's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Souter; the same six Justices adopt this independently sufficient reason to reject the Government's twenty-month construction.
+
+**Present operation effective:** United States v. Granderson, 1994-03-22.
+
+**Open question:** Materially different initial ranges and downward-departure situations require their own lawful calculation. No denominator for those situations, supervised-release rule or later statutory amendment is supplied.
+
+**Holdings navigation:** [The former proviso requires two to six months’ imprisonment on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-former-proviso-requires-two-to-six-months-imprisonment-on-this-record).
+
+### Purposeful sex discrimination in state peremptory strikes
+
+**Governing question:** How equal protection governs a State’s use of sex in peremptory jury selection.
+
+**Current rule:** The State may not strike a juror because of sex or a stereotype that sex predicts competence or impartiality. Sex classifications must substantially serve an important governmental objective; a generalized prediction of sympathy does not suffice. The objector first must make the required prima facie showing, after which the striking party must produce a genuine sex-neutral explanation, without having to establish cause. The court decides purposeful discrimination with the ultimate persuasion burden on the objector. A correlated individual characteristic may be a genuine reason but cannot serve as pretext or proxy. Established discriminatory selection requires a new trial before a lawfully selected jury, not a proportionally composed jury.
+
+**Authority by component:**
+
+- Prohibition, staged proof and conditional new-trial remedy: [J.E.B. v. Alabama ex rel. T.B — Purposeful sex discrimination in state peremptory strikes; Staged proof and the remand](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md#public-projection), 1994-04-19. Blackmun’s Opinion of the Court, joined by Stone, Stevens, O’Connor, Souter and Ginsburg; six Justices adopt the rule and explanation. Kennedy concurs in the judgment and independently supports the operative prohibition on individual-right grounds. Blackmun’s six-Justice Opinion of the Court adopts the procedure and conditional remedy; Kennedy independently agrees with the operative inquiry and remand, producing seven votes for reversal and remand.
+
+**Present operation effective:** J.E.B. v. Alabama ex rel. T.B, 1994-04-19.
+
+**Open question:** The sex-strike rule for private parties is not decided. The earlier racial-strike rules, including the criminal-defense rule, retain their separate scope.
+
+**Holdings navigation:** [Purposeful sex discrimination in state peremptory strikes](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#purposeful-sex-discrimination-in-state-peremptory-strikes); [Staged proof and the remand](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#staged-proof-and-the-remand).
+
+### Communicated circumstances and Miranda custody
+
+**Governing question:** Which circumstances determine custody for Miranda warnings.
+
+**Current rule:** Custody turns on the objective circumstances confronting the person questioned and whether a reasonable person in that position would understand freedom of movement to be restrained to the degree associated with formal arrest. An officer’s uncommunicated view of the person as suspect or witness does not enter the calculation. Beliefs conveyed by words or conduct may affect the objective setting to the extent they would affect that reasonable understanding. Communicating suspicion does not itself establish custody, and an officer’s private intent cannot substitute for the objective inquiry.
+
+**Authority by component:**
+
+- Objective arrest-equivalent restraint and communicated beliefs: [Stansbury v. California — Custody turns on the circumstances communicated to the person questioned](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Stansbury_v_California_merits_1994-04-26.md#public-projection), 1994-04-26. The per curiam opinion, joined in full by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt the rule and reversal with remand.
+
+**Present operation effective:** Stansbury v. California, 1994-04-26.
+
+**Holdings navigation:** [Custody turns on the circumstances communicated to the person questioned](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#custody-turns-on-the-circumstances-communicated-to-the-person-questioned).
+
+### Federal presentment delay and the confession safe harbor
+
+**Governing question:** When §3501(c)’s federal presentment clock begins and what its protection establishes.
+
+**Current rule:** Section 3501(c)’s clock presupposes a duty to present the arrested person before a federal magistrate or other authorized officer. Genuine custody solely on state charges creates no federal presentment duty merely because the detainee confesses to a federal crime. Actual federal arrangements may present a different question; formal labels do not alone resolve whether a federal duty exists. Within six hours after the relevant arrest or detention, delay alone does not render a confession inadmissible if the judge finds voluntariness and its weight is left to the jury. Reasonable delay considering transportation means and distance to the nearest available magistrate may extend that protection. Failure to satisfy the safe harbor does not itself establish inadmissibility.
+
+**Authority by component:**
+
+- Duty before clock and limited statutory protection: [United States v. Alvarez-Sanchez — The relevant presentment duty precedes the measurement of delay; The limited statutory protection does not decide all confession admissibility](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Alvarez_Sanchez_merits_1994-05-02.md#public-projection), 1994-05-02. Thomas’s opinion for the Court, joined in full by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg; all nine adopt the same bounded rule. Thomas’s opinion for the Court, joined by Stone-Zsela, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg; all nine adopt this limited statutory explanation. Ginsburg’s concurrence, joined by Blackmun, emphasizes the reservation without changing either Justice’s full join or supplying a separate controlling answer.
+
+**Present operation effective:** United States v. Alvarez-Sanchez, 1994-05-02.
+
+**Open question:** Collusive arrangements, the full rules for confessions outside the six-hour protection, and independent Miranda objections remain unresolved by this decision.
+
+**Holdings navigation:** [The relevant presentment duty precedes the measurement of delay](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-relevant-presentment-duty-precedes-the-measurement-of-delay); [The limited statutory protection does not decide all confession admissibility](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-limited-statutory-protection-does-not-decide-all-confession-admissibility).
+
+### Convicting-jurisdiction law for the firearms conviction exclusion
+
+**Governing question:** Which jurisdiction's law governs whether expungement, set-aside, pardon or restoration of civil rights excludes a conviction under 18 U.S.C. §921(a)(20) for the federal firearms prohibition.
+
+**Current rule:** Apply the law of the jurisdiction where the proceedings occurred to the related conviction exclusion for expungement, set-aside, pardon or restoration of civil rights. State restoration alone does not remove a federal conviction as a §922(g) predicate. The enacted exclusion retains its qualification: a conviction is not excluded if the pardon, expungement or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms. State administration of ordinary civil rights and difficulty obtaining federal relief do not supply a different sovereign selector or create a judicial restoration procedure.
+
+**Authority by component:**
+
+- Convicting-sovereign selector and retained-firearms qualification: [Beecham and Jones — The law of the convicting jurisdiction governs the conviction exclusion](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Beecham_and_Jones_v_United_States_merits_1994-05-16.md#the-law-of-the-convicting-jurisdiction-governs-the-conviction-exclusion), 1994-05-16. O'Connor's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; unanimous direct support.
+
+**Present operation effective:** Beecham and Jones, May 16, 1994 (1994-05-16).
+
+**Open question:** The decision does not establish the availability or satisfaction of a particular federal pardon or restoration mechanism, §925(c) relief, the required civil-rights bundle, automatic versus affirmative restoration, or federal habeas as a set-aside.
+
+**Related current rules:** Collateral attacks on ACCA predicates at federal sentencing governs the distinct sentencing-forum question; it does not replace this conviction-selector rule.
+
+**Holdings navigation:** [The law of the convicting jurisdiction governs the conviction exclusion](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-law-of-the-convicting-jurisdiction-governs-the-conviction-exclusion).
+
+### Collateral attacks on ACCA predicates at federal sentencing
+
+**Governing question:** Which attacks on prior state convictions may be heard in the federal ACCA sentencing proceeding.
+
+**Current rule:** The ACCA sentencing proceeding does not supply a general collateral-review forum for attacks on prior state convictions based on ineffective representation or an involuntary counseled plea. A conviction obtained through an unconstitutional complete denial of counsel, without valid waiver, is the constitutional exception. Statutory objections to whether a conviction meets the enhancement’s predicate requirements remain distinct from such collateral attacks. A defendant may pursue authorized review in the proper forum and, after a predicate is invalidated there, apply for relief from the enhanced sentence; the decision promises neither reopening nor its remedy.
+
+**Authority by component:**
+
+- Forum limitation, complete-denial exception and distinct statutory objections: [Custis v. United States — The ACCA supplies no general collateral-review procedure at sentencing; The constitutional counsel exception and the proper review channel](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Custis_v_United_States_merits_1994-05-23.md#public-projection), 1994-05-23. O'Connor's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Thomas and Ginsburg; six direct joins to this statutory ground. The same six Justices join O'Connor's separate constitutional ground and its express remedial reservation; the three dissenters would allow the present attacks under their statutory construction.
+
+**Present operation effective:** Custis v. United States, 1994-05-23.
+
+**Open question:** The case does not resolve the position of a defendant who has no meaningful opportunity for authorized review because custody on the predicate has expired. Beecham’s separate conviction-selector rule is not supplied by this entry.
+
+**Holdings navigation:** [The ACCA supplies no general collateral-review procedure at sentencing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-acca-supplies-no-general-collateral-review-procedure-at-sentencing); [The constitutional counsel exception and the proper review channel](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-constitutional-counsel-exception-and-the-proper-review-channel).
+
+### Objective drug-paraphernalia classification and factual knowledge
+
+**Governing question:** How former 21 U.S.C. §857 identifies prohibited articles and the required state of mind.
+
+**Current rule:** An article is drug paraphernalia when its objective design or primary likely use makes it primarily intended or designed for use with controlled substances in the activities the statute covers. The listed examples and permissible evidentiary factors guide that practical inquiry. Those factors include accompanying instructions and descriptive materials, national and local advertising, display, whether the supplier is a legitimate supplier of like or related lawful items, the ratio of sales to total enterprise sales, legitimate community uses and expert testimony. No factor is mandatory or alone conclusive. The prosecution must prove actual knowledge of the article’s likely illicit use, which may be inferred from circumstances; it need not prove knowledge of the legal classification or a desire that the use occur. A seller’s unmanifested private purpose alone does not replace objective classification.
+
+**Authority by component:**
+
+- Objective classification, knowledge and the five-Justice limit on private purpose: [Posters ’N’ Things, Ltd. v. United States — Objective design and primary likely use identify the covered articles; Knowing the likely illicit use is required; desiring it is not; Private seller purpose alone does not replace the objective classification](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md#public-projection), 1994-05-23. Blackmun's Opinion of the Court, joined in this part by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct joins. Scalia, Kennedy and Thomas agree that the objective likely-use ground is sufficient here, without joining an exclusive objective construction of the intended-use branch. Part IV of Blackmun's Opinion of the Court, joined by Stevens, O'Connor, Souter and Ginsburg; five direct joins. Stone-Zsela joins the objective application and other controlling parts but does not join this additional exclusive proposition. Scalia, Kennedy and Thomas reject the exclusion of an independently sufficient seller-intent route.
+
+**Present operation effective:** Posters ’N’ Things, Ltd. v. United States, 1994-05-23.
+
+**Exceptions and limits:** Section 857(f) excludes a person authorized by local, state or federal law to manufacture, possess or distribute such items, and an item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including pipes, papers and accessories. The tobacco exception does not acquire an extra “primarily” requirement from the definition. The as-applied notice holding supplies no categorical answer for every ambiguous article.
+
+**Holdings navigation:** [Objective design and primary likely use identify the covered articles](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#objective-design-and-primary-likely-use-identify-the-covered-articles); [Knowing the likely illicit use is required; desiring it is not](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#knowing-the-likely-illicit-use-is-required-desiring-it-is-not); [Private seller purpose alone does not replace the objective classification](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#private-seller-purpose-alone-does-not-replace-the-objective-classification).
+
+### Knowledge of machinegun characteristics in unregistered possession
+
+**Governing question:** What must be proved when a conventional-looking rifle falls within the whole-weapon machinegun definition.
+
+**Current rule:** For §5861(d) possession of an unregistered rifle prosecuted as a whole-weapon machinegun under §5845(b), the Government must prove beyond a reasonable doubt that the defendant knew the characteristics making it a machinegun: it shoots, is designed to shoot, or can readily be restored to shoot automatically more than one shot, without manual reloading, by a single function of the trigger. Knowledge that the weapon is unregistered or that possession is illegal is not required. Ordinary possession of a rifle is not enough to presume knowledge of its automatic-fire characteristics.
+
+**Authority by component:**
+
+- Knowledge of the regulated weapon characteristics: [Staples v. United States — Knowledge of the characteristics making this rifle a machinegun](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Staples_v_United_States_merits_1994-05-23.md#public-projection), 1994-05-23. Thomas's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Souter, supplies five direct joins to this rule and its explanation. Ginsburg, joined by O'Connor, independently concurs in the judgment on the same narrow factual-knowledge requirement; the Court's authority does not depend on combining different rationales under Marks.
+
+**Present operation effective:** Staples v. United States, 1994-05-23.
+
+**Open question:** The holding does not decide every separately defined machinegun part or combination, every other regulated weapon, or the sufficiency of proof in every conversion setting.
+
+**Holdings navigation:** [Knowledge of the characteristics making this rifle a machinegun](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#knowledge-of-the-characteristics-making-this-rifle-a-machinegun).
+
+### A punitive drug tax after criminal punishment
+
+**Governing question:** When an ostensibly civil drug assessment is a second criminal punishment.
+
+**Current rule:** An extraordinary drug assessment operates as punishment when its combined features make it part of the criminal sanction: liability depends on illegal possession and arrest, collection follows criminal enforcement and is subordinate to fines and forfeitures, and the assessment taxes confiscated contraband no longer possessed at exceptional rates. On the same-offense premise, the State cannot impose that punitive assessment after completed criminal punishment. The combination controls; neither a high rate, unlawful subject matter nor a revenue label alone resolves the issue, and no universal cost ceiling or mathematical ratio is established.
+
+**Authority by component:**
+
+- Combined punitive operation and successive-punishment consequence: [Department of Revenue of Montana v. Kurth Ranch — The surviving drug assessment is a second punishment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md#public-projection), 1994-06-06. Blackmun's Opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg. Six Justices adopt the combined-operation rule and affirm disallowance as applied.
+
+**Present operation effective:** Department of Revenue of Montana v. Kurth Ranch, 1994-06-06.
+
+**Open question:** Reverse sequencing, different sovereigns and independently administered confidential taxes are not decided. The rule does not abolish civil taxation of illegal activity.
+
+**Holdings navigation:** [The surviving drug assessment is a second punishment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-surviving-drug-assessment-is-a-second-punishment).
+
+### Reliable Guidelines use of a valid fine-only misdemeanor
+
+**Governing question:** When a valid uncounseled misdemeanor can affect a later counseled Guidelines sentence.
+
+**Current rule:** A valid uncounseled misdemeanor punished only by a fine under Scott may be used in the later counseled Guidelines sentencing setting when the defendant has a genuine opportunity to contest its reliability and seek the authorized §4A1.3 departure for overrepresentation of criminal history or recidivism risk. The narrow controlling agreement rests on that safeguarded use, not on a general rule for every enhancement. Ordinary scoring is not optional merely because departure is permitted. Section 4A1.3 requires reliable information, not a prior arrest alone, and a downward criminal-history departure cannot go below category I.
+
+**Authority by component:**
+
+- Four plurality votes plus Souter’s narrower safeguarded-use agreement: [Nichols v. United States — This Guidelines use of a valid fine-only misdemeanor is permissible](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Nichols_v_United_States_merits_1994-06-06.md#public-projection), 1994-06-06. O'Connor's plurality, joined by Scalia, Kennedy and Thomas, permits this application under a broader valid-conviction rule; Souter's concurrence in the judgment expressly permits this Guidelines application on the narrower reliability-and-opportunity ground. Five Justices support the stated permission at this level; no complete rationale has five joins, and Souter supplies no fifth vote to overrule Baldasar generally.
+
+**Present operation effective:** Nichols v. United States, 1994-06-06.
+
+**Open question:** Mandatory enhancements without that opportunity, invalid uncounseled imprisonment convictions and a general overruling of Baldasar are not established. The decision imposes no universal warning requirement for misdemeanor pleas.
+
+**Holdings navigation:** [This Guidelines use of a valid fine-only misdemeanor is permissible](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#this-guidelines-use-of-a-valid-fine-only-misdemeanor-is-permissible).
+
+### Capital evidence that displaces the sentencing jury’s responsibility
+
+**Governing question:** When another jury’s death sentence impermissibly diminishes the present jury’s capital responsibility.
+
+**Current rule:** Capital sentencing violates the jury-responsibility rule when admission of another jury’s death decision, in its actual setting, creates a substantial invitation to treat the present life-or-death responsibility as already exercised elsewhere. The error is not confined to an affirmative legal misstatement about the jury’s role, but speculative possibility alone is insufficient. Independent proof of prior criminal conduct is distinct from the other jury’s sentencing choice. Prior removal of an aggravator and appellate reweighing do not themselves resolve this separate responsibility error.
+
+**Authority by component:**
+
+- Substantial displacement of responsibility and distinction from reweighing: [Romano v. Oklahoma — Another jury's death decision cannot displace the present jury's responsibility; Earlier aggravator reweighing does not resolve the responsibility error](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Romano_v_Oklahoma_merits_1994-06-13.md#public-projection), 1994-06-13. Responsibility portion of Souter's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices adopt this rule and its application to the Sarfaty penalty proceeding. Blackmun's additional objection to capital punishment does not limit his join in this case-specific responsibility reasoning. Common disposition and prior-reweighing portion of Souter's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five adopt this limited proposition and appellate vacatur/remand; their different further-remedy positions are not a single holding.
+
+**Present operation effective:** Romano v. Oklahoma, 1994-06-13.
+
+**Open question:** The sufficiency of a focused corrective instruction and the further remedy are not resolved by a controlling majority. No automatic exclusion of every reference to another proceeding follows.
+
+**Holdings navigation:** [Another jury's death decision cannot displace the present jury's responsibility](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#another-jurys-death-decision-cannot-displace-the-present-jurys-responsibility); [Earlier aggravator reweighing does not resolve the responsibility error](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#earlier-aggravator-reweighing-does-not-resolve-the-responsibility-error).
+
+### Parole ineligibility as an answer to future-danger evidence
+
+**Governing question:** When a capital defendant must be allowed to explain the only lawful alternative to death.
+
+**Current rule:** When the State puts future dangerousness in issue and the only lawful alternative to death is life imprisonment without ordinary parole, due process requires an effective opportunity to inform the jury of that ineligibility, through defense presentation or an adequate instruction. No single verbal formula is required. Speculative clemency does not make ordinary parole available. On direct review, the State must establish beyond a reasonable doubt that denying the explanation did not contribute to the jury’s selection of death; where it cannot, a new lawful penalty proceeding is required if it continues to seek death. The error is not classified as structural.
+
+**Authority by component:**
+
+- Trigger, effective means and error remedy: [Simmons v. South Carolina — Parole ineligibility must be available to answer the State's future-danger case; The error is not harmless on this record and requires a new penalty proceeding if death is pursued](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Simmons_v_South_Carolina_merits_1994-06-17.md#public-projection), 1994-06-17. Part I of Justice Souter's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Kennedy and Ginsburg. Seven Justices directly adopt this Fourteenth Amendment rule and its application; no combination of separate rationales is necessary. Part II of Justice Souter's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices directly adopt this record-specific harmlessness determination and mandatory further-hearing direction. O'Connor and Kennedy join reversal but reserve the further remedial determination.
+
+**Present operation effective:** Simmons v. South Carolina, 1994-06-17.
+
+**Open question:** The decision does not establish the instruction requirement when the State has not raised future danger or when the legally available alternatives materially differ.
+
+**Holdings navigation:** [Parole ineligibility must be available to answer the State's future-danger case](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#parole-ineligibility-must-be-available-to-answer-the-states-future-danger-case); [The error is not harmless on this record and requires a new penalty proceeding if death is pursued](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-error-is-not-harmless-on-this-record-and-requires-a-new-penalty-proceeding-if-death-is-pursued).
+
+### Federal habeas relief for an IAD statutory timing defect
+
+**Governing question:** When a state prisoner’s Interstate Agreement on Detainers claim warrants federal collateral relief.
+
+**Current rule:** The IAD is federal law and can present a federal habeas question, but an ordinary nonconstitutional statutory violation warrants collateral relief only when it is a fundamental defect resulting in a complete miscarriage of justice or inconsistent with rudimentary fair procedure. An assumed Article IV(c) timing violation, where predeadline written invocations exist but no specific contemporaneous objection was made to the scheduled dates and no demonstrated prejudice was shown in the posture decided, does not itself meet that standard. This is not a required oral formula, automatic waiver rule or conclusion that federal jurisdiction guarantees relief. Article IV(c) ordinarily requires trial within 120 days after arrival, allowing necessary or reasonable continuances for good cause shown in open court with the prisoner or counsel present; Article VI’s inability-to-stand-trial tolling is not automatically established by filing motions. Where Article V’s dismissal requirement legally applies, it is mandatory rather than a discretionary remedy.
+
+**Authority by component:**
+
+- Federal question and distinct collateral-relief threshold: [Reed v. Farley — The compact supplies federal law and a federal habeas question; the assumed timing violation does not establish the required collateral defect on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Reed_v_Farley_merits_1994-06-20.md#public-projection), 1994-06-20. Part I of Chief Justice Stone-Zsela's opinion, joined by Justices O'Connor, Scalia, Thomas and Ginsburg. These five Justices directly adopt the jurisdictional conclusion; the dissent also accepts the compact's federal character but does not join the opinion. Parts II and III of Chief Justice Stone-Zsela's opinion, joined by Justices O'Connor, Scalia, Thomas and Ginsburg. Five Justices directly join the standard and this record's denial. The stronger-demand discussion in Part IV has three votes and supplies no additional Court holding; no combination of separate opinions is required.
+
+**Present operation effective:** Reed v. Farley, 1994-06-20.
+
+**Open question:** A materially stronger timely-demand or prejudice record remains open, as does an independently established constitutional speedy-trial claim. The separate Article III delivery rule is unchanged.
+
+**Holdings navigation:** [The compact supplies federal law and a federal habeas question](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-compact-supplies-federal-law-and-a-federal-habeas-question); [The assumed timing violation does not establish the required collateral defect on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-assumed-timing-violation-does-not-establish-the-required-collateral-defect-on-this-record).
+
+### Clarifying a possible present request for interrogation counsel
+
+**Governing question:** What police must do after a valid waiver when a suspect may be presently asking for counsel.
+
+**Current rule:** After a valid waiver, a statement that a reasonable officer would understand in context as a possible present request for counsel requires a pause in substantive questioning and neutral clarification. Unexpressed wishes and unrelated references to a lawyer do not trigger that duty. While the request remains unresolved, substantive interrogation may not resume; clarification may not discourage counsel through pressure, promises or repeated persuasion. A clear request requires cessation under Edwards, and later answers cannot retroactively erase it. Further interrogation then requires counsel or the suspect’s own initiation followed by a valid waiver.
+
+**Authority by component:**
+
+- Possible-request trigger and lawful neutral clarification: [Davis v. United States — I. A reasonable possible present request requires neutral clarification; II. The actual clarification and ensuing statements were lawful](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Davis_v_United_States_merits_1994-06-24.md#public-projection), 1994-06-24. Part I of Justice Souter's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens and Ginsburg. Five Justices directly adopt the mandatory clarification rule, its trigger and its limits; O'Connor, Scalia, Kennedy and Thomas decline this part. Part II of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg. All nine directly join this actual-clarification application and affirmance; the four Justices who reject a duty accept the permissibility of the clarification actually used.
+- Clear invocation and prohibition on retrospective erosion: [Davis v. United States — III. A clear request requires cessation and cannot be undone by later answers](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Davis_v_United_States_merits_1994-06-24.md#public-projection), 1994-06-24. Part III of Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg. All nine directly join this preservation and application of the clear-invocation rule.
+
+**Present operation effective:** Davis v. United States, 1994-06-24.
+
+**Open question:** Prewaiver statements, an independent military Fifth Amendment claim and §3501 are outside this holding.
+
+**Holdings navigation:** [A reasonable possible present request requires neutral clarification](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-reasonable-possible-present-request-requires-neutral-clarification); [The actual clarification and ensuing statements were lawful](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-actual-clarification-and-ensuing-statements-were-lawful); [A clear request requires cessation and cannot be undone by later answers](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-clear-request-requires-cessation-and-cannot-be-undone-by-later-answers).
+
+### Verdict consequences and the federal insanity jury
+
+**Governing question:** Whether a federal nonsentencing jury must receive an explanation of postverdict commitment.
+
+**Current rule:** The Insanity Defense Reform Act does not require a federal nonsentencing jury to receive a commitment-consequences instruction merely because the defendant requests one. The jury ordinarily decides guilt under the governing law without considering punishment or postverdict disposition; the Act’s commitment procedures do not guarantee a particular duration. A misleading statement about the consequences may require an appropriate corrective instruction. The ordinary rule cannot be turned into a categorical ban on correcting such misinformation.
+
+**Authority by component:**
+
+- No general statutory or trial-practice requirement and corrective qualification: [Shannon v. United States — The Act does not require a commitment-consequences instruction; Federal trial practice does not require the requested explanation here](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Shannon_v_United_States_merits_1994-06-24.md#public-projection), 1994-06-24. Justice Souter's Opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy, Thomas and Ginsburg. Six of nine participating Justices directly adopt this statutory construction. Justice Souter's Opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy, Thomas and Ginsburg. Six Justices adopt the ordinary rule, corrective qualification and no-error application; none relies on an alternative harmless-error finding.
+
+**Present operation effective:** Shannon v. United States, 1994-06-24.
+
+**Holdings navigation:** [The Act does not require a commitment-consequences instruction](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-act-does-not-require-a-commitment-consequences-instruction); [Federal trial practice does not require the requested explanation here](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#federal-trial-practice-does-not-require-the-requested-explanation-here).
+
+### Assertion-specific declarations against penal interest
+
+**Governing question:** Which portions of an unavailable declarant’s narrative qualify under Evidence Rule 804(b)(3).
+
+**Current rule:** Each material assertion offered under Rule 804(b)(3) must, in the circumstances when made, so tend to expose the declarant to criminal liability that a reasonable person in that position would not have made it unless believing it true. A broader generally self-inculpatory narrative does not carry accompanying blame-shifting or neutral assertions into the exception automatically. Context may make an apparently neutral assertion genuinely self-inculpatory; sentence fragments must not be assessed in artificial isolation. The declarant’s unavailability remains a separate prerequisite. The rule’s corroboration requirement for a statement offered to exculpate an accused remains distinct from the unresolved prosecution-side corroboration question.
+
+**Authority by component:**
+
+- Contextual assertion-by-assertion inquiry: [Williamson v. United States — Each material assertion must be against the declarant's interest in context](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Williamson_v_United_States_merits_1994-06-27.md#public-projection), 1994-06-27. Part II of Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Souter and Ginsburg. These seven participating Justices adopt the same rule, contextual qualification and explanation. Justices Kennedy and Thomas favor a different construction; their judgment votes add no support to this rule.
+
+**Present operation effective:** Williamson v. United States, 1994-06-27.
+
+**Open question:** No single controlling application to every assertion in the particular narrative was adopted. Other admissibility grounds and independent constitutional objections require their own analysis.
+
+**Exceptions and limits:** Unavailability, corroboration and harmlessness remain distinct inquiries. Applicable circuit corroboration requirements are not displaced; they do not become a nationwide rule. Exclusion of an assertion does not itself compel retrial.
+
+**Holdings navigation:** [Each material assertion must be against the declarant's interest in context](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#each-material-assertion-must-be-against-the-declarants-interest-in-context).
+
+### Capital habeas counsel before a merits petition and discretionary stays
+
+**Governing question:** When an indigent capital prisoner may obtain qualified counsel and a stay while preparing federal habeas review.
+
+**Current rule:** A defendant financially unable to obtain adequate representation or reasonably necessary services is entitled to commence the §848(q)(4)(B) representation proceeding before filing the merits application by requesting counsel to prepare an identified §2254 or §2255 challenge seeking to vacate or set aside a death sentence. For this postjudgment appointment, at least one attorney must ordinarily have five years’ admission to the relevant court of appeals and three years’ experience handling felony appeals there. For good cause the court may appoint another attorney whose background, knowledge or experience permits proper representation, considering the penalty’s seriousness and the litigation’s unique and complex nature. Upon an ex parte finding that investigative, expert or other services are reasonably necessary concerning guilt or sentence, authorization and payment are required at rates or amounts the court finds reasonably necessary, notwithstanding general criminal-case rates and maxima. The court may authorize services and payment retroactively if timely procurement could not practicably await prior authorization; it need not do so. Appointment alone establishes no entitlement to unidentified expenses.
+
+**Authority by component:**
+
+- Prepetition representation and statutory qualifications: [McFarland v. Scott — Qualified capital counsel may be appointed before the merits application](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McFarland_v_Scott_merits_1994-06-30.md#public-projection), 1994-06-30. Part I of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Kennedy, Souter and Ginsburg. Seven Justices directly adopt the statutory rule and its application to the October 22 motion.
+- Pending preparation proceeding and express anti-injunction exception: [McFarland v. Scott — The statutory preparation proceeding satisfies §2251 pendency; Section 2251 supplies the express statutory exception to §2283](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McFarland_v_Scott_merits_1994-06-30.md#public-projection), 1994-06-30. Part II of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six Justices adopt this construction; O'Connor does not join it. Part III of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six Justices directly adopt this statutory conclusion; it is distinct from the appointment entitlement and from the exercise of stay discretion.
+- Reasonable preparation and individualized stay discretion: [McFarland v. Scott — Reasonable preparation and individualized stay discretion govern the remand](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McFarland_v_Scott_merits_1994-06-30.md#public-projection), 1994-06-30. Part IV of Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices Blackmun, Kennedy, Souter and Ginsburg. Six adopt the stay-discretion rule and common remand; O'Connor separately joins the appointment direction under Part I only.
+
+**Present operation effective:** McFarland v. Scott, 1994-06-30.
+
+**Sequence or decisionmaker:** Representation continues through available judicial and postconviction proceedings, stays and appropriate motions, and available competency and clemency proceedings unless similarly qualified counsel replaces the attorney on the attorney’s or defendant’s motion; the full reach into later state proceedings remains open. The statutory preparation proceeding is pending for §2251 purposes. The judge before whom it is pending may stay state action against the detained person concerning a matter involved in the habeas proceeding, before final judgment, after final judgment of discharge or pending appeal. Covered state action after a stay is void; without a stay, it remains valid. Section 2251 supplies §2283’s express statutory exception, without finding its other exceptions satisfied. A stay is discretionary, not automatic or indefinite. The prisoner must receive a reasonable preparation opportunity, while proved inexcusable disregard of that opportunity and obstruction can justify denial. The distinct prejudgment counsel qualification—five years in the trial-court bar and three years’ actual felony-trial experience there—does not replace the postjudgment standard.
+
+**Holdings navigation:** [Qualified capital counsel may be appointed before the merits application](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#qualified-capital-counsel-may-be-appointed-before-the-merits-application); [The statutory preparation proceeding satisfies §2251 pendency](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-statutory-preparation-proceeding-satisfies-2251-pendency); [Section 2251 supplies the express statutory exception to §2283](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-2251-supplies-the-express-statutory-exception-to-2283); [Reasonable preparation and individualized stay discretion govern the remand](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#reasonable-preparation-and-individualized-stay-discretion-govern-the-remand).
+
+### Individualized capital selection without fixed weights
+
+**Governing question:** What instructions are required for the discretionary selection decision after lawful death eligibility.
+
+**Current rule:** After the defendant is lawfully eligible for death, the jury may consider understandable, relevant circumstances in making an individualized selection without mandatory binary aggravating-or-mitigating labels or numerical weights. The circumstances of the crime, relevant violent criminal activity and age may supply sufficiently definite subjects in context. Age is relevant but is not automatically aggravating merely because the defendant is not young. This selection discretion does not relax eligibility narrowing, authorize a forbidden adverse consideration, exclude relevant mitigation or cure a separate weighing error.
+
+**Authority by component:**
+
+- Selection discretion and bounded contextual factors: [Tuilaepa v. California and Proctor v. California — Relevant individualized selection does not require fixed labels or numerical weights; The circumstances-of-the-crime factor survives both presented challenges; The violent-criminal-activity factor is sufficiently definite in Tuilaepa; Age is a relevant contextual subject, not an automatic aggravator](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md#public-projection), 1994-06-30. Part II of Justice O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. Eight directly adopt this bounded rule; Stevens and Ginsburg do not join Part I's additional framework discussion. Part III of Justice O'Connor's opinion, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. Eight find no error on each docket's factor-(a) challenge; none of these joins is a harmlessness vote. Part IV of Justice O'Connor's opinion, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. Eight directly sustain factor (b) on no-error grounds; Blackmun dissents on this factor as well as the others. Part V of Justice O'Connor's opinion, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. Eight adopt the rule and no-error application; Part VI gives the corresponding affirmances without a new penalty hearing.
+
+**Present operation effective:** Tuilaepa v. California and Proctor v. California, 1994-06-30.
+
+**Holdings navigation:** [Relevant individualized selection does not require fixed labels or numerical weights](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#relevant-individualized-selection-does-not-require-fixed-labels-or-numerical-weights); [The circumstances-of-the-crime factor survives both presented challenges](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-circumstances-of-the-crime-factor-survives-both-presented-challenges); [The violent-criminal-activity factor is sufficiently definite in Tuilaepa](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-violent-criminal-activity-factor-is-sufficiently-definite-in-tuilaepa); [Age is a relevant contextual subject, not an automatic aggravator](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#age-is-a-relevant-contextual-subject-not-an-automatic-aggravator).
 
 ## Liberty, psychiatric confinement and trial medication
 
@@ -1491,6 +2146,59 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Holdings navigation:** [Alexander v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#alexander-v-united-states); [Alexander v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#alexander-v-united-states-1).
 
+### Residential signs and preservation of a distinctive speech medium
+
+**Governing question:** Whether a municipality may largely eliminate the homeowner’s own-sign channel of expression.
+
+**Current rule:** A municipality cannot virtually eliminate residential signs when the channel has distinctive communicative value and the offered substitutes do not adequately replace it, even assuming the ordinance is content neutral. A sign at the speaker’s own home combines location, attribution, cost and accessibility in ways that handbills, newspapers or other channels may not reproduce. Legitimate aesthetic and safety interests permit appropriate physical regulation, but do not themselves justify the near-total loss of that medium.
+
+**Authority by component:**
+
+- Distinctive residential channel and inadequate alternatives: [City of Ladue v. Gilleo — The replacement prohibition leaves no adequate residential channel](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Ladue_v_Gilleo_merits_1994-06-13.md#public-projection), 1994-06-13. Stevens's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine adopt the same residential-channel holding and limited remedy; no fractured-opinion inference is necessary.
+
+**Present operation effective:** City of Ladue v. Gilleo, 1994-06-13.
+
+**Open question:** No fixed size, number or duration limit, categorical exemption scheme or facial ruling on every content distinction is adopted.
+
+**Holdings navigation:** [The replacement prohibition leaves no adequate residential channel](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-replacement-prohibition-leaves-no-adequate-residential-channel).
+
+### Cable-carriage rules and review of legislative predictions
+
+**Governing question:** How the First Amendment reviews content-neutral cable-carriage requirements.
+
+**Current rule:** Cable operators’ editorial choices receive ordinary First Amendment protection, without the broadcast-scarcity rationale. Content classification examines what the law selects and why. The general full-power must-carry provisions at issue are content neutral and receive intermediate scrutiny: they must advance substantial interests unrelated to suppressing expression and burden no substantially greater amount of speech than necessary. The least restrictive alternative is not required. Preserving broadcast availability, diverse information sources and fair competition are substantial interests, but identifying them does not prove the law satisfies the test. Legislative predictive judgments receive substantial deference while courts independently determine whether reasonable inferences rest on substantial evidence and support the claimed harms and response.
+
+**Authority by component:**
+
+- Protected expression and full-power content classification: [Turner Broadcasting System, Inc. v. FCC — Cable editorial expression receives ordinary First Amendment protection; Content classification depends on what the law selects and why; The general full-power carriage requirements are content neutral](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md#public-projection), 1994-06-27. Kennedy's opinion, Parts II-A and II-B as relevant to this proposition, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Souter, Thomas and Ginsburg: eight Justices. Stevens recognizes protected cable expression but does not join these complete portions and is not counted for their formulation. Kennedy's opinion, Part II-B, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Souter, Thomas and Ginsburg: eight Justices. Stevens does not join that portion; his agreement with the case-specific classification below is distinct. Kennedy's opinion, Parts II-C and II-D, joined by Stone-Zsela, Blackmun, Stevens and Souter: five Justices. O'Connor, Scalia, Thomas and Ginsburg reject this application.
+- Intermediate scrutiny and substantial interests: [Turner Broadcasting System, Inc. v. FCC — Intermediate scrutiny requires advancement and a proportionate speech burden; Preserving broadcast availability, diverse sources and fair competition are substantial interests](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md#public-projection), 1994-06-27. Kennedy's opinion, Part III-A, joined by Stone-Zsela, Blackmun, Stevens and Souter: five Justices. This common standard does not establish common agreement about whether the existing record satisfies it. Kennedy's opinion, Part III-A, joined by Stone-Zsela, Blackmun, Stevens and Souter: five Justices. The separate opinions disputing the neutrality of the Act's localism and programming preferences do not join this proposition.
+- Five-Justice agreement on deferential but independent evidentiary review: [Turner Broadcasting System, Inc. v. FCC — Predictive judgments receive substantial deference and remain subject to review](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md#public-projection), 1994-06-27. Kennedy's Part III-B, supported by Stone-Zsela, Blackmun and Souter, together with Stevens's express agreement in his concurrence at this limited level of generality: five Justices. Stevens does not join Part III-B, its real-harm formulation as a complete passage, or its record-insufficiency application. This is direct agreement on the stated proposition across writings, not a Marks inference or a fifth join in the plurality portion.
+
+**Present operation effective:** Turner Broadcasting System, Inc. v. FCC, 1994-06-27.
+
+**Open question:** The decision does not finally sustain the provisions or classify every low-power carriage rule. The four-Justice conclusion about this record’s evidentiary insufficiency is not itself a generally controlling finding.
+
+**Holdings navigation:** [Cable editorial expression receives ordinary First Amendment protection](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#cable-editorial-expression-receives-ordinary-first-amendment-protection); [Content classification depends on what the law selects and why](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#content-classification-depends-on-what-the-law-selects-and-why); [The general full-power carriage requirements are content neutral](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-general-full-power-carriage-requirements-are-content-neutral); [Intermediate scrutiny requires advancement and a proportionate speech burden](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#intermediate-scrutiny-requires-advancement-and-a-proportionate-speech-burden); [Preserving broadcast availability, diverse sources and fair competition are substantial interests](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#preserving-broadcast-availability-diverse-sources-and-fair-competition-are-substantial-interests); [Predictive judgments receive substantial deference and remain subject to review](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#predictive-judgments-receive-substantial-deference-and-remain-subject-to-review).
+
+### Speech burdens in a content-neutral injunction
+
+**Governing question:** How a court tailors a content-neutral injunction regulating speech-related conduct.
+
+**Current rule:** A content-neutral injunction must burden no more speech than necessary to serve the significant governmental interest supporting the remedy. This inquiry is more demanding than the ordinary content-neutral legislative time, place and manner rule, without becoming a universal least-restrictive-means test. Each restriction needs a remedial connection to the established interest and conduct. Public access, medical quiet and residential privacy may support relief, but neither those interests nor prior misconduct justifies territorial restrictions or advance-permission conditions broader than necessary. Removing an invalid restriction also removes its operative predicate; it cannot be restored by relabeling the same conduct under another clause.
+
+**Authority by component:**
+
+- Content classification and five-Justice injunction standard: [Madsen v. Women's Health Center, Inc — The decree as confined is not categorically content based; A neutral speech injunction must burden no more speech than necessary](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md#public-projection), 1994-06-30. O'Connor's Part II-A(2), joined by Stone-Zsela, Blackmun, Stevens, Souter and Ginsburg: six. Scalia, Kennedy and Thomas reject this application while accepting the separate actual-concert principle. O'Connor's Part II-B, joined by Stone-Zsela, Blackmun, Souter and Ginsburg: five. Stevens's individualized equitable account and the strict-restraint dissent are not joins in this standard.
+- Removal of invalidated predicates and lawful remedial discretion: [Madsen v. Women's Health Center, Inc — Relief removes invalidated predicates; Remand permits lawful relief without requiring a personal zone](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md#public-projection), 1994-06-30. O'Connor's Part IV-B, joined by all eight other Justices: nine at the invalidated-predicate and no-evasion level. This agreement does not settle the permissible content of a new decree. O'Connor's Part IV-C, joined by Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg: eight. Stone-Zsela dissents from the refusal to require his bounded post-refusal replacement.
+
+- Coverage boundary retained in applying the speech-injunction rule: [Madsen v. Women's Health Center, Inc — An injunction binds responsible parties and actual concert, not a viewpoint](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md#public-projection), 1994-06-30. O'Connor's Part II-A(1), joined by all eight other Justices: nine. The three dissenters on operational neutrality join only this distinct coverage principle.
+
+**Present operation effective:** Madsen v. Women's Health Center, Inc, 1994-06-30.
+
+**Exceptions and limits:** The particular distances and hours adjudicated are applications, not universal safe harbors. The decision does not require a personal buffer zone, decide the reserved independent conduct-language claims, or transplant Casey’s abortion-regulation framework into the advocacy inquiry. Coverage remains confined to responsible parties and persons with notice acting in actual concert or participation; viewpoint, association or independent advocacy alone does not establish concert.
+
+**Holdings navigation:** [An injunction binds responsible parties and actual concert, not a viewpoint](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#an-injunction-binds-responsible-parties-and-actual-concert-not-a-viewpoint); [Relief removes invalidated predicates](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#relief-removes-invalidated-predicates); [Remand permits lawful relief without requiring a personal zone](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#remand-permits-lawful-relief-without-requiring-a-personal-zone); [The decree as confined is not categorically content based](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-decree-as-confined-is-not-categorically-content-based); [A neutral speech injunction must burden no more speech than necessary](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-neutral-speech-injunction-must-burden-no-more-speech-than-necessary).
+
 ## Religion and public schools
 
 ### Official graduation worship and independent religious pressure
@@ -1541,6 +2249,23 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Present operation effective:** 1993-06-11; Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah, for the components identified above.
 
 **Holdings navigation:** [Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#church-of-the-lukumi-babalu-aye-inc-v-city-of-hialeah-508-us-520-1993).
+
+### Denominational selection for general governmental authority
+
+**Governing question:** When creating a special public district impermissibly allocates civic power on a denominational basis.
+
+**Current rule:** The State may not select a religious denomination as the recipient of general governmental authority, even when lay officials formally exercise the power. Independently, an anomalous particular grant aligned with a denomination and lacking a neutral basis assuring comparable treatment violates the required governmental neutrality. Religious accommodation may preserve equal educational access but does not cure denominational allocation of civic power. Demographic religious concentration alone does not establish the violation, and neither rationale makes every special statute or every accommodation invalid.
+
+**Authority by component:**
+
+- Five-Justice denominational-allocation ground: [Board of Education of Kiryas Joel Village School District v. Grumet — The State may not select a denomination as the recipient of general governmental authority](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md#public-projection), 1994-06-27. Souter's opinion, Part II introduction and II-A, joined by Stone-Zsela, Blackmun, Stevens and Ginsburg: five Justices. This is an independently sufficient ground. O'Connor does not join that portion, and Kennedy's separate judgment rationale is not counted as a join.
+- Six-Justice particular-grant ground and accommodation limit: [Board of Education of Kiryas Joel Village School District v. Grumet — The particular denominational grant lacks a neutral basis for equal treatment; Accommodation preserves educational access but does not cure this allocation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md#public-projection), 1994-06-27. Souter's opinion, Part II-B, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg: six Justices. This is an independently sufficient alternative ground; Kennedy expressly declines it. Souter's opinion, Part II-C and the implementing limits in Part III, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg: six Justices. This holding rejects the accommodation defense and defines the remedy's limits; Kennedy reaches the judgment on his separate ground.
+
+**Present operation effective:** Board of Education of Kiryas Joel Village School District v. Grumet, 1994-06-27.
+
+**Exceptions and limits:** The existing Lemon framework is not overruled. The decision supplies no categorical prohibition on neutral arrangements serving religious communities.
+
+**Holdings navigation:** [The State may not select a denomination as the recipient of general governmental authority](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-state-may-not-select-a-denomination-as-the-recipient-of-general-governmental-authority); [Accommodation preserves educational access but does not cure this allocation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#accommodation-preserves-educational-access-but-does-not-cure-this-allocation).
 
 ## Reproductive liberty and abortion regulation
 
@@ -1719,6 +2444,20 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Holdings navigation:** [FCC v. Beach Communications, Inc., 508 U.S. 307 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#fcc-v-beach-communications-inc-508-us-307-1993); [FCC v. Beach Communications, Inc., 508 U.S. 307 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#fcc-v-beach-communications-inc-508-us-307-1993-1).
 
+### Appropriate private placement and IDEA reimbursement
+
+**Governing question:** When parents who reject an inadequate public program may obtain reimbursement for a private placement.
+
+**Current rule:** When the public offer violates IDEA and the parents' unilateral private placement provides an education otherwise appropriate for the child under the Act, §1415(e)(2) permits equitable reimbursement even if the placement lacks state approval or does not satisfy every requirement in §1401(a)(18)'s definition of publicly provided free appropriate education. Parents act at financial risk and must establish both public inadequacy and private appropriateness. Neither parental choice nor progress alone guarantees relief. The court must consider relevant equitable circumstances and a reasonable amount; equity may support reduction or denial, and full reimbursement is inappropriate if private cost was unreasonable. No mandatory checklist replaces that discretion.
+
+**Authority by component:**
+
+- Private-placement eligibility, parental predicates and equitable amount: [Florence County School District Four v. Carter — Appropriate parental placement and equitable reimbursement](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md#public-projection), 1993-11-09. O'Connor's opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; O'Connor and those eight Justices supply nine votes for this rule and affirmance. Direct unanimous authority; no fractured-opinion inference.
+
+**Present operation effective:** Florence County School District Four v. Carter, 1993-11-09.
+
+**Holdings navigation:** [Appropriate parental placement and equitable reimbursement](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#appropriate-parental-placement-and-equitable-reimbursement).
+
 ## Apportionment and representation
 
 ### Constitutional review of interstate equal-proportions apportionment
@@ -1772,7 +2511,7 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Governing question:** What instructions govern section 2 fragmentation, state districting choice and influence claims?
 
-**Current rule:** A §2 single-member fragmentation claim requires a minority sufficiently large and geographically compact to form a district majority, political cohesion and majority bloc voting ordinarily sufficient to defeat its preferred candidate, absent special circumstances such as an unopposed minority candidate. These are necessary, not alone sufficient; totality remains. Distinct groups' numbers cannot replace missing cohesion or bloc-voting proof. Coalition cognizability and the population denominator remain open. A State need not prove remedial necessity before choosing majority-minority districts; challengers initially must show unequal opportunity caused by the arrangement under the totality, while a federal court may order such districts only as necessary to remedy an established violation. Independent constitutional limits remain. Assuming an influence claim exists, majority bloc voting remains necessary; modification or elimination of the district-majority prerequisite and influence cognizability remain unresolved.
+**Current rule:** A §2 single-member fragmentation claim requires a minority sufficiently large and geographically compact to form a district majority, political cohesion and majority bloc voting ordinarily sufficient to defeat its preferred candidate, absent special circumstances such as an unopposed minority candidate. These are necessary, not alone sufficient; totality remains. Distinct groups' numbers cannot replace missing cohesion or bloc-voting proof. Coalition cognizability and the population denominator remain open. A State need not prove remedial necessity before choosing majority-minority districts; challengers initially must show unequal opportunity caused by the arrangement under the totality, while a federal court may order such districts only as necessary to remedy an established violation. Independent constitutional limits remain. Assuming an influence claim exists, majority bloc voting remains necessary; modification or elimination of the district-majority prerequisite and influence cognizability remain unresolved. The necessary voting conditions do not require maximization of majority-minority districts. Unequal electoral opportunity under the totality does not require discriminatory purpose. Relevant proportionality compares the group’s share of the relevant population with the share of districts in which it has an effective opportunity to elect preferred candidates; its weight depends on the other evidence. It is neither a conclusive safe harbor nor a burden-shifting affirmative defense, and disproportionality alone does not establish liability. Nominal district labels and officeholders’ race do not replace demonstrated opportunity. No proportional-election entitlement, racial floor or ceiling, universal geographic scale or population denominator follows. Opportunity elsewhere cannot excuse proved local packing, fragmentation or another electoral barrier.
 
 **Authority by component:**
 
@@ -1780,9 +2519,11 @@ Parental informed consent may use the accurate medical content and qualified mat
 - H1. Section 2 does not make a State prove remedial necessity before choosing majority-minority districts: [Voinovich v. Quilter — H1. Section 2 does not make a State prove remedial necessity before choosing majority-minority districts](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/Voinovich_v_Quilter_merits_1993-03-02.md), 1993-03-02. O'Connor's Opinion of the Court, Part II.B, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt the complete proposition; it directly controls the rejection of the lower court's statutory prohibition and burden allocation.
 - H2. The assumed influence-dilution claim fails for lack of the required majority bloc voting: [Voinovich v. Quilter — H2. The assumed influence-dilution claim fails for lack of the required majority bloc voting](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/Voinovich_v_Quilter_merits_1993-03-02.md), 1993-03-02. O'Connor's Opinion of the Court, Parts II.A and II.C, joined by Stone-Zsela, White, Blackmun, Stevens, Scalia, Kennedy, Souter and Thomas. All nine adopt this independently dispositive rejection of the presented Section 2 claim and each stated reservation.
 
-**Present operation effective:** 1993-03-02; Growe v. Emison; Voinovich v. Quilter, for the components identified above.
+- No maximization duty and proportionality within the totality: [Johnson v. De Grandy — 3. Necessary voting conditions do not require maximization; 4. Proportional opportunity is relevant evidence, not a safe harbor](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md#public-projection), 1994-06-30. Souter's Opinion of the Court, Part II, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy and Ginsburg; seven Justices directly adopt the complete necessary-versus-sufficient distinction and rejection of maximization. Thomas and Scalia's statutory noncoverage position is a different rationale and supplies no join. Souter's Opinion of the Court, Part III, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg; six Justices directly adopt this contextual rule and its explanation. Kennedy separately accepts the exact limited propositions that proportionality is relevant, that the necessary conditions alone do not establish liability, and that proportionality supplies no safe harbor; his concurrence does not join Part III's full rationale or Parts IV and V's affirmative applications. No combined rationale under Marks is needed.
 
-**Holdings navigation:** [Growe v. Emison, 507 U.S. 25 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#growe-v-emison-507-us-25-1993); [Voinovich v. Quilter, 507 U.S. 146 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#voinovich-v-quilter-507-us-146-1993).
+**Present operation effective:** Johnson v. De Grandy, 1994-06-30, for the maximization and proportionality limits; the earlier Growe and Voinovich components remain effective on their original dates.
+
+**Holdings navigation:** [Growe v. Emison, 507 U.S. 25 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#growe-v-emison-507-us-25-1993); [Voinovich v. Quilter, 507 U.S. 146 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#voinovich-v-quilter-507-us-146-1993); [Necessary voting conditions do not require maximization](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#necessary-voting-conditions-do-not-require-maximization); [Proportional opportunity is relevant evidence, not a safe harbor](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#proportional-opportunity-is-relevant-evidence-not-a-safe-harbor).
 
 ### Justification of state legislative population deviations
 
@@ -1825,6 +2566,23 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Present operation effective:** 1993-06-28; Shaw v. Reno, for the components identified above.
 
 **Holdings navigation:** [Shaw v. Reno, 509 U.S. 630 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#shaw-v-reno-509-us-630-1993); [Shaw v. Reno, 509 U.S. 630 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#shaw-v-reno-509-us-630-1993-1).
+
+### Section 2 challenges to governing-body size
+
+**Governing question:** What comparison permits a vote-dilution claim directed at the size of a local governing body.
+
+**Current rule:** A local governing body’s size is within Voting Rights Act §2 coverage. A vote-dilution challenge must supply a reasonable comparison with independent legal and practical roots, not a number chosen solely to produce desired racial winners. No uniquely ideal size is required. Accepting the comparison does not establish liability: the claimant must still satisfy the applicable Gingles predicates and the statutory totality inquiry into unequal electoral opportunity. A remedy for an established violation must address the violation while considering genuine governmental interests; the decision supplies no automatic judicial entitlement to a particular number of offices.
+
+**Authority by component:**
+
+- Six-Justice statutory coverage: [Holder v. Hall — 1. The county's governing-body size is within Section 2's coverage](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md#public-projection), 1994-06-30. Blackmun's Opinion of the Court, Part I, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six Justices directly adopt this threshold rule. O'Connor joins this part while opposing statutory liability; Kennedy reserves the affirmative coverage question, and Scalia and Thomas reject coverage of dilution.
+- Five-Justice comparison, liability and remedy requirements: [Holder v. Hall — 2. A reasonable comparison must have legal and practical roots independent of a desired racial tally; 3. The accepted comparison does not replace the required proof of unequal opportunity; 4. The existing remand must provide a lawful remedy for the established violation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md#public-projection), 1994-06-30. Blackmun's Opinion of the Court, Part II, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices directly adopt the complete comparison rule and its application. O'Connor and Kennedy reject that comparison; Thomas and Scalia reject dilution coverage on a different, broader ground. Blackmun's Opinion of the Court, Part III, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices directly adopt the stated application and preservation of the existing proof requirements. There is no separate holding that the Gingles predicates alone establish liability or shift the ultimate statutory burden. Blackmun's Opinion of the Court, Part IV, joined by Stone-Zsela, Stevens, Souter and Ginsburg; the five-Justice judgment coalition adopts these remedial limits and the affirmance of the Eleventh Circuit's existing remedy remand.
+
+**Present operation effective:** Holder v. Hall, 1994-06-30.
+
+**Related current rules:** “Section 2 fragmentation, state districting choice and influence claims” supplies the related preconditions and the limits on maximization and proportionality.
+
+**Holdings navigation:** [The county's governing-body size is within Section 2's coverage](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-countys-governing-body-size-is-within-section-2s-coverage); [A reasonable comparison must have legal and practical roots independent of a desired racial tally](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-reasonable-comparison-must-have-legal-and-practical-roots-independent-of-a-desired-racial-tally); [The accepted comparison does not replace the required proof of unequal opportunity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-accepted-comparison-does-not-replace-the-required-proof-of-unequal-opportunity); [The existing remand must provide a lawful remedy for the established violation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-existing-remand-must-provide-a-lawful-remedy-for-the-established-violation).
 
 ## Federalism
 
@@ -1958,6 +2716,35 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Present operation effective:** 1993-06-11; United States Department of Treasury v. Fabe, for the components identified above.
 
 **Holdings navigation:** [United States Department of Treasury v. Fabe, 508 U.S. 491 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-department-of-treasury-v-fabe-508-us-491-1993).
+
+### Published tariff cancellation and mileage-based undercharges
+
+**Governing question:** Whether a carrier can collect undercharges using a tariff whose essential mileage incorporation was publicly canceled.
+
+**Current rule:** When a carrier’s rate depends on incorporated mileage material and its required participation is canceled through an effective public tariff filing, the incomplete combination supplies no enforceable rate for later transportation unless a legally sufficient replacement applies. This is not a private lapse that leaves a filed rate effective until properly revised: the published cancellation is itself operative. Bankruptcy does not restore the canceled tariff. The ruling does not defeat charges for transportation before cancellation or authorize equitable disregard of an otherwise effective filed rate.
+
+**Authority by component:**
+
+- Effective public cancellation of an essential tariff component: [Security Services, Inc. v. Kmart Corp — Published cancellation of essential mileage participation defeats these undercharges](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Security_Services_v_Kmart_merits_1994-05-16.md#public-projection), 1994-05-16. Souter's Opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, and Kennedy; seven Justices adopt the rule and affirmance. Thomas and Ginsburg separately dissent from the statutory-authority and remedy conclusions.
+
+**Present operation effective:** Security Services, Inc. v. Kmart Corp, 1994-05-16.
+
+**Holdings navigation:** [Published cancellation of essential mileage participation defeats these undercharges](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#published-cancellation-of-essential-mileage-participation-defeats-these-undercharges).
+
+### Independent state rights and actual labor-contract interpretation
+
+**Governing question:** When a collective-bargaining agreement displaces an otherwise independent state-law claim under §301 or the Railway Labor Act.
+
+**Current rule:** A state claim enforcing an independent, nonnegotiable right is not preempted merely because the workplace has a collective-bargaining agreement, the agreement supplies an undisputed wage figure, the same facts support a contract grievance, or a defense refers to the agreement. The claim’s actual legal elements and necessary interpretation govern, not its label. Section 301 does not displace a wage-penalty claim requiring only undisputed wage arithmetic. Under the Railway Labor Act, a claim turning on conduct, motive or another purely factual question likewise remains independent unless resolving it requires interpretation of disputed contract terms. Contractual disputes remain subject to their prescribed processes; parallel arbitration does not itself remove independent rights.
+
+**Authority by component:**
+
+- Section 301 and undisputed wage arithmetic: [Livadas v. Bradshaw — An independent wage-penalty claim is not preempted by §301](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Livadas_v_Bradshaw_merits_1994-06-13.md#public-projection), 1994-06-13. Stevens's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt this antecedent holding.
+- Railway Labor Act and independent factual inquiry: [Hawaiian Airlines, Inc. v. Norris — Independent state rights remain enforceable without interpreting the labor agreement](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Hawaiian_Airlines_v_Norris_merits_1994-06-20.md#public-projection), 1994-06-20. Justice Stevens's opinion for a unanimous Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. All nine adopt the complete rule, application, precedent treatment, and bounded affirmance.
+
+**Present operation effective:** Hawaiian Airlines, Inc. v. Norris, 1994-06-20.
+
+**Holdings navigation:** [An independent wage-penalty claim is not preempted by §301](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#an-independent-wage-penalty-claim-is-not-preempted-by-301); [Independent state rights remain enforceable without interpreting the labor agreement](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#independent-state-rights-remain-enforceable-without-interpreting-the-labor-agreement).
 
 ## Immigration
 
@@ -2267,6 +3054,166 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Holdings navigation:** [St. Mary's Honor Center v. Hicks, 509 U.S. 502 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#st-marys-honor-center-v-hicks-509-us-502-1993).
 
+### Hostile employment conditions without a psychological-injury prerequisite
+
+**Governing question:** When discriminatory harassment alters employment conditions under Title VII.
+
+**Current rule:** Sex-based harassment violates Title VII when, considering all circumstances, it is sufficiently severe or pervasive to alter employment conditions and create an environment a reasonable person would find hostile or abusive and the employee actually perceives as abusive. Serious psychological injury, treatment, diagnosis and lost productivity are not prerequisites. Relevant circumstances include frequency, severity, physical threat or humiliation rather than merely offensive utterances, and unreasonable interference with work; none is indispensable. Psychological effects may inform subjective abuse. Mere offense without the objective and subjective predicates remains insufficient.
+
+**Authority by component:**
+
+- Objective and subjective requirements, totality and absence of an injury floor: [Harris v. Forklift Systems, Inc — Hostile employment conditions do not require psychological injury](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md#public-projection), 1993-11-09. O'Connor's opinion of the Court, joined in full by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, and Ginsburg; O'Connor and those eight Justices supply nine votes for the complete rule and reversal with remand. Direct unanimous authority; no fractured-opinion inference.
+
+**Present operation effective:** Harris v. Forklift Systems, Inc, 1993-11-09.
+
+**Open question:** A sex-specific reasonable-person formulation, constructive discharge and employer-attribution questions are not resolved by Harris.
+
+**Holdings navigation:** [Hostile employment conditions do not require psychological injury](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#hostile-employment-conditions-do-not-require-psychological-injury).
+
+### ERISA guaranteed-benefit exclusions and insurer fiduciary functions
+
+**Governing question:** Which insurer assets are excluded from plan-asset status by ERISA §401(b)(2).
+
+**Current rule:** A guaranteed-benefit policy itself is a plan asset; the insurer’s underlying assets are not deemed plan assets solely because it issued the policy only to the extent the policy genuinely guarantees the amount of benefits. A nonguaranteed component does not gain the exclusion from general-account placement. Plan-asset status subjects the insurer to §3(21)(A) fiduciary duties to the extent it exercises the specified authority or control over management or disposition; breach, causation, loss and remedy remain separate. McCarran-Ferguson does not displace ERISA’s express insurance-related duties. Compatible state insurance regulation survives the saving clause, but a concrete conflicting obligation cannot control over ERISA itself. An agency interpretation cannot erase the exclusion’s component limitation.
+
+**Authority by component:**
+
+- Component-specific exclusion and asset-and-function inquiry: [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — The guaranteed-benefit exclusion operates by component](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md#public-projection), 1993-12-13. Ginsburg's opinion for the Court, joined by Stone, Blackmun, Stevens, Scalia, and Souter. Six Justices adopt the component-specific construction and its application to the disputed free funds.
+- Federal duties and compatible state insurance regulation: [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — Insurance regulation does not displace ERISA's express direction](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md#public-projection), 1993-12-13. Ginsburg's opinion for the Court, joined by Stone, Blackmun, Stevens, Scalia, and Souter. This six-Justice ground rejects the asserted state-insurance obstacle to affirmance.
+- Statutory limit on the categorical agency exclusion: [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — An agency interpretation cannot erase the qualified exclusion](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md#public-projection), 1993-12-13. Ginsburg's opinion for the Court, joined by Stone, Blackmun, Stevens, Scalia, and Souter. These six adopt the statutory-limit ground; the dissenters separately reject the categorical agency position without adopting the Court's entire investment-risk analysis.
+
+**Present operation effective:** John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 1993-12-13.
+
+**Open question:** No universal guarantee formula, illiquidity-only rule, categorical rejection of changed agency views or general rule for agency litigation positions is adopted.
+
+**Holdings navigation:** [An agency interpretation cannot erase the qualified exclusion](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#an-agency-interpretation-cannot-erase-the-qualified-exclusion); [The guaranteed-benefit exclusion operates by component](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-guaranteed-benefit-exclusion-operates-by-component); [Insurance regulation does not displace ERISA's express direction](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#insurance-regulation-does-not-displace-erisas-express-direction).
+
+### Hearing misconduct and reviewable NLRB remedial discretion
+
+**Governing question:** Whether deliberate employee falsehood at a remedial hearing forfeits reinstatement or backpay under NLRA §10(c).
+
+**Current rule:** Deliberate hearing falsehood does not automatically forfeit reinstatement or backpay for an established unfair labor practice. The Board may withhold relief for supported misconduct, but need not impose categorical forfeiture. The separate prohibition for an employee actually suspended or discharged for cause concerns the actual employment ground; later testimony does not establish that earlier ground. The Board must recognize material misconduct and provide reasons connecting its remedy to the Act. Review remains available for arbitrariness, inadequate explanation or departure from statutory purpose, without requiring a new sanctions formula or separate express forfeiture discussion in every case.
+
+**Authority by component:**
+
+- No automatic forfeiture and distinct discharge-for-cause bar: [ABF Freight System, Inc. v. NLRB — Hearing falsehood and the statutory remedy](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/ABF_Freight_System_v_NLRB_merits_1994-01-24.md#public-projection), 1994-01-24. Stevens's opinion of the Court, joined by Stone-Zsela, Blackmun, Kennedy, Souter, Thomas and Ginsburg; seven Justices. Scalia and O'Connor agree with the lawfulness of the result in a separate judgment concurrence.
+- Explanation and review of delegated remedy: [ABF Freight System, Inc. v. NLRB — Review of this remedial choice](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/ABF_Freight_System_v_NLRB_merits_1994-01-24.md#public-projection), 1994-01-24. Stevens's opinion of the Court, joined by Stone-Zsela, Blackmun, Kennedy, Souter, Thomas and Ginsburg; seven Justices. Scalia and O'Connor find the action lawful on their narrower statutory-discretion ground, without endorsing the Court's public-remedy assessment.
+
+**Present operation effective:** ABF Freight System, Inc. v. NLRB, 1994-01-24.
+
+**Open question:** A falsehood undermining the violation finding or a remedial predicate may present a different case; no automatic relief entitlement is created.
+
+**Holdings navigation:** [Hearing falsehood and the statutory remedy](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#hearing-falsehood-and-the-statutory-remedy); [Review of this remedial choice](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#review-of-this-remedial-choice).
+
+### State maritime forum administration and substantive uniformity
+
+**Governing question:** Whether a competent state court must apply federal forum non conveniens to a domestic in personam maritime action.
+
+**Current rule:** A competent state court hearing a domestic Jones Act and accompanying in personam maritime action may retain the case without applying federal forum non conveniens. State forum policy must remain impartial toward federal claims and sister-state citizens; treating nonresidents alike is not itself citizenship discrimination. Independently, that forum-management choice neither materially prejudices a characteristic feature of maritime law nor impairs its necessary harmony and uniformity. A procedural label does not protect a rule that impairs substantive maritime rights or integral burdens or remedies.
+
+**Authority by component:**
+
+- Saving-clause and Jones Act forum choice: [American Dredging Co. v. Miller — State forum administration under the saving clause and Jones Act](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/American_Dredging_Co_v_Miller_merits_1994-02-23.md#public-projection), 1994-02-23. The statutory/state-forum portion of Scalia's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Souter, and Ginsburg; seven Justices adopt this sufficient ground for affirmance. Stevens joins this portion and the judgment, but not the separate Jensen analysis.
+- Independent maritime-uniformity ground: [American Dredging Co. v. Miller — Independent maritime-uniformity ground](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/American_Dredging_Co_v_Miller_merits_1994-02-23.md#public-projection), 1994-02-23. The Jensen portion of Scalia's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Souter, and Ginsburg; six Justices adopt this independently sufficient ground. Stevens does not join it. Souter also supplies a separate close-classification qualification without withdrawing this join.
+
+**Present operation effective:** American Dredging Co. v. Miller, 1994-02-23.
+
+**Exceptions and limits:** Federal courts retain their own forum practice. Jurisdiction, venue, substantive choice of law and discretionary dismissal remain distinct. Foreign-party, independent discrimination and Commerce Clause questions are not decided.
+
+**Holdings navigation:** [State forum administration under the saving clause and Jones Act](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#state-forum-administration-under-the-saving-clause-and-jones-act).
+
+### Maritime settlement credit and contribution protection
+
+**Governing question:** How a settlement with one jointly liable maritime tortfeasor affects the remaining claim and contribution.
+
+**Current rule:** The plaintiff’s claim against nonsettling maritime tortfeasors is reduced by the settling tortfeasor’s equitable proportion of responsibility, not by settlement dollars. A settler is protected from contribution when the nonsettler has a meaningful opportunity to litigate and obtain a reliable determination of that proportionate share. The nonsettler then pays its own adjudicated obligation and cannot recover the plaintiff’s voluntary settlement shortfall from the settler. A reliable proportionate credit is the premise for the contribution bar, not a fact established merely by identifying a settlement. Settlement risk belongs to the settling parties; the rule does not abolish surviving joint liability or transfer ordinary insolvency risk wholesale to the injured plaintiff.
+
+**Authority by component:**
+
+- Proportionate-share rule and settlement risk: [McDermott, Inc. v. AmClyde — Proportionate-share credit for maritime settlements; Settlement risk, surviving joint liability and this remand](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McDermott_Inc_v_AmClyde_merits_1994-04-20.md#public-projection), 1994-04-20. Stevens’s Opinion of the Court, joined by Stone, Blackmun, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt the rule and its settlement-specific limits. Stevens’s unanimous Opinion of the Court; all nine adopt this application and the bounded reversal and remand.
+- Reliable allocation prerequisite to contribution protection: [Boca Grande Club, Inc. v. Florida Power & Light Co — Proportionate-share credit supplies the protection that makes contribution against the settler unavailable](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md#public-projection), 1994-04-20. Stevens’s opinion for the Court, joined in full by Stone-Zsela, Blackmun, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt this application of McDermott.
+
+**Present operation effective:** Boca Grande Club, Inc. v. Florida Power & Light Co, 1994-04-20.
+
+**Holdings navigation:** [Proportionate-share credit supplies the protection that makes contribution against the settler unavailable](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#proportionate-share-credit-supplies-the-protection-that-makes-contribution-against-the-settler-unavailable); [Proportionate-share credit for maritime settlements](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#proportionate-share-credit-for-maritime-settlements); [Settlement risk, surviving joint liability and this remand](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#settlement-risk-surviving-joint-liability-and-this-remand).
+
+### Professional direction and genuine NLRA supervisory authority
+
+**Governing question:** How §2(11) distinguishes skilled patient-care direction from supervisory status.
+
+**Current rule:** The Board may distinguish a professional employee’s skilled direction of care from genuine authority in the employer’s interest to perform any of §2(11)’s listed supervisory functions: hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, discipline, responsibly direct, adjust grievances or effectively recommend such action. The authority must involve independent judgment and not merely routine or clerical action. No hiring-or-firing power is indispensable, and genuinely held authority may qualify despite infrequent exercise. Professional judgment may be independent judgment, but skilled care alone does not establish the required supervisory authority. This is a permissible distinction, not a mandatory professional exemption or a holding that patient care never serves the employer’s interest.
+
+**Authority by component:**
+
+- Permissible functional distinction and all statutory predicates: [NLRB v. Health Care & Retirement Corp. of America — The Board may distinguish skilled direction from genuine supervisory authority](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md#public-projection), 1994-05-23. Ginsburg's Opinion of the Court is joined by Stone-Zsela, Blackmun, Stevens and Souter. All five directly adopt the permissible-construction ground; Stone-Zsela's proposed mandatory construction appears only in his concurrence.
+
+**Present operation effective:** NLRB v. Health Care & Retirement Corp. of America, 1994-05-23.
+
+**Holdings navigation:** [The Board may distinguish skilled direction from genuine supervisory authority](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-board-may-distinguish-skilled-direction-from-genuine-supervisory-authority).
+
+### Public-employee speech and the employer’s mistaken factual account
+
+**Governing question:** Which employer beliefs about employee speech protect a disciplinary decision, and which do not.
+
+**Current rule:** An employer acting on a genuine, reasonable account of speech that would be disciplinable under the governing public-employee-speech rules is protected even if that factual account is mistaken. Conversely, an unreasonable and incorrect account does not defeat a claim when the employee actually spoke protected speech and that speech caused the adverse action. The employee must show protected speech was a substantial or motivating factor; the employer may establish by a preponderance that it would have taken the same action absent the protected speech. These limited propositions do not impose liability for every investigation defect or adopt the plurality’s complete investigative procedure.
+
+**Authority by component:**
+
+- Seven-Justice genuine-and-reasonable-account safe harbor: [Waters v. Churchill — A genuine, reasonable account of disciplinable speech supplies a limited safe harbor](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Waters_v_Churchill_merits_1994-05-31.md#public-projection), 1994-05-31. O'Connor's plurality opinion, joined by Stone-Zsela, Souter and Ginsburg, adopts this sufficient condition; Scalia's concurrence in the judgment, joined by Kennedy and Thomas, expressly accepts it under their broader genuine-ground rule. Seven Justices agree at this precise level; only four adopt the full objective-inquiry framework.
+- Six-Justice unreasonable-and-false-account limit: [Waters v. Churchill — An unreasonable false account cannot defeat actually protected speech](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Waters_v_Churchill_merits_1994-05-31.md#public-projection), 1994-05-31. O'Connor, Stone-Zsela, Souter and Ginsburg accept this proposition under objective factual care; Stevens's dissent, joined by Blackmun, expressly accepts it under their broader actual-speech rule. Six Justices agree on this proposition, but the two dissenters do not join the reasonable-error safe harbor or the judgment vacating the appellate rule.
+- Motive and same-decision proof: [Waters v. Churchill — The motive dispute requires remand without restoring defendants' summary judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Waters_v_Churchill_merits_1994-05-31.md#public-projection), 1994-05-31. O'Connor's four-Justice plurality and Scalia's three-Justice concurrence in the judgment support this common vacatur and limited remand. Blackmun and Stevens would affirm the appellate reversal under their different actual-speech rule; their votes are not counted as support for vacatur.
+
+**Present operation effective:** Waters v. Churchill, 1994-05-31.
+
+**Open question:** Unreasonable belief where the actual speech was unprotected, and a universal investigation checklist, are not resolved. The four-Justice complete reasonableness framework is noncontrolling.
+
+**Holdings navigation:** [A genuine, reasonable account of disciplinable speech supplies a limited safe harbor](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-genuine-reasonable-account-of-disciplinable-speech-supplies-a-limited-safe-harbor); [An unreasonable false account cannot defeat actually protected speech](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#an-unreasonable-false-account-cannot-defeat-actually-protected-speech); [The motive dispute requires remand without restoring defendants' summary judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-motive-dispute-requires-remand-without-restoring-defendants-summary-judgment).
+
+### The vessel’s cargo-turnover warning duty
+
+**Governing question:** Which cargo hazards a vessel must warn a competent stevedore about at turnover.
+
+**Current rule:** The vessel must warn of cargo hazards known to it, or that it should know through the care assigned to it, likely to be encountered in unloading and neither known to nor obvious to or reasonably anticipated by a competent stevedore. The vessel has no general duty to supervise loading or inspect completed stowage for concealed defects absent a contract, law or custom imposing that duty. Knowledge and obviousness must be assessed for the correct actor at the relevant turnover time; a supplier’s knowledge is not automatically the vessel’s knowledge.
+
+**Authority by component:**
+
+- Assigned care, competent stevedore and actor-specific inquiry: [Howlett v. Birkdale Shipping Co., S.A — The cargo turnover-warning duty is limited by the vessel’s assigned care; Knowledge and obviousness require the correct actor and time on remand](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md#public-projection), 1994-06-13. Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited turnover-warning rule and rejection of a general cargo-inspection duty. Kennedy's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this application and bounded vacatur and remand.
+
+**Present operation effective:** Howlett v. Birkdale Shipping Co., S.A, 1994-06-13.
+
+**Holdings navigation:** [The cargo turnover-warning duty is limited by the vessel’s assigned care](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-cargo-turnover-warning-duty-is-limited-by-the-vessels-assigned-care); [Knowledge and obviousness require the correct actor and time on remand](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#knowledge-and-obviousness-require-the-correct-actor-and-time-on-remand).
+
+### Equal state enforcement for employees who collectively bargain
+
+**Governing question:** Whether a State may withhold ordinary labor-law enforcement solely because employees completed protected collective bargaining.
+
+**Current rule:** A State may not deny enforcement of an otherwise independent wage right solely because the employee’s collective-bargaining agreement contains an arbitration clause. Conditioning state assistance on avoiding completed collective bargaining impermissibly penalizes the federally protected activity. Section 1983 supplies a remedy for the identified individual federal labor right infringed by that policy; a generalized assertion of federal preemption alone is not thereby made an enforceable individual right.
+
+**Authority by component:**
+
+- Protected bargaining and the specific §1983 channel: [Livadas v. Bradshaw — California may not penalize completion of protected collective bargaining; Section 1983 supplies a channel for this identified federal labor right](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Livadas_v_Bradshaw_merits_1994-06-13.md#public-projection), 1994-06-13. Stevens's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt this statutory labor-right holding. Stevens's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the right, nonforeclosure and bounded-remedy analysis.
+
+**Present operation effective:** Livadas v. Bradshaw, 1994-06-13.
+
+**Holdings navigation:** [Section 1983 supplies a channel for this identified federal labor right](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-1983-supplies-a-channel-for-this-identified-federal-labor-right); [California may not penalize completion of protected collective bargaining](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#california-may-not-penalize-completion-of-protected-collective-bargaining).
+
+### FELA negligent emotional injury within the zone of danger
+
+**Governing question:** When an employee may recover under FELA for negligently caused emotional injury.
+
+**Current rule:** A negligently caused emotional injury can be actionable on either of two alternative routes: the employee sustained actual physical impact from the employer's negligence, or the employee was placed by that negligence in immediate risk of physical harm and the emotional injury arises from fear of harm to the employee's own safety — that fear-based qualification attaches only to the threatened-impact route, not to the physical-impact route. Ordinary negligence, genuine injury and legally sufficient causation remain necessary. Bystander distress outside that zone and ordinary work-stress claims do not qualify. The rule neither guarantees recovery from exposure alone nor requires a judicially invented numerical proximity threshold.
+
+**Authority by component:**
+
+- Zone-of-danger gate and surviving negligence elements: [Consolidated Rail Corp. v. Gottshall — Negligent emotional injury is actionable within the employee's zone of danger](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md#public-projection), 1994-06-24. Justice Thomas's Opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy and Souter. Five of nine participating Justices directly adopt the same operative rule; no combination of separate rationales supplies its force.
+- Exclusion of the ordinary work-stress category: [Consolidated Rail Corp. v. Gottshall — Carlisle's work-stress claim is excluded and requires judgment for Conrail](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md#public-projection), 1994-06-24. Justice Thomas's Opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy and Souter. Five Justices adopt both the legal exclusion and mandatory defendant-judgment remedy.
+
+**Present operation effective:** Consolidated Rail Corp. v. Gottshall, 1994-06-24.
+
+**Open question:** The Court does not decide whether every qualifying claim additionally requires physical manifestations of the emotional injury.
+
+**Holdings navigation:** [Negligent emotional injury is actionable within the employee's zone of danger](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#negligent-emotional-injury-is-actionable-within-the-employees-zone-of-danger); [Carlisle's work-stress claim is excluded and requires judgment for Conrail](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#carlisles-work-stress-claim-is-excluded-and-requires-judgment-for-conrail).
+
 ## Bankruptcy
 
 ### Ordinary-course eligibility of payments on long-term debt
@@ -2405,6 +3352,22 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Holdings navigation:** [Rake v. Wade, 508 U.S. 464 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#rake-v-wade-508-us-464-1993).
 
+### Reasonably equivalent value in a forced real-estate sale
+
+**Governing question:** How §548(a)(2) measures value at a mortgage foreclosure.
+
+**Current rule:** Compliance with state foreclosure procedures does not conclusively establish reasonably equivalent value. Compare the price with value under realistically comparable forced-sale conditions, accounting for legally and practically relevant sale constraints. Procedure is relevant evidence, but ordinary open-market appraisal alone is not the comparison and hindsight alone does not establish avoidability. The challenger retains the burden of proving the statutory avoidance predicates, including inadequate value and the independently applicable timing and financial-condition requirements. No mandatory evidence checklist, fixed percentage, categorical price floor or presumption from a low appraisal ratio replaces that inquiry.
+
+**Authority by component:**
+
+- Independent federal value inquiry and comparable forced-sale conditions: [BFP v. Resolution Trust Corp — Regular foreclosure procedure does not conclusively establish federal value; Value is compared under realistically comparable forced-sale conditions](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md#public-projection), 1994-05-23. Souter's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens and Ginsburg; five Justices directly adopt the proposition and explanation. No fractured-decision synthesis is needed.
+
+**Present operation effective:** BFP v. Resolution Trust Corp, 1994-05-23.
+
+**Open question:** Tax sales, personal-property foreclosures and actual-fraud theories are not resolved. Regular foreclosure is neither a conclusive safe harbor nor automatically avoidable.
+
+**Holdings navigation:** [Regular foreclosure procedure does not conclusively establish federal value](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#regular-foreclosure-procedure-does-not-conclusively-establish-federal-value); [Value is compared under realistically comparable forced-sale conditions](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#value-is-compared-under-realistically-comparable-forced-sale-conditions).
+
 ## Civil RICO and securities liquidation
 
 ### Direct relation between a civil RICO violation and injury
@@ -2465,6 +3428,42 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Present operation effective:** 1993-06-01; Musick, Peeler & Garrett v. Employers Insurance of Wausau, for the components identified above.
 
 **Holdings navigation:** [Musick, Peeler & Garrett v. Employers Insurance of Wausau, 508 U.S. 286 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#musick-peeler--garrett-v-employers-insurance-of-wausau-508-us-286-1993).
+
+### No economic-motive element in §1962(c)
+
+**Governing question:** Whether a noneconomic enterprise or purpose falls categorically outside §1962(c).
+
+**Current rule:** Section 1962(c) adds no economic or profit-seeking motive requirement for the enterprise or predicate acts. Enterprise, commerce, direction, predicate offenses, pattern, causation, individual responsibility and constitutional limits remain independently necessary; a dependent §1962(d) claim cannot be rejected on that invented motive requirement. Obstruction, coercion and extortion remain distinct, including the Hobbs Act’s obtaining requirement when invoked.
+
+**Authority by component:**
+
+- Absence of economic-motive element and unchanged predicates: [National Organization for Women, Inc. v. Scheidler — Section 1962(c) has no added economic-motive element](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/National_Organization_for_Women_Inc_v_Scheidler_merits_1994-01-24.md#public-projection), 1994-01-24. Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt the same statutory construction and its limited remedial consequence.
+
+**Present operation effective:** National Organization for Women, Inc. v. Scheidler, 1994-01-24.
+
+**Related current rules:** “Direction of enterprise affairs under §1962(c)” and “Direct relation between a civil RICO violation and injury” retain their distinct requirements.
+
+**Open question:** Private RICO injunctive relief, actual First Amendment defenses and §1962(a)’s income requirement are not decided.
+
+**Holdings navigation:** [Section 1962(c) has no added economic-motive element](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-1962c-has-no-added-economic-motive-element).
+
+### Culpable affirmative assistance to a securities fraud
+
+**Governing question:** When the received private §10(b) and Rule 10b-5 action reaches a person assisting another’s fraud.
+
+**Current rule:** A person who knowingly or with severe recklessness substantially assists an underlying securities fraud through affirmative conduct can be privately liable. The defendant must know or severely recklessly disregard both the activity’s fraudulent character and its conduct’s assisting role. Severe recklessness is an extreme departure from ordinary care presenting a specific danger of deception known to the defendant or so obvious that the defendant must have appreciated it. An independent disclosure duty is unnecessary for affirmative assistance. The plaintiff must prove the underlying manipulation or deception, qualifying assistance and culpability, legally sufficient reliance on the underlying fraud, causation and recoverable loss by the ordinary civil preponderance standard. Investors need not have known of or relied on concealed assistance itself; no reliance presumption follows merely from this rule.
+
+**Authority by component:**
+
+- Received action, mental state, underlying-fraud reliance and proof: [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A — The received private action includes culpable substantial assistance; Knowledge or severe recklessness in affirmative substantial assistance; Triable issues require further proceedings, not a liability award](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md#public-projection), 1994-04-19. Stevens’s Opinion of the Court, joined in full by Stone, Blackmun, Souter and Ginsburg; five Justices adopt the existence of the confined action and its received-remedy rationale. No fractured-decision synthesis is necessary. Stevens’s Opinion of the Court, joined by Stone, Blackmun, Souter and Ginsburg; all five adopt this confined mental-state and affirmative-assistance rule, not a universal recklessness rule for every securities claim. Stevens’s Opinion of the Court, joined by Stone, Blackmun, Souter and Ginsburg; five Justices adopt the record application, preserved proof requirements and limited affirmance and remand.
+
+**Present operation effective:** Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A, 1994-04-19.
+
+**Exceptions and limits:** Negligence, valuation concerns alone, professional status, ordinary services without qualifying culpability and assisting effect, and mere duty-free silence are insufficient. Relabeling inaction does not make it affirmative. No primary misrepresentation by the assistant, general investigation duty, liability from default, universal securities scienter rule or comprehensive SEC-enforcement rule follows.
+
+**Open question:** The full rules for duty-based omissions and consciously intended assistance through duty-free inaction remain open. Contribution separately requires established shared liability under Musick, Peeler.
+
+**Holdings navigation:** [The received private action includes culpable substantial assistance](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-received-private-action-includes-culpable-substantial-assistance); [Knowledge or severe recklessness in affirmative substantial assistance](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#knowledge-or-severe-recklessness-in-affirmative-substantial-assistance); [Triable issues require further proceedings, not a liability award](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#triable-issues-require-further-proceedings-not-a-liability-award).
 
 ## Antitrust
 
@@ -2753,6 +3752,39 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Holdings navigation:** [United States v. Texas, 507 U.S. 529 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-texas-507-us-529-1993).
 
+### Agency FTCA exclusivity and sue-and-be-sued immunity
+
+**Governing question:** How FTCA agency exclusivity interacts with an express sue-and-be-sued clause.
+
+**Current rule:** Section 2679(a) makes FTCA relief exclusive against agency sue-and-be-sued authority only for claims cognizable under the whole of §1346(b), including its private-person and state-law requirements. A federal constitutional tort lies outside that category. Former §1725(c)(4)’s broad FSLIC clause waives immunity for such a claim; an implied restriction requires a clear showing of inconsistency with the statutory or constitutional scheme, necessity to avoid grave interference with governmental functions, or plain congressional intent to use the clause narrowly. Waiver does not supply a substantive cause of action or establish recovery.
+
+**Authority by component:**
+
+- Complete §1346(b) cognizability and agency exclusivity: [FDIC v. Meyer — FTCA exclusivity does not encompass this federal constitutional claim](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/FDIC_v_Meyer_merits_1994-02-23.md#public-projection), 1994-02-23. The statutory-exclusivity portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. All nine adopt this separate threshold holding.
+- Former FSLIC waiver and three implied-restriction grounds: [FDIC v. Meyer — Former FSLIC's sue-and-be-sued clause waives immunity](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/FDIC_v_Meyer_merits_1994-02-23.md#public-projection), 1994-02-23. The waiver portion of Thomas's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg. Nine Justices adopt the specific waiver and its stated limits.
+
+**Present operation effective:** FDIC v. Meyer, 1994-02-23.
+
+**Exceptions and limits:** The separate employee-exclusivity rule in §2679(b)(1) is unchanged. The former clause governs the covered agency claims; no universal federal waiver or successor-clause construction is supplied.
+
+**Holdings navigation:** [FTCA exclusivity does not encompass this federal constitutional claim](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ftca-exclusivity-does-not-encompass-this-federal-constitutional-claim); [Former FSLIC's sue-and-be-sued clause waives immunity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#former-fslics-sue-and-be-sued-clause-waives-immunity).
+
+### Gratuitous disclaimers and federal gift-tax timing
+
+**Governing question:** When a later disclaimer of an older property interest constitutes a federally taxable gift.
+
+**Current rule:** Federal transfer-tax law independently identifies a gratuitous disposition; state-law relation back does not erase an otherwise completed later transfer. The exclusion of transfers before the 1932 gift tax does not immunize every later disposition of an interest created earlier. If the pre-1977 regulatory disclaimer exception applies, it requires an unequivocal refusal effective under local law, made within a reasonable time after knowledge of the interest and before acceptance; a partial refusal must still be complete and unqualified as to the part refused. No fixed period replaces the knowledge-based inquiry. On the record governed by that exception, failure to disclaim within a reasonable time supports the acceptance presumption absent contrary facts.
+
+**Authority by component:**
+
+- Independent federal disposition, conditional regulatory exception and temporal limit: [United States v. Irvine — Federal law taxes the later gratuitous transfer, independently of state relation back; If the regulatory exception applies, this disclaimer was not timely; The 1932 limitation protects earlier transfers, not every later disposition of an old interest](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Irvine_merits_1994-04-20.md#public-projection), 1994-04-20. Souter's statutory-transfer portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; all eight participating Justices adopt this statutory ground and the alternative for regulatory inapplicability. Souter's conditional reasonable-time portion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas and Ginsburg; seven Justices adopt this independently sufficient conditional ground and its explanation. Scalia does not join this portion, though he agrees with taxability on his separate acceptance-and-transfer rationale. Souter's prospective-application portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; eight Justices adopt this answer to the independent statutory defense.
+
+**Present operation effective:** United States v. Irvine, 1994-04-20.
+
+**Open question:** The decision does not resolve whether that regulation covers this 1917 inter vivos trust, created before the 1932 gift-tax enactment, or supply a rule for later §2518 qualified disclaimers. Its conditional timeliness holding must not be converted into universal regulatory coverage.
+
+**Holdings navigation:** [Federal law taxes the later gratuitous transfer, independently of state relation back](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#federal-law-taxes-the-later-gratuitous-transfer-independently-of-state-relation-back); [The 1932 limitation protects earlier transfers, not every later disposition of an old interest](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-1932-limitation-protects-earlier-transfers-not-every-later-disposition-of-an-old-interest).
+
 ## State taxation and interstate commerce
 
 ### Separate due-process and Commerce Clause connections for remote use-tax collection
@@ -2846,6 +3878,90 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Holdings navigation:** [Harper v. Virginia Department of Taxation, 509 U.S. 86 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#harper-v-virginia-department-of-taxation-509-us-86-1993).
 
+### Railroad property taxes and ordinary nonrailroad exemptions
+
+**Governing question:** Whether the 4-R Act requires extension of ordinary property-tax exemptions to railroad property.
+
+**Current rule:** For §11503(b)(1)–(3), the §11503(a)(4) commercial-and-industrial comparison class includes qualifying commercial or industrial property actually subject to the levy, excluding transportation property and land used primarily for agriculture or timber growing. Exempt property is outside that class, so those paragraphs do not require extension of ordinary nonrailroad exemptions. Paragraph (4) likewise does not invalidate a generally applicable value-based property tax solely because ordinary nonrailroad categories are exempt. Assessment, collection and rate protections retain their own force.
+
+**Authority by component:**
+
+- Taxable comparison class and exclusions: [Department of Revenue of Oregon v. ACF Industries, Inc — The ordinary property-tax comparison excludes exempt property](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md#public-projection), 1994-01-24. Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Souter, Thomas and Ginsburg; eight Justices adopt the statutory definition as the premise of the exemption ruling.
+- Catchall construction for ordinary exemptions: [Department of Revenue of Oregon v. ACF Industries, Inc — Ordinary exemptions do not become forbidden discrimination under the catchall](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md#public-projection), 1994-01-24. Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Souter, Thomas and Ginsburg; eight Justices adopt this construction and the reversal of the exemption requirement.
+
+**Present operation effective:** Department of Revenue of Oregon v. ACF Industries, Inc, 1994-01-24.
+
+**Open question:** Taxation of railroads alone or with an isolated targeted group remains unresolved. No exemption percentage, numerical safe harbor, intent requirement or immunity for every levy called a property tax is established.
+
+**Holdings navigation:** [The ordinary property-tax comparison excludes exempt property](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-ordinary-property-tax-comparison-excludes-exempt-property); [Ordinary exemptions do not become forbidden discrimination under the catchall](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ordinary-exemptions-do-not-become-forbidden-discrimination-under-the-catchall).
+
+### Reasonable aircraft-operator airport charges
+
+**Governing question:** What the Anti-Head Tax Act requires for state or municipal airport charges to aircraft operators.
+
+**Current rule:** Sections 1513(a) and (b), read together, permit airport-owner or operator rental, landing and other facility-service charges to aircraft operators only if reasonable. In the setting decided in Northwest Airlines, reasonableness requires fair approximation of facility use, no excess relative to benefits and no discrimination against interstate commerce. Exact equality among unlike users is unnecessary, but each requirement remains independent. A per-passenger charge is not saved merely by a service label or satisfaction of Evansville, and not every expense passed through by an airline is a prohibited passenger charge.
+
+**Authority by component:**
+
+- Statutory categories and three-part reasonableness instruction: [Northwest Airlines, Inc. v. County of Kent — The statutory airport-fee condition and its measure](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md#public-projection), 1994-01-24. Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt both this statutory construction and the stated three-part measure. Thomas rejects this construction.
+
+**Present operation effective:** Northwest Airlines, Inc. v. County of Kent, 1994-01-24.
+
+**Exceptions and limits:** Subsection (a) prohibits charges imposed directly or indirectly on persons traveling in air commerce, their carriage, air-transportation sales or gross receipts from those sales. Subsection (b)’s distinct first clause saves taxes not enumerated in (a), including property, net-income, franchise and sales/use taxes on goods or services; its second saves the reasonable aircraft-operator facility charges. Concession reserves or unequal recovery percentages alone do not establish a defect. No private AHTA action, different DOT standard or displacement of independent constitutional review is decided.
+
+**Holdings navigation:** [The statutory airport-fee condition and its measure](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-statutory-airport-fee-condition-and-its-measure).
+
+### Discriminatory routing, charges and linked subsidies in interstate commerce
+
+**Governing question:** When a state or local economic measure must satisfy the discrimination rule rather than ordinary incidental-burden balancing.
+
+**Current rule:** A measure discriminates when it favors local economic interests by burdening interstate competitors, including a waste charge expressly keyed to out-of-state origin, compulsory routing that reserves a processing service to a designated local private operator, or an integrated assessment-and-distribution scheme that collects from the whole market but returns the proceeds only to local producers. The entire linked operation matters; formally equal collection does not cleanse its discriminatory distribution. The government must show a legitimate local purpose that cannot adequately be served by reasonable nondiscriminatory alternatives. Ordinary incidental-burden balancing does not validate discrimination. Conservation, sanitation, cost recovery and financing a favored private facility do not themselves meet that burden; contracting with a private operator does not make compulsory market regulation governmental market participation.
+
+**Authority by component:**
+
+- Origin-based surcharge and justification burden: [Oregon Waste Systems, Inc. v. Department of Environmental Quality — An express waste-origin surcharge triggers the discrimination rule; Conservation and cost-recovery labels do not justify this private-facility differential](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md#public-projection), 1994-04-04. Thomas's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight Justices directly adopt this proposition and its application.
+- Private processing monopoly and neutral alternatives: [C & A Carbone, Inc. v. Town of Clarkstown — Compulsory use of this local private processor discriminates in the service market; Sanitary service and financing do not justify this discriminatory route](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md#public-projection), 1994-05-16. Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg; six Justices adopt the discrimination classification and its stated private-service boundary. O'Connor agrees only with the judgment on a distinct Pike ground. Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg; six Justices adopt this application of the discrimination rule. No independent Pike holding is adopted by that coalition.
+- Integrated levy, local distribution and justification: [West Lynn Creamery, Inc. v. Healy — The assessment and dedicated local distribution must be examined together; the local preference lacks a sufficient justification](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md#public-projection), 1994-06-17. Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices O'Connor, Kennedy, Souter, and Ginsburg: six Justices adopt this rule and its application. Justices Scalia and Thomas concur in the judgment on the narrower dedicated-industry-tax ground. Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices O'Connor, Kennedy, Souter, and Ginsburg: six Justices adopt the justification analysis and its application. Eight Justices support reversal and remand; Justice Blackmun dissents.
+
+**Present operation effective:** West Lynn Creamery, Inc. v. Healy, 1994-06-17.
+
+**Exceptions and limits:** These decisions do not adjudicate every general-revenue subsidy, genuinely public waste system or government-owned landfill. A compensatory tax must independently satisfy the requirements in “Compensatory taxes and the actual equivalent local burden.”
+
+**Holdings navigation:** [An express waste-origin surcharge triggers the discrimination rule](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#an-express-waste-origin-surcharge-triggers-the-discrimination-rule); [Conservation and cost-recovery labels do not justify this private-facility differential](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#conservation-and-cost-recovery-labels-do-not-justify-this-private-facility-differential); [Compulsory use of this local private processor discriminates in the service market](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#compulsory-use-of-this-local-private-processor-discriminates-in-the-service-market); [Sanitary service and financing do not justify this discriminatory route](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#sanitary-service-and-financing-do-not-justify-this-discriminatory-route); [The assessment and dedicated local distribution must be examined together](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-assessment-and-dedicated-local-distribution-must-be-examined-together); [The local preference lacks a sufficient justification](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-local-preference-lacks-a-sufficient-justification).
+
+### Compensatory taxes and the actual equivalent local burden
+
+**Governing question:** When an otherwise discriminatory tax can compensate for a tax already borne by the corresponding intrastate activity.
+
+**Current rule:** The State must identify the actual intrastate burden for which it compensates, show that the interstate charge roughly approximates and does not exceed that burden, and establish that the taxed events are substantially equivalent, reasonably treated as mutually exclusive proxies for one another. General income taxation and waste disposal are not such equivalent events. For a use tax said to equalize local sales taxes, the comparison must use the sales tax actually imposed in the affected locality. Statewide averages and burdens elsewhere cannot cure an excess there. Equal or lower use-tax burdens in other localities are not invalidated merely because an excess exists elsewhere; relief addresses the established inequality through lawful remedial procedures.
+
+**Authority by component:**
+
+- Three compensatory-tax predicates: [Oregon Waste Systems, Inc. v. Department of Environmental Quality — General income taxes do not establish a compensatory disposal tax](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md#public-projection), 1994-04-04. Thomas's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight Justices directly adopt this proposition and its application.
+- Local comparison, bounded invalidity and relief: [Associated Industries of Missouri v. Lohman — The compensating burden must exist in the affected locality; Relief must address the established inequality through lawful state procedures](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md#public-projection), 1994-05-23. Thomas's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight direct joins. Blackmun agrees with the judgment without joining this full framework.
+
+**Present operation effective:** Associated Industries of Missouri v. Lohman, 1994-05-23.
+
+**Holdings navigation:** [General income taxes do not establish a compensatory disposal tax](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#general-income-taxes-do-not-establish-a-compensatory-disposal-tax); [The compensating burden must exist in the affected locality](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-compensating-burden-must-exist-in-the-affected-locality); [Relief must address the established inequality through lawful state procedures](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#relief-must-address-the-established-inequality-through-lawful-state-procedures).
+
+### Worldwide unitary-income taxation and foreign-commerce safeguards
+
+**Governing question:** How a worldwide combined-reporting tax is tested against foreign-commerce and notice objections.
+
+**Current rule:** Worldwide combined reporting remains subject to the ordinary constitutional tax requirements and the distinct foreign-commerce inquiries into impermissible multiple taxation and national uniformity. Foreign incorporation of the parent does not alone establish a forbidden burden, and foreign use of a different accounting method does not itself establish unconstitutional multiple taxation; the actual claimed burden and available apportionment protections matter. National-uniformity review is independent: congressional silence is not affirmative authorization, and nonbinding executive policy or foreign objections do not alone invalidate the state method. Reasonable estimation of foreign-affiliate information can satisfy notice and reporting requirements when intelligible constraints, meaningful review and actual accommodations exist; administration must consider the expense of producing the information, not demand impossible precision.
+
+**Authority by component:**
+
+- Ordinary limits, actual reporting accommodations and notice: [Barclays Bank PLC v. Franchise Tax Board of California — Ordinary constitutional tax requirements and the apportionment challenge — Part I-A; The presented reporting-burden challenge fails under the actual accommodations — Part I-B; Reasonable approximation and available review satisfy the presented notice challenge — Part II](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md#public-projection), 1994-06-20. Justice Kennedy's opinion, Part I-A, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine Justices adopt the rule and its bounded application. Agreement on this component does not decide Barclays' separate foreign-commerce objections. Justice Kennedy's opinion, Part I-B, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine direct joins to this reporting-burden application. Justice Kennedy's opinion, Part II, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine direct joins. This resolves Barclays' notice and discretion objections; it does not create a separate Colgate claim.
+- Domestic- and foreign-parent multiple-taxation components: [Barclays Bank PLC v. Franchise Tax Board of California — Container governs the domestic-parent multiple-taxation claim — Part III-A; The foreign-parent record does not establish the forbidden multiple-taxation burden — Part III-B](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md#public-projection), 1994-06-20. Justice Kennedy's opinion, Part III-A, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine Justices support this retained-precedent rule. O'Connor and Thomas accept its continued application, not its extension to Barclays. Justice Kennedy's opinion, Part III-B, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Souter and Ginsburg: seven direct joins. O'Connor and Thomas dissent from this component and would reverse Barclays on this independently sufficient ground.
+- Independent uniformity inquiry and limited policy evidence: [Barclays Bank PLC v. Franchise Tax Board of California — Independent national-uniformity review and the limits of nonbinding policy — Part IV-A; The specific federal policy record supplies additional support, not authorization — Part IV-B](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md#public-projection), 1994-06-20. Justice Kennedy's opinion, Part IV-A, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Souter, Thomas and Ginsburg: eight direct joins to this bounded national-uniformity and legal-force conclusion. Scalia agrees in the rejection of the attack on his separate method, without joining this substantive national-uniformity inquiry. Justice Kennedy's opinion, Part IV-B, joined by Chief Justice Stone-Zsela and Justices Stevens, Souter and Ginsburg: five direct joins to this additional national-uniformity ground and its limits. Blackmun, O'Connor, Scalia and Thomas do not join it. It provides an additional explanation for the national-uniformity result, not an independently sufficient ground to uphold a tax that fails another constitutional requirement.
+
+**Present operation effective:** Barclays Bank PLC v. Franchise Tax Board of California, 1994-06-20.
+
+**Exceptions and limits:** California’s relief mechanism permits, where the ordinary formula fails fairly to represent business activity, separate accounting, exclusion of a factor, inclusion of additional factors or another reasonable method, on taxpayer petition or agency requirement. The decision does not validate every estimate, foreign information demand or demonstrated duplicative burden. The narrower five-Justice discussion of the particular federal policy record is supporting evidence, not congressional permission.
+
+**Holdings navigation:** [Ordinary constitutional tax requirements and the apportionment challenge — Part I-A](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#ordinary-constitutional-tax-requirements-and-the-apportionment-challenge--part-i-a); [The presented reporting-burden challenge fails under the actual accommodations — Part I-B](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-presented-reporting-burden-challenge-fails-under-the-actual-accommodations--part-i-b); [Reasonable approximation and available review satisfy the presented notice challenge — Part II](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#reasonable-approximation-and-available-review-satisfy-the-presented-notice-challenge--part-ii); [Container governs the domestic-parent multiple-taxation claim — Part III-A](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#container-governs-the-domestic-parent-multiple-taxation-claim--part-iii-a); [The foreign-parent record does not establish the forbidden multiple-taxation burden — Part III-B](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-foreign-parent-record-does-not-establish-the-forbidden-multiple-taxation-burden--part-iii-b); [Independent national-uniformity review and the limits of nonbinding policy — Part IV-A](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#independent-national-uniformity-review-and-the-limits-of-nonbinding-policy--part-iv-a); [The specific federal policy record supplies additional support, not authorization — Part IV-B](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-specific-federal-policy-record-supplies-additional-support-not-authorization--part-iv-b).
+
 ## Indian law
 
 ### State taxation of qualifying General Allotment Act fee land
@@ -2906,6 +4022,22 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Present operation effective:** 1993-06-14; South Dakota v. Bourland, for the components identified above.
 
 **Holdings navigation:** [South Dakota v. Bourland, 508 U.S. 679 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#south-dakota-v-bourland-508-us-679-1993).
+
+### Reasonable nonmember-tax collection through reservation traders
+
+**Governing question:** When federal trader regulation permits state collection controls on reservation cigarette transactions.
+
+**Current rule:** Federal trader statutes do not displace reasonable measures needed to collect valid state taxes on sales to nonmembers. Probable-demand quotas, documentation and prior approval may survive a facial challenge when they preserve an adequate supply for protected on-reservation sales to tribal members for their own use and channel other sales through lawful tax collection. The exemption does not attach automatically to every wholesale purchase. Stamped taxable sales are not capped by the exempt-sales quota. Administrative burdens must remain reasonable and cannot abolish the exemption; facial validity does not foreclose proof of deficient administration in a particular application.
+
+**Authority by component:**
+
+- Valid nonmember tax, reasonable collection and protected member demand: [Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc — Federal trader regulation does not displace reasonable collection of valid nonmember taxes; Probable-demand limits and prior approval survive only at facial scope](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md#public-projection), 1994-06-13. O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the limited federal-statute and collection holding. O'Connor's unanimous Opinion of the Court; Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the qualified quota-and-approval holding and reversal of the facial injunction.
+
+**Present operation effective:** Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc, 1994-06-13.
+
+**Exceptions and limits:** Tribal sovereign immunity and remedies against particular actors remain separate. The ruling does not authorize taxation of the protected member’s own on-reservation use.
+
+**Holdings navigation:** [Federal trader regulation does not displace reasonable collection of valid nonmember taxes](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#federal-trader-regulation-does-not-displace-reasonable-collection-of-valid-nonmember-taxes); [Probable-demand limits and prior approval survive only at facial scope](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#probable-demand-limits-and-prior-approval-survive-only-at-facial-scope).
 
 ## Property and takings
 
@@ -3013,6 +4145,38 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Present operation effective:** 1993-02-24; United States v. A Parcel of Land Known as 92 Buena Vista Avenue, for the components identified above.
 
 **Holdings navigation:** [United States v. A Parcel of Land Known as 92 Buena Vista Avenue, 507 U.S. 111 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-a-parcel-of-land-known-as-92-buena-vista-avenue-507-us-111-1993).
+
+### Process before civil forfeiture seizure of real property
+
+**Governing question:** When the Government may seize real property for civil forfeiture before notice and hearing.
+
+**Current rule:** The Government ordinarily must provide the owner notice and a meaningful opportunity to be heard before civil forfeiture seizure of real property; a Fourth Amendment warrant does not satisfy this independent Fifth Amendment duty. To proceed without prior process for exigent circumstances, the Government must show that less restrictive measures, such as recorded notice of the claim, a restraining order or a bond, would not prevent sale, destruction or continued unlawful use. Emergency seizure remains possible on that showing with appropriate subsequent process. The protection includes control and income from rented property, not only physical occupancy.
+
+**Authority by component:**
+
+- Prior process and Government exigency showing: [United States v. James Daniel Good Real Property — Notice and a hearing before civil seizure of real property](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md#public-projection), 1993-12-13. Kennedy's opinion for the Court, Pre-seizure process portion, joined by Stone, Blackmun, Stevens, Souter, and Ginsburg. These six adopt the same rule, its exigency qualification, and its application.
+
+**Present operation effective:** United States v. James Daniel Good Real Property, 1993-12-13.
+
+**Exceptions and limits:** Movable-property exceptions retain their actual justification. No criminal-forfeiture rule, final ownership determination, immunity waiver or automatic compensation remedy follows.
+
+**Holdings navigation:** [Notice and a hearing before civil seizure of real property](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#notice-and-a-hearing-before-civil-seizure-of-real-property).
+
+### Nexus and rough proportionality for individualized land dedications
+
+**Governing question:** What a government must establish when it conditions a development permit on dedication of property interests.
+
+**Current rule:** For an individualized permit condition demanding a real-property dedication, the government must establish an essential nexus to a legitimate regulatory interest and rough proportionality between the nature and extent of the demanded dedication and the proposed development’s impact. An individualized determination must justify each demand; a generalized possibility of benefit is insufficient. Reasonable estimates may suffice, without exact mathematical precision or proof that this property is uniquely suited. Public access must itself be justified when a less intrusive restriction would address the impact.
+
+**Authority by component:**
+
+- Nexus, governmental burden and nature-and-extent comparison: [Dolan v. City of Tigard — The City must justify the nature and extent of each demanded dedication; The public-greenway dedication is insufficiently justified; The pathway dedication requires more than a possible traffic benefit](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dolan_v_City_of_Tigard_merits_1994-06-24.md#public-projection), 1994-06-24. Justice O'Connor's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas; five Justices adopt this rule and its government justification burden. Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas; all five support both the rule and this application. Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas; five Justices adopt the application and its estimation allowance.
+
+**Present operation effective:** Dolan v. City of Tigard, 1994-06-24.
+
+**Exceptions and limits:** The decision does not decide legislative exactions, monetary fees or every permit restriction. Failure of the showing does not automatically entitle the applicant to a permit or compensation; lawful reconsideration remains available.
+
+**Holdings navigation:** [The City must justify the nature and extent of each demanded dedication](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-city-must-justify-the-nature-and-extent-of-each-demanded-dedication); [The public-greenway dedication is insufficiently justified](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-public-greenway-dedication-is-insufficiently-justified); [The pathway dedication requires more than a possible traffic benefit](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-pathway-dedication-requires-more-than-a-possible-traffic-benefit).
 
 ## Environmental and administrative law
 
@@ -3200,6 +4364,139 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Holdings navigation:** [Darby v. Cisneros, 509 U.S. 137 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#darby-v-cisneros-509-us-137-1993).
 
+### Privacy Act incorporation of FOIA in federal bargaining requests
+
+**Governing question:** When a federal labor-information duty can compel personal-record disclosure through the Privacy Act’s FOIA exception.
+
+**Current rule:** Section 7114(b)(4) operates only to the extent disclosure is not prohibited by law. For a record in a system of records, §552a(b) prohibits disclosure absent the subject’s written request or prior written consent or an applicable enumerated exception. Under §552a(b)(2), FOIA itself must require disclosure. Collective-bargaining usefulness does not enlarge Reporters Committee’s ordinary third-party public-interest inquiry. Exemption 6 balances concrete privacy against demonstrated incremental public understanding; it permits withholding rather than commanding secrecy, while the Privacy Act supplies the prohibition through this invoked route when FOIA does not require release.
+
+**Authority by component:**
+
+- Labor duty, Privacy Act trigger and incorporated FOIA inquiry: [Department of Defense v. Federal Labor Relations Authority — The labor duty incorporates the Privacy Act's FOIA exception without alteration](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Defense_v_FLRA_merits_1994-02-23.md#public-projection), 1994-02-23. Stevens's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt this statutory coordination and precedent-based explanation.
+- Distinct Exemption 6 permission and resulting Privacy Act prohibition: [Department of Defense v. Federal Labor Relations Authority — The added home addresses do not justify disclosure on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Defense_v_FLRA_merits_1994-02-23.md#public-projection), 1994-02-23. Stevens's opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt the same record-specific balance and reversal of both enforcement components.
+
+**Present operation effective:** Department of Defense v. Federal Labor Relations Authority, 1994-02-23.
+
+**Exceptions and limits:** The labor duty concerns requested, normally maintained, reasonably available data necessary for full and proper bargaining discussion, understanding and negotiation, excluding management/supervisory bargaining guidance, advice, counsel and training. Exemption 6 covers personnel, medical and similar files and a clearly unwarranted invasion; Exemption 7(C)’s different law-enforcement threshold is not substituted. Scattered public availability does not eliminate dissemination privacy. Routine use, subject consent, other exceptions and a different demonstrated transparency use remain separate. Requester neutrality does not erase a protected person’s position when disclosure is opposed on a privilege ground.
+
+**Holdings navigation:** [The labor duty incorporates the Privacy Act's FOIA exception without alteration](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-labor-duty-incorporates-the-privacy-acts-foia-exception-without-alteration); [The added home addresses do not justify disclosure on this record](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-added-home-addresses-do-not-justify-disclosure-on-this-record).
+
+### Municipal resource recovery and generated hazardous ash
+
+**Governing question:** Whether RCRA §3001(i) exempts hazardous ash generated by a qualifying energy-recovery facility.
+
+**Current rule:** Section 3001(i) does not exempt a qualifying facility’s generation of hazardous ash from Subtitle C merely because it excludes listed treatment, storage, disposal or other management activities at the facility. The facility predicate requires recovery of energy from burning municipal solid waste; receipt and burning only of household waste and nonhazardous commercial or industrial solid waste, with no hazardous waste identified or listed under §3001; and contractual requirements, or notification or inspection procedures, assuring that hazardous waste is not received or burned. These alternative compliance means must not become cumulative mandates. Even a household-only facility satisfying those predicates must treat generated hazardous ash according to the governing hazardous-waste requirements. An agency’s reconsideration cannot expand the exclusion beyond the statute.
+
+**Authority by component:**
+
+- Qualifying facility, excluded activities and unexcluded generation: [City of Chicago v. Environmental Defense Fund — The facility exclusion does not exempt generated hazardous ash; Agency reconsideration does not authorize an interpretation beyond the statute](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md#public-projection), 1994-05-02. Scalia’s opinion for the Court, joined by Stone-Zsela, Blackmun, Kennedy, Souter, Thomas and Ginsburg; seven Justices adopt the statutory rule and its stated limits. The same seven-Justice opinion: Scalia, joined by Stone-Zsela, Blackmun, Kennedy, Souter, Thomas and Ginsburg. Stevens and O’Connor disagree about the statutory range, not the existence of Congress’s limiting authority.
+
+**Present operation effective:** City of Chicago v. Environmental Defense Fund, 1994-05-02.
+
+**Holdings navigation:** [Agency reconsideration does not authorize an interpretation beyond the statute](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#agency-reconsideration-does-not-authorize-an-interpretation-beyond-the-statute); [The facility exclusion does not exempt generated hazardous ash](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-facility-exclusion-does-not-exempt-generated-hazardous-ash).
+
+### Water-quality certification and conditions on the licensed activity
+
+**Governing question:** What §401 permits a certifying authority to regulate once a federally licensed activity may discharge into navigable waters.
+
+**Current rule:** An activity requiring a federal license or permit that may result in a discharge into navigable waters triggers §401(a)(1). Certification comes from the originating State, the appropriate interstate agency, or the Administrator if the state or interstate agency lacks authority. Section 401(d) authorizes limitations and monitoring on the applicant’s activity as necessary to assure compliance with applicable §§301, 302, 306 and 307 requirements and other appropriate state-law requirements stated in the certification; authority is not confined to the triggering discharge. Section 301(b)(1)(C)’s incorporation of more stringent limitations needed to meet water-quality standards, and the separate appropriate-state-law clause, each independently include lawful §303 standards. Neither route authorizes unrelated project policy. Lawful conditions become conditions of the later federal license. State water-allocation savings preserve allocation authority and established quantity rights, but do not exempt activities from necessary water-quality flow conditions or turn certification into a water-right permit. States may preserve stricter pollution requirements, but §510(1) forbids less-stringent requirements where the corresponding federal requirements are in effect.
+
+**Authority by component:**
+
+- Discharge trigger, independent incorporation routes, quantity savings and license effect: [PUD — A discharge triggers certification; necessary conditions can govern the activity; Section 301 supplies one route incorporating water-quality standards; The appropriate-State-law clause independently includes these standards; Water-allocation savings do not categorically exclude necessary flow protection; This authorized certification condition survives the present licensing objection](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md#public-projection), 1994-05-31. O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Kennedy, Souter and Ginsburg; seven direct joins to this proposition and its explanation.
+
+**Present operation effective:** PUD, 1994-05-31.
+
+**Exceptions and limits:** Certification applications require public notice; hearings are required only to the extent the authority deems appropriate. Failure or refusal to act within a reasonable time, no longer than one year after receipt, waives certification for that application. A license cannot issue before required certification or waiver and cannot issue after certification is denied. Where the specified effluent limitations and performance standards do not apply, the State must so certify, without thereby satisfying §511(c). The decision resolves no actual conflict with a later FERC license; independent federal-license review remains available. It creates no §402 evidentiary rule.
+
+**Holdings navigation:** [A discharge triggers certification; necessary conditions can govern the activity](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-discharge-triggers-certification-necessary-conditions-can-govern-the-activity); [Section 301 supplies one route incorporating water-quality standards](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#section-301-supplies-one-route-incorporating-water-quality-standards); [Water-allocation savings do not categorically exclude necessary flow protection](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#water-allocation-savings-do-not-categorically-exclude-necessary-flow-protection); [This authorized certification condition survives the present licensing objection](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#this-authorized-certification-condition-survives-the-present-licensing-objection).
+
+### Designated water uses, criteria and preservation of existing uses
+
+**Governing question:** How enforceable water-quality standards protect uses beyond numerical pollutant criteria.
+
+**Current rule:** A §303 standard contains designated uses and criteria based on those uses; compliance with numerical criteria does not invariably satisfy the standard when an activity would defeat a protected use. A necessary minimum-flow condition can protect an approved fish use without a numerical-criteria violation. Criteria must rest on sound science and sufficiently protect the uses, including the most sensitive when there are several. Criteria may be concentrations, levels or narrative statements; the regulatory direction that States should establish numerical values is not a universal shall. Section 303(c)(2)(B) separately requires numerical criteria for listed toxic pollutants with published criteria whose presence or discharge could reasonably interfere with designated uses, as necessary to support them; where numerical criteria are unavailable, biological monitoring or assessment criteria consistent with the prescribed information apply. This does not limit or delay biological permit conditions or previously adopted numerical criteria. Narrative toxic controls also require the applicable method for regulating point-source toxic discharges on water-quality-limited segments.
+
+**Authority by component:**
+
+- Uses and criteria with statutory toxic-criteria qualifications: [PUD — Designated uses are enforceable components alongside criteria](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md#public-projection), 1994-05-31. O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Kennedy, Souter and Ginsburg; seven direct joins to this proposition and its explanation.
+- Independent protection of existing uses: [PUD — Protection of the existing fish use also sustains this condition](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md#public-projection), 1994-05-31. O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Kennedy, Souter and Ginsburg; seven direct joins to this proposition and its explanation.
+
+**Present operation effective:** PUD, 1994-05-31.
+
+**Exceptions and limits:** A nonexisting designated use may be removed, or subcategories established, only upon demonstrated infeasibility for an authorized reason: natural pollutant concentrations; natural ephemeral, intermittent or low flows unless sufficient effluent can compensate consistently with conservation requirements; irremediable human conditions or conditions more damaging to correct; a dam, diversion or hydrologic modification where neither feasible restoration nor operation can attain the use; natural physical features unrelated to water quality precluding aquatic-life protection; or controls beyond §§301(b) and 306 causing substantial and widespread economic and social impact. Existing uses cannot be removed unless a more protective use is added; uses attainable through statutory effluent limits and cost-effective reasonable nonpoint practices cannot be removed. Notice and a hearing opportunity precede use or subcategory changes. Omission or removal of §101(a)(2) uses or a less-stringent subcategory requires attainability analysis; designation including those uses does not. Seasonal criteria cannot defeat a more protective use in another season.
+
+**Controlling construction:** Existing instream uses and necessary water quality must be maintained and protected. Higher-quality water may be lowered only after the State finds necessity for important area economic or social development through full intergovernmental coordination and public participation; existing uses remain fully protected, the highest statutory and regulatory point-source requirements must be achieved, and all cost-effective reasonable nonpoint practices applied. Outstanding National resource waters retain their separate protection, and thermal impairment remains subject to §316. Class AA status or federal land alone does not establish an outstanding-resource designation. Washington’s separate existing-beneficial-use protection supplies an additional ground; its prohibition on degradation injuring existing uses is not merged with its separate provision requiring both such injury and long-term irreparable environmental harm. No universal dam-operation duty, optimal-fishery requirement or adjudicated infeasibility finding follows.
+
+**Holdings navigation:** [Designated uses are enforceable components alongside criteria](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#designated-uses-are-enforceable-components-alongside-criteria).
+
+### Private CERCLA fees and independently necessary response work
+
+**Governing question:** Which legal-professional expenses qualify as private CERCLA response costs.
+
+**Current rule:** Sections 107(a)(4)(B) and 101(25) do not shift private litigation attorney’s fees; a reference to enforcement activities is not the required authorization for that private award. Work performed by a lawyer can nevertheless qualify when the actual task independently constitutes a necessary response activity, such as identifying other responsible parties in a way that advances cleanup, and the private claimant proves necessity and consistency with the National Contingency Plan. Job title and billing label are not controlling. Work protecting the client’s own allocation or liability position in negotiations with EPA is not thereby a response cost; truly separable qualifying work must be established as such.
+
+**Authority by component:**
+
+- No private litigation fee shifting: [Key Tronic Corp. v. United States — CERCLA does not authorize these private litigation fees](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Key_Tronic_Corp_v_United_States_merits_1994-06-06.md#public-projection), 1994-06-06. Part I of Stevens's Opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Souter and Ginsburg. Six Justices adopt the litigation-fee exclusion; Blackmun, Scalia and Thomas dissent from that component.
+- Task-specific response costs and exclusion of liability negotiations: [Key Tronic Corp. v. United States — Independent identification work may be a necessary response cost; The claimed EPA-negotiation work protected the client's liability position](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Key_Tronic_Corp_v_United_States_merits_1994-06-06.md#public-projection), 1994-06-06. Part II of Stevens's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine expressly join this severable task-function portion and its remand. Part III of Stevens's Opinion of the Court, joined by Stone-Zsela, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine expressly join this record-specific functional exclusion and affirmance.
+
+**Present operation effective:** Key Tronic Corp. v. United States, 1994-06-06.
+
+**Exceptions and limits:** The private claimant’s “consistent with” requirement is not the Government’s distinct “not inconsistent with” standard. The holding supplies neither a universal legal-work exclusion nor an award for all useful professional activity.
+
+**Holdings navigation:** [CERCLA does not authorize these private litigation fees](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#cercla-does-not-authorize-these-private-litigation-fees); [Independent identification work may be a necessary response cost](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#independent-identification-work-may-be-a-necessary-response-cost); [The claimed EPA-negotiation work protected the client's liability position](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-claimed-epa-negotiation-work-protected-the-clients-liability-position).
+
+### Limited modification authority and mandatory tariff filing
+
+**Governing question:** Whether the Communications Act’s power to modify filing requirements permits eliminating them for an entire class.
+
+**Current rule:** Section 203(b)(2) permits the Commission, in its discretion and for good cause shown, to modify requirements made by or under §203 in particular instances or by general order applicable to special circumstances or conditions; no required notice period may exceed 120 days. That authority permits adjustments to filing form, contents, timing or place, including consequential and class-wide technical changes, but not replacement of mandatory filing throughout the nondominant long-distance sector with an optional system. The inquiry examines the obligation and whether its essential operation is adjusted or removed, not a numerical market-share threshold. Good cause alone cannot authorize the replacement. The Act’s exception for connecting carriers preserves their separate inspection duties; §203(c)’s allowance for otherwise lawful authority does not confer unlimited dispensing power.
+
+**Authority by component:**
+
+- Bounded modification and distinct notice authority: [MCI Telecommunications Corp. v. American Telephone & Telegraph Co — The modification power does not permit this replacement of mandatory filing](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md#public-projection), 1994-06-17. Chief Justice Stone-Zsela's Opinion of the Court, joined by Scalia, Kennedy, Thomas and Ginsburg. Five of eight participating Justices directly adopt the structural modification ground, its application and its stated limits; no aggregation of separate rationales is necessary.
+
+**Present operation effective:** MCI Telecommunications Corp. v. American Telephone & Telegraph Co, 1994-06-17.
+
+**Exceptions and limits:** Limited deferral or waiver is not categorically foreclosed, but no particular waiver is approved. Failure of the special-circumstances-or-conditions predicate is a four-Justice alternative, not a separate controlling holding. No universal major-questions doctrine is created; the statute’s permissible flexibility remains available within the actual delegation.
+
+**Holdings navigation:** [The modification power does not permit this replacement of mandatory filing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-modification-power-does-not-permit-this-replacement-of-mandatory-filing).
+
+### APA persuasion burdens and statutory departures
+
+**Governing question:** Who loses when evidence is genuinely balanced in an adjudication governed by APA §556(d).
+
+**Current rule:** Unless a controlling statute otherwise provides, §556(d)’s burden of proof assigns the burden of persuasion to the proponent of the order; in the proceedings governed here, the proponent must establish the claim by a preponderance and loses at genuine equipoise. Burdens of producing evidence, lawful presumptions and separately allocated defenses remain distinct. The Longshore Act’s incorporation of APA adjudication is not displaced by §23’s evidentiary flexibility or its treatment of corroborated declarations of deceased employees. In the black-lung setting, even assuming statutory authority for an otherwise valid regulatory departure, the invoked remedial-policy provision does not establish an ultimate tie-breaking rule.
+
+**Authority by component:**
+
+- Persuasion allocation: [Director, Office of Workers’ Compensation Programs v. Greenwich Collieries — The APA assigns persuasion to the proponent of an order](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md#public-projection), 1994-06-20. O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. Six participating Justices directly adopt this allocation, its application to both proceedings, and the limited treatment of prior precedent; no aggregation of different grounds is necessary.
+- Longshore incorporation despite evidentiary flexibility: [Director, Office of Workers’ Compensation Programs v. Greenwich Collieries — The Longshore Act's evidentiary flexibility does not displace the APA allocation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md#public-projection), 1994-06-20. O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. These six adopt the Longshore incorporation holding and apply it to both the lifetime-disability and death-benefit claims in Maher Terminals.
+- No established black-lung departure: [Director, Office of Workers’ Compensation Programs v. Greenwich Collieries — The invoked black-lung regulation does not establish a departure from the APA](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md#public-projection), 1994-06-20. O'Connor's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, Thomas and Ginsburg. Six Justices adopt the actual-regulation ground, the express reservation of broader delegated power, and the bounded administrative remedy.
+
+**Present operation effective:** Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, 1994-06-20.
+
+**Exceptions and limits:** Transportation Management’s contrary description of the APA burden is disapproved; its distinct mixed-motive defense allocation is not overruled. The full scope of power to create a black-lung exception is left open.
+
+**Holdings navigation:** [The APA assigns persuasion to the proponent of an order](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-apa-assigns-persuasion-to-the-proponent-of-an-order); [The Longshore Act's evidentiary flexibility does not displace the APA allocation](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-longshore-acts-evidentiary-flexibility-does-not-displace-the-apa-allocation); [The invoked black-lung regulation does not establish a departure from the APA](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-invoked-black-lung-regulation-does-not-establish-a-departure-from-the-apa).
+
+### Medicare educational costs shifted from a related institution
+
+**Governing question:** How the Medicare anti-redistribution regulation limits otherwise eligible education costs.
+
+**Current rule:** The Secretary may reasonably apply §413.85(c)’s prohibition on redistribution of costs from educational institutions to hospitals to deny newly shifted costs formerly borne by a related college. Eligibility as an educational activity does not create an unconditional reimbursement right. Section 413.17’s cost-related-organization rule does not override the separate redistribution limitation. The validity of the actual agency ground must be assessed under the regulation and the relevant agency practice; neither an invented historical-cost ceiling nor a different rationale can replace that ground.
+
+**Authority by component:**
+
+- Anti-redistribution limit and review of the actual agency rationale: [Thomas Jefferson University v. Shalala — The redistribution provision reasonably limits newly shifted educational costs; The actual agency ground survives the asserted inconsistency](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md#public-projection), 1994-06-24. Justice Kennedy's Opinion of the Court, Part I, joined by Chief Justice Stone-Zsela and Justices Blackmun, Scalia and Souter. Five participating Justices directly adopt this regulatory construction, its application and its limits. Justice Kennedy's Opinion of the Court, Part II, joined by Chief Justice Stone-Zsela and Justices Blackmun, Scalia and Souter. The same five Justices adopt this answer to the consistency and actual-ground objections; it supports application of the redistribution holding rather than furnishing an alternative reimbursement bar.
+
+**Present operation effective:** Thomas Jefferson University v. Shalala, 1994-06-24.
+
+**Related current rules:** The existing rules for interpretation of an agency’s own regulations and corrective Medicare adjustments remain effective; this is a particular reimbursement limitation, not a new general deference test.
+
+**Holdings navigation:** [The redistribution provision reasonably limits newly shifted educational costs](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-redistribution-provision-reasonably-limits-newly-shifted-educational-costs); [The actual agency ground survives the asserted inconsistency](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-actual-agency-ground-survives-the-asserted-inconsistency).
+
 ## Attorney's fees
 
 ### No contingency enhancement under the environmental fee provisions
@@ -3249,6 +4546,23 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Holdings navigation:** [Shalala v. Schaefer, 509 U.S. 292 (1993)](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#shalala-v-schaefer-509-us-292-1993).
 
+### Evenhanded discretionary copyright fees
+
+**Governing question:** What standard governs a prevailing copyright party’s §505 fee request.
+
+**Current rule:** Prevailing plaintiffs and defendants are eligible under the same discretionary standard. Frivolousness or bad faith cannot be an added prerequisite imposed only on defendants. Frivolousness, motivation, objective factual or legal unreasonableness, and compensation or deterrence may be considered insofar as they serve copyright’s purposes and are used evenhandedly; they are neither cumulative elements nor an exclusive or weighted formula. Section 505 permits but does not require reasonable fees, subject to independently applicable limitations of the title. Prevailing status supplies no automatic full-reimbursement entitlement.
+
+**Authority by component:**
+
+- Parity and permissible considerations: [Fogerty v. Fantasy, Inc — Prevailing plaintiffs and defendants receive the same discretionary standard](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Fogerty_v_Fantasy_Inc_merits_1994-03-01.md#public-projection), 1994-03-01. Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Ginsburg; eight Justices adopt this rule and its copyright-purpose explanation. Thomas independently agrees with equal discretionary eligibility from the statutory text, but concurs in the judgment without joining that explanation. The Court's eight-vote rationale controls directly.
+- Discretion, reasonableness and statutory limitations: [Fogerty v. Fantasy, Inc — Prevailing status permits a fee decision but does not command payment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Fogerty_v_Fantasy_Inc_merits_1994-03-01.md#public-projection), 1994-03-01. Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Ginsburg; eight Justices adopt this holding and remedy. Thomas independently adopts the same permissive statutory rule and remand in his concurrence in the judgment; no combination of unlike rationales is necessary to establish authority.
+
+**Present operation effective:** Fogerty v. Fantasy, Inc, 1994-03-01.
+
+**Exceptions and limits:** No §412 construction, costs ruling, contingency enhancement rule or prescribed weight for objective reasonableness is adopted.
+
+**Holdings navigation:** [Prevailing plaintiffs and defendants receive the same discretionary standard](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#prevailing-plaintiffs-and-defendants-receive-the-same-discretionary-standard); [Prevailing status permits a fee decision but does not command payment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#prevailing-status-permits-a-fee-decision-but-does-not-command-payment).
+
 ## Trademark and trade dress
 
 ### Inherently distinctive nonfunctional restaurant trade dress
@@ -3266,4 +4580,43 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Exceptions and limits:** No general ownership of cuisine, decorative style, useful designs or generic matter, later product-design rule, new proof burden or resolution of the excluded functionality challenge follows.
 
 **Holdings navigation:** [Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992) — Trade dress](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#two-pesos-inc-v-taco-cabana-inc-505-us-763-1992).
+
+## Constitutional structure
+
+### Germane military judicial assignments and fixed tenure
+
+**Governing question:** Whether commissioned military judges need another appointment or fixed terms in the statutory system reviewed in Weiss.
+
+**Current rule:** The Appointments Clause applies, but presidential appointment and Senate confirmation to a military office suffice for assignment of germane trial and appellate judicial duties; assignment does not confer a new unrelated office. Due process does not require fixed terms merely because those assignments lack specified duration: Middendorf’s military-specific inquiry considers history and actual statutory protections against command influence. The facial holding does not require proof of actual capitulation to challenge a constitutionally intolerable structure, or preclude supported retaliation, improper reassignment or command-influence claims.
+
+**Authority by component:**
+
+- Existing commission and germane-duty appointment rule: [Weiss v. United States — Commissioned officers assigned germane military judicial duties](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md#public-projection), 1994-01-19. Part A of Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg; nine Justices support the confined existing-commission and germane-duty proposition.
+- Contextual due-process tenure holding: [Weiss v. United States — Fixed tenure and impartial military adjudication](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md#public-projection), 1994-01-19. Part B of Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Souter and Ginsburg; seven Justices. Scalia and Thomas concur in the judgment on the distinct historical-practice ground and join the historical description, but do not join Part B's contextual sufficiency analysis.
+
+**Present operation effective:** Weiss v. United States, 1994-01-19.
+
+**Open question:** Civilian appellate appointments, unrelated or principal-office assignments and every possible structural-bias claim remain undecided.
+
+**Holdings navigation:** [Commissioned officers assigned germane military judicial duties](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#commissioned-officers-assigned-germane-military-judicial-duties); [Fixed tenure and impartial military adjudication](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#fixed-tenure-and-impartial-military-adjudication).
+
+## Copyright
+
+### Integrated fair use of commercial parody
+
+**Governing question:** How §107 applies to claimed parody and its borrowing and market effects.
+
+**Current rule:** Consider together purpose and character, the copyrighted work’s nature, the amount and substantiality taken, and effect on the potential market or value. Commercial parody may qualify without a dispositive presumption of unfairness. Parody’s particular borrowing justification requires reasonably perceptible criticism directed at the original; satire directed elsewhere lacks that justification merely as satire but may establish fair use under the factors. Transformation informs purpose without absorbing the other factors. Requesting or being denied permission does not defeat an otherwise fair use. Creative character remains relevant, though it contributes little to separating fair from unfair parody, which ordinarily uses recognizable expression. Quantity and qualitative importance must reasonably relate to the critical purpose; recognizable or central material is not excessive solely because it is central. Repetition and potential substitution remain relevant, with no fixed allowance. For transformative parody, commerciality alone creates no market-harm presumption. Examine substitution for the original and legitimate potential derivatives, including widespread comparable conduct; lost demand caused by criticism or loss of licensing the critical attack itself is not cognizable substitution. Supported nonparody derivative markets remain relevant.
+
+**Authority by component:**
+
+- Integrated factors, parody/satire distinction and protected creative nature: [Campbell v. Acuff-Rose Music, Inc — Commercial parody and the integrated statutory inquiry; The original song remains protected creative expression](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md#public-projection), 1994-03-07. Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+- Purpose-related taking and cognizable market substitution: [Campbell v. Acuff-Rose Music, Inc — The lyrical reference is justified; the extent of musical borrowing remains open; Market substitution differs from harm caused by criticism](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md#public-projection), 1994-03-07. Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+- Unchanged defense and summary-judgment burdens: [Campbell v. Acuff-Rose Music, Inc — The defense burden and limited remand survive correction of the presumptions](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md#public-projection), 1994-03-07. Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+
+**Present operation effective:** Campbell v. Acuff-Rose Music, Inc, 1994-03-07.
+
+**Burdens and proof:** Fair use remains an affirmative defense. Defendants seeking summary judgment must establish it on a record permitting judgment as a matter of law; rejecting presumptions does not shift that burden. No general unpublished-work rule or conclusive parody entitlement follows.
+
+**Holdings navigation:** [Commercial parody and the integrated statutory inquiry](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#commercial-parody-and-the-integrated-statutory-inquiry); [The original song remains protected creative expression](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-original-song-remains-protected-creative-expression); [The lyrical reference is justified; the extent of musical borrowing remains open](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-lyrical-reference-is-justified-the-extent-of-musical-borrowing-remains-open); [Market substitution differs from harm caused by criticism](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#market-substitution-differs-from-harm-caused-by-criticism); [The defense burden and limited remand survive correction of the presumptions](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-defense-burden-and-limited-remand-survive-correction-of-the-presumptions).
 

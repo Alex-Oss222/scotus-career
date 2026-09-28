@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Election Law
 
@@ -250,3 +250,130 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 - White v. Regester, 412 U.S.755, and McLaurin v. Oklahoma State Regents, 339 U.S.637: impaired participation may be unconstitutional despite formal access; no universal downstream-loss requirement.
 - Conley v. Gibson, 355 U.S.41; Leatherman, March 3, 1993: ordinary notice pleading retained, no demand for expert proof or a replacement map.
 - Growe and Voinovich: statutory prerequisites, state primacy and unresolved coalition/influence questions remain distinct; no additional constitutional-injury gate imposed on § 2.
+
+### Voting Rights Act comparisons and unequal opportunity
+
+#### [Holder v. Hall](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md)
+
+**Docket or dockets:** No. 91-2012.
+
+**Decided:** 1994-06-30.
+
+##### The county's governing-body size is within Section 2's coverage
+
+**Holding:** The number of members of this elected county governing authority is a standard, practice or procedure within Section 2, 42 U.S.C. §1973; its combination of legislative and executive functions and its present single-member form do not categorically exempt it from the statute. Coverage alone establishes neither a usable measure of dilution nor unequal electoral opportunity, and it does not prescribe a remedy.
+
+**Proposition-level authority:** Blackmun's Opinion of the Court, Part I, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six Justices directly adopt this threshold rule. O'Connor joins this part while opposing statutory liability; Kennedy reserves the affirmative coverage question, and Scalia and Thomas reject coverage of dilution.
+
+**Treatment of earlier authority:**
+
+- Chisom v. Roemer, 501 U.S. 380 (1991): applies its rejection of artificial exclusions from Section 2's electoral coverage; the decision does not itself settle the body-size comparison.
+- Houston Lawyers' Association v. Attorney General of Texas, 501 U.S. 419 (1991): follows its separation of coverage, legitimate state interests, liability and remedy; extends no automatic right to additional offices.
+- Presley v. Etowah County Commission, January 27, 1992: preserves its Section 5 voting/governing boundary and its reservation of independent Section 2 claims; it supplies no Section 2 size benchmark.
+- City of Rome v. United States, 446 U.S. 156 (1980): distinguishes Section 5 review of changes against an existing practice from the proof required for this Section 2 results claim.
+
+##### A reasonable comparison must have legal and practical roots independent of a desired racial tally
+
+**Holding:** A Section 2 challenge to this sole-commissioner structure may use a reasonable, workable alternative grounded in the actual legal and institutional setting, suitable to the governmental task, and justified independently of the desired number of minority-preferred winners; a uniquely ideal size is not required. The county-specific authorization of five district-elected commissioners plus an at-large chair, the existing school-board districts and the compact potential majority satisfy that comparison requirement here, without making population share, a possible seat, or any proposed enlargement sufficient by itself.
+
+**Proposition-level authority:** Blackmun's Opinion of the Court, Part II, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices directly adopt the complete comparison rule and its application. O'Connor and Kennedy reject that comparison; Thomas and Scalia reject dilution coverage on a different, broader ground.
+
+**Treatment of earlier authority:**
+
+- Thornburg v. Gingles, 478 U.S. 30 (1986): extends its comparison inquiry to this locally grounded sole-commissioner challenge while retaining its causal predicates and totality inquiry.
+- Houston Lawyers' Association, 501 U.S. 419: applies meaningful consideration of the State's institutional interests; those interests are neither ignored nor converted into categorical structural immunity.
+- Growe v. Emison, February 23, 1993: preserves the State's districting responsibility and causal proof requirements; it neither decided nor barred this size comparison.
+
+##### The accepted comparison does not replace the required proof of unequal opportunity
+
+**Holding:** This size-dilution claim requires a sufficiently large and geographically compact minority to form a district majority, political cohesion, and majority bloc voting ordinarily sufficient to defeat its preferred candidate, absent special circumstances such as an unopposed minority candidate, together with unequal opportunity established under the totality of circumstances; the comparison alone is insufficient and discriminatory purpose is not required. The extent of protected-class electoral success may be considered but creates no right to election in proportion to population, and the preserved appellate findings establish statutory liability here without reopening cohesion or bloc voting outside the limited review question.
+
+**Proposition-level authority:** Blackmun's Opinion of the Court, Part III, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices directly adopt the stated application and preservation of the existing proof requirements. There is no separate holding that the Gingles predicates alone establish liability or shift the ultimate statutory burden.
+
+**Treatment of earlier authority:**
+
+- Gingles, 478 U.S. 30: follows the causal prerequisites and independently necessary totality inquiry; no universal statistical method or proportional representation rule is adopted.
+- Growe, February 23, 1993: preserves the need for local cohesion and bloc-voting proof, including the stated special-circumstances qualification; coalition cognizability, influence claims and the population denominator remain unresolved.
+- Voinovich v. Quilter, March 2, 1993: follows the distinction between unequal-opportunity proof and preference for a district form; no change to its initial burden rule or its influence-claim reservations.
+- Shaw v. Reno, June 28, 1993: preserves the independent elements of Section 2; its rejection of the design-only constitutional theory adds no constitutional-injury prerequisite to this statutory claim.
+
+##### The existing remand must provide a lawful remedy for the established violation
+
+**Holding:** Because Section 2 liability is affirmed, the existing remand for formulation of a workable remedy continues, with genuine county-government interests and the responsible state institutions receiving consideration and relief confined to curing the established violation. The local authorization and district pattern inform that inquiry but compel neither their exact adoption, a particular number of officers, a racial quota nor any candidate's victory; no new liability trial is ordered and the constitutional alternative need not be decided.
+
+**Proposition-level authority:** Blackmun's Opinion of the Court, Part IV, joined by Stone-Zsela, Stevens, Souter and Ginsburg; the five-Justice judgment coalition adopts these remedial limits and the affirmance of the Eleventh Circuit's existing remedy remand.
+
+**Treatment of earlier authority:**
+
+- Houston Lawyers' Association, 501 U.S. 419: follows its instruction to consider genuine state structural interests in fitting relief to a proved violation.
+- Growe, February 23, 1993: preserves state responsibility and the lawful federal remedial role; its case-specific dismissal direction is not a universal bar to retaining remedial proceedings.
+- Voinovich, March 2, 1993: applies the distinction between state districting choice and a federal remedy justified by an established violation; no mandate to maximize districts follows.
+
+**Operative remedy or transition:** The Eleventh Circuit's Section 2 liability judgment and existing remand for formulation of a lawful remedy are affirmed, 5–4. Relief must cure the established violation with attention to genuine county-government interests and responsible state institutions. No new liability trial, mandatory board size, map, racial quota or electoral winner is ordered; the constitutional alternative remains unnecessary.
+
+#### [Johnson v. De Grandy, 512 U.S. 997](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md)
+
+**Docket or dockets:** Nos. 92-519, 92-593 and 92-767.
+
+**Decided:** 1994-06-30.
+
+**Companion or consolidated matters:** Johnson v. De Grandy, No. 92-519; De Grandy v. Johnson, No. 92-593; United States v. Florida, No. 92-767. Holder v. Hall, decided June 30, 1994, precedes this decision in the expressly coordinated same-day sequence.
+
+For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593 and 92-767, see Federal Courts — The state validation does not preclude the reserved factual claims; Federal Courts — The United States brings an original enforcement suit.
+
+##### Necessary voting conditions do not require maximization
+
+**Holding:** This Section 2 fragmentation claim requires a minority sufficiently large and geographically compact to form a district majority, political cohesion, and majority bloc voting ordinarily sufficient to defeat its preferred candidate, absent special circumstances such as an unopposed minority candidate; the claimant must also establish unequal opportunity to participate and elect chosen representatives under the totality of circumstances, without proving discriminatory purpose. Even when those necessary conditions are satisfied, Section 2 does not require every feasible additional majority-minority district; the disputed first condition is assumed here, leaving citizenship, population-denominator and coalition or influence-claim questions unresolved.
+
+**Proposition-level authority:** Souter's Opinion of the Court, Part II, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Kennedy and Ginsburg; seven Justices directly adopt the complete necessary-versus-sufficient distinction and rejection of maximization. Thomas and Scalia's statutory noncoverage position is a different rationale and supplies no join.
+
+**Treatment of earlier authority:**
+
+- Thornburg v. Gingles, 478 U.S. 30: follows its causal conditions, special-circumstances qualification and independent totality inquiry; the conditions do not establish liability by themselves.
+- Growe v. Emison, February 23, 1993: preserves local cohesion and majority-bloc proof for single-member fragmentation and the unresolved coalition, influence and population questions.
+- Voinovich v. Quilter, March 2, 1993: follows the challengers' burden and the distinction between a State's authority to choose districts and a court's power to remedy a proved violation.
+- Holder v. Hall, June 30, 1994: applies its separation of coverage, comparison, proof and remedy; a permissible comparison creates no maximization command.
+- Shaw v. Reno, June 28, 1993: preserves the independent statutory elements; its constitutional injury rule adds no further element to Section 2.
+
+##### Proportional opportunity is relevant evidence, not a safe harbor
+
+**Holding:** The relationship between a group's share of the relevant population and the share of districts in which it has an effective opportunity to elect its preferred candidates is relevant evidence within Section 2's totality inquiry, whose weight depends on the other evidence; it is neither a conclusive safe harbor nor a burden-shifting affirmative defense, and disproportionality alone likewise does not establish liability. The inquiry concerns demonstrated electoral opportunity, not nominal district labels or the race of officeholders; it guarantees no proportional election, racial floor or ceiling, statewide offset, or universal geographic or population denominator, and cannot excuse proved local packing, fragmentation or another barrier merely because opportunities exist elsewhere.
+
+**Proposition-level authority:** Souter's Opinion of the Court, Part III, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg; six Justices directly adopt this contextual rule and its explanation. Kennedy separately accepts the exact limited propositions that proportionality is relevant, that the necessary conditions alone do not establish liability, and that proportionality supplies no safe harbor; his concurrence does not join Part III's full rationale or Parts IV and V's affirmative applications. No combined rationale under Marks is needed.
+
+**Treatment of earlier authority:**
+
+- Gingles, 478 U.S. 30: follows its contextual inquiry and treatment of electoral success; adopts no conclusive proportional-success presumption.
+- Voinovich, March 2, 1993: preserves the need for proof of actual unequal opportunity rather than automatic condemnation or approval of a district form.
+- Holder, June 30, 1994: preserves independent totality proof after an adequate comparison; its local institutional comparison supplies neither a quota nor an evidentiary safe harbor.
+
+##### The House liability and dependent remedy cannot stand on this record
+
+**Holding:** Assuming the disputed first Gingles condition in the challengers' favor and retaining the supported findings of discrimination and polarized voting, the tried House record does not establish unequal opportunity under the totality beyond the erroneous inference that every feasible additional Hispanic district must be created. The liability judgment and dependent substitution of Modified De Grandy Plan 268 are reversed; no new liability trial, Supreme Court replacement map or numerical district minimum is ordered, and implementation must follow lawful election administration.
+
+**Proposition-level authority:** Souter's Opinion of the Court, Part IV, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg; six Justices adopt this full contextual application. Kennedy supports reversal and the mandate under Parts II and VI on the narrower rejection of maximization, without joining Part IV; the House disposition therefore has seven votes, against Thomas and Scalia's vacatur-and-dismissal alternative.
+
+**Material application:** The Court considers the distinct eighteen- and twenty-district House frames, actual effective opportunities, accepted discrimination and polarization evidence, and testimony about neighborhood splitting and concentration. No finding of inconsistent treatment of comparable minority and other neighborhoods is made or imposed as a new liability element. Supported findings retain Rule 52(a) protection; the legal error lies in making feasible additional districts obligatory.
+
+**Treatment of earlier authority:**
+
+- Gingles, 478 U.S. 30: follows the totality standard and Rule 52(a)'s protection of supported findings; corrects a legally infected liability determination without creating a ratio presumption or new intent requirement.
+- Voinovich, March 2, 1993: applies the need for an established federal violation before judicial imposition of remedial districts.
+- Holder, June 30, 1994: distinguishes a sufficient comparison from the separate proof of unequal opportunity; its established liability and remedy remand do not supply missing liability here.
+
+##### The Senate judgment stands because no violation was proved
+
+**Holding:** On the tried Senate record, the asserted unequal opportunity is not established under the totality merely because an additional Hispanic district and a different additional Black district are each feasible; the judgment leaving the State's Senate plan operative is affirmed for lack of a proved violation, not because a proved violation may remain when proposed remedies conflict. The existing Black electoral opportunity with crossover support is relevant evidence, not a second Black-majority district, proof of general cohesion between Hispanic and Black voters, or a legal entitlement to a crossover district.
+
+**Proposition-level authority:** Souter's Opinion of the Court, Part V, joined by Stone-Zsela, Blackmun, Stevens, O'Connor and Ginsburg; six Justices adopt this full contextual application. Kennedy supports affirmance under Parts II and VI on the narrower no-maximization ground without joining Part V; the Senate disposition has seven votes, against Thomas and Scalia's vacatur-and-dismissal alternative.
+
+**Material application:** The operative July 2 Senate judgment found no violation; the July 17 explanation's competing-remedies account cannot excuse a proved wrong. The seven-district, five-wholly-Dade and broader South Florida frames remain distinct, and cohesion within each group does not establish a combined Hispanic–Black coalition.
+
+**Treatment of earlier authority:**
+
+- Gingles, 478 U.S. 30: applies contextual unequal-opportunity proof without inferring liability from separately feasible district increases.
+- Growe, February 23, 1993: preserves the need for proved common cohesion before distinct groups can be treated as one electoral coalition.
+- Voinovich, March 2, 1993: preserves the unresolved influence-claim question and ties compelled relief to an established violation.
+- Holder, June 30, 1994: preserves the obligation to formulate lawful relief for an established wrong; no competing-remedies exception to liability or relief is recognized.
+
+**Operative remedy or transition:** The House liability judgment and dependent Modified De Grandy Plan 268 remedy are reversed in No. 92-519; the Senate judgment is affirmed in Nos. 92-593 and 92-767, each 7–2. Implementation must follow lawful election administration. No new liability trial, extra Senate district, Supreme Court replacement map or special election timetable is ordered. Congressional proceedings, the Escambia settlement, dismissed claims and preclearance determinations remain undisturbed.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Business and Commercial Law
 
@@ -266,3 +266,197 @@ For the other question-level holdings in United States National Bank of Oregon v
 - National Securities, 393 U.S.453: distinct shareholder/creditor functions are not protected merely because regulated entities are insurers.
 - Royal Drug, 440 U.S.205: tenuous indirect benefits to policyholders do not establish protected insurance regulation.
 - Stanton v. Stanton, 421 U.S.7: effects on remaining state-law provisions and severability left for remand rather than judicial redesign.
+
+### Civil racketeering
+
+#### [National Organization for Women, Inc. v. Scheidler, 510 U.S. 249](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/National_Organization_for_Women_Inc_v_Scheidler_merits_1994-01-24.md)
+
+**Docket or dockets:** No. 92-780.
+
+**Decided:** 1994-01-24.
+
+##### The clinics' own injuries suffice at the pleading stage
+
+**Holding:** Delaware Women's Health Organization and Summit Women's Health Organization have standing at the Rule 12(b)(6) stage on allegations that respondents' threatened and actual force against staff and patients caused injury to the clinics' own business or property. Under the governing pleading standard, the allegations suffice where relief could be granted on facts consistent with them; this neither supplies standing to NOW on an unasserted RICO count nor establishes liability, a certified class or final proof of causation.
+
+**Proposition-level authority:** Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt this threshold ruling.
+
+**Treatment of earlier authority:**
+
+- Simon v. Eastern Kentucky Welfare Rights Organization: applied; named plaintiffs need their own standing despite requested class treatment.
+- Allen v. Wright: applied; the allegations identify injury traceable to the challenged conduct.
+- Hishon v. King & Spalding: applied at Rule 12(b)(6); later proof is not demanded to sustain consistent allegations.
+- Holmes v. Securities Investor Protection Corp.: preserved; actual and proximate causation, including contextual directness, remain independent requirements.
+
+##### Section 1962(c) has no added economic-motive element
+
+**Holding:** Section 1962(c) requires no economic or profit-seeking motive in either the enterprise or its predicate racketeering acts; a noneconomic purpose does not exclude conduct satisfying the statute's enacted elements. The dismissal of the clinics' §1962(c) claim and the dependent §1962(d) conspiracy claim therefore cannot stand on the omitted motive requirement, while enterprise, commerce, direction, predicate offenses, pattern, causation, individual responsibility and applicable constitutional limits remain to be established.
+
+**Proposition-level authority:** Blackmun's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt the same statutory construction and its limited remedial consequence.
+
+**Treatment of earlier authority:**
+
+- United States v. Turkette: applied to the breadth of the enterprise definition and the absence of an ambiguity supporting an invented motive limitation.
+- Sedima, S.P.R.L. v. Imrex Co.: applied; statutory breadth does not justify extra-textual restrictions or itself invoke lenity.
+- Reves v. Ernst & Young: preserved; some role in directing the enterprise itself is required, rather than merely rendering services or conducting one's own affairs. Primary responsibility or formal executive status is unnecessary; an associated outsider who directs enterprise affairs and lower participants operating under upper management can qualify, while the exact lower-rung boundary remains open.
+- Holmes v. Securities Investor Protection Corp.: preserved; no motive ruling relaxes factual/proximate causation or contextual directness.
+- Bray v. Alexandria Women's Health Clinic: distinguished; its §1985(3) requirements do not supply a RICO immunity or an economic-motive element.
+- NAACP v. Claiborne Hardware Co.: its protection of lawful advocacy and limits on association-based liability remain available; no particular First Amendment defense is adjudicated here.
+
+**Limits and questions not reached:** The standing ruling concerns only the two named clinics' own RICO injuries; NOW asserted no RICO count and no class was certified. Reves's directing-enterprise requirement, Holmes's factual and proximate causation, statutory predicates, individual responsibility and particular First Amendment defenses remain independent. No finding that respondents obtained property under the Hobbs Act is made.
+
+**Operative remedy or transition:** The Seventh Circuit is reversed as to the two clinics' §1962(c) and dependent §1962(d) dismissals. Further proceedings must apply the enacted elements without an economic-motive requirement. No liability, pattern, predicate, obtained property, causation, damages, fees or injunction is found or awarded; the antitrust and §1962(a) rulings are not revived.
+
+### Copyright attorney fees
+
+#### [Fogerty v. Fantasy, Inc., 510 U.S. 517](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Fogerty_v_Fantasy_Inc_merits_1994-03-01.md)
+
+**Docket or dockets:** No. 92-1750.
+
+**Decided:** 1994-03-01.
+
+##### Prevailing plaintiffs and defendants receive the same discretionary standard
+
+**Holding:** Under 17 U.S.C. §505, a prevailing copyright defendant is eligible for reasonable attorney's fees under the same discretionary standard as a prevailing copyright plaintiff; frivolousness or bad faith cannot be a prerequisite imposed only on the defendant. A court may consider frivolousness, motivation, objective factual or legal unreasonableness, and the need for compensation or deterrence, insofar as those considerations serve copyright's purposes and are applied evenhandedly; they are neither cumulative elements nor an exclusive or weighted formula.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Ginsburg; eight Justices adopt this rule and its copyright-purpose explanation. Thomas independently agrees with equal discretionary eligibility from the statutory text, but concurs in the judgment without joining that explanation. The Court's eight-vote rationale controls directly.
+
+**Treatment of earlier authority:**
+
+- Christiansburg Garment Co. v. EEOC, 434 U.S. 412: distinguished by Title VII's enforcement context; its defendant standard for a frivolous, unreasonable, or groundless action, including one continued after becoming so, remains operative without requiring subjective bad faith. Mere loss remains insufficient under that rule.
+- Sony Corp. v. Universal City Studios, Inc., 464 U.S. 417: relied on for copyright's public purpose, not for a fee entitlement.
+- Feist Publications, Inc. v. Rural Telephone Service Co., 499 U.S. 340: relied on for protection's statutory boundaries, without changing originality doctrine.
+
+##### Prevailing status permits a fee decision but does not command payment
+
+**Holding:** Section 505 permits, rather than requires, an award of a reasonable attorney's fee to a prevailing party, subject to the title's independently applicable limitations; prevailing status creates no ordinarily automatic right to full reimbursement. The Ninth Circuit's fee ruling is reversed and the application remanded for reasoned, evenhanded discretion, which may again produce denial; neither an award nor an amount is ordered, and the infringement verdict and unrelated rulings remain intact.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, and Ginsburg; eight Justices adopt this holding and remedy. Thomas independently adopts the same permissive statutory rule and remand in his concurrence in the judgment; no combination of unlike rationales is necessary to establish authority.
+
+**Treatment of earlier authority:**
+
+- Alyeska Pipeline Service Co. v. Wilderness Society, 421 U.S. 240: applied as the American Rule background; §505 is the particular authority for discretionary shifting.
+- Hensley v. Eckerhart, 461 U.S. 424: its distinction between prevailing status and reasonable compensation informs discretion, without importing every civil-rights fee rule.
+- City of Burlington v. Dague, decided June 24, 1992: the contingency-enhancement prohibition under its two environmental statutes remains bounded to those provisions; this decision adds no §505 enhancement holding.
+- Farrar v. Hobby, decided December 14, 1992: the distinction between §1988 eligibility and an explained amount determination remains intact; its nominal-relief rule does not decide copyright parity or command a fee here.
+
+**Limits and questions not reached:** Section 505 eligibility creates no automatic recovery or weighted checklist. Findings that the suit was neither frivolous nor in bad faith are preserved. Costs, federal-party issues, independently limiting provisions and a §505 contingency-enhancement rule are not adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit fee ruling is reversed and the fee application remanded for reasoned, evenhanded discretion. The existing absence-of-frivolousness and bad-faith findings remain; an award, limited amount or reasoned denial remains possible. No fee amount is fixed and the infringement verdict and unrelated rulings are undisturbed.
+
+### Copyright fair use
+
+#### [Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md)
+
+**Docket or dockets:** No. 92-1292.
+
+**Decided:** 1994-03-07.
+
+##### Commercial parody and the integrated statutory inquiry
+
+**Holding:** Section 107 requires the four fair-use factors to be considered together; commercial parody may qualify, and neither profit motive nor a parody label settles the inquiry or creates a dispositive presumption of unfairness. The work must reasonably permit perception of original-directed criticism to claim parody's particular justification for borrowing; satire directed elsewhere lacks that justification merely as satire but may still establish fair use under the actual factors, and requesting or being denied permission does not defeat an otherwise fair use.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+
+**Treatment of earlier authority:**
+
+- Sony Corp. v. Universal City Studios, Inc., 464 U.S. 417: its contextual statutory inquiry is applied; its commerciality language does not establish a universal presumption against sold criticism, and its home-time-shifting result remains intact.
+- Harper & Row, Publishers, Inc. v. Nation Enterprises, 471 U.S. 539: distinguished as commercial appropriation in a protected publication market; its four-factor method remains binding, without a categorical rule against commercial parody.
+
+##### The original song remains protected creative expression
+
+**Holding:** The published original song's creative nature weighs within §107's second factor and is not erased by the claim of parody, but it contributes little to distinguishing fair from unfair parody because parody ordinarily must use recognizable expressive works. Neither publication nor creativity categorically determines fairness, and the four factors remain part of one inquiry.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+
+**Treatment of earlier authority:**
+
+- Harper & Row, 471 U.S. 539: its attention to creative character remains; its first-publication concern does not determine this published-song parody, and no general unpublished-work rule is decided.
+
+##### The lyrical reference is justified; the extent of musical borrowing remains open
+
+**Holding:** Under §107's third factor, both the quantity and qualitative importance of the borrowing must reasonably relate to the critical purpose; taking a recognizable opening or the original's core is not excessive solely because it is central. The brief identifying lyrical reference followed by substantially different critical lyrics takes no more than the parody reasonably requires, but whether the repeated musical borrowing is excessive remains for further consideration with purpose and potential substitution; no fixed allowance or sampling violation is established.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+
+**Treatment of earlier authority:**
+
+- Harper & Row, 471 U.S. 539: qualitative substantiality remains important, but its application to valuable excerpts is distinguished where recognizable borrowing serves criticism; no automatic permission to take the whole or repeat the core follows.
+
+##### Market substitution differs from harm caused by criticism
+
+**Holding:** For this transformative parody, commerciality alone does not raise a presumption of market harm; §107 requires examination of substitution for the original and legitimate potential derivatives, including the effect of widespread comparable conduct. Harm because criticism diminishes demand and foregone licensing of the critical attack itself are not cognizable substitutive injury, but a supported nonparody rap-derivative market remains relevant and this record proves neither its injury nor its absence.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+
+**Treatment of earlier authority:**
+
+- Sony, 464 U.S. 417: commercial market-harm language is confined to its context; no universal presumption follows for this transformative use.
+- Harper & Row, 471 U.S. 539: protection of legitimate existing and potential derivative markets remains; criticism injury and lost permission for criticism are distinguished from substitution.
+
+##### The defense burden and limited remand survive correction of the presumptions
+
+**Holding:** Fair use remains an affirmative defense, and defendants seeking summary judgment must establish it on a record permitting judgment as a matter of law; rejection of the appellate commerciality and harm presumptions does not shift that burden. The Sixth Circuit's adverse fair-use judgment is reversed and remanded without reinstating defense summary judgment, because justified musical taking and the potentially material nonparody derivative market remain unresolved; no final infringement, royalty, damages, or injunction ruling follows.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg; all nine adopt this proposition and its stated limits. Kennedy's separate caution does not withdraw his full join. Direct unanimous authority; no Marks inquiry.
+
+**Treatment of earlier authority:**
+
+- Harper & Row, 471 U.S. 539: applied to preserve the fair-use defense burden and the requirement of sufficient facts for a conclusive judicial determination.
+
+**Limits and questions not reached:** Transformation is neither indispensable to every fair use nor a substitute for the integrated four-factor inquiry. Requesting or being refused permission supplies no veto over otherwise fair use. No first-publication claim, bad faith from the disputed release/request sequence, independent sampling violation or constitutional immunity is decided.
+
+**Operative remedy or transition:** The Sixth Circuit is reversed and the case remanded without reinstating defense summary judgment. The justified extent of musical borrowing and the legitimate nonparody derivative market require further consideration. No final fair-use or infringement judgment, compulsory license, royalty, damages or injunction is directed; unappealed collateral claims remain undisturbed.
+
+### Securities fraud and affirmative assistance
+
+#### [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md)
+
+**Docket or dockets:** No. 92-854.
+
+**Decided:** 1994-04-19.
+
+##### The received private action includes culpable substantial assistance
+
+**Holding:** The established private action under §10(b) and Rule 10b-5 permits recovery from a person who knowingly or with severe recklessness substantially assists an underlying securities fraud through affirmative conduct, subject to proof of that fraud, the defendant’s qualifying participation, legally sufficient reliance, causation and recoverable loss. This is accessory responsibility within the received investor action, not a finding that the assistant made a primary misrepresentation or a rule imposing liability through professional status or control alone.
+
+**Proposition-level authority:** Stevens’s Opinion of the Court, joined in full by Stone, Blackmun, Souter and Ginsburg; five Justices adopt the existence of the confined action and its received-remedy rationale. No fractured-decision synthesis is necessary.
+
+**Treatment of earlier authority:**
+
+- Superintendent of Insurance v. Bankers Life & Casualty Co., 404 U.S. 6 — applied as recognition of the received private action; it did not itself decide accessory liability.
+- Musick, Peeler & Garrett v. Employers Insurance of Wausau, 508 U.S. 286 — applied for bounded development of the received action and distinguished as to its actual contribution holding; shared liability must still be established before allocation.
+- Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Curran, 456 U.S. 353 — used by analogy for the significance of an established judicial remedy; its different statutory setting does not establish congressional enactment of this action.
+- Santa Fe Industries, Inc. v. Green, 430 U.S. 462 — applied: the underlying wrong must involve the required manipulation or deception, not unfairness or fiduciary misconduct alone.
+- Pinter v. Dahl, 486 U.S. 622 — distinguished: its construction of express seller liability under §12 does not settle this received §10(b) action; its own statutory holding remains intact.
+- Ernst & Ernst v. Hochfelder, 425 U.S. 185 — its reservation of aiding and abetting is resolved here for the confined private affirmative-assistance action; Hochfelder itself did not decide that question.
+- Herman & MacLean v. Huddleston, 459 U.S. 375 — its reservation of aiding and abetting is resolved here for the confined private affirmative-assistance action; Huddleston itself did not decide that question.
+
+##### Knowledge or severe recklessness in affirmative substantial assistance
+
+**Holding:** For affirmative substantial assistance, the defendant must know or severely recklessly disregard both the fraudulent character of the activity and the assisting role of its conduct; severe recklessness means an extreme departure from ordinary care presenting a specific danger of deception known to the defendant or so obvious that the defendant must have appreciated it. No independent disclosure duty is required for that affirmative participation, but negligence, valuation concerns alone, professional status, ordinary services without qualifying culpability and assistance, or mere silence without a relevant duty do not suffice.
+
+**Proposition-level authority:** Stevens’s Opinion of the Court, joined by Stone, Blackmun, Souter and Ginsburg; all five adopt this confined mental-state and affirmative-assistance rule, not a universal recklessness rule for every securities claim.
+
+**Treatment of earlier authority:**
+
+- Ernst & Ernst v. Hochfelder, 425 U.S. 185 — its exclusion of negligence remains controlling; its recklessness reservation is resolved only for this private affirmative-assistance setting.
+- Santa Fe Industries, Inc. v. Green, 430 U.S. 462 — its deception-or-manipulation requirement prevents ordinary investment risk and professional error from becoming securities fraud.
+- First Interstate Bank of Denver, N.A. v. Pring, 969 F.2d 891 — its confined affirmative-assistance and extreme-recklessness analysis is adopted for the bank claim; inconsistent knowledge-only or categorical duty requirements for such affirmative assistance cannot govern after this decision. Its separate rulings concerning Pring are outside this review.
+
+##### Triable issues require further proceedings, not a liability award
+
+**Holding:** Viewed favorably to the purchasers at summary judgment, the appraisal warnings, internal concerns and agreement postponing an already demanded independent review until after the offering permit a genuine dispute over severe recklessness and substantial affirmative assistance; the Tenth Circuit’s reinstatement of the pleaded bank claim is affirmed and the case remanded. The purchasers must still prove the underlying violation, the bank’s qualifying assistance and culpability, legally sufficient reliance on the underlying fraud, causation and recoverable loss under the ordinary civil burden; neither the default nor the bonds’ face value establishes fraud damages.
+
+**Proposition-level authority:** Stevens’s Opinion of the Court, joined by Stone, Blackmun, Souter and Ginsburg; five Justices adopt the record application, preserved proof requirements and limited affirmance and remand.
+
+**Treatment of earlier authority:**
+
+- First Interstate Bank of Denver, N.A. v. Pring, 969 F.2d 891 — affirmed insofar as it reverses summary judgment on the purchasers’ affirmative-assistance claim against Central Bank; triable issues are not findings of fraud or damages.
+- Herman & MacLean v. Huddleston, 459 U.S. 375 — the ordinary preponderance standard is preserved; neither institutional status nor information held by the defendant shifts that burden.
+- Basic Inc. v. Levinson, 485 U.S. 224 — its reliance requirement is preserved. Today’s decision establishes no presumption for these municipal bonds and, as part of the retained accessory action, requires reliance on the underlying fraud rather than on the assistant’s concealed participation.
+- Musick, Peeler & Garrett v. Employers Insurance of Wausau, 508 U.S. 286 — its shared-liability prerequisite and contribution limits remain effective; this remand establishes no entitlement or allocation.
+
+**Limits and questions not reached:** The Court does not decide the full rules for duty-based omissions, duty-free inaction, agency attribution, a universal securities recklessness rule, other enforcement or statutory settings, or Stone's additional concurrence formulations. The §20(a) defense for a controller acting in good faith without directly or indirectly inducing the violation remains distinct. Reliance on the underlying fraud is required; investors need not personally rely on concealed assistance, and no reliance presumption is established for these bonds.
+
+**Operative remedy or transition:** Affirm the Tenth Circuit insofar as it reinstated the pleaded bank claim and remand, 5–4. The bank's summary judgment cannot rest on the rejected categorical grounds or the disputed assistance and culpability record. No liability, damages, automatic indemnity, unpleaded primary claim or adjudication of another defendant's claim is supplied.

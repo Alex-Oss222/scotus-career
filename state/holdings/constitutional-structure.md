@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Constitutional Structure
 
@@ -31,6 +31,8 @@
 - United States v. Will, 449 U.S. 200 — applied: clear substantive amendments may appear in appropriations legislation.
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
+
+**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
 
 ### Federal and state submerged-land boundaries
 
@@ -467,6 +469,43 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 - New Energy Co. of Indiana v. Limbach, 486 U.S. 269 — applied; reasonable nondiscriminatory alternatives defeat the asserted necessity.
 - Maine v. Taylor, 477 U.S. 131 — distinguished; demonstrated necessity absent here.
 
+#### [West Lynn Creamery, Inc. v. Healy, 512 U.S. 186](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md)
+
+**Docket or dockets:** No. 93-141.
+
+**Decided:** 1994-06-17.
+
+##### The assessment and dedicated local distribution must be examined together
+
+**Holding:** A State discriminates against interstate commerce when it assesses sales in a commodity market without regard to origin but dedicates the proceeds to competing in-state producers so that the linked arrangement offsets the local side's burden while leaving out-of-state production exposed. Courts must examine the supported competitive connection between assessment and distribution; different legal payors and recipients do not prevent discrimination, but merely sharing a general treasury does not establish it.
+
+**Proposition-level authority:** Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices O'Connor, Kennedy, Souter, and Ginsburg: six Justices adopt this rule and its application. Justices Scalia and Thomas concur in the judgment on the narrower dedicated-industry-tax ground.
+
+**Material application:** The assessment covers Class I milk sold to Massachusetts retailers regardless of origin, at one-third of the difference between $15 per hundredweight and the federal blend price, multiplied by covered sales. Dedicated payments go only to Massachusetts producers in proportion to the preceding month's production. Credited production is capped at 200,000 pounds per producer per month; the federal minimum plus fund payment cannot exceed $15 per hundredweight, and surplus returns to dealers. These limits do not remove the exclusive competitive benefit. The State neither buys nor sells milk.
+
+**Treatment of earlier authority:**
+
+- Baldwin v. G. A. F. Seelig, Inc., 294 U.S. 511 (1935): applies its prohibition on protecting local milk production from interstate competition to the operation of the linked fund.
+- Bacchus Imports, Ltd. v. Dias, 468 U.S. 263 (1984): applies its rule against local-product tax preferences despite the State's ordinary taxing authority.
+- New Energy Co. of Indiana v. Limbach, 486 U.S. 269 (1988): applies its discriminatory-tax rule while preserving the distinction for ordinary direct assistance; no general subsidy immunity is adopted.
+- Associated Industries of Missouri v. Lohman, May 23, 1994: follows its requirement to examine the relevant competitive comparison rather than treating a broader fiscal description as a cure.
+
+##### The local preference lacks a sufficient justification
+
+**Holding:** Once the linked assessment and distribution discriminate, the State must establish a legitimate local purpose that adequate reasonable nondiscriminatory alternatives cannot serve; protecting local producers against interstate competition is not itself a sufficient purpose. Massachusetts has not made that showing for this order, so the judgment sustaining it is reversed and the case remanded for relief consistent with its invalidity, without deciding refunds, severability, or other retrospective monetary consequences.
+
+**Proposition-level authority:** Justice Stevens's opinion, joined by Chief Justice Stone-Zsela and Justices O'Connor, Kennedy, Souter, and Ginsburg: six Justices adopt the justification analysis and its application. Eight Justices support reversal and remand; Justice Blackmun dissents.
+
+**Treatment of earlier authority:**
+
+- New Energy Co. of Indiana v. Limbach, 486 U.S. 269 (1988): applies the demanding justification inquiry and its distinction between compulsory taxation and proprietary participation.
+- Oregon Waste Systems, Inc. v. Department of Environmental Quality, April 4, 1994: follows origin-discrimination scrutiny; no new compensatory-tax entitlement is created.
+- Pike v. Bruce Church, Inc., 397 U.S. 137 (1970): distinguishes its incidental-burden balancing because this arrangement discriminates.
+- Milk Control Board v. Eisenberg Farm Products, 306 U.S. 346 (1939): distinguishes the local minimum-price arrangement; that decision does not sustain this dedicated assessment-and-distribution fund.
+- C & A Carbone, Inc. v. Town of Clarkstown, May 16, 1994: follows the distinction between compulsory commercial regulation and state participation in a market; the dissenting municipal-service characterization there does not describe this fund.
+
+**Operative remedy or transition:** The judgment sustaining the amended order is reversed and the case remanded for relief consistent with its invalidity. Refunds, severability, retrospective monetary consequences and licensing consequences remain for their own governing law and record. No farmer repayment, dollar award or reconstructed pricing program is directed.
+
 ### State net-income tax and protected solicitation
 
 #### Wisconsin Department of Revenue v. William Wrigley, Jr., Co., 505 U.S. 214 (1992)
@@ -699,6 +738,109 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Operative remedy or transition:** Affirm rejection of the treaty, preemption and constitutional challenges to this nondiscriminatory Tennessee lease tax. The constitutional analyses retain the distinct proposition coalitions stated above.
 
+#### [Barclays Bank PLC v. Franchise Tax Board of California, 512 U.S. 298](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md)
+
+**Docket or dockets:** Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry).
+
+**Decided:** 1994-06-20.
+
+**Companion or consolidated matters:** No. 92-1384 concerns Barclays’ foreign-parent group; No. 92-1839 concerns Colgate-Palmolive’s domestic-parent group. Their different judgment coalitions are preserved below.
+
+##### Ordinary constitutional tax requirements and the apportionment challenge — Part I-A
+
+**Holding:** California may attribute the fair California share of an accepted unitary business's worldwide income through the equally weighted property, payroll and sales formula only if the assessment has substantial nexus, fair apportionment, nondiscrimination and a fair relationship to state services; an accepted unitary base does not excuse a defect in any other requirement. These taxpayers establish no failure of those requirements, and Colgate's comparison with separate accounting does not supply the clear-and-cogent constitutional showing of income out of all appropriate proportion to California activity or a grossly distorted result.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part I-A, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine Justices adopt the rule and its bounded application. Agreement on this component does not decide Barclays' separate foreign-commerce objections.
+
+**Limits and questions not reached:** Under California Revenue and Taxation Code §25137, when ordinary allocation and apportionment do not fairly represent the extent of California business activity, the taxpayer may petition for, or the Board may require, a reasonable alternative for all or part of that activity: separate accounting; exclusion of one or more factors; inclusion of additional factors fairly representing California activity; or another method producing equitable allocation and apportionment. This is no unconditional taxpayer election. The failure-of-predicate ruling does not decide a categorical refusal to consider separate accounting, and this Court does not independently alter the state statutory proof standard.
+
+**Treatment of earlier authority:**
+
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 (1977): applies all four independent state-tax requirements; foreign-commerce scrutiny remains additional.
+- Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): applies its treatment of unitary value, three-factor apportionment and the clear-and-cogent constitutional burden; separate accounting is not the constitutional benchmark.
+- Allied-Signal, Inc. v. Director, Division of Taxation, June 15, 1992: preserves the connected-income boundary and the distinction between a lawful base and fair apportionment; no new unitary finding is made.
+- Kraft General Foods, Inc. v. Iowa Department of Revenue and Finance, June 18, 1992: preserves independent foreign-income nondiscrimination review; its location-based dividend distinction is absent here.
+- Associated Industries of Missouri v. Lohman, May 23, 1994: applies the relevant-burden comparison, without importing its sales/use-tax mechanism into income apportionment.
+
+##### The presented reporting-burden challenge fails under the actual accommodations — Part I-B
+
+**Holding:** A foreign-based unitary group does not establish unconstitutional discrimination merely by estimating the expense of literal worldwide reporting when binding rules require consideration of effort and expense, permit reasonable approximations in appropriate cases, and the record shows accommodations without an identified unreasonable rejection of a reasonable approximation. The conclusion concerns this administration and record, leaving demonstrated discriminatory administration or arbitrary information demands open; the Board must consider effort and expense but need not accept every proposed approximation.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part I-B, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine direct joins to this reporting-burden application.
+
+**Material application:** Regulation §25137-6(e)(1) requires consideration of effort and expense and permits reasonable approximations in appropriate cases, including when ordinary business records cannot supply necessary information. Accommodations were used and no reasonable approximation was shown to have been unreasonably rejected. Full-group literal-compliance estimates and BBI-only historical preparation costs are different measures, not interchangeable proof of burden.
+
+**Treatment of earlier authority:**
+
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 (1977): applies its nondiscrimination requirement to the actual reporting burden.
+- Kraft General Foods, Inc. v. Iowa Department of Revenue and Finance, June 18, 1992: preserves the need for an independent foreign/domestic comparison despite accepted unitary status.
+- West Lynn Creamery, Inc. v. Healy, June 17, 1994: applies its attention to actual competitive operation; its linked local-producer preference is not established here.
+- Oregon Waste Systems, Inc. v. Department of Environmental Quality, April 4, 1994: preserves origin-discrimination scrutiny; no compensatory-tax justification or new exception to that rule is adopted.
+
+##### Reasonable approximation and available review satisfy the presented notice challenge — Part II
+
+**Holding:** Due process permits reasonable approximations in complex multijurisdictional tax allocation when intelligible legal constraints and meaningful review limit administrative discretion; California's reasonableness standard, mandatory consideration of effort and expense, clarification procedures and judicial review satisfy that requirement on Barclays' challenge. The absence of an identified rejected approximation does not establish a universal injury or exhaustion prerequisite: genuinely standardless authority, arbitrary application or excessive attribution remains challengeable under the governing requirements.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part II, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine direct joins. This resolves Barclays' notice and discretion objections; it does not create a separate Colgate claim.
+
+**Material application:** An advance determination under §25137-6(e)(2) is limited to submitted facts and preserves later factual review. The Board may consider a variance without a requested or favorable advance determination; that clarification route is not mandatory exhaustion.
+
+**Treatment of earlier authority:** Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): applies its recognition of the practical imprecision of international income allocation; that recognition does not eliminate notice, lawful constraints or judicial review.
+
+##### Container governs the domestic-parent multiple-taxation claim — Part III-A
+
+**Holding:** Container's domestic-parent rule remains controlling for Colgate's accepted unitary group: a mismatch between worldwide formula apportionment and foreign separate accounting does not itself establish a forbidden international-multiple-taxation burden. The Court retains that rule and rejects Colgate's challenge without reopening unitary status or relieving an assessment of fair-apportionment, nondiscrimination or other independently applicable constitutional requirements.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part III-A, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: nine Justices support this retained-precedent rule. O'Connor and Thomas accept its continued application, not its extension to Barclays.
+
+**Treatment of earlier authority:**
+
+- Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): retained and applied to the domestic-parent group; its distinct foreign-parent reservation is addressed separately.
+- Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434 (1979): preserves independent international-multiple-taxation review without requiring universal separate accounting.
+- Allied-Signal, Inc. v. Director, Division of Taxation, June 15, 1992: preserves the connected-base limitation.
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 (1977): preserves fair apportionment and nondiscrimination as independent requirements.
+
+##### The foreign-parent record does not establish the forbidden multiple-taxation burden — Part III-B
+
+**Holding:** Japan Line's international-multiple-taxation requirement does not invalidate these foreign-parent assessments merely because California's fair allocation of accepted unitary income overlaps foreign separate accounting: the duplication arises from competing income-allocation methods, is not the inevitable duplication of a foreign instrumentality taxed at full value abroad, and would not reliably be eliminated by the proposed separate-accounting alternative. This extends Container's income-method analysis to Barclays' record, without denying actual duplication, making Complete Auto compliance sufficient by itself, or deciding materially different assessments.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part III-B, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Souter and Ginsburg: seven direct joins. O'Connor and Thomas dissent from this component and would reverse Barclays on this independently sufficient ground.
+
+**Treatment of earlier authority:**
+
+- Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): extends its competing-income-method analysis to this foreign-parent record after examining its express reservation.
+- Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434 (1979): distinguishes its inevitably duplicative foreign-instrumentality tax; retains its independent multiple-taxation requirement.
+- Itel Containers International Corp. v. Huddleston, February 23, 1993: retains the additional multiple-taxation inquiry; its same-transaction credit is not invented for these income assessments.
+
+##### Independent national-uniformity review and the limits of nonbinding policy — Part IV-A
+
+**Holding:** The identified foreign objections, federal separate-accounting preference and nonbinding Executive communications do not establish that these income assessments impair federal uniformity in an area where uniformity is constitutionally essential; no applicable statute, treaty or other binding federal directive prohibits the assessments presented. That conclusion rests on independent constitutional review of this unitary-income setting, without treating congressional silence as affirmative authorization or the absence of preemption as sufficient to defeat every national-uniformity challenge.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part IV-A, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Souter, Thomas and Ginsburg: eight direct joins to this bounded national-uniformity and legal-force conclusion. Scalia agrees in the rejection of the attack on his separate method, without joining this substantive national-uniformity inquiry.
+
+**Treatment of earlier authority:**
+
+- Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434 (1979): retains national uniformity as independent of multiple taxation and ordinary state-tax requirements.
+- Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): applies its distinction between unitary-income allocation and direct burdens on foreign instrumentalities as an independent nonimpairment ground.
+- Itel Containers International Corp. v. Huddleston, February 23, 1993: follows its distinction between informative Executive views and a controlling constitutional determination; adopts no express-preemption-only rule.
+- Wardair Canada Inc. v. Florida Department of Revenue, 477 U.S. 1 (1986): distinguishes its affirmative federal and treaty setting; congressional inaction is not treated as its equivalent.
+
+##### The specific federal policy record supplies additional support, not authorization — Part IV-B
+
+**Holding:** In deciding whether national uniformity is constitutionally essential in this income-allocation setting, the Court may consider Congress's sustained attention and the treaty history as evidence that the asserted necessity of one nationwide accounting method has not been demonstrated. The rejection of a proposed subnational accounting restriction and failure to enact restrictive bills do not authorize an otherwise unconstitutional tax, preempt judicial review, or excuse either Japan Line requirement.
+
+**Proposition-level authority:** Justice Kennedy's opinion, Part IV-B, joined by Chief Justice Stone-Zsela and Justices Stevens, Souter and Ginsburg: five direct joins to this additional national-uniformity ground and its limits. Blackmun, O'Connor, Scalia and Thomas do not join it. It provides an additional explanation for the national-uniformity result, not an independently sufficient ground to uphold a tax that fails another constitutional requirement.
+
+**Treatment of earlier authority:**
+
+- Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): applies consideration of the actual federal-policy setting without treating failure to legislate as law.
+- Itel Containers International Corp. v. Huddleston, February 23, 1993: preserves independent constitutional review and the limited evidentiary role of governmental views.
+- Wardair Canada Inc. v. Florida Department of Revenue, 477 U.S. 1 (1986): preserves the distinction between affirmative authorization and the record-specific evidentiary inference here.
+
+**Limits and questions not reached:** The two Japan Line requirements remain independent: national-policy tolerance cannot cancel a multiple-taxation defect, and absence of that defect cannot excuse a proved uniformity defect. Later water's-edge elections and the 1988 and January 1994 changes are not adjudicated or treated as extinguishing the earlier claims. Nonunitary inclusion, arbitrary demands, excessive attribution, discriminatory administration and materially different assessments remain open. No binding executive agreement, delegation authorizing one, or applicable absent treaty or statutory prohibition is decided; nonbinding communications do not require a finding of when Executive policy changed. No independent sanctions or appellate-cost question is resolved.
+
+**Operative remedy or transition:** Barclays, No. 92-1384, is affirmed 7–2; Colgate-Palmolive, No. 92-1839, is affirmed unanimously. Barclays' direction to enter judgment for the Board remains effective; Colgate's distinct appellate judgment stands. No constitutional refund or new tax calculation follows. Each side's own appellate costs in Barclays and the Board's appellate costs in Colgate remain undisturbed; no new independent costs or discovery-sanctions ruling is made.
+
 ### Judicial review of impeachment procedure
 
 #### Nixon v. United States, 506 U.S. 224 (1993)
@@ -723,3 +865,246 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 **Limits and questions not reached:** No controlling merits approval of the Senate’s procedure or general immunity for politically significant action follows. The oath, presidential-trial presiding-officer and two-thirds commands, and abandonment of adjudication altogether, remain distinct reserved questions.
 
 **Operative remedy or transition:** Affirm dismissal, 9–0 in judgment; no reinstatement, salary award or supervisory remand. The six-Justice nonjusticiability rationale alone controls the presented objection.
+
+### Airport fees and review boundaries
+
+#### [Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md)
+
+**Docket or dockets:** No. 92-97.
+
+**Decided:** 1994-01-24.
+
+For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-24, No. 92-97, see Federal Courts — Jurisdiction, the assumed action and the unchallenged judgment.
+
+##### The statutory airport-fee condition and its measure
+
+**Holding:** Sections 1513(a) and (b), read together, permit the aircraft-operator rental, landing and other airport-facility service charges at issue only if they are reasonable; here reasonableness requires a fair approximation of facility use, no excess in relation to benefits conferred, and no discrimination against interstate commerce. A per-passenger charge does not become saved merely because it satisfies Evansville or bears a service-charge label, and the Court neither treats every passed-through airline expense as a prohibited passenger charge nor prejudges a different lawful DOT standard.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt both this statutory construction and the stated three-part measure. Thomas rejects this construction.
+
+**Limits and questions not reached:** Subsection (a) prohibits taxes, fees, head charges and other charges imposed directly or indirectly on persons traveling in air commerce, their carriage, sales of air transportation or gross receipts from those sales. Subsection (b)'s first clause preserves taxes other than those enumerated in (a), including property, net-income, franchise, and sales or use taxes on goods or services; its second clause separately preserves reasonable rental, landing and other service charges collected by a State or subdivision owning or operating an airport from aircraft operators for use of airport facilities. These distinct categories are not collapsed into an unlimited prohibition on airline business costs.
+
+**Treatment of earlier authority:**
+
+- Aloha Airlines, Inc. v. Director of Taxation of Hawaii: applied to the Act's reach beyond direct head taxes; its limited other-tax discussion does not decide the additional reasonable-airport-fee clause.
+- Evansville-Vanderburgh Airport Authority District v. Delta Airlines, Inc.: its three-part user-fee measure supplies statutory reasonableness here; its validation of a head tax does not override Congress's later prohibition.
+- American Trucking Assns., Inc. v. Scheiner: relied on for the established use of Evansville's measure in transportation-fee analysis, without equating these cost-based charges with Scheiner's discriminatory highway taxes.
+
+##### Allocation, capital charges and concession revenues on this record
+
+**Holding:** Allocating airfield costs to the aircraft operators that use the runways and navigational facilities, and terminal costs by occupied space, fairly approximates use here; accepting the break-even findings subject to the parking correction and crash, fire and rescue remand, the challenged airline charges are not excessive. Concession-generated reserves do not by themselves establish an airline overcharge, and the sustained carrying-charge calculation remains limited by a net present value no greater than the capital project's initial cost, without authorization for double recovery.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt this application of the fair-use and cost-benefit requirements. Thomas does not reach statutory reasonableness.
+
+**Treatment of earlier authority:**
+
+- Evansville-Vanderburgh Airport Authority District v. Delta Airlines, Inc.: applied to reasonable approximation and the relationship between the challenged user's costs and benefits; exact equality among unlike users is not required.
+- Indianapolis Airport Authority v. American Airlines, Inc., 733 F.2d 1262: the Seventh Circuit's contrary surplus reasoning is rejected to the extent it treats courts as substitute rate regulators or concession profits alone as proof of excessive airline fees; the Transportation Department has regulatory authority.
+
+##### Unequal recovery percentages do not establish interstate discrimination here
+
+**Holding:** Charging airlines their allocated costs while recovering only approximately 20% of general aviation's allocated costs does not establish discrimination against interstate commerce on this record, because the airlines did not prove that the favored class typically operates intrastate or seldom leaves Michigan. The statutory trial under the airlines' own proposed Evansville measure supplied the opportunity to establish that relevant discrimination; this record-specific conclusion neither finds general aviation chiefly interstate nor validates a proven local preference in another case.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Souter; seven Justices adopt this statutory nondiscrimination application. Thomas would have the lower courts consider the independent constitutional claim and any effect of its pretrial dismissal.
+
+**Treatment of earlier authority:**
+
+- Evansville-Vanderburgh Airport Authority District v. Delta Airlines, Inc.: applied to discrimination against interstate commerce as a requirement distinct from fair allocation and absence of excessive fees.
+- American Trucking Assns., Inc. v. Scheiner: distinguished because its discriminatory transportation-tax operation was established; unequal recovery from these user classes alone does not establish the same defect.
+
+##### The independent constitutional challenge fails on the same tried record
+
+**Holding:** Even assuming §1513(b)'s permission is insufficient to exclude independent dormant Commerce Clause review, the challenged fees survive the Evansville inquiry already conducted on the tried record. This conditional ground rejects the constitutional challenge without deciding that Congress displaced constitutional review or endorsing open-ended judicial invalidation under the Commerce Clause.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Souter; seven Justices join this precise conditional ground. Thomas dissents from the constitutional affirmance and would vacate that part of the judgment for lower-court consideration.
+
+**Treatment of earlier authority:**
+
+- Evansville-Vanderburgh Airport Authority District v. Delta Airlines, Inc.: applied conditionally as the already-satisfied constitutional user-fee inquiry; no broader constitutional invalidation rule or congressional-displacement holding is adopted.
+
+**Limits and questions not reached:** No private AHTA action is established, and federal-question jurisdiction is exercised rather than assumed. AAIA private-action and surplus questions, primary jurisdiction and congressional displacement of independent constitutional review remain undecided. General aviation is not found predominantly interstate or intrastate. No double capital recovery or blanket reserve ceiling is authorized.
+
+**Operative remedy or transition:** The Sixth Circuit judgment is affirmed, 7–1 overall: the appealed statutory claim fails 8–0 in result on distinct grounds, and the constitutional claim fails 7–1. Blackmun does not participate. The unappealed parking recalculation to break even and the existing crash, fire and rescue allocation remand between airlines and general aviation are preserved without new merits endorsement. No additional remand, refund or mandate deadline is imposed.
+
+### Compensatory state and local taxes
+
+#### [Associated Industries of Missouri v. Lohman, 511 U.S. 641](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md)
+
+**Docket or dockets:** No. 93-397.
+
+**Decided:** 1994-05-23.
+
+##### The compensating burden must exist in the affected locality
+
+**Holding:** Missouri's additional 1.5% use tax discriminates against interstate commerce to the extent it exceeds the corresponding local sales-tax burden on an equivalent purchase where the goods are used; greater sales taxes on other transactions elsewhere in the State cannot compensate that excess. The ordinary matched 4.225% statewide taxes remain outside this challenge, and equal or lower interstate burdens are not invalid merely because other localities impose discriminatory excesses.
+
+**Proposition-level authority:** Thomas's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight direct joins. Blackmun agrees with the judgment without joining this full framework.
+
+**Treatment of earlier authority:**
+
+- Henneford v. Silas Mason Co., 300 U.S. 577: preserves genuinely complementary sales and use taxation.
+- Oregon Waste Systems, Inc. v. Department of Environmental Quality, April 4, 1994: applies the actual three-part compensatory-tax requirements; its distinct income/disposal mismatch is not imported here.
+- Halliburton Oil Well Cementing Co. v. Reily, 373 U.S. 64, and Armco Inc. v. Hardesty, 467 U.S. 638: apply comparison of the actual competing burdens.
+- Fort Gratiot Sanitary Landfill, Inc. v. Michigan Department of Natural Resources, June 1, 1992, and C & A Carbone, Inc. v. Town of Clarkstown, May 16, 1994: preserve nondiscrimination despite local governmental boundaries and arrangements.
+- General American Tank Car Corp. v. Day, 270 U.S. 367: distinguished; it does not authorize aggregate offsets that leave the compared interstate purchase more heavily taxed.
+- Quill Corp. v. North Dakota, May 26, 1992: its separate collection-nexus rules remain unchanged and supply no discriminatory-rate defense.
+
+##### Relief must address the established inequality through lawful state procedures
+
+**Holding:** Reversal of the statewide-averaging justification requires remand for locality-specific application and constitutionally adequate relief, not automatic invalidation of every application or a predetermined refund. If Missouri compelled payment before a meaningful opportunity to contest the discriminatory tax, McKesson requires adequate backward-looking correction; the availability of predeprivation procedures, affected payments, preserved claims and lawful remedial choices must be determined rather than assumed.
+
+**Proposition-level authority:** Thomas's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight direct joins. Blackmun agrees with the judgment without joining this full framework.
+
+**Treatment of earlier authority:**
+
+- McKesson Corp. v. Division of Alcoholic Beverages and Tobacco, 496 U.S. 18: applies its conditional backward-looking-relief requirement while preserving lawful state remedial choices and procedural predicates.
+- Henneford v. Silas Mason Co., 300 U.S. 577: preserves equal complementary applications rather than compelling statewide invalidation.
+- Chemical Waste Management, Inc. v. Hunt, June 1, 1992: preserves the distinction between invalidating a discriminatory exaction and determining the applicable state remedy.
+
+**Limits and questions not reached:** Sale and use are substantially equivalent here; the defect is excess over the local counterpart, unlike Oregon Waste's different-events defect. No aggregate offset, compulsory increase in lower interstate rates, statewide invalidation or automatic refund follows.
+
+**Operative remedy or transition:** The Missouri Supreme Court is reversed and remanded for locality-specific application and lawful relief. Affected payments, preservation, meaningful predeprivation review and permissible correction must be established. No refund amount, tax increase, new exemption or severability result is fixed; the ordinary matched statewide taxes remain in force.
+
+### Interstate waste commerce
+
+#### [Oregon Waste Systems, Inc. v. Department of Environmental Quality and Columbia Resource Co. v. Environmental Quality Commission, 511 U.S. 93](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md)
+
+**Docket or dockets:** Nos. 93-70 and 93-108.
+
+**Decided:** 1994-04-04.
+
+##### An express waste-origin surcharge triggers the discrimination rule
+
+**Holding:** A State discriminates against interstate commerce when it imposes a higher governmental disposal charge on otherwise comparable waste because it was generated outside the State; a small amount or environmental objective does not remove that express geographic preference. Such a differential can survive only if the State establishes a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve; ordinary Pike balancing of evenhanded incidental burdens does not govern this classification.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight Justices directly adopt this proposition and its application.
+
+**Treatment of earlier authority:**
+
+- Philadelphia v. New Jersey, 437 U.S. 617 (1978): applied to geographic discrimination in waste commerce.
+- Chemical Waste Management, Inc. v. Hunt, 504 U.S. 334 (1992): applied to an origin-based disposal surcharge and its purpose-and-alternatives burden; its unpressed compensation theory remains distinct.
+- Fort Gratiot Sanitary Landfill, Inc. v. Michigan Department of Natural Resources, 504 U.S. 353 (1992): applied to regulation of private landfills.
+- Wyoming v. Oklahoma, 502 U.S. 437 (1992): its express-geographic-discrimination rule is preserved and applied.
+- Pike v. Bruce Church, Inc., 397 U.S. 137 (1970): distinguished as governing evenhanded regulation with incidental burdens.
+
+##### General income taxes do not establish a compensatory disposal tax
+
+**Holding:** A compensatory-tax defense requires an identified intrastate burden, an interstate charge that roughly approximates and does not exceed that burden, and substantially equivalent taxable events capable of operating as mutually exclusive proxies. Oregon's reliance on residents' general income-tax contributions fails because income generation and disposal of waste are not substantially equivalent events; even a quantified revenue comparison would not cure that independently sufficient defect, and the statutory cost command is not proof of a matching burden.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight Justices directly adopt this proposition and its application.
+
+**Treatment of earlier authority:**
+
+- Maryland v. Louisiana, 451 U.S. 725 (1981): applied to require identification of the actual domestic burden being compensated.
+- Henneford v. Silas Mason Co., 300 U.S. 577 (1937): preserved for genuinely complementary taxes on substantially equivalent events; general taxation is not such a proxy.
+- Armco Inc. v. Hardesty, 467 U.S. 638 (1984): applied to the independently fatal absence of substantially equivalent taxable events.
+
+##### Conservation and cost-recovery labels do not justify this private-facility differential
+
+**Holding:** Oregon's conservation purpose, comprehensive regulatory program and statutory direction to recover otherwise-unpaid costs do not establish that this origin differential satisfies the discrimination rule: the record supplies no demonstrated origin-specific added cost that defeats reasonable nondiscriminatory alternatives. Because the facilities are private, regulation does not make this a proprietary charge by a government owner, and a user-fee analogy cannot eliminate nondiscrimination as a separate requirement; the Court leaves government-owned landfill charges and materially different proven cost justifications undecided.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg; eight Justices directly adopt this proposition and its application.
+
+**Treatment of earlier authority:**
+
+- Chemical Waste Management v. Hunt: applied to preserve legitimate environmental aims while requiring an adequate nondiscriminatory-alternatives showing.
+- Sporhase v. Nebraska ex rel. Douglas, 458 U.S. 941 (1982): distinguished; conservation concerns do not validate this origin preference at private landfills.
+- Evansville-Vanderburgh Airport Authority District v. Delta Airlines, Inc., 405 U.S. 707 (1972): reasonable approximation does not displace its independent nondiscrimination condition.
+- Northwest Airlines, Inc. v. County of Kent, January 24, 1994: its distinct nondiscrimination requirement is applied; unlike that record, this fee expressly classifies by interstate origin.
+- Fort Gratiot Sanitary Landfill v. Michigan Department of Natural Resources: applied to distinguish private-facility regulation from state market participation.
+
+**Limits and questions not reached:** The statutory direction to recover costs is not a lower-court finding of numerical equivalence. The Court supplies no contrary numerical finding, no universal bar to cost recovery and no rule for government-owned landfills. Materially different proven origin-specific costs remain subject to the governing justification requirement.
+
+**Operative remedy or transition:** Both matters are reversed and remanded for relief from the origin differential through the existing state review proceeding. No replacement rate, refund entitlement or amount, alteration of the separately unchallenged charge, required waste shipment or reinstatement of severed state-law provisions is ordered.
+
+#### [C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md)
+
+**Docket or dockets:** No. 92-1402.
+
+**Decided:** 1994-05-16.
+
+##### Compulsory use of this local private processor discriminates in the service market
+
+**Holding:** A municipality discriminates against interstate commerce when it compels private waste transactions to use a selected local private processing service and excludes competing interstate services, even though competing local processors are excluded too and the material may later leave the State. This build-and-operate financing arrangement, including the Town's tonnage guarantee and option to purchase later, does not turn the present regulatory command into a purchase of disposal for the Town's own waste; the Court decides no materially different genuinely public system.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg; six Justices adopt the discrimination classification and its stated private-service boundary. O'Connor agrees only with the judgment on a distinct Pike ground.
+
+**Treatment of earlier authority:**
+
+- Dean Milk Co. v. Madison, 340 U.S. 349 (1951): applied to compulsory local processing despite burdens on other local competitors.
+- Fort Gratiot Sanitary Landfill v. Michigan Department of Natural Resources, 504 U.S. 353 (1992): applied to geographic private-service reservation and the distinction between planning and proprietary conduct.
+- New Energy Co. of Indiana v. Limbach, 486 U.S. 269 (1988): applied; discrimination does not require a minimum number of favored businesses.
+- Exxon Corp. v. Governor of Maryland, 437 U.S. 117 (1978): distinguished; this ordinance reserves a processing market rather than merely changing its business structure without a local service preference.
+- Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor), 507 U.S. 218 (1993): preserved for genuine proprietary project purchases; its labor-preemption holding does not immunize coercive regulation of unrelated private transactions.
+
+##### Sanitary service and financing do not justify this discriminatory route
+
+**Holding:** A discriminatory local processing requirement can survive only if the municipality establishes a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve. Clarkstown's interests in safe, reliable disposal and financing the station do not justify the challenged compulsory private-service reservation on this record; neutral safety regulation and lawful nondiscriminatory financing remain available, without a new proof quantum, perfect-certainty demand, or requirement to disprove every imaginable alternative.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg; six Justices adopt this application of the discrimination rule. No independent Pike holding is adopted by that coalition.
+
+**Treatment of earlier authority:**
+
+- Chemical Waste Management v. Hunt, 504 U.S. 334 (1992): applied for the legitimate-purpose and adequate-nondiscriminatory-alternatives inquiry, with its proof and remedial limits preserved.
+- Oregon Waste Systems v. Department of Environmental Quality, April 4, 1994: applied to keep discrimination, justification and public/private capacity distinct; no compensatory-tax issue is decided here.
+- Philadelphia v. New Jersey, 437 U.S. 617 (1978): applied to the Commerce Clause's protection of waste commerce despite valid environmental objectives.
+- Pike v. Bruce Church, Inc., 397 U.S. 137 (1970): reserved for genuinely evenhanded incidental burdens; it supplies O'Connor's separate ground, not an independent holding of the Court.
+
+**Limits and questions not reached:** A genuinely public system, ordinary government purchases and independent valid zoning, health, permitting, recycling, dumping and financing rules are not decided. O'Connor's Pike ground has one vote and is no independent Court holding. The ordinance's severability remains applicable; no contract rescission, refund, damages or substitute financing method is ordered.
+
+**Operative remedy or transition:** The state enforcement judgment is reversed and remanded, 7–2. Set aside the challenged compulsory route against Carbone and adjust the injunction consistently, preserving independent valid rules and severability. No damages, refund, unconditional operating injunction, contract rescission or substitute financing method is ordered.
+
+### Legislative reopening of final judgments
+
+#### [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md)
+
+**Docket or dockets:** No. 93-609.
+
+**Decided:** 1994-05-23.
+
+##### Congress may not command reopening of this completed private federal judgment
+
+**Holding:** Article III prevents application of §27A(b) to require reinstatement of this private securities action after its dismissal with prejudice became final, without appeal, before the statute was enacted. Congress may change governing law, but that power does not authorize this command to reopen a completed federal judgment; pending litigation, prospective injunctions and independently lawful judicial reopening remain distinct.
+
+**Proposition-level authority:** Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
+
+**Treatment of earlier authority:**
+
+- Robertson v. Seattle Audubon Society, March 25, 1992: preserves legislative change of law in pending litigation; resolves its reserved final-judgment question only for this completed private dismissal.
+- McCullough v. Virginia, 172 U.S. 102 (1898): relies on the distinction between changing law and disturbing a completed adjudication.
+- United States v. Klein, 80 U.S. (13 Wall.) 128 (1872): applies protection of judicial adjudication, without denying Congress's power to amend governing law.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421 (1856): distinguishes changes to the continuing prospective operation of an injunction.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304 (1945): leaves its due-process revival rule intact; it does not decide final federal judgments under Article III.
+- Harper v. Virginia Department of Taxation, June 18, 1993: preserves the distinction between open direct review and final judgments; judicial retroactivity is not a reopening command.
+- Landgraf v. USI Film Products and Rivers v. Roadway Express, April 26, 1994: preserve the distinction between express legislative temporal direction and constitutional power; ordinary antiretroactivity construction cannot avoid this express command.
+- United States v. Sioux Nation of Indians, 448 U.S. 371 (1980): distinguishes the Government's waiver of its own res judicata defense from compulsory reopening between private parties.
+
+**Limits and questions not reached:** Section 27A(b) requires an action commenced on or before June 19, 1991, dismissed as time barred after that date, timely under the jurisdiction's June 19 law including retroactivity principles, and a reinstatement motion within 60 days after December 19, 1991. The January 31 motion met the deadline; the ruling does not rest on a missing statutory condition. Section 27A(a)'s separate June 19 limitations-law direction, other applications of subsection (b), general severability, due process, fraud liability, damages and independently lawful reopening remain undecided.
+
+**Operative remedy or transition:** The Fifth Circuit is reversed, 5–3, and the matter remanded with directions to deny §27A(b) reinstatement. The completed August 1991 dismissal remains undisturbed. O'Connor does not participate; no fraud findings or damages trial is ordered.
+
+### Military judicial appointments and impartiality
+
+#### [Weiss v. United States, 510 U.S. 163](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md)
+
+**Docket or dockets:** No. 92-1482, including Hernandez under Supreme Court Rule 12.2.
+
+**Decided:** 1994-01-19.
+
+For the other questions in Weiss v. United States, 1994-01-19, No. 92-1482, including Hernandez under Supreme Court Rule 12.2, see Criminal Procedure — Fixed tenure and impartial military adjudication.
+
+##### Commissioned officers assigned germane military judicial duties
+
+**Holding:** The Appointments Clause applies to military judges, but the already commissioned officers serving as trial and appellate judges in these cases require no second appointment: their judicial duties are germane to the military offices conferred by presidential appointment and Senate confirmation. Assignment by a Judge Advocate General does not itself confer a new, unrelated federal office; the holding does not authorize that result or decide civilian appellate appointments or assignment to principal offices.
+
+**Proposition-level authority:** Part A of Kennedy's opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg; nine Justices support the confined existing-commission and germane-duty proposition.
+
+**Treatment of earlier authority:**
+
+- Buckley v. Valeo: applied to the officer character of the military judges' duties; military office is not exempt from the Appointments Clause.
+- Shoemaker v. United States: applied to germane additional duties within an existing commissioned office; no general authority to fill unrelated offices is recognized.
+- Freytag v. Commissioner: its insistence on constitutional appointment of officers is preserved; the present judges already hold constitutionally sufficient commissions.
+
+**Limits and questions not reached:** Civilian appellate appointments, unrelated new offices and assignment to principal offices are not decided. The tenure holding depends on this system's protections, including limits on command evaluation, improper censure and influence, judicial review and disqualification; supported retaliation, reassignment and structural-bias challenges remain distinct.
+
+**Operative remedy or transition:** Both Court of Military Appeals judgments, including Hernandez under Rule 12.2, are affirmed on the appointment and fixed-tenure objections. No second appointment, fixed term or retrial is ordered.

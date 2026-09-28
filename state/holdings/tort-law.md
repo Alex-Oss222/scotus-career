@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Tort Law
 
@@ -103,3 +103,36 @@
 **Authority of the judgment:** The $10 million punitive award is affirmed by Blackmun, Stevens, Scalia, Kennedy and Thomas, 5–4. No controlling substantive rationale exists under Marks. Stevens and Blackmun assess substantive reasonableness using potential harm; Kennedy instead relies on rational punishment for the misconduct shown and rejects the reconstructed potential-harm arithmetic; Scalia and Thomas reject substantive numerical review and rely on traditional procedure. The latter rationale is not a logical subset of either substantive rationale. Agreement on this judgment does not establish a ratio, a general substantive test or an instruction-waiver rule.
 
 **Limits and questions not reached:** The independently majority-supported procedural proposition is stated above. Haslip’s existing force remains; the particular judgment supplies no general approval of another award with a similar ratio.
+
+#### [Honda Motor Co., Ltd. v. Oberg, 512 U.S. 415](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Honda_Motor_Co_v_Oberg_merits_1994-06-24.md)
+
+**Docket or dockets:** No. 93-644.
+
+**Decided:** 1994-06-24.
+
+##### Removing amount review without adequate replacement violates due process
+
+**Holding:** Oregon may alter historical procedures, but it may not remove the traditional judicial safeguard against an arbitrary punitive-damages amount without an adequate substitute. Where the existing process leaves the amount without that protection, due process requires a meaningful opportunity for judicial examination and lawful correction of the amount; review confined to whether any evidence supports punitive entitlement does not perform that function.
+
+**Proposition-level authority:** Justice Blackmun's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt this bounded procedural rule, without a substantive numerical rule.
+
+**Treatment of earlier authority:**
+
+- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: applied for the function of actual instructions and judicial review; no requirement to reproduce every Alabama procedure follows.
+- TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443: distinguished from a legal prohibition on amount review; its record-specific procedural sufficiency remains controlling, and its fractured substantive grounds supply no numerical or potential-harm formula.
+- Hurtado v. California, 110 U.S. 516: applied to permit procedural innovation with adequate protection; it does not validate elimination of a safeguard without adequate replacement.
+
+##### Oregon's actual safeguards do not cure the amount-review gap
+
+**Holding:** The instructions actually given, clear-and-convincing proof of punitive entitlement, prima-facie gate for wealth evidence, discretionary award, complaint-based ceiling and retained legal-error and no-evidence review, considered together, do not adequately replace judicial examination of the punitive amount. The judgment sustaining the $5 million punitive award is therefore reversed and remanded for constitutionally adequate review and further proceedings, without deciding that the sum is excessive, fixing a substitute, eliminating punitive entitlement or reopening compensation.
+
+**Proposition-level authority:** Justice Blackmun's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices adopt the application and limited review remedy.
+
+**Treatment of earlier authority:**
+
+- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: applied to assess the function of safeguards together; Oregon's trial improvements do not by themselves replace the missing amount inquiry.
+- TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443: followed as to the difference between real review without a separate written trial explanation and a bar to review; its procedural holding is not converted into a substantive ceiling.
+
+**Limits and questions not reached:** No permissible ratio, maximum award, precise constitutional review standard, federal checklist, compulsory remittitur, mandatory written opinion, or universal repeated appellate review is prescribed. Corporate status does not remove procedural protection. Neither the amount's substantive validity nor a new punitive-entitlement challenge is decided.
+
+**Operative remedy or transition:** The judgment sustaining the punitive award without adequate amount review is reversed and remanded for meaningful judicial examination, lawful correction and consistent further proceedings. No substantive excessiveness finding, substitute sum, automatic punitive retrial or new challenge to punitive entitlement is decided. The compensatory judgment remains undisturbed.

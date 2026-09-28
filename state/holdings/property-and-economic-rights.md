@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1992  
-**Processed through:** July 26, 1993, after DeBoer v. DeBoer, No. A-64.  
-**Edition:** September 17, 2026
+**Last completed October Term:** 1993
+**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
+**Edition:** September 28, 2026
 
 ## Property and Economic Rights
 
@@ -455,3 +455,88 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 - Connolly, 475 U.S.211 — as-applied pension takings analysis followed.
 - Penn Central, 438 U.S.104 — economic impact, reasonable expectations and governmental character considered together.
 - Village of Euclid, 272 U.S.365 — diminution alone insufficient; no numerical safe harbor derived.
+
+### Civil real-property forfeiture
+
+#### [United States v. James Daniel Good Real Property, 510 U.S. 43](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md)
+
+**Docket or dockets:** No. 92-1180.
+
+**Decided:** 1993-12-13.
+
+##### Notice and a hearing before civil seizure of real property
+
+**Holding:** Before seizing real property for civil forfeiture, the Government must ordinarily give the owner notice and a meaningful opportunity to be heard; a Fourth Amendment warrant does not itself satisfy this independent Fifth Amendment requirement. To bypass prior process for exigent circumstances, the Government must show that less restrictive measures, such as notice of the pending claim recorded against the property, a restraining order, or a bond, would not prevent sale, destruction, or continued unlawful use; emergency seizure remains possible on that showing with appropriate subsequent process.
+
+**Proposition-level authority:** Kennedy's opinion for the Court, Pre-seizure process portion, joined by Stone, Blackmun, Stevens, Souter, and Ginsburg. These six adopt the same rule, its exigency qualification, and its application.
+
+**Treatment of earlier authority:**
+
+- Soldal v. Cook County: applied to preserve the independent operation of constitutional protections; its possessory-seizure rule remains intact.
+- Mathews v. Eldridge: applied to the process required before this deprivation; no new general balancing formula replaces it.
+- Connecticut v. Doehr: applied for the value of notice and an opportunity to contest a prejudgment property deprivation.
+- Fuentes v. Shevin: applied for the value of notice and an opportunity to contest a prejudgment property deprivation.
+- Calero-Toledo v. Pearson Yacht Leasing Co.: distinguished because movable property and exceptional governmental needs can justify delayed process; that exception remains available where its justification exists.
+
+##### Mandatory administrative promptness does not supply an unstated dismissal sanction
+
+**Holding:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers; §1603(b) requires prompt reporting to the United States attorney when the specified seizure or discovery requires proceedings by that office; and §1604, for recovery requiring district-court or Court of International Trade proceedings, requires those proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears, subject to the Attorney General's preserved determination, after inquiry, that such proceedings probably cannot be sustained or that public justice does not require institution or prosecution, in which event the facts are instead reported to the Treasury Secretary for direction. These remain mandatory duties within their stated conditions, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
+
+**Proposition-level authority:** Kennedy's opinion for the Court, Statutory timing portion, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, and Ginsburg. All nine adopt this construction and reversal of the contrary ground below.
+
+**Treatment of earlier authority:**
+
+- Brock v. Pierce County: applied to distinguish a mandatory timing duty from an unstated loss of governmental authority.
+- United States v. Montalvo-Murillo: applied to reject an automatic substantive remedy that the timing provision does not prescribe; its distinct hearing duty is not diluted.
+
+**Limits and questions not reached:** The notice holding concerns civil real-property forfeiture, not criminal forfeiture or ultimate forfeiture liability. Statutory promptness remains mandatory; an independently supported constitutional-delay claim or otherwise authorized relief is not extinguished.
+
+**Operative remedy or transition:** The hearing ruling is affirmed, 6–3, and the statutory-dismissal ground reversed, 9–0; the case is remanded. The timely forfeiture action may proceed lawfully. Restoration, accounting or other consequences of the interim seizure require an independently authorized basis; no award, automatic dismissal, return of title or sovereign damages is ordered.
+
+### Development permits and property dedications
+
+#### [Dolan v. City of Tigard, 512 U.S. 374](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dolan_v_City_of_Tigard_merits_1994-06-24.md)
+
+**Docket or dockets:** No. 93-518.
+
+**Decided:** 1994-06-24.
+
+##### The City must justify the nature and extent of each demanded dedication
+
+**Holding:** When an individualized development permit requires conveyance of identified property interests, the government must first establish an essential nexus to the legitimate interest supporting the restriction and then demonstrate rough proportionality between the dedication's nature and extent and the development's impacts. Some individualized determination is required; reasonable estimates suffice, and neither exact mathematical equivalence nor proof that the condition is uniquely attributable to the project is required.
+
+**Proposition-level authority:** Justice O'Connor's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas; five Justices adopt this rule and its government justification burden.
+
+**Treatment of earlier authority:**
+
+- Nollan v. California Coastal Commission, 483 U.S. 825: followed as to essential nexus and extended by the nature-and-extent inquiry and government justification burden; purpose connection remains necessary but is not sufficient.
+- Kaiser Aetna v. United States, 444 U.S. 164: applied to the distinct property interest in excluding the public; an asserted public benefit does not erase that interest.
+- Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419: applied for the distinction between compelled physical occupation and ordinary use regulation; no completed occupation is found here.
+- Armstrong v. United States, 364 U.S. 40: applied to the allocation of public burdens; it does not establish a numerical exaction formula.
+- Penn Central Transportation Co. v. New York City, 438 U.S. 104: distinguished as ordinary regulatory-taking analysis; its force for use restrictions remains unchanged.
+
+##### The public-greenway dedication is insufficiently justified
+
+**Holding:** Although the increased runoff supplies an essential nexus to flood control, a requirement to keep floodplain land open does not by itself justify surrendering the right to exclude the public. Because the City has not made the required individualized showing connecting that additional public-access interest to the development's impacts, the judgment sustaining the public-greenway dedication must be reversed and the condition returned for lawful treatment on remand.
+
+**Proposition-level authority:** Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas; all five support both the rule and this application.
+
+**Treatment of earlier authority:**
+
+- Kaiser Aetna v. United States, 444 U.S. 164: applied to preserve the difference between leaving land open and compelling access by the public.
+- Nollan v. California Coastal Commission, 483 U.S. 825: applied to the actual interest demanded, with the further proportionality rule stated above; lawful regulation does not itself authorize an insufficiently justified conveyance.
+
+##### The pathway dedication requires more than a possible traffic benefit
+
+**Holding:** Increased traffic and the usefulness of alternative transportation establish the purpose nexus for a pedestrian and bicycle route, but the finding that this route could offset some traffic does not adequately connect the extent of the demanded strip to the development's impacts. The City must make an individualized effort to relate the dedication's nature and extent to the mitigation it can reasonably provide, without exact arithmetic; the judgment sustaining this dedication is reversed and remanded.
+
+**Proposition-level authority:** Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas; five Justices adopt the application and its estimation allowance.
+
+**Treatment of earlier authority:**
+
+- Nollan v. California Coastal Commission, 483 U.S. 825: applied to distinguish the conceded transportation purpose from the insufficient showing supporting this particular dedication.
+- Armstrong v. United States, 364 U.S. 40: applied to the burden imposed for a public improvement; no exact valuation or compensation amount is decided.
+
+**Limits and questions not reached:** No conveyance occurred and no completed taking or compensation amount is determined. The separate 15-percent open-space rule and the constitutionality and unadjudicated consequences of the variance procedure remain outside decision; failure to propose an alternative is not made a forfeiture rule. Ordinary zoning, monetary exactions and generally applicable legislative conditions remain reserved.
+
+**Operative remedy or transition:** The Oregon Supreme Court's judgment sustaining both challenged dedications is reversed and the case remanded. If the City retains a dedication demand, it must supply the required constitutional relationship. Lawful regulation, alternatives, a justified dedication and compensated acquisition remain available. No unconditional permit, completed-taking finding or compensation is ordered; the separate open-space rule and variance-procedure constitutionality are not adjudicated.
