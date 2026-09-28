@@ -93,17 +93,16 @@ BIA original order: July 26, 1991. Agency motion: August 1991. Denial: February 
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-04-19. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-04-19. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Reconsideration and finality depend on the governing procedural channel; Ibarra does not automatically toll the INA deadline.
+**Authority and application:** Simulated *Ibarra* establishes a channel-specific finality rule: one timely substantive reconsideration motion makes the underlying suppression ruling nonfinal until the motion is decided, and the full appellate period then begins, without deciding waiver on the merits. Simulated *Darby* separately rejects a judge-made requirement to take optional intra-agency review before APA review when Congress and the agency did not make that step a condition of finality. Neither case automatically tolls the INA. They instead require close attention to the review statute, incorporated procedure, and the legal effect Congress assigned to reconsideration.
 
-- [United States v. Ibarra, 502 U.S. 1 (1991)](inherited/readings/OT1994-049.md#authority-1)
+- [United States v. Ibarra — timely reconsideration and appellate finality](../../OT1991/records/United_States_v_Ibarra_merits_1991-10-15.md)
+- [Darby v. Cisneros — no extra judicial exhaustion beyond §704's conditions](../../OT1992/records/Darby_v_Cisneros_merits_1993-06-21.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state; validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence decisions, proposed Stone positions, and later file order do not become law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -203,10 +202,13 @@ The original-order timeliness issue can be decided. Remaining immigration merits
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The proposed Stone v. INS position now rests expressly on the actual simulated Ibarra and Darby holdings rather than a generic analogy. Neither supplies an INA result by itself; the incorporated review provisions must carry the finality consequence. INS v. Doherty produced no controlling reusable reopening rule and is not treated as one.
 
 ## B. FIXED CORE
 
@@ -233,10 +235,10 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Reconsideration and judicial-review finality
 
 - **Threshold and Merits Reach:** Stone resolves the court of appeals’ statutory authority to review the original order. He reaches no immigration merits and grants no equitable extension independent of his construction.
-- **Current Governing Rule:** The incorporated Hobbs Act background includes the Locomotive Engineers rule; the 1990 INA consolidation provision must be interpreted to determine whether it changes that finality rule.
+- **Current Governing Rule:** Finality follows the governing procedural source. Simulated *Ibarra* suspends appellate finality for a timely substantive reconsideration motion in its channel, and *Darby* rejects unprovided exhaustion requirements; the INA's incorporated review provisions and consolidation rule determine whether the same consequence follows here.
 - **Stone’s Legal Position:** Apply the incorporated Locomotive Engineers finality principle to this sequence and construe the consolidation provision as coordination, not displacement. This rejects the Sixth Circuit’s interpretation; it does not overrule a controlling simulated Supreme Court no-tolling holding.
 - **Stone’s Proposed Holding:** A timely motion for reconsideration filed before judicial review postpones reviewable finality under the incorporated administrative-review rule; § 106(a)(6)’s consolidation command does not displace that rule for this sequence. Stone’s petition, timely after the BIA acted on that motion, may obtain review of the original order. Reverse the threshold dismissal and remand.
-- **Essential Reasoning:** Congress expressly incorporated an established review procedure and changed its ordinary filing period. A provision coordinating two reviews does not necessarily change the finality of an order when reconsideration precedes any court petition. It can preserve and consolidate review where the judicial petition was filed first. That reading gives both provisions effect without making a party lose review by pursuing the ordinary administrative correction process.
+- **Essential Reasoning:** Congress expressly incorporated an established review procedure and altered its filing period. Simulated *Ibarra* confirms that a timely substantive reconsideration motion can postpone finality when the governing review structure treats the agency or court as still reconsidering the operative order; simulated *Darby* cautions against adding a procedural forfeiture Congress did not supply. Section 106(a)(6)'s consolidation command can coordinate parallel review without making a party lose review merely for using the ordinary reconsideration route first.
 - **Record Application:** The motion followed the original BIA order within the review period and preceded judicial review. The judicial petition was timely after the agency denied reconsideration. The agency’s description of the motion as frivolous does not supply a separate deadline rule Congress did not enact.
 - **Principal Contrary Argument:** A construction that erases the independent finality of an order after a judicial petition is already filed may conflict with Congress’s instruction to consolidate pending reviews.
 - **Stone’s Answer:** A timely motion for reconsideration filed before judicial review postpones reviewable finality under the incorporated administrative-review rule; § 106(a)(6)’s consolidation command does not displace that rule for this sequence. Stone’s petition, timely after the BIA acted on that motion, may obtain review of the original order. Reverse the threshold dismissal and remand. No rule revives an order through an untimely later motion, creates an automatic stay of deportation, or decides the merits of either order. The treatment of a judicial petition already pending follows the enacted consolidation command, not an assertion that the agency can divest any court at will.
@@ -1204,18 +1206,15 @@ Compact approved in 1949. The present original action was admitted in 1986. The 
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-05-15. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-05-15. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Original jurisdiction, compact enforcement and modification must be distinguished; the Nebraska decree is an analogy, not the Arkansas River Compact's text.
+**Authority and application:** The simulated 1993 *Nebraska v. Wyoming* original-action decision sharply distinguishes enforcement of an established decree right from creation of a new allocation. Enforcement needs no new injury showing, while modification requires clear and convincing evidence of real and substantial injury. That rule governs its own decree and supplies an original-jurisdiction analogy here. It does not replace the Arkansas River Compact's text or convert Article IV-D's material-depletion condition into the Nebraska decree's modification burden.
 
-- [Nebraska v. Wyoming, 507 U.S. 584 (1993)](inherited/readings/OT1994-059.md#authority-1)
-- [Nebraska v. Wyoming, 507 U.S. 584 (1993)](inherited/readings/OT1994-059.md#authority-2)
+- [Nebraska v. Wyoming — enforcement, modification, and clear-and-convincing substantial injury](../../OT1992/records/nebraska_partial_summary_judgment_1993-04-20.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state; validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence decisions, proposed Stone positions, and later file order do not become law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1537,12 +1536,18 @@ The identified liability and exception paths may be modeled. A new quantitative 
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The earlier simulated Nebraska decision is actual controlling law in its own original action, not merely a historical citation. Kansas v. Colorado must use it only for the enforcement-versus-modification distinction and original-action discipline. Compact liability still turns on the Arkansas River Compact's own material-depletion rule, so no Nebraska proof standard is silently transplanted.
 
 ## B. FIXED CORE
+
+**Prior simulated original-action rule:** *Nebraska v. Wyoming* (Apr. 20, 1993) requires clear and convincing proof of real and substantial injury for modification of that decree and no new injury showing for enforcement of an established decree right. This case applies the Arkansas River Compact's own liability terms; the Nebraska burden is not imported as a replacement Compact element.
+
 
 ### Overall fixed core
 
