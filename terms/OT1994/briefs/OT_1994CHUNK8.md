@@ -597,13 +597,14 @@ The certified statutory issue and present effect of the clause may be decided; n
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The simulation audit found no pre-OT1994 holding that decides Sky Reefer. The proposed disposition therefore remains grounded in the enacted COGSA/FAA interaction and the effective-vindication distinction, subject to mandatory revalidation if any of the three earlier OT1994 arbitration cases is actually adjudicated first.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The simulation audit found no pre-OT1994 holding that decides Sky Reefer. The proposed disposition therefore remains grounded in the enacted COGSA/FAA interaction and the effective-vindication distinction, subject to mandatory revalidation if any of the three earlier OT1994 arbitration cases is actually adjudicated first.
 
 ## B. FIXED CORE
 
@@ -616,7 +617,7 @@ The certified statutory issue and present effect of the clause may be decided; n
 - **Required Legal Propositions:** COGSA § 3(8) does not invalidate the Tokyo arbitration clause merely because the selected forum increases inconvenience or enforcement expense. The FAA does not override COGSA’s nonwaivable substantive protection; the statutes operate together where arbitration leaves that protection available. The present record does not establish that arbitration will apply a rule diminishing the claimant’s nonwaivable COGSA protection. The district court shall retain jurisdiction, and the stay does not authorize a prospective waiver or foreclose a properly supported statutory objection at the lawful enforcement stage.
 - **Express Exclusions:** Automatic FAA supremacy over nonwaivable federal rights; automatic invalidity of every foreign arbitration clause; reopening an unreviewed formation issue; a promise of unlimited judicial merits review.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1044,13 +1045,14 @@ The federal equitable and fee questions can be resolved on the established adequ
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The completed simulated cases support the brief's right/remedy separation but do not themselves foreclose §1983 equitable relief in state tax cases. The proposed denial must therefore rest on the tax-specific federal equity tradition and the adequacy of the refund remedy, not on state law overriding §1983 or on a general exhaustion requirement.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The completed simulated cases support the brief's right/remedy separation but do not themselves foreclose §1983 equitable relief in state tax cases. The proposed denial must therefore rest on the tax-specific federal equity tradition and the adequacy of the refund remedy, not on state law overriding §1983 or on a general exhaustion requirement.
 
 ## B. FIXED CORE
 
@@ -1063,7 +1065,7 @@ The federal equitable and fee questions can be resolved on the established adequ
 - **Required Legal Propositions:** Section 1983 does not require injunctive or declaratory interference with state tax administration when an adequate legal remedy provides effective redress. The limitation follows from the federal equitable principles informing that statute, not direct application of § 1341 to state courts. The adequate refund remedy here leaves no basis for the additional § 1983 equitable relief sought. This limitation on the federal remedy does not withdraw a State’s authority to provide otherwise lawful equitable relief under state law. Because the taxpayers could not obtain the federal relief asserted under § 1983 on this record, § 1988 supplies no fee entitlement for that claim. This does not establish that resolution on a state-law ground always defeats fees when an independently viable fee-eligible federal claim exists.
 - **Express Exclusions:** A claim that § 1341 directly removes state-court jurisdiction; a universal § 1983 exhaustion rule; denial of the Commerce Clause right recognized in Dennis; automatic fee denial whenever the successful ground is state law.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
