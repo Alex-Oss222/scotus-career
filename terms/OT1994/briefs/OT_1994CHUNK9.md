@@ -36,7 +36,7 @@ The additional application question does not invent a new allegation that a repr
 
 #### B. Law entering the case
 
-**Current-Through Baseline:** The coordinated OT1991-OT1992 state through July 26, 1993, including the completed simulated Shaw decision, supplies the established starting point. Refresh with effective OT1993 and earlier OT1994 Records before the scheduled event. This preparation does not certify a completed OT1993 term or invent a later holding. The unfinished Holder and De Grandy matters require a later check. Adarand and Jenkins may matter only to the extent an actual, already effective simulated decision supplies a relevant proposition. Uncoordinated decisions on June 29 share the same entering baseline unless expressly sequenced.
+**Current-Through Baseline:** The completed OT1993 [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md) incorporate all 95 matters through June 30, 1994. [Court Composition](../../../foundation/COURT_COMPOSITION.md) supplies the applicable roster and seniority. Simulated Shaw remains effective; Holder and De Grandy are completed law, as set out below. Load only actual earlier effective OT1994 Records before this event. Adarand and Jenkins may matter only to the extent such a Record supplies a relevant proposition; uncoordinated June 29 decisions share the same entering baseline unless expressly sequenced.
 
 ##### Issue 1: Territorial design and personal constitutional deprivation
 
@@ -49,7 +49,7 @@ The additional application question does not invent a new allegation that a repr
 ##### Issue 2: State permission, statutory duties, and federal authority
 
 - **Controlling Simulated Law:** Shaw keeps review of federal preclearance action distinct from a challenge to a state plan. Its federal-defendant disposition applies the designated review channel and Morris v. Gressette, 432 U.S. 491 (1977). See [designated channel for preclearance review](../../../state/STANDARDS_AND_TESTS.md#the-designated-channel-for-preclearance-review), effective June 28, 1993.
-- **Other Governing Law:** Voting Rights Act §§2 and 5, then codified at 42 U.S.C. §§1973 and 1973c, and §14(b), then §1973l(b). Beer v. United States, 425 U.S. 130, 140-142 (1976), supplies nonretrogression principles, not a general duty to maximize majority-minority districts. Pleasant Grove v. United States, 479 U.S. 462, 469-472 (1987), preserves the separate statutory purpose inquiry. Thornburg v. Gingles, 478 U.S. 30 (1986), supplies the statutory results framework within its scope, not an extra constitutional-injury requirement. Effective simulated Growe and Voinovich, and any later completed statutory decisions, retain their own elements and limits.
+- **Other Governing Law:** Voting Rights Act §§2 and 5, then codified at 42 U.S.C. §§1973 and 1973c, and §14(b), then §1973l(b). Beer v. United States, 425 U.S. 130, 140-142 (1976), supplies nonretrogression principles, not a general duty to maximize majority-minority districts. Pleasant Grove v. United States, 479 U.S. 462, 469-472 (1987), preserves the separate statutory purpose inquiry. Thornburg v. Gingles, 478 U.S. 30 (1986), supplies the statutory results framework within its scope, not an extra constitutional-injury requirement. Effective simulated Growe and Voinovich retain their own elements and limits. [Holder v. Hall (June 30, 1994)](../../../state/STANDARDS_AND_TESTS.md#section-2-challenges-to-governing-body-size) holds that governing-body size is within §2 and that a dilution challenge requires a reasonable comparison with independent legal and practical roots, not a number selected solely for desired racial winners. The comparison need not be uniquely ideal and does not replace the applicable Gingles predicates, totality proof of unequal opportunity, or a remedy confined to the established violation and genuine governmental interests. [Johnson v. De Grandy (June 30, 1994)](../../../state/STANDARDS_AND_TESTS.md#section-2-fragmentation-state-districting-choice-and-influence-claims) holds that the necessary voting conditions do not compel maximization of majority-minority districts. Proportional electoral opportunity is relevant under the totality, not a safe harbor or burden-shifting defense; disproportionality alone does not establish liability, and opportunity elsewhere cannot excuse proved local dilution. No universal population denominator or geographic scale, racial floor or ceiling, or proportional-election entitlement follows.
 - **Open Point:** Whether lack of a statutory requirement for a particular district itself defeats the State's constitutional permission to adopt it. No direct challenge to a particular DOJ objection or independent §2/§5 claim is established by the present record description.
 
 #### C. Decision-material litigation positions
@@ -82,7 +82,7 @@ A judgment invalidating the district solely on a rejected theory calls for rever
 - **Version:** 1, the first complete supplement for these reconstructed questions. This replaces the earlier reconstructed-question "position not supplied" placeholder in full. Any earlier historical-posture supplement is superseded for this reconstruction.
 - **Approval Status:** User-authorized position and drafting implementation. The user selected equal membership as the organizing principle, antisubordination as the explanation of history and institutional conditions, and individual justification and limits on authority as constraints, then directed that the case brief answer the historical issues and additional question in this repository.
 - **Approval Date or Turn:** September 28, 2026, the instruction to write and add the Miller brief, followed by the identification of OT1994 chunk 9. This is the preparation date, not an in-world Court event.
-- **Current-Through Baseline:** Section I's verified Shaw baseline, with effective later law to be refreshed before adjudication. The [Miller roadmap entry](../../../stone/STONE_FULL_BUILD_THROUGH_OT2001.md#miller-v-johnson-515-us-900-1995) is planning context, not law.
+- **Current-Through Baseline:** Section I's completed OT1993 baseline, including Shaw and the final Holder and De Grandy statutory holdings; actual earlier effective OT1994 law must still be checked before adjudication. The [Miller roadmap entry](../../../stone/STONE_FULL_BUILD_THROUGH_OT2001.md#miller-v-johnson-515-us-900-1995) is planning context, not law.
 - **Conditions:** The disposition branches below preserve the user's earlier choices. This authorization supplies no missing lower-court fact or independently preserved claim, and no votes for another Justice. Nonmaterial wording and date-eligible support may be refined without changing the selected rules, reasons, limits, or remedies.
 
 #### B. Judgment and remedy
@@ -255,18 +255,18 @@ For comparative theory, Stevens's [historical Adarand dissent](https://www.law.c
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-29. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-29. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Forum access and attribution differ from public financing. An actual earlier Rosenberger decision may be relevant only within its controlling scope.
 
-- [Lamb's Chapel v. Center Moriches Union Free School District, 508 U.S. 384 (1993)](inherited/readings/OT1994-098.md#authority-1)
-- [Lee v. Weisman, 505 U.S. 577 (1992)](inherited/readings/OT1994-098.md#authority-2)
-- [Lee v. Weisman, 505 U.S. 577 (1992)](inherited/readings/OT1994-098.md#authority-3)
-- [Zobrest v. Catalina Foothills School District, 509 U.S. 1 (1993)](inherited/readings/OT1994-098.md#authority-4)
+- [Lamb's Chapel v. Center Moriches Union Free School District, 508 U.S. 384 (1993)](../../../state/HOLDINGS.md#lambs-chapel-v-center-moriches-union-free-school-district-508-us-384-1993)
+- [Lee v. Weisman, 505 U.S. 577 (1992)](../../../state/HOLDINGS.md#lee-v-weisman-505-us-577-1992)
+- [Lee v. Weisman, 505 U.S. 577 (1992)](../../../state/HOLDINGS.md#lee-v-weisman-505-us-577-1992-1)
+- [Zobrest v. Catalina Foothills School District, 509 U.S. 1 (1993)](../../../state/HOLDINGS.md#zobrest-v-catalina-foothills-school-district-509-us-1-1993)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
-**OT1993 refresh points:** Kiryas Joel. No outcome or proposed rule from these unfinished source events is adopted here.
+**Completed OT1993 authority:** [Kiryas Joel (June 27, 1994)](../../../state/HOLDINGS.md#the-state-may-not-select-a-denomination-as-the-recipient-of-general-governmental-authority) forbids deliberate allocation of general governmental authority to a community selected by denomination, including through elected lay officials. Independently, its anomalously particular grant without neutral terms assuring comparable treatment violates religious neutrality. Accommodation does not cure those defects; religious concentration alone is insufficient, neutral accommodation remains permissible, and Lemon remains governing law. Neutral access for private religious expression remains distinct from a denominational allocation of governmental power; the context and attribution of this display require their own inquiry.
 
 **Forward OT1994 dependencies:** Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29, chunk 8). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
 
@@ -344,18 +344,18 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-29. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-29. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Apply neutral forum access and private attribution to the particular record; an earlier Pinette decision does not automatically create merits findings or a vote here.
 
-- [Lamb's Chapel v. Center Moriches Union Free School District, 508 U.S. 384 (1993)](inherited/readings/OT1994-099.md#authority-1)
-- [Lee v. Weisman, 505 U.S. 577 (1992)](inherited/readings/OT1994-099.md#authority-2)
-- [Lee v. Weisman, 505 U.S. 577 (1992)](inherited/readings/OT1994-099.md#authority-3)
-- [Zobrest v. Catalina Foothills School District, 509 U.S. 1 (1993)](inherited/readings/OT1994-099.md#authority-4)
+- [Lamb's Chapel v. Center Moriches Union Free School District, 508 U.S. 384 (1993)](../../../state/HOLDINGS.md#lambs-chapel-v-center-moriches-union-free-school-district-508-us-384-1993)
+- [Lee v. Weisman, 505 U.S. 577 (1992)](../../../state/HOLDINGS.md#lee-v-weisman-505-us-577-1992)
+- [Lee v. Weisman, 505 U.S. 577 (1992)](../../../state/HOLDINGS.md#lee-v-weisman-505-us-577-1992-1)
+- [Zobrest v. Catalina Foothills School District, 509 U.S. 1 (1993)](../../../state/HOLDINGS.md#zobrest-v-catalina-foothills-school-district-509-us-1-1993)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
-**OT1993 refresh points:** Kiryas Joel. No outcome or proposed rule from these unfinished source events is adopted here.
+**Completed OT1993 authority:** [Kiryas Joel (June 27, 1994)](../../../state/HOLDINGS.md#the-state-may-not-select-a-denomination-as-the-recipient-of-general-governmental-authority) forbids deliberate allocation of general governmental authority to a community selected by denomination, including through elected lay officials. Independently, its anomalously particular grant without neutral terms assuring comparable treatment violates religious neutrality. Accommodation does not cure those defects; religious concentration alone is insufficient, neutral accommodation remains permissible, and Lemon remains governing law. That governmental-allocation holding does not itself supply the attribution rule for a private display or establish any still-prospective Pinette holding.
 
 **Forward OT1994 dependencies:** Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29, chunk 8); Capitol Square Review and Advisory Board v. Pinette (1995-06-29, chunk 9). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
 
@@ -370,7 +370,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ### Issue 2: Establishment Clause attribution
 
-- **Other Governing Law:** Establishment Clause; Board of Education of Kiryas Joel Village School District v. Grumet; County of Allegheny v. ACLU; Widmar; Pinette.
+- **Other Governing Law:** Establishment Clause; County of Allegheny v. ACLU; Widmar. Simulated Kiryas Joel supplies the distinct governmental-allocation limits stated above; Pinette remains a conditional same-term dependency.
 - **Other Authority Used:** Attribution turns on the forum’s character, neutral access rules, ownership and sponsorship of the display, government control, and contextual measures that make private authorship clear.
 <!-- END_SECTION I -->
 

@@ -33,15 +33,15 @@
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-21. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-02-21. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Brecht supplies the simulated habeas harmlessness standard and its limits; allocation of genuinely unresolved equipoise is the present question.
 
-- [Brecht v. Abrahamson, 507 U.S. 619 (1993)](inherited/readings/OT1994-025.md#authority-1)
+- [Brecht v. Abrahamson, 507 U.S. 619 (1993)](../../../state/HOLDINGS.md#brecht-v-abrahamson-507-us-619-1993)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
-**OT1993 refresh points:** McFarland, Heck. No outcome or proposed rule from these unfinished source events is adopted here.
+**Completed OT1993 authority:** [McFarland v. Scott (June 30, 1994)](../../../state/HOLDINGS.md#qualified-capital-counsel-may-be-appointed-before-the-merits-application) permits appointment of qualified counsel for a financially unable capital prisoner seeking federal §2254 or §2255 relief before the merits application. That statutory preparation proceeding satisfies §2251 pendency and supplies §2283’s express exception; a stay remains an individualized discretionary decision allowing reasonable preparation, not an automatic or indefinite entitlement. [Heck v. Humphrey (June 24, 1994)](../../../state/HOLDINGS.md#necessary-invalidity-on-the-present-in-custody-record) holds, for the in-custody claimant with a real opportunity to use habeas, that a §1983 damages claim necessarily invalidating the conviction or sentence is not cognizable and does not accrue until qualifying reversal on appeal, executive expungement, authorized state-court invalidation, or a federal writ. Independent injuries not necessarily invalidating custody remain distinct; former prisoners and persons lacking a real habeas opportunity are reserved. Neither allocates grave doubt under Brecht’s constitutional-trial-error harmlessness inquiry.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -117,13 +117,13 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-22. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-02-22. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Use the controlling parts of fractured Waters within their actual scope; a disciplinary fact-investigation ruling does not itself sustain a prospective honoraria ban.
 
-- [Waters v. Churchill; No.92-1450; 511 U.S.661.](inherited/readings/OT1994-026.md#authority-1)
+- [Waters v. Churchill; No.92-1450; 511 U.S.661.](../../../state/HOLDINGS.md#waters-v-churchill-511-us-661)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -199,17 +199,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-22. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-02-22. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Capital eligibility, selection reliability, jury advice and judicial sentencing are separate issues. Do not attribute every prior capital proposition to a single undifferentiated rationale.
 
-- [Espinosa v. Florida, 505 U.S. 1079 (1992)](inherited/readings/OT1994-027.md#authority-1)
-- [Stringer v. Black, 503 U.S. 222 (1992)](inherited/readings/OT1994-027.md#authority-2)
-- [Romano v. Oklahoma, No. 92-9093; 512 U.S. 1 (1994).](inherited/readings/OT1994-027.md#authority-3)
+- [Espinosa v. Florida, 505 U.S. 1079 (1992)](../../../state/HOLDINGS.md#espinosa-v-florida-505-us-1079-1992)
+- [Stringer v. Black, 503 U.S. 222 (1992)](../../../state/HOLDINGS.md#stringer-v-black-503-us-222-1992)
+- [Romano v. Oklahoma, No. 92-9093; 512 U.S. 1 (1994).](../../../state/HOLDINGS.md#romano-v-oklahoma-512-us-1)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
-**OT1993 refresh points:** Simmons, Tuilaepa. No outcome or proposed rule from these unfinished source events is adopted here.
+**Completed OT1993 authority:** [Simmons v. South Carolina (June 17, 1994)](../../../state/HOLDINGS.md#parole-ineligibility-must-be-available-to-answer-the-states-future-danger-case) requires an effective, accurate opportunity through defense argument or instruction to explain parole ineligibility when the State relies on future dangerousness and the only alternative to death is life without parole. It prescribes no fixed script; the error there was not harmless under Chapman on that record. [Tuilaepa v. California / Proctor v. California (June 30, 1994)](../../../state/HOLDINGS.md#relevant-individualized-selection-does-not-require-fixed-labels-or-numerical-weights) permits relevant individualized capital selection after lawful eligibility without fixed numerical weights or mandatory aggravating/mitigating labels for every factor. Crime circumstances, violent criminal activity, and age retain the decision’s contextual limits; irrelevant or constitutionally forbidden considerations are not authorized. Neither decides what reasons a judge must give for overriding a jury’s life recommendation; eligibility, jury responsibility, and selection remain separate.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -345,14 +345,14 @@ The work occurred in 1991 and the flooding in April 1992. The Seventh Circuit de
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-22. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
+**Event cutoff:** Immediately before 1995-02-22. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** *Gizoni* is controlling simulated law on maritime worker status and demonstrates that occupational labels do not substitute for the governing maritime test. *McDermott* is controlling simulated maritime common law on settlement allocation. Neither decision changes the *Sisson* location-and-connection framework for admiralty tort jurisdiction; they instead reinforce the need to keep status, liability, allocation, and jurisdiction in their separate doctrines.
 
 - [Southwest Marine, Inc. v. Gizoni — maritime status and factual connection](../../OT1991/records/Southwest_Marine_v_Gizoni_merits_1991-12-04.md)
 - [McDermott, Inc. v. AmClyde — proportionate-share maritime settlement rule](../../OT1993/records/McDermott_Inc_v_AmClyde_merits_1994-04-20.md)
 
-**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
+**Reusable rules and source limits:** The completed OT1993 trackers are the base state. The underlying OT1993 Decision Records support that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
@@ -446,7 +446,7 @@ The Court may resolve the jurisdictional framework and its application at this s
 - 28 U.S.C. § 1333; 46 U.S.C. App. §§ 183, 740, historical text: jurisdiction and distinct limitation remedy.
 - Executive Jet, 409 U.S. 249; Foremost, 457 U.S. 668; Sisson, 497 U.S. 358; Gutierrez, 373 U.S. 206: date-eligible locality and maritime-connection framework.
 
-- **Simulation source boundary:** The coordinated current-simulation sources and validated record supplements identified in the load manifest govern within their actual cutoff and scope. Source chronology and remaining limits are specified in this packet.
+- **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
 <!-- BEGIN_SECTION II -->
@@ -458,7 +458,7 @@ The Court may resolve the jurisdictional framework and its application at this s
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
 - **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
-- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
+- **Current-Through Baseline:** The completed OT1993 [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md), incorporating all 95 matters through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** The completed simulated maritime cases do not supply a different admiralty-jurisdiction test. The proposed Grubart disposition therefore remains an application of the surviving Sisson/Extension Act framework, with Gizoni and McDermott used only for their actual maritime propositions.
 
@@ -642,7 +642,7 @@ The district court issued preliminary relief in 1993; the Ninth Circuit affirmed
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-22. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
+**Event cutoff:** Immediately before 1995-02-22. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** The simulated *Church of Scientology* decision establishes that a case is not moot merely because complete restoration is impossible when meaningful partial relief remains available. *Izumi* supplies question-presentation and party-status rules but deliberately leaves settlement vacatur undecided. Here the required federal waiver for California's challenged program has been set aside, so the court must ask whether there is any presently operative program or meaningful relief to adjudicate before reaching the constitutional merits.
 
@@ -651,7 +651,7 @@ The district court issued preliminary relief in 1993; the Ninth Circuit affirmed
 
 **Prospective same-term dependency:** *U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership* is scheduled earlier in OT1994 and could bear on vacatur if an actual simulated Decision Record is entered before this event. No such OT1994 Record exists at this refresh, so Bancorp's brief or proposed Stone position is not current law.
 
-**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
+**Reusable rules and source limits:** The completed OT1993 trackers are the base state. The underlying OT1993 Decision Records support that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
@@ -745,7 +745,7 @@ The threshold disposition may be prepared on the described absence of authorizat
 - Beno v. Shalala, 30 F.3d 1057, 1073–1076 (9th Cir. 1994): intervening disposition of the federal waiver; independent case, not Supreme Court merits precedent.
 - Cal. Welf. & Inst. Code § 11450.03; 42 U.S.C. § 1315; Abbott Laboratories, 387 U.S. 136; Munsingwear, 340 U.S. 36: authorization requirement and date-eligible justiciability/remedy rules.
 
-- **Simulation source boundary:** The coordinated current-simulation sources and validated record supplements identified in the load manifest govern within their actual cutoff and scope. Source chronology and remaining limits are specified in this packet.
+- **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
 <!-- BEGIN_SECTION II -->
@@ -759,7 +759,7 @@ The threshold disposition may be prepared on the described absence of authorizat
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
 - **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
-- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
+- **Current-Through Baseline:** The completed OT1993 [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md), incorporating all 95 matters through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** The current simulated mootness law requires a real inquiry into remaining relief, not automatic dismissal. The loss of the federal waiver is nevertheless materially different from the retained-copy situation in Church of Scientology. Bancorp remains a prospective dependency only and cannot be imported from its preparation file.
 
@@ -880,14 +880,14 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-02-28. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-02-28. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** The simulated Central Bank liability rule and contribution doctrine concern § 10(b); neither automatically expands the text of § 12(2).
 
-- [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.; No. 92-854; 511 U.S. 164 (1994).](inherited/readings/OT1994-030.md#authority-1)
-- [Musick, Peeler & Garrett v. Employers Insurance of Wausau, 508 U.S. 286 (1993)](inherited/readings/OT1994-030.md#authority-2)
+- [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.; No. 92-854; 511 U.S. 164 (1994).](../../../state/HOLDINGS.md#central-bank-of-denver-na-v-first-interstate-bank-of-denver-na-511-us-164)
+- [Musick, Peeler & Garrett v. Employers Insurance of Wausau, 508 U.S. 286 (1993)](../../../state/HOLDINGS.md#musick-peeler--garrett-v-employers-insurance-of-wausau-508-us-286-1993)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -963,15 +963,15 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-01. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-01. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Review authority and the exclusionary remedy require separate analysis; the alleged record error is not itself a finding about the state judgment's legal basis.
 
-- [Sochor v. Florida, 504 U.S. 527 (1992)](inherited/readings/OT1994-031.md#authority-1)
-- [Sochor v. Florida, 504 U.S. 527 (1992)](inherited/readings/OT1994-031.md#authority-2)
-- [Tennessee v. Middlebrooks; No. 92-989.](inherited/readings/OT1994-031.md#authority-3)
+- [Sochor v. Florida, 504 U.S. 527 (1992)](../../../state/HOLDINGS.md#sochor-v-florida-504-us-527-1992)
+- [Sochor v. Florida, 504 U.S. 527 (1992)](../../../state/HOLDINGS.md#sochor-v-florida-504-us-527-1992-1)
+- [Tennessee v. Middlebrooks; No. 92-989.](../../../state/HOLDINGS.md#tennessee-v-middlebrooks)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -1060,13 +1060,13 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-01. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-01. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** The collateral-order exception is narrow; separate review of an official's immunity does not automatically supply pendent jurisdiction over the county.
 
-- [Digital Equipment Corp. v. Desktop Direct, Inc.; No. 93-405.](inherited/readings/OT1994-032.md#authority-1)
+- [Digital Equipment Corp. v. Desktop Direct, Inc.; No. 93-405.](../../../state/HOLDINGS.md#digital-equipment-corp-v-desktop-direct-inc-511-us-863)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -1142,13 +1142,13 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-06. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-06. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** The cited enacted provisions and surviving pre-divergence precedents govern at their actual scope. No directly controlling new simulated rule is assumed for this question.
 
 **Selected simulated authority:** No direct case-specific rule is identified in the verified sources; the statutory and surviving pre-divergence authorities below remain available.
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
 **Forward OT1994 dependencies:** Allied-Bruce Terminix Cos. v. Dobson (1995-01-18, chunk 2). Load only an actually completed, already effective simulated decision. These links specify issues to revalidate, not the result, holding, vote or Stone position of any earlier event.
 
@@ -1286,14 +1286,14 @@ The amendment and facility closure occurred in 1983. The Third Circuit’s opera
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-06. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
+**Event cutoff:** Immediately before 1995-03-06. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Simulated *Mertens* keeps ERISA remedy questions tied to the remedies Congress enacted. Simulated *John Hancock* later separates plan-asset status, fiduciary function, breach, and remedy and rejects a categorical agency shortcut. Neither case decides who may amend a plan. Section 402(b)(3), the written plan, and ordinary corporate authorization therefore control the amendment-procedure question.
 
 - [Mertens v. Hewitt Associates — ERISA remedial categories](../../OT1992/records/mertens_merits_1993-06-01.md)
 - [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — component-specific ERISA status and fiduciary function](../../OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md)
 
-**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
+**Reusable rules and source limits:** The completed OT1993 trackers are the base state. The underlying OT1993 Decision Records support that state and control within their actual holdings and limits. Historical post-divergence outcomes, proposed Stone positions, and same-term file order do not become law. At this refresh, no OT1994 Decision Record exists; any earlier-OT1994 dependency is therefore prospective unless an actual dated record is later created before this event.
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
@@ -1423,7 +1423,7 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 - 29 U.S.C. §§ 1002(9), 1102(b)(3), 1022, 1024, 1104(a)(1)(D), applicable historical text: definition, amendment, disclosure, and administration provisions.
 - Shaw v. Delta Air Lines, Inc., 463 U.S. 85 (1983): welfare-plan distinction, not an exemption from actually following plan procedures.
 
-- **Simulation source boundary:** The coordinated current-simulation sources and validated record supplements identified in the load manifest govern within their actual cutoff and scope. Source chronology and remaining limits are specified in this packet.
+- **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
 <!-- BEGIN_SECTION II -->
@@ -1435,7 +1435,7 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
 - **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
-- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
+- **Current-Through Baseline:** The completed OT1993 [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md), incorporating all 95 matters through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** The completed simulated ERISA cases reinforce source separation but do not impose a new amendment-procedure formula. The proposed Curtiss-Wright result remains a statutory §402(b)(3) interpretation, and actual corporate authorization of the particular amendment remains a separate remand question.
 
@@ -1567,16 +1567,16 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-06. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-06. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
-**Authority and application:** Read the operative regulation and statute independently within the inherited holdings' scope; an earlier agency case does not supply an unbounded deference rule.
+**Authority and application:** The statute defines the agency’s authority; its interpretation of its own regulation receives the qualified controlling weight stated in Thomas Jefferson University. That rule and the legal status of the manual must be addressed separately from statutory interpretation.
 
-- [Good Samaritan Hospital v. Shalala, 508 U.S. 402 (1993)](inherited/readings/OT1994-035.md#authority-1)
-- [Lincoln v. Vigil, 508 U.S. 182 (1993)](inherited/readings/OT1994-035.md#authority-2)
+- [Good Samaritan Hospital v. Shalala, 508 U.S. 402 (1993)](../../../state/HOLDINGS.md#good-samaritan-hospital-v-shalala-508-us-402-1993)
+- [Lincoln v. Vigil, 508 U.S. 182 (1993)](../../../state/HOLDINGS.md#lincoln-v-vigil-508-us-182-1993)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
-**OT1993 refresh points:** Thomas Jefferson University, MCI. No outcome or proposed rule from these unfinished source events is adopted here.
+**Completed OT1993 authority:** [Thomas Jefferson University v. Shalala (June 24, 1994)](../../../state/HOLDINGS.md#the-redistribution-provision-reasonably-limits-newly-shifted-educational-costs) gives an agency's interpretation of its own regulation controlling weight unless plainly erroneous or inconsistent with the regulation, and sustains the application of Medicare's anti-redistribution rule to previously borne educational costs. It does not make every agency statutory interpretation or informal manual independently controlling. [MCI Telecommunications Corp. v. AT&T (June 17, 1994)](../../../state/HOLDINGS.md#the-modification-power-does-not-permit-this-replacement-of-mandatory-filing) holds that §203(b)(2) permits modification of tariff requirements within the enacted scheme, not replacement of mandatory filing with optional filing for the nondominant-carrier class. Expertise and deference cannot supply the missing statutory authority; the decision does not abolish agency deference generally. Guernsey’s accounting regulation and manual must be assessed under their own text and legal status; the anti-redistribution application does not decide the advance-refunding question.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
@@ -1652,19 +1652,19 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-20. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-20. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
 **Authority and application:** Ladue concerns elimination of a distinct medium; Lucas and Alexander do not resolve every land-use or amortization claim. Apply the bench-trial record and correct standard of review.
 
-- [City of Ladue v. Gilleo, No. 92-1856; October Term 1993.](inherited/readings/OT1994-036.md#authority-1)
-- [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)](inherited/readings/OT1994-036.md#authority-2)
-- [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)](inherited/readings/OT1994-036.md#authority-3)
-- [Alexander v. United States](inherited/readings/OT1994-036.md#authority-4)
-- [Alexander v. United States](inherited/readings/OT1994-036.md#authority-5)
+- [City of Ladue v. Gilleo, No. 92-1856; October Term 1993.](../../../state/HOLDINGS.md#city-of-ladue-v-gilleo-512-us-43)
+- [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)](../../../state/HOLDINGS.md#lucas-v-south-carolina-coastal-council-505-us-1003-1992)
+- [Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)](../../../state/HOLDINGS.md#lucas-v-south-carolina-coastal-council-505-us-1003-1992-1)
+- [Alexander v. United States](../../../state/HOLDINGS.md#alexander-v-united-states)
+- [Alexander v. United States](../../../state/HOLDINGS.md#alexander-v-united-states-1)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** Read the linked operative holdings with [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md); record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
 
-**OT1993 refresh points:** Turner Broadcasting. No outcome or proposed rule from these unfinished source events is adopted here.
+**Completed OT1993 authority:** [Turner Broadcasting (June 27, 1994)](../../../state/HOLDINGS.md#content-classification-depends-on-what-the-law-selects-and-why) requires attention to what a law selects and why; a benign stated purpose does not alone make a content-based selection neutral. Its general full-power carriage rules receive intermediate scrutiny requiring advancement of a substantial interest without burdening substantially more speech than necessary, not least-restrictive-means review. Legislative predictions receive substantial deference but must rest on substantial evidence and remain subject to independent judicial review. The Court vacated and remanded without finally sustaining the rules; no single controlling evidentiary-sufficiency rationale is inferred from the fractured remand. Renton’s secondary-effects rule still requires its own application to the zoning record; Turner supplies no finding about this ordinance or its alternative sites.
 
 **Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
 
