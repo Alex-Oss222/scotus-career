@@ -93,17 +93,16 @@ The court below issued its mixed disposition on October 29, 1993. The present Su
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-21. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-21. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Article III injury and the Director's statutory entitlement to seek review must not be conflated.
+**Authority and application:** *Lujan* supplies Article III injury principles, but Article III injury and the Director's statutory entitlement to seek review are separate. The later simulated *Greenwich Collieries* decision places persuasion on the proponent under the APA absent an applicable statutory exception, while preserving distinct statutory presumptions. It does not confer appellate aggrievement on the Director and therefore cannot substitute for § 921(c)'s review language.
 
-- [Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)](inherited/readings/OT1994-037.md#authority-1)
+- [Lujan v. Defenders of Wildlife — Article III standing](../../OT1991/records/Lujan_v_Defenders_of_Wildlife_merits_1992-06-12.md)
+- [Director, OWCP v. Greenwich Collieries — APA persuasion and statutory presumptions](../../OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -202,10 +201,13 @@ Determine only the Director’s review entitlement on the identified component. 
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** Greenwich Collieries is now effective same-field simulated law, but its burden-of-proof holding does not answer whether the Director is "adversely affected or aggrieved." The proposed Newport News result must rest on §921(c) and the Director's own legally cognizable interest, not a generalized agency-enforcement theory.
 
 ## B. FIXED CORE
 
@@ -237,7 +239,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Director’s entitlement to independent appellate review
 
 - **Threshold and Merits Reach:** Stone reaches only the Director’s statutory entitlement to this review. He does not reach benefits merits after finding that entitlement absent.
-- **Current Governing Rule:** Section 921(c) requires adverse effect or aggrievement; administrative participation and general statutory supervision are distinct from a personal, financial, or otherwise statutorily assigned review interest.
+- **Current Governing Rule:** Section 921(c) requires statutory aggrievement for appellate review. Article III injury and the Director's administrative responsibilities do not themselves create that entitlement; simulated *Greenwich Collieries* governs persuasion in covered adjudication but creates no Director-specific review right.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** The Director’s general interest in correct administration does not by itself make him adversely affected or aggrieved under § 921(c) with respect to this claimant’s unappealed benefits award. Affirm that reviewed dismissal, without disturbing the distinct Special Fund component.
 - **Essential Reasoning:** The statute gives review to a party whose cognizable interest is adversely affected. The Director identifies the employee’s compensation entitlement, but the Act’s assistance provisions do not transfer that entitlement to the Director. A narrow statutory answer is sufficient; no universal constitutional bar to agency litigation is necessary.
@@ -389,18 +391,15 @@ The Ninth Circuit decided the appeal December 1, 1993. The Secretary’s March 1
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-03-22. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-03-22. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The enacted benefit and enforcement provisions control; no unproved family support may be treated as an established fact.
+**Authority and application:** Simulated *Suter* is provision-specific: it rejects the asserted individual §1983 reasonable-efforts right under the Adoption Assistance Act and does not create a general rule about the substantive meaning of federal benefit provisions. The AFDC assistance-unit question therefore turns on the enacted AFDC text, valid regulations, and the actual treatment of applicants and income, not on a free-floating enforcement principle.
 
-- [Suter v. Artist M., 503 U.S. 347 (1992)](inherited/readings/OT1994-038.md#authority-1)
-- [Suter v. Artist M., 503 U.S. 347 (1992)](inherited/readings/OT1994-038.md#authority-2)
+- [Suter v. Artist M. — provision-specific federal-right and enforcement holding](../../OT1991/records/Suter_v_Artist_M_merits_1992-03-25.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -538,10 +537,13 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The prior brief duplicated Suter and risked making an enforcement-channel case do substantive AFDC work it does not own. The refreshed brief uses Suter only for source separation; the proposed Anderson v. Edwards result remains a construction of the AFDC unit rules themselves.
 
 ## B. FIXED CORE
 
@@ -1094,17 +1096,15 @@ The 1990 petition invokes the earlier Table. The Federal Circuit ruled February 
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-04-18. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-04-18. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** General expert-evidence law does not replace the Vaccine Act's specific Table and aggravation burdens.
+**Authority and application:** Simulated *Daubert* governs Rule 702 reliability and fit through a flexible, nonmechanical gatekeeping inquiry. It does not replace the Vaccine Act's specific Table-onset, significant-aggravation, and alternative-cause rules or alter the burdens Congress attached to those statutory routes.
 
-- [Daubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993)](inherited/readings/OT1994-043.md#authority-1)
+- [Daubert v. Merrell Dow Pharmaceuticals — flexible reliability and fit under Rule 702](../../OT1992/records/Daubert_v_Merrell_Dow_Pharmaceuticals_merits_1993-06-28.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1240,10 +1240,13 @@ Correct the legal sequence and direct review on the existing statutory standards
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** Daubert is controlling simulated evidence law but does not supply a Vaccine Act causation test. The Whitecotton analysis must keep evidentiary admissibility separate from the statutory first-onset and significant-aggravation routes.
 
 ## B. FIXED CORE
 
@@ -1270,7 +1273,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: First onset and the Table predicate
 
 - **Threshold and Merits Reach:** Stone reaches this issue within the admitted review scope, subject to the specific threshold and preservation treatment in Section I.C. He does not treat a merits answer as supplying jurisdiction or a missing factual finding.
-- **Current Governing Rule:** Section 300aa-11(c)(1)(C)(i) requires first symptoms or manifestations of the injury within the Table interval for the onset route. Section 300aa-13’s Government burden follows, rather than replaces, that predicate.
+- **Current Governing Rule:** The Vaccine Act's own Table-onset and significant-aggravation provisions allocate the statutory routes and burdens. Simulated *Daubert* governs admissibility of expert proof where needed but does not alter those statutory predicates.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** A first-onset Table claim requires the first symptom or manifestation of the claimed injury within the applicable period. A later symptom of an injury already present does not satisfy that route. The Federal Circuit’s contrary construction must be reversed, without deciding whether its challenged preexisting-injury finding is factually sustainable.
 - **Essential Reasoning:** The statute establishes a sequence, not a single undifferentiated causation burden. Requiring the statutory onset predicate preserves the Table’s operation while preventing every later manifestation of an existing condition from triggering it. It does not impose a new burden to prove actual vaccine causation.
