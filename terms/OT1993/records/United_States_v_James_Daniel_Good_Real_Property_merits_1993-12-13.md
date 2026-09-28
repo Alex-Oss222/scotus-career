@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. James Daniel Good Real Property, No. 92-1180
 **Event and date:** Merits decision, 1993-12-13 (October Term 1993).
 **Result:** Affirmed in part (pre-seizure process, 6–3), reversed in part (statutory timing, 9–0), and remanded.
-**Version / lineage:** Initial record; no superseded adjudication. Operator Git verification and commitment pending under the Run instruction.
+**Version / lineage:** Version 1.1, September 28, 2026; user-authorized correction of Close Re-audit finding R01. Replaces the initial Record preserved in commit 0e48013: states §1603(b)'s and §1604's operative triggering conditions and the Attorney General's Treasury-referral alternative in full, rather than an unqualified promptness summary. Judgment, coalition, reasoning, and remedy otherwise unchanged.
 
 ## Event, record, and entering law
 
@@ -34,7 +34,7 @@ Stone assigns both portions because he is in each component majority. Kennedy is
 
 ### Mandatory administrative promptness does not supply an unstated dismissal sanction
 
-**Controlling proposition:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers, §1603 requires prompt reporting to the United States attorney, and §1604 requires proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears; these remain mandatory duties, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
+**Controlling proposition:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers; §1603(b) requires prompt reporting to the United States attorney when the specified seizure or discovery requires proceedings by that office; and §1604, for recovery requiring district-court or Court of International Trade proceedings, requires those proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears, subject to the Attorney General's preserved determination, after inquiry, that such proceedings probably cannot be sustained or that public justice does not require institution or prosecution, in which event the facts are instead reported to the Treasury Secretary for direction. These remain mandatory duties within their stated conditions, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
 
 **Authority:** Kennedy's opinion for the Court, Statutory timing portion, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, and Ginsburg. All nine adopt this construction and reversal of the contrary ground below.
 
@@ -137,7 +137,7 @@ The judgment is affirmed in part, reversed in part, and remanded. The timely for
 
 ### Mandatory administrative promptness does not supply an unstated dismissal sanction
 
-**Controlling proposition:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers, §1603 requires prompt reporting to the United States attorney, and §1604 requires proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears; these remain mandatory duties, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
+**Controlling proposition:** Noncompliance with the distinct reporting and commencement duties in 19 U.S.C. §§1602–1604 does not require dismissal of a forfeiture action filed within §1621's five-year limitations period. Section 1602 requires immediate reporting by customs agents to customs officers; §1603(b) requires prompt reporting to the United States attorney when the specified seizure or discovery requires proceedings by that office; and §1604, for recovery requiring district-court or Court of International Trade proceedings, requires those proceedings to be commenced forthwith when the prescribed probable basis for a fine, penalty, or forfeiture appears, subject to the Attorney General's preserved determination, after inquiry, that such proceedings probably cannot be sustained or that public justice does not require institution or prosecution, in which event the facts are instead reported to the Treasury Secretary for direction. These remain mandatory duties within their stated conditions, and the ruling does not extinguish an independently supported constitutional-delay claim or other source-authorized relief.
 
 **Authority:** Kennedy's opinion for the Court, Statutory timing portion, joined by Stone, Blackmun, Stevens, O'Connor, Scalia, Souter, Thomas, and Ginsburg. All nine adopt this construction and reversal of the contrary ground below.
 

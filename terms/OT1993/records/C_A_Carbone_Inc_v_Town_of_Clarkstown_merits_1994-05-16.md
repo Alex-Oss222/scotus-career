@@ -40,7 +40,7 @@ No postreconciliation non-Stone commitment changes. An additional clean circulat
 
 The historical comparator had five discrimination associates, O'Connor's Pike concurrence, and Souter/Blackmun affirmance alongside historical Rehnquist. Those eight associate positions remain. Stone's approved reversal and discrimination join changes the historical 6–3 judgment to 7–2 and gives the discrimination opinion six votes; Rehnquist supplies no simulated seat or vote. The change is Stone's approved choice, not an inferred non-Stone departure. The explicit public-system reservation narrows the opinion to the adopted record without resolving future systems; each Court joiner accepts it under the reconciled limits. No Historical departure line for a non-Stone Justice is warranted.
 
-**Historical departure:** Stone's approved ground that compulsory routing reserves a private processing-service market, unlike historical Rehnquist's municipal-service affirmance, produces a 7?2 reversing judgment and a six-Justice controlling discrimination coalition; every associate's reconciled vote remains unchanged from history.
+**Historical departure:** Stone's approved ground that compulsory routing reserves a private processing-service market, unlike historical Rehnquist's municipal-service affirmance, produces a 7–2 reversing judgment and a six-Justice controlling discrimination coalition; every associate's reconciled vote remains unchanged from history.
 
 ## Decision kernel: judgment, authority, remedy and continuity
 
