@@ -855,13 +855,3 @@ Ginsburg separately dissents. She also would reverse the invalidity ground and r
 The Third Circuit judgment and Kmart's summary judgment stand. The Court orders no further calculation, substituted tariff, agency referral, or bankruptcy distribution. It does not decide contract carriage, rate reasonableness, estoppel, collateral estoppel, or unpresented statutory relief. The waived limitations defense and unpreserved reasonable-compensation theory are not revived. No election or remedy under the Negotiated Rates Act is adjudicated. Thomas and Ginsburg would remand after rejecting invalidity, leaving other properly presented defenses for further proceedings rather than immediately awarding undercharges.
 
 **End of entry: Security Services, Inc. v. Kmart Corp., Merits decision, May 16, 1994.**
-
----
-
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Day v. Day | Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline. |
-| In re Sassower | Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition. |
-| Cavanaugh v. Roller | Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered. |

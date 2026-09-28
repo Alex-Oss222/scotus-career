@@ -2,11 +2,6 @@
 
 **October Term:** 1993. **Completed events:** 12. **Chronological range:** 1994-04-20 through 1994-05-16.
 
-**Stopped matters:**
-- Day v. Day: Current fee motions only: the eight current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. Non-Stone fee dispositions remain unresolved. The separate prospective-control refusal does not decide any fee motion, underlying petition, or payment deadline.
-- In re Sassower: Current fee motions only: the ten current petitions and supporting financial affidavits, or verified contents sufficient for docket-specific eligibility and Rule 39.8 screening, have not been recovered. No. 93-5252 has seven participants; the other nine motions have nine. The separate prospective-control refusal does not decide any fee motion or underlying petition.
-- Cavanaugh v. Roller: Renewed Stone approval is required under Engine section 4 after recovery of Griffin, Act No. 184's January 1, 1994 change and savings provision, and the November 8 hearing-status representations. These could affect the approved merits reach and prospective remedy; the existing interim-review remand branch does not cover them. A concrete reaffirmation has been presented, but no answer or revised position has been received. No Court disposition is entered.
-
 <!-- source-record: Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md -->
 ## Event
 
