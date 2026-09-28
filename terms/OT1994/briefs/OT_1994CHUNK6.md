@@ -808,18 +808,15 @@ The 1945 decree was modified in 1953 and interpreted in the simulated April 20, 
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-05-30. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-05-30. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The completed simulated 1993 Nebraska ruling, not the historical opinion treated as pre-divergence law, supplies the operative continuing decree and modification boundaries.
+**Authority and application:** This is the same original action governed by the simulated April 20, 1993 *Nebraska v. Wyoming* decision. That decision holds, unanimously, that enforcement of an established decree right requires no new injury showing, while a new allocation or modification requires clear and convincing evidence of real and substantial injury. It also treats Rule 56 standards as guided by the substantive burden. An eight-Justice alternative holding relied on postdecree acquiescence for the Inland Lakes priority; Stone did not join that alternative and relied only on the decree-and-record ground. The present brief must preserve that join boundary.
 
-- [Nebraska v. Wyoming, 507 U.S. 584 (1993)](inherited/readings/OT1994-068.md#authority-1)
-- [Nebraska v. Wyoming, 507 U.S. 584 (1993)](inherited/readings/OT1994-068.md#authority-2)
+- [Nebraska v. Wyoming — April 20, 1993 partial-summary-judgment Decision Record](../../OT1992/records/nebraska_partial_summary_judgment_1993-04-20.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1102,12 +1099,18 @@ The Court may define the permissible litigation and refer factual questions. It 
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The 1993 Nebraska record is controlling law within this same original action. The proposed 1995 position must apply its enforcement/modification distinction and clear-and-convincing substantial-injury burden. Stone may not be treated as having adopted the separate postdecree-acquiescence rationale he expressly declined to join.
 
 ## B. FIXED CORE
+
+**Controlling prior decision in this original action:** The April 20, 1993 simulated judgment requires clear and convincing evidence of real and substantial injury for modification and no fresh injury showing for enforcement of an established decree right. Stone joined the decree-and-record Inland Lakes ground but not the separate postdecree-acquiescence alternative. This position preserves that boundary.
+
 
 ### Overall fixed core
 
@@ -1132,7 +1135,7 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Wyoming’s beneficial-use ceiling
 
 - **Threshold and Merits Reach:** Stone reaches this issue within the admitted review scope, subject to the specific threshold and preservation treatment in Section I.C. He does not treat a merits answer as supplying jurisdiction or a missing factual finding.
-- **Current Governing Rule:** The decree and 1993 interpretation reject conversion of historical canal requirements into an overall diversion cap. Actual violations of geographic limits and Paragraph IV priorities remain distinct.
+- **Current Governing Rule:** The April 20, 1993 simulated Nebraska decision controls this same action: enforcement of established decree rights needs no new injury proof; new allocation or modification requires clear and convincing evidence of real and substantial injury. The separate acquiescence rationale does not state Stone's prior position.
 - **Stone’s Legal Position:** Apply and clarify the governing sources on the question presented.
 - **Stone’s Proposed Holding:** Reject Wyoming’s proposed beneficial-use ceiling as a relitigation of the settled allocation, while preserving discrete claims of violations of the decree’s geography or priorities and relevant defensive evidence not dependent on that ceiling.
 - **Essential Reasoning:** Continuing jurisdiction permits correction for changed conditions, not an opportunity to reargue an old allocation without the required basis. The narrower enforcement questions do not logically depend on adopting a new cap.
@@ -1347,17 +1350,15 @@ The layoffs occurred in 1991; the lower courts’ limitations rulings occurred i
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-05-30. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-05-30. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** The cited enacted provisions and surviving pre-divergence precedents govern at their actual scope. No directly controlling new simulated rule is assumed for this question.
+**Authority and application:** No validated simulated Supreme Court holding through OT1993 supplies a WARN-specific limitations period or displaces the ordinary limitations-borrowing framework applicable to this question. The enacted WARN cause of action and surviving pre-divergence borrowing precedents therefore do the substantive work. Later simulated labor cases may illuminate source separation but do not create a six-month WARN period.
 
-**Selected simulated authority:** No direct case-specific rule is identified in the verified sources; the statutory and surviving pre-divergence authorities below remain available.
+**Selected simulated authority:** No direct case-specific simulated rule is identified through June 30, 1994. This absence is substantive: do not manufacture a same-term or labor-field rule merely because the claim concerns employment.
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1457,10 +1458,13 @@ The consolidated limitations issue may be resolved. No additional Crown Cork bri
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The simulation audit found no prior controlling WARN limitations rule. The proposed use of an analogous state period therefore remains an ordinary federal borrowing analysis rather than a simulation-specific doctrinal development.
 
 ## B. FIXED CORE
 
@@ -1838,19 +1842,17 @@ Arrest April 23, 1991; plea June 18; restrictive release June 25; sentence Octob
 
 ## Entering law and event dependencies
 
-**Event cutoff:** Immediately before 1995-06-05. Use the coordinated current-simulation OT1991–OT1992 state through July 26, 1993, supplemented by validated OT1993 records available through June 13, 1994. OT1993 completion refresh is deferred under the user’s instruction; this preparation does not certify a completed OT1993 opening state.
+**Event cutoff:** Immediately before 1995-06-05. Use the OT1991–OT1992 term-opening trackers together with every validated OT1993 Canonical Decision Record effective through June 30, 1994.
 
-**Authority and application:** Wilson assigns initial sentence-credit calculation to the Attorney General and forbids double counting; it does not equate every restrictive release condition with official detention.
+**Authority and application:** Simulated *Wilson* controls the allocation of §3585(b) administration: BOP makes the initial credit calculation after sentence commencement, no time may be double counted, and lawful administrative and judicial review remain available. The later simulated *Thomas Jefferson University* decision sustains a particular agency construction but expressly creates no new general deference test. Simulated *MCI* confirms that agency interpretation and expertise cannot enlarge statutory authority beyond the enacted boundary. Neither later case decides the meaning of "official detention" or makes a BOP program statement independently controlling.
 
-- [United States v. Wilson, 503 U.S. 329 (1992)](inherited/readings/OT1994-072.md#authority-1)
+- [United States v. Wilson — BOP initial credit calculation and no double credit](../../OT1991/records/United_States_v_Wilson_merits_1992-03-24.md)
+- [Thomas Jefferson University v. Shalala — agency construction without a new general deference rule](../../OT1993/records/Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md)
+- [MCI Telecommunications Corp. v. AT&T — agency authority bounded by enacted text and structure](../../OT1993/records/MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md)
 
-**Reusable rules and source limits:** Read the linked operative holdings with `inherited/STANDARDS_AND_TESTS.md`; record supplements control only the propositions actually adopted. Preserve exceptions, fractures and judgment-only limits. Historical Supreme Court law after October 7, 1991 is not governing merely because it appears in a citation. A material conflict between the coordinated trackers and a validated record must be identified before deciding the affected issue.
+**Reusable rules and source limits:** The OT1991–OT1992 term-opening trackers remain the base state. Validated OT1993 Decision Records supplement that state and control within their actual holdings, coalitions, limits, and effective dates. Historical post-divergence outcomes, noncontrolling separate writings, proposed Stone positions, and file order do not create law. At this refresh, no OT1994 Decision Record exists.
 
-**OT1993 refresh points:** Thomas Jefferson University, MCI. No outcome or proposed rule from these unfinished source events is adopted here.
-
-**Earlier OT1994 law:** No completed OT1994 event is asserted by this preparation. Carry all actually effective relevant law across chunk boundaries.
-
-Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
+Uncoordinated same-day decisions share the same entering-law baseline.
 
 ## Other governing law
 
@@ -1949,10 +1951,13 @@ Statutory interpretation and the scope of necessary findings may be resolved; th
 
 ## A. APPROVAL AND SCOPE
 
+- **Version:** v2 — simulation-law audit refresh.
+
 - **Approval Status:** PROPOSED AND UNAPPROVED.
 - **Approval Date or Turn:** None. No approval is established.
-- **Current-Through Baseline:** Event-date law specified in Section I; final OT1993 completion refresh remains required.
+- **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
+- **Simulation-Law Audit:** The old "refresh points" for Thomas Jefferson University and MCI were stale: both cases are now completed simulated law. They reinforce source-bound statutory interpretation but do not dictate the official-detention answer. Wilson remains the controlling sentence-credit allocation case.
 
 ## B. FIXED CORE
 
@@ -1979,10 +1984,10 @@ These are proposed fixed inputs. Once expressly approved, assembly may not alter
 ### Issue 1: Official detention and the release label
 
 - **Threshold and Merits Reach:** Stone reaches statutory credit and the scope of remand. He does not revive the equal-protection claim expressly omitted on appeal.
-- **Current Governing Rule:** Section 3585(b) requires qualifying official detention without double credit. Wilson identifies the BOP as calculator, but the meaning of detention remains a legal question.
+- **Current Governing Rule:** Section 3585(b) requires qualifying official detention without double credit. Simulated *Wilson* assigns the initial computation to BOP and preserves review. Simulated *Thomas Jefferson University* and *MCI* do not create a general agency-deference rule or make an agency label conclusive of the statutory meaning of detention.
 - **Stone’s Legal Position:** Adopt the narrower actual-institutional-confinement construction supported by the statute and distinguish conditional liberty from incarceration. Reject the Government’s categorical status-only rule without creating a free-floating hardship test.
 - **Stone’s Proposed Holding:** Compulsory confinement in an institution under a court order can constitute official detention under § 3585(b) when it is equivalent to incarceration; a conditional-release label does not itself bar credit. Affirm the remand for findings on Koray’s actual conditions and the uncredited qualifying period.
-- **Essential Reasoning:** The credit provision concerns time officially taken from a defendant before service of the sentence. Its text does not say only detention committed to the Attorney General. A narrow distinction between compulsory institutional incarceration and ordinary liberty subject to conditions gives the term legal content without crediting every restrictive release.
+- **Essential Reasoning:** The credit provision concerns time officially taken from a defendant before service of the sentence. Its text does not say only custody committed to the Attorney General, while *Wilson* addresses who initially calculates credit rather than what "official detention" means. The later simulated agency cases require fidelity to the statute, not automatic acceptance of an administrative label. A narrow distinction between compulsory institutional incarceration and ordinary conditional liberty gives the term legal content without crediting every restrictive release.
 - **Record Application:** The order required residence and barred unaccompanied departure, but the district court did not determine the full conditions. Koray must establish the qualifying confinement and period through that inquiry; no automatic award of approximately 150 days is entered on allegations alone.
 - **Principal Contrary Argument:** The Bail Reform Act’s express categories create a substantial contextual argument and a conditions inquiry must remain bounded rather than becoming a comparison of every release inconvenience.
 - **Stone’s Answer:** Compulsory confinement in an institution under a court order can constitute official detention under § 3585(b) when it is equivalent to incarceration; a conditional-release label does not itself bar credit. Affirm the remand for findings on Koray’s actual conditions and the uncredited qualifying period. Ordinary home detention, curfew, work-release residence, or voluntary rehabilitation is not equated categorically with incarceration. No equal-protection adjudication, duplicate credit, or new sentencing authority is created.
