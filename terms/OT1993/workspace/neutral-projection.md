@@ -2054,7 +2054,7 @@ The quoted Hawaii whistleblower protection covers an employee's actual or impend
 
 #### The compact supplies federal law and a federal habeas question
 
-**Holding and operative rule:** The congressionally sanctioned Interstate Agreement on Detainers is federal law, and a state prisoner's claim that custody violates its trial-period provisions presents a federal statutory question within pre-AEDPA 28 U.S.C. §2254(a). Jurisdiction to consider that question does not itself establish entitlement to collateral relief.
+**Holding and operative rule:** The congressionally sanctioned Interstate Agreement on Detainers is federal law, and a state prisoner's claim that custody violates its trial-period provisions presents a federal statutory question within 28 U.S.C. §2254(a), as then in force. Jurisdiction to consider that question does not itself establish entitlement to collateral relief.
 
 **Authority:** Part I of Chief Justice Stone-Zsela's opinion, joined by Justices O'Connor, Scalia, Thomas and Ginsburg. These five Justices directly adopt the jurisdictional conclusion; the dissent also accepts the compact's federal character but does not join the opinion.
 

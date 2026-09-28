@@ -1785,7 +1785,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Present operation effective:** Posters ’N’ Things, Ltd. v. United States, 1994-05-23.
 
-**Exceptions and limits:** Section 857(f) excludes a person authorized by local, state or federal law to manufacture, possess or distribute such items, and an item sold in the normal lawful course of business that is traditionally intended for use with tobacco products, including pipes, papers and accessories. The tobacco exception does not acquire an extra “primarily” requirement from the definition. The as-applied notice holding supplies no categorical answer for every ambiguous article.
+**Exceptions and limits:** Section 857(f) excludes a person authorized by local, state or federal law to manufacture, possess or distribute such items, and an item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including pipes, papers and accessories. The tobacco exception does not acquire an extra “primarily” requirement from the definition. The as-applied notice holding supplies no categorical answer for every ambiguous article.
 
 **Holdings navigation:** [Objective design and primary likely use identify the covered articles](HOLDINGS.candidate.md#objective-design-and-primary-likely-use-identify-the-covered-articles); [Knowing the likely illicit use is required; desiring it is not](HOLDINGS.candidate.md#knowing-the-likely-illicit-use-is-required-desiring-it-is-not); [Private seller purpose alone does not replace the objective classification](HOLDINGS.candidate.md#private-seller-purpose-alone-does-not-replace-the-objective-classification).
 
@@ -2448,7 +2448,7 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Governing question:** When parents who reject an inadequate public program may obtain reimbursement for a private placement.
 
-**Current rule:** When the public offer violates IDEA and the parents' unilateral private placement provides an education otherwise appropriate for the child under the Act, §1415(e)(2) permits equitable reimbursement even if the placement lacks state approval or fails every requirement in §1401(a)(18)'s definition of publicly provided free appropriate education. Parents act at financial risk and must establish both public inadequacy and private appropriateness. Neither parental choice nor progress alone guarantees relief. The court must consider relevant equitable circumstances and a reasonable amount; equity may support reduction or denial, and full reimbursement is inappropriate if private cost was unreasonable. No mandatory checklist replaces that discretion.
+**Current rule:** When the public offer violates IDEA and the parents' unilateral private placement provides an education otherwise appropriate for the child under the Act, §1415(e)(2) permits equitable reimbursement even if the placement lacks state approval or does not satisfy every requirement in §1401(a)(18)'s definition of publicly provided free appropriate education. Parents act at financial risk and must establish both public inadequacy and private appropriateness. Neither parental choice nor progress alone guarantees relief. The court must consider relevant equitable circumstances and a reasonable amount; equity may support reduction or denial, and full reimbursement is inappropriate if private cost was unreasonable. No mandatory checklist replaces that discretion.
 
 **Authority by component:**
 
@@ -3781,7 +3781,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Present operation effective:** United States v. Irvine, 1994-04-20.
 
-**Open question:** The decision does not resolve whether that regulation covers every pre-1917 inter vivos interest or supply a rule for later §2518 qualified disclaimers. Its conditional timeliness holding must not be converted into universal regulatory coverage.
+**Open question:** The decision does not resolve whether that regulation covers this 1917 inter vivos trust, created before the 1932 gift-tax enactment, or supply a rule for later §2518 qualified disclaimers. Its conditional timeliness holding must not be converted into universal regulatory coverage.
 
 **Holdings navigation:** [Federal law taxes the later gratuitous transfer, independently of state relation back](HOLDINGS.candidate.md#federal-law-taxes-the-later-gratuitous-transfer-independently-of-state-relation-back); [The 1932 limitation protects earlier transfers, not every later disposition of an old interest](HOLDINGS.candidate.md#the-1932-limitation-protects-earlier-transfers-not-every-later-disposition-of-an-old-interest).
 
