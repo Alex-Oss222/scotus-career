@@ -597,7 +597,6 @@ The certified statutory issue and present effect of the clause may be decided; n
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1045,7 +1044,6 @@ The federal equitable and fee questions can be resolved on the established adequ
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
