@@ -202,13 +202,14 @@ The original-order timeliness issue can be decided. Remaining immigration merits
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The proposed Stone v. INS position now rests expressly on the actual simulated Ibarra and Darby holdings rather than a generic analogy. Neither supplies an INA result by itself; the incorporated review provisions must carry the finality consequence. INS v. Doherty produced no controlling reusable reopening rule and is not treated as one.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The proposed Stone v. INS position now rests expressly on the actual simulated Ibarra and Darby holdings rather than a generic analogy. Neither supplies an INA result by itself; the incorporated review provisions must carry the finality consequence. INS v. Doherty produced no controlling reusable reopening rule and is not treated as one.
 
 ## B. FIXED CORE
 
@@ -221,7 +222,7 @@ The original-order timeliness issue can be decided. Remaining immigration merits
 - **Required Legal Propositions:** A timely motion for reconsideration filed before judicial review postpones reviewable finality under the incorporated administrative-review rule; § 106(a)(6)’s consolidation command does not displace that rule for this sequence. Stone’s petition, timely after the BIA acted on that motion, may obtain review of the original order. Reverse the threshold dismissal and remand.
 - **Express Exclusions:** A free-standing equitable override of the statutory period; revival by an untimely motion; use of a later immigration-review statute; automatic success on the original merits.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1536,13 +1537,14 @@ The identified liability and exception paths may be modeled. A new quantitative 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The earlier simulated Nebraska decision is actual controlling law in its own original action, not merely a historical citation. Kansas v. Colorado must use it only for the enforcement-versus-modification distinction and original-action discipline. Compact liability still turns on the Arkansas River Compact's own material-depletion rule, so no Nebraska proof standard is silently transplanted.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The earlier simulated Nebraska decision is actual controlling law in its own original action, not merely a historical citation. Kansas v. Colorado must use it only for the enforcement-versus-modification distinction and original-action discipline. Compact liability still turns on the Arkansas River Compact's own material-depletion rule, so no Nebraska proof standard is silently transplanted.
 
 ## B. FIXED CORE
 
@@ -1558,7 +1560,7 @@ The identified liability and exception paths may be modeled. A new quantitative 
 - **Required Legal Propositions:** Overrule Kansas’s Trinidad exception. Departure from the Operating Principles does not establish the pleaded Compact violation without the material depletion required by Article IV-D, which Kansas did not establish on this claim. Overrule Kansas’s WWSP exception because the record does not establish material usable-flow depletion even by a preponderance; no finding that the program can never cause such depletion is made. Overrule Kansas’s accounting exception. The report’s usable-flow method is supported by its fit with the underlying model and evidence; Article IV-D does not require the competing method. Overrule the laches exception because Colorado has not established Kansas’s inexcusable lack of diligence on this record. Whether laches can ever bar a State’s enforcement of this Compact remains open. Overrule the baseline exception. Increased pumping from existing wells remains subject to Article IV-D; the supported 15,000-acre-foot historical baseline, rather than hypothetical maximum capacity, governs this accounting. Overrule the offset exception. The 1980 plan’s separately bargained-for benefits and express reservation of Compact rights do not establish a settlement or credit extinguishing the well-pumping claim. Overrule the proof-standard exception without choosing a general quantum for Compact liability: the pumping finding satisfies clear-and-convincing proof, while the WWSP claim fails even by a preponderance. Adopt the unexcepted recommendations dismissing Colorado’s Lake McKinney and Well Counterclaims and resolving the separate WWSP-approval issue, without expanding their grounds into new general doctrine.
 - **Express Exclusions:** Replacement of the Compact by free-form equitable apportionment; liability from Operating Principles deviation alone; hypothetical pumping capacity as automatic immunity; treatment of separately owed reservoir benefits as an implied settlement; a final remedy without the bifurcated record.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
