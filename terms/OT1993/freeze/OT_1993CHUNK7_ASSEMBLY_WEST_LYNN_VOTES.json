@@ -1,0 +1,67 @@
+{
+  "West Lynn Creamery, Inc. v. Healy": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse and remand Commerce Clause judgment",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Integrated dedicated-fund discrimination",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Failed justification and bounded relief",
+        "support": [
+          "Stone",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Scalia concurrence tax-equivalence rationale and affirmative general-revenue boundary",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

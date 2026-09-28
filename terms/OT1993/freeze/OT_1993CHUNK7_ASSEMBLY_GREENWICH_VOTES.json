@@ -1,0 +1,137 @@
+{
+  "Director, Office of Workers’ Compensation Programs v. Greenwich Collieries": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Greenwich pneumoconiosis finding",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ]
+      },
+      {
+        "name": "Greenwich total-disability finding",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ]
+      },
+      {
+        "name": "Maher lifetime-disability benefits",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ]
+      },
+      {
+        "name": "Maher death benefits",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "APA persuasion allocation and limited Transportation Management treatment",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Longshore incorporation and no technical-evidence exemption",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Black-lung actual regulation insufficient; broader delegated power reserved",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "APA production allocation",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Permissible genuine-tie rule after full weighing; no independent Greenwich regulation/Mullins bar",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

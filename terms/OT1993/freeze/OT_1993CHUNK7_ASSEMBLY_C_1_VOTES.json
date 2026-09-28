@@ -1,0 +1,199 @@
+{
+  "Dolan v. City of Tigard": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse and remand public-greenway dedication",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Reverse and remand pedestrian/bicycle strip",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Essential nexus plus government showing of rough proportionality",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Greenway public-access interest insufficiently justified",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Pathway extent insufficiently justified",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Stone additional lower-court explanation and evidence instruction",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Challenger burden and record sufficiency",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Stevens broader contextual planning account",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Souter narrower Nollan and vehicle reservation",
+        "support": [
+          "Souter"
+        ],
+        "controlling": false
+      }
+    ]
+  },
+  "Honda Motor Co. v. Oberg": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse and remand punitive award for adequate amount review",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "oppose": [
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Lost traditional amount review requires adequate replacement",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Actual Oregon safeguards do not cure amount-review gap",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Stone conditional new punitive determination only if adequate review cannot correct",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Scalia state-law traditional-process explanation",
+        "support": [
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Ginsburg whole-process constitutional sufficiency",
+        "support": [
+          "Ginsburg"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

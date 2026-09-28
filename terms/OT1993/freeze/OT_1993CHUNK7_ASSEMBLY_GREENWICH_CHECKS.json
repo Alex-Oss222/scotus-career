@@ -1,0 +1,10 @@
+{
+  "record_sha256": "12abed9034f06b5df5f6bfde544cace0e9d9774589e6113f357e2d3e44b6a8e9",
+  "components": 4,
+  "component_vote": "6-3",
+  "controlling_propositions": 3,
+  "noncontrolling_propositions": 2,
+  "frozen_hashes_checked": 6,
+  "holdings_identity": true,
+  "errors": []
+}

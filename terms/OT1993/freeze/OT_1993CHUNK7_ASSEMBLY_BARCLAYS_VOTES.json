@@ -1,0 +1,163 @@
+{
+  "Barclays Bank PLC v. Franchise Tax Board of California": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Barclays No. 92-1384 affirmance",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Colgate-Palmolive No. 92-1839 affirmance",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": []
+      }
+    ],
+    "propositions": [
+      {
+        "name": "I-A ordinary tax requirements and apportionment",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "I-B actual reporting burdens",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "II Barclays due process",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-A Colgate Container rule",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "III-B Barclays multiple taxation",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "IV-A independent national uniformity",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "IV-B legislative and treaty evidence only",
+        "support": [
+          "Stone",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Scalia precedent-limited national-voice method",
+        "support": [
+          "Scalia"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "OConnor and Thomas foreign-parent multiple-taxation objection",
+        "support": [
+          "O'Connor",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

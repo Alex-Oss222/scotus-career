@@ -1,0 +1,9 @@
+# OT1993 chunk 7 Run control
+
+The operator expressly approves Section II in briefs/OT_1993CHUNK7.md as written. No Git command may execute and writes are limited to terms/OT1993/ and ignored tmp/. Durable immutable file handoffs constitute freezes for this Run; operator verification and Git commitment are pending. No statement of Git commitment is made.
+
+The runtime split is mechanically regenerated from the unaltered brief. All sections are exported together by the existing tool, but each scoped context receives only authorized sections. Source-only contexts may read complete official reports and document their historical-outcome exposure. Fresh neutral modeling contexts receive only sanitized sources, neutral packets, effective public law and Engine rules. Reconciliation contexts receive those frozen commitments and comparator, never Stone. Assembly begins after reconciliation is frozen. Public Render is a separate task.
+
+The inherited/ citations resolve to current state/ trackers and foundation/COURT_COMPOSITION.md under the operator instruction. Holdings volumes are synchronized. Opening trackers remain processed through July 26, 1993; current Records through June 13, 1994 supplement them. June 17, June 20 and June 24 are uncoordinated same-day groups. Within-group order supplies no law to another member. Earlier groups enter later groups only after their actual completed outcomes are refreshed; MCI and Greenwich require a specific check before Thomas Jefferson University.
+
+The scratch no-Git wrapper preserves prior ledger metadata without verification and runs check_term.py except commit-object existence. Git history order and commit-object checks are expressly deferred to the operator. The scope and actual results are recorded in the final validation receipt.

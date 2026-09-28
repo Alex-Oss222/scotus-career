@@ -1,0 +1,93 @@
+{
+  "Reed v. Farley": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm federal habeas denial on Article IV(c) timing claim",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Parts I-III federal-law channel, Hill threshold and current-record denial",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Part IV affirmative stronger-demand/refusal reservation",
+        "support": [
+          "Stone",
+          "O'Connor",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Scalia broader collateral exclusion and additional prior-opportunity view",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Dissent federal-forum ground against this Section 2255 extension",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Dissent independently sufficient mandatory-dismissal ground assuming Hill",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Dissent actual Article IV(c) violation and Article V(c) dismissal remedy",
+        "support": [
+          "Blackmun",
+          "Stevens",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

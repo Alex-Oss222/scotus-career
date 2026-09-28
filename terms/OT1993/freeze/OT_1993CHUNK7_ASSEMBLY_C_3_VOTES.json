@@ -1,0 +1,87 @@
+{
+  "Thomas Jefferson University v. Shalala": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Affirm challenged reimbursement denial on redistribution alone",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Scalia",
+          "Kennedy",
+          "Souter"
+        ],
+        "oppose": [
+          "Stevens",
+          "O'Connor",
+          "Thomas",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Part I: reasonable redistribution construction and inherited own-regulation standard",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Scalia",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Part II: actual-ground and consistency application",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Scalia",
+          "Kennedy",
+          "Souter"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Dissent I: no operative asserted subsection (c) exclusions",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Dissent II-A: contextual redistribution construction",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Dissent II-B: tuition/net-cost community-support construction",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

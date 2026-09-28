@@ -76,18 +76,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-06-13 | OT_1993CHUNK6 | United States v. Carlton | No. 92-1941 | MERITS | Signed opinion | Completed: United_States_v_Carlton_merits_1994-06-13.md |
 | 1994-06-13 | OT_1993CHUNK6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | No. 93-377 | MERITS | Signed opinion | Completed: Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md |
 | 1994-06-13 | OT_1993CHUNK6 | Howlett v. Birkdale Shipping Co., S.A. | No. 93-670 | MERITS | Signed opinion | Completed: Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md |
-| 1994-06-17 | OT_1993CHUNK7 | Simmons v. South Carolina | No. 92-9059 | MERITS | Signed opinion | Completed: Simmons_v_South_Carolina_merits_1994-06-17.md |
-| 1994-06-17 | OT_1993CHUNK7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | No. 93-356; consolidated review included No. 93-521 | MERITS | Signed opinion | Completed: MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md |
-| 1994-06-17 | OT_1993CHUNK7 | West Lynn Creamery, Inc. v. Healy | No. 93-141 | MERITS | Signed opinion | Completed: West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md |
-| 1994-06-20 | OT_1993CHUNK7 | Hawaiian Airlines, Inc. v. Norris | No. 92-2058, including the related Finazzo judgment under Rule 12.2 | MERITS | Signed opinion | Completed: Hawaiian_Airlines_v_Norris_merits_1994-06-20.md |
-| 1994-06-20 | OT_1993CHUNK7 | Director, Office of Workers’ Compensation Programs v. Greenwich Collieries | No. 93-744, including Maher Terminals under Rule 12.2 | MERITS | Signed opinion | Completed: Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md |
-| 1994-06-20 | OT_1993CHUNK7 | Barclays Bank PLC v. Franchise Tax Board of California | Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry) | MERITS | Signed opinion | Completed: Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md |
-| 1994-06-20 | OT_1993CHUNK7 | Reed v. Farley | No. 93-5418 | MERITS | Signed opinion | Completed: Reed_v_Farley_merits_1994-06-20.md |
-| 1994-06-24 | OT_1993CHUNK7 | Dolan v. City of Tigard | No. 93-518 | MERITS | Signed opinion | Completed: Dolan_v_City_of_Tigard_merits_1994-06-24.md |
-| 1994-06-24 | OT_1993CHUNK7 | Honda Motor Co. v. Oberg | No. 93-644 | MERITS | Signed opinion | Completed: Honda_Motor_Co_v_Oberg_merits_1994-06-24.md |
-| 1994-06-24 | OT_1993CHUNK7 | Heck v. Humphrey | No. 93-6188 | MERITS | Signed opinion | Completed: Heck_v_Humphrey_merits_1994-06-24.md |
-| 1994-06-24 | OT_1993CHUNK7 | Davis v. United States | No. 92-1949 | MERITS | Signed opinion | Completed: Davis_v_United_States_merits_1994-06-24.md |
-| 1994-06-24 | OT_1993CHUNK7 | Thomas Jefferson University v. Shalala | No. 93-120 | MERITS | Signed opinion | Completed: Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md |
+| 1994-06-17 | OT_1993CHUNK7 | Simmons v. South Carolina | No. 92-9059 | MERITS | Signed opinion | Open |
+| 1994-06-17 | OT_1993CHUNK7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | No. 93-356; consolidated review included No. 93-521 | MERITS | Signed opinion | Open |
+| 1994-06-17 | OT_1993CHUNK7 | West Lynn Creamery, Inc. v. Healy | No. 93-141 | MERITS | Signed opinion | Open |
+| 1994-06-20 | OT_1993CHUNK7 | Hawaiian Airlines, Inc. v. Norris | No. 92-2058, including the related Finazzo judgment under Rule 12.2 | MERITS | Signed opinion | Open |
+| 1994-06-20 | OT_1993CHUNK7 | Director, Office of Workers’ Compensation Programs v. Greenwich Collieries | No. 93-744, including Maher Terminals under Rule 12.2 | MERITS | Signed opinion | Open |
+| 1994-06-20 | OT_1993CHUNK7 | Barclays Bank PLC v. Franchise Tax Board of California | Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry) | MERITS | Signed opinion | Open |
+| 1994-06-20 | OT_1993CHUNK7 | Reed v. Farley | No. 93-5418 | MERITS | Signed opinion | Open |
+| 1994-06-24 | OT_1993CHUNK7 | Dolan v. City of Tigard | No. 93-518 | MERITS | Signed opinion | Open |
+| 1994-06-24 | OT_1993CHUNK7 | Honda Motor Co. v. Oberg | No. 93-644 | MERITS | Signed opinion | Open |
+| 1994-06-24 | OT_1993CHUNK7 | Heck v. Humphrey | No. 93-6188 | MERITS | Signed opinion | Open |
+| 1994-06-24 | OT_1993CHUNK7 | Davis v. United States | No. 92-1949 | MERITS | Signed opinion | Open |
+| 1994-06-24 | OT_1993CHUNK7 | Thomas Jefferson University v. Shalala | No. 93-120 | MERITS | Signed opinion | Open |
 | 1994-06-24 | OT_1993CHUNK8 | Consolidated Rail Corp. v. Gottshall | No. 92-1956, including Carlisle under Rule 12.2 | MERITS | Signed opinion | Open |
 | 1994-06-24 | OT_1993CHUNK8 | Shannon v. United States | No. 92-8346 | MERITS | Signed opinion | Open |
 | 1994-06-27 | OT_1993CHUNK8 | Turner Broadcasting System, Inc. v. FCC | No. 93-44 | MERITS | Signed opinion | Open |
@@ -120,7 +120,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 - **Opening setting.** Ginsburg took the judicial oath on August 10, 1993, and the complete circuit reallotment of the same date governs. Both are already part of the opening Standing State (sections 1 and 2) and of the Composition register's order effective August 10, 1993. They are not term events and need no Admitted Source Record.
 - **No scheduled change within the Term.** No roster, allotment, or standing-practice change is fixed between the opening and June 30, 1994, the last inventory date. Blackmun's retirement and Breyer's oath (August 3, 1994) fall after the last event and enter at the OT1994 opening.
-- **Current chronology cursor.** June 24, 1994, through all twelve chunk-7 matters; the two uncoordinated June 24 chunk-8 matters remain open. Next: Consolidated Rail Corp. v. Gottshall and Shannon v. United States (June 24, 1994, chunk 8) are next. They share the June 24 start-of-day baseline and receive no law from the uncoordinated June 24 chunk-7 decisions. Completed June 17 and June 20 law enters prospectively within its scope.
+- **Current chronology cursor.** June 13, 1994, through all twelve chunk-6 matters; the June 6 and June 13 inventory groups are complete. Next: Simmons v. South Carolina (June 17, 1994, chunk 7) is the next inventory event. The completed June 6 cases, including Nichols, shared their start-of-day baseline and enter the June 13 cases only prospectively. The eight June 13 cases shared their own start-of-day baseline. Future matters receive the completed earlier law only within its scope.
 
 ## Manifest controls and limitations
 
@@ -144,7 +144,7 @@ Not carried: *Martin v. McDermott*, No. 92-5618 (closed for continuity on Septem
 
 Day and Sassower's current fee components are permanently closed without Court action under their replacement lineage; their prospective decisions stand. Cavanaugh is completed by the November 30 merits decision. No component of these three matters is open or stopped.
 
-Consolidated Rail Corp. v. Gottshall and Shannon v. United States (June 24, 1994, chunk 8) are next. They share the June 24 start-of-day baseline and receive no law from the uncoordinated June 24 chunk-7 decisions. Completed June 17 and June 20 law enters prospectively within its scope.
+Simmons v. South Carolina (June 17, 1994, chunk 7) is the next inventory event. The completed June 6 cases, including Nichols, shared their start-of-day baseline and enter the June 13 cases only prospectively. The eight June 13 cases shared their own start-of-day baseline. Future matters receive the completed earlier law only within its scope.
 
 ## Pending original writ after the completed May 2 fee action
 

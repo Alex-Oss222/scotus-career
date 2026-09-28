@@ -1,0 +1,3 @@
+# Hawaiian Airlines assembly validation
+
+Both reviewed judgments affirmed9–0, one unanimous Stevens opinion assigned by the Chief. Three established certified-disposition components, no invented additional airline count; common preemption rule addresses both independent theories. Complete SectionII preserved, no fallback, no non-Stone change after reconciliation. Limited Burley dictum treatment, known-false-report exception, distinct §184 must/may terms, unchallenged CBA dismissal, factual disputes, ordinary defenses and duplicate-recovery limits retained. Explanation word count [170]. Eleven Public blocks with optional Separate Writings empty; internal/publicHoldings identical. No material blocker, no publicRender, noGit.

@@ -1,0 +1,113 @@
+{
+  "Simmons v. South Carolina": {
+    "participants": [
+      "Stone",
+      "Blackmun",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "name": "Reverse death-sustaining judgment and remand",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Express direction for new penalty proceeding (opposition includes O'Connor/Kennedy reservation of further remedy, not affirmance of death sentence)",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ],
+    "propositions": [
+      {
+        "name": "Part I: narrow due-process rebuttal rule",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Part II: record-specific Chapman failure and mandatory new hearing if death pursued",
+        "support": [
+          "Stone",
+          "Blackmun",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ],
+        "controlling": true
+      },
+      {
+        "name": "Part III: independent Eighth Amendment requested judicial explanation",
+        "support": [
+          "Stevens",
+          "Souter"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Stone concurrence: additional authoritative answer to express jury question on due-process ground",
+        "support": [
+          "Stone"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Blackmun concurrence: independent noncapital relief",
+        "support": [
+          "Blackmun"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "O'Connor concurrence: State may withhold parole information absent State-raised danger",
+        "support": [
+          "O'Connor",
+          "Kennedy"
+        ],
+        "controlling": false
+      },
+      {
+        "name": "Scalia dissent: no federal constitutional error",
+        "support": [
+          "Scalia",
+          "Thomas"
+        ],
+        "controlling": false
+      }
+    ]
+  }
+}

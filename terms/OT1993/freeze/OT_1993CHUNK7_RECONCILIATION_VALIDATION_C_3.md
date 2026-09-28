@@ -1,0 +1,27 @@
+# OT1993 chunk 7 — reconciliation validation C-3
+
+Matter: 84, Thomas Jefferson University v. Shalala, No. 93-120. In-world event June 24, 1994; argument April 18, 1994. Completion: September 28, 2026. Primary-source retrieval date remains September 27, 2026.
+
+Final handoff: `OT_1993CHUNK7_RECONCILED_C_3.md`.
+
+SHA-256: `6f39f011cf453a2574545da789c381711b29b467648855b9f9a868261c660fe2`.
+
+## Checks completed
+
+- Read governing AGENTS.md, Engine, Render Contract and Composition, then the authorized neutral/frozen inputs, common controls, both matter-84 preparation/final sections and actual-law refresh. The final authoritative-row rule was applied; source-fork prose was not counted as a second commitment.
+- Verified the unchanged original commitments hash: `e96e70fcb4f313a27ff22a523be190ec19912fb6cf683580da5e8ddcf79bc8f5`. The original was not edited.
+- Read comparator matter 84 only through the scoped Python helper. No current Stone supplement, combined brief, mutable workspace projection or earlier private Record annex was opened. No same-day June 24 case was used as entering law.
+- Read the complete official TJU report and the petition appendices containing the complete Third Circuit order, district memorandum/order and final Administrator decision, plus reproduced governing provisions and Letter 78-7. Truncated terminal passages were reread in smaller pieces. The source context's honest limited receipt concerning petition advocacy, the full PRRB text and other docket materials is preserved; no complete review of those materials is claimed.
+- Read actual MCI and Greenwich public holdings, qualifications, associate joins and separate positions. Checked earlier supplied Good Samaritan/Boston & Maine law and current Health Care, John Hancock and PUD positions. The latter authorities remain within their statute-specific scopes; no generic deference preference determined a vote.
+- Mechanically verified the final individual table contains precisely eight unique rows in seniority order: Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All were seated at both relevant dates; no case-specific nonparticipation is established. The table supplies no Stone vote or full-Court tally.
+- Substantively reconciled each associate against the particular regulatory clause, cost-attribution premise, actual agency ground, contrary argument, narrower support and remedy. Four unsupported original outcome departures were explicitly corrected: Stevens, O'Connor and Thomas from affirmance to reversal/remand; Souter from vacatur/remand to affirmance. Ginsburg's rejection direction remains, with her two complete alternative frameworks, community-support conclusion and formal remedy made explicit. Blackmun, Scalia and Kennedy retain affirmance. No surviving associate judgment departure is asserted.
+- Fixed support at the same level of generality: Blackmun, Scalia, Kennedy and Souter support the sufficient redistribution ground; Stevens, O'Connor, Thomas and Ginsburg support both the nonoperative-subsection framework and the alternative contextual framework. The latter framework separately rejects redistribution and the all-non-Medicare community-support exclusion. Redistribution rejection alone is not misidentified as a sufficient hospital-favorable judgment ground.
+- Preserved the separate actual general/administrative allowability ruling for review on the rejecting path, including any necessary agency proceedings. No rejection becomes entitlement to the entire $2,861,247, which is the original disputed amount rather than a verified remaining payment amount after settlement. The faculty compensation stipulation and unadjudicated alternative enforcement claim remain untouched.
+- Preserved §413.85(a)(1)'s permissive language, the complete July 1, 1985 reporting-period/four-residency-fields/§413.86 exception, paragraph (g)'s tuition and cost-finding rules, §413.17(a)'s related-cost/comparable-price limits and separate paragraph (d) reservation, and Letter 78-7's actual allocation/documentation/nonduplication conditions. No earlier temporary cap was substituted for the corrected exception.
+- No historical author was assigned to an in-world writing. No final opinion topology, Court disposition, Git preservation or completed adjudication is claimed. All Python calls used `-B`; no Git command or Git-calling tool was invoked. Writes consist of the two requested files under `terms/OT1993/freeze/`.
+
+## Remaining limits and readiness
+
+No material blocker prevents assembly from using these bounded commitments after the parent verifies the handoff hash. The complete then-operative §413.17(d) text remains unverified and unused. Entire petition advocacy, all merits briefs, full PRRB text and unquoted underlying exhibits were not independently read here. The historical dissent's 1984 grant/donation-offset amendment discussion is recorded as comparator reasoning, but no new official amendment-history proposition is an essential premise; the verified current net-cost text supplies the community-support objection. Any proposed new reliance on the missing materials requires the scoped research/neutral process before commitment.
+
+The parent must add Stone only after preserving this handoff, conduct final compatibility and assignment, and perform the term's remaining record/assembly checks. This validation covers reconciliation only.

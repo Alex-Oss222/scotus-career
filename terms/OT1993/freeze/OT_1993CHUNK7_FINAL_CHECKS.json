@@ -1,0 +1,156 @@
+{
+  "baseline_files": 1613,
+  "new_records": 12,
+  "records": {
+    "Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md": {
+      "date": "1994-06-20",
+      "result": "**Result:** Barclays affirmed 7–2; Colgate-Palmolive affirmed 9–0; the distinct California appellate judgments stand on the presented federal challenges.",
+      "sha256": "ba82f69e4141ce82ba08cc5da2f68b78f7577fe423686dad4b3eac580d5e4c63"
+    },
+    "Davis_v_United_States_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Affirm the Court of Military Appeals, 9–0; mandatory neutral clarification has five votes; actual lawful clarification and clear-request cessation have nine.",
+      "sha256": "99e0c67db244d104d3c3524127982100e04c62afdc1a67a07c49ae683ea21f6a"
+    },
+    "Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md": {
+      "date": "1994-06-20",
+      "result": "**Result:** Both Third Circuit vacatur-and-remand judgments affirmed, 6–3; APA persuasion governs, with statutory presumptions preserved and no automatic final denial of benefits.",
+      "sha256": "12abed9034f06b5df5f6bfde544cace0e9d9774589e6113f357e2d3e44b6a8e9"
+    },
+    "Dolan_v_City_of_Tigard_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Reverse and remand both challenged dedications, 5–4; O'Connor's opinion for Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas.",
+      "sha256": "74c3cd7677b55d45ce8d7288c25c40a43d041422d63a9fa13ce6e74ce81ae083"
+    },
+    "Hawaiian_Airlines_v_Norris_merits_1994-06-20.md": {
+      "date": "1994-06-20",
+      "result": "**Result:** Both reviewed Hawaii judgments affirmed, 9–0; the independent state claims survive RLA preemption.",
+      "sha256": "a9222d68410f4b3d0cc8cc9f7fef6718947e27792e4cdfc3b8e3f11ab2d763d4"
+    },
+    "Heck_v_Humphrey_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Affirm dismissal without prejudice, 9–0; bounded necessary-invalidity, invalidation/accrual and independent-injury rules have nine direct joins; limited statutory-coordination explanation has five.",
+      "sha256": "dd372e591f575b2527b4219b6eb239659ed27859c7e3eea5b0be09f339cd9d32"
+    },
+    "Honda_Motor_Co_v_Oberg_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Reverse and remand the punitive-award judgment for adequate review, 8–1; Blackmun's opinion for all participating Justices except Ginsburg.",
+      "sha256": "f578c9ae300d2b855c06d452e29b81b0ed21ec29f5a49785b2b4b351bdee72c3"
+    },
+    "MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md": {
+      "date": "1994-06-17",
+      "result": "**Result:** Affirm the D.C. Circuit's judgment setting aside the permissive-detariffing rule, 5–3; O'Connor did not participate. Five support the structural modification holding; four separately support an independent special-condition ground.",
+      "sha256": "b1bc7830bea832d0f23e190f00215342f7ba8c98b7f69924609dc0e8bfe9b129"
+    },
+    "Reed_v_Farley_merits_1994-06-20.md": {
+      "date": "1994-06-20",
+      "result": "**Result:** Seventh Circuit denial of federal habeas relief affirmed, 5–4; five directly join the collateral threshold and current-record denial, with a separate three-Justice reservation.",
+      "sha256": "3b67efe445ec391114ae6343f2e5f43cd7cdbd4570fedeb0a46b927e7ac16e15"
+    },
+    "Simmons_v_South_Carolina_merits_1994-06-17.md": {
+      "date": "1994-06-17",
+      "result": "**Result:** Reverse the death-sustaining judgment and remand, 7–2; five Justices require a new penalty proceeding if death is pursued. Guilt and the separate sentences remain undisturbed.",
+      "sha256": "8876c6eb9d3074332133ee2091896a5d7a952cae062926ed1a9fcec76e1b127c"
+    },
+    "Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md": {
+      "date": "1994-06-24",
+      "result": "**Result:** Affirm, 5–4, on redistribution alone; Stone-Zsela, Blackmun, Scalia, Kennedy and Souter support; Stevens, O'Connor, Thomas and Ginsburg dissent for reversal and bounded remand.",
+      "sha256": "0bbb482494382b9ba164f1de3c9f6b5e8fbe77c189949fded19e8f0d598aeba2"
+    },
+    "West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md": {
+      "date": "1994-06-17",
+      "result": "**Result:** Reversed and remanded, 8–1; integrated-discrimination rationale controls with six votes; two concur on a narrower ground.",
+      "sha256": "635ba4de5cc3bc830285f2f672a3b8e4684cc4aca25e39600b10d7d067d6267d"
+    }
+  },
+  "holding_explanation_word_counts": {
+    "Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md": [
+      170,
+      164,
+      160,
+      157,
+      161,
+      165,
+      172
+    ],
+    "Davis_v_United_States_merits_1994-06-24.md": [
+      169,
+      164,
+      158
+    ],
+    "Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md": [
+      171,
+      162,
+      169
+    ],
+    "Dolan_v_City_of_Tigard_merits_1994-06-24.md": [
+      164,
+      154,
+      151
+    ],
+    "Hawaiian_Airlines_v_Norris_merits_1994-06-20.md": [
+      170
+    ],
+    "Heck_v_Humphrey_merits_1994-06-24.md": [
+      159,
+      165,
+      161,
+      157
+    ],
+    "Honda_Motor_Co_v_Oberg_merits_1994-06-24.md": [
+      163,
+      163
+    ],
+    "MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md": [
+      167
+    ],
+    "Reed_v_Farley_merits_1994-06-20.md": [
+      147,
+      183
+    ],
+    "Simmons_v_South_Carolina_merits_1994-06-17.md": [
+      168,
+      164
+    ],
+    "Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md": [
+      176,
+      168
+    ],
+    "West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md": [
+      172,
+      179
+    ]
+  },
+  "local_links_checked": 664,
+  "vote_receipt_files": [
+    "OT_1993CHUNK7_ASSEMBLY_A_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_BARCLAYS_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_C_1_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_C_2_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_C_3_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_GREENWICH_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_HAWAIIAN_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_MCI_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_REED_VOTES.json",
+    "OT_1993CHUNK7_ASSEMBLY_WEST_LYNN_VOTES.json"
+  ],
+  "render_record_order": [
+    "MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md",
+    "Simmons_v_South_Carolina_merits_1994-06-17.md",
+    "West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md",
+    "Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md",
+    "Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md",
+    "Hawaiian_Airlines_v_Norris_merits_1994-06-20.md",
+    "Reed_v_Farley_merits_1994-06-20.md",
+    "Davis_v_United_States_merits_1994-06-24.md",
+    "Dolan_v_City_of_Tigard_merits_1994-06-24.md",
+    "Heck_v_Humphrey_merits_1994-06-24.md",
+    "Honda_Motor_Co_v_Oberg_merits_1994-06-24.md",
+    "Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md"
+  ],
+  "opening_carryovers_preserved": true,
+  "errors": [],
+  "git": "All Git checks deferred; no Git invocation",
+  "scope": "Deterministic consistency only; separate stage records document substantive review.",
+  "honda_index_only_adjustment_verified": true
+}
