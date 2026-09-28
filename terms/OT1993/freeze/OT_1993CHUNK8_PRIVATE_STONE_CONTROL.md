@@ -1,6 +1,6 @@
 # Chunk 8 Stone intake control — private
 
-The current user expressly says that Section II positions in OT_1993CHUNK8.md are approved as written and directs adjudication using them. That instruction establishes approval despite older preparation-status language within the brief. No input wording is altered. The mechanically exported runtime Stone file is preserved in the stage hash receipt. The incorporated OT_1993_STONE_METHOD.md was read as the interpretive explanation the approved supplement identifies; no unnamed Master or character file supplies an additional position.
+The current user expressly says that Section II positions in OT_1993CHUNK8.md are approved as written and directs adjudication using them. That instruction establishes approval despite older preparation-status language within the brief. No input wording is altered. The mechanically exported runtime Stone file is preserved in the stage hash receipt. No unnamed Master or character file supplies an additional position.
 
 Every one of the eleven modules supplies disposition, reasoning, remedy, operative limitations and applicable conditions. No approval question is outstanding at intake. Assembly must revalidate each module against actual event-date law and source corrections; this note does not preapprove a substantive departure or assert final compatibility.
 

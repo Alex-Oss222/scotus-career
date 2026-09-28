@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-06-06 through 1994-06-13. Event date
 
 **Inherited-Law Context:** Helling recognizes unreasonable future risks and Wilson's separate subjective requirement; Hudson concerns malicious force. Neither supplies the later Farmer definition of deliberate indifference. The precise awareness/inference standard remains this case's question. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,7 +59,7 @@ The complaint invokes Bivens and Carlson against officials in specified capaciti
 **Source Support:** [R32](https://supreme.justia.com/cases/federal/us/511/825/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Farmer v. Brennan review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 62. Department of Revenue of Montana v. Kurth Ranch
@@ -80,7 +80,7 @@ The complaint invokes Bivens and Carlson against officials in specified capaciti
 
 **Inherited-Law Context:** Dixon retained Grady and the distinction between successive criminal punishment and civil coercion. Austin/Alexander's Excessive Fines coverage is not automatically a Double Jeopardy punishment test; assess this tax's own features. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -115,7 +115,7 @@ The bankruptcy proof of claim supplies the actual controversy. Montana’s new a
 **Source Support:** [R33](https://supreme.justia.com/cases/federal/us/511/767/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Department of Revenue of Montana v. Kurth Ranch review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 63. Digital Equipment Corp. v. Desktop Direct, Inc.
@@ -136,7 +136,7 @@ The bankruptcy proof of claim supplies the actual controversy. Montana’s new a
 
 **Inherited-Law Context:** Puerto Rico Aqueduct concerns a sovereign immunity from suit that would be lost without immediate review. Germain preserves statutory appellate routes. Neither converts a private settlement promise into an appealable immunity. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -169,7 +169,7 @@ Section 1291 finality and its collateral-order exception are the sole immediate-
 **Source Support:** [R34](https://supreme.justia.com/cases/federal/us/511/863/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Digital Equipment Corp. v. Desktop Direct, Inc. review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 64. Key Tronic Corp. v. United States
@@ -190,7 +190,7 @@ Section 1291 finality and its collateral-order exception are the sole immediate-
 
 **Inherited-Law Context:** Dague's fee-enhancement holding under specified environmental fee statutes does not itself create or deny a CERCLA private litigation-fee entitlement. Distinguish litigation work, settlement negotiation and useful response-cost investigation. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -227,5 +227,5 @@ The difficult boundary is settlement preparation that also produces useful techn
 **Source Support:** 511 U.S. 811-824: the three expense categories, statutory cost provisions, and the source/function arguments. [P30](https://supreme.justia.com/cases/federal/us/511/809/)
 
 
-**Revision Trace:** User-directed implementation of [Key Tronic Corp. v. United States review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

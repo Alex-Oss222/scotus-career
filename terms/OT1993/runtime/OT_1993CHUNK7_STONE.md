@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-06-17 through 1994-06-24. Event date
 
 **Inherited-Law Context:** Graham and Johnson require a meaningful sentencing route for supported mitigation under the whole-record reasonable-likelihood inquiry. They do not already decide parole-ineligibility disclosure when future dangerousness is argued; analyze that distinct information and remedy question. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,7 +57,7 @@ The claim is preserved through the requested instruction and the jury’s questi
 **Source Support:** [R40](https://supreme.justia.com/cases/federal/us/512/154/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Simmons v. South Carolina review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 74. MCI Telecommunications Corp. v. American Telephone & Telegraph Co.
 
@@ -77,7 +77,7 @@ The claim is preserved through the requested instruction and the jury’s questi
 
 **Inherited-Law Context:** The inherited deference cases preserve enacted limits, discernible agency reasons and permissible interpretive change within actual delegation. They do not decide how far the word 'modify' authorizes tariff-filing exceptions. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -110,7 +110,7 @@ The present review concerns the rulemaking order, not a new appeal from an earli
 **Source Support:** [R41](https://supreme.justia.com/cases/federal/us/512/218/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [MCI Telecommunications Corp. v. American Telephone & Telegraph Co. review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 75. West Lynn Creamery, Inc. v. Healy
 
@@ -130,7 +130,7 @@ The present review concerns the rulemaking order, not a new appeal from an earli
 
 **Inherited-Law Context:** The inherited origin-discrimination holdings remain operative. Examine the assessment and in-state distribution together and load actual earlier OT1993 commerce rulings; no stand-alone subsidy assumption decides the integrated pricing order. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -167,7 +167,7 @@ The assessed dealers have a direct burden and challenge the order actually appli
 **Source Support:** [R42](https://supreme.justia.com/cases/federal/us/512/186/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [West Lynn Creamery, Inc. v. Healy review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 76. Hawaiian Airlines, Inc. v. Norris
 
@@ -187,7 +187,7 @@ The assessed dealers have a direct burden and challenge the order actually appli
 
 **Inherited-Law Context:** No inherited ruling decides the RLA's effect on these independently founded state claims. Apply the eligible labor-preemption authorities and any actual effective Livadas decision, keeping factual overlap distinct from necessary contract interpretation. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -222,7 +222,7 @@ This is a meaningful but well-supported extension across statutory regimes, not 
 **Source Support:** 512 U.S. 248-266: both state suits, employment record, collective-bargaining relationship, and cited preemption authorities. [P34](https://supreme.justia.com/cases/federal/us/512/246/)
 
 
-**Revision Trace:** User-directed implementation of [Hawaiian Airlines, Inc. v. Norris review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 77. Director, Office of Workers’ Compensation Programs v. Greenwich Collieries
 
@@ -242,7 +242,7 @@ This is a meaningful but well-supported extension across statutory regimes, not 
 
 **Inherited-Law Context:** The inherited registers do not determine §556(d)'s burden-of-proof meaning for these benefit claims. A burden rule approved in another statutory or constitutional setting does not decide the APA allocation. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -277,7 +277,7 @@ On remand, ALJs must apply actual presumptions and any lawful defense burdens be
 **Source Support:** 512 U.S. 270-297: both benefit proceedings, incorporated APA text, statutory presumptions, and earlier burden authorities. [P35](https://supreme.justia.com/cases/federal/us/512/267/)
 
 
-**Revision Trace:** User-directed implementation of [Director, Office of Workers’ Compensation Programs v. Greenwich Collieries review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 78. Barclays Bank PLC v. Franchise Tax Board of California
 
@@ -297,7 +297,7 @@ On remand, ALJs must apply actual presumptions and any lawful defense burdens be
 
 **Inherited-Law Context:** Allied-Signal limits the unitary base, Itel preserves foreign-commerce safeguards, and Kraft rejects its specific foreign-income discrimination. None automatically validates worldwide combined reporting or replaces examination of these taxpayers and federal arrangements. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -340,7 +340,7 @@ For due process, tax allocation can employ reasonable approximations under intel
 **Source Support:** 512 U.S. 302-338: both tax records, apportionment evidence, enacted federal measures, and date-eligible tax authorities. [P36](https://supreme.justia.com/cases/federal/us/512/298/)
 
 
-**Revision Trace:** User-directed implementation of [Barclays Bank PLC v. Franchise Tax Board of California review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 79. Reed v. Farley
 
@@ -360,7 +360,7 @@ For due process, tax allocation can employ reasonable approximations under intel
 
 **Inherited-Law Context:** Fex identifies the IAD receipt trigger; it does not itself make every timing violation cognizable on habeas. Keeney distinguishes factual-development hearings from independent claim default. Simulated Brecht retains Chapman for its preserved Doyle claim, not a universal harmlessness rule for this statutory IAD claim. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -401,7 +401,7 @@ Stone's join in the [simulated Brecht opinion](https://github.com/Alex-Oss222/sc
 **Source Support:** 512 U.S. 342-366: the scheduling record, written motions, asserted prejudice, and earlier collateral-review authorities. [P37](https://supreme.justia.com/cases/federal/us/512/339/)
 
 
-**Revision Trace:** User-directed implementation of [Reed v. Farley review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 80. Dolan v. City of Tigard
 
@@ -421,7 +421,7 @@ Stone's join in the [simulated Brecht opinion](https://github.com/Alex-Oss222/sc
 
 **Inherited-Law Context:** Lucas's complete-deprivation rule and Alaska's project-related boundary condition leave this private-property exaction question open. Alaska distinguishes Nollan without supplying Dolan's required degree of connection or a new burden of proof. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -456,7 +456,7 @@ The challenge concerns identified, final permit conditions demanding property, n
 **Source Support:** [R43](https://supreme.justia.com/cases/federal/us/512/374/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Dolan v. City of Tigard review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 81. Honda Motor Co. v. Oberg
 
@@ -476,7 +476,7 @@ The challenge concerns identified, final permit conditions demanding property, n
 
 **Inherited-Law Context:** TXO supplies only its majority-supported, record-specific procedural sufficiency proposition and no controlling numerical or substantive excessiveness formula. The presence of actual judicial review there matters; the absence of amount review here remains to be decided. Stone's earlier dissent is a separate position, not the Court's rule. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -511,7 +511,7 @@ This is a procedural challenge to review of punitive damages, not a determinatio
 **Source Support:** [R44](https://supreme.justia.com/cases/federal/us/512/415/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Honda Motor Co. v. Oberg review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 82. Heck v. Humphrey
 
@@ -531,7 +531,7 @@ This is a procedural challenge to review of punitive damages, not a determinatio
 
 **Inherited-Law Context:** No inherited holding directly determines whether §1983 damages may impugn this outstanding conviction. Preserve the habeas/civil-rights channel, accrual and requested-relief distinctions; the availability of a damages remedy cannot be assumed from preparation of this brief. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -568,7 +568,7 @@ The relation of the particular damages claim to the outstanding conviction is an
 **Source Support:** [R45](https://supreme.justia.com/cases/federal/us/512/477/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Heck v. Humphrey review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 83. Davis v. United States
 
@@ -588,7 +588,7 @@ The relation of the particular damages claim to the outstanding conviction is an
 
 **Inherited-Law Context:** Withrow maintains the distinct Miranda and coercion inquiries without deciding the clarity required to invoke counsel after waiver. Apply the eligible Edwards/Smith authorities to Davis's actual words and questioning. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -625,7 +625,7 @@ The issue is postwaiver invocation of the interrogation right, not attachment of
 **Source Support:** [R46](https://supreme.justia.com/cases/federal/us/512/452/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Davis v. United States review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 84. Thomas Jefferson University v. Shalala
 
@@ -645,7 +645,7 @@ The issue is postwaiver invocation of the interrogation right, not attachment of
 
 **Inherited-Law Context:** Good Samaritan permits a reasoned permissible construction and addresses interpretive change; Boston & Maine requires a discernible agency rationale. Neither substitutes for reading this regulation's distinct anti-redistribution and community-support provisions. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -680,4 +680,4 @@ Judicial review proceeds through the Medicare review channel and incorporated AP
 **Source Support:** [R47](https://supreme.justia.com/cases/federal/us/512/504/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Thomas Jefferson University v. Shalala review](review/07_CASES_73-84.md), [interpretive supplement](OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

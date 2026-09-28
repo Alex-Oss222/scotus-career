@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Lee, Lamb's Chapel and Lukumi preserve their distinct coercion, forum-neutrality and religious-targeting rules. Simulated Zobrest decided a remand on antecedent grounds and no Establishment Clause merits; do not import historical approval of aid from that case. Determine the special district's public authority and statutory classification here. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,4 +59,4 @@ The challenged governmental act is the special school-district creation, not the
 **Source Support:** [R49](https://supreme.justia.com/cases/federal/us/512/687/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Board of Education of Kiryas Joel Village School District v. Grumet review](review/08_CASES_85-95.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

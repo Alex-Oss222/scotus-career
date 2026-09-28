@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** The inherited registers do not adopt an FELA emotional-distress standard for these two claims. Preserve the separate claim records and the statute/common-law analysis; no general safe-workplace constitutional duty decides this negligence statute. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,4 +57,4 @@ Gottshall's direct emergency involvement, heat, communication failure, and alleg
 **Source Support:** 512 U.S. 535-572: separate employee records, lower judgments, FELA text, and competing common-law approaches. [P38](https://supreme.justia.com/cases/federal/us/512/532/)
 
 
-**Revision Trace:** User-directed implementation of [Consolidated Rail Corp. v. Gottshall review](review/08_CASES_85-95.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

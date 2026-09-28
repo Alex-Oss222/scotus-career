@@ -36,7 +36,7 @@ No party-specific penalty under §203(e) or effective-date rejection under §203
 
 ## Stone — approved position and compatibility
 
-The parent operator confirms the user's express approval of Section II as written. The operative source is matter 74 alone in runtime/OT_1993CHUNK7_STONE.md, together with the referenced OT_1993_STONE_METHOD.md. The preparation-status wording does not negate that later express authorization. The source's Justia references are replaced for factual verification by the official and full lower-court materials identified below; no substantive position is changed.
+The parent operator confirms the user's express approval of Section II as written. The operative source is matter 74 alone in runtime/OT_1993CHUNK7_STONE.md. The preparation-status wording does not negate that later express authorization. The source's Justia references are replaced for factual verification by the official and full lower-court materials identified below; no substantive position is changed.
 
 Stone affirms the invalidation, leaves Congress's filing mechanism operative, preserves modifications the statute actually authorizes, and refuses to set rates, decide past monetary consequences or impose a substitute regulatory program. His independent interpretive preference starts with text and examines context, structure, history, precedent, practical consequences and source-authorized equity. Equal regard for carriers, customers and regulator does not change legal burdens or create remedial authority. For this case his fixed reason is the difference between adjusting how filing operates in specified circumstances and replacing its mandatory character throughout a defined sector.
 

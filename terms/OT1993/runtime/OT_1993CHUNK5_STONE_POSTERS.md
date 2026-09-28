@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-05-23 through 1994-06-06. Event date
 
 **Inherited-Law Context:** No inherited holding determines former §857's knowledge element. Preserve the offense-date statute, as-applied vagueness question and any actual effective earlier Ratzlaf, Granderson and Staples rulings. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,5 +59,5 @@ Affirm only the preserved questions under the charged historical statute. Do not
 **Source Support:** 511 U.S. 514-530: business record, statutory text, scienter arguments, exemptions, and vagueness objections. [P26](https://supreme.justia.com/cases/federal/us/511/513/)
 
 
-**Revision Trace:** User-directed implementation of [Posters ’N’ Things, Ltd. v. United States review](review/05_CASES_49-60.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

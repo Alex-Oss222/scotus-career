@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** No inherited ruling decides the federal gift-tax consequences of this delayed state-law disclaimer. Preserve the creation, knowledge and disclaimer dates and distinguish the federal transfer question from state relation back. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -53,7 +53,7 @@ The counterargument is that the state disclaimer means Irvine never owned the tr
 **Source Support:** 511 U.S. 226-243: trust and disclaimer chronology, tax provisions, regulations, and lower-court analysis. [P19](https://supreme.justia.com/cases/federal/us/511/224/)
 
 
-**Revision Trace:** User-directed implementation of [United States v. Irvine review](review/04_CASES_37-48.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 
@@ -75,7 +75,7 @@ The counterargument is that the state disclaimer means Irvine never owned the tr
 
 **Inherited-Law Context:** The waste-origin decisions and Boston Harbor preserve the distinction between government purchasing and regulation. Determine this flow-control ordinance's actual operation; municipal involvement alone does not establish a market-participant exception. Earlier OT1993 commerce decisions require effective simulated records. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -114,6 +114,6 @@ The enforcement judgment burdens Carbone’s actual operations and interstate di
 **Source Support:** [R23](https://supreme.justia.com/cases/federal/us/511/383/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [C & A Carbone, Inc. v. Town of Clarkstown review](review/04_CASES_37-48.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 

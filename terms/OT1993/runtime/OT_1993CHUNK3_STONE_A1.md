@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-02-23 through 1994-04-20. Event date
 
 **Inherited-Law Context:** No inherited ruling determines whether state forum non conveniens rules are displaced in this saving-to-suitors action. Preserve the distinction between substantive maritime uniformity and the forum's procedural choice. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -55,7 +55,7 @@ The administrability advantage is that courts can identify what legal entitlemen
 **Source Support:** 510 U.S. 445-464: maritime claim, state procedural law, the saving-to-suitors clause, and earlier uniformity cases. [P13](https://supreme.justia.com/cases/federal/us/510/443/)
 
 
-**Revision Trace:** User-directed implementation of [American Dredging Co. v. Miller review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 28. Liteky v. United States
 
@@ -75,7 +75,7 @@ The administrability advantage is that courts can identify what legal entitlemen
 
 **Inherited-Law Context:** Martin's particular fee-screening finding and Gibson's panel-bias holding do not establish a universal §455(a) extrajudicial-source rule. Preserve the statutory appearance inquiry and the actual trial conduct. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -112,5 +112,5 @@ The strongest objection is strategic recusal motions and appellate relitigation 
 **Source Support:** 510 U.S. 541-546: trial conduct, recusal motion, and statutory antecedents. Competing same-matter Supreme Court formulations are not entering law. [P14](https://supreme.justia.com/cases/federal/us/510/540/)
 
 
-**Revision Trace:** User-directed implementation of [Liteky v. United States review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

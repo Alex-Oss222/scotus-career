@@ -20,7 +20,7 @@ Mechanically copied without substantive revision from the runtime split. The use
 
 **Inherited-Law Context:** Zatko, Martin and Demos govern the Rule 39 inquiry. Determine frivolousness or malice separately for each current petition; prior denials alone cannot establish it. Martin and Demos declined prospective restrictions on their records and did not enact a categorical ban or a universal warning prerequisite. The broader historical Martin restriction is not entering law. Financial eligibility, present-petition screening and any future restriction remain separate. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 **Restatement of September 26, 2026:** At the user's direction, the disposition in Part B and the application in Part D are restated so that Stone decides these motions on the record before the Court. The eight petitions and their supporting affidavits were not recovered into the research sources; that is a source limitation to be recorded, not a condition of decision and not an inference against either side. Stone's commitments are unchanged: a petition-specific ground for any Rule 39.8 denial, no categorical prospective bar on this record, and equal access.
 
@@ -57,7 +57,7 @@ Stone can reasonably prefer a free leave-to-file screen for specifically identif
 **Source Support:** 510 U.S. 1-3: pre-event filing history, governing rules, and authorities predating this matter. [P01](https://caselaw.findlaw.com/court/us-supreme-court/510/1.html)
 
 
-**Revision Trace:** User-directed implementation of [Day v. Day review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 2. In re Sassower
 
@@ -77,7 +77,7 @@ Stone can reasonably prefer a free leave-to-file screen for specifically identif
 
 **Inherited-Law Context:** Apply the same inherited filing-specific rule to each of the ten motions, with the component-specific participation stated above. Day may supply additional law only after an actual effective same-day decision in the expressly established sequence. Neither earlier filing volume nor the historical disposition resolves any present motion. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 **Restatement of September 26, 2026:** At the user's direction, the disposition in Part B and the application in Part D are restated so that Stone decides these motions on the record before the Court. The ten petitions and their supporting affidavits were not recovered into the research sources; that is a source limitation to be recorded, not a condition of decision and not an inference against either side. Stone's commitments are unchanged: a petition-specific ground for any Rule 39.8 denial, no categorical prospective bar on this record, and equal access.
 
@@ -114,4 +114,4 @@ For application, assess each current petition separately, permit a new nonfrivol
 **Source Support:** 510 U.S. 4-6: docket identities, pre-event filing history, and docket-specific participation. [P02](https://www.law.cornell.edu/supct/html/92-8933.ZPC.html)
 
 
-**Revision Trace:** User-directed implementation of [In re Sassower review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

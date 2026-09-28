@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-06-06 through 1994-06-13. Event date
 
 **Inherited-Law Context:** Estelle preserves the constitutional threshold for state evidentiary error; Lashley rejects a blanket instruction about innocence of other crimes; Graham/Johnson require effective consideration of supported mitigation. None decides the effect of this other death judgment on the jury's responsibility. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,6 +57,6 @@ This is direct review of the limited penalty-phase federal question. Oklahoma’
 **Source Support:** [R37](https://supreme.justia.com/cases/federal/us/512/1/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Romano v. Oklahoma review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 

@@ -1,3 +1,0 @@
-# OT1993 external preparation references
-
-`audit/sources/STONE_REFINEMENTS_USER_TEXT.md` and `review/01_CASES_01-12.md` through `review/08_CASES_85-95.md` refer to ChatGPT-side preparation material the user kept outside this repository. These materials were never imported and will remain external. Their references in the briefs and derived handoffs are intentional provenance references, not accidentally missing repository files; as with the authorized `inherited/` path aliases, their meaning is supplied centrally rather than by creating files at the literal paths. Unlike the inherited aliases, they have no local replacement target. This note neither reconstructs their contents nor changes any approved brief or adjudication.

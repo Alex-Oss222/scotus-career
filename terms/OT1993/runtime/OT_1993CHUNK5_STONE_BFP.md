@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-05-23 through 1994-06-06. Event date
 
 **Inherited-Law Context:** Dewsnup and Nobelman preserve their Chapter 7 and Chapter 13 lien rules. Neither resolves §548 reasonably equivalent value or establishes that every compliant foreclosure price controls fraudulent-transfer review. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,5 +57,5 @@ The claim invokes the bankruptcy avoidance power through the debtor in possessio
 **Source Support:** [R25](https://supreme.justia.com/cases/federal/us/511/531/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [BFP v. Resolution Trust Corp. review](review/05_CASES_49-60.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

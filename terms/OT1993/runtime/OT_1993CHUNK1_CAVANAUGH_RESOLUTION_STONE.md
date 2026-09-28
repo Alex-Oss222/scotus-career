@@ -16,7 +16,7 @@
 
 **Inherited-Law Context:** No inherited decision resolves this parole-calendar Ex Post Facto claim or its precise §1983 vehicle. Preserve mootness, relief and the limited post-grant procedural question before reaching either merits theory. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -53,5 +53,5 @@ The cost is litigation over speculative parole prospects. Avoid requiring proof 
 **Source Support:** Roller, 984 F.2d 120, 121-123: the judgment below, offense and hearing dates, relief, and preserved claims; 510 U.S. 42 identifies the Supreme Court matter. [P04](https://www.law.cornell.edu/supct/html/92-1510.ZPC.html) [P04.1](https://law.justia.com/cases/federal/appellate-courts/F2/984/120/356289/)
 
 
-**Revision Trace:** User-directed implementation of [Cavanaugh v. Roller review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

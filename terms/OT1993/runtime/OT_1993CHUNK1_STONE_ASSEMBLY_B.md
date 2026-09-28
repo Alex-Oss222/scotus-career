@@ -20,7 +20,7 @@ Mechanically copied without substantive revision from the runtime split. The use
 
 **Inherited-Law Context:** Soldal's possessory protection, Buena Vista's defense-before-relation-back rule and Austin's Excessive Fines coverage retain separate force. None settles whether notice and a hearing must precede this real-property seizure or converts statutory forfeiture into an automatic entitlement. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -61,7 +61,7 @@ The in rem action rests on 21 U.S.C. §881(a)(7), with §881(d) incorporating cu
 **Source Support:** [R03](https://supreme.justia.com/cases/federal/us/510/43/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [United States v. James Daniel Good Real Property review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 8. John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank
 
@@ -81,7 +81,7 @@ The in rem action rests on 21 U.S.C. §881(a)(7), with §881(d) incorporating cu
 
 **Inherited-Law Context:** Mertens distinguishes the scope of ERISA equitable relief from fiduciary status; Fabe's policyholder-protection rule concerns a different McCarran-Ferguson conflict. Apply those limits without treating either case as a decision that this contract's free funds are or are not plan assets. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -120,4 +120,4 @@ The statutory fiduciary-status issue is preserved and reviewable under §1254(1)
 **Source Support:** [R04](https://supreme.justia.com/cases/federal/us/510/86/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

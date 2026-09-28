@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Arave addresses eligibility narrowing; Graham and Johnson require effective use of supported culpability mitigation; weighing-error correction has its own rule. Keep those inherited requirements distinct from the challenged selection factors and do not import historical Graham/Johnson denials or a later OT1993 result. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,4 +59,4 @@ Keep the two judgments and the different challenges distinct. The present object
 **Source Support:** [R55](https://supreme.justia.com/cases/federal/us/512/967/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Tuilaepa v. California / Proctor v. California review](review/08_CASES_85-95.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

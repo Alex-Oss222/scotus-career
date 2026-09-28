@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Regenerate/check OT1993 brief splits with the F04 local-link correction.
+"""Regenerate/check OT1993 brief splits.
 
 Uses the repository splitter's parsing functions without modifying that tool or
-the approved briefs. Only the relocated Stone-method link target is rebased;
-external preparation references and all substantive text remain untouched.
+the approved briefs.
 """
 from pathlib import Path
 import argparse
@@ -29,10 +28,6 @@ def expected_outputs(chunk):
         raise ValueError(f"No cases in {brief}")
     for kind, sections in zip(("NEUTRAL", "STONE", "COMPARATOR"), parts):
         content = preamble + "\n".join(sections)
-        content = content.replace(
-            "](OT_1993_STONE_METHOD.md)",
-            "](../briefs/OT_1993_STONE_METHOD.md)",
-        )
         yield TERM / "runtime" / f"OT_1993CHUNK{chunk}_{kind}.md", content
 
 
@@ -46,10 +41,10 @@ def main():
     for path, expected in expected_outputs(args.chunk):
         if args.check:
             if not path.exists() or path.read_text(encoding="utf-8") != expected:
-                raise SystemExit(f"Stale or missing path-rebased split: {path}")
+                raise SystemExit(f"Stale or missing split: {path}")
         else:
             path.write_text(expected, encoding="utf-8", newline="\n")
-    print(f"OK: chunk {args.chunk}; three splits {'match' if args.check else 'regenerated from'} approved brief with the F04 link rebase")
+    print(f"OK: chunk {args.chunk}; three splits {'match' if args.check else 'regenerated from'} approved brief")
 
 
 if __name__ == "__main__":

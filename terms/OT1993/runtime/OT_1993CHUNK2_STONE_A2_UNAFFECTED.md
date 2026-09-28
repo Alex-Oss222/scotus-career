@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Collins preserves the need to identify the actual constitutional deprivation; Soldal keeps specific constitutional protections distinct; Hafer concerns defendant capacity. None decides the unpresented Fourth Amendment claim or supplies a generalized constitutional malicious-prosecution right. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,7 +59,7 @@ The petition does not present a Fourth Amendment claim; procedural due process i
 **Source Support:** [R07](https://supreme.justia.com/cases/federal/us/510/266/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Albright v. Oliver review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 16. National Organization for Women, Inc. v. Scheidler
@@ -80,7 +80,7 @@ The petition does not present a Fourth Amendment claim; procedural due process i
 
 **Inherited-Law Context:** Holmes's direct causation and Reves's operation-or-management requirement remain independent RICO elements. Bray's failure of the particular §1985(3) theory does not immunize clinic obstruction from a separately established RICO claim and supplies no economic-motive element. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -119,7 +119,7 @@ The clinics’ allegations of injury to their own business or property supply th
 **Source Support:** [R08](https://supreme.justia.com/cases/federal/us/510/249/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [National Organization for Women, Inc. v. Scheidler review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 18. Department of Revenue of Oregon v. ACF Industries, Inc.
@@ -140,7 +140,7 @@ The clinics’ allegations of injury to their own business or property supply th
 
 **Inherited-Law Context:** The prior simulated tax decisions do not decide the 4-R Act exemption question presented here. Apply this statute's categories and retain the distinction between discriminatory rates or assessments and generally available property exemptions. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -175,5 +175,5 @@ Stone's equality theory supplies no independent demand that unlike commercial pr
 **Source Support:** 510 U.S. 334-347: tax categories, statutory text, lower-court treatment, and the parties’ competing constructions. [P10](https://supreme.justia.com/cases/federal/us/510/332/)
 
 
-**Revision Trace:** User-directed implementation of [Department of Revenue of Oregon v. ACF Industries, Inc. review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

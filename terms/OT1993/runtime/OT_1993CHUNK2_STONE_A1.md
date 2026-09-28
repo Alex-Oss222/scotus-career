@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-01-19 through 1994-02-23. Event date
 
 **Inherited-Law Context:** Gibson and Concrete Pipe establish context-specific impartiality principles. Neither decides military appointment, detailing, fixed tenure, or the military judiciary's statutory safeguards; those issues require the separate analysis below. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -61,7 +61,7 @@ Fixed terms might be wise, but selecting their duration would be judicial instit
 **Source Support:** 510 U.S. 165-181: courts-martial posture, appointments, statutory safeguards, and cited pre-event authority. [P07](https://supreme.justia.com/cases/federal/us/510/163/)
 
 
-**Revision Trace:** User-directed implementation of [Weiss v. United States review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 14. Schiro v. Farley
 
@@ -81,7 +81,7 @@ Fixed terms might be wise, but selecting their duration would be judicial instit
 
 **Inherited-Law Context:** Dixon retained Grady in this simulation. Keep that successive-prosecution rule distinct from Ashe issue preclusion and from whether blank verdict forms necessarily decided intentional killing. Griffin and Sochor do not turn silence into a finding. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -122,5 +122,5 @@ Declining the late *Teague* argument is a permissible case-specific procedural c
 **Source Support:** 510 U.S. 224-236: verdict forms, jury instructions, presentation of Teague, and cited pre-event authorities. [P08](https://supreme.justia.com/cases/federal/us/510/222/)
 
 
-**Revision Trace:** User-directed implementation of [Schiro v. Farley review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

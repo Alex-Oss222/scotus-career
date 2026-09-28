@@ -27,7 +27,7 @@ Research cutoff is immediately before 1994-06-30, supplemented only by the expre
 
 ## Stone: approval, compatibility and exact joins
 
-The user authorizes Section II as written in `freeze/OT_1993CHUNK8_STONE_INPUT_DEGRANDY.md`; the preparation-status label in that input is read with the current express adjudication authorization. `briefs/OT_1993_STONE_METHOD.md` informs his method without adding a new dispositive ground. No combined brief, different Stone supplement or other private case audit was opened.
+The user authorizes Section II as written in `freeze/OT_1993CHUNK8_STONE_INPUT_DEGRANDY.md`; the preparation-status label in that input is read with the current express adjudication authorization. No combined brief, different Stone supplement or other private case audit was opened.
 
 Stone's fixed disposition rejects the procedural defenses, reverses House liability and relief, and affirms the operative Senate plan for absent proved violation. His full core makes totality the reason liability fails; rough proportionality cannot erase a distinct supported local injury or displace accepted history and polarization. That conditional warning was tested against the corrected frozen record. The neighborhood descriptions, separate feasibility findings and legal conclusion below do not establish a distinct supported injury independent of the maximization premise on the reconciled appraisal. The opinion addresses them expressly, preserves Rule 52(a), and imposes no new selective-treatment or intent prerequisite. No new source fact or unresolved independent injury is filled by inference.
 

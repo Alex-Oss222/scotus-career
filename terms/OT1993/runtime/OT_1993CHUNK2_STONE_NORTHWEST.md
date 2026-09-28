@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Itel retains Complete Auto's separate requirements and the distinction between services and taxation, but does not determine the Anti-Head Tax Act airport-charge standard or an implied cause of action here. Preserve the unchallenged judgment and cross-petition limits. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -57,5 +57,5 @@ A reasonable reserve can finance predictable capital needs; an unexplained accum
 **Source Support:** 510 U.S. 357-374: fee allocations, proceedings below, cross-petition scope, statutory text, and earlier fee cases. [P11](https://supreme.justia.com/cases/federal/us/510/355/)
 
 
-**Revision Trace:** User-directed implementation of [Northwest Airlines, Inc. v. County of Kent review](review/02_CASES_13-24.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

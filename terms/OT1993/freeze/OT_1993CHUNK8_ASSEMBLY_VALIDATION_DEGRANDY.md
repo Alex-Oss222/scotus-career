@@ -39,7 +39,6 @@ These checks validate internal assembly consistency; they do not decide legal me
 | `terms/OT1993/freeze/OT_1993CHUNK8_RECONCILED_DEGRANDY.md` | `5512cb236d900148d36c72c85d34c1a3f037aa66829f813395d7549aab31a654` |
 | `terms/OT1993/freeze/OT_1993CHUNK8_RECONCILIATION_VALIDATION_DEGRANDY.md` | `252503f289c9360e64c12bee170f5770a1804c309e21876cbc4f3b78d2d56e46` |
 | `terms/OT1993/freeze/OT_1993CHUNK8_STONE_INPUT_DEGRANDY.md` | `edbb21c6dba45edc82d9eed682fc046151e52fac3ee61140ea43d086baacb473` |
-| `terms/OT1993/briefs/OT_1993_STONE_METHOD.md` | `27cf2dfd51d393dd6a3d83e4a5c5def500c233643ca926f3e0b7069a8f78a1f8` |
 | `terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_DEGRANDY_PUBLIC.md` | `633c8e6555eda68c43a2d067048629b860fe98b663a50f6c99d8a4267310c2fa` |
 | `terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md` | `959efd6952f6078b7bf6e5690bda2ba7294ff7f4365d65697b51f57bfb0c42c2` |
 | `terms/OT1993/freeze/OT_1993CHUNK8_ASSEMBLY_DEGRANDY_VOTES.json` | `aadaa53a5cf8f4cb52e063a4edabdbc01e00ff4cb5ef5e3f042bd159cd87585c` |

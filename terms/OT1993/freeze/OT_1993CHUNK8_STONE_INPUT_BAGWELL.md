@@ -18,7 +18,7 @@
 
 **Inherited-Law Context:** Simulated Dixon treats completed nonsummary criminal contempt as criminal jeopardy and retains Grady, while leaving coercive civil sanctions distinct. That holding supports keeping punishment and coercion separate but does not itself classify these announced fines or select the required trial procedure. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -55,4 +55,4 @@ The continuing public fines keep the case live despite settlement. The issue is 
 **Source Support:** [R54](https://supreme.justia.com/cases/federal/us/512/821/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [International Union, United Mine Workers of America v. Bagwell review](review/08_CASES_85-95.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

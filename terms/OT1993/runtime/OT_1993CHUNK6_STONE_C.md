@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-06-06 through 1994-06-13. Event date
 
 **Inherited-Law Context:** Suter keeps an enforceable statutory right, a cause of action and relief distinct; Wooddell recognizes a different §301 contract route. Neither precludes §1983 protection of independently established federal labor rights or determines whether this wage claim requires contract interpretation. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -59,7 +59,7 @@ The federal claim concerns interference with NLRA-protected bargaining, not mere
 **Source Support:** [R39](https://supreme.justia.com/cases/federal/us/512/107/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Livadas v. Bradshaw review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 70. United States v. Carlton
@@ -80,7 +80,7 @@ The federal claim concerns interference with NLRA-protected bargaining, not mere
 
 **Inherited-Law Context:** Romein addresses due-process review of a retroactive statutory economic obligation; Harper addresses retroactivity of judicial rules. Keep both distinct from ordinary statutory construction under actual earlier Landgraf/Rivers decisions and examine this amendment's own purpose, reach and reliance record. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -113,7 +113,7 @@ The constitutional inquiry should consider the retroactive operation's own purpo
 **Source Support:** 512 U.S. 28-42: stipulated transactions, legislative chronology, and earlier constitutional tax authorities. [P31](https://supreme.justia.com/cases/federal/us/512/26/)
 
 
-**Revision Trace:** User-directed implementation of [United States v. Carlton review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 71. Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc.
@@ -134,7 +134,7 @@ The constitutional inquiry should consider the retroactive operation's own purpo
 
 **Inherited-Law Context:** Sac and Fox and Yakima preserve particular residence/source and express land-tax authorization rules. They do not exempt every sale to a reservation retailer or authorize taxing protected transactions through an unexamined wholesaler burden. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -167,7 +167,7 @@ The federal-regulation counterargument is strongest if preapproval or reporting 
 **Source Support:** 512 U.S. 64-78: the collection program, facial posture, statutory sources, and preserved implementation issues. [P32](https://supreme.justia.com/cases/federal/us/512/61/)
 
 
-**Revision Trace:** User-directed implementation of [Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 
 ## 72. Howlett v. Birkdale Shipping Co., S.A.
@@ -188,7 +188,7 @@ The federal-regulation counterargument is strongest if preapproval or reporting 
 
 **Inherited-Law Context:** No inherited OT1991–OT1992 rule determines the vessel's precise turnover duty to warn of this cargo-stow hazard. Preserve Scindia's distinct duties and the unloading stevedore's expertise and knowledge on this record. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -223,4 +223,4 @@ Remand disputed knowledge and concealment questions without finding negligence o
 **Source Support:** 512 U.S. 94-106: loading/unloading record, lower judgment, and duties supplied by §905(b) and Scindia. [P33](https://supreme.justia.com/cases/federal/us/512/92/)
 
 
-**Revision Trace:** User-directed implementation of [Howlett v. Birkdale Shipping Co., S.A. review](review/06_CASES_61-72.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.

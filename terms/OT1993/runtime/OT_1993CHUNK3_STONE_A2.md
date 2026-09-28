@@ -20,7 +20,7 @@ Chronological preparation: 12 matters, 1994-02-23 through 1994-04-20. Event date
 
 **Inherited-Law Context:** Dague and Farrar supply bounded fee principles under other statutes. Neither imports a plaintiff/defendant asymmetry or an automatic award into Copyright Act §505. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -55,7 +55,7 @@ Only fees under the Copyright Act are at issue. A prevailing-party status determ
 **Source Support:** [R13](https://supreme.justia.com/cases/federal/us/510/517/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Fogerty v. Fantasy, Inc. review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 27. Campbell v. Acuff-Rose Music, Inc.
 
@@ -75,7 +75,7 @@ Only fees under the Copyright Act are at issue. A prevailing-party status determ
 
 **Inherited-Law Context:** No inherited OT1991–OT1992 ruling determines the four-factor copyright treatment of this parody. Apply the statutory factors and the eligible copyright authorities below without importing a later fair-use holding. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -110,5 +110,5 @@ Fair use is an affirmative defense on which defendants bear the burden. The proc
 **Source Support:** [R14](https://supreme.justia.com/cases/federal/us/510/569/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Campbell v. Acuff-Rose Music, Inc. review](review/03_CASES_25-36.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 

@@ -20,7 +20,7 @@ Mechanically copied without substantive revision from the runtime split. The use
 
 **Inherited-Law Context:** Hicks preserves ordinary discrimination proof without automatic liability or a new persuasion allocation. It does not decide the hostile-environment psychological-injury question; Meritor and the record-specific harassment analysis below remain necessary. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -55,7 +55,7 @@ A final federal employment judgment is reviewable under 28 U.S.C. §1254(1). The
 **Source Support:** [R01](https://supreme.justia.com/cases/federal/us/510/17/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Harris v. Forklift Systems, Inc. review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 4. Florence County School District Four v. Carter
 
@@ -75,7 +75,7 @@ A final federal employment judgment is reviewable under 28 U.S.C. §1254(1). The
 
 **Inherited-Law Context:** The inherited Zobrest remand separates reimbursement authority, funding prohibitions and preservation. It does not decide this IDEA placement question, establish a constitutional aid holding, or entitle these parents to reimbursement. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -110,7 +110,7 @@ Review under §1254(1) concerns the categorical eligibility objection. The paren
 **Source Support:** [R02](https://supreme.justia.com/cases/federal/us/510/7/), with the predecision record and inherited authorities identified in this supplement. Historical disposition is not the reason for Stone’s proposal.
 
 
-**Revision Trace:** User-directed implementation of [Florence County School District Four v. Carter review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
 
 ## 5. Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp.
 
@@ -130,7 +130,7 @@ Review under §1254(1) concerns the categorical eligibility objection. The paren
 
 **Inherited-Law Context:** Simulated Yee distinguishes a new argument supporting a preserved claim from a separate question outside the grant. Its question-presented limit is prudential and exceptions remain narrow; it does not decide whether Izumi obtained party status or review of the intervention denial. Preserve those antecedent issues before settlement vacatur. These inherited rules supply entering law, not an entered decision in this case.
 
-**Interpretive Method and User Direction:** Apply [Stone's method and equitable application](../briefs/OT_1993_STONE_METHOD.md). Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
+**Interpretive Method and User Direction:** Text is the baseline; context, history, structure, precedent, practical consequences, and source-authorized equity inform the analysis. Equal regard extends to every side without changing legally assigned burdens. The adopted case-specific reasoning and limits below replace the former Section II reasoning.
 
 #### B. JUDGMENT AND REMEDY
 
@@ -167,4 +167,4 @@ There is legitimate **unsettled equitable room** to develop settlement-vacatur l
 **Source Support:** 510 U.S. 28-33: settlement, intervention orders, statutory review route, and petition wording. [P03](https://supreme.justia.com/cases/federal/us/510/27/)
 
 
-**Revision Trace:** User-directed implementation of [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. review](review/01_CASES_01-12.md), [interpretive supplement](../briefs/OT_1993_STONE_METHOD.md), and [supplied case reasoning](audit/sources/STONE_REFINEMENTS_USER_TEXT.md). Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
+**Revision Trace:** Contemporary historical opinions are sources of record and competing reasoning, not automatically simulated precedent.
