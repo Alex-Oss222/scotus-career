@@ -424,13 +424,14 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** Simulated Landgraf is controlling, not merely persuasive historical background. The proposed Asgrow construction must apply the pre-amendment Act and may use the later amendment only as later legislation, not as retroactive law or conclusive evidence of what the old text meant.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** Simulated Landgraf is controlling, not merely persuasive historical background. The proposed Asgrow construction must apply the pre-amendment Act and may use the later amendment only as later legislation, not as retroactive law or conclusive evidence of what the old text meant.
 
 ## B. FIXED CORE
 
@@ -443,7 +444,7 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 - **Required Legal Propositions:** The former saved-seed exception covers seed genuinely saved for replanting the farmer’s own acreage, with qualifying later farmer-to-farmer disposition under the proviso. It does not authorize intentional multiplication for reproductive marketing merely because the seller also grows food or feed crops. Reverse and remand under that construction. The remand includes the pleaded § 2541(6) claim. A sale satisfying the correctly construed § 2543 exemption remains exempt from notice liability; otherwise the court must determine the ordinary statutory elements and authorized relief. No finding of separate notice infringement is entered by this Court.
 - **Express Exclusions:** A judicially created fifty-percent quota; a categorical advertising prerequisite for marketing; retroactive application of later statutory liability.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 

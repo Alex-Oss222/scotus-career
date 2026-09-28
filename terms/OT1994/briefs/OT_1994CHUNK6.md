@@ -1099,13 +1099,14 @@ The Court may define the permissible litigation and refer factual questions. It 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The 1993 Nebraska record is controlling law within this same original action. The proposed 1995 position must apply its enforcement/modification distinction and clear-and-convincing substantial-injury burden. Stone may not be treated as having adopted the separate postdecree-acquiescence rationale he expressly declined to join.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The 1993 Nebraska record is controlling law within this same original action. The proposed 1995 position must apply its enforcement/modification distinction and clear-and-convincing substantial-injury burden. Stone may not be treated as having adopted the separate postdecree-acquiescence rationale he expressly declined to join.
 
 ## B. FIXED CORE
 
@@ -1121,7 +1122,7 @@ The Court may define the permissible litigation and refer factual questions. It 
 - **Required Legal Propositions:** Reject Wyoming’s proposed beneficial-use ceiling as a relitigation of the settled allocation, while preserving discrete claims of violations of the decree’s geography or priorities and relevant defensive evidence not dependent on that ceiling. Allow Nebraska’s groundwater component to proceed because the alleged development and flow effects identify a potential injury to the decree’s allocation; Nebraska’s own pumping does not categorically bar the claim without the required connection and harm. Permit consideration of downstream and habitat effects insofar as they bear on the asserted injury and lawful modification of this decree, without recognizing an independent instream allocation or granting Nebraska’s unadmitted global Count IV. Allow the Horse Creek allegation to proceed at the pleading stage to the extent it identifies changed conditions threatening the decree’s balance; its location below the pivotal reach does not by itself defeat that claim. Allow Wyoming’s Fourth Cross-Claim only insofar as alleged federal storage administration affects the operation or supporting conditions of the interstate decree. Independent contractual compliance is not itself a subject of this original proceeding and remains for its lawful separate channel. Admit Nebraska Counts I–III and Wyoming’s specified Second–Fourth Counterclaims and Second–Fifth Cross-Claims subject to the issue-specific limits; deny Nebraska Count IV without prejudice and reject only the impermissible formula component of the First Counterclaim and Cross-Claim, preserving the discrete decree issues described above.
 - **Express Exclusions:** Automatic leave because a pleading is labeled an amendment; relitigation of the settled percentage formula without the requisite basis; treating wildlife evidence as an independent water right; general original jurisdiction over federal contracts.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1458,13 +1459,14 @@ The consolidated limitations issue may be resolved. No additional Crown Cork bri
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The simulation audit found no prior controlling WARN limitations rule. The proposed use of an analogous state period therefore remains an ordinary federal borrowing analysis rather than a simulation-specific doctrinal development.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The simulation audit found no prior controlling WARN limitations rule. The proposed use of an analogous state period therefore remains an ordinary federal borrowing analysis rather than a simulation-specific doctrinal development.
 
 ## B. FIXED CORE
 
@@ -1477,7 +1479,7 @@ The consolidated limitations issue may be resolved. No additional Crown Cork bri
 - **Required Legal Propositions:** Borrow an appropriate analogous state limitations period for these WARN claims. Section 10(b) does not supply a sufficiently close and significantly more suitable rule, and the claims are timely under the state candidates presented. Affirm both appellate judgment components.
 - **Express Exclusions:** A federal period inferred from the labor label alone; a guarantee that every state period is adequate; a new limitations statute drafted by the Court.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1951,13 +1953,14 @@ Statutory interpretation and the scope of necessary findings may be resolved; th
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The old "refresh points" for Thomas Jefferson University and MCI were stale: both cases are now completed simulated law. They reinforce source-bound statutory interpretation but do not dictate the official-detention answer. Wilson remains the controlling sentence-credit allocation case.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The old "refresh points" for Thomas Jefferson University and MCI were stale: both cases are now completed simulated law. They reinforce source-bound statutory interpretation but do not dictate the official-detention answer. Wilson remains the controlling sentence-credit allocation case.
 
 ## B. FIXED CORE
 
@@ -1970,7 +1973,7 @@ Statutory interpretation and the scope of necessary findings may be resolved; th
 - **Required Legal Propositions:** Compulsory confinement in an institution under a court order can constitute official detention under § 3585(b) when it is equivalent to incarceration; a conditional-release label does not itself bar credit. Affirm the remand for findings on Koray’s actual conditions and the uncredited qualifying period.
 - **Express Exclusions:** Denial solely from the word release; automatic credit for any burden on liberty; a judicial substitute for the BOP’s initial calculation; duplicate sentence credit.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 

@@ -296,13 +296,14 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** Izumi supplies no controlling settlement-vacatur merits rule; its Stevens-Blackmun vacatur discussion is noncontrolling. The proposed Bancorp disposition therefore must stand on § 2106, Munsingwear/Karcher, and equitable allocation, not on an invented prior simulated holding.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** Izumi supplies no controlling settlement-vacatur merits rule; its Stevens-Blackmun vacatur discussion is noncontrolling. The proposed Bancorp disposition therefore must stand on § 2106, Munsingwear/Karcher, and equitable allocation, not on an invented prior simulated holding.
 
 ## B. FIXED CORE
 
@@ -315,7 +316,7 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 - **Required Legal Propositions:** The Court retains authority under § 2106 to determine the disposition of a judgment after the underlying controversy becomes moot. Settlement voluntarily accepted by the party seeking vacatur does not ordinarily justify vacatur; the movant has identified no exceptional circumstance here. Deny vacatur and dismiss the case as moot.
 - **Express Exclusions:** Automatic vacatur merely because settlement occurred; a categorical absence of § 2106 dispositional authority; any advisory bankruptcy merits ruling.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1440,13 +1441,14 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** MCI is now effective simulated law and strengthens the source-bound agency analysis: an agency cannot erase a statutory command, but neither may a court erase an independently conferred enforcement power. The proposed Transcon result remains supportable on that distinction.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** MCI is now effective simulated law and strengthens the source-bound agency analysis: an agency cannot erase a statutory command, but neither may a court erase an independently conferred enforcement power. The proposed Transcon result remains supportable on that distinction.
 
 ## B. FIXED CORE
 
@@ -1459,7 +1461,7 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 - **Required Legal Propositions:** The ICC may invoke its statutory enforcement authority to enjoin collection that violates valid credit regulations. The filed-rate rule does not categorically defeat such an injunction. Reverse and remand for application to the collections actually subject to the regulatory requirements.
 - **Express Exclusions:** An implied agency power to nullify tariffs; automatic private defenses; bankruptcy immunity from valid public regulation.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 

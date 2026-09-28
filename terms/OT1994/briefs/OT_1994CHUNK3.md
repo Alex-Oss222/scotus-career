@@ -454,13 +454,14 @@ The Court may resolve the jurisdictional framework and its application at this s
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The completed simulated maritime cases do not supply a different admiralty-jurisdiction test. The proposed Grubart disposition therefore remains an application of the surviving Sisson/Extension Act framework, with Gizoni and McDermott used only for their actual maritime propositions.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The completed simulated maritime cases do not supply a different admiralty-jurisdiction test. The proposed Grubart disposition therefore remains an application of the surviving Sisson/Extension Act framework, with Gizoni and McDermott used only for their actual maritime propositions.
 
 ## B. FIXED CORE
 
@@ -473,7 +474,7 @@ The Court may resolve the jurisdictional framework and its application at this s
 - **Required Legal Propositions:** Admiralty jurisdiction exists where vessel-based work on navigable waters proximately causes the alleged land injury and the incident and activity satisfy Sisson’s maritime-connection requirements. The alleged damage to the underwater tunnel by barge-based pile driving meets that jurisdictional framework; affirm both consolidated judgments.
 - **Express Exclusions:** Location alone as sufficient; a rule requiring every alleged tortfeasor to perform maritime activity; jurisdiction as automatic limitation of liability.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -755,13 +756,14 @@ The threshold disposition may be prepared on the described absence of authorizat
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The current simulated mootness law requires a real inquiry into remaining relief, not automatic dismissal. The loss of the federal waiver is nevertheless materially different from the retained-copy situation in Church of Scientology. Bancorp remains a prospective dependency only and cannot be imported from its preparation file.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The current simulated mootness law requires a real inquiry into remaining relief, not automatic dismissal. The loss of the federal waiver is nevertheless materially different from the retained-copy situation in Church of Scientology. Bancorp remains a prospective dependency only and cannot be imported from its preparation file.
 
 ## B. FIXED CORE
 
@@ -774,7 +776,7 @@ The threshold disposition may be prepared on the described absence of authorizat
 - **Required Legal Propositions:** Because the challenged implementation lacks the required federal authorization and a replacement waiver is not established, the constitutional controversy is not ripe for adjudication in its present posture. Vacate the preliminary judgments and remand for dismissal without prejudice to a challenge to any later operative program.
 - **Express Exclusions:** An advisory constitutional ruling; treating a preliminary injunction as a final merits judgment; assuming a replacement waiver; a permanent bar to a later ripe claim.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
@@ -1431,13 +1433,14 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** v2 — simulation-law audit refresh.
+- **Version:** 2.
 
-- **Approval Status:** PROPOSED AND UNAPPROVED.
-- **Approval Date or Turn:** None. No approval is established.
+- **Approval Status:** APPROVED — STONE CHARACTER POSITION.
+- **Approval Date or Turn:** Approved by the user in the current instruction.
+- **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
 - **Current-Through Baseline:** OT1991–OT1992 term-opening trackers plus validated OT1993 Canonical Decision Records through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
-- **Revalidation Condition:** Apply only after checking the actual completed earlier law and case-specific limits in Section I. Reorganization does not approve this proposal.
-- **Simulation-Law Audit:** The completed simulated ERISA cases reinforce source separation but do not impose a new amendment-procedure formula. The proposed Curtiss-Wright result remains a statutory §402(b)(3) interpretation, and actual corporate authorization of the particular amendment remains a separate remand question.
+- **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
+- **Character Continuity Check:** The completed simulated ERISA cases reinforce source separation but do not impose a new amendment-procedure formula. The proposed Curtiss-Wright result remains a statutory §402(b)(3) interpretation, and actual corporate authorization of the particular amendment remains a separate remand question.
 
 ## B. FIXED CORE
 
@@ -1450,7 +1453,7 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 - **Required Legal Propositions:** A written clause reserving amendment to the company satisfies § 402(b)(3) when corporate law supplies an ascertainable means of identifying persons authorized to act for that company. That sufficiency does not prove actual adoption of the challenged amendment. Remand to determine who possessed amendment authority, whether that authority was exercised, and whether any later ratification was legally effective. The Court decides no abstract remedy for absence of an amendment procedure because the clause satisfies the statute.
 - **Express Exclusions:** Automatic validity of an amendment merely because power was reserved; an invented statutory requirement to list every officer; automatic termination of accrued claims.
 
-These are proposed fixed inputs. Once expressly approved, assembly may not alter them without renewed approval.
+These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
 ## C. JUDGMENT AND REMEDY BY COMPONENT
 
