@@ -541,7 +541,6 @@ The legality of the asserted exceptions can be decided without independently cal
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -988,7 +987,6 @@ The declaration-only stay may be evaluated. Any claimed additional coercive caus
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1288,7 +1286,6 @@ The legal modification question can be decided; all actual compensation conseque
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1722,7 +1719,6 @@ Complete proposed legal positions are supplied for the admitted pure-law controv
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -2151,7 +2147,6 @@ The lawful instruction and new-trial consequence may be decided; ultimate statut
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -2503,7 +2498,6 @@ The prosecution bar may be decided; a future sentencing dispute requires its own
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
