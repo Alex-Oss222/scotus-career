@@ -424,7 +424,6 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
