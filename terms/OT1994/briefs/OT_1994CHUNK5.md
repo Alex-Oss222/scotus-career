@@ -202,7 +202,6 @@ The original-order timeliness issue can be decided. Remaining immigration merits
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
@@ -1537,7 +1536,6 @@ The identified liability and exception paths may be modeled. A new quantitative 
 
 ## A. APPROVAL AND SCOPE
 
-- **Version:** 2.
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
