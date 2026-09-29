@@ -1,0 +1,416 @@
+{
+  "purpose": "Arithmetic only; legal classifications are in Records. Other means a distinct position, not nonparticipation.",
+  "records": [
+    {
+      "components": [
+        {
+          "label": "reverse and remand",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Ginsburg"
+          ],
+          "oppose": [
+            "O'Connor",
+            "Thomas",
+            "Breyer"
+          ],
+          "count": "6-3"
+        }
+      ],
+      "writings": [
+        {
+          "author": "Kennedy",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Souter",
+            "Ginsburg"
+          ],
+          "scope": "Court opinion in full"
+        },
+        {
+          "author": "Scalia",
+          "joins": [],
+          "scope": "concurrence"
+        },
+        {
+          "author": "Breyer",
+          "joins": [
+            "O'Connor",
+            "Thomas"
+          ],
+          "scope": "dissent"
+        }
+      ],
+      "holdingscoalitions": [
+        {
+          "label": "premotive condition",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Ginsburg"
+          ]
+        },
+        {
+          "label": "remand and error consequences",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Ginsburg"
+          ]
+        }
+      ],
+      "record": "Tome_v_United_States_merits_1995-01-10.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "components": [
+        {
+          "label": "vacate jurisdictional characterization",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "count": "9-0"
+        },
+        {
+          "label": "substantive dismissal of pleaded selection claims",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "count": "9-0"
+        },
+        {
+          "label": "vacate jurisdictional judgment as whole and remand",
+          "support": [
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stone-Zsela"
+          ],
+          "count": "8-1; Chief separately affirms merits dismissal"
+        }
+      ],
+      "writings": [
+        {
+          "author": "Souter",
+          "joins": [
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "full Court opinion; Stone-Zsela joins two holdings but not formal vacatur of whole dismissal"
+        },
+        {
+          "author": "Stone-Zsela",
+          "joins": [],
+          "scope": "concurrence in part and substantive disposition"
+        }
+      ],
+      "holdingscoalitions": [
+        {
+          "label": "selection defense",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        },
+        {
+          "label": "jurisdiction and merits distinction",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        }
+      ],
+      "record": "Young_v_Northern_Illinois_Conference_merits_1995-01-17.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "components": [
+        {
+          "label": "reverse Federal Circuit judgment",
+          "support": [
+            "Stone-Zsela",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens"
+          ],
+          "count": "8-1"
+        },
+        {
+          "label": "conclusive failure of saved-seed condition with limited return",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens"
+          ],
+          "other": [
+            "Stone-Zsela"
+          ],
+          "count": "7-1-1; Chief leaves application on remand"
+        }
+      ],
+      "writings": [
+        {
+          "author": "Scalia",
+          "joins": [
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "full Court opinion"
+        },
+        {
+          "author": "Stone-Zsela",
+          "joins": [],
+          "scope": "reversal concurrence and separate application/notice remand"
+        },
+        {
+          "author": "Stevens",
+          "joins": [],
+          "scope": "affirmance dissent"
+        }
+      ],
+      "holdingscoalitions": [
+        {
+          "label": "saved-seed rule and actual failure",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        },
+        {
+          "label": "ordinary marketing and whole-business occupation",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        },
+        {
+          "label": "former-law temporal text",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        }
+      ],
+      "record": "Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "unvoted_reservation": "No final separate notice liability or damages is adjudicated; this is a scope reservation, not a 9-0 vote."
+    },
+    {
+      "components": [
+        {
+          "label": "reverse categorical waiver bar and new-trial judgment",
+          "support": [
+            "Stone-Zsela",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens",
+            "Souter"
+          ],
+          "count": "7-2"
+        },
+        {
+          "label": "six-Justice affirmative-challenge enforcement rule",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens",
+            "Souter"
+          ],
+          "other": [
+            "Stone-Zsela"
+          ],
+          "count": "6-2-1; Chief separate Government-proof rule"
+        }
+      ],
+      "writings": [
+        {
+          "author": "Thomas",
+          "joins": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Court opinion in full"
+        },
+        {
+          "author": "Ginsburg",
+          "joins": [
+            "O'Connor",
+            "Breyer"
+          ],
+          "scope": "broader-use reservation concurrence"
+        },
+        {
+          "author": "Stone-Zsela",
+          "joins": [],
+          "scope": "judgment concurrence with Government proof"
+        },
+        {
+          "author": "Souter",
+          "joins": [
+            "Stevens"
+          ],
+          "scope": "affirmance dissent"
+        }
+      ],
+      "holdingscoalitions": [
+        {
+          "label": "limited waiver enforcement and affirmative-challenge rule",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        }
+      ],
+      "record": "United_States_v_Mezzanatto_merits_1995-01-18.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ]
+}

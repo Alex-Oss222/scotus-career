@@ -1,0 +1,11 @@
+# Schlup assembly validation ? OT1994 chunk 2
+
+Preserved Record: records/Schlup_v_Delo_merits_1995-01-23.md. The preserved bytes equal the reviewed draft. Final frozen reconciliation supplies all Associate positions; no post-reconciliation Associate commitment changed. Stone enters only in assembly and his distinct statutory nonjoin and nonexclusive reliability guidance are explicit.
+
+Checks passed: exact first four labels; eleven ordered public blocks; identical internal/public Holdings; controlling explanations of 168 and 178 words; 6?3 complete judgment vote; six gateway rationale votes and five statutory-refusal rationale votes; exact partial joins; complete former ?2244(b) quotation with both hearing alternatives and both conjunctive qualifications; public separate positions identical to the complete internal published-position continuity section.
+
+The actual public law of seven earlier events was inspected before preservation. The three previously assembled B matters were checked for unchanged Holdings and Separate Writings against the actual pre-January-23 supplement. Tome/Young and Asgrow/Mezzanatto were inspected directly. None changes Schlup's operative statute, habeas rules, evidence, route or available remedy. McKennon and later events were excluded. Source restrictions and the absence of new claim-specific or credibility findings remain explicit.
+
+The public text preserves statutory permission rather than compulsory dismissal, general residual-discretion and appellate-review reservations, individualized factual development, and no automatic hearing, innocence judgment, constitutional-merits review, release or stay. Scalia/Thomas's additional statutory ground includes actual no-abuse reasoning and retains its strict-rule premise; it supplies no separate correctly-applied-Carrier insufficiency conclusion. Stone's express vacatur covers the same refusal; no unaddressed claim, count or docket component requires the standing fallback.
+
+Vote data: OT_1994CHUNK2_VOTES_SCHLUP.json. Assembly script: drafts/assemble_schlup.py. No earlier B Record or frozen handoff was changed. No Git operation, Git-dependent script, Render, workspace rebuild, Render Input generation or term-wide check is claimed. Parent/operator performs the remaining coordinated checks and projections.

@@ -1,0 +1,15 @@
+# Chunk 2 — Stone control revalidation
+
+Authority: the user's current Run instruction approves Section II of the unchanged chunk brief as written. The runtime Stone file was mechanically regenerated. This is internal control material; no neutral or reconciliation context may receive it.
+
+All twelve matters have approved disposition, reasoning and remedy components. No certiorari poll is requested or needed. Wolens is approved by the current instruction notwithstanding its older USER-SUPPLIED label. The same is true of McKennon and Lebron. Nine Justices are seated; Wolens has the established Scalia nonparticipation.
+
+The listed positions otherwise remain subject to source-supported actual posture and final compatibility. A judgment join does not authorize a rationale join: in particular Mezzanatto's affirmative Government proof burden and limited personal-testimony trigger, NationsBank's independent statutory reading, and Allied-Bruce's preserved constitutional ceiling must not be converted into adoption of a broader Court rationale. Asgrow requires both the saved-seed and exemption-dependent notice components; no automatic notice infringement or new damages finding is approved. Young requires the jurisdiction/merits distinction and a bounded dismissal, with no invention of an independently pleaded secular claim. Tome's other-ground and harmless-error remand remains fixed. Schlup's gateway opening is not an innocence judgment and its reliability considerations are not new elements. McKennon's remedial limitations require proof of actual lawful termination upon discovery, not a merely conceivable reason.
+
+## Fargo — pending controlled clarification
+
+The opening manifest already identifies Casey revalidation as required. Fargo Section II expressly retains that condition and says to align the formulation with the inherited rule, but its operative proposed holding and remand reasoning use the historical large-fraction obstacle formulation. Current Casey requires all six steps, including independently invalid purpose/baseline/obstacle, residual severe-interference scrutiny, meaningful-interference substantiation and fit, clinical protections and tailored relief. It adopts no independent numerical facial-review threshold. Absence of a substantial obstacle does not end review of meaningful interference.
+
+A focused question has been submitted asking whether Stone's preserved vacatur/remand and causal/cumulative analysis should apply the complete existing Casey framework, whether the different rule is intentionally proposed as a change, or whether Fargo should remain stopped for a revised position. No answer or elapsed time is treated as authorization. Until clarified, no final Fargo adjudication or new Stone position may be entered. Neutral research/modeling may independently continue without this control document. The other matters do not depend on Fargo's abortion-specific doctrine.
+
+Final source revalidation and join validation will be recorded after the frozen reconciliations are available.

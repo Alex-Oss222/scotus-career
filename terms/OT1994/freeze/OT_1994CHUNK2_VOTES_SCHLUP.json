@@ -1,0 +1,111 @@
+{
+  "filename": "Schlup_v_Delo_merits_1995-01-23.md",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "nonparticipants": [],
+  "components": [
+    {
+      "label": "vacatur and bounded gateway remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "count": "6-3"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Stevens",
+      "joins": [
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "full; Stone-Zsela additionally joins gateway/all-evidence portion only"
+    },
+    {
+      "author": "Stone-Zsela",
+      "joins": [],
+      "scope": "concurrence in gateway part and judgment; reliability guidance, no §2244(b) interpretation"
+    },
+    {
+      "author": "Kennedy",
+      "joins": [
+        "Thomas"
+      ],
+      "partial_joins": [
+        {
+          "justice": "Scalia",
+          "scope": "strict rule and application only; excludes modified-Jackson alternative"
+        }
+      ],
+      "scope": "strict gateway and application; bounded modified-Jackson alternative"
+    },
+    {
+      "author": "Scalia",
+      "joins": [
+        "Thomas"
+      ],
+      "scope": "additional §2244(b) discretion and no-abuse rationale with strict-rule premise"
+    }
+  ],
+  "holding_coalitions": [
+    {
+      "label": "probability crime gateway and all-evidence method",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "label": "§2244(b) does not independently sustain actual refusal; bounded remand rationale",
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "separate_ground_coalitions": [
+    {
+      "label": "strict gateway affirmance",
+      "support": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    },
+    {
+      "label": "additional statutory-refusal affirmance",
+      "support": [
+        "Scalia",
+        "Thomas"
+      ]
+    }
+  ]
+}

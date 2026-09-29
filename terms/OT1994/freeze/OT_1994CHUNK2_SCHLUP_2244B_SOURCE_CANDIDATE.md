@@ -1,0 +1,18 @@
+# Schlup — former §2244(b), source-only supplement for clean validation
+
+This candidate supplies statutory text and already supplied predecision procedural facts. It contains no present Justice position, current-case Supreme Court disposition, comparator, or proposed resolution. Read with the validated neutral Schlup packet and the permitted entering-law copies. Independent clean validation is required before modeling.
+
+## Statute and date
+
+Official source: [28 U.S.C. §2244, 1994 edition](https://uscode.house.gov/view.xhtml?edition=1994&num=0&req=granuleid%3AUSC-1994-title28-section2244), Office of the Law Revision Counsel. The source identifies its text as laws in effect on January 4, 1995. The subsection below is the pre-AEDPA text, not a later amendment. The official HTML was retrieved directly using a browser User-Agent, and subsection (b) was extracted without a substantive change. The isolated text is also saved at `../research/reconcile_b/2244b-1994.txt`.
+
+> (b) When after an evidentiary hearing on the merits of a material factual issue, or after a hearing on the merits of an issue of law, a person in custody pursuant to the judgment of a State court has been denied by a court of the United States or a justice or judge of the United States release from custody or other remedy on an application for a writ of habeas corpus, a subsequent application for a writ of habeas corpus in behalf of such person need not be entertained by a court of the United States or a justice or judge of the United States unless the application alleges and is predicated on a factual or other ground not adjudicated on the hearing of the earlier application for the writ, and unless the court, justice, or judge is satisfied that the applicant has not on the earlier application deliberately withheld the newly asserted ground or otherwise abused the writ.
+
+The source's historical credit identifies the pertinent amendment as Pub. L. 89–711, §1, November 2, 1966, 80 Stat. 1104. The legal effect of this text is for the clean modeling stage to assess under the supplied predecision authorities; this source handoff supplies no construction. Preserve “need not be entertained” and both “unless” clauses in their terms.
+
+## Predecision procedural facts already supplied
+
+Schlup is in state custody under a murder conviction and death sentence. His second federal §2254 petition presents independent ineffective-assistance and suppressed-evidence claims, with innocence offered to overcome otherwise applicable successive/abusive barriers. The prior federal proceeding addressed his guilt-phase ineffective-assistance contention on the merits in the Court of Appeals. The present District Court dismissed the second petition without the requested evidentiary hearing on August 23, 1993, and denied the Rule 59(e) motion September 13. The Court of Appeals sustained denial, applied a clear-and-convincing innocence standard to the crime-innocence assertion, assessed the later affidavits, and also discussed why the earlier ineffectiveness adjudication should stand. Cause and prejudice is not pressed in the present review.
+
+These facts come from the already validated neutral packet's account of the lower judgments and briefs, including [11 F.3d 738](https://openjurist.org/11/f3d/738). They are not an independent finding that every claim satisfies every statutory predicate or that every asserted ground was previously adjudicated. The affidavit reliability disputes, lower merits discussion, asserted new grounds, and distinction between an innocence gateway and the underlying constitutional merits retain the limits stated in that packet. No new final credibility finding, hearing entitlement, disposition or record material is supplied here.
+

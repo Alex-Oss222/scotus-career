@@ -1,0 +1,27 @@
+# OT1994 chunk 2 — preflight C operator log
+
+Date: September 28, 2026. Assigned matters: 21 McKennon, 22 Fargo, 23 Lebron, 24 Milwaukee Brewery. Research only; no commitments generated. No git command or script invoking git was run. All writes were in `terms/OT1994/` or `tmp/`; Python imports used `PYTHONDONTWRITEBYTECODE=1`. No brief, foundation or state file was edited.
+
+## Exposure and routing
+
+Broad source-discovery search snippets incidentally exposed excluded historical Supreme Court material. The first batch exposed McKennon's reversal, Lebron's reversal and historical grant, and Milwaukee's historical disposition and computational rule. Later searches exposed McKennon's historical rationale and authorship. The full Fargo lower opinion necessarily recites the same litigation's historical Supreme Court interim application and O'Connor/Souter concurrence and later historical Casey procedural action. These are excluded from the clean packet. No matter-specific historical action, lineup, author, rationale, or petition treatment was used as an in-world authority or commitment.
+
+This researcher therefore must not model these matters or certify its own framing as independently blind. The clean source digest is expressly a handoff for a **fresh neutral framing/completeness validator**, then a fresh independent model, neither receiving this log or an account of the exposed substance. The parent operator was notified promptly. No current _STONE, _COMPARATOR, combined brief, commitment, historical reconciliation or private prior Record was opened.
+
+## Sources actually checked
+
+- Read governing AGENTS and foundation Engine, Render Contract and Composition; assigned neutral runtime sections 21–24; sanitized workspace neutral projection; relevant opening holdings/standards; mechanically supplied group-C entering slices.
+- Retrieved and read the full reported appellate opinions for all four matters from Public.Resource.Org. These are reproductions of judicial opinions, not source-host summaries. OpenJurist source downloads returned 403 despite a browser User-Agent; directory discovery on Public.Resource.Org supplied the correct McKennon and Lebron URLs. Internet Archive and CourtListener discovery did not supply usable original case files in the searches made.
+- Retrieved official North Dakota 1991 Domestic Relations session-law PDF. Read chapter 141, pages 398–402, in full and rendered/visually checked every chapter page to distinguish deletions and additions. Retrieved official 1975 chapter 124 for the preexisting abortion definition and general penalty; unrelated chapters in the combined session-law volumes are not relied upon. Chapter 141 contains no separate Pennsylvania-style disclosure-health defense and no rape omission permission in the paternal-support notice.
+- Retrieved official House 1994 Code §§626, 1399, 24301 and 24302; operative relevant provisions and qualifications checked. Former 1988 §§541–542 endpoints did not produce the old statute text; lower-court quotations and 1994 recodification/revision tables are used with that limit.
+- Browsed predivergence Price Waterhouse, Edmonson, San Francisco Arts & Athletics and Salerno at Cornell to verify identity and joins. Justice-specific maps primarily use the exact simulated published holdings and joins in entering slices, avoiding successor imputation.
+- Official McKennon, Lebron and Milwaukee oral-argument PDFs were downloaded and machine text extracted into `tmp/preflight_c/`; their full texts were not independently reviewed within this bounded preflight, and **no fact, concession, Justice position or substantive argument in the clean packet is sourced to those unreviewed transcripts**. They are retrieval leads only, not reviewed authority. Further reliance requires full reading. Original merits briefs, full trial exhibits and the original Fargo Attorney General letter were not recovered or certified.
+
+## Material corrections and limits delivered
+
+- McKennon: discrimination is a summary-judgment assumption, not a final finding; would-have-fired fact treated undisputed below; protected-opposition distinction preserved; remedies and liability separated.
+- Fargo: considerable submitted record, no district factfinding; lower construction permits telephone disclosure and certification at procedure; absence of Pennsylvania exceptions preserved; emergency challenge below expressly vagueness rather than undue burden; printed-material choice and speech qualification, emergency explanation timing, civil and criminal enforcement kept distinct; complete six-step Casey law used.
+- Lebron: actual board categories and 1994 recodification distinguished; governmental actor status separated from immunity, charter jurisdiction, speech merits and mandatory display; contract counterclaim and remedy limits retained; precise preservation dispute left source-bounded.
+- Milwaukee: valuation, withdrawal, assumed first payment and actual first payment distinguished; pure legal question separated from actuarial presumptions; Plan's lack of partial-year-interest argument below recorded; unrelated allocation judgment not reopened; formula exceptions and default/prepayment rules stated.
+
+No branch was declared substantively decided. No earlier chunk-2 outcome was assumed. January 23 and February 21 common baselines, including the O'Neal cross-chunk nonsequence, are expressly preserved.

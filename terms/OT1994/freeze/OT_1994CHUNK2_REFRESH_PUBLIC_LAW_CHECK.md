@@ -1,0 +1,11 @@
+# Lebron and Schlup refresh — additional public-law confirmation
+
+**Checked September 28, 2026 in the same independent scoped modeling context.** This file supplements, and does not rewrite, `OT_1994CHUNK2_LEBRON_COMMITMENTS_REFRESH.md`. It is also reflected in `OT_1994CHUNK2_SCHLUP_COMMITMENTS_REFRESH.md`.
+
+The [public-only supplement before January 23](../entering-law/OT_1994CHUNK2_EFFECTIVE_BEFORE_1995-01-23.md) now contains seven completed earlier events: Tome, Young, Allied-Bruce, Wolens, Asgrow, NationsBank/Ludwig and Mezzanatto. The additional Allied-Bruce, Wolens and NationsBank holdings and writings, and Asgrow's corrected reserved §2567 marking, actual-awareness, post-notice-damages and good-faith-disposal conditions, have been inspected. They do not materially change either refreshed commitment.
+
+Allied-Bruce's covered-arbitration and actual-commerce holdings preserve ordinary contract defenses and do not decide abandonment of a supporting constitutional argument. Wolens distinguishes actual voluntary contractual obligations from external state standards for its preemption provision; legal enforceability of a promise supplies no constitutional actor test or general waiver rule. NationsBank's bounded administrative construction supplies no deference rule for a federal court's §2244(b) interpretation or refusal of habeas review. Asgrow's separate infringement, statutory-transition and reserved remedy rules supply no new premise for these cases. Mezzanatto was already checked in the Lebron freeze Justice by Justice and remains a bounded evidentiary-waiver analogy.
+
+Lebron's existing freeze remains unchanged. Its later event date still requires a public-law check for any subsequently completed material authority effective before February 21. Schlup's January 23 event uses only the earlier-date holdings; McKennon and other uncoordinated same-day events supply no earlier authority. This confirms the scope of the check actually performed and does not certify future or uncompleted law.
+
+No raw Record, private position, comparator, reconciliation, earlier commitment, current-case Supreme Court source or control/exposure log was opened for this check. No Git command was used.

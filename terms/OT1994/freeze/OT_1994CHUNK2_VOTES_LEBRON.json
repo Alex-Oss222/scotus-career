@@ -1,0 +1,104 @@
+{
+  "purpose": "Arithmetic only; not a vote-generation rule",
+  "records": [
+    {
+      "record": "Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md",
+      "status": "Final assembly file-preserved; actual earlier-law gate complete; operator aggregate validation and repository commitment pending",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "components": [
+        {
+          "label": "reach entity argument and reverse/remand",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "O'Connor"
+          ],
+          "count": "8-1"
+        }
+      ],
+      "writings": [
+        {
+          "author": "Scalia",
+          "joins": [
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "partial_joins": [
+            {
+              "justice": "Stone-Zsela",
+              "scope": "actor-status and remand portions only"
+            }
+          ],
+          "scope": "Court opinion; seven reach-rationale and eight actor/remand votes"
+        },
+        {
+          "author": "O'Connor",
+          "joins": [],
+          "scope": "prudential nonreach and conduct-attribution affirmance dissent"
+        }
+      ],
+      "holdingscoalitions": [
+        {
+          "label": "discretionary consideration after disavowal",
+          "support": [
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        },
+        {
+          "label": "special creation plus governmental objectives plus permanent majority appointment",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        },
+        {
+          "label": "threshold reversal and limited remand",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        }
+      ]
+    }
+  ]
+}

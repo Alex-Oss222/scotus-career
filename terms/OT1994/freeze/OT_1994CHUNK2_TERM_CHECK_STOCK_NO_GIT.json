@@ -1,0 +1,13 @@
+{
+  "mode": "stock",
+  "exit_code": 0,
+  "git": "No Git subprocess permitted; reference checks unperformed",
+  "deferred_references": [
+    "1662045",
+    "2006630",
+    "2035579",
+    "A40385013",
+    "ec1395dd"
+  ],
+  "output": "WARNINGS\n - terms\\OT1994\\records\\Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md: Git reference verification DEFERRED: A40385013\n - terms\\OT1994\\records\\Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md: Git reference verification DEFERRED: 1662045\n - terms\\OT1994\\records\\American_Airlines_Inc_v_Wolens_merits_1995-01-18.md: Git reference verification DEFERRED: A40385013\n - terms\\OT1994\\records\\American_Airlines_Inc_v_Wolens_merits_1995-01-18.md: Git reference verification DEFERRED: 2035579\n - terms\\OT1994\\records\\Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md: Git reference verification DEFERRED: A40385013\n - terms\\OT1994\\records\\In_re_Baby_K_merits_1994-12-12.md: Git reference verification DEFERRED: ec1395dd\n - terms\\OT1994\\records\\Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md: Git reference verification DEFERRED: 2006630\n - terms\\OT1994\\records\\NationsBank_Ludwig_v_Variable_Annuity_Life_Insurance_Co_merits_1995-01-18.md: Git reference verification DEFERRED: A40385013\n - terms\\OT1994\\records\\Schlup_v_Delo_merits_1995-01-23.md: Git reference verification DEFERRED: A40385013\n - terms\\OT1994\\records\\Tome_v_United_States_merits_1995-01-10.md: Git reference verification DEFERRED: A40385013\n - terms\\OT1994\\records\\United_States_v_Mezzanatto_merits_1995-01-18.md: Git reference verification DEFERRED: A40385013\nOK: OT1994; 11 warning(s)\n"
+}

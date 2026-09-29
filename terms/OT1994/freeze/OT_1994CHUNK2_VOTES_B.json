@@ -1,0 +1,291 @@
+[
+  {
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "nonparticipants": [
+      "Scalia"
+    ],
+    "components": [
+      {
+        "label": "fraud preemption",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Stevens"
+        ],
+        "count": "7-1"
+      },
+      {
+        "label": "contract survival",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Thomas"
+        ],
+        "count": "6-2"
+      }
+    ],
+    "writings": [
+      {
+        "author": "Ginsburg",
+        "joins": [
+          "Stone-Zsela",
+          "Kennedy",
+          "Souter",
+          "Breyer"
+        ],
+        "scope": "full; Stevens additionally factual/posture and contract only"
+      },
+      {
+        "author": "Stevens",
+        "joins": [],
+        "scope": "concurrence on contract, dissent on fraud"
+      },
+      {
+        "author": "O'Connor",
+        "joins": [
+          "Thomas"
+        ],
+        "scope": "statutory-enforcement analysis and both-branch disposition; Thomas excludes separate statutory-precedent discussion"
+      }
+    ],
+    "holding_coalitions": [
+      {
+        "label": "fraud preemption rationale",
+        "support": [
+          "Stone-Zsela",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      {
+        "label": "contract actual-undertaking rationale",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    ],
+    "filename": "American_Airlines_Inc_v_Wolens_merits_1995-01-18.md"
+  },
+  {
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "nonparticipants": [],
+    "components": [
+      {
+        "label": "No. 93-1612 reversal",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "count": "9-0"
+      },
+      {
+        "label": "No. 93-1613 reversal",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "count": "9-0"
+      }
+    ],
+    "writings": [
+      {
+        "author": "Souter",
+        "joins": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "scope": "Court opinion in full"
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": [],
+        "scope": "concurrence in both judgments, independent statutory reading only"
+      }
+    ],
+    "holding_coalitions": [
+      {
+        "label": "banking and incidental power through permissible agency construction",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      {
+        "label": "permissible §92 annuity classification",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    ],
+    "filename": "NationsBank_Ludwig_v_Variable_Annuity_Life_Insurance_Co_merits_1995-01-18.md"
+  },
+  {
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "nonparticipants": [],
+    "components": [
+      {
+        "label": "reverse and remand arbitration denial",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ],
+        "count": "7-2"
+      }
+    ],
+    "writings": [
+      {
+        "author": "Breyer",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "scope": "full Court opinion"
+      },
+      {
+        "author": "O'Connor",
+        "joins": [],
+        "scope": "statutory stare decisis concurrence"
+      },
+      {
+        "author": "Thomas",
+        "joins": [
+          "Scalia"
+        ],
+        "scope": "state-court dissent only; no independent specific-performance alternative"
+      },
+      {
+        "author": "Scalia",
+        "joins": [],
+        "scope": "separate state-court reconsideration dissent"
+      }
+    ],
+    "holding_coalitions": [
+      {
+        "label": "state-court §2 retention",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      {
+        "label": "full constitutional statutory reach and actual-commerce test",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "not_reached": [
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "filename": "Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md"
+  }
+]
