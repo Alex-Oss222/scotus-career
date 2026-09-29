@@ -28,7 +28,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-02-13 | OT_1994CHUNK2 | Fargo Womenâ€™s Health Organization v. Schafer + | 93-1712 | MERITS | Merits decision | Completed: Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md |
 | 1995-02-21 | OT_1994CHUNK2 | Lebron v. National Railroad Passenger Corp. | 93-1525 | MERITS | Merits decision | Completed: Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md |
 | 1995-02-21 | OT_1994CHUNK2 | Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co. | 93-768 | MERITS | Merits decision | Completed: Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md |
-| 1995-02-21 | OT_1994CHUNK3 | O'Neal v. McAninch | 93-7407 | MERITS | Merits decision | Stopped: The admitted harmless-error question conflicts with the operative Brecht premise, which retains Chapman for preserved Doyle error and leaves other collateral-error categories open. Corrected-premise Stone revalidation is required before adjudication. |
+| 1995-02-21 | OT_1994CHUNK3 | O'Neal v. McAninch | 93-7407 | MERITS | Merits decision | Completed: ONeal_v_McAninch_merits_1995-02-21.md |
 | 1995-02-22 | OT_1994CHUNK3 | United States v. National Treasury Employees Union | 93-1170 | MERITS | Merits decision | Completed: United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md |
 | 1995-02-22 | OT_1994CHUNK3 | Harris v. Alabama | 93-7659 | MERITS | Merits decision | Completed: Harris_v_Alabama_merits_1995-02-22.md |
 | 1995-02-22 | OT_1994CHUNK3 | Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co. | 93-762; 93-1094 | MERITS | Merits decision | Completed: Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md |
@@ -173,12 +173,12 @@ Authority for inventory identity and dates: `case-list.md` and the nine briefsâ€
 
 ## Current chronology control after chunk 3
 
-**Posture:** After chunk 3, with 35 completed inventory events. **Chronology cursor:** March 20, 1995, after the Ambassador Books event. O'Neal v. McAninch, No. 93-7407 remains stopped at its scheduled event date and supplies no adjudication. An unresolved earlier scheduled matter prevents a complete-through assertion across its date. Its later resolution requires a check against completed later events; no missing event is treated as decided.
+**Posture:** After chunk 3, with 36 completed inventory events. **Chronology cursor:** March 20, 1995, after the Ambassador Books event. O'Neal v. McAninch is adjudicated effective February 21, 1995. The February 21 group and the scheduled inventory through March 20 are complete. Same-day decisions retain their common pre-group baseline.
 
 The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 35 inventory events are completed; 64 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The April 4, 1995 statutory transition remains scheduled separately and supplies no present holding.
+The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 36 inventory events are completed; 63 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The April 4, 1995 statutory transition remains scheduled separately and supplies no present holding.
 
-The next independent scheduled inventory event is **Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., No. 93-1783, March 21, 1995, chunk 4**. Stopped matters retain their separate blockers. Uncoordinated equal-date matters use common pre-group law. February 22, March 1 and March 6 decisions are combined only prospectively; no file-preservation order creates a release sequence.
+The next independent scheduled inventory event is **Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., No. 93-1783, March 21, 1995, chunk 4**. Uncoordinated equal-date matters use common pre-group law. February 22, March 1 and March 6 decisions are combined only prospectively; no file-preservation order creates a release sequence.

@@ -1,0 +1,41 @@
+{
+  "file": "foundation/ENGINE.md",
+  "intake_sha256": "d54be8a41680d306af1beb810c8f717be6655f89bf8155de5cb5d184a243ba6c",
+  "observed_sha256": "d63b5227566d2bb260b1a10b16b97c88089b7bc00602fe8981d9cf905302f95c",
+  "observed_file_mtime": 1790715870.1023302,
+  "status": "Concurrent external file change; actor and purpose not verified. No task tool wrote this file. Left untouched; current complete Engine reread and assembly reviewed against its requirements. No change to frozen commitments or the decision was required.",
+  "initial_validation_result": {
+    "changed_intake_files": [
+      "foundation/ENGINE.md",
+      "terms/OT1994/briefs/OT_1994CHUNK3.md",
+      "terms/OT1994/freeze/OT_1994CHUNK3_STONE_REVALIDATION.md",
+      "terms/OT1994/freeze/OT_1994CHUNK3_STOPPED.json",
+      "terms/OT1994/render-inputs/OT_1994CHUNK3.md",
+      "terms/OT1994/runtime/OT_1994CHUNK3_COMMITMENTS.md",
+      "terms/OT1994/runtime/OT_1994CHUNK3_RECONCILED.md",
+      "terms/OT1994/runtime/OT_1994CHUNK3_STONE.md",
+      "terms/OT1994/workspace/continuity.md",
+      "terms/OT1994/workspace/ledger.md",
+      "terms/OT1994/workspace/manifest.md",
+      "terms/OT1994/workspace/neutral-projection.md"
+    ],
+    "brief_change_confined_to_oneal_section_ii": true,
+    "render_input_events": 12,
+    "eleven_existing_render_entries_byte_identical": true,
+    "inventory_events": 99,
+    "completed_inventory_events": 36,
+    "open_inventory_events": 63,
+    "holdings_kernel_projection_identity": true,
+    "controlling_explanation_word_counts": [
+      159,
+      169
+    ],
+    "checked_local_links": 361,
+    "prior_records_unchanged": true,
+    "public_output_unchanged": true,
+    "protected_infrastructure_unchanged": false,
+    "errors": [
+      "Unauthorized intake-file change: foundation/ENGINE.md"
+    ]
+  }
+}

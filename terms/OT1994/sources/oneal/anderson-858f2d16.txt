@@ -1,0 +1,446 @@
+
+
+  
+
+    
+Bruce ANDERSON, Petitioner, Appellant, v. Norman BUTLER, Respondent, Appellee.
+
+    
+No. 87-1781.
+
+    
+United States Court of Appeals, First Circuit.
+
+    
+June 22, 1988.
+
+    
+Rehearing and Rehearing En Banc Denied June 22, 1988.
+
+    
+Steven Hrones with whom Hrones & Harwood, Boston, Mass., was on brief for petitioner, appellant.
+
+    
+Linda G. Katz, Asst. Atty. Gen., with whom James M. Shannon, Atty. Gen., and Annette C. Benedetto, Asst. Atty. Gen., Criminal Bureau, Boston, Mass., were on brief for respondent, appellee.
+
+    
+Before BREYER, Circuit Judge, ALDRICH, Senior Circuit Judge, and PETTINE,
+*
+ Senior District Judge.
+
+    
+
+      
+*
+
+      
+ Of the District of Rhode Island, sitting by designation.
+
+    
+
+  
+
+  
+
+    
+BAILEY ALDRICH, Senior Circuit Judge.
+
+    
+Bruce Anderson, convicted in the Massachusetts superior court of first degree murder of his wife, petitioned for habeas corpus on the single ground of ineffective assistance of counsel. 
+Strickland v. Washington, 
+
+466 U.S. 668
+, 
+104 S.Ct. 2052
+, 
+80 L.Ed.2d 674
+ (1984). Failing, he appeals. He had failed previously, on a post-trial motion in the superior court, and, again, in the Supreme Judicial Court. 
+Commonwealth v. Anderson, 
+
+398 Mass. 838
+, 
+501 N.E.2d 515
+ (1986).
+
+    
+There is no dispute as to the facts which, understandably, were presented more graphically at the trial than they are summarized by the Massachusetts court.
+
+    
+About 4 a.m. on July 27, 1983, in Worcester the defendant forced his way into the second floor apartment of his estranged wife, who had given birth to their child about six weeks earlier. He discovered a partially clothed man in the bedroom, chased him from the apartment building, but did not catch him. The defendant returned upstairs, with a knife he had taken from the pantry, and pursued his wife to a third floor apartment where she had sought refuge and had telephoned the police. He forced his way in, slashed one occupant of the third floor apartment, and assaulted another. He repeatedly stabbed his wife, while the occupants of the third floor apartment helplessly watched. The police recorded part of the conversation between the defendant and the victim. The defendant left the apartment, but approximately 
+*17
+thirty seconds later he returned, stabbed her several more times, and fled. He turned himself into the police later that morning.
+
+    
+(
+398 Mass. at 839
+, 
+501 N.E.2d at 516
+)
+
+    
+It was open to the jury to find murder in the first degree, or second degree, or manslaughter. On the issue of state of mind— defendant did not plead insanity, and never sought a not guilty verdict — defendant's counsel, in his opening at the close of the Commonwealth’s case, told the jury that he would call a psychiatrist and a psychologist, whose testimony would show that defendant was “walking unconsciously toward a psychological no exit.... Without feeling, without any appreciation of what was happening, Bruce Anderson on that night was like a robot programmed on destruction.” This statement was based upon reports from the doctors in question in counsel’s possession, and the doctors were available. Nonetheless, the day after his opening, counsel rested his case on the basis of lay witnesses only, without calling the doctors. A verdict of murder in the first degree followed.
+
+    
+On this appeal from the denial of the writ, the Commonwealth, pointing to the subsequent history, notes that defendant is here with three called strikes on him. If we accept the analogy, was the ball dropped, so that defendant can run on the third strike? We consider this in terms of the prior courts’ failure, in appraising the possible effects of the doctors’ proposed testimony and the failure to introduce it, to include in the mix the effect on the jury of counsel’s not putting the doctors on the stand after he had said he would do so. Perhaps more exactly, we consider the totality of the opening and the failure to follow through.
+
+    
+Two members of this panel have long held the opinion that little is more damaging than to fail to produce important evidence that had been promised in an opening. This would seem particularly so here when the opening was only the day before, and the jurors had been asked on the voir dire as to their acceptance of psychiatric testimony. The promise was dramatic, and the indicated testimony strikingly significant. The first thing that the ultimately disappointed jurors would believe, in the absence of some other explanation, would be that the doctors were unwilling, viz., unable, to live up to their billing. This they would not forget.
+
+    
+Counsel was acutely conscious of his noncompliance, as it was the first subject of his summation. Here his fluency was more marked than his substance.
+1
+ Consequently, the jurors’ conclusion would remain that impartial experts — the most qualified witnesses — would not testify as counsel had said they would; in effect a contradiction of the favorable lay witnesses, much worse than if he had not mentioned the doctors initially. Or, if counsel’s explanation was to be taken to mean, “I promised you a lot of medical mumbo jumbo,” this would scarcely help matters.
+
+    
+The approach taken by the three prior courts was to review the doctors’ reports and point out why, considering the possible disadvantages by way of collateral facts that might be brought out in their testimony as against the advantage from their opinions, it was not unreasonable not to call them. Although there were variances in their analyses, all had one thing in common: in making this weighing of the pros and cons of calling the doctors the serious consequences of the failure to comply with the opening promise was not included, but was treated only separately, as an afterthought. Thus the superior court, after discussing the beneficial aspects of the doctors’ reports as against the possible harmful disclosures, concluded, “Viewed in retrospect, after a first degree conviction, it 
+*18
+might be easy to say that the criteria for an ineffective assistance of counsel case are present. However, after a pragmatic consideration of the realities of criminal practice, I do not find that counsel’s strategy was ‘manifestly unreasonable.’ ” Only after this did the court add,
+
+    
+I do feel that it would have been preferable had counsel refrained from referring to prepared psychiatric testimony. But, I understand that in the trial of a serious case a lawyer prefers to keep his options open. I do not see great harm to the client.
+
+    
+Thus the failure to comply with the opening was not only regarded as an independent matter, it was disposed of simply as of no “great harm,” and not to be charged against counsel because it was reasonable for him “to keep his options open.” This much is clear: it was not necessary to mention the doctors in the opening in order to preserve the right to call them. There is no principle, or requirement, that one must name all one’s witnesses, (as distinguished from announcing an insanity defense) in the opening; indeed, some defendants’ lawyers choose not to open at all. One keeps options open by keeping silent. Counsel “preserved” nothing but a potential embarrassment in case he changed his mind, with no offsetting benefit.
+
+    
+On appeal, the Supreme Judicial Court differed somewhat from the superior court in its reasoning, but agreed that there were both advantages and disadvantages in the doctors’ reports. After a review of the reports the Court stated,
+
+    
+The risk of the disclosure of negative information in those reports was substantial if the experts had testified. Defense counsel had a tactical choice to make: whether to present an expert opinion that might raise a reasonable doubt on premeditation and extreme atrocity and cruelty at the risk of the disclosure of unfavorable information that would reflect adversely on the defendant and make less likely a sympathetic manslaughter verdict.
+
+    
+* * * * * *
+
+    
+The decision not to present the expert testimony was a tactical one that was not “manifestly unreasonable” when made.
+
+    
+Then, like the superior court, the court added,
+
+    
+Defense counsel might have been better advised not to have announced that he was going to present expert testimony, but his explanation to the jury as to why he changed his mind.... has a plausible ring to it.
+
+    
+The district court, though not bound by the conclusions reached by the two state courts, 
+Strickland, 
+
+466 U.S. at 698
+, 
+104 S.Ct. at 2070
+, followed the same pattern. We note, in passing, that it considered that the doctors’ opinions would have helped the chances of both murder 2 and manslaughter defenses, while the Supreme Judicial Court felt only the former. For ourselves, we might have no quarrel with counsel’s decision to call, or not to call, as a strategic decision, had that matter stood alone (although our own decision would have been to call), but counsel’s choice was not made in that parameter. The choice was made in the posture of the jurors having heard, only the day before, that a psychiatrist and a psychologist would testify that defendant was “[wjithout feeling, without any appreciation of what was happening ... like a robot programmed on destruction,” and now they would not do so — surely a speaking silence. We cannot accept the approach that we should consider each matter separately — weighing counsel’s choice on the second day as if there had been no opening. There was thrown into the scales the heavy inference the jurors would draw from the non-appearance of the doctors. In those circumstances it was a very bad decision, or, if it was still wise because of the damaging collateral evidence, it was inexcusable to have given the matter so little thought at the outset as to have made the opening promise.
+
+    
+We are not bound by the trial court’s opinion that this was not a “great harm.” It went to the vitals of defendant’s defense, and no juror, obviously offended by defendant’s conduct, would ignore it. Indeed, it 
+*19
+directly bore on the only extenuation. Nor can we accept the conclusion that the opening was a “strategic choice,” or a “plausible option;” there could be nothing to gain. Counsel did not even have the justification of not knowing what would be the Commonwealth’s case, as it had already rested.
+
+    
+The dissent’s assertedly analogous cases are significantly different. In 
+Howard v. Davis, 
+
+815 F.2d 1429
+ (11th Cir.), 
+cert. denied, 
+— U.S. -, 
+108 S.Ct. 184
+, 
+98 L.Ed.2d 136
+ (1987), defendant’s opening included an insanity defense. By the end of the trial, counsel concluded to abandon it, and the court held he was not chargeable as ineffective in so doing. The difference between that case and the one at bar is that counsel here did not abandon a defense— sometimes a plausible move — but continued to assert defendant’s mental condition, indeed as his principal defense. His action was greatly to weaken the very defense he continued to assert; a weakening that would not have occurred if he had omitted mention of the doctors in the first place. 
+State v. Eby, 
+
+342 So.2d 1087
+ (Fla.App.Ct.), 
+cert. denied, 
+
+346 So.2d 1248
+ (Fla.1977), is likewise distinguishable. This, again, was a case of abandoning an entire defense. As the 
+Howard 
+court pointed out, abandoning one defense does not injure the other. In the case at bar, counsel substantially damaged the very defense he primarily relied on.
+
+    
+We agree with the Commonwealth that ineffective counsel, like any other constitutional deficiency, is of no consequence in the absence of prejudice. Since the district court failed to consider counsel’s conduct as manifestly unreasonable, it failed to deal directly with the matter of prejudice. It could be said, however, that it dealt with it indirectly, because it found that the doctors’ opinions, if not diminished by the collateral evidence, “could have persuaded the jury to find Anderson guilty of second degree murder_ [It] might also have increased the likelihood of a verdict of manslaughter.” But even if this is not, in itself, a finding of prejudice, we cannot but conclude that to promise even a condensed recital of such powerful evidence, and then not produce it, could not be disregarded as harmless. We find it prejudicial as matter of law. There is, accordingly, no occasion to remand for the consideration of the district court, which otherwise would be the proper course.
+
+    
+We are reluctant to disagree with our sister court, but we must. The judgment is reversed; the case is remanded for further proceedings consistent herewith.
+
+    
+
+      
+1
+
+      
+.
+
+      
+“And I have been sitting and listening with you as the facts have been presented in this case, and I had intended to try and persuade you with fancy medical and clinical terminology. But there is no amount of psychiatric and psychological evaluations that were going to present a better picture of what you have already heard. Why should you hear this evidence again from people who presume to know Bruce Anderson better than those who really do know him and testified what they already know? At this point was it really necessary for me to try and impress you?”
+
+    
+
+  
+
+  
+
+    
+BREYER, Circuit Judge,
+
+    
+(dissenting).
+
+    
+The law does not permit us to find ineffective assistance of counsel in this case, for the record fails to show that counsel’s trial decisions were, professionally speaking, “unreasonable” and likely made a difference to the outcome. 
+Strickland v. Washington, 
+
+466 U.S. 668
+, 
+104 S.Ct. 2052
+, 
+80 L.Ed.2d 674
+ (1984). The Supreme Court has made clear that, when considering such a claim we must “indulge a strong presumption that counsel’s conduct falls within the wide range of reasonable professional assistance.” 
+Strickland, 
+
+466 U.S. at 689
+, 
+104 S.Ct. at 2065
+. It has added that “strategic choices made after thorough investigation of law and facts relevant to plausible options 
+are virtually unchallengeable.” Strickland, 
+
+466 U.S. at 690
+, 
+104 S.Ct. at 2066
+. (Emphasis added.) It is difficult for me to see how the majority can find that petitioner has met the burden that this law imposes.
+
+    
+1. Counsel’s challenged choices were “strategic.” Petitioner does not claim any failure to make a “thorough investigation of law and facts;” and, those “strategic choices” are “relevant to plausible options.” To be more specific, counsel decided (a) to tell the jury he would call two psychiatric witnesses; (b) he changed his mind; and (c) he did not call them. Consider each of these matters separately:
+
+    
+
+      
+The decision not to call the two witnesses. 
+The Supreme Judicial Court clearly explained why counsel’s strategic decision not to call the two psychiatric witnesses was reasonable. 
+Commonwealth v. Anderson, 
+
+398 Mass. 838
+, 
+501 N.E.2d 515
+ (1986). Counsel’s trial strategy was not to 
+*20
+deny that his client killed the victim, but instead to try to secure a manslaughter (as opposed to a murder) verdict. As the trial judge pointed out, a manslaughter verdict would mean a major reduction in sentence; a second degree murder conviction would not. In order to carry out his strategy, counsel needed to show 
+both 
+(1) a state of anger sufficient to eclipse defendant’s capacity for restraint, 
+Commonwealth v. McLeod, 
+
+394 Mass. 727
+, 738, 
+477 N.E.2d 972
+, 
+cert. denied sub nom. Aiello v. Massachusetts, 
+
+474 U.S. 919
+, 
+106 S.Ct. 248
+, 
+88 L.Ed.2d 256
+ (1985) 
+and 
+(2) a provocation sufficient to make an 
+ordinary 
+man that angry. 
+Commonwealth v. Walden, 
+
+380 Mass. 724
+, 728, 
+405 N.E.2d 939
+ (1980).
+
+    
+Given his options, counsel might reasonably have thought that the introduction of the psychiatric testimony would put an end to his “manslaughter” hopes. The jury had heard that defendant was in a rage; it knew he had seen his wife in bed with another man. If one reads counsel’s closing jury statement, he makes a decent argument based on the evidence introduced. If the psychiatrist and psychologist testified, however, their reports indicate the prosecution could have focused upon facts that could have hurt severely counsel’s manslaughter efforts. For example, the reports contained the following evidence:
+
+    
+(1) Defendant deliberately hid his wife’s car before entering the house; when he arrived he unplugged the telephone. (These facts suggest, not sudden rage, but premeditation.)
+
+    
+(2) Defendant previously had been in physical fights with his wife; she had obtained a restraining order against him; defendant had once beaten up both his ex-wife and her lover when he discovered them together in bed. (These facts suggest a 
+particular 
+sensitivity to circumstances that might not necessarily provoke an 
+ordinary 
+man.)
+
+    
+(3) According to the psychologist, defendant was not 
+ordinary; 
+instead, he had a “personality configuration” that “can, under severe stress, demonstrate bizarre behavior and hyperactivity.”
+
+    
+In addition, the jury could have learned from the expert testimony that defendant was involved with drugs, had married twice and fathered a child by a third woman, had several prior criminal convictions, and had been a member of a motorcycle gang. One can simply compare counsel’s closing argument with the psychiatric reports. It would not have been easy to argue 
+reasonable 
+provocation (to homicidal anger) had those reports been before the jury.
+
+    
+Of course, had counsel been trying for a second-degree murder conviction, rather than manslaughter, he might have weighed the pros and cons differently (unless, as the trial judge suggested, counsel felt that, by arguing manslaughter, he could create a situation where the jury would 
+compromise 
+on second-degree murder). This, however, was not trial counsel’s strategy.
+
+    
+
+      
+The change of mind. 
+The majority points to the damaging effect of not calling the witnesses 
+after 
+having told the jury about them. But, assume the worst; assume that it was simply a mistake to mention them to the jury. Must counsel perpetuate that mistake? Why are the reasons just given not enough to persuade a rational counsel to change his trial strategy? If not, are we not instructing criminal defense lawyers to continue to pursue trial strategies after they conclude that the strategies are mistaken?
+
+    
+The majority seems to do just this, for it writes that, it “might have no quarrel with counsel’s decision to call, or not to call, as a strategic decision, had that matter stood alone,” Maj. op. at 18 (1st Cir.1988), but, once having promised to call them, not doing so “was a very bad decision ..., 
+id. 
+at 18. Consider the pressure that such a view places upon a criminal defense attorney (once having mentioned a witness) to call that witness, 
+even if doing so will hurt his client. 
+Surely, counsel need not, in order to render “effective assistance,” produce a previously mentioned witness at all costs. But, if not, how can the majority say (as it must under 
+Strickland, 
+
+466 U.S. at 690
+, 
+104 S.Ct. at 2066
+) that, despite the reasons for not calling these witnesses, 
+*21
+counsel’s strategic change of mind was not even a “plausible option”?
+
+    
+
+      
+The decision to tell the jury about the witnesses.
+
+    
+
+    
+Perhaps the majority means that mentioning the two witnesses in the opening, in and of itself, was so egregious a mistake as to constitute “ineffective assistance of counsel.” That is what it seems to think, for it writes that “it was inexcusable to have given the matter so little thought at the outset as to have made the opening promise.” 
+Id. 
+at 18. But, I do not see how it can draw that conclusion from the partial and incomplete record that is before us. As far as the record is concerned, counsel, when opening, might have felt the psychiatrists and a “second degree” effort represented his most likely defense; he might have later decided that the jury was responding more sympathetically to his ordinary-man-finds-wife-in-bed-with-lover argument than he had originally calculated, thus leading him to put more eggs in the manslaughter basket. We do not know whether this reason, or some other reason, or no reason, was at work, for there was no district court hearing exploring this matter; nor do we have a full transcript of the state trial. The habeas corpus petition focused primarily upon counsel’s change of mind, his decision 
+not 
+to call the witnesses, rather than his initial decision to call them. Thus, the parties’ briefs do not elaborate upon the initial mention of the witnesses. On the present state of the record, one cannot say that petitioner has met his burden, 
+see Strickland, 
+
+466 U.S. at 687
+, 
+104 S.Ct. at 2064
+, of proving that it was not a “plausible option” to mention the witnesses in the opening, though hindsight may have led his counsel to regret it. At the least, counsel should have a chance to explain why he did so.
+
+    
+2. To check my own judgment that this matter is not so cut and dried as to be disposed of without a hearing, I have examined a fair sampling of “ineffective assistance of counsel” cases, namely those decided in the federal appellate courts in 1986 and 1987. I found 157 published habeas decisions with “ineffective assistance” headnotes. Courts denied the claim in 129. They found “ineffective assistance” in 20 cases, and they remanded for an evidentia-ry hearing in 8 others. The 20 cases in which the court granted habeas involve matters at sentencing (5), incorrect legal advice (4); failure to make an objection at trial (5); failure to appear at a hearing (lb-conflict of interest (2); failure to investigate or to raise a meritorious defense (3). 
+No 
+case involves a strategic decision of the sort here at issue, a decision in respect to which counsel must balance, from his client’s perspective, different courses of action, each with significant pros and cons of its own. 
+All 
+of these cases involve a failure to follow a course of action that was likely only to benefit the client. Each involves a “mistake” in judgment considerably more obvious and less strategic, professionally speaking, than the decision now before us.
+
+    
+At the same time, there is one “ineffective assistance” case in which the court specifically held that 
+a change of strategy in the midst of a trial 
+did 
+not 
+constitute ineffective assistance. 
+Howard v. Davis, 
+
+815 F.2d 1429
+ (11th Cir.), 
+cert. denied, 
+— U.S. -, 
+108 S.Ct. 184
+, 
+98 L.Ed.2d 136
+ (1987). A highly analogous state court case also holds that defense counsel’s decision not to call a psychiatric expert in a murder trial, 
+despite having promised to do so in his opening, 
+does 
+not 
+constitute ineffective assistance of counsel. 
+State v. Eby, 
+
+342 So.2d 1087
+ (Fla.App.Ct.), 
+cert. dismissed, 
+
+346 So.2d 1248
+ (Fla.1977). 
+See also State v. Farni, 
+
+112 Ariz. 132
+, 
+539 P.2d 889
+ (1975). And, of course, there are numerous cases (including First Circuit cases) that reiterate 
+Strickland 
+— that hold that informed strategic decisions “even if erroneous in retrospect do not constitute ineffective assistance of counsel.” 
+Shraiar v. United States, 
+
+736 F.2d 817
+, 818 (1st Cir.1984). 
+See, e.g., Cuevas v. Henderson, 
+
+801 F.2d 586
+ (2d Cir.1986), 
+cert. denied, 
+
+480 U.S. 908
+, 
+107 S.Ct. 1354
+, 
+94 L.Ed.2d 524
+ (1987); 
+Martin v. McCotter, 
+
+796 F.2d 813
+ (5th Cir.1986); 
+Krist v. Foltz, 
+
+804 F.2d 944
+ (6th Cir.1986); 
+U.S. ex rel Smith v. Lane, 
+
+794 F.2d 287
+ (7th Cir.1986); 
+Campbell v. Lockhart, 
+
+789 F.2d 644
+ (8th Cir.1986); 
+*22
+
+      
+Woratzeck v. Ricketts, 
+
+820 F.2d 1450
+ (9th Cir.1987); 
+Thompson v. Wainwright, 
+
+784 F.2d 1103
+ (11th Cir.1986).
+
+    
+3. The panel majority does not adequately consider 
+Strickland’s 
+additional requirement that the petitioner demonstrate prejudice, 
+i.e., 
+that “there is a reasonable probability that, absent the errors, the fact finder would have had a reasonable doubt in respect to guilt.” 
+466 U.S. at 695
+, 
+104 S.Ct. at 2068
+. Of the four 1986-87 cases in which federal courts remanded habeas petitions for an evidentiary hearing based on a claim of failure to raise a viable defense, two of the hearings were to resolve specifically the issue whether defendant had actually been harmed by counsel’s ineffective conduct. 
+Maddox v. Lord, 
+
+818 F.2d 1058
+ (2d Cir.1987); 
+Wade v. Armontrout, 
+
+798 F.2d 304
+ (8th Cir.1986).
+
+    
+While we do not have the trial record before us, the Supreme Judicial Court opinion, 
+Anderson, 
+
+398 Mass. at 839-41
+, 
+501 N.E.2d 515
+, the closing arguments, and undisputed portions of the briefs refer to such additional evidence as two eyewitnesses who testified that the defendant brandished a knife at them when they asked him not to kill the victim, a forensic expert who testified that defendant stabbed the victim 13 times in 2 separate attacks separated by a brief trip out of the apartment, and a tape recording of the stabbings made when the victim dialed the police emergency 911 number while she was being attacked, in which the defendant told the victim that she was “going to die.” Given this strong evidence of cruelty, it may well be that the error the panel majority seems to find, namely, initially mentioning the psychiatric witnesses to the jury, made no difference. It could even be that the evidence of deliberate premeditation was such that no attorney and no strategy (with or without the benefit of hindsight) could have saved defendant from a first-degree murder conviction. I might find the majority’s opinion convincing if I thought it rested upon an examination of the trial record. But I do not see how the majority can deduce prejudice, or professionally unreasonable strategic decision-making, from such a scanty record on appeal without at least reviewing a transcript of the trial, let alone without the factual record that could be developed at an evidentiary hearing, and particularly when the parties have not briefed the reasons for the initial reference to the witnesses, the matter that so disturbs the court.
+
+    
+In my view, we should at least remand this case for a full hearing; without one, the record is insufficient to support the petitioner’s claim.
+
+  
+
+

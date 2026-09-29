@@ -1,0 +1,641 @@
+
+
+  
+
+    
+Donald BARTH, Appellant, v. Bruce S. GELB, Director, United States Information Agency, et al.
+
+    
+No. 91-5199.
+
+    
+United States Court of Appeals, District of Columbia Circuit.
+
+    
+Argued Nov. 2, 1992.
+
+    
+Decided Aug. 27, 1993.
+
+    
+
+      
+*1181
+Michael J. Kator, Washington, DC, argued the cause, for appellant. With him on the brief were David H. Shapiro and Katherine L. Garrett, Washington, DC.
+
+    
+Diane M. Sullivan, Asst. U.S. Atty., Washington, DC, argued the cause, for appellees. With her on the brief were Jay B. Stephens, U.S. Atty. at the time the brief was filed, and John D. Bates and R. Craig Lawrence, Asst. U.S. Attys., Washington, DC.
+
+    
+
+      
+*1182
+Before SILBERMAN, BUCKLEY, and D.H. GINSBURG, Circuit Judges.
+
+  
+
+  
+
+    
+Opinion for the court filed by Circuit Judge BUCKLEY.
+
+    
+BUCKLEY, Circuit Judge:
+
+    
+Donald Barth, a severe diabetic, appeals a judgment in favor of his employer, the Voice of America, on his claim that the VOA illegally discriminated on the basis of handicap by failing to clear him for service at the VOA’s overseas radio relay stations. The district court found that the agency was justified in denying Mr. Barth an overseas assignment because the special arrangements required to accommodate his medical condition would have imposed an undue burden on its operations. Mr. Barth’s principal challenge is directed to the court’s allocation to him of the ultimate burden of proof on that issue. Because a claim of undue burden is an affirmative defense in actions under the Rehabilitation Act of 1973, we find that the burden of proving it should have been placed on the VOA. But because we also find that this error was harmless, we affirm the district court’s judgment.
+
+    
+I. Background
+
+    
+Donald Barth is a Washington-based computer specialist and employee of the VOA who decided he wanted a change in assignments and a chance to see the world. Accordingly, in 1988, he applied for admittance into the permanent Foreign Service, out of which engineering positions at the VOA’s twelve overseas radio relay stations are staffed. Mr. Barth passed all requirements for admittance into the Service, except that he failed a State Department medical clearance examination designed to assess his availability for worldwide service. Mr. Barth suffers from an advanced and degenerative form of diabetes requiring the care of a skilled endocrinologist to control the diabetes, plus an array of other specialists (in ophthalmology, for example) to control its complications. The State Department found that Mr. Barth could not serve worldwide, but only in locations with advanced medical facilities.
+
+    
+After the denial of the medical clearance, Mr. Barth requested a medical waiver from the VOA. His particular suggestion was that the VOA grant a limited waiver restricting his assignments to posts with suitable medical facilities. After protracted deliberations, the VOA denied Mr. Barth’s waiver request without a written statement of reasons. Upon exhausting his administrative remedies, Mr. Barth brought suit under the Rehabilitation Act of 1973, as amended, 
+29 U.S.C. § 701
+-796Í (1988), asking the court to order his assignment to a suitable overseas relay station position and to award him backpay.
+
+    
+After a four-day bench trial, the district court found that Mr. Barth’s diabetic condition was the sole reason for his exclusion from the VOA’s Overseas Radio Relay Station Program and that, although the waiver panel had not recorded its findings, it had focused on whether a reasonable accommodation could be made to his handicap. The court noted that the entire corps of American overseas relay station engineers consists of only seventy persons divided among the twelve stations, most of which were located in remote, sparsely populated areas. It found that Mr. Barth “could function at only three or four posts” and that
+
+    
+[t]he thin staffing at each post required flexibility of assignment, put a premium on workers not subject to serious health risks, and offered few options for initial assignment of Mr. Barth. Accepting applicants who could basically only work at a few non-hardship posts would be considered unfair to other Specialists and detrimental to morale and success of the program.
+
+    
+
+      
+Barth v. Gelb, 
+
+761 F.Supp. 830
+, 837-38 (D.D.C.1991) (“Mem. op.”). The court concluded “as a matter of law” that accommodating Mr. Barth by limiting his assignments would “place an undue burden on the VOA program,” and it granted judgment in favor of the agency. 
+
+Id. 
+
+
+at 837-38
+. This appeal followed.
+
+    
+II. Analysis
+
+    
+A The Burden of Proof
+
+    
+Mr. Barth’s principal claim is that he was improperly assigned the burden of proving that the requested accommodation would 
+*1183
+not constitute an undue hardship. Specifically, he objects to the court’s holding, in reliance on our decision in 
+Carter v. Bennett, 
+
+840 F.2d 63
+, 65-66 (D.C.Cir.1988), that “Mr. Barth has the ultimate burden of proof.” Mem. op. at 833. The court explained its allocation of the burden in the following footnote:
+
+    
+The Court of Appeals has stated that in a Rehabilitation Act case claiming wrongful denial of a federal job, the plaintiff has the initial burden to make a prima facie showing that reasonable accommodation of his handicap was possible. The burden then shifts to the defendant to show inability to accommodate. Credible evidence in that regard shifts the burden back to the plaintiff. 
+Carter v. Bennett, 
+
+840 F.2d at 65
+.
+
+    
+
+      
+
+Id.
+ 
+at 833 n. 7.
+
+    
+Mr. Barth claims that, 
+Carter 
+notwithstanding, this allocation runs afoul of our recent decision in 
+Langon v. Department of Health & Human Services, 
+
+959 F.2d 1053
+ (D.C.Cir.1992). He argues that, under 
+Langon, 
+the burden of proving undue hardship rests with the agency. 
+See Langon, 
+
+959 F.2d at 1060
+ (“The burden of showing undue hardship was on [the government agency].”) Although the apparent contradiction between these two cases is easily explained (the language cited in 
+Carter 
+dealt with the burden of production; that in 
+Langon, 
+with the burden of persuasion), Mr. Barth’s objection to the district court’s assignment of the burden in this case is well taken.
+
+    
+Because of the ambiguities in the precedent of this and other circuits on the burdens of proof in Rehabilitation Act cases, we will begin with a review of the applicable law. We will then address the allocation of those burdens in this case.
+
+    
+
+      
+1. Statutory Framework
+
+    
+
+    
+The Rehabilitation Act of 1973 governs employee claims of handicap discrimination against the Federal Government. Its basic tenet is that the Government must take reasonable affirmative steps to accommodate the handicapped, except where undue hardship would result.
+
+    
+As originally enacted, section 501 of the Act simply spurred governmental efforts to employ the handicapped through such measures as affirmative action plans and review committees. 
+See 
+
+29 U.S.C. § 791
+. Section 504 of the Act prohibited discrimination against the handicapped by recipients of federal funds. 
+See 
+id.
+ 
+§ 794.
+
+    
+In 1978, however, Congress decided that stronger measures were needed on behalf of persons subjected to handicap discrimination by government agencies; and it enacted several provisions to supply them. Among these was section 505(a)(1), 29 U.S.C. § 794a(a)(1), which allows private litigants to enforce rights under section 501 in suits employing the “remedies, procedures, and rights set forth in section 717 of the Civil Rights Act of 1964 (42 U.S.C. § 2000e-16).” That section appears in Title VII of the Civil Rights Act of 1964, which is entitled “Equal Employment Opportunity.”
+
+    
+At the same time, Congress expanded section 504 to cover federal agencies as well as recipients of federal funds and revised it to require the promulgation of regulations “to carry out” the amendments. 
+See 
+Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, Pub.L. No. 95-602, § 119, 
+92 Stat. 2955
+, 2982 (1978). Congress also added section 505(a)(2), 29 U.S.C. § 794a(a)(2), which provides that the “remedies, procedures, and rights” set forth in Title VI (“Nondiscrimination in Federally Assisted Programs”) of the Civil Rights Act be available in connection with complaints under section 504. Because these statutes are duplicative, some courts have limited claims against the Government as employer to actions brought under section 501, while others have allowed litigants to proceed under either provision. 
+See Milbert v. Koop, 
+
+830 F.2d 354
+, 357 (D.C.Cir.1987) (collecting cases). We have “strongly suggested]” that litigants proceed under section 501, 
+see 
+id. 
+
+
+at 357
+; and Mr. Barth has complied with this suggestion.
+
+    
+A principal issue under the Act is whether the rights Congress so clearly enacted are to be enforced through the adaptation of civil rights law or through the promulgation of administrative regulations. In light 
+*1184
+of section 505(a)(1)’s terse command that the “remedies, procedures, and rights set forth in section 717 of the Civil Rights Act” be made available in connection with complaints brought under section 501, it would seem reasonable for courts to look to the body of law developed under Title VII for guidance in enforcing comparable rights protected under the Rehabilitation Act. 
+See Milbert, 
+
+830 F.2d at 356
+ (section 501 “incorporate[s]” Title VII provisions); 
+Judd v. Billington, 
+
+863 F.2d 103
+, 105 (D.C.Cir.1988) (same).
+
+    
+Section 717 of the Civil Rights Act, 42 U.S.C. § 2000e-16, prohibits discrimination in Federal employment on the basis of “race, color, religion, sex or national origin.” Under section 2000e-16, the closest analogy to discrimination on the basis of handicap is discrimination on the basis of religion. Whereas race, color, sex, and national origin are nearly always irrelevant to an employee’s ability to perform a federal job, handicaps, like religious beliefs, are of a great variety and are often relevant to an employee’s job performance. Under Title VII, employers may not discriminate on the basis of religion, which is defined to include:
+
+    
+all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee’s or prospective employee’s religious observance or practice without undue hardship on the conduct of the employer’s business.
+
+    
+
+      
+
+Id.
+ 
+§ 2000e(j).
+
+    
+An alternative, but related, source of authority defining the rights of the handicapped under sections 501 and 504 are the regulations promulgated, respectively, by the Equal Employment Opportunity Commission (“EEOC”) and the Department of Health and Human Services (“HHS”). These regulations, which are substantially identical, are codified at 
+29 C.F.R. § 1613.704
+ (1992) and 
+45 C.F.R. § 84.12
+ (1992) respectively. Each is entitled “Reasonable accommodation” and, as is clear from their references to undue hardship, each is modeled on Title VII’s prohibition of religious discrimination.
+
+    
+The regulations promulgated under section 501, "with which we are here concerned, contain the following relevant provisions:
+
+    
+§ 1613.702 Definitions.
+
+    
+
+      
+(a)Handicapped person 
+is defined ... as one who ... [h]as a physical 
+or 
+mental impairment which substantially limits one or more of such person’s major life activities ....
+
+    
+(f) 
+Qualified handicapped person 
+means with respect to employment, a handicapped person who, with or without reasonable accommodation, can perform the essential functions of the position in question without endangering the health and safety of the individual or others....
+
+    
+§ 1613.704 Reasonable accommodation.
+
+    
+(a) An agency shall make reasonable accommodation to the known physical or mental limitations of a qualified handicapped applicant or employee unless the agency can demonstrate that the accommodation would impose an undue hardship on the operation of its program.
+
+    
+(b) Reasonable accommodation may include, but shall not be limited to: (1) Making facilities readily accessible to and usable by handicapped persons, and (2) job restructuring, part-time or modified work schedules, acquisition or modification of equipment or devices, appropriate adjustment or modification of examinations, the provision of readers and interpreters, and other similar actions.
+
+    
+(c) In determining pursuant to paragraph (a) of this section whether an accommodation would impose an undue hardship on the operation of the agency in question, factors to be considered include: (1) The overall size of the agency’s program with respect to the number of employees, number and type of facilities and size of budget; (2) the type of agency operation, including the composition and structure of the agency’s work force; and (3) the nature and the cost of the accommodation.
+
+    
+
+29 C.F.R. §§ 1613.702
+, 1613.704. These regulations have remained unchanged since before the adoption of the Rehabilitation Act’s 1978 amendments.
+
+    
+
+      
+*1185
+
+      
+2. Burden of Proof Standards
+
+    
+
+    
+A court’s allocation of the burdens of proof in a federal agency handicap discrimination case will be determined in part by whether the court looks to Title VII case law or to the EEOC regulations for guidance. The EEOC regulations direct that “[a]n agency shall make reasonable accommodation [for qualified handicapped persons] unless the agency can demonstrate that the accommodation would impose an undue hardship on the operation of its program.” 
+29 C.F.R. § 1613.704
+(a). This rule apparently calls for a two-part approach in which plaintiffs bear their usual burden of showing a breach of duty— namely, that they are qualified handicapped persons who have been denied reasonable accommodations for their handicaps — but in which agencies may “demonstrate,” as an affirmative defense, that fulfilling this duty would impose “undue hardships” on their programs.
+
+    
+Section 505(a)(1), on the other hand, states, in relevant part:
+
+    
+The remedies, procedures, and rights set forth in section 717 of the Civil Rights Act of 1964 (42 U.S.C. § 2000e-16) ... shall be available, with respect to any complaint under section 791 of this title, to any employee or applicant for employment aggrieved by the final disposition of such complaint....
+
+    
+29 U.S.C. § 794a(a)(1). Section 717 prohibits discrimination on the basis of race, color, religion, sex, or national origin. Yet, although religious discrimination is a closer analog to handicap discrimination than either race or sex discrimination, courts focusing on this language have tended to look to the allocations of the burdens of proof developed for Title VII race and sex discrimination complaints in shaping rules under the Rehabilitation Act. 
+Compare McDonnell Douglas Corp. v. Green, 
+
+411 U.S. 792
+, 802-04, 
+93 S.Ct. 1817
+, 1824-25, 
+36 L.Ed.2d 668
+ (1973) (setting forth a three-step approach to the proof of race discrimination) 
+and Texas Dep’t of Community Affairs v. Burdine, 
+
+450 U.S. 248
+, 252-56, 
+101 S.Ct. 1089
+, 1093-95, 
+67 L.Ed.2d 207
+ (1981) (elaborating 
+McDonnell Douglas 
+and applying it to a sex discrimination claim) 
+with Toledo v. Nobel-Sysco, Inc., 
+
+892 F.2d 1481
+, 1486 (10th Cir.1989) (“Although the Supreme Court has never ruled on the issue, lower courts have implemented a two-step procedure for evaluating claims and allocating burdens of proof under [Title VII’s religious discrimination] provisions.”). Thus, courts allocating burdens of proof under the Rehabilitation Act have been prone to adapt and employ the familiar principles of 
+McDonnell Douglas 
+as elaborated by 
+Burdine. See, e.g., Prewitt v. United States Postal Service, 
+
+662 F.2d 292
+, 308 (5th Cir.1981) (applying a three-step burden of proof under the Rehabilitation Act); 
+Gardner v. Morris, 
+752 
+
+
+F.2d 1271
+, 1280-81, 1282 (8th Cir.1985) (same).
+
+    
+
+      
+Burdine 
+places on the plaintiff an initial burden of producing sufficient evidence to support a prima facie case of discrimination. If the plaintiff establishes a prima facie case, the burden shifts to the defendant, which must then produce evidence of an articulable non-discriminatory reason for the challenged action. If the defendant produces such a reason, the plaintiff then, bears the ultimate burden of persuading the trier of fact that the reason was pretextual and that intentional discrimination had in fact occurred. 
+Burdine, 
+
+450 U.S. at 252-56
+, 
+101 S.Ct. at 1093-95
+.
+
+    
+The allocation of the burdens of production in the first two steps is designed to “sharpen the inquiry” into an “elusive” fact— an employer’s discriminatory motivation. 
+
+Id.
+ 
+at 255 n. 8, 
+101 S.Ct. at 
+1094 n. 8. Because of the difficulties inherent in establishing such motivation, the Supreme Court placed only a modest initial burden on a Title VII plaintiff; namely, that he establish that although qualified for an available position, he was “rejected under circumstances which give rise to an inference of unlawful discrimination.” 
+
+Id. 
+
+
+at 253
+, 
+101 S.Ct. at 1094
+. Once this burden is met, it becomes necessary for the employer to produce admissible evidence of legitimate reasons for the plaintiffs rejection, thus “framing] the factual issue with sufficient clarity so that the plaintiff will have a full and fair opportunity to demonstrate pretext.” 
+
+Id. 
+
+
+at 255-56
+, 
+101 S.Ct. at 1094-95
+. Such a demonstration having been made, it remains the plaintiffs ultimate burden to show that he was in fact the victim of inten
+*1186
+tional discrimination. 
+
+Id. 
+
+
+at 253
+, 
+101 S.Ct. at 1093-94
+; 
+St. Mary’s Honor Ctr. v. Hicks, 
+— U.S. -, -, 
+113 S.Ct. 2742
+, 2748-49, 
+125 L.Ed.2d 407
+ (1993). In short, the requirement of only a minimal prima facie showing strips the defendant of the ability to remain silent as to its motive while recognizing the plaintiffs ultimate obligation to prove that motive’s illegality.
+
+    
+An individual bringing an action under section 501 of the Rehabilitation Act, however, may face a quite different situation from that faced by plaintiffs charging racial discrimination under Title VII. Unlike a person’s race, an employer may legitimately take a handicap into consideration in determining whether an applicant or employee is qualified for a particular position. Thus, while an agency would never admit to basing an employment decision on race, agencies frequently acknowledge that they have taken a person’s handicap into consideration. Under such circumstances, the ultimate purpose of 
+Bur-dine 
+’s requirements is typically achieved from the outset. 
+See Doe v. New York University, 
+
+666 F.2d 761
+, 776 (2d Cir.1981).
+
+    
+It is apparent, then, that the 
+Burdine 
+test is not equally applicable to all cases brought under section 501. To illustrate this point, we describe three of the various categories of handicap discrimination cases that may be brought under that section. The first is one in which the employing agency asserts that it refused a job application, or denied an employee a promotion or discharged him, for reasons unrelated to the person’s handicap. 
+See, e.g., 
+id.
+ (Burdine 
+allocation “may be appropriate for § 504 suits in which the defendant disclaims any reliance on the plaintiffs handicap”); 
+Carter, 
+
+840 F.2d at 64
+ (blind employee discharged on stated basis that employee’s “job performance and attitude were unsatisfactory”). A second category involves suits in which the employer challenges a plaintiffs claim that he is a “qualified handicapped person” who, with “reasonable accommodation, can perform the essential functions of the position in question.” 
+29 C.F.R. § 1613.702
+(f). In these cases, the agency will usually contend that no reasonable accommodation is available. 
+See, e.g., Treadwell v. Alexander, 
+
+707 F.2d 473
+, 476, 478 (11th Cir.1983) (agency permitted to refuse employment to a person capable of walking only one mile per day when its job requirements include the ability to walk six hours per day and stand for another hour); 
+see also Southeastern Community College v. Davis, 
+
+442 U.S. 397
+, 410, 
+99 S.Ct. 2361
+, 2369, 
+60 L.Ed.2d 980
+ (1979) (educational institution receiving federal funds not required by section 504 to make “a fundamental alteration in the nature of [its] program” in order to accommodate a hearing-impaired student). In a third category we have those cases, such as the one before us, in which the employing agency offers the affirmative defense of “undue hardship on the operation of its program.” 
+29 C.F.R. § 1613.704
+(a). This last may at times merge with the second, however, as indicated by the regulation’s reference to “the nature and the cost” of a proposed accommodation as an example of “undue hardship.” 
+
+Id.
+ 
+§ 1613.704(c)(3).
+
+    
+The first of these categories involves the sort of inquiry into subjective facts — the employing agency’s true motivation — that the 
+Burdine 
+three-step approach was designed to address. But in the last two categories, the fact that the plaintiffs handicap was taken into explicit account in the agency’s employment or personnel decision is acknowledged. These cases deal with objective claims that may be tested through the application of traditional burdens of proof. In the second category, for example, a plaintiff must establish that (a) he is handicapped but, (b) with reasonable accommodation (which he must describe), he is (c) able to perform “the essential functions” of the position he holds or seeks. 
+See 
+
+29 C.F.R. § 1613.702
+(f); 
+see also 
+id.
+ 
+§ 1613.704(a), (b). As in the usual case, it would then be up to the employing agency to refute that evidence. The burden, however, remains with the plaintiff to prove his case by a preponderance of the evidence.
+
+    
+In the third category, the agency invokes the affirmative defense of “undue hardship,” an inquiry for which the regulations provide three factors for consideration:
+
+    
+(1) The overall size of the agency’s program with respect to the number of employees, number and type of facilities and size of budget;
+
+    
+
+      
+*1187
+(2) the type of agency operation, including the composition and structure of the agency’s work force; and
+
+    
+(3) the nature and the cost of the accommodation.
+
+    
+
+29 C.F.R. § 1613.704
+(c). In such a case (as in any other in which an affirmative defense is raised) the agency has the burden of proving the undue hardship. 
+See, e.g., Langon, 
+
+959 F.2d at 1060
+ (“burden of showing undue hardship was on HHS”); 
+cf. Patterson v. New York, 
+
+432 U.S. 197
+, 202, 
+97 S.Ct. 2319
+, 2323, 
+53 L.Ed.2d 281
+ (1977) (noting, in a criminal context, that “at common law the burden of proving ... affirmative defenses— indeed all ... circumstances of justification, excuse, or alleviation — rested on the defendant”) (citations and internal quotation marks omitted).
+
+    
+As a general matter, a reasonable accommodation is one employing a 
+method of accommodation 
+that is reasonable in the run of cases, whereas the undue hardship inquiry focuses on the hardships imposed by the plaintiffs preferred accommodation in the context of the particular agency’s operations. 
+See 
+
+29 C.F.R. § 1613.704
+(b) (listing various reasonable methods of accommodation as examples of “reasonable accommodation”); 
+29 C.F.R. § 1613.704
+(c) (listing considerations bearing on undue hardship by reference to the hardship imposed on “the agency in question”). As noted earlier, a grey area will arise where a proposed accommodation is so costly or of such a nature that it would impose an undue burden on the employer’s operations. Thus, an accommodation would be both unreasonable and impose an undue burden “if it either imposes undue financial and administrative burdens on [an agency] or requires a fundamental alteration in the nature of [its] program.” 
+School Bd. of Nassau County v. Arline, 
+
+480 U.S. 273
+, 287 n. 17, 
+107 S.Ct. 1123
+, 1131 n. 17, 
+94 L.Ed.2d 307
+ (1987) (internal quotation marks and citations omitted).
+
+    
+Finally, we note that, although we have revisited the question of allocating burdens of proof under the Rehabilitation Act from first principles, nothing we have said contradicts any of our earlier decisions. 
+Shirey v. Devine, 
+
+670 F.2d 1188
+ (D.C.Cir.1982), involved the question of whether the Government must “cease any discrimination,” not whether it had fulfilled an affirmative duty to accommodate. 
+
+Id. 
+
+
+at 1191
+. 
+Carter 
+suggested that the burden of persuasion might remain with the employee or applicant even in a case where the employer asserts the affirmative defense that accommodation would be unduly burdensome. 
+See 
+
+840 F.2d at 65-66
+ (“Credible evidence that reasonable accommodation is not possible or would be unduly burdensome shifts the burden back to the plaintiff to rebut the employer’s evidence.”). In that case, however, the burdensomeness of accommodation was not at issue. . The employer denied that it had discharged the employee because of his blindness. 
+See 
+
+840 F.2d at 64
+. In 
+Langon, 
+the one statement in tension with what we have said is the court’s suggestion that the employer (not the employee) had the burden of persuasion on the question of the requested accommodation’s reasonableness. 
+See 
+
+959 F.2d at 1061
+ (“If [the employee] could [perform the essential functions of her position], the burden [was] on the agency to show why the accommodation was not a reasonable one.”). That statement, however, is dictum because it was not necessary to reach the issue of the agency’s burden in order to reverse the district court’s grant of summary judgment. Therefore, nothing in our precedents forecloses the analysis we have emplpyed today.
+
+    
+
+      
+3. The Burden of Proof in this Case
+
+    
+
+    
+In this ease, the issue has been joined in a manner that places us squarely within the third category described above. Therefore, the district court erred in two respects on the question of burdens of proof: Because the VOA acknowledged that it had refused Mr. Barth’s application on account of his handicap, the court should not have invoked the 
+Burdine 
+three-step scheme; and, more to the point, it wrongly assigned the burden of persuasion on the undue hardship issue to Mr. Barth instead of the agency.
+
+    
+.. The VOA does not claim that limiting Mr. Barth’s overseas assignments to posts at which adequate medical facilities are available would be unreasonable in the abstract. Rather, it asserts that the requested accom
+*1188
+modation would result in undue hardship as a result of considerations peculiar to its operation; essentially, its need for flexibility in the difficult task of rotating a small number of radio engineering specialists among twelve far-flung relay stations, most of them “hardship posts,” while trying to maintain the efficiency of its operation. The VOA notes that its non-hardship posts, the only ones at which Mr. Barth would be eligible to serve, function as short-term havens for its specialists. Yet, given the “thin staffing” of VOA posts, every transfer from, say, Liberia to Munich, Germany, implies the need for another transfer in the opposite direction. Mr. Barth, however, would be medically disqualified for such transfers, thereby imposing additional burdens on the remaining engineers. For these and other operational reasons, the VOA maintains that its staffing problems would be greatly compounded by admitting someone into the Service who from the outset had Mr. Barth’s serious limitations on assignability.
+
+    
+The accommodation Mr. Barth seeks is assignment to one of three or four “non-hardship” posts in the VOA radio relay system. As the VOA admits that it restricts the assignments of certain of its current radio specialists for medical and family reasons, there can be no claim that such an accommodation would mark a “fundamental alteration” in the nature of the VOA’s program. The agency argues instead that permanently assigning Mr. Barth to non-hardship postings would impose, in these particular circumstances, undue hardship on the VOA. This is an affirmative defense that the VOA had the burden of proving. The issue to be resolved, then, is whether it has met that burden. But because the-district court erred in assigning the ultimate burden of proof to Mr. Barth, we must also decide whether that error was harmless. 
+See Williams v. United States Elevator Corp., 
+
+920 F.2d 1019
+, 1022-23 (D.C.Cir.1990) (discussing standards for harmless error analysis in civil cases).
+
+    
+In 
+Williams, 
+we stated that in determining whether an error in a civil case was harmless, “[t]he proper inquiry is ‘whether the error itself had substantial influence. If so, or if one is left in grave doubt, the [verdict] cannot stand.’ ... This inquiry ‘involves an assessment of the likelihood that the error affected the outcome of the case.’ ” 
+
+Id. 
+
+
+at 1023
+ (quoting 
+Kotteakos v. United States, 
+
+328 U.S. 750
+, 765, 
+66 S.Ct. 1239
+, 1248, 
+90 L.Ed. 1557
+ (1946), and 
+Jordan v. Medley, 
+
+711 F.2d 211
+, 218 (D.C.Cir.1983)).
+
+    
+Mr. Barth does not claim that the Government failed to produce evidence of undue hardship. Therefore, the only conceivable prejudice from the district court’s error is the possibility that its misallocation of the ultimate burden of proof affected the outcome of the case. For this to occur, the evidence presented would have to be in sufficient balance so that the outcome would depend on who had the burden. 
+See, e.g., United States ex rel. Bilyew v. Franzen, 
+
+686 F.2d 1238
+, 1248 (7th Cir.1982) (“If the evidence is closely balanced, then common sense indicates there is a reasonable possibility that who bears the burden of proof will determine the outcome.”); 
+cf. New York Life Ins. Co. v. Taylor, 
+
+147 F.2d 297
+, 301 (D.C.Cir.1945) (finding harmful error in civil case where burden of proof by preponderance of evidence was placed on wrong party because “the evidence was such that the result might well have depended on where the ultimate burden of proof lay”).
+
+    
+Here, the district court examined the administrative record and concluded that the VOA’s decision that Mr. Barth’s handicap could not be reasonably accommodated “was proper and consistent with the requirements of the Rehabilitation Act.” Mem. op. at 18. The court observed that “[t]he thin staffing at each post required flexibility of assignment, put a premium on workers not subject to serious health risks, and offered few options for initial assignment of Mr. Barth.” Id It found that “at the time he sought waiver Mr. Barth could function only at three or four posts.” 
+Id.
+ Mr. Barth does not challenge the court’s findings. To the contrary, he complains that
+
+    
+the government attempts to characterize this as a fact-bound appeal, claiming appellant has asserted that the District Court’s findings are ‘clearly erroneous.’ The government must have read a different brief, for we have no quarrel 
+here 
+with the facts as found by the district court.
+
+    
+
+      
+*1189
+Reply Brief for Appellant at 1 (citation omitted); see 
+also 
+Fed.R.Civ.P. 52(a) (“Findings of fact ... shall not be set aside unless clearly erroneous....”).
+
+    
+Our examination of the records satisfies us that the VOA introduced sufficient evidence to support a claim of undue hardship by virtue of the loss of essential operational flexibility that would have resulted from an attempt to accommodate Mr. Barth’s medical needs. And because Mr. Barth does not challenge the district court’s findings of fact, we must accept those findings as true. Viewing the evidence through the lens of those findings, we conclude that it was not so closely balanced that the court’s error in assigning the burden of persuasion to Mr. Barth would have affected the outcome.
+
+    
+B. Mr. Barth’s Other Claims
+
+    
+Mr. Barth asserts that the district court has made two “significant legal errors,” in addition to the misallocation of the burden of proof, “each of which alone justifies, reversal.” Reply Brief for Appellant at 1. He maintains, first, that the court erred in allowing the VOA to refuse to offer an accommodation to an applicant for employment that it has extended to current employees. Mr. Barth notes that the VOA has made special accommodations for employees who have incurred medical problems while on duty overseas or whose children have particular educational needs. From this, he argues that (1) if such limitations on the assignment of an existing employee do not create an undue hardship, similar restrictions on the assignment of an applicant will not do so; and (2) if the VOA restricts the assignments of a current employee for medical or family reasons, it must be equally willing to restrict the assignment of a handicapped applicant.
+
+    
+These arguments overlook the benefits that agencies derive from accommodating the special needs of existing employees, which they do not gain from serving those of applicants. A willingness to accommodate incumbent employees increases the likelihood that they—and their knowhow—will be retained by the employing agency. 
+Cf. 
+Mem. op. at 831 (describing the VOA’s difficulties in maintaining a skilled work force and measures it has taken in response). It will also contribute to employee morale and, presumably, to productivity. Thus there is economic logic as well as moral truth behind the intuition that distinguishes between “family” and “stranger” and the level of obligation owed to each. Robert Frost captured that intuition in his poem, “The Death of the Hired Man”:
+
+    
+Home is the place where, when you have to go there,
+
+    
+They have to take you in.
+
+    
+
+      
+The Poetry of Robert Frost 
+at 38 (Edward C. Lathem ed., 1967). Mr. Barth may knock at the door, but he is not family, and his handicap does not give him the right to be treated as such. An agency is entitled both to take the measure of the burden imposed by an accommodation net of its benefits and to take account of the duty of care, whether legal or not, that is owed employees who develop problems while on the job. Accordingly, we decline to find that the disparate treatment Mr. Barth complains of constitutes handicap discrimination within the meaning of the Act.
+
+    
+In his second claim of legal error, Mr. Barth argues that the district court improperly accepted “speculative assertions of impaired management flexibility and employee morale.” Reply Brief for Appellant at 2. He contends that an agency “must establish ‘undue hardship’ through objective evidence, not mere supposition, of the actual impact of-any proposed accommodation on specific aspects of its program.” Brief for Appellant at 17. He supports this argument with statements from Title VII religious discrimination cases. 
+See EEOC v. Townley Engineering & Mfg. Co., 
+
+859 F.2d 610
+, 615 (9th Cir.1988); 
+Brown v. General Motors Corp., 
+
+601 F.2d 956
+, 961 (8th Cir.1979); 
+Draper v. United States Pipe & Foundry Co., 
+
+527 F.2d 515
+, 520 (6th Cir.1975). We, however, find nothing in these cases more remarkable than the proposition that evidence becomes less persuasive as it becomes more speculative.
+
+    
+Mr. Barth also contends that even if the VOA had offered admissible evidence of an adverse effect on employee morale, it was inappropriate to take that factor into account. For support, he relies on cases holding, for example, that racial animus may not be used 
+*1190
+to defend race-based policies or practices. 
+See, e.g., Palmore v. Sidoti, 
+
+466 U.S. 429
+, 433, 
+104 S.Ct. 1879
+, 1882, 
+80 L.Ed.2d 421
+ (1984) (holding that community hostility to mixed-race marriages does not excuse a policy that disadvantages mixed-race couples in disputes over child custody).
+
+    
+This argument, however, confuses animus against the handicapped with the morale effects of a particular means of accommodating them. Consider an extreme example: An agency is asked to accommodate an employee with extra-sensitive eyes by moving operations underground. It seems clear that in considering this request, the agency could not properly take into account the other workers’ animus against the handicapped or their resentment over the handicapped’s protected legal status. But this does not mean the agency must ignore the probable effects of subterranean working conditions on the morale of other employees, however pure of heart.
+
+    
+An element of the undue hardship calculus cited in the EEOC regulation is the relationship between the number of employees and the size of the agency’s program. 
+29 C.F.R. § 1613.704
+(c). This factor is relevant, we presume, precisely because the degree of the imposition of a particular accommodation on non-handicapped employees as a group, and the effects of such impositions on a small work force, are legitimate concerns under the Rehabilitation Act.
+
+    
+III. CONCLUSION
+
+    
+For the foregoing reasons, the judgment of the district court is
+
+    
+
+      
+Affirmed.
+
+    
+
+  
+
+

@@ -1,0 +1,7 @@
+# Operator-only preflight exposure receipt
+
+On September 29, 2026, the neutral-preflight context researching O'Neal v. McAninch attempted broad searches for pre-1995 Breyer/Ginsburg harmless-error writings with O'Neal/McAninch exclusions. Search results nevertheless displayed same-matter historical Supreme Court disposition, lineup and rationale. Archive discovery metadata also displayed a same-matter holding summary. The context immediately notified the parent. No commitments were produced, no Stone supplement or combined brief was opened, and no prior commitment, reconciliation, Record audit annex or validation receipt was read.
+
+The context had already independently verified the preserved-Doyle scope of the controlling Brecht, read the complete lower opinion, and identified the antecedent governing-standard issue before this exposure. The parent directed completion of a sanitized source-supported candidate and separate disclosure here. The candidate is not certified as independently framed after exposure and requires fresh neutral framing/completeness validation followed by a different independent modeling context. Neither clean context should receive this receipt or any account of the excluded material's substance. No git command was run by this context.
+
+The candidate's sources contain no downloaded O'Neal Supreme Court opinion or comparator. Its source-supported case facts come from the lower opinion. Candidate: `terms/OT1994/freeze/OT_1994CHUNK3_ONEAL_NEUTRAL_CANDIDATE.md`.

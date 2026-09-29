@@ -4,15 +4,15 @@ Sanitized public-law continuation only. Records and synchronized opening tracker
 
 ## Scope and chronology
 
-**Posture:** After chunk 3, with 35 completed inventory events. **Chronology cursor:** March 20, 1995, after the Ambassador Books event. O'Neal v. McAninch, No. 93-7407 remains stopped at its scheduled event date and supplies no adjudication. An unresolved earlier scheduled matter prevents a complete-through assertion across its date. Its later resolution requires a check against completed later events; no missing event is treated as decided.
+**Posture:** After chunk 3, with 36 completed inventory events. **Chronology cursor:** March 20, 1995, after the Ambassador Books event. O'Neal v. McAninch is adjudicated effective February 21, 1995. The February 21 group and the scheduled inventory through March 20 are complete. Same-day decisions retain their common pre-group baseline.
 
 The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 35 inventory events are completed; 64 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The April 4, 1995 statutory transition remains scheduled separately and supplies no present holding.
+The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 36 inventory events are completed; 63 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The April 4, 1995 statutory transition remains scheduled separately and supplies no present holding.
 
-The next independent scheduled inventory event is **Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., No. 93-1783, March 21, 1995, chunk 4**. Stopped matters retain their separate blockers. Uncoordinated equal-date matters use common pre-group law. February 22, March 1 and March 6 decisions are combined only prospectively; no file-preservation order creates a release sequence.
+The next independent scheduled inventory event is **Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., No. 93-1783, March 21, 1995, chunk 4**. Uncoordinated equal-date matters use common pre-group law. February 22, March 1 and March 6 decisions are combined only prospectively; no file-preservation order creates a release sequence.
 
 ## Court and public procedure
 
@@ -1172,6 +1172,49 @@ Authority: [Record](../records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schl
 
 Effective February 21, 1995, section 1399’s computational schedule begins at the opening of the plan year after withdrawal. The prior-year valuation date supplies no authority to add a year of interest to the withdrawal amount. Statutory actual-payment, delinquency, prepayment, and default provisions continue to operate independently; Concrete Pipe’s review rules remain unchanged.
 
+### O'Neal v. McAninch, No. 93-7407 — 1995-02-21
+
+Authority: [Record](../records/ONeal_v_McAninch_merits_1995-02-21.md#public-projection).
+
+### Chapman governs the preserved personal-intent instructional claim
+
+**Holding and operative rule:** For a preserved constitutional trial violation, properly available on federal habeas, in which the combined jury instructions and prosecutor's statement permit conviction without proof of the defendant's own intent required for the offense, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict. Kotteakos's substantial-and-injurious-effect and grave-doubt framework does not govern this claim; the standard for other reserved categories is not decided.
+
+**Authority:** O'Connor's Opinion of the Court, Part II, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five direct joins at this level of generality. Part III's proposed extension to ordinary preserved constitutional trial errors generally has only O'Connor, Stone-Zsela and Souter and does not control.
+
+**Controlling explanation:** The Court holds that the State must establish harmlessness beyond a reasonable doubt for this preserved constitutional instructional claim. Chapman supplies the inquiry whether the violation contributed to the actual verdict, rather than whether sufficient untainted evidence could support another verdict. Brecht retained that rule for preserved Doyle error on habeas; it left other categories open. The alleged permission to convict without finding O'Neal's own required intent concerns the jury's constitutional task as directly as the protected-silence error addressed there. No feature of this claim justifies reducing the State's showing merely because review is collateral. Finality and respect for state judgments remain substantial interests, but independent habeas requirements continue to protect them, and Chapman permits harmless convictions to stand. Section 2254(a)'s custody requirement does not expressly reverse the harmlessness burden after a qualifying violation. The Court resolves this instructional category, without deciding every other constitutional collateral claim, finding the assumed violation, or treating it as structural error.
+
+**Precedent treatment:**
+
+- Brecht v. Abrahamson, April 21, 1993: extended from preserved Doyle error to the preserved personal-intent instructional/argument category; its original rule survives, while other reserved categories remain unresolved by the Court.
+- Chapman v. California, 386 U.S. 18 (1967): applied with the State's beyond-a-reasonable-doubt burden and actual-verdict contribution inquiry intact.
+- Kotteakos v. United States, 328 U.S. 750 (1946): not extended to replace Chapman for this constitutional claim; its existing operation for genuinely nonconstitutional trial error remains unchanged.
+- In re Winship, 397 U.S. 358 (1970): applied as the constitutional requirement that the prosecution prove the elements of the charged offense; no new personal-intent element is imposed on offenses that do not require it.
+- Sullivan v. Louisiana, June 1, 1993: preserved as the distinct rule for a defect vitiating the jury's governing reasonable-doubt standard; the assumed error here is not declared structural.
+
+### The proper standard requires renewed review, not an automatic writ
+
+**Holding and operative rule:** The Sixth Circuit's substantial-influence assessment with a prisoner prejudice burden does not supply the required Chapman determination; its challenged judgment must be vacated for review of the combined claim under the correct rule. If an available constitutional violation is established and the State fails to prove beyond a reasonable doubt on the existing record that it did not contribute to the verdict, the writ shall issue for the affected conviction or convictions unless the State retries O'Neal within a reasonable time; no immediate writ or present retrial deadline is imposed.
+
+**Authority:** O'Connor's Opinion of the Court, Part IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five direct joins in the remedy and its conditions. Stevens and Kennedy add votes for vacatur and further proceedings on a different harmlessness ground, making the judgment 7–2 without enlarging the Chapman coalition.
+
+**Controlling explanation:** The Court holds that a new application of the proper standard is necessary, but does not award relief merely because the court of appeals used the wrong rule. The instructions-only ruling did not finally resolve the assumed combined effect of the charge and the prosecutor's misstatement. Nor did a finding of no substantial injurious influence under a prisoner burden establish the stronger assurance Chapman requires from the State. The evidence of principal participation remains part of the whole-record inquiry; the Court does not reject that evidence or decide its weight. Brecht supplies the distinction between correcting the review rule and ordering a writ after the State fails the required showing. The receiving courts may resolve the constitutional claim or, on an express assumption of error, determine harmlessness under Chapman. A writ requires an established violation that warrants relief. Ordinary habeas gates and the connection between the violation and each affected conviction remain; neither an unrecorded state of grave doubt nor the terms of the earlier conditional order are presumed.
+
+**Precedent treatment:**
+
+- Brecht v. Abrahamson, April 21, 1993: its whole-record remand and conditional-relief distinction are extended to this instructional claim, without automatic reinstatement of a prior writ.
+- Chapman v. California, 386 U.S. 18 (1967): applied to the existing trial record; a weaker substantial-influence finding is not treated as the required finding beyond a reasonable doubt.
+- Estelle v. McGuire, December 4, 1991, and Victor v. Nebraska / Sandoval v. California, March 22, 1994: their whole-charge reasonable-likelihood inquiry remains the rule for identifying an ambiguous instruction's constitutional defect; the Court does not decide that antecedent application here.
+- Schlup v. Delo, January 23, 1995: its gateway for otherwise barred claims remains independent; neither passage through that gateway nor an innocence showing is invented for this claim.
+
+Brecht's preserved-Doyle Chapman holding remains in force and now extends to the preserved personal-intent instructional/argument category presented here. Chapman retains its burden and proof standard. Kotteakos continues within its existing genuinely nonconstitutional trial-error domain; this decision creates no habeas remedy for ordinary state-law error. Winship's element-proof requirement and Estelle/Victor's identification of instructional error remain distinct from harmlessness. Sullivan's structural rule and Schlup's separate gateway remain unchanged. No precedent is overruled.
+
+Effective February 21, 1995, Chapman governs this preserved personal-intent instructional/argument category on federal habeas as well as the preserved Doyle category already governed by Brecht. The State must establish noncontribution to the verdict beyond a reasonable doubt on the whole record. Kotteakos grave doubt is not an alternative dispositive test for this claim.
+
+The Court has not adopted a general Chapman rule for every other category of preserved constitutional trial error. O'Connor, Stone-Zsela and Souter support that further extension in Part III; Ginsburg and Breyer reserve it. That three-Justice position is not current law. Nor does the Stevens–Kennedy concurrence establish a constitutional-habeas Kotteakos rule. The controlling propositions rest on five direct joins; no Marks construction or aggregation of different standards is necessary or adopted.
+
+Proof of the constitutional violation, preservation, exhaustion, other independent habeas gates, structural-error rules and any prejudice element defining a different constitutional claim remain separate. The decision neither shifts every habeas burden to the State nor determines actual harmlessness or the ultimate entitlement to a writ.
+
 ### Anderson v. Green; No. 94-197; 513 U.S. 557 — 1995-02-22
 
 Authority: [Record](../records/Anderson_v_Green_decision_1995-02-22.md#public-projection).
@@ -1745,6 +1788,10 @@ The mandate reverses the Second Circuit judgment and remands for proceedings con
 
 The affirmed judgment directs enforcement of the arbitral award without the added 1981 computational interest or prejudgment interest on that addition. The existing statutory payment obligations continue. No further Supreme Court remedy, numerical calculation, or decision on a different pension dispute is entered.
 
+### O'Neal v. McAninch, No. 93-7407 — 1995-02-21
+
+Supreme Court review of the admitted question is complete. The Sixth Circuit judgment is vacated on the challenged combined-error disposition. The case returns through that court, with District Court proceedings as appropriate, for the Chapman inquiry and any necessary determination of the assumed constitutional violation. Harmlessness must be assessed on the whole existing trial record with the State bearing the burden beyond a reasonable doubt. If a properly available constitutional violation is established and that showing fails, the writ shall issue for the affected conviction or convictions unless Ohio retries O'Neal within a reasonable time. The Court orders no immediate release, acquittal, unconditional writ, fixed retrial period or automatic restoration of the District Court's original order. Independent grounds outside the admitted question are not newly adjudicated.
+
 ### Anderson v. Green; No. 94-197; 513 U.S. 557 — 1995-02-22
 
 The case returns through the Ninth Circuit for vacatur of the District Court's preliminary judgment and dismissal without prejudice. The former constitutional injunction does not remain as an adjudication of the cap, but the independent federal-approval prerequisite still prevents implementation on the present record. Any later operative program requires its own concrete challenge and jurisdictional basis; no future filing or administrative action is ordered or presumed.
@@ -1797,7 +1844,7 @@ Dates below are the supplied inventory's planning dates, confirmed against Secti
 
 **Same-day grouping:** every equal event date is one same-day group, including groups split across chunks: 1995-01-10 (1/2), 1995-02-21 (2/3), 1995-04-19 (4/5), 1995-05-15 (5/6), 1995-06-05 (6/7), 1995-06-14 (7/8), and 1995-06-29 (8/9). Inventory order is a display tie-break only. No OT1994 coordinated release sequence is established at opening. Uncoordinated events on the same date use the common pre-group law, even when their Run tasks occur separately.
 
-The next independent scheduled inventory event is Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., March 21, 1995. All earlier stopped matters remain open.
+The next independent scheduled inventory event is Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., March 21, 1995. The scheduled inventory through March 20 is complete; unscheduled carryovers remain as listed.
 
 | Chunk | Inventory matters | Inventory numbers | First scheduled event | Last scheduled event |
 |---|---|---|---|---|
@@ -1997,6 +2044,16 @@ She would decide the conduct-attribution theory on the private-entity premise on
 
 O'Connor recognizes that the permanent public governance would support the Court's structural conclusion if that alternative were reached. That conditional agreement supplies no vote for a holding she declines to adjudicate and no judgment vote for reversal. Even an affirmative actor ruling, she explains, would not itself establish the right to the district court's mandatory-display injunction; forum, speech, and equitable questions would still require decision.
 
+### O'Neal v. McAninch, No. 93-7407 — 1995-02-21
+
+Authority: [Record](../records/ONeal_v_McAninch_merits_1995-02-21.md#public-projection).
+
+**O'Connor, joined by Stone-Zsela and Souter, Part III:** These three Justices would extend Chapman beyond the category necessary to decide this case, to ordinary preserved constitutional trial errors generally when properly before a federal habeas court and susceptible to harmless-error review. They read Brecht's reason for retaining the State's burden as arising from the constitutional character of an established trial violation and the risk of its contribution to the verdict, not a feature peculiar to protected silence. In their view, distinguishing ordinary trial-error categories would add complexity without identifying a different basis for allocating that risk. Rose v. Clark and Yates v. Evatt supply continuity from prior collateral applications of Chapman, although neither is misdescribed as having already settled the later choice between standards. Independent habeas gates protect finality, and the State may preserve a conviction by proving harmlessness. Their proposed extension leaves structural error, procedural default, exhaustion and prejudice defining a distinct constitutional claim untouched. Ginsburg and Breyer withhold a join from this generalization while joining the specific instructional rule and mandate. This broader position has three votes and does not settle Brecht's remaining reservations.
+
+**Stevens, joined by Kennedy, concurring in the judgment:** They would vacate because the lower court's prisoner-burden formulation does not preserve the grave-doubt consequence of the Kotteakos rule they would adopt for this non-Doyle category. Collateral review may use a substantial-influence threshold while still requiring the reviewing court to assess the whole record and the State to explain why an established trial violation did not substantially influence the verdict. Kotteakos supplies both that actual-verdict inquiry and the consequence of genuine grave doubt; mere evidence sufficient to convict is not enough. They would respect Brecht's binding preserved-Doyle holding without extending Chapman to this instructional claim. They do not find the appellate judges actually doubtful, declare a constitutional violation, or order a present writ. Their remand would require renewed Kotteakos review, with any ultimate relief confined to convictions affected by a proved violation that cannot be treated as harmless under their rule. They support vacatur and further proceedings but oppose the Court's Chapman direction. Their alternative standard has two adherents and does not govern the remand.
+
+**Scalia, joined by Thomas, dissenting:** They would affirm within the accepted legal question. In their view, section 2254(a)'s requirement of custody in violation of federal law supports requiring a prisoner in this non-Doyle trial-error category to establish substantial injurious influence before obtaining collateral relief. They accept that the statute does not expressly state a tie-breaking rule and that Kotteakos and Chapman allocate uncertainty differently in their own settings. Their proposed distinction concerns the collateral remedy after criminal review has ended. Brecht's preserved-Doyle holding remains binding, but they would not extend it to the category it reserved. A prisoner unable to establish the requisite substantial injury—including one whose showing leaves that matter evenly balanced—would not obtain relief under their rule. They rely on the court of appeals' existing rule and no-influence conclusion without making a new whole-trial factual finding. Their position does not demand innocence in every habeas case, recast constitutional error as merely state-law error, or classify a Sullivan defect as ordinary trial error. This petitioner-prejudice rule has two votes and is not controlling.
+
 ### Harris v. Alabama, No. 93-7659 — 1995-02-22
 
 Authority: [Record](../records/Harris_v_Alabama_merits_1995-02-22.md#public-projection).
@@ -2101,8 +2158,6 @@ These are the event’s complete material published separate positions. Routine 
 - Kimberlin and Johnson share June 12, 1995 without an established coordinated release sequence. The common pre-group baseline applies. The evidence-sufficiency path remains subject to the packet's reachability and source conditions; no earlier Johnson release is inferred.
 - Asgrow is complete under the former statute. Pub. L. 103-349 section 15 supplies April 4, 1995 effectiveness, with the certificate/application transition in section 14. The future transition is scheduled in the manifest; its full operative source must be preserved in an Admitted Source Record before the first Court event on or after effectiveness. The date alone does not retroactively alter earlier transactions or erase transition qualifications.
 - Preserve each neutral packet's remaining source qualifications. This opening does not certify a complete litigation record or supply missing findings, concessions, statutory qualifications, operative orders or dates.
-
-O'Neal v. McAninch, No. 93-7407 remains stopped at its scheduled event date and supplies no adjudication. Any later completion must use its own event-date law and recheck effects on completed later decisions.
 
 ## Source cutoff
 

@@ -1,0 +1,456 @@
+
+
+  
+
+    
+Robert O’NEAL, Petitioner-Appellee, v. Terry L. MORRIS, Respondent-Appellant.
+
+    
+No. 92-3763.
+
+    
+United States Court of Appeals, Sixth Circuit.
+
+    
+Argued May 6, 1993.
+
+    
+Decided Aug. 20, 1993.
+
+    
+Rehearing and Suggestion for Rehearing En Banc Denied Oct. 4, 1993.
+
+    
+Thomas R. Wetterer, Jr. (argued & briefed), Public Defender’s Office, Columbus, OH, for petitioner-appellee.
+
+    
+Suzanne E. Mohr (argued & briefed), Office of the Atty. Gen. of Ohio, Columbus, OH, for respondent-appellant.
+
+    
+Before: MILBURN, RYAN, and NORRIS, Circuit Judges.
+
+  
+
+  
+
+    
+ALAN E. NORRIS, Circuit Judge.
+
+    
+The state of Ohio, on behalf of warden Terry L. Morris of the Chillicothe Correctional Institute, appeals the district court’s order which conditionally granted a writ of habeas corpus on the basis that improper jury instructions and other trial errors ren
+*144
+dered petitioner Robert O’Neal’s state murder trial fundamentally unfair. We reverse.
+
+    
+I.
+
+    
+In 1981 petitioner was convicted by an Ohio jury of aggravated murder, aggravated robbery, and kidnapping in connection with the death of Henry Podborny. In January 1981 Podborny’s estranged wife, Dimple, lured him from his home near Chicago on the pretense that she wished to resolve their marital difficulties. Three months later, authorities discovered Mr. Podborny’s corpse in a field in Cleveland.
+
+    
+The evidence at trial revealed a detailed conspiracy among at least six individuals, including Dimple Podborny, her daughter-in-law, and acquaintances, to kidnap, rob, and murder Henry Podborny. The conspirators considered a number of plots, but eventually decided to have Dimple induce her husband to fly to Cleveland. Petitioner would then kidnap and hold him in the basement of an unlicensed saloon petitioner operated, while others would rob Mr. Podborny’s residence and business.
+
+    
+On January 29, 1981, Mr. Podborny flew to the Cleveland airport, where Dimple’s daughter-in-law, Lola Toney, met him and escorted him to petitioner’s saloon. Minutes after Mr. Podborny entered, petitioner exited the bar and handed to Toney Podborny’s wallet and other possessions. Soon after, another conspirator, Lloyd Men, emerged from the bar and informed petitioner and Toney that he had struck Podborny with a pipe.
+
+    
+From January through March, Dimple, To-ney, and others engaged in a variety of schemes to make it appear that Mr. Podbor-ny was traveling on business, while they attempted to obtain his money. By late March, Toney believed Henry Podborny was no longér alive. His corpse was discovered a month later. Coroners determined that he had been struck at least five times in the head and shot once in the forehead. Petitioner, Dimple Podborny, Lola Toney, Lloyd Men, and two others were subsequently indicted for aggravated murder, aggravated robbery, and kidnapping. After the case against three of the conspirators was resolved by a trial and a guilty plea, petitioner, Lloyd Men, and Dimple Podborny were tried jointly and convicted on all counts. Petitioner unsuccessfully appealed his conviction to the Ohio Court of Appeals and Ohio Supreme Court.
+
+    
+In 1986, petitioner filed a petition for a writ of habeas corpus pursuant to 
+28 U.S.C. § 2254
+. The district court ruled that petitioner’s trial had been fundamentally unfair and conditionally granted the writ. The state filed this timely appeal.
+
+    
+II.
+
+    
+Petitioner first argues that this court should not hear the state’s appeal because the state’s objections to the magistrate’s first report, which recommended that the writ issue, were filed approximately twenty days late. 
+See 
+
+28 U.S.C. § 636
+(b)(1) (setting ten-day deadline for objections to magistrate’s report). This court held in 
+United States v. Walters, 
+
+638 F.2d 947
+ (6th Cir.1981), that a party’s failure to file timely objections to a magistrate’s report waives that party’s right to appeal from the district court’s decision to adopt the magistrate’s report. 
+
+Id. 
+
+
+at 949-50
+. 
+See also Thomas v. Arn, 
+
+474 U.S. 140
+, 142, 
+106 S.Ct. 466
+, 468, 
+88 L.Ed.2d 435
+ (1985) (approving 
+Walters 
+rule).
+
+    
+While the district court agreed to strike the state’s untimely objections, it declined to adopt the magistrate’s entire report. Instead, the court recommitted the case to the magistrate for further consideration. After reconsideration, the magistrate issued a second report, again recommending that the court grant the writ and incorporating much of the reasoning articulated in the first report. The state filed timely objections to the second report, which the district court considered.
+
+    
+It is well established that the 
+Walters 
+rule is procedural, not jurisdictional, and that this court may excuse the default in the interests of justice. 
+Thomas, 
+
+474 U.S. at 155
+, 
+106 S.Ct. at 475
+; 
+Kent v. Johnson, 
+
+821 F.2d 1220
+, 1222-23 (6th Cir.), 
+amended on other grounds 
+(6th Cir.1987). This court has also concluded that when, as here, a district court considers untimely objections, the justi
+*145
+fications for enforcing the 
+Walters 
+rule dissipate. 
+Patterson v. Mintzes, 
+
+717 F.2d 284
+, 286 (6th Cir.1983). Therefore, given the unique facts of this case, we conclude it is in the interests of justice to hear the state’s appeal of the district court’s decision that the writ be granted.
+
+    
+III.
+
+    
+In 
+Brecht v. Abrahamson, 
+— U.S. -, 
+113 S.Ct. 1710
+, 
+123 L.Ed.2d 363
+ (1993), the Supreme Court recently clarified the standard we must apply on habeas review of state court convictions. If we conclude that a federal constitutional trial error
+1
+ occurred at petitioner’s trial, we must ascertain whether the error “ ‘had substantial and injurious effect or influence in determining the jury’s verdict’ ” such that it resulted in actual prejudice. 
+Brecht, 
+— U.S. at -, -, 
+113 S.Ct. at 1717, 1722
+ (quoting 
+Kotteakos v. United States, 
+
+328 U.S. 750
+, 776, 
+66 S.Ct. 1239
+, 1253, 
+90 L.Ed. 1557
+ (1946)). The habe-as petitioner bears the burden of establishing such prejudice. 
+
+Id.,
+ 
+— U.S. at -, 
+113 S.Ct. at 1722
+.
+
+    
+In petitioner’s case, the district court adopted the magistrate’s conclusion that the jury instructions given at petitioner’s trial “were so confusing and vague that a reasonable juror could have interpreted them to mean that the intent of one co-conspirator could be imputed to [petitioner],” thereby relieving the state of its burden to prove petitioner’s intent to kill beyond a reasonable doubt, in violation of 
+In re Winship, 
+
+397 U.S. 358
+, 
+90 S.Ct. 1068
+, 
+25 L.Ed.2d 368
+ (1970), and 
+Sandstrom v. Montana, 
+
+442 U.S. 510
+, 
+99 S.Ct. 2450
+, 
+61 L.Ed.2d 39
+ (1979).
+
+    
+Initially, we point out that the district court employed an outdated standard for evaluating petitioner’s 
+Sandstrom 
+claim. The court incorrectly relied upon the test espoused in 
+Francis v. Franklin, 
+
+471 U.S. 307
+, 315-16, 
+105 S.Ct. 1965
+, 1972, 
+85 L.Ed.2d 344
+ (1985), and 
+Sandstrom, 
+
+442 U.S. at 514
+, 
+99 S.Ct. at 2454
+, and followed by this court in 
+Clark v. Jago, 
+
+676 F.2d 1099
+, 1102 (6th Cir.1982), ce
+rt. denied, 
+
+466 U.S. 977
+, 
+104 S.Ct. 2360
+, 
+80 L.Ed.2d 832
+ (1984), that jury instructions infringe a defendant’s due process rights if a reasonable jury 
+coidd have 
+interpreted the instruction as unconstitutionally shifting the burden of proof. However, after reviewing its sometimes inconsistent articulations of the test, the Supreme Court settled on a single standard of review for jury instructions: “ ‘whether there is a 
+reasonable likelihood 
+that the jury has applied the challenged instruction in a way’ that violates the Constitution.” 
+Estelle v. McGuire, 
+— U.S. -, - & n. 4, 
+112 S.Ct. 475
+, 482 & n. 4, 
+116 L.Ed.2d 385
+ (1991) (emphasis added) (quoting 
+Boyde v. California, 
+
+494 U.S. 370
+, 380, 
+110 S.Ct. 1190
+, 1197, 
+108 L.Ed.2d 316
+ (1990)).
+
+    
+With this standard, we turn to the instructions at issue here. Petitioner was charged with aggravated murder, aggravated robbery, and kidnapping. Under Ohio law, a court may instruct the jury on complicity even though the defendant was charged as a principal. 
+See 
+Ohio Rev.Code Ann. § 2923.03(A), (F) (Anderson 1993); 
+Hill v. Perini, 
+
+788 F.2d 406
+, 407-08 (6th Cir.) (discussing the practice and holding that it does not violate a defendant’s right to notice of the charges against him or her), 
+cert. denied, 
+
+479 U.S. 934
+, 
+107 S.Ct. 409
+, 
+93 L.Ed.2d 361
+ (1986). Thus, in petitioner’s case, the district court charged the jury that it could find petitioner guilty as a principal, as a coconspirator, or as an aider and abettor.
+
+    
+Charging a defendant as a conspirator or aider and abettor does not, however, alter the government’s responsibility to establish intent to kill. Ohio law on complicity pro
+*146
+vides that for a defendant to be convicted as an aider or abettor or conspirator, he or she must possess “the kind of culpability required for commission of [the principal] offense,” here, a purpose to kill. 
+Ohio Rev. Code Ann. §§ 2923.03
+(A)(2)-(3), 2903.01(A). In other words, Ohio does not adhere to the strict felony-murder rule. 
+State v. Lockett, 
+
+49 Ohio St.2d 48
+, 
+358 N.E.2d 1062
+, 1070 (1976), 
+rev’d on other grounds sub nom. Lockett v. Ohio, 
+
+438 U.S. 586
+, 
+98 S.Ct. 2954
+, 
+57 L.Ed.2d 973
+ (1978). Nevertheless, Ohio courts permit a jury to infer an aider and abettor’s intent to kill when
+
+    
+the facts show that the participants in a felony entered into a common design and 
+either 
+the aider or abettor knew that an inherently dangerous instrumentality was to be employed to accomplish the felony 
+or 
+the felony and the manner of its accomplishment would be reasonably likely to produce death.
+
+    
+
+      
+State v. Scott, 
+
+61 Ohio St.2d 155
+, 
+400 N.E.2d 375
+, 382 (1980) (citing 
+Lockett, 
+358 N.E.2d at syllabus ¶¶ 3-4).
+
+    
+Petitioner contends that in attempting to explain these principles of Ohio law, the trial court’s instructions unreasonably confused the jury. The court charged that
+
+    
+[p]urpose to kill is an element of the crime of aggravated murder. A person acts purposely when it is his specific intention to cause a certain result. It must be established in this case that at the time in question there was present in the mind of the defendants 
+or co-defendants or aiders and abettors, 
+if you so find, a specific intention to kill the decedent Henry Pod-borny.
+
+    
+(Emphasis added.) Similar instructions were read concerning the intent elements of aggravated robbery and kidnapping. The district court ruled that these instructions deprived petitioner of a fair trial because they improperly suggested that he could be convicted of these offenses as an aider and abettor or conspirator even if only his codefend-ants, and not petitioner himself, possessed the requisite intent to kill.
+
+    
+However, when read against the backdrop of Ohio complicity law, the court’s reference to “defendants or co-defendants or aiders and abettors” appears to be nothing more than an unartful boilerplate reiteration that the same individuals could be found guilty 
+either 
+as principals (“defendants or co-defendants”) or as “aiders and abettors.” 
+See Hill, 
+
+788 F.2d at 407-08
+. The phrase did not instruct the jury that it could convict petitioner by finding intent to kill in his code-fendants or aiders and abettors; rather, it reminded the jury that they could find that petitioner had intent to kill as a defendant 
+or 
+a codefendant 
+or 
+an aider and abettor. This reading is supported by the fact that the challenged phrase follows close on the heels of the court’s unequivocal statement that “[pjurpose to kill is an element of the crime of aggravated murder.” Furthermore, in its instructions, the court stressed at least twice that the jurors “must separately consider the elements applicable to each of the defendants as [if] he or she were separately tried” and not allow their conclusions about one defendant to influence the verdict as to the other defendants.
+
+    
+Moreover, elsewhere in his charge, the trial judge stated:
+
+    
+The Court in order to assist you understand [sic] the element of purpose and purposely herein, wherein the evidence discloses an existence of complicity by way of aider and abettor and conspiracy, the Court instructs you, as I stated in the law of Ohio as follows: When you have an unlawful act being contemplated in an original conspiracy such as a kidnapping, stealing and so forth, although not identical with or similar to criminal acts charged, if the defendants conspired to commit the unlawful act in the manner in which it was performed 
+would reasonably and likely produce 
+the death of another, then each conspirator is equally guilty as the principal offender of the homicide although such conspirator, or person, or defendant, aider and abettor was neither present or had knowledge of the physical killing or the weapon used.
+
+    
+(Emphasis added.) While this instruction also was not ideal, it captured the essence of how a jury might properly infer an aider and 
+*147
+abettor or conspirator’s purpose to kill as explained by the Ohio Supreme Court. 
+See Scott, 
+
+400 N.E.2d at 382
+; 
+Lockett, 
+858 N.E.2d at syllabus ¶¶3-4. Accordingly, we conclude that petitioner has not demonstrated a reasonable likelihood that the jury interpreted the instructions, taken as a whole, to permit petitioner’s conviction without proof that he himself had the requisite intent to kill.
+2
+
+    
+
+    
+Petitioner suggests, however, that the prosecutor’s closing argument compounded the potential for jury confusion. The prosecutor informed the jury that to obtain a conviction on a conspiracy theory in Ohio,
+
+    
+[t]he State is bound to prove to a jury two things. First, that the crimes alleged have been committed.... The next thing we’re bound to prove to you is that those accused of the crime participated in a criminal conduct and engaged in a course of criminal conduct which eventually led to the commission of those crimes.
+
+    
+The trial court overruled defense counsel’s objection to this misstatement of Ohio law. We agree that this improperly suggested that the prosecution need not make an independent showing of intent as to each defendant in order for conspiracy liability to attach.
+
+    
+Nevertheless, even if this remark, in conjunction with any confusion engendered by the court’s instructions on mens rea, could be said to have abridged petitioner’s constitutional rights, we conclude that these errors were not of such magnitude that they “had [a] substantial and injurious effect or influence in determining the jury’s verdict.” 
+Brecht, 
+— U.S. at -, 
+113 S.Ct. at 1722
+. Petitioner argues that the instructions permitted the jury to find him guilty as an accomplice or conspirator by imputing to him the intent of the principals. However, all of the evidence upon which the jury could have relied to establish petitioner’s guilt pointed to his guilt as a principal.
+3
+ Petitioner and Lloyd Allen were in petitioner’s bar when Henry Podborny entered, and petitioner exited his establishment with Podborny’s wallet and other possessions just minutes later. One witness testified that petitioner had told him that he and Allen had killed a man and placed his body in the field next to the witness’ home, where Podborny’s corpse was in fact discovered. In addition, physical evidence admitted at trial tended to show that Podborny was killed in petitioner’s bar. Authorities found blood of Podborny’s type spattered on the walls of petitioner’s saloon and discovered paint on Podborny’s body that was similar to the paint in the bar. Finally, the prosecutor consistently portrayed petitioner to the jury as a principal. Consequently, any error by the trial court pertaining to the intent of conspirators or aiders and abettors did not injuriously influence the jury’s decision to convict petitioner as a principal.
+
+    
+
+      
+*148
+IV.
+
+    
+The district court also held that several rulings of the trial court on the admission of prejudicial evidence, together with the prosecutor’s inflammatory closing remarks, deprived petitioner of a fundamentally fair trial. After a careful review of the record, we conclude that these errors were not of constitutional dimension, but were at most errors in the application of state law. As the decisions of both the Supreme Court and this circuit make clear, “federal habeas corpus relief does not lie for errors of state law” because “it is not the province of a federal habeas court to reexamine state court determinations on state law questions.” 
+E.g., Estelle, 
+— U.S. at -, 
+112 S.Ct. at 480
+; 
+Walker v. Engle, 
+
+703 F.2d 959
+, 962 (6th Cir.), 
+cert. denied, 
+
+464 U.S. 951
+, 
+104 S.Ct. 367
+, 
+78 L.Ed.2d 327
+ (1983). Under federal constitutional standards, the trial court’s evidentiary rulings and the prosecutor’s comments were not so prejudicial, either individually or in combination, that they rendered petitioner’s trial fundamentally unfair.
+
+    
+V.
+
+    
+For the foregoing reasons, we reverse the judgment of the district court conditionally granting the writ of habeas corpus.
+
+    
+
+      
+1
+
+      
+. A constitutional trial error is one which "occurs during the presentation of the case to the jury, and is amenable to harmless-error analysis because it may be quantitatively assessed in the context of other evidence presented in order to determine the effect it had on the trial." 
+Id.,
+ U.S. at -, 
+113 S.Ct. at 1717
+ (alterations in original) (citing 
+Arizona v. Fulminante, 
+
+499 U.S. 279
+, -, 
+111 S.Ct. 1246
+, 1249, 
+113 L.Ed.2d 302
+ (1991)). Such errors contrast with "structural defects in the constitution of the trial mechanism,” such as deprivation of the right to counsel, which require automatic reversal because "they infect the entire trial process.” 
+
+Id.
+ 
+The Supreme Court recently noted that jury instruction errors quite similar to that alleged here, involving presumptions about an element of the offense, are amenable to harmless-error review. 
+See Sullivan v. Louisiana, 
+- U.S. -, -, 
+113 S.Ct. 2078
+, 2082, 
+124 L.Ed.2d 182
+ (1993).
+
+    
+
+    
+
+      
+2
+
+      
+. We recognize that in 
+Clark v. Jago, 
+
+676 F.2d 1099
+ (6th Cir.1982), this court overturned an Ohio aggravated murder conviction for 
+Sand-strom 
+error in instructions that bear some similarity to those given here. 
+Clark, 
+however, is both distinguishable on the facts and outdated as a matter of law. In this case, unlike 
+Clark, 
+the jury charge provided an adequate statement of the way an aider and abettor's intent may be inferred in Ohio. 
+See Clark, 
+
+676 F.2d at 1105
+ (noting that court failed to provide this mechanism to the jury). In addition, the court in 
+Clark 
+had charged that defendant "and/or his accomplice” must possess the requisite intent to kill. 
+
+Id.
+ 
+Such an instruction more clearly suggests that intent by only one of the two would suffice for conviction of both defendants. In contrast, the court's reference in petitioner's case to "defendants or co-defendants or aiders and abettors” more likely indicates that the court was merely using three different labels for all three defendants as a group. Any implication that each of the three defendants need not possess the required mens rea is much weaker. However, even if we deemed these factual distinctions insignificant, the legal standards upon which 
+Clark 
+based its holding have been superseded by more recent Supreme Court decisions, which have changed both the general standard for habeas review of constitutional trial errors, 
+Brecht, 
+- U.S. at -, 113 S.Ct, at 1722, as well as the specific test for constitutional errors in jury instructions. Estelle, -U.S. at - & n. 4, 
+112 S.Ct. at 
+482 & n. 4. 
+Clark 
+therefore provides no support for petitioner’s claim.
+
+    
+
+    
+
+      
+3
+
+      
+. The court's instructions on defendant’s liability as a principal clearly required the jury to find that "the killing was done purposely and ... with prior calculation and design.”
+
+    
+
+  
+
+

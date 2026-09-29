@@ -1,0 +1,14 @@
+{
+  "scope": "stock check_term.py; Git-reference existence deferred by user instruction",
+  "non_git_exit_code": 0,
+  "non_git_output": "OK: OT1994; 0 warning(s)\n",
+  "git_commands_executed": 0,
+  "git_reference_check": "DEFERRED, not passed",
+  "unverified_references": [
+    "1662045",
+    "2006630",
+    "2035579",
+    "A40385013",
+    "ec1395dd"
+  ]
+}
