@@ -1,0 +1,139 @@
+{
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "judgments": [
+    {
+      "component": "access and access-remand/interim consideration",
+      "vote": "6-3",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    },
+    {
+      "component": "abortion-definition vagueness",
+      "vote": "8-1",
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "component": "emergency-definition vagueness",
+      "vote": "8-1",
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "component": "limited general-penalty theory",
+      "vote": "8-1",
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stone-Zsela"
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "author": "Souter",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Court I/V"
+    },
+    {
+      "author": "Souter",
+      "joins": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Court II/III/IV"
+    },
+    {
+      "author": "Stone-Zsela",
+      "joins": [],
+      "scope": "concurrence/partial dissent"
+    },
+    {
+      "author": "Kennedy",
+      "joins": [],
+      "scope": "concurrence/partial dissent"
+    },
+    {
+      "author": "Scalia",
+      "joins": [
+        "Thomas"
+      ],
+      "scope": "concurrence/partial dissent"
+    }
+  ],
+  "assignment": {
+    "I/V": "Stone-Zsela assigns Souter",
+    "II/III/IV": "Stevens assigns Souter"
+  },
+  "stone": "Vacate and remand throughout; I/V joins only; no fallback",
+  "combined_decree_support": [
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "mode": "Scoped neutral/model/reconciliation; original source exposure disclosed; no Git"
+}

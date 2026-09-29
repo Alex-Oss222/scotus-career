@@ -1,0 +1,51 @@
+{
+  "record_interface_and_holdings_identity": "passed",
+  "controlling_explanation_word_counts": [
+    158,
+    157,
+    158,
+    159,
+    154
+  ],
+  "render_input": "12 event projections; Fargo matches Record; all 11 prior event projections byte-identical; no stopped-matter metadata or private workflow language",
+  "protected_files": "all preexisting Records, briefs, public renders, foundation, state and tools byte-identical; no deletions",
+  "changed_preexisting_files": [
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_VALIDATION.md",
+    "terms\\OT1994\\render-inputs\\OT_1994CHUNK2.md",
+    "terms\\OT1994\\runtime\\OT_1994CHUNK2_COMMITMENTS.md",
+    "terms\\OT1994\\runtime\\OT_1994CHUNK2_RECONCILED.md",
+    "terms\\OT1994\\workspace\\continuity.md",
+    "terms\\OT1994\\workspace\\ledger.md",
+    "terms\\OT1994\\workspace\\manifest.md",
+    "terms\\OT1994\\workspace\\neutral-projection.md"
+  ],
+  "new_files_outside_tmp": [
+    "terms\\OT1994\\entering-law\\OT_1994CHUNK2_FARGO.md",
+    "terms\\OT1994\\entering-law\\OT_1994CHUNK2_FARGO_EARLIER_PUBLIC.md",
+    "terms\\OT1994\\entering-law\\OT_1994CHUNK2_FARGO_RELIEF.md",
+    "terms\\OT1994\\freeze\\FARGO_KOLENDER_VALIDATED.md",
+    "terms\\OT1994\\freeze\\FARGO_NEUTRAL_VALIDATION.md",
+    "terms\\OT1994\\freeze\\FARGO_SOURCE_COMPLETENESS.md",
+    "terms\\OT1994\\freeze\\FARGO_SOURCE_EXPOSURE_NOTE.md",
+    "terms\\OT1994\\freeze\\FARGO_SOURCE_SUPPLEMENT.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_CHRONOLOGY.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_COMMITMENTS.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_COMMITMENTS_KOLENDER_ADDENDUM.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_COMPARATOR.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_FINAL_HANDOFFS.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_LOWER_EXCERPTS.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_MECHANICAL_VALIDATION.json",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_NEUTRAL_BASE.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_NEUTRAL_VALIDATED.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_RECONCILED.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_STONE.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_STONE_REVALIDATION.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_TERM_CHECK_NO_GIT.json",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_VALIDATION.md",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK2_FARGO_VOTES.json",
+    "terms\\OT1994\\records\\Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md"
+  ],
+  "workspace": "Fargo completed once; 24 completed/75 unadjudicated; earlier ledger rows preserved; current Fargo blocker removed",
+  "vote_and_join_arithmetic": "passed for declared component coalitions and writings; legal compatibility reviewed separately",
+  "local_links_and_anchors": "passed"
+}
