@@ -1,0 +1,32 @@
+# Swint — validated bounded district-order supplement
+
+Status: neutral source validation complete; no Justice commitment or historical Supreme Court determination appears in this artifact. Event-date cutoff: March 1, 1995. The two source orders predate that cutoff, June 2 and June 26, 1992. This is a separate saved source checkpoint; any ensuing legal model must follow it.
+
+## Scope and context
+
+This validation concerns only whether the district court had finally determined the county policymaker question when it denied summary judgment and reconsideration. It does not determine Alabama policymaker law, county liability, the individual officials' qualified immunity, or the legal sufficiency of any immediate appellate route. Those are legal questions distinct from what the district court actually said.
+
+The operator is working under the disclosed same-conversation fallback and retains unrelated research and historical exposures. No freshness or blindness is claimed. For this checkpoint the operator did not open B commitments, the Swint Supreme Court comparator, Stone's current position, the full original brief, or private current Records. The source collector's candidate supplied no Supreme Court answer or modeled position. The entire bounded lower-order source was read, including the footnotes and reconsideration order; the complete original petition was neither opened nor relied on as a whole.
+
+## Primary source and completeness
+
+Source: petition appendix, [direct Internet Archive petition PDF](https://archive.org/download/micro_IA40385013_0508/micro_IA40385013_0508%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf), retained as a mechanically bounded reproduction of original PDF pages 36–50 inclusive: [bounded primary PDF](../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.pdf) and [full bounded extraction](../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.txt). This reproduction contains fifteen scanned image pages, generally two printed appendix pages each. It includes the short end of the lower appellate rehearing order at 44a, then the complete district opinion/order of June 2 at 45a–69a and the complete June 26 reconsideration order at 70a–73a. The bounded PDF SHA-256 is `684c2936c67cd2937a028ff37ecfe29d66a133051abc555a8edadc92788048c2`.
+
+The complete bounded extraction was read in two consecutive ranges, and its critical concluding pages were checked again by extraction from the retained PDF itself. The appendix page headings, dates, signatures, continuation of the relevant footnotes and final denial of reconsideration are present. No omitted page or illegible material qualification prevents use of the specific procedural fact below. This does not attest to the full litigation file or every party submission.
+
+## Admitted objective procedural facts
+
+1. At printed 67a, the June 2 opinion describes Sheriff James Morgan as one who may have been the county's final policymaker when approving the raids. The opinion discusses the source of law-enforcement authority notwithstanding the sheriff's status as a state employee. It does not announce a definitive finding that the sheriff actually was the county's final policymaker.
+2. At printed 72a, the June 26 order agrees that whether the sheriff was the final policymaker is a question of law for the court. It explains its earlier decision as finding sufficient evidence to persuade it that the sheriff might be the final policymaker. It expressly promises the parties a further opportunity to persuade the court either way and says that the court will rule as a matter of law before the case goes to the jury.
+3. The final paragraph at 73a denies the pending motions for reconsideration and maintains the denial of summary judgment. It does not withdraw the reservation at 72a. The order is definite about the pending motions' denial while remaining expressly tentative about the policymaker issue that the parties will later address.
+4. Footnote 5, continued from 72a to 73a, concerns the separate City of Wadley attribution question involving Police Chief Freddie Morgan. Its parallel reservation must not be confused with the county's issue involving Sheriff James Morgan. Footnote 7 says the court will not await further materials before deciding the pending reconsideration motions, after the county defendants failed to submit briefs they had said would follow their June 15 motion. That statement does not rescind the expressly retained opportunity and later policymaker ruling before submission to the jury.
+
+These are statements about the lower court's recorded treatment of an issue, not independent findings about the sheriff's final authority, the facts of the raids, or whether any defendant violated federal law. Identifying the question as legal does not convert the court's tentative answer into a completed resolution.
+
+## Permissible subsequent legal inquiry and limits
+
+A subsequent model may ask whether this express reservation defeats Cohen's requirement that an immediately appealable collateral decision conclusively determine the disputed question. That is a legal adequacy judgment, not a further record fact established by this validation. The model must confront the contrary argument that the denial of summary judgment and reconsideration was itself definite and required the county to continue defending the action; it must distinguish finality of the pending motions' disposition from conclusiveness of the policymaker question.
+
+This supplement does not supply a new interlocutory appeal, direct any county merits judgment, decide whether the county is a state arm, or alter the scope of an official's distinct appeal. It does not withdraw, endorse or replace any previously modeled final-review ground. No newly found later district ruling resolving policymaker status has been admitted here; none is necessary to identify the express reservation in the orders under review. If a later procedural event is asserted to change those orders' posture, its date, content and relevance would need separate verification.
+
+Source sufficiency: complete for the bounded procedural question. No additional indispensable source is missing for testing that express reservation against the existing conclusiveness requirement. Earlier effective same-chunk law must still be checked before final assembly; a pending matter supplies no law merely because it appears earlier in the inventory.

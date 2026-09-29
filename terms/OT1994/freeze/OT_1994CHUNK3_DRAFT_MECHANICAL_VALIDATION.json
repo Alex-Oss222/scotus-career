@@ -1,0 +1,53 @@
+{
+  "scope": "new chunk3 artifacts; deterministic checks only",
+  "protected_files": 76,
+  "new_records": 11,
+  "records": [
+    {
+      "record": "Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md",
+      "public_holdings_words": 1835
+    },
+    {
+      "record": "Anderson_v_Green_decision_1995-02-22.md",
+      "public_holdings_words": 619
+    },
+    {
+      "record": "Arizona_v_Evans_merits_1995-03-01.md",
+      "public_holdings_words": 1118
+    },
+    {
+      "record": "Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md",
+      "public_holdings_words": 803
+    },
+    {
+      "record": "Gustafson_v_Alloyd_Co_merits_1995-02-28.md",
+      "public_holdings_words": 1023
+    },
+    {
+      "record": "Harris_v_Alabama_merits_1995-02-22.md",
+      "public_holdings_words": 732
+    },
+    {
+      "record": "Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md",
+      "public_holdings_words": 1066
+    },
+    {
+      "record": "Mastrobuono_v_Shearson_Lehman_Hutton_Inc_merits_1995-03-06.md",
+      "public_holdings_words": 587
+    },
+    {
+      "record": "Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md",
+      "public_holdings_words": 1257
+    },
+    {
+      "record": "Swint_v_Chambers_County_Commission_merits_1995-03-01.md",
+      "public_holdings_words": 1101
+    },
+    {
+      "record": "United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md",
+      "public_holdings_words": 1396
+    }
+  ],
+  "errors": [],
+  "git": "not run; verification deferred"
+}

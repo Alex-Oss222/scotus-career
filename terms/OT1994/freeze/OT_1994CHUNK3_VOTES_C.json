@@ -1,0 +1,466 @@
+[
+  {
+    "case": "Mastrobuono v. Shearson Lehman Hutton, Inc.",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Punitive-award partial vacatur and conforming confirmation proceedings",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Thomas"
+        ],
+        "other": [],
+        "vote": "8-1",
+        "remedy": "Reverse the Seventh Circuit and remand. Reinstate the punitive award unless an actually preserved independent ground requires vacatur; the rejected lack-of-contractual-power theory cannot sustain vacatur or denial of confirmation. No independent ground is invented or decided. The paid compensatory award is untouched."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "This integrated agreement permits the disputed punitive award",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Breyer",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "scope": "Opinion of the Court, entire"
+      },
+      {
+        "author": "Thomas",
+        "joins": [],
+        "scope": "Dissent, entire"
+      }
+    ]
+  },
+  {
+    "case": "Curtiss-Wright Corp. v. Schoonejongen",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Facial sufficiency of company-amendment procedure",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0",
+        "remedy": "Reverse the categorical §402(b)(3) insufficiency ruling."
+      },
+      {
+        "component": "Actual adoption, ratification, and conforming benefits relief",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0",
+        "remedy": "Remand through the Third Circuit to identify authorized corporate actors, determine actual approval and any legally effective later ratification, and enter relief conforming to those determinations."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The company-amendment clause satisfies §402(b)(3)",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "A sufficient procedure still requires authorized corporate action",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Souter",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "scope": "Unanimous Court opinion, entire"
+      }
+    ]
+  },
+  {
+    "case": "Shalala v. Guernsey Memorial Hospital",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Advance-refunding timing and interpretive-rule challenge",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas"
+        ],
+        "other": [],
+        "vote": "5-4",
+        "remedy": "Reverse the Sixth Circuit’s timing judgment and remand for proceedings consistent with sustaining the Secretary’s reimbursement determination on that issue, subject to existing allowance and calculation rules. No new dollar award. The distinct interest-offset affirmance is undisturbed."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The accounting regulations do not compel immediate recognition of this loss",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "The manual explains a lawful allocation rather than changing binding law",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Kennedy",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "scope": "Opinion of the Court, Parts I–III"
+      },
+      {
+        "author": "Kennedy",
+        "joins": [
+          "Stevens",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "scope": "Part IV, four-Justice methodology"
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": [],
+        "scope": "Concurrence"
+      },
+      {
+        "author": "O'Connor",
+        "joins": [
+          "Scalia",
+          "Souter",
+          "Thomas"
+        ],
+        "scope": "Dissent"
+      }
+    ]
+  },
+  {
+    "case": "Ambassador Books & Video, Inc. v. City of Little Rock",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "First Amendment classification, fit, and resulting speech disposition",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Breyer"
+        ],
+        "oppose": [
+          "Souter",
+          "Ginsburg"
+        ],
+        "other": [],
+        "vote": "7-2",
+        "remedy": "Affirm dismissal and denial of relief on the speech claim. Souter and Ginsburg would vacate only that disposition and remand for the classification and justification inquiry, with no automatic injunction."
+      },
+      {
+        "component": "Categorical existing-business substantive due process",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0",
+        "remedy": "Affirm rejection of an absolute prospective-only rule or right to remain at the existing site."
+      },
+      {
+        "component": "Categorical existing-business relocation takings contention",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0",
+        "remedy": "Affirm rejection of the contention that existing-business status and compelled relocation alone establish a taking; no independent developed compensation claim or future preclusion question is adjudicated."
+      },
+      {
+        "component": "Bill of attainder",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0",
+        "remedy": "Affirm rejection of legislative-punishment claim on this record."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The enacted zoning measure satisfies the secondary-effects inquiry on this record",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "The established relocation opportunities defeat the cost-only alternatives objection",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Existing-business status does not create an absolute due-process exemption",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Relocation alone does not establish the presented categorical taking",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "The ordinance is not established as legislative punishment",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Stevens",
+        "joins": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Breyer"
+        ],
+        "scope": "Opinion of the Court, Part I"
+      },
+      {
+        "author": "Stevens",
+        "joins": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "scope": "Opinion of the Court, Parts II–V"
+      },
+      {
+        "author": "Souter",
+        "joins": [
+          "Ginsburg"
+        ],
+        "scope": "Concurrence in part and dissent in part"
+      }
+    ]
+  }
+]

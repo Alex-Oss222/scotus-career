@@ -1,0 +1,419 @@
+[
+  {
+    "case": "United States v. National Treasury Employees Union, No. 93-1170",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Unrelated-expression invalidity",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ],
+        "other": [],
+        "vote": "7-2"
+      },
+      {
+        "component": "Class remedy: class-wide nonenforcement / vacate / unrelated-payment relief",
+        "support": [
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ],
+        "other": [
+          "Stone-Zsela",
+          "O'Connor"
+        ],
+        "vote": "5-2-2",
+        "other_explanation": "Stone-Zsela and O'Connor favor narrower unrelated-payment protection. Five votes preserve the broad class remedy against four who reject that scope."
+      },
+      {
+        "component": "Remove relief for unrepresented senior employees",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0"
+      },
+      {
+        "component": "Crane remedy: retain existing relief / vacate / unrelated-payment relief",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ],
+        "other": [
+          "O'Connor"
+        ],
+        "vote": "6-2-1",
+        "other_explanation": "O'Connor retains only unrelated-payment protection; six retain existing individual relief against three who reject that scope. Stone-Zsela joins disposition without added ground."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "A broad prospective honoraria ban requires justification for its actual speech burden",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "The existing ban is unenforceable throughout the certified class",
+        "coalition": [
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "The injunction does not adjudicate the claims of unrepresented senior employees",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Crane retains his individual relief without a grade-only remand",
+        "coalition": [
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Stevens",
+        "joins": [
+          "Stone-Zsela",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "part": "I"
+      },
+      {
+        "author": "Stevens",
+        "joins": [
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "part": "II"
+      },
+      {
+        "author": "Stevens",
+        "joins": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "part": "III-A"
+      },
+      {
+        "author": "Stevens",
+        "joins": [
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "part": "III-B"
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": []
+      },
+      {
+        "author": "O'Connor",
+        "joins": []
+      },
+      {
+        "author": "Scalia",
+        "joins": [
+          "Thomas"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Harris v. Alabama, No. 93-7659",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Affirm sentencing judgment on admitted override challenge",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Stone-Zsela",
+          "Stevens"
+        ],
+        "other": [],
+        "vote": "7-2"
+      },
+      {
+        "component": "Leave guilt judgment undisturbed in limited review",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0"
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The Constitution does not require numerical weight for advisory jury sentencing advice",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Alabama’s consideration rule and this reviewed sentencing record satisfy the admitted challenge",
+        "coalition": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "O'Connor",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "part": "I"
+      },
+      {
+        "author": "O'Connor",
+        "joins": [
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "part": "II"
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": []
+      },
+      {
+        "author": "Stevens",
+        "joins": []
+      }
+    ]
+  },
+  {
+    "case": "Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., No. 93-762; City of Chicago v. Great Lakes Dredge & Dock Co., No. 93-1094",
+    "participants": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "judgments": [
+      {
+        "component": "No. 93-762 jurisdictional affirmance",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "7-0"
+      },
+      {
+        "component": "No. 93-1094 jurisdictional affirmance",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "7-0"
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "Vessel-caused land injury satisfies admiralty locality through ordinary proximate causation",
+        "coalition": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "This underwater-structure incident and vessel-based repair activity satisfy Sisson",
+        "coalition": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "An alleged maritime proximate cause is not erased by a contributing nonmaritime actor",
+        "coalition": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Souter",
+        "joins": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Ginsburg"
+        ],
+        "part": "I–III"
+      },
+      {
+        "author": "O'Connor",
+        "joins": []
+      },
+      {
+        "author": "Thomas",
+        "joins": [
+          "Scalia"
+        ]
+      }
+    ]
+  }
+]

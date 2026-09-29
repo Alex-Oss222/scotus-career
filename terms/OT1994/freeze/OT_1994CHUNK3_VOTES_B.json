@@ -1,0 +1,230 @@
+[
+  {
+    "case": "Gustafson v. Alloyd Co.",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Section 12(2) coverage; reverse/remand and dismiss this claim",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "other": [],
+        "vote": "5-4"
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "Confined bespoke business-acquisition contract exclusion",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Souter",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy"
+        ]
+      },
+      {
+        "author": "Kennedy",
+        "joins": [
+          "Stevens",
+          "O'Connor",
+          "Souter"
+        ]
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": []
+      },
+      {
+        "author": "Thomas",
+        "joins": [
+          "Scalia",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      {
+        "author": "Ginsburg",
+        "joins": [
+          "Breyer"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Arizona v. Evans",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Federal jurisdiction and merits reach",
+        "support": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "oppose": [
+          "Stevens",
+          "Ginsburg"
+        ],
+        "other": [],
+        "vote": "7-2"
+      },
+      {
+        "component": "Reverse and remand; oppose is affirmance, other is dismissal",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "oppose": [
+          "Stone-Zsela"
+        ],
+        "other": [
+          "Stevens",
+          "Ginsburg"
+        ],
+        "vote": "6-1-2"
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "Long jurisdiction in this state judgment",
+        "coalition": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Bounded court-employee error and objective reliance",
+        "coalition": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Unresolved attribution requires limited remand, no admission order",
+        "coalition": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Kennedy",
+        "joins": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "scope": "Part I"
+      },
+      {
+        "author": "Kennedy",
+        "joins": [
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "scope": "Parts II and III"
+      },
+      {
+        "author": "O'Connor",
+        "joins": [
+          "Souter",
+          "Breyer"
+        ]
+      },
+      {
+        "author": "Souter",
+        "joins": [
+          "Breyer"
+        ]
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": []
+      },
+      {
+        "author": "Ginsburg",
+        "joins": [
+          "Stevens"
+        ]
+      },
+      {
+        "author": "Stevens",
+        "joins": []
+      }
+    ]
+  }
+]

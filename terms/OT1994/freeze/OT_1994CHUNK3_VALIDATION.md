@@ -1,0 +1,59 @@
+# OT1994 chunk 3 — Run validation
+
+**Status:** Non-Git validation complete; ready for operator verification and repository commitment. Eleven new completed events are preserved; O'Neal remains stopped. This is an internal operator receipt, not a Court publication or a Git commitment.
+
+## Authorization and protected scope
+
+The user approved the chunk's Section II positions as written, prohibited every Git command, reserved repository verification and commitment to the operator, and confined writes to terms/OT1994/ and ignored tmp/. No Git command was executed. Foundation, opening trackers, approved briefs, earlier Records and existing public output are protected by the intake byte baseline; final checks report their actual status. No chunk-3 public render was authored: Render is a separate task.
+
+## Completed events
+
+| Event | Matter | Result |
+|---|---|---|
+| 1995-03-20 | [Ambassador Books & Video, Inc. v. City of Little Rock, No. 93-1886; October Term 1994.](../records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md) | Affirmed: 7–2 on the First Amendment disposition, 9–0 on the bounded existing-business due-process and takings claims and the bill-of-attainder claim. |
+| 1995-02-22 | [Anderson v. Green; No. 94-197; 513 U.S. 557](../records/Anderson_v_Green_decision_1995-02-22.md) | Ninth Circuit judgment vacated, 9–0; remand for vacatur of District Court preliminary judgment and dismissal without prejudice as unripe. |
+| 1995-03-01 | [Arizona v. Evans, No. 93-1660; October Term 1994.](../records/Arizona_v_Evans_merits_1995-03-01.md) | Federal jurisdiction sustained 7-2; Arizona judgment reversed and remanded by six, with one vote to affirm and two to dismiss. |
+| 1995-03-06 | [Curtiss-Wright Corp. v. Schoonejongen, No. 93-1935; October Term 1994.](../records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md) | Reversed and remanded, 9–0, for the actual corporate-authorization and ratification inquiry. |
+| 1995-02-28 | [Gustafson v. Alloyd Co., No. 93-404; October Term 1994.](../records/Gustafson_v_Alloyd_Co_merits_1995-02-28.md) | Reverse the Seventh Circuit and remand, 5-4; dismiss the section 12(2) claim based on this acquisition agreement, preserving independent claims for their proper treatment. |
+| 1995-02-22 | [Harris v. Alabama, No. 93-7659](../records/Harris_v_Alabama_merits_1995-02-22.md) | Alabama Supreme Court judgment affirmed, 7–2; no penalty rehearing ordered. Stone-Zsela and Stevens seek sentence relief on distinct grounds. Guilt remains undisturbed. |
+| 1995-02-22 | [Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., No. 93-762; City of Chicago v. Great Lakes Dredge & Dock Co., No. 93-1094](../records/Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md) | Affirmed in both dockets, 7–0. Five join the complete Sisson/Extension Act framework; Thomas and Scalia concur in the judgment on their vessel/locality route. Liability and limitation remain open. |
+| 1995-03-06 | [Mastrobuono v. Shearson Lehman Hutton, Inc., No. 94-18; October Term 1994.](../records/Mastrobuono_v_Shearson_Lehman_Hutton_Inc_merits_1995-03-06.md) | Reversed and remanded, 8–1, on the contract-based partial vacatur of the punitive award. |
+| 1995-03-06 | [Shalala v. Guernsey Memorial Hospital, No. 93-1251; October Term 1994.](../records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md) | Reversed and remanded on advance-refunding cost timing, 5–4; the Secretary’s timing determination is sustained. The distinct interest-offset disposition remains untouched. |
+| 1995-03-01 | [Swint v. Chambers County Commission; No. 93-1636; 514 U.S. 35](../records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md) | County appellate merits disposition vacated, 9–0; remand to dismiss the Commission's interlocutory appeal. |
+| 1995-02-22 | [United States v. National Treasury Employees Union, No. 93-1170](../records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md) | Affirmed in part, reversed in part, and remanded. Unrelated-expression invalidity 7–2; class-wide nonenforcement 5–4; Crane’s existing individual relief retained 6–3; all nine remove relief for unrepresented senior employees on differing grounds. |
+
+## Stopped matter and actual chronology
+
+**O'Neal v. McAninch, No. 93-7407:** The admitted harmless-error question conflicts with the operative Brecht premise, which retains Chapman for preserved Doyle error and leaves other collateral-error categories open. Corrected-premise Stone revalidation is required before adjudication.
+
+The operator requested a corrected-premise choice and received no answer before this handoff. No elapsed-time approval, new Stone ground, merits commitment or adjudication is inferred. The existing operative Brecht rule remains unchanged. This gap prevents a complete-through claim across February 21. Later independent matters were completed without treating O'Neal as law.
+
+February 22, March 1 and March 6 are common-baseline groups with no invented intra-day sequence. Generated public-only slices strictly before February 28, March 1, March 6 and March 20 support the documented chronology refreshes. The cumulative workspace now contains 35 completed inventory events, retains all seven unscheduled carryovers and the April 4 statutory transition, and advances its latest processed event to March 20 while preserving the earlier gap. The next independent scheduled item is Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., March 21, chunk 4. Existing Miller and conditional Kimberlin/Johnson dependencies remain as recorded; no unrelated carryover was closed.
+
+## Achieved separation and limitation
+
+The initial scoped research contexts reported incidental historical exposure; one source packet also exposed an Evans private sentence. Those events are preserved in preflight reports. A requested fresh validator failed with the collaboration tool's agent-thread-limit response even after an agent completed. No context-reset API or callable local alternative was available. The Engine's disclosed single-conversation fallback was therefore used, with groups rotated where practicable. This was not isolated-context blindness, and no such claim is made.
+
+Neutral validation was saved before modeling; commitment files were saved before authorized comparator reconciliation; final reconciliations were frozen before Stone entered assembly. The control/assembly context already knew Stone. A later limited message disclosed only the completed Anderson compatibility while other B reconciliation remained pending; the final B lineage reports it. Seventeen final stage artifacts have preserved preassembly digests. These are durable file handoffs awaiting the operator's repository work, not fictional commits.
+
+## Source and legal controls
+
+The source checkpoints were completed before their affected final reconciliations: Evans's complete Joint Appendix and State merits brief preserve both rare-error testimony and the three other irregularities without attribution or reliability findings; Mastrobuono's NASD temporal condition excludes Rule 21 from the 1985 agreement; NTEU's primary reply preserves the distinction between main merits relief and the alternative respondents-plus-class request, including Crane; Swint's complete lower district orders establish the express reservation supporting its additional Cohen ground. The property checkpoint confines Ambassador's compensation ruling to the admitted categorical theory and does not convert an opportunity to recoup into actual recovery.
+
+The working Swint reconciliation first misstated a fact's prior neutral status, then temporarily omitted the alternative. The final handoff truthfully supersedes those working versions only after source validation, bounded remodeling and repeated reconciliation. Original modeled commitments remain preserved. No completed earlier adjudication was changed.
+
+Historical comparison corrected unsupported provisional inferences without manufacturing changed premises. Final surviving non-Stone historical votes and grounds are separately traced; Ambassador has no historical Supreme Court merits comparator. Chief-specific material changes receive internal departure lines. No later historical matter's necessary predicate is declared displaced without an actual holding.
+
+Stone's express cores and join limits remain intact. His standing component-silence fallback is used only for NTEU's separately represented Crane disposition, without adding a ground. The private basis remains internal; the public judgment and topology name the component and exact join. Guernsey's four-Justice additional methodology, Gustafson's four-Justice broader construction, Swint's Chief-only affirmative necessary-review position, and Evans's three-way disposition are not converted into undifferentiated Court majorities.
+
+## Completeness and public-boundary QA
+
+The Holdings blocks reproduce the kernel's complete operative rules, named authority, 120–200-word controlling explanations and precedent treatment. The Render Input is generated exclusively from bounded eleven-block Public Projections. Parent review removed unexpanded Harris waiver wording before preservation and confined that sentence to the unwaived recommendation actually presented. Gustafson expressly reserves the unconstructed §3(a)(2) cross-reference and identifies the operative text needed for a case depending on it; Guernsey reserves unrecovered §2305-specific entitlements. Neither missing ancillary text determines these outcomes.
+
+Draft public cutoff boilerplate in B and C was removed before preservation. Their truthful QA addenda qualify earlier overly broad scan claims. This was a public-boundary correction of uncommitted drafts, not a change of holdings, votes or mandates. No source limitation is filled by inference. Legislative text, findings below, party submissions, current simulated authority and Engine inferences remain distinct in the internal Records.
+
+## Validation receipts and remaining operator work
+
+The mechanical check passed for all eleven new Records, with all 76 protected files and all 17 frozen stage handoffs unchanged. All 392 checked local links resolve across eleven Records, four workspace projections and the Render Input. The guarded stock term checker passed with zero non-Git warnings. Final coverage confirms 99 inventory events, 35 completed, twelve chunk-3 matters (eleven completed and one explicitly stopped), exact Public Projection identity for all eleven generated entries, and effective-date ordering. The final coverage review found and corrected a docket-suffix mismatch in the scratch manifest invocation so O'Neal's inventory row now carries its exact blocker; no Record changed. The checked manifest uses the inventory caption for the stopped argument. Git-reference existence, repository diff verification and commitment are expressly deferred, not passed. The stock checker and ledger builder are invoked through a guard that prevents Git execution and replaces only the required Git hooks with disclosed deferral/preserved opening-ledger provenance. No candidacy or close pass occurred; state/ is unchanged.
+
+Receipts: [final coverage](OT_1994CHUNK3_FINAL_COVERAGE.json), [final artifact digests](OT_1994CHUNK3_FINAL_HASHES.json), [Stone compatibility](OT_1994CHUNK3_STONE_REVALIDATION.md), [mechanical checks](OT_1994CHUNK3_MECHANICAL_VALIDATION.json), [navigation](OT_1994CHUNK3_NAVIGATION_CHECK.json), [stock term checks with Git deferred](OT_1994CHUNK3_TERM_CHECK_NO_GIT.json), [root chronology](OT_1994CHUNK3_CHRONOLOGY_ROOT.md), [B chronology](OT_1994CHUNK3_CHRONOLOGY_B.md), [C chronology](OT_1994CHUNK3_CHRONOLOGY_C.md), and [stage digests](OT_1994CHUNK3_STAGE_HASHES.json). [Run control](OT_1994CHUNK3_RUN_CONTROL.md) retains the exact fallback and approval limitation.

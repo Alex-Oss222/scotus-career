@@ -1,0 +1,197 @@
+**Case and dockets:** Harris v. Alabama, No. 93-7659
+**Event and date:** Merits decision — 1995-02-22.
+**Result:** Alabama Supreme Court judgment affirmed, 7–2; no penalty rehearing ordered. Stone-Zsela and Stevens seek sentence relief on distinct grounds. Guilt remains undisturbed.
+**Version / lineage:** Initial durable file handoff; no superseded adjudication. Operator repository verification and commit pending.
+
+## Event, chronology, route and questions
+
+Harris v. Alabama, No. 93-7659. Argued December 5, 1994; decided February 22, 1995. On writ of certiorari to the Supreme Court of Alabama, Ex parte Harris, 632 So. 2d 543, affirming Harris v. State, 632 So. 2d 503. The admitted question is whether Alabama's judicial imposition of death after an advisory life recommendation satisfies constitutional capital-sentencing requirements when the statute commands consideration but prescribes no particular weight. The record's constitutional adequacy is contested; the existence of sentencing findings is not.
+
+The argument and decision dates use the admitted historical schedule, not a new order inferred from a filing wrapper. This event shares the February 22 date group. Its law is the common pre-February-22 baseline, including effective February 21 Lebron and Milwaukee Brewery. O'Neal remains unresolved and supplies no law. Anderson and the other February 22 matters do not enter through processing order.
+
+## Participation and threshold
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices John Paul Stevens, Sandra Day O'Connor, Antonin Scalia, Anthony M. Kennedy, David H. Souter, Clarence Thomas, Ruth Bader Ginsburg and Stephen G. Breyer participated at argument and decision. The full nine-member Court sits.
+
+All nine reach the admitted sentencing question. The merits channel and closed certiorari posture do not reopen guilt, unrelated trial-presence issues or additional claims appearing in lower separate opinions. Quorum is satisfied; a majority is five. No new threshold bar or exception is invented.
+
+## Entering-law snapshot and source boundaries
+
+Spaziano permits judicial final sentencing. The actual Tuilaepa/Proctor decision rejects numerical weighting while preserving effective mitigation and independent constitutional error review; Stevens and Ginsburg did not join its entire opening framework. Actual Espinosa addresses invalid-factor jury advice carrying legally required great weight, not all Alabama advice. Actual Romano, authored by Souter with Stone, Blackmun, Stevens and Ginsburg, invalidated the responsibility-distorting use of an irrelevant separate death decision; the four other then-sitting Justices dissented. Those distinct triggers replace historical post-divergence accounts. Actual Stringer retains lawful-cure requirements for an invalid aggravator. No February 21 holding changes this sentencing inquiry.
+
+The jury recommended life without parole seven to five on July 13, 1989. After a further hearing, the court imposed death on August 11, 1989; the reproduced amended order is dated January 23, 1990. The judge stated consideration of the evidence, presentence material, hearing, arguments and recommendation, and excluded victim-impact material. One aggravator was found, pecuniary gain; one statutory mitigator was found, no significant criminal history. Nonstatutory mitigation included family, work, church and community evidence. The order described Harris as planning, financing and benefiting from the killing. A weighing passage expressly referred to nonstatutory mitigation; the lower court examined the order's separate statutory finding and Rule 10(f) clarification and found the statutory mitigator considered. Independent weighing, proportionality and arbitrary-influence review occurred. These are source-supported record descriptions and lower findings; constitutional adequacy remains a legal conclusion.
+
+Section 13A-5-47(e) requires the judge to determine whether found aggravating circumstances outweigh found mitigating circumstances and, in doing so, consider the advisory recommendation unless waived under §13A-5-46(a) or (g). The recommendation is nonbinding. Harris's recommendation was not waived. No unverified description of the waiver procedures or the complete text of other sentencing subsections supplies a decisive premise.
+
+The [A entering-law slice](../entering-law/OT_1994CHUNK3_A.md) and [opening neutral projection](../freeze/OT_1994CHUNK3_OPENING_NEUTRAL_PROJECTION.md) are reading copies; actual effective law controls. The older Stone packet's statement that no OT1994 decision exists is stale and is replaced by this snapshot. No new material premise was introduced during assembly.
+
+## Stone core, final components and fallback
+
+Stone finds no threshold obstacle, leaves the conviction undisturbed, would reverse the death sentence and remand for a lawful penalty determination. Alabama could hold a new penalty proceeding or impose life without parole under state law. He accepts judicial capital sentencing, nonbinding advice and the absence of a required numerical weight. He regards the actual findings and review as legally inadequate to supply a discernible basis for displacing the life recommendation. That is a disagreement about constitutional sufficiency, not a claim that the order contains no findings or never mentions the recommendation. He neither demands Tedder nor a universal written-reasons checklist. Stone joins Part I's arithmetic proposition only, refuses Part II, and writes separately from Stevens. His specified sentencing and guilt positions leave no silent component requiring fallback.
+
+## Judgment, mandate and stage
+
+The Alabama Supreme Court's judgment is affirmed, 7–2. The death sentence is not disturbed on the admitted question; no new penalty proceeding is ordered.
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or effect |
+|---|---|---|---|---|
+| Sentencing judgment on the admitted override challenge | Affirm, 7–2 | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens | Sentence remains in place on this question; no constitutional error found. |
+| Guilt judgment within this limited review | Leave undisturbed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | No retrial or new adjudication of unpresented guilt claims. |
+
+All nine reject a constitutional requirement of numerical weight. That common legal proposition does not turn the sentence disposition into a unanimous one. Stone-Zsela would reverse the sentence for lack of constitutionally meaningful review of the life-to-death choice; Stevens would vacate the sentence and require Tedder's substantive override protection. Neither proposed remand is the Court's mandate.
+
+The Alabama Supreme Court's judgment stands against the admitted challenge. No sentencing remand, new weighing proceeding, life-sentence order or guilt retrial is directed. Unpresented claims are not newly decided. The Court's ruling is that the identified constitutional error has not been established, rather than that an established error was harmless.
+
+## Opinion assignments and exact joins
+
+Stone is outside the seven-member sentence-affirmance majority. O'Connor, its most senior participating Justice, assigns the Court opinion to herself, using her established judicial-sentencing and individualized-selection framework to preserve the seven's no-error ground. The common numerical-weight proposition is placed in a separate Part I that Stone and Stevens can join without changing their sentence votes. Stone and Stevens write separately because their proposed constitutional defects and remedies are not the same. This is a coalition-based assignment inference, not an import of historical authorship.
+
+| Writing | Author | Joined by | Relationship to judgment | Exact scope |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common legal proposition | No constitutionally required numerical weight; independent adequacy questions remain. |
+| Opinion of the Court, Part II | O'Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirmance | No mandatory Tedder standard; actual findings and review satisfy this challenge; no-error ground. |
+| Concurrence in part and dissent in part | Stone-Zsela | No other Justice | Joins I, opposes sentence affirmance | Would reverse death sentence and remand for a lawful penalty determination because review of the displacement is legally inadequate. |
+| Concurrence in part and dissent in part | Stevens | No other Justice | Joins I, opposes sentence affirmance | Would vacate death sentence and require Tedder's substantive protection, preserving his broader jury-role objection. |
+
+## Controlling holdings
+
+### The Constitution does not require numerical weight for advisory jury sentencing advice
+
+**Holding and operative rule:** The Eighth Amendment does not require a State to prescribe a numerical or mathematical weight for a jury's advisory sentencing recommendation. That proposition does not resolve whether judicial selection remains adequately guided and reviewable, whether relevant mitigation was considered, or whether a distinct substantive constraint on overriding life advice is constitutionally required.
+
+**Authority:** Justice O'Connor's Part I is joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt this limited proposition; the two sentence-relief votes do not convert it into a holding that this sentence is valid.
+
+**Controlling explanation:** The Court holds that constitutional sentencing safeguards cannot be reduced to a required numerical allocation for advisory votes. Tuilaepa and Proctor distinguish relevant individualized selection from a mathematical formula for moral judgment. Lockett and Eddings require that qualifying mitigation remain available for consideration, but they do not assign a numerical value to each reason for mercy. Alabama requires its judge to consider the jury's recommendation and leaves the recommendation nonbinding; those provisions must be read together. The absence of a specified number therefore does not establish arbitrariness by itself. The contrary concern has force in a different form: a State cannot avoid examination of an independently alleged selection error simply by calling its jury advisory. Whether this record sufficiently explains and channels the choice, and whether a substantive override constraint is necessary, remain distinct questions addressed by the separate positions below. No Justice's agreement on arithmetic is counted as agreement that every advisory-jury scheme or this death sentence is adequate.
+
+**Precedent treatment:** Tuilaepa v. California and Proctor v. California, June 30, 1994, are applied for relevant individualized selection without fixed numerical weights, preserving their limits on forbidden considerations. Lockett v. Ohio, 438 U.S. 586, and Eddings v. Oklahoma, 455 U.S. 104, retain effective consideration of relevant mitigation; neither is converted into a numerical scheme.
+
+### Alabama’s consideration rule and this reviewed sentencing record satisfy the admitted challenge
+
+**Holding and operative rule:** Where Alabama requires consideration of an unwaived advisory recommendation but assigns final sentencing to the judge, the Constitution does not additionally require Tedder's particular substantive override standard. On Harris's actual individualized findings and appellate review, the absence of a prescribed weight or separate comparative formula for rejecting the life recommendation establishes no constitutional error; this ruling does not excuse disregard of the recommendation, mitigation or a proved independent sentencing defect.
+
+**Authority:** Justice O'Connor's Part II, joined by Justices Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, has seven votes for the rule, application and affirmance. Chief Justice Stone-Zsela disputes this record's legal adequacy; Justice Stevens requires the distinct Tedder protection. Their agreement with Part I does not join Part II.
+
+**Controlling explanation:** The Court holds that this sentence does not fail the admitted constitutional challenge. Spaziano permits a State to place final capital selection with a judge notwithstanding advisory life advice; its discussion of Florida's safeguards did not impose Tedder on every State. Section 13A-5-47(e) commands consideration of the unwaived advisory recommendation presented here while making that recommendation nonbinding; the conditions for waiver are not decided. The judge described the recommendation, the pecuniary-gain aggravator, the absence of significant criminal history, other mitigation and Harris's role in arranging the killing. The lower courts examined the mitigation wording, independently weighed the circumstances and reviewed proportionality and arbitrary influence. The Court rejects the argument that the absence of a separate prescribed amount of deference makes those actual findings constitutionally meaningless. Espinosa concerns defective advice with a legally consequential role, while Romano concerns a different distortion of sentencing responsibility; neither defect is established here. This is a no-error decision, not harmlessness based merely on the judge's title or the existence of a valid aggravator.
+
+**Precedent treatment:** Spaziano v. Florida, 468 U.S. 447, is applied to judicial final sentencing; Tedder v. State, 322 So. 2d 908, is not made a federal constitutional command. Espinosa v. Florida, June 29, 1992, retains its rule concerning invalid-factor advice carrying required great weight, without deciding every Alabama advice error. Romano v. Oklahoma, June 13, 1994, retains its contextual protection against an irrelevant separate death decision distorting responsibility. Stringer v. Black, March 9, 1992, continues to require a lawful cure for an invalid aggravator; no such error is found on this question. Tuilaepa/Proctor preserves independent selection-error review.
+
+## Precedent treatment and current law
+
+Spaziano continues to permit a judicial final capital sentencer; the Court declines to impose Florida's Tedder standard on Alabama. Tuilaepa/Proctor supplies rejection of mathematical weighting without erasing review of independent constitutional errors. Lockett and Eddings preserve meaningful consideration of mitigation. Espinosa remains applicable to its invalid-factor and legally consequential advice setting; advisory status is not an automatic cure. Romano retains its rule concerning distorted sentencing responsibility from an irrelevant separate death decision. Stringer retains its lawful-cure rule when invalid aggravators infect weighing. No precedent is overruled, and no harmless-error holding excuses a defect in this case.
+
+Effective February 22, 1995, a State need not assign numerical weight to advisory sentencing advice. Alabama's required-consideration, nonbinding-recommendation arrangement does not additionally require Tedder, and Harris's actual findings and review survive this admitted challenge. The rule does not authorize ignoring advice, excluding mitigation, using an invalid aggravator or insulating a demonstrated independent selection error. The seven-Justice sufficiency holding, not the two distinct proposed protections, governs. No broader immunity for post-eligibility discretion is adopted.
+
+## Published noncontrolling positions
+
+Chief Justice Stone-Zsela concurs in part and dissents in part. He accepts the Court's rejection of numerical weighting and does not make the advisory verdict binding. His objection is to the legal adequacy of the explanation and review of this particular choice to displace life advice. The sentencing order contains aggravation, mitigation and role findings and expressly says the jury's recommendation was considered; the appellate courts performed their review. He nevertheless concludes that these materials do not supply a constitutionally meaningful basis for reviewing why the advisory life choice was displaced by death. Furman and Gregg require a channeled, reliable selection process, and Lockett and Eddings preserve individualized mitigation. In his view, those principles ask more than whether an order contains findings or invokes consideration. He does not require every State to adopt Tedder, numerical weighting, a particular verbal formula or a universal checklist. He would leave guilt intact, reverse the death sentence and permit Alabama to conduct a lawful penalty proceeding or impose life without parole under state law. His conclusion about insufficiency does not deny the record's actual contents.
+
+Justice Stevens concurs in part and dissents in part. He also rejects the need for numerical arithmetic, but regards the jury's community judgment against death as requiring a substantive protection beyond Alabama's unconstrained consideration rule. He retains his broader opposition to judicial displacement of that judgment. Even accepting Spaziano's allowance of a judicial final sentencer, he would require Tedder's condition that the facts supporting death be so clear and convincing that virtually no reasonable person could differ. That condition gives operative effect to the life recommendation; an additional explanatory paragraph alone would not answer his objection. He does not read Spaziano's approval of Florida's protected override as approval of any judicial override scheme. The actual sentencing findings and appellate review cannot substitute for the missing substantive limit. He would vacate the death-sustaining judgment and require reconsideration under that protection, leaving guilt intact. If the condition cannot be satisfied, the life recommendation could not lawfully be overridden. He does not find the present record satisfies Tedder or order an automatic life sentence as the immediate mandate.
+
+## Sources and research cutoff
+
+Research cutoff: February 22, 1995. The retained predecision facts and primary materials support the bounded questions actually decided; later legal developments do not enter the law. The official present-case report is comparison and source support, not independent authority for the adjudication here.
+
+The complete predecision [Joint Appendix](https://archive.org/download/micro_IA40385013_0537/micro_IA40385013_0537%205.%20Joint%20Appendix.pdf), printed pages 1–111, supplies the amended sentencing order and lower opinions. [Harris v. State, 632 So. 2d 503](https://static.case.law/so2d/632/html/0503-01.html), and [Ex parte Harris, 632 So. 2d 543](https://static.case.law/so2d/632/html/0543-01.html), support the recommendation, findings, clarification and review actually performed. [Ex parte Jones, 456 So. 2d 380](https://static.case.law/so2d/456/html/0380-01.html), reproduces §13A-5-47(e)'s consideration command, waiver cross-references and nonbinding advice. The [official report, 513 U.S. 504](https://tile.loc.gov/storage-services/service/ll/usrep/usrep513/usrep513504/usrep513504.pdf), and [Spaziano, 468 U.S. 447](https://tile.loc.gov/storage-services/service/ll/usrep/usrep468/usrep468447/usrep468447.pdf), were read completely. The full contemporaneous text of every sentencing subsection and the entire underlying trial transcript were not independently recovered; no unquoted exception or unverified fact from them controls this decision.
+
+## Adaptive audit: commitments, comparison, compatibility and assignment
+
+The [original commitments](../freeze/OT_1994CHUNK3_COMMITMENTS_A.md), [validated neutral packet](../freeze/OT_1994CHUNK3_NEUTRAL_A_VALIDATED.md), and [final reconciliation](../freeze/OT_1994CHUNK3_RECONCILED_A.md) remain unchanged. Original commitments SHA256: `8b115585b713ebc346bfb8a5213e8596520c2d20c7fe57e6eb7485eb4a99f2d6`; reconciled handoff SHA256: `4c1372d76527fd75a63980439d5902a5029bffcf25ea95f5f61f43d8e250180f`. The disclosed single-conversation fallback applies; this is not a claim of blindness. Associate commitments were frozen, historical comparison then reconciled, and current Stone material entered only for this assembly phase. No historical author is imported as an assignment. No associate commitment changes in assembly, no imagined circulation dialogue, and no Stone persuasion is attributed.
+
+| Associate | Frozen/reconciled support and position | Final compatibility and barrier |
+|---|---|---|
+| Stevens | No numerical requirement; sentence relief with Tedder minimum, broader jury-role concern; own Spaziano dissent and actual Romano. | Joins I only. Part II cannot retain his join without adding the substantive override constraint; mere reviewable reasons are insufficient. Initial model's weaker minimum was corrected at reconciliation, not at assembly. |
+| O'Connor | Affirm; own Spaziano join and actual Tuilaepa opinion, Romano dissent. | Authors I–II. Requires attention to actual consideration and mitigation; no permission to ignore advice. |
+| Scalia | Affirm; actual Tuilaepa sustaining ground and own broader separate reservation. | Joins I–II at the narrow ground. The opinion does not require acceptance of his broader view that selection receives little additional regulation. No change. |
+| Kennedy | Affirm; actual Tuilaepa, Espinosa and Romano-dissent joins. | Joins I–II. Advisory status is not an automatic cure of defective advice. |
+| Souter | Affirm; actual Tuilaepa moral-judgment qualification and Romano responsibility holding. | Joins I–II because the actual record contains guidance and review, and no unrelated other death decision. Would not accept bare-incantation sufficiency on a contrary record. |
+| Thomas | Affirm; actual Tuilaepa, Espinosa and Romano-dissent joins. | Joins I–II without inheriting Scalia's broader separate view; no final-sentencer automatic cure. |
+| Ginsburg | Affirm; limited Tuilaepa join and actual Romano. | Joins I–II; retains effective mitigation, does not acquire Tuilaepa's opening framework by implication, and does not approve any order merely because it says considered. |
+| Breyer | Affirm; historical agreement remains strong without a concrete changed premise; own actual Schlup supplies only limited legally guided-procedure support. | Joins I–II; no predecessor inheritance and no claim that Schlup decides override. |
+
+No associate departure survives reconciliation. The seven's actual Romano and Tuilaepa premises were checked individually rather than importing historical post-divergence law. Stone's adequacy objection introduces no contrary factual finding and persuades no associate into a new position. All nine can join the limited no-numerical rule; the seven alone join legal sufficiency and the sentence mandate. Stevens's Tedder rule and Stone's reviewability rule remain distinct, neither controlling. No Marks rationale or arithmetic merging of the two dissents is used.
+
+**Historical departure:** Chief Justice Stone-Zsela rejects the historical Chief's conclusion that this record adequately supports the life-to-death choice. He treats the actual findings and review as constitutionally insufficient to explain that displacement and would reverse the death sentence for a lawful penalty determination, without requiring Tedder or denying the existence of findings. That Chief-specific legal-adequacy judgment changes the sentence vote to 7–2 and adds a distinct published ground; the seven associates who affirm and Stevens's separate Tedder objection remain unchanged.
+
+Stone is outside the seven-member sentence-affirmance majority. O'Connor, its most senior participating Justice, assigns the Court opinion to herself, using her established judicial-sentencing and individualized-selection framework to preserve the seven's no-error ground. The common numerical-weight proposition is placed in a separate Part I that Stone and Stevens can join without changing their sentence votes. Stone and Stevens write separately because their proposed constitutional defects and remedies are not the same. This is a coalition-based assignment inference, not an import of historical authorship.
+
+Render form: full. Stone seeks sentence relief and publishes a materially distinct legal-adequacy ground; unanimous numerical-weight agreement and the 7–2 penalty disposition require separate treatment. The distinction between actual record findings and judgments about their legal adequacy is maintained throughout.
+
+## Public Projection
+
+## Event
+
+Harris v. Alabama, No. 93-7659. Argued December 5, 1994; decided February 22, 1995. On writ of certiorari to the Supreme Court of Alabama, Ex parte Harris, 632 So. 2d 543, affirming Harris v. State, 632 So. 2d 503. The admitted question is whether Alabama's judicial imposition of death after an advisory life recommendation satisfies constitutional capital-sentencing requirements when the statute commands consideration but prescribes no particular weight. The record's constitutional adequacy is contested; the existence of sentencing findings is not.
+
+Render form: full, because the common numerical-weight proposition, the 7–2 sentence disposition and the two distinct sentence-relief positions require separate treatment.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices John Paul Stevens, Sandra Day O'Connor, Antonin Scalia, Anthony M. Kennedy, David H. Souter, Clarence Thomas, Ruth Bader Ginsburg and Stephen G. Breyer participated at argument and decision. The full nine-member Court sits.
+
+## Public Action
+
+The Court affirms the Alabama Supreme Court, 7–2, leaving the death sentence and conviction undisturbed on this limited review. O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support affirmance; Stone-Zsela and Stevens seek sentence relief on different grounds.
+
+## Judgment & Remedy
+
+The Alabama Supreme Court's judgment is affirmed, 7–2. The death sentence is not disturbed on the admitted question; no new penalty proceeding is ordered.
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or effect |
+|---|---|---|---|---|
+| Sentencing judgment on the admitted override challenge | Affirm, 7–2 | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens | Sentence remains in place on this question; no constitutional error found. |
+| Guilt judgment within this limited review | Leave undisturbed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | No retrial or new adjudication of unpresented guilt claims. |
+
+All nine reject a constitutional requirement of numerical weight. That common legal proposition does not turn the sentence disposition into a unanimous one. Stone-Zsela would reverse the sentence for lack of constitutionally meaningful review of the life-to-death choice; Stevens would vacate the sentence and require Tedder's substantive override protection. Neither proposed remand is the Court's mandate.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Exact scope |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common legal proposition | No constitutionally required numerical weight; independent adequacy questions remain. |
+| Opinion of the Court, Part II | O'Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirmance | No mandatory Tedder standard; actual findings and review satisfy this challenge; no-error ground. |
+| Concurrence in part and dissent in part | Stone-Zsela | No other Justice | Joins I, opposes sentence affirmance | Would reverse death sentence and remand for a lawful penalty determination because review of the displacement is legally inadequate. |
+| Concurrence in part and dissent in part | Stevens | No other Justice | Joins I, opposes sentence affirmance | Would vacate death sentence and require Tedder's substantive protection, preserving his broader jury-role objection. |
+
+## Holdings
+
+### The Constitution does not require numerical weight for advisory jury sentencing advice
+
+**Holding and operative rule:** The Eighth Amendment does not require a State to prescribe a numerical or mathematical weight for a jury's advisory sentencing recommendation. That proposition does not resolve whether judicial selection remains adequately guided and reviewable, whether relevant mitigation was considered, or whether a distinct substantive constraint on overriding life advice is constitutionally required.
+
+**Authority:** Justice O'Connor's Part I is joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt this limited proposition; the two sentence-relief votes do not convert it into a holding that this sentence is valid.
+
+**Controlling explanation:** The Court holds that constitutional sentencing safeguards cannot be reduced to a required numerical allocation for advisory votes. Tuilaepa and Proctor distinguish relevant individualized selection from a mathematical formula for moral judgment. Lockett and Eddings require that qualifying mitigation remain available for consideration, but they do not assign a numerical value to each reason for mercy. Alabama requires its judge to consider the jury's recommendation and leaves the recommendation nonbinding; those provisions must be read together. The absence of a specified number therefore does not establish arbitrariness by itself. The contrary concern has force in a different form: a State cannot avoid examination of an independently alleged selection error simply by calling its jury advisory. Whether this record sufficiently explains and channels the choice, and whether a substantive override constraint is necessary, remain distinct questions addressed by the separate positions below. No Justice's agreement on arithmetic is counted as agreement that every advisory-jury scheme or this death sentence is adequate.
+
+**Precedent treatment:** Tuilaepa v. California and Proctor v. California, June 30, 1994, are applied for relevant individualized selection without fixed numerical weights, preserving their limits on forbidden considerations. Lockett v. Ohio, 438 U.S. 586, and Eddings v. Oklahoma, 455 U.S. 104, retain effective consideration of relevant mitigation; neither is converted into a numerical scheme.
+
+### Alabama’s consideration rule and this reviewed sentencing record satisfy the admitted challenge
+
+**Holding and operative rule:** Where Alabama requires consideration of an unwaived advisory recommendation but assigns final sentencing to the judge, the Constitution does not additionally require Tedder's particular substantive override standard. On Harris's actual individualized findings and appellate review, the absence of a prescribed weight or separate comparative formula for rejecting the life recommendation establishes no constitutional error; this ruling does not excuse disregard of the recommendation, mitigation or a proved independent sentencing defect.
+
+**Authority:** Justice O'Connor's Part II, joined by Justices Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, has seven votes for the rule, application and affirmance. Chief Justice Stone-Zsela disputes this record's legal adequacy; Justice Stevens requires the distinct Tedder protection. Their agreement with Part I does not join Part II.
+
+**Controlling explanation:** The Court holds that this sentence does not fail the admitted constitutional challenge. Spaziano permits a State to place final capital selection with a judge notwithstanding advisory life advice; its discussion of Florida's safeguards did not impose Tedder on every State. Section 13A-5-47(e) commands consideration of the unwaived advisory recommendation presented here while making that recommendation nonbinding; the conditions for waiver are not decided. The judge described the recommendation, the pecuniary-gain aggravator, the absence of significant criminal history, other mitigation and Harris's role in arranging the killing. The lower courts examined the mitigation wording, independently weighed the circumstances and reviewed proportionality and arbitrary influence. The Court rejects the argument that the absence of a separate prescribed amount of deference makes those actual findings constitutionally meaningless. Espinosa concerns defective advice with a legally consequential role, while Romano concerns a different distortion of sentencing responsibility; neither defect is established here. This is a no-error decision, not harmlessness based merely on the judge's title or the existence of a valid aggravator.
+
+**Precedent treatment:** Spaziano v. Florida, 468 U.S. 447, is applied to judicial final sentencing; Tedder v. State, 322 So. 2d 908, is not made a federal constitutional command. Espinosa v. Florida, June 29, 1992, retains its rule concerning invalid-factor advice carrying required great weight, without deciding every Alabama advice error. Romano v. Oklahoma, June 13, 1994, retains its contextual protection against an irrelevant separate death decision distorting responsibility. Stringer v. Black, March 9, 1992, continues to require a lawful cure for an invalid aggravator; no such error is found on this question. Tuilaepa/Proctor preserves independent selection-error review.
+
+## Precedent Treatment
+
+Spaziano continues to permit a judicial final capital sentencer; the Court declines to impose Florida's Tedder standard on Alabama. Tuilaepa/Proctor supplies rejection of mathematical weighting without erasing review of independent constitutional errors. Lockett and Eddings preserve meaningful consideration of mitigation. Espinosa remains applicable to its invalid-factor and legally consequential advice setting; advisory status is not an automatic cure. Romano retains its rule concerning distorted sentencing responsibility from an irrelevant separate death decision. Stringer retains its lawful-cure rule when invalid aggravators infect weighing. No precedent is overruled, and no harmless-error holding excuses a defect in this case.
+
+## Law After Decision
+
+Effective February 22, 1995, a State need not assign numerical weight to advisory sentencing advice. Alabama's required-consideration, nonbinding-recommendation arrangement does not additionally require Tedder, and Harris's actual findings and review survive this admitted challenge. The rule does not authorize ignoring advice, excluding mitigation, using an invalid aggravator or insulating a demonstrated independent selection error. The seven-Justice sufficiency holding, not the two distinct proposed protections, governs. No broader immunity for post-eligibility discretion is adopted.
+
+## Separate Writings
+
+Chief Justice Stone-Zsela concurs in part and dissents in part. He accepts the Court's rejection of numerical weighting and does not make the advisory verdict binding. His objection is to the legal adequacy of the explanation and review of this particular choice to displace life advice. The sentencing order contains aggravation, mitigation and role findings and expressly says the jury's recommendation was considered; the appellate courts performed their review. He nevertheless concludes that these materials do not supply a constitutionally meaningful basis for reviewing why the advisory life choice was displaced by death. Furman and Gregg require a channeled, reliable selection process, and Lockett and Eddings preserve individualized mitigation. In his view, those principles ask more than whether an order contains findings or invokes consideration. He does not require every State to adopt Tedder, numerical weighting, a particular verbal formula or a universal checklist. He would leave guilt intact, reverse the death sentence and permit Alabama to conduct a lawful penalty proceeding or impose life without parole under state law. His conclusion about insufficiency does not deny the record's actual contents.
+
+Justice Stevens concurs in part and dissents in part. He also rejects the need for numerical arithmetic, but regards the jury's community judgment against death as requiring a substantive protection beyond Alabama's unconstrained consideration rule. He retains his broader opposition to judicial displacement of that judgment. Even accepting Spaziano's allowance of a judicial final sentencer, he would require Tedder's condition that the facts supporting death be so clear and convincing that virtually no reasonable person could differ. That condition gives operative effect to the life recommendation; an additional explanatory paragraph alone would not answer his objection. He does not read Spaziano's approval of Florida's protected override as approval of any judicial override scheme. The actual sentencing findings and appellate review cannot substitute for the missing substantive limit. He would vacate the death-sustaining judgment and require reconsideration under that protection, leaving guilt intact. If the condition cannot be satisfied, the life recommendation could not lawfully be overridden. He does not find the present record satisfies Tedder or order an automatic life sentence as the immediate mandate.
+
+## Procedure After Action
+
+The Alabama Supreme Court's judgment stands against the admitted challenge. No sentencing remand, new weighing proceeding, life-sentence order or guilt retrial is directed. Unpresented claims are not newly decided. The Court's ruling is that the identified constitutional error has not been established, rather than that an established error was harmless.
+
+## Source Notes
+
+The complete predecision [Joint Appendix](https://archive.org/download/micro_IA40385013_0537/micro_IA40385013_0537%205.%20Joint%20Appendix.pdf), printed pages 1–111, supplies the amended sentencing order and lower opinions. [Harris v. State, 632 So. 2d 503](https://static.case.law/so2d/632/html/0503-01.html), and [Ex parte Harris, 632 So. 2d 543](https://static.case.law/so2d/632/html/0543-01.html), support the recommendation, findings, clarification and review actually performed. [Ex parte Jones, 456 So. 2d 380](https://static.case.law/so2d/456/html/0380-01.html), reproduces §13A-5-47(e)'s consideration command, waiver cross-references and nonbinding advice. The [official report, 513 U.S. 504](https://tile.loc.gov/storage-services/service/ll/usrep/usrep513/usrep513504/usrep513504.pdf), and [Spaziano, 468 U.S. 447](https://tile.loc.gov/storage-services/service/ll/usrep/usrep468/usrep468447/usrep468447.pdf), were read completely. The full contemporaneous text of every sentencing subsection and the entire underlying trial transcript were not independently recovered; no unquoted exception or unverified fact from them controls this decision.

@@ -1,0 +1,9 @@
+# Mastrobuono — NASD temporal qualification for neutral validation
+
+Neutral source qualification only. No disposition, Justice position, comparator alignment, or opinion assignment.
+
+The contract at issue was executed in 1985. NASD Rules of Fair Practice Rule 21(f)(4), which forbids a customer agreement condition limiting filing a claim in arbitration or the arbitrators' ability to make an award, applies only to agreements executed **after September 7, 1989**. It therefore does not govern this agreement. The validated neutral packet's description of that rule requires this temporal exclusion; the rule must not supply an operative restriction on the parties' contractual choices in this case.
+
+Keep three distinct sources separate: (1) Rule 21(f)(4), with the temporal exclusion just stated; (2) Code of Arbitration Procedure §41(e), which specifies the contents of an award and is not an express punitive-damages authorization; and (3) the explanatory Arbitrator's Manual discussion of punitive damages, which must not be treated as automatically incorporated governing rules or an independent override of the agreement. The contract's reference to institutional rules then in effect does not by itself erase Rule 21(f)(4)'s express agreement-date qualification.
+
+The date qualification is identified in the contemporaneous **Brief for the United States et al. as amici curiae, page 6**, in the docket's source collection: https://archive.org/details/micro_IA40385013_0547 . That filing is the appropriate neutral source for independent verification. This supplement does not claim that the drafter has independently reread that page; a clean source verifier should inspect it or the operative primary rule text before treating the correction as verified. No official merits-opinion page should be included in the neutral modeling handoff.

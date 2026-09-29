@@ -1,0 +1,11 @@
+# OT1994 chunk 3 — B collection-context exposure note
+
+Operator-only. Do not provide this note as substantive material to an independent neutral/model context. No commitments were made by the exposed collector.
+
+The initially authorized `OT_1994CHUNK3_NEUTRAL_B.md` contained an excluded current-matter Stone-position sentence in the Evans “Other Authority Used” material. The collector saw it. The new candidate was authored without that sentence or any use of that position; only an independent context may validate the repair.
+
+During attempts to locate exact lower-opinion citations, web search returned revealing same-matter Supreme Court snippets for Anderson and Gustafson. Subsequent restricted-domain attempts to find the Gustafson lower sources again returned historical Supreme Court material, including outcome/reasoning and lineup information. The collector did not intentionally open a same-matter Supreme Court opinion for substantive use, but the visible search material contaminated this context. The exposure is not cured by calling those snippets incidental. No historical result or lineup from them belongs in the candidate.
+
+The full Anderson merits brief also contains a report of the historical grant, seen during required full-document reading. The candidate uses user-admitted merits posture and objective party filing chronology, not that Court action. The bounded primary excerpts exclude the reported grant. The parent supplied a reported predecision January oral-argument concession as a research lead; the transcript was not independently obtained, and the candidate does not rely on a quotation from it or any historical Supreme Court action to establish the lost statutory prerequisite. California's own November submission supplies that link.
+
+No current same-matter comparator or Stone file was opened. No same-matter historical Supreme Court outcome was intentionally researched for Evans or Swint. The collector nevertheless does not claim independent validation or complete blindness for the repaired B packet. Fresh substantive validation and fresh modeling are required under the governing exposure rule; a rotating unrelated-matter context may be used only with the operator's disclosed context limitations. The source manifest grants access only to the bounded source directory, not the original temporary wrappers or this note.

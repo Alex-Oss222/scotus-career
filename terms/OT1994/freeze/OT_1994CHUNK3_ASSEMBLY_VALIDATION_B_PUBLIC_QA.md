@@ -1,0 +1,9 @@
+# B draft public-boundary QA addendum
+
+This addendum qualifies the earlier [assembly validation](OT_1994CHUNK3_ASSEMBLY_VALIDATION_B.md), whose saved bytes remain unchanged. The parent identified an omitted public-boundary check: both draft Public Projection Source Notes ended with a research-cutoff label. Although the dates were event-date cutoffs rather than modern retrieval dates, the labels describe research workflow and do not belong in the public projection. The earlier general public-boundary pass claim was therefore too broad.
+
+The label and date were removed from the **Public Projection only** in the [Gustafson draft](../tmp/chunk3-record-drafts/Gustafson_v_Alloyd_Co_merits_1995-02-28.md) and [Evans draft](../tmp/chunk3-record-drafts/Arizona_v_Evans_merits_1995-03-01.md). Each internal kernel retains its required research cutoff. No substantive holding, vote, join, separate position, statutory qualification, source attribution or remedy changed.
+
+The public-boundary scan now expressly includes research-cutoff and research/retrieval workflow labels, in addition to the previously checked private-context terms. Both public blocks have no research-cutoff label, retain the eleven exact headings, and remain identical to the kernels for their respective Holdings blocks. The source notes retain the public primary citations and legally relevant source limits. The original final model/reconciliation freezes, votes and earlier receipt were not rewritten.
+
+Evans's 6-1-2 disposition remains unchanged: six reverse/remand, the Chief affirms, Stevens and Ginsburg dismiss. Stevens's conditional merits view is not a second vote. This addendum does not promote either draft or satisfy the pending chronological review. Gustafson still awaits actual earlier February 22 law; Evans then awaits the complete pre-March-1 baseline including Gustafson.

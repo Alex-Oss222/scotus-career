@@ -1,0 +1,210 @@
+[
+  {
+    "case": "Anderson v. Green",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "Present unripe controversy; no merits",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0"
+      },
+      {
+        "component": "Vacate both preliminary judgments; dismiss without prejudice",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0"
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "Present ripeness",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Equitable vacatur",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Per curiam",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Swint v. Chambers County Commission",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgments": [
+      {
+        "component": "County federal appellate disposition and dismissal mandate",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [],
+        "other": [],
+        "vote": "9-0"
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "Adequate final review",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "Express tentative ruling",
+        "coalition": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      },
+      {
+        "holding": "No convenience jurisdiction",
+        "coalition": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "direct_majority": true
+      }
+    ],
+    "writings": [
+      {
+        "author": "Ginsburg",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ]
+      },
+      {
+        "author": "Ginsburg",
+        "joins": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ]
+      },
+      {
+        "author": "Stone-Zsela",
+        "joins": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+# NTEU — Crane and the Government's alternative requested remedy
+
+**Scope and cutoff:** Neutral procedural supplement for United States v. National Treasury Employees Union, No. 93-1170, scheduled February 22, 1995. This addresses only the relation between named respondent Peter G. Crane, the below-GS–16 class, and the Government's requested alternative relief. It selects no Justice's position and does not revise the statute, general merits record, or prior neutral materials.
+
+## Primary verification
+
+The Government's **Brief for the Petitioners, June 1994**, and **Reply Brief for the Petitioners, September 1994**, have now been downloaded and read in full, including all front matter, arguments, footnotes and conclusions. They are predecision advocacy, not factual findings or current merits adjudications.
+
+* [Merits PDF](../sources/chunk3-a-crane-supplement/NTEU_petitioners_brief.pdf), [complete PDF extraction](../sources/chunk3-a-crane-supplement/NTEU_petitioners_brief.txt): [direct Archive source](https://archive.org/download/micro_IA40385013_0486/micro_IA40385013_0486%2005.%20Petitioners%20Brief.pdf), 44 substantive printed pages.
+* [Reply PDF](../sources/chunk3-a-crane-supplement/NTEU_reply_brief.pdf), [complete PDF extraction](../sources/chunk3-a-crane-supplement/NTEU_reply_brief.txt): [direct Archive source](https://archive.org/download/micro_IA40385013_0486/micro_IA40385013_0486%2007.%20Reply%20Brief.pdf), 16 substantive printed pages.
+
+The relevant paragraph is **reply page 14 footnote 4**, rather than a distinct individualized argument about Crane at page 15. It states that a remedy tailored to any constitutional violation would protect payments where neither speech nor payor has a nexus to federal employment and would apply **“only to respondents and the members of the plaintiff class”** instead of all Executive Branch employees. It then identifies the class as Executive employees below GS–16 who could receive honoraria but for §501(b), and observes that higher-level officials' claims may stand differently and should not automatically receive the same treatment.
+
+The Government's merits brief, **page II**, expressly identifies **Peter G. Crane** as a party, separately from the certified class. The existing neutral record establishes that he was a named individual plaintiff at GS–16 and therefore outside that class. The merits brief at page 8 footnote 13 describes him as a Nuclear Regulatory Commission lawyer writing on Russian history. Its page 39 footnote 29 cites the Crane complaint, alongside the other complaints, when identifying the specific alleged outside expression as purportedly unrelated to federal employment. That is the Government's description of allegations, not a new conclusive finding that all expression by all plaintiffs lacks a nexus.
+
+The merits brief at **page 36 footnote 27** objects to relief for the whole Executive Branch although the class was below GS–16, and notes that senior executive officials' circumstances may present a different balance. Its **pages 38–43** advocate either a constitutional restriction on enforcement in cases lacking a nexus or use of the statute's series-specific nexus formulation, instead of all-Executive invalidation. The series parenthetical does not thereby become an enacted general nexus condition; this is a remedial proposal whose permissibility remains disputed. The main conclusion at **page 44** still requests outright reversal. The reply likewise maintains the primary merits defense, while arguing that the existing remedy is too broad even if that defense fails.
+
+## What the filings establish—and what they do not
+
+1. The **main** requested reversal reaches the constitutional judgment. No substantive concession that Crane must prevail can be inferred from the Government's alternative request.
+2. The **alternative** is expressly respondents **plus** class members. It is not a request to retain only class members, and Crane's status as a named respondent is not erased by his being outside the class.
+3. The alternative submission does not separately request that Crane's individual protection be reopened merely because he holds GS–16 status. Its statement about higher-level officials must be read with its express retention of respondents; it cannot be silently converted into an instruction to remove a named respondent.
+4. Neither filing expressly announces a Crane-specific merits concession, a stipulation about every possible honorarium of his, a general exemption for senior employees, or a new waiver doctrine. The procedural conclusion is narrower: retaining Crane within an otherwise adopted respondents-plus-class remedy accords with the Government's own alternative formulation.
+5. The request limits the **type of payment** as well as the beneficiaries. If a court rejects the Government's proposed nexus restriction or chooses a different merits formulation, it must independently explain that choice. The party-scope correction does not decide the permissibility of judicially adding a general nexus test to the statute.
+
+## Lawful competing treatments
+
+**Preserve the individual relief within the relevant alternative:** If the main defense fails and the Court adopts a remedy protecting the represented parties, it can include Crane as a named respondent while removing relief for unrepresented senior officials. Doing so need not adjudicate the rights of senior employees as a class or pronounce every application to Crane unconstitutional. The Court may identify his retained relief by the actual adjudicated claim and otherwise adopted remedial terms.
+
+**Alter Crane's relief on an independently supported basis:** The Government's main merits challenge remains live. A Justice accepting that defense may oppose Crane's relief together with the challenged judgment. A materially different individualized remedial problem could also require a supported determination. But an automatic remand based solely on the class's GS boundary cannot be attributed to the Government's alternative request; a court choosing such a remand would need its own articulated legal and record basis.
+
+The relevant ordinary principles separate a named party from the class the party does not represent, distinguish alternative litigation requests from substantive concessions, and require relief to correspond to the decided violation. Actual Madsen's limited-review and person-specific principles and the established availability of appropriate §2106 dispositions remain distinct from a new jurisdictional prohibition on correcting a judgment outside a particular alternative proposal. No new constitutional rule follows merely from the wording of a brief.
+
+## Existing law and source boundaries
+
+Use actual effective law in the authorized A entering slice and frozen opening neutral projection; no historical post-divergence account in these advocates' citations replaces actual Simon & Schuster, Waters, Turner or Madsen. These filings provide the request being made, not authority establishing the content of those decisions. February-22 matters share the pre-day baseline; earlier pending chunk-3 law must still be refreshed before assembly.
+
+This supplement is sufficient for the beneficiary-scope correction. It does not require the entire original litigation file for that narrow purpose: the Government's own exact alternative and Crane's named-party status are direct. It supplies no current-case Supreme Court disposition, author, lineup, or Stone position. Separate procedural notices in filing front matter are recorded only in the validation receipt and do not create additional simulated events or individual relief.

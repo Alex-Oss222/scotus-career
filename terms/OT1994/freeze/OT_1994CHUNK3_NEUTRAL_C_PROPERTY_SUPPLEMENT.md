@@ -1,0 +1,13 @@
+# OT1994 chunk 3 — Ambassador Books property-source clarification
+
+Neutral source supplement only; no Justice position or proposed judgment.
+
+During group-C modeling, the published lower opinion was retrieved directly to clarify the inverse-condemnation component, without a same-matter Supreme Court search. Source: [Ambassador Books, 20 F.3d 858](https://law.resource.org/pub/us/case/reporter/F3/020/20.F3d.858.93-1509.html). The full HTML judicial text, paragraphs 1–61 and notes, was read. No PDF was used and no same-matter historical Supreme Court disposition was encountered.
+
+The opinion's paragraph 19 identifies the complaint as an action to enjoin the ordinance, alleging First and Fourteenth Amendment violations, inverse condemnation of the businesses, and a bill of attainder. Paragraph 21 reports that the district court rejected inverse condemnation because it considered the three-year amortization period reasonable for the businesses to recoup their investment.
+
+Part III, paragraphs 54–57, identifies the appellate contention as a First Amendment and Fourteenth Amendment due-process claim that such ordinances can operate only prospectively. It rejects an absolute right to remain at the same location, applies Euclid and Zahn, and relies on the locational restriction, transition period, and possible extension. It does not expressly conduct an independent Penn Central or Lucas compensation analysis, find a particular parcel's loss, state that an independent compensation claim was waived, or identify an available/invoked state compensation procedure. The court ultimately affirms dismissal of the complaint and denial of preliminary relief.
+
+Thus the trial's reported amortization rationale and the appeal's expressly described categorical existing-business argument are distinct. The available text permits resolution of the categorical prospective-only theory without a new valuation finding. It does not by itself prove either preservation or abandonment of an independent federal compensation theory on appeal. If that independent theory is necessary to the admitted Supreme Court disposition, the operative appellate filings, trial findings, or an authorized clarification of the admitted question is needed before treating the compensation merits as conclusively resolved. No modern ripeness rule or waiver finding may be supplied by inference.
+
+This supplements, rather than contradicts, the validated packet's instruction to distinguish speech, due process, and compensation. It makes the compensation reachability gap explicit for neutral preflight before any affected commitment is frozen.
