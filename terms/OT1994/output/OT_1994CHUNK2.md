@@ -4,17 +4,18 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
-| 1995-01-10 | Tome v. United States, No. 93-6892 | Merits decision | Reversed and remanded for preserved alternative admission grounds and, if necessary, harmless-error review. |
-| 1995-01-17 | Young v. Northern Illinois Conference of United Methodist Church, No. 93-1917 | Merits decision | Jurisdictional judgment vacated; remanded for substantive dismissal of the ministerial-selection claims. |
-| 1995-01-18 | Allied-Bruce Terminix Cos. v. Dobson, No. 93-1001 | Merits decision | Reversed and remanded for application of actual-commerce coverage and remaining arbitration issues. |
-| 1995-01-18 | American Airlines, Inc. v. Wolens, No. 93-1286 | Merits decision | Affirmed in part, reversed in part, and remanded; consumer-fraud branch preempted, confined contract proceeding continues. |
-| 1995-01-18 | Asgrow Seed Co. v. Winterboer, No. 92-2038 | Merits decision | Reversed; unresolved notice and remedies remain below, subject to the controlling saved-seed determination. |
-| 1995-01-18 | NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co., No. 93-1612, and Ludwig v. Variable Annuity Life Insurance Co., No. 93-1613 | Merits decision | Reversed in both consolidated dockets; existing conditioned agency approval governs implementation. |
-| 1995-01-18 | United States v. Mezzanatto, No. 93-1340 | Merits decision | Reversed; ordinary implementation of the limited impeachment-waiver ruling follows. |
-| 1995-01-23 | McKennon v. Nashville Banner Publishing Co., No. 93-1543 | Merits decision | Reversed and remanded; liability and any relief remain for adjudication. |
-| 1995-01-23 | Schlup v. Delo, No. 93-7901 | Merits decision | Vacated and remanded through the Eighth Circuit for the District Court to apply the proper innocence gateway. |
-| 1995-02-21 | Lebron v. National Railroad Passenger Corp., No. 93-1525 | Merits decision | Reversed and remanded; First Amendment merits, lawful relief, and related state-law dispositions remain below. |
-| 1995-02-21 | Milwaukee Brewery Workers’ Pension Plan v. Jos. Schlitz Brewing Co., No. 93-768 | Merits decision | Affirmed; arbitral award enforceable without added 1981 computational interest or interest on that addition. |
+| 1995-01-10 | Tome v. United States | Merits decision | Reversed and remanded; alternative admission grounds and any necessary harmless-error review remain below. |
+| 1995-01-17 | Young v. Northern Illinois Conference of United Methodist Church | Merits decision | Jurisdictional judgment vacated; remanded for entry of a substantive dismissal of the ministerial-selection claims. |
+| 1995-01-18 | Allied-Bruce Terminix Cos. v. Dobson | Merits decision | Reversed and remanded; the arbitration request and underlying litigation continue within the stated contract-law limits. |
+| 1995-01-18 | American Airlines, Inc. v. Wolens | Merits decision | Affirmed in part, reversed in part, and remanded; the confined contract proceeding continues, while the statutory consumer-fraud branch is preempted. |
+| 1995-01-18 | Asgrow Seed Co. v. Winterboer | Merits decision | Reversed; further proceedings address unresolved notice and remedies without reopening the adjudicated saved-seed failure. |
+| 1995-01-18 | NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. and Ludwig v. Variable Annuity Life Insurance Co. | Merits decision | Both judgments reversed; the Comptroller's existing annuity-agency approval is reinstated subject to its retained conditions. |
+| 1995-01-18 | United States v. Mezzanatto | Merits decision | Reversed; ordinary implementation of the limited impeachment-waiver decision remains, without a mandatory new validity hearing. |
+| 1995-01-23 | McKennon v. Nashville Banner Publishing Co. | Merits decision | Reversed and remanded; liability and any relief remain for adjudication under their separate requirements. |
+| 1995-01-23 | Schlup v. Delo | Merits decision | Vacated and remanded through the Eighth Circuit to the District Court for the proper innocence-gateway assessment. |
+| 1995-02-13 | Fargo Women’s Health Organization v. Schafer | Merits decision | Affirmed in part, vacated in part, and remanded; access claims return for renewed assessment and prompt interim-relief consideration, without an automatic injunction. |
+| 1995-02-21 | Lebron v. National Railroad Passenger Corp. | Merits decision | Reversed and remanded; First Amendment merits, lawful relief, and associated state-law dispositions remain below. |
+| 1995-02-21 | Milwaukee Brewery Workers’ Pension Plan v. Jos. Schlitz Brewing Co. | Merits decision | Affirmed; the arbitral award is enforced without the additional 1981 computational interest or prejudgment interest on that addition. |
 
 ## Decisions and Dispositions
 
@@ -22,15 +23,15 @@
 
 Merits decision, January 10, 1995
 
-The Tenth Circuit judgment is reversed and the case remanded, 6–3.
-
 #### Chronology and Posture
 
-Argued October 5, 1994. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, reviewing 3 F.3d 342 (1993), which affirmed an aggravated-sexual-abuse conviction. The question is whether original Rule 801(d)(1)(B) permits substantive admission of prior consistent statements made after the alleged motive to fabricate arose. A.T.'s accounts to six witnesses followed the asserted custody motive; motive and abuse remain allegations, not findings by this Court.
+Argued October 5, 1994; decided January 10, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, reviewing 3 F.3d 342 (1993), which affirmed an aggravated-sexual-abuse conviction. The question is whether original Rule 801(d)(1)(B) permits substantive admission of prior consistent statements made after the alleged motive to fabricate arose. A.T.'s accounts to six witnesses followed the asserted custody motive; motive and abuse remain allegations rather than fresh factual findings.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision. No Justice is noted as not participating.
 
 #### Judgment
+
+The Tenth Circuit judgment is reversed and the case remanded, 6–3.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -74,7 +75,7 @@ Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Soute
 - Chapman v. California, 386 U.S. 18 (1967): preserves its beyond-a-reasonable-doubt standard only for constitutional trial error actually reached and found.
 - United States v. Olano, 507 U.S. 725 (1993): distinguishes forfeited error from this preserved construction question; no new preservation finding is made.
 
-**Limits and questions not reached:** Rule 803(4) requires statements for medical diagnosis or treatment describing history, symptoms, pain, sensations, or their inception or general cause insofar as reasonably pertinent to diagnosis or treatment. Then-Rule 803(24) applies to a statement not specifically covered by any of the foregoing exceptions and requires equivalent circumstantial guarantees of trustworthiness, a material fact, greater probative value on the offered point than other evidence obtainable through reasonable efforts, service of the Rules' general purposes and the interests of justice, and advance notice affording a fair opportunity to prepare, including the intended statement's particulars and the declarant's name and address. The Court finds no such condition satisfied or unsatisfied. Rehabilitation-only use, other properly limited nonhearsay purposes, and factbound questions outside the temporal issue under review remain undecided.
+**Limits and questions not reached:** Rule 803(4) requires statements for medical diagnosis or treatment describing history, symptoms, pain, sensations, or their inception or general cause insofar as reasonably pertinent to diagnosis or treatment. Then-Rule 803(24) applies to a statement not specifically covered by any of the foregoing exceptions and requires equivalent circumstantial guarantees of trustworthiness, a material fact, greater probative value on the offered point than other evidence obtainable through reasonable efforts, service of the Rules' general purposes and the interests of justice, and advance notice affording a fair opportunity to prepare, including the intended statement's particulars and the declarant's name and address. The Court finds no such condition satisfied or unsatisfied. Rehabilitation-only use, other properly limited nonhearsay purposes, and factbound questions outside the admitted temporal issue remain undecided.
 
 #### Precedent Treatment and Current-Law Effect
 
@@ -90,13 +91,13 @@ Justice Breyer, joined by Justices O'Connor and Thomas, would affirm. The Rule r
 
 #### Source Notes
 
-The complete petition appendix supplies the trial chronology, Tenth Circuit reasoning, and reserved alternative grounds: [petition and Appendix A](https://archive.org/download/micro_IA40385013_0531/micro_IA40385013_0531%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf), United States v. Tome, 3 F.3d 342 (10th Cir. 1993). The Rules and earlier Court decisions support the identified doctrinal requirements. [United States v. Moore, 923 F.2d 910](https://static.case.law/f2d/923/cases/0910-01.json) supports the dissent's interpretive comparison. No new finding of coaching, fabrication, statement-specific preservation, alternative-exception satisfaction, or harmlessness is made from an incomplete trial record.
+The complete predecision petition appendix supplies the trial chronology, Tenth Circuit reasoning, and reserved alternative grounds: [petition and Appendix A](https://archive.org/download/micro_IA40385013_0531/micro_IA40385013_0531%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf), United States v. Tome, 3 F.3d 342 (10th Cir. 1993). The Rules and earlier Court decisions support the identified doctrinal requirements. [United States v. Moore, 923 F.2d 910](https://static.case.law/f2d/923/cases/0910-01.json) supports the dissent's interpretive comparison. No new finding of coaching, fabrication, statement-specific preservation, alternative-exception satisfaction, or harmlessness is made from an incomplete trial record.
 
 #### Mandate, Remedy, and Stage
 
 The mandate reverses the Tenth Circuit judgment and returns the case to that court to determine whether another preserved ground admits the statements and, if not, to apply ordinary harmless-error rules. Review here is complete; appellate proceedings continue. A new trial follows only if error requiring that relief is established.
 
-**End of entry: Tome v. United States, merits decision, January 10, 1995.**
+**End of entry: Tome v. United States, Merits decision, January 10, 1995.**
 
 ---
 
@@ -104,15 +105,15 @@ The mandate reverses the Tenth Circuit judgment and returns the case to that cou
 
 Merits decision, January 17, 1995
 
-The jurisdictional judgment is vacated and the case remanded for dismissal of the stated Title VII ministerial-selection claims on the merits. All nine agree on the defense and jurisdiction; eight join that mandate, while Chief Justice Stone-Zsela would also affirm the dismissal on its corrected merits basis.
-
 #### Chronology and Posture
 
-Argued November 29, 1994. On writ of certiorari to the Seventh Circuit, reviewing 21 F.3d 184 (1994), lower-court No. 93-2157. The questions are whether the Religion Clauses bar a probationary minister's Title VII race, sex, and retaliation claims challenging advancement and termination, and whether that protection is jurisdictional or substantive. Young sought reinstatement, reconsideration for full clergy membership, back pay and benefits, compensatory and punitive damages, fees, and costs after the March 4, 1992 decision. No discrimination is found.
+Argued November 29, 1994; decided January 17, 1995. On writ of certiorari to the Seventh Circuit, reviewing 21 F.3d 184 (1994), lower-court No. 93-2157. The questions are whether the Religion Clauses bar a probationary minister's Title VII race, sex, and retaliation claims challenging advancement and termination, and whether that protection is jurisdictional or substantive. Young sought reinstatement, reconsideration for full clergy membership, back pay and benefits, compensatory and punitive damages, fees, and costs after the March 4, 1992 decision. No discrimination is found.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision. No Justice is noted as not participating.
 
 #### Judgment
+
+The jurisdictional judgment is vacated and the case remanded for dismissal of the stated Title VII ministerial-selection claims on the merits. All nine agree on the defense and jurisdiction; eight join that mandate, while Chief Justice Stone-Zsela would also affirm the dismissal on its corrected merits basis.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -133,7 +134,7 @@ Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Soute
 
 **Controlling proposition:** The Religion Clauses bar the application of Title VII to Young's race, sex, and retaliation claims challenging her advancement and retention as a probationary minister, because deciding those claims or imposing the requested relief would subject the church's choice of its religious leadership to civil review. The defense covers reinstatement, compelled reconsideration, and financial liability resting on that same selection decision; it does not exempt every religious employee or independently actionable secular conduct from civil law.
 
-**Authority:** Justice Souter's opinion, this proposition, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, and Breyer. All nine adopt this claim-specific rule; their formal descriptions of the judgment are distinguished below.
+**Authority:** Justice Souter's opinion, this proposition, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, and Breyer. All nine adopt this claim-specific rule; their formal descriptions of the judgment are distinguished in the Judgment table.
 
 **Controlling explanation:** The Court holds that these claims would place a civil court in control of a ministerial selection. Kedroff protects church government and the selection of ecclesiastical authorities from state control. Milivojevich forbids civil reconsideration of ecclesiastical decisions through an inquiry into whether the church followed its own internal rules. Young seeks review of denied advancement and termination of her ministerial service, including alleged departures from church procedure. Reinstatement or compelled reconsideration would directly control that office; damages for the same decision do not make the underlying adjudication independent. Race and sex discrimination and retaliation are serious civil wrongs, but calling their asserted motives secular does not remove this inquiry's control of religious leadership. Section 702's religious-preference permission is not enlarged to include those categories. Jones v. Wolf permits neutral adjudication of genuine property obligations; this record establishes no independently pleaded secular claim of that kind. The Court does not find discrimination, religious motivation, or procedural compliance, and leaves disputed ministerial status and unrelated civil obligations for appropriate cases.
 
@@ -173,13 +174,13 @@ In his view ministerial autonomy follows genuine function rather than title: who
 
 #### Source Notes
 
-[Young v. Northern Illinois Conference, 21 F.3d 184](https://static.case.law/f3d/21/cases/0184-01.json), Seventh Circuit No. 93-2157, April 7, 1994, supplies the complete lower opinion, claims, ministerial role, relief requested, and jurisdictional disposition. [Bell v. Hood](https://www.law.cornell.edu/supremecourt/text/327/678), [Milivojevich](https://www.law.cornell.edu/supremecourt/text/426/696), and the stated statutes supply the jurisdiction and constitutional distinctions. The complaint and denominational records are not a basis for any new factual finding or newly identified independent claim.
+[Young v. Northern Illinois Conference, 21 F.3d 184](https://static.case.law/f3d/21/cases/0184-01.json), Seventh Circuit No. 93-2157, April 7, 1994, supplies the complete lower opinion, claims, ministerial role, relief requested, and jurisdictional disposition. The Supreme Court docket 93-1917 and the November 29, 1994 argument and January 17, 1995 decision dates follow the established review schedule; the lower-court docket is distinct. [Bell v. Hood](https://www.law.cornell.edu/supremecourt/text/327/678), [Milivojevich](https://www.law.cornell.edu/supremecourt/text/426/696), and the stated statutes supply the jurisdiction and constitutional distinctions. The complaint and denominational records are not a basis for any new factual finding or newly identified independent claim.
 
 #### Mandate, Remedy, and Stage
 
 The Seventh Circuit's jurisdictional judgment is vacated and the case remanded for entry of a substantive dismissal of the stated ministerial advancement-and-retention claims. No new discrimination trial, ordination, reinstatement, promotion, reconsideration, money, or costs is ordered. The Chief would additionally affirm dismissal on the merits and expressly direct dismissal with prejudice. Review here is complete; entry of the corrected judgment remains below.
 
-**End of entry: Young v. Northern Illinois Conference of United Methodist Church, merits decision, January 17, 1995.**
+**End of entry: Young v. Northern Illinois Conference of United Methodist Church, Merits decision, January 17, 1995.**
 
 ---
 
@@ -187,15 +188,15 @@ The Seventh Circuit's jurisdictional judgment is vacated and the case remanded f
 
 Merits decision, January 18, 1995
 
-The Court reverses and remands. Section 2 continues to apply in state court, and this transaction falls within its commerce coverage without a requirement that the parties contemplated substantial interstate activity.
-
 #### Chronology and Posture
 
-Argued October 4, 1994. On writ of certiorari to the Supreme Court of Alabama, reviewing 628 So. 2d 354, which affirmed denial of a stay and motion to compel arbitration in a dispute concerning a transferred termite-service bond. The questions concern FAA §2's state-court application, the breadth of involving commerce and the requirement of actual rather than contemplated interstate activity.
+Argued October 4, 1994; merits decision January 18, 1995. On writ of certiorari to the Supreme Court of Alabama, reviewing 628 So. 2d 354, which affirmed denial of a stay and motion to compel arbitration in a dispute concerning a transferred termite-service bond. The questions concern FAA §2's state-court application, the breadth of involving commerce and the requirement of actual rather than contemplated interstate activity.
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
+
+The Court reverses and remands. Section 2 continues to apply in state court, and this transaction falls within its commerce coverage without a requirement that the parties contemplated substantial interstate activity.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -265,7 +266,7 @@ The [Alabama Supreme Court opinion](https://app.midpage.ai/document/allied-bruce
 
 The Alabama Supreme Court judgment is reversed and the cause remanded. The state courts must apply the actual-commerce rule and address formation, consent, fraud, duress, unconscionability, severability and other ordinary contract issues insofar as properly presented and preserved, as well as clause scope and implementing procedure. No waived defense is revived, final damages ordered or universal party-by-party arbitration order entered. Supreme Court merits review ends; the arbitration request and underlying litigation continue below within these limits.
 
-**End of entry: Allied-Bruce Terminix Cos. v. Dobson, merits decision, January 18, 1995.**
+**End of entry: Allied-Bruce Terminix Cos. v. Dobson, Merits decision, January 18, 1995.**
 
 ---
 
@@ -273,15 +274,15 @@ The Alabama Supreme Court judgment is reversed and the cause remanded. The state
 
 Merits decision, January 18, 1995
 
-The Court affirms in part, reverses in part and remands. The consumer-fraud damages branch is preempted; the contract branch may proceed only to enforce the actual private undertaking.
-
 #### Chronology and Posture
 
-Argued November 1, 1994. On writ of certiorari to the Supreme Court of Illinois, reviewing its interlocutory ruling sustaining damages claims under the Illinois Consumer Fraud and Deceptive Business Practices Act and the airline's frequent-flyer agreement against federal preemption. The claims concern alleged devaluation of previously earned travel credits by 1988 redemption restrictions. The questions concern the two sources of obligation separately.
+Merits decision, January 18, 1995; argued November 1, 1994. On writ of certiorari to the Supreme Court of Illinois, reviewing its interlocutory ruling sustaining damages claims under the Illinois Consumer Fraud and Deceptive Business Practices Act and the airline's frequent-flyer agreement against federal preemption. The claims concern alleged devaluation of previously earned travel credits by 1988 redemption restrictions. The questions concern the two sources of obligation separately.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer participated. Justice Scalia took no part. No reason was publicly stated.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer participated. Justice Scalia took no part; no public reason is supplied.
 
 #### Judgment
+
+The Court affirms in part, reverses in part and remands. The consumer-fraud damages branch is preempted; the contract branch may proceed only to enforce the actual private undertaking.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -349,7 +350,7 @@ The [Illinois Supreme Court opinion](https://app.midpage.ai/document/wolens-v-am
 
 The cause returns to the Illinois courts after partial affirmance and partial reversal of the interlocutory judgment. The pleaded statutory consumer-fraud branch cannot proceed; the contract proceeding continues only within the private-undertaking boundary, including the meaning of American's change reservation, ordinary defenses and any proved remedy. The prior rejection of an injunction remains undisturbed. Supreme Court merits review ends; the Court makes no final liability, damages or precise blackout-date finding.
 
-**End of entry: American Airlines, Inc. v. Wolens, merits decision, January 18, 1995.**
+**End of entry: American Airlines, Inc. v. Wolens, Merits decision, January 18, 1995.**
 
 ---
 
@@ -357,15 +358,15 @@ The cause returns to the Illinois courts after partial affirmance and partial re
 
 Merits decision, January 18, 1995
 
-The Federal Circuit judgment is reversed, 8–1. Seven Justices hold these reproductive sales outside the former saved-seed exemption; Chief Justice Stone-Zsela agrees with reversal on the narrower construction but separately favors remand for application and reaches a conditional notice rule. Further proceedings remain for unresolved notice and remedies.
-
 #### Chronology and Posture
 
-Argued November 7, 1994. On writ of certiorari to the Federal Circuit, reviewing 982 F.2d 486 (1992), which reversed summary judgment for Asgrow, vacated the injunction, and remanded exemption eligibility. The questions concern former §2543's saved-seed protection, §2541(3)'s reproductive-marketing restriction, and consequences for the separately pleaded §2541(6) notice claim. The district court reserved damages and labeling liability.
+Argued November 7, 1994; decided January 18, 1995. On writ of certiorari to the Federal Circuit, reviewing 982 F.2d 486 (1992), which reversed summary judgment for Asgrow, vacated the injunction, and remanded exemption eligibility. The questions concern former §2543's saved-seed protection, §2541(3)'s reproductive-marketing restriction, and consequences for the separately pleaded §2541(6) notice claim. The district court reserved damages and labeling liability.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision. No Justice is noted as not participating.
 
 #### Judgment
+
+The Federal Circuit judgment is reversed, 8–1. Seven Justices hold these reproductive sales outside the former saved-seed exemption; Chief Justice Stone-Zsela agrees with reversal on the narrower construction but separately favors remand for application and reaches a conditional notice rule. Further proceedings remain for unresolved notice and remedies.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing or distinct positions | Remedy |
 |---|---|---|---|---|
@@ -448,23 +449,23 @@ Justice Stevens would affirm because Congress used marketing in §2541(3) and se
 
 The Federal Circuit judgment is reversed and the case returns for proceedings consistent with the Court's construction and seven-Justice determination that these sales fail the saved-seed condition. The receiving courts address genuinely unresolved notice elements, §2567 damages limits, and lawful relief; they do not reopen that controlling failure or automatically adopt every term of the earlier injunction. No damages amount or separate notice-infringement finding is entered. The Chief would remand for application and his stated conditional notice treatment; Stevens would affirm.
 
-**End of entry: Asgrow Seed Co. v. Winterboer, merits decision, January 18, 1995.**
+**End of entry: Asgrow Seed Co. v. Winterboer, Merits decision, January 18, 1995.**
 
 ---
 
-### NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co., No. 93-1612, and Ludwig v. Variable Annuity Life Insurance Co., No. 93-1613
+### NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co., No. 93-1612, and Ludwig v. Variable Annuity Life Insurance Co., No. 93-1613 (consolidated)
 
 Merits decision, January 18, 1995
 
-The Court reverses the Fifth Circuit in both consolidated dockets, sustaining the Comptroller's conditioned approval against the statutory objections presented.
-
 #### Chronology and Posture
 
-The cases are consolidated. Argued December 7, 1994. On writs of certiorari to the Fifth Circuit, reviewing 998 F.2d 1295, which reversed judgment for the Comptroller in a challenge to approval of annuity agency sales. The questions concern national-bank incidental powers under §24 Seventh and annuity classification under §92.
+Argued December 7, 1994; merits decision January 18, 1995. On writs of certiorari to the Fifth Circuit, reviewing 998 F.2d 1295, which reversed judgment for the Comptroller in a challenge to approval of annuity agency sales. The questions concern national-bank incidental powers under §24 Seventh and annuity classification under §92.
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
+
+The Court reverses the Fifth Circuit in both consolidated dockets, sustaining the Comptroller's conditioned approval against the statutory objections presented.
 
 | Docket | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -534,7 +535,7 @@ The [Fifth Circuit opinion, 998 F.2d 1295](https://openjurist.org/998/f2d/1295/v
 
 Both Fifth Circuit judgments are reversed. Supreme Court merits review ends, and ordinary implementation must give effect to the Comptroller's existing conditioned approval. Advertising and customer disclosures, the signed purchaser acknowledgment and other applicable law remain conditions of operation. No new agency proceeding, individual contract recovery or additional business permission is ordered.
 
-**End of entry: NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. and Ludwig v. Variable Annuity Life Insurance Co., merits decision, January 18, 1995.**
+**End of entry: NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. and Ludwig v. Variable Annuity Life Insurance Co., Merits decision, January 18, 1995.**
 
 ---
 
@@ -542,15 +543,15 @@ Both Fifth Circuit judgments are reversed. Supreme Court merits review ends, and
 
 Merits decision, January 18, 1995
 
-The Ninth Circuit judgment is reversed, 7–2. Six Justices enforce the limited impeachment waiver under the Court's affirmative-challenge rule; Chief Justice Stone-Zsela concurs in reversal and remand under his separate Government-proof requirement.
-
 #### Chronology and Posture
 
-Argued November 2, 1994. On writ of certiorari to the Ninth Circuit, reviewing 998 F.2d 1452 (1993), which reversed a methamphetamine conviction and ordered a new trial because Rules 410 and 11(e)(6) categorically barred enforcement of the advance impeachment waiver. The question is whether the represented defendant could knowingly and voluntarily permit use of plea-discussion statements to impeach his own inconsistent trial testimony. He and counsel requested the October 17, 1991 discussion; after counsel consultation he accepted the impeachment condition. He later gave inconsistent testimony and preserved an objection to the Government's impeachment use.
+Argued November 2, 1994; decided January 18, 1995. On writ of certiorari to the Ninth Circuit, reviewing 998 F.2d 1452 (1993), which reversed a methamphetamine conviction and ordered a new trial because Rules 410 and 11(e)(6) categorically barred enforcement of the advance impeachment waiver. The question is whether the represented defendant could knowingly and voluntarily permit use of plea-discussion statements to impeach his own inconsistent trial testimony. He and counsel requested the October 17, 1991 discussion; after counsel consultation he accepted the impeachment condition. He later gave inconsistent testimony and preserved an objection to the Government's impeachment use.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision. No Justice is noted as not participating.
 
 #### Judgment
+
+The Ninth Circuit judgment is reversed, 7–2. Six Justices enforce the limited impeachment waiver under the Court's affirmative-challenge rule; Chief Justice Stone-Zsela concurs in reversal and remand under his separate Government-proof requirement.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -615,7 +616,7 @@ Justice Souter, joined by Justice Stevens, would affirm the Ninth Circuit's new-
 
 The Ninth Circuit judgment and the retrial direction based on categorical nonwaivability are reversed. The case returns for ordinary lawful implementation of the bounded impeachment decision. The Court orders no additional validity hearing, automatic retrial, acquittal, or sentencing change. Chief Justice Stone-Zsela would reverse and remand with enforcement conditioned on Government proof of knowing and voluntary acceptance; Stevens and Souter would affirm the existing new-trial judgment.
 
-**End of entry: United States v. Mezzanatto, merits decision, January 18, 1995.**
+**End of entry: United States v. Mezzanatto, Merits decision, January 18, 1995.**
 
 ---
 
@@ -623,13 +624,13 @@ The Ninth Circuit judgment and the retrial direction based on categorical nonwai
 
 Merits decision, January 23, 1995
 
+Argued November 2, 1994; decided January 23, 1995. On writ of certiorari to the United States Court of Appeals for the Sixth Circuit, which affirmed summary judgment for the employer, 9 F.3d 539. The question is whether wrongdoing discovered after discharge bars every remedy for an age-discriminatory discharge and, if not, how it bears on available relief.
+
+All nine Justices participated at argument and decision.
+
 The Sixth Circuit’s judgment is reversed and the case remanded, 9–0. Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer support both rejection of the complete bar and the stated remedial rule. No Justice opposes either component. The district court must adjudicate liability without treating unknown misconduct as a cause of the original discharge and determine relief under the employer’s actual-would-discharge showing and the statutory limits. No damages amount or final liability judgment is entered.
 
-Argued November 2, 1994. On writ of certiorari to the United States Court of Appeals for the Sixth Circuit, which affirmed summary judgment for the employer, 9 F.3d 539. The question is whether wrongdoing discovered after discharge bars every remedy for an age-discriminatory discharge and, if not, how it bears on available relief.
-
-Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
-
-Justice O'Connor delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Every participating Justice joins each holding, its stated limits, and the judgment. No separate opinion was filed.
+Justice O'Connor delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. Every participating Justice joins each holding, its stated limits, and the judgment. No separate opinion was filed.
 
 Misconduct unknown to the employer when it discharged an employee cannot defeat liability for an age-discriminatory discharge or categorically bar every remedy. The employee must still establish an ADEA violation under the governing liability rules; an employer’s assumption of discrimination for summary judgment is not a final liability finding.
 
@@ -655,11 +656,11 @@ St. Mary’s Honor Center v. Hicks preserves the governing burden of persuasion 
 
 Effective January 23, 1995, later-discovered misconduct supplies a possible limitation on ADEA remedies, not erasure of an otherwise proved discriminatory discharge. The employer’s actual-would-discharge burden, ordinary limits on reinstatement and front pay, and discovery-based backpay measure with extraordinary-equity consideration govern the remand. Actual age motivation, the employee’s ultimate persuasion obligation, and the separate willfulness rule remain intact.
 
-**Source notes:** The record and lower-court grounds appear in [9 F.3d 539](https://law.resource.org/pub/us/case/reporter/F3/009/9.F3d.539.92-5917.html), reviewing 797 F. Supp. 604. The remedial authority and its qualifications appear in [29 U.S.C. §626, 1994 edition](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title29-section626&num=0&edition=1994). The motion-specific assumption of age discrimination is not a trial finding; the opinion decides the legal effect of later-discovered misconduct and leaves unresolved liability and relief to the lower courts.
+The record and lower-court grounds appear in [9 F.3d 539](https://law.resource.org/pub/us/case/reporter/F3/009/9.F3d.539.92-5917.html), reviewing 797 F. Supp. 604. The remedial authority and its qualifications appear in [29 U.S.C. §626, 1994 edition](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title29-section626&num=0&edition=1994). The motion-specific assumption of age discrimination is not a trial finding; the opinion decides the legal effect of later-discovered misconduct and leaves unresolved liability and relief to the lower courts.
 
 The Sixth Circuit must return the case for proceedings consistent with the liability/remedy distinction. Liability remains to be adjudicated; any relief must rest on its statutory and factual predicates. This Court enters no amount, no final willfulness finding, and no order of reinstatement or front pay.
 
-**End of entry: McKennon v. Nashville Banner Publishing Co., merits decision, January 23, 1995.**
+**End of entry: McKennon v. Nashville Banner Publishing Co., Merits decision, January 23, 1995.**
 
 ---
 
@@ -667,15 +668,15 @@ The Sixth Circuit must return the case for proceedings consistent with the liabi
 
 Merits decision, January 23, 1995
 
-The Court vacates the Eighth Circuit judgment and remands with instructions to return the matter to the District Court for proceedings under the probability crime-innocence gateway. It does not find Schlup innocent or find the gateway satisfied.
-
 #### Chronology and Posture
 
-Argued October 3, 1994. On writ of certiorari to the Eighth Circuit, reviewing 11 F.3d 738, which sustained denial of a second federal habeas application without the requested evidentiary hearing. Schlup offers crime-innocence evidence as a gateway to otherwise barred ineffective-assistance and suppression claims arising from his conviction for participation in a prison murder. The questions concern the gateway quantum, the augmented evidentiary inquiry, statutory refusal authority and the proper remand.
+Argued October 3, 1994; merits decision January 23, 1995. On writ of certiorari to the Eighth Circuit, reviewing 11 F.3d 738, which sustained denial of a second federal habeas application without the requested evidentiary hearing. Schlup offers crime-innocence evidence as a gateway to otherwise barred ineffective-assistance and suppression claims arising from his conviction for participation in a prison murder. The questions concern the gateway quantum, the augmented evidentiary inquiry, statutory refusal authority and the proper remand.
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
+
+The Court vacates the Eighth Circuit judgment and remands with instructions to return the matter to the District Court for proceedings under the probability crime-innocence gateway. It does not find Schlup innocent or find the gateway satisfied.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -762,7 +763,183 @@ The [Eighth Circuit opinion, 11 F.3d 738](https://openjurist.org/11/f3d/738), su
 
 The Eighth Circuit judgment is vacated. That court must remand to the District Court for the proper gateway assessment, including a reasoned decision about factual development. The existing videotape and new timing and identification accounts must be considered together; the Court predetermines no credibility finding, gateway success or hearing requirement. Otherwise barred constitutional claims may proceed only within the gateway and other governing conditions, and passing the gateway proves none of their merits. Supreme Court review ends; the habeas proceeding continues below without an automatic writ, retrial, release or stay.
 
-**End of entry: Schlup v. Delo, merits decision, January 23, 1995.**
+**End of entry: Schlup v. Delo, Merits decision, January 23, 1995.**
+
+---
+
+### Fargo Women’s Health Organization v. Schafer, No. 93-1712
+
+Merits decision, February 13, 1995
+
+#### Chronology and Posture
+
+Merits decision, February 13, 1995. Argued December 12, 1994. On writ of certiorari to the United States Court of Appeals for the Eighth Circuit, reviewing its February 10, 1994 judgment, 18 F.3d 526, affirming summary judgment for state officials at 819 F. Supp. 862 (D.N.D. 1993).
+
+The questions concern North Dakota's informed-consent requirements, twenty-four-hour interval, definitions and emergency exception, including the access and facial-review standard, the separate definition-vagueness claims, and the record and remedy for a pre-enforcement challenge. The providers seek facial relief; the State seeks affirmance. The emergency claim adjudicated below was vagueness, not a separate emergency undue-burden claim. Parental-consent provisions were not challenged.
+
+The Act requires advance information concerning the physician, particular medically accurate procedure risks, probable gestational age and childbirth risks, along with potentially available assistance, paternal support liability and the opportunity to review state materials. The lower court construed the information duties to permit telephone communication and agents, while retaining the physician's medical judgment on gestational age, with certification at the procedure visit. Printed materials must be objective, nonjudgmental and scientifically accurate; chosen copies are furnished, and the State supplies them without charge. The Court finds no compulsory second clinic visit. The providers nevertheless assert additional delay and other burdens arising from the interval's interaction with actual access conditions. A substantial affidavit and deposition record exists; those submissions are not converted into findings here.
+
+The District Court's August 23, 1991 preliminary injunction against the information and waiting requirements was later dissolved when summary judgment was entered. The Court of Appeals assumed evidentiary facts in the providers' submissions true, treated conclusions separately, and relied on both a strict facial bar and an alternative access analysis. It also rejected the separate vagueness objections, relying partly on a disputed default culpability premise. That premise and the independently sufficient definition grounds require separate treatment.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+#### Judgment
+
+The judgment is affirmed in part, vacated in part, and remanded. The access disposition is vacated, 6–3. The rejection of each preserved definition-vagueness claim and the associated limited general-penalty theory is affirmed, 8–1. Chief Justice Stone-Zsela would vacate and remand all challenged components; Justices Scalia, Kennedy and Thomas would affirm the access disposition as well.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Informed-consent and interval access claims, with challenged certification/enforcement dependencies | Vacated and remanded, 6–3 | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Scalia, Kennedy, Thomas, who would affirm | Apply the complete Casey rule to actual duties, affected classes, additional burdens, interactions and justified scope; promptly consider interim protection |
+| Abortion-definition facial vagueness | Rejection affirmed, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, who would vacate and remand | Purposeful-termination ground resolves the stated diagnostic-accident objection; different constructions and enforcement remain open |
+| Medical-emergency-definition facial vagueness | Rejection affirmed, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, who would vacate and remand | The specified professional criterion supplies notice and enforcement limits; substantive adequacy for every necessary-care application is not adjudicated |
+| General-penalty theory tied to the definitions or absence of an express fault term | Rejection affirmed at that limited scope, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, who would remand the affected definitions and enforcement questions | No automatic Title 12.1 default, strict-liability holding or civil-damages determination; particular elements remain open |
+
+Five Justices—Stevens, O'Connor, Souter, Ginsburg and Breyer—agree with the combined partial affirmance and partial vacatur. The component margins above identify the additional votes for each part; they are not a single overall 6–3 or 8–1 disposition. The Court issues no present injunction or automatic restoration of the dissolved decree.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Souter | Stone-Zsela, Stevens, O'Connor, Ginsburg, Breyer | Access vacatur | Complete six-step Casey inquiry, stable affected class, causal and cumulative review, nonnumerical relief scope |
+| Opinion of the Court, Part II | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Abortion-definition affirmance | Purposeful-termination reading; independent notice and enforcement ground |
+| Opinion of the Court, Part III | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Emergency-definition affirmance | Prospective clinical criterion; clarity distinguished from substantive health adequacy |
+| Opinion of the Court, Part IV | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Limited general-penalty affirmance | No automatic outside-title culpability cure or independent invalidity; actual criminal and civil elements reserved |
+| Opinion of the Court, Part V | Souter | Stone-Zsela, Stevens, O'Connor, Ginsburg, Breyer | Access remand and interim-consideration direction | Properly supported record, tailored relief and prompt ordinary interim review; Stone-Zsela would extend vacatur to the other components |
+| Opinion concurring in part and dissenting in part | Stone-Zsela | No other Justice | Joins Parts I and V; dissents from the affirmances in Parts II–IV | Would vacate the entire judgment and remand each challenged provision, preserving the clinical and state-law-construction limits |
+| Opinion concurring in part and dissenting in part | Kennedy | No other Justice | Joins Parts II–IV; dissents from access vacatur and remand | Retained choice and necessary care, but reasonable-regulation approach instead of the residual lesser-burden allocation |
+| Opinion concurring in part and dissenting in part | Scalia | Thomas | Join Parts II–IV; dissent from access vacatur and remand | Constitutional objection to the heightened abortion-access framework and ordinary reasonable-regulation ground |
+
+Every controlling portion has direct majority support. No plurality synthesis or Marks rationale is needed. The Chief's Part V join concerns the access remand and interim direction, not the affirmances supplied by Parts II–IV.
+
+#### Controlling Propositions and Authority
+
+##### The complete Casey standard governs the access and facial challenge
+
+**Controlling proposition:** Casey's complete six-step standard governs the challenged previability access duties, without Salerno's independent no-valid-applications barrier or an independent numerical facial-review threshold. Courts must identify the duty and protected baseline, function and purpose, attributable interference and the affected class, the applicable substantive protection, clinical and communication safeguards, and relief corresponding to the proved violation; finding no substantial obstacle does not end review of remaining severe or meaningful interference.
+
+**Authority:** Justice Souter's Part I, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Ginsburg and Breyer. These six directly adopt the same application of Casey; no combination of separate rationales is necessary.
+
+**Operative scope applied without change:** Before viability the patient decides whether to continue pregnancy without proving medical necessity or obtaining official approval of her reasons. The State may not prohibit that choice, confer effective control on another person, or prevent timely necessary life-and-health care. After viability, prohibition requires the life-and-health safeguard, including individualized physical and mental health considerations. Viability is individualized and medically supported, not a fixed constitutional week. Clinical appropriateness concerns safe and suitable care, not official approval of the patient's reasons; not every preference is a medical emergency. The following complete standard governs throughout previability:
+
+1. **Identify the duty and protected baseline.** Identify the enacted command, authoritative construction, exceptions, enforcement consequences and relevant medical circumstances. Distinguish an actual obligation from assumed future administration. A previability prohibition, effective third-party veto or denial of timely necessary life-and-health care violates the baseline and cannot be rescued by justification. Necessary care must remain available before imminent death or catastrophic deterioration. Defining all noncompliant treatment as unsafe does not establish medical necessity.
+2. **Identify actual function and purpose.** Identify what the obligation does and the asserted permissible objective, including safety, informed consent, truthful information, permissible parental involvement, health administration or financial accountability. The State may prefer childbirth and communicate truthful information. Moral disapproval does not independently justify obstruction, punishment of protected choice or burdens imposed for their deterrent effect. An obstructive purpose established by objective evidence of text, design, context and operation independently invalidates the requirement; a legislator's opposition to abortion alone does not establish that purpose. Voluntary persuasion differs from prevention through barriers. Evaluate each justification on its terms: medical claims need medical support, and deliberative claims need an explanation linking the particular obligation to informed decisionmaking.
+3. **Establish actual interference, comparison and affected population.** Challengers must establish concrete additional interference caused by the challenged obligation. Relevant effects include extra appointments, material expense, consequential delay, loss of usable provider capacity, clinical risk, coercion and disclosure consequences affecting choice or access. Compare the actual system with and without the obligation while holding other relevant law and circumstances constant. For a challenged interacting package, identify the package and compare the system without it. Consider cumulative effects without counting the same burden twice. Define the affected population from the duty's operation before deciding constitutional injury, include evidence-supported subgroups, and keep the population stable. Do not average the burden across everyone pregnant or define the group as only those who prevail. Poverty, distance, transportation, employment and abuse matter insofar as they explain the State's added condition; identify that causal link. Exceptions, bypasses and alternative providers count only if actually usable. Meaningful interference means concrete, nontrivial additional burden on obtaining care or exercising the protected decision. It triggers review rather than establishing invalidity. No universal dollar, mileage or hourly threshold applies. Reliable clinical evidence, records, testimony and reasonable predictions can establish sufficiently demonstrated prospective injury before access is lost.
+4. **Apply the substantive protections in order.** First, a baseline violation, unconstitutional obstructive purpose or substantial obstacle is independently invalid. A substantial obstacle seriously obstructs the affected population's practical opportunity for timely, clinically appropriate protected care; absolute impossibility is unnecessary, and success by some patients does not establish adequate access for others. A compelling interest cannot rescue an established obstacle. Second, remaining severe interference requires a compelling permissible justification and narrow tailoring. Identify the severe intrusion and explain why the independent prohibitions did not already decide the issue; overlapping protections require no artificial boundary, but an obstacle may not be relabeled as justifiable severe interference. Serious intrusion into clinical judgment, health or protected confidentiality may require this scrutiny despite usable access. Third, for remaining meaningful interference the State must substantiate a permissible justification and its fit to the added obligation. Abstract interests and conclusory assertions are insufficient. When challengers identify a concrete, practicable, substantially less burdensome alternative adequately serving the objective, the State must answer it; inadequacy, unavailability or material countervailing consequences may answer that showing. The State need not select the cheapest imaginable policy or disprove every hypothetical alternative. Reliable experience and reasonable predictions may suffice; particular legislative findings, a new study in every case, scientific certainty and numerical benefit calculations are not required. Once justification and fit are established, courts may not substitute their preferred policy. Below meaningful interference this heightened access inquiry ends, while prohibited-purpose claims, independent constitutional protections and ordinary lawful-regulation requirements remain available.
+5. **Protect clinical judgment and truthful communication.** Evaluate medical justifications against competent evidence, accepted professional standards, the patient's circumstances and substantial contrary evidence. Substantial professional agreement receives serious evidentiary weight, without a professional association's veto or conclusive weight for a clinician's bare assertion or an official's unsupported preference. Necessary care must remain timely; unnecessary committee vetoes and documentation functioning as prior permission may not displace appropriate clinical judgment. Duties must be sufficiently definite and applicable fault requirements respected. Later reasonable medical disagreement alone does not establish every element of a punishable offense; lawful enforcement against fraud, malpractice and professional misconduct remains. Required medical information must be accurate, nonmisleading and material to informed consent. Concise factual assistance notices may inform choice without ideological assent; clinicians may explain limitations and correct misinformation. Accuracy does not alone validate burdensome timing, delivery or certification. Distinguish useful confidential oversight records from public disclosure and records enforcing invalid obligations.
+6. **Identify the violation and tailor relief.** Specify the duty or application that fails, why, and the corresponding relief. Preserve independently lawful requirements under applicable severability law and expressly address dependent certifications, report fields and sanctions. An individual claim does not fail because others comply; broader relief requires a corresponding showing. An indivisible mandatory condition may be invalidated when its ordinary operation imposes demonstrated meaningful interference and the State fails to justify it. Voluntary compliance in some circumstances does not alone validate compulsory compliance. Otherwise confine relief to the established applications or groups. This qualification of a strict no-valid-applications approach does not remove proof of causation, scope or inadequate justification. For cumulative burdens, remedy the challenged obligation's or package's contribution without automatically invalidating all regulation. Replacing the trimester timetable does not dissolve injunctions or authorize enforcement of every challenged provision; the mandate must specify the resulting duties.
+
+**Controlling explanation:** The Court holds that the judgment used an incomplete constitutional inquiry. Casey supplies the entire sequence, including review of meaningful interference that falls short of a substantial obstacle. The Eighth Circuit's telephone construction removes an assumed statutory second visit, but does not establish that the compulsory interval adds no consequential delay or other concrete burden to the actual availability of physicians, travel, employment and appointment conditions. Those circumstances are not themselves state violations; their relevance is the additional interference caused by the duty. The substantial affidavits and depositions must be assessed under the correct rule, with evidentiary facts distinguished from unsupported conclusions. The absence of district findings alone does not require a trial. Salerno cannot make constitutional applications outside the properly identified class a conclusive answer. Nor does Casey's Pennsylvania result establish North Dakota's ultimate invalidity. The Court leaves the evidence-supported trigger, the State's responsive justification, material factual disputes and the breadth of appropriate relief for renewed assessment.
+
+**Application and qualifications:** Telephone communication by the authorized physician or agent remains relevant; no statutory additional personal visit is found. The physician retains responsibility for the gestational determination, while an agent may obtain history and convey that determination. The patient's written certification and its receipt by the physician or agent precede the abortion, not necessarily the visit by twenty-four hours. Notice that materials are available does not require accepting, reading or endorsing them; copies must be furnished if chosen. Assistance may be available, but payment is not guaranteed. A support obligation is not a promise of collection. Statutory freedom to comment or dissociate concerns the printed materials; the lower court additionally permits comment on assistance and paternal-support statements.
+
+Casey's qualified information rulings cannot be imported without their limits. Pennsylvania separately protects omission of information upon proof by a preponderance of a reasonable belief that furnishing it would severely adversely affect physical or mental health; the feared injury need not occur, and that defense does not waive the waiting period. Pennsylvania also permits, but does not require, omission of paternal-support information in a rape pregnancy, including spousal rape, without a police-report condition. North Dakota's text contains neither provision. Their absence requires attention to supported and preserved compulsory-information applications; it neither inserts these exceptions into North Dakota law nor establishes automatic invalidity. No independent new speech claim or parental-involvement challenge is adjudicated.
+
+**Precedent treatment:**
+
+- Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992): applies the complete six-step rule, its proof allocation, broad necessary-care safeguards and tailored-relief qualification unchanged; Pennsylvania's particular interval result is not an automatic North Dakota disposition.
+- United States v. Salerno, 481 U.S. 739 (1987): does not supply an independent all-applications barrier overriding Casey in this abortion-access challenge; its operation outside this setting is not decided.
+- Ohio v. Akron Center for Reproductive Health, 497 U.S. 502 (1990): its rejection of speculative additional duties remains relevant, while its older facial formulation remains subject to Casey's actual qualification; a hypothetical second visit is not treated as enacted law.
+
+##### The abortion definition excludes an unintended diagnostic termination
+
+**Controlling proposition:** Section 14-02.1-02(1), defining abortion as termination of human pregnancy with an intention other than producing a live birth or removing a dead embryo or fetus, identifies a purposeful pregnancy termination. Diagnostic amniocentesis followed by an unintended pregnancy loss is not brought within that definition merely because the diagnostic purpose is neither of the two stated exclusions; this reading defeats the preserved facial notice and enforcement objection without a borrowed culpability default.
+
+**Authority:** Justice Souter's Part II, joined by Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Eight Justices directly adopt this textual ground; Chief Justice Stone-Zsela would vacate and remand this component.
+
+**Controlling explanation:** The Court holds that the purpose language must be read with the pregnancy termination it describes. The competing reading separates that language from its object and treats every intentionally performed medical procedure as an intentional termination if pregnancy loss happens to follow. The statute does not define that category. Its two excluded purposes remain meaningful when the act being classified is a purposeful termination. X-Citement Video requires attention to the complete statutory category rather than a displaced phrase; its distinct federal knowledge rule is not transferred here. Kolender requires enforcement guidance as well as notice. The definition supplies both: an official must identify the defined termination and purpose, rather than infer them from an unwanted diagnostic result or personal disapproval. The Court does not rest on the existence of some clear applications or a requirement that every conceivable application be uncertain. It decides the stated facial objection, leaving materially different authoritative constructions and concrete enforcement challenges open.
+
+**Limits:** This is not immunity for diagnostic treatment, negligence or other misconduct; it does not decide a completed prosecution, civil award, general knowledge-of-illegality requirement or actual-knowledge minimum for every statutory element. It does not resolve the emergency definition or every sanction attached to consent duties.
+
+**Precedent treatment:**
+
+- United States v. X-Citement Video, Inc., 513 U.S. 64 (1994): applies its contextual definition analysis without transplanting its federal scienter construction or treating fault as a universal cure.
+- Kolender v. Lawson, 461 U.S. 352 (1983): applies the separate notice and minimum-enforcement-guidance requirements; distinguishes an undefined official compliance demand from this bounded medical act and purpose.
+- Colautti v. Franklin, 439 U.S. 379 (1979): preserves its requirement to examine the particular trigger and fault separately; the present ground rests on the category's own words rather than fault addressed to a different element.
+
+##### The specified emergency terms supply a prospective clinical criterion
+
+**Controlling proposition:** The preserved facial vagueness challenge to section 14-02.1-02(7) fails because its specified outcomes and timing, assessed through the physician's prospective best clinical judgment, give notice and enforcement guidance: the pregnancy must require immediate abortion to avert death, or a twenty-four-hour delay must create grave peril of immediate and irreversible loss of major bodily function. Gravity, immediacy and major bodily function call for a professional forecast, not certainty, a numerical prognosis or waiting until the threatened harm occurs; this holding does not adjudicate the distinct claim that the exception's substantive breadth fails to protect particular necessary care.
+
+**Authority:** Justice Souter's Part III, joined by Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Eight Justices directly adopt the bounded clarity and enforcement ground; Chief Justice Stone-Zsela would vacate and remand this component.
+
+**Controlling explanation:** The Court holds that the identified medical consequences and time relationship constrain the judgment demanded of the physician and the officials enforcing it. Vuitch and Doe recognize that intelligible professional judgments can guide conduct without a catalogue of every emergency. Their broader health constructions do not replace North Dakota's enacted criteria. Colautti requires separate examination of the trigger and culpability; it does not establish that these qualitative terms are unintelligible merely because doctors may disagree. Unlike the conflicting formulations and uncertain priorities there, this wording identifies the forecast to be made. Kolender likewise requires enforcement boundaries. An official must address the pregnancy complication, specified consequences and prospective clinical assessment, rather than invent a condition or substitute opposition to abortion. The Court neither transforms best clinical judgment into bad-faith-only liability nor treats a physician's assertion as conclusive. Whether particular necessary care falls outside the exception, or a materially different construction or enforcement violates the Constitution, remains a separate question.
+
+**Limits and retained safeguards:** Clarity is not a ruling that this restricted emergency category satisfies every Casey life-and-health requirement. Casey's broader necessary-care protection, including individualized physical and mental health and care before catastrophic deterioration, remains law. The emergency undue-burden claim was not pressed below and is not decided here. The federal appellate significant-threat construction is not enacted text or an authoritative North Dakota Supreme Court construction; it does not license deleting immediate, irreversible or major from the statute. The present notice ground stands independently of that broader construction and of any presumed default fault rule.
+
+Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary requirements, but requires an explanation of the medical indications before the abortion if possible and written certification of those indications. The conditional explanation is no advance-permission requirement, and certification supplies no authority to delay necessary treatment. Later reasonable medical disagreement alone does not establish all elements of a criminal offense or civil damages; disagreement may remain relevant under actual applicable law. Fraud, malpractice and professional misconduct are not immunized.
+
+**Precedent treatment:**
+
+- United States v. Vuitch, 402 U.S. 62 (1971): applies the intelligibility of professional judgment at the stated scope; its D.C. statute's life-or-health construction and prosecution burden do not become North Dakota law.
+- Doe v. Bolton, 410 U.S. 179 (1973): applies its recognition of clinical judgment without importing Georgia's broader statutory construction or creating professional immunity.
+- Colautti v. Franklin, 439 U.S. 379 (1979): distinguishes its conflicting viability and treatment duties, while retaining independent scrutiny of the actual trigger and culpability for error.
+- Kolender v. Lawson, 461 U.S. 352 (1983): applies minimum enforcement guidelines and distinguishes undefined official satisfaction from the stated clinical criteria; no universal all-applications bar is adopted.
+- Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992): preserves broad necessary-care safeguards and conditional emergency explanation; its Pennsylvania construction was not a separate emergency-vagueness holding and does not determine this distinct claim.
+
+##### A doubtful default-fault rationale does not invalidate the general penalty by itself
+
+**Controlling proposition:** Section 12.1-02-02 alone does not establish default willfulness for the silent misdemeanor clause of section 14-02.1-11, and neither that default nor the latter section's separately expressed willful rule-or-regulation infraction supplies the criminal or civil elements of every chapter violation. Rejection of that additional rationale does not defeat the independently sufficient definition holdings or establish facial invalidity of the general penalty merely because its first sentence lacks an express culpability term; actual element-specific fault and liability remain undecided.
+
+**Authority:** Justice Souter's Part IV, joined by Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Eight Justices adopt this limited rejection of the penalty theory and preserve the stated element-specific questions. Chief Justice Stone-Zsela would remand the affected definitions and enforcement questions.
+
+**Controlling explanation:** The Court holds that the additional culpability rationale must be separated from the sufficient grounds for rejecting the two wording objections. City of Dickinson v. Mueller and North Dakota Education Association limit the default criminal-code provision to Title 12.1. Goetz concerns an outside-title law already using a willfulness term and does not abolish that limitation. The Eighth Circuit therefore could not establish every relevant Title 14 element merely by citing the default. The abortion definition nevertheless contains its own purpose language, and the emergency definition supplies the bounded clinical criterion already discussed. Hoffman Estates recognizes that scienter may mitigate uncertainty, especially notice; it does not make a missing express fault word invariably fatal or cure an otherwise undefined enforcement demand. Nor does a criminal term automatically become a civil-damages defense. The Court supplies no comprehensive state culpability rule, strict-liability conclusion, bad-faith requirement or burden of proof. Any actual liability must be supported under the law governing its particular elements.
+
+**Limits:** The misdemeanor clause covers a chapter violation for which no other penalty is specifically prescribed. The distinct infraction clause concerns a willful violation of a promulgated rule or regulation. The latter's express term does not amend the former. The independent civil remedy provides $10,000 punitive damages plus treble actual damages for an abortion without the required informed consent, and $5,000 punitive damages plus treble actual damages for an attempted abortion without compliance. The Court enters no liability determination or award under either provision and creates no civil scienter defense. No separate facial judgment on an unpresented civil-damages theory is entered.
+
+**Precedent treatment:**
+
+- Village of Hoffman Estates v. Flipside, 455 U.S. 489 (1982): applies contextual notice, enforcement and scienter principles, with greater clarity required for criminal sanctions and protected conduct; its commercial all-applications formulation does not govern without its premise.
+- Colautti v. Franklin, 439 U.S. 379 (1979): preserves the separation of an intelligible clinical standard from fault concerning an erroneous assessment; no particular universal fault level is supplied.
+- United States v. X-Citement Video, Inc., 513 U.S. 64 (1994): preserves its context-specific distinction between definition and fault; no universal knowledge element or scienter cure is inferred.
+- City of Dickinson v. Mueller, 261 N.W.2d 787 (N.D. 1977), and State v. North Dakota Education Association, 262 N.W.2d 731 (N.D. 1978): apply their title limitation when assessing the asserted default; no abortion-specific state construction is attributed to either case.
+- State v. Goetz, 312 N.W.2d 1 (N.D. 1981): distinguishes definition of an expressly enacted willfulness term from importing default fault; its securities-law instruction and knowledge-of-illegality discussion do not settle these elements.
+
+##### The access claims return for a supported assessment and prompt interim consideration
+
+**Controlling proposition:** The access portion of the Eighth Circuit judgment is vacated, and that court must remand for the District Court to apply Casey to the challenged access duties on a properly supported record. The District Court must promptly consider the providers' request for interim protection under the applicable ordinary standard and current record; this Court neither reinstates the dissolved injunction automatically nor orders a final injunction, hearing or trial.
+
+**Authority:** Justice Souter's Part V, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Ginsburg and Breyer as to the access remand and interim-consideration direction. The Chief would additionally vacate the definition and associated penalty dispositions; the affirmance of those components rests on Parts II–IV's eight-Justice coalition, not his join.
+
+**Controlling explanation:** The Court holds that correcting the governing legal inquiry requires renewed assessment rather than immediate final relief. The lower courts must identify what the record establishes under the proper causal and substantive standards and what genuine disputes require further proceedings. Casey requires a remedy corresponding to the duty or application that fails, while Transcon distinguishes remedial authority from a demonstrated violation and the fit of an injunction. Neither decision supplies the absent factual and equitable predicates here. The pre-enforcement penal setting warrants prompt attention to interim protection, but the prior injunction's dissolution is not undone by vacatur alone. The District Court must evaluate present grounds and the scope of any necessary restraint. Its final remedy must preserve independently lawful duties under applicable severability law and address certifications and sanctions dependent on an invalid prerequisite. The Court leaves that work below without prejudging ultimate validity, the need for testimony or the precise terms of relief.
+
+**Precedent treatment:**
+
+- Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992): applies Step 6's matched relief and preserves its distinction between an actual duty and assumed administration; its case-specific denial of additional relief is no universal bar.
+- Interstate Commerce Commission v. Transcon Lines, decided January 10, 1995: applies the distinction among remedial authority, violation and scope by analogy, without transferring its admitted public-enforcement violation or statutory injunction predicates.
+
+**Questions not reached:** Final statewide invalidation, the ultimate State justification, disputed factual burdens, a definitive state severance, actual criminal or civil culpability, damages, a compelled evidentiary hearing, and a new parental, speech or emergency-access claim are not decided. Affirmance of the specified vagueness grounds does not approve a materially different state construction or concrete enforcement.
+
+#### Precedent Treatment and Current-Law Effect
+
+Casey's complete standard and broader life-and-health safeguards remain unchanged. The access decision applies its affected-population, causal-comparison, residual-interference and relief requirements; Salerno supplies no additional all-applications veto in this setting. The definition decisions apply Vuitch, Doe, Hoffman Estates, Colautti and Kolender at their distinct statutory and constitutional scopes, with X-Citement's contextual approach. No earlier Supreme Court decision is overruled. The North Dakota decisions establish the limitation of the asserted default source, not a comprehensive abortion-specific fault rule. Each precise treatment and limitation appears with its holding.
+
+Effective February 13, 1995, North Dakota's challenged access duties require renewed assessment under the full six-step Casey standard, without an independent numerical facial-review threshold or automatic approval based on telephone delivery or similarity to another State's law. The Court separately rejects the stated abortion-definition and emergency-definition vagueness claims on the bounded grounds above and rejects automatic facial invalidity of the general penalty from the absence of an express fault word. Those holdings do not establish a general default culpability rule, immunize clinicians, validate every emergency restriction or decide civil damages. The remand creates no final injunction or categorical ruling on every twenty-four-hour period.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part; no joins.** The Chief agrees that Casey governs the access challenge and that the actual affected class, the additional burden against existing access conditions, and interacting requirements must be assessed under the complete six-step inquiry. He joins the access remand and prompt consideration of interim protection. He would, however, vacate the entire Eighth Circuit judgment and return each challenged provision for application and legally supported construction, rather than affirm the definition and associated penalty dispositions now.
+
+For the Chief, a practically usable route must permit prompt action in a physician's good-faith clinical judgment when compliance creates a material risk of death, serious physical injury, substantial irreversible impairment or another grave medically established danger to health. Those examples do not narrow Casey's broader necessary-care protection, including relevant physical and mental health. Treatment cannot await approach to death or delay incompatible with the emergency. A protective construction must be fairly supported by the enacted words and controlling state law; the courts must establish the actual culpability requirements rather than presume them. If the text cannot bear the necessary construction, the defective requirement may not be enforced. He would obtain that assessment on remand. He creates neither immunity for negligent practice nor an emergency based on unsupported preference, and would not impose a categorical injunction without the necessary findings. His additional remand position does not control the affirmed components.
+
+**Justice Kennedy, concurring in part and dissenting in part; no joins.** Kennedy joins the independent definition and limited penalty holdings. He distinguishes the intelligibility of professional criteria from a ruling that every possible restriction on necessary care is constitutional. He would also affirm the access judgment under the reasonable-regulation position he stated in Casey, retaining protected choice and meaningful clinical safeguards but rejecting the general residual lesser-burden substantiation rule. Telephone disclosure, authorized agents, actual medical judgment and certification during the procedure visit distinguish the enacted duties from a mandatory second trip. On his approach, truthful information and a finite interval bear a reasonable relationship to informed decisionmaking, without an established third-party veto or concrete denial of necessary care on the preserved access claim. His view supplies no alternative rule for lower courts to substitute for the Court's controlling framework. He would deny restoration of the injunction and does not join the remand merely because lower courts retain ordinary remedial authority under the Court's mandate.
+
+**Justice Scalia, concurring in part and dissenting in part, joined by Justice Thomas.** Scalia and Thomas join the definition and limited penalty portions because their grounds arise from the actual purposeful-termination words and specified professional criterion, independently of a judicially supplied fault term. They do not adopt a universal scienter cure, a bad-faith-only safe harbor or a rule that statutory silence invariably creates strict liability. They would affirm the access dismissal on their continuing constitutional objection to Casey's heightened abortion-access framework and the ordinary reasonable-regulation ground they supported there. At the actual telephone-and-agent scope, they regard consent information and the interval as permissible legislative regulation rather than a basis for the Court's residual scrutiny. This remains a dissent from governing law, not a finding that the Eighth Circuit performed the six-step inquiry. Their votes neither endorse misleading information or ideological assent nor permit invented criminal elements. They oppose the access remand and requested restoration of interim relief.
+
+#### Source Notes
+
+The judgment below is reported at [18 F.3d 526](https://law.resource.org/pub/us/case/reporter/F3/018/18.F3d.526.93-1579.html). The challenged 1991 provisions appear in [North Dakota Session Laws, chapter 141, pages 398–402](https://ndlegis.gov/assembly/sessionlaws/1991/pdf/DOMRP.pdf); the carried definition and penalty appear in [1975 chapter 124, pages 448 and 452](https://ndlegis.gov/prod/assembly/sessionlaws/1975/pdf/domrp.pdf). The lower court's telephone and protective readings are distinguished from enacted words and binding state-court construction.
+
+The culpability source is [1973 chapter 116, section 2, pages 220–221](https://ndlegis.gov/assembly/sessionlaws/1973/pdf/CRIMES.pdf), read with [Mueller](https://static.case.law/nw2d/261/html/0787-01.html), [North Dakota Education Association](https://static.case.law/nw2d/262/html/0731-01.html) and [Goetz](https://static.case.law/nw2d/312/html/0001-01.html). No abortion-specific element allocation is inferred from those other-offense decisions.
+
+The principal earlier vagueness authorities are available in the official reports: [Vuitch](https://tile.loc.gov/storage-services/service/ll/usrep/usrep402/usrep402062/usrep402062.pdf), [Doe](https://tile.loc.gov/storage-services/service/ll/usrep/usrep410/usrep410179/usrep410179.pdf), [Colautti](https://tile.loc.gov/storage-services/service/ll/usrep/usrep439/usrep439379/usrep439379.pdf), [Hoffman Estates](https://tile.loc.gov/storage-services/service/ll/usrep/usrep455/usrep455489/usrep455489.pdf), and [Kolender](https://tile.loc.gov/storage-services/service/ll/usrep/usrep461/usrep461352/usrep461352.pdf). These citations support the paraphrased holdings.
+
+The reported summary-judgment submissions support the described posture, not new factual findings. The reported sources do not reproduce the full clinical record or the prior injunction's exact terms and do not establish a definitive Title 14 element-specific construction. The remand and reserved questions preserve those limits. The argument and decision dates are the established docket schedule; no separate grant date is stated.
+
+#### Mandate, Remedy, and Stage
+
+The Eighth Circuit must preserve the affirmed rejection of the specified definition-vagueness and limited penalty grounds and return the access claims to the District Court. The District Court must apply the complete Casey standard to each challenged access duty on a properly supported record, identify its actual burdened class, assess attributable additional interference against real conditions, and consider interacting requirements together without double counting. It must promptly consider the providers' interim-relief request under the ordinary standard and current record, given the pre-enforcement penal posture. No existing injunction is automatically reinstated, and no hearing, trial, final severance, permanent injunction or damages award is ordered. Supreme Court review ends; the access proceeding and lawful remedial work continue below. The affirmed grounds do not foreclose a materially different authoritative construction or concrete enforcement challenge.
+
+**End of entry: Fargo Women’s Health Organization v. Schafer, Merits decision, February 13, 1995.**
 
 ---
 
@@ -770,15 +947,15 @@ The Eighth Circuit judgment is vacated. That court must remand to the District C
 
 Merits decision, February 21, 1995
 
-The Second Circuit judgment is reversed and the case remanded, 8–1, for adjudication of the First Amendment claim treating Amtrak as governmental. The Court does not decide whether rejection of the advertisement violated the First Amendment or order its display.
-
 #### Chronology and Posture
 
-Argued November 7, 1994. On writ of certiorari to the Second Circuit, reviewing 12 F.3d 388 (1993), which reversed the district judgment, 811 F. Supp. 993, on the absence of governmental action and directed dismissal. The question is whether Amtrak is a governmental actor for First Amendment purposes despite its statutory disclaimer. Michael Lebron challenged Amtrak's refusal to display his political photomontage on the Spectacular billboard at Penn Station. The First Amendment claim remained before the lower courts although he expressly disavowed treating Amtrak itself as a governmental entity and relied instead on attributing the challenged conduct to government.
+Argued November 7, 1994; decided February 21, 1995. On writ of certiorari to the Second Circuit, reviewing 12 F.3d 388 (1993), which reversed the district judgment, 811 F. Supp. 993, on the absence of governmental action and directed dismissal. The question is whether Amtrak is a governmental actor for First Amendment purposes despite its statutory disclaimer. Michael Lebron challenged Amtrak's refusal to display his political photomontage on the Spectacular billboard at Penn Station. The First Amendment claim remained before the lower courts although he expressly disavowed treating Amtrak itself as a governmental entity and relied instead on attributing the challenged conduct to government.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision. No Justice is noted as not participating.
 
 #### Judgment
+
+The Second Circuit judgment is reversed and the case remanded, 8–1, for adjudication of the First Amendment claim treating Amtrak as governmental. The Court does not decide whether rejection of the advertisement violated the First Amendment or order its display.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -864,7 +1041,7 @@ O'Connor recognizes that the permanent public governance would support the Court
 
 The mandate reverses the Second Circuit judgment and remands for proceedings consistent with Amtrak's governmental status for First Amendment purposes. The lower courts must decide the unresolved constitutional and remedial issues and reconsider the associated state-law dispositions under ordinary law. The Court does not reinstate the mandatory-display injunction, set a display deadline, award damages, determine a rent amount, or resolve either side's final contract rights. Review here ends; proceedings continue below.
 
-**End of entry: Lebron v. National Railroad Passenger Corp., merits decision, February 21, 1995.**
+**End of entry: Lebron v. National Railroad Passenger Corp., Merits decision, February 21, 1995.**
 
 ---
 
@@ -872,13 +1049,13 @@ The mandate reverses the Second Circuit judgment and remands for proceedings con
 
 Merits decision, February 21, 1995
 
+Argued December 5, 1994; decided February 21, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit, 3 F.3d 994. The question is when interest begins within the statutory installment calculation for withdrawal liability. The separate allocation-method ruling is outside that question.
+
+All nine Justices participated at argument and decision.
+
 The Seventh Circuit is affirmed, 9–0. Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer support rejecting the demanded additional year of computational interest and preserving enforcement of the arbitral award. No Justice dissents. The district court’s added withdrawal-year interest and prejudgment interest on that addition do not survive. The Court recalculates no amount and does not reopen the separate allocation-method ruling.
 
-Argued December 5, 1994. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit, 3 F.3d 994. The question is when interest begins within the statutory installment calculation for withdrawal liability. The separate allocation-method ruling is outside that question.
-
-Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision.
-
-Justice Breyer delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg. Every participating Justice joins each holding, its stated limits, and the judgment. No separate opinion was filed.
+Justice Breyer delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg. Every participating Justice joins each holding, its stated limits, and the judgment. No separate opinion was filed.
 
 Under 29 U.S.C. §1399(c)(1)(A)(i), the withdrawal-liability installment calculation uses the first day of the plan year after the withdrawal year as the assumed first-payment and computational-interest starting point; it does not capitalize interest for the preceding withdrawal year. Actual payment commencement, overdue-payment interest, default acceleration, prepayment, and mass-withdrawal rules retain their separate statutory triggers and qualifications.
 
@@ -896,16 +1073,10 @@ John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank leaves the
 
 Effective February 21, 1995, section 1399’s computational schedule begins at the opening of the plan year after withdrawal. The prior-year valuation date supplies no authority to add a year of interest to the withdrawal amount. Statutory actual-payment, delinquency, prepayment, and default provisions continue to operate independently; Concrete Pipe’s review rules remain unchanged.
 
-**Source notes:** The record, preserved computation question, and award-enforcement disposition appear in [3 F.3d 994](https://law.resource.org/pub/us/case/reporter/F3/003/3.F3d.994.92-3894.92-3811.html). The calculation and distinct payment rules appear in [29 U.S.C. §1399, 1994 edition](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title29-section1399&num=0&edition=1994). The Plan did not preserve an independent demand for interest beginning at the August withdrawal date; the Court adjudicates the prior-year interest demanded and calculates no new award.
+The record, preserved computation question, and award-enforcement disposition appear in [3 F.3d 994](https://law.resource.org/pub/us/case/reporter/F3/003/3.F3d.994.92-3894.92-3811.html). The calculation and distinct payment rules appear in [29 U.S.C. §1399, 1994 edition](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title29-section1399&num=0&edition=1994). The Plan did not preserve an independent demand for interest beginning at the August withdrawal date; the Court adjudicates the prior-year interest demanded and calculates no new award.
 
 The affirmed judgment directs enforcement of the arbitral award without the added 1981 computational interest or prejudgment interest on that addition. The existing statutory payment obligations continue. No further Supreme Court remedy, numerical calculation, or decision on a different pension dispute is entered.
 
-**End of entry: Milwaukee Brewery Workers’ Pension Plan v. Jos. Schlitz Brewing Co., merits decision, February 21, 1995.**
+**End of entry: Milwaukee Brewery Workers’ Pension Plan v. Jos. Schlitz Brewing Co., Merits decision, February 21, 1995.**
 
 ---
-
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Fargo Women’s Health Organization v. Schafer + | Required revalidation of the controlled facial-review and emergency formulations against the operative Casey framework is unresolved. Separate vagueness components also lack completed neutral validation, modeling and reconciliation. No disposition or vote is entered. |
