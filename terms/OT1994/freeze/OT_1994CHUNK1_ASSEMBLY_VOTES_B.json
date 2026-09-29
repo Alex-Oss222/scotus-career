@@ -1,0 +1,537 @@
+[
+  {
+    "file": "tmp\\ot1994-chunk1\\assembly_b\\Church_of_Scientology_Flag_Service_Organization_Inc_v_City_of_Clearwater_merits_1994-12-05.md",
+    "case": "Church of Scientology Flag Service Organization, Inc. v. City of Clearwater",
+    "docket": "No. 93-1062",
+    "event_date": "1994-12-05",
+    "argument_date": "1994-10-11",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "participant_count": 9,
+    "nonparticipants": [],
+    "components": [
+      {
+        "component": "Vacate adverse identifying determination",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [
+          "Stone-Zsela"
+        ],
+        "not_reached": [],
+        "support_count": 8,
+        "opposition_count": 1,
+        "not_reached_count": 0
+      },
+      {
+        "component": "Vacate adverse written-policy determination",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [
+          "Stone-Zsela"
+        ],
+        "not_reached": [],
+        "support_count": 8,
+        "opposition_count": 1,
+        "not_reached_count": 0
+      },
+      {
+        "component": "Preserve favorable relief and purpose/severability remand",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0
+      },
+      {
+        "component": "Final RFRA outcomes on reopened provisions",
+        "support": [],
+        "opposition": [
+          "Stone-Zsela"
+        ],
+        "not_reached": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 0,
+        "opposition_count": 1,
+        "not_reached_count": 8
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "RFRA prospective application and remand",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 8
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Court",
+        "author": "O'Connor",
+        "joins": [
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 8,
+        "scope": "RFRA temporal rule, burdens, and bounded remand"
+      },
+      {
+        "writing": "Concurrence in part/dissent in part",
+        "author": "Stone-Zsela",
+        "joins": [],
+        "support_count": 1,
+        "scope": "Affirm entire lower judgment on approved statutory/constitutional grounds"
+      }
+    ],
+    "disposition": "Vacated in part and remanded, 8–1; favorable relief and existing purpose/severability remand undisturbed, 9–0.",
+    "procedural_stage": {
+      "date": "1994-12-05",
+      "description": "The Eleventh Circuit judgment is vacated only as to its rejection of prospective relief against the identifying disclosures designated as section 100.03(1)(a), (b), (c), and (j), and section 100.05(1)(g). The matter returns to that court for RFRA adjudication and any district-court findings required. Existing Church-favorable relief and the purpose/severability remand remain undisturbed. Ordinary review here ends; proceedings continue below. No damages, refund payment, whole-ordinance injunction, new calendar deadline, or restored enforcement of invalidated provisions is ordered."
+    },
+    "reservations": "No final substantial-burden or justification finding is made for the surviving identifying or written-policy requirements. The Court does not decide RFRA's constitutionality, retrospective monetary liability, a general exemption from civil fraud law, the disputed sectarian purpose, the precise Florida severability boundary, the unreviewed general anti-fraud clause, or unpreserved hardship-discretion and procedural objections. Section 7 leaves the Establishment Clause unaffected; section 6(c) supplies no authority to burden religious belief.",
+    "tests_performed": [
+      "component participant partition and explicit counts",
+      "holding support majority",
+      "opinion authors/joins within participants and no duplication",
+      "four opening labels",
+      "exact eleven public blocks",
+      "internal/public holding byte identity",
+      "120–200-word controlling explanations"
+    ]
+  },
+  {
+    "file": "tmp\\ot1994-chunk1\\assembly_b\\Federal_Election_Commission_v_NRA_Political_Victory_Fund_jurisdictional_dismissal_1994-12-06.md",
+    "case": "Federal Election Commission v. NRA Political Victory Fund",
+    "docket": "No. 93-1151",
+    "event_date": "1994-12-06",
+    "argument_date": "1994-10-11",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "participant_count": 8,
+    "nonparticipants": [
+      "Ginsburg"
+    ],
+    "components": [
+      {
+        "component": "Dismiss existing writ",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "opposition": [
+          "Stone-Zsela",
+          "Stevens"
+        ],
+        "not_reached": [],
+        "support_count": 6,
+        "opposition_count": 2,
+        "not_reached_count": 0
+      },
+      {
+        "component": "Commission structural constitutionality",
+        "support": [],
+        "opposition": [
+          "Stone-Zsela"
+        ],
+        "not_reached": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer",
+          "Stevens"
+        ],
+        "support_count": 0,
+        "opposition_count": 1,
+        "not_reached_count": 7
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "No independent FECA certiorari authority",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "support_count": 6
+      },
+      {
+        "holding": "Expired-period ratification unavailable",
+        "support": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "support_count": 6
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Court Parts I and II",
+        "author": "Thomas",
+        "joins": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Breyer"
+        ],
+        "support_count": 6,
+        "scope": "Both threshold holdings"
+      },
+      {
+        "writing": "Independent-authority dissent",
+        "author": "Stevens",
+        "joins": [
+          "Stone-Zsela"
+        ],
+        "support_count": 2,
+        "scope": "Retain timely review under §437d(a)(6)"
+      },
+      {
+        "writing": "Merits dissent",
+        "author": "Stone-Zsela",
+        "joins": [],
+        "support_count": 1,
+        "scope": "Reverse structural ground; remand unresolved claims"
+      }
+    ],
+    "disposition": "Writ dismissed for want of jurisdiction, 6–2; Ginsburg did not participate.",
+    "procedural_stage": {
+      "date": "1994-12-06",
+      "description": "The existing writ is dismissed for want of jurisdiction. The lower judgment ending this enforcement action remains undisturbed; the district court's penalty and injunction are not reinstated. There is no Supreme Court merits remand or new adjudication of the unresolved enforcement defenses. This review proceeding is terminal; no additional Court act or filing condition is ordered."
+    },
+    "reservations": "The Court decides no universal rule that all representation defects are incurable. It makes no finding that a Justice granted an extension or that the amended lower opinion restarted time. The Solicitor General's authorization is distinct from any Commission resolution addressing its composition; neither constitutional validity nor structural ratification is reached.",
+    "tests_performed": [
+      "component participant partition and explicit counts",
+      "holding support majority",
+      "opinion authors/joins within participants and no duplication",
+      "four opening labels",
+      "exact eleven public blocks",
+      "internal/public holding byte identity",
+      "120–200-word controlling explanations"
+    ]
+  },
+  {
+    "file": "tmp\\ot1994-chunk1\\assembly_b\\Reich_v_Collins_merits_1994-12-06.md",
+    "case": "Reich v. Collins",
+    "docket": "No. 93-908",
+    "event_date": "1994-12-06",
+    "argument_date": "1994-10-11",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "participant_count": 9,
+    "nonparticipants": [],
+    "components": [
+      {
+        "component": "Reverse denial of backward-looking relief and remand",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0
+      },
+      {
+        "component": "Individual prepayment-mechanism adequacy",
+        "support": [],
+        "opposition": [],
+        "not_reached": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 0,
+        "opposition_count": 0,
+        "not_reached_count": 9
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "No after-payment withdrawal of apparent refund route",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Court",
+        "author": "O'Connor",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "scope": "Fair procedural opportunity and bounded remedy"
+      }
+    ],
+    "disposition": "Denial of constitutionally adequate backward-looking relief reversed; remanded, 9–0.",
+    "procedural_stage": {
+      "date": "1994-12-06",
+      "description": "The Georgia Supreme Court's denial of constitutionally adequate backward-looking relief is reversed, and the cause is remanded for a clear and certain lawful remedial opportunity. Ordinary proof of payment and amount remains. No sum, interest entitlement, deadline, or particular retroactive assessment is ordered. The accepted substantive tax defect is not retried by this mandate; relief proceeds below."
+    },
+    "reservations": "The substantive tax invalidity is already accepted. The Court neither declares every Georgia prepayment avenue inadequate nor converts discretionary stays into guaranteed stays. It creates no general government-estoppel doctrine, exemption from clearly announced reasonable requirements, fixed refund, interest award, or reopening of final judgments. Prospective procedural changes remain permissible with adequate review and fair notice.",
+    "tests_performed": [
+      "component participant partition and explicit counts",
+      "holding support majority",
+      "opinion authors/joins within participants and no duplication",
+      "four opening labels",
+      "exact eleven public blocks",
+      "internal/public holding byte identity",
+      "120–200-word controlling explanations"
+    ]
+  },
+  {
+    "file": "tmp\\ot1994-chunk1\\assembly_b\\Brown_v_Gardner_merits_1994-12-12.md",
+    "case": "Brown v. Gardner",
+    "docket": "No. 93-1128",
+    "event_date": "1994-12-12",
+    "argument_date": "1994-10-31",
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "participant_count": 9,
+    "nonparticipants": [],
+    "components": [
+      {
+        "component": "Affirm invalidity of fault-or-accident condition",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0
+      },
+      {
+        "component": "Ultimate causal entitlement",
+        "support": [],
+        "opposition": [],
+        "not_reached": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 0,
+        "opposition_count": 0,
+        "not_reached_count": 9
+      },
+      {
+        "component": "Comprehensive consent/necessary-consequences doctrine",
+        "support": [],
+        "opposition": [],
+        "not_reached": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 0,
+        "opposition_count": 0,
+        "not_reached_count": 9
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "Causation without provider fault or accident",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Court",
+        "author": "Souter",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "scope": "Causal statutory rule and limited remand"
+      },
+      {
+        "writing": "Concurrence",
+        "author": "Stone-Zsela",
+        "joins": [],
+        "support_count": 1,
+        "scope": "Preserved natural-progress and certain/intended limits"
+      }
+    ],
+    "disposition": "Federal Circuit affirmed, 9–0; administrative eligibility redetermination continues without the invalid fault-or-accident requirement.",
+    "procedural_stage": {
+      "date": "1994-12-12",
+      "description": "The Federal Circuit judgment is affirmed. The existing remand for administrative redetermination of Gardner's eligibility continues without the invalid fault-or-accident prerequisite. No automatic compensation, medical causal finding, refund, deadline, or broader regulatory rewrite is ordered. Ordinary Supreme Court review ends; the administrative claim remains for decision under the lawful conditions."
+    },
+    "reservations": "The natural-progress provision is left undisturbed. No complete rule governing consent or necessary consequences is adopted. The separate FTCA coordination sentence remains: for a qualifying judgment under 28 U.S.C. §1346(b), or settlement or compromise under §§2672 or 2677, on or after December 1, 1962, for a disability, aggravation, or death treated as service connected under §1151, benefits for months after finality are withheld until the aggregate otherwise payable equals the total recovery. That is a coordination rule, not a provider-fault requirement; no qualifying recovery is found here.",
+    "tests_performed": [
+      "component participant partition and explicit counts",
+      "holding support majority",
+      "opinion authors/joins within participants and no duplication",
+      "four opening labels",
+      "exact eleven public blocks",
+      "internal/public holding byte identity",
+      "120–200-word controlling explanations"
+    ]
+  }
+]

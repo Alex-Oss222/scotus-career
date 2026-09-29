@@ -8,7 +8,7 @@
 <!-- BEGIN_SECTION I -->
 ### SECTION I — NEUTRAL MODELING PACKET
 
-## A. DECISIONAL HEADER
+#### A. DECISIONAL HEADER
 
 - **Case Name:** Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co.
 - **Citation or Docket:** 514 U.S. 122; No. 93-1783.
@@ -25,7 +25,7 @@
 - **Neutral Source Status:** CONDITIONALLY SUFFICIENT.
 - **Historical Comparator Available:** Yes, separately quarantined in Section III.
 
-## B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
+#### B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
 
 ### 1. Current procedural stage
 
@@ -56,7 +56,7 @@ No case-specific completed simulated grant or merits Decision Record for this ma
 
 Review is limited to the issues stated above, necessary antecedents, and the remedy needed to dispose of the reviewed judgment. The historical comparator cannot enlarge that scope. Any actual conflicting historical grant limitation must be reconciled before adjudication, not silently ignored.
 
-## C. RECORD, FACT STATUS, AND POSTURE
+#### C. RECORD, FACT STATUS, AND POSTURE
 
 ### 1. Court and judgment below
 
@@ -91,7 +91,7 @@ The court below issued its mixed disposition on October 29, 1993. The present Su
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-03-21. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -104,7 +104,7 @@ The court below issued its mixed disposition on October 29, 1993. The present Su
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
-## Other governing law
+#### Other governing law
 
 - **33 U.S.C. § 921(c):** A person adversely affected or aggrieved by a final Benefits Review Board order may seek court-of-appeals review within the statutory period. Identify whose legally protected interest the order affects, not merely who disagrees with the Board.
 
@@ -114,7 +114,7 @@ Uncoordinated same-day decisions share the same entering-law baseline.
 
 - **Statutory standing and review:** The Director must establish the statutory entitlement he invokes. The question is independently reviewed statutory construction, not a new evidentiary burden on Harcum or an adjudication of the injury’s extent.
 
-## E. ISSUE-BY-ISSUE LITIGATION POSITIONS
+#### E. ISSUE-BY-ISSUE LITIGATION POSITIONS
 
 ### Issue 1: Director’s entitlement to independent appellate review
 
@@ -152,7 +152,7 @@ Governmental entities can be genuinely aggrieved under an enacted scheme; the st
 
 No separately recovered amicus submission is used to attribute an additional party position. The sourced arguments above do not depend on an assumed concession or an unrecovered filing.
 
-## F. LAWFUL JUDGMENT AND REMEDY PATHS
+#### F. LAWFUL JUDGMENT AND REMEDY PATHS
 
 ### Path A: No aggrievement on employee award
 
@@ -174,7 +174,7 @@ No separately recovered amicus submission is used to attribute an additional par
 - **Remedy / Remand:** Court of appeals may consider the preserved award questions under ordinary review rules.
 - **Question Left Open:** Whether the award is substantively erroneous.
 
-## G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
+#### G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
 
 ### 1. Source-completeness status
 
@@ -188,7 +188,7 @@ The complete petition, opposition, joint appendix, and verbatim simulated grant 
 
 Determine only the Director’s review entitlement on the identified component. The packet does not support an unsolicited revision of the Fund outcome or a benefits award. 
 
-## H. NEUTRAL SOURCES
+#### H. NEUTRAL SOURCES
 
 - [Director, OWCP v. Newport News, 8 F.3d 175, 178–185 (4th Cir. 1993)](https://law.justia.com/cases/federal/appellate-courts/F3/8/175/614852/): distinct components, claimant nonappeal, statutory aggrievement, and Fund disposition.
 - 33 U.S.C. §§ 921(c), 939, 908(f), 944; Perini, 459 U.S. 297: review authority, agency duties, and respondent-status distinction.
@@ -199,7 +199,7 @@ Determine only the Director’s review entitlement on the identified component. 
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## A. APPROVAL AND SCOPE
+#### A. APPROVAL AND SCOPE
 
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
@@ -209,7 +209,7 @@ Determine only the Director’s review entitlement on the identified component. 
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** Greenwich Collieries is now effective same-field simulated law, but its burden-of-proof holding does not answer whether the Director is "adversely affected or aggrieved." The proposed Newport News result must rest on §921(c) and the Director's own legally cognizable interest, not a generalized agency-enforcement theory.
 
-## B. FIXED CORE
+#### B. FIXED CORE
 
 ### Overall fixed core
 
@@ -222,7 +222,7 @@ Determine only the Director’s review entitlement on the identified component. 
 
 These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
-## C. JUDGMENT AND REMEDY BY COMPONENT
+#### C. JUDGMENT AND REMEDY BY COMPONENT
 
 ### Component 1: Director’s employee-award appeal
 
@@ -234,7 +234,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Controlled Judgment / Disposition:** LEAVE UNDISTURBED; no separate merits vote on that component.
 - **Stone’s Remedy / Remand Position:** Preserve the Fourth Circuit’s separate treatment and remand concerning the Fund.
 
-## D. ISSUE POSITIONS
+#### D. ISSUE POSITIONS
 
 ### Issue 1: Director’s entitlement to independent appellate review
 
@@ -248,7 +248,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Answer:** The Director’s general interest in correct administration does not by itself make him adversely affected or aggrieved under § 921(c) with respect to this claimant’s unappealed benefits award. Affirm that reviewed dismissal, without disturbing the distinct Special Fund component. Reserve an express governmental review grant, a genuine financial or independently statutory injury, and the Director’s respondent role. Do not decide Harcum’s medical condition or change the Fund remand.
 - **Boundary / Reserved Question:** Reserve an express governmental review grant, a genuine financial or independently statutory injury, and the Director’s respondent role. Do not decide Harcum’s medical condition or change the Fund remand.
 
-## E. DRAFTING DISCRETION
+#### E. DRAFTING DISCRETION
 
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
@@ -258,7 +258,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 Comparison material only. This section is not simulated law and does not control Stone. Introduce it only after provisional non-Stone commitments have been frozen.
 
-## A. HISTORICAL PROCEDURAL TREATMENT
+#### A. HISTORICAL PROCEDURAL TREATMENT
 
 - **Historical Stage:** Post-argument review.
 - **Historical Court Action:** Affirmed the reviewed statutory-standing ruling.
@@ -266,20 +266,20 @@ Comparison material only. This section is not simulated law and does not control
 - **Historical Review Scope:** (1) Is the Director aggrieved under § 921(c) merely because he believes the Board awarded a claimant less compensation than the Act requires?
 - **Difference from Simulated Review Scope:** The current instruction admits the identified historical controversy for reconstruction but does not adopt its result, opinion assignments, or votes. Any separately established simulated limitation controls.
 
-## B. HISTORICAL JUDGMENT AND VOTE
+#### B. HISTORICAL JUDGMENT AND VOTE
 
 - **Historical Judgment:** Affirmed the reviewed statutory-standing ruling.
 - **Vote:** 9–0 in judgment.
 - **Named Coalition:** All nine historical Justices; Ginsburg concurred in the judgment.
 - **Remedy / Remand:** The Director could not independently litigate the employee-award challenge on a general administrative-interest theory.
 
-## C. HISTORICAL OPINION TOPOLOGY
+#### C. HISTORICAL OPINION TOPOLOGY
 
 - **Opinion of the Court:** Scalia, joined by Rehnquist, Stevens, O’Connor, Kennedy, Souter, Thomas, and Breyer.
 - **Concurrence in the judgment:** Ginsburg.
 - **No-Majority Components:** None in the Court’s statutory holding; the narrower concurrence did not adopt every generalization about agency aggrievement.
 
-## D. HISTORICAL HOLDINGS BY COMPONENT
+#### D. HISTORICAL HOLDINGS BY COMPONENT
 
 ### Component 1: Employee-award review
 The Director was not a person adversely affected or aggrieved within § 921(c) merely because of his general administrative interest in benefits adjudication.
@@ -287,11 +287,11 @@ The Director was not a person adversely affected or aggrieved within § 921(c) m
 ### Component 2: Boundary
 The claimant’s own appeal and distinct statutory roles were not silently transferred to the Director. The Special Fund setting was materially different.
 
-## E. HISTORICAL DECISIONAL PREMISES
+#### E. HISTORICAL DECISIONAL PREMISES
 
 **Court opinion:** The Act did not expressly authorize general Director appeals, and his supervisory interest was not the aggrievement the provision required. **Ginsburg:** Agreed with the result while avoiding an unnecessarily categorical exclusion of governmental agencies from statutory aggrievement.
 
-## F. HISTORICAL SOURCES
+#### F. HISTORICAL SOURCES
 
 - [Director, OWCP v. Newport News, 514 U.S. 122, 124–136 (1995)](https://supreme.justia.com/cases/federal/us/514/122/): historical outcome and majority/concurrence boundaries.
 
@@ -306,7 +306,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 <!-- BEGIN_SECTION I -->
 ### SECTION I — NEUTRAL MODELING PACKET
 
-## A. DECISIONAL HEADER
+#### A. DECISIONAL HEADER
 
 - **Case Name:** Anderson v. Edwards
 - **Citation or Docket:** 514 U.S. 143; No. 93-1883.
@@ -323,7 +323,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 - **Neutral Source Status:** CONDITIONALLY SUFFICIENT.
 - **Historical Comparator Available:** Yes, separately quarantined in Section III.
 
-## B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
+#### B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
 
 ### 1. Current procedural stage
 
@@ -354,7 +354,7 @@ No case-specific completed simulated grant or merits Decision Record for this ma
 
 Review is limited to the issues stated above, necessary antecedents, and the remedy needed to dispose of the reviewed judgment. The historical comparator cannot enlarge that scope. Any actual conflicting historical grant limitation must be reconciled before adjudication, not silently ignored.
 
-## C. RECORD, FACT STATUS, AND POSTURE
+#### C. RECORD, FACT STATUS, AND POSTURE
 
 ### 1. Court and judgment below
 
@@ -389,7 +389,7 @@ The Ninth Circuit decided the appeal December 1, 1993. The Secretary’s March 1
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-03-22. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -401,7 +401,7 @@ The Ninth Circuit decided the appeal December 1, 1993. The Secretary’s March 1
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
-## Other governing law
+#### Other governing law
 
 - **42 U.S.C. § 602(a)(38):** The provision identifies family members who must be included in specified circumstances; it does not expressly prohibit a State from treating all covered applicants under one common-caretaker unit. The scope question remains distinct from attributing resources not actually available.
 
@@ -413,7 +413,7 @@ Uncoordinated same-day decisions share the same entering-law baseline.
 
 - **Construction and review:** Courts independently determine the statutory boundary. Agency interpretation is considered within the then-governing administrative-law framework, not treated as a power to add or delete statutory restrictions. No special scrutiny tier or newly shifted factual burden governs this statutory challenge.
 
-## E. ISSUE-BY-ISSUE LITIGATION POSITIONS
+#### E. ISSUE-BY-ISSUE LITIGATION POSITIONS
 
 ### Issue 1: Assistance units and assumed income
 
@@ -487,7 +487,7 @@ Neither comprehensive regulation nor an unequal arithmetic result establishes fi
 
 No separately recovered amicus submission is used to attribute an additional party position. The sourced arguments above do not depend on an assumed concession or an unrecovered filing.
 
-## F. LAWFUL JUDGMENT AND REMEDY PATHS
+#### F. LAWFUL JUDGMENT AND REMEDY PATHS
 
 ### Path A: State unit rule permitted
 
@@ -509,7 +509,7 @@ No separately recovered amicus submission is used to attribute an additional par
 - **Remedy / Remand:** Confine relief to the conflict proven, not a judicial redesign of AFDC.
 - **Question Left Open:** Lawful state benefit-level discretion.
 
-## G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
+#### G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
 
 ### 1. Source-completeness status
 
@@ -523,7 +523,7 @@ The complete petition, opposition, joint appendix, and verbatim simulated grant 
 
 The Court can decide whether the rule is forbidden as a matter of federal law. It cannot certify the validity of every resource attribution or extend guidance beyond its lawful interpretive role. 
 
-## H. NEUTRAL SOURCES
+#### H. NEUTRAL SOURCES
 
 - [Edwards v. Healy, 12 F.3d 154 (9th Cir. 1993)](https://law.justia.com/cases/federal/appellate-courts/F3/12/154/528248/): household facts, common-unit rule, and appellate reasoning.
 - 42 U.S.C. § 602(a)(7), (38); 45 C.F.R. §§ 206.10, 233.10, 233.20, 233.90, applicable historical versions: the distinct statutory and regulatory grounds.
@@ -535,7 +535,7 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## A. APPROVAL AND SCOPE
+#### A. APPROVAL AND SCOPE
 
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
@@ -545,7 +545,7 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** The prior brief duplicated Suter and risked making an enforcement-channel case do substantive AFDC work it does not own. The refreshed brief uses Suter only for source separation; the proposed Anderson v. Edwards result remains a construction of the AFDC unit rules themselves.
 
-## B. FIXED CORE
+#### B. FIXED CORE
 
 ### Overall fixed core
 
@@ -558,14 +558,14 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 
 These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
-## C. JUDGMENT AND REMEDY BY COMPONENT
+#### C. JUDGMENT AND REMEDY BY COMPONENT
 
 ### Component 1: Judgment under review
 
 - **Stone’s Controlled Judgment / Disposition:** REVERSE and REMAND.
 - **Stone’s Remedy / Remand Position:** Set aside the categorical invalidation of the common-caretaker assistance-unit rule. Preserve independent statutory restrictions on actual income attribution and any properly preserved application-specific claim not resolved by this legal holding.
 
-## D. ISSUE POSITIONS
+#### D. ISSUE POSITIONS
 
 ### Issue 1: Assistance units and assumed income
 
@@ -591,7 +591,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Answer:** The cited equitable-treatment and assistance-unit regulations do not categorically forbid this common-caretaker grouping, and the scheme does not occupy unit definition so completely as to eliminate the state choice at issue. Guidance may confirm the reading but does not create the authority. Reserve specific inequitable administration, actual fictitious income attribution, and constitutional theories not within this statutory review.
 - **Boundary / Reserved Question:** Reserve specific inequitable administration, actual fictitious income attribution, and constitutional theories not within this statutory review.
 
-## E. DRAFTING DISCRETION
+#### E. DRAFTING DISCRETION
 
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
@@ -601,7 +601,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 Comparison material only. This section is not simulated law and does not control Stone. Introduce it only after provisional non-Stone commitments have been frozen.
 
-## A. HISTORICAL PROCEDURAL TREATMENT
+#### A. HISTORICAL PROCEDURAL TREATMENT
 
 - **Historical Stage:** Post-argument review.
 - **Historical Court Action:** Reversed.
@@ -609,19 +609,19 @@ Comparison material only. This section is not simulated law and does not control
 - **Historical Review Scope:** (1) Does federal AFDC law prohibit grouping these eligible applicants living with one caretaker into a single assistance unit? (2) Do equitable-treatment regulations, field preemption, or agency interpretation require a different result?
 - **Difference from Simulated Review Scope:** The current instruction admits the identified historical controversy for reconstruction but does not adopt its result, opinion assignments, or votes. Any separately established simulated limitation controls.
 
-## B. HISTORICAL JUDGMENT AND VOTE
+#### B. HISTORICAL JUDGMENT AND VOTE
 
 - **Historical Judgment:** Reversed.
 - **Vote:** 9–0.
 - **Named Coalition:** All nine historical Justices.
 - **Remedy / Remand:** The federal-law bar to California’s assistance-unit rule was rejected.
 
-## C. HISTORICAL OPINION TOPOLOGY
+#### C. HISTORICAL OPINION TOPOLOGY
 
 - **Opinion of the Court:** Thomas, unanimous.
 - **Separate Writings / No-Majority Components:** None.
 
-## D. HISTORICAL HOLDINGS BY COMPONENT
+#### D. HISTORICAL HOLDINGS BY COMPONENT
 
 ### Component 1: Unit definition
 Federal AFDC law permitted the challenged common-caretaker unit rule; mandatory family inclusion did not exclusively define all permissible units.
@@ -629,11 +629,11 @@ Federal AFDC law permitted the challenged common-caretaker unit rule; mandatory 
 ### Component 2: Alternative objections
 The cited no-deeming, equitable-treatment, and preemption theories did not invalidate the rule. The Court distinguished consolidation of eligible applicants from imputation of nonapplicant income.
 
-## E. HISTORICAL DECISIONAL PREMISES
+#### E. HISTORICAL DECISIONAL PREMISES
 
 **Unanimous Court:** The household’s applicants, the distinction between unit size and outside income, and the discretion left by the federal scheme supported reversal. Agency agreement reinforced rather than replaced the textual analysis.
 
-## F. HISTORICAL SOURCES
+#### F. HISTORICAL SOURCES
 
 - [Anderson v. Edwards, 514 U.S. 143, 146–158 (1995)](https://supreme.justia.com/cases/federal/us/514/143/): historical judgment, statutory and regulatory components, and unanimous opinion.
 
@@ -671,7 +671,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-03-27. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -685,7 +685,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Religious Freedom Restoration Act
 
@@ -703,7 +703,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Same-term premise control:** References below to a decision or rule in an earlier OT1994 matter are conditional on the Court actually adopting that proposition before this event. The referenced source positions are not Court holdings. If the premise fails, revalidate the affected reasoning and remedy; no new Stone choice is supplied.
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -768,7 +768,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-03-28. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -782,7 +782,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -793,7 +793,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -850,7 +850,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-03. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -866,7 +866,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -877,17 +877,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Commerce Clause and Federalism.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 The taxable event is the local sale of the ticket, not every mile of the interstate journey. A conventional state sales tax may apply to the entire sale price when the sale has a legitimate local situs, interstate and intrastate sales are treated equally, the structure is internally and externally consistent, and the tax relates to state-provided services.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** REVERSE the Tenth Circuit and REMAND.
 - **Stone's Remedy and Remand Instruction:** The bankruptcy court shall allow the tax claim to the extent otherwise valid and conduct remaining proceedings under the ordinary tax and bankruptcy rules.
@@ -942,7 +942,7 @@ The taxable event is the local sale of the ticket, not every mile of the interst
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -958,7 +958,7 @@ The taxable event is the local sale of the ticket, not every mile of the interst
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Legislative reopening of a final Article III judgment
 
@@ -969,17 +969,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Commerce Clause and Federalism.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Congress can change prospective law and sometimes govern pending cases. Simulated Morgan Stanley already establishes the Article III bar against §27A(b)’s command to reopen the completed, unappealed private securities judgment it reviewed; its reserved questions remain open. Reopening final Article III judgments crosses a distinct separation-of-powers boundary. A remedial aim cannot dissolve finality. Later modification of a continuing injunction must be analyzed separately.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** AFFIRM the judgment of the Sixth Circuit.
 - **Stone's Remedy and Remand Instruction:** The final dismissal remains binding. Section 27A(b) may not compel its reopening. No separate remand instruction is required.
@@ -1011,7 +1011,7 @@ Congress can change prospective law and sometimes govern pending cases. Simulate
 <!-- BEGIN_SECTION I -->
 ### SECTION I — NEUTRAL MODELING PACKET
 
-## A. DECISIONAL HEADER
+#### A. DECISIONAL HEADER
 
 - **Case Name:** Shalala v. Whitecotton
 - **Citation or Docket:** 514 U.S. 268; No. 94-372.
@@ -1028,7 +1028,7 @@ Congress can change prospective law and sometimes govern pending cases. Simulate
 - **Neutral Source Status:** CONDITIONALLY SUFFICIENT.
 - **Historical Comparator Available:** Yes, separately quarantined in Section III.
 
-## B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
+#### B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
 
 ### 1. Current procedural stage
 
@@ -1059,7 +1059,7 @@ No case-specific completed simulated grant or merits Decision Record for this ma
 
 Review is limited to the issues stated above, necessary antecedents, and the remedy needed to dispose of the reviewed judgment. The historical comparator cannot enlarge that scope. Any actual conflicting historical grant limitation must be reconciled before adjudication, not silently ignored.
 
-## C. RECORD, FACT STATUS, AND POSTURE
+#### C. RECORD, FACT STATUS, AND POSTURE
 
 ### 1. Court and judgment below
 
@@ -1094,7 +1094,7 @@ The 1990 petition invokes the earlier Table. The Federal Circuit ruled February 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1106,7 +1106,7 @@ The 1990 petition invokes the earlier Table. The Federal Circuit ruled February 
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
-## Other governing law
+#### Other governing law
 
 - **42 U.S.C. § 300aa-11(c)(1)(C)(i), applicable Table:** A claimant may establish a listed injury whose first symptom or manifestation occurs within the prescribed period, or a qualifying significant aggravation within the statutory Table framework. First onset and aggravation are distinct routes.
 
@@ -1116,7 +1116,7 @@ Uncoordinated same-day decisions share the same entering-law baseline.
 
 - **60 Fed. Reg. 7678 (Feb. 8, 1995):** The Table revision’s effective and application provisions must be respected. This case uses the Table applicable to the existing petition; later administrative definitions cannot supply earlier causation findings.
 
-## E. ISSUE-BY-ISSUE LITIGATION POSITIONS
+#### E. ISSUE-BY-ISSUE LITIGATION POSITIONS
 
 ### Issue 1: First onset and the Table predicate
 
@@ -1190,7 +1190,7 @@ It would be equally erroneous to treat preexisting illness as a categorical bar 
 
 No separately recovered amicus submission is used to attribute an additional party position. The sourced arguments above do not depend on an assumed concession or an unrecovered filing.
 
-## F. LAWFUL JUDGMENT AND REMEDY PATHS
+#### F. LAWFUL JUDGMENT AND REMEDY PATHS
 
 ### Path A: Correct onset and preserve alternative route
 
@@ -1212,7 +1212,7 @@ No separately recovered amicus submission is used to attribute an additional par
 - **Remedy / Remand:** Determine Table eligibility before deciding unrelated causation.
 - **Question Left Open:** Unresolved medical and causation facts.
 
-## G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
+#### G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
 
 ### 1. Source-completeness status
 
@@ -1226,7 +1226,7 @@ The complete petition, opposition, joint appendix, and verbatim simulated grant 
 
 Correct the legal sequence and direct review on the existing statutory standards. Do not resolve missing medical findings or the merits of an unrecovered new-evidence submission. 
 
-## H. NEUTRAL SOURCES
+#### H. NEUTRAL SOURCES
 
 - [Whitecotton v. Secretary of HHS, 17 F.3d 374 (Fed. Cir. 1994)](https://law.justia.com/cases/federal/appellate-courts/F3/17/374/567311/): medical findings as characterized below, competing statutory routes, and appellate result.
 - 42 U.S.C. §§ 300aa-11(c)(1)(C), 300aa-12(e), 300aa-13(a), 300aa-33(4), applicable historical text: Table predicates, review, preponderance allocation, and significant aggravation.
@@ -1238,7 +1238,7 @@ Correct the legal sequence and direct review on the existing statutory standards
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## A. APPROVAL AND SCOPE
+#### A. APPROVAL AND SCOPE
 
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
@@ -1248,7 +1248,7 @@ Correct the legal sequence and direct review on the existing statutory standards
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** Daubert is controlling simulated evidence law but does not supply a Vaccine Act causation test. The Whitecotton analysis must keep evidentiary admissibility separate from the statutory first-onset and significant-aggravation routes.
 
-## B. FIXED CORE
+#### B. FIXED CORE
 
 ### Overall fixed core
 
@@ -1261,14 +1261,14 @@ Correct the legal sequence and direct review on the existing statutory standards
 
 These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
-## C. JUDGMENT AND REMEDY BY COMPONENT
+#### C. JUDGMENT AND REMEDY BY COMPONENT
 
 ### Component 1: Judgment under review
 
 - **Stone’s Controlled Judgment / Disposition:** REVERSE and REMAND.
 - **Stone’s Remedy / Remand Position:** Return to the Federal Circuit for review of the preexisting-injury finding and the significant-aggravation claim under the correct statute. Any further Special Master proceedings must preserve the Act’s assigned burdens and applicable historical Table. No final award or denial is ordered.
 
-## D. ISSUE POSITIONS
+#### D. ISSUE POSITIONS
 
 ### Issue 1: First onset and the Table predicate
 
@@ -1294,7 +1294,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Answer:** Remand for proper review of the preexisting-injury finding and the significant-aggravation claim under their distinct statutory requirements. Reach the Government’s unrelated-cause defense only if a qualifying Table claim is established; reserve the disputed application of that defense rather than decide it hypothetically. Do not announce a new definition of significant aggravation beyond what remand requires, resolve an idiopathic-factor dispute before it matters, or apply the revised Table retroactively.
 - **Boundary / Reserved Question:** Do not announce a new definition of significant aggravation beyond what remand requires, resolve an idiopathic-factor dispute before it matters, or apply the revised Table retroactively.
 
-## E. DRAFTING DISCRETION
+#### E. DRAFTING DISCRETION
 
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
@@ -1304,7 +1304,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 Comparison material only. This section is not simulated law and does not control Stone. Introduce it only after provisional non-Stone commitments have been frozen.
 
-## A. HISTORICAL PROCEDURAL TREATMENT
+#### A. HISTORICAL PROCEDURAL TREATMENT
 
 - **Historical Stage:** Post-argument review.
 - **Historical Court Action:** Reversed and remanded.
@@ -1312,20 +1312,20 @@ Comparison material only. This section is not simulated law and does not control
 - **Historical Review Scope:** (1) Does any postvaccination symptom within the Table period establish a first-onset claim despite an established preexisting injury? (2) What remains to be decided concerning significant aggravation and the Government’s unrelated-cause burden?
 - **Difference from Simulated Review Scope:** The current instruction admits the identified historical controversy for reconstruction but does not adopt its result, opinion assignments, or votes. Any separately established simulated limitation controls.
 
-## B. HISTORICAL JUDGMENT AND VOTE
+#### B. HISTORICAL JUDGMENT AND VOTE
 
 - **Historical Judgment:** Reversed and remanded.
 - **Vote:** 9–0.
 - **Named Coalition:** All nine historical Justices.
 - **Remedy / Remand:** The Federal Circuit was to address remaining findings and the alternative significant-aggravation route; the Court did not finally determine compensation.
 
-## C. HISTORICAL OPINION TOPOLOGY
+#### C. HISTORICAL OPINION TOPOLOGY
 
 - **Opinion of the Court:** Souter, unanimous.
 - **Concurrence:** O’Connor, joined by Breyer.
 - **No-Majority Components:** None; significant unresolved application questions were reserved.
 
-## D. HISTORICAL HOLDINGS BY COMPONENT
+#### D. HISTORICAL HOLDINGS BY COMPONENT
 
 ### Component 1: Onset
 The statutory first-symptom requirement is not satisfied merely by a symptom within the Table interval when the injury already existed.
@@ -1333,11 +1333,11 @@ The statutory first-symptom requirement is not satisfied merely by a symptom wit
 ### Component 2: Reserved matters
 The Court did not decide the validity of the preexisting-encephalopathy finding, the proper disposition of significant aggravation, or the Government’s unrelated-factor defense absent the predicate determination.
 
-## E. HISTORICAL DECISIONAL PREMISES
+#### E. HISTORICAL DECISIONAL PREMISES
 
 **Court:** The word “first” and the separation of onset from aggravation controlled the legal question. **O’Connor and Breyer:** Emphasized the importance of preserving the statutory presumption and distinct significant-aggravation inquiry rather than converting Table compensation into ordinary actual-causation litigation.
 
-## F. HISTORICAL SOURCES
+#### F. HISTORICAL SOURCES
 
 - [Shalala v. Whitecotton, 514 U.S. 268, 270–281 (1995)](https://supreme.justia.com/cases/federal/us/514/268/): historical opinion, concurrence, burden sequence, and reservations.
 
@@ -1375,7 +1375,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1391,7 +1391,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1402,17 +1402,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Commerce Clause and Federalism.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Federal silence is not automatically a federal policy against regulation. To preempt, identify an enacted federal command, actual federal standard, occupied field, or concrete conflict.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** AFFIRM the Eleventh Circuit.
 - **Stone's Remedy and Remand Instruction:** The state-law claims may proceed subject to ordinary proof and defenses.
@@ -1467,7 +1467,7 @@ Federal silence is not automatically a federal policy against regulation. To pre
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1481,7 +1481,7 @@ Federal silence is not automatically a federal policy against regulation. To pre
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1492,7 +1492,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1549,7 +1549,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1566,7 +1566,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Constitutional right of access
 
@@ -1584,7 +1584,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1649,7 +1649,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-19. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1663,7 +1663,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1674,7 +1674,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1731,7 +1731,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-04-19. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1750,7 +1750,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1761,17 +1761,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** First Amendment and expression.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Broad identification mandates require a justification fitted to the regulated speech. The state's interests do not justify this application to an individual's political leaflet. Preserve separate analysis of candidate finance disclosure, fraud, and organizations whose spending creates distinct informational concerns.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** REVERSE the Supreme Court of Ohio.
 - **Stone's Remedy and Remand Instruction:** The enforcement order and fine against McIntyre shall be set aside. Ohio may enforce valid disclosure rules not inconsistent with the holding.

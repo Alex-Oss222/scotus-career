@@ -31,7 +31,7 @@
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-10. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -45,7 +45,7 @@
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -56,7 +56,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -113,7 +113,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-17. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -130,7 +130,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Church autonomy and ministerial employment
 
@@ -150,7 +150,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Same-term premise control:** References below to a decision or rule in an earlier OT1994 matter are conditional on the Court actually adopting that proposition before this event. The referenced source positions are not Court holdings. If the premise fails, revalidate the affected reasoning and remedy; no new Stone choice is supplied.
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -192,7 +192,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION I -->
 ### SECTION I — NEUTRAL MODELING PACKET
 
-## A. DECISIONAL HEADER
+#### A. DECISIONAL HEADER
 
 - **Case Name:** Asgrow Seed Co. v. Winterboer
 - **Citation or Docket:** 513 U.S. 179; No. 92-2038.
@@ -209,7 +209,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Neutral Source Status:** CONDITIONALLY SUFFICIENT.
 - **Historical Comparator Available:** Yes, separately quarantined in Section III.
 
-## B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
+#### B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
 
 ### 1. Current procedural stage
 
@@ -240,7 +240,7 @@ No case-specific completed simulated grant or merits Decision Record for this ma
 
 Review is limited to the issues stated above, necessary antecedents, and the remedy needed to dispose of the reviewed judgment. The historical comparator cannot enlarge that scope. Any actual conflicting historical grant limitation must be reconciled before adjudication, not silently ignored.
 
-## C. RECORD, FACT STATUS, AND POSTURE
+#### C. RECORD, FACT STATUS, AND POSTURE
 
 ### 1. Court and judgment below
 
@@ -276,7 +276,7 @@ The conduct litigated below preceded the 1994 amendment. The Federal Circuit dec
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -288,7 +288,7 @@ The conduct litigated below preceded the 1994 amendment. The Federal Circuit dec
 
 At this refresh, the repository contains no completed OT1994 Decision Record. Uncoordinated same-day decisions share the same entering-law baseline.
 
-## Other governing law
+#### Other governing law
 
 - **7 U.S.C. §§ 2541(1), 2541(3), and 2543, pre-amendment text:** The Act protects sale and multiplication for reproductive marketing while retaining saved-seed uses and a qualified farmer-sales proviso. The express exception for conduct covered by § 2541(3) must retain effect.
 
@@ -300,7 +300,7 @@ At this refresh, the repository contains no completed OT1994 Decision Record. Un
 
 - **Former 7 U.S.C. § 2541(6); 982 F.2d at 492–493:** A transfer outside the exemption remains subject to the notice-infringement provision on proof of its elements. Section 2543 exempts qualifying sales from that provision; the notice claim is not silently omitted from the remand.
 
-## E. ISSUE-BY-ISSUE LITIGATION POSITIONS
+#### E. ISSUE-BY-ISSUE LITIGATION POSITIONS
 
 ### Issue 1: Scope of the saved-seed exception
 
@@ -374,7 +374,7 @@ The proposition that exempt sales need no notice does not establish that these s
 
 No separately recovered amicus submission is used to attribute an additional party position. The sourced arguments above do not depend on an assumed concession or an unrecovered filing.
 
-## F. LAWFUL JUDGMENT AND REMEDY PATHS
+#### F. LAWFUL JUDGMENT AND REMEDY PATHS
 
 ### Path A: Own-farm saved-seed construction
 
@@ -396,7 +396,7 @@ No separately recovered amicus submission is used to attribute an additional par
 - **Remedy / Remand:** Continue proceedings without an own-replanting limitation not found expressly in the proviso.
 - **Question Left Open:** Other infringement restrictions and statutory conditions.
 
-## G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
+#### G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
 
 ### 1. Source-completeness status
 
@@ -410,7 +410,7 @@ The complete petition, opposition, joint appendix, and verbatim simulated grant 
 
 The statutory exemption may be construed. A judgment on an unresolved fact or damages question requires the appropriate lower-court record rather than an inferred finding. 
 
-## H. NEUTRAL SOURCES
+#### H. NEUTRAL SOURCES
 
 - [Asgrow Seed Co. v. Winterboer, 982 F.2d 486 (Fed. Cir. 1992)](https://law.justia.com/cases/federal/appellate-courts/F2/982/486/137058/): transaction, competing constructions, lower judgment, and quoted historical statutory text.
 - 7 U.S.C. §§ 2541, 2543, pre-amendment version; Pub. L. 103-349, 108 Stat. 3136: substantive scope and temporal-version distinction.
@@ -422,7 +422,7 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## A. APPROVAL AND SCOPE
+#### A. APPROVAL AND SCOPE
 
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
@@ -432,7 +432,7 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** Simulated Landgraf is controlling, not merely persuasive historical background. The proposed Asgrow construction must apply the pre-amendment Act and may use the later amendment only as later legislation, not as retroactive law or conclusive evidence of what the old text meant.
 
-## B. FIXED CORE
+#### B. FIXED CORE
 
 ### Overall fixed core
 
@@ -445,14 +445,14 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 
 These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
-## C. JUDGMENT AND REMEDY BY COMPONENT
+#### C. JUDGMENT AND REMEDY BY COMPONENT
 
 ### Component 1: Judgment under review
 
 - **Stone’s Controlled Judgment / Disposition:** REVERSE and REMAND.
 - **Stone’s Remedy / Remand Position:** Reject the broad occupation-based exemption and return the case for application of the pre-amendment saved-seed construction, including any unresolved infringement and remedial issues. Do not enter a new damages amount. The § 2541(6) notice claim must receive the exemption-dependent treatment specified in Issue 2; unresolved elements remain for the receiving courts.
 
-## D. ISSUE POSITIONS
+#### D. ISSUE POSITIONS
 
 ### Issue 1: Scope of the saved-seed exception
 
@@ -478,7 +478,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Answer:** The remand includes the pleaded § 2541(6) claim. A sale satisfying the correctly construed § 2543 exemption remains exempt from notice liability; otherwise the court must determine the ordinary statutory elements and authorized relief. No finding of separate notice infringement is entered by this Court. No new notice form, automatic damages award, or exemption for intentional reproductive marketing; the separate statutory elements retain their ordinary force.
 - **Boundary / Reserved Question:** No new notice form, automatic damages award, or exemption for intentional reproductive marketing; the separate statutory elements retain their ordinary force.
 
-## E. DRAFTING DISCRETION
+#### E. DRAFTING DISCRETION
 
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
@@ -488,7 +488,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 Comparison material only. This section is not simulated law and does not control Stone. Introduce it only after provisional non-Stone commitments have been frozen.
 
-## A. HISTORICAL PROCEDURAL TREATMENT
+#### A. HISTORICAL PROCEDURAL TREATMENT
 
 - **Historical Stage:** Post-argument review.
 - **Historical Court Action:** Reversed and remanded.
@@ -496,20 +496,20 @@ Comparison material only. This section is not simulated law and does not control
 - **Historical Review Scope:** (1) Does the former § 2543 permit a qualifying farmer to produce and sell protected seed for planting beyond seed saved for the farmer’s own replanting? (2) How does the saved-seed construction affect the separately pleaded § 2541(6) notice claim?
 - **Difference from Simulated Review Scope:** The current instruction admits the identified historical controversy for reconstruction but does not adopt its result, opinion assignments, or votes. Any separately established simulated limitation controls.
 
-## B. HISTORICAL JUDGMENT AND VOTE
+#### B. HISTORICAL JUDGMENT AND VOTE
 
 - **Historical Judgment:** Reversed and remanded.
 - **Vote:** 8–1.
 - **Named Coalition:** Scalia, Rehnquist, O’Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer; Stevens dissented.
 - **Remedy / Remand:** The farmer-sales exemption was confined to seed saved for the farmer’s own replanting.
 
-## C. HISTORICAL OPINION TOPOLOGY
+#### C. HISTORICAL OPINION TOPOLOGY
 
 - **Opinion of the Court:** Scalia, joined by Rehnquist, O’Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer.
 - **Dissent:** Stevens.
 - **Other Writings / No-Majority Components:** None.
 
-## D. HISTORICAL HOLDINGS BY COMPONENT
+#### D. HISTORICAL HOLDINGS BY COMPONENT
 
 ### Component 1: Saved seed
 A farmer satisfying the proviso could sell for reproductive purposes only seed saved for replanting that farmer’s own acreage. Multiplication for marketing was not confined to a later advertising effort.
@@ -520,11 +520,11 @@ The Court construed the former statutory language governing the case rather than
 ### Scope of the notice claim
 The historical Supreme Court opinion identifies the pleaded § 2541(6) ground but does not supply an independent final finding of notice infringement. Its exemption construction does not itself determine a damages amount or establish every separate notice element.
 
-## E. HISTORICAL DECISIONAL PREMISES
+#### E. HISTORICAL DECISIONAL PREMISES
 
 **Majority:** The own-farm context of saved seed and the express reservation of § 2541(3) bounded the proviso. **Stevens:** The sales proviso did not expressly contain the majority’s quantity limitation; its occupational terms should govern without an added acreage restriction.
 
-## F. HISTORICAL SOURCES
+#### F. HISTORICAL SOURCES
 
 - [Asgrow Seed Co. v. Winterboer, 513 U.S. 179, 181–195 (1995)](https://supreme.justia.com/cases/federal/us/513/179/): historical majority, dissent, judgment, and statutory analysis.
 
@@ -562,7 +562,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -576,7 +576,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -587,7 +587,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -644,7 +644,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** Exclude Scalia; 8 participating Justices. The official report records this case-specific nonparticipation; no reason or vote is inferred.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -662,7 +662,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Consumer-fraud claims
 
@@ -678,17 +678,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Commerce Clause and Federalism.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Illinois cannot use general consumer law to impose its own substantive regulation on airline rates and services where Congress displaced that regulatory authority, but enforcing the bargain the airline voluntarily made does not constitute state prescription of airline policy.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** AFFIRM in part, REVERSE in part, and REMAND.
 - **Stone's Remedy and Remand Instruction:** The Illinois Consumer Fraud Act claims are preempted. The contract claims may proceed only to enforce the parties’ own undertaking, without enlarging it through state policy external to the agreement.
@@ -751,7 +751,7 @@ Illinois cannot use general consumer law to impose its own substantive regulatio
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -769,7 +769,7 @@ Illinois cannot use general consumer law to impose its own substantive regulatio
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -780,7 +780,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -837,7 +837,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-18. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -851,7 +851,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -862,7 +862,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -919,7 +919,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-23. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -938,7 +938,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -949,7 +949,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1006,7 +1006,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-23. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1022,7 +1022,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1033,17 +1033,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Equal opportunity and remedies.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Separate the original discrimination from the counterfactual remedial loss. Backpay and reinstatement must reflect their actual legal predicates. This prevents the equal-access project from turning into a windfall while preserving an enforceable prohibition.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** REVERSE the Sixth Circuit and REMAND.
 - **Stone's Remedy and Remand Instruction:** The district court shall adjudicate liability without using later-discovered misconduct as a defense to the challenged discharge, then tailor reinstatement, front pay, backpay, and other relief to the proven facts and statutory purposes.
@@ -1098,7 +1098,7 @@ Separate the original discrimination from the counterfactual remedial loss. Back
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-02-13. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1119,7 +1119,7 @@ Separate the original discrimination from the counterfactual remedial loss. Back
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 The enacted provisions and remaining pre-divergence authorities identified above apply only consistently with the operative simulated Casey or Shaw rule in the linked reading.
 <!-- END_SECTION I -->
@@ -1129,7 +1129,7 @@ The enacted provisions and remaining pre-divergence authorities identified above
 
 **Revalidation required:** The preserved source position invokes the historical Casey formulation. The operative simulated Casey has a controlling six-step framework, broader life-and-health safeguards, and no independent numerical facial-review threshold. No change in Stone’s expressed proposed disposition or new fallback is authorized by this consolidation. Align the formulation with the actual inherited rule before use.
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1194,7 +1194,7 @@ The enacted provisions and remaining pre-divergence authorities identified above
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-02-21. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1210,7 +1210,7 @@ The enacted provisions and remaining pre-divergence authorities identified above
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1221,17 +1221,17 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** First Amendment and expression.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Government cannot escape constitutional obligations merely by choosing a corporate form for an entity it created and controls in the relevant manner. This is an attribution decision, not a merits ruling approving the advertisement.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** REVERSE the Second Circuit and REMAND.
 - **Stone's Remedy and Remand Instruction:** The lower courts shall adjudicate Lebron’s First Amendment claim treating Amtrak as governmental for constitutional purposes; the Court makes no final merits ruling on the advertising display.
@@ -1286,7 +1286,7 @@ Government cannot escape constitutional obligations merely by choosing a corpora
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-02-21. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1301,7 +1301,7 @@ Government cannot escape constitutional obligations merely by choosing a corpora
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1312,7 +1312,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 

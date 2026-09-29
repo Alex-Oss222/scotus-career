@@ -296,7 +296,7 @@ For comparative theory, Stevens's [historical Adarand dissent](https://www.law.c
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-06-29. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -315,7 +315,7 @@ For comparative theory, Stevens's [historical Adarand dissent](https://www.law.c
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -328,7 +328,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Same-term premise control:** References below to a decision or rule in an earlier OT1994 matter are conditional on the Court actually adopting that proposition before this event. The referenced source positions are not Court holdings. If the premise fails, revalidate the affected reasoning and remedy; no new Stone choice is supplied.
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -385,7 +385,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-06-29. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -404,7 +404,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Viewpoint discrimination in the Capitol Rotunda forum
 
@@ -422,7 +422,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Same-term premise control:** References below to a decision or rule in an earlier OT1994 matter are conditional on the Court actually adopting that proposition before this event. The referenced source positions are not Court holdings. If the premise fails, revalidate the affected reasoning and remedy; no new Stone choice is supplied.
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 

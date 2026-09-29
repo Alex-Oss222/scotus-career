@@ -1,0 +1,8 @@
+{
+  "splitter": "numbered-case compatibility adapter",
+  "git_checks": "deferred; no Git subprocess executed",
+  "deferred_tokens": [
+    "ec1395dd"
+  ],
+  "output": "WARNINGS\n - terms\\OT1994\\records\\In_re_Baby_K_merits_1994-12-12.md: Git reference check DEFERRED, not verified: ec1395dd\nOK: OT1994; 1 warning(s)\nGit reference validation intentionally unperformed under user instruction.\n"
+}

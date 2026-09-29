@@ -1,0 +1,569 @@
+{
+  "scope": "OT1994 chunk 1 cases 1–4",
+  "events": [
+    {
+      "case": "United States v. Shabani",
+      "docket": "93-981",
+      "date": "1994-11-01",
+      "file": "United_States_v_Shabani_merits_1994-11-01.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "claimed_participant_count": 9,
+      "components": [
+        {
+          "component": "Reverse the overt-act ruling and remand for reserved appellate issues",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 9,
+            "opposition": 0,
+            "not_reached": 0,
+            "participants": 9
+          }
+        }
+      ],
+      "controlling_propositions": [
+        {
+          "proposition": "Section 846 requires neither allegation nor proof of an additional overt act; agreement and knowing participation remain required",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "O'Connor",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court",
+          "claimed_count": 9
+        }
+      ]
+    },
+    {
+      "case": "U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership",
+      "docket": "93-714",
+      "date": "1994-11-08",
+      "file": "US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_mootness_vacatur_1994-11-08.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "claimed_participant_count": 9,
+      "components": [
+        {
+          "component": "Deny vacatur of the Ninth Circuit judgment",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 9,
+            "opposition": 0,
+            "not_reached": 0,
+            "participants": 9
+          }
+        },
+        {
+          "component": "Dismiss the Supreme Court proceeding as moot",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 9,
+            "opposition": 0,
+            "not_reached": 0,
+            "participants": 9
+          }
+        }
+      ],
+      "controlling_propositions": [
+        {
+          "proposition": "Section 2106 permits proper disposition of a judgment lawfully under review after merits mootness",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Scalia",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court",
+          "claimed_count": 9
+        },
+        {
+          "proposition": "Voluntary settlement ordinarily does not justify vacatur absent a further equitable reason; no exceptional circumstance established here",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Scalia",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court",
+          "claimed_count": 9
+        }
+      ]
+    },
+    {
+      "case": "Hess v. Port Authority Trans-Hudson Corp., including Walsh",
+      "docket": "93-1197",
+      "date": "1994-11-14",
+      "file": "Hess_v_Port_Authority_Trans_Hudson_Corp_merits_1994-11-14.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "claimed_participant_count": 9,
+      "components": [
+        {
+          "component": "Reverse/remand Hess immunity dismissal",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 6,
+            "opposition": 3,
+            "not_reached": 0,
+            "participants": 9
+          }
+        },
+        {
+          "component": "Reverse/remand Walsh immunity dismissal",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 6,
+            "opposition": 3,
+            "not_reached": 0,
+            "participants": 9
+          }
+        }
+      ],
+      "controlling_propositions": [
+        {
+          "proposition": "PATH actual compact and financial structure does not confer States Eleventh Amendment immunity; treasury exposure highly probative but not exclusive",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Stevens",
+          "joins": [
+            "Stone-Zsela",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court",
+          "claimed_count": 6
+        }
+      ],
+      "separate_writings": [
+        {
+          "author": "O'Connor",
+          "joins": [
+            "Scalia",
+            "Thomas"
+          ],
+          "writing": "Dissent",
+          "support_count": 3
+        }
+      ]
+    },
+    {
+      "case": "United States v. X-Citement Video, Inc.",
+      "docket": "93-723",
+      "date": "1994-11-29",
+      "file": "United_States_v_X_Citement_Video_Inc_merits_1994-11-29.md",
+      "participants": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "claimed_participant_count": 9,
+      "components": [
+        {
+          "component": "Reverse facial-scienter invalidation under factual-knowledge construction",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 7,
+            "opposition": 2,
+            "not_reached": 0,
+            "participants": 9
+          }
+        },
+        {
+          "component": "Reject age-eighteen facial overbreadth defense",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [],
+          "not_reached": [
+            "Scalia",
+            "Thomas"
+          ],
+          "judgment_only": [
+            "Stone-Zsela"
+          ],
+          "claimed_count": {
+            "support": 7,
+            "opposition": 0,
+            "not_reached": 2,
+            "participants": 9
+          }
+        },
+        {
+          "component": "Reject lascivious-wording facial vagueness and overbreadth defense",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [],
+          "not_reached": [
+            "Scalia",
+            "Thomas"
+          ],
+          "judgment_only": [
+            "Stone-Zsela"
+          ],
+          "claimed_count": {
+            "support": 7,
+            "opposition": 0,
+            "not_reached": 2,
+            "participants": 9
+          }
+        },
+        {
+          "component": "Overall reversal/remand preserving unresolved indictment, tape-content and implementation questions",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposition": [
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": [],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 7,
+            "opposition": 2,
+            "not_reached": 0,
+            "participants": 9
+          }
+        },
+        {
+          "component": "Independent actual-or-simulated bestiality / sadistic-or-masochistic-abuse objection",
+          "support": [],
+          "opposition": [],
+          "not_reached": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "judgment_only": [],
+          "claimed_count": {
+            "support": 0,
+            "opposition": 0,
+            "not_reached": 9,
+            "participants": 9
+          }
+        }
+      ],
+      "controlling_propositions": [
+        {
+          "proposition": "Sections 2252(a)(1)-(2) require factual knowledge of minority and sexually explicit character, not statute or precise legal age definition",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Ginsburg",
+          "joins": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court, Part I",
+          "claimed_count": 7
+        },
+        {
+          "proposition": "Two renewed grounds are available defenses of the existing favorable judgment and are reached without greater relief",
+          "support": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Ginsburg",
+          "joins": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court, Part II",
+          "claimed_count": 6
+        },
+        {
+          "proposition": "Age-eighteen line does not establish asserted substantial facial overbreadth",
+          "support": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Ginsburg",
+          "joins": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court, Part III",
+          "claimed_count": 6
+        },
+        {
+          "proposition": "Substitution of lascivious within complete genital/pubic-exhibition category does not establish facial vagueness or substantial overbreadth",
+          "support": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": "Ginsburg",
+          "joins": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "writing": "Opinion of the Court, Part IV",
+          "claimed_count": 6
+        }
+      ],
+      "separate_writings": [
+        {
+          "author": "Scalia",
+          "joins": [
+            "Thomas"
+          ],
+          "writing": "Dissent",
+          "support_count": 2
+        }
+      ],
+      "remedial_opinion": {
+        "author": "Ginsburg",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Breyer"
+        ],
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "writing": "Opinion of the Court, Part V",
+        "claimed_count": 7
+      },
+      "fallback_components": [
+        "Age-eighteen alternative rejection disposition only",
+        "Lascivious-wording alternative rejection disposition only",
+        "Any separately charged conspiracy count implementation: bounded remand only, no distinct substantive conspiracy ground"
+      ]
+    }
+  ]
+}

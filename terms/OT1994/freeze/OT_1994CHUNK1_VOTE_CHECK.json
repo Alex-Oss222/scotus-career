@@ -1,0 +1,83 @@
+{
+  "checked": [
+    {
+      "case": "United States v. Shabani",
+      "participants": 9,
+      "components": 1,
+      "holdings": 1,
+      "writing_entries_checked": 1
+    },
+    {
+      "case": "U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership",
+      "participants": 9,
+      "components": 2,
+      "holdings": 2,
+      "writing_entries_checked": 2
+    },
+    {
+      "case": "Hess v. Port Authority Trans-Hudson Corp., including Walsh",
+      "participants": 9,
+      "components": 2,
+      "holdings": 1,
+      "writing_entries_checked": 2
+    },
+    {
+      "case": "United States v. X-Citement Video, Inc.",
+      "participants": 9,
+      "components": 5,
+      "holdings": 4,
+      "writing_entries_checked": 6
+    },
+    {
+      "case": "Church of Scientology Flag Service Organization, Inc. v. City of Clearwater",
+      "participants": 9,
+      "components": 4,
+      "holdings": 1,
+      "writing_entries_checked": 2
+    },
+    {
+      "case": "Federal Election Commission v. NRA Political Victory Fund",
+      "participants": 8,
+      "components": 2,
+      "holdings": 2,
+      "writing_entries_checked": 3
+    },
+    {
+      "case": "Reich v. Collins",
+      "participants": 9,
+      "components": 2,
+      "holdings": 1,
+      "writing_entries_checked": 1
+    },
+    {
+      "case": "Brown v. Gardner",
+      "participants": 9,
+      "components": 3,
+      "holdings": 1,
+      "writing_entries_checked": 2
+    },
+    {
+      "case": "Nebraska Department of Revenue v. Loewenstein",
+      "participants": 9,
+      "components": 4,
+      "holdings": 3,
+      "writing_entries_checked": 4
+    },
+    {
+      "case": "In re Baby K",
+      "participants": 9,
+      "components": 4,
+      "holdings": 5,
+      "writing_entries_checked": 6
+    },
+    {
+      "case": "Plakas v. Drinski",
+      "participants": 9,
+      "components": 2,
+      "holdings": 2,
+      "writing_entries_checked": 4
+    }
+  ],
+  "errors": [],
+  "scope": "Counts and sets only. Legal support and consistency with the Records are independently reviewed."
+}

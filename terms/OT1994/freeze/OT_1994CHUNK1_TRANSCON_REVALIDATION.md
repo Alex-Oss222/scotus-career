@@ -1,0 +1,15 @@
+# Transcon — Stone revalidation required
+
+**Status:** Stopped before adjudicative assembly under Engine §4. No Transcon Canonical Decision Record, final Stone vote, assignment or opinion topology has been created.
+
+The approved Section II fixes reversal and an open remand requiring consideration of the ICC request under the actual credit regulations and enforcement statute, testing bills and timing and confining any injunction to established violations. Its drafting clause permits only ordinary nonsubstantive formulation and supplies no conditional branch governing a changed record.
+
+The clean neutral refresh newly establishes two bounded concessions: the challenged collection violates the credit regulations (reported Brief in Opposition, pages 4–5), and the requested restraint concerns loss-of-discount liquidated damages (reported argument transcript, page 24). The specified defects are omitted original §1320.3(c) notice, revised billing years later rather than within ninety days after authorized-credit expiration, and prohibited aggregation of past-shipment balance-due demands. These facts do not concede statutory authority, appropriateness of an injunction, all amounts, all exceptions or an independent contractual collection route.
+
+All eight non-Stone Justices, after clean independent refresh and historical reconciliation, support statutory authority and an affirmative finding that a confined injunction is appropriate for this admitted penalty class. They would reverse and remand for implementation, allowing genuine scope/inclusion/amount questions beyond the admissions but not reopening the conceded violation or charge character. Ordinary unpaid freight principal and all estate receivables are not restrained. The chronology confirmation leaves those commitments unchanged.
+
+**Exact blocker:** A newly verified material factual premise affects the approved remedial formulation. Stone's fixed open-consideration remand cannot be changed to directed implementation, or represented as knowingly retained after the concessions, without renewed user approval. Engine §4 requires revalidation; no silence, expired waiting period or generalized agreement on reversal supplies it.
+
+The root has presented two reviewable choices to the user: retain the approved consideration remand with awareness of the concessions, producing a possible narrower remedial disagreement; or approve the confined implementation remedy for the admitted unlawful liquidated-damages class while preserving genuine questions beyond the concessions. Either choice must retain the actual statutory authority, the regulatory exceptions and the excluded freight principal. Additional wording from the user controls if supplied.
+
+Sources: the preserved original and refreshed neutral/commitment handoffs, final reconciliation, chronology confirmation, and approved scoped Stone C supplement. Original complete briefs and transcript were not independently retrieved by this assembly; the concessions are accepted at the source operator's verified bounded scope. No historical vote or authorship controls the remaining Stone choice. No Git command was run.

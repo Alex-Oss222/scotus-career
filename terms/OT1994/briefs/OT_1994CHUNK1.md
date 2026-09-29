@@ -31,7 +31,7 @@
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-11-01. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -45,7 +45,7 @@
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -56,7 +56,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -90,7 +90,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION I -->
 ### SECTION I — NEUTRAL MODELING PACKET
 
-## A. DECISIONAL HEADER
+#### A. DECISIONAL HEADER
 
 - **Case Name:** U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership
 - **Citation or Docket:** 513 U.S. 18; No. 93-714.
@@ -107,7 +107,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Neutral Source Status:** CONDITIONALLY SUFFICIENT.
 - **Historical Comparator Available:** Yes, separately quarantined in Section III.
 
-## B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
+#### B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
 
 ### 1. Current procedural stage
 
@@ -138,7 +138,7 @@ No case-specific completed simulated grant or merits Decision Record for this ma
 
 The operative controversy concerns appellate authority and equitable vacatur after consensual mootness. It does not permit an advisory answer to the original bankruptcy question. Any actual conflicting historical grant limitation must be reconciled before adjudication, not silently ignored.
 
-## C. RECORD, FACT STATUS, AND POSTURE
+#### C. RECORD, FACT STATUS, AND POSTURE
 
 ### 1. Court and judgment below
 
@@ -173,7 +173,7 @@ The Ninth Circuit ruled on August 4, 1993. Historical review was granted January
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-11-08. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -187,7 +187,7 @@ The Ninth Circuit ruled on August 4, 1993. Historical review was granted January
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
-## Other governing law
+#### Other governing law
 
 - **Article III and 28 U.S.C. § 2106:** Mootness ends power to adjudicate substantive bankruptcy rights. Section 2106 separately authorizes an appellate court to affirm, modify, vacate, set aside, reverse, or remand judgments lawfully brought before it; it does not command vacatur whenever a dispute becomes moot.
 
@@ -197,7 +197,7 @@ Uncoordinated same-day decisions share the same entering-law baseline.
 
 - **Equitable allocation:** The applicant must justify the requested extraordinary alteration of an existing judgment. Voluntary causation, the availability of review, and the public interest in adjudicated law bear on that justification; no special numerical proof standard is supplied.
 
-## E. ISSUE-BY-ISSUE LITIGATION POSITIONS
+#### E. ISSUE-BY-ISSUE LITIGATION POSITIONS
 
 ### Issue 1: Mootness, residual authority, and equitable vacatur
 
@@ -235,7 +235,7 @@ Mootness cannot eliminate all power to dispose of the case; otherwise even the o
 
 The United States appeared as amicus supporting Bancorp on vacatur; the historical divided-argument order is 511 U.S. 1140 (June 6, 1994). No broader bankruptcy position is attributed to it in this post-mootness event.
 
-## F. LAWFUL JUDGMENT AND REMEDY PATHS
+#### F. LAWFUL JUDGMENT AND REMEDY PATHS
 
 ### Path A: Dismiss without vacatur
 
@@ -267,7 +267,7 @@ The United States appeared as amicus supporting Bancorp on vacatur; the historic
 - **Remedy / Remand:** No merits order or advisory bankruptcy ruling.
 - **Question Left Open:** The equitable standard need not be reached.
 
-## G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
+#### G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
 
 ### 1. Source-completeness status
 
@@ -281,7 +281,7 @@ The complete settlement and vacatur briefs are not separately recovered. The Mar
 
 The packet supports deciding residual authority, voluntary-mootness vacatur, and dismissal. It does not support deciding an unverified exceptional settlement circumstance or reviving the bankruptcy merits. 
 
-## H. NEUTRAL SOURCES
+#### H. NEUTRAL SOURCES
 
 - [In re Bonner Mall Partnership, 2 F.3d 899, 902–917 (9th Cir. 1993)](https://law.justia.com/cases/federal/appellate-courts/F3/2/899/616218/): facts, judgment below, and former bankruptcy controversy.
 - [U.S. Bancorp, 511 U.S. 1002–1003 (Mar. 28, 1994)](https://www.leagle.com/decision/511186168us100249): predecision order identifying the suggestion of mootness and directing briefing on vacatur.
@@ -294,7 +294,7 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## A. APPROVAL AND SCOPE
+#### A. APPROVAL AND SCOPE
 
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
@@ -304,7 +304,7 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** Izumi supplies no controlling settlement-vacatur merits rule; its Stevens-Blackmun vacatur discussion is noncontrolling. The proposed Bancorp disposition therefore must stand on § 2106, Munsingwear/Karcher, and equitable allocation, not on an invented prior simulated holding.
 
-## B. FIXED CORE
+#### B. FIXED CORE
 
 ### Overall fixed core
 
@@ -317,14 +317,14 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 
 These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
-## C. JUDGMENT AND REMEDY BY COMPONENT
+#### C. JUDGMENT AND REMEDY BY COMPONENT
 
 ### Component 1: Judgment under review
 
 - **Stone’s Controlled Judgment / Disposition:** DENY the motion to vacate and DISMISS the case as moot.
 - **Stone’s Remedy / Remand Position:** Leave the Ninth Circuit judgment undisturbed without endorsing its merits. Enter no decision on the new-value exception and no settlement-enforcement order.
 
-## D. ISSUE POSITIONS
+#### D. ISSUE POSITIONS
 
 ### Issue 1: Mootness, residual authority, and equitable vacatur
 
@@ -338,7 +338,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Answer:** The Court retains authority under § 2106 to determine the disposition of a judgment after the underlying controversy becomes moot. Settlement voluntarily accepted by the party seeking vacatur does not ordinarily justify vacatur; the movant has identified no exceptional circumstance here. Deny vacatur and dismiss the case as moot. Reserve genuinely exceptional settlement circumstances and mootness attributable to events outside the movant’s choice. Decide neither bankruptcy priority nor the merits of the former reorganization plan.
 - **Boundary / Reserved Question:** Reserve genuinely exceptional settlement circumstances and mootness attributable to events outside the movant’s choice. Decide neither bankruptcy priority nor the merits of the former reorganization plan.
 
-## E. DRAFTING DISCRETION
+#### E. DRAFTING DISCRETION
 
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
@@ -348,7 +348,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 Comparison material only. This section is not simulated law and does not control Stone. Introduce it only after provisional non-Stone commitments have been frozen.
 
-## A. HISTORICAL PROCEDURAL TREATMENT
+#### A. HISTORICAL PROCEDURAL TREATMENT
 
 - **Historical Stage:** Post-argument review.
 - **Historical Court Action:** Motion to vacate denied; case dismissed as moot.
@@ -356,20 +356,20 @@ Comparison material only. This section is not simulated law and does not control
 - **Historical Review Scope:** (1) Does settlement-caused mootness require or justify vacating the judgment under review?
 - **Difference from Simulated Review Scope:** The current instruction admits the identified historical controversy for reconstruction but does not adopt its result, opinion assignments, or votes. Any separately established simulated limitation controls.
 
-## B. HISTORICAL JUDGMENT AND VOTE
+#### B. HISTORICAL JUDGMENT AND VOTE
 
 - **Historical Judgment:** Motion to vacate denied; case dismissed as moot.
 - **Vote:** 9–0.
 - **Named Coalition:** Rehnquist, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer.
 - **Remedy / Remand:** The adverse appellate judgment was not vacated; no bankruptcy merits decision was entered.
 
-## C. HISTORICAL OPINION TOPOLOGY
+#### C. HISTORICAL OPINION TOPOLOGY
 
 - **Opinion of the Court:** Scalia, unanimous.
 - **Partial Joins / Concurrences / Dissents:** None.
 - **No-Majority Components:** None.
 
-## D. HISTORICAL HOLDINGS BY COMPONENT
+#### D. HISTORICAL HOLDINGS BY COMPONENT
 
 ### Component 1: Power
 Section 2106 permits an appropriate disposition after mootness; Article III does not forbid addressing the motion to vacate.
@@ -377,11 +377,11 @@ Section 2106 permits an appropriate disposition after mootness; Article III does
 ### Component 2: Equitable entitlement
 Settlement does not ordinarily justify vacatur because the losing party voluntarily surrendered review. Exceptional circumstances remain possible, but an agreement to vacate is not enough. The motion failed on the circumstances presented.
 
-## E. HISTORICAL DECISIONAL PREMISES
+#### E. HISTORICAL DECISIONAL PREMISES
 
 **Unanimous Court:** The dispositive premises were voluntary causation of mootness, the continued availability of review before settlement, and the public character of judicial judgments. The Court distinguished a loss of review through happenstance from a deliberate choice to settle.
 
-## F. HISTORICAL SOURCES
+#### F. HISTORICAL SOURCES
 
 - [U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, 513 U.S. 18, 20–29 (1994)](https://supreme.justia.com/cases/federal/us/513/18/): historical outcome, opinion, operative rule, and reservations.
 
@@ -419,7 +419,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-11-14. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -434,7 +434,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -445,19 +445,19 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Position and scope
+#### Position and scope
 
 **Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Commerce Clause and Federalism.
 
-## Case-specific reasoning
+#### Case-specific reasoning
 
 Identify the entity's actual legal relationship to the states and responsibility for its debts. A governmental connection is not enough to make every public corporation an arm of the state. Keep this institutional-status inquiry separate from Congress's power to abrogate immunity where immunity otherwise exists.
 
 Do not ask merely whether the entity was created by States or performs a public function; ask about separate legal identity, treasury responsibility, control, assets, debts, authority to sue and contract, fiscal independence, and the practical source from which judgments will be paid.
 
-## Disposition, application and preserved limits
+#### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** REVERSE the Third Circuit and REMAND.
 - **Stone's Remedy and Remand Instruction:** The FELA actions may proceed against PATH in federal court, subject to ordinary defenses and merits adjudication.
@@ -512,7 +512,7 @@ Do not ask merely whether the entity was created by States or performs a public 
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-11-29. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -527,7 +527,7 @@ Do not ask merely whether the entity was created by States or performs a public 
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -538,7 +538,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -595,7 +595,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-12-05. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -615,7 +615,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Religious Freedom Restoration Act
 
@@ -644,7 +644,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -725,7 +725,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** Exclude Ginsburg; 8 participating Justices. The official report records this case-specific nonparticipation; no reason or vote is inferred.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-12-06. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -739,7 +739,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Independent litigating authority
 
@@ -757,7 +757,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -822,7 +822,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-12-06. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -837,7 +837,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -848,7 +848,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -905,7 +905,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-12-12. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -921,7 +921,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -932,7 +932,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -989,7 +989,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-12-12. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1003,7 +1003,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Merits
 
@@ -1014,7 +1014,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1071,7 +1071,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1994-12-12. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1086,7 +1086,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: EMTALA stabilization duty
 
@@ -1104,7 +1104,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1169,7 +1169,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-09. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1184,7 +1184,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 Uncoordinated same-day events share the entering baseline. Where the manifest expressly sequences a dependency, verify the earlier event’s actual effective decision; file order alone creates no law.
 
-## Other governing law
+#### Other governing law
 
 ### Issue 1: Individual officer liability
 
@@ -1200,7 +1200,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## Approval and scope
+#### Approval and scope
 
 **Approval Status:** APPROVED IN SUPPLIED SOURCE. The existing approval label is preserved; consolidation supplies no new approval, vote or Court holding. Revalidate only against the actual event-date record, lawful scope and effective law.
 
@@ -1242,7 +1242,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION I -->
 ### SECTION I — NEUTRAL MODELING PACKET
 
-## A. DECISIONAL HEADER
+#### A. DECISIONAL HEADER
 
 - **Case Name:** Interstate Commerce Commission v. Transcon Lines
 - **Citation or Docket:** 513 U.S. 138; No. 93-1318.
@@ -1259,7 +1259,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Neutral Source Status:** CONDITIONALLY SUFFICIENT.
 - **Historical Comparator Available:** Yes, separately quarantined in Section III.
 
-## B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
+#### B. PROCEDURAL LINEAGE AND REVIEW AUTHORITY
 
 ### 1. Current procedural stage
 
@@ -1290,7 +1290,7 @@ No case-specific completed simulated grant or merits Decision Record for this ma
 
 Review is limited to the issues stated above, necessary antecedents, and the remedy needed to dispose of the reviewed judgment. The historical comparator cannot enlarge that scope. Any actual conflicting historical grant limitation must be reconciled before adjudication, not silently ignored.
 
-## C. RECORD, FACT STATUS, AND POSTURE
+#### C. RECORD, FACT STATUS, AND POSTURE
 
 ### 1. Court and judgment below
 
@@ -1325,7 +1325,7 @@ The initial appellate opinion was reconsidered after intervening proceedings; th
 **Participation:** No case-specific nonparticipation is established in the supplied and checked records. Nine-member roster; reassess only upon an established participation fact.
 
 
-## Entering law and event dependencies
+#### Entering law and event dependencies
 
 **Event cutoff:** Immediately before 1995-01-10. Use the completed OT1993 current-law trackers, incorporating all 95 matters through June 30, 1994: [Holdings](../../../state/HOLDINGS.md) and [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md). The Court’s setting follows [Standing State](../../../state/STANDING_STATE.md) and [Court Composition](../../../foundation/COURT_COMPOSITION.md).
 
@@ -1339,7 +1339,7 @@ The initial appellate opinion was reconsidered after intervening proceedings; th
 
 Uncoordinated same-day decisions share the same entering-law baseline.
 
-## Other governing law
+#### Other governing law
 
 - **49 U.S.C. §§ 10743(b)(1), 10761, 10762, and 11702(a)(4), in the applicable pre-reform version:** The statute both requires adherence to filed tariffs and delegates regulation of credit, with an express judicial enforcement channel for the ICC. Read those commands together rather than assume one silently repeals another.
 
@@ -1351,7 +1351,7 @@ Uncoordinated same-day decisions share the same entering-law baseline.
 
 - **Review and proof:** Statutory authority and the interaction of filed-rate and credit provisions are legal questions. The ICC must establish the regulatory violation and entitlement to the injunction it seeks; the existence of the bankruptcy and a collection demand is not itself proof of either.
 
-## E. ISSUE-BY-ISSUE LITIGATION POSITIONS
+#### E. ISSUE-BY-ISSUE LITIGATION POSITIONS
 
 ### Issue 1: Credit-rule enforcement and the filed-rate obligation
 
@@ -1389,7 +1389,7 @@ The trustee’s reading would deprive the credit delegation of practical force a
 
 No separately recovered amicus submission is used to attribute an additional party position. The sourced arguments above do not depend on an assumed concession or an unrecovered filing.
 
-## F. LAWFUL JUDGMENT AND REMEDY PATHS
+#### F. LAWFUL JUDGMENT AND REMEDY PATHS
 
 ### Path A: Public enforcement available
 
@@ -1411,7 +1411,7 @@ No separately recovered amicus submission is used to attribute an additional par
 - **Remedy / Remand:** Other authorized sanctions remain available, but no collection injunction on this theory.
 - **Question Left Open:** Other statutory defenses or sanctions.
 
-## G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
+#### G. SOURCE COMPLETENESS, UNCERTAINTY, AND BLOCKERS
 
 ### 1. Source-completeness status
 
@@ -1425,7 +1425,7 @@ The complete petition, opposition, joint appendix, and verbatim simulated grant 
 
 The legal bar to the Commission’s injunction can be decided. Particular debts can be restrained only on the corresponding billing and notice record. 
 
-## H. NEUTRAL SOURCES
+#### H. NEUTRAL SOURCES
 
 - [ICC v. Transcon Lines, 9 F.3d 64 (9th Cir. 1993)](https://law.justia.com/cases/federal/appellate-courts/F3/9/64/540228/): judgment under review and filed-rate reasoning.
 - [ICC v. Transcon Lines, 990 F.2d 1503 (9th Cir. 1993)](https://law.resource.org/pub/us/case/reporter/F2/990/990.F2d.1503.92-55036.html): collection program, credit rules, parties’ claims, and earlier procedural stages.
@@ -1438,7 +1438,7 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-## A. APPROVAL AND SCOPE
+#### A. APPROVAL AND SCOPE
 
 
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
@@ -1448,7 +1448,7 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** MCI is now effective simulated law and strengthens the source-bound agency analysis: an agency cannot erase a statutory command, but neither may a court erase an independently conferred enforcement power. The proposed Transcon result remains supportable on that distinction.
 
-## B. FIXED CORE
+#### B. FIXED CORE
 
 ### Overall fixed core
 
@@ -1461,14 +1461,14 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 
 These are approved Stone character inputs. They do not state or predetermine the Court's judgment. Assembly may not alter them without renewed user approval.
 
-## C. JUDGMENT AND REMEDY BY COMPONENT
+#### C. JUDGMENT AND REMEDY BY COMPONENT
 
 ### Component 1: Judgment under review
 
 - **Stone’s Controlled Judgment / Disposition:** REVERSE the Ninth Circuit’s judgment and REMAND.
 - **Stone’s Remedy / Remand Position:** Require consideration of the ICC’s request under the actual credit regulations and enforcement statute. Confine any injunction to collections established to violate them; do not cancel the estate’s receivables wholesale.
 
-## D. ISSUE POSITIONS
+#### D. ISSUE POSITIONS
 
 ### Issue 1: Credit-rule enforcement and the filed-rate obligation
 
@@ -1482,7 +1482,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Stone’s Answer:** The ICC may invoke its statutory enforcement authority to enjoin collection that violates valid credit regulations. The filed-rate rule does not categorically defeat such an injunction. Reverse and remand for application to the collections actually subject to the regulatory requirements. Do not announce a general shipper defense, forgive every tariff undercharge, or apply later transportation reforms retroactively. No conclusion follows concerning independent bankruptcy or contract defenses.
 - **Boundary / Reserved Question:** Do not announce a general shipper defense, forgive every tariff undercharge, or apply later transportation reforms retroactively. No conclusion follows concerning independent bankruptcy or contract defenses.
 
-## E. DRAFTING DISCRETION
+#### E. DRAFTING DISCRETION
 
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
@@ -1492,7 +1492,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 Comparison material only. This section is not simulated law and does not control Stone. Introduce it only after provisional non-Stone commitments have been frozen.
 
-## A. HISTORICAL PROCEDURAL TREATMENT
+#### A. HISTORICAL PROCEDURAL TREATMENT
 
 - **Historical Stage:** Post-argument review.
 - **Historical Court Action:** Reversed and remanded.
@@ -1500,20 +1500,20 @@ Comparison material only. This section is not simulated law and does not control
 - **Historical Review Scope:** (1) May the ICC enjoin collection of tariff charges when the collection violates credit regulations adopted under express statutory authority?
 - **Difference from Simulated Review Scope:** The current instruction admits the identified historical controversy for reconstruction but does not adopt its result, opinion assignments, or votes. Any separately established simulated limitation controls.
 
-## B. HISTORICAL JUDGMENT AND VOTE
+#### B. HISTORICAL JUDGMENT AND VOTE
 
 - **Historical Judgment:** Reversed and remanded.
 - **Vote:** 9–0.
 - **Named Coalition:** All nine historical Justices.
 - **Remedy / Remand:** The categorical filed-rate obstacle to the ICC’s enforcement injunction was rejected.
 
-## C. HISTORICAL OPINION TOPOLOGY
+#### C. HISTORICAL OPINION TOPOLOGY
 
 - **Opinion of the Court:** Kennedy, unanimous.
 - **Separate Writings / Partial Joins:** None.
 - **No-Majority Components:** None.
 
-## D. HISTORICAL HOLDINGS BY COMPONENT
+#### D. HISTORICAL HOLDINGS BY COMPONENT
 
 ### Component 1: Statutory enforcement
 The ICC could seek an injunction against collection violating its credit regulations. The filed-rate doctrine did not override the express credit delegation.
@@ -1521,11 +1521,11 @@ The ICC could seek an injunction against collection violating its credit regulat
 ### Component 2: Precedent boundary
 Commercial Metals’ rejection of a private defense did not eliminate the Commission’s distinct enforcement remedy; Maislin did not authorize disregard of valid credit regulation.
 
-## E. HISTORICAL DECISIONAL PREMISES
+#### E. HISTORICAL DECISIONAL PREMISES
 
 **Unanimous Court:** Express authority over credit terms, the public rather than private enforcement posture, and the distinction between changing a tariff and enforcing a valid collection condition supported the result.
 
-## F. HISTORICAL SOURCES
+#### F. HISTORICAL SOURCES
 
 - [ICC v. Transcon Lines, 513 U.S. 138, 141–147 (1995)](https://www.law.cornell.edu/supremecourt/text/513/138): historical disposition, reasoning, and unanimous authorship.
 

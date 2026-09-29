@@ -1,0 +1,9 @@
+{
+  "inventory_rows": 99,
+  "manifest_rows": 99,
+  "completed_chunk1": 11,
+  "local_links_checked": 145,
+  "local_anchors_checked": 37,
+  "errors": [],
+  "external_sources": "Source retrieval recorded in research handoffs; this test checks local navigation only."
+}

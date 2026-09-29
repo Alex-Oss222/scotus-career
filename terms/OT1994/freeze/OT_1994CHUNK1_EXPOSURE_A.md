@@ -1,0 +1,5 @@
+# OT1994 chunk 1 ? preflight A exposure disclosure
+
+During exact-citation web searches intended to retrieve the lower judgments, search results unsolicitedly displayed same-case Supreme Court outcome, lineup and rationale for Shabani, Hess and X-Citement. The operator did not open those merits opinions. Later broad searches also displayed post-cutoff treatments of those matters. No commitment was produced. Bancorp research did not expose its same-case Supreme Court outcome.
+
+The companion PREFLIGHT_A file is a source-fact and date-eligible-authority digest only. Its contents require fresh clean preflight framing/completeness review, followed by fresh independent modeling. Do not pass this disclosure's substance to those contexts. Source facts were verified against downloaded CAP primary judicial texts and already public prior-term output; exposed snippets were not sources for the digest. No Git command was used. No brief, Stone supplement, comparator, raw decision record or audit annex was opened.

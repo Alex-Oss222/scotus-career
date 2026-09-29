@@ -1,0 +1,564 @@
+[
+  {
+    "case": "Nebraska Department of Revenue v. Loewenstein",
+    "file": "Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md",
+    "components": [
+      {
+        "component": "Section 3124 exemption for reviewed repo income",
+        "disposition": "Reverse",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "State court shall uphold the tax as applied to this income and conduct consistent remaining proceedings."
+      },
+      {
+        "component": "Discrimination objection",
+        "disposition": "Reject as supported here",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "No identified favorable state/local repo policy supports invalidation."
+      },
+      {
+        "component": "Federal-borrowing objection",
+        "disposition": "Reject",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "Eight Justices adopt the stated ground; Stone-Zsela agrees in disposition only."
+      },
+      {
+        "component": "Separate Seller-Borrower add-back issue",
+        "disposition": "Leave undecided",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "No construction, assessment, validity ruling, refund or recomputation; Stone-Zsela agrees in nonreach only."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The private repo return is outside the federal-obligation exemption",
+        "rule": "Section 3124(a) does not exempt the return on these repurchase agreements because it is owed under a separate private financing obligation, rather than on the United States' securities; actual book-entry delivery does not change the source of the negotiated earnings. The statute continues to protect direct and indirect taxation of federal obligations and their interest, except nondiscriminatory corporate franchise or substitute corporate nonproperty taxes and estate or inheritance taxes; the State prevails because this income is outside the protected subject, not because an exception covers this individual income tax.",
+        "author": "Stevens",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "explanation": "The Court holds that the obligation producing the taxed return controls. Rockford distinguishes the Government's payment obligation from a private obligation supported by federal credit, and Smith v. Davis supplies the same direct-obligation boundary. Here the Trusts advance cash for a privately negotiated return unrelated to Treasury yield. The Trusts transmit the issuer's payments to the Seller-Borrower; the Seller-Borrower maintains collateral under the margin provisions; and the Trusts retain recourse for a deficiency after default liquidation. Those arrangements identify secured financing for this exemption even though securities actually passed through the Federal Reserve system and no separate note was signed. Frank Lyon respects genuine business arrangements; it does not determine whether the Government owes these particular earnings. The State therefore may tax the private return. The removal of surplus language during recodification did not abolish indirect-tax protection. The Court decides neither repo ownership under other bodies of law nor a transaction conveying genuine beneficial ownership and federal coupon income.",
+        "precedents": [
+          "Rockford Life Insurance Co. v. Illinois Department of Revenue, 482 U.S. 182 (1987): applies its distinction between an actual federal obligation and separate private earnings; its GNMA facts are not substituted for these delivered federal securities.",
+          "Smith v. Davis, 323 U.S. 111 (1944): applies the boundary between the Government's own direct obligation and a separate private obligation supported by federal assets or credit.",
+          "Frank Lyon Co. v. United States, 435 U.S. 561 (1978): distinguishes respect for a genuine transaction's form from identifying the obligation producing income under §3124; no sham or universal form-disregard rule is adopted.",
+          "American Bank & Trust Co. v. Dallas County, 463 U.S. 855 (1983), and First National Bank of Atlanta v. Bartow County Board of Tax Assessors, 470 U.S. 583 (1985): preserve protection when the tax computation actually reaches protected obligations or their income; neither classifies this private repo return."
+        ],
+        "limits": "Subsection (b) sends the tax status of interest on Government or agency obligations, income from evidences of ownership, and disposition gain or loss to the Internal Revenue Code. An obligation that the Federal Housing Administration agreed, under a contract made before March 1, 1941, to issue at a future date retains the tax-exemption privileges provided by the authorizing law at the time of that contract. Subsection (b) does not apply to obligations and evidences of ownership issued by the District of Columbia, a territory or possession, or their departments, agencies, instrumentalities or political subdivisions; it does not erase subsection (a). No separate construction, application or validity ruling concerning a Seller-Borrower's §77-2716(1)(e)(i) add-back is made."
+      },
+      {
+        "holding": "The asserted discrimination lacks a supported comparator policy",
+        "rule": "A ruling that expressly addresses federal-obligation repos does not, without an identified favorable policy for comparable state or local repos, establish the discriminatory taxation alleged here. The discrimination objection therefore supplies no ground to invalidate Revenue Ruling 22-85-1 on this record; the Court does not approve actual discriminatory treatment or find every Nebraska practice neutral.",
+        "author": "Stevens",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "explanation": "The Court holds that the taxpayer's comparison must concern an actual difference in treatment. Memphis Bank forbids favoring state obligations over protected federal obligations; that protection remains intact. But the taxpayer identifies no statute, ruling or other Nebraska policy exempting the return on otherwise comparable state-obligation repurchase agreements. Revenue Ruling 22-85-1 names federal transactions because those transactions are its subject. That choice of subject does not itself establish the asserted favored comparator. Nor does the private character of the repo return alone answer the separate constitutional contention: the Court examines the alleged discrimination independently. The strongest objection is that singling out federal instruments might conceal unequal treatment. The present materials do not establish the other side of that comparison, and the Court cannot supply an exemption that has not been identified. A claim supported by an actual disparate policy remains for another case. This conclusion resolves only the objection offered to sustain the reviewed judgment.",
+        "precedents": [
+          "Memphis Bank & Trust Co. v. Garner, 459 U.S. 392 (1983): preserves the prohibition of actual discriminatory taxation favoring state obligations; an unproved comparator policy does not establish its predicate."
+        ],
+        "limits": ""
+      },
+      {
+        "holding": "The borrowing-power objection is not established by evidence about bankruptcy classification",
+        "rule": "The constitutional borrowing-power objection fails because the supplied evidence concerning the effects of classifying repos in bankruptcy does not establish the asserted tax-specific burden on federal borrowing. Rockford's exclusion of remote or conjectural impairment applies without a finding that taxation can never affect borrowing or a numerical threshold for permissible effects.",
+        "author": "Stevens",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 8,
+        "explanation": "The Court holds that the claimed impairment must rest on evidence addressing the challenged tax. Rockford denies immunity based merely on a private instrument's contribution to federal financing and requires more than a remote or conjectural burden. The Sternlight affidavit describes losses of liquidity, flexibility or institutional availability if repos receive a different legal characterization in bankruptcy and related settings. The 1984 letter likewise confines its endorsement of purchase-and-sale treatment to bankruptcy, and the reported Federal Reserve Bank brief distinguishes that issue from taxation of repo income. These sources establish why classification can matter; they do not establish that this individual income tax causes the asserted financing losses. The Court considers the practical importance of repo markets but cannot transfer an evidentiary conclusion from one legal change to another. The taxpayer therefore has not supplied a constitutional ground for preserving the exemption. A differently supported claim concerning an actual tax burden on borrowing remains open.",
+        "precedents": [
+          "Rockford Life Insurance Co. v. Illinois Department of Revenue, 482 U.S. 182 (1987): applies the limit on remote or conjectural impairment of federal borrowing; it creates no rule that every market effect is irrelevant."
+        ],
+        "limits": ""
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Opinion of the Court",
+        "author": "Stevens",
+        "joins": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "scope": "All nine join the statutory-income and discrimination portions. O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join the borrowing-power portion; Stone-Zsela joins only its disposition. All agree to leave the separate add-back issue undecided; Stone-Zsela adds no ground on that issue."
+      }
+    ],
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "nonparticipants": [],
+    "participant_count": 9
+  },
+  {
+    "case": "In re Baby K",
+    "file": "In_re_Baby_K_merits_1994-12-12.md",
+    "components": [
+      {
+        "component": "Acute respiratory stabilization and four statutory objections",
+        "disposition": "Affirm",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "Provide necessary stabilization within available staff and facilities or appropriate statutory transfer; no general continuing-care command."
+      },
+      {
+        "component": "Appropriate-transfer alternative",
+        "disposition": "Affirm with statutory route retained",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "No present certification and accepting facility; a future compliant transfer remains permitted."
+      },
+      {
+        "component": "Informed-refusal compliance and receiving-hospital branch",
+        "disposition": "Affirm at conditional scope",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "All predicates remain; Stone-Zsela agrees in disposition and adds no ground on these two branches."
+      },
+      {
+        "component": "State-law objection",
+        "disposition": "Affirm conditional direct-conflict treatment",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "Compatible state law survives; the adult-directive provision supplies no infant exemption."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The acute respiratory emergency triggers stabilization or lawful transfer",
+        "rule": "When a participating hospital determines that an individual has an emergency respiratory condition, §1395dd(b)(1) requires the examination and treatment within its available staff and facilities necessary to prevent likely material deterioration, within reasonable medical probability, resulting from or during transfer, or transfer complying with subsection (c). Inability to cure the patient's underlying anencephaly, an ethical or medical objection to continued life support, uniform withholding from comparable anencephalic patients, and the hospital's lack of an intention to transfer do not excuse this duty where the acute emergency and effective stabilizing capability are established.",
+        "author": "Ginsburg",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "explanation": "The Court holds that the immediate respiratory emergency is the condition to be stabilized. Section 1395dd(e)(1)(A) addresses acute symptoms sufficiently severe that absence of immediate attention could reasonably cause serious jeopardy to health, serious impairment of bodily functions, or serious dysfunction of an organ or part. The hospital concedes that Baby K's episodes meet that standard and that ventilation prevents deterioration. Incurable anencephaly does not negate those concessions. King requires reading the whole statute without adding an unexpressed restriction; Suter keeps the enacted duty distinct from an inferred remedy. Uniform screening under subsection (a) therefore cannot replace the separate stabilization obligation after an emergency is found. Nor may the hospital erase that obligation by retaining the patient without intending transfer. Ethical objection does not establish that otherwise available staff or facilities are unavailable. The holding concerns these acute presentations, not all inpatient, nonemergency or end-of-life care, and creates no entitlement to every preferred treatment.",
+        "precedents": [
+          "King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies contextual reading and respect for expressed statutory coverage and limits; its military-leave rule does not decide a medical question.",
+          "Suter v. Artist M., 503 U.S. 347 (1992): preserves separate inquiries into enacted duty, cause of action and remedy; its rejection of particular child-welfare claims supplies no categorical exemption from express hospital duties."
+        ],
+        "limits": "Screening under subsection (a) is requested examination of an individual coming to the emergency department within that department's capability, including routinely available ancillary services. The diagnosed-emergency duty under subsection (b) is distinct. Transfer includes hospital-directed movement and discharge, but excludes movement after declaration of death or departure without hospital-affiliated permission. The separate labor provisions are not decided; Congress remains free to enact a defined futility exception."
+      },
+      {
+        "holding": "Unstabilized transfer remains a fully conditional alternative",
+        "rule": "An unstabilized transfer requires either a written request by the individual or legally responsible person after explanation of the hospital's obligations and transfer risks, or a physician-signed certification, based on then-available information, that expected medical benefits at the other facility outweigh increased transfer risks; if no physician is physically present in the emergency department, a qualified medical person may sign only after consulting a physician who makes that determination and later countersigns, and every certification must summarize risks and benefits. Every route also requires available treatment minimizing risk; receiving space, qualified personnel and acceptance of appropriate care; transmission of all available emergency-related records, the request or certification, and the name and address of a required on-call physician who refused or failed timely to appear; qualified transportation personnel and equipment with necessary appropriate life support; and the Secretary's applicable additional health-and-safety requirements.",
+        "author": "Ginsburg",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "explanation": "The Court holds that Congress provided a lawful transfer route and specified what makes it lawful. The treatment-or-transfer structure cannot be restated as treatment at this hospital under all future circumstances. King supports respecting those expressed alternatives rather than constructing an absolute obligation from the statute's protective purpose. The present record separately lacks a benefits-over-risks certification and a qualified receiving facility that has agreed to accept Baby K. The mother's opposition is not a substitute for either missing condition. Conversely, opposition alone does not defeat a future transfer supported by the statutory physician certification and every appropriate-transfer safeguard. Available records include the emergency observations, preliminary diagnosis, treatment and test results; the hospital must send what is available rather than invent missing records. The alternative is permission for a compliant transfer, not a command to transfer or a finding that future space, personnel and acceptance exist. The prospective declaration remains confined by those statutory terms.",
+        "precedents": [
+          "King v. St. Vincent's Hospital, 502 U.S. 215 (1991): preserves the force of express statutory alternatives and conditions; protective purpose does not erase an enacted transfer route."
+        ],
+        "limits": ""
+      },
+      {
+        "holding": "Refusal compliance requires an actual offer and informed refusal",
+        "rule": "Subsection (b)(2) deems the treatment requirement met when the hospital offers the required examination and treatment, explains its risks and benefits, the individual or representative refuses, and the hospital takes all reasonable steps to obtain written informed refusal. Subsection (b)(3) separately deems compliance when the hospital offers a transfer satisfying subsection (c), explains its risks and benefits, the individual or representative refuses, and the hospital takes all reasonable steps to obtain written informed refusal; the mother's opposition alone establishes neither route here.",
+        "author": "Ginsburg",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 8,
+        "explanation": "The Court holds that refusal provisions are conditional compliance routes, not exceptions triggered by disagreement alone. A treatment offer and a transfer offer perform different statutory work. The latter must itself satisfy subsection (c), including appropriate receiving capability and acceptance, before refusal can have the effect stated in subsection (b)(3). Here the record supplies neither a compliant transfer offer nor a finding that the mother refused the stabilizing treatment the hospital must offer. Her opposition to the requested declaration therefore does not release the hospital from its emergency obligation. King supports reading the alternatives within the coordinated enactment, and Suter cautions against confusing a defined duty with an assumed remedial result. The duty to take all reasonable steps to secure writing does not become an assertion that written refusal already exists. The Court preserves either route if its actual predicates arise, while making no general decision about parental or guardian authority outside this statutory controversy.",
+        "precedents": [
+          "King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies the coordinated statutory structure, including the separate conditions attached to separate alternatives.",
+          "Suter v. Artist M., 503 U.S. 347 (1992): preserves the distinction between a substantive duty and a claimed consequence; no broader family-authority or remedial rule is inferred."
+        ],
+        "limits": ""
+      },
+      {
+        "holding": "The receiving-hospital route depends on appropriate transfer, required specialized capability and capacity",
+        "rule": "If a nursing-home movement is an appropriate transfer requiring the participating hospital's specialized capabilities or facilities, §1395dd(g) prohibits the hospital from refusing acceptance when it has capacity to treat the individual. The Court does not settle every movement's classification or presume future capacity; the conditional receiving-hospital route preserves those requirements independently of the ordinary arrival-and-diagnosed-emergency route.",
+        "author": "Ginsburg",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 8,
+        "explanation": "The Court holds that the uncertainty about the description of a nursing-home movement does not justify deleting the receiving-hospital provision. Subsection (g) addresses an appropriate transfer requiring specialized capabilities and expressly conditions the duty on receiving capacity. The record identifies pediatric intensive-care and ventilation capabilities, but that evidence does not establish every future transfer's appropriateness or the hospital's capacity whenever one may be proposed. King requires attention to the distinct function of each part of the enactment. The hospital's broader reading would allow the unresolved label to defeat either statutory route without examining its conditions; an unconditional acceptance rule would make the opposite error by erasing capacity. The declaration instead applies the route whose actual predicates are met. The Court neither finds that every nursing-home movement is a new emergency presentation nor decides that every such movement is a transfer requiring acceptance. Those factual predicates remain necessary when the prospective duty is applied.",
+        "precedents": [
+          "King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies reading of related provisions together while retaining each provision's expressed conditions."
+        ],
+        "limits": ""
+      },
+      {
+        "holding": "State medical law yields only to an applicable direct conflict",
+        "rule": "Under §1395dd(f), a state or local requirement remains effective except to the extent it directly conflicts with an applicable EMTALA requirement; state law cannot authorize withholding the stabilizing treatment required here. Virginia §54.1-2990, a limitation within an article concerning adult directives and surrogates, does not itself establish an infant-care exemption, and the Court invalidates no wider field of state medical law.",
+        "author": "Ginsburg",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "explanation": "The Court holds that federal displacement extends only as far as the conflict Congress identified. The hospital invokes Virginia's provision stating that its Health Care Decisions Act does not require treatment a physician considers medically or ethically inappropriate. The article's described coverage concerns adult directives and surrogate decisions, so its language does not itself establish authority governing this infant. Even if an applicable state requirement permitted withholding the stabilizing care required by EMTALA, subsection (f) resolves that direct conflict in favor of the federal duty. King supports reading this limiting clause with the enacted emergency obligation rather than replacing either with a general medical-policy judgment. The hospital remains governed by compatible state medical law, including questions this case does not decide. The Court does not derive a general federal right to demand any treatment, adjudicate parental or guardian power, or decide the district court's independent disability-law grounds. The declaration is affirmed at the scope of the federal emergency duty.",
+        "precedents": [
+          "King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies the whole-enactment approach; the limited preemption clause and affirmative duty both retain effect."
+        ],
+        "limits": ""
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Opinion of the Court",
+        "author": "Ginsburg",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "scope": "All nine join the acute-emergency, appropriate-transfer and direct-conflict portions. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer join the informed-refusal and receiving-hospital portions; Stone-Zsela agrees in their disposition only."
+      }
+    ],
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "nonparticipants": [],
+    "participant_count": 9
+  },
+  {
+    "case": "Plakas v. Drinski",
+    "file": "Plakas_v_Drinski_merits_1995-01-09.md",
+    "components": [
+      {
+        "component": "Drinski: presented Fourth Amendment force claim",
+        "disposition": "Affirm summary judgment on the merits",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "No trial, damages or immunity ruling is ordered."
+      },
+      {
+        "component": "County: municipal equipment/training and derivative force claims",
+        "disposition": "Affirm summary judgment",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [],
+        "not_reached": [],
+        "support_count": 9,
+        "opposition_count": 0,
+        "not_reached_count": 0,
+        "remedy": "Eight join the independent municipal analysis; Stone-Zsela agrees on his derivative-force ground and leaves a distinct municipal injury unadjudicated."
+      }
+    ],
+    "holdings": [
+      {
+        "holding": "The complete supported circumstances establish reasonable defensive force",
+        "rule": "Deadly force is objectively reasonable on this summary-judgment record because, after an assault, an explicit lethal threat and efforts to obtain surrender, an armed person advanced at close range with a raised poker while the officer's retreat became blocked, and the identified evidence supplies no supported contrary material account. Graham requires the complete contemporaneous circumstances and Garner's serious-threat, necessity and feasible-warning safeguards; the Fourth Amendment does not require the least dangerous conceivable tactic, and this decision neither excludes every earlier police act nor decides a developed claim of unjustified police conduct creating the danger.",
+        "author": "Kennedy",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "explanation": "The Court holds that reasonableness requires the actual encounter, not a choice among tactics imagined afterward. Graham supplies the on-scene, objective inquiry into immediate danger, resistance, flight and the surrounding circumstances, while Garner preserves the serious-threat boundary and its necessity and warning conditions. Plakas had struck an officer, threatened death and advanced with the poker raised as Drinski retreated until further retreat was blocked. Police testimony receives no conclusive credit by status, but critical review identifies no supported contradiction requiring trial. The absent photograph and the body's movement cannot furnish an invented reconstruction. Perras possessed CS repellant and explained the distance and risk to other officers; a dog was offered earlier, not shown at Drinski's side. Hunter preserves ordinary summary-judgment constraints and the supported nonmovant account. Those constraints do not require a trial on speculation. The Court rejects a least-dangerous-option mandate while leaving a properly developed claim concerning earlier unconstitutional provocation for another case.",
+        "precedents": [
+          "Graham v. Connor, 490 U.S. 386 (1989): applies objective reasonableness under the complete contemporaneous circumstances from the reasonable officer's on-scene perspective, with allowance for tense and rapidly developing events; no subjective-malice or hindsight test is substituted.",
+          "Tennessee v. Garner, 471 U.S. 1 (1985): preserves the prohibition on deadly force against a nondangerous fleeing person and the serious-threat, necessity and feasible-warning conditions; this supported immediate armed attack differs from nondangerous escape.",
+          "Hunter v. Bryant, 502 U.S. 224 (1991): preserves the supported nonmovant account and complete contemporaneous record at summary judgment; this case neither selects immunity nor uses Hunter as notice predating its decision.",
+          "Elder v. Holloway, 510 U.S. 510 (1994): preserves consideration of relevant law on a preserved immunity issue, ordinary record limits and conduct-date notice; no immunity disposition or mandatory merits-first sequence is added."
+        ],
+        "limits": "The earlier-beating theory was not pleaded and lacks the asserted causal showing; the alleged invitation to strike was not developed as immediately preceding or causing the charge. Gilmere's different provocation theory is neither approved nor disapproved. The Court does not decide a case in which the threat ended before the shot or a supported safe alternative makes the force unreasonable. The merits ground supplies no general immunity for tactical decisions."
+      },
+      {
+        "holding": "The county equipment-and-training theory fails on its own required elements",
+        "rule": "A municipality's §1983 liability requires a cognizable federal deprivation attributable to municipal policy or training, the applicable culpability and a causal connection; officer personal immunity is not municipal immunity, and reasonable final force alone does not answer every independent municipal-created-danger theory. The county is entitled to summary judgment here because the actual equipment-and-training contention establishes neither a constitutional equipment-list duty nor a developed independent deprivation with the required causal and culpability showing; a purely derivative force theory also lacks a predicate when the force itself is reasonable.",
+        "author": "Kennedy",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 8,
+        "explanation": "The Court holds that the county's own claim must be examined separately. Monell requires municipal responsibility for the federal injury, and Canton supplies the failure-to-train attribution, causation and deliberate-indifference requirements rather than a substantive guarantee of every available device. Collins likewise separates the underlying deprivation from its attribution. The estate contends that inadequate equipment or training created the dangerous conditions even if Drinski's final choice was reasonable. The record does not develop that independent wrong or the necessary causal and culpability showing. A list of possible spray, canine or other tactics does not establish a constitutional equipment standard. Heller disposes of a theory resting solely on nonexistent excessive force; it does not confer immunity against every independent municipal wrong. Leatherman rejects heightened municipal pleading, but ordinary pleading is not summary-judgment proof. The county therefore prevails on the actual insufficient theory, while a supported distinct municipal injury remains open. No personal immunity defense is transferred from Drinski to the county.",
+        "precedents": [
+          "Monell v. Department of Social Services, 436 U.S. 658 (1978): preserves municipal policy/custom responsibility and causation for a federal deprivation; employment or vicarious responsibility alone is insufficient.",
+          "City of Canton v. Harris, 489 U.S. 378 (1989): applies the required failure-to-train culpability and causal connection; it does not create a substantive right to every device or training method.",
+          "Collins v. City of Harker Heights, 503 U.S. 115 (1992): applies the separation between deprivation and municipal attribution; its voluntary-employment holding does not decide every affirmative municipal injury.",
+          "City of Los Angeles v. Heller, 475 U.S. 796 (1986): applies to a derivative theory resting solely on constitutionally reasonable force; it does not supply a universal bar to a distinct municipal wrong.",
+          "Leatherman v. Tarrant County Narcotics Intelligence and Coordination Unit, 507 U.S. 163 (1993): preserves ordinary municipal pleading and distinct Rule 56 proof; it neither relaxes Monell/Canton elements nor supplies personal immunity to a municipality."
+        ],
+        "limits": ""
+      }
+    ],
+    "opinions": [
+      {
+        "writing": "Opinion of the Court",
+        "author": "Kennedy",
+        "joins": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "support_count": 9,
+        "scope": "All nine join the officer holding. Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer join the county holding; Stone-Zsela agrees with the county judgment only."
+      },
+      {
+        "writing": "Concurrence in part and in the judgment",
+        "author": "Stone-Zsela",
+        "joins": [],
+        "support_count": 1,
+        "scope": "Joins the officer holding; states his earlier-conduct qualification and derivative municipal ground; does not join the Court's independent county rationale."
+      }
+    ],
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "nonparticipants": [],
+    "participant_count": 9
+  }
+]
