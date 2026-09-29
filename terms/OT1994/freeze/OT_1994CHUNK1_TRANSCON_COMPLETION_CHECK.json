@@ -1,0 +1,28 @@
+{
+  "errors": [],
+  "prior_records_unchanged": 11,
+  "prior_public_entries_unchanged": 11,
+  "completed_events": 12,
+  "inventory_events": 99,
+  "completed_inventory": 12,
+  "unprocessed_inventory": 87,
+  "holdings": 3,
+  "participating_justices": 9,
+  "frozen_non_stone_handoffs": "unchanged (input fingerprints checked)",
+  "chronology": "1995-01-10 after Transcon only; Tome retains pre-group baseline",
+  "changed_existing_files": [
+    "terms/OT1994/freeze/OT_1994CHUNK1_CLERICAL_CHECK.json",
+    "terms/OT1994/freeze/OT_1994CHUNK1_FORM_CHECK.json",
+    "terms/OT1994/freeze/OT_1994CHUNK1_NAVIGATION_CHECK.json",
+    "terms/OT1994/freeze/OT_1994CHUNK1_TERM_CHECK_STOCK_NO_GIT.json",
+    "terms/OT1994/freeze/OT_1994CHUNK1_TRANSCON_REVALIDATION.md",
+    "terms/OT1994/freeze/OT_1994CHUNK1_VALIDATION.md",
+    "terms/OT1994/freeze/OT_1994CHUNK1_VOTE_CHECK.json",
+    "terms/OT1994/render-inputs/OT_1994CHUNK1.md",
+    "terms/OT1994/workspace/continuity.md",
+    "terms/OT1994/workspace/ledger.md",
+    "terms/OT1994/workspace/manifest.md",
+    "terms/OT1994/workspace/neutral-projection.md"
+  ],
+  "git": "No Git command; history checks deferred"
+}

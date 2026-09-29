@@ -1,0 +1,18 @@
+{
+  "protected_files_checked": 50,
+  "records_checked": 12,
+  "errors": [
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK1.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK2.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK3.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK4.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK5.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK6.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK7.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK8.md",
+    "Protected file changed: terms/OT1994/briefs/OT_1994CHUNK9.md",
+    "Protected file changed: terms/OT1994/case-list.md"
+  ],
+  "git_checks": "not performed; user prohibited all Git commands",
+  "interpretation": "Legacy scratch baseline differs from the input bytes present at this task start; not mutations by this task. See the independent task-start fingerprint comparison."
+}

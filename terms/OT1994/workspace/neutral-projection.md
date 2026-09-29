@@ -1,18 +1,18 @@
 # OT1994 Current-Term Neutral Projection
 
-This sanitized continuation handoff contains current public law and procedure, institutional setting, material calendar dependencies and published separate positions. It contains no private position, provisional commitment, comparator or audit annex. The governing trackers and effective Records remain authoritative. For neutral work use this projection and mechanically extracted public entering-law slices; the full chunk handoff has an operator-only stopped-matter preface and must not be supplied wholesale to a neutral context; do not open raw Records, private supplements, audit annexes or freeze files through navigation links.
+This sanitized continuation handoff contains current public law and procedure, institutional setting, material calendar dependencies and published separate positions. It contains no private position, provisional commitment, comparator or audit annex. The governing trackers and effective Records remain authoritative. For neutral work use this projection and mechanically extracted public entering-law slices; do not open raw Records, private supplements, audit annexes or freeze files through navigation links.
 
 ## Scope and chronology
 
-**Posture:** After eleven completed chunk-1 events. **Chronology cursor:** January 9, 1995, after Plakas. Transcon remains stopped at its supplied January 10, 1995 date and has no Decision Record or legal effect. Tome is inventory matter 13 in chunk 2 on that same date. Both must use the common pre-January-10 baseline absent a separately established lawful sequence.
+**Posture:** After all twelve chunk-1 events. **Chronology cursor:** January 10, 1995, after Transcon only; the January 10 same-day group remains incomplete because Tome is inventory matter 13 in chunk 2. The fully processed earlier-day cutoff is January 9, 1995. Tome must use the common pre-January-10 baseline; Transcon supplies no earlier same-day authority absent a separately established lawful sequence.
 
 The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. These files were not rewritten. Current-term Records supplement that baseline only from their effective dates.
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 group in OT1993: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor. The preserved opening continuity and OT1993 close dossier supply their exact source locations; no endpoint or part of the final group is displaced.
 
-The [manifest](manifest.md) retains 99 scheduled inventory matters and seven additional unscheduled carryovers. Eleven inventory events are completed; 88 remain unprocessed, including stopped Transcon. Nebraska v. Wyoming's carried original proceeding remains connected to inventory matter 68 rather than duplicated. No carried matter is silently closed, no unsupplied date or grant is invented, and no new institutional action or separate noncase-law admission is created. Original RFRA is applied as already-effective law in Clearwater, not as a new OT1994 enactment.
+The [manifest](manifest.md) retains 99 scheduled inventory matters and seven additional unscheduled carryovers. Twelve inventory events are completed; 87 remain unprocessed. Nebraska v. Wyoming's carried original proceeding remains connected to inventory matter 68 rather than duplicated. No carried matter is silently closed, no unsupplied date or grant is invented, and no new institutional action or separate noncase-law admission is created. Original RFRA is applied as already-effective law in Clearwater, not as a new OT1994 enactment.
 
-The next scheduled item is **Transcon, January 10, 1995, unadjudicated**. The next independent unblocked inventory item is **Tome v. United States, No. 93-6892, January 10, 1995, chunk 2**. All equal-date groups retain the common pre-group baseline unless an express sequence is established. The cross-chunk groups remain January 10, February 21, April 19, May 15, June 5, June 14 and June 29, 1995. Display or file-preservation order does not supply a release sequence.
+The next eligible inventory item is **Tome v. United States, No. 93-6892, January 10, 1995, chunk 2**. All equal-date groups retain the common pre-group baseline unless an express sequence is established. The cross-chunk groups remain January 10, February 21, April 19, May 15, June 5, June 14 and June 29, 1995. Display or file-preservation order does not supply a release sequence.
 
 ## Court and public procedure
 
@@ -348,6 +348,38 @@ Effective January 9, 1995, the supported immediate-threat facts establish reason
 
 Precedent treatment and its full operative scope remain in the linked Record’s public Precedent Treatment block. No prior authority is altered beyond that stated treatment.
 
+### Interstate Commerce Commission v. Transcon Lines; No. 93-1318; 513 U.S. 138. — 1995-01-10
+
+Authority: [Record](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md#public-projection); the public blocks are also copied into the [generated chunk handoff](../render-inputs/OT_1994CHUNK1.md).
+
+#### The filed-rate duty does not defeat express public credit-rule enforcement
+
+**Controlling proposition:** Under the applicable pre-reform 49 U.S.C. §§10743(b)(1) and 11702(a)(4), the ICC may seek a judicial injunction against collection violating valid credit regulations, and §§10761–10762's filed-rate commands do not categorically defeat that enforcement. Section 11702(a)(4) excludes an action under a provision governing the reasonableness or discriminatory character of rates; this action enforces specified credit and billing requirements rather than asking the court to determine rate reasonableness or discrimination.
+
+**Authority:** Justice Kennedy's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine participating Justices directly adopt this proposition and its qualifications; no aggregation of separate rationales is required.
+
+#### The admitted collection class violates the credit conditions
+
+**Controlling proposition:** The challenged loss-of-discount liquidated-damages collections violate 49 C.F.R. §1320.3(c) because the original bills omitted the required late-payment warning, §1320.2(g)(2)(vi) because revised billing occurred years later rather than within ninety days after authorized-credit expiration, and §1320.2(g)(2)(iii) because the demands aggregate past-shipment balances. The concessions establish those violations and the charge's liquidated-damages character for the challenged class, without establishing every account's inclusion or amount, every regulatory exception, statutory authority, remedial entitlement or a distinct contractual collection route.
+
+**Authority:** Justice Kennedy's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine participating Justices directly adopt this proposition and its qualifications; no aggregation of separate rationales is required.
+
+**Limits and questions not reached:** All operative credit qualifications remain. Authorized credit begins the day after bill presentation; absent a published alternative the period is fifteen days including weekends and holidays, and permitted combined credit cannot exceed thirty days. Service charges within the standard period are prohibited. Published additional-period charges and published post-expiration charges are distinct; post-expiration charges neither authorize delay nor remove the carrier's good-faith reassessment obligation before another credit extension. The tariff's ninety calendar days after shipment for discount eligibility is separate from the revised-billing deadline measured from authorized-credit expiration.
+
+Section 1320.2(g)(1) permits reasonable, certain collection-expense liquidated damages through an identified dollar or percentage charge or loss of an identified discount after a stated payment date no earlier than authorized-credit expiration. Section (g)(2) requires clear terms and conditions, prohibits unlawful prejudice or unjust discrimination, permits only original separate independent bills rather than aggregate past-shipment balance-due demands, excludes clear clerical or ministerial errors such as nonreceipt, a lost payment check or misaddressing, and prohibits duplicate collection fees already provided by the bill of lading for the same transportation. Damages arise only after authorized credit expires, with a revised bill or notice issued within ninety days after that expiration. Section (g)(3)'s separate contractual bill-of-lading collection-charge route outside the tariff is not an entitlement established here. Section 1320.3(c)'s original-bill or accompanying-notice requirements concerning penalties, time limits, service and collection charges, and discount terms remain distinct from revised billing. No unreported exception, account inclusion or amount is inferred.
+
+#### A confined injunction is appropriate and must be implemented on remand
+
+**Controlling proposition:** On the admitted violations and the defined loss-of-discount liquidated-damages request, an injunction preventing collection of that class is an appropriate exercise of the ICC's public enforcement authority, and the case must be remanded for its confined implementation. The lower court must specify the order's terms and may resolve genuine scope, inclusion and amount questions beyond the concessions or a properly presented distinct lawful collection basis, but may not reopen the admitted violation or charge character, restrain ordinary unpaid freight principal or other estate receivables, or treat this decision as a universal discharge.
+
+**Authority:** Justice Kennedy's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine participating Justices directly adopt this proposition and its qualifications; no aggregation of separate rationales is required.
+
+**Limits and questions not reached:** The court independently examines authority, established violation, the restraint's legal character and its fit. Review remains available for an unsupported premise, insufficient explanation, arbitrariness, excessive scope or inconsistency with the statute. No automatic Chevron deference to litigation demands, universal agency-remedy standard or broader limitation on Chevron is adopted. The prior distinct coded-rate component, individual private defenses, other statutory claims, estate distribution, exact dollar relief and unpresented reform-statute relief remain outside the disposition. A distinct contractual route requires its own presentation and proof; nothing here accepts its availability for these claims.
+
+Effective January 10, 1995, the Court recognizes this express public credit-rule injunction as compatible with filed-rate obligations and directs its implementation for the admitted-unlawful loss-of-discount liquidated-damages class. Before this decision, Commercial Metals and Reiter distinguished public enforcement and enacted statutory remedies from a general private equitable defense without deciding this injunction. The new application resolves statutory availability, the conceded class's violation and character, and the appropriateness of this confined restraint. The actual credit periods, billing triggers, notice duties, clerical-error and duplicate-fee limits, distinct contractual route and §11702(a)(4) rate-review exception retain the terms set out in the Holdings block. Ordinary freight principal and other estate receivables remain outside the restraint; no universal debt discharge, automatic private defense, exact amount, later-reform entitlement or general agency-deference rule is created.
+
+Precedent treatment and its full operative scope remain in the linked Record’s public Precedent Treatment block. No prior authority is altered beyond that stated treatment.
+
 ## Procedure after completed events
 
 ### United States v. Shabani; No. 93-981; 513 U.S. 10 — 1994-11-01
@@ -394,6 +426,10 @@ The Nebraska Supreme Court's judgment concerning Revenue Ruling 22-85-1 is rever
 
 Summary judgment for Drinski and Newton County remains in force. Supreme Court review ends without a trial order, damages award, further factfinding or separate remedial direction. A distinct provocation claim, unpleaded beating theory, independent municipal injury and qualified-immunity disposition are not adjudicated.
 
+### Interstate Commerce Commission v. Transcon Lines; No. 93-1318; 513 U.S. 138. — 1995-01-10
+
+The Ninth Circuit's judgment denying this credit-rule collection injunction is reversed. On remand, the lower courts must implement an injunction against collection of the admitted-unlawful loss-of-discount liquidated-damages class, specifying its operative terms and resolving genuine scope, inclusion or amount disputes beyond the concessions. The conceded original-notice failure, years-late revised billing, prohibited aggregation and liquidated-damages character are not reopened. Ordinary unpaid freight principal, other estate receivables and collections outside that class are excluded. A properly presented distinct lawful collection basis remains for its own adjudication; none is established by this judgment. The prior separate coded-rate component remains undisturbed. Supreme Court merits review is complete; implementation proceeds below, without a new deadline, exact dollar award, estate-distribution order or general discharge.
+
 ## Calendar and material dependencies
 
 The inventory contains 99 matters (97 merits and two original proceedings), including fifteen established additional merits matters with assigned dockets. Hays is excluded. There are 106 distinct matters after the seven additional unscheduled carryovers are included. No petition-stage event or application appears among the 99 supplied scheduled events; carried applications remain open at their stated stages.
@@ -402,7 +438,7 @@ Dates below are the supplied inventory's planning dates, confirmed against Secti
 
 **Same-day grouping:** every equal event date is one same-day group, including groups split across chunks: 1995-01-10 (1/2), 1995-02-21 (2/3), 1995-04-19 (4/5), 1995-05-15 (5/6), 1995-06-05 (6/7), 1995-06-14 (7/8), and 1995-06-29 (8/9). Inventory order is a display tie-break only. No OT1994 coordinated release sequence is established at opening. Uncoordinated events on the same date use the common pre-group law, even when their Run tasks occur separately.
 
-The next eligible inventory event is Tome v. United States, No. 93-6892, January 10, 1995, chunk 2. Transcon shares that date, remains unadjudicated, and supplies no law for Tome. The seven additional carryovers remain unscheduled.
+The next eligible inventory event is Tome v. United States, No. 93-6892, January 10, 1995, chunk 2. Transcon shares that date and is excluded from Tome’s common pre-group baseline. The seven additional carryovers remain unscheduled.
 
 | Chunk | Inventory matters | Inventory numbers | First scheduled event | Last scheduled event |
 |---|---|---|---|---|
@@ -509,7 +545,7 @@ Chief Justice Stone-Zsela concurs in the officer holding and in the judgment for
 - Asgrow concerns transactions predating Pub. L. 103-349. The later amendment's exact effective and transition text must be established before admitting any new current-law effect. No additional dated source event is established here.
 - Preserve each neutral packet's remaining source qualifications. This opening does not certify a complete litigation record or supply missing findings, concessions, statutory qualifications, operative orders or dates.
 
-Transcon remains at the established merits stage with no disposition, holding or mandate. Its scheduled date is January 10, 1995. The completed decisions preserve their stated factual and remedial reservations.
+No chunk-1 matter remains awaiting adjudication. The completed decisions preserve their stated factual and remedial reservations.
 
 ## Source cutoff
 

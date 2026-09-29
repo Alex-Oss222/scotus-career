@@ -1,0 +1,101 @@
+{
+  "case": "Interstate Commerce Commission v. Transcon Lines",
+  "file": "Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "nonparticipants": [],
+  "components": [
+    {
+      "component": "Reverse and remand for the confined injunction",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposition": [],
+      "not_reached": [],
+      "support_count": 9
+    }
+  ],
+  "holdings": [
+    {
+      "holding": "The filed-rate duty does not defeat express public credit-rule enforcement",
+      "author": "Kennedy",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "support_count": 9
+    },
+    {
+      "holding": "The admitted collection class violates the credit conditions",
+      "author": "Kennedy",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "support_count": 9
+    },
+    {
+      "holding": "A confined injunction is appropriate and must be implemented on remand",
+      "author": "Kennedy",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "support_count": 9
+    }
+  ],
+  "opinions": [
+    {
+      "author": "Kennedy",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "support_count": 9
+    }
+  ]
+}

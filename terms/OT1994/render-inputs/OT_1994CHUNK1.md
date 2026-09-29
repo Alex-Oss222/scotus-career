@@ -1,9 +1,6 @@
 # OT_1994CHUNK1 Render Input
 
-**October Term:** 1994. **Completed events:** 11. **Chronological range:** 1994-11-01 through 1995-01-09.
-
-**Stopped matters:**
-- Interstate Commerce Commission v. Transcon Lines: Newly verified concessions that the challenged loss-of-discount charges violate the credit rules affect Stone’s fixed open-consideration remand. Engine section 4 requires renewed approval of retaining that remedy or directing implementation of the confined injunction. No disposition, Court vote, holding or mandate has been entered.
+**October Term:** 1994. **Completed events:** 12. **Chronological range:** 1994-11-01 through 1995-01-10.
 
 <!-- source-record: United_States_v_Shabani_merits_1994-11-01.md -->
 ## Event
@@ -1024,3 +1021,108 @@ Summary judgment for Drinski and Newton County remains in force. Supreme Court r
 ## Source Notes
 
 [Plakas v. Drinski, 19 F.3d 1143](https://static.case.law/f3d/19/html/1143-01.html) supplies the record and judgment below; its summary-judgment account is not a trial finding. [Graham v. Connor, 490 U.S. 386](https://static.case.law/us/490/html/0386-01.html) and [Tennessee v. Garner, 471 U.S. 1](https://static.case.law/us/471/html/0001-01.html) supply the force standards. The photograph itself was absent from the appellate record, and the body had been moved before the identified observation. No new reconstruction or verbatim decisional quotation is supplied. February 2, 1991 remains the conduct date for any separately presented fair-notice question.
+
+---
+
+<!-- source-record: Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md -->
+## Event
+
+Interstate Commerce Commission v. Transcon Lines, No. 93-1318; 513 U.S. 138. Merits decision, January 10, 1995. Argued November 1, 1994. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit; judgment under review: 9 F.3d 64 (October 26, 1993), following 990 F.2d 1503.
+
+The District Court granted summary judgment for respondents, and the court of appeals sustained denial of the credit-rule collection injunction, reasoning that the filed-rate obligation barred it and that alternative enforcement measures remained. The question is whether the ICC's express credit and enforcement provisions authorize this injunction and whether it is appropriate for the challenged loss-of-discount liquidated damages. The separate earlier coded-rate component is outside review.
+
+**Render form: compact.** The unanimous decision has a margin greater than one vote; no material change in judgment, controlling propositions, non-Chief alignment, remedy, mandate, reserved issues or precedent treatment requires the full form.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is disqualified or otherwise nonparticipating.
+
+## Public Action
+
+The Ninth Circuit is reversed and the case remanded, 9-0, for implementation of an injunction confined to the admitted-unlawful loss-of-discount liquidated-damages class, with genuine scope, inclusion and amount questions beyond the concessions preserved. Ordinary unpaid freight principal and other estate receivables are excluded from the restraint.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or limit |
+|---|---|---|---|---|
+| Express public credit-rule enforcement; admitted class and remedy | Reverse and remand, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | No opposing vote | Implement the confined injunction, preserving genuine questions beyond the concessions and excluding ordinary freight principal and other estate receivables. |
+
+The Ninth Circuit's judgment denying this credit-rule collection injunction is reversed. On remand, the lower courts must implement an injunction against collection of the admitted-unlawful loss-of-discount liquidated-damages class, specifying its operative terms and resolving genuine scope, inclusion or amount disputes beyond the concessions. The conceded original-notice failure, years-late revised billing, prohibited aggregation and liquidated-damages character are not reopened. Ordinary unpaid freight principal, other estate receivables and collections outside that class are excluded. A properly presented distinct lawful collection basis remains for its own adjudication; none is established by this judgment. The prior separate coded-rate component remains undisturbed. Supreme Court merits review is complete; implementation proceeds below, without a new deadline, exact dollar award, estate-distribution order or general discharge.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Supports reversal and the confined implementation remand | Full opinion: statutory authority, bounded admitted violation and charge, independent review of remedial fit, and confined implementation with all stated reservations. |
+
+There are no partial joins, judgment-only votes or separate writings. All nine join each controlling proposition.
+
+## Holdings
+
+### The filed-rate duty does not defeat express public credit-rule enforcement
+
+**Controlling proposition:** Under the applicable pre-reform 49 U.S.C. §§10743(b)(1) and 11702(a)(4), the ICC may seek a judicial injunction against collection violating valid credit regulations, and §§10761–10762's filed-rate commands do not categorically defeat that enforcement. Section 11702(a)(4) excludes an action under a provision governing the reasonableness or discriminatory character of rates; this action enforces specified credit and billing requirements rather than asking the court to determine rate reasonableness or discrimination.
+
+**Authority:** Justice Kennedy's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine participating Justices directly adopt this proposition and its qualifications; no aggregation of separate rationales is required.
+
+**Controlling explanation:** The Court holds that Congress's credit delegation and its filed-rate commands must operate together. Section 10743 permits credit under Commission regulations governing payment and preventing discrimination; §11702 supplies the public enforcement channel. The anti-discrimination purpose of credit regulation does not itself turn this suit into the rate-review action excluded from that channel. Commercial Metals rejected an implied private consignor defense while recognizing the Commission's express enforcement tools. Maislin rejected a negotiated-rate policy inconsistent with the filed-rate scheme, not every independently authorized statutory remedy. Reiter likewise preserves claims and defenses supplied by the Act without creating a general equitable exception. MCI requires an actual delegation, which these credit and enforcement provisions provide; Gardner's insistence on statutory meaning before deference does not eliminate that delegation. The trustee therefore cannot defeat this action merely by expressing the challenged damages as a difference between filed rates. Statutory authority still does not establish every violation or entitle the Commission to every requested injunction. The Court decides no general private defense, constitutional question or entitlement under later transportation reforms.
+
+**Precedent treatment:**
+
+- Southern Pacific Transportation Co. v. Commercial Metals Co., 456 U.S. 336 (1982): applies its distinction between an implied private credit defense and the ICC's express public enforcement tools; the private-defense holding remains intact.
+- Maislin Industries, U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116 (1990): distinguishes its invalid negotiated-rate unreasonable-practice policy from enforcement under the separate credit delegation; no general equitable departure from filed rates is permitted.
+- Reiter v. Cooper, 507 U.S. 258 (1993): applies its preservation of specifically enacted statutory routes alongside filed-rate duties; counterclaims, recoupment, primary jurisdiction and separate-judgment discretion retain their own conditions.
+- MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218 (1994): applies the requirement of actual delegated authority; its limit on replacing mandatory tariff filing does not erase Congress's distinct credit and enforcement provisions.
+- Brown v. Gardner, 513 U.S. 115 (1994): applies statutory construction before deference while preserving actual delegated discretion; its veterans-benefit causation and eligibility rules remain confined to that statute.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984): preserves deference within a lawful statutory delegation; neither a litigation demand nor general agency expertise supplies power Congress withheld.
+
+### The admitted collection class violates the credit conditions
+
+**Controlling proposition:** The challenged loss-of-discount liquidated-damages collections violate 49 C.F.R. §1320.3(c) because the original bills omitted the required late-payment warning, §1320.2(g)(2)(vi) because revised billing occurred years later rather than within ninety days after authorized-credit expiration, and §1320.2(g)(2)(iii) because the demands aggregate past-shipment balances. The concessions establish those violations and the charge's liquidated-damages character for the challenged class, without establishing every account's inclusion or amount, every regulatory exception, statutory authority, remedial entitlement or a distinct contractual collection route.
+
+**Authority:** Justice Kennedy's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine participating Justices directly adopt this proposition and its qualifications; no aggregation of separate rationales is required.
+
+**Controlling explanation:** The Court holds that the admitted charge and violations supply the factual predicates for this confined enforcement action. Commercial Metals requires attention to the difference between lawful freight charges and the consequences of a particular credit violation; it does not convert every charge into unconditional freight principal. Here the request concerns additional collection damages measured by the loss of a discount. The original bills omitted the warning, the revised billing came years after the regulatory deadline, and the trustee demanded aggregate past-shipment balances. The concession of noncompliance does not rest merely on bankruptcy or on the existence of an undercharge demand. Nor does the tariff's ninety-day payment condition measured from shipment replace the regulation's period measured from expiration of authorized credit. The missing complete account file leaves genuine applications beyond the concessions open; it does not reopen the conceded class's violation or character. No omission of the loss-of-discount term from the filed tariff is alleged, and no independent contractual entitlement is established.
+
+**Precedent treatment:**
+
+- Commercial Metals, 456 U.S. 336: preserves its private-defense rule and distinction between lawful freight principal and enforcement of particular credit obligations; it does not immunize the admitted liquidated-damages class.
+- Security Services, Inc. v. Kmart Corp., 511 U.S. 431 (1994): distinguishes an effectively canceled essential tariff component from this violation of credit conditions; no absent tariff component or wholesale tariff cancellation is found here.
+
+**Limits and questions not reached:** All operative credit qualifications remain. Authorized credit begins the day after bill presentation; absent a published alternative the period is fifteen days including weekends and holidays, and permitted combined credit cannot exceed thirty days. Service charges within the standard period are prohibited. Published additional-period charges and published post-expiration charges are distinct; post-expiration charges neither authorize delay nor remove the carrier's good-faith reassessment obligation before another credit extension. The tariff's ninety calendar days after shipment for discount eligibility is separate from the revised-billing deadline measured from authorized-credit expiration.
+
+Section 1320.2(g)(1) permits reasonable, certain collection-expense liquidated damages through an identified dollar or percentage charge or loss of an identified discount after a stated payment date no earlier than authorized-credit expiration. Section (g)(2) requires clear terms and conditions, prohibits unlawful prejudice or unjust discrimination, permits only original separate independent bills rather than aggregate past-shipment balance-due demands, excludes clear clerical or ministerial errors such as nonreceipt, a lost payment check or misaddressing, and prohibits duplicate collection fees already provided by the bill of lading for the same transportation. Damages arise only after authorized credit expires, with a revised bill or notice issued within ninety days after that expiration. Section (g)(3)'s separate contractual bill-of-lading collection-charge route outside the tariff is not an entitlement established here. Section 1320.3(c)'s original-bill or accompanying-notice requirements concerning penalties, time limits, service and collection charges, and discount terms remain distinct from revised billing. No unreported exception, account inclusion or amount is inferred.
+
+### A confined injunction is appropriate and must be implemented on remand
+
+**Controlling proposition:** On the admitted violations and the defined loss-of-discount liquidated-damages request, an injunction preventing collection of that class is an appropriate exercise of the ICC's public enforcement authority, and the case must be remanded for its confined implementation. The lower court must specify the order's terms and may resolve genuine scope, inclusion and amount questions beyond the concessions or a properly presented distinct lawful collection basis, but may not reopen the admitted violation or charge character, restrain ordinary unpaid freight principal or other estate receivables, or treat this decision as a universal discharge.
+
+**Authority:** Justice Kennedy's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine participating Justices directly adopt this proposition and its qualifications; no aggregation of separate rationales is required.
+
+**Controlling explanation:** The Court holds that this injunction fits the violation and the protections Congress authorized. Commercial Metals recognizes public enforcement, and ABF Freight supports respect for a reasoned remedial choice within its statutory limits, subject to judicial review. The aggregation restraint directly prevents prohibited demands. The notice and billing protections guard shippers against collection penalties imposed without timely warning; permitting the admitted demands would realize the advantage those requirements forbid. A future warning cannot supply notice on the original bill, and a new bill cannot make years-late billing timely. An order forbidding these same demands would accomplish the confined restraint; other sanctions or an order addressing only future carrier conduct would not themselves stop collection. Judicial preference for another permissible tool therefore does not justify denial on the grounds presented. The Commission's selection is reasoned and appropriate, not binding merely because the agency requests it. The court retains responsibility for statutory boundaries and its order's fit. ABF's Board-order setting supplies no transfer of remedial power or universal deference formula. Genuine account questions remain, while bankruptcy supplies neither tariff immunity nor permission to collect these unlawful penalties.
+
+**Precedent treatment:**
+
+- Commercial Metals, 456 U.S. 336: applies its recognition of public enforcement to a confined injunction protecting the intended beneficiaries of the violated credit rules; no new automatic private defense follows.
+- ABF Freight System, Inc. v. NLRB, 510 U.S. 317 (1994): applies by analogy its respect for explained statutory remedial discretion and meaningful review; its review of a Board remedy neither transfers that power to the ICC nor binds a court to every injunction request.
+- Maislin, 497 U.S. 116: preserves the ban on a general nonstatutory negotiated-rate exception; the filed-rate objection cannot be recast as an equitable balance that defeats these expressly authorized credit conditions.
+
+**Limits and questions not reached:** The court independently examines authority, established violation, the restraint's legal character and its fit. Review remains available for an unsupported premise, insufficient explanation, arbitrariness, excessive scope or inconsistency with the statute. No automatic Chevron deference to litigation demands, universal agency-remedy standard or broader limitation on Chevron is adopted. The prior distinct coded-rate component, individual private defenses, other statutory claims, estate distribution, exact dollar relief and unpresented reform-statute relief remain outside the disposition. A distinct contractual route requires its own presentation and proof; nothing here accepts its availability for these claims.
+
+## Precedent Treatment
+
+Commercial Metals preserves the private-defense/public-enforcement distinction; Maislin preserves the filed-rate rule against a general negotiated-rate policy; Reiter preserves separately enacted claims and judicial procedures. MCI and Gardner require actual statutory authority while leaving valid delegated discretion intact. Chevron is neither displaced nor converted into deference to a request for litigation relief. Kmart's effectively canceled tariff component remains a distinct ground, unused here. ABF Freight supplies the bounded remedial-discretion analogy described in the Holdings block; neither its Board remedy nor its broader public-remedy rationale is imported as a universal rule. No precedent is overruled, and no withdrawn portion of Delta Traffic supplies authority.
+
+## Law After Decision
+
+Effective January 10, 1995, the Court recognizes this express public credit-rule injunction as compatible with filed-rate obligations and directs its implementation for the admitted-unlawful loss-of-discount liquidated-damages class. Before this decision, Commercial Metals and Reiter distinguished public enforcement and enacted statutory remedies from a general private equitable defense without deciding this injunction. The new application resolves statutory availability, the conceded class's violation and character, and the appropriateness of this confined restraint. The actual credit periods, billing triggers, notice duties, clerical-error and duplicate-fee limits, distinct contractual route and §11702(a)(4) rate-review exception retain the terms set out in the Holdings block. Ordinary freight principal and other estate receivables remain outside the restraint; no universal debt discharge, automatic private defense, exact amount, later-reform entitlement or general agency-deference rule is created.
+
+## Separate Writings
+
+## Procedure After Action
+
+The Ninth Circuit's judgment denying this credit-rule collection injunction is reversed. On remand, the lower courts must implement an injunction against collection of the admitted-unlawful loss-of-discount liquidated-damages class, specifying its operative terms and resolving genuine scope, inclusion or amount disputes beyond the concessions. The conceded original-notice failure, years-late revised billing, prohibited aggregation and liquidated-damages character are not reopened. Ordinary unpaid freight principal, other estate receivables and collections outside that class are excluded. A properly presented distinct lawful collection basis remains for its own adjudication; none is established by this judgment. The prior separate coded-rate component remains undisturbed. Supreme Court merits review is complete; implementation proceeds below, without a new deadline, exact dollar award, estate-distribution order or general discharge.
+
+## Source Notes
+
+The published lower opinions, [9 F.3d 64](https://static.case.law/f3d/9/html/0064-01.html) and [990 F.2d 1503](https://static.case.law/f2d/990/html/1503-01.html), support the proceedings below and reproduce the governing pre-reform provisions, including the credit regulations in the latter opinion's footnote 1. The [United States Reports at 513 U.S. 138–149](https://tile.loc.gov/storage-services/service/ll/usrep/usrep513/usrep513138/usrep513138.pdf) support the docket, dates and reported predecision record facts. The reported violation concession is tied to Brief in Opposition pages 4–5, and the charge-character concession to oral-argument transcript page 24. The complete original filings, transcript and billing accounts are not independently supplied; no verbatim concession, account amount or additional admission is attributed. The reviewed concessions have the exact bounded scope stated above. The applicable credit regulations are in Title 49 of the Code of Federal Regulations. No later statutory reform is applied to the earlier shipments.

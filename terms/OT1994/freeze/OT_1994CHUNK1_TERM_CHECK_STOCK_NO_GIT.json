@@ -4,5 +4,5 @@
   "deferred_tokens": [
     "ec1395dd"
   ],
-  "output": "ERRORS\n - chunk 1: stale runtime split: Traceback (most recent call last):\n  File \"C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py\", line 72, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py\", line 49, in main\n    n, s, c = split_case(name, block)\n              ~~~~~~~~~~^^^^^^^^^^^^^\n  File \"C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py\", line 27, in split_case\n    raise ValueError(f\"{name}: expected exactly one live SECTION I, II, and III; found {labels}\")\nValueError: 1. United States v. Shabani: expected exactly one live SECTION I, II, and III; found ['I']\nWARNINGS\n - terms\\OT1994\\records\\In_re_Baby_K_merits_1994-12-12.md: Git reference check DEFERRED, not verified: ec1395dd\nGit reference validation intentionally unperformed under user instruction.\n"
+  "output": "WARNINGS\n - terms\\OT1994\\records\\In_re_Baby_K_merits_1994-12-12.md: Git reference check DEFERRED, not verified: ec1395dd\nOK: OT1994; 1 warning(s)\nGit reference validation intentionally unperformed under user instruction.\n"
 }

@@ -1,0 +1,28 @@
+# OT1994 chunk 1 — Transcon completion validation
+
+**Status:** Completed as the twelfth chunk-1 event. The Ninth Circuit is reversed and the case remanded, 9-0, for implementation of the confined loss-of-discount liquidated-damages injunction. Chief Justice Stone-Zsela assigns Kennedy; Kennedy writes for all nine, with full joins and no separate writing. No Transcon adjudicative or revalidation blocker remains. Repository verification and commitment are reserved to the operator.
+
+## Substantive scope and assembly
+
+The user's September 28, 2026 express choice replaces only Stone's previously open-consideration remedy. His final vote and full join preserve the actual credit/enforcement source, three admitted defects, identified liquidated-damages character, independent review of authority and remedial suitability, and every regulatory qualification. Genuine scope, inclusion and amount questions beyond the concessions remain. Ordinary unpaid freight principal and other estate receivables are excluded. No amount, exception, independent contractual collection route or later-reform relief is established by inference. The Title 49 regulatory citation corrects “47 C.F.R./ICC-equivalent” clerically without changing the notice duty.
+
+The [Record](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) preserves each frozen Justice-specific commitment and barrier, the final compatibility assessment, assignment basis, three controlling propositions and the exact mandate. All eight non-Stone commitments and the chronology confirmation remain unchanged. The assembly does not claim a new blind modeling stage. No prior adjudication is corrected or superseded. The reported concessions retain their disclosed original-filing and account-source limits; no complete original brief or transcript recovery is claimed.
+
+## Integration
+
+The [Render Input](../render-inputs/OT_1994CHUNK1.md) is regenerated only from the twelve Records' bounded Public Projections; Transcon's entry is added and its stopped-matter preface removed. The eleven previous event entries remain byte-identical in their substantive generated blocks. Metadata now states twelve completed events, November 1, 1994 through January 10, 1995. No public render was requested or written.
+
+The ledger adds Transcon as preserved event 12. The manifest marks it completed and retains all 99 inventory matters (12 completed, 87 unprocessed), seven additional unscheduled carryovers and the existing Miller blocker. Continuity and the sanitized neutral projection contain Transcon's controlling rules, full regulatory qualifications and implementation stage. The cursor is January 10 after Transcon only; Tome retains the common pre-January-10 baseline, and January 9 is the fully completed earlier-day cutoff. The current revalidation handoff and Run validation now report completion.
+
+## Checks and limits
+
+- [Task-start integrity and integration](OT_1994CHUNK1_TRANSCON_COMPLETION_CHECK.json): no unauthorized mutation; all eleven prior Records and public event entries unchanged; frozen substantive handoffs unchanged; twelve projected events, three Transcon holdings and nine participants; correct manifest counts and same-day chronology.
+- [Form](OT_1994CHUNK1_FORM_CHECK.json): all twelve Records have the four opening labels and ordered eleven-block projections; all 26 controlling explanations meet the applicable length standard. Transcon's explanations contain 173, 162 and 185 words.
+- [Vote arithmetic](OT_1994CHUNK1_VOTE_CHECK.json): all twelve event matrices pass named participation, judgment-partition, majority and author/joinder checks. The [Transcon matrix](OT_1994CHUNK1_ASSEMBLY_VOTES_TRANSCON.json) agrees with the Record: one 9-0 judgment and three nine-Justice propositions, Kennedy plus eight joins.
+- [Clerical verification](OT_1994CHUNK1_CLERICAL_CHECK.json): 50 protected inputs match this task's starting fingerprints; frozen-byte hashes, kernel/holding identity, generated projection identity, effective order and Record links pass for twelve Records.
+- [Navigation](OT_1994CHUNK1_NAVIGATION_CHECK.json): 99 inventory/manifest rows, twelve completed matters, 163 local links and 39 local anchors pass.
+- [Stock term check](OT_1994CHUNK1_TERM_CHECK_STOCK_NO_GIT.json): passes Holdings synchronization, current stock runtime freshness, workspace coverage, Record interface and generated projection checks, with Git-reference validation deferred. The [numbered-boundary comparison](OT_1994CHUNK1_TERM_CHECK_COMPATIBLE.json) agrees; the earlier stock splitter failure is not reproduced against the current brief.
+
+The previous Run's scratch fingerprint snapshot differs from ten input files already present at the beginning of this task (nine briefs and the case list). Its actual failure is retained in the [legacy snapshot result](OT_1994CHUNK1_TRANSCON_LEGACY_SNAPSHOT_CHECK.json); the separate task-start snapshot establishes that this completion did not change them. No protected input or repository tool was edited.
+
+No Git command was run. The ledger generator's mandatory lookup was replaced in memory with disclosed effective-date/file-preservation order. All rows explicitly leave repository commitment to the operator. The term checker ran behind a no-Git guard with its commit-reference function deferred; its one possible hash is `ec1395dd` within an official statutory URL, not a newly supplied commit claim. Git-history, commit-hash existence and repository commitment remain unperformed. All writes are confined to `terms/OT1994/` and ignored `tmp/` scratch.
