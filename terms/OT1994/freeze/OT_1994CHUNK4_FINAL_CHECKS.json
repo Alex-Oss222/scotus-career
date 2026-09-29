@@ -1,0 +1,126 @@
+{
+  "errors": [],
+  "checks": [
+    "Intake fingerprints compared; changed existing files: terms/OT1994/workspace/continuity.md, terms/OT1994/workspace/ledger.md, terms/OT1994/workspace/manifest.md, terms/OT1994/workspace/neutral-projection.md",
+    "New Records structurally checked: 14",
+    "Approved Section II text checked against all twelve Records",
+    "Inventory 99 / completed48 / remaining51; twelve render events; fourteen new Records"
+  ],
+  "record_explanation_word_counts": [
+    [
+      "1995-03-22",
+      "Anderson_v_Edwards_merits_1995-03-22.md",
+      [
+        161,
+        164,
+        164,
+        159,
+        160
+      ]
+    ],
+    [
+      "1995-04-19",
+      "Celotex_Corp_v_Edwards_merits_1995-04-19.md",
+      [
+        158,
+        163,
+        164,
+        166,
+        159
+      ]
+    ],
+    [
+      "1995-03-21",
+      "Director_Office_of_Workers_Compensation_Programs_v_Newport_News_Shipbuilding_and_Dry_Dock_Co_merits_1995-03-21.md",
+      [
+        169
+      ]
+    ],
+    [
+      "1995-04-18",
+      "Freightliner_Corp_v_Myrick_merits_1995-04-18.md",
+      [
+        159,
+        163
+      ]
+    ],
+    [
+      "1995-04-18",
+      "Heintz_v_Jenkins_merits_1995-04-18.md",
+      [
+        161
+      ]
+    ],
+    [
+      "1995-04-18",
+      "Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md",
+      [
+        164,
+        163,
+        159
+      ]
+    ],
+    [
+      "1995-04-19",
+      "McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md",
+      [
+        156,
+        161,
+        159
+      ]
+    ],
+    [
+      "1995-04-03",
+      "Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md",
+      [
+        158,
+        154,
+        164,
+        158,
+        157
+      ]
+    ],
+    [
+      "1995-04-04",
+      "Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md",
+      []
+    ],
+    [
+      "1995-04-18",
+      "Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md",
+      [
+        166
+      ]
+    ],
+    [
+      "1995-03-28",
+      "Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md",
+      [
+        161,
+        170
+      ]
+    ],
+    [
+      "1995-04-18",
+      "Shalala_v_Whitecotton_merits_1995-04-18.md",
+      [
+        161,
+        168
+      ]
+    ],
+    [
+      "1995-03-27",
+      "Swanner_v_Anchorage_Equal_Rights_Commission_merits_1995-03-27.md",
+      [
+        167
+      ]
+    ],
+    [
+      "1995-03-10",
+      "Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md",
+      []
+    ]
+  ],
+  "git_commands_executed": false,
+  "git_provenance": "Deferred to operator; not verified"
+}

@@ -1,0 +1,36 @@
+# Celotex — reconciliation source correction and release requirements
+
+No final reconciled Celotex commitments are released by this document. The frozen `OT_1994CHUNK4_COMMITMENTS_46_47_48.md` remains unchanged. This context has not received Stone material or any assembly draft.
+
+## Concrete correction
+
+The earlier neutral packet described 128 B.R. 478, 484 as the issuing court's interpretation of the October 17, 1990 order. The complete primary bankruptcy decision includes an operative later order at 128 B.R. 485, paragraph 3: where the appellate process had concluded when the petition was filed, the judgment creditor is precluded from proceeding against a supersedeas bond posted by the debtor without first seeking to vacate the §105 stay. This is an express command directed at the completed-appeal category, not merely the original order's debtor-directed wording or an explanatory gloss. The paragraph materially affects the Stevens/Ginsburg frozen scope-only affirmance ground. It cannot be silently replaced in assembly with a different ground.
+
+The primary source is now preserved in `sources/chunk4/celotex_supplement/bankruptcy_128_BR_478.txt`, read in full here. The bankruptcy court's treatment of §105 as initial protection, its view of related claims and its core-proceeding statement are its legal conclusions, not established Supreme Court holdings. Its instructions for continuing the stay place the burden on the debtor; preserve that term if used. The Fifth Circuit's record limitations concerning the specific collateral agreement remain distinct from the bankruptcy court's broader reorganization findings.
+
+## Distinct statutory issue requiring clean presentation
+
+Section 1334(b) grants original but nonexclusive jurisdiction to district courts over proceedings arising under, arising in, or related to a Title 11 case. Section 157(a) permits reference to bankruptcy judges. Section 157(b) provides for determination of core proceedings; §157(c)(1) permits a bankruptcy judge to hear noncore related proceedings but reserves final orders and judgments to the district judge after the specified review; §157(c)(2) separately permits adjudication with all parties' consent. These provisions raise a question distinct from whether the independent bond is estate property: whether the bankruptcy judge's statutory adjudicative role permits this interlocutory injunction even if the underlying controversy is related to the bankruptcy. Northern Pipeline supplies the date-eligible constitutional setting. Section 105 grants no independent subject-matter jurisdiction.
+
+The 1994 House code copies in the supplement directory reproduce the relevant text and effective-date histories. Their 1994 additions do not apply to this 1990 case. Do not use the new §157(e) jury provision or the new §1334(e) numbering for estate jurisdiction in describing the governing earlier version; applicable property jurisdiction is §1334(d). The relevant §157(c) and §1334(b) text is unchanged. Retain the applicable abstention text and its separate conditions rather than treating state-law character alone as mandatory abstention.
+
+## What remains of the original commitments
+
+| Justice | Frozen judgment and ground | Reconciliation release requirement |
+|---|---|---|
+| Stevens | Affirm solely on order scope, reserving whether a differently framed related-proceeding order could bind. | The new express order defeats treating the original words alone as the dispositive record. Clean modeling must reconsider scope and the separate §§1334/157 adjudicative-power objection. No final affirmation or reversal is selected here. |
+| O'Connor | Reverse/remand for direct challenge to the applicable injunction, reserving its ultimate merits. | New order confirms the factual premise; clean review must still address §157's separate objection. Her Germain support is judgment agreement on separate reasoning, not a join of Thomas's text/coexistence rationale. |
+| Scalia | Reverse/remand on direct-review ground with jurisdiction/frivolity qualifications. | Retain those qualifications and assess the §157/interlocutory distinction; do not convert §105 into jurisdiction or all bankruptcy coordination into absolute power. |
+| Kennedy | Reverse/remand on the same direct-review ground. | Assess actual order and §157 without inventing specific collateral terms or quantified depletion. Relatedness and estate-property ownership remain distinct. |
+| Souter | Reverse/remand under relatedness and orderly direct review. | Address whether §157 creates a material noncore barrier; leave ultimate relief validity and the general perimeter of related jurisdiction open if not necessary. |
+| Thomas | Reverse/remand, grounded in statutory review architecture. | Text of §§157 and 1334 must both be considered. A statement that the controversy is related does not itself answer every bankruptcy-judge power question. |
+| Ginsburg | Affirm solely on order scope with Stevens, without a general prohibition on nondebtor injunctions. | Express later order changes that premise. Fresh modeling must consider its effect and the separate adjudicative-power issue. Her Swint opinion is a bounded review-authority comparison, not a holding deciding §157. |
+| Breyer | Reverse/remand for orderly direct review, reserving ultimate injunction validity. | Assess §157's actual allocation without invoking complexity alone as a source of power. No final estate-loss finding is supplied. |
+
+## Historical comparison to perform after the clean handoff
+
+The complete official report, 514 U.S. 300, was read across all 34 PDF pages, including the entire Stevens dissent joined by Ginsburg and every note. Historically the six associates who are provisionally for reversal joined the collateral-review result; Stevens and Ginsburg would affirm, but their historical dissent did not stop at the original order's scope. It accepted district-court relatedness and focused on the bankruptcy judge's non-Article III adjudicative limits under §157, with an additional view that the injunction had only a frivolous pretense to validity. No historical author or join becomes a simulated opinion assignment. The reported historical waiver discussion about noncore proceedings cannot be converted into a party concession in this timeline without verified party materials or an explicit bounded legal treatment of preservation.
+
+The historical majority states that respondents acknowledged the injunction's applicability in the brief in opposition at page 6 n.2. This original brief has not been independently read here. The new objective scope fact can be established directly from the primary bankruptcy order, without importing that reported concession or the historical Court's evaluation of it.
+
+After a clean neutral validator presents the order/statutory correction, a context with no comparator or Stone must remodel affected commitments. This same Stone-blind reconciliation context may then test that new frozen handoff against history. Until then, all eight final Celotex reconciliation rows are unreleased; the six provisional reversal votes are not treated as a completed Court judgment. Other matters can proceed independently.

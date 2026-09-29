@@ -1,0 +1,3 @@
+# Initial Run presentation check
+
+Before this Run’s final validation, compound precedent-treatment bullets in the newly assembled Anderson entry and the unpromoted Lanphere draft were separated so each cited decision has its own line. The treatments and legal consequences are unchanged. Anderson’s matching kernel and Public Projection were updated together; the earlier tightly linked entering-law copies remain accurate legal reading copies. No frozen commitment, reconciliation, approved brief, or adjudication completed before this task was changed. The initial chunk has not yet passed its final whole-term validation or operator commitment.

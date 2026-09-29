@@ -1,0 +1,656 @@
+{
+  "errors": [],
+  "arithmetic": [
+    {
+      "record": "Anderson_v_Edwards_merits_1995-03-22.md",
+      "components": [
+        {
+          "component": "Categorical availability objection to common-caretaker grouping",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        },
+        {
+          "component": "Exclusive mandatory-family-inclusion objection",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        },
+        {
+          "component": "Independently preserved equitable-treatment objection",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        },
+        {
+          "component": "Contention that \u00a7612 requires separate units and exclusive use of proration",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        },
+        {
+          "component": "Categorical injunction and derivative separate-grant requirements",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Souter",
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Souter",
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Bounded unit/availability construction; nonexclusive mandatory inclusion; equity merits; proration boundary; independent construction without a necessary deference holding; conforming remedy."
+        }
+      ]
+    },
+    {
+      "record": "Celotex_Corp_v_Edwards_merits_1995-04-19.md",
+      "components": [
+        {
+          "component": "Authorization to enforce Northbrook's bond contrary to the applicable \u00a7105 restraint",
+          "vote": "7\u20132",
+          "support": [
+            "Stone",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens",
+            "Ginsburg"
+          ]
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Thomas",
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court: June-coverage and execution/review-remedy portions",
+          "supporters": [
+            "Thomas",
+            "Stone",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "scope": "Exact operative order scope and conforming remedy with qualified relief/review routes; seven direct joins in these portions."
+        },
+        {
+          "portion": "Opinion of the Court: actual-relatedness, sufficient interim \u00a7157 authority, and complete collateral-review portions",
+          "supporters": [
+            "Thomas",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "scope": "Six direct full-rationale votes on all three portions; Stone-Zsela does not join them."
+        }
+      ]
+    },
+    {
+      "record": "Director_Office_of_Workers_Compensation_Programs_v_Newport_News_Shipbuilding_and_Dry_Dock_Co_merits_1995-03-21.md",
+      "components": [
+        {
+          "component": "Director-initiated employee-award review under \u00a7921(c)",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ],
+      "Court_opinion_supporters": [
+        "O'Connor",
+        "Stone",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "O'Connor",
+            "Stone",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Breyer"
+          ],
+          "scope": "Entire bounded statutory opinion; eight rationale votes."
+        }
+      ]
+    },
+    {
+      "record": "Freightliner_Corp_v_Myrick_merits_1995-04-18.md",
+      "components": [
+        {
+          "component": "Myrick and Lindsey common-law preemption summary judgments",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Ginsburg",
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Ginsburg",
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Breyer"
+          ],
+          "scope": "Entire bounded express-preemption and actual-conflict opinion; eight rationale votes."
+        }
+      ]
+    },
+    {
+      "record": "Heintz_v_Jenkins_merits_1995-04-18.md",
+      "components": [
+        {
+          "component": "Categorical attorney-litigation exemption and dismissal",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Souter",
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Souter",
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Entire regular-attorney/litigation coverage rule and ordinary-elements/defenses reservations; no separate opinion."
+        }
+      ]
+    },
+    {
+      "record": "Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md",
+      "components": [
+        {
+          "component": "Summary judgment sustaining the solicitation-use prohibition and access assurance in this application",
+          "vote": "7\u20132",
+          "support": [
+            "Stone",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "O'Connor",
+            "Scalia"
+          ]
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Kennedy",
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Kennedy",
+            "Stone",
+            "Stevens",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Commercial-speech review, inadequate advancement, inadequate fit, and limited relief; qualified court-access right reserved."
+        }
+      ]
+    },
+    {
+      "record": "McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md",
+      "components": [
+        {
+          "component": "Ohio judgment sustaining identification requirement and fine for Margaret McIntyre's leaflets",
+          "vote": "8\u20131",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Scalia"
+          ]
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Stevens",
+        "Stone",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Stevens",
+            "Stone",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Exacting scrutiny, insufficient information and fraud justifications in this application, reserved disclosure settings, and setting aside the sanction."
+        }
+      ]
+    },
+    {
+      "record": "Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md",
+      "components": [
+        {
+          "component": "Commerce Clause disallowance of the stipulated local-sale/local-origin claims",
+          "vote": "7\u20132",
+          "support": [
+            "Stone",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "oppose": [
+            "O'Connor",
+            "Breyer"
+          ]
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Kennedy",
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Kennedy",
+            "Stone",
+            "Stevens",
+            "Souter",
+            "Ginsburg"
+          ],
+          "scope": "All five Complete Auto component propositions, their limits, and the bounded bankruptcy remedy."
+        }
+      ]
+    },
+    {
+      "record": "Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md",
+      "components": [
+        {
+          "component": "Section 27A(b) reinstatement of final private dismissal",
+          "vote": "7\u20132",
+          "support": [
+            "Stone",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens",
+            "Ginsburg"
+          ]
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Thomas",
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Thomas",
+            "Stone",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Breyer"
+          ],
+          "scope": "Complete confined Morgan Stanley application; seven rationale votes."
+        }
+      ]
+    },
+    {
+      "record": "Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md",
+      "components": [
+        {
+          "component": "Categorical color-registration bar and resulting cancellation direction",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ],
+      "Court_opinion_supporters": [
+        "Souter",
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "Souter",
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Entire color-eligibility holding, functionality limitation, and bounded remedy; no separate writing."
+        }
+      ]
+    },
+    {
+      "record": "Shalala_v_Whitecotton_merits_1995-04-18.md",
+      "components": [
+        {
+          "component": "Table onset construction and direction to determine compensation",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        },
+        {
+          "component": "Consolidated new-evidence appeal, lower No. 93-5101 with No. 92-5083",
+          "vote": "9\u20130",
+          "support": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ],
+      "Court_opinion_supporters": [
+        "O'Connor",
+        "Stone",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "O'Connor",
+            "Stone",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "scope": "Entire onset rule, alternative-route and rebuttal sequence, factual reservations, Table transition and procedural remand."
+        }
+      ]
+    },
+    {
+      "record": "Swanner_v_Anchorage_Equal_Rights_Commission_merits_1995-03-27.md",
+      "components": [
+        {
+          "component": "Federal prospective-enforcement determination under RFRA",
+          "vote": "5\u20134",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas"
+          ],
+          "oppose": [
+            "Stone",
+            "Stevens",
+            "Ginsburg",
+            "Breyer"
+          ]
+        }
+      ],
+      "Court_opinion_supporters": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "Court_opinion_portions": [
+        {
+          "portion": "Opinion of the Court",
+          "supporters": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas"
+          ],
+          "scope": "Entire RFRA opinion, including burdens, third-party interests, scope boundaries and constitutional reservation."
+        }
+      ]
+    }
+  ],
+  "scope": "Named vote and join consistency only; legal scope and comparators reviewed qualitatively by the scoped stages and operator."
+}
