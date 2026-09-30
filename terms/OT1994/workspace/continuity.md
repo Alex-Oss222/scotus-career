@@ -2,13 +2,16 @@
 
 ## 1. Scope and Chronology Cursor
 
-**Posture:** After chunk 5, with 59 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-05-15. The April 19 group is complete. The May 15 group continues in chunk 6 with City of Edmonds, Reynoldsville Casket, and Day v. Holahan. All uncoordinated May 15 matters share the pre-May-15 baseline; Kansas v. Colorado and Hubbard do not supply entering law to their same-date peers.
+Robertson’s previously stopped May 1 event is now inserted on the operator-verified merits record. This cumulative direct-enterprise commerce holding changes no adjudicative predicate in the already completed Pinson, Kansas or Hubbard decisions. Their original preparation recitals remain preserved; current authority now includes Robertson from May 1. The cursor and same-day May 15 controls are unchanged. No noncontrolling writing is added.
+
+
+**Posture:** After chunk 5, with 60 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-05-15. The April 19 group is complete. The May 15 group continues in chunk 6 with City of Edmonds, Reynoldsville Casket, and Day v. Holahan. All uncoordinated May 15 matters share the pre-May-15 baseline; Kansas v. Colorado and Hubbard do not supply entering law to their same-date peers.
 
 The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 59 inventory events are completed; 40 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No inherited carryover is closed. Kansas v. Colorado remains before the Court for the remedy phase after resolution of this scheduled exceptions event. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition remain Admitted Source Records, not additional Court judgments.
+The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 60 inventory events are completed; 39 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No inherited carryover is closed. Kansas v. Colorado remains before the Court for the remedy phase after resolution of this scheduled exceptions event. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition remain Admitted Source Records, not additional Court judgments.
 
 The next scheduled inventory group is **City of Edmonds v. Oxford House, Reynoldsville Casket Co. v. Hyde, and Day v. Holahan, May 15, 1995, chunk 6**. Those matters retain the common pre-May-15 baseline. File-preservation order creates no release sequence.
 
@@ -75,12 +78,49 @@ The next scheduled inventory group is **City of Edmonds v. Oxford House, Reynold
 | 1995-04-26 | [New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co.; Pataki v. Travelers Insurance Co.; Hospital Association of New York State v. Travelers Insurance Co., Nos. 93-1408, 93-1414 and 93-1415.](../records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md) | Reverse in part, vacate in part, and remand in all three dockets, 9–0: reverse the decided commercial-insurance and HMO ERISA surcharge rulings and dissolve the associated ERISA relief; vacate any reviewed direct-self-funded adjudication and associated ERISA surcharge protection while remanding that live reserved claim. Independent FEHBA and Actuarial Letter dispositions remain undisturbed. |
 | 1995-04-26 | [United States v. Lopez, No. 93-1260.](../records/United_States_v_Lopez_merits_1995-04-26.md) | Affirm the Fifth Circuit’s judgment reversing the original §922(q)(1)(A) conviction and directing dismissal, 5–4. The dismissal remains in force. |
 | 1995-04-27 | [United States v. Harris, No. 94-297.](../records/United_States_v_Harris_merits_1995-04-27.md) | Affirmed, 9–0, on all three presented challenges; each defendant’s forty-one-month Count One term and consecutive sixty-month Count Two term remain in force. Commerce rationale: eight associate votes; Stone concurs on a distinct ground. |
+| 1995-05-01 | [United States v. Robertson, No. 94-251](../records/United_States_v_Robertson_merits_1995-05-01.md) | Reverse Count Six commerce ruling and remand, 9–0; remaining RICO claims and sentencing issue preserved; independent drug resentencing unchanged. |
 | 1995-05-08 | [United States v. Pinson, No. 94-164; Eighth Circuit No. 93-2851.](../records/United_States_v_Pinson_merits_1995-05-08.md) | Vacated insofar as the challenged suppression ruling and conviction affirmance rest on the no-search ground, and remanded, 7–2. Search coverage has seven votes; absence of an established warrant exception has six; the bounded mandate has seven. No automatic suppression, reopened affidavit-sufficiency proceeding, or independent sentencing relief. |
 | 1995-05-15 | [Hubbard v. United States, No. 94-172; Sixth Circuit No. 91-1775.](../records/Hubbard_v_United_States_merits_1995-05-15.md) | Reverse the affirmance of Counts V–VII and remand for their vacatur, 7–2. Six Justices exclude the court under §§6 and 1001 and expressly overrule Bramblett’s incompatible all-branch construction; Stone-Zsela supplies a narrower reversal ground. No extended stare decisis rationale or independent lenity holding commands a majority. The other seven counts remain undisturbed by this review. |
 | 1995-05-15 | [Kansas v. Colorado, No. 105, Original.](../records/Kansas_v_Colorado_original_exceptions_1995-05-15.md) | All seven exceptions overruled, the pumping liability and three unexcepted recommendations adopted on the stated grounds, and the original action recommitted to the Special Master for remedy; 9–0. |
 The [ledger](ledger.md) indexes the durable Records.
 
 ## 3. Current Law
+
+### United States v. Robertson, No. 94-251 — 1995-05-01
+
+Authority: [Record](../records/United_States_v_Robertson_merits_1995-05-01.md#public-projection)
+
+#### Holdings
+
+### The mine’s own interstate operations satisfy the enacted enterprise-commerce condition
+
+**Controlling proposition:** An enterprise is engaged in interstate commerce under §1962(a) when it directly participates in interstate acquisition, production or distribution of goods or services. This mine’s actual cross-border procurement, repeated interstate recruitment and mine-work movement, together with its proprietor’s carriage out of Alaska of approximately $30,000 of its own output, establish that connection without a separate showing that this individual mine substantially affected interstate commerce.
+
+**Authority:** Justice Breyer’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: nine direct joins in the rule, cumulative application and bounded remedy.
+
+**Controlling explanation:** The Court holds that this mine participated in interstate commerce itself. American Building Maintenance distinguishes direct acquisition, production or distribution across state lines from local purchases of goods whose earlier interstate journey has ended; Gulf Oil likewise keeps direct engagement distinct from local activity with interstate effects. The mine obtained some equipment in California for use in Alaska, repeatedly brought workers across state lines for mining, and its sole proprietor carried a meaningful amount of its gold outside Alaska. Calling the enterprise local mining and local sales does not erase these transactions. The output’s mining origin and its carriage by the proprietor, considered with the continuing interstate operations, answer the attribution objection here without an out-of-state sale or a rule attributing every private owner act to the enterprise. Lopez rejects the unbounded chain from local wrongdoing to national economic consequences; this prosecution needs no such chain because the enacted connection is proved. The Court does not decide the separate affecting-commerce alternative, whether it requires substantial effects, or the sufficiency of retained-output carriage standing alone.
+
+**Precedent treatment:**
+
+- United States v. American Building Maintenance Industries, 422 U.S. 271, 283–286 (1975): applies its distinction between direct interstate goods or services transactions and local purchases after interstate movement has ended; its Clayton Act setting does not erase RICO’s separate affecting-commerce alternative.
+- Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186, 195 (1974): applies its direct-engagement distinction; local economic effects and direct participation remain different inquiries.
+- United States v. Lopez, April 26, 1995: distinguishes the stand-alone school-possession offense and generalized social-cost chain from this proved interstate enterprise connection; its bounded holding remains intact.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves attention to actual multistate commercial operation and its reserved constitutional ceiling; the FAA’s broader involving-commerce wording is not substituted for §1962(a).
+- United States v. Harris, April 27, 1995: preserves the economic-class vehicle-taking holding and refusal to make remote vehicle history alone conclusive; this decision instead concerns the enterprise’s own present interstate operations.
+
+**Limits and questions not reached:** The cumulative ground makes an independently sufficient procurement-only holding unnecessary. The Court does not decide whether a purely intrastate enterprise with only remote economic consequences satisfies §1962(a), establish a universal owner-activity attribution rule, or make a jurisdictional phrase substitute for proof. Predicate drug commerce alone is not enterprise commerce. Neither an out-of-state nugget sale, a precise output percentage, productive use of the wrecked Cadillac, mine use of the airplane, nor traced downstream refinery shipment is necessary or found. The Court decides no other RICO appellate claim, Guidelines issue or claim arising under a different RICO subsection.
+
+#### Precedent Treatment
+
+American Building Maintenance and Gulf Oil supply the direct-engagement distinction; their narrower statutory settings remain identified. Actual interstate operation controls this application. Allied-Bruce, Lopez and Harris retain their stated scopes. The commerce condition remains independent under National Organization for Women v. Scheidler; Reves’s direction requirement for §1962(c) is not imported into §1962(a). Holmes’s direct-injury requirement for civil RICO damages does not determine this criminal enterprise-commerce question. No precedent is overruled.
+
+#### Law After Decision
+
+Section 1962(a)’s direct-engagement alternative is satisfied by the proved cumulative interstate operation of this mine. A separate substantial-effects showing for this individual enterprise is unnecessary under that alternative. The separate affecting-commerce route and its constitutional reach remain undecided. The decision adds no independently sufficient procurement-only rule and no rule making every proprietor’s private conduct enterprise activity. Lopez’s negative school-possession holding and Harris’s distinct economic-class holding remain unchanged; the Chief Justice’s complete six-route account in Lopez does not become a Court test through this decision.
+
+Section 1962(a)’s separate income, participation and investment conditions remain intact. Its securities qualification continues to exclude an open-market investment purchase made without intent to control or participate in control of the issuer or assist another in doing so, when the purchaser’s, immediate family’s and racketeering or unlawful-debt accomplices’ aggregate holdings after purchase are less than one percent of any outstanding class and confer no power, in law or fact, to elect a director. That qualification is not implicated by ownership and operation of this mine.
+
+
 
 The public holdings, precedent treatment and present force below are copied from completed Records. Records control; no provisional commitment or separate writing changes law. Their effective dates and exact coalition limits remain operative.
 
@@ -2807,6 +2847,40 @@ Lopez preserves the economic-class ground used here while rejecting general down
 
 Original armed vehicle taking within the economic class and subject to the enacted vehicle-history requirement survives the commerce challenge on the Court's eight-Justice ground. That holding neither makes remote interstate movement alone sufficient nor adopts an automatic instrumentality theory. The original statute requires knowing participation and intentional aid for aiding-and-abetting liability, while no majority decides nexus-history knowledge or permanent deprivation. Clear §924(c) cumulative and consecutive authorization governs this §2119 pairing, and Hunter permits the resulting same-trial punishment. Existing successive-prosecution law remains unchanged. No later statutory amendment or unproved trial defect becomes law through this affirmance.
 
+### United States v. Robertson, No. 94-251 ? 1995-05-01
+
+Authority: [Record](../records/United_States_v_Robertson_merits_1995-05-01.md#public-projection)
+
+#### Holdings
+
+### The mine’s own interstate operations satisfy the enacted enterprise-commerce condition
+
+**Controlling proposition:** An enterprise is engaged in interstate commerce under §1962(a) when it directly participates in interstate acquisition, production or distribution of goods or services. This mine’s actual cross-border procurement, repeated interstate recruitment and mine-work movement, together with its proprietor’s carriage out of Alaska of approximately $30,000 of its own output, establish that connection without a separate showing that this individual mine substantially affected interstate commerce.
+
+**Authority:** Justice Breyer’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: nine direct joins in the rule, cumulative application and bounded remedy.
+
+**Controlling explanation:** The Court holds that this mine participated in interstate commerce itself. American Building Maintenance distinguishes direct acquisition, production or distribution across state lines from local purchases of goods whose earlier interstate journey has ended; Gulf Oil likewise keeps direct engagement distinct from local activity with interstate effects. The mine obtained some equipment in California for use in Alaska, repeatedly brought workers across state lines for mining, and its sole proprietor carried a meaningful amount of its gold outside Alaska. Calling the enterprise local mining and local sales does not erase these transactions. The output’s mining origin and its carriage by the proprietor, considered with the continuing interstate operations, answer the attribution objection here without an out-of-state sale or a rule attributing every private owner act to the enterprise. Lopez rejects the unbounded chain from local wrongdoing to national economic consequences; this prosecution needs no such chain because the enacted connection is proved. The Court does not decide the separate affecting-commerce alternative, whether it requires substantial effects, or the sufficiency of retained-output carriage standing alone.
+
+**Precedent treatment:**
+
+- United States v. American Building Maintenance Industries, 422 U.S. 271, 283–286 (1975): applies its distinction between direct interstate goods or services transactions and local purchases after interstate movement has ended; its Clayton Act setting does not erase RICO’s separate affecting-commerce alternative.
+- Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186, 195 (1974): applies its direct-engagement distinction; local economic effects and direct participation remain different inquiries.
+- United States v. Lopez, April 26, 1995: distinguishes the stand-alone school-possession offense and generalized social-cost chain from this proved interstate enterprise connection; its bounded holding remains intact.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves attention to actual multistate commercial operation and its reserved constitutional ceiling; the FAA’s broader involving-commerce wording is not substituted for §1962(a).
+- United States v. Harris, April 27, 1995: preserves the economic-class vehicle-taking holding and refusal to make remote vehicle history alone conclusive; this decision instead concerns the enterprise’s own present interstate operations.
+
+**Limits and questions not reached:** The cumulative ground makes an independently sufficient procurement-only holding unnecessary. The Court does not decide whether a purely intrastate enterprise with only remote economic consequences satisfies §1962(a), establish a universal owner-activity attribution rule, or make a jurisdictional phrase substitute for proof. Predicate drug commerce alone is not enterprise commerce. Neither an out-of-state nugget sale, a precise output percentage, productive use of the wrecked Cadillac, mine use of the airplane, nor traced downstream refinery shipment is necessary or found. The Court decides no other RICO appellate claim, Guidelines issue or claim arising under a different RICO subsection.
+
+#### Precedent Treatment
+
+American Building Maintenance and Gulf Oil supply the direct-engagement distinction; their narrower statutory settings remain identified. Actual interstate operation controls this application. Allied-Bruce, Lopez and Harris retain their stated scopes. The commerce condition remains independent under National Organization for Women v. Scheidler; Reves’s direction requirement for §1962(c) is not imported into §1962(a). Holmes’s direct-injury requirement for civil RICO damages does not determine this criminal enterprise-commerce question. No precedent is overruled.
+
+#### Law After Decision
+
+Section 1962(a)’s direct-engagement alternative is satisfied by the proved cumulative interstate operation of this mine. A separate substantial-effects showing for this individual enterprise is unnecessary under that alternative. The separate affecting-commerce route and its constitutional reach remain undecided. The decision adds no independently sufficient procurement-only rule and no rule making every proprietor’s private conduct enterprise activity. Lopez’s negative school-possession holding and Harris’s distinct economic-class holding remain unchanged; the Chief Justice’s complete six-route account in Lopez does not become a Court test through this decision.
+
+Section 1962(a)’s separate income, participation and investment conditions remain intact. Its securities qualification continues to exclude an open-market investment purchase made without intent to control or participate in control of the issuer or assist another in doing so, when the purchaser’s, immediate family’s and racketeering or unlawful-debt accomplices’ aggregate holdings after purchase are less than one percent of any outstanding class and confer no power, in law or fact, to elect a director. That qualification is not implicated by ownership and operation of this mine.
+
 ### United States v. Pinson, No. 94-164; Eighth Circuit No. 93-2851. — 1995-05-08
 
 Authority: [Record](../records/United_States_v_Pinson_merits_1995-05-08.md#public-projection).
@@ -3627,6 +3701,14 @@ All nine Justices join the opinion of the Court and its remedy direction. No sep
 
 ## 5. Current Procedure and Institution
 
+### United States v. Robertson, No. 94-251 — 1995-05-01
+
+Authority: [Record](../records/United_States_v_Robertson_merits_1995-05-01.md#public-projection)
+
+The case returns to the Ninth Circuit for remaining preserved RICO appellate claims and the unresolved government RICO sentencing argument. The commerce-based reversal no longer bars reinstatement, but the Court orders neither unconditional reinstatement nor a particular RICO sentence. The independent drug-sentence vacatur and actual-resentencing mandate remain effective. Ordinary Supreme Court merits review ends; further appellate proceedings remain below. No new trial, acquittal, forfeiture or substantive sentencing ruling is ordered.
+
+
+
 ### Current Court
 
 All nine seats are occupied at the opening of OT1994. The [Supreme Court Composition register](https://github.com/Alex-Oss222/scotus-career/blob/main/foundation/COURT_COMPOSITION.md#roster-by-october-term) controls the roster, service dates and seniority. Breyer took his seat on August 3, 1994 and is seated throughout OT1994, subject to established case-specific nonparticipation.
@@ -3980,6 +4062,12 @@ Authority: [Record](../records/United_States_v_Harris_merits_1995-04-27.md#publi
 
 The Fifth Circuit's affirmance remains in force. Each defendant's two convictions, forty-one-month Count One sentence, and consecutive sixty-month Count Two sentence are undisturbed. The Court issues no further merits remand, new trial, revised sentencing direction, or relief on a separate sufficiency or venue claim. The Supreme Court merits proceeding ends without an additional nonroutine act or condition.
 
+### United States v. Robertson, No. 94-251 ? 1995-05-01
+
+Authority: [Record](../records/United_States_v_Robertson_merits_1995-05-01.md#public-projection)
+
+The case returns to the Ninth Circuit for remaining preserved RICO appellate claims and the unresolved government RICO sentencing argument. The commerce-based reversal no longer bars reinstatement, but the Court orders neither unconditional reinstatement nor a particular RICO sentence. The independent drug-sentence vacatur and actual-resentencing mandate remain effective. Ordinary Supreme Court merits review ends; further appellate proceedings remain below. No new trial, acquittal, forfeiture or substantive sentencing ruling is ordered.
+
 ### United States v. Pinson, No. 94-164; Eighth Circuit No. 93-2851. — 1995-05-08
 
 Authority: [Record](../records/United_States_v_Pinson_merits_1995-05-08.md#public-projection).
@@ -4002,13 +4090,13 @@ The Court retains the original action and recommits it to Special Master Arthur 
 
 Miller v. Johnson / Abrams v. Johnson / United States v. Johnson remains unadjudicated for June 29. The current case-list supplies a reconstructed judgment for Georgia, no injunction and no unresolved independent claim; the former missing-judgment description is stale. Article III, appellant roles, review channel, preservation and the authorized reconstructed scope still require validation at its own Run. No present adjudication or grant is inferred.
 
-Chunk-5 stopped matters remain open as listed below. Kimberlin’s same-day Johnson dependency remains conditional. Ordinary proceedings on remand are not stopped Supreme Court events. The May 15 cross-chunk baseline must be preserved.
+No chunk-5 matter remains stopped. Kimberlin’s same-day Johnson dependency remains conditional. Ordinary proceedings on remand are not stopped Supreme Court events. The May 15 cross-chunk baseline must be preserved.
 
 The April 4 transition is now admitted in the [effective-source Record](../records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md). Its full certificate/application and labeling qualifications remain operative; Asgrow’s former-law adjudication is unchanged.
 
 The March 10 revised Vaccine Injury Table and qualifications are admitted in the [effective-source Record](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md). They govern petitions filed on or after March 10; earlier petitions retain section 2114(a) and (b) as in effect February 8, 1995. The later identification of this effective source does not alter Ambassador Books, the only completed March 10–20 event, or any earlier judgment.
 
-Stopped chunk-5 matters: [{"case": "United States v. Robertson", "blocker": "Approved Section II relies on the mine shipping a meaningful portion of its output outside Alaska. The complete supplied briefs establish the Government's assertion that Robertson carried approximately $30,000 in nuggets out of Alaska, but the Joint Appendix contains no mining testimony and does not verify an enterprise shipment. Need the cited trial testimony/exhibits (especially Tr. 774-784, 1722-1725, 1906-1907) establishing that premise, or renewed Stone approval to reverse on interstate procurement and hiring while leaving output movement unresolved. The proposed bounded revision was submitted to the user; no response received. No Court disposition, vote, or current law is created for this matter."}]
+No chunk-5 matter remains stopped. Robertson’s May 1 decision is completed; ordinary remaining appellate proceedings are preserved below.
 
 Internal validation remains open on the Engine section 8 change and the private draft-status labels retained in the preserved Morales and Williams Records. The judgments and Public Projections are not changed by these status notes. See [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md), the Engine change notice, and LINEAGE_STATUS_REVIEW in freeze/. Git verification and repository commitment remain with the operator.
 

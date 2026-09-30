@@ -1473,9 +1473,3 @@ The Court retains the original action and recommits it to Special Master Arthur 
 **End of entry: Kansas v. Colorado, Decision on exceptions, 1995-05-15.**
 
 ---
-
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| United States v. Robertson | The complete supplied briefs establish the Government?s assertion that Robertson carried approximately $30,000 in nuggets out of Alaska, but the Joint Appendix contains no mining testimony and does not verify an enterprise shipment. The cited trial testimony/exhibits (especially Tr. 774?784, 1722?1725, 1906?1907) establishing an enterprise shipment are needed, or renewed authorization to proceed on interstate procurement and hiring while leaving output movement unresolved. The proposed bounded revision remains unanswered. No Court disposition, vote, or current law is created for this matter. |

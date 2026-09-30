@@ -1,0 +1,42 @@
+{
+  "checks": {
+    "four_opening_labels": true,
+    "exact_eleven_public_blocks": true,
+    "stone_verbatim": true,
+    "holding_private_public_identity": true,
+    "explanation_120_to_200_words": true,
+    "judgment_nine_named_no_opposition": true,
+    "one_author_eight_joins": true,
+    "eleven_earlier_render_inputs_unchanged": true,
+    "robertson_projection_exact": true,
+    "no_active_stopped_metadata": true,
+    "render_inputs_effective_order": true,
+    "prior_manifest_rows_preserved": true,
+    "robertson_manifest_completed": true,
+    "manifest_counts": true,
+    "all_61_ledger_rows_preserved": true,
+    "robertson_appended_pending": true,
+    "both_workspaces_copy_law_procedure": true,
+    "runtime_freeze_identity": true,
+    "protected_prior_files": true,
+    "output_only_expected_blocker_cleanup": true,
+    "local_file_links_resolve": true,
+    "prior_public_output_entries_byte_preserved": true
+  },
+  "explanation_word_count": 174,
+  "changed_protected_files": [
+    "terms\\OT1994\\output\\OT_1994CHUNK5.md"
+  ],
+  "missing_links": [],
+  "git": "no command; reference checks deferred",
+  "record_sha256": "0ff7f43fbc33a3680623cc7d1cd4b462a3691c40b26a5e2e7c7e504ddb568b47",
+  "all_passed": true,
+  "output_original_hash_reconstruction": [
+    {
+      "middle_newlines": 2,
+      "final_newlines": 1,
+      "newline": "'\\r\\n'",
+      "bom": false
+    }
+  ]
+}
