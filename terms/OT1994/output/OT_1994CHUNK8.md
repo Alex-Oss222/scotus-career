@@ -946,11 +946,3 @@ Fourth Circuit, 18 F.3d 269; Student Activities Fund Guidelines, petition pp. 61
 The Fourth Circuit is reversed and the case remanded. The University shall remove the religious-viewpoint exclusion and apply otherwise lawful eligibility, payment and administrative terms. Any properly available independent Virginia funding defense must be examined consistently with the federal viewpoint holding; no applicability, validity or revival of forfeited defenses is declared. No full requested amount, damages, immunity, fee or compelled-fee refund determination is made.
 
 **End of entry: Rosenberger v. Rector and Visitors of the University of Virginia, merits decision, June 29, 1995.**
-
----
-
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Babbitt v. Sweet Home Chapter of Communities for a Great Oregon, No. 94-859 | The Render Input identifies ESA §6(g)(2) as an exception to §9(a)(1), but does not supply the exception's terms. A complete statement requires the official §6(g)(2) text; any application also requires the applicable State-agreement record. The exception is neither construed nor applied in the supplied decision. |
