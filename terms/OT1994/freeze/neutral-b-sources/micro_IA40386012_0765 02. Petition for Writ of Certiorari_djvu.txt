@@ -1,0 +1,1564 @@
+94 820 NOV 7 I90% 
+
+
+No. off Fice OF THE CLERK 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
++ 
+
+
+METROPOLITAN STEVEDORE COMPANY, 
+
+
+Petitioner, 
+
+
+JOHN RAMBO, 
+Respondent. 
+
+
+On Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
++ 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
++ 
+
+
+Rosert E. BaBcocKk 
+Bascock & ASSOCIATES 
+121 S.W. Salmon Street, 
+Suite 1500 
+Portland, Oregon 97204-2925 
+(503) 224-8553 
+
+
+Counsel of Record for Petitioner 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTION PRESENTED 
+
+
+Whether Section 22 of the Longshore and Harbor 
+Workers’ Compensation Act permits modification of a 
+compensation award when successful retraining and 
+reemployment efforts increase the worker’s earning 
+
+
+capacity. 
+
+
+ii 
+LIST OF PARTIES 
+
+
+The parties to the proceeding resulting in the deci- 
+sion sought to be reviewed are: 
+
+
+John Rambo 
+
+
+Metropolitan Stevedore Company;} and 
+
+
+Director, Office of Workers’ Compensation 
+Programs, United States Department of Labor 
+
+
+1 In accordance with Rules 14.1 and 29.1 of this Court, 
+Metropolitan Stevedore Company reports that it has no parent 
+companies and no subsidiaries that are not wholly owned. 
+
+
+ili 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+OPINIONS BELOW........... re rr ee eer rT Cer Te 1 
+ee WS Sa og a 6K devs 4 e4S a ew S44 ss 2 
+STATUTORY PROVISIONS INVOLVED............. 2 
+EE ee 3 
+1. Administrative Proceedings .................. 4 
+re | 5 
+REASONS FOR GRANTING THE PETITION....... 5 
+A. The Rulings Of The Fourth And Ninth Circuits 
+Te RGN Gy is og Hin 0K 9 0b Kaa Oe Koo 7 
+
+
+B. Although Fleetwood And Rambo Are The Only 
+Cases That Directly Address The Issue Pre- 
+sented Here, The Ninth Circuit Probably 
+Stands Alone In Requiring That Physical 
+Change Precede Modification ................ 9 
+
+
+C. The Ninth Circuit’s Ruling Is Neither Sensible 
+Nor Consistent With The Statutory Scheme .. 11 
+
+
+ae eee Baik Sains avs ee 6 4 y's ose soa 0s 14 
+
+
+APPENDICES 
+
+
+Order of the United States Court of Appeals for 
+the Ninth Circuit denying Metropolitan’s Peti- 
+tion for Rehearing and rejecting its Suggestion 
+for Rehearing En Banc, filed August 10, 1994..... la 
+
+
+Opinion of the United States Court of Appeals for 
+the Ninth Circuit, 28 F.3d 86 (9th Cir. 1994), 
+
+
+ian eek cnediiccesveces 2a 
+Decision and Order of the Benefits Review Board, 
+I, ee. ca dccececccctecces 6a 
+
+
+Administrative Law Judge’s Decision and Order 
+Granting Modification, dated May 29, 1991...... lla 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+CASES 
+Avondale Shipyards, Inc. v. Guidry, 967 F.2d 1039 
+i Re Se. + er rereerresrerrrrerr ere reer Teer re 10 
+Banks v. Chicago Grain Trimmers Association, 390 
+it gi. | er eepe re reer Te terre ett ts sere 8 
+Burley Welding Works, Inc. v. Lawson, 141 F.2d 964 
+ek 2. MPeeeree error ey Peer Ty rT cee 9, 10 
+Fleetwood v. Newport News Shipbuilding & Drydock 
+Co., 776 E.aa@ i225 (40h Cin. 1965) «..... cn csennas passim 
+General Dynamics Corp. v. Director, Office of 
+Workers’ Compensation Programs, United States 
+Dep't of Labor, 673 F.2d 23 (1st Cir. 1982)........ 9, 10 
+Hole v. Miami Shipyard Corporation, 640 F.2d 769 
+CO SORE, Fea a ooh keene sckraeen ye Aa 10, 11 
+Intercounty Construction Corp. v. Walter, 422 U.S. 1 
+oo Pere ere nme err eT Tr re ee 9 
+Knickerbocker Ice Co. v. Stewart, 253 U.S. 149 (1920) ..... 6 
+La Faille v. Benefits Review Board, 884 F.2d 54 (2d 
+eT Tee Te Eee Er rrr ery rer ree 10 
+Liberty Mutual Insurance Co. v. Commercial Union 
+Insurance Co., 978 F.2d 750 (1st Cir. 1992).......... 6 
+Lockheed Shipbuilding Co. v. Director, OWCP, 498 
+US... Fe Saree tcc 0h) 0h bad eae nena een edaseas cess a 6 
+McBride v. Eastman Kodak Co., 844 F.2d 797 (D.C. 
+CBr BI io acco sinks can nite ecb ea ete <A 6 
+
+
+McCormick S.S. Co. v. United States Employees’ Com- 
+pensation Commission, 64 F.2d 84 (9th Cir. 1933)..... 8 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+C’Keeffe v. Aerojet-General Shipyards, Inc., 404 U.S. 
+pg | RRP weer rr reer reer Tr errr rarer 8 
+
+
+Pillsbury v. Alaska Packers Association, 85 F.2d 758 
+(9th Cir. 1936), rev'd on other grounds, 301 U.S. 
+
+
+eg Sr eT Pere ey ee oer ae 8 
+Rambo v. Director, Office of Workers’ Compensation 
+
+Programs, 28 F.3d 86 (9th Cir. 1994)........... passim 
+Randall v. Comfort Control, 725 F.2d 791 (D.C. Cir. 
+
+i RE ee PEPE CC ERE ro re Pre rere ee 10 
+Southern Pacific Co. v. Jensen, 244 U.S. 205 (1917)..... 6 
+State of Washington v. W.C. Dawson & Co., 264 U.S. 
+
+Pe ree eo ee ere eer er ee eee 6 
+
+
+Stevens v. Director, OWCP, 909 F.2d 1256 (9th Cir. 
+1990), cert. denied sub nom., Lockheed Shipbuild- 
+
+
+ing Co. v. Director, OWCP, 498 U.S. 1073 (1991)..... 6 
+STATUTES 
+Me Sn BS ERED 6.685 obec dda nee wwdnnes i kee wenne kaw) 2 
+ee See i EEE 5 5 hb bs does ae soakephanecany «0, 23 
+re 13 
+Ee OO EN oo vc ck eccvencavcnuncwensces 2, 4, 6 
+ee i a la su 6s ou is ows cad wk as cee Rs 2, 6 
+ii io x edad ane wees civcadond iweak 13 
+ke a a ee ge 13 
+Ey kas ed Neeuskd dens dendeanedenent 5 
+
+
+SS Ki os hands be dde bbbewavewakewediaes passim 
+
+
+etter ATE MET ae! MIE Ay ot 
+
+
+No. 94-___ 
+* 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+¢ 
+METROPOLITAN STEVEDORE COMPANY, 
+Petitioner, 
+v. 
+JOHN RAMBO, 
+Respondent. 
+
+
++ 
+
+
+On Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+* 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+o 
+
+
+Petitioner Metropolitan Stevedore Company (here- 
+inafter “Metropolitan”) respectfully petitions for a writ of 
+certiorari to review the decision of the United States 
+Court of Appeals for the Ninth Circuit. 
+
+
++ 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Ninth Circuit (Appendix, infra, 
+2a-5a) is reported at 28 F.3d 86. The Order denying Met- 
+ropolitan’s Petition for Rehearing and rejecting its Sug- 
+gestion for Rehearing En Banc (App., infra, 1a) is 
+unpublished. The Decision and Order of the Benefits 
+
+
+Review Board (App., infra, 6a-10a) and the Decision and 
+Order of the Administrative Law Judge (App., infra, 
+1la-17a) are unreported. 
+
+
+JURISDICTION 
+
+
+The Decision of the United States Court of Appeals 
+for the Ninth Circuit was filed on June 24, 1994. (App. 2a) 
+A timely Petition for Rehearing filed by Metropolitan was 
+denied on August 10, 1994. (App. la) A Petition for 
+Rehearing filed by the Director, Office of Workers’ Com- 
+pensation Programs, was denied on September 14, 1994. 
+The jurisdiction of this Court is invoked under 28 U.S.C. 
+Section 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Sections 2(10), 8(c)(21), 8(h), and 22 of the Longshore 
+and Harbor Workers’ Compensation Act (hereinafter 
+“LHWCA”), 33 U.S.C. Sections 902(10), 908(c)(21), 908(h), 
+and 922, provide in relevant part as follows: 
+
+
+2(10) ‘Disability’ means incapacity because 
+of injury to earn the wages which the employee 
+was receiving at the time of injury in the same 
+or any other employment;... . 
+
+
+* * * 
+
+
+~ 8(c)(21) ~~. . . compensation shall be 667/3 
+per centum of the difference between the aver- 
+age weekly wages of the employee and the 
+employee’s wage-earning capacity thereafter in 
+
+
+the same employment or otherwise, payable 
+during the continuance of partial disability. 
+
+
+* * * 
+
+
+8(h) .. . if the employee has no actual 
+earning, or his actual earnings do not fairly and 
+reasonably represent his wage-earning capacity, 
+the [Administrative Law Judge] may, in the 
+interest of justice, fix such wage-earning capac- 
+ity as shall be reasonable, having due regard to 
+the nature of his injury, the degree of physical 
+impairment, his usual employment, and any 
+other factors or circumstances in the case which 
+may affect his capacity to earn wages in his 
+disabled condition, including the effect of dis- 
+ability as it may naturally extend into the future. 
+
+
++ * * 
+
+
+Sec. 22. ...on the ground of a change in 
+conditions or because of a mistake in a deter- 
+mination of fact . . . the [Administrative Law 
+Judge] may .. . issue a new compensation order 
+which may terminate, continue, reinstate, 
+increase, or decrease such compensation, or 
+award compensation. 
+
+
+STATEMENT 
+
+
+The United States Court of Appeals for the Ninth 
+Circuit has ruled that the phrase “change in conditions” 
+in Section 22, the LHWCA’s single provision authorizing 
+modification of awards, encompasses only “a change in a 
+claimant's physical condition.” Rambo v. Director, Office of 
+Workers’ Compensation Programs, 28 F.3d 86, at 87 (9th Cir. 
+1994) (emphasis in original) (App. 3a). This interpretation 
+
+
+is directly contrary to that adopted by the United States 
+Court of Appeals for the Fourth Circuit, which has con- 
+cluded that modification pursuant to Section 22 may be 
+granted whenever a change in wage-earning capacity is 
+proven and even if the improved or diminished ability to 
+earn is accompanied by no change in a claimant’s physi- 
+cal condition. Fleetwood v. Newport News Shipbuilding & 
+Drydock Co., 776 F.2d 1225, at 1232 (4th Cir. 1985). The 
+question presented is which of these conflicting inter- 
+pretations should control a workers’ compensation sys- 
+tem designed to serve as the nationally uniform 
+determinant of the rights and responsibilities of injured 
+maritime workers and their employers. 
+
+
+1. Administrative Proceedings. In November 1983, an 
+Administrative Law Judge approved stipulations that 
+John Rambo’s back and leg injuries had lessened his 
+weekly capacity to earn wages as a longshoreman by $120 
+and, pursuant to 33 U.S.C. Section 908(c)(21), awarded 
+weekly benefits of $80. A few years later, Mr. Rambo 
+completed necessary retraining and obtained a position 
+as a crane operator, a much higher paying and less physi- 
+cally strenuous position.? 
+
+
+Metropolitan sought modification of the original 
+award, contending that continuing benefits were no 
+longer appropriate because the retraining and successful 
+search for work as a crane operator had increased Mr. 
+Rambo’s earning capacity to the point that his economic 
+
+
+2 The new skills generated earnings of $1,505.21 weekly at 
+the time modification was granted, a figure nearly triple the 
+wages earned before injury in less skilled longshore work. 
+Rambo, 28 F.2d at 86, App. 3a. 
+
+
+disability had ended. Mr. Rambo argued that his original 
+award could be reduced only if his physical condition had 
+improved. 
+
+
+The Administrative Law Judge rejected Mr. Rambo’s 
+argument, determined that his new skills and job had 
+ended the adverse economic effects of the physical prob- 
+lems, and ordered benefits stopped. The Benefits Review 
+Board affirmed. 
+
+
+2. The Decision on Appeal. Mr. Rambo appealed to 
+the United States Court of Appeals for the Ninth Circuit, 
+basing jurisdiction upon 33 U.S.C. Section 921(c). The 
+Court reversed the earlier decisions, rebuffed the argu- 
+ments advanced by Metropolitan and the Director, 
+rejected the Fourth Circuit’s analysis in Fleetwood, and 
+ordered benefits continued at the original level because 
+
+
+[A] mere change in a claimant's wages, training, 
+skills, or educational background is not suffi- 
+cient to meet the ‘change in conditions’ require- 
+ment for an award modification. Rather, a party 
+seeking to modify an award must prove that the 
+claimant has undergone a change in his physical 
+condition. 
+
+
+Rambo, 28 F.3d at 87, App. 4a. Requests for rehearing were 
+filed by Metropolitan and the Director, OWCP. Both 
+requests were denied and the accompanying Suggestions 
+for Rehearing En Banc rejected. 
+
+
+¢ 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The LHWCA is intended to be the nationally uniform 
+determinant of the rights and responsibilities of injured 
+
+
+maritime workers and their employers.? In all Circuits, 
+the LHWCA’s weekly benefit in cases similar to Mr. 
+Rambo’s is initially determined after assessment of both 
+the “degree of physical impairment” and “any other fac- 
+tors or circumstances in the case which may affect [the 
+worker’s] capacity to earn wages in his disabled condi- 
+tion.”4 Compensation for the worker’s lost earning capac- 
+ity must be paid for as long as the loss of earning capacity 
+continues,> subject to change only in accordance with 
+Section 22. 
+
+
+Within the Fourth Circuit, benefits may be adjusted 
+to fit changing economic circumstances. Within the Ninth 
+Circuit, injured maritime workers and their employers 
+are locked into the original benefit level unless the 
+worker’s physical condition changes and even if some or 
+all of the other factors that initially determined the effect 
+of the injury upon the worker’s ability to earn change 
+
+
+3 Indeed, this Court’s recognition of the need for a nation- 
+
+———— ally uniform maritime compensation system forced enactment 
+of the LHWCA. See Southern Pacific Co. v. Jensen, 244 U.S. 205 
+
+(1917); Knickerbocker Ice Co. v. Stewart, 253 U.S. 149 (1920); and 
+
+State of Washington v. W.C. Dawson & Co., 264 U.S. 219 (1924). 
+
+
+4 33 U.S.C. § 908(h). See also 33 U.S.C. § 902(10) (defining 
+“disability” as “incapacity because of injury to earn the wages 
+which the employee was receiving at the time of injury in the 
+same or any other employment”; Liberty Mutual Insurance Co. v. 
+Commercial Union Insurance Co., 978 F.2d 750 (1st Cir. 1992); 
+McBride v. Eastman Kodak Co., 844 F.2d 797 (D.C. Cir. 1988); 
+Fleetwood, supra; and Stevens v. Director, OWCP, 909 F.2d 1256 
+(9th Cir. 1990), cert. denied sub nom., Lockheed Shipbuilding Co. v. 
+Director, OWCP, 498 U.S. 1073 (1991). 
+
+
+5 33 U.S.C. Section 908(c)(21) requires payment of benefits 
+“during the continuance of partial disability.” 
+
+
+dramatically. Within the Ninth Circuit, the successful 
+rehabilitation of physically impaired workers will not 
+alter the weekly benefit level even if the new positions 
+pay more than the jobs held before injury. Within the 
+Ninth Circuit, workers whose disabilities were originally 
+found nominal can secure no benefit increase if corporate 
+restructuring, automation, increased foreign competition, 
+or other changes combine with the physical limitations to 
+erase future prospects for employment. Within the Fourth 
+Circuit, both rehabilitated workers and those who bear 
+the brunt of adverse economic change receive benefits 
+appropriate to the true economic effects of the injury. 
+
+
+This case merits the Court’s review because (1) there 
+exists a direct conflict between the rulings of the Fourth 
+and Ninth Circuits, (2) the conflict prevents the uniform 
+application which the LHWCA requires, and (3) the 
+Ninth Circuit’s insistence that change in physical condi- 
+tion is an essential prerequisite to modification precludes 
+the benefit flexibility which the LHWCA was designed to 
+assure. 
+
+
+A. The Rulings Of The Fourth And Ninth Circuits 
+Conflict. 
+
+
+The facts of the Fleetwood and Rambo proceedings are 
+closely parallel, the results completely opposite. Mr. 
+Fleetwood, a recipient of LHWCA benefits for lessened 
+earning capacity, acquired new skills and a new, more 
+remunerative job. An Administrative Law Judge deter- 
+mined that Mr. Fleetwood’s earning capacity had 
+improved to a degree which extinguished the earlier loss 
+and terminated benefits. The Benefits Review Board 
+
+
+affirmed and Mr. Fleetwood appealed, arguing that mod- 
+ification pursuant to Section 22 was available only if his 
+physical condition had changed. 
+
+
+The Fourth Circuit carefully distinguished the cases 
+upon which Mr. Fleetwood relied and rejected his argu- 
+ment because “it is not in keeping with the purpose of the 
+Act, which is to compensate workers for injuries that 
+affect their wage-earning capabilities.” Fleetwood, supra, at 
+1228-29. Presented with strikingly similar circumstances 
+and the identical argument, the Ninth Circuit harkened 
+back to its 60-year-old opinion in McCormick S.S. Co. v. 
+United States Employees’ Compensation Commission, 64 F.2d 
+84 (9th Cir. 1933), mischaracterized the true holding of 
+that case,6 and, without any discussion of statutory pur- 
+poses or policies, reached the opposite result. 
+
+
+The conflict between the two Circuits could not be 
+more pronounced. Only the Fourth Circuit’s interpreta- 
+tion is consistent with the views expressed by this Court 
+on each of the three occasions it has examined the history 
+and intent of Section 22. The Ninth Circuit’s ruling is 
+“narrowly technical and impractical,” at odds with the 
+LHWCA’s language and intent. See O'Keeffe v. Aerojet- 
+General Shipyards, Inc., 404 U.S. 254, at 255 (1972). See also 
+Banks v. Chicago Grain Trimmers Association, 390 U.S. 459 
+
+
+6 McCormick proves on careful reading to stand only for the 
+unassailable proposition that a change in wages does not neces- 
+sarily represent a change in earning capacity. The other Ninth 
+Circuit precedent referenced in the decision below, Pillsbury v. 
+Alaska Packers Association, 85 F.2d 758 (9th Cir. 1936), rev’d on 
+other grounds, 301 U.S. 174 (1937), also involved no debate 
+between changes in economic or physical conditions. 
+
+
+(1968) and Intercounty Construction Corp. v. Walter, 422 
+U.S. 1 (1975). 
+
+
+B. Although Fleetwood And Rambo Are The Only 
+Cases That Directly Address The Issue Pre- 
+sented Here, The Ninth Circuit Probably 
+Stands Alone In Requiring That Physical 
+Change Precede Modification. 
+
+
+The Ninth Circuit’s single-page analysis asserted that 
+its conclusion, although different from that reached by 
+the Fourth Circuit, was consistent with the views of the 
+First and the Fifth. 
+
+
+The Fourth Circuit’s rule conflicts with the posi- 
+tions taken by the First and Fifth Circuits. See, 
+e.g., General Dynamics Corp. v. Director, Office of 
+Workers’ Compensation Programs, United States 
+Dep't of Labor, 673 F.2d 23, 25, n.6 (1st Cir. 1982) 
+(‘Courts uniformly have held that a “change in 
+conditions” . . . means a change in the 
+employee’s physical condition, not other condi- 
+tions.’ (emphasis in original)); Burley Welding 
+Works, Inc. v. Lawson, 141 F.2d 964, 966 (5th Cir. 
+1944) (citing McCormick and Pillsbury and hold- 
+ing that ‘[i]t has been uniformly held that the 
+term “change in conditions” . . . means a change 
+in the employee’s physical condition, and not 
+other conditions.’ (emphasis added)). Thus, this 
+Circuit’s precedent is supported by the clear 
+weight of authority. 
+
+
+Rambo, supra, at 88, App. 5a. 
+
+
+The Court was at least partially mistaken. Burley is 
+almost certainly no longer the law within the Fifth Cir- 
+cuit. 
+
+
+10 
+
+
+The LHWCA also provides for modification of 
+an order awarding compensation ‘on the ground 
+of a change in conditions.’ 33 U.S.C. § 922. The 
+BRB and the Fourth Circuit have recognized that 
+a change in wage-earning capacity, without a 
+change in the claimant’s physical condition, is a 
+basis for modification. See Fleetwood v. Newport 
+News Shipbuilding & Drydock, 776 F.2d 1225, 1228 
+(4th Cir. 1985); Blake v. Ceres, Inc., 19 Ben. Rev. 
+Bd. Serv. (MB) 219, 221 (1987). Therefore, if a 
+claimant’s wage-earning capacity increases to a 
+rate higher than his pre-injury wages, the 
+employer may request a modification on the 
+basis that there is no longer a loss in wage- 
+earning capacity. This interpretation of the stat- 
+ute is ‘in keeping with the purpose of the Act, 
+which is to compensate workers for injuries that 
+affect their wage-earning capacities.’ Fleetwood, 
+776 F.2d at 1228-29. 
+
+
+Avondale Shipyards, Inc. v. Guidry, 967 F.2d 1039, n.6 at 
+1042 (5th Cir. 1992). See also Hole v. Miami Shipyard Corpo- 
+ration, 640 F.2d 769 (5th Cir. 1981), approving awards of 
+nominal benefits for the purpose of assuring future mod- 
+ification rights to workers faced with the possibility of 
+future earning capacity changes. 
+
+
+General Dynamics, the First Circuit case on which the 
+Ninth Circuit leaned, did not involve the issue at hand 
+and simply offered an in dicta recitation of Burley’s own 
+outmoded dictum. The fact that the Second’ and District 
+of Columbia® Circuits have taken the tack sailed by the 
+
+
+7 LaFaille v. Benefits Review Board, 884 F.2d 54 (2d Cir. 1989). 
+
+
+8 Randall v. Comfort Control, Inc., 725 F.2d 791 (D.C. Cir. 
+1984). 
+
+
+11 
+
+
+Fifth in Miami Shipyard suggests that the Ninth Circuit 
+stands alone or, possibly, accompanied by only the First 
+in its interpretation of Section 22. 
+
+
+C. The Ninth Circuit’s Ruling Is Neither Sensible 
+Nor Consistent With The Statutory Scheme. 
+
+
+The reference to “conditions” (emphasis added, plu- 
+ral in original) in Section 22, if not itself indicative of an 
+intent to encompass all factors impacting earning capac- 
+ity, is at least ambiguous. The resolution of an ambiguity 
+justifies reference to both common sense and the overall 
+statutory scheme. Neither supports the Ninth Circuit's 
+approach. 
+
+
+The Ninth Circuit’s requirement that physical change 
+underly modification simply makes no sense. Why 
+should a worker with a deteriorating back be entitled to 
+increased benefits and an injured worker adversely 
+affected by a changing economic environment be denied 
+similar relief? Why should an employer be rewarded with 
+lowered benefit liability when physical rehabilitation 
+efforts succeed and be denied a similar reward when 
+reasonable accommodations to the worker’s limitations 
+can assure continued employment? What rationale sup- 
+ports continued benefit payments to any worker who 
+regains the ability to earn the amounts originally lost? 
+
+
+The Ninth Circuit neither considered nor addressed 
+these issues. The Fourth Circuit did. 
+
+
+Under the Act, ‘disability’ is defined as 
+‘incapacity because of injury to earn the wages 
+which the employee was receiving at the time of 
+injury in the same or any other employment.’ 33 
+
+
+12 
+
+
+U.S.C. § 902(10). Thus, the Board was correct 
+when it concluded that a worker is not compen- 
+sated solely for physical impairment, but rather 
+the worker is compensated for the future eco- 
+nomic loss attributable to the physical impair- 
+ment. The worker initially must prove his loss of 
+wage-earning capacity to obtain benefits; there- 
+fore, his wage-earning capabilities should be rel- 
+evant when considering a modification of an 
+award. Thus, for example, if an employee ini- 
+tially was awarded a 40-percent partial disabil- 
+ity award, and later found that his wage-earning 
+capacity was much less than originally deter- 
+mined, he could then seek a modification. Like- 
+wise, an employer who finds that an employee’s 
+wage-earning capacity has not been affected to 
+the degree originally determined should be able 
+to seek a modification. As this case demon- 
+strates, it is possible for a worker to show no 
+physical improvement, but at the same time to 
+acquire new job skills that enable him to com- 
+pete again in the workforce. A sensible mod- 
+ification procedure would allow employees 
+whose loss of wage-earning capacity becomes 
+more apparent over time to obtain a larger dis- 
+ability award at a later date without requiring 
+such an employee to demonstrate that his physi- 
+cal condition caused by the accident had 
+changed. We fail to see how an employee whose 
+wage-earning capacity had declined could be 
+treated differently from the employee whose 
+wage-earning capacity had improved without 
+rendering inconsistent interpretations of the 
+same statutory section of the LHWCA. 
+
+
+Without such a modification procedure, 
+workers who had secured new skills and 
+
+
+13 
+
+
+employment would be receiving disability com- 
+pensation when they were not disabled and an 
+unequitable distribution of limited financial 
+resource would result. . . . Overall, the statutory 
+scheme indicates that as long as an employee’s 
+physical injury affects his wage-earning capac- 
+ity, he should be able to obtain disability pay- 
+ments; but, he should not be able to receive a 
+stream of constant payments regardless of his 
+wage-earning capacity. 
+
+
+Fleetwood, supra, at 1229. 
+
+
+The absence of a persuasive rationale for the Ninth 
+Circuit’s conclusion is not surprising. In a system which 
+promises to deliver benefits when injury causes economic 
+loss, there can be no justification for restricting benefit 
+adjustment to those demonstrating physical change. In 
+fact, such a restriction is wholly inconsistent with at least 
+two other circumstances in which the LHWCA clearly 
+contemplates modification of existing awards.? 
+
+
+Only the Fourth Circuit’s interpretation of Section 22 
+is consistent with the LHWCA’s focus on earning capacity 
+and the clear need for modification avenues in other 
+contexts. The Fourth Circuit’s opinion both encourages 
+and rewards the retraining and reemployment of injured 
+
+
+9 LHWCA benefits for death are clearly intended to termi- 
+nate upon remarriage or loss of “student” status. See 33 U.S.C. 
+§§ 909(b) and 902(18). If Section 22 requires physical change, the 
+only route to an order terminating liability is unavailable. Post- 
+award earnings must be reported on pain of benefit forfeiture. 
+33 U.S.C. § 908(j). If only physical change may justify benefit 
+modification, no reason for the reporting requirement exists. 
+
+
+14 
+
+
+workers. The Ninth Circuit’s conclusion discourages 
+both. 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+granted. 
+
+
+DATED: November 4, 1994. 
+
+
+Respectfully submitted, 
+
+
+Rosert E. Bascock 
+Bascock & ASSOCIATES 
+121 S.W. Salmon Street 
+Suite 1500 
+Portland, Oregon 97204-2925 
+(503) 224-8553 
+
+
+Counsel of Record for Petitioner 
+
+
+la 
+
+
+NOT FOR PUBLICATION 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+JOHN RAMBO, 
+Claimant-Petitioner, 
+
+
+~- 
+
+
+No. 92-70783 
+
+
+OWCP No. 18-6945 
+BRB No. 91-1538 
+
+
+ORDER 
+
+
+(Filed 
+Aug. 10, 1994) 
+
+
+V. 
+
+
+DIRECTOR, OFFICE OF 
+
+WORKERS’ COMPENSATION 
+
+PROGRAMS; METROPOLITAN 
+
+STEVEDORE COMPANY, 
+Respondents. 
+
+
+Nee ee eee eee ee” 
+
+
+Before: REINHARDT and LEAVY, Circuit Judges, and 
+BROWNING,” District Judge. 
+
+
+The panel has voted to deny the petition for rehear- 
+ing. Judges Reinhardt and Leavy have voted to reject the 
+suggestion for rehearing en banc, and Judge Browning 
+has so recommended. 
+
+
+The full court has been advised of the en banc sug- 
+gestion and no judge of the court has requested a vote on 
+it. 
+
+
+The petition for rehearing is DENIED and the sugges- 
+tion for rehearing en banc is REJECTED. 
+
+
+*The Honorable William D. Browning, Chief United States Dis- 
+trict Judge for the District of Arizona, sitting by designation. 
+
+
+2a 
+
+
+Cite as 94 C.D.O.S. 4781 
+
+
+TOHN RAMBO, Petitioner, 
+V. 
+
+
+DIRECTOR, OFFICE OF WORKERS’ COMPENSATION 
+PROGRAMS; METROPOLITAN STEVEDORE COM- 
+PANY, Respondents, 
+
+
+No. 92-70783 
+
+
+United States Court of Appeals for the Ninth Circuit 
+OWCP No. 18-6945 BRB No. 91-1538 
+
+
+Petition for Review of an Order of the Benefits Review 
+Board Argued and Submitted March 14, 1994 — San Fran- 
+cisco, California 
+
+
+Before: Stephen Reinhardt and Edward Leavy, Circuit 
+Judges, and William D. Browning,* District Judge. 
+
+
+COUNSEL 
+Thomas J. Pierry, Magana, Cathcart, McCarthy & 
+
+
+Pierry, Wilmington, California, for the petitioner. 
+
+
+LuAnn Kressley, United States Department of Labor, 
+Office of the Solicitor, Washington, D.C., for the respon- 
+dents. 
+
+
+Filed June 24, 1994 
+
+
+*The Honorabie William D. Browning, Chief United States Dis- 
+trict Judge for the District of Arizona, sitting by designation. 
+
+
+3a 
+
+
+LEAVY, Circuit Judge: 
+
+
+In 1983, the appellant John Rambo (“Rambo”) was 
+awarded $80.16 per week in worker’s compensation for a_ 
+permanent partial disability to his back and leg. Rambo 
+subsequently attended crane school and obtained a posi- 
+tion as a crane operator. In 1990, Rambo’s employer, 
+Metropolitan Stevedore Company (“Metropolitan”) 
+moved to have his benefits terminated. Despite the fact 
+that Rambo’s physical condition had not changed, Metro- 
+politan argued that Rambo was no longer eligible for the 
+benefits because he was presently working at a job that 
+paid him $1,505.21 per week - almost 300% of Rambo’s 
+pre-injury average weekly wage. 
+
+
+The Administrative Law Judge (“ALJ”) found in 
+favor of Metropolitan and terminated Rambo’s benefits. 
+The ALJ determined that Rambo’s new job was a “change 
+in conditions” within the meaning of 33 U.S.C. § 922.1 The 
+Benefits Review Board affirmed. Both the ALJ’s and the 
+Board’s decisions relied upon Fleetwood v. Newport News 
+Shipbuilding & Dry Dock Co., 776 F.2d 1225 (4th Cir. 1985), 
+which held that a mere change in a claimant’s wages 
+could satisfy the “change in conditions” requirement for 
+modification. Neither decision cited any Ninth Circuit 
+cases. However, our cases make clear that only a change 
+in a claimant’s physical condition can justify an award 
+modification. A change in a claimant’s wages, training, 
+
+
+1 Section 922 provides for a modification of awards for, 
+among other things, a “change in conditions.” 
+
+
+4a 
+
+
+skills, or educational background is insufficient. Accord- 
+ingly, we reverse the decision of the Benefits Review 
+Board (“BRB”). 
+
+
+Analysis 
+
+
+Under our cases, a mere change in a claimant’s 
+wages, training, skills, or educational background is not 
+sufficient to meet the “change in conditions” requirement 
+for an award modification. Rather, a party seeking to 
+modify an award must prove that the claimant has under- 
+gone a change in his physical condition. See, e.g., Pillsbury 
+v. Alaska Packers Ass'n, 85 F.2d 758, 760 (9th Cir. 1936), 
+rev'd on other grounds, 301 U.S. 174 (1937) (“The expres- 
+sion ‘change in conditions’ refers to a change in the physi- 
+cal condition of the employee.” (emphasis added)). 
+
+
+For example, in McCormick S.S. Co. v. United States 
+Employees’ Compensation Comm'n, 64 F.2d 84 (9th Cir. 
+1933), we held that a mere change in a claimant’s wages — 
+without proof of a change in his physical condition — was 
+not sufficient to satisfy the “change in conditions” 
+requirement of 33 U.S.C. § 922. See id. at 86 (rejecting the 
+petition for modification because it was not based upon 
+“a change in physical condition,” but rather upon the claim- 
+ant’s changed earnings (emphasis added)). 
+
+
+Here, the respondent relies exclusively upon the 
+Fourth Circuit’s decision in Fleetwood, which held that a 
+mere change in a claimant’s wages could satisfy the 
+“change in conditions” requirement of 33 U.S.C. § 922. As 
+the Fleetwood dissent noted, the Fourth Circuit's rule is in 
+direct conflict with the Ninth Circuit’s rule. See id. at 
+1235 (Warriner, J., dissenting) (noting that “[bleginning 
+
+
+5a 
+
+
+with the first opinion dealing with the question, [McCor- 
+mick,] handed down in 1933, and continuing thereafter, 
+the courts have uniformly interpreted the term “change 
+in conditions” in [33 U.S.C. § 922] to refer exclusively to a 
+change in physical condition of the employee receiving 
+compensation.” (emphasis added)). A three-judge panel 
+may not overturn Ninth Circuit precedent, United States v. 
+Lewis, 991 F.2d 524, 525 n.1 (9th Cir.), cert. denied, 114 S.Ct. 
+216 (1993). 
+
+
+As the Fleetwood dissent points out, id., the Fourth 
+Circuit’s rule conflicts with the position taken by the First 
+and Fifth Circuits. See, e.g., General Dynamics Corp. v. 
+Director, Office of Workers’ Compensation Programs, United 
+States Dep’t of Labor, 673 F.2d 23, 25 n.6 (1st Cir. 1982) 
+(“Courts uniformly have held that a ‘change in condi- 
+tions’ . . . means a change in the employee’s physical 
+condition, not other conditions.” (emphasis in original)); 
+Burley Welding Works, Inc. v. Lawson, 141 F.2d 964, 966 (Sth 
+Cir. 1944) (citing McCormick and Pillsbury, and holding 
+that “[i]t has been uniformly held that the term ‘change in 
+conditions’ . .. means a change in the empioyee’s physical 
+condition, and not other conditions” (emphasis added)). 
+Thus, this circuit’s precedent is supported by the clear 
+weight of authority. 
+
+
+REVERSED 
+
+
+6a 
+
+
+U.S. Department of Labor Benefits Review Board 
+800 K Street N.W. 
+Washington, D.C. 20001-8001 
+
+
+(seal) 
+BRB No. 91-1538 
+JOHN RAMBO ) NOT 
+Claimant-Petitioner ) PUBLISHED 
+v. 
+METROPOLITAN STEVEDORE ) DATE 
+COMPANY ) ISSUED: 
+Self-Insured ) 
+Employer-Respondent ) 
+DIRECTOR, OFFICE OF ) DECISION 
+WORKERS’ COMPENSATION ) AND ORDER 
+PROGRAMS, UNITED ) . 
+STATES DEPARTMENT ) (Filed 
+OF LABOR | Nov. 9, 1992) 
+Respondent ) 
+
+
+Appeal of the Decision and Order Granting 
+Modification of Daniel Lee Stewart, Administra- 
+tive Law Judge, United States Department of 
+Labor. 
+
+
+Thomas J. Pierry (Magana, Cathcart, McCarthy 
+& Pierry), Wilmington, California, for claimant. 
+
+
+James J. Wood, Long Beach, California, for self- 
+insured employer. 
+
+
+LuAnn Kressley (Marshall J. Breger, Solicitor of 
+Labor; Carol DeDeo, Associate Solicitor; Janet 
+Dunlop, Counsel for Longshore), Washington, 
+
+
+7a 
+
+
+D.C., for the Director, Office of Workers’ Com- 
+pensation Programs, United States Department 
+of Labor. 
+
+
+Before: BROWN, DOLDER and McGRANERY, 
+Administrative Appeals Judges. 
+
+
+PER CURIAM: 
+
+
+Claimant appeals the Decision and Order Granting 
+Modification (83-LHC-242) of Administrative Law Judge 
+Daniel Lee Stewart on a claim filed pursuant to the provi- 
+sions of the Longshore and Harbor Workers’ Compensa- 
+tion Act, as amended, 33 U.S.C. §901 et seq. (the Act). We 
+must affirm the findings of fact and conclusions of law of 
+the administrative law judge if they are rational, sup- 
+ported by substantial evidence, and in accordance with 
+law. O'Keeffe v. Smith, Hinchman & Grylls Associates, Inc., 
+380 U.S. 359 (1965); 33 U.S.C. §921(b)(3). 
+
+
+On September 9, 1980, claimant injured his back and 
+leg while working for employer. In a Decision and Order 
+dated November 28, 1983, Administrative Law Judge 
+James J. Butler awarded claimant temporary total disabil- 
+ity compensation from September 10, 1980 through 
+November 22, 1981, and permanent partial disability 
+compensation thereafter. Pursuant to the stipulations of 
+the parties, the administrative law judge found that 
+claimant’s average weekly wage at the time of injury was 
+$534.38, that claimant had sustained a 22 1/2 percent 
+impairment of the whole person which the parties equa- 
+ted to a $120.24 per week loss in wage-earning capacity, 
+and that accordingly claimant was entitled to permanent 
+partial disability compensation based on an $80.16 per 
+week compensation rate. In addition, the administrative 
+
+
+8a 
+
+
+law judge awarded claimant’s counsel an attorney’s fee 
+payable by employer, see 33 U.S.C. §928, and awarded 
+employer relief pursuant to Section 8(f), 33 U.S.C. §908(f). 
+
+
+Thereafter on October 30, 1989, employer sought 
+modification of the permanent partial disability award 
+pursuant to Section 22, 33 U.S.C. §922, arguing that there 
+had been a change in claimant’s wage-earning capacity 
+such that he is no longer disabled. In a Decision and 
+Order dated May 29, 1991, Administrative Law Judge 
+Daniel Lee Stewart granted modification, noting that 
+claimant had completed training and was currently work- 
+ing as a crane operator, a higher paying yet less strenuous 
+job, which he had been performing for four or five years 
+and was not in danger of losing. In addition, Judge Stew- 
+art noted that claimant also was able to obtain additional 
+pay by volunteering to work as a lift truck operator and 
+heavy lift truck operator. Finally, Judge Stewart found 
+that claimant’s average weekly wage had more than tri- 
+pled between the time of his injury in 1980 and the 
+hearing in 1990. After taking into consideration the 
+increase in wages due to the rate of inflation and any 
+increase in salary for the particular job, he concluded that 
+claimant no longer had a loss in his wage-earning capac- 
+ity. The administrative law judge therefore ordered that 
+the award of permanent partial disability compensation 
+be terminated as of the date of the decision and order. 
+Claimant appeals, arguing that the granting of modifica- 
+tion was improper. Employer and the Director, Office of 
+Worker’s Compensation Programs, respond, urging affir- 
+mance. 
+
+
+Under Section 22 an aggrieved party may seek mod- 
+ification of a compensation award within one year of the 
+
+
+9a 
+
+
+date of last payment of compensation or within one year 
+of the denial of a claim based on a change in condition or 
+mistake of fact. 33 U.S.C. §922. With the enactment of the 
+1984 Amendments to the Act, Section 22 was amended to 
+prohibit the modification of settlements which were 
+entered into pursuant to Section 8(i), 33 U.S.C. 
+§908(i)(1988). The Board had previously reached the same 
+conclusion under the pre-1984 Act. See Lambert v. Atlantic 
+& Gulf Stevedores, 17 BRBS 68 (1985). 
+
+
+Initially, we reject claimant’s assertion that Judge 
+Butler’s original Decision and Order constitutes the 
+approval of a Section 8(i) settlement which could not be 
+modified pursuant to Section 22. This decision fails to 
+provide for the complete discharge of employer's liability 
+and lacks any findings as to whether the compensation 
+awarded was in claimant's best interest as was required 
+under Section 8(i) at the time of Judge Butler’s decision. 
+33 U.S.C. §908(i) (1982) (amended 1984). Accordingly, 
+Judge Butler’s Decision and Order was, as Judge Stewart 
+properly determined, simply an award of benefits based 
+on the agreements and stipulations of the parties which is 
+subject to modification pursuant to Section 22. Norton v. 
+National Steel & Shipbuilding Co., 25 BRBS 79, 84 (1991); 
+Lawrence v. Toledo Lake Front Docks, 21 BRBS 282 (1988). 
+
+
+Claimant’s contention that the administrative law 
+judge erred in granting modification absent a showing of 
+a change in his physical condition is similarly without 
+merit. Contrary to claimant’s assertions Judge Stewart 
+correctly recognized that modification pursuant to Sec- 
+tion 22 may be granted based solely upon a change in 
+claimant’s economic condition. See Fleetwood v. Newport 
+News Shipbuilding and Dry Dock Co., 776 F.2d 1225, 18 
+
+
+10a 
+
+
+BRBS 12 (CRT) (4th Cir. 1985); Ramirez v. Southern Steve- 
+dores, 25 BRBS 260 (1991); Moore v. Washington Metro- 
+politan Area Transit Authority, 23 BRBS 49 (1989). Claimant 
+has raised no error committed by the administrative law 
+judge in weighing the evidence and granting modifica- 
+tion based on claimant's increase in wage-earning capac- 
+ity after the original award of benefits. We therefore 
+affirm his determination that claimant was no longer 
+disabled as of the date of his decision. 
+
+
+Accordingly, the administrative law judge’s Decision 
+and Order Granting Modification is affirmed. 
+
+
+SO ORDERED. 
+
+
+/s/ James F. Brown 
+JAMES F. BROWN 
+Administrative Appeals 
+Judge 
+
+
+/s/ Nance S. Dolder 
+NANCY S. DOLDER 
+Administrative Appeals 
+Judge 
+
+
+/s/ Regina C. McGranery 
+REGINA C. McGRANERY 
+Administrative Appeals 
+Judge 
+
+
+lla 
+
+
+U.S. Department of Labor Office of Administrative 
+Law Judges 
+211 Main Street — Suite 600 
+San Francisco, California 
+
+
+Self-Administered Employer 
+
+
+94105 
+(seal) 
+
+) 
+In the Matter of ) 
+JOHN RAMBO ) Case No. 
+
+Claimant 83-LHC-242 
+agement ) OWCP No. 
+
+METROPOLITAN STEVEDORE ) 18-6945 
+COMPANY, | 
+
+) 
+
+) 
+
+
+DECISION AND ORDER GRANTING MODIFICATION 
+
+
+This proceeding involves a request for modification 
+of the November 28, 1983, Decision and Order Awarding 
+Benefits of Administrative Law Judge Butler. The request 
+for modification was filed on October 30, 1989, pursuant 
+to the provisions of 30 U.S.C. § 922. 
+
+
+ISSUES 
+
+
+1. Whether the employer’s request for modification of 
+the 1983 Decision and Order under the provisions of 
+30 U.S.C. § 922 should be granted. 
+
+
+2. Whether the administrative law judge who approved 
+the settlement is the one required to rule on the issue 
+of modification. 
+
+
+12a 
+
+
+Background 
+
+
+The parties stipulated that the Claimant, John 
+Rambo, became permanently, partially disabled as the 
+result of an injury to his back and leg sustained on 
+September 9, 1980; that the Claimant’s condition became 
+permanent and stationary on November 16, 1981; and 
+that the Claimant sustained an overall current permanent 
+partial disability equivalent to 22'/2% of the whole person 
+amounting to a compensation rate of $80.16 per week for 
+permanent partial disability. This stipulated “settlement” 
+was incorporated into a Decision and Order of the admin- 
+istrative law judge. The only issue which the administra- 
+tive law judge decided in his Decision and Order was 
+whether § 908(f) was applicable. 
+
+
+Then, on October 30, 1989, Employer filed an applica- 
+tion for modification under Section 922 alleging that the 
+Claimant’s current earning capacity had increased sub- 
+stantially. 
+
+
+JURISDICTION 
+
+
+A. Administrative Law Judge 
+
+
+Claimant alleges that the motion for modification 
+must be heard by the same administrative law judge 
+assigned to the original claim. This allegation is without 
+merit. In Finch v. Newport News Shipbuilding and Dry Dock 
+Company, 22 BRBS 196 (1989), the Benefits Review Board 
+held that there is no requirement under the Act that a 
+motion for modification must be heard by the same 
+administrative law judge assigned to the original claim. 
+
+
+ee ee ee 
+
+
+13a 
+
+
+B. Section 922 Modification 
+
+
+Claimant contends that the stipulations contained in 
+the November 28, 1983, Decision and Order of the admin- 
+istrative law judge constitute a settlement between the 
+parties. However, Judge Butler’s Decision and Order 
+awarding benefits does not constitute the approval of a 
+settlement because it fails to provide in specific terminol- 
+ogy for the complete discharge of employer’s liability 
+and does not contain findings as to whether the compen- 
+sation awarded was in the Claimant’s best interest as is 
+required under Section 8(i) of the Act. Finch v. Newport 
+News Shipbuilding and Dry Dock Company, supra. There- 
+fore, Judge Butler’s Decision and Order must be consid- 
+ered as an award of benefits based on the agreements and 
+stipulations of the parties which is subject to modification 
+pursuant to Section 22. 
+
+
+DISCUSSION 
+
+
+In the original Decision and Order dated November 
+28, 1983, it was stipulated that the Claimant’s average 
+weekly wages were $534.38 per week at the time of the 
+pertinent injury, that Claimant sustained an overall cur- 
+rent permanent partial disability equivalent to 22.5% of 
+the whole person which produced a weekly wage loss of 
+$120.24 per week with an equivalent compensation rate of 
+$80.16 per week for permanent partial disability. 
+
+
+Section 22 of the Act, 33 U.S.C. §922, authorizes the 
+modification of a Decision and Order based on a change 
+in condition or mistake of fact at any time prior to one 
+year after the last payment of compensation. Modification 
+based on a change in condition may be granted in cases in 
+
+
+14a 
+
+
+which the claimant’s economic condition has changed 
+following the entry of an award of compensation. Fleet- 
+wood v. Newport News Shipbuilding and Dry Dock Company, 
+16 BRBS 282 (1984). 
+
+
+Employer in the instant case contends that since 
+Claimant is presently earning more money than at the 
+time of his injury, Claimant did not have a loss of wage- 
+earning capacity. However, higher post-injury gains/ 
+losses are not necessarily determinative of an employee’s 
+wage-earning capacity. See Devillier v. National Steel and 
+Shipbuilding Co., 10 BRBS 649 (1979). One has to consider 
+wage-earning capacity in an open labor market under 
+normal employment conditions. | 
+
+
+Claimant testified that he was working as a long- 
+shoreman in 1980 when he was injured, and that he is 
+currently working fulltime as a longshoreman (Tr. 27-8).! 
+He is presently working steadily as a crane operator for 
+American President Lines (Tr. 28, 32). He has been work- 
+ing as a crane operator for four or five years (Tr. 28). In 
+addition to working as a crane operator, Claimant volun- 
+teers for work as a lift truck operator and a heavy lift 
+truck operator for which he receives additional pay (Tr. 
+28-30). When Claimant works as a crane operator, he 
+works most of the time as a gantry crane operator (Tr. 31). 
+The crane which he operates is 131 feet high (Tr. 31). In 
+order to reach the place where he works, Claimant has to 
+climb a 12 to 15 foot ladder and then take an elevator (Tr. 
+
+
+1 In this decision, “CX” refers to Claimant’s Exhibits, “EX” 
+refers to Employer’s Exhibits and “Tr.” refers to the transcript of 
+the hearing. 
+
+
+15a 
+
+
+31). As a crane operator, he is not allowed under the 
+contract to work more than 42.5 hours per week (Tr. 33). 
+
+
+According to the Claimant, he is now making 
+$1,550.00 per week (Tr. 36). He prefers doing crane work 
+because it pays more money and it is easier work than 
+some of the other jobs (Tr. 38). 
+
+
+Claimant testified that his physical condition since 
+1983, when he was awarded permanent partial disability, 
+has remained about the same (Tr. 38-9). 
+
+
+According to the Claimant, Matson Lines has laid off 
+50 men; however, there has been no indication by the 
+company for which he works that anyone is going to be 
+laid off (Tr. 34). 
+
+
+The evidence in the instant case shows that Claimant 
+earned a total of $70,662.67 for 1985 for an average 
+weekly wage of $1,358.90; a total of $68,006.22 for 1986 
+for an average weekly wage of $1,307.81; a total of 
+$67,953.72 for 1987 for an average weekly wage of 
+$1,306.80; a total of $76,332.19 for 1988, for an average 
+weekly wage of $1,467.93; a total of $87,873.53 for the 
+work beginning December 31, 1988, and ending Decem- 
+ber 23, 1989, for an average weekly wage of $1,689.88; 
+and a total of $67,619.96 for the week beginning Decem- 
+ber 30, 1989, and ending September 22, 1990, for an 
+average weekly wage of $1,690.50. 
+
+
+Claimant’s average weekly wages have increased 
+from $534.38 per week in 1980 when Claimant was 
+injured to $1,690.50 as of September 22, 1990. This dem- 
+onstrates that the Claimant’s average weekly wages more 
+
+
+16a 
+
+
+than tripled from 1980 to 1990. After taking into consider- 
+ation the increase in wages due to the rate of inflation 
+and any increase in salary for the particular job, it is 
+evident that Claimant no longer has a wage-earning 
+capacity loss. Although Claimant testified that he might 
+lose his job at some future time, the evidence shows that 
+Claimant would not be at any greater risk of losing his 
+job than anyone else. Moreover, no evidence has been 
+offered to show that Claimant’s age, education, and voca- 
+tional training are such that he would be at greater risk of 
+losing his present job or in seeking new employment in 
+the event that he should be required to do so. Likewise, 
+the evidence does not show that Claimant’s employer is a 
+beneficent one. On the contrary, the evidence shows that 
+Claimant is not only able to work full time as a crane 
+operator, but that he is able to work as a heavy lift truck 
+operator when the time is available within which to do 
+SO. 
+
+
+Accordingly, I find that the Claimant no longer has a 
+wage-earning capacity loss and that his disability pay- 
+ments should be discontinued effective on the date of this 
+Decision and Order. — 
+
+
+ATTORNEY ’S FEES 
+
+
+Inasmuch as the Claimant did not prevail in this 
+proceeding, the attorney is not entitled to any fee. 
+
+
+wasnt han ites, “ella 
+
+
+17a 
+
+
+ORDER 
+
+
+It is hereby ORDERED that Claimant's disability be 
+terminated effective as of the date of this Decision and 
+Order. 
+
+
+/s/ Daniel Lee Stewart 
+DANIEL LEE STEWART 
+
+
+Administrative Law Judge 
+
+
+Dated: MAY 29, 1991 
+San Francisco, California 
+
+
+DLS:bll 
+
+

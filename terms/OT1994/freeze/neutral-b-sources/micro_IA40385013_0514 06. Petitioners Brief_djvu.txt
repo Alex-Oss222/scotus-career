@@ -1,0 +1,2606 @@
+No. 93-1841 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+> 
+ADARAND CONSTRUCTORS, INC., 
+Petitioner, 
+V. 
+
+
+FEDERICO PENA, Secretary of Department of 
+Transportation; THOMAS D. LARSEN, Administrator 
+of the Federal Highway Administration; LOUIS N. 
+MACDONALD, Administrator Region VIII of the 
+Federal Highway Administration; and 
+JERRY BUDWIG, Division Engineer of the Central 
+Federal Lands Highway Division, 
+
+Respondents. 
+@ — 
+On Writ Of Certiorari 
+
+
+To The United States Court of Appeals 
+For The Tenth Circuit 
+
+
+e — 
+PETITIONER’S BRIEF 
+WittiAM Perry PENDLEY* 
+
+
+*Counsel of Record 
+Topp S. WELCH 
+STEVEN J. LECHNER 
+Paut M. Sesy 
+Mountain States Legal Foundation 
+1660 Lincoln Street, Suite 2300 
+Denver, Colorado 80264 
+(303) 861-0244 
+
+
+Attorneys for Petitioner 
+
+
+COCKLE LAW BRIEF PRINTING CO. (800) 225-6944 
+OR CALL COLLECT (402) 342-2831 
+
+
+BEST AVAILABLE COPY 
+
+
+ISSUES PRESENTED 
+
+
+1. Whether, in an as applied challenge, a congres- 
+sional race-conscious set-aside program for awarding 
+highway construction contracts survives constitutional 
+scrutiny when that program seeks to remedy alleged 
+broad-based societal discrimination, rather than clearly 
+identifiable discrimination perpetuated by the govern- 
+mental entity seeking to remedy the discrimination? 
+
+
+“ 
+
+
+2. Whether “strict scrutiny,” as opposed to “a 
+lenient standard, resembling intermediate scrutiny,” is 
+the proper standard of review for determining the consti- 
+tutionality of a race-conscious program adopted by Con- 
+gress? 
+
+
+3. Whether the Fifth Amendment requires a federal 
+agency, in implementing a federal race-conscious, set- 
+aside program and when exceeding the goals adopted by 
+Congress, to conduct the inquiry set forth in City of 
+Richmond v. ].A. Croson, Co., 488 U.S. 469 (1989)? 
+
+
+il 
+
+
+LIST OF PARTIES 
+
+
+Adarand Constructors, Inc. (Adarand) was Plaintiff 
+
+
+in the United States District Court for the District of 
+Colorado and Appellant before the United States Court of 
+Appeals for the Tenth Circuit. Adarand is a corporation 
+organized under the laws of the State of Colorado. 
+Adarand has no parent or subsidiary corporations. 
+
+
+The following were Defendants in the United States 
+District Court for the District of Colorado and Appellees 
+before the United States Court of Appeals for the Tenth 
+Circuit: Samuel K. Skinner, in his official capacity as 
+Secretary of the Department of Transportation (Mr. Skin- 
+ner has since been replaced in his official capacity by 
+Federico Pena); Robert E. Farris, in his official capacity as 
+Administrator of the Federal Highway Administration 
+(Mr. Farris has since been replaced in his official capacity 
+by Thomas D. Larsen); Louis N. MacDonald, in his offi- 
+cial capacity as Administrator of Region VIII of the Fed- 
+eral Highway Administration; and Jerry Budwig, in his 
+official capacity as Division Engineer of the Central Fed- 
+eral Lands Highway Division. 
+
+
+ili 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+chee a seceeeercecescccecccscess i 
+cece deeb escecccccesccecccccces ii 
+PE I PPMP EEE ooo ccc cece ccc cccccccces. Vv 
+EERE TPCT TTITETTRTLE TELE 1 
+EU Ga cake nassesscaectccccccsssces 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+CCAM CC Usa cedececcosecccsccccccccccs 1 
+Darepmeres OF Bete CASE...... ccc ccccccccccees 5 
+ene 5 
+ne ac eG uetrccccccnccccscccccs 11 
+Gupenenme OF ARGUMENT..............cccccoee. 18 
+EEE CCC he eapacesecccsccesccccscoces 20 
+
+
+I. THE FEDERAL CONSTRUCTION PRO- 
+CUREMENT PROGRAM MAKES RACE 
+THE DECIDING FACTOR IN THE AWARD 
+OF MANY FEDERAL CONSTRUCTION 
+Ee cc cccdeesccvesceescecces 20 
+
+
+Il. STRICT SCRUTINY IS THE STANDARD OF 
+REVIEW THIS COURT REQUIRES FOR A 
+RACE-CONSCIOUS PROCUREMENT PRO- 
+GRAM, INCLUDING ONE MANDATED BY 
+ECE cs Ges Se¥ipesccsestecccces: 24 
+
+
+Ill. THE DECISION OF THIS COURT IN 
+METRO BROADCASTING IS NOT DISPOSI- 
+| Gee 28 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+IV. THE HOLDING OF THE TENTH CIRCUIT 
+COURT OF APPEALS THAT CONGRESS 
+“CAN ENGAGE MORE FREELY IN AFFIR- 
+MATIVE ACTION THAN STATES AND 
+LOCALITIES” IS IN ERROR............... 31 
+
+
+V. THE RACE-CONSCIOUS FEDERAL CON- 
+STRUCTION PROCUREMENT PROGRAM 
+FAILS STRICT SCRUTINY AND IS UNCON- 
+PEGE CTE cs ceevnccnsacssbsceicsadtees 33 
+
+
+A. THERE IS NO “COMPELLING GOV- 
+ERNMENTAL INTEREST” THAT JUSTI- 
+FIES THE FEDERAL CONSTRUCTION 
+PROCUREMENT PROGRAM CHAL- 
+LENGED IN THIS ACTION........... 34 
+
+
+B. THE FEDERAL CONSTRUCTION PRO- 
+CUREMENT PROGRAM IS NOT “NAR- 
+PAPOVE EERIE vosevcecsecceseces 38 
+
+
+VI. THE RACE-CONSCIOUS FEDERAL CON- 
+STRUCTION PROCUREMENT PROGRAM 
+IS UNCONSTITUTIONAL EVEN UNDER 
+INTERMEDIATE SCRUTINY............... 41 
+
+
+VII. PRIVATE DISCRIMINATION IS “EVIL” 
+AND JUST AS “ODIOUS TO A FREE PEO- 
+PLE” AS IS GOVERNMENTAL DISCRIMI- 
+PERIGEE Es « ccc veepinerateeoaghecscebabennas 46 
+
+
+VIII. THE CFLHD, WHEN EXCEEDING THE 
+GOALS ADOPTED BY CONGRESS, MUST 
+CONDUCT THE INQUIRY REQUIRED BY 
+CREEEE soccccesévcusqssemeshess temeneens 47 
+
+
+CEPOGMMEEENG cccccccccdcececpeedsnecaedueeneecnan 49 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+
+CASES 
+Adarand Constructors, Inc. v. Pena, 16 F.3d 1537 
+
+Pd clench gcnanenenheeebessuseevees 1, 16 
+Adarand Constructors, Inc. v. Skinner, 790 F. Supp. 
+
+ee EY We Sh td weds Wd cdwesWeciccedsecenes 1 
+Bolling v. Sharpe, 347 U.S. 497 (1954) ......... ya 
+Brown v. Bd. of Education, 347 U.S. 483 (1954)........ 35 
+Craig v. Boren, 429 U.S. 190 (1976) ............... 42, 43 
+City of Richmond v. J.A. Croson Co., 488 U.S. 469 | 
+
+Dj. ie tine cns i. Gteandaenckseuselss sense passim 
+Fullilove v. Klutznick, 448 U.S. 448 (1980)........ passim 
+Heckler v. Mathews, 465 U.S. 728 (1984).............. 42 
+Hirabayashi v. United States, 320 U.S. 81 (1943)....... 47 
+
+
+Korematsu v. United States, 323 U.S. 214 (1944)....24, 25 
+
+
+Lamprecht v. FCC, 958 F.2d 382 
+Ss Ge PN HRTEM ads benneaesvees«e 42, 43, 45 
+
+
+Loving v. Virginia, 388 U.S. 11 (1967) ................ 25 
+Metro Broadcasting v. FCC, 497 U.S. 547 (1990)... passim 
+Mississippi Univ. for Women v. Hogan, 458 U.S. 718 
+
+
+Serr rer errr Tere TTT TT Ty ee er 42 
+Regents of the University of California v. Bakke, 438 
+By SE CPD no dc ccacscccecasesesuncs 23, 25, 40, 44 
+
+
+Shaw v. Reno, 509 U.S. __, 125 L.Ed.2d 511 (1993) 
+POPE eT eee Tee TO TIT TTT TTT TTT Te 33, 35, 36, 38, 47 
+
+
+United States v. Paradise, 480 U.S. 149 (1987)......... 24 
+
+
+Wygant v. Jackson Bd. of Education, 476 U.S. 267 
+De bGLAde et vuNe ss eekdscennenede 33, 36, 37, 41, 44 
+
+
+vi 
+TABLE OF AUTHORITIES —- Continued 
+Page 
+CONSTITUTIONAL PROVISIONS 
+First Amendment to the U.S. Constitution........ 19, 29 
+Fifth Amendment to the U.S. Constitution 1, 19, 24, 40 
+
+
+§ 5 of the Fourteenth Amendment to the U.S. 
+
+
+tS i ee es a ee 24, 32, 33 
+STATUTES 
+SP is Oe IE d's ccs cccasadcncncssas 13, 30, 35, 43 
+ee Cee OEE fii ceca tounecvdsicexeuaues 6, 8, 21, 34 
+Se in Ue Is ane ccvcdecconshsnsenedehubele 2, 22 
+Se nae A IIIS Sb bedvcsuccévaececsctoncunes 3, 22 
+BP Ses Oy Ds os ov cccenkcsvotecdscuca 7, ae 
+ee es PPE Cdsivcasadnecundbenaiuneeecoanans 6, 21 
+Oe es isch deaneuecencteussece 14 
+Se Cee Se I esc cccecescdndscddecnesbeedans passim 
+ee ee I suck cnucuchasckedauevesenes 2, 47 
+OP WPA Te IE s 66.0 ccccccccancuseuesssnsees 21 
+PF ee EE Kou b vcenaddsncdacenenncaciecesauael 7 
+SP We Oe hn 5 ck dddusnaddedcceeaneeutnbenees 1 
+
+
+Surface Transportation Assistance Act, (STAA) 
+Public Law 97-424, 96 Stat. 2100................ 9, 34 
+
+
+Surface Transportation and Uniform Relocation 
+Assistance Act of 1987 (STURAA) § 106, 
+Public Law 100-17, 101 Stat. 144.... 3, 5, 6, 9, 21, 34 
+
+
+2 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+Business Opportunity Development Reform Act of 
+1988, Public Law No. 100-656, 102 Stat. 3853 
+err reer rrr Perr rrr Terr reer eee 34 
+
+
+Small Business Investment Act of 1978, Public 
+Law 95-507 (1978), 1978 U.S. Code Cong. & 
+
+
+Alem. Mews SESS GF G08. occ cccccccccccceccceces 35 
+REGULATIONS 
+13 C.F.R. § 121.601 (SIC 1611-1629)................4.. ) 
+os Oe I 6.04 0.o0 cb ds Gi deencedwedeccesenesees 8 
+ok Ot RPPPTTEPET TT TTT e ee E TT Tie 9,23 
+es Oe Ee ce kev icedevccssswadivcenveeese 9, 23 
+fe EF GS ey err err rr rT rrr errr rrr rir ty. 8 
+OF Oo bo cea ehdedscodecdescnvessventnsti 24 
+49 C.F.R. Pt. 23, Subpt. D, App. A...............--- 23 
+49 C.F.R. Pt. 23, Subpt. D, App. C................ 8, 22 
+
+
+OPINIONS BELOW 
+
+
+Review is sought of the opinion of the United States 
+Court of Appeals for the Tenth Circuit, dated February 
+16, 1994, reported as Adarand Constructors, Inc. v. Pena, 16 
+F.3d 1537 (10th Cir. 1994) and reproduced at pages 1 to 26 
+of the Appendix to The Petition for Writ of Certiorari 
+(App.). The opinion and order of the District Court, dated 
+April 21, 1992, Adarand Constructors, Inc. v. Skinner, 790 F. 
+Supp. 240 (D.Colo. 1992), are reproduced at App. 26 to 38. 
+
+
+JURISDICTION 
+
+
+The United States Court of Appeals for the Tenth 
+Circuit entered judgment against Petitioner on February 
+16, 1994. (R. 10th Cir. # 26.)! The petition for writ of 
+certiorari was filed on May 17, 1994. (R. 10th Cir. # 29.) 
+The writ of certiorari was granted on September 26, 1994. 
+(R. 10th Cir. # 31.) 
+
+
+The Supreme Court has jurisdiction to review this 
+opinion pursuant to 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+Petitioner’s challenge is based upon the Equal Pro- 
+tection component of the Due Process Clause of the Fifth 
+Amendment to the United States Constitution. The Fifth 
+
+
+1 The Joint Appendix is designated as J.A. The Appendix to 
+Petition for writ of certiorari is designated as “App.” The record 
+from the Tenth Circuit Court of Appeals is designated “R. 10th 
+Cir. #,” with the docket number and pages identified. The 
+record from the United States District Court for the District of 
+Colorado is designated “R. Colo. #,” with the docket number 
+and pages identified. 
+
+
+2 3 
+Amendment provides, in pertinent part: “No person shall business area who are not socially disadvan- 
+.. . be deprived of life, liberty, or property, without due taged. 
+
+
+process of law... .” 15 U.S.C. § 637(a)(6). Moreover, racial minorities are “pre- 
+
+
+sume[d]” to be “socially and economically disadvan- 
+
+
+Respondents maintain that the challenged agency d 
+taged”: 
+
+
+action is authorized by § 502 of the Small Business Act, | 
+(SBA) 15 U.S.C. § 644(g). (App. at 39-40.) The SBA, which 1 As used in this contract, the term “small busi- 
+applies to all federal procurement activities, requires the | ness concern” shall mean a small business as 
+President to set an annual “goal” of not less than 5% for defined pursuant to section 3 of the Small Busi- 
+small businesses owned and controlled by “socially and ness Act and relevant regulations promulgated 
+economically disadvantaged individuals.” 15 U.S.C. pursuant thereto. The term “small business con- 
+
+
+, , cern owned and controlled by socially and eco- 
+§ 644(g)(1). The statute then states, in pertinent part: nomically disadvantaged individuals” shall 
+
+
+Notwithstanding the Government-wide goal, mean a small business concern - 
+
+
+each agency shall have an annual goal that pre- 
+sents, for that agency, the maximum practicable 
+opportunity for . . . small business concerns 
+owned and controlled by socially and economi- 
+cally disadvantaged individuals to participate in 
+the performance of contracts let by such agency. 
+
+
+(i) which is at least 51 per centum owned 
+by one or more socially and economically 
+disadvantaged individuals; or, in the case of 
+any publicly owned business, at least 51 per 
+centum of the stock of which is owned by 
+one or more socially and economically dis- 
+
+
+Id. The phrase “socially disadvantaged individuals” is advantaged individuals; and 
+
+
+defined as: (ii) whose management and daily business 
+operations are controlled by one or more of 
+
+
+Socially disadvantaged individuals are those such individuals. 
+
+
+who have been subjected to racial or ethnic prej- 
+
+
+udice or cultural bias because of their identity as 
+a member of a group without regard to their 
+individual qualities. 
+
+
+The contractor shall presume that socially and 
+economically disadvantaged individuals include 
+Black Americans, Hispanic Americans, Native 
+
+
+Americans, Asian Pacific Americans, and other 
+minorities, or any other individual found to be 
+disadvantaged by the Administration pursuant 
+to section 8(a) of the Small Business Act. 
+
+
+15 U.S.C. § 637(d)(3)(C). 
+
+
+15 U.S.C. § 637(a)(5). The phrase “economically disadvan- 
+taged individuals” is defined as: 
+
+
+Economically disadvantaged are those socially 
+disadvantaged individuals whose ability to 
+compete in the free enterprise system has been 
+impaired due to diminished capital and credit 
+opportunities as compared to others in the same 
+
+
+Pr a Seat 
+
+
+Funding for the project at issue in this case was 
+provided by § 106 of the Surface Transportation and 
+
+
+Uniform Relocation Assistance Act of 1987 (STURAA) 
+
+
+which provides, in pertinent part: 
+
+
+(a) FROM THE HIGHWAY TRUST FUND. - 
+
+
+For the purpose of carrying out the provisions 
+of title 23, United States Code, the following 
+sums are hereby authorized to be appropri- 
+ated ...: 
+
+
+(c) 
+
+
+* * + 
+
+
+(8) FOREST HIGHWAYS. - For forest 
+highways $55,000,000 per fiscal year for 
+each of fiscal years 1987, 1988, 1989, 1990, 
+and 1991. 
+
+
+DISADVANTAGED BUSINESS ENTER- 
+PRISES. - 
+
+
+(1) GENERAL RULE. - Except to the 
+extent that the Secretary determines other- 
+wise, not less than 10 percent of the 
+amounts authorized to be appropriated 
+under titles I and III of this Act or obligated 
+under titles I, II, and III (other than section 
+203) of the Surface Transportation Assis- 
+tance Act of 1982 after the date of the enact- 
+ment of this Act shall be expended with 
+small business concerns owned and con- 
+trolled by socially and economically disad- 
+vantaged individuals. 
+
+
+(2) DEFINITIONS. - For purposes of 
+this subsection - 
+
+
+(A) SMALL BUSINESS CONCERN. - 
+The term “small business concern” has the 
+meaning such term has under section 3 of 
+the Small Business Act (15 U.S.C. 632); 
+except that such term shall not include any 
+concern or group of concerns controlled by 
+
+
+es 
+
+
+OO 
+
+
+the same socially and economically disad- 
+vantaged individual or individuals which 
+has average annual gross receipts over the 
+preceding 3 fiscal years in excess of 
+$14,000,000, as adjusted by the Secretary for 
+inflation. 
+
+
+(B) SOCIALLY AND ECONOMI- 
+CALLY DISADVANTAGED INDIVIDUALS. 
+- The term “socially and economically dis- 
+advantaged individuals” has the meaning 
+such term has under section 8(d) of the 
+Small Business Act (15 U.S.C. 637(d)) and 
+relevant subcontracting regulations promul- 
+gated pursuant thereto... . 
+
+
+Pub. L. 100-17, 101 Stat. 144-46 (1987), §§ 106(a) and (c). 
+
+
+STATEMENT OF THE CASE 
+A. Facts and Background 
+
+
+This case presents a challenge to a federal program, 
+hereinafter “the Federal Construction Procurernent Pro- 
+gram,” authorized by § 502 of the Small Business Act, 15 
+U.S.C. § 644(g), and funded by § 106(a)(8) of the Surface 
+Transportation and Uniform Relocation Assistance Act of 
+1987 (STURAA), Pub. L. 100-17, 101 Stat. 132 (1987). The 
+Federal Construction Procurement Program, which is 
+funded by STURAA and which Respondents maintain is 
+authorized by § 502 of the SBA [15 U.S.C. § 644(g)], 
+provides the authority for a provision included in high- 
+way construction contracts by the Central Federal Lands 
+Highway Division (CFLHD) entitled the “Subcontracting 
+
+
+Compensation Clause” (SCC).2 The SCC is quoted in its 
+entirety in the Joint Appendix at pages 24-27. Although 
+Adarand does not challenge the constitutionality of 
+STURAA, Adarand does challenge the constitutionality of 
+§ 106(c) of STURAA since it is that provision that incor- 
+porates by reference 15 U.S.C. § 637(d) of the SBA and 
+thereby provides the “presumption” that listed minorities 
+are “disadvantaged.” The SCC is designated as § 108 of 
+all sealed bids for highway construction contracts issued 
+by the CFLHD.®? (J.A. 24-27). 
+
+
+As a contracting agency within the FHWA, the 
+CFLHD is apportioned a share of the FHWA’s annual 
+goal for small “disadvantaged” business participation. (R. 
+10th Cir. # 11, Aplt. App. 349-350.) The small disadvan- 
+taged business goal established by the FHWA for the 
+CFLHD was between 12% and 15% of the approximately 
+$40 million in funding that the CFLHD receives annually 
+for its highway construction projects. (R. 10th Cir. # 11, 
+Aplt. App. 347.) The CFLHD uses three means to achieve 
+its share of the geal: (1) awarding contracts to small 
+“disadvantaged” businesses by competitive bid; (2) 
+awarding contracts to the Small Business Administration 
+under the section 8(a) program, 15 U.S.C. § 637(a), which 
+then allocates the contracts to “disadvantaged” firms 
+
+
+2 The CFLHD is a regional subsidiary of the Federal Lands 
+Highway Program (FLHP). The FLHP is subordinate to the 
+Federal Highway Administration (FHWA), which is, in turn, 
+part of the U.S. Department of Transportation (DOT). 
+
+
+3 “(T]he [SCC] clause is included in all sealed bidding con- 
+tracts, it is not included in the 8(a) contracts. ... [Because the 
+8(a) contracts go exclusively to Disadvantaged Business Enter- 
+prises], we do not put the SCC into those contracts.” (R. 10th 
+Cir. # 14, DOT App. 74-75.) 
+
+
+ee 
+
+
+only; and (3) encouraging firms, by means of financial 
+incentives, that win prime contracts to award sub- 
+contracts to “disadvantaged” firms.* It is the third mecha- 
+nism that is at issue in this case. The CFLHD required the 
+inclusion of the SCC provision in its sealed bid contracts 
+as a means of achieving the goals established pursuant to 
+15 U.S.C. § 644(g). (R. 10th Cir. # 11, Aplt. App. 316-317 & 
+Aplt. App. 342.) 
+
+
+Adarand Constructors, Inc., (Adarand) is a highway 
+construction company that specializes in the installation 
+of highway guardrail systems and highway signs. 
+Adarand has been engaged continuously in this business 
+since 1976 and has substantial expertise in the perfor- 
+mance of these tasks. (J.A. 33.) Adarand is not eligible for 
+a presumption that it qualifies for certification as a “Dis- 
+advantaged Business Enterprise” under the SBA because 
+its “management and daily business operations are con- 
+trolled by” Randy Pech, who is a white male. (J.A. 32.) 15 
+U.S.C. § 637(d)(3)(C). 
+
+
+The function of the CFLHD is to supervise the con- 
+struction and maintenance of highways on federally- 
+
+
+4 (R. 10th Cir. # 11, Aplt. App. 316-317; Aplt. App. 342; 
+Aplt. App. 345-346.) 
+
+
+5 At the end of each fiscal year, federal agencies, including 
+DOT, submit reports to the Small Business Administration on 
+the extent of federal procurement contracting participation by 
+small businesses and DBEs, including an explanation of any 
+failure to meet the agency-wide goal. 15 U.S.C. § 644(h). The 
+reports are compiled by the Small Business Administration and 
+submitted to the President and Congress. Id. 
+
+
+owned lands within its geographic region.© The CFLHD 
+does not certify businesses as Disadvantaged Business 
+Enterprises.” Rather, it relies on the states and the Small 
+Business Administration to provide that certification. 
+
+
+On August 10, 1989, the CFLHD issued a solicitation 
+for bids for the construction of a 4.7 mile section of 
+highway located in the San Juan National Forest (the 
+West Dolores Project). (R. 10th Cir. # 11, Aplt. App. 
+103-312.) The West Dolores Project is located approx- 
+imately 400 miles from Denver in the extreme south- 
+western corner of Colorado in Montezuma and Dolores 
+Counties near the Four Corners Area. The construction 
+site is located hundreds of miles from Salt Lake City, 
+Utah; Albuquerque, New Mexico; and Phoenix, Arizona. 
+Furthermore, both counties in which this project took 
+place are sparsely populated: 10.05 and 1.34 people per 
+square mile, respectively.® 
+
+
+6 The geographic region of the CFLHD includes all or part 
+of the following states: Colorado, Nebraska, North Dakota, Cal- 
+ifornia, Wyoming, Utah, Arizona, New Mexico, Texas, South 
+Dakota, Nevada, Kansas, and Hawaii. (R. 10th Cir. # 11, Aplt. 
+App. 319-320.) 
+
+
+7 The CFLHD accepts, as a DBE, any entity certified as such 
+by a “state or the Small Business Administration.” (R. 10th Cir. # 
+14, DOT App. 44-45; DOT App. 104; and R. 10th Cir. # 11, Aplt. 
+App. 315). “[T]he type of proof of social disadvantage accepted 
+by CFLHD for purposes of its SCC provision is that type of 
+proof required for certification of small business concerns by 
+SBA for the 8(a) program, 15 U.S.C. § 637(a), set out in 13 C.F.R. 
+§ 124.105, and by state highway agencies for Department of 
+Transportation programs pursuant to the standards of 49 C.F.R. 
+§§ 23.51, 23.53 and subpart D, Appendix C.” (R. 10th Cir. # 11, 
+Aplt. App. 315) 
+
+
+8 Colorado Population Counts and Estimates, 1980-1983, Pub- 
+lished by the Colorado Division of Local Government. 
+
+
+Section 108 of the contract for the West Dolores Pro- 
+ject was the SCC provision. (J.A. 24-27.) The SCC offered 
+a monetary reward to all prime contractors who would 
+hire “disadvantaged” subcontractors to perform work 
+constituting more than 10% of the overall contract 
+amount.? (J.A. 25.) The SCC was based on a uniform 
+version of the same which was issued by the Administra- 
+tor of the FLHP in 1981 and is used in all three regions of 
+the FLHP. (R. 10th Cir. # 11, Aplt. App. 326-327.) 
+
+
+The term “disadvantaged business enterprise” (DBE) 
+is presumed to include all small businesses owned and 
+operated by Blacks, Hispanics, Asians, Native Americans, 
+and “other minorities”.'° (48 C.F.R. § 52.219-8; 13 C.F.R. 
+§ 124.105(b)"!; R. 10th Cir. # 11, Aplt. App. 286.) Busi- 
+nesses owned or operated by white men are not pre- 
+sumed to be “disadvantaged.” 
+
+
+° The CFLHD requires that at least 10% of the cost of the 
+contract be awarded to one or more DBEs before a prime con- 
+tractor is entitled to the bonus under the SCC. (R. 10th Cir. # 14, 
+DOT App. 52-53). The 10% minimum is taken from the percent- 
+age required by Section 105(f) of the Surface Transportation 
+Assistance Act, (STAA) Pub. L. 97-424, 96 Stat. 2100, and Section 
+106(c) of STURAA Pub. L. 100-17, 101 Stat. 145-46. (R. 10th Cir. # 
+14, DOT App. 103). 
+
+
+10 For a highway construction company to qualify as a 
+“small business,” it may not have annual receipts that exceed 
+$17 million. 13 C.F.R. § 121.601 (SIC 1611-1629). This represents 
+the $14 million figure under STURRA, cited on p.5, adjusted for 
+inflation. 
+
+
+11 The “other minorities” presumed by the Small Business 
+Administration to be “disadvantaged, include, but are not lim- 
+ited to, persons with origins in: Burma, Singapore, Laos, Repub- 
+lic of the Marshall Islands, Federated States of Micronesia, Fiji, 
+Kiribati, Sri Lanka, and Bhutan. 
+
+
+10 
+
+
+The size of the bonus offered to the prime contractor 
+under the SCC provision was equal to 10% of the final 
+amount of the DBE subcontracts, not to exceed 2% of the 
+final prime contract amount (1.5% if the prime contractor 
+only contracts with one DBE subcontractor). (R. 10th Cir. 
+# 11, Aplt. App. 286.) Moreover, the CFLHD required 
+prospective prime contractors to include in their bids an 
+amount for compensation under the SCC program 
+regardless of whether the prime contractors intended to 
+collect the bonus.!2 Thus, a prime contractor could not 
+gain an advantage in the competition to submit the low- 
+est-priced bid by agreeing to forego the benefits available 
+under the SCC provision.!5 (R. 10th Cir. # 11, Aplt. App. 
+349.) 
+
+
+On September 15, 1989, the CFLHD awarded the 
+prime contract for the West Dolores Project to Mountain 
+Gravel & Construction Company (Mountain Gravel). (R. 
+10th Cir. # 11, Aplt. App. 114.) Shortly thereafter, 
+Adarand submitted a bid to Mountain Gravel seeking to 
+subcontract the guardrail portion of the highway con- 
+struction project. (J.A. 30 & 34.) Adarand’s bid quoted a 
+lower price for the work than any other bid. (J.A. 30 & 
+34.) However, because of the SCC, Mountain Gravel “felt 
+compelled to give the subcontract of the guardrail work 
+
+
+12 In this case the bonus to be included in each prime 
+contractor’s bid was $30,000.00. (R. 10th Cir. # 11, Aplt. App. 
+118.) 
+
+
+13 The CFLHD selects the lowest responsive bid for all 
+projects under the sealed bidding process. (R. 10th Cir. # 14, 
+DOT App. 81). The selected prime contractor must report all 
+DBE and non-DBE subcontracts to the CFLHD. (R. 10th Cir. # 14, 
+DOT App. 105-106). The CFLHD includes this information in a 
+monthly report. (R. 10th Cir. # 14, DOT App. 37). 
+
+
+11 
+
+
+to Gonzales Construction.” (J.A. 30.) Thus, the uncon- 
+troverted evidence is that: 
+
+
+the primary reason that MOUNTAIN GRAVEL 
+& CONSTRUCTION COMPANY gave the sub- 
+contract for the guardrail to Gonzales Construc- 
+tion, a qualified DBE, is because Gonzales 
+Construction is a DBE and MOUNTAIN 
+GRAVEL & CONSTRUCTION COMPANY felt 
+economically compelled to award its sub- 
+contract to a DBE because MOUNTAIN 
+GRAVEL & CONSTRUCTION COMPANY was 
+entitled to a bonus of approximately $10,000.00 
+for awarding the subcontract to Gonzales Con- 
+struction, a qualified DBE. 
+
+
+[B]ut for the requirements of the Federal High- 
+way contracts which encourage prime constrac- 
+tors (sic) to use DBEs, MOUNTAIN GRAVEL & 
+CONSTRUCTION COMPANY would have 
+accepted the low bid submitted by ADARAND 
+CONSTRUCTORS, INC., and awarded the sub- 
+contract to ADARAND CONSTRUCTORS, INC. 
+
+
+(J.A. 30-31.) 
+
+
+B. Decisions Below 
+
+
+On August 10, 1990, Adarand filed an action ir. the 
+United States District Court for the District of Colorado 
+challenging the constitutionality of the use, by the 
+CFLHD, of the contract provision referred to as the SCC, 
+since the express purpose of the SCC is to induce prime 
+contractors, on federal highway projects, to hire sub- 
+contractors based on the race of their owners, rather than 
+the amount of their bids. 
+
+
+12 
+
+
+Cross Motions For Summary Judgment were filed on 
+April 24, 1991. In Defendants’ Brief in Support of Motion 
+for Summary Judgment, Respondents argued that “here 
+as in Fullilove [v. Klutznick, 448 U.S. 448 (1980)], Congress 
+had abundant evidence from which it could conclude that 
+minority businesses have been denied effective participa- 
+tion in public contracting opportunities by practices that 
+perpetuated the effects of prior discrimination.” (R. Colo. 
+# 19, Brief 21.) 
+
+
+In their Memorandum in Opposition to Plaintiff's 
+Motion for Summary Judgment and in Further Support of 
+Defendants’ Motion For Summary Judgment (Memoran- 
+dum in Opposition), Respondents argued that the “com- 
+pelling governmental interest” for the Federal 
+Construction Procurement Program is set forth in the 
+findings of Congress as follows: 
+
+
+(1) With respect to the Administration’s busi- 
+ness development programs the Congress finds 
+
+
+(A) that the opportunity for full participa- 
+tion in our free enterprise system by 
+socially and economically disadvantaged 
+persons is essential if we are to obtain social 
+and economic equality for such persons and 
+
+
+13 
+
+
+(C) that such groups include, but are not 
+limited to, Black Americans, Hispanic 
+Americans, Native Americans, Asian Pacific 
+Americans and other minorities; 
+
+
+(D) that it is in the national interest to 
+expeditiously ameliorate the conditions of 
+socially and economically disadvantaged 
+groups; 
+
+
+(E) that such conditions can be improved 
+by providing the maximum practicable 
+opportunity for the development of small 
+business concerns owned by members of 
+socially and economically disadvantaged 
+groups; 
+
+
+(F) that such development can be mate- 
+rially advanced through the procurement by 
+the United States of articles, equipment, 
+supplies, services, materials, and construc- 
+tion work from such concerns; and 
+
+
+(G) that such procurements also benefit 
+the United States by encouraging the expan- 
+sion of suppliers for such procurements, 
+thereby encouraging competition among 
+suppliers and promoting economy in such 
+procurements. 
+
+
+improve the functioning of the national 
+economy; 
+
+
+(B) that many such persons are socially 
+disadvantaged because of their identifica- 
+tion as members of certain groups that have 
+suffered the effects of discriminatory prac- 
+tices or similar invidious circumstances 
+over which they have no control; 
+
+
+15 U.S.C. § 631(f)(1). (R. Colo. # 36, Brief 6-7.) 
+
+
+In their Memorandum in Opposition, Respondents 
+stated: 
+
+
+Clearly, Congress had available to it in 1978 the 
+historical record of discrimination that the 
+Supreme Court has found sufficient to support 
+the preferences contained in the PWEA... . 
+Because the use of the SCC is directly traceable 
+
+
+also 
+
+
+14 
+
+
+to Congressional findings as to the need to rem- 
+edy the historical underutilization of DBEs in 
+Federal procurement, Congress has identified 
+the compelling interest for its use. 
+
+
+(R. Colo. # 36, Brief 8-9.) 
+
+
+On April 21, 1992, the District Court issued an opin- 
+ion and order denying Adarand’s Motion For Summary 
+Judgment and granting the United States’ Motion For 
+Summary Judgment. 
+
+
+On August 5, 1992, after obtaining an order granting 
+a timely-filed Motion For Extension Of Time To File An 
+Appeal, Adarand filed a Notice Of Appeal with the 
+United States Court of Appeals for the Tenth Circuit. 
+
+
+Respondents filed with the United States Court of 
+Appeals for the Tenth Circuit the following list of “evi- 
+dence” that Congress considered when it enacted 15 
+U.S.C. § 644. The items listed were as follows: 
+
+
+133 Cong. Rec. 33321 (1987) (testimony of Cong. 
+Mfume); 133 Cong. Rec. 33321-33322 (1987) (tes- 
+timony of Cong. Meyers); 133 Cong. Rec. 33322 
+(1987) (testimony of Cong. Gallo); Minority 
+Business Development Program Reform Act of 
+1987: Hearing Before the Senate Committee on 
+Small Business, 100th Cong., 2d Sess. 109-110 
+(1988) (statement by Sen. D’Amato); Id. at 
+193-202 (statement by Sen. Levin); Id. at 8, 
+189-191 (statement by Sen. Kerry); Id. at 15-18 
+(statement by Sen. Sasser); 134 Cong. Rec. 
+31491-31492 (1988); 134 Cong. Rec. 30057 (1988); 
+133 Cong. Rec. 33314-33316 (1987) (testimony of 
+Cong. LaFalce); The Small Business Compet- 
+itiveness Demonstration Program Act of 1988: 
+Hearings on S. 1559 Before the Senate Commit- 
+tee on Small Business, 100th Cong., 2d Sess. 
+
+
+15 
+
+
+(1988); A bill to Reform the Capital Ownership 
+Development Program: Hearings on H.R. 1807 
+Before the House Subcommittee on Procure- 
+ment, Innovation, and Minority Enterprise 
+Development, Committee on Small Business, 
+100th Core., Ist Sess. (1987); To Present and 
+Examine tite Result of a Survey of the Graduates 
+of the Small Business Administration Section 
+8(a) Minority Business Development Program, 
+Hearings Before the Senate Small Business Com- 
+mittee, 100th Cong., Ist Sess. (1987); 134 Cong. 
+Rec. 31493 (1988) (statement of Sen. Weiker); H. 
+Conf. Rep. No. 1070, 100th Cong., 2nd Sess. 73 
+(1988), reprinted in 1988 U.S.C.C.A.N. 5401, 
+5507; 124 Cong. Rec. 29641 (1978) (testimony of 
+Sen. Glenn); id. at 2944 (statement by Sen. 
+Heinz); To Amend the Small Business Act to 
+Extend the Current SBA 8(a) Pilot Program: 
+Hearings on H.R. 5612 Before the Senate Select 
+Committee on Small Business, 96th Cong., 2d 
+Sess. (1980); Small and Minority Business in the 
+Decade of the 1980's Pt. 1, House Committee on 
+Small Business, 97th Cong , Ist Sess. (1981); see 
+also Hearings on Minority Business and its Con- 
+tributions to the U.S. Economy, Senate Commit- 
+tee on Small Business, 97th Cong. 2d Sess. 
+(1982); id. at 10, 33-34, 65, 106, 114, 118, 120, 220, 
+221, 241; Small Business and the Federal Pro- 
+curement System, Hearings Before the Subcom- 
+mittee on General Oversight, House Committee 
+on Small Business, 97th Cong., Ist Sess. (1981); 
+Hearings on Federal Contracting Opportunities 
+for Minority and Women-Owned Businesses: An 
+Examination of the 8(d) Subcontracting Program 
+Before the Senate Committee on Small Business, 
+98th Cong., Ist Sess. (1983); Hearings on Women 
+Entrepreneurs: Their Success and Problems 
+
+
+16 
+
+
+Before the Senate Committee on Small Business, 
+98tn Cong., 2d Sess. (1984); Hearing on the State 
+of Hispanic Small Business in America; Minority 
+Enterprise and General Small Business Problems 
+of the Committee on Small Business, 99th Cong., 
+2d Sess. (1986). 
+
+
+(R. 10th Cir. # 14, Brief 29-34.) 
+
+
+In an opinion dated February 16, 1994, Adarand Con- 
+structors, Inc. v. Pena, 16 F.3d 1537 (10th Cir. 1994), the 
+United States Court of Appeals for the Tenth Circuit 
+affirmed the decision of the District Court. The Tenth 
+Circuit held: 
+
+
+Fullilove controls. . . . [I]f Congress has expressly 
+mandated a race-conscious program, a court 
+must apply a lenient standard, resembling inter- 
+mediate scrutiny, in assessing the program’s 
+constitutionality. (App. 15.) 
+
+
++ * * 
+
+
+If particularized findings to justify implementa- 
+tion of a federal remedial program are not 
+required of a state . . . they clearly are not 
+required of a federal agency, such as CFLHD, 
+which Adarand concedes is obliged to adminis- 
+ter the remedial program.'4 
+
+
+14 The Tenth Circuit states: “The conclusion that CFLHD is 
+acting with the bounds of the statutory authority of the Small 
+Business Act is impelled by Adarand’s own concession that the 
+CFLHD’s implementation of the SCC program was not beyond 
+the agency’s delegated power under section 502.” (App. 21.) 
+Adarand made no such concession. Adarand consistently 
+argued, in its opening brief and its reply brief, that the SCC 
+provision was beyond the mandate of Congress. (R. 10th Cir. # 
+11, Brief 16-28 and R. 10th Cir. # 17, Brief 3-9.) 
+
+
+17 
+
+
+The lesson that we glean from Fullilove and 
+Croson is that the federal government, acting 
+under congressional authority, can engage more 
+freely in affirmative action than states and 
+localities. (App. 18.) 
+
+
+* + + 
+
+
+We also disagree with Adarand’s argument that 
+Congress must mandate precise percentage 
+goals for minority small business participation. 
+Such a position ignores the principle lesson of 
+Fullilove. The splintered Fullilove Court did not 
+uphold the challenged federal program because a 
+specific percentage set-aside was mandated by 
+Congress, but rather because the program, in 
+spite of the racial and ethnic preference, satisfied 
+equal protection requirements. (Emphasis in 
+original.) (App. 21.) 
+
+
+* * * 
+
+
+Because Adarand stipulates that section 502 sat- 
+isfies the evidentiary requirements of Fullilove, 
+the only question to be resolved is whether the 
+SCC program is narrowly tailored to achieve the 
+remedial purpose of section 502. We hold that it 
+does.'5 (App. 22.) 
+
+
+15 The statement that “Adarand stipulates” is a mischarac- 
+terization of Adarand’s Reply Brief. The Brief states: “Adarand 
+concedes, for the sake of discussion, that the evidence is sufficient 
+to satisfy the evidentiary requirements of Fullilove. However 
+this concession is not enough to save the Federal Defendants’ 
+argument.” (App. 43.) (Emphasis added.) By adding the lan- 
+guage “for the sake of discussion,” Adarand was stating that for 
+purposes of the discussion it could be assumed that the evi- 
+dence met the requirements of Fullilove. This is much different 
+from a stipulation. Adarand simply did not stipulate as indi- 
+cated by the opinion of the Tenth Circuit. 
+
+
+18 
+
+
+* * * 
+
+
+Having rejected Adarand’s arguments, and hav- 
+ing held that the district court did not err in 
+relying on Fullilove rather than Croson, that 
+accordingly, no Croson findings were necessary, 
+and that the Small Business Act which autho- 
+rized the SCC program meets the constitutional 
+requirements, we affirm the district court’s 
+order of April 21, 1992, in favor of the Govern- 
+ment. (App. 24.) (Internal citations have been 
+omitted.) 1 
+
+
+A Petition for writ of certiorari was filed on May 17, 
+1994. The writ of certiorari was granted on September 26, 
+1994. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+When it adopted the Federal Construction Procure- 
+ment Program at issue in this case, Congress selected race 
+as the primary factor for the awarding of federal con- 
+struction procurement contracts by the federal govern- 
+ment. The use of race is the use of a classification that 
+undermines the Constitution’s guarantee of equal protec- 
+tion. 
+
+
+In considering the use of race by Congress regarding 
+such matters as the issuance of federal construction con- 
+tracts, this Court has traditionally used “the most rigid 
+scrutiny” to determine whether Congress has violated the 
+equal protection component of the Due Process Clause of 
+
+
+16 Although the Tenth Circuit Court of Appeals stated that 
+the CFLHD was “not itself subject to the STURAA implement- 
+ing regulations,” the Court made no finding regarding the 
+application of STURAA to this case. (App. 8.) 
+
+
+19 
+
+
+the Fifth Amendment. Regarding issues such as federal 
+construction contracts, no decision of this Court has ever 
+departed from the application of “strict scrutiny.” While 
+this Court has held that a lessor standard of review may 
+apply when First Amendment issues are at stake, First 
+Amendment issues are not involved in this case. More- 
+over, this Court has refused to impose a lesser duty on 
+the federal government in meeting the Constitution’s 
+requirement for equal protection. 
+
+
+The application of “strict scrutiny” to the race-con- 
+scious Federal Construction Procurement Program 
+requires that the federal government demonstrate both a 
+“compelling governmental interest” for using race and 
+that the means selected is “narrowly tailored.” An exam- 
+ination of the federal government’s alleged factual basis 
+for adopting the race-conscious program reveals that it 
+contains no evidence of a pattern or practice of discrimi- 
+nation; merely asserts what it purports to prove; and, at 
+best, is an allegation of “societal discrimination.” Thus, 
+there is no evidence of a “compelling governmental inter- 
+est.” 
+
+
+The existence of the race-conscious Federal Construc- 
+tion Procurement Program for more than thirteen years, 
+with no end in sight, demonstrates that it is not “nar- 
+rowly tailored.” Moreover, since the program is not 
+linked to identified discrimination, it is impossible to 
+assess whether the program is “narrowly tailored.” 
+
+
+Even if “intermediate scrutiny” were the proper stan- 
+dard for reviewing the constitutionality of the race-con- 
+scious Federal Construction Procurement Program, and it 
+is not, the program fails to survive. Even under the 
+relaxed standard, Congress failed to provide “meaningful 
+
+
+20 
+
+
+evidence” that “actually comports with fact” to justify its 
+use of race in awarding federal contracts. In addition, the 
+means selected were not “substantially tailored” since 
+“maximum practicable” permits the award of federal con- 
+tracts far beyond that necessary to ameliorate past dis- 
+crimination, that is, rising to 100 percent. This is 
+especially the case since the race-conscious program has 
+no logical stopping point. 
+
+
+The fact that it is a private individual who has made 
+the decision to issue a subcontract on the basis of race is 
+irrelevant since that individual is provided a financial 
+inducement, under the race-conscious provisions of the 
+Federal Construction Procurement Program, to engage in 
+that conduct. The fact that this act is authorized by fed- 
+eral law and undertaken with federal funds makes it an 
+action by the federal government. 
+
+
+While Congress may have had a basis for the adop- 
+tion of a program authorizing the set-aside of 5 percent of 
+government contracts on the basis of race, although 
+Adarand disputes that it had such a basis, the decision by 
+the CFLHD to adopt a program in which 12 to 15 percent 
+of its contracting funds are apportioned on the basis of 
+race is without the factual basis required by this Court. 
+The CFLHD has demonstrated neither a “compelling gov- 
+ernmental interest” for its decision nor that its program is 
+“narrowly tailored.” 
+
+
+ARGUMENT 
+
+
+I. THE FEDERAL CONSTRUCTION PROCUREMENT 
+PROGRAM MAKES RACE THE DECIDING FAC- 
+TOR IN THE AWARD OF MANY FEDERAL CON- 
+STRUCTION SUBCONTRACTS. 
+
+
+The Federal Construction Procurement Program not 
+only employs race as a factor, race is the primary factor 
+
+
+21 
+
+
+used to determine whether an enterprise is a DBE and, 
+therefore, entitled to the preferential treatment accorded 
+under the program implemented by the CFLHD.!7 That 
+is, an individual is presumed to be “disadvantaged” if 
+that individual is one of those listed. The Federal Con- 
+struction Procurement Program does not define “disad- 
+vantaged” in “race-neutral terms,” instead the program 
+presumes that members of the listed races are “disadvan- 
+taged.” 
+
+
+Thus, the payment of a monetary bonus to a prime 
+contractor, in accordance with the SCC provision, turns 
+upon the race of the subcontractor. The definition of 
+“social and economic disadvantage” obviously favors 
+racial minorities: 
+
+
+17 15 U.S. C. § 644(g)(2)(B) specifically incorporates by ref- 
+erence § 8(a) [15 U.S.C. § 637(a)] of the SBA and makes no 
+reference to section 8(d) [15 U.S.C. § 637(d)]. Section 8(d) is the 
+provision that contains the “presumption” regarding race. 
+
+The SBA, over the history of the program and since the 
+inclusion of § 8(d), has, however, treated § 8(a) and § 8(d) as 
+interchangeable. In other words, the Small Business Adminis- 
+tration, and other agencies that use the regulations promulgated 
+by the Small Business Administration, including the Depart- 
+ment of Transportation (DOT), have treated § 8(a) and § 8(d) as 
+if the presumption applied to both. Congress has, over the 
+years, had many opportunities to reverse this policy of the Small 
+Business Administration and has failed to do so. Furthermore, 
+the Justice Department has conceded that the SBA is race-con- 
+scious. (Opp. to Pet. 3.) 
+
+In any event, the funding for the West Dolores project was 
+provided by § 106(a)(8) of STURAA and STURAA incorporates 
+by reference the SBA’s presumption under 15 U.S.C. § 637(d). 
+Pub. L. 100-17, 101 Stat. 146, § 106(c). 
+
+
+22 
+
+
+Socially disadvantaged individuals are those 
+who have been subjected to racial or ethnic prej- 
+udice or cultural bias because of their identity as 
+a member of a group without regard to their 
+individual qualities. 
+
+
+15 U.S.C. § 637(a)(5). “Economically disadvantaged” 
+means: 
+
+
+those socially disadvantaged individuals whose 
+ability to compete in the free enterprise system 
+has been impaired due to diminished capital 
+and credit opportunities as compared to others 
+in the same business area who are not socially 
+disadvantaged. 
+
+
+15 U.S.C. § 637(a)(6). 
+
+
+Thus, only individuals who are “socially disadvan- 
+taged,” that is, of certain specified racial and ethnic status 
+can be “economically disadvantaged.”!* In addition, 
+racial minorities, and only racial minorities, are entitled 
+to a presumption of “disadvantage” as follows: 
+
+
+18 States or other governmental bodies receiving federal 
+highway funds (recipients) must determine whether an entity is 
+“disadvantaged.” If the entity seeking certification is not a 
+“minority” the governmental body looks no further; the entity is 
+presumed not to be “disadvantaged.” Economic data is not 
+examined, other than to establish that the business is “small,” 
+that is, it has annual receipts of less than $17 million. 
+
+“Recipients should always make a determination of social 
+disadvantage before proceeding to make a determination of 
+economic disadvantage. If the recipient determines that the individ- 
+ual is not socially disadvantaged, it is not necessary to make the 
+economic disadvantage determination.” 49 C.F.R. Pt. 23, Subpt. D, 
+App. C. (Emphasis added.) 
+
+
+23 
+
+
+The contractor shall presume that socially and 
+economically disadvantaged individuals include 
+Black Americans, Hispanic Americans, Native 
+Americans, Asian Pacific Americans, and other 
+minorities, or any other individual found to be 
+disadvantaged by the Administration pursuant 
+to section 8(a) of the Small Business Act. 
+
+
+15 U.S.C. § 637(d)(3)(C). 
+
+
+This Court has held that a racial classification is “a 
+line drawn on the basis of race and[/or] ethnic status,” 
+Regents of the University of California v. Bakke, 438 U.S. 265, 
+289 (1978), and that the Constitution’s guarantee of equal 
+protection is violated if persons of different races “are not 
+accorded the same protection.” Id. (Emphasis added.) The 
+Federal Construction Procurement Program is race-con- 
+scious. Under that program, a member of a listed minor- 
+ity group obtains DBE status merely by proving that 
+individual’s membership in one or more of the “pre- 
+sume[d]” disadvantaged minorities.'? Once membership 
+in one of the groups “presume[d]” to be disadvantaged is 
+established, the individual is certified as a DBE.?° 
+
+
+19 See 13 C.F.R. 124.105(b); and 48 C.F.R. § 52.219-8. 
+
+
+20 “In making certification decisions, the recipient (state or 
+local government) relies on this presumption, and does not 
+investigate the social or economic status of individuals who fall 
+into one of the presumptive groups.” 49 C.F.R. Pt. 23, Subpt. D, 
+App. A, at page 216 (10-1-92 Edition). This is the inverse of the 
+situation described in footnote 18. That is, if the entity seeking 
+certification is a “minority,” the governmental body looks no 
+further; the entity is presumed to be “disadvantaged.” Eco- 
+nomics is not examined, except to establish that the “business” 
+is a “small business.” See footnote 7 for an explanation of why 
+the above cited regulations are applicable to this case. 
+
+
+24 
+
+
+Nothing else is required.?!} The Federal Construction Pro- 
+curement Program is clearly race-conscious because it 
+establishes classifications and draws lines on the basis of 
+race or ethnic status. 
+
+
+II. STRICT SCRUTINY IS THE STANDARD OF 
+REVIEW THIS COURT REQUIRES FOR A RACE- 
+CONSCIOUS PROCUREMENT PROGRAM, 
+INCLUDING ONE MANDATED BY CONGRESS. 
+
+
+The Federal Construction Procurement Program is 
+race-conscious and, as such, is subject to strict scrutiny 
+under the Equal Protection component of the Due Process 
+Clause of the Fifth Amendment since “the reach of the 
+equal protection guarantee of the Fifth Amendment is 
+coextensive with that of the Fourteenth.” United States v. 
+Paradise, 480 U.S. 149, 166 n.16 (1987). This Court tradi- 
+tionally uses “the most rigid scrutiny” in considering 
+violations of the equal protection component of the Due 
+Process Clause of the Fifth Amendment. Korematsu v. 
+
+
+21 Although the DBE status of a minority can be “rebutted,” 
+the burden to “rebut” the DBE status of an entity is placed on 
+third parties. 49 C.F.R. § 23.69. Thus, the party challenging the 
+DBE status of an entity must provide evidence that the chal- 
+lenged minority is not “socially and economically disadvan- 
+taged.” The burden is on the wrong party. The party seeking to 
+be benefitted by the program should have the burden of pro- 
+ving, not just his race or ethnic origins, but the nature of his 
+“social” and/or “economic disadvantage.” Moreover, the bur- 
+den should be on the federal government to ensure that the 
+benefits of a federal program are accruing to entities based upon 
+their economic disadvantage, not just their race. 
+
+
+25 
+
+
+United States, 323 U.S. 214, 216 (1944).22 “Most rigid scru- 
+tiny” is “strict scrutiny.” In fact, Justice Marshall, in his 
+concurring opinion in Fullilove, recognized that the “con- 
+ventional” test for reviewing “governmental programs 
+employing racial classifications” is “strict scrutiny.” Full- 
+ilove, 448 U.S. at 519. 
+
+
+Nonetheless, the Tenth Circuit Court of Appeals 
+applied a different and, therefore improper, standard of 
+review to the race-conscious government contracting pro- 
+gram challenged herein: 
+
+
+[I]f Congress has expressly mandated a race- 
+conscious program, a court must apply a lenient 
+standard, resembling intermediate scrutiny, in 
+assessing the program’s constitutionality. 
+
+
+(App. 15.) (Emphasis added.) The United States Court of 
+Appeals for the Tenth Circuit reached its conclusion by 
+combining the Fullilove opinion authored by Chief Justice 
+Burger with the concurring opinion in that case authored 
+
+
+22 “[AJll legal restrictions which curtail the civil rights of a 
+single racial group are immediately suspect. It is not to say that 
+all such restrictions are unconstitutional. It is to say that courts 
+must subject them to the most rigid scrutiny.” Korematsu v. United 
+States, 323 U.S. at 216. (Emphasis added.) See also Bakke, 438 U.S. 
+at 299 (when decision-making touches upon an individual's race 
+or ethnic background, he is entitled to a judicial determination 
+that the burden he is asked to bear because of his race or ethnic 
+background is precisely tailored to serve a compelling govern- 
+mental interest); Loving v. Virginia, 388 U.S. 1, 11 (1967) (the 
+Equal Protection Clause demands that racial classifications be 
+subjected to the “most rigid scrutiny”); and Bolling v. Sharpe, 347 
+U.S. 497, 500 (1954) (“[c]lassifications based solely upon race 
+must be scrutinized with particular care since they are contrary 
+to our traditions and hence constitutionally suspect”). 
+
+
+26 
+
+
+by Justice Marshall.?3 This holding of the Tenth Circuit is 
+in error. A “lenient standard, resembling intermediate 
+scrutiny” is not the standard of review for government 
+contracting programs set forth by a majority of the jus- 
+tices in Fullilove, nor is it the standard set forth in other 
+decisions of this Court.?4 
+
+
+Although there is some question regarding whether 
+Chief Justice Burger’s opinion was based upon a “strict 
+scrutiny” standard, he clearly required the use of a stan- 
+dard higher than intermediate scrutiny: 
+
+
+We recognize the need for careful judicial evalua- 
+tion to assure that any congressional program 
+that employs racial or ethnic criteria to accom- 
+plish the objective of remedying the present 
+effects of past discrimination is narrowly tailored 
+to the achievement of that goal. 
+
+
+Fullilove, 448 U.S. at 480. (Emphasis added.) Furthermore, 
+Chief Justice Burger wrote: 
+
+
+23 “A majority of the Fullilove Court agreed that strict scru- 
+tiny is not the proper test for evaluating a race-conscious reme- 
+dial program authorized by an act of Congress.” (App. 16, part 
+of footnote 10.) 
+
+
+24 The concurring opinion authored by Justice Marshall 
+supports an “intermediate scrutiny” standard for the Fullilove 
+factual situation because Justice Marshall rejects both “strict 
+scrutiny” and “the minimally rigorous rational-basis standard 
+of review.” Fullilove, 448 U.S. at 519. The constitutional test is 
+met, wrote Justice Marshall, when the program is “designed to 
+further remedial purposes [which] serve important governmen- 
+tal objectives and are substantially related to achievement of 
+those objectives.” Fullilove, 448 U.S. at 519. But Justice Marshall 
+was joined by only two other Justices, i.e. Justice Brennan and 
+Justice Blackmun. 
+
+
+27 
+
+
+Any preference based on racial or ethnic criteria 
+must necessarily receive a most searching examina- 
+tion to make sure that it does not conflict with 
+constitutional guarantees. 
+
+
+Fullilove, 448 U.S. at 491. (Emphasis added.) “Careful judi- 
+cial evaluation,” “narrow tailor[ing]” and “most searching 
+examination” indicate a level of scrutiny much closer to 
+“strict scrutiny” than to “intermediate scrutiny.” 
+
+
+Chief Justice Burger articulated a two step analysis for 
+reviewing the Public Works Employment Act (PWEA) pro- 
+gram at issue in Fullilove. However, there is nothing in that 
+analysis from which to infer that he intended any standard 
+other than strict scrutiny. In fact, just the opposite is true 
+as shown by the language quoted above and by the second 
+step of Chief Justice Burger’s analysis: 
+
+
+the limited use of racial and ethnic criteria, in the 
+context presented, is a constitutionally permiss- 
+ible means for achieving the congressional objec- 
+tives and does not violate the equal protection 
+component of the Due Process Clause of the Fifth 
+Amendment. 
+
+
+Fullilove, 448 U.S. at 473. (Emphasis in original.) 
+
+
+Thus, the standard of review articulated by Chief 
+Justice Burger in Fullilove was not, as interpreted by the 
+Tenth Circuit, “a lenient standard, resembling intermediate 
+scrutiny,” but is the “conventional” “strict scrutiny” stan- 
+dard.?5 
+
+
+25 The conclusion that Chief Justice Burger’s standard of 
+review is the conventional standard or strict scrutiny is bol- 
+stered by the concurring opinion of Justice Powell: 
+
+
+28 
+
+
+Therefore, the Tenth Circuit’s opinion is in error when 
+it holds “[a] majority of the Fullilove Court believed that an 
+intermediate scrutiny analysis should be used to deter- 
+mine whether a congressionally-mandated program passes 
+constitutional muster” and must be reversed. (App. 16, 
+part of footnote 10). 
+
+
+Ill. THE DECISION OF THIS COURT IN METRO 
+BROADCASTING IS NOT DISPOSITIVE OF THIS 
+CASE. 
+
+
+The Tenth Circuit held that Metro Broadcasting v. FCC, 
+497 U.S. 547, 564 (1990): 
+
+
+Although I would place greater emphasis than the 
+Chief Justice on the need to articulate judicial stan- 
+dards of review in conventional terms, I view his 
+opinion announcing the judgment as substantially in 
+accord with my own views. Accordingly, I join that 
+opinion and write separately to apply the analysis set 
+forth by my opinion in University of California Regents 
+v. Bakke, 438 U.S. 265 (1978). 
+
+
++ * * 
+
+
+[The PWEA] employs a racial classification that is 
+constitutionally prohibited unless it is a necessary 
+means of advancing a compelling governmental interest. 
+(Citing Bakke) For the reasons stated in my Bakke opin- 
+ion, I consider adherence to this standard as impor- 
+tant and consistent with precedent. 
+
+
+* * * 
+
+
+Racial classifications must be assessed under the most 
+stringent level of review... . 
+Fullilove, 448 U.S. at 496. (J. Powell, concurring.) (Emphasis 
+added.) “Compelling governmental interest” and “the most 
+stringent level of review” are “strict scrutiny.” 
+
+
+29 
+
+
+put to rest any lingering doubts about the con- 
+tinuing vitality of Fullilove: . . . “that race-con- 
+scious classifications adopted by Congress to 
+address racial and ethnic discrimination are sub- 
+ject to a different standard than such classifica- 
+tions prescribed by state and local governments.” 
+
+
+(App. 19.) The Tenth Circuit then concludes: 
+
+
+the Metro Broadcasting majority held that even 
+non-remedial race-conscious measures mandated 
+by Congress are constitutionally permissible if 
+they satisfy intermediate scrutiny. 
+
+
+(App. 19.) 
+
+
+Although this court held in Metro Broadcasting that 
+“race-conscious classifications adopted by Congress to 
+address racial and ethnic discrimination are subject to a 
+different standard than such classifications prescribed by 
+state and local governments” and that “intermediate scru- 
+tiny” is the proper standard of review, Metro Broadcasting 
+involved a much different set of facts than the case at bar. 
+Metro Broadcasting, 497 U.S. at 565-66. Metro Broadcasting 
+involved concerns with the First Amendment: 
+
+
+‘[T]he people as a whole retain their interest in 
+free speech by radio [and other forms of broad- 
+cast] and their collective right to have the 
+medium function consistently with the ends and 
+purposes of the First Amendment,’ and ‘[i]t is the 
+right of the viewers and listeners, not the right of 
+the broadcasters, which is paramount.’ 
+
+
+Metro Broadcasting, 497 U.S. at 567. 
+
+
+The case at bar does not involve First Amendment 
+concerns in any way. Although the need for “diversity” in 
+certain areas, i.e., broadcasting, police forces, and school 
+
+
+30 
+
+
+faculties and student bodies, as set forth in Metro Broad- 
+casting, may provide “reasons for the classification,” none 
+of those situations exist in the case at bar. Metro Broadcast- 
+ing, 497 U.S. at 601 (Stevens, J., concurring.) This case 
+involves the erection of guardrails along a 4.7 mile section 
+of national forest highway in an isolated and sparsely- 
+populated region of southwestern Colorado. Moreover, 
+Congress did not identify “diversity” in government con- 
+tracting as a reason for the racial classifications used in the 
+Federal Construction Procurement Program. See 15 U.S.C. 
+§ 631(f)(1). Thus, the holding of this Court in Metro Broad- 
+casting is inapplicable to the case at bar. 
+
+
+Furthermore, Justice Stevens’ concurring opinion in 
+Metro Broadcasting cannot be cited as a basis for weakened 
+scrutiny for programs that award government construction 
+contracts on the basis of race since he demands that the 
+reasons for racial classifications used in such programs be 
+“clearly identified and unquestionably legitimate.” Metro 
+Broadcasting v. FCC, 497 U.S. at 601, citing his dissenting 
+opinion in Fullilove. In his dissenting opinion in Fullilove, 
+Justice Stevens wrote “[uJnless Congress clearly articulates 
+the need and basis for a racial classification, and also 
+tailors the classification to its justification, the Court 
+should not uphold this kind of statute.” Fullilove, 448 U.S. 
+at 545 (Justice Stevens dissenting).7° 
+
+
+While Justice Stevens listed several situations where 
+race-conscious measures are “unquestionably legitimate,” 
+
+
+26 Regarding the SBA, Congress has done neither. It has not 
+“clearly articulate[d] the need and basis for [the] racial classi- 
+fication” and has not “tailor[ed] the classification to its justifica- 
+tion.” “The Court should not uphold this . . . statute.” Fullilove, 
+448 U.S. at 545 (Justice Stevens dissenting). 
+
+
+31 
+
+
+the list does not include highway construction or govern- 
+ment contracts. Metro Broadcasting, 497 U.S. at 601-602.?7 
+Justice Stevens’ decision not to include contracting as an 
+“unquestionably legitimate” race-conscious measure and 
+his dissent in Fullilove manifest his views that government 
+contracting requires a different level of scrutiny than, for 
+example, public broadcasting and that congressionally- 
+mandated public works laws are subject to a more rig- 
+orous standard of review, i.e., strict scrutiny. 
+
+
+As this Court has held on numerous occasions, strict 
+scrutiny is the traditional standard of review to be applied 
+to race-conscious programs like the one at issue, even if 
+the program is mandated by Congress. The facts of the 
+case at bar are clearly distinguishable from the facts found 
+to require intermediate scrutiny in Metro Broadcasting. 
+Since the decision of the Tenth Circuit is contrary to the 
+decisions of this Court regarding the proper standard of 
+review for race-conscious construction contract programs, 
+the decision of the Tenth Circuit must be reversed. 
+
+
+IV. THE HOLDING OF THE TENTH CIRCUIT COURT 
+OF APPEALS THAT CONGRESS “CAN ENGAGE 
+MORE FREELY IN AFFIRMATIVE ACTION THAN 
+STATES AND LOCALITIES” IS IN ERROR. 
+
+
+The Tenth Circuit held: 
+
+
+The lesson that we glean from Fullilove and 
+Croson is that the federal government, acting 
+under congressional authority, can engage more 
+
+
+27 That list is “extremely narrow” and includes “broadcast 
+diversity;” “an integrated police force;” “a public school fac- 
+ulty;” and “the student body of a professional school.” Metro 
+Broadcasting, 497 U.S. at 601-602. 
+
+
+” UM 
+
+
+32 
+
+
+freely in affirmative action than states and 
+localities. 
+
+
+(App. 18.) This holding deviates from the holdings of this 
+Court: 
+
+
+In view of our decision that the Constitution 
+prohibits the states from maintaining racially 
+segregated public schools, it would be unthink- 
+able that the same Constitution would impose a 
+lesser duty on the Federal Government. 
+
+
+Bolling v. Sharpe, 347 U.S. at 500.78 
+
+
+The holding of the Tenth Circuit with regard to the 
+relationship of Fullilove, City of Richmond v. J.A. Croson Co., 
+488 U.S. 469 (1989), and Metro Broadcasting is in error. Since 
+none of the opinions written in Fullilove were a plurality, 
+let alone a majority opinion, Fullilove cannot be read to 
+overrule existing Supreme Court precedent. 
+
+
+As for Metro Broadcasting, its factual situation is clearly 
+distinguishable from, and is not dispositive of, the case 
+now before the Court. More importantly, Metro Broadcast- 
+ing cannot be cited for the proposition that Congress is 
+treated differently by the Constitution than other govern- 
+mental bodies when a race-conscious construction contract 
+program is at issue. The discussion of Congressional 
+authority in Croson, as it related to the Fullilove decision, 
+addressed Congressional power under § 5 of the Four- 
+teenth Amendment, which is not at issue in this case. 
+
+
+28 “The Constitution’s guarantee of equal protection binds 
+the Federal Government as it does the States, and no lower level 
+of scrutiny applies to the Federal Government's use of racial 
+classifications.” Metro Broadcasting, 497 U.S. at 604 (O’Connor, J. 
+dissenting). 
+
+
+33 
+
+
+Croson, 488 U.S. at 490.29 No decisions of this Court sup- 
+port the holding of the Tenth Circuit that “the federal 
+government, acting under congressional authority, can 
+engage more freely in affirmative action than states and 
+localities” when a race-conscious construction program is 
+at issue. Although Congress may have greater remedial 
+authority, the constitutional standard for reviewing a con- 
+struction contract program authorized by Congress or 
+states is the same. The decision of the Tenth Circuit is in 
+conflict with Wygant v. Jackson Bd. of Education, 476 U.S. 
+267, 275 (1986), Croson, Bolling v. Sharpe, and Shaw v.Reno, 
+509 U.S. __, 125 L.Ed.2d 511, 526 (1993) and must be 
+reversed. 
+
+
+V. THE RACE-CONSCIOUS FEDERAL CONSTRUC- 
+TION PROCUREMENT PROGRAM FAILS STRICT 
+SCRUTINY AND IS UNCONSTITUTIONAL. 
+
+
+As indicated above, strict scrutiny is the standard of 
+review that must be applied in this case. For the Federal 
+Construction Procurement Program to survive strict scru- 
+tiny it must be “narrowly tailored” to a “compelling gov- 
+ernmental interest.” See Shaw v. Reno, 509 U.S. __, 125 
+L.Ed.2d 511, 526. 
+
+
+29 Congress’ § 5 authority is not implicated in this case 
+since it involves a federal program implemented by a federal 
+agency and since no state or local government is involved. 
+
+
+34 
+
+
+A. THERE IS NO “COMPELLING GOVERN- 
+MENTAL INTEREST” THAT JUSTIFIES THE 
+FEDERAL CONSTRUCTION PROCUREMENT 
+PROGRAM CHALLENGED IN THIS ACTION. 
+
+
+This Court has held that an attempt to remedy past 
+discrimination is a “compelling governmental interest.” 
+Yet, Congress did not attempt to identify the discrimina- 
+tion to be remedied by this Federal Construction Procure- 
+ment Program. As a result, the Federal Construction 
+Procurement Program cannot survive strict scrutiny. 
+
+
+The record contains no evidence of any pattern or 
+practice of discrimination against minorities in federal 
+procurement activities. The racial preference codified at 15 
+U.S.C. § 644(g) appears as part of the Business Oppor- 
+tunity Development Reform Act of 1988, Pub. L. No. 
+100-656, 102 Stat. 3853 (1988).3° This Act, which amended 
+the SBA, focused almost exclusively on the section 8(a) set- 
+aside program, 15 U.S.C. § 637(a). It contained no findings 
+identifying the discrimination to be remedied by the provi- 
+sion being challenged in this case; indeed, it contained no 
+findings identifying any discrimination at all. The legisla- 
+tive history is of no use in filling this gap; it, too, contains 
+no evidence of a pattern or practice of discrimination 
+against minorities in government procurement activities.*! 
+
+
+30 The racial preference established by § 106 of STURAA 
+was in effect for more than eleven years. STURAA was in force 
+from 1987 through 1993, but the Surface Transportation Assis- 
+tance Act of 1982, in which the language of § 105(f) was almost 
+identical to the language of § 106(c) of STURAA, was in effect 
+from 1982 to 1987. Pub. L. 97-424, 96 Stat. 2100. 
+
+
+31 The legislative reports which accompanied Pub. L. 100-656 
+are reprinted at 1988 U.S. Code Cong. & Admin. News 5401 et seq. 
+
+
+35 
+
+
+At the trial court level, Respondents argued that “lin 
+passing Public Law 95-507,32 Congress made specific find- 
+ings with respect to the utilization of socially and econom- 
+ically disadvantaged business concerns, as well as findings 
+indicating the need to promote their participation in fed- 
+eral procurement.” However, these “findings,” which are 
+codified at 15 U.S.C. § 631(f)(1) and set forth on pages 
+11-12, do not meet the Court’s requirement for demonstra- 
+tion of a “compelling governmental interest.” 
+
+
+The “findings” contain a statement of the reasons 
+which caused Congress to adopt the racial preference pro- 
+visions of the Federal Construction Procurement Program. 
+However, they contain no evidence of a pattern or practice 
+of discrimination in government contracting against mem- 
+bers of “disadvantaged” ethnic groups. Rather, the “find- 
+ings” merely assert what they purport to prove. 
+Conclusory statements such as these “are of little proba- 
+tive value in establishing identified discrimination” in fed- 
+eral procurement. Croson, 488 U.S. at 501. Furthermore, the 
+legislative history for Public Law 95-507 contains no 
+empirical support for these “findings” >> Therefore, these 
+“findings” cannot be considered of value in determining 
+whether the government has met its heavy burden of 
+providing “extraordinary justification” for the racial classi- 
+fication in this case. (See Shaw v. Reno, 509 U.S. ___ 125 
+L.Ed.2d 511, 526, citing Brown v. Board of Education, “A 
+
+
+32 Pub. L. 95-507, styled as the Small Business Investment 
+Act of 1978, also amended the SBA. 
+
+33 The legislative reports which accompanied Pub. L. 
+95-507 are reprinted at 1978 U.S. Code Cong. & Admin. News 3835 
+et seq. 
+
+
+36 
+
+
+racial classification, regardless of its motivation, is pre- 
+sumptively invalid and can be upheld only upon an 
+extraordinary justification.” (Emphasis added.)) 
+
+
+In sum, Congress did not have persuasive evidence of 
+a pattern or practice of intentional discrimination either by 
+federal agencies or their prime construction contractors. 
+Without such evidence of prior discrimination there is no 
+“compelling governmental interest” that justifies the use 
+of race in government decision-making. This shortcoming 
+renders the Federal Construction Procurement Program 
+constitutionally deficient under Fullilove, 448 U.S. at 480, 
+as well as Wygant, 476 U.S. at 274 and Croson, 488 U.S. at 
+505. “[T]he statute [is] invalid because, on its face, it could 
+not be explained on grounds other than race.” Shaw v. 
+Reno, 509 U.S. __, 125 L.Ed.2d at 527. 
+
+
+Moreover, even if Congress made findings with the 
+specificity this Court demands, and it did not, those find- 
+ings were made more than a decade ago. If there was a 
+pattern or practice of racial discrimination - and Respon- 
+dents have testified there was not - the defect was cured 
+long ago. Thus, what is present here is a remedy that is 
+“ageless in [its] reach into the past, and timeless in [its] 
+ability to affect the future.” Wygant, 476 U.S. at 276. 
+
+
+Respondents admit that the CFLHD has never dis- 
+criminated on the basis of race.*4 Respondents take the 
+position that “societal discrimination” is sufficient to jus- 
+tify the use of a race-conscious program by that agency in 
+
+
+34 In a deposition taken on March 19, 1991, Mr. Jerry Bud- 
+wig, Division Engineer of the CFLHD testified “I would say that 
+there has not been,” when asked if there had ever been a case in 
+which the CFLHD discriminated against a contractor or sub- 
+contractor on the basis of race. (App. 45-46.) 
+
+
+37 
+
+
+Colorado. However, this Court has held that “societal 
+discrimination” is not enough: “This Court never has held 
+that societal discrimination alone is sufficient to justify a 
+racial classification.” Wygant, 476 U.S. at 274. The reason is 
+simple, “it is almost impossible to assess whether [this] 
+plan is narrowly tailored to remedy prior discrimination 
+since it is not linked to identified discrimination in any 
+way.” Croson, 488 U.S. at 498. Thus, “societal discrimina- 
+tion” cited by Congress does not provide sufficient consti- 
+tutional authority to justify the use of a race-conscious 
+program by federal officials in Colorado. 
+
+
+Despite the requirement of this Court for a showing of 
+a “compelling governmental interest” before the use of 
+race as a basis for governmental decision making, the 
+United States Court of Appeals for the Tenth Circuit held 
+that the “significant governmental purpose of providing sub- 
+contracting opportunities for small disadvantaged busi- 
+ness enterprises” satisfies this Court’s requirement. (App. 
+23.) (Emphasis added.) However, “significant govern- 
+mental purpose” is not what this Court requires. This 
+Court requires a “compelling governmental interest.” No 
+showing of a “compelling governmental interest” has ever 
+been made by Congress for the race-conscious Federal 
+Construction Procurement Program. 
+
+
+[A] generalized assertion that there has been past 
+discrimination in an entire industry provides no 
+guidance for a legislative body to determine the 
+precise scope of the injury it seeks to remedy. It 
+‘has no logical stopping point.’ 
+
+
+Croson, 488 U.S. at 498. As a result, the decision of the 
+United States Court of Appeals for the Tenth Circuit must 
+be reversed. 
+
+
+38 
+
+
+B. THE FEDERAL CONSTRUCTION PROCURE- 
+MENT PROGRAM IS NOT “NARROWLY TAI- 
+LORED.” 
+
+
+The second prong of the strict scrutiny test is “narrow 
+tailoring.” That is, the race-conscious program must be “nar- 
+rowly tailored” to meet the “compelling governmental inter- 
+est” identified. Shaw v. Reno, 509 U.S. __, 125 L. Ed. 2d at 
+526. 
+
+
+Yet, the Federal Construction Procurement Program 
+is not narrowly tailored. Narrow tailoring requires that 
+the race-conscious remedy “not last longer than the dis- 
+criminatory effects it is designed to eliminate.” Fullilove, 
+448 U.S. at 523 (Powell, concurring). Moreover, the Fed- 
+eral Construction Procurement Program must be “limited 
+in extent and duration.” Fullilove, 448 U.S. at 489. See also 
+Croson, 488 U.S. at 498. 
+
+
+In finding the PWEA program challenged in Fullilove 
+constitutional, Chief Justice Burger focused on the fact that 
+the PWEA was “a short-term measure to alleviate the 
+problem of national unemployment.” Fullilove, 448 U.S. at 
+457.35 Without a statutory provision establishing a limited 
+time period for the use of the race-conscious remedy, the 
+program cannot be said to be narrowly tailored. “Such 
+
+
+35 “The MBE provision may be viewed as a pilot project, 
+appropriately limited in extent and duration. .. . ” Fullilove, 448 
+U.S. at 489 (Opinion of Burger, C.J.) “The . . . set-aside is not a 
+permanent part of federal contracting requirements. As soon as 
+the PWEA program concludes, this set-aside program ends. The 
+temporary nature of this remedy ensures that a race-conscious 
+program will not last longer than the discriminatory effects it is 
+designed to eliminate.” Fullilove, 448 U.S. at 513 (Concurring 
+opinion of Powell, J). 
+
+
+39 
+
+
+findings also serve to assure all citizens that the deviation 
+from the norm of equal treatment of all racial and ethnic 
+groups is a temporary matter, a measure taken in the service 
+of the goal of equality itself.” Croson, 488 U.S. at 510. 
+(Emphasis added.) 
+
+
+The Federal Construction Procurement Program chal- 
+lenged here has been in place for more than thirteen years 
+and shows no sign of ending in the foreseeable future.*° 
+(R. 10th Cir. # 11, Aplt. App. 326-327.) The law contains no 
+automatic sunset provision and there is no reason to 
+believe that the matter will be revisited by Congress in the 
+near future, contrary to the view of the Tenth Circuit: 
+
+
+[T]he SCC program is “appropriately limited in 
+extent and duration” because federal procure- 
+ment and construction contracting practices are 
+subject to regular “reassessment and reevalua- 
+tion by Congress.” 
+
+
+(App. 23.) The Federal Construction Procurement Program 
+is not a “short term measure” like the statute held by this 
+Court in Fullilove to pass constitutional muster. Fullilove, 
+448 U.S. at 457. Nor is the Federal Construction Procure- 
+ment Program supported by findings sufficient to “assure 
+all citizens that the deviation from the norm of equal 
+treatment of all racial and ethnic groups is a temporary 
+matter,” as required by Croson. Croson, 488 U.S. at 520. 
+Here, without congressional action to repeal or amend it, 
+the program will go on forever. 
+
+
+36 Mr. Budwig: “I’m not aware that [the Government’s DBE 
+program’s] end is in sight.” App. at 46-47. Not only does this 
+program appear to be here to stay, but it represents hundreds of 
+millions of federal dollars awarded solely on the basis of race. 
+
+
+40 
+
+
+A second aspect of narrow tailoring is that the pro- 
+gram must be designed to remedy clearly identifiable dis- 
+crimination. Yet, since Congress failed to identify the 
+discrimination this program seeks to remedy, it suffers 
+from the same deficiency Justice O’Connor identified in 
+Croson: 
+
+
+[I]t is almost impossible to assess whether the 
+Richmond Plan is narrowly tailored to rernedy 
+prior discrimination since it is not linked to iden- 
+tified discrimination in any way. 
+
+
+Croson, 488 U.S. at 498. 
+
+
+“Preferring members of any one group for no reason 
+other than race or ethnic origin is discrimination for its 
+own sake. This the Constitution forbids.” Bakke, 438 U.S. at 
+307. See also Fullilove, 448 U.S. at 497 (Powell, J., concur- 
+ring) (“[I]f the set-aside merely expresses a congressional 
+desire to prefer one racial or ethnic group over another, [it] 
+violates the equal protection component in the Due Pro- 
+cess Clause of the Fifth Amendment.”)°7” 
+
+
+Yet, “preferring members of one group for no other 
+reason than race” is precisely what Congress did in the 
+Federal Construction Procurement Program. The Federal 
+Construction Procurement Program directs federal agen- 
+cies to set goals for minority participation at the “maxi- 
+mum practicable” level. 15 U.S.C. § 644(g). “Maximum 
+
+
+37 Although this precept has never been the subject of a 
+majority opinion, Adarand submits that this is because the pre- 
+cept is so readily apparent that it has never needed express 
+statement. 
+
+
+41 
+
+
+practicable” has no reasonable limits. There is a limit to 
+the persons who have suffered from discrimination, there- 
+fore, on its face, this near limitless preference cannot be 
+tied to any legitimate remedial objective. Indeed, the goal’s 
+requirement has “no logical stopping point” other than the 
+complete exclusion of all non-minority firms from govern- 
+ment work. Wygant, 476 U.S. at 275 (1986). Instead, it is a 
+race-conscious program that “prefer[s] one racial or ethnic 
+group over another.” Fullilove, 448 U.S. at 497 (Powell, J., 
+concurring) This Congress cannot do. 
+
+
+Such an objective is invidious under any reading of 
+the law. It sweeps far beyond the legitimate scope of race- 
+conscious governmental action. Certainly, such a statute 
+cannot be said to be “narrowly tailored” to a compelling 
+governmental interest. 
+
+
+In sum, the race-conscious Federal Construction Pro- 
+curement Program violates both prongs of the strict scru- 
+tiny standard. These violations render it unconstitutional. 
+
+
+VI. THE RACE-CONSCIOUS FEDERAL CONSTRUC- 
+TION PROCUREMENT PROGRAM IS UNCON- 
+STITUTIONAL EVEN UNDER INTERMEDIATE 
+SCRUTINY. 
+
+
+Respondents argue that intermediate scrutiny should 
+be applied in this case. However, this argument suffers 
+from two fatal flaws. First, as indicated above, it is simply 
+incorrect; strict scrutiny is the proper standard of review 
+for all race-conscious government construction contracting 
+programs regardless of whether Congress has mandated 
+the action. Second, the race-conscious Federal Construc- 
+tion Procurement Program is unconstitutional even under 
+this relaxed standard of review. 
+
+
+42 
+
+
+Intermediate scrutiny requires that a statute be 
+“related substantially” to the achievement of an “impor- 
+tant public purpose.” Metro Broadcasting v. FCC, 497 U.S. at 
+565. The desire to remedy past racial discrimination is 
+unquestionably an important governmental purpose. 
+Thus, the question in this case is whether the Federal 
+Construction Procurement Program is “substantially 
+related” to the achievement of this purpose. 
+
+
+The first step in the use of intermediate scrutiny is 
+whether Congress possessed an adequate factual basis for 
+the conclusion that members of groups favored by the 
+Federal Construction Procurement Program have been 
+subjected to racial discrimination. The quantum of evi- 
+dence required to make this showing is not as high as 
+under strict scrutiny. 
+
+
+However, the burden of persuasion remains on the 
+proponent of the challenged classification. Heckler v. 
+Mathews, 465 U.S. 728, 744 (1984); Mississippi Univ. for 
+Women v. Hogan, 458 U.S. 718, 724 (1982). Furthermore, 
+conclusory assertions are not enough to carry this burden. 
+Lamprecht v. FCC, 958 F. 2d 382, 393 (D.C. Cir. 1992), 
+quoting Craig v. Boren, 429 U.S. 190, 208-209 (1976). Rather, 
+the claim that a statute will substantially advance an 
+important purpose must “at the very least be supported by 
+meaningful evidence.” Lamprecht v. FCC, 958 F. 2d at 393. 
+Indeed, it is “beyond doubt” that under intermediate scru- 
+tiny the proponent of the challenged classification must 
+show that this assertion “actually comports with fact.” Id. 
+at 394, n. 3, quoting Craig v. Boren, 429 U.S. 190, 199 (1976). 
+
+
+The question then becomes: Did Congress possess an 
+adequate factual basis for the conclusion that members of 
+groups favored by the Federal Construction Procurement 
+
+
+43 
+
+
+Program have been subjected to racial discrimination? The 
+answer is: Congress did not have any evidence of a pattern 
+or practice of discrimination, let alone “meaningful” evi- 
+dence, identifying a pattern or practice of discrimination 
+in federal construction contracting. Congress did make 
+several “findings” regarding discrimination. See 15 U.S.C. 
+§ 631(f)(1), quoted at pages 11-12. However, these “find- 
+ing.’ were not supported by any empirical fact-finding, 
+nor were they shown to “actually comport[] with fact.” 
+Lamprecht, 958 F. 2d at 394, n. 3, quoting Craig v. Boren, 429 
+U.S. at 199. Instead, the “findings” merely assert what they 
+purport to prove. Clearly, these findings do not and cannot 
+show tinat the members of each and every ethnic group 
+singled out for preferential treatment by the Federal Con- 
+struction Procurement Program actually have suftered 
+from, and continue to suffer from, the effects of racial 
+discrimination. 
+
+
+There is absolutely no evidence of past discrimina- 
+tion against Spanish-speaking, Oriental, Indian, 
+Eskimo, or Aleut person in any aspect of the 
+Richmond construction industry. .. . It may well 
+be that Richmond has never had an Aleut or 
+Eskimo citizen. The random inclusion of racial 
+groups that, as a practical matter, may never 
+have suffered from discrimination in the con- 
+
+
+struction industry . . . suggests that the city’s 
+purpose was not in fact to remedy past discrimi- 
+nation. 
+
+
+Croson, 488 U.S. at 506. (Emphasis in original.)** 
+
+
+38 Although the Croson Court was applying strict scrutiny, 
+this passage is cited as an example of over-inclusiveness which 
+occurs from an assumption that all minorities have suffered 
+from discrimination in the construction industry. 
+
+
+44 
+
+
+The second step in the inquiry is whether the relation- 
+ship between the race-conscious provisions of the Federal 
+Construction Procurement Program and the objective of 
+remedying identified discrimination against members of 
+now-favored ethnic groups is sufficiently precise. Once 
+again, this inquiry is somewhat looser than under strict 
+scrutiny. However, the fit between the objective to be 
+reached and the means selected for reaching that objective 
+must remain tight enough to alleviate substantially the 
+identified disadvantages. Lamprecht v. FCC, 958 F. 2d at 
+393. Furthermore, any substantial overbreadth in the cho- 
+sen remedy renders the remedy unconstitutional. This is 
+the very essence of “substantial basis” review. 
+
+
+The violation, by the Federal Construction Procure- 
+ment Program, of the second step of intermediate scrutiny 
+is even more clear. The race-conscious provision of the 
+Federal Construction Procurement Program directs each 
+federal agency to set goals for minority participation at the 
+“maximum practicable” level. 15 U.S.C. § 644(g). The near 
+limitless preference of the race-conscious Federal Con- 
+struction Procurement Program cannot be tied to any legit- 
+imate remedial objective. Indeed, it has “no logical 
+stopping point” other than the complete exclusion of all 
+non-minority firms from government work. Wygant, 476 
+U.S. at 275. Thus, this statutory provision sweeps so far 
+beyond any legitimate remedial goal that not only is it 
+impossible to conclude that it is “substantially tailored” to 
+a remedial objective, but it is apparent that its only possi- 
+ble function is to increase the amount of business awarded 
+to minority-owned firms. This is “discrimination for its 
+own sake,” which is the very essence of a constitutional 
+violation. Bakke, 438 U.S. at 305. 
+
+
+45 
+
+
+As was the case with strict scrutiny, this discussion of 
+legal standards could be extended considerably, but there 
+is no need to do so, because the race-conscious Federal 
+Construction Procurement Program does not even come 
+close to satisfying either prong of intermediate scrutiny. 
+
+
+Of course, the judiciary may grant some decisions of 
+Congress the respect due a co-equal branch of the federal 
+government. Metro Broadcasting, 497 U.S. at 569. Nonethe- 
+less, the courts “are still obliged in the end to review the 
+government’s policy — both the judgment of law that the 
+policy is constitutional and the findings of fact that under- 
+lie it.” Lamprecht v. FCC, 958 F. 2d at 391 (emphasis in 
+original). Even more importantly, this Court has held that 
+it must not defer to the judgment of Congress on matters 
+involving suspect classifications: 
+
+
+[W]e do not defer to the judgment of the Con- 
+gress ... on a constitutional question, and would 
+not hesitate to invoke the Constitution should we 
+determine that [Congress] has not fulfilled its 
+task with appropriate sensitivity to equal protec- 
+tion principles. 
+
+
+Metro Broadcasting, 497 U.S. at 569 (citation omitted).°° This 
+Court must rule on the constitutionality of the race-con- 
+
+
+scious Federal Construction Procurement Program despite 
+its adoption by Congress. 
+
+
+39 The Tenth Circuit recognized this principle. “In reaffirm- 
+ing Fullilove as the proper standard for assessing the constitu- 
+tionality of benign race-conscious measures, the Court in Metro 
+Broadcasting noted that, notwithstanding the ‘great weight’ 
+given to the decisions of Congress, even congressionally-man- 
+dated benign race-conscious measures must satisfy equal pro- 
+tection requirements. 110 S. Ct. at 3011 (citation omitted).” 
+
+
+(App. 22.) 
+
+
+46 
+
+
+In the instant case, the facts do not support the claim 
+that the race-conscious Federal Construction Procurement 
+Program is substantially related to the important objective 
+of remedying past discrimination. As a result, this pro- 
+gram should be stricken as unconstitutional even if inter- 
+mediate scrutiny is the appropriate standard of review. 
+
+
+VII. PRIVATE DISCRIMINATION IS “EVIL” AND 
+JUST AS “ODIOUS TO A FREE PEOPLE” AS IS 
+GOVERNMENTAL DISCRIMINATION. 
+
+
+Respondents assert that the race-conscious Federal 
+Construction Procurement Program is constitutional 
+because the SCC provision “operates as a carrot rather 
+than a stick.”4° Respondents argue that bribing a prime 
+contractor with federal funds to discriminate is less consti- 
+tutionally offensive than direct discrimination by the U.S. 
+Government. 
+
+
+Private discrimination is “evil:” “It is beyond dispute 
+that any public entity, state or federal, has a compelling 
+interest in assuring that public dollars, drawn from the tax 
+contributions of all citizens, do not serve to finance the 
+evil of private discrimination.” Croson, 488 U.S. at 492. 
+Respondents’ attempt to hide behind the prime contractor, 
+asserting that it is he and not the federal government that 
+is discriminating on the basis of race, is an artifice and 
+must be rejected. Since federal funds provide the financial 
+inducement to discriminate in accordance with federal 
+regulations, the discrimination is being done by the federal 
+government. Government financing of private discrimina- 
+tion is “evil” and no less “odious to a free people whose 
+
+
+40 Opp. to Pet. 18. 
+
+
+; 
+
+
+a ee 
+
+
+47 
+
+
+institutions are founded upon the doctrine of equality” 
+since it is direct discrimination by the government itself. 
+Hirabayashi v. United States, 320 U.S. 81, 100 (1943); Shaw v. 
+Reno, 509 U.S. __, 125 L.Ed.2d at 526. 
+
+
+Vill. THE CFLHD, WHEN EXCEEDING THE GOALS 
+ADOPTED BY CONGRESS, MUST CONDUCT 
+THE INQUIRY REQUIRED BY CROSON. 
+
+
+The CFLHD, and not Congress, made the decision to 
+set aside an additional 7 to 10 percent of its contracts for 
+DBEs.*! That decision in and of itself is also subject to 
+strict scrutiny. Given the suspect nature of racial classifica- 
+tions, “searching judicial inquiry” is necessary to deter- 
+mine what classifications are remedial and “what 
+classifications are in fact motivated by illegitimate notions 
+of racial inferiority or simple racial politics.” Shaw v. Reno, 
+509 U.S. __, 125 L.Ed.2d 511, 526, citing Croson. 
+
+
+The SBA provides, in pertinent part: 
+
+
+Notwithstanding the government-wide goal, 
+each agency shall have an annual goal that pre- 
+sents, for that agency, the maximum practicable 
+opportunity for . . . small business concerns 
+owned and controlled by socially and economi- 
+cally disadvantaged individuals to participate in 
+the performance of contracts let by such agency. 
+
+
+41 Congress set the level for small disadvantaged business 
+participation at five (5) percent. 15 U.S.C. § 644(g)(1). The 
+CFLHD has established a goal of between 12 and 15 percent. 
+Thus, the additional 7 to 10 percent is the result of a decision by 
+the CFLHD. 
+
+
+48 
+
+
+15 U.S.C. § 644(g). Congress set the goal at five percent, 
+therefore a goal above five percent does not and cannot 
+reflect Congressional judgment that the goal is constitu- 
+tionally legitimate. It is therefore up to the CLFHD to 
+identify and to set forth the factual justification for the 
+goal that CLFHD has adopted and to do so with sufficient 
+specificity to meet the requirements of the Constitution, as 
+required by this Court in Croson, 488 U.S. 469. Clearly, the 
+CFLHD did not satisfy the requirements of strict scrutiny 
+before implementing its set-aside program. 
+
+
+Under Croson, this Court requires that, in order to 
+implement a race-based remedial program, the CFLHD 
+must show a “strong basis in evidence” for its conclusion 
+that race-based action was justified. Croson, 488 U.S. at 500. 
+In making this showing, the CLFHD cannot rely on gener- 
+alized congressional findings of nationwide discrimina- 
+tion: “If all a [governmental entity] need do is find a 
+Congressional report on the subject to enact a set-aside 
+program, the constraints of the Equal Protection Clause 
+will, in effect, have been rendered a nullity.” Croson, 488 
+U.S. at 504. Instead, the CFLHD must identify the discrimi- 
+nation it seeks to remedy “with some specificity” before it 
+can implement race-conscious relief. Id. 
+
+
+In Croson this Court held that it was “almost impossi- 
+ble to assess whether the Richmond plan is narrowly 
+tailored to remedy prior discrimination since it is not 
+linked to identified discrimination in any way.” Croson, 
+488 U.S. at 507. That very deficiency exists here since the 
+CFLHD failed to set forth any identified discrimination 
+
+
+— 
+
+
+Be a yt i le ssa 
+
+
+49 
+
+
+that provided the factual basis for its 12 to 15 percent race- 
+conscious program.*? 
+
+
+In order to be considered “narrowly tailored” under 
+Croson the benefits of the provision had to be limited to 
+membeis of ethnic groups who have actually suffered 
+from a pattern of identified state-sponsored discrimina- 
+tion. Croson, 488 U.S. at 506. However, the benefits offered 
+by the CLFHD’s decision to set aside an additional 7 to 10 
+percent of its contracts are available to members of 
+numerous minority groups.** Not only is there no evi- 
+dence that members of these groups have suffered from 
+racial discrimination at the hands of the CFLHD, but even 
+if members of one group have been victimized, there is no 
+evidence that members of other groups have similarly 
+suffered. 
+
+
+CONCLUSION 
+
+
+Congress has adopted a race-conscious program that 
+must be reviewed by this Court through the application of 
+“strict scrutiny” so as to ensure the program’s compliance 
+with the Constitution’s guarantee of equal protection. The 
+application of strict scrutiny reveals that Congress’ race- 
+conscious program is not “narrowly tailored” to serve a 
+“compelling governmental interest,” since it seeks to 
+redress historic, general, societal discrimination and not 
+
+
+42 In fact, as noted above, CLFHD officials have testified 
+that there is no history of racial discrimination in the CFLHD. 
+(R. 10th Cir. # 11, Aplt. App. 339 & 348.) 
+
+
+43 See footnote 9 for a partial list of the “other minorities” 
+included. 
+
+
+50 
+
+
+specific acts of discrimination on the basis of race. As a 
+result, the race-conscious Federal Construction Procure- 
+ment Program, and its application to Adarand, so as to 
+prevent it from competing on an equal basis with other 
+guardrail subcontractors, must be declared unconstitu- 
+tional and set aside. 
+
+
+Respectfully Submitted, 
+
+
+WILLIAM Perry PENDLEY* 
+*Counsel of Record 
+Toop S. WELCH 
+STEVEN J. LECHNER 
+Pau. M. Sesy 
+MountTAIN STATES LEGAL FOUNDATION 
+1660 Lincoln Street, Suite 2300 
+Denver, Colorado 80264 
+(303) 861-0244 
+
+
+Attorneys for Petitioner 
+
+

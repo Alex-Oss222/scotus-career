@@ -1,0 +1,23 @@
+{
+  "named_coalition_checks": 25,
+  "record_public_identity": 12,
+  "full_holdings_identity": 12,
+  "workspace_holdings_identity": 12,
+  "inventory_completed": 84,
+  "inventory_open": 15,
+  "stopped": 0,
+  "record_sha256": {
+    "Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md": "de7befcebfc655f5f81132d265bff13f1bc67184e9bf318cceaa8c20d46a8afe",
+    "Chandris_Inc_v_Latsis_merits_1995-06-14.md": "0909403b45c8ea2bef9e3ddbc04a114cb5e5b3fe776106e748bfb0ff058d61b1",
+    "City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md": "f800c2aea1cff296036f5d9213f0af2580fb8b5d3435653f10c787206672f5fe",
+    "Commissioner_v_Schleier_merits_1995-06-14.md": "7ba9a855a0db722a7090dc54441d22d0e9639e5b4f397a475a0d0752367a9fda",
+    "Johnson_v_Jones_merits_1995-06-12.md": "69946962102a186321d01314f926fff14865237dc719aa50077852f6903792ec",
+    "Kimberlin_v_Quinlan_merits_1995-06-12.md": "7662fc9e5bd902663fbe9e3f9b90c461cd9f7ba0e06711c37606593b140003de",
+    "Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md": "57609de76919176b80ef049f2cca920525ca34a2722343a33baad187fe781ad9",
+    "Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md": "23b7d7fcd5ee41852bfbf4ca37ff21e8ccd01f5dfd713647e108a458162bcbfa",
+    "Missouri_v_Jenkins_merits_1995-06-12.md": "9c14b382567838332660d4960d7a12a8b8116710cfc614158fc5b59eebede731",
+    "Ryder_v_United_States_merits_1995-06-12.md": "2ef0d272e7ac744150169349ea2f4196bf90f25bde6bd7860dd860afb35eb672",
+    "Wilton_v_Seven_Falls_Co_merits_1995-06-12.md": "e077284f0014f2a17d3989454a67003da58c1584e67e1ac3195624cf4b389cf6",
+    "Witte_v_United_States_merits_1995-06-14.md": "c3dc54e662819f047855e6925d5f105a8943ba46c99bdf90bce832d794da5f1b"
+  }
+}

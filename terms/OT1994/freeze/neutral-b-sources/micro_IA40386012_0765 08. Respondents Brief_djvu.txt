@@ -1,0 +1,1958 @@
+rT 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+¢ 
+
+
+METROPOLITAN STEVEDORE COMPANY, 
+
+
+Petitioner, 
+
+
+JOHN RAMBO, 
+Respondent. 
+
+
++ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Ninth Circuit 
+
+
++ 
+
+
+BRIEF ON THE MERITS FOR 
+RESPONDENT RAMBO 
+
+
+S 
+
+
+THomas J. Pierry 
+
+Counsel of Record 
+
+Prerry & MoorHEAD 
+
+301 North Avalon Boulevard 
+Wilmington, CA 90744 
+
+(310) 834-2691 or 
+
+(213) 775-8348 
+
+
+Attorneys for Respondent 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+“IBEST AVAILABLE COPY! 4 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Must a party seeking a 33 U.S.C. Section 922 
+Modification of an Award of Permanent Partial Disability 
+prove that the Claimant has undergone a change in 
+“physical condition”? 
+
+
+2. Should the employer’s Application For Modifica- 
+tion be denied because of the representations of its attor- 
+
+
+ney to the injured worker that the award would be paid 
+for life? (S. Ct. Rule 15.1) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+CHIE I ITED FIR IU SEE ch cccdesvrcnvedsubaseetes i 
+SEALERGEINS OF THRE CAGE. ii cccccccccrscevvasess ] 
+SUMMARY OF THE ARGUMENT ................. 7 
+ARGUMENT AND AUTHORITIES................. 10 
+
+
+I. NEITHER THE OPINION OF THE BENEFITS 
+REVIEW BOARD NOR THE DIRECTOR IS 
+ENTITLED TO DEFERENCE IN THIS CASE... 10 
+
+
+Il. LEGISLATIVE HISTORY, PRECEDENT AND 
+THE PRACTICAL ADMINISTRATION OF THE 
+ACT MANDATE THAT THIS COURT AFFIRM 
+THE DECISION OF THE NINTH CIRCUIT 
+COURT OF APPEALS IN THIS CASE......... 12 
+
+
+Ill. OTHER ISSUES RAISED BY RAMBO ON 
+APPEAL AND ON WRIT OF CERTIORARI... 35 
+
+
+CPP IO 6.0.0.9 0k conned eudasdenn een tea 36 
+
+
+ili 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Atlantic Coast Shipping Co. v. Golubiewski, 9 F. 
+ue. SIS CUP. 19948)... 2.2 ce ences 16, 17, 19, 20 
+Bay Ridge Operating Co. v. Lowe, 14 F. Supp. 280 
+air. Diss hn nee NS eee ane Kew A 22 
+Burley Welding Works, Inc. v. Lawson, 141 F.2d 964 
+ae dss nd ie 39 anes koe Ws awe 21 
+Chevron U.S.A. Inc., v. Natural Resources Defense 
+acer BM. Gee Sl Gee CEO) oc cc cc cc cece ees 12 
+Director, Office of Workers’ Compensation Programs 
+v. General Dynamics Corp., 900 F.2d 506 (2nd Cir. 
+lg lls tp poe a as ee a 10 
+Director, Office of Workers’ Compensation programs v. 
+7m, wee bam sor (ore Cit. 1976) .............. 10 
+
+
+Fleetwood v. Newport Shipbuilding & Dry Dock Co., 776 
+F.2d 1225 (4th Cir. 1985)...4, 8, 9, 31, 32, 33, 34, 35, 36 
+
+
+General Dynamics v. Director, Office of Workers’ 
+Compensation Programs, 673 F.2d 23 (1st Cir. 
+| iy tA RSS ee er a 10, 11, 27 
+Jarka Corp. v. Hughes, 299 F.2d 534 (2nd Cir. 1962) .... 22 
+
+
+McCord v. Cephas, 532 F.2d 1377, 1380-1381 (D.C. 
+iy Ve Den 6 
+
+
+McCormick, S.S. Co. v. United States Employees’ 
+Comm’‘n, 64 F.2d 84 (9th Cir. 1933)............ Passim 
+
+
+Malcomb v. Island Creek Coal Company, 15 F.3d 364 
+Es Si sists dn SN HW de 6 a Wags sey 0-0 o's 11 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+Pillsbury v. Alaska Packers Ass‘n, 85 F.2d 758 (9th 
+Cir. 1936), rev'd on other grounds, 301 U.S. 174 
+3 ct ho errs Serie wr lpem ener te henge: earns 20, 21 
+
+
+Potomac Electric Power Co. v. Director, Office of 
+Workers’ Compensation Programs, 449 U.S. 268 
+
+
+CUE indn doc ean tp ole hie Re aeae See OER ane nes even 10 
+Rizzi v. The Four Boro Contractor Corp. 1 BRB 130 
+3g eee ea eee eG wer are comer re oo erie ane a1, 22 
+Verderane v. Jacksonville Shipyards, Inc., 772 F.2d 775 
+to, Bt Re) reer re ri reer perry he fare 27 
+Western v. Luther, 163 U-S. 331 (1896)............. 12, 35 
+STATUTES 
+a A as ee UN nes ey any ga ae gt wea ae 1, 29 
+Be Ge Es ws oe Fees oo eae er eee aes 17 
+ee Se I a ies Se ba ae eae ‘1, 27 
+3S Oe. > - eee 4, 5, 14, 16, 20, 31, © 
+ce | ne rer nnernnr Pere er ae era rs 1] 
+OTHER AUTHORITIES 
+3 Larson, The Law of Workmen's Compensation, Sec. : 
+
+
+81.00 et seq. 15-956-15-1016 (1994) ......... 29; Wy, F 
+
+
+Conference Report on S. 38, Congressional Record 
+
+
+- House, September 14, 1984, H. 25495........... ao 
+Congressional Record - Senate, 98th Cong., Ist 
+
+ey ae a, | rr ee 23 
+Congressional Record - Senate, 98th Cong., Ist | 
+
+Sess., January 26, 1903, S576 ...... 22.22 census 23 ) 
+
+
+a | 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+Congressional Record - Senate, 69th Cong., 2d. 
+
+Seas. PER 6, Bar es Fi wo as bee eae aes eee 13 
+H.R. Rep. No. 1244, 73d Cong., 2d Sess. (1934)...... 16 
+H.R. Rep. No. 1767, 69th Cong., 2d Sess. (1927)..... 13 
+H.R. Rep. No. 2237, 74th Cong., 2d Sess. (1936)..... 20 
+H.R. Rep. No. 98-570, 98th Cong., Ist Sess. (1983) .... 25 
+S. Rep. No. 588, 73d Cong., 2d Sess. (1934) ......... 16 
+S. Rep. No. 1199, 74th Cong., Ist Sess. (1935) ....... 20 
+S. Rep. No. 1988, 75th Cong., 3d Sess. (1938)........ 20 
+S. Rep. No. 98-81, 98th Cong., 1st Sess. (1983) 8, 23, 24 
+
+
+No. 94-820 
+* 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+« 
+METROPOLITAN STEVEDORE COMPANY, 
+Petitioner, 
+v. 
+JOHN RAMBO, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+o 
+
+
+BRIEF ON THE MERITS FOR 
+RESPONDENT RAMBO 
+
+
+o 
+STATEMENT OF THE CASE 
+
+
+The Respondent, John Rambo, (“Rambo”) a long- 
+shore frontman was injured within the course and scope 
+of his employment on September 9, 1980 while employed 
+by Petitioner, Metropolitan Stevedore Company, (“Metro- 
+politan”). 
+
+
+His claim for a non-scheduled permanent partial dis- 
+ability pursuant to 33 U.S.C. Section 901 et seq., the Long- 
+shore and Harbor Workers’ Compensation Act (hereinafter, 
+“The Act”) was set for Trial in 1983 before his Honorable 
+Administrative Law Judge James J. Butler. Rambo was 
+
+
+] 
+
+
+represented by counsel and the employer was repre- 
+sented by James J. Wood. Among other things, the parties 
+
+
+stipulated: 
+“2. That ...John Rambo... was employed as 
+a longshoreman (frontman) by Metropolitan on 
+
+
+September 9, 1980, on which occasion he sus- 
+tained an injury arising out of and occurring in 
+the course of his employment to his back and 
+
+
+leg.”; and, 
+“6. That the employee sustained an overall 
+current permanent partial disability equivalent 
+
+
+to 22 1/2% of the whole person which the par- 
+ties recognize as an ‘economic disability’ pro- 
+ducing a weekly wage loss of $120.24 per week 
+with an equivalent compensation rate of $80.16 
+per week for permanent partial disability.” 
+
+
+(J.A. 3-4). 
+
+
+On November 28, 1983, his Honorable Administra- 
+tive Law Judge, William J. Butler, issued a Decision and 
+Order awarding Rambo $80.16 per week permanent par- 
+tial disability benefits. (J.A. 2-6) 
+
+
+On October 30, 1989, “Metropolitan” filed with the 
+Department of Labor an “Employer’s Application For 
+Modification, Section 922”. (J.A. 7-10) 
+
+
+The Modification contained no medical evidence and 
+did not allege a change in Rambo’s physical condition. 
+The sole evidence offered by the employer in support of 
+the Modification was Rambo’s post award earning 
+records. (J.A. 9-10). The employer alleged, “ .. . that he 
+(Rambo) is not entitled to a wage loss of any kind at this 
+time and that he has no economic disability as a result of 
+this injury.” (J.A. 8). The employer concluded that, 
+
+
+“ ... we can clearly show simply by the earnings infor- 
+mation alone, . . . that this employee does not have a 
+wage loss now .. . and that all compensation payments 
+should be terminated.” (J.A. 8,9). 
+
+
+A Formal Hearing on the Modification was convened 
+on October 15, 1990 by his Honorable Administrative 
+Law Judge Daniel Stewart (“ALJ”). 
+
+
+At the commencement of the hearing, Rambo moved 
+to dismiss the Application for Modification on the ground 
+that the “Modification” failed to allege nor was there 
+evidence of a change in Rambo’s “physical condition”. 
+(J.A. 25-26). 
+
+
+The employer argued that: 
+
+
+1. A Section 922 Modification may be based on 
+economic grounds (J.A. 28 and J.A. 41, 
+Employer’s Trial Brief); and, 
+
+
+2. Rambo’s earnings demonstrate that there is 
+no economic disability in this case. (J.A. 41) 
+
+
+The only documentary evidence admitted into the 
+record was Rambo’s earnings records. Each party’s trial 
+brief was made part of the Administrative Record. The 
+employer’s only witness was Rambo. 
+
+
+Rambo testified that he was currently employed as a 
+longshoreman in the capacity of a crane operator. (J.A. 
+43). It took Rambo 20 years to achieve the seniority 
+necessary to become a crane operator. (J.A. 52). A crane 
+operator’s job is less physically demanding then other 
+longshore work he is eligible to perform. (J.A. 53). 
+
+
+4 
+
+
+Rambo testified that his physical condition had not 
+changed since the date of the award of compensation 
+benefits in 1983. 
+
+
+(J.A. 54). 
+
+
+Finally, Rambo testified that he was told by Mr. 
+James J. Wood at the 1983 trial that if he accepted the sum 
+of $80.16 per week, it would be paid for life. (J.-A. 56-62). 
+
+
+In Open Court, on the record, Mr. Wood said: 
+
+
+“Well, I hear what he is saying, Your Honor. | 
+will have to call myself as a witness then, I 
+guess.” 
+
+
+(J.A. 58). 
+
+
+Mr. Wood did not call himself as a witness to deny 
+Rambo’s testimony. The only evidence in the record on 
+this issue is the testimony of Rambo. 
+
+
+The “ALJ” granted the Modification and terminated 
+Rambo’s benefits. 
+
+
+Rambo appealed to the Benefits Review Board. 
+
+
+The Benefits Review Board, citing Fleetwood v. New- 
+port Shipbuilding & Dry Dock Co., 776 F.2d 1225 (4th Cir. 
+1985), affirmed, stating, “ ... that a mere change in a 
+Claimant’s wages could satisfy the ‘change in conditions’ 
+requirement for modification.” (J.A. 73). 
+
+
+Rambo appealed to the Ninth Circuit Court of 
+Appeals. Only the Solicitor opposed the Appeal. 
+
+
+On Appeal Rambo raised three issues: 
+
+
+1. Must the party seeking to reopen a claim by 
+filing a 33 U.S.C. Sec. 922 Modification meet a 
+
+
+threshold burden of showing a change in the 
+Claimant’s physical condition? 
+
+
+2. Should the employer in this case be 
+estopped from filing a 33 U.S.C. Sec. 922 Mod- 
+ification because of the representation of its 
+attorney to Rambo that the award would be 
+paid for life? 
+
+
+3. Given the 1983 Award of benefits and the 
+lack of any other evidence at the Modification 
+trial except earnings records, should the Admin- 
+istrative Law Judge be directed to enter a nomi- 
+nal award to preserve Claimant’s rights to 
+petition for future modification? 
+
+
+The Ninth Circuit reversed, holding that, “ ...a - 
+party seeking to modify an award must prove that the 
+
+
+Claimant has undergone a change in his physical condi- 
+tion.” (J.A. 77). 
+
+
+The Ninth Circuit noted that “ . . . (Metropolitan) 
+relies exclusively upon the Fourth Circuit’s decision in 
+Fleetwood, which held that a mere change in the Claim- 
+ant’s wages could satisfy the ‘change in conditions’, 
+requirement of 33 U.S.C., Section 922.” (J.A. 77). 
+
+
+The Ninth Circuit stated that, 
+
+
+“As the Fleetwood dissent noted, the Fourth Cir- 
+cuit’s Rule is in direct conflict with the Ninth 
+Circuit’s Rule. See id. at 1235 (Warriner J., dis- 
+senting) (noting that beginning with the first 
+opinion dealing with the question, (McCormick) 
+handed down in 1933, and continuing thereafter, 
+the Courts have uniformally interpreted the 
+term, ‘change in condition’ in (33 U.S.C. Sec. 
+922) to refer exclusively to a change in physical 
+
+
+condition of the employee receiving compensa- 
+tion.” (emphasis added by the Ninth Circuit). 
+
+
+(J.A. 78). 
+
+
+The Ninth Circuit also noted that, as the Fleetwood 
+
+
+dissent points out, “ ... the Fourth Circuit’s rule conflicts 
+with the position taken by the First and Fifth Circuits.” 
+(J.A. 78). 
+
+
+After the decision of the Ninth Circuit, the Solicitor 
+filed a Petition For Rehearing on behalf of Director. On 
+the last page of that Petition the solicitor virtually con- 
+ceded that Metropolitan’s Application For Modification 
+should be denied in the interest of, “ . . . justice under The 
+Act.” The Solicitor noted in a footnote: 
+
+
+“6. Rambo has also contended throughout that 
+the circumstances of the parties’ agreement to 
+the 1983 award’s terms included representations 
+that the award would not be modified (at least 
+not downwards). Modification may be denied, 
+despite an adequate demonstration that one of 
+the statutory conditions for it exists, where 
+changing the award would not ‘render justice 
+under The Act.’ McCord v. Cephas, 532 F.2d 1377, 
+1380-1381 (D.C. Cir. 1976). In addition, the cir- 
+cumstances alleged by Rambo could be con- 
+strued to effect an express waiver of the 
+employer's right to seek modification of the 
+1983 award under Sec. 22. Accordingly, Rambo’s 
+contention warrants full consideration.” Petition 
+For Rehearing on behalf of the Director, p. 15 
+(August 5, 1994) 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+This appeal arises out of a claim made by Rambo 
+pursuant to the provisions of the Longshore and Harbor 
+Workers’ Compensation Act (The Act). The Act was passed 
+by Congress in 1927 to replace the common law remedy 
+of tort litigation between maritime workers and their 
+employers. The purpose of The Act was to provide 
+worker’s compensation benefits to maritime workers 
+within admiralty jurisdiction. All worker’s compensation 
+systems permit the parties to reopen claims to modify 
+previous awards to effect substantial justice between the 
+parties. This is a recognition of the policy that no matter 
+how competent the original trier of fact’s diagnosis of the 
+
+
+claimant's condition and earning prospects at the time of — 
+
+
+the initial hearing, that condition may later change mark- 
+edly for the worse, or may improve, or may even clear up 
+altogether. Many jurisdictions permit, for policy reasons, 
+virtually an unlimited reopening system. That is, either 
+party has an unlimited period of time after the initial 
+award to seek a modification of the prior award based on 
+ANY change in the circumstances upon which the prior 
+award was based. 
+
+
+The Act as passed by Congress and amended ten 
+times since 1927 adopted a severely limited reopening 
+procedure. The parties have only one year from the last 
+payment of compensation or rejection of the claim to 
+reopen the claim. The parties may only seek to reopen the 
+claim for a change in conditions or a mistake in fact. In 
+1938 and again in 1984 Congress had before it amend- 
+ments which would have liberalized and revamped the 
+reopening process and permitted unrestricted review of 
+claims. Both times Congress rejected this liberalization. In 
+
+
+1983, the Senate Report urging liberalization went so far 
+as to point out that although the time limitation for 
+reopening was to be eliminated, “ ... the basis on 
+grounds for seeking modification remains as under cur- 
+rent law.” S. Rep. No. 98-81, 98th Cong., 1st Sess., p. 37 
+(1983). 
+
+
+The first case to interpret the reopening process 
+under The Act was decided in 1933. McCormick S.S. Co. v. 
+United States Employees’ Comm'n, 64 F.2d 84 (9th Cir. 
+1933). That case held in a clear, bright line ruling that in 
+order for the parties to reopen a claim, not only must it be 
+timely filed, but that there must be a showing that the 
+claimant’s “physical condition” had changed since the 
+prior award. That clear, bright line rule that the phrase 
+“change in conditions” meant a change in the claimant’s 
+physical condition was followed in every circuit, in every 
+case,,and was adopted by the agency charged with 
+administering The Act. That clear, bright line rule was in 
+force and effect when each of the ten Amendments to The 
+Act were adopted by Congress. The clear intent of Con- 
+gress, unbroken since 1927 and implemented by the 
+Courts is to severely restrict the reopening of claims. The 
+parties may relitigate a claim under The Act only if a 
+Petition For Modification is filed within a limited period 
+of time and only upon a showing of a mistake in fact or a 
+change in the claimant’s “physical condition”. 
+
+
+In 1985 the agency charged with the Administration 
+of The Act changed its position on reopening of claims. 
+The Director’s new position adopted the liberal approach 
+to reopening claims and urged that claims could be reliti- 
+gated for ANY change in circumstances from which a 
+trier of fact could conclude that there had been a change 
+
+
+in the Claimant’s earning capacity. This change in posi- 
+tion by the Director lead to the bizarre result in Fleetwood 
+v. Newport Shipbuilding & Dry Dock Co., 776 F.2d 1225 (4th 
+Cir. 1985), which is a two-judge majority opinion. This 
+case is the sole aberration in a sixty-two year line of cases 
+that recognizes that Congress’ clear intent in passing and 
+amending The Act was to establish a conservative, 
+severely restricted procedure for reopening cases. It can- 
+not be better stated than by the dissenting Judge in 
+Fleetwood when he proclaimed: 
+“Fifty years is a long time. And perhaps it 
+
+can be argued that the Board’s, and the Court’s, 
+
+and the CONGRESS’ erstwhile interpretation of 
+
+the phrase was inhumane, or unenlightened, or 
+
+an anachronism, or something else even more 
+
+disparaging. But it cannot be argued, I submit, 
+
+that the prior interpretation was not and is not 
+
+the law.” 
+
+
+Id. at 1236. 
+
+
+The Director’s opinion in Rambo is not entitled to 
+deference because: 
+
+
+1. The Congressional intent on the precise issue 
+before the Court is patently clear. That intent is the law 
+and must be enforced; 
+
+
+2. The Director in Rambo is appearing as a litigant 
+with the adversarial position of protecting the Special 
+Fund; 
+
+
+3. The Director’s inconsistent positions on this issue 
+without adequate explanation vitiates deference. 
+
+
+Therefore, based upon the clear intent of Congress to 
+enact a severely limited reopening process, sixty-two 
+
+
+10 
+
+
+years of virtually unbroken precedent and the sound 
+logic of the Ninth Circuit Court of Appeals, it is respect- 
+fully requested that this Court affirm the decision of the 
+Court below. 
+
+
+ARGUMENT AND AUTHORITIES 
+
+
+I. NEITHER THE OPINION OF THE BENEFITS 
+REVIEW BOARD NOR THE DIRECTOR IS ENTI- 
+TLED TO DEFERENCE IN THIS CASE. 
+
+
+The Second Circuit addressed the issue of the defer- 
+ence due to interpretations of The Act by the Benefits 
+Review Board and the Director in Director, Office of 
+Workers’ Compensation Programs v. General Dynamics Corp., 
+900 F.2d 506 (2nd Cir. 1990). 
+
+
+The General Dynamics court noted in Potomac Electric 
+Power Co. v. Director, Office of Workers’ Compensation Pro- 
+grams, 449 U.S. 268, 278 n. 18 (1980), that the Supreme 
+Court suggested that the Benefits Review Board’s views 
+are not entitled to special deference because it performs 
+only an adjudicatory function and is not charged with 
+administrating The Act. Jd. at 510. The Court then noted 
+that the question of deference to be accorded to the 
+Director was less clear. Id. 
+
+
+The Court found persuasive the reasoning in Director, 
+Office of Workers’ Compensation Programs v. O'Keefe, 545 
+F.2d 337, 343 (3rd Cir. 1976). The General Dynamics Court 
+pointed out that, “ .. . when the Director appears as a 
+litigant in an adversarial proceeding before the Board, it 
+
+
+i a ef 
+
+
+11 
+
+
+is inappropriate to grant special deference to the Direc- 
+tor’s litigating position . . . ” General Dynamics, supra, at 
+510. The Court reasoned that, “If deference were 
+accorded under such circumstances, claimants would be 
+effectively deprived of the right to impartial review.” Id. 
+
+
+The General Dynamics court concluded that, “ ... in 
+light of the relationship between the roles of the Board 
+and the Director in resolving questions of law, and the 
+Director’s adversarial position in this litigation, the 
+Director’s interpretation of The Act here is not entitled to 
+any special deference.” Id. 
+
+
+In this case Metropolitan was granted 8(f) relief. . 
+Rambo’s benefits are being paid by the Special Fund. The 
+Secretary is charged with the responsibility of administer- 
+ing the Special Fund and defending it. (33 U.S.C. Section 
+944). Only the Director appeared in the Ninth Circuit to 
+oppose Rambo’s appeal of the decision of the Benefit’s 
+Review Board. If the decision of the Ninth Circuit Court 
+of Appeals is reversed, the Special Fund would benefit. 
+Because of the clear adversarial position of the Director in 
+this case, the Director’s interpretation of the Statute 
+should be given no special deference. (See also Malcomb v. 
+Island Creek Coal Company, 15 F.3d 364 (4th Cir. 1994) 
+holding that deference should not be afforded in a black 
+lung case where there were different interpretations of 
+the Board’s own regulations). 
+
+
+Finally, an agency’s construction of the statute which 
+it administers is entitled to deference only when the 
+intent of Congress in enacting the statute is unclear. 
+Where Congress has clearly expressed its intent, Courts 
+
+
+12 
+
+
+must reject a contrary administrative construction. Chev- 
+ron U.S.A. Inc. v. Natural Resources Defense Council Inc., 
+467 U.S. 837 (1984). If a court, employing traditional tools 
+of statutory construction, ascertains that Congress had an 
+intention on the precise question at issue, that intent is 
+the law, and must be given effect. Western v. Luther, 163 
+U.S. 331, 342 (1896). 
+
+
+In the case at bar the precise question before the 
+Court is whether Congress intended to adopt a severely 
+restrictive system for reopening previously litigated 
+claims or adopt the “modern approach” allowing contin- 
+uous monitoring of claims, forever adjusting the griev- 
+ances of the parties, real or imagined. 
+
+
+The answer as to the intent of Congress can easily be 
+ascertained by reviewing the legislative history of Section 
+22 and the cases that interpret that Section in a chrono- 
+logical order. ; 
+
+
+II. LEGISLATIVE HISTORY, PRECEDENT AND THE 
+PRACTICAL ADMINISTRATION OF THE ACT 
+MANDATE THAT THIS COURT AFFIRM THE 
+DECISION OF THE NINTH CIRCUIT COURT OF 
+APPEALS IN THIS CASE. 
+
+
+The original Longshoremen’s and Harbor Workers’ 
+Compensation Act was enacted by Congress on March 4, 
+1927. The Act was to provide worker’s compensation 
+benefits to maritime workers within admiralty jurisdic- 
+tion. It was the modern substitute for the old common 
+law remedy and was recognized as necessary in the inter- 
+est of social justice between employers and employees. 
+
+
+13 
+
+
+H.R. Rep. No. 1767, 69th Cong., 2d Sess., pp. 19-20 
+(1927). 
+
+
+Section 22 of the Original Act was as follows: 
+
+
+“Sec. 22. Upon his own initiative, or upon 
+application of any party in interest, on the 
+ground of a change in conditions, the deputy 
+commissioner may at any time during the term 
+of an award and after the compensation order in 
+respect of such award has become final, review 
+such order in accordance with the procedure 
+prescribed in respect of claims in section 19, and 
+in accordance with such section issue a new 
+compensation order which may terminate, con- 
+tinue, increase, or decrease such compensation. 
+Such new order shall not affect any compensa- 
+tion paid under authority of the prior order.” 
+
+
+Congressional Record-Senate, 2d Sess., March 4, 
+1927, S.5904. 
+
+
+It should be noted that Section 22 referred to the 
+procedure contained in Section 19, which in turn referred 
+to Section 13 which Section sets one year as the limitation 
+period for filing claims. 
+
+
+The first reported case interpreting Section 22 was 
+McCormick S.S. Co. v. United States Employees’ Compensa- 
+tion Comm'n, 64 F.2d 84 (9th Cir. 1933). 
+
+
+In this 1933 case, the injured worker suffered a non- 
+scheduled industrial injury on February 11, 1928. The 
+Deputy Commissioner entered an order awarding the 
+worker $3.96 per week permanent partial disability. 
+
+
+14 
+
+
+Thereafter the Deputy Commissioner modified the 
+award and increased the worker’s benefits to $8.21 per 
+week. The Employer Appealed. 
+
+
+The Ninth Circuit stated that: 
+
+
+“The Order complained of in this proceeding is 
+as follows: 
+
+
+‘. .. It appearing to the Deputy Commis- 
+sioner . . . that his physical condition has 
+not changed since the last order, that his 
+wages have diminished since said date 
+because of decreased stevedore work result- 
+ing from depressed conditions.” McCormick, 
+supra, at 85. 
+
+
+The Ninth Circuit held that, “The applicant's petition 
+
+for a Modification of the compensation Order was not 
+
+_ based upon a CHANGE IN HIS PHYSICAL CONDITION 
+but upon his decreased EARNINGS. . . . Section 22 of The 
+Act (33 U.S.C. Sec. 922) authorizes a modification of the 
+order due to a ‘change in conditions’ but we do not think 
+this applies to a change in EARNINGS DUE TO ‘ECO- 
+NOMIC CONDITIONS’.” Id. at 85. (Emphasis added). 
+
+
+The Order was vacated and the decision of the Dep- 
+uty Commissioner reversed. 
+
+
+Since the McCormick Court announced its clear, 
+bright line rule that the parties can reopen a claim only 
+upon first showing a change in the claimant’s condition, 
+The Act has been amended ten times. The first Amend- 
+ment to The Act was on May 26, 1934. That Amendment 
+changed Section 922 to read as follows: 
+
+
+“Sec. 22. Upon his own initiative, or upon the 
+application of any party in interest, on the 
+
+
+15 
+
+
+ground of a change in conditions or because of 
+a mistake in a determination of fact by the 
+deputy commissioner, the deputy commission- 
+ers may, at any time prior to one year after the 
+date of the last payment of compensation, 
+whether or not a compensation order has been 
+issued, review a compensation case in accor- 
+dance with the procedure prescribed in respect 
+of claims in section 19, and in accordance with 
+such section issue a new compensation order 
+which may terminate, continue, reinstate, 
+increase, or decrease such compensation. Such 
+new order shall not affect any compensation 
+previously paid, except that an award increas- 
+ing the compensation rate may be made effec- 
+tive from the date of the injury, and if any part 
+of the compensation due or to become due is 
+unpaid, an award decreasing the compensation 
+rate may be made effective from the date of the 
+injury, and any payment made prior thereto in 
+excess of such decreased rate shall be deducted 
+from any unpaid compensation, in such man- 
+ner and by such method as may be determined 
+by the deputy commissioner with the approval 
+of the Commission.” H.R. Rep. No. 1244, 73d 
+Cong., 2d Sess., p. 6 (1934). 
+
+
+The Report of both the House and Senate are identi- 
+cal. It is as follows: 
+
+
+“Sixth Amendment. Section 5 of H.R. 8057 (and 
+Section 5 of S. 2794) amends section 22 of the 
+existing act so as to broaden the grounds on 
+which a deputy commissioner can modify an 
+award and also while strictly limiting the 
+period, extends the time within which such 
+modification may be made . . . The amendment 
+
+
+16 
+
+
+is in line with the recommendation of the Com- 
+mission except that it limits to 1 year after the 
+date of the last payment of compensation the 
+time during which such modification may be 
+made. The amendment also permits an increase 
+or decrease in the compensation under a mod- 
+ifying award when changed conditions or a mis- 
+take in a determination of fact makes such 
+modification desirable in order to render justice 
+under The Act, such modifying award to date 
+from the time of the accident.” (Emphasis 
+added). 
+
+
+S. Rep. No. 588, 73d Cong., 2d Sess., p. 3 (1934); H.R. 
+Rep. No. 1244, 73d Cong., 2d Sess., p. 4 (1934). 
+
+
+This legislative history unequivocally demonstrates 
+that Congress intended to adopt a procedure which 
+strictly limits the reopening process. 
+
+
+Clearly Congress considered whether to allow unre- 
+stricted reopenings of claims and rejected that approach. 
+The clear, bright line rule of McCormick was in place and 
+was precedent when this amendment was enacted. 
+
+
+The first case to address Section 922 of The Act as 
+amended by Congress in 1934 was Atlantic Coast Shipping 
+Co. v. Golubiewski, 9 F. Supp. 315 (D.Md. 1934). 
+
+
+In this case the court stated: 
+
+
+“The single question presented is whether an 
+
+injured employee who has been receiving com- 
+
+pensation for temporary partial disability under j 
+a valid order of the Deputy Commissioner 
+
+ceases to be entitled thereto by reason of his } 
+imprisonment in the penitentiary under a sen- 
+
+tence for life consequent upon conviction for 
+
+murder in the first degree.” Id. at p. 315. 
+
+
+17 
+
+
+The Deputy Commissioner denied the employer’s 
+Petition to Modify pursuant to Section 922. The employer 
+appealed and just as Metropolitan in this case, cited 33 
+U.S.C. Sec. 902 (10), which defines disability as: 
+
+
+“Disability means incapacity because of injury 
+to earn the wages which the employee was 
+receiving at the time of injury in the same or any 
+other employment.” 
+
+
+The District Court which was charged with judicial 
+review at that time, noted that the employer’s, “” 
+argument is that one confined in the penitentiary is 
+thereby precluded from earning wages and therefore it is 
+said that the disability for the original injury is no longer 
+the effective cause of loss of wages.” Atlantic Coast Ship- 
+ping Co., supra, at 316. 
+
+
+The Court answered this argument by stating: 
+
+
+“However, in my opinion the exact legal ques- 
+tion depends upon the proper construction and 
+application of Section 22 of The Act (33 U.S.C. 
+Sec. 922) which provides for modification of 
+awards.” Atlantic Coast Shipping Co., supra, at 
+316. 
+
+
+In answering this question the Court stated, “Look- 
+ing at the context (of Section 922) in relation to the whole 
+scope and general purposes of The Act, the most natural 
+meaning to be given to the expression ‘change in condi- 
+tions’ would seem obviously to refer to a change in the 
+PHYSICAL CONDITION of the employee caused by the 
+accident.” Atlantic Coast Shipping Co., supra, at 317. 
+(Emphasis added). 
+
+
+18 
+
+
+After an exhaustive review of domestic cases, English 
+cases and treatises, the Court stated: 
+
+
+“Considered on principle, apart from the above 
+authorities, there would seem to be little sup- 
+port for plaintiffs’ contention in these cases. 
+Their argument seems necessarily to be based 
+on the underlying assumption that the pay- 
+ments for temporary partial disability are a mat- 
+ter of grace rather than of obligation to the 
+injured employee. This view is erroneous. The 
+legal theory inherent in the Longshoremen’s 
+Act, as in Workmen’s Compensation Acts gener- 
+ally, is the substitution of a certain amount of 
+compensation (variable within limits) to the 
+employee for his common law right of action 
+which is taken away by the statute. While the 
+payments for partial disability are spread over a 
+period of time, for considerations of public pol- 
+icy, the obligation of the employer arises from 
+the fact of the injury in the course of employ- 
+ment and accrues at the time of the injury. The 
+subject matter has been heretofore discussed to 
+some extent by the Circuit Court of Appeals for 
+this Circuit in Wheeling Corrugating Co. v. 
+McManigal, 41 F. (2d) [sic] 593, 595; United States 
+Casualty Co. v. Taylor, 64 F.2d 521 and Bowen v. 
+Hockley, 71 F.2d 781; also in the opinion of this 
+court in Pyrites Co. v. Davison Chemical Co., 4 F. 
+Supp. 294, 297 (affirmed sub. nom. Hockley v. 
+Wilson (C.C. A.) [sic] 70 F.2d 108), where it was 
+said: 
+
+
+‘It is a statutory substitute for the common law 
+right of action by the employee which might 
+culminate in a judgment for a capital sum as 
+damages. The obligation of the employer to 
+indemnify for the loss is in its nature a single 
+
+
+19 
+
+
+entity just as was the common law chose in 
+action of the employee. That it is to be liqui- 
+dated in periodic partial payments does not 
+transmute its legal nature from an entire obliga- 
+tion into several separate obligations each aris- 
+ing from the several periodic payments required 
+to be made, until the whole is paid.’ ” Atlantic 
+Coast Shipping Co., supra, at 318. 
+
+
+The Court concluded by stating: 
+
+
+“Finally it may be observed that the employee’s 
+confinement in the penitentiary will not, of 
+course, preclude the employer from further pro- 
+ceedings before the Deputy Commissioner for 
+modification of the award under section 922 of 
+33 U.S.C.A. when the employee’s change in 
+physical condition, with respect to his capacity 
+to earn wages if he were free, may justify a 
+discontinuance of the payments for temporary 
+partial disability or reduction in the amount 
+thereof. 
+
+
+I conclude, therefore, that the orders of the 
+Deputy Commissioner in both the cases are in 
+accordance with the law and should not be set 
+aside.” Atlantic Coast Shipping Co., supra, at 
+318-319. 
+
+
+In 1935 and 1936 Congress considered amending The 
+Act. The report of both Houses regarding the effect of the 
+proposed amendments of Section 922 is as follows: 
+
+
+“Section 9, In the amendment of Section 22 of 
+the Longshoremen’s Act as contained in The Act 
+of May 26, 1934, no provision was made for the 
+application of the enlarged authority therein 
+provided to cases in which the action of the 
+deputy commissioner has been a rejection of the 
+
+
+20 
+
+
+claim. In such a case, in which there has been no 
+‘payment of compensation’, the amendment 
+failed to provide for reopening. Experience indi- 
+cates that the same reasons for reopening, as 
+provided for in this section, may exist where the 
+claim has been rejected as in the case where 
+compensation has been paid either with or with- 
+out an award. The purpose of this amendment is 
+to extend to such cases the same provisions 
+which now apply in connection with other cases 
+
+
+sioner.” 
+
+
+S. Rep. No. 1199, 74th Cong., Ist Sess., p. 4 (1935); 
+H.R. Rep. No. 2237, 74th Cong., 2d Sess., p. 5 (1936). 
+
+
+While this Amendment was being considered by 
+Congress, the Ninth Circuit decided Pillsbury v. Alaska 
+Packers Ass‘n, 85 F.2d 758, (9th Cir. 1936), rev’d on other 
+grounds, 301 U.S. 174 (1937). In that decision, referring to 
+Sec. 922, the Ninth Circuit noted that, “The expression 
+‘change in conditions’ refers to a change in the physical 
+condition of the employee.” Pillsbury, supra at 960 citing, 
+Atlantic Coast Shipping Co. v. Golubiewski, 9 F. Supp. 315, 
+317 (D.C. Md. 1934). 
+
+
+In 1938 Congress amended Section 922 and its reports 
+were identical to the paragraph attached to its proposed 
+amendment in 1935 and 1936 set forth above. S. Rep. No. 
+1988, 75th Cong., 3d Sess., p. 13 (1938). 
+
+
+Again Congress clearly considered the issue of allow- 
+ing unrestricted reopening of claims. It rejected unre- 
+stricted reopenings and limited to one year the time limit 
+to reopen after the initial claim was rejected. The clear, 
+bright line rule of McCormick had been in place for five 
+
+
+Na eeeicnienieienneieaeaaeel 
+
+
+21 
+
+
+years and had been judicially approved in two subse- 
+quent court rulings. 
+
+
+On April 11, 1944 the 5th Circuit decided Burley v. 
+Welding Works, Inc., v. Lawson, 141 F.2d 964 (5th Cir. 1944). 
+In that case the injured employee suffered a non-sched- 
+uled injury on November 23, 1940. The Deputy Commis- 
+sioner entered an Order on July 29, 1942 awarding the 
+Claimant permanent partial disability benefits at the rate 
+of $8.00 per week. On August 5, 1942 the employer filed a 
+Section 922 Modification supported by the injured 
+worker’s increased earnings records. Modification was 
+denied. The employer appealed. 
+
+
+The 5th Circuit stated: 
+
+
+“It has been uniformly held that the term 
+‘change in conditions’ in Section 22 of The Act, 
+which authorizes the modification of a previous 
+award, means a change in the employee’s physi- 
+cal condition, and not other conditions.” Burley 
+Welding Works, Inc., supra, at 966, citing McCor- 
+mick, supra, and Pillsbury, supra. 
+
+
+The Order of the Deputy Commissioner was affirmed 
+and the Petition For the Modification dismissed. 
+
+
+On October 9, 1974 the Benefits Review Board 
+decided Rizzi v. The Four Boro Contractor Corp., 1 BRB 130 
+(1970). 
+
+
+In this case the injured worker in 1966 was awarded a 
+non-scheduled award for permanent partial disability. In 
+1971 he filed a Section 922 Petition For Modification 
+alleging permanent total disability. At trial the Adminis- 
+trative Law Judge denied the Modification finding that 
+
+
+22 
+
+
+the Claimant’s total disability was unrelated to his indus- 
+
+
+trial injury. 
+The Benefits Review Board stated: 
+
+
+“The Act provides that a compensation order 
+may be reviewed on grounds of change in con- 
+ditions or because of mistake in a determination 
+of fact by the deputy commissioner. 33 U.S.C. 
+Sec. 922. The term, ‘change in condition’, means 
+alteration of the physical condition of the 
+employee caused by the accident. Bay Ridge 
+Operating Co. v. Lowe, 14 F. Supp. 280 (S.D. N.Y. 
+1936). Further, to qualify for additional benefits, 
+such change in condition must have occurred 
+between the time of the award which is being 
+modified and the time of application for mod- 
+ification. Jarka Corp. v. Hughes, 299 F.2d 534 (2nd 
+Cir. 1962).” 
+
+
+Rizzi, supra at p. 131. 
+
+
+The Board affirmed the order of the Administrative 
+Law Judge and the Modification was denied. It should be 
+noted that in this case the agency charged with the 
+administration of The Act took the opposite position to 
+the present interpretation of “change in conditions” now 
+taken by the Director in the instant case. 
+
+
+On May 14, 1981, Senate Bill 1182 amending The Act 
+was introduced. It was identical with H.R. 25 also pro- 
+posed in the 97th Congress. The Senate passed Senate Bill 
+1182 on July 27, 1982. When received by the House of 
+Representatives, the bill was referred to the Committee 
+on Education and Labor. The 97th Congress adjourned 
+
+
+2a NN oR AS HN oa cn 
+
+
+23 
+
+
+without enacting any amendments to The Act. Congres- 
+sional Record — Senate, 98th Cong., Ist Sess., January 26, 
+1983, S.576. 
+
+
+On January 26, 1983 Senate Bill 38 was introduced in 
+the Senate and was virtually identical with Senate Bill 
+1182. Congressional Record — Senate, 98th Cong., 1st 
+Sess., January 26, 1983, $.570. On June 16, 1983, Senate 
+Bill 38 again passed the Senate. H.R. Rep. No. 98-570, 
+98th Cong., Ist Sess. pp. 1-2 (1983). 
+
+
+With regard to Section 22 of The Act the Senate 
+Report of May 9, 1983 stated at p. 37: 
+
+
+“MODIFICATIONS 
+
+
+Consistent with the change made in section 8(h) 
+on the issue of wage earning capacity, the one 
+year time limit for modification of awards has 
+been eliminated. Although the time limit has 
+been changed, the basis or grounds for seeking 
+a modification remains as under current law. It 
+is the committee’s intent that this amendment 
+also will preclude any future proceeding for 
+modification of a settled case in accordance with 
+section 22: This amendment promotes equity by 
+permitting ail parties to apply for modification 
+of awards at any time after an award is 
+entered. The one year limitation was unreasona- 
+bly short in light of the long term effects of the 
+major industrial injuries sustained by workers 
+covered by The Act. As a consequence, adminis- 
+trative law judges felt compelled to award bene- 
+fits for wage loss at the rate of 1 percent in cases 
+where rejection of the claim would have 
+required a request for modification within a 
+year, whether or not such a new claim was 
+justified. The new approach is far more realistic, 
+
+
+24 
+
+
+allowing claimants, for example, to apply for 
+increased benefits for wage loss or for greater 
+physical disability at a time when the full effects 
+of an injury may manifest themselves. Requests 
+for modification will no longer be necessary 
+simply to keep the statute of limitations from | 
+running.” (Emphasis added). S. Rep. No. 98-81, | 
+98th Cong., Ist Sess. pp. 37-38 (1983). | 
+
+
+At p. 36 of the same Senate Report, Section 8(h) was | 
+discussed as follows: 
+
+
+“WAGE EARNING CAPACITY 
+
+
+Section 8(h) was amended by deleting the 
+phrase ‘as it may naturally extend into the 
+future.’ The remainder of the section is 
+unchanged. The deletion is intended to reduce 
+speculation on the part of fact finders as to the 
+extent of future loss of wage earning capacity. 
+The result will be a realistic assessment of the 
+claimant’s current loss of wage earning capacity 
+along with a concomitant predictability which 
+will lead to ease of insurability.” 
+
+
+a i ee ee a 
+
+
+Specifically the proposed amendment to Section 22 
+was: 
+
+
+“MODIFICATION OF AWARDS 
+
+
+SEC. 14. Section 22 is amended by striking all 
+after ‘the deputy commissioner may’ through 
+‘rejection of claim’.” S. Rep. No. 98-81, supra p. 
+11. 
+
+
+ee ee eee 
+
+
+In the House of Representatives Report of November 
+18, 1993 in its Section by Section analysis of Section 22 it 
+is stated: 
+
+
+“Section 14 amends section 22 of The Act to ) 
+permit the modification of an award or review 
+
+
+mmceine + 
+
+
+25 
+
+
+of a compensation claim at any time on the 
+grounds of changed circumstances or mistakes. 
+(Emphasis added). H.R. Rep. No. 98-570, 98th 
+Cong., 1st Sess., p. 29 (1983). 
+
+
+After different versions of the Amendments 
+passed both houses of Congress, the bills were 
+referred to Conference Committee. 
+
+
+In the Conference Report of September 14, 
+1984, the Amendment of Section 8(h) was with- 
+drawn. Conference Report on S. 38, Congres- 
+sional Record —- House, September 14, 1984, 
+H.25495. 
+
+
+Section 22 was amended as follows: 
+“MODIFICATION OF AWARDS 
+SEC 16. Section 22 is amended - 
+
+
+(1) by inserting “(including an employer or 
+carrier which has been granted relief under sec- 
+tion 8(f))” after “party in interest”; 
+
+
+(2) by inserting “(including a case under which 
+payments are made pursuant to section 44(i))” 
+after “review a compensation case”; and 
+
+
+(3) by adding at the end thereof the following 
+new sentence: “This section does not authorize 
+the modification of settlements”. Id. at p. 25497. 
+
+
+In the Joint Explanatory Statement of the Committee 
+of Conference it is stated: 
+
+
+“SPECIAL FUND 
+
+
+Conference substitute .. . 
+
+
+By permitting an employer or carrier to remain 
+a party in a special fund case, the conferees do 
+not intend to expand or contract the rights of 
+
+
+26 
+
+
+an employer or carrier beyond those prevailing 
+in a non-special fund case. (Emphasis added). 
+Id. at $.25502. 
+
+
+On September 20, 1984 the report of the Committee 
+of Conference was placed before the Senate. Conference 
+Report on S.38, Congressional Record — Senate, Septem- 
+ber 20, 1984, S.26296. 
+
+
+Mr. Hatch noted that, “ . . . this measure is the 
+product of literally a decade of intense debate, close 
+scrutiny, and hard negotiation . . . Senate Bill 38 reflects a 
+fragile consensus carefully crafted over the last several 
+years.” Id. at $.26297. 
+
+
+As enacted the 1984 Amendments rejected the origi- 
+nal version of both the Senate and House bill which 
+permitted unlimited reopening of claims by the parties to 
+adjust or terminate benefits previously awarded. Con- 
+gress clearly and specifically chose to retain the then 51 
+year system that permitted reopening of claims only 
+based upon a change in the Claimant’s physical condition 
+and then only within the one year period. Congress 
+expressly rejected the original amendments that con- 
+tained the philosophy of a never ending open period for 
+reopening claims. Congress clearly expressed its will to 
+retain a restrictive system, limiting the reopening of 
+claims after a prior award had become final. The clear, 
+bright line rule of McCormick and its progeny was 51 
+years old when the amendments became law and the 
+Congressional scheme adopted in 1984 retained the then 
+existing system of severely restricting the reopening of 
+
+
+claims. 
+
+
+27 
+
+
+While Congress was in the middle of amending The 
+Act, on March 19, 1982 the First Circuit decided General 
+Dynamics v. Director, Office of Workers’ Compensation Pro- 
+grams, 673 F.2d 23 (1st Cir. 1982). 
+
+
+In this case the employer sought to reopen Under 
+Section 922 in order to raise the defense of 8(f) relief. The 
+Court stated, “Since there was no change in claimant's 
+physical condition, (Footnote 6), in order to reopen the 
+case the employer must show that there was a mistake in 
+the determination of a fact”. Id. at 25. 
+
+
+“Footnote 6. Courts uniformally have held that 
+a ‘change in conditions’ means a change in the 
+employee's ‘physical condition’, not other con- 
+ditions. E.g. Burley Welding Works, Inc., v. Law- 
+son, 141 F.2d 964 (5th Cir. 1944).” Id. at 25. 
+
+
+It is of interest that the Court noted: 
+
+
+“We are not insensitive to the employer’s claim 
+that reopening here might be said to be in the 
+interest of justice. Nevertheless, we hold that 
+such a reopening would not serve the orderly 
+administration of justice which depends in no 
+small part upon finality of judicial determina- 
+tions.” Id. at 26. 
+
+
+Verderane v. Jacksonville Shipyards, Inc., 772 F.2d 775 
+(11th Cir. 1985) was decided on September 30, 1985 by the 
+11th Circuit. In this case the Administrative Law Judge 
+found the Claimant permanently and totally disabled. 
+The employer appealed and the Benefits Review Board 
+agreed the Claimant was permanently and totally dis- 
+abled but remanded on the issue of coverage under The 
+Act. At the Deputy Commissioner level the employer 
+attempted to raise 8(f) relief. The Administrative Law 
+
+
+28 
+
+
+Judge denied 8(f) relief for failure to timely raise this 
+defense and found that the Claimant was covered under 
+The Act. While this case was pending a United States 
+Supreme Court decision intervened on coverage and the 
+Board ruled that the injured worker was covered under 
+The Act. The Board reinstated the original permanent and 
+total award. The employer appealed on the issue of 8(f). 
+The employer argued that it could reopen under Section 
+922 and raise 8(f) for: 
+
+
+1. change of conditions, or, 
+
+
+2. mistake in determination of fact. (Presumably the 
+change of conditions was the intervening decision of the 
+U.S. Supreme Court). 
+
+
+The 11th Circuit noted: 
+
+
+“A ‘change in conditions’, for purposes of Sec- 
+tion 22 refers to a change in an employee’s 
+physical condition.” Citing General Dynamics, 
+supra. 
+
+
+The Court concluded that, “Because the Claimant's 
+physical condition has not been shown to have changed 
+during the time he received the awards, the inquiry 
+advances to the second issue: whether there was a mis- 
+take in the determination of a fact.” The Court concluded 
+there had been none and affirmed the Board’s ruling. 
+
+
+This review of legislative history and case precedent 
+provides a framework with which to examine the author- 
+ity relied upon by Petitioner. 
+
+
+Rambo agrees that Professor Larson’s work is 
+
+
+instructive on the issue of reopening of compensation 
+
+
+BW beta 
+
+
+29 
+
+
+claims. This work does address the competing philoso- 
+phies concerning the reopening of previously litigated 
+claims. (See 3 Larson, The Law of Workmens’ Compensation, 
+Sec. 81.00 et seq. (1994)). However, it is respectfully sub- 
+mitted that the author’s entire analysis, not merely por- 
+tions, should be considered. The relevant sections of 
+Larson are: 
+
+
+“Sec. 81. REOPENING AWARDS 
+
+
+Sec. 81.00 At the administrative level, awards 
+can be reopened by the compensation board for 
+modification to meet changes in claimant's con- 
+dition, such as increase, decrease or termination 
+of disability. For reasons of administrative prac- 
+ticality, time limits within which such petitions 
+may be brought are usually imposed. On a 
+reopening for changed condition, no other 
+issues may be relitigated, and the claimant’s 
+evidence. must bear directly upon the compari- 
+son between his former and his present disabil- 
+ity. A few jurisdictions afford their commissions 
+broad power to reopen cases in the interest of 
+justice or for any good reason. Larson, supra, p. 
+15-956. 
+
+
+Sec. 81.10 Summary of reopening problems 
+
+
+In all states, some kind of provision is made for 
+reopening and modifying awards. This provi- 
+sion is a recognition of the obvious fact that, no 
+matter how competent a commission's diagnosis 
+of claimant's condition and earning prospects at 
+the time of hearing may be, that condition may 
+later change markedly for the worse, or may 
+improve, or may even clear up altogether. 
+Under the typical award in the form of periodic 
+payments during a specified maximum period 
+
+
+30 
+
+
+or during disability, the objectives of the legisla- 
+tion are best accomplished if the commission 
+can increase, decrease, revive, or terminate pay- 
+ments to correspond to claimant’s changed con- 
+ditions. Theoretically, then, commissions ought 
+to exercise perpetual and unlimited jurisdiction 
+to reopen cases as often as necessary to make 
+benefits meet current conditions. But the admin- 
+istrative and practical difficulties of such a 
+course have led to severe limitations on the 
+power to reopen and alter awards. The most 
+serious administrative problem lies in the neces- 
+sity of preserving the full case records of all 
+claimants that have ever received any kind of 
+award, against the possibility of a future 
+reopening. Moreover, any attempt to reopen a 
+case based on an injury ten or fifteen years old 
+must necessarily encounter awkward problems 
+of proof, because of the long delay and the 
+difficulty of determining the relationship 
+between some ancient injury and a present 
+aggravated disability. Another argument is that 
+insurance carriers would never know what kind 
+of future liabilities they might incur, and would 
+have difficulty in computing appropriate 
+reserves.” Id. at pp. 15-956-15-957. 
+
+
+With respect to reopening an award for change in 
+condition, Larson states: 
+
+
+“Sec. 81.30 Reopening for change in condition. 
+Sec. 81.31 What constitutes change in condition. 
+
+
+Sec. 81.31(a) Basic rule: change in physical con- 
+dition required. 
+
+
+The ‘change in condition’ which justifies 
+reopening and modification is ordinarily a 
+
+
+oP alate a La 3: 
+
+
+Pht haa nn A nla 
+
+
+31 
+
+
+change, for better or worse, in claimant’s physi- 
+cal condition.” (Citing 17 pages of footnotes) Id. 
+at pp. 15-988-15-1016. 
+
+
+The author’s exhaustive review of virtually every 
+state’s reopening system emphasizes that there are essen- 
+tially two competing concepts regarding reopening of 
+claims. Both concepts are grounded on conflicting policy 
+considerations. On the one hand some jurisdictions per- 
+mit unlimited reopening of claims for an unlimited 
+period of time based upon virtually any change in cir- 
+cumstances. On the other hand some jurisdictions 
+severely limit reopening of claims to a short period of 
+time and only if there has been a change in the 
+employee’s physical condition since the prior award. 
+
+
+The Petitioner also relies upon Fleetwood v. Newport 
+Shipbuilding & Dry Dock Co., 776 F.2d 1225 (4th Cir. 1985) 
+which was decided November 5, 1985 by the 4th Circuit 
+Court of Appeals after the 1984 Amendments were 
+enacted. 
+
+
+The decision is a two-Judge majority opinion with a 
+vigorous dissent. In its opening paragraph the majority 
+notes that Claimant received an award for a back injury 
+that occurred on July 11, 1975 and an award was made 
+pursuant to The Act and as, “ .. . amended at 33 U.S.C. 
+Sec. 901-950 in 1982.” (Sic). 
+
+
+The Court stated, “ ... about two years... ”, after 
+the award, “” .. . the employer applied for a modification 
+of the compensation order, arguing that a ‘change in 
+conditions’ had occurred in that Fleetwood had acquired 
+new job skills and was working as a production coordina- 
+tor. See 33 U.S.C. Sec. 922 (‘employer or employee may 
+
+
+32 
+
+
+obtain modification of award based upon a change in 
+conditions’).” Id. at p. 1227. 
+
+
+The majority stated that, “Fleetwood argued that his 
+original award could not be modified because under Sec- 
+tion 22 of the statute the term ‘change of conditions’ 
+included only a change in the worker’s physical condi- 
+tion and the fact that a worker was earning higher wages 
+in his new job than in his pre-injury job was irrelevant as 
+long as there was no improvement in the condition of his 
+back” Id. at p. 1227. 
+
+
+The majority opinion held that a change in an 
+employee’s wage earning capacity could be the basis for a 
+Sec. 22 Modification without a change in the employee’s 
+physical condition, “ .. . because (this) is consistent with 
+the statute’s purpose and is a reasonable view of the 
+statutory language.” Id. at p. 1228. 
+
+
+The majority in rejecting the clear bright line rule of 
+McCormick comments: 
+
+
+“We reject this reading of the statute because it 
+is not in keeping with the purpose of The Act, 
+which is to compensate workers for injuries that 
+affect their wage-earning capabilities.” Id. at p. 
+1229. 
+
+
+This does not advance the ball! 
+
+
+The issue is not whether to compensate for injures 
+but rather the issue is what has Congress said about 
+permitting parties to reopen claims and relitigate finished 
+business. Congress clearly in the 1938 and 1984 Amend- 
+ments rejected unrestricted reopening of claims. Congress 
+had before it this very issue in 1981, 1983 and 1984. 
+Congress chose not to allow the Department of Labor and 
+
+
+33 
+
+
+the Office of the Administrative Law Judges to build their 
+empire by scrutinizing each claim ad infinitum. Congress 
+retained a severely restricted system of reopening claims. 
+The Fleetwood majority by rejecting the clear, bright line 
+rule of McCormick attempts by judicial decision to enact 
+the philosophy for reopening of claims clearly rejected by 
+Congress. 
+
+
+The majority’s tortured attempt to distinguish fifty- 
+two years of case precedent and its citation of cases that 
+do not involve the reopening procedure is ingenuous at 
+best. 
+
+
+In a further anachronism, the Fleetwood majority 
+stated that, “ . . . the statute itself provides that at an 
+initial determination hearing, at a modification hearing as 
+well, any factors which may affect the future earnings of 
+the Claimant are to be taken into consideration.” Id. at p. 
+28. 
+
+
+It is respectfully submitted that at the initial hearing 
+the beginning and end all inquiry is, has the industrial 
+worker suffered a physical injury that was caused by his 
+employment? If the answer is NO, that ends all inquiries. 
+If the answer is YES, in a non-scheduled case, the Fleet- 
+wood majority is correct and the factors they cite are 
+addressed to determine if there has been a loss of wage 
+earning capacity. 
+
+
+In spite of its statement to the contrary, the Fleetwood 
+majority uses two different methods in considering 
+claims at the initial hearing and at the reopening hearing. 
+In fact they invert the process at the reopening hearing 
+and permit modification without regard to a consider- 
+ation of the claimant’s physical condition. 
+
+
+34 
+
+
+Under the McCormick approach which implements 
+the Congressionally approved system, at the reopening 
+hearing the focus is initially directed at the employees 
+physical condition. If there has been no change in the 
+claimant’s physical condition, reopening is denied; just as 
+at the initial hearing if there was no physical injury, the 
+claim is dismissed. Only if there has been a change in the 
+Claimant's physical condition under the McCormick-Con- 
+gressional scheme does the reopening hearing proceed to 
+a consideration of loss of wage earning capacity. Thus the 
+McCormick-Congressional approach makes parallel 
+inquiries at both the initial hearing and the reopening 
+hearing. 
+
+
+The Fleetwood majority in tacit recognition that it was 
+adopting a liberal reopening policy in contradiction of the 
+Congressional approach comments that, “We cannot solve 
+the problem of the short statute of limitations by com- 
+pletely excluding modifications on the basis of a change 
+in wage-earning capacity.” 
+
+
+This is precisely what Congress did! Congress chose 
+to retain the Statute of limitations AND the fifty-one year 
+old clear, bright line rule that severely LIMITS the ability 
+of the PARTIES to reopen cases. 
+
+
+One can therefore only feel empathy for Judge War- 
+riner’s frustration when he states in his dissent: 
+
+
+“Fifty years is a long time. And perhaps it can 
+be argued that the Board’s, and the Courts’, and 
+the Congress’ erstwhile interpretation of the 
+phrase was inhumane, or unenlightened, or an 
+anachronism, or something else even more dis- 
+paraging. But it cannot be argued, I submit, that 
+
+
+35 
+
+
+the prior interpretation was not and is not the 
+law.” Id. at 1236. 
+
+
+In summary the clear intent of Congress was to adopt 
+a severely limited reopening procedure and this intent 
+has been followed in all cases except the Fleetwood major- 
+ity. It is respectfully submitted that the Fleetwood majority 
+opinion is an aberration that should not be followed. 
+Likewise, in the face of the clear intent of Congress to 
+severely limit reopening of claims the opinion of the 
+Director should not be afforded deference. Western v. 
+Luther, supra. 
+
+
+Ill. OTHER ISSUES RAISED BY RAMBO ON 
+APPEAL AND ON WRIT OF CERTIORARI 
+
+
+Rambo raised three issues on Appeal to the Ninth 
+Circuit. The defining legal issue before the Ninth Circuit 
+as well as this Court is of course the question of under 
+what circumstances can a claim be reopened under 33 
+U.S.C. Section 922. The other two issues raised by Rambo 
+that became moot by the Ninth Circuit’s decision were: 
+
+
+1. Should the employer be estopped from fil- 
+ing a 33 U.S.C. Sec. 922 Petition For Modifica- 
+tion because of the representation of its attorney 
+to “Rambo” that the award would be paid for 
+life? 
+
+
+2. Given the 1983 Stipulated Decision and 
+Order Awarding Permanent Disability Benefits, 
+“in the interest of justice”, should this case be 
+remanded for the entry of a nominal award of 
+loss of wage earning capacity? 
+
+
+36 
+
+
+Should this Court decide that the prerequisites to 
+- reopen a claim were satisfied in this case, a determination 
+of Rambo’s alternative grounds for appeal should be 
+addressed. It is respectfully requested in this event that 
+this Court remand this case to the Ninth Circuit Court of 
+Appeals for resolution of the remaining issues in this 
+case. 
+
+
+CONCLUSION 
+
+
+The Director’s change in position to one advocating a 
+liberal reopening process is of course explicable. This 
+modern liberal approach will without doubt lead to more 
+people being employed by the Department of Labor to 
+forever monitor claims. What is inexplicable is that the 
+insurance industry and the employers groups support a 
+liberalization of the Congressional scheme. The Fleetwood 
+majority decision opens the door to virtually unrestricted 
+reopening of prior awards. It is wondered if the insurance 
+industry and the employer groups will be willing to 
+accept the modern, liberal Fleetwood approach when 
+future petitions to reopen are based simply on a showing 
+of decreased earnings. 
+
+
+Finally, it should be emphasized that when the par- 
+ties in this case stipulated to Rambo’s original award, the 
+clear, bright line rule of McCormick was fifty years old. 
+Fleetwood was two years in the future. Clearly, when the 
+parties made their agreement, their expectations were 
+that the arrangement would only be modified if there 
+were a change in Rambo’s physical condition. Based on 
+this expectation, coupled with the fact that Congress 
+
+
+37 
+
+
+clearly intended to adopt a restricted reopening process 
+and the fact that the Courts have implemented this intent 
+for sixty-two years, this Court should affirm the Ninth 
+Circuit’s judgment herein. 
+
+
+Therefore, for the aforesaid reasons, the Court should 
+affirm the Ninth Circuit’s judgment herein. 
+
+
+Respectfully submitted, 
+
+
+THomas J. Pierry 
+Calif. State Bar No. 36973 
+
+
+Prerry & MoorHeap 
+
+301 North Avalon Boulevard 
+Wilmington, CA 90744 
+
+(310) 834-2691 
+
+
+Counsel for Respondent 
+
+
+March 21, 1995 
+
+

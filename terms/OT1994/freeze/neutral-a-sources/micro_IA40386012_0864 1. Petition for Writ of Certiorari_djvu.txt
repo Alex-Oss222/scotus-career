@@ -1,0 +1,1798 @@
+Supreme Court, U. 
+FILED 
+
+
+94 925 NOV 22 19% 
+
+
+No. 94-QEFICE OF THE CLERK 
+
+
+In THE 
+Supreme Cet of the United States 
+OCTOBER TERM, 1994 
+
+
+JOHN W. HECHINGER, et al., 
+
+
+“ Petitioners, 
+
+
+METROPOLITAN WASHINGTON AIRPORTS 
+AUTHORITY, et al., 
+Respondents, 
+
+
+UNITED STATES OF AMERICA, 
+Intervenor. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Of Counsel: - WILLIAM T. COLEMAN, JR. 
+GREGORY WOLFE Counsel of Record 
+EDWARD S. FAGGEN DONALD T. BLISS 
+LESLIE BERKOWITZ DEBRA A. VALENTINE 
+METROPOLITAN WASHINGTON MATTHEW B. PACHMAN 
+AIRPORTS AUTHORITY AND O’MELVENY & MYERS 
+ITS BOARD OF REVIEW 555 13th St., N.W. 
+44 Canal Center Plaza Washington, D.C. 20004 
+Alexandria, VA 22314 (202) 383-5325 
+(708) 739-8740 
+
+
+ae 
+WILSON - Ergs Printine Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+PRS tpt oe VOUT ay Co 
+
+
+QUESTIONS PRESENTED 
+
+
+In 1991, this Court held unconstitutional the veto 
+power of the Board of Review (the “Board of Review” or 
+the “Board”) of the Metropolitan Washington Airports 
+Authority (the “Airports Authority” or the “Authority”) 
+in Metropolitan Washington Airports Authority v. Citi- 
+zens for Abatement of Aircraft Noise, 501 U.S. 252 
+(1991) (“CAAN”). Later that year, Congress amended 
+the Metropolitan Washington Airports Act of 1986 (the 
+“Transfer Act”) to alter substantially the Board’s powers 
+and composition. Despite Congress’ actions to remedy 
+the constitutional deficiencies in the original Act identified 
+by this Court, and the Authority’s adoption of those 
+changes, the district court held, and the court below af- 
+firmed, that the new Board of Review continues to violate 
+separation of powers principles and is unconstitutional. 
+Therefore, the questions presented are: 
+
+
+1. Whether Congress may set forth statutory proce- 
+dures that require (as a condition of the lease of federal 
+property) that a non-federal Authority defer the effective 
+date of action on certain decisions for a prescribed period 
+of time to allow a supposed agent of Congress the oppor- 
+tunity to render advice to the Authority, and, if such ad- 
+vice is not followed, to allow Congress a prescribed period 
+of time in which to decide whether to overrule such deci- 
+sion by joint resolution strictly in accordance with the 
+Bicameralism and Presentment Clauses. 
+
+
+2. Whether the decision of the court below holding 
+that an agent of Congress may not render advice in ways 
+that could affect the timing of decisionmaking by a non- 
+legislative entity, even if that congressional agent does not 
+have ultimate control over the actions of that entity, con- 
+flicts with the separation of powers jurisprudence articu- 
+lated by this Court in Alaska Airlines v. Brock, 480 U.S. 
+678 (1987), by the United States Court of Appeals for 
+the Ninth Circuit in Lear Siegler, Inc. Energy Prods. Div. 
+
+
+(i) 
+
+
+ii 
+
+
+v. Lehman, 842 F.2d 1102 (9th Cir. 1988), irrelevant 
+portion withdrawn en banc, 893 F.2d 205 (9th Cir. 
+1989), and by the United States Court of Appeals for the 
+Third Circuit in Ameron, Inc. v. United States Army 
+Corps of Eng’rs, 809 F.2d 979 (3d Cir. 1986), cert. 
+dismissed, 488 U.S. 918 (1988). 
+
+
+3. Where Congress prescribes qualifications relating to 
+residence, airport use and aviation expertise for the ap- 
+pointment of members of a Board of Review established 
+by a non-federal airports authority to represent the inter- 
+ests of nationwide airport users, whether such Board of 
+Review becomes an agent of Congress for separation of 
+powers purposes merely because such members are ap- 
+pointed by the Airports Authority from non-exhaustive 
+lists supplied by the Speaker of the House and the Presi- 
+dent pro tempore of the Senate and may, but need not, 
+be Members of Congress, even though such Board mem- 
+bers are removable only by the Airports Authority. 
+
+
+iii 
+PARTIES TO THE PROCEEDINGS 
+
+
+The parties to the proceedings in the United States 
+Court of Appeals for the District of Columbia Circuit 
+were John W. Hechinger, Craig H. Baab, and Citizens 
+for the Abatement of Aircraft Noise, Inc. (as plaintiffs- 
+appellees); Metropolitan Washington Airports Authority 
+and its Board of Review (as defendants-appellants); and 
+the United States of America (as intervenor for ap- 
+pellees). 
+
+
+Petitioners before this Court are Metropolitan Wash- 
+ington Airports Authority and its Board of Review. The 
+Metropolitan Washington Airports Authority is a non- 
+federal public body corporate and politic created by the 
+Commonwealth of Virginia and the District of Columbia 
+with no parent company or subsidiary. Respondents are 
+John W. Hechinger, Craig H. Baab, and Citizens for the 
+Abatement of Aircraft Noise, Inc. 
+
+
+The United States of America exercised its statutory 
+right to intervene in the court of appeals pursuant to 28 
+U.S.C. § 2403(a) (1988) because the constitutionality 
+of an Act of Congress had been challenged. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENIMD .. i 
+PARTIES TO THE PROCEEDINGS ............................. lii 
+SARL Ge Spee vii 
+CORE ee a sg. oe so Sty 1 
+Ri REESE a Sa RR ER LTS 2 
+CONSTITUTIONAL PROVISIONS AND STATUTES 
+pk |. REUSE NES Oe SAPS AEH eS LEED 2 
+
+
+STATEMENT OF THE CASE... 
+Tis Te I icc ceecscencvececercanesessveaceses 
+
+
+3 
+3 
+ie TR I sii cies 5 
+
+1. Creation of New Advisory Board ................... 8 
+
+
+2. Strengthening of the Appointment and Re- 
+moval Powers of the Non-Federal Authority’s 
+RE PRES aS Ria? NRE Smee ae 10 
+
+
+REASONS FOR GRANTING THE WRIT ................... 12 
+
+
+I. EVEN THOUGH CONGRESS FOLLOWED 
+THIS COURT’S CONSTITUTIONAL GUID- 
+ANCE IN AMENDING THE TRANSFER ACT, 
+THE AMENDED ACT WAS STRUCK DOWN 
+ON NEW GROUNDS THAT REACH BEYOND 
+THIS COURT’S PRECEDENTS . W000... 12 
+
+
+II. THE DECISION BELOW THAT AGENTS OF 
+CONGRESS MAY NOT RENDER ADVICE IN 
+WAYS THAT COULD AFFECT MERELY 
+THE TIMING OF EXECUTIVE DECISION- 
+MAKING CONFLICTS WITH THE SEPARA- 
+TION OF POWERS DECISIONS OF THIS 
+COURT IN ALASKA AIRLINES AND OF 
+THE NINTH AND THIRD CIRCUITS ............ 14 
+
+
+(v) 
+
+
+vi 
+
+
+TABLE OF CONTENTS—Continued 
+Page 
+
+
+III. IN HOLDING THAT THE BOARD OF RE- | 
+VIEW IS A CONGRESSIONAL AGENT THE 
+COURT BELOW MISCONSTRUED SEPA- : 
+RATION OF POWERS DOCTRINE WITH 
+RESPECT TO (1) CONGRESS’ POWER TO 
+PRESCRIBE QUALIFICATIONS AND PRO- 
+CEDURES FOR APPOINTMENT, (2) THE 
+SIGNIFICANCE OF THE AUTHORITY’S 
+EXPRESS REMOVAL POWER, AND (3) 
+
+THE AUTHORITY’S APPOINTMENT OF SIT- 
+TING MEMBERS OF CONGRESS TO A NON- 
+FAS UNTIED oientssseenninnneaciconplinnciaindlepilaiaiicd 21 
+
+
+CAFE T I EIIET wiiescisnsnsncersnvsnessnaiatapiainetuentieaintedinaiabiain 28 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES 
+Cases Page 
+
+
+Alaska Airlines v. Brock, 480 U.S. 678 (1987)...... i, 16 
+Ameron, Inc. v. United States Army Corps of 
+Eng’rs, 809 F.2d 979 (3d Cir. 1986), cert. dis- 
+
+
+missed, 488 U.S. 918 (1988) .....0002000 ii, 18, 19, 20 
+Ashwander v. Tennessee Valley Auth., 297 U.S. 
+
+og fe EER TE be SCE Belen 26 
+Bowen v. Kendrick, 483 U.S. 1304 (1987) (Rehn- 
+
+Gun, Ga. ae 12 
+Bowsher v. Synar, 478 U.S. 714 (1986) .................. passim 
+City of Alexandria v. United States, 737 F.2d 1022 
+
+I ne ccesinuslins 19 
+Crenshaw v. United States, 184 U.S. 99 (1890) ...... 22 
+Dalton v. Specter, 114 S. Ct. 1719 (1994) ............. 16 
+FCC v. Beach Communications, Inc., 118 S. Ct. 
+
+oe nei A 12 
+
+
+Federal Election Comm’n v. NRA Political Victory 
+Fund, 6 F.3d 821 (D.C. Cir. 1998), cert. granted, 
+
+
+Te iy: a 17, 25 
+Hechinger v. Metropolitan Washington Airports 
+Auth., No. 94-7036 (D.C. Cir. April 11, 1994)... 2 
+
+
+Hechinger v. Metropolitan Washington Airports 
+Auth., No. 94-7086 (D.C. Cir. September 27, 
+
+
+WED is caceriteie oni passim 
+Hechinger v. Metropolitan Washington Airports 
+Auth., 845 F. Supp. 902 (D.D.C. 1994) ................ 1, 4, 23 
+
+
+Hechinger v. Metropolitan Washington Airports 
+Auth., No. 94-7036 (D.C. Cir. October 24,1994). 2,5 
+Humphrey's Executor v. United States, 295 U.S. 
+
+
+eh reg, RITE CARTE ES ATES RS Oa 27 
+INS v. Chadha, 462 U.S. 919 (1988) -.....-.2. 16 
+Kent v. Dulles, 357 U.S. 116 (1958) . 26 
+
+
+Lear Siegler, Inc., Energy Products Div. v. Leh- 
+man, 842 F.2d 1102 (9th Cir. 1988), irrelevant 
+portion withdrawn en banc, 893 F.2d 205 (9th 
+2 git aa anal ari sicrctne Dramas i, 17, 18, 19, 20 
+Metropolitan Washington Airports Auth. v. Citi- 
+zens for the Abatement of Aircraft Noise, 501 
+¢ 3 9 — : pkenaadieeien dbmeteatont passim 
+
+
+| 
+viii 
+TABLE OF AUTHORITIES—Continued 
+Page 
+Mistretta v. United States, 488 U.S. 361, 400-01 
+
+§ SREP RSs ETS eR a Re te 21, 23, 27 
+Mow Sun Wong v. Hampton, 435 F. Supp. 37 
+
+(N.D. Cal. 1977), aff'd, 626 F.2d 739 (9th Cir. 
+
+p _—_, SMEAR PRAT ce moe a ab Deon Peta ore ea SU anna 25 
+Myers v. United States, 272 U.S. 52 (1926) ........ 24, 25, 26 
+Nixon v. Administrator of General Services, 433 
+
+ic Se 6. RC ee ae ee ee 13, 19 
+NLRB v. Catholic Bishop of Chicago, 440 U.S. 490 
+
+2 REL Na eee Ce ee een 26 
+Rostker v. Goldberg, 453 U.S. 57 (1981) ................. 12 
+Schweiker v. McClure, 452 U.S. 13801 (1981) 
+
+(Rehnquist, J. in chambers) .............................~-- 12 
+Sibbach v. Wilson & Co., 312 U.S. 1 (1941) -............ 16 
+United States v. Gainey, 380 U.S. 63 (1945) .......... 12 
+Wiener v. United States, 357 U.S. 349 (1958) -....... 27 
+
+Constitution 
+pif fs YS  ) GEER eee aewen eee: 2 
+a ee Ie UTI BI is cnncreriininnethsnsntbtinnetienstions 2 
+ee a Baia aii scciecigccentintnctiiciegtesimrpinicnttncite 2, 10,15 
+a I i A I i ccsiciepnieninschinitiivatitintocindin 2 
+IO a A OP nitcectnsnrancinincoensiconnmectumnignphinmnne 2 
+A a nsntninaeninsitinaiintiiie 2 
+mek SG eS SE Seema 2 
+pce By De SRR eeeeeene een 2, 22 
+UE ie a Ae Oi la OR cep tirwecetivtsetcttsinncienenceteinstins 2 
+Statutes & Regulations 
+y Beh FG | Ne ; AAR Cure emue ee 2 
+iar nitenttheictisthintitivantgsinbinusibiccidiaiianagap iii 
+EE itis cecscsesisintiniccntniaieinintignnimicantisrmeenie 26 
+a iii ian eniceniaiiecineminiiicemuniinnane 5,6 
+TOR 6 
+
+
+Bylaws of the Metropolitan Washington Airports 
+Authority (March 4, 1987), as amended (Janu- 
+ary 8, 1992 and April 1, 1992) ..............................- passim 
+District of Columbia Regional Airports Authority 
+Act of 1985 Amendment Act of 1987, D.C. Act 
+6-90, 32 D.C. Reg. 6093 (1985) 5, 6 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+
+District of Columbia Regional Airports Authority 
+Act of 1985 Amendment Act of 1987, D.C. Act 
+7-82, 84 D.C. Reg. 8804 (1987) ............................. 
+
+Metropolitan Washington Airports Act of 1986, 
+Pub. L. No. 99-500, 100 Stat. 1783-373, reenacted 
+in Pub. L. No. 99-591, 100 Stat. 3341-376, as 
+amended by the Metropolitan Washington Air- 
+ports Act Amendments of 1991, Pub. L. No. 102- 
+240, 105 Stat. 2197-203 (formerly codified at 49 
+U.S.C. app. §§ 2451-2461) (1988 and Supp. 
+
+
+Page 
+
+
+DSIRE ERIM Wale yt We AR gE Terk BOERS OR OA Ot aS LOE OR passim 
+
+
+Pub. L. No. 103-272 (July 5, 1994) -......0002.22.- 
+
+
+Legislative and Administrative Materials 
+
+
+187 CoNG. REc. H10344-51 (daily ed. Nov. 18, 
+| RE SDN ic SAN 8 cn EN OE coat een 
+137 ConG. REc. H10347 (daily ed. Nov. 18, 1991).. 
+187 Conc. REc. H11508-09 (daily ed. Nov. 2, 
+8 REPENS SRR IRs? NaS ng 
+187 ConG. REc. S18578-80, S18606-07 (daily ed. 
+Te i aes 
+Amendments to the Metropolitan Washington Air- 
+ports Authority Act of 1986: Hearing Before 
+the Subcomm. on Aviation of the House Comm. 
+on Public Works and Transportation 102d Cong., 
+itt eee ee... 
+H.R. REP. No. 180, 108d Cong., Ist Sess. (1993), 
+reprinted in 1994 U.S.C.C.A.N. 818 ....................-. 
+S. REP. No. 198, 99th Cong., Ist Sess. (1985) ........... 
+Oe eee ee. Be C182 SS .......................-..........- 
+
+
+Miscellaneous 
+
+
+Lease of the Metropolitan Washington Airports 
+(Mar. 2, 1987), as amended on Dec. 30, 1991...... 
+STEPHEN G. BREYER & RICHARD B. STEWART, AD- 
+MINISTRATIVE LAW AND REGULATORY POLIcy (3d 
+ONG hel AE Pe RE oe eae 
+THE FEDERALIST No. 47 (James Madison) (Clinton 
+UIC Soe ana eR 
+THE FEDERALIST No. 48 (James Madison) (Clinton 
+Rossiter ed., 1961) 
+
+
+15 
+
+
+15 
+
+
+In THE 
+Sipe Cet of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94- —— 
+
+
+JOHN W. HECHINGER, et al., 
+‘ Petitioners, 
+METROPOLITAN WASHINGTON AIRPORTS 
+AUTHORITY, et al., 
+Respondents, 
+
+
+UNITED STATES OF AMERICA, 
+Intervenor. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+The Metropolitan Washington Airports Authority and 
+its Board of Review hereby respectfully petition for a 
+writ of certiorari to review the judgment of the United 
+States Court of Appeals for the District of Columbia 
+Circuit in this case. 
+
+OPINIONS BELOW 
+
+The opinion of the court of appeals affirming the dis- 
+trict court is not yet reported but is reprinted at Appen- 
+dix (“App.”) 1la.* The opinion of the district court is 
+reported at 845 F. Supp. 902 (D.D.C. 1994) and is re- 
+printed at App. 22a. 
+
+
+1 Page citations to material printed in the Appendix appear 
+as a ha 
+
+
+2 
+
+
+JURISDICTION 
+
+
+The opinion and judgment of the district court were 
+entered on January 31, 1994 and were stayed by the 
+respective orders of the district court on February 15, 
+1994, App. at 35a, the court of appeals on April 11, 
+1994, App. at 39a, and the court of appeals on October 
+24, 1994. App. at 20a. The opinion and judgment of 
+the court of appeals were entered on September 27, 1994. 
+App. at la. The effective date of the judgment, opinion, 
+and mandate was stayed by order of the court of appeals 
+entered on October 24, 1994. App. at 20a. The juris- 
+diction of this Court is invoked under 28 U.S.C. 
+§ 1254(1) (1988). 
+
+
+CONSTITUTIONAL PROVISIONS 
+AND STATUTES INVOLVED 
+
+
+The following constitutional provisions and statutes 
+are reproduced in the statutory appendix: 
+
+
+U.S. CONSTITUTION, art. I, §§ 1, 6, cl. 2, 7, cl. 2, 
+7, &. 3; ot. &, O93, 2, & 2, . BV, OS, G. 2. 
+
+
+Metropolitan Washington Airports Act of 1986, as 
+amended by the Metropolitan Washington Airports 
+Act Amendments of 1991, 49 U.S.C. app. §§ 2451- 
+2461 (1988 and Supp. 1994). 
+
+
+Metropolitan Washington Airports Act Amendments 
+of 1991, 105 Stat. 2197 §§ 7001-7004 (“1991 
+Amendments” ). 
+
+
+Metropolitan Washington Airports Act of 1986, Pub. 
+L. No. 99-500, 100 Stat. 1783-373 (1986) reenacted 
+in Pub. L. No. 99-591, 100 Stat. 3341-376 (1986) 
+(“Unamended Act”). 
+
+
+1985 Va. Acts ch. 598, as amended by 1987 Va. 
+Acts ch. 665. 
+
+
+District of Columbia Regional Airports Authority 
+Act of 1985, D.C. Act 6-90, 32 D.C. Reg. 6093 
+(1985). 
+
+
+3 
+
+
+District of Columbia Regional Airports Authority 
+Act of 1985 Amendments Act of 1987, D.C. Act 
+7-32, 34 D.C. Reg. 3804 (1987). 
+
+
+STATEMENT OF THE CASE 
+A. Proceedings Below 
+
+
+This controversy originated with a challenge by Re- 
+spondents to the constitutionality of § 2456(f)(4) of the 
+Metropolitan Washington Airports Act of 1986, Pub. L. 
+No. 99-500, 100 Stat. 1783-373 (1986), reenacted in 
+Pub. L. No. 99-591, 100 Stat. 3341-376 (1986) (“Trans- 
+fer Act”). In 1991 this Court held that the original 
+§ 2456(f)(4) was unconstitutional to the extent that it 
+allowed the Board of Review of the Metropolitan Wash- 
+ington Airports Authority, a non-federal entity, to veto 
+actions of the Authority. Metropolitan Washington Air- 
+ports Auth. v. Citizens for Abatement of Aircraft Noise, 
+501 U.S. 252 (1991) (“CAAN”). Responding to this 
+Court’s concerns, Congress enacted a new § 2456(f) (4). 
+See Metropolitan Washington Airports Act Amendments 
+of 1991, Pub. L. No. 102-240, Title VII, 105 Stat. 2197 
+(1991) (“1991 Amendments”) (codified at 49 U.S.C. 
+app. §§ 2451-2461 (1988 and Supp. 1994)).? The Air- 
+ports Authority then reconstituted the Board of Review 
+in accordance with the amended provision. Both thc 
+amended statute and the Authority’s new Bylaws (i) strip 
+the Board of Review of all veto power; (ii) explicitly 
+vest appointment and removal power in the Board of 
+
+
+2 Except where specific reference to the unamended 1986 Act or 
+the 1991 Amendments is intended, all citations in this brief to the 
+Transfer Act (as amended) are to the U.S. Code. Pursuant to Pub. 
+L. No. 103-272 (July 5, 1994), most laws relating to transportation 
+formerly codified in 49 U.S.C. app. have been recodified elsewhere. 
+The Metropolitan Washington Airports Act of 1986 as amended 
+was not recodified and remains in force as it appears in the former 
+codification. See H.R. Rep. No. 180, 103d Cong., Ist Sess. 644 
+(1993), reprinted in 1994 U.S.C.C.A.N. 818, 1461. For clarity, 
+citations herein are to the old codification, which sets forth the 
+entire Act as amended. 
+
+
+4 
+
+
+Directors of the Authority; (iii) eliminate any require- 
+ment that Members of Congress serve on the Board of 
+Review; and (iv) ensure that any congressional action 
+taken involving the Airports Authority complies fully with 
+separation of powers principles and the Bicameralism and 
+Presentment Clauses. See Bylaws of the Metropolitan 
+Washington Airports Authority (March 4, 1987), as 
+amended (January 8, 1992 and April 1, 1992) (“By- 
+laws”), art. [V (App. at 200a). 
+
+
+Respondents then filed a new challenge to the consti- 
+tutionality of amended § 2456(f)(4) in the United States 
+District Court for the District of Columbia. On cross 
+motions for summary judgment, the district court held 
+that, even as amended, § 2456(f)(4) violates the Consti- 
+tution. Hechinger v. Metropolitan Washington Airports 
+Auth., 845 F. Supp. 902 (D.D.C. 1994) (App. at 22a), 
+as amended, 845 F. Supp. at 909 (App. at 35a).* Spe- 
+cifically, the district court held that Congress continues 
+to have “considerable control” over the Board of Review 
+and that the Board exercises “significant [federal] execu- 
+tive powers,” thereby violating separation of powers prin- 
+ciples and the Appointments Clause. 845 F. Supp. at 
+909. 
+
+
+On appeal, the United States Court of Appeals for the 
+District of Columbia Circuit affirmed the judgment of the 
+district court as to the separation of powers issues only. 
+The court of appeals held that (1) the requirement that 
+the appointment of qualified members be made from non- 
+exhaustive lists supplied by the Speaker of the House and 
+President pro tempore of the Senate, coupled with the 
+fact that Members of Congress, together with non- 
+Members, sit on the Board, render it an agent of Con- 
+gress, and (2) the ability of the Board of Review to in- 
+
+
+8 The district court’s modification of its Opinion and Order 
+granted a seventy-five day stay of the effective date of the decision. 
+See Hechinger v. Metropolitan Washington Airports Auth., 845 
+F. Supp. 902, 911 (D.D.C. 1994). 
+
+
+5 
+
+
+fluence the timing of Authority decisions that are subject 
+by statute to a fixed two-tiered report-and-wait period 
+violates separation of powers principles. Hechinger v. 
+Metropolitan Washington Airports Auth., No. 94-7036, 
+slip op. at 18 (D.C. Cir. September 27, 1994). On 
+October 24, 1994, the court of appeals granted the mo- 
+tion of the Authority and its Board of Review to stay 
+the court of appeals’ mandate and the effective date of 
+the district court’s judgment, in part to allow the Au- 
+thority and its Board of Review to petition this Court for 
+a writ of certiorari. See Hechinger v. Metropiltan Wash- 
+ington Airports Auth., No. 94-7036 (D.C. Cir. Oct. 
+24, 1994) (order staying issuance of mandate and stay- 
+ing effective date of opinion and order of district court). 
+
+
+B. Statement of Facts 
+
+
+Pursuant to the recommendation of an advisory Com- 
+mission, the Virginia Assembly enacted legislation author- 
+izing the creation of an authority to acquire Washington 
+National Airport and Washington Dulles International 
+Airport (collectively, the “Washington Airports” or “Air- 
+ports”) by lease from the federal government. See 1985 
+Va. Acts ch. 598. The Council of the District of Colum- 
+bia passed a substantially identical law. See District of 
+Columbia Regional Airports Authority Act of 1985, D.C. 
+Act 6-90, 32 D.C. Reg. 6093 (1985). The reciprocal 
+Virginia and D.C. statutes constituted an interstate com- 
+pact, creating the regional Airports Authority as a “public 
+body corporate and politic,” “independent” of all state 
+and federal governmental bodies. See 1985 Va. Acts ch. 
+598, §2; D.C. Act 6-90, § 3; Transfer Act § 6007 
+(b)(1). The two jurisdictions also agreed to consent, 
+subject to gubernatorial and mayoral approval, to lease 
+conditions to be set forth by Congress “that are not in- 
+consistent with [the Virginia or District] Act.” See 1985 
+Va. Acts ch. 598, § 3; D.C. Act 6-90, § 4.* 
+
+
+* The Virginia and D.C. statutes provided that the Authority was 
+to consist of 11 members, five of whom are appointed by the Gov- 
+ernor of Virginia, three by the Mayor of the District of Columbia, 
+
+
+6 
+
+
+Congress then enacted the 1986 Transfer Act to au- 
+thorize the Secretary of Transportation to lease the Air- 
+ports to the independent regional Airports Authority. To 
+ensure that the Authority had the input of a national-user 
+perspective, the Transfer Act provided that the Secretary 
+of Transportation should negotiate lease provisions for 
+a Board of Review designed to achieve this goal. A lease 
+was subsequently negotiated and signed by the Secretary 
+of Transportation and the Chairman of the Airports Au- 
+thority and approved by the Governor of Virginia and the 
+Mayor of the District of Columbia. See Lease of the 
+Metropolitan Washington Airports (Mar. 2, 1987) 
+(“Lease”) (App. at 173a), as amended on Dec. 30, 1991 
+(“First Amendment to Lease”) (App. at 197a). The 
+original Lease, following the provisions of the 1986 
+Transfer Act, provided for a Board of Review consisting 
+of nine Members of Congress, eight of whom were to be 
+members of four specific congressional committees. 
+Lease at 13 (App. at 185a). If the Authority wished to 
+take certain major actions (listed in old § 2456(f) (4) (B) 
+of the 1986 Transfer Act), it was required to submit the 
+proposed action to its Board of Review for a period of 
+30 days (60 days in the case of the Authority’s budget). 
+Id. at 13.D. (App. at 186a). The original Board of Re- 
+view had the power to veto such proposed actions. Id. at 
+19 (App. at 187a). 
+
+
+two by the Governor of Maryland, and one by the President of the 
+United States. See 1985 Va. Acts ch. 598, §4(A); D.C. Act 6-90, 
+§ 5(A), 32 D.C. Reg. 6093 (1985); Bylaws, art. IV, § 1.a (App. at 
+115a; 148a; 203a-204a). To ensure a truly local Board of Directors, 
+the Virginia and D.C. statutes further required that all members, 
+with the exception of the presidential appointee, reside within the 
+Washington metropolitan area. See 1985 Va. Acts ch. 598, 4(B); 
+D.C. Act 6-90, §5(B); Bylaws, art. I, §1.b. (App. at 115a; 148a; 
+200a); S. Rep. No. 193, 99th Cong., Ist Sess. 12-13 (1985). By 
+amendments, the Virginia and D.C. legislatures provided for the 
+creation of the Board of Review by the Authority. See 1987 Va. 
+Acts ch. 665, § 5(A) (5) ; D.C. Act 7-32, §3(C) (2) (1987); Bylaws, 
+art. IV (App. at 136a; 168a; 203a). Its powers and authority were 
+prescribed by the Authority in its Bylaws. App. at 200a. 
+
+
+7 
+
+
+On June 17, 1991, this Court, in CAAN, struck down 
+the old Board of Review’s veto power as unconstitutional. 
+Thereafter Congress held legislative hearings, during 
+which it considered the views of local residents and na- 
+tionwide users of the Washington Airports as well as the 
+views of constitutional law experts.° See Amendments to 
+the Metropolitan Washington Airports Authority Act of 
+1986: Hearing Before the Subcomm. on Aviation of the 
+House Comm. on Public Works and Transportation, 102d 
+Cong., Ist Sess. 102-30 (1991). On December 18, 1991, 
+Congress amended the Transfer Act, see Metropolitan 
+Washington Airports Act Amendments of 1991, Pub. L. 
+No. 102-240, 105 Stat. 2197 (Dec. 18, 1991) (codified 
+at 49 US.C. app. §§ 2451-2461 (1988 and Supp. 
+1994)) (“1991 Amendments”), to provide for a new 
+Board of Review that would reflect the needed perspec- 
+tive of frequent airport users in a way that satisfied the 
+concerns expressed by this Court in CAAN. See 1991 
+Amendments § 7004(a); 49 U.S.C. app. § 2456(f)(1). 
+As Representative Hammerschmidt, Ranking Minority 
+Member of the House Committee on Public Works and 
+Transportation, explained: 
+
+
+[T}his bill creates an advisory board of review com- 
+posed of frequent airport users who are experts in 
+aviation matters. This board, which could still in- 
+clude Congressmen, would monitor the actions of the 
+airports and could recommend changes to the air- 
+port authority. If the airports do not agree with one 
+of these recommendations, the matter could be 
+brought before Congress under expedited procedures. 
+The Congress could then exercise its constitutional 
+
+
+5 Members of the Subcommittee on Aviation of the House Com- 
+mittee on Public Works and Transportation heard testimony regard- 
+ing several proposed amendments to the Transfer Act of 1986. The 
+proposed amendments were discussed on the floors of both the 
+House and Senate. See 137 Conc. Rec. H10844-51 (daily ed. Nov. 
+18, 1991) ; 187 CoNG. Rec. H11508-09 (daily ed. Nov. 2, 1991); 137 
+Conc. REc. S18578-80, S18606-07 (daily ed. Nov. 27, 1991). 
+
+
+8 
+
+
+responsibility to pass legislation blocking the offend- 
+ing action of the airport. 
+
+
+137 Conc. Rec. H10347 (daily ed. Nov. 18, 1991) 
+(emphasis added). This new Board of Review was an 
+“oversight mechanism” to accommodate the interests of 
+nationwide users. 
+
+
+Others, such as airlines, airport employees, and anti- 
+noise activists, have groups to represent their inter- 
+ests. But airport users have no such organization. 
+Therefore, we need a board of review to fill that 
+important role. 
+
+
+Id. at H10346 (statement of Rep. Hammerschmidt) (em- 
+phasis added). 
+
+
+After this Court’s separation of powers concerns were 
+addressed in the 1991 Amendments, the Lease was 
+amended to provide for a new Board of Review, and the 
+amended Lease was approved by Virginia and the Dis- 
+trict of Columbia. See First Amendment to Lease (App. 
+at 197a). The Authority amended its Bylaws setting up 
+its new Board of Review and prescribing its composition, 
+authority, and powers. App. at 197a. Among the specific 
+changes were: 
+
+
+1. Creation of New Advisory Board. 
+
+
+The central flaw identified by this Court in CAAN was 
+“the threat of the veto,” which “[hung] over the Board 
+of Directors like the sword over Damocles, creating a 
+‘here-and-now subservience’ to the Board of Review suffi- 
+cient to raise constitutional questions.” CAAN, 501 USS. 
+at 265 n.13 (citation omitted). The 1991 Amendments 
+completely eliminated the veto as a condition of the fed- 
+eral lease. The Authority’s new Board of Review is now 
+an advisory body only, with the limited power to make 
+recommendations to the Board of Directors with respect 
+
+
+9 
+
+
+to certain major decisions.° See 49 U.S.C. app. § 2456 
+(f) (4); Bylaws, art. IV (App. at 97a; 203a-204a). 
+
+
+After the Directors transmit a matter to the Board of 
+Review, the Board of Review may issue a recommenda- 
+tion concerning the proposed action within 30 calendar 
+days or 10 legislative days, whichever is longer.’ If no 
+recommendation is timely made, or if, even earlier, the 
+Board of Review affirmatively indicates that it intends to 
+make no recommendation, the Directors’ proposed action 
+may take effect immediately. See 1991 Amendments 
+§ 7002(d)(2)(C); 49 U.S.C. app. § 2456(f)(4)(C); 
+Bylaws, art. IV, §7 (App. at 72a; 97a; 205a). If the 
+Board of Review makes a recommendation, the Directors 
+may adopt it, and the proposed action also takes effect 
+immediately. See 1991 Amendments § 7002(d)(2) 
+(D)(i); 49 U.S.C. app. § 2456(f)(4)(D)(i); Bylaws, 
+art. [V, § 8 (App. at 72a; 99a; 206a). 
+
+
+Alternatively, even if the Review Board and Directors 
+disagree, the Board of Directors may proceed with any 
+
+
+In the 1991 legislation, Congress supplemented the list of 
+specific actions which are to be transmitted to the Board of Review. 
+The list now includes (i) the adoption of an annual budget and 
+any amendments thereto; (ii) the authorization for the issuance of 
+bonds and an annual plan for the issuance of bonds and any amend- 
+ments to such plan; (iii) the adoption, amendment or repeal of a 
+regulation; (iv) the adoption or revision of a master plan; (v) 
+the appointment of the chief executive officer; (vi) the award of a 
+contract which has been approved by the Board of Directors; (vii) 
+any action by the Board of Directors approving a terminal design or 
+airport layout or modification of such decision or layout; and (viii) 
+the authorization for the acquisition or disposal of land and the 
+grant of a long-term easement. 1991 Amendments § 7002(d) (1); 
+49 U.S.C. § 2456(f) (4) (B); Bylaws, art. IV, §4 (App. at 71a; 
+97a; 204a). 
+
+
+7 “Legislative days” are defined here as days excluding weekends, 
+holidays, and any day on which neither House of Congress is in 
+session because of an adjournment sine die, a recess of more than 
+three days, or an adjournment of more than three days. 49 U.S.C. 
+app. § 2456(f) (4) (C). 
+
+
+10 
+
+
+proposed action so long as the Directors provide in writ- 
+
+ing to the Board of Review and Congress (i) a descrip- 
+
+tion of the proposed action, (ii) the Board of Review’s i 
+evaluation, and (iii) the Board of Directors’ response, 
+
+and Congress does not enact legislation within a 60- i 
+legislative-day report-and-wait period, triggered by the 
+
+Directors’ response. See 1991 Amendments § 7002 
+
+(d)(2)(D) (ii); 49 U.S.C. app. § 2456(f) (4) (D) (ii); 
+
+Bylaws, art. IV, §9 (App. at 72a-73a; 99a; 206a). Of 
+
+course, if Congress passes a joint resolution within that 
+_ period disapproving the proposed action and if the resolu- 
+
+tion is enacted into law in accordance with Article I, § 7, 
+
+then the Directors’ proposed action will not take effect. 
+
+See 1991 Amendments § 7002(e)(5)(A-G); 49 U.S.C. 
+
+app. § 2456(f)(5)(A-G) (App. at 73a; 100a). Thus, 
+
+all decisionmaking authority now resides solely in the 
+
+Board of Directors, subject only to a validly enacted fed- 
+
+eral statute that can trump a proposed action by the 
+
+Board of Directors. 
+
+
+2. Strengthening of the Appointment and Removal 
+Powers of the Non-Federal Authority’s Directors. 
+
+
+This Court found it “[m]Jost significant” that “member- 
+ship on the [old] Board of Review is limited to federal 
+officials, specifically members of congressional committees 
+charged with authority over air transportation.” CAAN, 
+501 U.S. at 266-67. It further noted that although the 
+appointments must be made from the lists of nominees 
+“ ‘provided by the Speaker of the House . . . or the Presi- 
+
+
+dent pro tempore of the Senate’ . . . there is no require- \ 
+ment that the lists contain more recommendations than 
+the number of Board openings.” Jd. at 268 (citation t 
+
+
+omitted). Also troubling was that the “Transfer Act im- 
+poses no requirement that the Members of Congress who 
+are appointed to the Board actually be users of the air- 
+ports.” Jd. at 267. Finally, this Court was persuaded 
+that under the original Transfer Act, “[c]ontrol over com- 
+mittee assignments . . . gives Congress effective removal 
+
+
+™ 
+
+
+11 
+
+
+power over Board [of Review] members. . .” CAAN, 
+501 U.S. at 269. 
+
+
+The 1991 Amendments cured these concerns. See 
+1991 Amendments § 7002(a)(1); 49 U.S.C. app. § 2456 
+(f)(1); Bylaws, art. IV, § 1 (App. at 69a; 95a; 203a). 
+Membership on the Board of Review is no longer lim- 
+ited to specific committee members, or even to Members 
+of Congress. It is now open to all individuals (except 
+those residing in the local area) with experience in avia- 
+tion matters and in addressing the needs of airport users. 
+See 1991 Amendments § 7002(b)(2)(C); 49 U.S.C. 
+app. § 2456(f)(2)(C); see also Bylaws, art. IV, § 2 
+(App. at 70a; 96a; 204a). In addition, appointees now 
+must be “frequent users” of the Airports. See 1991 
+Amendments § 7002(b)(2)(C); 49 U.S.C. app. § 2456 
+(f)(2)(C); Bylaws, art. IV, §2 (App. at 70a; 96a; 
+204a).° While the Authority’s Directors still choose the 
+members of the Board of Review from lists provided by 
+the Speaker of the House and the President pro tempore 
+of the Senate, the 1991 Amendments expressly and un- 
+conditionally permit the Directors to request additional 
+recommendations if they are not completely satisfied with 
+the names submitted. See 1991 Amendments § 7002 
+(a)(1); 49 U.S.C. app. § 2456(f)(1); Bylaws, art. IV, 
+§ 1.d (App. at 69a; 95a; 204a). Finally, the removal 
+power is exclusively in the Authority, not in Congress: 
+the 1991 Amendments expressly authorize the Authority 
+to remove a member of the Board of Review for cause 
+by a two-thirds vote of the Board of Directors. See 1991 
+Amendments § 7002(f)(11); 49 US.C. app. § 2456 
+(f) (11); Bylaws, art. IV, § 4 (App. at 78a; 105a; 204a). 
+
+
+® In accordance with the new lease terms, the Board of Directors 
+of the Airports Authority terminated the old Board of Review, 
+issued new Bylaws and appointed a new Board of Review. Today, 
+four of the nine members of the Board of Review are not Members 
+of Congress. 
+
+
+12 
+REASONS FOR GRANTING THE WRIT 
+
+
+I. EVEN THOUGH CONGRESS FOLLOWED THIS 
+COURT'S CONSTITUTIONAL GUIDANCE IN 
+AMENDING THE TRANSFER ACT, THE 
+AMENDED ACT WAS STRUCK DOWN ON NEW 
+GROUNDS THAT REACH BEYOND THIS COURT'S 
+PRECEDENTS. 
+
+
+This Court consistently grants its writ of certiorari in 
+cases where a lower court has held an Act of Congress 
+unconstitutional. See FCC v. Beach Communications, 
+Inc., 113 S. Ct. 2096, 2101 (1993) (“Because the Court 
+of Appeals held an Act of Congress unconstitutional, we 
+granted certiorari”); United States v. Gainey, 380 USS. 
+63, 65 (1965) (“We granted certiorari . . . to review the 
+exercise of the grave power of annulling an Act of Con- 
+gress”). In large part, this is because of the strong pre- 
+sumption of constitutionality accorded to Acts of Con- 
+gress. See Bowen v. Kendrick, 483 U.S. 1304 (1987) 
+(Rehnquist, C.J. in chambers) (“ ‘Given the presumption 
+of constitutionality granted to all Acts of Congress,’ it is 
+. . . likely that the Court will note probable jurisdiction 
+here . . .”), quoting Schweiker v. McClure, 452 USS. 
+1301, 1303 (1981) (Rehnquist, J. in chambers). This 
+presumption is especially strong when Congress has spe- 
+cifically considered the question of an Act’s constitution- 
+ality. Rostker v. Goldberg, 453 U.S. 57, 64 (1981). 
+
+
+Here, Congress held extensive hearings, including testi- 
+mony from constitutional law experts, to determine how 
+best to satisfy the constitutional problems identified by 
+this Court\in CAAN. See Amendments to the Metro- 
+politan Washington Airports Authority Act of 1986: 
+Hearing Before the Subcomm. on Aviation of the House 
+Comm. on Public Works and Transportation (102-30), 
+102d Cong., Ist Sess. 138-49 (1991) (testimony of 
+Johnny H. Killian, Senior Specialist, American Constitu- 
+tional. Law, Congressional Research Service, and Jessica 
+Korn, Special Guest, Governmental Studies Program, 
+
+
+13 
+
+
+Brookings Institution). Congress then amended the 
+Board of Review provisions of the Transfer Act to re- 
+spond to each of the points raised by this Court. Con- 
+gress eliminated this Court’s central concern with the 
+original Transfer Act—namely the veto power—a con- 
+cern firmly rooted in INS v. Chadha, 462 U.S. 919 
+(1983). Hechinger, slip op. at 2; App. at 2a. In its place 
+a two-tiered report-and-wait provision was enacted, also 
+based on longstanding precedents of this Court upholding 
+comparable statutes. See, e.g., Alaska Airlines y. Brock, 
+480 U.S. 678 (1987).° In addition, responding directly 
+to language in CAAN, Congress both eliminated the re- 
+quirement that Board members be Members of Congress 
+and added the requirement that Board members be “fre- 
+quent users” of the airports. See 49 U.S.C. app. § 2456 
+(f)(2)(C). Finally, the 1991 Amendments Clearly vest 
+the power both to appoint and to remove Board members 
+in the Airports Authority. 
+
+
+The court below acknowledged that Congress had 
+eliminated the provisions deemed constitutionally offen- 
+sive in CANN. Hechinger, slip op. at 1, 3; App. at 2a, 
+3a. It nonetheless reached beyond the precedents of this 
+Court to invalidate the 1991 Amendments because, in its 
+view, they impose “other” qualifications on Board mem- 
+bership and create “other powers” that cause the new ad- 
+visory Board to “continue to offend the Constitution.” Id. 
+at 1 (emphasis added); App. at 2a. To the contrary, the 
+1991 Amendments were drafted according to blueprints 
+supplied by this Court. Indeed, the history of the 1991 
+Amendments presents a “paradigm of a Congress aware 
+of constitutional constraints on its power and carefully 
+seeking to act within those limitations.” Nixon vy. Ad- 
+ministrator of Gen. Serv., 433 U.S. 425, 482 n.47 (1977). 
+Certainly, if all Acts of Congress are entitled to a pre- 
+
+
+® The constitutionality of this report-and-wait period is discussed 
+in Section II, below. 
+
+
+14 
+
+
+sumption of constitutionality, and if that presumption is 
+stronger when Congress has considered constitutional ques- 
+tions associated with a statute, then a decision by a lower 
+court to strke down statutory amendments crafted by 
+Congress with the express purpose of curing constitutional 
+infirmities previously identified by this Court warrants re- 
+view on a writ of certiorari. 
+
+
+If. THE DECISION BELOW THAT AGENTS OF CON- 
+GRESS MAY NOT RENDER ADVICE IN WAYS 
+THAT COULD AFFECT MERELY THE TIMING 
+OF EXECUTIVE DECISIONMAKING CONFLICTS 
+WITH THE SEPARATION OF POWERS DECISIONS 
+OF THIS COURT IN ALASKA AIRLINES AND OF 
+THE NINTH AND THIRD CIRCUITS. 
+
+
+The court below concluded that the new Board of Re- 
+view, in its view still an agent of Congress, retains con- 
+trol over the Authority’s actions in violation of separation 
+of powers principles. While the court pointed to several 
+factors that enabled the Board of Review to influence 
+the Directors’ decisionmaking responsibilities, see Hech- 
+inger, slip op. at 9-16, App. at 10a-19a, what “tip[ped] 
+the balance” and amounted to impermissible “leverage” 
+was the Board of Review’s power to issue recommenda- 
+tions, which could affect whether proposed Authority ac- 
+tions take place immediately or are referred to Congress 
+for a “report-and-wait” period. See id. at 12, 16; App. 
+at 12a, 17a. The court of appeals essentially held that ad- 
+vice or influence (caused merely by delay) flowing from 
+one branch of government to another, even in the absence 
+of ultimate authority to coerce compliance, violates separa- 
+tion of powers principles. Even assuming arguendo that 
+the Board of Review is an agent of Congress, which peti- 
+tioners strenuously dispute, see Section ITI, infra, peti- 
+tioners respectfully submit that the court of appeals’ hold- 
+ing conflicts with the decisions of this Court and other 
+federal circuits and, indeed, contravenes the original in- 
+tent of the Framers with respect to separation of powers. 
+
+
+The distinction between “control” and “advice” or 
+“influence” was recognized by Madison in his treatment 
+
+
+15 
+
+
+of separation of powers in the Federalist Papers. As the 
+court of appeals noted, Madison cautioned against the 
+“encroachment” of legislative power against the coordi- 
+nate branches of government. See Hechinger, slip op. at 
+15 (citation omitted); App. at 16a. But Madison also 
+stated that separation of powers “does not require that the 
+legislative, executive, and judiciary departments should be 
+wholly unconnected with each other.” See THE FEDERALIST 
+No. 48, at 308 (James Madison) (Clinton Rossiter ed., 
+1961). On the contrary, the Framers regarded the prin- 
+ciple of separation of powers as allowing for advice and 
+consultation between coordinate branches of government. 
+See THE FEDERALIST No. 47, at 302 (James Madison) 
+(Clinton Rossiter ed., 1961) (citing the British practice 
+of allowing judges to attend and participate in delibera- 
+tions of Parliament without allowing them to vote, in 
+Support of the idea that some participation by members 
+of one branch in activities of another does not necessarily 
+threaten virtues associated with separation of powers). 
+The holding of the court below thus runs contrary to the 
+Framers’ more flexible view. 
+
+
+Decisions of this Court reflect the historical distinction 
+between control on the one hand and advice and in- 
+fluence on the other, holding that Congress or its agents 
+may properly attempt to advise and influence the Execu- 
+tive branch, but may not ultimately control Executive 
+branch decisions without conforming to the Bicameralism 
+and Presentment Clauses of Article I, § 7. In Bowsher 
+v. Synar, this Court struck down certain provisions of the 
+Gramm-Rudman-Hollings Act giving the Comptroller 
+General—an admitted agent of Congress—“the ultimate 
+authority” to determine budget cuts and thus depriving 
+the President of any discretion in carrying out this in- 
+herently federal executive task. See Bowsher, 478 U.S. 
+714, 732-33 (1986) (emphasis added). In contrast, this 
+Court has consistently upheld statutory requirements that 
+agency actions be submitted to a committee of Congress 
+for a report-and-wait period prior to taking effect, recog- 
+
+
+16 
+
+
+nizing that “[t]his interval gives Congress an opportunity 
+to review the regulations and either to attempt to influ- 
+ence the agency’s decision, or to enact legislation prevent- 
+ing the regulations from taking effect.” Alaska Airlines 
+v. Brock, 480 U.S. 678, 690 (1987) (emphasis added); 
+see also Dalton v. Specter, 114 S. Ct. 1719 (1994) (up- 
+holding constitutionality of statute which requires base 
+closure commission to submit recommendations to House 
+and Senate Armed Services Committees for a report-and- 
+wait period prior to closing bases); Sibbach v. Wilson & 
+Co., 312 US. 1, 7-8 (1941) (upholding six-month 
+report-and-wait period). This control/influence dichot- 
+omy is particularly clear in INS v. Chadha, where this 
+Court held unconstitutional a one-house veto provision in 
+the Immigration and Nationality Act which allowed a 
+single house of Congress to veto decisions by the Attor- 
+ney General to cancel deportation actions, Chadha, 462 
+U.S. 919, 923 (1983), yet supported the constitutionality 
+of a report-and-wait period during which proposed actions 
+of the Attorney General could be stayed, reviewed and, 
+if necessary, reversed through legislation. Jd. at 935 n.9. 
+
+
+In CAAN itself, this Court struck down the veto pro- 
+vision of the original Transfer Act on the ground that 
+Congress may not retain “control, outside the ordinary 
+legislative process,” of governmental entities it has created 
+by statute. CAAN, 501 U.S. at 277. The Court in 
+CAAN further held that Congress is constrained by the 
+Article I requirements of bicameralism and presentment 
+only when it “makes binding policy” or “act[s] with con- 
+clusive effect.” Id. at 274 n.19 (emphasis added). This 
+Court has never held that the Constitution forbids agents 
+of Congress from advising or even influencing agency 
+decisions where ultimate decisionmaking authority rests 
+either with the agency or with Congress acting in its 
+constitutionally prescribed legislative capacity. The idea 
+that mere “advice” or “influence” by agents of Congress 
+could constitute a violation of separation of powers prin- 
+ciples is an inappropriate extension of an invention of 
+
+
+17 
+
+
+the D.C. Circuit in an earlier decision upon which the 
+court below relied. See Hechinger, slip op. at 10-11, 
+App. at 1la-12a, citing Federal Election Comm’n v. NRA 
+Political Victory Fund, 6 F.3d 821 (D.C. Cir. 1993), 
+cert. granted, 114 S. Ct. 2703 (1994) (“FEC v. NRA”), 
+Such reasoning is not to be found in this Court’s decision 
+in CAAN. 
+
+
+In FEC v. NRA, which is currently pending before this 
+Court, the D.C. Circuit invalidated a Federal Election 
+Commission (“FEC”) enforcement action against the NRA 
+Political Victory Fund because the FEC Act provided 
+for the participation of the Secretary of the Senate and 
+Clerk of the House as ex-officio ( non-voting) members 
+of the commission. These employees, appointed and re- 
+movable by Congress at will, were able to participate and 
+represent the interests of Congress in the sensitive delib- 
+erations of a bipartisan agency concerning campaign fi- 
+nance and enforcement, issues that often involve congres- 
+sional elections or even specific Members of Congress. 
+Whatever the outcome of FEC v. NRA, the nature of 
+congressional participation in federal executive decision- 
+making implicated by the circumstances of that case bears 
+no resemblance to the functions of a separate advisory 
+board of frequent airport users to a non-federal Authority, 
+which appoints and removes those board members. 
+
+
+In holding that separation of powers principles pre- 
+clude an agent of Congress from exerting influence that 
+may affect the timing of an agency’s actions, even though 
+such agent cannot determine the result, the decision of 
+the court below directly conflicts with the decisions of 
+other circuit courts that have considered a substantially 
+identical question. Both the Ninth and Third Circuits 
+have upheld a “two-tiered” report-and-wait provision in 
+the Competition in Contracting Act (“CICA”) under 
+which the Comptroller General is vested with authority 
+to impose waiting periods of varying lengths on agency 
+procurement decisions prior to referring such decisions 
+to Congress. See Lear Siegler, Inc. Energy Prods. Div. v. 
+
+
+18 
+
+
+Lehman, 842 F.2d 1102 (9th Cir. 1988), irrelevant por- 
+tion withdrawn en banc, 893 F.2d 205 (9th Cir. 1989); 
+Ameron, Inc. v. United States Army Corps of Eng’rs, 809 
+F.2d 979 (3d Cir. 1986), cert. dismissed, 488 U.S. 918 
+(1988). Pursuant to CICA, the Comptroller General 
+(clearly a congressional agent, see Bowsher, 478 U.S. at 
+732) has the authority to stay any government contract- 
+ing proceeding in which a bid protest has been filed. See 
+Ameron, 809 F.2d at 983-86 & n.5. The Comptroller 
+General then has 90 working days to file a report con- 
+taining his recommendations with the procuring execu- 
+tive branch agency. The procuring agency is not bound 
+to accept the recommendations of the Comptroller Gen- 
+eral, just as in the present case the Authority need not 
+accept the Board of Review’s recommendation. But if 
+the procuring agency does not accept the recommendation, 
+the Comptroller General must file a written report with 
+Congress explaining why the procuring agency did not 
+accept the recommendation. 
+
+
+The key to the Third Circuit’s holding in Ameron was 
+that CICA “do[es] not compel procuring agencies to obey 
+the recommendation of the Comptroller General,” id. at 
+986 (emphasis added), even though the authority of the 
+Comptroller General to file a report with Congress is a 
+“persuasive mechanism” through which Congress may in- 
+fluence the procurement process and “compel the execu- 
+tive to listen” to the Comptroller General’s opinions. /d. 
+The Ninth Circuit in Lear Siegler relied upon the same 
+compulsion/influence distinction in upholding the consti- 
+tutionality of CICA. The Ninth Circuit held that the con- 
+Stitutionally relevant issue is whether an agent of Con- 
+gress “control[s]” or retains “ultimate authority” over the 
+administrative agency, as opposed to whether it merely 
+“affects[s]” the agency. Lear Siegler, 842 F.2d at 1108. 
+In fact, that court explicitly ruled that a legislative device 
+allowing an agent of Congress time to influence (but not 
+control) Executive branch agencies is constitutionally 
+permissible. Jd. at 1109 (“[A] report-and-wait provision 
+
+
+19 
+
+
+is proper even if the time is used by congressional com- 
+mittee members to pressure an executive official to alter 
+a... decision”), citing City of Alexandria v. United 
+States, 737 F.2d 1022, 1026 (Fed. Cir. 1984). 
+
+
+10 The present case is even more compelling on this point than 
+Lear Siegler or Ameron, because here the entity with whose power 
+the Board of Review supposedly interferes is not the coordinate, 
+co-equal Executive Branch of the federal government. The Author- 
+ity is “an independent local agency,” 49 U.S.C. app. § 2451 (4), 
+which is “created by the Commonwealth of Virginia and the Dis- 
+trict of Columbia...” 49 U.S.C. app. § 2453(2). Moreover, the 
+Board of Review was not imposed directly on the Authority by 
+federal statute; rather, it was created by an interstate compact, 
+pursuant to the laws of Virginia and the District of Columbia, to 
+satisfy a condition of the federal lease of the Airports. Thus, 
+acceptance of the Board of Review and its advice was the voluntary 
+act of a non-federal agency. 
+
+
+Until CAAN, this Court had never applied separation of powers 
+principles to invalidate interference by a branch of the federal 
+government with a branch of a state or local government or other 
+non-federal agency. In CAAN, the exercise of a veto by specific 
+Members of Congress may have seemed so transparent an aggran- 
+dizement of congressional power (such as that struck down by 
+Chadha) that the issue of interference with a coordinate, co-equal 
+branch (until then a linchpin of separation of powers analysis) was 
+not addressed. Here, however, the issue is squarely presented: 
+whether there can be a violation of federal separation of powers 
+where there is no indication of any interference with a coordinate, 
+co-equal branch of the federal government. See Mistretta v. United 
+States, 488 U.S. 361, 881-82 (no encroachment on coordinate 
+branch); Bowsher v. Synar, 478 U.S. 714, 727 (“usurpation of 
+[federal] Executive Branch functions” by congressional agent) ; 
+Nixon v. Administrator of General Services, 483 U.S. 425, 443 
+(1977) (“preventing the Executive Branch from accomplishing its 
+constitutionally assigned functions”). Even Springer v. Govern- 
+ment of the Philippine Islands, 277 U.S. 189 (1928) involved the 
+intrusion by one branch of a federal territorial government into 
+the affairs of a coordinate, co-equal federal territorial branch. By 
+contrast, even this Court’s opinion in CAAN reads the relevant 
+constitutional history as suggesting that a Member of Congress 
+may hold a state office so long as “concurrent federal office is [not] 
+a prerequisite” for holding the putatively state office. CAAN, 501 
+U.S. at 270 n.16 (emphasis added), citing 1 M. FARRAND, RECORDS 
+OF THE FEDERAL CONVENTION OF 1787, pp. 20-21, 217, 386, 389, 428- 
+
+
+20 
+
+
+The court below attempted to distinguish Lear Siegler 
+and Ameron on two grounds: (1) that the Board of 
+Review's authority is significantly greater than that of 
+the Comptroller General, who can initiate a waiting pe- 
+riod under CICA only when a third party files a com- 
+plaint, Hechinger, slip op. at 14, App. at 14a; and (2) 
+that under CICA the executive agency may override the 
+Comptroller General’s stay on a showing of urgent or 
+compelling circumstances. Id.; App. at 14a-15a. The 
+first distinction is constitutionally irrelevant because the 
+scope of a congressional agent’s constitutional authority 
+to act is simply not dependent upon whether the act is 
+self-initiated or whether it is in response to the request 
+of a private citizen. Moreover, the Board of Review can- 
+not freely target or randomly choose matters for the report- 
+and-wait period. The 1991 Amendments (as incorporated 
+in the Bylaws) specify precisely the areas subject to re- 
+view and recommendation. As to the second distinction, 
+the Transfer Act provides safeguards just as does CICA 
+with respect to matters of an urgent or compelling nature. 
+Since under the Act only certain enumerated matters are 
+submitted to the Board, the Airports Authority remains 
+free to act in areas related to the daily operation of the 
+airports. See 49 U.S.C. app. § 2456(f)(4)(B); see also 
+§ 2456(f)(4)(E) (Authority permitted to service debt 
+and to obligate and expend funds for previously author- 
+ized capital expenditures and routine operating expenses 
+even if there is no approved budget). Thus, any differ- 
+ences between this case and the CICA report-and-wait 
+provision upheld in Lear Siegler and Ameron are con- 
+stitutionally insignificant. 
+
+The decisions of this Court in CAAN and Alaska Air- 
+lines, as well as the decisions of the Third Circuit in 
+Ameron and the Ninth Circuit in Lear Siegler, represent 
+the controlling view that the principle of separation of 
+powers is flexible enough “to accommodate the practical 
+
+
+429 (1911). As indicated in Section III, infra, membership in 
+Congress is no longer a prerequisite for membership on the Board 
+of Review. 
+
+
+21 
+
+
+exigencies of an emerging nation” by allowing inter- 
+action between branches of government under certain 
+circumstances. See STEPHEN G. BREYER & RICHARD B. 
+STEWART, ADMINISTRATIVE LAW AND REGULATORY PoL- 
+Icy at 35 (3d ed. 1992). The court below has adopted 
+the position that an agent of Congress may not play even 
+an informational or advisory role in the decisionmaking 
+process of an executive body. Hechinger, slip opr at 
+14-15; App. at 15a-16a. This Court has never held that 
+such an impenetrable wall must be erected between the 
+branches of the federal government. To the contrary, in 
+today’s widely perceived atmosphere of gridlock, it appears 
+that the founding fathers showed remarkable foresight in 
+framing a Constitution that “anticipates that the coordinate 
+Branches will converse with each other on matters of 
+vital common interest.” Mistretta v. United States, 488 
+U.S. 361, 408 (1989) (upholding “statutory provisions 
+that to some degree commingle the functions of the 
+Branches, but that pose no danger of either aggrandize- 
+ment or encroachment”). The failure of the court below 
+to recognize the constitutional distinction between con- 
+trol and mere advice or influence, so persuasively estab- 
+lished by the intent of the Framers and the decisions of 
+this Court and other federal circuits, warrants review 
+by this Court. 
+
+
+III. IN HOLDING THAT THE BOARD OF REVIEW IS 
+A CONGRESSIONAL AGENT THE COURT BELOW 
+MISCONSTRUED SEPARATION OF POWERS 
+DOCTRINE WITH RESPECT TO (1) CONGRESS’ 
+POWER TO PRESCRIBE QUALIFICATIONS AND 
+PROCEDURES FOR APPOINTMENT, (2) THE SIG- 
+NIFICANCE OF THE AUTHORITY’S EXPRESS 
+REMOVAL POWER, AND (3) THE AUTHORITY’S 
+APPOINTMENT OF SITTING MEMBERS OF CON- 
+GRESS TO A NON-FEDERAL BOARD. 
+
+
+The court of appeals held that notwithstanding the 
+amended statute’s revised criteria for membership and 
+revised appointment and removal procedures, the Board 
+of Review still constitutes an agent of Congress. See 
+
+
+22 
+
+
+Hechinger, slip op. at 9; App. at 10a. In doing so, the 
+court below relied upon three constitutionally flawed ra- 
+tionales which, given their potentially sweeping implica- 
+tions, warrant review by this Court. First, the court of 
+appeals concluded that the Board is a congressional agent 
+because Congress prescribed statutory qualifications and 
+procedures for the appointment of its members. The court 
+reasoned that congressionally mandated qualifications re- 
+lating to residence, airport use and expertise qualified a 
+number of sitting Members of Congress, see id. at 8-9, and 
+that appointment by the Authority from lists provided by 
+the Speaker of the House and the President pro tempore 
+of the Senate was tantamount to appointment of such 
+members by Congress (even though the Authority is free 
+to reject names on the lists and without any limitation to 
+request additional names, see id., and non-Members of 
+Congress are surely eligible and have been appointed). 
+Second, the court below undervalued the critical impor- 
+tance of the Authority’s removal power in determining 
+whether the Board of Review is an agent of Congress 
+under this Court’s separation of powers jurisprudence. 
+See id. Third, the court below found the Board to be a 
+congressional agent because five of nine members cur- 
+rently serve in Congress. See id. Each of these rationales 
+either contradicts or is in tension with fundamental teach- 
+ings of this Court. 
+
+
+Far from excluding Congress from the appointment 
+process, the Constitution grants to the Senate the power 
+to confirm the appointments of officers of the United 
+States. U.S. Const. art. II, § 2, cl. 2. This Court has 
+also held that Congress has the power to set qualifica- 
+tions for all offices created by statute. See Crenshaw v. 
+United States, 134 U.S. 99, 105-06 (1890). Congress 
+exercised that power here in defining qualifications and 
+setting forth procedures for the Authority to appoint 
+members of the Board of Review. In condemning this 
+congressional involvement in the appointment of Board 
+of Review members, the court below unjustifiably cir- 
+
+
+23 
+
+
+cumscribed Congress’ role in creating offices and delineat- 
+ing the universe of persons qualified to fill them.” 
+
+
+The 1991 Amendments set three neutral qualifications 
+for membership on the Board of Review—all of which 
+support the goal of ensuring that the Board will protect 
+the interests of nationwide users of the airports. The 
+first criterion, that members not reside in Maryland, Vir- 
+ginia, or the District of Columbia, simply ensures that 
+the Board will reflect national rather than local interests.?” 
+The second qualification, that members have experience 
+in aviation matters, imposes the unremarkable require- 
+ment that Board members possess knowledge of the rele- 
+vant subject area. The third qualification, that Board 
+members be frequent users of the airports, was specifically 
+suggested by this Court in CAAN as a way of ensuring 
+
+
+11 The court below did not hold that the qualifications require- 
+ments and appointment procedures violated the Appointments 
+Clause, but only that they indicated that the Board of Review was 
+an agent of Congress for separation of powers purposes, see 
+Hechinger, slip op. at 9; App. at 9a-10a; the district court held 
+that the analysis in either case “should [not] be any different.” 
+845 F. Supp. at 909; App. at 33a. 
+
+
+12 The interests of local residents are already represented by the 
+Board of Directors of the Authority itself since 10 of the 11 Direc- 
+tors must reside within the Washington Standard Metropolitan 
+Statistical Area. This requirement, first enacted by Virginia and 
+the District of Columbia in chartering the Authority, may explain 
+why Congress proposed that a mechanism to provide for considera- 
+tion of the views of nationwide users should become a condition of 
+the federal lease. See 49 U.S.C. app. § 2456(e) (1) and (2). 
+
+
+The importance to Congress of ensuring a nationwide user per- 
+spective is evidenced by the amended Transfer Act’s retention of the . 
+so-called “drop-dead” clause, which prevents the Authority from 
+taking certain actions in the event a judicial order renders the 
+Board of Review unable to carry out its functions. 49 U.S.C. app. 
+§ 2456(f) (6). While the court below held, without citation or 
+analysis, that the presence of the “drop-dead” clause is evidence 
+that the Board of Review is an agent of Congress, the clause is 
+more properly regarded as nothing more than an ordinary non- 
+severability provision demonstrating Congress’ intent that a guar- 
+anteed nationwide user perspective be included in the Lease. 
+
+
+24 
+
+
+that Board members actually have a user perspective on 
+the airports. See CAAN, 501 USS. at 267. 
+
+
+Under the rubric of “look[ing] beyond explicit terms” 
+of a facially valid statute, the court below held that since 
+“as a practical matter, relatively few individuals other 
+than members or alumni” of transportation-related con- 
+gressional committees will be able to meet the statutory 
+criteria for Board membership, the statute even as 
+amended fails to satisfy the concerns previously expressed 
+by this Court. See Hechinger, slip op. at 8; App. at 8a. In 
+fact, four current Board members are not Members of 
+Congress. While three of these are former Members of 
+Congress, the court of appeals gave no principled reason 
+why the presence of congressional “alumni” should raise 
+constitutional concerns. Moreover, the court below was 
+clearly wrong in underestimating the number of poten- 
+tially qualified persons who live outside the region, fre- 
+quently use the airports, and are knowledgeable about 
+aviation matters, e.g., state officials, association and avia- 
+tion industry representatives, academics, former federal 
+employees and many others. 
+
+
+This Court also has upheld the use of lists as a con- 
+stitutionally permissible method for Congress to partici- 
+pate in the appointment process. See Mistretta v. United 
+States, 488 U.S. 361 (1989) (upholding Congress’ power 
+to require the President to appoint three federal judges 
+to the United States Sentencing Commission, having con- 
+sidered a list of six judges recommended by the Judicial 
+Conference of the United States); Bowsher, 478 U.S. at 
+727-28 (this Court did not dispute a statutory require- 
+ment that the Comptroller General be appointed by the 
+President from a list of three candidates submitted by the 
+Speaker of the House and the President pro tempore of 
+the Senate); see also Myers v. United States, 272 US. 
+52, 128-29 (1926). What troubled this Court in CAAN 
+
+
+18 The principle behind these cases is simple: Congress can pre- 
+scribe procedures and qualifications for appointment to office, in- 
+cluding the requirement of a nominating list created by agents of 
+Congress, as long as these qualifications do not amount to a “legis- 
+
+
+25 
+
+
+was that under the unamended Transfer Acct, appoint- 
+ments were made from lists of only Members of Congress, 
+with no requirement that the lists contain more recom- 
+mendations than the number of Board openings. CAAN, 
+501 U.S. at 268. CAAN noted that “(t]he list system, 
+combined with congressional authority over committee 
+assignments, guarantees Congress effective control over 
+appointments.” Jd. at 269 (emphasis added ). 
+
+
+The 1991 Amendments removed any requirement that 
+members of the Board of Review sit on particular com- 
+mittees, or, indeed, even be Members of Congress. As for 
+the lists themselves, the amended Transfer Act ensures the 
+Authority’s appointment discretion by expressly authorizing 
+it to request additional names if it is not satisfied with 
+the names on the lists. See 49 U.S.C. app. § 2456(f)(1). 
+But the court below dismissed the significance of the 
+Authority’s power to request additional names, asserting 
+
+
+lative designation” of the appointee. See Myers, 272 U.S. at 128-29. 
+As one district court synthesized the rule, the appointment power 
+is confined by such limitations as the authority creating the office 
+sees fit to impose as long as such limitations are not a legislative 
+designation of the appointee: “In general, Congress, pursuant to 
+its power to create inferior federal offices, has the power to 
+prescribe reasonable qualifications for office; while the President, 
+pursuant to his constitutional power of appointment, has the 
+authority to select for appointment from among those designated 
+by Congress as qualified.” Mow Sun Wong v. Hampton, 435 
+F. Supp. 37, 41 n.6 (N.D. Cal. 1977), aff'd, 626 F.2d 789 (9th Cir. 
+1980), citing Myers, 272 U.S. 52, 128-29 (emphasis added); see 
+also 29 Op. Att’y Gen. 254, 256 (1911) (“Congress may point out 
+the general class of individuals from which an appointment must be 
+made, if made at all, but it can not control the President’s discre- 
+tion to the extent of compelling him to commission a designated 
+individual.”). Moreover, the findings of the court below on this 
+issue were in conflict with the circuit’s decision in FEC v. NRA, 
+where the court rejected as nonjusticiable a separation of powers 
+challenge to the statutory qualifications for FEC appointment be- 
+cause only the appointing power would know whether it was 
+constrained by the statutory limitations. 6 F.3d 821 (D.C. Cir. 1993) 
+(citing numerous authorities for the proposition that an appointing 
+Power may view statutory restrictions as not legally binding). 
+
+
+26 
+
+
+that “we have little doubt who would win a test of wills.” 
+Hechinger, slip op. at 9; App. at 9a. This view ignores the 
+fact that this Court in Bowsher upheld a statute with an 
+identical non-exhaustive list provision. See generally 
+Bowsher, 478 U.S. 714 (1986) (construing 31 U.S.C. 
+§ 703 which provides, inter alia, that, in appointing a 
+Comptrolier General from a congressionally prescribed list, 
+“(t]he President may ask the commission [of Members of 
+Congress] to recommend additional individuals,” 31 U.S.C. 
+§ 703(a)(3) (1988) ).* More troubling, the court of ap- 
+peals’ willingness to construe the amended Transfer Act in 
+the way most likely to raise constitutional doubt violates 
+the canon, long applied by this Court, of construing stat- 
+utes to avoid constitutional problems where possible. See, 
+e.g., NLRB v. Catholic Bishop of Chicago, 440 U.S. 490 
+(1979); Kent v. Dulles, 357 U.S. 116 (1958); Ash- 
+wander v. Tennessee Valley Auth., 297 U.S. 288, 348 
+(1936) (Brandeis, J., concurring). A plainer reading 
+of the statute, that at the Authority’s request Congress 
+will provide additional names, would comport better with 
+this Court’s long-followed canons of statutory construc- 
+tion and would render illusory the concerns of the court 
+below. 
+
+
+In reaching the conclusion that the Board of Review 
+is an agent of Congress, the court of appeals’ decision 
+also ignores the fundamental principle that the power of 
+removal represents the dispositive factor in defining the 
+character of an agency. See Myers, 272 US. at 134 
+(traditional executive office characterized by authority of 
+President to “remove [the officer] without delay”); Hum- 
+
+
+14 Bowsher, of course, concluded that the Comptroller General was 
+an agent of Congress, but this conclusion was based solely on con- 
+gressional removal power, thus indicating not only that the power 
+to remove is determinative but also that the appointment power 
+itself does not establish the character of the office for purpose of 
+separation of powers analysis—otherwise both the Comptroller 
+General and the Chief Justice of the United States would be federal 
+executive officers since they are appointed by the President. 
+
+
+27 
+
+
+phrey’s Executor v. United States, 295 US. 602, 628 
+(1935) (Federal Trade Commission not an Executive 
+Branch agency because President’s removal power is lim- 
+ited by statute); Wiener v. United States, 357 U.S. 349, 
+353 (1958) (members of presidentially-appointed War 
+Claims Commission not within Executive Branch because 
+President does not have removal power); Bowsher, 478 
+U.S. at 727-28 (Comptroller General is agent of Congress 
+rather than the Executive because, although appointed by 
+the President, he is “removable only at the initiative of 
+Congress”). Under the original Transfer Act, this Court 
+concluded that the ability of the congressional leadership 
+to change committee assignments vested removal power 
+in Congress. CAAN, 501 U.S. at 269. But under the 
+amended Transfer Act, members of the Board of Review 
+are removable only by the Authority and not by Congress. 
+49 US.C. app. § 2456(f) ( 11). Thus, by holding that 
+members of the Board of Review are agents of Congress 
+even when Congress has no power to remove them from 
+Office, the court below has adopted a rule fundamentally 
+at odds with this Court’s Prior decisions, including 
+CAAN. 
+
+
+Lastly, the court of appeals’ opinion assumes that, be- 
+cause some members of the Board of Review are Mem- 
+bers of Congress, the Board of Review must be charac- 
+terized as an agent of Congress. See Hechinger, slip op. 
+at 8; App. 8a-9a. On this point petitioners respectfully 
+submit that the court below misread this Court’s reasoning 
+in CAAN and overlooked the fact that a non-federal, in- 
+terstate agency rather than a federal entity is at issue. In 
+CAAN, the Court acknowledged the Framers’ intent that 
+Members of Congress not be precluded from holding non- 
+federal office. CAAN, 501 U.S. at 270 n.16. Nor did 
+CAAN suggest that Members could not serve on an ad- 
+visory board. CAAN, 501 U.S. at 267; see also Mistretta 
+v. United States, 488 U.S. 361, 400-01 (1989) (describ- 
+ing longstanding tradition of inter-branch membership of 
+boards and commissions). What primarily prompted this 
+
+
+28 
+
+
+Court to hold that the Board was in fact an agent of Con- 
+gress was the requirement that Board members be mem- 
+bers of certain congressional committees, thereby allow- 
+ing committee assignments to dictate removal and ap- 
+pointment of Board members. See id. As noted above, 
+the 1991 Amendments cured the Transfer Act of this 
+defect. 
+
+
+In sum, Congress carefully amended the Transfer Act 
+to eliminate its control over the appointment of Board 
+members, to eliminate its control over the removal of 
+Board members, to eliminate its veto power over deci- 
+sions of the Airports Authority, and to create general, 
+neutral qualifications for Board membership. In fashion- 
+ing these changes Congress was guided by this Court’s 
+decision in CAAWN and by other precedents discussing 
+agency relationships under separation of powers doctrine. 
+Petitioners respectfully submit that the decision of the 
+court below wrongly implied an agency relationship be- 
+tween Congress and the Board of Review based on anal- 
+ysis contrary to the longstanding decisions of this Court. 
+
+
+CONCLUSION 
+
+
+For all of the foregoing reasons, a writ of certiorari 
+should issue to review the judgment of the United States 
+Court of Appeals for the District of Columbia Circuit. 
+
+
+Respectfully submitted, 
+Of Counsel: WILLIAM T. COLEMAN, JR. 
+GREGORY WOLFE Counsel of Record 
+EDWARD S. FAGGEN DONALD T. BLISS 
+LESLIE BERKOWITZ DEBRA A. VALENTINE 
+METROPOLITAN WASHINGTON MATTHEW B. PACHMAN 
+AIRPORTS AUTHORITY AND O’MELVENY & MYERS 
+ITS BOARD OF REVIEW 555 13th St., N.W. 
+44 Canal Center Plaza Washington, D.C. 20004 
+Alexandria, VA 22314 (202) 383-5325 
+
+
+(703) 739-8740 
+November 22, 1994 
+
+

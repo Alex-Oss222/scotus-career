@@ -1,0 +1,66 @@
+[
+  {
+    "record": "Kimberlin_v_Quinlan_merits_1995-06-12.md",
+    "eleven_blocks": true,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      150,
+      159
+    ],
+    "named_judgment_partition": true,
+    "named_proposition_majorities": true,
+    "actual_June12_refresh": "not entering same-day Kimberlin; common pregroup baseline",
+    "git": "deferred",
+    "first_four_exact_labels": true,
+    "historical_departure_line": true,
+    "final_record_sha256": "707d1d627f7aeaad93cb6ff433cdc2da336a0159aac6bdb82bf550461c95fa5b"
+  },
+  {
+    "record": "Commissioner_v_Schleier_merits_1995-06-14.md",
+    "eleven_blocks": true,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      165
+    ],
+    "named_judgment_partition": true,
+    "named_proposition_majorities": true,
+    "actual_June12_refresh": "completed; no material changed premise; see dated refresh receipt",
+    "git": "deferred",
+    "first_four_exact_labels": true,
+    "historical_departure_line": true,
+    "final_record_sha256": "fb2f72543eed6fc764cb4b3e5caacf7f693d99b199b43228b2b07ee4db21458a"
+  },
+  {
+    "record": "Chandris_Inc_v_Latsis_merits_1995-06-14.md",
+    "eleven_blocks": true,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      162,
+      162,
+      165
+    ],
+    "named_judgment_partition": true,
+    "named_proposition_majorities": true,
+    "actual_June12_refresh": "completed; no material changed premise; see dated refresh receipt",
+    "git": "deferred",
+    "first_four_exact_labels": true,
+    "historical_departure_line": true,
+    "final_record_sha256": "9e3b9755555d96c37e2d51cf6654d1e00ce89233366d400f6e2be857f8d44e40"
+  },
+  {
+    "record": "Witte_v_United_States_merits_1995-06-14.md",
+    "eleven_blocks": true,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      168,
+      171
+    ],
+    "named_judgment_partition": true,
+    "named_proposition_majorities": true,
+    "actual_June12_refresh": "completed; no material changed premise; see dated refresh receipt",
+    "git": "deferred",
+    "first_four_exact_labels": true,
+    "historical_departure_line": true,
+    "final_record_sha256": "ed8b8ff8bb556345f779dc83089b3f936eeb9dff675a40cf9418697c35d34c05"
+  }
+]

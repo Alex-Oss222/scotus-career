@@ -1,0 +1,211 @@
+{
+  "records": [
+    "terms\\OT1994\\records\\Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md",
+    "terms\\OT1994\\records\\Missouri_v_Jenkins_merits_1995-06-12.md",
+    "terms\\OT1994\\records\\Ryder_v_United_States_merits_1995-06-12.md",
+    "terms\\OT1994\\records\\City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md"
+  ],
+  "judgment_coalitions": {
+    "Hechinger constitutional": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Hechinger remedy": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Jenkins salaries affirm": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Jenkins salaries dissent": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "Jenkins quality affirm": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Jenkins quality dissent": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "Ryder reverse": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Milwaukee affirm": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ]
+  },
+  "proposition_coalitions": {
+    "Hechinger agency/control": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Hechinger h remedy": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Hechinger independent Article I (noncontrolling)": [
+      "Stone-Zsela"
+    ],
+    "Jenkins salaries": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Jenkins Freeman application": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Jenkins optional process (noncontrolling)": [
+      "Stone-Zsela"
+    ],
+    "Ryder timely direct remedy": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Ryder Article66 cure/preservation": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Milwaukee interest": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ]
+  },
+  "checks": [
+    {
+      "record": "terms\\OT1994\\records\\Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md",
+      "eleven_headings": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        161,
+        166
+      ],
+      "first_four_labels": true,
+      "final_initial_draft_review": true,
+      "parent_initial_review_adjustments": true
+    },
+    {
+      "record": "terms\\OT1994\\records\\Missouri_v_Jenkins_merits_1995-06-12.md",
+      "eleven_headings": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        161,
+        170
+      ],
+      "first_four_labels": true,
+      "final_initial_draft_review": true,
+      "parent_initial_review_adjustments": true
+    },
+    {
+      "record": "terms\\OT1994\\records\\Ryder_v_United_States_merits_1995-06-12.md",
+      "eleven_headings": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        160,
+        166
+      ],
+      "first_four_labels": true,
+      "final_initial_draft_review": true,
+      "parent_initial_review_adjustments": true
+    },
+    {
+      "record": "terms\\OT1994\\records\\City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md",
+      "eleven_headings": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        162
+      ],
+      "first_four_labels": true,
+      "final_initial_draft_review": true,
+      "parent_initial_review_adjustments": true
+    }
+  ],
+  "limitations": [
+    "No Git, commit/hash or repository-wide check was performed by assembly A.",
+    "No full-page AI reading of every recovered collateral source is claimed.",
+    "A broad line-range Stone read inadvertently displayed matter 77 material; no premise from it enters these four matters. Assembly A cannot serve as a Stone-blind context for matter 77."
+  ],
+  "statutory_citation_review": "Date-eligible petition page 3 note 2 and appendix introductory note expressly exclude the Metropolitan Washington Airports Act of 1986, as amended, from the July 5, 1994 recodification. Retain former-code \u00a72456 designation; no currently numbered counterpart is substituted and no operative repeal is assumed.",
+  "statutory_citation_primary_check": "Pub.L103272 \u00a77(b),108Stat1379 and schedule108Stat1394\u20131395 inspected directly. Relevant99-500/99-591 repeal rows specify\u00a7101(n)[H.R5205\u00a7324],former\u00a72311,notAirportsAct\u00a76007. Retain operative former-code\u00a72456 designation; no substantive correction."
+}

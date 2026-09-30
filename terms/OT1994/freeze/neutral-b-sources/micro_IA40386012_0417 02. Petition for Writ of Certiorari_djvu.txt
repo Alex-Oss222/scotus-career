@@ -1,0 +1,1805 @@
+Pins: D 
+94 455 SEP 1 2 199% 
+
+
+No. OFFICE OF JHE CLERK 
+
+
+In The Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1994 
+
+
+TYSON JOHNSON, ROBERT DEEVEY, AND 
+JOHN PAYNE, Petitioners 
+
+
+Vv. 
+
+
+HOUSTON JONES, Respondent. 
+
+
+Petition for a Writ of Certiorari to 
+the United States Court of Appeals 
+for the Seventh Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+MARK F. SMOLENS CHARLES A. ROTHFELD* 
+Flynn, Murphy, Ryan Mayer, Brown & Platt 
+
+& Seyring Suite 6500 
+Suite 3232 2000 Pennsylvania Ave., N.W. 
+
+
+30 North LaSalle Street Washington, D.C. 20036 
+Chicago, Illinois 60602 (202) 778-0616 
+(312) 372-3800 
+
+
+*Counsel of Record 
+
+
+QUESTION PRESENTED 
+
+
+Whether, in an action under 42 U.S.C. § 1983, the denial of 
+a public official’s motion seeking summary judgment on qualified 
+immunity grounds because the plaintiff failed to adduce any 
+evidence showing wrongful conduct may be challenged in an 
+interlocutory appeal. 
+
+
+(ii) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+JURISDICTION . , = ; | 
+STATUTE INVOLVED ... ar | 
+<9 80> 05) ) 1 erat Pe 2 
+REASONS FOR GRANTING THE PETITION. 5 
+A. The Decision Below Cannot be Reconciled With the 
+Holdings of Other Courts of Appeals ........ 5 
+B. The Decision Below is in Conflict With This Court's 
+Decisions....... ee ee ' a 18 
+
+
+et eh. 8 hae : 23 
+
+
+(111) 
+
+
+TABLE OF AUTHORITIES 
+
+
+». 
+
+Cases Pages 
+Anderson v. Creighton, 483 U.S. 635 
+
+(1987) . 7, 8. 16, 18, 19, 22 
+Anderson v. Liberty Lobby, Inc., 477 U.S 
+
+242 (1986) 21 
+Anderson v. Roberts, 823 F.2d 235 
+
+(Sth Cir. 1987) 12, 13 
+Armendariz v. Penman, 1994 WL 393477 
+
+(9th Cir. Aug. 1, 1994) 13 
+Austin v. Hamilton, 945 F.2d 1155 
+
+(10th Cir. 1991) 13. 14 
+Bonitz v. Fair, 804 §.2d 164 (1st 
+
+Cir. 1986) 19 
+Brown v. Grabowski, 922 F.2d {097 (3d 
+
+Cir. 1990), cert. denied, 111 S. Ct 
+
+2827 (1991) 16 
+Burgess v. Pierce County, 918 F.2d 104 
+
+(9th Cir. 1990) 12, 13 
+Caro v. Aponte-Roque, 878 F.2d | (Ist 
+
+Cir. 1989) 8 9 
+Celotex Corp. v. Catrett, 477 U.S. 317 
+
+(1986) 21 
+Cohen v. Beneficial Industrial Loan 
+
+Corp., 337 U.S. 541 (1949) 12. 20 
+Davis v. Scherer, 468 U.S. 183 
+
+(1984) 21, 22 
+DeVargas v. Mason & Hanger-Silas Mason 
+
+Co., $44 F.2d 714 (10th Cir. 1988) 13 
+Elder v. Holloway, 1148. Ct. 1019 
+
+
+(1994) 
+
+
+bl 
+
+
+(iv) 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Pages 
+
+Elliott v. Thomas, 937 F.2d 338 (7th 
+
+Cir. 1991), cert. denied. 112 S. 
+
+ce, Woes tee ee et es . 7 4-6, 15-20, 22 
+Febus-Rodriguez v. Betancourt-Lebron, 14 
+
+Yr. er titty. 99) . «ww ws 10 
+Giuffre v. Bissell, 1994 WL 401389 
+
+che ae ee, ae . pe, 16 
+Harlow v. Fitzgerald, 457 U.S. 800 (1982) .... 5, 19, 21, 22 
+Hunter v. Brvant, 112 8S. Ct. 534 (1992) . . 19, 21 
+Jasinski v. Adams, 781 F.2d 848 
+
+Pee See ee mee Ss; 
+Johnson-El v. Schoemehl, 878 F.2d 1043 
+
+{2 @ ao. | Merce As . aes 
+Kaminsky v. Rosenblum, 929 F.2d 922 
+
+so 2G A. . : | SNe ee tere Tels ~ 17 
+Kelly v. Bender, 23 F.3d 1328 (8th 
+
+as SEES eth gy la nee BELO rey anes 1 | 
+Martin v. D.C. Metropolitan Police 
+
+Department, 812 F.2d 1425 (D.C. Cir.), 
+
+vacated in part and en banc rehearing 
+
+granted, 817 F.2d 144, original opinion 
+
+reinsiated, 824 F.2d 1240 (1987) ........ 15, 16, 21 
+Matsushita Electric Industrial Co. v. 
+
+Zenith Radio Corp., 475 U.S. 574 
+
+REIS ia Rae Oe awn Rie TRA ene Be nap 21 
+Mitchell v. Forsyth, 472 U.S. 511 (1985) .. 5, 7, 8, 10, 17-22 
+Ramirez v. Webb, 835 F.2d 1153 (6th 
+
+SE a a an a a ee ea 16, 17 
+Richardson-Merrell, Inc. v. Holler, 472 
+
+ie EI cet ny ate eligi gle ar aaeS yen 22 
+
+
+(yv) 
+
+
+TABLE OF AUTHORITIES - Continued 
+Pages 
+
+
+Riley v. Wainwright, 810 F.2d 1006 
+
+(lith Cir. 1987) 17 
+Rogers v. Fair, 902 F.2d 140 (ist Cir 
+
+1990) 9 
+Slattery v. Rizzo, 939 F.2d 213 
+
+(4th Cir. 1991) 22 
+
+
+Stone v. Holzberger, 1994 WL 175420 
+(6th Cir. Jan. 6, 1994) | 
+
+
+~ 
+
+
+Tagstrom v. Enochsen, 857 F.2d 502 
+(8th Cir. 1988) . | | 
+
+
+Turner v. Dammon, 848 F.2d 440 (4th Cir 
+1988) . Non Par 14 
+
+
+Unwin v. Campbell, 863 F.2d 124 (Ist 
+Cir. 1988) 6-9, 19-21 
+
+
+Wright v. South Arkansas Regional Health 
+Center, Inc., 800 F.2d 199 (8th Cir 
+1986) 10-14. 20. 21 
+
+
+Statutes 
+
+28 U.S.C. § 1254(1) | 
+28 U.S.C. § 1291 L. 2h ae 
+42 U.S.C. § 1983 3, 8, 10 
+
+
+Fed. R. Civ. P. 56 2] 
+
+
+In The Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1994 
+
+
+TYSON JOHNSON, ROBERT DEEVEY, AND 
+JOHN PAYNE, Petitioners 
+
+
+¥. 
+
+
+HOUSTON JONES, Respondent 
+
+
+Petition for a Writ of Certiorari to 
+the United States Court of Appeals 
+for the Seventh Circuit 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (App., infra, 1la-3a) is 
+reported at 26 F.3d 727. The opinion of the district court (App., 
+infra, 4a-10a) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on June 14, 
+1994. The petition for a writ of certiorari therefore is due on or 
+before September 12, 1994. The jurisdiction of this Court is 
+invoked under 28 U.S.C. § 1254(1). 
+
+
+STATUTE INVOLVED 
+
+
+28 U.S.C. § 1291 provides in relevant part: “The courts of 
+appeals * * * shall have jurisdiction of appeals from all final 
+decisions of the district courts of the United States * * *.” 
+
+
+2 
+STATEMENT 
+
+
+Petitioners are law enforcement officers who were sued under 
+42 U.S.C. § 1983 for the allegedly excessive use of force. They 
+sought summary judgment on good faith immunity grounds, 
+asserting that their actions did not violate clearly established law 
+because there was no evidence that their conduct was inconsistent 
+with any legal standard. The district court denied the motion. The 
+court of appeals then held that it lacked jurisdiction to entertain 
+petitioners’ interlocutory appeal. This holding is squarely 
+inconsistent with the decisions of other Circuits, is in tension with 
+the rulings of this Court, and threatens to frustrate the purposes of 
+the qualified immunity doctrine. Further review therefore is in 
+order. 
+
+
+1. On November 6, 1990, John Heidelmeier, an officer of 
+the Villa Park, Illinois, police department, responded to a report of 
+an apparently intoxicated man in or near an intersection. When 
+Heidelmeier arrived at the scene he found plaintiff beating his head 
+or forehead against the door of a building. Although some 
+subsequent facts are in dispute, it is clear that an altercation ensued 
+and that Heidelmeier attempted to arrest and handcuff respondent. 
+Four more Villa Park police officers (the three petitioners here and 
+Genaro Esposito) soon arrived and assisted Heidelmeier in 
+handcuffing respondent. App., supra, 5a. After arriving at the 
+police station respondent was treated for trauma and several broken 
+ribs. Ibid. 
+
+
+Respondent subsequently was charged in state court with the 
+criminal offenses of disorderly conduct, battery, and resisting 
+arrest; he asserted as a defense that he lacked the requisite mental 
+state for the offenses charged because he was suffering an adverse 
+insulin reaction at the time of his arrest. App., infra, 6a. He 
+testified that he had no recollection of what transpired from the 
+time he first felt the insulin reaction until he noticed that he was 
+being dragged up the stairs of the police station. The state trial 
+court 
+
+
+found that [respondent] came into contact, struck, and 
+resisted a peace officer. Although the judge found 
+[petitioners’] testimony credible and felt that all other 
+elements of the charges against [respondent] had been 
+
+
+a 
+
+
+3 
+
+
+proven, he concluded that the State had not proven 
+beyond a reasonable doubt that [respondent] acted 
+knowingly. The basis of the finding as to mental state 
+was the testimony concerning [respondent’s] diabetes and 
+insulin shock. 
+
+
+Ibid. 
+
+
+Respondent then brought this 42 U.S.C. § 1983 action in the 
+United States District Court for the Northern District of Illinois 
+against petitioners, Heidelmeier, and Esposito. In relevant part, 
+respondent alleged that the officers used excessive force against him 
+and that they were responsible for an illegal arrest, false 
+imprisonment, and malicious prosecution. The officers testified 
+that no one beat, struck or abused respondent during the arrest: the 
+three petitioners also testified that their involvement with 
+respondent ended after the arrest was effected and that they saw no 
+one abuse respondent at the police station. App., infra, 5a. 
+Respondent, in contrast, while asserting that he had been beaten at 
+the time of arrest and at the police station, testified that he was 
+experiencing an insulin reaction when arrested and therefore 
+“disclaim[ed] recollection of specific actions taken by defendants.” 
+Id. at 6a. He did deny resisting arrest (ibid.) and said he recalled 
+seeing Heidelmeier and Esposito while being beaten at the police 
+station. Ibid.' 
+
+
+All of the defendants sought summary judgment, arguing as to 
+the excessive force claim that there was absolutely no evidence that 
+they had abused respondent; as for the false arrest and related 
+claims, the defendants contended that the existence of probable 
+cause for arrest established their qualified immunity from suit. The 
+district court denied the motion. On the claim of excessive force, 
+the court concluded that “[pJlaintiff lacks eyewitness testimony 
+supporting his theory of the events surrounding his arrest, but there 
+is sufficient circumstantial evidence supporting his theory of the 
+
+
+' Respondent’s doctor testified that respondent probably would have 
+been weakened by an insulin reaction, but that in a small percentage of 
+cases “a person undergoing an insulin reaction may show greater than 
+normal strength.” App., infra, 6a. The motor deficit from the reaction 
+would resemble that caused by intoxication. Jbid. 
+
+
+4 
+
+
+case. While the culpability of particular defendants may vary, on 
+the present record, it cannot be determined whether the claims 
+against them should be dismissed.” App., infra, 8a. The court 
+also held that the false arrest claim should be tried, finding “there 
+is at least some possibility plaintiff could prove lack of probable 
+cause.” Jd. at 10a. 
+
+
+2. Petitioners (but not Heidelmeier and Esposito) filed an 
+interlocutory appeal challenging the denial of summary judgment; 
+as the court below explained, the appeal “assert[ed] the defense of 
+official immunity.” App., infra, la. The court of appeals, 
+however, dismissed the appeal as to the excessive force claim for 
+lack of jurisdiction. The court noted that petitioners “are 
+contending that they did not commit the acts of which plaintiff 
+accuses them” and held that “[dJefendants do not deny that if they 
+beat the plaintiff * * * then they lack immunity. Whether they beat 
+the plaintiff is a question that must be resolved in the district court 
+before it may be reviewed on appeal.” Jd. at 2a (emphasis in 
+original). The court premised this holding on the conclusion that 
+“[a] cry of ‘we didn’t do it’ does not present any distinctly legal 
+issue or seek protection from legal uncertainty, the genesis of 
+doctrines of official immunity.” Jd. at la-2a.? 
+
+
+The court’s holding in this case followed from its prior 
+decision in Elliott v. Thomas, 937 F.2d 338 (7th Cir. 1991), cert. 
+denied, 112 S. Ct. 1242 (1992), that “defendants may urge only 
+legal issues” on interlocutory qualified immunity appeals. App., 
+infra, 1a. In Elliott, the court had reasoned that “the interlocutory 
+appeal to vindicate the [qualified immunity] right not to be tried is 
+unavailable when there is no legal uncertainty; there is no separate 
+‘right not to be tried’ on the question whether the defendants did 
+the deeds alleged.” 937 F.2d at 341. The rule announced in 
+Elliott, and applied in this case, therefore is that a defendant may 
+appeal on grounds of qualified immunity only when he contends 
+
+
+2 The court did, however, reverse the district court’s denial of 
+summary judgment on the false arrest claim. It found from the undisputed 
+evidence that probable cause to arrest existed and held that the district 
+court erred in denying the motion on the ground that “the plaintiff sught 
+come up with more evidence before trial.” App., infra, 2a. 
+
+
+5 
+
+
+“that he acted in the shadow of legal uncertainty”; such an appeal 
+is not cognizable in the Seventh Circuit when the defendant’s 
+argument is that he “had nothing to do with the events of which 
+[the plaintiff] complains.” Jd. at 342. The court therefore 
+remanded this case for trial. 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+This case presents a recurring issue of considerable practical 
+importance. The law enforcement petitioners in this case moved 
+for summary judgment, asserting that they were entitled to qualified 
+immunity because plaintiff failed to establish that their actions had 
+violated clearly established law -- or, indeed, that their actions had 
+violated any law at all. The Seventh Circuit’s decision that the 
+district court’s denial of such a motion may not be challenged in an 
+interlocutory appeal is irreconcilable with the express contrary 
+holdings of at least five other Circuits. It also is in clear tension 
+with this Court’s repeated recognition that “[e]ven if the plaintiff s 
+complaint adequately alleges the commission of acts that violated 
+clearly established law, the defendant is entitled to summary 
+judgment if discovery fails to uncover evidence sufficient to create 
+a genuine issue as to whether the defendant in fact committed those 
+acts.” Mitchell v. Forsyth, 472 U.S. 511, 526 (1985). Because 
+that decision threatens to impose substantial additional burdens on 
+public officials by precluding “the dismissal of insubstantial suits 
+without trial” (Harlow v. Fitzgerald, 457 U.S. 800, 814 (1982)) — 
+a principal purpose of the qualified immunity doctrine — review by 
+this Court plainly is warranted. 
+
+
+A. The Decision Below Cannot be Reconciled With the 
+Holdings of Other Courts of Appeals 
+
+
+The court below held that “defendants may urge only legal 
+issues” in interlocutory immunity appeals, opining that “[a] cry of 
+‘we didn’t do it’ does not present a distinctly legal issue or seek 
+protection from legal uncertainty, the genesis of doctrines of 
+official immunity.” App., infra, la-2aa. The Seventh Circuit 
+therefore is of the view that “interlocutory appeal to vindicate the 
+right not to be tried is unavailable when there is no legal 
+uncertainty,” reasoning that it is inappropriate for immunity claims 
+to turn on the appellate court’s “comb{ing] through the factual 
+record.” Elliott, 937 F.2d at 341. That precise conclusion, 
+
+
+6 
+
+
+however, has been expressly rejected by at least five courts of 
+appeals — the First, Fourth, Eighth, Ninth and Tenth. And the 
+District of Columbia Circuit has exercised appellate jurisdiction 
+over interlocutory immunity appeals where the gist of the 
+defendants’ argument was the factual one that they did not commit 
+the constitutional tort. The decision below cannot be reconciled 
+with these decisions.* 
+
+
+1. a. In Unwinv. Campbell, 863 F.2d 124 (\st Cir. 988), 
+the First Circuit addressed a state prisoner’s Section 1983 claim 
+that the defendant police officers beat him while quelling a prison 
+disturbance. See id. at 127. The district court had denied the 
+defendants’ motion for summary judgment on qualified immunity 
+grounds. On interlocutory appeal, the defendants’ “main arguments 
+[were] that the undisputed facts gathered through discovery show 
+that they could not have violated clearly established law because 
+they had no contact, or only minimal contact, with [the plaintiff], 
+or that any contact with him was no more than the result of their 
+good faith efforts to quell a prison disturbance.” Jbid (emphasis 
+added). The court of appeals thus posed “[tJhe question before us 
+[as] whether, in light of th[e] [discovery] materials [before the 
+district court], the district court erred in finding a genuine issue of 
+material fact as to defendants’ entitlement to qualified immunity.” 
+Id. at 128. 
+
+
+In analyzing the case, then-Chief Judge Campbell, writing for 
+the court, began by explaining that the constitutional law governing 
+the defendants’ conduct was “clearly established” at the time of the 
+events giving rise to the suit. 863 F.2d at 129. But the court 
+nevertheless went on to hold that the exercise of appellate 
+
+
+* This Court’s denial of certiorari in Elliott should not be taken as an 
+indication that review of the issue presented here is unwarranted. To the 
+contrary, the respondent in that case opposed certiorari principally on the 
+ground that the case had become moot during the pendency of the petition 
+because the plaintiff's claims had been tried and a verdict returned on the 
+merits in petitioners’ favor. See Br. in Opp., No. 91-690, at 1-4. While 
+respondent in Elliott also urged the Court to deny review on the ground 
+that the decision was correct, he acknowledged that the Seventh Circuit 
+had decided “an issue of importance to section 1983 plaintiffs, as to which 
+the Courts of Appeals have disagreed.” /d. at 1. 
+
+
+7 
+
+
+jurisdiction was appropriate under Anderson v. Creighton, 483 U.S. 
+635 (1987), and Mitchell, accepting the defendants’ submission that 
+“the qualified immunity right not to stand trial is just as effectively 
+lost if an appellate court does not entertain an appeal of a legally 
+erroneous denial of summary judgment as it is if the district court 
+declines to rule itself on the summary judgment motion.’” Jd. at 
+132. The court therefore “conclude[d] that we have jurisdiction to 
+review a district court’s denial of qualified immunity on grounds 
+that a genuine issue of material fact exists as to the factual predicate 
+of a qualified immunity claim.” Jbid. 
+
+
+The court then proceeded to the merits, explaining that 
+“[f]inding that we have jurisdiction to do so, we now address the 
+question of whether, reading the pretrial record in the light most 
+favorable to [plaintiff], a genuine issue of material fact exists as to 
+whether defendants’ conduct violated [plaintiff s] clearly established 
+rights.” 863 F.2d at 133. After a close review of the record (see 
+id. at 134-136), the court found that such an issue of fact existed 
+as to several defendants because “all admit having physical contact 
+with [plaintiff] during the time [plaintiff] was repeatedly beaten.” 
+Id. at 134. But the court also held that two other defendants 
+(Campbell and Furlone) were entitled to qualified immunity because 
+“there is no evidence at all in the record showing that [Campbell] 
+had any contact with [plaintiff]” and Furlone “likewise had no 
+physical contact with [plaintiff].” Jd. at 133. “Because the 
+undisputed facts show that Furlone and Campbell did not cause 
+[plaintiff's] injuries, their conduct did not violate Clearly established 
+law and thus they are entitled to qualified immunity.” /bid 
+(emphasis added) (footnote omitted). 
+
+
+Indeed, as to these latter two defendants the court specifically 
+explained: 
+
+
+This is a case where it has been shown not only that 
+these two defendants did not violate law clearly 
+established at the time of the event, but did not violate 
+the law at all, then or now. It might be argued that 
+defendants’ right to prevail “on the merits” forecloses 
+their right to prevail on qualified immunity, thus barring 
+the present interlocutory appeal. However, “the merits” 
+and the issue of qualified immunity are inexorably 
+
+
+8 
+
+
+intertwined in this instance. To afford the two defendants 
+immunity only if the law had been a little less favorable 
+to them would seem ridiculous. 
+
+
+Id. at 133 n.9 (emphasis in original). 
+
+
+The First Circuit’s holding that interlocutory appellate 
+jurisdiction exists to consider Section 1983 defendants’ claims of 
+(as the court below put it) “we didn’t do it” was in no sense off- 
+hand or ill-considered. To the contrary, the court rejected the 
+dissenting view of then-Judge Breyer that “a defendant is not 
+entitled to a ‘qualified immunity’ interlocutory appeal in respect to 
+a pure fact-based ‘evidence sufficiency’ ruling.” 863 F.2d at 139 
+(Breyer, J., dissenting). Judge Breyer explained — quite correctly 
+— that there was “no real issue on appeal, in respect to the 
+defendants Campbell and Furlone, other than the purely factual 
+issue whether the evidence shows that they were present at the time 
+plaintiff was hurt.” Jd. at 141. This, he believed, “is not an 
+appropriate issue for us to resolve on an interlocutory appeal.” 
+Ibid.*| The majority, of course, established the contrary view as 
+the law in the First Circuit. 
+
+
+Unwin therefore is indistinguishable from this case. In both, 
+the plaintiff alleged that he was beaten by defendants. In both, the 
+constitutional rule — beatings are impermissible — was clearly 
+established at the time of the challenged conduct. In both, the 
+defendants claimed that they were entitled to qualified immunity 
+because, as a factual matter, they had no contact with the plaintiff. 
+But in this case, the court held that it lacked appellate jurisdiction: 
+in Unwin, the court held that it had jurisdiction and proceeded to 
+address the merits of the defendants’ factual claims. 
+
+
+b. The First Circuit has adhered to this approach 
+consistently. In Caro v. Aponte-Roque, 878 F.2d 1 (ist Cir. 
+1989), the plaintiff challenged an assertedly retaliatory discharge; 
+claiming immunity, the defendant denied liability on the wholly 
+factual ground that he lacked a retaliatory motive. Then-Judge 
+
+
+* Then-Judge Breyer acknowledged, however, that “[t]he Supreme 
+Court has not directly focused upon this question.” 863 F.2d at 137 
+(discussing Mitchell); see id. at 138 (discussing Anderson). 
+
+
+=" 
+
+
+9 
+
+
+Breyer, now writing for the court, noted that the law governing 
+retaliatory discharges was settled and that “[t]he only issue in the 
+case concerns motive.” Jd. at 2 (emphasis in original). And 
+relying on Unwin, the court restated the holding that a “court 
+Should examine evidence in respect to factual issues on 
+interlocutory appeal of a denial of summary judgment.” Jbid. The 
+court therefore explained that “[t]he single question that we must 
+decide is whether the plaintiffs, in opposing the [defendant’s] 
+motion for summary judgment, demonstrated the existence of a 
+‘genuine’ and ‘material’ issue of fact warranting the district court’s 
+proceeding to trial on the ‘qualified immunity’ question.” Ibid. 
+After a careful review of the record (see id. at 3-4), the court held 
+that a genuine issue of material fact did exist. 
+
+
+Similarly, in Rogers v. Fair, 902 F.2d 140 (1st Cir. 1990), the 
+plaintiff claimed that prison authorities discriminated on the basis 
+of religion in denying him a furlough. The defendants’ motion for 
+summary judgment on immunity grounds was denied. As the court 
+described the case, 
+
+
+Appellants ask us to reverse the denial of summary 
+ju<gment because there is no evidence that their conduct 
+could have violated the rights of the plaintiff even if those 
+rights were clearly established. * * * The only question, 
+therefore, is whether the plaintiff has presented sufficient 
+facts to survive summary judgment on the issue of whether 
+the religion of the sponsors was improperly considered in 
+the denial of furlough. Because plaintiff, the nonmoving 
+party, has failed to meet the normal summary judgment 
+standard, we reverse and grant Summary judgment to the 
+defendants. 
+
+
+Id. at 142 (emphasis added). Relying on Unwin, the court noted 
+that, assuming the governing constitutional law was settled, the 
+plaintiff “must present more than mere [factual] allegations. He 
+has not done so.” Jd. at 143. The court added that “[w]e have 
+scoured the record on summary judgment and find no facts that 
+[plaintiff] can use to support his allegations.” Jbid. The court 
+therefore granted judgment for the defendants. 
+
+
+Most recently, in Febus-Rodriguez v. Betancourt-Lebron, 14 
+F.3d 87 (Ist Cir. 1994), the court reaffirmed that, when the 
+
+
+10 
+
+
+defendant appeals from the denial of a summary judgment motion 
+asserting good faith immunity, “we must determine whether the 
+plaintiffs have introduced sufficient evidence to create a genuine 
+issue of material fact that [the defendants] violated [plaintiff's] 
+constitutional rights.” Jd. at 91. The case involved a claim that a 
+police superintendent and mayor failed adequately to supervise and 
+train law enforcement officers; after a careful review of the record 
+(see id. at 92-94), the court reversed and granted summary 
+judgment because plaintiffs “failed to produce sufficient evidence 
+to create a triable issue.” Jd. at 94. See id. at 95 (“the plaintiffs 
+have not proffered any evidence that [the defendant] had actual or 
+constructive knowledge of any training or supervisory 
+deficiencies”). There was no suggestion that the controlling 
+constitutional law was unclear. 
+
+
+2. The Eighth Circuit reached an identical conclusion in 
+Wright v. South Arkansas Regional Health Center, Inc., 800 F.2d 
+199 (8th Cir. 1986). There, the plaintiff brought a Section 1983 
+action claiming that he had been discharged in retaliation for the 
+exercise of his First Amendment rights; “[dJefendant’s motion for 
+summary judgment was based on the argument that there was no 
+substantial evidence to support this theory.” Jd. at 202-203. 
+
+
+Writing for the court, Judge Arnold noted that “there is no 
+doubt that the right to be free from official retaliation for the 
+exercise of First Amendment rights has been clear all along.” 800 
+F.2d at 203. Judge Arnold accordingly explained that 
+
+
+The question presented is thus both less clearly “legal,” 
+as opposed to “factual,” than the issue in Mitchell, and 
+less clearly separable from the merits, one of the 
+requirements for immediate appealability under Cohen. 
+We nevertheless hold that an interlocutory appeal is 
+proper. If this is a step beyond Mitchell, it is a small 
+one, and one fully consistent with the spirit and purpose 
+of the Supreme Court in that opinion. It is important for 
+public officials to be shielded from the burden of trial on 
+insubstantial claims. Their right not to be forced to trial 
+will be lost if an immediate appeal is not allowed. And 
+the issue is, on close analysis, separable from the merits. 
+To put it in terms of the present case, the issue is not 
+
+
+a 
+a4 
+
+
+11 
+
+
+whether defendant was improperly motivated in fact, but, 
+rather, whether, when all the facts are viewed in the light 
+most favorable to plaintiff, there is any genuine issue, 
+triable to a jury, of improper motivation. There is a 
+sense in which this sort of question is one of “law,” just 
+as the question whether someone is entitled to a directed 
+verdict is in some sense one of “law.” 
+
+
+Id. at 203 (emphasis added). 
+
+
+With this standard in mind, the court went on to review the 
+record. It found that “[p]laintiff points to no evidence that [the 
+defendant’s] motivation was unconstitutional.” 800 F.2d at 204. 
+The court therefore concluded that “the record simply does not 
+create a genuine issue of material fact.” Jd. at 205. It accordingly 
+reversed the district court’s judgment and directed dismissal of the 
+complaint. /bid. Again, that case is not distinguishable from this 
+one: the controlling law was settled, and the only issue was a 
+factual one (to paraphrase the Seventh Circuit’s words, the 
+defendant’s claim of “I didn’t think it”). And again, the Eighth 
+Circuit found jurisdiction proper; the Seventh Circuit did not. 
+
+
+Like the First Circuit, the Eighth Circuit has consistently 
+adhered to this approach. Thus in Tagstrom v. Enocksen, 857 F.2d 
+502 (8th Cir. 1988), the plaintiff alleged that defendant exhibited 
+deliberate indifference to the medical needs of a person injured in 
+a high speed chase. The district court denied a motion to dismiss 
+on immunity grounds, finding that there was “circumstantial 
+evidence” of indifference. See id. at 503. The court of appeals 
+reversed. Reviewing the discovery materials, the court found that 
+“[t]here is nothing in the record to indicate that [the defendant] 
+deprived [plaintiff] of any constitutional right” because defendant 
+was, as a factual matter, “in no way deliberately indifferent to 
+[plaintiff's] medical needs.” Jd. at 504, 503. The court therefore 
+held that “‘[t]he facts shown by [the plaintiff] simply do not create 
+a triable issue of fact.’” Jd. at 504, quoting Wright, 800 F.2d at 
+205. 
+
+
+The Eighth Circuit’s other decisions in the area also have 
+hewed to Wright. See Kelly v. Bender, 23 F.3d 1328, 1330 (8th 
+Cir. 1994) (citing Wright, “[w]e have jurisdiction over this appeal 
+because, although largely fact-based, it presents the legal question 
+
+
+12 
+
+
+whether [plaintiff] raised a genuine issue of material fact regarding 
+whether the [defendants’] conduct violated his clearly established 
+rights”); Johnson-El v. Schoemehl, 878 F.2d 1043, 1050 (8th Cir. 
+1989) (plaintiff sued mayor, along with other public officials, 
+challenging conditions in municipal jail; on appeal from denial of 
+motion for summary judgment on good faith immunity grounds, 
+court held that “we require that the plaintiffs point to some specific 
+action or particular form of inaction which would make the mayor 
+liable under [the settled] standard. * * * Plaintiffs have failed to do 
+so in their amended complaint or supplementary materials. We 
+therefore grant summary judgment for [the] Mayor.”); Anderson v. 
+Roberts, 823 F.2d 235, 237-38 (8th Cir. 1987) (court found that 
+the legal standards applicable to plaintiffs’ claim that defendant had 
+inadequately trained his subordinates were clear, and that the 
+question before the court was whether defendant had “engaged in 
+any conduct in violation of that clearly established law”; following 
+Wright, the court found that it had appellate jurisdiction). 
+
+
+3. The Ninth Circuit has likewise held that interlocutory 
+appellate jurisdiction lies to determine “whether, after discovery, 
+[plaintiff] made a sufficient evidentiary showing of the occurrence 
+of the alleged conduct to create factual issues requiring trial.” 
+Burgess v. Pierce County, 918 F.2d 104, 105 (9th Cir. 1990). In 
+Burgess, another case involving a claim of retaliatory discharge, the 
+court found that the governing constitutional law was “clearly 
+established” at the time of the conduct giving rise to the suit. /d. 
+at 106. The court went on to hold that, “[s]ince [defendant’s]} 
+summary judgment motion was denied after discovery, we must 
+also determine whether the trial court correctly held [plaintiff] had 
+presented a genuine issue of fact as to whether defendants had 
+engaged in the alleged conduct violating plaintiffs clearly 
+established constitutional right.” /bid. (emphasis added). 
+
+
+Expressly addressing the question of appellate jurisdiction, the 
+court explained that “[t]his review is proper under the collateral 
+order doctrine enunciated in Cohen v. Beneficial Industrial Loan 
+Corp., 337 U.S. 541, 546 (1949). * * * All circu:ts facing the 
+issue have held that on appeal from a denial of summary judgment 
+after discovery the court must consider whether there is a genuine 
+issue of fact as to whether defendant engaged in the conduct 
+violating plaintiff's clearly established constitutional right.” 918 
+
+
+13 
+
+
+F.2d at 106 n.3 (emphasis added). The court proceeded to engage 
+in a close review of the record (see id. at 106-107 n.4) before 
+concluding that the plaintiff in that case had “made a sufficient 
+evidentiary showing to create a genuine issue of material fact as to 
+his allegations.” Jd. at 106. It therefore is no Surprise that the 
+Ninth Circuit has very recently cited Burgess for the proposition 
+that “[dJefendants are entitled to summary judgment based on 
+qualified immunity if * * * there is no genuine issue of material 
+fact as to whether defendant engaged in conduct violating plaintiffs’ 
+clearly established constitutional rights.” Armendariz v. Penman, 
+1994 WL 393477 (9th Cir. Aug. 1, 1994), at *2. 
+
+
+4. The Tenth Circuit has expressly endorsed this approach. 
+In DeVargas v. Mason & Hanger-Silas Mason Co., 844 F.2d 714 
+(10th Cir. 1988), a Bivens action, that court concluded that 
+Anderson “compels us to take an appeal * * * in all cases in which 
+the denial [of summary judgment] is grounded upon a finding that 
+disputed material facts exist in the case.” Jd. at 719. The court 
+explained that the Eighth Circuit’s decision in Wright “illustrates 
+the problem and the proper resolution.” Jbid. As the Tenth 
+Circuit characterized it, “[i}n Wright, plaintiff sued his health 
+center employer, alleging that the employer violated his First 
+Amendment rights by firing him in political retaliation. The 
+constitutional right at issue was clearly established: what the parties 
+disputed on interlocutory appeal, which the Eighth Circuit allowed, 
+was whether sufficient evidence supported the claim that 
+defendant’s acts were improperly motivated.” Jbid. 
+
+
+The Tenth Circuit applied this principle in Austin v. Hamilton. 
+945 F.2d 1155 (10th Cir. 1991), which involved a Bivens claim of 
+unjustified detention. Relying on DeVargas, the court took 
+jurisdiction over an immunity appeal “even though the district court 
+based its denial of the [summary judgment] motion on a finding that 
+disputed material facts exist in the case.” Jd. at 1157. The court 
+explained that at least some of the immunity claims in the case “do 
+not implicate unsettled law,” but rather turned on what the court 
+characterized as the factual question of the reasonableness of the 
+length of plaintiffs’ detention. Jd. at 1162. After reviewing the 
+record, the court went on to hold that “under the circumstances « f 
+this case, in which the specific facts are unsettled and disputed 
+regarding both the length [of detention] and the reasons for the 
+
+
+14 
+
+
+delay [in releasing plaintiffs], the district court’s denial of summary 
+judgment was proper.” Jd. at 1162-1163 (footnote omitted). 
+
+
+5. The Fourth Circuit has reached the same conclusion. In 
+Turner v. Dammon, 848 F.2d 440 (4th Cir. 1988), the plaintiff 
+brought a Section 1983 action alleging that a series of 
+administrative searches of his bar violated the Fourth Amendment: 
+the district court denied the defendants’ motion to dismiss on the 
+factual ground that “the record raised a triable issue as to whether 
+improper motives on the part of the defendants rendered the series 
+of bar checks a violation of the plaintiffs’ clearly established 
+property right.” Jd. at 442. The Fourth Circuit found that it had 
+jurisdiction to entertain the appeal. 
+
+
+In an opinion by Judge Wilkinson, the court held that “[wJhere 
+the acts alleged by the plaintiff do constitute a violation of clearly 
+established rights, a defendant is entitled to summary judgment [on 
+immunity grounds] if the record does not create a genuine issue as 
+to whether the defendant in fact committed those acts.” Jd. at 443. 
+The court went on to hold that appellate jurisdiction existed to 
+review the denial of such a summary judgment motion; relying on 
+Wright, the Fourth Circuit explained that “we must inquire 
+‘whether, when all the facts are viewed in the light most favorable 
+to the plaintiff, there is a genuine issue, triable to a jury,’ of a 
+clearly established constitutional violation.” Jd. at 444. Without 
+suggesting that the controlling constitutional law was unsettled, the 
+court of appeals proceeded to engage in this inquiry. It concluded 
+that “on this record [two defendants] are not entitled to qualified 
+immunity and that an issue of triable fact as to these defendants’ 
+violation of settled Fourth Amendment principles appears to have 
+been presented” (id. at 447) because those defendants may have 
+engaged in a pattern of harassing searches (see id. at 445, 447). 
+The court also found that, as to three other defendants, “the 
+summary judgment record establishes their entitlement to qualified 
+immunity” (id. at 447) because, as a factual matter, they were 
+involved only in small numbers of searches (see ibid) or because 
+“[nJeither the allegations nor the affidavits in the record suggest 
+that [they were] involved” is harassing conduct. /d. at 448. 
+
+
+6. In addition, the District of Columbia Circuit, while not 
+explicitly addressing the issue of appellate jurisdiction, has 
+
+
+15 
+
+
+exercised jurisdiction over an appeal challenging the denial of a 
+fact-based summary judgment motion asserting qualified immunity. 
+In Martin v. D.C. Metropolitan Police Department, 812 F.2d 1425 
+(D.C. Cir.), vacated in part and en banc rehearing granted, 817 
+F.2d 144, original opinion reinstated, 824 F.2d 1240 (1987), the 
+plaintiff brought a Bivens action asserting that federal law 
+enforcement officers conspired to deny him both access to the 
+courts and due process. See 812 F.2d at 1427-1428. The district 
+court denied the defendants’ motion for summary judgment on the 
+ground that the controlling constitutional law was Clearly settled. 
+See id. at 1428. The court of appeals, in an opinion by then-Judge 
+Ruth Bader Ginsburg, recognized that the law was indeed 
+established, noting that “[a] reasonable law enforcement officer 
+would surely know that an arrest or prosecution undertaken to deter 
+an individual from pursuing bona fide civil claims would trample 
+upon clearly established constitutional rights.” Jd. at 1432. 
+
+
+The court nevertheless went on to consider the defendants’ 
+factual claims. The court explained that the crucial element of the 
+plaintiff's claim concerned the defendants’ motive. 812 F.2d at 
+1431. After a close review of the record (see id. at 1435), the 
+court concluded that plaintiff's evidence “was insufficient * * * to 
+demonstrate the existence of a ‘genuine issue’ as to the 
+reasonableness and good faith of the Capitol Police” (ibid); 
+plaintiff's “fact recitations, as they now stand, are insufficiently 
+probative of the alleged unconstitutional motive to warrant denial 
+of the Capitol Police officers’ motion for Summary judgment.” /d. 
+at 1436. The court remanded the case to give the plaintiff an 
+opportunity to adduce additional evidence on this factual issue. Jd. 
+at 1436-1438. The court nowhere Suggested that it had any doubts 
+about its jurisdiction to render this decision even though the appeal 
+contained, in the Seventh Circuit’s formulation, “nothing but a 
+factual issue” (Elliott, 937 F.2d at 342) — whether defendants 
+acted with a particular state of mind .° 
+
+
+* Judge Starr, dissenting in part, also raised no doubts about appellate 
+jurisdiction; to the contrary, he would have reversed the district court's 
+decision outright and not remanded the case for further factual 
+development. See 812 F.2d at 1442 (Starr, J., concurring in part and 
+dissenting in part). 
+
+
+16 
+
+
+7. The issue presented here has caused considerable 
+confusion in two other Circuits. In Brown v. Grabowski, 922 F.2d 
+1097 (3d Cir. 1990), cert. denied, 111 S. Ct. 2827 (1991), the 
+Third Circuit stated: 
+
+
+Although we have not previously addressed this issue 
+explicitly, we believe that we implicitly have held that 
+Anderson requires appellate inquiry into whether the 
+plaintiff has adduced evidence sufficient to create a 
+genuine issue of material fact as to whether the defendant 
+official engaged in the conduct alleged to have violated a 
+clearly established right. * * * We conclude that under 
+Anderson’s fact specific standard for qualified immunity, 
+as construed and applied by our precedents, we must 
+determine whether the district court properly denied 
+defendants’ claims of qualified immunity in part by 
+analyzing the evidence adduced by plaintiff as to the 
+conduct of the defendants. 
+
+
+Id. at 1111 (citations omitted). The court applied this principle to 
+the qualified immunity claim of defendant Schwartz, whose primary 
+defense was that he had not committed the acts alleged by the 
+plaintiff: he asserted that his involvement in the events at issue was 
+minimal and that defendant Grabowski was primarily responsible. 
+See id. at 1112. The Third Circuit, reversing the district court, 
+held that Schwartz was entitled to qualified immunity, largely 
+because of his non-involvement in the events giving rise to the 
+action. See id. at 1115-16, 1117.12. More recently, however, 
+the Third Circuit, in Giuffre v. Bissell, 1994 WL 401389 (3d Cir. 
+Aug. 4, 1994), at *18, relied on the Seventh Circuit’s Elliott 
+decision for the proposition that an “‘I didn’t do it’ defense to [a 
+plaintiff's} [constitutional] claim is not cognizable as a declaration 
+of qualified immunity.” The court made no attempt to reconcile its 
+analysis with its prior holding in Brown. 
+
+
+Similarly, in the Sixth Circuit case of Ramirez v. Webb, 835 
+F.2d 1153 (6th Cir. 1987), some of the defendants submitted 
+affidavits stating that “they had no knowledge of and took no part 
+in” the acts of misconduct alleged by the plaintiffs. /d. at 1158. 
+Citing Mitchell, the Sixth Circuit held: “If these defendants did not 
+participate in the actions that allegedly violated plaintiffs’ rights, 
+
+
+17 
+
+
+then they cannot be liable as a matter of law. Therefore. this court 
+has jurisdiction to entertain this contention of qualified immunity.” 
+Id. at 1159. But that court, in an unpublished opinion, also has 
+cited Elliott for the principle that “[t]he essence of a qualified 
+immunity defense is that what the actor is claimed to have done 
+may be wrong under present standards, but that a reasonable actor 
+would not have known it to be wrong at the time. The denial of a 
+motion asserting a general defense on the merits is not subject to 
+interlocutory appeal.” Stone v. Holzberger, 1994 WL 175420 (6th 
+Cir. Jan. 6, 1994), at *7 n.5. The court did not cite to, and made 
+no attempt to distinguish, its contrary decision in Ramirez.° 
+
+
+8. Against this background, it is undeniable that there is an 
+irreconcilable conflict in the Circuits. The Seventh Circuit has held 
+that an interlocutory immunity appeal is cognizable only when the 
+defendant “contend[s] that he acted in the shadow of legal 
+
+
+* The law is unclear in two other Circuits. In Kaminsky v. Rosenblum, 
+929 F.2d 922 (2d Cir. 1991), upon which the Seventh Circuit relied in 
+Elliott (see 937 F.2d at 342), the Second Circuit did state that an appeal 
+“must be dismissed for lack of appellate jurisdiction” where it challenges 
+the denial of summary judgment in a case involving “unresolved factual 
+issues.” 929 F.2d at 924. At the same time, however, the court went on 
+to review the record, observing that “the district court concluded that the 
+resolution of the immunity defense involved disputed factual questions 
+unable to be resolved on summary judgment. We agree.” Id. at 925. 
+See id. at 927. It thus appears that the Second Circuit would accept 
+jurisdiction in a case presenting no genuine dispute of fact. Similarly, the 
+Eleventh Circuit held that an appeal was not permitted where the district 
+court “denied defendants’ claim of qualified immunity because the case 
+required substantial factual development before it could be determined 
+with finality whether [plaintiff] had been subjected to constitutional 
+deprivation and if so, whether some or all of the defendants were entitled 
+to the benefit of qualified immunity.” Riley v. Wainwright, 810 F.2d 
+1006, 1007 (11th Cir. 1987) (per curiam). It is not clear whether the 
+court believed interlocutory appeal improper when facts are in dispute or 
+whether it simply concluded that the record did not permit resolution of 
+the case on summary judgment. See also Jasinski v. Adams, 781 F.2d 
+843, 848 (11th Cir. 1986) (court entertained appeal and held that summary 
+judgment was properly denied where there was a “factual dispute” on the 
+existence of probable cause to search). 
+
+
+18 
+
+
+uncertainty” and “that Mitchell does not authorize an appeal to 
+argue ‘we didn’t do it.’” Elliott, 937 F.2d at 342. See App., 
+infra, \a-2a. In contrast, the First, Fourth, Eighth, Ninth, and 
+Tenth Circuits have expressly found appellate jurisdiction in cases 
+where there was no legal uncertainty and the claim was no more 
+and no less than “we didn’t do it” (or, in the retaliatory discharge 
+cases, that “we didn’t have a bad motive when doing it”). The 
+District of Columbia Circuit has exercised jurisdiction in identical 
+circumstances. The question, which has now been litigated across 
+the Circuits, plainly is an important one that arises with great 
+frequency. In these circumstances, review by this Court is 
+warranted. 
+
+
+B. The Decision Below is in Conflict With This Court’s 
+Decisions 
+
+1. Given the inconsistency of the Seventh Circuit's approach 
+with the clear weight of authority in the courts of appeals, it is 
+hardly a surprise that the decision below also is in clear tension 
+with this Court’s decisions. In fact, this Court has twice 
+recognized that if, after discovery, the plaintiff has failed to 
+uncover evidence that the defendant did what he was alleged in the 
+complaint to have done, the defendant may obtain summary 
+judgment on the basis of qualified immunity. In Mitchell, the 
+Court held that “[e]ven if the plaintiff's complaint adequately 
+alleges the commission of acts that violated clearly established law, 
+the defendant is entitled to summary judgment if discovery fails to 
+uncover evidence sufficient to create a genuine issue as to whether 
+the defendant in fact committed those acts.” 472 U.S. at 526. 
+Similarly, in Anderson, the Court stated that “if the actions [the 
+defendant] claims he took are different from those the [plaintiffs] 
+allege (and are actions that a reasonable officer could have believed 
+lawful), then discovery may be necessary before [the defendant’s] 
+motion for summary judgment on qualified immunity grounds can 
+be resolved.” 483 U.S. at 646 n.6. The Court thus indicated that 
+a Summary judgment motion would lie after discovery. 
+
+
+Accordingly, qualified immunity protects the official whose 
+actions did not violate clearly established law (see Harlow, 457 
+U.S. at 818), whether the reason is that the law was in a state of 
+flux or simply that the official did not commit the acts alleged by 
+
+
+19 
+
+
+the plaintiff. The necessary implication of this conclusion is that 
+an appeal should be available when such a summary judgment 
+motion is denied. After all, Mitchell and Anderson indicate that a 
+defendant is entitled to summary judgment on qualified immunity 
+grounds if the plaintiff fails to adduce evidence creating a genuine 
+issue of fact on the question whether the defendant committed acts 
+that violated clearly settled law. And “because ‘[t]he entitlement 
+is an immunity from suit rather than a mere defense to liability’” 
+(Hunter v. Bryant, 112 S. Ct. 534, 536 (1992), quoting Mitchell, 
+472 U.S. at 526 (emphasis added by the Court)), the defendant 
+should have an opportunity to test on appeal a wrongful denial of 
+that entitlement by the district court. 
+
+
+Any other conclusion, as the First Circuit noted in Unwin, will 
+lead to perverse results. We know from Anderson that the 
+immunity inquiry must look to the particular conduct engaged in by 
+the defendant. See 483 U.S. at 641. A court therefore must 
+determine whether what the defendant actually did violated clearly 
+established law; as the Seventh Circuit itself acknowledged (see 
+Elliott, 937 F.2d at 342), every Circuit has rejected the rule of 
+Bonitz v. Fair, 804 F.2d 164 (1st Cir. 1986), overruled by Unwin, 
+863 F.2d at 130-133, which had held that the courts of appeals 
+could not look beyond the allegations of the complaint in reviewing 
+the denial of a motion seeking summary judgment on immunity 
+grounds. Instead, courts of appeals examine the entire summary 
+judgment record. 
+
+
+So, for example, if a plaintiff alleges that the defendant 
+engaged in a particular act (say, that he conducted a warrantless 
+search) and the defendant responds that he conducted a different act 
+altogether (say, that he obtained a warrant before conducting the 
+search), the court will have to determine whether the plaintiff's 
+version is supported by the record before determining whether the 
+defendant's conduct was inconsistent with clearly established law. 
+If the plaintiff's version finds no support in the record, the court 
+will have to determine whether the conduct as described by the 
+defendant violated clearly settled law. And there is no doubt that 
+appeal would lie if the legality of the defendant’s conduct had been 
+unclear, because the question then would be whether the defendant 
+had “acted in the shadow of legal uncertainty.” Elliott, 937 F.2d 
+at 342. In that light, it makes no sense at all to deny the defendant 
+
+
+a 
+
+
+20 
+
+
+an appeal because it was clear that his conduct was legal; “[t]o 
+afford the * * * defendant[] immunity only if the law had been a 
+little less favorable to [him] would seem ridiculous.” Unwin, 863 
+F.2d at 133 n.9. 
+
+
+2. The Seventh Circuit nevertheless appeared to believe that 
+an appeal from a denial of a qualified immunity summary judgment 
+motion premised on such a defense is improper because it presents 
+no issue different from the merits. The court reasoned that “there 
+is no separate ‘right not to be tried’ on the question whether the 
+defendants did the deeds alleged; that is precisely the question for 
+trial.” Elliott, 937 F.2d at 341 (emphasis in original). As this 
+Court recognized in Mitchell, however, “a question of immunity is 
+separate from the merits of the underlying action for purposes of 
+the Cohen test even though a reviewing court must consider the 
+plaintiff's factual allegations in resolving the immunity issue.” 472 
+U.S. at 528-29. This is so because “it follows from the recognition 
+that qualified immunity is in part an entitlement not to be forced to 
+litigate the consequences of official conduct that a claim of 
+immunity is conceptually distinct from the merits of the plaintiff's 
+claim that his rights have been violated.” Jd. at 527-28. And as 
+the Eighth Circuit explained, “the issue is, on close analysis, 
+separable from the merits. * * * [T]he issue is not whether 
+defendant [engaged in the acts alleged] in fact, but, rather, whether, 
+when all the facts are viewed in the light most favorable to 
+plaintiff, there is any genuine issue, triable to a jury, of improper 
+[conduct].” Wright, 800 F.2d at 203. | 
+
+
+For similar reasons, the Seventh Circuit was wrong in 
+reasoning that a defense that the defendant did not commit the acts 
+alleged by the plaintiff raises factual issues that do not qualify for 
+interlocutory appeal under Mitchell’s holding that “a district court’s 
+denial of a claim of qualified immunity, to the extent that it turns 
+on an issue of law, is an appealable ‘final decision’ within the 
+meaning of 28 U.S.C. § 1291.” 472 U.S. at 530. When there is 
+no genuine issue of material fact, the defendant’s entitlement to 
+summary judgment is an issue of law under Fed. R. Civ. P. 56. 
+Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986); Anderson 
+v. Liberty Lobby, Inc., 477 U.S. 242, 247-48 (1986); Matsushita 
+Electric Industrial Co. v. Zenith Radio Corp., 475 U.S. 574, 587 
+(1986). This principle applies to motions for summary judgment 
+
+
+21 
+based on qualified immunity just as much as it does to other 
+summary judgment motions. See, e.g., Wright, 800 F.2d at 203: 
+Martin, 812 F.2d at 1434. A properly supported qualified 
+immunity summary judgment motion based on a defense-that the 
+defendant did not commit the acts alleged by the plaintiff thus 
+presents a “question of law.” Elder v. Holloway, 1148S. Ct. 1019. 
+1023 (1994). 
+
+
+3. The policies underlying this Court’s qualified immunity 
+decisions would be thwarted by a rule precluding immediate appeal 
+from the denial of a summary judgment motion, made after 
+discovery, premised on the defense that the defendant did not 
+commit the acts alleged by the plaintiff. One of the primary 
+purposes of qualified immunity is to permit “the dismissal of 
+insubstantial lawsuits without trial.” Harlow, 457 U.S. at 814. 
+“The qualified immunity doctrine recognizes that officials can act 
+without fear of harassing litigation * * * only if unjustified lawsuits 
+are quickly terminated.” Davis v. Scherer, 468 U.S. 183, 195 
+(1984). As a consequence, the Court “repeatedly ha[s] stressed the 
+importance of resolving immunity questions at the earliest possible 
+Stage in litigation.” Hunter, 112 S. Ct. at 536.’ 
+
+
+Surely, as a matter of policy, an official who did nothing even 
+arguably wrong is at least as deserving of the interlocutory appeal 
+authorized by Mitchell as is an official whose conduct was 
+arguably, but not clearly, unconstitutional at the time he acted. And 
+where the plaintiff cannot adduce any evidence establishing that the 
+official committed the acts alleged, a motion for summary judgment 
+should be granted, or the appeal of its denial allowed, to further the 
+policy served by Mitchell of sparing the official and the courts the 
+time and expense of a trial, the result of which is a foregone 
+conclusion. “[T]he purpose of qualified immunity is to remove 
+most civil liability actions, except those where the official clearly 
+broke the law, from the legal process well in advance of the 
+
+
+” A governmental defendant's right not to stand trial is just as 
+effectively lost if the court of appeals does not entertain an appeal from 
+a legally erroneous denial of summary judgment, as here, as it is if the 
+district court declines to rule on the summary judgment motion in the first 
+place. Unwin, 863 F.2d at 132. 
+
+
+22 
+
+
+submission of facts to a jury.” Slattery v. Rizzo, 939 F.2d 213, 
+216 (4th Cir. 1991) (Powell, J., sitting by designation) (citing 
+Mitchell, 472 U.S. at 526). 
+
+
+The contrary rule announced by the Seventh Circuit, if allowed 
+to stand, would have significant practical consequences. Cases like 
+Mitchell, in which the constitutionality of the defendant’s actions is 
+genuinely unsettled at the time he acts, are relatively rare. More 
+common are cases involving factually insupportable accusations by 
+disgruntled plaintiffs, such as the allegations by respondent here. 
+As this Court recognized in Anderson, Mitchell, Davis, and 
+Harlow, such cases, if not expeditiously terminated, pose a 
+substantial danger of chilling public officials in the legitimate 
+exercise of their governmental duties. Yet it is appeals from 
+precisely this class of cases that the court below has refused to 
+entertain. This is a perverse result, for it forces the victims of the 
+most insubstantial claims to go through trial. 
+
+
+In addition, the decision below does more than add to the 
+burdens of public officials; it also creates a complex rule that will, 
+in practice, be extraordinarily difficult to apply. It often will be 
+unclear whether the defendant genuinely “acted in the shadow of 
+legal uncertainty” (Elliott, 937 F.2d at 342), and thus has a proper 
+appeal, or merely “ma[d]Je * * * a stab at presenting a legal issue” 
+(ibid.), and therefore does not. Since qualified immunity is a 
+highly fact-specific inquiry (see Anderson, 483 U.S. at 641), and 
+there is usually some dispute (whether material or not) about the 
+facts, the parties and the court often will have to devote 
+considerable effort to determining whether the defendant is really 
+making an argument that he did not commit the acts alleged by the 
+plaintiff. While this Court “has expressly rejected efforts to reduce 
+the finality requirement of [28 U.S.C.] § 1291 to a case-by-case 
+determination of whether a particular ruling should be subject to 
+appeal” (Richardson-Merrell Inc. v. Koller, 472 U.S. 424, 439 
+(1985)), such a determination will be required for qualified 
+immunity appeals after this decision. 
+
+
+In short, there is no basis in caselaw, logic, or public policy 
+for the Seventh Circuit’s holding. The issue is a recurring and 
+important one. Further review therefore is in order. 
+
+
+23 
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be granted. 
+
+
+Respectfully submitted. 
+
+
+MARK F. SMOLENS CHARLES A.*ROTHFELD* 
+Flynn, Murphy, Ryan Mayer, Brown & Platt 
+
+& Seyring Suite 6500 
+Suite 3232 2000 Pennsylvania Ave., N. W. 
+30 North LaSalle Street Washington, D.C. 20036 
+Chicago, Illinois 60602 (202 778-0616 
+
+
+(312) 372-3800 
+*Counsel of Record 
+
+
+SEPTEMBER 1994 
+
+
+la 
+
+
+APPENDIX A 
+
+
+IN THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+No. 93-3777 
+Houston Jones, 
+Plaintiff-Appellee, 
+
+
+Tyson Johnson, et al., 
+Defendants-Appellants. 
+
+
+Appeal from the United States District Court for the 
+Northern District of Illinois, Eastern Division. 
+No. 91 C 7095-Joan B. Gottschall, Magistrate Judge. 
+
+
+Argued May 10, 1994-Decided June 14, 1994 
+
+
+Before Eschbach, Easterbrook, and Kanne, Circuit Judges. 
+
+
+Per Curiam. Defendants have filed an interlocutory appeal to 
+assert the defense of official immunity. 
+
+
+Although Mitchell v. Forsyth, 472 U.S. 511, 524-29 (1985), 
+permits immunity appeals under the collateral order doctrine, we 
+held in Elliott v. Thomas, 937 F.2d 338 (7th Cir. 1991), that 
+defendants may urge only legal issues on such appeals. Accord, 
+Crawford-El v. Britton, 951 F.2d 1314, 1317 (D.C. Cir. 1991); see 
+also Meyer v. Robinson, 992 F.2d 734, 737-38 (7th Cir. 1993). A 
+cry of “we didn’t do it” does not present any distinctly legal issue 
+
+
+2a 
+
+
+or seek protection from legal uncertainty, the genesis of doctrines 
+of official immunity. To see that appellants are contending that 
+they did not commit the acts of which plaintiff accuses them, one 
+need not get beyond the first argument heading in their brief: 
+
+
+WHERE NOT A SCINTILLA OF EVIDENCE EXISTS 
+THAT ONE OR MORE OF THE DEFENDANTS, 
+JOHNSON, DEEVEY OR PAYNE, EVER STRUCK, 
+PUNCHED OR KICKED THE PLAINTIFF, OR EVER 
+OBSERVED ANYONE DOING SO--EITHER IN THE 
+PARKING LOT OR IN THE POLICE STATION--SAID 
+DEFENDANTS ARE ENTITLED TO A SUMMARY 
+JUDGMENT ON THE PLAINTIFF’S “EXCESSIVE 
+FORCE” CLAIMS 
+
+
+Defendants do not deny that if they beat the plaintiff, as he believes 
+they did, then they lack immunity. Whether they beat the plaintiff 
+is a question that must be resolved in the district court before it 
+may be reviewed on appeal. When asked at oral argument if they 
+could lose the factual dispute and still prevail, defendants’ lawyer 
+answered no. In consequence, we lack appellate jurisdiction over 
+the contention that the defendants did not commit or abet battery. 
+
+
+The excessive force claim must be distinguished from the 
+plaintiff's argument that the defendants lacked probable cause to 
+arrest him. It is undisputed that an officer found plaintiff, 
+apparently intoxicated, hitting his head against a building, and took 
+him into custody. These facts imply disorderly conduct, which 
+supports an arrest. Plaintiff contends that he was not drunk but 
+was suffering from an insulin reaction, and that the police should 
+have figured this out. The magistrate judge, presiding by consent 
+under 28 U.S.C. §636(c), concluded that plaintiff had not adduced 
+sufficient evidence to dispute the officers’ version of the arrest-- 
+which, if accepted, entitles them to immunity if not to prevail 
+outright. Hunter v. Bryant, 112 S. Ct. 534, 537 (1991); Mahoney 
+v. Kesery, 976 F.2d 1054, 1057-59 (7th Cir. 1992). But the judge 
+concluded that because the excessive force claim had to be tried, 
+and because the plaintiff might come up with more evidence before 
+trial, the false arrest claim also should be tried. 
+
+
+This approach is mistaken. Summary judgement is not a dis- 
+cretionary remedy. If the plaintiff lacks enough evidence, summary 
+
+
+3a 
+
+
+judgment must be granted. Anderson v. Liberty Lobby, Inc., 477 
+U.S. 242, 249-51 (1986); Celotex Corp. v. Catrett, 477 U.S. 317 
+(1986). Immunity claims should be resolved as early in the case as 
+possible-- and by the court rather than the jury. Elder v. Holloway, 
+114 S. Ct. 1019, 1023 (1994): Harlow v. Fitzgerald, 457 U.S. 800. 
+818 (1982); Elliott, 937 F.2d at 344-45. On the facts that this 
+record presents, taken in the light most favorable to plaintiff, an 
+arrest did not “violate clearly established . . .rights of which a 
+reasonable person would have known”. Harlow, 457 U.S. at 818. 
+The three appellants therefore are entitled to qualified immunity on 
+the false arrest claim. 
+
+
+The judgment on the false arrest claim is reversed, and the 
+appeal is dismissed to the extent appellants seek review of the 
+excessive force claim. 
+
+
+A true Copy: 
+Teste: 
+
+
+Clerk of the United States Court of 
+Appeals for the Seventh Circuit 
+
+
+4a 
+
+
+APPENDIX B 
+
+
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF ILLINOIS 
+EASTERN DIVISION 
+
+
+HOUSTON JONES, 
+Plaintiff, 
+
+
+Vv. No. 91 C 7095 
+VILLAGE OF VILLA PARK, 
+
+a municipal corporation, 
+
+JOHN HEIDELMEIER, 
+
+TYSON JOHNSON, 
+
+G. ESPOSITO, 
+
+ROBERT DEEVEY, JOHN PAYNE, 
+and STUART LUCADO, 
+
+
+New Nee Nee ee eee eee 
+
+
+Defendants. ) 
+MEMORANDUM OPINION AND ORDER 
+
+
+This matter is before the court on defendants’ motion for 
+Summary judgment. For the reasons set forth below, the motion is 
+denied. 
+
+
+Background 
+
+
+The five individual defendants in this action under 42 U.S.C. 
+§1983 are John Heidelmeier (“Heidelmeier”), Tyson Johnson 
+(“Johnson”), G. Esposito (“Esposito”), Robert Deevey (“Deevey”) 
+and John Payne (“Payne”). All were police officers of the Village 
+of Villa Park, Illinois (“Village”) at the time of the events giving 
+rise to this dispute. Village is named as a defendant only in 
+plaintiffs pendent claims under state law. Since the 
+commencement of this lawsuit, foul counts of plaintiff's ten-count 
+complaint have been dismissed, including a claim against Village 
+under §1983. Defendants now seek judgment in their favor on the 
+
+
+Sa 
+
+
+remaining counts of the complaint. The claims in question are the 
+alleged violations of Fourth Amendment rights in Count I, and state 
+law claims of false arrest, false imprisonment, malicious 
+prosecution, assault and battery. Since those claims are apparently 
+subsumed into the claim of “willful and wanton misco duct” in 
+Count V, that claim would not survive the dismissal of the other 
+counts. 
+
+
+Facts relevant to this motion are few. It is undisputed that on 
+November 6, 1990, Heidelmeier responded to a report of an 
+apparently intoxicated man in or near an intersection in Village. 
+Upon his arrival, Heidelmeier found plaintiff hitting his head or 
+forehead against the door of a building. Heidelmeier then 
+approached plaintiff in an attempt to ascertain whether there was a 
+problem. From this point, the parties’ versions of the facts 
+diverge. 
+
+
+Heidelmeier states that when he asked plaintiff what was 
+happening, plaintiff placed his hands in his pockets and began to 
+fidget with something that later turned out to be a pocketknife in a 
+scabbard. When Heidelmeier attempted a pat-down search, plaintiff 
+struck him in the arms with a clenched fist. At that point, 
+Heidelmeier decided to place plaintiff under arrest and he forced 
+plaintiff to the ground in order to handcuff him behind his back. 
+Heidelmeier could not accomplish this task alone because of 
+plaintiff's struggling. In the interim, the other individual 
+defendants had arrived on the scene and they assisted Heidelmeier 
+in handcuffing plaintiff and placing him in a squad car. Defendants 
+state that due to plaintiff's extreme resistance to their attempts to 
+place him under arrest, it took the efforts of all five officers to 
+control him. 
+
+
+Defendants contend that no one struck, beat or abused plaintiff 
+while in the parking lot where he was arrested. Defendants 
+Johnson, Payne and Deevey add that at that point their involvement 
+in the arrest ended and that they saw no one abuse plaintiff at the 
+police station either. PX D-F. Shortly after plaintiff arrived at the 
+police station, paramedics were called. Plaintiff spent several days 
+in the hospital for treatment of multiple trauma and several broken 
+ribs. DX A at 76; PXF. 
+
+
+6a 
+
+
+Plaintiff contends that he was experiencing an insulin reaction 
+at the time of his arrest. His physician has testified that as a 
+consequence, plaintiff's recollection of relevant events would be 
+very poor and he would probably have been greatly weakened. 
+However, in a small percentage of cases, a person undergoing an 
+insulin reaction may show greater than normal strength. According 
+to his doctor, during an insulin reaction, plaintiff could be coherent 
+for brief periods of time and he could engage in conversation and 
+control motor functions. The motor deficit would resemble that 
+caused by intoxication. DX B at 5-21. Consistent with that 
+testimony, plaintiff disclaims recollection of specific actions taken 
+by defendants. However, he claims that he can recall experiencing 
+extreme pain at various points, as when his arm was placed in an 
+armlock and he was forced to the ground. Plaintiff denies having 
+resisted the officers’ efforts as they say he did, and he contends that 
+the beating and verbal abuse continued after his arrival at Village’s 
+police station. Plaintiff's expert witness would testify that 
+defendants used excessive force in the arrest and otherwise 
+responded inappropriately to the little risk that plaintiff posed. 
+
+
+Plaintiff was charged with criminal offenses of disorderly 
+conduct, battery and resisting arrest. At the time of his trial in the 
+state court, plaintiff asserted the defense that he lacked the requisite 
+mental state for the offenses charged. Plaintiff also testified that he 
+had no recollection of what transpired from the time he first felt the 
+insulin reaction until he noticed he was being dragged up the stairs 
+of Village’s police station. In the interim, he only remembered 
+feeling a lot of pain. DX A at 69-70, 78. However, plaintiff 
+recalled seeing Heidelmeier and Esposito while being beaten at the 
+police station. DX A at 73-74, 83. Having heard each side’s 
+version of the events, and the medical testimony concerning the 
+effects of an insulin reaction, the trial court found that plaintiff 
+came into contact, struck, and resisted a peace officer. Although 
+the judge found defendants’ testimony credible and felt that all 
+other elements of the charges against plaintiff had been proven, he 
+concluded that the State had not proven beyond a reasonable doubt 
+that plaintiff acted knowingly. The basis of the finding as to mental 
+state was the testimony concerning plaintiff's diabetes and insulin 
+shock. DX B at 30-33. 
+
+
+Ta 
+
+
+Claims of Excessive Force, Assault and Battery 
+
+
+The present motion for summary judgment asks the court to 
+take into account plaintiff's inability to recall events that transpired 
+prior to his arrival at the police station. Since plaintiff cannot 
+recall specific details, only the individual defendants can provide 
+eyewitness testimony concerning the circumstances of his arrest. 
+All defendants having testified that no one beat or abused plaintiff, 
+they ask the court to dismiss the claims of Johnson, Deevey and 
+Payne. These three officers attest that they played no role in 
+processing plaintiff after his arrest and plaintiff specifically recalls 
+only Heidelmeier and Esposito. Plaintiff challenges the veracity of 
+the three officers’ affidavit testimony and observes that even if an 
+officer did not actually participate in a beating, a jury may consider 
+an excessive force claim against him if the officer stood by and 
+allowed others to beat the plaintiff. Byrd v. Brishke, 466 F.2d 6, 
+11 (7th Cir. 1972); Wilson v. City of Chicago, 707 F. Supp. 379, 
+385 (N.D. Ill. 1989). 
+
+
+Regarding the claims against Heidelmeier and Esposito, 
+defendants posit that the only competent testimony concerning the 
+circumstances of the arrest is their own. Defendants argue that the 
+court should not credit plaintiff's testimony, as his own doctor 
+testified that he would not rely on anything plaintiff told him about 
+the incident. Defendants further suggest that plaintiff should be 
+estopped from taking a position in this litigation that is inconsistent 
+with his defense to the criminal charges in the state court, but this 
+court disagrees that such inconsistency exists. As already noted, 
+plaintiff testified in the state court to feelings of great pain during 
+the arrest and to some specific recollections of mistreatment at the 
+police station. While present ability to recall in greater detail may 
+diminish his credibility, there is no obvious contradiction of his 
+former testimony such that his testimony cannot be considered here. 
+
+
+Summary judgment shall be entered “if the pleadings, 
+depositions, answers to interrogatories, and admissions on file, 
+together with the affidavits, if any, show that there is no genuine 
+issue as to any material fact and that the moving party is entitled to 
+a judgment as a matter of law.” Fed.R.Civ.P. 56(c). In examining 
+the record, all reasonable inferences from it are drawn in the light 
+most favorable to the nonmovant. Maxwell v. City of Indianapolis, 
+
+
+8a 
+
+
+998 F.2d 431, 433 (7th Cir. 1993). Plaintiff has the burden, 
+however, of establishing a genuine issue for trial. 
+
+
+Applying these principles here, defendants are denied summary 
+judgment on the claims of excessive force, assault and battery. 
+Plaintiff lacks eyewitness testimony supporting his theory of the 
+events surrounding his arrest, but there is sufficient circumstantial 
+evidence supporting his theory of the case. While the culpability 
+of particular defendants may vary, on the present record, it cannot 
+
+
+be determined whether the claims against them should be dismissed. 
+
+
+Claims of Unlawful Arrest, False 
+Imprisonment and Malicious Prosecution 
+
+
+In moving for summary judgment on these claims, defendants 
+rely on several propositions of law, all of which in themselves are 
+correct. First, if defendants establish probable cause for plaintiff's 
+arrest, his claims under §1983 of false arrest, false imprisonment 
+and malicious prosecution necessarily fail. Biddle v. Martin, 992 
+
+
+"F.2d 673, 678 (7th Cir. 1993); Mark v. Furay, 769 F.2d 1266, 
+
+
+1268-1269 (7th Cir. 1985). The existence of probable cause is also 
+a defense to state law claims of false arrest, false imprisonment and 
+malicious prosecution. Myatt v. City of Chicago, 816 F. Supp. 
+1259, 1267 (N.D. Ill. 1992) (citing Mosley v. La Mastus, 741 F. 
+Supp. 724 (N.D. Ill. 1990)); Jones v. Village of Villa Park, 815 F. 
+Supp. 249, 252-253 (N.D. Ill. 1993). Probable cause existed if at 
+the moment of the arrest, the facts and circumstances within 
+defendants’ knowledge were sufficient to warrant a prudent man in 
+believing that a crime was being or had been committed. See 
+Hunter v. Bryant, __ U.S. ___, 112 S.Ct. 534, 537 (1991). 
+
+
+Besides challenging plaintiff's showing of probable cause, 
+defendants raise qualified immunity as a defense. Qualified 
+immunity shields law enforcement officers from damages if they 
+“’reasonably but mistakenly conclude that probable cause is 
+present.’” Jd. (quoting Anderson v. Creighton, 483 U.S. 635, 641 
+(1987)). If a case involves questions as to whether probable cause 
+existed to support officers’ actions, the case should not be permitted 
+to go to trial if there is amy reasonable basis to conclude that 
+
+
+9a 
+
+
+probable cause existed. Biddle, 992 F.2d at 676.1 On the other 
+hand, claims of qualified immunity are not susceptible to resolution 
+on summary judgment if there is substantial Overlap between the 
+issue of immunity and the principal issue on the merits. Maxwel/ 
+v. City of Indianapolis, 998 F.2d 431, 435-436 (7th Cir. 1993). 
+See also Meyer v. Robinson, 992 F.2d 734. 737 (7th Cir. 1993). 
+Thus, in a false arrest case, an officer might be denied summary 
+judgment on a qualified immunity defense if the evidence raises 
+questions as to whether a reasonable police officer would have 
+found probable cause for an arrest. See Maxwell, 998 F.2d at 436: 
+Mahoney v. Kesery, 976 F.2d 1054, 1058 (7th Cir. 1992). This 
+result may obtain even if all officers involved in the arrest 
+subjectively believe the arrestee is committing or has committed a 
+crime. dd. 
+
+
+The establishment of probable cause for a disorderly conduct 
+arrest requires only a reasonable belief that the arrestee’s conduct 
+threatened a breach of the peace. See id. at 677-678. While 
+defendants maintain that the test is easily met here, again that 
+contention rests on their own testimony. Plaintiff has not been able 
+to summon eyewitness testimony to the contrary, but he has a 
+sufficient explanation for his inability to do so. Plaintiff has also 
+presented evidence that, at the time of his arrest, he may have been 
+weakened by the insulin reaction and unable to summon the level 
+of resistance that defendants claim he did. If obviously weakened, 
+it is conceivable that no reasonable officer might have found cause 
+for arrest. Plaintiff's inability to recall is potentially more 
+detrimental to his claims of lack of cause to arrest than it is to his 
+claims of excessive force, since the fact of his injuries supports an 
+inference of excessive force used. As determined above. the 
+excessive force claims must be tried. Since there is substantial 
+overlap between the claims of excessive force and lack of probable 
+
+
+Qualified immunity may also apply in cases of excessive force claims 
+under §1983. See Rice v. Burks, 999 F.2d 1172 (7th Cir. 1993). In such 
+cases, a plaintiff may not base his claim on mere speculation that force 
+was excessive. /d. at 1175. However, the plaintiff may avoid the 
+application’ of qualified immunity if he can show that the force used was 
+so excessive that officers should have been on notice that they were 
+violating the Fourth Amendment. /d. at 1174. 
+
+
+——————————<L 
+
+
+10a 
+
+
+cause, and because there is at least some possibility plaintiff could 
+prove lack of probable cause, the court will deny summary 
+judgment on the question of probable cause to arrest. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, defendants’ motion for 
+Summary judgment is denied. 
+
+
+ENTER: 
+
+
+JOAN B. GOTTSCHALL 
+United States Magistrate Judge 
+
+
+DATED: October 26, 1993 
+
+

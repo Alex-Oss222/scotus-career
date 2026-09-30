@@ -1,0 +1,1461 @@
+Supreme 
+Court, U.S. 
+FiLED 
+94 
+ZS8S8NOV 1 4994 
+No. _ Office 
+Ue ine CLERK 
+In The 
+Supreme Court of the United States 
+October Term, 1994 
++ 
+CITY OF MILWAUKEE, 
+Petitioner, 
+CEMENT DIVISION, NATIONAL GYPSUM 
+COMPANY, et al., 
+Respondents. 
++ 
+Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Seventh Circuit 
+. 
+PETITION FOR A WRIT OF CERTIORARI 
+7 
+GRANT 
+F. LANGLEY 
+City Attorney 
+Counsel of Record 
+RupoitepH M. Konrap 
+Deputy City Attorney 
+800 City Hall 
+200 East Wells Street 
+Milwaukee, Wisconsin 53202 
+(414) 286-2601 
+Counsel for Petitioner 
+October 31, 1994 
+COCKLE LAW BRIEF PRINTING CO., 
+(800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTION PRESENTED 
+In an admiralty collision case, is a genuine dispute 
+regarding liability in a mutual fault case a peculiar cir- 
+cumstance permitting the district court in its discretion to 
+deny a request for prejudgment interest by a party bear- 
+ing twice as much fault as the party from whom interest 
+is sought? 
+
+ii 
+LIST OF PARTIES 
+The parties to the proceedings below were the peti- 
+tioner City of Milwaukee and the respondents Cement 
+Division, National Gypsum Company; Reed & Brown, 
+Inc.; New York Marine Managers, Inc.; Allstate Insurance 
+Company, c/o American Marine Underwriters, Inc.; 
+Highlands Insurance Company; Employers Casualty 
+Company of Texas, c/o Texas Marine Underwriters 
+Agency, Inc.; Donald H. Miller, Inc.; U.S. Fidelity and 
+Guarantee Company; Great Lakes Protective Association; 
+The Atlantic Companies; Lloyds Underwriters, Institute 
+Companies, including: Commercial Union Assurance Co. 
+Ltd., “I” A/o. Andrew Weir Insurance Co. Ltd., English & 
+American Insurance Co. Ltd., “M” 1 A/o., Orion Insur- 
+ance Co. Ltd., “T” A/o. Yasuda Fire & Marine Insurance 
+Co. (U.K.) Ltd., “T” A/o., Atlas Assurance Co. Ltd., “T” 
+A/o., Phoenix Assurance Co. Ltd., British Law Insurance 
+Co. Ltd., Road Transport and General Insurance Co. Ltd., 
+Insurance Company of North America (U.K.) Ltd., “G” 
+A/o., Insurance Company of North America (U.K.) Ltd., 
+“O” A/o., Home Insurance Co. Ltd., “X” A/o., London & 
+Hull Maritime Insurance Co. Ltd., Hanover Insurance Co. 
+Ltd., Sphere Insurance Co. Ltd., Drake Insurance Co. 
+Ltd., Bishopsgate Insurance Co. Ltd., “F” A/o., British 
+Law Insurance Co. Ltd., No. 2 A/o., Minster Insurance 
+Co. Ltd., No. 2 A/o., Insurance Corporation of Ireland, 
+“L” A/o., Folksam International Insurance Co. (U.K.) 
+Ltd., Terra Nova Insurance Co. Ltd. per Andrew Drysdale 
+Ltd., Economic Insurance Co. Ltd., “GENERAL” A/o., 
+c/o Willis, Faber & Dumas Ltd., Ten Trinity Square, Lon- 
+don EC3P 3AX England. 
+Petitioner, City of Milwaukee, has no parent com- 
+panies, subsidiaries, or affiliates to list pursuant to Rule 
+29.1. 
+
+ili 
+TABLE OF CONTENTS 
+Page 
+Sg ee. 
+se 9 rae Keowee 
+CE 
+ee eee 
+ii 
+pe 
+pe 8 sg) 
+iv 
+Ee 
+ee 
+1 
+ee 
+TEAC Ls aba btw ae.cese eases eeecs 
+2 
+eee GPP BOE CAGE... 
+2. 
+occ 
+c ccc eces eves 
+3 
+REASONS FOR GRANTING THE WRIT ........... 
+7 
+The Seventh Circuit’s Decision, Although Consis- 
+tent with the Decisions of the Ninth and Sixth 
+Circuits, Directly Conflicts with Decisions of the 
+Piten ance Eleventh Circuits...............2.c00ee. 
+7 
+ee 
+bas sae baae wend ees 14 
+APPENDIX 
+Decision of the United States Court of Appeals 
+for the Seventh Circuit (August 5, 1994).......... la 
+Amending Order of the United States Court of 
+Appeals for the Seventh Circuit (August 22, 
+EEE 
+ES 
+ee ee eee 
+eee 16a 
+Judgment in a Civil Case of the United States 
+District Court for the Eastern District of Wis- 
+re 18a 
+Decision and Order of the United States District 
+Court for the Eastern District of Wisconsin 
+EE Sib Sh bins 64k 
+oisio ps obec cece revenues 19a 
+
+iv 
+TABLE OF AUTHORITIES 
+Page 
+FEDERAL CASES 
+Alkmeon Naviera, S.A. v. M/V Marina L., 633 F.2d 
+Fae Te GS RN kw 
+devin dyna essen seadee«rs passim 
+Anderson v. Whittaker Corp., 894 F.2d 804 (6th Cir. 
+Peer 
+TTC Terre Tey 
+TT roe 
+Tere 7,9 
+Ceja v. Mike Hooks, Inc., 690 F.2d 1191 (5th Cir. 
+| 
+rer ere 
+re err Tre rT ere re tere Tr eer 11 
+Cement Div., Nat. Gypsum Co. v. City of Milwaukee, 
+915 F.2d 1154 (7th Cir. 1990), cert. denied, 499 
+SI Se RPE A nob 0k 
+s SSS 
+o 6 vee Avg ae VRdEEUS sures e ees 4 
+Cement Div., Nat. Gypsum Co. v. City of Milwaukee, 
+oe 
+Fo Re 
+oe | 
+peer 
+r er rrr errr rcrer 1 
+Inland Oil and Transport Co. v. Ark-White Towing 
+Co., GO6-F.2G Fil (OU Cie. TOGO) oc ces ccc secses passim 
+McDermott, Inc. v. Clyde Iron, 979 F.2d 1068 (5th 
+Cir. 1992), rev'd on other grounds, 511 U.S. __, 
+REO DAA. Be CHE occ 
+seed ee seceinteceiacceves 13 
+Nat G. Harrison Overseas Corp. v. American Tug 
+Them, SiG P20 BP. (5 CA. F070) a6 ciiennstccccnass 12 
+Parker Towing Co. v. Yazoo River Towing, Inc., 794 
+PAG Fe CER Gy BO a i 6 6 60854 sence 
+asa egers ss 11 
+Pluyer v. Mitsui O.S.K. Lines, Ltd., 664 F.2d 1243 
+CO SO Roe 
+aos ck 
+deb ek abel 
+secre eeeane ess: 12 
+Sinclair Refining Co. v. S.S. Green Island, 426 F.2d 
+OD Ce Gi Ba ha 
+ies 
+a 
+ehh Fe Ry ve 
+6 
+The Maggie J. Smith, 123 U.S. 349 (1887)...........-- 14 
+
+Vv 
+TABLE OF AUTHORITIES - Continued 
+Page 
+United States v. Reliable Transfer Co., 421 U.S. 397 
+CIDTS) ccc divceunscencanenanicensentewnecerans passim 
+West Virginia v. United States, 479 U.S. 305 (1987)..... 6 
+Unrtep STATES CODE 
+28 U.S.C. § 1254(a) ..... cece cree cece ence eeeeececcees 2 
+28 U.S.C. § 1291......ccrccccccccccccccencscercececes 2 
+28 U.S.C. § 1292(a)(3)..-- 
+ee eee 
+e eee eee 
+e teen eecees 3 
+gt de Gn 
+ory era eer 
+re ter eres 24 
+
+H
+
+* 
+In The 
+Supreme Court of the United States 
+October Term, 1994 
+¢ 
+CITY OF MILWAUKEE, 
+Petitioner, 
+CEMENT DIVISION, NATIONAL GYPSUM 
+COMPANY, et al., 
+Respondents. 
+¢ 
+Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Seventh Circuit 
+2 
+PETITION FOR A WRIT OF CERTIORARI 
+¢ 
+The petitioner, City of Milwaukee, respectfully prays 
+that a writ of certiorari issue to review the judgment and 
+opinion of the United States Court of Appeals for the 
+Seventh Circuit entered in the above-entitled proceeding 
+on August 5, 1994. 
+OPINIONS BELOW 
+The opinion of the Court of Appeals for the Seventh 
+Circuit is reported at 31 F.3d 581 (7th Cir. 1994), and is 
+reprinted in the appendix hereto. [1a] 
+
+The decision and order of the United States District 
+Court for the Eastern District of Wisconsin has not been 
+reported. It is reprinted in the appendix hereto. [19a] 
+* 
+JURISDICTION 
+Invoking federal jurisdiction under 28 U.S.C. § 1333, 
+the respondents brought this suit in admiralty in the 
+Eastern District of Wisconsin. The Eastern District bifur- 
+cated the trial of liability and damages, and liability was 
+ultimately established 
+as follows: two-thirds against 
+respondents and one-third against petitioner. 
+After liability was established the parties settled all 
+damages issues except whether respondents are entitled 
+to prejudgment interest on the damages paid by the City. 
+On May 28, 1993, the Eastern District adjudged that the 
+petitioner was not liable to respondents for payment of 
+prejudgment interest and dismissed the action on its 
+merits. [18a] 
+Respondents appealed the decision of the Eastern 
+District to the Seventh Circuit under 28 U.S.C. § 1291. On 
+August 5, 1994, the Seventh Circuit entered an opinion 
+and judgment reversing the Eastern District’s denial of 
+prejudgment interest. [1a] 
+The jurisdiction of this Court to review the judgment 
+of the Seventh Circuit is invoked under 28 U.S.C. 
+§ 1254(a). 
+
+STATEMENT OF THE CASE 
+On December 24, 1979, the SS EM FORD, a self- 
+unloading bulk cement carrier, loaded with 5,700 tons of 
+bulk cement, was moored in a slip in Milwaukee’s outer 
+harbor on southern Lake Michigan. In the course of a 
+severe winter storm, the FORD, over a twelve-hour 
+period, broke loose from its moorings, battered against 
+the headwall of the slip, tore holes in its hull, took on 
+water and sank to the bottom of the slip. 
+The owners of the vessel, National Gypsum, and its 
+insurers brought this suit in admiralty pursuant to 28 
+U.S.C. § 1333 against the City seeking $6.5 million in 
+damages. The suit alleged, among other things, that the 
+City had negligently breached its duty as a wharfinger by 
+failing to warn National Gypsum of the danger posed by 
+weather to vessels in the berthing slip. The City denied 
+fault and alleged in its counterclaim that National Gyp- 
+sum was negligent in leaving the FORD moored in an 
+outer harbor in winter virtually unmanned, and with no 
+means of monitoring weather or summoning tugs or a 
+pilot for assistance. The City sought to recover $250,000 
+for damages to the dockwall caused by the vessel. 
+The trial was bifurcated, with the liability portion 
+tried in January, 1986 to the district court without a jury. 
+The district court, in an opinion rendered in June, 1989, 
+found both National Gypsum and the City negligent and 
+contributorily negligent, and found National Gypsum 96 
+percent at fault and the City 4 percent at fault. 
+National Gypsum by means of an interlocutory 
+appeal pursuant to 28 U.S.C. § 1292(a)(3), appealed that 
+portion of the district court’s decision apportioning fault 
+) 
+
+96/4. The Seventh Circuit held that the district court’s 
+apportionment of fault was clearly erroneous and reap- 
+portioned fault two-thirds upon National Gypsum and 
+one-third upon the City. Cement Div., Nat. Gypsum Co. v. 
+City of Milwaukee, 915 F.2d 1154 (7th Cir. 1990), cert. 
+denied, 499 U.S. 960 (1991). 
+Following remand, the parties negotiated a settlement of 
+the damages issue. The parties agreed that the City owed the 
+plaintiffs the amount of $1,677,541.86 in damages, which the 
+City promptly paid in January, 1992. The parties were unable 
+to reach an agreement on the issue of prejudgment interest 
+and submitted the issue to the district court to decide. 
+National Gypsum requested the district court to award 
+$5,317,807.70 in prejudgment interest, which the City 
+opposed. Following briefing on the issue, the district court 
+denied the request for prejudgment interest. 
+The district court, although recognizing that an 
+award of prejudgment interest is the general rule in 
+admiralty, decided that under the peculiar circumstances 
+of this case, it would be inequitable to require the City to 
+pay prejudgment interest. The district court found that 
+the case involved a genuine dispute over a good faith 
+claim in a mutual fault case, and held that the mutual 
+fault of the parties, including the fact that National Gyp- 
+sum was two-thirds at fault, rendered any award of pre- 
+judgment interest inequitable. The district court also 
+found that the City’s status as a municipality undercut 
+one of the reasons for awarding prejudgment interest. 
+Prejudgment interest is awarded generally, the district 
+court noted, because the shipowner has been deprived of 
+money to repair the ship, while the wrongdoer is accru- 
+ing interest on the money. In this case, however, the City 
+
+had not accrued interest on the amount owed and, 
+accordingly, should not be treated as if it had. [19a] 
+National Gypsum appealed. 
+In deciding the appeal, the Seventh Circuit examined 
+the Ninth Circuit’s decision in Alkmeon Naviera, S.A. v. 
+M/V Marina L., 633 F.2d 789 (9th Cir. 1980). The Ninth 
+Circuit in Alkmeon Naviera held that in light of the com- 
+parative fault rule announced by this Court in United 
+States v. Reliable Transfer Co., 421 U.S. 397 (1975), mutual 
+fault can no longer constitute a reason to deny an other- 
+wise appropriate award of prejudgment interest. The 
+Ninth Circuit reasoned that prior to this Court’s ruling in 
+Reliable Transfer, collision cases were decided in accor- 
+dance with the equal division of damages rule. Under 
+that rule, where both parties were found to be at fault for 
+a collision, the parties’ damages would be added together 
+and the total would be divided between them. The party 
+whose damages were lesser would pay to the other party 
+one-half of the difference between their respective losses. 
+The less culpable party would be required to pay one-half 
+of the other party’s damages. To award prejudgment 
+interest to the more culpable party would penalize the 
+less culpable party who, having paid one-half of the other 
+party’s damages, would have to pay interest on that 
+amount as well. This potential for distortion of compen- 
+sation led some courts to deny requests for prejudgment 
+interest where the party seeking it was substantially more 
+at fault. The Ninth Circuit reasoned that because this 
+Court in Reliable Transfer replaced the equal division of 
+damages rule with the comparative fault rule “distortions 
+in compensation can no longer occur.” Alkmeon Naviera, 
+
+633 F.2d at 798 n.12. Accordingly, the reason for denying 
+prejudgment interest no longer exists. [7a-9a] 
+The Seventh Circuit rejected what it characterized as 
+the balancing of the equities approach used by the Fifth 
+Circuit in Inland Oil and Transport Co. v. Ark-White Towing 
+Co., 696 F.2d 321 (5th Cir. 1983). In rejecting the Fifth 
+Circuit’s approach, the Seventh Circuit relied upon this 
+Court’s decision in West Virginia v. United States, 479 U.S. 
+305 (1987), which held that parties owing a debt to the 
+federal government must pay prejudgment interest where 
+the underlying claim is a contractual obligation to pay 
+money. [9a-10a] 
+The Seventh Circuit also rejected the rationale of the 
+Fifth Circuit stated in Sinclair Refining Co. v. S.S. Green 
+Island, 426 F.2d 260, 262 (5th Cir. 1970), that uncertainty 
+concerning ultimate liability which characterizes mutual 
+fault cases mitigates against awarding prejudgment inter- 
+est. The Seventh Circuit reasoned that the uncertainty 
+concerning ultimate liability which existed under the 
+equal division of damages rule does not exist under the 
+comparative fault rule. [11la-12a] 
+Finally, the Seventh Circuit held that the City’s status 
+as a municipality does not constitute a peculiar circum- 
+stance warranting denial of prejudgment interest. The 
+court found no precedent for the district court’s decision, 
+although the issue had not been raised in previous cases. 
+[13a] 
+The Seventh Circuit adopted the rationale of the 
+Ninth Circuit in Alkmeon Naviera and held that mutual 
+fault of the parties in an admiralty collision case does not 
+constitute a peculiar circumstance justifying denial of 
+
+prejudgment interest. Accordingly, the Seventh Circuit 
+held that the district court’s holding that a genuine dis- 
+pute in a mutual fault case is a peculiar circumstance 
+justifying the denial of prejudgment interest was clearly 
+erroneous, reversed the judgment of the district court, 
+and remanded for the calculation of prejudgment interest. 
+[13a, 15a] 
++ 
+REASONS FOR GRANTING THE WRIT 
+The Seventh Circuit’s Decision, Although Consistent 
+with the Decisions of the Ninth and Sixth Circuits, 
+Directly Conflicts with Decisions of the Fifth and Elev- 
+enth Circuits. 
+The Seventh Circuit, in deciding that mutual fault of 
+the parties in an admiralty collision case is not a peculiar 
+circumstance justifying denial of prejudgment interest, 
+followed the decision of the Ninth Circuit in Alkmeon 
+Naviera, S.A. v. M/V Marina L., 633 F.2d 789 (9th Cir. 1980), 
+and of the Sixth Circuit in Anderson v. Whittaker Corp., 894 
+F.2d 804 (6th Cir. 1990). The decision of the Seventh 
+Circuit in this case and the decisions of the Ninth Circuit 
+in Alkmeon Naviera and the Sixth Circuit in Anderson 
+directly conflict with decisions of the Fifth and Eleventh 
+Circuits. In addition, the decision of the Seventh Circuit 
+that the degree of fault of the party seeking interest is 
+irrelevant, conflicts with the decision of the Fifth Circuit 
+on this point. 
+
+A. 
+Mutual Fault 
+In Inland Oil and Transport Co. v. Ark-White Towing Co., 
+- 
+696 F.2d 321 (5th Cir. 1983), the Fifth Circuit affirmed the 
+district court’s denial of plaintiff-tow’s request for prejudg- 
+ment interest where the court found the plaintiff-tow 25 
+percent at fault for the collision and the defendant-tow 75 
+percent. The Fifth Circuit held that “the existence of a genu- 
+ine dispute regarding ultimate liability or the complexity of 
+the factual and legal issues to be resolved” constitutes a 
+“peculiar circumstance, justifying denial of prejudgment 
+interest.” Id. at 328. The Fifth Circuit rejected plaintiff's 
+argument that because a “serious dispute” always exists at 
+trial, it should not be a basis for denying prejudgment 
+interest. The court stated as follows: 
+Yet a finding that a plaintiff was partially at 
+fault weakens his equitable claim that his funds 
+have been withheld by a recalcitrant party. Not 
+surprisingly then, our cases have consistently 
+upheld denials of prejudgment interest in cases 
+of apportioned fault. 
+Id. at 328. 
+The Seventh Circuit held, contrary to the foregoing, 
+that mutual fault is no longer a valid reason for denying 
+prejudgment interest because comparative fault princi- 
+ples now apply in all admiralty collision cases, citing 
+United States v. Reliable Transfer Co., 421 U.S. 397 (1975). 
+The Seventh Circuit reasoned that the rationale which 
+compelled the Court to abrogate the equal division of 
+damages rule in Reliable Transfer supports the conclusion 
+that neither mutual fault nor the degree of fault of the 
+party seeking interest is germane to the question of 
+whether prejudgment interest should be awarded. 
+
+Reliable Transfer did hold that comparative fault prin- 
+ciples were to apply in all admiralty collision cases, but 
+did not discuss, much less address, the question of 
+whether mutual fault justifies denial of prejudgment 
+interest because that question was not before the Court. 
+Several circuits have addressed the question in the con- 
+text of a request for prejudgment interest of a party who 
+had been found to be contributorily negligent. No circuit 
+has previously addressed the question in the context of a 
+request of a party who had been found to be primarily 
+responsible for the casualty, as is the case with the 
+insured shipowner here. 
+In support of its position, the Seventh Circuit cites 
+Alkmeon Naviera and Anderson. Both cases utilize an anal- 
+ysis that has been rejected as flawed by the Fifth and 
+Eleventh Circuits. In Alkmeon Naviera, the Ninth Circuit 
+held that there were no “peculiar circumstances” justify- 
+ing denial of prejudgment interest notwithstanding a 
+finding that the plaintiff was 40 percent at fault. The 
+rationale for the court’s decision was that the abrogation 
+of the equal division of damages rule in Reliable Transfer 
+made it no longer necessary to deny prejudgment interest 
+on mutual fault grounds because the distortion in com- 
+pensation, which would occur by awarding prejudgment 
+interest against parties who were slightly negligent, 
+would no longer occur. Alkmeon Naviera, 633 F.2d at 798 
+n.12. 
+In Anderson, the Sixth Circuit followed Alkmeon 
+Naviera in holding that mutual fault alone should not 
+justify the denial of prejudgment interest in a wrongful 
+death case brought under maritime law. The decision was 
+
+10 
+made in an action brought against the boat manufac- 
+turers, boat owners, and others by the families and repre- 
+sentatives 
+of boaters who had drowned. 
+Plaintiffs’ 
+decedents were found to be 20 percent at fault. 
+The Fifth Circuit has not only declined to reconsider 
+the rule governing the award of prejudgment interest in 
+mutual fault cases, but has specifically rejected the ratio- 
+nale relied upon by the Ninth and Sixth Circuits. Inland 
+Oil and Transport Co. v. Ark-White Towing Co., 696 F.2d 321, 
+329. Commenting on the rationale in Alkmeon Naviera, the 
+Fifth Circuit noted that prior to the decision in Reliable 
+Transfer, courts made no distinction between denying pre- 
+judgment interest in collision cases and denying it in 
+personal injury cases, although personal injury cases 
+were not subject to the equal division of damages rule 
+abrogated in Reliable Transfer, but instead were subject to 
+the same comparative negligence rule that the court held 
+was to apply in collision cases. Id. The court stated: 
+The flaw in this analysis is that comparative 
+fault has long been the rule in maritime per- 
+sonal injury actions. See United States v. Reliable 
+Transfer Co., 421 U.S. at 408 at n. 13, 95 S.Ct. at 
+1714 n. 13. Yet courts drew no distinction 
+between denials of prejudgment interest in colli- 
+sion cases and such denials in personal injury 
+cases. The Ninth Circuit’s intimation that 
+denials of prejudgment interest were somehow 
+tied up with the rule of divided damages is not 
+persuasive. We conclude that Reliable Transfer 
+does not require reexamination of the law 
+regarding denials of prejudgment interest. 
+Inland Oil and Transport Co., 696 F.2d at 329. 
+
+11 
+The Eleventh Circuit has followed the Fifth Circuit 
+and has held that the existence of a genuine dispute 
+regarding liability is one “peculiar circumstance” which 
+may warrant denial of prejudgment interest, and that 
+“the existence of such a peculiar circumstance is gener- 
+ally assumed in cases of apportioned fault.” Parker Towing 
+Co. v. Yazoo River Towing, Inc., 794 F.2d 591, 594 (11th Cir. 
+1986). 
+B. 
+Degree of Fault 
+The Seventh Circuit rejected the idea that awarding 
+prejudgment interest to a party two-thirds at fault for the 
+collision might be inequitable. In contrast, the Fifth Cir- 
+cuit has consistently held that a high degree of contribu- 
+tory negligence constitutes a peculiar circumstance that 
+would make it inequitable to award prejudgment interest. 
+In Ceja v. Mike Hooks, Inc., 690 F.2d 1191 (5th Cir. 
+1982), the Fifth Circuit vacated a judgment rendered in 
+favor of a deck hand which had been reduced 75 percent 
+due to the deck hand’s contributory negligence. The dis- 
+trict court had denied prejudgment interest because of 
+the degree of contributory negligence found on the part 
+of the deck hand. The Fifth Circuit reversed the finding of 
+75 percent contributory negligence against the deck hand 
+because the district court had considered a factor in the 
+case that reflected an impermissible expansion of the 
+limited duties placed upon seamen in the safe perfor- 
+mance of their duties. Id. at 1194. Because the Fifth Cir- 
+cuit reversed 
+the district court’s finding on the 
+
+12 
+underlying issue of the degree of contributory negli- 
+gence, it also reversed and remanded the derivative find- 
+ing denying prejudgment interest. Id. at 1196. Having 
+remanded the case for a new finding concerning contrib- 
+utory negligence and prejudgment interest, the court 
+stated: 
+On remand, the issue for the trial court is 
+whether the degree of contributory negligence it 
+finds gives rise to a “peculiar circumstance” that 
+would make it inequitable to apply the usual 
+rule granting prejudgment interest. 
+In the 
+proper case, a high degree of contributory negli- 
+gence might well be considered by the district 
+court in invoking its discretion to deny prejudg- 
+ment interest. 
+Id. at 1197. 
+In Inland Oil and Transport Co., the Fifth Circuit relied 
+in part upon this statement in upholding a denial of 
+prejudgment interest claimed by a party who had been 
+found 25 percent at fault. 696 F.2d at 328. The Fifth 
+Circuit also noted with approval two of its previous cases 
+where it had affirmed the denial of prejudgment interest 
+because of the degree of contributory negligence by the 
+party seeking the interest award: Nat G. Harrison Overseas 
+Corp. v. American Tug Titan, 516 F.2d 89 (5th Cir. 1975) 
+[affirming the denial of prejudgment interest to a 
+bargeowner whose claim against a stevedoring operation 
+had been reduced 50 percent because of the barge’s 
+unseaworthiness.]; and Pluyer v. Mitsui O.S.K. Lines, Ltd., 
+664 F.2d 1243 (5th Cir. 1982) [upholding denial of pre- 
+judgment interest in a personal injury suit brought by a 
+
+13 
+longshoreman who had been found 40 percent contrib- 
+utorily negligent.] Id. 
+The Fifth Circuit recently reaffirmed its reasoning in 
+Inland Oil in McDermott, Inc. v. Clyde Iron, 979 F.2d 1068 
+(Sth Cir. 1992), rev’d on other grounds, 511 U.S. __, 114 
+S.Ct. 1461 (1994). There the Fifth Circuit upheld a denial 
+of prejudgment interest to the purchaser of a crane which 
+was damaged along with the offshore platform deck it 
+was lifting when the crane hook and sling broke. Fault 
+was allocated 32 percent to the crane manufacturer, 38 
+percent to the hook manufacturer, and 30 percent to the 
+purchaser and sling defendants with which the purchaser 
+had settled. The court based its conclusion upon the 
+existence of a genuine dispute over good faith claims in a 
+mutual fault setting. The court stated: 
+“Our cases have consistently upheld denials of 
+prejudgment interest in cases of apportioned 
+fault.” 
+Id. at 1081 (quoting Inland Oil and Transport Co., 696 F.2d 
+at 328). The court also approved a jury instruction which 
+charged: 
+The circumstances which may justify denial of 
+an award for pre-judgment interest are as fol- 
+lows: A genuine dispute over a good faith claim 
+exists in a mutual fault situation - mutual fault 
+setting; the damages awarded are substantially 
+less than the amount claimed by the Plaintiff; the 
+Plaintiff's contributory negligence is to such a mag- 
+nitude as to make and [sic] award of pre-judgment 
+interest inequitable. (emphasis added) 
+McDermott, Inc., 979 F.2d 1068 at 1081 n.17. 
+¢ 
+
+14 
+CONCLUSION 
+For over a century, this Court has held that an award 
+of prejudgment interest in admiralty “rested in the discre- 
+tion of the court below.” The Maggie J. Smith, 123 U.S. 349, 
+356 (1887). In The Maggie J. Smith, this Court held that 
+denying prejudgment interest to a party found not to be 
+at fault for a collision is a proper exercise of the district 
+court’s discretion. This Court’s decision in Reliable Trans- 
+fer did not discuss, much less address, the question of 
+whether the century old rule governing the awarding of 
+prejudgment interest should be changed. 
+The decisions of the Seventh, Ninth and Sixth Cir- 
+cuits have replaced the discretion of the district court to 
+equitably decide applications for prejudgment interest in 
+mutual fault admiralty cases with a mechanical rule 
+requiring the awarding of prejudgment interest irrespec- 
+tive of the degree of fault of the party seeking interest. 
+The error in their reasoning is their conclusion that under 
+the comparative fault rule “distortions in compensation 
+can no longer occur.” Alkmeon Naviera, 633 F.2d at 798 
+n.12. The fallacy of this conclusion is illustrated by this 
+case. 
+The parties in this case agreed that National Gyp- 
+sum’s damages, less the offset for the City’s damages, 
+were $5,032,625. Under the equal division of damages 
+rule, the City would have been required to pay one-half 
+of the damages amount to National Gypsum, or 
+$2,516,312, but the City would not have been obligated to 
+pay prejudgment interest because it was the party lesser 
+at fault. Under the equal division of damages rule, there- 
+fore, the City would have been required to pay $838,771 
+
+15 
+more in damages than it would have been required to pay 
+under the comparative fault rule, excluding interest. 
+Under the comparative fault rule and the interest rule in 
+Alkmeon Naviera, the City is required to pay one-third of 
+the stipulated damages amount, $1,677,541, plus prejudg- 
+ment interest. In this case, National Gypsum claims 
+$5,317,807 in prejudgment interest, which would require 
+the City to pay a total of $6,995,348, which is $1,962,723 
+more than the total stipulated damages amount, and 
+$4,479,036 more than it would have paid under the equal 
+division of damages rule. It is therefore obvious that each 
+rule results in distortion in compensation; however, the 
+rule in Alkmeon Naviera can result, as in this case, in 
+greater distortion in compensation in favor of the party 
+who has the greater degree of fault than the equal divi- 
+sion of damages rule. 
+It is no answer to say that the City enjoyed the 
+benefit of holding on to the money while this case was 
+pending, because the City, in fact, did not hold on to any 
+money, and the fact that the litigation was lengthy was 
+not the fault of the City. Some distortion in compensation 
+will occur under either rule; however, whatever distor- 
+tion occurs should be in favor of the party least respons- 
+ible for the collision, and not in favor of the party 
+primarily responsible for the collision. To impose upon a 
+party one-third at fault damages in excess of the total 
+damages incurred by the party two-thirds at fault is not 
+only inequitable and unjust, but unconscionable. 
+The conflict between the Fifth and Eleventh Circuits, 
+on the one hand, and the Seventh, Ninth and Sixth Cir- 
+cuits, on the other hand, will not resolve itself because 
+
+16 
+both sides have already considered and rejected the rea- 
+soning of the other side. The question can only be 
+resolved by this Court and this Court should resolve it in 
+this case so that the distortion in compensation which has 
+occurred in this case is corrected and will not occur in the 
+future. 
+For these reasons, the petitioner respectfully requests 
+the Court to grant the petition. 
+Respectfully submitted, 
+GRANT F. LANGLEY 
+Milwaukee City Attorney 
+Counsel of Record 
+RupoLteH M. Konrap 
+Deputy City Attorney 
+800 City Hall 
+200 East Wells Street 
+Milwaukee, Wisconsin 53202 
+(414) 286-2601 
+Counsel for Petitioner 
+October 31, 1994 
+
+APPENDIX 
+
+
+la 
+IN THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+No. 93-2545 
+CEMENT Division, NATIONAL GypsuM CompPaNy, REED & 
+BROWN, INCORPORATED, New YorK MARINE MANAGERS, INCOR- 
+PORATED, et al., 
+Plaintiffs-Appellants, 
+City oF MILWAUKEE, 
+Defendant-Appellee. 
+Appeal from the United States District Court 
+for the Eastern District of Wisconsin. 
+No. 80 C 1001 - Thomas J. Curran, Judge. 
+ARGUED FEBRUARY 25, 1994 -— Decipep Aucust 5, 1994 
+Before CumMMINGS AND Manion, Circuit Judges, and 
+Mitter, Jr., District Judge.” 
+Manion, Circuit Judge. While moored at a berth in the 
+Port of Milwaukee, a ship broke away, crashed into a 
+headwall and sank. The ship’s owners and insurers sued 
+the city. The first appeal to this court resulted in a divi- 
+sion of liability, two-thirds to the ship’s owners and one- 
+*Hon. Robert L. Miller, Jr., District Judge for the Northern Dis- 
+trict of Indiana, is sitting by designation. 
+
+2a 
+4 
+re 
+third to the city. On remand, the district court determined 
+that because the parties were mutually at fault, and 
+because the defendant was a municipality, the defendant 
+would not be liable for prejudgment interest on its share 
+of the amount of damages incurred. We reverse the dis- 
+trict court and remand for the calculation of prejudgment 
+interest. 
+I. 
+This appeal is the latest chapter in a 15-year-old 
+dispute arising out of an accident involving a ship called 
+the S/S EM FORD (“FORD”). The facts surrounding the 
+damage to the FORD and its cargo have been set out in 
+copious detail in our previous disposition of this matter 
+in Cement Div., Nat. Gypsum Co. v. City of Milwaukee, 915 
+F.2d 1154 (7th Cir. 1990), cert. denied, 111 S.Ct. 1583 (1991). 
+For purposes of the present appeal, we offer only the 
+following. The FORD was moored at a berth at the Port of 
+Milwaukee, Wisconsin. During a storm, the FORD broke 
+away, crashed into the headwall of its berth and sank to 
+the bottom of the Milwaukee Harbor. Following this, the 
+FORD’s owner, the Cement Division of the National Gyp- 
+sum Company, along with the ship’s various insurers 
+(referred to collectively as “National Gypsum”), com- 
+menced an admiralty action against the City of Mil- 
+waukee (“City”), claiming $4.5 million in damages to the 
+FORD and her cargo. The City denied liability, alleged 
+contributory negligence on the part of National Gypsum 
+and sought $250,000 from National Gypsum for damage 
+to the City’s dockwall caused by the FORD. 
+
+3a 
+At a bifurcated 
+trial on the issue of liability, the 
+district court found National Gypsum to be 96% negli- 
+gent and the City 4% negligent. Following an interlocu- 
+tory appeal, we reversed the district court’s allocation of 
+liability, and reapportioned the parties’ liability, two- 
+thirds to National Gypsum, one-third to the City. See Nat. 
+Gypsum Co., 915 F.2d at 1160. 
+Following remand, the parties negotiated the issue of 
+damages. Pursuant to a settlement agreement, a judgment 
+was entered 
+against 
+the City in the amount 
+of 
+$1,788,541.86, which the City promptly paid over to the 
+court. Hence, the only issue left for the district court to 
+determine was whether National Gypsum was entitled to 
+collect prejudgment interest — to the tune of $5,317,807.70 
+- on the damages paid by the City. Following briefing on 
+the issue, the district court denied National Gypsum’s 
+request for prejudgment interest. Although recognizing 
+that an award of prejudgment interest is the general rule 
+in admiralty, the district court determined that under the 
+peculiar circumstances of this case it would be inequita- 
+ble to require the City to pay prejudgment interest. Speci- 
+fically, the district court determined that the mutual fault 
+of the parties, including the fact that National Gypsum 
+was two-thirds contributorily negligent, rendered any 
+award of prejudgment interest inequitable. 
+Alternatively, the district court found that the City’s 
+status as a municipality undercut one of the reasons for 
+awarding prejudgment interest. The district court noted 
+that an admiralty plaintiff is awarded prejudgment inter- 
+est because from the date of the loss, the plaintiff-ship- 
+owner has been deprived of the money to repair his ship 
+while, at the same time, the wrongdoer has enjoyed the 
+
+da 
+use of the victim’s money and is accruing interest on it. 
+The district court observed that a municipality, “is not in 
+[a] position. 
+. 
+. 
+. to set aside an interest bearing fund at 
+the time of loss, but can only levy taxes to pay a settle- 
+ment or final judgment.” Decision and Order at 5. The 
+district court apparently reasoned that since the City had 
+not been accruing interest on the amount owed to 
+National Gypsum from the date of the accident, it should 
+not be treated as if it had. This unique circumstance, the 
+district court determined, constituted another reason why 
+an award of interest would be inappropriate. This appeal 
+followed. 
+. 
+II. 
+The issue before us is whether the district court erred 
+in denying National Gypsum’s request for prejudgment 
+interest. “The general rule in admiralty, in order to fully 
+compensate the plaintiff, is to award prejudgment inter- 
+est from the date of the accident.” Central Rivers Towing v. 
+City of Beardstown, 750 F.2d 565, 574 (7th Cir. 1984); accord 
+United States v. Peavey Barge Line, 748 F.2d 395, 401, 402 
+(7th Cir. 1984); Bunge Corp. v. American Comm. Barge Line 
+Co., 630 F.2d 1236, 1242 (7th Cir. 1980); First Nat. Bank of 
+Chicago v. Material Serv. Corp., 597 F.2d 1110, 1120 (7th Cir. 
+1979). This general rule notwithstanding, admiralty law 
+also recognizes that a district court has discretion to deny 
+prejudgment interest where it finds that special or pecu- 
+liar circumstances would render such an award inequita- 
+ble. See Central Rivers Towing, 750 F.2d at 574; accord 
+Hillier v. Southern Towing Co., 740 F.2d 583, 585 (7th Cir. 
+1984). Examples of such peculiar circumstances include: 
+(1) the unreasonable delay in filing the action by the 
+9 
+et 
+Re
+DOR
+
+5a 
+party seeking prejudgment interest; (2) false or frivolous 
+claims; (3) the inability to determine liability and the 
+extent of damages eligible for an award of prejudgment 
+interest; and (4) the mutual fault of the parties. See Central 
+Rivers Towing, 750 F.2d at 574. The existence of a peculiar 
+circumstance is a factual determination which we will 
+review for clear error. 
+Hillier, 740 F.2d at 585. If the 
+determination is not clearly erroneous, then the decision 
+to deny prejudgment interest based on the existence of 
+those peculiar circumstances is left to the district court’s 
+discretion. Id. But this discretion “is not unbridled; it is 
+exercised by law.” In Re Oil Spill By The Amoco Cadiz, 954 
+F.2d 1279, 1334 (7th Cir. 1992); see also Afran Transport Co. 
+v. The Bergechief, 285 F.2d 119, 120 (2d Cir. 1960) (stating 
+that a district court’s discretion 
+to deny prejudgment 
+interest is “a legal discretion, rather than merely one at 
+will.”); The Wright, 109 F.2d 699, 702 (2d Cir. 1940) (same). 
+In other words, “[d]iscretionary choices are not left to a 
+court’s inclination, but to its judgment; and its judgment 
+is to be guided by sound legal principles.” Amoco Cadiz, 
+954 F.2d at 1334 (quotations omitted) (citations omitted). 
+As a result, while prejudgment interest in admiralty is 
+within the district court’s discretion, “this discretion must 
+be ‘exercised with a view to the right to interest unless 
+the circumstances are exceptional.’ ” Alkmeon Naviera, 
+S.A. v. M/V MARINA L., 633 F.2d 789, 797 (9th Cir. 1908) 
+(quoting The President Madison, 91 F.2d 835, 847 (9th Cir. 
+1937)). 
+National Gypsum raises two challenges to the district 
+court’s refusal to award prejudgment interest. First, it 
+contends that the district court incorrectly denied pre- 
+judgment interest on the basis of mutual fault. National 
+
+6a 
+Gypsum does not claim that the district court’s finding of 
+mutual fault was clearly erroneous; rather, it maintains 
+that, as a matter of law, mutual fault can no longer 
+constitute a peculiar circumstance justifying the denial of 
+interest. Second, National Gypsum challenges the district 
+court’s determination that the City’s status as a munici- 
+pality shields it from having to pay prejudgment interest. 
+We will address each of these contentions in turn. 
+A. 
+Mutual Fault 
+National Gypsum argues that the mutual fault of the 
+parties cannot constitute a special or peculiar circum- 
+stance justifying the denial of prejudgment interest. 
+While acknowledging at oral argument that this court, in 
+Central Rivers Towing, Hillier and First Nat. Bank of Chi- 
+cago, listed mutual fault as a peculiar circumstance, it also 
+correctly pointed out we have never actually relied on 
+this in affirming a district court’s denial of prejudgment 
+interest. Accordingly, National Gypsum asks us to con- 
+sider whether mutual fault should be recognized in this 
+circuit as a valid basis to deny an award of prejudgment 
+interest. In support of its position, National Gypsum 
+urges us to adopt the reasoning of the Ninth Circuit in 
+Alkmeon Naviera, which has stated that, in light of the 
+proportionate fault rule announced by the Supreme Court 
+in United States v. Reliable Transfer, 421 U.S. 397 (1974), 
+mutual fault can no longer constitute a reason to deny an 
+otherwise appropriate award of prejudgment interest. 
+Therefore, in determining the merits of National Gyp- 
+sum’s arguments, we must first examine the Ninth Cir- 
+cuit’s decision in Alkmeon Naviera. 
+
+7a 
+Alkmeon Naviera involved a collision between two 
+vessels which were both at fault. In ruling on the parties’ 
+requests for prejudgment interest, the district court sum- 
+marily denied the requests, stating without elaboration 
+that the peculiar circumstances of the case did not entitle 
+either party to an award of interest. On appeal, the Ninth 
+Circuit found no basis in the record before it that would 
+justify the district court’s determination and, accordingly, 
+reversed and remanded for a determination of existence 
+of special or [sic] circumstances that would warrant the 
+denial of prejudgment interest. See Alkmeon Naviera, 633 
+F.2d at 798. 
+| 
+The portion of Alkmeon Naviera relevant to the case 
+before us is where the court discusses the reasons behind 
+the mutual fault exception. The court observed that dis- 
+trict courts “denied prejudgment interest in mutual fault 
+cases in order to mitigate the harsh effects of the old 
+equal division of damages rule.” Alkmeon Naviera, 633 
+F.2d at 798 n.12. Under that rule, whenever there was a 
+collision resulting from the fault of both parties, then the 
+parties’ damages would be added together and the total 
+would be equally divided between them. Under that for- 
+mula, if one party’s damages were greater than the 
+other’s, then the court would order the party with the 
+lesser damages to pay over to the other party one-half of 
+the difference between their respective losses, the ratio- 
+nale being that this would equalize the burden. See The 
+Manitoba, 122 U.S. 97, 111 (1887); accord The North Star, 
+106 U.S. 17, 22 (1882). Under this regime, however, courts 
+soon recognized that in cases where one party was only 
+slightly negligent, an award of prejudgment interest to 
+the more culpable party would, in effect, penalize the less 
+
+8a 
+culpable party. This is because that party, having already 
+been saddled with paying one-half of the other party’s 
+damages, would now have to pay prejudgment interest 
+on that amount as well, even though he was significantly 
+less responsible for the damages incurred. This led some 
+courts in divided damages cases either to award prejudg- 
+ment interest to the party who was only slightly at fault, 
+or to deny prejudgment interest in cases where the party 
+seeking it was substantially more at fault. See Alkmeon 
+Naviera, 633 F.2d at 798 n.12; see alsa Iberian Tankers Co. v. 
+Gates Constr. Corp., 504 F.2d 747, 748 (2d Cir. 1974) (stating 
+that in a collision case involving mutual fault “the district 
+court has discretion to deny [prejudgment] interest where 
+the party to whom it would be awarded is substantially at 
+fault.”); Afran Transport Co., 285 F.2d at 120 (suggesting 
+that an award of prejudgment interest to the less culpable 
+party in a case involving mutual fault would be appropri- 
+ate to “ameliorate somewhat the harsh American rule 
+that division of damages must be equal without reference 
+to the degree of fault.”). 
+But as stated earlier, the divided damages rule was 
+thrown overboard by a unanimous Court in United States 
+v. Reliable Transfer and was replaced with comparative 
+fault. That being the case, the court in Alkmeon Naviera 
+reasoned that “distortions in compensation can no longer 
+occur.” Alkmeon Naviera, 633 F.2d at 798 n.12. In other 
+words, because Reliable Transfer extinguished the divided 
+damages rule and thus its harsh effects, there no longer 
+exists a reason to deny prejudgment interest in collisions 
+cases involving mutual fault. In fact, if comparative fault 
+“penalizes wrongdoing [] in proportion to measure of 
+
+9a 
+fault,” Reliable Transfer, 421 U.S. at 405 n.11, then, accord- 
+ing to Alkmeon Naviera, to continue denying prejudgment 
+interest on the basis of mutual fault would, in essence, be 
+penalizing the more culpable party twice for the same 
+mistake. See Alkmeon Naviera, 633 F.2d at 798 n.12 (citing 
+Complaint of B.F.T. No. Two Corp., 433 F.Supp. 854, 876 
+(E.D. Pa. 1977)). For these reasons, the court in Alkmeon 
+Naviera concluded that it no longer made sense to invoke 
+the mutual fault of the parties as a basis to deny prejudg- 
+ment interest. More recently, the Sixth Circuit in Anderson 
+v. Whittaker Corp., 894 F.2d 804 (6th Cir. 1990), took note 
+of and agreed with Alkmeon Naviera’s reasoning in hold- 
+ing that it would no longer consider mutual fault to be a 
+peculiar circumstance justifying the denial of prejudg- 
+ment interest. Anderson, 894 F.2d at 810. We, too, are 
+persuaded by the reasoning in Alkmeon Naviera and like- 
+wise conclude that, as a matter of law, the mutual fault of 
+the parties should not constitute a reason to deny an 
+award of prejudgment interest in admiralty. 
+The City raises several reasons to follow the mutual 
+fault exception, none of which merits extended discus- 
+sion. First, the City appears to argue that the rationale for 
+mutual fault has nothing to do with offsetting the divided 
+damages rule. Instead, the City, relying on Inland Oil and 
+Transport Co. v. Ark-White Towing, 696 F.2d 321 (5th Cir. 
+1983), argues that where the party making a claim to 
+interest is partially at fault, this “weakens his equitable 
+claim that his funds have been withheld by a recalcitrant 
+party.” Inland Oil, 696 F.2d at 328. The City’s contention 
+that the language from Inland Oil best provides a basis for 
+denying prejudgment interest in cases involving mutual 
+fault would require a balancing of the equities approach, 
+
+10a 
+an approach we believe cannot be sustained following the 
+Supreme Court’s decision in West Virginia v. United States, 
+479 U.S. 305 (1987). There, the United States sought 
+recovery of prejudgment interest on a debt incurred by 
+the state of West Virginia for emergency relief provided 
+by the Army Corps of Engineers. The district court in that 
+case held that the question of whether interest had to be 
+paid depended on a balancing of equities between the 
+parties. The Supreme Court’s assessment of this method 
+for refusing to award prejudgment interest was simple: 
+“{Tjhe Court of Appeals rejected such an approach, as do 
+we.” West Virginia, 479 U.S. at 311 n.3 (emphasis added); 
+accord Amoco Cadiz, 954 F.2d at 1334-35.! 
+Second, the City contends that where there is mutual 
+fault, the exact amount of the funds due and owing from 
+each party to the other is not immediately ascertainable 
+and fixed before trial. Because of this uncertainty, the 
+City argues, it is inequitable to charge a party interest for 
+1 We note that the court in Inland Oil heard arguments 
+urging that it adopt the reasoning in Alkmeon Naviera and abol- 
+ish the mutual fault exception. The Fifth Circuit, however, 
+rejected this invitation, claiming that the reasoning in Alkmeon 
+Naviera was flawed. This was because, according to Inland Oil, 
+“comparative fault has long been the rule in maritime personal 
+injury actions. Yet courts drew no distinction between denials of 
+prejudgment interest in collision cases and such denials in per- 
+sonal injury cases.” Id. (citation omitted). We point out, how- 
+ever, that, except for citing Reliable Transfer for the proposition 
+that interest has long been allowed in personal injury cases in 
+admiralty, the court in Inland Oil cited no other authority for its 
+statements that admiralty decisions made no distinction 
+between personal injury and collision cases. Therefore, we do 
+not accept Inland Oil’s reasons for rejecting Alkmeon Naviera in 
+reaching today’s conclusion. 
+|
+
+lla 
+not paying an unknown sum. We agree that there are 
+decisions stating that, at least where fault is mutual, 
+prejudgment interest from the date of the collision should 
+be denied due to the uncertainty as to which party will 
+bear the ultimate liability to make paymeni to the other. 
+See, e.g., First Nat. Bank of Chicago, 597 F.2d at 1121 (adopt- 
+ing the rationale of the Fifth Circuit in Sinclair Refining 
+Co. v. S.S. Green Island, 426 F.2d 260, 262 (5th Cir. 1970), 
+and stating that in cases involving mutual fault, the 
+uncertainty respecting the party having the ultimate lia- 
+bility should be considered in deciding whether to award 
+prejudgment interest); The Wright, 109 F.2d at 702 (“Sev- 
+eral cases deny the award of interest .. 
+. where damages 
+are divided as a result of joint fault. This is based on the 
+uncertainty as to the party which will have the ultimate 
+liability to make payment on determination of the bal- 
+ance due.”). Of course, using uncertainty as a basis to 
+deny interest in a mutual fault case made sense under the 
+old divided damages regime. This is because under that 
+rule, it was not until after trial that there would be a 
+determination from the district court as to which of the 
+parties would have to come up with the extra money to 
+make the other party whole. But now with the abolition 
+of the divided damages rule and the adoption of compar- 
+ative fault both parties are liable to each other in relation 
+to their respective degree of fault. In other words, 
+although the exact amount of damages may not be known 
+until after trial, neither party can now claim pretrial 
+uncertainty as to whether he will in fact be liable to the 
+other. Thus, after Reliable Transfer, it only makes sense 
+that uncertainty as to eventual liability can no longer be a 
+
+12a 
+factor to consider in determining whether to deny pre- 
+judgment interest in cases involving mutual fault. 
+Lastly, the City contends that this court, on two occa- 
+sions, in Central Rivers Towing and Hillier, has had the 
+opportunity to adopt the reasoning of Alkmeon Naviera 
+and scuttle mutual fault but has refused to do so. We 
+think the reason for this is clear: the issue of mutual fault 
+was not presented in either case. Central Rivers Towing, 
+for example, did not involve a plaintiff who was contrib- 
+utorily negligent; Hillier only addressed whether the 
+plaintiff (who was not negligent) could recover prejudg- 
+ment interest on an award of damages arising out of 
+future losses for pain and suffering. Hence any mention 
+of mutual fault in either of these cases was mere dicta. In 
+fact the only decision from this circuit that comes close to 
+applying the mutual fault exception is First Nat. Bank of 
+Chicago. In that case, we reversed the district court’s 
+initial determination that the plaintiff was not contrib- 
+utorily negligent, and directed the court on remand to 
+reallocate fault between the parties. We also directed the 
+court on remand to determine whether, given the mutual 
+fault of the parties, an award of prejudgment interest to 
+the plaintiff would be inappropriate. See First Nat. Bank of 
+Chicago, 597 F.2d at 1121. However, unlike decisions from 
+the Fifth Circuit, which consistently uphold denials of 
+prejudgment interest in mutual fault cases, see, e.g., Inland 
+Oil, 696 at 328 (summarizing cases), this court in First 
+Nat. Bank of Chicago did not adopt a per se rule against 
+prejudgment interest in a case involving mutual fault; 
+rather, the case merely noted that mutual fault was one 
+“factor[] to be considered by the trier of fact along with 
+other facts and circumstances in determining if there exist 
+
+13a 
+the necessary peculiar circumstances that will authorize 
+the exercise of discretion to award less than full compen- 
+sation by denying interest.’” First Nat. Bank of Chicago, 
+597 F.2d at 1121 (quotations omitted) (citations omitted) 
+(emphasis added). Nevertheless, in order to remove any 
+uncertainty, we depart from this portion of First Nat. Bank 
+of Chicago and reiterate our holding that the mutual fault 
+of the parties in an admiralty collision case does not 
+constitute a peculiar circumstance justifying the denial of 
+prejudgment interest.** 
+B. 
+Municipality Status 
+This justification for denying prejudgment interest 
+need not detain us very long. We have found no cases, 
+nor has the City cited us any, from this circuit or else- 
+where which have stated that an award of interest should 
+be denied where the party against whom it is sought is a 
+municipality. In fact, in Central Rivers Towing, the plaintiff 
+sought and obtained an award of prejudgment interest at 
+the rate of 12% per annum against the city of Beardstown 
+without the district court or this court ever raising an 
+objection to such an award on the basis that it was being 
+levied against a city. The City has not suggested that we 
+disavow this portion of Central Rivers Towing. Accord- 
+ingly, we refuse to recognize municipality status as a 
+peculiar circumstance warranting the denial of prejudg- 
+ment interest. 
+“This opinion was circulated before release to all judges in 
+active service. See Circuit Rule 40(f). No judge favored a hearing 
+en banc. 
+
+14a 
+C. 
+Calculating the Award 
+Having determined that National Gypsum is entitled 
+to an award of prejudgment interest, we offer the follow- 
+ing to the district court on remand as guidance in calcu- 
+lating that award. First, in keeping with the general rule, 
+the district court should calculate the interest from the 
+date of the accident, see Central Rivers Towing, 750 F.2d at 
+574, which in this case was 1978. As far as the rate at 
+which interest should be calculated, we recognize that 
+such a determination is traditionally left to the district 
+court’s discretion. Id. But we have said on previous occa- 
+sions that the best starting point is to award interest at 
+the market rate, which means an average of the prime 
+rate for the years in question. See Amoco Cadiz, 954 F.2d at 
+1332; accord Gorenstein Enterprises, Inc. v. Quality Care- 
+USA, Inc., 874 F.2d 431, 436-37 (7th Cir. 1988); Central 
+Rivers Towing, 750 F.2d at 574. In addition, the district 
+court may also want to consider the City’s status as a 
+municipality, not as basis to deny prejudgment interest 
+altogether, but as a guide to setting the interest rate. As 
+pointed out by Amoco Cadiz and Gorenstein, one of the 
+factors used in determining the rate of prejudgment inter- 
+est is the creditworthiness of the judgment debtor. Thus, 
+the district court could, in its discretion, set the rate of 
+interest to match that which lenders would charge the 
+City for short-term, unsecured loans. See Amoco Cadiz, 954 
+F.2d at 1332; Gorenstein, 878 F.2d at 436. As to whether to 
+award compound interest, we conclude that that, too, is a 
+determination better left to the discretion of the district 
+court. See Transorient Navigators Co., S.A. v. M/S South- 
+wind, 788 F.2d 288, 293 (5th Cir. 1986). Finally, in calculat- 
+ing its eventual award, we ask the district court to 
+
+tia 
+15a 
+memorialize its reasoning in order to assist us in the 
+event of future review. 
+ITI. 
+The district court’s order denying prejudgment inter- 
+est is REVERSED. This case is REMANDED to the district 
+court for a determination of prejudgment interest consis- 
+tent with this opinion. 
+A true Copy: 
+Teste: 
+Clerk of the United States Court of 
+Appeals for the Seventh Circuit 
+
+l6a 
+UNITED STATES COURT OF APPEALS 
+For the Seventh Circuit 
+Chicago, Illinois 60604 
+August 22, 1994 
+Before 
+Hon. Walter J. Cummings, Circuit Judge 
+Hon. Daniel A. Manion, Circuit Judge 
+Hon. Robert L. Miller, Jr., District Judge* 
+CEMENT DIVISION, 
+Appeal from the United 
+NATIONAL .GYPSUM 
+States District Court for 
+COMPANY, REED & 
+the Eastern District of 
+BROWN, 
+Wisconsin. 
+INCORPORATED, NEW 
+YORK MARINE 
+MANAGERS, 
+INCORPORATED, et al. 
+No. 80 C 1001 
+Plaintiffs-Appellants, 
+No. 93-2545 
+Thomas Be Curran, 
+V. 
+Judge. 
+CITY OF MILWAUKEE, 
+Defendants-Appellee. 
+AMENDING ORDER 
+The court’s opinion, issued August 5, 1994, is 
+amended as follows: 
+° 
+Hon. Robert L. Miller, Jr., of the Northern District of Indi- 
+ana, is sitting by designation. 
+
+17a 
+Page 3, lines 1-2: changed to read “ 
+... 
+in 
+the amount of $1,677,541.86, which the City 
+promptly paid over to the plaintiffs.” 
+Page 12, line 5: change date to read “1979.” 
+pe 
+a el 
+ee Oe 
+vane 
+
+18a 
+UNITED STATES DISTRICT COURT 
+EASTERN District of WISCONSIN 
+CEMENT DIVISION, ETAL 
+JUDGMENT IN 
+A CIVIL CASE 
+v. 
+CASE NUMBER: 
+CITY OF MILWAUKEE, 
+80-C-1001 
+i 
+(Filed 
+EDWARD E. GILLEN CO., ET AL 
+May 2, 1993) 
+[ ] Jury Verdict. This action came before the Court for a 
+trial by jury. The issues have been tried and the jury has 
+rendered its verdict. 
+[X] 
+Decision by Court. The action came to hearing 
+before the Court. The issues have been heard and a 
+decision has been rendered. 
+IT IS ORDERED AND ADJUDGED that the Defen- 
+dant City of Milwaukee is not liable to the Plaintiffs for 
+payment of prejudgment interest on the amount paid in 
+settlement. 
+IT IS FURTHER ORDERED AND ADJUDGED that 
+this action is dismissed upon its merits. 
+SOFRON B. NEDILSKY 
+Clerk 
+/s/ C. Brock 
+(By) Deputy Clerk 
+May 28, 1993 
+Date 
+Copy mailed to attorneys for 
+parties by the Court pursuant 
+to Rule 77 (d) Federal Rules of 
+Civil Procedure. 
+
+19a 
+UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF WISCONSIN 
+CEMENT DIVISION, NATIONAL GYPSUM 
+COMPANY; REED & BROWN, INC.; NEW YORK 
+MARINE MANAGERS, INC.; ALLSTATE INSURANCE 
+COMPANY, c/o American Marine Underwriters, Inc.; 
+HIGHLANDS INSURANCE COMPANY; EMPLOYERS 
+CASUALTY COMPANY OF TEXAS, c/o Texas Marine 
+Underwriters Agency, Inc; DONALD H. MILLER, 
+INC.; U.S. FIDELITY AND GUARANTEE COMPANY: 
+GREAT LAKES PROTECTIVE ASSOCIATION; THE 
+ATLANTIC COMPANIES; LLOYDS UNDERWRITERS, 
+INSTITUTE COMPANIES, including: COMMERCIAL 
+UNION ASSURANCE CO. LTD., “I” A/o. ANDREW 
+WEIR INSURANCE CO. LTD., ENGLISH & 
+AMERICAN INSURANCE CO. LTD., “M” 1 A/o., 
+ORION INSURANCE CO. LTD., “T” A/o. YASUDA 
+FIRE & MARINE INSURANCE CO. (U.K.) LTD., “T” 
+A/o., ATLAS ASSURANCE CO. LTD., “T” A/o., 
+PHOENIX ASSURANCE CO. LTD., BRITISH LAW 
+INSURANCE CO. LTD., ROAD TRANSPORT AND 
+GENERAL INSURANCE CO. LTD., INSURANCE 
+COMPANY OF NORTH AMERICA (U.K.) LTD., “G” 
+A/o., INSURANCE COMPANY OF NORTH AMERICA 
+(U.K.) LTD., “O” A/o., HOME INSURANCE CO. LTD., 
+“X” A/o., LONDON & HULL MARITIME 
+INSURANCE CO. LTD., HANOVER INSURANCE CO. 
+LTD., SPHERE INSURANCE CO. LTD., DRAKE 
+INSURANCE CO. LTD., BISHOPSGATE INSURANCE 
+CO. LTD., “F” A/o., BRITISH LAW INSURANCE CO. 
+LTD., No. 2 A/o., MINSTER INSURANCE CO. LID., 
+No. 2 A/o., INSURANCE CORPORATION OF 
+IRELAND, “L” A/o., FOLKSAM INTERNATIONAL 
+INSURANCE CO. (U.K.) LTD., TERRA NOVA 
+INSURANCE CO. LTD. per ANDREW DRYSDALE 
+LTD., ECONOMIC INSURANCE CO. LTD., 
+
+20a 
+“GENERAL” A/o., c/o Willis, Faber & Dumas Ltd., 
+Ten Trinity Square, London EC3P 3AX England, 
+Plaintiff, 
+Case No. 80-C-1001 
+V. 
+(Filed May 28, 1993) 
+CITY OF MILWAUKEE, 
+Defendant and 
+Third-Party Plaintiff, 
+V. 
+EDWARD E. GILLEN COMPANY, 
+a corporation, and GREAT LAKES 
+TOWING COMPANY, a corporation, 
+Third-Party Defendants. 
+DECISION AND ORDER 
+This admiralty case is before this court after remand 
+from the Seventh Circuit. See Cement Division, National 
+Gypsum Company v. City of Milwaukee, 915 F.2d 1154 (7th 
+Cir. 1990), cert. denied, 111 S.Ct. 1583 (1991). On appeal, 
+the Seventh Circuit found that the Plaintiffs were two- 
+thirds negligent in causing damage to the SS EM FORD 
+when that ship was involved in an allision with a berth in 
+the Milwaukee Harbor. The Defendant City of Milwaukee 
+was held to be one-third causally negligent. See Id. at 
+1160. 
+After liability was established, the parties settled all 
+damage issues except the one presently before this court 
+—- whether the Plaintiffs are entitled to prejudgment inter- 
+est on the damages paid by the City. The parties have 
+briefed this issue which is now ready for resolution. 
+
+21a 
+Although an award of prejudgment interest calcu- 
+lated from the date of the loss is the rule rather than the 
+exception in cases brought under a district court’s admi- 
+ralty jurisdiction, a court may exercise its discretion to 
+deny prejudgment interest if unusual circumstances exist. 
+See In Re Oil Spill by the Amoco Cadiz, 954 F.2d 1279, 
+1331-35 (7th Cir. 1992). A court’s discretion 
+is not 
+unbridled, but must be guided by “sound legal princi- 
+ples.” Albermarle Paper Company v. Moody, 422 U.S. 405, 
+416 (1975). The Fifth Circuit recently suggested a number 
+of these principles when it approved a jury instruction 
+which charged: 
+In admiralty cases, the award of pre-judgment 
+interest from the date of the loss is the rule 
+rather than the exception. The decision to deny 
+pre-judgment interest must be based on the exis- 
+tence of peculiar circumstances because pre- 
+judgment interest is awarded as a compensation 
+for a wrong done. It is your responsibility to 
+determine whether to award McDermott, Inc. 
+pre-judgment interest. If you determine that the 
+- that the Plaintiff is entitled to pre-judgment 
+interest; that is, interest from the date of the loss 
+until the date you render your verdict, you must 
+determine the rate at which the interest will be 
+calculated. The circumstances which may justify 
+denial of an award for pre-judgment interest are 
+as follows: A genuine dispute over a good faith 
+claim exists in a mutual fault situation — mutual 
+fault setting; the damages awarded are substan- 
+tially less than the amount claimed by the Plain- 
+tiff; the Plaintiff’s contributory negligence is to 
+such a magnitude as to make an award of pre- 
+judgment interest inequitable. 
+
+22a 
+McDermott, Inc. v. Clyde Iron, 979 F.2d 1068, 1080 n.17 (5th 
+Cir. 1992), petition for cert. filed, 61 U.S.L.W. 3653 (March 
+12, 1993) (No. 92-1479). See also Inland Oil and Transport 
+Company 
+v. Ark-White Towing Company, 696 F.2d 321, 
+327-29 (5th Cir. 1983). 
+In the instant case the record shows that from the 
+outset there has been a genuine dispute over the Plain- 
+tiffs’ good faith claim that the City of Milwaukee was 
+negligent for failing to warn the agents of the Defendants 
+(who were planning to leave the FORD unmanned during 
+the Christmas holidays) that a winter storm could create 
+conditions in the outer harbor at Milwaukee which could 
+damage the ship. The trial court and the court of appeals 
+both found mutual fault for the damage which ensued to 
+the ship and to the Defendant’s dock. The court of 
+appeals ascribed two-thirds of the negligence to the 
+Defendant. Thus, in this situation the court concludes 
+that the Plaintiffs’ contributory negligence was of such 
+magnitude that an award of prejudgment interest would 
+be inequitable. 
+One rationale for awarding prejudgment interest is 
+that, from the date of loss, the shipowner has been 
+deprived of the use of the ship or the money expended to 
+replace or repair the vessel, while the other party has 
+enjoyed the use of its money for the same time period 
+and could be accruing market rate interest on the funds. 
+See, e.g., In re Oil Spill by the Amoco Cadiz, 954 F.2d at 1331. 
+The City of Milwaukee is not in this position. As a munic- 
+ipality, it has no power to set aside an interest bearing 
+fund at the time of a loss, but can only levy taxes to pay a 
+settlement or final judgment. See Wis. Stat. ch. 62. There- 
+fore, this unique circumstance also leads the court to 
+
+23a 
+conclude that prejudgment interest is unwarranted in this 
+case. 
+For these reasons, the court ORDERS that the Plain- 
+tiffs’ request for prejudgment interest on the amount paid 
+in settlement by the Defendant IS DENIED. 
+IT IS FURTHER ORDERED that, all issues in this case 
+having been resolved, this action is dismissed upon its 
+merits. 
+IT IS FURTHER ORDERED that, pursuant to Federal 
+Rule of Civil Procedure 58, the Clerk of Court shall enter 
+a final judgment as a separate document. This judgment 
+shall provide that: 
+This action came on for a hearing before the 
+Court, Honorable Thomas J. Curran, District 
+Judge, presiding, and the issues having been 
+duly heard and a decision having been duly 
+rendered. 
+IT IS ORDERED AND ADJUDGED that the 
+Defendant City of Milwaukee is not liable to the 
+Plaintiffs for payment of prejudgment interest 
+on the amount paid in settlement. 
+IT IS FURTHER ORDERED AND ADJUDGED 
+that this action is dismissed upon its merits. 
+Done and Ordered in Chambers at the United States 
+Courthouse, Milwaukee, Wisconsin this 28th day of May, 
+1993. 
+/s/ Thomas J. Curran 
+Thomas J. Curran 
+United States District Judge 

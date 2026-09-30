@@ -1,0 +1,4573 @@
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+ADARAND CONSTRUCTORS, INC., PETITIONER 
+
+
+Vv. 
+
+
+FEDERICO PENA, 
+SECRETARY OF TRANSPORTATION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+STEPHEN H. KAPLAN 
+General Counsel 
+
+
+PAUL M. GEIER 
+Assistant General Counsel 
+for Litigation 
+EDWARD V.A. Kussy 
+Deputy Chief Counsel 
+Federal Highway 
+Administration 
+Department of 
+
+
+Transportation 
+Washington, D.C. 20590 
+
+
+DrEw S. Days, III 
+Solicitor General 
+
+
+DEVAL L. PATRICK 
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+CORNELIA T.L. PILLARD 
+Assistant to the Solicitor 
+General 
+
+
+Davip K. FLYNN 
+LISA C. WILSON 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the equal protection component of the 
+Fifth Amendment prohibits Congress from enacting 
+a rebuttable presumption that minority-owned and 
+-controlled businesses are disadvantaged business en- 
+terprises under the Small Business Act. 
+
+2. Whether the equal protection component of the 
+Fifth Amendment prohibits the Department of 
+Transportation, pursuant to the Small Business Act, 
+from offering added compensation to federal govern- 
+ment prime contractors who choose to subcontract 
+10% or more of their contract work to disadvan- 
+taged business enterprises in order to cover the costs 
+of assisting the disadvantaged businesses. 
+
+
+(1) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+EE SE Se 1 
+EEE es ee 1 
+Constitutional and statutory provisions involved .......... 2 
+EE LEE A 2 
+Se 4 
+2. Regulatory background ....................222...-22-.ccceeee--0s 12 
+8. The Subcontracting Compensation Clause .......... 17 
+EE aa ee 19 
+EE Oo eT 22 
+Argument: 
+I. The Subcontracting Compensation Clause is 
+EE ES rr 25 
+A. The Clause is based on social and economic 
+disadvantage; minority racial status plays 
+only a procedural role through a rebuttable 
+presumption of such disadvantage ................ 25 
+B. Petitioner lacks standing to challenge the use 
+of the race-based rebuttable presumption...... 27 
+C. The Clause does not constitute a preference 
+for disadvantaged subcontractors ................. 31 
+D. The rebuttable presumption of disadvantage 
+is based on congressional findings of racial 
+discrimination and serves the compelling 
+governmental objective of remedying past 
+discrimination i 33 
+1. Race-based remedial action by Congress 
+is subject to intermediate scrutiny ......... 34 
+2. Intermediate scrutiny applies here .......... 38 
+8. Congress had a firm and compelling basis 
+to act 41 
+E. The Clause is narrowly tailored to achieve 
+Congress’s constitutional objectives ............. 43 
+(111) 
+
+
+=) oe ee. —" 
+
+
+IV 
+
+
+Argument—Continued: Page 
+1. The Clause is not underinclusive..._. ore 43 
+2. The Clause is not overinclusive 44 
+
+3. The Clause does not involve a fixed quota 
+RE I sR 47 
+
+4. The rebuttable presumption is of limited 
+NR i ER, Rann as eyesore 48 
+
+Il. Principles of stare decisis support the continuing 
+vitality of Fullilove v. Klutznick... 49 
+IIE cictiictensitithinninteniitieattt aa eee 50 
+OF ee Ee SRO la 
+REN USN Me De reta ieee Me WRI. TS 18a 
+ST  ccticitciahitieaniibtaei i laa ile 37a 
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+Allen v. Wright, 468 U.S. 787 (1984) ............. ae 80 
+
+
+Autek Systems Corp. v. United States, 835 F. Supp. 
+13 (D.D.C. 1998), aff’d, No. 93-5899 (D.C. Cir. 
+I i ita 14 
+
+
++ ORLA ERIE POETS bE Cereals ee passim 
+Dandridge v. Williams, 397 U.S. 471 (1970) ......... 26 
+Doe Vv. Heatherly, 671 F. Supp. 1081 (D. Md. 
+
+1987), aff'd, 854 F.2d 1816 (4th Cir. 1988)... 13 
+EEOC v. Wyoming, 460 U.S. 226 (1988) 35 
+Ellis v. Skinner, 961 F.2d 912 (10th Cir.), cert. 
+
+denied, 118 S. Ct. 374 (1992) ............................ 50 
+Fullilove v. Klutznick, 448 U.S. 448 (1980)... passim 
+Harrison & Burrowes Bridge Constructors, Inc. v. 
+
+Cuomo, 981 F.2d 50 (2d Cir. 1992) 
+Heart of Atlanta Motel, Inc. v. United States, 379 
+
+ee Te a 
+Hodel v. Indiana, 452 U.S. 314 (1981) 
+Johnson V. Transportation Agency, Santa Clara 
+
+County, 480 U.S. 616 (1987) .............. 
+Jones V. Alfred H. Mayer Co., 392 U.S. 409 (1968) .. 
+Katzenbach v. McClung, 379 U.S. 294 (1964)... 
+Katzenbach v. Morgan, 384 U.S. 641 (1966) .......... 
+
+
+SRS5 &R SZ 
+
+
+Vv 
+Cases—Continued: Page 
+Lujan Vv. Defenders of Wildlife, 112 8S. Ct. 2130 
+CTD ceccesctisrsecscececcocenctarserscccssetantnestnctepaonsammmascsmneeess 29 
+McDonald v. Sante Fe Trail Transp. Co., 427 U.S. 
+DIB CITED cccccisecsccectevecccccccrtecscssccemtenmnesscenscsnesscaisstes 25 
+Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 
+) , , a passim 
+Milwaukee County Pavers Ass’n V. Fielder, 922 
+F.2d 419 (7th Cir.), cert. denied, 500 U.S. 954 ae 
+(NGDB) cccceccccccccercccecncersncsessussevsrssnscssssutsotettetvassecutetaeces P 
+Mobile, J. & K.C.R.R. v. Turnispeed, 219 U.S. 35 
+(1910) . incihiindhiailemniilsighcibia 46 
+NLRB v. Baptist ‘Hospital, Inc., 442 US. 773 a 
+CBGGOD civciniiccensernscccentcncrceneniessctnncpidconnsccesthensssentatastanbes 
+
+
+Northeastern Florida Chapter of Associated Gen- 
+eral Contractors v. City of Jacksonville, 113 
+S. Ct. 2297 (1993) . ee ee eee ee eee 80 
+
+Norwood Vv. Harrison, 413 US. 455 a 85 
+
+O’Donnell Construction Co. v. District of Colum- 
+bia, 963 F.2d 420 (D.C. Cir. 1992) ......------.---+--0- 50 
+
+Planned Parenthood v. Casey, 112 S. Ct. 2791 
+SETI, snicctiaitiedethtunnenerens 50 
+
+Regents of the University of California Vv. “Bakke, 
+ye 42 
+
+Reno V. Flores, 113 S. Ct. 1439 (1993) ................-.-. 33 
+
+Runyon V. McCrary, 427 U.S. 160 (1976) ...........-.. 38 
+
+36 
+45 
+50 
+46 
+33 
+46 
+
+
+Slaughter-House Cases, 83 U.S. (16 Wall.) 36 
+CII cilsctliiatenccsoecvnscntutetectmrtneccenmnceninaieaevsngommporrets 
+
+
+| SSRs ere 
+im. Asphalt Co. v. Farris, 942 F.2d 969 ( 6th 
+> | RNS NS ee SR eee 
+United States v. Gainey, 380 U.S. 63 (1965) ........... 
+United States v. Salerno, 481 U.S. 739 (1987) ...... 
+Usery Vv. Turner Elkhorn Mining Co., 428 U.S. 1 
+CI ela dichtiseentacincdedeodineattinndidigpermenezes 
+
+
+267 ( 1986) sidesteapwesdd nietadaedenpemnetnprepeeeqgnersinnpepascanatees 42 
+
+
+U.S. Const.: 
+Art. I, § 8, Cl. 1 (Spending Clause) ................. 2, 35, la 
+Art. I, § 8, Cl. 3 (Commerce Clause) -.............. 2, 35, la 
+
+
+VI VII 
+
+
+Constitution, statutes and regulations—Continued: Page Setintes and requiati Continued: Page 
+—_ - - 15 U.S.C: 687 (a) (6) (C) (Supp. V 1998) .......... 15, 8a 
+—_ fo ~— cena 15 U.S.C. 687 (a) (6) (C) (i) (Supp. V 1998)... 15, 8a 
+
+end. XIII seeceeereweeereerencececcssercscwerows 2, 35, 36, 37, 38, la 15 U.S C 637 (d) (Su Vv 1993 
+Ane XIV 2, 20, 35, 36, 37, 88, 1a A PP. ) 7, 9a 
+Section 6 et a a 15 U.S.C. 637(d) (1) (Supp. V 1998) ................. 4, 9a 
+ee cians 15 U.S.C. 687 (d) (3) (C) (Supp. V 1998) ..6, 7, 39, 11a 
+
+Act of Oct. 24, 1978, Pub. L. No. 95-507, 92 Stat. 15 U.S.C. 644 (g) (1) .. 5, 12a 
+1757: 15 U.S.C. 644(h) (1988 & Supp. V 1998) ........48, 14a 
+
+I I icsciscnitisiriinsittaiieeniaieinlaliais R 15 U.S.C. 644 (h) (1) 3 5, 14a 
+OS ee ee cae x REE TTA Eee ae 47 
+
+Act of July 2, 1980, Pub. L. No. 96-302, § 118, 94 Surface Transportation and Uniform Relocation 
+NN, TD ii ine lait alta ni mtincines 10 Assistance Act of 1987, Pub. L. No. 100-17, 101 
+
+Business Opportunity Development Reform Act of 0 Ee ee Oe 3 
+1988, Pub. L. No. 100-656, 102 Stat. 3853: § 106, 101 Stat. 144-146 eee 2, 15a-16a 
+
+6 ke. 10 § 106 (c) (1), 101 Stat. 145 eens 5, 7, 16a 
+§ 207, 102 Stat. 3861-8862 0 eee 10 § 106(c) (2) (B), 101 Stat. 146... 7, 17a 
+
+Civil Rights Act of 1964, Tit. VI, 42 U.S.C. 20004. 20 § 106 (c) (4), 101 Stat. 146 $4, 17a 
+
+Consolidated Omnibus Budget Reconciliation Act OB IRI. TID cscccsncneccnsccocecnsensensvccosopepowvenvovcagocossansans 20 
+of 1985, Pub. L. No. 99-272, § 18015, 100 Stat. 13 C.F.R.: 
+ERE one i 10 Pt. 121: 
+
+Intermodal Surface Transportation Efficiency Act ar RE et nga a a aR 6 
+of 1991, Pub. L. No. 102-240, § 10083(b), 105 “ae 12 
+RR 2 Ro 5 Subpt. A: 
+
+Public Works Employment Act of 1977, Pub. L. . 
+
+No. 95-28, Tit. I, 91 Stat. 116 ea. 41 Section 124.5... ----eeeeecsssssseesseeeeeececeeeesee 47 
+
+Small Business Act, 15 U.S.C. 681 et seq. (1988 & ae ys we AT 
+Gun: VT C8 oe _seaseeecQy 8, 28 ae oo (2) nena eeecneeeeecnneereennseceens o 
+
+15 U.S.C. 681 (f) (1) (B) cecccceeeseeececceceesvseeneceeees 7, 39, 2a Qaction eee eneeento yo 
+Ue ee eee 7, 39, 2a Section 124.105 eagle nal 13 
+15 U.S.C. 631b (1988 & Supp. V 1998) ............... 48, 4a Section 124.105 (b) (1) atl Ht tas S038 5 16 
+15 U.S.C. 632(a) (1)-(3) (Supp. V 1993) ........ 6 Section 124.105 (c) (1) (i) r= eee ae ee 14 
+15 USC. €86(j) (10) (F) (1988 & Supp. Vo Section 124.105 (c) (1) (v) 14 
+: Section 124.105 (c) (1) (v) (A)-(C) -.......... 14 
+© ae 636(j) (10) (H) (1988 & Supp. V - Sections 124.105-124.106 18, 39 
+15 U.S.C. 687 (a) pts mee er apts! 8. 6a Section 124.106 (a) (1) (ii) . 14 
+ae eee te ee ee { Section 124.106 (a) (2)... --..-cececceeececoeeneoee 14 
+15 U.S.C. 637 (a) (5) scccccoccocooccoocosccs 6, 13, Ta Section 124 106 (b) 14 
+15 U.S.C. 687 (a) (6) (A) 6, 14, Ta Secti 2 Oana ema nme eceme a 
+15 U.S.C. 687 (a) (6) (B) .o-.oeoecoccecccceceeceeeeeeeeeeeens 15, 8a Bom 126.106 nana nnecveenneecorsnneccepen 47 
+. ’ Saath lien Man te 47 
+
+
+Viti 
+
+
+Regulations—Continued: Page 
+Section 124.111 (C) ............ccccccccccceceeceeseeeceeees 15 
+IE iit cectrencescsltnitigeenincioaisianiibines 15 
+
+RS oe ee ee se 15, 29, 39 
+Section 124.608 (b) 00.0.0 coccccccccccccccceeeeeeeees 15 
+Section 124.605 (b) (2) ..........cc.cccccccccceceeeeeees 15 
+Section 124.607 (a) .............ccccccccecccccceceeeeeeenee 15 
+Section 124.608 0..0..00000.cccccccccccccceeeeeeeeeeeeeee 15 
+Sections 124.608-124.609 0.0. 29 
+dates 15 
+Section 124.609 (d) (8) ..........ccccccccccccceeeeeeeee 15 
+48 C.F.R.: 
+
+Section 19.708 000000000... ied idicianinallidesid 44 
+INIT ins cate ciscctsinidsebanctdtteladediaiantadibbindibcs 7 
+IED i cinctctiaedadesictetaitthahmidnadabebtntlinnce 7,17 
+a itdtcacetetenncasitctenintaninientinitipstpecisimiatiasllictes 18 
+
+Subpt. C: 
+Sections 28.51-28.68 .....................ccssessscossesees 47 
+ERS ARE EO ES eA Oe OR TR ET Ae 15 
+EEE TLET A PTAC AT TE 15, 16, 17 
+Section 23.62 (a) -(@) .......ccccccccccccceeeeceeeeeeenees 16 
+Section 28.64 (@) ...........cccccccccccccceecceceeeeeeeeeene 5 
+TETAS SR SS RE 5 
+TELE NE TIE SPE EEE ATO ate 29, 39 
+Section 23.69 (b) (1) ............ccccccccccccccceeeeeeee 16 
+} SS PEE SEA 16, 17, 26, 44 
+pS ES 16, 29, 39, 44, 47 
+a 2 i ER ES 16 
+Miscellaneous: Page 
+
+
+Barriers to Full Minority Participation in Fed- 
+erally Funded Highway Constru ‘ion Projects: 
+Hearing Before a Subcomm. of the House Comm. 
+on Government Operations, 100th Cong., 2d Sess. 
+
+
+CI ccercarttinrncttachcntntnitintbinitangeinnehtlateidideteceninntion 10, 38 
+124 Cong. Rec. (1978) : 
+
+TTD iledidieitnisith dinistaiedsaensiniplintasenapbnabamtenieniins 9 
+
+ee CRS SL Lae At 9 
+
+
+Te 
+
+p. 35,408... PEE Oe re 
+
+183 Cong. Rec. 88,314-88,315 CS 
+Disadvantaged Business Set-Asides in Transporta- 
+tion Construction Projects: Hearings Before the 
+Subcomm. on Procurement, Innovation, and 
+Minority Enterprise Development of the House 
+Comm. on Small Business, 100th Cong., 2d Sess. 
+(1988) ............... 
+Federal Contracting Opportunities for Minority 
+and Women-Owned Businesses—An Examina- 
+tion of the 8(d) Subcontracting Program: Hear- 
+ings Before the Senate Comm. on Small Rusi- 
+ness, 98th Cong., Ist Sess. (1988) 2.0.0.0. 00000... 
+Federal Highway Administration, U.S. Dep’t of 
+Transportation, Disadvantaged Business Enter- 
+prise (DBE) Program Administration Partici- 
+pant’s Manual (Apr. 1990) .2...22....2..2..c.ccccceeeeeeeeees 
+H.R. 1807, 100th Cong., Ist Sess. (1987) ................... 
+H.R. 5612, To Amend the Small Business Act to 
+Extend the Current SBA 8(a) Pilot Program: 
+Hearing on H.R. 5612 Before the Senate Select 
+Comm. on Small Business, 96th Cong., 2d Sess. 
+EE Ss ee Se 
+H.R. Rep. No. 468, 94th Cong., Ist Sess. (1975) ...... 
+H.R. Rep. No. 1714, 95th Cong., 2d Sess. (1978).... 
+H.R. Rep. No. 460, 100th Cong., Ist Sess. (1978) .... 
+Minority Business and Its Contribution to the U.S. 
+Economy: Hearing Before the Senate Comm. on 
+Small Business, 97th Cong., 2d Sess. (1982)........ 
+Minority Business Participation in Department of 
+Transportation Project: Hearing Before a Sub- 
+comm. of the House Comm. on Government Op- 
+erations, 99th Cong., Ist Sess. (1985) ................. 
+Minority Enterprise and General Small Pusiness 
+Problems: Hearing Before the Snbcomm. on 
+SBA and SBIC Authority, Minority Enterprise, 
+and General Small Business Problems of the 
+House Comm. on Small Business, 99th Cong., 1st 
+Sess. (1985) 0.000000... SUPER RSL TSP eNT EE ew 
+
+
+10 
+
+
+Miscellaneous—Continued: 
+
+
+S. Rep. No. 1070, 95th Cong., 2d Sess. (1978) ........ 
+S. Rep. No. 4, 100th Cong., Ist Sess. (1987) .......... 
+S. Rep. No. 394, 100th Cong., 2d Sess. (1988) ........ 
+Small and Minority Business in the Decade of the 
+1980’s (Part 1): Hearings Before the House 
+Comm. on Small Business, 97th Cong., 1st Sess. 
+| SPREE ses es 
+Small Business Problems: Hearings Before the 
+House Comm. on Small Business, 100th Cong., 
+St, , Se or Tae ae 
+State of Hispanic Small Business in America: 
+Hearing Before the Subcomm. on SBA and SBIC 
+Authority, Minority Enterprise, and General 
+Small Business Problems of the House Comm. on 
+Small Business, 99th Cong., Ist Sess. (1985) ...... 
+Surety Bonds and Minority Contractors: Hearing 
+Before the Subcomm. on Commerce, Consumer 
+Protection, and Competitiveness of the House 
+Comm. on Energy and Commerce, 100th Cong., 
+FR nS OE ee 
+The Disadvantaged Business Enterprise Program 
+of the Federal-Aid Highway Act: Hearing Be- 
+fore the Subcomm. on Transportation of the 
+Senate Comm. on Environment and Public 
+Works, 99th Cong., Ist Sess. (1985) -.................. 
+Women Entrepreneurs—Their Success and Prob- 
+lems: Hearing Before the Senate Comm. on 
+Small Business, 98th Cong., 2d Sess. (1984) ........ 
+
+
+9-10 
+
+
+10 
+
+
+19 
+
+
+9 
+
+
+Ju the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 93-1841 
+
+
+ADARAND CONSTRUCTORS, INC., PETITIONER 
+
+
+v. 
+
+
+FEDERICO PENA, 
+SECRETARY OF TRANSPORTATION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 
+1-24) is reported at 16 F.3d 1537. The opinion and 
+order of the district court (Pet. App. 27-37) are re- 
+ported at 790 F. Supp. 240. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered 
+on February 16, 1994. The petition for a writ of cer- 
+tiorari was filed on May 17, 1994, and granted on 
+
+
+(1) 
+
+
+2 
+
+
+September 26, 1994. The jurisdiction of this Court 
+rests on 28 U.S.C. 1254(1). 
+
+
+CONSTITUTIONAL AND 
+STATUTORY PROVISIONS INVOLVED 
+
+
+The Spending Clause, the Commerce Clause, and 
+the Thirteenth and Fourteenth Amendments to the 
+Constitution are reprinted at App., infra, la-2a. Per- 
+tinent provisions of the Small Business Act, 15 
+U.S.C. 631 et seq. (1988 & Supp. V 1993), and of 
+Section 106 of the Surface Transportation and Uni- 
+form Relocation Assistance Act of 1987, Pub. L. No. 
+100-17, 101 Stat. 144-146, are reprinted at App., 
+umfra, 2a-17a. 
+
+
+STATEMENT 
+
+
+This case concerns the constitutionality of a stand- 
+ard contract clause, the Subcontracting Compensa- 
+tion Clause (Clause or SCC), included in highway 
+construction contracts let by the Central Federal 
+Lands Highway Division (CFLHD) of the Federal 
+Highway Administration (FHWA) of the United 
+States Department of Transportation (DOT). The 
+Clause encourages, but does not require, prime con- 
+tractors to hire small disadvantaged business enter- 
+prises (DBEs) as subcontractors on federal highway 
+construction subcontracts by offering them financial 
+compensation for the added expenses of their employ- 
+ing and assisting such subcontractors. Petitioner, a 
+losing bidder on a federal highway guardrail con- 
+struction subcontract, challenges the constitutionality 
+of the Clause, asserting that it caused the prime con- 
+tractor to reject its bid and to award the subcontract 
+to Gonzales Construction Company, a small disad- 
+vantaged business. 
+
+
+3 
+
+
+The Federal Lands Highway Program (FLHP)' in- 
+cludes the Compensation Clause in its prime contracts 
+as one means to implement its statutory responsibilities 
+under the Small Business Act (SBA), 15 U.S.C. 631 
+et seq. (1988 & Supp. V 1993), which applies to all 
+federal agencies’ contracts for goods and services. 
+The Clause also helps the FLHP meet the require- 
+ments of the Surface Transportation and Uniform 
+Relocation Assistance Act of 1987 (STURAA), Pub. 
+L. No. 100-17, 101 Stat. 132, which provided the 
+funding for the highway project in this case. The 
+SBA establishes a 5% government-wide minimum 
+goal for participation by small disadvantaged busi- 
+nesses in government contracting and subcontract- 
+ing, and requires each federal agency to implement 
+that government-wide goal through subsidiary 
+agency goals. STURAA, which applies only to DOT, 
+establishes a goal at not less than 10% for use of 
+small disadvantaged businesses in federally funded 
+transportation programs. 
+
+Under both statutes, “disadvantage” requires a 
+showing of both social and economic disadvantage. A 
+presumption of disadvantage operates where mem- 
+bers of specified minority groups seek to have their 
+firms certified as disadvantaged. That presumption 
+is rebuttable if disadvantage does not in fact exist. 
+
+
+!The CFLHD is one of three regional divisions of the 
+FLHP, a component of the FHWA. Each of the divisions is 
+responsible for the design and construction sf roads on fed- 
+eral lands, including national parks and forests. C.A. App. 
+320. The CFLHD includes within its jurisdiction roads on 
+federal lands within Arizona, California, Colorado, Hawaii, 
+Kansas, Nebraska, Nevada, New Mexico, North Dakota, 
+South Dakota, Texas, Utah, and Wyoming. Pet. App. 9 n.7. 
+
+
+4 
+
+
+Under STURAA, small businesses owned by women 
+are also presumed to be disadvantaged; expenditures 
+with businesses owned by women thus constitute 
+expenditures with disadvantaged subcontractors 
+under the Clause, and are counted toward both the 
+STURAA and SBA goals. In addition, businesses 
+owned by men who are not members of minority 
+groups are treated as disadvantaged under both stat- 
+utes if the persons who own and control the firms 
+are socially and economically disadvantaged. Peti- 
+tioner, which did not claim that it was itself disad- 
+vantaged, did not challerge the fact that Gonzales 
+Construction Company was disadvantaged, nor did 
+it seek to rebut any presumption of disadvantage 
+that may have applied to Gonzales. Petitioner in- 
+stead makes a facial challenge to the Clause. 
+
+1. Statutory background. A. Both the SBA and 
+STURAA establish a federal policy of doing business 
+with small disadvantaged business enterprises.? The 
+statutes seek to foster nationwide economic develop- 
+ment by permitting small disadvantaged businesses 
+to share in the economic benefit of the government’s 
+vast purchasing activity. The statutes also reflect 
+Congress’s belief that, by contracting with small dis- 
+advantaged business enterprises, and by working with 
+them through a variety of business development pro- 
+
+
+2 Section 8(d) (1) of the SBA, 15 U.S.C. 687(d) (1) (Supp. 
+V 1993), provides: 
+
+
+It is the policy of the United States that small business 
+concerns, and small business concerns owned and con- 
+trolled by socially and economically disadvantaged in- 
+dividuals, shall have the maximum practicable oppor- 
+tunity to participate in the performance of contracts let 
+by any Federal agency, including contracts and sub- 
+contracts. 
+
+
+5 
+
+
+grams, the government can strengthen such businesses 
+and thereby enhance market competition for the goods 
+and services the government buys. 
+
+The SBA requires annual, government-wide goals 
+to be set for contracting for supplies and services 
+from small businesses, and also from small disadvan- 
+taged businesses. The Act sets a 5% floor for the 
+latter goal. 15 U.S.C. 644(g)(1). The President is 
+required to adjust that government-wide goal an- 
+nually, and each executive agency is required to de- 
+velop 2 goal appropriate to its own contracting needs 
+and the markets from which it purchases goods and 
+services." The goals at every level may be waived 
+where not practicable,* and no penalty attaches to 
+failure to meet them. 
+
+In STURAA, enacted in 1987, Congress comple- 
+mented the SBA’s provisions by setting a disadvan- 
+taged business enterprise goal specific to STURAA 
+transportation construction. Section 106(c)(1) of 
+STURAA contained a goal of not less than 10% for 
+disadvantaged business expenditure of federal funds 
+appropriated under STURAA for fiscal years 1987 
+through 1992. Pub. L. No. 100-17, 101 Stat. 145.° 
+Expenditures through disadvantaged businesses are 
+counted toward both STURAA and SBA goals. 
+
+
+* The subsidiary disadvantaged business contracting goal 
+DOT assigned to the CFLHD for 1989 was approximately 
+12-15%. Pet. App. 9 n.7. 
+
+
+* See 15 U.S.C. 644(h) (1) (requiring justification for fail- 
+ure to meet goals) ; 49 C.F.R. 23.64(e), 23.65 (setting forth 
+waiver criteria for DOT). 
+
+
+5The disadvantaged business enterprise goals are now 
+being implemented under the successor to STURAA, the 
+Intermodal Surface Transportation Efficiency Act of 1991, 
+Pub. L. No. 102-240, § 1003(b), 105 Stat. 1919-1921. 
+
+
+6 
+
+
+B. The definition of small disadvantaged business 
+that applies under both statutes is set out in the 
+SBA. A small business is one that is independently 
+owned and operated, is not dominant in its field of 
+operation, and has annual gross receipts not in ex- 
+cess of the level set by regulation for the industry in 
+which the business operates. 15 U.S.C. 632 (a) (1)- 
+(3) (Supp. V 1993).* A small business is disadvan- 
+taged if it is at least 51% owned and controlled by 
+persons who are both socially and economically dis- 
+advantaged. 15 U.S.C. 637(d) (3) (C) (Supp. V 
+1993). A “socially disadvantaged” person is one who 
+has been subjected to “racial or ethnic prejudice or 
+cultural bias because of [his or her] identity as a 
+member of a group without regard to [his or her] 
+individual qualities.” 15 U.S.C. 687 (a)(5). An 
+“economically disadvantaged” person is a socially 
+disadvantaged person who also demonstrates that his 
+or her “ability to compete in the free enterprise sys- 
+tem has been impaired due to diminished capital and 
+credit opportunities as compared to others in the 
+same business area who are not socially disadvan- 
+taged.” 15 U.S.C. 687(a) (6) (A). 
+
+The goals of both the SBA and STURAA are thus 
+directed at the employment of disadvantaged business 
+enterprises. That category is not limited to members 
+of racial minority groups, nor are all members of 
+such groups included in the disadvantaged category. 
+Congress, however, expressly recognized in both stat- 
+utes that racial discrimination in the United States 
+
+
+*A small business, in the case of highway construction 
+specialty subcontractors such as Gonzales and petitioner, is one 
+whose average annual gross receipts do not exceed $7,000,000. 
+13 C.F.R. 121.601 (Major Group 17, SIC Code 1799). 
+
+
+7 
+
+
+has been a principal cause of current disadvantaged 
+status. Congress found in the SBA that “many 
+[socially and economically disadvantaged] persons 
+are socially disadvantaged because of their identifica- 
+tion as members of certain groups that have suffered 
+the effects of discriminatory practices or similar in- 
+vidious circumstances over which they have no con- 
+trol,” and that “such groups include, but are not 
+limited to, Black Americans, Hispanic Americans, 
+Native Americans, Indian tribes, Asian Pacific Amer- 
+icans, Native Hawaiian Organizations, and other mi- 
+norities.” 15 U.S.C. 631(f)(1)(B) and (C). The 
+SBA’s subcontracting provision, Section 8(d), thus 
+authorizes prime contractors to “presume that socially 
+and economically disadvantaged individuals include 
+Black Americans, Hispanic Americans, Native Ameri- 
+cans, Asian Pacific Americans, and other minorities, or 
+any other individual found to be disadvantaged by 
+the [Small Business] Administration pursuant to 
+section 8(a) of the [SBA].” 15 U.S.C. 637(d) (3) (C) 
+(Supp. V 1993). STURAA utilizes the SBA’s defini- 
+tion of disadvantaged business, see Pub. L. No. 100- 
+17, § 106(c) (1), 101 Stat. 145, except that STURAA 
+also provides that, in the context of highway 
+construction, “women shall be presumed to be 
+socially and economically disadvantaged individuals,” 
+§ 106(c) (2) (B), 101 Stat. 146," 
+
+C. Congress’s findings that disadvantage is highly 
+corre!ated with race were based on extensive evidence 
+of racial discrimination affecting government con- 
+
+
+*The Federal Acquisition Regulations, 48 C.F_R. 52.219-8 
+and 52.219-13, referred to in the Subcontracting Compensa- 
+tion Clause, J.A. 24, define disadvantaged business consist- 
+ently with the SBA, and include women-owned businesses. 
+
+
+tracting. The SBA first made express reference to 
+race in the 1978 Amendments to the statute. Act of 
+Oct. 24, 1978, Pub. L. No. 95-507, §§ 201, 211, 92 
+Stat. 1760, 1767. Congress there recognized “[t]he 
+fact that minority small businesses have had an espe- 
+cially difficult time in fully participating in the 
+economic system,” and decided that the SBA’s small 
+business development program “should be used only 
+for developing minority and other socially and eco- 
+nomically disadvantaged businesses.” S. Rep. No. 
+1070, 95th Cong., 2d Sess. 16 (1978); see also H.R. 
+Rep. No. 1714, 95th Cong., 2d Sess. 22 (1978).* 
+
+
+* Representative Addabbo, the floor manager of the bill 
+in the House, stated that “[oJur findings clearly state that 
+groups such as black Americans, Hispanic Americans, and 
+Native Amicricans, have been and continue to be discrim- 
+inated against snd that this discrimination has led to the 
+social disadvantagement of persons identified by society as 
+members of those groups.” 124 Cong. Rec. 84,097 (1978). 
+Senator Nunn, who managed the bill in the Senate, also 
+emphasized that “[b]lecause of present and past discrimina- 
+tion many minorities have suffered social disadvantagement.” 
+Id. at 35,408. 
+
+See S. Rep. No. 1070, supra, at 14 (analyzing the 1978 
+Amendments to SBA Section 8(a) that “establish[ed] the 
+policy goal of developing businesses owned by socially and 
+economically disadvantaged persons” as “also recogniz[ing] 
+the pattern of social and economic discrimination that con- 
+tinues to deprive racial and ethnic minorities, and others, 
+of the opportunity to participate fully in the free enterprise 
+system”); id. at 20 (“many individuals are socially and 
+economically disadvantaged as a result of being identified 
+as members of certain groups, including but not limited 
+to, black Americans and Hispanic Americans”); id. at 22 
+(directing the Small Business Administration to “recognize 
+the historic past discrimination of minorities in their efforts 
+to participate in the free enterprise system”). 
+
+
+a 
+
+
+9 
+
+
+At the time of the 1978 Amendments, minority 
+businesses constituted only 4% of the total number 
+of firms in the United States and accounted for less 
+than 1% of total nationwide business receipts. 124 
+Cong. Rec. 29,641 (1978) (remarks of Sen. Glenn) ; 
+id. at 29,644 (statement by Sen. Heinz). A 1975 
+report of the Subcommittee on SBA Oversight and 
+Minority Enterprise of the House Committee on 
+Small Business set forth statistics showing that, 
+“[w]hile minority persons comprise[d] about 16 per- 
+cent of the Nation’s population,” only 3% of busi- 
+nesses in the United States were minority-owned. 
+H.R. Rep. No. 468, 94th Cong., 1st Sess. 2. The re- 
+port determined that those statistics were “not the 
+result of random chance,” but resulted from “past 
+discriminatory systems [that] have resulted in pres- 
+ent economic inequities.” Ibid. 
+
+Since 1978, Congress has repeatedly revisited the 
+issue of disadvantage in federal contracting caused 
+by racial discrimination,® and has found that those 
+
+
+* See, e.g., H.R. 5612, To Amend the Small Business Act 
+to Extend the Current SBA 8(a) Pilot Program: Hearing 
+on H.R. 5612 Before the Senate Select Comm. on Small Busi- 
+ness, 96th Cong., 2d Sess. (1980) ; Small and Minority Busi- 
+ness in the Decade of the 1980’s (Part 1 ): Hearings Before 
+the House Comm. on Small Business, 97th Cong., 1st Sess. 
+(1981) ; Minority Business and Its Contribution to the U.S. 
+Economy: Hearing Before the Senate Comm. on Small Busi- 
+ness, 97th Cong., 2d Sess. (1982); Federal Contracting Op- 
+portunities for Minority and Women-Owned Businesses— 
+An Examination of the 8(d) Subcontracting Program: Hear- 
+ings Before the Senate Comm. on Small Business, 98th Cong., 
+Ist Sess. (1983) ; Women Entrepreneurs—Their Success and 
+Problems: Hearing Before the Senate Comm. on Small Busi- 
+ness, 98th Cong., 2d Sess. (1984); State of Hispanic Small 
+Business in America: Hearing Before the Subcomm. on SBA 
+
+
+10 
+
+
+disadvantages continue. Consequently, each time the 
+SBA has been amended, Congress has retained or ex- 
+panded upon the findings of social disadvantage based 
+on race.” When Congress amended the SBA in 1988 
+to add the disadvantaged business enterprise goals, 
+it reaffirmed that the SBA’s disadvantaged business 
+contracting program is “the most significant effort 
+of the Federal Government to reduce the effects of 
+discrimination on entrepreneurial endeavors.” 133 
+
+
+and SBIC Authority, Minority Enterprise, and General Small 
+Business Problems of the House Comm. on Small Business, 
+99th Cong., lst Sess. (1985); Minority Enterprise and Gen- 
+eral Small Business Problems: Hearing Before the Subcomm. 
+on SBA and SBIC Authority, Minority Enterprise, and Gen- 
+eral Small Business Problems of the House Comm. on Small 
+Business, 99th Cong., Ist Sess. (1985) ; Disadvantaged Busi- 
+ness Set-Asides in Transportation Construction Projects: 
+Hearings Before the Subcomm, on Procurement, Innovation, 
+and Minority Enterprise Development of the House Comm. 
+on Small Business, 100th Cong., 2d Sess. (1988); Barriers 
+to Full Minority Participation in Federally Funded Highway 
+Construction Projects: Hearing Before a Subcomm. of the 
+House Comm. on Government Operations, 100th Cong., 2d 
+Sess. (1988) [hereinafter 1988 Barriere Hearing]; Surety 
+Bonds and Minority Contractors: Hearing Before the Sub- 
+comm. on Commerce, Consumer Protection, and Competitive- 
+ness of the House Comm. on Energy and Commerce, 100th 
+Cong., 2d Sess. (1988); Small Business Problems: Hearings 
+Before the House Comm. on Small Business, 100th Cong., 1st 
+Sess. (1987). 
+
+
+1° See Act of July 2, 1980, Pub. L. No. 96-302, § 118, 94 
+Stat. 840; Consolidated Omnibus Budget Reconciliation Act 
+of 1985, Pub. L. No. 99-272, § 18015, 100 Stat. 370 (1986); 
+Business Opportunity Development Reform Act of 1988, Pub. 
+L. No. 100-656, §§ 101, 207, 102 Stat. 3855, 3861-3862. 
+
+
+11 
+
+Cong. Rec. 33,314-33,315 (1987) (remarks of Rep. 
+LaFalce upon introduction of H.R. 1807). The House 
+Committee on Small Business specifically found that 
+“discrimination and the present effects of past dis- 
+crimination” continue to hinder minority business 
+development, H.R. Rep. No. 460, 100th Cong., 1st 
+Sess. 18 (1987), and that an increase in the effective- 
+ness of the SBA was necessary “to redress the effects 
+of discrimination on entrepreneurial endeavors,” id. 
+at 16. 
+
+Evidence before Congress in 1988 showed that the 
+disadvantaged business program had thus far made 
+unsatisfactory progress in removing discriminatory 
+barriers to minority business success: “[O]nly six 
+percent of all firms are owned by minorities; less 
+than two percent of minorities own businesses while 
+the comparable percent for nonminorities is over six 
+percent; and the average receipts per minority firm 
+is less than 10 percent the average receipts of all 
+businesses.” H.R. Rep. No. 460, supra, at 18. Federal 
+procurement data revealed a similar pattern: In 
+1986, “total prime contracts approached $185 billion, 
+yet minority business received only $5 billion in prime 
+contracts, or about 2.7 percent of the prime contract 
+dollar.” Ibid. Repeating the observations that had 
+been made a decade earlier, the Committee Report 
+concluded that the disparity between minority and 
+nonminority businesses’ participation in the economy 
+and in federal procurement was “not the result 0° 
+random chance,” but that “discrimination and the 
+present effects of past discrimination have hurt 
+socially and economically disadvantaged individuals 
+in their entrepreneurial endeavors.” Ibid. 
+
+The enactment of STURAA in 1987 was also sup- 
+ported by additional evidence and findings of racial 
+and gender discrimination specific to the highway 
+
+
+12 
+
+
+construction industry. The Senate Committee on En- 
+vironment and Public Works reported on STURAA: 
+
+
+The Committee has considered extensive testi- 
+mony and evidence on the bill’s DBE provision, 
+and has concluded that this provision is necessary 
+to remedy the discrimination faced by socially 
+and economically disadvantaged persons attempt- 
+ing to compete in the highway and mass transit 
+construction industry. * * * 
+
+* * * (Bjarriers still remain, preventing mi- 
+norities and women from successfully competing 
+in the industry. Moreover, the Committee has 
+concluded that the findings adopted by Congress 
+in 1978 when enacting legislation covering proj- 
+ects under the Small Business Act, 15 U.S.C. 
+§ 631(e), apply equally to the federally-funded 
+highway and mass transit construction projects 
+covered by this bill. 
+
+
+S. Rep. No. 4, 100th Cong., Ist Sess. 11 (1987). We 
+have collected in Appendix B, infra, 18a-36a, more 
+examples of hearings, floor debates and committee re- 
+ports in which Congress’s choice of a limited, race- 
+based remedy was repeatedly debated and reaffirmed. 
+
+2. Regulatory background. Under the Subcon- 
+tracting Compensation Clause that is challenged in 
+this case, a small business concern will be considered 
+disadvantaged if it has been certified as such by the 
+Small Business Administration (Administration) or 
+any state highway agency. J.A. 24. In certifying 
+
+
+11 The Administration certifies disadvantaged businesses 
+pursuant to the Small Business Act and its implementing 
+regulations, 18 C.F.R. Pt. 124. State highway and transporta- 
+tion agencies certify disadvantaged businesses for partici- 
+
+
+13 
+
+
+businesses as disadvantaged, the Administration de- 
+termines on a case-by-case basis (a) whether a firm 
+claiming disadvantage is actually owned and con- 
+trolled by the person claiming disadvantage, (b) 
+whether that person is socially disadvantaged, and 
+(c) whether that person is economically disadvan- 
+taged. In making those determinations, the Admin- 
+istration employs a rebuttable presumption that, 
+“[i]n the absence of evidence to the contrary,” Black 
+Americans, Hispanic Americans, Native Americans, 
+Asian Pacific Americans, and Subcontinent Asian 
+Americans are socially disadvantaged. 13 C.F.R. 
+124.105(b). Minority status is, however, neither a 
+sufficient nor a necessary basis for certification. Be- 
+cause the presumption of social disadvantage is re- 
+buttable, members of the specified groups may none- 
+theless be considered not to be socially disadvantaged. 
+In addition, people who are not members of the speci- 
+fied minority groups may also be treated as disad- 
+vantaged under the Clause. 15 U.S.C. 637(a) (5); 
+13 C.F.R. 124.105-124.106. For example, persons 
+who have suffered ethnic or cultural bias on account 
+of their ancestry, physical handicap,” or “long-term 
+residence in an environment isolated from the main- 
+
+
+pation in DOT programs pursuant to 49 C.F.R. Pt. 28. The 
+FLHP also accepts certification by other government agen- 
+cies, provided the Contracting Officer has determined that 
+comparable procedures are followed. J.A. 24. 
+
+
+12 See, ¢.g., Doe v. Heatherly, 671 F. Supp. 1081 (D. Md. 
+1987) (applying nonracial inquiry into “cultural bias” to 
+evaluate disadvantage claim by person with calligraphic dys- 
+powre and dyslexia), aff’d, 854 F.2d 1816 (4th Cir. 1988) 
+
+able). 
+
+
+14 
+
+
+stream of American society” may be deemed socially 
+disadvantaged. 13 C.F.R. 124.105(c) (1) (i).” 
+
+Small business owners who establish their social 
+disadvantage must also demonstrate to the Adminis- 
+tration that they are economically disadvantaged “as 
+compared to others in the same business area who are 
+not socially disadvantaged.” 15 U.S.C. 637(a) (6) 
+(A); 18 C.F.R. 124.106(b). The separate showing 
+of economic disadvantage ensures that certification 
+does not “assist concerns owned and controlled by 
+socially disadvantaged individuals who have accumu- 
+lated substantial wealth, who have unlimited growth 
+potential or who have not experienced or have over- 
+come impediments to obtaining access to financing, 
+markets and resources.” 13 C.F.R. 124.106(a) (1) 
+(ii). In evaluating whether a business owner is in 
+fact economically disadvantaged, the Administration 
+considers the personal financial condition, business 
+financial condition, and access to credit and capital 
+of the individual claiming disadvantaged status. 13 
+C.F.R. 124.106(a) (2).™ 
+
+Where a competitor, such as petitioner, believes 
+that a certification of a subcontractor as disadvan- 
+taged is unwarranted, it may submit information to 
+
+
+The Administration “will entertain any relevant evi- 
+dence in assessing [the social disadvantage] element of an 
+applicant’s case,” 18 C.F.R. 124.105 (c) (1) (v), and the reg- 
+ulations set forth factors to be taken into account, 18 C.F.R. 
+124.105 (c) (1) (v) (A)-(C) (education, employment, business 
+history). 
+
+
+4 See, e.g., Autek Systems Corp. v. United States, 835 
+F. Supp. 13 (D.D.C. 1993) (upholding Administration’s de- 
+termination that minority business owner’s personal income 
+disqualified him from participation), aff’d, No. 98-5399 (D.C. 
+Cir. May 18, 1994). 
+
+
+15 
+
+
+the contracting officer and seek initiation of a protest. 
+13 C.F.R. 124.603(b); see generally 13 C.F.R. Pt. 
+124, Subpt. B. “No specific form is required” for a 
+protest to disadvantaged status, 18 C.F.R. 124.607 
+(a), and it may be filed at any time before the 
+work under the subcontract is completed, 13 C.F.R. 
+124.605(b) (2). When such a protest is filed, the Ad- 
+ministration must investigate, 13 C.F.R. 124.608, and 
+make a prompt determination as to disadvantage, 13 
+C.F.R. 124.609. In making that determination, the 
+Administration : equired to review “ownership and 
+control of each pi.tested firm as well as social and 
+economic disadvantage regardless of the grounds 
+specified in t. e protest.” 13 C.F.R. 124.609(d) (3).* 
+
+States that certify disadvantaged businesses apply 
+standards that generally mirror those promulgated 
+under the SBA. 49 C.F.R. Pt. 23, Subpt. D; see Pet. 
+App. 8. Under STURAA’s implementing regulations, 
+as under the SBA’s, members of certain minority 
+groups are rebuttably presumed to be disadvantaged. 
+49 C.F.R. 23.62. However, state certification of dis- 
+
+
+% The Administration has independent review responsibil- 
+ities even in the absence of a protest. The SBA provides that 
+businesses that are not in fact both socially and economically 
+disadvantaged must be decertified or “graduated.” 15 U.S.C. 
+636(j)(10)(F) and (H) (1988 & Supp. V 1998), 687(a) 
+(6)(C) (Supp. V 1998); 18 C.F.R. 124.208. The financial 
+information that disadvantaged businesses must file annually, 
+15 U.S.C. 637(a) (6) (B), or credible evidence coming to 
+the attention of the Administration from any other source, 
+13 C.F.R. 124.101 (c) (2), 124.111(c), may trigger a review, 
+and the Administration is required to investigate and to 
+satisfy itself that the criteria have been met, 15 U.S.C. 
+637 (a) (6) (C) (i) (Supp. V 1993). 
+
+
+** The groups as to which the rebuttable presumption ap- 
+plies are virtually the same under both statutes. Both include 
+
+
+16 
+
+
+advantage under STURAA, like certification by the 
+Small Business Administration, is also available to 
+nonminorities.” Thus, persons such as “disabled 
+Vietnam veterans, Appalachian white males, Hasidic 
+Jews, or any other individuals who are able to demon- 
+strate to the [State] that they are socially and eco- 
+nomically disadvantaged may be treated as eligible to 
+own and control a disadvantaged business, on the 
+same basis as a member of one of the presumptive 
+
+
+Black Americans, Hispanic Americans, Native Americans, 
+and Asian-Pacific Americans. The STURAA regulations, 
+however, specify “Asian-Indian Americans” in place of the 
+SBA regulations’ “Subcontinent Asian Americans.” Compare 
+49 C.F.R. 23.62(a)-(e) (“socially and economically disadvan- 
+taged individuals”) (defining precise contours of listed 
+groups) with 13 C.F.R. 124.105(b) (1) (same). 
+
+The rebuttable presumption under DOT’s STURAA regula- 
+tions provides that “members of the named [minority] groups 
+* * * are presumed to be both socially and economically dis- 
+advantaged,” 49 C.F.R. Pt. 23, Subpt. D, App. C { 2, while the 
+parallel presumption in the SBA regulations applies only to 
+social disadvantage. Under both sets of regulations; the cer- 
+tifying agency is entitled to consider all relevant evidence in 
+order to ensure that the statutory disadvantage criteria are 
+met as to each subcontractor. With respect to the rebuttal 
+of the presumption, see 49 C.F.R. 28.62, the STURAA regula- 
+tions provide that “[a]ny third party” may bring a chal- 
+lenge, 49 C.F.R. 23.69(b) (1); see 49 C.F.R. Pt. 28, Subpt. E, 
+and may “present evidence that the firm’s owners are not 
+truly socially and/or economically disadvantaged, even though 
+they are members of one of the presumptive groups,” 49 
+C.F.R. Pt. 23, Subpt. D, App. C 2. 
+
+
+The state agencies “may determine, on a case-by-case 
+basis, that individuals who are not a member [sic] of one of 
+the [minority] groups are socially and economically disad- 
+vantaged.” 49 C.F.R. 23.62 (defining “socially and economi- 
+cally disadvantaged individuals”); see 49 C.F.R. Pt. 23, 
+Subpt. D, App. A 710 (analysis of Section 23.62). 
+
+
+17 
+
+
+groups.” 49 C.F.R. Pt. 23, Subpt. D, App. A 10 
+(analysis of Section 23.62). Women are also pre- 
+sumed to be socially and economically disadvantaged. 
+49 C.F.R. 23.62; see also 48 C.F.R. 52.219-13 (cited 
+in Subcontracting Compensation Clause, J.A. 24). 
+3. The Subcontracting Compensation Clause. The 
+Subcontracting Compensation Clause is a standard 
+clause developed by FHWA’s Federal Lands Highway 
+Program and is used in most of the Program’s sealed- 
+bid contracts. The Clause is one of several means 
+employed to aid DOT in implementing its statutory 
+responsibilities to make efforts to expend contract 
+and subcontract funds through disadvantaged small 
+businesses. As its name suggests, the Clause is de- 
+signed to offset the financial disincentives that would 
+otherwise exist to employing and assisting disadvan- 
+taged businesses as subcontractors by covering the 
+additional expenses associated with such employment. 
+J.A. 24-26; Pet. App. 10; C.A. Supp. App. 33-34, 54, 
+108-109. In return for compensation under the 
+Clause, the prime contractor thus must agree to 
+
+
+locate, train, utilize, assist, and develop [disad- 
+vantaged businesses] to become fully qualified 
+contractors in the transportation facilities con. 
+struction field. The Contractor shall also provide 
+direct assistance to disadvantaged subcontractors 
+in acquiring the necessary bonding, obtaining 
+price quotations, analyzing plans and specifica- 
+tions, and planning and management of the work. 
+
+
+J.A, 25. 
+Compensation is available to a prime contractor 
+
+
+under the Clause when at least 10% of the prime 
+contract amount is expended with one or more dis- 
+
+
+advantaged subcontractors. J.A. 25." The Clause 
+- limits compensation to 10% of the amount actually 
+subcontracted to disadvantaged subcontractors. In 
+this case, the subcontract amount was $104,800; 
+the prime contractor was thus entitled to compensa- 
+tion of approximately $10,000. Pet. App. 11. In 
+addition, total compensation under the Clause may 
+not exceed 1.5% of the prime contract amount if the 
+prime contractor employs one disadvantaged subcon- 
+tractor, or 2% of the prime contract amount if the 
+prime contractor employs more than one disadvan- 
+taged subcontractor. J.A. 26. Thus, if Mountain 
+Gravel and Construction Company (Mountain Gravel), 
+the prime contractor on the project involved in this 
+case, had subcontracted 40% of the work on a 
+$1,000,000 project, its compensation would not be the 
+full $40,000 representing 10% of the subcontracted 
+amount; rather, if one disadvantaged subcontractor 
+performed the entire 40% portion, compensation 
+would be capped at $15,000 (i.e., 1.5% of the prime 
+contract amount), and if more than one disadvan- 
+taged firm were involved, compensation could not ex- 
+ceed $20,000 (i.e., 2% of the prime contract amount). 
+The compensation amount is deemed to be “full com- 
+pensation for locating, selecting, training, and assist- 
+ing DBE subcontractors; for maintaining supporting 
+records; and for supplying all facilities and services 
+to complete this DBE subcontracting provision.” /bid. 
+The Clause does not impose any requirement that 
+prime contractors subcontract with any disadvantaged 
+subcontractors; a prime contractor remains fully eli- 
+gible to be awarded a contract whether or not it does 
+
+
+1% This 10% threshold can be modified “based on the avail- 
+ability of eligible subcontractors.” C.A. Supp. App. 39-40, 
+52-53, 108. 
+
+
+}9 
+
+
+80. See Pet. App. 7; J.A. 25 (eligibility for ecompen- 
+sation) ; C.A. Supp. App. 96." 
+
+4. Proceedings below. A. In September 1989, the 
+CFLHD awarded Mountain Gravel a prime contract 
+for a federally funded highway construction project 
+in the San Juan National Forest known as the West 
+Dolores project. Pet. App. 9. The contract included 
+the Subcontracting Compensation Clause. Jd. at 10. 
+Mountain Gravel solicited bids to subcontract the 
+guardrail installation portion of the contract. In 
+subcontracting, Mountain Gravel was not required 
+to accept the lowest bid. Although petitioner sub 
+mitted a slightly lower bid, Mountain Gravel awarded 
+the guardrail subcontract to Gonzales, a certified 
+small disadvantaged business, and thus received com- 
+pensation under the Clause. Jd. at 10-11. Petitioner 
+did not seek disadvantaged status for itself, did not 
+
+
+’ The mechanism of prime contractors assisting disadvan- 
+taged businesses in a mentor-like relationship was proposed 
+to Congress by the American Association of State Highway 
+and Transportation Officials (AASHTO) in a hearing that 
+preceded the passage of STURAA. See The Disadvantaged 
+Business Enterprise Program of the Federal-Aid Highway 
+Act: Hearing Before the Subcomm. on Transportation of the 
+Senate Comm. on Environment and Public Works, 99th 
+Cong., Ist Sess. 101 (1985) (“The management of a high- 
+way contracting organization requires many skills, including 
+knowledge of estimating and bidding, the employment and 
+administration of managers, technicians and laborers, and 
+the overall financial management of the business. These 
+skills are not easily learned[.] * * * In time, it can be ex- 
+pected that as expertise is acquired, many of today’s subcon- 
+tractors will become prime or general contractors if they so 
+desire. To help this process along, we believe in AASHTO 
+that wider usage of the mentor-protege concept, the forma- 
+tion of partnerships between new DBE and WBE firms and 
+established contracting organizations, holds great promise.”). 
+
+
+20 
+
+
+question Gonzales’s actual disadvantaged status, and 
+did not seek to rebut any presumption that might 
+have been applied to Gonzales in the certification 
+process. 
+
+On August 10, 1990, petitioner filed suit for declar- 
+atory and injunctive relief against officials of DOT, 
+alleging that the use of the Clause violates 42 U.S.C. 
+1983, Title VI of the Civil Rights Act of 1964, 42 
+U.S.C. 2000d, and the Fifth and Fourteenth Amend- 
+ments to the Constitution. On cross-motions for sum- 
+mary judgment, the district court granted summary 
+judgment for respondents. Pet. App. 27-37. The 
+court rejected petitioner’s argument that the chal- 
+lenged federal program must be subjected to strict 
+judicial scrutiny under City of Richmond v. J.A. 
+Croson Co., 488 U.S. 469 (1989), holding instead that 
+Fullilove vy. Klutznick, 448 U.S. 448 (1980), and 
+Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 (1990), 
+establish the relevant standard. The district court 
+was satisfied that here, as in Fullilove, Congress had 
+an “abundant historical basis” to support the chal- 
+lenged program. Pet. App. 35 (quoting Fullilove, 448 
+U.S. at 478 (opinion of Burger, C.J.) ). “[T]he mere 
+fact that CFLHD implements a federal program 
+within Colorado does not convert it into a state pro- 
+gram requiring Croson-type analysis.” Pet. App. 34. 
+
+The district court held that the Clause is narrowly 
+tailored to serve Congress’s important objectives. Pet. 
+App. 35-36. The court found that the Clause is not 
+“overinclusive,” because the annual certification proc- 
+ess ensures that only legitimately disadvantaged sub- 
+contractors participate in the program. Ibid. It is 
+also not “underinclusive,” because disadvantaged 
+
+
+2! 
+
+
+firms that are not presumptively disadvantaged may 
+apply for certification and become qualified to partici- 
+pate. /d. at 36. The court further noted that the 
+waiver mechanism properly relieves feders] agencies 
+of their disadvantaged business obligations when there 
+are not enough qualified disadvantaged businesses 
+available to achieve the agency’s goal. bid. 
+
+B. The court of appeals affirmed. Pet. App. 1-24. 
+In an undivided opinion, the court held, as had the 
+district court, that Fullilove, not Croson, controls. Id. 
+at 15. “Under Fullilove, if Congress has expressly 
+mandated a race-conscious program, a court must 
+apply a lenient standard, resembling intermediate 
+scrutiny, in assessing the program’s constitutional- 
+ity.” Ibid. “Indeed,” the court observed, “the Metro 
+Broadcasting majority held that even non-remedia] 
+race-conscious measures mandated by Congress are 
+constitutionally permissible if they satisfy intermedi- 
+ate scrutiny.” Jd. at 19. 
+
+The court rejected petitioner’s argument that, be- 
+cause the challenged program was also “fashioned 
+and specified by an agency and not by Congress,” Pet. 
+App. 17, particularized findings of past discrimina- 
+tion were required to justify the program under 
+Croson. The court stated that “[petitioner] cites no 
+authority, nor do we know of any, to support the 
+proposition that a federal agency must make inde- 
+pendent findings to justify the use of a benign race- 
+conscious program implemented in accordance with 
+federal requirements.” Jd. at 18. The court of ap- 
+peals found that the particular aspects of the pro- 
+gram petitioner challenges were specifically author- 
+ized by Congress. In including the Subcontracting 
+Compensation Clause in prime contracts, the CFLHD 
+thus “did exactly what Congress explicitly directed 
+it to do” under the SBA. Id. at 20. 
+
+
+22 
+
+
+Finally, the court of appeals held that the Clause 
+is constitutional because it is narrowly tailored to 
+achieve the important governmental objective of pro- 
+viding opportunities for minority subcontractors. 
+“The qualifying criteria of the SCC program [are] 
+not limited to members of racial minority groups,” 
+and “minority businesses that do not satisfy that 
+economic criteria cannot qualify for DBE status.” 
+Pet. App. 23. The court also pointed out that the 
+10% threshold for using disadvantaged subcontrac- 
+tors in the Clause “is an optional goal, not a set-aside,” 
+because “it is entirely at the discretion of the prime 
+contractor whether to exercise its option under the 
+Subcontracting Compensation Clause.” /d. at 12 n.9. 
+The SCC program was “ ‘appropriately limited in 
+* * * duration’ because federal procurement and 
+construction contracting practices are subject to regu- 
+lar ‘reassessment and reevaluation by Congress.’” /d. 
+at 23 (quoting Fullilove, 448 U.S. at 489 (opinion of 
+Burger, C.J.) ). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. A. Petitioner has brought a facial constitutional 
+challenge to the use of the Subcontracting Compensa- 
+tion Clause on the ground that it incorporates race- 
+based classifications. The Clause, however, is sub- 
+stantively based on disadvantaged status; race plays 
+a role in the operation of the Clause only through a 
+rebuttable presumption that small businesses owned 
+and controlled by members of racial minority groups 
+are disadvantaged. That presumption may be set 
+aside or rebutted if a minority subcontractor is not 
+actually disadvantaged. In addition, the compensa- 
+tion program challenged by petitioner applies to en- 
+courage the utilization of disadvantaged subcontrac- 
+tors who are not members of minority groups. 
+
+
+23 
+
+
+Petitioner also mischaracterizes goals set under 
+the Small Business Act as “race-based set-asides.” 
+Those goals, however, are neither based on race nor 
+are they used to set aside funds exclusively for minori- 
+ties. The goals do not apply to all minority businesses, 
+but only to those owned by disadvantaged minorities. 
+The goals also apply to government contracting with 
+women and members of other disadvantaged groups. 
+Because the percentage levels of the goals are not tied 
+to race, they are not subject to heightened constitu- 
+tional scrutiny. 
+
+B. Petitioner lacks standing to challenge the use 
+of the rebuttable presumption associated with the Sub- 
+contracting Compensation Clause. Petitioner failed 
+to show that the presumption was applied to the 
+successful bidder in this case, or that, if it was 
+applied, it led to an incorrect determination of dis- 
+advantage. Nor did petitioner show that it was itself 
+disadvantaged. Petitioner, moreover, seeks only fu- 
+ture relief, to which it is not entitled on a record 
+that demonstrates, at best, only remote and specula- 
+tive future harm. 
+
+C. Nor is the challenged Clause correctly viewed 
+as conferring a racial preference. The Clause does 
+not create an artificial incentive to subcontract with 
+disadvantaged businesses. It seeks instead to remove 
+disincentives to using such businesses by compensat- 
+ing prime contractors for the additional expenses and 
+time associated with that use. Specifically, the Clause 
+requests that prime contractors train and assist dis- 
+advantaged subcontractors, and, where they agree to 
+do so, it offers them compensation to offset the cost 
+to them of such additional effort. 
+
+D. Because the challenged presumption was en- 
+acted by Congress as a remedial measure based on 
+legislative findings of racial discrimination affecting 
+minority business opportunity, intermediate scrutiny 
+
+
+24 
+
+
+is the appropriate standard of constitutional review. 
+The presumption is, however, constitutional under 
+any degree of scrutiny. It serves a compelling re- 
+medial objective, and, because rebuttable and non- 
+exclusive, is closely tailored to serve that objective. 
+Congress determined that a remedy was necessary 
+based on its findings that racial discrimination con- 
+tinues to impair minority access to subcontracting 
+opportunities in federal procurement generally, and in 
+road construction specifically. 
+
+E. The presumption challenged in this case is more 
+narrowly tailored than any race-based remedial meas- 
+ure this Court has yet considered. It is not under- 
+inclusive, because it provides the same compensation 
+for contracting with nonminority-owned as with 
+minority-owned disadvantaged small businesses. It is 
+not overinclusive, because it is accompanied by proce- 
+dures to exclude minorities who are not in fact dis- 
+advantaged. The Clause imposes no fixed requirement 
+of subcontracting with disadvantaged businesses and 
+is neither a set-aside nor a quota. The presumption 
+employed under the Clause is also appropriately lim- 
+ited in duration, because it is subject to active and 
+ongoing congressional assessment of its continuing 
+necessity. 
+
+II. Finally, this Court should reaffirm its decision 
+in Fullilove. As clarified by this Court’s subsequent 
+decisions in Croson and Metro Broadcasting, Fulli- 
+love has provided a workable standard of constitu- 
+tional review of race-conscious measures adopted by 
+Congress after extensive factfinding and delibera- 
+tion. There is no conflict in the Circuits regarding 
+the proper application of Fullilove. The decision in 
+that case reflects appropriate judicial respect for 
+congressional determinations on matters of race that 
+
+
+touch federal spending programs. 
+
+
+25 
+ARGUMENT 
+
+
+I. THE SUBCONTRACTING COMPENSATION 
+CLAUSE IS CONSTITUTIONAL 
+
+
+A. The Clause Is Based On Social And Economic Dis- 
+advantage; Minority Racial Status Plays Only A 
+Procedural Role Through A Rebuttable Presump- 
+tion Of Such Disadvantage 
+
+
+Petitioner challenges the Subcontracting Compen- 
+sation Clause on its face. Although that Clause em- 
+ploys a presumption of disadvantage that is based on 
+racial group membership, the presumption is rebutt- 
+able and nonconclusive. The presumption therefore 
+plays a procedural rather than a substantive role in 
+the contracting program that employs the Clause. 
+The program is, at the same time, open to subcon- 
+tractors who have been the targets of ethnic prejudice 
+or cultural bias, as well as to those subcontractors 
+who have been victims of racial prejudice.” All sub- 
+contractors covered by the Clause also must, in addi- 
+tion to having suffered social disadvantage caused by 
+group prejudice or bias, have suffered economic dis- 
+advantage. 
+
+A member of a racial minority group who has not 
+himself or herself been the victim of racial prejudice 
+is thus not to be treated + pe. age the 
+challe program. Nor is a mi y group 
+i a be treated as disadvantaged, even if he 
+or she has been the victim of racial prejudice, if that 
+prejudice has not resulted in economic disadvantage 
+to him or her. On the other hand, subcontractors 
+who are not racial minorities are to be included in 
+the program if they are both economically and so- 
+
+
+2 The program also broadly covers all disadvantage caused 
+by racial prejudice—not only racial prejudice directed against 
+racial minorities. Cf. McDonald v. Santa Fe Trail Transp. 
+Co., 427 U.S. 278 (1976). 
+
+
+26 
+
+
+cially disadvantaged. Women subcontractors consti- 
+tute the largest category of nonminorities who are 
+included. Members of ethnic minorities are also cov- 
+ered. In addition, the Conference Report on the 1978 
+SBA Amendments refers to the potential disadvan- 
+taged status of “a poor Appalachian white person,” 
+see H.R. Rep. No. 1714, supra, at 22, and the regu- 
+lations under STURAA give disabled Vietnam vet- 
+erans and members of Hasidic Jewish sects as other 
+illustrations of the program’s reach beyond racial 
+_— see 49 C.F.R. Pt. 23, Subpt. D, App. A 
+
+10. 
+
+The Subcontracting Compensation Clause program 
+is thus a program based on disadvantage, not on 
+race. There is no constitutional impediment to legis- 
+lative action based on such disadvantage beyond the 
+requirement that the means be nonarbitrary and ra- 
+tionally related to the objective. Government regula- 
+tion “in the social and economic field” requires only 
+the most relaxed judicial scrutiny. See Dandridge v. 
+Williams, 397 U.S. 471, 484 (1970). Congress’s 
+decision to foster the economic development of 
+small disadvantaged businesses clearly serves legiti- 
+mate objectives—improving the disadvantaged busi- 
+nesses’ stability and business competence, and en- 
+hancing competition in the marketplace for govern- 
+ment contracts—and the means chosen by Congress to 
+achieve those objectives are just as clearly rationally 
+related to the legislative ends. 
+
+Petitioner’s facial challenge to the CFLHD’s goals 
+depends entirely on its inaccurate assertion that they 
+are race-based. Petitioner erroneously equates dis- 
+advantaged businesses with minority businesses, as- 
+serting that, “[w]hile Congress may have had a basis 
+for the adoption of a program authorizing the set- 
+aside of 5 percent of government contracts on the 
+basis of race, * * * the decision by the CFLHD to 
+
+
+27 
+
+
+adopt a program in which 12 to 15 percent of its 
+contracting funds are apportioned on the basis of 
+race is without the factual basis required by this 
+Court.” Pet. Br. 20 (emphasis added); see id. at 
+47-49. However, all percentages that petitioner re- 
+fers to—including the 5% SBA goal, the 10% 
+STURAA goal, the 12-15% CFLHD goal, and the 
+10% subcontracting threshold in the SCC—reflect 
+expenditures with disadvantaged businesses of all 
+types, nonminority-owned as well as minority-owned. 
+Petitioner’s incorrect characterization of the goals as 
+race-based leads it to focus on the level of the goals, 
+and on how and by whom they are set. If petitioner 
+seeks to challenge the Clause as race-conscious, the 
+proper focus of that challenge is on the only aspect 
+of the program that is race-based: the race-based re- 
+buttable presumption used in some certification de- 
+terminations under the Subcontracting Compensation 
+Clause. 
+
+
+B. Petitioner Lacks Standing To Challenge The Use 
+Of The Race-Based Rebuttable Presumption 
+
+
+The Subcontracting Compensation Clause employs 
+a race-based criterion in the limited form of a re- 
+buttable presumption of disadvantage flowing from 
+minority group membership. As we explain below, 
+that presumption, although calling for intermediate 
+scrutiny under the Court’s equal protection prece- 
+dents, easily passes constitutional muster. As a pre- 
+liminary matter, however, we believe that petitioner 
+has failed to demonstrate, as it must, that it has 
+standing to challenge the limited procedural use of 
+that racial criterion in the Compensation Clause pro- 
+gram. Petitioner has completely failed to show that 
+the presumption affected the award of the subcon- 
+tract in this case to another bidder, and petitioner 
+has also failed to allege or prove that the future 
+
+
+28 
+
+
+relief it seeks would affect its business opportunities. 
+
+Petitioner challenges its loss of a subcontract that 
+was awarded to a certified disadvantaged business 
+enterprise, arguing that the contract award was the 
+result of a racial preference, but has failed to estab- 
+lish that race played any role whatever in the chal- 
+lenged award. First, petitioner never alleged or 
+proved that the basis of Gonzales Construction Com- 
+pany’s certification as a disadvantaged business was 
+its ownership and control by a member of a racial 
+minority group. Petitioner submitted no evidence 
+regarding the criteria actually used in that certifica- 
+tion.” So far as the record reveals, Gonzales may 
+have been certified as a disadvantaged business be- 
+cause of ownership and control by a woman, by an 
+ethnic minority, or by a physically disabled person, 
+or on some other ground.” There has thus been no 
+showing that the race-based rebuttable presumption, 
+which is the only racial component of the challenged 
+program, was actually applied so as to affect the 
+award of the subcontract in this case. 
+
+Second, petitioner failed to establish that, even 
+assuming that Gonzales’s ownership by a racial mi- 
+nority group member was the basis of the certifica- 
+tion, the owner was not socially and economically 
+disadvantaged. Although the SBA and STURAA 
+regulations provide a procedure through which any 
+interested person may challenge whether a certified 
+
+
+*1 Petitioner did not depose or otherwise seek discovery 
+from the owner of the Gonzales firm, nor from any of the 
+state or SBA officials involved in disadvantaged business 
+certifications. 
+
+
+*2 Petitioner simply refers repeatedly and consistently to 
+Gonzales as a disadvantaged business enterprise, or “DBE,” 
+without indicating the basis of the finding of disadvantage. 
+See, ¢.g., J.A. 18 (Complaint) ; Pls. Answers to Defs. Interrog. 
+16; Pet. 5; Pet. Br. 11; see J.A. 30. 
+
+
+29 
+
+
+disadvantaged subcontractor is actually disadvan- 
+taged, 18 C.F.R. Pt. 124, Subpt. B; 49 C.F.R. 23.69, 
+petitioner chose chose not to take advantage of that 
+procedure. A challenge by petitioner to Gonzales’s 
+certification would have required the certifying 
+agency not simply to confirm the race of those who 
+own and control the company, but to review and 
+verify the company’s actual disadvantaged status. 
+See 13 C.F.R. 124.608-124.609; 49 C.F.R. Pt. 23, 
+Subpt. D, App. C. If Gonzales is actually disadvan- 
+taged anc if petitioner, as appears, see Pet. Br. 24 
+n.21, had a fair opportunity to challenge that status 
+but chose not to do so, petitioner can hardly claim 
+now that any rebuttable presumption used to deter- 
+mine that Gonzales was disadvantaged was uncon- 
+stitutional. 
+
+Nor has petitioner ever claimed or established that 
+it is itself disadvantaged. Thus, petitioner cannot 
+challenge the rebuttable presumption on the ground 
+that it unconstitutionally prefers minorities by mak- 
+ing it easier for them than for nonminorities to be 
+certified as disadvantaged. 
+
+The abstract nature of petitioner’s claim is further 
+underscored by its failure to show that the relief it 
+seeks would actually affect its business. Petitioner 
+does not seek retrospective relief for Mountain Gra- 
+vel’s failure to award it the subcontract. Rather, pe- 
+titioner seeks only to enjoin and declare unlawful the 
+future use of the Clause by the FHLP. J.A. 22-23. 
+Petitioner thus has standing only if it faces “ ‘actual 
+or imminent’ injury.” Lujan v. Defenders of Wild- 
+life, 112 S. Ct. 2130, 2138 (1992). The asserted 
+future harm upon which petitioner’s claim is based 
+is, however, both remote and highly contingent. In 
+the 18 years that petitioner has been in the guard- 
+rail construction business, the subcontract on the 
+West Dolores project is the only subcontract that 
+
+
+30 
+
+
+petitioner has allegedly lost due to the Subcontract- 
+ing Compensation Clause. Pls. Answers to Defs. 
+Interrog., Attachs. 1, 3. In Colorado, where peti- 
+tioner bids, the only agency using the Clause is the 
+CFLHD, which has on average less than one guard- 
+rail subcontract per year in each State. Defs. An- 
+swers to Pls. Interrog. 13. Petitioner has not always 
+bid on government subcontracts, and when it did it 
+most often failed to make the lowest bid. Pls. An- 
+swers to Defs. Interrog. 9, Attach. 1. In addition, 
+most highway construction projects on which peti- 
+tioner bids are not administered by the CFLHD, but 
+by the State, and therefore do not include the Sub- 
+contracting Compensation Clause. Finally, if peti- 
+tioner lost future contracts under the Clause to dis- 
+advantaged businesses owned by nonminorities, an 
+injunction against use of the racial presumption in 
+the Clause would provide it no relief. All these fac- 
+tors make the “links in the chain of causation be- 
+tween the challenged Government conduct and the 
+asserted injury * * * far too weak for the chain as 
+a whole to sustain [petitioner’s] standing.” Allen v. 
+Wright, 468 U.S. 787, 759 (1984). 
+
+Petitioner, in sum, has not established—nor does 
+it appear to have—any factual basis for challenging 
+
+
+*8 Northeastern Florida Chapter of Associated General Con- 
+tractors Vv. City of Jacksonville, 118 S. Ct. 2297 (1998), is 
+not to the contrary. That case was brought by an association 
+of 240 contractors and subcontractors that regularly bid on 
+contracts affected by the challenged set-aside, in contrast to 
+petitioner here, which faces only the most speculative chance 
+that it will be affected by the challenged program. The pro- 
+gram in City of Jacksonville was also fundamentally different 
+from the one at issue here, because it was an exclusively 
+minority program, whereas the Clause here neither prevents 
+petitioner from obtaining certification as a disadvantaged 
+business nor, even if not so certified, from bidding on and ob- 
+taining subcontracts on prime contracts including the Clause. 
+
+
+31 
+
+
+the constitutionality of the only factor of any kind 
+in the Compensation Clause program that is based 
+on minority racial status. As we show below, the 
+rebuttable presumption, in the context of a p 
+
+that seeks not to give a preference, but to alleviate 
+discriminatory barriers that would otherwise imperil 
+disadvantaged subcontractors, is unquestionably con- 
+stitutional. On the present record, however, the only 
+aspect of the Compensation Clause open to challenge 
+is its implementation of Congress’s decision to in- 
+crease the share of federal procurement business al- 
+located to disadvantaged subcontractors, whether 
+minority or not. There can be no serious question 
+as to the legitimacy of that congressional objective. 
+
+
+C. The Clause Does Not Constitute A Preference For 
+Disadvantaged Subcontractors 
+
+
+Petitioner’s constitutional attack on the Subcon- 
+tracting Compensation Clause depends not only on 
+petitioner’s incorrect assertion that the Clause focuses 
+on race rather than disadvantage, but also on its con- 
+tention that the Clause constitutes a “bonus” or “re- 
+ward” (Pet. Br. 9 & n.9, 10 & n.12, 11) to prime 
+contractors to induce them to prefer contracting with 
+disadvantaged subcontractors. That contention is 
+also factually erroneous. 
+
+Rather than constituting a preference for disad- 
+vantaged subcontractors, the Compensation Clause 
+is designed to remove barriers that would otherwise 
+exist to the free participation by disadvantaged 
+businesses in bidding for subcontracts on federal 
+highway projects. As explained by the text of the 
+Clause itself and by the legislative record, disadvan- 
+taged subcontractors, who by definition must have 
+diminished capital resources and credit opportunities, 
+will, without assistance, often be unable to compete 
+with more affluent subcontractors for work on gov- 
+
+
+32 
+
+
+ernment projects. The Clause is part of a FLHP 
+effort to encourage prime contractors on federal high- 
+way projects to lend that needed assistance and to 
+be willing to utilize disadvantaged subcontractors de- 
+spite the extra costs associated with that effort. 
+
+As the Clause notes, among the additional costs 
+of employing disadvantaged subcontractors are pay- 
+ments to assist the subcontractors to get bonding, the 
+expense and time involved in providing assistance 
+in business, financial and labor management, and 
+technical planning and organization of the subcon- 
+tracted work. J.A. 25-26. The prime contractor is 
+required to keep records “documenting these activi- 
+ties and shall make them available for Government 
+review upon request.” J.A. 25. If those extra ex- 
+penses were not negated by the Clause, disadvan- 
+taged subcontractors would often either be denied 
+needed assistance, be forced to submit higher bids 
+than more affluent subcontractors who face fewer 
+disadvantages, or be excluded from government pro- 
+curement business altogether. Any of those results 
+would conflict with Congress’s objectives of using its 
+procurement program to spur economic development 
+and of encouraging healthy price competition on gov- 
+ernment projects.” 
+
+
+% Petitioner has mace no effort to show that the compensa- 
+tion figure used under the Clause exceeds the costs of doing 
+business with disadvantagcd subcontractors so as to consti- 
+tute a preferential “bonus” or “reward.” In addition, com- 
+pensation is initially calculated at 10% of the dollar amount 
+of the subcontracts placed with disadvantaged businesses, but 
+cannot exceed 2% of the amount of the prime contract. Thus, 
+any affirmative incentive it might provide in a particular 
+situation would, in all events, be a limited one. 
+
+
+33 
+
+
+D. The Rebuttable Presumption Of Disadvantage Is 
+Based On Congressional Findings Of Racial Dis- 
+crimination And Serves The Compelling Govern- 
+mental Objective Of Remedying Past Discrimination 
+
+
+In amending the SBA since the mid-1970’s, and in 
+enacting STURAA in 1987, Congress identified past 
+and continuing racial discrimination, specifically in- 
+cluding discrimination in the highway construction 
+industry, as having impaired the ability of minorities 
+to participate in economic activity, and it sought to 
+ensure that federal procurement spending not com- 
+pound the effects of that discrimination, but rather 
+help to remedy it. In this effort, Congress chose to 
+utilize, in addition to other means, a narrow and 
+flexible rebuttable presumption of disadvantage ap- 
+plicable to racial minorities seeking to participate in 
+federal contracting activity. Insofar as petitioner has 
+standing to raise the issue, this case presents the 
+question whether, in assessing the disadvantaged sta- 
+tus of a particular small business, the CFLHD may 
+properly rely on certifications of disadvantage in which 
+the presumption has been employed. 
+
+The presumption itself is both nonconclusive and 
+rebuttable. Certifying agencies are to presume dis- 
+advantage if a subcontractor is a member of any of 
+
+
+* As noted, petitioner has not identified the certification 
+process actually used in this case. For that reason, it is 
+unclear which regulations are at issue—those under the SBA 
+or those under STURAA. Accordingly, in order to reverse 
+the decision below, this Court would have to find all poten- 
+tially applicable regulations facially unconstitutional. See 
+Reno V. Flores, 113 S. Ct. 1439, 1446 (1998) (citing United 
+States v. Salerno, 481 U.S. 739, 745 (1987)). So long as the 
+“projected administration give[s] reasonable assurance that 
+the program will function within constitutional limitations,” 
+Fullilove v. Klutznick, 448 U.S. 448, 490 (1980) (opinion of 
+Burger, C.J.), the program must be upheld. 
+
+
+34 
+
+
+a list of minority groups, or, in the case of the agen- 
+cies implementing STURAA, is a women. The over- 
+riding statutory obligation of the certifying agencies 
+remains that of determining whether each small busi- 
+ness is, in fact, socially and economically disadvan- 
+taged; the agency may rely on the presumption only 
+in the absence of contrary information. Where avail- 
+able information shows, for example, a lack of eco- 
+nomic disadvantage, the presumption must be dis- 
+regarded. Moreover, unlike a court, the certifying 
+agency is entitled to implement independent investi- 
+gative procedures to satisfy itself that the statutory 
+criteria are being met.” In addition, in any case in 
+which a non-disadvantaged business believes applica- 
+tion of the presumption may result in discrimination 
+against it, it may trigger an investigation into 
+whether the minority business has truly suffered both 
+social and economic disadvantage. 
+
+1. Race-based remedial action by Congress is sub- 
+ject to intermediate scrutiny. This Court has never 
+applied strict scrutiny to a remedial, race-conscious 
+measure adopted by Congress, and should not do so 
+here, where the program involves neither a quota, a 
+set-aside, nor any other kind of substantive racial 
+preference. Cf. City of Richmond v. J.A. Croson Co., 
+488 U.S. 469, 499 (1989). The rebuttable presump- 
+tion employed in programs under the SBA and 
+STURAA is instead subject to the intermediate 
+standard of review set forth in this Court’s decisions 
+
+
+26 See Federal Highway Administration, U.S. Dep’t of 
+Transportation, Disadvantaged Business Enterprise (DBE) 
+Program Administration Participant’s Manual 65 (Apr. 
+1990) (advising state agencies to require applicants for dis- 
+advantaged business certification to submit gross receipts for 
+at least three previous years and income tax returns for 
+each owner); STURAA § 106(c) (4), 101 Stat. 146. 
+
+
+35 
+
+
+in Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 
+(1990), and Fullilove v. Klutznick, 448 U.S. 44% 
+(1980). 
+
+Intermediate scrutiny applies because of Congress’s 
+broad powers in matters of race. Those powers de- 
+rive from an “amalgam” of sources, Metro Broad- 
+casting, 497 U.S. at 564 n.11 (quoting Fullilove, 448 
+U.S. at 473 (opinion of Burger, C.J.)), including 
+Congress’s “institutional competence as the National 
+Legislature,” as well as its constitutional powers 
+under the Spending Clause,” the Commerce Clause,” 
+and the enforcement clauses of the Civil War Amend- 
+ments, Metro Broadcasting, 497 U.S. at 563. Unlike 
+the States and localities, Congress is a co-equal 
+branch, and the Court is bound to give its decisions 
+“great weight.” Fullilove, 448 U.S. at 472 (opinion 
+of Burger, C.J.). Congress’s role as the national leg- 
+islature—a bicameral, representative body subject to 
+presidential veto—makes it less likely than state or 
+local governing bodies to be captured by parochial and 
+biased interests. It thus does not present the “height- 
+
+
+7 Article I, Section 8, Clause 1. See Fullilove, 448 U.S. at 
+474 (opinion of Burger, C.J.); Metro Broadcasting, 497 U.S. 
+at 563. “It is beyond dispute that any public entity, state or 
+federal, has a compelling interest in assuring that public 
+dollars, drawn from the tax contributions of all citizens, do 
+not serve to finance the evil of private prejudice.” Croson, 
+488 U.S. at 492 (citing Norwood v. Harrison, 413 U.S. 455, 
+465 (1973)). 
+
+
+** Congress has vast powers under the Commerce Clause, 
+Article 1, Section 8, Clause 8, to regulate any activity that 
+“has a real and substantial relation to the national interest.” 
+Heart of Atlanta Motel, Inc. v. United States, 379 U.S. 241, 
+255 (1964); EEOC v. Wyoming, 460 U.S. 226 (1983): id. at 
+248 (Stevens, J., concurring); Hodel v. Indiana, 452 U.S. 
+rom Font (1981); Katzenbach v. McClung, 379 U.S. 294, 
+
+
+36 
+
+
+ened danger of oppression from political factions” 
+present in smaller political units. Croson, 488 U.S. 
+at 523 (Scalia, J., concurring in the judgment).™ 
+Moreover, in the event that Congress should err in its 
+choice of a remedy, its broadly representative char- 
+acter provides a check. 
+
+In matters of race, the Civil War Amendments ex- 
+pressly granted “additional powers to the Federal 
+government,” and specifically to Congress, and laid 
+“additional restraints upon those of the States.” 
+Croson, 488 U.S. at 491 (opinion of O’Connor, J.) 
+(quoting the Slaughter-House Cases, 83 U.S. (16 
+Wall.) 36, 68 (1873)). “It is fundamental that in 
+no organ of government, state or federal, does there 
+repose a more comprehensive remedial power than in 
+the Congress, expressly charged by the Constitution 
+with competence and authority to enforce equal pro- 
+tection guarantees.” Fullilove, 448 U.S. at 483 (opin- 
+ion of Burger, C.J.); id. at 508-510 (Powell, J., 
+concurring) .” 
+
+
+7° See also Fullilove, 448 U.S. at 473 (opinion of Burger, 
+C.J.) (federal legislation represents not a conclusion reached 
+“by a single judge or a school board, but a considered decision 
+of the Congress and the President”). 
+
+
+% “[I]t is one thing to permit racially based conduct by 
+the Federal Government—whose legislative powers concern- 
+ing matters of race were explicitly enhanced by the Four- 
+teenth Amendment, see U.S. Const., Amdt. 14, § 5—and quite 
+another to permit it by the precise entities against whose 
+conduct in matters of race that Amendment was specifically 
+directed.” Croson, 488 U.S. at 521-522 (Scalia, J., concurring 
+in the judgment). 
+
+
+31 As those Justices who addressed the issue in Croson took 
+care to point out, Congress has powers that States and locali- 
+ties lack to act in an affirmative, race-conscious manner. 488 
+U.S. at 486-493 (opinion of O’Connor, J., joined by Rehnquist, 
+
+
+37 
+
+
+Congress’s powers under Section 5 of the Four- 
+teenth Amendment supported the federal race- 
+conscious measures in both Fullilove, 448 U.S. at 483- 
+484 (opinion of Burger, C.J.), and Metro Broadcast- 
+ing, 497 U.S. at 564-565, and similarly authorize the 
+rebuttable presumption of disadvantage at issue in 
+this case. “Congress, unlike any state or political 
+subdivision, has a specific constitutional mandate to 
+enforce the dictates of the Fourteenth Amendment. 
+The power to ‘enforce’ may at times also include the 
+power to define situations which Congress determines 
+threaten principles of equality and to adopt pro- 
+phylactic rules to deal with those situations.” Croson, 
+488 U.S. at 490 (opinion of O’Connor, J.) (citing 
+Katzenbach v. Morgan, 384 U.S. 641, 651 (1966) ) 
+(“Correctly viewed, § 5 is a positive grant of legisla- 
+tive power authorizing Congress to exercise its discre- 
+tion in determining whether and what legislation is 
+needed to secure the guarantees of the Fourteenth 
+Amendment.”) ) ; see also Fullilove, 448 U.S. at 476 
+(opinion of Burger, C.J.). Because Congress in this 
+area has constitutionally coordinate power to define 
+racial inequality and to devise appropriate remedies, 
+the Court must accord special respect to congressional 
+judgment regarding both means and ends. 
+
+Congress’s remedial powers under the Thirteenth 
+Amendment similarly require deference to its identifi- 
+cation of private discrimination and its choice of 
+remedy. The enforcement clause of the Thirteenth 
+Amendment is a source of uniquely federal power “to 
+enact laws ‘direct and primary, operating upon the 
+acts of individuals, whether sanctioned by State legis- 
+
+
+C.J., and White, J.). Judge Posner in Milwaukee County 
+Pavers Ass’n V. Fielder, 922 F.2d 419, 423-424 (7th Cir.), 
+cert. denied, 500 U.S. 954 (1991), articulated the same 
+principle. 
+
+
+38 
+
+
+lation or not.’” Runyon v. McCrary, 427 U.S. 160, 
+179 (1976) (quoting Jones v. Alfred H. Mayer Co., 
+392 U.S. 409, 488 (1968) ). 
+
+Petitioner errs in contending that Congress’s Sec- 
+tion 5 powers are not relevant here because this case 
+“involves a federal program implemented by a fed- 
+eral agency” and “no state or local government is 
+involved.” Pet. Br. 33 n.29. The legacy of discrimi- 
+nation that Congress aimed to remedy in STURAA 
+and the SBA is a history not only of private,” but 
+also of state-sponsored discrimination.” Nothing in 
+the Fourteenth Amendment requires that a federal 
+remedy for such discrimination be implemented only 
+through the States.“ Congress’s powers under the 
+Thirteenth Amendment do not, in all events, turn on 
+state responsibility for past and present racial dis- 
+crimination. 
+
+2. Intermediate scrutiny applies here. It is thus 
+“of overriding significance” to this case that the 
+rebuttable presumption of disadvantage “ha[s] been 
+
+
+82 Discriminatory practices by prime contractors, banks, 
+unions, vocational schools, and the like are among the prac- 
+tices Congress sought to redress by expressly recognizing 
+racial minorities as disadvantaged in highway construction 
+and devising measures to remedy disadvantage in federal 
+contracting. Some illustrations of the bases for Congress’s 
+action are touched upon in Appendix B, and in the materials 
+referred to therein. 
+
+
+83 See, e.g., Minority Business Participation in Department 
+of Transportation Project: Hearing Before a Subcomm. of 
+the House Comm. on Government Operations, 99th Cong., Ist 
+Sess. 185 (1985); 1988 Barriers Hearing 82, 117. 
+
+
+* Under STURAA, however, Congress in fact chose in 
+large part to implement its remedial program through the 
+States: The vast majority of the funds allocated under 
+STURAA—approximately 98% —is for aid to the States, 
+which is also spent subject to STURAA disadvantaged busi- 
+ness enterprise contracting provisions. 
+
+
+39 
+
+
+specifically approved—indeed, mandated—by Con- 
+gress.” Metro Broadcasting, 497 U.S. at 563. Al- 
+though agency regulations define some aspects of the 
+rebuttable presumption, Congress made the “critical 
+determinations.” Fullilove, 448 U.S. at 468 (opinion 
+of Burger, C.J.). Congress thus determined that per- 
+sons who are “socially disadvantaged because of their 
+identification as members of certain groups that have 
+suffered the effects of discriminatory practices” ‘in- 
+clude, but are not limited to, Black Americans, His- 
+panic Americans, Native Americans, Indian tribes, 
+Asian Pacific Americans, Native Hawaiian Organiza- 
+tions, and other minorities.” 15 U.S.C. 631(f) (1) (B) 
+and (C). It also determined that, in subcontracting, 
+those minorities may be “presume[d]” to be disad- 
+vantaged. 15 U.S.C. 637(d)(3)(C) (Supp. V 1993). 
+The Administration and DOT each elaborated on 
+those determinations in their regulations by outlining 
+evidence relevant to determinations of social and eco- 
+nomic disadvantage, 13 C.F.R. 124.105-124.106; 49 
+C.F.R. Pt. 23, Subpt. D, App. C, and by spelling out 
+the procedures available for rebutting the presump- 
+tion, 13 C.F.R. Pt. 124, Subpt. B; 49 C.F.R. 23.69; 
+49 C.F.R. Pt. 23, Subpt. D, App. C. The role of the 
+agencies in “flesh[ing] out this skeleton, pursuant to 
+delegated rulemaking authority,” does not make the 
+crucial race-based, remedial determination any less 
+the decision of Congress. Fullilove, 448 U.S. at 468 
+(opinion of Burger, C.J.). 
+
+The appropriate constitutional test for determining 
+the validity of the rebuttable presumption of disad- 
+vantage is set forth in the plurality opinion of Chief 
+Justice Burger in Fullilove and in the majority opin- 
+ion in Metro Broadcasting. Relying on Fullilove, this 
+Court in Metro Broadcasting held that “benign race- 
+
+
+40 
+
+
+conscious measures mandated by Congress * * * are 
+constitutionally permissible to the extent that they 
+serve important governmental objectives within the 
+power of Congress and are substantially related to 
+achievement of those objectives.” Metro Broadcast- 
+ing, 497 U.S. at 564-565. In a facial challenge such 
+as is presented in this case, “given a reasonable con- 
+struction and in light of its projected administration, 
+if [the Court] find[s] the [minority business enter- 
+prise] program on its face to be free of constitutional 
+defects, it must be upheld as within congressional 
+power,” Fullilove, 448 U.S. at 480-481 (opinion of 
+Burger, C.J.). “[D]Joubts must be resolved in sup- 
+port of the congressional judgment that this limited 
+program is a necessary step to effectuate the constitu- 
+tional mandate for equality of economic opportunity.” 
+Id. at 489. 
+
+Petitioner does not ask this Court to overrule Fulli- 
+love. Rather, it contends that Chief Justice Burger’s 
+opinion effectively applied strict scrutiny, and urges 
+this Court to so hold. Pet. Br. 26-27; Pet. 7-11. But 
+the Court observed in Metro Broadcasting that “[a] 
+majority of the Court in Fullilove did not apply strict 
+scrutiny to the race-based classification at issue,” 497 
+U.S. at 564—an observation with which the dissent- 
+ing Justices in that case agreed. See id. at 608 
+(O’Connor, J., dissenting) (“the Court correctly ob- 
+serves that a majority [in Fullilove] did not apply 
+strict scrutiny”). In any event, whatever label is 
+given to the degree of scrutiny employed in Fullilove, 
+the result there requires validation of the presumption 
+challenged here, which is as strongly justified and 
+
+
+more narrowly tailored than the set-asides at issue in 
+Fullilove.” 
+
+
+* Petitioner also does not question the validity of the 
+Court’s decision in Metro Broadcasting, but seeks to distin- 
+
+
+41 
+
+
+3. Congress had a firm and compelling basis to 
+act. Although Congress “need not make specific find- 
+ings of discrimination to engage in race-conscious re- 
+lief,” Croson, 488 U.S. at 489 (opinion of O’Connor, 
+J.); see also Fullilove, 448 U.S. at 478 (opinion of 
+Burger, C.J.), the presumption at issue here is in 
+fact supported by explicit congressional findings that 
+minorit‘*s are disadvantaged in participating in high- 
+way construction projects because of racial discrim- 
+ination and its continuing effects. See pp. 7-12, 
+supra; App., infra, 18a-34a. As it did in enacting 
+the Public Works Employment Act of 1977 (PWEA) 
+at issue in Fullilove, Congress in the SBA and 
+STURAA sought to ensure that state and private 
+entities receiving federal funds and contracts would 
+not employ procurement practices that Congress had 
+decided “might result in perpetuation of the effects 
+of prior discrimination which had impaired or fore- 
+closed access by minority businesses to public con- 
+tracting opportunities.” Fullilove, 448 U.S. at 473 
+(opinion of Burger, C.J.). Census data available to 
+Congress further demonstrate that minorities in the 
+construction industry, and in the economy generally, 
+
+
+guish it as applicable only to non-remedial affirmative action 
+in which First Amendment interests are at stake. Pet. Br. 
+28-31. Intermediate scrutiny applicable to a non-remedial 
+race-conscious program, however, should, a fortiori, apply to 
+a remedial program such as this one, given that the interest in 
+remedying racial discrimination is the most compelling reason 
+the Court has yet identified for race-based legislative distinc- 
+tions. See Metro Broadcasting, 497 U.S. at 611 (O’Connor, 
+J., dissenting). The First Amendment interests at stake in 
+Metro Broadcasting did not contribute to the Court’s view 
+that a lesser level of scrutiny was required, but rather fac- 
+tored into the determination whether, under the intermediate 
+test the Court employed, the government had established a 
+sufficiently “important governmental objective[].” Id. at 565. 
+
+
+42 
+
+
+have continued to lag far behind whites in securing 
+economic opportunities. Appendix C to this brief sets 
+forth census figures showing that, although there 
+have been modest improvements in some respects 
+since 1978, the participation of racial minority 
+groups in the construction industry, and the economic 
+benefit they derive from construction work they do, 
+continue to lag far behind that of whites. Such 
+data, as well as all legislative materials, are relevant 
+to the determination that Congress was acting to 
+remedy the effects of prior discrimination, since ‘“‘Con- 
+gress, of course, may legislate without compiling the 
+kind of ‘record’ appropriate with respect to judicial 
+or administrative proceedings.” Metro Broadcasting, 
+497 U.S. at 572 (quoting Fullilove, 448 U.S. at 478 
+(opinion of Burger, C.J.)); see also Metro Broad- 
+casting, 497 U.S. at 572 (quoting Fullilove, 448 U.S. 
+at 502-503 (Powell, J., concurring) ). 
+
+Congress may act broadly both in identifying dis- 
+crimination and in fashioning a remedy for it.** In 
+Croson, which concerned action taken by a city coun- 
+cil, not Congress, the plurality rejected the appellee’s 
+view that “the city must limit any race-based re- 
+medial efforts to eradicating the effects of its own 
+prior discrimination.” 488 U.S. at 486 (opinion of 
+O’Connor, J.). Congress may also act with the 
+forward-looking goal of increasing opportunities for 
+
+
+36 “Congress may identify and redress the effects of society- 
+wide discrimination.” Croson, 488 U.S. at 490 (opinion of 
+O’Connor, J.) ; see also Wygant v. Jackson Board of Educa- 
+tion, 476 U.S. 267, 287 (1986) (O’Connor, J., concurring in 
+part and concurring in the judgment) (“a plan need not be 
+limited to the remedying of specific instances of identified 
+discrimination for it to be deemed sufficiently ‘narrowly tail- 
+ored,’ or ‘substantially related,’ to the correction of prior 
+discrimination by the state actor’). 
+
+
+43 
+
+
+those who have been disadvantaged by racial discrim- 
+ination. “A central purpose of the Fourteenth Amend- 
+ment is to further the national goal of equal oppor- 
+tunity for all our citizens,” but remedying past harms 
+need not be done without “studying their probable 
+impact on the future.” Croson, 488 U.S. at 511 
+(Stevens, J., concurring in part and concurring in the 
+judgment); see Metro Broadcasting, 497 U.S. at 
+601 (Stevens, J., concurring). 
+
+
+E. The Clause Is Narrowly Tailored To Achieve Con- 
+gress’s Constitutional Objectives 
+Although satisfaction of intermediate scrutiny is 
+all that is required, the Subcontracting Compensation 
+Clause is sufficiently narrowly tailored to satisfy 
+even the most stringent constitutional scrutiny. In- 
+deed, the use of the rebuttable presumption of dis- 
+advantage under the SBA, rather than a fixed set- 
+aside for minorities, is the very program that the 
+petitioners in Fullilove advocated as an acceptable, 
+because “less onerous,” alternative to the program 
+they challenged in that case. Brief for Petitioner, 
+General Building Contractors of New York State, 
+Inc., at 30 (No. 78-1007). The Fullilove petitioners 
+emphasized that SBA disadvantaged business certifi- 
+cations are not limited to minorities, but are “struc- 
+tured to assisting businesses of socially and econom- 
+ically disadvantaged individuals.” Ibid. They favor- 
+ably characterized the certification program in this 
+case as “similar to the race-conscious approach taken 
+by Harvard College in its admission program, which 
+Justice Powell has found constitutional.” Jd. at 30 
+n.37 (citing Regents of the University of California 
+v. Bakke, 438 U.S. 265, 316 (1978) ). 
+1. The Clause is not underinclusive. The race- 
+conscious affirmative measures this Court has previ- 
+
+
+44 
+
+
+ously approved, unlike the Clause at issue here, have 
+not allowed minority business enterprises to partici- 
+pate. See, e.g., Metro Broadcasting, 497 U.S. at 630 
+(O’Connor, J., dissenting) (opportunity to compete 
+for licenses in distress sales “depends entirely upon 
+race or ethnicity”). The criteria for qualification for 
+disadvantaged status under the SBA and STURAA, 
+in contrast, allow businesses owned by persons who 
+are not members of minority groups to participate 
+when they establish their social and economic dis- 
+advantage. 48 C.F.R. 19.703; 49 C.F.R. Pt. 23, Subpt. 
+D., Apps. A and C. 
+
+2. The Clause is not overinclusive. At the same 
+time, the Clause is not overinclusive, because it does 
+not include all minority-owned businesses in its cov- 
+erage, without regard to whether they have in fact 
+suffered from social or economic disadvantage. In 
+Fullilove, where all minority-owned contractors were 
+included, the Court was satisfied that the 10% set- 
+aside there was sufficiently tailored because the pro- 
+gram included: (1) administrative scrutiny to weed 
+out “minority-front entities,” (i.e., businesses that 
+purported to be owned and controlled by members 
+of racial minority groups but that were in fact 
+nonminority-owned and -controlled businesses), 448 
+U.S. at 487-488 (opinion of Burger, C.J.); (2) pro- 
+cedures for a prime contractor to obtain a waiver of 
+the set-aside requirement in order to avoid dealing 
+with a minority business that was “attempting to 
+exploit the remedial aspects of the program by charg- 
+ing an unreasonable price, i.e., a price not attributable 
+to the present effects of past discrimination,” id. at 
+488; and (3) procedures permitting the set-aside 
+goals to be waived when the grantee could show that 
+its “best efforts will not succeed or have not succeeded 
+in achieving the statutory 10% target for minority 
+
+
+45 
+
+
+firm participation within the limitations of the pro- 
+gram’s remedial objectives,” ibid. The Clause here is 
+significantly more closely tailored to ensure that only 
+disadvantaged minorities benefit from the subcon- 
+tracting program. 
+
+The rebuttable presumption employed under the 
+Clause is a fitting response to Congress’s findings of 
+competitive business disadvantage due to racial dis- 
+crimination. The presumption responds to those find- 
+ings in a manner designed effectively to ameliorate 
+the insidious harms caused by racial discrimination, 
+while neither limiting the remedy to race nor benefit- 
+ting minorities who are not in fact disadvantaged. 
+Congress recognized that the racial minorities to 
+whom the presumption applies have been pervasively 
+subjected to social and economic disadvantages—es- 
+pecially in the construction industry, where racial dis- 
+crimination has been particularly virulent and tena- 
+cious—because of discrimination against them. The 
+rebuttable presumption recognizes that it is factually 
+accurate in most cases to presume that such disad- 
+vantage has affected a small minority subcontractor. 
+By enacting a presumption, rather than a conclusive 
+determination, Congress recognized the realities that 
+not all minority group members have equally borne 
+the brunt of racial discrimination and that other bias- 
+related disadvantages may equally affect the ability 
+of small businesses to compete for government 
+contracts. 
+
+The use of the presumption thus operates to focus 
+the inquiry on disadvantage by indicating a result in 
+the absence of additional evidence. See St. Mary’s 
+Honor Center v. Hicks, 113 S. Ct. 2742 (1993). Such 
+a presumption is valid if it rests on “a sound factual 
+connection between the proved and inferred facts.” 
+
+
+46 
+
+
+NLEB vy. Baptist Hospital, Inc., 442 U.S. 773, 787 
+(1979).” Chief Justice Burger in Fullilove found the 
+minority business set-aside there adequately tailored 
+precisely because it effectively operated as a presump- 
+tion subject to rebuttal: Congress assumed that minor- 
+ity business enterprise prices would reflect the effects 
+of discrimination, and that, in the absence of discrimi- 
+nation, minority participation in federal construction 
+projects would be approximately 10%. Crucial to the 
+finding of narrow tailoring, however, was that “each 
+of these assumptions may be rebutted in the admin- 
+istrative process.” Fullilove, 448 U.S. at 487 (opin- 
+ion of Burger, C.J.); see Croson, 488 U.S. at 489 
+(opinion of O’Connor, J.) (noting with approval that, 
+in Fullilove, both “ ‘assumptions’ could be ‘rebutted’ 
+by a grantee seeking a waiver of the 10% require- 
+ment”). Here, the very participation of a minority 
+business enterprise in the program is subject to proof 
+of actual disadvantage if the rebuttable presumption 
+of disadvantage is brought into question.” 
+
+
+°7 It is “only essential that there shall be some rational 
+connection between the fact proved and the ultimate fact 
+presumed, and that the inference of one fact from proof of 
+another shall not be so unreasonable as to be a purely arbi- 
+trary mandate.” Usery v. Turner Elkhorn Mining Co., 428 
+U.S. 1, 28 (1976) (quoting Mobile, J. & K.C.R.R. v. Turn- 
+ispeed, 219 U.S. 85, 48 (1910)). Because the “process of 
+making the determination of rationality is, by its nature, 
+highly empirical, * * * significant weight should be accorded 
+the capacity of Congress to amass the stuff of actual experi- 
+ence and cull conclusions from it.” Jbid. (quoting United 
+States v. Gainey, 880 U.S. 68, 67 (1965) ). 
+
+
+58° The statutes and the regulations contain provisions more 
+forceful and extensive than those in the program reviewed 
+in Fullilove to prevent the minority presumption from being 
+abused by nonminority, non-disadvantaged business “fronts” 
+
+
+47 
+
+
+3. The Clause does not involve a fixed quota or 
+set-aside. A third way in which the Clause is nar- 
+rowly tailored is that it does not establish a racial 
+set-aside or reflect any fixed or rigid racial quota. 
+Specifically, the SBA’s overall goals for the use of 
+disadvantaged small businesses do not, contrary to 
+petitioner’s repeated contention (Pet. Br. 20, 47, 48), 
+function as set-asides. They are benchmarks against 
+which the procuring agencies, the Small Business 
+Administration, Congress, and the President may 
+measure the agencies’ performances in contracting 
+with those businesses. As petitioner itself explained 
+in the court of appeals: 
+
+The mere setting of a “goal” does no harm. 
+This is because a goal, in and of itself, has no 
+substantive effect. Constitutional problems arise 
+only when a public entity grants a race-based 
+preference to one class of persons in order to 
+achieve a goal. Thus, the question of the means 
+used to achieve a racial goal is entirely separate 
+from the setting of the goal itself. 
+
+Adarand C.A. Br. 19. 
+
+
+Nor does the particular program challenged here 
+—the Subcontracting Compensation Clause—estab- 
+lish any set-aside or percentage contracting require- 
+ment. Agreeing to subcontract with disadvantaged 
+businesses is not a contractual condition of eligibility 
+for award of the prime contract. Contractors are 
+entirely free to contract with any subcontractor they 
+
+
+posing as disadvantaged businesses. See 15 U.S.C. 645(d) 
+(providing that misrepresentations of disadvantaged status 
+in order to obtain contracts are punishable by up to 10 years’ 
+imprisonment and/or $500,000 fine) ; 18 C.F.R. 124.5, 124.6, 
+124.103, 124.104, 124.108, 124.109; 49 C.F.R. Pt. 23, Subpt. D, 
+App. C (other eligibility considerations, addressing require- 
+ment of ownership and control) ; 49 C.F.R. 28.51-23.53. 
+
+
+48 
+
+
+believe will best and most economically do the job. 
+They are affirmatively encouraged to utilize and sup- 
+port disadvantaged businesses by the opportunity to 
+recover the additional costs attending that use and 
+support, but there are no sanctions or penalties if a 
+prime contractor elects not to take advantage of that 
+opportunity. Because prime contractors are not ob- 
+ligated to aecept the lowest bidder on subcontracts, no 
+“legitimate, firmly rooted expectation” is disturbed 
+by the Clause. Johnson v. Transportation Agency, 
+Santa Clara County, 480 U.S. 616, 638 (1987). Nor 
+does it appear that a disproportionate number of 
+subcontracts is directed toward disadvantaged sub- 
+contractors through use of the Clause. In fact, non- 
+disadvantaged businesses obtain more than 95% of 
+the subcontracting dollars on federal contracts.” 
+
+4. The rebuttable presumption is of limited dura- 
+tion. Finally, the rebuttable presumption applicable 
+under the Subcontracting Compensation Clause is 
+“appropriately limited in extent and duration,” be- 
+cause the statutes that establish it are subject to 
+regular “reassessment and reevaluation by the Con- 
+gress.” Fullilove, 448 U.S. at 489 (opinion of Bur- 
+ger, C.J.). STURAA, like the PWEA, is an appro- 
+priations measure of finite duration. The SBA, 
+though of more permanent nature, is also subject to 
+periodic and extensive congressional oversight. The 
+SBA requires annual reporting to Congress and the 
+President. 15 U.S.C. 631b, 644(h) (1988 & Supp. V 
+1993). Congress also frequently holds hearings on 
+the operation of the SBA’s disadvantaged business 
+
+
+89 In Fiscal Year 1987, “‘only 3.1 percent of the federal pro- 
+curement prime subcontracting awards were performed by 
+minority businesses” and “only $1.5 billion in subcontracts 
+were directed to minority firms out of a total of $63 billion.” 
+S. Rep. No. 394, 100th Cong., 2d Sess. 81, 82 (1988). 
+
+
+49 
+
+
+enterprise programs. See Appendix B, infra, 18a-36a. 
+Congress closely follows the efforts of federal agen- 
+cies to utilize disadvantaged businesses, and the SBA 
+allows the goals to be set by the agencies at lower 
+levels as circumstances warrant. 
+
+The high degree of congressional concern is a 
+forceful indication that under-utilization of disad- 
+vantaged businesses is the acute social and economic 
+problem facing the Nation; petitioner’s claim that 
+the program at issue here unfairly over-utilizes mi- 
+nority businesses finds no support in either the rec- 
+ord or facts of this case or in the unusually exten- 
+sive legislative record developed by a Congress deeply 
+concerned with both economic development and racial 
+justice. Congress can, moreover, confidently be ex- 
+pected to prevent any expansion of its programs that 
+would give undue competitive advantages to disad- 
+vantaged businesses; such advantages would be en- 
+tirely inconsistent with Congress’s purposes to stim- 
+ulate national economic activity and to improve the 
+efficiency of federal procurement. 
+
+
+II. PRINCIPLES OF STARE DECISIS SUPPORT THE 
+CONTINUING VITALITY OF FULLILOVE yy. 
+KLUTZNICK 
+
+This Court should not depart from the funda- 
+
+mental constitutional principle of Fullilove that Con- 
+gress has unique powers to enact race-based reme- 
+dies. That principle was reaffirmed in Croson.” No 
+conflict has developed in the lower courts as to the 
+proper interpretation or application of Fullilove. See, 
+
+
+*° 488 U.S. at 490-491 (O’Connor, J., joined by Rehnquist, 
+C.J., and White J.) ; id. at 521-522 (Scalia, J., concurring in 
+the judgment) ; id. at 557-558 (Marshall, J., joined by Bren- 
+nan and Blackmun, JJ., dissenting). See also Metro Broad- 
+casting, 497 U.S. at 606-609 (O’Connor, J., dissenting) ; id. 
+at 634 (Kennedy, J. dissenting). 
+
+
+50 
+
+
+e.g., Harrison & Burrowes Bridge Constructors, Inc. 
+v. Cuomo, 981 F.2d 50, 57 (2d Cir. 1992); Ellis v. 
+Skinner, 961 F.2d 912, 915 (10th Cir.), cert. de- 
+nied, 113 S. Ct. 374 (1992); Tennessee Asphalt Co. 
+v. Farris, 942 F.2d 969, 975 (6th Cir. 1991); Mil- 
+waukee County Pavers Ass’n v. Fielder, 922 F.2d 
+419, 423-424 (7th Cir.), cert. denied, 500 U.S. 954 
+(1991); see also O’Donnell Construction Co. v. Dis- 
+trict of Columbia, 963 F.2d 420, 423 (D.C. Cir. 
+1992); id. at 429 (Ginsburg, J., concurring). The 
+central rule of Fullilove has in no way “been found 
+unworkable,” Planned Parenthood vy. Casey, 112 S. 
+Ct. 2791, 2809 (1992), and no new principle of law 
+has called its correctness into question. This Court 
+should continue to sustain Congress’s vital role in 
+remedying the effects of racial discrimination that 
+continue to burden the Nation’s economy and polit- 
+ical life by reaffirming Fullilove. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+Drew S. Days, III 
+Solicitor General 
+STEPHEN H. KAPLAN Deval L. PATRICK 
+General Counsel Assistant Attorney General 
+PAUL M. GEIER PAUL BENDER 
+Assistant General Counsel Deputy Solicitor General 
+for Litigation CORNELIA T.L. PILLARD 
+EDWARD V.A. Kussy Assistant to the Solicitor 
+Deputy Chief Counsel General 
+Federal Highway Davip K. FLYNN 
+Administration Lisa C. WILSON 
+Department of Attorneys 
+
+
+APPENDIX A 
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+1. The Spending Clause of the United States Con- 
+stitution, Article I, Section 8, Clause 1, provides: 
+
+
+The Congress shall have Power To lay and collect 
+Taxes, Duties, Imposts and Excises, to pay the Debts 
+and provide for the common Defence and general 
+Welfare of the United States; but all Duties, Imposts 
+a shall be uniform throughout the United 
+
+
+2. The Commerce Clause of the United States Con- 
+stitution, Article I, Section 8, Clause 8, provides: 
+
+
+The Congress shall have Power * * * To regulate 
+Commerce with foreign Nations, and among the sev- 
+eral States, and with the Indian Tribes. 
+
+
+3. The Thirteenth Amendment to the United 
+States Constitution provides: 
+
+
+Section 1. Neither slavery nor involuntary servi- 
+tude, except as a punishment for crime whereof the 
+party shall have been duly convicted, shall exist within 
+Fa States, or any place subject to their juris- 
+
+iction. 
+
+
+Section 2. Congress shall have power to enforce 
+this article by appropriate legislation. 
+
+4, The Fourteenth Amendment to the United States 
+Constitution provides, in pertinent part: 
+
+
+Section 1. * * * No State shall make or enforce 
+any law which shall abridge the privileges or immuni- 
+ties of citizens of the United States; nor shall any 
+State deprive any person of life, liberty, or property, 
+
+
+(la) 
+
+
+2a 
+
+
+without due process of law; nor deny to any person 
+within its jurisdiction the equal protection of the 
+laws. 
+
+
+* * * * * 
+
+
+Section 5. The Congress shall have power to en- 
+force, by appropriate legislation, the provisions of 
+this article. 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+1. The Small Business Act, 15 U.S.C. 631 et seq. 
+(1988 & Supp. V 1993), provides, in pertinent part: 
+
+
+§ 631. Declaration of policy 
+
+
+(f) Findings; purpose 
+
+
+(1) With respect to the Administration’s business 
+development programs the Congress finds— 
+
+
+(A) that the opportunity for full participa- 
+tion in our free enterprise system by socially and 
+economically disadvantaged persons is essential 
+if we are to obtain social and economic equality 
+for such persons and improve the functioning of 
+our national economy ; 
+
+(B) that many such persons are socially dis- 
+advantaged because of their identification as 
+members of certain groups that have suffered the 
+effects of discriminatory practices or similar 
+invidious circumstances over which they have no 
+control; 
+
+(C) that such groups include, but are not 
+limited to, Black Americans, Hispanic Ameri- 
+cans, Native Americans, Indian tribes, Asian 
+
+
+3a 
+
+
+Pacific Americans, Native Hawaiian Organiza- 
+tions, and other minorities; 
+
+(D) that it is in the national interest to ex- 
+peditiously ameliorate the conditions of socially 
+and economically disadvantaged groups; 
+
+(E) that such conditions can be improved by 
+providing the maximum practicable opportunity 
+for the development of small business concerns 
+owned by members of socially and economically 
+disadvantaged groups; 
+
+(F) that such development can be materially 
+advanced through the procurement by the United 
+States of articles, equipment, supplies, services, 
+materials, and construction work from such con- 
+cerns; and 
+
+(G) that such procurements also benefit the 
+United States by encouraging the expansion of 
+suppliers for such procurements, thereby encour- 
+aging competition among such suppliers and pro- 
+moting economy in such procurements. 
+
+
+(2) It is therefore the purpose of section 637 (a) 
+of this title to— 
+
+
+(A) promote the business development of 
+small business concerns owned and controlled by 
+socially and economically disadvantaged individ- 
+uals so that such concerns can compete on an 
+equal basis in the American economy; 
+
+(B) promote the competitive viability of such 
+concerns in the marketplace by providing such 
+available contract, financial, technical, and man- 
+agement assistance as may be necessary; and 
+
+(C) clarify and expand the program for the 
+procurement by the United States of articles, 
+supplies, services, materials, and construction 
+
+
+4a 
+
+
+work from small business concerns owned by 
+socially and economically disadvantaged individ- 
+uals. 
+
+7 * * * * 
+
+
+§ 631b. Reports to Congress; state of small business 
+(a) Report on Small Business and Competition 
+
+
+The President shall transmit to the Congress not 
+later than January 20 of each year a Report on 
+Small Business and Competition which shall— 
+
+(1) examine the current role of small busi- 
+ness in the economy on an industry-by-industry 
+basis; 
+
+(2) present current and historical data on 
+production, employment, investment, population, 
+job creation and retention, annual business fail- 
+ures, annual business startups, ani other eco- 
+nomic variables for small business in the econ- 
+omy as a whole and for small business in each 
+sector of the economy, with, to the extent prac- 
+ticable, specific statistics divided as to urban, 
+suburban, and rural areas; 
+
+(3) identify economic trends which will or 
+may affect the small business sector and the state 
+of competition; 
+
+(4) examine the effects on small business and 
+competition of policies, programs, and activities, 
+including, but not limited to the Internal Revenue 
+Code [26 U.S.C. 1 et seq.], the Employee 
+Retirement Income Security Act [29 U.S.C. 
+1001 et seq.], the Securities Act of 1933 [15 
+U.S.C. 77a et seq.], and the Securities Ex- 
+change Act of 1934 [15 U.S.C. 78a et seq.], 
+and regulations promulgated thereunder; iden- 
+tify problems generated by such policies, pro- 
+
+
+Sa 
+
+
+grams, and activities; and recommend legislative 
+- administrative solutions to such problems; 
+
+(5) recommend a program for carrying out 
+the policy declared in section 631a of this title, 
+together with such recommendations for legisla- 
+tion as he may deem necessary or desirable. 
+
+
+(b) Appendix to report 
+
+
+The President also shall transmit simultaneously 
+as an appendix to such annual report, a report, by 
+agency and department, on the total dollar value of 
+all Federal contracts exceeding $10,000 in amount 
+and the dollar amount (including the subcontracts 
+thereunder in excess of $10,000) awarded to small, 
+minority-owned and female-owned business. 
+
+
+« * * * o 
+
+
+(e) Small business concerns owned by disadvan- 
+taged individuals and by women 
+
+
+The information and data required to be reported 
+pursuant to subsection (a) of this section shall sepa- 
+rately detail those portions of such information and 
+data that are relevant to— 
+
+
+(1) small business concerns owned and con- 
+trolled by socially and economically disadvan- 
+taged individuals, by gender, as defined pursuant 
+to section 637(d) of this title; and 
+
+(2) small business concerns owned and con- 
+trolled by women. 
+
+
+6a 
+
+
+§ 637. Additional powers 
+(a) Procurement contracts; subcontracts to disad- 
+
+
+vantaged small business concerns; performance 
+bonds; contract negotiations; definitions; eligi- 
+bility; determinations; publication; recruit- 
+ment; construction subcontracts; annual esti- 
+mates; Indian tribes 
+
+
+* * * * * 
+
+
+(4)(A) For purposes of this section, the term 
+“socially and economically disadvantaged small 
+business concern” means any small business con- 
+cern which meets the requirements of subpara- 
+graph (B) and— 
+
+
+(i) which is at least 51 per centum un- 
+conditionally owned by— 
+
+
+(I) one or more socially and eco- 
+nomically disadvantaged individuals, 
+
+(II) an economically disadvantaged 
+Indian tribe (or a wholly owned busi- 
+ness entity of such tribe), or 
+
+(III) an economically disadvantaged 
+Native Hawaiian organization, or 
+
+
+(ii) in the case of any publicly owned 
+business, at least 51 per centum of the stock 
+of which is unconditionally owned by— 
+
+
+(I) one or more socially and eco- 
+nomically disadvantaged individuals, 
+
+(II) an economically disadvantaged 
+Indian tribe (or a wholly owned busi- 
+ness entity of such tribe), 
+
+(III) an economically disadvantaged 
+Native Hawaiian organization. 
+
+
+Ta 
+
+
+(B) A small business concern meets the re- 
+quirements of this subparagraph if the manage- 
+ment and daily business operations of such small 
+business concern are controlled by one or more— - 
+
+
+(i) socially and economically disadvan- 
+taged individuals described in subparagraph 
+(A) (i) (I) or subparagraph (A) (ii) (1), 
+
+(ii) members of an economically disad- 
+vantaged Indian tribe described in subpara- 
+graph (A)(i)(II) or subparagraph (A) 
+(ii) (II), or 
+
+(iii) Native Hawaiian organizations de- 
+scribed in subparagraph (A) (i)(III) or 
+subparagraph (A) (ii) (III). 
+
+
+(C) Each Program Participant shall certify, 
+on an annual basis, that it meets the require- 
+ments of this paragraph regarding ownership 
+and control. 
+
+(5) Socially disadvantaged individuals are 
+those who have been subjected to racial or ethnic 
+prejudice or cultural bias because of their iden- 
+tity as a member of a group without regard to 
+their individual qualities. 
+
+(6)(A) Economically disadvantaged individ- 
+uals are those socially disadvantaged individuals 
+whose ability to compete in the free enterprise 
+system has been impaired due to diminished cap- 
+ital and credit opportunities as compared to 
+others in the same business area who are not 
+socially disadvantaged. In determining the de- 
+gree of diminished credit and capital opportuni- 
+ties the Administration shall consider, but not 
+be limited to, the assets and net worth of such 
+socially disadvantaged individual. In determin- 
+
+
+ing the economic disadvantage of an Indian 
+tribe, the Administration shall consider, where 
+available, information such as the following: the 
+per capita income of members of the tribe ex- 
+cluding judgment awards, the percentage of the 
+local Indian population below the poverty level, 
+and the tribe’s access to capital markets. 
+
+(B) Each Program Participant shall annually 
+submit to the Administration— 
+
+
+(i) a personal financial statement for 
+each disadvantaged owner; 
+
+(ii) a record of all payments made by the 
+Program Participant to each of its disad- 
+vantaged owners or to any person or entity 
+affiliated with such owners; and 
+
+(iii) such other information as the Ad- 
+ministration may deem necessary to make 
+the determination required by this para- 
+graph. 
+
+(C)(i) Whenever, on the basis of informa- 
+tion provided by a Program Participant pur- 
+suant to subparagraph (B) or otherwise, the 
+Administration has reason to believe that the 
+standards to establish economic disadvantage 
+pursuant to subparagraph (A) have not been 
+met, the Administration shall conduct a review 
+to determine whether such Program Participant 
+and its disadvantaged owners continue to be im- 
+paired in their ability to compete in the free 
+enterprise system due to diminished capital and 
+credit opportunities when compared to other con- 
+cerns in the same business area, which are not 
+socially disadvantaged. 
+
+
+9a 
+
+
+(ii) If the Administration determines, pursu- 
+ant to such review, that a Program Participant 
+and its disadvantaged owners are no longer 
+economically disadvantaged for the purpose of 
+receiving assistance under this subsection, the 
+Program Participant shall be graduated pursu- 
+ant to section 636(j)(10)(G) of this title sub- 
+ject to the right to a hearing as provided for 
+under paragraph (9). 
+
+
+. * * * . 
+
+
+(d) Performance of contracts by small business 
+concerns; inclusion of required contract clause; 
+subcontracting plans; contract eligibility; in- 
+centives; breach of contract; review; report 
+to Congress 
+
+
+(1) It is the policy of the United States that small 
+business concerns, and small business concerns owned 
+and controlled by socially and economically disadvan- 
+taged individuals, shall have the maximum practica- 
+ble opportunity to participate in the performance of 
+contracts let by any Federal agency, including con- 
+tracts and subcontracts for subsystems, assemblies, 
+components, and related services for major systems. 
+It is further the policy of the United States that its 
+prime contractors establish procedures to ensure the 
+timely payment of amounts due pursuant to the 
+terms of their subcontracts with small business con- 
+cerns and small business concerns owned and con- 
+trolled by socially and economically disadvantaged 
+individuals: 
+
+(2) The clause stated in paragraph (3) shall be 
+included in all contracts let by any Federal agency 
+except any contract which— 
+
+
+10a 
+
+
+(A) does not exceed the small purchase 
+threshold ; 
+
+(B) including all subcontracts under such con- 
+tracts will be performed entirely outside of any 
+State, territory, or possession of the United 
+States, the District of Columbia, or the Common- 
+wealth of Puerto Rico; or 
+
+(C) is for services which are personal in 
+nature. 
+
+
+(3) The clause required by paragraph (2) shall 
+
+
+be as follows: 
+
+
+“(A) It is the policy of the United States that 
+small business concerns and small business con- 
+cerns owned and controlled by socially and eco- 
+nomically disadvantaged individuals shall have 
+the maximum practicable opportunity to partici- 
+pate in the performance of contracts let by any 
+Federal agency, including contracts and subcon- 
+tracts for subsystems, assemblies, components, 
+and related services for major systems. It is fur- 
+ther the policy of the United States that its 
+prime contractors establish procedures to ensure 
+the timely payment of amounts due pursuant to 
+the terms of their subcontracts with small busi- 
+ness concerns and small business concerns owned 
+and controlled by socially and economically dis- 
+advantaged individuals. 
+
+“(B) The contractor hereby agrees to carry out 
+this policy in the awarding of subcontracts to 
+the fullest extent consistent with the efficient 
+performance of this contract. The contractor 
+further agrees to cooperate in any studies or sur- 
+veys as may be conducted by the United States 
+Smal] Business Administration or the awarding 
+
+
+lla 
+
+
+agency of the United States as may be necessary 
+to determine the extent of the contractor’s com- 
+pliance with this clause. 
+
+“(C) As used in this contract, the term ‘smal! 
+business concern’ shall mean a small business 
+as defined pursuant to section 3 of the Small 
+Business Act [15 U.S.C. 632] and relevant 
+regulations promulgated pursuant thereto. The 
+term ‘small business concern owned and con- 
+trolled by socially and economically disadvan- 
+taged individuals’ shall mean a small business 
+concern— 
+
+
+“(i) which is at least 51 per centurn owned 
+by one or more socially and economically 
+disadvantaged individuals; or, in the case of 
+any publicly owned business, at least 51 per 
+centum of the stock of which is owned by 
+one or more socially and economically dis- 
+advantaged individuals; and 
+
+“(ii) whose management and daily busi- 
+ness operations are controlled by one or 
+more of such individuals. 
+
+
+“The contractor shall presume that socially and 
+economically disadvantaged individuals include 
+Black Americans, Hispanic Americans, Native 
+Americans, Asian Pacific Americans, and other 
+minorities, or any other individual found to be 
+disadvantaged by the Administration pursuant 
+to section 8(a) of the Small Business Act [15 
+U.S.C. 637 (a) ]. 
+
+“(D) Contractors acting in good faith may 
+rely on written representations by their subcon- 
+tractors regarding their status as either a small 
+business concern or a small business concern 
+
+
+12a 
+
+
+owned and controlled by socially and economically 
+disadvantaged individuals.” 
+
+
+§ 644. Awards or contracts 
+
+
+(g) Goals for participation of small business con- 
+cerns in procurement contracts 
+
+
+(1) The President shall annually establish Govern- 
+ment-wide goals for procurement contracts awarded 
+to small business concerns and small business con- 
+cerns owned and controlled by socially and econom- 
+ically disadvantaged individuals. The Government- 
+wide goal for participation by small business con- 
+cerns shall be established at not less than 20 percent 
+of the total value of all prime contract awards for 
+each fiscal year. The Government-wide goal for par- 
+ticipation by smal] business concerns owned and con- 
+trolled by socially and economically disadvantaged 
+individuals shall be established at not less than 5 
+percent of the total value of all prime contract and 
+subcontract awards for each fiscal year. Notwith- 
+standing the Government-wide goal, each agency 
+shall have an annual goal that presents, for that 
+agency, the maximum practicable opportunity for 
+small business concerns and small business concerns 
+owned and controlled by socially and economically 
+disadvantaged individuals to participate in the per- 
+formance of contracts let by such agency. The Ad- 
+ministration and the Administrator of the Office of 
+Federal Procurement Policy shall, when exercising 
+their authority pursuant to paragraph (2), insure 
+that the cumulative annual prime contract goals for 
+all agencies meet or exceed the annual Government- 
+
+
+13a 
+
+
+wide prime contract goal established by the President 
+pursuant to this paragraph. 
+
+(2) The head of each Federal agency shall, after 
+consultation with the Administration, establish goals 
+for the participation by small business concerns, and 
+by small business concerns owned and controlled by 
+socially and economically disadvantaged individuals, 
+in procurement contracts of such agency. Goals es- 
+tablished under this subsection shall be jointly estab- 
+lished by the Administration and the head of each 
+Federal agency and shall realistically reflect the po- 
+tential of small business concerns and small business 
+concerns owned and controlled by socially and eco- 
+nomically disadvantaged individuals to perform such 
+contracts and to perform subcontracts under such con- 
+tracts. Whenever the Administration and the head 
+of any Federal agency fail to agree on established 
+goals, the disagreement shall be submitted to the 
+Administrator of the Office of Federal Procurement 
+Policy for final determination. For the purpose of 
+establishing goals under this subsection, the head of 
+each Federal agency shall make consistent efforts to 
+annually expand participation by small business con- 
+cerns from each industry category in procurement 
+contracts of the agency, including participation by 
+small business concerns owned and controlled by 
+socially and economically disadvantaged individuals. 
+The head of each Federal agency, in attempting to 
+attain such participation, shall consider— 
+
+
+(A) contracts awarded as the result of unre- 
+stricted competition ; and 
+
+(B) contracts awarded after competition re- 
+stricted to eligible small business concerns under 
+
+
+l4a 
+
+
+this section and under the program established 
+under section 637 (a) of this title. 
+
+
+(h) Reports to Administration; submittal of infor- 
+mation to Congress 
+
+
+(1) At the conclusion of each fiscal year, the head 
+of each Federal agency shall report to the Adminis- 
+tration on the extent of participation by small busi- 
+ness concerns and small business concerns owned 
+and controlled by socially and economically disadvan- 
+taged individuals in procurement contracts of such 
+agency. Such reports shall contain appropriate justi- 
+fications for failure to meet the goals established 
+under subsection (g) of this section. 
+
+(2) The Administration shall annually compile 
+and analyze the reports submitted by the individual 
+agencies pursuant to paragraph (1) and shall sub- 
+mit them to the President. The Administration’s 
+submission to the President shall include the fol- 
+lowing: 
+
+
+(A) The Government-wide goals for partici- 
+pation by small business concerns and small 
+business concerns owned and controlled by so- 
+cially and economically disadvantaged individ- 
+uals and the performance in attaining such 
+goals. 
+
+(B) The goals in effect for each agency and 
+the agency’s performance in attaining such 
+goals. 
+
+(C) An analysis of any failure to achieve the 
+Government-wide goals or any individual agency 
+goals and the actions planned by such agency 
+(and approved by the Administration) to achieve 
+the goals in the succeeding fiscal year. 
+
+
+15a 
+
+
+(D) The number and dollar value of con- 
+tracts awarded to small business concerns and 
+small business concerns owned and controlled by 
+socially and economically disadvantaged indi- 
+viduals through— 
+
+(i) noncompetitive negotiation, 
+
+(ii) competition restricted to small busi- 
+ness concerns owned and controlled by so- 
+cially and economically disadvantaged in- 
+dividuals, 
+
+(iii) competition restricted to small busi- 
+ness concerns, and 
+
+(iv) unrestricted competitions, 
+
+
+for each agency and on a Government-wide 
+basis. 
+
+(E) The number and dollar value of subcon- 
+tracts awarded to small business concerns and 
+small business concerns owned and controlled by 
+socially and economically disadvantaged indi- 
+viduals. 
+
+(F) The number and dollar value of prime 
+contracts and subcontracts awarded to women- 
+owned small business enterprises. 
+
+
+(3) The President shall include the information 
+required by paragraph (2) in each annual report to 
+the Congress on the state of small business prepared 
+pursuant to section 631b(a) of this title. 
+
+
+2. Section 106 of the Surface Transportation and 
+Uniform Relocation Assistance Act of 1987, Pub. L. 
+
+
+16a 
+
+
+No. 100-17, 101 Stat. 144-146, provides, in pertinent 
+part: 
+
+
+SEC. 106. AUTHORIZATION OF APPROPRIA- 
+TIONS. 
+
+
+(a) From the Highway Trust Fund.—For the pur- 
+pose of carrying out the provisions of title 23, United 
+States Code, the following sums are hereby author- 
+ized to be appropriated out of the Highway Trust 
+Fund (other than the Mass Transit Account) : 
+
+
+* * > * * 
+
+
+(8) Forest highways.—For forest highways 
+$55,000,000 per fiscal year for each fiscal years 
+1987, 1988, 1989, 1990, and 1991. 
+
+
+(c) Disadvantaged Business Enterprises.— 
+
+
+(1) General rule——Except to the extent that 
+the Secretary determines otherwise, not less than 
+10 percent of the amounts authorized to be ap- 
+propriated under titles I and III of this Act or 
+obligated under titles I, II, and III (other than 
+section 203) of the Surface Transportation As- 
+sistance Act of 1982 after the date of the enact- 
+ment of this Act shall be expended with small 
+business concerns owned and controlled by so- 
+cially and economically disadvantaged indi- 
+viduals. 
+
+(2) Definitions—For purposes of this subsec- 
+tion— 
+
+(A) Small business concern.—The term 
+“small business concern” has the meaning 
+such term has under section 3 of the Small 
+Business Act (15 U.S.C. 632); except that 
+such term shall not include any concern or 
+group of concerns controlled by the same 
+
+
+17a 
+
+
+socially and economically disadvantaged in- 
+dividual or individuals which has average 
+annual gross receipts over the preceding 3 
+fiscal-years in excess of $14,000,000, as ad- 
+justed by the Secretary for inflation. 
+
+(B) Socially and economically disadvan- 
+taged individuals—The term “socially and 
+economically disadvantaged individuals” has 
+the meaning such term has under section 
+8(d) of the Small Business Act (15 U.S.C. 
+637(d)) and relevant subcontracting regu- 
+lations promulgated pursuant thereto; ex- 
+cept that women shall be presumed to be 
+socially and economically disadvantaged in- 
+dividuals for purposes of this subsection. 
+
+
+(3) Annual listing of disadvantaged business 
+enterprises—Each State shall annually survey 
+and compile a list of the small business concerns 
+referred to in paragraph (1) and the location of 
+such concerns in the State. 
+
+(4) Uniform certification —The Secretary shall 
+establish minimum uniform criteria for State 
+governments to use in certifying whether a 
+concern qualifies for purposes of this subsec- 
+tion. Such minimum uniform criteria shall in- 
+clude but not be limited to on-site visits, personal 
+interviews, licenses, analysis of stock ownership, 
+listing of equipment, analysis of bonding capac- 
+ity, listing of work completed, résumé of prin- 
+cipal owners, financial capacity, and type of 
+work performed. 
+
+(5) Applicability —Section 105(f) of the Sur- 
+face Transportation Assistance Act of 1982 shall 
+not apply to amounts authorized under such Act 
+and obligated after the date of the enactment of 
+this Act. 
+
+
+18a 
+APPENDIX B 
+
+
+Statements in Congress Regarding Racial Discrimination 
+and its Effects on Minority Business Enterprises 
+
+
+The following remarks by Members of Congress 
+and industry experts in testimony received in hear- 
+ings before congressional committees are relevant to 
+our submission that, in enacting the disadvantaged 
+business enterprise (DBE) provisions in the Small 
+Business Act (SBA) and the Surface Transportation 
+and Uniform Relocation Assistance Act of 1987 
+(STURAA), Congress was seeking, among other 
+things, to remedy the effects of discrimination against 
+minorities. Before Congress enacted the laws at issue 
+here, and throughout the period they have been in 
+place, Congress has repeatedly considered testimony 
+on both sides of the debate about whether race- 
+conscious remedial measures are needed. 
+
+The following are illustrative statements in sup- 
+port of the measures: 
+
+
+1. When Congress in 1978 debated amending the 
+SBA to add findings of the disadvantage suffered by 
+racial minorities, it considered the effects of racial 
+discrimination on minority participation in public 
+contracting. 
+
+Following the introduction of the Conference Re- 
+port to the Senate, Senator Weicker stated: 
+
+
+The pattern of social and economic discrimina- 
+tion that continues to deprive racial and ethnic 
+minorities of the opportunity to participate fully 
+
+
+in the free enterprise system is recognized. 
+
+
+124 Cong. Rec. 35,204 (1978). See also id. at 29,637 
+(remarks of Sen. Weicker) (“This legislation recog- 
+nizes the pattern of social and economic discrimina- 
+
+
+19a 
+
+
+tion that continues to deprive racial and ethnic minor- 
+ities of the opportunity to participate fully in the 
+free enterprise system.”) ; see id. at 24,021 (remarks 
+of Rep. Mitchell) (“The promises of equality for 
+minorities are inanitions.”’).” 
+
+Senator Dole argued for the passage of the Minor- 
+ity Business Development and Assistance Act of 1977 
+(amending the SBA), stating that the “underlying 
+rationale” of the bill “is that minority businessmen 
+can compete equally when given an equal opportunity. 
+One of the most important steps this country can take 
+to insure equal opportunity for its hispanic, black 
+and other minority citizens is to involve them in the 
+mainstream of our free enterprise system.” 124 
+Cong. Rec. 7681 (1978). 
+
+This Court, in upholding the minority set-asides in 
+the Public Works Employment Act of 1977 in Fulli- 
+love v. Klutznick, 448 U.S. 448 (1980), relied sub- 
+stantially on the findings of discrimination supporting 
+the 1978 SBA Amendments at issue here. See 448 
+U.S. at 460, 463-468 (opinion of Burger, C.J.). Chief 
+Justice Burger relied on a report of the Committee 
+on Small Business that summarized the Committee’s 
+ongoing activities in the period leading up to the 1978 
+SBA Amendments, see H.R. Rep. No. 1791, 94th 
+Cong., 2d Sess. (1977). He also quoted from a re- 
+port of the Subcommittee on SBA Oversight and 
+Minority Enterprise of the House Committee on Small 
+Business referred to therein, see H.R. Rep. No. 468, 
+94th Cong., Ist Sess. (1975), which concluded: 
+
+
+The effects of past inequities stemming from 
+racial prejudice have not remained in the past. 
+
+
+1 See generally 124 Cong. Rec. 321-823 (1978) (statements 
+of Sen. Brooke on the state of minority businesses) . 
+
+
+20a 
+
+
+The Congress has recognized the reality that past 
+discriminatory practices have, to some degree, 
+adversely affected our economic system. 
+
+
+Id. at 1-2. See also Fullilove, 448 U.S. at 466-468 
+(opinion of Burger, C.J.) (referring to other reports 
+making findings of discrimination that were con- 
+sidered by Congress shortly before the SBA Amend- 
+ments). 
+
+2. In 1980, the Senate Select Committee on Small 
+Business held a hearing on legislation to amend pro- 
+visions of the SBA that pertain to the Section 8(a) 
+program. H.R. 5612, To Amend the Small Business 
+Act to Extend the Current SBA 8(a) Pilot Program: 
+Hearing on H.R. 5612 Before the Senate Select Comm. 
+on Small Business, 96th Cong., 2d Sess. (1980) [here- 
+inafter 1980 SBA 8(a) Pilot Program Hearing]. 
+Witnesses presented evidence that the effects of dis- 
+crimination continued to depress the percentage of 
+construction dollars going to minority-owned firms. 
+Id. at 16-17. The Committee received testimony that 
+minority-owned construction firms generated approxi- 
+mately $3 bil in gross receipts, in comparison 
+with the total $200 billion generated by all construc- 
+tion firms. According to the testimony, if minority- 
+owned firms had performed as actively as nonminority- 
+owned firms, the gross receipts for the minority- 
+owned firms would have been closer to $30 billion 
+Ibid. Witnesses also described the ongoing effects of 
+discrimination faced by minority-owned firms in get- 
+ting subcontracts, even on Section 8(a) projects. See 
+id. at 19-23. 
+
+In 1981, the House Committee on Small Business 
+held hearings, see Small and Minority Business in the 
+Decade of the 1980’s (Part 1): Hearings Before the 
+
+
+2la 
+
+
+House Comm. on Small Business, 97th Cong., 1st Sess. 
+(1981), in which the Committee heard evidence con- 
+cerning problems experienced by small and minority- 
+owned firms that prevented them from becoming 
+viable, competitive businesses. Those problems in- 
+cluded: (1) difficulties getting bonding for construc- 
+tion projects, id. at 10, securing adequate financing 
+and credit terms, id. at 33-34, 220, and getting 
+prompt payment from prime contractors for work 
+completed, id. at 65; (2) the impact of the negative 
+perception by the public and private sectors as to 
+the skills and competence of minority and disadvan- 
+taged businesses, id. at 106, 221; and (3) criticism 
+that federal agencies were not fully promoting the 
+utilization of minority and disadvantaged subcontrac- 
+tors by prime contractors, id. at 114, 118, 120, 241. 
+The problems were attributed in part to racial dis- 
+crimination. Jd. at 4 (“racism and other barriers to 
+the free enterprise system have placed a heavier bur- 
+den on the development and maturity of minority 
+businesses”’ ). 
+
+3. Section 106(c) of STURAA, enacted in 1987, 
+was preceded by a similar provision, Section 105(f) 
+of the Surface Transportation Assistance Act 
+(STAA). Section 105(f) was originally introduced 
+as an amendment to STAA by Representative 
+Mitchell, who intended the amendment to ensure “the 
+participation of [disadvantaged] businesses in these 
+massive public spendings.” 128 Cong. Rec. 28,927 
+(1982). Representative Mitchell expressed concern 
+about the “disproportionate unemployment enjoyed 
+by minorities,” and his fear that, without Section 
+105(f), “the twin forces of racism and economic dis- 
+crimination will once again raise their ugly heads” 
+and exclude blacks and other minorities from the 
+
+
+22a 
+
+
+“employment rejuvenation program” contemplated by 
+STAA. I/bid. 
+
+4. Both the Section 8(a) program and Section 
+105(f) received close congressional scrutiny through- 
+out the 1980’s. Numerous congressional hearings 
+were conducted where the success and continued via- 
+bility of both the Section 8(a) program and Section 
+105(f) were debated. In those hearings, testimony 
+was presented documenting the current discrimina- 
+tion that frustrated minority small businesses gen- 
+erally, and highway contractors specifically, seeking 
+to compete equally. For instance, at a hearing in 
+1985 to determine whether the DBE provision of 
+STAA should be included in STURAA, Representa- 
+tive Mitchell stated that “[w]hen this Nation ad- 
+vances to what I think it ought to be, then there 
+will be no need for this kind of effort. But until we 
+get there, there is a demonstrable need for [Section] 
+105(f) or something similar to it in terms of prefer- 
+ential treatment.” The Disadvantaged Business En- 
+terprise Program of the Federal-Aid Highway Act: 
+Hearing Before the Subcomm. on Transportation of 
+the Senate Comm. on Environment and Public Works, 
+99th Cong., Ist Sess. 10 (1985) [hereinafter 1985 
+DBE Hearing}. 
+
+In prepared testimony at that hearing, Roberto 
+Rohas, National Executive Director of the National 
+Hispanic Association of Construction Enterprises, 
+stated that if prime contractors “used ‘good faith’ 
+efforts in utilizing [the services of Hispanic contrac- 
+tors], hearings such as these would become a thing 
+of the past.” 1985 DBE Hearing 221. 
+
+James K. Laducer, Director of the North Dakota 
+Minority Business Enterprise Programs, United 
+Tribes Educational Technical Center, noted in written 
+
+
+; 
+* 
+
+ry 
+
+—_— 
+
+
+23a 
+
+
+testimony that local banks “refuse to lend monies to 
+minority businesses from nearby Indian communities” 
+because “Bankers tend to view lending capital to 
+such businesses as potentially harmful to ‘their own’ 
+small businesses and local economic base.” 1985 
+DBE Hearing 363. 
+
+Also in 1985, a Subcommittee of the House Com- 
+mittee on Government Operations conducted a hear- 
+ing in which testimony was received documenting 
+racial discrimination in the transportation con- 
+struction industry, which hindered the effectiveness 
+of STAA and prevented minority firms from entering 
+the economic mainstream. For instance, James 
+Haughton, President of Fight Back, commented on 
+the highway construction industry in New York, 
+stating that there was “unbridled racism in the con- 
+struction industry. As you well know, it is not some- 
+thing recent, it’s the history of this industry and 
+Sorry to say over the years conditions have not im- 
+proved for black people, Hispanic people, and women. 
+Indeed, the conditions have gotten much worse.” 
+Minority Business Participation in Department of 
+Transportation Project: Hearing Before a Subcomm. 
+of the House Comm. on Government Operations, 99th 
+Cong., 1st Sess. 179 (1985) [hereinafter 1985 Trana- 
+portation Hearing]. He later remarked that to ob 
+tain a construction contract in New York, a contrac- 
+tor must contract with a union, and “I have known 
+contractors who have suffered very heavily because 
+they have been victims to that discrimination as prac- 
+ticed by the unions.” Jd. at 201. 
+
+At that same hearing, R.E. Castro, a small business- 
+man, testified about problems faced by minority firms 
+in the transportation construction industry as a result 
+of racial discrimination. 1985 Transportation Hearing 
+
+
+tay 
+
+
+24a 
+
+
+197. He then remarked that “it is impossible to legis- 
+late people’s attitudes of responsibilities,” but “[i]t 
+seems to me that unless we take effective action to 
+ensure that equal access to economic opportunity be- 
+comes a reality in this country, we might as well 
+take the Constitution and put it aside because the 
+equal protection provision of the Constitution will 
+never be lived up to.” Jd. at 198. 
+
+In hearings concerning preservation of the Sec- 
+tion 8(a) program, testimony was presented that 
+discrimination had hindered the ability of minority 
+members to compete in business, and that the Section 
+8(a) program helps remedy that discrimination. 
+Representative Conyers remarked: “The fact in 
+American life is that blacks have been cut out of 
+business. We are not doing them a favor by creating 
+these programs. They are created out of an experi- 
+enced need. So, I am more concerned about getting a 
+level playing field and that is what we have been 
+trying to redress for so long.” A Bill to Reform the 
+Capital Ownership Development Program: Hearings 
+on H.R. 1807 Before the Subcomm. on Procurement, 
+Innovation, and Minority Enterprise Development of 
+the House Comm. on Small Business, 100th Cong., 
+Ist Sess. 14 (1987) [hereinafter 1987 Capital Own- 
+ership Hearings]. 
+
+At those hearings, Representative Mfume stated: 
+
+
+[I]n the area of civil rights—and particularly 
+in the area of discrimination—the existence of 
+the protections does not insure that the protec- 
+tions are, in fact, enforced. * * * And that has 
+been strikingly absent from much of the civil 
+rights legislation and protection programs that 
+have been instituted by this Nation. 
+
+
+25a 
+
+
+* * * T am concerned about the enforcement, 
+and I think this program goes a long way in 
+making sure that some of the things that are 
+supposed to happen do, in fact, take place. 
+
+
+1987 Capital Ownership Hearings 22. 
+
+
+Former Representative Parren Mitchell, Chairman 
+of the Minority Business Enterprise Legal Defense 
+and Education Fund, Inc., also testified: 
+
+
+A part of my concern is that I think that there 
+is an antiblack, antipoor, anti-Hispanic, anti- 
+minority attitude developing in this country. I 
+see it as I travel around the country. I see its 
+manifestations. Therefore, I assume that a part 
+of the attacks on the Federal effort on behalf 
+of minority businesses, a part of those attacks 
+are reflective of the resurgence of racism in this 
+Nation, which is a very troublesome thing to me. 
+
+
+1987 Capital Ownership Hearings 32-33. Mitchell 
+described the problems faced by minority-owned bus- 
+inesses as a result of discrimination: 
+
+
+The hard fact of the matter is that the major- 
+ity firms that are trying to do something to in- 
+corporate minority businesses admit ovenly and 
+publicly that their own membership is reluctant 
+to do business. * * * There are a dozen of them 
+in various States who will work on behalf of 
+minorities. But they will be the first to say, “I 
+cannot get the other guys whose names are on the 
+letterhead to do business with minority firms.” 
+
+Why is that? * * * First, the “old boy” net- 
+om"? * 
+
+
+26a 
+
+
+The other real significant thing in that private 
+sector, and people do not like to hear talk like 
+this, but that private sector is not immune to 
+the resurgence of racism that is taking place in 
+this country. * * * You get it in the private 
+sector and you get it in Government where the 
+festering of racism immediately establishes at- 
+titudes which are against those of us who are 
+black, or brown, or the minorities. 
+
+
+Id. at 34. 
+
+
+Finally, at those same hearings, Edward Irons, 
+Acting Superintendent of the Office of Banking and 
+Financial Institutions for the District of Columbia, 
+testified that “the evidence of racism is irrefutable 
+in the business arena” and hinders opportunities for 
+minorities. 1987 Capital Ownership Hearings 593. 
+
+In hearings preceding the 1988 amendment to 
+Section 8(a), Parren Mitchell testified that “[t]he 
+harsh reality is that in the private sector, there is 
+a wall that is set up, there is an institutional net- 
+work, there is an old-boy network, that makes it 
+exceedingly difficult for minority firms to break into 
+the private commercial sector.” Minority Business 
+Development Program Reform Act of 1987: Hear- 
+ings on S. 1993 and H.R. 1807 Before the Senate 
+Comm. on Small Business, 100th Cong., 2d Sess. 127 
+(1988). In those hearings, Senator Levin urged re- 
+authorization of the Section 8(a) program, stating 
+that the program “gives important business oppor- 
+tunities to members of our society who have been 
+denied such opportunities for too long.” Jd. at 189. 
+
+Hamilton Bowser, of Evanbow Construction Co., 
+testified during a hearing on the problems of minority 
+contractors in obtaining surety bonds that “[w]e 
+know that our minority contractors have been cut 
+
+
+27a 
+
+
+out of entering the bond market with this, the biases 
+that are developed. * * * It is our guess that less than 
+one-tenth of 1 percent of bonding issued by the surety 
+companies in America go[es] to minority firms.” 
+Surety Bonds and Minority Contractors: Hearing 
+Before the Subcomm. on Commerce, Consumer Pro- 
+tection, and Competitiveness of the House Comm. on 
+Energy and Commerce, 100th Cong., 2d Sess. 6 
+(1988). 
+
+Representative Hastert testified during a _hear- 
+ing that “[t]he DBE program is * * * an admission 
+of sorts that minority and women-owned businesses 
+have been treated unfairly in the past.” Barriers to 
+Full Minority Participation in Federally Funded 
+Highway Construction Projects: Hearing Before a 
+Subcomm. of the House Comm. on Government Oper- 
+ations, 100th Cong., 2d Sess. 3 (1988). Representative 
+Hastert noted that “[t]he DBE program * * * pro- 
+vides businesses which previously found it difficult to 
+effectively compete for federally aided highway con- 
+tracts with the opportunity to at least get their foot 
+in the door.” Ibid. 
+
+During hearings on DBE participation in trans- 
+portation construction projects, Joann Payne, Presi- 
+dent of PSM Consultants, noted that, “[h]istorically, 
+minorities and women-owned businesses have had a 
+difficult time competing fairly in the highway con- 
+struction industry. * * * [B]ecause of the ethnic 
+and sex discrimination practiced by lending institu- 
+tions, it was very difficult for minorities and women 
+to secure bank loans, and bonding insurance.” Dis- 
+advantaged Business Set-Asides in Transportation 
+Construction Projects: Hearings Before the Subcomm. 
+on Procurement, Innovation, and Minority Futerprise 
+Development of the House Comm. on Smatt w. “@, 
+
+
+28a 
+
+
+100th Cong., 2d Sess. 25-26 (1988) [hereinafter 
+1988 DBE Transportation Construction Hearings]. 
+
+At the same hearing, Carolyn Jordan, Board Mem- 
+ber of the Illinois Association of Black Women Busi- 
+ness Owners, testified that, “[bJasically, the system 
+discriminates, and the people that implement the sys- 
+tem condone a system that allows only white males 
+and white females the opportunity to work and earn 
+a living while the black and minority women sit back 
+and get more and more frustrated * * *. The intent 
+of the law * * * is to maximize participation of 
+minorities and women in an industry that has been 
+dominated by men and to prevent discrimination.” 
+1988 DBE Transportation Construction Hearings 
+96-98." 
+
+Representative Savage, then-Chairman of the Sub- 
+committee on Economie Development of the House 
+Committee on Public Works and Transportation, tes- 
+tified about racial discrimination in the industry: 
+
+
+Now, let me * * * explain the specific problem 
+which concerns this subcommittee. * * * It is 
+simply this: Because of historically and often 
+
+
+* See also 1988 DBE Transportation Construction Hearings 
+61-62 (testimony of Patricia Low, President of PAL Indus- 
+tries, Inc.) (“I believe that there has been discrimination 
+against minorities and women in the industry”); id. at 69-70 
+(testimony of Low); id. at 87 (testimony of Cleve Chapman, 
+President of Midwest Contractors for Progress); id. at 107 
+(testimony of Marjorie Herter, National President of the 
+Women Construction Owners and Executives, USA) (“Dis- 
+crimination against women and minorities in the bonding 
+market is quite prevalent.”); id. at 107-109 (testimony of 
+Glendis Hambrick, of the Chicago Chapter of the Coalition of 
+Black Trade Unionists). 
+
+
+29a 
+
+
+legally imposed disadvantages, it has been 
+deemed by the U.S. Congress and the U.S. 
+Supreme Court that certain minorities * * * have 
+been denied equal opportunity for employment, 
+promotions, and contracts by Government and 
+private business. 
+
+Present evidence of these disadvantages are 
+found in the following sampling of statistics. For 
+1987, * * * the unemployment rate for white 
+males and females was only about 5.3 percent, 
+but for Hispanics, it was 8.8 percent and for 
+blacks, it was 13 percent * * *, 
+
+In 1986, 27.3 percent of Hispanics and 31.1 
+percent of blacks suffered incomes below the pov- 
+erty level, nearly 3 times the rate for whites. 
+
+
+1988 DBE Transportation Construction Hearings 112. 
+
+
+Representative Savage added that both the Section 
+8(a) program and the DBE provision of STURAA 
+attempt to remedy the specific disadvantages caused 
+by discrimination in small businesses and in the high- 
+way construction industry. Jd. at 112-113. Repre- 
+sentative Savage later stated that discrimination in 
+the highway construction industry is evidenced by 
+the fact that the federal government has never “con- 
+tracted anywhere close to fairly with minorities and 
+the figures show it.” Jd. at 120. 
+
+
+Women-Owned Businesses—An Examination of the 8(d) 
+Subcontracting Program: Hearings Before the Senate Comm. 
+
+
+30a 
+
+
+5. In response to the continued existence of dis- 
+crimination and its harmful effects on minority busi- 
+nesses generally, and minority businesses in the con- 
+struction industry specifically, Congress has repeat- 
+edly chosen to retain the Section 8(a) program in 
+the SBA and the DBE set-aside provision of 
+STURAA. 
+
+a. In the 100th Congress, H.R. 1807 was introduced 
+to amend Section 8(a). Following the introduction of 
+H.R. 1807 in the House of Representatives, Repre- 
+sentative Conte quoted from the 1987 report of the 
+President on the state of small business, which stated 
+that minorities represented 20% of the population, 
+but only 1.8% of the minority-owned businesses, com- 
+pared to 6.4% of nonminorities. 133 Cong. Rec. 
+88,318 (1987). Among minority-owned businesses, 
+94% were sole proprietorships, compared to 69% 
+
+
+on Small Business, 98th Cong., 1st Sess. (1983); Women 
+Entrepreneurs—Their Success and Problems: Hearing Be- 
+fore the Senate Comm. on Small Business, 98th Cong., 2d 
+Sess. (1984); State of Hispanic Small Business in America: 
+Hearing Before the Subcomm. on SBA and SBIC Authority, 
+Minority Enterprise, and General Small Business Problems 
+of the House Comm. on Small Business, 99th Cong., 1st Sess. 
+(1985): Minority Enterprise and General Small Business 
+Problems: Hearing Before the Subcomm. on SBA and SBIC 
+Authority, Minority Enterprise and General Small Business 
+Problems of the House Comm. on Small Business, 99th Cong., 
+2d Sess. (1986); To Present and Examine the Result of a 
+Survey of the Graduates of the Small Business Administra- 
+tion Section 8(a) Minority Business Development Program: 
+Hearing Before the Senate Comm. on Small Business, 100th 
+Cong., 1st Sess. (1987); The Small Business Competitiveness 
+Demonstration Program Act of 1988: Hearing on S. 1559 
+Before the Senate Comm. on Small Business, 100th Cong., 2d 
+
+
+Sess. (1988). 
+
+
+3la 
+
+
+of all businesses. /bid. Representative Conte indi- 
+cated that discrimination was the cause of these 
+
+
+deficiencies, ibid., and urged passage of the bill: 
+
+
+Mr. Speaker, we have a chance to make history 
+today. In doing so we can address program- 
+matic failures and shortcomings of the 8(a) pro- 
+gram and create a workable mechanism to finally 
+redress past discriminatory practices. 
+
+
+Id. at 33,320. 
+
+
+Representative Conyers also spoke in support of 
+the bill. He, too, cited statistics indicating that the 
+“struggle” for “economic empowerment” for minor- 
+ity businesses was not yet complete. 133 Cong. Rec. 
+33,321 (1987). Representative Conyers stated: 
+
+
+Two-thirds of all black firms earn less than 
+$10,000 annually, and one-third of Hispanic firms 
+gross less than $5,000 annually. In addition re- 
+ceipts from black firms are only 0.16 percent of 
+all business receipts in this country. The 8(a) 
+program, which enabled minority businesses to 
+perform more than $1 billion in Federal con- 
+tracts last year, is an essential step in overcom- 
+ing the appalling circumstances which continue 
+to plague minority Americans and in achieving 
+parity and growth in the minority business 
+community. 
+Ibid. 
+Additionally, during the introduction of H.R. 1769, 
+the Minority Business Development Act of 1988 
+(amending Section 8(a)), Representative Mfume 
+
+
+stated that “[w]Je know that over the years blacks 
+and other racial and ethnic minorities have suffered 
+
+
+32a f 
+
+
+the effects of racial discrimination, discrimination 
+which has impaired the ability of many within the 
+minority business community to be able to access 
+resources and markets that have been essential to 
+economic viability.” 134 Cong. Rec. 30,078-30,079 
+(1988). In speaking about the Act, Representative 
+Mfume stated: 
+
+
+[D]iscrimination * * * has moved to impair the 
+ability of the minority business community to 
+access resources and markets essential to eco- 
+nomic viability. * * * 
+
+Today as we ask the question whether or not 
+there remains a compelling need for special 
+Federal programs to provide socially and eco- 
+nomically disadvantaged persons with the oppor- 
+tunity * * * for full participation in our free 
+enterprise system, the answer unfortunately re- 
+mains a resounding yes. The need to devote 
+Federal resources to assist minority businesses 
+in overcoming economic disadvantages is no less 
+
+
+apparent today. 
+
+
+Id. at 16,584. 
+
+
+b. In the Senate, S. 1993 was introduced as the 
+companion bill to H.R. 1807. During the introduc- 
+tion of the bill, Senator Bumpers noted that “[o]nly 
+1.8 percent of all minorities have been financially 
+able to start firms, and well over 94 percent of such 
+businesses are sole proprietorships. They continue 
+to face discrimination in access to credit and markets. 
+Therefore, the restricted resources with which these 
+firms must deal have stagnated economic expansion 
+in many areas.” 133 Cong. Rec. 37,814 (1987). 
+
+Senator Weicker recited the benefits of the bill and 
+stated that, “[a]lthough remnants of discrimination 
+
+
+CS a Te ae 
+
+
+33a 
+4 H 
+
+
+remain in this society as well as other economc or: 
+
+
+financial barriers which minority entrepreneurs must 
+face, many are making it, who might not have, with- 
+out the 8(a) program.” 133 Cong. Rec. 37,821 
+(1987). 
+
+Senator Kerry also spoke in support of the pro- 
+gram, stating: 
+
+
+It is my belief that one of the most important 
+missions of the Small Business Administration 
+is té help members of disadvantaged and mi- 
+nority groups and others who suffer from social 
+and economic discrimination in our society to 
+participate in the great American tradition of 
+starting and owning a business. 
+
+
+133 Cong. Rec. 37,824 (1987). Senator Kerry ex- 
+pressed his view that Section 8(a), as amended by 
+S. 1993, would provide such support. 
+
+Senator Weicker stated, regarding the Section 
+8(a) program, that “[d]iscrimination * * * and 
+other social or economic disadvantages that minority 
+citizens still face on the road to business opportunity 
+are being challenged through this small but very vital 
+program.” 134 Cong. Rec. 17,136 (1988). 
+
+Similarly, Senator Sasser stated that “the 8(a) 
+program provides important business opportunities 
+
+
+* Senator Kerry had then recently introduced S. 1848, the 
+Minority Business Deveiopment Act. 133 Cong. Rec. 30,771 
+(1987). Upon introduction of that bill, Senatory Kerry stated: 
+
+Let us make no mistake; there is still a tremendous 
+amount of work to be done before we can say that racism 
+and other forms of discrimination have been abolished 
+in the economic marketplace. Minority business owner- 
+ship is still dramatically below that of nonminority busi- 
+ness ownership in most areas of the country. 
+
+
+34a 
+
+
+to members of our society who have long been denied 
+such opportunity.” 134 Cong. Rec. 17,149 (1988). 
+
+After presenting the Conference Report on the 
+Section 8(a) program to the Senate, Senator Bum- 
+pers stated that the program “is intended to provide 
+access to the Federal procurement system to those 
+who have been denied access for a long time, and it 
+is intended to build business skills and to develop 
+capital through the performance of essential Govern- 
+ment contracts.” 134 Cong. Rec. 31,492 (1988). 
+
+Senator Levin stated that “[t]he 8(a) Program 
+is intended to give disadvantaged individuals a chance 
+to own their own businesses and to bring them needed 
+jobs and training by giving them an opportunity to 
+participate in the Federal acquisition process. * * * 
+[T]he 8(a) Program provides important business 
+opportunity to members of our society who have long 
+been denied such opportunity.” 134 Cong. Rec. 
+$1,493 (1988). 
+
+6. Considering the extensive floor debates and 
+numerous hearings regarding the necessity, success 
+and viability of the DBE set-aside provision of 
+STAA and the Section 8(a) program, “it is incon- 
+ceivable that Members of both Houses were not fully 
+aware of the objectives of the * * * provision[s] 
+and of the reasons prompting [their] enactment.” 
+Fullilove, 448 U.S. at 467 (opinion of Burger, C.J.). 
+
+7. Since the passage of STURAA and the SBA, 
+Congress as well as the Executive Branch have con- 
+tinued to monitor closely the success and progress 
+of the Section 8(a) program and the Section 106(c) 
+DBE provision of STURAA. See, e.g., Federal Ac- 
+quisition Streamlining Act of 1994, Pub. L. No. 103- 
+355, 108 Stat. 3243; Intermodal Surface Transporta- 
+tion Efficiency Act of 1991, Pub. L. No. 102-240, 
+§ 1003(b), 105 Stat. 1919-1921; Minority Franchis- 
+
+
+35a 
+
+
+ing—Is Discrimination a Factor? : Hearing Before the 
+House Comm. on Small Business, 108d Cong., 1st Sess. 
+(1993) ; SBA’s Minority Business Development Pro- 
+gram: Hearing Before the House Comm. on Small 
+Business, 103d Cong., 1st Sess. (1998) (hearing to 
+discuss reforms to SBA’s Section 8(a) program) ; 
+Problems Facing Minority and Women-Owned Small 
+Businesses in Procuring U.S. Government Contracts: 
+Hearing Before the Subcomm. on Commerce, Con- 
+sumer, and Monetary Affairs of the House Comm. 
+on Government Operations, 103d Cong., 1st Sess. 
+(1993) ; Discrimination in Surety Bonding: Hearing 
+Before the Subcomm. on Minority Enterprise, Fi- 
+nance, and Urban Development of the House Comm. 
+on Small Business, 103d Cong., 1st Sess. (1993); 
+Small Business Development: Hearing Before the 
+Subcomm. on Procurement, Tourism, and Rural De- 
+velopment of the House Comm. on Small Business, 
+102d Cong., 2d Sess. (1992); Problems with Equal 
+Employment Opportunity and Minority and Women 
+Contracting at the Federal Banking Agencies: Hear- 
+ing Before the House Comm. on Banking, Finance 
+and Urban Affairs, 102d Cong., 2d Sess. (1992) (dis- 
+cussion of RTC’s progress in satisfying goals for 
+utilizing DBEs); Small Disadvantaged Business Is- 
+sues: Hearings Before the Investigations Subcomm. 
+of the House Comm. on Armed Services, 102d Cong., 
+Ist Sess. 11 (1991) (remarks by Rep. Collins that 
+the Department of Defense (DOD) “simply has not 
+made adequate good faith outreach efforts”; DOD’s 
+subcontracting with DBEs “has resulted in a paltry 
+performance of 2.5 to 3 percent each year, and many 
+of those contracts were for janitorial and kitchen serv- 
+ices”) ; Minorities and Franchising: Hearing Before 
+the House Comm. on Small Business, 102d Cong., 1st 
+Sess. 54 (1991) (statement by Chairman LaFalce 
+
+
+36a 
+
+
+that problem areas that are more pronounced and 
+specific to minority franchising include “problems 
+relating to the exclusion of minorities, or groups of 
+minorities, from franchise systems”); Acquisition 
+Issues: Hearings Before the Investigations Subcomm. 
+of the House Comm. on Armed Services, 101st Cong., 
+2d Sess. 12 (1990) (chart showing percentage of 
+DOD subcontracts awarded to DBEs as 1.9% in 
+1988, and 2.3% in 1989); Minority Construction 
+Contracting: Hearing Before the Subcomm. on SBA, 
+the General Economy, and Minority Enterprise De- 
+velopment of the House Comm. on Small Business, 
+101st Cong., Ist Sess. (1989) (examination of minor- 
+ity and women’s subcontracting opportunities in fed- 
+eral construction projects) ; Implementation of Small 
+Business Subcontracting Program: Hearing Before 
+the House Comm. on Small Business, 100th Cong., 2d 
+Sess. (1988); Subcontracting with Small and Disad- 
+vantaged Businesses—GSA Oversight: Hearing Be- 
+fore a Subcomm. of the House Comm. on Government 
+Operations, 100th Cong., 2d Sess. (1988); General 
+Accounting Office, Minority Contracting: DOD's Re- 
+porting Does Not Address Legislative Goal (July 
+1993) (discusses failure of DOD to meet procure- 
+ment obligations); General Accounting Office, Prob- 
+lems Continue With SBA’s Minority Business Devel- 
+opment Program (Sept. 1993); General Accounting 
+Office, Resolution Trust Corporation: Status of Mi- 
+nority and Women Outreach and Contracting Pro- 
+gram (May 1993) (concluding that RTC is short of 
+goal for contracting with minority- and women-owned 
+law firms); H.R. Rep. No. 1044, 100th Cong., 2d 
+Sess. (1988) (documenting failure of GSA to meet 
+its statutory mandate to provide subcontracting op- 
+portunities for small businesses and minority-owned 
+businesses on major GSA contracts). 
+
+
+37a 
+APPENDIX C 
+
+
+Census Data Available to Congress Regarding 
+Minority-Owned Businesses in Construction 
+and Related Census Data 
+
+
+Minorities are underrepresented in business gener- 
+ally, and in the construction industry particularly. 
+In 1987, there were over 1.2 million minority-owned 
+firms with gross receipts of just under $78 billion. 
+Bureau of the Census, U.S. Dep’t of Commerce, 
+1987 Economic Censuses—Survey of Minority-Owned 
+Business Enterprises: Summary 3 (Aug. 1991) 
+[hereinafter Summary]. Minority-owned firms ac- 
+counted for 8.9% of the total number of individual 
+proprietorships, partnerships, and subchapter S cor- 
+porations in the United States and 3.9% of their 
+gross receipts. bid. 
+
+In 1987, the gross receipts for minority-owned 
+construction firms constituted approximately 3% of 
+
+
+the total receipts for all construction firms. Bureau . 
+
+
+of the Census, U.S. Dep’t of Commerce, 1987 Eco- 
+nomic Censuses—Characteristics of Business Owners 
+8-9 (Table 1) (Apr. 1992) [hereinafter Character- 
+istics]. The total number of minority-owned firms 
+in the construction industry was approximately 6.6% 
+of the total number of firms in that industry. /bid. 
+Minorities were even less well represented in the 
+heavy construction industry, in which minority- 
+owned firms were approximately 5.3% of the total 
+number firms in that industry, and accounted for 
+
+
+1There are three main types of construction activities 
+reported in census data: general building contractors, heavy 
+construction contractors, and special trade contractors. The 
+building of roads, bridges, sewers, tunnels, etc., is reported in 
+the heavy construction category. 
+
+
+a, 
+
+
+38a 
+
+
+only 1.9% of the total receipts for all heavy con- 
+struction firms. Jbid. 
+
+Moreover, minority-owned businesses occupy a pro- 
+portionally smaller market share and are on the 
+whole less prosperous than their nonminority coun- 
+terparts. In 1987, the average gross sales and re- 
+ceipts in the construction industry was $146,103 for 
+nonminority-owned firms. That figure was 2.7 times 
+the average for American Indian-owned firms, 2.5 
+times the average for black-owned firms, 2.4 times 
+the average for Hispanic-owned firms, and 1.6 times 
+the average for Asian-owned firms. Characteristics 
+8 (Table 1); Summary 10 (Table 1). Hispanic con- 
+struction-firm owners were 50% more likely to have 
+household incomes of less than $10,000 compared to 
+nonminority male construction-firm owners. Char- 
+acteristics 74 (Table 12a). Further, only 27.6% of 
+minority-owned construction firms had paid employ- 
+ees, compared to 34.7% of nonminority-owned con- 
+struction firms. Swmmary 10 (Table 1), 84 (Table 
+10). 
+
+Minority-owned firms tend to employ minorities 
+at a greater rate than nonminority male-owned 
+firms. 57.3% of minority-owned construction firms 
+with employees had minority employees on the pay- 
+roll, compared to 34.3% of nonminority male-owned 
+firms. Characteristics 178-179 (Table 24a). 
+
+In those industries that sell and produce supplies 
+and equipment for construction, minority-owned 
+firms were equally underrepresented as in the con- 
+struction industry taken as a whole. Minority-owned 
+firms in the wholesale trade industry accounted for 
+only 6.1% of the total number of firms in that in- 
+dustry and only approximately 2.7% of the gross 
+receipts. Characteristics 8-9 (Table 1). In the manu- 
+
+
+39a 
+
+
+facturing industry, only 7% of the total number of 
+firms were minority-owned, and those firms accounted 
+for only 1.8% of the gross receipts, /bid. 
+
+Most of this country’s racial and ethnic minorities 
+remain poorer and less educated and suffer greater 
+unemployment than the white majority. For exam- 
+ple, in 1992 the percentage of families with incomes 
+below the poverty level was 3.5 times higher among 
+black families than among white families. 1990 
+census data show that 8.8% of white families had 
+incomes below the poverty level, compared to 30.4% 
+of black families, 26.5% of families of Hispanic 
+origin, 12.9% of Asian and Pacific Islander families, 
+and 30.9% of American Indians, Eskimos and Aleuts. 
+Bureau of the Census, U.S. Dep’t of Commerce, 
+Statistical Abstract of the United States: 1993, at 47 
+(Table 50), 471 (Table 741), 473 (Table 743) 
+(1993) [hereinafter 1993 Statistical Abstract]. 
+Overall, the median income for minority families was 
+approximately three-fifths of the median for white 
+families. Jd. at 462 (Table 721). If wealth instead 
+of income is compared, the picture is even bleaker. 
+When average net worth is considered, minorities 
+owned fewer than $23 in assets for every $100 in 
+assets owned by whites; when median net worth is 
+considered, minorities owned fewer than $7 in assets 
+for every $100 in assets owned by whites. Jd. at 477 
+(Table 753). 
+
+Minorities also have received less education than 
+white persons. Among persons 25 years old and 
+
+
+2 We note the similarity between those rates and the pov- 
+erty rates for minority families we described 15 years ago in 
+our brief to the Court in Fullilove v. Klutznick, 448 U.S. 448 
+(1980). U.S. Br. at 3a (No. 78-1007) (29.8% of black fami- 
+lies, 20.4% of families of Spanish heritage, and 33.3% of 
+American Indian families). 
+
+
+40a 
+
+
+older, 79.1% of white persons had completed four 
+years of high school or more by the time of the 1990 
+census. 1993 Statistical Abstract 154 (Table 233). 
+Only 66.2% of black persons, 50.8% of persons of 
+Hispanic origin, and 65.6% of American Indians 
+had completed high school. Jbid.; 1 Bureau of the 
+Census, U.S. Dep’t of Commerce, 1990 Census of 
+Population: Characteristics of American Indians by 
+Tribe and Language 95 (Table 4) (July 1994) 
+[hereinafter Characteristics of American Indians}. 
+In the same age group, 22.0% of all white persons 
+had completed four years of college or more, while 
+only 11.8% of black persons, 9.2% of persons of His- 
+panic origin, and 9.4% of American Indians had 
+finished college. 1993 Statistical Abstract 154 (Table 
+233); Characteristics of American Indians 95 
+(Table 4). 
+
+Unemployment affects minorities at a greater rate 
+than whites. While whites in 1990 had an unemploy- 
+ment rate of 4.7% and Asians a rate of 4.2%, blacks 
+suffered at 11.3%, persons of Hispanic origin at 
+8.0%, and Native Americans at 14.4% 1998 Statis- 
+tical Abstract 47 (Table 50), 395 (Table 625); Bu- 
+reau of the Census, U.S. Dep’t of Commerce, 1990 
+Census of Population—Social and Economic Charac- 
+teristics: United States 111 (Table 108) (Nov. 
+1993). 
+
+Those statistics demonstrate a worsening of the eco- 
+nomic position of minority families. By 1990, the 
+median income for white families had increased in 
+constant dollars by $3,890 since 1975, while the 
+median income for black families had increased by 
+only $1,049, and the median income for Hispanic 
+families had increased by only $1,270. 1993 Statisti- 
+cal Abstract 462 (Table 721). The greater increase 
+
+
+4la 
+
+
+in white income reduced the ratio of minority-to-white 
+
+
+median family income from approximately two-thirds 
+in 1975 to three-fifths in 1990. Jbid. 
+
+
+Racial/ethnic composition as of April 1, 1990 
+
+
+White Black Hispanic Indian/ Asian/ Other 
+Eskimo/ Pacific 
+
+
+Aleut Islander 
+United States 80.3 121 90 0.8 2.9 3.9 
+Colorado 882 40 129 0.9 1.8 
+
+
+1993 Statistical Abstract 18 (Table 18), 30-81 (Table 32). 
+
+
+® 6. 6. covenant poutine erica, 1906 Se7147 8=6 20021 
+
+

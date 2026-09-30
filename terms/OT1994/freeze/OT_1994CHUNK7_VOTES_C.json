@@ -1,0 +1,144 @@
+[
+  {
+    "case": "Kimberlin v. Quinlan",
+    "component": "First Amendment judgment",
+    "for": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "against": [],
+    "propositions": {
+      "legal review": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "direct proof rule": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  },
+  {
+    "case": "Commissioner v. Schleier",
+    "component": "backpay and liquidated damages",
+    "for": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "against": [
+      "O'Connor",
+      "Souter",
+      "Thomas"
+    ],
+    "propositions": {
+      "causation": [
+        "Stone-Zsela",
+        "Stevens",
+        "Kennedy",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  },
+  {
+    "case": "Chandris, Inc. v. Latsis",
+    "component": "retrial",
+    "for": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "against": [],
+    "propositions": {
+      "general connection": [
+        "O'Connor",
+        "Stone-Zsela",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg"
+      ],
+      "temporal guide": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg"
+      ],
+      "preserved drydock": [
+        "O'Connor",
+        "Stone-Zsela",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg"
+      ]
+    }
+  },
+  {
+    "case": "Witte v. United States",
+    "component": "prosecution permitted",
+    "for": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "against": [
+      "Stevens"
+    ],
+    "propositions": {
+      "constitutional characterization": [
+        "O'Connor",
+        "Stone-Zsela",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "coordination": [
+        "O'Connor",
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  }
+]

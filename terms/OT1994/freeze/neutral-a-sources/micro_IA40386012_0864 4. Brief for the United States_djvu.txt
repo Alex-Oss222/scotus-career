@@ -1,0 +1,919 @@
+(4) FILED 
+No. 94-925 IAN A 1895 
+
+
+In the Supreme Court of the Gnited| States —_—"~_ 
+
+
+OCTOBER TERM, 1994 
+
+
+METROPOLITAN WASHINGTON AIRPORTS AUTHORITY, 
+ET AL., PETITIONERS 
+
+
+v. 
+
+
+JOHN W. HECHINGER, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+DREw S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+WILLIAM KANTER 
+ScoTT R. MCINTOSH 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether 49 U.S.C. App. 2456(f) (Supp. IV 1992), which 
+provides for a Board of Review that consists of members 
+proposed by the Speaker of the House of Representatives 
+and the President pro tempore of the Senate and that has 
+power to oversee and postpone actions of the 
+Metropolitan Washington Airports Authority, violates 
+the separation of powers doctrine and this Court’s 
+decision in Metropolitan Washington Airports 
+Authority v. Citizens for Abatement of Aircraft Noise, 
+Inc., 501 U.S. 252 (1991). 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+IE IN ccdss siles sce cd GiadnadedivasundviedSodenbececanedaracos 1 
+i sitciths sala eddies Li dad pub suthcbnnuadecsedecaerdaceasene 1 
+anid tess habbbiekciseisrenesadicedetcabovscsnbsbbdensedectoiosece 2 
+IT TiRhddaaiseclshclebuhenelsdexsvavedtevicssveclasedsactcvisicceceoneses 9 
+ic 17 
+TABLE OF AUTHORITIES 
+Cases: 
+Alaska Airlines, Inc. v. Brock, 480 U.S. 678 (1987) ........ 14 
+Ameron, Inc. v. United States Army Corps of Engineers, 
+809 F.2d 979 (3d Cir. 1986), cert. dismissed, 488 U.S. 918 
+NE Rien Sieh dis acpiicehcahddtiiabcddunbnoebcccncdvevseceorouesoose 15 
+Blodgett v. Holden, 275 U.S. 142 (1927) .....cccccceecceeeeeeeeeeee 17 
+Bowsher v. Synar, 478 U.S. 714 (1986) 00... eeeecesceees 12 
+INS v. Chadha, 462 U.S. 919 (1988) ......ccescccseseeeseeseeees 11, 14 
+Lear Siegler, Inc. v. Lehman, 842 F.2d 1102 (1988), 
+withdrawn in part, 893 F.2d 205 (9th Cir. 1989) ........... 15 
+Metropolitan Washington Airports Authority v. Citizens 
+for Abatement of Aircraft Noise, Inc., 501 U.S. 252 
+I A icediiied tahasunrschedbubnhasendecsoccrorsecdens 2, 3, 4, 5, 10, 12, 13 
+Myers v. United States, 272 U.S. 52 (1926) .................000. 12 
+Constitution and statutes: 
+U.S. Const 
+Till indus cahuabschdbbsencnevetnciveueseqs 4, 5, 10, 18, 14 
+aia ios sie sscncpnecepapundevereone 12 
+§ 2, Cl. 2 (Appointments Clause) ................cc0c0c0eceeeeee 7 
+Competition in Contracting Act of 1984, 31 U.S.C. 3551 
+ood esanddnwendecsoncerionencecseees 15 
+Metropolitan Washington Airports Act Amendments of 
+1991, Pub. L. No. 102-240, Tit. VII, 105 Stat. 2197 ......... 5 
+49 U.S.C. App. 2456(f) (Supp. IV 1992) ..........00..... 5 
+
+
+(IIT) 
+
+
+Statutes—Continued:: 
+
+
+App. 
+App. 
+App. 
+App. 
+App. 
+App. 
+App. 
+
+
+49 
+49 
+49 
+49 
+49 
+49 
+49 
+
+
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+
+
+IV 
+
+
+2456(f (2)(C) (Supp. IV 1992) ........ 
+2456(f )(4)(B) (Supp. IV 1992) ........ 
+2456(f)(4)(B)(i) (Supp. IV 1992) .... 
+2456(f )(4)(B)(ii) (Supp. IV 1992) ... 
+2456(f )(4\(C) (Supp. IV 1992) ........ 
+2456(f)(4)(D) (Supp. IV 1992) ........ 
+2456(f )(4)(D)(ii) (Supp. IV 1992) ... 
+
+
+Metropolitan Washington Airports Act of 1986, 
+49 USC. ABD. BEBE OF BOG, cicecctcsiacerecionssssseccsscessesscessses 
+
+
+49 
+49 
+49 
+49 
+49 
+49 
+
+
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+U.S.C. 
+
+
+App. 
+App. 
+App. 
+App. 
+App. 
+App. 
+
+
+28 U.S.C. 2403(a) 
+
+
+BONG EY CUNY cocecciscsesesesasscsessoess 
+2456(f)(4)(A) (1988) veccccccsesseesseeeeees 
+2456(f )(4)(B) (1988) ...cececeseseeceeeeeees 
+2456(f)(4)(D) (1988) ceeccccssescessseeeees 
+ca asecxasicnien 
+ONT SINE echoes ccciessssedessdccven 
+
+
+POUUUUUOUE CEOS OCCOSSCCCCOS SCC CECE 
+
+
+mwoNw WS & W& 
+
+
+~] So 
+
+
+Gn the Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-925 
+
+
+METROPOLITAN WASHINGTON AIRPORTS AUTHORITY, 
+ET AL., PETITIONERS 
+
+
+Vv. 
+
+
+JOHN W. HECHINGER, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-19a) is 
+reported at 36 F.3d 97. The opinion of the district court 
+(Pet. App. 22a-38a) is reported at 845 F. Supp. 902. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+September 27, 1994. The petition for a writ of certiorari 
+was filed on November 22, 1994. The jurisdiction of this 
+Court is invoked under 28 U.S.C. 1254(1). 
+
+
+STATEMENT 
+
+
+This case involves the Metropolitan Washington 
+Airports Act of 1986 (Transfer Act), 49 U.S.C. App. 2451 
+et seq., as amended. In Metropolitan Washington 
+Airports Authority v. Citizens for Abatement of 
+Aircraft Noise, Inc., 501 U.S. 252 (1991) (CAAN), this 
+Court held that the Transfer Act violated constitutional 
+separation of powers principles. In response to this 
+Court’s decision, Congress amended the Act in several 
+respects in 1991. The court of appeals has now held that 
+the Act as amended remains unconstitutional. 
+
+1. The 1986 Transfer Act provided for the federal 
+government to lease National Airport and Dulles Inter- 
+national Airport to the Metropolitan Washington Air- 
+ports Authority (Authority), an independent regional 
+authority created through a compact between Virginia 
+and the District of Columbia. The Act conditioned the 
+leases on the creation of a nine-member Board of Review. 
+The Act originally provided for the Board to consist of 
+Members of Congress, all but one of whom were to be 
+members of congressional committees responsible for air 
+transportation matters. 49 U.S.C. App. 2456(f)(1) (1988). 
+The Act required the Authority to submit to the Board a 
+number of significant operational decisions, such as the 
+adoption of an annual budget and any change in hours of 
+operation. 49 U.S.C. App. 2456(f)(4)(A) and (B), 2456(g¢) 
+(1988). If the Board disapproved any of the proposed 
+actions, the Authority was prohibited from carrying it 
+out. 49 U.S.C. App. 2456(f)(4)(D) (1988). 
+
+In CAAN, a civie organization and two individuals 
+brought suit against the Authority, contending that the 
+Transfer Act’s provisions relating to the Board of 
+Review were unconstitutional. This Court agreed. 501 
+U.S. at 265-277. 
+
+
+3 
+
+
+The Court first considered the contention that the 
+Board “neither exercises federal power nor acts as an 
+agent of Congress” (501 U.S. at 265), and hence that the 
+Board’s role did not implicate separation of powers 
+principles at all. Based on its review of “the origin and 
+structure of the Board” (ibid.), the Court rejected that 
+argument. It observed that the federal government “has 
+a strong and continuing interest in the efficient 
+operation of the airports, which are vital to the smooth 
+conduct of Government business, especially to the work 
+of Congress.” Jd. at 266. Indeed, the decision to create 
+the Board of Review, whose structure and powers Con- 
+gress mandated in detail, was prompted by Congress’s 
+recognition of this federal interest. Jbid. Not only did 
+Congress require the creation of the Board as a 
+condition of the airport leases, but it included in the 
+Transfer Act a so-called “drop-dead” clause, under which 
+the Authority would “have no authority to perform any 
+of the actions” subject to Board review if the Board itself 
+were invalidated by a court. 49 U.S.C. App. 2456(h) 
+(1988). Finally, membership on the Board was limited to 
+federal officials, specifically Members of Congress. 501 
+U.S. at 266-267. 
+
+Although the Transfer Act provided that the members 
+of the Board were to serve “in their individual capacities, 
+as representatives of users” of the airports, 49 U.S.C. 
+App. 2456(f)(1) (1988), the Court concluded that the Board 
+nonetheless remained “a congressional agent exercising 
+federal authority.” 501 U.S. at 267. The Court noted 
+that the Act did not require Board members to be users 
+of the airports, but instead required them to be members 
+- of congressional committees having jurisdiction over 
+transportation issues. Jbid. Moreover, Congress “also 
+exercise[d] substantial power over the appointment and 
+removal” of Board members. /d. at 268. Although the 
+
+
+4 
+
+
+Board’s members were appointed by the Authority, all 
+appointments were required to come from lists provided 
+by the Speaker of the House of Representatives and the 
+President pro tempore of the Senate. 49 U.S.C. App. 
+2456(f)(1) (1988). “Significantly, appointments must be 
+made from the lists, and there is no requirement that the 
+lists contain more recommendations than the number of 
+Board openings.” 501 U.S. at 268. If displeased with the 
+performance of members of the Board, moreover, the 
+congressional leadership could remove them from the 
+Board by changing their committee assignments. /d. at 
+269. The Court summarized (ibid.): 
+
+
+We thus confront an entity created at the initiative 
+of. Congress, the powers of which Congress has 
+delineated, the purpose of which is to protect an 
+acknowledged federal interest, and membership in 
+which is restricted to congressional officials. Such 
+an entity necessarily exercises sufficient federal 
+power as an agent of Congress to mandate 
+separation-of-powers scrutiny. 
+
+
+After concluding that the Board was acting as an 
+agent of Congress, the Court turned to the limitations 
+imposed by separation of powers principles. 501 U.S. at 
+271-277. The Court identified two “basic and related con- 
+straints.” /d. at 274. First, Congress may not exercise 
+executive or judicial power at all; second, Congress may 
+exercise legislative power only through the procedures 
+specified in Article I. /bid. The Court concluded that 
+the role of the Board of Review necessarily offended one 
+or the other of those constraints. If the power exercised 
+by the Board was executive, “the Constitution does not 
+permit an agent of Congress to exercise it.” Id. at 276. 
+If, on the other hand, the Board’s power was viewed as 
+legislative, “Congress must exercise it in conformity 
+
+
+5 
+
+
+with the bicameralism and presentment requirements” 
+of Article I. /bid- The Court therefore found it unneces- 
+sary to decide whether the Board’s role was executive or 
+legislative; in either case, the Court concluded, the 
+Board’s power would be “constitutionally impermis- 
+sible.” Ibid. 
+
+2. In response to this Court’s decision in CAAN, Con- 
+gress enacted the Metropolitan Washington Airports 
+Act Amendments of 1991, Pub. L. No. 102-240, Tit. VII, 
+~105 Stat. 2197 (1991 Amendments) (Pet. App. 69a-79a). 
+The 1991 Amendments preserve the Board of Review, and 
+the Authority remains subject to the “drop-dead” pro- 
+vision (see page 3, supra) if the Board is invalidated. In 
+several respects, however, the 1991 Amendments altered 
+the provisions of the Transfer Act relating to the Board. 
+
+The first change concerns the composition of the 
+Board. The basic process of appointing Board members 
+is unchanged: The Authority still must select members 
+from lists prepared by the Speaker of the House of 
+Representatives and the President pro tempore of the 
+Senate, and the lists need not contain more names than 
+the number of vacancies. 49 U.S.C. App. 2456(f)(1) (Supp. 
+IV 1992). However, the 1991 Amendments eliminated the 
+requirement that Board members be Members of Con- 
+gress, substituting three new membership criteria. 
+First, members must “have experience in aviation 
+matters and in addressing the needs of airport users”; 
+second, they must be “frequent users” of National and 
+Dulles Airports; finally, they must be registered voters 
+of a State other than Maryland, Virginia, or the District 
+of Columbia. 49 U.S.C. App. 2456(f)(2)(C) (Supp. IV 1992). 
+Of the nine members appointed to the Board on the basis 
+of those criteria following the 1991 Amendments, all but 
+one were Members of Congress who served on 
+
+
+6 
+
+
+committees having jurisdiction over air transportation. 
+Pet. App. 8a, 217a-218a. 
+
+The Board continues to oversee major operational 
+decisions by the Authority, but the 1991 Amendments 
+changed the process by which the Board’s oversight role 
+is exercised. In place of the veto power struck down in 
+CAAN, the 1991 Amendments substituted a two-stage 
+review process. At the first stage, the Authority must 
+submit to the Board the same kinds of proposed actions 
+that were subject to the Board’s veto power under the 
+original Act, along with several additional categories of 
+actions added by the 1991 Amendments. See 49 U.S.C. 
+App. 2456(f)(4)(B) (Supp. IV 1992). The Board is given 30 
+calendar days or ten legislative days, whichever is 
+longer, to make “recommendations” to the Authority 
+regarding proposed actions. 49 U.S.C. App. 2456(f)(4)(C) 
+(Supp. IV 1992). 
+
+If the Authority accepts a Board recommendation, or if 
+the Board makes no recommendation, the proposed action 
+may go into effect immediately. However, if the 
+Authority does not adopt the Board’s recommendation, 
+the proposed action is subject to a second stage of review: 
+The Authority must submit to Congress a detailed 
+description of the proposed action, the Board’s recom- 
+mendation, and the Authority’s response. 49 U.S.C. App. 
+2456(f)(4)(D) (Supp. IV 1992). Congress is then given 60 
+legislative days to consider whether to enact a joint 
+resolution of disapproval, and the Authority must defer 
+the proposed action until the end of that period. 49 
+U.S.C. App. 2456(f)(4)(D)(ii) (Supp. IV 1992). In practice, 
+a period of 60 legislative days lasts at least three months 
+and may extend for as long as six months. Pet. App. 220a. 
+
+3. The plaintiffs in CAAN again brought suit to 
+challenge the constitutionality of the Transfer Act, as 
+amended. Respondents argued, inter alia, that the 1991 
+
+
+7 
+
+
+Amendments did not cure the constitutional deficiencies 
+identified by this Court in CAAN. The district court 
+entered summary judgment in favor of respondents, 
+holding that the amended Transfer Act violates 
+separation of powers principles, and that the Act’s 
+procedures for selecting Board members violate the 
+Appointments Clause. Pet. App. 22a-38a. 
+
+The court of appeals affirmed on separation of powers 
+grounds and did not reach the other constitutional issues 
+presented by the case. Pet. App. la-19a.' The court first 
+addressed the question whether, in light of the 1991 
+Amendments, the Board remains an agent of Congress. 
+Id. at 6a-10a. The court noted that “[tJhe new Board and 
+its powers continue to be the creation of Congress, the 
+drop-dead provision remains in place, and the federal 
+interest in the efficient operation of the two airports 
+continues unchanged.” Jd. at 7a. The court acknowl- 
+edged that the 1991 Amendments had eliminated the 
+explicit requirement that the Board consist of Members 
+of Congress, but it concluded that Congress still 
+“intended the Board to serve, and * * * it does serve, as 
+|[Congress’s] agent.” Jd. at 10a. 
+
+The court reasoned that, “as a practical matter, 
+relatively few individuals other than members or alumni 
+of th[ej [congressional transportation] committees will 
+
+
+1 Pursuant to 28 U.S.C. 2403(a), the United States intervened 
+in the court of appeals to address the constitutionality of the 
+amended Act. In CAAN, the United States had argued that the 
+original Act was constitutional on the theory that “the Board of 
+Review exercises state, and not federal, power,” U.S. Br. at 12 
+(No. 90-906), and that the Members of Congress designated to 
+serve “in their individual capacities” had “special and distinct 
+individual concerns that justify that designation,” id. at 13. In 
+light of this Court’s decision in CAAN, the United States argued in 
+the court of appeals that the amended Act is unconstitutional. 
+
+
+8 
+
+
+be able to meet” the membership requirements 
+established by the 1991 Amendments. Pet. App. 8a. The 
+court also found it telling that the time limits for Board 
+action were framed in terms of “legislative days,” which 
+“exclu[ded| * * * days on which Representatives and 
+Senators may be expected to be out of town.” Id. at 9a. 
+Finally, the court noted that Congress retained effective 
+control of the composition of the Board through its 
+ability to nominate members and to confine the Auth- 
+ority to the lists of nominees submitted by the Speaker 
+of the House of Representatives and the President pro 
+tempore of the Senate. Jd. at 9a-10a. 
+
+After concluding that the Board remains an agent of 
+Congress, the court of appeals turned to the question 
+whether the Board exercises federal power. Pet. App. 
+10a-19a. Petitioners argued that the elimination of the 
+Board’s veto power effectively confined the Board to a 
+purely advisory role of the sort in which Congress or its 
+agents may engage without offending separation of 
+powers principles. /d. at 10a. The court of appeals 
+concluded, however, that, under the 1991 Amendments, 
+the Board retains “the power to coerce the Airports 
+Authority to comply with any recommendation.” Jd. at 
+17a (internal quotation marks omitted). 
+
+Although the court of appeals identified several 
+features of the 1991 Amendments in support of this 
+conclusion, it emphasized that “[w]hat tips the balance 
+* * * is the Board’s power to delay and perhaps overturn 
+critical decisions [of the Authority] by requiring their 
+referral to Congress.” Pet. App. 17a. The court pointed 
+out that the protracted statutory waiting period would 
+pose potentially intolerable costs on the Authority if it 
+refused to accede to the Board’s recommendations. /d. at 
+15a, 17a. The impact of delay is especially acute, the 
+court noted, because many of the decisions that are 
+
+
+9 
+
+
+subject to review by the Board are highly time-sensitive, 
+so that delay “can result in millions of dollars of 
+additional costs and can adversely affect the public 
+safety.” Jd. at 15a. As a result, “(t]he mere existence of 
+this power to delay provides the [Authority] with an 
+enormous incentive to avoid confrontations by tailoring 
+their decisions to suit the Board’s pleasure.” /d. at 18a. 
+Petitioners argued that the review mechanisms in the 
+1991 Amendments, including congressional review of the 
+Authority’s decisions not to adopt Board recommen- 
+dations, are simply a variation on conventional “report- 
+and-wait” statutes, under which agencies are required to 
+report proposed actions to Congress and defer imple- 
+mentation pending congressional consideration of a joint 
+resolution of disapproval. Pet. App. 12a. The court of 
+appeals pointed out, however, that conventional report- 
+and-wait statutes provide for automatic referral of 
+specified agency decisions to Congress, and thus have a 
+neutral effect on agency decisionmaking. Jbid. In 
+contrast, the 1991 Amendments leave an agent of 
+Congress with discretion whether to trigger the 
+congressional review process, and that discretion 
+provides an avenue for congressional leverage that is not 
+provided by ordinary report-and-wait statutes. /bid. 
+
+
+DISCUSSION 
+
+
+The court of appeals correctly held that the Transfer 
+Act, as amended, violates constitutional separation of 
+powers principles. We nevertheless believe that the 
+petition for a writ of certiorari should be granted. 
+Although the court of appeals’ holding follows logically 
+from this Court’s decision in CAAN, we cannot say that 
+the changes effected by the 1991 Amendments are so 
+clearly without corstitutional significance as to rebut 
+the weighty presumption that a court of appeals’ decision 
+
+
+10 
+
+
+invalidating an Act of Congress should be reviewed by 
+this Court. 
+
+1. The threshold issue, here as in CAAN, is whether 
+the Board of Review “exercises * * * federal power as 
+an agent of Congress,” 501 U.S. at 269, thereby 
+subjecting it to the limitations imposed on Congress by 
+separation of powers principles and Article I. Peti- 
+tioners do not appear to dispute that any power exercised 
+by the Board is that of the federal government.’ Instead, 
+they challenge the court of appeals’ conclusion that the 
+Board acts as an agent of Congress. Pet. 21-28. Peti- 
+tioners’ arguments on this score are without merit. 
+
+Petitioners place primary reliance on the fact that the 
+Transfer Act, as amended, no longer limits Board mem- 
+bership to Members of Congress. Pet. 22-23. But as the 
+court of appeals pointed out, the new membership 
+criteria have proved effective in preserving dominant 
+congressional representation on the Board. However 
+“neutral” (Pet. 23) the criteria may appear in the 
+abstract, the court of appeals was correct in concluding 
+that the statutory qualifications will be met by 
+“relatively few individuals other than members or 
+alumni” of congressional air transportation committees. 
+Pet. App. 8a. Moreover, Congress retains control over 
+the actual composition of the Board by requiring the 
+Authority to select Board members from lists prepared 
+by the Speaker of the House of Representatives and the 
+President pro tempore of the Senate. Viewed in combi- 
+
+
+2 Petitioners do argue that the Board lacks any “power” at all 
+for separation of powers purposes. Pet. 14-21. We address that 
+argument below. See pages 13-17, infra. Petitioners do not 
+appear to dispute that, if the Board exercises power in a con- 
+stitutionally significant sense, the power is that of the federal 
+government. 
+
+
+11 
+
+
+nation, the membership criteria and the selection 
+process reflect a continuing effort by Congress to use 
+the Board as a vehicle for congressional influence on the 
+Authority’s decisions. 
+
+Petitioners argue that Congress is free to establish an 
+appointment process in which appointments are made 
+from lists prepared by Congress. Pet. 24-25. That 
+argument is difficult to square with INS v. Chadha, 
+462 U.S. 919 (1983). There, this Court held that 
+congressional “action that ha[s] the purpose and effect of 
+altering the legal rights, duties, and relations of persons 
+* * * outside the Legislative Branch,” id. at 952, can be 
+taken (subject to the exceptions enumerated in the 
+Constitution) only through the passage of a law, see id. 
+at 956-957. Congress’s formulation and transmittal of 
+lists of acceptable Board members appears to be such an 
+action, because the Authority (which is outside the 
+Legislative Branch) is barred from selecting as a Board 
+member any person not on the lists. 
+
+The court of appeals did not, however, rely solely on 
+the requirement that appointees be drawn from con- 
+gressional lists to determine the Board’s membership is 
+unconstitutional. It simply held that Congress’s 
+insistence on controlling the membership of the Board 
+through the use of lists, when combined with the indicia 
+present in CAAN and membership criteria that are 
+tilted in favor of Members of Congress, indicated that 
+Congress continues to view the Board as its agent. 
+
+Finally, petitioners assert that “the dispositive 
+factor” in characterizing the relationship between the 
+Board and Congress is the presence or absence of the 
+removal power, and that the 1991 Amendments therefore 
+break the link between the Board and Congress by 
+eliminating Congress’s removal authority. Pet. 26-27. 
+But there is no reason in law or logic why this should be 
+
+
+12 
+
+
+so. To be sure, removal power may be a significant tool 
+for ensuring that an agent carries out his principal’s 
+wishes.’ But it is hardly the only tool for doing so. Here, 
+the membership criteria and the selection process 
+combine to make it likely that, even in the absence of a 
+formal removal power, the Board will reflect Congress’s 
+underlying interests and wishes.‘ 
+
+In challenging the court of appeals’ conclusion about 
+the status and role of the Board, petitioners assess each 
+component of the statutory scheme in isolation, trying to 
+show that no single component is sufficient to establish 
+the Board as an agent of Congress. The teaching of 
+CAAN, however, is that an assessment of the Board’s 
+status and role also requires attention to the cumulative 
+effect of the statutory scheme. See 501 U.S. at 266 
+(“[s]everal factors combine” to subject Board to separa- 
+tion of powers review). When the components of the 
+amended Transfer Act are viewed cumulatively, rather 
+
+
+3 At the same time, the existence of removal power may be 
+more theoretical than real. The original Transfer Act did not 
+provide a direct mechanism for Congress to remove Board 
+members. Instead, Congress could accomplish that result by 
+stripping members of the committee assignments required by the 
+Act as a condition for Board membership. Although the Act 
+therefore theoretically vested Congress with the power of removal 
+(CAAN, 501 U.S. at 269), removing Board members by unilaterally 
+changing committee assignments was, at best, an extremely 
+unwieldy method of exercising control. The elimination of this 
+mechanism by the 1991 Amendments is unlikely to alter the 
+practical relationship between Congress and the Board. 
+
+
+4 Petitioners point to the line of cases from Myers v. United 
+States, 272 U.S. 52 (1926), to Bowsher v. Synar, 478 U.S. 714 
+(1986), that addresses the scope of the President’s power under 
+Article II to remove executive officers. Pet. 26-27. But those 
+decisions do not hold, as petitioners suggest, that the presence or 
+absence of removal power determines the status of an official. 
+
+
+13 
+
+
+than in isolation, the conclusion that Congress is con- 
+tinuing to employ the Board as its agent is apparent. 
+
+2. CAAN holds that Congress may not exercise 
+executive power over the Authority at all, and may not 
+exercise legislative power over the Authority except 
+through the lawmaking procedures mandated by Article 
+I. 501 U.S. at 276. Petitioners argue that, even if the 
+Board is an agent of Congress, the elimination of the 
+Board’s veto power renders those constitutional restric- 
+tions inapplicable. Pet. 14-21. Petitioners argue that the 
+1991 Amendments transformed the Board into a purely 
+advisory body, and that separation of powers principles 
+impose no limitations on Congress’s ability to offer 
+advice, either directly or through an agent, to the 
+Authority. 
+
+The court of appeals correctly rejected that argument. 
+See Pet. App. 10a-19a. By giving the Board discretionary 
+power to trigger congressional review of the Authority’s 
+major decisions, and by requiring the Authority to defer 
+action for as long as six calendar months (see page 6, 
+supra) if it is unwilling to abide by the Board’s wishes, 
+Congress effectively gave the Board the power to control 
+the Authority’s principal operational! decisions. Given 
+the time-sensitive nature of matters like the adoption of 
+an annual budget (49 U.S.C. App. 2456(f)(4)(B)(i) (Supp. 
+IV 1992)) or the authorization of bonds (49 U.S.C. App. 
+2456(f)(4)(B)(ii) (Supp. IV 1992)), the Board’s power of 
+delay effectively compels the Authority to accede to the 
+Board’s wishes. 
+
+Petitioners argue at length that the Constitution 
+permits Congress to engage in “advice” and “influence” 
+without resorting to the lawmaking procedures of 
+Article I (Pet. 14-16), and that the court of appeals “has 
+adopted the position that an agent of Congress may not 
+play even an informational or advisory role in the 
+
+
+14 
+
+
+decisionmaking process of an executive body” (Pet. 21). 
+But the court of appeals held nothing of the sort. To the 
+contrary, the court expressly acknowledged and accepted 
+“the difference between [legislative] persuasion and 
+coercion.” Pet. App. 16a. It concluded that the amended 
+Transfer Act crosses the line from persuasion to coer- 
+cion, by allowing an agent of Congress to impose 
+potentially extended and costly delays on major decisions 
+of the Authority if the agent disagrees with those 
+decisions. Jd. at 17a (amended Act “gives the Board of 
+Review the power to coerce the Airports Authority to 
+comply with any recommendation”) (internal quotation 
+marks omitted). 
+
+Petitioners also assert that the two-stage review 
+mechanism created by the 1991 Amendments is consti- 
+tutionally indistinguishable from “report-and-wait” 
+statutes, whose propriety is well established. Pet. 15-16; 
+see, e.g., Alaska Airlines, Inc. v. Brock, 480 U.S. 678, 
+689-690 & n.12 (1987); Chadha, 462 U.S. at 935 n.9. That 
+contention is without merit. Under “report-and-wait” 
+statutes, the category of agency actions whose 
+implementation is delayed is defined by the statute itself. 
+Such statutes are consistent with the principle that 
+congressional actions “altering the legal rights, duties, 
+and relations of persons * * * outside the Legislative 
+Branch,” Chadha, 462 U.S. at 952, must be effected 
+through the passage of legislation. Under the amended 
+Transfer Act, by contrast, an agent of Congress 
+determines which of the Authority’s actions will and will 
+not be subject to delay, thus permitting Congress to 
+alter legal rights and duties without complying with 
+the bicameralism and presentment requirements of 
+Article I. 
+
+As the court of appeals pointed out (Pet. App. 12a), 
+moreover, this distinction has significant practical 
+
+
+15 
+
+
+effects. Report-and-wait statutes do not affect the 
+outcome of administrative decisionmaking, because they 
+require specified categories of administrative decisions 
+to be presented for congressional review automatically, 
+without regard to the specific outcome of those 
+decisions. But the amended Transfer Act, by giving an 
+agent of Congress discretion to trigger congressional 
+review on a case-by-case basis, reserves the congres- 
+sional review process for decisions with which the Board 
+disagrees. If the Authority yields to the Board’s views, 
+it may act immediately; if it resists, it must wait a 
+potentially prohibitive length of time. The Act thus 
+gives the Board, as Congress’s agent, a form of control 
+over the actual content of the Authority’s decisions that 
+is qualitatively different from that created by report- 
+and-wait statutes. 
+
+Finally, petitioners argue (Pet. 17-20) that the 
+decision of the court of appeals conflicts with Ameron, 
+Inc. v. United States Army Corps of Engineers, 809 F.2d 
+979 (3d Cir. 1986), cert. dismissed on motion of parties, 
+488 U.S. 918 (1988), and Lear Siegler, Inc. v. Lehman, 842 
+F.2d 1102 (1988), withdrawn in part on other grounds, 893 
+F.2d 205 (9th Cir. 1989) (en banc). Under the statute 
+upheld in Ameron and Lear Siegler—the Competition in 
+Contracting Act of 1984 (CICA), 31 U.S.C. 3551 et seq.— 
+if a disappointed government contract bidder files a 
+protest with the Comptroller General, the award of the 
+protested contract is automatically stayed pending an 
+investigation by the Comptroller General. The 
+Comptroller General can take up to 90 days to complete 
+his investigation, but he can lift the stay earlier if he 
+finds the protest frivolous or facially invalid. The CICA 
+expressly allows the procuring agency to override the 
+stay, regardless of the status of the Comptroller 
+General’s investigation, if the agency determines that 
+
+
+16 
+
+
+“urgent and compelling circumstances” require a 
+prompt award. See Pet. App. 13a (describing the CICA). 
+
+As explained in the briefs for the petitioner in this 
+Court in Ameron, we disagree with the holdings in 
+Ameron and Lear Siegler that the challenged provisions 
+of the CICA are constitutional, since they give an agent 
+of Congress (the Comptroller General) the power to 
+control the timing of a contract entered into by an 
+Executive agency. Moreover, as the court of appeals 
+explained (Pet App. 13a-15a), the statutory provisions at 
+issue here are distinguishable because the amended 
+Transfer Act vests the Board with significantly greater 
+control over the Authority than the CICA gives the 
+Comptroller General over procuring agencies. See Pet. 
+App. 14a-l5a. First, the Board is not dependent on 
+requests from non-governmental third parties to trigger 
+its review powers; it may review on its own initiative any 
+of the decisions specified in the amended Transfer Act. 
+Second, the amended Transfer Act does not permit the 
+Authority to override the Board by pretermitting the 
+review process. If the Authority disagrees with the 
+Board’s recommendations, it must wait until the lengthy 
+process of congressional review has run its course, even 
+if (as often will be the case) the resulting delay will 
+effectively block the proposed action. 
+
+Petitioners attempt to minimize the differences 
+between the two statutory schemes (Pet. 20), but their 
+efforts are unavailing. It is hardly “irrelevant” to the 
+scope of the Board’s authority (7bid.) that the Board is 
+free to act on its own initiative rather than being 
+dependent on a request from a private party. And while 
+the amended Transfer Act unquestionably does “specify 
+precisely the areas subject to review and recom- 
+mendation” (ibid.), the decisions that it specifies are the 
+most important ones that the Authority can make, and 
+
+
+17 
+
+
+they are highly time-sensitive as well. Thus, the fact 
+that Congress has “limited” the Board’s oversight to 
+matters such as annual budgets, bonding decisions, and 
+hours of airport operations hardly provides the kind of 
+safety valve contained in the stay override provision of 
+the CICA. 
+
+3. Although we agree with the court of appeals that 
+the role of the Board of Review under the amended 
+Transfer Act is unconstitutional, we believe that the 
+petition for a writ of certiorari should be granted. 
+Invalidating an Act of Congress on constitutional 
+grounds is “the gravest and most delicate duty that [a 
+court] is called on to perform,” Blodgett v. Holden, 275 
+U.S. 142, 147-148 (1927) (Holmes, J.), and when a lower 
+court finds it necessary to perform that duty, review by 
+this Court is ordinarily called for. Although we believe 
+that the 1991 Amendments to the Transfer Act fail to 
+cure the defects identified in CAAN and to render the 
+Act constitutional, we do not believe that the inadequacy 
+of the Amendments is so clearly beyond dispute as to 
+eliminate the need for this Court’s review. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted. 
+
+
+DREw S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+WILLIAM KANTER 
+ScoTT R. MCINTOSH 
+Attorneys 
+
+
+JANUARY 1995 
+
+

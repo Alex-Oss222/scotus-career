@@ -1,0 +1,1968 @@
+ar 
+
+
+No. 94-431 
+~sne yas ma 08 
+Jn the Supreme Court of the CiutedSrates 
+
+
+OCTOBER TERM, 1994 
+
+
+JAMES D. RYDER, PETITIONER 
+v. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE ARMED FORCES 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+DREWS. DAYS, III 
+Solicitor General 
+
+
+ye - ary ie , MICHAEL R. DREEBEN 
+COINS IONS ae Ses Deputy Solicitor General 
+
+
+for Litigation 
+MALCOLM L. STEWART 
+
+
+Department of =. 
+Transportation Assistant to the Solicitor 
+
+
+Washington, D.C. 20590 General | 
+C os J. BENN ; Department of Justice 
+HARLES J. BENNARDINI Washington, D.C. 20530 
+
+
+Lieutenant Commander, (202) 514-2217 
+USCG 
+
+Senior Appellate Government 
+Counsel 
+
+JOHN F. KOEPPEN 
+
+Lieutenant Commander, 
+USCG 
+
+Appellate Government Counsel 
+Commander (G-LMJ) 
+
+United States Coast Guard 
+
+Washington, D.C. 20593 
+
+
+QUESTION PRESENTED 
+
+
+Whether the United States Court of Military Appeals 
+correctly affirmed petitioner’s conviction despite its 
+conclusion that the civilian members of the Coast Guard 
+Court of Military Review had been selected for their 
+positions in violation of the Appointments Clause of the 
+Constitution, Art. II, § 2, Cl. 2. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+eas cee niclensvecscacenesacssenuensenccmecnsveces l 
+asec bii cnn tcddacdsancsevéesisecoreseacerecerecouneees | 
+Constitutional provision involved ........0.0...cccccccceeeeceseeeceeee. . 2 
+ete se deiieyevisbecadncsnaessenessvasiaaceseocecsccecsoeeeeeees 2 
+PA. WRMCMPY FUSLICE OVEFViEW ................000cccccccsececconcsesseee. 2 
+B. The Coast Guard Court of Military Review ............... 6 
+ET oa cskcssesasaccuysoessvecessvessversiuseacossosseceess cj 
+a SS 10 
+
+
+Argument: 
+The acts of the civilian judges who reviewed petitioner's 
+conviction should be accorded de facto validity despite 
+the existence of an Appointments Clause violation .......... 13 
+I. A defect in an officer’s appointment does not 
+mandate that the officer’s acts be invalidated when 
+
+
+that result is contrary to the public interest ............ 13 
+II. The civilian judges’ past judicial acts were 
+correctly determined to be de facto valid ................ 22 
+
+
+Ill. The decision of the Court of Military Appeals does 
+not violate the constitutional prohibition against 
+advisory opinions, and it is consistent with this 
+Court’s decision in Griffith v. Kentucky .................. 31 
+ess ssn ssnicabeiwacevehivdecnsuierexeveseseceevee. 36 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Allen v. State Board of Elections, 393 U.S. 544 
+
+
+ee nc ucundcoimbcacedehvasavces 16 
+American Trucking Ass’ns v. Smith, 496 U.S. 167 
+
+ae as ldensp bene snncadbsinckdecuarevesccuceecees 19, 35 
+Ball v. United States, 140 U.S. 118 (1891) .................... 15 
+Batson v. Kentucky, 476 U.S. 79 (1986) voeccccccccccccccceeeee 34, 35 
+Buckley v. Valeo, 424 U.S. 1 (1976) ... 10, 13, 14, 16, 17, 18, 22 
+Butler v. McKellar, 494 U.S. 407 (1990) ....................... 20, 30 
+Chevron Oil Co. v. Huson, 404 U.S. 97 (1971) ............-.. 16 
+
+
+(11) 
+
+
+lV 
+
+
+Cases—Continued: Page 
+Cipriano v. City of Houma, 395 U.S. TOL (1969) oo... 16, 17 
+Coleman v. Thompson, 501 U.S. 722 A991) woe 2% 
+Douglas v. California, 372 U.S. 358 (19638) oo... eee eeeee 27, 28 
+Dynes v. Hoover, 61 U.S. (20 How.) 65 (1857) 0.0.0.0... 32 
+BREOC vy. Sears, Roebuck & Co., 650 F.2d 14 (2d Cir. 
+
+1 Ra REE RL Ce Re ORE DN a ee RONEN Ax BLU AC PED Me eens 15 
+England v. Louisiana State Board of Medical 
+
+BE raminwers, SID US. SEE CEGGED vocccccsvccsccsccsedscccssvceces 16 
+Evitis v. Lucey, 469 U.S. 387 (1985) .........ccccccccsssecesevee: 27 
+Freytag v. Commissioner of Internal Revenue, 5O1 U.S. 
+
+a I ba hkiccrcasisphimecacdeessntsis teak eoensiseuasanes 11-12, 22, 23, 28 
+Glidden Co. v. Zdanok, 370 U.S. 530 (1962) ...... es 25, 26, 28 
+Goeke v. Branch, No. 94-898 (Mar. 20, 1995) ................ 26 
+Green v. Skulute, 8389 F. Supp. 797 (D. Wyo. 1993) ....... 3 
+Griffin v. Illinois, 351 U.S. 12 (1956) wo... cece eeeeeeeees 27 
+Griffith v. Kentucky, 479 U.S. 314 (1987) .... 13, 19, 29, 34, 35 
+Harlow v. Fitzgerald, 457 U.S. 800 (1982) .................0 20 
+Harper v. Virginia Dep't of Taration, 113 8S. Ct. 2510 
+
+RRA a RO Re Sa OR i Ott ee oe NR 19, 34 
+James B. Beam Distilling Co. v. Georgia, 501 U.S. 529 
+
+CU UPENE T "ieakandamaacesveuensis via ueokenescavenianineneaiass ieucatei 11, 18, 19, 34 
+Jones ¥. Barnes, 463 U.S. TE (UGB) coccccccccccscccccecvcsceves 26 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803) ...... 33, 34 
+McDowell vy. United States, 159 U.S. 596 (1895) ........... 15, 16 
+McKane v. Durston, 153 U.S. 684 (1894) ..................00.. 26 
+Middendorf v. Henry, 425 U.S. 25 (1976) wees 29 
+Mistretta v. United States, 488 U.S. 361 (1989) ........... 22 
+Northern Pipeline Construction Co. v. Marathon Pipe 
+
+EAME CO.g SOB UTS, TP CHG! chcnwccacsssisncsstecsssaseczcioncs 16, 17, 32 
+Norton v. Shelby County, 118 U.S. 425 (186) ........ ni See oe 
+Ortwein v. Schwab, 410 U.S. 656 (1973) ..................sc00e. 26 
+Parker Vv. Levey, S30 Wi. FOO CRG IED vccccscoscserescsucsecrsseies 2% 
+Penry v. Lynaugn, 492 U.S. BOS (1989) .....cccceccceccsscsceses 20 
+
+
+Preiser v. Newkirk, 422 U.S. 395 (1975) ...................000. 
+
+
+Cases—Continued: Page 
+
+
+Ryan v. Tinsley, 316 F.2d 430 (0th Cir.), appeal 
+
+
+dismissed, cert. denied, 375 U.S. 17 (1963) ............... — 16 
+Saint Francis College vy. Al-Khazraji, 481 U.S. 604 
+
+CROMEE © pacnicvhsidddatisussssunduerddbensiaeaa dans eke 16 
+Schlesinger v. Councilman, 420 U.S. 738 (1975) ............ 30-3 
+Solorio v. United States, 483 U.S. 435 CED cedkncexanscuss 26, 28 
+Teague v. Lane, 489 U.S. 288 (1989) ...cccccccccccccccecceoccecee. 30 
+United Public Workers v. Mitchell, 330 U.S. 75 (1947) .. 3 
+United States v. Augenblick, 393 U.S. 348 (1969) ......... 30 
+United States vy. Carpenter, 37 M.J. 291 (C.M.A. 1993), 
+
+petition for cert. pending, No. 93-676 o...ccccccccccecccceeceee. 6, 7, 9, 
+
+10, 14, 20, 21, 25, 30, 35 
+
+United States vy. Cole, 31 M.J. 270 (C.M.A. 1990) ....cc00. 5 
+United States v. Estate of Donnelly, 397 U.S. 286 
+
+GRINS UE Asuka cictausiniiccdmimonieaedelca a baa ae 20 
+United States v. Kovac, 36 M.J. 521 (C.G.C.M.R. 1992), 
+
+aff’d mem., 39 M.J. 29 (C.M.A. 1993) .....ccccccccccccceeeeee- 6, 7 
+United States v. Leon, 468 U.S. 897 (1984) ................... 20, 33 
+United States v. Munoz-Flores, 495 U.S. 385 (1990) ..... 2° 
+United States v. Prive, 35 M.J. 569 (C.G.C.M.R. 1992), 
+
+aff’d mem., 39 M.J. 28 (C.M.A. 1993) .....ccccccccecececeeeee- & 
+United States v. Townsend, petition for review 
+
+granted in part, 41 M.J. 121 (C.M.A. 1994) .0..0.0.0000.0.... 30 
+United States ex rel. Doss v. Lindsley, 148 F.2d 22 
+
+(7th Cir.), cert. denied, 325 U.S. 858 (1945) ................. 11,15 
+
+
+United States National Bank of Oregon v. Independent 
+Insurance Agents of America, Inc., 113 S. Ct. 2173 
+
+
+RSOWON. ciniskimploansiopntenniviecahnnsentimenpiepaneaeae ne 32 
+Wainwright v. Sykes, 483 U.S. 72 (1977) cocccccccccccccccccee. 30 
+Waite v. City of Santa Cruz, 184 U.S. 302 (1902) ......... 15 
+Weiss v. United States, 114 S. Ct. 752 (1994) .............. 2, 4, 9, 
+
+
+Constitution and statutes: 
+
+
+U.S. Const. : 
+Be he ag POE POPP ERI OTM A Rta yeh Z 
+
+
+Vi 
+
+
+Constitution and statutes—Continued: 
+
+
+Page 
+
+
+a EE A OS I acti Gl eastua siisnadaendaUnadawemedsakuaaeiades 2 
+Art. Il, § 2, Cl. 2 (Appointments Clause) «20.00.0000... passim 
+FE PRs REA emir ene mec een eee 12, 16, 18, 20, 25, 31, 32 
+
+
+(ee ERI e Re HRD ie Stee DPS ot AUREL ORE eetat we 
+Military Justice Act of 1968, Pub. L. No. 90-682, 82 Stat. 
+
+
+30) 
+I a 8 ee 
+ee ge RR” | Ree Le rene senecione aa mer eee 
+
+
+National Defense Authorization Act for Fiscal Year 
+1995, Pub. L. No. 103-337, § 924, 108 Stat. 2831-2832 ...... 
+Uniform Code of Military Justice, 10 U.S.C. 801 et seq.: 
+
+
+Ry Oe Wet RD. sai cscevedkaxcacenides sudivarciienciien 
+i Ns A A x TROL WE cca chs ssSne bau Ansaaaaa sueueiasaaes 
+er. OU UEE a ssacsianciociacemtedinensheummubacate 
+es Ee S.A ess IED cxcddenasdcccsasinrnchcdattueseeneneurs 
+ge Ae ME vice uch nduncvavandescbaecsinadnesccadiasicn 
+a FI a I acc a sathsrnitknudhsusatuniinabessdccdeineskons 
+ne PO oa scenic bids ecduennenanemnnen 
+se SR oe SOD xc diccahcbscnssponkacnsseectnaksenaammanepcnenn 
+EE NEP Et ar ME soos vidio cocdusaruadereeswaneeeeenneds 
+Ey ee © ee SO 6s ces nt cam nieenduaawouiveneuretin 
+ne ET a  cetpeuaaiuameeaink 
+ae Se Ee ae TN 2 vnc < con supecdandhadabudvedunpieinerens 
+a Rs SED yoo ccbetskencnnmasoncunner 
+Ast... Gi, 50 UBL, GET Cm Vi IGG) ovcecccccccevcccicssse: 
+a ce uae biac ee ues 
+Ry Be cei irs RIED sivvtiveviccnniecicsspesnssonpeesisionies 
+i es - WI cia caspkccchaninnbaabannibpnsaceateianeness 
+Art. 142, 10 U.S.C. 142 (Supp. V 1998) ...................0.. 
+Voting Rights Act of 1965, § 5, 42 U.S.C. 1978¢ ...... 
+Oe SPA. BORON S) Cea, Vo TOG) vvivcccecevcccencsvesenssccocseee 
+
+
+10 
+10 
+10 
+10 
+14 
+14 
+49 
+
+
+i a ee ee ee eae 
+I.S.C. 3037 
+).S.C. 5148 
+S.C. 8037 
+fae. 2 
+0.2 
+La. 32 
+
+
+— eet et et 
+
+
+~ 
+< 
+—s 
+< 
+~ 
+— 
+to 
+SIN A & OW a) —_~ 
+
+
+> 
+20, 33 
+
+
+VII 
+
+
+Miscellaneous: Page 
+
+
+Index and Legislative History, Uniform Code of Military 
+
+Justice (1950) 5 
+Uniform Code of Military Justice. Hearings on H.R. 2498 
+
+Before the Subcomm. of the House Armed Services 
+
+Comm., 81st Cong., Ist Sess. (1949) § 
+
+
+Jn the Supreme Court of the Wnited States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-431 
+JAMES D. RYDER, PETITIONER 
+U 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE ARMED FORCES 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Military 
+Appeals (now called the United States Court of Appeals 
+for the Armed Forces) (Pet. App. la-10a) is reported at 39 
+M.J. 454. The initial opinion of the United States Coast 
+Guard Court of Military Review (now called the United 
+States Coast Guard Court of Criminal Appeals) (Pet. 
+App. 1la-22a) is reported at 34 M.J. 1077. The opinion of 
+the Coast Guard Court of Military Review on recon- 
+sideration (Pet. App. 23a-25a) is reported at 34 M.J. 1259. 
+
+JURISDICTION 
+
+
+The judgment of the United States Court of Military 
+Appeals was entered on June 23, 1994. The petition for a 
+writ of certiorari was filed on September 9, 1994, and was 
+
+
+(1) 
+
+
+Z 
+
+
+granted on January 6, 1995. 115 S. Ct. 713. The juris- 
+diction of this Court rests on 28 U.S.C. 1259(8) (Supp. V 
+1993). 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The Appointments Clause of the Constitution, Art. I], 
+§ 2, Cl. 2, provides as follows: 
+
+
+[The President] * * * shall nominate, and by and 
+with the Advice and Consent of the Senate, shall 
+appoint Ambassadors, other public Ministers and 
+Consuls, Judges of the supreme Court, and all other 
+Officers of the United States, whose Appointments 
+are not herein otherwise provided for, and which 
+shall be established by Law: but the Congress may 
+by Law vest the Appointment of such inferior 
+Officers, as they think proper, in the President alone, 
+in the Courts of Law, or in the Heads of 
+Departments. 
+
+STATEMENT 
+
+A. Military Justice Overview 
+
+Pursuant to Article I of the Constitution, Congress 
+has established three tiers of military courts. See U.S. 
+Const. Art. I, § 8, Cl. 14; see Weiss v. United States, 114 
+S. Ct. 752, 755-756 (1994). At the trial level are the 
+courts-martial, of which there are three types: sum- 
+mary, special, and general. The summary court-martial 
+adjudicates only minor offenses, has jurisdiction only 
+over enlisted service members, and can be conducted oniy 
+with their consent. It is presided over by a single com- 
+missioned officer who can impose up to one month of 
+confinement and other relatively modest punishments. 
+Arts. 16(3), 20, Uniform Code of Military Justice 
+(UCMJ), 10 U.S.C. 816(8), 820. 
+
+
+> J 
+e 
+
+
+The special court-martial usually consists of a 
+military judge and three court-martial members, | 
+although the Code allows the members to sit without 
+a judge, or the accused to elect to be tried by the judge 
+alone. Art. 16(2), UCMJ, 10 U.S.C. 816(2). A special 
+court-martial has jurisdiction over most offenses under 
+the UCMJ. The maximum punishment that it may 
+impose, however, is six months’ confinement, three 
+months of hard labor without confinement, a bad-conduct 
+discharge, partial and temporary forfeitures of pay, anda 
+reduction in rank. Art. 19, UCMJ, 10 U.S.C. 819. 
+
+The general court-martial consists of either a military 
+Judge and at least five members, or the judge alone if 
+the accused so requests. Art. 16(1), UCMJ, 10 U.S.C. 
+816(1).” A general court-martial has jurisdiction over all 
+offenses under the UCMJ and may impose any lawful 
+sentence, including death. Art. 18, UCMJ, 10 U.S.C. 818. 
+
+The military judge acts as presiding officer at a 
+special or general court-martial. Art. 26, UCMJ, 10 
+U.S.C. 826. The judge rules on all legal questions and 
+instructs court-martial members regarding the law and 
+procedures to be followed. Art. 51, UCMJ, 10 U.S.C. 851. 
+The members decide guilt or innocence and impose 
+sentence unless the trial is before the judge alone. /bid. 
+No sentence imposed becomes final until it is approved by 
+the officer who convened the court-martial. Art. 60, 
+UCMJ, 10 U.S.C. 860. 
+
+
+' Court-martial members may be officers or enlisted personnel, 
+depending on the military status of the accused: the members’ 
+responsibilities are analogous to, but somewhat greater than, those 
+of civilian jurors. See Art. 25, UCMJ, 10 U.S.C. 825. 
+
+* The position of military judge has officially existed only since 
+passage of the Military Justice Act of 1968, Pub. L. No. 90-632, § 9, 
+82 Stat. 1336. 
+
+
+4 
+
+
+Military trial judges must be commissioned officers of 
+the armed forces and members of the bar of a federal 
+court or a State’s highest court. Art. 26, UCMJ, 10 
+U.S.C. 826. All commissioned officers are appointed by 
+the President with the advice and consent of the Senate. 
+See 10 U.S.C. 531 (Department of Defense); 14 U.S.C. 211 
+(Coast Guard). The judges are selected and certified as 
+qualified by the Judge Advocate General of their branch 
+of the armed forces.’ The judges do not serve for fixed 
+terms and may perform judicial duties only when 
+assigned to do so by the appropriate Judge Advocate 
+General. This Court has found the manner of as- 
+signment of commissioned officers as trial judges by the 
+Judge Advocate General to be consistent with the 
+requirements of the Appointments Clause of the Con- 
+stitution, Art. II, § 2, Cl. 2. Weiss, 1148S. Ct. at 759. 
+
+At the next tier are the four Courts of Criminal 
+Appeals (formerly known as Courts of Military Re- 
+view),’ one each for the Army, Air Force, Coast Guard, 
+
+
+% In the Coast Guard, the Judge Advocate General is-the 
+General Counsel of the Department of Transportation, Art. 1(1), 
+UCMJ, 10 U.S.C. 80101), while the Judge Advocate General for 
+the Army, Navy, Marine Corps, and Air Force is the principal 
+legal officer for that service. See 10 U.S.C. 3037 (Army); 10 
+U.S.C. 5148 (Navy-Marine Corps); 10 U.S.C. 8037 (Air Force). 
+Although the Coast Guard is an “agency” within the Department 
+of Transportation, it is also an armed service at all times. See 10 
+U.S.C. 101(a)(4); 14 U.S.C. 1. 
+
+4 Effective October 5, 1994, Section 924 of the National Defense 
+Authorization Act for Fiscal Year 1995, Pub. L. No. 103-337, 108 
+Stat. 2831-2832, redesignated the several Courts of Military Review 
+as Courts of Criminal Appeals. Section 924 also redesignated the 
+Court of Military Appeals—the highest court within the military 
+justice system—as the Court of Appeals for the Armed 
+Forces. For the sake of clarity, this brief will refer to those 
+courts as the Coast Guard Court of Military Review and the Court 
+
+
+5 
+
+
+and Navy-Marine Corps. Those courts, which usually sit 
+in three-judge panels, review all cases in which the 
+sentence imposed exceeds one year of confinement, 
+involves the dismissal of a commissioned officer, or 
+involves the punitive discharge of an enlisted service 
+member. Art. 66, UCMJ, 10 U.S.C. 866. The courts may 
+review de novo both factual and legal findings,* and they 
+may overturn convictions and sentences. [bid. 
+
+The position of appellate military judge first came into 
+existence with the creation of the Courts of Military 
+Review by the Military Justice Act of 1968, Pub. L. No. 
+90-632, § 27, 82 Stat. 1341. Appellate judges may be com- 
+missioned officers or civilians, but each must be a 
+member of a bar of a federal court or of a State’s highest 
+court. Art. 66, UCMJ, 10 U.S.C. 866.° The judges are 
+selected and assigned to serve by the appropriate Judge 
+Advocate General. bid. Like military trial judges, 
+
+
+of Military Appeals—their names at the time they ruled on 
+petitioner’s case. 
+
+* As the Court of Military Appeals has noted, “{tJhis awesome, 
+plenary, de novo power of review grants unto the Court of Military 
+Review authority to, indeed, substitute its judgment for that of the 
+[trial] court members.” United States v. Cole, 31 M.J. 270, 272 
+(1990) (internal quotation marks omitted). 
+
+* Article 66(a) of the UCMJ expressly authorizes the service of 
+civilian judges on the Courts of Military Review. See 10 U.S.C. 
+866(a) (“Appellate military judges who are assigned to a Court of 
+Military Review may be commissioned officers or civilians.”). The 
+legislative history indicates that the use of civilian judges was 
+authorized by Congress at the request of the Coast Guard, which 
+desired the flexibility, due to its small number of lawyers, to 
+appoint a civilian judge to the court. See Uniform Code of 
+Military Justice: Hearings on H.R. 2498 Before the Subcomm. of 
+the House Armed Services Comm., 81st Cong., Ist Sess. 1189 (1949), 
+reprinted in Index and Legislative History, Uniform Code of 
+Military Justice (1950). 
+
+
+6 
+
+
+appellate judges do not serve for a fixed term. With the 
+exception of the two retired commissioned officers on the 
+Coast Guard Court who serve in a civilian capacity, all 
+appellate military judges in all of the military services 
+are commissioned officers. 
+
+Atop the system is the Court of Appeals for the Armed 
+Forces (formerly known as the Court of Military 
+Appeals, see note 4, supra). That court consists of five 
+civilian judges who are appointed by the President, with 
+the advice and consent of the Senate, for fixed terms of 15 
+years. Arts. 67, 142, UCMJ, 10 U.S.C. 867, 942 (Supp. V 
+1993). 
+
+B. The Coast Guard Court of Military Review 
+
+The Coast Guard Court of Military Review is 
+composed of five appellate judges, three of whom are 
+active-duty commissioned officers in the pay grade of 
+Q-6. United States v. Carpenter, 37 M.J. 291, 293-295 
+(C.M.A. 1993), petition for cert. pending, No. 93-676 (filed 
+Oct. 29, 1993). The other two members of the court are 
+“civilians,” serving in the civilian pay grade of GS-15. 
+Those two judges—Chief Judge Joseph H. Baum and 
+Associate Judge Alfred F. Bridgman, Jr.—are retired 
+commissioned officers who attained the military pay 
+grade of O-6 before retirement. /Uid.; United States v. 
+Kovac, 36 M.J. 521, 525 (C.G.C.M.R. 1992), aff’d mem., 39 
+M.J. 29 (C.M.A. 1993). 
+
+
+* Both Chief Judge Baum and Associate Judge Bridgman were 
+first assigned as appellate military judges while still on active duty. 
+Chief Judge Baum was assigned to the Navy-Marine Corps Court 
+of Military Review in 1976 as an active-duty Navy Captain. 
+Kovac, 36 M.J. at 526. He served in that capacity until 1982, when 
+he retired from active duty. /bid. Associate Judge Bridgman was 
+appointed to the Coast Guard Court of Military Review in 1975, 
+while still on active duty. Jbid. He served in that capacity until 
+his retirement from active duty in 1977. Jbid. After his 
+
+
+7 
+
+
+Before January 15, 1993, members of the Coast Guard 
+Court of Military Review were appointed by the General 
+Counsel of the Department of Transportation, who is 
+also the Judge Advocate General for the United States 
+Coast Guard. Carpenter, 37 M.J. at 294; see note 3, 
+supra.” On that date, the Secretary of Transportation 
+issued a memorandum stating that “(t]he assignment of 
+appellate military judges to the Coast Guard Court. of 
+Military Review, as reflected in the General Counsel’s 
+memo of April 20, 1992, is adopted this date as judicial 
+appointments of my own.” See Carpenter, 37 M.J. at 294 
+n.1, 300. 
+
+C. The Instant Case 
+
+Petitioner, a member of the United States Coast 
+Guard, was convicted at a general court-martial of 11] 
+specifications of marijuana use, three specifications of 
+use of lysergic acid diethylamide (LSD), one specifi- 
+cation of cocaine use, one specification of soliciting 
+Coast Guard personnel to use LSD, and one specification 
+of soliciting Coast Guard personnel to distribute LSD, in 
+violation of Articles 112a and 134 of the UCMJ, 10 U.S.C. 
+Y12a, 934. Pet. App. 12a, 24a. He was sentenced to five 
+years’ confinement, forfeiture of $699 per month for 60 
+months, reduction to the lowest enlisted pay grade (K-1), 
+and a dishonorable discharge from the Coast Guard. Jd. 
+at 2a. The convening authority reduced the period of 
+confinement to three years and the period of forfeitures 
+
+
+retirement, he was again assigned to the same court in 1978 and 
+has served continuously since that time. bid. 
+
+
+“ The Judge Advocate General is authorized to “establish a 
+Court of Military Review” and to “designate” one of the appellate 
+military judges as chief judge. Article 66(a), UCMJ, 10 U.S.C. 
+866(a). 
+
+
+i 
+a | 
+
+
+8 
+
+
+to three years but approved the adjudged sentence in all 
+other respects. /bid. 
+
+Petitioner appealed to the Coast Guard Court of 
+Military Review. He contended that (1) his convictions 
+resulted from the improper admission of evidence, (2) his 
+sentence was disproportionately harsh, and (3) he had 
+been denied effective assistance of counsel. See Pet. App. 
+12a-13a. When petitioner’s appeal was heard, the judges 
+of the Coast Guard Court of Military Review were serv- 
+ing pursuant to appointments by the General Counsel. 
+Petitioner’s panel consisted of Chief Judge Baum and 
+Associate Judge Bridgman, the civilian judges, and Judge 
+Shkor, a commissioned officer. /d. at 12a, 24a. 
+
+The court affirmed petitioner’s convictions and sen- 
+tence. Pet. App. lla-22a. In response to petitioner’s 
+motion, the court ordered reconsideration of its decision. 
+See id. at 24a. On reconsideration, petitioner argued, 
+inter alia, that the method of assigning judges to the 
+Court of Military Review violated the Appointments 
+Clause of the Constitution. The court rejected that 
+contention on the authority of United States v. Prive, 35 
+M.J. 569 (C.G.C.M.R. 1992), aff’d mem., 39 M.J. 28 (C.M.A. 
+1993). Pet. App. 24a-25a. 
+
+Approximately one year later, the Court of Military 
+Appeals held in Carpenter that the method by which the 
+Chief Judge of the Coast Guard Court of Military Review 
+had been selected before January 15, 1993, violated the 
+Appointments Clause. The government argued in that 
+case that “because the Chief Judge of the Coast Guard 
+Court of Military Review is a retired Navy captain, he is 
+already an Officer of the United States by virtue of his 
+military commission, so he does not need a second 
+judicia! appointment to serve as an appellate military 
+judge.” 37 M.J. at 294-295. The Court of Military 
+Appeals rejected that contention on two bases. First, the 
+
+
+9 
+
+
+court stated that “Chief Judge Baum is not acting in his 
+‘apacity as a Navy captain when he sits as an appellate 
+military judge,” explaining that “the billet for the Chief 
+Judge is a civilian billet” and that the Chief Judge “is 
+paid as a civilian employee.” /d. at 295. Second, the court 
+found that “Chief Judge Baum’s duties as Chief Judge 
+are not ‘germane’ to the duties of a retired Navy officer.” 
+Ibid. Accordingly, the court concluded that the selection 
+of a civilian as Chief Judge by the Judge Advocate 
+General, who was not the “Head|] of [a] Department| },” 
+violated the Appointments Clause. Jd. at 294.’ 
+
+The Court of Military Appeals concluded, however, 
+that Carpenter’s conviction and sentence should be 
+
+
+* This Court concluded in Weiss v. United States, 114 S. Ct. 
+752, 757 (1994), that “those serving as military judges must be 
+appointed pursuant to.the Appointments Clause.” All of the trial 
+and appellate judges whose appointments were at issue in Weiss 
+were active-duty commissioned officers—a position that requires 
+appointment by the President with the advice and consent of the 
+Senate. See ibid. This Court recognized that Congress, in Articles 
+25 and 66 of the UCMJ, 10 U.S.C. 826, 866, did not require a 
+second appointment to the position of military judge before the 
+assumption of judicial duties. 114 S. Ct. at 760. The Court also 
+concluded that the Appointments Clause itself does not require a 
+second appointment before military officers may discharge the 
+duties of military judge. Ibid. The Court noted, however, that 
+“[t]he constitutionality of the provision allowing civilians to be 
+assigned to Courts of Military Review, without being appointed 
+pursuant to the Appointments Clause, obviously presents a 
+different question.” Jd. at 757 n.4 (citing Art. 66(a), UCMJ, 10 
+U.S.C. 866(a)). The government does not contest the holding in 
+Carpenter that the manner in which the civilian judges of the 
+Coast Guard Court of Military Review had been selected before 
+January 15, 1993, violated the Appointments Clause. 
+
+
+10 
+
+
+affirmed despite the constitutional flaw in the appoint- 
+ment process. The court explained: 
+
+
+We next turn to the question of the effect of the 
+Chief Judge’s defective appointment. Just as the acts 
+of the federal election commissioners were accorded 
+de facto validity in Buckley v. Valeo, 424 U.S. [1,] 142 
+[((1976) (per curiam)], * * * we hold that the judicial 
+acts of the Chief Judge are entitled to de facto 
+validity. Accordingly, we hold that the decision of 
+the Court of Military Review in this case is valid, 
+notwithstanding the defective appointment of the 
+Chief Judge. 
+
+
+Carpenter, 37 M.J. at 295. 
+
+In the present case, petitioner argued in the Court of 
+Military Appeals that the appellate review of his court- 
+martial by the Court of Military Review should be set 
+aside on the ground that the two civilian judges of 
+the Court of Military Review who participated in his 
+case were unconstitutionally appointed. Relying on 
+Carpenter, the Court of Military Appeals declined to 
+afford him relief on that basis. Pet. App. 2a n.1. The 
+Court of Military Appeals also rejected petitioner’s 
+contention that his convictions had been based on 
+improperly admitted evidence. See id. at la-10a. The 
+Court of Military Appeals therefore affirmed the 
+judgment of the Coast Guard Court of Military Review. 
+Id. at 10a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. The Court of Military Appeals correctly applied 
+Buckley v. Valeo, 424 U.S. 1, 142 (1976) (per curiam), in 
+holding that the prior judicial acts of the civilian judges 
+of the Coast Guard Court of Military Review should be 
+accorded de facto validity. It has long been the law, 
+
+
+1] 
+
+
+under the de facto officer doctrine, that “lal person 
+actually performing the duties of an office under color of 
+title is an officer de facto, and his acts as such officer are 
+valid so far as the public or third parties who have an 
+interest in them are concerned.” United States ex rel. 
+Doss v. Lindsley, 148 F.2d 22, 23 (7th Cir.), cert. denied, 
+38259 U.S. 858 (1945). The de facto officer doctrine “is 
+founded upon considerations of policy and necessity, for 
+the protection of the public and individuals whose 
+interests may be affected thereby.” Norton vy. Shelby 
+County, 118 U.S. 425, 441 (1886). 
+
+Similar concerns have led this Court to determine, in 
+appropriate cases, that decisions regarding the legality 
+of an officer’s appointment or exercise of power should be 
+given prospective application only. The Court in such 
+decisions “has never been required to distinguish the 
+remedial from the choice-of-law aspect of its decision,” 
+James B. Beam Distilling Co. v. Georgia, 501 U.S. 529, 
+936 (1991) (opinion of Souter, J.). In this case, the 
+decision of the Court of Military Appeals to accord de 
+facto validity to the acts of civilian members of the Coast 
+Guard Court of Military Review, despite the Appoint- 
+ments Clause violation, should be understood to rest on 
+remedial rather than on choice-of-law principles. The 
+Court of Military Appeals acknowledged that an 
+Appointments Clause violation had occurred: it simply 
+determined that the unconstitutional manner of the 
+civilian judges’ appointments did not entitle a defendant 
+to vacatur of the Coast Guard Court of Military Review’s 
+decisions. 
+
+2. The Appointments Clause reinforces the “strue- 
+tural integrity” of the Constitution by preventing the 
+encroachment of one branch of government upon another 
+and “by preventing the diffusion of the appointment 
+
+
+’ 
+
+
+power.” Freytag v. Commissioner of Internal Revenue, 
+
+
+12 
+
+
+501 U.S. 868, 878 (1991). The purpose of the Appoint- 
+ments Clause is not principally to safeguard individual 
+rights and liberties. Nor is there is any reason to 
+believe that the constitutional violation in this case 
+affected the outcome of petitioner’s appeal. 
+
+Jecause petitioner’s personal rights were not violated, 
+and he indeed possessed no constitutional entitlement to 
+appellate review of any sort, vacatur of the decision of 
+the Coast Guard Court of Military Review could be 
+defended only as a means of increasing the incentive for 
+litigants to raise Appointments Clause challenges, 
+thereby decreasing the likelihood that violations would 
+escape judicial resolution. Whatever the merits of that 
+mode of analysis in other contexts, it has no application 
+to the military justice system. In light of the significant 
+need for order and stablility in military society in 
+general and in the military justice system in particular, 
+courts have exercised restraint before intervening in 
+military affairs. This Court should refrain from 
+requiring disruptive remedies for the military justice 
+system, when those remedies are solely justified to 
+encourage the enforcement of structural provisions 
+unrelated to the interests of the defendant servicemen. 
+
+3. The Court of Military Appeals’ determination that 
+the existence of an Appointments Clause violation did 
+not mandate vacatur of the decision of the Coast Guard 
+Court of Military Kk» -iew was not an impermissible 
+advisory opinion. First, the Court of Military Appeals is 
+not an Article III court and consequently is not subject 
+to the constitutional prohibition of advisory opinions. 
+In any event, the court’s action is not properly charac- 
+terized as advisory. In a prior case, the court thoroughly 
+explicated its ultimate determination that the decision of 
+the Coast Guard Court of Military Review should be 
+affirmed despite the violation it found—no different in 
+
+
+principle from an opinion explaining that a defendant’s 
+trial involved a deprivation of constitutional rights but 
+that the error was harmless beyond a reasonable doubt. 
+Finally, there is no merit to petitioner's contention 
+that the Court of Military Appeals’ decision conflicts 
+with this Court’s holding in Griffith v. Kentucky, 479 
+U.S. 314 (1987). The Court of Military Appeals concluded 
+that vacatur of the lower court’s decision was not an 
+appropriate remedy for the Appointments Clause viola- 
+tion, and it declined to afford relief either to the 
+defendant who litigated the claim or to similarly situated 
+defendants. The principle upon which Griffith rests— 
+that similarly situated criminal defendants should not 
+receive different treatment simply because of the 
+happenstance that one case rather than another is used 
+as the vehicle for the announcement of a new rule 
+therefore has no application to the present case. 
+
+
+ARGUMENT 
+
+
+THE ACTS OF THE CIVILIAN JUDGES WHO 
+REVIEWED PETITIONER’S CONVICTION SHOULD 
+BE ACCORDED DE FACTO VALIDITY DESPITE 
+THE EXISTENCE OF AN APPOINTMENTS CLAUSE 
+VIOLATION 
+
+
+i. A Defect In An Officer’s Appointment Does Not 
+Mandate That The Officer’s Acts Be Invalidated 
+When That Result Is Contrary To The Public 
+Interest 
+
+
+In Buckley v. Valeo, 424 U.S. 1, 142 (1976) (per curiam), 
+this Court held that the Federal Election Commission as 
+then composed could not constitutionally exercise the 
+power to enforce or administer the campaign finance 
+laws, because it violated the Appointments Clause of the 
+Constitution for Congress itself to select the members 
+
+
+14 
+
+
+of a commission vested with such powers. /d. at 140-142. 
+
+The Court concluded, however, that the defective ap- 
+
+pointment of the commissioners did not require 
+
+invalidation of their past acts. The Court explained: 
+[T]he Commission’s inability to exercise certain 
+powers because of the method by which its members 
+have been selected should not affect the validity of 
+the Commission’s administrative actions and 
+determinations to this date * * *. The past acts of 
+the Commission are therefore accorded de facto 
+validity, just as we have recognized should be the 
+‘ase with respect to legislative acts performed by 
+legislators held to have been elected in accordance 
+with an unconstitutional apportionment plan. 
+
+
+Id. at 142 (citing cases). 
+
+Relying on Buckley, the Court of Military Appeals 
+ruled in United States v. Carpenter, 37 M.J. 291, 295 
+(C.M.A. 1993), petition for cert. pending, No. 93-676 (filed 
+Oct. 29, 1993), that the judicial acts of the civilian Chief 
+Judge of the Coast Guard Court of Military Review are 
+“entitled to de facto validity,” despite the violation of the 
+Appointments Clause in his appointment. In our view, 
+that holding is correct. The question whether the 
+Constitution was violated by the method of appointment 
+of an officer of the United States is distinct from the 
+question whether the violation requires that the 
+officer’s past acts be invalidated. This Court’s cases 
+teach that the latter issue—a remedial question— 
+implicates the public interest, and that the public’s 
+legitimate reliance on the stability of government action 
+‘an justify according de facto validity to the acts of a 
+defectively appointed officer. 
+
+A. This Court has long recognized, through the de 
+facto officer doctrine, the public interest in validating 
+
+
+eS ee ee 
+
+
+15 
+
+
+the actions of public officers despite flaws in their 
+appointment. See, e.g., Norton v. Shelby County, 118 
+U.S. 425, 441-449 (1886); Ball v. United States, 140 U.S. 
+118, 128-129 (1891); McDowell v. United States, 159 U.S. 
+596, 601-602 (1895); Waite v. City of Santa Cruz, 184 U.S. 
+302, 323 (1902). Under that doctrine, “[a] person actually 
+performing the duties of an office under color of title is 
+an officer de facto, and his acts as such officer are valid 
+so far as the public or third parties who have an interest 
+in them are concerned.” United States ex rel. Doss v. 
+Lindsley, 148 F.2d 22, 23 (7th Cir.), cert. denied, 325 U.S. 
+858 (1945). 
+
+The de facto officer doctrine, which limits the extent 
+to which acts of officers may be invalidated on the ground 
+of purported defects in the legality of their appointment 
+or election, “is founded upon considerations of policy and 
+necessity, for the protection of the public and individuals 
+whose interests may be affected thereby.” Norton, 118 
+U.S. at 441. Accord EEOC v. Sears, Roebuck & Co.,,650 
+F.2d 14, 17 (2d Cir. 1981) (“The de facto officer doctrine 
+was developed to protect the public from the chaos and 
+uncertainty that would ensue if actions taken by 
+individuals apparently occupying government offices 
+could later be invalidated by exposing defects in the 
+officials’ titles.”). It is therefore well established that 
+“where there is an office to be filled and one acting under 
+color of authority fills the office and discharges its 
+duties, his actions are those of an officer de facto and 
+binding upon the public.” McDowell, 159 U.S. at 602. 
+Where the de facto officer doctrine has been applied, this 
+Court has typically declined to address the legal validity 
+of the officer’s appointment or election, on the theory 
+that any defect in the manner of the officer’s selection 
+furnished no basis for a “collateral attack” on his acts in 
+office. Ball, 140 U.S. at 129; see also McDowell, 159 U.S. 
+
+
+16 
+
+
+at 601-602; Lindsley, 148 F.2d at 28; Ryan v. Tinsley, 316 
+F.2d 430, 432 (10th Cir.), appeal dismissed, cert. denied, 
+375 U.S. 17 (1968). 
+
+In more recent decisions, the Court has also 
+recognized the public interest in avoiding the retroactive 
+invalidation of the acts of public officials. In contrast to 
+the de facto officer cases, however, the more recent 
+decisions have addressed and decided issues concerning 
+the constitutional validity of the challenged officers’ 
+appointments or exercises of power, but have determined 
+that the decision upholding the constitutional claim 
+should be given prospective effect only. See Buckley v. 
+Valeo, supra (Appointments Clause violation); Northern 
+Pipeline Construction Co. v. Marathon Pipe Line Co., 
+458 U.S. 50, 87-88 (1982) (plurality opinion) (finding 
+unconstitutional Congress’s grant of judicial power to 
+non-Article III bankruptcy judges, but declining to 
+invalidate prior acts of those judges); id. at 92 
+(Rehnquist, J., joined by O’Connor, J., concurring in the 
+judgment); Cipriano v. City of Houma, 395 U.S. 701, 706 
+(1969) (per curiam) (finding voting restriction uncon- 
+stitutional, but declining to invalidate municipal 
+securities issued by the unconstitutionally elected body); 
+Allen v. State Board of Elections, 393 U.S. 544, 572 (1969) 
+(finding violation of Section 5 of the Voting Rights 
+Act of 1965, but giving “only prospective effect to 
+our decision”).'” The Court characterized its action in 
+
+
+10 In other contexts as well, the Court has occasionally 
+
+
+determined that a newly announced rule of law should not be given 
+retroactive effect. See Saint Francis College v. Al-Khazraji, 481 
+U.S. 604, 608-609 (1987); Chevron Oil Co. v. Huson, 404 U.S. 97, 
+105-109 (1971); Enylavd v. Louisiana State Board of Medical 
+Examiners, 375 U.S. 411, 422 (1964). 
+
+
+17 
+
+
+Buckley as according “de facto validity” to the past 
+official acts. Buckley, 424 U.S. at 142. 
+
+When the Court has determined to apply a holding 
+prospectively only, it has invoked considerations closely 
+related to those that underlie the de facto officer 
+doctrine. In Northern Pipeline, for example, the plura- 
+lity explained that retroactive application of its holding 
+“would surely visit substantial injustice and hardship 
+upon those litigants who relied upon the Act’s vesting of 
+jurisdiction in the bankruptcy courts.” 458 U.S. at 88 
+(plurality opinion); see also id. at 92 (Rehnquist, J., 
+concurring in the judgment). The Court therefore 
+stayed its judgment to “afford Congress an opportunity 
+to constitute the bankruptcy courts or to adopt other 
+valid means of adjudication, without impairing the 
+interim administration of the bankruptcy laws.” Jd. at 
+88. And in Cipriano, 395 U.S. at 706, the Court declined 
+to impose “[slignificant hardships” and “substantial in- 
+equitable results” on cities that had issued bonds 
+authorized by invalidly elected bodies. 
+
+From the decisions discussed above emerge two 
+principles that are central to the Court’s resolution of 
+this case. First, a legal defect in the manner of an 
+officer’s appointment does not automatically necessitate 
+invalidation of that officer’s prior acts. The Court in 
+Buckley applied that principle, moreover, even though 
+the flaw in the officers’ appointment was constitutional 
+in nature, and even though the powers exercised by the 
+commissioners included quasi-adjudicatory functions. 
+See 424 U.S. at 140 (“All aspects of the Act are brought 
+within the Commission’s broad administrative powers: 
+rulemaking, advisory opinions, and determinations of 
+eligibility for funds and even for federal elective office 
+
+
+. 
+
+
+18 
+
+
+itself.”).'' Second, in determining how a new legal rule 
+is to be applied to the parties before it, a court may 
+legitimately take account of the reasonable expectations 
+held by the parties and the public generally at the time of 
+the conduct whose legality is at issue. 
+
+B. Like this Court in Buckley and Northern 
+Pipeline, the Court of Military Appeals in Carpenter 
+issued a “purely prospective” decision, in which the new 
+rule announced by the decision is not applied to past 
+conduct, whether of the parties who litigated the issue or 
+of others, but rather is made “effective with respect to 
+all conduct occurring after the date of that decision.” 
+James B. Beam Distilling Co. v. Georgia, 501 U.S. 529, 
+536 (1991) (opinion of Souter, J.).'* In prior cases in 
+
+
+1! Similarly in Northern Pipeline, the Court applied its decision 
+prospectively despite the fact that judges lacking the tenure and 
+salary protections of Article III had been permitted to adjudicate 
+civil actions that, as a constitutional matter, could properly be 
+assigned (within the federal system) only to Article III judges. 
+
+2 In Beam, Justices Souter and Stevens expressly reserved 
+the question whether “pure” prospectivity was permissible, 501 
+U.S. at 544, while acknowledging that in some cases the Court had 
+followed that course, id. at 536 (citing, inter alia, Buckley v. Valeo, 
+supra). The Chief Justice and Justices White, O'Connor, and 
+Kennedy would have held in Beam that the Court could decline, in 
+an appropriate case, to apply newly announced rules of law to the 
+parties before it. 501 U.S. at 544-547 (White, J., concurring in the 
+judgment); id. at 549-559 (O’Connor, J., dissenting). Justices 
+Marshall, Blackmun, and Scalia would have held that prospective 
+decisionmaking violated Article II]. /d. at 547-548 (Blackmun, JJ., 
+concurring in the judgment); id. at 548-549 (Sealia, J., concurring 
+in the judgment). 
+
+Beam itself involved the different question whether a court 
+could engage in “selective prospectivity,” in which a court 
+
+
+“appllies|] a new rule in the case in which it is pronounced, then 
+return|s| to the old one with respect to all others arising on facts 
+predating the pronouncement.” Beam, 501 U.S. at 537 (opinion of 
+
+
+19 
+
+
+which the Court has declined to give “retroactive effect” 
+to newly announced rules of law, the Court has not been 
+“required * * * to distinguish the two senses in which 
+retroactivity may be used.” American Trucking Ass’ns 
+v. Smith, 496 U.S. 167, 209 (1990) (Stevens, J., dissenting, 
+joined by Brennan, Marshall & Blackmun, JJ.). “A 
+decision may be denied ‘retroactive effect’ in the sense 
+that conduct occurring prior to the date of decision is not 
+judged under current law, or it may be denied ‘retro- 
+active effect’ in the sense that independent principles of 
+law limit the relief that a court may provide under 
+current law.” Jbid. That distinction, as Justice Souter 
+noted in Beam, is between “the remedial” and “the 
+choice-of-law” aspect of judicial decisionmaking. 501 
+U.S. at 536 (opinion of Souter, J.). 
+
+If the prospectivity determination is regarded as a 
+decision concerning choice of law, its effect would be to 
+treat past conduct that contravenes a newly established 
+rule as lawful, on the ground that the conduct predated 
+the rule’s announcement. To regard the issue as one of 
+remedy, in contrast, is to say that in determining the 
+relief to be awarded for a legal violation, a court may 
+attach significance to the fact that the prevailing rule of 
+law was understood differently when the conduct in 
+
+
+Souter, J.). The Court has definitively rejected that practice, 
+holding that “[w|hen [the Supreme] Court applies a rule of federal 
+law to the parties before it, that rule is “the controlling inter- 
+pretation of federal law and must be given full retroactive effect in 
+all cases still open on direct review and as to all events, regardless 
+of whether such events predate or postdate [the Court’s] 
+announcement of the rule.” Harper v. Virginia Dep't of Taxation, 
+113 S. Ct. 2510, 2517 (1993). The Court previously rejected the 
+practice of selective prospectivity in criminal cases in Griffith v. 
+Kentucky, 479 U.S. 314 (1987). This case involves no issue of 
+“selective prospectivity.” 
+
+
+20) 
+
+
+question oecurred, that disruption of past affairs may be 
+against the public interest, and that the relief for 
+violations that occurred before the present decision may 
+differ from the relief awarded for identical violations that 
+occur afterwards. Whatever the merits of pure pro- 
+spectivity as a choice-of-law principle, the exercise of 
+equitable discretion in the formulation of remedies is 
+consistent with Article III. In particular, consideration 
+of reliance interests in determining appropriate relief is 
+fully in keeping with traditional conceptions of the 
+judicial role. See United States v. Estate of Donnelly, 
+397 U.S. 286, 295-297 (1970) (Harlan, J., concurring). 
+
+In our view, the decision of the Court of Military 
+Appeals in Carpenter is properly understood as resting 
+on remedial rather than on choice-of-law principles. The 
+court did not purport to hold that the participation of the 
+civilian judge on the Coast Guard Court of Military 
+Review was lawful at the time the Court of Military 
+Review heard Carpenter’s case. To the contrary, its 
+analysis made clear that the Appointments Clause 
+violation existed at the time of that appeal. See 37 M.J. at 
+294-295. Rather, having concluded that the civilian 
+
+
+3 Indeed, in a variety of contexts, the availability of a 
+particular remedy for unlawful government conduct may depend 
+upon whether the illegality of that conduct was clearly established 
+at the time of its occurrence. See, e.g., Butler v. McKellar, 494 
+U.S. 407, 414 (1990) (habeas corpus); Harlow v. Fitzgerald, 457 
+U.S. 800, 813-819 (1982) (qualified immunity); United States vy. 
+Leon, 468 U.S. 897, 918-921 (1984) (Fourth Amendment ex- 
+clusionary rule). Protection of reliance interests in that manner is 
+particularly justified where the requested remedy serves to deter 
+future violations and thereby advance societal interests, rather 
+than to vindicate rights personal to the individual litigant. See 
+Leon, 468 U.S. at 906-908; cf. Penry v. Lynaugn, 492 U.S. 302, 352 
+(1989) (Sealia, J., concurring in part and dissenting in part). 
+
+
+21 
+
+
+judge’s participation “does not satisfy the Appointments 
+Clause,” the court next considered “the question of the 
+effect of the [civilian judge’s| defective appointment.” Jd. 
+at 295. Its affirmance of the Coast Guard Court. of 
+Military Review's decision was thus based not on the 
+theory that the civilian judge had been properly 
+appointed (under some prior interpretation of the 
+Appointments Clause), but on the theory that the 
+unconstitutional manner of that judge’s appointment did 
+not entitle Carpenter to the remedy of vacatur of the 
+lower court’s ruling. 
+
+The Court of Military Appeals did not directly address 
+the question whether future rulings of the Coast Guard 
+Court of Military Review would be vacated if the govern- 
+ment failed to eliminate the constitutional infirmity. 
+That question was, in any event, highly theoretical, 
+because by the time of the Court of Military Appeals’ 
+ruling in Carpenter, the civilian judges on the Coast 
+Guard Court of Military Review had received new 
+appointments from the Secretary of Transportation—a 
+head of a department—and they were therefore appointed 
+in compliance with the Constitution. See Carpenter, 37 
+M.J. at 294 n.1, 300." The court’s citation to Buckley, 
+
+
+'' In his brief on the merits, petitioner appears to acknow- 
+ledge the constitutionality of those appointments, by requesting 
+that this Court “reverse the judgment of the Court of Military 
+Appeals, and remand the case for a new hearing of his appeal in 
+the Coast Guard Court of Military Review.” Pet. Br. 23. In his 
+petition for a writ of certiorari, however, petitioner suggested that 
+the Secretary's January 15, 1993, appointments to the Coast Guard 
+Court of Military Review might be unauthorized by statute and 
+therefore invalid. See Pet. 7 n.3. As we noted in our brief in 
+opposition (Br. in Opp. 8 n.4), the validity of the January 15, 1993, 
+appointments is not squarely presented in this case, and peti- 
+tioner’s attack on those appointments is in any event without 
+merit. See 49 U.S.C. 323(a) (Secretary of Transportation is 
+
+
+22 
+
+
+however, at least suggests that the Court of Military 
+Appeals would vacate rulings if the violation were not 
+remedied—/.e., that the remedy for future Appointments 
+Clause violations would have been different from those 
+that had occurred in the past. 
+
+As we show below, that exercise of remedial discretion 
+by the Court of Military Appeals was justified. In light 
+of the nature of the violation, the insubstantial and 
+speculative nature of any impact it may have had on peti- 
+tioner’s appeal, the absence of any constitutional re- 
+quirement of appellate review within the military justice 
+system, and the substantial public interest in avoiding 
+disruption of that system, the decision to frame relief 
+prospectively only should be upheld. 
+
+
+Il. The Civilian Judges’ Past Judicial Acts Were 
+Correctly Determined To Be De Facto Valid 
+
+
+A. The Appointments Clause of the Constitution, 
+Art. II, § 2, Cl. 2, requires that principal officers of the 
+United States be appointed by the President with the 
+advice and consent of the Senate. Inferior officers may 
+be appointed by the President alone, the Head of a 
+Department, or a court of law. The Appointments Clause 
+is deeply rooted in separation-of-powers principles. See 
+Buckley, 424 U.S. at 124. Although this Court has 
+focused its separation-of-powers jurisprudence on the 
+danger of one branch aggrandizing its power at the 
+expense of another, see, e.g., Freytag v. Commissioner of 
+Internal Revenue, 501 U.S. 868, 878 (1991) (citing 
+Mistretta v. United States, 488 U.S. 361, 382 (1989)), the 
+Appointments Clause “not only guards against this 
+
+
+‘ 
+
+
+authorized to “appoint and fix the pay of officers and employees of 
+the Department of Transportation and [to] prescribe their duties 
+and powers”). 
+
+
+23 
+
+
+encroachment but also preserves another aspect of the 
+Constitution’s structural integrity by preventing the 
+diffusion of the appointment power.” Freytag, 501 U.S. 
+at 878. See also id. at 880 (“The structural interests 
+protected by the Appointments Clause are not those of 
+any one branch of Government, but of the entire 
+Republic.”). 
+
+In a general sense, of course, such structural 
+requirements of the separation of powers can be said to 
+“safeguard liberty.” United States v. Munoz-Flores, 495 
+U.S. 385, 395 (1990). But the central purpose of limiting 
+the appointment power in the Executive Branch to the 
+President and the Heads of Departments is to ensure 
+that appointments are made in a politically accountable 
+fashion. Freytag, 501 U.S. at 884 (“The Framers 
+understood * * * that by limiting the appointment 
+power, they could ensure that those who wielded it were 
+accountable to political force and the will of the people.”); 
+id. at 886 (“The[] heads [of Cabinet-leve] departments] 
+are subject to the exercise of political oversight and 
+share the President’s accountability to the people.”). 
+That objective has no direct role in protecting individual 
+rights and liberties. Here, for example, any protection 
+that petitioner would have enjoyed if his conviction were 
+reviewed by judges appointed by a head of a department 
+‘ather than the Judge Advocate General would be tan- 
+gential at best. Indeed, in holding in Weiss v. United 
+States, 114 S. Ct. 752 (1994), that military judges are 
+“Officers of the United States” who must be selected in 
+accordance with the Appointments Clause, the Court did 
+not suggest that officers so appointed would be more 
+
+
+24 
+
+
+protective of defendants’ rights than would judges 
+appointed (as in this case) by a Judge Advocate General.” 
+
+Petitioner does not maintain that the method of 
+appointing judges to the Coast Guard Court of Military 
+Review before the Secretarial appointment of January 
+15, 1993, had an actual adverse effect on the outcome of 
+his case. He does not even contend that the system of 
+assigning appellate judges that was in place when his 
+‘ase was reviewed by the Court of Military Review was 
+likely to impair his right to receive a fair and impartial 
+appellate review. Nor is there any reason to believe that 
+the civilian judges who considered petitioner’s appeal. 
+were either insufficiently concerned with the rights of 
+defendant servicemen or insufficiently qualified to 
+exercise their assigned functions. Indeed, both civilian 
+judges who sat on petitioner’s appeal to the Coast Guard 
+Court of Military Review had previously served as 
+appellate military judges, pursuant to constitutionally 
+ralid appointments, before their retirement as active- 
+duty officers. See note 7, supra. The insubstantial 
+likelihood that the constitutional infirmity affected the 
+outcome of petitioner’s appeal bears heavily on the 
+determination of appropriate relief." 
+
+
+' In rejecting the due process challenge in Weiss, the Court 
+noted that under Article 26 of the UCMJ, 10 U.S.C. 826, military 
+trial judges are placed under the authority of the service’s Judge 
+Advocate General. Weiss, 114 S. Ct. at 762. The Court concluded 
+that this structure helps to protect the military judge’s 
+independence. Ibid. 
+
+16 The likelihood of prejudice from the Appointments Clause 
+violation here was further diminished by petitioner’s right to seek 
+further review, in the United States Court of Military Appeals, of 
+his challenges to the manner in which his trial was conducted. As 
+this Court observed in Weiss, the Court of Military Appeals “has 
+
+
+reread nena 
+
+
+25 
+
+
+Petitioner argues that the approach taken by the 
+Court of Military Appeals in Carpenter “would 
+effectively remove all [Appointments Clause] claims 
+from judicial review and thereby allow Congress or the 
+Executive to violate the explicit provisions of the 
+Appointments Clause with impunity, because the de facto 
+officer doctrine would always prevent a court from 
+reaching the merits of the issue of the challenged 
+appointment.” Pet. Br. 20. The Court of Military 
+Appeals in Carpenter, however, did not cite or apply the 
+“de facto officer doctrine,” and it did not decline to 
+adjudicate the merits of Carpenter’s Appointments 
+Clause claim. Rather, it squarely held that the civilian 
+member of the Coast Guard Court of Military Review 
+had been unconstitutionally appointed, but it affirmed the 
+court’s decision on the ground that “the judicial acts 
+of the [civilian judge] are entitled to de facto validity.” 
+37 M.J. at 295. That disposition ensured that the under- 
+lying legal issue did not go unresolved, while taking 
+account of the lack of prejudice to the defendant in the 
+formulation of an appropriate remedy for the con- 
+stitutional violation." 
+
+
+demonstrated its vigilance in checking any attempts to exert 
+improper influence over military judges.” 114 S. Ct. at 762. 
+
+7 For similar reasons, petitioner’s reliance (Br. 16) on Glidden 
+Co. v. Zdanok, 370 US. 530, 585-536 (1962) (opinion of Harlan, J.), 
+is misplaced. Petitioner argues (Br. 16) that the de facto officer 
+doctrine “does not apply when the defect is more than technical, 
+and implicates a strong policy concerning the proper functioning 
+of the government as reflected in the Constitution.” As we have 
+explained, however, the court below did not apply the “de facto 
+officer doctrine”—which would have obviated the need to 
+adjudicate the constitutional issue—but instead accorded de facto 
+validity to an official’s actions after deciding the constitutional 
+issue, as this Court did in Buckley and Northern Pipeline. 
+
+
+26 
+
+
+B. Petitioner contends that the Court of Military 
+Appeals’ decision will leave him “without a remedy for 
+the violation [of] his right to have his court-martial 
+reviewed by a constitutionally-appointed court.” Pet. Br. 
+2). Petitioner does not, however, identify the source of 
+such a “right.” While Congress has established a 
+system of appellate review in the military, “[t]his Court 
+has long recognized that, even in criminal cases, due 
+process does not require a State to provide an appellate 
+system.” Ortwein v. Schwab, 410 U.S. 656, 660 (1973). 
+Accord, e.g., Goeke v. Branch, No. 94-898 (Mar. 20, 1995) 
+(per curiam), slip op. 6; Jones v. Barnes, 463 U.S. 745, 751 
+(1983); McKane v. Durston, 158 U.S. 684, 687 (1894). Any 
+contention that the Constitution requires appellate 
+review of a criminal conviction would be particularly 
+unfounded in the context of the military justice system, 
+since “Congress has primary responsibility for the 
+delicate task of baiancing the rights of servicemen 
+against the needs of the military.” Solorio v. United 
+States, 483 U.S. 435, 447 (1987); see also id. at 448 (Court 
+has “adhered to this principle of deference in a variety of 
+
+
+Moreover, petitioner is not assisted by Justice Harlan’s conclusion 
+that the de facto officer principle was inapplicable to the Article 
+III violation charged in Glidden. Buckley and Northern Pipeline 
+make clear that separation-of-powers violations, whether arising 
+under the Appointments Clause or Article III, do not invariably 
+mandate retrospective relief. In any event, Glidden involved the 
+life tenure and compensation of Article III judges, which were 
+“designed in part for the benefit of litigants.” Glidden, 370 U.S. at 
+536 (opinion of Harlan, J.) (emphasis added), while this case 
+involves a violation of the Appointments Clause, which has at most 
+an indirect and attenuated connection to the individual rights of 
+defendants appearing before military appellate judges selected by 
+the Coast Guard’s Judge Advocate General rather than by the 
+“Head|[] of [a] Department|].” 
+
+
+1 tate la eas tlid ahr 
+
+
+27 
+
+
+contexts where * * * the constitutional rights of 
+servicemen were implicated”): Weiss, 114 S. Ct. at 760- 
+761. Petitioner, therefore, was not constitutionally 
+entitled to any appellate review of his criminal convic- 
+tions and sentence. Rather, his right of appeal to the 
+Coast Guard Court of Military Review was conferred 
+only by statute, see Art. 66, UCMJ, 10 U.S.C. 866. 
+
+The fact that Congress was not required to provide 
+petitioner with appellate review of his convictions and 
+sentence does not bear on the question whether an 
+Appointments Clause violation occurred in this case. 
+Although Congress was under no obligation to create 
+appellate military judgeships, the persons who occupy 
+the judgeships that Congress chose to create are 
+“Officers of the United States” whose selection is 
+governed by the Appointments Clause. See Weiss, 114 S. 
+Ct. at 757 (“those serving as military judges must be 
+appointed pursuant to the Appointments Clause”). But 
+while two of the appellate judges in this case were 
+unconstitutionally appointed, it cannot properly be said 
+that petitioner was thereby deprived of a constitutional 
+right. And that consideration is quite relevant to the 
+determination whether petitioner’s conviction should be 
+vacated as an appropriate remedy for the Appointments 
+Clause violation that has occurred.'® 
+
+
+'* This Court has held that if the government chooses to 
+provide appellate review of criminal convictions, its conduct of the 
+appellate process is subject to constitutional constraints. See 
+Griffin v. Illinois, 351 U.S. 12 (1956) (indigent appellant in 
+criminal case must be provided with trial transcript at state 
+expense); Douglas v. California, 372 U.S. 353 (1963) (right to 
+appointed counsel in first appeal as of right); Evitts v. Lucey, 469 
+U.S. 387 (1985) (right to effective assistance of counsel in first 
+appeal as of right). Those decisions are best understood as resting 
+on the “equality demanded by the Fourteenth Amendment,” 
+
+
+28 
+
+
+C. In light of “the strong interest of the federal 
+judiciary in maintaining the constitutional plan of 
+separation of powers,” Freytag, 501 U.S. at 879 (quoting 
+Glidden Co. v. Zdanok, 370 U.S. 530, 536 (1962) (opinion 
+of Harlan, J.)), vacatur of the decision of the Coast Guard 
+Court of Military Review could be defended as a 
+judicially defined means of deterring violations of the 
+Appointments Clause. Automatic vacatur of actions 
+taken by officers chosen in violation of the Appointments 
+Clause would concededly increase the incentive for 
+litigants to raise Appointments Clause challenges, and 
+thus decrease the likelihood that violations would persist 
+because of the absence of a judicial check. A rule of 
+vacatur might thereby be said to serve the interests “of 
+the entire Republic,” Freytag, 501 U.S. at 880, “by pre- 
+venting the diffusion of the appointment power” that the 
+Constitution forbids, 7d. at 878. 
+
+Whatever the merits of the deterrent rationale in 
+other contexts, however, it has no application to the 
+military justice system. This Court has frequently 
+recognized the “very significant differences between 
+military law and civilian law and between the military 
+community and the civilian community,” Parker v. Levy, 
+417 U.S. 738, 752 (1974), and the consequent need for 
+judicial reluctance to intervene in military affairs. See, 
+e.g., Solorio, 483 U.S. at 444 (citing cases). The military 
+justice system is an important means of maintaining 
+
+
+Douglas, 372 U.S. at 358, which forbids excessive disparities in the 
+treatment of indigent and non-indigent defendants. See Coleman 
+v. Thompson, 501 U.S. 722, 755-756 (1991) (discussing Douglas and 
+Evitts). Here, by contrast, petitioner does not contend that 
+vacatur of the decision of the Coast Guard Court of Military 
+Review is necessary to ensure that he is not unfairly disadvantaged 
+vis-a-vis any similarly situated class of criminal defendants. 
+
+
+bi alle 
+
+
+A nc Oe AP FORT Ate GN OOO ve AE Dk ae eGo. 
+
+
+29 
+
+
+order and discipline within the armed services. Accord- 
+ingly, the enforcement of the rulings of that system 
+should not lightly be set aside. Of course, this Court is 
+required to ensure that military trials are free from 
+constitutional violations actually prejudicial to the 
+accused. This Court need not insist, however, that the 
+military justice system be used as a vehicle for the 
+enforcement of structural constitutional provisions that 
+have only a tangential relationship to the interests of the 
+defendant servicemen. Cf. Middendorf v. Henry, 425 
+U.S. 25, 43 (1976) (“Dealing with areas of law peculiar to 
+the military branches, the Court of Military Appeals’ 
+Judgments are normally entitled to great deference.”)."” 
+Db. To require readjudication of petitioner’s appeal 
+would impose significant burdens on the Coast Guard 
+Justice system. If that relief is granted to petitioner, it 
+must also be granted in all other cases pending on direct 
+review in which the issue has been preserved. See 
+Griffith v. Kentucky, 479 U.S. 314, 321-322 (1987). In 
+addition to the instant case, there are seven cases 
+currently pending before this Court in which the issue 
+
+
+' As noted above, see pages 21-22, supra, the Court of Military 
+
+
+Appeals’ citation to Buckley at least suggests that the court would 
+have vacated future decisions of the Coast Guard Court of Military 
+teview, despite the absence of prejudice to the defendants, if the 
+Appointments Clause violation had not been cured. The court’s 
+willingness to use vacatur (or at least the threat of vacatur) to 
+ensure prospective compliance did not, however, oblige the court 
+to vacate decisions issued before its announcement of the 
+constitutional rule. 
+
+
+HO 
+
+
+has been preserved.” One such case is also pending 
+before the Court of Military Appeals.*' Although we 
+agree with petitioner’s assertion (Pet. Br. 21) that 
+“lcjases which are already final would not be affected” if 
+this Court were to grant petitioner’s request for relief, a 
+decision in petitioner’s favor would be likely to spawn 
+extensive collateral litigation in addition to those cases 
+pending on direct review.” The importance to the Coast 
+
+“In addition to Carpenter, supra, the petition for certiorari in 
+Clark vy. United States, No. 93-966 (filed Dec. 20, 1993), presents 
+the same Appointments Clause challenge on behalf of six 
+defendants whose convictions were affirmed by the Court of 
+Military Appeals. 
+
+*! See United States v. Townsend, petition for review granted 
+in part, 41 M.J. 121 (C.M.A. 1994). 
+
+“Article 76 of the UCMJ, 10 U.S.C. 876, provides that “[t lhe 
+appellate review of records of trial provided by this chapter, the 
+proceedings, findings, and sentences of courts-martial as approved, 
+reviewed, or affirmed as required by this chapter, and_ all 
+dismissals and discharges carried into execution under sentences 
+by courts-martial following approval, review, or affirmation as 
+required by this chapter, are final and conclusive.” This Court has 
+held, however, that “[t|he legislative history of [Article 76] makes 
+clear that relief by way of habeas corpus was an implied exception 
+to that finality clause.” United States v. Augenblick, 393 U.S. 348, 
+549-350 (1969). Particularly in light of the limitations on habeas 
+review announced in Wainwright v. Sykes, 4833 U.S. 72 (1977); 
+Teague v. Lane, 489 U.S. 288 (1989); and Butler v. McKellar, 494 
+U.S. 407 (1990), we believe that such collateral challenges would 
+ultimately fail, even if this Court orders that the decision of the 
+Coast Guard Court of Military Review be vacated in this case. The 
+prospect of extensive litigation respecting convictions that have 
+become final is, however, a relevant consideration in determining 
+the appropriate remedy for the Appointments Clause violation. 
+We note as well that persons convicted by military courts have 
+frequently attempted (with mixed success) to employ avenues of 
+collateral review other than habeas corpus to attack the validity of 
+their convictions. See, e.g., Schlesinger v. Councilman, 420 U.S. 
+
+
+(ruard and the public of avoiding disruptive liti-gation 
+and consequent waste of government resources may 
+properly be considered in formulating an appro-priate 
+remedy for the Appointments Clause violation at issue 
+here, 
+
+Petitioner contends that “[t]here are no third parties 
+involved here who have relied to their detriment on the 
+acts of the improperly appointed [civilian Judges |.” Pet. 
+Br. 21. That argument ignores the interests of the 
+officers and enlisted members of the Coast Guard, their 
+dependents, and the public gene ‘ally, who rely upon the 
+Coast Guard's system of military justice to reinforce 
+order and discipline within the service. The Coast Guard 
+Court of Military Review and its judges are an integral! 
+part of that system. In light of petitioner’s failure to 
+demonstrate any meaningful likelihood of prejudice from 
+the Appointments Clause violation, the public interest in 
+a stable military justice system supports the Court of 
+Military Appeals’ disposition of this case. 
+
+
+Il. The Decision Of The Court Of Military Appeals 
+Does Not Violate The Constitutional Prohibition 
+Against Advisory Opinions, And It Is Con- 
+sistent With This Court's Decision In Griffith v. 
+Kentucky 
+
+
+A. Petitioner suggests that a court that declines to 
+afford any remedy beyond a declaration of the applicable 
+law must refrain from ruling on the merits of the 
+constitutional issue “because to do otherwise would be to 
+
+
+(38, 751 (1975) (“certain remedie. alternative to habeas, par- 
+ticularly suits for backpay, historically have been available” to 
+persons convicted of military offenses “if the court-martial lacked 
+jurisdiction”); Green v. Skulute, 839 F-. Supp. (97, 801-802 (D. Wyo. 
+19933). 
+
+
+| 
+
+
+render an advisory opinion.” Pet. Br. 19. That argument 
+is flawed in two respects. 
+
+First, the general prohibition against the issuance of 
+advisory opinions by federal courts is grounded in the 
+“case or controversy” requirement of Article IIL. See, 
+e.g., United States National Bank of Oregon v. Indepen- 
+dent Insurance Agents of America, Ine., 18S. Ct. 2178, 
+2178 (1993); Preiser v. Newkirk, 422 U.S. 395, 401 (1975); 
+lU'nited Public Workers v. Mitchell, 330 U.S. 75, 89 (1947) 
+(“the federal courts established pursuant to Article III of 
+the Constitution do not render advisory opinions”). 
+Because the Court of Military Appeals is not an Article 
+II court,’ that prohibition does not apply here. Thus, 
+even if the Court of Military Appeals’ discussion of 
+the Appointments Clause issue in Carpenter were 
+properly characterized as an aevisory opinion, the 
+issuance of that opinion would have violated no 
+constitutional command.” 
+
+
+“* See Dynes v. Hoover, 61 U.S. (20 How.) 65, 79 (1857) 
+(Congress's “power to provide for the trial and punishment of 
+military and naval offences * * * is given without any connection 
+between it and the 3d article of the Constitution defining the 
+judicial power of the United States; indeed, * * * the two powers 
+are entirely independent of each other”); Northern Pipeline, 458 
+U.S. at 66 (plurality opinion). 
+
+“4 This Court's consideration of the remedial question 
+presented creates no risk of an impermissible advisory opinion. 
+The Court is not required to rule on the merits of petitioner's 
+Appointments Clause challenge, since the government does not 
+contest the Court of Military Appeals’ holding that an Appoint- 
+ments Clause violation occurred. The only question before the 
+Court is whether that violation entitles petitioner to vacatur of the 
+Coast Guard Court of Military Review's decision—a question 
+whose resolution is plainly essential to the Court's determination of 
+the rights of the parties. 
+
+
+aX 
+
+
+AE SS a i Cie ie 
+
+
+3 
+
+
+In any event, the Carpenter opinion is not properly 
+characterized as advisory. It is instead a thorough 
+explication of the Court of Military Appeals’ ultimate 
+determination that the decision of the Coast Guard 
+Court of Military Review should be affirmed. It is in 
+principle no different from an opinion explaining that a 
+defendant's trial involved a deprivation of constitutional 
+rights but that the error was harmless.’ Of course, a 
+reviewing court will sometimes decline to reach the 
+merits of the defendant’s claim on the ground that any 
+error was harmless. We are aware of no decision, how- 
+ever, Suggesting that a federal court is constitutionally 
+required to resolve the issue of harmlessness before it 
+considers the merits of the underlying claim.2° 
+“In United States v. Leon, supra, the Court recognized a 
+limited good-faith exception to the Fourth Amendment ex- 
+clusionary rule but noted that “[t}here is no need for courts to 
+adopt the inflexible practice of always deciding whether the 
+officers’ conduct manifested objective good faith before turning to 
+the question whether the Fourth Amendment has been violated. 
+Defendants seeking suppression of the fruits of allegedly 
+unconstitutional searches or seizures undoubtedly raise live 
+controversies which Art. II] empowers federal courts to 
+adjudicate. As cases addressing questions of good faith immunity 
+under 42 U.S.C. § 1983 and cases involving the harmless-error 
+doctrine make clear, courts have considerable discretion in 
+conforming their decisionmaking processes to the exigencies of 
+particular cases.” 468 U.S. at 924-925 (citations omitted). The 
+Court concluded that “[ijf the resolution of a particular Fourth 
+Amendment question is necessary to guide future action by law 
+enforcement officers and magistrates, nething will prevent 
+reviewing courts from deciding that question before turning to the 
+good-faith issue.” Jd. at 925. 
+
+* In Marbury v. Madison, 5 US. (1 Cranch) 137 (1803), the 
+Court stated: 
+
+
+In the order in which the court has viewed this subject, the 
+following questions have been considered and decided. 
+
+
+34 
+
+
+B. In Griffith v. Kentucky, 479 U.S. 314 (1987), this 
+Court considered the question whether its decision in 
+Batson v. Kentucky, 476 U.S. 79 (1986), should be applied 
+retroactively to other cases pending on direct review. 
+The Court determined that “after we have decided a new 
+rule in the case selected, the integrity of judicial review 
+requires that we apply that rule to all similar cases 
+pending on direct review.” 479 U.S. at 322-323. The 
+Court emphasized that “selective application of new 
+rules violates the principle of treating similarly situated 
+defendants the same.” /d. at 323. Petitioner contends 
+(Pet. 19-20) that the Court of Military Appeals’ decision 
+in Carpenter is contrary to this Court’s decision in 
+Griffith. That claim is without merit. 
+
+The decision in Griffith involved the propriety of 
+selective rather than pure prospectivity. See Beam, 501 
+U.S. at 538 (opinion of Souter, J.), id. at 545 (White, J., 
+concurring in the judgment); Harper v. Virginia Dep't 
+of Taxation, 118 8. Ct. 2510, 2530 (1993) (O'Connor, J., 
+dissenting). The principle on which Griffith rests—that 
+similarly situated criminal defendants should not receive 
+different treatment simply because of the happenstance 
+that one case rather than another is used as the vehicle 
+for the announcement of a new rule—has no application 
+
+
+: _ 
+
+
+Ist Has the applicant a right to the commission he 
+demands? 
+
+
+2dly. If he has a right, and that right has been violated, 
+do the laws of his country afford him a remedy? 
+
+
+Sdly. If they do afford him a remedy, is it a mandamus 
+issuing from this court? 
+5 U.S. (1 Cranch) at 154. The Court resolved the first two 
+questions in Marbury’s favor but ultimately determined that it was 
+without power to afford him relief. 
+
+
+IE tinh wal 
+
+
+EE a 
+
+
+to the present case.”” Cf. American Trucking Ass’ns, 
+496 U.S. at 220-221 (Stevens, J., dissenting). The Court 
+of Military Appeals did not afford Carpenter relief more 
+extensive than that provided to petitioner. To the 
+contrary, the court in Carpenter (as in the present. case) 
+affirmed the decision of the Coast Guard Court of 
+Military Review. 37 M.J. at 299. Of course, if petitioner 
+is constitutionally entitled to a new appeal before the 
+Coast Guard Court of Military Review as a remedy for 
+the Appointments Clause violation, the decision of the 
+Court of Military Appeals cannot stand. Griffith has no 
+bearing, however, on whether such an entitlement 
+exists. 
+
+
+OF hed 
+
+
+“' The Court in Batson held that “(ilf the trial court [on 
+remand] decides that the facts establish, prima facie, purposeful 
+discrimination and the prosecutor does not come forward with a 
+neutral explanation for his action, our precedents require that 
+petitioner’s conviction be reversed.” 476 U.S. at 100. Thus, the 
+need to prevent “the actual inequity that results when only one of 
+many similarly situated defendants receives the benefit of the new 
+rule,” Griffith v. Kentucky, 479 U.S. at 327-328 (internal quotation 
+marks omitted), required that Batson be applied retroactively to 
+cases pending on direct review not only in the choice-of-law sense 
+(.e., that prosecutors’ race-based peremptory challenges be treated 
+as illegal) but in the remedial sense (i.¢., that proof of a violation 
+would mandate reversal of the conviction) as well. 
+
+
+B18) 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Military Appeals should 
+be affirmed. 
+Respectfully submitted. 
+
+
+DREW'S. DAYs, III 
+Solicitor General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+General 
+
+
+PAUL M.GEIER 
+
+
+Assistant General Counsel 
+
+
+# « iy AF NE 2 a t ae Fy R » P 
+
+
+£ 
+3 
+
+
+SB 9 Ath add 
+
+
+=. 
+aS 
+
+
+for Litigation 
+Department of 
+Tra nsporta tion 
+
+
+CHARLES J. BENNARDINI 
+Lieutenant Commander, 
+USCG 
+Senior Appellate Government 
+
+
+AK 
+
+
+Counsel 
+JOHN F. KOEPPEN 
+Lieutenant Commander. 
+USCG 
+Appellate Government Counsel 
+Commander (G-LMJ) 
+United States Coast Guard 
+
+
+ar I EN Na cg hae 
+
+
+MARCH 1995 
+
+

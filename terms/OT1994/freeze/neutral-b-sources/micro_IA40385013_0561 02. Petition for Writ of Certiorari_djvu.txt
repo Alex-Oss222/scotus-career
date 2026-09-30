@@ -1,0 +1,1922 @@
+(\) Supreme Gourt, U.S. 
+\ FILED 
+
+
+wo. 94 562 SEP 27 1994 
+
+
+In The OFFICE OF THE CLERK 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1994 
+e 
+
+
+LESLIE WILTON, ON BEHALF OF HIMSELF AND AS A 
+REPRESENTATIVE OF CERTAIN UNDERWRITERS AT 
+LLOYD’S OF LONDON, AND CERTAIN INSTITUTE OF 
+LONDON UNDERWRITERS COMPANIES, AS FOLLOWS, THE 
+ORION INSURANCE COMPANY, PLC, SKANDIA U.K. 
+INSURANCE PLC, THE YASUDA FIRE & MARINE 
+INSURANCE COMPANY OF EUROPE, LTD., OCEAN 
+MARINE INSURANCE CO., LTD., YORKSHIRE INSURANCE 
+CO., LTD., MINSTER INSURANCE CO., LTD., PRUDENTIAL 
+ASSURANCE CO., LTD., PEARL ASSURANCE PLC, 
+BISHOPSGATE INSURANCE LTD., HANSA MARINE INS. CO. 
+(UK) LTD., VESTA (UK) INS. CO., LTD., NORTHERN 
+ASSURANCE CO., LTD., CORNHILL INSURANCE CO., LTD., 
+SIRIUS INSURANCE CO., (UK) LTD., SOVEREIGN MARINE & 
+GENERAL INSURANCE CO., TOKIO MARINE & FIRE 
+INSURANCE (UK) LTD., TAISHO MARINE & FIRE 
+INSURANCE CO. (UK) LTD., STOREBRAND INSURANCE CO. 
+(UK) LTD., ATLANTIC MUTUAL INSURANCE CO., ALLIANZ 
+INTERNATIONAL INSURANCE CO., LTD., AND WAUSAU 
+INSURANCE CO. (UK) LTD., 
+
+
+versus Petitioners, 
+
+
+SEVEN FALLS COMPANY, MARGARET HUNT HILL, 
+ESTATE OF A. G. HILL, LYDA HILL, ALINDA H. WIKERT, 
+AND U.S. FINANCIAL CORP., 
+
+
+Respondents. 
+
+
+o 
+
+
+PETITION FOR A WRIT OF CERTIORARI TO THE UNITED 
+STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT 
+¢ 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
++ 
+
+
+MicHaet A. Ort ANDO Patrick C. ApPet 
+Counsel of Record for Paut LeRoy Crist 
+Petitioners Meyer OrLANDO & EvANSpc- 
+
+
+2300 America Tower 
+2929 Allen Parkway 
+Houston, TX 77019 
+Telephone: 713-523-1101 
+Fax: 713-523-2002 
+Counsel for Petitioners 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+IT. 
+
+
+QUESTIONS PRESENTED 
+
+
+In reviewing a decision by a district court to abstain 
+from exercising federal jurisdiction in a declaratory 
+judgment action, should the court of appeals deter- 
+mine the abstention issue de novo, or on the basis of 
+whether the district court abused its discretion? 
+
+
+May a federal district court that has diversity juris- 
+diction over a declaratory judgment action abstain 
+from exercising that jurisdiction in light of a later- 
+filed action in a state court? 
+
+
+ii 
+LIST OF PARTIES 
+
+
+All Petitioners named in the caption of this case were 
+parties plaintiff to the proceedings below and constitute 
+all those that have a direct interest in the judgment 
+sought to be reviewed; Petitioners’ corporate parents and 
+nonwholly owned subsidiaries include: 
+
+
+1. ING Group NV (Netherlands), ultimate 
+parent of The Orion Insurance Company, 
+PLC; 
+
+2. Skandia Group (Sweden), ultimate parent 
+of Skandia U.K. Insurance PLC; 
+
+3. Yasuda (Japan), ultimate parent of The 
+Yasuda Fire & Marine Insurance Company 
+of Europe, Ltd.; 
+
+4. Commercial Union PLC, ultimate parent of 
+Ocean Marine Insurance Co., Ltd.; 
+
+5. General Accident PLC, ultimate parent of 
+Yorkshire Insurance Co., Ltd.; 
+
+6. Societe Centrale du Groupe des Assurances 
+Nationales, ultimate parent of Minster 
+Insurance Co., Ltd.; 
+
+7. Prudential Corporation PLC, ultimate par- 
+ent of Prudential Assurance Co., Ltd.; 
+
+8. Australian Mutual Provident Society, ulti- 
+mate parent of Pearl Assurance PLC; 
+
+9. AMEV, ultimate parent of Bishopsgate 
+Insurance Ltd.; 
+
+10. Tyrgg Hansa SSP Holding (Sweden), ulti- 
+mate parent of Hansa Marine Ins. Co. (UK) 
+Ltd.; 
+
+
+11. 
+
+
+12. 
+
+
+13. 
+
+
+14. 
+
+
+15. 
+
+
+16. 
+
+
+17. 
+
+
+18. 
+
+
+19. 
+
+
+20. 
+
+
+iii 
+LIST OF PARTIES —- Continued 
+
+
+Skandia Group (Sweden), ultimate parent 
+of Vesta (UK) Ins. Co., Ltd.; 
+
+Commercial Union PLC, ultimate parent of 
+Northern Assurance Co., Ltd.; 
+
+Allianz AG Holding (Germany), ultimate 
+parent of Cornhill Insurance Co., Ltd.; 
+ASEA Brown Boveri (Switzerland), ulti- 
+mate parent of Sirius Insurance Co., (UK) 
+Ltd.; 
+
+Willis Corroon PLC, ultimate parent of Sov- 
+ereign Marine & General Insurance Co.; 
+Tokio Marine & Fire Insurance Co., Ltd. 
+(Japan), ultimate parent of Tokio Marine & 
+Fire Insurance (UK) Ltd.; 
+
+Mitsui Marine & Fire Insurance Co., Ltd. 
+(Japan), ultimate parent of Taisho Marine & 
+Fire Insurance Co. (UK) Ltd.; 
+
+UNI Storebrand (Norway), ultimate parent 
+of Storebrand Insurance Co. (UK) Ltd.; 
+Atlantic Mutual Insurance Co. of New 
+York, ultimate parent of Atlantic Mutual 
+Insurance Co.; 
+
+Allianz AG Holding (Germany), ultimate 
+parent of Allianz International Insurance 
+Co., Ltd.; 
+
+
+21. 
+
+
+22. 
+
+
+23. 
+
+
+24. 
+
+
+25. 
+
+
+26. 
+
+
+27. 
+
+
+28. 
+
+
+29. 
+
+
+30. 
+
+
+31. 
+
+
+iv 
+LIST OF PARTIES —- Continued 
+
+
+Employers Insurance of Wausau (U.S.A.), 
+ultimate parent of Wausau Insurance Co. 
+(UK) Ltd.; 
+
+London & Overseas Insurance Co. PLC, a 
+subsidiary of The Orion Insurance Com- 
+pany, PLC; 
+
+Contingency Insurance Company, Ltd., a 
+subsidiary of Minster Insurance Co., Ltd.; 
+GAN North America Inc., an associated 
+company of Minster Insurance Co., Ltd.; 
+Prudential Life of Ireland Ltd., a subsidiary 
+of Prudential Assurance Co., Ltd.; 
+Prudential Vita SPA (Italy), a subsidiary of 
+Prudential Assurance Co., Ltd.; 
+
+Hallmark Insurance Company Ltd., a sub- 
+sidiary of Pearl Assurance PLC; 
+Leadenhall Insurance Ltd., a subsidiary of 
+Bishopsgate Insurance Ltd.; 
+
+Hansa General Insurance Co. (UK) Ltd., a 
+subsidiary of Hansa Marine Ins. Co. (UK) 
+Ltd.; 
+
+Allianz Cornhill Insurance (Far East) Ltd. 
+(Hong Kong), a subsidiary of Cornhill 
+Insurance PLC; 
+
+Holding Cornhill France SA, a subsidiary 
+of Cornhill Insurance PLC; 
+
+
+ee 
+
+
+LIST OF PARTIES - Continued 
+
+
+32. Cornhill France SA, a subsidiary of Corn- 
+hill Insurance PLC; 
+
+33. Themis SA (France), a subsidiary of Corn- 
+hill Insurance PLC; 
+
+34. Sovereign Insurance (UK) Ltd., a subsid- 
+iary of Sovereign Marine & General Insur- 
+ance Co.; and 
+
+35. Norden Insurance Co. (UK) Ltd., a subsid- 
+iary of Storebrand Insurance Co. (UK) Ltd. 
+
+
+Petitioners’ Counsel: 
+
+
+MEYER ORLANDO & EVANSp- 
+Michael A. Orlando 
+Patrick C. Appel 
+Paul LeRoy Crist 
+
+
+Respondents named in the caption of this case were 
+the remaining parties to the proceedings below and so 
+constitute the other individuals and entities that have a 
+direct interest in the judgment sought to be reviewed; 
+Respondents’ Counsel below were: 
+
+
+HAYNES & BOONE 
+Werner A. Powers 
+Charles C. Keeble, Jr. 
+
+
+The parallel litigation subsequently filed by Respon- 
+dents, inter alia, in Texas state court, after amendment, 
+involves the following parties: 
+
+
+OC PNAVS WN 
+
+
+10. 
+11. 
+
+
+vi 
+
+
+LIST OF PARTIES ~- Continued 
+
+
+Sherman Hunt; 
+
+Stuart Hunt; 
+
+Hara Hunt; 
+
+Hilre Hunt; 
+
+Texana Resources Corporation; 
+
+Silco, Inc.; 
+
+Headwater Oil Company; 
+
+Tribal Drilling Company; 
+
+Chester J. Donnally, Trustee of the Marga- 
+ret Hunt Hill - A.G. Hill Trust, the Elisa 
+Margaret Hill Trust, the Heather Victoria 
+Hill Trust, the Cody McArthur Wikert 
+Trust, the Margretta Hill Wikert Trust, the 
+Michael Bush Wisenbaker, Jr. Trust, and the 
+Wesley Hill Wisenbaker Trust; 
+
+Planet Indemnity Company; and 
+Underwriters Indemnity Company. 
+
+
+Oe 
+
+
+Vii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+eho Gs, rere errr rr rrr rrr res i 
+SE Ga EE bb 6b ns ceed bedi cdeneswereaccereenl ii-vi 
+TABLE OF AUTHORITIES ..........cccccscccceess ix-xii 
+SD TOY 506 cee cic tedeeewineeseeeesesseee 2 
+TUE nav c chs bu cbecvdciccdeersonbiasececsnne 2 
+or Bo 8 rrr rrr rr rr rrr Tree 3 
+STATEMGENT OF THE CAGE... 2. cc ccccccccccvcccens 3-4 
+ED 5 och vt edecesccevetsaccnscdveanceesed 5-8 
+REASONS FOR GRANTING THE WRIT........... 9-21 
+
+
+I. In conflict with other Circuits, the Fifth Circuit 
+reviews a district court’s decision to stay under 
+a deferential abuse of discretion standard 
+ee eee er ee. gg ci cscsceensuseessenate 9-12 
+
+
+Il. In conflict with decisions of other Circuits, the 
+Fifth Circuit has expressly ignored this Court's 
+mandate that federal courts have a virtually 
+unflagging obligation to exercise their jurisdic- 
+tion, and that only exceptional circumstances 
+justify abdication of that responsibility...... 13-21 
+
+
+A. Policy considerations, issues of federalism 
+and comity, and effectuation of Congress’ 
+
+
+intent support certiorari review of this 
+I ice cciceewesnendacsanessdsvadcesiiens 13-16 
+
+
+Vill 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+B. The Fifth, the Seventh, and the Ninth Cir- 
+cuits have given district courts virtually 
+unfettered discretion to dismiss or stay 
+validly filed declaratory judgment actions, 
+whereas adherence to this Court’s com- 
+mands regarding abstention substantially 
+protects litigants in the other ten circuits in 
+their exercise of the federal remedy Con- 
+
+
+gress saw fit to create.................. 17-21 
+
+
+PEE A6-4o545dvcbsnveueiacee\eiwetscsvheun 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+40235 Washington Street Corp. v. Lusardi, 976 F.2d 
+on ov ing 4seedde dba davedesnsenss 11 
+Aetna Life Ins. Co. v. Haworth, 300 U.S. 227, 57 S.Ct. 
+es ee ee NE 6 Neste eedes Cieslcceecsocss 14 
+Aetna Cas. & Sur. Co. v. Merritt, 974 F.2d 1196 (CA9 
+aS 65.0406 k0scins Cheese sedeeeseriecnnsiee 17 n.17 
+
+
+Allendale Mut. Ins. Co. v. Bull Data Sys., 10 F.3d 425 
+See a x 658 cen vaddtieesencnnnaunasss 19 n.20 
+
+
+Allstate Ins. Co. v. Mercier, 913 F.2d 273 (CA6 1990) .. 9-10 
+
+
+American Mfrs. Mut. Ins. v. Edward D. Stone, Jr. & 
+Assoc., 743 F.2d 1519 (CA11 1984)....11 n.13, 18 n.19 
+
+
+Board of Educ. v. Bosworth, 713 F.2d 1316 (CA7 
+REPEC Tree ET Terre Tt er TTT ort TTT Tey Te 19 n.20 
+
+
+Brillhart v. Excess Ins. Co., 316 U.S. 491, 62 S.Ct. 
+1173, 66 L.Ed. 1620 (1942) ... nc veces 8, 9, 16, 19 n.20 
+
+
+Cincinnati Ins. Co. v. Holbrook, 867 F.2d 1330 (CA11 
+ALAA LRA NEE 9-11 
+
+
+Coloradv River Water Conservation Dist. v. United 
+States, 424 U.S. 800, 96 S.Ct. 1236, 47 L.Ed. 2d 
+ERE a erence irae” 4, 8, et passim 
+
+
+Continental Cas. Co. v. Robsac Industries, 947 F.2d 
+gos 2 ee err. 9,11, 17 & n.17 
+18, 19 n.20 
+
+
+El Dia, Inc. v. Hernandez Colon, 963 F.2d 488 (CA1 
+RS a SER ee ee Pe eee oe wanes Lee 9 n.12 
+
+
+Employers Ins. of Wausau v. Missouri Elec. Works, 
+inc., 23 F.3d 13572 (CAB 1996)... ..ccccccceces 18 n.19 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Evanston In-. Co. v. Jimco, Inc., 844 F.2d 1185 (CA5 
+SG cb eouiy-sn bis Ok SN Nhs Uh ase Raneeeees eee 17 n.17 
+General Reinsurance Corp. v. Ciba-Geigy Corp., 853 
+F.2d 78 (CA2), cert. denied, __ U.S. __, 114 S.Ct. 
+1126, 127 L.Ed. 2d 434 (1988)......... 9 n.12, 18 n.19 
+Gerentech, Inc. v. Eli Lilly & Co., 998 F.2d 931 
+CE ot wh ib Tae Peltude ele crus wa Wee 11 n.14, 19 
+Grode v. Mutual Fire, Marine & Inland Ins. Co., 8 
+I I a at i a ocak 10 
+
+
+Granite State Ins. Co. v. Tandy Corp., 986 F.2d 94 (CAS5), 
+cert. granted, __ U.S. __, 113 S.Ct. 51, 121 L.Ed. 
+2d 21 (1992), cert. dismissed, __ U.S. __, 113 
+S.Ct. 1836, 123 L.Ed. 2d 463 (1993)....8, 9, 17, 18, 21 
+
+
+Hanes Corp. v. Millard, 531 F.2d 585 
+sg rere rere Tre 10. 12, 20 & n.21 
+
+
+Heitmanis v. Austin, 899 F.2d 521 (CA6 1990)..... 10, 20 
+
+
+Intermedics Infusaid, Inc. v. Regents of Univ. of 
+
+
+Minn., 804 F.2d 129 (CTAF 1986)............. 11 n.14 
+International Harvester Co. v. Deere & Co., 623 F.2d 
+
+I os os Gus db ba een wen deewedeaied 10, 12 
+Interstate Material Corp. v. City of Chicago, 847 F.2d 
+
+ns occ de nde enehadecceusdad baat 19 n.20 
+Life-Link Intern., Inc. v. Lalla, 902 F.2d 1493 (CA10 
+
+Pivincicctanbendedenesnceneonea 17 n.17, 20 & n.21 
+McCarthy v. Madigan, __ U.S. __, 112 S.Ct. 1081, 
+
+ge A I re 14-15 
+Mitcheson v. Harris, 955 F.2d 235 (CA4 1992) ........ 19 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Moses H. Cone Memorial Hospital v. Mercury Con- 
+struction Corp., 460 U.S. 1, 103 S.Ct. 927, 74 L.Ed. 
+ie ee Ps cc chicas ace eceueeukaueen 4, 8, et passim 
+
+
+New Orleans Public Service, Inc. v. New Orleans, 491 
+U.S. 350, 109 S.Ct. 2506, 105 L.Ed. 2d 298 
+
+
+PU a ns Weave cuneate setns babes ecksagen 15-16, 19 n.20 
+Public Serv. Comm'n v. Wycoff Co., 344 U.S. 237, 73 
+
+oe SF ee ©  F.  RPerrrrrrr rr rrere 16 
+Rowan Co., Inc. v. Griffin, 876 F.2d 26 
+
+Sy Se nxdunensousenenaeepeaseesnneen 9,17 n.17 
+Sinclair Oil Corp. v. Amoco Production Co., 982 F.2d 
+
+ff ef) | eerere rere errr 17 n.17, 20 n.21 
+State Farm Fire & Cas. Co. v. Mhoon, __ F.3d __, 
+
+1994 WL 396173 (CA10 August 1, 1994)............ 9 
+Tempco Elec. Heater Co. v. Omega Engineering, Inc., 
+
+CED FAG FES GTLAF TURP Po cc cciscsvcvsccens 12, 19 n.20 
+Traughber v. Beauchane, 760 F.2d 673 (CA6 1985) ..... 10 
+
+
+Turner Entert. Co. v. Degeto Film Gmbh., 25 F.3d 
+ee SO WOMS c cas cnc cducadscosadeaicasas 11 n.13 
+
+
+Travelers Ins. Co. v. Louisiana Farm Bureau Federa- 
+tion, Inc., 996 F.2d 774 (CA5 1993)... 9, 17-18 & n.18 
+
+
+United States Fidelity & Guar. Co. v. Murphy Oil 
+Se SS Fo bP fw 8 Perret ree 9 
+
+
+University of Maryland v. Peat Marwick Main & Co., 
+SED FOG BOP GLAD BOVE). cc cc cccssccccecsnesens 19-20 
+
+
+Villa Marina Yacht Sales v. Hatteras Yachts, 915 F.2d 
+Fr acc oa ibekncuanes 9 n.12, 18-19 & n.19 
+
+
+xii 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+STATUTES 
+Es kv ances keeu se Kb eernunencsnosen es 2 
+aa iced es inatnessbeeekuespennwenuns 2 
+Se SE rec bkee Ces eenenehocnseunakeénasnves , 
+ES SED Sp iutascdecrebecestesnKdeseuenes ne 
+
+
+OTHER MATERIALS 
+H.R. Rep. No. 627, 72d Cong., Ist Sess., at 2 (1932) . .13-14 
+
+
+H.R. Rep. No. 1264, 73d Cong., 2d Sess., at 2 
+
+
+EG SC aNRL 4 62 SHAR AVAWE CREASE ENTS E SKE R aE PEHe SA 13 
+S. Rep. No. 1005, 73d Cong., 2d Sess., at 2, 5 
+NGA SUnAN GAS Rhetndeehs Seenawlesxeechuss 14 & n.15 
+
+
+Borchard, Edwin, DecLaratory JUDGMENTS Vii, ix & 
+ey Ee ois cb kebsuncendswunes 14 & n.15 
+
+
+No. 
+
+
+> 
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1994 
+
+
+vy 
+
+
+LESLIE WILTON, ON BEHALF OF HIMSELF AND AS A 
+REPRESENTATIVE OF CERTAIN UNDERWRITERS AT 
+LLOYD’S OF LONDON, AND CERTAIN INSTITUTE OF 
+LONDON UNDERWRITERS COMPANIES, AS FOLLOWS, THE 
+ORION INSURANCE COMPANY, PLC, SKANDIA U.K. 
+INSURANCE PLC, THE YASUDA FIRE & MARINE 
+INSURANCE COMPANY OF EUROPE, LTD., OCEAN 
+MARINE INSURANCE CO., LTD., YORKSHIRE INSURANCE 
+CO., LTD., MINSTER INSURANCE CO., LTD., PRUDENTIAL 
+ASSURANCE CO., LTD., PEARL ASSURANCE PLC, 
+BISHOPSGATE INSURANCE LTD., HANSA MARINE INS. CO. 
+(UK) LTD., VESTA (UK) INS. CO., LTD., NORTHERN 
+ASSURANCE CO., LTD., CORNHILL INSURANCE CO., LTD., 
+SIRIUS INSURANCE CO., (UK) LTD., SOVEREIGN MARINE & 
+GENERAL INSURANCE CO., TOKIO MARINE & FIRE 
+INSURANCE (UK) LTD., TAISHO MARINE & FIRE 
+INSURANCE CO. (UK) LTD., STOREBRAND INSURANCE CO. 
+(UK) LTD., ATLANTIC MUTUAL INSURANCE CO., ALLIANZ 
+INTERNATIONAL INSURANCE CO., LTD., AND WAUSAU 
+INSURANCE CO. (UK) LTD., 
+
+
+versus Petitioners, 
+
+
+SEVEN FALLS COMPANY, MARGARET HUNT HILL, ESTATE 
+OF A. G. HILL, LYDA HILL, ALINDA H. WIKERT, AND USS. 
+FINANCIAL CORP., 
+
+
+Respondents. 
+
+
+o 
+
+
+PETITION FOR A WRIT OF CERTIORARI TO THE UNITED 
+STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT 
+o 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+SJ 
+
+
+Petitioners respectfully pray that a writ of certiorari 
+issue to review the judgment and opinion of the United 
+
+
+States Court of Appeals for the Fifth Circuit, entered in the 
+above-entitled proceeding on June 29, 1994. 
+
+
+¢ 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Court of Appeals for the Fifth Circuit 
+is not reported, and is reprinted in the appendix hereto, pp. 
+A-1 — A-4, infra. 
+
+
+The opinion of the District Court for the Southern Dis- 
+trict of Texas is not reported, and is reprinted in the appen- 
+dix hereto, pp. B-1 - B-4, infra. 
+
+
+S 
+
+
+JURISDICTION 
+
+
+The decision of the Court of Appeals for the Fifth Circuit 
+was rendered on June 29, 1994. Jurisdiction over this petition 
+is conferred by 28 U.S.C. § 1254. 
+
+
+This case was originally filed in the United States Dis- 
+trict Court for the Southern District of Texas. Diversity juris- 
+diction, 28 U.S.C. § 1332, was asserted and relief was sought 
+under the Declaratory Judgment Act, 28 U.S.C. § 2201(a). 
+This case was appealed to the United States Court of 
+Appeals for the Fifth Circuit pursuant to 28 U.S.C. § 1291. 
+
+
+¢ 
+
+
+STATUTE INVOLVED 
+28 U.S.C. § 2201(a). Declaratory Judgment Act. 
+
+
+In a case of actual controversy within its juris- 
+diction . . . any court of the United States, upon the 
+filing of an appropriate pleading, may declare the 
+rights and other legal relations of any interested 
+party seeking such declaration, whether or not 
+further relief is or could be sought. Any such 
+declaration shall have the force and effect of a final 
+judgment or decree and shall be reviewable as 
+such. 
+
+
+STATEMENT OF THE CASE 
+
+
+This appeal arises out of a dispute between various oil 
+and gas interests, including Seven Falls Company, Margaret 
+Hunt Hill, Estate of A. G. Hill, Lyda Hill, Alinda H. Wikert, 
+and U. S. Financial Corporation (“Respondents”), against 
+their insurers, including Petitioners Leslie Wilton on Behalf 
+of Himself and as Representative of Certain Underwriters at 
+Lloyd’s of London, and Certain Member Companies of the 
+Institute of London Underwriters (“Petitioners”), over a $110 
+million judgment of the Winkler County, Texas court against 
+Respondents, which they seek covered under Petitioners’ 
+policies.! Basing jurisdiction upon diversity of citizenship 
+under 28 U.S.C. § 1332, Petitioners filed an action in federal 
+court on December 9, 1992, seeking a declaration that their 
+policies did not cover the losses incurred by Respondents as 
+a result of the Winkler County lawsuits. 
+
+
+1 See ROA II p. 18 and ROA I p. 262. 
+
+
+After voluntary dismissal and reinstatement of Peti- 
+tioners’ action, Respondents (and others) commenced a par- 
+allel state court suit seeking coverage, as well as exemplary 
+and punitive damages, against their insurers.2 Based upon 
+this later-filed state court action in a county of clearly 
+improper venue, as Respondents belatedly conceded, the 
+United States District Court for the Southern District of Texas 
+granted Respondents a stay of this declaratory judgement 
+action. Appendix, pp. B-1 — B-4. 
+
+
+Petitioners respectfully assert that for the Declaratory 
+Judgment Act to have any continued validity, the court 
+below had to exercise its jurisdiction over this case and deny 
+the Motion to Dismiss or Stay. Accordingly, the order of the 
+United States District Court for the Southern District of Texas 
+should have been reversed, and affirmance by the Fifth 
+Circuit Court of Appeals suggests certiorari review because 
+it failed even to consider the abstention factors established 
+by Colorado River Water Conservation Dist. v. United States, 424 
+U.S. 800, 96 S.Ct. 1236, 47 L.Ed. 2d 483 (1976) and Moses H. 
+Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 
+1, 103 S.Ct. 927, 74 L.Ed. 2d 765 (1983). 
+
+
+¢ 
+
+
+2 Cause No. 93-03542, styled Margaret Hunt Hill, et al. v. 
+Leslie Wilton, et al., in the 299th Judicial District Court, Travis 
+County, Texas, has been by agreement of the parties transferred 
+as Cause No. 93-58208, to the 133rd Judicial District Court, 
+Harris County, Texas. This state court action seeks actual dam- 
+ages of $110 million, plus exemplary and punitive damages of at 
+least $330 million. ROA II pp. 122-24 J] 45-51. Also named as 
+defendants were the insurers for the Hunt parties, i.e., Planet 
+Indemnity Company and Underwriters Indemnity Company. 
+ROA II pp. 129 J] 36-37 & 136. 
+
+
+BACKGROUND 
+
+
+On July 31, 1992 Petitioners declined to defend Respon- 
+dents against claims being asserted against them in two 
+nearly identical lawsuits pending in state court in Texas, 
+because the policies in question provided no coverage.* One 
+of these underlying suits proceeded to trial in September 
+1992; the other suit was stayed pending outcome of the 
+appeal of the judgment from the trial of the first case. 
+
+
+In November 1992, the jury returned a verdict against 
+Respondents, inter alia, in excess of $110 million on claims of 
+breach of contract, tortious interference with contract, and 
+slander of title. On November 24, 1992, Respondents’ counsel 
+advised Petitioners of the adverse jury verdict by a short, 
+one-sentence letter.* No demand for coverage was made at 
+that time and no lawsuit was threatened by the Respondents. 
+
+
+Having declined coverage and believing there to be a 
+serious question as to whether their policies provided cover- 
+age, Petitioners filed suit in the United States District Court 
+for the Southern District of Texas on December 9, 1993, 
+seeking a declaration that none of the coverages of the 
+policies insured losses such as incurred as a result of the 
+Winkler County lawsuit.° 
+
+
+In December 1992, Respondents’ counsel requested that 
+Petitioners dismis. their declaratory judgment action. 
+Respondents’ counsel represented to Petitioners’ counsel that 
+other insurers were the target of Respondents’ coverage 
+
+
+3 ROA I pp. 185-88, 204 6; III p. 3. 
+4 ROA I pp. 193-95, 205 2; II pp. 53-58, 145-47, 150 42. 
+5 ROA II pp. 1-110; I p. 225; I p. 5. 
+
+
+claims and that no suit against Petitioners was contemplated 
+by Respondents.°® 
+
+
+Hoping to resolve the coverage dispute amicably with- 
+out the need of a federal or state court suit, Petitioners 
+agreed voluntarily to dismiss their action. However, Peti- 
+tioners so agreed only after reaching an agreement that 
+Respondents would give Petitioners two we-ks’ notice if, 
+and when, Respondents decided to pursue their claims 
+against Petitioners. On January 22, 1993, Petitioners volun- 
+tarily dismissed their declaratory judgment action in accor- 
+dance with this agreement with Respondents. 
+
+
+On February 23, 1993, Respondents’ counsel notified 
+Petitioners of their intention to file suit in Travis County, 
+Texas. Accordingly, Petitioner. refiled their declaratory judg- 
+ment action on February 24, 1993. 
+
+
+Although Respondents filed an action at that time 
+against other insurers in state court in Dallas County, Texas,” 
+
+
+© ROA I pp. 193-98, 205 43, 225; II pp. 139-144, 150 43; III p. 
+19. Long before Respondents filed any suit against Petitioners, 
+and indeed before they ever made claims against any of these 
+Underwriters, Respondents were engaged in an active contro- 
+versy with other insurers. 
+
+
+7 Plaintiffs’ Original Petition and Application for Injunctive 
+Relief was filed by Margaret Hunt Hill, et al., against Ronald 
+Malcolm Pateman, Certain Underwriters at Lloyd’s of London 
+and Other Insurance Companies on February 24, 1993, in the 
+298th Judicial District Court, Dallas County, Texas. ROA I pp. 
+152-183, 204 97. When Respondents finally brought suit in 
+Dallas County, Texas against their other insurers, it was some 
+three months after the filing of Petitioners’ first declaratory 
+judgment action and a month after the voluntary dismissal 
+thereof; as Petitioners were not named as parties in the Dallas 
+
+
+they waited until March 26, 1993 to initiate an action against 
+Petitioners; this was over a month after Petitioners’ present 
+declaratory judgment action was filed and almost four 
+months after Petitioners filed their initial declaratory judg- 
+ment action on December 9, 1992.8 Simultaneously, Respon- 
+dents filed a motion to dismiss or stay this declaratory 
+judgment action pending resolution of their newly instigated 
+state court action.’ 
+
+
+At the time Petitioners made their Response to the 
+Motion to Dismiss or Stay, the only action taken in the Travis 
+County case had been Respondents’ filing of their original 
+petition. At that time, Petitioners had not answered in Travis 
+County nor had even been served with citation therein.'° 
+Petitioners’ answer in the later-filed state court suit was 
+made mere weeks before this action was stayed."! 
+
+
+The district court granted Respondents’ motion and 
+ordered this litigation stayed, pending the resolution by the 
+state court of Respondents’ later-filed action. The district 
+court based its decision to abstain on two principal factors, 
+namely, the possibility of piecemeal litigation, and Peti- 
+tioners’ “race” to the courthouse, filing suit in anticipation of 
+expected litigation. Appendix pp. B-2 & B-3. In doing so, the 
+district court failed to apply the abstention factors this Court 
+
+
+County action, it took Respondents yet another month to sue 
+Petitioners, when Respondents’ Travis County action was filed 
+March 26, 1993. 
+
+
+8 ROA II pp. 120-137, 150 45. 
+* ROA I pp. 261-63. 
+
+10 ROA I pp. 212-13. 
+
+1! ROA I p. 213. 
+
+
+mandated in Colorado River Water Conservation Dist. v. United 
+States, 424 U.S. 800, 96 S.Ct. 1236, 47 L.Ed. 2d 483 (1976) and 
+Moses H. Cone Memorial Hospital v. Mercury Construction 
+Corp., 460 U.S. 1, 103 S.Ct. 927, 74 L.Ed. 2d 765 (1983). 
+
+
+On appeal, the Court of Appeals for the Fifth Circuit 
+reviewed the district court’s decision solely for abuse of 
+discretion, and affirmed. In doing so, the Fifth Circuit relied 
+upon its decision in Granite State Ins. Co. v. Tandy Corp., 986 
+F.2d 94, 97 (CAS), cert. granted, __ U.S. __, 113 S.Ct. 51, 
+121 L.Ed. 2d 21 (1992), cert. dismissed, __ U.S. __, 113 
+S.Ct. 1836, 123 L.Ed. 2d 463 (1993), wherein the analysis 
+established under Colorado River and Moses H. Cone are 
+specifically rejected in the context of the broad discretion 
+to decline to grant declaratory relief under Brillhart v. 
+Excess Insurance Co., 316 U.S. 491, 62 S.Ct. 1173, 86 L.Ed. 
+2d 1620 (1942). Appendix, pp. A-3 & A-4. As interpreted 
+by the Court of Appeals, the exceptional-circumstances 
+test required by this Court in all other abstention-type 
+cases is unnecessary in decisions under the Declaratory 
+Judgment Act. The Fifth Circuit deviated from estab- 
+lished practice in at least six other circuits in its deference 
+to the district court’s discretion, and from the law applied 
+in at least ten other circuits in its outright rejection of 
+Colorado River and Moses H. Cone. In direct conflict with 
+current Fifth Circuit practice, four circuits have expressly 
+mandated that a district court must consider the Colorado 
+River/Moses H. Cone factors before deciding to abstain 
+from exercising its jurisdiction in a declaratory judgment 
+action. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+I. In conflict with other Circuits, the Fifth Circuit 
+reviews a district court’s decision to stay under a 
+deferential abuse of discretion standard rather than 
+de novo. 
+
+
+The Fifth Circuit, in the opinion below, held that, 
+“This court reviews the dismissal of a declaratory judg- 
+ment action for an abuse of discretion.” Appendix, p. A-3. 
+As read by the Court of Appeals, this discretion vested in 
+the district court is reviewed highly deferentially under 
+several cases. Brillhart, 316 U.S. at 497; Travelers Ins. Co. v. 
+Louisiana Farm Bureau Federation, Inc., 996 F.2d 774, 778-79 
+(CA5 1993); Granite State, 986 F.2d at 97-98; Rowan Co., 
+Inc. v. Griffin, 876 F.2d 26, 29 (CA5 1989). In doing so, the 
+Fifth Circuit is in accord with the First and the Second 
+Circuits and the recent decisions of the Eighth and the 
+Tenth Circuits in United States Fidelity & Guar. Co. v. 
+Murphy Oil USA, Inc., 21 F.3d 259, 263 (CA8 1994) and 
+State Farm Fire & Cas. Co. v. Mhoon, ___ F.3d __, 1994 WL 
+396173 (CA10 August 1, 1994).!? 
+
+
+This deferential review directly conflicts with deci- 
+sions of the Third, the Sixth, the Seventh, the Ninth, the 
+Eleventh and the District of Columbia Circuits. See Conti- 
+nental Cas. Co. v. Robsac Indus., 947 F.2d 1367, 1370 (CA9 
+1991) (insurance dispute); Allstate Ins. Co. v. Mercier, 913 
+F.2d 273, 277 (CA6 1990) (insurance dispute); Cincinnati 
+
+
+12 See El Dia, Inc. v. Hernandez Colon, 963 F.2d 488, 490 (CA1 
+1992); Villa Marina Yacht Sales v. Hatteras Yachts, 915 F.2d 7, 16 
+(CA1 1990); General Reinsurance Corp. v. Ciba-Geigy Corp., 853 
+F.2d 78, 81 (CA2), cert. denied, __ U.S. __, 114 S.Ct. 1126, 127 
+L.Ed. 2d 434 (1988). 
+
+
+10 
+
+
+Ins. Co. v. Holbrook, 867 F.2d 1330, 1333 (CA11 1989) 
+(insurance dispute); International Harvester Co. v. Deere & 
+Co., 623 F.2d 1207, 1217 (CA7 1980) (patent dispute); 
+Hanes Corp. v. Millard, 531 F.2d 585, 591 (CADC 1976) 
+(personal injury action). Review by this Court is neces- 
+sary to provide a consistent standard among the Circuits 
+concerning exercise of federal jurisdiction. 
+
+
+Decisions in the other Circuits highlight the impor- 
+tance of this issue. “Because theories of state and federal 
+law, and expressions of federalism and comity, are so 
+interrelated in the decision to abstain such dispositions 
+are elevated to a level of importance dictating de novo 
+appellate review.” Traughber v. Beauchane, 760 F.2d 673, 
+676 (CA6 1985) (Pullman abstention). Specifically, the 
+Sixth Circuit reviews de novo decisions involving the exer- 
+cise of discretion under the declaratory judgment act. 
+Mercier, 913 F.2d at 277 (construction of « homeowners 
+insurance policy); see also Heitmanis v. Austin, 899 F.2d 
+521, 527 (CA6 1990) (Colorado River abstention). 
+
+
+When the Pennsylvania Insurance Commissioner 
+sued foreign reinsurers on behalf of a regulated carrier in 
+receivership, the reinsurers counterclaimed for a declara- 
+tion of rights in Grode v. Mutual Fire, Marine & Inland Ins. 
+Co., 8 F.3d 953, 957-58 (CA3 1993). Upon review claiming 
+abuse of discretion in abstaining under either the Colorado 
+River or Burford doctrines, the Third Circuit clarified that 
+“the underlying legal questions are subject to plenary 
+review,” so that the appeals court’s review is not limited 
+to an abuse-of-discretion standard. Grode, 8 F.3d at 957. 
+
+
+The Ninth and the Eleventh Circuits also review de 
+novo the decision to exercise jurisdiction over insurance 
+
+
+11 
+
+
+disputes under the Declaratory Judgment Act. 40235 
+Washington Street Corp. v. Lusardi, 976 F.2d 587, 588-89 
+(CA9 1992); Robsac, 947 F.2d at 1370. The Eleventh Circuit 
+has specifically rejected deferential review in a declara- 
+tory judgment action, and uses its own judgment to 
+resolve the issues.'* “Although the district court has an 
+area of discretion in deciding whether to grant or deny 
+declaratory relief, that discretion should be exercised lib- 
+erally in favor of granting such relief in order to accom- 
+plish the purposes of the Declaratory Judgment Act. The 
+scope of appellate review of the exercise of such discre- 
+tion is not under an ‘arbitrary and capricious’ standard 
+but allows the appellate court to substitute its judgment 
+for that of the trial court.” Cincinnati Insurance, 867 F.2d at 
+1333 (citations omitted). 
+
+
+The importance of this issue is not limited to the 
+insurance context. And while the Federal Circuit and 
+scattered patent decisions from the other courts of 
+appeals utilize an abuse of discretion standard,'4 the Sev- 
+enth and the District of Columbia Circuits have reviewed 
+declaratory judgment abstentions de novo in that and 
+other contexts. Though there is “no absolute right to a 
+
+
+13 Turner Entert. Co. v. Degeto Film Gmbh., 25 F.3d 1512, 1515 
+(CA11 1994); American Mfrs. Mut. Ins. Inc. v. Edward D. Stone, Jr. 
+& Assoc., 743 F.2d 1519, 1525 (CA11 1984). 
+
+
+14 Gerentech, Inc. v. Eli Lilly & Co., 998 F.2d 931, 933 (CTAF 
+1993) (abuse of discretion to dismiss University “in favor of 
+later-filed suit in California”); Intermedics Infusaid, Inc. v. Regents 
+of Univ. of Minn., 804 F.2d 129, 133 (CTAF 1986) (no abuse of 
+discretion to stay a patent declaratory judgment action brought 
+by the licensee). 
+
+
+12 
+
+
+declaratory judgment in the federal courts,” in the Dis- 
+trict of Columbia Circuit, the grant or denial of declara- 
+tory relief is subject to “searcltung review.” Hanes Corp., 
+531 F.2d at 591. The Seventh Circuit “does not defer to the 
+judgment of the district court [but] must exercise its own 
+sound discretion as to the propriety of the grant or denial 
+of a declaratory judgment.” International Harvester, 623 
+F.2d at 1217 (citations omitted) (patent violation); see also 
+Tempco Elec. Heater Co. v. Omega Engineering, Inc., 819 F.2d 
+746, 749 (CA7 1987) (patent infringement). 
+
+
+The Third, the Sixth, the Seventh, the Ninth, the 
+Eleventh and the District of Columbia Circuits review de 
+novo abstention decisions in declaratory judgment cases. 
+The deferential review accorded by the First, the Second, 
+the Fifth, the Eighth, and the Tenth (and to a limited 
+extent the Fourth and the Federal) Circuits is in express 
+conflict with the decisions of six other Circuits. The sub- 
+stantial conflict between the standards applied between 
+the two circuit groupings indicates that this problem 
+extends beyond the particular facts of Petitioners’ dispute 
+with their insureds. The breadth of the conflict, and the 
+need to assure uniformity among the Circuits on a basic 
+issue of federal procedure, support the granting of the 
+writ Petitioners’ request. 
+
+
+13 
+
+
+Il. In conflict with decisions of other Circuits, the 
+Fifth Circuit has expressly ignored this Court’s 
+mandate that federal courts have a virtually unflag- 
+ging obligation to exercise their jurisdiction, and 
+that only exceptional circumstances justify abdica- 
+tion of that responsibility. 
+
+
+This Court should hear this case to restore the effi- 
+cacy of the declaratory judgment remedy and to resolve 
+the conflicting decisions involving the abstention doc- 
+trine as applied in the declaratory judgment context. This 
+case presents the Court with a prime opportunity to 
+resolve conclusively what has become an increasingly 
+tangled web of decisions issued by several courts of 
+appeals on the factors appropriate for determining 
+whether a district court should abstain from exercising 
+jurisdiction in a declaratory judgment action. 
+
+
+A. Policy considerations, issues of federalism and 
+comity, and effectuation of Congress’ intent 
+support certiorari review of this case. 
+
+
+Deference to a later-filed state court action, simply 
+because another forum is available, is inconsistent with 
+the affirmative, remedial character of the right to a fed- 
+eral forum granted by Congress. The legislative intent is 
+clear that parties to private disputes should be able to 
+avail themselves of this procedural mechanism and 
+obtain, where appropriate, a declaration of their rights 
+and responsibilities from a neutral forum. H.R. Rep. No. 
+627, 72d Cong., 1st Sess., at 2 (1932); H.R. Rep. No. 1264, 
+73d Cong., 2d Sess., at 2 (1934). 
+
+
+14 
+
+
+Congress has not given district courts discretion to 
+dismiss cases merely because it is more convenient to do 
+so. Rather, district courts have discretion to grant the 
+relief sought, or to deny the relief sought, following a full 
+trial on the merits. See S. Rep. No. 1005, 73d Cong., 2d 
+Sess., at 2, 5 (1934). As visualized by its framers, the 
+Declaratory Judgment Act was intended to be a progres- 
+sive, affirmative protection for “the perplexed and inse- 
+cure citizen,” specifically in insurance disputes. Edwin 
+Borchard, Dectaratory JUDGMENTS vii, 634-80 (2d ed. 
+1941).15 
+
+
+All litigants have a right to maintain a suit under the 
+Declaratory Judgment Act to secure a judgment deter- 
+mining the obligations and liabilities of the parties. Aetna 
+Life Ins. Co. v. Haworth, 300 U.S. 227, 243-44, 57 S.Ct. 461, 
+465, 81 L.Ed. 617, 622-23 (1937). To effectuate this intent, 
+district courts must give declaratory judgment litigants 
+their day in court. District courts must hear declaratory 
+judgment cases; district courts may decline to enter the 
+requested relief. See H.R. Rep. No. 627, 72d Cong., 1st 
+Sess., at 2 (1932). 
+
+
+The Fifth Circuit’s decision to allow unfettered dis- 
+cretion to stay duly-filed federal cases in light of later- 
+filed state actions effectively eviscerates the declaratory 
+judgment remedy that Congress enacted for situations 
+just like the one in this case. This Court's recent decisions 
+in McCarthy v. Madigan, __ U.S. __, 112 S.Ct. 1081, 117 
+
+
+'S Professor Borchard, one of the earliest proponents of 
+declaratory judgments, testified before the Senate Judiciary 
+Committee in support of the passage of the Declaratory Judg- 
+ment Act. See S. Rep. No. 1005, 73d Cong., 2d Sess., at 2 (1934). 
+
+
+15 
+
+
+L.Ed. 2d 291 (1992), and New Orleans Pub. Serv., Inc. v. 
+New Orleans, 491 U.S. 350, 109 S.Ct. 2506, 105 L.Ed. 2d 298 
+(1989), command a district court with valid jurisdiction to 
+exercise that jurisdiction in declaratory judgment cases, 
+except in the most exceptional circumstances. 
+
+
+McCarthy, New Orleans Pub. Serv., Inc., and Moses H. 
+Cone make it clear that declaratory judgment actions must 
+be viewed with the same unflagging obligation to exer- 
+cise jurisdiction as is required with all other types of 
+actions validly within federal jurisdiction. If the only 
+restraints on a district court’s discretion is that its deci- 
+sion to stay or dismiss a declaratory judgment action is 
+not governed by bias and is neither arbitrary nor capri- 
+cious, the mere pendency of a state court action will be 
+considered sufficient grounds to abstain.'© District courts 
+may not cavalierly cast aside their responsibility to 
+resolve matters within their jurisdiction, and “there is no 
+doctrine that the availability or even the pendency of 
+state judicial proceedings excludes the federal courts.” 
+New Orleans Pub. Serv., Inc., 491 U.S. at 373, 109 S.Ct. at 
+2520. 
+
+
+16 Some lower federal courts, presented with declaratory 
+judgment actions and parallel state court litigation, have 
+applied Colorado River where federal law is at issue, but not 
+when state law applies. Still others have applied Colorado River 
+when the federal court action was filed first, but not when it was 
+filed later. Where circuit law so required or the conscience of the 
+court indicated its propriety, some district courts have paid lip 
+service to the factors this Court has articulated, but in practice 
+have simply ignored Colorado River's unflagging obligation to 
+exercise jurisdiction. 
+
+
+16 
+
+
+As federal jurisdiction is not discretionary, the 
+absence of a test restraining the district courts’ unfettered 
+discretion to decline that jurisdiction is “treason to the 
+Constitution.” Id. at 358, 109 S.Ct. at 2512-13 (“The right 
+of a party plaintiff to choose a federal court where there 
+
+
+is a choice cannot properly be denied.” (citations omit- 
+ted)). 
+
+
+Absent some uniform set of factors to govern the 
+discretion Brillhart and its Fifth and Ninth Circuit prog- 
+eny vest with the district courts, there is serious doubt as 
+to the continuing viability of the Declaratory Judgment 
+Act as an affirmative remedy, especially for insurers. 
+Coupled with the Fifth Circuit’s abuse-of-discretion 
+review of the decision to dismiss or stay, unfettered dis- 
+cretion seriously prejudices a declaratory judgment plain- 
+tiff’s right to request a statutory remedy under 
+standardized considerations “informed by the teachings 
+and experience concerning the functions and extent of 
+federal judicial power.” Public Serv. Comm'n v. Wycoff Co., 
+344 U.S. 237, 243, 73 S.Ct. 236, 240, 97 L.Ed. 291, 299 
+(1952). The importance of both federalism and comity 
+concerns require that district courts faced with declara- 
+tory judgment actions engage in a careful analysis of the 
+factors set out by this Court in Colorado River and Moses 
+H. Cone. 
+
+
+17 
+
+
+B. The Fifth, the Seventh, and the Ninth Circuits 
+have given district courts virtually unfettered 
+discretion to dismiss or stay validly filed 
+declaratory judgment actions, whereas adher- 
+ence to this Court’s commands regarding 
+abstention substantially protects litigants in 
+the other ten circuits in their exercise of the 
+federal remedy Congress saw fit to create. 
+
+
+Resolution by this Court is also required by the direct 
+conflict amongst the Circuits, and in some instances 
+within decisions of a circuit distinguishable only by judi- 
+cial fictions tailored to the facts.!7 The Fifth Circuit has 
+ultimately held that, in declaratory judgment cases, a 
+district court has virtually unfettered discretion guided 
+by only the roughest considerations.'* In accord with the 
+Ninth Circuit in Robsac, the Fifth Circuit in Granite State 
+and subsequent decisions has held that the Colorado River 
+
+
+17 Compare Sinclair Oil Corp. v. Amoco Production Co., 982 
+F.2d 437, 440 (CA10 1992) with Life-Link Intern., Inc. v. Lalla, 902 
+F.2d 1493, 1495 (CA10 1990); and Aetna Cas. & Sur. Co. v. Merritt, 
+974 F.2d 1196, 1199 (CA9 1992) with Continental Cas. Co. v. Robsac 
+Indus., Inc., 947 F.2d 1367, 1371 (CA9 1991); and Rowan Co., Inc. v. 
+Griffin, 876 F.2d 26, 29 (CA5 1989) with Evanston Ins. Co. v. Jimco, 
+Inc., 844 F.2d 1185, 1191 (CA5 1988). 
+
+
+18 While there is now a six-factor Fifth Circuit test for 
+abstention from a declaratory judgment action in consideration 
+of a parallel state court suit, a district court’s decision to dismiss 
+or stay a properly filed federal action still does not have to 
+weigh three of the crucial considerations articulated in Colorado 
+River, 424 U.S. at 800 and Moses H. Cone, 460 U.S. at 1. See 
+Travelers, 996 F.2d at 778-79 (omitting jurisdiction over real 
+property, precedence of filing, conflict of laws or application of 
+federal law). 
+
+
+18 
+
+
+and Moses H. Cone factors do not apply to declaratory 
+judgment actions. Travelers, 996 F.2d at 778-79. Accord 
+Robsac, 947 F.2d at 1370. Petitioners respectfully assert 
+that this is contrary to this Court’s pronouncement that 
+“Abdication of the obligation to decide cases can be justi- 
+fied under [the abstention] doctrine only in the excep- 
+tional circumstances where the order to the parties to 
+repair to the state court would clearly serve an important 
+countervailing interest.” Colorado River, 424 U.S. at 813. 
+
+
+When Granite State overruled a conflicting intracir- 
+cuit decision that had applied the Colorado River/ Moses H. 
+Cone factors, the Fifth Circuit joined a very small minor- 
+ity. While four of the courts of appeals have expressly 
+mandated that district courts consider the Colorado 
+River/Moses H. Cone factors in all declaratory judgment 
+cases,!? another six circuits have ruled that this Court's 
+traditional abstention analysis governs at least some 
+declaratory judgment contexts or that some elements of 
+this Court’s test should be considered in deciding to 
+dismiss or stay a properly filed declaratory judgment 
+action. 
+
+
+Only two courts of appeals, those for the Seventh and 
+the Ninth Circuits, have never held that traditional 
+abstention analysis and specifically the Colorado 
+
+
+19 Employers Ins. of Wausau v. Missouri Elec. Works, Inc., 23 
+F.3d 1372, 1374-75 (CA8 1994); Villa Marina Yacht Sales v. Hatteras 
+Yachts, 915 F.2d 7, 16 (CA1 1990); General Reinsurance Corp. v. 
+Ciba-Geigy Corp., 853 F.2d 78, 81 (CA2 1988); American Mfrs. Mut. 
+Ins. Inc. v. Edward D. Stone, Jr. & Assoc., 743 F.2d 1519, 1525 
+(CA11 1984). 
+
+
+en 
+
+
+19 
+
+
+River/Moses H. Cone factors apply to declaratory judg- 
+ment actions.2° In comparison, the First Circuit in Villa 
+Marina not only held the six factors applied in Moses H. 
+Cone directly applicable to declaratory judgment cases, 
+but offered — factor by factor for three pages - the district 
+court on remand “some guidance for what we anticipate 
+will be a difficult decision [because it is] worth giving 
+some attention to our view of the significance of certain 
+factors.” Villa Marina, 915 F.2d at 13 & 14-16. 
+
+
+In addition to the First, the Second, the Eighth, and 
+the Eleventh Circuits wherein the Colorado River/ Moses H. 
+Cone factors expressly govern declaratory judgment 
+abstention and effectively limit the district court’s 
+unbridled discretion under Brillhart, those factors have 
+been applied sporadically or were at least considered in 
+cases from six other circuits. Gerentech, Inc. v. Eli Lilly & 
+Co., 998 F.2d 931, 949 (CTAF 1993); Mitcheson v. Harris, 935 
+F.2d 235, 239-40 & n.2 (CA4 1992); University of Maryland 
+
+
+20 Robsac, 947 F.2d at 1370. But see Allendale Mut. Ins. Co. v. 
+Bull Data Sys., 10 F.3d 425, 430-31 (CA7 1993) (after New Orleans 
+Pub. Serv. Inc., applies Colorado River presumption against 
+abstention in a declaratory judgment context, but no discussion 
+of the six-factor test); Interstate Material Corp. v. City of Chicago, 
+847 F.2d 1285, 1288 (CA7 1988) (ten-factor test arguably incor- 
+porating all this Court’s considerations, but in different formu- 
+lations); Tempco Elec. Heater Co. v. Omega Engineering, Inc., 819 
+F.2d 746, 749 (CA7 1987) (upholds Brillhart discretion in patent 
+infringement case, but declines to address declaratory judgment 
+plaintiff’s invocation of abstention principles); Board of Educ. v. 
+Bosworth, 713 F.2d 1316, 1318 (CA7 1983) (Burford abstention). 
+The discernable trend in the Seventh Circuit is, if predictions 
+were to be made, to adopt this Court’s Colorado River/ Moses H. 
+Cone factors, as well as the presumption against abstention and 
+the exceptional-circumstances doctrine. 
+
+
+20 
+
+
+v. Peat Marwick Main & Co., 923 F.2d 265, 271 (CA3 1991); 
+Life-Link Intern., Inc. v. Lalla, 902 F.2d 1493, 1495 (CA10 
+1990); Heitmanis v. Austin, 899 F.2d 521, 527 (CA6 1990); 
+Hanes Corp. v. Millard, 531 F.2d 585, 591 (CADC 1976). 
+
+
+While there is either conflicting authority within the 
+circuit or there are differing tests depending upon cir- 
+cumstances the court of appeals has considered deter- 
+minative of a particular case,?! the District of Columbia, 
+the Federal, the Third, the Fourth, the Sixth, and the 
+Tenth Circuits join the First, the Second, the Eighth, and 
+the Eleventh Circuits in considering this Court’s absten- 
+tion precedents at least applicable to the decision to stay 
+or dismiss a properly filed declaratory judgment action. 
+
+
+This case is stayed because of the Fifth Circuit’s use 
+of a scheme contrary to the decisions of its sister circuits 
+and this Court. Had this case been brought in a district 
+court in the District of Columbia, the Federal, the First, 
+the Second, the Third, the Fourth, the Sixth, the Eighth, 
+the Tenth or the Eleventh Circuits, those courts would 
+have allowed this case to proceed. The circuit in which a 
+case is filed should not determine the standard applied in 
+exercising federal jurisdiction. Certiorari is warranted to 
+
+
+*! For instance, the District of Columbia Circuit has had 
+few occasions to pass on the factors to be considered in declin- 
+ing to hear a declaratory judgment action, but Hanes Corp. does 
+cite to Colorado River. Hanes Corp., 531 F.2d at 591. The Tenth 
+Circuit has the most tangled set of tests and the clearest intracir- 
+cuit split. See, e.g., Sinclair Oil Corp. v. Amoco Production Co., 982 
+F.2d 437, 440 (CA10 1992) (in conflict with Life-Link Intern., Inc. 
+v. Lalla, 902 F.2d 1493, 1495 (CA10 1990)). 
+
+
+21 
+
+
+resolve this conflict between two groups of circuits, and 
+to assure uniformity of federal decisions on this issue of 
+
+
+federal law. 
+
+
+This significant split between the Circuits as to the 
+proper analysis to be applied in declaratory judgment 
+actions requires immediate resolution. While certiorari 
+review by this Court on this particular issue was granted 
+in Granite State, voluntary dismissal of that cause left 
+practitioners and the Courts of Appeals without guid- 
+ance. Cert. granted __ U.S. __, 113 S.Ct. 51, 121 L.Ed. 2d 
+21 (1992); cert. dismissed, __ U.S. __, 113 S.Ct. 1836, 123 
+L.Ed. 2d 463 (1993). 
+
+
+The Fifth Circuit is the only court of appeals which 
+has expressly declared that the standardless decision to 
+dismiss or stay will be reviewed only for an abuse of 
+discretion by the district court. In contrast with even the 
+Ninth Circuit that also rejects the applicability of Colorado 
+River and Moses H. Cone to declaratory judgment actions, 
+the Fifth Circuit has left litigants with no meaningful 
+protection against the “whim or personal disinclination” 
+of the district courts to decline properly invoked jurisdic- 
+tion whenever a parallel suit suggests the possibility of 
+piecemeal litigation. Substantially standardless and 
+nearly unreviewable discretion to dismiss or stay mocks 
+the “virtually unflagging obligation of the federal courts 
+to exercise the jurisdiction given them.” Colorado River, 
+424 U.S. at 817; 96 S.Ct. at 1246. 
+
+
+« 
+
+
+22 
+
+
+CONCLUSION 
+
+
+This case involves the degree of deference a district 
+court’s decision to dismiss or stay a declaratory judgment 
+action deserves on appeal, and the factors which should 
+be applied in that decision regardless of the circuit in 
+which the federal action is filed. The importance of these 
+issues extends well beyond the facts of this dispute, for 
+the outcome here will affect the abstention doctrine 
+broadly. Nothing less than the continued viability of the 
+Declaratory Judgment Act is at stake. For these reasons, 
+the Court should exercise its discretion to grant a writ of 
+certiorari. 
+
+
+Respectfully submitted, 
+
+
+MicHae. A. ORLANDO 
+Counsel of Record for 
+Petitioners 
+
+
+Patrick C. AppeL 
+
+Paut LeRoy Crist 
+
+Meyer OrLANDO & EVANSpc 
+2300 America Tower 
+
+2929 Allen Parkway 
+Houston, TX 77019 
+Telephone: 713-523-1101 
+
+Fax: 713-523-2002 
+
+Counsel for Petitioners 
+
+Leslie Wilton on Behalf of 
+Himself and as Representative 
+of Certain Underwriters at 
+Lloyd's of London, and Certain 
+Member Companies of the 
+Institute of London Underwriters 
+
+
+September 26, 1994 
+
+
+> hee 
+
+
+No. 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1994 
+
+
+° 
+
+
+LESLIE WILTON, ON BEHALF OF HIMSELF AND AS A 
+REPRESENTATIVE OF CERTAIN UNDERWRITERS AT 
+LLOYD’S OF LONDON, AND CERTAIN INSTITUTE OF 
+LONDON UNDERWRITERS COMPANIES, AS FOLLOWS, THE 
+ORION INSURANCE COMPANY, PLC, SKANDIA U.K. 
+INSURANCE PLC, THE YASUDA FIRE & MARINE 
+INSURANCE COMPANY OF EUROPE, LTD., OCEAN 
+MARINE INSURANCE CO., LTD., YORKSHIRE INSURANCE 
+CO., LTD., MINSTER INSURANCE CO., LTD., PRUDENTIAL 
+ASSURANCE CO., LTD., PEARL ASSURANCE PLC, 
+BISHOPSGATE INSURANCE LTD., HANSA MARINE INS. CO. 
+(UK) LTD., VESTA (UK) INS. CO., LTD., NORTHERN 
+ASSURANCE CO., LTD., CORNHILL INSURANCE CO., LTD., 
+SIRIUS INSURANCE CO., (UK) LTD., SOVEREIGN MARINE & 
+GENERAL INSURANCE CO., TOKIO MARINE & FIRE 
+INSURANCE (UK) LTD., TAISHO MARINE & FIRE 
+INSURANCE CO. (UK) LTD., STOREBRAND INSURANCE CO. 
+(UK) LTD., ATLANTIC MUTUAL INSURANCE CO., ALLIANZ 
+INTERNATIONAL INSURANCE CO., LTD., AND WAUSAU 
+INSURANCE CO. (UK) LTD., 
+
+
+versus Petitioners, 
+
+
+SEVEN FALLS COMPANY, MARGARET HUNT HILL, 
+ESTATE OF A. G. HILL, LYDA HILL, ALINDA H. WIKERT, 
+AND U.S. FINANCIAL CORP., 
+
+
+Respondents. 
+
+
+APPENDIX TO 
+PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+i 
+
+
+A-l 
+
+
+APPENDIX 
+
+
+UNITED STATES COURT OF APPEALS 
+for the Fifth Circuit 
+
+
+No. 93-2608 
+Summary Calendar 
+
+
+LESLIE WILTON, ETC., ET AL., 
+Plaintiffs-Appellants, 
+VERSUS 
+SEVEN FALLS COMPANY, ET AL., 
+Defendants-Appellees. 
+
+
+Appeal from the United States District Court 
+for the Southern District of Texas 
+(CA H 93 0531) 
+
+
+[Filed June 29, 1994] 
+Before GARWOOD, DAVIS, and DUHE, Circuit Judges. 
+
+
+DAVIS, Circuit Judge:! 
+
+
+The plaintiffs appeal the district court’s order staying 
+this action for declaratory judgment pending resolution 
+of a later-filed state court suit. Because we find that the 
+
+
+' Local Rule 47.5 provides: “The publication of opinions 
+that have no precedential value and merely decide particular 
+cases on the basis of well-settled principles of law imposes 
+needless expense on the public and burdens on the legal profes- 
+sion.” Pursuant to that Rule, the Court has determined that this 
+opinion should not be published. 
+
+
+A-2 
+
+
+district court did not abuse its discretion in staying this 
+action, we affirm. 
+
+
+I. 
+
+
+In October 1992, a verdict in excess of $100 million 
+was rendered against the appellees and others in suits 
+involving a dispute over the ownership and operation of 
+certain oil and gas properties. Anticipating litigation 
+based on this verdict, in December 1992, the plaintiffs / 
+appellants (collectively “London Underwriters”) filed a 
+declaratory judgment action pursuant to 28 U.S.C. § 2201 
+in the United States District Court for the Southern Dis- 
+trict of Texas. The appellants sought declaration of their 
+rights and liabilities under several policies of commercial 
+general liability insurance issued to appellees (collec- 
+tively the “Hill Group”). Counsel for the parties thereaf- 
+ter entered into an agreement whereby London 
+Underwriters agreed to voluntarily dismiss their declara- 
+tory judgment action in exchange for the Hiil Group’s 
+agreement to provide London Underwriters two weeks 
+advance notice prior to commencing any litigation 
+against London Underwriters. 
+
+
+In February 1993, the Hill Group notified London 
+Underwriters of their intention to file suit in state court. 
+London Underwriters immediately filed this dectaratory 
+judgment action in the Southern District of Texas. In 
+March 1993, the Hill Group filed an action against Lon- 
+don Underwriters in state court. At approximately the 
+same time, the Hill Group also filed a Rule 12(b) motion 
+to dismiss or stay the federal declaratory judgment 
+action. The district court granted the appellees’s [sic] Rule 
+
+
+Pe ed 
+
+
+Nemes let A 
+
+
+A-3 
+
+
+12 motion, staying the declaratory judgment action pend- 
+ing resolution of the state court action. London Under- 
+writers appeal. 
+
+
+Il. 
+
+
+The district court has broad discretion to grant (or 
+decline to grant) declaratory judgment. Torch, Inc. v. 
+LeBlanc, 947 F.2d 193, 194 (5th Cir. 1991). This court 
+reviews the dismissal of a declaratory judgment action 
+for an abuse of discretion. Rowan Cos. v. Griffin, 876 
+F.2d 26, 29 (5th Cir. 1989). 
+
+
+The district court may consider a variety of factors in 
+considering whether to grant or deny declaratory relief, 
+including the existence of a pending state court proceed- 
+ing in which the issues might be fully litigated. Id. 
+
+
+Fundamentally, the district court should deter- 
+mine whether the state action provides an ade- 
+quate vehicle for adjudicating the claims of the 
+parties and whether the federal action serves 
+some purpose beyond mere duplication of 
+effort. The district court should consider deny- 
+ing declaratory relief to avoid gratuitous inter- 
+ference with the orderly and comprehensive 
+disposition of a state court litigation if the 
+claims of all parties can satisfactorily be adjudi- 
+cated in the state court proceeding. 
+
+
+Matter of Magnolia Marine Transp. Co., 964 F.2d 1571, 
+1581 (5th Cir. 1992) (internal punctuation and citations 
+omitted). 
+
+
+A-4 
+
+
+The pending state court action in this case encom- 
+passes the coverage issues raised by London Underwri- 
+ters in this declaratory action. The appellants are parties 
+to the pending state court action and may assert coverage 
+defenses in that suit. The district court did not abuse its 
+discretion in concluding that maintenance of this declara- 
+tory judgment action would result in piecemeal adjudica- 
+tion of the coverage dispute and would reward London 
+Underwriters’s [sic] attempts to forum shop. Accordingly, 
+the district court’s order declining to entertain this 
+declaratory judgment action is affirmed. 
+
+
+AFFIRMED. 
+
+
+ee ee ee a 
+
+
+B-1 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE SOUTHERN DISTRICT OF TEXAS 
+HOUSTON DIVISION 
+
+
+LESLIE WILTON, On Behalf 
+of Himself and as a 
+Representative of Certain 
+Underwriters at Lloyd’s of 
+
+
+§ 
+
+§ 
+
+§ CIVIL ACTION 
+
+§ 
+London, et al., § 
+
+§ 
+
+§ 
+
+§ 
+
+§ 
+
+
+NO. H-93-531 
+
+
+Plaintiffs, 
+v. 
+SEVEN FALLS COMPANY, et al., 
+Defendants. § 
+
+
+Pending before this Court is a motion to dismiss or to 
+stay (Document #3) filed by defendants Seven Falls Com- 
+pany, Margaret Hunt Hill, Estate of A.G. Hill, Lyda Hill, 
+Alinda H. Wikert, and U.S. Financial Corporation. After 
+having considered the motion, the submissions of the 
+parties, and the applicable law, the Court determines that 
+this action should be stayed. 
+
+
+Plaintiffs Leslie Wilton, on behalf of himself and as a 
+representative of certain Underwriters at Lloyd’s of Lon- 
+don, and certain Institute of London Underwriters com- 
+panies filed this action, seeking a declaration of their 
+rights and obligations under five different insurance poli- 
+cies issued to the defendants. See Document #1. Plaintiffs 
+have denied coverage and defense obligations under the 
+policies for claims pending against defendants in Winkler 
+
+
+B-2 
+
+
+County, Texas and Dallas County, Texas (collectively, the 
+“Heritage Group claims”). See Document #1, Exhibit C. 
+
+
+In September 1992, before this action was filed, the 
+lawsuit pending in Winkler County proceeded to trial, 
+and the court entered a jury verdict against the defen- 
+dants in excess of $100 million. Document #3 at 1-2. After 
+receiving notice of the verdict, plaintiffs filed a declara- 
+tory judgment suit identical to the present action on 
+December 9, 1992. Document #3 at 2; Document #5 at 2-3. 
+That suit was dismissed without prejudice pursuant to an 
+agreement of counsel which required defendants to give 
+plaintiffs notice of any intent to commence litigation in 
+the future. Document #3 at 2; Document #5 at 3. Such 
+notice was given on February 23, 1993, and plaintiffs filed 
+this action later that day. Id. On March 26, 1993, defen- 
+dants filed a suit in Travis County, Texas, against the 
+plaintiffs for, among other things, breach of contract and 
+breach of the duty of good faith and fair dealing. Id. In 
+the instant motion, defendants seek to dismiss or to stay 
+this action pending the conclusion of the related suit in 
+Travis County. 
+
+
+The district court, in its discretion, may provide 
+declaratory relief. 909 Corp. v. Village of Bolingbrook Police 
+Pension Fund, 741 F. Supp. 1290, 1292 (S.D. Tex. 1990) 
+(citing Mission Ins. Co. v. Puritan Fashions Corp., 706 F.2d 
+599, 601 (5th Cir. 1983)). To determine if declaratory relief 
+is appropriate, the court may consider whether the 
+declaratory judgment action was filed in anticipation of a 
+trial on the same issues in state court. Rowan Companies, 
+Inc. v. Griffin, 876 F.2d 26, 29 (5th Cir. 1989) (citing Brill- 
+hart v. Excess Ins. Co. of America, 316 U.S. 491, 494-5 
+(1942)); 909 Corp., 741 F. Supp. at 1292. The court may also 
+
+
+B-3 
+
+
+consider whether granting relief will result in piecemeal 
+litigation. Granite State Ins. Co. v. Tandy Corp., 762 F. Supp. 
+156, 157 (S.D. Tex. 1991), aff'd, 959 F.2d 968 (1992) (cita- 
+tions omitted). 
+
+
+The state court lawsuit pending in Travis County 
+encompasses the coverage issues raised by the plaintiffs 
+in this action. The plaintiffs are already parties to that 
+suit and may assert their claims as defenses or counter- 
+claims. Resolving the plaintiffs’ claims in this Court, how- 
+ever, would not dispose of the Travis County suit. 
+Further, when the plaintiffs originally filed this suit in 
+December 1992, they did so in anticipation of litigation 
+after receiving notice of the Winkler County verdict.-See 
+909 Corp., 741 F. Supp. at 1292-93 (disallowing forum 
+shopping in the guise of a declaratory judgment action). 
+Thus, the Court finds that exercising jurisdiction to grant 
+declaratory relief would result in the piecemeal adjudica- 
+tion of the plaintiffs[’] and defendants’ coverage dispute 
+and would reward plaintiffs’ attempts to forum shop. See 
+Document #4, Exhibits B, C. A stay of these proceedings 
+is therefore appropriate. 
+
+
+Based on the foregoing, the Court 
+
+
+ORDERS that defendants’ motion to dismiss or to 
+stay (Document #3) is GRANTED IN PART. This action 
+[is] hereby STAYED pending resolution of Margaret Hunt 
+Hill, et al. v. Leslie Wilton, et al., No. 93-03542, currently 
+
+
+pending in the 299th Judicial District Court of Travis 
+County, Texas. 
+
+
+B-4 
+
+
+SIGNED at Houston, Texas, on this the 30 day of 
+June, 1993. 
+
+
+/s/ David Hittner 
+DAVID HITTNER 
+United States 
+District Judge 
+
+

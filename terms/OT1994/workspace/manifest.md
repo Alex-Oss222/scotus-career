@@ -76,18 +76,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-05-30 | OT_1994CHUNK6 | Garlotte v. Fordice | 94-6790 | MERITS | Merits decision | Completed: Garlotte_v_Fordice_merits_1995-05-30.md |
 | 1995-05-30 | OT_1994CHUNK6 | United States v. Wellons + | 94-496 | MERITS | Merits decision | Completed: United_States_v_Wellons_merits_1995-05-30.md |
 | 1995-06-05 | OT_1994CHUNK6 | Reno v. Koray | 94-790 | MERITS | Merits decision | Completed: Reno_v_Koray_merits_1995-06-05.md |
-| 1995-06-05 | OT_1994CHUNK7 | Metropolitan Washington Airports Authority v. Hechinger + | 94-851 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Missouri v. Jenkins | 93-1823 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Ryder v. United States | 94-431 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | City of Milwaukee v. Cement Division, National Gypsum Co. | 94-788 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Adarand Constructors, Inc. v. Peña | 93-1841 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Wilton v. Seven Falls Co. | 94-562 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Metropolitan Stevedore Co. v. Rambo | 94-820 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Johnson v. Jones | 94-455 | MERITS | Merits decision | Open |
-| 1995-06-12 | OT_1994CHUNK7 | Kimberlin v. Quinlan | 93-2068 | MERITS | Per curiam decision after merits submission | Open |
-| 1995-06-14 | OT_1994CHUNK7 | Commissioner v. Schleier | 94-500 | MERITS | Merits decision | Open |
-| 1995-06-14 | OT_1994CHUNK7 | Chandris, Inc. v. Latsis | 94-325 | MERITS | Merits decision | Open |
-| 1995-06-14 | OT_1994CHUNK7 | Witte v. United States | 94-6187 | MERITS | Merits decision | Open |
+| 1995-06-05 | OT_1994CHUNK7 | Metropolitan Washington Airports Authority v. Hechinger + | 94-851 | MERITS | Merits decision | Completed: Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md |
+| 1995-06-12 | OT_1994CHUNK7 | Missouri v. Jenkins | 93-1823 | MERITS | Merits decision | Completed: Missouri_v_Jenkins_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | Ryder v. United States | 94-431 | MERITS | Merits decision | Completed: Ryder_v_United_States_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | City of Milwaukee v. Cement Division, National Gypsum Co. | 94-788 | MERITS | Merits decision | Completed: City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | Adarand Constructors, Inc. v. Peña | 93-1841 | MERITS | Merits decision | Completed: Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | Wilton v. Seven Falls Co. | 94-562 | MERITS | Merits decision | Completed: Wilton_v_Seven_Falls_Co_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | Metropolitan Stevedore Co. v. Rambo | 94-820 | MERITS | Merits decision | Completed: Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | Johnson v. Jones | 94-455 | MERITS | Merits decision | Completed: Johnson_v_Jones_merits_1995-06-12.md |
+| 1995-06-12 | OT_1994CHUNK7 | Kimberlin v. Quinlan | 93-2068 | MERITS | Per curiam decision after merits submission | Completed: Kimberlin_v_Quinlan_merits_1995-06-12.md |
+| 1995-06-14 | OT_1994CHUNK7 | Commissioner v. Schleier | 94-500 | MERITS | Merits decision | Completed: Commissioner_v_Schleier_merits_1995-06-14.md |
+| 1995-06-14 | OT_1994CHUNK7 | Chandris, Inc. v. Latsis | 94-325 | MERITS | Merits decision | Completed: Chandris_Inc_v_Latsis_merits_1995-06-14.md |
+| 1995-06-14 | OT_1994CHUNK7 | Witte v. United States | 94-6187 | MERITS | Merits decision | Completed: Witte_v_United_States_merits_1995-06-14.md |
 | 1995-06-14 | OT_1994CHUNK8 | Gutierrez de Martinez v. Lamagno | 94-167 | MERITS | Merits decision | Open |
 | 1995-06-14 | OT_1994CHUNK8 | Oklahoma Tax Commission v. Chickasaw Nation | 94-771 | MERITS | Merits decision | Open |
 | 1995-06-19 | OT_1994CHUNK8 | Sandin v. Conner | 93-1911 | MERITS | Merits decision | Open |
@@ -172,17 +172,17 @@ Authority for inventory identity and dates: `case-list.md` and the nine briefs�
 | 1995-03-10 | Revised Vaccine Injury Table and Qualifications and Aids to Interpretation, 60 Fed. Reg. 7678–7696 | [Admitted Source Record](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md). Both revised provisions govern petitions filed on or after March 10; earlier petitions retain section 2114(a) and (b) as in effect February 8, 1995. No Court action or individual award. Explicit late chronology insertion leaves earlier adjudications unchanged. |
 | 1995-04-04 | Plant Variety Protection Act amendments, Pub. L. 103-349, sections 14–15 | Section 15 makes the Act effective 180 days after October 6, 1994. Section 14(a) preserves the former law for certificates already issued and pending applications, except as section 14 provides. Section 14(b) allows refiling a pending application after effectiveness under amended eligibility and protection terms while retaining its original date for section 42. Section 14(c) requires notice of amended protection and retains section 128 sanctions for false or misleading claims or labels. Section 9’s contract-producer provision has its own scope for listed non-soybean crops. Completed source admission: [Admitted Source Record](../records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md). Do not retroactively apply the amendment to Asgrow. See the Asgrow source map and [official enrolled law](https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg3136.pdf). |
 
-## Current chronology control after chunk 6
+## Current chronology control after chunk 7
 
-**Posture:** After chunk 6, with 72 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-06-05. The May 15 group is complete. The June 5 group continues in chunk 7 with Metropolitan Washington Airports Authority v. Hechinger. All uncoordinated June 5 matters share the pre-June-5 baseline; Koray supplies no entering law to its same-date peer.
+**Posture:** After chunk 7, with 84 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-06-14. The June 5 group is complete. Uncoordinated same-day matters share a common entering baseline; no file-preservation order creates an earlier release. The June 14 group continues in chunk 8. Chunk-7 June 14 decisions do not supply entering law to their uncoordinated chunk-8 same-date peers.
 
 The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 72 inventory events are completed; 27 remain unadjudicated. Nebraska v. Wyoming's scheduled exceptions event is complete; the original action remains before the Special Master on the admitted amendments. No inherited carryover is closed. Kansas v. Colorado remains before the Court for the remedy phase. The March 10 Vaccine Table and April 4 Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
+The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 84 inventory events are completed; 15 remain unadjudicated. Nebraska's original proceeding remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
-The next eligible inventory event is **Metropolitan Washington Airports Authority v. Hechinger, June 5, 1995, chunk 7**. File-preservation order creates no release sequence.
+The next scheduled unresolved inventory event after chunk 7 is **Gutierrez de Martinez v. Lamagno, 1995-06-14, OT_1994CHUNK8**.
 
 ## Current-term continued proceeding
 

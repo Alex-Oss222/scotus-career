@@ -1,0 +1,222 @@
+**Case and dockets:** Adarand Constructors, Inc. v. Peña, No. 93-1841.
+**Event and date:** Merits decision, 1995-06-12.
+**Result:** The Tenth Circuit judgment is affirmed, 5–4.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed.
+
+## Decision kernel
+
+Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
+
+Participation: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No case-specific exclusion is established at argument or decision.
+
+| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Preserved constitutional challenge | Affirm, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Judgment for respondents remains; no Supreme Court remand, injunction, damages or award of a subcontract |
+
+| Writing | Author | Joined by | Relationship and scope |
+|---|---|---|---|
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Threshold and inherited-law merits grounds, complete join |
+| Concurrence | Souter | Ginsburg, Breyer | Additional precedent/preservation explanation |
+| Concurrence | Ginsburg | Breyer | Additional remedial-competence explanation |
+| Dissent | O'Connor | Kennedy throughout; Scalia and Thomas only uniform scrutiny and bounded remand | Vacate/remand; particular stare-decisis explanation supported only by O'Connor and Kennedy |
+| Separate dissent | Scalia | No joiners | Strict review/remand; individual group-compensation objection |
+| Separate dissent | Thomas | No joiners | Strict review/remand; own benign/paternalism objection |
+
+## Controlling holdings
+
+### Equal competitive opportunity and prospective standing
+
+**Holding and operative rule:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
+
+**Authority:** Threshold portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt the proposition. Justices O'Connor, Scalia, Kennedy and Thomas independently agree with this threshold conclusion in their dissenting positions.
+
+**Controlling explanation:** The Court holds that unequal opportunity to compete is an injury even when the award remains uncertain. Northeastern Florida identifies the governmental barrier, rather than proof of the award that would follow its removal, as the relevant competitive injury. Adarand submitted the low bid, but the prime contractor selected a certified disadvantaged business in response to the financial incentive. The contractor could decline that incentive; its optional character does not remove its effect on competitive opportunity. Lujan requires the connection to be concrete and the requested relief appropriate to a continuing or threatened injury. Adarand's recurring bids and the likelihood of encountering the challenged clause again satisfy that prospective requirement on this record. The Court does not infer a guaranteed future award, an entitlement to damages, or a waiver of sovereign immunity. Nor does accepting this competitive injury establish that the challenged preference is unconstitutional; justification remains a separate question.
+
+**Precedent treatment:**
+
+- Northeastern Florida Chapter, AGC v. Jacksonville (June 14, 1993): applies its equal-opportunity injury rule; no guaranteed contract award is required.
+- Lujan v. Defenders of Wildlife (June 12, 1992): retains concrete injury, causal connection and stage-appropriate proof; prospective relief requires sufficiently imminent renewed exposure.
+
+### The inherited federal remedial standard sustains this challenge
+
+**Holding and operative rule:** Under Metro Broadcasting, a benign federal racial classification supported by Congress must serve an important governmental objective and be substantially related to that objective; Fullilove retains its supported judgment recognizing Congress's remedial authority at the scope actually sustained there. Applying that meaningful review of purpose, fit and burdens, the Court affirms the judgment rejecting this preserved challenge to the subcontractor compensation arrangement, without deciding every certification route or conferring a general exemption on measures called benign.
+
+**Authority:** Merits portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt this rule and bounded application, not merely the judgment.
+
+**Controlling explanation:** The Court holds that supported efforts to overcome exclusion differ constitutionally from measures maintaining racial subordination. Metro Broadcasting supplies the inherited federal standard, and Fullilove recognizes Congress's distinct authority and competence to identify and remedy barriers to economic participation. Those decisions do not authorize preferences on goodwill alone. The lower court examined the statutory evidence, delegation, eligibility and flexibility, rather than simply accepting a remedial label. The incentive remains optional, qualifying firms outside the presumptive groups may obtain certification, and the challenged presumptions are subject to safeguards and rebuttal. Those features support the judgment within the challenge presented. The Court does not treat the lower court's description of concessions as an unconditional waiver: the actual appellate statement accepted evidence only for discussion and continued to contest tailoring, and the merits brief contests the delegation characterization. Nor does the Court find that Gonzales used a particular certification route. Croson's treatment of state and local classifications does not require abandonment of the governing federal precedents here.
+
+**Precedent treatment:**
+
+- Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 (1990): retains the important-objective/substantial-relationship standard for benign federal classifications at its actual scope.
+- Fullilove v. Klutznick, 448 U.S. 448 (1980): retains its supported remedial judgment and congressional-competence recognition; no single universal rationale is attributed to the fractured decision.
+- City of Richmond v. J. A. Croson Co., 488 U.S. 469 (1989): distinguished as state/local remedial classification law; its standard is not displaced or extended to erase Metro here.
+- Wygant v. Jackson Board of Education, 476 U.S. 267 (1986): retains attention to evidence, remedial fit and burdens; remedial purpose alone supplies no exemption.
+
+## Precedent treatment and current law
+
+Metro and Fullilove remain effective at the scope stated in Holdings; Croson and Wygant retain their separate settings and burdens. Simulated Shaw remains territorial-design law at its adopted scope; it establishes no universal contracting scrutiny tier. No precedent is overruled.
+
+The inherited federal remedial framework remains controlling; the preserved challenge is rejected. The decision does not decide every certification route, all future applications, sovereign immunity, damages, or any program-wide injunction. The compensation clause is an optional incentive, distinct from STURAA's expenditure command or a mandatory subcontracting duty. DBE subcontracts must total more than 10% of the original prime contract; compensation is 10% of approved final DBE subcontract amounts, capped at 1.5% of the original contract for one DBE and 2% for two or more. It compensates the stated assistance and documentation duties and requires certification evidence and a certified executed subcontract copy. Compensation is confined to DBE-performed work; adjustment may apply to non-DBE second-tier work, with full compensation permitted where only insignificant portions are subcontracted and the DBE performs the major portion. No finding is made that every duty was performed or every payment is constitutional.
+
+SBA §8(a) presumes social disadvantage but requires individual proof of economic disadvantage. DOT state certification rebuttably presumes both, and third parties may challenge actual disadvantage. The §8(d) regulations remain in tension: 13 CFR §124.106(b) appears to require individual economic proof while 48 CFR §19.703(a)(2) appears to presume both. Nonminority applicants may establish disadvantage. Other governmental, county or city certification is accepted individually only on the contracting officer's finding of an acceptable and viable certification program. Mandatory §8(a) review, urged but nonmandatory DOT state review, and the absence of an identified separate §8(d) review provision remain distinct. Gonzales's actual route is unknown. The Court does not find irrebuttability, lack of actual disadvantage, or resolve the conflicting §8(d) rules.
+
+## Published positions and continuity
+
+Justice O'Connor dissents, joined by Justice Kennedy throughout and by Justices Scalia and Thomas in the uniform-scrutiny and vacatur/remand portions. She would require a compelling interest and narrow tailoring for federal explicit racial classifications, replace Metro's relaxed tier, and remand for actual application. Congress's institutional competence may inform evidence and fit, but does not replace individual judicial protection. Strict scrutiny need not invalidate every racial remedy. O'Connor and Kennedy support the dissent's particular stare-decisis explanation; it is not joined by Scalia or Thomas and is not the Court's ground.
+
+Justice Scalia separately dissents. He supports strict review and vacatur/remand but rejects compensation or entitlement based merely on shared racial ancestry, and does not join an affirmative endorsement of group catchup remedies. Justice Thomas separately dissents, rejecting the benign/paternalistic exception and racial entitlement by group ancestry. His broader equivalence and paternalism reasoning is his own; neither separate position makes the unknown certification route invalid or issues an injunction.
+
+Justice Souter concurs, joined by Justices Ginsburg and Breyer, emphasizing the actual scope of Fullilove and Metro, constitutional stare decisis, and the need to distinguish preserved challenges from disputed concession characterizations. Justice Ginsburg also concurs, joined by Justice Breyer, emphasizing continuing exclusion, meaningful access and Congress's remedial competence while preserving review of outsiders' burdens. These concurrences add no unrestricted quota entitlement or universal benign-program exemption.
+
+The compensation clause is an optional incentive, distinct from STURAA's expenditure command or a mandatory subcontracting duty. DBE subcontracts must total more than 10% of the original prime contract; compensation is 10% of approved final DBE subcontract amounts, capped at 1.5% of the original contract for one DBE and 2% for two or more. It compensates the stated assistance and documentation duties and requires certification evidence and a certified executed subcontract copy. Compensation is confined to DBE-performed work; adjustment may apply to non-DBE second-tier work, with full compensation permitted where only insignificant portions are subcontracted and the DBE performs the major portion. No finding is made that every duty was performed or every payment is constitutional.
+
+SBA §8(a) presumes social disadvantage but requires individual proof of economic disadvantage. DOT state certification rebuttably presumes both, and third parties may challenge actual disadvantage. The §8(d) regulations remain in tension: 13 CFR §124.106(b) appears to require individual economic proof while 48 CFR §19.703(a)(2) appears to presume both. Nonminority applicants may establish disadvantage. Other governmental, county or city certification is accepted individually only on the contracting officer's finding of an acceptable and viable certification program. Mandatory §8(a) review, urged but nonmandatory DOT state review, and the absence of an identified separate §8(d) review provision remain distinct. Gonzales's actual route is unknown. The Court does not find irrebuttability, lack of actual disadvantage, or resolve the conflicting §8(d) rules.
+
+The Tenth Circuit judgment remains effective. No remand is ordered by this decision, and no administrative program redesign or continuing judicial supervision is directed.
+
+## Stone compatibility and assignment
+
+Stone's preferred common substantial-justification replacement was tested as a complete rule, including important lawful objective, evidence-supported relationship, coverage/burdens, concrete practicable alternatives, permitted barrier correction without universal individual adjudication, continued justification and ordinary remedial limits. O'Connor, Scalia, Kennedy and Thomas cannot join its replacement of strict scrutiny. Stevens, Souter, Ginsburg and Breyer support meaningful inherited federal review but do not commit to displacing Croson and Metro with that common standard. Agreement on some safeguards is not a complete-framework join. Thus no compatible five-Justice adoption exists and the exact express trigger—Court does not adopt the proposed replacement standard—is satisfied. Stone uses his authorized Stevens-based affirmance fallback. He joins only source-qualified inherited-law reasoning, preserving purpose/fit/burdens, optional incentive injury, actual concession scope, eligibility/rebuttal distinctions and no universal benign exemption. His direction to respect concessions in their actual scope is applied to the verified limited statement, not enlarged into a fabricated waiver. The rejected private branch is not a published separate opinion and enters no current law. No standing fallback fills or changes an addressed component.
+
+Stone is in the judgment majority and assigns the Court opinion to Stevens. Stevens's frozen distinction between supported remedial action and subordination, together with Metro/Fullilove fidelity and close-fit review, supports authorship. The opinion is circulated at the bounded inherited-law level accepted by all five. Souter and Ginsburg's supplemental explanations preserve their own commitments without expanding the Court rule. O'Connor articulates the four-Justice strict-review objection; the particular stare-decisis explanation remains a two-Justice dissent ground. This assignment and every join are assembly determinations, not copied historical authorship.
+
+## Adaptive audit annex
+
+**Historical departure:** The judgment is affirmance rather than the historical vacatur/remand because Stone uses his expressly authorized Stevens-based fallback after no compatible five-Justice adoption of his replacement standard. His fifth affirmance vote makes the source-qualified inherited Metro/Fullilove grounds controlling. Stevens, Souter, Ginsburg and Breyer retain their historical affirmance judgments, while O'Connor, Scalia, Kennedy and Thomas retain their historical strict-review/remand judgments; no changed Justice-specific premise is invented for an unchanged associate vote.
+
+The following frozen reconciliation supplies each non-Stone Justice's commitment, ground, counterargument and join boundary. Assembly accepts its final source-corrected commitments; historical authorship is not an assignment. All final joins stated above were tested against these issue-specific limits. No June 12 peer enters this event's law. The June 5 Hechinger Public Projection was read for the earlier-effective refresh: congressional agency plus selective operative control and the section 2456(h) statutory remedy govern that airport arrangement. Neither holding changes federal equal-protection scrutiny, declaration-only discretion, LHWCA modification, or collateral-order fact-sufficiency review. The four final commitments and Stone compatibility remain valid on that refresh.
+
+## 77. Adarand Constructors, Inc. v. Peña — No. 93-1841
+
+### Verified historical comparison
+
+Official 515 U.S. 200–276 supplies the comparison. The judgment was vacatur/remand, 5–4. O'Connor announced it. Parts I, II, III-A, III-B, III-D and IV were joined by Rehnquist, Kennedy and Thomas, and Scalia only insofar as consistent with his concurrence. **Part III-C's particular stare-decisis rationale was joined by Kennedy alone**, not all five judgment Justices. Scalia and Thomas separately concurred in part and in the judgment. Stevens's dissent was joined by Ginsburg; Souter's dissent by Ginsburg and Breyer; Ginsburg's dissent by Breyer. The simplified comparator's principal-opinion shorthand cannot supply a five-Justice III-C join or blanket Scalia remedial agreement.
+
+Historical reasoning distinguished explicit racial classifications from facially neutral disparate-impact/purpose cases; upheld prospective standing on recurring bidding evidence; adopted uniform strict scrutiny; overruled Metro only insofar as inconsistent with that standard; removed any less-rigorous Fullilove standard without deciding whether its particular program would survive; and reserved actual program validity and certification details. O'Connor's strict-scrutiny survival qualification and Scalia's creditor/debtor-race objection are distinct. The historical dissenters' reservations and their views of flexible strict scrutiny are comparison evidence, not majority joins in this case.
+
+### Reconciled named commitments
+
+All eight non-Stone Justices permit reaching the admitted explicit-racial-classification question and accept competitive-opportunity injury without a showing that Adarand would necessarily win. Prospective relief additionally requires real and sufficiently imminent renewed exposure; the admitted repeated-bidding record supports reaching it. No damages entitlement, sovereign-immunity waiver, subcontract award or final injunction is decided.
+
+| Justice | Scrutiny / precedent commitment | Judgment / remedy commitment | Justice-specific support, objection and narrower available agreement |
+|---|---|---|---|
+| Stevens | Retain Metro's federal standard and Fullilove's binding supported result; reject automatic equivalence between remedial assistance and racial subordination and unexplained repudiation of federal legislative competence. | Affirm the litigated program judgment under inherited law and the lower court's substantive evidence/flexibility analysis; no unconditional concession premise. | Fullilove dissent, 448 U.S.532–554, demands a clear justification and close connection rather than condemning every preference categorically; Croson separate opinion, 488 U.S.511–518, makes purpose and forward-looking operation relevant; Metro majority join supplies his actual federal-standard commitment. Strong counterargument: burdened persons retain individual equality rights. He accepts the right but says assessment must account for the kind of governmental action, congressional role and operative safeguards. Barrier: no blanket racial allocation power; no presumption that a repair measure is necessarily oppression; no overruling based on labeling alone. Narrower join: preserved route-specific factual remand if actually necessary, or searching review that genuinely respects relevant differences, but not a remand solely to replace Metro. |
+| O'Connor | Require compelling interest and narrow tailoring for federal explicit racial classifications; overrule Metro's relaxed federal tier. | Vacate/remand for application, without final invalidation. | Wygant concurrence, 476 U.S.284–294; Croson, 488 U.S.493–508; Metro dissent, 497 U.S.602–638. Congress's institutional competence can affect proof and remedial fit, but does not eliminate judicial scrutiny of individual burdens. Strong counterargument: national findings and remedial powers justify deference. Answer: examine them within rigorous ends-and-means review. Barrier: cannot join strict scrutiny as automatic invalidity or a rule making every evidenced racial remedy impermissible. Narrowest agreement: change the tier and reserve every actual interest/tailoring application. |
+| Scalia | Uniform strict scrutiny; reject compensation or entitlement to members of a race merely for sharing ancestry; reject Metro's federal tier. | Vacate/remand, with his categorical group-compensation objection separate; no unknown certification finding. | Croson concurrence, 488 U.S.520–528, and his Metro dissent join. Strong counterargument: congressional remedial competence differs from municipal power. He recognizes that the authority question is distinct but insists group ancestry does not itself identify an individual wrong to repair. Barrier: no endorsement of debtor/creditor races, generalized racial balancing, or racial benefit as compensation for wrongs to other persons. Narrower join: scrutiny and bounded remand without an affirmative endorsement of group catchup preferences. Do not count his support for a statement of all remedial possibilities merely because he joins the judgment. |
+| Kennedy | Uniform strict scrutiny; federal legislative role may inform compelling justification, not relax the tier; reject Metro's different standard. | Vacate/remand, reserve actual program validity. | Croson's strict-scrutiny portions and Kennedy concurrence, 488 U.S.518–519; O'Connor Metro dissent join. Strong counterargument: §5/national factfinding distinguishes Congress. Response: acknowledge the difference without lowering individual judicial protection. Barrier: a benign label cannot substitute for proof and fit; conversely strict scrutiny is not necessarily fatal. Narrower join: tier and bounded application remand without deciding Congress's entire §5 power. |
+| Souter | Retain inherited Metro and Fullilove at their actual scope; statutory and constitutional stare decisis require attention to the precise previously upheld program/premises. | Affirm within the admitted challenge, relying on substantive inherited-standard analysis; preserve the real concession dispute. | His published simulated Shaw positions preserve proof of individual constitutional deprivation and do not decide explicit federal contracting preferences. Inherited Metro/Fullilove are direct authority; he did not sit in either pre-1991 matter. Strong counterargument: congruent Fifth/Fourteenth equality compels the same scrutiny label. Response: equality does not erase Congress's distinct remedial authority or negate the previously sustained remedial result. Barrier: no conflation of racial awareness with established injury, no unreasoned displacement of precedent, no false unconditional stipulation. Narrower agreement: concrete route-specific remand under existing law if preserved unresolved facts require it; acknowledgment that searching review and justified temporary repair may coexist, without overruling Metro. |
+| Thomas | Strict scrutiny and rejection of a benign/paternalistic exception; reject relaxed federal tier. | Vacate/remand, not conclusive program invalidation. | His simulated Northeastern Florida Court opinion supplies unequal competitive opportunity as personal injury; actual scope of simulated Shaw join supports individual proof, not a contracting tier. Neither Croson nor Metro is attributed to him as a participant. Strong counterargument: disadvantaged-business opportunity expands equality. Response: racial presumptions impose unequal eligibility on another bidder and may embody paternalistic assumptions. Barrier: no benign-race exemption or entitlement from group ancestry. Narrower join: strict standard, actual proof and remand; his broader equivalence/paternalism theory remains separate from O'Connor and Kennedy if unjoined. |
+| Ginsburg | Preserve the inherited federal remedial framework and congressional competence; distinguish repair from subordination while requiring meaningful review of burdens. | Affirm the actual challenge, without unconditional concessions or invented certification facts. | Her simulated De Grandy published position supports attention to actual opportunity and limits on proportional guarantees, not a universal contracting standard. Metro/Fullilove supply governing federal doctrine; no participation in those decisions is attributed. Strong counterargument: searching individualized review protects all persons. Response: such review can recognize discrimination's lingering effects and congressional competence while preventing undue burdens on others. Barrier: no automatic racial entitlement, no disregard of outsiders' burdens, no equation of remedial purpose with malign oppression. Narrower agreement: an evidenced, bounded review preserving real disadvantage, rebuttability and limited burdens; not categorical invalidation or gratuitous precedent reversal. |
+| Breyer | Preserve Metro's federal tier and the supported Fullilove remedial result; no policy-only quota defense. | Affirm the litigated judgment on substantive inherited-standard findings, retaining the actual limited concession dispute. | Governing Metro/Fullilove and the present statutory/regulatory program support retention; no unsourced earlier Supreme Court race-remedy authorship is assigned to him. Strong counterargument: uniformity protects every bidder and is administrable. Response: national legislative competence and genuine disadvantage safeguards bear on fit; stare decisis presently recognizes that role. Barrier: no unrestricted racial quota authority, no false evidence stipulation, no irrebuttable minority certification. Narrower join: specific preserved certification remand if needed under inherited law, not a tier-change remand by label. |
+
+**Reconciled split:** O'Connor, Scalia, Kennedy and Thomas support vacatur/remand for strict review. Stevens, Souter, Ginsburg and Breyer support affirmance under inherited law. No non-Stone judgment departure from history is established. The same dispositions do not guarantee historical authors or exact simulated joins. In particular, do not transplant III-C's two-Justice historical rationale as four non-Stone agreement; assignment and any specific stare-decisis text require assembly compatibility.
+
+### Program facts, legal limits and application boundary
+
+The challenged race presumption warrants heightened constitutional review even though presumptions are rebuttable and some disadvantage provisions are neutral. SBA §8(a) requires economic proof separately from social presumption; DOT permits rebuttal of social/economic presumptions; §8(d)'s competing regulations remain unresolved. Nonminority applicants may establish disadvantage. Other governmental, county or city certification is accepted only individually upon the contracting officer's finding of an acceptable and viable program. Certification evidence and a certified executed subcontract copy are required for payment. Annual/periodic review requirements cannot be treated as identical across programs: the historical discussion at p.262 n.17 distinguishes mandatory §8(a) review, urged but nonmandatory DOT state review and no identified separate §8(d) review provision. The certification route is unknown, so no all-route factual validity determination follows.
+
+The actual SCC compensation threshold is DBE subcontracts totaling more than 10% of the original prime contract. Compensation is 10% of approved final DBE subcontract amounts, capped at 1.5% of the original contract for one DBE and 2% for two or more. Payment compensates the contract's stated assistance and documentation duties. Adjustment may apply to work passed to non-DBE second-tier subcontractors; compensation is confined to DBE-performed work, with full compensation permitted when only insignificant portions are subcontracted and the DBE performs the major portion. These are operative contract qualifications, not findings that every duty was actually performed or that every possible payment is constitutional. The optional incentive must not be conflated with STURAA's distinct expenditure command or a mandatory prime-contractor subcontracting duty.
+
+For the strict-review group, the lower judgment applied an insufficient standard; vacatur requires new constitutional application to the existing record and lawful further proceedings, not a finding of no evidence or an automatic injunction. For the affirmance group, the actual evidence, flexibility, nonexclusive eligibility and rebuttability support inherited-standard disposition; the petitioner remains entitled to the actual preserved challenge rather than a fabricated waiver. The lower court's affirmative findings remain findings, not statutory commands. Any independent determination that a specific route actually survives or fails demands the route text, preserved issue and operative record; this handoff supplies none.
+
+Shaw remains territorial-design law at its adopted scope; it neither compels affirmance nor dictates uniform strict scrutiny for explicit federal contracting preferences. No same-day Jenkins holding or concurrence supports any choice here. Historical references to Jenkins in the official report are excluded as entering law.
+
+
+## Sources, cutoff and validation status
+
+Research cutoff: immediately before June 12, 1995 for governing law and admitted external facts. Historical June 12 opinions are comparison evidence only. Neutral-stage source corrections override stale runtime shorthand. Sources and bounded review: Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp.1–24 and actual appellate reply at p.43; joint appendix pp.1–36, including SCC pp.24–26 and prime declaration pp.30–31; petitioner merits brief pp.16–24; respondent merits brief pp.12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. No verbatim decisional quotation is projected.
+
+Read the final B reconciliation and source-validation corrections before Stone. The assembly source record is inherited, not a certification of independent full-corpus retrieval. Neutral review read the specified lower-court appendices and joint appendix; Adarand merits-brief review was bounded, not full. No Git-hash existence, full-term checks, ledger/manifest rebuilding or render-generation checks are claimed here. The record is initial assembly output pending parent chronology revalidation and coordinated checks. Named votes and joins are manually reconciled here; the public Holdings text is copied byte-identically from the decision kernel by this writer. No remaining substantive Stone choice or legal disposition blocker is identified.
+
+## Coordinated completion validation
+
+The earlier stage-local pending checks are superseded by [chunk-7 coordinated validation](../freeze/OT_1994CHUNK7_VALIDATION.md). Records, four workspace projections and generated Render Input are complete. Structural, named-vote, full Holdings identity, projection identity, freshness, local-link and no-Git term checks pass. Git-object verification and repository commitment remain with the operator. No adjudicative component remains stopped.
+
+## Public Projection
+
+## Event
+
+Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
+
+Render form: full; 5–4 judgment and materially different disposition and controlling coalition from the historical comparison.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No case-specific exclusion is established at argument or decision.
+
+## Public Action
+
+The Tenth Circuit judgment is affirmed, 5–4.
+
+## Judgment & Remedy
+
+| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Preserved constitutional challenge | Affirm, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Judgment for respondents remains; no Supreme Court remand, injunction, damages or award of a subcontract |
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship and scope |
+|---|---|---|---|
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Threshold and inherited-law merits grounds, complete join |
+| Concurrence | Souter | Ginsburg, Breyer | Additional precedent/preservation explanation |
+| Concurrence | Ginsburg | Breyer | Additional remedial-competence explanation |
+| Dissent | O'Connor | Kennedy throughout; Scalia and Thomas only uniform scrutiny and bounded remand | Vacate/remand; particular stare-decisis explanation supported only by O'Connor and Kennedy |
+| Separate dissent | Scalia | No joiners | Strict review/remand; individual group-compensation objection |
+| Separate dissent | Thomas | No joiners | Strict review/remand; own benign/paternalism objection |
+
+## Holdings
+
+### Equal competitive opportunity and prospective standing
+
+**Holding and operative rule:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
+
+**Authority:** Threshold portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt the proposition. Justices O'Connor, Scalia, Kennedy and Thomas independently agree with this threshold conclusion in their dissenting positions.
+
+**Controlling explanation:** The Court holds that unequal opportunity to compete is an injury even when the award remains uncertain. Northeastern Florida identifies the governmental barrier, rather than proof of the award that would follow its removal, as the relevant competitive injury. Adarand submitted the low bid, but the prime contractor selected a certified disadvantaged business in response to the financial incentive. The contractor could decline that incentive; its optional character does not remove its effect on competitive opportunity. Lujan requires the connection to be concrete and the requested relief appropriate to a continuing or threatened injury. Adarand's recurring bids and the likelihood of encountering the challenged clause again satisfy that prospective requirement on this record. The Court does not infer a guaranteed future award, an entitlement to damages, or a waiver of sovereign immunity. Nor does accepting this competitive injury establish that the challenged preference is unconstitutional; justification remains a separate question.
+
+**Precedent treatment:**
+
+- Northeastern Florida Chapter, AGC v. Jacksonville (June 14, 1993): applies its equal-opportunity injury rule; no guaranteed contract award is required.
+- Lujan v. Defenders of Wildlife (June 12, 1992): retains concrete injury, causal connection and stage-appropriate proof; prospective relief requires sufficiently imminent renewed exposure.
+
+### The inherited federal remedial standard sustains this challenge
+
+**Holding and operative rule:** Under Metro Broadcasting, a benign federal racial classification supported by Congress must serve an important governmental objective and be substantially related to that objective; Fullilove retains its supported judgment recognizing Congress's remedial authority at the scope actually sustained there. Applying that meaningful review of purpose, fit and burdens, the Court affirms the judgment rejecting this preserved challenge to the subcontractor compensation arrangement, without deciding every certification route or conferring a general exemption on measures called benign.
+
+**Authority:** Merits portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt this rule and bounded application, not merely the judgment.
+
+**Controlling explanation:** The Court holds that supported efforts to overcome exclusion differ constitutionally from measures maintaining racial subordination. Metro Broadcasting supplies the inherited federal standard, and Fullilove recognizes Congress's distinct authority and competence to identify and remedy barriers to economic participation. Those decisions do not authorize preferences on goodwill alone. The lower court examined the statutory evidence, delegation, eligibility and flexibility, rather than simply accepting a remedial label. The incentive remains optional, qualifying firms outside the presumptive groups may obtain certification, and the challenged presumptions are subject to safeguards and rebuttal. Those features support the judgment within the challenge presented. The Court does not treat the lower court's description of concessions as an unconditional waiver: the actual appellate statement accepted evidence only for discussion and continued to contest tailoring, and the merits brief contests the delegation characterization. Nor does the Court find that Gonzales used a particular certification route. Croson's treatment of state and local classifications does not require abandonment of the governing federal precedents here.
+
+**Precedent treatment:**
+
+- Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 (1990): retains the important-objective/substantial-relationship standard for benign federal classifications at its actual scope.
+- Fullilove v. Klutznick, 448 U.S. 448 (1980): retains its supported remedial judgment and congressional-competence recognition; no single universal rationale is attributed to the fractured decision.
+- City of Richmond v. J. A. Croson Co., 488 U.S. 469 (1989): distinguished as state/local remedial classification law; its standard is not displaced or extended to erase Metro here.
+- Wygant v. Jackson Board of Education, 476 U.S. 267 (1986): retains attention to evidence, remedial fit and burdens; remedial purpose alone supplies no exemption.
+
+## Precedent Treatment
+
+Metro and Fullilove remain effective at the scope stated in Holdings; Croson and Wygant retain their separate settings and burdens. Shaw remains territorial-design law at its adopted scope; it establishes no universal contracting scrutiny tier. No precedent is overruled.
+
+## Law After Decision
+
+The inherited federal remedial framework remains controlling; the preserved challenge is rejected. The decision does not decide every certification route, all future applications, sovereign immunity, damages, or any program-wide injunction. The compensation clause is an optional incentive, distinct from STURAA's expenditure command or a mandatory subcontracting duty. DBE subcontracts must total more than 10% of the original prime contract; compensation is 10% of approved final DBE subcontract amounts, capped at 1.5% of the original contract for one DBE and 2% for two or more. It compensates the stated assistance and documentation duties and requires certification evidence and a certified executed subcontract copy. Compensation is confined to DBE-performed work; adjustment may apply to non-DBE second-tier work, with full compensation permitted where only insignificant portions are subcontracted and the DBE performs the major portion. No finding is made that every duty was performed or every payment is constitutional.
+
+SBA §8(a) presumes social disadvantage but requires individual proof of economic disadvantage. DOT state certification rebuttably presumes both, and third parties may challenge actual disadvantage. The §8(d) regulations remain in tension: 13 CFR §124.106(b) appears to require individual economic proof while 48 CFR §19.703(a)(2) appears to presume both. Nonminority applicants may establish disadvantage. Other governmental, county or city certification is accepted individually only on the contracting officer's finding of an acceptable and viable certification program. Mandatory §8(a) review, urged but nonmandatory DOT state review, and the absence of an identified separate §8(d) review provision remain distinct. Gonzales's actual route is unknown. The Court does not find irrebuttability, lack of actual disadvantage, or resolve the conflicting §8(d) rules.
+
+## Separate Writings
+
+Justice O'Connor dissents, joined by Justice Kennedy throughout and by Justices Scalia and Thomas in the uniform-scrutiny and vacatur/remand portions. She would require a compelling interest and narrow tailoring for federal explicit racial classifications, replace Metro's relaxed tier, and remand for actual application. Congress's institutional competence may inform evidence and fit, but does not replace individual judicial protection. Strict scrutiny need not invalidate every racial remedy. O'Connor and Kennedy support the dissent's particular stare-decisis explanation; it is not joined by Scalia or Thomas and is not the Court's ground.
+
+Justice Scalia separately dissents. He supports strict review and vacatur/remand but rejects compensation or entitlement based merely on shared racial ancestry, and does not join an affirmative endorsement of group catchup remedies. Justice Thomas separately dissents, rejecting the benign/paternalistic exception and racial entitlement by group ancestry. His broader equivalence and paternalism reasoning is his own; neither separate position makes the unknown certification route invalid or issues an injunction.
+
+Justice Souter concurs, joined by Justices Ginsburg and Breyer, emphasizing the actual scope of Fullilove and Metro, constitutional stare decisis, and the need to distinguish preserved challenges from disputed concession characterizations. Justice Ginsburg also concurs, joined by Justice Breyer, emphasizing continuing exclusion, meaningful access and Congress's remedial competence while preserving review of outsiders' burdens. These concurrences add no unrestricted quota entitlement or universal benign-program exemption.
+
+## Procedure After Action
+
+The Tenth Circuit judgment remains effective. No remand is ordered by this decision, and no administrative program redesign or continuing judicial supervision is directed.
+
+## Source Notes
+
+Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp.1–24 and actual appellate reply at p.43; joint appendix pp.1–36, including SCC pp.24–26 and prime declaration pp.30–31; petitioner merits brief pp.16–24; respondent merits brief pp.12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. No verbatim decisional quotation is projected.
