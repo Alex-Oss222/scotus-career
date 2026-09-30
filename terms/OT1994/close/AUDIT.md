@@ -1,275 +1,353 @@
-# October Term 1994 — Audit
+# October Term 1994 — close audit
 
-**Result: FAIL — the deterministic gate remains unsatisfied. The fresh legal-substance audit has not begun.**
+**Result: FAIL.** The deterministic gate passed. The subsequent fresh legal and documentary review found **14 unresolved findings: 1 high, 5 medium, and 8 low**. The findings below prevent a clean close audit. This pass makes no correction, selects no replacement judicial position, and does not authorize publication of the candidates.
 
-**Audit date:** September 30, 2026. **Unresolved findings:** **2 grouped findings: 0 critical, 0 high, 1 medium, 1 low.** These encompass **65 broken local-link occurrences, 47 distinct missing targets, and 19 referring files**. Every occurrence is listed in Appendices B and C. Repeated links are counted as occurrences within their finding, not additional finding IDs. These severity counts do not certify the unperformed legal review.
+**Audit date:** September 30, 2026. **Scope:** all 99 inventory matters, their current Canonical Decision Records and public projections, all nine Render Inputs and renders, both Holdings passes and the resulting Holdings candidate, the independently derived Standards and Tests candidate, the Standing State candidate, both Admitted Source Records, and the term's chronology, provenance and carry-forward projections.
 
-The user requires all deterministic checks to pass before the fresh AI review of votes, coalitions, holdings, precedent treatment, remedies, continuity and Justice-specific historical departures. Missing incorporated source targets prevent that gate from passing. This pass completed the independent deterministic checks across all **99 inventory Court matters**, **two Admitted Source Records**, nine Render Inputs, nine renders, both Holdings pass notes and their cumulative candidate, and the Standards and Tests and Standing State candidates. It does not certify their legal substance. No legal-review agent was started, and no finding was repaired.
+Severity describes the kind of defect, not an assumed change in judgment. **High** means unsupported attribution of a substantive choice to the controlled Justice. **Medium** means a legal-rule, controlling-coalition, or current-law revalidation defect. **Low** means a bounded form, index, status, source-description, retrieval, or editorial defect. Repeated instances of the same defect are grouped in one numbered finding; every identified instance is listed.
 
-## Execution, scope and evidence
+## 1. Deterministic gate and review method
 
-The governing instructions and foundation files were read first. Before running any validation, inspection showed that the prescribed `tools/check_term.py` invokes `git cat-file` for commit existence. To honor the user's express prohibition of **every Git command**, the first validation executed that checker's unmodified source and `main()` with the OT1994 argument through `tmp/ot1994_audit/run_checker.py`. Only its in-memory `git_object_exists` callback was replaced with a read-only object lookup. The repository tool was not edited. This was an adapted execution of the prescribed checker, not a claim that the literal shell command ran unchanged.
+The first validation executed was the existing `tools/check_term.py` checker with `OT1994` as its argument. Its commit-existence helper normally invokes Git, which conflicts with the operator's express prohibition on every Git command. The unchanged checker was therefore loaded by a scratch wrapper, with only that helper replaced in memory by read-only Git object-store inspection; a guard prohibited Git subprocesses. No repository tool was edited. The checker completed successfully: **OK OT1994, 58 warnings**. The warnings were broad-pattern matches to source identifiers, URL numbers and digest/word fragments, not missing asserted commit references. Each was classified before proceeding.
 
-The checker returned **`OK: OT1994; 76 warning(s)`**, with no errors. Its normal Holdings-volume synchronization, runtime-split checks, fixed interfaces, projection identity and other checks ran. **No Git executable or Git command was run during this pass.** There was no add, commit, push, checkout, publication or adjudicative change.
+The remaining mechanical checks were completed before fresh substantive review began. Engine section 3F's fresh-audit requirement was implemented with three separately scoped review contexts covering matters 1–36, 37–72, and 73–99. They did not reuse the previous `close/AUDIT.md`. The operator consolidated their findings, independently checked the principal conflicts, and reviewed synchronization, provenance, both pass notes, baseline changes and Standing State. Scripts checked identity, numbers, chronology and navigation; they did not decide legal meaning.
 
-The 76 warnings are false positives from the checker's broad hexadecimal-token pattern: source identifiers, URL fragments, an ISBN, numerical strings, a technical-advice-memorandum number, compressed reporter text and an ordinary-word fragment. Eighteen warnings come from those same strings quoted in the previous Audit. Their contexts do not claim to identify commits. Actual commit references were checked separately against the object database; none was missing. Subsequent provenance verification used a direct loose/packed-object reader that verifies object identities, object types and tree paths without invoking Git. This is concise claim verification, not narrative commit archaeology.
-
-The snapshot HEAD is `81fe6c002d7ed5815aeecde01be81003fe0e5e26`. All **101 current Record files** match their bytes in that tree. The pinned opening-state commit `13b19ee463d16fb4377d846e5b058599f886bed3` and its Standing State path/anchor resolve. Fingerprints of **2,542 preexisting Markdown, Python and JSON files** under `foundation/`, `state/`, `terms/` and `tools/`, excluding this replaceable Audit, show no changes, additions or removals during this pass. The only authored non-scratch deliverable is `terms/OT1994/close/AUDIT.md`; audit scripts and evidence are in ignored root `tmp/`.
-
-The link scan checked **12,194 inline repository-link occurrences** in OT1994 Markdown outside downloaded-source directories and the superseded Audit. Repository GitHub links were resolved against the local checkout, or the named commit for pinned links. Candidate links to their intended future `state/HOLDINGS.md` publication anchors were also resolved against the staged Holdings candidate: **185 prospective links resolve**. Fifty-five initial anchor flags were heading-parser artifacts; after checking the actual headings, **all checked heading anchors resolved**. The **65 missing path targets** below remain. The scan also identified **2,723 external URL occurrences**; it did not certify remote availability or reread every external source. No assertion is made that a fact is absent from a petition, brief, appendix or transcript that was not read in this audit.
-
-Scratch evidence is under `tmp/ot1994_audit_current/`: inventory and chronology reconciliation, complete formal vote/topology extracts, candidate and proposition comparisons, link failures, object-based provenance, six priority public comparisons and protected-file fingerprints. Script flags were reviewed rather than adopted as conclusions. In particular, Evans's **6–1–2** disposition is a three-way division, not a defective 6–1 tally; NTEU's explanatory references to dissenters in a “No opposing Justice” cell are not additional opposing votes. Three-column judgment tables and prose dispositions were reviewed separately from ordinary five-column tables.
-
-## Unresolved findings
-
-### F01 — Medium — Eight source links in four current Records point to missing local files
-
-The current Anderson v. Green Record has two missing source links; Swint has two; the Plant Variety Protection Act Admitted Source Record has one; and the Vaccine Injury Table Admitted Source Record has three. **Appendix B lists all eight occurrences with current line numbers and exact destinations.**
-
-These Records incorporate local source material that cannot be retrieved at its stated location. An external citation, a related source or a broader filing does not establish that the specifically incorporated extract or source copy exists. This is a current-record source-location and reproducibility defect; it does not by itself establish that a legal proposition is wrong. It nevertheless prevents the required deterministic link-resolution gate from passing. No replacement source was invented, downloaded, substituted or linked during this audit.
-
-### F02 — Low — Fifty-seven links in retained runtime and freeze handoffs point to missing local files
-
-**Appendix C lists all 57 occurrences across 15 files.** They include the chunk 3 source index and bounded extracts, Evans/Swint/NTEU source supplements, and chunk 4 validated-neutral and Jefferson Lines source materials. These remain broken in the current checkout and are not merely obsolete failures repeated from the old Audit.
-
-Frozen handoffs are historical evidence, not current law. Their status does not make a missing source path resolve, and it does not authorize silently changing their substance. This finding concerns reproducibility and navigation, not a competing current adjudication. Together F01 and F02 account for all 65 surviving failures. The occurrences agree with the outstanding-source list in `freeze/OT_1994_AUDIT_CORRECTIONS.md`; that receipt was cross-checked against actual current paths rather than accepted as proof.
-
-## Deterministic results
-
-| Required check | Current result and limits |
+| Check | Result and evidence |
 |---|---|
-| Prescribed checker, first validation | Passed its implemented checks through the disclosed no-Git adapter; 76 lexical warnings triaged. The separate audit gate fails on F01–F02. |
-| Inventory → manifest → Record → Render Input → render | **99/99**, each once, with matching canonical dockets, event dates, generated source-record entries, bounded render entries and closing lines. Chunks 1–8 have 12 entries each; chunk 9 has 3. There are 101 Records because two additional Records admit noncase sources. |
-| Render chronology and effective order | All **99 chronology-table rows** match their respective matters and dates. Event sequences run from November 1, 1994 through June 29, 1995. Record filename dates, header dates and ledger dates agree. The March 10 Vaccine Table and April 4 plant-variety changes retain their effective dates and disclosed late insertion. Pinette precedes Chabad under the express coordinated June 29 sequence; uncoordinated peers acquire no priority from file order. Legal sufficiency of entering-law choices is deferred. |
-| Participation, quorum, votes and joins | Formal named judgment and author-inclusive opinion fields screened for all 99 matters, including component-specific, three-column and prose forms. Six reduced-Court matters preserve their exclusions: FEC (Ginsburg); Wolens (Scalia); Grubart (Stevens and Breyer); City of Milwaukee (Breyer); Wilton (Breyer); Sky Reefer (Breyer). All have a quorum. No additional formal arithmetic discrepancy found. Judgment-only and partial joins remain distinct. Legal justification and compatibility of joins are not certified. |
-| Runtime-split freshness | All nine approved briefs match all **27 normal `_NEUTRAL`, `_STONE` and `_COMPARATOR` exports** through `split_chunk.py --check`. This validates mechanical exports, not the substantive adequacy of neutral framing or the independence of historical modeling. |
-| Public Projection → Render Input identity | All **99 generated Court-event bodies** equal their canonical Public Projections after the builder's boundary trimming. The two source-admission Records are not counted as extra Court renders. |
-| Holdings text coverage and both passes | All **236 controlling-proposition blocks** occur in their Records' substantive sections and corresponding renders. Pass 1 accounts for 154 propositions from matters 1–60/chunks 1–5; pass 2 accounts for 82 from matters 61–99/chunks 6–9. The cumulative candidate has 235 normalized exact matches and one Clearwater wording equivalent deleting the locative word “below.” This is text coverage, not a legal holding or authority audit. Both pass notes were read. |
-| Standards and Tests candidate | **370 titled entries**, compared with 289 opening entries. Structural comparison and source navigation were checked. Absence of a particular Record filename from an entry is not mechanically treated as omission of a reusable rule. Independent entailment, consolidation, exceptions, relationships and completeness remain for the gated legal audit. |
-| Candidate cutoff synchronization | All three candidates retain identical staged fields: Last completed OT1993; processed through June 30, 1994 after all eleven chunk-8 matters and all 95 OT1993 inventory events; edition September 28, 2026. Each retains the disclosed baseline pending coordinated publication; Standing State separately identifies opening OT1995. They have not been published to `state/`. |
-| Links and anchors | **FAIL: 65 missing-target occurrences**, individually listed below. No remaining heading-anchor failure after correct parsing and prospective-publication mapping. External source availability and full-source review are not certified. |
-| Commit existence and concise lineage | Actual cited commit objects resolve. All 101 current Records match the snapshot HEAD. Six priority completion/correction claims were checked against objects and, where necessary, the parent file. Morales and Stone v. INS lineage is accurate. |
-| Ledger provenance | All 101 Records occur once with matching dates. The ledger expressly uses the authorized file-preservation-order fallback and labels first-record hashes unverified. That disclosed authorized fallback is not reported as a new missing-hash defect; this pass does not certify actual first-commit order. |
-| Candidate cleanup | `close/` contains exactly three active candidates, two Holdings pass notes, one Standards pass note, one Audit and `.gitkeep`. No duplicate candidate or successful-Commit dossier/index appears. Candidates and temporary notes properly remain until successful Commit. Earlier pass-note statements describe their own earlier cross-checks, not current defects. |
-| Open-matter carry-forward | Nine retained matters remain represented in the final current state and Standing State candidate: Zatko and sixteen companions; Wyoming v. Oklahoma; Reynolds; Grubbs; United States v. Louisiana; Delaware v. New York; Nebraska v. Wyoming; In re Anderson; Kansas v. Colorado. Nebraska's completed exceptions event does not close the original action. The candidate also lists ten user-added OT1995 matters. No terminal event or continuity closure was inferred. |
-| Next-term setting | OT1995 roster and seniority, all thirteen August 3, 1994 circuit allotments and the standing referral practice agree with the governing composition/opening setting. Standing State contains the header and four authorized setting/docket sections. Legal/source sufficiency of new docket entries remains unreviewed. |
-| Render structure and public boundary | All 99 events have a selected form: **70 full, 29 compact**. Full entries contain judgment and opinion tables; all entries have dated boundaries and closing lines. No additional contextualized workflow-leak flag was found. Whether every selected form satisfies the substantive historical-material-change criterion is deferred. |
-| Prior spacing findings | The former fused month/day, section-number and part-number patterns no longer occur in the scanned current Public Projections, inputs, renders, workspace and candidate text. This targeted resolution is not a certification of every possible typographical issue. |
+| Inventory → Record → Render Input → render | All 99 matters map once to a current canonical event and a public entry. There are 101 Records: 99 judicial events and two admitted noncase changes. Chunks 1–8 each contain 12 inventory events; chunk 9 contains three. The two admitted source events are not invented additional Court decisions. Current public entries include Robertson and the four chunk-7 dockets previously reported missing by the Holdings pass notes. |
+| Effective-date order | The ledger and manifest use adjudicative effective dates, including later completion of stopped matters and the in-place Morales replacement. Relevant entering-law boundaries were checked against preceding actual Records. Same-day matters do not supply earlier law without an established sequence; Pinette's express sequencing before Chabad is retained. The March 10 Vaccine Table and April 4 PVPA transitions remain distinct from judicial holdings. |
+| Participation and elementary arithmetic | Participating rosters, reduced-Court cases, named vote totals and writing joins were checked. Ordinary numeric rows were counted mechanically; prose, compound and differently structured rows were reviewed manually. Evans's 6–1–2 disposition and NTEU's component-specific alignments were not forced into a binary vote. Basic counts pass. The later legal reading identified the overlapping-scope Thomas attribution in F03; correct arithmetic alone does not resolve that contradiction. |
+| Runtime freshness | All nine approved-brief splits pass the freshness checks. The damaged Sky Reefer input is faithfully copied, not a stale split; F11 reports the underlying input defect. Earlier scoped preparation and reconciliation handoffs remain identified as stage history. |
+| Public Projection / Render Input | All bounded eleven-block Public Projections match the generated Render Inputs. All 708 labeled internal proposition, authority and explanation fields are preserved in the Public Projections after typography/whitespace normalization. This proves faithful copying, not correctness of the copied law. |
+| Record / render cross-check | All controlling proposition texts are preserved. The 37 literal differences in the compared authority/explanation fields—34 authority passages and three explanations—were read semantically; none changes substance. The reviewers also assessed the public judgment, writings, remedy and limits. Form and workflow-language defects are separately reported in F07 and F13. |
+| Explanation depth | All 236 controlling-explanation blocks meet the ordinary 120–200-word requirement (138–185 words under the whitespace count used). Their authority and content were then assessed legally, rather than certified from length. |
+| Links and anchors | 12,208 local/repository link occurrences resolve. Checks cover file and directory targets, heading anchors and explicit repository commit targets. Candidate links to the eventual `state/HOLDINGS.md` publication were resolved against the synchronized Holdings candidate, since the published state is correctly still OT1993. This is a staging overlay, not a claim that the new anchors already exist in published state. The audit did not claim exhaustive live HTTP availability testing of every external historical source. |
+| Commit existence and concise lineage | Read-only object inspection verified the actual cited commits `13b19ee463d16fb4377d846e5b058599f886bed3`, `d086219b424d812aaa837fda9533629c69e33833`, and `8d98261d33b6d39fda8a9ccc52ab5ad7ed3be02a`. All 101 current Record paths exist in the inspected HEAD, `4bf49dd0c98cc1d632b5f2a5fb4d97cb3f951fee`. Morales's prior and replacement results, and Stone v. INS's assignment-only change with unchanged Public Projection, agree with the concise lineage claims. No first-record commit order was invented where the ledger expressly uses the file-preservation fallback. No Git command or narrative commit archaeology was performed. |
+| Candidate cleanup | One candidate exists for each tracker. The two Holdings pass notes and the Standards pass note are legitimate pre-Commit working artifacts; their deletion is required only after a successful Commit pass. No superseded candidate version was found. The candidates deliberately retain the common synchronized OT1993 publication fields pending coordinated publication. Stale present-tense claims inside retained notes are identified in F09. |
+| Open matters | All nine continuing matters are carried forward, separately from the ten user-added OT1995 matters. No ordinary lower-court remand was converted into a retained Supreme Court case. No invented terminal event closes an inherited matter. Details appear in section 5. |
 
-## Priority completion and correction reconciliation
+This is a fresh legal reading of the current artifacts, approved Stone positions, reconciliations, applicable earlier simulated authority and candidate rules. It is **not** a claim that every original historical petition, merits brief, appendix, transcript or map was independently downloaded and read again during this audit. Existing research receipts and explicit limits were assessed. Focused primary-source verification was used to resolve Witte's disputed Guidelines boundary. No absent fact was inferred from an unread source component. Identical generated paragraphs were checked by identity instead of being represented as separate substantive research.
 
-For each of the following, the current Public Projection equals the corresponding Render Input exactly. The current render's disposition, component coalitions, opinion structure, stated authority and bounded remedy were cross-checked. **This confirms projection consistency, not the legal defensibility of the underlying adjudication or historical departure.**
+## 2. Unresolved findings
 
-| Matter | Current Record, Render Input and render | Concise provenance result |
+### F01 — High — McKennon gives Stone a substantive remedial join beyond the approved position
+
+**Evidence.** The approved chunk-2 brief, lines 1049 and 1055, directs tailoring reinstatement, front pay, backpay and other relief to proven facts and statutory purposes, and says independently sufficient later-discovered misconduct **may limit** those remedies. The copied Stone runtime has the same language at lines 289 and 295. The complete supplement requires actual-would-discharge proof but supplies no ordinary prospective-relief presumption, discharge-to-discovery starting measure, or extraordinary-equity condition for departing from that measure.
+
+[McKennon v. Nashville Banner Publishing Co. Record](../records/McKennon_v_Nashville_Banner_Publishing_Co_merits_1995-01-23.md) line 18 calls those additional remedial instructions an implementation of the approved tailoring and gives Stone a full join. Lines 44–46 adopt ordinary unavailability of reinstatement/front pay and the discharge-to-actual-discovery backpay interval, subject to extraordinary equitable circumstances, with all nine Justices. These are substantive remedy choices and operative conditions, not ordinary drafting discretion. Engine section 4 does not permit the general permission to limit relief to substitute for approval of those specific choices.
+
+**Extent.** The eight associate commitments independently support the detailed remedial rule. This finding therefore does not itself invalidate that rule or require changing the reversal. It prevents certification of Stone's detailed remedial join and the unanimous authority claim. An authorized correction or express approval must determine Stone's actual scope before reconsidering any writing, form or departure consequences. This audit does not supply a replacement vote.
+
+**Propagation.** Record Public Projection lines 149–151; [chunk-2 Render Input](../render-inputs/OT_1994CHUNK2.md), lines 648–650; [chunk-2 render](../output/OT_1994CHUNK2.md), lines 633 and 641–643; [Holdings candidate](HOLDINGS.candidate.md), lines 15441–15443; [Standards candidate](STANDARDS_AND_TESTS.candidate.md), lines 4010–4015; `workspace/continuity.md` at line 1005 and following authority; and `workspace/neutral-projection.md` at line 971 and following authority. Later use of the majority liability/remedy distinction should be assessed for actual dependency, not presumed invalid merely because Stone's detailed join is unsupported.
+
+### F02 — Medium — Anderson v. Edwards changes a kinship qualification in Standards
+
+[Standards candidate](STANDARDS_AND_TESTS.candidate.md) line 5923 says that “a stepchild of that stepparent is not automatically a required sibling.” [Anderson v. Edwards Record](../records/Anderson_v_Edwards_merits_1995-03-22.md) lines 196 and 395 and the [Holdings candidate](HOLDINGS.candidate.md) line 14142 instead say that a **stepbrother or stepsister** is not automatically included merely because the stepparent is.
+
+These are different family relationships. The Record's qualification concerns the applicant child's stepsibling; the candidate's formulation can instead refer to the applicant child or another child who is the stepparent's stepchild. This is a rule-projection error, not an adjudicative ambiguity. The candidate must preserve the Record's relationship and conditional operation. The current Record and public projection have the proper qualification.
+
+### F03 — Medium — Nebraska's omnibus leave holding incorrectly includes Thomas on the Fourth Cross-Claim
+
+[Nebraska v. Wyoming Record](../records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md) lines 235–237 allow the Second–Fifth Cross-Claims and attribute that combined proposition to all nine, including Thomas. The “Remaining leave” judgment row at line 152 makes the same attribution. But the component rows at lines 150–151, Thomas's express refusal at lines 160 and 252, and the reconciled component at line 275 exclude him from admitting the Fourth Cross-Claim. Eight Justices support that admission. “Within the preceding limits” does not cure the conflict: the preceding holding admits the claim, and Thomas rejects its admission even at that scope.
+
+**Propagation.** Record Public Projection lines 343 and 428–430; [chunk-6 Render Input](../render-inputs/OT_1994CHUNK6.md), lines 620 and 705–707; [chunk-6 render](../output/OT_1994CHUNK6.md), lines 560 and 643–645; [Holdings candidate](HOLDINGS.candidate.md), lines 3248–3250. The candidate's remedy at line 3258 correctly reports the eight-to-one federal component, producing an internal conflict with its omnibus authority. Standards does not make the particular false Thomas attribution.
+
+The necessary later correction is to distinguish the unanimous other leave components from the eight-Justice Fourth Cross-Claim admission. The existing Thomas dissent and eight-to-one component are supported; this finding does not require a different decree disposition.
+
+### F04 — Medium — Witte's reusable sentencing rule omits subsection (a)'s priority and conditions
+
+[Witte v. United States Record](../records/Witte_v_United_States_merits_1995-06-14.md) lines 51 and 55 formulate §5G1.3 as a two-branch rule: subsection (b) concurrency when the previous term was fully taken into account, and subsection (c) wherever (b) does not govern. The official 1994 text first requires consecutive imprisonment under **subsection (a)** when the instant offense occurred during service of imprisonment—including work release, furlough or escape—or after sentencing but before service commenced. Subsection (b) applies only when (a) does not; subsection (c) governs the remaining cases. The omitted branch can therefore change the consequence of the generalized rule. [Official 1994 Guidelines, §5G1.3(a)–(c)](https://www.ussc.gov/guidelines/2015-guidelines-manual/archive/1994-chapt5).
+
+**Propagation.** Record Public Projection lines 155 and 159; [chunk-7 Render Input](../render-inputs/OT_1994CHUNK7.md), lines 875 and 879; [chunk-7 render](../output/OT_1994CHUNK7.md), lines 741 and 745; [Holdings candidate](HOLDINGS.candidate.md), line 9015; [Standards candidate](STANDARDS_AND_TESTS.candidate.md), line 2389. Record line 14's completeness claim is correspondingly too broad.
+
+Witte's offenses preceded the earlier imprisonment, and this decision imposes no second sentence. The omission does not alter this judgment. It nevertheless violates the requirement to state the triggering conditions of a reusable rule in their own terms. A later correction must state subsection (a)'s priority and full trigger, then qualify (b) and (c), through the Record and dependent projections rather than only changing a candidate.
+
+### F05 — Medium — National Private Truck's Standards entry omits the concrete extraordinary-equity conditions
+
+[Standards candidate](STANDARDS_AND_TESTS.candidate.md) lines 5019 and 5028 retain actual adequacy generally but omit the operative qualifications adopted by [National Private Truck Council, Inc. v. Oklahoma Tax Commission Record](../records/National_Private_Truck_Council_Inc_v_Oklahoma_Tax_Commission_merits_1995-06-19.md) lines 35 and 58, repeated in its Public Projection at lines 194 and 217: irreparable injury; a cloud on title; and a genuine risk of numerous suits between the **same parties** on the **same law or facts**. The entry also omits the distinction between that condition and merely parallel claims by many taxpayers, and the possibility that continued unconstitutional taxation after a refund judgment defeats adequacy. [Holdings candidate](HOLDINGS.candidate.md) line 5498 retains the terms.
+
+This is candidate compression of controlling qualifications, not a faulty adjudication. General reference to adequacy does not supply the specified exception boundaries. The later candidate correction must retain the source's permissive consequence—different equity **may** be required—without turning any listed circumstance into an automatic injunction.
+
+### F06 — Medium — Lopez and Travelers retain the superseded Morales result as their final actual-law review
+
+[United States v. Lopez Record](../records/United_States_v_Lopez_merits_1995-04-26.md) line 174 and [New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. Record](../records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md) line 219, under “April 25 law checked in full,” say Morales reverses without a controlling rationale, with an O'Connor/Scalia/Kennedy/Thomas plurality and Stevens/Souter/Ginsburg/Breyer dissenting under Cavanaugh. Their “final actual-law comparison” rows at Lopez lines 184–191 and Travelers lines 229–236 retain those superseded individual roles and premises.
+
+The current authorized [California Department of Corrections v. Morales Record](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) instead affirms five-to-four: O'Connor writes for Stone, Stevens, Souter and Ginsburg; Breyer joins Kennedy, Scalia and Thomas in dissent. Morales's current Record, Render Input, render, operative workspace law and candidate entries agree with that replacement.
+
+The old frozen handoffs properly remain history. The defect is their unqualified incorporation as the current downstream Records' **final actual-law review**, with no identified post-replacement revalidation explaining the changed premise and positions. The replacement validation receipt does not establish that missing review. No Commerce Clause or ERISA judgment error has been demonstrated. A qualitative downstream revalidation may preserve both adjudications, but the current audit cannot certify that step from a review describing the opposite Morales result. The later correction must truthfully state its result and preserve the history without treating superseded law as current.
+
+This finding does not apply merely because an older document mentions an unresolved matter. Robertson, Fargo and O'Neal have explicit insertion/dependency reviews qualifying their earlier preparation descriptions, as detailed in section 4.
+
+### F07 — Low — Garlotte uses compact form despite the changed controlling coalition
+
+[Garlotte v. Fordice Record](../records/Garlotte_v_Fordice_merits_1995-05-30.md) line 150 and [chunk-6 Render Input](../render-inputs/OT_1994CHUNK6.md) line 532 select compact form because eight reverse instead of seven “solely from Stone's replacement vote.” The Record's historical-departure account at line 134 expressly says Stone replaces the historical Chief's **affirmance** with **reversal**. That enlarges the controlling aggregate-custody coalition.
+
+AGENTS excludes from materiality a change following solely from Stone **casting the vote Rehnquist cast**; this opposite vote does not meet that exception. A changed controlling coalition otherwise requires full form. The compact [render](../output/OT_1994CHUNK6.md) beginning at line 494 consequently lacks the required full-form judgment and opinion-topology tables. The approved vote and law are supportable. This is a form correction, not a reason to change them.
+
+### F08 — Low — Nine Records omit the required historical-departure index line
+
+The following component changes are substantively discussed, but the exact natural-language `**Historical departure:**` line required by AGENTS is absent. The requirement is not limited to changed associate judgments. These are index/disclosure defects, not findings that the described associate commitments are unsupported. Stone's approved position supplies the basis for a Stone-only change; the audit does not substitute a new choice.
+
+| Matter and evidence | Material component that the missing line must accurately describe |
+|---|---|
+| [United States v. Williams Record](../records/United_States_v_Williams_merits_1995-04-25.md), lines 52, 71, 88 and 153 | Williams adds Stone to the controlling primary ground and changes the historical overall coalition; line 153 incorrectly treats absence of an associate departure as sufficient to omit the label. Seven support the primary rule and five the alternative. |
+| [Hubbard v. United States Record](../records/Hubbard_v_United_States_merits_1995-05-15.md), lines 59–70 and 265 | Hubbard's current seven-to-two judgment replaces the historical six-to-three judgment. Stone joins the mandate on his narrower ground. The unqualified assertion that no judgment-level departure remains is inaccurate; this does not undermine the six-Justice entity rule. |
+| [U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill Record](../records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md), line 61; chunk-6 comparator lines 65–66 | U.S. Term Limits has six controlling constitutional votes, compared with the historical five, because Stone takes the opposite vote from the historical Chief. |
+| [First Options of Chicago, Inc. v. Kaplan Record](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md), lines 122 and 138; chunk-6 comparator lines 99–101 | First Options withholds Stone's join from the conditional limited-review proposition, leaving eight rather than the historical unanimous rationale. The Record itself selects full form for the distinct proposition coalition. |
+| [United States v. Aguilar Record](../records/United_States_v_Aguilar_merits_1995-06-21.md), lines 16, 64 and 165 | Aguilar gives Stone only disposition agreement under the standing fallback on the constitutional objection. Eight associates supply the constitutional rationale, unlike the historical Chief's reasoning join. The fallback itself is correctly applied. |
+| [Vernonia School District 47J v. Acton Record](../records/Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md), lines 125–131 | Vernonia expressly records Stone's opposite historical vote and the resulting five-to-four judgment, then treats the lack of an unsupported non-Stone departure as a reason not to provide the line. |
+| [Rosenberger v. Rector and Visitors of the University of Virginia Record](../records/Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md), lines 51, 58 and 141–143 | Rosenberger replaces historical aid-merits reliance on Zobrest with Zobrest's actual procedural-only force and independent surviving support. This is an explained difference in precedent treatment despite the same final judgment alignment. |
+| [Babbitt v. Sweet Home Chapter of Communities for a Great Oregon Record](../records/Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md), lines 37, 50 and 122 | Sweet Home changes the historical six-to-three disposition and creates seven statutory votes while retaining a distinct six-Justice deference rationale. |
+| [Capitol Square Review and Advisory Board v. Pinette Record](../records/Pinette_merits_1995-06-29.md), lines 10, 55–57, 155 and 284 | Pinette expressly adopts a nine-Justice claimant-specific recurring-permit holding. The Record distinguishes historical merits reach from adoption of that threshold explanation and identifies changed controlling-opinion structure. A mere author substitution is not the asserted basis. |
+
+No extra label is demanded simply because an author changes or a noncontrolling writing differs. Added matters without a historical Supreme Court merits comparator, such as Hechinger and Chabad, are not mislabeled as departures. The nine specified omissions would make the generated departures index incomplete unless corrected before index generation.
+
+### F09 — Low — Completed artifacts retain stale current-status and projection-gap statements
+
+These do not alter law, but they conflict with the current preserved and rendered state:
+
+- [United States v. Williams Record](../records/United_States_v_Williams_merits_1995-04-25.md) line 165 calls Williams “an unpreserved review draft” and says preservation/chunk validation remain outstanding. Its current canonical header and the durable validation do not support that present-tense status.
+- [United States v. Harris Record](../records/United_States_v_Harris_merits_1995-04-27.md) line 248 and [United States v. Pinson Record](../records/United_States_v_Pinson_merits_1995-05-08.md) line 209 still say final chunk validation remains outstanding after preservation and validation.
+- [Current continuity](../workspace/continuity.md) line 6527 says validation remains open concerning the Engine section 8 change and private draft labels in Morales and Williams. The Engine-change notice limited its possible adjudicative effect to Stone v. INS's assignment; the current Record identifies the committed assignment correction. Morales's replacement and the current Williams header no longer carry the cited initial lineage labels, although Williams's separate body sentence above remains defective. The live blocker text has not been reconciled to those resolutions.
+- [Holdings pass 1](HOLDINGS_PASS_1.md), under “Cross-check and outstanding projection gap,” still says Robertson is missing from the chunk-5 render. [Holdings pass 2](HOLDINGS_PASS_2.md), under “Render cross-check and outstanding projection gaps,” repeats that claim and the earlier absence of the Adarand, Wilton, Rambo and Johnson v. Jones dockets in chunk 7. All five gaps are now resolved in the current outputs. The notes are retained pre-Commit snapshots, not competing legal authority; this audit records their gap lists as stale rather than reopening the completed rendering work.
+
+Historical freeze notices remain valid receipts and need not be rewritten to pretend these issues never existed. The current status account needs truthful qualification. Generic operator-commit reservations made at the time of a handoff are not, by themselves, treated as false lineage claims.
+
+### F10 — Low — Vaccine source link is labeled as a PDF but targets text
+
+The [Vaccine Injury Table Admitted Source Record](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md) line 10 labels a link as a nineteen-page PDF while its local target is `../sources/chunk4/Vaccine_Table_60_FR_7678.txt`, a plain-text extraction. A separate official PDF link is valid. The source format description is inaccurate, although the effective-date and Whitecotton transition analysis are unaffected. Correct the label or target in a later authorized documentary correction.
+
+### F11 — Low — Sky Reefer's approved input contains a damaged amount passage
+
+The [chunk-8 brief](../briefs/OT_1994CHUNK8.md) lines 424 and 636 say approximately, then contain `<!-- BEGIN_CASE OT1994-089 -->`, followed by “million dispute,” with the numeric amount absent. The damage appears in both the neutral and Stone material and is copied into `runtime/OT_1994CHUNK8_STONE.md` lines 159–160.
+
+The current Sky Reefer Record does not infer an amount from the damaged passage, so this is not a found merits or remedy error. It is an unresolved source-input defect; the amount must be recovered from the approved source or clarified if later needed. The protected brief must not be silently edited, and the audit supplies no guessed number.
+
+### F12 — Low — Internal and candidate editorial residue
+
+Every located occurrence in this group is listed here:
+
+- Fourteen empty `#` heading lines remain in current Records: Sweet Home line 128; Florida Bar line 146; Gutierrez de Martinez lines 125 and 127; National Private Truck line 156; Chickasaw Nation lines 146 and 148; Rosenberger lines 162, 164 and 166; Aguilar lines 184, 186 and 188; and Gaudin line 110.
+- [Sandin v. Conner Record](../records/Sandin_v_Conner_merits_1995-06-19.md) contains literal question marks in place of punctuation/section symbols at internal headings lines 140 and 168 and the regulation-reference passage at line 163 (including the `17-201-7,12,13,16?18` and `?19`/`?20` fragments). Its operative rule and Public Projection remain intelligible; no new regulatory condition is inferred from the damaged typography.
+- [Standards candidate](STANDARDS_AND_TESTS.candidate.md) line 2878 has `burden sequence.;` and line 6074 has `which varieties retain it.;` in effective-date statements.
+
+These are editorial defects without an identified change to a judgment or controlling legal rule. They are reported because this pass must list small discrepancies as well as substantive ones.
+
+### F13 — Low — Chabad's Public Projection retains user-approval language
+
+[Chabad-Lubavitch of Georgia v. Miller Record](../records/Chabad_Lubavitch_v_Miller_merits_1995-06-29.md) line 390 describes Stone's separate writing as explaining the “approved contextual application,” copying the internal topology at line 85. Internal line 24 expressly ties the application to Stone's approved position. The adjective describes user authorization, not a Court-adopted holding. It appears in the generated [chunk-9 Render Input](../render-inputs/OT_1994CHUNK9.md), in Stone's concurrence row.
+
+AGENTS excludes approval/workflow language from the bounded public handoff. The [chunk-9 render](../output/OT_1994CHUNK9.md) line 136 correctly omits the adjective, so the public output carries no resulting approval claim. The proper later projection correction should remove the workflow word without changing the separate writing's legal content.
+
+### F14 — Low — Two Standards retrieval questions no longer cover their expanded rules
+
+The [Standards candidate](STANDARDS_AND_TESTS.candidate.md) line 1793 retains a governing question about a law that may **double** hearing intervals, although the entry now includes Morales's individualized postponement for up to three years. Line 1139 asks only who computes credit, when, and how double credit is treated, although that entry now also covers Koray's conditional-release/official-detention boundary.
+
+The operative rules and their qualifications are present. The defect is in the descriptions used to retrieve the rules, which should cover the added questions. This requires candidate editorial revision, not a change to Morales, Koray or the earlier holdings.
+
+## 3. Candidate and authority review
+
+Both Holdings passes were reviewed against the current Records, not accepted from their pass summaries alone. Pass 1 contributes 154 propositions from matters 1–60; pass 2 contributes 82 from matters 61–99: **236 propositions across 99 judicial Records**. Multi-area entries, independent alternatives, effective dates, governing coalitions, current force, precedent treatment, qualifications and remedies were included. The candidate preserves the opening register. Its limited Cavanaugh/Morales and Brecht/O'Neal navigation/current-force treatment does not silently replace the earlier holdings. F01, F03 and F04 identify defects propagated into Holdings; no additional candidate-only legal change was found.
+
+Standards and Tests was independently compared with the opening register and the Records; agreement with Holdings alone was not treated as validation. F01 and F04 affect authority or substantive rule completeness there. F02 and F05 are candidate-specific legal projections. F12 and F14 report candidate editorial/retrieval defects. Existing entries changed by the term were read together with their new components. Routine applications that create no reusable new standard were not automatically treated as missing Standards entries.
+
+The audit specifically checked that noncontrolling reasoning did not become law through close compression: Day's responsive-financing judgment does not become a common five-Justice test; Hubbard's extended stare-decisis accounts are not aggregated; Stone's Lopez framework remains separate; Miller's nonessential conditional statutory-defense discussion stays noncontrolling; Pinette's four-Justice contextual framework does not become a universal Court test; Chabad's four-Justice additional remedial inquiry remains distinct from its five-Justice contextual rule; Chandris's guide retains the coalition excluding Stone; and Adarand retains the inherited Metro Broadcasting/Fullilove scope without inventing a universal new tier. The direct majorities in Celotex, Williams and the fractured component cases were checked proposition by proposition.
+
+Earlier effective simulated authority was consulted where it supplies a changed premise, including Casey, Brecht, Cavanaugh, Morgan Stanley, Shaw, Freeman, Burke, Dixon, Lamb's Chapel, Zobrest and Kiryas Joel. The review tested judgment and rationale separately and required a concrete Justice-specific reason for associate departures. Apart from the findings listed above, no further supported vote, coalition, Marks, holding, remedy, precedent-treatment or continuity discrepancy was identified in the full coverage described in section 6.
+
+## 4. The six corrected or completed matters
+
+The present Record, generated Render Input and public render agree substantively for each of the six named matters. The following distinctions matter: four were completed after a stopped or unfinished stage without superseding a prior adjudication; Morales replaced an actual completed result; Stone v. INS corrected only an internal assignment paragraph. Earlier freezes are required historical handoffs, not alternate current judgments. The audit did search current Records, runtime/entering-law handoffs, freezes, workspace, public projections, renders and close materials for stale descriptions; the surviving current defects are identified explicitly rather than described as universally absent.
+
+| Matter | Current operative result and cross-check | Stale-version / provenance conclusion |
 |---|---|---|
-| Interstate Commerce Commission v. Transcon Lines | Chunk 1: 9–0 reversal/remand; Kennedy's unanimous Court opinion; implementation confined to the admitted-unlawful loss-of-discount liquidated-damages class. Genuine inclusion/amount questions remain, and ordinary freight principal/other receivables are excluded. | `acec437d236d6d12e54bd53b191a233f57f52916` contains the first completed Record; the path is absent in its parent. The current Record is unchanged from that object. Earlier stopped intake is not an earlier adjudication. |
-| Fargo Women's Health Organization v. Schafer | Chunk 2: access vacatur/remand 6–3; two definition-vagueness rejections and the limited penalty rejection affirmed 8–1. Souter's part-specific joins and Stone's partial concurrence/dissent remain distinct. The access remand does not vacate the affirmed components. | `f6afbf7f1a82d7ea26633bb04df475c3c4356f43` is the first completed Record; path absent in parent; current Record unchanged. Earlier incomplete handoffs remain stage history. |
-| O'Neal v. McAninch | Chunk 3: 7–2 vacatur/remand; five votes for the confined Chapman instruction, three for the broader proposed extension. O'Connor's controlling portions, Stevens/Kennedy's judgment agreement and conditional-writ limits are preserved. | `b3ce99c5c54607c27c5893c25cc52fc04efcca70` is the first completed Record; path absent in parent; current Record unchanged. |
-| United States v. Robertson | Chunk 5: current bounded entry and chronology row present; 9–0 reversal of the Count Six commerce ruling; Breyer's unanimous opinion. Remaining RICO appellate claims and sentencing issues, and the independent drug-resentencing posture, remain distinct. | `0fcb6a5c2d5485cf0591f852f4fbf859d4b1f3bf` is the first completed Record; path absent in parent; current Record unchanged. Superseded source reports do not displace it. |
-| California Department of Corrections v. Morales | Chunk 5: **5–4 affirmance**, Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg. O'Connor's Court opinion; Stone concurrence; Kennedy dissent joined by Scalia, Thomas and Breyer. Annual consideration is preserved without an order granting parole. The candidates retain the revised result and bounded rule. | Replacement at `d086219b424d812aaa837fda9533629c69e33833` verified. The current Record differs only in the subsequently corrected lineage line; Public Projection unchanged. The superseded reversal is not operating as current law in these projections. |
-| Stone v. Immigration and Naturalization Service | Chunk 5: 5–4 affirmance, Kennedy Court opinion and Breyer dissent unchanged. The current internal assignment paragraph describes Stevens's ordinary discretion and does not apply the Chief's fit/expansion method. | Parent comparison for `8d98261d33b6d39fda8a9ccc52ab5ad7ed3be02a` confirms exactly the assignment-paragraph replacement. Later change is the repaired lineage line only; Public Projection unchanged. |
+| [Interstate Commerce Commission v. Transcon Lines Record](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) | Transcon reverses and remands unanimously for the confined injunction against the admitted-unlawful loss-of-discount demands. Ordinary principal and other estate receivables remain outside the restraint; scope, inclusion and amount questions beyond the concessions remain open. Record, chunk-1 handoff/output and candidate agree. | The current lineage identifies the first completed Record and preassembly revalidation under the express remedy approval. Earlier stopped preparation is not a superseded judgment. No conflicting current operative result found. |
+| [Fargo Women’s Health Organization v. Schafer Record](../records/Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md) | Fargo has the six-to-three access vacatur/remand and eight-to-one definition/limited-penalty affirmances. Stone's broader remand position, Casey's complete framework, causation and tailored relief remain distinct. Record, chunk-2 handoff/output and candidate agree. | The completion/chronology receipt reviews the intervening Lebron and Milwaukee Brewery events. Their earlier preparation status is not used to leave Fargo currently unresolved. No conflicting operative version found. |
+| [O'Neal v. McAninch Record](../records/ONeal_v_McAninch_merits_1995-02-21.md) | O'Neal vacates/remands seven-to-two, with five votes for Chapman on the preserved personal-intent instructional/argument claim and only three for the broader extension. No violation or automatic writ is invented. Record, chunk-3 handoff/output and candidate agree. | The explicit chronology review evaluates eleven later completed events. Old unresolved-intake descriptions are qualified as original preparation; the effective-date workspace is current. This is first adjudication after stopped intake, not a correction of an earlier O'Neal judgment. |
+| [United States v. Robertson Record](../records/United_States_v_Robertson_merits_1995-05-01.md) | Robertson reverses the Count Six commerce ruling unanimously on cumulative direct enterprise operations; remaining RICO claims, Guidelines proceedings and independent drug resentencing remain separate. The current chunk-5 render includes the decision and agrees with its Record/Input and candidate. | Record line 87 expressly reviews Pinson, Kansas and Hubbard and explains why their original “unadjudicated” descriptions do not require changed adjudications. Old source attempts do not establish a rival result. The former missing-render claims in the pass notes are stale status under F09. |
+| [California Department of Corrections v. Morales Record](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) | Morales affirms five-to-four, with O'Connor, Stone, Stevens, Souter and Ginsburg in the majority and Kennedy, Scalia, Thomas and Breyer dissenting. The holding preserves offense-date annual consideration without ordering parole. Stone's broader substitute formulation remains distinct from the shared rule. Current Record/Input/render, workspace law and candidates agree. | Direct inspection of commit `d086219b424d812aaa837fda9533629c69e33833` and its parent verifies replacement of the former five-to-four reversal/remand lacking a controlling constitutional rationale. The current Public Projection equals the correction's projection after line-ending normalization. **F06 remains:** downstream Lopez/Travelers final-review annexes still state the superseded result. **F09** addresses the stale live status note. |
+| [Stone v. Immigration and Naturalization Service Record](../records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) | Stone v. INS retains the five-to-four affirmance of dismissal of original-order review and the separate reconsideration component. Stevens, as senior Justice in the majority, assigns Kennedy. The paragraph uses Stevens's ordinary discretion and supported practice; it does not apply the Chief-only fit/expansion preference to him. | Commit `8d98261d33b6d39fda8a9ccc52ab5ad7ed3be02a` verifies the assignment-only correction. Its Public Projection equals both its parent and the current projection. The public handoff/render therefore properly retain unchanged law and topology. The old Engine-change notice is historical; the current unresolved-status residue is F09. |
 
-**Retained historical text and stale versions.** No duplicate priority Canonical Decision Record or undisclosed competing current result was found. A literal claim that no old text survives anywhere would be false. The Morales and Stone v. INS files under `runtime/assembly/` still contain the old drafting text, but each begins with a conspicuous superseded-history notice linking the current Record and identifying the correction commit. The prior authorized correction expressly retained those bytes as history. Immutable pre-correction commitments, reconciliations and stopped-intake research likewise remain historical artifacts; ignored scratch and Git history are not current authority. This audit neither deletes them nor treats their marked historical content as a new current-law defect. The old Morales reversal and obsolete Stone assignment method were not found presented as current authority in the canonical Record/input/render set or current candidate projections.
+No separate stale operative adjudication was found for these six. That conclusion does **not** erase the specifically identified stale downstream Morales analysis or the current status defects, and does not require destroying legitimate original freezes.
 
-## Findings from the preceding Audit that are now resolved
+## 5. Standing State, admitted changes, and open matters
 
-The four projection/input docket omissions are repaired: Adarand, **93-1841**; Wilton, **94-562**; Metropolitan Stevedore v. Rambo, **94-820**; and Johnson v. Jones, **94-455**. Each now appears in its Record's Public Projection and generated chunk 7 input as well as its render. All previously reported 68 fused-spacing occurrences are absent from the targeted current-file scan. These were prior F03 and F04; they are not retained as current findings.
+The [Standing State candidate](STANDING_STATE.candidate.md) was read in full. It contains the next-term setting, rather than a noncontrolling-position history or dependency register: header, Court and seniority, circuit allotments, standing referral practice, and docket. The opening OT1995 Court has Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer in the prescribed seniority order. The August 3, 1994 allotment order and the existing referral practice are preserved. No unsupported seat, circuit transfer or new procedural practice was found.
 
-The 65 missing-source link occurrences from prior F01 and F02 still remain and are the current F01 and F02. Robertson's formerly missing render entry remains present. The two marked historical assembly drafts, corrected Morales/Stone lineage, completed Williams status, disclosed ledger fallback, corrected Sky Reefer participation, aligned Nebraska continuity row and current Lopez chronology remain in their repaired state. Earlier pass notes and correction receipts are historical evidence, not substitutes for these current-file checks.
+All nine open matters are retained in their actual stages:
 
-## Legal review still required
+| Matter | Carry-forward checked |
+|---|---|
+| Zatko and companion fee dockets | Underlying petitions unresolved after fee-motion denial; paid-docketing status not invented. |
+| Wyoming v. Oklahoma | Original jurisdiction retained for implementation of the declaration/injunction. |
+| Reynolds v. IAAF | Limited Trials interim protection pending further order. |
+| Grubbs v. Delo | Application remains pending under the temporary administrative stay. |
+| United States v. Louisiana | Original jurisdiction retained to effectuate/supplement the boundary decree. |
+| Delaware v. New York | Further proceedings and recommended decree before the Special Master. |
+| Nebraska v. Wyoming | Original action remains before Special Master Olpin on admitted claims. F03 affects the component authority description, not whether the case remains open. |
+| In re Anderson | Fee leave granted; original extraordinary-writ petition still pending. |
+| Kansas v. Colorado | New retained remedy stage before Special Master Littleworth on established post-Compact pumping liability. |
 
-The failed deterministic gate means **all 99 matters remain pending fresh legal-substance review**, including all six priority matters. Both Holdings passes and their cumulative candidate, the Standards and Tests candidate and Standing State candidate also remain pending legal review. This report does not resolve whether any vote or join has adequate date-eligible Justice-specific support, whether a historical departure has a concrete changed premise, whether a holding/alternative or precedent treatment is legally correct, whether every remedy and exception is complete, or whether the candidates preserve only controlling law without omissions or synthesis. Text identity and arithmetic cannot answer those questions.
+The ten user-added OT1995 matters remain separately identified. The deficient identification of *A. St. P. C. v. B. C.* and the missing reconstructed lower-court judgment for *Bush v. Vera* are expressly carried as future intake limits. They are not invented lower-court findings, adjudications of this term, or unexplained failures to complete one of its 99 matters.
 
-After the reported defects are addressed in the separate correction task, the deterministic gate must be rerun and the fresh audit performed before term close can be approved. No tracker publication or correction is authorized by this failed report.
+The March 10, 1995 Vaccine Injury Table and April 4, 1995 Plant Variety Protection Act amendment have Admitted Source Records. Their actual temporal conditions were compared with Whitecotton and Asgrow and with the candidate current-force treatment. Neither is counted as a judicial holding. F10 concerns only the Vaccine source-format description.
 
-## Appendix A — Coverage of all 99 inventory matters
+Disclosed source limits remain bounded rather than silently filled. Examples include Miller's unestablished argument date, Sweet Home's unprovided §6(g)(2) text/application source, Adarand's unresolved certification-route characterization and the reconstructed future Bush record. These limitations do not establish a missing necessary ground for the present bounded decisions. Miller's absent argument date is disclosed; the Render Contract permits absent fields and does not require inventing a date or a merits blocker. F11 separately reports an actual damaged input passage.
 
-Each row received inventory/manifest/Record/input/render membership, docket/date/boundary reconciliation and formal participation/vote/topology screening. “Verified” means that deterministic coverage, not substantive approval. F01's two Court Records are flagged below; its two additional noncase Records appear in Appendix B. Legal review is deferred for every row.
 
-| No. | Chunk | Matter | Effective date | Record/input/render coverage |
-|---:|---:|---|---|---|
-| 1 | 1 | United States v. Shabani | 1994-11-01 | [Verified](../records/United_States_v_Shabani_merits_1994-11-01.md) |
-| 2 | 1 | U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership | 1994-11-08 | [Verified](../records/US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_mootness_vacatur_1994-11-08.md) |
-| 3 | 1 | Hess v. Port Authority Trans-Hudson Corp. | 1994-11-14 | [Verified](../records/Hess_v_Port_Authority_Trans_Hudson_Corp_merits_1994-11-14.md) |
-| 4 | 1 | United States v. X-Citement Video, Inc. | 1994-11-29 | [Verified](../records/United_States_v_X_Citement_Video_Inc_merits_1994-11-29.md) |
-| 5 | 1 | Church of Scientology Flag Service Organization, Inc. v. City of Clearwater + | 1994-12-05 | [Verified](../records/Church_of_Scientology_Flag_Service_Organization_Inc_v_City_of_Clearwater_merits_1994-12-05.md) |
-| 6 | 1 | Federal Election Commission v. NRA Political Victory Fund | 1994-12-06 | [Verified](../records/Federal_Election_Commission_v_NRA_Political_Victory_Fund_jurisdictional_dismissal_1994-12-06.md) |
-| 7 | 1 | Reich v. Collins | 1994-12-06 | [Verified](../records/Reich_v_Collins_merits_1994-12-06.md) |
-| 8 | 1 | Brown v. Gardner | 1994-12-12 | [Verified](../records/Brown_v_Gardner_merits_1994-12-12.md) |
-| 9 | 1 | Nebraska Department of Revenue v. Loewenstein | 1994-12-12 | [Verified](../records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md) |
-| 10 | 1 | In re Baby K + | 1994-12-12 | [Verified](../records/In_re_Baby_K_merits_1994-12-12.md) |
-| 11 | 1 | Plakas v. Drinski + | 1995-01-09 | [Verified](../records/Plakas_v_Drinski_merits_1995-01-09.md) |
-| 12 | 1 | Interstate Commerce Commission v. Transcon Lines | 1995-01-10 | [Verified](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) |
-| 13 | 2 | Tome v. United States | 1995-01-10 | [Verified](../records/Tome_v_United_States_merits_1995-01-10.md) |
-| 14 | 2 | Young v. Northern Illinois Conference of United Methodist Church + | 1995-01-17 | [Verified](../records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md) |
-| 15 | 2 | Asgrow Seed Co. v. Winterboer | 1995-01-18 | [Verified](../records/Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md) |
-| 16 | 2 | United States v. Mezzanatto | 1995-01-18 | [Verified](../records/United_States_v_Mezzanatto_merits_1995-01-18.md) |
-| 17 | 2 | American Airlines, Inc. v. Wolens | 1995-01-18 | [Verified](../records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md) |
-| 18 | 2 | NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co. | 1995-01-18 | [Verified](../records/NationsBank_Ludwig_v_Variable_Annuity_Life_Insurance_Co_merits_1995-01-18.md) |
-| 19 | 2 | Allied-Bruce Terminix Cos. v. Dobson | 1995-01-18 | [Verified](../records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md) |
-| 20 | 2 | Schlup v. Delo | 1995-01-23 | [Verified](../records/Schlup_v_Delo_merits_1995-01-23.md) |
-| 21 | 2 | McKennon v. Nashville Banner Publishing Co. | 1995-01-23 | [Verified](../records/McKennon_v_Nashville_Banner_Publishing_Co_merits_1995-01-23.md) |
-| 22 | 2 | Fargo Women’s Health Organization v. Schafer + | 1995-02-13 | [Verified](../records/Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md) |
-| 23 | 2 | Lebron v. National Railroad Passenger Corp. | 1995-02-21 | [Verified](../records/Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md) |
-| 24 | 2 | Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co. | 1995-02-21 | [Verified](../records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md) |
-| 25 | 3 | O'Neal v. McAninch | 1995-02-21 | [Verified](../records/ONeal_v_McAninch_merits_1995-02-21.md) |
-| 26 | 3 | United States v. National Treasury Employees Union | 1995-02-22 | [Verified](../records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md) |
-| 27 | 3 | Harris v. Alabama | 1995-02-22 | [Verified](../records/Harris_v_Alabama_merits_1995-02-22.md) |
-| 28 | 3 | Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co. | 1995-02-22 | [Verified](../records/Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md) |
-| 29 | 3 | Anderson v. Green | 1995-02-22 | [Verified; source links F01](../records/Anderson_v_Green_decision_1995-02-22.md) |
-| 30 | 3 | Gustafson v. Alloyd Co. | 1995-02-28 | [Verified](../records/Gustafson_v_Alloyd_Co_merits_1995-02-28.md) |
-| 31 | 3 | Arizona v. Evans | 1995-03-01 | [Verified](../records/Arizona_v_Evans_merits_1995-03-01.md) |
-| 32 | 3 | Swint v. Chambers County Commission | 1995-03-01 | [Verified; source links F01](../records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md) |
-| 33 | 3 | Mastrobuono v. Shearson Lehman Hutton, Inc. | 1995-03-06 | [Verified](../records/Mastrobuono_v_Shearson_Lehman_Hutton_Inc_merits_1995-03-06.md) |
-| 34 | 3 | Curtiss-Wright Corp. v. Schoonejongen | 1995-03-06 | [Verified](../records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md) |
-| 35 | 3 | Shalala v. Guernsey Memorial Hospital | 1995-03-06 | [Verified](../records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md) |
-| 36 | 3 | Ambassador Books & Video, Inc. v. City of Little Rock + | 1995-03-20 | [Verified](../records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md) |
-| 37 | 4 | Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co. | 1995-03-21 | [Verified](../records/Director_Office_of_Workers_Compensation_Programs_v_Newport_News_Shipbuilding_and_Dry_Dock_Co_merits_1995-03-21.md) |
-| 38 | 4 | Anderson v. Edwards | 1995-03-22 | [Verified](../records/Anderson_v_Edwards_merits_1995-03-22.md) |
-| 39 | 4 | Swanner v. Anchorage Equal Rights Commission + | 1995-03-27 | [Verified](../records/Swanner_v_Anchorage_Equal_Rights_Commission_merits_1995-03-27.md) |
-| 40 | 4 | Qualitex Co. v. Jacobson Products Co. | 1995-03-28 | [Verified](../records/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md) |
-| 41 | 4 | Oklahoma Tax Commission v. Jefferson Lines, Inc. | 1995-04-03 | [Verified](../records/Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md) |
-| 42 | 4 | Plaut v. Spendthrift Farm, Inc. | 1995-04-18 | [Verified](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) |
-| 43 | 4 | Shalala v. Whitecotton | 1995-04-18 | [Verified](../records/Shalala_v_Whitecotton_merits_1995-04-18.md) |
-| 44 | 4 | Freightliner Corp. v. Myrick | 1995-04-18 | [Verified](../records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md) |
-| 45 | 4 | Heintz v. Jenkins | 1995-04-18 | [Verified](../records/Heintz_v_Jenkins_merits_1995-04-18.md) |
-| 46 | 4 | Lanphere & Urbaniak v. Colorado + | 1995-04-18 | [Verified](../records/Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md) |
-| 47 | 4 | Celotex Corp. v. Edwards | 1995-04-19 | [Verified](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) |
-| 48 | 4 | McIntyre v. Ohio Elections Commission | 1995-04-19 | [Verified](../records/McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md) |
-| 49 | 5 | Stone v. Immigration and Naturalization Service | 1995-04-19 | [Verified](../records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) |
-| 50 | 5 | Kyles v. Whitley | 1995-04-19 | [Verified](../records/Kyles_v_Whitley_merits_1995-04-19.md) |
-| 51 | 5 | Rubin v. Coors Brewing Co. | 1995-04-19 | [Verified](../records/Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md) |
-| 52 | 5 | California Department of Corrections v. Morales | 1995-04-25 | [Verified](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) |
-| 53 | 5 | United States v. Williams | 1995-04-25 | [Verified](../records/United_States_v_Williams_merits_1995-04-25.md) |
-| 54 | 5 | United States v. Lopez | 1995-04-26 | [Verified](../records/United_States_v_Lopez_merits_1995-04-26.md) |
-| 55 | 5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 1995-04-26 | [Verified](../records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md) |
-| 56 | 5 | United States v. Harris + | 1995-04-27 | [Verified](../records/United_States_v_Harris_merits_1995-04-27.md) |
-| 57 | 5 | United States v. Robertson | 1995-05-01 | [Verified](../records/United_States_v_Robertson_merits_1995-05-01.md) |
-| 58 | 5 | United States v. Pinson + | 1995-05-08 | [Verified](../records/United_States_v_Pinson_merits_1995-05-08.md) |
-| 59 | 5 | Kansas v. Colorado | 1995-05-15 | [Verified](../records/Kansas_v_Colorado_original_exceptions_1995-05-15.md) |
-| 60 | 5 | Hubbard v. United States | 1995-05-15 | [Verified](../records/Hubbard_v_United_States_merits_1995-05-15.md) |
-| 61 | 6 | City of Edmonds v. Oxford House, Inc. | 1995-05-15 | [Verified](../records/City_of_Edmonds_v_Oxford_House_merits_1995-05-15.md) |
-| 62 | 6 | Reynoldsville Casket Co. v. Hyde | 1995-05-15 | [Verified](../records/Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md) |
-| 63 | 6 | Day v. Holahan + | 1995-05-15 | [Verified](../records/Day_v_Holahan_merits_1995-05-15.md) |
-| 64 | 6 | U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill | 1995-05-22 | [Verified](../records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md) |
-| 65 | 6 | Wilson v. Arkansas | 1995-05-22 | [Verified](../records/Wilson_v_Arkansas_merits_1995-05-22.md) |
-| 66 | 6 | First Options of Chicago, Inc. v. Kaplan | 1995-05-22 | [Verified](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md) |
-| 67 | 6 | Kelley v. Board of Trustees of the University of Illinois + | 1995-05-22 | [Verified](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md) |
-| 68 | 6 | Nebraska v. Wyoming | 1995-05-30 | [Verified](../records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md) |
-| 69 | 6 | North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC | 1995-05-30 | [Verified](../records/North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md) |
-| 70 | 6 | Garlotte v. Fordice | 1995-05-30 | [Verified](../records/Garlotte_v_Fordice_merits_1995-05-30.md) |
-| 71 | 6 | United States v. Wellons + | 1995-05-30 | [Verified](../records/United_States_v_Wellons_merits_1995-05-30.md) |
-| 72 | 6 | Reno v. Koray | 1995-06-05 | [Verified](../records/Reno_v_Koray_merits_1995-06-05.md) |
-| 73 | 7 | Metropolitan Washington Airports Authority v. Hechinger + | 1995-06-05 | [Verified](../records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md) |
-| 74 | 7 | Missouri v. Jenkins | 1995-06-12 | [Verified](../records/Missouri_v_Jenkins_merits_1995-06-12.md) |
-| 75 | 7 | Ryder v. United States | 1995-06-12 | [Verified](../records/Ryder_v_United_States_merits_1995-06-12.md) |
-| 76 | 7 | City of Milwaukee v. Cement Division, National Gypsum Co. | 1995-06-12 | [Verified](../records/City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md) |
-| 77 | 7 | Adarand Constructors, Inc. v. Peña | 1995-06-12 | [Verified](../records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) |
-| 78 | 7 | Wilton v. Seven Falls Co. | 1995-06-12 | [Verified](../records/Wilton_v_Seven_Falls_Co_merits_1995-06-12.md) |
-| 79 | 7 | Metropolitan Stevedore Co. v. Rambo | 1995-06-12 | [Verified](../records/Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md) |
-| 80 | 7 | Johnson v. Jones | 1995-06-12 | [Verified](../records/Johnson_v_Jones_merits_1995-06-12.md) |
-| 81 | 7 | Kimberlin v. Quinlan | 1995-06-12 | [Verified](../records/Kimberlin_v_Quinlan_merits_1995-06-12.md) |
-| 82 | 7 | Commissioner v. Schleier | 1995-06-14 | [Verified](../records/Commissioner_v_Schleier_merits_1995-06-14.md) |
-| 83 | 7 | Chandris, Inc. v. Latsis | 1995-06-14 | [Verified](../records/Chandris_Inc_v_Latsis_merits_1995-06-14.md) |
-| 84 | 7 | Witte v. United States | 1995-06-14 | [Verified](../records/Witte_v_United_States_merits_1995-06-14.md) |
-| 85 | 8 | Gutierrez de Martinez v. Lamagno | 1995-06-14 | [Verified](../records/Gutierrez_de_Martinez_v_Lamagno_merits_1995-06-14.md) |
-| 86 | 8 | Oklahoma Tax Commission v. Chickasaw Nation | 1995-06-14 | [Verified](../records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md) |
-| 87 | 8 | Sandin v. Conner | 1995-06-19 | [Verified](../records/Sandin_v_Conner_merits_1995-06-19.md) |
-| 88 | 8 | United States v. Gaudin | 1995-06-19 | [Verified](../records/United_States_v_Gaudin_merits_1995-06-19.md) |
-| 89 | 8 | Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | 1995-06-19 | [Verified](../records/Vimar_Seguros_y_Reaseguros_SA_v_MV_Sky_Reefer_merits_1995-06-19.md) |
-| 90 | 8 | Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston | 1995-06-19 | [Verified](../records/Hurley_v_Irish_American_Gay_Lesbian_and_Bisexual_Group_of_Boston_merits_1995-06-19.md) |
-| 91 | 8 | National Private Truck Council, Inc. v. Oklahoma Tax Commission | 1995-06-19 | [Verified](../records/National_Private_Truck_Council_Inc_v_Oklahoma_Tax_Commission_merits_1995-06-19.md) |
-| 92 | 8 | United States v. Aguilar | 1995-06-21 | [Verified](../records/United_States_v_Aguilar_merits_1995-06-21.md) |
-| 93 | 8 | Florida Bar v. Went For It, Inc. | 1995-06-21 | [Verified](../records/Florida_Bar_v_Went_For_It_Inc_merits_1995-06-21.md) |
-| 94 | 8 | Vernonia School District 47J v. Acton | 1995-06-26 | [Verified](../records/Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md) |
-| 95 | 8 | Rosenberger v. Rector and Visitors of the University of Virginia | 1995-06-29 | [Verified](../records/Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md) |
-| 96 | 8 | Babbitt v. Sweet Home Chapter of Communities for a Great Oregon | 1995-06-29 | [Verified](../records/Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md) |
-| 97 | 9 | Miller v. Johnson / Abrams v. Johnson / United States v. Johnson | 1995-06-29 | [Verified](../records/Miller_and_consolidated_merits_1995-06-29.md) |
-| 98 | 9 | Capitol Square Review and Advisory Board v. Pinette | 1995-06-29 | [Verified](../records/Pinette_merits_1995-06-29.md) |
-| 99 | 9 | Chabad-Lubavitch of Georgia v. Miller + | 1995-06-29 | [Verified](../records/Chabad_Lubavitch_v_Miller_merits_1995-06-29.md) |
+**Clearwater's unresolved source-label conflict (already disclosed; not an additional adjudicative defect).** The reproduced ordinance identifies criminal-history disclosure as §100.03(1)(m), while later appellate shorthand describes criminal histories using a list that omits (m); the source also has a separate questionable (e) reference in the disclosure list. The [Clearwater Record](../records/Church_of_Scientology_Flag_Service_Organization_Inc_v_City_of_Clearwater_merits_1994-12-05.md), lines 28, 102 and 193, preserves that uncertainty, as do chunk-1 Render Input line 471 and render line 373. The neutral disclosure is at `freeze/OT_1994CHUNK1_NEUTRAL_B.md:110`. The bounded RFRA remand uses the lower holding's labels and does not decide the correct criminal-history subsection or make a subsection-specific merits holding. Verified ordinance and mandate text would be needed to resolve the lettering; neither a silent substitution nor a new current-record correction is warranted merely to conceal a correctly disclosed source conflict. This source uncertainty is reported separately from the 14 defects requiring corrective disposition.
 
-## Appendix B — F01: all eight missing source-link occurrences in current Records
+## 6. Matter-by-matter substantive coverage
 
-Paths are relative to the repository root in the first column. Destinations are reproduced exactly and resolved relative to the referring file. Each row is one occurrence; a repeated target on a different line or in a different file remains listed.
+Every inventory matter below was reviewed for judgment and component votes, opinion authority and joins, approved Stone scope, controlling holdings and alternatives, material qualifications, precedent treatment, mandate/remedy, continuity, and Justice-specific reconciliation. Each was compared with the attributable candidate entries and its public projection. “No additional finding” means no further supported discrepancy was found under that review; it is not a script-generated certification of every historical source fact. Global index, status and editorial findings remain applicable even where the row emphasizes the substantive law.
 
-| Referring file | Line | Missing destination |
-|---|---:|---|
-| `terms/OT1994/records/Anderson_v_Green_decision_1995-02-22.md` | 85 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/records/Anderson_v_Green_decision_1995-02-22.md` | 85 | `../sources/chunk3-b-neutral/Anderson_primary_excerpts.md` |
-| `terms/OT1994/records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md` | 8 | `../sources/chunk4/S_1406_enrolled.html` |
-| `terms/OT1994/records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md` | 118 | `../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.pdf` |
-| `terms/OT1994/records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md` | 118 | `../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.txt` |
-| `terms/OT1994/records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md` | 8 | `../sources/chunk4/Vaccine_Table_60_FR_7678.pdf` |
-| `terms/OT1994/records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md` | 8 | `../sources/chunk4/Vaccine_Table_60_FR_7678_pdf_text.txt` |
-| `terms/OT1994/records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md` | 8 | `../sources/chunk4/Vaccine_Table_60_FR_7678.txt` |
+### Chunk 1
 
-## Appendix C — F02: all 57 missing source-link occurrences in retained handoffs
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 1 | [Shabani](../records/United_States_v_Shabani_merits_1994-11-01.md) | Nine direct joins to no-overt-act construction; agreement/knowing participation preserved; indictment/instruction ruling does not restore every conviction issue; Dixon/Grady displacement not imported. No additional finding. |
+| 2 | [Bancorp](../records/US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_mootness_vacatur_1994-11-08.md) | Residual section 2106 authority separate from moot merits; voluntary settlement distinct from happenstance; exceptional equity and no automatic Rule 60(b) remand preserved. No additional finding. |
+| 3 | [Hess](../records/Hess_v_Port_Authority_Trans_Hudson_Corp_merits_1994-11-14.md) | Both employee actions included; 6-3 entity-status coalition; nonexclusive treasury inquiry; immunity/remedy distinct from negligence and other time bars. No additional finding. |
+| 4 | [X-Citement Video](../records/United_States_v_X_Citement_Video_Inc_merits_1994-11-29.md) | Seven scienter joins, six renewed-definition rationales; Stone fallback is disposition-only; actual factual knowledge distinct from statutory/legal knowledge; alternative defenses and reserved tape/indictment issues preserved. No additional finding. |
+| 5 | [Clearwater](../records/Church_of_Scientology_Flag_Service_Organization_Inc_v_City_of_Clearwater_merits_1994-12-05.md) | Eight RFRA-remand votes distinct from Stone's fixed affirmance; favorable relief preserved by nine; threshold burden and both government justification burdens; written-policy good-faith proviso separate from sixty-day refund conditions. No additional finding. The disclosed source-letter conflict is separately described in section 5. |
+| 6 | [FEC v. NRA](../records/Federal_Election_Commission_v_NRA_Political_Victory_Fund_jurisdictional_dismissal_1994-12-06.md) | Ginsburg nonparticipation; six jurisdictional votes; section 518 direction exception and funding-specific certiorari powers preserved; ratification deadline separate from structural merits. Stone's merits dissent not Court law. No additional finding. |
+| 7 | [Reich](../records/Reich_v_Collins_merits_1994-12-06.md) | Clear remedial opportunity, not automatic quantified refund; prospective adequate prepayment route and proof of payment/amount preserved; no subjective reliance burden added. No additional finding. |
+| 8 | [Brown](../records/Brown_v_Gardner_merits_1994-12-12.md) | Causation without fault distinguished from automatic benefits; natural progress remains; comprehensive consent/necessary-consequence rule reserved; Stone qualification separate. No additional finding. |
+| 9 | [Loewenstein](../records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md) | Nine private-financing/source-of-income joins; eight borrowing-power rationale joins; separate add-back issue not adjudicated; section 3124 exceptions and genuine ownership reservation preserved. No additional finding. |
+| 10 | [Baby K](../records/In_re_Baby_K_merits_1994-12-12.md) | Acute determined emergency within participating-hospital capability; complete transfer, refusal and receiving-hospital conditions distinct; Stone does not acquire unapproved rationale joins through fallback; no indefinite-care or broad preemption rule. No additional finding. |
+| 11 | [Plakas](../records/Plakas_v_Drinski_merits_1995-01-09.md) | Complete supported force circumstances and prior-conduct reservation; eight-Justice independent county rationale versus Stone's derivative ground; no personal immunity converted to municipal immunity. No additional finding. |
+| 12 | [Transcon](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) | Express credit/enforcement power, admitted violation and independently justified confined injunction remain separate; timing runs from authorized-credit expiration; original notice, aggregation, regulatory exceptions and independent lawful-route reservations preserved. Common Jan. 10 baseline respected. No additional finding. |
 
-Paths are relative to the repository root in the first column. Destinations are reproduced exactly and resolved relative to the referring file. Each row is one occurrence; a repeated target on a different line or in a different file remains listed.
+### Chunk 2
 
-| Referring file | Line | Missing destination |
-|---|---:|---|
-| `terms/OT1994/freeze/OT_1994CHUNK3_CHRONOLOGY_B.md` | 22 | `../sources/chunk3-b-neutral/Gustafson_lower_orders_App_1_14.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_COMMITMENTS_B.md` | 7 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_EVANS_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 9 | `../sources/chunk3-b-evans-supplement/Evans_joint_appendix.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_EVANS_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 9 | `../sources/chunk3-b-evans-supplement/Evans_joint_appendix.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_EVANS_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 10 | `../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_EVANS_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 10 | `../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_EVANS_NEUTRAL_VALIDATED.md` | 63 | `../sources/chunk3-b-evans-supplement/Evans_joint_appendix.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_EVANS_NEUTRAL_VALIDATED.md` | 63 | `../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NEUTRAL_B_CANDIDATE.md` | 13 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NEUTRAL_B_CANDIDATE.md` | 31 | `../sources/chunk3-b-neutral/Anderson_primary_excerpts.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NEUTRAL_B_CANDIDATE.md` | 61 | `../sources/chunk3-b-neutral/Gustafson_lower_orders_App_1_14.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NEUTRAL_B_VALIDATED.md` | 15 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NEUTRAL_B_VALIDATED.md` | 33 | `../sources/chunk3-b-neutral/Anderson_primary_excerpts.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NEUTRAL_B_VALIDATED.md` | 63 | `../sources/chunk3-b-neutral/Gustafson_lower_orders_App_1_14.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NTEU_CRANE_NEUTRAL_VALIDATED.md` | 9 | `../sources/chunk3-a-crane-supplement/NTEU_petitioners_brief.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NTEU_CRANE_NEUTRAL_VALIDATED.md` | 9 | `../sources/chunk3-a-crane-supplement/NTEU_petitioners_brief.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NTEU_CRANE_NEUTRAL_VALIDATED.md` | 10 | `../sources/chunk3-a-crane-supplement/NTEU_reply_brief.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_NTEU_CRANE_NEUTRAL_VALIDATED.md` | 10 | `../sources/chunk3-a-crane-supplement/NTEU_reply_brief.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_PREFLIGHT_B.md` | 8 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_RECONCILED_B.md` | 11 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_SWINT_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 5 | `../sources/chunk3-b-swint-supplement/Swint_petition_appendix.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_SWINT_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 5 | `../sources/chunk3-b-swint-supplement/Swint_petition_appendix.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_SWINT_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 7 | `../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_SWINT_NEUTRAL_RECORD_SUPPLEMENT_CANDIDATE.md` | 7 | `../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.txt` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_SWINT_NEUTRAL_RECORD_VALIDATED.md` | 13 | `../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.pdf` |
-| `terms/OT1994/freeze/OT_1994CHUNK3_SWINT_NEUTRAL_RECORD_VALIDATED.md` | 13 | `../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK3_COMMITMENTS.md` | 350 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/runtime/OT_1994CHUNK3_RECONCILED.md` | 314 | `../sources/chunk3-b-neutral/SOURCES.md` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_JEFFERSON_SOURCE_SUPPLEMENT.md` | 3 | `../sources/chunk4/jefferson_briefs/manifest.json` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_JEFFERSON_SOURCE_SUPPLEMENT.md` | 40 | `../sources/chunk4/jefferson_briefs/petitioner.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_JEFFERSON_SOURCE_SUPPLEMENT.md` | 40 | `../sources/chunk4/jefferson_briefs/respondent.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_JEFFERSON_SOURCE_SUPPLEMENT.md` | 40 | `../sources/chunk4/jefferson_briefs/joint_appendix.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 25 | `../sources/chunk4/Newport_News_8_F3d_175.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 25 | `../sources/chunk4/LHWCA_1994_921.htm` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 25 | `../sources/chunk4/LHWCA_1994_939.htm` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 43 | `../sources/chunk4/Anderson_lower_12_F3d_154.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 43 | `../sources/chunk4/Beaton_913_F2d_701.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 55 | `../sources/chunk4/RFRA_107_Stat_1488.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 61 | `../sources/chunk4/Swanner_874_P2d_274.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 75 | `../sources/chunk4/Qualitex_13_F3d_1297.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 75 | `../sources/chunk4/Lanham_1994_1052.htm` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 75 | `../sources/chunk4/Lanham_1994_1127.htm` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 91 | `../sources/chunk4/Jefferson_Lines_15_F3d_90.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 107 | `../sources/chunk4/Plaut_1_F3d_1487.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 123 | `../sources/chunk4/Whitecotton_17_F3d_374.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 123 | `../sources/chunk4/Vaccine_Table_60_FR_7678_pdf_text.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 139 | `../sources/chunk4/Myrick_13_F3d_1516.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 139 | `../sources/chunk4/Paccar_573_F2d_632.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 151 | `../sources/chunk4/Jenkins_25_F3d_536.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 151 | `../sources/chunk4/FDCPA_1986_amendment.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 153 | `../sources/chunk4/FDCPA_1977_91_Stat_874.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 169 | `../sources/chunk4/Lanphere_21_F3d_1508.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 183 | `../sources/chunk4/Edwards_6_F3d_312.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 183 | `../sources/chunk4/Bankruptcy_1994_105.htm` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 197 | `../sources/chunk4/McIntyre_67_Ohio_St3d_391.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 209 | `../sources/chunk4/Shapero_486_US_466.txt` |
-| `terms/OT1994/runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md` | 213 | `../sources/chunk4/Bowen_Gilliard_483_US_587.txt` |
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 13 | [Tome](../records/Tome_v_United_States_merits_1995-01-10.md) | Six premotive-rule joins; Scalia's interpretive qualification not attributed to other Justices; alternate admissibility and nonconstitutional harmlessness retain actual conditions; no automatic retrial. No additional finding. |
+| 14 | [Young](../records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md) | Substantive ministerial defense distinct from jurisdiction; eight formal vacatur/remand votes distinguished from Stone's mixed affirmance; severable claims only if independently pleaded and non-doctrinal; no universal minister definition. No additional finding. |
+| 15 | [Asgrow](../records/Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md) | Seven conclusive application votes versus Stone remand; conditional notice proposal noncontrolling; genuine saved seed, occupation and marketing conditions; former-law transition remains subject to separately admitted amendment. No additional finding. |
+| 16 | [Mezzanatto](../records/United_States_v_Mezzanatto_merits_1995-01-18.md) | Six affirmative-challenge rationale joins versus Stone's express Government-proof requirement; plea exceptions and waiver scope separate; no case-in-chief/derivative/sentencing holding or new validity hearing. No additional finding. |
+| 17 | [Wolens](../records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md) | Scalia nonparticipation; fraud 7-1 and contract 6-2 disposition distinct from 5/6 rationale coalitions; ordinary contract interpretation cannot impose external policy; unresolved agreement/reservation terms preserved. No additional finding. |
+| 18 | [NationsBank/Ludwig](../records/NationsBank_Ludwig_v_Variable_Annuity_Life_Insurance_Co_merits_1995-01-18.md) | Two unanimous judgments versus eight deference joins; Stone independent statutory concurrence; brokerage distinct from underwriting and genuine-insurance geographic question. No additional finding. |
+| 19 | [Allied-Bruce](../records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md) | Southland retention, actual commerce and constitutional ceiling distinct; no remote-history-only federalization; normal formation/defense and preservation rules; no inferred commerce votes for nonreach dissenters. No additional finding. |
+| 20 | [Schlup](../records/Schlup_v_Delo_merits_1995-01-23.md) | Six gateway votes, five statutory-refusal rationale votes; crime innocence distinct from Sawyer eligibility; actual section 2244 limits, evidence review and hearing/remedy reservations; no freestanding innocence rule. No additional finding. |
+| 21 | [McKennon](../records/McKennon_v_Nashville_Banner_Publishing_Co_merits_1995-01-23.md) | Liability/remedy distinction and employer serious-actual-would-fire proof preserved. F01: detailed ordinary-remedy rule improperly attributed to Stone as fully approved. |
+| 22 | [Fargo](../records/Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md) | Complete Casey six steps, residual scrutiny, causal burden and tailored relief preserved; 6-3 access remand versus 8-1 separate definition/penalty affirmances; clarity distinct from substantive emergency adequacy; default-fault title problem not solved by invented liability; Stone whole-remand position preserved. No additional finding. |
+| 23 | [Lebron](../records/Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md) | Seven discretionary reach joins distinct from eight actor/remand joins; deliberate argument disavowal not a waived claim; permanent governmental appointment/creation/purpose combine; no automatic display order or state-claim adjudication. No additional finding. |
+| 24 | [Milwaukee Brewery](../records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md) | Computational assumed date separate from actual demand/payment/interest; cap, mass withdrawal, prepayment and default conditions intact. No additional finding. |
 
-## Operator summary
+### Chunk 3
 
-**FAIL.** The deterministic source-link gate remains unsatisfied; fresh legal-substance review is deferred. No fixes or Git commands were performed.
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 25 | [O'Neal](../records/ONeal_v_McAninch_merits_1995-02-21.md) | Actual Brecht preserved-Doyle baseline verified; seven vacatur votes versus five specific Chapman mandate joins; general extension only three; violation, harmlessness and independent gates distinct; no assumed grave doubt or automatic writ. Justice-specific rationale changes supported by actual prior positions and changed baseline. No additional finding. |
+| 26 | [NTEU](../records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md) | 7-2 unrelated-expression judgment, six rationale joins, five classwide remedy, seven nonparty limitation, six Crane-disposition/five rationale distinguished; Stone's class limit not overwritten by named-party fallback. No additional finding. |
+| 27 | [Harris](../records/Harris_v_Alabama_merits_1995-02-22.md) | Nine no-arithmetic proposition joins distinct from seven adequacy/affirmance joins; Stone legal-sufficiency disagreement does not deny actual findings; Stevens Tedder position not attributed to Stone. No additional finding. |
+| 28 | [Grubart/Chicago](../records/Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md) | Seven participants, five full framework joins, two locality-only judgment positions; locality/proximate causation and two Sisson branches distinct; independent claims and limitation entitlement not automatically supplied. No additional finding. |
+| 29 | [Anderson](../records/Anderson_v_Green_decision_1995-02-22.md) | Removed indispensable approval creates unripe challenge; independent equitable vacatur applies without advisory travel merits; both lower judgments and without-prejudice disposition preserved. No additional finding. |
+| 30 | [Gustafson](../records/Gustafson_v_Alloyd_Co_merits_1995-02-28.md) | Five confined acquisition-agreement rule joins; public-offering-only extension only four; statutory seller, knowledge/reasonable-care, tender/remedy and independent-claim limits preserved. No additional finding. |
+| 31 | [Evans](../records/Arizona_v_Evans_merits_1995-03-01.md) | Seven jurisdiction votes; 6-1-2 disposition rather than false 6-3 merits alignment; court-error/objective reliance only; error source unresolved and no final admission order. Stone isolation/reliability requirement remains dissent. No additional finding. |
+| 32 | [Swint](../records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md) | Separate adequate-final-review and conclusiveness grounds; nine/eight joins preserved; genuinely necessary connected review unresolved by Court despite Stone's affirmative proposal; county-only vacatur. No additional finding. |
+| 33 | [Mastrobuono](../records/Mastrobuono_v_Shearson_Lehman_Hutton_Inc_merits_1995-03-06.md) | Eight actual integrated-contract ground joins; punitive authority not generalized to expressly excluded remedies; independent vacatur grounds and paid compensation reserved. No additional finding. |
+| 34 | [Curtiss-Wright](../records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md) | Facial amendment procedure distinct from actual authority, approval and legally effective ratification; no unpreserved vesting or hypothetical universal remedy adjudication. No additional finding. |
+| 35 | [Guernsey](../records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md) | Five text/interpretive-rule joins, four methodological deference supporters; actual expense allocation conditions and untouched offset ruling distinguished; no section 2305 entitlement supplied without text. No additional finding. |
+| 36 | [Ambassador Books](../records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md) | Seven speech classification votes, nine bounded alternative-avenue/property/attainder propositions; Souter/Ginsburg site agreement not classification agreement; categorical relocation theory not every parcel-specific compensation claim. No additional finding. |
 
-**Findings by severity: 0 critical · 0 high · 1 medium · 1 low — 2 grouped findings, 65 broken-link occurrences.**
+### Chunk 4
+
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 37 | [Newport News](../records/Director_Office_of_Workers_Compensation_Programs_v_Newport_News_Shipbuilding_and_Dry_Dock_Co_merits_1995-03-21.md) | Nine judgment/eight rationale; Ginsburg judgment-only; statutory Director standing and Fund reservation retained. No additional finding. |
+| 38 | [Anderson](../records/Anderson_v_Edwards_merits_1995-03-22.md) | Unit membership versus resource availability, mandatory inclusions/exclusions, Title II proviso, opt-out conditions, equity merits, proration and independent construction/remedy reviewed. F02; public rule remains complete. |
+| 39 | [Swanner](../records/Swanner_v_Anchorage_Equal_Rights_Commission_merits_1995-03-27.md) | Five-Justice bounded RFRA remand, four application dissenters, burdens/third-party interests and constitutional reservation retained. No invented historical Court comparator. No additional finding. |
+| 40 | [Qualitex](../records/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md) | Unanimous color eligibility and functionality limitation; acquired distinctiveness and competitive-need limits preserved. No additional finding. |
+| 41 | [Jefferson Lines](../records/Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md) | Seven judgment/five Complete Auto rationale; Scalia/Thomas judgment-only, Breyer/O'Connor external-apportionment dissent; five components and remedy preserved. No additional finding. |
+| 42 | [Plaut](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Actual Morgan Stanley supplies changed premise for confined seven-Justice rule, including Breyer; Stone's broader separate ground remains noncontrolling. No additional finding. |
+| 43 | [Whitecotton](../records/Shalala_v_Whitecotton_merits_1995-04-18.md) | Three-day onset trigger, significant aggravation/actual causation alternatives, claimant/Secretary sequence, petition-era Table and Rule60 route distinguished. No additional finding. |
+| 44 | [Freightliner](../records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md) | Eight rationale/nine judgment; express preemption distinct from actual conflict, no regulation-as-command inference, Scalia supplies no rationale vote. No additional finding. |
+| 45 | [Heintz](../records/Heintz_v_Jenkins_merits_1995-04-18.md) | Regular collection attorneys and litigation included, ordinary elements/defenses retained, no categorical litigation exemption. No additional finding. |
+| 46 | [Lanphere](../records/Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md) | Commercial-speech advancement/fit grounds, statutory access versus qualified court-access reservation, bounded relief and dissent retained. No additional finding. |
+| 47 | [Celotex](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) | Seven judgment/coverage-remedy; six relatedness/interim-authority/collateral-review; Stone's colorable-jurisdiction ground separate; no ultimate injunction merits inference. No additional finding. |
+| 48 | [McIntyre](../records/McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md) | Eight judgment/seven exacting-scrutiny rationale; Thomas distinct ground, Scalia dissent; historical change and disclosure reservations stated. No additional finding. |
+
+### Chunk 5
+
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 49 | [Stone v. INS](../records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) | Five/four, separate petition and reconsideration components, exhaustion/review structure, unchanged approved Stone dissent and corrected assignment. No additional finding. |
+| 50 | [Kyles](../records/Kyles_v_Whitley_merits_1995-04-19.md) | Six/three, cumulative Brady materiality and team knowledge, claim-specific no-second-harmlessness rule, actual Brecht/O'Neal boundary and departure supported. No additional finding. |
+| 51 | [Rubin](../records/Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md) | Unanimous judgment/eight Central Hudson rationale; advancement and fit independent, Stevens separate; statute and all-sources-at-once limits preserved. No additional finding. |
+| 52 | [Morales](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) | Current five/four affirmance, individual proof and actual administrative machinery, consideration-only remedy, Stone separate broader formulation and approved replacement reviewed. Downstream F06, no identified defect in this replacement. |
+| 53 | [Williams](../records/United_States_v_Williams_merits_1995-04-25.md) | Seven primary statutory route/five alternative taxpayer construction; statutory permissions remain distinct from duties; no refund awarded. F08, F09. |
+| 54 | [Lopez](../records/United_States_v_Lopez_merits_1995-04-26.md) | Five negative-connection rule, no exhaustive Court adoption of Stone framework, four rational-class-effects dissenters, no supplied jurisdictional element, dismissal/remand bounds preserved. F06. |
+| 55 | [Travelers](../records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md) | Three reviewed charge applications, acute-compulsion reservation, direct-self-funded remand, FEHBA/Actuarial Letter and unappealed components remain separate. F06. |
+| 56 | [Harris](../records/United_States_v_Harris_merits_1995-04-27.md) | Nine judgment, eight economic-class reasoning excluding Stone instrumentality, eight aiding/fault reasoning, unanimous authorized cumulative punishment; no generic new predicate. F09. |
+| 57 | [Robertson](../records/United_States_v_Robertson_merits_1995-05-01.md) | Cumulative direct enterprise evidence, limited commerce holding, separate RICO/drug components and insertion revalidation preserved. No additional finding. |
+| 58 | [Pinson](../records/United_States_v_Pinson_merits_1995-05-08.md) | Seven search/remedy, six no-exception rationale; Stone scope, Kennedy/Breyer content disagreement, no automatic excision/probable-cause revival. F09. |
+| 59 | [Kansas](../records/Kansas_v_Colorado_original_exceptions_1995-05-15.md) | Seven exceptions and three unexcepted recommendations, ten bounded rules, pumping proof, no universal Compact enforcement quantum, laches diligence-only posture, no final water remedy. No additional finding. |
+| 60 | [Hubbard](../records/Hubbard_v_United_States_merits_1995-05-15.md) | Six court-entity/overruling rule, seven mandate, eight complete procedural rationale, distinct extended stare-decisis accounts and narrower Stone position; counts outside V–VII undisturbed. F08 qualification. |
+
+### Chunk 6
+
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 61 | [City of Edmonds](../records/City_of_Edmonds_v_Oxford_House_merits_1995-05-15.md) | Six/three; household composition outside crowding exemption, no ultimate discrimination/accommodation finding. No additional finding. |
+| 62 | [Reynoldsville Casket](../records/Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md) | Nine judgment/seven rationale; Kennedy/O'Connor judgment-only; no reliance-only selective prospectivity, independently valid remedies remain separate. No additional finding. |
+| 63 | [Day](../records/Day_v_Holahan_merits_1995-05-15.md) | Four components: financing five judgment/four rationale without Marks; reporting five, ceiling nine, MCFL nine; statutory amounts, recipients, deadlines, exceptions and remedy preserved. No additional finding. |
+| 64 | [U.S. Term Limits](../records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md) | Six/three in both dockets; exclusive qualifications versus neutral election administration, state offices excluded, Stone join approved. F08. |
+| 65 | [Wilson](../records/Wilson_v_Arkansas_merits_1995-05-22.md) | Unanimous announcement as reasonableness factor; danger/futility/escape/evidence exceptions, quantum and suppression unresolved. No additional finding. |
+| 66 | [First Options](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md) | Nine assent and appellate-review rules; eight conditional delegation-review proposition excluding Stone; no extra FAA vacatur ground. F08. |
+| 67 | [Kelley](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md) | Unanimous separate Title IX/Hogan analysis, alternative accommodation routes rather than quotas, actual disadvantage evidence, equal benefits and sport-retention limits preserved. No additional finding. |
+| 68 | [Nebraska](../records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md) | Six exceptions and amended pleadings, enforcement/modification distinction, no allocation from leave; federal-administration scope and Thomas objection tested. F03. |
+| 69 | [North Star Steel](../records/North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md) | Nine judgment/eight rationale, Scalia separate; narrow federal borrowing exception, both claims timely under candidates without selecting exact period. No additional finding. |
+| 70 | [Garlotte](../records/Garlotte_v_Fordice_merits_1995-05-30.md) | Eight/one approved continuous-aggregate custody rule, Maleng boundary, merits/remedy unresolved. F07. |
+| 71 | [Wellons](../records/United_States_v_Wellons_merits_1995-05-30.md) | Unanimous vehicle and independent closed-luggage interests, effective repossession/wrongful possession, lawful detention/impoundment/search grounds all preserved for findings. No additional finding. |
+| 72 | [Koray](../records/Reno_v_Koray_merits_1995-06-05.md) | Seven status rule, Stone/Stevens separate dissents, Ginsburg notice reservation; statutory credit triggers, BOP computation, no independent deference holding. F14 governing-question undercoverage. |
+
+### Chunk 7
+
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 73 | [Metropolitan Washington Airports Authority v. Hechinger](../records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md) | Nine-Justice operative-control ruling; §2456(h) conditional disabling mechanism, review categories, selective severance and stay scope; Stone's separate Article I ground. No additional substantive finding. |
+| 74 | [Missouri v. Jenkins](../records/Missouri_v_Jenkins_merits_1995-06-12.md) | Five-Justice remedial holding; actual Freeman interdependence and release duties; salary/quality purposes; Stone's optional reviewer process remains separate. No additional finding. |
+| 75 | [Ryder](../records/Ryder_v_United_States_merits_1995-06-12.md) | Lawful Article 66 review, absence of automatic conviction dismissal, Article 67 inadequacy, preserved harmlessness limits. No additional finding. |
+| 76 | [City of Milwaukee](../records/City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md) | Eight participants, Breyer absent; compensatory prejudgment interest; mutual fault and ordinary dispute insufficient, claimant-delay qualification and unadjudicated calculation. No additional finding. |
+| 77 | [Adarand](../records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Five-Justice inherited Metro/Fullilove disposition; no new universal tier; Stone's express Stevens fallback; certification-route/source uncertainty and actual program qualifications; threshold distinct. No additional finding. |
+| 78 | [Wilton](../records/Wilton_v_Seven_Falls_Co_merits_1995-06-12.md) | Eight participants; declaration-only parallel action, statutory discretion and abuse review, stay retaining forum, coercive/nonparallel reservations. No additional finding. |
+| 79 | [Rambo](../records/Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md) | Economic capacity change under §22; employer burden, §8(h) wage significance, deadlines; no automatic termination, mandatory hearing or later nominal-award doctrine. No additional finding. |
+| 80 | [Johnson v. Jones](../records/Johnson_v_Jones_merits_1995-06-12.md) | Fact-sufficiency appeal bar distinct from reviewable legal immunity issues; excessive-force scope distinct from unreviewed false arrest. No additional finding. |
+| 81 | [Kimberlin](../records/Kimberlin_v_Quinlan_merits_1995-06-12.md) | Two distinct unanimous legal holdings; categorical direct-evidence condition, ordinary burdens, no finding or trial mandate; same-day Johnson does not enter as earlier law. No additional finding. |
+| 82 | [Schleier](../records/Commissioner_v_Schleier_merits_1995-06-14.md) | Six-Justice taxable judgment, five-Justice causation rationale; actual Burke fracture, no controlling remedial-range test; regulatory and physical-injury positions separate, §213 exception. No additional finding. |
+| 83 | [Chandris](../records/Chandris_Inc_v_Latsis_merits_1995-06-14.md) | Nine-Justice retrial; six general-rule votes, five for nonabsolute 30% guide excluding Stone; actual-crew concurrence; Rule 51 and drydock instruction, future reassignment distinction. No additional finding. |
+| 84 | [Witte](../records/Witte_v_United_States_merits_1995-06-14.md) | Eight-Justice prosecution judgment, six constitutional votes and a distinct six-Justice coordination coalition; retained Grady/Dixon, no prior cocaine prosecution, no new sentence. F04 qualification omission. |
+
+### Chunk 8
+
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 85 | [Gutierrez de Martinez](../records/Gutierrez_de_Martinez_v_Lamagno_merits_1995-06-14.md) | Six-Justice reviewability, removal-only conclusiveness and diversity posture, immunity/remedy reservations; provisional O'Connor/Souter issues corrected before assembly. No additional finding. |
+| 86 | [Chickasaw Nation](../records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md) | Nine-Justice fuel incidence, five-Justice off-country wage rule, four treaty dissenters; treaty territorial boundary, late Hayden-Cartwright issue, proposed legislation not law. No additional finding. |
+| 87 | [Sandin](../records/Sandin_v_Conner_merits_1995-06-19.md) | Five-Justice conditional remand, distinct four-Justice favorable application; sufficient state-constraint/meaningful-deprivation rule, not historical atypical-hardship rule; no invented ultimate interest finding. Only internal residue F12. |
+| 88 | [Gaudin](../records/United_States_v_Gaudin_merits_1995-06-19.md) | Nine-Justice jury element rule; materiality conceded; Sinclair limited overruling, preserved clause/structural-error questions and equity-skimming boundary. No additional substantive finding. |
+| 89 | [Sky Reefer](../records/Vimar_Seguros_y_Reaseguros_SA_v_MV_Sky_Reefer_merits_1995-06-19.md) | Seven-to-one, Breyer absent; FAA/COGSA coexistence, retained action, costs alone, no blanket foreign-court approval or guaranteed plenary merits review; O'Connor bounded join supported. Only input residue F11. |
+| 90 | [Hurley](../records/Hurley_v_Irish_American_Gay_Lesbian_and_Bisexual_Group_of_Boston_merits_1995-06-19.md) | Unanimous private expressive selection, continuing injunction despite changed parade, government permit distinct from state speech, nonexpressive commerce reserved. No additional finding. |
+| 91 | [National Private Truck](../records/National_Private_Truck_Council_Inc_v_Oklahoma_Tax_Commission_merits_1995-06-19.md) | Unanimous federal equity/derivative fee rules, actual refunds, federal rather than state-source restraint, independent fee-eligible claims and extraordinary equity. Candidate omission F05. |
+| 92 | [Aguilar](../records/United_States_v_Aguilar_merits_1995-06-21.md) | Six §1503, eight §2232(c), nine constitutional disposition/eight rationale; actual application/knowledge/purpose, preserved instruction remand, no automatic conviction reinstatement; Stone fallback exact. F08 label only. |
+| 93 | [Florida Bar](../records/Florida_Bar_v_Went_For_It_Inc_merits_1995-06-21.md) | Five-Justice invalidation, actual harm/fit burden, no least-restrictive-means rule; more-than-30-day wording, distinct referral rule, brochure permission and independent misconduct provisions. No additional finding. |
+| 94 | [Vernonia](../records/Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md) | Five-Justice program validity and Oregon remand, nine search/no waiver, eight narrow prescription ruling; actual policy v. practice, retest permission, facial/as-applied distinction and no new surviving claim. F08 label only. |
+| 95 | [Rosenberger](../records/Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md) | Five program-specific votes; actual guidelines' separate religious/political rules, O'Connor safeguards, genuine surviving state-defense limits; actual Zobrest procedural force, no routine avoidance mandate. F08 label only. |
+| 96 | [Sweet Home](../records/Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md) | Seven statutory/causation/permissions votes and six Chevron votes; actual injury, foreseeable proximate cause, independent omission duty; all distinct §§4/6/7/9/10/11 qualifications and express §6(g)(2) source limit. F08 label only. |
+
+### Chunk 9
+
+| Inventory | Matter / controlling Record | Substantive coverage and result |
+|---|---|---|
+| 97 | [Miller/consolidated](../records/Miller_and_consolidated_merits_1995-06-29.md) | All six questions; five direct no-trigger/status holdings, nine threshold/noncompulsion/evidence/fact-review joins; all-nine conditional statutory answer kept noncontrolling; Stevens standing departure, Souter III-B refusal, explicit dissenting Shaw replacement, no invented facts/remand. No additional finding. |
+| 98 | [Pinette](../records/Pinette_merits_1995-06-29.md) | Seven bounded access votes, four contextual and three alternative grounds; nine claimant-specific recurrence; Ginsburg provisional vote corrected; proposal/sign/decree distinct, expired 1993 relief stays expired, no Marks fiction. F08 index qualification only. |
+| 99 | [Chabad](../records/Chabad_Lubavitch_v_Miller_merits_1995-06-29.md) | Eight bounded judgment votes, five contextual rule, four additional remedy proposals; Count II only, genuine designated forum, Ginsburg's procedural distinction, no compulsory disclaimer majority or final injunction. F13 workflow residue only. |
+
+
+## 7. Disposition of this audit
+
+The audit is **failed** pending the 14 findings above. The mechanical gate's success does not cure F01's Stone-approval gap, F03's coalition contradiction, or copied omissions in controlling rules. A later task must address each finding through the appropriate authorized correction or candidate-edit process, then revalidate its actual dependencies and regenerate projections where needed. This pass changes no adjudication, brief, render, candidate, foundation file or published tracker, and executes no Git command.
+
+**Finding count: 1 high · 5 medium · 8 low · 14 total.**
