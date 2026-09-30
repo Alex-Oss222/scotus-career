@@ -1,0 +1,152 @@
+# OT1994 chunk 6 independent commitments — matters 65–68
+
+## Reconciliation control and authoritative status
+
+This is a new frozen reconciliation handoff; immutable B_COMMITMENTS remains intact. The incorporated modeling text below preserves source and adversarial detail. Statements in its original control section about before-comparator freezing describe the earlier modeling stage; this fresh context subsequently opened only comparator65?68 after clean neutral source validation was durably written. It never opened Stone, combined brief, raw private prior Records or audits. Consult B_NEUTRAL_SOURCE_VALIDATION for recovered Kelley fact admission and Nebraska provenance correction. No material neutral factual change was found; no fresh modeling is required.
+
+The following final reconciliation dispositions govern over provisional wording in the incorporated source narrative. Wilson: all eight associates reverse/remand. FirstOptions: all eight affirm both arbitrability and appellate-review components. Kelley: all eight affirm the participation and independent equal-protection components. Nebraska: all eight join components1?4 and6; seven (Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer) admit the Fourth Cross-Claim only as a decree-predicate claim and overrule both opposing exceptions; Thomas excludes it and sustains both. Authorship and final circulation remain for assembly; historical authors are never assignments.
+
+### Historical reconciliation by Justice and component
+
+| Justice | Wilson | FirstOptions: delegation / appellate review | Kelley: participation / equal protection | Nebraska1?4,6 / Fourth Cross-Claim |
+|---|---|---|---|---|
+| Stevens | Reverse/remand; matches unanimous historical position | Affirm / affirm; matches | Affirm / affirm; no historical Supreme Court vote exists | Join bounded referral / admit; matches history |
+| O'Connor | Same | Same | Same | Same |
+| Scalia | Same | Same | Same | Join bounded referral / admit; historical comparison revises unsupported provisional exclusion |
+| Kennedy | Same | Same | Same | Join bounded referral / admit; matches history |
+| Souter | Same | Same | Same | Same |
+| Thomas | Same | Same | Same | Join bounded referral / exclude; matches his historical partial dissent |
+| Ginsburg | Same | Same | Same | Join bounded referral / admit; matches history |
+| Breyer | Same | Same | Same | Same |
+
+Each row directly incorporates its individual source, strongest objection, minimum bounded join and remedy in the sections below. No judgment-only or unrecorded broad proposition join is counted.
+
+Wilson's historical9?0 constitutional coverage and flexible exception rule confirms the frozen eight commitments. Premises intact; no historical departure. Remedy remains reversal/remand, no inevitable suppression or established violation.
+
+FirstOptions historical9?0 confirms the same antecedent-consent distinction. Packet comparator summarizes arbitrability; ordinary appellate review is independently frozen on ordinary civil-review grounds. Actual delegation yields limited review; absent delegation independent decision. No changed premise or departure; company submission and personal assent remain distinct.
+
+Kelley has no historical Supreme Court judgment or Justice lineup. The lower judgment is affirmed, but the circuit's attempted-federal-compliance immunity rationale is expressly rejected. That is different reasoning from the lower court, not a fictional Supreme Court historical departure. All eight join surviving Hogan scrutiny on this actual record. Source supplement supports demonstrated prior disadvantage, existing-team interests, men's postcut participation and genuine program review. Do not describe mere ratios or legal advice as sufficient. No claimed institutional compliance on other issues and no holding that cuts are mandatory.
+
+Nebraska historical alignment differs from the provisional model only for Scalia on the federal claim. His historical premise was a decree-related claim rather than independent contract compliance. Simulated1993 Nebraska preserves that distinction; current Kansas neither displaces it nor establishes a Justice-specific refusal to examine federal administration's effect on an interstate decree. Kansas's fidelity to operative terms is compatible with retaining the reopener. On further review, no changed legal, record, remedial or personal simulated premise supports exclusion. Scalia therefore joins the bounded admission formulation already frozen as the narrower permissive path: no independent contract adjudication, no storage-water apportionment, no finding of breach or injury, and all eventual jurisdictional/immunity/merits questions properly reserved. This is a reasoned reconciliation revision, not mechanical vote substitution. Thomas's alternative-forum objection remains unreconciled by that limit and he retains exclusion. All other components match historical positions without importing historical law as authority.
+
+No material Justice-specific historical departure survives reconciliation. No new substantive source or altered question requires neutral remodeling. The source limits in the frozen narrative remain real: unsupported transcript facts, quantitative decree terms, eventual remedies and institutional total-compliance findings may not be supplied by inference.
+
+## Incorporated source-grounded commitments and limits
+
+This freezes provisional non-Stone judgments and proposition-level grounds before any comparator or Stone supplement. It is not a Decision Record, assignment, final circulation or public render. Sources consulted: Engine, Composition, relevant Section I runtime packets, entering-law slice, sanitized current neutral projection, opening doctrinal volumes and eligible public opinions. No combined brief, Stone supplement, comparator, raw Record, continuity, ledger, prior private freeze, audit or Git was opened. No current-case historical Supreme Court result or lineup was encountered. General model knowledge cannot be erased; independence concerns the scoped materials supplied, not claimed absence of latent knowledge.
+
+Cutoffs: Wilson, First Options, Kelley immediately before May 22, 1995; Nebraska immediately before May 30, 1995. Eight associates participate without an established recusal. This context determines no Stone position or final nine-Justice coalition. Joins below concern only the exact bounded grounds supplied.
+
+The Archive's own advanced collection listing was queried by docket and case name. Wilson item micro_IA40385013_0613 and First Options item micro_IA40385013_0560 contain separately identified petitions, merits briefs and joint appendices. Metadata verifies availability, but this context has not downloaded and read those PDFs fully; it does not claim a particular fact or citation is absent. The packets suffice for the bounded commitments below. New transcript facts require further source review. Searching Kelley/94-783 identifies an unrelated real docket; the packet expressly assigns this simulation docket. No general absence of Kelley filings is certified.
+
+Kelley's Seventh Circuit opinion, 35 F.3d 265, was read in full through its footnotes: https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e. Later citation-network material was not authority. Paragraph 10 reports an OCR determination in 1982 that Illinois denied women equal athletic opportunities; relying on the University's representations of timely correction, OCR concluded the school was not in violation. Preserve BOTH propositions rather than convert them into a continuing agency adjudication of unlawful conduct. The opinion also establishes that men's participation remained above substantial proportionality after elimination and that plaintiffs challenged no greater consideration of sex than the pertinent guidance called for. These are recovered lower-court materials, not new Supreme Court findings. Carry them explicitly into admitted neutral framing before relying on them. If omitted, the equal-protection application requires revalidation: disparity alone is insufficient.
+
+Nebraska's packet erroneously calls April 20, 1993 pre-divergence. It is a simulated decision. The entering slice supplies its effective holdings and exact joins, which govern. No brief or runtime was edited. This corrects only provenance. The report/exception citations and packet support pleading-stage action; this context does not certify that every source PDF was independently read. No missing Glendo quantity or carriage-loss formula is reconstructed.
+
+## 65. Wilson v. Arkansas — 1995-05-22
+
+All eight associates — Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer — reverse Arkansas's categorical rejection of the constitutional announcement claim and remand for application. The common-law requirement that officers announce presence and lawful authority before dwelling entry forms part of Fourth Amendment reasonableness. A warrant does not end inquiry into entry method. Announcement is not absolute: supported violence risk, circumstances making notice futile, or supported likelihood that notice permits evidence destruction may excuse it. No Justice decides that this entry necessarily lacked justification or that suppression invariably follows a violation. The conviction is not finally vacated upon a newly found entry violation; the lower court must apply the constitutional rule.
+
+Miller, 357 U.S. 301, supplies common-law background; Sabbath, 391 U.S. 585, supplies federal statutory entry analysis. Neither automatically constitutionalizes every statutory detail. Ker, 374 U.S. 23, supplies state-entry constitutional scrutiny and circumstance-dependent excuses.
+
+| Justice | Own eligible support and join barrier |
+|---|---|
+| Stevens | His Payton opinion, 445 U.S. 573, centers physical home entry; his Graham join, 490 U.S. 386, requires objective reasonableness. Rejects a categorical drugs exception and premature suppression. |
+| O'Connor | Graham and simulated Soldal joins preserve specific constitutional scrutiny while distinguishing coverage from violation. Requires supported danger/destruction, not offense labels. |
+| Scalia | Olson join, 495 U.S. 91, protects home privacy with genuine exigency; Graham and Soldal joins preserve objective scrutiny. Common-law exceptions must accompany the rule. |
+| Kennedy | Graham and Olson joins support objective circumstances and home protection. No categorical exclusion of safety risks or unsupported factual decision. |
+| Souter | Simulated Soldal join preserves independent home protection and reserves ultimate reasonableness. Constitutional coverage does not establish suppression entitlement. |
+| Thomas | Simulated Soldal join supports independent Fourth Amendment home protection; the precise announcement rule rests on common-law sources and Ker. Refuses an absolute rule stripped of qualifications. |
+| Ginsburg | No directly controlling own prior announcement writing identified. Miller/Ker independently support the narrow commitment; no earlier personal announcement position invented. Requires individualized justification and reserved remedy. |
+| Breyer | No directly controlling own prior announcement writing identified. Operative support is Miller/Ker; his current Mastrobuono opinion corroborates attention to operative legal limits only. Requires a practicable circumstance-sensitive remand. |
+
+Adversarial test: Arkansas's no-constitutional-relevance rule avoids rigidity but removes an established entry protection from reasonableness. The bounded constitutional rule preserves flexibility. The opposite absolute-announcement/suppression path fails because exigency, actual violation and remedy are distinct. All eight directly join this same ground; no separate writing is independently required.
+
+## 66. First Options v. Kaplan — 1995-05-22
+
+All eight affirm both independent arbitrability review and ordinary appellate review. Ordinary applicable contract law determines whether the parties delegated arbitrability, with clear and unmistakable evidence required before treating the arbitrators as chosen decisionmakers on that question. A presumption favoring scope coverage within an accepted agreement cannot supply missing assent to delegation. Appearance before the panel solely to object to jurisdiction does not itself establish clear delegation. MKI's signature/submission cannot automatically become the Kaplans' personal consent. No successful independent nonsignatory-binding theory is established by the packet.
+
+Where parties actually delegate arbitrability, limited award review governs that decision; otherwise courts determine it independently. Appellate review of district-court legal conclusions is independent and findings are reviewed for clear error, as in other civil cases; no additional deference to the district judge arises from arbitration. This expands no FAA vacatur ground for actually agreed arbitration. Affirmance resolves the challenged award against the Kaplans, not MKI's separate submission.
+
+| Justice | Own anchor, frozen direct join and barrier |
+|---|---|
+| Stevens | AT&T Technologies join, 475 U.S. 643, and simulated Mastrobuono join support consent and decisionmaker distinction. Affirms both components; no policy-created consent or merits rehearing. |
+| O'Connor | AT&T join and current Allied-Bruce majority/concurrence preserve contracts and defenses. Affirms both; her Southland reservation does not govern this federal proceeding. |
+| Scalia | Volt join, 489 U.S. 468, and current Mastrobuono join enforce actual terms. Affirms both; Allied-Bruce state-forum objection creates no federal-forum exception. |
+| Kennedy | Volt and current Allied-Bruce/Mastrobuono joins protect contractual power. Affirms both; scope presumptions cannot decide antecedent assent, and factual findings retain ordinary review. |
+| Souter | Current Allied-Bruce/Mastrobuono joins reserve assent, scope and restrictions. Affirms both; a panel's assertion of jurisdiction is not consent. |
+| Thomas | Current Mastrobuono dissent insists on actual limits and recognizes FAA federal operation. Affirms both; that different contract construction supplies no agreement here. |
+| Ginsburg | Current Allied-Bruce/Mastrobuono joins preserve ordinary consent. Affirms both; company submission needs a legal basis before attributing it to individuals. |
+| Breyer | His current Allied-Bruce/Mastrobuono opinions reserve assent and enforce integrated terms. Affirms both; no universal consent from objection and no rehearing of agreed merits. |
+
+Two-path test: deference correctly applies after actual delegation; its strongest argument is the Kaplans' presentation to the panel. An objection asking the panel to decline jurisdiction is consistent with withholding consent, and no clear delegation is supplied. Independent review therefore wins. Extra appellate deference to a district judge is supported by neither an agreed delegation nor usual civil-review rules. No separate writing is presently necessary.
+
+## 67. Kelley v. Illinois — 1995-05-22
+
+### Separate statutory and constitutional commitments
+
+All eight affirm rejection of the Title IX participation claim. Section 106.41 permits separate teams where selection rests on competitive skill or the sport is contact, while requiring equal athletic opportunity. When a noncontact team is offered for one sex only and the excluded sex previously had limited athletic opportunities, members of that excluded sex must be allowed to try out. Neither permission nor qualification requires parallel varsity sports. Participation guidance offers three ALTERNATIVE routes: substantial proportionality to enrollment; history and continuing program expansion demonstrably responsive to developing interests and abilities of the underrepresented sex; or full and effective accommodation of that sex's interests and abilities in the present program. One route suffices. Proportionality is a safe harbor, not mandatory quotas or an obligation to cut men's teams. Section 1681(b) prohibits requiring preferential treatment merely because of numerical imbalance, while its proviso permits relevant statistical evidence. Men's participation remained above substantial proportionality after cuts; these plaintiffs have no statutory entitlement to keep this particular sport because women's swimming remains. Compliance for women and equipment, facilities, coaching, scheduling and other distinct requirements are not adjudicated.
+
+All eight also affirm on an independent bounded intermediate-scrutiny application, NOT the circuit's proposition that attempted federal compliance makes a constitutional challenge impermissible. The actual important objective is preserving women's demonstrated opportunities in this program during genuine budget restructuring. Maintaining their existing swimming team substantially serves that objective. The OCR history, actual participation disparity, existing-team interests, fiscal shortfall and programmatic evaluation matter together. Neither disparity alone nor counsel's invocation of federal compliance suffices. Title IX did not command cutting the men's team. No universal validity of statistical balancing is adopted. Summary judgment is affirmed without treating disputed matters as fresh findings; no reinstatement or damages follows on these two rejected grounds, and no broad Section 1983 preclusion holding is adopted.
+
+Hogan, 458 U.S. 718, requires actual important objective, substantial relation and disadvantage connected to the classification; congressional permission does not exempt constitutional scrutiny. Craig, 429 U.S. 190, supplies intermediate scrutiny. Actual disadvantage distinguishes Hogan's women-dominated nursing setting. Chevron/Martin support lawful delegated interpretation, not constitutional displacement.
+
+| Justice | Title IX / equal protection | Own basis and strongest objection; minimum bounded join |
+|---|---|---|
+| Stevens | Affirm / affirm, direct joins | Hogan join and Craig concurrence protect men from unjustified discrimination; Chevron join supports lawful implementation. Improving ratios creates no new opportunity, but preserving real opportunities during cuts serves the actual objective. No blanket preference. |
+| O'Connor | Affirm / affirm | Her Hogan opinion supplies connected-disadvantage scrutiny. Compliance might conceal simple balancing; her join requires OCR history, real budget/program facts and rejection of compliance immunity. |
+| Scalia | Affirm / affirm, narrow record application | Current simulated MCI statutory-authority commitments reject policy exceeding law; no prior own athletic-remediation holding identified. Applies surviving Hogan to the actual disadvantage; refuses compulsory balancing, loss of statutory alternatives or constitutional immunity. |
+| Kennedy | Affirm / affirm | His Metro Broadcasting dissent joined O'Connor's objections to broad racial preferences; its race standard is not imported into sex law. Its demand for justification bars unsupported remedial labels. Actual disadvantage/preservation meet Hogan, not a changed standard from federal invocation. |
+| Souter | Affirm / affirm | No directly controlling own athletic-remediation writing identified. Current Mastrobuono join corroborates preserving actual conditions, not the substantive sex rule. Hogan supplies operative law. Requires distinct analyses and faithful summary posture. |
+| Thomas | Affirm / affirm, narrow application | Mastrobuono dissent rejects policy overriding terms; no prior own sex-athletics holding invented. Applies established intermediate scrutiny to this record; no quotas, sex-neutral budget exemption or automatic federal-compliance validity. |
+| Ginsburg | Affirm / affirm | No directly controlling prior judicial athletic opinion identified. Pre-Court advocacy is not treated as controlling judicial authority. Hogan and the concrete record support preservation, without stereotypes about ability/interest or a finding of complete institutional compliance. |
+| Breyer | Affirm / affirm | No directly controlling own athletic-remediation writing identified. Cohen, 991 F.2d 888 (1993), is a date-eligible lower-court authority, but Breyer was NOT on its Selya/Cyr/Stahl panel. His current Allied-Bruce/Mastrobuono opinions corroborate attention to actual legal conditions only; operative support here is the regulation and Hogan. Ratio improvement alone is the strongest objection; preserving actual places during genuine cuts answers it. No required cuts. |
+
+Two-path test: sport-for-sport symmetry or personal continuation would turn lawful separate teams into an entitlement the statute/regulation do not give. Program-wide participation with independent Hogan scrutiny preserves both legal protections. A broader statistics/compliance-is-conclusive path is rejected by all eight. The recovered lower-record facts are necessary to this bounded constitutional application and must receive clean neutral validation before final use if the Engine requires it.
+
+## 68. Nebraska v. Wyoming — 1995-05-30
+
+### Exact entering law
+
+The SIMULATED April 20, 1993 decision unanimously distinguishes enforcement of an established decree right, requiring no fresh injury showing, from new allocation/modification, requiring clear and convincing real and substantial injury. Rule 56 guides under Rule 17.2 and uses the applicable substantive burden. Leave is not proof or summary judgment. The Inland Lakes acquiescence alternative had eight joins excluding Stone and is not generalized to groundwater. Current Kansas v. Colorado, May 15, 1995, unanimously commits all eight associates to proof-sensitive interstate pumping analysis, actual-use baselines and concrete equitable defenses. It does not prove Nebraska's claims or settle a universal enforcement quantum.
+
+### Frozen component positions
+
+1. All eight reject the beneficial-use exception insofar as it replaces Paragraph V's 75/25 natural-flow allocation with a mass quantified ceiling on Nebraska. Preserve genuine discrete geographic, priority and waste-related decree-enforcement defenses. No immunity for unlawful calls or finding of waste.
+2. All eight overrule categorical groundwater/unclean-hands exclusion. Specific upstream-depletion allegations may be proved; Nebraska pumping is no automatic equitable bar without relevant connection and proved conduct. Supported defenses survive; no injury/breach finding.
+3. All eight permit relevant downstream/habitat evidence within cognizable decree/modification claims. No independent basin-wide wildlife entitlement. New allocation retains changed-condition/substantial-injury burdens; existing-right enforcement retains its distinct standard.
+4. All eight reject Horse Creek exclusion solely because it joins below Tri-State Dam. A material connection to decree-supporting conditions/threatened protected allocation must be proved. No unrestricted basin allocation or entitlement from geography/allegation alone.
+5. Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer overrule the overlapping United States/Nebraska exceptions and admit Fourth Cross-Claim ONLY for alleged federal storage-administration changes materially affecting the interstate decree. Thomas sustains BOTH exceptions and exclude that cross-claim because unallocated storage-contract administration belongs in ordinary litigation. They preserve a later adequately distinct interstate modification claim and do not certify ordinary-forum jurisdiction, immunity or complete relief. Seven common-ground admission commitments; one common-ground exclusion commitment, before Stone enters.
+6. All eight accept bounded Nebraska Counts I–III, Wyoming Second–Fourth Counterclaims and Second–Fifth Cross-Claims, subject to rejected mass ceiling and Thomas's Fourth Cross-Claim exclusion. Nebraska Count IV is denied WITHOUT PREJUDICE. Glendo, Laramie and carriage-loss theories go forward within their enforcement/modification scope; no numerical release, revised formula, compliance/breach finding or nonirrigation-season allocation is decreed. Return to Master for proof/recommendations; original matter remains open.
+
+### Enhanced competing paths
+
+| Component | Permissive path / strongest counterargument | Restrictive path / strongest counterargument | Narrow conclusion |
+|---|---|---|---|
+| Ceiling | Permit genuine decree violations; a disguised new ceiling would reopen settled allocation. | Reject entire amendment; would suppress valid discrete enforcement defenses. | Reject mass ceiling, preserve genuine defenses. |
+| Groundwater | Permit specific depletion proof; risks basin-wide well supervision and ignoring Nebraska conduct. | Categorical unclean hands; reciprocal pumping establishes neither equal harm nor connection. | Specific proof and supported defenses; eventual burden retained. |
+| Habitat | Relevant injury evidence; risks rights never awarded. | Exclude all nonirrigation effects; omits changed conditions relevant to existing balance. | Evidence only within admitted grounds, no habitat entitlement. |
+| Horse Creek | Connected changed conditions; risks expanding pivotal reach to whole basin. | Automatic geography exclusion; supporting downstream supply can affect calls on protected flows. | Connection requires proof. |
+| Federal storage | Admit decree-affecting changes; party status/reopener cannot confer general contract jurisdiction. | Ordinary Goshen forum; cannot necessarily modify this Court's interstate decree. | Seven bounded admission; Thomas excludes this pleading but preserve genuine later decree claim. |
+| Routine leave | Defined theories for proof; unexcepted report is no final allocation. | Demand present proof for leave; confuses pleading with merits. | Bounded referral, Count IV without prejudice. |
+
+### Individual enhanced commitments
+
+Each row incorporates all six full boundaries above. “Admit” describes leave/evidence, never an adjudicated injury. No Justice lowers the modification burden or grants summary judgment on new allegations.
+
+| Justice | Components 1–4, 6 | Fourth Cross-Claim | Own source and issue-specific barriers |
+|---|---|---|---|
+| Stevens | Direct joins to all stated grounds | Admit bounded decree claim | His simulated 1993 Nebraska/current Kansas joins preserve exact rights, substantial injury for change and concrete defenses; Texas v. New Mexico, 462 U.S. 554, join preserves meaningful interstate enforcement without rewriting law. On 1 reject ceiling but preserve real calls; on 2 require equitable connection; on 3–4 require decree relevance; on 5 deny independent contract remedy but permit decree effect; on 6 no premature findings. |
+| O'Connor | Same | Admit | Her simulated Nebraska and current Kansas opinions directly supply the distinctions. Every amendment needs an existing right or cognizable changed condition. Factual merits decisions on 2–5 or a new allocation on 1/6 block her join. Contract litigation does not displace an actual interstate decree question. |
+| Scalia | Same | Exclude; sustain both exceptions | His Nebraska/Kansas joins bind exact rights and proof-sensitive defenses. Kansas's operative-term restraint corroborates refusal to administer independent federal storage contracts. On 1 preserve actual enforcement; on 2 no automatic equity bar; on 3–4 relevant evidence only; on 5 ordinary litigation is preferable. Its inability to modify decree preserves a distinct later modification claim, not this pleading. On 6 no new terms. Federal party status and impact alone do not supply unlimited jurisdiction. |
+| Kennedy | Same | Admit | Nebraska/Kansas joins directly support all boundaries. The best objection on 3–5 is creation of rights through pleading flexibility; the answer is relevance, no merits finding and no general contract remedy. Without a material decree connection he would exclude 5. |
+| Souter | Same | Admit | Nebraska/Kansas joins preserve concrete defense analysis. On 1 formula differs from actual calls; on 2 conduct needs connection; on 3–4 relevance needs proof; on 5 contract label is not conclusive but immunity/authority/merits remain separate; on 6 exact scope, no inferred quantities. |
+| Thomas | Same | Exclude; sustain both exceptions | Nebraska/Kansas joins bar a new mass ceiling or categorical groundwater refusal. They do not establish power to administer contracts. Practical effects are strongest admission argument but insufficient alone; preserve distinct genuine interstate claim. Minimum join condition on other parts is separation of natural-flow rights from independent storage-contract administration and no eventual factual findings. |
+| Ginsburg | Same | Admit | Current Kansas join is direct own support for interstate pumping, precise baselines and concrete defenses; no fictional participation in Nebraska 1993. On 1–4/6 joins only listed thresholds; on 5 Government opposition is not concession, and ordinary contract litigation does not supersede original decree. No breach/entitlement finding. |
+| Breyer | Same | Admit | Current Kansas join supplies own direct support; Nebraska governs without fictional prior participation. On 2–5 actual hydrologic/legal connection, not convenience, limits inquiry. On 5 exclusion might leave decree predicate unexamined, but no independent contract rights or numerical relief. On 6 referral is further proof, not implementation of revised decree. |
+
+No automatic acquiescence, automatic unclean-hands bar, final groundwater/habitat/Horse Creek/federal breach or routine amendment merits is found. Seven admission joins share the same exact interstate ground; Thomas's exclusion vote adds no support. A Thomas separate dissent on 5 is possible but its author and final scope await reconciliation/assembly; no historical authorship is imported.
+
+## Handoff status
+
+All four reconciled commitments are frozen in this handoff; original provisional commitments remain separately immutable. Source completeness remains limited as disclosed. Kelley recovered facts received explicit clean neutral validation in the separate source supplement; Nebraska chronology typo is controlled by effective simulated law and requires no substantive adjudication change. Exact report terms beyond packet remain source limits; never fill missing numerical qualifications by inference. No Stone choice was examined or supplied.
