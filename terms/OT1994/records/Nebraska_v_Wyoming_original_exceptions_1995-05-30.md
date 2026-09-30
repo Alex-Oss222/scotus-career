@@ -320,7 +320,7 @@ Parent arithmetic, chronology, public interface, holding-depth, manifest/ledger 
 
 ## Event
 
-Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October11, 1994; exceptions filed November25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet. Render form: full; basis: complex six-exception and amended-pleading disposition.
+Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet. Render form: full; basis: complex six-exception and amended-pleading disposition.
 
 ## Participation
 
@@ -463,4 +463,4 @@ Original action remains open before Master Olpin for evidence and recommendation
 
 ## Source Notes
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.

@@ -110,7 +110,7 @@ The earlier stage-local pending checks are superseded by [chunk-7 coordinated va
 
 ## Event
 
-Argued April 25, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 28 F.3d 86 (June 24, 1994). The question is whether §22 permits modification for changed injury-related earning capacity without physical improvement. Rambo's 1980 injury led to a stipulated 1983 nonscheduled permanent-partial award based on 22.5% disability; crane training and employment produced substantially higher earnings. The ALJ terminated benefits and the Board affirmed; the Ninth Circuit reversed under a physical-change-only rule. The stipulated award was not a §8(i) settlement discharging liability with the required best-interest finding.
+Metropolitan Stevedore Co. v. Rambo, No. 94-820. Argued April 25, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 28 F.3d 86 (June 24, 1994). The question is whether §22 permits modification for changed injury-related earning capacity without physical improvement. Rambo's 1980 injury led to a stipulated 1983 nonscheduled permanent-partial award based on 22.5% disability; crane training and employment produced substantially higher earnings. The ALJ terminated benefits and the Board affirmed; the Ninth Circuit reversed under a physical-change-only rule. The stipulated award was not a §8(i) settlement discharging liability with the required best-interest finding.
 
 Render form: compact; 8–1 judgment and no material historical-comparison change beyond substitution of Stone for Rehnquist.
 

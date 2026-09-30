@@ -326,7 +326,7 @@ AT&T Technologies and Volt supply consent authorities; effective Allied-Bruce an
 <!-- source-record: Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md -->
 ## Event
 
-Kelley v. Board of Trustees of the University of Illinois, No. 94-783; Merits decision, 1995-05-22. Review of Seventh Circuit summary judgment for the University, 35 F.3d 265, panel September1, 1994 and rehearing denied October5, 1994; argued March28, 1995. Questions: Title IX participation and equal protection after elimination of men's swimming while women's swimming remained. Render form: full; basis: independent constitutional rationale differs from lower comparator.
+Kelley v. Board of Trustees of the University of Illinois, No. 94-783; Merits decision, 1995-05-22. Review of Seventh Circuit summary judgment for the University, 35 F.3d 265, panel September 1, 1994 and rehearing denied October 5, 1994; argued March 28, 1995. Questions: Title IX participation and equal protection after elimination of men's swimming while women's swimming remained. Render form: full; basis: independent constitutional rationale differs from lower comparator.
 
 ## Participation
 
@@ -338,11 +338,11 @@ AFFIRMED, 9-0 on each distinct statutory and constitutional claim.
 
 ## Judgment & Remedy
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section1983 preclusion rule is adopted.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section 1983 preclusion rule is adopted.
 
 ## Opinion Topology
 
-O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartsI andII, including both independent grounds.
+O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join Parts I and II, including both independent grounds.
 
 ## Holdings
 
@@ -597,7 +597,7 @@ The Fifth Circuit’s jurisdictional dismissal is reversed. On remand the remain
 <!-- source-record: Nebraska_v_Wyoming_original_exceptions_1995-05-30.md -->
 ## Event
 
-Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October11, 1994; exceptions filed November25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet. Render form: full; basis: complex six-exception and amended-pleading disposition.
+Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet. Render form: full; basis: complex six-exception and amended-pleading disposition.
 
 ## Participation
 
@@ -740,7 +740,7 @@ Original action remains open before Master Olpin for evidence and recommendation
 
 ## Source Notes
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
 
 ---
 

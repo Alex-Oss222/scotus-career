@@ -80,7 +80,7 @@ The lower judgment and statutory operation are supported by [36 F.3d 97](https:/
 <!-- source-record: Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md -->
 ## Event
 
-Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
+Adarand Constructors, Inc. v. Peña, No. 93-1841. Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
 
 Render form: full; 5–4 judgment and materially different disposition and controlling coalition from the historical comparison.
 
@@ -225,7 +225,7 @@ The Seventh Circuit’s calculation remand remains operative. The district court
 <!-- source-record: Johnson_v_Jones_merits_1995-06-12.md -->
 ## Event
 
-Argued April 18, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit. The question is whether officers may immediately appeal the denial of summary judgment when the appealed issue is only whether the evidence permits a genuine factual dispute about their participation in alleged excessive force. The circuit separately reversed denial of false-arrest immunity; that separate disposition is outside this reviewed component.
+Johnson v. Jones, No. 94-455. Argued April 18, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit. The question is whether officers may immediately appeal the denial of summary judgment when the appealed issue is only whether the evidence permits a genuine factual dispute about their participation in alleged excessive force. The circuit separately reversed denial of false-arrest immunity; that separate disposition is outside this reviewed component.
 
 Render form: compact; unanimous 9–0 disposition with no material historical-comparison change beyond substitution of Stone for Rehnquist.
 
@@ -369,7 +369,7 @@ Public factual support: Kimberlin v. Quinlan, 6 F.3d 789; petition appendices 1a
 <!-- source-record: Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md -->
 ## Event
 
-Argued April 25, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 28 F.3d 86 (June 24, 1994). The question is whether §22 permits modification for changed injury-related earning capacity without physical improvement. Rambo's 1980 injury led to a stipulated 1983 nonscheduled permanent-partial award based on 22.5% disability; crane training and employment produced substantially higher earnings. The ALJ terminated benefits and the Board affirmed; the Ninth Circuit reversed under a physical-change-only rule. The stipulated award was not a §8(i) settlement discharging liability with the required best-interest finding.
+Metropolitan Stevedore Co. v. Rambo, No. 94-820. Argued April 25, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 28 F.3d 86 (June 24, 1994). The question is whether §22 permits modification for changed injury-related earning capacity without physical improvement. Rambo's 1980 injury led to a stipulated 1983 nonscheduled permanent-partial award based on 22.5% disability; crane training and employment produced substantially higher earnings. The ALJ terminated benefits and the Board affirmed; the Ninth Circuit reversed under a physical-change-only rule. The stipulated award was not a §8(i) settlement discharging liability with the required best-interest finding.
 
 Render form: compact; 8–1 judgment and no material historical-comparison change beyond substitution of Stone for Rehnquist.
 
@@ -592,7 +592,7 @@ The conceded defect, timely objection and military review framework appear in th
 <!-- source-record: Wilton_v_Seven_Falls_Co_merits_1995-06-12.md -->
 ## Event
 
-Argued March 27, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, which affirmed the June 30, 1993 stay on June 29, 1994. The question is whether Brillhart or Colorado River governs the stay of the insurers' declaration-only coverage suit in favor of adequate parallel state litigation, and the appropriate appellate review. Insurers first filed in December 1992, dismissed, and refiled in February 1993; insureds filed the state action in March 1993.
+Wilton v. Seven Falls Co., No. 94-562. Argued March 27, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, which affirmed the June 30, 1993 stay on June 29, 1994. The question is whether Brillhart or Colorado River governs the stay of the insurers' declaration-only coverage suit in favor of adequate parallel state litigation, and the appropriate appellate review. Insurers first filed in December 1992, dismissed, and refiled in February 1993; insureds filed the state action in March 1993.
 
 Render form: compact; 8–0 judgment with no material historical-comparison change beyond substitution of Stone for Rehnquist.
 

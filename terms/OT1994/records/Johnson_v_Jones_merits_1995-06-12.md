@@ -91,7 +91,7 @@ The earlier stage-local pending checks are superseded by [chunk-7 coordinated va
 
 ## Event
 
-Argued April 18, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit. The question is whether officers may immediately appeal the denial of summary judgment when the appealed issue is only whether the evidence permits a genuine factual dispute about their participation in alleged excessive force. The circuit separately reversed denial of false-arrest immunity; that separate disposition is outside this reviewed component.
+Johnson v. Jones, No. 94-455. Argued April 18, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit. The question is whether officers may immediately appeal the denial of summary judgment when the appealed issue is only whether the evidence permits a genuine factual dispute about their participation in alleged excessive force. The circuit separately reversed denial of false-arrest immunity; that separate disposition is outside this reviewed component.
 
 Render form: compact; unanimous 9–0 disposition with no material historical-comparison change beyond substitution of Stone for Rehnquist.
 

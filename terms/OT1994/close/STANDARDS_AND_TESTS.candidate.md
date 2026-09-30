@@ -408,7 +408,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Section1500 jurisdiction is measured when the action is filed: [Keene Corp. v. United States — Section1500 jurisdiction is measured when the action is filed](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/keene_merits_1993-05-24.md), 1993-05-24. Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Section 1500 jurisdiction is measured when the action is filed: [Keene Corp. v. United States — Section 1500 jurisdiction is measured when the action is filed](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/keene_merits_1993-05-24.md), 1993-05-24. Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 - Overlapping facts and relief cannot be separated merely by changing legal theories: [Keene Corp. v. United States — Overlapping facts and relief cannot be separated merely by changing legal theories](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/keene_merits_1993-05-24.md), 1993-05-24. Souter’s Opinion of the Court; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
 **Present operation effective:** 1993-05-24; Keene Corp. v. United States, for the components identified above.

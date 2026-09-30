@@ -152,7 +152,7 @@ Parent arithmetic, chronology, public interface, holding-depth, manifest/ledger 
 
 ## Event
 
-Kelley v. Board of Trustees of the University of Illinois, No. 94-783; Merits decision, 1995-05-22. Review of Seventh Circuit summary judgment for the University, 35 F.3d 265, panel September1, 1994 and rehearing denied October5, 1994; argued March28, 1995. Questions: Title IX participation and equal protection after elimination of men's swimming while women's swimming remained. Render form: full; basis: independent constitutional rationale differs from lower comparator.
+Kelley v. Board of Trustees of the University of Illinois, No. 94-783; Merits decision, 1995-05-22. Review of Seventh Circuit summary judgment for the University, 35 F.3d 265, panel September 1, 1994 and rehearing denied October 5, 1994; argued March 28, 1995. Questions: Title IX participation and equal protection after elimination of men's swimming while women's swimming remained. Render form: full; basis: independent constitutional rationale differs from lower comparator.
 
 ## Participation
 
@@ -164,11 +164,11 @@ AFFIRMED, 9-0 on each distinct statutory and constitutional claim.
 
 ## Judgment & Remedy
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section1983 preclusion rule is adopted.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section 1983 preclusion rule is adopted.
 
 ## Opinion Topology
 
-O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartsI andII, including both independent grounds.
+O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join Parts I and II, including both independent grounds.
 
 ## Holdings
 

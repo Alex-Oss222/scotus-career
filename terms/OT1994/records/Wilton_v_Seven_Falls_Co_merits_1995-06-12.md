@@ -100,7 +100,7 @@ The earlier stage-local pending checks are superseded by [chunk-7 coordinated va
 
 ## Event
 
-Argued March 27, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, which affirmed the June 30, 1993 stay on June 29, 1994. The question is whether Brillhart or Colorado River governs the stay of the insurers' declaration-only coverage suit in favor of adequate parallel state litigation, and the appropriate appellate review. Insurers first filed in December 1992, dismissed, and refiled in February 1993; insureds filed the state action in March 1993.
+Wilton v. Seven Falls Co., No. 94-562. Argued March 27, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, which affirmed the June 30, 1993 stay on June 29, 1994. The question is whether Brillhart or Colorado River governs the stay of the insurers' declaration-only coverage suit in favor of adequate parallel state litigation, and the appropriate appellate review. Insurers first filed in December 1992, dismissed, and refiled in February 1993; insureds filed the state action in March 1993.
 
 Render form: compact; 8–0 judgment with no material historical-comparison change beyond substitution of Stone for Rehnquist.
 

@@ -136,7 +136,7 @@ The earlier stage-local pending checks are superseded by [chunk-7 coordinated va
 
 ## Event
 
-Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
+Adarand Constructors, Inc. v. Peña, No. 93-1841. Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
 
 Render form: full; 5–4 judgment and materially different disposition and controlling coalition from the historical comparison.
 
