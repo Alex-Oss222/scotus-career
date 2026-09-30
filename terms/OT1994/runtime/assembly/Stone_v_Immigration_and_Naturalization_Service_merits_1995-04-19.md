@@ -1,3 +1,5 @@
+> **Superseded historical assembly draft.** Replaced by the [current Canonical Decision Record](../../records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) in correction commit `8d98261d33b6d39fda8a9ccc52ab5ad7ed3be02a`. Retained only as historical drafting material; its superseded content is not current law.
+
 **Case and dockets:** Stone v. Immigration and Naturalization Service, No. 93-1199.
 **Event and date:** Merits decision, 1995-04-19; October Term 1994, chunk 5.
 **Result:** Affirm the dismissal of review of the original deportation order as untimely, 5–4; the separate reconsideration-denial component is undisturbed.
@@ -17,7 +19,7 @@ Service of a judicial petition stays deportation unless the court otherwise dire
 
 ## Participation and entering law
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. Review proceeds through the former INA and incorporated chapter 158, not a later removal statute. Actual Ibarra (October 15, 1991) and Darby (June 21, 1993) remain effective at their criminal-appeal and APA scopes. Locomotive Engineers supplies the ordinary administrative reconsideration rule. The [A slice](../entering-law/OT_1994CHUNK5_A.md) and [validated neutral packet](../runtime/OT_1994CHUNK5_NEUTRAL_A_VALIDATED.md) supply the applicable statutes and competing readings. The common pre-April-19 baseline excludes Celotex, McIntyre, Kyles and Coors as same-date sources; no material earlier current-term rule displaces the statutory question.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. Review proceeds through the former INA and incorporated chapter 158, not a later removal statute. Actual Ibarra (October 15, 1991) and Darby (June 21, 1993) remain effective at their criminal-appeal and APA scopes. Locomotive Engineers supplies the ordinary administrative reconsideration rule. The [A slice](../../entering-law/OT_1994CHUNK5_A.md) and [validated neutral packet](../OT_1994CHUNK5_NEUTRAL_A_VALIDATED.md) supply the applicable statutes and competing readings. The common pre-April-19 baseline excludes Celotex, McIntyre, Kyles and Coors as same-date sources; no material earlier current-term rule displaces the statutory question.
 
 ## Stone: approved position and final compatibility
 
@@ -33,7 +35,7 @@ Stone votes to reverse the original-order dismissal and remand, joining Breyer�
 - **Approval Status:** APPROVED — STONE CHARACTER POSITION.
 - **Approval Date or Turn:** Approved by the user in the current instruction.
 - **Character Scope:** This approval applies only to Stone's character disposition, reasoning, remedy, and reserved questions. It is not a Court holding, coalition, vote result, or completed simulated adjudication.
-- **Current-Through Baseline:** The completed OT1993 [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md), incorporating all 95 matters through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
+- **Current-Through Baseline:** The completed OT1993 [Holdings](../../../../state/HOLDINGS.md), [Standards and Tests](../../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../../state/STANDING_STATE.md), incorporating all 95 matters through June 30, 1994; no OT1994 Decision Record is presently effective in the repository.
 - **Revalidation Condition:** Revalidate only for changes in actual entering law, record, posture, or scope. This approval fixes Stone's character position; it does not create Court law or predetermine the Court's judgment.
 - **Character Continuity Check:** The proposed Stone v. INS position now rests expressly on the actual simulated Ibarra and Darby holdings rather than a generic analogy. Neither supplies an INA result by itself; the incorporated review provisions must carry the finality consequence. INS v. Doherty produced no controlling reusable reopening rule and is not treated as one.
 
@@ -123,7 +125,7 @@ The original-order timeliness dismissal remains in force. The separate reconside
 
 ## Adaptive audit annex
 
-The unchanged [independent commitment freeze](../freeze/OT_1994CHUNK5_COMMITMENTS_A.md) preceded the [reconciled freeze](../freeze/OT_1994CHUNK5_RECONCILED_A.md). The following case-specific reconciliation is preserved verbatim as the adaptive annex; it supplies eight named associate rows and the material before-and-after distinctions. No current Stone supplement entered either stage.
+The unchanged [independent commitment freeze](../../freeze/OT_1994CHUNK5_COMMITMENTS_A.md) preceded the [reconciled freeze](../../freeze/OT_1994CHUNK5_RECONCILED_A.md). The following case-specific reconciliation is preserved verbatim as the adaptive annex; it supplies eight named associate rows and the material before-and-after distinctions. No current Stone supplement entered either stage.
 
 ### Historical comparison and additional review
 
@@ -182,7 +184,7 @@ Research cutoff: immediately before 1995-04-19. Later law supplies no adjudicati
 
 [Sixth Circuit opinion, 13 F.3d 934](https://static.case.law/f3d/13/html/0934-01.html) supplies the dates, two lower components, and agency posture. The [filed briefs and appendices](https://archive.org/details/micro_IA40385013_0488) supply the competing statutory submissions. [Former §1105a in the 1994 Code](https://www.govinfo.gov/content/pkg/USCODE-1994-title8/pdf/USCODE-1994-title8.pdf) supplies text and applicability notes; the later amendment is not applied to this earlier proceeding. [Locomotive Engineers, 482 U.S. 270](https://tile.loc.gov/storage-services/service/ll/usrep/usrep482/usrep482270/usrep482270.pdf) supplies the ordinary administrative-review rule. The underlying immigration merits and a separate new challenge to reconsideration are not adjudicated.
 
-The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. Durable validation is recorded in [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md). Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
+The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. Durable validation is recorded in [chunk validation](../../freeze/OT_1994CHUNK5_VALIDATION.md). Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
 
 ## Public Projection
 

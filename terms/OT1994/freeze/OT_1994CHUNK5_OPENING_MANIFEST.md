@@ -151,7 +151,7 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 
 ## Institutional setting and intake limits
 
-The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](continuity.md#5-current-procedure-and-institution) and [neutral projection](neutral-projection.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
+The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](OT_1994CHUNK5_OPENING_CONTINUITY.md#5-current-procedure-and-institution) and [neutral projection](OT_1994CHUNK5_OPENING_NEUTRAL_PROJECTION.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
 
 ### Matter-specific limits retained at opening
 
@@ -180,6 +180,6 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 48 inventory events are completed; 51 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition are preserved as Admitted Source Records; they are not additional Court judgments.
+The [manifest](OT_1994CHUNK5_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 48 inventory events are completed; 51 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition are preserved as Admitted Source Records; they are not additional Court judgments.
 
 The next scheduled inventory events are **Stone v. Immigration and Naturalization Service, Kyles v. Whitley, and Rubin v. Coors Brewing Co., April 19, 1995, chunk 5**. They retain the common pre-April-19 baseline. File-preservation order creates no release sequence.

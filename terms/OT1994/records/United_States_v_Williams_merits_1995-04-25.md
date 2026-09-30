@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Williams, No. 94-395.
 **Event and date:** Merits decision, 1995-04-25; October Term 1994, chunk 5.
 **Result:** Affirmed, 7–2, as to refund jurisdiction; no refund awarded. The express-waiver ground has seven votes, and the taxpayer-definition alternative has five.
-**Version / lineage:** Initial adjudication draft for operator review; supersedes nothing. Not yet preserved as a Canonical Decision Record. No Git command was run; repository verification and commitment remain with the operator.
+**Version / lineage:** Completed, preserved Canonical Decision Record; initial adjudication, supersedes nothing.
 
 ## Event, posture, and record
 

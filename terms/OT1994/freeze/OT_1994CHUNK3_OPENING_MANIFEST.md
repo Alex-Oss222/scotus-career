@@ -151,7 +151,7 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 
 ## Institutional setting and intake limits
 
-The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](continuity.md#5-current-procedure-and-institution) and [neutral projection](neutral-projection.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
+The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](OT_1994CHUNK3_OPENING_CONTINUITY.md#5-current-procedure-and-institution) and [neutral projection](OT_1994CHUNK3_OPENING_NEUTRAL_PROJECTION.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
 
 ### Matter-specific limits retained at opening
 
@@ -179,6 +179,6 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor. No endpoint is displaced.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 24 inventory events are completed; 75 remain unadjudicated, including explicitly stopped matters. Nebraska v. Wyoming is already inventory matter 68 and is not duplicated. No carryover is closed. The known future April 4, 1995 statutory transition is scheduled separately and supplies no present holding.
+The [manifest](OT_1994CHUNK3_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 24 inventory events are completed; 75 remain unadjudicated, including explicitly stopped matters. Nebraska v. Wyoming is already inventory matter 68 and is not duplicated. No carryover is closed. The known future April 4, 1995 statutory transition is scheduled separately and supplies no present holding.
 
 The next independent eligible inventory matter is **O’Neal v. McAninch, No. 93-7407, February 21, 1995, chunk 3**. Resolve any stopped matter only through its stated required input. Equal-date groups retain common pre-group law. January 10 is now complete; the remaining cross-chunk groups are February 21, April 19, May 15, June 5, June 14 and June 29. Preservation or display order establishes no release sequence.

@@ -10,7 +10,7 @@ The authorities are [Holdings doctrinal volumes](../../../state/holdings/INDEX.m
 
 No OT1994 Court event or source admission has been completed. Current law is the opening baseline, without an OT1994 addition, displacement, new interpretation or new precedent treatment. Read each relevant holding with its authority, current force, limits and remedy, and the corresponding reusable rule with its effective authority. This opening projection does not restate or narrow that law. Earlier public separate writings remain noncontrolling unless a controlling source establishes otherwise.
 
-The [manifest](manifest.md) covers 99 scheduled inventory matters plus seven additional unscheduled carryovers. Nebraska v. Wyoming connects its carryover to inventory matter 68. No inventory event was removed, added, rescheduled or decided. Dates below are the supplied inventory's planning dates, confirmed against Section I of each brief. They are not newly adjudicated Court actions or a certification of historical grants. The fifteen `+` matters use the supplied simulation-assigned dockets; their established merits posture is carried from Standing State without inventing grant dates or petition polls. Consolidated companions count once. No application or petition-stage event is listed among the 99 supplied events.
+The [manifest](OT_1994CHUNK1_OPENING_MANIFEST.md) covers 99 scheduled inventory matters plus seven additional unscheduled carryovers. Nebraska v. Wyoming connects its carryover to inventory matter 68. No inventory event was removed, added, rescheduled or decided. Dates below are the supplied inventory's planning dates, confirmed against Section I of each brief. They are not newly adjudicated Court actions or a certification of historical grants. The fifteen `+` matters use the supplied simulation-assigned dockets; their established merits posture is carried from Standing State without inventing grant dates or petition polls. Consolidated companions count once. No application or petition-stage event is listed among the 99 supplied events.
 
 **Same-day grouping:** every equal event date is one same-day group, including groups split across chunks: 1995-01-10 (1/2), 1995-02-21 (2/3), 1995-04-19 (4/5), 1995-05-15 (5/6), 1995-06-05 (6/7), 1995-06-14 (7/8), and 1995-06-29 (8/9). Inventory order is a display tie-break only. No OT1994 coordinated release sequence is established at opening. Uncoordinated events on the same date use the common pre-group law, even when their Run tasks occur separately.
 
@@ -25,7 +25,7 @@ The next dated inventory event is **United States v. Shabani, No. 93-981, 1994-1
 The OT1993 group is retained in full; no one item is used to truncate the cutoff. The [OT1993 close dossier](../../OT1993/close/TERM_CLOSE_DOSSIER.md) records coordinated publication and eight open carryovers. The present Open pass relies on the completed close for prior adjudications and does not conduct another term-close substantive audit.
 ## 2. Completed Events and Admitted Sources
 
-None in OT1994. The [ledger](ledger.md) is empty. Opening this workspace creates no Court order, adjudication, grant, terminal action or source admission; there is no current-term correction or superseded Record.
+None in OT1994. The [ledger](../workspace/ledger.md) is empty. Opening this workspace creates no Court order, adjudication, grant, terminal action or source admission; there is no current-term correction or superseded Record.
 
 ## 3. Current Law
 
@@ -111,7 +111,7 @@ The neutral packets identify the following exclusions. They report no reason; no
 
 ### Dependencies
 
-The [manifest dependency table](manifest.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
+The [manifest dependency table](OT_1994CHUNK1_OPENING_MANIFEST.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
 
 ## 6. Blockers and Revalidation Needs
 

@@ -10,7 +10,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 84 inventory events are completed; 15 remain unadjudicated. Nebraska's original proceeding remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
+The [manifest](OT_1994CHUNK8_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 84 inventory events are completed; 15 remain unadjudicated. Nebraska's original proceeding remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
 The next scheduled unresolved inventory event after chunk 7 is **Gutierrez de Martinez v. Lamagno, 1995-06-14, OT_1994CHUNK8**.
 

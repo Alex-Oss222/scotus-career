@@ -8,7 +8,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 48 inventory events are completed; 51 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition are preserved as Admitted Source Records; they are not additional Court judgments.
+The [manifest](OT_1994CHUNK5_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 48 inventory events are completed; 51 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition are preserved as Admitted Source Records; they are not additional Court judgments.
 
 The next scheduled inventory events are **Stone v. Immigration and Naturalization Service, Kyles v. Whitley, and Rubin v. Coors Brewing Co., April 19, 1995, chunk 5**. They retain the common pre-April-19 baseline. File-preservation order creates no release sequence.
 
@@ -67,7 +67,7 @@ The next scheduled inventory events are **Stone v. Immigration and Naturalizatio
 | 1995-04-18 | [Shalala v. Whitecotton, No. 94-372.](../records/Shalala_v_Whitecotton_merits_1995-04-18.md) | Reverse the Federal Circuit’s compensation direction and remand, 9–0; preserve alternative claims, factual review, and new-evidence component. |
 | 1995-04-19 | [Celotex Corp. v. Edwards, No. 93-1504.](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) | Reverse and remand, 7–2; set aside contrary bond execution while the §105 restraint remains effective, preserving direct relief and qualified review. |
 | 1995-04-19 | [McIntyre v. Ohio Elections Commission, No. 93-986 (current petitioner: executor of Margaret McIntyre's estate).](../records/McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md) | Reverse the Ohio judgment and set aside the enforcement order and $100 fine, 8–1; seven directly join the scrutiny opinion. |
-The [ledger](ledger.md) indexes the durable Records.
+The [ledger](../workspace/ledger.md) indexes the durable Records.
 
 ## 3. Current Law
 
@@ -2810,7 +2810,7 @@ The neutral packets identify the following exclusions. They report no reason; no
 
 ### Dependencies
 
-The [manifest dependency table](manifest.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
+The [manifest dependency table](OT_1994CHUNK5_OPENING_MANIFEST.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
 
 ### Procedure following completed events
 

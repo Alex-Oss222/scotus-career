@@ -8,7 +8,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 84 inventory events are completed; 15 remain unadjudicated. Nebraska's original proceeding remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
+The [manifest](OT_1994CHUNK8_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 84 inventory events are completed; 15 remain unadjudicated. Nebraska's original proceeding remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
 The next scheduled unresolved inventory event after chunk 7 is **Gutierrez de Martinez v. Lamagno, 1995-06-14, OT_1994CHUNK8**.
 
@@ -105,7 +105,7 @@ The next scheduled unresolved inventory event after chunk 7 is **Gutierrez de Ma
 | 1995-06-14 | [Commissioner v. Schleier; No. 94-500.](../records/Commissioner_v_Schleier_merits_1995-06-14.md) | The Fifth Circuit judgment excluding the ADEA backpay and liquidated damages is reversed, 6–3, and the case is remanded for lawful tax treatment. |
 | 1995-06-14 | [Witte v. United States; No. 94-6187.](../records/Witte_v_United_States_merits_1995-06-14.md) | The Fifth Circuit judgment permitting the cocaine prosecution is affirmed, 8–1. |
 
-The [ledger](ledger.md) indexes the durable Records.
+The [ledger](../workspace/ledger.md) indexes the durable Records.
 
 ## 3. Current Law
 
@@ -5055,7 +5055,7 @@ The neutral packets identify the following exclusions. They report no reason; no
 
 ### Dependencies
 
-The [manifest dependency table](manifest.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
+The [manifest dependency table](OT_1994CHUNK8_OPENING_MANIFEST.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
 
 ### Procedure following completed events
 

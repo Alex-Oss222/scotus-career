@@ -203,12 +203,12 @@ Durably written without Git operations under the user's no-Git instruction. This
 
 | Case | Immutable neutral commitment file | Status |
 |---|---|---|
-|91 National Private Truck Council|[B91_FINAL](OT_1994CHUNK8_COMMITMENTS_B91_FINAL.md)|Ready|
-|92 Aguilar|[B92_FINAL](OT_1994CHUNK8_COMMITMENTS_B92_FINAL.md)|Ready; actual earlier-law refresh reserved|
-|93 Florida Bar|[B93_FINAL](OT_1994CHUNK8_COMMITMENTS_B93_FINAL.md)|Ready|
-|94 Vernonia|[B94_FINAL](OT_1994CHUNK8_COMMITMENTS_B94_FINAL.md)|Ready, frozen before the case-specific exposure below|
-|95 Rosenberger|[B95_FINAL](OT_1994CHUNK8_COMMITMENTS_B95_FINAL.md)|Ready; antecedent remand and source limits explicit|
-|96 Sweet Home|[B96_FINAL](OT_1994CHUNK8_COMMITMENTS_B96_FINAL.md)|Ready|
+|91 National Private Truck Council|[B91_FINAL](../freeze/OT_1994CHUNK8_COMMITMENTS_B91_FINAL.md)|Ready|
+|92 Aguilar|[B92_FINAL](../freeze/OT_1994CHUNK8_COMMITMENTS_B92_FINAL.md)|Ready; actual earlier-law refresh reserved|
+|93 Florida Bar|[B93_FINAL](../freeze/OT_1994CHUNK8_COMMITMENTS_B93_FINAL.md)|Ready|
+|94 Vernonia|[B94_FINAL](../freeze/OT_1994CHUNK8_COMMITMENTS_B94_FINAL.md)|Ready, frozen before the case-specific exposure below|
+|95 Rosenberger|[B95_FINAL](../freeze/OT_1994CHUNK8_COMMITMENTS_B95_FINAL.md)|Ready; antecedent remand and source limits explicit|
+|96 Sweet Home|[B96_FINAL](../freeze/OT_1994CHUNK8_COMMITMENTS_B96_FINAL.md)|Ready|
 
 ## Source and scope receipt
 

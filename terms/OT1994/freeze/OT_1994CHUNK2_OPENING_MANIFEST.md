@@ -151,7 +151,7 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 
 ## Institutional setting and intake limits
 
-The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](continuity.md#5-current-procedure-and-institution) and [neutral projection](neutral-projection.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
+The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](OT_1994CHUNK2_OPENING_CONTINUITY.md#5-current-procedure-and-institution) and [neutral projection](OT_1994CHUNK2_OPENING_NEUTRAL_PROJECTION.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
 
 ### Matter-specific limits retained at opening
 
@@ -174,7 +174,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 group in OT1993: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor. The preserved opening continuity and OT1993 close dossier supply their exact source locations; no endpoint or part of the final group is displaced.
 
-The [manifest](manifest.md) retains 99 scheduled inventory matters and seven additional unscheduled carryovers. Twelve inventory events are completed; 87 remain unprocessed. Nebraska v. Wyoming's carried original proceeding remains connected to inventory matter 68 rather than duplicated. No carried matter is silently closed, no unsupplied date or grant is invented, and no new institutional action or separate noncase-law admission is created. Original RFRA is applied as already-effective law in Clearwater, not as a new OT1994 enactment.
+The [manifest](OT_1994CHUNK2_OPENING_MANIFEST.md) retains 99 scheduled inventory matters and seven additional unscheduled carryovers. Twelve inventory events are completed; 87 remain unprocessed. Nebraska v. Wyoming's carried original proceeding remains connected to inventory matter 68 rather than duplicated. No carried matter is silently closed, no unsupplied date or grant is invented, and no new institutional action or separate noncase-law admission is created. Original RFRA is applied as already-effective law in Clearwater, not as a new OT1994 enactment.
 
 The next eligible inventory item is **Tome v. United States, No. 93-6892, January 10, 1995, chunk 2**. All equal-date groups retain the common pre-group baseline unless an express sequence is established. The cross-chunk groups remain January 10, February 21, April 19, May 15, June 5, June 14 and June 29, 1995. Display or file-preservation order does not supply a release sequence.
 

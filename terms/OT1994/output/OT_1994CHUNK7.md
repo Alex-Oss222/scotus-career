@@ -4,41 +4,39 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
-| 1995-06-05 | Metropolitan Washington Airports Authority v. Hechinger | Merits decision | Affirmed restraint takes effect through the applicable mandate machinery; case returns through the D.C. Circuit |
-| 1995-06-12 | Adarand Constructors, Inc. v. Peña | Merits decision | The Tenth Circuit judgment remains effective |
-| 1995-06-12 | City of Milwaukee v. Cement Division, National Gypsum Co. | Merits decision | The Seventh Circuit’s calculation remand remains operative |
-| 1995-06-12 | Johnson v. Jones | Merits decision | The reviewed immediate appeal remains dismissed |
-| 1995-06-12 | Kimberlin v. Quinlan | Merits decision | Return the reviewed First Amendment judgment to the lower courts without the direct-evidence barrier |
-| 1995-06-12 | Metropolitan Stevedore Co. v. Rambo | Merits decision | The case returns to the Ninth Circuit to address arguments not reached and dispose of the administrative decision under the correct statutory construction |
-| 1995-06-12 | Missouri v. Jenkins | Merits decision | The Eighth Circuit judgments remain in force and the district court retains remedial jurisdiction under the existing orders |
-| 1995-06-12 | Ryder v. United States | Merits decision | The military appellate system must provide a fresh Article 66 review before properly appointed judges |
-| 1995-06-12 | Wilton v. Seven Falls Co. | Merits decision | The federal case remains stayed while the adequate Travis County coverage proceeding runs its course |
-| 1995-06-14 | Chandris, Inc. v. Latsis | Merits decision | The district court conducts a new trial under lawful employment-connection instructions, without excluding all drydock work for every purpose on this record |
-| 1995-06-14 | Commissioner v. Schleier | Merits decision | Remand for any necessary allocation and tax calculation consistent with inclusion of the identified ADEA components |
-| 1995-06-14 | Witte v. United States | Merits decision | Proceed on the cocaine-importation conspiracy and aiding-and-abetting attempted-importation indictment under ordinary criminal procedure, proof beyond reasonable doubt and defenses |
+| 1995-06-05 | Metropolitan Washington Airports Authority v. Hechinger, No. 94-851 | Merits decision | Affirmed; the statutory restraint operates through the existing mandate machinery. |
+| 1995-06-12 | Adarand Constructors, Inc. v. Peña, No. 93-1841 | Merits decision | Affirmed; judgment for respondents remains effective, with no remand. |
+| 1995-06-12 | City of Milwaukee v. Cement Division, National Gypsum Co., No. 94-788 | Merits decision | Affirmed; the calculation of maritime prejudgment interest remains on remand. |
+| 1995-06-12 | Johnson v. Jones, No. 94-455 | Merits decision | Affirmed; the immediate excessive-force appeal remains dismissed and district proceedings may continue. |
+| 1995-06-12 | Kimberlin v. Quinlan, No. 93-2068 | Merits decision | Vacated and remanded; the First Amendment claims return for consideration without the direct-evidence barrier. |
+| 1995-06-12 | Metropolitan Stevedore Co. v. Rambo, No. 94-820 | Merits decision | Reversed and remanded; the Ninth Circuit must address the remaining arguments under the correct modification rule. |
+| 1995-06-12 | Missouri v. Jenkins, No. 93-1823 | Merits decision | Both judgments affirmed; existing orders and remedial jurisdiction continue. |
+| 1995-06-12 | Ryder v. United States, No. 94-431 | Merits decision | Reversed and remanded for fresh Article 66 review by lawfully appointed judges. |
+| 1995-06-12 | Wilton v. Seven Falls Co., No. 94-562 | Merits decision | Affirmed; the federal declaratory action remains stayed, with jurisdiction retained. |
+| 1995-06-14 | Chandris, Inc. v. Latsis, No. 94-325 | Merits decision | Affirmed; a new trial proceeds under lawful seaman-status instructions. |
+| 1995-06-14 | Commissioner v. Schleier, No. 94-500 | Merits decision | Reversed and remanded for lawful allocation and tax calculation. |
+| 1995-06-14 | Witte v. United States, No. 94-6187 | Merits decision | Affirmed; the cocaine indictment may proceed under ordinary criminal procedure. |
 
 ## Decisions and Dispositions
 
 ### Metropolitan Washington Airports Authority v. Hechinger, No. 94-851
 
-Merits decision, 1995-06-05
+Merits decision, June 5, 1995
 
 #### Chronology and Posture
 
-Argued April 17, 1995; decided June 5, 1995. On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit, 36 F.3d 97 (decided September 27, 1994). The questions concern congressional control of nominations and legal effectiveness under the revised Board-of-Review arrangement, constitutional separation of powers and presentment, and the consequent statutory remedy. No companion case.
+Argued April 17, 1995. On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit, 36 F.3d 97 (decided September 27, 1994). The questions concern congressional control of nominations and legal effectiveness under the revised Board-of-Review arrangement, constitutional separation of powers and presentment, and the consequent statutory remedy. No companion case.
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision; no nonparticipation is established.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 The judgment of the D.C. Circuit is affirmed, 9–0.
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Congressional-agent operative control | Affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Challenged legal control unenforceable |
 | Statutory remedial consequence | Affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Preserve §2456(h), unaffected functions and no automatic past-act invalidation |
-
-The October 24, 1994 lower-court stay covers the district judgment and effective date and appellate mandate and effective date pending the later of filing and final Supreme Court disposition on the petition; or, if certiorari is declined, sixty days after denial; or March 31, 1995. The final-disposition condition applies to this merits decision. March 31 was not an earlier automatic expiration while that branch remained pending. The June 5 final disposition satisfies that branch, and the affirmed restraint takes effect through the applicable mandate machinery under the existing order. No new transition stay is imposed. The sixty-day-after-denial condition does not govern this merits disposition.
 
 #### Opinion Topology
 
@@ -51,7 +49,7 @@ The October 24, 1994 lower-court stay covers the district judgment and effective
 
 ##### Congressional agents may not control the legal effectiveness of airport decisions
 
-**Holding and operative rule:** Congress may advise, oversee, obtain reports and enact a fixed waiting period, but may not vest a congressional agent with selective, legally operative control over execution outside the constitutional allocation of power. The revised Board is such an agent and its ability to trigger an additional restraint on covered Authority actions makes the challenged control provisions unconstitutional; mere influence, nominations considered alone, consultation, reporting and nonvoting attendance are not independently invalidated.
+**Controlling proposition:** Congress may advise, oversee, obtain reports and enact a fixed waiting period, but may not vest a congressional agent with selective, legally operative control over execution outside the constitutional allocation of power. The revised Board is such an agent and its ability to trigger an additional restraint on covered Authority actions makes the challenged control provisions unconstitutional; mere influence, nominations considered alone, consultation, reporting and nonvoting attendance are not independently invalidated.
 
 **Authority:** Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine Justices adopt the congressional-agency-plus-operative-control ground. Stone's independent Article I ground is not an additional Court holding.
 
@@ -61,7 +59,7 @@ The October 24, 1994 lower-court stay covers the district judgment and effective
 
 ##### The enacted contingency limits the remedy
 
-**Holding and operative rule:** When a judicial order prevents the Board from carrying out its statutory functions, 49 U.S.C.App. §2456(h) withdraws the Authority’s power thereafter to perform actions required to be submitted to that Board. The restraint is affirmed subject to that enacted consequence: unaffected functions, the lease and compact survive, past Board actions are not automatically invalidated, and severance cannot authorize prohibited covered actions.
+**Controlling proposition:** When a judicial order prevents the Board from carrying out its statutory functions, 49 U.S.C.App. §2456(h) withdraws the Authority’s power thereafter to perform actions required to be submitted to that Board. The restraint is affirmed subject to that enacted consequence: unaffected functions, the lease and compact survive, past Board actions are not automatically invalidated, and severance cannot authorize prohibited covered actions.
 
 **Authority:** Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; all nine adopt the precise statutory remedial limit.
 
@@ -83,50 +81,50 @@ Chief Justice Stone-Zsela concurs. Independently of the Board’s institutional 
 
 #### Source Notes
 
-The lower judgment and statutory operation are supported by [36 F.3d 97](https://openjurist.org/36/f3d/97), and the actual statute, district relief and October 24 stay appear in the [94-925 petition and appendix](https://archive.org/details/micro_IA40386012_0864), appendix 1a–38a, particularly 20a–21a and 33a–34a. The filing identifier 94-925 is distinct from this Court’s No. 94-851. The statute is identified by its former-code designation, 49 U.S.C.App. §2456. Petition page 3 note 2 and the appendix introductory note explain that the Metropolitan Washington Airports Act of 1986, as amended, was not included in the July 5, 1994 transportation recodification and remained in force; the old designation reproduces the complete governing Act. [Public Law 103-272, §7(b)](https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg745.pdf), 108 Stat. 1379 and its schedule at 1394–1395, repeals the specified portions of Public Laws 99-500 and 99-591 concerning former §2311, rather than the Airports Act’s §6007. No replacement section or repeal of this Act is assumed. April 17 and June 5 are the established argument and decision dates. The cited appellate opinion and filing appendix support the lower-court background, statute and existing stay.
+The lower judgment and statutory operation are supported by [36 F.3d 97](https://openjurist.org/36/f3d/97). The statute, district relief and October 24 stay appear in the [94-925 petition and appendix](https://archive.org/details/micro_IA40386012_0864), appendix 1a–38a, particularly 20a–21a and 33a–34a. The filing identifier 94-925 is distinct from this Court’s No. 94-851. The statute is identified by its former-code designation, 49 U.S.C.App. §2456. Petition page 3 note 2 and the appendix introductory note explain that the Metropolitan Washington Airports Act of 1986, as amended, was not included in the July 5, 1994 transportation recodification and remained in force; the old designation reproduces the complete governing Act. [Public Law 103-272, §7(b)](https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg745.pdf), 108 Stat. 1379 and its schedule at 1394–1395, repeals the specified portions of Public Laws 99-500 and 99-591 concerning former §2311, rather than the Airports Act’s §6007. No replacement section or repeal of this Act is assumed. The cited appellate opinion and filing appendix support the lower-court background, statute and existing stay.
 
 #### Mandate, Remedy, and Stage
 
 The October 24, 1994 lower-court stay covers the district judgment and effective date and appellate mandate and effective date pending the later of filing and final Supreme Court disposition on the petition; or, if certiorari is declined, sixty days after denial; or March 31, 1995. The final-disposition condition applies to this merits decision. March 31 was not an earlier automatic expiration while that branch remained pending. The June 5 final disposition satisfies that branch, and the affirmed restraint takes effect through the applicable mandate machinery under the existing order. No new transition stay is imposed. The sixty-day-after-denial condition does not govern this merits disposition. The case returns through the D.C. Circuit for operation of the affirmed judgment. Any transaction-specific issue requires its own lawful proceeding; the unconstitutional control mechanism cannot be restored.
 
-**End of entry: Metropolitan Washington Airports Authority v. Hechinger, merits decision, 1995-06-05.**
+**End of entry: Metropolitan Washington Airports Authority v. Hechinger, merits decision, June 5, 1995.**
 
 ---
 
-### Adarand Constructors, Inc. v. Peña
+### Adarand Constructors, Inc. v. Peña, No. 93-1841
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
 #### Chronology and Posture
 
-Argued January 17, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
+Argued January 17, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No case-specific exclusion is established at argument or decision.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 The Tenth Circuit judgment is affirmed, 5–4.
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Preserved constitutional challenge | Affirm, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Judgment for respondents remains; no Supreme Court remand, injunction, damages or award of a subcontract |
 
 #### Opinion Topology
 
-| Writing | Author | Joined by | Relationship and scope |
-|---|---|---|---|
-| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Threshold and inherited-law merits grounds, complete join |
-| Concurrence | Souter | Ginsburg, Breyer | Additional precedent/preservation explanation |
-| Concurrence | Ginsburg | Breyer | Additional remedial-competence explanation |
-| Dissent | O'Connor | Kennedy throughout; Scalia and Thomas only uniform scrutiny and bounded remand | Vacate/remand; particular stare-decisis explanation supported only by O'Connor and Kennedy |
-| Separate dissent | Scalia | No joiners | Strict review/remand; individual group-compensation objection |
-| Separate dissent | Thomas | No joiners | Strict review/remand; own benign/paternalism objection |
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Affirmance | Threshold and inherited-law merits grounds, complete join |
+| Concurrence | Souter | Ginsburg, Breyer | Supports affirmance | Additional precedent and preservation explanation |
+| Concurrence | Ginsburg | Breyer | Supports affirmance | Additional remedial-competence explanation |
+| Dissent | O'Connor | Kennedy throughout; Scalia and Thomas only in uniform scrutiny and bounded remand | Would vacate and remand | Particular stare-decisis explanation supported only by O'Connor and Kennedy |
+| Separate dissent | Scalia | No other Justice | Would require strict review and remand | Individual group-compensation objection |
+| Separate dissent | Thomas | No other Justice | Would require strict review and remand | Own benign-classification and paternalism objection |
 
 #### Controlling Propositions and Authority
 
 ##### Equal competitive opportunity and prospective standing
 
-**Holding and operative rule:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
+**Controlling proposition:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
 
 **Authority:** Threshold portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt the proposition. Justices O'Connor, Scalia, Kennedy and Thomas independently agree with this threshold conclusion in their dissenting positions.
 
@@ -139,7 +137,7 @@ The Tenth Circuit judgment is affirmed, 5–4.
 
 ##### The inherited federal remedial standard sustains this challenge
 
-**Holding and operative rule:** Under Metro Broadcasting, a benign federal racial classification supported by Congress must serve an important governmental objective and be substantially related to that objective; Fullilove retains its supported judgment recognizing Congress's remedial authority at the scope actually sustained there. Applying that meaningful review of purpose, fit and burdens, the Court affirms the judgment rejecting this preserved challenge to the subcontractor compensation arrangement, without deciding every certification route or conferring a general exemption on measures called benign.
+**Controlling proposition:** Under Metro Broadcasting, a benign federal racial classification supported by Congress must serve an important governmental objective and be substantially related to that objective; Fullilove retains its supported judgment recognizing Congress's remedial authority at the scope actually sustained there. Applying that meaningful review of purpose, fit and burdens, the Court affirms the judgment rejecting this preserved challenge to the subcontractor compensation arrangement, without deciding every certification route or conferring a general exemption on measures called benign.
 
 **Authority:** Merits portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt this rule and bounded application, not merely the judgment.
 
@@ -170,33 +168,33 @@ Justice Souter concurs, joined by Justices Ginsburg and Breyer, emphasizing the 
 
 #### Source Notes
 
-Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp.1–24 and actual appellate reply at p.43; joint appendix pp.1–36, including SCC pp.24–26 and prime declaration pp.30–31; petitioner merits brief pp.16–24; respondent merits brief pp.12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. 
+The Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp. 1–24 and appellate reply at p. 43 support the lower-court posture. The joint appendix pp. 1–36, including the subcontractor compensation clause at pp. 24–26 and prime contractor’s declaration at pp. 30–31, petitioner’s merits brief pp. 16–24, and respondents’ merits brief pp. 12–19 and 29–35 supply the arrangement and competing arguments. The lower court recorded concessions, but the actual limited statement and merits disputes remain distinct. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route remain unresolved.
 
 #### Mandate, Remedy, and Stage
 
 The Tenth Circuit judgment remains effective. No remand is ordered by this decision, and no administrative program redesign or continuing judicial supervision is directed.
 
-**End of entry: Adarand Constructors, Inc. v. Peña, merits decision, 1995-06-12.**
+**End of entry: Adarand Constructors, Inc. v. Peña, merits decision, June 12, 1995.**
 
 ---
 
 ### City of Milwaukee v. Cement Division, National Gypsum Co., No. 94-788
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
-Argued April 24, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit, 31 F.3d 581 (August 5, 1994), which reversed denial of prejudgment interest and remanded for calculation. The question is whether mutual fault and a genuine liability dispute justify denying ordinary compensatory maritime interest.
+Argued April 24, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit, 31 F.3d 581 (August 5, 1994), which reversed denial of prejudgment interest and remanded for calculation. The question is whether mutual fault and a genuine liability dispute justify denying ordinary compensatory maritime interest.
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate at argument and decision. Breyer takes no part; no reason is inferred.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. Justice Breyer took no part.
 
 The Seventh Circuit judgment is affirmed, 8–0.
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg affirm rejection of mutual fault and ordinary genuine liability uncertainty as sufficient denial grounds and affirm the calculation remand. No Justice opposes either component; Breyer does not participate. The settled principal of $1,677,541.86, paid in January 1992, and the two-thirds National Gypsum/one-third City fault allocation remain undisturbed. The requested $5,317,807.70 interest is not an award. Rate, period, compounding and quantum, and any lawfully open distinct exceptional circumstance, remain for further proceedings.
 
-Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Every participating Justice joins the holding and remedy. Breyer takes no part. No separate opinion is filed.
+Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Every participating Justice joins the holding and remedy. No separate opinion is filed.
 
 Maritime prejudgment interest ordinarily compensates loss of use of an otherwise compensable amount; departure requires a legally sufficient exceptional circumstance supported by the record. Mutual fault already reflected in principal damages and a genuine ordinary liability dispute, without more, do not justify denial; undue claimant-caused delay can qualify, but the Court adopts no exhaustive list, fixed liquidated-claim prerequisite, rate, period, compounding rule or sum.
 
-Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all eight participating Justices adopt the complete rule and affirm the calculation remand.
+The authority is Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all eight participating Justices adopt the complete rule and affirm the calculation remand.
 
 The Court holds that prejudgment interest compensates rather than punishes. The Scotland preserves equitable judgment in admiralty, but that discretion must serve compensation for the claimant's lost use of money. Reliable Transfer assigns collision damages in proportion to comparative responsibility. Here principal already reflects National Gypsum's two-thirds fault and the City's one-third responsibility; denying interest because both were at fault would make the same circumstance reduce compensation again. An honest disagreement about liability is likewise common in litigation and does not eliminate the eventual loss of use. The City's discretion argument therefore rests on legally insufficient reasons. No statute displaces the traditional maritime rule, and uncertainty of amount does not create a fixed liquidated-claim prerequisite. Genuine supported exceptional circumstances, including undue delay attributable to the claimant, remain relevant on their actual record. The principal was settled and paid with interest expressly reserved. The Court neither rewrites that bargain nor converts the claimant's requested interest into an award; calculation remains for further proceedings.
 
@@ -206,67 +204,65 @@ The Scotland and Reliable Transfer remain controlling at the compensatory and co
 
 The ordinary compensatory admiralty rule constrains discretion: these two stated grounds are insufficient without more. Evidence-supported distinct exceptions remain available within lawful scope. Neither municipal status, sovereign immunity nor a categorical municipal-financing exception is adjudicated; the municipal-status alternative was not pursued here.
 
-Source support: [31 F.3d 581](https://openjurist.org/31/f3d/581) and the [94-788 petition](https://archive.org/details/micro_IA40386012_0738) supply the reserved interest controversy and settled principal. The official report records Breyer’s nonparticipation and the municipal-status ground’s exclusion. No reason for nonparticipation, general absence of delay evidence or prescribed rate is inferred.
+**Source Notes:** [31 F.3d 581](https://openjurist.org/31/f3d/581) and the [94-788 petition](https://archive.org/details/micro_IA40386012_0738) supply the reserved interest controversy and settled principal. The official report records Breyer’s nonparticipation and the municipal-status ground’s exclusion. These sources establish neither a reason for nonparticipation, a general absence of delay evidence nor a prescribed rate.
 
 The Seventh Circuit’s calculation remand remains operative. The district court must calculate interest consistently with the compensatory rule while resolving any lawfully open distinct exceptional issue on its evidence. Principal and fault remain fixed; no interest sum or universal numerical method is imposed.
 
-**End of entry: City of Milwaukee v. Cement Division, National Gypsum Co., merits decision, 1995-06-12.**
+**End of entry: City of Milwaukee v. Cement Division, National Gypsum Co., merits decision, June 12, 1995.**
 
 ---
 
-### Johnson v. Jones
+### Johnson v. Jones, No. 94-455
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
-Argued April 18, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit. The question is whether officers may immediately appeal the denial of summary judgment when the appealed issue is only whether the evidence permits a genuine factual dispute about their participation in alleged excessive force. The circuit separately reversed denial of false-arrest immunity; that separate disposition is outside this reviewed component.
+Argued April 18, 1995. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit. The question is whether officers may immediately appeal the denial of summary judgment when the appealed issue is only whether the evidence permits a genuine factual dispute about their participation in alleged excessive force. The circuit separately reversed denial of false-arrest immunity; that separate disposition is outside this reviewed component.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No case-specific exclusion is established at argument or decision.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 The Seventh Circuit judgment dismissing the reviewed immediate excessive-force appeal is affirmed, 9–0.
 
-Reviewed excessive-force factual-sufficiency appeal: affirm dismissal, 9–0. Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No opposition. The separate false-arrest immunity reversal remains undisturbed; the Court does not revive it or affirm every district-court denial.
+All nine Justices—Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer—affirm dismissal of the reviewed excessive-force factual-sufficiency appeal. The separate false-arrest immunity reversal remains undisturbed; the Court does not revive it or affirm every district-court denial.
 
 Justice Breyer writes the opinion of the Court, joined completely by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. No separate writing is published.
 
 A denial of qualified immunity is not immediately appealable under §1291 insofar as it determines only whether the pretrial evidence presents a genuine factual dispute about the official's participation in the alleged conduct. Mitchell's immediate appeal remains available for the separable legal question whether the conduct, on the relevant assumed facts, violated clearly established law; the present excessive-force participation dispute does not meet that condition.
 
-Justice Breyer's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt this bounded rule.
+The authority is Justice Breyer's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine adopt this bounded rule.
 
 The Court holds that a disputed factual defense does not become a collateral legal issue because the defendant invokes qualified immunity. Cohen requires separateness from the merits; Mitchell recognizes immediate review of the legal immunity question on assumed facts, not appellate reconsideration of ordinary evidentiary sufficiency. Petitioners dispute their presence or participation in the alleged beating. They do not contend that losing that factual dispute would leave them immune; counsel's characterization confirms the nature of this appeal without proving the beating or participation. Deciding whether the evidence warrants trial would duplicate the ordinary summary-judgment inquiry and intermingle appellate review with the merits. Digital Equipment preserves cumulative category requirements rather than an exception for costly litigation, and Swint rejects convenience as a source of additional appellate power. Immunity's protection against suit remains important, but that purpose does not admit every factual defense to immediate review. The Court decides no ultimate constitutional violation, evidence sufficiency or liability, and does not categorically exclude genuine legal portions of mixed orders.
 
-Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541 (1949): applies separateness as a cumulative collateral-order condition.
-Mitchell v. Forsyth, 472 U.S. 511 (1985): retains immediate legal immunity review on assumed facts, bounded against ordinary factual-sufficiency appeals.
-Digital Equipment Corp. v. Desktop Direct (June 6, 1994): applies category and cumulative-condition discipline; public immunity importance does not erase separateness.
-Swint v. Chambers County Commission (March 1, 1995): applies rejection of convenience-based appellate expansion; genuine necessary connected review remains at its reserved scope.
-Elder v. Holloway (February 23, 1994): preserves review of all relevant date-eligible legal authority on an authorized immunity issue; supplies no fact-reweighing jurisdiction.
+Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541 (1949) applies separateness as a cumulative collateral-order condition. Mitchell v. Forsyth, 472 U.S. 511 (1985) retains immediate legal immunity review on assumed facts, bounded against ordinary factual-sufficiency appeals. Digital Equipment Corp. v. Desktop Direct (June 6, 1994) applies category and cumulative-condition discipline; public immunity importance does not erase separateness. Swint v. Chambers County Commission (March 1, 1995) applies rejection of convenience-based appellate expansion; genuine necessary connected review remains at its reserved scope. Elder v. Holloway (February 23, 1994) preserves review of all relevant date-eligible legal authority on an authorized immunity issue; supplies no fact-reweighing jurisdiction.
 
-Cohen's separateness requirement controls the reviewed factual contention. Mitchell's legal immunity appeal, Digital Equipment's cumulative requirements, Swint's bounded rejection of convenience-based connected review and Elder's legal-authority rule remain effective. No precedent is overruled.
+Cohen's separateness requirement controls the reviewed factual contention. Mitchell's legal immunity appeal, Digital Equipment's cumulative requirements, Swint's bounded rejection of convenience-based connected review and Elder's legal-authority rule remain effective. None is overruled.
 
 Factual participation/evidence sufficiency alone supplies no immediate §1291 appeal. A proper Mitchell legal appeal uses the District Court's assumed facts; where not expressly stated, the appellate court may identify likely assumptions favorable to the nonmovant from the record without deciding truth or reweighing sufficiency. Adding an abstract legal contention does not bootstrap this factual issue. Whether genuinely necessary connected review can exist remains reserved; no categorical future mixed-order rule is adopted. No finding of presence, beating, liability or ultimate sufficiency follows.
 
-Source support: 28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. 
+The legal/factual boundary and the undisturbed false-arrest disposition are part of the Court’s common opinion.
+
+**Source Notes:** 28 U.S.C. §1291, Cohen and Mitchell supply the legal framework. The Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a establish the distinct excessive-force dismissal and false-arrest reversal. Counsel’s recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct.
 
 The reviewed immediate appeal remains dismissed. District proceedings may continue on the disputed excessive-force facts and surviving claims, subject to ordinary procedures and defenses. Proper separable legal immunity review remains available through its lawful immediate route; preserved questions may also receive final-judgment review. No state-law claim or another defendant's liability is newly adjudicated.
 
-**End of entry: Johnson v. Jones, merits decision, 1995-06-12.**
+**End of entry: Johnson v. Jones, merits decision, June 12, 1995.**
 
 ---
 
 ### Kimberlin v. Quinlan, No. 93-2068
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
 #### Chronology and Posture
 
-Argued April 26, 1995; decided June 12, 1995. On writ of certiorari to the D.C. Circuit, 6 F.3d 789 (Oct. 8, 1993), after its interlocutory reversal of the refusal of dismissal or summary judgment on the officials' individual-capacity First Amendment claims. The questions are whether a categorical direct-evidence rule can be reviewed as a separable legal question and whether supported circumstantial motive proof can be categorically rejected.
+Argued April 26, 1995. On writ of certiorari to the D.C. Circuit, 6 F.3d 789 (Oct. 8, 1993), after its interlocutory reversal of the refusal of dismissal or summary judgment on the officials' individual-capacity First Amendment claims. The questions are whether a categorical direct-evidence rule can be reviewed as a separable legal question and whether supported circumstantial motive proof can be categorically rejected.
 
-All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No nonparticipant is established.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 The D.C. Circuit judgment directing First Amendment summary judgment is vacated and remanded, 9–0.
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Direct-evidence-dependent First Amendment summary-judgment directive | Vacated, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Remand for lawful legal and factual consideration |
 
@@ -318,80 +314,75 @@ Supported circumstantial proof may establish the required motive under the actua
 
 #### Source Notes
 
-Public factual support: Kimberlin v. Quinlan, 6 F.3d 789; petition appendices 1a–43a, including the majority, Williams concurrence and Edwards dissent; petitioner merits brief pp. 35–42 and respondents merits brief pp. 2–11, 26–35 in the [Archive docket collection](https://archive.org/details/micro_IA40386003_1788). Respondents sought a clear-and-convincing alternative; it is not adopted. No verbatim grant order is available; the questions above state admitted operational scope. 
+The factual record appears in Kimberlin v. Quinlan, 6 F.3d 789; petition appendices 1a–43a, including the majority, Williams concurrence and Edwards dissent; petitioner’s merits brief pp. 35–42 and respondents’ merits brief pp. 2–11, 26–35 in the [Archive docket collection](https://archive.org/details/micro_IA40386003_1788). Respondents sought a clear-and-convincing alternative; the Court does not adopt it. No verbatim grant order is available; the questions above state the scope of review.
 
 #### Mandate, Remedy, and Stage
 
-Return the reviewed First Amendment judgment to the lower courts without the direct-evidence barrier. They retain lawful authority to enter independently supported episode-specific judgment, regulate discovery and address the proper constitutional and immunity questions. No actual trial, liability or damages directive is entered. Lower-court proceedings resume.
+Return the reviewed First Amendment judgment to the lower courts without the direct-evidence barrier. They retain lawful authority to enter independently supported episode-specific judgment, regulate discovery and address the proper constitutional and immunity questions. No actual trial, liability or damages directive is entered. The proceedings on the merits in this Court are complete; lower-court proceedings resume.
 
-**End of entry: Kimberlin v. Quinlan, merits decision, 1995-06-12.**
+**End of entry: Kimberlin v. Quinlan, merits decision, June 12, 1995.**
 
 ---
 
-### Metropolitan Stevedore Co. v. Rambo
+### Metropolitan Stevedore Co. v. Rambo, No. 94-820
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
-Argued April 25, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 28 F.3d 86 (June 24, 1994). The question is whether §22 permits modification for changed injury-related earning capacity without physical improvement. Rambo's 1980 injury led to a stipulated 1983 nonscheduled permanent-partial award based on 22.5% disability; crane training and employment produced substantially higher earnings. The ALJ terminated benefits and the Board affirmed; the Ninth Circuit reversed under a physical-change-only rule. The stipulated award was not a §8(i) settlement discharging liability with the required best-interest finding.
+Argued April 25, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 28 F.3d 86 (June 24, 1994). The question is whether §22 permits modification for changed injury-related earning capacity without physical improvement. Rambo's 1980 injury led to a stipulated 1983 nonscheduled permanent-partial award based on 22.5% disability; crane training and employment produced substantially higher earnings. The ALJ terminated benefits and the Board affirmed; the Ninth Circuit reversed under a physical-change-only rule. The stipulated award was not a §8(i) settlement discharging liability with the required best-interest finding.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No case-specific exclusion is established at argument or decision.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 The Ninth Circuit judgment is reversed and the case remanded, 8–1.
 
-Modification legal-rule component: reverse and remand, 8–1. Supporting: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Opposing: Stevens. Remand to the Ninth Circuit for its unaddressed arguments and lawful application/review of the full economic-capacity standard; no immediate benefit termination, new dollar award or unconditional new hearing is ordered.
+Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support reversal and remand of the modification legal-rule component; Stevens dissents. The case returns to the Ninth Circuit for its unaddressed arguments and lawful application and review of the full economic-capacity standard. No immediate benefit termination, new dollar award or unconditional new hearing is ordered.
 
 Justice Kennedy writes the opinion of the Court, joined completely by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. Justice Stevens dissents without joiners.
 
 Section 22 permits modification of a nonscheduled disability award upon a demonstrated change in injury-related earning capacity even when physical impairment is unchanged. Modification remains limited to the enacted grounds of changed conditions or mistake in a determination of fact, within one year after the last compensation payment, whether or not a compensation order issued, or within one year after rejection of a claim; true §8(i) settlements remain distinct.
 
-Justice Kennedy's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt the construction and bounded reversal/remand.
+The authority is Justice Kennedy's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt the construction and bounded reversal/remand.
 
 The Court holds that the condition relevant to this nonscheduled award is injury-related earning incapacity, not bodily impairment alone. Sections 2(10) and 8(c)(21) tie compensation to economic disability. Reading section 22 to require medical change would preserve an award after the very incapacity it compensates had genuinely changed. O'Keeffe and Banks resist extra-textual restrictions on the modification provision's distinct fact-correction ground; they do not independently decide this economic-change question. Potomac Electric and Bath Iron Works preserve the different operation of scheduled compensation and therefore do not convert this award into a fixed impairment payment. Finality matters, but Congress supplied qualifying grounds and a deadline rather than a physical-only restriction. The employer's actual assessment and reimbursement stake permits this challenge despite Fund payments; Newport News does not equate it with the Director's general administrative interest. The Court removes the categorical barrier without deciding the ultimate capacity finding, terminating benefits itself, or authorizing perpetual reopening.
 
-O'Keeffe v. Aerojet-General Shipyards, Inc., 404 U.S. 254 (1971): analogous breadth of fact-correction authority does not erase statutory grounds or deadline.
-Banks v. Chicago Grain Trimmers Assn., Inc., 390 U.S. 459 (1968): applies resistance to restrictions not enacted in the modification text; the mistake ground remains distinct.
-Potomac Electric Power Co. v. Director, OWCP, 449 U.S. 268 (1980): preserves scheduled/nonscheduled statutory branches.
-Bath Iron Works Corp. v. Director, OWCP (January 12, 1993): retains mandatory scheduled-loss operation; no economic-loss condition is added to that branch.
-Director, OWCP v. Newport News Shipbuilding (March 21, 1995): distinguishes general administrative disagreement from an employer's genuine financial interest; no Director appellate entitlement is enlarged.
+The analogous breadth of fact-correction authority recognized in O'Keeffe v. Aerojet-General Shipyards, Inc., 404 U.S. 254 (1971) does not erase statutory grounds or deadline. Banks v. Chicago Grain Trimmers Assn., Inc., 390 U.S. 459 (1968) applies resistance to restrictions not enacted in the modification text; the mistake ground remains distinct. Potomac Electric Power Co. v. Director, OWCP, 449 U.S. 268 (1980) preserves scheduled/nonscheduled statutory branches. Bath Iron Works Corp. v. Director, OWCP (January 12, 1993) retains mandatory scheduled-loss operation; no economic-loss condition is added to that branch. Director, OWCP v. Newport News Shipbuilding (March 21, 1995) distinguishes general administrative disagreement from an employer's genuine financial interest; no Director appellate entitlement is enlarged.
 
 The employer seeking modification must prove the qualifying earning-capacity change; increased wages are probative but conclusive only insofar as they fairly and reasonably represent capacity under §8(h). Otherwise capacity must be determined with due regard to injury, physical impairment, usual employment, other capacity-affecting circumstances and natural future effects of disability; findings retain statutory substantial-evidence review, and the Ninth Circuit must address preserved arguments it did not reach rather than presume termination.
 
-Justice Kennedy's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt this application/remedy qualification.
+The authority is Justice Kennedy's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt this application/remedy qualification.
 
 The Court holds that an economic definition does not substitute a paycheck for a capacity finding. Section 8(h) first asks whether actual earnings fairly and reasonably represent the injured worker's ability to earn. Its alternative inquiry considers impairment, usual employment, surrounding circumstances and the natural future effects of disability. Greenwich Collieries places persuasion on the proponent absent an enacted exception, so the employer must establish the qualifying change. Here the administrative law judge considered training, several years of crane work, physical demands, work availability, inflation, occupation-specific wage increases and the risks of losing that work. The Board affirmed; the Ninth Circuit instead imposed the categorical physical-change rule and left other arguments unresolved. This is not a record without findings, and the Court does not require a new hearing irrespective of preserved issues. Removing the legal bar returns the case for lawful treatment of the existing findings and remaining arguments. Scheduled benefits, medical entitlement and an unpresented future nominal-award question remain outside this decision.
 
-Director, OWCP v. Greenwich Collieries (June 20, 1994): applies persuasion on the modification proponent without a wage-created burden shift.
-Bath Iron Works and Potomac Electric: retain scheduled compensation as a different branch; this capacity inquiry governs the presented nonscheduled award.
+Director, OWCP v. Greenwich Collieries (June 20, 1994) applies persuasion on the modification proponent without a wage-created burden shift. Bath Iron Works and Potomac Electric retain scheduled compensation as a different branch; this capacity inquiry governs the presented nonscheduled award.
 
-The authorities and their branch-specific treatment appear above. Greenwich Collieries remains the persuasion rule; Newport News remains the distinct appellate-interest rule. No authority establishes a physical-change-only §22 bar for this nonscheduled award after this decision.
+Greenwich Collieries remains the persuasion rule; Newport News remains the distinct appellate-interest rule. No authority establishes a physical-change-only §22 bar for this nonscheduled award after this decision.
 
 A demonstrated economic-capacity change may support timely modification of a nonscheduled award. Proof, realistic §8(h) application and statutory review remain required. Scheduled compensation, medical benefits, an untimely reopening claim, future recurrence and a nominal-award doctrine are not decided. No unrestricted revision of final awards or automatic recovery presumption follows.
 
-Justice Stevens dissents without joiners. He would affirm the Ninth Circuit's physical-change construction of §22. The economic definition explains initial nonscheduled entitlement, but does not overcome more than sixty years of consistent construction of the separate reopening ground and Congress's responsibility to change it. He adopts the statutory-stare-decisis objection reflected in Judge Warriner's Fleetwood dissent. The majority's textual integration and the careful existing capacity findings do not overcome that objection. His position does not dispute the ordinary deadline or authorize reopening outside enacted grounds.
+Justice Stevens dissents without joiners. He would affirm the Ninth Circuit's physical-change construction of §22. The economic definition explains initial nonscheduled entitlement, but does not overcome more than sixty years of consistent construction of the separate reopening ground and Congress's responsibility to change it. He adopts the statutory-stare-decisis objection reflected in Judge Warriner's Fleetwood dissent. The majority's textual integration and the careful existing capacity findings do not overcome his statutory-stare-decisis objection. His position does not dispute the ordinary deadline or authorize reopening outside enacted grounds.
 
-Source support: 33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp.2a–17a, including the administrative law judge, Board and circuit rulings. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.
+**Source Notes:** The governing provisions are 33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i). The Ninth Circuit ruling, 28 F.3d 86, and petition appendix pp. 2a–17a contain the administrative law judge’s, Board’s and circuit’s rulings. The original order was not a §8(i) settlement discharging liability. The decision supplies no future nominal-award doctrine or payment amount.
 
 The case returns to the Ninth Circuit to address arguments not reached and dispose of the administrative decision under the correct statutory construction. Further administrative proceedings occur only if warranted by ordinary preserved issues and applicable review. The Supreme Court does not itself reinstate the termination order, compute compensation, or find complete economic recovery.
 
-**End of entry: Metropolitan Stevedore Co. v. Rambo, merits decision, 1995-06-12.**
+**End of entry: Metropolitan Stevedore Co. v. Rambo, merits decision, June 12, 1995.**
 
 ---
 
 ### Missouri v. Jenkins, No. 93-1823
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
 #### Chronology and Posture
 
-Argued January 11, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Eighth Circuit, reviewing both 11 F.3d 755 and 13 F.3d 1170. The questions concern the challenged instructional and noninstructional salary orders and the continuing quality-education obligation and partial-release standard. Review does not reopen the broader foundation of the magnet remedy, settled liability, the capital plan, voluntary transfers or every earlier funding order.
+Argued January 11, 1995. On writ of certiorari to the United States Court of Appeals for the Eighth Circuit, reviewing both 11 F.3d 755 and 13 F.3d 1170. The questions concern the challenged instructional and noninstructional salary orders and the continuing quality-education obligation and partial-release standard. Review does not reopen the broader foundation of the magnet remedy, settled liability, the capital plan, voluntary transfers or every earlier funding order.
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 Both Eighth Circuit judgments are affirmed, 5–4, on the challenged salary and quality-education components.
 
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Challenged salary orders, both reviewed judgments | Affirm, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Existing orders sustained on independent educational repair and staff necessity |
 | Quality education and denial of partial release | Affirm, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Continuing jurisdiction and present funding preserved; later properly supported release motion remains available |
@@ -410,7 +401,7 @@ No reimbursement, immediate salary clawback, rollback or new taxation is ordered
 
 ##### Violation-linked salary support is permissible on the preserved findings
 
-**Holding and operative rule:** A desegregation court may fund instructional and noninstructional salary support reasonably necessary to deliver educational measures repairing established segregation-caused injury, without treating low salaries as a separate constitutional wrong. These challenged orders are sustained on their independently sufficient intradistrict educational-repair and personnel-necessity findings; incidental voluntary attraction does not negate that ground, and the broader magnet foundation is not reopened.
+**Controlling proposition:** A desegregation court may fund instructional and noninstructional salary support reasonably necessary to deliver educational measures repairing established segregation-caused injury, without treating low salaries as a separate constitutional wrong. These challenged orders are sustained on their independently sufficient intradistrict educational-repair and personnel-necessity findings; incidental voluntary attraction does not negate that ground, and the broader magnet foundation is not reopened.
 
 **Authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices adopt this holding and affirm both reviewed salary judgments.
 
@@ -420,13 +411,13 @@ No reimbursement, immediate salary clawback, rollback or new taxation is ordered
 
 ##### Partial release requires the complete Freeman showing
 
-**Holding and operative rule:** Partial withdrawal may occur only after the defendant seeking release proves full and satisfactory compliance and practicable elimination of the relevant vestiges, whole-decree good faith shown by conduct, and the necessary causal and remedial connections; retained control necessary or practicable for compliance elsewhere and nonobstruction of remaining relief must be assessed. Missouri’s proof of installing programs does not make that complete showing, so continued funding and denial of partial release are affirmed; low scores alone establish neither continuing constitutional injury nor completed compliance, and national parity is not an indispensable release condition.
+**Controlling proposition:** Partial withdrawal may occur only after the defendant seeking release proves full and satisfactory compliance and practicable elimination of the relevant vestiges, whole-decree good faith shown by conduct, and the necessary causal and remedial connections; retained control necessary or practicable for compliance elsewhere and nonobstruction of remaining relief must be assessed. Missouri’s proof of installing programs does not make that complete showing, so continued funding and denial of partial release are affirmed; low scores alone establish neither continuing constitutional injury nor completed compliance, and national parity is not an indispensable release condition.
 
 **Authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices adopt the complete existing Freeman rule and its present-record application.
 
 **Controlling explanation:** The Court holds that Missouri did not establish entitlement to the requested partial release. Dowell identifies the temporary purpose of desegregation relief, and the Court's Freeman decision permits withdrawal in stages only on its complete showing. Installing programs and spending funds do not alone prove practicable elimination of the effects those measures repair. Missouri's submission also did not establish its own whole-decree good faith, the remaining remedial connections or causal independence. Achievement evidence can illuminate those questions, but below-national scores are neither an automatic finding of constitutional injury nor a command to continue every beneficial program permanently. The contrary argument assumes that implementation itself ends the obligation; it omits the effects and connections Freeman requires. Conversely, the Court does not adopt maximum educational potential or satisfaction of every program goal as the constitutional standard. A later motion remains available on proper evidence. Existing findings receive clear-error review, and a finding on one issue cannot resolve unexamined causal or remedial relationships. No additional consensus, reviewer endorsement or changed-circumstances requirement is imposed.
 
-**Precedent treatment:** Freeman v. Pitts, 503 U.S. 467, is applied at the completed Court decision’s operative scope: permission, release and causal burdens, whole-decree conduct, retained control and nonobstruction. Dowell is applied to temporary relief and dissolution. Rufo retains its consent-modification scope and supplies no changed-circumstances condition for fulfilled school obligations.
+**Precedent treatment:** Freeman v. Pitts, 503 U.S. 467, is applied at its operative scope: permission, release and causal burdens, whole-decree conduct, retained control and nonobstruction. Dowell is applied to temporary relief and dissolution. Rufo retains its consent-modification scope and supplies no changed-circumstances condition for fulfilled school obligations.
 
 The State and district’s respective responsibilities must be assessed separately; one defendant’s conduct does not establish the other’s compliance. The defendant bears the release showing and the showing that imbalance for which it disclaims responsibility is not traceable to the violation. Genuinely independent demographic change imposes no perpetual balancing duty once the required work is completed. Racial imbalance alone proves neither liability nor completed remedy. Partial release may, rather than must, follow a satisfactory showing. The court must examine whether retaining control is necessary or practicable for compliance elsewhere, avoid obstructing remaining relief, and define released duties, remaining obligations and retained supervision. Existing factual findings receive clear-error review; findings on one issue do not decide unexamined connections. There is no all-components-at-once restriction or good-intentions substitute.
 
@@ -448,23 +439,23 @@ Justice O’Connor dissents, joined by Scalia, Kennedy and Thomas. They would re
 
 #### Source Notes
 
-[11 F.3d 755](https://openjurist.org/11/f3d/755) and [13 F.3d 1170](https://openjurist.org/13/f3d/1170) supply the reviewed orders. The [93-1823 records and briefs](https://archive.org/details/micro_IA40385013_0512) contain the petition appendix and three joint-appendix volumes: salary necessity and review distinctions at petition A21–35 and A76–109; contextual education orders at A122–143; injury findings at JA23, 58 and 126; and the distinction between internal numerical goals and court requirements at JA412–413. No universal judicial numerical-parity condition is attributed. The settled liability and remedial findings are not new appellate factfinding.
+[11 F.3d 755](https://openjurist.org/11/f3d/755) and [13 F.3d 1170](https://openjurist.org/13/f3d/1170) supply the reviewed orders. The [93-1823 records and briefs](https://archive.org/details/micro_IA40385013_0512) contain the petition appendix and three joint-appendix volumes: salary necessity and review distinctions at petition A21–35 and A76–109; contextual education orders at A122–143; injury findings at JA23, 58 and 126; and the distinction between internal numerical goals and court requirements at JA412–413. These materials establish no universal judicial numerical-parity condition. The settled liability and remedial findings are not new appellate factfinding.
 
 #### Mandate, Remedy, and Stage
 
 The Eighth Circuit judgments remain in force and the district court retains remedial jurisdiction under the existing orders. Missouri may seek partial or full release on a proper motion with the complete governing showing. Further changes require their own legal and factual basis. No new supervisory arrangement is ordered and no mandatory next release date is set.
 
-**End of entry: Missouri v. Jenkins, merits decision, 1995-06-12.**
+**End of entry: Missouri v. Jenkins, merits decision, June 12, 1995.**
 
 ---
 
 ### Ryder v. United States, No. 94-431
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
-Argued April 18, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Military Appeals, which recognized the invalid civilian appointments but affirmed under the de facto officer doctrine. The question is whether that doctrine validates the military appellate judgment despite Ryder’s timely direct Appointments Clause objection.
+Argued April 18, 1995. On writ of certiorari to the United States Court of Military Appeals, which recognized the invalid civilian appointments but affirmed under the de facto officer doctrine. The question is whether that doctrine validates the military appellate judgment despite Ryder’s timely direct Appointments Clause objection.
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 The judgment is reversed and the case remanded, 9–0.
 
@@ -474,15 +465,15 @@ Ginsburg delivers the opinion of the Court, joined in full by Stone-Zsela, Steve
 
 A litigant who timely challenges a substantial constitutional defect in the appointments of officers adjudicating his own case and pursues that objection on direct review is entitled to a fresh adjudication by lawfully appointed officers; the de facto officer doctrine cannot validate the defective panel’s judgment against him. Ryder must receive new Article 66 review by a properly appointed military appellate panel, without automatic dismissal or reversal of his trial conviction.
 
-Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; nine Justices adopt this bounded rule and remedy.
+The authority is Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; nine Justices adopt this bounded rule and remedy.
 
 The Court holds that Ryder's timely challenge requires meaningful relief. Buckley identifies constitutional appointment routes but its treatment of past civil acts does not make every direct challenger remedyless. Glidden distinguishes substantial constitutional qualifications for adjudicators from technical assignments, and Freytag preserves appointment accountability. Two civilian judges deciding Ryder's appeal lacked lawful appointments, and he objected before their judgment became final. Ball, McDowell and Ward concerned different collateral or statutory-assignment settings; their continuity rationale cannot answer this preserved constitutional challenge to his own tribunal. A new military appellate hearing protects both lawful authority and institutional continuity without adjudicating drug guilt anew or dismissing the trial judgment. Weiss's treatment of germane assignments for commissioned officers leaves these civilian appointments open. The Court does not prescribe general collateral reopening, invalidate ministerial acts, decide the rights of litigants who failed to use an available challenge channel, or resolve every possible officers-and-departments classification. Its remedy is limited to the lawful review Ryder was denied.
 
-Buckley v. Valeo is distinguished as a universal de facto remedial defense. Glidden Co. v. Zdanok and Freytag are applied to substantial constitutional adjudicator qualifications. Ball v. United States, McDowell v. United States and Ex parte Ward are distinguished by collateral or technical-assignment settings. The completed Weiss decision retains its commissioned-officer/germane-assignment scope and leaves civilian appointments open.
+Buckley v. Valeo is distinguished as a universal de facto remedial defense. Glidden Co. v. Zdanok and Freytag are applied to substantial constitutional adjudicator qualifications. Ball v. United States, McDowell v. United States and Ex parte Ward are distinguished by collateral or technical-assignment settings. Weiss retains its commissioned-officer/germane-assignment scope and leaves civilian appointments open.
 
 A valid Article 67 review does not cure the defective Article 66 proceeding here because it does not provide Article 66’s factual weighing, credibility determinations, contested-fact resolution and sentence review. The Government’s general harmless-error argument was not raised below and no lower finding establishes no harm; whether this type of defect can ever undergo harmless-error review or be cured in another appellate structure remains undecided.
 
-Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; all nine adopt this case-specific rejection of cure and preserved-argument limit.
+The authority is Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; all nine adopt this case-specific rejection of cure and preserved-argument limit.
 
 The Court holds that Ryder has not already received the lawful review the Constitution requires in this case. Article 66 gives the intermediate court authority to weigh facts, judge credibility, determine controverted facts and review the sentence. Article 67's narrower review does not reproduce all those opportunities. The presence of a valid higher court therefore does not establish that the defective intermediate judgment made no difference. The Government's general harmless-error contention was not presented below, and no lower determination supplies the asserted absence of harm. The Court declines to decide the categorical availability of harmless-error analysis on that undeveloped basis. Leon's deterrence balance for excluding evidence addresses a different remedy and does not justify withholding this lawful appellate adjudication. Qualified immunity similarly concerns personal damages rather than the authority of the direct-review tribunal. A fresh Article 66 proceeding repairs the identified denial while leaving the underlying charges and sentence for that court's proper review. The possibility of cure through a materially different appellate structure remains open.
 
@@ -492,75 +483,71 @@ The holdings state the treatment of Buckley, Glidden, Freytag, Ball, McDowell, W
 
 A timely direct substantial constitutional appointment challenge obtains actual lawful adjudication. Article 67 did not replace the unavailable lawful Article 66 opportunities here. General harmless-error availability, materially different appellate cure, defaulted and collateral judgments, ministerial acts and underlying trial merits remain open.
 
-Source support: The conceded defect, timely objection and military review framework appear in the [94-431 records and briefs](https://archive.org/details/micro_IA40386012_0394). The Department of Transportation General Counsel also served as Coast Guard Judge Advocate General; those descriptions are not conflicting appointing identities. Article 66 and Article 67 have distinct review powers. No lower no-harm finding or preserved general harmless-error claim is supplied.
+**Source Notes:** The conceded defect, timely objection and military review framework appear in the [94-431 records and briefs](https://archive.org/details/micro_IA40386012_0394). The Department of Transportation General Counsel also served as Coast Guard Judge Advocate General; those descriptions are not conflicting appointing identities. Article 66 and Article 67 have distinct review powers. There is no lower no-harm finding or preserved general harmless-error claim.
 
 The military appellate system must provide a fresh Article 66 review before properly appointed judges. The conviction is not automatically dismissed; merits and sentence review continue through the lawful military appellate channel.
 
-**End of entry: Ryder v. United States, merits decision, 1995-06-12.**
+**End of entry: Ryder v. United States, merits decision, June 12, 1995.**
 
 ---
 
-### Wilton v. Seven Falls Co.
+### Wilton v. Seven Falls Co., No. 94-562
 
-Merits decision, 1995-06-12
+Merits decision, June 12, 1995
 
-Argued March 27, 1995; decided June 12, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, which affirmed the June 30, 1993 stay on June 29, 1994. The question is whether Brillhart or Colorado River governs the stay of the insurers' declaration-only coverage suit in favor of adequate parallel state litigation, and the appropriate appellate review. Insurers first filed in December 1992, dismissed, and refiled in February 1993; insureds filed the state action in March 1993.
+Argued March 27, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, which affirmed the June 30, 1993 stay on June 29, 1994. The question is whether Brillhart or Colorado River governs the stay of the insurers' declaration-only coverage suit in favor of adequate parallel state litigation, and the appropriate appellate review. Insurers first filed in December 1992, dismissed, and refiled in February 1993; insureds filed the state action in March 1993.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate at argument and decision. Justice Breyer takes no part; no reason is publicly identified.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. Justice Breyer took no part.
 
 The Fifth Circuit judgment affirming the stay is affirmed, 8–0.
 
-Stay component: affirm 8–0. Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg. No opposing Justice. The federal declaration remains stayed; no dismissal with prejudice or coverage declaration issues.
+Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg unanimously affirm the stay. The federal declaration remains stayed; no dismissal with prejudice or coverage declaration issues.
 
 Justice O'Connor writes the opinion of the Court, joined completely by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg. No separate writing is published.
 
 In a declaration-only state-law coverage action with adequate parallel state proceedings, §2201 and Brillhart permit a reasoned stay without Colorado River's exceptional-circumstances showing. The court must consider the state case's scope, defenses, interested and necessary parties and amenability to process; it retains federal jurisdiction and may resume if the state case fails to resolve the controversy.
 
-Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; all eight participants adopt the rule.
+The authority is Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; all eight participants adopt the rule.
 
 The Court holds that Congress made the declaration a discretionary remedy. Section 2201 authorizes a court to declare rights; it does not oblige a declaration whenever ordinary jurisdiction exists. Brillhart gives effect to that choice by requiring attention to whether parallel state litigation can satisfactorily resolve the controversy. Here the Travis County proceeding includes the insurers, permits the coverage defenses and counterclaims, and encompasses the same state-law dispute. The District Court could therefore avoid duplicative adjudication while retaining the federal case. Colorado River's exceptional-circumstances standard addresses a different duty to adjudicate ordinary coercive claims and does not silently replace the declaratory statute. The insurers' earlier federal filing does not make the remedy obligatory, and the subsequent filing sequence supplies no automatic state priority. A stay also protects against needless loss of a forum if the state action proves inadequate. The Court decides neither coverage liability nor any breach of the advance-notice agreement.
 
-Brillhart v. Excess Insurance Co., 316 U.S. 491 (1942): retained and applied to adequate parallel adjudication of a declaration-only state-law dispute.
-Colorado River Water Conservation District v. United States, 424 U.S. 800 (1976): distinguished at the source of adjudicative obligation; its exceptional-circumstances rule remains in its distinct setting.
-Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983): preserves appealability of the effectively deferring stay; finality does not determine the source of remedial discretion.
-Ankenbrandt v. Richards (June 15, 1992): preserves ordinary diversity tort jurisdiction; this discretionary declaration supplies no general abstention license.
+Brillhart v. Excess Insurance Co., 316 U.S. 491 (1942) is retained and applied to adequate parallel adjudication of a declaration-only state-law dispute. Colorado River Water Conservation District v. United States, 424 U.S. 800 (1976) is distinguished at the source of adjudicative obligation; its exceptional-circumstances rule remains in its distinct setting. Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983) preserves appealability of the effectively deferring stay; finality does not determine the source of remedial discretion. Ankenbrandt v. Richards (June 15, 1992) preserves ordinary diversity tort jurisdiction; this discretionary declaration supplies no general abstention license.
 
 A district court's lawful exercise of §2201 discretion to stay this declaratory action is reviewed for abuse of discretion. That deference does not insulate an error about the legal source of discretion or an unsupported assessment of the actual scope and adequacy of the parallel state proceeding.
 
-Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices adopt this separate review rule.
+The authority is Justice O'Connor's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices adopt this separate review rule.
 
 The Court holds that the choice within lawful declaratory discretion receives abuse-of-discretion review. Brillhart requires a practical appraisal of the state proceeding rather than a mechanical rule triggered by the existence of another suit. The District Court is positioned to consider the controversy, available defenses and parties and whether the parallel case can provide satisfactory resolution. That institutional advantage supports deference to its reasoned choice, not immunity from review. The Fifth Circuit correctly identified the Declaratory Judgment Act as the source of discretion and sustained the actual adequacy findings. The insurers' demand for Colorado River's exceptional-circumstances test would change the statutory remedy into an obligation before review begins. Conversely, a court may not invoke discretion to ignore a legal limit, an absent necessary party or an inadequate state forum. The existing findings support this stay; they do not require every similar action to be stayed or every factor to carry an assigned weight.
 
-Brillhart v. Excess Insurance Co.: applied as a reasoned discretionary appraisal, not an exclusive numerical factor test.
-Colorado River and Moses H. Cone: distinguished from the review of this statutory remedial choice without weakening correction of legal-source errors.
+Brillhart v. Excess Insurance Co. is applied as a reasoned discretionary appraisal, not an exclusive numerical factor test. Colorado River and Moses H. Cone are distinguished from the review of this statutory remedial choice without weakening correction of legal-source errors.
 
 Brillhart governs; Colorado River is distinguished in its coercive-action setting. Cone's finality rule and Ankenbrandt's jurisdictional boundaries remain. No precedent is overruled.
 
-The two rules above control this adequate parallel, declaration-only state-law setting. Federal jurisdiction is retained. Federal substantive declaratory questions, independent coercive claims and cases without parallel proceedings remain unadjudicated. No automatic abstention, first-filed rule, unreviewable discretion or obligatory stay follows.
+These two rules control this adequate parallel, declaration-only state-law setting. Federal jurisdiction is retained. Federal substantive declaratory questions, independent coercive claims and cases without parallel proceedings remain unadjudicated. No automatic abstention, first-filed rule, unreviewable discretion or obligatory stay follows.
 
-Source support: 28 U.S.C. §2201; Brillhart, Colorado River and Moses H. Cone; petition appendices A1–A4 and B1–B4, establish lower rulings, June 30, 1993 stay and state adequacy findings. The filing sequence and notice agreement do not establish breach or automatic priority. The litigation record is not certified as reviewed in full. No verified decisional quotation is used.
+**Source Notes:** 28 U.S.C. §2201, Brillhart, Colorado River and Moses H. Cone supply the legal framework. Petition appendices A1–A4 and B1–B4 establish the lower rulings, June 30, 1993 stay and state adequacy findings. The filing sequence and notice agreement establish neither breach nor automatic priority.
 
 The federal case remains stayed while the adequate Travis County coverage proceeding runs its course. The District Court may resume if that proceeding fails to resolve the controversy. Coverage merits remain for lawful proceedings; no new finding about the underlying insured conduct or a coverage obligation is made.
 
-**End of entry: Wilton v. Seven Falls Co., merits decision, 1995-06-12.**
+**End of entry: Wilton v. Seven Falls Co., merits decision, June 12, 1995.**
 
 ---
 
 ### Chandris, Inc. v. Latsis, No. 94-325
 
-Merits decision, 1995-06-14
+Merits decision, June 14, 1995
 
 #### Chronology and Posture
 
-Argued February 21, 1995; decided June 14, 1995. On writ of certiorari to the Second Circuit, Latsis v. Chandris, Inc., 20 F.3d 45 (Mar. 24, 1994), which ordered retrial after a status-only verdict and June 17, 1993 final judgment. The questions concern the employment connection needed to assess the drydock instruction and whether all Galileo drydock time could categorically be excluded. The preserved specific objection suffices; broader Rule 51 objections are not automatically reopened.
+Argued February 21, 1995. On writ of certiorari to the Second Circuit, Latsis v. Chandris, Inc., 20 F.3d 45 (Mar. 24, 1994), which ordered retrial after a status-only verdict and June 17, 1993 final judgment. The questions concern the employment connection needed to assess the drydock instruction and whether all Galileo drydock time could categorically be excluded. The preserved specific objection suffices; broader Rule 51 objections are not automatically reopened.
 
-All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No nonparticipant is established.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 The Second Circuit judgment requiring a new trial is affirmed, 9–0.
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Judgment requiring new trial on seaman status | Affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | New trial under lawful status instructions; liability and damages remain conditional |
 
@@ -625,31 +612,31 @@ Stevens, joined by Thomas and Breyer, would identify a worker serving as part of
 
 #### Source Notes
 
-Public factual support: Second Circuit majority and Kearse dissent, petition appendix A1–A33, and status-only verdict/final judgment A34–A36 in the [Archive docket collection](https://archive.org/details/micro_IA40385013_0554); petitioner pp. 20–31 and respondent pp. 2–13 supply the competing positions. The substantial six-month conversion and competing work estimates remain distinct from findings about navigation or status. Mission contribution was stipulated; the connection was not. No verbatim grant order is supplied.
+The Second Circuit majority and Kearse dissent, petition appendix A1–A33, and status-only verdict and final judgment A34–A36 appear in the [Archive docket collection](https://archive.org/details/micro_IA40385013_0554); petitioner’s brief pp. 20–31 and respondent’s brief pp. 2–13 supply the competing positions. The substantial six-month conversion and competing work estimates remain distinct from findings about navigation or status. Mission contribution was stipulated; the connection was not. The review questions are stated without a quotation from the grant order, and the decision does not resolve every unpreserved objection.
 
 #### Mandate, Remedy, and Stage
 
-The district court conducts a new trial under lawful employment-connection instructions, without excluding all drydock work for every purpose on this record. The factfinder determines genuinely disputed navigation and assignment facts; negligence and damages are reached only if status and the other statutory elements are established. No seaman finding, injury liability or damages award is entered. Trial proceedings resume.
+The district court conducts a new trial under lawful employment-connection instructions, without excluding all drydock work for every purpose on this record. The factfinder determines genuinely disputed navigation and assignment facts; negligence and damages are reached only if status and the other statutory elements are established. No seaman finding, injury liability or damages award is entered. The proceedings on the merits in this Court are complete; trial proceedings resume.
 
-**End of entry: Chandris, Inc. v. Latsis, merits decision, 1995-06-14.**
+**End of entry: Chandris, Inc. v. Latsis, merits decision, June 14, 1995.**
 
 ---
 
 ### Commissioner v. Schleier, No. 94-500
 
-Merits decision, 1995-06-14
+Merits decision, June 14, 1995
 
 #### Chronology and Posture
 
-Argued March 27, 1995; decided June 14, 1995. On writ of certiorari to the Fifth Circuit, which affirmed the Tax Court's exclusion of the settlement. The question is whether ADEA backpay and liquidated damages are excluded under the applicable § 104(a)(2). Schleier included backpay but omitted liquidated damages on his 1986 return, then contested the deficiency and sought recovery of tax paid on backpay.
+Argued March 27, 1995. On writ of certiorari to the Fifth Circuit, which affirmed the Tax Court's exclusion of the settlement. The question is whether ADEA backpay and liquidated damages are excluded under the applicable § 104(a)(2). Schleier included backpay but omitted liquidated damages on his 1986 return, then contested the deficiency and sought recovery of tax paid on backpay.
 
-All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No nonparticipant is established.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 The Fifth Circuit judgment excluding the ADEA backpay and liquidated damages is reversed, 6–3, and the case is remanded for lawful tax treatment.
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Backpay exclusion | Reverse, 6–3 | Stone-Zsela, Stevens, Scalia, Kennedy, Ginsburg, Breyer | O'Connor, Souter, Thomas | Include under lawful tax computation |
 | Liquidated-damages exclusion | Reverse, 6–3 | Stone-Zsela, Stevens, Scalia, Kennedy, Ginsburg, Breyer | O'Connor, Souter, Thomas | Include under lawful tax computation |
@@ -659,7 +646,7 @@ The Fifth Circuit judgment excluding the ADEA backpay and liquidated damages is 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Stevens | Stone-Zsela, Kennedy, Ginsburg, Breyer | Reverse both exclusions | Independent causal requirement and both applications; tort-type status assumed |
-| Judgment concurrence without separate opinion | Scalia | No other Justice | Reverse both exclusions | Judgment only; no Court-rationale join |
+| Judgment concurrence without separate opinion | Scalia | No joins | Reverse both exclusions | Judgment only; no Court-rationale join |
 | Dissent | O'Connor | Thomas; Souter in the regulatory-construction discussion only | Affirm both exclusions | Thomas joins personal-right and regulatory grounds; Souter joins only regulatory ground |
 
 #### Controlling Propositions and Authority
@@ -684,39 +671,39 @@ The Fifth Circuit judgment excluding the ADEA backpay and liquidated damages is 
 
 Burke supplies its bounded fractured judgment, not a controlling general remedial-menu rule. Thurston and Hazen Paper determine the ADEA multiplier's purpose and trigger; Missel's FLSA rule remains distinct. McKennon governs liability and remedies, not this exclusion.
 
-Both components are included under ordinary allocation and computation rules. This return-year statute concerns personal injuries or sickness, under the applicable return-year text. Its prior-§ 213-deduction exception remains. The Court assumes tort-type rights and decides no categorical ADEA classification, physical/mental-health-only test, general punitive-damages rule or distinct state/common-law settlement allocation. Damages genuinely compensating qualifying physical, medical or emotional injury on another adequate statutory and factual record are not decided.
+Both components are included under ordinary allocation and computation rules. The statute governing this return concerns personal injuries or sickness. Its prior-§ 213-deduction exception remains. The Court assumes tort-type rights and decides no categorical ADEA classification, physical/mental-health-only test, general punitive-damages rule or distinct state/common-law settlement allocation. Damages genuinely compensating qualifying physical, medical or emotional injury on another adequate statutory and factual record are not decided.
 
 #### Separate Positions Relevant to the Decision
 
-O'Connor, joined by Thomas, treats age discrimination as an invasion of a personal statutory right and regards the wage remedy as causally connected to that wrong. The use of earnings as a measure does not, in her view, destroy the traditional tort analogy. Her regulatory discussion, joined also by Souter, accepts the reasonable longstanding regulation as defining the ambiguous exclusion rather than adding a separate arbitrary condition. Souter does not join the personal-right discussion merely by joining this regulatory objection. They would affirm exclusion of both allocated components. Scalia concurs in the judgment without a separate opinion; no new public explanation is attributed to that notation.
+O'Connor, joined by Thomas, treats age discrimination as an invasion of a personal statutory right and regards the wage remedy as causally connected to that wrong. The use of earnings as a measure does not, in her view, destroy the traditional tort analogy. Her regulatory discussion, joined also by Souter, accepts the reasonable longstanding regulation as defining the ambiguous exclusion rather than adding a separate arbitrary condition. Souter does not join the personal-right discussion merely by joining this regulatory objection. They would affirm exclusion of both allocated components. Scalia concurs in the judgment without a separate opinion.
 
 #### Source Notes
 
-The return and settlement posture is supported by the lower proceedings and the opposing merits briefs in the [Archive docket collection](https://archive.org/details/micro_IA40385013_0559), including respondent pp. 1–3 and Commissioner pp. 5–10. The settlement release mentions state and common-law claims, but that wording establishes no separate compensatory allocation beyond the identified ADEA components. Public legal support is the applicable § 104(a)(2), Treasury Regulation § 1.104-1(c), and the date-eligible authorities identified above. 
+The return and settlement posture is supported by the lower proceedings and the opposing merits briefs in the [Archive docket collection](https://archive.org/details/micro_IA40385013_0559), including respondent’s brief pp. 1–3 and the Commissioner’s brief pp. 5–10. The respondent’s release mentions state and common-law claims, but that wording establishes no separate compensatory allocation beyond the identified ADEA components. The governing legal sources are the applicable §104(a)(2), Treasury Regulation §1.104-1(c), and the authorities discussed above.
 
 #### Mandate, Remedy, and Stage
 
-Remand for any necessary allocation and tax calculation consistent with inclusion of the identified ADEA components. No exact deficiency, refund, withholding amount or new settlement valuation is ordered. Lawful tax implementation remains.
+Remand for any necessary allocation and tax calculation consistent with inclusion of the identified ADEA components. No exact deficiency, refund, withholding amount or new settlement valuation is ordered. The proceedings on the merits in this Court are complete; lawful tax implementation remains.
 
-**End of entry: Commissioner v. Schleier, merits decision, 1995-06-14.**
+**End of entry: Commissioner v. Schleier, merits decision, June 14, 1995.**
 
 ---
 
 ### Witte v. United States, No. 94-6187
 
-Merits decision, 1995-06-14
+Merits decision, June 14, 1995
 
 #### Chronology and Posture
 
-Argued April 17, 1995; decided June 14, 1995. On writ of certiorari to the Fifth Circuit, United States v. Wittie, 25 F.3d 250 (June 23, 1994), after its authorized Government appeal reversed pretrial dismissal of a cocaine indictment. The questions are whether cocaine relevant conduct in the prior marijuana sentence constitutes earlier cocaine punishment and whether possible sentence overlap requires dismissal now.
+Argued April 17, 1995. On writ of certiorari to the Fifth Circuit, United States v. Wittie, 25 F.3d 250 (June 23, 1994), after its authorized Government appeal reversed pretrial dismissal of a cocaine indictment. The questions are whether cocaine relevant conduct in the prior marijuana sentence constitutes earlier cocaine punishment and whether possible sentence overlap requires dismissal now.
 
-All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No nonparticipant is established.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
 The Fifth Circuit judgment permitting the cocaine prosecution is affirmed, 8–1.
 
-| Component | Disposition | Supporting Justices | Opposing Justices | Remedy |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Double Jeopardy dismissal of cocaine indictment | Affirm Fifth Circuit reversal, 8–1 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens | Cocaine prosecution may proceed; no guilt or sentence found |
 
@@ -727,7 +714,7 @@ The Fifth Circuit judgment permitting the cocaine prosecution is affirmed, 8–1
 | Opinion of the Court: constitutional characterization | O'Connor | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Allow prosecution | No prior cocaine punishment/prosecution; retained Grady and bounded sentencing authority |
 | Opinion of the Court: conditional coordination | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Governs future lawful sentencing conditions, not guilt | Conditional coordination only; Stevens retains prosecution-bar dissent |
 | Concurrence in the judgment | Scalia | Thomas | Allow prosecution | Distinct-prosecution ground only, not Court's multiple-punishment characterization |
-| Dissent | Stevens | No other Justice | Restore barred cocaine dismissal | Actual punitive effect; joins conditional coordination discussion but regards it as no cure for prosecution bar |
+| Dissent | Stevens | No joins | Restore barred cocaine dismissal | Actual punitive effect; joins conditional coordination discussion but regards it as no cure for prosecution bar |
 
 #### Controlling Propositions and Authority
 
@@ -774,12 +761,12 @@ Scalia, joined by Thomas, concurs in the judgment because the distinct cocaine o
 
 #### Source Notes
 
-Public factual support: substantive joint-appendix pp. 9–166 and full Fifth Circuit opinion at JA137–166 in the [Archive docket collection](https://archive.org/details/micro_IA40386012_2001). JA9–15, 38–39, 74–81 establish the amended Count Two marijuana-attempt plea, July 10, 1992 sentence, statutory range and departure. JA82–83 identify the distinct 1989–1990 cocaine counts. The lower appellate opinion independently rejected the plea claim and offered alternative successive-sentencing reasoning, which the Court need not adopt. The coordination arithmetic there is illustrative. No unverified drug quantity, future sentencing outcome, grant quotation or Supreme Court procedural action is supplied.
+Substantive joint-appendix pp. 9–166 and the Fifth Circuit opinion at JA137–166 appear in the [Archive docket collection](https://archive.org/details/micro_IA40386012_2001). JA9–15, 38–39, 74–81 establish the amended Count Two marijuana-attempt plea, July 10, 1992 sentence, statutory range and departure. JA82–83 identify the distinct 1989–1990 cocaine counts. The lower appellate opinion independently rejected the plea claim and offered alternative successive-sentencing reasoning, which the Court need not adopt. Its coordination arithmetic is illustrative; it establishes no future sentencing outcome.
 
 #### Mandate, Remedy, and Stage
 
-Proceed on the cocaine-importation conspiracy and aiding-and-abetting attempted-importation indictment under ordinary criminal procedure, proof beyond reasonable doubt and defenses. No cocaine conviction, sentence, concurrent credit or repeated assistance departure is ordered. Any future sentence requires actual conviction, the then-effective Guidelines, an actual undischarged term and relevant-conduct calculation. The prior marijuana-attempt judgment remains intact. Indictment proceedings resume.
+Proceed on the cocaine-importation conspiracy and aiding-and-abetting attempted-importation indictment under ordinary criminal procedure, proof beyond reasonable doubt and defenses. No cocaine conviction, sentence, concurrent credit or repeated assistance departure is ordered. Any future sentence requires actual conviction, the then-effective Guidelines, an actual undischarged term and relevant-conduct calculation. The prior marijuana-attempt judgment remains intact. The proceedings on the merits in this Court are complete; indictment proceedings resume.
 
-**End of entry: Witte v. United States, merits decision, 1995-06-14.**
+**End of entry: Witte v. United States, merits decision, June 14, 1995.**
 
 ---

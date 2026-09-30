@@ -173,7 +173,7 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 
 ## Institutional setting and intake limits
 
-The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](continuity.md#5-current-procedure-and-institution) and [neutral projection](neutral-projection.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
+The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](OT_1994CHUNK1_OPENING_CONTINUITY.md#5-current-procedure-and-institution) and [neutral projection](OT_1994CHUNK1_OPENING_NEUTRAL_PROJECTION.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
 
 ### Matter-specific limits retained at opening
 

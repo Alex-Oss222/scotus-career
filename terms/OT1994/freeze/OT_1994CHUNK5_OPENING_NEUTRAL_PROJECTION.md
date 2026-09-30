@@ -10,7 +10,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 48 inventory events are completed; 51 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition are preserved as Admitted Source Records; they are not additional Court judgments.
+The [manifest](OT_1994CHUNK5_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 48 inventory events are completed; 51 remain unadjudicated. Nebraska v. Wyoming is inventory matter 68 and is not duplicated. No carryover is closed. The March 10 Vaccine Table transition and April 4 Plant Variety Protection Act transition are preserved as Admitted Source Records; they are not additional Court judgments.
 
 The next scheduled inventory events are **Stone v. Immigration and Naturalization Service, Kyles v. Whitley, and Rubin v. Coors Brewing Co., April 19, 1995, chunk 5**. They retain the common pre-April-19 baseline. File-preservation order creates no release sequence.
 

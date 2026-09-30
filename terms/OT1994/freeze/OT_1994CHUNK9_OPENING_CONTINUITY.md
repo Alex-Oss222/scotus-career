@@ -8,7 +8,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 96 inventory events are completed; three remain unadjudicated. Nebraska remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
+The [manifest](OT_1994CHUNK9_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 96 inventory events are completed; three remain unadjudicated. Nebraska remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
 The next scheduled unresolved inventory event after chunk 8 is **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson, 1995-06-29, OT_1994CHUNK9**. The June 29 peer group shares entering law effective before June 29 absent an established coordinated release sequence.
 
@@ -117,7 +117,7 @@ The next scheduled unresolved inventory event after chunk 8 is **Miller v. Johns
 | 1995-06-26 | [Vernonia School District 47J v. Acton; No. 94-590.](../records/Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md) | Ninth Circuit judgment vacated and remanded, 5–4; federal interscholastic-athlete policy sustained, independent Oregon question reserved. |
 | 1995-06-29 | [Babbitt v. Sweet Home Chapter of Communities for a Great Oregon, No. 94-859](../records/Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md) | 7–2; reverse the facial invalidation and remand. |
 | 1995-06-29 | [Rosenberger v. Rector and Visitors of the University of Virginia; No. 94-329](../records/Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md) | Fourth Circuit reversed and remanded, 5–4; religious-viewpoint exclusion removed from the printing benefit on otherwise lawful terms. |
-The [ledger](ledger.md) indexes the durable Records.
+The [ledger](../workspace/ledger.md) indexes the durable Records.
 
 ## 3. Current Law
 
@@ -5707,7 +5707,7 @@ The neutral packets identify the following exclusions. They report no reason; no
 
 ### Dependencies
 
-The [manifest dependency table](manifest.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
+The [manifest dependency table](OT_1994CHUNK9_OPENING_MANIFEST.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
 
 ### Procedure following completed events
 

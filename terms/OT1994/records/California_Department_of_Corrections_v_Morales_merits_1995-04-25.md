@@ -1,7 +1,7 @@
 **Case and dockets:** California Department of Corrections v. Morales, No. 93-1462.
 **Event and date:** Merits decision, 1995-04-25; argued 1995-01-09; October Term 1994, chunk 5.
 **Result:** Affirmed, 5–4, on the ex post facto hearing-frequency claim; offense-date annual consideration preserved, without an order granting parole.
-**Version / lineage:** User-authorized replacement of the prior completed Morales record, which reversed and remanded 5–4 without a controlling constitutional rationale. Re-adjudicated from scratch under the current USER-DIRECTED REVISED POSITION in chunk 5 Section II and binding Cavanaugh. Only Morales is replaced in place. Operator verification and Git commitment remain pending; no Git command or verified commit hash is claimed.
+**Version / lineage:** User-authorized replacement committed at d086219b424d812aaa837fda9533629c69e33833; supersedes the prior 5–4 reversal and remand without a controlling constitutional rationale.
 
 ## Event, posture and source-grounded record
 

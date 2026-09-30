@@ -17,7 +17,7 @@ The lower majority used both individual and collective materiality language; the
 
 ## Participation and entering law
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. The Court reaches the admitted conviction-level Brady claim in federal habeas review. Bagley supplies reasonable-probability materiality; actual Williams concerns its separate grand-jury setting. Actual Brecht retains Chapman for the specified preserved Doyle claim, and O’Neal extends that rule only to its specified preserved personal-intent instructional/argument category. Neither creates a universal habeas harmlessness rule or supplants a claim-defining prejudice element. Schlup governs a distinct gateway. The [A slice](../entering-law/OT_1994CHUNK5_A.md), [validation supplement](../entering-law/OT_1994CHUNK5_A_VALIDATION_SUPPLEMENT.md), and frozen packet were reviewed. All April 19 peers share the pre-April-19 baseline and do not supply entering law to this case.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. The Court reaches the admitted conviction-level Brady claim in federal habeas review. Bagley supplies reasonable-probability materiality; actual Williams concerns its separate grand-jury setting. Actual Brecht retains Chapman for the specified preserved Doyle claim, and O’Neal extends that rule only to its specified preserved personal-intent instructional/argument category. Neither creates a universal habeas harmlessness rule or supplants a claim-defining prejudice element. Schlup governs a distinct gateway. The [A slice](../../entering-law/OT_1994CHUNK5_A.md), [validation supplement](../../entering-law/OT_1994CHUNK5_A_VALIDATION_SUPPLEMENT.md), and frozen packet were reviewed. All April 19 peers share the pre-April-19 baseline and do not supply entering law to this case.
 
 ## Stone: approved position and final compatibility
 
@@ -118,7 +118,7 @@ The case returns through the Fifth Circuit for the district court to issue a con
 
 ## Adaptive audit annex
 
-The unchanged [independent commitment freeze](../freeze/OT_1994CHUNK5_COMMITMENTS_A.md) preceded the [reconciled freeze](../freeze/OT_1994CHUNK5_RECONCILED_A.md). The following case-specific reconciliation is preserved verbatim as the adaptive annex; it supplies eight named associate rows and the material before-and-after distinctions. No current Stone supplement entered either stage.
+The unchanged [independent commitment freeze](../../freeze/OT_1994CHUNK5_COMMITMENTS_A.md) preceded the [reconciled freeze](../../freeze/OT_1994CHUNK5_RECONCILED_A.md). The following case-specific reconciliation is preserved verbatim as the adaptive annex; it supplies eight named associate rows and the material before-and-after distinctions. No current Stone supplement entered either stage.
 
 ### Historical comparison against actual entering law
 
@@ -188,7 +188,7 @@ Research cutoff: immediately before 1995-04-19. Later law supplies no adjudicati
 
 [Fifth Circuit opinion, 5 F.3d 806](https://static.case.law/f3d/5/html/0806-01.html), including the majority and dissent, supplies the trial record and competing materiality assessments. The [filed record and briefs](https://archive.org/details/micro_IA40385013_0539) support the established suppression and adversarial submissions; disputed later evidence and material not securely identified as a party’s filing supply no additional finding. [Bagley, 473 U.S. 667](https://tile.loc.gov/storage-services/service/ll/usrep/usrep473/usrep473667/usrep473667.pdf) supplies the reasonable-probability standard. The receipt date, plate-list completeness, alleged planting, later recantations and unadmitted independent claims remain subject to the limits stated above.
 
-The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. Durable validation is recorded in [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md). Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
+The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. Durable validation is recorded in [chunk validation](../../freeze/OT_1994CHUNK5_VALIDATION.md). Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
 
 ## Public Projection
 

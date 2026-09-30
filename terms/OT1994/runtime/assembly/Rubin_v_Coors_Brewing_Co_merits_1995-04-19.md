@@ -19,7 +19,7 @@ The Government invokes strength competition, possible shifts in consumer prefere
 
 ## Participation and entering law
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. Central Hudson and Fox govern truthful, nonmisleading commercial information. Actual Discovery Network, Edenfield and Ibanez require justification tied to the regulated speech and burden. Actual Edge establishes meaningful reduction and reasonable fit on its record, not categorical deference for vice advertising. Actual Lanphere (April 18, 1995) separately applies advancement and reasonable fit. The [A slice](../entering-law/OT_1994CHUNK5_A.md), [public writings](../entering-law/OT_1994CHUNK5_A_PUBLIC_WRITINGS.md), and [Lanphere supplement](../entering-law/OT_1994CHUNK5_A_VALIDATION_SUPPLEMENT.md) supply those propositions. Same-date McIntyre and other April 19 peers are excluded. The final formulation uses no new state enactment, market finding, or statutory construction.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. Central Hudson and Fox govern truthful, nonmisleading commercial information. Actual Discovery Network, Edenfield and Ibanez require justification tied to the regulated speech and burden. Actual Edge establishes meaningful reduction and reasonable fit on its record, not categorical deference for vice advertising. Actual Lanphere (April 18, 1995) separately applies advancement and reasonable fit. The [A slice](../../entering-law/OT_1994CHUNK5_A.md), [public writings](../../entering-law/OT_1994CHUNK5_A_PUBLIC_WRITINGS.md), and [Lanphere supplement](../../entering-law/OT_1994CHUNK5_A_VALIDATION_SUPPLEMENT.md) supply those propositions. Same-date McIntyre and other April 19 peers are excluded. The final formulation uses no new state enactment, market finding, or statutory construction.
 
 ## Stone: approved position and final compatibility
 
@@ -120,7 +120,7 @@ The injunction against the challenged truthful numerical label restriction remai
 
 ## Adaptive audit annex
 
-The unchanged [independent commitment freeze](../freeze/OT_1994CHUNK5_COMMITMENTS_A.md) preceded the [reconciled freeze](../freeze/OT_1994CHUNK5_RECONCILED_A.md). The following case-specific reconciliation is preserved verbatim as the adaptive annex; it supplies eight named associate rows and the material before-and-after distinctions. No current Stone supplement entered either stage.
+The unchanged [independent commitment freeze](../../freeze/OT_1994CHUNK5_COMMITMENTS_A.md) preceded the [reconciled freeze](../../freeze/OT_1994CHUNK5_RECONCILED_A.md). The following case-specific reconciliation is preserved verbatim as the adaptive annex; it supplies eight named associate rows and the material before-and-after distinctions. No current Stone supplement entered either stage.
 
 ### Historical comparison and reconciliation of the narrower provisional rationale
 
@@ -203,7 +203,7 @@ Research cutoff: immediately before 1995-04-19. Later law supplies no adjudicati
 
 [Tenth Circuit opinion, 2 F.3d 355](https://static.case.law/f3d/2/html/0355-01.html) supplies the litigation path and its advancement-only appellate ground. The [filed briefs and statutory/regulatory appendices](https://archive.org/details/micro_IA40385013_0507) supply the competing trial-record, fit and state-policy submissions. [27 U.S.C. §205](https://www.govinfo.gov/content/pkg/USCODE-1994-title27/pdf/USCODE-1994-title27.pdf) supplies the distinct labeling, advertising and interstate state-law provisions. The agency’s operating construction is distinguished from the statute’s text; no fifty-state survey, unverified state enactment, or unappealed advertising issue is independently adjudicated.
 
-The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. Durable validation is recorded in [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md). Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
+The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. Durable validation is recorded in [chunk validation](../../freeze/OT_1994CHUNK5_VALIDATION.md). Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
 
 ## Public Projection
 

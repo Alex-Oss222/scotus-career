@@ -151,7 +151,7 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 
 ## Institutional setting and intake limits
 
-The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](continuity.md#5-current-procedure-and-institution) and [neutral projection](neutral-projection.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
+The August 3, 1994 Breyer accession and complete circuit reallotment are already part of the opening setting; no duplicate OT1994 institutional event is created. No additional dated institutional change is supplied for this term. The [continuity note](OT_1994CHUNK9_OPENING_CONTINUITY.md#5-current-procedure-and-institution) and [neutral projection](OT_1994CHUNK9_OPENING_NEUTRAL_PROJECTION.md#court-and-public-procedure) carry the nine-seat roster, thirteen circuit assignments, standing referral practice and six case-specific participation exclusions.
 
 ### Matter-specific limits retained at opening
 
@@ -176,7 +176,7 @@ Authority for inventory identity and dates: `case-list.md` and the nine briefsâ€
 
 **Posture:** After chunk 8, with 96 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-06-29. The June 14 group is complete. Uncoordinated same-day decisions share a common entering baseline. The June 29 group continues in chunk 9; Rosenberger and Sweet Home do not supply entering law to their uncoordinated same-date peers.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 96 inventory events are completed; three remain unadjudicated. Nebraska remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
+The [manifest](OT_1994CHUNK9_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 96 inventory events are completed; three remain unadjudicated. Nebraska remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
 The next scheduled unresolved inventory event after chunk 8 is **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson, 1995-06-29, OT_1994CHUNK9**. The June 29 peer group shares entering law effective before June 29 absent an established coordinated release sequence.
 

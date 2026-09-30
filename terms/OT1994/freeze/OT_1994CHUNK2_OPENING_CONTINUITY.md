@@ -8,7 +8,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 group in OT1993: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor. The preserved opening continuity and OT1993 close dossier supply their exact source locations; no endpoint or part of the final group is displaced.
 
-The [manifest](manifest.md) retains 99 scheduled inventory matters and seven additional unscheduled carryovers. Twelve inventory events are completed; 87 remain unprocessed. Nebraska v. Wyoming's carried original proceeding remains connected to inventory matter 68 rather than duplicated. No carried matter is silently closed, no unsupplied date or grant is invented, and no new institutional action or separate noncase-law admission is created. Original RFRA is applied as already-effective law in Clearwater, not as a new OT1994 enactment.
+The [manifest](OT_1994CHUNK2_OPENING_MANIFEST.md) retains 99 scheduled inventory matters and seven additional unscheduled carryovers. Twelve inventory events are completed; 87 remain unprocessed. Nebraska v. Wyoming's carried original proceeding remains connected to inventory matter 68 rather than duplicated. No carried matter is silently closed, no unsupplied date or grant is invented, and no new institutional action or separate noncase-law admission is created. Original RFRA is applied as already-effective law in Clearwater, not as a new OT1994 enactment.
 
 The next eligible inventory item is **Tome v. United States, No. 93-6892, January 10, 1995, chunk 2**. All equal-date groups retain the common pre-group baseline unless an express sequence is established. The cross-chunk groups remain January 10, February 21, April 19, May 15, June 5, June 14 and June 29, 1995. Display or file-preservation order does not supply a release sequence.
 
@@ -29,7 +29,7 @@ The next eligible inventory item is **Tome v. United States, No. 93-6892, Januar
 | 1995-01-09 | [Plakas v. Drinski; No. 93-1824.](../records/Plakas_v_Drinski_merits_1995-01-09.md) | The Seventh Circuit is affirmed, 9-0, as to Officer Drinski and Newton County. Summary judgment remains in force on the presented force and municipal claims. |
 | 1995-01-10 | [Interstate Commerce Commission v. Transcon Lines; No. 93-1318; 513 U.S. 138.](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) | The Ninth Circuit is reversed and the case remanded, 9-0, for implementation of an injunction confined to the admitted-unlawful loss-of-discount liquidated-damages class, with genuine scope, inclusion and amount questions beyond the concessions preserved. Ordinary unpaid freight principal and other estate receivables are excluded from the restraint. |
 
-The [ledger](ledger.md) indexes these twelve first adjudications; no separate Admitted Source Record was necessary.
+The [ledger](../workspace/ledger.md) indexes these twelve first adjudications; no separate Admitted Source Record was necessary.
 
 ## 3. Current Law
 
@@ -453,7 +453,7 @@ The neutral packets identify the following exclusions. They report no reason; no
 
 ### Dependencies
 
-The [manifest dependency table](manifest.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
+The [manifest dependency table](OT_1994CHUNK2_OPENING_MANIFEST.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
 
 ### Procedure following the completed chunk
 

@@ -16,7 +16,7 @@ The following handoffs were read, with operative and noncontrolling positions ke
 - [Entering-law slice A](../entering-law/OT_1994CHUNK5_A.md), all portions relevant to these three matters, including Ibarra, Darby, Williams, Brecht, the commercial-speech authorities, and the selected public Gustafson positions.
 - [Prior public writings A](../entering-law/OT_1994CHUNK5_A_PUBLIC_WRITINGS.md), relevant Ibarra, Darby, Williams, Brecht, Discovery Network, Edenfield, Edge, and Ibanez entries.
 - [Validation supplement](../entering-law/OT_1994CHUNK5_A_VALIDATION_SUPPLEMENT.md), complete Schlup, O'Neal, and Lanphere law, procedure, and published-position sections.
-- [Neutral validation receipt](OT_1994CHUNK5_NEUTRAL_VALIDATION_A.md), including its source-identification and scope restrictions.
+- [Neutral validation receipt](../freeze/OT_1994CHUNK5_NEUTRAL_VALIDATION_A.md), including its source-identification and scope restrictions.
 
 The following additional primary-source texts were read. References to the local clean texts are source locators, not assertions that a modern recovery date is an in-world event:
 

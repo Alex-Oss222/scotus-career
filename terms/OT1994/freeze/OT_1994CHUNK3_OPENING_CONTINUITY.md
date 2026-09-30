@@ -8,7 +8,7 @@ The opening authority remains the synchronized September 28, 2026 OT1993 edition
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor. No endpoint is displaced.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 24 inventory events are completed; 75 remain unadjudicated, including explicitly stopped matters. Nebraska v. Wyoming is already inventory matter 68 and is not duplicated. No carryover is closed. The known future April 4, 1995 statutory transition is scheduled separately and supplies no present holding.
+The [manifest](OT_1994CHUNK3_OPENING_MANIFEST.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 24 inventory events are completed; 75 remain unadjudicated, including explicitly stopped matters. Nebraska v. Wyoming is already inventory matter 68 and is not duplicated. No carryover is closed. The known future April 4, 1995 statutory transition is scheduled separately and supplies no present holding.
 
 The next independent eligible inventory matter is **O’Neal v. McAninch, No. 93-7407, February 21, 1995, chunk 3**. Resolve any stopped matter only through its stated required input. Equal-date groups retain common pre-group law. January 10 is now complete; the remaining cross-chunk groups are February 21, April 19, May 15, June 5, June 14 and June 29. Preservation or display order establishes no release sequence.
 
@@ -41,7 +41,7 @@ The next independent eligible inventory matter is **O’Neal v. McAninch, No. 93
 | 1995-02-21 | [Lebron v. National Railroad Passenger Corp., No. 93-1525.](../records/Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md) | The Second Circuit judgment is reversed and the case remanded, 8–1, for adjudication of the First Amendment claim treating Amtrak as governmental. The Court does not decide whether rejection of the advertisement violated the First Amendment or order its display. |
 | 1995-02-21 | [Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co., No. 93-768](../records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md) | Affirmed, 9–0. |
 
-The [ledger](ledger.md) indexes the completed first adjudications. No new Admitted Source Record has been entered.
+The [ledger](../workspace/ledger.md) indexes the completed first adjudications. No new Admitted Source Record has been entered.
 
 ## 3. Current Law
 
@@ -1357,7 +1357,7 @@ The neutral packets identify the following exclusions. They report no reason; no
 
 ### Dependencies
 
-The [manifest dependency table](manifest.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
+The [manifest dependency table](OT_1994CHUNK3_OPENING_MANIFEST.md#material-dependencies) preserves the twenty-five supplied matter relationships. Same-day references do not establish a release sequence; this applies in particular to Jenkins/Adarand, Johnson/Kimberlin, and Rosenberger/Pinette/Chabad. The fifteen user-added granted merits matters are already in the inventory and are not additional carryover events.
 
 ### Procedure following completed events
 

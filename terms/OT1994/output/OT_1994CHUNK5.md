@@ -4,41 +4,38 @@
 
 | Effective date | Case or matter | Event | Posture after event |
 |---|---|---|---|
-| 1995-04-19 | Kyles v. Whitley, No. 93-7927 | Merits decision | Conditional writ on remand; retrial within the district court?s reasonable period or release. |
-| 1995-04-19 | Rubin v. Coors Brewing Co., No. 93-1631 | Merits decision | Label injunction preserved; unappealed advertising judgment undisturbed. |
-| 1995-04-19 | Stone v. Immigration and Naturalization Service, No. 93-1199 | Merits decision | Original-order challenge dismissed; reconsideration component undisturbed. |
-| 1995-04-25 | California Department of Corrections v. Morales, No. 93-1462 | Merits decision | Affirmed; offense-date annual consideration preserved; no release order. |
-| 1995-04-25 | United States v. Williams, No. 94-395 | Merits decision | Refund suit proceeds on the Ninth Circuit?s remand; no monetary award. |
-| 1995-04-26 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., No. 93-1408; Pataki v. Travelers Insurance Co., No. 93-1414; and Hospital Association of New York State v. Travelers Insurance Co., No. 93-1415 | Merits decision | Partial reversal, limited vacatur and remand in all three dockets; direct-plan claim remains live. |
-| 1995-04-26 | United States v. Lopez, No. 93-1260 | Merits decision | Conviction reversal and indictment dismissal remain in force. |
-| 1995-04-27 | United States v. Harris, No. 94-297 | Merits decision | Both defendants? convictions and consecutive sentences remain in force. |
-| 1995-05-08 | United States v. Pinson, No. 94-164 | Merits decision | Bounded remand on the preserved suppression claim; separate sentencing ruling undisturbed. |
-| 1995-05-15 | Hubbard v. United States, No. 94-172 | Merits decision | Remand for vacatur of Counts V?VII; other convictions undisturbed. |
-| 1995-05-15 | Kansas v. Colorado, No. 105, Original | Decision on exceptions | Original action retained and recommitted to the Special Master for remedy proceedings. |
+| 1995-04-19 | Kyles v. Whitley, No. 93-7927 | Merits decision | Denial of relief reversed; conditional writ requires retrial within a reasonable period fixed by the district court or release. |
+| 1995-04-19 | Rubin v. Coors Brewing Co., No. 93-1631 | Merits decision | Judgment affirmed; injunction against the challenged numerical label ban remains in force. |
+| 1995-04-19 | Stone v. Immigration and Naturalization Service, No. 93-1199 | Merits decision | Original-order timeliness dismissal affirmed; the separate reconsideration-denial component remains unchanged. |
+| 1995-04-25 | California Department of Corrections v. Morales, No. 93-1462 | Merits decision | The Ninth Circuit’s remand for annual parole consideration remains in force; release discretion is preserved. |
+| 1995-04-25 | United States v. Williams, No. 94-395 | Merits decision | Jurisdiction affirmed; Williams’s refund suit may proceed under the existing remand; no monetary award. |
+| 1995-04-26 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., No. 93-1408; Pataki v. Travelers Insurance Co., No. 93-1414; and Hospital Association of New York State v. Travelers Insurance Co., No. 93-1415 | Merits decision | Partial reversal, limited vacatur, and remand of all three dockets; independent FEHBA and Actuarial Letter relief remains undisturbed. |
+| 1995-04-26 | United States v. Lopez, No. 93-1260 | Merits decision | The Fifth Circuit’s reversal and dismissal mandate, and the ensuing district-court dismissal, remain in force. |
+| 1995-04-27 | United States v. Harris, No. 94-297 | Merits decision | Both defendants’ convictions and consecutive sentences remain affirmed; no further merits remand. |
+| 1995-05-01 | United States v. Robertson, No. 94-251 | Merits decision | Count Six commerce reversal reversed; remaining RICO proceedings and the independent narcotics resentencing mandate remain for the lower courts. |
+| 1995-05-08 | United States v. Pinson, No. 94-164 | Merits decision | Affected suppression ruling and conviction affirmance vacated with a bounded remand; the separate sentencing ruling is undisturbed. |
+| 1995-05-15 | Hubbard v. United States, No. 94-172 | Merits decision | Affirmance of Counts V–VII reversed; remand to vacate those convictions; other counts remain undisturbed. |
+| 1995-05-15 | Kansas v. Colorado, No. 105, Original | Decision on exceptions and recommittal | Seven exceptions overruled and three unexcepted rulings confirmed; original jurisdiction retained for the remedy phase before the Special Master. |
 
 ## Decisions and Dispositions
 
 ### Kyles v. Whitley, No. 93-7927
 
-Merits decision, 1995-04-19
+Merits decision, April 19, 1995
 
 #### Chronology and Posture
 
-Kyles v. Whitley, No. 93-7927. Argued November 7, 1994; decided April 19, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, reviewing 5 F.3d 806 (October 14, 1993), which affirmed denial of federal habeas relief. The question is whether the established suppressed favorable evidence, viewed collectively, is material to Kyles’s conviction under Brady and Bagley.
+Argued November 7, 1994; decided April 19, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, reviewing 5 F.3d 806 (October 14, 1993), which affirmed denial of federal habeas relief. The question is whether the established suppressed favorable evidence, viewed collectively, is material to Kyles’s conviction under Brady and Bagley.
 
 Dolores Dye was killed and her automobile taken on September 20, 1984. Kyles’s first trial ended in a deadlock; the second produced a conviction and death sentence. No reason for the deadlock beyond disagreement is established. The prosecution used eyewitness identifications, the murder weapon found behind a stove at the apartment where Kyles stayed, ammunition and a holster, the victim’s purse and papers found in garbage, and pet food of brands she had bought. A print linked Kyles to a receipt in the car, but processing destroyed its readable date. The defense presented a theory that Joseph “Beanie” Wallace was implicated and framed Kyles. Adverse credibility findings and evidence supporting guilt remain part of the record.
 
 The established suppression concerns six contemporaneous eyewitness statements, Beanie’s recorded September 22 and written September 23 accounts, prosecutor Strider’s interview notes, a garbage-retrieval memorandum, and the parking-lot plate list. Smallwood’s earlier sequence differed from his trial observation account; Williams’s early description differed from Kyles’s height and build. Beanie’s accounts bear on corroboration, the police investigation, his possible access, and the provenance of physical evidence. Some lawful uses arise through police examination and preparation without calling Beanie or admitting every statement for its truth. The seventeen-plate list omitted Kyles’s plate, but its completeness is disputed. The Court finds neither Beanie’s guilt nor planting, witness perjury, or a complete list.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court reverses the denial of relief on the conviction-level Brady claim, 6–3, and remands for a conditional writ. Louisiana must retry Kyles within a reasonable time fixed by the district court or release him under the writ.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court reverses the denial of relief on the conviction-level Brady claim, 6–3, and remands for a conditional writ. Louisiana must retry Kyles within a reasonable time fixed by the district court or release him under the writ.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
@@ -95,11 +92,9 @@ The Court does not order acquittal, unconditional immediate release, a fixed num
 - Bagley: treats materiality as a defining element of the suppression violation, not an initial screen before a second duplicative prejudice test.
 - Brecht v. Abrahamson, April 21, 1993, and O’Neal v. McAninch, February 21, 1995: preserve their actual category-specific holdings and distinguish them from claim-defining Brady materiality.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Brady and Bagley govern collective materiality and the trial prosecution’s responsibility. Williams remains confined to its distinct grand-jury setting. Schlup remains a gateway rule. Brecht and O’Neal retain their category-specific holdings; this decision neither adopts a general habeas Kotteakos rule nor extends Chapman universally. No precedent is overruled.
-
-#### Law After Decision
 
 Courts must assess the established favorable suppression collectively, including legitimate effects on preparation, corroboration, impeachment and examination of the investigation. Prosecutors bear case-specific responsibility for investigating-police information. A completed material Brady violation carries no second duplicative harmlessness hurdle. The holdings neither require open-file discovery nor treat every nondisclosure as structural error, and they do not excuse defense lack of diligence about known evidence.
 
@@ -117,17 +112,17 @@ Justice Stevens joins the Court’s application of Bagley without withdrawing hi
 
 The case returns through the Fifth Circuit for the district court to issue a conditional writ. The district court fixes a reasonable period for Louisiana to retry Kyles; failure to retry within that period requires release under the writ. No immediate unconditional release or acquittal is ordered, and the Court does not predict the result of any new trial.
 
-**End of entry: Kyles v. Whitley, Merits decision, 1995-04-19.**
+**End of entry: Kyles v. Whitley, No. 93-7927, Merits decision, April 19, 1995.**
 
 ---
 
 ### Rubin v. Coors Brewing Co., No. 93-1631
 
-Merits decision, 1995-04-19
+Merits decision, April 19, 1995
 
 #### Chronology and Posture
 
-Rubin v. Coors Brewing Co., No. 93-1631. Argued November 30, 1994; decided April 19, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, reviewing 2 F.3d 355 (August 23, 1993). The question is whether the federal ban on truthful numerical alcohol-content statements on malt-beverage labels satisfies the First Amendment. The separately upheld, unappealed advertising restriction is outside the judgment under review.
+Argued November 30, 1994; decided April 19, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, reviewing 2 F.3d 355 (August 23, 1993). The question is whether the federal ban on truthful numerical alcohol-content statements on malt-beverage labels satisfies the First Amendment. The separately upheld, unappealed advertising restriction is outside the judgment under review.
 
 Section 205(e)(2) prohibits malt-beverage alcohol-content statements unless state law requires them. Its wine clause requires alcohol-content statements only above fourteen percent by volume; it does not prohibit lower-strength wine disclosure. Section 205(f)(2), addressing advertising, contains an alcohol-information exception for malt beverages and wines, without the labeling clause’s state-required-disclosure exception. A later interstate malt-beverage paragraph expressly addresses both labeling and advertising and conditions their application on similar state requirements for comparable intrastate transactions. The agency administers the label ban except where state law affirmatively requires disclosure, but administers the advertising ban where a corresponding state advertising prohibition exists. This is the operating construction, not a holding that the later paragraph mentions only advertising or a new statutory challenge to that construction.
 
@@ -135,15 +130,11 @@ Under the challenged §7.26 regime, state-required statements follow the manner 
 
 The Government invokes strength competition, possible shifts in consumer preferences, and assistance to state alcohol policy. Coors contests the effectiveness and breadth of suppressing accurate percentages while other channels and beverages receive different treatment. No independently verified fifty-state tally or future strength war is found. The Court assumes the state-assistance rationale may be considered and rejects its unsupported justification on the merits; it does not decide forfeiture.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court unanimously affirms the judgment sustaining the injunction against the challenged prohibition of truthful numerical alcohol-content statements on malt-beverage labels. Eight Justices join the Court’s commercial-speech grounds; Justice Stevens concurs in the judgment.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court unanimously affirms the judgment sustaining the injunction against the challenged prohibition of truthful numerical alcohol-content statements on malt-beverage labels. Eight Justices join the Court’s commercial-speech grounds; Justice Stevens concurs in the judgment.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
@@ -202,11 +193,9 @@ The unappealed advertising judgment remains undisturbed. The Court orders no nat
 - Edge Broadcasting: preserves the legitimacy of supported state-policy accommodation while distinguishing the missing demonstrated mechanism here.
 - Central Hudson: requires the asserted justification to support the actual speech restriction rather than stand as an unexamined label.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Central Hudson and Fox remain the commercial-speech framework. Discovery Network, Edenfield, Ibanez and Lanphere supply the actual requirements of a harm-related classification, responsive evidence, and reasonable fit. Edge preserves supported incremental and state-based regulation at its controlling scope. No precedent is overruled; no categorical vice exception, strict-scrutiny rule for all commercial speech, or least-restrictive-means requirement is adopted.
-
-#### Law After Decision
 
 The challenged truthful numerical malt-beverage label ban fails both material advancement and, independently, reasonable proportional fit. The unsupported state-assistance rationale does not cure either defect. The advertising judgment, distinct strength-description and design rules, state enactments and other applications of §205 remain outside the relief. Lawful direct regulation and properly justified measures against deception remain available without a judicially prescribed replacement program.
 
@@ -222,31 +211,27 @@ Justice Stevens concurs in the judgment. Accurate, unadorned information about a
 
 The injunction against the challenged truthful numerical label restriction remains in force. No further merits remand is required. The Government may pursue lawful, appropriately justified alternatives, but the Court commands no particular replacement. The unappealed advertising judgment and separate descriptive-strength provisions are undisturbed.
 
-**End of entry: Rubin v. Coors Brewing Co., Merits decision, 1995-04-19.**
+**End of entry: Rubin v. Coors Brewing Co., No. 93-1631, Merits decision, April 19, 1995.**
 
 ---
 
 ### Stone v. Immigration and Naturalization Service, No. 93-1199
 
-Merits decision, 1995-04-19
+Merits decision, April 19, 1995
 
 #### Chronology and Posture
 
-Stone v. Immigration and Naturalization Service, No. 93-1199. Argued November 28, 1994; decided April 19, 1995. On writ of certiorari to the United States Court of Appeals for the Sixth Circuit, reviewing 13 F.3d 934 (January 6, 1994). The question is whether a timely agency reconsideration motion filed before judicial review postpones the filing period for review of the original deportation order under former 8 U.S.C. §1105a.
+Argued November 28, 1994; decided April 19, 1995. On writ of certiorari to the United States Court of Appeals for the Sixth Circuit, reviewing 13 F.3d 934 (January 6, 1994). The question is whether a timely agency reconsideration motion filed before judicial review postpones the filing period for review of the original deportation order under former 8 U.S.C. §1105a.
 
 Former §1105a(a) incorporates chapter 158 of Title 28 subject to its stated modifications. Subsection (a)(1) supplies ninety days for this petition and thirty days for an alien convicted of an aggravated felony; this petitioner is not reclassified into the latter category. Subsection (a)(6) requires consolidation whenever review of an original order and review of its reopening or reconsideration are both sought. Its command is mandatory when applicable. Subsection (c) requires exhaustion of remedies available as of right; optional reconsideration is not thereby made mandatory. No departure from the United States is established as a live bar.
 
 Service of a judicial petition stays deportation unless the court otherwise directs, except that an alien convicted of an aggravated felony needs an affirmative judicial stay under subsection (a)(3). Subsection (a)(8) does not require deferral simply because review may be sought. An administrative motion itself supplies no stay under 8 C.F.R. §3.8(a), though the Board or authorized officer may specifically grant one. Section 243.1 addresses administrative finality. Those distinct rules of execution, service, and exhaustion do not alone decide judicial filing finality. The post-September-13-1994 statutory addition applies to proceedings initiated after that date and does not govern this proceeding.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court affirms the Sixth Circuit’s dismissal of the petition insofar as it seeks review of the original deportation order, 5–4. The separate denial of relief from the reconsideration refusal remains undisturbed.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court affirms the Sixth Circuit’s dismissal of the petition insofar as it seeks review of the original deportation order, 5–4. The separate denial of relief from the reconsideration refusal remains undisturbed.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
@@ -277,11 +262,9 @@ The separate denial of relief from the reconsideration refusal is outside the ad
 - United States v. Ibarra, October 15, 1991: preserves its timely criminal-reconsideration rule and distinguishes this particular statutory review arrangement.
 - Darby v. Cisneros, June 21, 1993: preserves its limits on extra APA exhaustion requirements; it does not decide the filing finality of an INA order.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Locomotive Engineers remains the ordinary administrative reconsideration rule, subject here to the INA’s specific modification. Ibarra retains its criminal-appeal holding, and Darby retains its APA exhaustion holding. No precedent is overruled.
-
-#### Law After Decision
 
 The original deportation order and a separately reviewable reconsideration disposition carry independent filing periods under former §1105a. Optional reconsideration is not a prerequisite to judicial review. Finality for filing, agency enforceability, exhaustion, and a judicial or administrative stay remain distinct. No general equitable-tolling rule, blanket bar to reconsideration review, or immigration merits rule is decided.
 
@@ -297,7 +280,7 @@ Justice Breyer, joined by Chief Justice Stone-Zsela and Justices O’Connor and 
 
 The original-order timeliness dismissal remains in force. The separate reconsideration-denial component is unchanged. No new remand, stay, deportability determination, or suspension-of-deportation award issues from this decision.
 
-**End of entry: Stone v. Immigration and Naturalization Service, Merits decision, 1995-04-19.**
+**End of entry: Stone v. Immigration and Naturalization Service, No. 93-1199, Merits decision, April 19, 1995.**
 
 ---
 
@@ -311,7 +294,7 @@ Argued January 9, 1995. On writ of certiorari to the United States Court of Appe
 
 At the time of the offense, reconsideration after denial was annual. The 1981 California Penal Code §3041.5(b)(2) amendment retains that default, but permits the next hearing no later than three years after denial if the prisoner has been convicted, in the same or different proceedings, of more than one offense involving the taking of a life, and the Board finds that parole cannot reasonably be expected at a hearing during the intervening years and states its bases. Postponement is permitted, not mandatory. In re Jackson requires reasons separately directed to postponement and permits supporting facts to overlap the reasons for present unsuitability; it establishes review of that initial choice, not a generally available later reopening procedure. Morales's initial hearing occurred in 1989, and his earliest eligibility was August 2, 1990. The Board denied parole and separately deferred reconsideration for three years. Its interval findings addressed the grave offense, prior murder, criminal history, and need for longer observation, evaluation, or treatment. They were predictions, not findings that earlier release was legally impossible.
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participate at argument and decision. No case-specific nonparticipation is established.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participate at argument and decision.
 
 #### Judgment
 
@@ -365,7 +348,7 @@ An Opinion of the Court controls the two propositions below. The concurrence’s
 - Weaver v. Graham, 450 U.S. 24 (1981): applies its refusal to assume discretionary alternatives compensate for guaranteed benefits; it did not itself prescribe this parole evidentiary direction.
 - In re Jackson, 39 Cal.3d 464 (1985): confines review and conceivable advancement to what the opinion establishes; initial review does not become later reconsideration.
 
-#### Limits and Questions Not Reached
+##### Limits and questions not reached
 
 The holding concerns Morales’s demonstrated meaningful loss under the challenged 1981 provision. It does not invalidate every individualized postponement, require an interim hearing in every possible individualized scheme, or constitutionalize every scheduling detail. Maximum deferral is permission, not a statutory command or a proved near-uniform cohort practice. The Court neither requires wholly different facts for the two decisions nor treats the initial forecast as unreviewable.
 
@@ -389,35 +372,31 @@ They acknowledge that forecasts can become outdated and initial review is not la
 
 #### Source Notes
 
-The 1981 text and Board statements are reproduced in the joint appendix and briefs in [the Records and Briefs collection](https://archive.org/details/micro_IA40385013_0500). Morales v. California Department of Corrections, 16 F.3d 1001, supplies the lower judgment and hearing-frequency remedy. [In re Jackson, 39 Cal.3d 464](https://static.case.law/cal-3d/39/html/0464-01.html), supplies the distinct-reasons requirement, permissible factual overlap, and initial review; its advanced-hearing discussion is hypothetical. The [January 9, 1995 argument transcript](https://www.supremecourt.gov/pdfs/transcripts/1994/93-1462_01-09-1995.pdf) and the parties' reply submissions disclose the dispute over interim practice. The sources disagree on the exact July 1989 hearing day; only the year is stated. They establish neither an ordinary reopening system nor an actual earlier release date. The nineteen-year matrix is not a binding minimum, and aggregate denial figures establish no individual release probability. The Court does not decide the effect of a later amendment. The challenged session law is 1981 California Statutes, chapter 1111, §4. The appendix reproduces the 1986 enactment, not the complete 1982 session law. No cohort maximum-deferral rate is established.
+The 1981 text and Board statements are reproduced in the joint appendix and briefs in [the Records and Briefs collection](https://archive.org/details/micro_IA40385013_0500). Morales v. California Department of Corrections, 16 F.3d 1001, supplies the lower judgment and hearing-frequency remedy. [In re Jackson, 39 Cal.3d 464](https://static.case.law/cal-3d/39/html/0464-01.html), supplies the distinct-reasons requirement, permissible factual overlap, and initial review; its advanced-hearing discussion is hypothetical. The [January 9, 1995 argument transcript](https://www.supremecourt.gov/pdfs/transcripts/1994/93-1462_01-09-1995.pdf) and the parties' reply submissions disclose the dispute over interim practice. The sources disagree on the exact July 1989 hearing day; only the year is stated. They establish neither an ordinary reopening system nor an actual earlier release date. The nineteen-year matrix is not a binding minimum, and aggregate denial figures establish no individual release probability. No holding on a later amendment is made. The challenged session law is 1981 California Statutes, chapter 1111, §4. The appendix reproduces the 1986 enactment, not the complete 1982 session law. No cohort maximum-deferral rate is established.
 
 #### Mandate, Remedy, and Stage
 
 The Ninth Circuit’s judgment is affirmed on the reviewed hearing-frequency claim. Its remand requiring offense-date parole-consideration frequency remains in force. The Board must provide annual consideration under that rule, but remains free to deny parole under lawful suitability standards. No particular hearing or release date, favorable suitability finding, damages award, or reopening of the rejected false-information and sentence claims is ordered. This Supreme Court review is complete; no new hold, operational-fact remand, hearing-status report or retained return condition is imposed.
 
-**End of entry: California Department of Corrections v. Morales, merits decision, April 25, 1995.**
+**End of entry: California Department of Corrections v. Morales, No. 93-1462, Merits decision, April 25, 1995.**
 
 ---
 
 ### United States v. Williams, No. 94-395
 
-Merits decision, 1995-04-25
+Merits decision, April 25, 1995
 
 #### Chronology and Posture
 
-United States v. Williams, No. 94-395. Merits decision, April 25, 1995. Argued February 22, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, reviewing Williams v. United States, 24 F.3d 1143 (May 19, 1994). That court reversed a district-court dismissal for lack of refund jurisdiction and remanded. The question is whether 28 U.S.C. §1346(a)(1) permits Williams to sue for money paid to remove federal tax liens from property she claimed as her own when she was not personally liable for the taxes assessed against Rabin. The Government seeks jurisdictional dismissal; Williams seeks permission to proceed with her refund suit.
+Argued February 22, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, reviewing Williams v. United States, 24 F.3d 1143 (May 19, 1994). That court reversed a district-court dismissal for lack of refund jurisdiction and remanded. The question is whether 28 U.S.C. §1346(a)(1) permits Williams to sue for money paid to remove federal tax liens from property she claimed as her own when she was not personally liable for the taxes assessed against Rabin. The Government seeks jurisdictional dismissal; Williams seeks permission to proceed with her refund suit.
 
 Williams paid through escrow to free the house she was selling from liens asserted for Rabin's taxes, timely claimed a refund administratively, and sued after denial. No levy or substitute-fund agreement is established. The lower judgment did not award a refund. The parties dispute lien validity, the scope of an asserted concession, and the amount and components of payment; those disputes are not resolved by the jurisdictional ruling.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court affirms the Ninth Circuit's jurisdictional judgment, 7–2. Williams's refund action may proceed under the ordinary administrative-claim, merits, and proof requirements. The Court awards no refund and fixes no amount.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court affirms the Ninth Circuit's jurisdictional judgment, 7–2. Williams's refund action may proceed under the ordinary administrative-claim, merits, and proof requirements. The Court awards no refund and fixes no amount.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
@@ -483,11 +462,9 @@ Section 6511(a) allows, for a tax requiring a return, a claim within three years
 
 The holding is jurisdictional. Lien validity and priority, purchaser status and consideration, the effect and scope of any binding Government concession, wrongfulness of collection, payment components, and recoverable amount remain for further proceedings as necessary. No interest, fees, damages, or unrestricted challenge to Rabin's underlying assessment is awarded or authorized by this decision.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Nordic Village's unequivocal-consent rule remains intact and is satisfied by the express refund text at the stated scope. Dalm's administrative-claim and timing conditions remain binding; its late-claim holding did not decide this timely nonassessed payer. United States v. California retains its bar against manufacturing a common-law refund right and is distinguished by the express remedy here. Stahmann supports treating payment to free one's own goods as different from a volunteered payment, while its tax-incidence and collector-action setting remain material limits. No precedent is overruled, and no general equitable waiver is created.
-
-#### Law After Decision
 
 The express refund waiver permits the stated lien-backed collection claim after satisfaction of the administrative-claim and timing rules. Independently, the five-Justice taxpayer-definition holding includes this collection relationship within the connected refund provisions. The third-party remedies retain their separate statutory triggers and do not foreclose this suit or add an exhaustion step. Jurisdiction does not establish wrongful collection or entitlement to any money. Volunteers, strangers, universal taxpayer status, and an unrestricted challenge to another person's assessment remain outside the holdings.
 
@@ -507,17 +484,17 @@ The statutory provisions and competing positions are documented in the joint app
 
 The Ninth Circuit's judgment and remand remain in force. The district court may adjudicate the refund action under the ordinary claim, merits, and proof requirements, resolving lien validity and priority, any binding concession, wrongfulness, and amount as necessary. The Court orders no immediate payment, interest, fees, or damages and predicts no merits result.
 
-**End of entry: United States v. Williams, Merits decision, 1995-04-25.**
+**End of entry: United States v. Williams, No. 94-395, Merits decision, April 25, 1995.**
 
 ---
 
 ### New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., No. 93-1408; Pataki v. Travelers Insurance Co., No. 93-1414; and Hospital Association of New York State v. Travelers Insurance Co., No. 93-1415
 
-Merits decision, 1995-04-26
+Merits decision, April 26, 1995
 
 #### Chronology and Posture
 
-New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., No. 93-1408; Pataki v. Travelers Insurance Co., No. 93-1414; and Hospital Association of New York State v. Travelers Insurance Co., No. 93-1415. Argued January 18, 1995; decided April 26, 1995. On writs of certiorari to the United States Court of Appeals for the Second Circuit, reviewing its opinion issued October 25, 1993 and amended January 14, 1994. The question is whether ERISA preempts the challenged 13%, additional 11% and conditional up-to-9% New York hospital-payment measures in the reviewed commercial-insurance and HMO applications.
+Argued January 18, 1995; decided April 26, 1995. On writs of certiorari to the United States Court of Appeals for the Second Circuit, reviewing its opinion issued October 25, 1993 and amended January 14, 1994. The question is whether ERISA preempts the challenged 13%, additional 11% and conditional up-to-9% New York hospital-payment measures in the reviewed commercial-insurance and HMO applications.
 
 These consolidated cases concern three New York hospital-payment measures: a 13% differential retained by hospitals, an additional 11% charge on the commercial-insurer category, and an HMO assessment of up to 9% with Medicaid participation and enrollment adjustments. The district court granted summary judgment against the State’s ERISA position, 813 F.Supp. 996. The amended Second Circuit judgment also sustained independent Federal Employees Health Benefits Act relief for the experience-rated federal employee plans at issue and resolved portions of Actuarial Letter No. 5 concerning stop-loss insurance. Those independent components are outside this review.
 
@@ -547,22 +524,18 @@ Subdivision 2-a(d) extends the adjusted factor to point-of-service inpatient bus
 
 **Lower relief and its limits.** The February 3, 1993 district order enjoined the surcharges against commercial insurers and HMOs in connection with their ERISA-plan coverage. It separately granted FEHBA relief against the 13% and 11% charges and stop-loss Actuarial Letter relief. The February 9 stay order stayed the 13% portion, did not stay the 9% and 11% portions, and required parties subject to the latter charges to pay into interest-bearing escrow pending resolution of defendants’ appeal. Those were different directions, not a single nonpayment rule. The Blues’ reply acknowledges direct self-funded applications and reports a later payment direction including Travelers as fiduciary for the Railroad Plans; its quoted passage contains an ellipsis, and the complete original later order is not available here. The January 14, 1994 amended appellate judgment directs a conforming district judgment. No particular later mandate date, conforming decree, escrow distribution or stay extension or termination is established. The Court therefore identifies the application and legal ground affected by its mandate, without inventing a current payment regime or treating the 1993 comparative-harm findings as findings of present harm.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court reverses in part, vacates in part, and remands all three cases, 9–0. The decided commercial-insurance and HMO ERISA surcharge rulings are reversed and the associated ERISA injunction dissolved to that extent. Any reviewed direct-self-funded adjudication and associated ERISA surcharge protection are vacated insofar as they concern the application left unresolved; that claim returns for consideration. Independent FEHBA and Actuarial Letter dispositions are undisturbed.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
 
+The Court reverses in part, vacates in part, and remands all three cases, 9–0. The decided commercial-insurance and HMO ERISA surcharge rulings are reversed and the associated ERISA injunction dissolved to that extent. Any reviewed direct-self-funded adjudication and associated ERISA surcharge protection are vacated insofar as they concern the application left unresolved; that claim returns for consideration. Independent FEHBA and Actuarial Letter dispositions are undisturbed.
+
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Reviewed commercial-insurance application of the 13% hospital differential | Reverse ERISA preemption, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Dissolve ERISA-based relief for this reviewed application. |
-| Reviewed commercial-insurance application of the additional 11% charge | Reverse ERISA preemption, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Dissolve ERISA-based relief for this reviewed application. |
-| Reviewed HMO application of the conditional up-to-9% assessment | Reverse ERISA preemption, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Dissolve ERISA-based relief for this reviewed application. |
-| Reviewed direct-self-funded adjudication and associated ERISA hospital-surcharge protection, insofar as either reaches an application left unresolved | Vacate that portion and remand, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | The live reserved claim, including the presented 13% direct-payor application and any necessary relation, saving or deemer inquiry, remains for adjudication; the vacated adjudication supplies no continuing final entitlement to protection. |
+| Reviewed commercial-insurance application of the 13% hospital differential | Reverse ERISA preemption, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Dissolve ERISA-based relief for this reviewed application. |
+| Reviewed commercial-insurance application of the additional 11% charge | Reverse ERISA preemption, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Dissolve ERISA-based relief for this reviewed application. |
+| Reviewed HMO application of the conditional up-to-9% assessment | Reverse ERISA preemption, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Dissolve ERISA-based relief for this reviewed application. |
+| Reviewed direct-self-funded adjudication and associated ERISA hospital-surcharge protection, insofar as either reaches an application left unresolved | Vacate that portion and remand, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | The live reserved claim, including the presented 13% direct-payor application and any necessary relation, saving or deemer inquiry, remains for adjudication; the vacated adjudication supplies no continuing final entitlement to protection. |
 
 The same partial reversal, limited vacatur and remand apply in Nos. 93-1408, 93-1414 and 93-1415. The lower courts must conform the actual operative decree, dissolving the reviewed hospital-surcharge injunction to the extent based on ERISA. The scope clause identifies the relief removed; it does not find that a separate direct-self-funded injunction exists. Vacatur does not reject or dismiss the reserved direct-plan claim, decide its relation/saving/deemer merits, or make the 11% commercial-insurer charge or HMO assessment directly payable by self-funded plans.
 
@@ -631,7 +604,7 @@ All nine Justices join the complete opinion. No separate opinion is filed.
 
 **Authority:** Souter’s opinion of the Court, joined by Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: nine direct votes for this component-specific procedural disposition under 28 U.S.C. §2106. No direct-plan relation, saving or deemer merits conclusion commands a vote because those questions are not decided.
 
-**Controlling explanation:** The Court holds that reservation of this application must preserve the claim without silently sustaining the prior final adjudication. Section 2106 permits reversal, vacatur and appropriate further proceedings for matters lawfully under review; the Court uses that authority to separate decided applications from the unresolved one. X-Citement Video preserves both available defenses of a favorable judgment and a lawful remand option. It does not make an available defense an established injunction entitlement. FMC requires respect for distinct insurer and self-funded inquiries, but does not decide this direct-payor application for the Court. Respondents may therefore pursue the reserved ground below. Treating the reserved ground?s availability as sufficient to preserve final protection assumes success on a ground the Court leaves open; categorical merits reversal would make the opposite error. The limited vacatur adopts neither assumption. Its application-defined scope does not invent a freestanding direct-plan decree. Independent FEHBA and stop-loss grounds remain, and the lower courts must assess any supported interim or fund-administration request without a new Supreme Court payment, escrow or timing command.
+**Controlling explanation:** The Court holds that reservation of this application must preserve the claim without silently sustaining the prior final adjudication. Section 2106 permits reversal, vacatur and appropriate further proceedings for matters lawfully under review; the Court uses that authority to separate decided applications from the unresolved one. X-Citement Video preserves both available defenses of a favorable judgment and a lawful remand option. It does not make an available defense an established injunction entitlement. FMC requires respect for distinct insurer and self-funded inquiries, but does not decide this direct-payor application for the Court. Respondents may therefore pursue the reserved ground below. Treating the reserved ground’s availability as sufficient to preserve final protection assumes success on a ground the Court leaves open; categorical merits reversal would make the opposite error. The limited vacatur adopts neither assumption. Its application-defined scope does not invent a freestanding direct-plan decree. Independent FEHBA and stop-loss grounds remain, and the lower courts must assess any supported interim or fund-administration request without a new Supreme Court payment, escrow or timing command.
 
 **Precedent treatment:**
 
@@ -640,17 +613,11 @@ All nine Justices join the complete opinion. No separate opinion is filed.
 
 This vacatur is expressly chosen for the reviewed unresolved component. It establishes no universal rule that a remand preserves an injunction, that a reversal automatically dissolves every order, or that reservation requires interim protection.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Shaw and Mackey retain their connection-or-reference framework and limits on remote effects. Board of Trade’s covered-plan benchmark is distinguished, not narrowed; a separate exempt benefit arrangement still does not erase reference to a covered plan. FMC’s subrogation holding and insured/self-funded saving/deemer distinction remain intact. John Hancock’s component-specific statutory qualifications and Fabe’s separate McCarran-Ferguson holding remain undisturbed; neither supplies an unneeded insurance-saving decision here. Wolens’s distinct airline contract rule is not transplanted into ERISA. No precedent is overruled. X-Citement Video preserves alternative defenses and lawful remand without converting an undecided ground into an established injunction entitlement. Section 2106 authorizes the express limited vacatur; the Court creates no general mandate-timing or automatic-injunction rule.
 
-#### Law After Decision
-
 The three reviewed commercial-insurance and HMO measures survive the asserted ERISA relation challenge because the shown price and participation influences do not impose plan terms or administration and do not establish equivalent acute compulsion. The decision clarifies the boundary left open for ordinary indirect economic effects in Board of Trade. Laws mandating plan benefits, specifically referring to ERISA plans, interfering with uniform administration or creating alternative enforcement remedies remain outside this holding. Direct self-funded relation, saving and deemer questions remain for consideration on remand; neither insurer treatment nor the absence of a present saving ruling decides them. The Court fixes no current rate, refund amount or entitlement under other law. The reviewed direct-plan adjudication and associated ERISA surcharge protection are vacated insofar as they concern the reserved application, so they supply no continuing final entitlement to protection. The claim remains live. Independent relief and properly supported interim requests retain their own legal and factual predicates.
-
-#### Separate Positions Relevant to the Decision
-
-All nine Justices join the Court’s opinion; no separate writing is filed.
 
 #### Source Notes
 
@@ -660,17 +627,17 @@ The [filed appendix in No. 93-1414](https://archive.org/details/micro_IA40385013
 
 All three cases return to the Second Circuit and district court under the partial reversal, limited vacatur and remand. The lower courts must conform the actual operative decree: set aside the reviewed insurer/HMO ERISA surcharge relief and vacate any reviewed direct-self-funded adjudication or associated ERISA surcharge protection insofar as it concerns the reserved application. That direct-plan claim remains live for consideration under the announced law and any properly presented independent ground, including necessary relation, saving and deemer questions. Remaining state and federal claims may proceed; independent FEHBA and Actuarial Letter dispositions remain undisturbed. The lower courts must identify any independent surviving basis for relief and resolve properly presented interim or fund-administration requests on applicable law and supported facts. Neither the rejected broad economic-effects theory nor the vacated final direct-plan adjudication independently establishes a continuing final entitlement to protection. No new interim injunction, automatic stay, guaranteed escrow, distribution, reimbursement, accrued liability or collection/payment command issues. Exact extension-law effects, rate-year implementation, live prospective relief and amounts remain below; the Court fixes no mandate or stay-termination date and makes no finding of mootness.
 
-**End of entry: New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co.; Pataki v. Travelers Insurance Co.; and Hospital Association of New York State v. Travelers Insurance Co., Merits decision, 1995-04-26.**
+**End of entry: New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., No. 93-1408; Pataki v. Travelers Insurance Co., No. 93-1414; and Hospital Association of New York State v. Travelers Insurance Co., No. 93-1415, Merits decision, April 26, 1995.**
 
 ---
 
 ### United States v. Lopez, No. 93-1260
 
-Merits decision, 1995-04-26
+Merits decision, April 26, 1995
 
 #### Chronology and Posture
 
-United States v. Lopez, No. 93-1260. Argued November 8, 1994; decided April 26, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, reviewing 2 F.3d 1342 (September 15, 1993). The question is whether the original Gun-Free School Zones Act’s possession prohibition can sustain this prosecution under Congress’s commerce power.
+Argued November 8, 1994; decided April 26, 1995. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, reviewing 2 F.3d 1342 (September 15, 1993). The question is whether the original Gun-Free School Zones Act’s possession prohibition can sustain this prosecution under Congress’s commerce power.
 
 On March 10, 1992, Alfonso Lopez, a twelfth-grade student, brought an unloaded .38 handgun and five bullets to Edison High School in San Antonio. The lower opinion reports a proposed $40 delivery for a gang conflict. The parties stipulated that an ATF agent would testify that the handgun was manufactured outside Texas. Neither circumstance supplies an element absent from the statute or an allegation absent from the indictment. State charges were dropped after federal prosecution began. Following a stipulated bench trial, the district court imposed six months’ imprisonment and two years’ supervised release. The Fifth Circuit reversed and directed dismissal, which the district court subsequently entered. The unresolved appellate objections concerned supervised release and the special assessment.
 
@@ -682,15 +649,11 @@ The separate original §922(q)(2) forbids knowingly, or with reckless disregard 
 
 Original §924(a)(4) authorizes imprisonment up to five years, a fine not exceeding $5,000, or both; imprisonment may not run concurrently with imprisonment imposed under another provision. Except for the authorized maximum, it treats the offense as a misdemeanor for purposes of other law. The Court does not apply a later fine provision to this charge, decide the reserved sentencing objections, or adjudicate an amended possession statute.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court affirms the Fifth Circuit’s judgment, 5–4. The original school-zone possession charge cannot be sustained on the offered Commerce Clause theory, and the dismissal remains in force.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court affirms the Fifth Circuit’s judgment, 5–4. The original school-zone possession charge cannot be sustained on the offered Commerce Clause theory, and the dismissal remains in force.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
@@ -741,11 +704,9 @@ The four dissenters would reverse the constitutional dismissal and remand for th
 - Stirone v. United States, 361 U.S. 212: supplies the grand-jury allegation boundary invoked against substituting trial proof for a necessary indictment allegation; the renewed objection remains conditional and is not decided after affirmance on another sufficient ground.
 - Russell v. United States, 369 U.S. 749: supplies the grand-jury allegation boundary invoked against curing omission of a necessary offense allegation through later proof; that conditional indictment objection is left unresolved because the commerce ground is sufficient.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Wickard and Perez remain available at their economic-class scope; neither is overruled. Allied-Bruce retains its actual-commerce construction and its express constitutional reservation. New York and Garcia retain their distinct limits concerning state compulsion and generally applicable regulation. Bass and Gregory permit construction, while X-Citement Video interprets an existing statutory term; none authorizes insertion of the missing commerce element. Stirone and Russell are not newly applied to invalidate this indictment because the conditional nexus question is not reached.
-
-#### Law After Decision
 
 Effective April 26, 1995, the original school-zone possession offense cannot be supported by the offered generalized crime-cost, education and productivity chain. The controlling ground is the five-Justice bounded commerce-connection holding, not a categorical prohibition on regulating noneconomic intrastate conduct and not the Chief Justice’s entire six-route framework. No general formal-findings requirement is adopted. Broad national commercial regulation remains intact. The decision announces no Second Amendment rule, decides no firearm’s protected status, and changes no standard under the Elections Clause or Reconstruction Amendments. No amended possession statute or separate discharge prosecution is adjudicated.
 
@@ -765,17 +726,17 @@ The [filed briefs and appendices in No. 93-1260](https://archive.org/details/mic
 
 The Fifth Circuit’s reversal and dismissal mandate remain operative, as does the district court’s ensuing dismissal. The Supreme Court merits proceeding ends without a new prosecution, sentence, trial, or sentencing remand. The Court leaves the alternative indictment theory and sentencing objections unadjudicated because the constitutional ground is sufficient. It issues no order concerning a different statute or the separate discharge prohibition.
 
-**End of entry: United States v. Lopez, Merits decision, 1995-04-26.**
+**End of entry: United States v. Lopez, No. 93-1260, Merits decision, April 26, 1995.**
 
 ---
 
 ### United States v. Harris, No. 94-297
 
-Merits decision, 1995-04-27
+Merits decision, April 27, 1995
 
 #### Chronology and Posture
 
-United States v. Harris, No. 94-297. Merits decision, April 27, 1995. On review of the United States Court of Appeals for the Fifth Circuit's June 29, 1994 judgment in United States v. Harris, 25 F.3d 1275, No. 93-7554. The questions concern Congress's commerce authority to enact the original armed-carjacking offense, its criminal-fault and fair-notice requirements, and cumulative convictions and consecutive punishment under §§2119 and 924(c). The defendants seek relief from their convictions and sentences; the Government seeks affirmance.
+On review of the United States Court of Appeals for the Fifth Circuit's June 29, 1994 judgment in United States v. Harris, 25 F.3d 1275, No. 93-7554. The questions concern Congress's commerce authority to enact the original armed-carjacking offense, its criminal-fault and fair-notice requirements, and cumulative convictions and consecutive punishment under §§2119 and 924(c). The defendants seek relief from their convictions and sentences; the Government seeks affirmance.
 
 The offense occurred December 12, 1992. The borrowed 1976 Buick Electra was manufactured in Flint, Michigan and titled in Arkansas and Mississippi. The trial evidence recounted by the Fifth Circuit placed Harris with a sawed-off shotgun and Hoskins with an ax handle at the confrontation: the occupants were ordered out, Hoskins drove away, and Harris pursued the occupants. The defendants' retaliation/afterthought account and Harris's claimed ignorance were defenses, not accepted contrary findings. Each defendant was convicted of aiding and abetting carjacking and of using or carrying a firearm during a crime of violence, receiving forty-one months on Count One and sixty months on Count Two, consecutive.
 
@@ -785,21 +746,17 @@ Offense-date §924(c)(1) requires use or carrying of a firearm during and in rel
 
 The then-effective separate firearm tiers prescribed ten years for a short-barreled rifle or shotgun; thirty years for a machinegun, destructive device, or firearm equipped with a silencer or muffler; twenty years for a second or subsequent conviction; and life without release for such a repeat conviction involving the listed machinegun, destructive-device, or silencer/muffler category. A sawed-off description in this record establishes neither statutory barrel length nor a basis for increasing the reviewed sentence. The later semiautomatic-assault-weapon tier and later deletion of the parole sentence are not applied to the 1992 conduct.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court affirms the Fifth Circuit's judgment unanimously on all three presented challenges. Both defendants' convictions and consecutive sentences remain in force. No new trial, resentencing, or further merits remand is ordered.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
 
+The Court affirms the Fifth Circuit's judgment unanimously on all three presented challenges. Both defendants' convictions and consecutive sentences remain in force. No new trial, resentencing, or further merits remand is ordered.
+
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Commerce challenge to original §2119 and the dependent federal predicate | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Both counts survive this challenge; no constitutional vacatur or Lopez remand. |
-| Presented criminal-fault and fair-notice challenges | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | No instruction-based relief, new trial, indictment amendment, or exploratory remand. |
-| Cumulative convictions and consecutive punishment | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Each defendant's forty-one-month Count One and consecutive sixty-month Count Two terms remain; no merger, count vacatur, concurrent conversion, sentence increase, or resentencing. |
+| Commerce challenge to original §2119 and the dependent federal predicate | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Both counts survive this challenge; no constitutional vacatur or Lopez remand. |
+| Presented criminal-fault and fair-notice challenges | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | No instruction-based relief, new trial, indictment amendment, or exploratory remand. |
+| Cumulative convictions and consecutive punishment | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Each defendant's forty-one-month Count One and consecutive sixty-month Count Two terms remain; no merger, count vacatur, concurrent conversion, sentence increase, or resentencing. |
 
 The commerce predicate remains federally prosecutable on the holding reached. The conditional consequence of an invalid federal predicate for §924(c) is therefore not triggered.
 
@@ -878,11 +835,9 @@ The eight-Justice commerce opinion controls directly. Stone-Zsela's distinct com
 
 **Limits and questions not reached:** The Court decides no independent instruction, indictment, preservation, harmlessness, sufficiency, or intradistrict-venue question. It determines neither knowledge of the vehicle's interstate history nor an independent permanent-deprivation requirement by a majority. No later carjacking intent amendment, later firearm tier, new short-barrel classification, serious-injury or death enhancement, or different charging pair is adjudicated.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Lopez preserves the economic-class ground used here while rejecting general downstream costs and judicial insertion of an absent nexus. Wickard and Perez remain effective within that commercial scope; Allied-Bruce's remote-history reservation remains intact. Staples, X-Citement Video, and Shabani support the specified culpability boundaries; Ratzlaf retains its distinct willfulness and residual-lenity rules. Smith keeps firearm use/carrying and relation separate. Deal's conviction-sequence holding does not decide this statutory pair. Hunter governs the clearly authorized one-trial cumulative punishment; Blockburger and Whalen do not override the express direction. Dixon and Grady retain their distinct successive-prosecution operation. No precedent is overruled.
-
-#### Law After Decision
 
 Original armed vehicle taking within the economic class and subject to the enacted vehicle-history requirement survives the commerce challenge on the Court's eight-Justice ground. That holding neither makes remote interstate movement alone sufficient nor adopts an automatic instrumentality theory. The original statute requires knowing participation and intentional aid for aiding-and-abetting liability, while no majority decides nexus-history knowledge or permanent deprivation. Clear §924(c) cumulative and consecutive authorization governs this §2119 pairing, and Hunter permits the resulting same-trial punishment. Existing successive-prosecution law remains unchanged. No later statutory amendment or unproved trial defect becomes law through this affirmance.
 
@@ -902,29 +857,99 @@ Justice Stevens concurs. He joins the Court's statutory construction and its lim
 
 The Fifth Circuit's affirmance remains in force. Each defendant's two convictions, forty-one-month Count One sentence, and consecutive sixty-month Count Two sentence are undisturbed. The Court issues no further merits remand, new trial, revised sentencing direction, or relief on a separate sufficiency or venue claim. The Supreme Court merits proceeding ends without an additional nonroutine act or condition.
 
-**End of entry: United States v. Harris, Merits decision, 1995-04-27.**
+**End of entry: United States v. Harris, No. 94-297, Merits decision, April 27, 1995.**
+
+---
+
+### United States v. Robertson, No. 94-251
+
+Merits decision, May 1, 1995
+
+#### Chronology and Posture
+
+Argued February 27, 1995; decided May 1, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, reviewing 15 F.3d 862 (February 1, 1994). The question is whether the Alaska gold mine was an enterprise engaged in interstate commerce within 18 U.S.C. §1962(a).
+
+The mine obtained some equipment and supplies in California and transported them to Alaska for mining use. It repeatedly recruited workers from outside Alaska, and Robertson and mine employees traveled between Alaska and the lower 48 States during its operation. Robertson, its sole proprietor, carried approximately $30,000 of its gold nuggets out of Alaska. Most gold was sold to Alaska refiners. No out-of-state sale or precise export percentage is found; most equipment was acquired locally.
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated.
+
+#### Judgment
+
+The Court reverses the Ninth Circuit insofar as it reversed the Count Six RICO conviction for insufficient enterprise-commerce evidence, 9–0, and remands for the remaining appellate proceedings.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Count Six enterprise-commerce reversal | Reverse and remand, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Remove the insufficient-commerce ground; the RICO conviction may be reinstated subject to remaining preserved appellate claims. |
+
+The Court does not unconditionally reinstate the RICO conviction or sentence. Six undecided RICO claims remain: refusal of a special verdict; venue; severance of the RICO and continuing-criminal-enterprise counts; exclusion of Agent Devetko’s testimony; denial of Criminal Justice Act funds to locate the claimed owner of the Cadillac used for predicate act six; and constitutional vagueness. The government’s unresolved argument that RICO conduct continued after November 1, 1987 and therefore attracted the Sentencing Guidelines remains for appellate consideration. No Guidelines applicability ruling is made.
+
+The convictions on Counts One–Four remain affirmed; their independent sentence vacatur and actual-resentencing mandate under then-Rule 32(c)(3)(D) remain undisturbed. That mandate requires a finding of accuracy or express nonreliance for each disputed presentence-report fact and an appended written record; a retrospective assertion of nonreliance alone does not replace actual resentencing. The acquittals on Counts Five and Eight and dismissal of Count Seven forfeiture remain unaffected. Those dispositions are outside this Court’s commerce ruling, not additional merits holdings.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reverse the Count Six commerce ruling and remand | Direct enterprise-commerce rule, cumulative input/labor/output application, reservation of the separate effects question and bounded remedy. |
+
+All nine directly join the same controlling proposition. No separate writing issues; no fractured-decision analysis is necessary.
+
+#### Controlling Propositions and Authority
+
+##### The mine’s own interstate operations satisfy the enacted enterprise-commerce condition
+
+**Controlling proposition:** An enterprise is engaged in interstate commerce under §1962(a) when it directly participates in interstate acquisition, production or distribution of goods or services. This mine’s actual cross-border procurement, repeated interstate recruitment and mine-work movement, together with its proprietor’s carriage out of Alaska of approximately $30,000 of its own output, establish that connection without a separate showing that this individual mine substantially affected interstate commerce.
+
+**Authority:** Justice Breyer’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: nine direct joins in the rule, cumulative application and bounded remedy.
+
+**Controlling explanation:** The Court holds that this mine participated in interstate commerce itself. American Building Maintenance distinguishes direct acquisition, production or distribution across state lines from local purchases of goods whose earlier interstate journey has ended; Gulf Oil likewise keeps direct engagement distinct from local activity with interstate effects. The mine obtained some equipment in California for use in Alaska, repeatedly brought workers across state lines for mining, and its sole proprietor carried a meaningful amount of its gold outside Alaska. Calling the enterprise local mining and local sales does not erase these transactions. The output’s mining origin and its carriage by the proprietor, considered with the continuing interstate operations, answer the attribution objection here without an out-of-state sale or a rule attributing every private owner act to the enterprise. Lopez rejects the unbounded chain from local wrongdoing to national economic consequences; this prosecution needs no such chain because the enacted connection is proved. The Court does not decide the separate affecting-commerce alternative, whether it requires substantial effects, or the sufficiency of retained-output carriage standing alone.
+
+**Precedent treatment:**
+
+- United States v. American Building Maintenance Industries, 422 U.S. 271, 283–286 (1975): applies its distinction between direct interstate goods or services transactions and local purchases after interstate movement has ended; its Clayton Act setting does not erase RICO’s separate affecting-commerce alternative.
+- Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186, 195 (1974): applies its direct-engagement distinction; local economic effects and direct participation remain different inquiries.
+- United States v. Lopez, April 26, 1995: distinguishes the stand-alone school-possession offense and generalized social-cost chain from this proved interstate enterprise connection; its bounded holding remains intact.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves attention to actual multistate commercial operation and its reserved constitutional ceiling; the FAA’s broader involving-commerce wording is not substituted for §1962(a).
+- United States v. Harris, April 27, 1995: preserves the economic-class vehicle-taking holding and refusal to make remote vehicle history alone conclusive; this decision instead concerns the enterprise’s own present interstate operations.
+
+**Limits and questions not reached:** The cumulative ground makes an independently sufficient procurement-only holding unnecessary. The Court does not decide whether a purely intrastate enterprise with only remote economic consequences satisfies §1962(a), establish a universal owner-activity attribution rule, or make a jurisdictional phrase substitute for proof. Predicate drug commerce alone is not enterprise commerce. Neither an out-of-state nugget sale, a precise output percentage, productive use of the wrecked Cadillac, mine use of the airplane, nor traced downstream refinery shipment is necessary or found. The Court decides no other RICO appellate claim, Guidelines issue or claim arising under a different RICO subsection.
+
+#### Precedent Treatment and Current-Law Effect
+
+American Building Maintenance and Gulf Oil supply the direct-engagement distinction; their narrower statutory settings remain identified. Actual interstate operation controls this application. Allied-Bruce, Lopez and Harris retain their stated scopes. The commerce condition remains independent under National Organization for Women v. Scheidler; Reves’s direction requirement for §1962(c) is not imported into §1962(a). Holmes’s direct-injury requirement for civil RICO damages does not determine this criminal enterprise-commerce question. No precedent is overruled.
+
+Section 1962(a)’s direct-engagement alternative is satisfied by the proved cumulative interstate operation of this mine. A separate substantial-effects showing for this individual enterprise is unnecessary under that alternative. The separate affecting-commerce route and its constitutional reach remain undecided. The decision adds no independently sufficient procurement-only rule and no rule making every proprietor’s private conduct enterprise activity. Lopez’s negative school-possession holding and Harris’s distinct economic-class holding remain unchanged; the Chief Justice’s complete six-route account in Lopez does not become a Court test through this decision.
+
+Section 1962(a)’s separate income, participation and investment conditions remain intact. Its securities qualification continues to exclude an open-market investment purchase made without intent to control or participate in control of the issuer or assist another in doing so, when the purchaser’s, immediate family’s and racketeering or unlawful-debt accomplices’ aggregate holdings after purchase are less than one percent of any outstanding class and confer no power, in law or fact, to elect a director. That qualification is not implicated by ownership and operation of this mine.
+
+#### Source Notes
+
+The [government merits brief](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%205.%20Petitioners%20Brief.pdf), pp.4–5, 18–23, and [respondent merits brief](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%206.%20Respondents%20Brief.pdf), pp.2–3, 20–23, supply the interstate equipment, hiring, operational travel and retained-gold accounts and competing attribution arguments. The printed government p.21 n.8–p.22 n.8 citation is Tr.774–784, 1723; the text extraction’s 1728 is an OCR error. The briefs cite trial testimony; the underlying witness transcript was not independently inspected. No out-of-state sale, shipping document or exact export proportion is supplied.
+
+The [petition and lower-opinion collection](https://archive.org/details/micro_IA40385013_0551), Appendix A pp.1a–36a, supplies the Ninth Circuit’s disposition, remaining claims at p.11a n.3, Rule 32 remedy at pp.25a–26a, and unresolved sentencing argument at pp.26a–27a. The [Joint Appendix](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%204.%20Joint%20Appendix.pdf), pp.36–37, 60–61 and 74–78, supplies indictment, commerce instructions and district judgment; it contains no mining witness testimony. American Building Maintenance and Gulf Oil are surviving authorities; Allied-Bruce, Lopez and Harris supply the specified current-law context.
+
+#### Mandate, Remedy, and Stage
+
+The case returns to the Ninth Circuit for remaining preserved RICO appellate claims and the unresolved government RICO sentencing argument. The commerce-based reversal no longer bars reinstatement, but the Court orders neither unconditional reinstatement nor a particular RICO sentence. The independent drug-sentence vacatur and actual-resentencing mandate remain effective. Ordinary Supreme Court merits review ends; further appellate proceedings remain below. No new trial, acquittal, forfeiture or substantive sentencing ruling is ordered.
+
+**End of entry: United States v. Robertson, No. 94-251, Merits decision, May 1, 1995.**
 
 ---
 
 ### United States v. Pinson, No. 94-164
 
-Merits decision, 1995-05-08
+Merits decision, May 8, 1995
 
 #### Chronology and Posture
 
-United States v. Pinson, No. 94-164. Argued March 20, 1995; decided May 8, 1995. Merits review of the Eighth Circuit’s May 23, 1994 judgment, 24 F.3d 1056, affirming a federal conviction and sentence for manufacturing more than 100 marijuana plants. The question is whether the outside thermal examination directed at heat patterns associated with activity inside Pinson’s home was a Fourth Amendment search requiring a warrant.
+Argued March 20, 1995; decided May 8, 1995. Merits review of the Eighth Circuit’s May 23, 1994 judgment, 24 F.3d 1056, affirming a federal conviction and sentence for manufacturing more than 100 marijuana plants. The question is whether the outside thermal examination directed at heat patterns associated with activity inside Pinson’s home was a Fourth Amendment search requiring a warrant.
 
 Police learned of earlier shipments from hydroponic-equipment suppliers and unusually high electricity use. At approximately 1:20 a.m. on July 25, 1991, a helicopter-mounted FLIR examined heat at a covered third-floor window, roof, and skylight without a warrant. The testimony described relative surface heat, not absolute temperatures or sight through walls. A separate July 30 warrant search found the growing operation and seized marijuana, cash, equipment, and cultivation publications. The search claim was preserved; the circuit expressly reported that affidavit sufficiency was not challenged on appeal and made no determination of that issue.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court holds that the targeted thermal examination was a search and vacates the challenged appellate judgment to the specified extent. Justice Scalia announces the opinion of the Court. Chief Justice Stone-Zsela concurs in part and in the judgment; Justice Kennedy dissents, joined by Justice Breyer. No additional nonroutine order is issued.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court holds that the targeted thermal examination was a search and vacates the challenged appellate judgment to the specified extent. Justice Scalia announces the opinion of the Court. Chief Justice Stone-Zsela concurs in part and in the judgment; Justice Kennedy dissents, joined by Justice Breyer. No additional nonroutine order is issued.
 
 | Component | Disposition and vote | Supporting Justices | Contrary Justices | Legal ground and consequence |
 |---|---|---|---|---|
@@ -949,7 +974,7 @@ Each controlling portion has its own direct majority. No combination of opposed 
 
 ##### I. The targeted examination of this closed home's heat patterns is a search
 
-**Holding and operative rule:** A targeted technological examination of a closed home constitutes a Fourth Amendment search when, as here, its reported heat-pattern information reveals otherwise unobservable information concerning concealed domestic operation. External reception and the absence of an image identifying a person or object do not defeat protection; investigative purpose or use of equipment alone is insufficient, and the Court adopts no general rule governing every sensor or exterior emission.
+**Controlling proposition:** A targeted technological examination of a closed home constitutes a Fourth Amendment search when, as here, its reported heat-pattern information reveals otherwise unobservable information concerning concealed domestic operation. External reception and the absence of an image identifying a person or object do not defeat protection; investigative purpose or use of equipment alone is insufficient, and the Court adopts no general rule governing every sensor or exterior emission.
 
 **Authority:** Part I of Scalia's opinion, joined by Stone-Zsela, Stevens, O’Connor, Souter, Thomas, and Ginsburg: seven Justices. This directly controlling application concerns the covered dwelling and demonstrated differential-heat output. Stone-Zsela also states a broader formulation in his separate writing; the other six do not join that formulation merely by joining this application.
 
@@ -968,7 +993,7 @@ Each controlling portion has its own direct majority. No combination of opposed 
 
 ##### II. No warrant exception justifies this scan on the established record
 
-**Holding and operative rule:** This search of protected home information required a warrant unless a recognized exception applied. The July 25 scan had no warrant, and no consent, exigency, or other recognized exception is established; the subsequent warrant for physical entry does not retroactively authorize the scan.
+**Controlling proposition:** This search of protected home information required a warrant unless a recognized exception applied. The July 25 scan had no warrant, and no consent, exigency, or other recognized exception is established; the subsequent warrant for physical entry does not retroactively authorize the scan.
 
 **Authority:** Part II of Scalia's opinion, joined by Stevens, O’Connor, Souter, Thomas, and Ginsburg: six Justices. Stone-Zsela does not join Part II and expresses no view on its additional proposition. Kennedy and Breyer do not reach justification because they find no search.
 
@@ -981,7 +1006,7 @@ Each controlling portion has its own direct majority. No combination of opposed 
 
 ##### III. Correct the preserved search ruling without reopening unpresented warrant questions
 
-**Holding and operative rule:** The Eighth Circuit's judgment is vacated insofar as its rejection of the preserved suppression claim and affirmance of the conviction rest on the categorical no-search ground, and the case is remanded for lawful disposition of that claim under the corrected search rule. Pinson's failure to challenge affidavit sufficiency on appeal remains operative: the mandate directs no new excision-and-probable-cause hearing, revives no waived or forfeited argument automatically, and permits further warrant, suppression, or reliance questions only to the extent properly available under the existing record and ordinary preservation and remedial law.
+**Controlling proposition:** The Eighth Circuit's judgment is vacated insofar as its rejection of the preserved suppression claim and affirmance of the conviction rest on the categorical no-search ground, and the case is remanded for lawful disposition of that claim under the corrected search rule. Pinson's failure to challenge affidavit sufficiency on appeal remains operative: the mandate directs no new excision-and-probable-cause hearing, revives no waived or forfeited argument automatically, and permits further warrant, suppression, or reliance questions only to the extent properly available under the existing record and ordinary preservation and remedial law.
 
 **Authority:** Part III of Scalia's opinion, joined by Stone-Zsela, Stevens, O’Connor, Souter, Thomas, and Ginsburg: seven Justices. The mandate controls directly. The remedial authorities below delimit unresolved possibilities; none supplies an independent finding admitting or excluding the evidence. Kennedy and Breyer prefer affirmance on their no-search ground; their acceptance of these procedural limits if the search holding governs does not add votes for vacatur.
 
@@ -994,7 +1019,7 @@ Each controlling portion has its own direct majority. No combination of opposed 
 - United States v. Leon, 468 U.S. 897: left available only if procedurally open and factually supported. Objective reliance affords no protection for knowing or reckless deception of the magistrate, abandonment of judicial neutrality, an affidavit so lacking probable-cause indicia that reliance is wholly unreasonable, or facial warrant deficiency precluding reasonable reliance. The inquiry includes information-obtaining and supplying officers and assumes execution within the warrant's scope; no final reliance finding is made.
 - Arizona v. Evans, decided March 1, 1995: confined to qualifying non-law-enforcement court-employee clerical error plus objectively reasonable reliance. Reserved police or mixed institutional errors supply no technology exception for this deliberate scan, and no final exclusion ruling follows here.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Katz remains the basis for privacy protection without physical penetration.
 
@@ -1020,8 +1045,6 @@ Evans retains its qualifying court-employee clerical-error and reasonable-relian
 
 No precedent is overruled. The circuit's categorical no-search rationale cannot sustain the affected disposition.
 
-#### Law After Decision
-
 Lower courts must treat this targeted closed-home thermal examination as a search on its demonstrated informational content. Seven Justices support that bounded rule; six additionally hold that no warrant exception is established for this scan. The rule does not depend on an invented capacity to see through walls or a finding about public availability, altitude, or flight frequency. It creates no general rule for every sensor, every emission, or every technological measurement. The absence of a warrant exception does not itself decide exclusion or the validity of a later warrant. The seven-Justice mandate preserves the appellate nonchallenge to affidavit sufficiency and leaves only lawfully available proceedings open. The Chief's broader formulation and the dissenters' limited no-search theory are separate positions, not additional controlling holdings.
 
 #### Separate Positions Relevant to the Decision
@@ -1044,17 +1067,17 @@ They adopt no general heat-abandonment rule, contraband-only analogy, public-ava
 
 The case returns to the Eighth Circuit for lawful disposition of the preserved suppression claim under Parts I and II, within Part III's mandate. The circuit must identify which remaining questions, if any, are properly available under the existing record and ordinary preservation, forfeiture, and remedial law. It is not directed to excise thermal information, conduct a new probable-cause hearing, or decide an unpreserved issue. No current finding resolves untainted probable cause, objective reliance, suppression, or the ultimate consequence for the conviction. No trial error is identified and no trial or sentencing relief is presently commanded. The separate lesser-harms disposition remains outside review. Supreme Court merits review is complete; the bounded remand remains for the lower court.
 
-**End of entry: United States v. Pinson, Merits decision, 1995-05-08.**
+**End of entry: United States v. Pinson, No. 94-164, Merits decision, May 8, 1995.**
 
 ---
 
 ### Hubbard v. United States, No. 94-172
 
-Merits decision, 1995-05-15
+Merits decision, May 15, 1995
 
 #### Chronology and Posture
 
-Hubbard v. United States, No. 94-172. Argued February 21, 1995; decided May 15, 1995. On certiorari under 28 U.S.C. §1254(1) to review the Sixth Circuit’s February 15, 1994 affirmance, 16 F.3d 694, of Counts V–VII for false statements under 18 U.S.C. §1001. The question is whether the federal court receiving these bankruptcy filings is a department or agency within the statute. The Court does not independently review Counts I–IV for bankruptcy fraud, Counts VIII–X for mail fraud, their evidentiary sufficiency, or the rejected ineffective-assistance claim.
+Argued February 21, 1995; decided May 15, 1995. On certiorari under 28 U.S.C. §1254(1) to review the Sixth Circuit’s February 15, 1994 affirmance, 16 F.3d 694, of Counts V–VII for false statements under 18 U.S.C. §1001. The question is whether the federal court receiving these bankruptcy filings is a department or agency within the statute. The Court does not independently review Counts I–IV for bankruptcy fraud, Counts VIII–X for mail fraud, their evidentiary sufficiency, or the rejected ineffective-assistance claim.
 
 Hubbard filed a Chapter 7 petition on September 25, 1985. Count V concerns the response asserting prior delivery of business records to a former trustee and no later request; Counts VI and VII concern denials about the locations of a well-drilling machine and its parts in an answer to the successor trustee's complaint. The filings were unsworn. The jury found factual falsehoods, and the circuit found the statements capable of affecting identification and collection of estate assets. The circuit rejected the Rule 12 waiver objection as a failure-to-charge argument under then-Rule 12(b)(2), and separately declined a judicial-function exception. It expressly did not decide the Government's alternative contention that the filings concerned administrative rather than adjudicative asset collection.
 
@@ -1080,19 +1103,15 @@ Section 151's institutional designation, effective July 10, 1984, provides:
 
 The provision's unit and judicial-officer designations do not independently settle Title 18 coverage or the trustee's status. Authority is limited to that conferred under chapter 6 and remains subject to contrary law or district-court rule or order; permission to exercise it or preside alone is not an obligation or unrestricted grant of district-court power.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court reverses the affirmance of Counts V–VII and remands for lawful proceedings to vacate those §1001 convictions. Justice Thomas announces the opinion of the Court. Justice Stevens concurs, joined by Justices Ginsburg and Breyer; Justice Scalia concurs, joined by Justice Kennedy; the Chief Justice concurs in part and in the judgment; Justice O’Connor dissents, joined by Justice Souter. No additional nonroutine order issues.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
 
+The Court reverses the affirmance of Counts V–VII and remands for lawful proceedings to vacate those §1001 convictions. Justice Thomas announces the opinion of the Court. Justice Stevens concurs, joined by Justices Ginsburg and Breyer; Justice Scalia concurs, joined by Justice Kennedy; the Chief Justice concurs in part and in the judgment; Justice O’Connor dissents, joined by Justice Souter. No additional nonroutine order issues.
+
 | Component | Disposition and vote | Supporting Justices | Contrary Justices | Scope and remedy |
 |---|---|---|---|---|
-| Reach the court-entity question | Reach, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Same three challenged convictions and question presented; the Chief joins the reach conclusion but not the additional procedural analysis. |
+| Reach the court-entity question | Reach, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Same three challenged convictions and question presented; the Chief joins the reach conclusion but not the additional procedural analysis. |
 | Count V: records response | Reverse affirmance and remand for vacatur, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer | O’Connor, Souter | The asserted court nexus cannot sustain this §1001 conviction; factual falsity is not overturned as unproved. |
 | Count VI: machinery-location denial | Reverse affirmance and remand for vacatur, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer | O’Connor, Souter | The same statutory defect requires vacatur of this distinct §1001 count. |
 | Count VII: parts-location denial | Reverse affirmance and remand for vacatur, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer | O’Connor, Souter | The same statutory defect requires vacatur of this distinct §1001 count. |
@@ -1118,7 +1137,7 @@ Thomas does not join either extended concurring framework. His practical concern
 
 ##### I. The court-entity question is properly before the Court
 
-**Holding and operative rule:** The Court reaches whether the federal court receiving the filings supporting Counts V–VII is a department or agency within offense-date §§6 and 1001. The governing-law inquiry concerns the same challenged convictions and the question presented; it does not authorize review of a separate judgment, enlarge review merely because merits briefs discuss an issue, or require decision of every unargued antecedent question.
+**Controlling proposition:** The Court reaches whether the federal court receiving the filings supporting Counts V–VII is a department or agency within offense-date §§6 and 1001. The governing-law inquiry concerns the same challenged convictions and the question presented; it does not authorize review of a separate judgment, enlarge review merely because merits briefs discuss an issue, or require decision of every unargued antecedent question.
 
 **Authority:** Part I of Thomas's opinion. Stevens, O’Connor, Scalia, Kennedy, Souter, Ginsburg, and Breyer join the complete analysis: eight Justices including the author. Stone-Zsela joins the conclusion that no jurisdictional, preservation, or vehicle bar prevents reaching the question presented; he does not join the additional analysis. The complete procedural explanation therefore has eight votes and the reach conclusion has nine.
 
@@ -1135,7 +1154,7 @@ Thomas does not join either extended concurring framework. His practical concern
 
 ##### II. A federal court is not an included department or agency under this statute
 
-**Holding and operative rule:** Under the offense-date §§6 and 1001, a federal court is neither an enumerated executive department nor an agency within the statute's contextual meaning; the department definition's branch-wide contextual alternative does not extend this statute to the court, and the distinct agency definition does not do so either. Counts V–VII therefore lack the asserted court nexus, without deciding whether another Judicial Branch entity could qualify as an agency or whether an independently established nexus to a different included institution would support a different prosecution.
+**Controlling proposition:** Under the offense-date §§6 and 1001, a federal court is neither an enumerated executive department nor an agency within the statute's contextual meaning; the department definition's branch-wide contextual alternative does not extend this statute to the court, and the distinct agency definition does not do so either. Counts V–VII therefore lack the asserted court nexus, without deciding whether another Judicial Branch entity could qualify as an agency or whether an independently established nexus to a different included institution would support a different prosecution.
 
 **Authority:** Part II of Thomas's opinion, joined by Stevens, Scalia, Kennedy, Ginsburg, and Breyer: six direct votes. Stone-Zsela reaches the same count disposition under his narrower Article III/adjudicative rule but does not join this broader court-entity construction. O’Connor and Souter would retain Bramblett's contrary construction. No combination of these different grounds is needed for the six-Justice holding.
 
@@ -1151,7 +1170,7 @@ Thomas does not join either extended concurring framework. His practical concern
 
 ##### III. Bramblett's incompatible all-branch construction is overruled
 
-**Holding and operative rule:** Bramblett's construction of department in §1001 to include the executive, legislative, and judicial branches is overruled, including the rationale supporting its legislative-branch result. The decision does not adjudicate the independent House Disbursing Office agency or Treasury-nexus theories Bramblett left open, classify every other judicial entity, or alter §287's separate false-claims coverage.
+**Controlling proposition:** Bramblett's construction of department in §1001 to include the executive, legislative, and judicial branches is overruled, including the rationale supporting its legislative-branch result. The decision does not adjudicate the independent House Disbursing Office agency or Treasury-nexus theories Bramblett left open, classify every other judicial entity, or alter §287's separate false-claims coverage.
 
 **Authority:** Part III of Thomas's opinion, joined by Stevens, Scalia, Kennedy, Ginsburg, and Breyer: six votes for this express precedent treatment. Stone-Zsela supports overruling only to the extent stated in his narrower concurrence and does not join the broader disposition of Bramblett. The six associates do not share a controlling extended stare decisis framework: Stevens, Ginsburg, and Breyer adopt one account; Scalia and Kennedy another; Thomas joins neither complete account. No Marks synthesis supplies a further rule.
 
@@ -1166,7 +1185,7 @@ Thomas does not join either extended concurring framework. His practical concern
 
 ##### IV. Reverse only the affirmance of Counts V–VII and remand to vacate them
 
-**Holding and operative rule:** The Sixth Circuit's affirmance of Counts V, VI, and VII is reversed, and the case is remanded for lawful proceedings to vacate those §1001 convictions on the asserted court-nexus ground. Counts I–IV and VIII–X remain undisturbed by this review; no exact prison, probation, supervised-release, fine, immediate-release, general resentencing, retrial, or new-prosecution command follows, and any ordinary implementation requires lawful proceedings and the actual criminal judgment.
+**Controlling proposition:** The Sixth Circuit's affirmance of Counts V, VI, and VII is reversed, and the case is remanded for lawful proceedings to vacate those §1001 convictions on the asserted court-nexus ground. Counts I–IV and VIII–X remain undisturbed by this review; no exact prison, probation, supervised-release, fine, immediate-release, general resentencing, retrial, or new-prosecution command follows, and any ordinary implementation requires lawful proceedings and the actual criminal judgment.
 
 **Authority:** Part IV of Thomas's opinion, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Ginsburg, and Breyer: seven votes for the exact count-specific mandate. Stone-Zsela's narrower coverage and precedent position supplies his vote; he does not join Parts II–III. O’Connor and Souter would affirm these three convictions. The other seven convictions receive no new merits adjudication.
 
@@ -1177,7 +1196,7 @@ Thomas does not join either extended concurring framework. His practical concern
 - United States v. Bramblett, 348 U.S. 503: no longer supports these court-based §1001 convictions; the seven mandate votes differ in the broader extent of their precedent treatment as stated in Part III and Stone-Zsela's concurrence.
 - United States v. Rodgers, 466 U.S. 475: its jurisdiction holding does not supply a new entity nexus or an independent basis to affirm these convictions.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Bramblett's incompatible all-branch department construction is expressly overruled, including the rationale supporting its legislative result. Its undecided agency and Treasury theories are not adjudicated by implication.
 
@@ -1219,8 +1238,6 @@ Granderson retains its confined contextual and residual-lenity rules; disagreeme
 
 The lower judicial-function decisions are not adopted as an independently controlling exception. Section 287 and the separate statutes governing perjury, contempt, bankruptcy fraud, obstruction, and covered sworn or court statements remain operative on their own terms.
 
-#### Law After Decision
-
 Under the offense-date law, the court is neither a department nor an agency within §§6 and 1001. The department contextual alternative and agency qualification remain real and distinct; no blanket conclusion about every Judicial Branch body or trustee follows. Bramblett's inconsistent all-branch construction no longer governs, including the rationale supporting its legislative result. Six Justices directly support those holdings. No additional entity nexus or outcome under an independent agency theory is established. Rodgers's jurisdiction rule operates only once an included institution is identified. The decision creates neither a right to lie nor an independent judicial-function or private-litigation exception. Other enacted offenses retain their scope. Seven Justices require vacatur of V–VII alone. No extended stare decisis account, generic Marks synthesis, or independently sufficient lenity alternative changes current doctrine.
 
 #### Separate Positions Relevant to the Decision
@@ -1261,17 +1278,17 @@ The [official §6 text and reference note](https://www.govinfo.gov/content/pkg/U
 
 The Sixth Circuit receives the case for lawful proceedings implementing reversal of its affirmance of Counts V–VII and vacatur of those §1001 convictions. The seven other convictions and proceedings remain governed by the lower court's judgment except for any ordinary consequence lawfully determined from the actual criminal judgment. No exact prison, probation, supervised-release, fine, immediate-release, or general resentencing instruction issues. The Government's administrative-asset-collection characterization need not be resolved to implement the Court's entity holding, and the mandate does not reopen it as an independent exception theory. No retrial, new charge, or new prosecution is ordered. Supreme Court merits review is complete; count-specific implementation remains below.
 
-**End of entry: Hubbard v. United States, Merits decision, 1995-05-15.**
+**End of entry: Hubbard v. United States, No. 94-172, Merits decision, May 15, 1995.**
 
 ---
 
 ### Kansas v. Colorado, No. 105, Original
 
-Decision on exceptions, 1995-05-15
+Decision on exceptions and recommittal, May 15, 1995
 
 #### Chronology and Posture
 
-Kansas v. Colorado, No. 105, Original. Argued March 21, 1995; decided May 15, 1995. This original proceeding concerns seven exceptions to the Special Master’s liability report and three unexcepted recommendations. There are no consolidated companion dockets.
+Argued March 21, 1995; decided May 15, 1995. This original proceeding concerns seven exceptions to the Special Master’s liability report and three unexcepted recommendations. There are no consolidated companion dockets.
 
 This is the continuing original action between Kansas and Colorado under Article III, §2 and 28 U.S.C. §1251(a), on exceptions to Special Master Arthur L. Littleworth’s liability report. The original action began in 1986; there is no lower-court judgment to affirm or reverse and no certiorari disposition. The United States intervened concerning federal reservoir operations. The liability trial occupied 141 days from September 1990 through December 1992. The January 2, 1990 phase order separated remedy while permitting remedial or economic evidence necessary to liability, defenses and counterclaims.
 
@@ -1297,15 +1314,11 @@ Article IX-A and consent Act §2 reserve federal sovereignty, rights and jurisdi
 
 The 1980 Operating Plan separately exchanges release and timing rights through conservation accounts ordinarily divided 60% to Colorado District 67 and 40% to Kansas; it does not divide all river flow or imports. Colorado surrendered winter river-flow demands and Kansas its summer river-flow entitlement. Its other-water accounts concern deliveries under pre-Compact Colorado rights. Under III-A, Amity may store in its account water it could otherwise divert for storage in the Great Plains Reservoir system. Under III-B/C, Fort Lyon and Las Animas Consolidated have agricultural accounts for deliveries under an approved Pueblo winter-storage plan, capped at 20,000 and 5,000 acre-feet respectively and excluding water that otherwise would accumulate in conservation storage. Those two accounts may exchange with existing priorities, may not increase the permanent recreation pool by exchange, transfer, changed use or otherwise, and return unreleased water to conservation storage at the compact year’s end. The Plan transfers 35% of deliveries under III-A/B/C first to replenish Kansas transit-account deficits and then fill that account to 1,700 acre-feet; for excess deliveries, 11% goes to Kansas and 24% to District 67, with Amity excluded from sharing distributions of its own III-A deliveries. Kansas delivery transit losses are replenished from its transit account, with any deficit made up from the next available other-water transfers. Account evaporation is apportioned by stored amounts under jointly approved procedures; physical spills follow the Plan’s order: permanent-pool water above 10,000 acre-feet, III-A/B/C accounts, Section II conservation accounts, the Kansas transit account, then conservation storage, with account spills prorated by amounts at the start. Permanent-pool deliveries are exempt from the III-D transfer but bear their evaporation share. Injury from improper benefits calls for restitution from the benefiting entity’s first available account water, quantified by the engineering committee subject to Administration approval; this provision is not a present award on the pumping claim. Section VI preserves Kansas’s and Colorado ditches’ ability to represent their interests before the Administration and competent courts. After the annual accounting due December 1, either State’s delegation may terminate on the next March 31 by written notice to the Administration by February 1. Previously stored account water remains usable under the Plan during the next irrigation season; unused water reverts to conservation storage November 1. None of these account terms establishes the independent well-liability credit asserted here.
 
-#### Participation
-
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established.
-
-#### Public Action
-
-The Court unanimously overrules all seven exceptions, adopts the finding that post-Compact Colorado well pumping materially depleted protected usable water, confirms the narrow WWSP prior-approval ruling and the two counterclaim dismissals, rejects the pleaded Trinidad and WWSP depletion claims, and recommits the original action to the Special Master for remedy proceedings.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated.
 
 #### Judgment
+
+The Court unanimously overrules all seven exceptions, adopts the finding that post-Compact Colorado well pumping materially depleted protected usable water, confirms the narrow WWSP prior-approval ruling and the two counterclaim dismissals, rejects the pleaded Trinidad and WWSP depletion claims, and recommits the original action to the Special Master for remedy proceedings.
 
 | Component | Disposition and ground | Vote and coalition |
 |---|---|---|
@@ -1335,7 +1348,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 1. Pumping liability is established without choosing a general proof quantum
 
-**Holding and operative rule:** Colorado’s post-Compact well development, including increased use of existing wells, materially depleted water protected by Article IV-D in usable quantity or availability. The substantial pumping violation is established even by clear and convincing evidence, while the separate WWSP claim fails even by a preponderance; the Court therefore overrules Colorado’s proof-standard exception without choosing the general quantum governing disputed Compact-enforcement facts or fixing a compensable quantity.
+**Controlling proposition:** Colorado’s post-Compact well development, including increased use of existing wells, materially depleted water protected by Article IV-D in usable quantity or availability. The substantial pumping violation is established even by clear and convincing evidence, while the separate WWSP claim fails even by a preponderance; the Court therefore overrules Colorado’s proof-standard exception without choosing the general quantum governing disputed Compact-enforcement facts or fixing a compensable quantity.
 
 **Authority:** Part 1 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1348,7 +1361,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 2. The protected pumping baseline is actual use, not hypothetical capacity
 
-**Holding and operative rule:** Article IV-D’s protection against material depletion extends to the improved or prolonged functioning of existing works, and Article VI-A(2) preserves Colorado’s administration only subject to the Compact’s other provisions. The supported 15,000-acre-foot historical actual-use benchmark governs this liability accounting rather than later decreed quantities or hypothetical maximum capacity; it is not an unconditional annual pumping cap or a final damages quantity.
+**Controlling proposition:** Article IV-D’s protection against material depletion extends to the improved or prolonged functioning of existing works, and Article VI-A(2) preserves Colorado’s administration only subject to the Compact’s other provisions. The supported 15,000-acre-foot historical actual-use benchmark governs this liability accounting rather than later decreed quantities or hypothetical maximum capacity; it is not an unconditional annual pumping cap or a final damages quantity.
 
 **Authority:** Part 2 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1360,7 +1373,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 3. The laches exception fails for lack of established inexcusable delay
 
-**Holding and operative rule:** Assuming laches could apply, Colorado has not established Kansas’s inexcusable lack of diligence and therefore cannot obtain the requested bar to monetary liability for periods before March 1985. The Court leaves laches’s categorical availability in Compact enforcement open, makes no independently sufficient prejudice holding, and reserves the eventual form of relief and properly supported remedy-stage equities.
+**Controlling proposition:** Assuming laches could apply, Colorado has not established Kansas’s inexcusable lack of diligence and therefore cannot obtain the requested bar to monetary liability for periods before March 1985. The Court leaves laches’s categorical availability in Compact enforcement open, makes no independently sufficient prejudice holding, and reserves the eventual form of relief and properly supported remedy-stage equities.
 
 **Authority:** Part 3 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1374,7 +1387,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 4. The separate reservoir bargain supplies no independent pumping credit
 
-**Holding and operative rule:** The 1980 John Martin Operating Plan does not create the asserted independent legal credit against well-pumping liability for benefits Kansas obtained through a separately bargained exchange of release and timing rights. Actual Plan operation and actual imported return flows that reduce the measured loss must remain in the physical accounting; the Court rejects no credit actually created by agreement and awards no final numerical offset.
+**Controlling proposition:** The 1980 John Martin Operating Plan does not create the asserted independent legal credit against well-pumping liability for benefits Kansas obtained through a separately bargained exchange of release and timing rights. Actual Plan operation and actual imported return flows that reduce the measured loss must remain in the physical accounting; the Court rejects no credit actually created by agreement and awards no final numerical offset.
 
 **Authority:** Part 4 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1386,7 +1399,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 5. The pleaded Trinidad claim requires the Compact’s material depletion
 
-**Holding and operative rule:** The 1967 Trinidad Operating Principles do not establish the asserted independent Compact command making every departure a violation without the material depletion required by Article IV-D. Kansas has not established that depletion by comparing actual operation with conditions without the project, so its pleaded Compact claim is dismissed; independent agreement, third-party-beneficiary and other authorized enforcement theories remain undecided.
+**Controlling proposition:** The 1967 Trinidad Operating Principles do not establish the asserted independent Compact command making every departure a violation without the material depletion required by Article IV-D. Kansas has not established that depletion by comparing actual operation with conditions without the project, so its pleaded Compact claim is dismissed; independent agreement, third-party-beneficiary and other authorized enforcement theories remain undecided.
 
 **Authority:** Part 5 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1398,7 +1411,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 6. The WWSP depletion claim fails on the particular proof
 
-**Holding and operative rule:** Kansas has not proved even by a preponderance that the reviewed Winter Water Storage Program materially depleted protected usable water, and its depletion exception is overruled. The conclusion rests on the comparison’s operational, nonparallel-error and timing defects, not a finding of no possible depletion, a demand for perfect modeling, or a rule that calibration error larger than the modeled effect always defeats proof.
+**Controlling proposition:** Kansas has not proved even by a preponderance that the reviewed Winter Water Storage Program materially depleted protected usable water, and its depletion exception is overruled. The conclusion rests on the comparison’s operational, nonparallel-error and timing defects, not a finding of no possible depletion, a demand for perfect modeling, or a rule that calibration error larger than the modeled effect always defeats proof.
 
 **Authority:** Part 6 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1410,7 +1423,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 7. The adopted usable-water method fits this liability record
 
-**Holding and operative rule:** Article IV-D protects usable quantity and availability, including supported timing and recharge, rather than gross annual flow alone. For this liability record the Court accepts Durbin’s approach with Larson’s modifications—72% summer, 25% winter, a 9.9% pre-Compact recharge component, and monthly/seasonal ceilings of 40,000/140,000 acre-feet in summer and 7,500/40,000 in winter—and rejects Kansas’s exception without prescribing a permanent formula or foreclosing reliable daily analysis.
+**Controlling proposition:** Article IV-D protects usable quantity and availability, including supported timing and recharge, rather than gross annual flow alone. For this liability record the Court accepts Durbin’s approach with Larson’s modifications—72% summer, 25% winter, a 9.9% pre-Compact recharge component, and monthly/seasonal ceilings of 40,000/140,000 acre-feet in summer and 7,500/40,000 in winter—and rejects Kansas’s exception without prescribing a permanent formula or foreclosing reliable daily analysis.
 
 **Authority:** Part 7 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1422,7 +1435,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 8. The separate WWSP prior-approval ruling is confirmed on its narrow ground
 
-**Holding and operative rule:** The 1951 Administration policy resolution, the Compact and the cited 1944 and 1962 federal authorizations do not establish the asserted general requirement of prior Administration approval for WWSP. The partial summary judgment is confirmed on that legal ground, while Article IV-D’s material-depletion restriction, Article IV-C’s actual operational qualifications and Article IX’s federal reservation and jointly approved John Martin exceptions remain effective.
+**Controlling proposition:** The 1951 Administration policy resolution, the Compact and the cited 1944 and 1962 federal authorizations do not establish the asserted general requirement of prior Administration approval for WWSP. The partial summary judgment is confirmed on that legal ground, while Article IV-D’s material-depletion restriction, Article IV-C’s actual operational qualifications and Article IX’s federal reservation and jointly approved John Martin exceptions remain effective.
 
 **Authority:** Part 8 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1434,7 +1447,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 9. Lake McKinney is dismissed for failure to prove unauthorized retention
 
-**Holding and operative rule:** Colorado’s Lake McKinney counterclaim is dismissed because it has not adequately traced protected John Martin releases to unauthorized retention rather than the short retention needed to move water through the pool. Article V-E(2) still requires prompt beneficial use unless the Administration authorizes downstream storage; this record-specific failure of proof supplies no general permission for storage and no universal counterclaim proof rule.
+**Controlling proposition:** Colorado’s Lake McKinney counterclaim is dismissed because it has not adequately traced protected John Martin releases to unauthorized retention rather than the short retention needed to move water through the pool. Article V-E(2) still requires prompt beneficial use unless the Administration authorizes downstream storage; this record-specific failure of proof supplies no general permission for storage and no universal counterclaim proof rule.
 
 **Authority:** Part 9 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1446,7 +1459,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 ##### 10. The Kansas-well counterclaim fails for want of proved Colorado injury
 
-**Holding and operative rule:** Colorado’s Kansas-well counterclaim is dismissed because the asserted additional calls, transit or account effects, and lost surplus have not been shown to injure Colorado’s protected supply. The dismissal does not immunize Kansas development, equate all Kansas groundwater with Compact-covered Colorado-origin water, or remove Kansas pumping from the distinct calculation of water Kansas could actually have used.
+**Controlling proposition:** Colorado’s Kansas-well counterclaim is dismissed because the asserted additional calls, transit or account effects, and lost surplus have not been shown to injure Colorado’s protected supply. The dismissal does not immunize Kansas development, equate all Kansas groundwater with Compact-covered Colorado-origin water, or remove Kansas pumping from the distinct calculation of water Kansas could actually have used.
 
 **Authority:** Part 10 of Justice O’Connor’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this complete, bounded proposition.
 
@@ -1456,7 +1469,7 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 - Texas v. New Mexico, 462 U.S. 554 (1983): applies the actual Compact obligation and protected entitlement as the basis for adjudication; failure to prove this claimed injury creates no general immunity for downstream development.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 - Texas v. New Mexico, 462 U.S. 554 (1983): applied to enforce the actual congressionally approved bargain and its authorized machinery; judicial enforcement neither rewrites the allocation nor grants an administrative impasse an unlimited veto.
 - Texas v. New Mexico, 482 U.S. 124 (1987): applied to past Compact performance and the distinction between an established obligation and the form of relief; good-faith uncertainty alone is no complete defense, and remedial flexibility creates no unagreed credit.
@@ -1467,24 +1480,18 @@ No separate opinion is filed. The Court reserves the general proof quantum, lach
 
 No precedent is overruled. The Compact’s substantive condition, proof of a breach and eventual relief remain separate. No cross-area burden rule displaces the unresolved Compact quantum.
 
-#### Law After Decision
-
 Article IV-D governs both later development and materially depleting increases in the operation of existing works. The 15,000-acre-foot historical allowance and modified usable-water calculation are accepted for this liability record, not imposed as permanent extraction or accounting codes. Colorado’s pumping violation stands under either proposed proof quantum. Laches fails on diligence; the general doctrine’s availability and remedy-stage equities remain open. Separately purchased Plan benefits supply no independent legal credit, while actual operations and imported return flows remain part of causal accounting. The Trinidad and WWSP claims fail on their respective bounded Compact and proof grounds. The narrow prior-approval ruling and two distinct counterclaim dismissals create neither a general approval veto nor immunity from future Compact duties. The Court has not chosen a universal enforcement burden, shifted persuasion because of missing data, or fixed compensation. The original action continues before the Master for the separated remedy phase.
-
-#### Separate Positions Relevant to the Decision
-
-All nine Justices join the opinion of the Court and its remedy direction. No separate writing is filed.
 
 #### Source Notes
 
 The governing text is the [Arkansas River Compact and congressional consent, 63 Stat. 145–152](https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg145.pdf), including the Article IV-D quotation and the distinct conditions summarized above. The liability record is the July 1994 Report of Special Master Arthur L. Littleworth, Volumes I–III, pp. 1–459, and Appendix Exhibits 1–13, together with the States’ exceptions and the United States response in the [original-action record collection](https://archive.org/details/micro_IA40385013_0543). Report pp. 147–170 support the diligence issue; pp. 171–219 the Plan and historical pumping; pp. 254–260 the competing pumping comparisons and actual-operation treatment; pp. 291–337 usability and WWSP; pp. 338–372 prior approval; pp. 373–435 Trinidad; pp. 436–459 the counterclaims. Appendix pp. 107–117 supplies the complete reproduced Plan and its account, reservation and termination terms.
 
-Earlier official water authorities include [Texas v. New Mexico, 462 U.S. 554](https://tile.loc.gov/storage-services/service/ll/usrep/usrep462/usrep462554/usrep462554.pdf), [Texas v. New Mexico, 482 U.S. 124](https://tile.loc.gov/storage-services/service/ll/usrep/usrep482/usrep482124/usrep482124.pdf), [Colorado v. New Mexico, 467 U.S. 310](https://tile.loc.gov/storage-services/service/ll/usrep/usrep467/usrep467310/usrep467310.pdf), and [Illinois v. Kentucky, 500 U.S. 380](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500380/usrep500380.pdf). Nebraska and Daubert are applied at the actual scope stated in the holdings. The substantive source cutoff precedes May 15, 1995. March 21, 1995 is the supplied argument date. The report is a liability recommendation, not a final remedial decree; its illustrative volumes do not establish compensable loss. The report and substantive briefs do not reproduce every trial transcript page or engineering assumption, and the Court makes no independent reconstruction of the H-I model or final remedial calculation.
+Earlier official water authorities include [Texas v. New Mexico, 462 U.S. 554](https://tile.loc.gov/storage-services/service/ll/usrep/usrep462/usrep462554/usrep462554.pdf), [Texas v. New Mexico, 482 U.S. 124](https://tile.loc.gov/storage-services/service/ll/usrep/usrep482/usrep482124/usrep482124.pdf), [Colorado v. New Mexico, 467 U.S. 310](https://tile.loc.gov/storage-services/service/ll/usrep/usrep467/usrep467310/usrep467310.pdf), and [Illinois v. Kentucky, 500 U.S. 380](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500380/usrep500380.pdf). Nebraska and Daubert are applied at the actual scope stated in the holdings. The report is a liability recommendation, not a final remedial decree; its illustrative volumes do not establish compensable loss. The report and substantive briefs do not reproduce every trial transcript page or engineering assumption, and the Court makes no independent reconstruction of the H-I model or final remedial calculation.
 
 #### Mandate, Remedy, and Stage
 
 The Court retains the original action and recommits it to Special Master Arthur L. Littleworth for the remedy phase on established post-Compact pumping liability. The Master may receive the necessary remedy evidence and submit recommendations consistent with the adopted liability accounting and the Compact’s operative conditions. Final compensable quantity, the appropriate form and timing of relief, valuation, interest, supported offsets, equitable considerations and prospective compliance terms remain for that record and further Court action. No payment, interest, delivery schedule or new operating code is presently commanded. The rejected Trinidad and WWSP liability claims and the two dismissed counterclaims are not automatically reopened; any independently reserved theory requires its own authority and proper procedural presentation. The prior-approval ruling remains confirmed, without eliminating the continuing material-depletion duty. This decision completes the exceptions stage and leaves the original proceeding open for remedy.
 
-**End of entry: Kansas v. Colorado, Decision on exceptions, 1995-05-15.**
+**End of entry: Kansas v. Colorado, No. 105, Original, Decision on exceptions and recommittal, May 15, 1995.**
 
 ---

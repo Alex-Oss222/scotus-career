@@ -1,7 +1,7 @@
 **Case and dockets:** Stone v. Immigration and Naturalization Service, No. 93-1199.
 **Event and date:** Merits decision, 1995-04-19; October Term 1994, chunk 5.
 **Result:** Affirm the dismissal of review of the original deportation order as untimely, 5–4; the separate reconsideration-denial component is undisturbed.
-**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment. No Git command was run; repository verification and commitment remain with the operator.
+**Version / lineage:** Canonical adjudication with assignment-paragraph correction committed at 8d98261d33b6d39fda8a9ccc52ab5ad7ed3be02a; judgment and Public Projection unchanged.
 
 ## Event, posture, and record
 
