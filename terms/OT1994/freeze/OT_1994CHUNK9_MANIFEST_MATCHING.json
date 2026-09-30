@@ -1,0 +1,34 @@
+{
+  "projection_alias_repairs": [
+    {
+      "matter": "In re Baby K +",
+      "record": "In_re_Baby_K_merits_1994-12-12.md",
+      "basis": "exact inventory dockets and effective date"
+    },
+    {
+      "matter": "Plakas v. Drinski +",
+      "record": "Plakas_v_Drinski_merits_1995-01-09.md",
+      "basis": "exact inventory dockets and effective date"
+    },
+    {
+      "matter": "New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.",
+      "record": "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md",
+      "basis": "exact inventory dockets and effective date"
+    },
+    {
+      "matter": "Day v. Holahan +",
+      "record": "Day_v_Holahan_merits_1995-05-15.md",
+      "basis": "exact inventory dockets and effective date"
+    },
+    {
+      "matter": "Kelley v. Board of Trustees of the University of Illinois +",
+      "record": "Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md",
+      "basis": "exact inventory dockets and effective date"
+    },
+    {
+      "matter": "Chabad-Lubavitch of Georgia v. Miller +",
+      "record": "Chabad_Lubavitch_v_Miller_merits_1995-06-29.md",
+      "basis": "exact inventory dockets and effective date"
+    }
+  ]
+}

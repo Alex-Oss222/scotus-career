@@ -1,0 +1,24 @@
+{
+  "operation": "stock check_term.py with Git-only function deferred",
+  "non_git_checks_passed": true,
+  "git_subprocesses_allowed": false,
+  "git_reference_checks": "DEFERRED to operator; not verified",
+  "references_deferred": [
+    "1000180149",
+    "1000180155",
+    "1662045",
+    "1994168",
+    "2006630",
+    "2035579",
+    "5223F70CBD862DEEE5634BA1F102E638",
+    "9780300050288",
+    "A40385013",
+    "A40386002",
+    "A40386003",
+    "A40386012",
+    "b103272",
+    "cceeded",
+    "e21F3d1038",
+    "ec1395dd"
+  ]
+}

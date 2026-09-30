@@ -1,0 +1,136 @@
+{
+  "protected_inputs_unchanged": 166,
+  "protected_file_observation_for_operator": {
+    "path": "terms/OT1994/output/OT_1994CHUNK8.md",
+    "intake_sha256": "673e85260228d350b0fa894b054a3954504a8c185ec4848fa5c3c260ce87d701",
+    "observed_sha256": "beaa4823db492ca9ec38a0a9a6b6911eaf4263ab7503896cdbf6c2a8ae41b646",
+    "last_write_utc": "2026-09-30T17:41:44.829176+00:00",
+    "intake_recorded_utc": "2026-09-30T17:33:41.107010+00:00",
+    "task_wrote_this_file": false,
+    "cause": "Not established; user clarification requested. Existing bytes preserved without restoration or rewrite.",
+    "authority_impact": "None on this Run: every prior canonical Record, approved brief, foundation file, state tracker and prior Render Input retains its intake hash. This output was not a modeling input; current-term law came from the preserved opening neutral projection and bounded authoritative public-law copies.",
+    "status": "Explicit protected-file observation for operator review; not a stopped adjudicative matter or a claimed unchanged file."
+  },
+  "record_count": 3,
+  "explanation_word_counts": {
+    "Chabad_Lubavitch_v_Miller_merits_1995-06-29.md": [
+      151,
+      159,
+      158
+    ],
+    "Miller_and_consolidated_merits_1995-06-29.md": [
+      157,
+      159,
+      166,
+      166,
+      164,
+      158,
+      154
+    ],
+    "Pinette_merits_1995-06-29.md": [
+      144,
+      164
+    ]
+  },
+  "record_local_links_checked": 41,
+  "named_vote_checks": {
+    "Chabad_Lubavitch_v_Miller_merits_1995-06-29.md": {
+      "affirm": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O\u2019Connor",
+        "Scalia",
+        "Souter",
+        "Stone",
+        "Thomas"
+      ],
+      "reverse": [
+        "Stevens"
+      ],
+      "holding_coalitions": [
+        9,
+        8,
+        5
+      ]
+    },
+    "Miller_and_consolidated_merits_1995-06-29.md": {
+      "affirm": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens",
+        "Stone"
+      ],
+      "reverse": [
+        "Kennedy",
+        "O\u2019Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "holding_coalitions": [
+        9,
+        9,
+        5,
+        5,
+        9,
+        9,
+        9
+      ]
+    },
+    "Pinette_merits_1995-06-29.md": {
+      "affirm": [
+        "Breyer",
+        "Kennedy",
+        "O\u2019Connor",
+        "Scalia",
+        "Souter",
+        "Stone",
+        "Thomas"
+      ],
+      "reverse": [
+        "Ginsburg",
+        "Stevens"
+      ],
+      "holding_coalitions": [
+        9,
+        7
+      ]
+    }
+  },
+  "released_stage_hashes_verified": 11,
+  "scheduled_items_completed": 99,
+  "pinette_modeling_handoff_sha256": "1944adb93135e1592ba8886e02e2ed61e068e17fe0521a4a8a2330e097d9408f",
+  "pinette_final_handoff_sha256": "18a4bfe90972758c553b4d2d133399d9d6acd084900a75d4a74e91f201651d6e",
+  "stock_term_check": {
+    "operation": "stock check_term.py with Git-only function deferred",
+    "non_git_checks_passed": true,
+    "git_subprocesses_allowed": false,
+    "git_reference_checks": "DEFERRED to operator; not verified",
+    "references_deferred": [
+      "1000180149",
+      "1000180155",
+      "1662045",
+      "1994168",
+      "2006630",
+      "2035579",
+      "5223F70CBD862DEEE5634BA1F102E638",
+      "9780300050288",
+      "A40385013",
+      "A40386002",
+      "A40386003",
+      "A40386012",
+      "b103272",
+      "cceeded",
+      "e21F3d1038",
+      "ec1395dd"
+    ]
+  },
+  "records_sha256": {
+    "Chabad_Lubavitch_v_Miller_merits_1995-06-29.md": "3ccffb2a1aa5655d8ee25158a88333bb15afcb3476c4d2d652cf5b48350a3935",
+    "Miller_and_consolidated_merits_1995-06-29.md": "2d775f4fbc5b338fb81ca541389d469ad86f864bc4e4e64001e714218cfc6c83",
+    "Pinette_merits_1995-06-29.md": "d823b97f5b644af66550add493a8dd47e05f4e3da032635e9b7bea78240d5638"
+  },
+  "stopped": {},
+  "errors": []
+}

@@ -13,8 +13,8 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-12-06 | OT_1994CHUNK1 | Reich v. Collins | 93-908 | MERITS | Merits decision | Completed: Reich_v_Collins_merits_1994-12-06.md |
 | 1994-12-12 | OT_1994CHUNK1 | Brown v. Gardner | 93-1128 | MERITS | Merits decision | Completed: Brown_v_Gardner_merits_1994-12-12.md |
 | 1994-12-12 | OT_1994CHUNK1 | Nebraska Department of Revenue v. Loewenstein | 93-823 | MERITS | Merits decision | Completed: Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md |
-| 1994-12-12 | OT_1994CHUNK1 | In re Baby K + | 93-1673 | MERITS | Merits decision | Completed: In_re_Baby_K_merits_1994-12-12.md |
-| 1995-01-09 | OT_1994CHUNK1 | Plakas v. Drinski + | 93-1824 | MERITS | Merits decision | Completed: Plakas_v_Drinski_merits_1995-01-09.md |
+| 1994-12-12 | OT_1994CHUNK1 | In re Baby K + | 93-1673 | MERITS | Merits decision | Open |
+| 1995-01-09 | OT_1994CHUNK1 | Plakas v. Drinski + | 93-1824 | MERITS | Merits decision | Open |
 | 1995-01-10 | OT_1994CHUNK1 | Interstate Commerce Commission v. Transcon Lines | 93-1318 | MERITS | Merits decision | Completed: Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md |
 | 1995-01-10 | OT_1994CHUNK2 | Tome v. United States | 93-6892 | MERITS | Merits decision | Completed: Tome_v_United_States_merits_1995-01-10.md |
 | 1995-01-17 | OT_1994CHUNK2 | Young v. Northern Illinois Conference of United Methodist Church + | 93-1917 | MERITS | Merits decision | Completed: Young_v_Northern_Illinois_Conference_merits_1995-01-17.md |
@@ -58,7 +58,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-04-25 | OT_1994CHUNK5 | California Department of Corrections v. Morales | 93-1462 | MERITS | Merits decision | Completed: California_Department_of_Corrections_v_Morales_merits_1995-04-25.md |
 | 1995-04-25 | OT_1994CHUNK5 | United States v. Williams | 94-395 | MERITS | Merits decision | Completed: United_States_v_Williams_merits_1995-04-25.md |
 | 1995-04-26 | OT_1994CHUNK5 | United States v. Lopez | 93-1260 | MERITS | Merits decision | Completed: United_States_v_Lopez_merits_1995-04-26.md |
-| 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Completed: New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md |
+| 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Open |
 | 1995-04-27 | OT_1994CHUNK5 | United States v. Harris + | 94-297 | MERITS | Merits decision | Completed: United_States_v_Harris_merits_1995-04-27.md |
 | 1995-05-01 | OT_1994CHUNK5 | United States v. Robertson | 94-251 | MERITS | Per curiam decision after merits submission | Completed: United_States_v_Robertson_merits_1995-05-01.md |
 | 1995-05-08 | OT_1994CHUNK5 | United States v. Pinson + | 94-164 | MERITS | Merits decision | Completed: United_States_v_Pinson_merits_1995-05-08.md |
@@ -66,11 +66,11 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-05-15 | OT_1994CHUNK5 | Hubbard v. United States | 94-172 | MERITS | Merits decision | Completed: Hubbard_v_United_States_merits_1995-05-15.md |
 | 1995-05-15 | OT_1994CHUNK6 | City of Edmonds v. Oxford House, Inc. | 94-23 | MERITS | Merits decision | Completed: City_of_Edmonds_v_Oxford_House_merits_1995-05-15.md |
 | 1995-05-15 | OT_1994CHUNK6 | Reynoldsville Casket Co. v. Hyde | 94-3 | MERITS | Merits decision | Completed: Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md |
-| 1995-05-15 | OT_1994CHUNK6 | Day v. Holahan + | 94-672 | MERITS | Merits decision | Completed: Day_v_Holahan_merits_1995-05-15.md |
+| 1995-05-15 | OT_1994CHUNK6 | Day v. Holahan + | 94-672 | MERITS | Merits decision | Open |
 | 1995-05-22 | OT_1994CHUNK6 | U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill | 93-1456; 93-1828 | MERITS | Merits decision | Completed: US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md |
 | 1995-05-22 | OT_1994CHUNK6 | Wilson v. Arkansas | 94-5707 | MERITS | Merits decision | Completed: Wilson_v_Arkansas_merits_1995-05-22.md |
 | 1995-05-22 | OT_1994CHUNK6 | First Options of Chicago, Inc. v. Kaplan | 94-560 | MERITS | Merits decision | Completed: First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md |
-| 1995-05-22 | OT_1994CHUNK6 | Kelley v. Board of Trustees of the University of Illinois + | 94-783 | MERITS | Merits decision | Completed: Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md |
+| 1995-05-22 | OT_1994CHUNK6 | Kelley v. Board of Trustees of the University of Illinois + | 94-783 | MERITS | Merits decision | Open |
 | 1995-05-30 | OT_1994CHUNK6 | Nebraska v. Wyoming | 108, Original | ORIGINAL | Original proceeding: exceptions to Special Master report | Completed: Nebraska_v_Wyoming_original_exceptions_1995-05-30.md |
 | 1995-05-30 | OT_1994CHUNK6 | North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC | 94-834; 94-835 | MERITS | Merits decision | Completed: North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md |
 | 1995-05-30 | OT_1994CHUNK6 | Garlotte v. Fordice | 94-6790 | MERITS | Merits decision | Completed: Garlotte_v_Fordice_merits_1995-05-30.md |
@@ -100,9 +100,9 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-06-26 | OT_1994CHUNK8 | Vernonia School District 47J v. Acton | 94-590 | MERITS | Merits decision | Completed: Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md |
 | 1995-06-29 | OT_1994CHUNK8 | Rosenberger v. Rector and Visitors of the University of Virginia | 94-329 | MERITS | Merits decision | Completed: Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md |
 | 1995-06-29 | OT_1994CHUNK8 | Babbitt v. Sweet Home Chapter of Communities for a Great Oregon | 94-859 | MERITS | Merits decision | Completed: Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md |
-| 1995-06-29 | OT_1994CHUNK9 | Miller v. Johnson / Abrams v. Johnson / United States v. Johnson | 94-631; 94-797; 94-929 | MERITS | Merits decision | Completed: Miller_and_consolidated_merits_1995-06-29.md |
-| 1995-06-29 | OT_1994CHUNK9 | Capitol Square Review and Advisory Board v. Pinette | 94-780 | MERITS | Merits decision | Completed: Pinette_merits_1995-06-29.md |
-| 1995-06-29 | OT_1994CHUNK9 | Chabad-Lubavitch of Georgia v. Miller + | 93-1047 | MERITS | Merits decision | Completed: Chabad_Lubavitch_v_Miller_merits_1995-06-29.md |
+| 1995-06-29 | OT_1994CHUNK9 | Miller v. Johnson / Abrams v. Johnson / United States v. Johnson | 94-631; 94-797; 94-929 | MERITS | Merits decision | Open |
+| 1995-06-29 | OT_1994CHUNK9 | Capitol Square Review and Advisory Board v. Pinette | 94-780 | MERITS | Merits decision | Open |
+| 1995-06-29 | OT_1994CHUNK9 | Chabad-Lubavitch of Georgia v. Miller + | 93-1047 | MERITS | Merits decision | Open |
 
 ## Validated Standing State carryovers
 
@@ -146,8 +146,8 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 | United States v. Aguilar | Hubbard v. United States (1995-05-15); United States v. Gaudin (1995-06-19) | Completed June21. Actual Gaudin was refreshed and changed no statutory commitment; no §1001 count or withheld materiality element was invented. Preserved knowledge-instruction issues remain below. |
 | Florida Bar v. Went For It, Inc. | Lanphere & Urbaniak v. Colorado (1995-04-18); Rubin v. Coors Brewing Co. (1995-04-19) | Completed June21. Actual real-harm, advancement and reasonable-fit requirements applied to the specific waiting period; no mandatory numerical study or least-restrictive-means rule created. |
 | Rosenberger v. Rector and Visitors of the University of Virginia | Church of Scientology v. Clearwater (1994-12-05); Hurley (1995-06-19) | Completed June29. RFRA does not settle constitutional financing; Hurley’s private-composition protection reinforces distinct attribution but decides no printing subsidy. Procedural Zobrest supplies no aid-merits holding. |
-| Capitol Square Review and Advisory Board v. Pinette | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29) | Completed on the common pre-group baseline; Rosenberger supplied no entering law. Pinette then supplied actual law to expressly coordinated Chabad. |
-| Chabad-Lubavitch of Georgia v. Miller + | Capitol Square Review and Advisory Board v. Pinette (1995-06-29) | Completed after the expressly coordinated Pinette decision; actual public law refreshed before modeling. Rosenberger remains an uncoordinated peer. |
+| Capitol Square Review and Advisory Board v. Pinette | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
+| Chabad-Lubavitch of Georgia v. Miller + | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29); Capitol Square Review and Advisory Board v. Pinette (1995-06-29) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
 
 ## Institutional setting and intake limits
 
@@ -155,7 +155,7 @@ The August 3, 1994 Breyer accession and complete circuit reallotment are already
 
 ### Matter-specific limits retained at opening
 
-- **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson (chunk 9, matter 97): completed.** Objective-source validation established compatible personal-exposure and panel/proceeding predicates; the Record resolves Article III and direct review, affirms the reconstructed judgment for Georgia, and orders no injunction or remand. The reconstructed argument date remains unestablished. The inventory aliases/dockets and exclusion of historical Hays and unadmitted Court actions remain intact.
+- **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson (chunk 9, matter 97): future review-channel validation.** The current case-list supplies a reconstructed judgment for Georgia, with no injunction or unresolved independent claim. The former missing-judgment description is therefore stale. Article III, appellant roles, review channel, preservation and authorized reconstructed scope still require validation at its own Run. No present adjudication, grant or reconstructed argument date is inferred. Preserve the June 29 planning date, consolidated dockets and Hays exclusion.
 - **Kimberlin v. Quinlan (chunk 7, matter 81): conditional reachability revalidation.** Johnson v. Jones is on the same day, with no established release sequence. It supplies no opening law and no automatic earlier same-day authority. Preserve the common baseline unless an express coordinated sequence is established. The brief's condition on an evidence-sufficiency component remains open; do not invent the missing earlier release or certify that condition satisfied.
 - **Other source limitations:** the neutral packets' bounded source-completeness and missing-record qualifications remain in force. No opening validation certifies complete petitions, merits briefing, joint appendices, statutory source records or final factfinding. Reassess each material limit during clean Run preflight; stop only the affected path when its necessary source is missing.
 - **Asgrow Seed Co. v. Winterboer (chunk 2, matter 15): statutory transition admitted.** The [April 4 effective-source Record](../records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md) preserves the enacted amendment and every applicable transition qualification. Asgrow remains governed by its proper former law; no earlier adjudication is changed.
@@ -172,18 +172,14 @@ Authority for inventory identity and dates: `case-list.md` and the nine briefs�
 | 1995-03-10 | Revised Vaccine Injury Table and Qualifications and Aids to Interpretation, 60 Fed. Reg. 7678–7696 | [Admitted Source Record](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md). Both revised provisions govern petitions filed on or after March 10; earlier petitions retain section 2114(a) and (b) as in effect February 8, 1995. No Court action or individual award. Explicit late chronology insertion leaves earlier adjudications unchanged. |
 | 1995-04-04 | Plant Variety Protection Act amendments, Pub. L. 103-349, sections 14–15 | Section 15 makes the Act effective 180 days after October 6, 1994. Section 14(a) preserves the former law for certificates already issued and pending applications, except as section 14 provides. Section 14(b) allows refiling a pending application after effectiveness under amended eligibility and protection terms while retaining its original date for section 42. Section 14(c) requires notice of amended protection and retains section 128 sanctions for false or misleading claims or labels. Section 9’s contract-producer provision has its own scope for listed non-soybean crops. Completed source admission: [Admitted Source Record](../records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md). Do not retroactively apply the amendment to Asgrow. See the Asgrow source map and [official enrolled law](https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg3136.pdf). |
 
-## Current chronology control after chunk 9
+## Current chronology control after chunk 8
 
-**Posture:** After chunk 9, with 99 completed inventory events and two effective-source admissions. **Chronology cursor:** 1995-06-29. Pinette precedes Chabad under the expressly supplied coordinated sequence. All other June 29 peers share the pre-group entering baseline; no earlier peer result is silently imported.
+**Posture:** After chunk 8, with 96 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-06-29. The June 14 group is complete. Uncoordinated same-day decisions share a common entering baseline. The June 29 group continues in chunk 9; Rosenberger and Sweet Home do not supply entering law to their uncoordinated same-date peers.
 
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 99 inventory events are completed; 0 remain stopped. Nebraska remains before the Special Master on admitted amendments; Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records.
+The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 96 inventory events are completed; three remain unadjudicated. Nebraska remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
-No scheduled inventory event remains unadjudicated. Retained original proceedings and inherited carryovers remain open at their recorded stages; term close still requires their express disposition or carry-forward.
+The next scheduled unresolved inventory event after chunk 8 is **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson, 1995-06-29, OT_1994CHUNK9**. The June 29 peer group shares entering law effective before June 29 absent an established coordinated release sequence.
 
 ## Current-term continued proceeding
 
 Kansas v. Colorado, No. 105, Original: the May 15 exceptions event is completed; the matter remains before the Court on reference to the Special Master for the remedy phase. No final damages amount, interest award, or prospective remedial decree has been entered. This continuation does not duplicate the scheduled exceptions item or close the inherited Nebraska matter.
-
-## Chunk 9 coordinated sequence
-
-The approved chunk 9 neutral packet expressly schedules Chabad-Lubavitch of Georgia v. Miller immediately after Capitol Square Review and Advisory Board v. Pinette on June 29, 1995. This is a coordinated dependency established by the supplied packet after the opening manifest. Pinette was completed and its actual public law refreshed through Chabad's neutral, modeling, reconciliation and assembly stages before Chabad was adjudicated. Rosenberger, Sweet Home and Miller remain uncoordinated peers; their same-day decisions supply no entering law to Pinette. No Court action is inferred from this scheduling control.
