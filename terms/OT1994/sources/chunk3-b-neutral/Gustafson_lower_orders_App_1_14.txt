@@ -1,0 +1,1946 @@
+Saree Court, U.& 
+: 40 TLED 
+
+
+mB, sep Q_ 1993 
+— @ (ice 
+In THE ‘* sane “se be aan! 
+
+
+Supreme Court of the United States 
+
+
+OcTOBER TERM, 1993 
+
+
+ARTHUR L. GUSTAFSON, DANIEL R. McLEAN 
+and FRANCIS I. BUTLER, 
+
+
+Petitioners, 
+Vv. 
+
+
+ALLOYD CO., INC. and 
+WIND POINT PARTNERS II, L.P., 
+
+
+Respondents. 
+
+
+Petition for Writ of Certiorari to the United 
+States Court of Appeals for the Seventh Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+GERALD D. SKONING* DONALD W. JENKINS 
+HAROLD C. WHEELER THOMAS P. DESMOND 
+PETER C. WoobrorD ANDREW M. GARDNER* 
+DEBRA A. WINIARSKI MICHAEL L. KAYMAN 
+SEYFARTH, SHAW, VEDDER, PRICE, KAUFMAN 
+FAIRWEATHER & KAMMHOLZ 
+& GERALDSON 222 North LaSalle Street 
+55 East Monroe Street Suite 2600 
+Suite 4200 Chicago, Illinois 60601 
+Chicago, Illinois 60603 (312) 607-7500 
+(312) 346-8000 
+
+
+Counsel for Petitioner 
+Counsel for Petitioners Arthur L. Gustafson 
+Daniel R. McLean and 
+
+_Francis I. Butler * Counsel of Record 
+
+
+Midwest Law Printing Co., Chicago 60611, (312) 321-0220 
+
+
+i 
+QUESTION PRESENTED 
+
+
+Whether Section 12(2) of the Securities Act of 1933 is 
+applicable to a privately negotiated resale of all the stock 
+of a corporation. 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED ................... 
+TABLE OF AUTHORITIES ................. 
+CPE RD WRAP vissccisescevkcsdeeneeeee 
+
+
+I 
+
+
+Whether Section 12(2) Applies To Privately 
+Negotiated Secondary Transactions Is A Sub- 
+stantial Question Of Federal Law ........ 
+
+
+II. 
+
+
+Direct Conflicts Exist Among Numerous Courts 
+Regarding This Question ................. 
+
+
+ITI. 
+
+
+The Decision of the District Court Should be 
+RBUNMNOE Co icccctesvedssceaenee 
+
+
+IV. 
+
+
+The Seventh Circuit’s Broad Application of 
+Section 12(2) is Not Warranted by its Lan- 
+guage or the Structure or Purpose of the 1933 
+
+We: oc 0005 0t0s0s000e6ns eee e een 
+
+
+10 
+
+
+12 
+
+
+18 
+21 
+
+
+iii 
+TABLE OF AUTHORITIES 
+
+
+Cases PAGE 
+
+
+A.C. Frost & Co. v. Coeur D’Alene Mines Corp., 
+EE ote cccncecscegiacccccces 14 
+
+
+Ackerman v. Clinical Data, Inc., [1985-86 Transfer 
+Binder] Fed. Sec. L. Rep. (CCH) 4 92,207 (S.D. 
+
+
+DE ET ED A ccccodccvcecesévccccecs 11 
+Affiliated Ute Citizens v. United States, 406 U.S. 
+Te crocs cheScdeseceecessscen cs 17 
+
+
+Ballay v. Mason Wood Walker, Inc., 925 F.2d 
+682 (3d Cir.), cert. denied, 112 U.S. 79 (1991) .. passim 
+
+
+Bank of Denver v. Southeastern Capital Group, 
+
+
+Inc., 763 F. Supp. 1552 (D. Colo. 1991) ..... ll 
+Bennett v. Bally Mfg. Corp., 785 F. Supp. 559 
+Te eds ccbccecesteactbccceces 11 
+Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 
+eee ceacedncecstscecceveees 13 
+v. Shearson Lehman Bros., Inc., 1993 U.S. 
+Dist. LEXIS 1182 (S.D.N.Y. 1993) ......... 11 
+Rent A Car Systems, Inc. v. Hirsch, 810 F. 
+upp. 1253 (S.D. Fla. 1992) ............... 11 
+Cady v. Murphy, 113 F.2d 988 (1st Cir.), cert. de- 
+nied, 311 U.S. 705 (1940) ............0000e 10 
+
+
+Capri v. Murphy, 856 F.2d 473 (2d Cir. 1988) .. 8, 16 
+
+
+Cheltenham Bank v. Drexel Burnham Lambert, 
+Inc., {1989 Transfer Binder] Fed. Sec. L. Rep. 
+
+
+(CCH) 494,391 (E.D.N.C. Feb. 15, 1989) .... 11 
+Comeau v. Rupp, 810 F. Supp. 1127 (D. Kan. 
+
+DEGREES GSAS Gchecteca en cecceseces 11 
+Cox v. Eichler, 765 F. Supp. 601 (N.D. Cal. 1990) .. 11 
+
+
+Dole v. United Steel Workers of America, 494 U.S. 
+Cicer cca ceepeSeeceeececccccece 15 
+
+
+iv 
+Elysian Fed. Sav. Bank v. First Interregional 
+Equity Corp., 713 F. Supp. 737 (D.N.J. 1989) .. 
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) . . 
+
+
+Farley v. Baird, Patrick & Co., 750 F. Supp. 1209 
+SG EE obbbndetbnsesvecctacwneasss 
+
+
+First Union Brokerage v. Milos, 717 F. Supp. 1519 
+BS We EE Vasdabvcsenccencesendedaees 
+
+
+——— Adam Co. v. PMI Indus., Inc., 1990 U.S. 
+ist LEXIS 3349 (S.D.N.Y. 1990) ......... 
+
+
+Grinsell v. Kidder, Peabody & Co., 744 F. Supp. 
+Gee Gen GH. BED ce dcccccdcccsccccccccse 
+
+
+Gross v. Diversi M Investors, 431 F. 
+Rupp: 1080 SDNY. 1977), affd mem., 636 
+ic 8 4 , % Pa eGR ae 
+
+
+a v. Marinelli, 796 F. Supp. 432 (N.D. Cal. 
+PY adbenghebedsetcecotes’eoseq 
+
+
+In re Delmarva Securities Litigation, 794 F. Supp. 
+Se Ge Le DEED cecccudcccescsesbatecse 
+
+
+In re Ramtek Securities Litigation, [1990 Transfer 
+Binder] Fed. Sec. L. Rep. (CCH) 4 95,483 (N.D. 
+CE Ss We GE Sede cecdcedecdisccoevces. 
+
+
+Insurance Corp. of Ireland v. Compagnie des Bau- 
+wites, 456 U.S. 694 (1982) ................. 
+
+
+Klein v. Computer Devices, 591 F. Supp. 270 (S.D. 
+N.Y. 1984), clarified on reh’g, 602 F. Supp. 837 
+|| Aly GREER Pace ARPA Sth apie 
+
+
+Landreth Timber Co. v. Landreth, 471 U.S. 681 
+EE ie es tan og cin eiteieehne debi 
+
+
+Leonard v. Shearson Lehman/Am. Express, Inc., 
+687 F. Supp. 177 (E.D. Pa. 1988) .......... 
+
+
+Leonard v. Stuart-James Co., 742 F. Supp. 653 
+ees Ws SEED wb cctaccccnsdgccsescenececs 
+
+
+12 
+17 
+
+
+12 
+11 
+12 
+
+
+11 
+
+
+10, 11 
+
+
+ll 
+
+
+McCowan v. Dean Witter Reynolds, Inc., (1989 
+Transfer Binder] Fed. Sec. L. Rep. (CCH) 
+
+
+4 94,423 (S.D.N.Y. Apr. 11, 1989) .......... 11 
+McElroy v. United States, 455 U.S. 642 (1982) .. x 
+Miz v. E.F. Hutton & Co., 720 F. Supp. 8 (D.D.C. 
+
+DED esenbebadenedbuuaroetacddenesdcecascs 11 
+Newman v. Com we Care Corp., 794 F. 
+
+Supp. 1513 (D. Or. 1992) ...............4.. 11 
+Pacific Dunlop Holdings Inc. v. Allen & Co. Inc., 
+
+993 F.2d 578 (7th Cir. 1993), petition for cert. 
+
+filed 62 U.S.L.W. 3144 (U.S. Aug. 24, 1993) 
+
+Seb GPE. chedccsdcutdésenevscccecesesin passim 
+Pinter v. Dahl, 486 U.S. 622 (1988) ........... 13, 17 
+PPM Am., Inc. v. Marriott Corp., 1993 U.S. Dist. 
+
+LEXIS 5914 (D. Md. 1993) ................ 12 
+Professional Serv. Indus., Inc. v. Kimbrell, 1992 
+
+L 403639 (D. Kan. 1992) ................ 11 
+Ralph v. Prudential-Bache Sec. Inc., 692 F. Supp. 
+
+Ses GS HU MED cvcesccccceccvecccndes 11 
+Schreiber v. Burlington Northern, Inc., 472 U.S. 1 
+
+SED cGacaseasecivecsandhesesenssesvtees. 12 
+
+v. Coopers & , 649 F.2d 175 (3d Cir. 
+
+1981), cert. denied, 455 U.S. 938 (1982) ..... 17 
+Sims v. Faestel, 638 F. . 1281 (E.D. Pa. 1986), 
+
+affd, 813 F.2d 399 (8d Cir. 1987) .......... 17 
+SSH Co. v. Shearson Lehman Bros., Inc., 678 F. 
+
+Supp. 1065 (S.D.N.Y. 1987) ................ 11 
+
+v. Paine Webber, Inc., 700 F. Supp. 4 (S.D. 
+
+Pics, GED . dbucncceveredsessecécocvecseces 11 
+T. Rowe Price New Horizons Fund, Inc. v. Preletz, 
+
+749 F. Supp. 705 (D. Md. 1990) ........... 11 
+United States v. Lorenzetti, 467 U.S. 167 (1984) .. bal 
+
+
+vi 
+
+
+United States v. Naftalin, 441 U.S. 768 (1979) ... 15 
+
+
+Wilko v. Swan, 127 F. Supp. 55 (S.D.N.Y. 1955) .. 12 
+Wilson v. Saintine Exploration & Drilling Corp., 
+
+872 F.2d 1124 (2d Cir. 1989) .............. 16 
+Woodward v. Wright, 266 F.2d 108 (10th Cir. 1959) . . 10 
+
+
+Statutes and Regulations 
+Section 2(10) of the Securities Act of 1933, 
+
+
+ee owe 14 
+Section 5 of the Securities Act of 1933, 
+
+le ee a ae on og 14 
+Section 10 of the Securities Act of 1933, 
+
+ , c<cageieeescdehnekasestee oss 15 
+Section 11 of the Securities Act of 1933, 7 
+
+ne 15 
+Section 12 of the Securities Act of 1933, 
+
+i. f errr eee passim 
+Section 17 of the Securities Act of 1933, 
+
+SE es ee al 
+Section 10(b) of the Securities Exchange Act 
+
+es Be le SED bdccedeccsccccese ~ 
+Rule 10b-5 of the S.E.C., 17 C.F.R. 
+
+ERAT SS ER, a eC ~ 
+
+
+Legislative Materials 
+H.R. Rep. No. 85, 73d Cong., Ist Sess. (1933) .. 13, 20 
+Sen. Rep. No. 47, 73d Cong., Ist Sess. (1933) ... 16 
+
+
+Vii 
+
+
+Other Authorities 
+L. Loss, Fundamentals of Securities Regulation 
+SED ccdedacadeseséacedsdccacievonsstesns 
+
+
+Loss, The Assault on Securities Act 12(2), 105 Harv. 
+=  S {| $£Yepe ser rr ry eer 
+
+
+Maynard, Liability Under Section 12(2) of the Se- 
+curities Act of 1933 for Fraudulent Trading in 
+Post Distribution Markets, 32 Wm. & Mary L. 
+ss £ ae errr rrr eer 
+
+
+Prentice, Section 12(2): A Remedy for Wrongs in 
+the Secondary Market?, 55 Alb. L. Rev. 97 
+I a aN i so a ace 
+
+Weiss, The Courts Have it Right: Securities Act 
+
+
+Section 12(2) Applies only to Public Offerings, 
+GD BE. EG. EUROS cccccncccccceccecccs 
+
+
+13 
+
+
+12 
+
+
+12 
+
+
+12 
+
+
+12 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1993 
+
+
+ARTHUR L. GUSTAFSON, DANIEL R. McLEAN 
+and FRANCIS I. BUTLER, 
+
+
+Petitioners, 
+Vv. 
+
+
+ALLOYD CO., INC. and 
+WIND POINT PARTNERS II, L.P., 
+
+
+Respondents. 
+
+
+Petition for Writ of Certiorari to the United 
+States Court of Appeals for the Seventh Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Petitioners, Arthur L. Gustafson, Daniel R. McLean and 
+Francis I. Butler, respectfully pray that a writ of cer- 
+tiorari issue to review the judgment of the United States 
+Court of Appeals for the Seventh Circuit entered in this 
+proceeding on June 11, 1993. 
+
+
+OPINIONS BELOW 
+
+
+The order of the United States Court of Appeals for 
+the Seventh Circuit is not reported. It is included in the 
+Appendix hereto at App. 1. The opinion of the United 
+States District Court for the Northern District of Illinois 
+is also not reported. It is included in the Appendix hereto 
+at App. 3. 
+
+
+cilia 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+Invoking federal jurisdiction under 28 U.S.C. §1331, 
+Respondents brought suit under Section 12(2) of the Se- 
+curities Act of 1933, 15 U.S.C. §771(2) (“Section 12(2)’’), 
+in the United States District Court for the Northern Dis- 
+trict of Illinois. On May 29, 1992, the district court, ruling 
+that Section 12(2) does not apply to the transaction at 
+
+
+issue, granted Petitioners’ motion for summary judgment. 
+
+
+On Respondents’ appeal, the United States Court of Ap- 
+peals for the Seventh Circuit, on June 11, 1993, entered 
+a judgment ordering the district court’s order vacated and 
+remanding this case to the district court for further pro- 
+ceedings in light of the Seventh Circuit’s opinion in Pacific 
+Dunlop Holdings Inc. v. Allen & Co. Inc., 993 F.2d 578 
+(7th Cir. 1993) (holding Section 12(2) applies to secondary 
+market transactions), petition for cert. filed, 62 U.S.L.W. 
+3144 (U.S. Aug. 24, 1993) (No. 93-201). No petition for re- 
+hearing was sought. 
+
+
+This petition for certiorari is filed within 90 days of the 
+Seventh Circuit’s June 11, 1993, judgment. This Court’s 
+jurisdiction is invoked under 28 U.S.C. §1254(1). 
+
+
+je 
+
+
+STATUTE INVOLVED 
+
+
+This case involves Section 12(2) of the Securities Act 
+of 1933, 15 U.S.C. §771, which provides as follows: 
+Civil Liabilities Arising in Connection 
+With Prospectuses and 
+Communications 
+
+
+Sec. 12. Any person who— 
+
+
+(1) offers or sells a security in violation of section 
+5, or 
+
+
+(2) offers or sells a security (whether or not ex- 
+empted by the provisions of section 3, other than 
+paragraph (2) of subsection (a) thereof), by the use 
+of any means or instruments of transportation or 
+communication in interstate commerce or of the mails, 
+by means of a prospectus or oral communication, which 
+includes an untrue statement of a material fact or 
+omits to state a material fact necessary in order to 
+make the statements, in the light of the circumstances 
+under which they were made, not misleading (the pur- 
+chaser not knowing of such untruth or omission), and 
+who shall not sustain the burden of proof that he did 
+not know, and in the exercise of reasonable care could 
+not have known, of such untruth or omission, 
+
+
+shall be liable to the person purchasing such security from 
+him, who may sue either at law or in equity in any court 
+of competent jurisdiction, to recover the consideration paid 
+for such security with interest thereon, less the amount 
+of any income received thereon, upon the tender of such 
+security, or for damages if he no longer owns the security. 
+
+
+collie 
+
+
+STATEMENT OF THE CASE 
+
+
+This case arises out of the December 1989 sale of the 
+stock of Alloyd Co., Inc. (“Alloyd’”’) pursuant to a privately 
+negotiated stock purchase agreement (the “Agreement’’). 
+Respondents (““Buyers’’) claim that material misrepresen- 
+tations were made in connection with the sale in viola: 
+tion of Section 12(2) and in breach of the Agreement. 
+
+
+Alloyd is a manufacturer of clear plastic blister packag- 
+ing and automatic heat seal packaging equipment. Alloyd’s 
+stock has been outstanding since 1961. In 1989, Arthur L. 
+Gustafson (“‘Gustafson’’), Daniel R. McLean (““McLean’’), 
+and Francis I. Butler (“Butler”) (collectively ‘‘Sellers’’) 
+were Alloyd’s sole shareholders. In the spring of 1989, 
+KPMG Peat Marwick (“KPMG’’) was retained to find a 
+buyer for Sellers’ Alloyd stock. A “‘Profile’’ was distrib- 
+uted to prospective buyers providing extensive informa- 
+tion relating to Alloyd, including historical and budgeted 
+financial information. The Profile stated that the budgeted 
+1989 information was unaudited and that “the actual re- 
+sults achieved may vary from the prospective financial re- 
+sults and the variations could be material.” 
+
+
+A copy of the Profile was sent to Respondent, Wind 
+Point Partners II, L.P. (“Wind Point’’), an experienced 
+and sophisticated venture capital investment partnership. 
+Wind Point visited Alloyd’s facilities and reviewed exten- 
+sive additional information relating to Alloyd. 
+
+
+In October, 1989, Sellers agreed in principle to sell their 
+Alloyd stock to Alloyd Holdings, Inc. (“Holdings), a corpo- 
+ration to be formed by Wind Point to effectuate the pur- 
+chase. McLean and Butler agreed to invest about $1,500,000 
+for a minority interest in Holdings and become officers 
+and directors. 
+
+
+a 
+
+
+While negotiating the Agreement, Wind Point conducted 
+extensive due diligence. KPMG was retained by Wind Point 
+to conduct a business review of Alloyd and perform other 
+procedures relating to Alloyd’s interim financial state- 
+ments. The interim financial statements included estimated 
+components consistent with Alloyd’s historical performance 
+affecting Alloyd’s cost of goods sold and, thus, gross prof- 
+it. KPMG informed Wind Point in writing that: 
+
+
+Because of the size of the accounting/finance staff 
+of the company, there is limited in-house analysis 
+of the financial results on either a monthly or 
+yearly basis. As a result, significant adjustments 
+to the financial statements are typically made by 
+the external accounting firm at year-end. 
+
+
+KPMG’s report to Wind Point detailed how Alloyd ad- 
+justed its inventory at year-end when an actual audit oc- 
+curred, stating that “Alloyd’s year-end adjustments to 
+inventory have been material in past years.”’ 
+
+
+Alloyd’s estimated inventory was discussed extensive- 
+ly during Wind Point’s due diligence. Wind Point knew 
+that Alloyd had an unreliable inventory control system 
+and that the only way to determine Alloyd’s actual inven- 
+tory would be to take a physical inventory. KPMG told 
+Wind Point that without an audit or inventory count there 
+would be no way of knowing how large Alloyd’s inventory 
+adjustment would be at year-end. Wind Point decided not 
+to take a physical inventory or conduct an audit prior to 
+the closing on the sale. Buyers decided to close the trans- 
+action without an audit or physical inventory, paying an 
+estimated purchase price at closing to be adjusted after 
+an audit of Alloyd’s year-end financial statements. 
+
+
+_ 
+
+
+Sellers’ representations in the Agreement regarding 
+Alloyd’s interim financial statements were carefully nego- 
+tiated and modified in drafts of the Agreement. Early lan- 
+guage stating that Alloyd’s interim financial statements 
+presented Alloyd’s financial condition “accurately and com- 
+pletely”, was revised in the final Agreement to state that 
+the interim financial statements “present fairly” Alloyd’s 
+financial condition. The final Agreement added a specific 
+reference to notes to Alloyd’s unaudited interim financial 
+statements, which notes stated that inventory and certain 
+accrued expenses were estimated and subject to adjust- 
+ment at year-end. 
+
+
+The Agreement was executed as of December 20, 1989, 
+and the transaction closed on December 22, 1989, when 
+Holdings purchased Sellers’ stock for $18,709,000 plus a 
+payment of $2,122,219 reflecting an estimate of Alloyd’s 
+increase in net worth from December 31, 1988, through 
+the closing. The Agreement required that Sellers or Buyers 
+remit an appropriate amount to cover any variance be- 
+tween the estimated increase in net worth and the actual 
+increase after the year-end audit of Alloyd’s financial 
+statements. After KPMG took a physical inventory as part 
+of its audit of Alloyd’s December 31, 1989 financial state- 
+ments, Sellers paid Holdings $815,000 plus interest to 
+cover the difference between the estimated amount paid 
+at the closing and the actual amount due pursuant to the 
+Agreement. 
+
+
+On February 11, 1991, Buyers instituted this case al- 
+leging that Sellers misrepresented Alloyd’s interim finan- 
+cial condition in violation of Section 12(2) and that Sellers 
+breached the Agreement. 
+
+
+The district court’s May 29, 1992 Memorandum Opinion 
+and Order granted Sellers’ motion for summary judgment 
+
+
+a 
+
+
+as to Buyers’ Section 12(2) claim, noting that the Alloyd 
+securities involved in this transaction had been outstand- 
+ing for approximately 30 years, the sale of the securities 
+was a negotiated resale to a single buyer, and Wind Point 
+was an experienced investor with direct access to infor- 
+mation regarding Alloyd: The court concluded that Section 
+12(2) did not apply because the transaction was not an 
+initial distribution and did not possess the characteristics 
+of an initial offering. In doing so, the court agreed with 
+the Third Circuit’s analysis in Ballay v. Legg Mason 
+Wood Walker, Inc., 925 F.2d 682, 693 (3rd Cir.) cert. de- 
+nied, 112 U.S. 79 (1991), which had held that: 
+
+
+In sum, the language and legislative history of 
+section 12(2), as well as its relationships to Sec- 
+tions 17(a) and 10(b) within the scheme of the 
+1933 and 1934 Acts, compel our conclusion that 
+Section 12(2) applies only to initial offerings and 
+not to aftermarket trading. 
+
+
+When Buyers appealed to the Seventh Circuit, briefing 
+and argument was held in abeyance pending resolution 
+of the appeal in Pacific Dunlop Holdings Inc. v. Allen 
+& Co. Inc., supra. After reversing the district court in 
+Pacific Dunlop, the Seventh Circuit, on June 11, 1993, 
+vacated without opinion the district court’s Order in this 
+case and remanded the case for further cu sideration in 
+light of Pacific Dunlop. Petitioners appeal from that judg- 
+ment of the Seventh Circuit. 
+
+
+— 
+
+
+- = 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+Review by writ of certiorari is a matter of judicial dis- 
+cretion which should be favorably exercised as to a sub- 
+stantial question of federal law when a conflict exists be- 
+tween or among United States Courts of Appeals which 
+creates confusion among the lu.’er courts. See Insurance 
+Corp. of Ireland v. Compagnie des Bausxites, 456 U.S. 694, 
+700 (1982); United States v. Lorenzetti, 467 U.S. 167, 173 
+(1984); McElroy v. United States, 455 U.S. 642, 643 (1982). 
+This case meets these requirements. 
+
+
+Whether Section 12(2) Applies To Privately Negotiated 
+Secondary Transactions Is A Substantial Question Of Fed- 
+eral Law. 
+
+
+Section 12(2) is a unique provision in the securities laws 
+which provides that buyers of securities may, if sellers 
+make an unintentional misrepresentation by means of a 
+prospectus, rescind the transaction. The cause of action 
+created by Section 12(2) is more akin to one for negligent 
+misrepresentation than to fraud covered by Section 17 of 
+the 1933 Act (15 U.S.C. §77q) and Section 10(b) of the 
+1934 Act (15 U.S.C. 78j(b)) and Rule 10b-5 thereunder (17 
+C.F.R. §240.10b-5 (1992)). Indeed, courts have concluded 
+that material misrepresentations render sellers ‘‘strictly 
+liable” under Section 12(2). Capri v. Murphy, ad F.2d 
+473, 478 (2d Cir. 1988). 
+
+
+Privately negotiated secondary market transactions with 
+sophisticated buyers typically involve extensive due dili- 
+gence, negotiation with regard to representations and war- 
+ranties, and allocation of risks frequently associated with 
+the transaction. Whether, notwithstanding such due dili- 
+
+
+gence, negotiation, and allocation of risk, Section 12(2) 
+
+
+ails 
+
+
+allows buyers to rescind based on an unintentional mis- 
+representation is a matter of critical importance to the 
+negotiation and structuring of such transactions. 
+
+
+This Court has previously acknowledged the importance 
+of certainty in application of the federal securities laws, 
+stating: “uncertainties attending the applicability of the 
+Acts would hardly be in the best interest of either party 
+to a transaction.” Landreth Timber Co. v. Landreth, 471 
+U.S. 681, 696 (1985). As discussed below, the Seventh and 
+Third Circuits are in conflict on the question presented 
+by this petition and uncertainty will continue to exist in 
+circuits which have not addressed the question. 
+
+
+The transaction at issue here involved the resale of long- 
+issued stock to sophisticated buyers pursuant to a nego- 
+tiated agreement to close without a physical inventory or 
+audited financial statements using an estimated purchase 
+price to be adjusted after an audit. If Sellers breached 
+the Agreement, Buyers have a remedy under the Agree- 
+ment. The important question of federal law which prompts 
+this petition is whether sellers in this type of transaction 
+are also liable for rescission or rescissionary damages un 
+der the strict liability rationale of Section 12(2). 
+
+
+The trial court and the Third Circuit held Section 12(2) 
+does not apply to this type of secondary transaction. In 
+Pacific Dunlop, the Seventh Circuit ruled that Section 
+12(2) applies to all secondary market transactions. Which 
+interpretation is correct is of critical importance affecting 
+thousands of negotiated transactions annually, because cer- 
+tainty will permit contracting parties to determine requi- 
+site due diligence and allocate risk by agreement. This 
+Court should grant certiorari to resolve the important 
+question of federal law presented in this case. 
+
+
+= 
+
+
+Direct Conflicts Exist Among Numerous Courts Regard- 
+ing This Question. 
+
+
+In Ballay, the Third Circuit held that Section 12(2) ap- 
+plies only to initial distributions, not to aftermarket trad- 
+ing, based on “the language and legislative history of Sec- 
+tion 12(2), as well as its relationstty:s to Sections 17(a) and 
+10(b) within the scheme of the {953 and 1934 Acts.” Bal- 
+lay, 925 F.2d at 693. 
+
+
+The Seventh Circuit in Pacific Dunlop held that Sec- 
+tion 12(2) applies to secondary market transactions in ad- 
+dition to initial offerings, acknowledging that its holding 
+was squarely at odds with that of the Third Circuit in 
+Ballay: “{(W)e depart from the Third Circuit and hold that 
+Section 12(2) includes secondary market transactions.’ 993 
+F.2d at 582. Plainly, an irreconcilable conflict exists be- 
+tween these Circuit Courts. 
+
+
+Other circuits also have, by implication, addressed this 
+issue with conflicting and confusing results. In Gross v. 
+Diversified Mortgage Investors, 431 F. Supp. 1080 (S.D. 
+N.Y. 1977), aff'd mem., 636 F.2d 1201 (2d Cir. 1980), the 
+court affirmed the district court’s dismissal of a Section 
+12(2) claim based on a secondary market transaction be- 
+cause Section 12(2) only protects purchasers of stock sold 
+pursuant to a misleading prospectus, which the court found 
+is only used with respect to an initial offering. In con- 
+trast, in Cady v. Murphy, 113 F.2d 988 (ist Cir.), cert. 
+denied, 311 U.S. 705 (1940), the court upheld a Section 
+12(2) claim where the sale involved outstanding stock, though 
+neither the parties nor the court directly addressed whether 
+Section 12(2) applies solely to initial offerings. Similarly, 
+in Woodward v. Wright, 266 F.2d 108 (10th Cir. 1959), the 
+court, although not directly addressing whether 12(2) ap- 
+
+
+ailitinn 
+
+
+plies solely to initial offerings, upheld a Section 12(2) claim 
+where the securities were sold in a secondary transaction. 
+
+
+The applicability of Section 12(2) to secondary market 
+transactions has been inconsistently addressed by at least 
+30 reported district court opinions. The substantial ma- 
+jority of these opinions favor limiting Section 12(2) to in- 
+itial distributions, utilizing numerous rationales to reach 
+this conclusion.’ Other courts have concluded to the con- 
+
+
+trary, permitting application of Section 12(2) to secondary 
+
+
+, rt v. Shearson Lehman Bros., Inc., 1993 U.S. Dist. LEXIS 
+1182 (S.D.N.Y. 1993); B Rent A Car Systems . Inc. v. Hirsch, 
+810 F. . 1258 (S.D. 1992); a v. ne et 
++ e = . 1992); ~— v. omg Mey , rig ee 
+992); Newman v. Comprehensive Care 
+1513 (D. Or. 1992); In re Delmarva Securities Litigation 
+Sy ig yb fo Comm mF 
+. 559 (D.S.C. 1992); Professional Serv. I Inc. v. Kim- 
+WL 403639 (D. Kan. 1992); Cox v. Eichler, 765 F. Supp. 
+N.D. Cal. 1990); Bank of Denver v. Southeastern Capital 
+Group, Inc., 763 F. Supp. 1552 (D. Colo. 1991); T. Rowe Price New 
+Horizons Fund, Inc. v. Preletz, 749 F. . 705 (D. Md. 1990); 
+Grinsell v. Kidder, Peabody & Co., 744 F. Supp. 931 (N 
+1990); Leonard v. Stuart-James Co., 742 F. Supp. 
+1990); Mix v. E.F. Hutton & Co., 720 F. Supp. 8 
+First Union v. Milos, 717 F. eB 
+1989); McCowan v. n Witter me. 
+Binder] Fed. Sec. L. Rep. (CCH) $94,423 (S.D.N.Y. Apr. 11, 1989); 
+Cheltenham Bank v. ae ee ee {1989 Trans- 
+fer Binder] Fed. Sec. L. . (CCH) 994,391 (E.D.N.C. Feb. 15, 
+
+
+1989); Strong v. Paine Wi , Inc., 700 F. eon (S.D. 
+
+
+{ee 
+of 
+
+
+8 F. Supp. 1055 (S.D.N.Y. me Ackerman v. Clinical 
+F ieetes | 
+
+
+'Y. : 
+F. Supp. 270 (S.D.N. 1984), clari on reh’g, 602 F. Supp. 837 
+D.N.Y. 1985); Gross v. Diversi Mortgage Investors, supra. 
+
+
+afin. 
+
+
+market transactions under various rationales.? Securities 
+law scholars and commentators also disagree as to whether 
+Section 12(2) applies to secondary market transactions in 
+addition to initial distributions.* 
+
+Certiorari should be granted, in light of these numerous 
+conflicts, to resolve this important question. 
+
+
+Ill. 
+The Decision of the District Court Should be Reinstated. 
+Section 12(2) only provides a remedy against “Any per- 
+
+
+son who offers or sells a security . . . by means of a pro- 
+spectus or oral communication. . . .”* The district court’s 
+
+
+2 PPM Am., Inc. v. Marriott Corp., 1993 U.S. Dist. LEXIS 5914 
+(D. Md. 1993); Farley v. Baird, Patrick & Co., 750 F. —. 1209 
+(S.D.N.Y. 1990); F Adam Co. v. PMI Indus., Inc., 1990 U.S. 
+Dist LEXIS 3349 (S.D.N.Y. 1990), In re Ramtek Securities Litiga- 
+tion, (1990 Transfer Binder] Fed. Sec. L. Rep. (CCH) 995,483 (N.D. 
+Cal. Sept. 7, 1990); Elysian Fed. Sav. Bank v. First In 
+
+Equity Corp., 713 F. F’ Bupp. (D.N.J. 1989) (overruled by Ballay), 
+Wilko v. Swan, 127 F. Supp. 55 (S.D.N.Y. 1955). 
+
+
+3 Com Weiss, The Courts Have it Right: Securities Act Sec- 
+tion 122) A ies Only to Public Offerings, 48 Bus. Law. 1 (1992), 
+and Prentice, Section 12(2): A Remedy for Wrongs in the Second- 
+ary Market?, 55 Alb. L. Rev. 97 (1991), with Loss, The Assault 
+on Securities Act Section 12(2), 105 Harv. L. Rev. 908 (1992), and 
+Maynard, Liability Under Section 12(2) of the Securities Act of 
+1933 for Fraudulent Trading in Post Distribution Markets, %2 
+Wm. & Mary L. Rev. 847 (1991). 
+
+
+4 The term “oral communication” does not broaden the meaning 
+
+of “ ” or the application of Section 12(2) to secondary 
+
+market transactions. While the 1933 Act does not define “oral com 
+
+munication,” judicial interpretation has properly restricted the 
+
+term to oral communications relating to or connected with 
+
+Fae ag = , 993 F.2d at 588; Ballay, 925 F.2d 
+also Schreiber v. Burlington Northern, Inc., 472 U 
+
+en 
+
+
+enfin 
+
+
+holding that Section 12(2) does not afford a remedy to 
+Buyers as to this privately negotiated transaction is in 
+accord with the plain meaning of Section 12(2), which, by 
+its use of “prospectus”, does not connote a negotiated 
+private resale of securities. The Agreement here does not 
+comport with any obvious interpretation of the word “pro- 
+spectus”’. It was not a communication device designed to 
+entice buyers. Rather, the Agreement set forth the nego- 
+tiated terms upon which the purchase would take place. 
+
+
+That Section 12(2) should not be read expansively to 
+apply to the transaction at issue here is confirmed by the 
+primary purpose of the 1933 Act, the legislative history 
+attendant to its adoption, the structure of the 1933 Act and 
+the additional remedies afforded by the 1934 Act. “The 
+primary purpose of the 1933 Act was the regulation of 
+the distribution of securities. Post-distribution trading is 
+regulated by the 1934 Act.” L. Loss, Fundamentals of 
+Securities Regulation, 92 (1983). “The 1933 Act is... 
+chiefly concerned with disclosure and fraud in connection 
+with offerings of securities primarily, as here, initial dis- 
+tributions of newly issued stock from corporate issuers.”’ 
+Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 
+752 (1975). See also Pinter v. Dahl, 486 U.S. 622, 638 
+(1988) (primary purpose of the 1933 Act is protection of 
+investors through disclosure allowing informed investment 
+decisions concerning public offerings of securities). 
+
+
+The House Report accompanying the 1933 Act stated 
+this primary purpose in the clearest terms: 
+
+
+The bill affects only new offeri of securities 
+sold through the use of the ae or of instru- 
+mentalities of interstate or foreign t rta- 
+tion or communication. It does not affect the or- 
+dinary redistribution of securities unless such 
+redistribution takes on the characteristics of a 
+new offering. .. . 
+
+
+—14— 
+
+
+H.R. Rep. No. 85, 73d Cong., Ist Sess. 5 (1933). As to 
+
+the civil liability provisions of Sections 11 and 12 of the 
+
+1933 Act in particular, the Report stated: 
+The committee emphasizes that these liabilities 
+attach only when there has been an untrue state- 
+ment of material fact or an omission to state a 
+material fact in the registration statement or the 
+prospectus—the basic information by which the 
+public is solicited. 
+
+
+H.R. Rep. No. 85, 73d Cong., Ist Sess. 9 (1933). 
+
+
+Consideration of Section 12(2) in the context of the other 
+provisions of the 1933 Act also demonstrates that, by its 
+use of the word “prospectus’’, Section 12(2) applies only 
+to transactions taking on the characteristics of an initial 
+offering. The provisions of 1933 Act are primarily con- 
+cerned with requiring and regulating disclosure in two 
+documents—registration statements and prospectuses. Un- 
+der Section 5 (15 U.S.C. §77e) a person may not, absent 
+an appropriate exemption, offer or sell a security by means 
+of a prospectus without filing a registration statement. 
+See A.C. Frost & Co. v. Coeur D’Alene Mines Corp., 312 
+U.S. 38, 41-42 (1941). Accordingly, the phrase “by means 
+of a prospectus” has meaning in the 1933 Act primarily 
+in the context of a distribution of securities pursuant to 
+a registration statement.® Sections 5 through 7 (15 U.S.C. 
+§§77e-g) detail the contents and proper use of a registra- 
+tion statement and the related prospectus in connection 
+
+
+5 The term “p us” appears forty-two (42) times in the text 
+of the 1933 Act. ile Section 2(10) defines broadly the various 
+forms which a prospectus may take, it does not change the fact 
+that fundamentally a prospectus is a document “which offers any 
+security for sale or confirms the sale of any security” after a reg- 
+istration statement is filed. 15 U.S.C. §77b(10). 
+
+
+wit. 
+
+
+with such a distribution and Section 10 (15 U.S.C. §77j) 
+sets forth the information required in the prospectus. 
+
+
+The remedial provisions in the 1933 Act are Sections 11, 
+12 and 17. Section 12(2) must be read in the context of its 
+placement in the 1933 Act and in comparison to the Act’s 
+other remedial provisions. Dole v. United Steel Workers 
+of America, 494 U.S. 26, 36 (1990). Section 11 (15 U.S.C. 
+$77k) provides for civil liability on account of false reg- 
+istration statements. Section 12 provides for civil liability 
+arising in connection with prospectuses and communica- 
+tions. Section 12(1) provides a remedy where the seller 
+violates the solicitation and sale requirements of Section 
+5 and Section 12(2) provides a remedy when a person of- 
+fering or selling a security makes a misrepresentation “by 
+means of a prospectus or oral communication’. Section 
+12(1)’s direct reference to the registration requirement of 
+Section 5 makes clear that Section 12 is focused on rem- 
+edying abuses in the initial distribution process. Given its 
+position in the same section and particularly its use of 
+“prospectus”, Section 12(2) cannot reasonably be construed 
+as applicable to secondary transactions while the closely 
+related Section 12(1) plainly applies only to initial distri- 
+butions. 
+
+
+In contrast to Sections 11 and 12, Section 17(a) of the 
+1933 Act is phrased broadly proscribing fraud in the of- 
+fer or sales of any securities in language which differs 
+significantly greatly from the specific phrase “offers or 
+sells . . . by means of a prospectus or oral communica- 
+tion” used in Section 12(2). In United States v. Naftalin, 
+441 U.S. 768, 777-778 (1979), the Court observed that: 
+“Unlike much of the rest of the Act, [Section 17(a)] was 
+intended to cover any fraudulent scheme in the offer or 
+sale of securities, whether in the course of an initial 
+distribution or in the course of ordinary market trading.” 
+
+
+=e 
+
+
+Unlike the legislative history of Section 12(2), the legis- 
+lative history of Section 17(a) explicitly demonstrates an 
+intention to apply that Section to transactions in both the 
+primary and secondary securities market. “The act sub- 
+jects the sale of old or outstanding securities to the same 
+criminal penalties and injunctive authority for fraud, de- 
+
+
+ception, or misrepresentation as in the case of new issues 
+.... SS. Rep. No. 47, 73d Cong., lst Sess. 4 (1933). 
+
+
+That Sections 11 and 12 apply only to initial distribu- 
+tions is also evidenced by the fact that both sections pro- 
+vide a remedy only to a buyer. This is consistent with 
+the Act’s primary purpose since the prospectus and regis- 
+tration statement are selling documents prepared by the 
+seller. In the context of initial distributions, the provi- 
+sion of a remedy for misled buyers and the absence of 
+any remedy for misled sellers makes complete sense be- 
+cause only buyers can be injured by misrepresentations 
+in an initial distribution context. In contrast, in a nego- 
+tiated private resale, there are representations and war- 
+ranties by buyers and sellers. It makes no sense, in such 
+a transaction, for a buyer to have available the extraor- 
+
+
+dinary remedy of rescission while sellers are granted no 
+
+
+remedy as to the same transaction. 
+
+
+A buyer can recover under Section 12(2) simply by show- 
+ing that the seller misstated or failed to state a material 
+fact. The buyer need not prove scienter, reliance or loss 
+causation. See, e.g., Ballay, 925 F.2d at 689 (negligent mis- 
+representation is actionable under Section 12(2)); Wilson 
+v. Saintine Exploration & Drilling Corp., 872 F.2d 1124, 
+1126 (2d Cir. 1989) (proof of scienter or loss causation is 
+not required by Section 12(2)); Capri v. Murphy, 856 at 
+478 (material misrepresentation renders sellers strictly li- 
+able under Section 12(2)). 
+
+
+= = 
+
+
+The extension of Section 12(2) and its much less strin- 
+gent standards of liability to all secondary transactions 
+would afford all buyers, and only buyers, a remedy which 
+effectively renders superfluous, whenever a buyer sues, 
+Rule 10b-5 and years of precedent with respect to scienter, 
+reliance, and loss causation under that Rule. See Ernst 
+& Ernst v. Hochfelder, 425 U.S. 185 (1976) (under Sec- 
+tion 10(b) plaintiff must establish, inter alia, that defen- 
+dant acted recklessly or with an intent to deceive known 
+as scienter); Sharp v. Coopers & Lybrand, 649 F.2d 175 
+(3d Cir. 1981) (Section 10(b) imposes upon the plaintiff a 
+stringent reliance requirement), cert. denied, 455 U.S. 938 
+(1982); Sims v. Faestel, 638 F. Supp. 1281 (E.D. Pa. 1986) 
+(plaintiff in Section 10(b) claim must establish direct causal 
+relationship between alleged misrepresentation and loss), 
+aff'd, 813 F.2d 399 (3d Cir. 1987). 
+
+
+The different remedies available under Section 12(2) and 
+Section 10(b) further support the conclusion that Section 
+12(2) is limited to initial distributions. Section 12(2) pro- 
+vides for rescission or rescissionary damages, see Pinter 
+v. Dahl, supra, while Section 10(b) permits recovery only 
+of actual damages. See Affiliated Ute Citizens of Utah v. 
+United States, 406 U.S. 128 (1972). A seller in an initial 
+distribution should bear liability for rescission or rescis- 
+sionary damages because the seller receives the full pur- 
+chase price from the buyer and is the buyer’s sole source 
+of information concerning the value, risk, and quality of 
+the security. The rescission remedy without scienter, re- 
+liance, or causation proof afforded by Section 12(2) is con- 
+sistent with the congressional purpose of regulating and 
+promoting full disclosure in initial distributions by fore- 
+ing disgorgement of the entire amount the seller received 
+irrespective of the damages actually suffered by the buyer. 
+The same is not true in a privately negotiated secondary 
+
+
+~—18— 
+
+
+market transaction where the buyer has independent mar- 
+ket information, access to the seller’s financial and opera- 
+
+
+tional records, and the ability to negotiate the terms of 
+
+
+the acquisition and allocate risks by agreement. In such 
+transactions, the remedy should be limited to the actual 
+loss sustained, the remedy afforded by Section 10(b) of 
+the 1934 Act and Rule 10b-5. Application of Section 12(2) 
+to all secondary market transactions would undermine this 
+proper allocation of remedies. 
+
+
+In sum, the language of Section 12(2), the purpose and 
+structure of the 1933 Act, the legislative history of the 
+Act and Section 12(2) and the interplay between the 1933 
+Act and the 1934 Act all demonstrate that Section 12(2) 
+was not intended to apply to a privately negotiated resale 
+of stock. 
+
+
+IV. 
+
+
+The Seventh Circuit’s Broad Application of Section 12(2) 
+is Not Warranted by its Language or the Structure or 
+Purpose of the 1933 Act. 
+
+
+In Ballay, the court observed that “Congress repeatedly 
+used the term ‘prospectus’ in provisions concerning regis- 
+tration statement requirements in initial distributions.” 
+925 F.2d at 689. Pursuant to this analysis, the Third Cir- 
+cuit held “Congress employed the term ‘prospectus’ as a 
+term of art which describes the transmittal of information 
+concerning the sale of a security in an initial distribution.” 
+Id. at 688. As the Third Circuit observed, if Congress had 
+intended a more expansive meaning for Section 12(2), it 
+“more simply could have drafted Section 12 to describe 
+all written or oral communications.” Jd. at 689. Congress’ 
+use of the more restrictive phrase “by means of a pro- 
+spectus” evidences convincingly its intent that the phrase 
+was not intended to encompass privately negotiated resale 
+transactions. 
+
+
+_, 
+
+
+The Seventh Circuit in Pacific Dunlop relied almost ex- 
+clusively on the broad definition of “‘prospectus’”’ in Sec- 
+tion 2(10) of the Act to conclude “Section 2(10) is broad 
+enough to include initial and secondary market transac- 
+tions.”” 993-F'.2d at 588. The court recognized the general 
+rule that a person could not offer or sell a security by 
+means of a prospectus without filing a registration state- 
+ment and that “{t]his would imply that a prospectus can- 
+not exist without a registration statement.” Jd. at 586. 
+Notwithstanding this plainly proper implication, the court 
+effectively ruled that every sale of securities involves 
+some written or oral communication, so every saie of se- 
+curities is covered by Section 12(2). 
+
+
+Unlike the Third Circuit, the Seventh Circuit failed to 
+properly analyze the plain meaning of the words used in 
+Section 12(2) particularly in light of the primary purpose 
+of the Act, its structure, and the legislative intent to limit 
+the applicability of Section 12(2) to initial offerings. 
+
+
+The Seventh Circuit failed to consider properly the 
+significant distinction between a prospectus and a stock 
+purchase agreement, a commonly used device for transfer- 
+ring a large block of shares in a privately negotiated trans- 
+action. The former is a “single party document”—prepared 
+by the issuer or proponent of the initial offering as a sell- 
+ing device to the public. It is a disclosure and sales tool, 
+prepared without the prospective buyers’ input or investi- 
+gation. The flow of information is one-sided and the incen- 
+tive to “puff” is great, thereby justifying the protection 
+of, and unique remedy provided by, Section 12(2). In con- 
+trast, a stock purchase agreement is a “two-party docu- 
+ment”—prepared jointly and negotiated by the buyer and 
+seller. It is not used to solicit the transaction. It merely 
+documents the jointly agreed upon terms of the parties 
+after investigation by the buyer. Such a two-party docu- . 
+
+
+—20— 
+
+
+ment is not a “prospectus” as referenced in Section 12(2) 
+given the primary objectives of the 1933 Act. 
+
+
+In addressing the legislative history, the Seventh Cir- 
+cuit in Pacific Dunlop, 993 F.2d at 589-92, relied primarily 
+on a negative inference from minor revisions in the word- 
+‘ing of Section 12(2) and the lack of expressed intent as 
+to the scope of the Section in the Senate and Conference 
+Reports, to conclude that secondary market transactions 
+are covered by Section 12(2). 
+
+
+In the face of the Senate’s broad wording, that 
+civil fraud applies to any sale, the commentary 
+by the House’s managers remained silent. Al- 
+though the legislative history in the House re- 
+port can be read to focus solely on those offer- 
+ings pursuant to a registration statement and 
+prospectus (or in the Third Circuit’s words, to 
+initial offerings), the Senate’s version of the 1933 
+Act and the conference report do not confirm the 
+House’s comments. 
+
+
+Id. at 592. 
+
+
+Nor, however, did the Senate’s version or Conference 
+Report negate or conflict with the House’s comments. As 
+acknowledged by the Seventh Circuit, “(t]he Senate rarely 
+mentioned the word ‘prospectus’ and certainly not in the 
+fraud context of Section 12(2). And the Senate, as com- 
+pared to the House, did not draft as detailed a report 
+in support of the bill.”’ Jd. at 591. Nonetheless, the court 
+relied improperly on general language or silence by the 
+Senate to negate—without really addressing—the explicit 
+House Report, which emphasized that Section 11 and 12 
+liabilities attached only to untrue statements “in the 
+registration statement or the prospectus—the basic infor- 
+mation by which the public is solicited.’”” H.R. Rep. No. 
+85, 73d Cong., Ist Sess. 9 (1933). 
+
+
+—~2)]— 
+
+
+The Seventh Circuit’s expansive conclusion that Sec- 
+tion 12(2) applies to secondary transactions constitutes an 
+unreasonably broad construction of that Section not war- 
+ranted by its language, the primary purpose and struc- 
+ture of the Act or the Act’s legislative history. 
+
+
+CONCLUSION 
+
+
+The district court below and the Third Circuit in Ballay 
+correctly concluded that Section 12(2) does not apply to 
+privately negotiated secondary market transactions that 
+do not resemble an initial offering of securities. The Sev- 
+enth Circuit’s broader interpretation in Pacific Dunlop 
+should be rejected. A writ of certiorari should issue to 
+review the judgment of the Court of Appeals for the Sev- 
+enth Circuit vacating the trial court’s judgment in Peti- 
+tioners’ favor. 
+
+
+Respectfully submitted, 
+
+
+GERALD D. SKONING* DONALD W. JENKINS . 
+HAROLD C. WHEELER THomMas P. DESMOND 
+PETER C. WooprorD ANDREW M. GARDNER* 
+DEBRA A. WINIARSKI MICHAEL L. KAYMAN 
+SEYFARTH, SHAW, VEDDER, PRICE, KAUFMAN 
+FAIRWEATHER & KAMMHOLZ 
+& GERALDSON 222 North LaSalle Street 
+55 East Monroe Street Suite 2600 
+Suite 4200 Chicago, Illinois 60601 
+Chicago, Illinois 60603 (312) 607-7500 
+(312) 346-8000 
+
+
+Counsel for Petitioner 
+Counsel for Petitioners Arthur L. Gustafson 
+Daniel R. McLean and 
+
+Francis I. Butler * Counsel of Record 
+
+
+APPENDIX 
+
+
+ie... 
+
+
+App. 1 
+
+
+UNITED STATES COURT OF APPEALS 
+For the Seventh Circuit 
+Chicago, Illinois 60604 
+
+
+June 11, 1993 
+
+
+Before 
+
+
+Hon. WILLIAM J. BAUER, Chief Judge 
+Hon. FRANK H. EASTERBROOK, Circuit Judge 
+Hon. MICHAEL S. KANNE, Circuit Judge 
+
+
+ALLOYD COMPANY, INCORPORATED, formerly known as 
+ALLOYD HOLDINGS, INCORPORATED, a Delaware Cor- 
+poration, and WIND POINT PARTNERS II, L.P., a Delaware 
+Limited Partnership, 
+
+Plaintiffs-Appellants, 
+
+
+No. 92-2514 Vv. 
+
+
+ARTHUR L. GUSTAFSON, DANIEL R. MCLEAN 
+and FRANCIS I. BUTLER, 
+
+
+Defendants-Appellees. 
+
+
+Appeal from the United States District Court 
+fer the Northern District of Illinois, Eastern Division. 
+No. 91 C 889—Ann Claire Williams, Judge. 
+
+
+This matter comes before the court for its consideration 
+of the following documents: 
+
+
+1. MOTION TO VACATE JUDGMENT AND RE.- 
+MAND TO DISTRICT COURT filed herein on 5/19/93, 
+by counsel for the appellants. 
+
+
+App. 2 
+
+
+2. DEFENDANTS-APPELLEES’ RESPONSE TO 
+PLAINTIFFS-APPELLANTS’ MOTION TO VACATE 
+JUDGMENT AND REMAND TO DISTRICT COURT 
+filed herein on 5/28/93, by counsel. 
+
+
+3. PLAINTIFFS-APPELLANTS’ MOTION TO FILE 
+REPLY IN SUPPORT OF THEIR MOTION TO VA- 
+CATE AND REMAND filed herein on 6/2/93, by counsel. 
+
+
+On consideration thereof, 
+
+
+IT IS ORDERED that the Plaintiffs-Appellants’ Motion 
+to File Reply in Support of their Motion to Vacate and 
+Remand is DENIED as unnecessary. The judgment of the 
+lower court is VACATED and the this case is RE- 
+MANDED to the district court for further proceedings 
+in light of this court’s opinion in Pacific Dunlop Holdings, 
+Inc. v. Allen & Co., Inc., No. 91-2346 (7th Cir. May 7, 
+1993). 
+
+
+App. 3 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF ILLINOIS 
+EASTERN DIVISION 
+
+
+Case No. 91 C 889 
+
+
+ALLOYD CO., INC., et al., 
+Plaintiffs, 
+
+
+V. 
+
+
+ARTHUR L. GUSTAFSON, et al., 
+Defendants. 
+
+
+MEMORANDUM OPINION AND ORDER 
+
+
+Plaintiffs Alloyd Co., Inc., formerly known as Alloyd 
+Holdings, Inc. (“Holdings”) and Wind Point Partners II 
+(“Wind Point”) brought this suit against defendants Ar- 
+thur Gustafson (“Gustafson’’), Daniel McLean (“McLean’’), 
+and Francis Butler (“Butler”). The plaintiffs claim that 
+the defendants made material misrepresentations when 
+selling all their stock in Alloyd, Inc. (“Alloyd’’) to them 
+in violation of Section 12(2) of the Securities Exchange 
+Act of 1933 (“Section 12(2)”) and in breach of the perti- 
+nent stock purchase agreement (the “Agreement’’). The 
+parties subsequently brought cross-motions for summary 
+judgment. For the reasons stated below, the court grants 
+defendants’ motion for summary judgment and denies 
+plaintiffs’ motion as moot. 
+
+
+App. 4 
+
+
+Background 
+
+
+In 1989, Gustafson, McLean and Butler were the sole 
+shareholders of Alloyd, a manufacturer of clear plastic 
+blister packaging and automatic heat seal packaging equip- 
+ment. After deciding to sell the company, Alloyd engaged 
+KPMG Peat Marwick (“KPMG”’) to find a buyer. In the 
+course of soliciting purchasers, KPMG prepared a “pro- 
+file’ describing the company to distribute to parties ex- 
+pressing serious interest in purchasing Alloyd. A copy of 
+this profile was sent to Wind Point. 
+
+
+On August 11, 1989, Wind Point submitted a letter sum- 
+marizing its interest in Alloyd. Wind Point representatives 
+were then invited to visit Alloyd’s physical plant. By Oc- 
+tober 17, 1989, Alloyd agreed to sell substantially all of 
+its issued and outstanding stock to Holdings, a new cor- 
+poration to be formed by Wind Point to effectuate the 
+sale of Alloyd. Holdings was subsequently incorporated 
+on November 17, 1989 with McLean and Butler serving 
+as its officers and directors, and Wind Point, McLean, 
+Butler, Carl Lutz, William Lord, and Henry Young as its 
+shareholders. 
+
+
+While negotiating the terms of the Agreement, Wind 
+Point conducted extensive due diligence regarding Alloyd. 
+KPMG also conducted a formal business review of Alloyd 
+and performed other procedures relating to Alloyd’s finan- 
+cial statements. KPMG was to report on Alloyd’s inven- 
+tory as well as other aspects of the company’s financial 
+performance. Of particular interest to this case, KPMG 
+provided inventory information based upon estimates of 
+the costs of goods sold and gross profits. KPMG could 
+only provide estimates because Alloyd only took inven- 
+tory at the end of each year. Although the appropriate- 
+ness of taking a physical inventory was discussed, no 
+physical audit was taken prior to closing on the sale. 
+
+
+App. 5 
+
+
+At the closing on December 20, 1989, Holdi 
+Alloyd’s stock for $18,709,000 plus suenael ts hen 
+the estimated adjustment amount of Alloyd’s earnings. 
+The Agreement signed by Alloyd and Holdings set forth 
+detailed procedures to be followed after the year-end audit 
+was conducted to remit the appropriate amount should 
+the audit disclose a variance between Alloyd’s estimated 
+and actual earnings for that year. 
+
+
+By February 8, 1990, McLean determined that Alloyd’s 
+actual 1989 earnings and year-end net book value were 
+significantly less than the estimates relied upon to de- - 
+termine Holding’s payment of the estimated adjustment 
+amount. This variance was attributed to the fact that 
+Alloyd’s year-end inventory was significantly lower than 
+estimated. After confirming the discrepancy, McLean met 
+with Richard Kracum, a general partner of Wind Point 
+and a director of Holdings, and other Wind Point em- 
+ployees to inform them of the shortfall in Alloyd’s inven- 
+tory. On February 11, 1991, the plaintiffs instituted the 
+instant law suit. Pursuant to the adjustment provision in 
+the Agreement, on March 11, 1991, the defendants repaid 
+$815,000 plus interest to Holdings to cover the difference 
+between the estimated adjustment amount paid by Hold- 
+ings at the closing and the actual adjustment amount due 
+as determined by Alloyd’s year-end audit. 
+
+
+The Cross Motions for Summary Judgment 
+
+
+Summary judgment is appropriate when the leadings 
+and discovery show that “there is no pater edger as 
+to any material fact and that the moving party is entitled 
+toa judgment as a matter of law.” Fed. R. Civ. P. 56. 
+The moving party bears the initial burden of establishing 
+that no genuine issues of material fact exist. Celotex Corp. 
+
+
+App. 6 
+
+
+v. Catrett, 477 U.S. 317, 321-22 (1986). The nonmoving par- 
+ty must respond to the moving party’s claims by estab- 
+lishing specific facts that demonstrate a genuine issue that 
+must be resolved at trial. Jd. When assessing a motion 
+for summary judgment, the court must accept as true the 
+nonmoving party’s evidence and draw all legitimate infer- 
+ences in the nonmoving party’s favor. Valentine v. Joliet 
+Township High School District, 802 F.2d 981, 986 (7th Cir. 
+1986). 
+
+
+In their motion for summary judgment, the defendants 
+raise several procedural arguments which they claim bar 
+the plaintiffs from bringing this law suit. The defendants 
+contend that Wind Point lacks standing to sue under Sec- 
+tion 12(2) because it was not a purchaser of the securities 
+at issue. Wind Point counters that it was the actual_pur- 
+chaser of Alloyd because it was the party who negotiated 
+the purchase of Alloyd’s stock and created Holdings for 
+the sole purpose of consummating the sale. 
+
+
+Generally, only purchasers have standing to sue for vio- 
+lations of Section 12(2). Greater Iowa Corp. v. McLendon, 
+878 F.2d 783, 789-91 (8th Cir. 1967); Dyer v. Eastern Trust 
+and Banking Co., 336 F. Supp. 890, 910 (D. Me. 1971). 
+Several courts have addressed the question of whether 
+a party who creates a shell corporation to purchase an- 
+other entity constitutes a purchaser for the purposes of 
+establishing standing. The plaintiffs contend that this court 
+should follow the court’s decision in H.B. Holdings Corp. 
+v. Scovill Inc. where the court determined that the plain- 
+tiff, who had established a shell corporation to purchase 
+the defendant corporation, qualified as a purchaser with 
+standing to sue under Section 12(2). 1990 LW 37869 (S.D. 
+N.Y. March 26, 1990). In Scovill, the court noted that the 
+defendant understood that the plaintiff was the purchaser, 
+the defendants had solicited the plaintiff as a purchaser 
+
+
+App. 7 
+
+
+before the shell corporation was created, the plaintiff sub- 
+mitted the bid that the defendant accepted, and after clos- 
+ing, the plaintiff was in control of the shell corporation. 
+The court concluded that this evidence sufficiently estab- 
+lished that the plaintiff was the actual party at risk in 
+the transaction and therefore had standing to sue. /d. 
+
+
+This court is persuaded by the court’s reasoning in Sco- 
+vill. To hold that plaintiffs who are and were treated by 
+all parties as the actual purchasers do not have standing 
+merely because they did not sign the pertinent sale agree- 
+ment would be to put form over substance. Although Wind 
+Point did not sign the Agreement in this case, like the 
+plaintiff in Scovill, Wind Point was the actual party at 
+risk in the pertinent transaction and was treated as such 
+by all involved parties. For example, before Holdings was 
+created, Wind Point obtained a profile of Alloyd, inspected 
+Alloyd’s facilities, and sent a letter of interest to Alloyd. 
+The defendants even acknowledged that in November 1991, 
+they agreed with Wind Point to form a corporation to buy 
+Alloyd. Furthermore, during the course of negotiations 
+over the purchase price, Wind Point conducted due dili- 
+gence. Then, when the defendants subsequently deter- 
+mined that the inventory estimates they had relied upon 
+to establish a purchase price for Alloyd were inaccurate, 
+they contacted Wind Point employees to inform them of 
+the discrepancy. These facts establish that Wind Point was 
+and the defendants recognized Wind Point as the actual 
+purchaser of Alloyd. 
+
+
+This determination also comports with the Tenth Circuit’s 
+decision in Grubb v. Federal Deposit Insurance Corp., 868 
+F.2d 1151 (10th Cir. 1989). In Grubb, the plaintiff and the 
+director of Security National Bank (“SNB”) formed a shell 
+corporation to purchase all the shares of SNB from the 
+First National Bank and Trust Company of Oklahoma 
+
+
+App. 8 
+
+
+City (“First National’’). In determining that the plaintiff 
+had standing to sue under the Securities Exchange Act,’ 
+the court noted that the defendant seller made misrep- 
+resentations during direct negotiations with the plaintiff, 
+negotiations occurred before the shell corporation was 
+even established, and the shell corporation was created 
+for the sole purpose of facilitating the purchase. /d. at 
+1161-62. The court also noted that the plaintiff had per- 
+sonally guaranteed the shell corporation’s loan to purchase 
+the SNB. Id. The Grubb court’s reliance on the facts that 
+the defendant recognized the plaintiff as the purchaser 
+and the plaintiff was the actual party at risk supports this 
+court’s determination that Wind Point has standing in the 
+instant law suit. 
+
+
+The defendants suggest that this court should rely in- 
+stead upon the court’s determination in Rayman v. Peo- 
+ples Savings Corp., 735 F. Supp. 842 (N.D. Ill. 1990). In 
+Rayman, Peoples savings Corporation (“PSC”’) created 
+a shell corporation to purchase Peoples Bank of Savings. 
+The Flanagans were principal shareholders of PSC. The 
+question before the court was_whether the Flanagans had 
+standing to bring a counterclaim under Section 10(b) of 
+the Securities Act. Jd. at 844-45. Based upon the court's 
+thorough consideration of the policies underlying Section 
+10(b), the court determined that it must employ a bright- 
+line definition of a purchaser when determining whether 
+a claimant has standing. Jd. at 848. Since the court found 
+
+
+s Grubb court was faced with the question of whether the 
+
+laintift had standing to sue under Section 10(b) of the Securities 
+Gadiaaes Act. The Grubb court’s analysis is still applicable to the 
+instant action because the same requirement that the plaintiff be 
+a purchaser of the pertinent stocks arises under Section 10(b) as 
+it does under Section 12(2). 
+
+
+App. 9 
+
+
+that shareholders do not qualify as purchasers, it held that 
+the Flanagans did not have standing to sue under Sec- 
+tion 10(b). Jd. at 851. 
+
+
+Contrary to the defendants’ suggestion, this court de- 
+clines to follow Rayman. This court finds that the Ray. 
+man court’s reliance upon a strict, bright-line definition 
+of a purchaser appears to conflict with the Seventh Cir- 
+cuit’s analysis in Norris v. Wirtz. 719 F.2d 256 (7th Cir. 
+1983). In Norris, the Seventh Circuit determined that the 
+plaintiff, the beneficiary of a trust which had sold certain 
+stocks, had standing to sue under Section 10(b) and Rule 
+10b-5 of the Securities Exchange Act. In reaching this con- 
+clusion the court stated: “The broad proscription against 
+fraud set forth in Section 10(b) and Rule 10b-5 is defeated 
+in its remedial purposes by taking an unrealistic view of 
+what is alleged to have happened in this case.” Jd. at 260 
+(citing Herman & MacLean v. Huddleston, 103 S.Ct. 683 
+(1983)). This statement, as well as the court’s determina- 
+tion that the plaintiff beneficiary had standing to sue, sug- 
+gests that the Seventh Circuit did not intend to employ 
+a strict definition of who constitutes a purchaser as the 
+court in Rayman suggests.? 
+
+
+This court also declines to follow Rayman because we 
+are not persuaded that the policy analysis relied upon in 
+Rayman court is applicable to the instant law suit. As 
+
+
+2 The Seventh Circuit also stated that to grant standing to the 
+7 ten anion requirement for Secuon 100 and Rule 1005. Nor 
+
+i irement for ion 1 10b-5. Nor- 
+
+- A 719 F.2d at . Indeed, in support of this contention, the 
+court cited James v. Gerber Products Co. for the proposition that 
+“the courts have generally inclined to a logical and flexible con- 
+struction of the term ‘purchaser-seller’ in order to accommodate 
+the avowed purpose of § 10(b) of protecting the investing public 
+and of ensuring honest dealings in securities transactions.” Jd. 
+
+
+————— 
+
+
+App. 10 
+
+
+previously stated, the Rayman court based its determina- 
+tion that a bright-line rule should be employed upon its 
+analysis of the policy considerations underlying Section 
+10(b). See 735 F. Supp. at 848. The defendants in this case 
+have provided this court with no evidence suggesting that 
+the policy concerns underlying Section 10(b) are identical 
+to those under Section 12(2) or are otherwise relevant to 
+this court’s determination. Therefore, this court finds that 
+Wind Point has standing to sue under Section 12(2).* 
+
+
+The defendants next contend that the plaintiffs’ claims 
+are timebarred. Section 13 of the Securities Exchange Act 
+of 1933 requires plaintiffs to bring claims under -Sec- 
+tion 12(2) within “‘one year after the discovery of the un- 
+true statement or omission, or after such discovery should 
+have been made by the exercise of reasonable diligence. 
+DeBruyne v. Equitable Life Assurance Society of the United 
+States, 920 F.2d 457, 466 (7th Cir. 1990). 
+
+
+tion for Judgment at 5. The defendants also acknow 
+
+
+i to sell Alloyd to Holdings, “a company to 
+Soma by Wind Point.” Defendants’ Statement of o> momma 
+at 415. In addition, unlike in Vanderboom, other evidence _ is 
+case suggests that Holdings was a conduit formed to purchase 
+
+
+Alloyd. See Id. at 228. 
+
+
+App. 11 
+
+
+The parties agree that on February 8, 1990, McLean, 
+now the President of Holdings, became aware of the short- 
+fall in Alloyd’s inventory. The parties also agree that McLean 
+did not inform other officers of Holdings of the shortfall 
+until February 12, 1990. The defendants contend that 
+McLean’s discovery of the discrepancy on February 8 
+started the running of the one year limitations period in 
+this case. The plaintiffs counter that the statute of limita- 
+tions period did not begin to run until February 12 when 
+
+
+other Holdings officers learned about the inventory short- 
+fall. 
+
+
+Generally, a principal is charged with the knowledge of 
+its agent acquired in the course of the principal’s business. 
+First National Bank of Cicero v. Lewco Securities Corp., 
+860 F.2d 1407, 1417 (7th Cir. 1988). However, an excep- 
+tion to this rule has been carved out in cases where the 
+agent’s interests are shown to be adverse to those of his 
+principal. Jd. In such cases, it is presumed that such an 
+agent is unlikely to fulfill his fiduciary duty of full disclo- 
+sure to the principal. Jd.; Restatement (Second) of Agen- 
+cy § 282(1); Evanston Bank v. ContiCommodity Services, 
+Inc., 623 F. Supp. 1014, 1036 (N.D. Ill. 1985), 
+
+
+Contrary to the defendants’ Suggestion, even though 
+McLean had become the President of Holdings and Alloyd 
+no longer existed, this court finds that McLean’s interests 
+were adverse to those of Holdings. As evidenced by the 
+present case, the inventory shortfall at issue could result 
+in McLean being held liable to Holdings. McLean could 
+therefore have had a personal interest in not telling the 
+other Holding officers about the shortfall. Since McLean’s 
+interests were adverse to Holdings, the knowledge he ac- 
+quired about the shortfall on February 8, 1990 cannot be 
+imputed to Holdings. The statute of limitations period 
+began to run in this case on February 12, 1990, the date 
+
+
+App. 12 
+
+
+when other Holdings officers learned about the discrepan- 
+cy. Since the plaintiffs filed their complaint on February 
+11, 1991, one day before the limitations period ran out, 
+the plaintiffs’ Section 12(2) claim is not time-barred as the 
+defendants suggest. 
+
+
+The defendants further contend that the plaintiffs’ Sec- 
+tion 12(2) claim should be dismissed because this provi- 
+sion can only be applied to initial offerings. Although the 
+case law is divided, the trend favors limiting Section 12(2) 
+actions to purchasers in initial offerings. See, e.g., Ballay 
+v. Legg Mason Wood Walker, Inc., 925 F.2d 682 (3d Cir. 
+1991); Pacific Dunlop Holdings, Inc. v. Allen & Company 
+Inc., 1991 U.S. Dist. LEXIS 6748 (N.D. Ill. 1991); Bank 
+of Denver v. Southeastern Capital Group, Inc., 763 F. 
+Supp. 1552 (D. Co. 1991); T. Rowe Price New Horizons 
+Fund, Inc. v. Preletz, 749 F. Supp. 705 (D. Md. 1990); 
+Grinsell v. Kidder, Peabody, & Co., 744 F. Supp. 931 
+(N.D. Ca. 1990). | 
+
+
+This court is persuaded, most notably by the Third Cir- 
+cuit in Ballay, that Section 12(2) claims can only arise out 
+of the initial stock offerings. See 925 F.2d 682. In a thor- 
+ough and well-reasoned opinion, the Ballay court deter- 
+mined that the language and legislative history of Sec- 
+tion 12(2), as well as its relationship to Section 17(a) and 
+10(b) within the schemes of the 1933 and 1934 Acts, com- 
+pelled a finding that Section 12(2) only applies to initial 
+offerings and not to after-market trading. Jd. at 693. The 
+one other court in this district faced with this issue has 
+also agreed with the Third Circuit’s analysis. See Pacific 
+Dunlop Holdings, 1991 U.S. Dist. LEXIS 6748. Based upon 
+the court’s reasoning in Ballay, this court therefore con- 
+cludes that application of Section 12(2) must be restricted 
+to initial distributions. 
+
+
+App. 13 
+
+
+As the plaintiffs argue, the legislative history of the 
+1933 Securities Exchange Act suggests that Section 12(2) 
+can be applied to a redistribution of securities if “such 
+redistribution takes on the characteristics of a new offer- 
+ing by reason of the control of the issuer possessed by 
+those responsible for the offering.” H.R. No. 85, 73d Cong.., 
+Ist Sess. 7 (1933); Ballay, 925 F.2d at 690. While the 
+plaintiffs suggest that this language supports their argu- 
+ment that Section 12(2) is applicable, they have provided 
+this court with no evidence to support their claim that the 
+sale at issue possesses the characteristics of a new offer- 
+ing. At most, the plaintiffs claim that the instant case in- 
+volved the purchase of stock directly from the controlling 
+shareholders rather than from a stockbroker as was the 
+case in Ballay. This claim does not suffice to overcome 
+the court’s conclusion that Section 12(2) cannot be applied 
+to this case because other evidence more strongly sug- 
+gests that the transaction at issue in this case cannot be 
+compared to an initial offering. For example, the parties 
+agree that Alloyd was formed in 1961. See Defendants’ 
+Statement of Material Facts at 42. Hence, the transac- 
+tion at issue in this case occurred approximately 30 years 
+after the initial issuance of Alloyd’s stock. See Bank of 
+Denver, 763 F. Supp. at 1559. Also, unlike purchasers in 
+most initial offerings, the purchasers in this case had di- 
+rect access to financial and other company documents, and 
+had the opportunity to inspect the seller’s property. 
+
+
+Since the plaintiffs fail to provide this court with ade- 
+quate evidence showing that the pertinent transaction is 
+not comparable to an initial offering, this court finds that 
+Section 12(2) cannot be applied to the instant case. The 
+court therefore grants defendants’ motion to dismiss plain- 
+
+
+App. 14 
+
+
+tiffs’ Section 12(2) claim.* The court also dismisses plain- 
+tiffs’ state law breach of contract claim for lack of juris- 
+diction. Finally, the court denies plaintiffs’ motion for 
+summary judgment as moot. 
+
+
+Conclusion 
+
+
+For the reasons stated above, the court grants defen- 
+dants’ motion for summary judgment and denies plaintiffs’ 
+motion for summary judgment as moot. 
+
+
+ENTER: 
+
+
+Ann Claire Williams, Judge 
+United States District Court 
+
+
+Dated: May 29, 1992 
+
+
+* The defendant also contends that the plaintiffs cannot prove the 
+substantive elements of a Section 12(2) claim. There is no need 
+for this court to consider this argument since, upon review of the 
+SE CSE, Se ee ee See Sees Saas we 
+not affect our decision to grant defendants’ motion for summary 
+a ee ee ee ee 
+tion . 
+
+
