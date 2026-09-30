@@ -1,0 +1,133 @@
+13 F.3d 1297
+
+Docket No. 91-56260.
+
+Qualitex Company v. Jacobson Products Company Inc
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted Feb. 2, 1993. Decided Jan. 3, 1994.
+
+Laurence D. Strick, Richman, Lawrence, Mann, Green, Arbiter & Chizever, Beverly Hills, CA, for defendant-appellant.
+
+Donald G. Mulack, Keck, Mahin & Cate, Chicago, IL, for plaintiff-appellee.
+
+Appeal from the United States District Court for the Central District of California.
+
+Before: HUG, FERGUSON, O'SCANNLAIN, Circuit Judges.
+
+HUG, Circuit Judge:
+
+The primary issue in this trademark and unfair competition case is whether color per se is protectable under the Lanham Act. This action involves a claim of trademark infringement and unfair competition. Qualitex Company ("Qualitex") contended that Jacobson Products Company, Inc. ("Jacobson") was manufacturing and selling green-gold press pads designed to look like the "SUN GLOW" pads that Qualitex had promoted and sold for over 30 years. Jacobson brought a counterclaim to declare invalid the Qualitex trademark for the color of its pads on the ground that a trademark could not be granted for color alone. The district court held Jacobson liable for damages from trademark infringement and unfair competition, and enjoined Jacobson from manufacturing, marketing, or selling press pads of the same green-gold color as the pads marketed by Qualitex.
+
+The district court's jurisdiction was based upon 15 U.S.C. Sec. 1121 and 28 U.S.C. Sec. 1338(a) and (b). We have jurisdiction pursuant to 28 U.S.C. Sec. 1291, and we affirm the judgment against Jacobson for unfair competition but hold that the Qualitex trademark for color alone is invalid.
+
+I.
+
+Qualitex, an Illinois corporation, manufactures and sells various products for dry cleaners, laundries and garment manufacturers. In 1957, Qualitex began manufacturing and selling its "SUN GLOW" press pad for use on dry cleaning presses. Qualitex's predecessor registered the trademark "SUN GLOW" with the United States Patent and Trademark Office in 1959. The fabric for the cover of the pad is a unique green-gold color.
+
+Jacobson began manufacturing and marketing a "MAGIC GLOW" press pad in 1989. The cover is the same green-gold color as that of Qualitex's "SUN GLOW" pad, and the names of the pads are similar.
+
+Qualitex initiated this action on March 9, 1990, by filing a complaint seeking injunctive relief and damages from Jacobson on the grounds that (1) Jacobson infringed Qualitex's trade dress in violation of Section 43(a) of the Lanham Act; and (2) Jacobson "passed off" its goods as those of Qualitex, and thus was guilty of unfair competition in violation of section 43 of the Lanham Act. During the pendency of this action, Qualitex filed for registration of the green-gold color. Registration was granted by the Patent and Trademark Office on February 5, 1991, and Qualitex added to its complaint the claim that Jacobson infringed Qualitex's federally registered trademark, in violation of Section 32(1) of the Lanham Act, 15 U.S.C. Sec. 1114(1).
+
+Jacobson argued that its actions were not prohibited by Section 43(a) of the Lanham Act, 15 U.S.C. Sec. 1125(a), as unfair competition. Further, Jacobson counterclaimed for the cancellation of Qualitex's registered trademark, arguing that no valid interest existed because color per se is not protectable; the color is functional and thus not protectable; no likelihood of confusion existed; and no secondary meaning was associated with Qualitex's trademark.
+
+The evidence showed that readers of a trade publication associated the green-gold color with Qualitex, and that the "SUN GLOW" pad had acquired secondary meaning, as a result of its long and exclusive use by Qualitex. Jacobson admitted intentionally copying the overall look of Qualitex's green-gold press pad. The court concluded that the sale of the Jacobson pad had created the likelihood of confusion, deception or mistake in the marketplace. As to the green-gold color, the court found that the color did not affect the quality of the pads, and that there was no competitive need in the industry for the particular green-gold color. Although the court found a competitive need in the industry for color in general, the court noted that the range of tones available was "in the hundreds, if not thousands."
+
+In its Conclusions of Law, the court held that Jacobson had infringed Qualitex's registered trademark and had failed to prove that the trademark was invalid. Jacobson was found guilty of unfair competition by copying the appearance of the "SUN GLOW" pad and deceiving purchasers, putting an inferior product into the marketplace under Qualitex's distinctive trade dress to the detriment of said purchasers and Qualitex, and infringing Qualitex's registered trademark for the green-gold color. Finally, the court held that Jacobson was also guilty of unfair competition because Jacobson had infringed Qualitex's trade dress.
+
+The district court's order provided that Qualitex was entitled to an injunction against Jacobson's infringement of the registered trademark and the trade dress, and against the unfair competition. Jacobson was also held liable for the profits it made from its infringement. The court did not award enhanced damages and attorney's fees because Jacobson's copying had been done under the reasonable belief that Qualitex could not appropriate a color.
+
+II.
+
+A claim of federal trademark infringement may be brought against one who, without the permission of the holder of the registered trademark,
+
+use[s] in commerce any reproduction, counterfeit, copy, or colorable imitation of a registered mark in connection with the sale, offering for sale, distribution, or advertising of any goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive....
+
+15 U.S.C. Sec. 1114(1)(a); see also Century 21 Real Estate Corp. v. Sandlin, 846 F.2d 1175, 1178 (9th Cir.1988).
+
+While this case was pending, Qualitex applied to the U.S. Patent and Trademark Office for a Certificate of Registration, granted on February 5, 1991. The registration states in part:
+
+For machine parts: namely, press pads and covers for press pads for commercial and industrial presses....
+
+The drawing is lined for the color gold.
+
+The mark consists of a particular shade of green-gold applied to the top and side surfaces of the goods.
+
+Certificate of Registration No. 1,633,711.
+
+A certificate of registration is prima facie evidence of the validity of the mark and relieves the holder, Qualitex, of the burden of proving nonfunctionality and secondary meaning. 15 U.S.C. Sec. 1057(b). It shifts the burden of proof to the contesting party, who must introduce sufficient evidence to rebut the presumption of the holder's right to protected use. See Vuitton et Fils S.A. v. J. Young Enterprises, Inc., 644 F.2d 769, 775 (9th Cir.1981). Jacobson contends that it met that burden by showing that Qualitex's green-gold color alone is not protectable, and that the trademark is invalid.
+
+III.
+
+The district court ruled that Jacobson infringed on Qualitex's registered trademark, the green-gold color of the press pads. A district court's findings of facts are reviewed for clear error. See Clamp Mfg. Co. v. Enco Mfg. Co., 870 F.2d 512, 514 (9th Cir.), cert. denied, 493 U.S. 872, 110 S.Ct. 202, 107 L.Ed.2d 155 (1989). Whether color per se qualifies for trademark protection is a legal question to be reviewed de novo. See id. ("[i]ssues concerning the correct test to be used in evaluating trademark infringement are reviewed de novo").
+
+Registration of mere color is not explicitly barred by the Lanham Act, which provides that "[n]o trademark by which the goods of the applicant may be distinguished from the goods of others shall be refused registration," 15 U.S.C. Sec. 1052, unless one of the specific exceptions to registrability set forth in 15 U.S.C. Sec. 1052 applies. Color is not listed as an exception. See In re Owens-Corning Fiberglass Corp., 774 F.2d 1116, 1119 (Fed.Cir.1985). However, the courts of appeals generally have refused to grant trademark protection for color alone. See Owens-Corning, 774 F.2d at 1128 & n. 2, 1129 (Bissell, J., dissenting) (collecting circuit decisions denying trademark protection for color alone); 1 J. Thomas McCarthy, Trademarks & Unfair Competition Secs. 7:16, 7:17 (2d ed. 1984) (color per se, unconfined by any defined design, generally cannot be the subject of a trademark; the use of one color as the color of a product usually does not have trademark significance).
+
+A divided panel of the Federal Circuit held that in the unusual circumstances presented by Owens-Corning, where vast sums had been expended in advertising their pink insulation through the "Pink Panther" ads, and where there was no competitive need for the color pink, a trademark for that color was properly registered as a trademark. Owens-Corning, 774 F.2d at 1128.
+
+In a more recent decision, the Eighth Circuit refused to establish a per se rule prohibiting the registration of color as a trademark. Master Distributors, Inc. v. Pako Corp., 986 F.2d 219, 223 (8th Cir.1993). In Master Distributors, the district court held, as a matter of law, that color alone could not be protected as a trademark. The court of appeals reversed, declining to establish that as a matter of law a color alone could not be protected. The court ruled that if a party can establish all the normal trademark requirements arising from the color of its product, the party can register that color as a trademark. Id. at 224.
+
+The majority of the other circuits have refused to give a color the protection of a registered trademark. The Seventh Circuit recently affirmed its rule that the overall color of a product cannot be a trade identity designation, and is not entitled to registration. See NutraSweet Co. v. Stadt Corp., 917 F.2d 1024, 1027 (7th Cir.1990), cert. denied, 499 U.S. 983, 111 S.Ct. 1640, 113 L.Ed.2d 735 (1991). NutraSweet held that color alone cannot be protected as a trademark, although it may be protected if used "in connection with some symbol or design or impressed in a particular design." Id. at 1027.
+
+NutraSweet claimed trade-dress infringement under section 43(a) when another company began marketing tabletop sweetener in a blue packet that was similar, but not identical, to the shade of blue used by NutraSweet for its tabletop sweetener. Id. at 1026. The court noted that the appropriation of particular colors could lead to questions of shade confusion, and stated that granting to NutraSweet a protectable interest in pastel blue "might create a barrier to otherwise lawful competition in the tabletop sweetener market." Id. at 1028. The court declined to adopt "a fact-driven standard which would require the trial court to scrutinize the tabletop sweetener market to determine the number of competitors and the likelihood of future competitors in that market to determine whether there is a competitive need for the color blue to remain available." Id. Thus, the Seventh Circuit refused to recognize any protectable interest in color alone.
+
+We discussed the question of whether color alone could be validly registered as a trademark in First Brands Corp. v. Fred Mayer, Inc., 809 F.2d 1378 (9th Cir.1987), in the context of a trade dress case. We noted that when "[c]onfronted with an unusual set of facts the court in Owens-Corning established a very limited rule that in certain situations a particular color could itself be registered as a trademark." Id. at 1382. We did not adopt the Owens-Corning rule, as we were merely referring to it in the context of a trade dress case, where we ultimately held that a yellow ordinarily shaped antifreeze container was not protectable trade dress. Id. at 1381, 1385.
+
+In this case, we confront the issue of whether to follow the majority of circuits in holding that color alone cannot form the basis for a trademark, or to acknowledge the exception of Owens-Corning. We conclude that the better rule is that a trademark should not be registered for color alone. As many cases have noted, under the color depletion theory, no person should have a monopoly on a primary color. We recognize that there are countless shades of colors that could not be depleted, but then, we could well become involved in "shade confusion" as noted in NutraSweet, 917 F.2d at 1027, and in Judge Bissell's dissent in Owens-Corning, 774 F.2d at 1131. Drawing distinctions between close shades of color could present unnecessary problems. Adequate protection is available when color is combined in distinctive patterns or designs or combined in distinctive logos. See Vision Sports, Inc. v. Melville Corp., 888 F.2d 609, 613 (9th Cir.1989). Furthermore, as we discuss hereafter, further protection is afforded by the Lanham Act's unfair competition provisions.
+
+IV.
+
+The basic test for unfair competition is whether consumer confusion or deception is likely as a result of the defendant's acts. Century 21, 846 F.2d at 1178. Registration of a trademark is not a prerequisite for recovery under section 43(a), but a party must have a "reasonable interest to be protected." New West Corp. v. NYM Co. of California, Inc., 595 F.2d 1194, 1198 (9th Cir.1979), quoted in Smith v. Montoro, 648 F.2d 602, 605 (9th Cir.1981); see also Metric & Multistandard Components Corp. v. Metric's, Inc., 635 F.2d 710, 714 (8th Cir.1980) (a mark not entitled to trademark protection may be entitled to unfair competition protection).
+
+A claim of unfair competition under Section 43(a) of the Lanham Act can take many different forms. Section 43(a) of the Lanham Act states:
+
+(a)(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which--
+
+(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person ... shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
+
+15 U.S.C. Sec. 1125. Traditionally, many courts restricted claims for unfair competition to situations where there was "passing off," which is the selling of a good of one's own creation under the name or mark of another. See Smith, 648 F.2d at 604. "Express passing off occurs when an enterprise labels goods or services with a mark identical to that of another enterprise, or otherwise expressly misrepresents that the goods originated with another enterprise." Id. However, a claim of unfair competition under section 43(a) is no longer limited to cases of passing off. Professor McCarthy has noted that:
+
+most courts [today] recognize that passing off is merely a single type of theory within the broad spectrum of unfair competition law. Today, the law of Unfair Competition and Trademarks has progressed far beyond the old concept of fraudulent passing off, to encompass any form of competition or selling which contravenes society's current concepts of "fairness"....
+
+2 McCarthy 25:1, 233 (footnotes omitted). In Smith v. Montoro, we expressly adopted the same view. 648 F.2d at 604.
+
+Another way a party may be guilty of unfair competition under section 43(a) is a "trade dress" infringement. The trade dress of a product is its overall image as it is presented to the consumer and includes aspects such as the size, shape, color, or design of the product. See NutraSweet, 917 F.2d at 1027 n. 7; 15 U.S.C. Sec. 1125(a). For a successful trade-dress claim, the plaintiff must show that its trade dress is protectable and that the defendant's use of similar trade dress is likely to confuse customers. See Vision Sports, 888 F.2d at 613. There are yet other ways of violating section 43(a), such as by using false or misleading geographical terms. As we noted in New West:
+
+[T]he ultimate test [under Section 43(a) of the Lanham Act] is whether the public is likely to be deceived or confused by the similarity of the marks. Whether we call the violation infringement, unfair competition or false designation of origin, the test is identical--is there a "likelihood of confusion?"
+
+New West, 595 F.2d at 1201 (citations omitted).
+
+Trade-dress infringement is proved by showing (1) the trade dress is nonfunctional, (2) it has acquired secondary meaning, and (3) there is a likelihood of confusion between the products. First Brands, 809 F.2d at 1381; Vision Sports, 888 F.2d at 613. In a trade-dress infringement claim, the trier of fact must look at the "total impression of the package, size, shape, color, design, and name" to determine if it is likely to confuse the consumer as to the origin of the product. 1 McCarthy 2:2 (quoting Jean Patou, Inc., v. Jacqueline Cochran, Inc., 201 F.Supp. 861 (S.D.N.Y.1962), aff'd, 312 F.2d 125 (2d Cir.1963)); Vision Sports, 888 F.2d at 613. In other words, whereas in a registered trademark infringement case, the court must look at a single aspect of the product--the trademark itself--a court in an trade-dress infringement case must look at the product as a whole. Therefore, it is possible to succeed on a suit for unfair competition even when there is no registered trademark to begin with or even if no aspect of the package, taken alone, is registrable as a trademark. Id.
+
+The district court determined that the "total impression" of the Qualitex green-gold pad and its "SUN GLOW" name constituted the trade dress, or overall appearance, of the Qualitex product. The court found that Qualitex had shown that the trade dress was nonfunctional, had acquired secondary meaning, and was likely to be confused with the trade dress of Jacobson's product. We review the district court's findings on the elements of nonfunctionality, secondary meaning, and likelihood of confusion for clear error. Clamp Mfg. Co., 870 F.2d at 514. We will not disturb the district court's decision unless, after reviewing all of the evidence, we are left with the definite and firm conviction that a mistake has been committed. Id. We conclude that the district court did not err in holding that Jacobson infringed on Qualitex's trade dress.
+
+First, the district court found that the trade dress of the "SUN GLOW" press pad was nonfunctional. If a feature is functional, it is not protectable under the law of unfair competition. First Brands, 809 F.2d at 1381. "A product feature is functional if it is essential to the use or purpose of the article or if it affects the cost or quality of the article." Inwood Laboratories, Inc. v. Ives Laboratories, Inc., 456 U.S. 844, 850 n. 10, 102 S.Ct. 2182, 2187 n. 10, 72 L.Ed.2d 606 (1982); see also Vuitton et Fils S.A., 644 F.2d at 773 (reversing district court's order invalidating registered trademark, and remanding for trial on the functionality issue).
+
+The district court found that Qualitex's use of the green-gold color was aesthetic only; was not related in any way to the product's use, cost, quality, or longevity; was used to associate the color with the "SUN GLOW" press pads; and was more expensive than other colors. The district court found that the green-gold color was ornamental and did not make the pad perform any better than if any other color was used. Although evidence was presented that there may be a functional reason to have colored press pads to maintain a clean appearance, we conclude that it was not error for the district court to conclude that "there is no competitive need for the green-gold color, since other colors are equally usable" and that "the range of tones of available distinctive suitable colors ... is in the hundreds if not thousands."
+
+Second, the district found that the trade dress of the press pad had acquired secondary meaning. A product has secondary meaning if purchasers in that product's market associate the trade dress of the product with a particular source. See Clamp, 870 F.2d at 517. The factors to be assessed in determining secondary meaning are whether actual purchasers associate the press pads' trade dress with Qualitex, the degree and manner of Qualitex's use of the trade dress, and whether Qualitex's use of the trade dress has been exclusive. See id. at 517; Vision Sports, 888 F.2d at 615. Evidence that the manufacturer has used and advertised the product over a substantial period of time is sufficient to establish secondary meaning. Clamp, 870 F.2d at 517 (citing First Brands, 809 F.2d at 1383). Proof that another party intentionally copied the trade dress strongly supports a finding of secondary meaning. Vision Sports, 888 F.2d at 615.
+
+Qualitex presented evidence that its customers have come to rely on the appearance of the "SUN GLOW" pad and to associate that appearance with Qualitex and Qualitex's reputation of producing a high-quality longer-lasting product. The evidence showed: Qualitex has sold its "SUN GLOW" press pad with a green-gold color for over 30 years. The company has spent over $1.6 million in advertising and promoting its press pads in magazines and at trade shows, and nearly all advertising and promotion have highlighted the green-gold color of the pad. Qualitex has run advertisements featuring the press pad's green-gold color on a monthly basis for the last 30 years in a leading magazine aimed at the dry cleaner market. There was evidence that readers of a trade publication associated the green-gold color with Qualitex. Further, Jacobson admitted intentionally copying the overall look of Qualitex's green-gold press pad. Thus, there was convincing evidence that the trade dress had acquired secondary meaning as a result of its long exclusive use by Qualitex.
+
+Third, the court found that the sale of the Jacobson pad had created the likelihood of confusion, deception or mistake in the marketplace. Factors that may be considered in determining a likelihood of confusion include the strength of the mark, the similarity of the mark, the class of goods and marketing channels, evidence of actual confusion, the intent of the second user, the degree of care likely to be exercised by the purchaser, and the likelihood of expansion of the product lines. See Eclipse Assoc. Ltd. v. Data General Corp., 894 F.2d 1114, 1117-18 (9th Cir.1990); AMF, Inc. v. Sleekcraft Boats, 599 F.2d 341, 348-49 (9th Cir.1979). These factors are nonexclusive guidelines and are not to be applied as a rigid formula. Eclipse, 894 F.2d at 1118.
+
+The district court found that Jacobson intentionally copied the appearance of the "SUN GLOW" pad, and had put an inferior product into the marketplace under Qualitex's distinctive trade dress to the detriment of Qualitex and purchasers. Jacobson's president and vice president testified that they deliberately copied the Qualitex pad cover.
+
+The district court also found that there was a high degree of similarity between the products. Jacobson used exactly the same green-gold color as Qualitex. At trial, Qualitex showed that Jacobson stamps "MAGIC GLOW" on the side or skirt portion of the press-pad cover, which is the same portion of the pad where Qualitex stamps "SUN GLOW."
+
+The degree of care likely to be exercised by the consumer also supported a finding of likelihood of confusion. Qualitex presented evidence that many purchasers do not speak or read English well. The court found that many "foreign speaking purchasers of press pads are unlikely to exercise a sufficiently high degree of care to avoid purchasing a Jacobson pad when they are shown a green-gold pad."
+
+As to actual confusion, Qualitex presented evidence of a survey. In that survey, when people in the dry cleaning industry were shown a Jacobson press pad and asked to identify the manufacturer, 39% responded that it was a Qualitex pad, while not a single respondent answered that it was a Jacobson pad.
+
+We find ample evidence in the record to conclude that the district court did not err in finding the necessary elements of a trade-dress infringement claim under Section 43(a) of the Lanham Act and concluding that Jacobson violated that section. We uphold the injunction.
+
+Because we have found a violation of section 43(a) under a theory of trade-dress infringement, we do not address the passing-off claim. We note that the remedy for a violation of section 43(a) is the same regardless of the theory involved.
+
+V.
+
+The judgment for Qualitex on its claim for unfair competition, together with the monetary damages awarded, and the injunction against further infringement are affirmed. The judgment for Qualitex on its claim for trademark infringement and the judgment on Jacobson's counterclaim for cancellation of the trademark are reversed, and the district court is directed to enter judgment for Jacobson on its counterclaim.
+
+AFFIRMED in part, and REVERSED in part, and REMANDED.
+
+Source: https://openjurist.org/13/f3d/1297/qualitex-company-v-jacobson-products-company-inc

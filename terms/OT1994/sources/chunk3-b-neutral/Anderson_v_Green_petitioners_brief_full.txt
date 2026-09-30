@@ -1,0 +1,1283 @@
+} FIP ED 
+
+
+No. 94-197 
+
+
+In The | “ <a 
+Supreme Court of the United States 
+
+
+October Term, 1994 
++ 
+
+
+ELOISE ANDERSON, INDIVIDUALLY AND IN 
+HER OFFICIAL CAPACITY AS DIRECTOR, 
+CALIFORNIA DEPARTMENT OF SOCIAL SERVICES; 
+CALIFORNIA DEPARTMENT OF SOCIAL SERVICES; 
+AND RUSSELL S. GOULD, DIRECTOR, 
+CALIFORNIA DEPARTMENT OF FINANCE, 
+
+
+Petitioners, 
+
+
+Vs. 
+
+
+DESHAWN GREEN, DEBBY VENTURELLA, AND 
+DIANA P. BERTOLLT, ON BEHALF OF THEMSELVES 
+AND ALL OTHERS SIMILARLY SITUATED, 
+
+
+Respondents. 
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
++ 
+
+
+PETITIONERS’ BRIEF ON THE MERITS 
++ 
+
+
+Danie. E. LUNGREN ANDREA LYNN HocH 
+Attorney General for the Deputy Attorney 
+State of California General 
+
+CHARLTON G. HOLLanpn, III P.O. Box 944255 
+Assistant Attorney Sacramento, California 
+General 94244-2550 
+
+Dennis ECKHART, Telephone: (916) 445-0767 
+Supervising 
+
+
+Deputy Attorney General 
+
+
+THEODORE GARELIS* 
+CA Bar No. 95193 
+Deputy Attorney General Attorneys for Petitioners 
+
+
+*Counsel of Record 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+Po rah ee ae a , - 4 
+4 he re s o> Bib 
+e ane Z al 
+rey Sp om 
+BL ae =. $ 
+
+
+my “* : 
+i 
+. 
+$ 
+
+
+QUESTION PRESENTED 
+
+
+May a state limit a new state resident’s AFDC bene- 
+fits to the level of benefits received or receivable in the 
+person’s state of prior residence for a period of a year, 
+with full benefits to be provided thereafter? 
+
+
+ii 
+PARTIES 
+
+
+Petitioners, who were defendants below, are Eloise 
+Anderson, Director of the California Department of Social 
+Services, the California Department of Social Services,and 
+Russell S. Gould, Director of the California Department of 
+Finance. Mr. Gould was appointed as the Director of the 
+Department of Finance on August 1, 1993, and as such, is 
+the successor in interest to Thomas Hayes, who was 
+named in the original pleadings filed in the District 
+Court. Mr. Gould is automatically substituted as a party 
+for Mr. Hayes pursuant to the provisions of Rule 25(d) of 
+the Federal Rules of Civil Procedure. 
+
+
+Named respondents, plaintiffs below, are Deshawn 
+Green, Debby Venturella, and Diana P. Bertollt. On Janu- 
+ary 29, 1993, the trial court ordered that plaintiffs shall 
+provisionally maintain this matter as a class action on 
+behalf of a class consisting of applicants and recipients of 
+Aid to Families with Dependent Children (“AFDC”) who 
+have applied or will apply for benefits on or after Decem- 
+ber 1, 1992, and who have not resided in California for 
+twelve consecutive months immediately preceding their 
+application for aid. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+i EEE + ccc cseceeccceccoccccesees i 
+EE ESSENSE SOP OT PTETTTETTTTETT TTT ii 
+TABLE OF AUTHORITIES .............ccceeeeeeess iv 
+EES PO OTTTTTTTTET TTT TE TTT 1 
+ree de cee ceeednerccececescocces 2 
+RELEVANT CONSTITUTIONAL AND STATUTORY 
+EEE DL ELSS ESSE OTT ETET TTT TTT TTY. 2 
+STATEMENT OF THE CASE.............--0000005: 2 
+SUMMARY OF THE ARGUMENT ................. 8 
+ST MAP ERhUbanensbeceeececocccoccocceccccs 9 
+
+
+I THE STATUTE DOES NOT OPERATE AS A 
+PENALTY ON MIGRATION AND THEREFORE 
+MUST BE UPHELD IF IT HAS A REASONABLE 
+
+
+Il EVEN IF THE STATUTE OPERATES AS A PEN- 
+ALTY ON MIGRATION, THE IMPACT OF THAT 
+PENALTY IS REMOTE AND INCIDENTAL, 
+AND, THEREFORE, THE STATUTE SHOULD 
+NOT BE SUBJECT TO STRICT SCRUTINY..... 14 
+
+
+Ill CALIFORNIA’S INTEREST IN REDUCING 
+WELFARE COSTS IS SUFFICIENT TO JUSTIFY 
+THE USE OF A TWO-TIER SYSTEM OF DIS- 
+TRIBUTING AFDC BENEFITS................. 18 
+
+
+ET PPTTTTTUTTTTILILILILE LETT Tee 23 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Beno v. Shalala, 30 F.3d 1057 (9th Cir. 1994), Rhg. 
+denied August 24, 1994. ........... 2.6 cece eee eens 4,5 
+
+
+Beno v. Shalala, 835 F.Supp. 1193 (E.D. Cal. 1993)..... 4 
+
+
+Dandridge v. Williams, 397 U.S. 471 (1970) 
+60débsek edbusreesshesesedevacsess 13, 16, 17, 18, 22, 23 
+
+
+Edwards v. California, 314 U.S. 160 (1941) .......... 15 
+Everett v. Schramm, 772 F.2d 1114 (3rd Cir. 1985) .... 22 
+Green v. Anderson, 26 F.3d 95 (9th Cir. 1994)........ 1 
+Harris v. McRae, 448 U.S. 297 (1980)................ 11 
+Hooper v. Bernalillo County Assessor, 472 U.S. 612 
+
+SE 6cucedebeunesecsaneeuenceobustedesdsaaaus 13, 14 
+Jefferson v. Hackney, 406 U.S. 535 (1972)............ 13 
+King v. Smith, 392 U.S. 309 (1968) ............... 13, 17 
+Memorial Hospital v. Maricopa County, 415 U.S. 
+
+Be Cnc cdsénedcnsecessahases 10, 11, 13, 14, 15, 23 
+Shapiro v. Thompson, 394 U.S. 618 (1969)....... passim 
+Sosna v. Iowa, 419 U.S. 393 (1975) ...........54.5. 15, 19 
+State Attorney General of New York v. Soto- 
+
+Lopez, 476 U.S. 898 (1986)...... 2.6.0... ccc euee 13, 18 
+Williams v. Fears, 179 U.S. 270 (1900)............ 14, 15 
+
+
+Zobel v. Williams, 457 U.S. 55 (1982)..11, 12, 13, 18, 19 
+
+
+STATUTES AND AUTHORITIES 
+28 United States Code § 1254(1) ......... 6.6.6 ccc uues 2 
+
+
+28 United States Code § 1343(a)(3).............-5055. 6 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+28 United States Code § 1983......................05. 6 
+42 United States Code § 601....................005. 17 
+42 United States Code § 1315(a) .................... 19 
+
+
+California Welfare & Institutions Code § 11450.01 ..4, 20 
+
+
+California Welfare and Institutions Code 
+
+
+i hs cbudiuhtedecdadiacwacedaadsaaanidcnes 20 
+California Welfare and Institutions Code 
+
+i MU ccauacukoveudcastessncnchacddeul 3, 4, 5, 20 
+OTHER 
+Federal Rules of Civil Procedure, Rule 25(d)......... ii 
+California Constitution, article IV, section 12(a)....... 5 
+
+
+Legislative Counsel's Digest of Senate Bill 485, 
+added by stats. 1992, c. 722, No. 10 West's Cal. 
+
+
+> SE OA Bes vc cccccccsaseseccsseceesc 20, 21 
+Peterson et al., Welfare Magnets (The Brookings 
+I a 16, 21 
+
+
+United States Constitution Fourteenth Amend- 
+PES ts eee 2, 14 
+
+
+No. 94-197 
++ 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+o 
+
+
+ELOISE ANDERSON, INDIVIDUALLY AND IN 
+HER OFFICIAL CAPACITY AS DIRECTOR, 
+CALIFORNIA DEPARTMENT OF SOCIAL SERVICES; 
+CALIFORNIA DEPARTMENT OF SOCIAL SERVICES; 
+AND RUSSELL S. GOULD, DIRECTOR, 
+CALIFORNIA DEPARTMENT OF FINANCE, 
+
+
+Petitioners, 
+
+
+vs. 
+
+
+DESHAWN GREEN, DEBBY VENTURELLA, AND 
+DIANA P. BERTOLLT, ON BEHALF OF THEMSELVES 
+AND ALL OTHERS SIMILARLY SITUATED, 
+
+
+Respondents. 
+
+
+° 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+° 
+
+
+PETITIONERS’ BRIEF ON THE MERITS 
+° 
+
+
+OPINIONS BELOW 
+
+
+The decision of the Court of Appeals, Green v. Ander- 
+son, is reported at 26 F.3d 95 (9th Cir. 1994) and is 
+reprinted in the Appendix to the Petition for Writ of 
+Certiorari (“Pet. App.”), Al-2. The decision of the district 
+
+
+1 
+
+
+court is reported at 811 F.Supp. 516 (E.D. Cal. 1993), and 
+is reprinted at Pet. App. A3-20. 
+
+
+S 
+
+
+JURISDICTION 
+
+
+On April 29, 1994, the United States Court of Appeals 
+for the Ninth Circuit (“the Ninth Circuit”) issued its 
+opinion, affirming the preliminary injunction granted by 
+the United States District Court for the Eastern District of 
+California (“the District Court”). A timely petition for 
+writ of certiorari was filed and docketed by this Court on 
+July 28, 1994. This Court has jurisdiction to review, by 
+way of writ of certiorari, the judgment or decree of the 
+Court of Appeals. 28 U.S.C. § 1254(1). 
+
+
+S 
+
+
+RELEVANT CONSTITUTIONAL 
+AND STATUTORY PROVISIONS 
+
+
+United States Constitution, Fourteenth Amendment: 
+
+
+“Section 1. All persons born or naturalized in 
+the United States, and subject to the jurisdiction 
+thereof, are citizens of the United States and the 
+State wherein they reside. No State shall make 
+or enforce any law which shall abridge the priv- 
+ileges or immunities of citizens of the United 
+States; nor shall any State deprive any person of 
+life, liberty, or property without due process of 
+law, nor deny to any person within its jurisdic- 
+tion the equal protection of the laws.” 
+
+
+California Welfare and Institutions Code section 
+11450.03: 
+
+
+“(a) Notwithstanding the maximum aid pay- 
+ments specified in paragraph (1) of subdivision 
+(a) of Section 11450, families that have resided 
+in this state for less than 12 months shall be paid 
+an amount ca culated in accordance with para- 
+graph (1) of subdivision (a) of Section 11450, not 
+to exceed the maximum aid payment that would 
+have been received by that family from the state 
+of prior residence. 
+
+
+“(b) This section shall not become operative 
+until the date of approval by the United States 
+Secretary of Health and Human Services neces- 
+sary to implement the provisions of this section 
+so as to ensure the continued compliance of the 
+state plan for the following: 
+
+
+“(1) Title IV of the federal Social Security Act 
+(Subchapter 4 (commencing with Section 601) of 
+Chapter 7 of Title 42 of the United States Code). 
+
+
+“(2) Title IX of the federal Social Security Act 
+(Subchapter 19 (commencing with Section 1396) 
+of Chapter 7 of Title 42 of the United States 
+Code). 
+
+
+“(Added by Stats. 1992, c. 722 (S.B.485), § 37.5, 
+eff. Sept. 15, 1992.)” 
+
+
+STATEMENT OF THE CASE 
+
+
+On December 1, 1992, the State of California began a 
+five-year experimental project modifying welfare benefits 
+
+
+provided under the Aid to Families with Dependent Chil- 
+dren (“AFDC”) program. This project, known as the 
+Assistance Payments Demonstration Project (“Demon- 
+stration Project”), has two primary elements. The first 
+element is a work incentive program, coupling a decrease 
+in benefit levels with an increase in the amount of income 
+a recipient can earn from work without a corresponding 
+reduction in benefits. Cal. Welf. & Inst. Code § 11450.01.! 
+
+
+The second element of the Demonstration Project, 
+central to this action, is a one-year limitation on the 
+amount of AFDC benefits an applicant who has not resi- 
+ded in California during the prior year can receive. New 
+state residents receive the level of benefits they received 
+or would have received in the state they lived in prior to 
+moving to California. Cal. Welf. & Inst. Code § 11450.03 
+(“the Statute”). 
+
+
+' Implementation of this element required a waiver from 
+the U.S. Secretary of Health and Human Services (“the Secre- 
+tary”) of certain federal AFDC rules. This element of the Dem- 
+onstration Project is the subject of related litigation. In an effort 
+to halt implementation of the project, California AFDC recip- 
+ients filed suit in the United States District Court for the Eastern 
+District of California (“District Court”) against representatives 
+of the United States and the State of California. The District 
+Court denied the recipients’ motion requesting a preliminary 
+injunction. Beno v. Shalala, 835 F.Supp. 1193 (E.D. Cal. 1993). The 
+District Court’s order was appealed to the United States Court 
+of Appeals for the Ninth Circuit. The Ninth Circuit vacated one 
+of the waivers, reversed the District Court order, and remanded 
+the matter to the District Court with instructions to remand the 
+disputed waiver back to the Secretary for additional considera- 
+tion of the waiver. Beno v. Shalala, 30 F.2d 1057 (9th Cir. 1994). 
+Rhg. denied August 24, 1994. 
+
+
+The California Legislature enacted the Statute as a 
+means to reduce welfare expenditures. Impetus for the 
+Statute came from the existence of continuing, severe 
+economic and fiscal problems in California (Declaration 
+of Dennis Hordyk, “Hordyk Declaration,” Pet.App. 21) 
+and the California constitutional provision mandating a 
+balanced budget.? Failure to implement the Statute was 
+expected to result in additional unbudgeted state General 
+Fund costs in the AFDC program of 8.4 million dollars in 
+fiscal year 1992-93 and 22.5 million dollars in fiscal year 
+1993-94. (Hordyk Declaration, Pet.App. 22.) 
+
+
+The Legislature specified that the Statute would 
+become effective upon necessary approval by the federal 
+Secretary of Health and Human Services (“the Secre- 
+tary”). Cal. Welf. & Inst. Code § 11450.03(b).3 The Secre- 
+tary gave approval on October 29, 1992, and the 
+California Department of Social Services began applying 
+the limitation shortly thereafter. (District Court Order, 
+Pet.App. 4.) 
+
+
+2 “Within the first 10 days of each calendar year, the Gover- 
+nor shall submit to the Legislature, with an explanatory mes- 
+sage, a budget for the ensuing fiscal year containing itemized 
+statements for recommended state expenditures and estimated 
+state revenues. If recommended expenditures exceed estimated 
+revenues, the Governor shall recommend the sources from 
+which the additional revenues should be provided.” California 
+Constitution, article IV, section 12(a). 
+
+
+3 On July 13, 1994, the Ninth Circuit vacated the waivers 
+necessary to implement the provisions of this section. Beno v. 
+Shalala, 30 F.2d 1057 (No. 93-16411). 
+
+
+A complaint for declaratory and injunctive relief 
+(“complaint”) was filed on December 21, 1992. The com- 
+plaint named the California Department of Social Ser- 
+vices, and the directors of the California Departments of 
+Social Services and Finance as defendants. Plaintiffs are a 
+class of California residents who have applied or will 
+apply for AFDC benefits on or after December 1, 1992 
+and who have not resided in California for twelve consec- 
+utive months immediately preceding their application for 
+aid. Jurisdiction was conferred on the District Court by 28 
+U.S.C. § 1343(a)(3). This suit was brought pursuant to 28 
+U.S.C. § 1983. Plaintiffs’ action alleged that the Statute 
+violated various provisions of the United States Constitu- 
+tion, and infringed the constitutional right to travel. 
+
+
+The District Court issued a temporary restraining 
+order on December 22, 1992, enjoining California from 
+implementing the provisions of the Statute pending a 
+hearing on plaintiffs’ motion for a preliminary injunction. 
+
+
+At the hearing on plaintiffs’ motion for a preliminary 
+injunction, plaintiffs sought to block application of the 
+AFDC grant limitation as provided for in the Statute. By 
+declaration, plaintiffs averred that they suffered irrepar- 
+able injury because, under the Statute, they would not 
+receive the same AFDC grant that they would have 
+received if they had already resided in California for the 
+preceding twelve months. Plaintiffs averred they were 
+fleeing abusive relationships rather than seeking higher 
+welfare grants in migrating to California. (District Court 
+Order, Pet.App. 5.) 
+
+
+California demonstrated the severe budget deficit 
+facing the state - so severe that California would have no 
+
+
+reserve available to cover the costs of unforeseen events, 
+such as natural disasters. (Hordyk Declaration, Pet.App. 
+21.) If California could not implement the Statute, it 
+would have to spend 8.4 million dollars of state funds in 
+fiscal year 1992-93, and 22.5 million dollars of state funds 
+in fiscal year 1993-94. (Hordyk Declaration, Pet.App. 22.) 
+Because of the severity of the state’s budget deficit, there 
+were no funds appropriated by the 1992-93 state budget 
+to pay the additional costs that would result from an 
+inability to implement the Statute. (Hordyk Declaration, 
+Pet.App. 22.) 
+
+
+The hearing on plaintiffs’ motion for a preliminary 
+injunction was held on January 28, 1993. The District 
+Court ruled from the bench, issuing the injunction. (Dis- 
+trict Court Order, Pet.App. 3.) 
+
+
+The District Court found that the Statute implicated 
+the constitutional right to freedom of travel or migration, 
+that a strict scrutiny analysis was therefore required to 
+review the Statute, that California could not show a com- 
+pelling reason for the Statute, and that plaintiffs had 
+demonstrated they would suffer irreparable injury if the 
+injunction were not granted. (District Court Order, 
+Pet.App. 3.) 
+
+
+California filed an appeal from the District Court’s 
+order. On April 29, 1994, the Ninth Circuit summarily 
+affirmed the District Court’s order. (Ninth Circuit Order, 
+Pet.App. 2.) On June 13, 1994, the Ninth Circuit corrected 
+its previous order and ordered that its April 29, 1994, 
+order be published. The correction was not substantive. 
+(Ninth Circuit Order, Pet.App. 2.) This Court docketed 
+
+
+California’s petition for writ of certiorari on July 28, 1994. 
+The petition was granted on October 7, 1994. 
+
+
+S 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+California may limit AFDC benefits for recent state 
+residents for one year to the level of benefits they 
+received or would have received in the state from which 
+they came. Because California’s Statute does not deter- 
+mine eligibility for benefits, it does not penalize the right 
+to travel. New California residents receive the constitu- 
+tionally permissible amount of benefits they received or 
+would have received in their state of prior residence. 
+Respondents are thus in no worse position, as a result of 
+the application of the Statute, than if they had not moved 
+to California. 
+
+
+Furthermore, the Statute does not permanently clas- 
+sify new state residents as entitled to a lower amount of 
+AFDC benefits. This case presents a different situation 
+from previous cases in which this Court has struck down 
+state laws that penalized the right to travel. The Statute’s 
+constitutionality should be analyzed by the traditional 
+rational basis test. 
+
+
+Even if the Statute does penalize the right to travel, 
+its impact on the exercise of that right is, at best, remote 
+and incidental. Statutes that do not raise a significant 
+barrier to interstate migration should be analyzed under 
+the traditional rational basis test. 
+
+
+The Statute easily passes the rational basis test. The 
+continuing and worsening budget problems in California 
+provide a rational basis for a statute that lowers state 
+
+
+welfare expenditures. States must have the flexibility to 
+properly allocate diminishing resources among all of 
+their residents. 
+
+
++ 
+
+
+ARGUMENT 
+I 
+
+
+THE STATUTE DOES NOT OPERATE AS A PENALTY 
+ON MIGRATION AND THEREFORE MUST BE 
+UPHELD IF IT HAS A REASONABLE BASIS. 
+
+
+Contrary to the reasoning of the District Court, as 
+adopted by the Ninth Circuit, California’s two-tier system 
+of AFDC benefits does not penalize new California resi- 
+dents. The Statute should therefore be subjected to a 
+rational basis analysis, not a strict scrutiny analysis. 
+
+
+The District Court relied upon Shapiro v. Thompson, 
+394 U.S. 618 (1969), and its progeny in determining that 
+the Statute should be subjected to a strict scrutiny anal- 
+ysis. In Shapiro, this Court held that legislation which 
+denied outright welfare assistance to new state residents 
+of less than one year duration was constitutionally imper- 
+missible because, as such legislation “. . . touches on the 
+fundamental right of interstate movement, its constitu- 
+tionality must be judged by the stricter standard of 
+whether it promotes a compelling state interest.” Shapiro, 
+394 U.S. at 638; emphasis original. 
+
+
+Although at first glance Shapiro would seem to bar 
+any restriction on the right to travel, such a reading of the 
+case is unjustified. In a footnote, this Court further indi- 
+cated: 
+
+
+10 
+
+
+“We imply no view of the validity of waiting- 
+period or residence requirements determining 
+eligibility to vote, eligibility for tuition-free edu- 
+cation, to obtain a license to practice a profes- 
+sion, to hunt or fish, and so forth. Such 
+requirements may promote compelling state 
+interests on the one hand, or, on the other, may 
+not be penalties upon the exercise of the consti- 
+tutional right to interstate travel.” 
+
+
+(394 U.S. at 638, n 21; emphasis original.) 
+
+
+Thus, in Shapiro, this Court determined only that the 
+complete denial of welfare assistance for a full year 
+penalized the plaintiffs’ right of interstate movement. 
+
+
+This Court reinforced its proscription against state 
+legislation which penalized the right of travel in Memorial 
+Hospital v. Maricopa County, 415 U.S. 250, 258-259 (1974). 
+There, the Court stated that Shapiro “ .. . stand[s] for the 
+proposition that a classification which ‘operates to penal- 
+ize those persons .. . who have exercised their constitu- 
+tional right of interstate migration,’ must be justified by a 
+compelling state interest,” 415 U.S. at 258, but repeated 
+its prior statement in Shapiro, that “some ‘waiting 
+period|s] . . . may not be penalties,’ ” Id., at 258-259. 
+
+
+In both Shapiro and Memorial Hospital the plaintiffs’ 
+right to travel was penalized because they were put in a 
+worse position by application of the statutes at issue after 
+they moved to their new states. In Shapiro, the plaintiffs 
+had a right to receive welfare assistance in their state of 
+prior residence. After moving, they were no longer eligi- 
+ble for welfare assistance for a full year. In Memorial 
+Hospital, the plaintiffs had a right to state-funded non- 
+emergency medical care before they moved. After they 
+
+
+11 
+
+
+moved to Arizona, they were not eligible for non-emer- 
+gency medical care for a period of twelve months. Thus, 
+in both cases, the plaintiffs irretrievably lost their eligi- 
+bility to public assistance due solely to their moving to a 
+new state. This Court determined that their right to travel 
+had been penalized. 
+
+
+This Court may hold for petitioners in this case with- 
+out disturbing the holdings of Shapiro and Memorial Hos- 
+pital. Unlike the plaintiffs in Shapiro and Memorial 
+Hospital, respondents here have not lost any eligibility to 
+public assistance they enjoyed in their state of prior resi- 
+dence. In other words, California's Statute does not 
+penalize the right to travel.* 
+
+
+Citing Zobel v. Williams, 457 U.S. 55 (1982), the Dis- 
+trict Court determined that the relevant comparison is 
+not between newcomers to California and residents of 
+
+
+* Respondents argue that without the guarantee of a certain 
+benefit level, they cannot move to California. They are therefore 
+requesting California to fund their move to California. No other 
+newcomers to California have the ability to demand a certain 
+payment level upon their decision to move to a new home — nor 
+should they. As a general matter, a state is under no duty to 
+subsidize the costs of the exercise of constitutional rights. In 
+Harris v. McRae, 448 U.S. 297, 317-318 (1980), this Court held that 
+a woman's freedom of choice does not carry with it a constitu- 
+tional entitlement to the financial resources necessary to exer- 
+cise that freedom. Here, California has not prohibited travel or 
+placed a substantial obstacle in the way of a newcomer’s move 
+to California; it has simply limited welfare benefit levels for 
+recent California residents to no more than they received or 
+would have received in their state of prior residence. New 
+residents are free to travel to California, and AFDC benefits 
+remain available for recent California residents. 
+
+
+12 
+
+
+other states, but between newcomers and existing Cali- 
+fornia residents. Pet.App. Al4. However, existing resi- 
+dents are not even potentially impacted by California’s 
+Statute. If strict scrutiny is triggered by a penalty on the 
+right to travel, then the existence of that penalty should 
+be judged by its impact on persons who have traveled, or 
+who may potentially travel, to California and not by a 
+comparison involving existing California residents. 
+Because only out-of-state residents may suffer detriment 
+(be penalized) by operation of the Statute, the issue of 
+penalty must be whether those out-of-state residents suf- 
+fer a detriment due to a decision to travel to California. 
+To determine whether this detriment exists, one must 
+compare the position of newcomers before and after 
+travel to California. 
+
+
+Here, respondents have no change in their position 
+and have suffered no detriment, as to receipt of AFDC 
+benefits upon moving to California. Respondents receive 
+AFDC benefits in the same amount they received, or 
+would have received, in their state of prior residence. As 
+such, they have suffered no detriment, and have not been 
+penalized by traveling to California. 
+
+
+In Zobel v. Williams, income from oil reserves was 
+distributed by Alaska to its residents based upon length 
+of state residency, thereby creating permanent classifica- 
+tions. Because no other state provided income from oil 
+reserves to its residents, the District Court cited Zobel for 
+the proposition that the proper comparison in analyzing 
+whether a penalty on the right to travel exists is between 
+newcomers to a state and existing residents. However, 
+this Court in Zobel stated, 457 U.S. at 58, that the Alaska 
+
+
+13 
+
+
+statute is quite unlike the durational residency require- 
+ments examined in Shapiro and Memorial Hospital. Because 
+this Court concluded in Zobel that the Alaska statute 
+lacked a rational basis, this Court did not engage in an 
+analysis of whether the Alaska statute triggered strict 
+scrutiny due to its impact on travel. Therefore, this 
+Court’s decision in Zobel does not compe! this Court to 
+engage in the fiction of determining whether newcomers 
+have been penalized by California’s Statute by comparing 
+newcomers with existing residents.® 
+
+
+Nor are respondents handicapped by the creation of 
+permanent distinctions among residents and newcomers 
+as were the plaintiffs in Zobel, State Attorney General of 
+New York v. Soto-Lopez, 476 U.S. 898 (1986) and Hooper v. 
+Bernalillo County Assessor, 472 U.S. 612 (1985). The statute 
+at issue in State Attorney General of New York v. Soto-Lopez 
+determined eligibility for veteran’s preference for civil 
+
+
+5 The District Court also implied that because California's 
+cost of living is generally higher than elsewhere, the benefits 
+provided for by California’s Statute operate as a penalty on new 
+residents. This argument assumes, however, that the benefits 
+received in the prior state of residence bear some rational rela- 
+tionship to the standard of need in that state. This assumption is 
+in error as there is no requirement for benefit levels to be related 
+to the standard of need. In fact, many states have constitu- 
+tionally approved benefit levels much lower than the standard 
+of need in that state. King v. Smith, 392 U.S. 309, 334 (1968); 
+Dandridge v. Williams, 397 U.S. 471, 480, 483 (1970). The states 
+have “undisputed power” under the Social Security Act “to set 
+[both] the level of benefits and the standard of need” in the 
+AFDC program. King, 392 U.S. at 334; Jefferson v. Hackney, 406 
+U.S. 535, 541, 545 (1972). 
+
+
+14 
+
+
+service employment based upon state residency at the 
+time of induction into the armed forces. Similarly, the 
+statute at issue in Hooper v. Bernalillo County Assessor 
+determined eligibility for a property tax exemption based 
+upon residency before a specific date. Persons subject to 
+the Statute at issue here do not have their eligibility for 
+AFDC benefits determined upon California residency. 
+
+
+Since the Statute does not determine eligibility based 
+upon state residency, all persons subject to the provisions 
+of the Statute are entitled to some level of benefits. Unlike 
+plaintiffs in Shapiro, Memorial Hospital, Hooper, and Soto- 
+Lopez, respondents here are not foreclosed from all AFDC 
+benefits under the Statute. 
+
+
+Thus, because the Statute does not operate as a pen- 
+alty on the right to travel of newcomers to California, 
+petitioners need only demonstrate a rational basis for the 
+Statute to survive a constitutional challenge. 
+
+
+EVEN IF THE STATUTE OPERATES AS A PENALTY 
+ON MIGRATION, THE IMPACT OF THAT PENALTY 
+IS REMOTE AND INCIDENTAL, AND, THEREFORE, 
+THE STATUTE SHOULD NOT BE SUBJECT TO 
+STRICT SCRUTINY 
+
+
+The dissent by Chief Justice Rehnquist in Memorial 
+Hospital, 415 U.S. at 282-284, notes that in Williams v. 
+Fears, 179 U.S. 270 (1900), the Court upheld a Georgia 
+statute taxing persons hiring labor for work outside the 
+State of Georgia because it affected freedom of egress 
+“only incidentally and remotely.” Because there was a 
+reasonable basis for the Georgia tax statute, it did not 
+
+
+15 
+
+
+violate the Fourteenth Amendment to the United States 
+Constitution. Williams, supra, 179 U.S. at 275. 
+
+
+Chief Justice Rehnquist's dissent in Memorial Hospital 
+also notes that until this Court's decision in Shapiro, the 
+leading case involving the right to travel, Edwards v. 
+California, 314 U.S. 160 (1941), invalidated a statute that 
+clearly was specifically designed to deter indigent per- 
+sons from entering California by subjecting to criminal 
+penalties “any person ‘that brings or assists in bringing 
+into the State any indigent person . . . ’.” Memorial Hospi- 
+tal, 415 U.S. at 249. The Edwards statute was not an 
+incidental or remote barrier to migration as it provided 
+for criminal penalties. It was instead an effective and 
+purposeful attempt to insulate the state from indigents 
+and a significant barrier to interstate travel. Thus, cases 
+prior to Shapiro demonstrate that statutes whose impact 
+on travel is incidental and remote should be judged by 
+traditional, reasonable basis, equal protection tests. To be 
+judged by stricter, heightened scrutiny, statutes should do 
+more than just “touch on” the right to travel. Strict scru- 
+tiny should be reserved for statutes which impose a sig- 
+nificant and severe penalty on travel. Were this not the 
+case, the result in Sosna v. lowa, 419 U.S. 393 (1975) would 
+be inexplicable since this Court in Sosna permitted the 
+State of lowa to temporarily deprive newcomers of the 
+right to file for divorce, notwithstanding the “touch” that 
+state law had on interstate migration. This Court in Sosna 
+made clear, therefore, that merely touching on the right to 
+travel is insufficient to trigger strict scrutiny. 
+
+
+Therefore, the constitutionality of California’s Statute 
+should be judged by traditional, reasonable basis, equal 
+protection tests. Indeed, a reasonable basis analysis is the 
+
+
+16 
+
+
+appropriate constitutional review for statutes involving 
+the administration of public welfare assistance. Dandridge 
+v. Williams, 397 U.S. 471, 485 (1970). 
+
+
+In this case, the Statute’s impact on travel is inciden- 
+tal and remote to its purpose of reducing state expendi- 
+tures. As to the level of AFDC benefits, persons impacted 
+by the Statute are placed in a position identical to that 
+which they occupied before departing their state of for- 
+mer residence.® The Statute does not provide a penalty on 
+the basic necessities of life, and it does not render new 
+residents of California ineligible for public assistance, nor 
+does it prevent anyone from traveling to California. Per- 
+sons subject to the Statute receive the same amount of 
+AFDC benefits which were constitutionally permissible in 
+their state of prior residence. Dandridge, 397 U.S. at 480 
+and 483. 
+
+
+To the extent that the Statute has the effect of paying 
+new residents less welfare than persons who have resided 
+in California for more than twelve months, the Statute’s 
+impact is mitigated by the fact that, for every three dol- 
+lars an AFDC grant is reduced by operation of the Stat- 
+ute, Food Stamps are increased by approximately one 
+dollar. (See Declaration of Michael C. Genest (“Genest 
+Declaration” Pet.App. 26-27).) In addition, all California 
+
+
+6 “In both 1980 and 1985 all but five of the states had a cost 
+of living within ten percent of the national average . . . when all 
+states are considered together, the variation in AFDC benefits is 
+four times larger than the variation in the cost of living.” Peter- 
+son, et al., Welfare Magnets (The Brookings Institute, 1990) p. 11. 
+Thus, there is not a significant relationship between a state’s 
+cost of living and its welfare payments. 
+
+
+ee 
+
+
+17 
+
+
+AFDC recipients (including new residents) may be enti- 
+tled to a Special Needs Allowance, including an 
+allowance for homeless assistance (Genest Declaration, 
+Pet.App. 26) and persons subject to the Statute remain 
+eligible for full Medicaid benefits. Although respondents 
+have previously focused on the high cost of living in 
+California, such considerations are irrelevant as there is 
+no constitutionally required relationship between the 
+standard of need and the level of AFDC payments.” Fur- 
+thermore, the Statute is not a permanent part of Califor- 
+nia‘s AFDC program. It is one federally approved 
+component of California's Assistance Payments Demon- 
+stration Project. The five-year demonstration project was 
+approved only through September 30, 1997. (Record, Dis- 
+trict Court Clerk’s Docket entry 69, Exhibit 2, page 1. 
+Joint Appendix 56.) Thus, the impact of the Statute on the 
+right to travel is significantly less than the impact of the 
+statute at issue in Shapiro, which operated as a total 
+denial of welfare assistance for a year. The impact of the 
+Statute is also much less than the impact on the right to 
+
+
+? Within the broad parameters of federal AFDC require- 
+ments, states have a great deal of discretion in determining the 
+standard of need and the level of benefits. 42 U.S.C. §§ 601, et 
+seq. King v. Smith, supra, 392 U.S. at 318. It is constitutionally 
+permissible both to establish a benefit level below the standard 
+of need and to set benefits which will encourage gainful 
+employment. It is also constitutionally permissible to disregard 
+family size in setting benefit levels. Dandridge v. Williams, 397 
+U.S. 471, 480, 483 (1970). 42 U.S.C. § 601 states that the purpose 
+of the AFDC program is, in part, to“ .. . furnish financial 
+assistance and rehabilitation and other services, as far as practi- 
+cable under the conditions in such State. ...” Thus, to the extent 
+that the Statute operates as a reduction of benefits, the Statute is 
+constitutionally permissible. 
+
+
+18 
+
+
+travel of the statutes at issue in Zobel v. Williams, State 
+Attorney General of New York v. Soto-Lopez, and Hooper v. 
+Bernalillo County Assessor. In all of those cases, the stat- 
+utes at issue created permanent classifications among 
+residents and newcomers. A strict scrutiny analysis is 
+inappropriate in this case; a reasonable basis analysis 
+suffices. A reasonable basis analysis is the appropriate 
+constitutional review for statutes involving the adminis- 
+tration of public welfare assistance. Dandridge v. Williams, 
+397 U.S. 471, 485 (1970). 
+
+
+Ill 
+
+
+CALIFORNIA’S INTEREST IN REDUCING WELFARE 
+COSTS IS SUFFICIENT TO JUSTIFY THE USE OF A 
+TWO-TIER SYSTEM OF DISTRIBUTING AFDC BENE- 
+FITS. 
+
+
+Contrary to statements made by the District Court, 
+and adopted by the Ninth Circuit, California’s interest in 
+reducing welfare costs is sufficient to justify statute’s 
+two-tier system of distributing AFDC benefits. 
+
+
+The District Court’s finding is derived from the 
+determination that the Statute must be subjected to strict 
+scrutiny. However, as shown above, a strict scrutiny anal- 
+ysis is not proper because the Statute does not penalize 
+the right to travel as it does not affect eligibility for 
+AFDC. Here, the correct analysis is the reasonable basis 
+or rationality test. The Statute passes that test. The con- 
+tinuing and worsening budget problems in California 
+provide a rational basis for a statute that lowers state 
+welfare expenditures. Furthermore, as part of a federally 
+approved experiment in welfare reform, pursuant to 42 
+
+
+19 
+
+
+United States Code section 1315(a), it provides necessary 
+information for future decision-making by state and fed- 
+eral policymakers. 
+
+
+When a state distributes benefits unequally, the dis- 
+tinctions it makes are subject to review under the Equal 
+Protection Clause of the Fourteenth Amendment. The 
+statutory scheme must pass the rationality test at a mini- 
+mum. Zobel v. Williams, 457 U.S. 55, 60 (1982). Generally, a 
+law will survive such scrutiny if the distinction rationally 
+furthers a legitimate state purpose. 
+
+
+Durational residency requirements have been found 
+constitutionally permissible if the justifications are suffi- 
+cient. Sosna v. Iowa, 419 U.S. 393. In Sosna, the State’s 
+longstanding and virtually exclusive interest in regulat- 
+ing domestic relations justified the impact on travel of a 
+statute that required that a petitioner in a divorce action 
+be a resident of Iowa for one year preceding the filing of 
+the petition. 419 U.S. at 406. California’s interest in main- 
+taining a balanced budget is at least as important as a 
+State's interest in regulating domestic relations. 
+
+
+The plaintiff in Sosna was not irretrievably foreclosed 
+from obtaining some part of what she sought. In the 
+Present case, respondents’ eligibility for public assistance 
+is not in question. A potential AFDC recipient coming to 
+California still may apply for, and, if eligible, obtain 
+assistance, but at a rate equal to what that potential 
+recipient would have received in the state of prior resi- 
+dence. Here, as in Sosna, the justifications for the dura- 
+tional residency requirement are rational, and hence, 
+legitimate. A grant level which is constitutionally permis- 
+sible in one state should not become unconstitutional in 
+
+
+a 
+
+
+20 
+
+
+another state just because the grantee made a unilateral 
+decision to change residence. 
+
+
+Here, the budget problems confronting California 
+outweigh respondents’ claims. The Statute is a legislative 
+solution designed to confront problems not apparent in 
+Shapiro and its progeny. The Statute uses a temporary 
+classification which does not permanently deprive plain- 
+tiffs of any interest. Because the Statute imposes no pen- 
+alty on the right to travel, the Statute is constitutionally 
+permissible since it rests upon a rational basis.* 
+
+
+The Statute easily passes the rational basis test. The 
+unstated but plain purpose of the Statute is to reduce 
+California’s welfare expenditures. California was forced 
+to reduce expenditures in the AFDC program in fiscal 
+years 1990-91, 1991-92, and 1992-93 because of severe 
+gaps between projected revenues and expenditures. Wel- 
+fare and Institutions Code sections 11450.01, 11450.02, 
+and 11450.03 (the Statute) were all designed as compo- 
+nents of a federally approved demonstration project to 
+temporarily reduce aid grants in the AFDC program and 
+to provide information with which to evaluate further 
+work incentives. Legislative Counsel’s Digest of Senate 
+Bill 485, added by stats. 1992, c. 722, No. 10 West's Cal. 
+Legis. Service, p. 2898;9 Pet.App. 29. Reducing state 
+
+
+* To the extent that Shapiro and its progeny appear to hold 
+that financial considerations can never justify durational resi- 
+dency requirements, those holdings should be re-examined. 
+
+
+* The need to reduce state expenditures required in fiscal 
+year 1992-93 is evidenced by the fact that the Governor reduced 
+the appropriation for the support of his office by 15 percent. His 
+veto message stated, “I take this action because of the unprece- 
+dented fiscal constraints and limited resources in the General 
+
+
+21 
+
+
+expenditures, especially in the midst of a continuing and 
+growing budget deficit, is certainly a legitimate state 
+
+
+purpose, just as is studying the effect of welfare reform 
+initiatives. 
+
+
+The Statute achieves its purpose of reducing state 
+expenditures by temporarily limiting the level of AFDC 
+grants to those who choose to move to California. As 
+noted above, the Statute does not prevent people from 
+moving to California; it removes California’s relatively 
+high AFDC benefit levels, for a period of one year, as one 
+of the factors a person might consider when contemplat- 
+ing a move to California. 
+
+
+Scholars have observed that welfare-induced inter- 
+state migration has had significant effects on state AFDC 
+policies. Peterson et al., Welfare Magnets (The Brookings 
+Institution, 1990) p. 83. Two important studies have 
+shown that the effect of welfare benefits on migration is 
+strong and significant. Id., at 58. Furthermore, 
+
+
+7 - a8 people make major decisions about 
+whether they should move or remain where 
+they are, they take into account the level of 
+welfare a state provides and the extent to which 
+that level is increasing. The poor do this roughly 
+to the same extent that they respond to differ- 
+
+
+ences in wage opportunities in other states.” Id., 
+at 83. 
+
+
+“A state with high welfare benefits provides 
+incentives both for the poor to remain in the 
+
+
+Fund.” Budget Act of 1992, stats. 1992, c. 587, No. 9 West’s Cal. 
+Legis. Service, p. 1832, Pet.App. A31. 
+
+
+22 
+
+
+state and for the poor in other states to move 
+there.” Id., at 20. 
+
+
+Whether or not the Statute constitutes wise policy is 
+a decision which rests exclusively with the California 
+Legislature.'° The degree to which the Statute relieves the 
+state’s fiscal crisis is also of no constitutional significance. 
+As noted above, the setting of AFDC benefit levels is a 
+political decision by the Legislature. “. . . [T]he Constitu- 
+tion does not empower this Court to second guess state 
+officials charged with the difficult responsibility of 
+allocating limited public welfare funds among the myriad 
+of potential recipients.” Dandridge v. Williams, 397 U.S. at 
+487. 
+
+
+Recognizing the political process involved in the 
+state’s determination of the level of benefits, the Third 
+Circuit, in Everett v. Schramm, 772 F.2d 1114 (3d Cir. 1985), 
+discussed the policy of political accountability in the 
+failure of Delaware's standard of need to reflect inflation. 
+
+
+10 Because of the experimental nature of the Statute, the 
+results of this experiment may provide state and federal policy- 
+makers with valuable information to assist them in future deci- 
+sion-making. The Statute is a component of a federally- 
+approved demonstration project pursuant to 42 U.S.C. 1315(a). 
+A condition to federal approval was the performance of a care- 
+ful, scientific evaluation of the impact the Statute may have on 
+migration. To measure this possible impact, the evaluation of 
+the Statute will include an analysis of: the number of AFDC 
+families migrating to California before and after the Statute is 
+implemented; whether those families came from states with 
+lower or higher AFDC benefit levels; the percentage of total 
+caseload that migrated to California; and the average number of 
+months newcomers resided in California before they applied for 
+aid. (Record, District Court Clerk’s Docket entry 69: Exhibit 8, p. 
+14.) 
+
+
+23 
+
+
+“Under the statutory scheme, AFDC recipients 
+and activists must avail themselves of the politi- 
+cal process, not the judicial process . . . to effect 
+the changes they seek.” Id. at 1122. 
+
+
+As noted by this Court, “. . . intractable economic, 
+social, and even philosophical problems presented by 
+public welfare assistance programs are not the business 
+of this Court . . . ” Dandridge, 397 US. at 487. Like 
+Delaware’s decision to reduce benefit levels, California’s 
+reduction of AFDC benefits is a political decision subject 
+to public scrutiny. Here the legitimate state purpose is to 
+reduce expenditures so that scarce resources may be pre- 
+served for all, including recipients of public assistance. 
+
+
++ 
+
+
+CONCLUSION 
+
+
+This Court may uphold the constitutionality of the 
+Statute without overruling Shapiro and Memorial Hospital. 
+Respondents are not penalized by the Statute. If the Stat- 
+ute affects the decision to migrate, it does so in an inci- 
+dental and remote way which does not rise to the level of 
+impact that triggers strict scrutiny. 
+
+
+This Court should hold that where a classification 
+imposes no penalty on travel, or at most, has an inciden- 
+tal and remote effect on the right to travel, that classifica- 
+tion can stand if rationally based, and that conservation 
+of the taxpayer's purse is a sufficiently rational basis to 
+justify a limit on public assistance expenditures. States 
+must have the flexibility to allocate diminishing financial 
+resources among all of its residents, including recent 
+ones. 
+
+
+24 
+
+
+This Court should reverse the judgment of the Ninth 
+Circuit and remand this case with instructions that the 
+preliminary injunction be dissolved and the complaint 
+dismissed. 
+
+
+Dated: November 14, 1994 
+Respectfully submitted, 
+
+
+Danie. E. LuNGren, Attorney General 
+for the State of California 
+CHARLTON G. HOLLAND, III 
+Assistant Attorney General 
+Dennis EckHart, Supervising 
+Deputy Attorney General 
+*THEODORE GARELIS 
+Deputy Attorney General 
+ANDREA LYNN HocH 
+Deputy Attorney General 
+
+
+Attorneys for Petitioners 
+
+
+*Counsel of Record 
+
+

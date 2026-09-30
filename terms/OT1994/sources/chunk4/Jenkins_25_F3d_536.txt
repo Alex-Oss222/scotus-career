@@ -1,0 +1,80 @@
+25 F.3d 536
+
+[NOTE: The task-provided URL (courtlistener.com/opinion/746258/...) actually resolves to a LATER, different opinion in this same litigation captioned "124 F.3d 824" (7th Cir. 1997), not 25 F.3d 536. The correct opinion, confirmed by an in-page citation reading "25 F.3d 536", was located at https://www.courtlistener.com/opinion/670750/darlene-jenkins-v-george-w-heintz-and-bowman-heintz-boscia-mcphee/ and is saved below.]
+
+Darlene JENKINS, Plaintiff-Appellant, v. George W. HEINTZ and Bowman, Heintz, Boscia & McPhee, Defendants-Appellees.
+
+No. 93-2861.
+
+United States Court of Appeals, Seventh Circuit.
+
+Argued Jan. 4, 1994.
+
+Decided May 27, 1994.
+
+Daniel A. Edelman (argued), Cathleen M. Combs, Tara G. Redmond, J. Eric Vander Arend, Michelle Weinberg, Edelman & Combs, Chicago, IL, Joanne Faulkner, New Haven, CT, for Darlene Jenkins.
+
+*537 George W. Spellmire, Bruce L. Carmen (argued), D. Kendall Griffith, David M. Schultz, Hinshaw & Culbertson, Chicago, IL, for George W. Heintz and Bowman, Heintz, Boscia & McPhee.
+
+Alan A. Alop, Legal Assistance Foundation of Chicago, Chicago, IL, Denise A. Lisio, Robert J. Hobbs, National Consumer Law Center, Boston, MA, for Johnnie Mae Johnson amicus curiae.
+
+Before FAIRCHILD, MANION, and KANNE, Circuit Judges.
+
+MANION, Circuit Judge.
+
+Darlene Jenkins sued George W. Heintz and his law firm, Bowman, Heintz, Boscia & McPhee, for violating the Fair Debt Collection Practices Act, 15 U.S.C. § 1601 et seq. Heintz and the law firm filed a motion to dismiss, arguing that attorneys who file suit to collect debts are not covered by the Act. The district court agreed and dismissed the lawsuit. Jenkins appeals. We reverse and remand.
+
+I. Facts
+
+Darlene Jenkins borrowed money from Gainer Bank to purchase a car. The installment contract between the bank and Jenkins required that she keep insurance on the car until she made her last payment. If she did not keep insurance, the installment contract allowed the bank to purchase insurance for the car, and then to charge Jenkins for the cost of the insurance. Specifically, the installment contract provided:
+
+if the Buyer does not pay the taxes on the collateral [or] keep it insured against loss or damage, ... the Creditor can if it wishes to do so and Buyer will have to reimburse the Creditor upon demand, or Creditor at its sole option, may add said expenses to the Buyer's unpaid balance, which shall be payable by the Buyer at the annual percentage rate then in effect.
+
+Jenkins defaulted on her loan. She also stopped buying insurance for the car. The bank then purchased insurance, and hired an attorney, George W. Heintz, and his law firm, Bowman, Heintz, Boscia & McPhee, to recover the remaining installment payments and the cost of the insurance. The attorneys sued Jenkins on behalf of the bank, demanding the installment payments and a $4173.00 insurance charge, and then attempted to settle the matter out of court.
+
+Jenkins took issue with the $4173.00 insurance demand. She had reason to believe that the bank did not buy simple damage and loss insurance for the car, but instead purchased a financial protection policy to insure against the possibility that she might default on the loan. She figured that she had no obligation to reimburse the bank for that type of insurance; she was only required to reimburse the bank if it purchased damage and loss insurance for the car.
+
+Jenkins filed suit against Heintz and his law firm, alleging that their attempts to pass the unauthorized insurance costs on to her violated the Fair Debt Collection Practices Act. Her legal theory was two-fold. First, she claimed that because the insurance charge was not authorized by the installment contract, that the attorneys violated § 1692f of the Act, by adding an unauthorized amount onto the debt. Second, she claimed that the attorneys' attempt to sneak the insurance charge onto her bill amounted to a "false representation or deceptive means to collect any debt" in violation of § 1692e of the Act.
+
+Heintz and his law firm moved to dismiss. They asserted that Congress simply could not have intended to regulate normal legal proceedings under the auspices of the Act. The district court agreed, and dismissed the case. Jenkins appeals. We must determine whether the broad purview of the Act covers the type of attorney conduct described in Jenkins' complaint.
+
+II. Analysis
+
+We review the district court's dismissal for failure to state a claim de novo. Midwest Grinding Co., Inc. v. Spitz, 976 F.2d 1016, 1019 (7th Cir.1992). In conducting our review, we accept all material allegations made in the complaint as true, and we draw all reasonable inferences from the allegations in the plaintiff's favor. Scott v. O'Grady, 975 F.2d 366, 368 (7th Cir.1992). *538 We will affirm the court's dismissal if "it appears beyond doubt that [the plaintiff] can prove no set of facts in support of this claim which would entitle him to relief." Conley v. Gibson, 355 U.S. 41, 45-46, 78 S.Ct. 99, 102, 2 L.Ed.2d 80 (1957).
+
+Congress enacted the Fair Debt Collection Practices Act in 1977, "to eliminate abusive debt collection practices by debt collectors, to ensure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent state action to protect consumers against debt collection abuses." 15 U.S.C. § 1692(e). The Act targeted common abusive debt collection practices, like late-night phone calls, § 1692c(a)(1), embarrassing communications through third parties, § 1692c(b), harassment, § 1692d, false and misleading representations by the debt collector, § 1692e, and assorted other practices, §§ 1602f-j. Obviously, Congress did not intend to eliminate all debt collection practices, only those which it considered unfair. In its original form at least, the Act stopped short of regulating certain methods of debt collection. For instance, legal proceedings did not fall under the purview of the Act. Congress accomplished this by explicitly exempting from the definition of "debt collector," "any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client." § 1692a(6)(F).
+
+The attorney exemption meant that attorneys could go about the legitimate business of debt collection without the fear of being sued. But it also made attorneys an unregulated class of debt collectors. Some apparently abused this loophole and engaged in abusive debt collection practices with impunity. As the Sixth Circuit recently noted, "[attorneys were advertising to creditors that they could do with impunity what other collectors could no longer do: 'late-night telephone calls to consumers, calls to consumers' employers concerning the consumer's debts,' and 'disclosure of consumer's debt to third parties.'" Green v. Hocking, 9 F.3d 18, 21 (6th Cir.1993). In 1986, Congress acted to close this loophole; it amended the Act to remove the attorney exemption.
+
+This case presents the question whether, in the wake of the 1986 amendment, attorneys acting in the course of litigation are now included within the scope of the Act. The district court determined that even in its revised form, the Act was simply not meant to regulate attorneys acting in the course of litigation. Our de novo review of the district court's interpretation of the statute's meaning requires that we look first to the statute's language. Community for Creative Non-Violence v. Reid, 490 U.S. 730, 739, 109 S.Ct. 2166, 2172, 104 L.Ed.2d 811 (1989). When the statute's language is clear, the text controls. Estate of Cowart v. Nicklos Drilling Co., — U.S. —, —, 112 S.Ct. 2589, 2594, 120 L.Ed.2d 379 (1992).
+
+The Act regulates the conduct of any "debt collector." § 1692a(6). The Act defines "debt collector" as "any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect directly or indirectly, debts owed or due or asserted to be owed or due another." § 1692a(6). Nothing in this definition hints that attorneys in the course of litigation should be excluded. Therefore, if a plaintiff can demonstrate that an attorney fits within the rubrics of the statutory definition of "debt collector," then that attorney's conduct is regulated.
+
+Here, Jenkins alleged in her complaint that Heintz and his law firm were "regularly engaged for profit in the collection of debts allegedly owed by consumers. Each is a 'debt collector' as defined by the [Act § 1692a(6)]." The proceedings have not advanced beyond the motion to dismiss stage. Therefore, we are required to accept this allegation as true. Scott, 975 F.2d at 368. If this allegation is true, Heintz and his law firm fall within the statutory definition of "debt collector" and the Act regulates their conduct.
+
+In an attempt to escape this definition, Heintz and his law firm make an appeal to common sense. They argue that the Act was never meant to reach reasonable debt collection practices, such as litigation. It was only *539 meant to cover the seamier practices of debt collection, such as late-night phone calls and other abusive conduct. Basically, they argue—with some indignation—that they are lawyers and not mere debt collectors. But the Act makes no such distinction; it has not since the 1986 amendment eliminating the attorney exemption. Under the Act as presently written, lawyers can be debt collectors, as long as they engage in the business of debt collection.
+
+This view comports with the Fourth Circuit's decision in Scott v. Jones, 964 F.2d 314 (4th Cir.1992). There the court faced the same question: whether a lawyer in the course of litigation may be considered a debt collector under the Act. The court interpreted the plain meaning of the statute, and concluded that a lawyer may be considered a debt collector, as long as he meets the statutory definition. The court was not persuaded by the lawyer's argument that there was some obvious distinction between the practice of law and debt collection: "[w]e do not accept [the lawyer's] argument that he was engaged in the practice of law, not the collection of debts. We find this to be an artificial distinction. No matter what name is applied to [the lawyer's] activities, it is clear that the 'principal purpose' of his work was the collection of debt." Id. at 316.
+
+The Sixth Circuit has reached a contrary result. In Green, 9 F.3d 18, the court considered whether a lawyer, by filing a complaint, qualified as a debt collector under the Act. The court concluded that "[a]n examination of the [Act] in context reveals that it was not intended to govern attorneys engaged solely in the practice of law. A contrary result would produce absurd outcomes." Green, 9 F.3d at 21. After demonstrating how literal enforcement could interfere with normal litigation, the court proceeded to rely on legislative history to support its position that Congress never intended the Act to reach litigation activities.
+
+As the Sixth Circuit noted, there are conceivable problems with regulating attorneys in their debt collection efforts. Unlike the Sixth Circuit, however, our analysis of the statute ends with its language; we do not reach the legislative history. It appears that by removing the attorney exemption without otherwise adjusting the statute, Congress—wittingly or not—proscribed even certain litigation-related debt collection activities. There may be abundant reasons why Congress should not regulate litigation aimed at collecting debts. But in drafting a broad statute, Congress entered all areas inhabited by debt collectors, even litigation. We must faithfully apply the law as Congress drafted it. We should not disregard plain statutory language in order to impose on the statute what we may consider a more reasonable meaning. See Matter Witkowski, 16 F.3d 739, 745 (7th Cir.1994) ("Even if there were some justification for concern, courts cannot re-write statutes.").
+
+So the Act reaches lawyers engaged in litigation. But in order for the lawyers to be subject to liability under the Act, the litigation must entail some proscribed debt collection activity. Jenkins alleged that Heintz and his law firm engaged in two proscribed activities: adding an unauthorized charge to the debt, in violation of § 1692f, and using deceptive means to collect a debt, in violation of § 1692e.
+
+Section 1692f provides in part:
+
+A debt collector may not use unfair or unconscionable means to collect or attempt to collect any debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
+(1) the collection of any amount (including any interest, fee, charge, or expense incidental to the principal obligation) unless such amount is expressly authorized by the agreement creating the debt or permitted by law.
+
+The installment contract authorized the bank to purchase loss or damage insurance for the car if Jenkins failed to. It did not authorize the bank to purchase a financial protection policy to insure against default, and then to pass that cost of that policy onto Jenkins. If, as Jenkins alleged in her complaint, the attorneys charged her for the costs of a financial protection policy, the charge would not have been authorized. At the motion to dismiss stage we accept Jenkins' allegation that *540 the attorneys charged her for a financial protection policy rather than for simple car insurance. Heintz and his law firm do not address this point in their brief. So, without more, we must conclude that Jenkins states a claim under § 1692f(1).
+
+Jenkins next claims that the unauthorized charge was false, deceptive and misleading. Section 1692e provides in part that "[a] debt collector may not use any false, deceptive, or misleading representation or means in connection with the collection of any debt." Again, if the facts are as Jenkins contends—that Heintz and his law firm knew the insurance charge was unauthorized, but tried to pass it off anyway—then she states a claim. Because we are required to accept her allegations in this respect as true, we conclude that she does state a claim. Knowingly making unauthorized charges in connection with debt collection is at least deceptive and misleading.
+
+III. Conclusion
+
+In 1977, Congress wielded the weapon of consumer legislation against some obvious targets: late night phone calls, harassment and other abuses common in debt collection. But when it removed the attorney exemption nine years later, it expanded the statute's impact to include some attorneys engaged in debt collection litigation. We are not authorized to second-guess Congress by reading out of the statute certain intrusions we could consider unwarranted. Nor are we allowed to reconstruct the statute's plain meaning by reference to legislative history. We may only apply the law as Congress drafted it. We therefore reverse the district court's determination that the Act does not apply to attorneys in the course of litigation to collect debts. There is no longer an attorney exemption in the Act, and we cannot create one by judicial fiat. We also reverse the district court's determination that the attorneys' actions were not of the type proscribed by the Act. At the motion to dismiss stage, we accept the allegations made in the complaint as true. If Heintz and his law firm acted in the manner Jenkins alleged, then they fall within the broad scope of the Act. We remand for further proceedings consistent with this opinion.
+
+REVERSED AND REMANDED.
+
+Source: https://www.courtlistener.com/opinion/670750/darlene-jenkins-v-george-w-heintz-and-bowman-heintz-boscia-mcphee/

@@ -1,0 +1,91 @@
+17 F.3d 374
+
+[NOTE: The opinion-cluster id first matched on CourtListener by the given caption (opinion/716712) was actually a later, different opinion that merely CITES this case. The correct opinion, confirmed by an in-page citation reading "17 F.3d 374", was located at https://www.courtlistener.com/opinion/663793/margaret-whitecotton-by-her-next-friends-kay-whitecotton-and-michael/ and is saved below.]
+
+Margaret WHITECOTTON, by her next friends, Kay WHITECOTTON and Michael Whitecotton, Petitioners-Appellants, v. SECRETARY OF DEPARTMENT OF HEALTH AND HUMAN SERVICES, Respondent-Appellee.
+
+Nos. 92-5083, 93-5101.
+
+United States Court of Appeals, Federal Circuit.
+
+Feb. 15, 1994.
+
+Rehearing Denied; Suggestion for Rehearing In Banc Declined in No. 92-5083 April 29, 1994.*
+
+*375 Robert T. Moxley, Gage and Moxley, of Cheyenne, Wyoming, argued for petitioners-appellants. With him on the brief was John S. Capper, IV, Berry, Capper & Tulley, of Crawfordsville, Indiana.
+
+Karen P. Hewitt, Department of Justice, of Washington, D.C., argued for respondent-appellee. With her on the brief were Frank M. Hunger, Assistant Attorney General, Helene M. Goldberg and John Lodge Euler.
+
+Before NEWMAN, MAYER, and CLEVENGER, Circuit Judges.
+
+* Nies, Circuit Judge, would rehear the appeal.
+
+MAYER, Circuit Judge.
+
+Kay and Michael Whitecotton appeal the judgment of the United States Court of Federal Claims,1 No. 90-692V (Jan. 14, 1992), upholding the special master's denial of their petition under the National Childhood Vaccine Injury Act of 1986. The Whitecottons also appeal the January 7, 1993, order of the Court of Federal Claims denying their motion for relief based on newly discovered evidence. We reverse and remand.
+
+Background
+
+Margaret Whitecotton (Maggie) was born without complications on April 22, 1975. Maggie was a small child — her head circumference at birth was 12.5 inches, or 32 centimeters, placing her in the second percentile on a standard growth chart. Although she might be considered microcephalic based on this measurement, Maggie was healthy, developmentally and physically, until she received her third diphtheria-pertussis-tetanus (DPT) vaccination on August 18, 1975. Maggie's mother took her to the emergency room that evening, after she allegedly saw the child suffer a series of seizures. The treating physician saw no evidence of seizures and discharged Maggie that same night. The next day, Maggie's mother took her to see the family doctor. That doctor saw Maggie experience a series of clonic seizures.
+
+Although Maggie suffered occasional seizures over the next five years, she has suffered none in recent years. She is, however, mentally and physically disabled. She has cerebral palsy, has hip and joint problems, and cannot communicate verbally.
+
+On August 2, 1990, Maggie's parents, as her legal representatives, applied for compensation under the National Childhood Vaccine Injury Act of 1986, 42 U.S.C. §§ 300aa-10 to 300aa-34 (1988 & Supp. III 1991). They asserted that Maggie suffered a compensable encephalopathy as a result of the August 18 vaccination. The Secretary of Health and Human Services responded that Maggie's condition arose instead from a chronic organic brain syndrome that preexisted the vaccination, and that, therefore, she deserved no compensation under the Act.
+
+On August 16, 1991, the special master denied compensation, finding that Maggie was born with a brain disorder that was responsible for her present disabilities. The Whitecottons sought review of the decision in the Court of Federal Claims, which affirmed the decision of the special master.
+
+On March 27, 1992, the Whitecottons filed an appeal in this court, which stayed the proceedings pending resolution in the Court of Federal Claims of the Whitecottons' motion for relief from judgment under Rule 60(b)(2). When that motion was denied, the Whitecottons sought review of that denial in *376 this court as well. We now consider the Whitecottons' consolidated appeals.
+
+Discussion
+
+I.
+
+The Whitecottons challenge the interpretation of the Vaccine Act adopted by the special master and affirmed by the Court of Federal Claims, which they argue robbed them of the statutory presumption of causation created by Congress to facilitate recovery for likely vaccine injuries. We review such legal questions de novo. Hodges v. Secretary, Dep't of Health and Human Services, 9 F.3d 958, 960 (Fed.Cir.1993).
+
+The asserted presumption, designed to excuse petitioners from the often onerous burden of proving causation in vaccine cases, attaches whenever the petitioners meet the requirements of the Vaccine Injury Table, 42 U.S.C. § 300aa-14(a). Specifically, petitioners must demonstrate that the injured child received a vaccine enumerated in the Table, that the child sustained one of the injuries set forth in the Table within the statutory time period after vaccination, and that the effects of the injury lasted for more than six months, resulting in more than $1,000 of expenses. Id. § 300aa-11(c). If the petitioners fail to meet the Table requirements, they can recover compensation only on the more difficult showing of actual causation. Id. § 300aa-11(c)(1)(C)(ii). Once petitioners satisfy their burden of proving presumptive or actual causation by a preponderance of evidence, they are entitled to recover unless the Secretary shows, also by a preponderance of evidence, that the injury was in fact caused by factors unrelated to the vaccine. Id. § 300aa-13(a)(1)(B).
+
+Here, the parties do not dispute that Maggie suffered an encephalopathy that led to her present retardation and cerebral palsy. The only questions are when the encephalopathy occurred and the effect of the date of onset on recovery under the Act.
+
+II.
+
+The Whitecottons say both the special master and the Court of Federal Claims misinterpreted the law, allowing the Secretary to defeat their proven Table injury with a showing of a preexisting brain disorder evidenced by microcephaly, an idiopathic factor unrelated to the vaccine. The Secretary responds that the special master never reached the "factor unrelated" question because the Whitecottons failed to establish their prima facie case when they could not prove that Maggie's August 19, 1975, seizures were the first manifestation of the encephalopathy.
+
+While the special master did conclude that Maggie suffered no Table encephalopathy, we do not agree. Nowhere does the statute expressly state that proof of a Table encephalopathy includes a showing that the child sustained no injury prior to administration of the vaccine. The Act requires that a petition for compensation include affidavits demonstrating that the first manifestation of the injury occurred within Table time after vaccination, 42 U.S.C. § 300aa-11(c)(1)(C)(i), but the Table itself provides that the statutory period is a "[t]ime period for first symptom or manifestation of onset ... after vaccine administration." Id. § 300aa-14(a). The distinction is significant: the Table language is that the first symptom after vaccine administration must occur within Table time, not, as the Secretary argues, that the first of all manifestations must so occur.
+
+Congress could have expressly made the absence of preexisting injury an element of the prima facie case had it so intended. In fact, the qualifications and aids to interpretation of the Table do that for one type of injury, providing that "[a] petitioner may be considered to have suffered a residual seizure disorder if the petitioner did not suffer a seizure or convulsion ... before the first seizure or convulsion after the administration of the vaccine-" Id. § 300aa-14(b)(2). Subsequent subsections dealing with encephalopathy place no such limitation on finding Table injury. See id. § 300aa-14(b)(3)(A)-(B).2 Since Congress expressly *377 restricted residual seizure disorders to instances where no seizure occurred before vaccine administration, we assume its failure similarly to limit encephalopathy was intentional. See Russello v. United States, 464 U.S. 16, 24, 104 S.Ct. 296, 300, 78 L.Ed.2d 17 (1983) ("Had Congress intended to restrict § 1963(a)(1) to an interest in an enterprise, it presumably would have done so expressly as it did in the immediately following subsection (a)(2)"); The Ad Hoc Committee v. United States, 13 F.3d 398, 401 (Fed.Cir.1994).
+
+Moreover, the Act provides that the "factors unrelated" that can defeat a prima facie case may include "infection, toxins, trauma (including birth trauma and related anoxia), or metabolic disturbances...." 42 U.S.C. § 300aa-13(a)(2)(B). This section manifestly contemplates that birth trauma, an injury that necessarily must precede administration of any vaccine, can qualify as a factor unrelated to the vaccine and bar recovery. It would make no sense to allow proof by the Secretary of birth trauma as a factor unrelated if the petitioner were required to prove that no such preexisting injury occurred as an element of the Table case.
+
+Because the statute makes sense only if the Secretary bears the burden of proving a preexisting encephalopathy, we decline the Secretary's argument that the Whitecottons failed to prove their prima facie case. It is undisputed that Maggie suffered an encephalopathy. It is also undisputed that Maggie's encephalopathy manifested itself in the form of seizures occurring within Table time after vaccination. This suffices to show a Table injury. The Whitecottons deserve the benefit of the Act's presumed causation.
+
+III.
+
+The special master based his denial of the petition on the evidence of Maggie's microcephaly. The Secretary offered evidence that microcephalic children are likely to experience developmental difficulties because head growth follows brain development. The special master agreed, reasoning that Maggie's disabilities arose from a preexisting brain disorder, which might bar recovery as a factor unrelated to the DPT vaccine. However, just as the Act defines what can be a "factor unrelated," it states what cannot: a factor unrelated to the administration of the vaccine "does not include any idiopathic, unexplained, unknown, hypothetical, or undocumentable cause, factor, injury, illness, or condition." 42 U.S.C. § 300aa-13(a)(2)(A). The Act does not limit its prohibition of idiopathic, or unknown, causes to those demonstrably arising after administration of the suspect vaccine; it forbids the use of any such cause to defeat a petition.
+
+We addressed this same provision in Koston v. Secretary, Dep't of Health and Human Services, 974 F.2d 157, 160-61 (Fed.Cir.1992), and rejected the notion that a preexisting idiopathic condition can support a finding of alternate causation. In Koston, the Secretary first conceded causation of the child's residual seizure disorder. An independent medical examination revealed that the child suffered from Rett Syndrome, a condition manifested by mental regression and peculiar behavioral symptoms. The Secretary then sought to withdraw the concession of causation, arguing that because Rett Syndrome was thought to arise from prenatal factors the vaccine could not have been responsible for the child's condition.
+
+We did not accept the Secretary's position because while the medical community believed Rett Syndrome to be genetically determined or derived from a metabolic defect, medical science had not yet firmly identified its cause. Rett Syndrome being an idiopathic condition, an illness with no known cause, it could not support a finding of alternate causation. Id. at 161.
+
+We are faced with a similar situation here. The special master found that Maggie was microcephalic before she received the suspect vaccine. He also found that her microcephaly *378 marked Maggie as a child likely to experience developmental problems. Logically, these findings point to some preexisting condition, and not the vaccine, as the source of Maggie's injury. However, the record does not identify this condition. The Secretary's expert testified that microcephaly is often idiopathic, and could point to no specific cause for Maggie's microcephaly. He could only speculate that Maggie suffered a brain injury at some time before she received the vaccine in August 1975. The special master adopted this speculation, stating that as Maggie matured, "the complications of whatever caused her microcephaly gradually manifested themselves," and concluded that "there is no basis for implicating the vaccine as the cause of any aspect of her present condition." Whitecotton v. Secretary, Dep't of Health and Human Services, No. 90-692V, slip op. at 13, 1991 WL 172187 *8 (Cl.Ct.Spec.Mstr. Aug. 16, 1991) (emphasis added). This ignores the statutory presumption.
+
+Congress intended that vaccine awards be made "quickly, easily, and with certainty and generosity." H.R.Rep. No. 908, 99th Cong.2d Sess. 3 (1986), reprinted in 1986 U.S.C.C.A.N. 6287, 6344. This purpose would not be served by allowing the Secretary to avoid an award by offering "speculative or hypothetical matters or explanations" of alternate causation; under the Act, a Table injury must be presumed vaccine-related unless demonstrated to arise from "other, defined illnesses or factors." Id. at 18, 1986 U.S.C.C.A.N. at 6359. This may result in "'compensation to some children whose illness is not, in fact, vaccine related,'" Koston, 974 F.2d at 161 (citations omitted), but that is what Congress intended. As in Koston, "we have an unknown cause and [symptoms] occurring within three days, the period the Vaccine Injury Table sets for recovery. That is the end of our inquiry...." Id. The Whitecottons established their prima facie case, and so get the benefit of presumptive causation.
+
+Conclusion
+
+Accordingly, the judgment of the Court of Federal Claims is reversed and the case is remanded to determine compensation.
+
+COSTS
+
+Costs to Kay and Michael Whitecotton.
+
+REVERSED AND REMANDED.
+
+---
+
+Footnotes:
+
+1. The United States Claims Court was renamed the Court of Federal Claims on October 29, 1992, during the course of proceedings in this case before that court. Federal Courts Administration Act of 1992, Pub.L. No. 102-572, § 902(a), 106 Stat. 4506, 4516. For clarity, we use the court's present name.
+
+2. Indeed, the Vaccine Act here provides explicitly that [i]f ... it is shown by a preponderance of the evidence that an encephalopathy was caused *377 by infection, toxins, trauma or metabolic disturbances the encephalopathy shall not be considered to be a condition set forth in the table. ... 42 U.S.C. § 300aa-14(b)(3)(B) (emphasis added). This provision prevents a petitioner from establishing her Table case if preponderant evidence of record shows that the encephalopathy resulted from one of the four statutorily enumerated causes. The Secretary does not argue that Maggie's encephalopathy arose from one of these causes.
+
+Source: https://www.courtlistener.com/opinion/663793/margaret-whitecotton-by-her-next-friends-kay-whitecotton-and-michael/

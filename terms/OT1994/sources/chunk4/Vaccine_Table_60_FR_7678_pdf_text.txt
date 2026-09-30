@@ -1,0 +1,1376 @@
+7678 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+DEPARTMENT OF HEALTH AND                    mandated that the Secretary review the      follow-up. A report of the medical,
+HUMAN SERVICES                              scientific literature and other             social, behavioural and educational
+                                            information on specific adverse             outcomes after serious, acute,
+Public Health Service                       consequences of pertussis and rubella       neurologic illness in early childhood.
+                                            vaccines. The Secretary entered into a      Developmental Medicine and Child
+42 CFR Part 100                             contract with the Institute of Medicine     Neurology 1993; Supplement No.
+                                            (IOM), as recommended by Congress, to       68;35(7):1-118; Miller D.L., Madge N.,
+RIN 0905-AD64                               perform this review. The IOM published      Diamond J., Wadsworth J., Ross E.
+                                            a report of its review entitled, ``Adverse  Pertussis immunization and serious
+National Vaccine Injury Compensation        Effects of Pertussis and Rubella            acute neurological illness in children.
+Program Revision of the Vaccine Injury      Vaccines,'' on August 27, 1991              British Medical Journal 1993; 307:1171-
+Table                                       (hereinafter ``IOM Report''). The Public    1176, hereinafter ``Miller study.'').
+                                            Health Service Task Force on the VICP       Because the Miller study looked
+AGENCY: Health Resources and Services       evaluated the IOM report and made the       specifically at the relationship between
+Administration, PHS, HHS.                   initial recommendations regarding           vaccine administration and subsequent
+                                            possible revision of the Table.             neurological damage, the Department
+ACTION: Final rule.                                                                     determined that it should not proceed
+                                               These recommendations were               with publication of the final rule until
+SUMMARY: This final rule amends the         reviewed by a special subcommittee of       there had been a sufficient opportunity
+existing regulations governing the          the National Vaccine Advisory               to consider the conclusions of the new
+National Vaccine Injury Compensation        Committee (NVAC) (a committee               Miller study. Accordingly, the
+Program (VICP) by adding a new section      authorized under section 2105 of the        Department asked the IOM to convene
+regarding the Vaccine Injury Table          Act). The subcommittee                      a Committee for purposes of evaluating
+(Table) to the regulations, pursuant to     overwhelmingly endorsed all of the          the Miller study in light of the
+section 312 of the National Childhood       proposed revisions except for the           conclusions of its initial report. On
+Vaccine Injury Act of 1986 and section      addition of chronic arthritis to the        March 2, 1994, the Institute of Medicine
+2114(c) of the Public Health Service Act    Table. The full NVAC endorsed the           issued a report entitled ``DPT Vaccine
+(the Act). The VICP provides a system       subcommittee's recommendations for          and Chronic Nervous System
+of no-fault compensation for certain        revising the Table.                         Dysfunction: A New Analysis.'' On
+individuals who have been injured by                                                    March 24, 1994, the Department
+specific childhood vaccines. The               The Advisory Commission on               published a notice in the Federal
+Vaccine Injury Table included in the        Childhood Vaccines (ACCV), whose            Register affording members of the
+Act establishes presumptions about          membership by statutory directive           public and additional 30 days to
+causation of certain illnesses and          reflects a variety of views relating to     comment on the Miller study and the
+conditions, which are used by the Court     childhood immunizations (authorized         IOM report. See Federal Register March
+to adjudicate petitions. The                under section 2119 of the Act),             24, 1994, (59 FR 13916).
+amendments to the Vaccine Injury Table      considered the NVAC report as well as
+will affect only those petitions filed for  the PHS Task Force recommendations.            The Agency also asked a
+compensation under the VICP after the       The ACCV deliberations included             subcommittee of the NVAC to review
+effective date of this rule.                public policy considerations, whereas       the IOM's conclusions regarding the
+                                            the NVAC charge was to consider only        implications of the Miller study. On
+EFFECTIVE DATE: This regulation is          the scientific issues raised by the         March 15, the NVAC subcommittee met
+effective March 10, 1995.                   existing Table, the recent IOM report,      to review (among other things) the
+                                            and other scientific information. The       Miller study. The subcommittee was
+FOR FURTHER INFORMATION CONTACT:            ACCV voted approval of all of the PHS       composed of members of the NVAC, and
+Geoffrey Evans, M.D., Chief Medical         Task Force recommendations except for       received input from outside experts
+Officer and Deputy Director, Division of    the removal of the condition of             from the fields of epidemiology,
+Vaccine Injury Compensation, Bureau of      Encephalopathy. The ACCV voted              pediatric infectious disease, and
+Health Professions, (301) 443-4198, or      unanimously to retain Encephalopathy        pediatric neurology. The views of the
+David Benor, Senior Attorney, Office of     on the Table provided the existing          NVAC are discussed below where
+the General Counsel, (301) 443-2006.        definition in the Aids to Interpretation    relevant.
+                                            was clarified. The Secretary proposed
+SUPPLEMENTARY INFORMATION:                  changes to the Table after reviewing the       The ACCV reviewed the IOM report
+                                            recommendations of these three entities.    on the Miller study at its meetings in
+Introduction and Procedural History                                                     March and June, 1994. In addition, the
+                                               As provided by section 2114(c) of the    ACCV was asked to provide comments
+   On August 14, 1992, the Assistant        Act, the Department provided for a 6-       during the additional public comment
+Secretary for Health, with the approval     month comment period, which closed          period. Comments received from two
+of the Secretary of Health and Human        on February 11, 1993. On December 3,        individual Commission members will
+Services (the Secretary), published in      1992, the Department held a public          be discussed below. At the June
+the Federal Register (57 FR 36878) a        hearing for the purpose of receiving oral   meeting, the Commission discussed in
+Notice of Proposed Rulemaking (NPRM)        testimony on the proposed rule.             detail the Miller study and the IOM
+to amend the Vaccine Injury Table (the                                                  report. The consensus of the
+Table). (A correction notice to the            During the process of analyzing the      Commission was that the original table
+NPRM was also published on September        comments received in response to the        in the statute requires modification to
+11, 1992, 57 FR 41809). The NPRM was        NPRM, the Agency became aware of the        make it consistent with current medical
+issued pursuant to section 2114(c) of the   imminent publication of a 10-year           and scientific knowledge regarding
+Act, which authorizes the Secretary to      follow-up study to the National             adverse events associated with certain
+promulgate regulations to modify the        Childhood Encephalopathy Study              vaccines. The Commission was split,
+Table.                                      (NCES) (Madge N., Diamond J., Miller        however, on the appropriate frame of
+                                            D., Ross E., McManus C., Wadsworth J.,      reference for modifying the Table. Some
+   As stated in the preamble to the         Yule W. The National Childhood
+proposed rule, under section 312 of the     Encephalopathy Study: A 10-year
+National Childhood Vaccine Injury Act
+of 1986 (Pub. L. 99-660), Congress
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7679
+
+Commission members expressed the             Special Masters from applying the          modification of the Vaccine Injury Table
+view that the starting point for revisions   findings where appropriate.                under paragraph (1) may add to, or
+to the Table should be the original Table                                               delete from, the list of injuries,
+in the statute. The other commissioners         The Department received 41 written      disabilities, illnesses, conditions, and
+agreed that the Secretary should further     comments and five oral comments on         deaths for which compensation may be
+refine the Table, but that the starting      the NPRM, and five comments in             provided, or may change the time
+point for additional revisions should be     response to the Federal Register Notice    periods for the first symptom or
+the modified Table as published in the       to Extend the Public Comment Period        manifestation of the onset of the
+NPRM on August 14, 1992.                     (March 24, 1994). Comments were            significant aggravation of any such
+                                             received from health professional          injury, disability, illness, condition, or
+   The Department has listened carefully     organizations, parent organizations,       death.'' See 42 U.S.C. 300aa-14(c)(3).
+to the Commissioners' concerns. After        medical professionals, attorneys, and      Under section 312 of Pub. L. 99-660,
+weighing all the varied opinions             the general public. All comments were      Congress mandated that the Secretary
+expressed at the June meeting, as well       carefully considered. The Department's     review the scientific literature and other
+as the written comments received from        responses to the comments are              information on specific adverse
+two commission members, the                  discussed below in two separate            consequences of pertussis and rubella
+Department has decided that a final rule     sections. Section I discusses the          vaccines. As mandated by the statute,
+which is a revised and refined version       comments addressing legal issues, and      after completion of this study
+of the proposed rule published in 1992       Section II discusses those comments        (undertaken by the Institute of
+will reflect best the scientific evidence.   addressing medical issues. The             Medicine), and the consultation
+However, in drafting the final rule, the     discussion does not address comments       required by section 2114(c) of the Act,
+Department made many of the changes          that either generally supported or         the Department proposed the revisions
+suggested by members of the                  generally criticized the proposed Table    to the Table. In so doing, the
+Commission. These changes will be            changes without making a specific          Department was acting exactly within
+explained below. In this regard, the         point. In preparing this final rule, the   the authority delegated to it by the
+Department recognizes that one of the        Department also made a number of           Congress.
+objectives of the National Vaccine Plan,     changes, both editorial and substantive
+which was released recently by the           in nature. The substantive changes are        Further, as stated in the preamble to
+National Vaccine Program Office/OASH,        discussed where appropriate as follows:    the Notice of Proposed Rulemaking, the
+is to ensure that the Vaccine Injury                                                    legislative history explains that
+Table is updated periodicall to reflect      I. Legal Issues                            Congress intended the Secretary to
+the latest scientific knowledge. The final                                              modify the Table. The Conference
+rule is consistent with this goal, as well   The Secretary's Authority To               Report states as follows:
+as the statutory directive that the          Promulgate the Regulation
+Secretary revise the Table.                                                                The Committee recognizes that there is
+                                                Several commenters suggested that       public debate over the incidence of illnesses
+   Although by law the regulation will       the Department had exceeded its            that coincidentally occur within a short time
+only affect those petitions filed after the  authority in promulgating the              of vaccination. The Committee further
+effective date specified above, the          regulation. First, commenters argued       recognizes that the deeming of vaccine-
+Department encourages the Special            that this is a function which belongs to   relatedness adopted here may provide
+Masters of the U.S. Court of Federal         the legislative branch and which cannot    compensation to some children whose illness
+Claims to apply the scientific findings      be delegated to the Department based on    is not, in fact, vaccine-related. The
+which form the basis of the revised          the Separation of Powers doctrine. The     Committee anticipates that the research on
+Table where appropriate. For instance,       Department disagrees with this legal       vaccine injury and vaccine safety now
+in cases where petitioners are intending     argument for several reasons. In           ongoing and mandated by this legislation
+to prove causation in fact, the IOM's        enacting a particular statutory scheme,    will soon provide more definitive
+conclusions regarding causation may be       Congress will often leave particular gaps  information about the incidence of vaccine
+relevant for consideration by the Special    with instructions to the Department        injury and that, when such information is
+Master. In addition, the Special Master      charged with executing the statute to      available, the Secretary or the Advisory
+could find, based on the conclusions of      promulgate regulations to fill the gaps    Commission on Childhood Vaccines * * *
+the IOM, that a particular injury was        and interpret the statutory language. See  may propose to revise the Table, as provided
+due to a factor unrelated to vaccine         Chevron v. Natural Resources Defense       below in section 2114 [Initial Table]. Until
+administration. Prior to promulgation of     Council, Inc., 467 U.S. 837 (1984). In     such time, however, the Committee has
+this rule, several Special Masters           promulgating regulations, the              chosen to provide compensation to all
+viewed the IOM report as instructive         Department is limited to the authority     persons whose injuries meet the
+regarding certain illnesses and              delegated by Congress, and is obligated    requirements of the petition and the Table
+conditions and their relationship to         to act consistent with Congressional       and whose injuries cannot be demonstrated
+vaccine administration. The Department       intent. See Bowen v. Georgetown            to be caused by other factors.
+hopes that the use of the IOM report         University Hospital, 488 U.S. 204
+continues, and that the findings and         (1988). Pursuant to these basic            See H.R. Rept. 99-908, Part 1,
+conclusions made by the Secretary in         principles of administrative law, the      September 26, 1986, page 18 (reprinted
+promulgating this rule will be applied       Secretary is promulgating this             in 1986 U.S. Code Cong. and Admin.
+by the Masters where the facts of the        regulation to amend the Vaccine Injury     News, Vol. 6, page 6359). This passage
+case make it appropriate to do so. In        Table.                                     indicates that the Department is acting
+some cases, as explained below, the                                                     consistent with Congressional intent.
+Secretary's findings as set forth in the        The statute explicitly authorizes the
+NPRM at 57 FR 36879 were not                 Secretary in section 2114(c) of the Act       At least two commenters argued that
+incorporated into the final rule. This       to modify the Table and states that the    the Department exceeded its authority
+decision does not affect the Secretary's     ``Secretary may promulgate regulations     in modifying the ``Qualifications and
+findings and should not deter the            to modify * * * the Vaccine Injury         Aids to Interpretation'' (Qualifications)
+                                             Table.'' See 42 U.S.C. 300aa-14(c)(1).     found in section 2114(b) of the Act. This
+                                             The statute further provides that ``a      argument, too, is misplaced. First,
+                                                                                        section 312 requires that the Secretary
+                                                                                        make findings regarding which illnesses
+7680 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+and conditions can reasonably be                Two commenters stated that the          role in determining whether a Table
+determined to be caused by certain           regulation exceeded the Department's       Injury has been proven. The Special
+vaccines. It further requires the            authority by attempting to prescribe       Master's role is to consider the
+Secretary to make findings regarding         elements of proof necessary to prevail in  information contained in the record,
+``the circumstances under which such         a petition for vaccine compensation.       including oral testimony, medical
+causation or aggravation can reasonably      They argued that this function is          records and medical opinion. The
+be determined to occur.'' 42 U.S.C.          reserved to the United States Court of     Master must weigh the evidence,
+300aa-1 note. The purpose of the             Federal Claims. As explained above, the    examine the credibility of the witnesses,
+Qualifications and Aids to                   Secretary is authorized to revise the      reconcile the points of disagreement
+Interpretation is to describe those          Qualifications as well as the Table. The   between the parties and issue a final
+circumstances under which certain            statute states that the Secretary may      decision. The revised Qualifications do
+conditions occur. Congress stated that       ``add to, or delete from, the list of      not alter this role. As did the former
+the Qualifications provide ``various         injuries, conditions, and deaths for       Qualifications, they require the
+descriptions and definitions that the        which compensation may be provided         petitioner to demonstrate a Table
+Committee intends be used in                 or may change the time periods for the     condition by proving that various events
+interpreting the meaning of the Table.''     first symptom or manifestation of the      occurred. The Special Master must still
+See H.R. Rept. 99-908, Part 1,               onset or the significant aggravation of    analyze the evidentiary issues which
+September 26, 1986, page 19 (reprinted       any such injury, disability, illness,      arise in the context of attempting to
+in 1986 U.S. Code Cong. and Admin.           condition or death.'' The original Table   prove a Table injury.
+News, Vol. 6, page 6360). Given that         and Qualifications delineate those
+Congress required the Secretary to make      elements which must be proven in order     The Effect of the Regulation on Other
+findings regarding the circumstances         to take advantage of a presumption of      Statutory Sections
+under which causation can occur, and         causation.
+that she was then required to                                                              One commenter stated that the
+promulgate regulations as a result of           In this regard, the commenters should   Qualifications and Aids to
+such findings, she could not have            understand the function of the Table.      Interpretation are inconsistent with
+fulfilled her obligations under section      The purpose is not to set forth standards  section 2113(b) of the Act, which
+312 without modifying the                    of proof for establishing causation-in-    permits the Special Master to find that
+Qualifications as well as the Table itself.  fact. Rather, the purpose is to set out a  the injury occurred within the Table
+                                             standard for establishing presumed         period even if the symptoms were not
+   Moreover, the statutory language and      causation, which, absent a finding of a    recorded or were incorrectly recorded in
+the legislative history quoted above         factor unrelated to the vaccine, will      the medical records. The commenter
+indicate that the Qualifications must be     allow a petitioner to receive              specifically took issue with the section
+viewed as part of the Table. The statute     compensation without the burden of         of the revised Qualifications which
+states that ``the following qualifications   proving causation for those conditions     states that an ``an acute encephalopathy
+and aids to interpretation shall apply to    included on the Table. Accordingly, the    should be sufficiently severe to require
+the Vaccine Injury Table in subsection       Qualifications properly set out            health care intervention and
+(a).'' See 42 U.S.C. 300aa-14(b). Thus,      standards for defining those conditions    hospitalization.'' In addition, during the
+Congress intended the Table and the          on the Table. Petitioners remain free to   June 1994 meeting of the ACCV, at least
+Qualifications to be viewed as one unit      establish causation in fact by producing   one member of the Commission objected
+because the Qualifications explain and       credible scientific information peculiar   to this requirement as being overly
+clarify the terms of the Table. It stands    to their conditions.                       restrictive because hospitalization is
+to reason, therefore, that if the Table is                                              required. The Commission member
+changed, the Qualifications must be             Although the commenters assert that     voicing this concern felt that the rule
+changed accordingly.                         the Department is impermissibly            should recognize that not all parents
+                                             creating elements of proof, the            would respond to a possible
+   In fact, Congress anticipated that        Qualifications as drafted originally       encephalopathic event by taking the
+changes to the Table would require           contain numerous requirements that are,    child to the hospital.
+similar changes to the Qualifications        in essence, elements of proof. For
+and Aids to Interpretation in order to       example, the paragraph describing the         The revised Qualifications and Aids
+guarantee that the two sections are          requirements for a `residual seizure       to Interpretation are not inconsistent
+consistent. The statute states that ``if a   disorder' states the number of seizures    with section 2113(b) of the Act, because
+provision of the table to which              which must have occurred in the year       the Special Master may still find that a
+paragraph (1), (2), (3), or (4) [the         after the vaccine was administered for     preponderance of the evidence indicates
+paragraphs of the Qualifications and         the petitioner to be found to have         that the encephalopathy was severe
+Aids to Interpretation] applies is revised   suffered a residual seizure disorder. In   enough to require medical intervention
+under subsection (c) or (d), such            addition, section 2114(b)(3)(A) of the     or hospitalization, but that because of
+paragraph shall not apply to such            Act describing the definition of           error or omission the event was either
+provision after the effective date of the    encephalopathy states that                 not recorded or was incorrectly
+revision unless the revision specifies       ``Encephalopathy usually can be            recorded. In addition, under the revised
+that such paragraph is to continue to        documented by slow wave activity on        Qualifications, although medical
+apply.'' (42 U.S.C. 300aa-14(b)(4)).         an electroencephalogram.'' Similarly,      records should be provided in most
+Thus, the Qualifications contained in        the revised Qualifications indicate the    cases, the language ``sufficiently severe''
+the original statute become null and         elements which must be proven to           is meant to be consistent with section
+void once that initial Table is changed,     establish a presumption of causation for   2113(b)(2) of the Act and would permit
+unless the Secretary specifies that they     those injuries and conditions listed in    a finding in favor of petitioner if the
+are to apply. Implicit in this authority     the modified Table.                        Special Master found that a
+is the authority to promulgate by                                                       preponderance of the evidence
+regulation Qualifications applicable to         In objecting to this aspect of the      indicated that the injury was
+the revised Table.                           Qualifications, the commenters assume      sufficiently severe such that medical
+                                             erroneously that the revised               intervention should have been sought.
+                                             Qualifications alter the Special Master's
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7681
+
+   In the Department's view, the original   information be available before the         from various experts and members of
+statute does not intend the Special         Table is revised. The commenters took       the public. The systematic process
+Master to find that the injury occurred     issue with both the conclusions of the      undertaken by the Department to
+within the Table period in the absence      Institute of Medicine and the               evaluate the findings of the IOM
+of any records recording the injury,        Department's interpretation of those        demonstrates that the Department
+unless the petitioner is able to produce    conclusions. Section 312 of Pub. L. 99-     reviewed sufficiently the findings of the
+clear, cogent, and consistent testimony     660 (42 U.S.C. 300aa-1, note) required      IOM and their applicability to the Table.
+to explain the absence of records. The      the Secretary to complete a review of       These findings clearly indicated that the
+Court has found in favor of petitioners     ``all relevant medical and scientific       original Table was out of step with the
+in the absence of corroborating medical     information regarding the connection        state of medical knowledge.
+records where the preponderance of          between various vaccines and specified      Accordingly, the Secretary was obliged
+evidence, including oral testimony,         adverse events.'' The Secretary was then    to propose revisions. Although the
+demonstrates that the adverse event         required to publish in the Federal          IOM's original conclusion was modified
+occurred within the Table timeframe.        Register findings regarding ``whether       somewhat in the 1994 report regarding
+The requirement contained within the        each of the illnesses or conditions set     pertussis vaccine and chronic nervous
+revised Aids to Interpretation is meant     forth in subsection (a) can reasonably be   system damage, the Department has
+to include only those events which are      determined in some circumstances to be      determined that the major changes to
+so serious that they require medical        caused or significantly aggravated by       the Table published in the NPRM reflect
+intervention (whether or not medical        pertussis containing vaccines.'' See 42     the IOM's latest conclusions regarding
+intervention was actually sought), and      U.S.C. 300aa-1, note. Simultaneously,       this difficult issue. Nevertheless, as
+are, therefore, properly referred to as     the statute required that the Secretary     discussed below, the final rule reflects
+encephalopathies. The requirement is        propose changes to the Table as a result    some minor changes made to the
+simply meant to exclude those               of the findings.                            proposed rule in light of the Miller
+conditions which are not serious                                                        study and comments provided to the
+enough to warrant medical attention.           This language indicates that Congress    Department in connection with this
+These types of minor symptoms (e.g.,        intended that the Secretary modify the      study.
+excessive crying, sleepiness) were          Table consistent with the conclusions of
+specifically excluded from the              the review undertaken by the Institute         Two commenters felt that the
+definition of encephalopathy contained      of Medicine. Nowhere is there a             Department had ignored relevant
+within the original statute, but have       requirement, however, that the causal       information in revising the Table.
+been alleged by some petitioners to be      connection between the administration       Specifically, they believed that the
+signs and symptoms of an                    of vaccines and certain adverse events      Department should have viewed the
+encephalopathy. The revised                 be definite and conclusive before any       claims that have either been
+Qualifications and Aids to                  changes are made. The IOM concluded         compensated or conceded by the
+Interpretation simply seek to make clear    that ``the evidence is insufficient to      Department as proof that the
+the intent of Congress.                     indicate a causal relation between          presumptions conferred by the Table are
+                                            vaccines containing pertussis'' and         accurate. However, the fact that a
+   The Department recognizes, however,      certain adverse events. Because the         particular case has either been
+that the language ``should be sufficiently  evidence was determined as                  adjudicated compensable or conceded
+severe,'' is somewhat confusing. In         ``insufficient,'' the Department            by HHS does not imply that a medical
+addition, the Department recognizes         concluded that it could not ``reasonably    conclusion regarding vaccine-
+that the phase ``medical intervention       determine'' that a causal connection        relatedness has been made. The process
+and hospitalization'' is redundant, and     exists, and the Table is being revised      of deciding claims is based on whether
+open to various interpretations.            accordingly.                                the claim fits the parameters of the
+Accordingly, the regulatory language in                                                 Table, or whether causation has been
+§ 100.3(b)(2)(i) as proposed has been          The section of the legislative history   proven. Most claims have been
+revised to read ``An acute                  cited by the commenter in support of        adjudicated ``table cases,'' meaning that
+encephalopathy is one that is               the objection states that ``the Committee   the petitioners were afforded the
+sufficiently severe so as to require        anticipates that the research on vaccine    presumption of causation conferred by
+hospitalization.'' The Department is        injury and vaccine safety now ongoing       the statute. This determination involves
+making this change in the interests of      and mandated by this legislation will       an analysis of various evidentiary and
+clarity, consistent with the explanation    soon provide more definitive                other legal issues, but does not prove or
+articulated above. In order to              information about the incidence of          disprove whether a causal relationship
+demonstrate a Table encephalopathy,         vaccine injury and that, when such          exists in fact between certain vaccines
+the petitioner must prove that the injury   information is available, the Secretary or  and adverse events. The outcome of
+was indeed serious enough to warrant        the Advisory Commission on Childhood        these cases does not have any bearing
+hospitalization, whether or not records     Vaccines (discussed below in section        on whether the Table should be revised
+of such hospitalization exist. Certainly,   2119) may propose to revise the Table       to reflect the findings of the Institute of
+however, contemporaneous medical            as provided below in section 2114.''        Medicine.
+records are of extreme importance in        This statement merely indicates a
+proving that a Table injury occurred.       recognition by Congress that the original      One commenter referred to a letter
+                                            Vaccine Injury Table was overinclusive,     written by the organization Dissatisfied
+The Sufficiency of the IOM Report as the    and that more research would yield          Parents Together on May 8, 1991, to
+Basis for the Changes to the Vaccine        more definitive information. As             then Secretary Sullivan regarding
+Injury Table                                described in the preamble to the            concerns that members of the
+                                            proposed regulation, and consistent         Immunization Practices Advisory
+   Several commenters stated that the       with the statutory requirements, the        Committee (ACIP) who have advised
+Department relied on insufficient data      findings of the Institute of Medicine       pharmaceutical companies, or
+in proposing modifications to the Table.    represented a comprehensive review of       conducted research funded by such
+These commenters argued that Congress       the existing evidence as well as            companies may have a conflict of
+intended that more definitive               numerous opportunities for comment          interest which precludes their serving
+7682 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+on the ACIP. The Department has             determined that one of the goals of the     injury listed on the Table. The fact that
+determined that this comment is             Act was to reduce the number of civil       the proposed revisions received
+irrelevant as far as the modification of    actions filed against vaccine               overwhelming approval from three
+the Table is concerned. In undertaking      administrators and manufacturers. The       independent science and health policy
+its review, the IOM did not rely on the     other major goal was to provide             committees, and the endorsement of two
+views of members of the ACIP or the         compensation to those individuals           national health professionals
+work-product of that Committee.             whose conditions were caused by             associations (American Academy of
+                                            vaccines. See H.R. Rept. 99-908, Part 1,    Pediatrics and American Medical
+The Effect of the Proposed Changes on       September 26, 1986, page 6 (reprinted in    Association), confirms the basic
+the Vaccine Injury Compensation             1986 U.S. Code Cong. & Admin News,          soundness of the initial proposed
+Program                                     Vol. 6, page 6347). The Committee           revisions.
+                                            recognized, however, that the Table
+   Two commenters suggested that the        would possibly provide compensation            One of the commenters addressing the
+result of the proposed revisions would      to some children whose illnesses are not    Miller study suggested that in light of
+be an increase in the transaction costs     vaccine-related, but that further research  the 1994 IOM Report, the Department
+of the Program because many petitioners     and modifications to the Table would        should rescind certain findings made
+will pursue their cases by attempting to    result in a more equitable distribution of  after release of the 1991 Report and
+prove causation-in-fact. The Department     funds. In balancing these two               published in the preamble to the NPRM.
+has taken this concern into                 Congressional goals, the Department has     In the NPRM, published on August 14,
+consideration and has concluded that        determined that the benefits of fulfilling  1992, the Department made certain
+the benefits of the proposed regulation     the latter requirement outweigh the risk    findings as required by section 312(b) of
+outweigh the possibility of more            that an increased number of civil           Pub. L. 99-660 (42 U.S.C. 300aa-1 note).
+protracted and complex hearings. The        actions will be filed against vaccine       The Department has reviewed these
+intent of the regulation is to make the     administrators or manufacturers.            findings again in light of the
+Table consistent with medical                                                           commenter's concerns, and has
+knowledge regarding the relationship           Furthermore, the Department believes     determined that the findings remain
+between vaccines and certain adverse        that the combined effect of the IOM's       valid. In fact, the conclusions of the
+events. The Department notes that           review and this regulatory action may       IOM and the NVAC subcommittee
+Congress recognized that the original       reduce the extent of tort litigation by     (discussed below) with respect to
+Vaccine Injury Table would permit           giving the courts (and potential            pertussis vaccine and chronic
+individuals whose conditions were not       plaintiffs weighing the wisdom of filing    neurological damage confirm the
+related to vaccine administration to be     suit) definitive guidance as to the state   soundness of findings three and four as
+adjudicated eligible for compensation. If   of scientific knowledge regarding           listed in the NPRM. These findings read,
+the Table is revised to permit              vaccine-related injuries. As causation      in pertinent part, as follows:
+compensation only in those cases where      must typically be proven in tort actions,
+vaccine relatedness is more accurately      the Department believes that the               3. The evidence is insufficient to indicate
+proven, greater resources will be           findings on these issues may well           a causal relation between vaccines containing
+available to compensate those truly         reduce the amount of tort litigation and    pertussis and: Epilepsy * * * chronic
+deserving of compensation.                  may allow easier resolution of any such     neurologic damage, * * * learning
+                                            claims that are litigated.                  disabilities and attention-deficient disorder,
+   In a similar vein, several commenters                                                * * * or permanent neurologic damage or
+expressed concern that the Department       II. Medical Issues                          death following hypotonic-hyporesponsive
+was seeking to prevent children                                                         episodes.
+deserving of compensation from              The Department's Interpretation of the
+receiving assistance under the Program.     IOM Report                                     4. The evidence is consistent with a causal
+In fact, exactly the opposite is true. The                                              relation between vaccines containing
+revised Table merely affects the               Six commenters suggested that the        pertussis and? Acute encephalopathy and
+presumption of causation available to       Department's findings are a                 shock and ``unusual shock-like state.''
+certain petitioners. Petitioners will, of   misinterpretation of the IOM Report. In
+course, continue to have the option of      the Department's view, however, the         The recent IOM report was confined to
+proving causation by a preponderance        proposed changes do reflect accurately      a review of the Miller study, and is,
+of evidence if they are unable to prove     the conclusions of the IOM report.          therefore, limited to the circumstances
+a Table injury. Moreover, the                                                           of that particular study. Given the
+Department recognizes that there is a          Both the NPRM and the final rule         conclusions articulated by the IOM and
+desperate need for parents to obtain        (with some revisions are discussed          the accompanying caveats, and the
+resources to cover the significant          below), reflect most closely the package    discussion and conclusions of the
+medical costs of caring for a sick child.   of recommendations as developed by          NVAC subcommittee, the Department
+However, the intent of the VICP was to      the PHS Task Force, reviewed by the         concludes that the findings published
+compensate only those individuals           NVAC, and endorsed by the ACCV. The         with the NPRM reflect best the state of
+whose injuries are vaccine-related. The     proposed changes are in accordance          scientific knowledge. It should be noted
+proposed regulation is simply an            with the scientific findings of the IOM     again that in drafting the revised
+attempt to come closer to realizing this    Committee. In instances where the IOM       Qualifications and Aids to
+goal than was possible with the             found information suggesting a causal       Interpretation, the Department decided
+language of the original Vaccine Injury     relation and continued effects, the         not to eliminate the presumption of
+Table.                                      Department acted to ensure coverage         causation for encephalopathy despite
+                                            under the Program (e.g., adding chronic     the conclusions of the 1991 IOM study.
+   Three commenters suggested that the      arthritis to the Table). However, where     Rather, consistent with the
+proposed regulation would result in an      the IOM found that the evidence did not     recommendation of the ACCV, the
+increased number of civil actions filed     support a causal relation and continued     Department included a presumption of
+against vaccine manufacturers and           effects, the Department removed the         vaccine causation for those individuals
+administrators. In enacting the National    legal presumption of causation by           who experience an acute
+Childhood Vaccine Injury Act, Congress      removing or redefining the current          encephalopathy within 3 days after
+                                                                                        vaccination, who go on to suffer 6
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7683
+
+months of residual effects, and who          causal relation between DTP and                Congress mandated that the IOM
+experience chronic neurological              chronic nervous system dysfunction          review the scientific literature and other
+dysfunction. This presumption is             under any other circumstances.'' See        information on specific adverse
+consistent with the IOM's conclusions        1994 IOM Report, Executive Summary.         consequences of pertussis and rubella
+articulated in its 1994 report.                                                          vaccines. The Committee was composed
+                                                Because section 2111(c) of the Act       entirely of physicians and scientists,
+   Four commenters suggested that the        requires that a Petitioner must show 6      whose task it was to evaluate the
+IOM's causation category of                  months of residentual effects of a Table    literature on adverse events following
+``insufficient evidence'' should not be      injury, a finding of a relation pertussis-  these vaccines. Any ``burden of proof''
+interpreted to mean that DTP vaccine         containing vaccines and acute, but not      standard had to be consistent with the
+does not cause the condition.                chronically, does not justify the           standard applied throughout the science
+Furthermore, they suggest that both the      presumption of causation for long-term      of epidemiology, policy considerations
+IOM and the Department present no            neurologic damage. However, should          notwithstanding. It is the Secretary's
+data which support the proposition that      the evidence show that abnormal             responsibility under section 312 of Pub.
+acute encephalopathy, subsequent to the      neurologic signs continued beyond the       L. 99-660 (42 U.S.C. 300aa-1, note) to
+receipt of a pertussis vaccine, has a        acute state, and therefore the injured      utilize the IOM's conclusions to provide
+more benign neurological outcome than        indidivual never returned to a ``normal     a better scientific rationale for any
+acute encephalopathies from other            neurological state,'' than title may be     presumptions of vaccine causation
+agents. The Department has considered        granted. This conclusion is consistent      under the Program.
+these comments but maintains that the        with the 1994 IOM report.
+IOM report provides a foundational                                                          Moreover, although the statute
+basis for the proposed changes.                 The language of section 312 of Pub. L.   requires merely a ``preponderance of the
+                                             99-660 (42 U.S.C. 300aa-1, note) also       evidence'' standard in evaluating
+   The 1991 IOM report concluded the         supports the Department's conclusion.       compensation claims, there is no
+evidence was insufficient to indicate a      The IOM determined in its 1991 report       requirement that anything other than
+causal relationship between vaccines         that the evidence is insufficient to        the standard commonly used among
+containing pertussis and chronic             support a conclusion that a causal          scientific and medical professionals be
+neurological damage for a variety of         relationship between DTP vaccine and        applied in re-defining those conditions
+conditions including encephalopthy,          chronic neurologic damage exists. The       which will receive a presumption of
+shock collapse or Hypotonic-                 1994 IOM finding was limited to the         causation by use of the Table. The
+Hyporesponsive Episode (HHE),                conditions described in the NCES and to     preponderance of evidence standard is
+epilepsy, and other neurologic and non-      those children who experienced an           only relevant when a Master is
+neurologic disorders. Comments that          acute event following vaccination.          evaluating a particular case.
+expressed concern over this                  Therefore, the Department concluded
+classification focused for the most part     that it could not ``reasonably determine''     One commenter suggested that the
+on acute encephalopathy and chronic          that as a general rule a causal             IOM conclusions were incorrect
+neurologic damage, while a few               relationship exists, and the Table is       regarding DTP's pathological effects in
+discussed shock-collapse (HHE) or            being modified accordingly. Because         animals or children. The commenter
+recurrent seizures (epilepsy). The issue     section 312 requires such a                 stated that the IOM erred in diminishing
+of encephalopathy following pertussis        determination in order to sustain the       the importance of, or incorrectly judged,
+vaccination is a difficult one. On one       presumption of causation, the               the conclusions of controlled
+hand, in its 1991 Report, the TOM            Department was obligated to revise the      epidemiologic studies. Furthermore, the
+found evidence ``consistent with a           Table consistent with the conclusions of    commenter suggested that the IOM
+familiar evidence ``consistent with a        the IOM.                                    Committee was remiss in its
+causal relation'' for acute                                                              examination of the evidence concerning
+encephalopathy, yet on the other hand,          The removal of the legal presumption     long-term sequelae for HHE. Finally,
+it decided there was ``insufficient          of causation has been applied to other      two commenters criticized the IOM
+evidence'' regarding chronic nuerologic      conditions in the ``insufficient            because no original research was done
+damage. Due to limitations in the data,      evidence'' category (i.e., HHE and          in putting together its conclusions. As
+the IOM could not conclude with any          residual seizure disorder). The             stated above, the Department has
+certainty whether there is any causal        Department notes, however, that the         considered these comments, but has
+relationship between pertussis vaccine       removal of a condition from the Table,      determined that the process used by the
+and shock-collapse (HHE), epilepsy, or       or the inclusion of a revised definition    IOM was appropriate.
+any of the other disorders under this        thereof, will not necessarily result in
+classification category. In its 1994 report  compensation being denied where it             The 1991 IOM Committee was made
+addressing the Miller study, the IOM         would have previously been awarded.         up of 11 experts in infectious disease,
+concluded that ``evidence is insufficient    Petitioners may still prevail by            pediatrics, internal medicine,
+to indicate whether or not DTP               providing proof that the vaccine            neurology, epidemiology, biostatistics,
+increases the overall risk in shildren of    actually caused the specific injury         decision analysis, immunology and
+chronic nervous system dysfunction.''        alleged to have occurred.                   public health. During the 20 months of
+They concluded further, that the                                                         their work, approximately 1,400
+``balance of evidence is consistent with        Three commenters suggested that the      citations were reviewed and 5 public
+a causal relation between DTP and the        IOM's burden of proof standard was too      meetings were held. No new research
+forms of chronic nervous system              high. They suggested that the IOM           was conducted. Committee members
+dysfunction described in the NCES in         should develop a confidence level that      considered new or controversial data
+those children who experienced a             is more lenient than 95 percent,            and various points of view and sought
+serious acute neurological illness within    particularly when it is applied to the      to identify gaps in knowledge. The IOM
+7 days after vaccine administration.''       ``preponderance of the evidence''           cited many gaps and limitations of
+The IOM also concluded, however, that        burden of proof standards present in the    knowledge. Its conclusions were
+``the evidence remains insufficient to       VICP. After consideration of the process    reached, however, after an exhaustive
+indicate the presence or absence of a        used by the IOM in developing its           analysis of the best epidemiologic data
+                                             report, it is the Department's view that    available, and other information.
+                                             the IOM's standard was appropriate.
+7684 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+Congress did not mandate any specific         The NCES' conclusion regarding             also that the working definition of
+research, but rather, an extensive review  permanent neurologic damage was               ``acute neurologic illness'' used in the
+of all the available information on        viewed differently by the 1991 IOM            NCES is not consistent with the current
+adverse events.                            Committee. The Committee described            medical understanding of acute
+                                           concerns over (1) the number and              encephalopathy as an acute, generalized
+   One commenter suggested the IOM         composition of cases on which the             disorder of the brain. Children were
+incorrectly judged the conclusions of      estimates were based and (2) the nature       placed in the NCES case definition who
+the British National Childhood             of the relationship between an episode        experienced only febrile seizures, a
+Encephalopathy Study (NCES). Another       of acute neurologic illness and               benign condition known to be triggered
+commenter stated that the NCES is the      subsequent demonstration of neurologic        by DTP vaccine, yet never proven to
+only ``suitable'' study that has been      or developmental abnormalities. Both          have lasting effects, absent signs of
+done, and that it concluded that there     concerns cast doubt upon the NCES'            acute encephalopathy. These limitations
+was a causal relationship between the      conclusion that DTP vaccine causes            disallow definitive causal conclusions
+DTP vaccine and permanent neurologic       residual neurologic injury.                   that would necessitate changes to the
+injuries. One commenter also suggested                                                   Secretary's definition of encephalopathy
+that the NCES proved the onset of a           The conclusion regarding permanent         in the NPRM.
+neurologic disorder, including seizures,   injury was based on seven children who
+within 7 days of a DTP vaccination is      were found to have residual neurologic           In reviewing the Miller study, the
+vaccine-related. The Department has        illness on follow-up. Since the NCES          IOM Committee reached three
+reviewed the conclusions of the NCES       was published, some of these seven            conclusions:
+in light of these comments, but            children have been diagnosed with non-
+disagrees for the following reasons.       vaccine related conditions. Thus, the            (a) The evidence is insufficient to
+                                           risk estimates are ``very fragile'' at best,  indicate whether or not DTP increases
+   The 1991 IOM Report considered          since the number of children with new         the overall risk in children of chronic
+carefully the results of the NCES, which   unexplained neurologic illness was very       nervous system dysfunction.
+concluded there is an increased risk of    small. (IOM Report, page 106).
+acute neurologic illness                                                                    (b) The balance of evidence is
+(encephalopathy and seizures) within 7        Similarly, the NCES' conclusions on        consistent with a causal relation
+days following DTP immunization, and       residual effects begs the central question    between DTP and the forms of chronic
+that in some instances, this may lead to   of causation. All seven children found        nervous system dysfunction described
+permanent neurologic illness. The          to have ``permanent neurologic illness''      in the NCES in those children who
+methods and results of the NCES have       on follow-up were presumed to be              experienced a serious acute neurologic
+been thoroughly analyzed since             normal prior to vaccination. However,         illness within 7 days after vaccine.
+publication of the study, which has led    no baseline neurologic examination was
+to continued controversy about the         performed on any of these children.              (c) The evidence remains insufficient
+study's findings and a reassessment of     Additionally, two of the seven had            to indicate the presence or absence of a
+the role of pertussis vaccine as a cause   seizures as their manifestation of acute      causal relation between DTP and
+of permanent neurologic damage. (IOM       neurologic illness within 7 days of DTP       chronic nervous system dysfunction
+Report, page 99-107)                       vaccination. As the IOM noted, many           under any other circumstances.
+                                           experts question whether seizures alone
+   In its 1991 report, the IOM described   cause neurologic illness, or rather are          After extensive review and
+potential areas of error and bias          the ``markers'' of those children with        discussion, the NVAC subcommittee
+regarding the study's conclusions on       pre-existing neurologic disease. (IOM         agreed with the IOM's conclusion that
+acute neurologic illness and chronic       Report, page 107).                            children who experience serious, acute
+neurologic damage. Regarding acute                                                       neurological events after DTP
+neurologic illness, the Committee cited       As explained above, a follow-up study      vaccination can go on to exhibit
+three areas of potential study weakness:   to the NCES was published by Miller, et       ``chronic nervous system dysfunction.''
+case ascertainment, determination of the   al. in the fall of 1993. The Department       The NVAC subcommittee concluded
+onset of illness, and the lack of control  asked the IOM to look at the Miller           that despite the conclusions of the
+for potential confounding factors.         study's conclusions regarding DTP             Miller study, the information remains
+Despite these limiting factors, the IOM    vaccine and subsequent neurological           insufficient to accept or reject whether
+believed that the NCES demonstrated        damage. The Department then asked a           DTP administration prior to the acute,
+statistical significance for acute         subcommittee of the National Vaccine          serious neurologic event influenced the
+neurologic illness where onset is within   Advisory Committee (NVAC) to review           likelihood of neurologic dysfunction. In
+7 days of DTP vaccination. Their           this later IOM report, as well as the         order to avoid any confusion on this
+conclusion was based on the fact that      Miller study. The NVAC Subcommittee           point, the Subcommittee approved the
+only controlled epidemiological studies    acknowledged the original NCES (and           following summary statement:
+can address the relationship between       Miller follow-up) as the most
+neurologic illness and vaccine             comprehensive long-term study on this            Children immunized with whole-cell DTP
+causation. Of the four controlled studies  subject to date, yet noted there are          vaccines rarely experience acute, serious
+reviewed (including the NCES), only the    limitations in the data. These include        neurologic events that require
+NCES demonstrated a statistically          the lack of neuropathologic studies on        hospitalization. An important question
+significant risk following DTP vaccine.    case children, the fact that young infants    pertains to the long-term complications of
+However, the IOM noted that the ``total    with pre-existing neurologic disorders        these events. Among all children
+number of cases reported in the other      (damage) can be normal on physical            hospitalized with serious neurologic events,
+three studies was consistent with          examination at the time of                    irrespective of their etiology or relationship
+attributable risk found in the NCES,''     immunization, the failure to exclude          to DTP, there is a potential for the presence
+and on this basis concluded the            alternative etiologic diagnoses, and the      of neurologic dysfunction when they are
+evidence was consistent with a causal      non-specific range of disorders               evaluated 10 years later. However, the data
+relation between DTP vaccine and acute     classified by NCES authors under the          are insufficient to accept or reject whether
+encephalopathy. (IOM Report, page 117)     rubric ``chronic nervous system               DTP administration prior to the acute,
+                                           dysfunction.'' The subcommittee noted         serious neurologic event influenced the
+                                                                                         potential for neurologic dysfunction. See
+                                                                                         National Vaccine Advisory Committee
+                                                                                         (NVAC), Report of the Ad Hoc Subcommittee
+                                                                                         on Childhood Vaccines, p.7.
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7685
+
+   The Agency has reviewed carefully          the only systematic study of chronic nervous     the NVAC subcommittee, the
+the IOM's conclusions and the NVAC            system dysfunctions after DTP, the               Department has decided to accept the
+subcommittee's evaluation of the IOM          committee can only comment on the causal         conclusions of the NVAC subcommittee.
+report, recognizing that questions will       relation between DPT and those chronic           Accordingly, the 3 day timeframe, as
+continue regarding DTP vaccine and            nervous system dysfunctions under the            originally determined by Congress, will
+chronic nervous system dysfunction. In        conditions studied by the NCES. In               not be changed. Petitioners may seek to
+addition, the Agency has considered           particular, it should be noted that the chronic  prove causation in fact for conditions
+comments provided by three                    nervous system dysfunctions associated with      arising between 3 and 7 days after
+individuals in response to the March 24,      DTP followed a serious acute neurologic          vaccination and may, of course,
+1994 Federal Register Notice. These           illness that occurred in children within 7       introduce the Miller study and the IOM
+commenters suggested that the                 days after receiving DPT. 1994 IOM Report at     report as evidence bearing on such an
+Department should retract some of the         page 11.                                         argument.
+changes to the Vaccine Injury Table
+proposed in 1992, arguing that those          Neither the IOM report nor the Miller               One commenter suggested that the
+changes are not inconsistent with the         study addressed the scenario where a             1991 IOM report contradicts an earlier
+1994 IOM report. The Agency has               child would experience an acute                  1985 IOM report which gave risk
+determined that despite the uncertainty       encephalopathy within several days               estimates for reactions following whole
+regarding causation, the final rule is        following vaccine administration,                cell pertussis vaccination, and stated
+consistent with both the IOM report and       would return to a normal neurological            that pertussis vaccine causes permanent
+the NVAC subcommittee's conclusions           state, but at some point in the future           neurologic damage.
+regarding the Miller study. The final         would exhibit signs of chronic
+rule permits an individual to receive a       neurological dysfunction. The most                  The 1985 IOM Report focused on
+presumption of causation if the DTP           recent report by the IOM does not                building a model to help evaluate the
+vaccine recipient ``manifests, within the     present any information which warrants           risks and benefits for existing and new
+applicable period, an injury meeting the      a modification of the presumptions in            vaccines to allow informed judgments
+description * * * of an acute                 the final rule. Therefore, the final rule        on priorities for developing new
+encephalopathy, and then a chronic            is consistent with the IOM's conclusions         vaccines. In drafting their conclusions,
+encephalopathy persists in such person        and the NVAC subcommittee's                      the 1985 group used informed
+for more than six months beyond the           assessment of those conclusions.                 judgments on vaccine risks, and the
+date of vaccination.'' See § 100.3(b)(2).                                                      financial benefits of reducing disease.
+Thus, the final rule is consistent with          The NVAC subcommittee was also                Because of the larger number of
+the IOM's conclusion that some                asked to look at whether the evidence as         vaccines studied in the 1985 report, the
+children have been shown to have              described in the IOM report would                review of the scientific literature on
+experienced an acute encephalopathy           support a conclusion that the time               specific adverse events in this report
+following vaccine administration and          period in the vaccine injury table for           was far less extensive than that in the
+then have gone on to develop chronic          acute encephalopathy following DTP               1991 report.
+neurologic dysfunction. See 1994 IOM          vaccine should be changed from 3 to 7
+Report, Executive Summary.                    days. The subcommittee concluded that            Analysis of Other Data
+                                              there is presently insufficient
+   The only circumstances under which         information to justify such a change.               Before any changes should be made to
+a presumption of causation would not          The Department has reviewed the                  the Table, four commenters suggested
+be available to an individual with            conclusions of the IOM report as well as         that the Vaccine Adverse Events
+chronic neurological dysfunction would        those of the NVAC subcommittee and               Reporting System (VAERS) data and/or
+be (1) where the child had not                has determined that the rule should not          Vaccine Injury Compensation Program
+experienced an acute encephalopathy           be modified. In this regard, the                 records should be examined and
+within several days after DTP                 Department recognizes that it is                 analyzed. VAERS is a passive reporting
+vaccination, or (2) where the child           accepting the analysis of the NVAC               system which relies in large part on
+experienced an acute encephalopathy           subcommittee, rather than acting solely          reports of events temporally related to
+within several days of DTP vaccination,       on the basis of this particular statement        vaccine administration. Therefore, no
+but returned to a normal neurological         from the 1994 IOM report. However, it            reliable conclusions about causation
+state, and did not suffer 6 months of         is important to note that the 1991 IOM           could be drawn from the reported
+residual effects after the administration     report, which included a review of               VAERS data without its undergoing
+of the vaccine.                               numerous scientific studies and other            substantial analysis. While the
+                                              medical literature, did not draw any             Department recognizes the importance
+   The denial of a presumption of             conclusions regarding the appropriate            of VAERS, it is unwilling to overstate its
+causation for the former is consistent        time period.                                     importance by using temporal
+with the IOM's conclusions as                                                                  relationships to define a new Table.
+articulated in both its 1991 and 1994            In preparing the latest report, the IOM
+reports. The IOM did not conclude that        confined its analysis to the Miller study,          Further, the IOM's section 312 study
+chronic neurological dysfunction              which was a follow-up to the original            involved a thorough review of scientific
+should be presumed to be caused by            NCES. Given the limitations of the               and medical information contained in
+DTP vaccine in the absence of an acute        IOM's conclusions, including the lack of         peer reviewed journals. However,
+encephalopathy that occurs within             primary data analysis, as well as the            information based on anecdotal reports
+several days following vaccination. See       methodologic limitations that have been          (e.g., VAERS), or a series of case reports,
+1994 IOM Report at page 10. The IOM           noted with regard to the NCES, the               such as claims filed under the VICP, has
+stated the following:                         NVAC subcommittee determined that                less certain scientific reliability, and
+                                              the conclusions of the Miller study with         therefore should also not be used as a
+   The evidence remains insufficient to       respect to the appropriate timeframe             basis for revising the Table. Because of
+indicate the presence or absence of a causal  could not be extended beyond the                 the limitations of these types of
+relation between DTP and chronic nervous      parameters of this one particular study.         evidence, the Department does not
+system dysfunction under any other            After careful consideration, and                 concur with this suggested approach.
+circumstances. That is, because the NCES is   recognizing the extensive expertise of
+                                                                                                  The ACCV's Scientific Review
+                                                                                               Subcommittee reviews cumulative data
+7686 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+collected through the VAERS system at      that the Secretary arrange with the IOM         One commenter noted that the IOM
+each quarterly meeting. In December        for an additional broad study of the         Committee did not address the
+1992, the Subcommittee wrote the           risks associated with each vaccine set       timeframe within which to expect
+following concerning: ``VAERS as a         forth in the Table, other than the           anaphylaxis. The commenter suggested
+means of surveillance of temporally-       vaccines (pertussis and rubella)             further that the Department should have
+related adverse events, has definite       previously identified in the section 312     taken into account the fact that infants
+limitations and does not allow the         study discussed above. The IOM section       react differently than children and
+evaluation of possible causal              313 study, entitled ``Adverse Events         adults.
+relationships between vaccine              Associated with Childhood Vaccines:
+administration and adverse events.''       Evidence Bearing on Causality,'' was            Although it is true that infants may
+VAERS's data potentially serve as a        released on September 14, 1993. The          react differently to illness or
+``signal'' of possible causal              study covers adverse events following        medications, the pediatric literature is
+relationships, which can then be           these commonly-administered vaccines:        clear in stating that severe anaphylactic
+investigated through what are termed       measles, mumps, diphtheria, tetanus,         reactions occur immediately with
+Large Linked Data Bases (LLDB's). The      polio, Hemophilus influenza type b, and      antigen exposure and rarely show their
+Subcommittee encouraged increased          Hepatitis B.                                 first manifestation after 4 hours.
+utilization of LLDB data because of its
+potential for surveillance of adverse         On March 15, 1994, a subcommittee            One commenter suggested that the
+events and their possible causal           of the NVAC met to consider the section      proposed revision for DTP, MMR and
+relationship to vaccine administration.    313 report. The subcommittee was             Polio fail to allow for delayed
+                                           composed of members of the NVAC and          hypersensitivity.
+   The Department will monitor future      received testimony from outside experts
+analysis of VAERS and LLDB data.           in the fields of epidemiology, pediatric        The medical literature supports the
+Should information suggest                 infectious disease, and pediatric            conclusion that the more severe
+modifications to the Table, the            neurology. The Department determined         anaphylactic reactions occur closer in
+Department will publish a new NPRM         that the conclusions of the                  time to the antigen exposure. An
+reflecting this new information with       subcommittee regarding the section 313       anaphylactic reaction that shows its first
+proposals for change.                      report do not provide a basis for            manifestation greater than 4 hours after
+                                           changing the final rule at this time.        antigen exposure is likely to be a mild
+   One commenter suggested that the        However, the Department is presently         reaction and thus very unlikely to lead
+Department ignored cases in the            reviewing the conclusions of the NVAC        to any permanent injury or sequelae. If
+medical literature (and VICP case files)   subcommittee regarding the section 313       a petitioner is injured by a delayed
+that show a pattern of increasingly        report. It is likely that after this review  hypersensitivity reaction, compensation
+severe reactions after succeeding DTP      the Department will initiate further         still can be awarded if causation in fact
+shots in the same child. The commenter     rulemaking proceedings. The                  is proven.
+argued that the IOM Report indicated it    Department has concluded, however,
+would tend to support the hypothesis of    that there are no compelling reasons            One commenter suggested that the
+a causal link between pertussis vaccine    which would justify delaying the             changes do not allow for hypoxia,
+and permanent neurologic damage if         promulgation of the final rule pending       ischemia, or hypoxia/ischemia, which
+case histories show such a pattern.        completion of that review.                   are common complications of
+                                                                                        anaphylaxis and anaphylactoid shock.
+   In its analysis, the IOM reviewed case  Anaphylaxis                                  However, the proposed Table allows for
+reports and case series along with                                                      any sequela whose first sign or clinical
+controlled epidemiologic studies. It is       One commenter suggested that the          manifestation falls within Table
+true that the IOM suggested that the       examples of anaphylaxis given by the         guidelines, as long as the sequela is
+increasing severity of a reaction          IOM do not provide a basis for the           caused by the Table injury.
+following immunization in the same         proposed revisions.
+individual might indicate a causal link                                                 Encephalopathy
+to the vaccine. The Department did not        The IOM examined case reports and
+view this hypothesis as strong enough to   epidemiologic studies concerning                Much of the discussion of comments
+warrant a presumption of causation. The    anaphylaxis and anaphylactic shock.          related to ``encephalopathy'' is set forth
+results of the 1994 IOM Report have not    There was considerable variability in        above under the heading ``The
+changed this conclusion. However, any      the onset and clinical signs of what was     Department's Interpretation of the IOM
+petitioner who can demonstrate             defined as ``anaphylaxis.'' One              Report.'' Set forth below are the
+evidence of progressive or repetitive      ``suspected association'' with pertussis     remaining issues regarding
+adverse effects following vaccination      vaccine was a case report of twins from      encephalopathy.
+may be eligible for compensation by        1946, both of whom died within 24
+proving causation in fact.                 hours of pertussis vaccination (IOM             One commenter suggested that the
+                                           Report, page 146). Forensic examination      initial sentence under the definition of
+   Three commenters suggested there        confirmed tissue evidence of                 ``encephalopathy'' which states, ``[t]he
+should be no changes to the Table          anaphylaxis. However, both exhibited         term encephalopathy means any acute
+before the section 313 study (of other     clinical signs within 4 hours of             or chronic significant acquired
+vaccine risks) is completed. One           vaccination. Other than the 1946 case        abnormality of, or injury to, or
+commenter suggested specifically that      reports, none of the other examples of       impairment of function of the brain,'' is
+changes to the timeframe under             ``anaphylaxis'' cited by the IOM, that       too vague and seems to contradict the
+Residual Seizure Disorder are not          began after 4 hours of vaccination, was      more specific definitions which follow
+appropriate before results of the section  associated with permanent injury.            the proposed subparagraphs (i) and (ii).
+313 study have been published.             Again, Petitioners may receive
+                                           compensation under the Program if they          The Department had proposed to
+   In publishing the final rule, the       prove their injury was caused by the         retain the language of the original Aids
+Department has considered the effect of    vaccination, even if the onset was after     to Interpretation to serve as an
+the section 313 study. Section 313 of      the 4 hours specified in the Table.          introduction to the definition of
+The National Childhood Vaccine Injury                                                   encephalopathy. The Department agrees
+Act of 1986, Pub. L. 99-660, mandated                                                   that it is imprecise, and that it tends to
+                                                                                        differ from the guidance provided in the
+                                                                                        definitions for acute and chronic
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7687
+
+encephalopathy which immediately            encephalopathy for purposes of making        a significantly altered mental state or
+follow. Accordingly, the proposed           changes to the Aids to Interpretation.       decreased level of consciousness. It is
+language in § 100.3(b)(2) has been          Following its approval by the ACCV,          the child's overall condition which
+revised to clarify the definitions for      additional clarifications were needed to     must persist for 24 hours, rather than
+acute and chronic encephalopathy.           define better clinical signs in the pre-     any one particular seizure.
+                                            verbal (less than 24-month) age group,
+   Comments concerning the criteria for     and identify correctly infants or               One of the ACCV members questioned
+the diagnosis of acute encephalopathy       children who may be experiencing             the Department's decision to use 24
+(paragraphs (b)(2)(i) (A) and (B)) were     temporary medication effects, rather         hours, rather than some other period, as
+offered by three individuals. One           than true signs of encephalopathy. The       the appropriate time period under the
+commenter suggested that the criteria       Department appreciates that the criteria     definition of acute encephalopathy. The
+for the diagnosis in the less than 24-      are viewed by some as overly                 Department decided to use 24 hours
+month-old age group were too narrow         burdensome. Any clarifications to the        because this was the marker used in the
+and restrictive. All three commenters       definition were for the sole purpose of      multi-center study cited above which
+felt there were clinical inconsistencies    allowing non-physicians to identify          established the criteria used by the
+in the specific criteria. One commenter     correctly infants or children with           Department in drafting the definition of
+felt it was an unwarranted burden to        clinical signs of encephalopathy.            encephalopathy. See Fenichel, et al. The
+require two out of three criteria in order  However, the ACCV during its June            choice of this time period is also
+to satisfy the definition of acute          1994 meeting suggested that some             consistent with the way in which
+encephalopathy (for children 24 months      modifications be made to the age criteria    medical professionals gauge and
+of age or older). Some members of the       to reflect the fact that some children       document clinical changes over time.
+ACCV felt that the definition of acute      under 24 months have more advanced
+encephalopathy for children over 24         verbal skills. The Department agrees            One commenter suggested there is not
+months implies that a seizure must last     with this suggestion and has, therefore,     a clear distinction between acute and
+24 hours to be within the definition.       changed the age marker from 24 to 18         chronic encephalopathy. In response to
+One commenter suggested the definition      months for purposes of distinguishing        this comment, the Department has
+was unlike any other employed in            between preverbal and verbal children.       added additional language in the final
+medicine or science. The Department         § 100.3(b)(2)(i).                            rule for clarification. For example, the
+has considered carefully the concerns                                                    Department revised the introductory
+regarding the definition of                    Additionally, the Department agrees       language of § 100.3(b)(2) to make clear
+encephalopathy and offers the following     that the term ``stupor'' is imprecise and    that an individual may be found to have
+responses.                                  somewhat restrictive, and has therefore      suffered an encephalopathy only if
+                                            decided to specify the clinical signs        ``such recipient manifests, within the
+   The current Qualifications and Aids      reflective of an acute encephalopathy        applicable time period, an injury
+to Interpretation do not reflect precisely  and delete the terms ``stupor and coma.''    meeting the description below of an
+medical knowledge of the condition          Acknowledging the difficulty of              acute encephalopathy, and then a
+``encephalopathy.'' Many medical            defining ``encephalopathy,'' the             change in mental or neurological status
+experts testifying in proceedings under     Department has focused on clinical           persists in such person for more than 6
+the VICP have stated the definition is      criteria that clearly distinguish infants    months beyond the date of vaccination.''
+too vague and needs clarification. The      and children with brain dysfunction          In addition, the Department added
+term ``encephalopathy'' refers generally    from those with transient ``lethargy.''      similar language to § 100.3(b)(2)(ii) to
+to a disturbance of brain function.         The diminished alertness and motor           clarify the meaning of chronic
+Clinical definitions vary, as do opinions   activity, which characterize the             encephalopathy.
+on the relationship between                 lethargic infant or child, are frequently
+encephalopathy and seizures. After          observed as the physiological response          Two commenters suggested that the
+several pages of discussion, the IOM        to fever, infection or other acute illness.  term ``neurologically normal'' may be
+finally defined it as ``encephalopathy,     The severity and duration of the             inappropriate because children ``who
+encephalitis, or encephalomyelitis.''       behavioral changes differentiate mere        return to a normal neurological state
+Unfortunately, this definition is           lethargy from the more serious               after an acute encephalopathy,'' but
+clinically imprecise, and in part           impairment of consciousness that is the      later develop signs of a chronic
+circular. While it may serve to evaluate    hallmark of encephalopathy (i.e.,            encephalopathy, may easily be
+studies on neurologic disease, it does      obtundation, stupor and coma). To            misdiagnosed as normal during this
+not impart guidance to physicians or        provide the clearest guidance to             time period. Two commenters
+attorneys on the specific clinical signs    petitioners' attorneys and the Court, the    questioned whether the definition
+of a child or adult with encephalopathy.    Department has added a new paragraph         ``neurologically normal'' should be
+                                            (b)(2)(i)(D) to the section to identify      based on various testing criteria (e.g., CT
+   In an effort to define encephalopathy    specific clinical signs constituting ``a     or MRI scans, electroencephalogram
+better, the Department used the             significantly decreased level of             (EEG), or lumbar puncture). The
+definition approved by the ACCV in          consciousness.''                             Department has considered these
+1991. The basic criteria were taken from                                                 comments and has revised the first
+a peer-reviewed multi-center study             As to concerns articulated by             sentence in paragraph (b)(2)(ii) for
+assessing adverse events following          members of the ACCV during the June          clarification.
+immunization in all age groups.             1-2, 1994 meeting, the Department did
+(Fenichel GM., Lane DA, Livengood JR,       not intend, in listing the signs for            It is expected that any child or adult
+Horwitz SJ, Menkes JH, Schwartz JF.         identifying acute encephalopathy in          with a chronic encephalopathy as a
+Adverse events following                    children older than 24 months, that a        result of a vaccine-related acute
+immunization: Assessing probability of      ``seizure associated with loss of            encephalopathy would show evidence
+causation. Pediat Neurol 1989; 5:287-       consciousness'' persist for 24 hours.        of abnormalities in mental or
+290) One of its authors, a pediatric        Rather, the Department intends that in       neurological status in the days to weeks
+neurologist and former ACCV Chairman,       order to be experiencing an acute            following the vaccination. In the case of
+proposed that the Commission use the        encephalopathy a child must experience       an infant or child, these would be seen
+criteria as the basic framework to define                                                as a loss or slowing of developmental
+                                                                                         milestones during this time period
+7688 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+following the acute event. Because          conclusive evidence of                         The final rule reflects the concern
+testing criteria and the interpretation of  encephalopathy.'' 42 U.S.C. 300aa-          articulated by the Academy. The revised
+results may vary with age group and         14(b)(3)(A). The language in the statute    Table confers a presumption of
+medical condition, no additional criteria   has been interpreted in many different      causation on those individuals who
+are suggested for the diagnosis of          ways by the Special Masters and has led     suffer an acute encephalopathy within 3
+chronic encephalopathy. The                 to results in some cases which the          days after vaccine administration, and
+Department agrees, however, that the        Department believes are inconsistent        who then go on to exhibit 6 months of
+Aids to Interpretation should contain a     with the medical and scientific             residual effects, followed by chronic
+clear distinction between acute and         literature on this topic. The medical       neurological dysfunction.
+chronic encephalopathy. As explained        evidence indicates that certain
+above, additional language has been         symptoms do not conclusively establish         The other three comments are
+added in the final rule for clarification.  an encephalopathy, but instead are          discussed, where relevant, under the
+                                            merely symptoms that are compatible         heading ``The Department's
+   Members of the ACCV suggested the        with an encephalopathy. Nevertheless,       Interpretation of the IOM Report.''
+phrase ``return to a normal neurological    in order to take account of the concerns
+state'' was too vague, and failed to        of the ACCV, the Department has             Hypotonic-Hyporesponsive Episode
+specify the methods to be used for          changed the underlined language above       (HHE)
+gauging a ``normal neurological state.''    to ``do not demonstrate.''
+These members also suggested that there                                                    One commenter supported the
+might not be any evidence in the               One commenter suggested that DTP         removal of hypotonic-hyporesponsive
+medical records to document this fact.      may aggravate pre-existing genetic or       episode (HHE) from the original Table
+The Department has considered this          congenital conditions, and for that         as proposed by stating that HHE has no
+suggestion, but has determined that the     matter, other acquired conditions.          long-term effects and does not lead to
+language in the definition of chronic                                                   death; the remaining commenters were
+encephalopathy need not be changed. It         The Department is aware that, in rare    critical of the change. One commenter
+is the Department's intent that if all      instances, a vaccine may alter the          pointed out that HHE is a heterogeneous
+other parts of the definition are           clinical course of a pre-existing           term, which includes features of HHE
+satisfied, the presumption remains          condition. Under section 2111(c)(1)(C)      and anaphylaxis. It also includes a
+intact unless there is affirmative          of the Act, ``significant aggravation'' of  subset of children with ``unusual shock-
+evidence that the child returned to a       a pre-existing condition may establish      like states'' who have a ``lot-dependent,
+normal neurological state; such             eligibility for compensation provided       bimodal, or other form of onset.'' It was
+evidence could consist of documented        the Petitioner is able to demonstrate that  suggested that the Department should
+subjective descriptions of the child's      a Table injury occurred and that the        give the benefit of doubt in terms of
+behavior and development and/or             prior condition was significantly           causation to this group. One commenter
+objective findings on physical              aggravated during the Table timeframe,      suggested features of collapse are life-
+examinations performed by physicians        or is able to demonstrate proof of          threatening. The Department responds
+in the post-immunization period. Thus,      causation in fact.                          as follows.
+in those cases where this issue is
+unclear, or not documented, the                In considering the comment, the             Although HHE is not well understood,
+presumption would be that a child           Department realized that there could be     there are consistent, albeit rare, clinical
+whose acute encephalopathy was              confusion regarding the issue of            signs reported to occur transiently
+followed by signs of a persistent           significant aggravation of pre-existing     following DTP immunization. The onset
+neurologic deficit did not return to a      conditions. Accordingly, the                in young infants is usually within 12
+normal neurological state.                  Department decided to eliminate the         hours following pertussis
+                                            proposed § 100.3(b)(2)(v). Because the      immunization. Clinical features include
+   During the June 1-2, 1994 meeting,       statute includes a definition of            pallor, fever, and decreased activity and
+members of the ACCV also suggested          ``significant aggravation,'' it is          responsiveness. Although these infants
+that parts of the definition of             unnecessary for this term to be defined     may have a significantly decreased
+encephalopathy in the Qualifications        in the final rule. See 42 U.S.C. 300aa-     activity level and ``shock-like''
+and Aids to Interpretation as published     33; section 2133 of Act.                    appearance, actual loss of consciousness
+in the NPRM were too restrictive.                                                       and hypotension (shock) have not been
+Specifically, they took issue with the         As noted above, the Department           demonstrated to occur. Disorders such
+underlined phrase of the introductory       received five comments in response to       as anaphylaxis should easily be
+language of § 100.3(b)(2)(i)(D), which      the March 24, 1994, Federal Register        distinguishable from shock-collapse or
+states that ``[t]he following clinical      notice soliciting comments regarding        HHE because of the clearly defined
+features alone, or in combination, do not   the 1994 IOM report. Two comments,          physiologic changes known to occur
+qualify as evidence of an acute             one submitted by the American               with anaphylaxis, which do not occur in
+encephalopathy or a significant change      Academy of Pediatrics, and the other by     HHE. See 1991 IOM Report, 171-186;
+in either mental status or level of         a vaccine manufacturer, expressed           Cody CL, Baraff LJ, Cherry JD, March
+consciousness as described above            support for the revised Vaccine Injury      SM, Manclark CR. 1981. Nature and
+* * *.'' The Department agrees with the     Table as presented in the NPRM. The         rates of adverse reactions associated
+commenters and notes that this              commenters stated that further revisions    with DTP and DT immunizations in
+language did not reflect accurately the     to the proposed Vaccine Injury Table are    infants and children. Pediatrics 68:650-
+Department's intent. The point of this      not warranted based on the conclusions      660.
+language as written in the NPRM was         of the latest IOM review. The Academy
+further to clarify the language as written  of Pediatrics did suggest, however, that       The 1991 IOM report found evidence
+in the NPRM was further to clarify the      the Table should reflect the ``possibility  ``consistent with a causal relation''
+language in the statute, which states that  that in some children with acute            between the pertussis vaccine and HHE
+certain signs and symptoms are              encephalopathy, chronic dysfunction         (shock collapse), but concluded there
+compatible with an encephalopathy but       may subsequently exist, but this is a rare  was insufficient evidence concerning
+``in and of themselves are not              event and the data do not allow             chronic neurologic damage. Because
+                                            confirmation or rejection of whether this   there is no proven relationship between
+                                            is a direct association.''                  HHE and residual neurologic damage,
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7689
+
+no purpose is served by retaining HHE        basis to retain HHE as a separate          absence (petit mal) epilepsy is not
+on the Table. Removing HHE as a Table        category on the Table.                     associated with acute encephalopathy
+injury places the burden of proof on the                                                secondary to DTP immunization. Both
+petitioner that an HHE was caused by a       Residual Seizure Disorder                  suggested that the diagnosis be
+vaccine and that it resulted in death or                                                determined by requiring such a child to
+residual effects lasting at least 6 months.     One commenter suggested that some       have an EEG with 3-per-second spike-
+                                             of the seizure classifications under       and-wave, since it is known that
+   Additional comments were received         Residual Seizure Disorder are out of       children who have such minor seizures
+in response to the Notice published on       date. They cited the example of ``grand    with different EEG's are often the
+March 24, 1994, requesting comments          mal'' seizures which has been dropped      victims of severe brain damage and
+on the Miller study and 1994 IOM             from the International Classification of   should not be excluded. Finally, it was
+report. Two commenters argued that the       Diseases. The commenter also               suggested that the phrase ``if properly
+conclusions of this IOM report are           questioned the use of the word ``signs''   diagnosed'' be used under these
+inconsistent with the Department's           in this section. The Department agrees     conditions. The Department's response
+proposal to remove HHE from the              with the commenter that some of the        to these comments is as follows.
+Vaccine Injury Table. The commenters         original seizure terminology has
+suggested that because the                   changed over time. Section 100.3(b)(4)        There is little credible evidence to
+Qualifications and Aids to                   has been revised and the word ``signs''    support the conclusion that absence
+Interpretation include ``loss of             has been deleted from the text.            (petit mal) epilepsy is associated with
+consciousness'' as one of the symptoms                                                  acute encephalopathy following
+of HHE, and because the NCES would              One commenter objected to proposed      vaccination. It is true, however, that
+have included a severe shock-collapse        paragraph (b)(3)(ii) regarding the 24-     atypical absence and other forms of
+resulting in hospitalization as a serious,   hour requirement for separation of         spike-and-wave epilepsy may be the
+acute neurologic illness, it is              seizures under Residual Seizure            sequelae of an acute encephalophathy,
+appropriate for HHE to continue to           Disorder. The commenter disagreed that     but are not in themselves the features of
+receive the presumption of causation         a 24-hour separation in seizures makes     such. Following acute encephalopathy,
+conferred by the Table.                      the diagnosis of recurrent seizures        features of atypical absence seizures
+                                             (epilepsy) more likely, and that seizures  may develop months to years later as
+   It is important to understand that the    occurring on the same day are generally    part of the sequelae to the acute injury.
+Miller study did not purport to set forth    regarded as part of the same event.        Other types of staring behavior may
+a definition of ``encephalopathy'' for                                                  constitute seizure activity associated
+purposes of the VICP or the Vaccine             The Department intends that the 24-     with an acute encephalopathy, such as
+Injury Table. Rather, it simply defined      hour requirement for the separation of     an individual with Herpes simplex type
+a set of conditions which fell under the     seizures will make it more likely that a   1 encephalitis. However, these patients
+rubric of ``acute neurologic illness'' that  Petitioner who qualifies under Residual    typically present with other clinical
+could be studied in relation to the          Seizure Disorder has a recurring seizure   signs of acute encephalopathy.
+administration of DTP vaccine. Loss of       disorder (epilepsy). The study cited in    (Generalized Seizures: Absence. In
+consciousness is not a recognized sign       the NPRM, (Reference: Hauser WA. et        Dreifuss F. (ed): Pediatric Epileptology.
+of HHE (see Cody et al.),                    al: Seizure recurrence after a first       Boston, J. Wright/PSG, 1983, p. 65-91.)
+notwithstanding its inclusion in the         unprovoked seizure. NEJM 1982;             It also should be noted that seizures
+original statutory Qualifications and        307(9):522-528), shows that seizures       alone do not constitute an
+Aids to Interpretation. The Department       separated by more that 24 hours make       encephalopathy. (1991 IOM Report,
+recognizes that the 1991 IOM Report          a recurrent disorder more likely. Its      page 87).
+included among the symptoms of HHE           importance is underscored by the fact
+a loss of consciousness. However, the        that seizures commonly occur in               Requiring EEG confirmation of 3-per-
+Department believes that this simply         clusters. For purposes of predicting       second spike-and-wave to make the
+reflected some of the case reports in the    recurrence of seizures, those occurring    diagnosis of absence (petit) epilepsy
+literature that were reviewed by the         within a 24-hour period are generally      may be excessively restrictive. While
+IOM. Given the IOM's statement that the      viewed as a single event (with the same    patients may have these characteristic
+cases reported may include other             cause). It is likely that any petitioner   EEG findings, it is neither practical nor
+conditions, such as anaphylaxis, the         who experiences a vaccine-related          advisable to require that the EEG
+Department does not view the IOM's           epileptic disorder will still qualify by   constitute the basis for diagnosis.
+discussion as a sufficient basis to          having further seizures over the 12-       Frequently, absence (petit mal) epilepsy
+expand its view of what properly             month period specified under the           is diagnosed on clinical criteria alone,
+constitutes HHE. See 1991 IOM Report,        statute. See section 2114(b)(2)(A) of the  (i.e., expected age group, seizure
+p. 171-177. Rather, children                 Act.                                       behavior, relationship to
+experiencing a loss of consciousness                                                    hyperventilation and/or response to
+should properly be considered under             Recognizing the commenter's             ethosuximide therapy). It is therefore
+the rubric of encephalopathy.                concerns, and in the interest of clarity,  impractical to require EEG confirmation.
+Furthermore, there is no clear evidence      the Department has modified slightly       Furthermore, inserting the phrase ``if
+that HHE (1) represents acute neurologic     the definition of a distinct seizure       properly diagnosed'' would create
+dysfunction, (2) requires medical            episode for purposes of this section. The  confusion as to whether EEG
+intervention (although medical               last sentence of § 100.3(b)(3)(i) now      confirmation is necessary for the
+consultation is frequently sought), or (3)   reads, ``A distinct seizure or convulsion  diagnosis of this condition.
+leads to any permanent sequelae or           episode is ordinarily defined as
+death. It is unlikely that nay of the cases  including all seizure or convulsive           One commenter suggested it is
+described in the NCES were those of          activity occurring within a 24-hour        incorrect to state that petit mal and
+infants experiencing HHE. In light of        period, unless competent and qualified     absence seizures are the only types of
+these considerations, the Department         expert neurologic testimony is             seizure activity with which staring can
+concludes that there is an insufficient      presented to the contrary in a particular  be associated. The Department agrees,
+                                             case.''                                    and did not intend to imply such in the
+                                                                                        Preamble to the NPRM. Other
+                                                Two commenters did not agree with
+                                             the language in paragraph (b)(4) that
+7690 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+conditions associated with staring, such    all seizures contemporaneous with fever       manner does not affect the Department's
+as atypical absence epilepsy, or various    are ``febrile seizures.'' This latter group   findings regarding infantile spasms
+sequelae to central nervous system          of seizures may be the result of pre-         (based on the IOM report), nor should
+injury are noted above in the               existing neurologic disease or injury,        it be viewed as inconsistent with the
+Department's response under absence         which produces a predisposition to            Department's response to the
+(petit mal) epilepsy.                       seizure activity with elevated                commenters' concerns. The Department
+                                            temperature. Alternatively, one can           continues to believe that deciding cases
+   One commenter suggested that the         have an acute encephalopathy which            involving infantile spasms, the Court of
+Department has shown no evidence that       presents itself as fever and seizures (e.g.,  Federal Claims should rely heavily on
+pertussis-related febrile seizures have     meningitis). In such a case, the other        the IOM's conclusion that the evidence
+more benign outcomes than those             requisite clinical manifestations of          does not indicate a causal relationship
+induced by other agents. The                clinical encephalopathy should be             between pertussis vaccine and infantile
+commenter states that because the           present (i.e., diminished consciousness       spasms.
+literature shows that a small percentage    and/or focal or generalized neurologic
+of children who experience febrile          signs).                                          One commenter claims to have
+seizures go on to have permanent                                                          concluded ``within medical certainty''
+problems, the Department's findings            One commenter disagreed with the           that chronic neurologic damage
+that there is insufficient evidence are     exclusion of infantile spasms. One            occurred in children who had acute
+erroneous. One commenter suggested          commenter noted that the diagnosis for        afebrile seizures within the timeframes
+febrile seizures produce brain damage.      infantile spasms has no etiological           of the current Table of injuries, and as
+Another commenter suggested that not        significance. It was suggested there is no    manifestations of acute
+every seizure which is                      medical support to eliminate this type        encephalopathies. The commenter does
+contemporaneous with a fever is a           of seizure disorder from those                not, however, provide sufficient
+febrile seizure. The Department agrees      potentially compensated. One                  evidence to justify a revision of the
+in part, and disagrees in part with these   commenter suggested that it is                proposed language.
+comments for the following reasons.         inappropriate to exclude infantile
+                                            spasms, as the U.S. Court of Federal             The IOM concluded that afebrile
+   The term ``febrile seizure'' refers to   Claims has ruled that DTP causes              seizures are not causally related to DTP
+seizures in infancy or childhood            infantile spasms. The Department has          vaccine. They considered many studies,
+(between 3 months to 5 years of age)        considered these comments and offers          including one which showed that short-
+associated with fever, but without          the following clarification.                  lived convulsions, with or without
+evidence of intracranial infection or                                                     fever, have not been demonstrated to
+other defined cause. Infants or children       The IOM concluded infantile spasms         cause permanent sequelae, regardless of
+who have a pre-existing history of an       is not casually related to DTP                whether the seizures occur in
+afebrile seizure, or recurrent afebrile     vaccination. Therefore, there is no basis     association with receipt of DTP.
+seizures (epilepsy) are not included in     for a legal presumption of causation for      vaccine. (IOM Report p. 118) (Hirtz DG.
+this category.                              this condition when it follows DTP            et al. Seizures following childhood
+                                            vaccination. Petitioners have the right to    immunizations. J. Pediatr. 1983; 102:14-
+   While it is true that children with a    prove causation in fact in instances in       18. and Ellenberg JH, Hirtz DG, Nelson
+history of ``febrile seizures'' may         which infantile spasms has its onset          KB. Do seizures in children cause
+eventually show neurologic deficits,        following immunization.                       intellectual deterioration? NEJM 1986;
+there is no persuasive experimental or                                                    314:1085-1088) (Ad Hoc Committee for
+epidemiologic evidence that these              The U.S. Court of Federal Claims has       the Child Neurology Society. Consensus
+deficits are a result of neurologic injury  held that seizures diagnosed as infantile     Statement: Pertussis immunization and
+occurring at the time of the febrile        spasms can be considered a Table injury       the central nervous system. Ann. of
+seizure. Furthermore, there is no           if the requisite timeframes are met. The      Neuro. 1991; 29 (4): 458-460).
+evidence that febrile seizures affect       Court has held that the respondent
+intellectual performance as judged by       cannot claim that infantile spasms is a          The Department also reversed the
+comparison of affected children to their    factor unrelated to vaccine                   order of § 100.3(b)(3)(i) and
+siblings. (Consensus Statement. 1980.       administration unless the precise cause       § 100.3(b)(3)(ii). This change was made
+Febrile seizures: long term management      of the infantile spasms can be identified.    to make the order of these two
+of children with fever-associated           The Court's reasoning was based on a          subparagraphs more logical.
+seizures. Pediatrics 66:1009-1012)          technical interpretation of the statute,
+(Ellenberg JH, Nelson KB. Febrile           and does not purport to be an analysis           In response to the March 24, 1994,
+seizures and later intellectual             of the medical issues involved.               Federal Register Notice requesting
+performance. Arch Neurol 1978;35:17-        Furthermore, the Court's analysis relied,     comments on the 1994 IOM Report, two
+21)                                         of course, on the initial Table. It cannot    commenters argued that because
+                                            be viewed as relevant to the actual           seizures were included in the definition
+   Although the IOM concluded ``febrile     causation issue which is the basis for        of encephalopathy and chronic nervous
+seizures'' are causally related to DTP      revising the Table. See Johnston v.           system dysfunction used by the NCES,
+vaccine, most experts believer that         Secretary of HHS, 22 Cl. Ct. 75 (1990).       the Department should not remove
+febrile seizures do not cause permanent                                                   residual seizure disorder from the Table.
+damage. The clinical courses of children       Nevertheless, the Department has
+experiencing febrile seizures following     decided to remove all references to              The Department disagrees with the
+DTP vaccination are indistinguishable       infantile spasms from the final rule.         commenters on this point. As discussed
+from the clinical courses of children       This decision was made based purely on        above, the 1991 IOM report concluded
+who experience febrile seizures from        procedural grounds. The Department            that no causal relationship can be
+other causes. (Hirtz DG, et al. Seizures    concluded that this issue is more             proven between DTP and afebrile
+following childhood immunizations. J.       appropriately addressed in the ``factor       seizures. In its 1994 report, the IOM did
+Pediatr. 1983;314:1085-1088)                unrelated'' section of the statute (42        not retract any of its 1991 conclusions
+                                            U.S.C. 300aa-13(b)), rather than as part      regarding DTP and seizure disorders. It
+   While febrile seizures are by their      of the Vaccine Injury Table. The              merely recognized that the NCES
+very nature benign, and therefore not       decision to revise the rule in this           included seizures as one of those
+associated with permanent damage, not                                                     conditions to be monitored or purposes
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7691
+
+of tracking long-term dysfunction. This      demonstrated no excess risk in the post-   administration of a DTP vaccine can
+recognition does not provide any             immunization interval. This observation    significantly aggravate a case of TSC.
+information one way or the other             argues against the possibility that DTP-
+regarding causation.                         related deaths were missed as a result of     The Act provides two avenues of
+                                             their being misclassified as deaths other  proof in order to establish eligibility for
+   Crucial to understanding the              than SIDS. (Correspondence from            compensation. A petitioner is afforded a
+Department's response is the knowledge       Christopher P. Howson, Ph.D., Project      presumption of causation if he/she can
+that the working definition of ``acute       Director, Committee to Review the          establish that an injury listed in the
+neurologic illness'' used in the NCES is     Adverse Consequences of Pertussis and      Table occurred within the specified
+not consistent with the current medical      Rubella Vaccines to Dr. George Curlin,     time period. Otherwise, the petitioner
+understanding of acute encephalopathy        Deputy Director, Division of               may argue that an injury occurred
+as an acute, generalized disorder of the     Microbiology and Infectious Diseases,      which is not listed in the Table, but
+brain. Children were placed in the           National Institute of Allergy and          which was nonetheless caused by the
+NCES case definition who experienced         Infectious Diseases: 9/18/91)              vaccine. The TSC cases presented to the
+only febrile seizures, a benign condition                                               Court, some petitioners who sought to
+know to be triggered by DTP vaccine,            Nevertheless, as with infantile         establish a Table case argued that the
+yet never proven to have lasting effects     spasms, the Department has decided to      child experienced seizures within 3
+absent signs of acute encephalopathy.        remove all references to Sudden Infant     days of receipt of a vaccine and that this
+Thus, placing seizures in the NCES case      Death Syndrome from the final rule.        event significantly aggravated the pre-
+definition of encephalopathy is              This decision, too, was made based         existing TSC. Some petitioners who
+inconsistent with the current medical        purely on procedural grounds. The          were unable to establish Table cases
+understanding of acute encephalopathy.       Department concluded (as with infantile    argued that although the child did not
+Moreover, both the IOM and the NVAC          spasms) that this issue is more            sustain an injury listed in the Vaccine
+subcommittee agreed that there is no         appropriately addressed in the ``factor    Injury Table, the vaccine nonetheless
+evidence that chronic encephalopathy         unrelated'' section of the statute (42     was the cause-in-fact of the aggravation
+in the absence of acute post-                U.S.C. § 300aa-13(b)), rather than as      of the underlying Tuberous Sclerosis. In
+immunization encephalopathy is               part of the Vaccine Injury Table. The      either case, the petitioner had the
+causally related to the vaccine.             decision to make this change does not      burden of proving that the clinical
+Therefore, there is no basis for             affect the Department's findings           course of the pre-existing condition had
+providing a legal presumption of             regarding SIDS (based on the IOM           been significantly aggravated. Typically,
+vaccine causation for chronic effects        report), nor should it be viewed as        petitioners presented expert testimony
+based solely on the occurrence of a          inconsistent with the above analysis       to support this theory.
+seizure following DTP immunization.          regarding the Department's response to
+There is simply no need for, nor is there    the commenters' concerns. The                 The revisions to the Vaccine Injury
+medical evidence to support, a separate      Department continues to believe that in    Table do not, by and large, change the
+presumption for residual seizure             deciding cases involving SIDS, the         petitioner's burden of proof in TSC
+disorder in connection with DTP              Court of Federal Claims should rely        cases. The only difference is that there
+vaccine.                                     heavily on the IOM's conclusion that       is not a presumption of causation for
+                                             the evidence does not indicate a causal    residual seizure disorders for DTP
+Sudden Infant Death Syndrome                 relationship between pertussis vaccine     vaccine. As explained in the preamble
+                                             and SIDS.                                  to the NPRM, and reiterated here, the
+   Two commenters suggested there is                                                    IOM concluded that there is no causal
+not a clear distinction between a death      Tuberous Sclerosis Complex                 relation between pertussis vaccine and
+characterized as Sudden Infant Death                                                    afebrile seizures. However, to receive a
+Syndrome (SIDS) and one that is                 One commenter suggested that the        presumption of causation, petitioners
+vaccine-related (paragraph (b)(2)(iii) of    proposed revisions do not take into        may still argue that an encephalopathy
+the NPRM).                                   account the condition of tuberous          (as defined in the revised
+                                             sclerosis complex (TSC), which some        Qualifications) occurred within 3 days
+   The IOM concluded that SIDS is not        believe can be aggravated by DTP           of vaccine administration and that this
+causally related to DTP vaccine. This        vaccine. Since DTP vaccine can cause       encephalopathy significantly aggravated
+conclusion was based on several              fevers which trigger seizures, there       the pre-existing Tuberous Sclerosis. In
+controlled epidemiologic studies             remains a question whether someone         addition, petitioners may continue to
+involving hundreds of thousands of           with TSC would have a worse outcome        argue that the vaccine was the cause-in-
+vaccinations. Although the diagnosis of      as a result of a seizure following a DTP   fact of the aggravation of the TSC. As far
+SIDS is one of exclusion of other causes,    shot. One commenter suggested that         as infantile spasms is concerned, the
+there are specific guidelines as to the      infantile spasms is frequently associated  Department has removed all references
+history preceding death, findings on         with TSC and the U.S. Court of Federal     to this condition from the final rule as
+forensic examination, and the ruling out     Claims has found compensable infantile     explained above. Therefore, petitioners
+of other causes by death scene               spasms cases that manifested after DTP     have available to them the same avenues
+examination (when possible). Moreover,       vaccine. The Department provides the       of proof open to individuals with other
+the possibility that DTP-related deaths      following clarification regarding the      types of seizures.
+are commonly misclassified as SIDS was       effect the new Table will have on
+also considered by the IOM Committee.        individuals with TSC.                         One commenter noted that MMR
+Since there was no evidence of an                                                       frequently triggers epilepsy in children
+increased risk of SIDS following DTP            TSC is a genetic disorder manifested    with TSC. The same analysis as above
+immunization, or of any observable           chiefly as mental deficiency, epilepsy     applies. Here, the petitioner may take
+``pertussis death syndrome,'' the            and skin lesions. Seizures occur in 80-    advantage of the presumption of
+committee considered that such effects       90 percent of individuals with tuberous    causation if he or she is able to prove
+were not supported by the medical            sclerosis. This disorder frequently        either a Table encephalopathy, or a
+literature. In addition, those studies that  presents in infancy, commonly in the       Table residual seizure disorder, and that
+examined infant deaths other than SIDS       form of infantile spasms. Some             that injury significantly aggravated the
+in relation to DTP vaccine also              petitioners have argued that               underlying TSC. If the evidence does
+7692 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+not demonstrate that the case meets the      done because it went significantly          Polio Vaccines
+requirements of the Table, the case will     beyond the scope of changes proposed
+be evaluated based on a causation            by the PHS Task Force. However, at that        Two commenters suggested that
+theory.                                      time, the Subcommittee recognized           Inactivated Polio Vaccine (IPV), known
+                                             additional changes may be forthcoming       as the Salk vaccine, may be proven to
+Diphtheria/Tetanus Vaccines (DT, TD,         once the section 313 study results are      be causally related to poliomyelitis. The
+TT)                                          published and have been reviewed.           IOM evaluated the relationship between
+                                             Since the Subcommittee's original           polio vaccines and adverse events in its
+   One commenter suggested that              discussion on this issue, the IOM issued    section 313 study. Except for the 1955
+making changes to non-pertussis              its section 313 report. The IOM             incident with inadequate inactivation of
+components based on studies of               concluded for both encephalopathy and       live polio virus in the Cutter Company
+pertussis vaccine is inappropriate.          residual seizure disorder that the          supply of IPV, there have been no
+                                             evidence is inadequate to accept or         serious adverse events causally tied to
+   Although the section 312 study (``IOM     reject a causal relation. After review of   this vaccine. Since the ``Cutter
+Report'') did not specifically study the     the 313 Report, the Department may          Incident,'' when manufacturing and
+non-pertussis antigens of DTP vaccine        promulgate additional changes to the        testing difficulties were identified and
+(i.e., diphtheria, tetanus), most            Table based on this conclusion.             corrected, the safety of released
+individuals receiving pertussis antigen,                                                 inactivated Poliovirus vaccine has been
+also were given these antigens.                 One commenter suggested that the         assured. (See IOM Section 313 Report at
+Therefore, some inferential data is          evidence for an association between         188,; see also Bodian, D., et al. Interim
+present. Moreover, studies reveal little     rubella vaccine and chronic arthritis is    Report, Public Health Service Technical
+evidence that these antigens are causally    inconclusive. The section 312 IOM           Committee on Poliomyelitis Vaccine.
+related to the injuries currently listed in  Committee concluded that the evidence       JAMA:1444-7, 1955) Furthermore, no
+the Table under DTP, other than              is ``consistent with a causal relation''    serious side effects of currently
+Anaphylaxis. In the section 313 study,       between the currently used rubella          available inactivated poliovirus
+the IOM concluded that the evidence          vaccine (RA 27/3) and chronic arthritis     vaccines have been documented.
+favored rejection of a causal relation       in adult women, although the evidence       (Report of the Committee on Infectious
+between DT/Td/TT and                         is limited in scope and confined to         Diseases, American Academy of
+encephalopathy. After review of the          reports from one institution. To            Pediatrics 1991:389) Because these
+section 313 Report, the Department may       establish this biologically plausible       earlier problems have been cured, and
+promulgate additional changes to the         relation more firmly, the Committee         there is no current evidence bearing on
+Table.                                       expressed the need for prospective,         a causal relationship, the section 313
+                                             double-blind, controlled trials in which    study does not discuss specifically the
+MMR Vaccines                                 individuals are followed for at least 12    connection between IPV and
+                                             months after vaccination with attempts      poliomyelitis. Therefore, there is no
+   One commenter suggested that the          to isolate and identify rubella virus. At   evidence of a causal relationship which
+requirement for at least 5 days of viral     least one medical research center is        would justify adding poliomyelitis to
+replication is inappropriate. One            pursuing this research to try and obtain    the Table for IPV.
+commenter suggested that the changes         better data on causation.
+for encephalopathy are wrong because                                                     Other Changes
+there is a broad spectrum of severity.          Many investigators still view the
+Sequelae may occur after less serious        evidence as inconclusive with regard to        At the meeting on June 1-2, 1994,
+acute encephalopathy. The proposed           chronic arthritis. However, the IOM's       members of the ACCV suggested that the
+changes would exclude all but the most       finding justifies the inclusion of chronic  definition of ``sequela'' imposes a higher
+severe acute encephalopathies from the       arthritis on the Vaccine Injury Table       burden of proof than that required by
+Table. The Department has considered         since there is biologic plausibility of     the statute. The Department disagrees
+these comments, but has concluded that       causation, and the term ``chronic           that the definition affects the burden of
+the medical evidence supports the            arthritis'' is defined as effects lasting   proof, but agrees that the definition as
+proposed changes.                            greater than 6 months. In this instance,    written should be simplified.
+                                             the IOM is stating there is ``consistent''  Accordingly, the definition in
+   Since viral replication is required for   evidence for both acute onset and           § 100.3(b)(5) has been modified to read
+a viral vaccine-associated                   residual effects lasting greater than 6     as follows: ``The term sequela means a
+encephalopathy, a window for the             months. Previously described changes        condition or event which was actually
+expected time of onset is appropriate.       for Table injuries under DTP involved       caused by a condition listed in the
+The onset of vaccine-related illness         conditions (i.e., HHE and Residual          Vaccine Injury Table.'' This definition is
+following MMR (or any of its                 Seizure Disorder) that the IOM did not      consistent with current scientific
+components) is generally from 7 to 14        view as having strong evidence for both     understanding that in order for a
+days, thus a time interval of 5 to 15 days   acute and chronic effects.                  subsequent event to be considered a
+would be all-inclusive. Any acute                                                        sequela of an initial event, there must be
+encephalopathy of unknown cause,                Although the Department added            a causal relationship between the two.
+regardless of severity or duration, that     chronic arthritis to the Table, guidelines
+occurs during the 5 to 15 day time frame     written into the Aids to Interpretation     Technical Changes
+would be eligible for the Table              will preclude patients with pre-existing
+presumption, provided the child or           conditions or other non-vaccine related        First, in publishing the NPRM, the
+adult has continued evidence of              musculoskeletal disorders from being        Department inadvertently misquoted the
+``chronic encephalopathy.'' The 1991         legally presumed to have a vaccine-         statutory introduction to the Vaccine
+NVAC Subcommittee felt there was             related injury. As information from         Injury Table. Accordingly, the
+strong support in the literature to          prospective studies becomes available,      introductory paragraph of § 100.3(a)
+narrow the timeframe as above. Some          modifications may be made to the Table      now reads as follows: ``In accordance
+felt Residual Seizure Disorder should be     or Aids to Interpretation based on this     with section 312(b) of the National
+removed from the Table based on the          data.                                       Childhood Vaccine Injury Act of 1986,
+lack of evidence for causation in the
+current medical literature. This was not
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7693
+
+title III of Pub. L. 99-660 (42 U.S.C.        certain standards, such as avoiding          implemented by the Centers for Disease
+300aa-note) and section 2114(c) of the        unnecessary burden. Regulations which        Control and Prevention under section
+Public Health Service Act (42 U.S.C.          are ``significant'' because of cost,         1928 of the Social Security Act, as
+300aa-14(c)), the following is a table of     adverse effects on the economy,              enacted by section 13631 of the
+vaccines, the injuries, disabilities,         inconsistency with other agency actions,     Omnibus Budget Reconciliation Act of
+illnesses, conditions, and deaths             effects on the budget, or novel legal or     1993 (Pub. L. 103-66, August 10, 1993).
+resulting from the administration of          policy issues, require special analysis.     This section provides for the
+such vaccines, and the time period in                                                      establishment of a program to distribute
+which the first symptom or                       As stated above, this final regulation    free vaccines to all vaccine-eligible
+manifestation of onset or of the              modifies the Vaccine Injury Table based      children, as defined by this section. The
+significant aggravation of such injuries,     on legal authority, and under that           final rule modifies the existing Vaccine
+disabilities, illnesses, conditions, and      authority the Court will award such fees     Injury Table, a mechanism by which
+deaths is to occur after vaccine              and costs as appropriate under the law.      compensation is awarded to individuals
+administration for purposes of receiving      As such, the regulation would have           who have been found to have suffered
+compensation under the Program:''             little direct effect on the economy or on    from vaccine-related injuries. Because
+                                              Federal or State expenditures. For the       the two authorities are not related, the
+   Second, we are revising § 100.3(c),        same reasons, the Secretary has also         publication of this rule should not have
+entitled ``Effective date provisions.'', to   determined that this is not a                any impact on the Vaccines for Children
+change the term ``United States Claims        ``significant'' rule under Executive         Program.
+Court'' wherever it appears to read           Order 12866.
+``United States Court of Federal                                                           Paperwork Reduction Act of 1980
+Claims'', in accordance with section          Effect of the New Rule
+902(b) of title IX, Pub. L. 102-572, the                                                      This final rule has no information
+Federal Courts Administration Act of             The NPRM failed to explain the effect     collection requirements.
+1992 (See 106 Stat. 4516).                    of the rule for individuals who were not
+                                              eligible to file petitions based on the      List of Subjects in 42 CFR Part 100
+   In addition, the Department is making      original Vaccine Injury Table, but who
+a technical change to the existing            may be eligible to file petitions based on      Biologics, Health insurance,
+regulations (42 CFR part 100) by              the revised Table. The Act permits such      Immunization.
+revising the currently codified acronym       individuals to file a petition for such
+used to refer to the National Vaccine         compensation not later than 2 years             Dated: November 16, 1993.
+Injury Compensation Program from              after the effective date of the revision if  Philip R. Lee,
+``NVIC'' to ``VICP'' wherever it appears      the injury or death occurred no more         Assistant Secretary for Health.
+under part 100. ``VICP'' has been used        than 8 years before the effective date of
+for the entire history of the program to      the revision of the Table. See 42 U.S.C.        Approved: November 9, 1994.
+avoid confusion with the parents'             300aa-16(b). As part of the Omnibus          Donna E. Shalala,
+advocacy group known as the National          Reconciliation Act of 1993, Congress         Secretary.
+Vaccine Information Center (NVIC),            amended this section to permit
+Dissatisfied Parents Together (DPT).          individuals to file claims within this 2-       Accordingly, 42 CFR part 100 is
+                                              year period, even if they had already        amended as set forth below.
+   Since these changes are of a technical     filed a claim involving a particular
+nature, the Secretary has determined          vaccine, but only if the Table revision      PART 100--VACCINE INJURY
+pursuant to 5 U.S.C. 553 and                  will ``significantly increase the            COMPENSATION
+departmental policy that it is                likelihood of obtaining compensation.''
+unnecessary and impractical to follow         See Pub. L. 103-66, sec. 13632(a)(1).           1. The authority citation for part 100
+proposed rulemaking procedures.               (August 10, 1993). For example, this         is revised to read as follows:
+                                              amendment would permit an individual
+Economic Impact                               whose claim alleging vaccine-related            Authority: Sec. 215 of the Public Health
+                                              arthritis had been dismissed by the          Service Act (42 U.S.C. 216); sec. 2115 of the
+   The NPRM preamble erred in not             Claims Court to file a new claim for the     PHS Act, 100 Stat. 3767, as amended (42
+explaining that this rule will not have       same vaccine-related injury, if the          U.S.C. 300aa-15); § 100.3, the Vaccine Injury
+a significant impact on a substantial         individual can show that the addition of     Table, issued under sec. 312 of Pub. L. 99-
+number of small businesses because it         arthritis to the Table as a rubella          660, 100 Stat. 3779 (42 U.S.C. 300aa-1 note)
+will have only small effects, and those       vaccine-related condition has                and sec. 2114(c) of the PHS Act (42 U.S.C.
+primarily on individuals. Attorneys,          significantly increased the likelihood of    300aa-14(c)).
+while small entities within the meaning       obtaining compensation. The
+of the Act, will still be awarded costs       Department believes that the                    2. Section 100.1 is revised to read as
+and fees for cases they bring on a            amendment would not permit someone           follows:
+reasonable basis. The reduced number          who had had a claim for an alleged
+of vaccine cases brought will be              vaccine-related encephalopathy               § 100.1 Applicability.
+negligible measured against overall           subsequent to DTP vaccine to refile a
+business opportunities for lawyers.           claim that had been dismissed by the            This part applies to the National
+Therefore, SBA is incorrect in saying         Claims Court, as the changes in the          Vaccine Injury Compensation Program
+that a regulatory flexibility analysis is     Table related to DTP and                     (VICP) under subtitle 2 of title XXI of
+required. Therefore, the Secretary            encephalopathy do not appear to              the Public Health Service (PHS) Act.
+certifies that this final rule will not have  significantly increase the likelihood of
+a significant economic impact on a            obtaining compensation.                         3. The first sentence in § 100.2 is
+substantial number of small entities.                                                      revised to read as follows:
+                                              Possible Effect on Other Legislation
+   Executive Order 12866 requires that                                                     § 100.2 Average cost of a health insurance
+all regulations reflect consideration of         This rule will not have an effect on      policy.
+alternatives, of costs, of benefits, of       the Vaccines for Children Program,
+incentives, of equity, and of available                                                       For purposes of determining the
+information. Regulations must meet                                                         amount of compensation under the
+                                                                                           VICP, section 2115(a)(3)(B) of the PHS
+                                                                                           Act, 42 U.S.C. 300aa.15(a)(3)(B),
+                                                                                           provides that certain individuals are
+                                                                                           entitled to receive an amount reflecting
+7694 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+lost earnings, less certain deductions.    Injury Act of 1986, title III of Pub. L. 99-  such vaccines, and the time period in
+***                                        660, 100 Stat. 3779 (42 U.S.C. 300aa-1        which the first symptom or
+                                           note) and section 2114(c) of the Public       manifestation of onset or of the
+   4. Section 100.3 is added to read as    Health Service Act (42 U.S.C. 300aa-          significant aggravation of such injuries,
+follows:                                   14(c)), the following is a table of           disabilities, illnesses, conditions, and
+                                           vaccines, the injuries, disabilities,         deaths is to occur after vaccine
+§ 100.3 Vaccine injury table.              illnesses, conditions, and deaths             administration for purposes of receiving
+                                           resulting from the administration of          compensation under the Program:
+   (a) In accordance with section 312(b)
+of the National Childhood Vaccine                    VACCINE INJURY TABLE
+
+Illness, disability, injury or condition covered                                                                                                                               Time period for first symp-
+                                                                                                                                                                                 tom or manifestation of
+                                                                                                                                                                                  onset or of significant
+                                                                                                                                                                               aggravation after vaccine
+                                                                                                                                                                                       administration
+
+I. DTP; P; DT; Td; or Tetanus Toxoid; or in any combination with Polio; or any Other Vaccine Containing Whole                                                                  4 hours.
+   Cell Pertussis Bacteria, Extracted or Partial Cell Pertussis Bacteria, or Specific Pertussis Antigen(s):                                                                    72 hours.
+      A. Anaphylaxis or anaphylactic shock ....................................................................................................................                Not applicable.
+      B. Encephalopathy (or encephalitis) .......................................................................................................................
+      C. Any sequela (including death) of an illness, disability, injury, or condition referred to above which illness,                                                        4 hours.
+         disability, injury, or condition arose within the time period prescribed.                                                                                             5-15 days (not less than 5
+
+II. (a). Measles, mumps, rubella, or any vaccine containing any of the foregoing as a component:                                                                                  days and not more than
+      A. Anaphylaxis or anaphylactic shock ....................................................................................................................                   15 days) for measles,
+      B. Encephalopathy (or encephalitis) .......................................................................................................................                 mumps, rubella, or any
+                                                                                                                                                                                  vaccine containing any of
+      C. Residual seizure disorder in accordance with subsection (b)(3) .......................................................................                                   the foregoing as a com-
+                                                                                                                                                                                  ponent.
+      D. Any sequela (including death) of an illness, disability, injury, or condition referred to above which illness,                                                        5-15 days (not less than 5
+         disability, injury, or condition arose within the time period prescribed.                                                                                                days and not more than
+                                                                                                                                                                                  15 days) for measles,
+II. (b). In the case of measles, mumps, rubella (MMR), measles, rubella (MR) or rubella vaccines only:                                                                            mumps, rubella, or any
+      A. Chronic arthritis ..................................................................................................................................................     vaccine containing any of
+      B. Any sequela (including death) of an illness, disability, injury, or condition referred to above which illness,                                                           the foregoing as a com-
+         disability, injury, or condition arose within the time period prescribed.                                                                                                ponent.
+                                                                                                                                                                               Not applicable.
+III. Polio Vaccine (other than Inactivated Polio Vaccine):
+      A. Paralytic Polio                                                                                                                                                       42 days.
+            In a non-immunodeficient recipient ..................................................................................................................              Not applicable.
+            In an immunodeficient recipient .......................................................................................................................
+            In a vaccine associated community case ........................................................................................................                    30 days.
+      B. Any acute complication or sequela (including death) of an illness, disability, injury, or condition referred to                                                       6 months.
+         above which illness, disability, injury, or condition arose within the time period prescribed.                                                                        Not applicable.
+                                                                                                                                                                               Not applicable.
+IV. Inactivated Polio Vaccine:
+      A. Anaphylaxis or anaphylactic shock ....................................................................................................................                4 hours.
+      B. Any acute complication or sequela (including death) of an illness, disability, injury, or condition referred to                                                       Not applicable.
+         above which illness, disability, injury, or condition arose within the time period prescribed.
+
+   (b) Qualifications and aids to          by laryngeal edema or bronchospasm            minutes of exposure and without signs
+interpretation. The following              and may be associated with                    of respiratory distress, there may not be
+qualifications and aids to interpretation  cardiovascular collapse. Other                significant pathologic findings.
+shall apply to the Vaccine Injury Table    significant clinical signs and symptoms
+in paragraph (a) of this section:          may include the following: Cyanosis,             (2) Encephalopathy. For purposes of
+                                           hypotension, bradycardia, tachycardia,        paragraph (a) of this section, a vaccine
+   (1) Anaphylaxis and anaphylactic        arrhythmia, edema of the pharynx and/         recipient shall be considered to have
+shock. For purposes of paragraph (a) of    or trachea and/or larynx with stridor         suffered an encephalopathy only if such
+this section, Anaphylaxis and              and dyspnea. Autopsy findings may             recipient manifests, within the
+anaphylactic shock mean an acute,          include acute emphysema which results         applicable period, an injury meeting the
+severe, and potentially lethal systemic    from lower respiratory tract obstruction,     description below of an acute
+allergic reaction. Most cases resolve      edema of the hypopharynx, epiglottis,         encephalopathy, and then a chronic
+without sequelae. Signs and symptoms       larynx, or trchea and minimal findings        encephalopathy persists in such person
+begin minutes to a few hours after         of eosinophilia in the liver, spleen and      for more than 6 months beyond the date
+exposure. Death, if it occurs, usually     lungs. When death occurs within               of vaccination.
+results from airway obstruction caused
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations 7695
+
+   (i) An acute encephalopathy is one        status, first manifested during the         suffered a seizure or convulsion
+that is sufficiently severe so as to         applicable time period, persists for a      unaccompanied by fever (defined as a
+require hospitalization.                     period of at least 6 months from the date   rectal temperature equal to or greater
+                                             of vaccination. Individuals who return      than 101.0 degrees Fahrenheit or an oral
+   (A) For children less than 18 months      to a normal neurologic state after the      temperature equal to or greater than
+of age who present without an                acute encephalopathy shall not be           100.0 degrees Fahrenheit) before the
+associated seizure event, an acute           presumed to have suffered residual          fifth day after the administration of the
+encephalopathy is indicated by a             neurologic damage from that event; any      vaccine involved.
+significantly decreased level of             subsequent chronic encephalopathy
+consciousness lasting for at least 24        shall not be presumed to be a sequela          (4) Seizure and convulsion. For
+hours. Those children less than 18           of the acute encephalopathy. If a           purposes of paragraphs (b) (2) and (3) of
+months of age who present following a        preponderance of the evidence indicates     this section, the terms, ``seizure'' and
+seizure shall be viewed as having an         that a child's chronic encephalopathy is    ``convulsion'' include myoclonic,
+acute encephalopathy if their                secondary to genetic, prenatal or           generalized tonic-clonic (grand mal),
+significantly decreased level of             perinatal factors, that chronic             and simple and complex partial
+consciousness persists beyond 24 hours       encephalopathy shall not be considered      seizures. Absence (petit mal) seizures
+and cannot be attributed to a postictal      to be a condition set forth in the Table.   shall not be considered to be a condition
+state (seizure) or medication.                                                           set forth in the Table. Jerking
+                                                (iii) An encephalopathy shall not be     movements or staring episodes alone are
+   (B) For adults and children 18 months     considered to be a condition set forth in   not necessarily an indication of seizure
+of age or older, an acute encephalopathy     the Table if in a proceeding on a           activity.
+is one that persists for at least 24 hours   petition, it is shown by a preponderance
+and characterized by at least two of the     of the evidence that the encephalopathy        (5) Sequela. The term ``sequela''
+following:                                   was caused by an infection, a toxin, a      means a condition or event which was
+                                             metabolic disturbance, a structural         actually caused by a condition listed in
+   (1) A significant change in mental        lesion, a genetic disorder or trauma        the Vaccine Injury Table.
+status that is not medication related;       (without regard to whether the cause of
+specifically a confusional state, or a       the infection, toxin, trauma, metabolic        (6) Chronic Arthritis. (i) For purposes
+delirium, or a psychosis;                    disturbance, structural lesion or genetic   of paragraph (a) of this section, chronic
+                                             disorder is known). If at the time a        arthritis may be found in a person with
+   (2) A significantly decreased level of    decision is made on a petition filed        no prior history of arthropathy (joint
+consciousness, which is independent of       under section 2111(b) of the Act for a      disease) on the basis of:
+a seizure and cannot be attributed to the    vaccine-related injury or death, it is not
+effects of medication; and                   possible to determine the cause by a           (A) Medical documentation, recorded
+                                             preponderance of the evidence of an         within 30 days after the onset, of
+   (3) A seizure associated with loss of     encephalopathy, the encephalopathy          objective signs of acute arthritis (joint
+consciousness.                               shall be considered to be a condition set   swelling) that occurred within 42 days
+                                             forth in the Table.                         after a rubella vaccination; and
+   (C) Increased intracranial pressure
+may be a clinical feature of acute              (iv) In determining whether or not an       (B) Medical documentation (recorded
+encephalopathy in any age group.             encephalopathy is a condition set forth     within 3 years after the onset of acute
+                                             in the Table, the Court shall consider      arthritis) of the persistence of objective
+   (D) A ``significantly decreased level of  the entire medical record.                  signs of intermittent or continuous
+consciousness'' is indicated by the                                                      arthritis for more than 6 months
+presence of at least one of the following       (3) Residual Seizure Disorder. (i) A     following vaccination.
+clinical signs for at least 24 hours or      petitioner may be considered to have
+greater (see paragraphs (b)(2)(i)(A) and     suffered a residual seizure disorder for       (ii) For purposes of paragraph (a) of
+(b)(2)(i)(B) of this section for applicable  purposes of paragraph (a) of this section,  this section, the following shall not be
+timeframes):                                 if the first seizure or convulsion          considered as chronic arthritis:
+                                             occurred 5-15 days (not less than 5 days    Musculoskeletal disorders such as
+   (1) Decreased or absent response to       and not more than 15 days) after            diffuse connective tissue diseases
+environment (responds, if at all, only to    administration of the vaccine and 2 or      (including but not limited to
+loud voice or painful stimuli);              more additional distinct seizure or         rheumatoid arthritis, juvenile
+                                             convulsion episodes occurred within 1       rheumatoid arthritis, systemic lupus
+   (2) Decreased or absent eye contact       year after the administration of the        erythematosus, systemic sclerosis,
+(does not fix gaze upon family members       vaccine which were unaccompanied by         mixed connective tissue disease,
+or other individuals); or                    fever (defined as a rectal temperature      polymyositis/dermatomyositis,
+                                             equal to or greater than 101.0 degrees      necrotizing vasculitis and
+   (3) Inconsistent or absent responses to   Fahrenheit or an oral temperature equal     vasculopathies and Sjogren's
+external stimuli (does not recognize         to or greater than 100.0 degrees            Syndrome), degenerative joint disease,
+familiar people or things).                  Fahrenheit). A distinct seizure or          infectious agents other than rubella
+                                             convulsion episode is ordinarily defined    (whether by direct invasion or as an
+   (E) The following clinical features       as including all seizure or convulsive      immune reaction), metabolic and
+alone, or in combination, do not             activity occurring within a 24-hour         endocrine diseases, trauma, neoplasms,
+demonstrate an acute encephalopathy or       period, unless competent and qualified      neuropathic disorders, bone and
+a significant change in either mental        expert neurological testimony is            cartilage disorders and arthritis
+status or level of consciousness as          presented to the contrary in a particular   associated with ankylosing spondylitis,
+described above: Sleepiness, irritability    case.                                       psoriasis, inflammatory bowel disease,
+(fussiness), high-pitched and unusual                                                    Reiter's syndrome, or blood disorders.
+screaming, persistent inconsolable              (ii) For purposes of paragraph (a) of
+crying, and bulging fontanelle. Seizures     this section, a petitioner shall not be        (iii) Arthralgia (joint pain) or stiffness
+in themselves are not sufficient to          considered to have suffered a residual      without joint swelling shall not be
+constitute a diagnosis of                    seizure disorder, if the petitioner         viewed as chronic arthritis for purposes
+encephalopathy. In the absence of other                                                  of paragraph (a) of this section.
+evidence of an acute encephalopathy,
+seizures shall not be viewed as the first                                                   (c) Effective date provisions. The
+symptom or manifestation of the onset                                                    Table of Injuries set forth in paragraph
+of an acute encephalopathy.
+
+   (ii) Chronic Encephalopathy occurs
+when a change in mental or neurologic
+7696 Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Rules and Regulations
+
+(a) of this section applies to petitions for  with the United States Court of Federal  ``Qualification and Aids to
+compensation under the Program filed          Claims on or after March 10, 1995. The   Interpretation'') of the Public Health
+with the United States Court of Federal       petitions for compensation filed with    Service Act as in effect on February 8,
+Claims on or after March 10, 1995. The        the United States Court of Federal       1995.
+Qualifications and Aids to                    Claims before March 10, 1995 shall be
+Interpretation set forth in paragraph (b)     governed by section 2114(a) (initial     [FR Doc. 95-2945 Filed 2-7-95; 8:45 am]
+of this section apply to petitions filed      ``Table'') and section 2114(b) (initial
+                                                                                       BILLING CODE 4160-15-M
+

@@ -1,0 +1,56 @@
+15 F.3d 90
+
+In re JEFFERSON LINES, INC., Debtor. STATE OF OKLAHOMA ex rel. OKLAHOMA TAX COMMISSION, Appellant, v. JEFFERSON LINES, INC., Appellee.
+
+No. 93-1684.
+
+United States Court of Appeals, Eighth Circuit.
+
+Submitted Nov. 11, 1993.
+Decided Jan. 21, 1994.
+
+*91 Stanley P. Johnston, Deputy General Counsel of the Oklahoma Tax Com'n, Oklahoma City, OK, argued (J.I.M. Caldwell and Craig S. Key, Asst. General Counsel of the Oklahoma Tax Com'n, on the brief), for appellant.
+
+Loren A. Unterseher, Minneapolis, MN, argued (Steven D. DeRuyter, on the brief), for appellee.
+
+Before RICHARD S. ARNOLD, Chief Judge, BEAM, Circuit Judge, and JACKSON,* District Judge.
+
+* The Hon. Carol E. Jackson, United States District Judge for the Eastern District of Missouri, sitting by designation.
+
+RICHARD S. ARNOLD, Chief Judge.
+
+In 1989, the Oklahoma Tax Commission sought payment from Jefferson Lines, Inc., the debtor in a Chapter 11 bankruptcy proceeding, for unpaid sales tax on the gross price of interstate bus tickets sold in Oklahoma. The State law, Okla.Stat. Title 68, § 1354(1)(C), requires Jefferson to collect and remit sales tax on the gross price of every bus ticket sold in Oklahoma.1 The statute applies to the sale of all tickets sold in Oklahoma, regardless of where the trip begins or ends. Jefferson is a bus line providing transportation service for both intrastate and interstate travel. Jefferson objects to paying the sales tax for the miles travelled outside of Oklahoma, arguing that the sales tax violates the Commerce Clause of the United States Constitution, Article I, § 8, cl. 3. The Bankruptcy Court2 agreed with Jefferson. The District Court3 affirmed. So do we.
+
+A state tax on interstate commercial activity violates the Commerce Clause unless it "is applied to an activity with a substantial nexus to the taxing State, is fairly apportioned, does not discriminate against interstate commerce, and is fairly related to the services or benefits provided by the State." Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 279, 97 S.Ct. 1076, 1079, 51 L.Ed.2d 326 (1977). If a tax statute fails to meet any of these four standards, the statute will offend the Commerce Clause. See Goldberg v. Sweet, 488 U.S. 252, 109 S.Ct. 582, 102 L.Ed.2d 607 (1989). Both the District Court *92 and the Bankruptcy Court held the statute was not fairly apportioned, thus failing the second standard of Complete Auto. We begin our inquiry by examining the issue of apportionment.
+
+To determine whether a tax is fairly apportioned a court must ask whether the tax is both "internally" and "externally consistent." Goldberg, 488 U.S. at 261, 109 S.Ct. at 589. The purpose of this inquiry "is to ensure that each State taxes only its fair share of an interstate transaction." Goldberg, 488 U.S. at 260-61, 109 S.Ct. at 588-89.
+
+For a tax to be internally consistent, it "must be structured so that if every State were to impose an identical tax, no multiple taxation would result." Id. at 261, 109 S.Ct. at 589. The Oklahoma tax meets this test. As noted by the District Court and the Bankruptcy Court, an individual bus ticket can be sold in only one state. Therefore, even if every state taxed bus tickets sold within its borders, for all transportation originating within that state, no customer would be taxed more than once. Thus, the Oklahoma tax is internally consistent.
+
+But is the Oklahoma tax externally consistent? "The external consistency test asks whether the State has taxed only that portion of the revenues from the interstate activity which reasonably reflects the in-state component of the activity being taxed." Goldberg, 488 U.S. at 262, 109 S.Ct. at 589. When we evaluate the arguments, we must look beyond formalism and consider the practical and economic effect of the tax on interstate commerce. Id. at 264, 109 S.Ct. at 590; see also Central Greyhound Lines, Inc. v. Mealey, 334 U.S. 653, 659-60, 68 S.Ct. 1260, 1264-65, 92 L.Ed. 1633 (1948).
+
+The Commission contends that the tax is externally consistent and does not need to be apportioned because the tax is on the sale of the ticket and therefore is imposed only on local activity. To defend the assertion that only the sale of the ticket is taxed and not the use of the ticket, the Commission explains that the Oklahoma sales tax is based solely on the purchase price of the ticket, and that once the sale has occurred, the taxable event is complete. In essence, the Commission argues that the taxable activity is the sale of a ticket, not of transportation. This argument is too technical and flies in the face of how bus-ticket prices are set. A ticket price is set, at least partially, on the number of miles travelled. To say that only the purchase of a ticket is taxed, and not the use of the ticket, ignores the fact that the real value of the ticket is the right to ride a bus. The ticket without the travel would be of scant value to a customer. We will not separate the sale of a piece of paper from the service which it represents. To hold otherwise would elevate form over substance and require this Court to ignore economic realities.
+
+Both courts below relied, correctly we think, on Central Greyhound Lines, Inc. v. Mealey, supra. In this 1948 case, New York levied a gross-receipts tax on a New York-based bus company. All of the company's revenues were subject to the tax, even though they included large sums attributable to transportation services performed in New Jersey. The Supreme Court held the tax invalid because it was not apportioned as between intrastate and interstate transportation revenues. The Court said that "[b]y its very nature an unapportioned gross receipts tax makes interstate transportation bear more than 'a fair share of the cost of local government whose protection it enjoys.'" 334 U.S. at 663, 68 S.Ct. at 1266 (quoting Freeman v. Hewit, 329 U.S. 249, 253, 67 S.Ct. 274, 277, 91 L.Ed. 265 (1946)). The vice of the New York gross-receipts tax was that "it [laid] 'a direct burden upon every transaction in [interstate] commerce by withholding, for the use of the State, a part of every dollar received in such transactions.'" Central Greyhound, 334 U.S. at 663, 68 S.Ct. at 1266 (quoting Crew Levick Co. v. Pennsylvania, 245 U.S. 292, 297, 38 S.Ct. 126, 128, 62 L.Ed. 295 (1917)) (citations omitted).
+
+The same thing is true here. By levying a sales tax on the total price of tickets for interstate transportation, Oklahoma is attempting to tax the gross receipts from the sale of transportation outside its borders. It is taxing more than the in-state component of the interstate activity. If a customer, for *93 example, buys a ticket in Tulsa, Oklahoma, to travel from Tulsa to Nashville, Tennessee, most of the trip will occur outside of Oklahoma. Under the scheme urged by the Commission, Oklahoma receives tax revenues attributable to the entire trip, even though it bears none of the cost of repairing roads in Arkansas, nor does it provide any police or fire protection for miles travelled in Tennessee. Like the New York tax in issue in Central Greyhound, the Oklahoma sales tax is a direct burden on every transaction in interstate commerce, and the amount of the burden bears no relationship to the portion of the trip that occurs within the taxing state.
+
+The Commission suggests that Central Greyhound is distinguishable, because the tax there was a gross-receipts tax, formally levied upon the seller, whereas here a sales tax is involved, formally levied on the buyer, though collected by the seller and remitted to the State by it. The distinction is not significant enough to bear the weight that the Commission seeks to place upon it. Sales taxes and gross-receipts taxes have much in common. They are both measured by the gross receipts of the bus company, and are due whether the company makes a profit or not, and regardless of the cost to it of rendering the transportation service represented by the ticket sold. A gross-receipts tax is obviously an important part of the bus company's cost of doing business. The likelihood that it will be passed on to the customer, in whole or in part, is great, if the company expects to continue in business. Conversely, a sales tax, though in form levied upon the buyer of the ticket, has to be paid by the bus company whether it collects the tax from its customers or not. The bus company must remit the tax to the state whether or not it has added the tax to the price of the ticket as such. Okla.Stat. Title 68, § 1361(A) (Supp.1988). In both situations, the amount of the tax varies directly with the amount of miles travelled, whether those miles are inside the taxing state or outside. This is a classic instance of an unapportioned tax, in our view. Central Greyhound was decided before the adoption of the presently applicable four-part analysis by the Complete Auto Court, but we believe that the reasoning of Central Greyhound is still good when considering whether a tax is externally consistent as that term is used in Complete Auto.
+
+The unapportioned Oklahoma sales tax on interstate travel is not externally consistent when applied to bus tickets bought in Oklahoma for travel to another state. Apportioning the tax in accordance with the miles travelled within the state does not present insurmountable administrative burdens, nor is it technologically unfeasible for any reason. See Goldberg, 488 U.S. at 264, 109 S.Ct. at 590. Therefore, this tax fails the apportionment standard of Complete Auto. Because the tax is not fairly apportioned, it is unnecessary to examine any of the other Complete Auto factors to hold that the tax violates the Commerce Clause. Accordingly, the judgment of the District Court is
+
+Affirmed.
+
+---
+
+Footnotes:
+
+1. The relevant part of Okla.Stat. Title 68, § 1354 (Supp.1988), states: (1) There is hereby levied upon all sales, not otherwise exempted in Oklahoma Sales Tax Code, Section 1350 et seq. of this title, an excise tax of four percent (4%) of the gross receipts or gross proceeds of each sale of the following: ... (C) Transportation for hire to persons by common carriers, including railroads both steam and electric, motor transportation companies, taxicab companies, pullman car companies, airlines, and other means of transportation for hire.
+
+2. The Honorable Dennis D. O'Brien, United States Bankruptcy Judge for the District of Minnesota.
+
+3. The Honorable Donald D. Alsop, Senior United States District Judge for the District of Minnesota.
+
+Source: https://www.courtlistener.com/opinion/661571/in-re-jefferson-lines-inc-debtor-state-of-oklahoma-ex-rel-oklahoma-tax/
+
+[NOTE: This is the bankruptcy-court appeal "In re Jefferson Lines, Inc." (8th Cir. 1994), a Commerce-Clause/sales-tax case distinct from the later Supreme Court case of a similar general name, Jefferson Lines, Inc. v. Oklahoma Tax Comm'n / Oklahoma Tax Comm'n v. Jefferson Lines, Inc., 514 U.S. 175 (1995).]

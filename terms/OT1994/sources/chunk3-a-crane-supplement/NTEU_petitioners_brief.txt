@@ -1,0 +1,2356 @@
+& HINED 
+
+
+No. 93-1170 JUN 13 1994 
+
+
+OFFICE GF THE CLERK 
+Iu the Supreme Court of the United States — 
+
+
+OCTOBER TERM, 1993 
+
+
+[Wiens dom, te 7 
+| 
+; 
+
+
+. 
+. 
+‘ 
+
+
+UNITED STATES OF AMERICA, ET AL., PETITIONERS 
+Vv. 
+NATIONAL TREASURY EMPLOYEES UNION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+MICHAEL R. DREEBEN 
+Assistant to the Solicitor General 
+
+
+JOHN C. HOYLE 
+
+ALFRED MOLLIN 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+Section 501(b) of the Ethics in Government Act of 
+1978, as amended, 5 U.S.C. App. 501(b) (Supp. IV 
+1992), prohibits the receipt of payment for appear- 
+ances, speeches, or articles by Members of Congress 
+and by employees and officers in all three branches 
+of government. The questions presented are: 
+
+
+1, Whether Section 501(b) violates the First 
+Amendment rights of employees in the Executive 
+Branch by prohibiting honoraria when neither the 
+expression nor the payor has a nexus to federal em- 
+ployment. 
+
+2. Whether, if Section 501(b) does infringe the 
+First Amendment to that extent, the court of appeals 
+erred in invalidating Section 501(b) as applied to all 
+honoraria received by Executive Branch employees, 
+rather than invalidating it only as applied to cases 
+where neither the expression nor the payor has a 
+nexus to federal employment. 
+
+
+(I) 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+The parties to the proceeding below were the United 
+States, the Office of Government Ethics, the Attorney 
+General, the Director of the Office of Government 
+Ethies, the National Treasury Employees Union, Jan 
+Adams Grant, Thomas C. Fishell,* the American Fed- 
+eration of Government Employees, David E. Hubler, 
+Peter G. Crane, Richard Deutsch, William H. Feyer, 
+Judith L. Hanna, George J. Jackson, Eduard Mark, 
+Arnold A. Putnam, Charles. E. Fager, and Robert A. 
+Gordon. The district court also certified a class rep- 
+resenting all employees in the Executive Branch below 
+
+
+the grade of GS-16. 
+
+
+* Mr. Fishell, who was a respondent when the petition was 
+filed, has left federal employment, and the writ of certiorari 
+has been dismissed with respect to him pursuant to Sup. Ct. R. 
+
+
+46.1. 
+
+
+TABLE OF CONTENTS 
+
+
+Constitution, statute, and 6 samtetions enced oo 
+
+
+Statement: 
+
+
+A. The background and enactment of the honorar- 
+jum ban ...... al liaaee i 
+
+
+B. The current controversy 
+Summary of argument .... 
+
+
+Argument: 
+The court of appeals erred in facially invalidating 
+the honorarium ban - 
+I. The honorarium ban does ast violate the First 
+ATE ES 
+A. The expressive interests of enslevens are 
+minimally impaired by the honorarium ban. 
+B. The government has significant interests in 
+banning the receipt of honoraria... 
+C. The court of appeals erred in analyzing the 
+constitutionality of the honorarium ban. 
+
+
+II. The court of appeals’ remedy is too broad be- 
+cause it exceeds the scope of the violation found. 
+
+
+ESE SA SR Oe el 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Alaska Airlines, Ine. Vv. Brock, 480 U.S. 678 
+EE SESS ET TE 
+Austin V. Michigan Chamber of Commerce, 494 
+EE ENE ES te 
+
+
+36 
+
+
+29 
+
+
+Board of Trustees Vv. Foz, 192 U.S. 469 (1989) 37, 41, 42 
+
+
+Booa V. Barry, 485 U.S. 312 (1988) 
+
+
+34 
+
+
+Broadrick Vv. Oklahoma, 413 U.S. 601 (1973) ..37, 41, 42, 43 
+
+
+Brockett v. Spokane Arcades, Inc., 472 U.S. 491 
+
+
+ES 37, 40, 43 
+
+
+IV 
+Cases—Continued: Page 
+Brown V. Glines, 444 U.S. 348 (1980)... — 18 
+Buckley V. Valeo, 424 U.S. 1 (1976) ..................18, 26, 86 
+CSC v. National Ass'n of Letter Carriers, 413 U.S. 
+
+I RR EE ee ae OE 18, 27 
+Connick v. Myere, 461 U.S. 138 (1983) . — * 
+Curtis, Ex parte, 106 U.S. 371 (1882)... 18 
+Edenfield Vv. Fane, 113 &. Ct. 1792 (1998)... 40 
+FEC y. National Condervative Political Action 
+
+Committee, 470 U.S. 480 (1985) 30, 41 
+FEC vy. National Right To Work Committee, 459 
+
+U.S. 197 (1982) ....... A LESS ee ee 35 
+
+. First National Bank of Boston v. Bellotti, 435 U.S. 
+
+765 (1978) .. Rane 18, 30, 31 
+INS v. Chadha, 462 US. 919° (1983) . nictinieie 36 
+Massachusetts V. Oakes, 491 U.S. 576 ( 1989) neko 41 
+National Treasury Employees Union v. United 
+
+States, 927 F.2d 1253 (D.C. Cir. 1991) 8, 16 
+New York v. Ferber, 458 U.S. 747 (1982) 36, 37, 41, 43 
+Parker Vv. Levy, 417 U.S. 783 (1974) 00000. 41 
+Pickering V. Board of Educ., 391 U.S. 563 (1968).. 9,13 
+Regan V. Time, Inc., 468 U.S. 641 (1984) 36 
+Renne V. Geary, 501 U.S. 312 (1991)... 37 
+
+
+Simon & Schuster, Inc. v. Members of New York 
+State Crime Victims Bd., 112 S. Ct. 501 (1991). 15 
+Snepp V. United States, 444 U.S. 507 (1980) _...... 13 
+
+United Public Workers v. Mitchell, 330 U.S. 75 
+EES REE EEE I ae 14, 18, 25, 26, 27, 29 
+
+United States v. Edge Broadcasting Co., 113 S. Ct. 
+ERS SES ae 40 
+United States v. Grace, 461 U.S. 171 (1983) —........ 39, 40 
+Waters V. Churchill, No. 92-1450 (May 31, 1994)... 14, 15, 
+17, 21, 29, 30, 31 
+
+
+Constitution, statutes and regulations: 
+
+
+Congressional Operations Appropriations Act, 
+1992, Pub. L. No. 102-90, Tit. I, § 6(b) (2), 105 
+Rn eee a 6 
+
+
+Vv 
+
+
+Statutes and regulations—Continued: Page 
+
+
+Ethics in Government Act of 1978, 5 U.S.C. 501 
+CE GO Ge Or TI dctrcetcertitinetcnnctesncerniectcnnis 2 
+5 U.S.C. App. 501(b) (Supp. TV 1992)... passim 
+5 U.S.C. App. 501(c) (Supp. IV 1992) 5 
+5 U.S.C. App. 503(2) (Supp. IV 1992) 6,7 
+5 U.S.C. App. 504(a) (Supp. TV 1992)... 6, 43 
+5 U.S.C. App. 504(b) (Supp. TV 1992). 7, 22, 42 
+5 U.S.C. App. 505 (Supp. IV 1992) 6 
+5 U.S.C. App. 505(1) (Supp. 11989) 5 
+5 U.S.C. App. 505(2) (Supp. 11989) eaten 5 
+5 U.S.C. App. 505(3) (Supp. 11989) 5 
+5 U.S.C. App. 505(3) (Supp. 1V 1992)... 6, 33, 38 
+
+
+Ethics Reform Act of 1989, Pub. L. No. 101-194, 
+
+
+Ry I etedeeettdidlocttiehscrnenennceneecheenensnsectapnences 5 
+§ 601 (a), 108 Stat. 1760 200. 5 
+§ 601 (a), 103 Stat. 1761-1762 00 5 
+§ 601 (a), 108 Stat. 1762 6 
+SEN: SC 7 
+
+
+Federal Election Campaign Act Amendments of 
+1974, Pub. L. No. 93-443, § 101(f) (1), 88 Stat. 
+ETE SES Ce a a 
+
+Federal Election Campaign Act Amendments of 
+1976, Pub. L. No. 94-283, § 112(2), 90 Stat. 494. 
+
+Hatch Act Reform Amendments of 1993, Pub. L. 
+No. 108-94, 107 Stat. 1001 0... 
+
+Legislative Branch Appropriations Act, 1992, Pub. 
+L. No. 102-90, § 314(b), 105 Stat. 469 (1991)... 
+
+National Defense Authorization Act for Fiscal 
+Year 1993, Pub. L. No. 102-484, § 542, 106 Stat. 
+I 
+
+Pub. L. No. 97-51, § 130(a), 95 Stat. 966 (1981) 
+
+Pub. L. No. 99-190, § 137, 99 Stat. 1323 (1985). 
+
+Supplemental Appropriations Act, 1983, Pub. L. 
+
+No. 98-63, § 908(b), 97 Stat. 387 0. 
+
+2 U.S.C. 31-1(b) (1988) (repealed) . 
+
+2 U.S.C. 441i (1976) (repealed) SA ES eee 
+
+EET a 
+
+| 
+
+ET 
+
+
+a S&S w» w 
+
+
+ABBwwew wos 
+
+
+VI 
+Statutes and regulations—Continued: Page 
+ED dartiinniinisisttemercichiepnmrnininnagnsisememaieginns 29 
+18 U.S.C. 616 (Supp. IV 1974) (repealed) .............. 2 
+SE ERS om I Os rere 39, 40 
+Exec. Order No. 12,668, 3 C. F.R. 210 (1989 | 
+| eee See ee ne EEN 4 
+5 C.F.R.: : 
+ee ae 42 
+Sections 2686.201 et seq. ......--.-......-.-.-.----seee-eeeeeee 7 
+oe gE ECE 7 
+Section 2686.208 (a) (4) .......-..-.-..------ccc.---0-eeeeeeees 16 
+Section 2636.208 (a) (5) ........-.-------.cccceedcceceeenes 16 
+Section SESS.BIS (a) (B). ...........200000...0.000..50.00000--. 7,16 
+Section 2636.203 (a) (9) 00-0. snanstiiae 7,16 
+Section 2636.203(b) ...... ia lensatalneritiatinabitall 7,16 
+TE TA Se ee 7,16 
+A aE Tn 7,16 
+Miscellaneous: 
+135 Cong. Rec. (1989) : 
+pp. H8747-H8748 (daily ed. Nov. 16,1989) ...... 5 
+p. H8766 (daily ed. Nov. 16, 1989) 0000000000... 32 
+p. $15948 (daily ed. Nov. 17,1989) 0.000000... 32 
+p. 815952 (daily ed. Nov. 17,1989)... 32 
+ARSE ES Ee Se ee 3 
+8 RESIS OIE ates ee A ee 3 
+
+
+Fairness for Our Public Servants: The Report of 
+The 1989 Commission on Executive, Legislative 
+and Judicial Salaries (Dec. 1988) .................. 3, 4, 19, 20 
+GAO Report to the Chairman, Subcomm. on Fed- 
+eral Services, Post Office and Civil Service of the 
+Senate Comm. on Governmental Affairs, Em- 
+ployee Conduct Standards: Some Outside Ac- 
+tivities Present Conflict-of-Interest paid 8 (Feb. 
+ESSE CRATER ES 22, 23 
+Report of the House Bipartisan Task Force on 
+Ethics on H.R. 3660, 101st Cong., 3 Sess. 
+
+— | Fs: A 3 
+S. Rep. No. 29, 102d Cong., ist Sess. (1991) leieiaes 5 
+To Serve with Honor: Report of the President’s 
+
+Commission on Federal Ethics Law Reform 
+(Mar. 1989) 8, 4, 5, 19, 20, 34 
+
+
+? ’ 
+es 
+
+
+Iu the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1993 
+
+
+~ No. 93-1170 
+UNITED STATES OF AMERICA, ET AL., PETITIONERS 
+Vv. 
+NATIONAL TREASURY EMPLOYEES UNION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals, Pet. App. 1a- 
+58a, is reported at 990 F.2d 1271. The opinions filed 
+on the denial of rehearing en banc, Pet. App. 80a- 
+107a, are reported at 3 F.3d 1555. The opinion of the 
+district court, Pet. App. 59a-78a, is reported at 788 
+F. Supp. 4. An opinion of the court of appeals affirm- 
+ing the denial of a preliminary injunction is reported 
+at 927 F.2d 1253. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered 
+on March 30, 1993. A petition for rehearing was 
+denied on September 21, 1993. On December 10, 1993, 
+the Chief Justice extended the time within which to 
+
+
+(1) 
+
+
+2 
+
+
+file a petition for a writ of certiorari to and including 
+January 19, 1994, and the petition was filed on that 
+date. The Court granted the petition on April 18, 
+1994. The jurisdiction of this Court rests on 28 
+U.S.C. 1254(1). 
+
+
+CONSTITUTION, STATUTE, AND 
+REGULATIONS INVOLVED 
+
+
+The First Amendment to the United States Con- 
+stitution provides: “Congress shall make no law * * * 
+abridging the freedom of speech.”” The relevant por- 
+tion of the Ethics in Government Act of 1978, as 
+amended, 5 U.S.C. App. 501 et seq. (Supp. IV 1992), 
+is set forth in the appendix to the petition. Pet. App. 
+108a-113a. The relevant regulations implementing 
+that Act are set forth in the appendix to the petition. 
+Pet. App. 114a-134a. 
+
+
+STATEMENT 
+
+
+A. The Background And Enactment Of The Honorarium 
+Ban 
+
+
+1. Congress has long placed restraints on the abil- 
+ity of federal employees to accept honoraria for ap- 
+pearances, speeches, and articles. In 1974, Congress 
+prohibited any “elected or appointed officer or em- 
+ployee of any branch of the Federal Government” 
+from accepting any honorarium of more than $1,000 
+(excluding expenses) for any “appearance, speech, or 
+article,” or from accepting more than $15,000 in total 
+honoraria payments during any calendar year.’ In 
+
+
+1976, Congress raised those limits to $2,000 per 
+
+
+1 Pub. L. No. 93-443, § 101(f) (1), 88 Stat. 1268 (1974), 
+formerly codified at 18 U.S.C. 616 (Supp. IV 1974) (repealed). 
+
+
+Se a 
+) 7 
+a 
+
+
+3 
+
+
+appearance, speech, or article and to $25,000 per 
+year.’ Later, Congress removed the $25,000 limita- 
+tion, but then capped the annual receipt of honoraria 
+for Members of Congress at 30%, and then 40%, of 
+the Members’ salaries." None of those provisions was 
+limited to honoraria received for expressive activities 
+that were related to the speaker’s federal employ- 
+ment; rather, all of them extended also to expressive 
+activities that bore no such relation. 
+
+These provisions failed to eliminate concerns about 
+the propriety of honoraria payments.‘ In the late 
+1980s, two blue-ribbon commissions expressed the 
+view that the existing limits on the receipt of hon- 
+oraria were inadequate.’ The commissions noted that 
+receipt of honoraria by Members of Congress had 
+created an appearance of impropriety and had under- 
+mined the public’s confidence in the integrity of pub- 
+lic officials. The report of the Quadrennial Commis- 
+sion concluded that “[t]he potential for abuse or 
+the appearance of abuse is obvious to the public” and 
+
+
+2? Pub. L. No. 94-283, §112(2), 90 Stat. 494 (1976), for- 
+merly codified at 2 U.S.C. 441i (1976) (repealed). — 
+
+
+*See Pub. L. No. 97-51, § 130(a), 95 Stat. 966 (1981): 
+Pub. L. No. 98-63, § 908(b), 97 Stat. 337 (1983) ; Pub. L. No. 
+99-190, § 137, 99 Stat. 1323 (1985), formerly codified at 2 
+U.S.c. 81-1(b) (1988) (repealed). 
+
+
+*See Report of the House Bipartisan Task Force on Ethics 
+on H.R. 3660, 101st Cong., Ist Sess. (Comm. Print 1989), 
+reprinted at 135 Cong. Rec. 30,740, 30,744 (1989). 
+
+
+* See Fairness for Our Public Servants: The Report of The 
+1989 Commission on Executive, Legislative and Judicial 
+Salaries 24 (Dec. 1988) (Quadrennial Commission Report) 
+(J.A. 233); To Serve with Honor: Report of the President’s 
+Commission on, Federal Ethics Law Reform 35-36 (Mar. 
+1989) (Wilkey Commission Report) (J.A. 252-254). 
+
+
+4 
+
+
+that public trust has been “threatened by the steady 
+growth of th[e] practice” of receiving honoraria.° 
+The President’s Commission on Federal Ethics Law 
+Reform—created to “review Federal ethics laws, Ex- 
+ecutive orders, and policies and * * * make recommen- 
+dations to the President for legislative, administra- 
+tive, and other reforms needed to ensure full public 
+confidence in the integrity of all Federal public off- 
+cials and employees” ‘—came to a similar conclusion. 
+That commission, chaired by the Honorable Malcolm 
+R. Wilkey, concluded that “[h]onoraria paid to offi- 
+cials can be a camouflage for efforts by individuals 
+or entities to gain the officials’ favor” and that “the 
+current ailment [caused by accepting honoraria] is a 
+serious one.” * 
+
+Both commissions recommended legislation totally 
+prohibiting the receipt of honoraria in all three 
+branches. The Wilkey Commission stated that, “in 
+the interest of alleviating abuses in the legislative 
+branch and in applying equitable limitations across 
+the government,” it “joins the Quadrennial Commis- 
+sion in recommending the enactment of legislation to 
+ban the receipt on honoraria by all officials and em- 
+ployees in all three branches of government.”* The 
+Wilkey Commission concluded that the ban must be a 
+comprehensive one to achieve its purpose: “To cur- 
+tail the risk that individuals will find a way to cir- 
+cumvent these restrictions, the bar on honoraria 
+
+
+* Quadrennial Commission Report at 24 (J.A. 233). 
+7 Exec. Order No. 12,668, 3 C.F.R. 210, 211 (1989 comp.). 
+* Wilkey Commission Report at 35-36 (J.A. 253-254). 
+
+
+® Wilkey Commission Report at 35-36 (J.A. 253-254) ; see 
+Quadrennial Commission Report at 24 (J.A. 234). 
+
+
+5 
+
+
+necessarily needs to extend both to activities related 
+to an individual’s official duties and to other activi- 
+ties.”’ 
+
+2. In the Ethics Reform Act of 1989 (Reform 
+Act), Pub. L. No. 101-194, 103 Stat. 1716—“a good 
+part of [which] is based on the recommendations of 
+the President’s ethics commission” “—Congress 
+amended the Ethics in Government Act of 1978 
+(Ethics Act) to provide that Members of Congress 
+and officers and employees of the federal government 
+“may not receive any honorarium while that individ- 
+ual is a Member, officer or employee.” * Reform Act 
+§ 601(a), 103 Stat. 1760, codified at 5 U.S.C. App. 
+501(b) (Supp. IV 1992). The prohibition was made 
+applicable to all officers or employees of the federal 
+government except for Senators, senate staff, and 
+“special Government employee[s],” as defined in 18 
+U.S.C. 202. Reform Act § 601(a), 103 Stat. 1761- 
+1762, codified at 5 U.S.C. App. 505(1) and (2) 
+(Supp. I 1989). The term “honorarium” was defined 
+to mean 
+
+
+a payment of money or any thing of value for 
+an appearance, speech or article by a Member, 
+
+
+10 Wilkey Commission Report at 36 (J.A. 254). 
+
+
+™ 135 Cong. Rec. H8747-H8748 (daily ed. Nov. 16, 1989) 
+{remarks of Rep. Martin). See also S. Rep. No. 29, 102d 
+Cong., Ist Sess. 3 (1991) (“Many provisions of the Ethics 
+Reform Act, including the honoraria ban, were based on the 
+recommendations of the President’s Commission on Federal 
+Ethics Law Reform. That Commission supported an absolute 
+ban on honoraria for all Government Officers and employees.”’) 
+(footnote omitted). 
+
+
+2 Congress also provided that if an honorarium up to 
+$2,000 is paid on behalf of the official to a qualifying chari- 
+table organization, it shall not be deemed to be received by 
+the official. 5 U.S.C. App. 501(c) (Supp. IV 1992). 
+
+
+6 
+
+
+officer or employee, excluding any actual and 
+necessary travel expenses incurred by such in- 
+dividual * * *. 
+
+
+Reform Act § 601(a), 103 Stat. 1762, codified at 5 
+U.S.C. App. 505(3) (Supp. I 1989). 
+
+
+In 1991, Congress amended Section 505 by extend- 
+ing the prohibition against the receipt of honoraria 
+to the Senate and its staff. Congressional Operations 
+Appropriations Act, 1992, Pub. L. No. 102-90, Tit. I, 
+§6(b) (2), 105 Stat. 450 (1991). Congress also 
+amended the definition of honorarium to deal specifi- 
+cally with a series of appearances, speeches, or arti- 
+cles. Legislative Branch Appropriations Act, 1992, 
+Pub. L. No. 102-90, § 314(b), 105 Stat. 469 (1991). 
+The definition, as amended, now reads: 
+
+
+The term “honorarium” means a payment of 
+money or any thing of value for an appearance, 
+speech or article (including a series of appear- 
+ances, speeches, or articles if the subject matter 
+is directly related to the individual’s official 
+duties or the payment is made because of the 
+individual’s status with the Government) by a 
+Member, officer or employee, excluding any ac- 
+tual and necessary travel expenses incurred by 
+such individual * * *. 
+
+
+5 U.S.C. App. 505(3) (Supp. IV 1992). 
+
+
+With respect to Executive Branch officers and em- 
+ployees, the honorarium ban is administered by des- 
+ignated agency ethics officers. 5 U.S.C. App. 503(2) 
+(Supp. IV 1992). The ban is enforceable through an 
+action brought by the Attorney General seeking a 
+civil penalty of not more than $10,000 or the amount 
+of prohibited compensation received, whichever is 
+greater. 5 U.S.C. App. 504(a) (Supp. IV 1992). 
+If, however, an individual has received an advisory 
+
+
+r a 
+. a 
+
+
+7 
+
+
+opinion from the Office of Government Ethics (OGE) 
+or a designated ethics entity and acts in good faith 
+in accordance with the opinion, that individual is not 
+subject to the civil sanction authorized by the Act. 
+5 U.S.C. App. 504(b) (Supp. IV 1992). 
+
+As the Ethics Act specifically authorizes, see 5 
+U.S.C. App. 503(2) (Supp. IV 1992), OGE has pro- 
+mulgated rules and regulations to implement the Act. 
+5 C.F.R. 2636.201 et seg. The regulations make clear 
+that Section 501(b) does not prevent federal em- 
+ployees from accepting reimbursement for a wide 
+variety of expenses associated with giving speeches, 
+producing articles, or making appearances. 5 C.F.R. 
+2636.203(a). The regulations also provide that the 
+ban on honoraria does not reach compensation for 
+teaching a course involving multiple presentations at 
+accredited programs or institutions. 5 C.F.R. 
+2636.203(a)(8) and (9). “Appearance” is defined 
+to exclude “performances using an artistic, athletic 
+or other such skill or talent or primarily for the 
+purpose of demonstration or display.” 5 C.F.R. 
+2636.203(b). “Speech” does not include the “recita- 
+tion of scripted material, as for a live or recorded 
+theatrical production,” nor does it include the “con- 
+duct of worship services or religious ceremonies.” 5 
+C.F.R. 2636.203(c). And “[a]rticle” does not include 
+“works of fiction, poetry, lyrics, or script.” 5 C.F.R. 
+2636.203(d). 
+
+
+B. The Current Controversy 
+
+
+1. Section 501(b) was enacted into law on Novem- 
+ber 30, 1989, and was to take effect on January 1, 
+1991. Reform Act § 603, 103 Stat. 1763. In late 
+1990, before the provision went into effect, several 
+Executive Branch employees and unions that repre- 
+sent them commenced actions challenging the ban in 
+
+
+the United States District Court for the District of 
+Columbia.” The actions claimed that the honorarium 
+ban violates the First Amendment and requested an 
+injunction against its enforcement.“ Pet. App. 3a, 
+60a-61a; J.A. 1-35. The district court consolidated 
+the actions, certified a class of all federal employees 
+in the Executive Branch below grade GS-16 who 
+would receive honoraria but for the prohibition con- 
+tained in Section 501(b), and granted summary judg- 
+ment in favor of the plaintiffs. Pet. App. 3a, 60a, 
+78a. 
+
+The court ruled that Section 501(b) violates the 
+First Amendment rights of Executive Branch em- 
+ployees because it is “over-inclusive” in prohibiting 
+the receipt of honoraria for expressive activities de- 
+spite the absence of a relationship between the sub- 
+ject matter of the expression and the employee’s fed- 
+eral employment or the identity or motives of the 
+payor. Pet. App. 73a. The court also ruled that the 
+
+
+18 As the district court noted, the individual plaintiffs are 
+“currently employed full-time” in executive departments and 
+agencies and include “a Nuclear Regulatory Commission law- 
+yer who writes on Russian history (Crane); a Voice of 
+America editor whose many published articles are generally 
+on matters of international economics (Deutsch); a micro- 
+biologist at the Food and Drug Administration who reviews 
+dance performances for print and broadcast media (Jack- 
+son); * * * and a civilian electronics technician for the U.S. 
+Navy and a spare-time scholar/author on ironclad vessel 
+technology of Civil War vintage (Putnam).” Pet. App. 60a, 
+61la n.1. 
+
+
+Respondents also requested a preliminary injunction. 
+The district court denied that relief, and its denial was upheld 
+on appeal. National Treasury Employees Union v. United 
+States, 927 F.2d 1253 (D.C. Cir. 1991). 
+
+
+rae, a 
+; 
+
+
+q 
+
+
+9 
+
+
+provision is constitutionally “under-inclusive” because 
+it permits artists or performers to receive compensa- 
+tion while barring similar payments to speechmakers 
+and essayists. bid. As relief, the court struck down 
+the honorarium ban in its entirety as applied to Exe- 
+cutive Branch employees, but left the ban intact as 
+applied to officers and employees in the Legislative 
+and Judicial Branches.” Id. at 73a-78a. 
+
+2. A divided court of appeals affirmed. Pet. App. 
+la-58a. Applying Pickering v. Board of Educ., 391 
+U.S. 563 (1968), the majority concluded that Section 
+501(b) violates the First Amendment rights of fed- 
+eral employees, because the honorarium ban is not 
+“narrowly tailored.” Pet. App. 14a. The court noted 
+that Section 501(b) prohibits honoraria even when 
+there is no “nexus between the employee’s job and 
+either the subject matter of the expression or the 
+character of the payor.” Jd. at 9a. It concluded that, 
+absent such a nexus, the receipt of honoraria would 
+create neither actual impropriety nor the appearance 
+of impropriety on the part of federal employees. 
+Ibid. The court also concluded that Congress’s across- 
+the-board ban on the receipt of honoraria by Execu- 
+tive Branch employees could not be justified as a pro- 
+phylactic measure to prevent abuses or to avoid the 
+administrative burdens that would arise in determin- 
+ing whether particular compensated speech has a 
+nexus to federal employment. 7d. at 1la-1l4a. 
+
+
+16 The district court enjoined the government from enforc- 
+ing the ban, but stayed its judgment and permanent injunc- 
+tion “pending completion of proceedings on any timely ap- 
+peal.” Pet. App. 78a. 
+
+
+10 
+
+
+Having held that Section 501(b) has an uncon- 
+stitutional “excess sweep,” the court of appeals 
+turned to the issue of remedy. Pet. App. 14a. The 
+court recognized that it should “refrain from invali- 
+dating more of the statute than is necessary.” Ibid. 
+(citation omitted). Nevertheless, the court concluded 
+that Section 501(b) must fall in its entirety as ap- 
+plied to Executive Branch employees because the 
+provision “does not seem to admit of any construc- 
+tion that would trim off all or even most of the in- 
+valid applications to executive branch employees.” 
+Pet. App. 14a. The court stated that “[a]rticulation 
+of some appropriate nexus test” to limit Section 
+501(b) to constitutional scope “would seem a purely 
+legislative act.” Ibid. . 
+
+The court of appeals found, however, that the ap- 
+plication of the honorarium ban to the Legislative 
+and Judicial Branches could be saved. Pet. App. 
+14a-15a. The court noted that respondents had not 
+argued that the honorarium ban is unconstitutional 
+as applied to congressional or judicial officers and 
+employees and that such a claim would implicate dif- 
+ferent considerations. Jbid. The court also ¢con- 
+cluded that Congress “clearly would have gone for- 
+ward [with Section 501(b)] as to the legislative 
+branch and in all probability as to the judicial 
+[branch],” even if Congress had known of the pro- 
+vision’s “unconstitutionality as applied to executive 
+branch employees.” Jd. at 15a. Applying severabil- 
+ity principles, the court therefore left Section 501(b) 
+in force as applied to the Legislative and Judicial 
+Branches. /d. at 17a-18a. 
+
+Judge Sentelle filed a lengthy dissent. Pet. App. 
+20a-58a. He argued that the majority had erred in 
+evaluating the facial constitutionality of Section 
+
+
+‘ 
+
+
+11 
+
+
+501(b), rather than considering the case simply as 
+a challenge to the honorarium ban as applied to the 
+plaintiffs. He also contended, on the merits, that the 
+flat ban on honoraria is justified by the government 
+interest in avoiding the appearance of impropriety 
+on the part of Executive Branch employees, and by 
+the government interest in devising an administrable 
+prohibition. Finally, he believed that the majority 
+had erred in determining which applications of the 
+statute to sever.”* 
+
+Over the dissent of two judges, the court of ap- 
+peals denied the government’s request for rehearing 
+and rehearing en banc. Pet. App. 79a, 80a-8la. ~ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. The honorarium ban is consistent with the re- 
+quirements of the First Amendment. When Con- 
+gress regulates speech by federal employees, the Con- 
+stitution requires that the employees’ interest in free 
+expression be weighed against the government’s in- 
+terest in effectively carrying out the public tasks 
+committed to its care. Under that test, Congress has 
+latitude to impose restraints on employees where the 
+regulated conduct may reasonably be thought to 
+threaten the efficiency of government operations. 
+
+
+1* Judge Sentelle argued that “the majority’s severance in 
+this case is nothing less than judicial legislation.” Pet. App. 
+54a (internal quotation marks omitted). He maintained that 
+the majority had inserted “words of limitation” into the stat- 
+ute in order to confine its ruling to the Executive Branch, 
+ibid.; in his view, the majority’s analysis should have led it 
+to strike the phrase “ ‘officer or employee’ in its entirety 
+from the statute, leaving the honorarium ban in place only as 
+to Members of Congress.” Jd. at 57a. 
+
+
+12 
+
+
+In this case, the burden placed on federal employ- 
+ees in the Executive Branch by the honorarium ban 
+is modest. The ban does not prevent or punish 
+speech of any kind; rather it bans only the receipt 
+of payment for employee speech. The limited detri- 
+ment imposed by this sort of limitation on the out- 
+“side earnings of federal employees is outweighed by 
+the government’s legitimate interests. The ban 
+serves to promote the integrity and the appearance 
+of integrity of the federal workforce; it prevents the 
+evasion that a more limited rule might permit; and 
+it avoids the enforcement problems that would be 
+presented by a more permeable and nuanced ban. 
+
+The court of appeals invalidated the ban because 
+it prohibits honoraria even when the expression is 
+unrelated to federal employment and the payment is 
+received from parties with no interest in currying 
+favor with the employee. In doing so, the court in- 
+correctly declined to apply this Court’s cases uphold- 
+ing prophylactic regulations of employee speech, relied 
+instead on inapplicable cases dealing with fully 
+protected private speech, and improperly refused to 
+credit Congress’s judgment that a government-wide 
+flat ban was required to prevent abuses. The court’s 
+nondeferential level of review and the conclusions it 
+reached were erroneous. 
+
+II. Even if the court of appeals were correct in 
+holding that the honorarium ban violates the First 
+Amendment rights of Executive Branch employees to 
+some extent because it prohibits honoraria even where 
+there is no demonstrable connection to federal employ- 
+ment, the court’s remedy was overbroad. The court 
+struck down the honorarium ban with respect to all 
+payments to Executive Branch employees, even though 
+the court conceded that the ban could constitutionally 
+
+
+13 
+
+
+be applied when a nexus to federal employment 
+exists. This Court, however, has made clear that a 
+court should invalidate no more of an unconstitu- 
+tional law than is necessary. In this case, that prin- 
+ciple would require that the honorarium ban be in- 
+validated only to the extent that the government fails 
+to show a nexus to federal employment, based on 
+either the character of the speech or the identity of 
+the payor. Such a remedy would afford full relief to 
+the plaintiffs for the conduct found to be constitu- 
+tionally protected, while leaving the government free 
+to enforce the ban against honoraria where such a 
+nexus can be established. 
+
+
+ARGUMENT 
+
+
+THE COURT OF APPEALS ERRED IN FACIALLY 
+INVALIDATING THE HONORARIUM BAN : 
+
+
+I. THE HONORARIUM BAN DOES NOT VIOLATE 
+THE FIRST AMENDMENT 
+
+
+Regulaticns that impinge on the speech of govern- 
+ment employees are judged under a First Amend- 
+ment test that requires a court to weigh “the inter- 
+ests of the [employee], as a citizen, in commenting 
+upon matters of public concern” against “the inter- 
+est of the [government], as an employer, in promot- 
+ing the efficiency of the public services it performs 
+through its employees.” Pickering v. Board of Educ., 
+391 U.S. 563, 568 (1968); see Connick v. Myers, 
+461 U.S. 138, 142 (1983). This test permits the 
+government to impose restrictions on expressive ac- 
+tivity by public employees that would be unconsti- 
+tutional in other settings. Snepp v. United States, 
+444 U.S. 507, 509 n.3 (1980) (per curiam). The use 
+
+
+§ 
+_ _— 
+
+
+14 
+
+
+of such a balancing test reflects the recognition that 
+the government, when it acts as an employer, “has 
+far broader powers than does the government as sov- 
+ereign,” because of “the nature of the government’s 
+mission as employer.” Waters v. Churchill, No. 92- 
+1450 (May 31, 1994), slip op. 9, 12 (plurality 
+opinion). 
+
+
+Government agencies are charged by law with 
+doing particular tasks. Agencies hire employees 
+to help do those tasks as effectively and effi- 
+ciently as possible. When someone who is paid 
+a salary so that she will contribute to an 
+agency's effective operation begins to do or say 
+things that detract from the agency’s effective 
+operation, the government employer must have 
+some power to restrain her. 
+
+
+Id. at 12 (plurality opinion). 
+
+
+To give sufficient latitude to government officials 
+to operate the machinery of government effectively, 
+the Court has “consistently given greater deference 
+to government predictions of harm used to justify 
+restriction of employee speech than to predictions of 
+harm used to justify restrictions on the speech of 
+the public at large.” Waters v. Churchill, supra, slip 
+op. 10 (plurality opinion). Congress may thus im- 
+pose restraints on emplov2es, without violating the 
+First Amendment, as long as the conduct in question 
+may be “reasonably deemed by Congress to interfere 
+with the efficiency of the public service.” United 
+Public Workers v. Mitchell, 330 U.S. 75, 101 (1947). 
+Taking into account the character of the restriction 
+imposed by the honorarium ban and the nature and 
+magnitude of the government interests that support 
+it, the ban is constitutional. 
+
+
+ed a 
+- 
+
+
+: 15 
+
+
+A. The Expressive Interests Of Employees Are Mini- 
+mally Impaired By The Honorarium Ban 
+
+
+The initial step in evaluating the honorarium ban 
+under the First Amendment is to consider its impact 
+on employee expression. Section 501(b) does not 
+prohibit or punish any speech, or discriminate based 
+on subject or viewpoint. Rather, it prohibits only the 
+receipt of money or other compensation for speech 
+by those who have accepted the responsibility of fed- 
+eral employment (and who are paid for doing so). 
+The First Amendment is implicated, therefore, only 
+to the extent that speakers will be less willing to en- 
+gage in expressive activity because they cannot sup- 
+plement their federal salaries by receiving honoraria, 
+While removing a financial incentive to engage in 
+expression does trigger First Amendment concern, 
+see Simon & Schuster, Inc. v. Members of New York 
+State Crime Victims Bd., 112 S. Ct. 501 (1991), the 
+character of the restriction in Section 501(b) is far 
+less onerous than a ban on expression, and the re- 
+striction consequently has less weight in the Picker- 
+ing balance.” 
+
+
+' This Court’s previous cases considering First Amend- 
+ment protection for employee speech (¢.g., Pickering, Con- 
+nick, Waters) have all involved direct sanctions placed on 
+speech (such as termination) for statements with particular 
+content; none has involved the lesser restraint of barring 
+payment for speech. The court of appeals acknowledged the 
+reduced weight of the employees’ interest in this case. Pet. 
+App. 5a (the “financial burden on speech” in this case creates 
+a “First Amendment interest” that is “somewhat less weighty 
+than under a flat ban”). 
+
+
+In cases involving sanctions placed on employee speech be- 
+cause of its content, the Court has declined to accord First 
+Amendment protection to speech that is entirely on matters 
+of private, rather than public, concern. See Waters, supra, 
+
+
+16 
+
+
+Indeed, not only does the statute leave employees 
+completely free to speak on any topic, but under Sec- 
+tion 501(b)’s implementing regulations, the ban 
+leaves room for a variety of forms of compensated 
+expression deemed not to implicate Congress’s con- 
+cern about the actuality or appearance of impro- 
+priety. Employees thus are not barred from receiv- 
+ing compensation for teaching courses involving mul- 
+tiple presentations at accredited programs or insti- 
+tutions, 5 C.F.R. 2636.203(a)(8) and (9); for en- 
+gaging in “performances using an artistic, athletic 
+or other such skill or talent or primarily for the pur- 
+pose of demonstration or display,” 5 C.F.R. 2636.- 
+203(b); for reciting “scripted material, as for a live 
+or recorded theatrical production,” 5 C.F.R. 2636.- 
+203(c); or for writing a “book or a chapter of a 
+book” or “works of fiction, poetry, lyrics, or script,” 
+5 C.F.R. 2636.203(d). Nor does the honorarium ban 
+preclude reimbursement for many of the usual and 
+customary expenses incurred in producing writings, 
+or making speeches or appearances.” 5 C.F.R. 
+2636.203(a) (4) and (5). 
+
+
+slip op. 11. That distinction does not appear to be important 
+under the honorarium ban (which does not focus on the spe- 
+cific content of employee speech), and we assume that re- 
+spondents’ speech has some First Amendment protection 
+whether or not it is on a matter of public concern. 
+
+
+1%*’See National Treasury Employees Union v. United 
+States, 927 F.2d 1258, 1255 (D.C. Cir. 1991) (“The Act and 
+the OGE regulations expressly exclude ‘actual and nécessary 
+travel expenses’ from the definition of an honorarium. * * * 
+The regulations also exclude from the honoraria ban ‘[a]ctual 
+expenses in the nature of typing, editing and reproduction 
+costs,’ and ‘{m]eals or other incidents of attendance, such as 
+waiver of attendance fees or course materials furnished as 
+
+
+Pv el een ) er a 
+
+
+17 
+
+The honorarium ban prevents the receipt of com- 
+pensation for individual appearances, speeches, and 
+articles. Some federal employees will undoubtedly 
+choose not to engage in one or more of those activi- 
+ties because they cannot be paid for doing so. That 
+effect. on the employees cannot be considered a severe 
+burden. The employees covered by the honorarium ban 
+are on the federal payroll and are therefore not likely 
+in most cases to be financially dependent on outside 
+earnings from expressive activity. And “to the ex- 
+tent that [employees] may be financially dependent 
+on honoraria, the weight of the government interest 
+in avoiding the appearance of impropriety or corrup- 
+tion [from the receipt of those payments] is greatly 
+bolstered.” Pet. App. 34a (Sentelle, J., dissenting). 
+
+The restriction on the receipt of honoraria thus 
+places, at most, a relatively modest burden on em- 
+ployee speech. Even when the government directly 
+punishes employee speech (by, for example, terminat- 
+ing the employee’s employment), the government is 
+not required to show that its action is “narrowly 
+tailored to [serve] a compelling government interest.” 
+See Waters v. Churchill, supra, slip op. 12 (plurality 
+opinion). When the only restriction imposed is a 
+content-neutral one on the receipt of extracurricular 
+income, the burden of justification on the government 
+is not an especially heavy one. 
+
+
+B. The Government Has Significant Interests In Ban- 
+ning The Receipt Of Honoraria 
+
+
+The honorarium ban is supported by several sig- 
+nificant government interests. First, the ban on this 
+
+
+part of the event at which an appearance or speech is made.’ 
+Fairly read, these provisions encompass all of the necessary 
+expenses that the [employees] incur.”) (citations omitted). 
+
+
+18 
+
+
+form of outside income promotes the integrity and 
+appearance of integrity of the federal workforce. 
+Second, the ban serves as a prophylactic measure 
+that resists attempts at evasion. Third, the ban 
+serves goals of administrative efficiency. Those in- 
+terests readily justify Section 501(b)’s restriction on 
+the ability of government employees to receive in- 
+come from speech-related activity. 
+
+1. Congress has a compelling interest in prevent- 
+ing actual or apparent impropriety by government 
+employees. The citizenry must have confidence that 
+the personnel responsible for the public’s business are 
+not subject to improper influence by private special 
+interests. “Congress could legitimately conclude that 
+the avoidance of the appearance of improper influ- 
+ence ‘is * * * critical . . . if confidence in the system 
+of representative Government is not to be eroded to 
+a disastrous extent.’” Buckley v. Valeo, 424 U.S. 1, 
+27 (1976) (per curiam), quoting CSC v. National 
+Ass’n of Letter Carriers, 413 U.S. 548, 565 (1973) ; 
+see also First National Bank of Boston v. Bellotti, 
+435 U.S. 765, 789 (1978); Ex parte Curtis, 106 U.S. 
+871, 373 (1882). Accordingly, it is consistent with 
+the First Amendment for Congress to take strong 
+measures to protect the integrity and the appearance 
+of integrity of the federal workforce, so long as the 
+behavior it seeks to regulate may be “reasonably 
+deemed by Congress to interfere with the efficiency 
+of the public service.” United Public Workers v. 
+Mitchell, 330 U.S. at 101. (upholding the Hatch Act) ; 
+CSC v. National Ass’n of Letter Carriers, 413 U.S. 
+at 564-567 (same); Brown v. Glines, 444 U.S. 348, 
+356 n.13 (1980). 
+
+The payment of money to federal government em- 
+ployees for the activities covered by the honorarium 
+
+
+19 
+
+
+ban can involve actual corruption; more importantly, 
+it can readily convey an appearance to the public 
+that influential access to government officials can be 
+purchased by outside interest groups. Members of 
+the public may have the impression that when a gov- 
+ernment employee is paid for his articles or speeches 
+—even on topics ostensibly unrelated to the employ- 
+ee’s duties—the receipt of the payment constitutes 
+an abuse of government authority or a means for 
+private interests to influence official action. Such a 
+belief seriously undermines citizens’ confidence in 
+government. Honoraria had long been subject to 
+congressional regulation precisely because of the ease 
+with which officials may engage in ostensibly legiti- 
+mate activities—giving a speech, writing an article, 
+or making an appearance—when in fact little or no 
+real effort was required on the official’s part, and the 
+payment was made principally because of the offi- 
+cial’s status. While other means of channeling 
+money to officials with the goal of buying influence 
+could pose similar risks, honoraria had emerged as a 
+widespread practice that raised special concerns. 
+Congress experimented with various financial limi- 
+tations and caps on honoraria, but it ultimately re- 
+ceived the views of two distinguished commissions 
+that such limitations were inadequate. See pages 2-5, 
+supra. The Wilkey Commission, in reporting on fed- 
+eral ethics reform, found “no justification for per- 
+petuating the current system of honoraria.” Wailkey 
+Commission Report at 35 (J.A. 253). The Commis- 
+sion explained that “[h]onoraria paid to officials can 
+be a camouflage for efforts by individuals or entities 
+to gain the officials’ favor.” Jbid. And the Quadren- 
+nial Commission endorsed the testimony of present 
+and former congressional leaders and citizens’ organi- 
+
+
+20 
+
+
+zations that the “potential for impropriety* in the 
+present rules governing honoraria [is] so high that 
+the practice of receiving honoraria should be elimi- 
+nated.” Quadrennial Commission Report at 24 (J.A. 
+233). While both commissions discussed past abuses 
+of the practice of receiving honoraria with reference 
+to “payments for public appearances to deliver a talk 
+or engage in a colloquy at the invitation of some non- 
+governmental group,” the commissions also agreed 
+that a broader statutory definition of honoraria was 
+required, in order to close “present and potential loop- 
+holes.” Wilkey Commission Report at 35, 36 (J.A. 
+253, 254); Quadrennial Commission Report at 24 
+(J.A. 232, 234). 
+
+2. The second interest supporting a broad ban on 
+honoraria is the interest in avoiding the risk that a 
+narrower limitation could be evaded. While some 
+forms of compensated speech by federal employees, 
+before some audiences, may seem sufficiently unre- 
+lated to federal employment as to raise no concern, 
+apparently innocuous payments could be made for im- 
+proper purposes. Indeed, the Wilkey Commission 
+made this exact point: “To curtail the risk that in- 
+dividuals will find a way to circumvent these restric- 
+tom he bar on honoraria necessarily needs to ex- 
+tend -both-to activities related to an individual’s offi- 
+cial duties and to other activities.” Wilkey Commis- 
+sion Report at 36 (J.A. 254). 
+
+3. Finally, the government has an interest in 
+avoiding the administrative difficulties that would 
+attach to any rule requiring a substantial number of 
+case-by-case judgments about the appropriateness of 
+particular honoraria. “The government’s interest in 
+achieving its goals as effectively and efficiently as 
+possible is elevated from a relatively subordinate in- 
+
+
+21 
+
+
+terest when it acts as sovereign to a significant one 
+when it acts as employer.” Waters v. Churchill, 
+supra, slip op. 12 (plurality opinion). While effi- 
+ciency concerns would not ordinarily justify limita- 
+tions on the First Amendment rights of “the public 
+at large[,] * * * where the government is employing 
+someone for the very purpose of effectively achieving 
+its goals, such restrictions may well be appropriate.” 
+Id, at 12-13 (plurality opinion). 
+
+Officials might often encounter significant difficulty 
+in determining whether an appearance of impropriety 
+is threatened by particular individual honoraria pay- 
+ments, and the administrative costs of such particu- 
+larized review could be substantial. Congress would 
+be required either (1) to staff a centralized federal 
+ethics office with the capacity to pass on the proposed 
+appearances, speeches, or articles of the entire federal 
+workforce, or (2) to delegate to officials in different 
+agencies the task of reviewing individual honoraria 
+payments to determine whether a prohibited relation- 
+ship to federal employment exists. The first approach 
+might not only be expensive and inefficient, it would 
+also run the risk that a central ethics official would 
+be unaware of the details of a particular agency’s 
+range of business and might therefore overlook the 
+impropriety or appearance of impropriety raised by 
+particular honoraria. The second approach, involving 
+decentralized administration, could give rise to dis- 
+parate interpretations of the law, as each agency 
+formed its own view about what constitutes appro- 
+priate honoraria payments. A ‘government-wide flat 
+ban on honoraria for individual appearances, speeches, 
+and articles reduces those difficulties.” 
+
+
+"The Ethics Act does provide for designated ethics offi- 
+cials in each covered agency to render advisory opinions to 
+
+
+22 
+
+
+The difficulties of a more limited ban on honoraria 
+administered by individual agencies are made clear 
+by a 1992 report by the General Accounting Office 
+(GAO Report).” The GAO examined outside activi- 
+ties of federal employees from 1988 to 1990 (before 
+the honorarium ban) that could create an appear- 
+ance of a conflict of interest. Following a study 
+of ethics enforcement by 11 agencies, the GAO 
+found that the most commonly approved outside ac- 
+tivities were speaking and consulting. Even though 
+standards were in place intended to screen out activi- 
+ties that raised conflicts of interest or that would 
+appear to do so, some agencies exhibited “overly per- 
+missive policies and practices.” GAO Report at 9. 
+The GAO also found that OGE was unable to ensure 
+that the rules were enforced effectively and uni- 
+formly. Jd. at 2, 12-13. The GAO concluded that 
+some agencies had thereby “approved activities that 
+
+
+employees interpreting the honorarium ban as applied to par- 
+ticular facts. 5 U.S.C. App. 504(b) (Supp. IV 1992). The 
+issue that is determined in such advisory opinions, however, 
+is not whether the particular content of an employee’s in- 
+dividual appearance, speech, or article, or the payor of the 
+employee's fee, raises concerns about actual or apparent im- 
+propriety. Rather, it is whether the categorical type of ex- 
+pression in question is covered by the honorarium ban and 
+its implementing regulations. That task is a far more man- 
+ageable one. So too is the task of applying the more limited 
+scope of the honorarium ban that Congress applied to a 
+“series” of appearances, speeches, or articles. See note 26, 
+infra, and accompanying text. 
+
+
+2° See GAO Report to the Chairman, Subcomm. on Federal 
+Services, Post Office and Civil Service of the Senate Comm. 
+on Governmental Affairs, Employee Conduct Standards: Some 
+Outside Activities Present Conflict-of-Interest Issues (Feb. 
+1992), reprinted at Common Cause Amicus Br. App. A (filed 
+Mar. 24, 1994). 
+
+
+23 
+
+
+were questionable as to the appropriateness of 
+accepting compensation” from non-governmental 
+sources. Jd. at 9. While the GAO Report was not 
+before Congress when it enacted Section 501(b), its 
+findings give credence to Congress’s decision to avoid 
+the risk that patchwork enforcement of a limited 
+honorarium ban might produce some of the very ap- 
+pearances of impropriety that Section 501(b) sought 
+to overcome. 
+
+In sum, the prohibition on the receipt of honoraria 
+—regardless of the content of an individual appear- 
+ance, speech, or article, and regardless of the identity 
+of the person paying the fee to the federal employee 
+—furthers important government interests that 
+would be compromised were the ban less comprehen- 
+sive. In the Pickering balance, those interests out- 
+weigh the limited financial burden placed on federal 
+employees and make the ban a reasonable one, con- 
+sistent with the requirements of the First Amend- 
+ment. 
+
+
+C. The Court Of Appeals Erred In Analyzing The 
+Constitutionality Of The Honorarium Ban 
+
+
+In invalidating the honorarium ban, the court of 
+appeals held that the government has an interest in 
+regulating honoraria payments only if a “nexus” 
+exists between the employee’s expression and either 
+the nature of his employment or the identity of the 
+payor. Pet. App. 9a. The court then found that re- 
+striction of honoraria payments, when such a nexus 
+does not exist, burdens speech without an adequate 
+justification. That conclusion rests on two interre- 
+lated analytical errors. First, the court erred by 
+disagreeing with Congress about the kinds of harms 
+that could be deemed to arise: from the receipt of 
+honoraria, even when no nexus to employment can 
+
+
+24 
+
+
+be identified. Second, the court erred by demanding 
+concrete evidence of abuses under the prior admin- 
+
+
+istrative scheme in order for Congress to enact a- 
+
+
+broad prophylactic ban.” — 
+
+1. In striking down the honorarium ban, the court 
+of appeals recognized that “the government has a 
+strong interest in prutecting the integrity and effi- 
+ciency of public service and in avoiding even the ap- 
+pearance of impropriety created by abuse of the prac- 
+tice of receiving honoraria.” Pet. App. 6a. The court 
+further noted that it could “safely assume * * * that 
+the interest in avoiding the appearance of impro- 
+priety is strong enough to outweigh government em- 
+ployees’ interest in engaging in speech for compensa- 
+
+
+21 The court of appeals engaged in an extensive analysis of 
+the precise degree of “tailoring” that is required of a govern- 
+ment regulation of the speech of public employees. Pet. App. 
+6a-8a. This Court’s decisions, however, have never articu- 
+lated an independent “narrow tailoring” requirement applica- 
+ble to regulations of employee speech, and it would be unwise 
+to apply in this context the narrow tailoring test designed 
+to judge regulations of speech of the public at large. “The 
+breadth * * * of the governmental restriction is of course 
+relevant to the Pickering analysis,” because “[w]hen the 
+government burdens substantially more speech than ‘re- 
+quired’ by its asserted interest, then its asserted interest 
+might not outweigh that greater burden.” Pet. App. 103a 
+(Silberman, J., dissenting from the denial of rehearing en 
+banc). But a rigid “narrow tailoring” requirement is in- 
+appropriate under Pickering, because. the degree of tailoring 
+that is required will vary depending on the nature of the bur- 
+den on employees and the strength of the government inter- 
+ests at stake. Here, for example, a more lenient degree of 
+tailoring should be demanded, since the only burden on em- 
+ployees is a restriction on outside income derived from 
+speech, and the government interest in strengthening citizen 
+confidence in the integrity of the federal workforce is a com- 
+pelling one. 
+
+
+25 
+
+
+tion where the compensation creates such an appear- 
+ance.” Ibid. The court concluded, however, that the 
+practice of receiving honoraria poses problems that 
+justify a ban only when there is a “nexus between 
+the employee’s job and either the subject matter of 
+the expression or the character of the payor’; only 
+then is there “the sort of impropriety or appearance 
+of impropriety at which the statute is evidently 
+aimed.” Jd. at 9a. 
+
+Congress, however, could have reasonably deemed 
+honoraria to pose a threat to the public’s perception 
+of the integrity of the federal workforce, whether 
+or not a specific nexus can be shown. United Public 
+Workers v. Mitchell, 330 U.S. at 101. The public 
+is not likely to be aware of the full range of re- 
+sponsibilities of a particular employee, or whether 
+the payor of the honorarium has a specific interest in 
+a matter pending before the employee’s agency. Vir- 
+tually any payment for employee speech could there- 
+fore trigger citizen concern. The interest in reduc- 
+ing suspicion about the cause or effect of a particu- 
+lar honorarium supports a flat ban, with no grey 
+areas. 
+
+While it may be that some lower-echelon employees 
+have such modest responsibilities that the public 
+would not ordinarily assume that an honorarium for 
+unrelated speech involves the possibility of impropri- 
+ety, the question is necessarily one of degree. Even 
+the court of appeals seemed willing to acknowledge 
+that the receipt of honoraria by a GS-7 “tax examin- 
+ing assistant” (J.A. 67) could stimulate citizen con- 
+cern, “[i}n view of the universality of citizens’ sub- 
+jection to the Internal Revenue Service.” Pet. App. 
+10a. Yet many career federal employees wield ex- 
+tensive authority over citizens in particular settings. 
+
+
+26 
+
+
+For example, employees in law enforcement agencies, 
+inspectors of agricultural goods, bank examiners, and 
+procurement officials in all departments have sig- 
+nificant sontrol over matters of importance to citi- 
+zens. Opinions may differ about precisely which em- 
+ployees must be subject to the most rigorous ethical 
+rules in order to prevent issues of apparent impropri- 
+ety from surfacing. In these circumstances, Congress 
+elected to close potential ‘oo; holes and to impose a 
+uniform set of rules. The court of appeals erred by 
+substituting its judgment for Congress’s on this issue.” 
+
+2. In United Public Workers v. Mitchell, supra, 
+this Court rejected a claim, analogous to that ac- 
+cepted by the court of appeals, that Congress had 
+swept too broadly in covering all federal employees 
+under the Hatch Act. In holding that Congress 
+could seek to eradicate the problems caused by par- 
+tisan political activity in the federal service, the 
+Court relied on Congress’s appraisal of the potential 
+dangers. Thus, the Court rejected the argument that 
+
+
+2 In Buckley v. Valeo, 424 U.S. 1, 82 (1976) (per curiam), 
+this Court upheld federal campaign laws against an over- 
+breadth challenge based on the theory that the “monetary 
+thresholds in the record-keeping and reporting provisions lack 
+a substantial nexus with the claimed governmental interests, 
+for the amounts involved are too low even to attract the 
+attention of the candidate, much less have a corrupting influ- 
+ence.” While recognizing that the “thresholds are indeed low,” 
+id. at 83, the Court held that “[t]he line is necessarily a judg- 
+mental decision, best left in the context of this complex leg- 
+islation to congressional discretion.” Ibid. Because that ration- 
+ale satisfied the “strict scrutiny” applied to fully protected 
+political speech in Buckley, 424 U.S. at 75, it is also sufficient 
+in the context of the reduced First Amendment level of scru- 
+tiny applicable here. 
+
+
+a lower-rung employee, such as a roller in the mint, 
+could not be covered by the ban on partisan political 
+activity, because Congress “may have concluded” that 
+advancement in government service could come to 
+depend on participating in politics and “may have 
+thought” that government employees could usefully 
+be conscripted into a political machine. 330 U.S. at 
+101. And the Court rejected the claim that “indus- 
+trial” rather than “administrative” employees could 
+not be covered by the Hatch Act, viewing such dis- 
+tinctions in types of employees to be “differences in 
+detail” that were for Congress to determine. /d. at 
+102. In CSC vy. National Ass’n of Letter Carriers, 
+413 U.S. at 564-567, the Court, with the Pickering 
+balancing test in mind, reaffirmed its conclusion that 
+the broad prophylactic approach of the Hatch Act 
+does not violate the First Amendment. The analysis 
+in the Hatch™Act cases cannot be squared with the 
+court of appeals’ holding here. 
+
+Section 501(b) is a far milder prophylactic rule 
+than the rule upheld in Mitchell and CSC. The Hatch 
+Act barred most federal employees from taking “any 
+active part in political management or in political 
+campaigns.” Mitchell, 330 U.S. at 78. The Act thus 
+sharply limited political rights that lie at the heart 
+of the First Amendment. See Connick v. Myers, 461 
+U.S. at 145. This case, in contrast, does not involve 
+any direct limitatio.: on political speech, and does not 
+prohibit any speech or activity from taking place. 
+Rather, it prohibits only the receipt of financial 
+rewards above and beyond the expenses incurred by 
+the employee. If anything, therefore, greater defer- 
+ence is owed to Congress’s broad ban on honoraria in 
+this case than to its ban of partisan politics in the 
+Hatch Act. 
+
+
+27 
+
+
+= a ill 
+
+
+28 
+
+
+The court of appeals dismissed the Hatch Act 
+cases on the basis that the Hatch Act addressed a 
+threat of subtle pressure to engage in partisan polit- 
+ical activity, such that “it is in the nature of the 
+evil to be averted that it will be concealed.” Pet. 
+App. 13a. In that setting, the court believed that no 
+concrete examples of abuse would be expected to sur- 
+face and that this justified relieving Congress of the 
+burden to point to a record of prior abuses. /bid. 
+For three reasons, the court of appeals erred in re- 
+fusing to apply the test articulated in Mitchell. 
+
+First, this Court has never said that Mitchell’s test 
+is limited to legislative remedies for subtle forms of 
+abuse. The Court gave Congress a freer hand to reg- 
+ulate the speech of employees than it has to regulate 
+the speech of the citizenry at large because of the 
+special interests that the government has as employer. 
+Mitchell’s deferential approach was not fashioned 
+specifically because of a belief that the problem of 
+coercion of employees to engage in partisan politics 
+could easily be concealed. 
+
+Second, whenever Congress is imposing a regula- 
+tory net in part to prevent corruption, as in this 
+case, it is likely that prior corrupt activity would 
+- have been concealed and that its specific effects may 
+be hard to discern. If it is difficult to determine 
+whether employees have been covertly influenced to 
+engage in partisan politics, it is also difficult to de- 
+termine the extent to which public confidence in gov- 
+ernment may be eroded because of actual or perceived 
+impropriety in the receipt of honoraria. In either 
+case, the primary body to make the relevant judgment 
+is Congress. 
+
+Third, Congress did have before it evidence of 
+significant abuse of honoraria—in the Legislative 
+
+
+29 
+
+
+Branch. Congress was entitled to extrapolate from 
+its own experience and to conclude that comparable 
+abuses could also occur in the other branches of gov- 
+ernment. And, while public perception of abuses of 
+honoraria may be more likely at the upper reaches 
+of the Executive Branch, Congress was within its 
+discretion in applying the honorarium ban to all em- 
+ployees where the potential for abuse exists—just as 
+Congress did in the Hatch Act, see Mitchell, 330 U.S. 
+at 101, and just as it has done with a panoply of 
+anti-corruption laws that are applicable to all Execu- 
+tive Branch employees, from clerks to cabinet officers.” 
+See also Austin v. Michigan Chamber of Commerce, 
+494 U.S. 652, 661 (1990). 
+
+As a plurality of the Court noted in Waters v. 
+Churchill, supra, slip op. 10, in evaluating “govern- 
+ment predictions of harm used to justify restrictions 
+
+
+' of employee speech,” the Court has not insisted on 
+
+
+“tangible, present interference with the agency’s 
+
+
+‘ operation.” Rather, the “danger[s]” found suffi- 
+
+
+cient by the Court have been “mostly speculative.” 
+Ibid. Indeed, “[o]ne could make a respectable argu- 
+ment that political activity by government employees 
+is generally not harmful,” ibid., but this Court has 
+nevertheless upheld Congress’s broad Hatch Act pro- 
+hibitions. There is no reason for a different conclu- 
+sion here with respect to the honorarium ban.” 
+
+
+8 See, e.g., 18 U.S.C. 201(b) and (c) (prohibiting solicita- 
+tion or receipt of bribes or illegal gratuities) ; 18 U.S.C. 209 
+(prohibiting receipt of compensation for government service 
+or a supplementation of salary from a private party). 
+
+
+** Congress remains free “to give additional protections to 
+its employees beyond what is mandated by the First Amernd- 
+ment, out of respect for the values underlying the First 
+
+
+30 
+
+
+3. Rather than applying the deferential approach 
+reflected in this Court’s cases dealing with the First 
+Amendment rights of public employees, — court - 
+
+ls took its guidance from cases construing 
+First haneptineed be the context of fully protected 
+private speech. In rejecting the claim that the hon- 
+orarium ban is a legitimate prophylactic measure, 
+the court of appeals stated that “a mere ‘hypothetical 
+possibility’ of a corrupt ‘exchange of political favors 
+is not enough” to support the law; actual evidence 
+of abuse is required. Pet. App. 12a. In support of 
+that test, the court of appeals quoted from FEC v. 
+National Conservative Political Action Committee, 
+470 U.S. 480, 498 (1985), and cited First National 
+Bank of Boston v. Bellotti, 485 U.S. 765, 789 (1978). 
+Pet. App. 12a-13a. Both of those cases, however, 
+examined fully protected political speech by private 
+persons.” They did not involve speech by govern- 
+
+
+Amendment, values central to our social order as well as our 
+legal system.” Waters v. Churchill, supra, slip op. 11-12. 
+Congress has accordingly recently relaxed some of the restric- 
+tions formerly imposed by the Hatch Act. See Hatch Act 
+Reform Amendments of 1993, Pub. L. No. 103-94, 107 Stat. 
+1001. Somewhat similarly, Congress recently enacted a limited 
+exception to the honorarium ban for certain scholarly writings 
+by students and most teachers at military academies. National 
+Defense Authorization Act for Fiscal Year 1993, Pub. L. No. 
+102-484, § 542, 106 Stat. 2413-2414 (1992). 
+
+
+25 FEC v. National Conservative Political Action Commit- 
+tee, 470 U.S. at 491, considered a provision making it a crime 
+for an independent political action committee to spend more 
+than $1,000 in support of a presidential candidate who ac- 
+cepted federal funding. The Court made clear that “the ex- 
+penditures at issue in this case produce speech at the core of 
+the First Amendment,” and are “entitled to full First Amend- 
+ment protection.” Id. at 493, 496. First National Bank of 
+
+
+31 
+
+
+ment employees, the regulation of which is judged 
+under the more lenient Pickering balancing test. In 
+the latter context Congress’s appraisal of dangers to 
+the efficiency and integrity of the federal workforce 
+is given far greater judicial deference, even if the 
+courts may deem those dangers to be “speculative.” 
+Waters v. Churchill, supra, slip op. 10 (plurality 
+opinion). 
+
+4. Because it applied an incorrect legal test, the 
+court of appeals improperly found fault with Section 
+503 (b), based on the absence of concrete evidence of 
+administrative problems associated with prior ex- 
+perience with a nexus test. Pet. App. lla. None of 
+the specific ways in which the court demanded evi- 
+dence of enforcement or administrative costs, how- 
+ever, forms a permissible basis for invalidating Sec- 
+tion 501(b). 
+
+The court first observed that the government did . 
+not identify “any serious enforcement or line-draw- 
+ing costs associated” with the pre-Section 501 (b) 
+scheme for regulating honoraria, which (as reflected 
+in the government’s interpretation of conflict-of- 
+interest statutes, rules, and executive orders) in- 
+volved a form of nexus test. Pet. App. 1la; see J.A. 
+179. As discussed above, however, Congress was not 
+required to wait until harms actually materialized in 
+the Executive and Judicial Branches before eliminat- 
+ing a practice that had already caused serious con- 
+
+
+Boston v. Bellotti, 485 U.S. at 767, involved a state criminal 
+law prohibiting corporations from making expenditures to 
+influence referenda. The Court described the prohibited 
+speech as lying “at the heart of the First Amendment’s pro- 
+tection,” and subjected the prohibition to strict scrutiny. /d. 
+at 776, 786. 
+
+
+32 
+
+
+cern in the Legislative Branch. Even if the practice 
+of accepting honoraria had not yet grown to such 
+proportions in the Executive or J udicial Branches 
+as to impair the reputation for integrity of those 
+institutions, Congress, based on its own experience, 
+could seek to prevent such damage from occurring. 
+
+In considering ethics reform legislation, individual 
+Members of Congress concurred in the conclusion 
+that the public had come to think that “the rise in 
+congressional speaking fees is[] at best providing 
+those special interests which can afford honoraria 
+payments unfair access to Government officials and, 
+at worst, institutionalizing a thinly veiled system of 
+legalized influence buying.” 135 Cong. Rec. H8766 
+(daily ed. Nov. 16, 1989) (remarks of Rep. Wolpe). 
+As Senator Humphrey explained: 
+
+
+This is a hardnosed town. People do not do 
+nice things for you, just to be nice. When some- 
+one pays $1,000 just for a speech, it is not 
+purely on the basis of altruistic motives. They 
+are hoping, at the very least, the Senator will be 
+somewhat more disposed toward their point of 
+view, should some matter come up in the future 
+which concerns them. That is what is wrong 
+
+
+with honoraria. 
+
+
+Id. at $15952 (daily ed. Nov. 17, 1989). Even if 
+most honoraria did not involve conflicts of interest, 
+Senator Dole agreed with his colleagues that “we had 
+better err on the side of caution” and that “to be 
+on the safe side we should eliminate honoraria.” Id. 
+at $15948. That judgment, though articulated in the 
+context of the Legislative Branch, could be thought 
+to hold true for the other branches as well. 
+
+Second, the court erred in considering Section 
+501(b) itself to contain evidence that Congress 
+
+
+on age ae 
+ae 
+a 
+
+
+33 
+
+
+deems a nexus test to be sufficient to protect federal 
+interests with respect to the receipt of honoraria. 
+The court noted that Section 501(b) bans honoraria 
+for a “series of appearances, speeches, or articles” 
+only when “the subject matter is directly related to 
+the individual’s official duties or the payment is made 
+because of the individual’s status with the Govern- 
+ment.” 5 U.S.C. App. 505(3) (Supp. IV 1992) (em- 
+phasis added). Congress’s adoption of a nexus ap- 
+proach when a “series” is at issue, however, did not 
+require it to extend the same approach to all honoraria 
+payments. Rather than suggesting that Congress “re- 
+gards [the nexus] lines [applicable to a series] as 
+entirely workable” in all contexts, as the court of 
+
+
+appeals suggested, Pet. App. 12a, the special rule for 
+
+
+a “series” of appearances, speeches, or articles can 
+be explained by the different administrative and en- 
+forcement issues that arise in that context.* Indeed, 
+
+
+6 Several factors distinguish honoraria for a series of ap- 
+pearances, speeches, or articles from individual instances of 
+expression for pay. First, Congress “might reasonably have 
+concluded” that repeated paid appearances before a particu- 
+lar group are “likely to be more open and more visible to the 
+public (or the public’s watchdogs) than * * * a one-time pay- 
+ment for a single appearance,” and that “corruption is less 
+likely under such circumstances.” Pet. App. 85a-86a (Wil- 
+liams, J., concurring in the denial of rehearing and rehearing 
+en banc). Second, Congress may also have found that the 
+larger volume of material likely to be involved in a “series” 
+facilitates the judgment about whether a prohibited nexus 
+exists. Third, because it is likely that relatively few employ- 
+ees engage in a “series” of paid appearances, speeches, or 
+articles, requiring case-by-case review for nexus issues in- 
+volving a series presents a far more manageable administra- 
+tive task than if officials were required to reveiw all individual 
+instances of compensated speech by federal employees. 
+
+
+34 
+
+
+the Wilkey Commission itself had suggested that on- 
+going relationships (characteristic of a series) raise 
+lesser concerns than single-shot appearances, noting 
+that “as we conceive of it, the bar on receipt of 
+honoraria would not prohibit payment for continu- 
+ing activities such as teaching academic, for-credit, 
+courses.” Wilkey Commission Report at 36 (J.A. 
+254); see also Quadrennial Commission Report at 30 
+(J.A. 242). 
+
+The court of appeals relied on Boos v. Barry, 485 
+U.S. 312, 324-329 (1988), in comparing the different 
+components of Section 501(b) to each other to de- 
+termine whether the honorarium ban for individual 
+appearances, speeches, and articles is “narrowly 
+tailored.” Pet. App. lla. Boos, however, compared 
+a narrow restriction of speech recently enacted by 
+Congress with a broad one enacted many years ear- 
+lier, and concluded that in light of the more recent 
+provisions the older law could not be deemed narrowly 
+tailored to serve the governmental interests at stake. 
+A comparison of that nature is not justified when 
+Congress enacts roughly contemporaneous provisions 
+intended to form complimentary rules in the same 
+statutory scheme. The relevant baseline for evaluat- 
+ing the need for Section 501(b) is found in Con- 
+gress’s prior, limited, and ultimately unsuccessful ef- 
+fort to regulate honoraria. “[A] comparison of the 
+honorarium ban to prior ethics laws unmistakably 
+reveals a congressional determination that only a 
+broad, government-wide ban on honoraria is sufficient 
+to protect against the appearances of impropriety or 
+corruption accepting honoraria creates.” Pet. App. 
+43a (Sentelle, J., dissenting). Such “careful legisla- 
+tive adjustment” of the honoraria laws “in a cautious 
+advance, step by step,” to reflect Congress’s evolving 
+
+
+i ba e — a ee 
+- 7" 
+. 
+. 
+. 
+
+
+35 
+
+
+sense that a flat ban was required “warrants con- 
+siderable deference.” FEC yv. National Right To. 
+Work Committee, 459 U.S. 197, 209 (1982) (internal 
+quotation marks omitted). 
+
+Under a standard that gives proper deference to 
+Congress’s appraisal of the risks of honoraria, Sec- 
+tion 501(b) is constitutional. There may be differ- 
+ences of opinion about whether, as a policy matter, 
+the honorarium ban reflects an excessive degree of 
+caution. Some may have preferred that Congress 
+had erred on the side“permitting honoraria when no 
+apparent nexus is present, even if the price were 
+to allow some troublesome payments to slip through 
+the cracks. But Congress is entitled to considerable 
+leeway in protecting the appearance of integrity of 
+the federal workforce—particularly when the issue 
+is not whether employees may enjoy free speech, but 
+whether they may engage in paid speech. 
+
+
+Il. THE COURT OF APPEALS’ REMEDY IS TOO 
+BROAD BECAUSE IT EXCEEDS THE SCOPE OF 
+THE VIOLATION FOUND 
+
+
+Even if the court of appeals were correct in con- 
+cluding that Section 501(b) has some unconstitu- 
+tional applications, the court’s remedy far exceeds 
+the scope of the purported violation. The court ac- 
+knowledged that “for some of § 501(b)’s applications 
+—perhaps many of them—the Pickering balance 
+supports its constitutionality.” Pet. App. 6a. Yet 
+the court of appeals invalidated Section 501(b) in 
+all its applications to Executive Branch employees— 
+even where the government could readily demonstrate 
+the existence of “some sort of nexus between the 
+employee’s job and either the subject matter of the 
+expression or the character of the payor.” Id. at 9a. 
+
+
+36 
+
+
+The overbroad relief ordered by the court of appeals 
+is unjustified.” 
+
+1. The principle that a statute should not be in- 
+validated to a greater extent than is necessary finds 
+expression -in several lines of this Court’s cases. 
+First, under traditional principles of severability, 
+“Tw]henever an act of Congress contains unobjec- 
+tionable provisions separable from those found to be 
+unconstitutional, it is the duty of this court to so 
+declare, and to maintain the act in so far as it is 
+valid.” Alaska Airlines, Inc. v. Brock, 480 US. 678, 
+684 (1987) (internal quotation marks omitted) ; 
+Regan v. Time, Inc., 468 U.S. 641, 652 (1984) 
+(plurality opinion); INS v. Chadha, 462 U.S. 919, 
+934 (1983); Buckley v. Valeo, 424 U.S. at 108; see 
+New York vy. Ferber, 458 U.S. 747, 769 n.24 (1982) 
+(when a “federal statute * * * is impermissibly over- 
+broad, it nevertheless should not be stricken down 
+on its face; if it is severable, only the unconstitu- 
+tional portion is to be invalidated”). The Court has 
+explained that severance of the unconstitutional pro- 
+vision is required “unless the statute created in its 
+absence is legislation that Congress would not have 
+enacted.” Alaska Airlines, Inc,, 480 U.S. at 685. 
+
+
+27 The breadth of the court of appeals’ judgment is under- 
+scored by the court’s grant of relief in favor of all Executive 
+Branch employees, even though the class consisted only of 
+Executive Branch employees below grade GS-16. J.A. 124- 
+125. Respondents did not argue that the honorarium ban was 
+unconstitutional as to such senior executive officials, see Resp. 
+C.A. Br. 36 n.21, and even the court of appeals may have 
+reached a different outcome on the Pickering balance as to 
+such officials, cf. Pet. App. 13a, yet its comprehensive ruling 
+foreclosed that issue. 
+
+
+37 
+
+
+Second, the Court’s decisions manifest a strong 
+preference for addressing as-applied constitutional 
+challenges to statutory provisions before adjudicating 
+facial challenges that rely on overbreadth theory. See 
+Renne v. Geary, 501 U.S. 312, 323-824 (1991); 
+Board of Trustees v. Fox, 492 U.S. 469, 484-485 
+(1989). When a court proceeds in the recommended 
+sequence and finds that a provision is unconstitutional 
+as applied to the particular conduct alleged by the 
+plaintiffs, it is normally unnecessary, and generally 
+imprudent, to proceed to determine whether the pro- 
+vision would also be facially unconstitutional as ap- 
+plied to other parties and other conduct. Renne, 501 
+U.S. at 324; Fox, 492 U.S. at 485. 
+
+Third, overbreadth doctrine itself prohibits facial 
+invalidation of a statute unless “the overbreadth of a 
+statute [is] * * * not only * * * real, but substantial 
+as well, judged in relation to the statute’s plainly 
+legitimate sweep.” Broadrick vy. Oklahoma, 413 U.S. 
+601, 615 (1973); New York v. Ferber, 458 U.S. at 
+769-772; Brockett v. Spokane Arcades, Inc., 472 U.S. 
+491, 502-503 & n.12 (1985). Where, as here, a stat- 
+ute has a concededly broad range of entirely permissi- 
+ble applications, a court should not reach out to strike 
+down the statute on its face, when a narrower form 
+of relief is available. 
+
+2. The court of appeals departed from those prin- 
+ciples in affirming the district court’s judgment. The 
+court of appeals began by correctly noting that it 
+should invalidate no more of Section 501(b) than is 
+necessary to remedy the constitutional flaw it dis- 
+covered. Pet. App. 14a. The court concluded, how- 
+ever, that it could not leave Section 501(b) in place 
+as to applications in which the government can estab- 
+lish a nexus between the honoraria and government 
+
+
+38 
+
+
+employment, because “[a]rticulation of some appro- 
+priate nexus test would seem a purely legislative act.” 
+Ibid. That analysis is incorrect. The court of appeals 
+itself crafted a “nexus test” as an integral element of 
+its First Amendment inquiry; it held that because 
+there is no required nexus in the statute, the prohibi- 
+tion is not narrowly tailored. Jd. at 9a-l4a. If the 
+nexus concept serves to identify the unconstitutional 
+applications of Section 501(b), as the court of apneals 
+held, it also can serve to identify the constitutional 
+applications of Section 501(b). The court expressed 
+concern that if it had invalidated the honorarium ban 
+only to the extent that it reaches honoraria where no 
+nexus to employment is present, it would have in- 
+truded on Congress’s prerogative to craft a specific 
+nexus inquiry. Pet. App. 14a. Interpreting the Con- 
+stitution to require a nexus to be shown, however, 
+does not intrude on Congress’s prerogatives. In addi- 
+tion, the statute itself contains a general nexus test 
+with respect to a “series” of appearances, speeches, 
+and articles, and that test would have readily fur- 
+nished a suitable line for the court to invoke to imple- 
+ment its constitutional holding.” 
+
+
+*8 See 5 U.S.C. App. 505(3) (Supp. IV 1992) (prohibiting 
+honoraria for a series of appearances, speeches, or articles 
+when “the subject matter is directly related to the individ- 
+ual’s official duties or the payment is made because of the 
+individual’s status with the Government”). That test fits 
+well within the court’s requirement of a “nexus between the 
+employee’s job and either the subject matter of the expression 
+or the character of the payor.” Pet. App. 9a. Ironically, the 
+court of appeals invalidated even the portion of the statute 
+governing honoraria for a “series” of appearances, speeches, 
+or articles, even though it is difficult to imagine under the 
+court’s own analysis how that provision has any potential 
+unconstitutional application. 
+
+
+39 
+
+
+The court’s essential error was its failure to craft 
+a remedy that responded to the particular constitu- 
+tional violation it found. A proper remedy, in light 
+of that violation, would have redressed the honorarium 
+ban’s unconstitutionality as applied to speech lacking 
+a nexus to federal employment.” This Court’s First 
+Amendment cases reflect that more restrained ap- 
+proach. For example, in United States v. Grace, 461 
+U.S. 171 (1983), the plaintiffs engaged in expressive 
+activity on the sidewalk in front of the Supreme 
+Court. Their conduct violated 40 U.S.C. 13k, which 
+prohibited displays designed “to bring into public no- 
+tice any party, organization, or movement” anywhere 
+in the Supreme Court building or its grounds, defined 
+to include the adjacent public sidewalk. Although the 
+plaintiffs argued that the statute was facially invalid 
+in all its applications, the Court declined to determine 
+
+
+* The central objection to the honorarium ban voiced in 
+the complaints is that the ban prohibits “federal employees 
+from receiving income from speeches, articles or appearances 
+unrelated to their federal employment.” NTEU Second 
+Amended Complaint, { 35 (J.A. 13); see AFGE Complaint, 
+20 (J.A. 20). And all of the specific honoraria that the ban 
+was alleged to have improperly prohibited purported to be 
+speech that was unrelated to federal employment. See NTEU 
+Second Amended Complaint, % 5, 6 (J.A. 5-6), 14-15 (J.A. 
+7-8); AFGE Complaint, 12-16 (J.A. 18-20); Crane et al. 
+Amended Complaint, {% 4-12 (J.A. 26-30). But see Pet. App. 
+10a (noting that “some of the plaintiffs receive payments that 
+might at least raise an eyebrow’). Accordingly, as Judge 
+Silberman noted, “[a]ll that is needed to cure the consti- 
+tutional infirmity is to relieve the ban on compensation from 
+single speeches whose subject does not relate to the employee’s 
+job and when the status of the employee is not implicated.” 
+oo 105a (dissenting from the denial of rehearing 
+en ). 
+
+
+40 
+
+
+the validity of Section 13k as applied to the Supreme 
+Court building and its immediate grounds. Rather, 
+even though the statute on its face did not distinguish 
+between public sidewalks and other places such as the 
+interior of the Court, the Court concluded that the 
+provision could not constitutionally “be applied to the 
+public sidewalks” and struck down the statute only to 
+that limited extent. 461 U.S. at 179. 
+
+More recently, in Edenfield v. Fane, 113 S. Ct. 1792 
+(1993), the Court considered a state prohibition 
+against in-person solicitation of work by a certified 
+public accountant. Although the ban contained no 
+textual distinction between solicitation of commercial 
+customers and solicitation of nonbusiness customers, 
+the Court held that “as applied to CPA solicitation in 
+the business context, [the State’s] prohibition is in- 
+consistent with the free speech guarantees of the 
+First and Fourteenth Amendments.” Jd. at 1796. 
+The Court thus treated “Fane’s claim as an as applied 
+challenge to a broad category of commercial! solicita- 
+tion,” United States v. Edge Broadcasting Co., 113 
+S. Ct. 2696, 2706 (1993), and saw no need to invali- 
+date applications that might well.have been justified 
+under the First Amendment. See also Brockett v. 
+Spokane Arcades, Inc., 472 U.S. at 504 (holding that 
+an obscenity statute was invalid “only insofar as the 
+word ‘lust’ is to be understood as reaching protected 
+materials”; declining to invalidate constitutionally 
+permissible applications of the term “lust”). Under 
+Grace, Edenfield, and Brockett, facial invalidation of 
+the honorarium ban was inappropriate even if it was 
+not possible to find a “limiting construction” of the 
+statute. Pet. App. 14a. It would have been sufficient 
+to declare the provision unenforceable as to its invalid 
+applications. 
+
+
+T= — >? "os 
+4 ati a 
+
+; 
+
+‘ 
+
+: 
+
+
+41 
+
+
+This is not a case in which the court was justified 
+in invalidating the entire honorarium ban on over- 
+breadth grounds. Cf. FEC v. National Conservative 
+Political Action Committee, 470 U.S. at 501. The 
+honorarium ban has a substantial number of valid 
+applications, and the court made no effort to deter- 
+mine what proportion of its applications might be 
+invalid. See For, 492 U.S. at 485 (noting that such 
+an inquiry is required in an overbreadth case). The 
+court of appeals stated only that “the ban reaches a 
+lot of compensation that has no nexus to government 
+work” and speculated that “the scope of the invalid 
+applications is large.” Pet. App. 10a & n.4. Simul- 
+taneously, however, the court acknowledged that “per- 
+haps many” applications of the honorarium ban are 
+constitutional under “the Pickering balance,” id. at 
+6a, and conceded that the ban “covers payments for 
+speeches and articles that may well create  appear- 
+ance of impropriety.” Jd. at 10a. Yet “|t]jhis Court 
+has * * * repeatedly expressed its reluctance to strike 
+down a statute on its face where there were a sub- 
+stantial number of situations to which it might be 
+validly applied.” Parker v. Levy, 417 U.S. 733, 760 
+(1974). 
+
+The purpose of the overbreadth doctrine is to pro- 
+tect against the chill imposed on protected speech by 
+“a sweeping statute, or one incapable of limitation.” 
+New York vy. Ferber, 458 U.S. at 772; Broadrick v. 
+Oklahoma, 413 U.S. at 612; Massachusetts v. Oakes, 
+491 U.S. 576, 584 (1989) (plurality opinion) (“Over- 
+breadth is a judicially created doctrine designed to 
+prevent the chilling of protected expression.”). Over- 
+breadth doctrine is usually invoked to create an ex- 
+ception to the general rule of standing that a person 
+
+
+42 
+
+
+may assert a violation only of that person’s constitu- 
+tional rights; “the person invoking overbreadth may 
+challenge a statute that infringes protected speech 
+even if the statute constitutionally might be applied 
+to him.” Fox, 492 U.S. at 482-483 (internal quota- 
+tion marks omitted); Broadrick v. Oklahoma, 413 
+U.S. at 610-612. Here, however, respondents do not 
+assert that facial invalidation of the honorarium ban 
+is necessary to protect against a chilling effect im- 
+posed on nonparties. Because the district court certi- 
+fied a class consisting of all federal employees below 
+grade GS-16, it is questionable whether any potential 
+plaintiffs not before the Court would be deterred from 
+engaging in protected speech by the honorarium ban. 
+
+Nor is total invalidation of the honorarium ban 
+necessary to relieve a chilling effect on respondents 
+themselves. Respondents’ rights would have been ade- 
+quately protected if the court of appeals had held the 
+ban unconstitutional as applied to honoraria where 
+the government does not show a nexus to employ- 
+ment. Pursuant to the statute, employees desiring to 
+receive honoraria can obtain advisory opinions inter- 
+preting the Act from designated ethics officials, and 
+“Ta]ny individual to whom such an advisory opinion 
+is rendered * * * who, after the issuance of such 
+advisory opinion, acts in good faith in accordance 
+with its provisions and findings shall not, as a result 
+of such actions, be subject to any sanction” under the 
+honoraria law. 5 U.S.C. App. 504(b) (Supp. IV 
+1992); see also 5 C.F.R. 2636.103. In light of that 
+procedure, an employee could obtain an-advance de- 
+termination of whether a particular honorarium 
+would have a nexus to federal employment (as the 
+
+
+43 
+
+
+court thought was required by the First Amendment), 
+without having to risk any penalty or sanction.” 
+
+The court, therefore, should have limited its deci- 
+sion to invalidating the application of Section 501(b) 
+to cases in which there is no nexus between the speech 
+for compensation and the employee’s federal status, 
+and left the remaining applications in force. There 
+was no basis for invoking any form of “overbreadth” 
+doctrine in this case, with the effect of invalidating 
+clearly constitutional applications of the law. 
+“[ Whatever overbreadth may exist should be cured 
+through case-by-case analysis.” Broadrick vy. Okla- 
+homa, 413 U.S. at 615-616; Brockett v. Spokane 
+Arcades, Inc., 472 U.S. at 503-507. 
+
+
+* The danger of chill is also reduced by the fact that the 
+statutory remedy for a violation of the honorarium ban is not 
+a criminal penalty; rather, a court may simply order dis- 
+gorgement of an amount up to the amount of the compensa- 
+tion received or $10,000, whichever is greater. 5 U.S2C. 
+App. 504(a) (Supp. IV 1992); see Ferber, 458 U.S. at 773 
+(noting that “the penalty to be imposed is relevant in deter- 
+mining whether demonstrable overbreadth is substantial’’) . 
+
+
+44 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+MICHAEL R. DREEBEN 
+Assistant to the Solicitor General 
+
+
+JOHN C. HOYLE ~ 
+ALFRED MOLLIN 
+Attorne,s 
+
+
+JUNE 1994 
+
+
+W sv. 6. coveenmenr painrine evnres, 1994 301157 e666 
+
+
+: . 
+SS ee 
+
+
+P “— ° : 
+ee ee ee a ee " 
+
+
