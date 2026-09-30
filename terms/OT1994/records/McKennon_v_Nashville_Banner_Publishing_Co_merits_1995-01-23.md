@@ -1,7 +1,7 @@
 **Case and dockets:** McKennon v. Nashville Banner Publishing Co., No. 93-1543
 **Event and date:** Merits decision, 1995-01-23.
 **Result:** Reversed and remanded, 9–0.
-**Version / lineage:** First adjudication; supersedes no Record. File preservation in this Run; operator Git commitment pending.
+**Version / lineage:** First adjudication; supersedes no Record. File preservation in this Run; operator Git commitment pending. Close-audit correction 2026-09-30 (F01): approval-record certification; no remedial rule or join changes; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering law
 
@@ -15,7 +15,7 @@ The actual seven earlier chunk-2 public decisions were read from the [pre-Januar
 
 ## Stone and final compatibility
 
-Stone’s approved Section II requires rejection of the complete after-acquired-evidence bar, retention of the employer’s actual-would-discharge proof burden, and individualized statutory relief. It supplies no final discrimination finding. The Court’s ordinary prospective-relief limits, discovery-date starting point for backpay, and extraordinary-equity qualification implement the expressly approved tailoring of relief to proven facts and statutory purposes. They do not create automatic liability or erase the required misconduct showing. Stone joins the whole opinion and reversal/remand. No fallback is used and no approved core is narrowed or replaced.
+Stone’s approved Section II requires rejection of the complete after-acquired-evidence bar, retention of the employer’s actual-would-discharge proof burden, and individualized statutory relief. It supplies no final discrimination finding. The operator’s 2026-09-30 close-audit clarification expressly certifies Stone’s already-intended join in ordinary unavailability of reinstatement and front pay and the discharge-to-actual-discovery backpay measuring period, subject to extraordinary equitable circumstances affecting either party’s legitimate interests. These specific choices are now explicit in the approved supplement; they are not inferred from general tailoring language. Stone joins the whole opinion and reversal/remand. No fallback is used and no approved core is narrowed or replaced.
 
 Chief Justice Stone-Zsela belongs to the unanimous judgment coalition and assigns the opinion to O'Connor. O’Connor’s own Hazen Paper opinion and Price Waterhouse concurrence provide subject fit for the liability/remedy distinction; her recorded limits are shared by the coalition. Assignment rests on that fit and the ability to retain all joins, not the historical author. Final compatibility, rather than an invented draft exchange, supplies the joins. Each associate’s reconciled commitment and limits are preserved below. No post-reconciliation vote or material rationale change is made.
 

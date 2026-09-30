@@ -1,7 +1,7 @@
 **Case and dockets:** Oklahoma Tax Commission v. Chickasaw Nation; No. 94-771
 **Event and date:** Merits decision, 1995-06-14; October Term 1994, chunk 8.
 **Result:** Tenth Circuit affirmed on motor-fuels tax, 9–0; reversed on off-country-resident tribal-wage exemption, 5–4; remanded.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering-law validation
 
@@ -143,9 +143,7 @@ Vote audit: fuel nine affirm; income five reverse/four affirm. Four income commi
 
 Verbatim selected opening register components, checked against current holdings at their exact dates. These do not override intervening current-term Records. Actual entering-law slices and effective public Records remain the authorities. No material conflict was found and no frozen commitment is altered by this validation.
 
-#
 
-#
 
 ## Public Projection
 

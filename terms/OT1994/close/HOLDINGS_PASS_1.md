@@ -27,9 +27,9 @@ The Asgrow entry includes the April 4, 1995, Plant Variety Protection Act amendm
 
 The existing publication header remains the synchronized OT1993 opening header. This is a partial candidate, not publication of a new synchronized cutoff. Later Holdings passes must continue this candidate; the other trackers remain unchanged.
 
-## Cross-check and outstanding projection gap
+## Cross-check and resolved projection gap
 
-**Robertson is missing from `terms/OT1994/output/OT_1994CHUNK5.md`.** Its complete current Record and corresponding Render Input entry both exist. The Record unambiguously controls, so its RICO proposition is incorporated. The public output must receive that entry in a separate authorized rendering task before final publication. This pass does not edit the render or adjudication.
+**Resolved as of the 2026-09-30 close-audit correction:** Robertson now has its complete decision entry in `terms/OT1994/output/OT_1994CHUNK5.md`, corresponding to its current Record and Render Input. The former missing-entry report is no longer an outstanding projection gap. This status update changes no render or adjudication.
 
 The controlling-proposition text in the other 59 rendered events matches the current Records after normalizing typography. Every one of the 154 source propositions also appears in its Record’s substantive controlling-law section. No incorporation was stopped for substantive ambiguity. Williams’s stale internal draft-status wording was read with the chunk’s validation summary, which expressly treats it as an administrative labeling issue; it does not displace the completed canonical adjudication. Clearwater’s source subsection-letter inconsistency was not silently repaired or used to change its bounded RFRA disposition.
 

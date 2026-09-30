@@ -1,7 +1,7 @@
 **Case and dockets:** Garlotte v. Fordice, No. 94-6790. October Term 1994; inventory matter 70.
 **Event and date:** Merits decision, 1995-05-30.
 **Result:** Fifth Circuit reversed and remanded, 8–1.
-**Version / lineage:** Original completed-event assembly; supersedes no adjudication. Frozen neutral and reconciliation handoffs precede Stone assembly; operator validation and commitment follow.
+**Version / lineage:** Original completed-event assembly; supersedes no adjudication. Frozen neutral and reconciliation handoffs precede Stone assembly; operator validation and commitment follow. Close-audit correction 2026-09-30 (F07): full render form; unchanged judgment and joins; replaces the prior wording in place without a new adjudication.
 
 ## Event, review and participation
 
@@ -147,7 +147,7 @@ Parent arithmetic, chronology, public interface, holding-depth, manifest/ledger 
 
 Garlotte v. Fordice, No. 94-6790. October Term 1994. Merits decision, 1995-05-30. Argued 1995-04-24.
 
-Render form: compact. Basis: Eight Justices reverse on the historical controlling ground; the change from seven to eight follows solely from Stone’s replacement vote. No non-Stone vote or controlling proposition changes.
+Render form: full. Basis: Stone’s reversal replaces the historical Chief’s affirmance and enlarges the controlling aggregate-custody coalition from seven to eight; the opposite vote does not fall within the same-vote replacement exception. The judgment and all existing joins remain unchanged.
 
 On writ of certiorari to the Fifth Circuit, 29 F.3d 216. The district court denied habeas relief on the merits, but the Fifth Circuit dismissed for lack of custody jurisdiction. The question is whether a prisoner still serving consecutive sentences may challenge the conviction supporting a sentence already served first in the continuous series. Garlotte’s three-year marijuana sentence preceded concurrent life sentences for two murders; the first conviction continues to affect the end of aggregate custody.
 

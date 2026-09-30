@@ -297,8 +297,7 @@ Review is limited to the issues stated above, necessary antecedents, and the rem
 
 | Matter | Status | Source |
 |---|---|---|
-| A shipment of fruit from Morocco to Massachusetts was damaged aboard the Sky Reefer; the cargo owner and subrogated insurer seek approximately <!-- BEGIN_CASE OT1994-089 -->
- million. | Claim and undisputed litigation background, not adjudicated carrier liability | 29 F.3d at 728. |
+| A shipment of fruit from Morocco to Massachusetts was damaged aboard the Sky Reefer; the cargo owner and subrogated insurer seek approximately $1 million. | Claim and undisputed litigation background, not adjudicated carrier liability | 29 F.3d at 728. |
 | The bill of lading selects Japanese law and arbitration in Tokyo and contains a local-law clause addressing COGSA. | Contract text in the record | 29 F.3d at 728–729. |
 | The parties agree COGSA applies to the shipment by force of law. | Recorded common legal premise | 29 F.3d at 729. |
 | The district court stayed rather than dismissed the action and certified whether COGSA § 3(8) nullifies the arbitration clause. | Procedural ruling | 29 F.3d at 728–729, 732. |

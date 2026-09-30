@@ -1,7 +1,7 @@
 **Case and dockets:** U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill; Nos. 93-1456, 93-1828
 **Event and date:** Merits decision, 1995-05-22; October Term 1994, chunk 6.
 **Result:** The Arkansas Supreme Court is affirmed in both dockets, 6-3.
-**Version / lineage:** Initial adjudication; no predecessor is superseded.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Close-audit correction 2026-09-30 (F08): Stone-caused historical-departure label; replaces the prior wording in place without a new adjudication.
 
 ## Decision kernel
 
@@ -59,6 +59,8 @@ Validation: component totals and named joins reconciled; holdings repeated byte-
 ## Adaptive audit annex
 
 Frozen poll/history: Stevens, Kennedy, Souter, Ginsburg and Breyer affirm; O'Connor, Scalia and Thomas reverse, each in both dockets. Individual anchors and two constitutional paths remain in A_COMMITMENTS/A_RECONCILED section 64. Five affirming Associates accept the Article I/Powell structural rule; Kennedy adds federal representative relationship. Three dissenters retain people's reserved electoral authority/write-in distinction. Minimum revision needed for their join would change the exclusive-qualification ground; not adopted. Chief assigns: fit favors Stevens for the national-qualifications rule and election-administration boundary; expansion unnecessary since five Associates already share the holding. Authorship follows modeled fit rather than automatic historical assignment. No non-Stone vote or proposition departure from history, hence no invented changed premise. Court votes 6/dissent 3 in each component, 6+3=9. Mode limitation: original neutral search exposed Thomas dissent and Stevens/Kennedy writings; preserve single-conversation modeling fallback and fresh downstream neutral validation, never claim historical blindness.
+
+**Historical departure:** Stone-Zsela’s approved Article I exclusive-qualifications ground takes the opposite position from the historical Chief on both congressional ballot restrictions, producing six controlling constitutional votes and a 6–3 affirmance in each docket rather than the historical five-vote majority. The eight associates retain their historical constitutional positions; Stone’s join rests on treating the service-based ballot exclusion as a substantive added qualification, not neutral election administration.
 
 ## Coordinated chunk validation
 

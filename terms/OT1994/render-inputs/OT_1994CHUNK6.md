@@ -529,7 +529,7 @@ Miller, Ker and Sabbath supply date-eligible entry authorities. Arkansas judgmen
 
 Garlotte v. Fordice, No. 94-6790. October Term 1994. Merits decision, 1995-05-30. Argued 1995-04-24.
 
-Render form: compact. Basis: Eight Justices reverse on the historical controlling ground; the change from seven to eight follows solely from Stone’s replacement vote. No non-Stone vote or controlling proposition changes.
+Render form: full. Basis: Stone’s reversal replaces the historical Chief’s affirmance and enlarges the controlling aggregate-custody coalition from seven to eight; the opposite vote does not fall within the same-vote replacement exception. The judgment and all existing joins remain unchanged.
 
 On writ of certiorari to the Fifth Circuit, 29 F.3d 216. The district court denied habeas relief on the merits, but the Fifth Circuit dismissed for lack of custody jurisdiction. The question is whether a prisoner still serving consecutive sentences may challenge the conviction supporting a sentence already served first in the continuous series. Garlotte’s three-year marijuana sentence preceded concurrent life sentences for two murders; the first conviction continues to affect the end of aggregate custody.
 
@@ -617,7 +617,7 @@ All six exceptions OVERRULED; 9-0 on Wyoming's four exceptions; 8-1 on both fede
 | Horse Creek exception | Overruled 9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Connected allegation proceeds, no entitlement |
 | United States Fourth Cross-Claim exception | Overruled 8-1; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas sustains | Decree effects only |
 | Nebraska Fourth Cross-Claim exception | Overruled 8-1; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas sustains | Same bounded scope |
-| Remaining leave |9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Nebraska I-III allowed, IV denied without prejudice; Wyoming Second-Fourth Counterclaims and Second-Fifth Cross-Claims allowed within all limits |
+| Remaining leave other than Fourth Cross-Claim | 9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Nebraska I-III allowed, IV denied without prejudice; Wyoming Second-Fourth Counterclaims and Second, Third and Fifth Cross-Claims allowed within all limits. Fourth Cross-Claim admission remains 8-1 under the two exception rows above; Thomas opposes it. |
 
 Reject First Counterclaim and First Cross-Claim insofar as they seek the mass ceiling. Preserve discrete below-Tri-State calls, priority bypasses and relevant waste defenses not dependent on that formula. Glendo enforcement/modification, Laramie changed conditions and carriage-loss administration return to the Master. No new water allocation, release quantity, revised formula, seasonal award, damages, priority or operating injunction issues; no injury or breach is found.
 
@@ -702,9 +702,9 @@ All controlling joins are direct; no Marks inference or judgment-only aggregatio
 
 ### Exact leave and next stage
 
-**Holding and operative rule:** Permit Nebraska Counts I-III and Wyoming Second-Fourth Counterclaims and Second-Fifth Cross-Claims within the preceding limits; deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
+**Holding and operative rule:** Permit Nebraska Counts I-III, Wyoming Second-Fourth Counterclaims and Wyoming Second, Third and Fifth Cross-Claims unanimously within the preceding limits; permit the Fourth Cross-Claim within its decree-effects limit by eight votes, with Thomas opposed. Deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
 
-**Authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly join this proposition.
+**Authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join the other leave dispositions and next-stage directions. Only Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer join admission of the Fourth Cross-Claim; Thomas dissents from that admission.
 
 **Controlling explanation:** The Court holds that an express pleading disposition defines the next stage without deciding its outcome. The April 20, 1993 decision supplies different demands for enforcing an established right and modifying an allocation. Its use of Rule 56 under Rule 17.2 is a guide to summary disposition, not a rule turning amendments into proof. This event grants bounded leave, not summary judgment on new allegations. The report's unexcepted Glendo, Laramie and carriage-loss recommendations receive an express procedural disposition alongside contested claims. Absence of an exception and the amendment label prove no substantive prerequisite. Nebraska Counts I-III and specified Wyoming pleadings may proceed under applicable conditions; Count IV's broader seasonal theory remains withheld without prejudice. No numerical Glendo release or revised carriage-loss formula is reconstructed. The Master must receive evidence within admitted scope, preserving factual, legal and remedial defenses; the original action remains open.
 

@@ -33,13 +33,13 @@ Earlier holdings remain unchanged. The new Records apply or distinguish the rele
 
 The candidate retains the synchronized OT1993 opening header. Completion of the Holdings passes is not publication of the three replacement trackers or advancement of their common cutoff.
 
-## Render cross-check and outstanding projection gaps
+## Render cross-check and resolved projection gaps
 
 All 39 events have current public render entries, and all 82 controlling-proposition texts match after normalizing typography. No substantive ambiguity stopped incorporation.
 
-Four chunk 7 entries omit the docket supplied in their current Records: **Adarand, No. 93-1841; Wilton, No. 94-562; Metropolitan Stevedore v. Rambo, No. 94-820; and Johnson v. Jones, No. 94-455.** The omissions do not change the unambiguous Record holdings, but should be corrected in the render before publication under the Render Contract's identity requirements.
+**Resolved as of the 2026-09-30 close-audit correction:** The current chunk 7 render includes all four previously omitted dockets: **Adarand, No. 93-1841; Wilton, No. 94-562; Metropolitan Stevedore v. Rambo, No. 94-820; and Johnson v. Jones, No. 94-455.** These are no longer outstanding projection gaps.
 
-Pass 1's separately reported gap also remains: **United States v. Robertson has no decision entry in the current chunk 5 render.** This pass does not change any render or adjudication. These projection gaps remain for authorized rendering work and the later Audit pass; this note is not a term audit.
+**United States v. Robertson now has its decision entry in the current chunk 5 render.** All five projection gaps previously reported across the two pass notes are resolved. This status update changes no render or adjudication and does not replace the term audit.
 
 ## Checks and operator handoff
 

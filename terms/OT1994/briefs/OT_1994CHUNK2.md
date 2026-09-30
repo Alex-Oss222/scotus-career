@@ -1035,7 +1035,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 
 #### Position and scope
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
+**Approval Status:** OPERATOR-CONFIRMED CLOSE-AUDIT CLARIFICATION. Confirmed by the operator on 2026-09-30: the specific remedial rules below state Stone’s already-intended position and join, not a new choice. This clarification makes the approval record explicit without changing the decided 9–0 reversal and remand or any other Justice’s position.
 
 **Build:** Equal opportunity and remedies.
 
@@ -1046,13 +1046,13 @@ Separate the original discrimination from the counterfactual remedial loss. Back
 #### Disposition, application and preserved limits
 
 - **Stone's Controlled Judgment or Disposition:** REVERSE the Sixth Circuit and REMAND.
-- **Stone's Remedy and Remand Instruction:** The district court shall adjudicate liability without using later-discovered misconduct as a defense to the challenged discharge, then tailor reinstatement, front pay, backpay, and other relief to the proven facts and statutory purposes.
+- **Stone's Remedy and Remand Instruction:** The district court shall adjudicate liability without using later-discovered misconduct as a defense to the challenged discharge, then tailor reinstatement, front pay, backpay, and other relief to the proven facts and statutory purposes. To limit relief, the employer must prove misconduct so serious that it would in fact have discharged the employee for that reason alone had it known, rather than merely showing that discharge was permissible. Once that showing is made, reinstatement and front pay are ordinarily inappropriate, and backpay’s starting measure is the period from unlawful discharge to actual discovery, subject to extraordinary equitable circumstances affecting either party’s legitimate interests.
 
 #### Issue 1: Merits
 
 - **Threshold and Merits Reach:** Stone finds no jurisdictional, preservation, or vehicle bar and reaches the question presented.
 - **Stone's Legal Position:** Stone separates liability from remedy. Conduct unknown to the employer could not have caused the discriminatory discharge and therefore does not erase the violation. If the employer proves it would have discharged the employee lawfully upon discovering serious misconduct, that proof limits prospective and backpay relief.
-- **Stone's Proposed Holding:** After-acquired evidence does not bar ADEA liability for an earlier discriminatory discharge, but proven misconduct that would independently have caused lawful termination may limit reinstatement, front pay, and the period of backpay.
+- **Stone's Proposed Holding:** After-acquired evidence does not bar ADEA liability for an earlier discriminatory discharge. If the employer proves misconduct so serious that it would in fact have discharged the employee for that reason alone had it known, reinstatement and front pay are ordinarily inappropriate, and backpay’s starting measure is the period from unlawful discharge to actual discovery, subject to extraordinary equitable circumstances affecting either party’s legitimate interests.
 - **Stone's Reasoning and Record Application:** A complete defense would reward discrimination and contradict causation. Unlimited remedies would ignore the lawful consequence of the employee’s own misconduct. The statute’s enforcement and make-whole purposes require a remedy tied to both facts.
 - **Boundary or Reserved Question:** The employer bears the burden to prove that the misconduct was serious and that it would in fact have terminated the employee; minor or pretextual grounds do not shorten relief.
 <!-- END_SECTION II -->

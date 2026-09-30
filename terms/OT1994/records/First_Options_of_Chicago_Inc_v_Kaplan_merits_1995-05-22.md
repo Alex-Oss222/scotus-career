@@ -1,7 +1,7 @@
 **Case and dockets:** First Options of Chicago, Inc. v. Kaplan; No. 94-560.
 **Event and date:** Merits decision; 1995-05-22; OT1994,chunk6.
 **Result:** AFFIRMED,9-0 on both arbitrability and appellate-review components.
-**Version / lineage:** Initial adjudication;supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation,not by adjudication correction.
+**Version / lineage:** Initial adjudication;supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation,not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation and entering law
 
@@ -120,6 +120,8 @@ Two-path test: deference correctly applies after actual delegation; its stronges
 
 
 Historical reconciliation: All eight match historical delegation and ordinary-review affirmance. Stone's reserved join is approved core,not non-Stone departure. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification,corrects Nebraska provenance,and finds no material new neutral fact requiring remodeling. Nine on each judgment component. Conditional review rule has eight associate joins only. No Marks or judgment-only aggregation;no historical action is imported.
+
+**Historical departure:** Stone-Zsela’s approved reserved join does not adopt the conditional limited-review proposition after a valid delegation of arbitrability. The eight associates adopt that proposition, rather than the historical unanimous rationale that included the Chief; the unanimous judgment and Stone’s joins in antecedent assent and ordinary appellate review remain unchanged.
 
 ## Sources and validation
 

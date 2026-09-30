@@ -3245,9 +3245,9 @@ For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, O
 
 ##### Exact leave and next stage
 
-**Holding:** Permit Nebraska Counts I-III and Wyoming Second-Fourth Counterclaims and Second-Fifth Cross-Claims within the preceding limits; deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
+**Holding:** Permit Nebraska Counts I-III, Wyoming Second-Fourth Counterclaims and Wyoming Second, Third and Fifth Cross-Claims unanimously within the preceding limits; permit the Fourth Cross-Claim within its decree-effects limit by eight votes, with Thomas opposed. Deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
 
-**Proposition-level authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly join this proposition.
+**Proposition-level authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join the other leave dispositions and next-stage directions. Only Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer join admission of the Fourth Cross-Claim; Thomas dissents from that admission.
 
 **Limits and questions not reached:** Amendment leave is not proof or summary judgment. Rule 56 under Rule 17.2 remains only a guide to summary disposition; the distinct enforcement and modification burdens and supported defenses remain.
 
@@ -9012,7 +9012,7 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 ##### Future sentence coordination remains conditional and separate
 
-**Holding:** The possibility of an overlapping later sentence does not itself bar this prosecution, and any sentence following conviction must satisfy the then-applicable coordination provisions and independent constitutional limits. Under the received § 5G1.3(b), an undischarged term resulting from offenses fully taken into account in the instant offense level requires concurrency; where (b) does not govern, received policy statement (c) calls for consecutiveness only to the extent necessary for reasonable incremental punishment, with the commentary's approximation task, not an automatic total or repeated departure.
+**Holding:** The possibility of an overlapping later sentence does not itself bar this prosecution, and any sentence following conviction must satisfy the then-applicable coordination provisions and independent constitutional limits. Under received § 5G1.3, subsection (a) first requires the instant sentence to run consecutively to the undischarged term if the instant offense occurred during service of that term, including work release, furlough or escape, or after sentencing for that term but before service began; only if (a) does not apply does subsection (b) require concurrency when the earlier offenses were fully taken into account in the instant offense level; in all remaining cases, policy statement (c) requires consecutiveness to the extent necessary for reasonable incremental punishment, with the commentary's approximation task, not an automatic total or repeated departure.
 
 **Proposition-level authority:** O'Connor's Opinion of the Court, conditional coordination discussion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six support this statutory and remedial proposition. Stevens still dissents from allowing the prosecution, and Kennedy does not join the detailed coordination discussion.
 

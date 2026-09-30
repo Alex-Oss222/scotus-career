@@ -1,7 +1,7 @@
 **Case and dockets:** Rosenberger v. Rector and Visitors of the University of Virginia; No. 94-329
 **Event and date:** Merits decision, 1995-06-29; October Term 1994, chunk 8.
 **Result:** Fourth Circuit reversed and remanded, 5–4; religious-viewpoint exclusion removed from the printing benefit on otherwise lawful terms.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F08, F12): precedent-treatment departure label and empty-heading cleanup; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering-law validation
 
@@ -142,6 +142,8 @@ Reconciled associate positions: O'Connor, Scalia, Kennedy, Thomas REVERSE the fe
 |Scalia|Reverse/remand; same bounded federal component.|His actual95 majority join confirms the frozen conclusion, and his date-eligible LambsChapel separate explains why personal rejection of Lemon need not prevent joining a lawful concrete application. Binding Lemon is not silently overruled. Refuses universal endorsement framework, mandatory particular payment, or supposed Zobrest aid precedent.|
 |Thomas|Reverse/remand; neutral private-publication assistance within the actual program.|His official95 concurrence515US852?863 supplies the individual source the neutral freeze lacked: equal participation in broadly available programs and criticism of a categorical financial/in-kind distinction. Its historical/originalist observations are his own grounds, not automatically joined by other associates. No Zobrest merits holding may enter in-world rationale; other surviving equal-access authorities and concrete publication structure support his commitment. Refuses declaring every religious organization eligible for every activity or imposing an unrestricted subsidy.|
 
+**Historical departure:** The operative Zobrest decision supplies only a procedural remand, displacing the historical aid-merits analogy without changing Rosenberger’s judgment alignment. Kennedy’s program-structure and private-expression ground rests on surviving Widmar, Witters and Mueller authority; O’Connor retains her independent Witters reasoning and program safeguards; Scalia’s concrete application and Thomas’s equal-access position likewise do not depend on a Zobrest aid holding. The four dissenters retain their direct-devotional-funding objection; Zobrest’s limited procedural rule supplies no general command to avoid this merits question.
+
 ### Application and remedy limits
 
 Preserve all frozen actual Guidelines distinctions: denial was religious ACTIVITY, not an established finding of organization ineligibility; political exceptions belong to the distinct political restriction. This decision resolves the federal justification for this private publication's exclusion, not the full requested dollar award, damages, immunity, fees, every excluded expenditure, or aid to churches. The students' abandoned freeexercise and affirmative state-rights claims stay abandoned; that is separate from the University's positively asserted state funding defense. On a reversal mandate, any properly available defense must be evaluated within federal speech limits. No categorical instruction revives forfeited defenses, and no declaration that ArticleIV applies is made. On the four associates' affirmance path, direct devotional-production financing is the specific ground; no universal bar against neutral private religious expression follows.
@@ -159,11 +161,8 @@ Final vote audit: Stone plus O’Connor/Scalia/Kennedy/Thomas reverse on both fe
 
 Verbatim selected opening register components, checked against current holdings at their exact dates. These do not override intervening current-term Records. Actual entering-law slices and effective public Records remain the authorities. No material conflict was found and no frozen commitment is altered by this validation.
 
-#
 
-#
 
-#
 
 ## Public Projection
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Vernonia School District 47J v. Acton; No. 94-590.
 **Event and date:** Merits decision, 1995-06-26; October Term 1994, chunk 8.
 **Result:** Ninth Circuit judgment vacated and remanded, 5–4; federal interscholastic-athlete policy sustained, independent Oregon question reserved.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F08): Stone-caused historical-departure label; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering-law validation
 
@@ -124,11 +124,13 @@ This assembly reuses the A reconciliation context after its handoff was frozen. 
 | Breyer | Valid; preventive contextual balance | Vacate/remand; Court I–IV | Actual observation and information intrusions acknowledged; broader protocols reserved. |
 | Stone-Zsela | Controlled affirmance and necessity/proportionality | Affirm; Court I only, separate dissent | Exact controlled core preserved; no unstated medical position supplied. |
 
-Final joins derive from compatible formulations, not historical authorship: PartI9; PartII5; PartIII8; PartIV5. Eight associate constitutional-side commitments remain unchanged from history and their original freeze. The prescription refinement answers an actual narrow facial objection and removes an unsupported surviving-claim premise; it creates no substantive vote departure. Medical PartIII has direct identical support in Court and dissent joins, not aggregation of different rationales. Stone's judgment differs from the displaced historical Chief, yielding5–4; no unsupported non-Stone departure line is required. Ginsburg's full join is secured by the frozen narrow athlete formulation, not induced by broader all-student reasoning. All nine are present; each proposition counts author once. No Marks claim.
+Final joins derive from compatible formulations, not historical authorship: PartI9; PartII5; PartIII8; PartIV5. Eight associate constitutional-side commitments remain unchanged from history and their original freeze. The prescription refinement answers an actual narrow facial objection and removes an unsupported surviving-claim premise; it creates no substantive vote departure. Medical PartIII has direct identical support in Court and dissent joins, not aggregation of different rationales. Stone's judgment differs from the displaced historical Chief, yielding5–4; the Stone-caused departure is stated below. Ginsburg's full join is secured by the frozen narrow athlete formulation, not induced by broader all-student reasoning. All nine are present; each proposition counts author once. No Marks claim.
 
 Program refusal barriers: O'Connor/Stevens/Souter require sufficient reasons for dispensing with practical suspicion; the Court's contextual balance does not answer that objection to their satisfaction. Stone additionally requires impracticability or proportionate narrower need; neither requirement is adopted by the five. Ginsburg refuses extension to all pupils on derivative influence; explicit athlete scope resolves it. Breyer refuses more intrusive protocols/unrelated medical exploration; reservations resolve it. Scalia/Kennedy/Thomas refuse police or generic enrollment-waiver rules; exclusion resolves them. No revised non-Stone judgment needs a new reconciliation audit.
 
 Arithmetic: judgment5(Scalia, Kennedy, Thomas, Ginsburg and Breyer) plus4(Stone-Zsela, Stevens, O'Connor and Souter) equals9; search9 equals9; facial8 plus1 nonadoption equals9. Oregon disposition is vacatur/remand, not reinstatement. Lower judgment23F.3d1514, arguedMarch28, cutoffJune26; all supplied dates preserved. Holdings are copied verbatim into Public Projection; eleven blocks retain required order. No workspace or Render Input was edited.
+
+**Historical departure:** Stone-Zsela’s approved necessity-and-proportionality objection replaces the historical Chief’s vote sustaining the athlete testing program: Stone would affirm because the required impracticability or proportionate narrower need is not established. The five-Justice program-validity judgment therefore produces a 5–4 vacatur and remand rather than the historical 6–3 result, with all eight associate judgment positions unchanged.
 
 ## Public Projection
 

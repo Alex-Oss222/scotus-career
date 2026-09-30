@@ -6524,7 +6524,7 @@ The March 10 revised Vaccine Injury Table and qualifications are admitted in the
 
 Robertson’s May 1 decision is completed; ordinary remaining appellate proceedings are preserved below.
 
-Internal validation remains open on the Engine section 8 change and the private draft-status labels retained in the preserved Morales and Williams Records. The judgments and Public Projections are not changed by these status notes. See [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md), the Engine change notice, and LINEAGE_STATUS_REVIEW in freeze/. Git verification and repository commitment remain with the operator.
+The Engine section 8 notice and the Morales/Williams private draft-label issues are resolved. The Engine change affected only Stone v. INS’s assignment, which its current Record already corrects; Morales’s replacement and Williams’s current Record identify completed adjudications, and Williams’s stale body-status sentence is now reconciled to completed preservation and validation. The original Engine change notice and LINEAGE_STATUS_REVIEW in freeze/ remain historical receipts, not live blockers. See [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md). These status corrections change no judgment or Public Projection. Git verification and repository commitment remain with the operator.
 
 ## 7. Source and Research Cutoff
 

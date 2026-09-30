@@ -1,7 +1,7 @@
 **Case and dockets:** Capitol Square Review and Advisory Board v. Pinette; No. 94-780
 **Event and date:** Merits decision, 1995-06-29; October Term 1994, chunk 9.
 **Result:** Affirmed, 7–2; merits reached 9–0; original expired 1993 relief preserved without extension.
-**Version / lineage:** Initial adjudication; no predecessor adjudication is superseded. Pre-completion QA corrected only the lower-court citation caption in Source Notes; the prior assembly bytes are preserved in freeze/OT_1994CHUNK9_ASSEMBLY_PINETTE_PRE_QA.md. No fact, vote, holding or remedy changed. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor adjudication is superseded. Pre-completion QA corrected only the lower-court citation caption in Source Notes; the prior assembly bytes are preserved in freeze/OT_1994CHUNK9_ASSEMBLY_PINETTE_PRE_QA.md. No fact, vote, holding or remedy changed. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F08): express recurring-permit historical-departure label; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and chronology
 
@@ -282,6 +282,8 @@ Frozen for assembly on the identified inputs. The accompanying hash receipt reco
 ### Assembly vote and historical comparison
 
 The final affirmance is Stone, O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer (7); Stevens and Ginsburg reverse (2). All nine reach the merits. Ginsburg’s provisional model affirmation was corrected during isolated reconciliation for the unchanged absence of an enforceable attribution safeguard; it was never a Court adjudication. All eight final non-Stone judgments match history. The verified comparator corrects the brief’s mistaken description of Souter as dissenting in part: his actual position was concurrence in part and in the judgment. The new seven-Justice bounded common opinion and four-Justice contextual section follow independently tested joins; they do not transform a historical plurality into a categorical majority. Thomas’s unsupported ancillary political-purpose account is omitted. No controlling historical judgment departure is adopted. All proposed joins and refusals are recorded in the assignment section, with severance or the specific substantive change needed; Ginsburg’s reserved hypothetical conditioned order supplies no current affirmative vote.
+
+**Historical departure:** The Court expressly adopts a nine-Justice claimant-specific recurring-permit holding under Weinstein, whereas the historical report reached the merits without a separate express mootness holding. The eight associates’ frozen same-claimant recurrence analysis and Stone’s approved merits reach rest on this permit’s short duration and these applicants’ continuing annual access dispute; recurrence involving other speakers alone does not suffice. Stone’s Part I and Parts II–III consequently state the independently supported common threshold and bounded access grounds, while the four-Justice contextual section remains distinct; no historical judgment vote or expired-permit remedy changes.
 
 ## Public Projection
 

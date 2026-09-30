@@ -131,7 +131,7 @@ The Eleventh Circuit’s judgment reversing State summary judgment on Count II i
 | Part II: protected private access; categorical defense; bounded judgment and mandate | Souter; Stone, O’Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer join | Court, 8 |
 | Part III: contextual distinction between private expression and governmental religion | Souter; Stone, O’Connor, Ginsburg, Breyer join | Court, 5 at the stated general rule; no finding that an unspecified future sign is adequate |
 | Part IV: tailoring and additional attribution inquiry in actual relief proceedings | Souter; O’Connor, Ginsburg, Breyer join | Four-Justice reasoning and proposed additional instruction, not a controlling mandate |
-| Concurrence in part and in the judgment | Stone; no joins | Explains approved contextual application and neutral-rule permission without joining Part IV’s additional requirement |
+| Concurrence in part and in the judgment | Stone; no joins | Explains contextual application and neutral-rule permission without joining Part IV’s additional requirement |
 | Concurrence in part and in the judgment | Scalia; Kennedy and Thomas join | Private equal-access ground, without a disclaimer prerequisite or endorsement inquiry |
 | Concurrence in part and in the judgment | Ginsburg; no joins | Explains distinction between this summary-judgment reversal and Pinette’s already entered injunction; joins Parts I–IV as specified |
 | Dissent from the merits judgment | Stevens; no joins | Joins Part I only; would restore State summary judgment on Count II |

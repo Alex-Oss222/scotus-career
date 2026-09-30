@@ -1,7 +1,7 @@
 **Case and dockets:** National Private Truck Council, Inc. v. Oklahoma Tax Commission; No. 94-688
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** Oklahoma Supreme Court affirmed on federal equitable relief and §1988 fees, 9–0; tax invalidity and state-law refunds remain undisturbed.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering-law validation
 
@@ -153,7 +153,6 @@ Final vote audit: all nine affirm both federal components and join both remedial
 
 Verbatim selected opening register components, checked against current holdings at their exact dates. These do not override intervening current-term Records. Actual entering-law slices and effective public Records remain the authorities. No material conflict was found and no frozen commitment is altered by this validation.
 
-#
 
 ## Public Projection
 

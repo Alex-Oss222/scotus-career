@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Williams, No. 94-395.
 **Event and date:** Merits decision, 1995-04-25; October Term 1994, chunk 5.
 **Result:** Affirmed, 7–2, as to refund jurisdiction; no refund awarded. The express-waiver ground has seven votes, and the taxpayer-definition alternative has five.
-**Version / lineage:** Completed, preserved Canonical Decision Record; initial adjudication, supersedes nothing.
+**Version / lineage:** Completed, preserved Canonical Decision Record; initial adjudication, supersedes nothing. Close-audit correction 2026-09-30 (F08, F09): departure label and current preservation/validation status; replaces the prior wording in place without a new adjudication.
 
 ## Event, posture, and record
 
@@ -150,7 +150,9 @@ Stone's record language that the collection injury and lack of an adequate route
 
 The taxpayer-definition alternative remains separately identified because it has five independent associate joins without Stone or Scalia. Stone's silence about that ground is not a silent claim component and does not activate the standing fallback. No broader whole-opinion join is inferred from his affirmance. Scalia's short concurrence records his necessity reservation without changing the five-Justice alternative's force. No Marks aggregation is needed.
 
-No associate departs from the historical Williams disposition or the final proposition-level joins established in the complete comparator. Stone's affirmance changes the historical overall margin and adds a vote to the primary controlling ground, but no historical vote is mechanically transferred to him. Ginsburg's authorship below follows fit, not her historical assignment. No Historical departure label is needed for an associate; no later historical predicate is expressly displaced.
+No associate departs from the historical Williams disposition or the final proposition-level joins established in the complete comparator. Stone's affirmance changes the historical overall margin and adds a vote to the primary controlling ground, but no historical vote is mechanically transferred to him. Ginsburg's authorship below follows fit, not her historical assignment. No later historical predicate is expressly displaced.
+
+**Historical departure:** Stone-Zsela’s approved compelled-payment/claimed-property construction of the express refund waiver replaces the historical Chief’s jurisdictional dissent, adding Stone to the primary controlling ground and producing seven votes for that rule and affirmance. He does not join the taxpayer-definition alternative, which retains five associate votes; each associate’s reconciled historical disposition and join remain unchanged.
 
 ### Assignment and final compatibility
 
@@ -162,7 +164,7 @@ Research cutoff: immediately before 1995-04-25. Later law supplies no adjudicati
 
 The statutory provisions and competing positions are documented in the joint appendix and complete merits briefs in [the Records and Briefs collection](https://archive.org/details/micro_IA40385013_0558). Williams v. United States, 24 F.3d 1143, supplies the jurisdictional reversal and remand; the district opinion and June 8, 1992 hearing supply the threshold posture. [Dalm, 494 U.S. 596](https://tile.loc.gov/storage-services/service/ll/usrep/usrep494/usrep494596/usrep494596.pdf), supplies the connected filing rules, and [Stahmann, 305 U.S. 61](https://tile.loc.gov/storage-services/service/ll/usrep/usrep305/usrep305061/usrep305061.pdf), supplies the limited nonvolunteer analogy. The Government disputes the asserted scope of its concession and descriptions of advice about substitute collateral. The source differences concerning acquisition dates and payment components remain unresolved because jurisdiction does not depend on a fixed amount or a present finding of lien invalidity. No levy, substitute-fund agreement, or guaranteed discharge is established.
 
-The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. This is an unpreserved review draft. Assembly checked the named vote sets, exact partial joins, statutory qualifications, source cutoff, and private/public holding identity. Root substantive review is complete; repository verification, preservation, and chunk validation remain outstanding. Only validated Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
+The scoped frozen handoffs identified in the audit supply the independent non-Stone commitments and historical reconciliation. The final assembly tests the approved Section II against those commitments. This is a completed, preserved and validated Canonical Decision Record. Assembly checked the named vote sets, exact partial joins, statutory qualifications, source cutoff, and private/public holding identity. Root substantive review, Record preservation and chunk validation are complete; see [chunk-five validation](../freeze/OT_1994CHUNK5_VALIDATION.md). Repository verification and commitment remain with the operator. Only validated Record preservation makes this event effective at its stated date; file order does not create a release sequence among uncoordinated same-date peers. The operator retains Git-object and repository-commit verification. Public rendering is a separate task.
 
 ## Public Projection
 

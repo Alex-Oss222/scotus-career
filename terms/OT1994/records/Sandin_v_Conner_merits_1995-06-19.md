@@ -1,7 +1,7 @@
 **Case and dockets:** Sandin v. Conner; No. 93-1911
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** Ninth Circuit affirmed in the reviewed respect and case remanded, 5–4; genuine constraint, meaningful deprivation and process must be determined; no liability finding.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): damaged punctuation and section-symbol cleanup; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering-law validation
 
@@ -137,7 +137,7 @@ Strongest contrary argument: Hewitt recognized substantive-predicate interests, 
 
 Final vote audit: five affirm/remand, four reverse. Sufficient state-entitlement rule has Stone plus Stevens/Ginsburg/Souter/Breyer, five; definitive positive application has four only and no controlling force. Genuine-constraint/significance determinations on remand have five remedial votes, without unanimity of factual assessment.
 
-# Sandin ? severable public alternative-ground join audit
+# Sandin — severable public alternative-ground join audit
 
 **READY bounded compatibility audit.** No Stone supplement, advocacy core, combined brief or private assembly position read. Parent supplied only the public severable proposal quoted below; this audit evaluates that formulation, not an exclusive framework or a final Court coalition. Frozen A neutral/reconciled case87 materials and date-eligible authorities control. No Git.
 
@@ -160,12 +160,12 @@ This support is proposition-level, not inferred from four affirmance votes. Each
 
 ## Record and remedy constraints
 
-Actual ??17-201-7,12,13,16?18 discipline structure, ?19 sanction discretion and ?20 administrator review must be read together. Do not rewrite the guilt direction into an express mandatory acquittal term or call every procedure substantive. The legal construction derives a genuine misconduct predicate from the whole scheme; parties' competing one-way reading must be answered. Thirty-day SHU conditions compared with general population matter; similarity to separately authorized administrative/protective detention does not conclusively eliminate the punitive entitlement. Nine-month-later expungement does not retroactively decide adequate process. Discretionary parole effects do not establish an inevitable sentence extension.
+Actual §§17-201-7,12,13,16–18 discipline structure, §19 sanction discretion and §20 administrator review must be read together. Do not rewrite the guilt direction into an express mandatory acquittal term or call every procedure substantive. The legal construction derives a genuine misconduct predicate from the whole scheme; parties' competing one-way reading must be answered. Thirty-day SHU conditions compared with general population matter; similarity to separately authorized administrative/protective detention does not conclusively eliminate the punitive entitlement. Nine-month-later expungement does not retroactively decide adequate process. Discretionary parole effects do not establish an inevitable sentence extension.
 
 Affirmance permits the existing focused process dispute/remand. Wolff permits witness refusal for irrelevance, lack of necessity or safety/correctional goals. No new factual finding about witnesses, damages, immunity or unrelated amended-complaint claims. Final assembly must articulate the complete sufficient alternative and secure its actual joins at that level; this audit does not assume any unseen Justice's agreement.
 
 
-# Sandin ? severable rule and conditional application supplement
+# Sandin — severable rule and conditional application supplement
 
 READY bounded noStone compatibility audit. Original PUBLIC_PROPOSAL_JOIN_AUDIT remains immutable. Parent supplied only a public sufficient-rule proposal and hypothetical conditional-remand wording, no unseen Justice position. NoGit.
 

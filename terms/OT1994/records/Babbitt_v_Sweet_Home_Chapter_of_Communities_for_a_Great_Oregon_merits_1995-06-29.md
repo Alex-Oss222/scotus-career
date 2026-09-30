@@ -1,7 +1,7 @@
 **Case and dockets:** Babbitt v. Sweet Home Chapter of Communities for a Great Oregon, No. 94-859
 **Event and date:** Merits decision, 1995-06-29; October Term 1994, chunk 8.
 **Result:** 7–2; reverse the facial invalidation and remand.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F08, F12): Stone-caused historical-departure label and empty-heading cleanup; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation, and entering-law validation
 
@@ -121,11 +121,12 @@ Record and bounded projection are durably written; coordinated arithmetic, ident
 
 Frozen non-Stone commitments: Stevens reverses on contextual harm and incidental-taking structure; O'Connor reverses with actual identifiable-animal injury and proximate foreseeable consequences; Kennedy reverses on coordinated statutory structure; Souter reverses on harm's independent role; Ginsburg reverses on enacted authority and bounded injury; Breyer reverses on actual injury and conditional permit flexibility. Each joins I–IV. Scalia and Thomas affirm on the directed-wildlife reading and separate habitat provisions and join the dissent. Their frozen objections and narrower positions are preserved; history confirms each disposition without a changed non-Stone premise. Stone supplies the seventh reversal vote and joins only I, III, IV. Counts: judgment7+2=9; I/III/IV7; II6; O'Connor concurrence1; Stone concurrence1; dissent2. No Marks claim is required. Historical comparator is6–3 with Rehnquist dissenting; Stone's independent reading changes the coalition and statutory authority topology. That is Stone's approved choice, not an unsupported non-Stone departure. No new remedial, omission, scienter, or evidentiary test is adopted. All component joins are final compatible scopes, not inferred historical joins.
 
+**Historical departure:** Stone’s approved independent reading of the ESA’s harm definition and actual-injury limits replaces the historical Chief’s dissent, producing a 7–2 reversal and seven statutory votes in Parts I, III and IV rather than the historical 6–3 disposition. Stone withholds Part II’s Chevron rationale; the six associates’ deference coalition and all eight associates’ judgment positions remain unchanged.
+
 ## Operative Standards and Tests validated at assembly
 
 Verbatim selected opening register components, checked against current holdings at their exact dates. These do not override intervening current-term Records. Actual entering-law slices and effective public Records remain the authorities. No material conflict was found and no frozen commitment is altered by this validation.
 
-#
 
 ## Public Projection
 

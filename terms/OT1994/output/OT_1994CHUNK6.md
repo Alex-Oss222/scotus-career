@@ -495,37 +495,55 @@ State-court proceedings resume on remand for actual reasonableness, excuses and 
 
 Merits decision, 1995-05-30
 
+#### Chronology and Posture
+
 Argued 1995-04-24.
 
 On writ of certiorari to the Fifth Circuit, 29 F.3d 216. The district court denied habeas relief on the merits, but the Fifth Circuit dismissed for lack of custody jurisdiction. The question is whether a prisoner still serving consecutive sentences may challenge the conviction supporting a sentence already served first in the continuous series. Garlotte’s three-year marijuana sentence preceded concurrent life sentences for two murders; the first conviction continues to affect the end of aggregate custody.
 
 Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated at argument and decision. All nine participate; no case-specific nonparticipation is established.
 
+#### Judgment
+
 Fifth Circuit reversed and remanded, 8–1.
 
-Custody jurisdiction; Reverse, 8–1; Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer; Thomas; Remand for remaining procedural and merits review.
+| Component | Disposition and vote | Supporting Justices | Opposing Justice | Remedy |
+|---|---|---|---|---|
+| Custody jurisdiction | Reverse, 8–1 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Thomas | Remand for remaining procedural and merits review |
 
-The Fifth Circuit’s jurisdictional dismissal is reversed. On remand the remaining procedural and merits questions, including lawful review of the district court’s merits denial, must be addressed. The Court does not invalidate the marijuana conviction, disturb the murder convictions, award a writ, or order immediate release.
+#### Opinion Topology
 
-Opinion of the Court; Ginsburg; Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Breyer; Reverse and remand; Entire aggregate-custody holding and remedial limits.
-Dissent; Thomas; No other Justice; Affirm jurisdictional dismissal; Particular-conviction custody objection.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Breyer | Reverse and remand | Entire aggregate-custody holding and remedial limits |
+| Dissent | Thomas | No other Justice | Affirm jurisdictional dismissal | Particular-conviction custody objection |
 
-A prisoner serving a continuous unexpired series of consecutive sentences remains in custody under the earlier conviction when invalidating it would advance release from the aggregate term, although its first segment has been served. This establishes the custody threshold, leaving the conviction’s validity and remaining procedural and merits conditions for review.
+#### Controlling Propositions and Authority
 
-Ginsburg’s Opinion of the Court, joined by Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter and Breyer; eight Justices directly support this rule.
+##### Custody under a continuous consecutive series
 
-The Court holds that the order of consecutive sentences does not determine whether present imprisonment permits review. Peyton treats such sentences as an aggregate and allows review before a challenged future segment begins. Its central rule rejects isolation of one segment from the continuous custody that the judgments together produce. The same rule applies when the challenged segment came first: Garlotte remains imprisoned under the consecutive series, and invalidating the marijuana conviction would advance his release date. Maleng excludes reliance on the collateral consequences of a wholly expired independent sentence. It does not require severing this unexpired aggregate at the point its first segment was served. The State’s sentence-specific approach would make jurisdiction turn on sequence even though present confinement and the effect of relief remain the same. The Court decides only custody jurisdiction. It neither finds the marijuana conviction invalid nor awards relief without the procedural and merits review that remains necessary.
+**Holding and operative rule:** A prisoner serving a continuous unexpired series of consecutive sentences remains in custody under the earlier conviction when invalidating it would advance release from the aggregate term, although its first segment has been served. This establishes the custody threshold, leaving the conviction’s validity and remaining procedural and merits conditions for review.
 
+**Authority:** Ginsburg’s Opinion of the Court, joined by Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter and Breyer; eight Justices directly support this rule.
 
+**Controlling explanation:** The Court holds that the order of consecutive sentences does not determine whether present imprisonment permits review. Peyton treats such sentences as an aggregate and allows review before a challenged future segment begins. Its central rule rejects isolation of one segment from the continuous custody that the judgments together produce. The same rule applies when the challenged segment came first: Garlotte remains imprisoned under the consecutive series, and invalidating the marijuana conviction would advance his release date. Maleng excludes reliance on the collateral consequences of a wholly expired independent sentence. It does not require severing this unexpired aggregate at the point its first segment was served. The State’s sentence-specific approach would make jurisdiction turn on sequence even though present confinement and the effect of relief remain the same. The Court decides only custody jurisdiction. It neither finds the marijuana conviction invalid nor awards relief without the procedural and merits review that remains necessary.
 
-Peyton v. Rowe, 391 U.S. 54: extends its aggregate treatment from a future segment to a completed first segment of a still-unexpired consecutive series when invalidation advances release.
-Maleng v. Cook, 490 U.S. 488: distinguishes a wholly expired independent sentence and preserves the rule that collateral consequences alone do not supply custody under that conviction.
+**Precedent treatment:**
+
+- Peyton v. Rowe, 391 U.S. 54: extends its aggregate treatment from a future segment to a completed first segment of a still-unexpired consecutive series when invalidation advances release.
+- Maleng v. Cook, 490 U.S. 488: distinguishes a wholly expired independent sentence and preserves the rule that collateral consequences alone do not supply custody under that conviction.
+
+#### Current-Law Effect
 
 The first sentence in an unexpired continuous consecutive series is not jurisdictionally finished when its conviction still affects duration of present custody. Maleng’s rule for an independently expired sentence remains intact. No jurisdiction rests here solely on collateral consequences after all custody ends. Ordinary habeas procedural and merits requirements remain distinct from this custody determination.
+
+#### Separate Positions Relevant to the Decision
 
 Thomas dissents without joins. He reads § 2254’s custody requirement as demanding custody under the conviction attacked, and treats the completed marijuana sentence as expired for that purpose. He confines Peyton’s aggregation to a still-unserved sentence, where advance review avoids waiting for its commencement. That purpose, in his view, does not permit reopening an already completed segment merely because success could accelerate eventual release. He invokes Maleng’s limit on expired-conviction review and preserves custody as a statutory condition distinct from remedial usefulness. He would affirm the jurisdictional dismissal and therefore would not reach the marijuana claim’s merits. The Court rejects his sentence-order distinction for this continuous unexpired series; his dissent supplies no controlling limitation.
 
 **Source Notes:** 28 U.S.C. § 2254(a), Peyton v. Rowe, 391 U.S. 54, and Maleng v. Cook, 490 U.S. 488 supply the custody issue; 29 F.3d 216 supplies the jurisdictional judgment and preceding merits denial.
+
+#### Mandate, Remedy, and Stage
 
 The Fifth Circuit’s jurisdictional dismissal is reversed. On remand the remaining procedural and merits questions, including lawful review of the district court’s merits denial, must be addressed. The Court does not invalidate the marijuana conviction, disturb the murder convictions, award a writ, or order immediate release.
 
@@ -557,7 +575,7 @@ All six exceptions OVERRULED; 9-0 on Wyoming's four exceptions; 8-1 on both fede
 | Horse Creek exception | Overruled 9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Connected allegation proceeds, no entitlement |
 | United States Fourth Cross-Claim exception | Overruled 8-1; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas sustains | Decree effects only |
 | Nebraska Fourth Cross-Claim exception | Overruled 8-1; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas sustains | Same bounded scope |
-| Remaining leave |9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Nebraska I-III allowed, IV denied without prejudice; Wyoming Second-Fourth Counterclaims and Second-Fifth Cross-Claims allowed within all limits |
+| Remaining leave other than Fourth Cross-Claim | 9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Nebraska I-III allowed, IV denied without prejudice; Wyoming Second-Fourth Counterclaims and Second, Third and Fifth Cross-Claims allowed within all limits. Fourth Cross-Claim admission remains 8-1 under the two exception rows above; Thomas opposes it. |
 
 Reject First Counterclaim and First Cross-Claim insofar as they seek the mass ceiling. Preserve discrete below-Tri-State calls, priority bypasses and relevant waste defenses not dependent on that formula. Glendo enforcement/modification, Laramie changed conditions and carriage-loss administration return to the Master. No new water allocation, release quantity, revised formula, seasonal award, damages, priority or operating injunction issues; no injury or breach is found.
 
@@ -640,9 +658,9 @@ Reject First Counterclaim and First Cross-Claim insofar as they seek the mass ce
 
 ##### Exact leave and next stage
 
-**Holding and operative rule:** Permit Nebraska Counts I-III and Wyoming Second-Fourth Counterclaims and Second-Fifth Cross-Claims within the preceding limits; deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
+**Holding and operative rule:** Permit Nebraska Counts I-III, Wyoming Second-Fourth Counterclaims and Wyoming Second, Third and Fifth Cross-Claims unanimously within the preceding limits; permit the Fourth Cross-Claim within its decree-effects limit by eight votes, with Thomas opposed. Deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
 
-**Authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly join this proposition.
+**Authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join the other leave dispositions and next-stage directions. Only Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer join admission of the Fourth Cross-Claim; Thomas dissents from that admission.
 
 **Controlling explanation:** The Court holds that an express pleading disposition defines the next stage without deciding its outcome. The April 20, 1993 decision supplies different demands for enforcing an established right and modifying an allocation. Its use of Rule 56 under Rule 17.2 is a guide to summary disposition, not a rule turning amendments into proof. This event grants bounded leave, not summary judgment on new allegations. The report's unexcepted Glendo, Laramie and carriage-loss recommendations receive an express procedural disposition alongside contested claims. Absence of an exception and the amendment label prove no substantive prerequisite. Nebraska Counts I-III and specified Wyoming pleadings may proceed under applicable conditions; Count IV's broader seasonal theory remains withheld without prejudice. No numerical Glendo release or revised carriage-loss formula is reconstructed. The Master must receive evidence within admitted scope, preserving factual, legal and remedial defenses; the original action remains open.
 
