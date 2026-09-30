@@ -6,8 +6,8 @@ This is a factual source checkpoint for Arizona v. Evans, No. 93-1660, at the Ma
 
 The existing bounded B source directory has the Arizona Supreme Court opinion, but no Evans party filing or hearing transcript. The exact Internet Archive Records and Briefs item is [micro_IA40385013_0509](https://archive.org/details/micro_IA40385013_0509). Do not use its landing-page description as a neutral source; open the individual predecision documents directly.
 
-- [Joint Appendix PDF](../sources/chunk3-b-evans-supplement/Evans_joint_appendix.pdf), with [complete IA OCR](../sources/chunk3-b-evans-supplement/Evans_joint_appendix.txt): [direct primary PDF](https://archive.org/download/micro_IA40385013_0509/micro_IA40385013_0509%2005.%20Joint%20Appendix.pdf).
-- [Petitioner's Brief PDF](../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.pdf), with [complete IA OCR](../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.txt): [direct primary PDF](https://archive.org/download/micro_IA40385013_0509/micro_IA40385013_0509%2006.%20Petitioners%20Brief.pdf).
+- [Joint Appendix PDF](../sources/chunk3-b-evans-supplement/Evans_joint_appendix.txt), with [complete IA OCR](../sources/chunk3-b-evans-supplement/Evans_joint_appendix.txt): [direct primary PDF](https://archive.org/download/micro_IA40385013_0509/micro_IA40385013_0509%2005.%20Joint%20Appendix.pdf).
+- [Petitioner's Brief PDF](../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.txt), with [complete IA OCR](../sources/chunk3-b-evans-supplement/Evans_petitioners_brief.txt): [direct primary PDF](https://archive.org/download/micro_IA40385013_0509/micro_IA40385013_0509%2006.%20Petitioners%20Brief.pdf).
 
 Both PDFs and their complete OCR were downloaded. The collection context has checked the Joint Appendix's paired testimony at printed page 37, but has not yet read these two newly downloaded documents in full. They are therefore supplied for full reading, not certified as fully audited here. The page references below are printed Appendix pages, not PDF page numbers. The hearing transcript also carries its own bracketed page numbers.
 

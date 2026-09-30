@@ -1,0 +1,24 @@
+{
+  "case": "State of Oklahoma ex rel. Oklahoma Tax Commission v. Jefferson Lines, Inc.",
+  "docket": "93-1677",
+  "documents": [
+    {
+      "file": "petitioner.txt",
+      "party": "Oklahoma Tax Commission",
+      "document_type": "Brief for the Petitioner",
+      "source_citation": "Brief for the Petitioner, State of Oklahoma ex rel. Oklahoma Tax Commission v. Jefferson Lines, Inc., No. 93-1677 (U.S. Supreme Court, 1994)."
+    },
+    {
+      "file": "respondent.txt",
+      "party": "Jefferson Lines, Inc.",
+      "document_type": "Brief on the Merits for the Respondent",
+      "source_citation": "Brief on the Merits for the Respondent Jefferson Lines, Inc., State of Oklahoma ex rel. Oklahoma Tax Commission v. Jefferson Lines, Inc., No. 93-1677 (U.S. Supreme Court, September 9, 1994)."
+    },
+    {
+      "file": "joint_appendix.txt",
+      "party": "Joint submission",
+      "document_type": "Joint Appendix",
+      "source_citation": "Joint Appendix, State of Oklahoma ex rel. Oklahoma Tax Commission v. Jefferson Lines, Inc., No. 93-1677 (U.S. Supreme Court, filed August 10, 1994)."
+    }
+  ]
+}
