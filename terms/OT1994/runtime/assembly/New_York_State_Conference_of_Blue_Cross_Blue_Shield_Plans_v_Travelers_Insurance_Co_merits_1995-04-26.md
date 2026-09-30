@@ -1,3 +1,5 @@
+> **Superseded historical assembly draft.** Retained only as historical drafting material. Its Morales passage reflects the pre-correction result and is not current law. Morales's current, corrected result is in the [current Canonical Decision Record](../../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) per correction commit `d086219b424d812aaa837fda9533629c69e33833`.
+
 **Case and dockets:** New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co.; Pataki v. Travelers Insurance Co.; Hospital Association of New York State v. Travelers Insurance Co., Nos. 93-1408, 93-1414 and 93-1415.
 **Event and date:** Merits decision, 1995-04-26; October Term 1994, chunk 5.
 **Result:** Reverse in part, vacate in part, and remand in all three dockets, 9–0: reverse the decided commercial-insurance and HMO ERISA surcharge rulings and dissolve the associated ERISA relief; vacate any reviewed direct-self-funded adjudication and associated ERISA surcharge protection while remanding that live reserved claim. Independent FEHBA and Actuarial Letter dispositions remain undisturbed.

@@ -1,3 +1,5 @@
+> **Superseded historical assembly draft.** Retained only as historical drafting material. Its Morales passage reflects the pre-correction result and is not current law. Morales's current, corrected result is in the [current Canonical Decision Record](../../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) per correction commit `d086219b424d812aaa837fda9533629c69e33833`.
+
 **Case and dockets:** United States v. Lopez, No. 93-1260.
 **Event and date:** Merits decision, 1995-04-26; October Term 1994, chunk 5.
 **Result:** Affirm the Fifth Circuit’s judgment reversing the original §922(q)(1)(A) conviction and directing dismissal, 5–4. The dismissal remains in force.
