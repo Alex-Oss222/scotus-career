@@ -57,11 +57,12 @@ Follow Engine §14. Sources in order of preference:
 
 1. The Internet Archive's Records and Briefs collection (`us-supreme-court`; one item per docket, holding the petition, briefs, joint appendix, and opinion as text PDFs). Check this first and check it thoroughly — search its own listing (browsable at https://archive.org/details/us-supreme-court) by docket number and case name, not just by guessing a URL, and read the full text of the petition, both merits briefs, and the joint appendix before concluding a specific fact or transcript citation isn't there; a citation to a lower-numbered page range is often quoted directly in a party's brief even when the joint appendix itself is short. For terms from roughly 1990 through 2006, expect it to hold the overwhelming majority of cases (roughly 95%, by observed experience) with occasional real gaps; from 2007 onward its coverage is comprehensive. Do not spend disproportionate effort re-searching this collection for the rare genuinely missing case — confirm the docket has no matching item, then move to source 2.
 2. CourtListener and the Caselaw Access Project (courtlistener.com search and API; static.case.law) — the judgment below in every case, and any earlier opinion in full text, including each Justice's date-eligible opinions and joins.
-3. loc.gov — the United States Reports; and the 1988 edition of the United States Code for statutory text as it stood in 1991.
-4. supremecourt.gov — opinions, orders, Journals, transcripts. Strongest from 2007 onward.
-5. govinfo.gov — the 1994 edition of the United States Code (the closest full edition after 1991), the Statutes at Large, and the Federal Register from 1994; congress.gov for legislative history.
-6. Cornell LII and Oyez for opinions and argument audio.
-7. HathiTrust (babel.hathitrust.org) only as a last resort, for a state code or session law whose exact 1991 text matters and is not quoted in the opinion or briefs.
+3. openjurist.org (`openjurist.org/<volume>/<reporter>/<page>`, e.g. `openjurist.org/514/us/549`) — a good supplement to source 2 for full opinion text at both the Supreme Court and lower-court level, with useful citation-network context (later decisions citing the case, what it relies on) alongside the opinion itself.
+4. loc.gov — the United States Reports; and the 1988 edition of the United States Code for statutory text as it stood in 1991.
+5. supremecourt.gov — opinions, orders, Journals, transcripts. Strongest from 2007 onward.
+6. govinfo.gov — the 1994 edition of the United States Code (the closest full edition after 1991), the Statutes at Large, and the Federal Register from 1994; congress.gov for legislative history.
+7. Cornell LII and Oyez for opinions and argument audio.
+8. HathiTrust (babel.hathitrust.org) only as a last resort, for a state code or session law whose exact 1991 text matters and is not quoted in the opinion or briefs.
 
 Do not rely on Justia (it blocks automated requests) or on any aggregator alone. Send a browser User-Agent when a site refuses the default one. Download a PDF and read its text in full; do not skim the first pages and infer the rest. Scholarship and commentary are context only, never authority, and anything written after the event's date is not in-world. Record the research cutoff in every Decision Record.
 
