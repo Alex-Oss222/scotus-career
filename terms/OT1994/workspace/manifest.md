@@ -55,7 +55,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-04-19 | OT_1994CHUNK5 | Stone v. Immigration and Naturalization Service | 93-1199 | MERITS | Merits decision | Completed: Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md |
 | 1995-04-19 | OT_1994CHUNK5 | Kyles v. Whitley | 93-7927 | MERITS | Merits decision | Completed: Kyles_v_Whitley_merits_1995-04-19.md |
 | 1995-04-19 | OT_1994CHUNK5 | Rubin v. Coors Brewing Co. | 93-1631 | MERITS | Merits decision | Completed: Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md |
-| 1995-04-25 | OT_1994CHUNK5 | California Department of Corrections v. Morales | 93-1462 | MERITS | Merits decision | Completed: California_Department_of_Corrections_v_Morales_merits_1995-04-25.md |
+| 1995-04-25 | OT_1994CHUNK5 | California Department of Corrections v. Morales | 93-1462 | MERITS | Merits decision | Completed: California_Department_of_Corrections_v_Morales_merits_1995-04-25.md; affirmed, 5–4; offense-date annual consideration preserved |
 | 1995-04-25 | OT_1994CHUNK5 | United States v. Williams | 94-395 | MERITS | Merits decision | Completed: United_States_v_Williams_merits_1995-04-25.md |
 | 1995-04-26 | OT_1994CHUNK5 | United States v. Lopez | 93-1260 | MERITS | Merits decision | Completed: United_States_v_Lopez_merits_1995-04-26.md |
 | 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Completed: New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md |

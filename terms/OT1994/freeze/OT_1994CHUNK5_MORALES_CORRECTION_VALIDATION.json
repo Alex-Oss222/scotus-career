@@ -1,0 +1,31 @@
+{
+  "checks": {
+    "other_eleven_render_input_blocks_byte_identical": true,
+    "other_existing_public_entries_and_surrounding_output_byte_identical": true,
+    "original_public_entry_boundaries_preserved": 11,
+    "workspace_only_three_morales_sections_and_completion_row_changed": true,
+    "ledger_and_manifest_only_morales_row_changed": true,
+    "record_public_projection_generated_render_input_identity": true,
+    "controlling_explanations_preserved_and_120_to_200_words": [
+      172,
+      167
+    ],
+    "judgment_five_plus_four_and_two_majority_holdings": true,
+    "new_record_local_links_resolve": true,
+    "only_eight_existing_paths_changed_all_within_ot1994": [
+      "terms/OT1994/output/OT_1994CHUNK5.md",
+      "terms/OT1994/records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md",
+      "terms/OT1994/render-inputs/OT_1994CHUNK5.md",
+      "terms/OT1994/runtime/OT_1994CHUNK5_STONE.md",
+      "terms/OT1994/workspace/continuity.md",
+      "terms/OT1994/workspace/ledger.md",
+      "terms/OT1994/workspace/manifest.md",
+      "terms/OT1994/workspace/neutral-projection.md"
+    ],
+    "all_other_canonical_records_and_state_foundation_briefs_byte_identical": true
+  },
+  "git_commands_run": false,
+  "git_verification": "Deferred to operator; no commit hash verified",
+  "source_limit": "No cohort maximum-deferral statistic established; actual Morales maximum deferral supplies the record-bounded application.",
+  "preexisting_render_scope": "The original chunk output has eleven event entries while the Render Input has twelve completed events. Robertson has no entry in the original output. This correction preserves that existing scope and changes Morales only; Robertson was not rendered or altered."
+}
