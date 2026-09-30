@@ -1,0 +1,62 @@
+{
+  "matter": "United States v. Robertson, No.94-251",
+  "status": "premise unverified; stopped; no adjudication",
+  "archive_item": "https://archive.org/details/micro_IA40385013_0551",
+  "official_argument": "https://www.supremecourt.gov/pdfs/transcripts/1994/94-251_02-27-1995.pdf",
+  "files": [
+    {
+      "path": "tmp\\ot1994_chunk5_c\\robertson_2.pdf",
+      "bytes": 11388257,
+      "sha256": "988c1a3369577326b515bd12ab6b91f5a91833d33ad98dc1f143c1f941365363"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\robertson_4.pdf",
+      "bytes": 14933724,
+      "sha256": "d1077fee944480fb797119584e79a7f353ac2bee8934c2749cc2460d266e4881"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\robertson_5.pdf",
+      "bytes": 7547447,
+      "sha256": "0b95671636aa97cbd19d62f60a071697cfd2d45b039a9a351ef25c7d49270919"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\robertson_6.pdf",
+      "bytes": 6461277,
+      "sha256": "4969321031cc1b5897d2b9d1106d630ca33c248ed4981cde409589da9091ea02"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\robertson_7.pdf",
+      "bytes": 3191517,
+      "sha256": "51bbb1930bd7ec155edb4f8cf4825834b68a6d3c0dc59e2741c5b3f7b114762a"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\verification_3._source.pdf",
+      "bytes": 1083368,
+      "sha256": "975c841aec65d1f1ac6e050df9e9181670f44b5ea8a940e838a99b2a981eaec6"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\verification_8._source.pdf",
+      "bytes": 3144168,
+      "sha256": "6a2b332ac73187b14870a717c1fa9a970a2beea7b96064c4955ddd1b9627499a"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\verification_argument.pdf",
+      "bytes": 10490051,
+      "sha256": "af162b1dd0529fe4d67341053d0a989fc82f3aadbff6282cb73d880b0fc197bd"
+    },
+    {
+      "path": "tmp\\ot1994_chunk5_c\\verification_metadata.json",
+      "bytes": 65117,
+      "sha256": "4a49aef713022df79de112d14fc6c5351ace2e79bc6c1adec031b7935123805b"
+    }
+  ],
+  "visual_checks": [
+    "Joint Appendix contents, PDF page 2",
+    "Government petition printed pp.12-13, PDF page 11",
+    "Government merits printed pp.22-23, PDF page 17: Tr.1723, not OCR 1728",
+    "Respondent merits printed pp.2-3, PDF page 7",
+    "Official argument printed p.42, PDF page 44"
+  ],
+  "trial_transcript_pages_available": false,
+  "git_commands_run": false
+}
